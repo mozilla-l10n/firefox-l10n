@@ -44,6 +44,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модули журнала для диагностики вызовов WebRTC
 about-logging-preset-custom-label = Персональная
 about-logging-preset-custom-description = Вручную выбранные модули журнала
+
 # Error handling
 about-logging-error = Ошибка:
 
@@ -57,4 +58,5 @@ about-logging-unknown-profiler-preset = Неизвестная предуста�
 about-logging-unknown-option = Неизвестная настройка about:logging «{ $k }»
 about-logging-configuration-url-ignored = Сетевой адрес конфигурации проигнорирован
 about-logging-file-and-profiler-override = Невозможно одновременно принудительно вывести в файл и переопределить настройки профайлера.
+
 about-logging-configured-via-url = Опция настроена через сетевой адрес

@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Исключения
-    .style = width: 55em
 permissions-window2 =
     .title = Исключения
     .style = min-width: 55em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адрес веб-сайта
     .accesskey = е
+
 permissions-block =
     .label = Блокировать
     .accesskey = л
+
 permissions-disable-etp =
     .label = Добавить исключение
     .accesskey = и
+
 permissions-session =
     .label = Разрешить на сессию
     .accesskey = с
+
 permissions-allow =
     .label = Разрешить
     .accesskey = з
+
 permissions-button-off =
     .label = Отключить
     .accesskey = ю
+
 permissions-button-off-temporarily =
     .label = Временно отключить
     .accesskey = е
+
 permissions-site-name =
     .label = Веб-сайт
+
 permissions-status =
     .label = Состояние
+
 permissions-remove =
     .label = Удалить веб-сайт
     .accesskey = д
+
 permissions-remove-all =
     .label = Удалить все веб-сайты
     .accesskey = в
+
 permission-dialog =
     .buttonlabelaccept = Сохранить изменения
     .buttonaccesskeyaccept = х
+
 permissions-autoplay-menu = По умолчанию для всех веб-сайтов:
+
 permissions-searchbox =
     .placeholder = Поиск по веб-сайту
+
 permissions-capabilities-autoplay-allow =
     .label = Разрешить аудио и видео
 permissions-capabilities-autoplay-block =
     .label = Блокировать аудио
 permissions-capabilities-autoplay-blockall =
     .label = Блокировать аудио и видео
+
 permissions-capabilities-allow =
     .label = Разрешить
 permissions-capabilities-block =
     .label = Блокировать
 permissions-capabilities-prompt =
     .label = Всегда спрашивать
+
 permissions-capabilities-listitem-allow =
     .value = Разрешить
 permissions-capabilities-listitem-block =
     .value = Блокировать
 permissions-capabilities-listitem-allow-session =
     .value = Разрешить на сессию
+
 permissions-capabilities-listitem-off =
     .value = Отключить
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Введите корректное сетево
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Исключения для улучшенной защиты от отслеживания
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Вы отключили защиту на следующих веб-сайтах.
 permissions-exceptions-etp-window2 =
     .title = Исключения для улучшенной защиты от отслеживания
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Вы можете указать, на 
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Исключения — Куки и данные сайтов
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Исключения — Куки и данные сайтов
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Вы можете указать, каки�
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Исключения — Режим «Только HTTPS»
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Исключения — Режим «Только HTTPS»
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Вы можете отключить Р
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Разрешённые веб-сайты — Всплывающие окна
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Разрешённые веб-сайты — Всплывающие окна
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Вы можете указать, каким
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Исключения — Сохранённые логины
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Исключения — Сохранённые логины
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Логины для следующи�
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Разрешённые веб-сайты — Установка дополнений
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Разрешённые веб-сайты — Установка дополнений
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Вы можете указать, каки�
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Параметры — Автовоспроизведение
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Настройки — Автовоспроизведение
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Вы можете указать, какие с
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Настройки — Разрешения на отправку уведомлений
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Настройки — Разрешения на отправку уведомлений
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Это не позволит веб
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Настройки — Разрешения на доступ к местоположению
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Настройки — Разрешения на доступ к местоположению
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Это не позволит веб-с�
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Настройки - Разрешения виртуальной реальности
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Настройки - Разрешения виртуальной реальности
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Это не позволит сайтам, к
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Настройки — Разрешения на доступ к камере
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Настройки — Разрешения на доступ к камере
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Это не позволит веб-са�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Настройки — Разрешения на доступ к микрофону
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Настройки — Разрешения на доступ к микрофону
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Настройки — Разрешения на доступ к динамику
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Следующие сайты запросили выбор устройства вывода звука. Вы можете указать, каким сайтам разрешено выбирать устройство вывода звука.
+
 permissions-exceptions-doh-window =
     .title = Исключения сайтов для DNS через HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не будет использовать безопасный DNS для этих сайтов и их поддоменов.
+
 permissions-doh-entry-field = Введите доменное имя сайта
     .accesskey = м
+
 permissions-doh-add-exception =
     .label = Добавить
     .accesskey = б
+
 permissions-doh-col =
     .label = Домен
+
 permissions-doh-remove =
     .label = Удалить
     .accesskey = л
+
 permissions-doh-remove-all =
     .label = Удалить все
     .accesskey = с

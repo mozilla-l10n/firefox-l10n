@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Логины и пароли
-login-filter =
-    .placeholder = Поиск логинов
-create-login-button = Создать новый логин
+
 about-logins-login-filter =
     .placeholder = Поиск логинов
     .key = F
+
 create-new-login-button =
     .title = Создать новый логин
+
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
 fxaccounts-sign-in-sync-button = Войдите для синхронизации
 fxaccounts-avatar-button =
@@ -114,9 +114,6 @@ login-item-copied-password-button-text = Скопировано!
 login-item-save-changes-button = Сохранить изменения
 login-item-save-new-button = Сохранить
 login-item-cancel-button = Отмена
-login-item-time-changed = Последнее изменение: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Создан: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Последнее использование: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -142,16 +139,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Чтобы изменить
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = изменить сохранённый логин
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Чтобы просмотреть свой пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = показать сохранённый пароль
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Чтобы скопировать свой пароль введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = скопировать сохранённый пароль
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Чтобы экспортировать свои логины, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to export a password in about:logins
@@ -170,6 +170,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Отмена
 confirmation-dialog-dismiss-button =
     .title = Отмена
+
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие нельзя отменить.
 about-logins-confirm-remove-dialog-confirm-button = Удалить
@@ -184,6 +185,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Удалить все
        *[many] Удалить все
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Да, удалить этот логин
@@ -191,6 +193,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Да, удалить эти логины
        *[many] Да, удалить эти логины
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Сохранён { $count } логин. Удалить их все?
@@ -204,6 +207,7 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name }, и всех предупреждений об утечках, появляющихся здесь. Вы не сможете отменить это действие.
        *[many] Это приведет к удалению всех логинов, сохранённых вами в { -brand-short-name }, и всех предупреждений об утечках, появляющихся здесь. Вы не сможете отменить это действие.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Удалить { $count } логин со всех устройств?
@@ -223,8 +227,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Экспорт логинов и паролей
 about-logins-confirm-export-dialog-message = Ваши пароли будут сохранены в виде читаемого текста (например, BadP@ssw0rd), поэтому любой, кто может открыть файл с ними, сможет их просмотреть.
 about-logins-confirm-export-dialog-confirm-button = Экспортировать…
+
 about-logins-alert-import-title = Импорт завершён
 about-logins-alert-import-message = Посмотреть подробную сводку импорта
+
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
 confirm-discard-changes-dialog-confirm-button = Отменить
@@ -237,7 +243,6 @@ about-logins-breach-alert-date = Эта утечка случилась { DATETI
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Перейти на { $hostname }
-about-logins-breach-alert-learn-more-link = Подробнее
 
 ## Vulnerable Password notification
 
@@ -255,6 +260,7 @@ about-logins-vulnerable-alert-learn-more-link = Подробнее
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запись для { $loginTitle } с таким именем пользователя уже существует. <a data-l10n-name="duplicate-link">Перейти к существующей записи?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = При попытке сохранить этот пароль произошла ошибка.
 
@@ -305,12 +311,14 @@ about-logins-import-dialog-items-added =
         [few] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Добавлены новые логины:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
         [few] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
        *[many] <span>Обновлены существующие логины:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Найдены повторяющие логины:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортирован)</span>
@@ -324,6 +332,7 @@ about-logins-import-dialog-items-error =
        *[many] <span>Ошибки:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(не импортированы)</span>
     }
 about-logins-import-dialog-done = Готово
+
 about-logins-import-dialog-error-title = Ошибка импорта
 about-logins-import-dialog-error-conflicting-values-title = Несколько конфликтующих учётных данных для одного логина
 about-logins-import-dialog-error-conflicting-values-description = Например: несколько имён пользователей, паролей, сетевых адресов для одного логина.
@@ -337,8 +346,10 @@ about-logins-import-dialog-error-no-logins-imported = Ни один логин �
 about-logins-import-dialog-error-learn-more = Подробнее
 about-logins-import-dialog-error-try-import-again = Повторить попытку импорта…
 about-logins-import-dialog-error-cancel = Отмена
+
 about-logins-import-report-title = Сводка импорта
 about-logins-import-report-description = Логины и пароли, импортированные в { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

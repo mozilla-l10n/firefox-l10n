@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Перевести эту страницу
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Страница переведена с { $fromLanguage } на { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Идёт перевод
+
 translations-panel-settings-button =
     .aria-label = Управление настройками перевода
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Управление языками
 translations-panel-settings-about = О переводах в { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Всегда переводить с { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Всегда переводить с этого языка
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Никогда не переводить с { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Никогда не переводить с этого языка
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Никогда не переводить этот сайт
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Пожалуйста, подождите…
 translations-panel-translate-cancel =
     .label = Отмена
+
 translations-panel-error-translating = При переводе возникла проблема, пожалуйста, попробуйте ещё раз.
 translations-panel-error-load-languages = Не удалось загрузить языки
 translations-panel-error-load-languages-hint = Проверьте подключение к Интернету и повторите попытку.
 translations-panel-error-load-languages-hint-button =
     .label = Попробовать снова
+
 translations-panel-error-unsupported = Для этой страницы перевод недоступен
 translations-panel-error-dismiss-button =
     .label = Понятно
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = При загрузке языковых файлов возникла проблема, пожалуйста, попробуйте ещё раз.
 translations-manage-error-delete = При удалении языковых файлов произошла ошибка, пожалуйста, попробуйте ещё раз.
 translations-manage-error-list = Не удалось получить список доступных языков для перевода. Обновите страницу, чтобы повторить попытку.
+
 translations-settings-title =
     .title = Настройки перевода
     .style = min-width: 36em

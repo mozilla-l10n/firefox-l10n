@@ -8,39 +8,38 @@ password-quality-meter = Качество пароля
 
 change-device-password-window =
     .title = Сменить пароль
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Устройство защиты: { $tokenName }
 change-password-old = Текущий пароль:
 change-password-new = Новый пароль:
 change-password-reenter = Новый пароль (повторно):
+
 pippki-failed-pw-change = Не удалось изменить пароль.
 pippki-incorrect-pw = Вы ввели некорректный текущий пароль. Попробуйте снова.
 pippki-pw-change-ok = Пароль успешно изменён.
+
 pippki-pw-empty-warning = Ваши сохранённые пароли и закрытые ключи не будут защищены.
 pippki-pw-erased-ok = Вы удалили свой пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Предупреждение! Вы решили не использовать пароль. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Вы работаете в режиме соответствия FIPS. При работе в этом режиме необходимо установить пароль.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Сбросить основной пароль
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Сбросить основной пароль
     .style = min-width: 40em
 reset-password-button-label =
     .label = Сбросить
 reset-primary-password-text = При сбросе основного пароля все сохранённые пароли для веб-сайтов и электронной почты, личные сертификаты и закрытые ключи будут утеряны. Вы действительно хотите сбросить свой основной пароль?
+
 pippki-reset-password-confirmation-title = Сброс основного пароля
 pippki-reset-password-confirmation-message = Ваш основной пароль был сброшен.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Загрузка сертификата
-    .style = width: 46em
 download-cert-window2 =
     .title = Загрузка сертификата
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Внимание: если вы забудете пароль резервной копии сертификата, то потом не сможете восстановить из неё сертификат. Эту информацию следует хранить в безопасном месте.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Защищённая идентификация с использованием токена
-protected-auth-msg = Пожалуйста, пройдите процедуру идентификации, используя токен. Метод идентификации зависит от типа вашего токена.
-protected-auth-token = Токен:
 
 ## Protected authentication alert
 

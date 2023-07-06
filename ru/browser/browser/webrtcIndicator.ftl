@@ -30,6 +30,7 @@ webrtc-item-browser = вкладка
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Неизвестный источник
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Устройства с доступом ко вкладкам
     .accesskey = у
+
 webrtc-sharing-window = Вы предоставляете доступ к другому окну приложения.
 webrtc-sharing-browser-window = Вы предоставляете доступ к { -brand-short-name }.
 webrtc-sharing-screen = Вы предоставляете доступ ко всему своему экрану.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Контроль доступа
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Контроль доступа для «{ $streamTitle }»
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = «{ $streamTitle }» имеет доступ к камере
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -100,6 +103,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] { $tabCount } вкладки имеют доступ к камере
            *[many] { $tabCount } вкладок имеют доступ к камере
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = «{ $streamTitle }» имеет доступ к микрофону
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -109,6 +113,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] { $tabCount } вкладки имеют доступ к микрофону
            *[many] { $tabCount } вкладок имеют доступ к микрофону
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = «{ $streamTitle }» имеет доступ к приложению
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -118,6 +123,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] { $tabCount } вкладки имеют доступ к приложению
            *[many] { $tabCount } вкладок имеют доступ к приложению
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = «{ $streamTitle }» имеет доступ к экрану
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -127,6 +133,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] { $tabCount } вкладки имеют доступ к экрану
            *[many] { $tabCount } вкладок имеют доступ к экрану
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = «{ $streamTitle }» имеет доступ к окну
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +143,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] { $tabCount } вкладки имеют доступ к окну
            *[many] { $tabCount } вкладок имеют доступ к окну
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = «{ $streamTitle }» имеет доступ к вкладке
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -169,7 +177,6 @@ webrtc-allow-share-screen-and-audio-capture = Разрешить { $origin } п�
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к прослушиванию звука этой вкладки?
 webrtc-allow-share-camera-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к вашей камере?
-webrtc-allow-share-microphone-unsafe-delegations = Разрешить { $origin } предоставить { $thirdParty } доступ к вашему микрофону?
 webrtc-allow-share-microphone-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ к вашему микрофону?
 webrtc-allow-share-screen-unsafe-delegation = Разрешить { $origin } предоставить { $thirdParty } доступ на просмотр вашего экрана?
 # "Speakers" is used in a general sense that might include headphones or
@@ -184,6 +191,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Разрешит
 
 webrtc-share-screen-warning = Предоставляйте доступ к экрану только тем сайтам, которым доверяете. Предоставление доступа может позволить поддельным сайтам использовать Интернет от вашего имени и украсть ваши личные данные.
 webrtc-share-browser-warning = Предоставляйте доступ к { -brand-short-name } только тем сайтам, которым доверяете. Предоставление доступа может позволить поддельным сайтам использовать Интернет от вашего имени и украсть ваши личные данные.
+
 webrtc-share-screen-learn-more = Подробнее
 webrtc-pick-window-or-screen = Выберите окно или экран
 webrtc-share-entire-screen = Во весь экран
@@ -220,6 +228,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Запомнить это решение
 webrtc-mute-notifications-checkbox = Отключить уведомления веб-сайтов при предоставлении доступа
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не может предоставить постоянный доступ к вашему экрану.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не может предоставить постоянный доступ к звуку вашей вкладки без конкретного запроса.
 webrtc-reason-for-no-permanent-allow-insecure = Ваше соединение с этим сайтом не защищено. Чтобы защитить вас, { -brand-short-name } разрешит доступ только до конца текущей сессии.

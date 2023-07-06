@@ -44,6 +44,7 @@ url-classifier-debug-sb-modules = Модули лога безопасного �
 url-classifier-debug-modules = Текущие модули логирования
 url-classifier-debug-sbjs-modules = Лог JS безопасного веб-сёрфинга
 url-classifier-debug-file = Текущий файл лога
+
 url-classifier-trigger-update = Запустить обновление
 url-classifier-not-available = недоступно
 url-classifier-disable-sbjs-log = Отключить лог JS безопасного веб-сёрфинга
