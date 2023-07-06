@@ -36,9 +36,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sciòrti da { -brand-shorter-name }
+
 menu-about =
     .label = Informaçioin in sce { -brand-shorter-name }
     .accesskey = I
@@ -221,8 +223,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Segnalibbri
     .accesskey = b
-menu-bookmark-edit =
-    .label = Cangia segnalibbro
 menu-bookmarks-all-tabs =
     .label = Azonzi tutti i feuggi a-i segnalibbri…
 menu-bookmarks-toolbar =

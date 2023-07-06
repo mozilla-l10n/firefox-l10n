@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Arvi
     .accesskey = A
-synced-tabs-context-open-in-new-tab =
-    .label = Arvi inte 'n neuvo feuggio
-    .accesskey = f
-synced-tabs-context-open-in-new-window =
-    .label = Arvi inte 'n neuvo barcon
-    .accesskey = f
-synced-tabs-context-open-in-new-private-window =
-    .label = Arvi inte 'n neuvo barcon anònimo
-    .accesskey = n
-synced-tabs-context-bookmark-single-tab =
-    .label = Azonzi a-i segnalibbri…
-    .accesskey = s
 
 ##
 

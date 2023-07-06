@@ -9,6 +9,7 @@
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -46,10 +47,13 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 migration-select-all-option-label = Seleçionn-a tutto
 migration-bookmarks-option-label = Segnalibbri
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Segnalibbri
+
 migration-history-option-label = Stöia da navegaçion
+
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -64,7 +68,9 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] Schedaio TSV
     }
+
 migration-bookmarks-from-file = Segnalibbri
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -72,9 +78,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Documento HTML
        *[other] Schedaio HTML
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Schedaio JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -85,6 +93,7 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } segnalibbro
        *[other] { $newEntries } segnalibbri
     }
+
 migration-import-button-label = Inpòrta
 migration-choose-to-import-from-file-button-label = Inpòrta da Schedaio
 migration-import-from-file-button-label = Seleçionn-a schedaio
@@ -103,6 +112,8 @@ migration-continue-button-label = Vanni avanti
 
 migration-safari-password-import-skip-button = Sâta
 migration-safari-password-import-select-button = Seleçionn-a schedaio
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -113,3 +124,10 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } segnalibbro
        *[other] { $quantity } segnalibbri
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+

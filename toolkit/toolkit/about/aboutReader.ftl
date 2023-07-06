@@ -4,12 +4,14 @@
 
 about-reader-loading = Carego…
 about-reader-load-error = Inposcibile leze l’articolo da pagina
+
 about-reader-color-scheme-light = Ciæo
     .title = Conbinaçion de tinte ciæa
 about-reader-color-scheme-dark = Scuo
     .title = Conbinaçion de tinte scua
 about-reader-color-scheme-sepia = Sepia
     .title = Conbinaçion de tinte sepia
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

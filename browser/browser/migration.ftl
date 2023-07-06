@@ -123,3 +123,4 @@ browser-data-session-checkbox =
     .label = Barcoin e feuggi
 browser-data-session-label =
     .value = Barcoin e feuggi
+

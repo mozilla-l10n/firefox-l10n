@@ -27,6 +27,7 @@ webrtc-item-browser = feuggio
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origine scònosciua
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Gestisci condivixon
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Gestisci condivixon con “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Fòtocamera condiviza con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -76,6 +78,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Fòtocamera condiviza con { $tabCount } feuggio
            *[other] Fòtocamera condiviza con { $tabCount } feuggi
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Micròfono condivizo con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -84,6 +87,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Micròfono condivizo con { $tabCount } feuggio
            *[other] Micròfono condivizo con { $tabCount } feuggi
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Aplicaçion condiviza con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -92,6 +96,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Aplicaçion condiviza con { $tabCount } feuggio
            *[other] Aplicaçion condiviza con { $tabCount } feuggi
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Schermo condivizo con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -100,6 +105,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Schermo condivizo con { $tabCount } feuggio
            *[other] Schermo condivizo con { $tabCount } feuggi
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Barcon condivizo con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -108,6 +114,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Barcon condivizo con { $tabCount } feuggio
            *[other] Barcon condivizo con { $tabCount } feuggi
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Feuggio condivizo con “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -154,6 +161,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Aregòrda decixon
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } o peu proibî l'acesso permanente a-o teu schermo.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } o no peu permette l'acesso permanente a l'òudio do feuggio sensa domandate quæ feuggio condividde.
 webrtc-reason-for-no-permanent-allow-insecure = A conoscion a sto scito a no l'é segua. Pe protezite, { -brand-short-name } o te faiâ acede solo sta vòtta chi.

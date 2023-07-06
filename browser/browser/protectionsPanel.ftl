@@ -65,3 +65,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Anulla
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Manda Report
+
+# Cookie Banner Handling
+

@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Descarego o certificato
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Descarego o certificato
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Inportante: Se ti t'ascòrdi a paròlla segreta di certi
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Aotenticaçion protezua dò-u Token
-protected-auth-msg = Pe piaxei aotenticate a-o Token.
-protected-auth-token = Token:
+## Protected authentication alert
+

@@ -146,7 +146,3 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
     .label = Serviçio push
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Processo prinçipâ
-

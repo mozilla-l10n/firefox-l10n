@@ -21,10 +21,6 @@ certmgr-mine = Ti gh'é sti certificati da ste organizaçioin che te identifican
 certmgr-people = Ti gh'é sti certificati che identifican ste personn-e
 certmgr-ca = Ti gh'é sti certificati inti schedai che identifican ste aotoritæ
 
-certmgr-edit-ca-cert =
-    .title = Cangia e inpostaçioin de fiduccia do certificato CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Cangia e inpostaçioin de fiduccia do certificato CA
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Sto certificato o peu identificâ email.
 
-certmgr-delete-cert =
-    .title = Scancella certificato
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Scancella certificato
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Durata de vitta
 
 certmgr-token-name =
     .label = Aparato de seguessa
