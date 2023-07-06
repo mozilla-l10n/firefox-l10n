@@ -17,6 +17,8 @@ a11y-title = Aksesibilidad
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

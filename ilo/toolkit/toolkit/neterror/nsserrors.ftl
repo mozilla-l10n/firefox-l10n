@@ -75,6 +75,7 @@ ssl-error-rx-malformed-new-session-ticket = Inawat ti SSL ti pannakitulag a mens
 ssl-error-decompression-failure = Inawat ti SSL ti nakasensen a rehistro a saan a mawarwar.
 ssl-error-unsafe-negotiation = Pinadas ti kapada ti pannakitulag iti daan a wagas (madanarsa).
 ssl-error-rx-unexpected-uncompressed-record = Inawat ti SSL ti napettat a nakawarwar a rehistro.
+
 sec-error-library-failure = Napaay ti biblioteka ti seguridad.
 sec-error-bad-data = biblioteka ti seguridad: naawat ti madi a datos.
 sec-error-invalid-time = Madi ti pormato ti kawar ti panawen.
@@ -95,7 +96,6 @@ sec-error-no-recipient-certs-query = Saan a nakakripta: awan kadakayo dagiti ser
 sec-error-not-a-recipient = Saan a maidekripta: saankayo ti mangaw-awat, wenno saan a nabirokan ti pasang a sertipiko ken napakni a tulbek.
 sec-error-pkcs7-bad-signature = Napaay ti pannakapaneknek ti pirma: awan ti nabirokan a nangipirma, addu la unay ti nangipirma, wenno saan a maiparbeng wenno narukop ti datos.
 sec-error-decryption-disallowed = Saan a maidekripta: saan a napalubosan nga algoritmo wenno kadakkel ti tulbek ket ti pagaramatna a pangikripta.
-xp-sec-fortezza-bad-pin = Saan a maipateg ti PIN
 sec-error-no-krl = Saan a nabirokan ti KRL agpaay iti a sertipiko daytoy a purok Web.
 sec-error-krl-expired = Nagpaso ti KRL agpaay iti sertipiko daytoy a purok Web.
 sec-error-revoked-key = Nawaswas ti tulbek agpaay iti sertipiko daytoy a purok Web.
@@ -135,3 +135,5 @@ sec-error-libpkix-internal = Rimsua ti nayuneg a kammali ti Libpkix bayat ti pan
 sec-error-pkcs11-device-error = Nagsubli ti PKCS #11 a module iti CKR_DEVICE_ERROR. Kayat a sawen nga rimsua ti problema iti tanda wenno sawang.
 sec-error-bad-info-access-method = Adda di-naammuan a pamuspusan a pangaramat iti damdamag iti anay ti sertipiko.
 sec-error-crl-import-failed = Rimsua ti kammali itay pinadas ti pannakaiyangkat iti CRL.
+
+xp-sec-fortezza-bad-pin = Saan a maipateg ti PIN

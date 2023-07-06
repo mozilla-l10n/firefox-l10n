@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Baro nga Etiketa
+
 tabbrowser-menuitem-close =
     .label = Close
 
@@ -35,4 +36,6 @@ tabbrowser-menuitem-close =
 
 
 ## Ctrl-Tab dialog
+
+## Tab manager menu buttons
 

@@ -43,5 +43,5 @@ set-password-reminder = Importante: No malipatanyo ti kontrasenias ti pannakatip
 
 ## Protected Auth dialog
 
-protected-auth-msg = Agpaneknekkayo kadaytoy a pagtandaanan. Agdepende ti wagas ti panagpaneknek iti kita ti pagtandaananyo.
-protected-auth-token = Pagtandaanan:
+## Protected authentication alert
+

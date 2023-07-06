@@ -46,3 +46,4 @@ browser-data-session-checkbox =
     .label = Tawa ken Etiketa
 browser-data-session-label =
     .value = Tawa ken Etiketa
+

@@ -4,5 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (awan titulo)
+
 places-bookmarks-restore-filter-name = JSON
+
 places-bookmarks-export = Iluas ti Intar ti Pannanda

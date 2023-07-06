@@ -18,6 +18,7 @@ cert-error-untrusted-default = Saan nga aggapu ti sertipiko iti natalkan a sipud
 
 connectionFailure-title = Saan a makisilpo
 deniedPortAccess-title = Nagawid daytoy a pagtaengan
+
 generic-title = Saan a matungpal ti dawat.
 netInterrupt-title = Naallawat ti panilpo
 notCached-title = Nagpaso ti Dokumento

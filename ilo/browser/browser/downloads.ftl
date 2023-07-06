@@ -46,3 +46,5 @@ downloads-cmd-retry-panel =
 
 ##
 
+## Download errors
+

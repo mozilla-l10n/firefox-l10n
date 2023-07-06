@@ -5,10 +5,6 @@
 certmgr-tab-ca =
     .label = Turay
 
-certmgr-edit-ca-cert =
-    .title = Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA
     .style = min-width: 48em;
@@ -17,10 +13,6 @@ certmgr-edit-cert-edit-trust = Baliwan dagiti parametro ti pannakatalek:
 
 certmgr-edit-cert-trust-email =
     .label = Mailasin daytoy a sertipiko dagiti agar-aramat ti korreo.
-
-certmgr-delete-cert =
-    .title = Buraen ti Sertipiko
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Buraen ti Sertipiko

@@ -100,6 +100,8 @@ menu-view-full-screen =
     .label = Dagup a Pantalia
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -126,8 +128,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Pannanda
     .accesskey = B
-menu-bookmark-edit =
-    .label = Baliwan Daytoy a Pannanda
 menu-bookmarks-all-tabs =
     .label = Bookmark All Tabs…
 menu-bookmarks-toolbar =

@@ -13,5 +13,7 @@ type-header = Kita
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detalie
+
 update-installed-on = Nagisimpaan: { $date }
+
 update-status = Kasasaad: { $status }

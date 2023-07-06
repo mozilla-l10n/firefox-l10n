@@ -21,6 +21,17 @@ neterror-load-error-try-again = Mabalinsa a saan a madanonan iti bassit wenno ma
 neterror-load-error-connection = No saankayo a makakarga iti ania man a panid, paneknekanyo ti panilpo iti iket ti kompiuteryo.
 neterror-load-error-firewall = No salsalakniban ti firewall wenno proxy ti kompiuteryo wenno iketyo, paneknekan no mapalubosan ti { -brand-short-name } a makadanon iti Web.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Pasingkedan ti nagan ti intar iti kadakkel ti letra wenno sabali a kammali iti panangsurat.
 neterror-file-not-found-moved = Pasingkedan no nayalis, masukatan ti nagan wenno nabura ti intar.
 

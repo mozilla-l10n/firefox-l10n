@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Variables:
+## $timeValue (number) - Number of units of time
+
+##
+
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -10,10 +15,12 @@
 #   $rate (String): rate number.
 #   $unit (String): rate unit.
 download-utils-status = { $timeLeft } — { $transfer } ({ $rate } a { $unit }/sec)
+
 download-utils-bytes = byte
 download-utils-kilobyte = KB
 download-utils-megabyte = MB
 download-utils-gigabyte = GB
+
 # example: 1.1 of 333 MB
 # Variables:
 #   $progress (String): progress number.
@@ -32,8 +39,10 @@ download-utils-transfer-diff-units = { $progress } a { $progressUnits } / { $tot
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } a { $progressUnits }
+
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = rekurso a { $scheme }
+
 # Displayed time for files finished yesterday
 download-utils-yesterday = Idi Kalman

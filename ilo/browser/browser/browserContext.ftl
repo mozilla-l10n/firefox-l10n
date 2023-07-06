@@ -150,10 +150,6 @@ main-context-menu-frame-reload =
     .label = Pagsadiwaen ti Kuadro
     .accesskey = r
 
-main-context-menu-frame-bookmark =
-    .label = Tandaanan Daytoy a Kuadro
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = Idulin ti Kuadro kas...
     .accesskey = F

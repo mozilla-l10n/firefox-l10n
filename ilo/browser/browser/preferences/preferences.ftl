@@ -36,12 +36,27 @@ restart-later = Irugi Manen Intono Madamdama
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 
 ## General Section
 
 startup-header = Pagirugian
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+##
 
 ## General Section - Language & Appearance
 
@@ -107,6 +122,7 @@ applications-use-other-label =
 
 ##
 
+
 update-application-use-service =
     .label = Akinlikod a serbisio ti manginstala iti pagtarimaan
     .accesskey = A
@@ -140,10 +156,14 @@ choose-bookmark =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 ##
 
 
 ## Search Section
+
 
 search-choose-keyword-column =
     .label = Balikas-tulbek
@@ -161,6 +181,16 @@ search-keyword-warning-title = Napamindua a Balikas-tulbek
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+##
 
 ## Sync section - enabling or disabling sync.
 
@@ -180,6 +210,9 @@ sync-engine-history =
 
 ## The device name controls.
 
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -214,6 +247,8 @@ sitedata-total-size-calculating = Bilbilangen ti kadakkel dagiti datos ti sitio 
 #   $unit (String) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga impempen ket agnanaed iti { $value } a { $unit } iti disk.
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 
@@ -226,6 +261,7 @@ sitedata-total-size = Dagiti indulin a galietas, datos ti sitio ken dadduma nga 
 
 ##
 
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 ## Privacy Section - Tracking
 
@@ -251,6 +287,8 @@ certs-header = Sertipiko
 
 ## Privacy Section - HTTPS-Only
 
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 
