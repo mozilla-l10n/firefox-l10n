@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-webpage-languages-window =
-    .title = Վեբ էջի լեզվի կարգավորումներ
-    .style = width: 45em
-
 webpage-languages-window2 =
     .title = Վեբ էջի լեզվի կարգավորումներ
     .style = min-width: 45em
@@ -52,10 +48,6 @@ languages-code-format =
 
 languages-active-code-format =
     .value = { languages-code-format.label }
-
-browser-languages-window =
-    .title = { -brand-short-name }-ի լեզվի կարգավորումներ
-    .style = width: 45em
 
 browser-languages-window2 =
     .title = { -brand-short-name }-ի լեզվի կարգավորումներ

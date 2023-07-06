@@ -8,14 +8,18 @@
 more-from-moz-title = Ավելին { -vendor-short-name }-ից
 more-from-moz-category =
     .tooltiptext = Ավելին { -vendor-short-name }-ից
+
 more-from-moz-subtitle = { -vendor-short-name }-ի այլ ծրագրեր, որոնք օգնում են առողջ պահել համացանցը:
+
 more-from-moz-firefox-mobile-title = { -brand-product-name } բջջային
 more-from-moz-firefox-mobile-description = Բջջային զննարկիչ, որը առաջին տեղում է դնում ձեր գաղտնիությունը:
+
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-title = { -rally-brand-name }
+
 more-from-moz-qr-code-box-firefox-mobile-title = Ներբեռնեք ձեր բջջային սարքում: Պահեք ձեր խցիկը QR կոդի վրա: Երբ հղումը հայտնվի՝ հպեք այն:
+
 more-from-moz-button-mozilla-vpn-2 = Ստացեք VPN
+
 more-from-moz-learn-more-link = Իմանալ ավելին
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page

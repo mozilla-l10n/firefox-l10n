@@ -30,6 +30,7 @@ webrtc-item-browser = ներդիր
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Անհայտ ծագում
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Սարքերը տարածող ներդիրներ
     .accesskey = d
+
 webrtc-sharing-window = Դուք համօգտագործում եք մեկ այլ ծրագրի պատուհան:
 webrtc-sharing-browser-window = Դուք համօգտագործում եք { -brand-short-name }-ը:
 webrtc-sharing-screen = Դուք համօգտագործում եք ամբողջ էկրանը:
@@ -85,6 +87,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Կառավարել համօգտագործումը
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Կառավարել համօգտագործումը “{ $streamTitle }”-ում
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Համօգտագործել տեսախցիկը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -93,6 +96,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Համօգտագործել տեսախցիկը { $tabCount } ներդիրի հետ
            *[other] Համօգտագործել խցիկը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Համօգտագործել խոսափողը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -101,6 +105,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Համօգտագործել խոսափողը { $tabCount } ներդիրի հետ
            *[other] Համօգտագործել խոսափողը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Համօգտագործել հավելվածը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -109,6 +114,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Համօգտագործել հավելվածը { $tabCount } ներդիրի հետ
            *[other] Համօգտագործել հավելվածը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Համօգտագործել էկրանը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -117,6 +123,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Համօգտագործել էկրանը { $tabCount } ներդիրի հետ
            *[other] Համօգտագործել էկրանը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Համօգտագործել պատուհանը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -125,6 +132,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Համօգտագործել պատուհանը { $tabCount } ներդիրի հետ
            *[other] Համօգտագործել պատուհանը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Համօգտագործել տեսախցիկը “{ $streamTitle }”-ի հետ
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -177,6 +185,7 @@ webrtc-action-always-block =
 ##
 
 webrtc-remember-allow-checkbox = Հիշել այս որոշումը
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }-ը չի կարող թույլատրել մշտական մատչում ձեր էկրանին:
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }-ը կարող է չթույատրել մշտական մատչում Ձեր ներդիրների ձայնանյութին՝ առանց հարցնելու, թե որ ներդիրը համօգտագործել։
 webrtc-reason-for-no-permanent-allow-insecure = Ձեր կապակցումը այս կայքին անվտագ չէ: Ձեզ պաշտպանելու համար { -brand-short-name }-ը կթույլատրի միայն այս աշխատաշրջանի համար:

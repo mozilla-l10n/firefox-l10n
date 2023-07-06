@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = mozilla.am
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Hrant Ohanyan, Robert Sargsyan, Armen Zambrano Gasparnian, Vahe Khachikyan, Mamikon Nikoghosyan

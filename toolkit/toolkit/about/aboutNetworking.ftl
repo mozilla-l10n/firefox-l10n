@@ -30,13 +30,6 @@ about-networking-messages-received = Հաղորդագրությունները ո
 about-networking-bytes-sent = Բայթ է ուղարկվել
 about-networking-bytes-received = Բայթ է ստացվել
 about-networking-logging = Մուտքագրում
-about-networking-log-tutorial = Դիտեք <a data-l10n-name="logging">HTTP մուտքագրումը</a>՝ իմանալու համար, թե ինչպես օգտագործել այս գործիքը։
-about-networking-current-log-file = Ընթացիկ մատյանի նիշքը՝
-about-networking-current-log-modules = Ընթացիկ մատյանի մոդուլներ՝
-about-networking-set-log-file = Կայել մատյանի ֆայլը
-about-networking-set-log-modules = Կայել մատյանի մոդուլները
-about-networking-start-logging = Սկսել մուտքագրումը
-about-networking-stop-logging = Կանգնեցնել մուտքագրումը
 about-networking-dns-lookup = DNS փնտրում
 about-networking-dns-lookup-button = Ուղղել
 about-networking-dns-domain = Տիրույթ:

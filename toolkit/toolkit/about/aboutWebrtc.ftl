@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ներքին
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = պահել about:webrtc-ը որպես
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC արձանագրում
 about-webrtc-aec-logging-off-state-label = Սկսել AEC արձանագրումը
 about-webrtc-aec-logging-on-state-label = Կանգնեցնել AEC արձանագրումը
 about-webrtc-aec-logging-on-state-msg = AEC արձանագրումը ակտիվ է
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC արձանագրումը ակտիվ է
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Մատյանի կորզված ֆայլերը այստեղ են՝ { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -76,10 +79,12 @@ about-webrtc-type-remote = Հեռակա
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Նշանակված
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Նշված
+
 about-webrtc-save-page-label = Պահպանել էջը
 about-webrtc-debug-mode-msg-label = Վրիպազերծման կերպ
 about-webrtc-debug-mode-off-state-label = Վրիպազերծման կերպ
@@ -92,6 +97,7 @@ about-webrtc-log-show-msg = ցուցադրել մատյանը
     .title = սեղմեք՝ ա/շրջանը ընդարձակելու համար
 about-webrtc-log-hide-msg = թաքցնել մատյանը
     .title = սեղմեք՝ ա/շրջանը կոծկելու համար
+
 about-webrtc-log-section-show-msg = Ցուցադրել մատյանը
     .title = Սեղմեք՝ ա/շրջանը ընդարձակելու համար
 about-webrtc-log-section-hide-msg = Թաքցնել մատյանը
@@ -170,6 +176,7 @@ about-webrtc-save-page-msg = էջը պահպանվել է՝ { $path }
 about-webrtc-debug-mode-off-state-msg = հետևելու մատյանը կարող է գտնվել՝ { $path }
 about-webrtc-debug-mode-on-state-msg = վրիպազերծման կերպը ակտիվ է, հետևելու մատյանը՝ { $path }
 about-webrtc-aec-logging-off-state-msg = մատյանի կորզված ֆայլերը այստեղ են՝ { $path }
+
 about-webrtc-save-page-complete-msg = Էջը պահպանվել է՝ { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Հետևելու մատյանը կարող է գտնվել՝ { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Վրիպազերծման կերպը ակտիվ է, հետևելու մատյանը՝ { $path }
@@ -181,6 +188,7 @@ about-webrtc-debug-mode-toggled-on-state-msg = Վրիպազերծման կերպ
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -193,6 +201,7 @@ about-webrtc-trickle-caption-msg = Հնարավոր թեկնածուները (գ
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Կայել Տեղային SDP-ը { NUMBER($timestamp, useGrouping: "false") } ժամադրոշմում
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
