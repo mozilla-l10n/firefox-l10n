@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = { $extensionName } 메뉴 열기
+
 unified-extensions-item-message-manage = 확장 기능 관리
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = 도구 모음에 고정
+
 unified-extensions-context-menu-manage-extension =
     .label = 확장 기능 관리
+
 unified-extensions-context-menu-remove-extension =
     .label = 확장 기능 제거
+
 unified-extensions-context-menu-report-extension =
     .label = 확장 기능 신고
+
 unified-extensions-context-menu-move-widget-up =
     .label = 위로 이동
+
 unified-extensions-context-menu-move-widget-down =
     .label = 아래로 이동
 

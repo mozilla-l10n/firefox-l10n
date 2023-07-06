@@ -14,6 +14,7 @@ xpinstall-prompt-message = { $host }에서 부가 기능을 설치하려고 합�
 
 xpinstall-prompt-header-unknown = 알 수 없는 사이트에서 부가 기능을 설치할 수 있도록 허용하시겠습니까?
 xpinstall-prompt-message-unknown = 알 수 없는 사이트에서 부가 기능을 설치하려고 합니다. 계속하기 전에 이 사이트를 신뢰하는지 확인하세요.
+
 xpinstall-prompt-dont-allow =
     .label = 허용 안 함
     .accesskey = D
@@ -44,6 +45,7 @@ xpinstall-disabled = 소프트웨어 설치 기능을 사용할 수 없습니다
 xpinstall-disabled-button =
     .label = 사용함
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName }({ $addonId }) 부가 기능이 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = 시스템 관리자가 이 사이트에서 컴퓨터에 소프트웨어를 설치하도록 요청하는 것을 차단했습니다.
 addon-install-full-screen-blocked = 전체 화면 모드에서 또는 전체 화면 모드로 전환 중에는 부가 기능을 설치할 수 없습니다.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name }에 { $addonName } 부가 기능이 추가됨
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } 확장 기능에 새 권한이 필요함
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,10 +77,12 @@ addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
 addon-removal-message = { -brand-shorter-name }에서 { $name } 확장 기능을 제거하시겠습니까?
 addon-removal-button = 제거
 addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name }에 신고
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 부가 기능 { $addonCount }개 다운로드 및 검사 중…
 addon-download-verifying = 검사하는 중
+
 addon-install-cancel-button =
     .label = 취소
     .accesskey = C

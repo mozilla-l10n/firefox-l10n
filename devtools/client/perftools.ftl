@@ -83,8 +83,6 @@ perftools-thread-renderer =
     .title = WebRender가 활성화되면 OpenGL 호출을 실행하는 스레드
 perftools-thread-render-backend =
     .title = WebRender RenderBackend 스레드
-perftools-thread-paint-worker =
-    .title = 오프 메인 스레드 페인팅이 활성화되면 페인팅이 발생하는 스레드
 perftools-thread-timer =
     .title = 스레드 처리 타이머 (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -132,6 +130,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = 웹 개발자

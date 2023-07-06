@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = 취소
     .accesskey = C
+
 webext-perms-sideload-text = 다른 프로그램이 브라우저에 영향을 줄 수 있는 부가 기능을 설치했습니다. 이 부가 기능의 권한을 확인하고 사용함 또는 취소(사용 안 함 상태로 둠)를 누르세요.
 webext-perms-sideload-text-no-perms = 다른 프로그램이 브라우저에 영향을 줄 수 있는 부가 기능을 설치했습니다. 사용함 또는 취소(사용 안 함 상태로 둠)를 누르세요.
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = 취소
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } 확장 기능이 업데이트되었습니다. 업데이트된 버전이 설치되기 전에 새 권한을 승인해야 합니다. “취소”를 누르면 현재 버전을 유지합니다. 이 확장 기능은 다음의 권한을 갖습니다:
 webext-perms-update-accept =
     .label = 업데이트
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = 필요한 권한:
 webext-perms-optional-perms-allow =
     .label = 허용
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = 거부
     .accesskey = D
+
 webext-perms-host-description-all-urls = 모든 웹 사이트에 대한 사용자 데이터에 접근
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } 도메인 사이트에 대한 사용자 데이터에 접근
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -57,6 +63,7 @@ webext-perms-host-description-too-many-wildcards = 다른 도메인 { $domainCou
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain }에 대한 사용자 데이터에 접근
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
