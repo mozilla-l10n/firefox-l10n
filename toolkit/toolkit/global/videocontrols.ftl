@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-videocontrols-scrubber =
-    .aria-label = Pozicija
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -12,6 +10,7 @@ videocontrols-volume-control =
     .aria-label = Głosnosć
 videocontrols-closed-caption-button =
     .aria-label = Pódtitele
+
 videocontrols-play-button =
     .aria-label = Wótgraś
 videocontrols-pause-button =
@@ -28,20 +27,17 @@ videocontrols-casting-button-label =
     .aria-label = Na wobrazowku projicěrowaś
 videocontrols-closed-caption-off =
     .offlabel = Wušaltowany
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Wobraz-we-wobrazu
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = We „wobraz-we-wobrazu“ se woglědaś
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Wótgrajśo  wideo na prědku, mjaztym až něco druge w { -brand-short-name } cyniśo
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Wideo naprědk póraś
+
 videocontrols-picture-in-picture-explainer3 = Wěcej wobrazowkow jo wěcej wjasela. Wótgrajśo toś to wideo, gaž druge wěcy gótujośo.
+
 videocontrols-error-aborted = Zacytowanje wideo jo se zastajiło.
 videocontrols-error-network = Wótgrawanje wideo jo se seśoweje zmólki dla pśetergnuło.
 videocontrols-error-decode = Wideo njedajo se wótgraś, dokulaž dataja jo wobškóźona.
@@ -49,6 +45,7 @@ videocontrols-error-src-not-supported = Wideowy format abo MIME-typ se njepódp�
 videocontrols-error-no-source = Wideo z pódpěranym formatom a MIME-typom njejo so namakało.
 videocontrols-error-generic = Wotgrawanje wideo jo se njeznateje zmólki dla pśetergnuło.
 videocontrols-status-picture-in-picture = Toś to wideo se w modusu wobraz-we-wobrazu wótgrawa.
+
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -62,6 +59,7 @@ videocontrols-status-picture-in-picture = Toś to wideo se w modusu wobraz-we-wo
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

@@ -50,5 +50,9 @@ url-classifier-disabled = Znjemóžnjony
 url-classifier-updating = aktualizěrowanje
 url-classifier-cannot-update = njedajo se aktualizěrowaś
 url-classifier-success = wuspěch
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = aktualizěrowańska zmólka ({ $error })
 url-classifier-download-error = ześěgnjeńska zmólka ({ $error })

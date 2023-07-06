@@ -5,8 +5,10 @@
 screenshot-toolbarbutton =
     .label = Foto wobrazowki
     .tooltiptext = Foto wobrazowki gótowaś
+
 screenshot-shortcut =
     .key = S
+
 screenshots-instructions = Śěgniśo abo klikniśo na bok, aby wobceŕk wubrał. Tłocćo na ESC, aby pśetergnuł.
 screenshots-cancel-button = Pśetergnuś
 screenshots-save-visible-button = Widobny wobceŕk składowaś
@@ -23,6 +25,7 @@ screenshots-cancel-button-title =
     .title = Pśetergnuś
 screenshots-retry-button-title =
     .title = Foto wobrazowki znowego wopytaś
+
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -30,19 +33,28 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Wótkaz kopěrowany
 screenshots-notification-link-copied-details = Wótkaz k wašomu fotoju wobrazowki jo se do mjazywótkłada kopěrował. Tłocćo { screenshots-meta-key }-V, aby jen zasajźił.
+
 screenshots-notification-image-copied-title = Foto kopěrowane
 screenshots-notification-image-copied-details = Wašo foto jo se do mjezywótkłada kopěrowało. Tłocćo { screenshots-meta-key }-V, aby jo zasajźił.
+
 screenshots-request-error-title = Njeźěła.
 screenshots-request-error-details = Bóžko njejsmy mógli wašo foto wobrazowki składowaś. Pšosym wopytajśo pózdźej hyšći raz.
+
 screenshots-connection-error-title = Njamóžomy z wašymi fotami wobrazowki zwězaś.
 screenshots-connection-error-details = Pšosym pśekontrolěrujśo swój internetny zwisk. Jolic móžośo z internetom zwězaś, dajo snaź nachylny problem ze słužbu { -screenshots-brand-name }.
+
 screenshots-login-error-details = Njesjmy mógli swójo foto wobrazowki składowaś, dokulaž dajo problem ze słužbu { -screenshots-brand-name }. Pšosym wopytajśo pózdźej hyšći raz.
+
 screenshots-unshootable-page-error-title = Foto wobrazowki toś togo boka njejo móžne.
 screenshots-unshootable-page-error-details = To njejo standardny webbok, togodla foto wobrazowki wót njeje njejo móžne.
+
 screenshots-empty-selection-error-title = Waš wuběrk jo pśemały
+
 screenshots-private-window-error-title = Firefox { -screenshots-brand-name } jo w priwatnem modusu znjemóžnjony
 screenshots-private-window-error-details = Wódajśo pšosym wobuznosći. Źěłamy na toś tej funkciji za pśichodne wersije.
+
 screenshots-generic-error-title = Hopla! { -screenshots-brand-name } njeźěła.
 screenshots-generic-error-details = Njejsmy se wěste, což jo se stało. Cośo hyšći raz wopytaś abo cośo drugi bok fotografěrowaś?
+
 screenshots-too-large-error-title = Wašo foto wobrazowki jo se pśirězało, dokulaž jo było pśewjelike
 screenshots-too-large-error-details = Wopytajśo, region wubraś, kótaryž jo mjeńšy ako 32.700 pikselow na jogo nejdelšem boku abo 124.900.000 pikselow na jogo cełkownej płoninje.

@@ -34,13 +34,6 @@ about-networking-messages-received = Dostane powěsći
 about-networking-bytes-sent = Pósłane bajty
 about-networking-bytes-received = Dostane bajty
 about-networking-logging = Protokolěrowanje
-about-networking-log-tutorial = Glejśo <a data-l10n-name="logging">HTTP-protokolěrowanje</a> za instrukcije wó tom, kak se toś ten rěd wužywa.
-about-networking-current-log-file = Aktualna protokolowa dataja:
-about-networking-current-log-modules = Aktualne protokolowe module:
-about-networking-set-log-file = Protokolowu dataju póstajiś
-about-networking-set-log-modules = Protokolowe module póstajiś
-about-networking-start-logging = Protokolěrowanje zachopiś
-about-networking-stop-logging = Protokolěrowanje skóńcyś
 about-networking-dns-lookup = DNS-pytanje
 about-networking-dns-lookup-button = Rozeznaś
 about-networking-dns-domain = Domena:

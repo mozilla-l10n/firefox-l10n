@@ -14,6 +14,7 @@ xpinstall-prompt-message = Wopytujośo dodank z { $host } instalěrowaś. Pśezn
 
 xpinstall-prompt-header-unknown = Njeznatemu sedłoju dowóliś, dodank instalěrowaś?
 xpinstall-prompt-message-unknown = Wopytujośo dodank z njeznatego sedła instalěrowaś. Pśeznańśo se, lěc toś to sedło jo dowěry gódne, nježli až pókšacujośo.
+
 xpinstall-prompt-dont-allow =
     .label = Njedowóliś
     .accesskey = N
@@ -44,6 +45,7 @@ xpinstall-disabled = Instalacija softwary jo tuchylu znjemóžnjona. Klikniśo n
 xpinstall-disabled-button =
     .label = Zmóžniś
     .accesskey = m
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) jo se znjemóžn
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Waš systemowy administrator jo zawoborał toś tomu sedłoju, was se wó dowólenje pšašaś, software na wašym licadle instalěrowaś.
 addon-install-full-screen-blocked = Instalacija dodankow njejo dowólona w modusu połneje wobrazowki a nježli až do njogo zastupijośo.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } jo se { -brand-short-name } pśidał
@@ -69,6 +72,7 @@ addon-removal-title = { $name } wótwónoźeś?
 addon-removal-message = { $name } z { -brand-shorter-name } wótwónoźeś?
 addon-removal-button = Wótwónoźeś
 addon-removal-abuse-report-checkbox = { -vendor-short-name } toś to rozšyrjenje k wěsći daś
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -79,6 +83,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } dodankow se ześěgujo a pśekontrolěrujo…
     }
 addon-download-verifying = Pśespytujo se
+
 addon-install-cancel-button =
     .label = Pśetergnuś
     .accesskey = P

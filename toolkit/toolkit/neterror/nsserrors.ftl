@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Pśi zwězowanju z { $hostname } jo zmólka nastała. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Zmólkowy kod: { $error }
-
 psmerr-ssl-disabled = Wěsty zwisk njejo móžny, dokulaž SSL-protokol jo znjemóžnjony.
 psmerr-ssl2-disabled = Wěsty zwisk njejo móžny, dokulaž sedło wužywa staršu, njewěstu wersiju SSL-protokola.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Signaturowy algoritmus za TLS njejo
 ssl-error-unsupported-signature-algorithm = Napśeśiwne městno jo njepódpěranu kombinaciju signatury a pśeglědowański algoritmus wužyło.
 ssl-error-missing-extended-master-secret = Napśeśiwne městno jo wopytało, bźez korektnego rozšyrjenja extended_master_secret pókšacowaś.
 ssl-error-unexpected-extended-master-secret = Napśeśiwne městno jo wopytało, z njewótcakowanym rozšyrjenim extended_master_secret pókšacowaś.
+
 sec-error-io = Zapodawańska/wudawańska zmólka jo za wěstotnu awtorizaciju nastała.
 sec-error-library-failure = zmólka wěstotneje biblioteki.
 sec-error-bad-data = wěstotna biblioteka: njepłaśiwe daty dostane.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Dešifrěrowanje njejo móžne: algoritmus klu
 sec-error-pkcs7-bad-signature = Pśespytowanje pódpisa njejo se raźiło: žeden pódpisaŕ namakany, pśewjele pódpisarjow namakane abo njegódne abo wobškóźone daty.
 sec-error-unsupported-keyalg = Njepódpěrany abo njeznaty klucowy algoritmus.
 sec-error-decryption-disallowed = Dešifrěrowanje njejo móžne: pśez njedowólony algoritmus abo z njedowóloneju klucoweju wjelikosću skoděrowany.
-xp-sec-fortezza-bad-card = Kórta Fortezza njejo se pórědnje inicializěrowała. Pšosym wótpórajśo ju a dajśo ju swójomu wudawarjeju slědk.
-xp-sec-fortezza-no-card = Žedne kórty Fortezza namakane
-xp-sec-fortezza-none-selected = Žedna kórta Fortezza wubrana
-xp-sec-fortezza-more-info = Pšosym wubjeŕśo wósobinu, wó kótrejž cośo wěcej informacijow zgóniś
-xp-sec-fortezza-person-not-found = Wósobina njenamakana
-xp-sec-fortezza-no-more-info = Žedne dalšne informacije wó tej wósobinje
-xp-sec-fortezza-bad-pin = Njepłaśiwy PIN
-xp-sec-fortezza-person-error = Wósobiny Fortezza njejsu dali se inicializěrowaś.
 sec-error-no-krl = Za certifikat toś togo sedła njejo se KRL namakała.
 sec-error-krl-expired = KRL za certifikat toś togo sedła jo pśepadnjona.
 sec-error-krl-bad-signature = KRL za certifikat toś togo sedła ma njepłaśiwy pódpis.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Certifikat z tym samskim pśimjenim južo ek
 sec-error-key-nickname-collision = Kluc z tym samskim pśimjenim južo eksistěrujo.
 sec-error-safe-not-created = zmólka pśi twórjenju wěstego objekta
 sec-error-baggage-not-created = zmólka pśi twórjenju brěmjeńkowego objekta
-xp-java-remove-principal-error = Principal njedajo se wótwónoźeś
-xp-java-delete-privilege-error = Priwileg njedajo se lašowaś
-xp-java-cert-not-exists-error = Toś ten principal njama certifikata
 sec-error-bad-export-algorithm = Trěbny algoritmus njejo dowólony.
 sec-error-exporting-certificates = Zmólka pśi wopyśe certifikaty eksportěrowaś.
 sec-error-importing-certificates = Zmólka pśi wopyśe certifikaty importěrowaś.
@@ -338,6 +319,7 @@ sec-error-locked-password = Gronidło jo zastajone.
 sec-error-unknown-pkcs11-error = Njeznata zmólka PKCS #11.
 sec-error-bad-crl-dp-url = Njepłaśiwy abo njepódpěrany URL w mjenju rozdźělowańskego dypka CRL.
 sec-error-cert-signature-algorithm-disabled = Certifikat jo se z pomocu signěrowańskego algoritmusa signěrował, kótaryž jo se znjemóžnił, dokulaž njejo wěsty.
+
 mozilla-pkix-error-key-pinning-failure = Serwer wužywa klucowe pśipinanje - engelski: key pinning - (HPKP), ale njedajo se žeden dowěry gódny certifikatowy rjeśazk twariś, kótaryž wótpowědujo sajźbje PIN-numeram. Pśekśiwjenje klucowego pśipinanja njedaju se wótpóraś.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serwer wužywa certifikat z rozšyrjenim Basic Constraints, kótarež identificěrujo jen ako certifikatowu awtoritu. Za porědnje wudany certifikat to njepśitrjefi.
 mozilla-pkix-error-inadequate-key-size = Serwer jo certifikat z klucoweju wjelikosću prezentěrował, kótaraž jo pśemała, aby wěsty zwisk napórała.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Serwer jo certifikat prezentěrowa
 mozilla-pkix-error-empty-issuer-name = Serwer jo certifikat bźez rozeznawajobnego mjenja (eng.: distinguished name) wudawarja prezentěrował.
 mozilla-pkix-error-additional-policy-constraint-failed = Pśidatne wobgranicowanje pšawidła njejo mógło toś ten certifikat pśeglědaś.
 mozilla-pkix-error-self-signed-cert = Certifikat njejo dowěry gódny, dokulaž jo se sam pódpisał.
+
+xp-java-remove-principal-error = Principal njedajo se wótwónoźeś
+xp-java-delete-privilege-error = Priwileg njedajo se lašowaś
+xp-java-cert-not-exists-error = Toś ten principal njama certifikata
+
+xp-sec-fortezza-bad-card = Kórta Fortezza njejo se pórědnje inicializěrowała. Pšosym wótpórajśo ju a dajśo ju swójomu wudawarjeju slědk.
+xp-sec-fortezza-no-card = Žedne kórty Fortezza namakane
+xp-sec-fortezza-none-selected = Žedna kórta Fortezza wubrana
+xp-sec-fortezza-more-info = Pšosym wubjeŕśo wósobinu, wó kótrejž cośo wěcej informacijow zgóniś
+xp-sec-fortezza-person-not-found = Wósobina njenamakana
+xp-sec-fortezza-no-more-info = Žedne dalšne informacije wó tej wósobinje
+xp-sec-fortezza-bad-pin = Njepłaśiwy PIN
+xp-sec-fortezza-person-error = Wósobiny Fortezza njejsu dali se inicializěrowaś.

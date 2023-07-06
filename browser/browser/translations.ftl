@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Toś ten bok pśełožowaś
+
 translations-panel-settings-button =
     .aria-label = Pśełožowańske nastajenja zastojaś
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -18,6 +20,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Rěcy zastojaś
 translations-panel-settings-about = Wó pśełožkach w { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -25,6 +28,7 @@ translations-panel-settings-always-translate-language =
     .label = { $language } pśecej pśełožowaś
 translations-panel-settings-always-translate-unknown-language =
     .label = Toś tu rěc pśecej pśełožowaś
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -32,6 +36,7 @@ translations-panel-settings-never-translate-language =
     .label = { $language } nigda njepśełožowaś
 translations-panel-settings-never-translate-unknown-language =
     .label = Toś tu rěc nigda njepśełožowaś
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Toś to sedło nigda njepśełožowaś
@@ -46,11 +51,13 @@ translations-panel-translate-button-loading =
     .label = Pšosym cakajśo…
 translations-panel-translate-cancel =
     .label = Pśetergnuś
+
 translations-panel-error-translating = Pśi pśełožowanju jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-panel-error-load-languages = Rěcy njedaju se zacytaś
 translations-panel-error-load-languages-hint = Pśeglědujśo swój internetny zwisk a wopytajśo hyšći raz.
 translations-panel-error-load-languages-hint-button =
     .label = Hyšći raz wopytaś
+
 translations-panel-error-unsupported = Pśełožk za toś ten bok njejo k dispoziciji
 translations-panel-error-dismiss-button =
     .label = Som zrozměł
@@ -105,6 +112,7 @@ translations-manage-language-download-button =
 translations-manage-language-delete-button =
     .label = Lašowaś
     .accesskey = a
+
 translations-settings-title =
     .title = Pśełožowańske nastajenja
     .style = min-width: 36em

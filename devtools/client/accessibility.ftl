@@ -6,7 +6,9 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Dalšne informacije
+
 accessibility-text-label-header = Tekstowe wóznamjenjenja a mjenja
+
 accessibility-keyboard-header = Tastatura
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
@@ -16,6 +18,7 @@ accessibility-keyboard-header = Tastatura
 
 accessibility-progress-initializing = Inicializěrujo se…
     .aria-valuetext = Inicializěrujo se…
+
 # This string is displayed in the audit progress bar in the accessibility panel.
 # Variables:
 #   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
@@ -26,6 +29,7 @@ accessibility-progress-progressbar =
         [few] { $nodeCount } suki se pśeglěduju
        *[other] { $nodeCount } sukow se pśeglědujo
     }
+
 accessibility-progress-finishing = Kóńcy se…
     .aria-valuetext = Kóńcy se…
 
@@ -33,8 +37,10 @@ accessibility-progress-finishing = Kóńcy se…
 
 accessibility-warning =
     .alt = Warnowanje
+
 accessibility-fail =
     .alt = Zmólka
+
 accessibility-best-practices =
     .alt = Nejlěpše praktiki
 
@@ -43,22 +49,39 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-area = Wužywajśo atribut <code>alt</code>, aby elementy <div>area</div> wóznamjenił, kótarež maju atribut <span>href</span>. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-dialog = Dialogi měli se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-document-title = Dokumenty muse <code>titel</code> měś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-embed = Zasajźone wopśimjeśe musy se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-figure = Wobraze z opcionelnymi pópisanjami měli se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-fieldset = Elementy <code>fieldset</code> muse se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-fieldset-legend2 = Wužywajśo element <code>legend</code>, aby element <span>fieldset</span> pópisał. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-form = Formularne elementy muse se wóznamjeniś. <a>Dalšne informacje</a>
+
 accessibility-text-label-issue-form-visible = Formularne elementy měli widobne tekstowe wóznamjenjenje měś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-frame = Elementy <code>frame</code> muse se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-glyph = Wužywajśo atribut <code>alt</code>, aby elementy <span>mglyph</span> wóznamjenił. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-heading = Nadpisma muse se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-heading-content = Nadpisma měli widobne tekstowe wopśimjeśe měś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-iframe = Wužywajśo atribut <code>title</code>, aby wopśimjeśe <span>iframe</span> wopisał. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-image = Wopśimjeśe z wobrazami musy se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-interactive = Interaktiwne elementy muse se wóznamjeniś. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-optgroup-label2 = Wužywajśo atribut <code>label</code>, aby element <span>optgroup</span> pópisał. <a>Dalšne informacije</a>
+
 accessibility-text-label-issue-toolbar = Symbolowe rědki muse se wóznamjeniś, gaž dajo wěcej ako jadneje symboloweje rědki. <a>Dalšne informacije</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
@@ -66,8 +89,13 @@ accessibility-text-label-issue-toolbar = Symbolowe rědki muse se wóznamjeniś,
 ## issue.
 
 accessibility-keyboard-issue-semantics = Fokusujobne elementy měli interaktiwnu semantiku měś. <a>Dalšne informacije</a>
+
 accessibility-keyboard-issue-tabindex = Njewužywajśo atribut <code>tabindex</code> z gódnotu, kótaraž jo wětša ako nul. <a>Dalšne informacije</a>
+
 accessibility-keyboard-issue-action = Interaktiwne elementy muse se z tastaturu aktiwěrowaś daś. <a>Dalšne informacije</a>
+
 accessibility-keyboard-issue-focusable = Interaktiwne elementy muse se fokusěrowaś daś. <a>Dalšne informacije</a>
+
 accessibility-keyboard-issue-focus-visible = Zda se, až fokusujobnemu elementoju fokusowy stil felujo. <a>Dalšne informacije</a>
+
 accessibility-keyboard-issue-mouse-only = Klikajobne elementy musy se fokusěrowaś daś a měli interaktiwnu semantiku měś. <a>Dalšne informacije</a>

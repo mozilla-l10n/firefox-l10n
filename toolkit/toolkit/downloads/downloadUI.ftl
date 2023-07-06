@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Njeskóńcyś
        *[other] Njeskóńcyś
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jolic źośo něnto offline, se 1 ześěgnjenje pśetergnjo. Cośo napšawdu offline hyś?
        *[other] Jolic źośo něnto offline, se { $downloadsCount } ześěgnjenjow pśetergnjo. Cośo napšawdu offline hyś?
     }
 download-ui-dont-go-offline-button = Online wóstaś
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Jolic zacynijośo něnto wšykne wokna priwatnego modusa, se 1 ześěgnjenje pśetergnjo. Cośo priwatny modus napšawdu spušćiś?
        *[other] Jolic zacynijośo něnto wšykne wokna priwatnego modusa, se { $downloadsCount } ześěgnjenjow pśetergnjo. Cośo priwatny modus napšawdu spušćiś?
     }
 download-ui-dont-leave-private-browsing-button = W priwatnem modusu wóstaś
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ześěgnjenje pśetergnuś

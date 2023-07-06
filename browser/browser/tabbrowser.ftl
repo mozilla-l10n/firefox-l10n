@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Nowy rejtarik
 tabbrowser-empty-private-tab-title = Nowy priwatny rejtarik
+
 tabbrowser-menuitem-close-tab =
     .label = Rejtarik zacyniś
 tabbrowser-menuitem-close =
     .label = Zacyniś
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -139,6 +142,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Toś ten dialogowy kašćik wěcej n
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Powěźeńki dowóliś ako tós tu wót { $domain }, aby k wótpowědnemu rejtarkoju dójšeł
+
 tabbrowser-customizemode-tab-title = { -brand-short-name } pśiměriś
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -157,6 +161,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Rejtariki głosne cyniś
     .accesskey = o
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Awdio wótgraś
 
