@@ -4,6 +4,7 @@
 
 about-reader-loading = 載入中…
 about-reader-load-error = 無法自頁面載入文章
+
 about-reader-color-scheme-light = 亮色調
     .title = 亮色主題
 about-reader-color-scheme-dark = 暗色調
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = 棕褐色調
     .title = 棕褐色調主題
 about-reader-color-scheme-auto = 自動
     .title = 自動色彩布景
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -76,8 +76,6 @@ perftools-thread-renderer =
     .title = 開啟 WebRender 時，用來執行 OpenGL 呼叫的執行緒
 perftools-thread-render-backend =
     .title = WebRender 的 RenderBackend 執行緒
-perftools-thread-paint-worker =
-    .title = 開啟非主執行緒繪製（off-main-thread painting）時，進行繪製的執行緒
 perftools-thread-timer =
     .title = 執行緒處理計時器（setTimeout、setInterval、nsITimer）
 perftools-thread-style-thread =
@@ -125,6 +123,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = 網頁開發者

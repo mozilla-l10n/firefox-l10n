@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = 新分頁
 tabbrowser-empty-private-tab-title = 開新隱私分頁
+
 tabbrowser-menuitem-close-tab =
     .label = 關閉分頁
 tabbrowser-menuitem-close =
     .label = 關閉
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -93,6 +96,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = 下次不要再顯示此對話方塊
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = 允許來自 { $domain } 的這一類通知，將您帶到該網站分頁
+
 tabbrowser-customizemode-tab-title = 自訂 { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -111,6 +115,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = 取消分頁靜音
     .accesskey = m
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = 播放聲音
 
