@@ -22,6 +22,17 @@ neterror-load-error-try-again = Na strona mòże bëc terëczasno nieprzistãpn�
 neterror-load-error-connection = Jeżlë ni mòżesz zaladowac niżódny stronë, Sprôwdzë ùstawë swòjégò sécowégò sparłãczeniô.
 neterror-load-error-firewall = Jeżlë twòj kòmpùtr abò séc je chronionô przez firewall abò proxy. Sprôwdzë, czë program { -brand-short-name } mô prawa przëstãpù do Internetu.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Mòżlëwé, że nen lopk òstôł rëminãti, przeniosłi abò mô zmienioné miono.
 neterror-file-not-found-moved = Nót je òbaczëc, czë w pòdónym adresu ni ma felë pisënkù, w tim wiôlgòscë lëterów,  czë téż tipògraficznëch felów.
 

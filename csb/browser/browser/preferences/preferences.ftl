@@ -35,6 +35,16 @@ should-restart-title = Zrëszë { -brand-short-name } znowa.
 ##   $name (String): name of the extension
 
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 ## Preferences UI Search Results
 
 
@@ -47,6 +57,11 @@ tabs-group-header = Kôrtë
 show-tabs-in-taskbar =
     .label = Przeniesë kôrtë na lëstwã dzejaniô Windowsa
     .accesskey = P
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
+##
 
 ## General Section - Language & Appearance
 
@@ -146,6 +161,7 @@ applications-use-other-label =
 
 ##
 
+
 update-application-use-service =
     .label = Ùżëjë spòdlowi ùsłëżnotë instalowaniô aktualizacje
     .accesskey = Ù
@@ -206,10 +222,14 @@ choose-bookmark =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
+
 ##
 
 
 ## Search Section
+
 
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
@@ -227,6 +247,16 @@ search-keyword-warning-engine = Wëbróné kluczowé słowò je ju w ùżëcym p
 
 ## Firefox Account - Signed in
 
+
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
+## Firefox account - Signed in
+
+## Variables
+## $email (string) - Email used for Firefox account
+
+##
 
 ## Sync section - enabling or disabling sync.
 
@@ -246,6 +276,9 @@ sync-engine-history =
 
 ## The device name controls.
 
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -297,6 +330,8 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 
+## Privacy Section - Cookie Banner Handling
+
 ## Privacy Section - Address Bar
 
 
@@ -309,6 +344,7 @@ history-clear-on-close-settings =
 
 ##
 
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 ## Privacy Section - Tracking
 
@@ -339,6 +375,8 @@ certs-header = Certifikatë
 
 ## Privacy Section - HTTPS-Only
 
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 

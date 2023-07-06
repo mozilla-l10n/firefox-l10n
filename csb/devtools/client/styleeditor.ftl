@@ -27,6 +27,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Biéj do sztrichù…
     .accesskey = B
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

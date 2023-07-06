@@ -210,14 +210,6 @@ main-context-menu-audio-email =
     .label = Sélôj audio e-mailã…
     .accesskey = а
 
-main-context-menu-plugin-play =
-    .label = Włączë nen dodôwk
-    .accesskey = W
-
-main-context-menu-plugin-hide =
-    .label = Zatacë dodôwk
-    .accesskey = d
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -248,10 +240,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Zladëjë ramã znowa
     .accesskey = Z
-
-main-context-menu-frame-bookmark =
-    .label = Dodôj załóżkã dlô ti ramë
-    .accesskey = D
 
 main-context-menu-frame-save-as =
     .label = Zapiszë ramã jakno…

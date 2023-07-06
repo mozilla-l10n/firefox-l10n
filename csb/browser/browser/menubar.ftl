@@ -123,6 +123,8 @@ menu-view-full-screen =
     .label = Fùlekranowi trib
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =

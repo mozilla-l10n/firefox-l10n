@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (priwatné przezéranié)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (priwatné przezéranié)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (priwatné przezéranié)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (priwatné przezéranié)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -127,8 +94,10 @@ browser-window-close-button =
 
 urlbar-placeholder =
     .placeholder = Szëkôj za, abò wpiszë adres
+
 urlbar-switch-to-tab =
     .value = Przełączë na kôrtã:
+
 urlbar-go-button =
     .tooltiptext = Biéj do stronë z pòdónym adresã
 
@@ -209,6 +178,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Zezwòlë na wëskakùjącé òkna ze stronë { $uriHost }
     .accesskey = w
+
 popups-infobar-block =
     .label = Blokùjë wëskakùjącé òkna ze stronë { $uriHost }
     .accesskey = w
@@ -230,15 +200,19 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Zladënczi
+
 navbar-search =
     .title = Szëkba
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kôrtë przezérnika
+
 tabs-toolbar-new-tab =
     .label = Nowô kôrta
+
 tabs-toolbar-list-all-tabs =
     .label = Lësta wszëtczich kôrtów
     .tooltiptext = Lësta wszëtczich kôrtów
@@ -260,10 +234,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Program { -brand-short-name } nie zezwôlô ti stronie na ji aùtomatny zladënk znowa.
 refresh-blocked-redirect-label = Program { -brand-short-name } nie dôł ti stronie prawa na aùtomatné przeczérowanié na jinszą stronã.
+
 refresh-blocked-allow =
     .label = Zezwòlë
     .accesskey = Z
@@ -276,6 +254,8 @@ refresh-blocked-allow =
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 
@@ -298,6 +278,7 @@ popup-warning-button =
             [windows] p
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

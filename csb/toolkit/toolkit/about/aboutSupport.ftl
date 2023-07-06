@@ -42,6 +42,8 @@ copy-raw-data-to-clipboard-label = Kòpérëjë zamkłosc do tacnika
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

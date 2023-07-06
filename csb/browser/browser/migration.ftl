@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Òkna i kôrtë
 browser-data-session-label =
     .value = Òkna i kôrtë
+

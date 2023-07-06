@@ -22,5 +22,7 @@ state-header = Stón
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detale
+
 update-installed-on = Òstało winstalowóné: { $date }
+
 update-status = Stón: { $status }
