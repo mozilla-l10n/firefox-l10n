@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] ತ್ಯಜಿಸಬೇಡ
        *[other] ಹೊರನಡೆಯಬೇಡ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ಈಗ ನೀವು ಜಾಲದಿಂದ ಹೊರಗೆ ಹೋದಲ್ಲಿ, 1 ಡೌನ್‌ಲೋಡ್‌ ರದ್ದು ಮಾಡಲ್ಪಡುತ್ತದೆ. ನೀವು ಖಚಿತವಾಗಿಯೂ ಜಾಲದಿಂದ ಹೊರ ತೆರಳಲು ಬಯಸುತ್ತೀರೆ?
        *[other] ಈಗ ನೀವು ಜಾಲದಿಂ ದ ಹೊರಗೆ ಹೋದಲ್ಲಿ,{ $downloadsCount } ಡೌನ್‌ಲೋಡ್‌ಗಳು ರದ್ದು ಮಾಡಲ್ಪಡುತ್ತದೆ. ನೀವು ಖಚಿತವಾಗಿಯೂ ಜಾಲದಿಂದ ಹೊರ ತೆರಳಲು  ಬಯಸುತ್ತೀರೆ?
     }
 download-ui-dont-go-offline-button = ಜಾಲದಲ್ಲಿಯೆ ಇರು
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] ನೀವು ಎಲ್ಲಾ ಖಾಸಗಿ ಜಾಲವೀಕ್ಷಣೆಯ ಕಿಟಕಿಯನ್ನು ಮುಚ್ಚಿದಲ್ಲಿ, 1 ಇಳಿಕೆಯನ್ನು ರದ್ದು ಮಾಡಲಾಗುತ್ತದೆ. ನೀವು ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಿಂದ ಹೊರನಡೆಯಬೇಕೆನ್ನುವುದು ಖಚಿತವೆ?
        *[other] ನೀವು ಎಲ್ಲಾ ಖಾಸಗಿ ಜಾಲವೀಕ್ಷಣೆಯ ಕಿಟಕಿಯನ್ನು ಮುಚ್ಚಿದಲ್ಲಿ, { $downloadsCount } ಇಳಿಕೆಯನ್ನು ರದ್ದು ಮಾಡಲಾಗುತ್ತದೆ. ನೀವು ಖಾಸಗಿ ವೀಕ್ಷಣೆಯಿಂದ ಹೊರನಡೆಯಬೇಕೆನ್ನುವುದು ಖಚಿತವೆ?
     }
 download-ui-dont-leave-private-browsing-button = ಖಾಸಗಿ ವೀಕ್ಷಣೆಯ ಕ್ರಮದಲ್ಲಿಯೆ ಇರು
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ಡೌನ್‌ಲೋಡ್‌ ಅನ್ನು ರದ್ದುಗೊಳಿಸು

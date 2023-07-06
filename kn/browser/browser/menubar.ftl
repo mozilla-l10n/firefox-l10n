@@ -34,9 +34,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ತ್ಯಜಿಸು { -brand-shorter-name }
+
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -192,8 +194,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ಪುಟಗುರುತುಗಳು
     .accesskey = B
-menu-bookmark-edit =
-    .label = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು
 menu-bookmarks-all-tabs =
     .label = ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...
 menu-bookmarks-toolbar =

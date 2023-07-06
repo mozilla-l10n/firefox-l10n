@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = ವಿನಾಯಿತಿಗಳು
-    .style = width: 45em
-
 permissions-window2 =
     .title = ವಿನಾಯಿತಿಗಳು
     .style = min-width: 45em
@@ -79,10 +75,6 @@ permissions-exceptions-popup-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಪು
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = ವಿನಾಯಿತಿಗಳು - ಉಳಿಸಿದ ಲಾಗಿನ್‍ಗಳು
     .style = { permissions-window2.style }
@@ -105,20 +97,17 @@ permissions-exceptions-addons-desc = ಯಾವ ಜಾಲತಾಣಗಳು ಆ�
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = ಕ್ಯಾಮರ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = ಮೈಕ್ರೋಫೋನ್ ಅನುಮತಿ - ಸಿದ್ಧತೆಗಳು
     .style = { permissions-window2.style }
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

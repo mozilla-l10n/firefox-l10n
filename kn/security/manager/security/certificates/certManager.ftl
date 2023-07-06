@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = ಅಥಾರಿಟಿಗಳು
 
-certmgr-edit-ca-cert =
-    .title = CA ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA ಪ್ರಮಾಣಪತ್ರ ನಂಬಿಕಾ ಸಿದ್ಧತೆಗಳನ್ನು ಸಂಪಾದಿಸು
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ಈ ಪ್ರಮಾಣಪತ್ರವು ಮೇಲ್‍ ಬಳೆಕದಾರರನ್ನು ಗುರುತಿಸಬಲ್ಲದು.
 
-certmgr-delete-cert =
-    .title = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸು
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಳಿಸು
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = ಪರಿಚಾರಕ
-
-certmgr-override-lifetime =
-    .label = ಜೀವಿತಾವಧಿ
 
 certmgr-token-name =
     .label = ಸುರಕ್ಷತಾ ಸಾಧನ

@@ -20,8 +20,10 @@ account-send-to-all-devices-titlecase = ಎಲ್ಲಾ ಸಾಧನಗಳಿಗ
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = ಯಾವುದೇ ಸಾಧನಗಳನ್ನು ಜೋಡಿಸಲಾಗಿಲ್ಲ
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ಟ್ಯಾಬ್‌ಗಳನ್ನು ಕಳುಹಿಸುವುದರ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಿ…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು…
 
@@ -42,6 +44,7 @@ account-single-tab-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } ಇಂದ ಹಾಳೆ
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -54,6 +57,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = ಪಡೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳು
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು
-    .accesskey = m
-    .tooltiptext = ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು
-    .accesskey = m
-    .tooltiptext = ಈ ಪುಟವನ್ನು ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡು ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು
-    .accesskey = m
-    .tooltiptext = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ತಿದ್ದು
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ಸಂಪಾದಿಸು
-    .accesskey = m
-    .tooltiptext = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ತಿದ್ದು ({ $shortcut })
-
 main-context-menu-open-link =
     .label = ಕೊಂಡಿಯನ್ನು ತೆರೆ
     .accesskey = O
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = Email ಆಡಿಯೊ…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = ಈ ಪ್ಲಗ್ಇನ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸು
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = ಈ ಪ್ಲಗ್ಇನ್ ಅನ್ನು ಅಡಗಿಸು
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = ಪುಟವನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು
     .accesskey = D
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ಚೌಕಟ್ಟನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = ಈ ಚೌಕಟ್ಟನ್ನು ಪುಟಗುರುತು ಮಾಡು
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = ಚೌಕಟ್ಟನ್ನು ಹೀಗೆ ಉಳಿಸು...

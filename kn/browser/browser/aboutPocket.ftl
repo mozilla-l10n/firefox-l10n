@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ಟ್ಯಾಗ್‌ಗಳನ್ನು ಸೇರಿಸು
+
 pocket-panel-saved-error-generic = { -pocket-brand-name } ನಲ್ಲಿ ಉಳಿಸಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ದೋಷ ಉಂಟಾಗಿದೆ.
 pocket-panel-saved-error-tag-length = ಟ್ಯಾಗ್‌ಗಳು 25 ಅಕ್ಷರಗಳಿಗೆ ಸೀಮಿತವಾಗಿವೆ
 pocket-panel-saved-error-only-links = ಕೇವಲ ಕೊಂಡಿಗಳನ್ನು ಮಾತ್ರ ಉಳಿಸಬಹುದು
@@ -24,7 +25,6 @@ pocket-panel-saved-save-tags = ಉಳಿಸು
 pocket-panel-saved-saving-tags = ಉಳಿಸಲಾಗುತ್ತಿದೆ…‍
 pocket-panel-saved-suggested-tags = ಸೂಚಿಸಿದ ಟ್ಯಾಗ್‌ಗಳು
 pocket-panel-saved-tags-saved = ಸೇರಿಸಿದ ಟ್ಯಾಗ್‌ಗಳು‍
-pocket-panel-signup-view-list = ಪಟ್ಟಿಯನ್ನು ನೋಡಿ
 
 ## about:pocket-signup panel
 

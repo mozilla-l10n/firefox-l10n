@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = ತೆರೆ
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆ
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು...
-    .accesskey = B
 
 ##
 
