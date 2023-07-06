@@ -34,6 +34,7 @@ webrtc-item-browser = llingüeta
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
 webrtc-sharing-menuitem =
     .label = { $origin } ({ $itemList })
+
 webrtc-sharing-window = Tas compartiendo la ventana d'otra aplicación.
 webrtc-sharing-browser-window = Tas compartiendo { -brand-short-name }.
 webrtc-sharing-screen = Tas compartiendo tola pantalla.
@@ -132,3 +133,4 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = Acordase d'esta decisión
 webrtc-mute-notifications-checkbox = Desactivar los avisos de los sitios web mentanto se comparte
+

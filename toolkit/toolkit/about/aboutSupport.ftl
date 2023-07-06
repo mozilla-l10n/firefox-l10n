@@ -118,6 +118,8 @@ media-device-name = Nome
 media-device-group = Grupu
 media-device-channels = Canales
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalización y traducción

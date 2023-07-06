@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-add-engine-window =
-    .title = Amiestu d'un motor de busca
-    .style = width: 32em;
-
 add-engine-window2 =
     .title = Amiestu d'un motor de busca
     .style = min-width: 32em;

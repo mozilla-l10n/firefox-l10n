@@ -7,11 +7,6 @@ about-logins-page-title = Cuentes y contraseñes
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Buscar cuentes
-
-create-login-button = Crear una cuenta
-
 fxaccounts-sign-in-text = Consigui les tos contraseñes n'otros preseos
 fxaccounts-sign-in-sync-button = Aniciar sesión pa sincronizar
 fxaccounts-avatar-button =
@@ -91,9 +86,10 @@ login-item-copied-password-button-text = ¡Copióse!
 login-item-save-changes-button = Guardar los cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
-login-item-time-changed = Última modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Data de creación: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Últimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -148,6 +144,9 @@ about-logins-confirm-remove-dialog-title = ¿Quitar esta cuenta?
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
 about-logins-confirm-remove-dialog-confirm-button = Quitar
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Quitar
@@ -186,6 +185,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Esto va quitar les cuentes que guardares nel { -brand-short-name } de tolos preseos sincronizaos cola to { -fxaccount-brand-name }. Tamién va quitar les alertes d'arrampuñamientu qu'apaezan equí. Nun vas ser a desfacer esta aición.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Esportación de cuentes y contraseñes
 about-logins-confirm-export-dialog-message = Les contraseñes van guardase como testu lleíble (por exemplu: C0ntR4s4ñ4M4l4), polo que tol mundu va poder abrir el ficheru esportáu y veles.
 about-logins-confirm-export-dialog-confirm-button = Esportar…
@@ -205,7 +206,6 @@ about-logins-breach-alert-date = Esti arrampuñamientu asocedió'l { DATETIME($d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Dir a { $hostname }
-about-logins-breach-alert-learn-more-link = Lleer más
 
 ## Vulnerable Password notification
 

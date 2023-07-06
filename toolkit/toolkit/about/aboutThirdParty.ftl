@@ -4,10 +4,8 @@
 
 third-party-message-empty = Nun se detectaron módulos de terceros.
 
-third-party-unsigned-icon =
-    .title = Esti módulu nun ta robláu
-
 third-party-button-expand =
     .title = Amosar la información detallada
 third-party-button-collapse =
     .title = Contrayer la información detallada
+

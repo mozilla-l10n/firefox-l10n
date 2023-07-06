@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Esceiciones
-    .style = width: 36em
-
 permissions-window2 =
     .title = Esceiciones
     .style = min-width: 36em
@@ -79,20 +75,11 @@ permissions-invalid-uri-label = Introduz un nome d'agospiador válidu
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Esceiciones pa la proteición antirrastrexu ameyorada
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Esceiciones pa la proteición antirrastrexu ameyorada
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Desactivesti les proteiciones nestos sitios web.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = Esceiciones - Cookies y datos de los sitios
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = Esceiciones - Cookies y datos de los sitios
@@ -104,20 +91,12 @@ permissions-exceptions-cookie-desc = Pues especificar los sitios web que siempre
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Sitios web permitíos - Ventanos emerxentes
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Sitios web permitíos - Ventanos emerxentes
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Pues especificar qué sitios web puen abrir ventanes emerxentes. Teclexa la direición exauta del sitiu que quies permitir y dempués calca «Permitir».
 
 ## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window =
-    .title = Esceiciones - Anicios de sesión guardaos
-    .style = { permissions-window.style }
 
 permissions-exceptions-saved-logins-window2 =
     .title = Esceiciones - Anicios de sesión guardaos
@@ -126,10 +105,6 @@ permissions-exceptions-saved-logins-desc = Nun van guardase los anicios de sesi�
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Sitios web permitíos - Instalación de complementos
-    .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Sitios web permitíos - Instalación de complementos
     .style = { permissions-window2.style }
@@ -137,20 +112,12 @@ permissions-exceptions-addons-desc = Pues especificar los sitios web que tienen 
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Axustes - Reproducción automática
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Axustes - Reproducción automática
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Equí pues xestionar los sitios que nun siguen los tos axustes predeterminaos de reproducción.
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = Axustes - Permisos d'avisos
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = Axustes - Permisos d'avisos
@@ -162,10 +129,6 @@ permissions-site-notification-disable-desc = Esto va evitar que cualesquier siti
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Axustes - Permisos d'allugamientu
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Axustes - Permisos d'allugamientu
     .style = { permissions-window2.style }
@@ -175,10 +138,6 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder al allugamientu. Bloquiar l'accesu al allugamientu pue estropiar les carauterístiques de dalgunos sitios web.
 
 ## Site Permissions - Virtual Reality
-
-permissions-site-xr-window =
-    .title = Axustes - Permisos de realidá virtual
-    .style = { permissions-window.style }
 
 permissions-site-xr-window2 =
     .title = Axustes - Permisos de realidá virtual
@@ -190,10 +149,6 @@ permissions-site-xr-disable-desc = Esto va evitar que los sitios web que nun tea
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Axustes - Permisos de la cámara
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Axustes - Permisos de la cámara
     .style = { permissions-window2.style }
@@ -204,10 +159,6 @@ permissions-site-camera-disable-desc = Esto va evitar que los sitios web que nun
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Axustes - Permisos del micrófonu
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Axustes - Permisos del micrófonu
     .style = { permissions-window2.style }
@@ -215,3 +166,8 @@ permissions-site-microphone-desc = Los sitios web de darréu solicitaron l'acces
 permissions-site-microphone-disable-label =
     .label = Bloquiar les solicitúes nueves p'acceder al micrófonu
 permissions-site-microphone-disable-desc = Esto va evitar que los sitios web que nun tean na llista d'enriba soliciten permisu p'acceder al micrófonu. Bloquiar l'accesu al micrófonu pue estropiar les carauterístiques de dalgunos sitios web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Abrir
     .accesskey = A
-synced-tabs-context-open-in-new-tab =
-    .label = Abrir nuna llingüeta nueva
-    .accesskey = v
-synced-tabs-context-open-in-new-window =
-    .label = Abrir nuna ventana nueva
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Abrir nuna ventana privada nueva
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Amestar esta llingüeta a Marcadores…
-    .accesskey = M
 
 ##
 

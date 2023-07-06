@@ -24,34 +24,14 @@ onboarding-not-now-button-label = Agora non
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Entamu: pantalla { $current } de { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Too comienza equí
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Diseñadora de muebles y siguidora de Firefox
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
@@ -60,36 +40,18 @@ mr1-onboarding-welcome-image-caption = Soraya Osorio — Diseñadora de muebles 
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-welcome-header = Afáyate en { -brand-short-name }
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Predeterminar { -brand-short-name }
-mr1-onboarding-set-default-secondary-button-label = Agora non
-
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Trailo too
-mr1-onboarding-import-subtitle = Importa les contraseñes,<br/>los marcadores<br/>y más coses
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importar de { $previous }
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importar del restolador anterior
-mr1-onboarding-import-secondary-button-label = Agora non
-
-mr2-onboarding-colorway-header = La vida a color
-mr2-onboarding-colorway-secondary-button-label = Agora non
-
 mr1-onboarding-theme-subtitle = Personaliza { -brand-short-name } con un estilu.
-mr1-onboarding-theme-primary-button-label = Guardar l'estilu
 mr1-onboarding-theme-secondary-button-label = Agora non
 
 # System theme uses operating system color settings
@@ -185,6 +147,8 @@ mr2-onboarding-start-browsing-button-label = Comenzar a restolar
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -210,4 +174,11 @@ mr2-onboarding-start-browsing-button-label = Comenzar a restolar
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 
