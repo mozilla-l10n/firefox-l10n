@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } برخاست کرو
-
 menu-about =
     .label = { -brand-shorter-name } دے متعلق
     .accesskey = A
@@ -233,6 +231,9 @@ menu-bookmark-tab =
     .label = موجودہ ٹیب کوں بک مارک کرو …
 menu-edit-bookmark =
     .label = ایں بک مارک دی تدوین کرو …
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = نشانیاں ڳولو
 menu-bookmarks-all-tabs =
     .label = تمام ٹیبز بک مارک کرو …
 menu-bookmarks-toolbar =

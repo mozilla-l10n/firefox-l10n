@@ -2,21 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-##
-
 # This is the title of the page
 about-logging-title = لاگنگ بارے
 about-logging-page-title = لاگنگ منیجر
@@ -48,11 +33,15 @@ about-logging-logging-preset-selector-text = لاگنگ پری سیٹ:
 
 about-logging-preset-networking-label = نیٹ ورکنگ
 about-logging-preset-networking-description = نیٹ ورکنگ دے مسائل دی تشخیص کیتے ماڈیول لاگ ان کرو۔
+about-logging-preset-networking-cookie-label = کوکیاں
+about-logging-preset-networking-cookie-description = کوکی مسائل دی تشخیص کیتے ماڈیول لاگ ان کرو۔
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = میڈیا پلے بیک
 about-logging-preset-media-playback-description = میڈیا پلے بیک مسائل دی تشخیص کیتے ماڈیول لاگ کرو (ویڈیو کانفرنسنگ دے مسائل کائنی)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = مخصوص
 about-logging-preset-custom-description = لاگ ماڈیولز دستی طور تے منتخب تھئے۔
-
 # Error handling
 about-logging-error = نقص:
 
@@ -66,5 +55,4 @@ about-logging-unknown-profiler-preset = اݨ ڄاتا پروفائلر پری س
 about-logging-unknown-option = دے بارے اݨ ڄاتا: لاگنگ آپشن "{ $k }"
 about-logging-configuration-url-ignored = کنفیگریشن URL کوں نظر انداز کر ݙتا ڳیا ہے۔
 about-logging-file-and-profiler-override = ہک ای وقت وِچ فائل آؤٹ پٹ تے پروفائلر دے اختیارات کوں اوور رائیڈ نہیں کر سڳدے
-
 about-logging-configured-via-url = URL دے ذریعے آپشن کنفیگر کیتا ڳیا ہے۔
