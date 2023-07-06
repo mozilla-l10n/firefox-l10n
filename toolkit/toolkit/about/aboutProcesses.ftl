@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = Ferlastýring
+
 # The Actions column
 about-processes-column-action =
     .title = Aðgerðir
@@ -32,6 +33,7 @@ about-processes-gmp-plugin-process = Gecko Media tengiforrit ({ $pid })
 about-processes-gpu-process = GPU ({ $pid })
 about-processes-vr-process = VR ({ $pid })
 about-processes-socket-process = Netkerfi ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -54,7 +56,6 @@ about-processes-tab-name = Flipi: { $name }
 
 ## Utility process actor names
 
-about-processes-utility-actor-audio-decoder = Hljóðafkóðari
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 
@@ -69,10 +70,12 @@ about-processes-utility-actor-js-oracle = JavaScript Oracle
 
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (mæli)
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = Heildartími CPU-örgjörva: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = aðgerðalaus
     .title = Heildartími CPU-örgjörva: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -91,6 +94,7 @@ about-processes-cpu-fully-idle = aðgerðalaus
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Framvinda: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

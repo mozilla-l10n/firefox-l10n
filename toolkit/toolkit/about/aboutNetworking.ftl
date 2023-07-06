@@ -34,13 +34,6 @@ about-networking-messages-received = Skilaboð móttekin
 about-networking-bytes-sent = Send bæti
 about-networking-bytes-received = Móttekin bæti
 about-networking-logging = Skráningar
-about-networking-log-tutorial = Kíktu á<a data-l10n-name="logging">HTTP Logging</a> fyrir upplýsngar um hvernig á að nota þetta verkfæri.
-about-networking-current-log-file = Núverandi skráningarskrá:
-about-networking-current-log-modules = Núverandi skráningar einingar:
-about-networking-set-log-file = Setja skráningarskrá
-about-networking-set-log-modules = Setja skráningar einingar
-about-networking-start-logging = Hefja skráningu
-about-networking-stop-logging = Stöðva skráningu
 about-networking-dns-lookup = DNS uppfletting
 about-networking-dns-lookup-button = Finna
 about-networking-dns-domain = Lén:

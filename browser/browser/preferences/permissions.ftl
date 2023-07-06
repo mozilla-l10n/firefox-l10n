@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Undanþágur
-    .style = width: 45em
 permissions-window2 =
     .title = Undanþágur
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Vistfang vefsvæðis
     .accesskey = V
+
 permissions-block =
     .label = Loka á
     .accesskey = o
+
 permissions-disable-etp =
     .label = Bæta við undantekningu
     .accesskey = u
+
 permissions-session =
     .label = Leyfa í þessari vafralotu
     .accesskey = s
+
 permissions-allow =
     .label = Leyfa
     .accesskey = f
+
 permissions-button-off =
     .label = Slökkva á
     .accesskey = k
+
 permissions-button-off-temporarily =
     .label = Slökkva tímabundið
     .accesskey = t
+
 permissions-site-name =
     .label = Vefsvæði
+
 permissions-status =
     .label = Staða
+
 permissions-remove =
     .label = Fjarlægja vefsvæði
     .accesskey = R
+
 permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = V
+
 permissions-autoplay-menu = Sjálfgefið fyrir öll vefsvæði:
+
 permissions-searchbox =
     .placeholder = Leita á vefsvæði
+
 permissions-capabilities-autoplay-allow =
     .label = Leyfa hljóð og myndskeið
 permissions-capabilities-autoplay-block =
     .label = Loka á hljóð
 permissions-capabilities-autoplay-blockall =
     .label = Loka á hljóð og myndskeið
+
 permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
     .label = Loka á
 permissions-capabilities-prompt =
     .label = Spyrja alltaf
+
 permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
     .value = Loka á
 permissions-capabilities-listitem-allow-session =
     .value = Leyfa í þessari vafralotu
+
 permissions-capabilities-listitem-off =
     .value = Slökkt
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Sláðu inn löglegt vistfang
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Undanþágur fyrir aukna rakningarvörn
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Þú hefur slökkt á vörnum á þessum vefsvæðum.
 permissions-exceptions-etp-window2 =
     .title = Undanþágur fyrir aukna rakningarvörn
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Þú getur skilgreint hvaða vefsvæði
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Undantekningar - Vefkökur og gögn vefsvæðis
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Undantekningar - Vefkökur og gögn vefsvæðis
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Þú getur skilgreint hvaða vefsvæði haf
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Undantekningar - Einungis-HTTPS-hamur
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Undantekningar - Einungis-HTTPS-hamur
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ha
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Leyfð vefsvæði - Sprettgluggar
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Leyfð vefsvæði - Sprettgluggar
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Þú getur skilgreint hvaða vefsvæði hafa
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Undantekningar - Vistaðar innskráningar
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Undantekningar - Vistaðar innskráningar
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Innskráningar fyrir eftirfarandi vef
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Leyfð vefsvæði - Uppsetning á viðbótum
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Leyfð vefsvæði - Uppsetning á viðbótum
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Þú getur skilgreint hvaða vefsvæði haf
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Stillingar - sjálfspillun
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Stillingar - sjálfspillun
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Hér getur þú getur stjórnað þeim síðum 
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Stillingar - Leyfðar tilkynningar
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Stillingar - Leyfðar tilkynningar
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Þetta kemur í veg fyrir að vefsv
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Stillingar - Leyfðar staðsetningar
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Stillingar - Leyfðar staðsetningar
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Þetta kemur í veg fyrir að vefsvæð
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Stillingar - Heimildir fyrir sýndarveruleika
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Stillingar - Heimildir fyrir sýndarveruleika
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Þetta kemur í veg fyrir að vefsvæði sem 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Stillingar - Leyfi fyrir myndavél
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Stillingar - Leyfi fyrir myndavél
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Þetta kemur í veg fyrir að vefsvæði 
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Stillingar - Leyfi fyrir hljóðnema
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Stillingar - Leyfi fyrir hljóðnema
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Stillingar - Leyfi fyrir hátalara
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Eftirfarandi vefsvæði hafa beðið um að fá að velja hljóðúttakstæki. Þú getur skilgreint hvaða vefsvæði hafi heimild til að velja hljóðúttakstæki.
+
 permissions-exceptions-doh-window =
     .title = Undantekningar á vefsvæðum fyrir DNS yfir HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } mun ekki nota öruggt DNS á þessum vefsvæðum og undirlénum þeirra.
+
 permissions-doh-entry-field = Settu inn lén vefsvæðisins
     .accesskey = l
+
 permissions-doh-add-exception =
     .label = Bæta við
     .accesskey = a
+
 permissions-doh-col =
     .label = Lén
+
 permissions-doh-remove =
     .label = Fjarlægja
     .accesskey = r
+
 permissions-doh-remove-all =
     .label = Fjarlægja allt
     .accesskey = F

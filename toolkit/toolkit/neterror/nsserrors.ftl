@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Villa kom upp þegar tengst var { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Villunúmer: { $error }
-
 psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglurnar hafa verið gerðar óvirkar.
 psmerr-ssl2-disabled = Get ekki tengst á öruggan hátt því vefsvæðið notar eldri óörugga útgáfu af SSL samskiptareglum.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Ekkert stutt TLS undirritunarreikni
 ssl-error-unsupported-signature-algorithm = Jafningi notaði óþekkta samsetningu af undirritun og tætireikniriti.
 ssl-error-missing-extended-master-secret = Jafningi reyndi að halda áfram án þess að vera með rétta extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = Jafningi reyndi að halda áfram með óvæntri extended_master_secret extension.
+
 sec-error-io = I/Ú villa varð í vottun á öryggisheimild.
 sec-error-library-failure = bilun í öryggissafni.
 sec-error-bad-data = öryggissafn: Tók á móti gölluðum gögnum.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Get ekki afkóðað: reiknirit dulritunarlykil
 sec-error-pkcs7-bad-signature = Vottun undirritunar mistókst: engin undirritun fannst, of margir undirritarar fundust, eða gögn eru óviðeigandi eða gölluð.
 sec-error-unsupported-keyalg = Óstutt eða óþekkt lyklareiknirit.
 sec-error-decryption-disallowed = Get ekki afkóðað: dulritað með óleyfilegu reikniriti eða lyklastærð.
-xp-sec-fortezza-bad-card = Fortezza kort er ekki frumstillt rétt. Fjarlægðu það og skilaðu til baka til útgefanda.
-xp-sec-fortezza-no-card = Ekkert Fortezza kort fannst
-xp-sec-fortezza-none-selected = Ekkert Fortezza kort valið
-xp-sec-fortezza-more-info = Veldu persónuleika fyrir meiri upplýsingar
-xp-sec-fortezza-person-not-found = Persónuleiki fannst ekki
-xp-sec-fortezza-no-more-info = Engar meiri upplýsingar um þennan persónuleika
-xp-sec-fortezza-bad-pin = Ógilt pin leyninúmer
-xp-sec-fortezza-person-error = Get ekki frumstillt Fortezza persónuleika.
 sec-error-no-krl = Fann ekkert KRL fyrir skilríki þessa vefsvæðis.
 sec-error-krl-expired = KRL fyrir skilríki vefsvæðis er útrunninn.
 sec-error-krl-bad-signature = KRL fyrir skilríki þessa vefsvæðis inniheldur ranga undirritun.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Skilríki með sama auðkenni er þegar til.
 sec-error-key-nickname-collision = Lykill með sama viðurnefni er þegar til.
 sec-error-safe-not-created = villa við að búa til öruggan hlut
 sec-error-baggage-not-created = villa við að búa til farangurshlut
-xp-java-remove-principal-error = Gat ekki fjarlægt umbjóðanda
-xp-java-delete-privilege-error = Get ekki eytt sérréttindunum
-xp-java-cert-not-exists-error = Umbjóðandi er ekki með skilríki
 sec-error-bad-export-algorithm = Áskilið reiknirit er ekki leyft.
 sec-error-exporting-certificates = Villa við að flytja út skilríki.
 sec-error-importing-certificates = Villa við að flytja inn skilríki.
@@ -339,6 +320,7 @@ sec-error-locked-password = Lykilorð er læst.
 sec-error-unknown-pkcs11-error = Óþekkt PKCS #11 villa.
 sec-error-bad-crl-dp-url = Ógilt eða óstutt URL í CRL dreifingarnafni.
 sec-error-cert-signature-algorithm-disabled = Skilríkið var undirritað með undirritunarreikniriti sem er óvirkt vegna þess að það er ekki öruggt.
+
 mozilla-pkix-error-key-pinning-failure = Netþjónninn notar key pinning (HPKP) en ekki fannst neitt öruggt skilríki sem passar við pinset. Ekki er hægt að hunsa kröfur vegna key pinning.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Þessi netþjónn notar skilríki með viðbót með einföldum hömlum sem skilgreinir það sem vottunarstöð. Svoleiðis ætti aldrei að þurfa fyrir skilríki sem eru útgefin á réttan hátt.
 mozilla-pkix-error-inadequate-key-size = Netþjónninn sendi skilríki með lyklastærð sem er of lítil til að geta tengst á öruggan hátt.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Netþjónn sendi skilríki sem inn
 mozilla-pkix-error-empty-issuer-name = Netþjónn sendi skilríki sem var með tómt nafn útgefanda.
 mozilla-pkix-error-additional-policy-constraint-failed = Viðbótaröryggisráðstafanir mistókust við sannreyningu þessa skilríkis.
 mozilla-pkix-error-self-signed-cert = Skilríkinu er ekki treyst því það var undirritað af útgefandanum sjálfum.
+
+xp-java-remove-principal-error = Gat ekki fjarlægt umbjóðanda
+xp-java-delete-privilege-error = Get ekki eytt sérréttindunum
+xp-java-cert-not-exists-error = Umbjóðandi er ekki með skilríki
+
+xp-sec-fortezza-bad-card = Fortezza kort er ekki frumstillt rétt. Fjarlægðu það og skilaðu til baka til útgefanda.
+xp-sec-fortezza-no-card = Ekkert Fortezza kort fannst
+xp-sec-fortezza-none-selected = Ekkert Fortezza kort valið
+xp-sec-fortezza-more-info = Veldu persónuleika fyrir meiri upplýsingar
+xp-sec-fortezza-person-not-found = Persónuleiki fannst ekki
+xp-sec-fortezza-no-more-info = Engar meiri upplýsingar um þennan persónuleika
+xp-sec-fortezza-bad-pin = Ógilt pin leyninúmer
+xp-sec-fortezza-person-error = Get ekki frumstillt Fortezza persónuleika.

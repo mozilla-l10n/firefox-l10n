@@ -130,7 +130,6 @@ about-telemetry-category-header = flokkur
 about-telemetry-method-header = aðferð
 about-telemetry-object-header = hlutur
 about-telemetry-extra-header = auka
-about-telemetry-origin-count = fjöldi
 # Variables:
 #  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } ferli

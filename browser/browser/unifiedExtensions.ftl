@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Opna valmynd fyrir { $extensionName }
+
 unified-extensions-item-message-manage = Sýsla með forritsauka
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Festa á verkfærastikuna
+
 unified-extensions-context-menu-manage-extension =
     .label = Sýsla með forritsauka
+
 unified-extensions-context-menu-remove-extension =
     .label = Fjarlægja forritsauka
+
 unified-extensions-context-menu-report-extension =
     .label = Kvarta yfir forritsauka
+
 unified-extensions-context-menu-move-widget-up =
     .label = Færa upp
+
 unified-extensions-context-menu-move-widget-down =
     .label = Færa niður
 

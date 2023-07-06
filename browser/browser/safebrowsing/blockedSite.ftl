@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } lokaði á þessa 
 safeb-palm-advisory-desc = Ráðleggingar frá <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Til baka
 safeb-palm-see-details-label = Sjá nánar
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að sé svindl-vefsvæði</a>. Þú getur <a data-l10n-name='report_detection'>tilkynnt ranga flokkun</a> eða <a data-l10n-name='ignore_warning_link'>hunsað áhættuna</a> og haldið áfram á þetta óörugga vefsvæði.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að sé svindl-vefsvæði</a>. Þú getur <a data-l10n-name='report_detection'>tilkynnt ranga flokkun</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Lærðu meira um svika vefsvæði og netveiðar <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Lærðu meira um { -brand-short-name }’s vörninni gegn netveiðum og spilliforritum á <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að innihalda spilliforrit</a>. Þú getur <a data-l10n-name='ignore_warning_link'>hunsað áhættuna</a> ef þú vilt og haldið áfram á þetta óörugga vefsvæði.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að innihalda spilliforrit</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Lærðu meira um { -brand-short-name }’s vörninni gegn netveiðum og spilliforritum á <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að innihalda spilliforrit</a>. Þú getur <a data-l10n-name='ignore_warning_link'>hunsað áhættuna</a> ef þú vilt og haldið áfram á þetta óörugga vefsvæði.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að innihalda spilliforrit</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Lærðu meira um hættuleg vefforrit og óæskilegan hugbúnað á <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Lærðu meira um { -brand-short-name }’s vörninni gegn svikum og spilliforritum á <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt um að innihalda hugsanlegt hættulegt forrit</a>. Þú getur <a data-l10n-name='ignore_warning_link'>hunsað áhættuna</a> ef þú vilt og haldið áfram á þetta óörugga vefsvæði.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> hefur verið <a data-l10n-name='error_desc_link'>tilkynnt að innihaldi hættulegt forrit</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Lærðu meira um { -brand-short-name }’s vörninni gegn netveiðum og spilliforritum á <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Þetta er ekki svindlsvæði…

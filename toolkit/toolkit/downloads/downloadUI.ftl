@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ekki hætta
        *[other] Ekki hætta
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ef vinnur án nettengingar, verður 1 niðurhali eytt. Ertu viss um að þú viljir hætta?
        *[other] Ef þú vinnur án nettengingar, verður { $downloadsCount } niðurhölum eytt. Ertu viss um að þú viljir hætta?
     }
 download-ui-dont-go-offline-button = Vera nettengdur
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ef þú lokar öllum huliðsgluggum, þá verður hætt við 1 niðurhal. Ertu viss um að þú viljir hætta í huliðsstillingu?
        *[other] Ef þú lokar öllum huliðsgluggum, þá verður hætt við { $downloadsCount } niðurhöl. Ertu viss um að þú viljir hætta í huliðsstillingu?
     }
 download-ui-dont-leave-private-browsing-button = Vera áfram í huliðsvafri
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Hætta við 1 niðurhal

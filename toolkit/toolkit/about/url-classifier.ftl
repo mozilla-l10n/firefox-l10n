@@ -50,5 +50,9 @@ url-classifier-disabled = Óvirkt
 url-classifier-updating = uppfæri
 url-classifier-cannot-update = get ekki uppfært
 url-classifier-success = tókst
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = uppfærslu villa ({ $error })
 url-classifier-download-error = niðurhalsvilla ({ $error })

@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Leita
 config-new-pref-name =
     .placeholder = Nafn
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = Strengur
 config-new-pref-value-integer = Heiltala
+
 config-new-pref-string =
     .placeholder = Sláðu inn streng
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Hætta við
 config-new-pref-create-button = Búa til
 config-new-pref-change-button = Breyta
+
 config-pref-toggle-button = Víxla
 config-pref-reset-button = Endurstilla
+
 config-context-menu-copy-pref-name =
     .label = Afrita heiti
 config-context-menu-copy-pref-value =

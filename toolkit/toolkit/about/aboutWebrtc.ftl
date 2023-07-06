@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = vista about:webrtc sem
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC atvikaskráning
 about-webrtc-aec-logging-off-state-label = Byrja AEC-atvikaskráningu
 about-webrtc-aec-logging-on-state-label = Hætta AEC-atvikaskráningu
 about-webrtc-aec-logging-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-atvikaskráning virk (talaðu við viðmælanda í nokkrar mínútur og stöðvaðu svo skráninguna)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Hægt er að finna skrár fyrir atvikaskráningu í: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -75,10 +78,12 @@ about-webrtc-type-remote = Fjarlægt
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Þýðing
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valið
+
 about-webrtc-save-page-label = Vista síðu
 about-webrtc-debug-mode-msg-label = Villuleitarhamur
 about-webrtc-debug-mode-off-state-label = Byrja í villuleitarham
@@ -91,6 +96,7 @@ about-webrtc-log-show-msg = sýna atvikaskrá
     .title = smelltu til að stækka þetta svæði
 about-webrtc-log-hide-msg = fela atvikaskrá
     .title = smelltu til að fella saman þetta svæði
+
 about-webrtc-log-section-show-msg = Sýna atvikaskrá
     .title = Smelltu til að stækka þetta svæði
 about-webrtc-log-section-hide-msg = Fela atvikaskrá
@@ -159,9 +165,11 @@ about-webrtc-rotation-degrees = Snúningur (gráður)
 
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Áætluð bandbreidd
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -177,6 +185,7 @@ about-webrtc-save-page-msg = síða vistuð á: { $path }
 about-webrtc-debug-mode-off-state-msg = rakningarskrá er að finna á: { $path }
 about-webrtc-debug-mode-on-state-msg = villuleitarhamur virkur, rakningarskrá á: { $path }
 about-webrtc-aec-logging-off-state-msg = hægt er að finna skrár fyrir atvikaskráningu í: { $path }
+
 about-webrtc-save-page-complete-msg = Síða vistuð á: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Rakningarskrá er að finna á: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Villuleitarhamur virkur, rakningarskrá á: { $path }
@@ -191,6 +200,7 @@ about-webrtc-frames =
         [one] { $frames } rammi
        *[other] { $frames } rammar
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -199,11 +209,13 @@ about-webrtc-channels =
         [one] { $channels } rás
        *[other] { $channels } rásir
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Flökt { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
