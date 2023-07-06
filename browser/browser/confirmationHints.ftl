@@ -12,4 +12,3 @@ confirmation-hint-password-saved = ¡Contraseña guardada!
 confirmation-hint-pin-tab = ¡Fijada!
 confirmation-hint-pin-tab-description = Haz clic derecho en la pestaña para desfijarla.
 confirmation-hint-send-to-device = ¡Enviado!
-confirmation-hint-firefox-relay-mask-generated = ¡Nueva máscara de { -relay-brand-short-name } creada!

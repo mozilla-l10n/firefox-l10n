@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = Acerca del registro
 about-logging-page-title = Administrador de registros
 about-logging-current-log-file = Archivo de registro actual:
-about-logging-current-log-modules = Módulos de registro actuales:
 about-logging-new-log-file = Nuevo archivo de registro:
 about-logging-currently-enabled-log-modules = Módulos de registro habilitados actualmente:
 about-logging-log-tutorial = Vea<a data-l10n-name="logging">Registro HTTP</a> para instrucciones sobre como usar esta herramienta.
@@ -53,6 +50,7 @@ about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de registro seleccionados manualmente
+
 # Error handling
 about-logging-error = Error:
 
@@ -66,4 +64,5 @@ about-logging-unknown-profiler-preset = Valor preestablecido de perfilador desco
 about-logging-unknown-option = Opción de about:loggin desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
 about-logging-file-and-profiler-override = No se puede forzar la salida a un archivo y anular las opciones del perfilador al mismo tiempo
+
 about-logging-configured-via-url = Opción configurada vía URL

@@ -26,10 +26,6 @@ certmgr-people = Tienes certificados en el archivo que identifican a estas perso
 certmgr-server = Estas entradas identifican las excepciones de error del certificado del servidor
 certmgr-ca = Tienes certificados en el archivo que identifican a las siguientes autoridades de certificación
 
-certmgr-edit-ca-cert =
-    .title = Editar configuración de confianza de la CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Editar configuración de confianza de la CA
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Este certificado puede identificar a los usuarios de correo.
-
-certmgr-delete-cert =
-    .title = Eliminar certificado
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Eliminar certificado
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Servidor
-
-certmgr-override-lifetime =
-    .label = Vida útil
 
 certmgr-token-name =
     .label = Dispositivo de seguridad
