@@ -260,10 +260,6 @@ about-debugging-worker-push-service =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Разделът не е напълно зареден и не може да бъде проверен
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Основен процес
-
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Затваряне на съобщението

@@ -124,6 +124,8 @@ media-device-channels = Канали
 media-device-rate = Честота
 media-device-latency = Закъснение
 
+## Codec support table
+
 ##
 
 intl-title = Интернационализиране и локализация

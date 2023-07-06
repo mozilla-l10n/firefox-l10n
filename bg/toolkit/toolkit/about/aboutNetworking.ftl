@@ -27,13 +27,6 @@ about-networking-messages-received = Съобщения получени
 about-networking-bytes-sent = Байта изпратени
 about-networking-bytes-received = Байта получени
 about-networking-logging = Журнал
-about-networking-log-tutorial = Вижте <a data-l10n-name="logging">Журнали на HTTP</a> за инструкции как да използвате този инструмент.
-about-networking-current-log-file = Текущ журнал:
-about-networking-current-log-modules = Текущи модули:
-about-networking-set-log-file = Задаване на файлове за журнала
-about-networking-set-log-modules = Задаване на модули за журнала
-about-networking-start-logging = Започване
-about-networking-stop-logging = Спиране
 about-networking-dns-lookup = Търсене в DNS
 about-networking-dns-lookup-button = Определяне
 about-networking-dns-domain = Домейн:

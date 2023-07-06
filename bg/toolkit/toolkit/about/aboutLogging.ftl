@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Текущ журнал:
-about-logging-current-log-modules = Текущи модули:
 about-logging-log-tutorial = Вижте <a data-l10n-name="logging">Журнали на HTTP</a> за инструкции как да използвате този инструмент.
 about-logging-set-log-file = Задаване на файлове за журнала
 about-logging-set-log-modules = Задаване на модули за журнала
 about-logging-start-logging = Започване
 about-logging-stop-logging = Спиране
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

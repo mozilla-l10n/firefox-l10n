@@ -16,7 +16,6 @@ styleeditor-save-button = Запазване
     .accesskey = З
 styleeditor-options-button =
     .tooltiptext = Настройки на стиловия редактор
-styleeditor-media-rules = Правила @media
 styleeditor-editor-textbox =
     .data-placeholder = Въведете CSS.
 styleeditor-no-stylesheet = Тази страница няма стилов лист.
@@ -32,6 +31,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Отиване на ред…
     .accesskey = р
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

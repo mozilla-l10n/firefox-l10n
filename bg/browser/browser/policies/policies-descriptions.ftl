@@ -36,10 +36,6 @@ policy-DisplayMenuBar = Показва лентата с менюто по по�
 
 policy-DNSOverHTTPS = Настройки на DNS през HTTPS.
 
-policy-FirefoxHome = Настройки на Firefox Home.
-
-policy-FlashPlugin = Разрешава или спира приставката за Flash.
-
 policy-InstallAddonsPermission = Разрешава определени страници да инсталират добавки.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.

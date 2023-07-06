@@ -236,16 +236,10 @@ newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Запазване в { -pocket-brand-name }
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Зареждане на още истории
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-desc = Проверете по-късно за повече.
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

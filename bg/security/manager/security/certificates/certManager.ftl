@@ -25,10 +25,6 @@ certmgr-remembered = Тези сертификати се използват, з
 certmgr-people = Имате сертификати, които идентифицират следните хора
 certmgr-ca = Имате сертификати, които идентифицират следните удостоверители на сертификати
 
-certmgr-edit-ca-cert =
-    .title = Редактиране на настройките за доверие в сертификат на CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Редактиране на настройките за доверие в сертификат на CA
     .style = min-width: 48em;
@@ -40,10 +36,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Този сертификат може да идентифицира пощенски потребители.
-
-certmgr-delete-cert =
-    .title = Изтриване на сертификат
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Изтриване на сертификат
@@ -57,9 +49,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Сървър
-
-certmgr-override-lifetime =
-    .label = Време на живот
 
 certmgr-token-name =
     .label = Устройство по безопасността

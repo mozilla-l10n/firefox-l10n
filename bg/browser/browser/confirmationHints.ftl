@@ -11,4 +11,3 @@ confirmation-hint-password-saved = Паролата е запазена!
 confirmation-hint-pin-tab = Закачен!
 confirmation-hint-pin-tab-description = Щракнете с десния бутон върху раздела, за да го махнете от леснодостъпните.
 confirmation-hint-send-to-device = Изпратено!
-confirmation-hint-firefox-relay-mask-generated = Създадена е нова маска от { -relay-brand-short-name }

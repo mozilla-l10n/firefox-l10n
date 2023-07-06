@@ -8,14 +8,16 @@ search-header =
     .placeholder = търсене в addons.mozilla.org
     .searchbuttonlabel = Търсене
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Изтеглете разширения и теми от <a data-l10n-name="get-extensions">{ $domain }</a>
 
 list-empty-get-dictionaries-message = Изтеглете речници от <a data-l10n-name="get-extensions">{ $domain }</a>
 
 list-empty-get-language-packs-message = Изтеглете езикови пакети от <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = Няма инсталирани добавки от този вид
@@ -348,18 +350,7 @@ extension-enabled-heading = Включени
 extension-disabled-heading = Изключени
 
 theme-enabled-heading = Включени
-theme-disabled-heading = Изключени
 theme-disabled-heading2 = Запазени теми
-theme-monochromatic-heading = Цветови комбинации
-theme-monochromatic-subheading = Изразителни цветови комбинации от { -brand-product-name }. Достъпни за ограничен период.
-
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Опитайте цветовете
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Променяне на цветовете
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Изтича на { DATETIME($expiryDate, month: "long", day: "numeric") }
 
 plugin-enabled-heading = Включени
 plugin-disabled-heading = Изключени
@@ -429,6 +420,9 @@ addon-detail-private-browsing-help = Когато е разрешено, раз�
 addon-detail-private-browsing-allow = Разрешаване
 addon-detail-private-browsing-disallow = Забраняване
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -488,6 +482,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

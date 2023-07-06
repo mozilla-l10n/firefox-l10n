@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Независими гласове
-colorway-collection-independent-voices-description = Цветът може да промени културата. Най-новите цветови комбинации са в чест на гласовете, които правят света по-добър.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Цветове, които променят културата.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Плеймейкър
