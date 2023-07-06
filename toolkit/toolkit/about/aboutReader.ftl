@@ -4,6 +4,7 @@
 
 about-reader-loading = A carregar…
 about-reader-load-error = Erro ao carregar o artigo da página
+
 about-reader-color-scheme-light = Claro
     .title = Esquema de cores claro
 about-reader-color-scheme-dark = Escuro
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sépia
     .title = Esquema de cores sépia
 about-reader-color-scheme-auto = Automático
     .title = Esquema de cores automático
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

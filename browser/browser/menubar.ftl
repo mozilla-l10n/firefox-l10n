@@ -38,9 +38,11 @@ menu-quit =
             [windows] r
            *[other] r
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sair do { -brand-shorter-name }
+
 menu-about =
     .label = Acerca do { -brand-shorter-name }
     .accesskey = A
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Separadores fechados recentemente
 menu-history-undo-window-menu =
     .label = Janelas fechadas recentemente
-menu-history-reopen-all-tabs = Reabrir todos os separadores
-menu-history-reopen-all-windows = Reabrir todas as janelas
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-manage =
     .label = Gerir marcadores
-menu-bookmark-current-tab =
-    .label = Adicionar separador aos marcadores
-menu-bookmark-edit =
-    .label = Editar este marcador
 menu-bookmark-tab =
     .label = Adicionar separador atual aos marcadores…
 menu-edit-bookmark =
