@@ -24,3 +24,10 @@ migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 
 ##
 
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+

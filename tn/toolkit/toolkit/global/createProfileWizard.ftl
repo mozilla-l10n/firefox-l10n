@@ -5,12 +5,6 @@
 
 ## First wizard page
 
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Matseno
-       *[other] O amogelesegile mo { create-profile-window.title }
-    }
-
 create-profile-first-page-header2 =
     { PLATFORM() ->
         [macos] Matseno
@@ -24,12 +18,6 @@ profile-creation-explanation-2 = Fa e le gore o arolelana khopi eno ya { -brand-
 profile-creation-explanation-3 = Fa e le wena fela o dirisang khopi eno ya { -brand-short-name }, o tshwanetse go nna le bonnye, porofaele e le nngwe fela. Fa o rata o ka itlhamela diporofaele tse dintsi go bolokela boalo le diratwabogolo tse di farologaneng. Go naya sekai, o ka batla go nna le diporofaele tse di farologaneng tsa tiriso ya kgwebo le ya sebele.
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Bokhutlo
-       *[other] E feleletsa { create-profile-window.title }
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

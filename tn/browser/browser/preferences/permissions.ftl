@@ -61,3 +61,7 @@ permissions-exceptions-popup-desc = O ka totobatsa gore ke di webosaete dife tse
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

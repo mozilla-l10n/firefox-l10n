@@ -146,6 +146,8 @@ menu-view-full-screen =
     .label = Sekerini se se Tletseng
     .accesskey = S
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -176,8 +178,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Matshwaotsebe
     .accesskey = M
-menu-bookmark-edit =
-    .label = Tseleganya letshwaotsebe le
 menu-bookmarks-all-tabs =
     .label = Ikwadise mo Tsebeng e...
 menu-bookmarks-toolbar =

@@ -17,10 +17,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = E kopolola Setifikeiti
-    .style = width: 46em
-
 download-cert-window2 =
     .title = E kopolola Setifikeiti
     .style = min-width: 46em
@@ -51,4 +47,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Go botlhokwa: Fa o lebala khunololamoraba ya gago ya poloko ya setifikeiti, o ka seke wa kgona go busetsa poloko eno kgantele.  Tsweetswee e rekote mo lefelong le le babalesegileng.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

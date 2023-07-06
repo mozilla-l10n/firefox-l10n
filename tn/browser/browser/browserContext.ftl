@@ -167,14 +167,6 @@ main-context-menu-audio-email =
     .label = Imeile Modumo...
     .accesskey = e
 
-main-context-menu-plugin-play =
-    .label = Dirisa kgokelo e
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Fitlha kgokelo e
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -203,10 +195,6 @@ main-context-menu-frame-open-window =
 
 main-context-menu-frame-reload =
     .label = Tsenya sešwa Foreimi
-    .accesskey = T
-
-main-context-menu-frame-bookmark =
-    .label = Tshwayatsebe Foreime e
     .accesskey = T
 
 main-context-menu-frame-save-as =

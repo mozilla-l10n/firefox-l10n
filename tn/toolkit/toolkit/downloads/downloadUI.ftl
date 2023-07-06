@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Se Tloge
        *[other] Se Tswe
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Fa o kgaoga nakwana jaanong, go tla khanselwa kopololo e le 1. A o totobetse gore o batla go kgaoga nakwana?
        *[other] Fa o kgaoga nakwana jaanong, go tla khanselwa dikopololo di le { $downloadsCount }. A o totobetse gore o batla go kgaoga nakwana?
     }
 download-ui-dont-go-offline-button = Nna mo Kgokaganong ya Inthanete
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Khansela Kopololo e le 1

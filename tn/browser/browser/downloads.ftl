@@ -74,6 +74,7 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Phimola Dikopololo
     .tooltiptext = Diphimolo di digetse, dikopololo tse di khansetsweng le tse di reteletsweng
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

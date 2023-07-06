@@ -14,3 +14,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Batla Gape
     .accesskey = a
+

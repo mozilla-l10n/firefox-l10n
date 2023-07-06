@@ -27,6 +27,7 @@ webrtc-item-browser = thebe
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Tshimologo e sa itsiweng
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -64,12 +65,16 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Sekapa-ditshwantsho se abelwana le { $tabCount } thebe
            *[other] Sekapa-ditshwantsho se abelwana le { $tabCount } dithebe
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Sekapa-ditshwantsho se abelwana le "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Sekapa-ditshwantsho se abelwana le "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Sekapa-ditshwantsho se abelwana le "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Sekapa-ditshwantsho se abelwana le "{ $streamTitle }"
 

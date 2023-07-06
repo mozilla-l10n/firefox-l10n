@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Patlo ya Poraefete)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Patlo ya Poraefete)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Patlo ya Poraefete)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Patlo ya Poraefete)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -57,12 +24,8 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Laola tiriso ya serweboleta sa DRM
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Laola kabelano ya sekapa-mantswe sa gago le saete
-urlbar-translate-notification-anchor =
-    .tooltiptext = Ranola tsebe e
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Laola kabelano ya windows kgotsa sekerini sa gago le saete
-urlbar-translated-notification-anchor =
-    .tooltiptext = Laola thanodi ya tsebe
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Laola kabelano ya sekapa-ditshwantsho le/kgotsa sekapa-mantswe le saete
 
@@ -81,6 +44,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -129,20 +93,16 @@ identity-active-blocked = { -brand-short-name } e kgoreleditse dikarolo tsa tseb
 identity-passive-loaded = Dikarolo tsa tsebe e ga di a sireletsega (jaaka ditshwantsho).
 identity-active-loaded = O thibetse go dira ga tshireletso mo tsebeng e.
 identity-weak-encryption = Tsebe eno e dirisa mokgwatshireletso o bokoa.
+
 identity-description-insecure = Kgolagano ya gago mo saete eno ga e poraefete. Tshedimosetso e o e romelang e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato, le tse dingwe.).
 identity-description-weak-cipher-intro = Kgolagano ya gago mo saete eno e dirisa mokgwatshireletso o bokoa gape ga e poraefete.
 identity-description-weak-cipher-risk = Batho bangwe ba kgona go leba tshedimosetso ya gago kgotsa go fetola tiro - tsamaiso ya webosaete.
-identity-description-active-blocked = { -brand-short-name } e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang. <label data-l10n-name="link">Ithute mo go Tseneletseng</label>
 identity-description-active-blocked2 = { -brand-short-name } e kgoreleditse dikarolo tsa tsebe eno tse di sa sireletsegang.
 identity-description-passive-loaded = Kgolagano ya gago ga e poraefete ka jalo tshedimosetso e o e abelanang le saete e ka lebiwa ke batho ba bangwe.
-identity-description-passive-loaded-insecure = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho). <label data-l10n-name="link">Ithute mo go Tseneletseng</label>
-identity-description-passive-loaded-mixed = Le mororo { -brand-short-name } e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho). <label data-l10n-name="link">Ithute mo go Tseneletseng</label>
 identity-description-passive-loaded-insecure2 = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka ditshwantsho).
 identity-description-passive-loaded-mixed2 = Le mororo { -brand-short-name } e kgoreleditse diteng dingwe, go santse gona le diteng tse di sa sireletsegang mo tsebeng (jaaka ditshwantsho).
 identity-description-active-loaded = Webosaete eno e tshotse diteng tse di sa sireletsegang (jaaka disekeripiti) gape kgolagano ya gago mo go yone ga e poraefete.
 identity-description-active-loaded-insecure = Tshedimosetso e o e abelanang le saete eno e ka lebiwa ke batho ba bangwe (jaaka dikhunololamoraba, melaetsa, dikaratamolato , le tse dingwe.).
-identity-learn-more =
-    .value = Ithute mo go Tseneletseng
 identity-disable-mixed-content-blocking =
     .label = Thibela go dira ga tshireletso ga jaana
     .accesskey = T
@@ -184,8 +144,10 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 
 urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
+
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
+
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
 
@@ -221,6 +183,8 @@ urlbar-result-action-search-w-engine = Batla ka: { $engine }
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ga jaana e mo sekerini se se tletseng
 fullscreen-warning-no-domain = Tokumente e, e mo sekerini se se tletseng
+
+
 fullscreen-exit-button = Tswaya mo sekerini se se tletseng (Tswaya)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Tswaya mo sekerini se se tletseng (tswaya)
@@ -242,8 +206,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = Tseleganya letshwaotsebe le
 bookmarks-toolbar-menu =
     .label = Bara ya Didirisiwa Matshwaotsebe
 bookmarks-toolbar-placeholder =
@@ -265,16 +227,19 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = Kgokagano ya Imeile
     .tooltiptext = Romela kgokagano ka imeile ko tsebeng e
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Boloka Tsebe
     .tooltiptext = Boloka tsebe e ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Bula Faele
     .tooltiptext = Bula faele ({ $shortcut })
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -302,6 +267,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Letlelela ditlhagelelo tsa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela ditlhagelelo tsa { $uriHost }
     .accesskey = p
@@ -323,20 +289,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Dikopololo
+
 navbar-overflow =
     .tooltiptext = Didirisiwa tse dintsi...
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Gatisa
     .tooltiptext = Gatisa tsebe e... ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Dithebe tsa Sebatli
+
 tabs-toolbar-new-tab =
     .label = Thebe e Ntšha
+
 tabs-toolbar-list-all-tabs =
     .label = Dira lenaane la dithebe tsotlhe
     .tooltiptext = Dira lenaane la dithebe tsotlhe
@@ -358,10 +329,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } thibetse tsebe e go itirisa sešwa.
 refresh-blocked-redirect-label = { -brand-short-name } e thibetse tsebe e go itirisa mo phetisong go ya tsebeng e nngwe.
+
 refresh-blocked-allow =
     .label = Letlelela
     .accesskey = A
@@ -386,6 +361,7 @@ popup-warning-message =
         [one] { -brand-short-name } kganetse saete e go bula window e e tlhagelelang .
        *[other] { -brand-short-name } kganetse saete e go bula { $popupCount } windows tse di tlhagelelang.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

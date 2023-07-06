@@ -16,6 +16,17 @@ neterror-try-again-button = Leka Gape
 
 ## Specific error messages
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-not-cached-intro = Tokumente e kopilweng ga e teng mo { -brand-short-name } polokotshedimosetso ya gangwe le gape.
 neterror-not-cached-sensitive = Ka keletlhoko ya pabalesego, { -brand-short-name } Ga e itirise go kopa ditokumente tsa sephiri.
 neterror-not-cached-try-again = Tobetsa Leka Gape go kopa sesha tokumente gotswa mo webosaeteng.
