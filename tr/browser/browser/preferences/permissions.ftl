@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = İstisnalar
-    .style = width: 45em
 permissions-window2 =
     .title = İstisnalar
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Site adresi
     .accesskey = d
+
 permissions-block =
     .label = Engelle
     .accesskey = E
+
 permissions-disable-etp =
     .label = Ayrıcalık tanı…
     .accesskey = A
+
 permissions-session =
     .label = Oturum boyunca izin ver
     .accesskey = r
+
 permissions-allow =
     .label = İzin ver
     .accesskey = z
+
 permissions-button-off =
     .label = Kapat
     .accesskey = K
+
 permissions-button-off-temporarily =
     .label = Geçici olarak kapat
     .accesskey = G
+
 permissions-site-name =
     .label = Web sitesi
+
 permissions-status =
     .label = Durum
+
 permissions-remove =
     .label = Siteyi sil
     .accesskey = S
+
 permissions-remove-all =
     .label = Tüm siteleri sil
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Değişiklikleri kaydet
     .buttonaccesskeyaccept = D
+
 permissions-autoplay-menu = Tüm web siteler için varsayılan:
+
 permissions-searchbox =
     .placeholder = Web sitesi ara
+
 permissions-capabilities-autoplay-allow =
     .label = Ses ve videoya izin ver
 permissions-capabilities-autoplay-block =
     .label = Sesi engelle
 permissions-capabilities-autoplay-blockall =
     .label = Ses ve videoyu engelle
+
 permissions-capabilities-allow =
     .label = İzin ver
 permissions-capabilities-block =
     .label = Engelle
 permissions-capabilities-prompt =
     .label = Her zaman sor
+
 permissions-capabilities-listitem-allow =
     .value = İzin ver
 permissions-capabilities-listitem-block =
     .value = Engelle
 permissions-capabilities-listitem-allow-session =
     .value = Oturum boyunca izin ver
+
 permissions-capabilities-listitem-off =
     .value = Kapalı
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Lütfen geçerli bir sunucu adı girin
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Gelişmiş İzlenme Koruması İstisnaları
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Aşağıdaki web sitelerinde korumaları kapattınız.
 permissions-exceptions-etp-window2 =
     .title = Gelişmiş İzlenme Koruması İstisnaları
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Gelişmiş izlenme korumasının hangi 
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = İstisnalar - Çerezler ve Site Verileri
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = İstisnalar - Çerezler ve Site Verileri
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Hangi web sitelerinin çerezleri ve site ve
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = İstisnalar - Yalnızca HTTPS Modu
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = İstisnalar - Yalnızca HTTPS Modu
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Belirli web siteleri için yalnızca HT
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = İzin Verilen Siteler - Açılır Pencereler
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = İzin Verilen Siteler - Açılır Pencereler
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Hangi sitelerin açılır pencere açabilece
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = İstisnalar - Kayıtlı Hesaplar
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = İstisnalar - Kayıtlı Hesaplar
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Aşağıdaki sitelere giriş bilgiler
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = İzin Verilen Siteler - Eklenti Yükleme
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = İzin Verilen Siteler - Eklenti Yükleme
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Hangi sitelerin eklenti yükleyebileceğini
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Ayarlar - Otomatik Oynat
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Ayarlar - Otomatik Oynat
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Varsayılan otomatik oynatma ayarlarınıza uym
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Ayarlar - Bildirim İzinleri
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Ayarlar - Bildirim İzinleri
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Yukarıdaki listede bulunmayan hiç
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Ayarlar - Konum İzinleri
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Ayarlar - Konum İzinleri
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Yukarıdaki listede bulunmayan hiçbir 
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Ayarlar - Sanal Gerçeklik İzinleri
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Ayarlar - Sanal Gerçeklik İzinleri
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Yukarıdaki listede bulunmayan hiçbir web si
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Ayarlar - Kamera İzinleri
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Ayarlar - Kamera İzinleri
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Yukarıdaki listede bulunmayan hiçbir we
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Ayarlar - Mikrofon İzinleri
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Ayarlar - Mikrofon İzinleri
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Ayarlar - Hoparlör İzinleri
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Aşağıdaki siteler ses çıkış cihazını seçmek istedi. Hangi sitelerin ses çıkış cihazını seçebileceğini belirtebilirsiniz.
+
 permissions-exceptions-doh-window =
     .title = HTTPS üzerinden DNS için web sitesi istisnaları
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }, bu sitelerde ve alt alan adlarında güvenli DNS kullanmayacaktır.
+
 permissions-doh-entry-field = Web sitesinin alan adını yazın
     .accesskey = W
+
 permissions-doh-add-exception =
     .label = Ekle
     .accesskey = E
+
 permissions-doh-col =
     .label = Alan adı
+
 permissions-doh-remove =
     .label = Kaldır
     .accesskey = K
+
 permissions-doh-remove-all =
     .label = Tümünü kaldır
     .accesskey = T

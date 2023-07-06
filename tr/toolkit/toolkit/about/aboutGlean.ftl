@@ -5,32 +5,27 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Glean Hakkında
-about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a>, Mozilla ürünlerinde kullanılan bir veri toplama kütüphanesidir. Bu sayfa, <a data-l10n-name="fog-debug-doc-link">Glean SDK'de hata ayıklamayı ve loglama durumunu yapılandırmak</a> isteyen geliştiriciler ve test kullanıcıları içindir.
-about-glean-warning = Bu arayüzün yanlış kullanılması { -brand-short-name } tarayıcınızın çökmesine neden olabilir.
-tag-pings-label = Gönderilen tüm ping'leri bu etiketle etiketle
-log-pings-label = Göndermeden önce ping yükü günlüğe kaydedilsin mi?
-send-pings-label = Adlandırılmış ping gönder
-controls-button-label = Ayarları gönder
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } Hata Ayıklama Ping Görüntüleyicisi
+
 about-glean-page-title2 = { -glean-brand-name } Hakkında
 about-glean-header = { -glean-brand-name } Hakkında
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
     { -vendor-short-name } projelerinde kullanılan bir veri toplama kitaplığıdır.
     Bu arayüz, geliştiriciler ve testçiler tarafından <a data-l10n-name="fog-link"> enstrümantasyonu manuel olarak test etmek</a> amacıyla tasarlanmıştır.
+
 about-glean-upload-enabled = Veri yükleme etkin.
 about-glean-upload-disabled = Veri yükleme devre dışı.
 about-glean-upload-enabled-local = Veri yükleme yalnızca yerel bir sunucuya göndermek üzere etkin.
 about-glean-upload-fake-enabled =
     Veri yükleme kapalı ama verilerin yerel olarak kaydedilmeye devam etmesi için { glean-sdk-brand-name }’e yanlış bilgi vererek açık olduğunu söylüyoruz.
     Not: Hata ayıklama etiketi ayarlarsanız ping’ler ayarlardan bağımsız olarak <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>’e yüklenir.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = İlgili <a data-l10n-name="fog-prefs-and-defines-doc-link">tercihler ve tanımlar</a> şunları içeriyor:
 # Variables:
@@ -49,11 +44,16 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Test Hakkında
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (hiçbir ping gönderme)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Önceki alanda, pinglerinizi daha sonra tanıyabilmeniz için akılda kalıcı bir hata ayıklama etiketi olduğundan emin olun.
+
+
 controls-button-label-verbose = Ayarları uygula ve ping gönder
+
 about-glean-about-data-header = Veriler Hakkında
 about-glean-about-data-explanation = Toplanan verilerin listesine göz atmak için lütfen <a data-l10n-name="glean-dictionary-link">{ -glean-brand-name } Sözlüğü’nü inceleyin</a>.

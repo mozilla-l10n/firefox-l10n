@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Tarayıcı verilerini içe aktar
 migration-wizard-selection-list = İçe aktarmak istediğiniz verileri seçin.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = İçe aktarmak istediğiniz verileri seçin.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Seçilen verileri içe aktar
 
 migration-select-all-option-label = Tümünü seç
 migration-bookmarks-option-label = Yer imleri
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Sık kullanılanlar
+
 migration-logins-and-passwords-option-label = Kayıtlı hesaplar ve parolalar
 migration-history-option-label = Gezinti geçmişi
 migration-extensions-option-label = Uzantılar
 migration-form-autofill-option-label = Otomatik form doldurma verileri
 migration-payment-methods-option-label = Ödeme yöntemleri
+
 migration-cookies-option-label = Çerezler
 migration-session-option-label = Pencereler ve sekmeler
 migration-otherdata-option-label = Diğer veriler
+
 migration-passwords-from-file-progress-header = Parola dosyasını içe aktar
 migration-passwords-from-file-success-header = Parolalar başarıyla içe aktarıldı
 migration-passwords-from-file = Dosyadaki parolalar kontrol ediliyor
 migration-passwords-new = Yeni parolalar
 migration-passwords-updated = Mevcut parolalar
+
 migration-passwords-from-file-no-valid-data = Bu dosya hiç geçerli parola verisi içermiyor. Başka bir dosya seçin.
+
 migration-passwords-from-file-picker-title = Parola dosyasını içe aktar
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV belgesi
        *[other] TSV dosyası
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } parola eklendi
        *[other] { $newEntries } parola eklendi
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } parola güncellendi
        *[other] { $updatedEntries } parola güncellendi
     }
+
 migration-bookmarks-from-file-picker-title = Yer İmi Dosyasını İçe Aktar
 migration-bookmarks-from-file-progress-header = Yer imleri içe aktarılıyor
 migration-bookmarks-from-file = Yer imleri
 migration-bookmarks-from-file-success-header = Yer imleri başarıyla içe aktarıldı
+
 migration-bookmarks-from-file-no-valid-data = Bu dosya hiç yer imi verisi içermiyor. Başka bir dosya seçin.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML belgesi
        *[other] HTML dosyası
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON dosyası
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } yer imi
        *[other] { $newEntries } yer imi
     }
+
 migration-import-button-label = İçe aktar
 migration-choose-to-import-from-file-button-label = Dosyadan içe aktar
 migration-import-from-file-button-label = Dosya seç
 migration-cancel-button-label = Vazgeç
 migration-done-button-label = Tamam
 migration-continue-button-label = Devam
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } yer imi, geçmiş veya parola verileri içeren herhangi bir program bulamadı.
 migration-wizard-import-browser-no-resources = Bir hata oluştu. { -brand-short-name } bu tarayıcı profilinden içe aktarılacak herhangi bir veri bulamıyor.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Bir hata oluştu. { -brand-short-
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = yer imleri
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = sık kullanılanlar
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = İçe aktarılıyor…
 migration-wizard-progress-icon-completed =
     .aria-label = Tamamlandı
+
 migration-safari-password-import-header = Parolaları Safari’den içe aktar
 migration-safari-password-import-steps-header = Safari parolalarını içe aktarmak için:
 migration-safari-password-import-step1 = Safari’de “Safari” menüsünü açıp Tercihler > Parolalar’a gidin
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Parola dosyasını kaydedin
 migration-safari-password-import-step4 = Aşağıdaki “Dosya seç”i kullanarak kaydettiğiniz parola dosyasını seçin
 migration-safari-password-import-skip-button = Geç
 migration-safari-password-import-select-button = Dosya seç
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } yer imi
        *[other] { $quantity } yer imi
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } uzantı
        *[other] { $quantity } uzantı
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,9 +238,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched }/{ $quantity } uzantı
+
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Eşleşen uzantı bulunamadı
+
 migration-wizard-progress-extensions-addons-link = { -brand-short-name } uzantılarına göz atın
 
 ##
@@ -232,6 +257,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } parola
        *[other] { $quantity } parola
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -242,7 +268,9 @@ migration-wizard-progress-success-history =
         [one] Son 1 gün
        *[other] Son { $maxAgeInDays } gün
     }
+
 migration-wizard-progress-success-formdata = Form geçmişi
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -253,6 +281,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } ödeme yöntemi
        *[other] { $quantity } ödeme yöntemi
     }
+
 migration-wizard-safari-permissions-sub-header = Safari yer işaretlerini ve gezinti geçmişini içe aktarmak için:
 migration-wizard-safari-instructions-continue = “Devam Et”i seçin
 migration-wizard-safari-instructions-folder = Listeden Safari klasörünü seçip “Aç”ı seçin

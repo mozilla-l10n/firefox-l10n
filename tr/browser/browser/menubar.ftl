@@ -38,9 +38,11 @@ menu-quit =
             [windows] k
            *[other] k
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } uygulamasından çık
+
 menu-about =
     .label = { -brand-shorter-name } hakkında
     .accesskey = h
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Son kapatılan sekmeler
 menu-history-undo-window-menu =
     .label = Son kapatılan pencereler
-menu-history-reopen-all-tabs = Tüm sekmeleri yeniden aç
-menu-history-reopen-all-windows = Tüm pencereleri yeniden aç
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = Y
 menu-bookmarks-manage =
     .label = Yer imlerini yönet
-menu-bookmark-current-tab =
-    .label = Bu sekmeyi yer imlerine ekle
-menu-bookmark-edit =
-    .label = Bu yer imini düzenle
 menu-bookmark-tab =
     .label = Bu sekmeyi yer imlerine ekle…
 menu-edit-bookmark =

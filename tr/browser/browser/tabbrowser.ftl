@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Yeni Sekme
 tabbrowser-empty-private-tab-title = Yeni gizli sekme
+
 tabbrowser-menuitem-close-tab =
     .label = Sekmeyi kapat
 tabbrowser-menuitem-close =
     .label = Kapat
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -125,6 +128,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Bu iletişim kutusunu bir daha göst
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } sitesinden gelen bildirimlerin beni kendi sekmesine götürmesine izin ver
+
 tabbrowser-customizemode-tab-title = { -brand-short-name } tarayıcısını özelleştir
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -143,6 +147,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Sekmelerin sesini aç
     .accesskey = m
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Ses çalınıyor
 

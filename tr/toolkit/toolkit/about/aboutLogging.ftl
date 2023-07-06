@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Medya oynatma
 about-logging-preset-media-playback-description = Medya oynatma sorunlarını teşhis etmeye yönelik log modülleri (video konferans sorunları hariç)
 about-logging-preset-custom-label = Özel
 about-logging-preset-custom-description = Log modüllerini kendim seçeceğim
+
 # Error handling
 about-logging-error = Hata:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Bilinmeyen profilleyici ön ayarı “{ 
 about-logging-unknown-option = Bilinmeyen about:logging seçeneği “{ $k }“
 about-logging-configuration-url-ignored = Yapılandırma URL’si yok sayıldı
 about-logging-file-and-profiler-override = Aynı anda dosya çıktısı zorlanamaz ve profilleyici seçenekleri geçersiz kılınamaz
+
 about-logging-configured-via-url = Seçenek URL aracılığıyla yapılandırıldı

@@ -50,5 +50,9 @@ url-classifier-disabled = Devre dışı
 url-classifier-updating = güncelleniyor
 url-classifier-cannot-update = güncellenemedi
 url-classifier-success = başarılı
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = güncelleme hatası ({ $error })
 url-classifier-download-error = indirme hatası ({ $error })

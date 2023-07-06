@@ -4,6 +4,7 @@
 
 page-title = Sorun giderme bilgileri
 page-subtitle = Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. { -brand-short-name } hakkında genel sorularla ilgili yanıt arıyorsanız <a data-l10n-name="support-link">destek sitemizi</a> ziyaret edin.
+
 crashes-title = Çökme Raporları
 crashes-id = Rapor numarası
 crashes-send-date = Gönderilme tarihi
@@ -74,10 +75,12 @@ app-basics-key-mozilla = Mozilla Konum Hizmeti anahtarı
 app-basics-safe-mode = Güvenli kip
 app-basics-memory-size = Bellek boyutu (RAM)
 app-basics-disk-available = Kullanılabilir disk alanı
+
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
+
 show-dir-label =
     { PLATFORM() ->
         [macos] Finder'da göster
@@ -214,6 +217,7 @@ report-crash-for-days =
         [one] Son { $days } günün çökme raporları
        *[other] Son { $days } günün çökme raporları
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -221,6 +225,7 @@ crashes-time-minutes =
         [one] { $minutes } dakika önce
        *[other] { $minutes } dakika önce
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -228,6 +233,7 @@ crashes-time-hours =
         [one] { $hours } saat önce
        *[other] { $hours } saat önce
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -235,6 +241,7 @@ crashes-time-days =
         [one] { $days } gün önce
        *[other] { $days } gün önce
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -242,6 +249,7 @@ pending-reports =
         [one] Tüm çökme raporları (belirtilen zaman aralığındaki { $reports } bekleyen çökme dahil)
        *[other] Tüm çökme raporları (belirtilen zaman aralığındaki { $reports } bekleyen çökme dahil)
     }
+
 raw-data-copied = Ham veriler panoya kopyalandı
 text-copied = Metin panoya kopyalandı
 
@@ -254,9 +262,11 @@ blocked-mismatched-version = Kayıt defteriyle DLL arasındaki grafik sürücüs
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Grafik kartı sürücüsü sürümünüz için engellenmiştir. Grafik kartı sürücünüzü { $driverVersion } veya daha yeni bir sürüme güncellemeyi deneyin.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parametreleri
+
 compositing = Çizici
 hardware-h264 = Donanımsal H264 çözme
 main-thread-no-omtc = ana işlem parçacığı, OMTC yok
@@ -271,6 +281,7 @@ virtual-monitor-disp = Sanal monitör ekranı
 
 found = Bulundu
 missing = Eksik
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Tanım
@@ -295,15 +306,19 @@ webgl2-driver-extensions = WebGL 2 sürücü uzantıları
 webgl2-extensions = WebGL 2 uzantıları
 webgpu-default-adapter = Varsayılan WebGPU bağdaştırıcısı
 webgpu-fallback-adapter = Yedek WebGPU bağdaştırıcısı
+
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Bilinen sorunlar nedeniyle engellendi: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Engellendi. Hata kodu { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX video çözücüsü
+
 reset-on-next-restart = Sonraki yeniden başlatmada sıfırla
 gpu-process-kill-button = GPU işlemini sonlandır
 gpu-device-reset = Aygıtı sıfırla
@@ -313,8 +328,10 @@ content-uses-tiling = Tiling kullanımı (içerik)
 off-main-thread-paint-enabled = Off main thread painting etkin
 off-main-thread-paint-worker-count = Off main thread painting işçi sayısı
 target-frame-rate = Hedef kare hızı
+
 min-lib-versions = Beklenen minimum sürüm
 loaded-lib-versions = Kullanılan sürüm
+
 has-seccomp-bpf = Seccomp-BPF (sistem çağrısı filtreleme)
 has-seccomp-tsync = Seccomp işlem senkronizasyonu
 has-user-namespaces = Kullanıcı isim uzayları
@@ -329,15 +346,18 @@ sandbox-proc-type-content = içerik
 sandbox-proc-type-file = dosya içeriği
 sandbox-proc-type-media-plugin = ortam yan uygulaması
 sandbox-proc-type-data-decoder = veri çözücü
+
 startup-cache-title = Başlangıç önbelleği
 startup-cache-disk-cache-path = Disk önbellek yolu
 startup-cache-ignore-disk-cache = Disk önbelleğini yok say
 startup-cache-found-disk-cache-on-init = Başlangıçta disk önbelleği bulundu
 startup-cache-wrote-to-disk-cache = Disk önbelleğine yazıldı
+
 launcher-process-status-0 = Etkin
 launcher-process-status-1 = Hata nedeniyle devre dışı
 launcher-process-status-2 = Zorla devre dışı bırakıldı
 launcher-process-status-unknown = Bilinmeyen durum
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -357,6 +377,7 @@ fission-status-enabled-by-user-pref = kullanıcı tarafından açıldı
 fission-status-disabled-by-user-pref = Kullanıcı tarafından kapatıldı
 fission-status-disabled-by-e10s-other = E10s devre dışı
 fission-status-enabled-by-rollout = Aşamalı dağıtımla etkinleştirildi
+
 async-pan-zoom = Asenkron kaydır/yakınlaştır
 apz-none = yok
 wheel-enabled = tekerlek girdisi etkin
@@ -393,6 +414,7 @@ support-remote-experiments-title = Uzak deneyler
 support-remote-experiments-name = Adı
 support-remote-experiments-branch = Deney kolu
 support-remote-experiments-see-about-studies = Daha fazla bilgi için <a data-l10n-name="support-about-studies-link">about:studies</a> sayfasına bakabilirsiniz. O sayfadan deneyleri tek tek kapatabilir veya { -brand-short-name } tarayıcınızın gelecekte bu tür deneyleri çalıştırmasını engelleyebilirsiniz.
+
 support-remote-features-title = Uzak özellikler
 support-remote-features-name = Adı
 support-remote-features-status = Durum

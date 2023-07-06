@@ -4,14 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Yanlış PIN! Lütfen cihazınız için doğru PIN’i girin.
-        [one] Yanlış PIN! Lütfen cihazınız için doğru PIN’i girin. { $retriesLeft } deneme hakkınız kaldı.
-       *[other] Yanlış PIN! Lütfen cihazınız için doğru PIN’i girin. { $retriesLeft } deneme hakkınız kaldı.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Yanlış PIN. { $retriesLeft } kere daha yanlış PIN girerseniz bu cihazdaki kimlik bilgilerine erişiminizi kalıcı olarak kaybedeceksiniz.
@@ -19,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Yanlış PIN. Yeniden deneyin.
 webauthn-pin-required-prompt = Lütfen cihazınızın PIN’ini yazın.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
