@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Független hangok
-colorway-collection-independent-voices-description = A szín megváltoztathatja a kultúrát. A legújabb színvilágok azokat a hangokat ünneplik, amelyek jobb hellyé teszik a világot.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Színek, amelyek megváltoztatják a kultúrát.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Játékmester

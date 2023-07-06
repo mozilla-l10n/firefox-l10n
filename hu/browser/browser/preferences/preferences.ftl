@@ -8,7 +8,9 @@ do-not-track-option-default-content-blocking-known =
     .label = Csak akkor, ha a { -brand-short-name } az ismert követők blokkolására van állítva
 do-not-track-option-always =
     .label = Mindig
+
 settings-page-title = Beállítások
+
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
 #
@@ -20,37 +22,49 @@ settings-page-title = Beállítások
 search-input-box2 =
     .style = width: 15.4em
     .placeholder = Keresés a Beállításokban
+
 managed-notice = A böngészőjét a szervezete kezeli.
+
 category-list =
     .aria-label = Kategóriák
+
 pane-general-title = Általános
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-home-title = Kezdőlap
 category-home =
     .tooltiptext = { pane-home-title }
+
 pane-search-title = Keresés
 category-search =
     .tooltiptext = { pane-search-title }
+
 pane-privacy-title = Adatvédelem és biztonság
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 pane-sync-title3 = Szinkronizálás
 category-sync3 =
     .tooltiptext = { pane-sync-title3 }
+
 pane-experimental-title = { -brand-short-name } kísérletek
 category-experimental =
     .tooltiptext = { -brand-short-name } kísérletek
 pane-experimental-subtitle = Óvatosan haladjon tovább
 pane-experimental-search-results-header = { -brand-short-name }-kísérletek: Óvatosan menjen tovább
 pane-experimental-description2 = A speciális beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+
 pane-experimental-reset =
     .label = Alapértelmezések visszaállítása
     .accesskey = v
+
 help-button-label = { -brand-short-name } támogatás
 addons-button-label = Kiegészítők és témák
+
 focus-search =
     .key = f
+
 close-button =
     .aria-label = Bezárás
 
@@ -87,18 +101,23 @@ restart-later = Újraindítás később
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> vezérli ezt a beállítást.
+
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlling-web-notifications = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> vezérli ezt a beállítást.
+
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> kiegészítőhöz szükségesek a konténerlapok.
+
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlling-websites-content-blocking-all-trackers = A(z) <img data-l10n-name="icon"/> <strong>{ $name }</strong> vezérli ezt a beállítást.
+
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = A(z) <img data-l10n-name ="icon"/> <strong>{ $name }</strong> vezérli, hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -109,43 +128,57 @@ extension-controlled-enable = A kiegészítő engedélyezéséhez ugorjon a <img
 ## Preferences UI Search Results
 
 search-results-header = Találatok
+
 # `<span data-l10n-name="query"></span>` will be replaced by the search term.
 search-results-empty-message2 = Elnézését, nincs találat a Beállítások közt erre: „<span data-l10n-name="query"></span>”.
+
 search-results-help-link = Segítségre van szüksége? Látogasson el ide: <a data-l10n-name="url">{ -brand-short-name } támogatás</a>
 
 ## General Section
 
 startup-header = Indítás
+
 always-check-default =
     .label = Mindig ellenőrizze, hogy a { -brand-short-name }-e az alapértelmezett böngésző
     .accesskey = M
+
 is-default = Jelenleg a { -brand-short-name } az alapértelmezett böngésző.
 is-not-default = A { -brand-short-name } nem az alapértelmezett böngésző
+
 set-as-my-default-browser =
     .label = Beállítás alapértelmezettként…
     .accesskey = a
+
 startup-restore-windows-and-tabs =
     .label = Korábbi ablakok és lapok megnyitása
     .accesskey = K
+
 startup-restore-warn-on-quit =
     .label = Figyelmeztetés, amikor kilép a böngészőből
+
 disable-extension =
     .label = Kiegészítő letiltása
+
 preferences-data-migration-header = Böngészőadatok importálása
 preferences-data-migration-description = Importáljon könyvjelzőket, jelszavakat, előzményeket és automatikus kitöltési adatokat a { -brand-short-name }ba.
 preferences-data-migration-button =
     .label = Adatok importálása
     .accesskey = m
+
 tabs-group-header = Lapok
+
 ctrl-tab-recently-used-order =
     .label = A Ctrl+Tab a legutóbbi használat sorrendjében lépked körbe a lapokon
     .accesskey = T
+
 open-new-link-as-tabs =
     .label = Hivatkozások megnyitása új lapon, az új ablak helyett
     .accesskey = l
+
 confirm-on-close-multiple-tabs =
     .label = Megerősítés több lap bezárása előtt
     .accesskey = M
+
 # This string is used for the confirm before quitting preference.
 # Variables:
 #   $quitKey (string) - the quit keyboard shortcut, and formatted
@@ -154,22 +187,29 @@ confirm-on-close-multiple-tabs =
 confirm-on-quit-with-key =
     .label = Megerősítés a { $quitKey } billentyűvel történő kilépés előtt
     .accesskey = b
+
 warn-on-open-many-tabs =
     .label = Figyelmeztetés, hogy több lap megnyitása lelassíthatja a { -brand-short-name } programot
     .accesskey = F
+
 switch-to-new-tabs =
     .label = Hivatkozás, kép vagy média új lapon való megnyitásakor átváltás rá azonnal
     .accesskey = H
+
 show-tabs-in-taskbar =
     .label = Lapok előnézetének megjelenítése a Windows tálcán
     .accesskey = L
+
 browser-containers-enabled =
     .label = Konténer lapok engedélyezése
     .accesskey = n
+
 browser-containers-learn-more = További tudnivalók
+
 browser-containers-settings =
     .label = Beállítások…
     .accesskey = B
+
 containers-disable-alert-title = Az összes konténerlap bezárása?
 
 ## Variables:
@@ -180,6 +220,7 @@ containers-disable-alert-desc =
         [one] Ha most letiltja a konténerlapokat, akkor { $tabCount } konténerlap bezáródik. Biztosan letiltja a konténerlapokat?
        *[other] Ha most letiltja a konténerlapokat, akkor { $tabCount } konténerlap bezáródik. Biztosan letiltja a konténerlapokat?
     }
+
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] { $tabCount } konténerlap bezárása
@@ -189,7 +230,9 @@ containers-disable-alert-ok-button =
 ##
 
 containers-disable-alert-cancel-button = Maradjon engedélyezve
+
 containers-remove-alert-title = Eltávolítja ezt a konténert?
+
 # Variables:
 #   $count (number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -197,94 +240,114 @@ containers-remove-alert-msg =
         [one] Ha most eltávolítja ezt a konténerlapot, akkor { $count } konténerlap bezáródik. Biztosan eltávolítja ezt a konténert?
        *[other] Ha most eltávolítja ezt a konténerlapot, akkor { $count } konténerlap bezáródik. Biztosan eltávolítja ezt a konténert?
     }
+
 containers-remove-ok-button = Konténer eltávolítása
 containers-remove-cancel-button = Ne távolítsa el a konténert
 
 ## General Section - Language & Appearance
 
 language-and-appearance-header = Nyelv és megjelenés
+
 preferences-web-appearance-header = Weboldal megjelenése
+
 preferences-web-appearance-description = Egyes webhelyek az Ön beállításai alapján módosítják a színsémájukat. Válassza ki, hogy melyik színsémát szeretné használni ezeken a webhelyeken.
-preferences-web-appearance-choice-browser = A { -brand-short-name } témája
-preferences-web-appearance-choice-system = Rendszertéma
+
 preferences-web-appearance-choice-auto = Automatikus
 preferences-web-appearance-choice-light = Világos
 preferences-web-appearance-choice-dark = Sötét
-preferences-web-appearance-choice-tooltip-browser =
-    .title = A { -brand-short-name } témabeállításainak a webhelyek hátteréhez és tartalmához igazítása.
-preferences-web-appearance-choice-tooltip-system =
-    .title = A rendszerbeállítások a webhely hátteréhez és tartalmához igazítása.
+
 preferences-web-appearance-choice-tooltip-auto =
     .title = Automatikusan módosíthatja a webhely hátterét és tartalmát a rendszerbeállítások és a { -brand-short-name } témája alapján.
 preferences-web-appearance-choice-tooltip-light =
     .title = Világos megjelenés használata a webhelyek hátteréhez és tartalmához.
 preferences-web-appearance-choice-tooltip-dark =
     .title = Sötét megjelenés használata a webhelyek hátteréhez és tartalmához.
-preferences-web-appearance-choice-input-browser =
-    .aria-description = { preferences-web-appearance-choice-tooltip-browser.title }
-preferences-web-appearance-choice-input-system =
-    .aria-description = { preferences-web-appearance-choice-tooltip-system.title }
+
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+
 preferences-web-appearance-choice-input-light =
     .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+
 preferences-web-appearance-choice-input-dark =
     .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+
 # This can appear when using windows HCM or "Override colors: always" without
 # system colors.
 preferences-web-appearance-override-warning = Az Ön színválasztásai felülírják a webhely megjelenését. <a data-l10n-name="colors-link">Színek kezelése</a>
+
 # This message contains one link. It can be moved within the sentence as needed
 # to adapt to your language, but should not be changed.
 preferences-web-appearance-footer = Kezelje a { -brand-short-name } témáit a <a data-l10n-name="themes-link">Kiegészítők és témák</a> lapon
+
 preferences-colors-header = Színek
+
 preferences-colors-description = A { -brand-short-name } alapértelmezett színeinek felülírása a szövegnél, a webhelyek hátterénél és a hivatkozásoknál.
+
 preferences-colors-manage-button =
     .label = Színek kezelése…
     .accesskey = S
+
 preferences-fonts-header = Betűkészletek
+
 default-font = Alapértelmezett betűkészlet
     .accesskey = A
 default-font-size = Méret
     .accesskey = M
+
 advanced-fonts =
     .label = Speciális…
     .accesskey = c
+
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Nagyítás
+
 preferences-default-zoom = Alapértelmezett nagyítás
     .accesskey = n
+
 # Variables:
 #   $percentage (number) - Zoom percentage value
 preferences-default-zoom-value =
     .label = { $percentage }%
+
 preferences-zoom-text-only =
     .label = Csak a szöveg nagyítása
     .accesskey = v
+
 language-header = Nyelv
+
 choose-language-description = Az oldalak megjelenítésére előnyben részesített nyelv megadása
+
 choose-button =
     .label = Tallózás…
     .accesskey = T
+
 choose-browser-language-description = Válassza ki a { -brand-short-name }ban megjelenített menük, üzenetek és értesítések nyelvét.
 manage-browser-languages-button =
     .label = Alternatívák beállítása…
     .accesskey = A
 confirm-browser-language-change-description = A { -brand-short-name } újraindítása a változtatások alkalmazásához
 confirm-browser-language-change-button = Alkalmaz és újraindítás
+
 translate-web-pages =
     .label = Webtartalom fordítása
     .accesskey = f
+
 fx-translate-web-pages = { -translations-brand-name }
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Fordítás: <img data-l10n-name="logo"/>
+
 translate-exceptions =
     .label = Kivételek…
     .accesskey = K
+
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Az operációs rendszer beállításainak használata a(z) „{ $localeName }” területi beállításhoz a dátumok, idők, számok és mértékegységek beállításához.
+
 check-user-spelling =
     .label = Helyesírás-ellenőrzés beírás közben
     .accesskey = H
@@ -292,9 +355,12 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = Fájlok és alkalmazások
+
 download-header = Letöltések
+
 download-save-where = Fájlok mentése
     .accesskey = m
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -306,32 +372,42 @@ download-choose-folder =
             [macos] T
            *[other] T
         }
+
 download-always-ask-where =
     .label = Mindig kérdezzen rá a fájlok letöltési helyére
     .accesskey = r
+
 applications-header = Alkalmazások
+
 applications-description = Válassza ki, hogy a { -brand-short-name } hogyan kezelje az internetről letöltött fájlokat vagy a böngészéskor használt alkalmazásokat.
+
 applications-filter =
     .placeholder = Fájltípusok vagy alkalmazások keresése
+
 applications-type-column =
     .label = Tartalomtípus
     .accesskey = T
+
 applications-action-column =
     .label = Művelet
     .accesskey = M
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fájl
 applications-action-save =
     .label = Fájl mentése
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } használata
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } használata (alapértelmezett)
+
 applications-use-os-default =
     .label =
         { PLATFORM() ->
@@ -339,21 +415,26 @@ applications-use-os-default =
             [windows] Használja a Windows alapértelmezett alkalmazását
            *[other] Használja a rendszer alapértelmezett alkalmazását
         }
+
 applications-use-other =
     .label = Másik használata…
 applications-select-helper = Segédalkalmazás kiválasztása
+
 applications-manage-app =
     .label = Alkalmazás részletei…
 applications-always-ask =
     .label = Rákérdezés mindig
+
 # Variables:
 #   $type-description (string) - Description of the type (e.g "Portable Document Format")
 #   $type (string) - The MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $extension (string) - File extension (e.g .TXT)
 #   $type (string) - The MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
+
 # Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -367,64 +448,90 @@ applications-open-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
+
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
 
 ##
 
 applications-handle-new-file-types-description = Mit tegyen a { -brand-short-name } más fájlokkal?
+
 applications-save-for-new-types =
     .label = Fájlok mentése
     .accesskey = m
+
 applications-ask-before-handling =
     .label = Kérdezze meg, hogy nyissa meg vagy mentse a fájlokat
     .accesskey = K
+
 drm-content-header = Digitális jogkezelést (DRM) használó tartalom
+
 play-drm-content =
     .label = DRM-vezérelt tartalom lejátszása
     .accesskey = l
+
 play-drm-content-learn-more = További tudnivalók
+
 update-application-title = { -brand-short-name } frissítések
+
 update-application-description = Tartsa naprakészen a { -brand-short-name(case: "accusative") } a legjobb teljesítmény, stabilitás és biztonság érdekében.
+
 # Variables:
 # $version (string) - Firefox version
 update-application-version = Verzió: { $version } <a data-l10n-name="learn-more">Újdonságok</a>
+
 update-history =
     .label = Frissítési előzmények megjelenítése…
     .accesskey = z
+
 update-application-allow-description = A következők engedélyezése a { -brand-short-name }nak:
+
 update-application-auto =
     .label = Frissítések automatikus telepítése (ajánlott)
     .accesskey = A
+
 update-application-check-choose =
     .label = Frissítések keresése, de a telepítés jóváhagyással történik
     .accesskey = k
+
 update-application-manual =
     .label = Ne legyen frissítve (nem ajánlott)
     .accesskey = N
+
 update-application-background-enabled =
     .label = Ha nem fut a { -brand-short-name }
     .accesskey = H
+
 update-application-warning-cross-user-setting = Ez a beállítás érvényes az összes Windows fiókra és { -brand-short-name } profilra, amely ezt a { -brand-short-name } telepítést használja.
+
 update-application-use-service =
     .label = Háttérben futó szolgáltatás intézze a frissítést
     .accesskey = H
+
 update-application-suppress-prompts =
     .label = Kevesebb frissítési értesítés megjelenítése
     .accesskey = K
+
 update-setting-write-failure-title2 = Hiba történt a Frissítési beállítások mentésekor
+
 # Variables:
 #   $path (string) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -433,8 +540,11 @@ update-setting-write-failure-message2 =
     A { -brand-short-name } hibát észlelt, és nem mentette ezt a változtatást. Ne feledje, hogy ezen frissítési beállítás megadásához írási engedély szükségesen a lenti fájlon. Ön vagy a rendszergazdája megoldhatja a hibát azzal, hogy a Felhasználók csoportnak teljes jogosultságot ad a fájlhoz.
     
     Nem sikerült a fájlba írni: { $path }
+
 update-in-progress-title = Frissítés folyamatban
+
 update-in-progress-message = Szeretné, hogy a { -brand-short-name } folytassa ezt a frissítést?
+
 update-in-progress-ok-button = &Elvetés
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -443,18 +553,25 @@ update-in-progress-cancel-button = &Folytatás
 ## General Section - Performance
 
 performance-title = Teljesítmény
+
 performance-use-recommended-settings-checkbox =
     .label = Javasolt teljesítménybeállítások használata
     .accesskey = h
+
 performance-use-recommended-settings-desc = Ezek a beállítások a számítógép hardveréhez és operációs rendszeréhez lettek szabva.
+
 performance-settings-learn-more = További tudnivalók
+
 performance-allow-hw-accel =
     .label = Hardveres gyorsítás használata, ha lehetséges
     .accesskey = r
+
 performance-limit-content-process-option = Tartalom folyamatok korlátja
     .accesskey = k
+
 performance-limit-content-process-enabled-desc = A további tartalom folyamatok növelhetik a teljesítményt, ha több lapot használ, de több memóriát is használnak.
 performance-limit-content-process-blocked-desc = A tartalom folyamatok számának módosítása csak többfolyamatos { -brand-short-name } esetén lehetséges. <a data-l10n-name="learn-more">Ismerje meg, hogyan lehet ellenőrizni, hogy a többfolyamatos működés engedélyezve van-e</a>
+
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -463,45 +580,60 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Böngészés
+
 browsing-use-autoscroll =
     .label = Automatikus görgetés
     .accesskey = u
+
 browsing-use-smooth-scrolling =
     .label = Finom görgetés
     .accesskey = F
+
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Mindig jelenítse meg a görgetősávokat
     .accesskey = j
+
 browsing-use-onscreen-keyboard =
     .label = Érintőbillentyűzet megjelenítése, ha szükséges
     .accesskey = r
+
 browsing-use-cursor-navigation =
     .label = Kurzorbillentyűk használata az oldalon belüli navigációhoz
     .accesskey = c
+
 browsing-search-on-start-typing =
     .label = Szöveg keresése a keresett szó beírásának elkezdésétől
     .accesskey = d
+
 browsing-picture-in-picture-toggle-enabled =
     .label = Kép a képben videóvezérlés engedélyezése
     .accesskey = e
+
 browsing-picture-in-picture-learn-more = További tudnivalók
+
 browsing-media-control =
     .label = Média vezérlése billentyűzeten, fejhallgatón vagy virtuális felületen keresztül
     .accesskey = v
+
 browsing-media-control-learn-more = További tudnivalók
+
 browsing-cfr-recommendations =
     .label = Kiegészítők ajánlása böngészés közben
     .accesskey = K
 browsing-cfr-features =
     .label = Funkciójavaslatok böngészés közben
     .accesskey = F
+
 browsing-cfr-recommendations-learn-more = További tudnivalók
 
 ## General Section - Proxy
 
 network-settings-title = Hálózati beállítások
+
 network-proxy-connection-description = Állítsa be, hogy a { -brand-short-name } hogyan kapcsolódik az internethez.
+
 network-proxy-connection-learn-more = További tudnivalók
+
 network-proxy-connection-settings =
     .label = Beállítások…
     .accesskey = B
@@ -509,27 +641,31 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Új ablakok és lapok
+
 home-new-windows-tabs-description2 = Válasszon hogy mit lásson, ha megnyitja a kezdőoldalt, vagy egy új ablakot, lapot.
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Kezdőlap és új ablakok
+
 home-newtabs-mode-label = Új lapok
+
 home-restore-defaults =
     .label = Alapértelmezések visszaállítása
     .accesskey = A
-# "Firefox" should be treated as a brand and kept in English,
-# while "Home" and "(Default)" can be localized.
-home-mode-choice-default =
-    .label = Firefox kezdőlap (alapértelmezett)
+
 home-mode-choice-default-fx =
     .label = { -firefox-home-brand-name } (alapértelmezett)
+
 home-mode-choice-custom =
     .label = Egyéni URL-ek…
+
 home-mode-choice-blank =
     .label = Üres lap
+
 home-homepage-custom-url =
     .placeholder = Illesszen be egy URL-t…
+
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -541,16 +677,16 @@ use-current-pages =
            *[other] Aktuális oldalak használata
         }
     .accesskey = A
+
 choose-bookmark =
     .label = Könyvjelző használata…
     .accesskey = n
 
 ## Home Section - Firefox Home Content Customization
 
-home-prefs-content-header = Firefox kezdőlap tartalma
-home-prefs-content-description = Válassza ki milyen tartalmat szeretne a Firefox kezdőlapon.
 home-prefs-content-header2 = { -firefox-home-brand-name } tartalom
 home-prefs-content-description2 = Válassza ki milyen tartalmat szeretne a { -firefox-home-brand-name } képernyőn.
+
 home-prefs-search-header =
     .label = Webes keresés
 home-prefs-shortcuts-header =
@@ -577,6 +713,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Szponzorált történetek
 home-prefs-recommended-by-option-recent-saves =
     .label = Legutóbbi mentések megjelenítése
+
 home-prefs-highlights-option-visited-pages =
     .label = Látogatott oldalak
 home-prefs-highlights-options-bookmarks =
@@ -585,16 +722,20 @@ home-prefs-highlights-option-most-recent-download =
     .label = Legutóbbi letöltés
 home-prefs-highlights-option-saved-to-pocket =
     .label = { -pocket-brand-name }be mentett lapok
+
 home-prefs-recent-activity-header =
     .label = Legutóbbi tevékenység
 home-prefs-recent-activity-description = Válogatás a legutóbbi webhelyekből és tartalmakból
+
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Töredékek
+
 home-prefs-snippets-description-new = Tippek és hírek a { -vendor-short-name } és a { -brand-product-name } felől
+
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
@@ -611,25 +752,33 @@ search-bar-hidden =
     .label = Használja a címsávot a kereséshez és a navigációhoz
 search-bar-shown =
     .label = Keresősáv hozzáadása az eszköztárhoz
+
 search-engine-default-header = Alapértelmezett keresőszolgáltatás
 search-engine-default-desc-2 = Ez az alapértelmezett keresőszolgáltatás a cím- és keresősávban. Bármikor átválthatja.
 search-engine-default-private-desc-2 = Válasszon egy másik keresőszolgáltatást kizárólag a privát ablakokhoz
 search-separate-default-engine =
     .label = E keresőszolgáltatás használata a privát ablakokban
     .accesskey = h
+
 search-suggestions-header = Keresési javaslatok
 search-suggestions-desc = Válassza ki, hogyan jelenjenek meg a keresőszolgáltatások javaslatai.
+
 search-suggestions-option =
     .label = Keresési javaslatok
     .accesskey = K
+
 search-show-suggestions-url-bar-option =
     .label = Keresési javaslatok megjelenítése a címsáv találataiban
     .accesskey = K
+
+
 # With this option enabled, on the search results page
 # the URL will be replaced by the search terms in the address bar
 # when using the current default search engine.
 search-show-search-term-option =
     .label = A keresési kifejezések megjelenítése a webcím helyett az alapértelmezett keresőszolgáltatás találati oldalán
+
+
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -637,26 +786,36 @@ search-show-search-term-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Keresési javaslatok megjelenítése a böngészési előzmények előtt a címsor találatai között
+
 search-show-suggestions-private-windows =
     .label = Keresési javaslatok megjelenítése a privát ablakokban
+
 suggestions-addressbar-settings-generic2 = Címsávjavaslatok beállításainak módosítása
+
 search-suggestions-cant-show = A keresési javaslatok nem jelennek meg a címsáv találatai között, mert a { -brand-short-name } nem jegyzi meg az előzményeket.
+
 search-one-click-header2 = Keresési gyorsparancsok
+
 search-one-click-desc = Válassza ki a címsáv alatt és a keresősávban gépeléskor megjelenő alternatív keresőszolgáltatatásokat.
+
 search-choose-engine-column =
     .label = Keresőszolgáltatás
 search-choose-keyword-column =
     .label = Kulcsszó
+
 search-restore-default =
     .label = Alapértelmezett keresőszolgáltatások visszaállítása
     .accesskey = v
+
 search-remove-engine =
     .label = Eltávolítás
     .accesskey = E
 search-add-engine =
     .label = Hozzáadás
     .accesskey = a
+
 search-find-more-link = További keresőszolgáltatások felvétele
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Duplikált kulcsszó
@@ -673,9 +832,11 @@ containers-header = Konténer lapok
 containers-add-button =
     .label = Új konténer hozzáadása
     .accesskey = a
+
 containers-new-tab-check =
     .label = Konténer kiválasztása minden új laphoz
     .accesskey = K
+
 containers-settings-button =
     .label = Beállítások
 containers-remove-button =
@@ -690,9 +851,11 @@ containers-remove-button =
 
 sync-signedout-caption = Vigye magával a webet
 sync-signedout-description2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
+
 sync-signedout-account-signin3 =
     .label = Jelentkezzen be a szinkronizáláshoz…
     .accesskey = J
+
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -710,9 +873,11 @@ sync-mobile-promo = Töltse le a Firefox for <img data-l10n-name="android-icon"/
 
 sync-profile-picture =
     .tooltiptext = Profilkép módosítása
+
 sync-sign-out =
     .label = Kijelentkezés…
     .accesskey = K
+
 sync-manage-account = Fiók kezelése
     .accesskey = F
 
@@ -727,9 +892,11 @@ sync-signedin-login-failure = Jelentkezzen be  { $email } újracsatlakoztatásá
 sync-resend-verification =
     .label = Ellenőrző e-mail újraküldése
     .accesskey = k
+
 sync-remove-account =
     .label = Fiók eltávolítása
     .accesskey = t
+
 sync-sign-in =
     .label = Bejelentkezés
     .accesskey = B
@@ -737,25 +904,31 @@ sync-sign-in =
 ## Sync section - enabling or disabling sync.
 
 prefs-syncing-on = Szinkronizálás: BE
+
 prefs-syncing-off = Szinkronizálás: KI
+
 prefs-sync-turn-on-syncing =
     .label = Szinkronizálás bekapcsolása…
     .accesskey = S
+
 prefs-sync-offer-setup-label2 = Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.
+
 prefs-sync-now =
     .labelnotsyncing = Szinkronizálás most
     .accesskeynotsyncing = m
     .labelsyncing = Szinkronizálás…
+
 prefs-sync-now-button =
     .label = Szinkronizálás most
     .accesskey = m
+
 prefs-syncing-button =
     .label = Szinkronizálás…
 
 ## The list of things currently syncing.
 
-sync-currently-syncing-heading = Jelenleg szinkronizálja ezeket az elemeket:
 sync-syncing-across-devices-heading = Ezeket az elemeket szinkronizálja az összes csatlakoztatott eszköz között:
+
 sync-currently-syncing-bookmarks = Könyvjelzők
 sync-currently-syncing-history = Előzmények
 sync-currently-syncing-tabs = Nyitott lapok
@@ -764,19 +937,13 @@ sync-currently-syncing-addresses = Címek
 sync-currently-syncing-creditcards = Bankkártyák
 sync-currently-syncing-addons = Kiegészítők
 sync-currently-syncing-settings = Beállítások
+
 sync-change-options =
     .label = Módosítás…
     .accesskey = M
 
 ## The "Choose what to sync" dialog.
 
-sync-choose-what-to-sync-dialog =
-    .title = Válassza ki, mit szeretne szinkronizálni
-    .style = width: 36em; min-height: 35em;
-    .buttonlabelaccept = Módosítások mentése
-    .buttonaccesskeyaccept = m
-    .buttonlabelextra2 = Kapcsolat bontása…
-    .buttonaccesskeyextra2 = b
 sync-choose-what-to-sync-dialog3 =
     .title = Válassza ki, mit szeretne szinkronizálni
     .style = min-width: 36em;
@@ -784,33 +951,42 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = m
     .buttonlabelextra2 = Kapcsolat bontása…
     .buttonaccesskeyextra2 = b
+
 sync-choose-dialog-subtitle = A szinkronizálandó elemek változásai az összes csatlakoztatott eszközön megjelennek.
+
 sync-engine-bookmarks =
     .label = Könyvjelzők
     .accesskey = K
+
 sync-engine-history =
     .label = Előzmények
     .accesskey = E
+
 sync-engine-tabs =
     .label = Nyitott lapok
     .tooltiptext = Lista arról, hogy mi van nyitva a szinkronizált eszközökön
     .accesskey = L
+
 sync-engine-logins-passwords =
     .label = Bejelentkezések és jelszavak
     .tooltiptext = Az Ön által mentett bejelentkezések és jelszavak
     .accesskey = j
+
 sync-engine-addresses =
     .label = Címek
     .tooltiptext = Mentett postai címek (csak asztali gépen)
     .accesskey = e
+
 sync-engine-creditcards =
     .label = Bankkártyák
     .tooltiptext = Nevek, számok és lejárati dátumok (csak asztali gépen)
     .accesskey = B
+
 sync-engine-addons =
     .label = Kiegészítők
     .tooltiptext = Kiegészítők és témák az asztali Firefoxhoz
     .accesskey = K
+
 sync-engine-settings =
     .label = Beállítások
     .tooltiptext = Módosított általános, adatvédelmi és biztonsági beállítások
@@ -819,15 +995,19 @@ sync-engine-settings =
 ## The device name controls.
 
 sync-device-name-header = Eszköznév
+
 sync-device-name-change =
     .label = Eszköznév módosítása…
     .accesskey = m
+
 sync-device-name-cancel =
     .label = Mégse
     .accesskey = g
+
 sync-device-name-save =
     .label = Mentés
     .accesskey = M
+
 sync-connect-another-device = Másik eszköz csatlakoztatása
 
 ## These strings are shown in a desktop notification after the
@@ -849,6 +1029,7 @@ privacy-header = Böngésző adatvédelme
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Bejelentkezések és jelszavak
     .searchkeywords = { -lockwise-brand-short-name }
+
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Felhasználónevek és jelszavak megjegyzésének megkérdezése az oldalakhoz
@@ -863,11 +1044,10 @@ forms-breach-alerts =
     .label = Figyelmeztetések megjelenítése a feltört webhelyek jelszavaival kapcsolatban
     .accesskey = f
 forms-breach-alerts-learn-more-link = További tudnivalók
-relay-integration =
-    .label = A { -relay-brand-name } engedélyezése a { -brand-short-name } jelszókezelőben
 preferences-relay-integration-checkbox =
     .label = A { -relay-brand-name } e-mail-maszkok javaslása az e-mail-címének védelme érdekében
 relay-integration-learn-more-link = További tudnivalók
+
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Bejelentkezések és jelszavak automatikus kitöltése
@@ -892,6 +1072,7 @@ forms-primary-pw-change =
 # "Master Password" in your language. If you're editing the FTL file directly,
 # use { "" } as the value.
 forms-primary-pw-former-name = Korábban mesterjelszóként ismert
+
 forms-primary-pw-fips-title = Jelenleg FIPS-módban van. A FIPS-hez nem üres elsődleges jelszó szükséges.
 forms-master-pw-fips-desc = Sikertelen jelszóváltoztatás
 forms-windows-sso =
@@ -903,6 +1084,7 @@ forms-windows-sso-desc = Fiókok kezelése az eszközbeállításokban
 
 # This message can be seen by trying to add a Primary Password.
 primary-password-os-auth-dialog-message-win = Elsődleges jelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
+
 # This message can be seen by trying to add a Primary Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -913,6 +1095,7 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy Section - History
 
 history-header = Előzmények
+
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -924,29 +1107,37 @@ history-header = Előzmények
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = A { -brand-short-name }
     .accesskey = A
+
 history-remember-option-all =
     .label = Megjegyzi az előzményeket
 history-remember-option-never =
     .label = Nem jegyzi meg az előzményeket
 history-remember-option-custom =
     .label = Egyéni beállításokat használ az előzményekhez
+
 history-remember-description = A { -brand-short-name } emlékezni fog a böngészési, letöltési, űrlap és keresési előzményekre.
 history-dontremember-description = A { -brand-short-name } ugyanazokat a beállításokat fogja használni, mint a privát böngészés, és nem fogja megjegyezni az internethasználat előzményeit.
+
 history-private-browsing-permanent =
     .label = Mindig a privát böngészési módot használja
     .accesskey = p
+
 history-remember-browser-option =
     .label = Böngészési és letöltési előzmények megőrzése
     .accesskey = b
+
 history-remember-search-option =
     .label = Keresőmezők és űrlapmezők előzményeinek megőrzése
     .accesskey = K
+
 history-clear-on-close-option =
     .label = Előzmények törlése a { -brand-short-name } bezárásakor
     .accesskey = E
+
 history-clear-on-close-settings =
     .label = Beállítások…
     .accesskey = B
+
 history-clear-button =
     .label = Előzmények törlése…
     .accesskey = l
@@ -954,26 +1145,35 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Sütik és oldaladatok
+
 sitedata-total-size-calculating = Az oldaladatok és a gyorsítótár méretének kiszámítása…
+
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = A tárolt sütik, oldaladatok és a gyorsítótár jelenleg { $value } { $unit } területet foglalnak el a lemezen.
+
 sitedata-learn-more = További tudnivalók
+
 sitedata-delete-on-close =
     .label = Sütik és oldaladatok törlése a { -brand-short-name } bezárásakor
     .accesskey = S
+
 sitedata-delete-on-close-private-browsing = Állandó privát böngészési módban a sütik és a webhelyadatok mindig törölve lesznek a { -brand-short-name } bezárásakor.
+
 sitedata-allow-cookies-option =
     .label = Sütik és oldaladatok elfogadása
     .accesskey = e
+
 sitedata-disallow-cookies-option =
     .label = Sütik és oldaladatok blokkolása
     .accesskey = b
+
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Blokkolt típus
     .accesskey = B
+
 sitedata-option-block-cross-site-trackers =
     .label = Weboldalak közti nyomkövetők
 sitedata-option-block-cross-site-tracking-cookies =
@@ -982,18 +1182,19 @@ sitedata-option-block-cross-site-cookies =
     .label = Webhelyek közötti követő és egyéb webhelyek közötti sütik elkülönítése
 sitedata-option-block-unvisited =
     .label = Nem látogatott webhelyekről származó sütik
-sitedata-option-block-all-third-party =
-    .label = Minden harmadik féltől származó süti (egyes weboldalak működésképtelenné válhatnak)
 sitedata-option-block-all-cross-site-cookies =
     .label = Összes webhelyek közötti süti (egyes weboldalak működésképtelenné fognak válni)
 sitedata-option-block-all =
     .label = Minden süti (egyes weboldalak működésképtelenné fognak válni)
+
 sitedata-clear =
     .label = Adatok törlése…
     .accesskey = t
+
 sitedata-settings =
     .label = Adatok kezelése…
     .accesskey = A
+
 sitedata-cookies-exceptions =
     .label = Kivételek kezelése…
     .accesskey = K
@@ -1009,7 +1210,9 @@ forms-handle-cookie-banners =
 ## Privacy Section - Address Bar
 
 addressbar-header = Címsáv
+
 addressbar-suggest = A címsáv használatakor jelenjen meg
+
 addressbar-locbar-history-option =
     .label = Böngészési előzmények
     .accesskey = e
@@ -1032,14 +1235,19 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gyors műveletek
     .accesskey = r
+
 addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
+
 addressbar-quickactions-learn-more = További tudnivalók
 
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Fokozott követés elleni védelem
+
 content-blocking-section-top-level-description = A nyomkövetők követik Önt online, és információkat gyűjtenek a böngészési szokásairól és érdeklődési köreiről. A { -brand-short-name } számos ilyen követőt és rosszindulatú parancsfájlt blokkol.
+
 content-blocking-learn-more = További tudnivalók
+
 content-blocking-fpi-incompatibility-warning = A First Party Isolation (FPI) funkciót használja, amely felülírja a { -brand-short-name } sütibeállításainak egy részét.
 
 ## These strings are used to define the different levels of
@@ -1062,8 +1270,8 @@ content-blocking-etp-standard-desc = Kiegyensúlyozott védelem és teljesítmé
 content-blocking-etp-strict-desc = Erősebb védelem, de egyes webhelyek és tartalmak hibásan működhetnek.
 content-blocking-etp-custom-desc = Válassza ki a blokkolni kívánt nyomkövetőket és parancsfájlokat.
 content-blocking-etp-blocking-desc = A { -brand-short-name } blokkolja a következőket:
+
 content-blocking-private-windows = Követés elleni védelem a privát ablakokban
-content-blocking-cross-site-cookies-in-all-windows = Webhelyek közötti sütik az összes ablakban (nyomkövető sütiket is beleértve)
 content-blocking-cross-site-cookies-in-all-windows2 = Webhelyek közötti sütik az összes ablakban
 content-blocking-cross-site-tracking-cookies = Webhelyek közötti nyomkövető sütik
 content-blocking-all-cross-site-cookies-private-windows = Webhelyek közötti sütik a privát ablakokban
@@ -1072,29 +1280,27 @@ content-blocking-social-media-trackers = Közösségimédia-követők
 content-blocking-all-cookies = Minden süti
 content-blocking-unvisited-cookies = Sütik a nem látogatott oldalakról
 content-blocking-all-windows-tracking-content = Tartalomkövetés az összes ablakban
-content-blocking-all-third-party-cookies = Összes harmadik féltől származó süti
 content-blocking-all-cross-site-cookies = Összes webhelyek közötti süti
 content-blocking-cryptominers = Kriptobányászok
 content-blocking-fingerprinters = Ujjlenyomat-készítők
-# "Test pilot" is used as a verb. Possible alternatives:
-# "Be the first to try", "Join an early experiment".
-content-blocking-etp-standard-tcp-rollout-checkbox =
-    .label = Tesztelje az eddigi leghatékonyabb adatvédelmi funkciónkat
-    .accesskey = T
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = A Teljes sütivédelem ahhoz a webhelyhez köti a sütiket, amelyiken épp tartózkodik, így a követők nem használhatják azokat oldalak közti követésre.
 content-blocking-etp-standard-tcp-rollout-learn-more = További tudnivalók
+
 content-blocking-etp-standard-tcp-title = Tartalmazza a Teljes sütivédelmet, a valaha volt leghatékonyabb adatvédelmi funkciónkat
+
 content-blocking-warning-title = Figyelem!
 content-blocking-and-isolating-etp-warning-description-2 = A beállítás azt eredményezheti, hogy egyes webhelyek nem megfelelően jelennek meg vagy működnek. Ha egy oldal hibásnak tűnik, akkor az összes tartalom betöltéséhez kikapcsolhatja a követés elleni védelmet.
 content-blocking-warning-learn-how = Tudja meg, hogyan
+
 content-blocking-reload-description = A módosítások alkalmazásához frissítenie kell a lapokat.
 content-blocking-reload-tabs-button =
     .label = Összes lap frissítése
     .accesskey = R
+
 content-blocking-tracking-content-label =
     .label = Nyomkövető tartalom
     .accesskey = k
@@ -1105,15 +1311,19 @@ content-blocking-option-private =
     .label = Csak privát ablakokban
     .accesskey = p
 content-blocking-tracking-protection-change-block-list = Blokkolási lista módosítása
+
 content-blocking-cookies-label =
     .label = Sütik
     .accesskey = S
+
 content-blocking-expand-section =
     .tooltiptext = További információk
+
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Kriptobányászok
     .accesskey = i
+
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
@@ -1129,51 +1339,64 @@ tracking-manage-exceptions =
 ## Privacy Section - Permissions
 
 permissions-header = Engedélyek
+
 permissions-location = Hely
 permissions-location-settings =
     .label = Beállítások…
     .accesskey = B
+
 permissions-xr = Virtuális valóság
 permissions-xr-settings =
     .label = Beállítások…
     .accesskey = B
+
 permissions-camera = Kamera
 permissions-camera-settings =
     .label = Beállítások…
     .accesskey = B
+
 permissions-microphone = Mikrofon
 permissions-microphone-settings =
     .label = Beállítások…
     .accesskey = B
+
 # Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
 permissions-speaker = Hangszóró kiválasztása
 permissions-speaker-settings =
     .label = Beállítások…
     .accesskey = t
+
 permissions-notification = Értesítések
 permissions-notification-settings =
     .label = Beállítások…
     .accesskey = B
 permissions-notification-link = További tudnivalók
+
 permissions-notification-pause =
     .label = Értesítések kikapcsolása a { -brand-short-name } újraindulásáig
     .accesskey = e
+
 permissions-autoplay = Automatikus lejátszás
+
 permissions-autoplay-settings =
     .label = Beállítások…
     .accesskey = B
+
 permissions-block-popups =
     .label = Felugró ablakok tiltása
     .accesskey = F
+
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.
 permissions-block-popups-exceptions-button =
     .label = Kivételek…
     .accesskey = K
     .searchkeywords = popupok
+
 permissions-addon-install-warning =
     .label = Figyelmeztetés kiegészítők telepítése előtt
     .accesskey = F
+
 permissions-addon-exceptions =
     .label = Kivételek…
     .accesskey = K
@@ -1181,29 +1404,40 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } adatgyűjtés és felhasználás
+
 collection-description = Arra törekszünk, hogy választást biztosítsunk, és csak azt gyűjtsük, amire szükségünk van a { -brand-short-name } fejlesztéséhez, mindenki számára. Mindig engedélyt kérünk, mielőtt személyes információkat fogadunk.
 collection-privacy-notice = Adatvédelmi nyilatkozat
+
 collection-health-report-telemetry-disabled = Már nem engedélyezi, hogy a { -vendor-short-name } műszaki és interakciós adatokat rögzítsen. A múltbeli adatai 30 napon belül törölve lesznek.
 collection-health-report-telemetry-disabled-link = További tudnivalók
+
 collection-health-report =
     .label = Engedélyezés, hogy a { -brand-short-name } műszaki és interakciós adatokat küldjön a { -vendor-short-name } számára
     .accesskey = E
 collection-health-report-link = További tudnivalók
+
 collection-studies =
     .label = Engedélyezés, hogy a { -brand-short-name } tanulmányokat telepítsen és futtasson
 collection-studies-link = { -brand-short-name } tanulmányok megtekintése
+
 addon-recommendations =
     .label = Engedélyezés, hogy a { -brand-short-name } személyre szabott kiegészítő ajánlásokat tegyen
 addon-recommendations-link = További tudnivalók
+
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Az adatjelentést letiltották ehhez a binárishoz
+
 collection-backlogged-crash-reports-with-link = Engedélyezés, hogy a { -brand-short-name } elküldje az elmaradt összeomlás-jelentéseket az Ön nevében <a data-l10n-name="crash-reports-link">További tudnivalók</a>
     .accesskey = o
+
 privacy-segmentation-section-header = Új funkciók, amelyek még jobbá teszik a böngészést
+
 privacy-segmentation-section-description = Amikor olyan funkciókat kínálunk, amelyek az Ön adatait használja, akkor a személyesebb élmény biztosítására használjuk fel:
+
 privacy-segmentation-radio-off =
     .label = A{ -brand-product-name } javaslatainak használata
+
 privacy-segmentation-radio-on =
     .label = Részletes információk megjelenítése
 
@@ -1213,14 +1447,18 @@ privacy-segmentation-radio-on =
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Biztonság
+
 security-browsing-protection = Félrevezető tartalom és veszélyes szoftver elleni védelem
+
 security-enable-safe-browsing =
     .label = Veszélyes és félrevezető tartalom blokkolása
     .accesskey = V
 security-enable-safe-browsing-link = További tudnivalók
+
 security-block-downloads =
     .label = Veszélyes letöltések blokkolása
     .accesskey = b
+
 security-block-uncommon-software =
     .label = Figyelmeztetés a nem kívánatos és szokatlan szoftverekre
     .accesskey = F
@@ -1228,37 +1466,50 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Tanúsítványok
+
 certs-enable-ocsp =
     .label = Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez
     .accesskey = C
+
 certs-view =
     .label = Tanúsítványok megtekintése…
     .accesskey = T
+
 certs-devices =
     .label = Adatvédelmi eszközök…
     .accesskey = e
+
 space-alert-over-5gb-settings-button =
     .label = Beállítások megnyitása
     .accesskey = m
+
 space-alert-over-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. Az oldalak tárolt adatait a Beállítások > Adatvédelem és biztonság > Sütik és oldaladatok alatt törölheti.
+
 space-alert-under-5gb-message2 = <strong>A { -brand-short-name } kezd kifogyni a lemezhelyből.</strong> A weboldalak tartalma nem feltétlenül jelenik meg helyesen. A lemezhasználat optimalizálásával a böngészés simábbá tehető, olvassa el a „További tudnivalókat”.
 
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = Csak HTTPS mód
+
 httpsonly-description = A HTTPS biztonságos, titkosított kapcsolatot biztosít a { -brand-short-name } és a meglátogatott webhelyek között. A legtöbb webhely támogatja a HTTPS-t, és ha a Csak HTTPS mód engedélyezve van, akkor a { -brand-short-name } HTTPS-re frissíti az összes kapcsolatot.
+
 httpsonly-learn-more = További tudnivalók
+
 httpsonly-radio-enabled =
     .label = A Csak HTTPS mód engedélyezése az összes ablakban
+
 httpsonly-radio-enabled-pbm =
     .label = A Csak HTTPS mód engedélyezése csak privát ablakokban
+
 httpsonly-radio-disabled =
     .label = Ne engedélyezze a Csak HTTPS módot
 
 ## DoH Section
 
 preferences-doh-header = HTTPS feletti DNS
+
 preferences-doh-description = A HTTPS feletti domainnévrendszer (DNS) a domain nevek lekérését titkosított kapcsolaton keresztül küldi el, biztonságos DNS-t hozva létre, így nehezebbé téve mások számára, hogy lássak, hogy melyik weboldalakat éri el.
+
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Állapot: { $status }
@@ -1269,14 +1520,18 @@ preferences-doh-resolver = Szolgáltató: { $name }
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = Érvénytelen webcím
 preferences-doh-steering-status = Helyi szolgáltató használata
+
 preferences-doh-status-active = Aktív
 preferences-doh-status-disabled = Ki
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Nem aktív ({ $reason })
+
 preferences-doh-group-message = Biztonságos DNS engedélyezése a következővel:
+
 preferences-doh-expand-section =
     .tooltiptext = További információk
+
 preferences-doh-setting-default =
     .label = Alapértelmezett védelem
     .accesskey = A
@@ -1286,12 +1541,14 @@ preferences-doh-default-detailed-desc-2 = Alapértelmezett DNS-feloldó használ
 preferences-doh-default-detailed-desc-3 = Helyi szolgáltató használata, ha lehet
 preferences-doh-default-detailed-desc-4 = Kikapcsolás, ha a VPN, a szülői felügyelet vagy a vállalati házirendek aktívak
 preferences-doh-default-detailed-desc-5 = Kikapcsolás, ha a hálózat azt mondja a { -brand-short-name }nak, hogy ne használjon biztonságos DNS-t
+
 preferences-doh-setting-enabled =
     .label = Fokozott védelem
     .accesskey = F
 preferences-doh-enabled-desc = Ön szabályozza, hogy mikor használ DNS-t, és kiválaszthatja a szolgáltatót.
 preferences-doh-enabled-detailed-desc-1 = A kiválasztott szolgáltató használata
 preferences-doh-enabled-detailed-desc-2 = Csak akkor használja az alapértelmezett DNS-feloldót, ha probléma van a biztonságos DNS-sel
+
 preferences-doh-setting-strict =
     .label = Maximális védelem
     .accesskey = M
@@ -1299,15 +1556,20 @@ preferences-doh-strict-desc = A { -brand-short-name } mindig biztonságos DNS-t 
 preferences-doh-strict-detailed-desc-1 = Csak a kiválasztott szolgáltató használata
 preferences-doh-strict-detailed-desc-2 = Figyelmeztetés mindig, ha a biztonságos DNS nem érhető el
 preferences-doh-strict-detailed-desc-3 = Ha a biztonságos DNS nem érhető el, akkor a helyek nem fognak betöltődni és működni
+
 preferences-doh-setting-off =
     .label = Ki
     .accesskey = K
 preferences-doh-off-desc = Az alapértelmezett DNS-feloldó használata
+
 preferences-doh-checkbox-warn =
     .label = Figyelmeztetés, ha egy harmadik fél aktívan megakadályozza a biztonságos DNS használatát
     .accesskey = F
+
 preferences-doh-select-resolver = Válasszon szolgáltatót:
+
 preferences-doh-exceptions-description = A { -brand-short-name } nem fog biztonságos DNS-t használni ezeken a webhelyeken
+
 preferences-doh-manage-exceptions =
     .label = Kivételek kezelése…
     .accesskey = v

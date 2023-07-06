@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = A { -relay-brand-name } használatához be kel
 firefox-relay-get-unlimited-masks =
     .label = Maszkok kezelése
     .accesskey = M
-firefox-relay-opt-in-title = Védje meg az e-mail-címét
-firefox-relay-opt-in-subtitle = { -relay-brand-name } hozzáadása
-firefox-relay-generate-mask-title = Védje meg az e-mail-címét
-firefox-relay-generate-mask-subtitle = { -relay-brand-short-name }-maszk létrehozása
-firefox-relay-opt-in-confirmation-enable =
-    .label = Folytatás
-    .accesskey = F
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Védje meg az e-mail-címét:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

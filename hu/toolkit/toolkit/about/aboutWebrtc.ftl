@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC belső adatok
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = az about:webrtc mentése másként
@@ -23,6 +24,7 @@ about-webrtc-aec-logging-msg-label = AEC naplózás
 about-webrtc-aec-logging-off-state-label = AEC naplózás indítása
 about-webrtc-aec-logging-on-state-label = AEC naplózás leállítása
 about-webrtc-aec-logging-on-state-msg = Az AEC naplózás aktív (beszéljen a hívóval pár percig, majd állítsa le a felvételt)
+
 about-webrtc-aec-logging-toggled-on-state-msg = Az AEC naplózás aktív (beszéljen a hívóval pár percig, majd állítsa le a felvételt)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -32,16 +34,22 @@ about-webrtc-aec-logging-toggled-off-state-msg = A rögzített naplófájlok meg
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatikus frissítés
+
 # Determines the default state of the Auto Refresh check boxes
 about-webrtc-auto-refresh-default-label = Automatikus frissítés alapértelmezés szerint
+
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Frissítés
+
+
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Nyitott adatcsatornák:
+
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = Lezárt adatcsatornák:
 
@@ -89,10 +97,12 @@ about-webrtc-type-remote = Távoli
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Jelölt
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Kijelölt
+
 about-webrtc-save-page-label = Oldal mentése
 about-webrtc-debug-mode-msg-label = Hibakeresési mód
 about-webrtc-debug-mode-off-state-label = Hibakeresési mód indítása
@@ -105,6 +115,7 @@ about-webrtc-log-show-msg = napló megjelenítése
     .title = kattintson a szakasz kibontásához
 about-webrtc-log-hide-msg = napló elrejtése
     .title = kattintson a szakasz összecsukásához
+
 about-webrtc-log-section-show-msg = Napló megjelenítése
     .title = Kattintson a szakasz kibontásához
 about-webrtc-log-section-hide-msg = Napló elrejtése
@@ -187,26 +198,36 @@ about-webrtc-pc-configuration-hide-msg = Konfiguráció elrejtése
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Biztosított
+
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Nem biztosított
+
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Felhasználó által megadott WebRTC-beállítások
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Becsült sávszélesség
+
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Sávazonosító
+
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Küldési sávszélesség (bájt/mp)
+
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Fogadási sávszélesség (bájt/mp)
+
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maximális kitöltés (bájt/mp)
+
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Ütemező késleltetése (ms)
+
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT (ms)
+
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -222,6 +243,7 @@ about-webrtc-save-page-msg = oldal mentve ide: { $path }
 about-webrtc-debug-mode-off-state-msg = nyomkövetési napló helye: { $path }
 about-webrtc-debug-mode-on-state-msg = hibakeresési mód aktív, nyomkövetési napló helye: { $path }
 about-webrtc-aec-logging-off-state-msg = a rögzített naplófájlok megtalálhatók itt: { $path }
+
 about-webrtc-save-page-complete-msg = Oldal mentve ide: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Nyomkövetési napló helye: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Hibakeresési mód aktív, nyomkövetési napló helye: { $path }
@@ -236,6 +258,7 @@ about-webrtc-frames =
         [one] { $frames } képkocka
        *[other] { $frames } képkocka
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -244,6 +267,7 @@ about-webrtc-channels =
         [one] { $channels } csatorna
        *[other] { $channels } csatorna
     }
+
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -252,6 +276,7 @@ about-webrtc-received-label =
         [one] { $packets } csomag fogadva
        *[other] { $packets } csomag fogadva
     }
+
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -260,6 +285,7 @@ about-webrtc-lost-label =
         [one] { $packets } csomag elveszett
        *[other] { $packets } csomag elveszett
     }
+
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -268,11 +294,13 @@ about-webrtc-sent-label =
         [one] { $packets } csomag elküldve
        *[other] { $packets } csomag elküldve
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Csúszás { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -285,10 +313,12 @@ about-webrtc-trickle-caption-msg = A lecsorgó (válasz után érkező) jelölte
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = A Helyi SDP beállítva a következő időbélyegkor: { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = A Távoli SDP beállítva a következő időbélyegkor: { NUMBER($timestamp, useGrouping: "false") }
+
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.

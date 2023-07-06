@@ -4,6 +4,7 @@
 
 about-reader-loading = Betöltés…
 about-reader-load-error = A cikk betöltése sikertelen az oldalról
+
 about-reader-color-scheme-light = Világos
     .title = Világos színséma
 about-reader-color-scheme-dark = Sötét
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Szépia
     .title = Szépia színséma
 about-reader-color-scheme-auto = Automatikus
     .title = Automatikus színséma
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

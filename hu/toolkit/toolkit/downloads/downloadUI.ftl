@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ne lépjen ki
        *[other] Ne lépjen ki
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ha most kapcsolat nélküli üzemmódba lép, 1 letöltés megszakad. Biztosan meg szeretné szakítani a hálózati kapcsolatot?
        *[other] Ha most kapcsolat nélküli üzemmódba lép, { $downloadsCount } letöltés megszakad. Biztosan meg szeretné szakítani a hálózati kapcsolatot?
     }
 download-ui-dont-go-offline-button = Maradjon online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ha most bezárja az összes privát böngészési ablakot, 1 letöltés megszakad. Biztos, hogy ki akar lépni a privát böngészésből?
        *[other] Ha most bezárja az összes privát böngészési ablakot, { $downloadsCount } letöltés megszakad. Biztos, hogy ki akar lépni a privát böngészésből?
     }
 download-ui-dont-leave-private-browsing-button = Maradok privát böngészésben
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 letöltés megszakítása

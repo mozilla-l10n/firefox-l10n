@@ -38,9 +38,11 @@ menu-quit =
             [windows] K
            *[other] K
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Kilépés a { -brand-shorter-name }ból
+
 menu-about =
     .label = A { -brand-shorter-name } névjegye
     .accesskey = A
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Nemrég bezárt lapok
 menu-history-undo-window-menu =
     .label = Nemrég bezárt ablakok
-menu-history-reopen-all-tabs = Összes lap újranyitása
-menu-history-reopen-all-windows = Összes ablak újranyitása
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = K
 menu-bookmarks-manage =
     .label = Könyvjelzők kezelése
-menu-bookmark-current-tab =
-    .label = Jelenlegi lap könyvjelzőzése
-menu-bookmark-edit =
-    .label = Könyvjelző szerkesztése
 menu-bookmark-tab =
     .label = Jelenlegi lap könyvjelzőzése…
 menu-edit-bookmark =

@@ -23,5 +23,7 @@ state-header = Állapot
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Részletek
+
 update-installed-on = Telepítve: { $date }
+
 update-status = Állapot: { $status }
