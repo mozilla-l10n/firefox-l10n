@@ -26,6 +26,7 @@ webrtc-item-browser = टॅब
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = अज्ञात मूळ
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -65,6 +66,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = वाटून घेवपार नियंत्रण दवरात
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" वयल्या वाटून घेवपार नियंत्रण दवरात
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }" संयत कॅमेरा वाटून घेता
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -73,6 +75,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } टॅबासंयत कॅमेरा वाटून घेता
            *[other] { "  " }{ $tabCount } टॅबांसंयत कॅमेरा वाटून घेता
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }" संयत मायक्रोफोन वाटून घेता
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -81,6 +84,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } टॅबासंयत मायक्रोफोन वाटून घेता
            *[other] { "  " }{ $tabCount } टॅबांसंयत मायक्रोफोन वाटून घेता
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" संयत अनुप्रयोग वाटून घेता
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -89,6 +93,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } टॅबासंयत अनुप्रयोग वाटून घेता
            *[other] { "  " }{ $tabCount } टॅबांसंयत अनुप्रयोग वाटून घेता
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" संयत पड्डो वाटून घेता
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -97,6 +102,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } टॅबासंयत पड्डो वाटून घेता
            *[other] { "  " }{ $tabCount } टॅबांसंयत पड्डो वाटून घेता
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" संयत विंडो वाटून घेता
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -105,6 +111,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } टॅबासंयत विंडो वाटून घेता
            *[other] { "  " }{ $tabCount } टॅबांसंयत विंडो वाटून घेता
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" संयत कॅमेरा वाटून घेता
 

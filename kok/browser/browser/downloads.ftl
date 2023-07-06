@@ -74,10 +74,12 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = डावनलोड्स साफ करात
     .tooltiptext = पुराय जाल्ले, रद्द जाल्ले आनी असफळ डावनलोड्स साफ करता
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = डावनलोड्स ना.
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = सत्राखातीर डावनलोड्स ना.

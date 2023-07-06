@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = खंयच्या वेबसायट
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

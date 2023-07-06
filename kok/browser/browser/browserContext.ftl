@@ -167,14 +167,6 @@ main-context-menu-audio-email =
     .label = Email ऑडिओ...
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = हो प्लगईन सक्रिय करात
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = हो प्लगईन लिपयात
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -204,10 +196,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = चौकट परतून चडयात
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = ही फ्रेम बूकमार्क करची
-    .accesskey = म
 
 main-context-menu-frame-save-as =
     .label = म्हण चौकटीची जतनाय करात...

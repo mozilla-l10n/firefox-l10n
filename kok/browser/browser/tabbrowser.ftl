@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = नवे टॅब
+
 tabbrowser-menuitem-close-tab =
     .label = टॅब बंद करात
 tabbrowser-menuitem-close =
@@ -43,3 +44,6 @@ tabbrowser-confirm-close-tabs-button = टॅब्जा बंद करात
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = सगळ्या { $tabCount } टॅबांचीवळेरी करात
+
+## Tab manager menu buttons
+

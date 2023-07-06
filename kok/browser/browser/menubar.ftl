@@ -144,6 +144,8 @@ menu-view-full-screen =
     .label = पुराय स्क्रीन
     .accesskey = प
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -174,8 +176,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = बुकमार्क
     .accesskey = B
-menu-bookmark-edit =
-    .label = हो बूकमार्क संपादीत करचो
 menu-bookmarks-all-tabs =
     .label = सगळे टॅब्स पुस्तकखूणों करात...
 menu-bookmarks-toolbar =

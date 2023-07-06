@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = अधिकारी
 
-certmgr-edit-ca-cert =
-    .title = सीए प्रमाणपत्र विश्वास स्थापिता सम्पादन
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = सीए प्रमाणपत्र विश्वास स्थापिता सम्पादन
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = हे प्रमाणपत्र मेल वापरुप्यांक वळखुपाक शकता.
 
-certmgr-delete-cert =
-    .title = प्रमाणपत्र काडून उडयात
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = प्रमाणपत्र काडून उडयात
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = सर्वर
-
-certmgr-override-lifetime =
-    .label = जिविताचो
 
 certmgr-token-name =
     .label = सुरक्षा उपकरण

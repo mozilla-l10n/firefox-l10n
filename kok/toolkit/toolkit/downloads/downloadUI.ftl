@@ -12,7 +12,9 @@ download-ui-dont-quit-button =
         [mac] भायर वचू नाकात
        *[other] भायर वचू नाकात
     }
+
 download-ui-dont-go-offline-button = ऑनलाईन रावात
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 डावनलोड रद्द करात

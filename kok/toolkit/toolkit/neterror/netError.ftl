@@ -23,6 +23,17 @@ neterror-load-error-try-again = सायट तात्पुरती उप�
 neterror-load-error-connection = तुमी खंयचीय पाना लोड करपाक शकना, तुमच्या संगणकाची नेटवर्क जोडणी तपासात.
 neterror-load-error-firewall = तुमचो संगणक वो नेटवर्क जर फायरवॉल वो प्रॉक्सिन सुरक्षित आसा, जाल्यार { -brand-short-name } क वेबान प्रवेश करपाची परवानगी आसा हाजी खात्री करात.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = कॅपिटलायझेशनाखातीर वो हेर टायपिंग एररांखातीर तपासात.
 neterror-file-not-found-moved = फायल हालयली, नवे नाव दिले वो काडून उडयली हे पळोवपाक तपासात.
 

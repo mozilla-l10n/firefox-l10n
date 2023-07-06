@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = मॉझीला.ऑर्ग
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = <em:योगदान दिवपी>ज्यो सोलोन</em:योगदान दिवपी> <em:योगदान दिवपी>सुझी सोलोन </em:योगदान दिवपी>

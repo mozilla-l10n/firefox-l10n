@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = विंडोज आनि टॅबां
 browser-data-session-label =
     .value = विंडोज आनि टॅबां
+
