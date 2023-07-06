@@ -26,7 +26,6 @@ pocket-panel-saved-save-tags = সাঁচি থওক
 pocket-panel-saved-saving-tags = সঞ্চয় কৰি থকা হৈছে…
 pocket-panel-saved-suggested-tags = পৰামৰ্শমূলক টেগ
 pocket-panel-saved-tags-saved = টেগসমূহ যোগ কৰা হ'ল
-pocket-panel-signup-view-list = তালিকা চাওক
 
 ## about:pocket-signup panel
 
@@ -42,7 +41,6 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name }-ত যিকো�
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = মোৰ তালিকা
 pocket-panel-home-welcome-back = পুনৰ স্বাগতম জনাইছোঁ
 pocket-panel-home-paragraph = আপুনি ৱেবপৃষ্ঠা, প্ৰবন্ধ, ভিডিঅ', পড্‌কাষ্ট অন্বেষণ কৰিবলৈ আৰু সাঁচি থ'বলৈ বা আপুনি পঢ়ি থকাখিনিলৈ ঘূৰি যাবলৈ { -pocket-brand-name } ব্যৱহাৰ কৰিব পাৰে।
 pocket-panel-home-explore-popular-topics = জনপ্ৰিয় বিষয়বোৰ অন্বেষণ কৰক

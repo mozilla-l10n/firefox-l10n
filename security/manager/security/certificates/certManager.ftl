@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = কৰ্ত্তৃপক্ষ
 
-certmgr-edit-ca-cert =
-    .title = CA প্ৰমাণপত্ৰ বিশ্বাসৰ পছন্দ সম্পাদন কৰক
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA প্ৰমাণপত্ৰ বিশ্বাসৰ পছন্দ সম্পাদন কৰক
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = এই প্ৰমাণপত্ৰই মেইল ব্যৱহাৰকাৰী চিনিব পাৰে।
 
-certmgr-delete-cert =
-    .title = প্ৰমাণপত্ৰ আঁতৰাওক
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = প্ৰমাণপত্ৰ আঁতৰাওক
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = চাৰ্ভাৰ
-
-certmgr-override-lifetime =
-    .label = জীৱনকাল
 
 certmgr-token-name =
     .label = সুৰক্ষাৰ ডিভাইচ

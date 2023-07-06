@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-ৰ পৰা ওলাওক
+
 menu-about =
     .label = { -brand-shorter-name }-ৰ বিষয়ে
     .accesskey = A
@@ -210,8 +212,6 @@ menu-history-undo-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা টেবসমূহ
 menu-history-undo-window-menu =
     .label = শেহতীয়াভাৱে বন্ধ কৰা উইণ্ড'সমূহ
-menu-history-reopen-all-tabs = সকলো টেব পুনৰ খোলক
-menu-history-reopen-all-windows = সকলো ৱিণ্ড' পুনৰ খোলক
 
 ## Bookmarks Menu
 
@@ -220,10 +220,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = বুকমাৰ্ক পৰিচালনা কৰক
-menu-bookmark-current-tab =
-    .label = বৰ্তমানৰ টেব বুকমাৰ্ক কৰক
-menu-bookmark-edit =
-    .label = এই পত্ৰচিহ্ন সম্পাদন কৰক
 menu-bookmarks-all-tabs =
     .label = সকলো টেব পত্ৰচিহ্নিত কৰক…
 menu-bookmarks-toolbar =

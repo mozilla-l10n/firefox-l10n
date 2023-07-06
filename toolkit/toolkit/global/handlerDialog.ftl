@@ -9,6 +9,13 @@
 ##  $scheme - the type of link that's being opened.
 ##  $appName - Name of the application that will be opened.
 
+## Permission Dialog
+## Variables:
+##  $host (string) - The hostname that is initiating the request
+##  $scheme (string) - The type of link that's being opened.
+##  $appName (string) - Name of the application that will be opened.
+##  $extension (string) - Name of extension that initiated the request
+
 permission-dialog-description = এই ছাইটটোক { $scheme } লিংক খুলিবলৈ অনুমতি দিবনে?
 
 permission-dialog-description-file = এই ফাইলটোক { $scheme } লিংক খুলিবলৈ অনুমতি দিবনে?
@@ -24,6 +31,13 @@ permission-dialog-description-file-app = এই ফাইলটোক { $appName
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
 ## of the sentence as your language's grammar allows.
+
+## Please keep the emphasis around the hostname and scheme (ie the
+## `<strong>` HTML tags). Please also keep the hostname as close to the start
+## of the sentence as your language's grammar allows.
+## Variables:
+##  $host (string) - The hostname that is initiating the request
+##  $scheme (string) - The type of link that's being opened.
 
 permission-dialog-remember = <strong>{ $host }</strong>-ক সদায় <strong>{ $scheme }</strong> লিংক খোলাৰ অনুমতি দিব
 
@@ -46,6 +60,10 @@ permission-dialog-set-change-app-link = বেলেগ এটা এপ্ল�
 ## Chooser dialog
 ## Variables:
 ##  $scheme - the type of link that's being opened.
+
+## Chooser dialog
+## Variables:
+##  $scheme (string) - The type of link that's being opened.
 
 chooser-window =
     .title = এপ্লিকেশ্যন বাছি লওক

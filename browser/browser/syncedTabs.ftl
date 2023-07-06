@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = খোলক
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = এটা নতুন টেবত খোলক
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = এটা নতুন উইণ্ড'ত খোলক
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = এটা নতুন ব্যক্তিগত উইণ্ড'ত খোলক
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = এই টেব বুকমাৰ্ক কৰক…
-    .accesskey = B
 
 ##
 

@@ -4,6 +4,7 @@
 
 about-reader-loading = ল'ড হৈ আছে…
 about-reader-load-error = পৃষ্ঠাৰ পৰা প্ৰবন্ধ ল'ড কৰাত বিফল
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

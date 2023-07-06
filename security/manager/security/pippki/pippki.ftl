@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
-    .style = width: 46em
-
 download-cert-window2 =
     .title = প্ৰমাণপত্ৰ ডাউনল'ড কৰা হৈছে
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = গুৰুত্বপূৰ্ণ: প্ৰমাণ
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = সুৰক্ষিত টোকেনৰ প্ৰমাণীকৰণ
-protected-auth-msg = অনুগ্ৰহ কৰি টোকেনত প্ৰমাণ কৰক। প্ৰমাণীকৰণৰ পদ্ধতি আপোনাৰ টোকেনৰ ধৰণৰ ওপৰত নিৰ্ভৰ কৰে।
-protected-auth-token = টোকেন:
+## Protected authentication alert
+

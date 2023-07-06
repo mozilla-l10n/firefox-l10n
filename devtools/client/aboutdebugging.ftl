@@ -165,14 +165,6 @@ about-debugging-extension-location =
 about-debugging-extension-id =
     .label = এক্সটেনশ্যন ID
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = মুখ্য প্ৰক্ৰিয়া
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = টাৰ্গেট ব্ৰাউজাৰৰ বাবে মুখ্য প্ৰক্ৰিয়া
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = বহু-প্ৰক্ৰিয়া টুলবক্স

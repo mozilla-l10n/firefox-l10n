@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-add-engine-window =
-    .title = ছাৰ্চ ইঞ্জিন যোগ কৰক
-    .style = width: 32em;
-
 add-engine-window2 =
     .title = ছাৰ্চ ইঞ্জিন যোগ কৰক
     .style = min-width: 32em;

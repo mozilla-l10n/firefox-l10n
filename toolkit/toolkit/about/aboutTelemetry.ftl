@@ -111,9 +111,6 @@ about-telemetry-category-header = বৰ্গ
 about-telemetry-method-header = পদ্ধতি
 about-telemetry-object-header = অবজেক্ট
 about-telemetry-extra-header = অতিৰিক্ত
-about-telemetry-origin-section = মূল টেলিমেট্ৰী
-about-telemetry-origin-origin = উৎস
-about-telemetry-origin-count = সংখ্যা
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } প্ৰক্ৰিয়া

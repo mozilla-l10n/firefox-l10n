@@ -19,6 +19,7 @@ accessibility-progress-initializing = আৰম্ভ কৰা হৈছে...
 
 accessibility-warning =
     .alt = সকীয়নি
+
 accessibility-fail =
     .alt = ত্ৰুটি
 
