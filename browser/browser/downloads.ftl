@@ -41,3 +41,5 @@ downloads-cmd-pause =
 
 ##
 
+## Download errors
+

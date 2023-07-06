@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = மீண்டும் தேடு
     .accesskey = g
+

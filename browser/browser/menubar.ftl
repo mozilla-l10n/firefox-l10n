@@ -129,6 +129,8 @@ menu-view-full-screen =
     .label = முழுத்திரை
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -153,8 +155,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = புத்தகக்குறிகள்
     .accesskey = B
-menu-bookmark-edit =
-    .label = இந்தப் புத்தகக்குறியைச் செவ்வையாக்குக
 menu-bookmarks-all-tabs =
     .label = அனைத்துத் தத்தல்களையும் புத்தகக்குறியிடுக…
 menu-bookmarks-toolbar =

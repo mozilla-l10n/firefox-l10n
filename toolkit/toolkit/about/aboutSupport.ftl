@@ -6,6 +6,8 @@ a11y-title = அணுகுதிறன்
 
 ## Media titles
 
+## Codec support table
+
 ##
 
 ## Remote Debugging
