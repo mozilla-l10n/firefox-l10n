@@ -22,6 +22,17 @@ neterror-load-error-try-again = Omutimbo guyinza okumala akaseera nga teguliiko 
 neterror-load-error-connection = Bw'obeera olemeddwa okuttikka entimbe, kebera kenkwasaganya  yo'mukutu ku Kompyuta yo.
 neterror-load-error-firewall = Bw'eba nga kompyuta yo oba empuliziganya ekumiddwa fgguluggulu oba kompyuta enkozi poxi, gezaako okulaba  nti { -brand-short-name } ekkirizibwa okweyambisa omutimbagano.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Kebera erinnya ly'enteresi oba liri mu nnukuta nnene oba lyasobeddwa mukuliwandiika.
 neterror-file-not-found-moved = Kebera olabe oba enteresi yagyibwawo, oba ya kyusibbwa erinnya oba nga lyasanguddwa.
 

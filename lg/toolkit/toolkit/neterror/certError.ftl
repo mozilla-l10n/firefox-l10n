@@ -20,6 +20,7 @@ cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
 
 connectionFailure-title = Tekisobose kuyungibwa
 deniedPortAccess-title = Endagiriro eno ekugiddwa
+
 fileNotFound-title = Enteresi ebuze
 generic-title = Oops.
 netInterrupt-title = Okuyungibwa kwataataaganyizibbwa

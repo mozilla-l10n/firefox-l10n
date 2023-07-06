@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Kuwanuula Santifikati
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Kuwanuula Santifikati
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Bikumibwa Obutundu Kubikirizidwa
-protected-auth-msg = Kale bikka ebikutwatako mubitundu. Kubikka ebikutwako negeri eyimirira ekyikka kyo`butundubyo.
-protected-auth-token = Akatundu:
+## Protected authentication alert
+

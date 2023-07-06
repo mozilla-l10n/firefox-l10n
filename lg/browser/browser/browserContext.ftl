@@ -185,10 +185,6 @@ main-context-menu-frame-reload =
     .label = Ddamu otikke Olugo
     .accesskey = D
 
-main-context-menu-frame-bookmark =
-    .label = Lamba Olugo Luno
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = Tereka fulemu nga…
     .accesskey = f

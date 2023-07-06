@@ -23,5 +23,7 @@ state-header = Ebela
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Mubujjuvu
+
 update-installed-on = Kitekeddwaku: { $date }
+
 update-status = Embeera: { $status }

@@ -90,3 +90,7 @@ permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa ok
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

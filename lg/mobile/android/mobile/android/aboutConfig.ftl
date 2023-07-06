@@ -6,10 +6,14 @@ config-toolbar-search =
     .placeholder = Noonya
 config-new-pref-name =
     .placeholder = Erinnya
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = Akaguwa
 config-new-pref-value-integer = Ennamba
+
 config-new-pref-cancel-button = Sazaamu
 config-new-pref-change-button = Kyuusa
+
 config-pref-toggle-button = Ffula
 config-pref-reset-button = Zzayo
+

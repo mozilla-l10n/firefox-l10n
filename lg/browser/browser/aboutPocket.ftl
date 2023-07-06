@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Teleka
 pocket-panel-saved-saving-tags = Tuteleka…
 pocket-panel-saved-suggested-tags = Taaga z'okugezako
 pocket-panel-saved-tags-saved = Taaga Zigatiddwako
-pocket-panel-signup-view-list = Laba lisiti
 
 ## about:pocket-signup panel
 

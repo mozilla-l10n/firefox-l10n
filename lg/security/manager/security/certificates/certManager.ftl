@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Obunyiza
 
-certmgr-edit-ca-cert =
-    .title = Kyusa enteeka ya satifikati eyekyika kya CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Kyusa enteeka ya satifikati eyekyika kya CA
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Santifikati eno enyiza kwogera ku mukozesa wa mayiru.
 
-certmgr-delete-cert =
-    .title = Sagula santifikati
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Sagula santifikati
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Kompyuta efunga zinazo
-
-certmgr-override-lifetime =
-    .label = Embbagga dyo budde
 
 certmgr-token-name =
     .label = Security Device

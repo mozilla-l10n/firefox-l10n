@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Amaddirisa era Awadiriira
 browser-data-session-label =
     .value = Amaddirisa era Awadiriira
+

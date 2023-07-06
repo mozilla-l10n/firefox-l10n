@@ -129,6 +129,8 @@ menu-view-full-screen =
     .label = Sikulini mu Bujjuvu
     .accesskey = S
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -153,8 +155,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Obulambe
     .accesskey = O
-menu-bookmark-edit =
-    .label = Longoosa Akalambe Kano
 menu-bookmarks-all-tabs =
     .label = Lamba Awaddirira Wona…
 menu-bookmarks-toolbar =

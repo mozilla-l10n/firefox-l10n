@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Toggalawo
        *[other] Tofuluma
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Bwoba olibweru wolutimbe kati, 1 kuwanula kuja kuba kusazidwamu. Okakasa oyagala kugenda obweru wolutimbe?
        *[other] Bwogenda obweru wolutimbe, { $downloadsCount } okuwanula kuja kuba kusazidwamu. Okakasa oyagala kugenda obweru wolutimbe?
     }
 download-ui-dont-go-offline-button = Sigala Kulutimbe
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Sazaamu 1 Wannula
