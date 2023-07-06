@@ -206,10 +206,6 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
     .label = पुश सेवा
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = मुख्य प्रक्रिया
-
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = संदेश बंद करा

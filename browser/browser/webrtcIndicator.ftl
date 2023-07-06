@@ -27,6 +27,7 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = अपरिचीत स्त्रोत
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = शेअरिंग नियंत्रीत करा
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" करिता शेअरिंग नियंत्रीत करणे
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }" सह कॅमेरा शेअर करणे
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -76,6 +78,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } टॅबसह कॅमेरा शेअर करणे
            *[other] { $tabCount } टॅब्जसह कॅमेरा शेअर करणे
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }" सह माइक्रोफोन शेअर करणे
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -84,6 +87,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } टॅबसह माइक्रोफोन शेअर करणे
            *[other] { $tabCount } टॅब्जसह माइक्रोफोन शेअर करणे
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" सोबत एक ॲप्लिकेशन शेअर केले जात आहे
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -92,6 +96,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } टॅब सोबत एक ॲप्लिकेशन शेअर केले जात आहे
            *[other] { $tabCount } टॅब्ज सोबत ॲप्लिकेशन्स शेअर करत आहे
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" सह पडदा शेअर करणे
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -100,6 +105,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } टॅबसह पडदा शेअर करणे
            *[other] { $tabCount } टॅब्जसह पडदा शेअर करणे
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" सह पटल शेअर करणे
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -108,6 +114,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } टॅब सह पटल शेअर करणे
            *[other] { $tabCount } टॅब्जसह पटल शेअर करणे
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" सोबत टॅब शेअर करत आहे
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -154,6 +161,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = हा निर्णय लक्षात ठेवा
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } आपल्या स्क्रीन च्या कायमस्वरूपी प्रवेशाची परवानगी देऊ शकत नाही
 webrtc-reason-for-no-permanent-allow-audio = कोणता टॅब शेअर करायचा हे विचारल्याशिवाय { -brand-short-name } आपल्या टॅबचा ऑडिओ कायमस्वरुपी वापरायची परवानगी देऊ शकत नाही.
 webrtc-reason-for-no-permanent-allow-insecure = आपली या साइटशी जोडणी सुरक्षित नाही. आपल्याला वाचवण्यासाठी, { -brand-short-name } फ़क्त या सत्राकरिता प्रवेश देइल.

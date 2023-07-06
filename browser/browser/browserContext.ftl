@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = या पृष्ठाला वाचणखूण लावा
-    .accesskey = m
-    .tooltiptext = या पृष्ठाला वाचनखूण लावा
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = या पृष्ठाला वाचणखूण लावा
-    .accesskey = m
-    .tooltiptext = या पृष्ठाला वाचनखूण लावा ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = ही वाचनखूण संपादीत करा
-    .accesskey = m
-    .tooltiptext = ही वाचनखूण संपादीत करा
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = ही वाचनखूण संपादीत करा
-    .accesskey = m
-    .tooltiptext = ही वाचनखूण ({ $shortcut }) संपादीत करा
-
 main-context-menu-open-link =
     .label = दुवा उघडा
     .accesskey = O
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = ऑडिओ ईमेल करा…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = ह्या प्लगइनला सुरू करा
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = ह्या प्लगइनला लपवा
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = पृष्ठ { -pocket-brand-name } मध्ये जतन करा
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = चौकट पुन्हा लोड करा
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = या चौकटाला वाचनखूण लावा
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = पटल असे साठवा…

@@ -36,9 +36,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } मधून बाहेर पडा
+
 menu-about =
     .label = { -brand-shorter-name } विषयी
     .accesskey = A
@@ -199,8 +201,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = वाचनखुणा
     .accesskey = B
-menu-bookmark-edit =
-    .label = ही वाचनखूण संपादीत करा
 menu-bookmarks-all-tabs =
     .label = सर्व टॅब्सला वाचनखूण लावा...
 menu-bookmarks-toolbar =

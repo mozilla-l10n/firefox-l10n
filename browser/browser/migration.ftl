@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = चौकट व टॅब
 browser-data-session-label =
     .value = चौकट व टॅब
+

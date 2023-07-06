@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = अपवाद
-    .style = width: 45em
-
 permissions-window2 =
     .title = अपवाद
     .style = min-width: 45em
@@ -79,13 +75,7 @@ permissions-invalid-uri-label = कृपया वैध यजमान ना
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-desc = आपण या वेबसाइटवर संरक्षण बंद केले आहे.
-
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = अपवाद - कुकीज व साईट माहिती
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = अपवाद - कुकीज व साईट माहिती
@@ -97,20 +87,12 @@ permissions-exceptions-cookie-desc = कोणत्या संकेतस्
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = अनुमतीत साइट्स - पॉपअप्स्
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = अनुमतीत साइट्स - पॉपअप्स्
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = आपण कोणत्या साइट्सना आगाऊ दृश्यचौकटी उघडण्याची परवानगी आहे हे दर्शवू शकता. परवागी द्यावयाच्या साइटचा पत्ता तंतोतंत टाइप करा आणि परवानगी द्या(Allow) वर क्लिक् करा.
 
 ## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window =
-    .title = अपवाद - संचयीत लॉगइन्स
-    .style = { permissions-window.style }
 
 permissions-exceptions-saved-logins-window2 =
     .title = अपवाद - संचयीत लॉगइन्स
@@ -119,10 +101,6 @@ permissions-exceptions-saved-logins-desc = खालील संकेतस्
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
-    .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = अनुमतीत स्थळाकरता - ॲड-ऑन्स् स्थापना
     .style = { permissions-window2.style }
@@ -130,19 +108,11 @@ permissions-exceptions-addons-desc = कुठल्या संकेतस्
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = सेटिंग - ऑटोप्ले
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = सेटिंग - ऑटोप्ले
     .style = { permissions-window2.style }
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = सेटिंग - सूचना परवानग्या
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = सेटिंग - सूचना परवानग्या
@@ -153,10 +123,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = वर नमूद केलेल्या संकेतस्थळांशिवाय इतरांवर सूचना पाठवण्याची परवानगी विचारण्यास यामुळे निर्बंध बसेल. सूचना बंद केल्यामुळे संकेतस्थळाच्या काही सुविधा बंद पडतील.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = सेटिंग - स्थान परवानग्या
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = सेटिंग - स्थान परवानग्या
@@ -171,10 +137,6 @@ permissions-site-location-disable-desc = वर नमूद न केलेल
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = सेटिंग - कॅमेरा परवानग्या
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = सेटिंग - कॅमेरा परवानग्या
     .style = { permissions-window2.style }
@@ -185,10 +147,6 @@ permissions-site-camera-disable-desc = उपरोक्त सूचीबद�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = सेटिंग - मायक्रोफोन परवानग्या
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = सेटिंग - मायक्रोफोन परवानग्या
     .style = { permissions-window2.style }
@@ -196,3 +154,8 @@ permissions-site-microphone-desc = खालील वेबसाइटने �
 permissions-site-microphone-disable-label =
     .label = आपला मायक्रोफोन वापरायची परवानगी मागणाऱ्या नवीन विनंत्यांना अडवा
 permissions-site-microphone-disable-desc = उपरोक्त सूचीबद्ध केलेली कोणतीही वेबसाइट आपल्या मायक्रोफोनवर प्रवेश करण्याच्या परवानगीशिवाय विनंती करणार नाही. आपल्या मायक्रोफोनवर प्रवेश अवरोधित करणे काही वेबसाइट वैशिष्ट्ये खंडित करू शकते.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

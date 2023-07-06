@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = सद्याची लॉग फाईल:
-about-logging-current-log-modules = सद्याचे लॉग मॉड्यूल्स:
 about-logging-log-tutorial = हे साधन कसे वापरावे याची माहिती घेण्यासाठी <a data-l10n-name="logging">HTTP लॉगींग </a> वरील माहिती पहा.
 about-logging-set-log-file = लॉग फाईल ठरवा
 about-logging-set-log-modules = लॉग मॉड्यूल्स ठरवा
 about-logging-start-logging = लॉगिंग सुरु करा
 about-logging-stop-logging = लॉगिंग बंद करा
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

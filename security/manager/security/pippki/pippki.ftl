@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = प्रमाणपत्र डाउनलोड करत आहे
-    .style = width: 46em
-
 download-cert-window2 =
     .title = प्रमाणपत्र डाउनलोड करत आहे
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = महत्वाचे: आपण प्रतिक�
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = सुरक्षीत टोकन अधिप्रमाणता
-protected-auth-msg = टोकन अधिप्रमाणीत करा. अधिप्रमाणन कार्यपद्धती टोकनच्या प्रकारावर अवलंबून आहे.
-protected-auth-token = टोकन:
+## Protected authentication alert
+

@@ -110,6 +110,8 @@ media-device-channels = माध्यम
 media-device-rate = दर
 media-device-latency = विलंब
 
+## Codec support table
+
 ##
 
 intl-title = आंतरराष्ट्रीयकरण & स्थानिकीकरण
