@@ -36,6 +36,8 @@ copy-raw-data-to-clipboard-label = Kopiša tsebišo e sa tswakwago go lenaneo-po
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

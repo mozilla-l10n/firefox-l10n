@@ -129,6 +129,8 @@ menu-view-full-screen =
     .label = Sekirini seo se tletšego
     .accesskey = t
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -153,8 +155,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Dipukutshwayo
     .accesskey = k
-menu-bookmark-edit =
-    .label = Lokiša pukutshwayo ye
 menu-bookmarks-all-tabs =
     .label = Pukuswaya dithepo tšohle…
 menu-bookmarks-toolbar =

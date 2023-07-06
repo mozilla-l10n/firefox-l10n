@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Hwetša gape
     .accesskey = a
+

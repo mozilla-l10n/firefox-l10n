@@ -19,3 +19,4 @@ sec-error-js-invalid-module-name = Leina le e sego la kgonthe la motšule.
 sec-error-js-add-mod-failure = Ga le kgone go lokela motšule
 sec-error-js-del-mod-failure = Ga le kgone go phumula motšule
 sec-error-old-krl = KRL e mpsha ke ya kgale go feta ya bjale.
+

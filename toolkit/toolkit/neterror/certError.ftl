@@ -7,6 +7,7 @@
 
 connectionFailure-title = Ga e kgone go kgokaganya
 deniedPortAccess-title = Aterese ye e thibetšwe
+
 fileNotFound-title = Faele ga ya hwetšwa
 generic-title = O!O!
 netInterrupt-title = Kgokaganyo e šitišitšwe

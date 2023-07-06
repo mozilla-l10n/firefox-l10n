@@ -22,6 +22,17 @@ neterror-load-error-try-again = Saete e ka ba e se gona ka nakwana goba e swareg
 neterror-load-error-connection = Ge e ba o sa kgone go hlahlela matlakala le ge e le afe, lekola kgokaganyo ya neteweke ya khomphutha ya gago.
 neterror-load-error-firewall = Ge e ba khomphutha ya gago goba neteweke e šireleditšwe ke sešireletši goba kemedi, kgonthišetša gore { -brand-short-name } e dumeletšwe go tsena wepeng.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Lekola leina la faele bakeng sa ditlhaka-kgolo goba diphošo tše dingwe tša go tlanya.
 neterror-file-not-found-moved = Lekola go bona ge e ba faele e tlošitšwe, e reilwe leina gape goba e phumotšwe.
 

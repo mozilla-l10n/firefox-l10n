@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Ditaolo
 
-certmgr-edit-ca-cert =
-    .title = Rulaganya dipeakanyo tša tshepho ya setifikheiti sa CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Rulaganya dipeakanyo tša tshepho ya setifikheiti sa CA
     .style = min-width: 48em;
@@ -23,10 +19,6 @@ certmgr-edit-cert-edit-trust = Rulaganya dipeakanyo tša tshepho:
 
 certmgr-edit-cert-trust-email =
     .label = Setifikheiti se se ka hlaola badiriši ba thomelo.
-
-certmgr-delete-cert =
-    .title = Phumula Sethifikheiti
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Phumula Sethifikheiti
