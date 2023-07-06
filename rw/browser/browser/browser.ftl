@@ -162,6 +162,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Gutuma Ibyirambura Bikoreshwa kuri { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Guhagarika Ibyirambura kuri { $uriHost }
     .accesskey = p
@@ -183,6 +184,7 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ibikururwa
+
 tabs-toolbar-new-tab =
     .label = Agafishi Gashya
 
@@ -199,6 +201,9 @@ tabs-toolbar-new-tab =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 
@@ -210,6 +215,8 @@ tabs-toolbar-new-tab =
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 

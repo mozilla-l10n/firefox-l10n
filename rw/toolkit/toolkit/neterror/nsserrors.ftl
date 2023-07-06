@@ -11,3 +11,4 @@ sec-error-crl-invalid = Iyo CRL ifite ubwoko butaribwo .
 sec-error-js-invalid-module-name = Izina ry'igice cya porogaramu siryo
 sec-error-js-add-mod-failure = Ntibishobotse kwongeraho igice cya porogaramu
 sec-error-js-del-mod-failure = Ntishobotse gusiba igice cya porogaramu
+

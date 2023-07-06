@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Ushobora kuvuga ayahe mbuga zemerewe kwinji
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

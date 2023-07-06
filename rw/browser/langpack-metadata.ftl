@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Stephen Holt
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Viateur Mugenzi, Jean Baptiste Ngendahayo, Augustin Kiberwa, Donatien Nsengiyumva

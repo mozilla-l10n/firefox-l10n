@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Abayobozi
 
-certmgr-edit-ca-cert =
-    .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
     .style = min-width: 48em;
@@ -26,10 +22,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Iki cyemezo gishobora kuranga abakoresha ubutumwa.
-
-certmgr-delete-cert =
-    .title = Gusiba Icyemezo
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Gusiba Icyemezo
