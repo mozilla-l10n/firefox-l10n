@@ -23,6 +23,17 @@ neterror-load-error-try-again = साइट अस्थायी रूपस�
 neterror-load-error-connection = जों अहाँ केकरो पृष्ठ कए लोड करबामे असमर्थ छी,  अपन कंप्यूटर सँजाल संयोजनक जाँच करू.
 neterror-load-error-firewall = जों अहाँक कंप्यूटर वा सँजाल केकरो फायरवाल वा प्राक्सीस संरक्षित अछि , सुनिश्चित करू जे { -brand-short-name } वेबक पहुँचबाक लेल अनुमति प्राप्त अछि.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = कैपिटलाइजेशन अथवा दूसरी टाइपिंग त्रुटि क लेल फाइल नाम जाँचू.
 neterror-file-not-found-moved = जाँचे ई देखब क लेल जे फाइल खिसकलया, फेर नामकरण कएल अथवा मेटायल गेल छल.
 

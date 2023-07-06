@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (निजी ब्राउज़िंग)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (निजी ब्राउज़िंग)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (निजी ब्राउज़िंग)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (निजी ब्राउज़िंग)
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -54,6 +21,7 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } प्राइवेट ब्रॉउजिंग
+
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -76,11 +44,13 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — प्राइवेट ब्रॉउजिंग
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — प्राइवेट ब्रॉउजिंग
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } प्राइवेट ब्रॉउजिंग
@@ -114,16 +84,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = वर्चुअल वास्तविकता अनुमति पैनल खोलूँ
 urlbar-storage-access-anchor =
     .tooltiptext = ब्राउज़िंग गतिविधि अनुमति पैनल खोलूँ
-urlbar-translate-notification-anchor =
-    .tooltiptext = एहि पृष्ठक अनुवाद करू
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = साइट सँग अपन विंडोज अथवा स्क्रीन साझा कएनाय प्रबंधित करू
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = ऑफलाइन संग्रह संदेश पटल खोलू
 urlbar-password-notification-anchor =
     .tooltiptext = सहेजल गुड़किल्ली संदेश पटल खोलू
-urlbar-translated-notification-anchor =
-    .tooltiptext = पृष्ठ अनुवाद प्रंबंधि‍त करू
 urlbar-plugins-notification-anchor =
     .tooltiptext = प्लग-इन उपयोग प्रबंधित करू
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -143,6 +109,7 @@ urlbar-search-tips-confirm-short = बुझाय गेल
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = सुझाव:
+
 urlbar-result-menu-button =
     .title = मेनू खोलू
 urlbar-result-menu-button-feedback = फ़ीडबैक
@@ -176,6 +143,7 @@ urlbar-search-mode-history = इतिहास
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -183,10 +151,6 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-manage-extension =
-    .label = एक्सटेंशन प्रबंधित करू …
-page-action-remove-extension =
-    .label = एक्सटेंशन हटाबू
 page-action-manage-extension2 =
     .label = एक्सटेंशन प्रबंधित करू…
     .accesskey = E
@@ -208,8 +172,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = एहि बेर, एकरा सँग ढूँढू:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग्स बदलू
+
 search-one-offs-context-open-new-tab =
     .label = नव टैब मे खोजू
     .accesskey = T
@@ -219,12 +185,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो कलेल तयशुदा खोज इंजन रूपेँ सेट करू
     .accesskey = { "" }
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -261,9 +229,11 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = एड-ऑन देखू
 quickactions-cmd-addons2 = एड-ऑन
+
 # Opens the bookmarks library window
 quickactions-bookmarks2 = पुस्तकचिहन्न प्रबंधित करू
 quickactions-cmd-bookmarks = पुस्तचिह्न
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = इतिहास मेटाबू
 quickactions-cmd-clearhistory = इतिहास मेटाबू
@@ -279,21 +249,17 @@ identity-active-blocked = { -brand-short-name } ,एहि पृष्ठ क �
 identity-passive-loaded = एहि पेज क भाग (एहि तरह क छवि रूप मे) सुरक्षित नहि अछि.
 identity-active-loaded = अहाँ ई पेज पर सुरक्षा निष्क्रिय कए देने छी.
 identity-weak-encryption = इ पृष्ठ कमजोर एन्क्रिप्शन क उपयोग करैत अछि.
+
 identity-description-insecure = एहि साइट पर अहॉंक कनेक्शन निजी नहि‍ अछि. सुचना जे अहॉं जमा करब दोसर लोग देखि‍ सकैत अछि(जेना कूट शब्द,संदेश, क्रेडिट कार्ड, इत्यादि.).
 identity-description-insecure-login-forms = ई पृष्ठ पर जे लॉगिन जानकारी अहाँ दर्ज कएने छी ओ सुरक्षित नहि अछि आओर संपीडित कएल जाए सकैछ.
 identity-description-weak-cipher-intro = एहि वेबसाइट स अहॉंक कनेक्शन कमज़ोर एन्क्रिप्शन क उपयोग करैत अछि आओर निजी नहि‍ अछि।
 identity-description-weak-cipher-risk = आन लोग अहॉंक जानकारी देखि‍ सकैत अछि आ वेबसाइट क व्यवहार ब‍दलि सकैत अछि.
-identity-description-active-blocked = { -brand-short-name } एहि पृष्ठ क कि‍छु हिस्सा कए अवरुद्ध कए देने छल जे सुरक्षित नहि‍ अछि <label data-l10n-name="link">आओर जानू</label>
 identity-description-active-blocked2 = { -brand-short-name } एहि पृष्ठ क कि‍छु हिस्सा कए अवरुद्ध कए देने छल जे सुरक्षित नहि‍ अछि
 identity-description-passive-loaded = अहाँक कनेक्शन निजी नहि अछि आओर सूचना जे अहाँ ई साइट सँग साझा करैत छी दोसर द्वारा देखल जाए सकैछ.
-identity-description-passive-loaded-insecure = इ वेबसाइट ओ साम्रगी इस्तेमाल करैत अछि जे सुरक्षि‍त नहि अछि (जेना की छवि) <label data-l10n-name="link">आओर जानू</label>
-identity-description-passive-loaded-mixed = हालांकि { -brand-short-name } ने किछु सामग्री केँ रोक देने अछि, ई पृष्ठ पर किछु एहन सामग्री अछि जे असुरक्षित अछि (जहिना कि छवि). <label data-l10n-name="link">आओर जानू</label>
 identity-description-passive-loaded-insecure2 = इ वेबसाइट ओ साम्रगी इस्तेमाल करैत अछि जे सुरक्षि‍त नहि अछि (जेना की छवि)
 identity-description-passive-loaded-mixed2 = हालांकि { -brand-short-name } ने किछु सामग्री केँ रोक देने अछि, ई पृष्ठ पर किछु एहन सामग्री अछि जे असुरक्षित अछि (जहिना कि छवि).
 identity-description-active-loaded = ई वेबसाइट ओ सामग्री केँ सम्मिलित करैत अछि जे सुरक्षित नहि अछि (जहिना कि स्क्रिप्ट) आओर कनेक्शन भी निजी नहि अछि.
 identity-description-active-loaded-insecure = सूचना जे अहाँ ई साइट सँग साझा करैत छी दोसर द्वारा भी देखल जाए सकैत अछि (जहिना कूटशब्द, संदेश, क्रेडिट कार्ड, इत्यादि.).
-identity-learn-more =
-    .value = आओर जानू
 identity-disable-mixed-content-blocking =
     .label = आब सुरक्षा निष्क्रिय करू
     .accesskey = D
@@ -337,8 +303,10 @@ popup-all-windows-shared = अहाँक स्क्रीन पर सभ �
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
+
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
+
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ
 
@@ -381,9 +349,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> आब पूर्ण पटल अछि
 fullscreen-warning-no-domain = इ दस्तावेज आब पूर्ण पटल अछि
+
+
 fullscreen-exit-button = पूर्ण पटल स बाहर आउ
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण पटल स बाहर आउ (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -406,8 +377,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = ई पुस्तकचिह्न संपादित करू
 bookmarks-toolbar-menu =
     .label = पुस्तकचिह्नित अओजारपट्टी
 bookmarks-toolbar-placeholder =
@@ -429,19 +398,23 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = कड़ी ईमेल करू
     .tooltiptext = एहि पृष्ट केँ कड़ी ईमेल करू
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ सहेजू
     .tooltiptext = पृष्ठ ({ $shortcut }) मे सहेजू
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फाइल खोलू
     .tooltiptext = एकटा फाइल खोलू ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = सिंक टैब
     .tooltiptext = आन उपकरण सँ टैब देखाबू
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -472,6 +445,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -493,20 +467,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = डाउनलोड
+
 navbar-overflow =
     .tooltiptext = बेसी अओजार…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = छापू
     .tooltiptext = ई पृष्ठ छापू… ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउजर टैब
+
 tabs-toolbar-new-tab =
     .label = नव टैब
+
 tabs-toolbar-list-all-tabs =
     .label = सभटा टैब सूचीबद्ध करू
     .tooltiptext = सभटा टैब सूचीबद्ध करू
@@ -536,6 +515,7 @@ data-reporting-notification-button =
 
 refresh-blocked-refresh-label = { -brand-short-name } ने एहि पृष्ठ केँ स्वतः लोड हए सँ रोकने अछि.
 refresh-blocked-redirect-label = { -brand-short-name } ने एहि पृष्ठ केँ दोसर पृष्ठ मे स्वतः पुनर्निर्देशित हए सँ रोकने अछि.
+
 refresh-blocked-allow =
     .label = स्वीकारू
     .accesskey = A
@@ -560,6 +540,7 @@ popup-warning-message =
         [one] { -brand-short-name } ई साइट केँ पाप अप विंडो खोलनैसे रोकनै अछि.
        *[other] { -brand-short-name } ई साइट केँ { $popupCount } पाप अप विंडो केँ खोलबासँ रोकनै अछि.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

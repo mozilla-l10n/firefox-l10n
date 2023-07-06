@@ -38,3 +38,4 @@ screenshots-private-window-error-details = असुविधा खातिर
 
 screenshots-generic-error-title = ओह! { -screenshots-brand-name }Firefox स्क्रीनशॉट खराब भ'गेल.
 screenshots-generic-error-details = अखन कथि भेल हम सुनिश्चित नहि छी. फिनु प्रयास अथवा आन पेजक भिन्न शॉट लिअ चाहैत छी?
+

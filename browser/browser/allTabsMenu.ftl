@@ -5,10 +5,13 @@
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = टैब खोजू
+
 all-tabs-menu-new-user-context =
     .label = नवीन पात्र टैब
+
 all-tabs-menu-hidden-tabs =
     .label = नुकाएल टैब
+
 all-tabs-menu-manage-user-context =
     .label = कंटेनर केँ प्रबंधित करू
     .accesskey = { "" }

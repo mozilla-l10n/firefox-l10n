@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = प्रमाणपत्र डाउनलोड कए रहल  अछि
-    .style = width: 46em
-
 download-cert-window2 =
     .title = प्रमाणपत्र डाउनलोड कए रहल  अछि
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = Important: जँ अहाँ अपन प्रमा
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = संरक्षित टोकन सत्यापन
-protected-auth-msg = कृपया टोकन मे सत्यापित करू. सत्यापन विधि अहाँक टोकन क प्रकार पर निर्भर करैत अछि .
-protected-auth-token = टोकन:
+## Protected authentication alert
+
