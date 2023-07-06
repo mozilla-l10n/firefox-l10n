@@ -14,6 +14,7 @@ xpinstall-prompt-message = Anda akan memasang pengaya dari { $host }. Pastikan A
 
 xpinstall-prompt-header-unknown = Izinkan situs yang tidak dikenal memasang pengaya?
 xpinstall-prompt-message-unknown = Anda akan memasang pengaya dari situs yang tidak dikenal. Pastikan Anda mempercayai situs ini sebelum melanjutkan.
+
 xpinstall-prompt-dont-allow =
     .label = Jangan Izinkan
     .accesskey = J
@@ -44,6 +45,7 @@ xpinstall-disabled = Pemasangan perangkat lunak sedang dinonaktifkan. Klik Aktif
 xpinstall-disabled-button =
     .label = Aktifkan
     .accesskey = f
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) diblokir oleh ad
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Administrator sistem Anda mencegah situs ini meminta Anda untuk memasang perangkat lunak di komputer Anda.
 addon-install-full-screen-blocked = Instalasi pengaya tidak diizinkan saat sebelum memasuki atau berada dalam mode layar penuh.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ditambahkan pada { -brand-short-name }
@@ -69,10 +72,12 @@ addon-removal-title = Hapus { $name }?
 addon-removal-message = Hapus { $name } dari { -brand-shorter-name }?
 addon-removal-button = Hapus
 addon-removal-abuse-report-checkbox = Laporkan ekstensi ini ke { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = Mengunduh dan memverifikasi { $addonCount } pengaya…
 addon-download-verifying = Memverifikasi
+
 addon-install-cancel-button =
     .label = Batal
     .accesskey = B

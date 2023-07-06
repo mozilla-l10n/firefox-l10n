@@ -2,15 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-containers-window-new =
-    .title = Tambahkan Kontainer Baru
-    .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update-settings =
-    .title = Pengaturan Kontainer { $name }
-    .style = width: 45em
-
 containers-window-new2 =
     .title = Tambahkan Kontainer Baru
     .style = min-width: 45em

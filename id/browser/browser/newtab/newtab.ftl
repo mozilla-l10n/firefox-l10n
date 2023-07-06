@@ -233,24 +233,14 @@ newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } adalah bagian dari keluarga { -brand-product-name }
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Simpan ke { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Disimpan di { -pocket-brand-name }
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Muat lebih banyak cerita
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
-
-newtab-pocket-last-card-title = Semua sudah terbaca!
-newtab-pocket-last-card-desc = Periksa lagi nanti untuk yang lainnya.
-newtab-pocket-last-card-image =
-    .alt = Semua sudah terbaca
 
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Simpan
 newtab-pocket-saved = Disimpan
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

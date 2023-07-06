@@ -26,10 +26,6 @@ certmgr-people = Anda memiliki sertifikat di berkas yang mengenali orang ini
 certmgr-server = Entri ini mengidentifikasi pengecualian kesalahan sertifikat server
 certmgr-ca = Anda memiliki sertifikat pada berkas yang mengidentifikasi otoritas sertifikat ini
 
-certmgr-edit-ca-cert =
-    .title = Ubah pengaturan kepercayaan sertifikat CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Ubah pengaturan kepercayaan sertifikat CA
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Sertifikat ini dapat mengidentifikasi pengguna email.
-
-certmgr-delete-cert =
-    .title = Hapus Sertifikat
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Hapus Sertifikat
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Umur
 
 certmgr-token-name =
     .label = Perangkat Keamanan

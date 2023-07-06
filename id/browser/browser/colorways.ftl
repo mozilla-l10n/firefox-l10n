@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Suara Independen
-colorway-collection-independent-voices-description = Warna bisa mengubah budaya. Ragam warna terbaru merayakan suara untuk membuat dunia tempat yang lebih baik.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Warna yang mengubah budaya.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker

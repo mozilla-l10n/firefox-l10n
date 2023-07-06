@@ -30,6 +30,7 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Sumber tidak dikenal
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Berbagi tab & perangkat
     .accesskey = p
+
 webrtc-sharing-window = Anda membagikan jendela aplikasi lain.
 webrtc-sharing-browser-window = Anda membagikan { -brand-short-name }.
 webrtc-sharing-screen = Anda membagikan seluruh layar Anda.
@@ -91,26 +93,32 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kendalikan Berbagi
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kendali Berbagi pada "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Berbagi Kamera dengan "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label = Berbagi Kamera dengan { $tabCount } tab
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Berbagi Mikrofon dengan "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label = Berbagi Mikrofon dengan { $tabCount } tab
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Berbagi Sebuah Aplikasi dengan "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label = Berbagi Sebuah Aplikasi dengan { $tabCount } tab
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Berbagi Layar dengan "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label = Berbagi Layar dengan { $tabCount } tab
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Berbagi Sebuah Jendela dengan "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label = Berbagi Sebuah Jendela dengan { $tabCount } tab
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Berbagi Tab dengan "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -139,7 +147,6 @@ webrtc-allow-share-screen-and-audio-capture = Izinkan { $origin } untuk mendenga
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk mendengarkan suara tab ini?
 webrtc-allow-share-camera-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke kamera Anda?
-webrtc-allow-share-microphone-unsafe-delegations = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda?
 webrtc-allow-share-microphone-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } ke mikrofon Anda?
 webrtc-allow-share-screen-unsafe-delegation = Izinkan { $origin } untuk memberi akses kepada { $thirdParty } untuk melihat layar Anda?
 # "Speakers" is used in a general sense that might include headphones or
@@ -154,6 +161,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Izinkan { $origi
 
 webrtc-share-screen-warning = Hanya bagikan layar dengan situs yang Anda percaya. Berbagi layar memungkinkan situs penipuan untuk menjelajah sebagai Anda dan mencuri data pribadi Anda.
 webrtc-share-browser-warning = Hanya bagikan { -brand-short-name } dengan situs yang Anda percaya. Berbagi memungkinkan situs penipuan untuk menjelajah sebagai Anda dan mencuri data pribadi Anda.
+
 webrtc-share-screen-learn-more = Pelajari Lebih Lanjut
 webrtc-pick-window-or-screen = Pilih Jendela atau Layar
 webrtc-share-entire-screen = Seluruh layar
@@ -185,6 +193,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Ingat pilihan ini
 webrtc-mute-notifications-checkbox = Bisukan notifikasi situs web ketika sedang berbagi
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } tidak bisa mengizinkan akses permanen ke layar Anda.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } tidak dapat mengizinkan akses audio tab secara permanen tanpa menanyakan tab mana yang dibagi.
 webrtc-reason-for-no-permanent-allow-insecure = Sambungan ke situs ini tidak aman. Untuk melindungi Anda, { -brand-short-name } hanya akan mengizinkan akses untuk sesi ini saja.
