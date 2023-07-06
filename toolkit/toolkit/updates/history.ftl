@@ -23,5 +23,7 @@ state-header = Stato
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detaloj
+
 update-installed-on = Instalita je: { $date }
+
 update-status = Stato: { $status }

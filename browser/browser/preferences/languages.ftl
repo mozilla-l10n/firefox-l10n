@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-webpage-languages-window =
-    .title = Lingvaj agordoj por retpaĝoj
-    .style = width: 40em
-
 webpage-languages-window2 =
     .title = Lingvaj agordoj por retpaĝoj
     .style = min-width: 40em
@@ -52,10 +48,6 @@ languages-code-format =
 
 languages-active-code-format =
     .value = { languages-code-format.label }
-
-browser-languages-window =
-    .title = Lingvaj agordoj de { -brand-short-name }
-    .style = width: 40em
 
 browser-languages-window2 =
     .title = Lingvaj agordoj de { -brand-short-name }

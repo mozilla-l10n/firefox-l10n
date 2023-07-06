@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Malpermesi la haltigadon
        *[other] Malpermesi la eliron
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Se vi malkonektiĝas nun unu elŝuto estos nuligita. Ĉu vi certe volas elekti malkonektiĝi?
        *[other] Se vi malkonektiĝas nun { $downloadsCount } elŝutoj estos nuligitaj. Ĉu vi certe volas elekti malkonektiĝi?
     }
 download-ui-dont-go-offline-button = Resti konektita
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Se vi fermas ĉiujn viajn fenestrojn de privata retumo nun, 1 elŝuto estos nuligita. Ĉu vi certe volas forlasi la privatan retumon?
        *[other] Se vi fermas ĉiujn viajn fenestrojn de privata retumo nun, { $downloadsCount } elŝutoj estos nuligita. Ĉu vi certe volas forlasi la privatan retumon?
     }
 download-ui-dont-leave-private-browsing-button = Resti en privata retumo
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Nuligi unu elŝuton

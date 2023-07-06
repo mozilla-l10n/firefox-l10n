@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-videocontrols-scrubber =
-    .aria-label = Pozicio
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -12,6 +10,7 @@ videocontrols-volume-control =
     .aria-label = Laŭteco
 videocontrols-closed-caption-button =
     .aria-label = Subtekstoj
+
 videocontrols-play-button =
     .aria-label = Ludi
 videocontrols-pause-button =
@@ -28,20 +27,17 @@ videocontrols-casting-button-label =
     .aria-label = Sendi al ekrano
 videocontrols-closed-caption-off =
     .offlabel = Malŝaltita
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Bildo en bildo
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = Vidi inkrustite
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Montri filmetojn en la unua plano, dum vi faras aliajn aferojn en { -brand-short-name }
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Elstarigi tiun ĉi filmeton
+
 videocontrols-picture-in-picture-explainer3 = Estas pli amuze per pli da ekranoj. Ludu tiun ĉi filmeton dum vi faras aliajn aferojn.
+
 videocontrols-error-aborted = Ŝargado de video haltigita.
 videocontrols-error-network = Ludado de video abortita pro eraro en la reto.
 videocontrols-error-decode = Ne eblas ludi la videon ĉar la dosiero estas difektita.
@@ -49,6 +45,7 @@ videocontrols-error-src-not-supported = La formo aŭ tipo MIME de la video ne es
 videocontrols-error-no-source = Neniu video kun subtenata formo kaj tipo MIME estis trovita.
 videocontrols-error-generic = Ludado de video abortita pro nekonata eraro.
 videocontrols-status-picture-in-picture = Tiu ĉi filmeto estas ludata en reĝimo bildo en bildo.
+
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -62,6 +59,7 @@ videocontrols-status-picture-in-picture = Tiu ĉi filmeto estas ludata en reĝim
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

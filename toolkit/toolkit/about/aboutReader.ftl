@@ -4,6 +4,7 @@
 
 about-reader-loading = Ŝargado…
 about-reader-load-error = Ne eblis ŝargi artikolon el paĝo
+
 about-reader-color-scheme-light = Hela
     .title = Hela koloraro
 about-reader-color-scheme-dark = Malhela
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sepia koloraro
 about-reader-color-scheme-auto = Aŭtomata
     .title = Aŭtomata koloraro
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

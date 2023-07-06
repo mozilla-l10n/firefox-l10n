@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Serĉi
 config-new-pref-name =
     .placeholder = Nomo
+
 config-new-pref-value-boolean = Logika
 config-new-pref-value-string = Teksto
 config-new-pref-value-integer = Numero
+
 config-new-pref-string =
     .placeholder = Tajpu tekston
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Nuligi
 config-new-pref-create-button = Krei
 config-new-pref-change-button = Ŝanĝi
+
 config-pref-toggle-button = Baskuli
 config-pref-reset-button = Rekomenci
+
 config-context-menu-copy-pref-name =
     .label = Kopii nomon
 config-context-menu-copy-pref-value =

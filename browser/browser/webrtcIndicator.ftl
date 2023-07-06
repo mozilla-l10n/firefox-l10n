@@ -30,6 +30,7 @@ webrtc-item-browser = langeto
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = nekonata origino
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Langetoj kiuj dividas aparatojn
     .accesskey = d
+
 webrtc-sharing-window = Vi dividas fenestroj de alia programo.
 webrtc-sharing-browser-window = Vi dividas { -brand-short-name }.
 webrtc-sharing-screen = Vi dividas vian tutan ekranon.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Agordi dividon
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Agordi dividon por "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Filmilo dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Filmilo dividata kun unu langeto
            *[other] Filmilo dividata kun { $tabCount } langetoj
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofono dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofono dividata kun unu langeto
            *[other] Mikrofono dividata kun { $tabCount } langetoj
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Programo dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Programo dividata kun { $tabCount } langeto
            *[other] Programoj dividataj kun { $tabCount } langetoj
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekrano dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ekrano dividata kun unu langeto
            *[other] Ekrano dividata kun { $tabCount } langetoj
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Fenestro dividata kun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Fenestro dividata kun unu langeto
            *[other] Fenestro dividata kun { $tabCount } langetoj
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Langeto dividata kun "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -177,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Ĉu permesi al {
 
 webrtc-share-screen-warning = Nur dividu ekranojn kun retejoj, kiujn vi fidas. Divido de ekrano povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
 webrtc-share-browser-warning = Nur dividu { -brand-short-name } kun retejoj, kiujn vi fidas. Divido povas permesi al trompaj retejoj retumi nome via kaj ŝteli viajn privatajn datumojn.
+
 webrtc-share-screen-learn-more = Pli da informo
 webrtc-pick-window-or-screen = Elektu fenestron aŭ ekranon
 webrtc-share-entire-screen = Tuta ekrano
@@ -212,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Memori tiun ĉi decidon
 webrtc-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne povas permesi konstantan aliron al via ekrano.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne povas permesi konstantan aliron al la sono de via langeto sen demandi, kiu langeto.
 webrtc-reason-for-no-permanent-allow-insecure = Via konekto al tiu ĉir retejo ne estas sekura. Por protekti vin, { -brand-short-name } nur permesos aliron dum tiu ĉi seanco.

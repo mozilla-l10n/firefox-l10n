@@ -12,19 +12,26 @@ cfr-doorhanger-feature-heading = Rekomendata trajto
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kial mi vidas tion ĉi?
+
 cfr-doorhanger-extension-cancel-button = Poste
     .accesskey = P
+
 cfr-doorhanger-extension-ok-button = Aldoni nun
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Administri agordojn de rekomendoj
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Ne montri al mi tiun ĉi rekomendon
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Pli da informo
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = de { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomendo
@@ -32,6 +39,7 @@ cfr-doorhanger-extension-notification = Rekomendo
 cfr-doorhanger-extension-notification2 = Rekomendo
     .tooltiptext = Rekomendo pri etendaĵo
     .a11y-announcement = Havebla rekomendo pri etendaĵo
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Pli da informo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova trajto:
+
 cfr-whatsnew-button =
     .label = Novaĵoj
     .tooltiptext = Novaĵoj
+
 cfr-whatsnew-release-notes-link-text = Legi la notojn pri liverado
 
 ## Enhanced Tracking Protection Milestones
@@ -109,13 +119,6 @@ cfr-doorhanger-doh-secondary-button = Malaktivigi
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Via privateco gravas. { -brand-short-name } nun izolas retejejojn tiel ke ili ne povas komuniki inter si. Tio igas pli malfacila la taskon ŝteli pasvortojn, kreditkartajn numerojn, kaj aliajn informojn.
-cfr-doorhanger-fission-header = Izolado de retejoj
-cfr-doorhanger-fission-primary-button = En ordo, mi komprenis
-    .accesskey = E
-cfr-doorhanger-fission-secondary-button = Pli da informo
-    .accesskey = P
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Filmetoj en tiu ĉi retejo povus ne bone videbli en tiu ĉi versio de { -brand-short-name }. Por havi tutampleksan videan subtenon, ĝisdatigu { -brand-short-name } nun.
@@ -124,11 +127,6 @@ cfr-doorhanger-video-support-primary-button = Ĝisdatigi nun
     .accesskey = n
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Pli da informo
-    .title = Malfaldi por lerni pli pri la funkcio
-spotlight-learn-more-expanded = Pli da informo
-    .title = Fermi
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -145,16 +143,6 @@ spotlight-public-wifi-vpn-link = Ne nun
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = Estu inter la unuaj kiuj testas la ĝisnune plej povan sperton pri privateco
-spotlight-total-cookie-protection-body = La totala protekto kontraŭ kuketoj evitas ke spuriloj sekvu vin tra la reto.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } konstruas barilon ĉirkaŭ kuketojn, limigante ilin al la retejo kie ili estas tiel ke spuriloj ne povas uzi ilin por sekvi vin. Per frua aliro al tiu funkcio, vi helpos nin plibonigi ĝin kaj plu konstrui pli bonan teksaĵon por ĉiuj.
-spotlight-total-cookie-protection-primary-button = Ŝalti totalan protekton kontraŭ kuketoj
-spotlight-total-cookie-protection-secondary-button = Nun ne
 
 ## Emotive Continuous Onboarding
 
@@ -184,11 +172,13 @@ spotlight-pin-secondary-button = Ne nun
 
 mr2022-background-update-toast-title = Nova { -brand-short-name }. Pli privata. Malpli da spuriloj. Sen kompromisoj.
 mr2022-background-update-toast-text = Provu nun la lastan { -brand-short-name }, plibonigita de nia ĝisnune plej forta kontraŭ spurila protekto.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Malfermi nun { -brand-shorter-name }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -207,6 +197,7 @@ firefoxview-cfr-body-v2 = Per { -firefoxview-brand-name } reprenu ĵuse fermitaj
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ni prezentas { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Ĉu vi volas havi tiun malfermitan langeton en via telefono? Ĝi estas ĉemane. Ĉu vi bezonas retejon, kiun vi ĵus vizitis? Jen! ĝi estas tie denove per { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Vidi kiel tio ĉi funkcias
@@ -216,6 +207,7 @@ firefoxview-spotlight-promo-secondarybutton = Ignori
 
 colorways-cfr-primarybutton = Elekti koloraron
     .accesskey = E
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Kolorigu vian retumilon per ekskluzivaj tonoj de { -brand-short-name }, inspiritaj de voĉoj kiuj ŝanĝis kulturojn.
 colorways-cfr-header-28days = La koloraroj de sendependaj voĉoj senvalidiĝos la 16-an de januaro
@@ -238,6 +230,7 @@ july-jam-headline = Ni protektas vin
 july-jam-body = Ĉiumonate { -brand-short-name } blokas mezume po 3,000+ spurilojn por ĉiu uzanto, proponante al vi sekuran kaj rapidan aliron al la bona interreto.
 july-jam-set-default-primary = Malfermi miajn ligilojn per { -brand-short-name }
 fox-doodle-pin-headline = Bonvenon denove
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Jen rapida memorigo, pri tio ke vi povas havi vian preferatan sendependan retumilon atingebla je unu alklako.

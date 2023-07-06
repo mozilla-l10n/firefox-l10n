@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Privata retumo)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Privata retumo)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Privata retumo)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Privata retumo)
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -54,6 +21,7 @@ browser-main-window-window-titles =
     .data-title-private = Privata retumo de { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Privata retumo de { -brand-full-name }
+
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -76,11 +44,13 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Privata retumo
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Privata retumo
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Privata retumo de { -brand-shortcut-name }
@@ -114,16 +84,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Malfermi panelon de permesoj por virtuala realo
 urlbar-storage-access-anchor =
     .tooltiptext = Malfermi panelon de permesoj de retumo
-urlbar-translate-notification-anchor =
-    .tooltiptext = Traduki tiun ĉi paĝon
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Administri dividon de viaj fenestroj aŭ ekrano kun la retejo
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Malfermi panelon de konservejo por malkonektitaĵoj
 urlbar-password-notification-anchor =
     .tooltiptext = Malfermi panelon de konservo de pasvortoj
-urlbar-translated-notification-anchor =
-    .tooltiptext = Administri tradukadon de paĝo
 urlbar-plugins-notification-anchor =
     .tooltiptext = Administri uzon de kromprogramoj
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -147,6 +113,7 @@ urlbar-search-tips-confirm-short = Mi komprenis
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Konsileto:
+
 urlbar-result-menu-button =
     .title = Malfermi menuon
 urlbar-result-menu-button-feedback = Komentoj
@@ -168,8 +135,10 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Tajpu malpli, trovi pli: serĉi per { $engineName } rekte el via adresa strio.
 urlbar-search-tips-redirect-2 = Komencu vian serĉon en la adresa strio por vidi sugestojn el { $engineName } kaj el via retuma historio.
+
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Iĝis pli simple serĉi. Klopodu igi vian serĉon pli specifa ĉi tie, en la adresa strio. Por anstataŭe montri retadresojn, iru al agordoj kaj poste al Serĉo.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Elektu tiun ĉi ŝparvojon por pli rapide trovi kion vi bezonas.
@@ -207,10 +176,12 @@ urlbar-midi-blocked =
     .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redakti tiun ĉi legosignon ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -218,10 +189,6 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-manage-extension =
-    .label = Administri etendaĵon…
-page-action-remove-extension =
-    .label = Forigi etendaĵon
 page-action-manage-extension2 =
     .label = Administri etendaĵon…
     .accesskey = A
@@ -243,8 +210,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ĉi foje serĉi per:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ŝanĝi agordojn de serĉo
+
 search-one-offs-context-open-new-tab =
     .label = Serĉi en nova langeto
     .accesskey = l
@@ -254,12 +223,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Igi ĝin la norma serĉilo en privataj fenestroj
     .accesskey = n
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -296,54 +267,71 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vidi aldonaĵojn
 quickactions-cmd-addons2 = aldonaĵoj
+
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Administri legosignojn
 quickactions-cmd-bookmarks = legosignojn
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Viŝi historion
 quickactions-cmd-clearhistory = viŝi historion
+
 # Opens about:downloads page
 quickactions-downloads2 = Montri elŝutojn
 quickactions-cmd-downloads = elŝutojn
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Administri etendaĵojn
 quickactions-cmd-extensions = etendaĵoj
+
 # Opens the devtools web inspector
 quickactions-inspector2 = Malfermi la ilojn por programistoj
 quickactions-cmd-inspector = inspektilo, iloj por programistoj
+
 # Opens about:logins
 quickactions-logins2 = Administri pasvortojn
 quickactions-cmd-logins = legitimiloj, pasvortoj
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = Administri kromprogramojn
 quickactions-cmd-plugins = kromprogramoj
+
 # Opens the print dialog
 quickactions-print2 = Presi paĝon
 quickactions-cmd-print = presi
+
 # Opens a new private browsing window
 quickactions-private2 = Malfermi privatan fenestron
 quickactions-cmd-private = privata retumo
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Refreŝigi { -brand-short-name }
 quickactions-cmd-refresh = aktualigi
+
 # Restarts the browser
 quickactions-restart = Restartigi { -brand-short-name }
 quickactions-cmd-restart = restartigi
+
 # Opens the screenshot tool
 quickactions-screenshot3 = Fari ekrankopion
 quickactions-cmd-screenshot = ekrankopio
+
 # Opens about:preferences
 quickactions-settings2 = Administri agordojn
 quickactions-cmd-settings = agordoj, preferoj, elektebloj
+
 # Opens about:addons page in the themes section
 quickactions-themes = Administri etosojn
 quickactions-cmd-themes = etosojn
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Ĝisdatigi { -brand-short-name }
 quickactions-cmd-update = ĝisdatigi
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vidi fonton de paĝo
 quickactions-cmd-viewsource = vidi fonton, fonton
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Pli da informo pri rapidaj agoj
@@ -369,6 +357,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = M
 bookmark-panel-save-button =
     .label = Konservi
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -396,6 +385,7 @@ identity-passive-loaded = Partoj de tiu ĉi paĝo ne estas sekuraj (bildoj, ekze
 identity-active-loaded = Mi malaktivigis protekton en tiu ĉi paĝo.
 identity-weak-encryption = Tiu ĉi paĝo uzas malfortan ĉifradon.
 identity-insecure-login-forms = Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.
+
 identity-https-only-connection-upgraded = (ŝanĝita al HTTPS)
 identity-https-only-label = HTTPS-nura reĝimo
 identity-https-only-dropdown-on =
@@ -407,16 +397,17 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Ŝaltu la HTTPS-nuran reĝimon por tiu ĉi retejo se vi volas ke { -brand-short-name } ŝanĝu la konekton, se tio eblas.
 identity-https-only-info-turn-off2 = Se la paĝo ne bone funkcias, vi povas malŝalti la HTTPS-nuran reĝimon por tiu ĉi retejo, por reŝargi ĝin per nesekura HTTP.
 identity-https-only-info-no-upgrade = Ne eblas ŝanĝi la konekton HTTP.
+
 identity-permissions-storage-access-header = Interretejaj kuketoj
 identity-permissions-storage-access-hint = Tiuj ĉi aliaj partoprenantoj povas uzi interretejajn kuketojn kaj retejajn datumojn dum vi estas en tiu ĉi retejo,
 identity-permissions-storage-access-learn-more = Pli da informo
+
 identity-permissions-reload-hint = Vi eble bezonos reŝargi la paĝon por ke la ŝanĝoj estu aplikitaj.
 identity-clear-site-data =
     .label = Viŝi kuketojn kaj retejajn datumojn…
 identity-connection-not-secure-security-view = Vi ne estas sekure konektita al tiu ĉi retejo.
 identity-connection-verified = Vi estas sekure konektita al tiu ĉi retejo.
 identity-ev-owner-label = Atestilo eldonita por:
-identity-description-custom-root = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto. <label data-l10n-name="link">Pli da informo</label>
 identity-description-custom-root2 = Mozilla ne rekonas tiun ĉi eldoninton de atestiloj. Ĝi eble estis aldonita de via mastruma sistemo aŭ de administranto.
 identity-remove-cert-exception =
     .label = Forigi escepton
@@ -425,17 +416,12 @@ identity-description-insecure = Via konekto al tiu ĉi retejo ne estas privata. 
 identity-description-insecure-login-forms = La akreditiloj, kiujn vi tajpas en tiu ĉi paĝo, ne estas sekuraj kaj povus esti minacataj.
 identity-description-weak-cipher-intro = Via konekto al tiu ĉi retejo uzas malfortan ĉifradon kaj ne estas privata.
 identity-description-weak-cipher-risk = Aliaj personoj povus vidi viajn datumojn aŭ modifi la konduton de la retejo.
-identity-description-active-blocked = { -brand-short-name } blokis partojn de tiu paĝo, kiuj ne estas sekuraj. <label data-l10n-name="link">Pli da informo</label>
 identity-description-active-blocked2 = { -brand-short-name } blokis partojn de tiu paĝo, kiuj ne estas sekuraj.
 identity-description-passive-loaded = Via konekto ne estas privata kaj la datumoj, kiujn vi dividas kun la retejo, povus esti viditaj de aliaj.
-identity-description-passive-loaded-insecure = Tiu ĉi retejo enhavas nesekurajn elementojn (bildoj, ekzemple). <label data-l10n-name="link">Pli da informo</label>
-identity-description-passive-loaded-mixed = Kvankam { -brand-short-name } blokis iom de la enhavo, ankoraŭ estas nesekuraj elementoj en la paĝo (bildoj, ekzemple). <label data-l10n-name="link">Pli da informo</label>
 identity-description-passive-loaded-insecure2 = Tiu ĉi retejo enhavas nesekurajn elementojn (bildoj, ekzemple).
 identity-description-passive-loaded-mixed2 = Kvankam { -brand-short-name } blokis iom de la enhavo, ankoraŭ estas nesekuraj elementoj en la paĝo (bildoj, ekzemple).
 identity-description-active-loaded = Tiu ĉi retejo enhavas nesekurajn elementojn (skriptojn, ekzemple) kaj via konekto al ĝi ne estas privata.
 identity-description-active-loaded-insecure = Datumoj, kiujn vi dividas kun tiu ĉi retejo, povus esti viditaj de aliaj (ekzemple pasvortoj, mesaĝoj, kreditkartoj, ktp.
-identity-learn-more =
-    .value = Pli da informo
 identity-disable-mixed-content-blocking =
     .label = Momente malaktivigi la protekton
     .accesskey = M
@@ -476,11 +462,13 @@ browser-tab-mute =
         [1] SILENTIGI LANGETON
        *[other] SILENTIGI { $count } LANGETOJN
     }
+
 browser-tab-unmute =
     { $count ->
         [1] MALSILENTIGI LANGETON
        *[other] MALSILENTIGI { $count } LANGETOJN
     }
+
 browser-tab-unblock =
     { $count ->
         [1] LUDI LANGETON
@@ -492,6 +480,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Enporti legosignojn…
     .tooltiptext = Enporti legosignojn de alia retumilo en { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Por rapida aliro, metu viajn legosignojn ĉi tien, en la strion de legosignoj. <a data-l10n-name="manage-bookmarks">Administri legosignojn…</a>
 
 ## WebRTC Pop-up notifications
@@ -512,13 +501,6 @@ popup-select-window-or-screen =
     .label = Fenestro aŭ ekrano:
     .accesskey = F
 popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
-popup-screen-sharing-block =
-    .label = Bloki
-    .accesskey = B
-popup-screen-sharing-always-block =
-    .label = Ĉiam bloki
-    .accesskey = i
-popup-mute-notifications-checkbox = Malaktivigi retejejan sciigojn dum divido
 
 ## WebRTC window or screen share tab switch warning
 
@@ -531,7 +513,6 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Por uzi la ŝparvojon F12, unue malfermu la ilojn por programistoj el la menuo Teksaĵa programisto.
 enable-devtools-popup-description2 = Por uzi la ŝparvojon F12, unue malfermu la ilojn por programistoj el la menuo Teksaĵa programisto.
 
 ## URL Bar
@@ -540,6 +521,7 @@ enable-devtools-popup-description2 = Por uzi la ŝparvojon F12, unue malfermu la
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -548,6 +530,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Serĉi en la teksaĵo
     .aria-label = Serĉi per { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -556,26 +539,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi legosignojn
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi historion
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉi langetojn
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Tajpu serĉan tekston
     .aria-label = Serĉaj agoj
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Serĉi per { $name } aŭ tajpi adreson
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -585,9 +574,11 @@ urlbar-permissions-granted =
     .tooltiptext = Vi aldonis permesojn al tiu ĉi retejo.
 urlbar-switch-to-tab =
     .value = Iri al langeto:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Etendaĵo:
+
 urlbar-go-button =
     .tooltiptext = Iri al la adreso en la retadresa strio
 urlbar-page-action-button =
@@ -655,12 +646,14 @@ urlbar-result-action-search-actions = Serĉaj agoj
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Sugestoj de { $engine }
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Rapidaj agoj
@@ -680,8 +673,10 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Malfermi inkrustitan videon ({ $shortcut })
+
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Fermi inkrustitan videon ({ $shortcut })
+
 picture-in-picture-panel-header = Inkrustita video
 picture-in-picture-panel-headline = Tiu ĉi retejo ne rekomendas inkrustitan videon
 picture-in-picture-panel-body = Videaĵoj povus aperi ne tiel, kiel la programisto celis, se inkrustita video estas aktiva.
@@ -695,9 +690,12 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> videblas nun plenekrane
 fullscreen-warning-no-domain = Tiu ĉi dokumento videbas nun plenekrane
+
+
 fullscreen-exit-button = Eliri el plenekrana reĝimo (Esk)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Eliri el plenekrana reĝimo (esk)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -705,17 +703,6 @@ pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> re
 pointerlock-warning-no-domain = Tiu ĉi dokumento regas vian musmontrilon. Premu Esk por repreni la regadon.
 
 ## Subframe crash notification
-
-crashed-subframe-message = <strong>Parto de tiu ĉi paĝo paneis.</strong> Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
-# The string for crashed-subframe-title.title should match crashed-subframe-message,
-# but without any markup.
-crashed-subframe-title =
-    .title = Parto de tiu ĉi paĝo paneis. Por permesi al { -brand-product-name } scii pri tiu ĉi problemo kaj havi pli rapidan solvon, bonvolu sendi raporton.
-crashed-subframe-learnmore-link =
-    .value = Pli da informo
-crashed-subframe-submit =
-    .label = Sendi raporton
-    .accesskey = S
 
 ## Bookmarks panels, menus and toolbar
 
@@ -768,10 +755,9 @@ bookmarks-search =
     .label = Serĉi legosignojn
 bookmarks-tools =
     .label = Iloj por legosignoj
-bookmarks-bookmark-edit-panel =
-    .label = Redakti tiun ĉi legosignon
 bookmarks-subview-edit-bookmark =
     .label = Modifi tiun ĉi legosignon…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -785,9 +771,7 @@ bookmarks-toolbar-placeholder =
     .title = Elementoj de ilaro de legosignoj
 bookmarks-toolbar-placeholder-button =
     .label = Elementoj de ilaro de legosignoj
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Aldoni legosignon por la nuna langeto
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Aldoni nunan langeton al legosignoj…
@@ -814,11 +798,6 @@ repair-text-encoding-button =
 ## Customize Toolbar Buttons
 
 # Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Aldonaĵoj kaj etosoj
-    .tooltiptext = Administri viajn aldonaĵojn kaj etosojn ({ $shortcut })
-# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Agordoj
@@ -827,28 +806,35 @@ toolbar-settings-button =
             [macos] Malfermi agordojn ({ $shortcut })
            *[other] Malfermi agordojn
         }
+
 toolbar-overflow-customize-button =
     .label = Personecigi ilaron…
     .accesskey = P
+
 toolbar-button-email-link =
     .label = Sendi ligilon retpoŝte
     .tooltiptext = Retpoŝte sendi ligilon al tiu ĉi paĝo
+
 toolbar-button-logins =
     .label = Pasvortoj
     .tooltiptext = Vidi kaj administri viajn konservitajn pasvortojn
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Konservi paĝon
     .tooltiptext = Konservi tiun ĉi paĝon ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Malfermi dosieron
     .tooltiptext = Malfermi dosieron ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Spegulitaj langetoj
     .tooltiptext = Montri langetojn el aliaj aparatoj
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -870,11 +856,6 @@ panel-save-update-password = Pasvorto
 
 ## Add-on removal warning
 
-# Variables:
-#  $name (String): The name of the addon that will be removed.
-addon-removal-title = Ĉu forigi { $name }?
-addon-removal-abuse-report-checkbox = Denunci tiun ĉi etendaĵon al { -vendor-short-name }
-
 ##
 
 # "More" item in macOS share menu
@@ -889,6 +870,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permesi ŝprucfenestrojn por { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Bloki ŝprucfenestrojn por { $uriHost }
     .accesskey = p
@@ -898,9 +880,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne montri ĉiun ĉi mesaĝon kiam ŝprucfenestroj estas blokataj
     .accesskey = N
+
 edit-popup-settings =
     .label = Administri agordojn de ŝprucaĵoj
     .accesskey = A
+
 picture-in-picture-hide-toggle =
     .label = Kaŝi butonon de bildo en bildo
     .accesskey = K
@@ -911,6 +895,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Movi la butonon de inkrustita video al la dekstra flanko
     .accesskey = d
+
 picture-in-picture-move-toggle-left =
     .label = Movi la butonon de inkrustita video al la maldekstra flanko
     .accesskey = m
@@ -925,32 +910,39 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Esplorado
+
 navbar-downloads =
     .label = Elŝutoj
+
 navbar-overflow =
     .tooltiptext = Pli da iloj…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Presi
     .tooltiptext = Presi tiun ĉi paĝon… ({ $shortcut })
+
 navbar-home =
     .label = Eka paĝo
     .tooltiptext = Eka paĝo de { -brand-short-name }
+
 navbar-library =
     .label = Biblioteko
     .tooltiptext = Vidi historion, konservitajn legosignojn kaj pli
+
 navbar-search =
     .title = Serĉi
-navbar-accessibility-indicator =
-    .tooltiptext = Alireblecaj trajtoj aktivaj
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Langetoj de retumilo
+
 tabs-toolbar-new-tab =
     .label = Nova langeto
+
 tabs-toolbar-list-all-tabs =
     .label = Listigi ĉiujn langetojn
     .tooltiptext = Listigi ĉiujn langetojn
@@ -967,6 +959,7 @@ data-reporting-notification-message = { -brand-short-name } aŭtomate sendas kel
 data-reporting-notification-button =
     .label = Elektu kion mi dividas
     .accesskey = E
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privata retumo
 
@@ -998,25 +991,21 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate reŝargiĝu.
 refresh-blocked-redirect-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate redirektiĝis al alia paĝo.
+
 refresh-blocked-allow =
     .label = Permesi
     .accesskey = P
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-relay = { -relay-brand-name } maskas vian veran retpoŝtan adreson por helpi vin esti protektita kontraŭ datumfuĝoj kaj trudmesaĝoj.
-firefox-relay-offer-how-we-integrate = Se vi daŭrigas, vi povos krei novajn retpoŝtajn maskojn de { -relay-brand-short-name } rekte el la pasvorta administrilo de { -brand-shorter-name }.
-# Variables:
-#  $sitename (String): name of the site where user enters their Relay mask
-#  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-does = Ni plusendos ĉiujn retpoŝtajn mesaĝojn el <strong>{ $sitename }</strong> al <strong>{ $useremail }</strong>.
-
 ## Popup Notification
 
 firefox-relay-offer-why-to-use-relay = Niaj sekuraj kaj facile uzeblaj maskoj protektas vian identecon kaj evitas trudmesaĝojn per kaŝo de via retpoŝta adreso.
+
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Ĉiuj retpoŝtaj mesaĝoj senditaj al viaj retpoŝtaj maskoj estos plusenditaj al <strong>{ $useremail }</strong> (krom se vi decidas ilin bloki).
+
 firefox-relay-offer-legal-notice = Se vi alklakas "Uzi retpoŝtan maskon" vi akceptas la <label data-l10n-name="tos-url">kondiĉojn de uzo</label> kaj <label data-l10n-name="privacy-url">rimarkon pri privateco</label>.
 
 ## Add-on Pop-up Notifications
@@ -1049,6 +1038,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

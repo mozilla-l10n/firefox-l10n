@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Ludado de aŭvidaĵoj
 about-logging-preset-media-playback-description = Registraj moduloj por diagnozi problemojn kun ludado de aŭdvidaĵoj (ne por videkonferencaj problemoj)
 about-logging-preset-custom-label = Personecigita
 about-logging-preset-custom-description = Permane elekitaj registraj moduloj
+
 # Error handling
 about-logging-error = Eraro:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Nekonata antaŭdifinita agordo de rulana
 about-logging-unknown-option = Nekonata elekteblo de about:logging “{ $k }“
 about-logging-configuration-url-ignored = Ignorita agorda URL
 about-logging-file-and-profiler-override = Ne eblas registri en dosiero kaj samtempe superregi la elekteblojn de la rulanalizilo
+
 about-logging-configured-via-url = Elekteblo agordita per URL

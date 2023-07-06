@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Vi devas komenci seancon en { -fxaccount-brand
 firefox-relay-get-unlimited-masks =
     .label = Administri retpoŝtajn maskojn
     .accesskey = A
-firefox-relay-opt-in-title = Protektu vian retpoŝtan adreson
-firefox-relay-opt-in-subtitle = Aldoni { -relay-brand-name }
-firefox-relay-generate-mask-title = Protektu vian retpoŝtan adreson
-firefox-relay-generate-mask-subtitle = Krei repoŝtan maskon de { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Daŭrigi
-    .accesskey = D
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protektu vian retpoŝtan adreson:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

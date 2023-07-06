@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Sendependaj voĉoj
-colorway-collection-independent-voices-description = Koloroj povas ŝanĝi kulturon. La lastaj koloraroj celebras voĉojn, kiuj igas la mondon pli bona ejo.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Koloroj, kiuj ŝanĝas kulturon.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Iniciatanto
