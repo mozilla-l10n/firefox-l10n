@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Importēšanas vednis
+
 import-from =
     { PLATFORM() ->
         [windows] Importēt iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
        *[other] Importēt iestatījumus, grāmatzīmes, vēsturi, paroles un citus datus no:
     }
+
 import-from-bookmarks = Importēt grāmatzīmes no:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -43,20 +45,32 @@ import-from-firefox =
 import-from-360se =
     .label = 360 Drošs pārlūks
     .accesskey = 3
+
 no-migration-sources = Nav atrasta neviena programma, no kuras importēt grāmatzīmes, vēsturi vai paroļu informāciju.
+
 import-source-page-title = Importēt iestatījumus un datus
 import-items-page-title = Importējamie elementi
+
 import-items-description = Izvēlieties importējamos elementus:
+
 import-migrating-page-title = Notiek importēšana...
+
 import-migrating-description = Tiek importēti izvēlētie elementi...
+
 import-select-profile-page-title = Izvēlieties profilu
+
 import-select-profile-description = Datus var importēt no šiem profiliem:
+
 import-done-page-title = Importēšana ir pabeigta
+
 import-done-description = Tika sekmīgi importēti:
+
 import-close-source-browser = Lūdzu pārliecinieties ka izvēlētais pārlūks ir aizvērts pirms turpināt.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Lasāmo lietu saraksts (No Safari)
 imported-edge-reading-list = Lasāmo lietu saraksts (No Edge)
 
@@ -82,7 +96,9 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Saglabātie lietotājvārdi un paroles
+
 browser-data-session-checkbox =
     .label = Logus un cilnes
 browser-data-session-label =
     .value = Logus un cilnes
+

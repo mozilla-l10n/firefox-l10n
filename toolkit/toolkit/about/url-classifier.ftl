@@ -40,5 +40,9 @@ url-classifier-disabled = Izslēgts
 url-classifier-updating = atjaunina
 url-classifier-cannot-update = nevar atjaunināt
 url-classifier-success = izdevās
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = atjaunināšanas kļūda ({ $error })
 url-classifier-download-error = lejupielādes kļūda ({ $error })

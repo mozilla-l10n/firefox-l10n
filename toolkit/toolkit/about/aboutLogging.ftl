@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Pašreizējais reģistrācijas fails:
-about-logging-current-log-modules = Pašreizējais reģistrācijas modulis:
 about-logging-log-tutorial = Apskatiet <a data-l10n-name="logging">HTTP reģistrēšana</a>, lai iegūtu papildu informāciju, kā lietot šo rīku.
 about-logging-set-log-file = Iestatīt reģistrēšanas failu
 about-logging-set-log-modules = Iestatīt reģistrēšanas moduli
 about-logging-start-logging = Sākt reģistrēšanu
 about-logging-stop-logging = Pārtraukt reģistrēšanu
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

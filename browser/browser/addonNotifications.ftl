@@ -24,6 +24,7 @@ xpinstall-disabled = Programmatūras instalēšana ir deaktivēta. Klikšķiniet
 xpinstall-disabled-button =
     .label = Aktivēt
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } pievienots { -brand-short-name }
@@ -37,6 +38,7 @@ webext-perms-update-menu-item = { $addonName } ir nepieciešamas jaunas tiesība
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Aizvākt { $name } no { -brand-shorter-name }?
 addon-removal-button = Aizvākt
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -46,6 +48,7 @@ addon-downloading-and-verifying =
        *[other] Lejupielādē un pārbauda { $addonCount } atjauninājumus…
     }
 addon-download-verifying = Pārbauda
+
 addon-install-cancel-button =
     .label = Atcelt
     .accesskey = c

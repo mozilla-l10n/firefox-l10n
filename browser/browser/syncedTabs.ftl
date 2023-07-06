@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Atvērt
     .accesskey = A
-synced-tabs-context-open-in-new-tab =
-    .label = Atvērt jaunā cilnē
-    .accesskey = u
-synced-tabs-context-open-in-new-window =
-    .label = Atvērt saiti jaunā logā
-    .accesskey = l
-synced-tabs-context-open-in-new-private-window =
-    .label = Atvērt saiti jaunā privātajā logā
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Saglabāt šo lapu grāmatzīmēs…
-    .accesskey = b
 
 ##
 

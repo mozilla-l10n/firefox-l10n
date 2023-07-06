@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC iekšas
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = saglabāt about:webrtc kā
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC žurnalēšana
 about-webrtc-aec-logging-off-state-label = Sākt AEC žurnalēšanu
 about-webrtc-aec-logging-on-state-label = Pārtraukt AEC žurnalēšanu
 about-webrtc-aec-logging-on-state-msg = AEC žurnalēšana aktīva (runājiet ar zvanītāju dažas minūtes un tad apturiet žurnalēšanu)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC žurnalēšana aktīva (runājiet ar zvanītāju dažas minūtes un tad apturiet žurnalēšanu)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Apkopotie žurnalēšanas faili pieejami: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -75,10 +78,12 @@ about-webrtc-type-remote = Attālinātais
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominēts
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Izvēlēts
+
 about-webrtc-save-page-label = Saglabāt lapu
 about-webrtc-debug-mode-msg-label = Atkļūdošanas režīms
 about-webrtc-debug-mode-off-state-label = Sākt atkļūdošanas režīmu
@@ -91,6 +96,7 @@ about-webrtc-log-show-msg = parādīt žurnālu
     .title = klikšķiniet, lai izvērstu šo daļu
 about-webrtc-log-hide-msg = paslēpt žurnālu
     .title = klikšķiniet, lai sakļautu šo daļu
+
 about-webrtc-log-section-show-msg = Parādīt žurnālu
     .title = Klikšķiniet, lai izvērstu šo daļu
 about-webrtc-log-section-hide-msg = Paslēpt žurnālu
@@ -157,6 +163,7 @@ about-webrtc-save-page-msg = lapa saglabāta: { $path }
 about-webrtc-debug-mode-off-state-msg = atkļūdošanas žurnāls pieejams: { $path }
 about-webrtc-debug-mode-on-state-msg = atkļūdošanas režīms aktīvs, žurnāls pieejams: { $path }
 about-webrtc-aec-logging-off-state-msg = apkopotie žurnalēšanas faili pieejami: { $path }
+
 about-webrtc-save-page-complete-msg = Lapa saglabāta: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Atkļūdošanas žurnāls pieejams: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Atkļūdošanas režīms aktīvs, žurnāls pieejams: { $path }
@@ -168,6 +175,7 @@ about-webrtc-debug-mode-toggled-on-state-msg = Atkļūdošanas režīms aktīvs,
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

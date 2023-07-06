@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Izņēmumi
-    .style = width: 45em
-
 permissions-window2 =
     .title = Izņēmumi
     .style = min-width: 45em
@@ -73,10 +69,6 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Izņēmumi - sīkdatnes un kešatmiņa
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Izņēmumi - sīkdatnes un kešatmiņa
     .style = { permissions-window2.style }
@@ -87,10 +79,6 @@ permissions-exceptions-cookie-desc = Jūs varat norādīt, kurām lapām ir un k
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Atļautās lapas - jaunie logi
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Atļautās lapas - jaunie logi
     .style = { permissions-window2.style }
@@ -98,20 +86,12 @@ permissions-exceptions-popup-desc = Jūs varat norādīt, kurām lapām ir atļa
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Izņēmumi - Saglabātās paroles
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Izņēmumi - Saglabātās paroles
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Šo vietņu paroles netiks saglabātas
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Atļautās lapas - papildinājumu instalēšana
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Atļautās lapas - papildinājumu instalēšana
@@ -123,10 +103,6 @@ permissions-exceptions-addons-desc = Jūs varat norādīt, no kurām lapām ir a
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Iestatījumi - paziņojumu atļaujas
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Iestatījumi - paziņojumu atļaujas
     .style = { permissions-window2.style }
@@ -136,10 +112,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt paziņojumu sūtīšanas atļauju. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Iestatījumi - atrašanās vietas atļaujas
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Iestatījumi - atrašanās vietas atļaujas
@@ -154,10 +126,6 @@ permissions-site-location-disable-desc = Tas liegs jebkurām lapām, kas nav uzs
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Iestatījumi - kameras atļaujas
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Iestatījumi - kameras atļaujas
     .style = { permissions-window2.style }
@@ -168,10 +136,6 @@ permissions-site-camera-disable-desc = Tas liegs jebkurām lapām, kas nav uzska
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Iestatījumi - mikrofona atļaujas
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Iestatījumi - mikrofona atļaujas
     .style = { permissions-window2.style }
@@ -179,3 +143,8 @@ permissions-site-microphone-desc = Šīs lapas ir lūgušas pieeju jūsu mikrofo
 permissions-site-microphone-disable-label =
     .label = Bloķēt nākotnes lūgumus atļaut piekļuvi mikrofonam
 permissions-site-microphone-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi mikrofonam. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

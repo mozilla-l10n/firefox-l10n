@@ -26,13 +26,6 @@ about-networking-messages-received = Saņemtie ziņojumi
 about-networking-bytes-sent = Nosūtītie baiti
 about-networking-bytes-received = Saņemtie baiti
 about-networking-logging = Reģistrēšana
-about-networking-log-tutorial = Apskatiet <a data-l10n-name="logging">HTTP reģistrēšana</a>, lai iegūtu papildu informāciju, kā lietot šo rīku.
-about-networking-current-log-file = Pašreizējais reģistrācijas fails:
-about-networking-current-log-modules = Pašreizējais reģistrācijas modulis:
-about-networking-set-log-file = Iestatīt reģistrēšanas failu
-about-networking-set-log-modules = Iestatīt reģistrēšanas moduli
-about-networking-start-logging = Sākt reģistrēšanu
-about-networking-stop-logging = Pārtraukt reģistrēšanu
 about-networking-dns-lookup = DNS uzmeklēšana
 about-networking-dns-lookup-button = Atrast
 about-networking-dns-domain = Domēns:

@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Notikusi kļūda savienojoties ar { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kļūdas kods: { $error }
-
 psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts.
 psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Nav konfigurēts TLS paraksta algor
 ssl-error-unsupported-signature-algorithm = Savienojuma partneris izmanto neatbalstītu paraksta un jaucējalgoritma kombināciju.
 ssl-error-missing-extended-master-secret = Savienojuma partneris mēģināja turpināt bez korekta extended_master_secret paplašinājuma.
 ssl-error-unexpected-extended-master-secret = Savienojuma partneris mēģināja turpināt ar neatbalstītu extended_master_secret paplašinājumu.
+
 sec-error-io = Drošības autorizācijas laikā notika I/O kļūda.
 sec-error-library-failure = drošības bibliotēkas kļūda.
 sec-error-bad-data = drošības bibliotēka: saņemti slikti dati.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Nevar atšifrēt: atslēgu šifrēšanas algor
 sec-error-pkcs7-bad-signature = Paraksta pārbaude neizdevās: nav parakstītāja, to ir pārāk daudz vai arī dati ir nepareizi, bojāti.
 sec-error-unsupported-keyalg = Neatbalstīts vai nezināms atslēgu algoritms.
 sec-error-decryption-disallowed = Nevar atšifrēt: nošifrēts izmantojot neatļautu algoritmu vai atslēgu garumu.
-xp-sec-fortezza-bad-card = Fortezza karte nav korekti inicializēta.  Lūdzu izņemiet to un atgrieziet izdevējam.
-xp-sec-fortezza-no-card = Nav atrasta neviena Fortezza karte
-xp-sec-fortezza-none-selected = Nav izvēlēta Fortezza karte
-xp-sec-fortezza-more-info = Lūdzu izvēlieties personu, lai iegūtu papildu informāciju par to
-xp-sec-fortezza-person-not-found = Persona nav atrasta
-xp-sec-fortezza-no-more-info = Par šo personu nav papildu informācijas
-xp-sec-fortezza-bad-pin = Nederīgs Pin
-xp-sec-fortezza-person-error = Nevar inicializēt Fortezza personas.
 sec-error-no-krl = Šīs vietnes sertifikātam nav atrasts KRL.
 sec-error-krl-expired = Šīs vietnes sertifikāta KRL ir beidzies derīguma termiņš.
 sec-error-krl-bad-signature = Šīs vietnes sertifikāta KRL ir nederīgs paraksts.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Sertifikāts ar šādu segvārdu jau eksist�
 sec-error-key-nickname-collision = Atslēga ar šādu segvārdu jau eksistē.
 sec-error-safe-not-created = kļūda veidojot drošo objektu
 sec-error-baggage-not-created = kļūda veidojot bagāžas objektu
-xp-java-remove-principal-error = Nevar aizvākt direktoru
-xp-java-delete-privilege-error = Nevar nodzēst privilēģiju
-xp-java-cert-not-exists-error = Direktoram nav sertifikāta
 sec-error-bad-export-algorithm = Pieprasītais algoritms vairs nav atļauts.
 sec-error-exporting-certificates = Kļūda mēģinot eksportēt sertifikātus.
 sec-error-importing-certificates = Kļūda mēģinot importēt sertifikātus.
@@ -338,6 +319,7 @@ sec-error-locked-password = Parole ir bloķēta.
 sec-error-unknown-pkcs11-error = Nezināma PKCS #11 kļūda.
 sec-error-bad-crl-dp-url = Nederīga vai neatbalstīta URL CRL izplatīšanas punkta nosaukumā.
 sec-error-cert-signature-algorithm-disabled = Sertifikāts tika parakstīts ar paraksta algoritmu, kura izmantošana ir deaktivēta, jo šis algoritms nav drošs.
+
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serveris izmanto sertifikātu ar pamata ierobežojumu paplašinājumu (basic constraints extension) kā tā sertifikātu autoritāti. Korekti izsniegtiem sertifikātiem nevajadzētu būt šādi.
 mozilla-pkix-error-inadequate-key-size = Serveris piedāvāja sertifikātu ar pārāk mazu atslēgas garumu, lai izveidotu drošu savienojumu.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Servera piedāvātajā sertifikāt
 mozilla-pkix-error-empty-issuer-name = Serveris piedāvāja sertifikātu, ar tukšu izdevēja nosaukumu.
 mozilla-pkix-error-additional-policy-constraint-failed = Papildus politikas ierobežojuma pārbaude neizdevās pārbaudot šo sertifikātu.
 mozilla-pkix-error-self-signed-cert = Šis sertifikāts nav uzticams, jo tas ir pašparakstīts.
+
+xp-java-remove-principal-error = Nevar aizvākt direktoru
+xp-java-delete-privilege-error = Nevar nodzēst privilēģiju
+xp-java-cert-not-exists-error = Direktoram nav sertifikāta
+
+xp-sec-fortezza-bad-card = Fortezza karte nav korekti inicializēta.  Lūdzu izņemiet to un atgrieziet izdevējam.
+xp-sec-fortezza-no-card = Nav atrasta neviena Fortezza karte
+xp-sec-fortezza-none-selected = Nav izvēlēta Fortezza karte
+xp-sec-fortezza-more-info = Lūdzu izvēlieties personu, lai iegūtu papildu informāciju par to
+xp-sec-fortezza-person-not-found = Persona nav atrasta
+xp-sec-fortezza-no-more-info = Par šo personu nav papildu informācijas
+xp-sec-fortezza-bad-pin = Nederīgs Pin
+xp-sec-fortezza-person-error = Nevar inicializēt Fortezza personas.

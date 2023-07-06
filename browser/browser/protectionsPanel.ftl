@@ -40,3 +40,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Atcelt
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Sūtīt ziņojumu
+
+# Cookie Banner Handling
+

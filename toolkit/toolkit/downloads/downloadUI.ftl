@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Neiziet
        *[other] Neiziet
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ja jūs tagad pāriesiet bezsaistē, tiks atcelta 1 lejupielāde. Vai tiešām vēlaties to izdarīt?
        *[other] Ja jūs tagad pāriesiet bezsaistē, tiks atceltas { $downloadsCount } lejupielādes. Vai tiešām vēlaties to izdarīt?
     }
 download-ui-dont-go-offline-button = Palikt tiešsaistē
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ja tagad aizvērsiet visus privātās pārlūkošanas logus, 1 lejupielāde tiks pārtraukta. Vai vēlaties pārtraukt privātās pārlūkošanas režīmu?
        *[other] Ja tagad aizvērsiet visus privātās pārlūkošanas logus, { $downloadsCount } lejupielādes tiks pārtrauktas. Vai vēlaties pārtraukt privātās pārlūkošanas režīmu?
     }
 download-ui-dont-leave-private-browsing-button = Palikt privātās pārlūkošanas režīmā
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Atcelt 1 lejupielādi

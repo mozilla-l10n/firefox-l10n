@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Saglabāt šo lapu grāmatzīmēs
-    .accesskey = m
-    .tooltiptext = Saglabāt šo lapu grāmatzīmēs
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Saglabāt šo lapu grāmatzīmēs
-    .accesskey = m
-    .tooltiptext = Saglabāt šo lapu grāmatzīmēs ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Rediģēt šo grāmatzīmi
-    .accesskey = m
-    .tooltiptext = Rediģēt šo grāmatzīmi
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Rediģēt šo grāmatzīmi
-    .accesskey = m
-    .tooltiptext = Rediģēt šo grāmatzīmi ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Atvērt saiti
     .accesskey = A
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = Nosūtīt audio…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Aktivēt šo spraudni
-    .accesskey = a
-
-main-context-menu-plugin-hide =
-    .label = Paslēpt šo spraudni
-    .accesskey = p
-
 main-context-menu-send-to-device =
     .label = Sūtīt lapu uz ierīci
     .accesskey = I
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Pārlādēt ietvaru
     .accesskey = r
-
-main-context-menu-frame-bookmark =
-    .label = Pievienot šo ietvaru grāmatzīmēm
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Saglabāt ietvaru kā…
