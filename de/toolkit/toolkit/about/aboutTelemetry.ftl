@@ -131,12 +131,6 @@ about-telemetry-category-header = Kategorie
 about-telemetry-method-header = Methode
 about-telemetry-object-header = Objekt
 about-telemetry-extra-header = Zusatz
-about-telemetry-origin-section = Quellen-Telemetrie
-about-telemetry-origin-origin = Quelle
-about-telemetry-origin-count = Anzahl
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = Die <a data-l10n-name="origin-doc-link">Quellen-Telemetrie von Firefox</a> kodiert Daten vor dem Senden, sodass { $telemetryServerOwner } etwas zählen aber nicht bestimmen kann, ob eine bestimmte { -brand-product-name }-Installation zu der Zählung beigetragen hat. <a data-l10n-name="prio-blog-link">Weitere Informationen</a>
 # Variables:
 #  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process }-Prozess

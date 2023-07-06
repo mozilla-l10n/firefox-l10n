@@ -14,6 +14,7 @@ xpinstall-prompt-message = Sie versuchen, ein Add-on von { $host } zu installier
 
 xpinstall-prompt-header-unknown = Unbekannter Website das Installieren eines Add-ons erlauben?
 xpinstall-prompt-message-unknown = Sie versuchen, ein Add-on von einer unbekannten Website zu installieren. Überprüfen Sie, ob die Website vertrauenswürdig ist, bevor Sie fortfahren.
+
 xpinstall-prompt-dont-allow =
     .label = Nicht erlauben
     .accesskey = N
@@ -44,6 +45,7 @@ xpinstall-disabled = Die Software-Installation ist momentan deaktiviert. Klicken
 xpinstall-disabled-button =
     .label = Aktivieren
     .accesskey = k
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) wurde durch den 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ihr Systemadministrator hat diese Website daran gehindert, Sie zu fragen, ob Software auf Ihrem Computer installiert werden soll.
 addon-install-full-screen-blocked = Das Installieren von Add-ons ist nicht erlaubt während des Vollbildmodus oder vor dessen Start.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } zu { -brand-short-name } hinzugefügt
@@ -69,6 +72,7 @@ addon-removal-title = { $name } entfernen?
 addon-removal-message = { $name } aus { -brand-shorter-name } entfernen?
 addon-removal-button = Entfernen
 addon-removal-abuse-report-checkbox = Erweiterung melden an { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -77,6 +81,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } Add-ons werden heruntergeladen und verifiziert…
     }
 addon-download-verifying = Verifizieren
+
 addon-install-cancel-button =
     .label = Abbrechen
     .accesskey = A

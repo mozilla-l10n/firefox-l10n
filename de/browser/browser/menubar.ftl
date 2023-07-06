@@ -38,9 +38,11 @@ menu-quit =
             [windows] B
            *[other] B
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } beenden
+
 menu-about =
     .label = Über { -brand-shorter-name }
     .accesskey = e
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Kürzlich geschlossene Tabs
 menu-history-undo-window-menu =
     .label = Kürzlich geschlossene Fenster
-menu-history-reopen-all-tabs = Alle Tabs wieder öffnen
-menu-history-reopen-all-windows = Alle Fenster wieder öffnen
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = L
 menu-bookmarks-manage =
     .label = Lesezeichen verwalten
-menu-bookmark-current-tab =
-    .label = Aktuellen Tab als Lesezeichen hinzufügen
-menu-bookmark-edit =
-    .label = Lesezeichen bearbeiten
 menu-bookmark-tab =
     .label = Aktuellen Tab als Lesezeichen hinzufügen…
 menu-edit-bookmark =

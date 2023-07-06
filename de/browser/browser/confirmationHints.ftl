@@ -12,7 +12,6 @@ confirmation-hint-password-saved = Passwort gespeichert
 confirmation-hint-pin-tab = Angeheftet
 confirmation-hint-pin-tab-description = Tab mit der rechten Maustaste anklicken, um ihn abzulösen.
 confirmation-hint-send-to-device = Gesendet
-confirmation-hint-firefox-relay-mask-generated = Neue { -relay-brand-short-name }-Maske erstellt!
 confirmation-hint-firefox-relay-mask-created = Neue Maske erstellt!
 confirmation-hint-firefox-relay-mask-reused = Bestehende Maske wiederverwendet!
 confirmation-hint-screenshot-copied = Screenshot kopiert!

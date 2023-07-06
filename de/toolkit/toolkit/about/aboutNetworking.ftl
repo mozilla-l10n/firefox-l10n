@@ -34,13 +34,6 @@ about-networking-messages-received = Nachrichten empfangen
 about-networking-bytes-sent = Bytes gesendet
 about-networking-bytes-received = Bytes empfangen
 about-networking-logging = Protokollieren
-about-networking-log-tutorial = Weitere Informationen zur Verwendung dieses Werkzeugs stehen unter <a data-l10n-name="logging">HTTP-Protokollierung</a> zur Verfügung.
-about-networking-current-log-file = Derzeitige Protokolldatei:
-about-networking-current-log-modules = Derzeit protokollierte Module:
-about-networking-set-log-file = Als Protokolldatei festlegen
-about-networking-set-log-modules = Als zu protokollierende Module festlegen
-about-networking-start-logging = Aufzeichnung starten
-about-networking-stop-logging = Aufzeichnung beenden
 about-networking-dns-lookup = DNS-Lookup
 about-networking-dns-lookup-button = Auflösen
 about-networking-dns-domain = Domain:

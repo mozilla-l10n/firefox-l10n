@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Tabs als Lesezeichen hinzufügen…
     .accesskey = L
-bookmark-tab =
-    .label = Tab als Lesezeichen hinzufügen
-    .accesskey = L
 tab-context-bookmark-tab =
     .label = Tab als Lesezeichen hinzufügen…
     .accesskey = L
@@ -105,6 +102,7 @@ tab-context-move-tabs =
            *[other] Tabs verschieben
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

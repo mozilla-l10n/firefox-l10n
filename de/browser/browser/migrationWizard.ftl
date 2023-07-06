@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Browserdaten importieren
 migration-wizard-selection-list = Wählen Sie die Daten aus, die Sie importieren möchten.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Wählen Sie die Daten aus, die Sie importieren
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Ausgewählte Daten importieren
 
 migration-select-all-option-label = Alles auswählen
 migration-bookmarks-option-label = Lesezeichen
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoriten
+
 migration-logins-and-passwords-option-label = Gespeicherte Zugangsdaten und Passwörter
 migration-history-option-label = Chronik
 migration-extensions-option-label = Erweiterungen
 migration-form-autofill-option-label = Daten für Formular-Autovervollständigung
 migration-payment-methods-option-label = Zahlungsmethoden
+
 migration-cookies-option-label = Cookies
 migration-session-option-label = Fenster und Tabs
 migration-otherdata-option-label = Sonstige Daten
+
 migration-passwords-from-file-progress-header = Passwort-Datei importieren
 migration-passwords-from-file-success-header = Passwörter erfolgreich importiert
 migration-passwords-from-file = Datei wird auf Passwörter überprüft
 migration-passwords-new = Neue Passwörter
 migration-passwords-updated = Bestehende Passwörter
+
 migration-passwords-from-file-no-valid-data = Die Datei enthält keine gültigen Passwortdaten. Wählen Sie eine andere Datei.
+
 migration-passwords-from-file-picker-title = Passwort-Datei importieren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-Dokument
        *[other] TSV-Datei
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } hinzugefügt
        *[other] { $newEntries } hinzugefügt
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } aktualisiert
        *[other] { $updatedEntries } aktualisiert
     }
+
 migration-bookmarks-from-file-picker-title = Lesezeichendatei importieren
 migration-bookmarks-from-file-progress-header = Lesezeichen werden importiert
 migration-bookmarks-from-file = Lesezeichen
 migration-bookmarks-from-file-success-header = Lesezeichen erfolgreich importiert
+
 migration-bookmarks-from-file-no-valid-data = Die Datei enthält keine Lesezeichen-Daten. Wählen Sie eine andere Datei.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-Dokument
        *[other] HTML-Datei
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-Datei
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } Lesezeichen
        *[other] { $newEntries } Lesezeichen
     }
+
 migration-import-button-label = Importieren
 migration-choose-to-import-from-file-button-label = Aus Datei importieren
 migration-import-from-file-button-label = Datei auswählen
 migration-cancel-button-label = Abbrechen
 migration-done-button-label = Fertig
 migration-continue-button-label = Weiter
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } konnte keine Programme finden, die Lesezeichen-, Chronik- oder Passwortdaten enthalten.
 migration-wizard-import-browser-no-resources = Ein Fehler ist aufgetreten. { -brand-short-name } kann keine Daten aus diesem Browser-Profil zum Importieren finden.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Ein Fehler ist aufgetreten. { -br
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = Lesezeichen
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = Favoriten
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importieren…
 migration-wizard-progress-icon-completed =
     .aria-label = Abgeschlossen
+
 migration-safari-password-import-header = Passwörter von Safari importieren
 migration-safari-password-import-steps-header = Um Safari-Passwörter zu importieren:
 migration-safari-password-import-step1 = Öffnen Sie in Safari das Menü "Safari" und gehen Sie zu Einstellungen > Passwörter
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Speichern Sie die Passwortdatei
 migration-safari-password-import-step4 = Wählen Sie unten "Datei auswählen", um die gespeicherte Passwortdatei zu verwenden
 migration-safari-password-import-skip-button = Überspringen
 migration-safari-password-import-select-button = Datei auswählen
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } Lesezeichen
        *[other] { $quantity } Lesezeichen
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } Erweiterung
        *[other] { $quantity } Erweiterungen
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,10 +238,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } von { $quantity } Erweiterungen
+
 migration-wizard-progress-extensions-support-link = Wie { -brand-product-name } passende Erweiterungen wählt
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Keine passenden Erweiterungen
+
 migration-wizard-progress-extensions-addons-link = Erweiterungen für { -brand-short-name } durchsuchen
 
 ##
@@ -233,6 +258,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } Passwort
        *[other] { $quantity } Passwörter
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -243,7 +269,9 @@ migration-wizard-progress-success-history =
         [one] Vom letzten Tag an
        *[other] Von den letzten { $maxAgeInDays } Tagen
     }
+
 migration-wizard-progress-success-formdata = Gespeicherte Formulardaten
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -254,6 +282,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } Zahlungsmethode
        *[other] { $quantity } Zahlungsmethoden
     }
+
 migration-wizard-safari-permissions-sub-header = Um Safari-Lesezeichen und die Surf-Chronik zu importieren:
 migration-wizard-safari-instructions-continue = Wählen Sie "Fortsetzen"
 migration-wizard-safari-instructions-folder = Wählen Sie in der Liste den Safari-Ordner aus und wählen Sie "Öffnen"

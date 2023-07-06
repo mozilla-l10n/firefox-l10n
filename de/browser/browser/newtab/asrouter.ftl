@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Empfohlene Funktion
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Warum wird das angezeigt?
+
 cfr-doorhanger-extension-cancel-button = Nicht jetzt
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Jetzt hinzufügen
     .accesskey = h
+
 cfr-doorhanger-extension-manage-settings-button = Einstellungen für Empfehlungen verwalten
     .accesskey = E
+
 cfr-doorhanger-extension-never-show-recommendation = Diese Empfehlung nicht anzeigen
     .accesskey = D
+
 cfr-doorhanger-extension-learn-more-link = Weitere Informationen
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = von { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Empfehlung
 cfr-doorhanger-extension-notification2 = Empfehlung
     .tooltiptext = Erweiterungsempfehlung
     .a11y-announcement = Erweiterungsempfehlung verfügbar
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Empfehlung
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Weitere Informationen
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Neue Funktion:
+
 cfr-whatsnew-button =
     .label = Neue Funktionen und Änderungen
     .tooltiptext = Neue Funktionen und Änderungen
+
 cfr-whatsnew-release-notes-link-text = Release Notes lesen
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Deaktivieren
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ihre Privatsphäre ist wichtig. { -brand-short-name } isoliert jetzt Websites voneinander, was es Hackern erschwert, Passwörter, Kreditkartendaten und andere vertrauliche Informationen zu stehlen.
-cfr-doorhanger-fission-header = Seitenisolierung
-cfr-doorhanger-fission-primary-button = Ok, verstanden
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Weitere Informationen
-    .accesskey = W
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videos auf dieser Website werden in dieser Version von { -brand-short-name } möglicherweise nicht richtig wiedergegeben. Aktualisieren Sie { -brand-short-name } jetzt für volle Videounterstützung.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Jetzt aktualisieren
     .accesskey = a
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Weitere Informationen
-    .title = Ausklappen, um mehr über die Funktion zu erfahren
-spotlight-learn-more-expanded = Weitere Informationen
-    .title = Schließen
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Nicht jetzt
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Nutzen Sie vorab unsere leistungsstärkste
-    Datenschutzerfahrung aller Zeiten
-spotlight-total-cookie-protection-body = Der vollständige Cookie-Schutz hindert Elemente zur Aktivitätenverfolgung daran, Cookies zu verwenden, um Sie im Internet zu verfolgen.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } baut einen Zaun um Cookies und beschränkt sie auf die Website, auf der Sie sich befinden, sodass Elemente zur Aktivitätenverfolgung sie nicht verwenden können, um Ihnen zu folgen. Durch die Vorab-Nutzung helfen Sie, diese Funktion zu optimieren, damit wir weiterhin ein besseres Web für alle aufbauen können.
-spotlight-total-cookie-protection-primary-button = Vollständigen Cookie-Schutz aktivieren
-spotlight-total-cookie-protection-secondary-button = Nicht jetzt
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = Nicht jetzt
 
 mr2022-background-update-toast-title = Neuer { -brand-short-name }. Mehr Privatsphäre. Weniger Tracker. Keine Kompromisse.
 mr2022-background-update-toast-text = Testen Sie jetzt den neuesten { -brand-short-name }, aktualisiert mit unserem bisher stärksten Anti-Tracking-Schutz.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } jetzt öffnen
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Holen Sie sich kürzlich geschlossene Tabs zurück und
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Begrüßen Sie { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Möchten Sie diesen offenen Tab auf Ihrem Telefon? Nehmen Sie ihn. Brauchen Sie diese Website, die Sie gerade besucht haben? Schon ist sie wieder da mit { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Wie es funktioniert
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Überspringen
 
 colorways-cfr-primarybutton = Farbwelt wählen
     .accesskey = w
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Färben Sie Ihren Browser mit exklusiven Farbtönen von { -brand-short-name }, die von Stimmen inspiriert sind, die die Kultur verändert haben.
 colorways-cfr-header-28days = Farbwelten "Unabhängige Stimmen" laufen am 16. Januar ab
@@ -239,6 +229,7 @@ july-jam-headline = Wir haben für Sie vorgesorgt
 july-jam-body = Jeden Monat blockiert { -brand-short-name } durchschnittlich mehr als 3000 Tracker pro Nutzer und ermöglicht so einen sicheren, schnellen Zugriff auf das gute Internet.
 july-jam-set-default-primary = Meine Links mit { -brand-short-name } öffnen
 fox-doodle-pin-headline = Willkommen zurück
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Hier ist eine kurze Erinnerung, dass Sie Ihren unabhängigen Lieblings-Browser in Klickweite haben können.
