@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Hoto Uddu
        *[other] Hoto Yaltu
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] So a seŋtiima jooni, gaawtol 1 maa haaytine. Aɗa yenanaa yiɗde seŋtaade?
        *[other] So a seŋtiima jooni, gaawte { $downloadsCount } maa haaytine. Aɗa yenanaa yiɗde seŋtaade?
     }
 download-ui-dont-go-offline-button = Heddo e Ceŋol
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] So a uddii kenorɗe Peeragol Suturo jooni, gaawtol 1 maa haaytine. Aɗa yenanaa yiɗde yaltude e Peeragol Suturo?
        *[other] So a uddii kenorɗe Peeragol Suturo jooni, gaawte { $downloadsCount } maa haaytine. Aɗa yenanaa yiɗde yaltude e Peeragol Suturo?
     }
 download-ui-dont-leave-private-browsing-button = Heddo e Mbayka Peeragol Suturo
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Haaytin Gaawtol 1

@@ -10,6 +10,8 @@ fxa-menu-send-tab-to-device =
             [one] Neldu tabbere to Device
            *[other] Send{ $tabCount } Tabbe to masiŋel
         }
+
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = Jahdingol kaɓirɗi...
+

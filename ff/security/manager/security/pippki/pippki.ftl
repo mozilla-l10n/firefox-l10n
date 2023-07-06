@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Aawto Seedamfaagu
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Aawto Seedamfaagu
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Teeŋtuɗum: So a hettii finnde dannditol  seedamfaagua,
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Goongɗitingol Token Cuuraaɗo
-protected-auth-msg = Tiiɗno goongɗitin to token oo. Feere oongɗitingol fawii ko e fannu token maa.
-protected-auth-token = Token:
+## Protected authentication alert
+

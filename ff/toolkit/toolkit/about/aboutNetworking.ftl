@@ -25,13 +25,6 @@ about-networking-messages-received = Ɓatakuuji keɓaaɗi
 about-networking-bytes-sent = Bayte nuldaaɗe
 about-networking-bytes-received = Bayte Keɓaaɗe
 about-networking-logging = Ceŋorɗe
-about-networking-log-tutorial = Yiy <a data-l10n-name="logging">HTTPSeŋorde</a> ngam fammineede no ɗum huutortee.
-about-networking-current-log-file = Fiilde logagol wonaande:
-about-networking-current-log-modules = Gulle logagol wonaande:
-about-networking-set-log-file = Suɓo Fiilde Logagol
-about-networking-set-log-modules = Suɓo Gulle logagol
-about-networking-start-logging = Fuɗɗo Logagol
-about-networking-stop-logging = Dartin Logagol
 about-networking-dns-lookup = Yiylo DNS
 about-networking-dns-lookup-button = Jiɓtu
 about-networking-dns-domain = Domen:

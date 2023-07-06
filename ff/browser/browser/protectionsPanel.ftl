@@ -72,3 +72,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Haaytu
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Neldu ciimtol
+
+# Cookie Banner Handling
+

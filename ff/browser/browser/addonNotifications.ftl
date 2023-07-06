@@ -24,6 +24,7 @@ xpinstall-disabled = Aafgol topirɗe koko daaƴaa oo sahaa. Dobo Daaƴtu, puɗɗ
 xpinstall-disabled-button =
     .label = Daaƴtu
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ɓeydaama e { -brand-short-name }
@@ -37,6 +38,7 @@ webext-perms-update-menu-item = { $addonName } na ɗaɓɓi jamirooje kese
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Momta { $name } e { -brand-shorter-name }?
 addon-removal-button = Momtu
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -45,6 +47,7 @@ addon-downloading-and-verifying =
        *[other] Nana aawtoo e ƴeewtaade ɓeydital { $addonCount }…
     }
 addon-download-verifying = Nana ƴeewtoo
+
 addon-install-cancel-button =
     .label = Haaytu
     .accesskey = H

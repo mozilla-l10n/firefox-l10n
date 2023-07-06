@@ -103,6 +103,8 @@ media-device-channels = Ceenuuji
 media-device-rate = Battal
 media-device-latency = Deeƴtal
 
+## Codec support table
+
 ##
 
 intl-app-title = Teelte Jaaɓnirɗe

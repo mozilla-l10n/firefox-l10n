@@ -39,5 +39,9 @@ url-classifier-disabled = Daaƴaama
 url-classifier-updating = nana hesɗitina
 url-classifier-cannot-update = roŋkii hesɗitinde
 url-classifier-success = moƴƴii
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = juumre kesɗitinal({ $error })
 url-classifier-download-error = juumre aawto ({ $error })

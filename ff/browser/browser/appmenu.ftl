@@ -68,6 +68,10 @@ whatsnew-panel-header = Ko Hesɗi
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 ## History panel
 
 appmenu-restore-session =
