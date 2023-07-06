@@ -22,5 +22,7 @@ state-header = Tlhalosa
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Dintlha
+
 update-installed-on = Tlhomilwe mo: { $date }
+
 update-status = Maemo: { $status }

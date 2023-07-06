@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Tab e Ntšhwa
+
 tabbrowser-menuitem-close-tab =
     .label = Tswala Tab
 tabbrowser-menuitem-close =
@@ -43,3 +44,6 @@ tabbrowser-confirm-close-tabs-button = Tswala ditab
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Tlhomaganya ka Lenaneo Tsotlhe { $tabCount } Dithebe
+
+## Tab manager menu buttons
+

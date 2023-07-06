@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Beng ba Dithata
 
-certmgr-edit-ca-cert =
-    .title = Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Tseleganya boalo jwa boikanyego jwa setifikeiti sa CA
     .style = min-width: 48em;
@@ -23,10 +19,6 @@ certmgr-edit-cert-edit-trust = Tseleganya boalo jwa boikanyego:
 
 certmgr-edit-cert-trust-email =
     .label = Setifikeiti seno se ka supa badirisi ba poso.
-
-certmgr-delete-cert =
-    .title = Phimola Setifikeiti
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Phimola Setifikeiti

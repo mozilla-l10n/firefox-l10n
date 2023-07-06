@@ -68,3 +68,4 @@ browser-data-session-checkbox =
     .label = Di window le Dithebe
 browser-data-session-label =
     .value = Di window le Dithebe
+
