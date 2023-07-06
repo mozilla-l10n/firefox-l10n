@@ -23,5 +23,7 @@ state-header = Stayd
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Mynphointyn
+
 update-installed-on = Currit ayns oik er: { $date }
+
 update-status = Staydys: { $status }
