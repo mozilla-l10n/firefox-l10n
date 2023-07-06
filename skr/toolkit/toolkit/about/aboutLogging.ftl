@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = لاگنگ بارے
 about-logging-page-title = لاگنگ منیجر
 about-logging-current-log-file = موجودہ لاگ فائل:
-about-logging-current-log-modules = موجودہ لاگ ماڈیول:
 about-logging-new-log-file = نویں لاگ فائل:
 about-logging-currently-enabled-log-modules = فی الحال فعال لاگ ماڈیولز:
 about-logging-log-tutorial =
@@ -55,6 +52,7 @@ about-logging-preset-media-playback-label = میڈیا پلے بیک
 about-logging-preset-media-playback-description = میڈیا پلے بیک مسائل دی تشخیص کیتے ماڈیول لاگ کرو (ویڈیو کانفرنسنگ دے مسائل کائنی)
 about-logging-preset-custom-label = مخصوص
 about-logging-preset-custom-description = لاگ ماڈیولز دستی طور تے منتخب تھئے۔
+
 # Error handling
 about-logging-error = نقص:
 
@@ -68,4 +66,5 @@ about-logging-unknown-profiler-preset = اݨ ڄاتا پروفائلر پری س
 about-logging-unknown-option = دے بارے اݨ ڄاتا: لاگنگ آپشن "{ $k }"
 about-logging-configuration-url-ignored = کنفیگریشن URL کوں نظر انداز کر ݙتا ڳیا ہے۔
 about-logging-file-and-profiler-override = ہک ای وقت وِچ فائل آؤٹ پٹ تے پروفائلر دے اختیارات کوں اوور رائیڈ نہیں کر سڳدے
+
 about-logging-configured-via-url = URL دے ذریعے آپشن کنفیگر کیتا ڳیا ہے۔

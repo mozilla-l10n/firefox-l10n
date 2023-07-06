@@ -5,6 +5,7 @@
 printui-title = چھاپو
 # Dialog title to prompt the user for a filename to save print to PDF.
 printui-save-to-pdf-title = ہتھیکڑا کرو بطور
+
 # Variables
 # $sheetCount (integer) - Number of paper sheets
 printui-sheets-count =
@@ -12,6 +13,7 @@ printui-sheets-count =
         [one] { $sheetCount } پیپر دی شیٹ
        *[other] { $sheetCount } دیاں شیٹاں
     }
+
 printui-page-range-all = سارے
 printui-page-range-current = موجودہ
 printui-page-range-odd = اِکی
@@ -23,22 +25,29 @@ printui-page-range-picker =
 printui-page-custom-range-input =
     .aria-label = ورقے دی مخصوص حد درج کرو
     .placeholder = e.g. 2-6, 9, 12-16
+
 # Section title for the number of copies to print
 printui-copies-label = کاپیاں
+
 printui-orientation = سمت بندی
 printui-landscape = افقی انداز
 printui-portrait = عمودی انداز
+
 # Section title for the printer or destination device to target
 printui-destination-label = منزل
 printui-destination-pdf-label = بطور PDF ہتھیکڑا کرو
+
 printui-more-settings = ودھیک ترتیباں
 printui-less-settings = گھٹ ترتیباں
+
 printui-paper-size-label = کاغذ دی سائز
+
 # Section title (noun) for the print scaling options
 printui-scale = پیمانہ
 printui-scale-fit-to-page-width = ورقے دے پیٹے اِچ فٹ کرو
 # Label for input control where user can set the scale percentage
 printui-scale-pcent = پیمانہ
+
 # Section title (noun) for the two-sided print options
 printui-two-sided-printing = ݙو طرفہ چھپائی
 printui-two-sided-printing-off = بند
@@ -46,6 +55,7 @@ printui-two-sided-printing-off = بند
 printui-two-sided-printing-long-edge = لمبے کنارے تے پلٹاؤ
 # Flip the sheet as if it were bound along its short edge.
 printui-two-sided-printing-short-edge = لُنڈے کنارے تے پلٹاؤ
+
 # Section title for miscellaneous print options
 printui-options = اختیارات
 printui-headers-footers-checkbox = ہیڈرز تے فوٹرز چھاپو
@@ -69,6 +79,7 @@ printui-simplify-page-radio = سادہ بݨیا ہویا
 printui-color-mode-label = کلر موڈ
 printui-color-mode-color = رنگ
 printui-color-mode-bw = کالا تے چِٹا
+
 printui-margins = حاشيے
 printui-margins-default = ڈیفالٹ
 printui-margins-min = کم از کم
@@ -87,17 +98,23 @@ printui-margins-custom-left-mm = کھٻا (ملی میٹر)
 printui-margins-custom-right = سڄا
 printui-margins-custom-right-inches = سڄا (انچ)
 printui-margins-custom-right-mm = سڄا (ملی میٹر)
+
 printui-system-dialog-link = سسٹم ڈائیلاگ دا استعمال کریندے ہوئے پرنٹ کرو…
+
 printui-primary-button = چھاپو
 printui-primary-button-save = محفوظ
 printui-cancel-button = منسوخ
 printui-close-button = بند کرو
+
 printui-loading = پیش نظارہ تیار تھیندا پئے
+
 # Reported by screen readers and other accessibility tools to indicate that
 # the print preview has focus.
 printui-preview-label =
     .aria-label = پیش نظارہ چھاپو
+
 printui-pages-per-sheet = ورقے فی شیٹ
+
 # This is shown next to the Print button with an indefinite loading spinner
 # when the user prints a page and it is being sent to the printer.
 printui-print-progress-indicator = چھپائی تھیندی پئی ہے…
@@ -124,6 +141,7 @@ printui-paper-tabloid = ٹیبلوئیڈ
 printui-error-invalid-scale = پیمانہ لازمی طور تے 10 تے 200 دے درمیان ہک نمبر ہووݨا چاہیدا ہے
 printui-error-invalid-margin = سوہݨا، چُݨے ہوئے ورقہ سائز کیتے ٹھیک مارجن درج کرو۔
 printui-error-invalid-copies = کاپیاں لازمی طور تے 1 تے 10000 دے درمیان ہک نمبر ہووݨا چاہیدا ہے۔
+
 # Variables
 # $numPages (integer) - Number of pages
 printui-error-invalid-range = رینج لازمی طور تے 1 تے { $numPages } درمیان ہووݨی چاہیدی ہے۔

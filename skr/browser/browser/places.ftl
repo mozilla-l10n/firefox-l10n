@@ -23,8 +23,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = نویں نجی ونڈو وِچ کھولو
     .accesskey = P
+
 places-empty-bookmarks-folder =
     .label = (خالی)
+
 places-add-bookmark =
     .label = نشانی شامل کرو …
     .accesskey = B
@@ -37,6 +39,7 @@ places-add-folder =
 places-add-separator =
     .label = انڄ کرݨ والا شامل کرو
     .accesskey = S
+
 places-view =
     .label = ݙیکھو
     .accesskey = w
@@ -55,12 +58,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = حسب تاریخ تے سائٹ
     .accesskey = t
+
 places-history-search =
     .placeholder = تاریخ ڳولو
 places-history =
     .aria-label = تاریخ
 places-bookmarks-search =
     .placeholder = نشانیاں ڳولو
+
 places-delete-domain-data =
     .label = ایں سائٹ بارے بھل ونڄو
     .accesskey = F
@@ -93,18 +98,22 @@ places-delete-page =
            *[other] ورقے مٹاؤ
         }
     .accesskey = D
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = نشانیاں منظم کرو
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = ذیلی فولڈر
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = ٻیاں نشانیاں
+
 places-show-in-folder =
     .label = فولڈر وِچ ݙکھاؤ
     .accesskey = F
+
 # Variables:
 # $count (number) - The number of elements being selected for removal.
 places-delete-bookmark =
@@ -114,6 +123,7 @@ places-delete-bookmark =
            *[other] نشانیاں مٹاؤ
         }
     .accesskey = D
+
 # Variables:
 #   $count (number) - The number of bookmarks being added.
 places-create-bookmark =
@@ -123,98 +133,125 @@ places-create-bookmark =
            *[other] ورقے نشانی لاؤ …
         }
     .accesskey = B
+
 places-untag-bookmark =
     .label = ٹیگ ہٹاؤ
     .accesskey = R
+
 places-manage-bookmarks =
     .label = نشانیاں منظم کرو
     .accesskey = M
+
 places-forget-about-this-site-confirmation-title = ایں سائٹ بارے بھل ونڄو
-# Variables:
-# $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-message = ایہ کارروائی { $hostOrBaseDomain } نال متعلق تمام ڈیٹا کوں ہٹا ݙیسے بشمول تاریخ، پاس ورڈ، کوکیاں، کیشے تے مواد دیاں ترجیحاں۔ کیا تساں واقعی اڳو تے ودھݨ چاہندے او؟َ
+
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
 places-forget-about-this-site-confirmation-msg = ایہ کارروائی { $hostOrBaseDomain } دے متعلق ڈیٹا کوں ہٹا ݙیسے بشمول تاریخ، کوکیاں، کیشے تے مواد دیاں ترجیحاں۔ متعلقہ نشانیاں تے پاس ورڈز نہ ہٹائے ویسن۔ کیا تساں واقعی اڳو تے ودھݨ چاہندے او؟
+
 places-forget-about-this-site-forget = بھل ونڄو
-places-library =
-    .title = لائبریری
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = لائبریری
+
 places-organize-button =
     .label = منظم کرو
     .tooltiptext = اپݨیاں نشانیاں منظم کرو
     .accesskey = O
+
 places-organize-button-mac =
     .label = منظم کرو
     .tooltiptext = اپݨیاں نشانیاں منظم کرو
+
 places-file-close =
     .label = بند کرو
     .accesskey = C
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = نظارے
     .tooltiptext = اپݨا نظارہ تبدیل کرو
     .accesskey = V
+
 places-view-button-mac =
     .label = نظارے
     .tooltiptext = اپݨے نظارے تبدیل کرو
+
 places-view-menu-columns =
     .label = کالم ݙکھاؤ
     .accesskey = C
+
 places-view-menu-sort =
     .label = چھانٹی کرو
     .accesskey = S
+
 places-view-sort-unsorted =
     .label = اݨ چھانٹیا
     .accesskey = U
+
 places-view-sort-ascending =
     .label = A > Z چھانٹی کرو
     .accesskey = A
+
 places-view-sort-descending =
     .label = Z > A چھانٹی کرو
     .accesskey = Z
+
 places-maintenance-button =
     .label = درآمد تے بیک اپ
     .tooltiptext = اپݨیاں نشانیاں بیک اپ تے درآمد کرو
     .accesskey = I
+
 places-maintenance-button-mac =
     .label = درآمد تے بیک اپ
     .tooltiptext = اپݨیاں نشانیاں بیک آپ تے درآمد کرو
+
 places-cmd-backup =
     .label = بیک اپ …
     .accesskey = B
+
 places-cmd-restore =
     .label = بحال کرو
     .accesskey = R
+
 places-cmd-restore-from-file =
     .label = فائل منتخب کرو …
     .accesskey = C
+
 places-import-bookmarks-from-html =
     .label = HTML کنوں نشانیاں درآمد کرو ...
     .accesskey = I
+
 places-export-bookmarks-to-html =
     .label = نشانیاں HTML وِچ برآمد کرو ...
     .accesskey = E
+
 places-import-other-browser =
     .label = کہیں ٻئے براؤزر کنوں کوائف درآمد کرو …
     .accesskey = A
+
 places-view-sort-col-name =
     .label = ناں
+
 places-view-sort-col-tags =
     .label = ٹیگز
+
 places-view-sort-col-url =
     .label = مقام
+
 places-view-sort-col-most-recent-visit =
     .label = سب توں حالیہ دورہ
+
 places-view-sort-col-visit-count =
     .label = ملاحظہ شماری
+
 places-view-sort-col-date-added =
     .label = اضافہ شدہ
+
 places-view-sort-col-last-modified =
     .label = چھیکڑی واری تبدیل تھیا
+
 places-view-sortby-name =
     .label = بمطابق ناں چھانٹی کرو
     .accesskey = N
@@ -236,13 +273,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = بمطابق ٹیگ چھانٹی کرو
     .accesskey = T
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = واپس ون٘ڄو
+
 places-forward-button =
     .tooltiptext = اڳو تے ودھو
+
 places-details-pane-select-an-item-description = ہک آئٹم کوں ایندی خصوصیات کوں ݙیکھݨ تے ایندے وِچ ترمیم کرݨ کیتے منتخب کرو۔
+
 places-details-pane-no-items =
     .value = کوئی شئے نہ
 # Variables:

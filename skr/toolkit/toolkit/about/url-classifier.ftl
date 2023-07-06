@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = محفوظ براؤزانگ لاگ ماڈیو�
 url-classifier-debug-modules = موجودہ لاگ ماڈیولز
 url-classifier-debug-sbjs-modules = محفوظ براوزنگ JS لاگ
 url-classifier-debug-file = موجودہ لاگ فائلاں
+
 url-classifier-trigger-update = ٹرگر اپ ڈیٹ
 url-classifier-not-available = دستیاب کائنی
 url-classifier-disable-sbjs-log = محفوظ براؤزنگ JS  لاگ کوں غیر فعال بݨاؤ
@@ -49,5 +50,9 @@ url-classifier-disabled = غیرفعال تھیا
 url-classifier-updating = اپ ڈیٹ تھیندا پئے
 url-classifier-cannot-update = اپ ڈیٹ کائنی تھی سڳدا
 url-classifier-success = کامیابی
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = اپ ڈیٹ دی خرابی ({ $error })
 url-classifier-download-error = ڈاؤن لوڈ دی خرابی ({ $error })

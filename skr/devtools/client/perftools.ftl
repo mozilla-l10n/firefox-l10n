@@ -43,7 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = بفر دا سائز:
+
 perftools-custom-threads-label = من مرضی دے دھاڳے ناں دے نال شامل کرو:
+
 perftools-devtools-interval-label = وقفہ:
 perftools-devtools-threads-label = دھاڳے:
 perftools-devtools-settings-label = ترتیباں
@@ -81,8 +83,6 @@ perftools-thread-renderer =
     .title = WebRender فعال تھیوݨ تے، او تھریڈ جیڑھا OpenGL کالز کوں انجام ݙیندا ہے۔
 perftools-thread-render-backend =
     .title = RenderBackend دھاڳا
-perftools-thread-paint-worker =
-    .title = جݙاں آف مین تھریڈ پینٹنگ کوں فعال کیتا ویندا ہے، تاں او تھریڈ جیندے اوتے پینٹنگ تھیندی ہے۔
 perftools-thread-timer =
     .title = تھریڈ ہینڈلنگ ٹائمرز (setTimeout، setInterval، nsITimer)
 perftools-thread-style-thread =
@@ -113,6 +113,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = اوتلے انتخاب کوں نظر انداز کرو تے تمام رجسٹرڈ تھریڈز کوں ریکارڈ کرو۔
+
 perftools-tools-threads-input-label =
     .title = ایہ تھریڈ دے ناں کوما نال انج کیتیاں ڳئیاں تندیراں ہن جیڑھیاں پروفائلر وِچ تھریڈز دی پروفائلنگ کوں فعال کرݨ کیتے استعمال تھیندیاں ہن۔ اں کوں شامل کرݨ کیتے تھریڈ دے ناں دا صرف جزوی مماثل ہووݨ ضروری ہے۔ ایہ وائٹ سپیس حساس ہے۔
 
@@ -120,6 +121,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>نواں</b>: { -profiler-brand-name } ہݨ ڈویلپر ٹولز وِ ضم تھی ڳیا ہے۔ ایں طاقتور نویں ٹول دے بارے <a>ودھیک ڄاݨو</a>۔
+
 perftools-onboarding-close-button =
     .aria-label = آن بورڈنگ سنیہا بند کرو۔
 
@@ -130,19 +132,29 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = ویب تکمیل کار
 perftools-presets-web-developer-description = گھٹ اوور ہیڈ دے نال، زیادہ تر ویب ایپ ڈیبگنگ کیتے تجویز کردہ اوور ہیڈ۔
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = پروفائلنگ کیتے تجویز کردہ پری سیٹ { -brand-shorter-name }۔
+
 perftools-presets-graphics-label = گرافکس
 perftools-presets-graphics-description = { -brand-shorter-name } وِچ گرافکس دیاں خرابیاں دی چھان بین کیتے پری سیٹ۔
+
 perftools-presets-media-label = میڈیا
 perftools-presets-media-description2 = { -brand-shorter-name } وِچ آڈیو تے ویڈیو بگز دی چھان بین کیتے پری سیٹ۔
+
 perftools-presets-networking-label = نیٹ ورکنگ
 perftools-presets-networking-description = { -brand-shorter-name } وِچ نیٹ ورکنگ بگز دی چھان بین کیتے پری سیٹ۔
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = بجلی
 perftools-presets-power-description = گھٹ اوور ہیڈ دے نال { -brand-shorter-name } وِچ پاور استعمال بگز دی چھان بین کیتے پری سیٹ۔
+
 perftools-presets-custom-label = مخصوص
 
 ##

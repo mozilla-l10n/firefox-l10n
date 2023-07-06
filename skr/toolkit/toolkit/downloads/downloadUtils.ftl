@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## Variables:
+## $timeValue (number) - Number of units of time
+
 # Short form for seconds
 download-utils-short-seconds =
     { $timeValue ->
@@ -26,6 +29,9 @@ download-utils-short-days =
         [one] d
        *[other] d
     }
+
+##
+
 # — is the "em dash" (long dash)
 # example: 4 minutes left — 1.1 of 11.1 GB (2.2 MB/sec)
 # Variables:
@@ -47,10 +53,12 @@ download-utils-status-infinite-rate = { $timeLeft } — { $transfer } (ݙادھ�
 #   $timeLeft (String): time left.
 #   $transfer (String): transfer progress.
 download-utils-status-no-rate = { $timeLeft } — { $transfer }
+
 download-utils-bytes = بائٹس
 download-utils-kilobyte = کے بی
 download-utils-megabyte = ایم بی
 download-utils-gigabyte = جی بی
+
 # example: 1.1 of 333 MB
 # Variables:
 #   $progress (String): progress number.
@@ -69,6 +77,7 @@ download-utils-transfer-diff-units = { $total }{ $totalUnits } وچوں{ $progre
 #   $progress (String): progress number.
 #   $progressUnits (String): unit.
 download-utils-transfer-no-total = { $progress } { $progressUnits }
+
 # examples: 1m; 11h
 # Variables:
 #   $time (String): time number.
@@ -85,11 +94,13 @@ download-utils-time-left-single = { $time } باقی
 download-utils-time-left-double = { $time1 }{ $time2 } باقی
 download-utils-time-few-seconds = کجھ سیکنڈ باقی ہن
 download-utils-time-unknown = اݨ ڄاتا وقت باقی رہ ڳئے
+
 # Variables:
 #   $scheme (String): URI scheme like data: jar: about:
 download-utils-done-scheme = { $scheme } ریسورس
 # Special case of done-scheme for file:
 # This is used as an eTLD replacement for local files, so make it lower case
 download-utils-done-file-scheme = مقامی فائل
+
 # Displayed time for files finished yesterday
 download-utils-yesterday = کل

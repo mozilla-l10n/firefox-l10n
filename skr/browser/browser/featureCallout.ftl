@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = اڳلا
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = سمجھ گھدے!
 
@@ -12,13 +13,20 @@ callout-primary-complete-button-label = سمجھ گھدے!
 # "Tab pickup" refers to the section in Firefox View that displays open
 # tabs from other devices
 callout-firefox-view-tab-pickup-title = ٹیب پک اپ والے آلات دے درمیان ہاپ کرو۔
+
 callout-firefox-view-tab-pickup-subtitle = اپݨے فون کنوں کھلے ٹیباں کوں جلدی نال پکڑو تے زیادہ کنوں زیادہ واہک کیتے انہاں کوں اتھاں کھولو۔
+
 callout-firefox-view-recently-closed-title = اپݨے بند ٹیباں کوں ہک پل اِچ واپس حاصل کرو۔
+
 callout-firefox-view-recently-closed-subtitle = تہاݙیاں ساریاں بند ٹیباں جادوئی طور تے اتھاں ظاہر تھیسن۔ کݙاہیں وی غلطی نال کہیں سائٹ کوں دوبارہ بند کرݨ دی فکر نہ کرو۔
+
 callout-firefox-view-colorways-title = رنگ دا تراونہکا شامل کرو
+
 # "Shade" refer to different color options in each colorway.
 callout-firefox-view-colorways-subtitle = وہ جھاں چݨو تہاݙے نال کلر ویز نال الاوے۔ صرف { -brand-product-name } اِچ۔
+
 callout-firefox-view-colorways-reminder-title = اساݙے نویں نکور کلر ویز دی پٹ پھرول کرو
+
 # “Shades” refers to the different color options in each colorways
 callout-firefox-view-colorways-reminder-subtitle = آزاد آوازاں کنوں متاثر تھی تے اپݨے براؤزر کوں انہاں مشہور جھانواں نال رنگیل کرو۔ صرف { -brand-product-name } وِچ۔
 
@@ -28,7 +36,9 @@ callout-firefox-view-colorways-reminder-subtitle = آزاد آوازاں کنو�
 # access to the same browsing experience when moving from one browser to another.
 # Alternative: ”Improve your browsing experience with tab pickup”
 continuous-onboarding-firefox-view-tab-pickup-title = ٹیب پک اپ نال اپݨی براؤزنگ کوں نروآ کرو۔
+
 continuous-onboarding-firefox-view-tab-pickup-subtitle = کہیں وی ڈیوائس نال اپݨیاں کھلیاں ٹیباں تک پوڄ حاصل کرو۔ نال اپݨیاں نشانیاں، پاس ورڈز، تے ودھیک مطابقت پذیری۔
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = شروع کرو
 
 ## PDF.js Feature Tour Strings
@@ -37,6 +47,7 @@ callout-pdfjs-edit-title = اساݙے نویں متن ٹول نال PDFs تدو�
 callout-pdfjs-edit-body-a = فارم پُر کرو، تبصرے شامل کرو، یا { -brand-short-name } کنوں براہ راست نوٹس گھنو۔
 callout-pdfjs-edit-body-b = مفت آن لائن ایڈیٹر کیتے ڳول کوں چھوڑ ݙیو۔ فارمز پُر کرو، تبصرے شامل کرو، یا { -brand-short-name } وِچ براہ راست نوٹس گھنو۔
 callout-pdfjs-edit-button = اڳلا
+
 callout-pdfjs-draw-title = اساݙے ڈرا ٹول نال دستاویز دستخط کرو
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = PDFs کوں نشان زد کرو، ول اپݨیاں تبدیلیاں ہتھیکڑیاں کرو۔

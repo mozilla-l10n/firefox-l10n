@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = ہتھیکڑے پتے
 autofill-manage-addresses-list-header = پتے
+
 autofill-manage-credit-cards-title = ہتھیکڑے کریڈٹ کارڈز
 autofill-manage-credit-cards-list-header = کریڈٹ کارڈز
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = ہٹاؤ
@@ -21,6 +23,7 @@ autofill-manage-edit-button = تدوین کرو …
 autofill-add-new-address-title = نواں پتہ شامل کرو
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = پتہ تدوین کرو
+
 autofill-address-given-name = پہلا ناں
 autofill-address-additional-name = وچلا ناں
 autofill-address-family-name = چھیکڑی ناں
@@ -81,13 +84,16 @@ autofill-address-eircode = ایرکوڈ
 autofill-address-country = ملک یا علاقہ
 autofill-address-tel = فون
 autofill-address-email = ای میل
+
 autofill-cancel-button = منسوخ
 autofill-save-button = ہتھیکڑا کرو
 autofill-country-warning-message = فارم آٹو فل فی الحال صرف مخصوص ممالک کیتے دستیاب ہے۔
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = نواں کریڈٹ کارڈ شامل کرو۔
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = کریڈٹ کارڈ وِچ ترمیم کرو۔
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔ ایں تلویں ونڈوز اکاؤنٹ رسائی دی تصدیق کرو۔
        *[other] { -brand-short-name } کریڈٹ کارڈ دیاں معلومات ݙکھاوݨ دی کوشش کریندا پئے۔
     }
+
 autofill-card-number = کارڈ دا نمبر
 autofill-card-invalid-number = براہ کرم ہک درست کارڈ نمبر درج کرو۔
 autofill-card-name-on-card = کارڈ تے ناں

@@ -4,6 +4,7 @@
 
 about-reader-loading = لوڈ تھیندا پئے۔۔۔
 about-reader-load-error = ورقہ کنوں مضمون لوڈ کرݨ وِچ ناکام
+
 about-reader-color-scheme-light = پھکا
     .title = رنگ سکیم پھکا
 about-reader-color-scheme-dark = شوخ
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = سیپیا
     .title = رنگ سکیم سیپیا
 about-reader-color-scheme-auto = آٹو
     .title = رنگ سکیم آٹو
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

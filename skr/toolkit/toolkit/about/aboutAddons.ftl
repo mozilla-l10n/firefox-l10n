@@ -3,89 +3,118 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ایڈ ــ آن منیجر
+
 search-header =
     .placeholder = ڳولو addons.mozilla.org
     .searchbuttonlabel = ڳولو
-search-header-shortcut =
-    .key = f
 
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = ایکسٹینشنز تے تھیمز حاصل کرو <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = <a data-l10n-name="get-extensions">{ $domain }</a> تے لغات حاصل کرو
+
 list-empty-get-language-packs-message = <a data-l10n-name="get-extensions">{ $domain }</a> تے لینگویج پیک حاصل کرو۔
 
 ##
 
 list-empty-installed =
     .value = تہاݙے کول ایں ونکی دا کوئی ایڈ آن انسٹال کائنی۔
+
 list-empty-available-updates =
     .value = کوئی اپ ڈیٹاں نہیں لبھیاں
+
 list-empty-recent-updates =
     .value = تساں حالیہ کوئی ایڈ آن اپ ڈیٹ نہیں کیتا۔
+
 list-empty-find-updates =
     .label = اپ ڈیٹاں کیتے چیک کرو
+
 list-empty-button =
     .label = ایڈ-آنز دے متعلق ودھیک ڄاݨو
+
 help-button = ایڈ-آنز سپورٹ
 sidebar-help-button-title =
     .title = ایڈ-آنز سپورٹ
+
 addons-settings-button = { -brand-short-name } ترتیباں
 sidebar-settings-button-title =
     .title = { -brand-short-name } ترتیباں
+
 show-unsigned-extensions-button =
     .label = کجھ ایکسٹینشنز دی تصدیق نہیں تھی سڳی
+
 show-all-extensions-button =
     .label = تمام ایکسٹینشنز ݙکھاؤ۔
+
 detail-version =
     .label = ورشن
+
 detail-last-updated =
     .label = چھیکڑی واری اپ ڈیٹ تھیا
+
 addon-detail-description-expand = ودھیک ݙکھاؤ
 addon-detail-description-collapse = گھٹ ݙکھاؤ
+
 detail-contributions-description = ایں ایڈ آن دا ڈویلپر پچھدا ہے جو تساں تھوڑا جیہاں حصہ پا تے ایندی مسلسل ترقی وِچ مدد کرو۔
+
 detail-contributions-button = تعاون کرو
     .title = ایں ایڈ آن دی ودھک وِچ تعاون کرو
     .accesskey = C
+
 detail-update-type =
     .value = آپݨے آپ اپ ڈیٹاں
+
 detail-update-default =
     .label = طے شدہ
     .tooltiptext = آپݨے آپ اپ ڈیٹاں صرف اوں صورت وِچ انسٹال کرو جݙاں ایہ طے شدہ ہوون
+
 detail-update-automatic =
     .label = چالو کرو
     .tooltiptext = اپ ڈیٹاں آپݨے آپ انسٹال کرو
+
 detail-update-manual =
     .label = بند کرو
     .tooltiptext = اپ ڈیٹا آپݨے آپ انسٹال نہ کرو
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = نجی ونڈوز وِچ چلاؤ
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = نجی ونڈوز میں اجازت کائنی
 detail-private-disallowed-description2 = نجی براؤزنگ دے دوران ایہ ایکسٹینشن نہیں چلدی۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = نجی ونڈوز تائیں رسائی دی ضرورت ہے۔
 detail-private-required-description2 = نجی براؤزنگ دے دوران ایں ایکسٹینشن کوں تہاݙی آن لائن سرگرمیاں تائیں رسائی حاصل ہے۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
+
 detail-private-browsing-on =
     .label = اجازت ݙیو
     .tooltiptext = نجی براؤزنگ وِچ فعال بݨاؤ
+
 detail-private-browsing-off =
     .label = اجازت نہ ݙیوو
     .tooltiptext = نجی براؤزنگ وِچ غیر فعال بݨاؤ
+
 detail-home =
     .label = مکھ پناں
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = ایڈ-آن پروفائل
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = اپ ڈیٹاں کیتے چیک کرو
     .accesskey = U
     .tooltiptext = ایں ایڈ-آن کیتے اپ ڈیٹاں چیک کرو
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -102,30 +131,42 @@ detail-show-preferences =
             [windows] ایں ایڈ آن دے اختیارات تبدیل کرو
            *[other] ایں ایڈ-دیاں ترجیحاں تبدیل کرو
         }
+
 detail-rating =
     .value = ریٹنگ
+
 addon-restart-now =
     .label = ہُݨ ولدا شروع کرو
+
 disabled-unsigned-heading =
     .value = کجھ ایڈ-آنز کوں غیر فعال بݨا ݙتا ڳئے
+
 disabled-unsigned-description =
     { -brand-short-name } وِچ استعمال کیتے ہیٹھ درج ایڈ آنز دی تصدیق نہیں تھئی۔ تساں کر سڳدے او۔
     <label data-l10n-name="find-addons">متبادل ڳولو</label> یا ڈیولپر کنوں ایندی تصدیق کراوݨ کوں آکھو۔
+
 disabled-unsigned-learn-more = تہاکوں آن لائن محفوظ رکھݨ وِچ مدد کیتے اساݙیاں کوششاں دے بارے ودھیک ڄاݨو۔
+
 disabled-unsigned-devinfo =
     اپݨے ایڈ آنز دی تصدیق کراوݨ وِچ دلچسپی رکھݨ والے ڈویلپرز اساݙا پڑھ تے جاری رکھ سڳدے ہن۔
     <label data-l10n-name="learn-more"> دستور العمل</label>۔
+
 plugin-deprecation-description = کجھ یاد آندا پئے؟ کجھ پلگ ان ݨ { -brand-short-name } سے تعاون یافتہ کائنی۔ <label data-l10n-name="learn-more">ودھیک ڄاݨو۔</label>
+
 legacy-warning-show-legacy = لیگیسی ایکسٹینشنز ݙکھاؤ۔
+
 legacy-extensions =
     .value = لیگیسی ایکسٹینشن
+
 legacy-extensions-description = ایہ ایکسٹینشنز موجودہ { -brand-short-name } دے معیار تے پورا نہیں لہندیاں ایں واسطے انہاں کوں غیر فعال کر ݙتا ڳئے۔ <label data-l10n-name="legacy-learn-more">ایڈ آنز وِچ تبدیلیاں دے بارے  ڄاݨو</label>
+
 private-browsing-description2 =
     { -brand-short-name } نجی براؤزنگ وِچ ایکسٹینشنز دے کم کرݨ دا طریقہ تبدیل کریندا پیا ہے۔ کوئی وی نویں ایکسٹینشن جیندے وِچ تشاں شامل کریندے او۔
     { -brand-short-name } پرائیویٹ ونڈوز وِچ بطور ڈیفالٹ کائنا چلسے۔ جے تائیں تساں ترتیباں وِچ ایندی اجازت نہیں ݙیندے۔
     نجی براؤزنگ دے دوران توسیع کم کائنا کریسے، تے تہاݙی آن لائن سرگرمیاں تائیں رسائی کائنا ہوسے۔
     اتھاں. اساں ایہ تبدیلی تہاݙی نجی براؤزنگ کوں نجی رکھݨ کیتے کیتی ہے۔
     <label data-l10n-name="private-browsing-learn-more"> ایکسٹینشن دیاں ترتیباں دا انتظام کرݨ دا طریقہ ڄاݨو</label>
+
 addon-category-discover = سفارشاں
 addon-category-discover-title =
     .title = سفارشاں
@@ -213,35 +254,44 @@ addon-open-about-debugging = ایڈ آنز ڈیبگ کرو
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = ایکسٹینشن دے شارٹ کٹ منظم کرو
     .accesskey = S
+
 shortcuts-no-addons = تہاݙے کول کوئی ایکسٹینشن فعال کائنی۔
 shortcuts-no-commands = ہیٹھ درج ایکسٹینشنز وِچ شارٹ کٹس کائنی:
 shortcuts-input =
     .placeholder = شارٹ کٹ ٹائپ کرو
+
 shortcuts-browserAction2 = ٹول بار دا بٹݨ فعال کرو
 shortcuts-pageAction = ورقے دا عمل فعال کرو
 shortcuts-sidebarAction = سائیڈ بار کوں ٹوگل کرو
+
 shortcuts-modifier-mac = Ctrl، Alt، یا ⌘ شامل کرو۔
 shortcuts-modifier-other = Ctrl یا Alt شامل کرو
 shortcuts-invalid = غلط امتزاج
 shortcuts-letter = ہک خط ٹائپ کرو
 shortcuts-system = { -brand-short-name } شارٹ کٹ کوں اوور رائیڈ نہیں کیتا ونڄ سڳدا
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = ڈپلیکیٹ شارٹ کٹ
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } کوں ہک کنوں زیادہ صورتاں وِچ شارٹ کٹ دے طور تے استعمال کیتا ویندا پیا ہے۔ ڈپلیکیٹ شارٹ کٹ غیر متوقع رویے دا سبب بݨ سڳدے ہن۔
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = پہلے کنوں { $addon } دے زیر استعمال
+
 # Variables:
 #   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] ݙکھاؤ { $numberToShow } ودھیک
     }
+
 shortcuts-card-collapse-button = گھٹ ݙکھاؤ
+
 header-back-button =
     .title = واپس ون٘ڄو
 
@@ -256,12 +306,15 @@ discopane-intro =
     اکثر تریجھے فریق دے ذریعہ تیار کیتا ویندا ہے۔ اتھاں ہک انتخاب ہے { -brand-product-name }
     غیر معمولی کیتے <a data-l10n-name="learn-more-trigger">تجویز کریندا ہے</a>
     سیکورٹی، کارکردگی، تے فعالیت.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     انہاں وِچوں کجھ سفارشاں ذاتی نوعیت دیاں ہن۔ او ٻئے تے مبنی ہن
     ایکسٹینشنز جیڑھیاں انسٹال کیتیا ہن، پروفائل دیاں ترجیحات، تے استعمال دے انگ اکھر۔
 discopane-notice-learn-more = ٻیا سِکھو
+
 privacy-policy = رازداری پالیسی
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -277,6 +330,7 @@ install-theme-button = تھیم انسٹال کرو
 manage-addon-button = بندوبست کرو
 find-more-addons = ودھیک ایڈ آنز لبھو
 find-more-themes = ودھیک تھیمز لبھو
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -302,47 +356,49 @@ preferences-addon-button =
 details-addon-button = تفصیلاں
 release-notes-addon-button = ریلیز نوٹ
 permissions-addon-button = اجازتاں
+
 extension-enabled-heading = فعال تھیا
 extension-disabled-heading = غیرفعال تھیا
+
 theme-enabled-heading = فعال تھیا
-theme-disabled-heading = غیرفعال تھیا
 theme-disabled-heading2 = ہتھکڑے تھئے تھیم
-theme-monochromatic-heading = کلروے
-theme-monochromatic-subheading = { -brand-product-name } کنوں متحرک رنگ ویز۔ محدود وقت کیتے دستیاب ہے۔
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = کلر ویز ازماؤ
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = کلر وے تبدیل کرو
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = زائد المیعاد { DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = فعال تھیا
 plugin-disabled-heading = غیرفعال تھیا
+
 dictionary-enabled-heading = فعال تھیا
 dictionary-disabled-heading = غیرفعال تھیا
+
 locale-enabled-heading = فعال تھیا
 locale-disabled-heading = غیرفعال تھیا
+
 sitepermission-enabled-heading = فعال تھیا
 sitepermission-disabled-heading = غیرفعال تھیا
+
 always-activate-button = ہمیشاں فعال کرو
 never-activate-button = کݙاہیں فعال نہ کرو
+
 addon-detail-author-label = مصنف
 addon-detail-version-label = ورشن
 addon-detail-last-updated-label = چھیکڑی واری اپ ڈیٹ تھیا
 addon-detail-homepage-label = مکھ پناں
 addon-detail-rating-label = ریٹنگ
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = ایہ توسیع ایں ویلھے اپ ڈیٹ تھی ویسے جݙاں { -brand-short-name } دوبارہ شروع تھیسے۔
 install-postponed-button = ہݨ ابڈیٹ کرو
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = 5 وِچوں { NUMBER($rating, maximumFractionDigits: 1) } دا درجہ ݙتا ڳیا ہے۔
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (غیر فعال شدہ)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -358,12 +414,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ہٹا ݙتا ڳیا ہے۔
 pending-uninstall-undo-button = کیتا اݨ کیتا
+
 addon-detail-updates-label = آپوں آپ اپ ڈیٹاں دی اجازت ݙیوو
 addon-detail-updates-radio-default = ڈیفالٹ
 addon-detail-updates-radio-on = چالو
 addon-detail-updates-radio-off = بند
 addon-detail-update-check-label = اپڈیٹاں کیتے ݙیکھو
 install-update-button = اپ ڈیٹ کرو
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -372,6 +430,9 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = اجازت ملݨ تے، ایکسٹینشن کوں نجی براؤزنگ دے دوران تہاݙی آن لائن سرگرمیاں تائیں رسائی حاصل تھیس۔ <a data-l10n-name="learn-more">ودھیک ڄاݨو</a>
 addon-detail-private-browsing-allow = اجازت ݙیوو
 addon-detail-private-browsing-disallow = اجازت نہ ݙیوو
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -392,17 +453,22 @@ addon-badge-verified2 =
 
 available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ اپ ڈیٹاں
+
 release-notes-loading = لوڈ تھیندا پئے۔۔۔
 release-notes-error = معذرت، پر ریلیز نوٹس لوڈ کرݨ وِچ ہک خرابی ہئی۔
+
 addon-permissions-empty = ایں توسیع کوں کہیں اجازت دی لوڑ کائنی۔
 addon-permissions-required = بنیادی فعالیت کیتے درکار اجازتاں:
 addon-permissions-optional = اختیاری فعالیت کیتے اختیاری اجازتاں:
 addon-permissions-learnmore = اجازتاں بارے ٻیا سکھو
+
 recommended-extensions-heading = تجویز کردہ ایکسٹینشنز
 recommended-themes-heading = تجویز کردہ تھیمز
+
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> کوں ہیٹھ درج صلاحیتاں فراہم کریندا ہے:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = تخلیقی محسوس کریندے پئے او؟ <a data-l10n-name="link">Firefox Color دے نال اپݨا تھیم بݨاؤ۔</a>
@@ -418,9 +484,11 @@ updates-heading = آپݨے اپ ڈیٹاں دا بندوبست کرو
 sitepermission-heading = آپݨی سائٹ اجازتاں دا بندوبست کرو
 discover-heading = اپݨے { -brand-short-name } کوں ذاتی بݨاؤ
 shortcuts-heading = ایکسٹینشن شارٹ کٹس کوں منظم کرو۔
+
 default-heading-search-label = ودھیک ایڈ انز لبھو
 addons-heading-search-input =
     .placeholder = addons.mozilla.org ڳولو
+
 addon-page-options-button =
     .title = تمام ایڈ آنز کیتے ٹولز
 
@@ -437,12 +505,17 @@ addon-page-options-button =
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } نال مطابقت نہیں رکھیندا۔
 details-notification-incompatible-link = ودھیک معلومات
+
 details-notification-unsigned-and-disabled = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-unsigned-and-disabled-link = ودھیک معلومات
+
 details-notification-unsigned = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی۔ احتیاط نال اڳو تے ودھو.
 details-notification-unsigned-link = ودھیک معلومات
+
 details-notification-blocked = سیکیورٹی یا استحکام دے مسائل دی وجہ توں { $name } کوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-blocked-link = ودھیک معلومات
+
 details-notification-softblocked = { $name } سیکورٹی یا استحکام دے مسائل کیتے ڄاتا ویندا ہے۔
 details-notification-softblocked-link = ودھیک معلومات
+
 details-notification-gmp-pending = { $name } ستت انسٹال کر ݙتا ویسے۔

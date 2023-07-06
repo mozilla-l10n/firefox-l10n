@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = لاگ ان تے پاس ورڈ
-login-filter =
-    .placeholder = لاگ ان ڳولو
-create-login-button = نواں لاگ ان بݨاؤ
+
 about-logins-login-filter =
     .placeholder = لاگ ان ڳولو
     .key = F
+
 create-new-login-button =
     .title = نواں لاگ ان بݨاؤ
+
 fxaccounts-sign-in-text = اپݨے پاسورڈز ٻئے آلات تے حاصل کرو
 fxaccounts-sign-in-sync-button = ہم وقت کرݨ کیتے سائن ان تھیوو
 fxaccounts-avatar-button =
@@ -111,9 +111,6 @@ login-item-copied-password-button-text = نقل تھی ڳیا!
 login-item-save-changes-button = تبدیلیاں محفوظ کرو
 login-item-save-new-button = محفوظ
 login-item-cancel-button = منسوخ
-login-item-time-changed = { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") } :چھیکڑی واری ترمیم تھیا
-login-item-time-created = { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") } :تشکیل ݙتا ڳیا
-login-item-time-used = چھیکڑی ورتیا ڳیا:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -139,16 +136,19 @@ about-logins-edit-login-os-auth-dialog-message-win = اپݨے لاگ ان وِچ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ تھئے لاگ ان وچ تبدیلی کرو
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = اپݨا پاس ورڈ ݙیکھݨ کیتے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = سوگھے پاس ورڈ کوں ظاہر کرو
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = اپݨا پاس ورڈ کاپی کرݨ کیتے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ تھئے پاس ورڈ نقل کرو
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = اپݨے لاگ ان برآمد کرݨ سانگے، اپݨے ونڈوز لاگ ان دیاں سنداں درج کرو۔ ایندے نال تہاݙے اکاؤنٹس دی حفاظت وِچ مدد ملدی ہے۔
 # This message can be seen when attempting to export a password in about:logins
@@ -167,6 +167,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = منسوخ
 confirmation-dialog-dismiss-button =
     .title = منسوخ
+
 about-logins-confirm-remove-dialog-title = ایہ لاگ ان ہٹاؤں؟
 confirm-delete-dialog-message = ایہ عمل آیا ون٘ڄایا نئیں تھی سڳدا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹاؤ
@@ -180,12 +181,14 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] ہٹاؤ
        *[other] سارے ہٹاؤ
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] جیا، ایہ لاگ ان ہٹاؤ
         [one] جیا، ایہ لاگ ان ہٹاؤ
        *[other] جیا، ایہ لاگ اناں ہٹاؤ
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] سبھے { $count } لاگ ان ہٹا ݙیوں؟
@@ -196,6 +199,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] ایہ ایں لاگ ان کوں ہٹا ݙیسے جینکوں تساں { -brand-short-name } وِچ ہتھیکڑا کیتا ہے تے خلاف ورزی دیاں چتاوݨیاں جیڑھیاں اتھاں ظاہر تھیسن۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
        *[other] ایہ ان لاگ انز کوں ہٹا ݙیسے جیڑھے تساں { -brand-short-name } وِچ ہتھیکڑے کیتے ہن تے خلاف ورزی دیاں چتاوݨیاں جیڑھیاں اتھاں ظاہر تھیسن۔ تساں ایں کارروائی کوں کالعدم نہ کر سڳسو۔
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } لاگ ان سبھ آلات کنوں ہٹا ݙیوں؟
@@ -212,8 +216,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = لاگ ان تے پاس ورڈ برآمد کرو
 about-logins-confirm-export-dialog-message = تہاݙے پاس ورڈز کوں پڑھݨ دے قابل متن دے طور تے ہتھیکڑا کیتا ویسے ( مثلاً (e.g., BadP@ssw0rd)  تاں جو جیڑھا وی برآمد شدہ فائل کوں کھول سڳدا ہے وہ انہاں کوں ݙیکھ سڳے۔
 about-logins-confirm-export-dialog-confirm-button = برآمد کرو…
+
 about-logins-alert-import-title = درآمد مکمل تھئی
 about-logins-alert-import-message = درآمد دا تفصیلی خلاصہ ݙیکھو
+
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ہٹا ݙیوں؟
 confirm-discard-changes-dialog-message = سبھے غیر محفوظ شدہ تبدیلیاں ختم تھی ویسن۔
 confirm-discard-changes-dialog-confirm-button = کڈھ سٹو
@@ -226,7 +232,6 @@ about-logins-breach-alert-date = ایہ خلاف ورزی { DATETIME($date, day:
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } تے ون٘ڄو
-about-logins-breach-alert-learn-more-link = ٻیا سِکھو
 
 ## Vulnerable Password notification
 
@@ -244,6 +249,7 @@ about-logins-vulnerable-alert-learn-more-link = ٻیا سِکھو
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ایں صارف ناں دے نال { $loginTitle } کیتے ہک اندراج پہلے کنوں موجود ہے۔ <a data-l10n-name="duplicate-link"> موجودہ اندراج تے ونڄو؟ </a>
+
 # This is a generic error message.
 about-logins-error-message-default = ایں پاس ورڈ کوں سوگھا کرݨ دی کوشش کریندے ویلھے ہک نقص پیش آڳیا۔
 
@@ -292,11 +298,13 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>نویں لاگ ان شامل تھئے:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>موجودہ لاگ ان اپ ڈیٹ تھئی:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>موجودہ لاگ اناں اپ ڈیٹ تھیاں:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>ڈپلیکیٹ لاگ ان لبھا:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھیا)</span>
@@ -308,6 +316,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>خرابیاں:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(امپورٹ کائنی تھئے)</span>
     }
 about-logins-import-dialog-done = تھی ڳیا
+
 about-logins-import-dialog-error-title = درآمد وِچ نقص
 about-logins-import-dialog-error-conflicting-values-title = ہک لاگ ان کیتے متعدد متضاد قدراں
 about-logins-import-dialog-error-conflicting-values-description = مثال دے طور تے: ہک لاگ ان کیتے کئی سارے صارف ناں، پاس ورڈ، URLs وغیرہ۔
@@ -321,8 +330,10 @@ about-logins-import-dialog-error-no-logins-imported = کوئی لاگ ان ام�
 about-logins-import-dialog-error-learn-more = ٻیا سِکھو
 about-logins-import-dialog-error-try-import-again = ولا درآمد کرݨ دی کوشش کرو…
 about-logins-import-dialog-error-cancel = منسوخ
+
 about-logins-import-report-title = درآمد دا خلاصہ
 about-logins-import-report-description = لاگ انز تے پاس ورڈس { -brand-short-name } تے برآمد کیتے ڳئے ہن
+
 #
 # Variables:
 #  $number (number) - The number of the row

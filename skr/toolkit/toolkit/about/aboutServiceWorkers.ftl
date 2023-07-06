@@ -9,6 +9,7 @@ about-service-workers-title = خدمت کارکناں بارے
 about-service-workers-main-title = رجسٹر تھئے خدمت کارکن
 about-service-workers-warning-not-enabled = سروس ورکرز فعال کائنی
 about-service-workers-warning-no-service-workers = کوئی سروس ورکر رجسٹرڈ کائنی
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>فعال کیشے دا ناں:</strong> { $name }
 waiting-cache-name = <strong>انتظاری کیشے دا ناں:</strong> { $name }
 push-end-point-waiting = <strong>پش اینڈ پوائنٹ:</strong> { waiting }
 push-end-point-result = <strong>پش اینڈ پوائنٹ:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = اپ ڈیٹ کرو
+
 unregister-button = ریجسٹریشن ختم کرو
+
 unregister-error = ایں سروس ورکر دا اندرج ختم کرݨ وِچ ناکام۔
+
 waiting = انتظار کریندا پیا ہے۔۔

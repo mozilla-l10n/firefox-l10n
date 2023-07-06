@@ -14,13 +14,6 @@ onboarding-welcome-header = { -brand-short-name } وِچ جی آیاں کوں
 onboarding-start-browsing-button-label = براؤزنگ شروع کرو
 onboarding-not-now-button-label = ہݨ کائناں
 mr1-onboarding-get-started-primary-button-label = شروع کرو
-mr1-onboarding-welcome-header = { -brand-short-name } اِچ جی آیاں کوں
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } کوں میݙا منڈھلا براؤزر بݨاؤ
-    .title = { -brand-short-name } کوں بطور ڈیفالٹ براؤزر سیٹ کرو تے ٹاسک بار دو پن کرو
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کوں میݙا ڈیفالٹ براؤزر بݨاؤ
-mr1-onboarding-set-default-secondary-button-label = ہݨ کائناں
 
 ## Custom Return To AMO onboarding strings
 
@@ -45,48 +38,16 @@ mr1-return-to-amo-add-extension-label = { $addon-name } شامل کرو
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = شروع تھیندا پئے: سکرین { $current } دا { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = بھاء اتھوں شروع تھیندی ہے
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = سورایا اوسوریو - فرنیچر ڈیزائنر، فائر فاکس دا پرستار
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = پیش رفت: مرحلہ { $current } دا { $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = متحرک تصویراں بند کرو
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] آسان رسائی کیتے { -brand-short-name } اپݨی ڈاک وِچ رکھو
-       *[other] آسان رسائی کیتے { -brand-short-name } کون اپݨے ٹاسک بار وِچ پن کرو
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] ڈاک اِچ رہو
-       *[other] ٹاسک بار اِچ پن کرو
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -96,44 +57,25 @@ mr1-onboarding-sign-in-button-label = سائن ان تھیوو
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = { -brand-short-name } کوں اپݨا طے شدہ براؤزر بݨاو
-mr1-onboarding-default-subtitle = رفتار، حفاظت تے رازداری کوں آٹو پائلٹ تے رکھو۔
-mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بݨاؤ
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = ایہ سبھ کجھ اپݨے نال آنو
-mr1-onboarding-import-subtitle = اپݨے پاس ورڈ، <br/> نشانیاں، تے ٻہوں کجھ۔
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } کنوں درآمد کرو
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = پچھلے براؤزر کنوں درآمد کرو
-mr1-onboarding-import-secondary-button-label = ہݨ کائناں
-mr2-onboarding-colorway-header = رنگیل حیاتی
-mr2-onboarding-colorway-subtitle = متحرک نویں کلر ویز۔ محدود مدت کیتے دستیاب ہن۔
-mr2-onboarding-colorway-primary-button-label = کلر وے ہتھیکڑا کرو
-mr2-onboarding-colorway-secondary-button-label = ہݨ کائناں
-mr2-onboarding-colorway-label-soft = نرم
-mr2-onboarding-colorway-label-balanced = متوازن
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = حوصلہ
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = آٹو
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = ڈیفالٹ
+
 mr1-onboarding-theme-header = اینکوں اپݨا بݨاؤ
 mr1-onboarding-theme-subtitle = ہک تھیم دے نال { -brand-short-name } کوں ذاتی بݨاؤ۔
-mr1-onboarding-theme-primary-button-label = تھیم ہتھیکڑا کرو
 mr1-onboarding-theme-secondary-button-label = ہݨ کائناں
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = نظام تھیم
+
 mr1-onboarding-theme-label-light = پھکا
 mr1-onboarding-theme-label-dark = شوخ
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = ایلپینگلو
+
 onboarding-theme-primary-button-label = تھی ڳیا
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -144,51 +86,39 @@ onboarding-theme-primary-button-label = تھی ڳیا
 # Tooltip displayed on hover of system theme
 mr1-onboarding-theme-tooltip-system =
     .title = آپریٹنگ سسٹم دے تھیم تے عمل کرو۔ بٹݨ، مینو تے ونڈوز کیتے
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description = آپریٹنگ سسٹم تھیم تے عمل کرو۔ بٹݨ، مینوز تے ونڈوز کیتے۔
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title = بٹݨ، مینوز  تے ونڈوز کیتے ہلکا پھلکا تھیم استعمال کرو۔
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description = بٹݨ، مینوز تے ونڈوز کیتے ہلکا پھلکا تھیم استعمال کرو
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title = بٹݨ، مینوز تے ونڈوز کیتے گھاٹا تھیم استعمال کرو۔
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description = بٹݨ، مینوز تے ونڈوز کیتے گھاٹا تھیم استعمال کرو۔
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         بٹݨ، مینوز تے 
         ونڈوز کیتے ہک متحرک، رنگیل تھیم استعمال کرو۔
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         بٹݨ، مینوز تے
          ونڈوز کیتے متحرک، رنگیل تھیم استعمال کرو۔
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = ایہ کلر وے استعمال کرو
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = ایہ کلر وے استعمال کرو۔
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = کلر ویز{ $colorwayName } دی پٹ پھلور کرو۔
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = کلر ویز{ $colorwayName } دی پٹ پھلور کرو۔
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = طے شدہ تھیمز دی پٹ پھلور کرو۔
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = طے شدہ تھیمز دی پٹ پھلور کرو۔
 
@@ -216,13 +146,18 @@ mr2-onboarding-start-browsing-button-label = براؤزنگ شروع کرو
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = اپݨی زبان چݨو
+
 mr2022-onboarding-live-language-text = { -brand-short-name } اپݨی زبان الاؤ
+
 mr2022-language-mismatch-subtitle = اساݙی بیادری دا شکریہ، { -brand-short-name } دا 90 کنوں زیادہ زباناں وِچ ترجمہ کیتا ڳیا ہے۔ ایویں لڳدا ہے جو تہاݙا سسٹم { $systemLanguage } استعمال کریندا پیا ہے، تے { -brand-short-name } { $appLanguage } استعمال کریندا پیا ہے۔
+
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } کیتے لینگویج پیک ڈاؤن لوڈ تھیندا پیا ہے …
 onboarding-live-language-waiting-button = دستیاب زباناں حاصل کریندا پیا ہے …
 onboarding-live-language-installing = { $negotiatedLanguage } کیتے لینگویج پیک انسٹال تھیندا پیا ہے …
+
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } تے ونڄو
 mr2022-onboarding-live-language-continue-in = { $appLanguage } اِچ جاری رکھو
+
 onboarding-live-language-secondary-cancel-download = منسوخ
 onboarding-live-language-skip-button-label = چھوڑو
 
@@ -245,12 +180,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name } ڈاک وِچ رکھو
        *[other] { -brand-short-name } تے دو پن کرو
     }
+
 fx100-upgrade-thanks-header = 100 تہاݙا شکریہ
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = ایہ اساݙی { -brand-short-name } دی سوویں ریلیز ہے۔ہک بہتر تے نروآ انٹرنیٹ بݨاوݨ وِچ تہاݙے تعاون واسے <em> تہاݙا </em> شکریہ
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = ایہ اساݙی سوویں ریلیز ہے! اساݙی کمیونٹی دا حصہ بݨݨ تے تہاݙا شکریہ۔ { -brand-short-name } تے رہو اڳلا 100 ہک کلک دی دوری تے ہے۔
+
 mr2022-onboarding-secondary-skip-button-label = ایں مرحلے کوں چھوڑو
 
 ## MR2022 New User Easy Setup screen strings
@@ -327,30 +264,37 @@ mr2022-onboarding-colorway-title = او رنگ چݨو جیڑھا تہاکوں ب
 mr2022-onboarding-colorway-subtitle = آزاد آوازاں ثقافت تبدیل کر سڳدیاں ہن
 mr2022-onboarding-colorway-primary-button-label-continue = سیٹ کرو تے جاری رکھو
 mr2022-onboarding-existing-colorway-checkbox-label = اپݨا { -firefox-home-brand-name } ہوم پیج رنگین بݨاؤ
+
 mr2022-onboarding-colorway-label-default = ڈیفالٹ
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = موجودہ { -brand-short-name } رنگ
 mr2022-onboarding-colorway-description-default = <b> میݙا موجودہ { -brand-short-name } رنگ استعمال کرو </b>
+
 mr2022-onboarding-colorway-label-playmaker = پلے میکر
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = پلے میکر (رتا)
 mr2022-onboarding-colorway-description-playmaker = <b>تساں ہک پلے میکر او۔ </b> تساں جیتݨ دے موقعے پیدا کریندے او اتے اپݨے آڑے پاڑے دے ہر ڄݨے کوں انہاں دے کھیݙ کوں اُچا کرݨ وِچ مدد کریندے او۔
+
 mr2022-onboarding-colorway-label-expressionist = اظہار خیال کرݨ والا
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = اظہار خیال کرݨ والا (پیلا)
 mr2022-onboarding-colorway-description-expressionist = <b>تساں ہک اظہار پسند او۔ </b> تساں دنیا کوں مختلف انداز نال ݙیکھدے او تے تہاݙیاں بݨتراں ٻنہاں دے جذبات کوں ابھریندیاں ہن۔
+
 mr2022-onboarding-colorway-label-visionary = وژنری
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = وژنری (ساوا)
 mr2022-onboarding-colorway-description-visionary = <b> تساں ہک وژنری او۔ </b> تساں جمود تے سوال کریندے او تے ٻنہاں کوں بہتر مستقبل دا تصور کرݨ دی تحریک ݙیندے او۔
+
 mr2022-onboarding-colorway-label-activist = کارکن
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = کارکن (نیلا)
 mr2022-onboarding-colorway-description-activist = <b> تساں ہک سرگرم کارکن او۔ </b> تساں دنیا کوں ایں کنوں بہتر جھاہ چھوڑیندے او جیویں تہاکوں ملی ہئی تے ٻنہاں کوں یقین کرݨ دی رہنمائی کرو۔
+
 mr2022-onboarding-colorway-label-dreamer = خواب ݙیکھݨ والا
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = خواب ݙیکھݨ والا (ڄامنی)
 mr2022-onboarding-colorway-description-dreamer = <b> تساں خواب ݙیکھݨ والے او۔ </b> تہاکوں یقین ہے جو قسمت دلیراں دی حمایت کریندی ہے تے ٻنہاں کوں دلیر بݨݨ دی ترغیب ݙیندی ہے۔
+
 mr2022-onboarding-colorway-label-innovator = اختراع کرݨ والا
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = اختراع کرݨ والا (نارنجی)

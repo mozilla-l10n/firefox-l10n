@@ -131,12 +131,6 @@ about-telemetry-category-header = ونکی
 about-telemetry-method-header = طریقہ
 about-telemetry-object-header = شئے
 about-telemetry-extra-header = وادھوں
-about-telemetry-origin-section = اصل ٹیلی میٹری
-about-telemetry-origin-origin = اصل
-about-telemetry-origin-count = ڳݨتری کرو
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">فائر فاکس اوریجن ٹیلی میٹری</a> ڈیٹا کوں بھیڄے ونڄݨ کنوں پہلے انکوڈ کریندا ہے تاں جو { $telemetryServerOwner } چیزاں کوں ڳݨ سڳے، لیکن ایہ نہیں معلوم جو کوئی ݙتا ڳیا { -brand-product-name } ایں ڳݨتری وِچ تعاون کیتا ہے۔ (<a data-l10n-name="prio-blog-link">ودھیک ڄاݨو</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } عمل

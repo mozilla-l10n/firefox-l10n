@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = ایکسٹینشن ڈیٹا کوں پڑھ تے تبدیل نئیں کر سڳدی
+
 origin-controls-quarantined =
     .label = ایکسٹینشن کوں ڈیٹا  پڑھݨ تے تبدیل کرݨ دی اجازت کائنی
+
 origin-controls-options =
     .label = ایکسٹینشن ڈیٹا کوں پڑھ تے تبدیل کر سڳدی ہے:
+
 origin-controls-option-all-domains =
     .label = تمام سائٹس تے
+
 origin-controls-option-when-clicked =
     .label = صرف کلک کرݨ تے
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ایں سائٹ تے ڈیٹا کوں پڑھ تے تبدیل نوہے کر سڳدے
+
 origin-controls-state-quarantined = ایں سائٹ تے { -vendor-short-name } ولوں اجازت کائنی
+
 origin-controls-state-always-on = ایں سائٹ تے ڈیٹا کوں ہمیشاں پڑھ تے تبدیل کر سڳدے او۔
+
 origin-controls-state-when-clicked = ڈیٹا کوں پڑھݨ تے تبدیل کرݨ کیتے اجازت درکار ہے۔
+
 origin-controls-state-hover-run-visit-only = صرف ایں دورے کیتے بھڄو
+
 origin-controls-state-runnable-hover-open = ایکسٹینشن کھولو
+
 origin-controls-state-runnable-hover-run = ایکسٹینشن چلاؤ
+
 origin-controls-state-temporary-access = ایں دورے کیتے ڈیٹا پڑھ تے تبدیل کر سڳدے او۔
 
 ## Extension's toolbar button.
@@ -44,11 +56,13 @@ origin-controls-state-temporary-access = ایں دورے کیتے ڈیٹا پڑ�
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle } اجازت درکار ہے
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

@@ -10,6 +10,7 @@
 
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = ڈیبگنگ - سیٹ اپ
+
 # Page title (ie tab title) for the Runtime page
 # { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
 about-debugging-page-title-runtime-page = ڈیبگنگ - رن ٹائم / { $selectedRuntimeId }
@@ -19,42 +20,56 @@ about-debugging-page-title-runtime-page = ڈیبگنگ - رن ٹائم / { $sele
 # Display name of the runtime for the currently running instance of Firefox. Used in the
 # Sidebar and in the Setup page.
 about-debugging-this-firefox-runtime-name = ایہ { -brand-shorter-name }
+
 # Sidebar heading for selecting the currently running instance of Firefox
 about-debugging-sidebar-this-firefox =
     .name = { about-debugging-this-firefox-runtime-name }
+
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = سیٹ اپ
+
 # Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
 about-debugging-sidebar-usb-enabled = USB فعال کرو
+
 # Text displayed in the about:debugging sidebar when USB devices discovery is disabled
 # (for instance because the mandatory ADB extension is not installed).
 about-debugging-sidebar-usb-disabled = USB غیر فعال کرو
+
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = جڑیا ہویا
 # Connection status (disconnected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-disconnected = منقطع
+
 # Text displayed in the about:debugging sidebar when no device was found.
 about-debugging-sidebar-no-devices = کوئی آلہ دریافت نہیں تھیا
+
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
 about-debugging-sidebar-item-connect-button = جڑو
+
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = جوڑیندا پیا ہے …
+
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = رابطہ ناکام ریہا
+
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = کنکشن ہݨ وی زیر التوا ہے، ٹارگٹ براؤزر تے سنیہے چیک کرو۔
+
 # Text displayed as connection error in sidebar item when the connection has timed out.
 about-debugging-sidebar-item-connect-button-connection-timeout = کنکش دا ویلھا ختم تھی ڳیا
+
 # Text displayed in sidebar items for remote devices where a compatible browser (eg
 # Firefox) has not been detected yet. Typically, Android phones connected via USB with
 # USB debugging enabled, but where Firefox is not started.
 about-debugging-sidebar-runtime-item-waiting-for-browser = براؤزر دا انتظار تھیندا پیا ہے …
+
 # Text displayed in sidebar items for remote devices that have been disconnected from the
 # computer.
 about-debugging-sidebar-runtime-item-unplugged = ان پلگ تھی ڳئے
+
 # Title for runtime sidebar items that are related to a specific device (USB, WiFi).
 about-debugging-sidebar-runtime-item-name =
     .title = { $displayName } ({ $deviceName })
@@ -62,13 +77,16 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+
 # Text to show in the footer of the sidebar that links to a help page
 # (currently: https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/)
 about-debugging-sidebar-support = ڈیبگنگ سپورٹ
+
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
     .alt = مدد دا آئیکن
+
 # Text displayed in a sidebar button to refresh the list of USB devices. Clicking on it
 # will attempt to update the list of devices displayed in the sidebar.
 about-debugging-refresh-usb-devices-button = ڈیوائساں ریفریش کرو
@@ -77,61 +95,83 @@ about-debugging-refresh-usb-devices-button = ڈیوائساں ریفریش کر�
 
 # Title of the Setup page.
 about-debugging-setup-title = سیٹ اپ
+
 # Introduction text in the Setup page to explain how to configure remote debugging.
 about-debugging-setup-intro = کنکشن دا او طریقہ ترتیب ݙیو جیندے نال تساں اپݨے آلے کوں پرے کنوں ڈیبگ کرݨ چاہندے او۔
+
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = { -brand-shorter-name } دے ایں ورژن تے ایکسٹینشنز تے سروس ورکرز کوں ڈیبگ کرݨ کیتے <a>{ about-debugging-this-firefox-runtime-name }</a> استعمال کرو۔
+
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = ہک آلہ جوڑو
+
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+
 # Explanatory text displayed in the Setup page when USB debugging is disabled
 about-debugging-setup-usb-disabled = اینکوں فعال کرݨ نال مطلوبہ Android USB ڈیبگنگ اجزاء ڈاؤن لوڈ تھی ویسن تے { -brand-shorter-name } وِچ شامل تھی ونڄو۔
+
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = USB ڈیوائساں کوں فعال بݨاؤ
+
 # Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
 about-debugging-setup-usb-disable-button = USB ڈیوائساں کوں غیر فعال بݨاؤ
+
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = اپ ڈیٹ تھیندا پئے۔۔۔
+
 # USB section of the Setup page (USB status)
 about-debugging-setup-usb-status-enabled = فعال تھیا
 about-debugging-setup-usb-status-disabled = غیرفعال تھیا
 about-debugging-setup-usb-status-updating = اپ ڈیٹ تھیندا پئے۔۔۔
+
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = اپݨے Android ڈیوائس تے ڈیولپر مینیو کوں فعال کرو۔
+
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug2 = اینڈرائیڈ ڈویلپر مینیو وِچ USB ڈیبگنگ کوں فعال کرو۔
+
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-debug-firefox2 = اینڈرائیڈ ڈیوائس تے فائر فاکس وِچ USB ڈیبگنگ کوں فعال بݨاؤ۔
+
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = اینڈرائیڈ ڈیوائس کوں اپݨے کمپیوٹر نال جوڑو۔
+
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-to-a-remote-device
 about-debugging-setup-usb-troubleshoot = USB ڈیوائس نال منسلک تھیوݨ وِچ مسائل؟ <a>مسئلہ حل کرو</a>
+
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = نیٹ ورک دا مقام
+
 # Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#connecting-over-the-network
 about-debugging-setup-network-troubleshoot = نیٹ ورک لوکیشن دے ذریعے جڑݨ وِچ دشواری؟ <a>مسئلہ حل کرو</a>
+
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = شامل کرو
+
 # Text to display when there are no locations to show.
 about-debugging-network-locations-empty-text = ہݨ تک کوئی نیٹ ورک مقامات شامل نہیں کیتے ڳئے۔
+
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
 about-debugging-network-locations-host-input-label = ہوسٹ
+
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = ہٹاؤ
+
 # Text used as error message if the format of the input value was invalid in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
 about-debugging-network-location-form-invalid = غلط میزبان "{ $host-value }"۔ متوقع فارمیٹ "میزبان ناں :پورٹ نمبر" ہے۔
+
 # Text used as error message if the input value was already registered in the network locations form of the Setup page.
 # Variables:
 #   $host-value (string) - The input value submitted by the user in the network locations form
@@ -162,21 +202,26 @@ about-debugging-runtime-other-workers =
 # Title of the processes category.
 about-debugging-runtime-processes =
     .name = عوامل
+
 # Label of the button opening the performance profiler panel in runtime pages for remote
 # runtimes.
 about-debugging-runtime-profile-button2 = پروفائل دی کارکردگی
+
 # This string is displayed in the runtime page if the current configuration of the
 # target runtime is incompatible with service workers. "Learn more" points to:
 # https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/index.html#service-workers-not-compatible
 about-debugging-runtime-service-workers-not-compatible = تہاݙے براؤزر دی ترتیب سروس ورکرز دے نال مطابقت نہیں رکھیندی۔ <a>ودھیک ڄاݨو</a>
+
 # This string is displayed in the runtime page if the remote browser version is too old.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
 about-debugging-browser-version-too-old = منسلک براؤزر دا ہک پراݨا ورژن ہے ({ $runtimeVersion })۔ کم از کم تعاون یافتہ ورژن ({ $minVersion }) ہے۔ ایہ ہک غیر تعاون یافتہ سیٹ اپ ہے تے ایہ DevTools دے ناکام تھیوݨ دا سبب بن سڳدا ہے۔ براہ مہربانی منسلک براؤزر کوں اپ ڈیٹ کرو۔ <a>مسئلہ حل کرݨ </a>
+
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Firefox دا ایہ ورژن Firefox for Android (68) کوݨ ڈیبگ نہیں کر سڳدا۔ اساں جانچ کیتے تہاݙے فون تے Android Nightly کیتے Firefox انسٹال کرݨ دی تجویز کریندے او۔ <a>ودھیک تفصیلاں</a>
+
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -184,21 +229,27 @@ about-debugging-browser-version-too-old-fennec = Firefox دا ایہ ورژن Fi
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
 about-debugging-browser-version-too-recent = منسلک براؤزر تہاݙے { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) کنوں زیادہ حالیہ ({ $runtimeVersion }, buildID { $runtimeID }) ہے۔ ایہ ہک غیر تعاون یافتہ سیٹ اپ ہے تے ایہ DevTools دے ناکام تھیوݨ دا سبب بݨ سڳدا ہے۔ براہ مہربانی فائر فاکس کوں اپ ڈیٹ کرو۔ <a>مسئلہ حل کرݨ</a>
+
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
 about-debugging-runtime-name = { $name } ({ $version })
+
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = کنکشن توڑو
+
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is false on the target runtime.
 about-debugging-connection-prompt-enable-button = کنکشن پرامپٹ کوں فعال کرو۔
+
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is true on the target runtime.
 about-debugging-connection-prompt-disable-button = کنکشن پرامپٹ کوں غیر فعال کربݨاؤ۔
+
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = پروفائلر
+
 # Clicking on the header of a debug target category will expand or collapse the debug
 # target items in the category. This text is used as ’title’ attribute of the header,
 # to describe this feature.
@@ -209,115 +260,142 @@ about-debugging-collapse-expand-debug-targets = غائب کرو/ وسیع کرو
 # Displayed in the categories of "runtime" pages that don't have any debug target to
 # show. Debug targets depend on the category (extensions, tabs, workers...).
 about-debugging-debug-target-list-empty = فی الحال کجھ کائنی
+
 # Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = جانچ کرو
+
 # Text of a button displayed in the "This Firefox" page, in the Temporary Extension
 # section. Clicking on the button will open a file picker to load a temporary extension
 about-debugging-tmp-extension-install-button = عارضی ایڈ آن شامل کرو …
+
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
 about-debugging-tmp-extension-install-error = عارضی ایڈ آن انسٹالیشن دے دوران ہک خرابی تھی ڳئی۔
+
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = ولدا لوڈ کرو
+
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will uninstall the extension and remove it from the page.
 about-debugging-tmp-extension-remove-button = ہٹاؤ
+
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will forcefully terminate the extension background script (button
 # only visible in extensions that includes a non-persistent background script, either an
 # event page or a background service worker).
 about-debugging-tmp-extension-terminate-bgscript-button = پس منظر دے سکرپٹ کوں ختم کرو۔
+
 # Message displayed in the file picker that opens to select a temporary extension to load
 # (triggered by the button using "about-debugging-tmp-extension-install-button")
 # manifest.json .xpi and .zip should not be localized.
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = manifest.json فائل یا .xpi/.zip آرکائیو منتخب کرو۔
+
 # This string is displayed as a message about the add-on having a temporaryID.
 about-debugging-tmp-extension-temporary-id = ایں WebExtension دی ہک عارضی ID ہے۔ <a>ودھیک ڄاݨو</a>
+
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =
     .label = مینی فیسٹ URL
+
 # Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
 # UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
 about-debugging-extension-uuid =
     .label = اندرونی UUID
+
 # Text displayed for extensions (temporary extensions only) in "runtime" pages, before
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = مقام
+
 # Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
 # For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
 about-debugging-extension-id =
     .label = ایکسٹینشن ID
+
 # Text displayed for extensions in "runtime" pages, before displaying the status of the
 # extension background script.
 about-debugging-extension-backgroundscript =
     .label = پس منظر دا اسکرپٹ
+
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = چلدا پیا ہے
+
 # Displayed for extension using a non-persistent background page when is currently stopped.
 about-debugging-extension-backgroundscript-status-stopped = رک ڳئے
+
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Note this relates to the "Push" API, which is normally not localized so it is
 # probably better to not localize it.
 about-debugging-worker-action-push2 = دھکا ݙیو
     .disabledTitle = سروس ورکر پش فی الحال ملٹی پروسیس { -brand-shorter-name } کیتے غیر فعال ہے۔
+
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start2 = شروع کرو
     .disabledTitle = سروس ورکر اسٹارٹ فی الحال ملٹی پروسیس { -brand-shorter-name } کیتے غیر فعال ہے۔
+
 # This string is displayed as a label of the button that unregisters a service worker.
 about-debugging-worker-action-unregister = ریجسٹریشن ختم کرو
+
 # Displayed for service workers in runtime pages that listen to Fetch events.
 about-debugging-worker-fetch-listening =
     .label = کڈھو
     .value = واقعہ کڈھݨ کیتے سݨدا پئے
+
 # Displayed for service workers in runtime pages that do not listen to Fetch events.
 about-debugging-worker-fetch-not-listening =
     .label = کڈھو
     .value = واقعہ کڈھݨ کیتے نئیں سݨدا پیا
+
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = چلدا پیا ہے
+
 # Displayed for service workers in runtime pages that are registered but stopped.
 about-debugging-worker-status-stopped = رک ڳیا ہے
+
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = رجسٹریشن تھیندی پئی ہے
+
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = دائرہ کار
+
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
     .label = پش سروس
+
 # Displayed as title of the inspect button when service worker debugging is disabled.
 about-debugging-worker-inspect-action-disabled =
     .title = سروس ورکر دا معائنہ فی الحال ملٹی پروسیس { -brand-shorter-name } کیتے غیر فعال ہے
+
 # Displayed as title of the inspect button for zombie tabs (e.g. tabs loaded via a session restore).
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = ٹیب مکمل طور تے لوڈ کائنی تے ایندا معائنہ نہیں کیتا ونڄ سڳدا
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = مرکزی عمل
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = ہدف براؤزر کیتے اہم عمل
+
 # Displayed as name for the Main Process debug target in the Processes category. Only for
 # remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس
+
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-multiprocess-toolbox-description = ہدف براؤزر کیتے اہم عمل تے مواد دے عمل
+
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = سنیہا بند کرو
+
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = نقص دیاں تفصیلاں
+
 # Label text used for the warning details of message component.
 about-debugging-message-details-label-warning = چتاوݨی دیاں تفصیلاں
+
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = تفصیلاں

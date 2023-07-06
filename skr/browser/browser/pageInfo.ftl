@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = کاپی
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = سارے منتخب کرو
     .accesskey = A
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = عام
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = ناں
 general-meta-content =
     .label = مواد
+
 media-tab =
     .label = میڈیا
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = ہتھیکڑا کرو بطور …
     .accesskey = v
+
 perm-tab =
     .label = اجازتاں
     .accesskey = P
 permissions-for =
     .value = اجازتاں برائے:
+
 security-tab =
     .label = سلامتی
     .accesskey = S
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = اختتامی میعاذ:
 security-view-privacy =
     .value = رازداری تے تاریخ
+
 security-view-privacy-history-value = میں اڄ توں پہلے ایہ سائٹ ݙٹھی ہے؟
 security-view-privacy-sitedata-value = کیا ایہ ویب سائٹ میݙے کمپیوٹر تے معلومات محفوظ کریندی پئی ہے؟
+
 security-view-privacy-clearsitedata =
     .label = کوکیز تے سائٹ دے کوائف صاف کرو
     .accesskey = C
+
 security-view-privacy-passwords-value = کیا میں ایں ویب سائٹ کیتے کوئی پاس ورڈ ہتھیکڑا کیتا ہے؟
+
 security-view-privacy-viewpasswords =
     .label = ہتھیکڑے پاس ورڈ ݙیکھو
     .accesskey = w
 security-view-technical =
     .value = تکنیکی تفصیلاں
+
 help-button =
     .label = مدد
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = جیا ، سائٹ دے ڈیٹا تے کوکیاں  { $value }{ $unit }
 security-site-data-only = جیا ، سائٹ دے ڈیٹا دی { $value }{ $unit }
+
 security-site-data-cookies-only = جیا، کوکیاں
 security-site-data-no = کو
 
@@ -139,6 +152,7 @@ media-video = ویڈیو
 media-audio = آڈیو
 saved-passwords-yes = جیا
 saved-passwords-no = کو
+
 no-page-title =
     .value = بلاعنوان ورقہ:
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = طے شدہ استعمال کرو
 security-no-visits = کو
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -163,6 +178,7 @@ general-meta-tags =
             [one] میٹا (1 ٹیگ)
            *[other] میٹا ({ $tags } ٹیگز)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +189,7 @@ security-visits-number =
         [one] جیا، ہک واری
        *[other] جیا، { $visits } واری
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -183,6 +200,7 @@ properties-general-size =
             [one] { $kb } کے بی { $bytes } بائٹ
            *[other] { $kb } کے بی { $bytes } بائٹس
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -194,12 +212,14 @@ media-animated-image-type =
             [one] { $type } تصویر (متحرک، { $frames } فریم)
            *[other] { $type } تصوریر (متحرک، { $frames } فریماں)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } نقش
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -209,17 +229,23 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (تک پیمانہ { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } کے بی
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -227,6 +253,7 @@ media-file-size = { $size } کے بی
 media-block-image =
     .label = { $website } کنوں بلاک تصویراں
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

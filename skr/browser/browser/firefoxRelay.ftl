@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = { -relay-brand-name } استعمال کرݨ ک
 firefox-relay-get-unlimited-masks =
     .label = ماسک منظم کرو
     .accesskey = M
-firefox-relay-opt-in-title = اپݨے ای میل پتے دی حفاظت کرو
-firefox-relay-opt-in-subtitle = { -relay-brand-name } شامل کرو
-firefox-relay-generate-mask-title = اپݨے ای میل پتے دی حفاظت کرو
-firefox-relay-generate-mask-subtitle = { -relay-brand-short-name } ماسک بݨاؤ
-firefox-relay-opt-in-confirmation-enable =
-    .label = جاری رکھو
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = آپݨے ای میل پتے دی حفاظت کرو:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

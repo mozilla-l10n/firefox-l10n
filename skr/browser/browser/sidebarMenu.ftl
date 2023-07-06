@@ -4,11 +4,15 @@
 
 sidebar-menu-bookmarks =
     .label = نشانیاں
+
 sidebar-menu-history =
     .label = تاریخ
+
 sidebar-menu-synced-tabs =
     .label = ہم وقت تھیاں ٹیباں
+
 sidebar-menu-close =
     .label = پاسہ پٹی بند کرو
+
 sidebar-close-button =
     .tooltiptext = بغلی بار بند کرو

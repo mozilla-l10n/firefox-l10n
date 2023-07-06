@@ -39,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } واقعہ
        *[other] { $number } واقعات
     }
+
 compatibility-no-issues-found = مطابقت دا کوئی مسئلہ نہیں ملیا۔
 compatibility-close-settings-button =
     .title = ترتیباں بند کرو
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

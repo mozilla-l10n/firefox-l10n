@@ -37,6 +37,7 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = ہݨ کائنا
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = ہک نواں { -brand-shorter-name } اپ ڈیٹ دستیاب ہے، پر اینکوں انسٹال نہیں کیتا ونڄ سڳدا کیوں جو { -brand-shorter-name } دی ہک ٻئی کاپی چلدی پئی ہے۔ اپ ڈیٹ جاری رکھݨ کیتے اینکوں بند کرو، یا ول وی اپ ڈیٹ کرݨ دا انتخاب کرو (جے تائیں تساں اینکوں دوبارہ شروع نہیں کریندے ٻئی کاپی صحیح طریقے نال کم نہیں کر سڳدی)۔
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ٹھیک ہے
     .buttonaccesskey = o
@@ -44,6 +45,7 @@ appmenu-addon-post-install-message3 = اپلیکیشن مینیو دے ذریع�
 appmenu-addon-post-install-incognito-checkbox =
     .label = پرائیویٹ ونڈوز وِچ ایں توسیع کوں چلݨ دی موکل ݙیو
     .accesskey = A
+
 appmenu-new-tab-controlled-changes =
     .label = تہاݙا نواں ٹیب تبدیل تھی ڳئے
     .buttonlabel = تبدیلیاں جاری رکھو

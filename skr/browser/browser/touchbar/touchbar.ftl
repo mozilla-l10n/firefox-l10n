@@ -19,6 +19,7 @@ open-location = ڳولو یا پتہ درج کرو
 share = شیئر
 close-window = ونڈو بند کرو
 open-sidebar = بغلی بار
+
 # This string describes shortcuts for search.
 search-popover = ڳولݨ شارٹ کٹ
 # Describes searches limited to a specific scope

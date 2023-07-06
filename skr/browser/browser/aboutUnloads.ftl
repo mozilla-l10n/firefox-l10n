@@ -15,13 +15,16 @@ about-unloads-intro =
     { -brand-short-name } ٹیباں کوں ترجیح ݙیندا ہے تے کیڑھا ٹیب لاتھا ویسے
     جݙا ٹیب ان لوڈنگ کوں متحرک کیتا ویندا ہے۔ تساں ٹیب لہاوݨ کوں دستی طور تے متحرک کر سڳدے او
     تلے <em>ان لوڈ</em> بٹن تے کلک کرتے۔
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more = ٹیب ان لوڈنگ </a> دے بارے ودھیک ڄاݨݨ کیتے <a data-l10n-name="doc-link"> ݙیکھو
+
 about-unloads-last-updated = چھیکڑی اپ ڈیٹ کیتا ڳیا: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = ان لوڈ
     .title = ترجیحاً ٹیب ان لوڈ کرو
 about-unloads-no-unloadable-tab = ان لوڈیبل کوئی ٹیب کوئنی۔
+
 about-unloads-column-priority = ترجیح
 about-unloads-column-host = ہوسٹ
 about-unloads-column-last-accessed = چھیکڑی واری رسائی
@@ -33,6 +36,7 @@ about-unloads-column-memory = یاداشت
     .title = ٹیب دا تخمینہ یاداشت استعمال
 about-unloads-column-processes = IDs تے کارروائی کرو
     .title = ٹیب دے مواد دی میزبانی کرݨ والے عمل دی IDs
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } ایم بی
 about-unloads-memory-in-mb-tooltip =

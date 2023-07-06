@@ -22,10 +22,12 @@ about-private-browsing-not-private = تساں حالی نجی ونڈو وچ کا
 about-private-browsing-info-description-private-window = نجی ونڈو: { -brand-short-name } تہاݙی ڳول تے براؤزنگ دی تاریخ کوں صاف کر ݙیندی ہے جݙاں تساں تمام نجی ونڈوز بند کر ݙیندے او۔ ایہ تہاکوں گمنام نہیں بݨیدا۔
 about-private-browsing-info-description-simplified = { -brand-short-name } تہاݙی ڳول تے براؤزنگ دی تاریخ کوں مٹیندا ہے جݙاں جو تساں سبھے نجی ونڈوز بند کریندے او، پر ایہ تہاکوں گمنام نہیں بݨیندا۔
 about-private-browsing-learn-more-link = ٻیا سِکھو
+
 about-private-browsing-hide-activity = اپݨی سرگرمی تے لوکیشن لُکاؤ، جتھاں وی تساں براؤز کرو
 about-private-browsing-get-privacy = رازداری دا تحفظ حاصل کرو جتھاں وی تساں براؤز کرو
 about-private-browsing-hide-activity-1 = { -mozilla-vpn-brand-name } نال براؤزنگ دی سرگرمی تے لوکیشن لُکاؤ۔ ہک کلک محفوظ کنکشن بݨا ݙیندے، بھانویں جو پبلک وائی فائی ہووے۔
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } نال نجی راہوو
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } ڈاؤن لوڈ کرو
 about-private-browsing-focus-promo-header = { -focus-brand-name }: چلدے پھردے نجی براؤزنگ
 about-private-browsing-focus-promo-text = اساݙی سرشار نجی براؤزنگ موبائل ایپ ہر واری تہاݙی تاریخ تے کوکیاں کوں صاف کریندیاں ہن۔
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = اپݨے فون تے نجی برا
 about-private-browsing-focus-promo-text-b = انہاں نجی ڳولݨیاں کیتے { -focus-brand-name } دا استعمال کرو جنہاں کوں تساں اپݨے مرکزی موبائل براؤزر کوں نہیں ݙیکھݨ چاہندے۔
 about-private-browsing-focus-promo-header-c = موبائل تے اڳلے درجے دی رازداری
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } تہاݙی ہسٹری میس ݙیندے جئیں ویلھے تساں ایڈز تے ٹریکرز دی ݙک ٹھل کریندے پئے ہوندو
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = بند کرو
+
 about-private-browsing-promo-close-button =
     .title = بند کرو
 

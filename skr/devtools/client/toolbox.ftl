@@ -15,15 +15,19 @@ toolbox-meatball-menu-dock-bottom-label = تل کوں لاؤ
 toolbox-meatball-menu-dock-left-label = کھٻے پاسے لاؤ
 toolbox-meatball-menu-dock-right-label = سڄے پاسے لاؤ
 toolbox-meatball-menu-dock-separate-window-label = ونڈو انج کرو
+
 toolbox-meatball-menu-splitconsole-label = سپلٹ کنسول ݙکھاؤ
 toolbox-meatball-menu-hideconsole-label = سپلٹ کنسول کوں لُکاؤ
+
 toolbox-meatball-menu-settings-label = ترتیباں
 toolbox-meatball-menu-documentation-label = دستاویزی…
 toolbox-meatball-menu-community-label = برادری…
+
 # This menu item is only available in the browser toolbox. It forces the popups/panels
 # to stay visible on blur, which is primarily useful for addon developers and Firefox
 # contributors.
 toolbox-meatball-menu-noautohide-label = آپݨے آپ لکݨ والے پوپ اپ کوں غیر فعال بݨاؤ
+
 toolbox-meatball-menu-pseudo-locale-accented = "تلفظ شدہ" لوکیل کوں فعال کرو۔
 toolbox-meatball-menu-pseudo-locale-bidi = "bidi" لوکیل کوں فعال کرو۔
 
@@ -34,14 +38,17 @@ toolbox-meatball-menu-pseudo-locale-bidi = "bidi" لوکیل کوں فعال ک�
 
 toolbox-mode-browser-toolbox-label = براؤزر ٹول باکس موڈ
 toolbox-mode-browser-console-label = براؤزر کنسول موڈ
+
 toolbox-mode-everything-label = کثیر عمل
 toolbox-mode-everything-sub-label = (مٹھا)
 toolbox-mode-everything-container =
     .title = ہر عمل وِچ ہر چیز کوں ڈیبگ کرو
+
 toolbox-mode-parent-process-label = صرف والدین دا عمل
 toolbox-mode-parent-process-sub-label = (تکھا)
 toolbox-mode-parent-process-container =
     .title = صرف وݙکے عمل دے وسائل تے توجہ ݙیوو۔
+
 toolbox-always-on-top-enabled2 = ہمیشاں اوتے غیر فعال بݨاؤ
     .title = ایہ ڈویلپر ٹولز کوں دوبارہ شروع کریسے
 toolbox-always-on-top-disabled2 = ہمیشاں اوتے فعال بݨاؤ

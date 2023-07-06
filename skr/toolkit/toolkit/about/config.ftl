@@ -14,11 +14,15 @@ about-config-intro-warning-button = خطرے کوں قبول کرو تے جار�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = انہاں ترجیحاں کوں تبدیل کرݨ نال { -brand-short-name } دی کارکردگی یا سیکورٹی متاثر تھی سڳدی ہے۔
+
 about-config-page-title = اعلیٰ درجے دیاں ترجیحاں
+
 about-config-search-input1 =
     .placeholder = ترجیحی ناں تلاش کرو
 about-config-show-all = سارے ݙکھاؤ
+
 about-config-show-only-modified = صرف ترمیم شدہ ترجیحاں ݙکھاؤ
+
 about-config-pref-add-button =
     .title = شامل کرو
 about-config-pref-toggle-button =

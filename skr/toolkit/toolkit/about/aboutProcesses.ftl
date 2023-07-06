@@ -4,6 +4,7 @@
 
 # Page title
 about-processes-title = پروسیس مینیجر
+
 # The Actions column
 about-processes-column-action =
     .title = عمل
@@ -14,6 +15,7 @@ about-processes-shutdown-process =
     .title = ٹیباں کوں ان لوڈ کرو تے عمل کوں ختم کرو۔
 about-processes-shutdown-tab =
     .title = ٹیب بند کرو
+
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -51,6 +53,7 @@ about-processes-remote-sandbox-broker-process = ریموٹ سینڈ باکس ب�
 about-processes-fork-server-process = فورک سرور ({ $pid })
 about-processes-preallocated-process = پہلے کنوں مختص ({ $pid })
 about-processes-utility-process = یوٹیلیٹی ({ $pid })
+
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -85,6 +88,7 @@ about-processes-active-threads =
         [one] { $active } فعال تھریڈ { $number } وِچوں: { $list }
        *[other] { $active } فعال تھریڈز وِچوں { $number }: { $list }
     }
+
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -96,21 +100,25 @@ about-processes-inactive-threads =
         [one] { $number } غیر فعال تھریڈ
        *[other] { $number } غیر فعال تھریڈز
     }
+
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = تھریڈ آئی: { $tid }
+
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = ٹیب: { $name }
 about-processes-preloaded-tab = پہلے کنوں لوڈ تھیا نواں ٹیب
+
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = ذیلی فریم: { $url }
+
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -120,7 +128,6 @@ about-processes-frame-name-many = ذیلی فریم ({ $number }): { $shortUrl }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = نامعلوم اداکار
-about-processes-utility-actor-audio-decoder = آڈیو ڈیکوڈر
 about-processes-utility-actor-audio-decoder-generic = عام آڈیو ڈیکوڈر
 about-processes-utility-actor-audio-decoder-applemedia = ایپل میڈیا آڈیو ڈیکوڈر
 about-processes-utility-actor-audio-decoder-wmf = ونڈوز میڈیا فریم ورک آڈیو ڈیکوڈر
@@ -141,12 +148,15 @@ about-processes-utility-actor-windows-utils = ونڈوز افادیت
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = کل CPU وقت: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (پیمائش)
+
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = کل CPU وقت: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
+
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = idle
     .title = کل CPU وقت: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -165,6 +175,7 @@ about-processes-cpu-fully-idle = idle
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = ارتقاء: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
+
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

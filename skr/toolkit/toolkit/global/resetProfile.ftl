@@ -9,6 +9,7 @@ refresh-profile-dialog-description = کارکردگی دے مسائل کوں ٹ�
 refresh-profile = { -brand-short-name } کوں ہک ٹیون اپ ݙیوو۔
 refresh-profile-button = ریفریش { -brand-short-name }۔۔۔
 refresh-profile-learn-more = ٻیا سِکھو
+
 refresh-profile-progress =
     .title = ریفریش { -brand-short-name }
 refresh-profile-progress-description = لڳ بھڳ تھی ڳئے…

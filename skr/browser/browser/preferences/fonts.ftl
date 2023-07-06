@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = فونٹس
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = کیتے فونٹس
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = متناسب
     .accesskey = P
+
 fonts-default-serif =
     .label = سیرف
 fonts-default-sans-serif =
     .label = سینس سیرف
+
 fonts-proportional-size = سائز
     .accesskey = z
+
 fonts-serif = سیرف
     .accesskey = S
+
 fonts-sans-serif = سینس-سیرف
     .accesskey = n
+
 fonts-monospace = مونو سپیس
     .accesskey = M
+
 fonts-monospace-size = سائز
     .accesskey = e
+
 fonts-minsize = کم از کم فونٹ دا سائز
     .accesskey = o
+
 fonts-minsize-none =
     .label = کوئی وی کائنی
+
 fonts-allow-own =
     .label = ورقیاں کوں انہاں دے اپݨے فونٹس دا انتخاب کرݨ دی اجازت ݙیو، بجائے ایندے جو تساں اُتے دے انتخاب کرو۔
     .accesskey = A
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

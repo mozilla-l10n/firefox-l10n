@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = { $extensionName } کیتے مینیو کھولو
+
 unified-extensions-item-message-manage = ایکسٹینشن منظم کرو
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = ٹول بار تے پن کرو
+
 unified-extensions-context-menu-manage-extension =
     .label = ایکسٹینشن منظم کرو
+
 unified-extensions-context-menu-remove-extension =
     .label = ایکسٹینشن ہٹاؤ
+
 unified-extensions-context-menu-report-extension =
     .label = ایکسٹینشن دی رپورٹ کرو
+
 unified-extensions-context-menu-move-widget-up =
     .label = اُوتے کرو
+
 unified-extensions-context-menu-move-widget-down =
     .label = تلے کرو
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 profiles-title = پروفائلز بارے
 profiles-subtitle = ایہ ورقہ تہاکوں اپݨے پروفائلر دا انتظام کرݨ وِچ مدد کریندا ہے۔ ہر پروفائلر ہک انج دنیا ہے جیندے وِچ علیحدہ تاریخ، نشانیاں، ترتیباں تے ایڈ انز شامل ہن۔
 profiles-create = نویں پروفائل بݨاؤ
@@ -13,11 +14,13 @@ profiles-flush-fail-title = تبدیلیاں ہتھیکڑیاں نہیں کیت�
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = ہک غیر متوقع خرانی تہاݙیاں تبدیلیاں کوں ہتھیکڑا تھیوݨ کنوں روک ݙتا ہے۔
 profiles-flush-restart-button = نویں سروں چلاؤ { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = پروفائل: { $name }
 profiles-is-default = طے شدہ پروفائل
 profiles-rootdir = روٹ ڈائریکٹری
+
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -27,22 +30,28 @@ profiles-rootdir = روٹ ڈائریکٹری
 profiles-localdir = مقامی ڈائریکٹری
 profiles-current-profile = یہ پروفائل زیر استعمال ہے تے اینکوں حذف نہیں کیتا ونڄ سڳدا۔
 profiles-in-use-profile = ایہ پروفائل کہیں ٻئی ایپلی کیشن وِچ زیر استعمال ہے تے اینکوں حذف نہیں کیتا ونڄ سڳدا
+
 profiles-rename = ناں وٹاؤ
 profiles-remove = ہٹاؤ
 profiles-set-as-default = پہلوں مقرر پروفائل دے طور تے سیٹ کرو
 profiles-launch-profile = نویں براؤزر وِچ پروفائل لانچ کرو۔
+
 profiles-cannot-set-as-default-title = ڈیفالٹ مقرر کرݨ توں قاصر
 profiles-cannot-set-as-default-message = ڈیفالٹ پروفائل کوں { -brand-short-name } کیتے تبدیل نہیں کیتا ونڄ سڳدا۔
+
 profiles-yes = جیا
 profiles-no = کو
+
 profiles-rename-profile-title = پروفائل کوں نواں ناں ݙیو
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = پروفائل دا ناں تبدیل کرو { $name }
+
 profiles-invalid-profile-name-title = غلط پروفائل ناں
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = پروفائل دا ناں "{ $name }" دی اجازت کائنی۔
+
 profiles-delete-profile-title = پرفائل مٹاؤ
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -52,8 +61,11 @@ profiles-delete-profile-confirm =
     کیا تساں پروفائل ڈیٹا فائلاں کوں حذف کرݨ چاہسو؟
 profiles-delete-files = فائلاں مٹاؤ
 profiles-dont-delete-files = فائلاں نہ مٹاؤ
+
 profiles-delete-profile-failed-title = نقص
 profiles-delete-profile-failed-message = ایں پروفائل کوں حذف کرݨ دی کوشش دے دوران ہک خرابی ہئی۔
+
+
 profiles-opendir =
     { PLATFORM() ->
         [macos] فولڈر وِچ ݙکھاؤ

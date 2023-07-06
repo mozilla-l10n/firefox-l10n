@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = اتھارٹی دی معلومات (AIA)
 certificate-viewer-certificate-policies = سرٹیفکیٹ دیاں پالیسیاں
 certificate-viewer-embedded-scts = ایمبیڈڈ SCTs
 certificate-viewer-crl-endpoints = CRL اینڈ پوائنٹ
+
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ڈاؤن لوڈ
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ایں توسیع کوں تنقیدی دے طور تے نشان زد کیتا ڳیا ہے، مطلب ایہ ہے جو کلائنٹس کوں سرٹیفکیٹ کوں رد کرݨا پوسے جے او اینکوں نہیں سمجھدے

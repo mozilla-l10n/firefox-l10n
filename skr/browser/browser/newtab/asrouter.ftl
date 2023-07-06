@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = تجویز کردہ خصوصیت
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = میں اے کیوں ݙیہدا پیا ہاں
+
 cfr-doorhanger-extension-cancel-button = ہݨ نہ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = ہݨ شامل کرو
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = سفارش دیاں ترتیباں منظم کرو
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = میکوں ایندی سفارش نہ ݙکھاؤ
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = ٻیا سِکھو
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } دے نال
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = سفارش
 cfr-doorhanger-extension-notification2 = سفارش
     .tooltiptext = ایکسٹینشن سفارش
     .a11y-announcement = ایکسٹینشن سفارش
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = سفارش
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = ٻیا سِکھو
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = نویاں خصوصیات
+
 cfr-whatsnew-button =
     .label = نواں کیا ہے
     .tooltiptext = نواں کیا ہے
+
 cfr-whatsnew-release-notes-link-text = اجرائی نوٹس پڑھو
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = غیر فعال
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = تہاݙی رازداری اہم ہے۔ { -brand-short-name } ہݨ ویب سائٹاں کوں ہک ٻئے کنوں انج کر ݙیندا ہے، جیندے نال ہیکرز کیتے پاس ورڈ، کریڈٹ کارڈ نمبر، تے ٻئاں حساس معلومات چراوݨ مشکل تھی ویندا ہے۔
-cfr-doorhanger-fission-header = سائٹ علیحدگی
-cfr-doorhanger-fission-primary-button = ٹھیک ہے، میکوں سمجھ آ ڳئی ہے
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = ٻیا سکھو
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = تھی سڳدے ایں سائٹ تے موجود ویڈیوز { -brand-short-name } دے ایں ورژن تے صحیح طریقے نال نہ چلن۔ مکمل ویڈیوز سپورٹ کیتے، ہݨیں { -brand-short-name } کوں اپ ڈیٹ کرو۔
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = ہݨ ابڈیٹ کرو
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = ٻیا سکھو
-    .title = خصوصیت دے متعلق ودھیک ڄاݨݨ کیتے ودھاؤ
-spotlight-learn-more-expanded = ٻیا سکھو
-    .title = بند کرو
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,16 +142,6 @@ spotlight-public-wifi-vpn-link = ہݨ نہ
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = ساݙے سبھ توں تکڑے ٹیسٹ پائلٹ رازداری دا تجربہ کرو
-spotlight-total-cookie-protection-body = ٹوٹل کوکی پروٹیکشن ٹریکز کوں کوکیز استعمال کرݨ کنوں روکیندا ہے تاں جو تہاکوں ویب تے چھمکاں لڳن۔
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } کوکیاں دے چودھار لوڑھا بݨیندا ہے، انہاں کوں ایں سائٹ تائیں محدود کریندا ہے جیندے اوتے تساں او تاں جو ٹریکرز تہاݙی پیروی کرݨ کیتے انہاں کوں استعمال نہ کر سڳن۔ ابتدائی رسائی دے نال، تساں ایں خصوصیت کوں بہتر بݨاوݨ وِچ مدد کریسو تاں جو اساں سبھ کیتے ہک بہتر ویب بݨا سڳوں۔
-spotlight-total-cookie-protection-primary-button = ٹوٹل کوکی تحفظ چالو کرو
-spotlight-total-cookie-protection-secondary-button = ہݨ کائناں
 
 ## Emotive Continuous Onboarding
 
@@ -183,11 +171,13 @@ spotlight-pin-secondary-button = ہݨ کائناں
 
 mr2022-background-update-toast-title = نواں { -brand-short-name }۔ زیادہ نجی۔ گھٹ ٹریکرز۔ کوئی سمجھوتہ کائنی۔
 mr2022-background-update-toast-text = ہݨیں نویں نکور { -brand-short-name } کوں ازماؤ، جیڑھا ہݨ تک اساݙے مضبوط ترین اینٹی ٹریکنگ تحفظ دے نال اپ گریڈ کیتا ڳیا ہے۔
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = ہݨ { -brand-shorter-name } کھولو
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -206,6 +196,7 @@ firefoxview-cfr-body-v2 = حالیہ بند ٹیباں کوں ولدا حاصل 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } نال سلام دعا کرو
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = اپݨے فون تے او کھلا ٹیب چاہندے ہن؟ ایندے اُتے قبضہ کرو۔ ایں سائٹ دی لوڑ ہے جیڑھی تساں ہݨیں ݙٹھی ہے؟ Poof ایہ { -firefoxview-brand-name } دے نال واپس آ ڳیا ہے۔
 firefoxview-spotlight-promo-primarybutton = ݙیکھو اے کیویں کم کریندے
@@ -215,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = چھوڑو
 
 colorways-cfr-primarybutton = کلر وے دا انتخاب کرو
     .accesskey = C
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = اپݨے براؤزر کوں { -brand-short-name } خصوصی جھاں دے نال رنگیل کرو جیڑھا ثقافت کوں تبدیل کرݨ والیاں آوازاں کنوں متاثر ہووے۔
 colorways-cfr-header-28days = آزاد آوازاں کلر ویز دی میعاذ 16 جنوری کوں مُکدی پئی ہے۔
@@ -237,6 +229,7 @@ july-jam-headline = اساں تہاکوں ویڑھ گھدا ہے۔
 july-jam-body = ہر مہینے، { -brand-short-name } فی صارف اوسطاً 3,000 کنوں ودھ ٹریکر بلاک کریندے۔ جہڑا تہاکوں چنگے انٹرنیٹ تائیں محفوظ، تیز رفتار رسائی فراہم کریندے۔
 july-jam-set-default-primary = { -brand-short-name } دے نال میݙے لنک کھولو
 fox-doodle-pin-headline = واپسی تے ست بسم اللہ
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = اِتھ ہک فوری یاد دہانی ہے جو تساں آپݨے پسندیدہ انڈی براؤزر کوں صرف ہک کلک دی دوری تے رکھ سڳدے ہو۔

@@ -8,39 +8,38 @@ password-quality-meter = پاس ورڈ کوالٹی میٹر
 
 change-device-password-window =
     .title = پاس ورڈ تبدیل کرو
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = سیکیورٹی ڈیوائس: { $tokenName }
 change-password-old = حالیہ پاس ورڈ:
 change-password-new = نواں پاس ورڈ:
 change-password-reenter = نواں پاس ورڈ (دوبارہ):
+
 pippki-failed-pw-change = پاس ورڈ تبدیل کرݨ کوں عاری ہے
 pippki-incorrect-pw = تساں درست موجودہ پاس ورڈ درج نہیں کیتا۔ ولدا کوشش کرو.
 pippki-pw-change-ok = پاس ورڈ کامیابی نال تبدیل تھی ڳیا ہے۔
+
 pippki-pw-empty-warning = تہاݙے محفوظ کردہ پاس ورڈز تے پرائیویٹ کنجیاں محفوظ کائنا ہوسن۔
 pippki-pw-erased-ok = تساں اپݨا پاس ورڈ حذف کر ݙٹا ہے۔ { pippki-pw-empty-warning }
 pippki-pw-not-wanted = چتاوݨی! تساں پاس ورڈ استعمال نہ کرݨ دا فیصلہ کیتا ہے۔ { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = تساں فی الحال FIPS موڈ وِچ او۔ FIPS کوں ہک غیر خالی پاس ورڈ دی ضرورت ہے۔
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = منڈھلا پاس ورڈ ری سیٹ کرو
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = منڈھلا پاس ورڈ ری سیٹ کرو
     .style = min-width: 40em
 reset-password-button-label =
     .label = ولدا ٹھیک کرو
 reset-primary-password-text = جے تساں اپݨا منڈھلا پاس ورڈ دوبارہ ترتیب ݙیندے او، تاں تہاݙے تمام ذخیرہ شدہ ویب تے ای میل پاس ورڈز، ذاتی سرٹیفکیٹس، تے نجی کنجیاں بھل ویسن۔ کیا تساں واقعی اپݨا منڈھلا پاس ورڈ دوبارہ ترتیب ݙیوݨ چاہندے او؟
+
 pippki-reset-password-confirmation-title = منڈھلا پاس ورڈ ری سیٹ کرو
 pippki-reset-password-confirmation-message = تہاݙا منڈھلا پاس ورڈ دوبارہ ترتیب ݙتا ڳیا ہے۔
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = سرٹیفکیٹ ڈاؤن لوڈ تھیندا پیا ہے
-    .style = width: 46em
 download-cert-window2 =
     .title = سرٹیفکیٹ ڈاؤن لوڈ تھیندا پیا ہے
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = اہم: جے تساں اپݨا سرٹیفکیٹ بیک اپ پاس ورڈ بھل ویندے او، تاں تساں بعد وِچ ایں بیک اپ کوں بحال نہ کر سڳسو۔ براہ مہربانی اینکوں محفوظ مقام تے ریکارڈ کرو۔
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = محفوظ ٹوکن دی توثیق
-protected-auth-msg = براہ مہربانی ٹوکن دی تصدیق کرو۔ تصدیق دا طریقہ تہاݙے ٹوکن دی ونکی تے منحصر ہے۔
-protected-auth-token = ٹوکن:
 
 ## Protected authentication alert
 

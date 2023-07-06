@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = ٹیباں کوں نشانی لاؤ …
     .accesskey = B
-bookmark-tab =
-    .label = ٹیب کوں نشانی لاؤ
-    .accesskey = B
 tab-context-bookmark-tab =
     .label = ٹیب کوں نشانی لاؤ …
     .accesskey = B
@@ -103,6 +100,7 @@ tab-context-move-tabs =
            *[other] ٹیباں سورو
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

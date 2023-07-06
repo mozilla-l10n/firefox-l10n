@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } برخاست کرو
+
 menu-about =
     .label = { -brand-shorter-name } دے متعلق
     .accesskey = A
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = حالیہ بند کیتے ڳئے ٹیب
 menu-history-undo-window-menu =
     .label = حالیہ بند کیتے ڳئے ونڈو
-menu-history-reopen-all-tabs = تمام ٹیب کوں دوبارہ کھولو
-menu-history-reopen-all-windows = تمام ونڈوز کوں دوبارہ کھولو
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = بک مارکس منظم کرو
-menu-bookmark-current-tab =
-    .label = موجودہ ٹیب کوں بک مارک کرو
-menu-bookmark-edit =
-    .label = ایں بک مارک دی تدوین کرو
 menu-bookmark-tab =
     .label = موجودہ ٹیب کوں بک مارک کرو …
 menu-edit-bookmark =

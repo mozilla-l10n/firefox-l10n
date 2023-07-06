@@ -34,15 +34,6 @@ about-networking-messages-received = سنیہا وصول تھی ڳئے
 about-networking-bytes-sent = بائٹاں بھیڄ ݙتیاں ڳیاں ہن
 about-networking-bytes-received = بائٹاں وصول تھی ڳیاں ہن
 about-networking-logging = لاگنگ
-about-networking-log-tutorial =
-    ݙیکھو <a data-l10n-name="logging">HTTP لاگنگ</a>
-    ایں ٹول کوں استعمال کرݨ دے طریقے دے متعلق ہدایات کیتے۔
-about-networking-current-log-file = موجودہ لاگ فائل:
-about-networking-current-log-modules = موجودہ لاگ ماڈیولز:
-about-networking-set-log-file = لاگ فائل سیٹ کرو
-about-networking-set-log-modules = لاگ ماڈیولز سیٹ کرو
-about-networking-start-logging = لاگنگ شروع کرو
-about-networking-stop-logging = لاگنگ روکو
 about-networking-dns-lookup = DNS دا بھالا
 about-networking-dns-lookup-button = حل کرو
 about-networking-dns-domain = ڈومین:

@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = ڈاؤن لوڈنگ { -brand-shorter-name } ابڈیٹ
+
 appmenuitem-banner-update-available =
     .label = اپڈیٹ دستیاب ہے - ہݨ ڈاؤن لوڈ کرو
+
 appmenuitem-banner-update-manual =
     .label = ابڈیٹ دستیاب ہے - ہݨیں ڈاؤن لوڈ کرو
+
 appmenuitem-banner-update-unsupported =
     .label = اپ ڈیٹ کرݨ کنوں قاصر — سسٹم مطابقت نئیں رکھیندا
+
 appmenuitem-banner-update-restart =
     .label = اپڈیٹ دستیاب ہے - ہݨیں نویں سروں چلاؤ
+
 appmenuitem-new-tab =
     .label = نواں ٹیب
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = ایپلیکیشن مینو بند کرو
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = ہم وقت کرݨ کیتے سائن ان تھیوو۔۔۔
 appmenu-remote-tabs-turn-on-sync =
     .label = ہم وقت کرݨ چالو کرو۔۔۔
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = ودھیک ٹیبز ݙکھاؤ
     .tooltiptext = ایں ڈیوائس کنوں ودھیک ٹیبز ݙکھاؤ
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = کوئی کھلے ٹیب  کائنی
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = اپݨے ٻئے آلات تے ٹیب دی تندیر ݙیکھݨ کیتے ٹیب دی مطابقت پذیری چالو کرو۔
+
 appmenu-remote-tabs-opensettings =
     .label = ترتیباں
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = کیا تساں اپݨے ٹیب کوں ٻئے آلات کنوں اتھاؤں ݙیکھݨ پسند کریسو؟
+
 appmenu-remote-tabs-connectdevice =
     .label = ہک ٻئی ڈیوائس جوڑو
 appmenu-remote-tabs-welcome = آپݨیاں ساریاں ڈیوائساں کنوں ٹیباں دی تندیر ݙیکھو۔
 appmenu-remote-tabs-unverified = تہاݙے کھاتے کوں تصدیق دی لوڑ ہے۔
+
 appmenuitem-fxa-toolbar-sync-now2 = ہݨ ہم وقت کرو
 appmenuitem-fxa-sign-in = { -brand-product-name } وِچ سائن ان تھیوو
 appmenuitem-fxa-manage-account = کھاتہ منیج کرو
@@ -103,12 +116,14 @@ appmenu-fxa-sync-and-save-data2 = ڈیٹا ہم وقت کرو تے محفوظ ک
 appmenu-fxa-signed-in-label = سائن ان
 appmenu-fxa-setup-sync =
     .label = ہم وقت کرݨ چالو کرو۔۔۔
+
 appmenuitem-save-page =
     .label = ورقہ ہتھیکڑا کرو بطور …
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = نواں کیا ہے؟
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,39 +137,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = پروفائلر
     .tooltiptext = ہک کارکردگی پروفائل ریکارڈ کرو
+
 profiler-popup-button-recording =
     .label = پروفائلر
     .tooltiptext = پرفائلر ہک پروفائل ریکارڈ کریندا پئے
+
 profiler-popup-button-capturing =
     .label = پروفائلر
     .tooltiptext = پروفائلر ہک پروفائل دا فوٹو چھکیندا پئے
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = ودھیک معلومات ظاہر کرو
+
 profiler-popup-description-title =
     .value = ریکارڈ کرو ، تجزیہ کرو ، شیر کرو
+
 profiler-popup-description = اپݨی ٹیم دے نال سانجھ کرݨ کیتے پروفائلز شائع کر تے کارکردگی دے مسائل تے تعاون کرو۔
+
 profiler-popup-learn-more-button =
     .label = ٻیا سِکھو
+
 profiler-popup-settings =
     .value = ترتیباں
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = سیٹنگز وچ تبدیلی کرو…
+
 profiler-popup-recording-screen = ریکارڈنگ تھیندی پئی اے …
+
 profiler-popup-start-recording-button =
     .label = ریکارڈنگ شروع کرو
+
 profiler-popup-discard-button =
     .label = کڈھ سٹو
+
 profiler-popup-capture-button =
     .label = قاٻو کرو
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,22 +205,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = گھٹ اوور ہیڈ دے نال، زیادہ تر ویب ایپ ڈیبگنگ کیتے تجویز کردہ اوور ہیڈ۔
 profiler-popup-presets-web-developer-label =
     .label = ویب تکمیل کار
+
 profiler-popup-presets-firefox-description = پروفائلنگ کیتے تجویز کردہ پری سیٹ { -brand-shorter-name }۔
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = { -brand-shorter-name } وِچ گرافکس دیاں خرابیاں دی چھان بین کیتے پری سیٹ۔
 profiler-popup-presets-graphics-label =
     .label = گرافکس
+
 profiler-popup-presets-media-description2 = { -brand-shorter-name } وِچ آڈیو تے ویڈیو بگز دی چھان بین کیتے پری سیٹ۔
 profiler-popup-presets-media-label =
     .label = میڈیا
+
 profiler-popup-presets-networking-description = { -brand-shorter-name } وِچ نیٹ ورکنگ بگز دی چھان بین کیتے پری سیٹ۔
 profiler-popup-presets-networking-label =
     .label = نیٹ ورکنگ
+
 profiler-popup-presets-power-description = گھٹ اوور ہیڈ دے نال { -brand-shorter-name } وِچ پاور استعمال بگز دی چھان بین کیتے پری سیٹ۔
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = بجلی
+
 profiler-popup-presets-custom-label =
     .label = مخصوص
 
@@ -200,8 +234,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = تاریخ منیج کرو
-appmenu-reopen-all-tabs = ساریاں ٹیباں کھولو
-appmenu-reopen-all-windows = سبھے ونڈوز ولا کھولو
 appmenu-restore-session =
     .label = پچھلا سیشن بحال کرو
 appmenu-clear-history =
@@ -260,6 +292,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = ٹول بار دی تخصیص کرو…
+
 appmenu-developer-tools-subheader = ٹولز براؤز کرو
 appmenu-developer-tools-extensions =
     .label = ڈیویلپرز کیتے توسیع
