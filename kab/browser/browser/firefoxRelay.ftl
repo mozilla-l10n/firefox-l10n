@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Ilaq ad teqqneḍ ɣer{ -fxaccount-brand-name 
 firefox-relay-get-unlimited-masks =
     .label = Sefrek igelmusen
     .accesskey = g
-firefox-relay-opt-in-title = Mmesten tansa-k·m n yimayl
-firefox-relay-opt-in-subtitle = Rnu { -relay-brand-name }
-firefox-relay-generate-mask-title = Mmesten tansa-k·m n yimayl
-firefox-relay-generate-mask-subtitle = Sirew agelmus { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Kemmel
-    .accesskey = K
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Mmesten tansa-k n yimayl:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

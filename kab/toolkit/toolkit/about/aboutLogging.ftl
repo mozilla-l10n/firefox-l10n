@@ -15,8 +15,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
@@ -46,6 +44,7 @@ about-logging-logging-preset-selector-text = Awennez n tɣamsa:
 about-logging-preset-networking-label = Azeṭṭa
 about-logging-preset-media-playback-label = Taɣuri n wallalen n teywalt
 about-logging-preset-custom-label = Udmawan
+
 # Error handling
 about-logging-error = Tuccḍa:
 

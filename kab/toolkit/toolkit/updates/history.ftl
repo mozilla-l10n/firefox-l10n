@@ -23,5 +23,7 @@ state-header = Addad
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Aglam leqqayen
+
 update-installed-on = Ibded di: { $date }
+
 update-status = Addad: { $status }

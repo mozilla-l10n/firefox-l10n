@@ -50,5 +50,9 @@ url-classifier-disabled = Arurmid
 url-classifier-updating = Aleqqem
 url-classifier-cannot-update = Ur leqqem ara
 url-classifier-success = yedda
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = tucḍa deg ulqem ({ $error })
 url-classifier-download-error = tuccḍa deg usader ({ $error })

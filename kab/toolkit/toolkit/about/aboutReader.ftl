@@ -4,6 +4,7 @@
 
 about-reader-loading = Asali…
 about-reader-load-error = D awezɣi asali n umagrad seg usebter
+
 about-reader-color-scheme-light = Aceɛlal
     .title = Tagrumma n yiniten iceɛlalen
 about-reader-color-scheme-dark = Aberkan
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sipya
     .title = Tagrumma n yiniten Sepia
 about-reader-color-scheme-auto = Awurman
     .title = Tagrumma n yiniten tawurmant
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

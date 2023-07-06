@@ -4,14 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Tangalt PIN d tarameɣtut! Ttxil-k·m sekcem tagalt PIN tameɣtut i yibenk-ik·im.
-        [one] Tangalt PIN d tarameɣtut! Ttxil-k·m sekcem tagalt PIN tameɣtut i yibenk-ik·im. Mazal-ak·am { $retriesLeft } uneɛruḍ.
-       *[other] Tangalt PIN d tarameɣtut! Ttxil-k·m sekcem tagalt PIN tameɣtut i yibenk-ik·im. Mazal-ak·am { $retriesLeft } yineɛruḍen.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Tangalt PIN d tarameɣtut. Mazal-ak { $retriesLeft } n uneɛruḍ send ad ak-iruḥ unekcum ɣer yinekcam ɣef yibenk-a.
@@ -19,3 +11,4 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN d arameɣtu. Ɛreḍ tikelt-nniḍen.
 webauthn-pin-required-prompt = Ttxil-k·m sekcem PIN i yibenk-ik·im.
+

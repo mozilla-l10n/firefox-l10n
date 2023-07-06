@@ -20,7 +20,6 @@ styleeditor-save-button = Sekles
     .accesskey = k
 styleeditor-options-button =
     .tooltiptext = Iɣewwaṛen n umaẓrag n uɣanib
-styleeditor-media-rules = Ilugan @media
 styleeditor-at-rules = Ilugan @
 styleeditor-editor-textbox =
     .data-placeholder = Sekcem tawsit CSS da.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = D
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Ulac tiferkit n uɣanib yemṣadan i yettwafen.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

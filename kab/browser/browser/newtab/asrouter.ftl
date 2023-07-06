@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Timahilin ihulen
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Acuɣer i d-yettban waya
+
 cfr-doorhanger-extension-cancel-button = Mačči tura
     .accesskey = T
+
 cfr-doorhanger-extension-ok-button = Rnu Tura
     .accesskey = N
+
 cfr-doorhanger-extension-manage-settings-button = Sefrek Iɣewwaṛen n wahul
     .accesskey = S
+
 cfr-doorhanger-extension-never-show-recommendation = Ur yid-skan ara Ahul Agi
     .accesskey = U
+
 cfr-doorhanger-extension-learn-more-link = Issin ugar
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = S { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Awelleh
 cfr-doorhanger-extension-notification2 = Iwellihen
     .tooltiptext = Iseɣzaf ihulen
     .a11y-announcement = Iseɣzaf ihulen i yellan
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Iwellihen
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Issin ugar
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Timahilin timaynutin:
+
 cfr-whatsnew-button =
     .label = Amaynut
     .tooltiptext = Amaynut
+
 cfr-whatsnew-release-notes-link-text = Ɣer tizmilin n lqem.
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Sens
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Tudert-ik·im tabaḍnit tesɛa azal. { -brand-short-name } tura yettaɛzal ismal web wa ɣef wa tett tastant gar-asen, ayen yeswaɛrayen i yimakaren ad ad akren awalen uffiren, uṭṭunen n tkarḍiwin n usmad d telɣut-nniḍen tamḥulfut.
-cfr-doorhanger-fission-header = Aɛzal n usmel
-cfr-doorhanger-fission-primary-button = IH, awi-t
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Issin ugar
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Tividyutin ɣef usmel-a zemrent ur teddunt ara akken ilaq deg lqem-a n { -brand-short-name }. I tallalt n tvidyut taččurant, leqqem { -brand-short-name } tura.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Leqqem tura
     .accesskey = L
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Issin ugar
-    .title = Snefli akken ad tissineḍ ugar ɣef tmahilt
-spotlight-learn-more-expanded = Issin ugar
-    .title = Mdel
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Mačči tura
     .accesskey = M
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Sekyed s wudem uzwir tirmit n
-    tbaḍnit iǧehden akk urǧin i nfeṣṣel yakan
-spotlight-total-cookie-protection-body = Ammesten asemday mgal y inagan n tuqqna yessewḥal ineḍfaren ad sqedc inagan n tuqqna i wakken ad ak•akem-ḍefren deg web.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } itegg zzeṛb i yinagan n tuqqna, it eǧǧ-asen talast deg usmel ideg telliḍ i wakken ur ten-sseqdacen ara ineḍfaren. S unekcum zik, ad ak•akem-iɛawen deg usesfer n tmahilt-a, akka ad nessiweḍ ad nebnu web igerrzen i yal yiwen.
-spotlight-total-cookie-protection-primary-button = Rmed ammesten asemday mgal inagan n tuqqna
-spotlight-total-cookie-protection-secondary-button = Mačči tura
 
 ## Emotive Continuous Onboarding
 
@@ -184,11 +170,13 @@ spotlight-pin-secondary-button = Mačči tura
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = { -brand-short-name } amaynut. D uslig ugar. Drus maḍi n yineḍfaren. War takerḍa.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Ldi { -brand-shorter-name } tura
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -206,6 +194,7 @@ firefoxview-cfr-header-v2 = Kemmel zzerb seg anida telliḍ
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ini azul i { -firefoxview-brand-name }
+
 firefoxview-spotlight-promo-primarybutton = Wali amek i itteddu
 firefoxview-spotlight-promo-secondarybutton = Suref
 
@@ -213,6 +202,7 @@ firefoxview-spotlight-promo-secondarybutton = Suref
 
 colorways-cfr-primarybutton = Fren afran n yiniten
     .accesskey = F
+
 colorways-cfr-header-28days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg 16 deg yennayer
 colorways-cfr-header-14days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg sin n yimalasen
 colorways-cfr-header-7days = Afran n yiniten n tuɣac tilelliyin ad ifakk deg yimalas-a.
@@ -232,6 +222,7 @@ cfr-cbh-dismiss-button = Mačči tura
 july-jam-headline = Ad neḍmen ammesten-ik·im
 july-jam-set-default-primary = Ldi iseɣwan-iw s { -brand-short-name }
 fox-doodle-pin-headline = Ansuf tikkelt niḍen
+
 fox-doodle-pin-primary = Ldi iseɣwan-iw s { -brand-short-name }
 fox-doodle-pin-secondary = Mačči tura
 

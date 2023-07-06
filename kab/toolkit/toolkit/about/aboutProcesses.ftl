@@ -128,7 +128,6 @@ about-processes-frame-name-many = Ikataren n ddaw ({ $number }): { $shortUrl }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = Amigaw arussin
-about-processes-utility-actor-audio-decoder = Amakkas n usettengel Ameslaw
 
 about-processes-utility-actor-audio-decoder-generic = Akestengal n umeslaw imcettel
 about-processes-utility-actor-audio-decoder-applemedia = Akestengal n umeslaw n umidyat Apple

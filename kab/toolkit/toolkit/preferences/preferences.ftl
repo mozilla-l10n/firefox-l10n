@@ -9,10 +9,6 @@ failed-pp-change = Ur yezmir ara ad isnifel awal uffir agejdan.
 incorrect-pp = Ur teskecmeḍ ara awal uffir amiran ameɣtu. Ma ulac aɣilif, ɛreḍ tikkelt-nniḍen.
 pp-change-ok = Awal uffir agejdan yettubeddel akken iwata.
 
-pp-empty-warning = Awalen-ik·im uffiren d tsura tusligin yettwakelsen ur ttwammestanen ara.
-pp-erased-ok = Tekkseḍ awal-ik·im uffir agejdan. { pp-empty-warning }
-pp-not-wanted = Γur-k! Tgezmeḍ-tt di ṛṛay ur tseqdaceḍ ara awal uffir agejdan. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Aql-ak·akem akka tura deg uskar FIPS . FIPS yesra awal uffir agejdan arilem.
 pw-change-success-title = Asnifel n wawal uffir yedda
 pw-change-failed-title = Tuccḍa deg usnifel n wawal uffir agejdan

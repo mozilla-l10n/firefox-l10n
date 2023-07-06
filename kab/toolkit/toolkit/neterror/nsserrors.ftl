@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Teḍra-d tuccḍa di tuqqna ɣer { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Tangalt n tuccḍa: { $error }
-
 psmerr-ssl-disabled = Tuqqna taɣelsant d tawezɣit acku aneggaf SSL itturermed.
 psmerr-ssl2-disabled = Tuqqna taɣelsant d tawezɣit acku asmel-agi seqdac aneggaf SSL aqbuṛ u d araɣelsan.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Alguritm n uzmel TLS ur nettusefrak
 ssl-error-unsupported-signature-algorithm = Ayugan iseqdec tuddsa n ulguritm n uzmel akked udway.
 ssl-error-missing-extended-master-secret = Ayugan yettaɛraḍ ad ikemmel s war asiɣzef extended_master_secret ameɣtu.
 ssl-error-unexpected-extended-master-secret = Ayugan yettaɛraḍ ad ikemmel s usiɣzef arussin extended_master_secret.
+
 sec-error-io = Tuccḍa kcem/ffeɣ teḍra-d deg usireg n tɣellist.
 sec-error-library-failure = Tuccḍa n temkaṛḍit n tɣellist.
 sec-error-bad-data = tamkaṛḍit n tɣellist: iremsed yir isefka.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Ur izmir ara ad izmek: Alguritl n uwgelhen n t
 sec-error-pkcs7-bad-signature = Asenqed n uzmul ur iddi ara: ulac amzamal, deqs n imzamalen neɣ isefka xuṣṣen neɣ mači d imeɣta.
 sec-error-unsupported-keyalg = Alugaritm n tsarutt ur iţusefrak ara neɣ arussin.
 sec-error-decryption-disallowed = Ur uzmir ara ad izmek: iwgelhen  s useqdec n ulugaritm neɣ teɣzi n tsarutt ur nettusireg ara.
-xp-sec-fortezza-bad-card = Takarḍa Fortezza ur tettuwennez ara akken iwata. Ma ulac aɣilif, kkes-itt sakin rri-tt i win ik t-id-yefkan.
-xp-sec-fortezza-no-card = Ula d yiwet n takarḍa Fortezza ur tettwaf
-xp-sec-fortezza-none-selected = Ula d yiwet n takarḍa Fortezza ur tefrin
-xp-sec-fortezza-more-info = Ma ula aɣilif Fren taweggiṭ ɣef fiɣef̣ tebɣiḍ ugar n telɣut.
-xp-sec-fortezza-person-not-found = Ulac teweggiṭ
-xp-sec-fortezza-no-more-info = Ulac talɣut-nniḍen ɣef tweggiṭ-agi
-xp-sec-fortezza-bad-pin = Tangalt Pin d tarameɣtut
-xp-sec-fortezza-person-error = Ur izmir ara ad iwennez tiweggiḍin Fortezza.
 sec-error-no-krl = Ula d yiwet n tebdart n tsura ittuẓaɛen n uselkin n usmel-agi ur telli.
 sec-error-krl-expired = Tabdart n tsura ittuẓaɛen KRL n uselkin n usmel-agi tfut.
 sec-error-krl-bad-signature = Tabdart n tsura ittuẓaɛen KRL n uselkin n usmel-agi ɣur-s azmul arameɣtu.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Aselkin s wazun-agi yella yakan.
 sec-error-key-nickname-collision = Tasarutt s wazun-agi tella yakan.
 sec-error-safe-not-created = tuccḍa di tmernan tɣawsa taɣelsant
 sec-error-baggage-not-created = Tuccḍa di tmerna n tɣawsa n tṛekkazt
-xp-java-remove-principal-error = Ur izmir ara ad yekkes agejdan.
-xp-java-delete-privilege-error = Ur izmir ara ad yekkes taseglut
-xp-java-cert-not-exists-error = Agejdan-agi ur ɣur-s ara aselkin
 sec-error-bad-export-algorithm = Alguritm ittusran ur ittusireg ara.
 sec-error-exporting-certificates = Tuccḍa deg aɛṛaḍ n usifeḍ n iselkan.
 sec-error-importing-certificates = Tuccḍa deg aɛṛaḍ n ukter n iselkan.
@@ -339,6 +320,7 @@ sec-error-locked-password = Awal uffir yeskweṛ.
 sec-error-unknown-pkcs11-error = Tuccḍa PKCS #11 tarussint.
 sec-error-bad-crl-dp-url = URL arameɣtu neɣ ur ittusefrak ara deg isem n wagaz n uwziwez CRL.
 sec-error-cert-signature-algorithm-disabled = Aselkin ittuzmel s ulguritm n uzmul yettwassens acku d araɣelsan.
+
 mozilla-pkix-error-key-pinning-failure = Aqeddac iseqdac "key pinning" (HPKp) acu kan ula d yiwen n izirig ur iger taflest deg iselkan
 mozilla-pkix-error-ca-cert-used-as-end-entity = Aqeddac yesseqdac aselkin s uziɣzef n tmara taḥerfit i t-id-yemmalen am udabu n uselken. Deg iselkan i d-ittunefken akken iwata, aya mačči d ameɣtu.
 mozilla-pkix-error-inadequate-key-size = Aqeddac imudd-d aselkin ideg teɣzi n tsarut meẓẓiyet aṭas akken ad yessenker tuqqna.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Aqeddac imudd-d aselkin igebren as
 mozilla-pkix-error-empty-issuer-name = Aqeddac imudd-d aselkin s yisem n udabu ilem.
 mozilla-pkix-error-additional-policy-constraint-failed = Tamara n testratijit-nniḍen tecceḍ deg usentem n uselkin-agi.
 mozilla-pkix-error-self-signed-cert = Aselkin-agi ur yettwaman ara acku d uzmilman.
+
+xp-java-remove-principal-error = Ur izmir ara ad yekkes agejdan.
+xp-java-delete-privilege-error = Ur izmir ara ad yekkes taseglut
+xp-java-cert-not-exists-error = Agejdan-agi ur ɣur-s ara aselkin
+
+xp-sec-fortezza-bad-card = Takarḍa Fortezza ur tettuwennez ara akken iwata. Ma ulac aɣilif, kkes-itt sakin rri-tt i win ik t-id-yefkan.
+xp-sec-fortezza-no-card = Ula d yiwet n takarḍa Fortezza ur tettwaf
+xp-sec-fortezza-none-selected = Ula d yiwet n takarḍa Fortezza ur tefrin
+xp-sec-fortezza-more-info = Ma ula aɣilif Fren taweggiṭ ɣef fiɣef̣ tebɣiḍ ugar n telɣut.
+xp-sec-fortezza-person-not-found = Ulac teweggiṭ
+xp-sec-fortezza-no-more-info = Ulac talɣut-nniḍen ɣef tweggiṭ-agi
+xp-sec-fortezza-bad-pin = Tangalt Pin d tarameɣtut
+xp-sec-fortezza-person-error = Ur izmir ara ad iwennez tiweggiḍin Fortezza.

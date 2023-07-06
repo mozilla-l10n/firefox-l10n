@@ -4,6 +4,7 @@
 
 about-httpsonly-title-alert = Alɣu n uskar HTTPS-Only
 about-httpsonly-title-site-not-available = Ulac taɣellist n usmel
+
 # Variables:
 #   $websiteUrl (String) - Url of the website that failed to load. Example: www.example.com
 about-httpsonly-explanation-unavailable2 = Tremdeḍ askarHTTPS-Only  i tɣellist ifazen, yerna ulac lqem n HTTPS n <em>{ $websiteUrl }</em>.
@@ -11,6 +12,7 @@ about-httpsonly-explanation-question = D acu i d-yeglan s wugur-a?
 about-httpsonly-explanation-nosupport = Ahat, asmel web ur isefrak ara s sshala HTTPS.
 about-httpsonly-explanation-risk = Yezmer daɣen yella uẓeddam yettekkan. Ma yella tenwiḍ ad terzuḍ ɣer usmel web, ur ilaq ara ad teskecmeḍ kra seg talɣut tabaḍnit am wawalen uffiren, imaylen neɣ ttfaṣil n tkarḍa n usellek.
 about-httpsonly-explanation-continue = Ma tkemmleḍ, askar HTTPS-Only ad yettwasens i kra n wakud i usmel-a.
+
 about-httpsonly-button-continue-to-site = Kemmel ɣer usmel HTTP
 about-httpsonly-button-go-back = Uɣal ɣer deffir
 about-httpsonly-link-learn-more = Issin ugar…

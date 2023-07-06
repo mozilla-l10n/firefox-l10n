@@ -26,10 +26,6 @@ certmgr-people = Ɣur-k iselkinen ɣef ufaylu  yessuluyen imdanen-agi
 certmgr-server = Inekcumen-a sbadun-d tisuraf n tuccḍa n uselkn n uqeddac
 certmgr-ca = Ɣur-k iselkinen ɣef ufaylu yessuluyen iduba-agi n iselkinen
 
-certmgr-edit-ca-cert =
-    .title = Ẓreg iɣewwaṛen n teflest n udabu n uselken
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Ẓreg iɣewwaṛen n teflest n udabu n uselken
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Aselkin-agi yezmer ad isulu imaylen n iseqdacen.
-
-certmgr-delete-cert =
-    .title = Kkes aselkin
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Kkes aselkin
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Aqeddac
-
-certmgr-override-lifetime =
-    .label = Tangazt n tudert
 
 certmgr-token-name =
     .label = Ibenk n tɣellist

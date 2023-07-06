@@ -28,18 +28,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Ales tawaledyawt n waccaren imedlen
         }
     .accesskey = a
+
 toolbar-context-menu-manage-extension =
     .label = Sefrek isiɣzaf
     .accesskey = n
 toolbar-context-menu-remove-extension =
     .label = Kkes asiɣzef
     .accesskey = v
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Mmel asiɣzef
     .accesskey = u
+
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -66,6 +69,7 @@ toolbar-context-menu-view-customize-toolbar-2 =
 toolbar-context-menu-pin-to-toolbar =
     .label = Senteḍ ɣer ufeggag n yifecka
     .accesskey = S
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Sken yal tikelt
     .accesskey = A
@@ -75,9 +79,11 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Sken kan deg yiccer amaynut
     .accesskey = O
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Sken ticraḍ n yisebtar tiyaḍ
     .accesskey = h
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Afeggag n wumuɣ
     .accesskey = A

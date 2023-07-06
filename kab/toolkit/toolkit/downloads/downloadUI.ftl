@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ur teffeɣ ara
        *[other] Ur ṭeffeɣ ara
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ma tebɣiḍ aţuɣaleḍ ɣer uskar arusrid tura, azdam amiran ad iţwafsex. Tebɣiḍ aţuɣaleḍ ɣer uskar arusrid?
        *[other] Ma tuɣaleḍ ɣer uskar war tuqqna, { $downloadsCount } n izdman ad ţwafxen. Tebɣiḍ aţuɣaleḍ ɣer uskar war tuqqna?
     }
 download-ui-dont-go-offline-button = Qqim s srid
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ma tmedleḍ asfaylu n tunigin tusligt tura, 1 n uzdam ad iţwasefsex. Tebɣiḍ aţefɣeḍ si tunigin tusligt?
        *[other] Ma tmedleḍ akk isfuyla n tunigin tusligt tura, { $downloadsCount } n yisadaren ittwasfesxen. Tebɣiḍ ad teffɣeḍ si tunigin tusligt?
     }
 download-ui-dont-leave-private-browsing-button = Qqim di tunigin tusligt
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Sefsex 1 n uzdam

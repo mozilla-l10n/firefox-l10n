@@ -20,19 +20,28 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Ldi umuɣ i { $extensionName }
+
 unified-extensions-item-message-manage = Sefrek asiɣzef
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Senteḍ ɣer ufeggag n yifecka
+
 unified-extensions-context-menu-manage-extension =
     .label = Sefrek asiɣzef
+
 unified-extensions-context-menu-remove-extension =
     .label = Kkes asiɣzef
+
 unified-extensions-context-menu-report-extension =
     .label = Mmel asiɣzef
+
 unified-extensions-context-menu-move-widget-up =
     .label = Ali
+
 unified-extensions-context-menu-move-widget-down =
     .label = Ader
+
+## Notifications
+

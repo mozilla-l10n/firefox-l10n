@@ -34,13 +34,6 @@ about-networking-messages-received = Iznan ţwarmsen-d
 about-networking-bytes-sent = Iṭamḍanen iţwaceggɛen
 about-networking-bytes-received = Itamḍanen iţwaremsen
 about-networking-logging = Aɣmis
-about-networking-log-tutorial = Wali <a data-l10n-name="logging">Asniɣmes HTTP </a> ɣe wamek ad tesqedceḍ afecku-agi.
-about-networking-current-log-file = Afaylu aɣmis amiran:
-about-networking-current-log-modules = Izegrar iɣmisen imiranen:
-about-networking-set-log-file = Sbadu afaylu aɣmis
-about-networking-set-log-modules = Sbadu izegrar iɣmisen
-about-networking-start-logging = Senker asniɣmes
-about-networking-stop-logging = Seḥbes asniɣmes
 about-networking-dns-lookup = Anadi DNS
 about-networking-dns-lookup-button = Fru
 about-networking-dns-domain = Taɣult:

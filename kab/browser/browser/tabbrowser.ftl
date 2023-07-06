@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Iccer amaynut
 tabbrowser-empty-private-tab-title = Iccer uslig amaynut
+
 tabbrowser-menuitem-close-tab =
     .label = Mdel Iccer
 tabbrowser-menuitem-close =
     .label = Mdel
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Ur iy-id-skan ara akka d asawen tana
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Sireg ilɣa am wi seg { $domain } i wakken ad tεeddiḍ ɣer yiccer-nsen
+
 tabbrowser-customizemode-tab-title = Sagen { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -142,3 +146,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Bder { $tabCount } n waccaren
+
+## Tab manager menu buttons
+

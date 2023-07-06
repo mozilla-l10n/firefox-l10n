@@ -8,26 +8,22 @@
 more-from-moz-title = Ugar seg { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Ugar seg { -vendor-short-name }
+
 more-from-moz-subtitle = Senqed ifarisen-nniḍen n { -vendor-short-name } i iteddun i internet zeddigen.
+
 more-from-moz-firefox-mobile-title = { -brand-product-name } aziraz
 more-from-moz-firefox-mobile-description = Iminig aziraz yettarran tudert-ik tabaḍnit deg umḍiq amezwaru.
-more-from-moz-firefox-mobile-description-advanced = I usewḥel n yineḍfaren neɣ i usenqes n wuguren i icudden ɣer tɣuri tawurmant, iminigen izirazen { -brand-product-name } teggen ayen yellan fell-asen i wakken ad tfaṛseḍ seg wayen igerrzen deg internet.
+
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Snirem aswir-nniḍen n tunigin tudrigt akked ummesten.
-more-from-moz-mozilla-vpn-description-advanced = { -mozilla-vpn-brand-name } irennu aswir-nniḍen n tunigin tudrigt d ummesten. Daɣen, ayen yemgaraden ɣef VPNs wiyaḍ,  yettwaḍman, ur iṭṭafar ara tigawin-ik.
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-title = { -rally-brand-name }
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-description = Sers isefka-inek ad ilin i lmendad n internet igerrzen i yal yiwen.
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-description-advanced = Mudd isefka-inek•inem i yinadiyen i ixeddmen i wakken ad d-snulfan internet aɣellsan, yeldin akk i medden mačči i Big Tech.
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-button-mozilla-rally-2 = Rnu ɣer { -rally-short-name }
+
 more-from-moz-qr-code-box-firefox-mobile-title = Sader-it-id s useqdec n yibenk-ik aziraz. Welleh takamiṛat-ik ɣer tengalt QR. Akken ara d-iban useɣwen, sit fell-as.
 more-from-moz-qr-code-box-firefox-mobile-button = Azen axir imayl ɣer tiliɣri-inek
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Tangalt QR i usader n { -brand-product-name } aziraz
+
 more-from-moz-button-mozilla-vpn-2 = Awi VPN
+
 more-from-moz-learn-more-link = Issin ugar
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page

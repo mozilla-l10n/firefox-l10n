@@ -13,6 +13,7 @@ xpinstall-prompt-message = Ad tettaɛraḍeḍ ad tesbeddeḍ azegrir seg { $hos
 ##
 
 xpinstall-prompt-header-unknown = Sireg asmel arussin ad yesbedd azegrir?
+
 xpinstall-prompt-dont-allow =
     .label = Ur sirig ara
     .accesskey = D
@@ -41,6 +42,7 @@ xpinstall-disabled = Asebded n yiseɣẓanen yewḥel. Sit ɣef Rmed sakin ɛre�
 xpinstall-disabled-button =
     .label = Rmed
     .accesskey = r
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -49,6 +51,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) yesweḥl-it une
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Anedbal-ik·im n unagraw ur yeǧǧi ara asmel-a ad isebded aseɣẓan ɣef uselkim-inek·inem.
 addon-install-full-screen-blocked = Asebeddi n yizegrar ur yettwasireg ara deg uskar n ugdil aččuṛan neɣ uqbel anekcum ɣur-s.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ittwarna ɣer { -brand-short-name }
@@ -66,6 +69,7 @@ addon-removal-title = Kkes { $name }?
 addon-removal-message = Kkes { $name } seg { -brand-shorter-name }?
 addon-removal-button = Kkes
 addon-removal-abuse-report-checkbox = Mmel asiɣzef-a i { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -74,6 +78,7 @@ addon-downloading-and-verifying =
        *[other] Asader d usenqed n { $addonCount } n yizegrar…
     }
 addon-download-verifying = Asenqed iteddu
+
 addon-install-cancel-button =
     .label = Sefsex
     .accesskey = F

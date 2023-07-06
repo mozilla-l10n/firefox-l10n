@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Tella-d tuccḍa deg tuzna n uneqqis. Ttxil εreḍ tikkelt-nniḍen.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Iseggem usmel? Azen aneqqis
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Alugen
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Ugar n telɣut ɣef Ummesten yettwaseǧehden mgal aḍfaṛ
+
 protections-panel-etp-on-header = Ammesten yettwaseǧehden mgal aḍfaṛ irmed i usmel-a
 protections-panel-etp-off-header = Ammesten yettwaseǧehden mgal aḍfaṛ yensa i usmel-a
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Ur iteddu ara usmel?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Ur iteddu ara usmel?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Meṛṛa ineḍfaṛen ɣe
 ##
 
 protections-panel-no-trackers-found = Ulac ineḍfaren i yessen { -brand-short-name } ittwafen deg usebter-a.
+
 protections-panel-content-blocking-tracking-protection = Agbur n uḍfaṛ
+
 protections-panel-content-blocking-socialblock = Ineḍfaṛen n iẓeḍwa imettanen
 protections-panel-content-blocking-cryptominers-label = Ikripṭuminaren
 protections-panel-content-blocking-fingerprinters-label = Idsilen umḍinen
@@ -64,6 +70,7 @@ protections-panel-protectionsdashboard-label = Ammesten n tfelwit n usenqed
 
 # The header of the list
 protections-panel-site-not-working-view-header = Sen ammesten ma tesɛiḍ uguren d:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Urtiyen n unekcum
 protections-panel-site-not-working-view-issue-list-forms = Tiferkiyin
@@ -71,6 +78,7 @@ protections-panel-site-not-working-view-issue-list-payments = Asellek
 protections-panel-site-not-working-view-issue-list-comments = Iwenniten
 protections-panel-site-not-working-view-issue-list-videos = Tividyutin
 protections-panel-site-not-working-view-issue-list-fonts = Tisefsiyin
+
 protections-panel-site-not-working-view-send-report = Azen aneqqis
 
 ##
@@ -80,13 +88,16 @@ protections-panel-cryptominers = Ikripṭuminaren seqdacen tazmert n usiḍen n 
 protections-panel-fingerprinters = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ.
 protections-panel-tracking-content = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara.
 protections-panel-social-media-trackers = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti.
+
 protections-panel-description-shim-allowed = Kra n yineḍgaren yettwaṛecmen ddaw-a yekkes-asen usewḥel amuran ɣef usebter-a acku temyigweḍ yid-sen.
 protections-panel-description-shim-allowed-learn-more = Issin ugar
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Yekkes usewḥel amuran i yineḍfaren-a
+
 protections-panel-content-blocking-manage-settings =
     .label = Sefrek iɣewwaṛen n tɣellist
     .accesskey = S
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Cegger asmel yerẓen
 protections-panel-content-blocking-breakage-report-view-description = Asewḥel n kra n ineḍfaṛen izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili { -brand-short-name } igerrez i yal yiwen.  aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.) <label data-l10n-name="learn-more">Issin ugar</label>
@@ -108,6 +119,7 @@ protections-panel-cookie-banner-handling-header = Asenqes n yiɣarracen n yinaga
 protections-panel-cookie-banner-handling-enabled = Rmed i usmel-a
 protections-panel-cookie-banner-handling-disabled = Sens i usmel-a
 protections-panel-cookie-banner-handling-undetected = Asmel-a ur yettusefrak ara akka tura
+
 protections-panel-cookie-banner-view-title =
     .title = Asenqes n yiɣarracen n yinagan n tuqqna
 # Variables

@@ -83,8 +83,6 @@ perftools-thread-renderer =
     .title = Mi ara WebRender yetturmed, asqerdec i iselkamen isawalen OpenGL
 perftools-thread-render-backend =
     .title = Asqerdec n WebRender RenderBackend
-perftools-thread-paint-worker =
-    .title = Mi ara yermed Painting n off-main-thread, asqerdec iɣef Painting iḍerru
 perftools-thread-timer =
     .title = Amakud yessefrak usqerdec (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -132,6 +130,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Taneflit  web
