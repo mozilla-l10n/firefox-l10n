@@ -74,6 +74,8 @@ sandbox-title = Ibhokisi yesanti
 
 audio-backend = I-Audio Backend
 
+## Codec support table
+
 ##
 
 

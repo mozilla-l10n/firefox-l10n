@@ -25,13 +25,6 @@ about-networking-messages-received = Umyalezo Ufunyenwe
 about-networking-bytes-sent = IiByte Zithunyelwe
 about-networking-bytes-received = IiByte Zifunyenwe
 about-networking-logging = Iyaloga
-about-networking-log-tutorial = Jonga i-<a data-l10n-name="logging">HTTP Logging</a> ukuze ufumane imiyalelo ngendlela yokusebenzisa esi sixhobo.
-about-networking-current-log-file = Ifayile yaNgoku yokuLoga:
-about-networking-current-log-modules = Iimodyuli zaNgoku zokuLoga:
-about-networking-set-log-file = Seta iFayile yokuLoga
-about-networking-set-log-modules = Seta iiModyuli zokuLoga
-about-networking-start-logging = Qalisa ukuLoga
-about-networking-stop-logging = Yeka ukuLoga
 about-networking-dns-lookup = Ukhangelo LweDNS
 about-networking-dns-lookup-button = Combulula
 about-networking-dns-domain = Idomeyini:

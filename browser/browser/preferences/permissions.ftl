@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Izinxaxhi
-    .style = width: 45em
-
 permissions-window2 =
     .title = Izinxaxhi
     .style = min-width: 45em
@@ -60,10 +56,6 @@ permissions-exceptions-popup-desc = Ungabalula ukuba zeziphi na iiwebhusayithi e
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Ezikhethekileyo - IiLogini Ezigciniweyo
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Ezikhethekileyo - IiLogini Ezigciniweyo
     .style = { permissions-window2.style }
@@ -88,4 +80,8 @@ permissions-exceptions-addons-desc = Ungabalula ukuba zeziphi na iiwebhusayithi 
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

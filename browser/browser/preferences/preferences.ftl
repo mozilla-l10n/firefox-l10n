@@ -6,18 +6,24 @@ do-not-track-description = Thumelela iiwebhsayithi umqondiso othi "Musa ukuTreka
 do-not-track-learn-more = Funda ngakumbi
 do-not-track-option-always =
     .label = Qho
+
 pane-general-title = Jikelele
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = Khangela
 category-search =
     .tooltiptext = { pane-search-title }
+
 pane-privacy-title = UbuNgasese noKhuseleko
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 help-button-label = INkxaso ye{ -brand-short-name }
+
 focus-search =
     .key = f
+
 close-button =
     .aria-label = Vala
 
@@ -58,28 +64,38 @@ search-results-header = IZiphumo zoKhangelo
 ## General Section
 
 startup-header = Qalisa
+
 always-check-default =
     .label = Khangela qho ukuba i-{ -brand-short-name } iyibhrawuza yakho esisiseko
     .accesskey = o
+
 is-default = I-{ -brand-short-name } kungokunje iyibhrawuza yakho esisiseko
 is-not-default = I-{ -brand-short-name } ayiyobhrawuza yakho esisiseko
+
 tabs-group-header = Izilungelelanisi zemigca
+
 ctrl-tab-recently-used-order =
     .label = Imijikelo yeCtrl+Tab kwiithebhu kulungelelwano olusandul' ukusetyenziswa
     .accesskey = T
+
 warn-on-open-many-tabs =
     .label = Ndikulumkise xa uvula iithebhu ezininzi ezingacothisa i-{ -brand-short-name }
     .accesskey = c
+
 show-tabs-in-taskbar =
     .label = Bonisa umbono wangaphambili wethebhu kwithaskhbha ye-Windows
     .accesskey = B
+
 browser-containers-enabled =
     .label = Vumela iiThebhu zeKhonteyina
     .accesskey = u
+
 browser-containers-learn-more = Funda ngakumbi
+
 browser-containers-settings =
     .label = Iisetingi…
     .accesskey = s
+
 containers-disable-alert-title = Ufuna ukuvala Zonke iiThebhu zeeKhonteyina?
 
 ## Variables:
@@ -90,6 +106,7 @@ containers-disable-alert-desc =
         [one] Ukuba uyazivala iiThebhu zeKhonteyina ngoku, i-{ $tabCount } ithebhu yekhonteyina iya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
        *[other] Ukuba uyazivala iiThebhu zeKhonteyina ngoku, ii-{ $tabCount } iithebhu zekhonteyina ziya kuvalwa. Uqinisekile ukuba ufuna ukuzivala iiThebhu zeKhonteyina?
     }
+
 containers-disable-alert-ok-button =
     { $tabCount ->
         [one] Vala iThebu yeKhonteyina i-{ $tabCount }
@@ -99,7 +116,9 @@ containers-disable-alert-ok-button =
 ##
 
 containers-disable-alert-cancel-button = Zigcina zivuliwe
+
 containers-remove-alert-title = Ufuna ukuSusa le Khonteyina?
+
 # Variables:
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
@@ -107,6 +126,7 @@ containers-remove-alert-msg =
         [one] Ukuba ususa le Khonteyina ngoku, ithebhu yekhonteyina i-{ $count } iya kuvalwa. Uqinisekile ukuba ufuna ukuyisusa le Khonteyina?
        *[other] Ukuba uyayisusa le khonteyina ngoku, iithebhu zekhonteyina ze-{ $count } ziya kuvalwa. Uqinisekie ukuba ufuna ukuyisusa le Khonteyina?
     }
+
 containers-remove-ok-button = Yisuse le Khonteyina
 containers-remove-cancel-button = Musa ukuyisusa le Khonteyina
 
@@ -116,22 +136,29 @@ default-font = Ifonti esisiseko
     .accesskey = I
 default-font-size = Isayizi
     .accesskey = I
+
 advanced-fonts =
     .label = Kwangaphambili…
     .accesskey = K
+
 choose-language-description = Khetha ulwimi oluthandayo lokubonisa amaphepha
+
 choose-button =
     .label = Khetha…
     .accesskey = e
+
 translate-web-pages =
     .label = Guqulela isiqulatho sewebhu
     .accesskey = G
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Iinguqulelo ngu <img data-l10n-name="logo"/>
+
 translate-exceptions =
     .label = Izinxaxhi…
     .accesskey = n
+
 check-user-spelling =
     .label = Khangela upelo lwakho njengoko uchwetheza
     .accesskey = u
@@ -139,8 +166,10 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 download-header = Okukhutshelwayo
+
 download-save-where = Gcina iifayile kwi
     .accesskey = c
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -152,42 +181,54 @@ download-choose-folder =
             [macos] a
            *[other] w
         }
+
 download-always-ask-where =
     .label = Ndikubuze qho ngendawo emazigcinwe kuyo iifayile
     .accesskey = N
+
 applications-header = Ii-aplikheyishini
+
 applications-filter =
     .placeholder = Khetha uhlobo lweefayile okanye ii-aplikheyishini
+
 applications-type-column =
     .label = Udidi lomxholo
     .accesskey = l
+
 applications-action-column =
     .label = Inyathelo
     .accesskey = I
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Ifayile ye-{ $extension }
 applications-action-save =
     .label = Gcina Ifayile
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Sebenzisa i-{ $app-name }
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Sebenzisa { $app-name } (okwesiseko)
+
 applications-use-other =
     .label = Sebenzisa enye…
 applications-select-helper = Lungiselela ukukhetha Inkqubo Yoncedo
+
 applications-manage-app =
     .label = IiNkcukacha zeAplikheshini…
 applications-always-ask =
     .label = Soloko ucela
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -199,32 +240,44 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
 ##
 
 play-drm-content-learn-more = Funda okungakumbi
+
 update-application-title = I-{ -brand-short-name } iZihlaziyi
+
 update-application-version = Uhlobo { $version } <a data-l10n-name="learn-more">Yintoni entsha</a>
+
 update-history =
     .label = Bonisa iMbali yoHlaziyo…
     .accesskey = l
+
 update-application-allow-description = Vumela i-{ -brand-short-name } ukuba
+
 update-application-check-choose =
     .label = Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na
     .accesskey = K
+
 update-application-manual =
     .label = Ungaze ukhangele uhlaziyo (akunconyelwa)
     .accesskey = U
+
 update-application-use-service =
     .label = Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo
     .accesskey = y
@@ -232,18 +285,25 @@ update-application-use-service =
 ## General Section - Performance
 
 performance-title = Ukusebenza
+
 performance-use-recommended-settings-checkbox =
     .label = Sebenzisa iisetingi ezinconyelwayo zokusebenza
     .accesskey = S
+
 performance-use-recommended-settings-desc = Ezi setingi zilungiselelwe ihadwe nenkqubo yokusebenza yekhompyutha yakho.
+
 performance-settings-learn-more = Funda okungakumbi
+
 performance-allow-hw-accel =
     .label = Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka
     .accesskey = d
+
 performance-limit-content-process-option = Inkqubo yesiqulatho nomlinganiselo
     .accesskey = l
+
 performance-limit-content-process-enabled-desc = Iinkqubo ezongezelelekileyo zesiqulatho zinokuphucula ukusebenza xa usebenzisa iithebhu ezininzi, kodwa iya kusebenzisa imemori engakumbi.
 performance-limit-content-process-blocked-desc = Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-{ -brand-short-name }. <a data-l10n-name="learn-more">Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi</a>
+
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
@@ -252,18 +312,23 @@ performance-default-content-process-count =
 ## General Section - Browsing
 
 browsing-title = Ukubhrawuza
+
 browsing-use-autoscroll =
     .label = Sebenzisa ukusikrola ngokuzenzekelayo
     .accesskey = u
+
 browsing-use-smooth-scrolling =
     .label = Sebenzisa ukuhambahamba kokubhaliweyo okugudileyo
     .accesskey = g
+
 browsing-use-onscreen-keyboard =
     .label = Bonisa ukuphatha nekhibhodi xa kuyimfuneko
     .accesskey = k
+
 browsing-use-cursor-navigation =
     .label = Sebenzisa qho amaqhosha ekheza ukufunisela kumakhasi
     .accesskey = a
+
 browsing-search-on-start-typing =
     .label = Khangela iteksti xa uqalisa ukuchwetheza
     .accesskey = t
@@ -290,6 +355,7 @@ use-current-pages =
            *[other] Sebenzisa amaPhepha aNgoku
         }
     .accesskey = S
+
 choose-bookmark =
     .label = Sebenzisa iBhukhmakhi…
     .accesskey = B
@@ -311,20 +377,27 @@ choose-bookmark =
 ## Search Section
 
 search-engine-default-header = Injini yesiseko yokukhangela
+
 search-suggestions-option =
     .label = Nika khangela iingcebiso
     .accesskey = k
+
+
 search-suggestions-cant-show = Amacebiso okukhangela akayi kuboniswa kwiziphumo zebha yendawo ngenxa yokuba uyile i-{ -brand-short-name } ukuba ingaze iyikhumbule imbali.
+
 search-choose-engine-column =
     .label = Iinjini zokukhangela
 search-choose-keyword-column =
     .label = Igama eliphambili
+
 search-restore-default =
     .label = Buyisela Iinjini zokukhangela zesiseko
     .accesskey = I
+
 search-remove-engine =
     .label = Susa
     .accesskey = S
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Phindaphinda igama eliphambili
@@ -348,6 +421,7 @@ containers-add-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Phatha iWebhu Yakho Apho Ukhoyo
+
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -389,6 +463,7 @@ sync-sign-in =
 sync-engine-bookmarks =
     .label = Izalathisi eziphawulayo
     .accesskey = e
+
 sync-engine-history =
     .label = Imbali
     .accesskey = l
@@ -396,12 +471,15 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = Igama lesixhobo
+
 sync-device-name-change =
     .label = Tshintsha iGama leSixhobo...
     .accesskey = s
+
 sync-device-name-cancel =
     .label = Rhoxisa
     .accesskey = o
+
 sync-device-name-save =
     .label = Gcina
     .accesskey = i
@@ -424,12 +502,14 @@ sync-verification-not-sent-body = Asikwazi kuthumela imeyili yokuqinisekisa ngel
 forms-exceptions =
     .label = Izinxaxhi…
     .accesskey = x
+
 forms-saved-logins =
     .label = Ezigciniweyo Logini…
     .accesskey = L
 forms-master-pw-change =
     .label = Guqula iPhaswedi eyiMasta…
     .accesskey = P
+
 forms-master-pw-fips-desc = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 
 ## OS Authentication dialog
@@ -438,6 +518,7 @@ forms-master-pw-fips-desc = Ukuguqulwa Kwegama Lokugqithisa Akuphumelelanga
 ## Privacy Section - History
 
 history-header = Imbali
+
 # This label is followed, on the same line, by a dropdown list of options
 # (Remember history, etc.).
 # In English it visually creates a full sentence, e.g.
@@ -449,22 +530,28 @@ history-header = Imbali
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = I-{ -brand-short-name } iya
     .accesskey = i
+
 history-remember-option-all =
     .label = Khumbula imbali
 history-remember-option-never =
     .label = Ungaze ukhumbule imbali
 history-remember-option-custom =
     .label = Sebenzisa iisethingi zesiqhelo kwimbali
+
 history-dontremember-description = i-{ -brand-short-name } iya kusebenzisa iisethingi ezifanayo njengokubhrawuza kwangasese kwaye ayiyi kukhumbula nayiphi na imbali njengokuba ubhrawuza iwebhu.
+
 history-private-browsing-permanent =
     .label = Soloko usebenzisa imo yokubhrawuza yangasese
     .accesskey = o
+
 history-remember-search-option =
     .label = Khumbula imbali yokukhangela neyefom
     .accesskey = a
+
 history-clear-on-close-option =
     .label = Susa imbali xa i-{ -brand-short-name } ivala
     .accesskey = S
+
 history-clear-on-close-settings =
     .label = Imimiselo…
     .accesskey = m
@@ -484,6 +571,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Vula iithebhu
     .accesskey = V
+
 addressbar-suggestions-settings = Tshintsha iipreferensi zamacebiso enjini yokukhangela
 
 ## Privacy Section - Content Blocking
@@ -505,9 +593,11 @@ addressbar-suggestions-settings = Tshintsha iipreferensi zamacebiso enjini yokuk
 ## Privacy Section - Permissions
 
 permissions-header = Iimvume
+
 permissions-block-popups =
     .label = Thintela iifestile ezizivelelayo
     .accesskey = T
+
 permissions-addon-exceptions =
     .label = Izinxaxhi…
     .accesskey = I
@@ -515,6 +605,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-health-report-link = Funda okungakumbi
+
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko
@@ -525,12 +616,15 @@ collection-health-report-disabled = Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwa
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
 security-header = Ukhuseleko
+
 security-enable-safe-browsing =
     .label = Bloka isiqulatho esiyingozi nesiqhathayo
     .accesskey = B
+
 security-block-downloads =
     .label = Bloka ukudawnlowuda okuyingozi
     .accesskey = u
+
 security-block-uncommon-software =
     .label = Ndilkuumkise ngesoftwe engafunwayo nengaqhelekanga
     .accesskey = a
@@ -538,6 +632,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Izatifikethi
+
 certs-enable-ocsp =
     .label = Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi
     .accesskey = B

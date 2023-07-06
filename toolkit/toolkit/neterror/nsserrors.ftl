@@ -70,6 +70,7 @@ ssl-error-rx-unexpected-hello-verify-request = I-SSL ifumene iHello Verify Reque
 ssl-error-rx-unexpected-cert-status = I-SSL ifumene iCertificate Status engalindelwanga esinomyalezo woxhawulo-zandla.
 ssl-error-incorrect-signature-algorithm = I-algorithimu yosayino olungachananga ichazwe kwi-elementi esayinwe ngedijithali.
 ssl-error-weak-server-cert-key = Isatifikethi seseva siqukiwe kwikhi kawonke wonke ebi-ethe ethe kakhulu.
+
 sec-error-input-len = ilayibrari yokhuseleko iye yafumana impazamo yobude be-input.
 sec-error-invalid-args = ilayibrari yokhuseleko; iingxoxo ezingezizo.
 sec-error-invalid-algorithm = ilayibrari yokhuseleko; ialgorithimu engeyiyo.
@@ -81,12 +82,10 @@ sec-error-crl-invalid = I-CRL entsha inolungiselelo olungasebenziyo.
 sec-error-pkcs7-keyalg-mismatch = Ayikwazi kudikripta: i-algorithim yoku-enkript ikhi ayingqamani nesatifikethi sakho.
 sec-error-unsupported-keyalg = I-algorithimu yekhi engaxhaswayo nengaziwayo.
 sec-error-decryption-disallowed = Ayikwazi kudikripta: i-enkripta isebenzisa i-algorithim engavunyelwanga okanye isayizi yekhi.
-xp-sec-fortezza-bad-pin = I-pin Engasebenziyo
 sec-error-no-krl = Ayikho iKRL yesi satifikethi sesayithi efunyenweyo.
 sec-error-krl-expired = IKRL yesi satifikethi sesayithi iphinde yavuselelwa.
 sec-error-revoked-key = Ikhi yesi satifikethi sesayithi siphinde savuselelwa.
 sec-error-krl-invalid = I-KRL entsha inefomathi engasebenziyo.
-xp-java-cert-not-exists-error = Lo prinsipali akanaso isatifikethi
 sec-error-bad-export-algorithm = Ialgorithimu efunekayo ayivunyelwanga.
 sec-error-pkcs12-unsupported-version = Ayikwazi kuthumela ngaphakathi.Uhlobo lwefayile aluxhaswa.
 sec-error-inadequate-cert-type = Uhlobo lwesatifikethi aluvunyelwanga usetyenziso.
@@ -110,3 +109,7 @@ sec-error-bad-http-response = Iseva ibuyisele impendulo engentle yeHTTP
 sec-error-bad-ldap-response = Iseva ibuyisele impendulo engentle yeLDAP
 sec-error-pkcs11-function-failed = Imodyuli yePKCS #11 ibuyise i-CKR_FUNCTION_FAILED, ibonisa ukuba umsebenzi oceliweyo awunakwenziwa. Ukuzama umsebenzi ofanayo kwakhona kusenokuphumelela.
 sec-error-pkcs11-device-error = I-PKCS #11 modyuli ibuyisele i-CKR_DEVICE_ERROR, ibonisa ukuba ingxaki iye yavela ngetokheni okanye islothi.
+
+xp-java-cert-not-exists-error = Lo prinsipali akanaso isatifikethi
+
+xp-sec-fortezza-bad-pin = I-pin Engasebenziyo

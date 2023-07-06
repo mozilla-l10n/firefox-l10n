@@ -41,6 +41,7 @@ account-single-tab-arriving-from-device-title = Ithebhu evela kwi-{ $deviceName 
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = IiThebhu ziFunyenwe
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
