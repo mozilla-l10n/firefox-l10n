@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-httpsonly-title-alert = Միայն HTTPS կերպ ի տագնապ
+
 about-httpsonly-explanation-question = Ինչի՞ վրա կարող է սա ազդել:
 about-httpsonly-explanation-nosupport = Ամենայն հավանականությամբ կայքը պարզապես չի աջակցում HTTPS:
 about-httpsonly-explanation-risk = Հնարավոր է նաև, որ հարձակվող է գործում: Եթե որոշեք այցելել կայքը, ապա չպետք է մուտքագրեք որևէ զգայուն տեղեկություն, ինչպես օրինակ՝ գաղտնաբառեր, էլ. փոստեր կամ բանկային քարտերի տվյալներ:
 about-httpsonly-explanation-continue = Եթե շարունակեք, Միայն HTTPS կերպը ժամանակավոր կանջատվի այս կայքում:
+
 about-httpsonly-button-go-back = Վերադառնալ
 
 ## Suggestion Box that only shows up if a secure connection to www can be established

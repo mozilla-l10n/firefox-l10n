@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ավելացնել պիտակներ
+
 pocket-panel-saved-error-generic = Սխալ՝ { -pocket-brand-name }-ում պահպանելիս:
 pocket-panel-saved-error-tag-length = Պիտակը սահմանափակված է 25 գրանշանով
 pocket-panel-saved-error-only-links = Միայն հղումները կարող են պահվել
@@ -19,14 +20,13 @@ pocket-panel-saved-page-removed = Էջը հեռացված է
 pocket-panel-saved-page-saved = Պահպանված է { -pocket-brand-name }-ում
 pocket-panel-saved-page-saved-b = Պահված է { -pocket-brand-name }-ում
 pocket-panel-saved-processing-remove = Էջը հեռացվում է…
-pocket-panel-saved-removed = Էջը հեռացվել է Իմ ցուցակից
 pocket-panel-saved-processing-tags = Պիտակների հավելում…
 pocket-panel-saved-remove-page = Հեռացնել Էջը
 pocket-panel-saved-save-tags = Պահպանել
 pocket-panel-saved-saving-tags = Պահպանում…
 pocket-panel-saved-suggested-tags = Առաջարկվող պիտակներ
 pocket-panel-saved-tags-saved = Պիտակները ավելացվել են
-pocket-panel-signup-view-list = Դիտել ցանկը
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Ավելացնել պիտակներ.
 
@@ -44,18 +44,17 @@ pocket-panel-signup-tagline-story-two = Դիտեք { -pocket-brand-name }-ում
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Իմ ցուցակը
 pocket-panel-home-welcome-back = Բարի վերադարձ
 pocket-panel-home-explore-popular-topics = Ուսումնասիրեք հանրաճանաչ թեմաները
 pocket-panel-home-discover-more = Բացահայտի՛ր ավելին
 pocket-panel-home-explore-more = Դիտարկել
+
 pocket-panel-home-most-recent-saves = Ահա ձեր ամենավերջին պահումները.
 pocket-panel-home-most-recent-saves-loading = Վերջին պահումները բեռնվում են…
 pocket-panel-home-new-user-message = Տեսեք ձեր վերջին պահումները այստեղ:
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Դիտել ցանկը
 pocket-panel-header-my-saves = Դիտեք Իմ պահածները
 pocket-panel-header-sign-in = Մուտք գործել
 

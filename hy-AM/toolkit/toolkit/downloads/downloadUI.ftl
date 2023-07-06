@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Չփակել
        *[other] Չփակել
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Եթե հիմա կապն անջատեք, 1 բեռնում կդադարեցվի. Ու՞զում էք կապն անջատել:
        *[other] Եթե հիմա կապն անջատեք, { $downloadsCount } բեռնավորումներ կդադարեցվեն. Ու՞զում եք կապն անջատել:
     }
 download-ui-dont-go-offline-button = Կապը չանջատել
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Եթե հիմա փակեք Գաղտնի դիտարկման էջը, 1 բեռնում կչեղարկվի: Փակե՞լ:
        *[other] Եթե հիմա փակեք Գաղտնի դիտարկման էջը, { $downloadsCount } ներբեռնումներ կչեղարկվեն: Փակե՞լ:
     }
 download-ui-dont-leave-private-browsing-button = Շարունակել Գաղտնի Դիտարկումը
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Չեղարկել 1 բեռնում

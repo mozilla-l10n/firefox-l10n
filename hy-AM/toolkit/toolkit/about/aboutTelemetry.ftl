@@ -131,12 +131,6 @@ about-telemetry-category-header = անվանակարգ
 about-telemetry-method-header = եղանակ
 about-telemetry-object-header = օբյեկտ
 about-telemetry-extra-header = հավելյալ
-about-telemetry-origin-section = Հեռուստաչափության սկզաղբյուր
-about-telemetry-origin-origin = Ծագում
-about-telemetry-origin-count = Քանակ
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link"> Firefox-ի աղբյուրի հեռաչափությունը </a> կոդավորում է տվյալները ուղարկելուց առաջ, այնպես որ { $telemetryServerOwner } կարող է հաշվել իրերը, առանց իմանալու որևէ { -brand-product-name } մուտքագրման համար: Ավելին իմանալու համար <a data-l10n-name="prio-blog-link"> </a>)։
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } գործնթաց

@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Էջանշել ներդիրները
     .accesskey = B
-bookmark-tab =
-    .label = Էջանշել ներդիրը
-    .accesskey = B
 tab-context-open-in-new-container-tab =
     .label = Բացել Նոր Պարունակ Ներդիրում
     .accesskey = e
@@ -103,6 +100,7 @@ tab-context-move-tabs =
            *[other] Տեղափոխել ներդիրները
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

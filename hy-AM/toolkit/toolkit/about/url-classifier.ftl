@@ -50,5 +50,9 @@ url-classifier-disabled = Անջատված է
 url-classifier-updating = թարմացում
 url-classifier-cannot-update = հնարավոր չէ թարմացնել
 url-classifier-success = հաջողվեց
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = թարմացման սխալ({ $error })
 url-classifier-download-error = բեռնման սխալ({ $error })

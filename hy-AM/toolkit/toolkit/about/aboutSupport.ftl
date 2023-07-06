@@ -146,6 +146,8 @@ media-capabilities-title = Մեդիա հնարավորություններ
 # List all the entries of the database.
 media-capabilities-enumerate = Վերցրեք գրառումները տվյալների բազայից
 
+## Codec support table
+
 ##
 
 intl-title = Միջազգայնացում և տեղայնացում

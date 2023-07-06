@@ -49,3 +49,4 @@ screenshots-private-window-error-details = Ներողություն անհարմ
 
 screenshots-generic-error-title = { -screenshots-brand-name }-ը գնաց գլխիվայր:
 screenshots-generic-error-details = Մենք վստահ չենք, թե ինչ է տեղի ունեցնել: Կրկին փորձեք կամ փորձեք ստանալ մեկ այլ էջի հանույթ:
+

@@ -38,9 +38,11 @@ menu-quit =
             [windows] ա
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Փակել { -brand-shorter-name }-ը
+
 menu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
@@ -214,8 +216,6 @@ menu-history-undo-menu =
     .label = Վերջին փակված ներդիրները
 menu-history-undo-window-menu =
     .label = Վերջին փակված պատուհանները
-menu-history-reopen-all-tabs = Վերաբացեք բոլոր ներդիրները
-menu-history-reopen-all-windows = Վերաբացեք բոլոր պատուհանները
 
 ## Bookmarks Menu
 
@@ -224,10 +224,6 @@ menu-bookmarks-menu =
     .accesskey = Է
 menu-bookmarks-manage =
     .label = Կառավարեք էջանիշները
-menu-bookmark-current-tab =
-    .label = Էջանշել ընթացիկ ներդիրը
-menu-bookmark-edit =
-    .label = Խմբագրել այս էջանիշը
 menu-bookmark-tab =
     .label = Էջանշել ընթացիկ ներդիրը…
 menu-edit-bookmark =
