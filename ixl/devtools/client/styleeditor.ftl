@@ -10,3 +10,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Chuk unpajte
     .accesskey = g
+

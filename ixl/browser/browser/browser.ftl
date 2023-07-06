@@ -5,41 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Axh kuxh la xaan axh stuul)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
-
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Axh kuxh la xaan axh stuul)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Axh kuxh la xaan axh stuul)
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -73,16 +38,12 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Jaj u tatinb'ale' uve' ni jaj u atinb'ale' uve' at kat axh
 urlbar-storage-access-anchor =
     .tooltiptext = Jaj u atinb'ale' ti' ib'anax aq'on ti' axaan stuul
-urlbar-translate-notification-anchor =
-    .tooltiptext = Q'axsa u u'uja' vaa' tu uma't yolb'al
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Il isuuchil ajatxab'en unq'a ilb'ale' moj ivatz vach'ich'e' tuk' u vaa'
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Jaj u atinb'ala' uve' at kat kan unq'a yole' uve' kolel tu kan tul ye'l Internet
 urlbar-password-notification-anchor =
     .tooltiptext = Jaj u atinb'ale' uve' kolel kat kan unq'a kach'ub' tetze'
-urlbar-translated-notification-anchor =
-    .tooltiptext = Il isuuchil iq'axsal u yole' tu u'uja'
 urlbar-plugins-notification-anchor =
     .tooltiptext = Il isuuchil ib'anb'el unq'a tz'ajsab' tetze'
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -122,11 +83,6 @@ urlbar-persistent-storage-blocked =
 
 ## Page Action Context Menu
 
-page-action-manage-extension =
-    .label = Il isuuchil tikat ni q'axkat…
-page-action-remove-extension =
-    .label = Sojsal  tikat ni  q'axkat
-
 ## Auto-hide Context Menu
 
 
@@ -161,9 +117,6 @@ bookmark-panel =
     .style = min-width: 23em
 
 ## Identity Panel
-
-identity-learn-more =
-    .value = Ootzi ka'te
 
 ## Window controls
 
@@ -209,6 +162,12 @@ browser-window-close-button =
 ## Labels shown above groups of urlbar results
 
 
+## Reader View toolbar buttons
+
+## Picture-in-Picture urlbar button
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
 ## Full Screen and Pointer Lock UI
 
 
@@ -219,6 +178,12 @@ browser-window-close-button =
 
 bookmarks-sidebar-content =
     .aria-label = Aq'ol texhlal
+
+## Variables:
+##   $isVisible (boolean): if the specific element (e.g. bookmarks sidebar,
+##                         bookmarks toolbar, etc.) is visible or not.
+
+##
 
 ## Library Panel items
 
@@ -250,6 +215,7 @@ library-bookmarks-menu =
 
 ##
 
+
 ui-tour-info-panel-close =
     .tooltiptext = Jupa
 
@@ -258,7 +224,6 @@ ui-tour-info-panel-close =
 
 
 ##
-
 
 ## Since the default position for PiP controls does not change for RTL layout,
 ## right-to-left languages should use "Left" and "Right" as in the English strings,
@@ -278,4 +243,18 @@ navbar-search =
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
 ## Unified extensions (toolbar) button
+
+## Unified extensions button when permission(s) are needed.
+## Note that the new line is intentionally part of the tooltip.
+
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
+## Autorefresh blocker
+
+## Firefox Relay integration
+
+## Add-on Pop-up Notifications
+
+## Pop-up warning
 

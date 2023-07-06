@@ -54,3 +54,7 @@ permissions-capabilities-listitem-block =
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

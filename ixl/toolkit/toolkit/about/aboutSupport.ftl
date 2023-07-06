@@ -18,6 +18,8 @@ locked-prefs-name = B'ii
 
 media-device-name = B'ii
 
+## Codec support table
+
 ##
 
 

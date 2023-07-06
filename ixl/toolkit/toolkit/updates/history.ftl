@@ -23,5 +23,7 @@ state-header = Tatine'
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Isuuchil
+
 update-installed-on = B'anel ve't tuch.
+
 update-status = Tatine':{ $status }

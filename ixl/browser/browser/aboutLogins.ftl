@@ -5,11 +5,6 @@
 
 about-logins-page-title = Ixe't aq'on as Iku' texhla uva' axh kuxh ootzin tetz
 
-login-filter =
-    .placeholder = Ichukpu ixe't aq'on
-
-create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
-
 fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
 fxaccounts-sign-in-sync-button = Xe'tisa u aq'one' aq'al uva' la teq'otzan unka'te'
 fxaccounts-avatar-button =
@@ -90,9 +85,10 @@ login-item-copied-password-button-text = Eesamal ve't ivatz
 login-item-save-changes-button = K'ol unq'a vee' b'anel tu ve't a'n
 login-item-save-new-button = Kola
 login-item-cancel-button = Ya'sakan
-login-item-time-changed = Imoxtel ve't ib'anax tuche': { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = B'anel ta'n: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Imoxtel ib'anb'ele':{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -143,6 +139,9 @@ about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' 
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 about-logins-confirm-remove-dialog-confirm-button = Sojsa
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Sojsa
@@ -175,6 +174,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
        *[other] Sojsa el u { $count } ixe'teb'al aq'on tulaj unq'a b'anb'al aq'one'?
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Eq'otzan unq'a xe'teb'al aq'one' as tuk' unq'a kach'ub' tetze'
 about-logins-confirm-export-dialog-message = Unq'a kach'ub' tetze' la ikol unq'a tz'ib'e' uva' tetz kuxhtu' ( echkole' vila', BadP @ssw0rd) echkole' uva' ab'il kuxh la jajon u aq'one' as la eel teq'oltzan.
 about-logins-confirm-export-dialog-confirm-button = Eq'o eltzan
@@ -191,7 +192,6 @@ about-logins-breach-alert-date = A' unq'a itxaap u web kat pal tzitza' { DATETIM
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = La b'en axh tu { $hostname }
-about-logins-breach-alert-learn-more-link = Ootzi ka'te
 
 ## Vulnerable Password notification
 

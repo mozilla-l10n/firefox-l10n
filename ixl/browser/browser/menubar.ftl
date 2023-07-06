@@ -127,6 +127,8 @@ menu-view-full-screen =
     .label = Ivatz Kaajayil
     .accesskey = K
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =

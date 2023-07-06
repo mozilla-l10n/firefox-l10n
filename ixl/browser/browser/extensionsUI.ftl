@@ -5,3 +5,4 @@
 webext-default-search-yes =
     .label = Kanoj
     .accesskey = K
+
