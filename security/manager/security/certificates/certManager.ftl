@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Òrgan werifikacje
 
-certmgr-edit-ca-cert =
-    .title = Editëje nastawë wiarë Òrganu Certifikacje (CA)
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Editëje nastawë wiarë Òrganu Certifikacje (CA)
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Nen certifikat mòże rozszlachòwac e-mailowëch brëkòwników.
 
-certmgr-delete-cert =
-    .title = Rëmôj certifikat
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Rëmôj certifikat
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Serwer
-
-certmgr-override-lifetime =
-    .label = Dosmiertny
 
 certmgr-token-name =
     .label = Zabezpieczającé ùrządzenié

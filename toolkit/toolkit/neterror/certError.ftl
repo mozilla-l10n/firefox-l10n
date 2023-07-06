@@ -22,6 +22,7 @@ cert-error-untrusted-default = Certifikat je z niedowierzonégò zdroju.
 
 connectionFailure-title = Nie dało sã sparłãczec
 deniedPortAccess-title = Pòrt je zastrzeżóny z przëczënë bezpiekù
+
 fileNotFound-title = Nie jidze nalezc lopka
 generic-title = Ni mòże skùńczëc żądaniô
 netInterrupt-title = Òprzestóné sélanié pòdôwków

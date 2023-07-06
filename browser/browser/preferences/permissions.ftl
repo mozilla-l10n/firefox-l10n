@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Wëjimczi
-    .style = width: 36em
-
 permissions-window2 =
     .title = Wëjimczi
     .style = min-width: 36em
@@ -81,4 +77,8 @@ permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą i
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

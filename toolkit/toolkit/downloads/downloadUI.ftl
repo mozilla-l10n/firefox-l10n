@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Nie zamëkôj
        *[other] Nie kùńczë
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Jeżlë przeńdzesz terô do tribù offline, to zladënk jednegò lopka bãdze òprzestóny. Na gwës chcesz przeńc do tribù offline?
        *[other] Jeżlë przeńdzesz terô do tribù offline, to zladënk wszëtczich { $downloadsCount } lopków bãdze òprzestóny. Na gwës chcesz przeńc do tribù offline?
     }
 download-ui-dont-go-offline-button = Òstôń w tribie online
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Òprzestóń zladënk 1 lopka

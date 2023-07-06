@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Zladënk certifikatów
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Zladënk certifikatów
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Wôżné: żlë òbaczysz parolã certifikatu zazychrowa
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Zabezpieczony token aùtorizacje
-protected-auth-msg = Autentizëje sã proszã do tokenu. Metoda autentizacje zanôlégô òd ôrtu tokenu.
-protected-auth-token = Token:
+## Protected authentication alert
+
