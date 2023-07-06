@@ -150,3 +150,4 @@ browser-data-session-checkbox =
     .label = Ferestre și file
 browser-data-session-label =
     .value = Ferestre și file
+

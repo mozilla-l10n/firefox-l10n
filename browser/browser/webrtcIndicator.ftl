@@ -32,6 +32,7 @@ webrtc-item-browser = filă
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Origine necunoscută
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -40,6 +41,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = File care partajează dispozitive
     .accesskey = d
+
 webrtc-sharing-window = Partajezi o altă fereastră a aplicației.
 webrtc-sharing-browser-window = Partajezi { -brand-short-name }.
 webrtc-sharing-screen = Îți partajezi tot ecranul.
@@ -88,6 +90,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controlează partajarea
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controlează partajarea pe „{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Camera este partajată cu „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -97,6 +100,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Camera este partajată cu { $tabCount } file
            *[other] Camera este partajată cu { $tabCount } de file
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Microfonul este partajat cu „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -106,6 +110,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Microfonul este partajat cu { $tabCount } file
            *[other] Microfonul este partajat cu { $tabCount } de file
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = O aplicație este partajată cu „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Aplicații partajate cu { $tabCount } file
            *[other] Aplicații partajate cu { $tabCount } de file
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ecranul este partajat cu „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -124,6 +130,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Ecranul este partajat cu { $tabCount } file
            *[other] Ecranul este partajat cu { $tabCount } de file
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = O fereastră este partajată cu „{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -133,6 +140,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Ferestre partajate cu { $tabCount } file
            *[other] Ferestre partajate cu { $tabCount } de file
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = O filă este partajată cu „{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -189,6 +197,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Ține minte decizia
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } nu poate permite accesul permanent la ecran.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } nu poate permite accesul permanent la sunetele din filă fără să te întrebe ce filă să partajeze.
 webrtc-reason-for-no-permanent-allow-insecure = Conexiunea la acest site nu este sigură. Pentru a te proteja, { -brand-short-name } va permite accesul numai pentru această sesiune.

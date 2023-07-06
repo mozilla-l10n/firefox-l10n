@@ -361,14 +361,6 @@ about-debugging-worker-inspect-action-disabled =
 about-debugging-zombie-tab-inspect-action-disabled =
     .title = Fila nu este încărcată complet și nu poate fi inspectată
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = Proces principal
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = Procesul principal pentru browserul-țintă
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = Caseta de instrumente pentru multiprocese

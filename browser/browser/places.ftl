@@ -20,8 +20,10 @@ places-open-in-window =
 places-open-in-private-window =
     .label = Deschide într-o fereastră privată nouă
     .accesskey = P
+
 places-empty-bookmarks-folder =
     .label = (Gol)
+
 places-add-bookmark =
     .label = Adaugă un marcaj…
     .accesskey = B
@@ -34,6 +36,7 @@ places-add-folder =
 places-add-separator =
     .label = Adaugă un separator
     .accesskey = S
+
 places-view =
     .label = Vizualizare
     .accesskey = V
@@ -52,12 +55,14 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = După dată și site
     .accesskey = t
+
 places-history-search =
     .placeholder = Caută în istoric
 places-history =
     .aria-label = Istoric
 places-bookmarks-search =
     .placeholder = Caută în marcaje
+
 places-delete-domain-data =
     .label = Uită totul despre acest site
     .accesskey = d
@@ -80,99 +85,128 @@ places-delete-page =
            *[other] Șterge paginile
         }
     .accesskey = D
+
 # Managed bookmarks are created by an administrator and cannot be changed by the user.
 managed-bookmarks =
     .label = Marcaje gestionate
 # This label is used when a managed bookmarks folder doesn't have a name.
 managed-bookmarks-subfolder =
     .label = Subdosar
+
 # This label is used for the "Other Bookmarks" folder that appears in the bookmarks toolbar.
 other-bookmarks-folder =
     .label = Alte marcaje
+
 places-show-in-folder =
     .label = Afișează în dosar
     .accesskey = F
+
 places-manage-bookmarks =
     .label = Gestionează marcajele
     .accesskey = M
-places-library =
-    .title = Bibliotecă
-    .style = width:700px; height:500px;
+
 places-library3 =
     .title = Bibliotecă
+
 places-organize-button =
     .label = Organizare
     .tooltiptext = Organizează marcajele
     .accesskey = O
+
 places-organize-button-mac =
     .label = Organizare
     .tooltiptext = Organizează marcajele
+
 places-file-close =
     .label = Închide
     .accesskey = c
+
 places-cmd-close =
     .key = w
+
 places-view-button =
     .label = Vizualizări
     .tooltiptext = Schimbă vizualizarea
     .accesskey = V
+
 places-view-button-mac =
     .label = Vizualizări
     .tooltiptext = Schimbă vizualizarea
+
 places-view-menu-columns =
     .label = Afișează coloane
     .accesskey = c
+
 places-view-menu-sort =
     .label = Sortează
     .accesskey = S
+
 places-view-sort-unsorted =
     .label = Nesortat
     .accesskey = N
+
 places-view-sort-ascending =
     .label = De la A la Z
     .accesskey = A
+
 places-view-sort-descending =
     .label = De la Z la A
     .accesskey = Z
+
 places-maintenance-button =
     .label = Importare și copie de siguranță
     .tooltiptext = Importă și fă copie de siguranță marcajelor
     .accesskey = I
+
 places-maintenance-button-mac =
     .label = Importare și copie de siguranță
     .tooltiptext = Importă și fă copie de siguranță marcajelor
+
 places-cmd-backup =
     .label = Copie de siguranță…
     .accesskey = g
+
 places-cmd-restore =
     .label = Restaurează
     .accesskey = R
+
 places-cmd-restore-from-file =
     .label = Alege fișierul…
     .accesskey = l
+
 places-import-bookmarks-from-html =
     .label = Importă marcaje dintr-un fișier HTML…
     .accesskey = I
+
 places-export-bookmarks-to-html =
     .label = Exportă marcaje într-un fișier HTML…
     .accesskey = E
+
 places-import-other-browser =
     .label = Importă date din alt browser…
     .accesskey = a
+
 places-view-sort-col-name =
     .label = Nume
+
 places-view-sort-col-tags =
     .label = Etichete
+
 places-view-sort-col-url =
     .label = Locație
+
 places-view-sort-col-most-recent-visit =
     .label = Cea mai recentă vizită
+
 places-view-sort-col-visit-count =
     .label = Număr de vizite
+
 places-view-sort-col-date-added =
     .label = Adăugat
+
 places-view-sort-col-last-modified =
     .label = Ultima modificare
+
 places-view-sortby-name =
     .label = Sortează după nume
     .accesskey = n
@@ -194,13 +228,18 @@ places-view-sortby-last-modified =
 places-view-sortby-tags =
     .label = Sortează după etichete
     .accesskey = t
+
 places-cmd-find-key =
     .key = f
+
 places-back-button =
     .tooltiptext = Navighează înapoi
+
 places-forward-button =
     .tooltiptext = Navighează înainte
+
 places-details-pane-select-an-item-description = Selectează un element pentru a-l vedea și a-i edita proprietățile
+
 places-details-pane-no-items =
     .value = Niciun element
 # Variables:

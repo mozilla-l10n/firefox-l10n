@@ -30,13 +30,6 @@ about-networking-messages-received = Mesaje primite
 about-networking-bytes-sent = Byți trimiși
 about-networking-bytes-received = Byți primiți
 about-networking-logging = Jurnalizare
-about-networking-log-tutorial = Vezi <a data-l10n-name="logging">înregistrarea în jurnal pentru HTTP</a> în ceea ce privește instrucțiunile de folosire a acestui instrument.
-about-networking-current-log-file = Fișierul actual pentru jurnal:
-about-networking-current-log-modules = Modulele actuale de înregistrare în jurnal:
-about-networking-set-log-file = Setează fișierul pentru jurnalizare
-about-networking-set-log-modules = Setează modulele de înregistrare în jurnal
-about-networking-start-logging = Pornește înregistrarea în jurnal
-about-networking-stop-logging = Oprește înregistrarea în jurnal
 about-networking-dns-lookup = Analizare DNS
 about-networking-dns-lookup-button = Rezolvă
 about-networking-dns-domain = Domeniu:

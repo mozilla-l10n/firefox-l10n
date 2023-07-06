@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ieși din { -brand-shorter-name }
+
 menu-about =
     .label = Despre { -brand-shorter-name }
     .accesskey = A
@@ -207,8 +209,6 @@ menu-history-undo-menu =
     .label = File închise recent
 menu-history-undo-window-menu =
     .label = Ferestre închise recent
-menu-history-reopen-all-tabs = Redeschide toate filele
-menu-history-reopen-all-windows = Redeschise toate ferestrele
 
 ## Bookmarks Menu
 
@@ -217,10 +217,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Gestionează marcajele
-menu-bookmark-current-tab =
-    .label = Marchează fila actuală
-menu-bookmark-edit =
-    .label = Editează acest marcaj
 menu-bookmark-tab =
     .label = Marchează fila actuală…
 menu-bookmarks-all-tabs =

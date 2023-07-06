@@ -13,3 +13,5 @@ more-from-moz-subtitle = Vezi alte produse { -vendor-short-name } care funcțion
 
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+

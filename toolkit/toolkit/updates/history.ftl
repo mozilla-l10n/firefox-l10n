@@ -23,5 +23,7 @@ state-header = Stare
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detalii
+
 update-installed-on = Instalată în: { $date }
+
 update-status = Stare: { $status }
