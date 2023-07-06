@@ -23,5 +23,7 @@ state-header = Estat
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detalhs
+
 update-installed-on = Installat lo : { $date }
+
 update-status = Estat : { $status }

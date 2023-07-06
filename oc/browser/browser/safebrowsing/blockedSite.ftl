@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } a blocat aquesta p
 safeb-palm-advisory-desc = Avís emés per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Retorn
 safeb-palm-see-details-label = Afichar los detalhs
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'>senhalat coma un site enganaire</a>. Podètz <a data-l10n-name='report_detection'>senhalar una error de deteccion</a> o <a data-l10n-name='ignore_warning_link'>ignorar lo risc</a> e anar al sitepas segur.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'>senhalat coma un site enganaire</a>. Podètz<a data-l10n-name='report_detection'>senhalar una error de deteccion</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Ne saber mai suls sites enganaires e la pesca electronica sus <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Per ne saber mai sus la proteccion de { -brand-short-name } tocant los logicials malfasents consultatz <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'> senhalat coma un logicial malvolents</a>. Podètz <a data-l10n-name='ignore_warning_link'>ignorar aqueste risc</a> e anar a aqueste site pas segur.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'> senhalat coma comportant de logicials malvolents</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Ne saber mai sus la proteccion de { -brand-short-name } tocant la pesca electronica e los logicials malfasents sus <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'> senhalat coma un logicial malfasent</a>. Podètz <a data-l10n-name='ignore_warning_link'>ignorar aqueste risc</a> e anar a aqueste site pas segur.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'> senhalat coma comportant de logicials malfasents</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Per ne saber mai suls logicials malfasent e perilhoses consultatz lo <a data-l10n-name='learn_more_link'>Règlament tocant los logicials malfasents</a>. Ne saber mai sus la proteccion contra aquò de { -brand-short-name } anatz a <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'> senhalat coma albergant una aplicacion nosibla</a>. Podètz <a data-l10n-name='ignore_warning_link'>ignorar aqueste risc</a> e anar sul site pas segur.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> foguèt <a data-l10n-name='error_desc_link'>senhalat coma un site albergant una aplicacion nosibla</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Ne saber mai sus la proteccion de { -brand-short-name } tocant la pesca electronica e los logicials malfasents sus <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Es pas un site malvolent…

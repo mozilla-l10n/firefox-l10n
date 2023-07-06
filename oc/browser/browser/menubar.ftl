@@ -38,9 +38,11 @@ menu-quit =
             [windows] Q
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sortir de { -brand-shorter-name }
+
 menu-about =
     .label = A prepaus de { -brand-shorter-name }
     .accesskey = A
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Onglets tampats recentament
 menu-history-undo-window-menu =
     .label = Fenèstras tampadas recentament
-menu-history-reopen-all-tabs = Tornar dobrir totes los onglets
-menu-history-reopen-all-windows = Tornar dobrir totas las fenèstras
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-manage =
     .label = Gerir los marcapaginas
-menu-bookmark-current-tab =
-    .label = Marcar l’onglet actual
-menu-bookmark-edit =
-    .label = Modificar aqueste marcapagina
 menu-bookmark-tab =
     .label = Marcar l’onglet actual…
 menu-edit-bookmark =

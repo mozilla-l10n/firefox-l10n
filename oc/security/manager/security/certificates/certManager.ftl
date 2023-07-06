@@ -26,10 +26,6 @@ certmgr-people = De certificats d'aqueste fichièr identifican aqueles personas
 certmgr-server = Aquestas entradas identificant las excepcions a las errors de certificat servidor
 certmgr-ca = De certificats d'aqueste fichièr identifican aquelas autoritats de certificat
 
-certmgr-edit-ca-cert =
-    .title = Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Edicion dels paramètres de fisança de l'autoritat de certificacion (CA)
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Aqueste certificat pòt identificar d'utilizaires de corrièr electronic.
-
-certmgr-delete-cert =
-    .title = Suprimir un certificat
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Suprimir un certificat
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Servidor
-
-certmgr-override-lifetime =
-    .label = Durada de vida
 
 certmgr-token-name =
     .label = Periferic de seguretat

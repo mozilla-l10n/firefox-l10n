@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = L’extension pòt pas legir nimai modificar las donadas
+
 origin-controls-quarantined =
     .label = L’extension pas autorizada a legir nimai modificar las donadas
+
 origin-controls-options =
     .label = L’extension pòt legir e modificar las donadas :
+
 origin-controls-option-all-domains =
     .label = de totes los sites
+
 origin-controls-option-when-clicked =
     .label = sonque al clic
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Pòt pas legir nimai modificar las donadas d’aqueste site
+
 origin-controls-state-quarantined = Non autorizat per { -vendor-short-name } sus aqueste site
+
 origin-controls-state-always-on = Pòt totjorn legir e modificar las donadas d’aqueste site
+
 origin-controls-state-when-clicked = Autorizacion requerida per legir e modificar las donadas
+
 origin-controls-state-hover-run-visit-only = Autorizar aqueste còp sonque
+
 origin-controls-state-runnable-hover-open = Dobrir l’extension
+
 origin-controls-state-runnable-hover-run = Executar l’extension
+
 origin-controls-state-temporary-access = Pòt legir e modificar las donadas per aquesta visita
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = Pòt legir e modificar las donadas per 
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Autorizacion requerida
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

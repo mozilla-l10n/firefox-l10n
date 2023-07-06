@@ -19,6 +19,7 @@ open-location = Picar un tèrme de recercar o una adreça
 share = Partejar
 close-window = Tampar la fenèstra
 open-sidebar = Barra laterala
+
 # This string describes shortcuts for search.
 search-popover = Acorchis de recèrca
 # Describes searches limited to a specific scope

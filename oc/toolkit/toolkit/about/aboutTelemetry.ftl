@@ -131,12 +131,6 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = metòde
 about-telemetry-object-header = objècte
 about-telemetry-extra-header = de sòbra
-about-telemetry-origin-section = Telemetria d’origina
-about-telemetry-origin-origin = origina
-about-telemetry-origin-count = comptatge
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> encòda las donadas abans de las mandar per que { $telemetryServerOwner } pòsca comptar mantuna causa, mas que pòscan pas saber se una { -brand-product-name } contribuiguèt a aqueste comptatge. (<a data-l10n-name="prio-blog-link">Ne saber mai</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Processús « { $process } »

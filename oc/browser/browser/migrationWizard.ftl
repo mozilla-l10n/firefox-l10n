@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importar las donadas d’un navegador
 migration-wizard-selection-list = Seleccionatz las donadas que volètz importar.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Seleccionatz las donadas que volètz importar.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,22 +55,27 @@ migration-selected-data-label = Importar las donadas seleccionadas
 
 migration-select-all-option-label = Tot seleccionar
 migration-bookmarks-option-label = Marcapaginas
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorits
+
 migration-logins-and-passwords-option-label = Identificants e senhals salvats
 migration-history-option-label = Istoric de navegacion
 migration-extensions-option-label = Extensions
 migration-form-autofill-option-label = Donadas d’emplenatge automatic
 migration-payment-methods-option-label = Metòdes de pagament
+
 migration-cookies-option-label = Cookies
 migration-session-option-label = Fenèstras e onglets
 migration-otherdata-option-label = Autras donadas
+
 migration-passwords-from-file-progress-header = Importar un fichièr de senhals
 migration-passwords-from-file-success-header = Senhals corrèctament importats
 migration-passwords-from-file = Verificacion del fichièr de senhals
 migration-passwords-new = Senhals novèls
 migration-passwords-updated = Senhals existents
+
 migration-passwords-from-file-picker-title = Importar un fichièr de senhals
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -84,6 +91,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Document TSV
        *[other] Fichièr TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -94,6 +102,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } apondut
        *[other] { $newEntries } aponduts
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -104,10 +113,12 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualizat
        *[other] { $updatedEntries } actualizats
     }
+
 migration-bookmarks-from-file-picker-title = Importar un fichièr de marcapaginas
 migration-bookmarks-from-file-progress-header = Importacion dels marcapaginas
 migration-bookmarks-from-file = Marcapaginas
 migration-bookmarks-from-file-success-header = Marcapaginas importats amb succès
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -115,9 +126,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Document HTML
        *[other] Fichièrs HTML
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Fichièr JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -128,12 +141,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } marcapagina
        *[other] { $newEntries } marcapaginas
     }
+
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar d’un fichièr
 migration-import-from-file-button-label = Seleccionar un fichièr
 migration-cancel-button-label = Anullar
 migration-done-button-label = Acabat
 migration-continue-button-label = Contunhar
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } a pas pogut trapar cap de programa contenent de donadas de marcapaginas, istoric o senhals.
 migration-wizard-import-browser-no-resources = S’es producha una error. { -brand-short-name } a pas pogut trapar cap de donadas d’importar a partir del perfil d’aqueste navegador.
 
@@ -144,6 +159,7 @@ migration-wizard-import-browser-no-resources = S’es producha una error. { -bra
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = marcapaginas
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favorits
@@ -161,6 +177,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importacion…
 migration-wizard-progress-icon-completed =
     .aria-label = Acabada
+
 migration-safari-password-import-header = Importar los senhals de Safari
 migration-safari-password-import-steps-header = Per importar los senhals de Safari :
 migration-safari-password-import-step1 = Dins Safari, dobrissètz lo menú « Safari » puèi Preferéncias > Senhals
@@ -169,6 +186,8 @@ migration-safari-password-import-step3 = Enregistratz lo fichièr de senhals
 migration-safari-password-import-step4 = Utilizatz « Seleccionar un fichièr » çai jos per causir lo fichièrs de senhals qu’avètz salvat
 migration-safari-password-import-skip-button = Passar
 migration-safari-password-import-select-button = Seleccionar un fichièr
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -179,6 +198,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } marcapagina
        *[other] { $quantity } marcapaginas
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -219,6 +239,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } senhal
        *[other] { $quantity } senhals
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -229,7 +250,9 @@ migration-wizard-progress-success-history =
         [one] Del darrièr jorn
        *[other] Dels darrièrs { $maxAgeInDays } jorns
     }
+
 migration-wizard-progress-success-formdata = Istoric de formulari
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -240,6 +263,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } metòde de pagament
        *[other] { $quantity } metòdes de pagament
     }
+
 migration-wizard-safari-permissions-sub-header = Per importar marcapaginas e istoric de navigacion de Safari :
 migration-wizard-safari-instructions-continue = Seleccionatz « Contunhar »
 migration-wizard-safari-instructions-folder = Seleccionatz lo dossièr Safari dins la lista e causissètz « Dobrir »

@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Avètz recebut un certificat invalid. Contactatz l'administrator del servidor o vòstre correspondent de messatjariá e provesissètz-li las entresenhas seguentas :
     
     Vòstre certificat conten lo meteis numèro de seria qu'un autre certificat emes per l'autoritat de certificacion. Provesissètz-vos un certificat novèl amb un numèro de seria unic.
+
 ssl-error-export-only-server = Impossible de comunicar en mòde securizat. Lo par gerís pas lo chiframent de naut nivèl.
 ssl-error-us-only-server = Impossible de comunicar en mòde securizat. Lo par requerís un chiframent de naut nivèl qu'es pas gerit.
 ssl-error-no-cypher-overlap = Impossible de comunicar en mòde securizat amb lo par : pas cap d'algoritme de chiframent en comun.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Pas cap d'algoritme TLS de signatur
 ssl-error-unsupported-signature-algorithm = Lo par a utilizat una combinason non presa en carga de signatura e d’algoritme de trissatge.
 ssl-error-missing-extended-master-secret = Lo par a ensajat de tornar sens extension extended_master_secret corrècta.
 ssl-error-unexpected-extended-master-secret = Lo par a ensajat de tornar amb una extension extended_master_secret imprevista.
+
 sec-error-io = Una error d'entrada/sortida s'es producha pendent l'autorizacion de seguretat.
 sec-error-library-failure = Fracàs de la bibliotèca de seguretat.
 sec-error-bad-data = Bibliotèca de seguretat : donadas incorrèctas recebudas.
@@ -317,6 +319,7 @@ sec-error-locked-password = Lo senhal es verrolhat.
 sec-error-unknown-pkcs11-error = Error PKCS #11 desconeguda.
 sec-error-bad-crl-dp-url = URL invalida o pas gerida dins un punt de distribucion CRL.
 sec-error-cert-signature-algorithm-disabled = Lo certificat es estat signat amb l'ajuda d'un algoritme de signatura qu'es desactivat per sa manca de seguretat.
+
 mozilla-pkix-error-key-pinning-failure = Lo servidor utiliza la fixacion de clau (HPKP) mas a pas pogut bastir quina cadena que siá que corresponda al còs de las claus fixas. Las violacions de fixacion de clau se pòdon pas forçar.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Lo servidor utiliza un certificat amb una extension de constrenchas basicas que l'identifica coma autoritat de certificacion. Per un certificat emés coma cal se deuriá pas passar atal.
 mozilla-pkix-error-inadequate-key-size = Lo servidor a presentat un certificat que la talha de la clau es tròp corta per establir una connexion segura.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = Lo servidor a presentat un certifi
 mozilla-pkix-error-empty-issuer-name = Lo servidor a presentat un certificat que lo nom distintiu de l'emetor es void.
 mozilla-pkix-error-additional-policy-constraint-failed = Una restriccion d'estrategia suplementària a fracassat pendent la validacion d'aquestes certificat.
 mozilla-pkix-error-self-signed-cert = Lo certificat es pas segur perque es autosignat.
+
 xp-java-remove-principal-error = Impossible de suprimir lo principal
 xp-java-delete-privilege-error = Impossible de suprimir lo privilègi
 xp-java-cert-not-exists-error = Aqueste principal es pas de certificat
+
 xp-sec-fortezza-bad-card = La carta Fortezza es pas estada inicializada corrèctament. Levatz-la e tornatz-la mandar a vòstre distributor.
 xp-sec-fortezza-no-card = Cap de carta Fortezza es pas estada trobada
 xp-sec-fortezza-none-selected = Cap de carta Fortezza es pas estada seleccionada
