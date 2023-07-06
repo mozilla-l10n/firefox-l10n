@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = 已成功匯入密碼
 migration-passwords-from-file = 正在檢查檔案中的密碼
 migration-passwords-new = 新密碼
 migration-passwords-updated = 已有的密碼
+migration-passwords-from-file-no-valid-data = 此密碼檔不含任何有效密碼資料，請選擇其他檔案。
 migration-passwords-from-file-picker-title = 匯入密碼檔
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -100,6 +101,7 @@ migration-bookmarks-from-file-picker-title = 匯入書籤檔案
 migration-bookmarks-from-file-progress-header = 匯入書籤
 migration-bookmarks-from-file = 書籤
 migration-bookmarks-from-file-success-header = 已成功匯入書籤
+migration-bookmarks-from-file-no-valid-data = 此書籤檔不含任何書籤資料，請選擇其他檔案。
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -137,6 +139,7 @@ migration-list-bookmark-label = 書籤
 migration-list-favorites-label = 我的最愛
 migration-list-password-label = 密碼
 migration-list-history-label = 瀏覽紀錄
+migration-list-extensions-label = 擴充套件
 migration-list-autofill-label = 自動填寫資料
 migration-list-payment-methods-label = 付款方式
 
@@ -175,6 +178,24 @@ migration-wizard-progress-success-favorites = { $quantity } 筆最愛
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions = { $quantity } 套擴充套件
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = 共 { $quantity } 套擴充套件，僅找到 { $matched } 套
+migration-wizard-progress-extensions-support-link = 了解 { -brand-product-name } 如何比對擴充套件
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = 沒有符合的擴充套件資訊
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } 的瀏覽器擴充套件
 
 ##
 

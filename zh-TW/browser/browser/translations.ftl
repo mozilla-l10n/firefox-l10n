@@ -5,6 +5,17 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 翻譯此頁面
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = 已將頁面從 { $fromLanguage } 翻譯為 { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = 翻譯中
 translations-panel-settings-button =
     .aria-label = 管理翻譯設定
 # Text displayed on a language dropdown when the language is in beta
