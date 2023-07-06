@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } ha blocate iste pa
 safeb-palm-advisory-desc = Aviso providite per <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Retornar
 safeb-palm-see-details-label = Vider le detalios
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como un sito periculose</a>. Tu pote <a data-l10n-name='report_detection'>reportar un problema de revelation</a> o <a data-l10n-name='ignore_warning_link'>ignorar le risco</a> e ir a iste sito insecur.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como un sito periculose</a>. Tu pote <a data-l10n-name='report_detection'>reportar un problema de revelation</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Apprende de plus re le sitos periculose a <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Apprende de plus re { -brand-short-name }’s Protection del phishing e del malware a <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como continente mal software</a>. Tu pote <a data-l10n-name='ignore_warning_link'>ignorar le risco</a> e ir a iste sito non secur.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como continente software maligne</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Lege plus sur le protection contra phishing e malware de { -brand-short-name } sur le sito <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como continente software nocive</a>. Tu pote <a data-l10n-name='ignore_warning_link'>ignorar le risco</a> e ir a iste sito non secur.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como continente software nocive</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Pro leger plus sur le software malefic e indesiderate, consulta le <a data-l10n-name='learn_more_link'>Politica sur le software indesiderate</a>. Apprende plus sur le protection de { -brand-short-name } contra phishing e malware a <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como continente un application potentialmente periculose</a>. Tu pote <a data-l10n-name='ignore_warning_link'>ignorar le risco</a> e ir a iste sito insecur.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> ha essite <a data-l10n-name='error_desc_link'>reportate como continente un application potentialmente periculose</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Apprende de plus re { -brand-short-name }’s Protection del phishing e del malware a <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Iste sito non es fraudulente…

@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = Le extension non pote leger e cambiar datos
+
 origin-controls-quarantined =
     .label = Extension non permittite pro leger e modificar datos
+
 origin-controls-options =
     .label = Le extension pote leger e cambiar datos:
+
 origin-controls-option-all-domains =
     .label = Sur tote le sitos
+
 origin-controls-option-when-clicked =
     .label = Solo quando cliccate
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Non pote leger e modificar datos sur iste sito
+
 origin-controls-state-quarantined = Non permittite per { -vendor-short-name } in iste sito
+
 origin-controls-state-always-on = Pote sempre leger e modificar datos sur iste sito
+
 origin-controls-state-when-clicked = Permisso necessari pro leger e modificar datos
+
 origin-controls-state-hover-run-visit-only = Exequer solo pro iste visita
+
 origin-controls-state-runnable-hover-open = Aperir extension
+
 origin-controls-state-runnable-hover-run = Exequer extension
+
 origin-controls-state-temporary-access = Pote leger e modificar datos pro iste visita
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = Pote leger e modificar datos pro iste v
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Permission needed
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

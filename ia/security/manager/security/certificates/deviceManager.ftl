@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = Gestor de dispositivos
-    .style = width: 67em; height: 34em;
-
 devmgr-window =
     .title = Gestor de dispositivos
     .style = min-width: 67em; min-height: 34em;

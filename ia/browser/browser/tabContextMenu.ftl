@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Adder schedas al marcapaginas…
     .accesskey = A
-bookmark-tab =
-    .label = Adder le scheda al marcapaginas
-    .accesskey = A
 tab-context-bookmark-tab =
     .label = Adder le scheda al marcapaginas
     .accesskey = A
@@ -105,6 +102,7 @@ tab-context-move-tabs =
            *[other] Displaciar schedas
         }
     .accesskey = i
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

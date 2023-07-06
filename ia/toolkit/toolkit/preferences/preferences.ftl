@@ -4,19 +4,20 @@
 
 password-not-set =
     .value = (non definite)
+
 failed-pp-change = Impossibile cambiar le contrasigno primari.
 incorrect-pp = Tu non ha inserite le contrasigno primari correcte actual. Tenta ancora.
 pp-change-ok = Contrasigno primari cambiate con bon successo.
-pp-empty-warning = Tu contrasignos e claves private reservate non essera plus protegite.
-pp-erased-ok = Tu ha delite tu contrasigno primari. { pp-empty-warning }
-pp-not-wanted = Attention! Tu ha decidite non usar un contrasigno primari. { pp-empty-warning }
+
 settings-pp-erased-ok = Tu ha delite tu Contrasigno primari. Le contrasignos stockate e le claves private de certificato gerite per { -brand-short-name } non sera protegite.
 settings-pp-not-wanted = Advertimento! Tu ha decidite non usar un Contrasigno primari. Le contrasignos stockate e le claves private de certificato gerite per { -brand-short-name } non sera protegite.
+
 pp-change2empty-in-fips-mode = Tu es actualmente in modo FIPS. Tal modo require un contrasigno primari non vacue.
 pw-change-success-title = Contrasigno cambiate con bon successo
 pw-change-failed-title = Cambiamento contrasigno fallite
 pw-remove-button =
     .label = Remover
+
 primary-password-dialog =
     .title = Contrasigno primari
 set-password-old-password = Contrasigno actual:
@@ -27,6 +28,7 @@ set-password-meter-loading = Cargante
 primary-password-admin = Tu administrator require que tu ha un contrasigno primari configurate pro salvar contrasignos.
 primary-password-description = Un contrasigno primari sole proteger alcuno datos sensibile, como credentiales e contrasignos, sur iste apparato. Si tu ha create un contrasigno primari, te essera demandate inserer lo un vice per cata session quando { -brand-short-name } recupera informationes salvate protegite per le contrasigno.
 primary-password-warning = Per favor verifica que tu rememora le contrasigno primari que tu ha configurate. Si tu oblida tu contrasigno primari, tu non potera acceder a tote le informationes protegite per illo sur iste apparato.
+
 remove-primary-password =
     .title = Remover le contrasigno primari
 remove-info =

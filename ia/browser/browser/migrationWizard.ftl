@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importar datos de navigator
 migration-wizard-selection-list = Elige le datos que tu vole importar.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Elige le datos que tu vole importar.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Importar datos eligite
 
 migration-select-all-option-label = Seliger toto
 migration-bookmarks-option-label = Marcapaginas
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritos
+
 migration-logins-and-passwords-option-label = Salvate credentiales e contrasignos
 migration-history-option-label = Chronologia de navigation
 migration-extensions-option-label = Extensiones
 migration-form-autofill-option-label = Completion automatic datos de formularios
 migration-payment-methods-option-label = Methodos de pagamento
+
 migration-cookies-option-label = Cookies
 migration-session-option-label = Fenestras e schedas
 migration-otherdata-option-label = Altere datos
+
 migration-passwords-from-file-progress-header = Importar file de contrasignos
 migration-passwords-from-file-success-header = File de contrasignos importate con successo
 migration-passwords-from-file = Verificar file pro contrasignos
 migration-passwords-new = Nove contrasignos
 migration-passwords-updated = Contrasignos existente
+
 migration-passwords-from-file-no-valid-data = Le file non include ulle valide datos de contrasigno. Selige un altere file.
+
 migration-passwords-from-file-picker-title = Importar file de contrasignos
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documento TSV
        *[other] File TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } addite
        *[other] { $newEntries } addite
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } actualisate
        *[other] { $updatedEntries } actualisate
     }
+
 migration-bookmarks-from-file-picker-title = Importar file de marcapaginas
 migration-bookmarks-from-file-progress-header = Importation de marcapaginas…
 migration-bookmarks-from-file = Marcapaginas
 migration-bookmarks-from-file-success-header = Marcapaginas importate con successo
+
 migration-bookmarks-from-file-no-valid-data = Le file non include ulle datos de marcapagina. Selige un altere file.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Documento HTML
        *[other] File HTML
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = File JSON
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } marcapagina
        *[other] { $newEntries } marcapaginas
     }
+
 migration-import-button-label = Importar
 migration-choose-to-import-from-file-button-label = Importar ab file
 migration-import-from-file-button-label = Eliger file
 migration-cancel-button-label = Cancellar
 migration-done-button-label = Facite
 migration-continue-button-label = Continuar
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } non pote trovar ulle programmas que contine datos de marcapagina, chronologia o contrasigno.
 migration-wizard-import-browser-no-resources = Un error eveniva. { -brand-short-name } non pote trovar ulle datos a importar del profilo de ille navigator.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Un error eveniva. { -brand-short-
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = marcapaginas
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favoritos
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importante…
 migration-wizard-progress-icon-completed =
     .aria-label = Completate
+
 migration-safari-password-import-header = Importar contrasigno ab Safari
 migration-safari-password-import-steps-header = Pro importar contrasignos de Safari:
 migration-safari-password-import-step1 = In Safari, aperi le menu de “Safari” e va a Preferences > Passwords
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Salva le file passwords
 migration-safari-password-import-step4 = Usa “Select File” infra pro seliger le file passwords que tu salvava
 migration-safari-password-import-skip-button = Saltar
 migration-safari-password-import-select-button = Eliger file
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } marcapagina
        *[other] { $quantity } marcapaginas
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } extension
        *[other] { $quantity } extensiones
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,10 +238,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensiones
+
 migration-wizard-progress-extensions-support-link = Apprende como { -brand-product-name } concorda le extensiones
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Nulle extensiones concordante
+
 migration-wizard-progress-extensions-addons-link = Navigar per le extensiones pro { -brand-short-name }
 
 ##
@@ -233,6 +258,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } contrasigno
        *[other] { $quantity } contrasignos
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -243,7 +269,9 @@ migration-wizard-progress-success-history =
         [one] Ab le ultime die
        *[other] Ab le ultime { $maxAgeInDays } dies
     }
+
 migration-wizard-progress-success-formdata = Chronologia de formulario
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -254,6 +282,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } methodo de pagamento
        *[other] { $quantity } methodos de pagamento
     }
+
 migration-wizard-safari-permissions-sub-header = Pro importar marcapaginas e chronologia de navigation ab Safari
 migration-wizard-safari-instructions-continue = Elige “Continuar”
 migration-wizard-safari-instructions-folder = Selige le plica Safari in le lista e “Open”

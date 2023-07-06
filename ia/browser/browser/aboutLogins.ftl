@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Contos e contrasignos
-login-filter =
-    .placeholder = Cercar credentiales
-create-login-button = Crear nove credentiales
+
 about-logins-login-filter =
     .placeholder = Cercar credentiales
     .key = F
+
 create-new-login-button =
     .title = Crear nove credentiales
+
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-sync-button = Aperi session pro synchronisar
 fxaccounts-avatar-button =
@@ -111,9 +111,6 @@ login-item-copied-password-button-text = Copiate!
 login-item-save-changes-button = Salvar le cambiamentos
 login-item-save-new-button = Salvar
 login-item-cancel-button = Cancellar
-login-item-time-changed = Ultime modification : { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Create: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Ultime uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -139,16 +136,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro modificar le conto, ins
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = verifica le credentiales salvate
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pro vider le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = monstrar le contrasigno salvate
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pro copiar le contrasigno, insere tu credentiales de accesso a Windows. Isto adjuta a proteger le securitate de tu contos.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar le contrasigno salvate
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pro exportar tu credentiales de accesso, insere tu credentiales de accesso Windows. Isto adjuta proteger le securitate de tu contos.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,6 +167,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cancellar
 confirmation-dialog-dismiss-button =
     .title = Cancellar
+
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 about-logins-confirm-remove-dialog-confirm-button = Remover
@@ -179,11 +180,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Remover
        *[other] Remover toto
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Si, remover iste credential
        *[other] Si, remover iste credentiales
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Remover { $count } credential?
@@ -194,6 +197,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Isto removera le credential salvate pro { -brand-short-name } e cata alerta de violation que appare hic. Tu non potera disfacer iste action.
        *[other] Isto removera le credentiales salvate pro { -brand-short-name } e cata alerta de violation que appare hic. Tu non potera disfacer iste action.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Remover { $count } credential ex tote le apparatos?
@@ -210,8 +214,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Exportar credentiales e contrasignos
 about-logins-confirm-export-dialog-message = Tu contrasignos sera salvate como texto legibile (e.g., "P@ssw0rd123"), assi quicunque pote aperir le file exportate, pote vider los.
 about-logins-confirm-export-dialog-confirm-button = Exportar…
+
 about-logins-alert-import-title = Importation complete
 about-logins-alert-import-message = Vider un summario detaliate del importation
+
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
 confirm-discard-changes-dialog-confirm-button = Abandonar
@@ -224,7 +230,6 @@ about-logins-breach-alert-date = Iste violation occurreva le { DATETIME($date, d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ir a { $hostname }
-about-logins-breach-alert-learn-more-link = Saper plus
 
 ## Vulnerable Password notification
 
@@ -242,6 +247,7 @@ about-logins-vulnerable-alert-learn-more-link = Saper plus
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Un entrata pro { $loginTitle } con ille nomine de usator existe jam. <a data-l10n-name="duplicate-link">Ir al entrata existente?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Un error occurreva durante le tentativa de salvar iste contrasigno.
 
@@ -291,11 +297,13 @@ about-logins-import-dialog-items-added =
         [one] <span>Nove credential addite:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Nove credentiales addite:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Credential existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Credentiales existente actualisate:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Credential duplicate:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
@@ -303,6 +311,7 @@ about-logins-import-dialog-items-no-change =
     }
 about-logins-import-dialog-items-error = <span>Errores:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(non importate)</span>
 about-logins-import-dialog-done = Facite
+
 about-logins-import-dialog-error-title = Error de importation
 about-logins-import-dialog-error-conflicting-values-title = Plure valores in conflicto pro un sol credential
 about-logins-import-dialog-error-conflicting-values-description = Per exemplo: plure nomines de usator, contrasignos, URLs, etc. pro un sol credential.
@@ -316,8 +325,10 @@ about-logins-import-dialog-error-no-logins-imported = Nulle credentiales ha essi
 about-logins-import-dialog-error-learn-more = Saper plus
 about-logins-import-dialog-error-try-import-again = Probar importar de novo…
 about-logins-import-dialog-error-cancel = Cancellar
+
 about-logins-import-report-title = Summario del importation
 about-logins-import-report-description = Credentiales e contrasignos importate in { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

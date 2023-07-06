@@ -20,7 +20,6 @@ styleeditor-save-button = Salvar
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Optiones del editor de stilos
-styleeditor-media-rules = Regulas @media
 styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Scribe ci CSS.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = S
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Nulle folios de stilo concordante trovate.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

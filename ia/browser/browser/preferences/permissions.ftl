@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Exceptiones
-    .style = width: 45em
 permissions-window2 =
     .title = Exceptiones
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresse del sito web
     .accesskey = d
+
 permissions-block =
     .label = Blocar
     .accesskey = B
+
 permissions-disable-etp =
     .label = Adder exception
     .accesskey = e
+
 permissions-session =
     .label = Permitter pro le session
     .accesskey = S
+
 permissions-allow =
     .label = Permitter
     .accesskey = P
+
 permissions-button-off =
     .label = Disactivar
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Disactivar temporarimente
     .accesskey = t
+
 permissions-site-name =
     .label = Sito web
+
 permissions-status =
     .label = Stato
+
 permissions-remove =
     .label = Remover sito web
     .accesskey = R
+
 permissions-remove-all =
     .label = Remover tote le sitos web
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Salvar le cambios
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Predefinition pro tote le sitos web:
+
 permissions-searchbox =
     .placeholder = Cercar in le sito web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitter audio e video
 permissions-capabilities-autoplay-block =
     .label = Blocar audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar audio e video
+
 permissions-capabilities-allow =
     .label = Permitter
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Sempre questionar
+
 permissions-capabilities-listitem-allow =
     .value = Permitter
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Permitter pro le session
+
 permissions-capabilities-listitem-off =
     .value = Inactive
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Per favor insere un nomine de hoste valide
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Exceptiones al protection antitraciamento reinfortiate
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Tu ha disactivate le protectiones sur iste sitos web.
 permissions-exceptions-etp-window2 =
     .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Tu pote specificar pro qual sitos web d
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Exceptiones - Cookies e Datos de sito
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Exceptiones - Cookies e Datos de sito
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Tu pote specificar qual sitos web sempre o 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Exceptiones - modo solo-HTTPS
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Exceptiones - modo solo-HTTPS
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Tu pote disactivar le modo solo HTTPS p
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Sitos web permittite - Fenestras emergente
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Sitos web permittite - Fenestras emergente
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Tu pote specificar qual sitos web ha le perm
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Exceptiones - Credentiales salvate
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Exceptiones - Credentiales salvate
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Le credentiales pro le sitos web sequ
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Sitos web permittite - Installation de additivos
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Sitos web permittite - Installation de additivos
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Tu pote specificar qual sitos web ha le per
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Configuration - Autoreproduction
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Configuration - Autoreproduction
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Specifica hic le sitos web que non seque tu con
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Parametros - Permissiones de notification
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Parametros - Permissiones de notification
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Isto impedi a omne sitos web non li
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Parametros - Permissiones de geolocalisation
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Parametros - Permissiones de geolocalisation
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Isto impedira qualcunque sitos web non 
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Parametros - Permissiones de realitate virtual
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Parametros - Permissiones de realitate virtual
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Isto impedi a omne sitos web non listate hic 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Parametros - Permissiones del camera
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Parametros - Permissiones del camera
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Isto impedira qualcunque sitos web non li
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Parametros - permissiones del microphono
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Parametros - permissiones del microphono
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Parametros - Permissiones del altoparlator
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Le sequente sitos web ha rogate seliger un dispositivo audio de exito. Tu pote specificar le sitos web cuje es permittite seliger un dispositivo audio de exito,
+
 permissions-exceptions-doh-window =
     .title = Exceptiones de sito web pro DNS sur HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } non usara le DNS secur sur iste sitos e lor sub-dominios.
+
 permissions-doh-entry-field = Insere le nomine de dominio del sito web
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = Adder
     .accesskey = A
+
 permissions-doh-col =
     .label = Dominio
+
 permissions-doh-remove =
     .label = Remover
     .accesskey = R
+
 permissions-doh-remove-all =
     .label = Remover toto
     .accesskey = e

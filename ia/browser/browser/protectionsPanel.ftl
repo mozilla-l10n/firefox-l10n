@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Un error ha occurrite durante le invio del reporto. Per favor prova de novo plus tarde.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Sito corrigite? Invia un reporto
 
@@ -21,10 +22,13 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Saper plus sur le protection antitraciamento reinfortiate
+
 protections-panel-etp-on-header = Le protection antitraciamento reinfortiate es ACTIVE pro iste sito
 protections-panel-etp-off-header = Le protection antitraciamento reinfortiate es INACTIVE pro iste sito
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Sito non functiona?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Sito non functiona?
@@ -39,7 +43,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = Tote le traciatores sur ist
 ##
 
 protections-panel-no-trackers-found = Nulle traciator cognoscite per { -brand-short-name } ha essite detegite sur iste pagina.
+
 protections-panel-content-blocking-tracking-protection = Contento de traciamento
+
 protections-panel-content-blocking-socialblock = Traciatores de retes social
 protections-panel-content-blocking-cryptominers-label = Cryptominatores
 protections-panel-content-blocking-fingerprinters-label = Dactylogrammatores
@@ -64,6 +70,7 @@ protections-panel-protectionsdashboard-label = Pannello de protectiones
 
 # The header of the list
 protections-panel-site-not-working-view-header = Disactiva protectiones si tu ha problemas con:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos de credentiales
 protections-panel-site-not-working-view-issue-list-forms = Formularios
@@ -71,6 +78,7 @@ protections-panel-site-not-working-view-issue-list-payments = Pagamentos
 protections-panel-site-not-working-view-issue-list-comments = Commentos
 protections-panel-site-not-working-view-issue-list-videos = Videos
 protections-panel-site-not-working-view-issue-list-fonts = Typos de characteres
+
 protections-panel-site-not-working-view-send-report = Inviar un reporto
 
 ##
@@ -80,13 +88,16 @@ protections-panel-cryptominers = Cryptominatores usa le potentia de calculo de t
 protections-panel-fingerprinters = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web.
 protections-panel-tracking-content = Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de aperir session pote non functionar.
 protections-panel-social-media-trackers = Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social.
+
 protections-panel-description-shim-allowed = Alcun traciatores marcate infra ha essite partialmente disblocate sur iste pagina, perque tu ha interagite con illos.
 protections-panel-description-shim-allowed-learn-more = Saper plus
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Traciator partialmente disblocate
+
 protections-panel-content-blocking-manage-settings =
     .label = Gerer parametros de protection
     .accesskey = t
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Reportar sito rupte
 protections-panel-content-blocking-breakage-report-view-description = Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta a meliorar { -brand-short-name } pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes sur le configuration de tu navigator. <label data-l10n-name="learn-more">Saper plus</label>
@@ -108,6 +119,7 @@ protections-panel-cookie-banner-handling-header = Reduction de banner pro le coo
 protections-panel-cookie-banner-handling-enabled = Activar pro iste sito
 protections-panel-cookie-banner-handling-disabled = Disactivar pro iste sito
 protections-panel-cookie-banner-handling-undetected = Sito actualmente non supportate
+
 protections-panel-cookie-banner-view-title =
     .title = Reduction de banner pro le cookie
 # Variables

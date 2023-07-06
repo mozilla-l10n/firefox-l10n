@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Non quitar
        *[other] Non exir
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si tu te disconnecte ora, 1 discargamento essera cancellate. Desira tu vermente disconnecter te?
        *[other] Si tu te disconnecte, { $downloadsCount } discargamentos essera cancellate. Desira tu vermente disconnecter te?
     }
 download-ui-dont-go-offline-button = Remaner in linea
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Si tu claude tote le fenestras de navigation private ora, 1 discargamento essera cancellate. Desira tu vermente lassar le Navigation private?
        *[other] Si tu claude tote le fenestras de navigation private ora, { $downloadsCount } discargamentos essera cancellate. Desira tu vermente lassar le Navigation private?
     }
 download-ui-dont-leave-private-browsing-button = Resta in navigation private
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cancellar un discarga

@@ -5,8 +5,10 @@
 screenshot-toolbarbutton =
     .label = Instantaneo de schermo
     .tooltiptext = Prender un instantaneo
+
 screenshot-shortcut =
     .key = S
+
 screenshots-instructions = Trahe o clicca sur le pagina pro seliger un parte. Pulsa ESC pro cancellar.
 screenshots-cancel-button = Cancellar
 screenshots-save-visible-button = Salvar le area visibile
@@ -23,6 +25,7 @@ screenshots-cancel-button-title =
     .title = Cancellar
 screenshots-retry-button-title =
     .title = Retentar instantaneo de schermo
+
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
@@ -30,19 +33,28 @@ screenshots-meta-key =
     }
 screenshots-notification-link-copied-title = Ligamine copiate
 screenshots-notification-link-copied-details = Le ligamine a tu instantaneo ha essite copiate al area de transferentia. Pulsa { screenshots-meta-key }-V pro collar.
+
 screenshots-notification-image-copied-title = Instantaneo copiate
 screenshots-notification-image-copied-details = Tu instantaneo ha essite copiate al area de transferentia. Pulsa { screenshots-meta-key }-V pro collar.
+
 screenshots-request-error-title = Foras de servicio.
 screenshots-request-error-details = Perdono! Nos non ha potite salvar tu instantaneo. Per favor tenta de novo plus tarde.
+
 screenshots-connection-error-title = Nos non pote acceder a tu instantaneos de schermo.
 screenshots-connection-error-details = Per favor verifica tu connexion a Internet. Si tu succede a connecter te a Internet, il pote haber un problema temporari con le servicio de { -screenshots-brand-name }.
+
 screenshots-login-error-details = Nos non pote salvar tu instantaneo perque il ha un problema con le servicio de { -screenshots-brand-name }. Per favor reproba plus tarde.
+
 screenshots-unshootable-page-error-title = Impossibile capturar iste pagina.
 screenshots-unshootable-page-error-details = Isto non es un pagina Web normal, assi que tu non pote prender un captura de schermo de illo.
+
 screenshots-empty-selection-error-title = Tu selection es troppo micre
+
 screenshots-private-window-error-title = { -screenshots-brand-name } es disactivate in modo de navigation private
 screenshots-private-window-error-details = Excusa nos pro le incommoditate. Nos labora sur iste functionalitate pro futur editiones.
+
 screenshots-generic-error-title = Hola! { -screenshots-brand-name } se trova disregulate.
 screenshots-generic-error-details = Nos non sape que ha occurrite. Vole tu tentar de novo, o capturar un instantaneo de un altere pagina?
+
 screenshots-too-large-error-title = Tu instantaneo era retaliate perque illo era troppo grande
 screenshots-too-large-error-details = Prova seliger un region que es minor que 32.700 pixels sur su latere plus longe o 124.900.000 pixels de area total.
