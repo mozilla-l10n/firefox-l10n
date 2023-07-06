@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Tapusin ang Pag-setup ng Account
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Na-disconnect ang Account
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Ipadala sa Lahat ng Mga Device
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = I-manage ang mga Device…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = I-manage ang mga Device…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Hindi Nakakonekta ang Mga Device
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Matuto Tungkol sa Pagpapadala ng mga Tab…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Magkonekta ng Isa Pang Device…
 
@@ -45,10 +50,13 @@ account-send-tab-to-device-verify = Beripikahin ang Iyong Account…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Ang computer na ito'y konektado na ngayon sa { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Ang computer na ito'y konektado na ngayon sa isang bagong device.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Tagumpay kang nakapag-sign in
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Nai-disconnect na ang computer na ito.
 
@@ -60,6 +68,7 @@ account-single-tab-arriving-title = Natanggap ang Tab
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab mula sa { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -72,6 +81,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Mga Bagong-dating na Tab
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

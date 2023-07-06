@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Mga Exception
-    .style = width: 45em
-
 permissions-window2 =
     .title = Mga Exception
     .style = min-width: 45em
@@ -92,20 +88,11 @@ permissions-invalid-uri-label = Maglagay ng wastong hostname
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Mga Exception para sa Enhanced Tracking Protection
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Mga Exception para sa Enhanced Tracking Protection
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Isinara mo ang mga protection sa mga website na ito.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = Mga Exception - Mga Cookie at Site Data
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = Mga Exception - Mga Cookie at Site Data
@@ -114,20 +101,12 @@ permissions-exceptions-cookie-desc = Maaari mong tukuyin kung aling website ang 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Mga Exception - HTTPS-Only Mode
-    .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Mga Exception - HTTPS-Only Mode
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Maaari mong patayin ang HTTPS-Only Mode para sa mga tukoy na website. Hindi susubukang i-upgrade ng { -brand-short-name } ang koneksyon upang ma-secure ang HTTPS para sa mga site na iyon. Ang mga exception ay hindi nalalapat sa mga pribadong bintana.
 
 ## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window =
-    .title = Mga Website na Pinapayagan - Mga Pop-up
-    .style = { permissions-window.style }
 
 permissions-exceptions-popup-window2 =
     .title = Mga Website na Pinapayagan - Mga Pop-up
@@ -136,20 +115,12 @@ permissions-exceptions-popup-desc = Maaari mong tukuyin aling mga website ang pi
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Mga Exception - Mga Naka-save na Login
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Mga Exception - Mga Naka-save na Login
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Ang mga login para sa mga sumusunod na website ay hindi ise-save
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Mga Website na Pinapayagan - Pagkabit ng mga Add-on
@@ -158,20 +129,12 @@ permissions-exceptions-addons-desc = Maaari mong tukuyin aling mga website ang p
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Mga setting - Autoplay
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Mga setting - Autoplay
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Maaari mong pamahalaan ang mga site na hindi sumusunod sa iyong default na mga setting ng autoplay dito.
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = Mga Setting - Mga Pahintulot sa Pag-abiso
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = Mga Setting - Mga Pahintulot sa Pag-abiso
@@ -183,10 +146,6 @@ permissions-site-notification-disable-desc = Pipigilan nito ang mga website na w
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Mga Setting - Mga Pahintulot sa Lokasyon
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Mga Setting - Mga Pahintulot sa Lokasyon
     .style = { permissions-window2.style }
@@ -196,10 +155,6 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Ito ang pipigil sa mga website na wala sa listahan upang humingi ng permiso na i-access ang iyong location. Ang pagblock ng access sa iyong location ay maaaring makasira sa ibang features ng website.
 
 ## Site Permissions - Virtual Reality
-
-permissions-site-xr-window =
-    .title = Mga Setting - Mga Pahintulot sa Virtual Reality
-    .style = { permissions-window.style }
 
 permissions-site-xr-window2 =
     .title = Mga Setting - Mga Pahintulot sa Virtual Reality
@@ -211,10 +166,6 @@ permissions-site-xr-disable-desc = Ito ang pipigil sa mga website na wala sa lis
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Mga Setting - Mga Pahintulot sa Camera
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Mga Setting - Mga Pahintulot sa Camera
     .style = { permissions-window2.style }
@@ -225,10 +176,6 @@ permissions-site-camera-disable-desc = Ito ang pipigil sa mga website na wala sa
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Mga Setting - Mga Pahintulot sa Mikropono
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Mga Setting - Mga Pahintulot sa Mikropono
     .style = { permissions-window2.style }
@@ -236,3 +183,8 @@ permissions-site-microphone-desc = Ang mga sumusunod na website ay humihingi ng 
 permissions-site-microphone-disable-label =
     .label = I-block ang mga humihingi ng pahintulot na i-access ang iyong microphone
 permissions-site-microphone-disable-desc = Pipigilan nito ang kahit na anong website na hindi kasama sa listahan sa paghingi ng permiso upang i-access ang iyong microphone. Ang pagblock ng access sa iyong microphone ay maaaring makasira sa ibang features ng website.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

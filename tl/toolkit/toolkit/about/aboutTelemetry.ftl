@@ -131,12 +131,6 @@ about-telemetry-category-header = categorya
 about-telemetry-method-header = paraan
 about-telemetry-object-header = bagay
 about-telemetry-extra-header = dagdag
-about-telemetry-origin-section = Origin Telemetry
-about-telemetry-origin-origin = pinanggalingan
-about-telemetry-origin-count = bilang
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = Ang <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> ay nag-e-encode ng data bago ipadala para makapagbilang ang { $telemetryServerOwner }, pero hindi malalaman kung may kahit anong { -brand-product-name } na dumagdag sa bilang na iyon. (<a data-l10n-name="prio-blog-link">alamin</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } process

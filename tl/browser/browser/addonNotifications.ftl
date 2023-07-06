@@ -14,6 +14,7 @@ xpinstall-prompt-message = Sinusubukan mong magkabit ng add-on mula sa { $host }
 
 xpinstall-prompt-header-unknown = Payagang magkabit ng add-on ang di-kilalang site?
 xpinstall-prompt-message-unknown = Tinatangka mong magkabit ng add-on mula sa di-kilalang site. Siguruhin munang pinagkakatiwalaan mo ang site na ito bago magpatuloy.
+
 xpinstall-prompt-dont-allow =
     .label = Huwag Pahintulutan
     .accesskey = D
@@ -37,12 +38,14 @@ xpinstall-disabled = Ang pag-install ng software ay kasalukuyang naka-disable. P
 xpinstall-disabled-button =
     .label = Paganahin
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Ang { $addonName } ({ $addonId }) ay hinarangan ng iyong system administrator.
 addon-install-full-screen-blocked = Hindi pinapayagan ang pagkabit ng add-on habang nasa loob ng o bago pumasok ng fullscreen mode.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Ang { $addonName } ay naidagdag sa { -brand-short-name }
@@ -59,6 +62,7 @@ addon-removal-title = Alisin { $name }?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Alisin ang { $name } mula sa { -brand-shorter-name }?
 addon-removal-button = Alisin
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -67,6 +71,7 @@ addon-downloading-and-verifying =
        *[other] Nagda-download at nagve-verify ng { $addonCount } add-on…
     }
 addon-download-verifying = Biniberika
+
 addon-install-cancel-button =
     .label = Kanselahin
     .accesskey = C

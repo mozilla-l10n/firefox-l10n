@@ -14,6 +14,10 @@ onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-start-browsing-button-label = Magsimulang Mag-browse
 onboarding-not-now-button-label = Hindi sa ngayon
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Magsimula
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Mahusay, mayroon ka nang { -brand-short-name }
@@ -24,36 +28,14 @@ return-to-amo-subtitle = Mahusay, mayroon ka nang { -brand-short-name }
 return-to-amo-addon-title = Ngayon kunin natin ang <img data-l10n-name="icon"/><b>{ $addon-name }</b>.
 return-to-amo-add-extension-label = Idagdag ang Extension
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Pagsisimula: screen { $current } ng { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Dito
-    nagsisimula ang ningas
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — taga-disenyo ng muwebles, tagahanga ng Firefox
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Patayin ang mga animasyon
@@ -62,59 +44,22 @@ mr1-onboarding-reduce-motion-button-label = Patayin ang mga animasyon
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Panatilihin ang { -brand-short-name } sa iyong Dock para sa madaling pag-access
-       *[other] I-pin ang { -brand-short-name } sa iyong taskbar para sa madaling pag-access
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Pantilihin sa Dock
-       *[other] I-pin sa taskbar
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Magsimula
-
-mr1-onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Gawin ang { -brand-short-name } bilang pangunahing browser ko
-    .title = I-set ang { -brand-short-name } bilang default browser at i-pin sa taskbar
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Gawin ang { -brand-short-name } bilang default browser ko
-mr1-onboarding-set-default-secondary-button-label = Hindi ngayon
 mr1-onboarding-sign-in-button-label = Mag-sign in
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Gawin mong default ang { -brand-short-name }
-mr1-onboarding-default-subtitle = Ilagay ang bilis, kaligtasan, at pagkapribado sa autopilot.
-mr1-onboarding-default-primary-button-label = Gawing default browser
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = Dalhin mo lahat ito
-mr1-onboarding-import-subtitle = I-import ang iyong mga password, <br/>mga bookmark, at marami pang iba.
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Mag-import mula sa { $previous }
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Mag-import mula sa nakaraang browser
-mr1-onboarding-import-secondary-button-label = Hindi ngayon
-
 mr1-onboarding-theme-header = Sarilinin mo ito
 mr1-onboarding-theme-subtitle = Isapersonal ang { -brand-short-name } gamit ang isang tema.
-mr1-onboarding-theme-primary-button-label = I-save ang tema
 mr1-onboarding-theme-secondary-button-label = Hindi ngayon
 
 # System theme uses operating system color settings
@@ -200,6 +145,8 @@ mr1-onboarding-theme-description-alpenglow =
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -225,4 +172,11 @@ mr1-onboarding-theme-description-alpenglow =
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

@@ -5,22 +5,22 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Independent Voices
-colorway-collection-independent-voices-description = Ang kulay ay maaaring makabago ng kultura. Ang pinakabagong mga colorways ay nagdidiriwang ng mga boses na ginagawang mas mabuti na lugar ang mundo.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Mga kulay na nagbabago ng kultura.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker
 playmaker-colorway-description = Pwede kang gumawa ng magkakataon upang manalo at tulungan lahat na mga tao sa paligid mo para manalo rin sila.
+
 expressionist-colorway-name = Expressionist
 expressionist-colorway-description = Nakikita mo ang mundo sa kakaibang paraan at ang mga iyong inililika ay ipinaghahalo ang mga damdamin ng iba.
+
 visionary-colorway-name = Visionary
 visionary-colorway-description = Tinatanong mo ang status quo at binibigyan mo ang mga iba inspirasyon para maisipin ang isang mas magandang kinabukasan.
+
 activist-colorway-name = Activist
 activist-colorway-description = Iniwan mo ang mundo mas mahusay na lugar kumpara noong nahanap mo ito at pinaniwala mo ang iba.
+
 dreamer-colorway-name = Dreamer
 dreamer-colorway-description = Naniniwala mo na pinapaboran ng kapalaran ang matapang at nagbibigay ng inspirasyon sa iba para silay maging matapang.
+
 innovator-colorway-name = Innovator
 innovator-colorway-description = Nakikita mo ang pagkakataon kahit saan at binabago mo ang buhay ng ibang tao na sa paligid mo.

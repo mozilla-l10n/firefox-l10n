@@ -13,15 +13,42 @@ safeb-blocked-harmful-page-short-desc = Hinarang ng { -brand-short-name } ang pa
 safeb-palm-advisory-desc = Ang pagpapayo ay ibinigay ng <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Bumalik
 safeb-palm-see-details-label = Tignan ang detalye
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>naiulat bilang isang deceptive site</a>. Maaari mong <a data-l10n-name='report_detection'>i-report ito bilang isang detection problem</a> o <a data-l10n-name='ignore_warning_link'>hindi pansinin ang panganib</a> at pumunta sa hindi ligtas na site na ito.
 safeb-blocked-phishing-page-error-desc-no-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>iniulat bilang isang deceptive site</a>. Maaari mong <a data-l10n-name='report_detection'>i-report ito bilang isang detection problem</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Alamin ang tungkol sa mga deceptive site at phishing sa <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Alamin ang tungkol sa Phishing at Malware Protection ng { -brand-short-name } sa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Alamin ang tungkol sa Phishing at Malware Protection ng { -brand-short-name } sa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>naiulat na naglalaman ng mapanganib na software</a>. Maaari mong <a data-l10n-name='ignore_warning_link'>hindi pansinin ang panganib</a> at puntahan ang di-ligtas na site na ito.
 safeb-blocked-unwanted-page-error-desc-no-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>naiulat na naglalaman ng mapanganib na software</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Alamin ang tungkol sa mapanganib at di-kanais-nais na software sa <a data-l10n-name='learn_more_link'>Unwanted Software Policy</a>. Alamin ang tungkol sa Phishing at Malware Protection ng { -brand-short-name } sa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>naiulat na naglalaman ng application na may potensyal na makasira</a>. Maaari mong <a data-l10n-name='ignore_warning_link'>hindi pansinin ang panganib</a> at puntahan ang di-ligtas na site na ito.
 safeb-blocked-harmful-page-error-desc-no-override = Ang <span data-l10n-name='sitename'>{ $sitename }</span> ay <a data-l10n-name='error_desc_link'>naiulat na naglalaman ng application na may potensyal na makasira</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Matuto ng higit pa patungkol sa { -brand-short-name }’s Phishing at Malware proteksyon sa <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Ito ay hindi mapagkunwaring site...

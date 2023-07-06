@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Kasalukuyan kang nasa FIPS mode. Nangangai
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = I-reset ang Primary Password
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = I-reset ang Primary Password
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = I-reset ang Primary Password
 pippki-reset-password-confirmation-message = Na-reset na ang iyong Primary Password.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Kinukuha ang Sertipiko
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Kinukuha ang Sertipiko
@@ -82,7 +74,5 @@ set-password-reminder = Mahalaga: Kung nakalimutan mo ang iyong password sa back
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Protected Token Authentication
-protected-auth-msg = Paki-authenticate sa token. Nagdedepende ang authentication method sa uri ng iyong token.
-protected-auth-token = Token:
+## Protected authentication alert
+

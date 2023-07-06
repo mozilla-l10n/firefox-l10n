@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Isara ang { -brand-shorter-name }
+
 menu-about =
     .label = Tungkol sa { -brand-shorter-name }
     .accesskey = A
@@ -210,8 +212,6 @@ menu-history-undo-menu =
     .label = Mga Naisarang Tab
 menu-history-undo-window-menu =
     .label = Mga Isinarang Window Kamakailan
-menu-history-reopen-all-tabs = Muling Buksan ang Lahat ng mga Tab
-menu-history-reopen-all-windows = Muling buksan ang Lahat ng mga Window
 
 ## Bookmarks Menu
 
@@ -220,10 +220,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Pamahalaan ang mga Bookmark
-menu-bookmark-current-tab =
-    .label = i-Bookmark ang Kasalukuyang Tab
-menu-bookmark-edit =
-    .label = i-Edit ang bookmark na ito
 menu-bookmarks-all-tabs =
     .label = i-Bookmark ang Lahat ng mga Tab…
 menu-bookmarks-toolbar =

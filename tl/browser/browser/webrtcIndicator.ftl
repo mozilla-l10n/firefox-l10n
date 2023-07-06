@@ -30,6 +30,7 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Hindi tiyak ang pinanggalingan
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Mga device sa pagbabahagi ng mga tab
     .accesskey = d
+
 webrtc-sharing-window = Nagbabahagi ka ng isa pang application window.
 webrtc-sharing-browser-window = Ibinabahagi mo ang { -brand-short-name }.
 webrtc-sharing-screen = Ibinabahagi mo ang iyong buong screen.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Control Sharing
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Pagkontrol sa Pagbabahagi sa "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Pagbabahagi ng Camera gamit ang "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Pagbabahagi ng Camera na may { $tabCount } na tab
            *[other] Pagbabahagi ng Camera na may { $tabCount } na mga tab
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Pagbabahagi ng Microphone sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Pagbabahagi ng Mikropono na may { $tabCount } na tab
            *[other] Pagbabahagi ng Mikropono na may { $tabCount } na mga tab
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Pagbabahagi ng isang Aplikasyon na may "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Pagbabahagi ng isang Application na may { $tabCount } na tab
            *[other] Pagbabahagi ng Mga Application na may { $tabCount } na mga tab
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Pagbabahagi ng Screen gamit ang "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Pagbabahagi ng Screen na may { $tabCount } na tab
            *[other] Pagbabahagi ng Screen na may { $tabCount } na mga tab
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Pagbabahagi ng Window na may "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Pagbabahagi ng Window na may { $tabCount } na tab
            *[other] Pagbabahagi ng Windows na may { $tabCount } na mga tab
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Pagbabahagi ng Tab na may "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -184,6 +192,7 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = Tandaan itong desisyon
 webrtc-mute-notifications-checkbox = I-mute ang mga abiso sa website habang nagbabahagi
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ay hindi pinapayagan ang permanenteng pag-access sa iyong screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ay hindi pinapayagan ang permanenteng pag-access sa audio ng iyong tab nang walang pagtatanong kung aling tab ang ibabahagi.
 webrtc-reason-for-no-permanent-allow-insecure = Ang iyong koneksyon sa site na ito ay hindi ligtas. Upang protektahan ka, papayagan lamang ng { -brand-short-name } ang pag-access para sa session na ito.

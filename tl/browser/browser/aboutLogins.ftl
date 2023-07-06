@@ -5,11 +5,6 @@
 
 about-logins-page-title = Mga Login at Password
 
-login-filter =
-    .placeholder = Hanapin sa mga Login
-
-create-login-button = Gumawa ng Panibagong Login
-
 fxaccounts-sign-in-text = Kuhanin ang iyong mga password sa iba mong mga device
 fxaccounts-sign-in-sync-button = Mag-sign in sa sync
 fxaccounts-avatar-button =
@@ -98,9 +93,10 @@ login-item-copied-password-button-text = Nakopya na!
 login-item-save-changes-button = I-Save ang mga Pagbabago
 login-item-save-new-button = i-Save
 login-item-cancel-button = Ikansela
-login-item-time-changed = Huling binago: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Ginawa: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Huling ginamit: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -151,6 +147,9 @@ about-logins-confirm-remove-dialog-title = Alisin ang login?
 confirm-delete-dialog-message = Hindi na pwedeng bawiin ang kilos na ito.
 about-logins-confirm-remove-dialog-confirm-button = Tanggalin
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Alisin
@@ -187,6 +186,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Aalisin nito ang lahat ng mga login na nai-save mo sa { -brand-short-name } ng lahat ng mga device na naka-sync sa iyong { -fxaccount-brand-name }. Aalisin din nito ang mga alerto sa paglabag na lilitaw dito. Hindi mo maibabalik ang pagkilos na ito.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Mag-export ng mga login at password
 about-logins-confirm-export-dialog-message = Mase-save ang mga password mo bilang readable text (hal., PangitNaP@ssw0rd) kaya pwede itong makita ng kahit sinong makakapagbukas ng na-export na file.
 about-logins-confirm-export-dialog-confirm-button = i-Export…
@@ -206,7 +207,6 @@ about-logins-breach-alert-date = Naganap ang breach na ito noong { DATETIME($dat
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Pumunta sa { $hostname }
-about-logins-breach-alert-learn-more-link = Alamin
 
 ## Vulnerable Password notification
 

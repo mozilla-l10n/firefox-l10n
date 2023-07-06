@@ -47,3 +47,4 @@ screenshots-private-window-error-details = Pasensya na sa abala. Inaayos namin a
 
 screenshots-generic-error-title = Aba! Nagkagulo na sa { -screenshots-brand-name }.
 screenshots-generic-error-details = Hindi kami sigurado kung ano ang nangyari. Nais mo bang subukan uli o kumuha ng shot ng ibang pahina?
+

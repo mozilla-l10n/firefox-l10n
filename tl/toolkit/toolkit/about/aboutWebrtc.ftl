@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = i-save ang about:webrtc bilang
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = Simulan ang AEC Logging
 about-webrtc-aec-logging-on-state-label = Ihinto ang AEC Logging
 about-webrtc-aec-logging-on-state-msg = Aktib ang AEC Logging (makipag-usap sa tumawag mga ilang minuto at pagkatapos ay ihindi ang pag-capture)
+
 about-webrtc-aec-logging-toggled-on-state-msg = Aktib ang AEC Logging (makipag-usap sa tumawag mga ilang minuto at pagkatapos ay ihindi ang pag-capture)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Ang nakuhang mga log file ay makikita sa: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -77,10 +80,12 @@ about-webrtc-type-remote = Remote
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nakatalaga
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Napili
+
 about-webrtc-save-page-label = I-save ang Pahina
 about-webrtc-debug-mode-msg-label = Mode na Pag-debug
 about-webrtc-debug-mode-off-state-label = Simulan ang Debug Mode
@@ -93,6 +98,7 @@ about-webrtc-log-show-msg = ipakita ang log
     .title = pindutin para i-expand ang bahaging ito
 about-webrtc-log-hide-msg = itago ang log
     .title = pindutin para i-collapse ang seksyong ito
+
 about-webrtc-log-section-show-msg = Ipakita ang log
     .title = Pindutin para i-expand ang bahaging ito
 about-webrtc-log-section-hide-msg = Itago ang log
@@ -169,6 +175,7 @@ about-webrtc-save-page-msg = ang pahina ay inisave sa: { $path }
 about-webrtc-debug-mode-off-state-msg = ang trace log ay maaaring makita sa: { $path }
 about-webrtc-debug-mode-on-state-msg = aktib ang debug mode, ang trace log ay nasa: { $path }
 about-webrtc-aec-logging-off-state-msg = ang nakuhang mga log file ay makikita sa: { $path }
+
 about-webrtc-save-page-complete-msg = Ang pahina ay inisave sa: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Ang trace log ay maaaring makita sa: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Aktib ang debug mode, ang trace log ay nasa: { $path }
@@ -183,6 +190,7 @@ about-webrtc-frames =
         [one] { $frames } frame
        *[other] { $frames } frames
     }
+
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -191,11 +199,13 @@ about-webrtc-channels =
         [one] { $channels } channel
        *[other] { $channels } channels
     }
+
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

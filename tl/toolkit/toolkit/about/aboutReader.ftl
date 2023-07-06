@@ -4,12 +4,14 @@
 
 about-reader-loading = Naglo-load...
 about-reader-load-error = Nabigong i-load ang artikulo mula sa pahina
+
 about-reader-color-scheme-light = Banayad
     .title = Color Scheme Light
 about-reader-color-scheme-dark = Madilim
     .title = Color Scheme Dark
 about-reader-color-scheme-sepia = Sepia
     .title = Color Scheme Sepia
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

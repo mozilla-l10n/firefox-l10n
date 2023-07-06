@@ -17,17 +17,9 @@ experimental-features-web-gpu2 =
 experimental-features-media-jxl =
     .label = Media: JPEG XL
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
-
 experimental-features-devtools-compatibility-panel =
     .label = Developer Tools: Compatibility Panel
 
-# Do not translate 'SameSite', 'Lax' and 'None'.
-experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Cookies: SameSite=Lax by default
 
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
@@ -38,12 +30,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Ang mg
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home startup cache
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-schemeful =
-    .label = Cookies: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Tratuhing cross-site ang mga cookie na nanggaling sa kaparehong domain pero magkaiba ng scheme (hal., http://example.com at https://example.com) sa halip na same-site. Napapaigting ang seguridad, ngunit maaaring makadulot ng pagkasira.
 
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =

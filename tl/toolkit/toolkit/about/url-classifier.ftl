@@ -50,5 +50,9 @@ url-classifier-disabled = Hindi pinagagana
 url-classifier-updating = I-update
 url-classifier-cannot-update = Hindi ma-update
 url-classifier-success = tagumpay
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = update error ({ $error })
 url-classifier-download-error = download error ({ $error })

@@ -153,6 +153,8 @@ media-capabilities-title = Mga Media Capability
 # List all the entries of the database.
 media-capabilities-enumerate = Ilista ang database
 
+## Codec support table
+
 ##
 
 intl-title = Internationalization & Localization

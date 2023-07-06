@@ -31,13 +31,6 @@ about-networking-messages-received = Mga mensahe na natanggap
 about-networking-bytes-sent = Bytes na naipadala
 about-networking-bytes-received = Bytes na natanggap
 about-networking-logging = Naglo-log
-about-networking-log-tutorial = Tingnan ang <a data-l10n-name="logging"> HTTP Naglo-log</a> para sa mga panuto kung paano gumamit nito.
-about-networking-current-log-file = Kasalukuyang Log ng File:
-about-networking-current-log-modules = Kasalukuyang Log Modules:
-about-networking-set-log-file = Itakda ang Log ng File
-about-networking-set-log-modules = Itakda ang Log ng mga Modules
-about-networking-start-logging = Nagsimula ang Pag-log
-about-networking-stop-logging = Itigil ang Pag-log
 about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Naresolba
 about-networking-dns-domain = Domain:

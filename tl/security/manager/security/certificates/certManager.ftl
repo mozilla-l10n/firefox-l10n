@@ -24,10 +24,6 @@ certmgr-mine = May mga certificate ka mula sa mga organisasyong ito na nakakakil
 certmgr-people = May mga certificate kang nakatago na kumikilala sa mga taong ito
 certmgr-ca = May mga certificate ka na nakatago na kumikilala sa mga certificate authority na ito
 
-certmgr-edit-ca-cert =
-    .title = i-Edit ang CA certificate trust settings
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = i-Edit ang CA certificate trust settings
     .style = min-width: 48em;
@@ -39,10 +35,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Ang sertipiko na ito ay maaaring makilala ang mga gumagamit ng mail.
-
-certmgr-delete-cert =
-    .title = Burahin ang Sertipiko
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Burahin ang Sertipiko
@@ -56,9 +48,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Haba ng buhay
 
 certmgr-token-name =
     .label = Security Device

@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = i-Bookmark ang Pahinang Ito
-    .accesskey = m
-    .tooltiptext = i-Bookmark ang pahinang ito
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = i-Bookmark ang Pahina
-    .accesskey = B
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = i-Edit ang Bookmark
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = i-Bookmark ang Pahinang Ito
-    .accesskey = m
-    .tooltiptext = i-Bookmark ang pahinang ito ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = i-Edit ang bookmark na ito
-    .accesskey = m
-    .tooltiptext = Baguhin itong bookmark
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = i-Edit ang bookmark na ito
-    .accesskey = m
-    .tooltiptext = Baguhin itong bookmark ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Buksan ang Link
     .accesskey = O
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Buksan ang Link sa Bagong Pribadong Window
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = i-Bookmark ang Link
-    .accesskey = B
 
 main-context-menu-save-link =
     .label = i-Save ang Link Bilang…
@@ -320,14 +278,6 @@ main-context-menu-audio-email =
     .label = i-Email ang Audio...
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Paganahin ang plugin na ito
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Itago ang plugin na ito
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = i-Save ang Pahina sa { -pocket-brand-name }
     .accesskey = k
@@ -386,10 +336,6 @@ main-context-menu-frame-reload =
     .label = I-load ang Frame muli
     .accesskey = l
 
-main-context-menu-frame-bookmark =
-    .label = i-Bookmark ang Frame na Ito
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = i-Save ang Frame Bilang…
     .accesskey = F
@@ -405,10 +351,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Ipakita ang Frame Info
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = i-Print ang Napili
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = Ipakita ang Source Code ng Selection

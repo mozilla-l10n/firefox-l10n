@@ -115,13 +115,6 @@ cfr-doorhanger-doh-secondary-button = i-Disable
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Mahalaga ang iyong privacy. Inihihiwalay, o kinakahon na ngayon ng { -brand-short-name } ang mga website mula sa isa't isa, para mas mahirap makanakaw ang mga hacker ng mga password, numero ng credit card, at iba pang sensitibong impormasyon.
-cfr-doorhanger-fission-header = Site Isolation
-cfr-doorhanger-fission-primary-button = OK, Nakuha ko
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Alamin
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Ang mga video sa site na ito ay maaaring hindi mapanood nang tama sa bersyon na ito ng { -brand-short-name }. Para sa buong suporta sa video, i-update na ang { -brand-short-name }.
@@ -141,8 +134,6 @@ cfr-doorhanger-video-support-primary-button = Mag-update Na
 
 ## Total Cookie Protection Rollout
 
-spotlight-total-cookie-protection-secondary-button = Hindi sa ngayon
-
 ## Emotive Continuous Onboarding
 
 ## MR2022 Background Update Windows native toast notification strings.
@@ -161,4 +152,16 @@ spotlight-total-cookie-protection-secondary-button = Hindi sa ngayon
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

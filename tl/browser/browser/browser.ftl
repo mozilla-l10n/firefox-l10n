@@ -14,44 +14,12 @@
 # The last two are for use when there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Private Browsing)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Private Browsing)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Private Browsing)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Private Browsing)
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } Private Browsing
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Private Browsing
+
 # These are the default window titles on macOS. The first two are for use when
 # there is no content title:
 #
@@ -71,6 +39,7 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Private Browsing
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Private Browsing
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -106,16 +75,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Buksan ang panel ng mga pahintulot para sa virtual reality
 urlbar-storage-access-anchor =
     .tooltiptext = Buksan ang panel ng mga pahintulot para sa browsing activity
-urlbar-translate-notification-anchor =
-    .tooltiptext = Isalin ang pahina na ito
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Pangasiwaan ang pag-bahagi ng iyong windows o screen sa site
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Buksan ang offline storage message panel
 urlbar-password-notification-anchor =
     .tooltiptext = Buksan ang save password message panel
-urlbar-translated-notification-anchor =
-    .tooltiptext = I-manage ang page translation
 urlbar-plugins-notification-anchor =
     .tooltiptext = Pangasiwaan ang paggamit ng plug-in
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -142,6 +107,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Shortcut: Hanapin ang { $engineName } direkta mula sa iyong address bar.
 urlbar-search-tips-redirect-2 = Simulan ang iyong paghahanap sa address bar para makakita ng mga mungkahi mula sa { $engineName } at sa iyong browsing history.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Piliin ang shortcut na ito upang makita kung ano ang iyong kinakailangan nang mas mabilis.
@@ -178,21 +144,18 @@ urlbar-midi-blocked =
     .tooltiptext = Na-block mo ang access sa MIDI para sa website na ito.
 urlbar-install-blocked =
     .tooltiptext = Hinarang mo ang pagkabit ng mga add-on sa website na ito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Baguhin itong bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = i-Bookmark ang pahinang ito ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Manage Extension…
-page-action-remove-extension =
-    .label = Tanggalin ang Extension
 
 ## Auto-hide Context Menu
 
@@ -208,8 +171,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngayon naman, maghanap gamit ang:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Baguhin ang mga search setting
+
 search-one-offs-context-open-new-tab =
     .label = Hanapin sa Bagong Tab
     .accesskey = T
@@ -219,12 +184,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Itakda bilang Default Search Engine sa mga Private Window
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -278,6 +245,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = i-Save
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -305,6 +273,7 @@ identity-passive-loaded = Ang mga bahagi ng pahinang ito ay hindi ligtas (tulad 
 identity-active-loaded = Hindi mo pinagana ang proteksyon sa pahinang ito.
 identity-weak-encryption = Ang pahinang ito ay gumagamit ng mahina na pag-encrypt.
 identity-insecure-login-forms = Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.
+
 identity-https-only-connection-upgraded = (inupgrade na sa HTTPS)
 identity-https-only-label = HTTPS-Only Mode
 identity-https-only-dropdown-on =
@@ -316,16 +285,17 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Buksan ang HTTPS-Only Mode para sa site na ito kung nais mong i-upgrade ng { -brand-short-name } ang koneksyon kung posible.
 identity-https-only-info-turn-off2 = Kung mukhang sira ang pahina, maaari mong patayin ang HTTPS-Only Mode para mag-reload ang site gamit ang walang katiyakang HTTP.
 identity-https-only-info-no-upgrade = Hindi kayang mag-upgrade ng koneksyon mula sa HTTP.
+
 identity-permissions-storage-access-header = Mga cross-site cookie
 identity-permissions-storage-access-hint = Ang mga partidong ito ay maaaring gumamit ng mga cross-site cookie at site data habang ikaw ay nasa site na ito.
 identity-permissions-storage-access-learn-more = Alamin
+
 identity-permissions-reload-hint = Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.
 identity-clear-site-data =
     .label = Burahin ang mga Cookie at Site Data…
 identity-connection-not-secure-security-view = Ikaw ay hindi ligtas na nakakonekta sa site na ito.
 identity-connection-verified = Ikaw ay ligtas na nakakonekta sa site na ito.
 identity-ev-owner-label = Inisyu ang certificate kay:
-identity-description-custom-root = Hindi kilala ng Mozilla ang certificate issuer na ito. Maaari itong nadagdag sa iyong operating system o ng isang administrator. <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-custom-root2 = Hindi kilala ng Mozilla ang certificate issuer na ito. Maaari itong nadagdag sa iyong operating system o ng isang administrator.
 identity-remove-cert-exception =
     .label = Tanggalin ang Exception
@@ -334,17 +304,12 @@ identity-description-insecure = Ang iyong koneksyon sa site na ito ay hindi prib
 identity-description-insecure-login-forms = Ang impormasyon sa pag-login na ipinasok mo sa pahinang ito ay hindi ligtas at maaaring makompromiso.
 identity-description-weak-cipher-intro = Ang iyong koneksyon sa website na ito ay gumagamit ng mahina na pag-encrypt at hindi pribado.
 identity-description-weak-cipher-risk = Maaaring tingnan ng iba pang mga tao ang iyong impormasyon o baguhin ang pag-uugali ng website.
-identity-description-active-blocked = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas. <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-active-blocked2 = { -brand-short-name } Na-block ang mga bahagi ng pahinang ito na hindi ligtas.
 identity-description-passive-loaded = Ang iyong koneksyon ay hindi pribado at ang impormasyon na iyong ibinabahagi sa site ay maaaring makita ng iba.
-identity-description-passive-loaded-insecure = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
-identity-description-passive-loaded-mixed = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan). <label data-l10n-name="link">Matuto ng higit pa</label>
 identity-description-passive-loaded-insecure2 = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga larawan).
 identity-description-passive-loaded-mixed2 = Kahit na { -brand-short-name } Na-block ng ilang nilalaman, may nilalaman pa rin sa pahina na hindi ligtas (tulad ng mga larawan).
 identity-description-active-loaded = Ang website na ito ay naglalaman ng nilalaman na hindi ligtas (tulad ng mga script) at ang iyong koneksyon dito ay hindi pribado.
 identity-description-active-loaded-insecure = Ang impormasyon na ibinabahagi mo sa site na ito ay maaaring makita ng iba (tulad ng mga password, mensahe, credit card, atbp.).
-identity-learn-more =
-    .value = Alamin
 identity-disable-mixed-content-blocking =
     .label = Huwag paganahin ang proteksyon sa ngayon
     .accesskey = D
@@ -385,11 +350,13 @@ browser-tab-mute =
         [1] I-MUTE ANG TAB
        *[other] I-MUTE ANG MGA { $count } TAB
     }
+
 browser-tab-unmute =
     { $count ->
         [1] I-UNMUTE TAB
        *[other] I-UNMUTE ANG MGA { $count } TAB
     }
+
 browser-tab-unblock =
     { $count ->
         [1] i-PLAY ANG TAB
@@ -401,6 +368,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Mag-import ng mga bookmark…
     .tooltiptext = Mag-import ng mga bookmark mula sa ibang browser papuntang { -brand-short-name }.
+
 bookmarks-toolbar-empty-message = Para sa mabilis na pag-access, ilagay ang iyong mga bookmark dito sa bookmarks toolbar. <a data-l10n-name="manage-bookmarks">I-manage ang mga bookmark…</a>
 
 ## WebRTC Pop-up notifications
@@ -418,13 +386,6 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = Mga Speaker
 popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
-popup-screen-sharing-block =
-    .label = Harangin
-    .accesskey = H
-popup-screen-sharing-always-block =
-    .label = Palaging harangin
-    .accesskey = w
-popup-mute-notifications-checkbox = I-mute ang mga abiso sa website habang nagbabahagi
 
 ## WebRTC window or screen share tab switch warning
 
@@ -437,14 +398,13 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Para gamitin ang F1 2 shortcut, unang buksan ang DevTools sa Web Developer menu.
-
 ## URL Bar
 
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Hanapin o ilagay ang address
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -453,6 +413,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Hanapin sa Web
     .aria-label = Maghanap gamit ang { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -461,22 +422,27 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa mga bookmark
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa kasaysayan
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ipasok ang mga search term
     .aria-label = Hanapin sa mga tab
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Maghanap gamit ang { $name } o ipasok ang address
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -486,9 +452,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.
 urlbar-switch-to-tab =
     .value = Lumipat sa tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
+
 urlbar-go-button =
     .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
 urlbar-page-action-button =
@@ -577,9 +545,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = Ang <span data-l10n-name="domain">{ $domain }</span> ay naka-full screen na ngayon
 fullscreen-warning-no-domain = Ang dokument na ito ay naka full screen
+
+
 fullscreen-exit-button = Umalis sa Full Screen (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Umalis sa Full Screen (Esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -587,13 +558,6 @@ pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ay
 pointerlock-warning-no-domain = Ang dokumentong ito ay may kontrol sa iyong pointer. Pindutin ang Esc para manumbalik ang kontrol.
 
 ## Subframe crash notification
-
-crashed-subframe-message = <strong>Bumagsak ang parte ng pahinang ito.</strong> Upang ipaalam sa { -brand-product-name } ang tungkol sa isyung ito at mas mabilis itong maayos, mangyaring magsumite ng ulat.
-crashed-subframe-learnmore-link =
-    .value = Alamin
-crashed-subframe-submit =
-    .label = Magsumite ng ulat
-    .accesskey = s
 
 ## Bookmarks panels, menus and toolbar
 
@@ -646,8 +610,7 @@ bookmarks-search =
     .label = Hanapin sa mga Bookmark
 bookmarks-tools =
     .label = Mga Gamit sa Pag-bookmark
-bookmarks-bookmark-edit-panel =
-    .label = i-Edit ang bookmark na ito
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -661,9 +624,6 @@ bookmarks-toolbar-placeholder =
     .title = Mga nakalagay sa Bookmark Toolbar
 bookmarks-toolbar-placeholder-button =
     .label = Mga nakalagay sa Bookmark Toolbar
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = I-bookmark ang kasalukuyang tab
 
 ## Library Panel items
 
@@ -687,11 +647,6 @@ repair-text-encoding-button =
 ## Customize Toolbar Buttons
 
 # Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Mga add-on at tema
-    .tooltiptext = I-manage ang iyong mga add-on at tema ({ $shortcut })
-# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Mga Setting
@@ -700,25 +655,31 @@ toolbar-settings-button =
             [macos] Buksan ang mga setting ({ $shortcut })
            *[other] Buksan ang mga setting
         }
+
 toolbar-overflow-customize-button =
     .label = I-customize ang Toolbar...
     .accesskey = C
+
 toolbar-button-email-link =
     .label = Email Link
     .tooltiptext = Mag-email ng link sa page na ito
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = i-Save ang Pahina
     .tooltiptext = i-Save ang pahina na ito ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Magbukas ng file
     .tooltiptext = Magbukas ng file ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Mga Naka-sync na Tab
     .tooltiptext = Ipakita ang mga tabs mula sa ibang devices
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -740,10 +701,6 @@ panel-save-update-password = Password
 
 ## Add-on removal warning
 
-# Variables:
-#  $name (String): The name of the addon that will be removed.
-addon-removal-title = Alisin { $name }?
-
 ##
 
 # "More" item in macOS share menu
@@ -758,6 +715,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Payagan ang mga pop-up para sa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Harangin ang mga pop-up para sa { $uriHost }
     .accesskey = p
@@ -767,6 +725,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Huwag ipakita ang mensaheng ito kapag hinaharang ang mga pop-up
     .accesskey = D
+
 picture-in-picture-hide-toggle =
     .label = Itago ang Toggle para sa Picture-in-Picture
     .accesskey = H
@@ -785,32 +744,39 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigation
+
 navbar-downloads =
     .label = Mga Download
+
 navbar-overflow =
     .tooltiptext = Marami pang mga kagamitan…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = I-print
     .tooltiptext = I-print ang pahinang ito ... ({ $shortcut })
+
 navbar-home =
     .label = Home
     .tooltiptext = { -brand-short-name } Home Page
+
 navbar-library =
     .label = Library
     .tooltiptext = Tingnan ang kasaysayan, naka-save na mga bookmark, at iba pa
+
 navbar-search =
     .title = Hanapin
-navbar-accessibility-indicator =
-    .tooltiptext = Naka-enable ang mga Accessibility Feature
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Mga tab ng browser
+
 tabs-toolbar-new-tab =
     .label = Bagong Tab
+
 tabs-toolbar-list-all-tabs =
     .label = Ilista ang lahat ng mga tabs
     .tooltiptext = Ilista ang lahat ng mga tabs
@@ -832,10 +798,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Pinigilan ng { -brand-short-name } ang agarang pagbukas ng pahinang ito.
 refresh-blocked-redirect-label = Pingilan ng { -brand-short-name } ang kusang pagdirekta ng pahinang ito tungo sa ibang pahina.
+
 refresh-blocked-allow =
     .label = Payagan
     .accesskey = A
@@ -876,6 +846,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

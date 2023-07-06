@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Buksan
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Buksan sa Bagong Tab
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Buksan ang Link sa Bagong Window
-    .accesskey = n
-synced-tabs-context-open-in-new-private-window =
-    .label = Buksan sa Bagong Private Window
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = i-Bookmark ang Tab na Ito...
-    .accesskey = B
 
 ##
 

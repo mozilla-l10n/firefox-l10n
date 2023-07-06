@@ -9,10 +9,6 @@ failed-pp-change = Hindi kayang mapalitan ang Primary Password.
 incorrect-pp = Hindi ka nagpasok ng tamang kasalukuyang Primary Password. Subukan uli.
 pp-change-ok = Matagumpay na napalitan ang Primary Password.
 
-pp-empty-warning = Hindi mapoprotektahan ang iyong mga nakaimbak na password at private key.
-pp-erased-ok = Binura mo na ang iyong Primary Password. { pp-empty-warning }
-pp-not-wanted = Babala! Nagdesisyon kang huwag gumamit ng Primary Password. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Kasalukuyan kang naka-FIPS mode. Kinakailangan ng FIPS ang isang hindi blangkong Primary Password.
 pw-change-success-title = Tagumpay na Napalitan ang Password
 pw-change-failed-title = Nabigo ang Pagpalit ng Password

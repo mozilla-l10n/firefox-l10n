@@ -23,5 +23,7 @@ state-header = Estado
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Mga detalye
+
 update-installed-on = Ikinabit noong: { $date }
+
 update-status = Estado: { $status }

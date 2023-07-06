@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Nagkaroon ng problema habang kumokonekta sa { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Error code: { $error }
-
 psmerr-ssl-disabled = Can’t connect securely because the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Can’t connect securely because the site uses an older, insecure version of the SSL protocol.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Walang suportadong TLS signature al
 ssl-error-unsupported-signature-algorithm = Ang peer ay gumamit ng di-suportadong kombinasyon ng signature at hash algorithm.
 ssl-error-missing-extended-master-secret = Sinubukan ng peer na magpatuloy nang walang tamang extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = Sinubukan ng peer na magpatuloy na may di-inaasahang extended_master_secret extension.
+
 sec-error-io = May naganap na I/O error habang may security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: nakatanggap ng bad data.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Hindi kayang ma-decrypt: hindi tugma ang key e
 sec-error-pkcs7-bad-signature = Bigo ang signature verification: walang natagpuang signer, masyadong maraming signer, o di-wasto o sirang data.
 sec-error-unsupported-keyalg = Di-suportado o di-kilalang key algorithm.
 sec-error-decryption-disallowed = Hindi maaaring i-decrypt: naka-encrypt gamit ang isang ipinagbabawal na algorithm o key size.
-xp-sec-fortezza-bad-card = Ang Fortezza card ay hindi maayos na na-initialize. Mangyaring alisin ito at ibalik ito sa iyong issuer.
-xp-sec-fortezza-no-card = Walang Natagpuang mga Fortezza card
-xp-sec-fortezza-none-selected = Walang napiling Fortezza card
-xp-sec-fortezza-more-info = Mangyaring pumili ng personalidad para makakuha ng karagdagang impormasyon sa
-xp-sec-fortezza-person-not-found = Personality not found
-xp-sec-fortezza-no-more-info = No more information on that Personality
-xp-sec-fortezza-bad-pin = Di-wastong Pin
-xp-sec-fortezza-person-error = Hindi makapag-initialize ng mga Fortezza personality.
 sec-error-no-krl = Walang natagpuang KRL para sa certificate ng site na ito.
 sec-error-krl-expired = Ang KRL para sa certificate ng site na ito ay nag-expire na.
 sec-error-krl-bad-signature = Ang KRL para sa certificate ng site na ito ay may invalid signature.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Mayroon nang natagpuang certificate na may k
 sec-error-key-nickname-collision = Mayroon nang natagpuang key na may kaparehong nickname.
 sec-error-safe-not-created = nagkaroon ng error habang gumagawa ng safe object
 sec-error-baggage-not-created = nagkaroon ng error habang gumagawa ng baggage object
-xp-java-remove-principal-error = Hindi kayang tanggalin ang principal
-xp-java-delete-privilege-error = Hindi kayang burahin ang privilege
-xp-java-cert-not-exists-error = Ang principal na ito ay walang certificate
 sec-error-bad-export-algorithm = Hindi pinapayagan ang kinakailangang algorithm.
 sec-error-exporting-certificates = May error sa tangkang pag-export ng mga certificate.
 sec-error-importing-certificates = May error sa tangkang pag-import ng mga certificate.
@@ -339,6 +320,7 @@ sec-error-locked-password = Ang password ay naka-lock.
 sec-error-unknown-pkcs11-error = Di-kilalang PKCS #11 error.
 sec-error-bad-crl-dp-url = Di-wasto o di-suportadong URL sa CRL distribution point name.
 sec-error-cert-signature-algorithm-disabled = Naka-sign ang certificate gamit ang isang signature algorithm na naka-disable dahil hindi ito ligtas.
+
 mozilla-pkix-error-key-pinning-failure = Ang server ay gumagamit ng key pinning (HPKP) pero walang pinagkakatiwalaang certificate chain na maaaring buuing tumutugma sa pinset. Hindi pwedeng ma-override ang mga key pinning violation.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Ang server ay gumagamit ng certificate na may basic constraints extension na nagtutukoy dito bilang isang certificate authority. Hindi dapat ito ang kaso para sa isang certificate na may maayos na pagkakalathala.
 mozilla-pkix-error-inadequate-key-size = Ang server ay nagprisinta ng certificate na may key size na masyadong maliit para makapagtatag ng ligtas na koneksyon.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Ang server ay nagprisinta ng certi
 mozilla-pkix-error-empty-issuer-name = Ang server ay nagprisinta ng certificate na may bakanteng issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = May karagdagang policy constraint na nabigo habang vina-validate ang certificate na ito.
 mozilla-pkix-error-self-signed-cert = Ang certificate ay hindi pinagkakatiwalaan dahil ito ay self-signed.
+
+xp-java-remove-principal-error = Hindi kayang tanggalin ang principal
+xp-java-delete-privilege-error = Hindi kayang burahin ang privilege
+xp-java-cert-not-exists-error = Ang principal na ito ay walang certificate
+
+xp-sec-fortezza-bad-card = Ang Fortezza card ay hindi maayos na na-initialize. Mangyaring alisin ito at ibalik ito sa iyong issuer.
+xp-sec-fortezza-no-card = Walang Natagpuang mga Fortezza card
+xp-sec-fortezza-none-selected = Walang napiling Fortezza card
+xp-sec-fortezza-more-info = Mangyaring pumili ng personalidad para makakuha ng karagdagang impormasyon sa
+xp-sec-fortezza-person-not-found = Personality not found
+xp-sec-fortezza-no-more-info = No more information on that Personality
+xp-sec-fortezza-bad-pin = Di-wastong Pin
+xp-sec-fortezza-person-error = Hindi makapag-initialize ng mga Fortezza personality.
