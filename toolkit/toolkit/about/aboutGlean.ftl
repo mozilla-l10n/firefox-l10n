@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Sobre o Glean
-about-glean-description = O <a data-l10n-name="glean-sdk-doc-link">Glean SKD</a> é unha biblioteca de recolección de datos empregada polos produtos da Mozilla. Esta páxina é para desenvolvedores e probadores que precisen <a data-l10n-name="fog-debug-doc-link">configurar o estado de depuración e rexistro no Glean SDK</a>.
-about-glean-warning = O mal uso desta interface pode quebrar o { -brand-short-name }.
-tag-pings-label = Etiquetar todos os pings enviados con esta etiqueta
-log-pings-label = Rexistrar a carga dos pings antes de envialos?
-send-pings-label = Enviar o ping con nome
-controls-button-label = Enviar configuración
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = SDK de { -glean-brand-name }
 glean-debug-ping-viewer-brand-name = Visor de latencia de depuración de { -glean-brand-name }
+
 about-glean-page-title2 = Sobre { -glean-brand-name }
 about-glean-header = Sobre { -glean-brand-name }
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     é unha biblioteca de recollida de datos utilizada nos proxectos de { -vendor-short-name }.
     Esta interface está deseñada para que persoas desenvolvedoras e probadoras
     <a data-l10n-name="fog-link">proben a instrumentación</a> manualmente.
+
 about-glean-upload-enabled = A carga de datos está activada.
 about-glean-upload-disabled = A carga de datos está desactivada.
 about-glean-upload-enabled-local = A carga de datos só está activada para enviar a un servidor local.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     para que os datos se graven en local.
     Nota: se defines unha etiqueta de depuración, os pings enviaranse ao
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> sen importar a configuración.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = As <a data-l10n-name="fog-prefs-and-defines-doc-link">preferencias e definicións</a> relevantes inclúen:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Sobre as probas
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">documentación de proba de instrumentación de { -fog-brand-name }</a>
     e na documentación de <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>,
     pero, en resumo, para probar manualmente que a súa instrumentación funciona, debería:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (non enviar ningún ping)
 # An in-line text input field precedes this string.
@@ -86,6 +83,7 @@ about-glean-label-for-controls-submit =
 about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Visita a páxina de { glean-debug-ping-viewer-brand-name } para ver os pings coa túa etiqueta</a>.
     Non deberían pasar máis duns segundos desde que premas o botón ata que chegue o ping. Ás veces pode levar uns poucos minutos.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Para máis probas <i>ad hoc</i>,
@@ -93,7 +91,10 @@ about-glean-adhoc-explanation =
     abrindo unha consola de ferramentas de desenvolvemento aquí en <code>about:glean</code>
     e usando a API <code>testGetValue()</code> como
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Aplicar a configuración e enviar un ping
+
 about-glean-about-data-header = Sobre os datos
 about-glean-about-data-explanation =
     Para consultar a lista de datos recollidos, consulte a

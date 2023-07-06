@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Debe iniciar sesión en { -fxaccount-brand-nam
 firefox-relay-get-unlimited-masks =
     .label = Xestionar as máscaras
     .accesskey = m
-firefox-relay-opt-in-title = Protexer o seu enderezo de correo electrónico
-firefox-relay-opt-in-subtitle = Engadir { -relay-brand-name }
-firefox-relay-generate-mask-title = Protexer o seu enderezo de correo electrónico
-firefox-relay-generate-mask-subtitle = Xerar unha máscara de { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Continuar
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protexa o seu enderezo de correo electrónico:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

@@ -43,7 +43,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Tamaño do búfer:
+
 perftools-custom-threads-label = Engadir fíos personalizados por nome:
+
 perftools-devtools-interval-label = Intervalo:
 perftools-devtools-threads-label = Fíos:
 perftools-devtools-settings-label = Configuración
@@ -81,8 +83,6 @@ perftools-thread-renderer =
     .title = Cando WebRender está activado, o fío que executa as chamadas de OpenGL
 perftools-thread-render-backend =
     .title = O fíoWebRender de RenderBackend
-perftools-thread-paint-worker =
-    .title = Cando o pintado fóra-do-fío-principal esta activado, o fío no que o pintado sucede
 perftools-thread-timer =
     .title = Os temporizadores de manexo de fíos (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -113,6 +113,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Rodea as seleccións anteriores e grava todos os fíos rexistrados
+
 perftools-tools-threads-input-label =
     .title =
         Eses nomes de fíos son unha lista separada por comas que se utiliza para activar o perfilado dos fíos no perfilador.
@@ -122,6 +123,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novo</b>:{ -profiler-brand-name } está agora integrado nas Developer Tools.<a>Saiba máis</a> sobre esta poderosa ferramenta nova.
+
 perftools-onboarding-close-button =
     .aria-label = Pechar a mensaxe de incorporación
 
@@ -139,17 +141,23 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Desenvolvedores web
 perftools-presets-web-developer-description = Predefinición recomendada para a maioría da depuración de aplicacións web, con sobrecarga baixa.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Configuración predeterminada recomendada para o perfil { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Gráficos
 perftools-presets-graphics-description = Predefinido para investigar erros gráficos en { -brand-shorter-name }.
+
 perftools-presets-media-label = Multimedia
 perftools-presets-media-description2 = Predefinido para investigar erros de son e de vídeo en { -brand-shorter-name }.
+
 perftools-presets-networking-label = Rede
 perftools-presets-networking-description = Predefinido para investigar erros de rede en { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Enerxía
 perftools-presets-power-description = Predefinición para investigar erros de uso de enerxía en { -brand-shorter-name }, con baixo consumo de recursos.
+
 perftools-presets-custom-label = Personalizado
 
 ##

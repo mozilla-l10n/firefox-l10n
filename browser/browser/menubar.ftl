@@ -38,9 +38,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Saír do { -brand-shorter-name }
+
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Lapelas pechadas recentemente
 menu-history-undo-window-menu =
     .label = Xanelas pechadas recentemente
-menu-history-reopen-all-tabs = Reabrir todas as lapelas
-menu-history-reopen-all-windows = Reabrir todas as xanelas
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = M
 menu-bookmarks-manage =
     .label = Xestionar marcadores
-menu-bookmark-current-tab =
-    .label = Marcar lapela actual
-menu-bookmark-edit =
-    .label = Editar este marcador
 menu-bookmark-tab =
     .label = Marcar esta lapela…
 menu-edit-bookmark =

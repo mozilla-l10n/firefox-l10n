@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Característica recomendada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por que estou vendo isto?
+
 cfr-doorhanger-extension-cancel-button = Agora non
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Engadir agora
     .accesskey = a
+
 cfr-doorhanger-extension-manage-settings-button = Xestionar a configuración de recomendación
     .accesskey = m
+
 cfr-doorhanger-extension-never-show-recommendation = Non amosarme esta recomendación
     .accesskey = s
+
 cfr-doorhanger-extension-learn-more-link = Máis información
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión dispoñible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Máis información
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova característica:
+
 cfr-whatsnew-button =
     .label = Novidades
     .tooltiptext = Novidades
+
 cfr-whatsnew-release-notes-link-text = Lea as notas de lanzamento
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Desactivar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = A súa privacidade importa. { -brand-short-name } agora illa ou probas de sitios web entre si, o que dificulta que os piratas informáticos rouben contrasinais, números de tarxetas de crédito e outra información confidencial.
-cfr-doorhanger-fission-header = Illamento do sitio
-cfr-doorhanger-fission-primary-button = Entendido
-    .accesskey = E
-cfr-doorhanger-fission-secondary-button = Máis información
-    .accesskey = M
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = É posíbel que os vídeos deste sitio non se reproduzan correctamente nesta versión do { -brand-short-name }. Para obter compatibilidade completa de vídeo, actualice o { -brand-short-name } agora.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Actualizar agora
     .accesskey = u
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Máis información
-    .title = Expanda para coñecer mellor esta funcionalidade
-spotlight-learn-more-expanded = Máis información
-    .title = Pechar
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Agora non
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Experimente coa nosa experiencia
-    de privacidade máis potente de todos os tempos
-spotlight-total-cookie-protection-body = Protección Total de Cookies impide que os rastrexadores empreguen cookies para asexar o que fai pola web.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } crea un valado arredor das cookies, limitándoas ao sitio no que se está para que os rastrexadores non as poidan empregar para seguir o que fai. Co acceso anticipado, axudará a optimizar esta función para que poidamos seguir a crear unha web mellor para todas as persoas.
-spotlight-total-cookie-protection-primary-button = Activar a Protección Total de Cookies
-spotlight-total-cookie-protection-secondary-button = Agora non
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = Agora non
 
 mr2022-background-update-toast-title = Novo { -brand-short-name }. Máis privado. Menos rastreadores. Sen cesións.
 mr2022-background-update-toast-text = Probe agora o último { -brand-short-name }, anovado coa nosa mellor protección anti-seguimento ata a data.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Abrir { -brand-shorter-name } agora
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Recupere as lapelas pechadas recentemente e salte sen 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Saúde a { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Quere esa lapela aberta no seu teléfono? Cóllaa. Necesita ese sitio que acabas de visitar? Veña, teno de volta con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Vexa como funciona
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Saltar
 
 colorways-cfr-primarybutton = Escoller unha combinación de cores
     .accesskey = c
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Coloree o seu navegador con tonalidades exclusivas de { -brand-short-name } inspiradas en voces que cambiaron a cultura.
 colorways-cfr-header-28days = As combinacións de cores de Independent Voices caducan o 16 de xaneiro
@@ -239,6 +229,7 @@ july-jam-headline = Encargámonos por vostede
 july-jam-body = Cada mes, { -brand-short-name } bloquea unha media de máis de 3.000 rastreadores por persoa, o que lle ofrece un acceso seguro e rápido á boa internet.
 july-jam-set-default-primary = Abrir as miñas ligazóns con { -brand-short-name }
 fox-doodle-pin-headline = Benvido de novo
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Aquí ten un rápido recordatorio de que pode manter o seu navegador indie favorito a só un clic de distancia.
