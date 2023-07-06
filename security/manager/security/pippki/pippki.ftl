@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Memuat turun Sijil
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Memuat turun Sijil
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Penting: Jika anda lupa kata laluan sandaran sijil anda,
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Token pengesahan dilindungi
-protected-auth-msg = Sila buat pengesahan kepada token. Kaedah pengesahan adalah bergantung kepada jenis token anda.
-protected-auth-token = Token:
+## Protected authentication alert
+

@@ -40,3 +40,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Batal
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Hantar Laporan
+
+# Cookie Banner Handling
+

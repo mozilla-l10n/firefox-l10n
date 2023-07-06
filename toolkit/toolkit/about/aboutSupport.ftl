@@ -113,6 +113,8 @@ media-device-channels = Saluran
 media-device-rate = Kadar
 media-device-latency = Kependaman
 
+## Codec support table
+
 ##
 
 intl-title = Pengantarabangsaan & Lokalisasi

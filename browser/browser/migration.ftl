@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = Tetingkap dan Tab
 browser-data-session-label =
     .value = Tetingkap dan Tab
+

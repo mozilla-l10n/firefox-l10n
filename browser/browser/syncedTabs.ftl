@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Buka
     .accesskey = B
-synced-tabs-context-open-in-new-tab =
-    .label = Buka dalam Tab Baru
-    .accesskey = B
-synced-tabs-context-open-in-new-window =
-    .label = Buka dalam Tetingkap Baru
-    .accesskey = T
-synced-tabs-context-open-in-new-private-window =
-    .label = Buka dalam Tetingkap Peribadi Baru
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Tandabuku Tab Ini…
-    .accesskey = T
 
 ##
 

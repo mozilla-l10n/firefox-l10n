@@ -37,3 +37,4 @@ screenshots-private-window-error-details = Maaf atas sebarang kesulitan. Kami se
 
 screenshots-generic-error-title = Oh tidak! { -screenshots-brand-name } tidak berfungsi dengan betul.
 screenshots-generic-error-details = Kami tidak pasti apa yang baru berlaku. Anda mahu cuba lagi atau mengambil gambar halaman lain?
+

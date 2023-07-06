@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Tandabuku Halaman Ini
-    .accesskey = b
-    .tooltiptext = Tandabuku halaman Ini
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Tandabuku Halaman Ini
-    .accesskey = b
-    .tooltiptext = Tandabuku halaman Ini ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Edit Tandabuku Ini
-    .accesskey = b
-    .tooltiptext = Edit tandabuku ini
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Edit Tandabuku Ini
-    .accesskey = b
-    .tooltiptext = Edit tandabuku ini ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Buka Pautan
     .accesskey = B
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = E-mel Audio…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Aktifkan plugin ini
-    .accesskey = u
-
-main-context-menu-plugin-hide =
-    .label = Sorok plugin ini
-    .accesskey = S
-
 main-context-menu-send-to-device =
     .label = Hantar Halaman ke Peranti
     .accesskey = P
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Muat semula Bingkai
     .accesskey = M
-
-main-context-menu-frame-bookmark =
-    .label = Tandabuku Bingkai Ini
-    .accesskey = u
 
 main-context-menu-frame-save-as =
     .label = Simpan Bingkai Sebagai…

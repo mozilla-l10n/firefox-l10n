@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Pengecualian
-    .style = width: 45em
-
 permissions-window2 =
     .title = Pengecualian
     .style = min-width: 45em
@@ -73,10 +69,6 @@ permissions-invalid-uri-label = Sila masukkan nama hos yang sah
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Pengecualian - Kuki dan Data Laman
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Pengecualian - Kuki dan Data Laman
     .style = { permissions-window2.style }
@@ -87,10 +79,6 @@ permissions-exceptions-cookie-desc = Anda boleh tentukan laman web yang sentiasa
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Laman Web Diizinkan - Pop-ups
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Laman Web Diizinkan - Pop-ups
     .style = { permissions-window2.style }
@@ -98,20 +86,12 @@ permissions-exceptions-popup-desc = Anda boleh tentukan laman web yang diizinkan
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Pengecualian - Log masuk Tersimpan
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Pengecualian - Log masuk Tersimpan
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Log masuk ke laman berikut tidak akan disimpan
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Laman Web Diizinkan - Pemasangan Add-ons
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Laman Web Diizinkan - Pemasangan Add-ons
@@ -123,10 +103,6 @@ permissions-exceptions-addons-desc = Anda boleh tentukan laman web yang diizinka
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Tetapan - Keizinan Notifikasi
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Tetapan - Keizinan Notifikasi
     .style = { permissions-window2.style }
@@ -136,10 +112,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Ini akan menghalang mana-mana laman web yang tidak disenaraikan di atas daripada meminta izin untuk menghantar notifikasi. Menyekat notifikasi boleh memecahkan beberapa ciri laman web.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Tetapan - Keizinan Lokasi
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Tetapan - Keizinan Lokasi
@@ -154,10 +126,6 @@ permissions-site-location-disable-desc = Ini akan menghalang mana-mana laman web
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Tetapan - Keizinan Kamera
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Tetapan - Keizinan Kamera
     .style = { permissions-window2.style }
@@ -168,10 +136,6 @@ permissions-site-camera-disable-desc = Ini akan menghalang mana-mana laman web y
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Tetapan - Keizinan Mikrofon
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Tetapan - Keizinan Mikrofon
     .style = { permissions-window2.style }
@@ -179,3 +143,8 @@ permissions-site-microphone-desc = Laman web berikut meminta izin untuk mengakse
 permissions-site-microphone-disable-label =
     .label = Sekat permintaan baru yang mahu mengakses mikrofon
 permissions-site-microphone-disable-desc = Ini akan menghalang mana-mana laman web yang tidak disenaraikan di atas daripada meminta izin untuk mengakses mikrofon. Menyekat akses mikrofon boleh memecahkan beberapa ciri laman web.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

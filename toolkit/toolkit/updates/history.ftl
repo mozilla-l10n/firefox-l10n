@@ -23,5 +23,7 @@ state-header = Negara
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Butiran
+
 update-installed-on = Dipasang pada: { $date }
+
 update-status = Status: { $status }
