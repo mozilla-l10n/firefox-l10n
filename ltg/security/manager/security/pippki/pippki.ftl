@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Lejupīluodē sertifikatus
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Lejupīluodē sertifikatus
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Svareigi: Ka aizmierssi itū paroli, navareisi atjaunōt
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Aizsorguotys markierīreicis autentificiešona
-protected-auth-msg = Lyudzu autentificejit markierīreici. Autentificiešonys metode atkareiga nu īrīces tipa.
-protected-auth-token = Markierīrīce:
+## Protected authentication alert
+

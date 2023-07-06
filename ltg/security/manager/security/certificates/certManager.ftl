@@ -21,10 +21,6 @@ certmgr-mine = Jiusim ir jius identificiejūši sertifikati nu itom organizacejo
 certmgr-people = Jiusim failā ir itūs cylvākus identificiejūši sertifikati
 certmgr-ca = Jiusim failā ir ituos sertificiešonuos autoritatis identificiejūši sertifikati
 
-certmgr-edit-ca-cert =
-    .title = Redigeit CA sertifikatu uztycameibys īstatiejumus
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Redigeit CA sertifikatu uztycameibys īstatiejumus
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Itys sertifikats var identificeit posta lītuotuojus.
 
-certmgr-delete-cert =
-    .title = Dzēst sertifikatu
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Dzēst sertifikatu
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Serveris
-
-certmgr-override-lifetime =
-    .label = Dzeives ilgums
 
 certmgr-token-name =
     .label = Drūseibys īrīce

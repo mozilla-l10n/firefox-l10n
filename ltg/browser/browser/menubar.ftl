@@ -34,9 +34,11 @@ menu-quit =
             [windows] z
            *[other] I
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Izīt nu { -brand-shorter-name }
+
 menu-about =
     .label = Par { -brand-shorter-name }
     .accesskey = a
@@ -197,8 +199,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Gruomotzeimes
     .accesskey = G
-menu-bookmark-edit =
-    .label = Redigeit itū gruomotzeimi
 menu-bookmarks-all-tabs =
     .label = Saglobuot vysys cilnes gruomotzeimēs…
 menu-bookmarks-toolbar =

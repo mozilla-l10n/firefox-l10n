@@ -24,6 +24,7 @@ xpinstall-disabled = Software installation is currently disabled. Click Enable a
 xpinstall-disabled-button =
     .label = Enable
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } added to { -brand-short-name }
@@ -42,6 +43,7 @@ addon-downloading-and-verifying =
        *[other] Īlōdej un porbauda { $addonCount } atjaunynōjumus…
     }
 addon-download-verifying = Verifying
+
 addon-install-cancel-button =
     .label = Cancel
     .accesskey = C

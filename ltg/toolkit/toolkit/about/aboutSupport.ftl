@@ -110,6 +110,8 @@ media-device-channels = Channels
 media-device-rate = Uotrums
 media-device-latency = Aizture
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalizaceja un lokalizaceja

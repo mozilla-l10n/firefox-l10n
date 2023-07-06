@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Jauna cilne
+
 tabbrowser-menuitem-close-tab =
     .label = Aiztaiseit cilni
 tabbrowser-menuitem-close =
     .label = Aiztaiseit
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -69,3 +71,6 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [one] Parōdēt vysas { $tabCount } cilnes
            *[other] Parōdēt vysas { $tabCount } cilnes
         }
+
+## Tab manager menu buttons
+

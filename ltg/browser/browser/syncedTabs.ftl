@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Attaiseit
     .accesskey = A
-synced-tabs-context-open-in-new-tab =
-    .label = Attaiseit jaunā cilnē
-    .accesskey = u
-synced-tabs-context-open-in-new-window =
-    .label = Attaiseit saiti jaunā lūgā
-    .accesskey = l
-synced-tabs-context-open-in-new-private-window =
-    .label = Attaiseit saiti jaunā privatajā lūgā
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Saglobuot itū lopu gruomotzeimēs…
-    .accesskey = b
 
 ##
 

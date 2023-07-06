@@ -38,6 +38,17 @@ neterror-load-error-firewall = Nui jiusu datu aizsardzeibai tīk izmontuots guņ
 
 neterror-captive-portal = You must log in to this network before you can access the Internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Puorbaudit, voi faila vuords ir uzraksteits pareizi i ar pareizuo leluma burtym.
 neterror-file-not-found-moved = Puorsalīcinojit, ka fails nav puorvītuots, puorsaukts voi izdzāsts.
 

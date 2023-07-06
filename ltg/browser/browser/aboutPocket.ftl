@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Saglobōt
 pocket-panel-saved-saving-tags = Sagloboj…
 pocket-panel-saved-suggested-tags = Īsaceitōs birkas
 pocket-panel-saved-tags-saved = Birkas pīvīnōtas
-pocket-panel-signup-view-list = Rōdēt sarokstu
 
 ## about:pocket-signup panel
 

@@ -4,6 +4,7 @@
 
 about-reader-loading = Īluodej…
 about-reader-load-error = Naizadeve īluodeit rokstu nu lopys
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Naizīt
        *[other] Naizīt
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nui jius tagad puorīsit bezsaistē, tiks atcalta 1 lejupīluode. Voi tīšom vālotīs to izdareit?
        *[other] Nui jius tagad puorīsit bezsaistē, tiks atcaltys { $downloadsCount } lejupīluodes. Voi tīšom vālotīs to izdareit?
     }
 download-ui-dont-go-offline-button = Palikt tīšsaistē
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Nui tagad aiztaiseisit vysus privatuos puorlūkuošonys lūgus, 1 lejupīluode tiks puortraukta. Voi vālotīs puortraukt privatuos puorlūkuošonys režymu?
        *[other] Nui tagad aiztaiseisit vysus privatuos puorlūkuošonys lūgus, { $downloadsCount } lejupīluodes tiks puortrauktys. Voi vālotīs puortraukt privatuos puorlūkuošonys režymu?
     }
 download-ui-dont-leave-private-browsing-button = Palikt privatuos puorlūkuošonys režymā
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Atceļt 1 lejupīluodi

@@ -11,11 +11,6 @@ about-logins-page-title = Lītōtōjvōrdi un paroles
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Mekleit pīejis datus
-
-create-login-button = Izveidōt jaunu pīeju
-
 fxaccounts-sign-in-text = Daboj pīeju sovom parolem iz cytom īreicem
 fxaccounts-avatar-button =
     .title = Puorvaļdeit kontu
@@ -77,9 +72,10 @@ login-item-copied-password-button-text = Nūkopeits!
 login-item-save-changes-button = Saglobōt izmaiņis
 login-item-save-new-button = Saglobōt
 login-item-cancel-button = Atceļt
-login-item-time-changed = Pādejōs izmaiņas: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Izveidōts: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Lītots pādejū reizi: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -104,6 +100,11 @@ confirmation-dialog-dismiss-button =
     .title = Atceļt
 
 confirm-delete-dialog-message = Itei ir naatgrīzeniska darbeiba.
+
+## Variables
+##   $count (number) - Number of items
+
+##
 
 confirm-discard-changes-dialog-title = Atmest nasaglobōtōs izmaiņis?
 confirm-discard-changes-dialog-message = Vysas nasaglobōtōs izmaiņas pagaiss.

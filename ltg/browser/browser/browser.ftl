@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Privatuo puorlūkuošona)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Privatuo puorlūkuošona)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Privatuo puorlūkuošona)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Privatuo puorlūkuošona)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -71,16 +38,12 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Attaiseit atsarasšona vītu pīprasiejumu paneli
 urlbar-storage-access-anchor =
     .tooltiptext = Attaisēt paplašinōjumu paneli pi lopu porlyukōšonys
-urlbar-translate-notification-anchor =
-    .tooltiptext = Tulkōt itū lopu
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Porvoldi lopys pīkļivi tovim lūgim voi ekranam
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Attaiseit nasaistis datu saglobuošonys ziņuojumu paneli
 urlbar-password-notification-anchor =
     .tooltiptext = Attaiseit paroles saglobuošonys ziņuojumu paneli
-urlbar-translated-notification-anchor =
-    .tooltiptext = Porvaldēt lopys tulkojumus
 urlbar-plugins-notification-anchor =
     .tooltiptext = Puorvaļdeit papyldynuojumu izmontuošonu
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -124,19 +87,18 @@ urlbar-canvas-blocked =
     .tooltiptext = Datu sajimšona nu ituos lopys canvas ir blokeita.
 urlbar-midi-blocked =
     .tooltiptext = Tu esi aizlīdzs MIDI pīkļuvi itai lopai.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Bookmark this page ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Porvaldēt paplašinōjumu…
 
 ## Auto-hide Context Menu
 
@@ -151,12 +113,14 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Maineit mekliešonys īstatiejumus
+
 search-one-offs-context-open-new-tab =
     .label = Mekleit jaunā cilnē
     .accesskey = c
 search-one-offs-context-set-as-default =
     .label = Īstateit par nūkluseitū mekleituoju
     .accesskey = n
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -193,6 +157,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Rōdēt redaktoru pi saglobōšonys
     .accesskey = S
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -209,6 +174,7 @@ identity-passive-loaded = Itōs lopys daļas (pīmāram biļdis) nav drūšys.
 identity-active-loaded = Nadrūsu elementu aizsardzeiba ir deaktiveita.
 identity-weak-encryption = Itei lopa izmontoj vuoju šifriešonu.
 identity-insecure-login-forms = Dati, kurus īvadiesi itymā lopā nav aizsorgōti un var byut portvarti.
+
 identity-permissions-reload-hint = Kab radzāti izmaiņis īspiejams byus napīcīšama lopys puorluode.
 identity-clear-site-data =
     .label = Dzēst seikdatnes un lopu datus…
@@ -219,17 +185,12 @@ identity-description-insecure = Your connection to this site is not private. Inf
 identity-description-insecure-login-forms = The login information you enter on this page is not secure and could be compromised.
 identity-description-weak-cipher-intro = Jiusu savīnuojums ar itū lopu izmontoj vuoju šifriešonu i nav privats.
 identity-description-weak-cipher-risk = Cyti cylvāki var apsavērt jiusu informaceju voi modificeit lopys uzvedeibu.
-identity-description-active-blocked = { -brand-short-name } blokieja nadrūsū saturu itymā lopā. <label data-l10n-name="link">Uzzynojit vairuok</label>
 identity-description-active-blocked2 = { -brand-short-name } blokieja nadrūsū saturu itymā lopā.
 identity-description-passive-loaded = Your connection is not private and information you share with the site could be viewed by others.
-identity-description-passive-loaded-insecure = This website contains content that is not secure (such as images). <label data-l10n-name="link">Uzzynojit vairuok</label>
-identity-description-passive-loaded-mixed = Kab ari { -brand-short-name } blokieja nadrūsū saturu, lopā vys vēļ ir saturs, kas nav drūss (pīmāram attāli). <label data-l10n-name="link">Uzzynojit vairuok</label>
 identity-description-passive-loaded-insecure2 = This website contains content that is not secure (such as images).
 identity-description-passive-loaded-mixed2 = Kab ari { -brand-short-name } blokieja nadrūsū saturu, lopā vys vēļ ir saturs, kas nav drūss (pīmāram attāli).
 identity-description-active-loaded = Ituos lopys daļis (pīmāram attāli voi skripti) nav drūsais i jiusu savīnuojums nav privats.
 identity-description-active-loaded-insecure = Information you share with this site could be viewed by others (like passwords, messages, credit cards, etc.).
-identity-learn-more =
-    .value = Uzzynojit vairuok
 identity-disable-mixed-content-blocking =
     .label = Disable protection for now
     .accesskey = D
@@ -273,15 +234,19 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Meklej ar { $name } voi īvodi lopys adresi
+
 urlbar-switch-to-tab =
     .value = Puorslēgtīs iz cilni:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplošynuojums:
+
 urlbar-go-button =
     .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =
@@ -327,9 +292,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> ir pa vysu ekranu
 fullscreen-warning-no-domain = Itys dokuments ir pa vysu ekranu
+
+
 fullscreen-exit-button = Izīt nu pynlekrana (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izīt nu pynlekrana (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -381,8 +349,7 @@ bookmarks-search =
     .label = Mekleit gruomotzeimes
 bookmarks-tools =
     .label = Gruomotzeimju reiki
-bookmarks-bookmark-edit-panel =
-    .label = Redigeit itū gruomotzeimi
+
 bookmarks-toolbar-menu =
     .label = Gruomotzeimju reikjūsla
 bookmarks-toolbar-placeholder =
@@ -406,22 +373,27 @@ library-bookmarks-menu =
 toolbar-overflow-customize-button =
     .label = Pīlāgōt reikjūslu…
     .accesskey = P
+
 toolbar-button-email-link =
     .label = Nūsyuteit saiti
     .tooltiptext = Nūsyuteit saiti epostā
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Saglobōt lopu
     .tooltiptext = Sagloboj itū lopu ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Attaiseit failu
     .tooltiptext = Attaiseit failu ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Sinhronizeituos cilnes
     .tooltiptext = Paruodeit cilnes nu cytom īreičom
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -449,6 +421,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Allow pop-ups for { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Block pop-ups for { $uriHost }
     .accesskey = p
@@ -470,30 +443,36 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Lejupīluodes
+
 navbar-overflow =
     .tooltiptext = Cyti reiki…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Drukōt
     .tooltiptext = Print this page… ({ $shortcut })
+
 navbar-home =
     .label = Suokumlopa
     .tooltiptext = { -brand-short-name } sōkuma lopa
+
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Skateitīs viesturi, saglobōtōs grōmotzeimes i daudz kū cytu
+
 navbar-search =
     .title = Mekleit
-navbar-accessibility-indicator =
-    .tooltiptext = Pīejameibas reiki daslāgti
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Puorlūka cilnes
+
 tabs-toolbar-new-tab =
     .label = Jauna cilne
+
 tabs-toolbar-list-all-tabs =
     .label = Vysu ciļņu saroksts
     .tooltiptext = Vysu ciļņu saroksts
@@ -515,10 +494,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } prevented this page from automatically reloading.
 refresh-blocked-redirect-label = { -brand-short-name } prevented this page from automatically redirecting to another page.
+
 refresh-blocked-allow =
     .label = Allow
     .accesskey = A
@@ -555,6 +538,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Nūtykusi klaida sasavīnojūtīs ar { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Klaidas kods: { $error }
-
 psmerr-ssl-disabled = Navar drūsais pīsasliegt, kam SSL protokols ir deaktiveits.
 psmerr-ssl2-disabled = Navar drūsais pīsasliegt, kam lopa izmontoj vacuoku, nadrūsu SSL protokola verseju.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = No supported TLS signature algorith
 ssl-error-unsupported-signature-algorithm = The peer used an unsupported combination of signature and hash algorithm.
 ssl-error-missing-extended-master-secret = Savīnuojuma partneris raudzieja turpynuot bez korekta extended_master_secret paplošynuojuma.
 ssl-error-unexpected-extended-master-secret = Savīnuojuma partneris raudzieja turpynuot ar naatbaļsteitu extended_master_secret paplošynuojumu.
+
 sec-error-io = Drūseibys autorizacejis laikā nūtyka I/O klaida.
 sec-error-library-failure = drūšeibys bibliotekys klaida.
 sec-error-bad-data = drūšeibys biblioteka: sajimti švaki dati.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Navar atšifrēt: atslāgu šifriešonys algor
 sec-error-pkcs7-bad-signature = Paroksta puorbaude naizadeve: nav paroksteituoja, tū ir puoruok daudz voi ari dati ir napareizi, būjuoti.
 sec-error-unsupported-keyalg = Naatbaļsteits voi nazynuoms atslāgu algoritmys.
 sec-error-decryption-disallowed = Navar atšifrēt: nūšifreits izmontojūt naatļautu algoritmu voi atslāgu garumu.
-xp-sec-fortezza-bad-card = Fortezza karte nav korekti inicializeita.  Lyudzu izjemit to i atgrīzit izdeviejam.
-xp-sec-fortezza-no-card = Nav atrosta nivīna Fortezza karte
-xp-sec-fortezza-none-selected = Nav izavālāta Fortezza karte
-xp-sec-fortezza-more-info = Lyudzu izavielit personu, kab īgiutu papyldu informaceju par to
-xp-sec-fortezza-person-not-found = Persona nav atrosta
-xp-sec-fortezza-no-more-info = Par itū personu nav papyldu informacejis
-xp-sec-fortezza-bad-pin = Nadereigs Pin
-xp-sec-fortezza-person-error = Navar inicializeit Fortezza personys.
 sec-error-no-krl = Ituos vītnes sertifikatam nav atrosts KRL.
 sec-error-krl-expired = Ituos vītnes sertifikata KRL ir beidzīs dereiguma termeņš.
 sec-error-krl-bad-signature = Ituos vītnes sertifikata KRL ir nadereigs paroksts.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Sertifikats ar itaidu sagvuordu jau eksistej
 sec-error-key-nickname-collision = Atslāgs ar itaidu sagvuordu jau eksistej.
 sec-error-safe-not-created = klaida veidojūt drūsuo objektu
 sec-error-baggage-not-created = klaida veidojūt bagažys objektu
-xp-java-remove-principal-error = Navar aizvuokt direktoru
-xp-java-delete-privilege-error = Navar nūdziest privilegeju
-xp-java-cert-not-exists-error = Direktoram nav sertifikata
 sec-error-bad-export-algorithm = Pīpraseitais algoritmys vairs nav atļauts.
 sec-error-exporting-certificates = Klaida raugūt eksporteit sertifikatus.
 sec-error-importing-certificates = Klaida raugūt importeit sertifikatus.
@@ -338,6 +319,7 @@ sec-error-locked-password = Parole ir blokeita.
 sec-error-unknown-pkcs11-error = Nazynuoma PKCS #11 klaida.
 sec-error-bad-crl-dp-url = Nadereiga voi naatbaļsteita URL CRL izplateišonys punkta nūsaukumā.
 sec-error-cert-signature-algorithm-disabled = Sertifikats tyka paraksteits ar paroksta algoritmu, kura izmontuošona ir deaktiveita, kam itys algoritmys nav drūss.
+
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate
 mozilla-pkix-error-empty-issuer-name = The server presented a certificate with an empty issuer distinguished name.
 mozilla-pkix-error-additional-policy-constraint-failed = Papyldu politikas īrūbežojuma porbaude naizadeve porbaudūt itū sertifikatu.
 mozilla-pkix-error-self-signed-cert = Itys sertifikats nav uztycams, par tū, ka ir poša paraksteits.
+
+xp-java-remove-principal-error = Navar aizvuokt direktoru
+xp-java-delete-privilege-error = Navar nūdziest privilegeju
+xp-java-cert-not-exists-error = Direktoram nav sertifikata
+
+xp-sec-fortezza-bad-card = Fortezza karte nav korekti inicializeita.  Lyudzu izjemit to i atgrīzit izdeviejam.
+xp-sec-fortezza-no-card = Nav atrosta nivīna Fortezza karte
+xp-sec-fortezza-none-selected = Nav izavālāta Fortezza karte
+xp-sec-fortezza-more-info = Lyudzu izavielit personu, kab īgiutu papyldu informaceju par to
+xp-sec-fortezza-person-not-found = Persona nav atrosta
+xp-sec-fortezza-no-more-info = Par itū personu nav papyldu informacejis
+xp-sec-fortezza-bad-pin = Nadereigs Pin
+xp-sec-fortezza-person-error = Navar inicializeit Fortezza personys.

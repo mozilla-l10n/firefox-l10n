@@ -40,5 +40,9 @@ url-classifier-disabled = Izslāgts
 url-classifier-updating = atjaunynoj
 url-classifier-cannot-update = navar atjaunynuot
 url-classifier-success = izadeva
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = atjaunynuošonys klaida ({ $error })
 url-classifier-download-error = lejupīluodes klaida ({ $error })

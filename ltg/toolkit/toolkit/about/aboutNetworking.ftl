@@ -26,13 +26,6 @@ about-networking-messages-received = Sajimtī ziņuojumi
 about-networking-bytes-sent = Nūsyuteitī baiti
 about-networking-bytes-received = Sajimtī baiti
 about-networking-logging = Logging
-about-networking-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
-about-networking-current-log-file = Pošreizejais registracejis fails:
-about-networking-current-log-modules = Pošreizejais registracejis moduls:
-about-networking-set-log-file = Set Log File
-about-networking-set-log-modules = Set Log Modules
-about-networking-start-logging = Start Logging
-about-networking-stop-logging = Stop Logging
 about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Atrast
 about-networking-dns-domain = Domens:

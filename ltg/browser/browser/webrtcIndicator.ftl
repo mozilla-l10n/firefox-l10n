@@ -27,6 +27,7 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Unknown origin
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Control Sharing
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Control Sharing on “{ $streamTitle }”
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kūplītoj kameru ar “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -77,6 +79,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kūplītoj kameru ar { $tabCount } cilni
            *[other] Kūplītoj kameru ar { $tabCount } cilnem
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Kūplītoj mikrofonu ar “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -86,6 +89,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Kūplītoj mikrofonu ar { $tabCount } cilni
            *[other] Kūplītoj mikrofonu ar { $tabCount } cilnem
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Kūplītoj aplikāceji ar “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -95,6 +99,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Kūplītoj aplikāceji ar { $tabCount } cilni
            *[other] Kūplītoj aplikāceji lietotni ar { $tabCount } cilnem
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Kūplītoj ekranu ar “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -104,6 +109,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Kūplītoj ekranu ar { $tabCount } cilni
            *[other] Kūplītoj ekranu ar { $tabCount } cilnem
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Kūplītoj lūgu ar “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -113,6 +119,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Kūplītoj lūgu ar { $tabCount } cilni
            *[other] Kūplītoj lūgu ar { $tabCount } cilnem
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Kūplītoj cilni ar “{ $streamTitle }”
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -160,6 +167,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Remember this decision
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } can not allow permanent access to your screen.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } can not allow permanent access to your tab’s audio without asking which tab to share.
 webrtc-reason-for-no-permanent-allow-insecure = Your connection to this site is not secure. To protect you, { -brand-short-name } will only allow access for this session.

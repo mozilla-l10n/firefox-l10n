@@ -40,3 +40,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Atceļt
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Syuteit atskaiti
+
+# Cookie Banner Handling
+

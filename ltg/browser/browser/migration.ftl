@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = Lūgus i cilnes
 browser-data-session-label =
     .value = Lūgus i cilnes
+

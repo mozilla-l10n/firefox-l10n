@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Izjāmumi
-    .style = width: 45em
-
 permissions-window2 =
     .title = Izjāmumi
     .style = min-width: 45em
@@ -73,10 +69,6 @@ permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Izjāmumi - seikdatnes un kešatmiņa
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Izjāmumi - seikdatnes un kešatmiņa
     .style = { permissions-window2.style }
@@ -87,10 +79,6 @@ permissions-exceptions-cookie-desc = Tu vari nūrōdēt, kurom lopom ir un kurom
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Atļautuos lopys - jaunī lūgi
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Atļautuos lopys - jaunī lūgi
     .style = { permissions-window2.style }
@@ -98,20 +86,12 @@ permissions-exceptions-popup-desc = Jius varot nūruodeit, kurom lopom ir atļau
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Izjāmumi - Saglobuotuos paroles
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Izjāmumi - Saglobuotuos paroles
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Itū vītņu paroles natiks saglobuotys
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Atļautuos lopys - papyldynuojumu instaliešona
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Atļautuos lopys - papyldynuojumu instaliešona
@@ -123,10 +103,6 @@ permissions-exceptions-addons-desc = Jius varot nūruodeit, nu kurom lopom ir at
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Īstatiejumi - paziņuojumu atļuovis
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Īstatiejumi - paziņuojumu atļuovis
     .style = { permissions-window2.style }
@@ -136,10 +112,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju syuteit paziņojumus. Paziņojumu bloķiešona var samaitōt daļi nu lopys funkcionalitates.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Īstatiejumi - atsarasšona vītys atļuovis
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Īstatiejumi - atsarasšona vītys atļuovis
@@ -154,10 +126,6 @@ permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Settings - Camera Permissions
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Settings - Camera Permissions
     .style = { permissions-window2.style }
@@ -168,10 +136,6 @@ permissions-site-camera-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uz
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Settings - Microphone Permissions
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Settings - Microphone Permissions
     .style = { permissions-window2.style }
@@ -179,3 +143,8 @@ permissions-site-microphone-desc = Itōs lopys ir lyugušas pīeeju tovam mikrof
 permissions-site-microphone-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovam mikrofonam
 permissions-site-microphone-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovam mikrofonam. Bloķiešona pīejai mikrofonam var samaitōt daļi nu lopys funkcionalitates.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

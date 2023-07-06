@@ -16,7 +16,6 @@ styleeditor-save-button = Saglobuot
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Stila redaktora īstatiejumi
-styleeditor-media-rules = @media lykumi
 styleeditor-editor-textbox =
     .data-placeholder = Raksteit CSS ite.
 styleeditor-no-stylesheet = Itymā lopā nav stila dokumentu.
@@ -32,6 +31,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Puorīt iz ryndeņu…
     .accesskey = u
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

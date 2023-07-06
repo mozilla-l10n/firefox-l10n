@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Saglobuot itū lopu gruomotzeimēs
-    .accesskey = m
-    .tooltiptext = Bookmark this page
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Saglobuot itū lopu gruomotzeimēs
-    .accesskey = m
-    .tooltiptext = Bookmark this page ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Redigeit itū gruomotzeimi
-    .accesskey = m
-    .tooltiptext = Edit this bookmark
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Redigeit itū gruomotzeimi
-    .accesskey = m
-    .tooltiptext = Edit this bookmark ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Attaiseit saiti
     .accesskey = A
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = Nūsyuteit audio…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Aktivēt itū spraudni
-    .accesskey = A
-
-main-context-menu-plugin-hide =
-    .label = Paslēpt itū spraudni
-    .accesskey = P
-
 main-context-menu-send-to-device =
     .label = Syuteit lopu iz īreici
     .accesskey = i
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Puorluodeit ītvoru
     .accesskey = r
-
-main-context-menu-frame-bookmark =
-    .label = Pīvīnuot itū ītvoru gruomotzeimom
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Saglobuot ītvoru kai…

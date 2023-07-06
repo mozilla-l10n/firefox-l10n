@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = Īreiču puorvaļdnīks
-    .style = width: 67em; height: 32em;
-
 devmgr-window =
     .title = Īreiču puorvaļdnīks
     .style = min-width: 67em; min-height: 32em;

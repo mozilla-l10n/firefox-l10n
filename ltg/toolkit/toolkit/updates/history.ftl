@@ -23,5 +23,7 @@ state-header = Stuovūklis
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Seikuoka informaceja
+
 update-installed-on = Uzinstaleits: { $date }
+
 update-status = Statuss: { $status }
