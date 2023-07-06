@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Unôfhinklike stimmen
-colorway-collection-independent-voices-description = Kleur kin kultuer feroarje. De lêste kleurstellingen fiere stimmen dy’t de wrâld in better plak meitsje.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Kleuren dy’t kultuer feroarje.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Spulmakker

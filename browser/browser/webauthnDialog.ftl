@@ -4,14 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Ferkearde pinkoade! Fier de krekte pinkoade foar jo apparaat yn.
-        [one] Ferkearde pinkoade! Fier de krekte pinkoade foar jo apparaat yn. Jo hawwe noch { $retriesLeft } besykjen oer.
-       *[other] Ferkearde pinkoade! Fier de krekte pinkoade foar jo apparaat yn. Jo hawwe noch { $retriesLeft } besykjen oer.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Net krekte pinkoade. Jo hawwe noch { $retriesLeft } besykjen eardat jo permanint de tagong ta de oanmeldgegevens op dit apparaat ferlieze.
@@ -19,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Net krekte pinkoade. Probearje it opnij.
 webauthn-pin-required-prompt = Fier de pinkoade foar jo apparaat yn.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

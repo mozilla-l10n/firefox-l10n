@@ -38,9 +38,11 @@ menu-quit =
             [windows] O
            *[other] O
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ôfslute
+
 menu-about =
     .label = Oer { -brand-shorter-name }
     .accesskey = O
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
     .label = Koartlyn sluten skermen
-menu-history-reopen-all-tabs = Alle ljepblêden opnij iepenje
-menu-history-reopen-all-windows = Alle finsters opnij iepenje
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = D
 menu-bookmarks-manage =
     .label = Blêdwizers beheare
-menu-bookmark-current-tab =
-    .label = Blêdwizer foar aktuele ljepblêd meitsje
-menu-bookmark-edit =
-    .label = Dizze blêdwizer bewurkje
 menu-bookmark-tab =
     .label = Blêdwizer foar aktuele ljepblêd meitsje…
 menu-edit-bookmark =

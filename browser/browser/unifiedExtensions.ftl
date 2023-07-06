@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Menu foar { $extensionName } iepenje
+
 unified-extensions-item-message-manage = Utwreiding beheare
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Oan arkbalke fêstsette
+
 unified-extensions-context-menu-manage-extension =
     .label = Utwreiding beheare
+
 unified-extensions-context-menu-remove-extension =
     .label = Utwreiding fuortsmite
+
 unified-extensions-context-menu-report-extension =
     .label = Utwreiding rapportearje
+
 unified-extensions-context-menu-move-widget-up =
     .label = Omheech ferpleatse
+
 unified-extensions-context-menu-move-widget-down =
     .label = Omleech ferpleatse
 

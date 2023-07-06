@@ -50,5 +50,9 @@ url-classifier-disabled = Utskeakele
 url-classifier-updating = bywurkje
 url-classifier-cannot-update = kin net bywurkje
 url-classifier-success = slagge
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = fernijingsflater ({ $error })
 url-classifier-download-error = downloadflater ({ $error })

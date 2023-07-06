@@ -34,13 +34,6 @@ about-networking-messages-received = Berjochten ûntfongen
 about-networking-bytes-sent = Bytes ferstjoerd
 about-networking-bytes-received = Bytes ûntfongen
 about-networking-logging = Logboekregistraasje
-about-networking-log-tutorial = Sjoch op <a data-l10n-name="logging">HTTP-Logging</a> foar ynstruksjes oer hoe dit ark te brûken.
-about-networking-current-log-file = Aktuele lochbestân:
-about-networking-current-log-modules = Aktuele lochmodules:
-about-networking-set-log-file = Lochbestân ynstelle
-about-networking-set-log-modules = Lochodules ynstelle
-about-networking-start-logging = Loggen starte
-about-networking-stop-logging = Loggen stopje
 about-networking-dns-lookup = DNS-sykaksje
 about-networking-dns-lookup-button = Omsette
 about-networking-dns-domain = Domein:

@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Oer Glean
-about-glean-description = De <a data-l10n-name="glean-sdk-doc-link">Glean-SDK</a> is in biblioteek foar gegevenssamling dy’t brûkt wurdt yn Mozilla-produkten. Dizze side is bedoeld foar ûntwikkelers en testers dy’t <a data-l10n-name="fog-debug-doc-link">de debugging- en lochboeksteat yn de Glean-SDK</a> konfigurearje moatte.
-about-glean-warning = As jo dizze interface ferkeard brûke, kin { -brand-short-name } ferûngelokje.
-tag-pings-label = Alle ferstjoerde pings mei dizze tag labelje
-log-pings-label = Ping-payload logge eardat dizze ferstjoerd wurdt?
-send-pings-label = De neamde ping ferstjoere
-controls-button-label = Ynstellingen yntsjinje
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name }-SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name }-debugging-pingviewer
+
 about-glean-page-title2 = Oer { -glean-brand-name }
 about-glean-header = Oer { -glean-brand-name }
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     is gegevenssamlingsbiblioteek dy’t brûkt wurdt yn { -vendor-short-name }-projekten.
     Dizze interface is ûntwurpen foar gebrûk troch ûntwikkelers en testers om hânmjittich
     <a data-l10n-name="fog-link">ynstrumintaasje te testen</a>.
+
 about-glean-upload-enabled = Gegevensoplaad is ynskeakele.
 about-glean-upload-disabled = Gegevensoplaad is útskeakele.
 about-glean-upload-enabled-local = Gegevensoplaad is allinnich ynskeakele foar ferstjoeren nei in lokale server.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     sadat gegevens noch hieltyd lokaal opnomen wurde.
     Noat: as jo in debuglabel ynstelle, wurden pings oplaad nei de
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, nettsjinsteandede ynstellingen.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relevante <a data-l10n-name="fog-prefs-and-defines-doc-link">foarkarren en definysjes</a> omfetsje:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Oer testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">ynstrumintaasjetestdokuminten fan { -fog-brand-name }</a>
     en yn de <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }-dokumintaasje</a>,
     mar, koartsein, om hânmjittich te testen dat jo ynstrumintaasje wurket, moatte jo:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (gjin ping yntsjinje)
 # An in-line text input field precedes this string.
@@ -88,6 +85,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Besykje de { glean-debug-ping-viewer-brand-name }-side foar pings mei jo label</a>.
     It soe net mear as in pear sekonden duorje moatte fan it yndrukken fan de knop ôf oant it oankommen fan jo ping.
     Somtiden duorret it inkelde minuten.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Foar mear <i>ad hoc</i>-testen,
@@ -95,7 +93,10 @@ about-glean-adhoc-explanation =
     troch hjir in devtools-console te iepenjen op <code>about:glean</code>
     en de <code>testGetValue()</code>-API te brûken lykas
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Ynstellingen tapasse en ping ferstjoere
+
 about-glean-about-data-header = Oer gegevens
 about-glean-about-data-explanation =
     Besjoch, om troch de list mei sammele gegevens te blêdzjen, de

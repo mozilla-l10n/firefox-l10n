@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Annulearje
     .accesskey = A
+
 webext-perms-sideload-text = In oar programma op jo kompjûter hat in add-on ynstallearre dy’t ynfloed hawwe kin op jo browser. Kontrolearje de oanfragen foar tastimmingen fan dizze add-on en kies foar Ynskeakelje of Annulearje (om dizze útskeakele te hâlden).
 webext-perms-sideload-text-no-perms = In oar programma op jo kompjûter hat in add-on ynstallearre dy’t ynfloed hawwe kin op jo browser. Kies foar Ynskeakelje of Annulearje (om dizze útskeakele te hâlden).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Annulearje
     .accesskey = A
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } is bywurke. Jo moatte nije tastimmingen tastean eardat de bywurke ferzje ynstallearre wurdt. ‘Annulearje’ kieze sil de aktuele ferzje fan de útwreiding behâlde. Dizze útwreiding hat tastimming om:
 webext-perms-update-accept =
     .label = Fernije
     .accesskey = F
+
 webext-perms-optional-perms-list-intro = It wol:
 webext-perms-optional-perms-allow =
     .label = Tastean
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Wegerje
     .accesskey = W
+
 webext-perms-host-description-all-urls = Jo gegevens foar alle websites benaderje
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Jo gegevens foar alle websites yn it domein { $domain } benaderje
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Jo gegevens foar { $domain } benaderje
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

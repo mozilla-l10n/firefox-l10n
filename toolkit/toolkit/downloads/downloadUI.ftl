@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Net ôfslute
        *[other] Net ôfslute
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] As jo no de ferbining ferbrekke, sil 1 download annulearre wurde. Binne jo der wis fan dat jo de ferbining ferbrekke wolle?
        *[other] As jo no de ferbining ferbrekke, sille { $downloadsCount } downloads annulearre wurde. Binne jo der wis fan dat jo de ferbining ferbrekke wolle?
     }
 download-ui-dont-go-offline-button = Ferbining beëinige
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] As jo no alle priveenavigaasjefinsters slute, sil 1 download annulearre wurde. Binne jo wis dat jo de priveenavigaasje ferlitte wolle?
        *[other] As jo no alle priveenavigaasjefinsters slute, sille { $downloadsCount } downloads annulearre wurde. Binne jo wis dat jo de priveenavigaasje ferlitte wolle?
     }
 download-ui-dont-leave-private-browsing-button = Yn priveenavigaasje bliuwe
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 download annulearje

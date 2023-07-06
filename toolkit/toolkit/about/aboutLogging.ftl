@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Media ôfspylje
 about-logging-preset-media-playback-description = Logboekmodulen om problemen mei it ôfspyljen fan media te diagnostisearjen (gjin problemen mei fideokonferinsjes)
 about-logging-preset-custom-label = Oanpast
 about-logging-preset-custom-description = Logboekmodulen hânmjittich selektearre
+
 # Error handling
 about-logging-error = Flater:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Unbekende foarynstelling foar profiler �
 about-logging-unknown-option = Unbekende about:logging-opsje ‘{ $k }’
 about-logging-configuration-url-ignored = Konfiguraasje-URL negearre
 about-logging-file-and-profiler-override = Kin net tagelyk bestânsútfier forsearje en profileropsjes oerskriuwe
+
 about-logging-configured-via-url = Opsje konfigurearre fia URL

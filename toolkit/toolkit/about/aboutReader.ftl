@@ -4,6 +4,7 @@
 
 about-reader-loading = Lade…
 about-reader-load-error = Artikel fan side laden is mislearre
+
 about-reader-color-scheme-light = Ljocht
     .title = Kleureskema Ljocht
 about-reader-color-scheme-dark = Donker
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Kleureskema Sepia
 about-reader-color-scheme-auto = Auto
     .title = Kleureskema Automatysk
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

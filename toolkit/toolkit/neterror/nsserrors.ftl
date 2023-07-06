@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Flater bard wylst in ferbining mei { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Flaterkoade: { $error }
-
 psmerr-ssl-disabled = Kin gjin befeilige ferbining opsette, omdat it SSL-protokol útskeakele is.
 psmerr-ssl2-disabled = Kin gjin befeilige ferbining opsette, omdat de side in âldere, minder feilige ferzje fan it SSL-protokol brûkt.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Der is gjin stipe TLS-ûndertekenin
 ssl-error-unsupported-signature-algorithm = De peer brûkte in net-stipe kombinaasje fan ûndertekening en hash-algoritme.
 ssl-error-missing-extended-master-secret = De peer probearre in werfetting sûnder in krekte extended_master_secret-útwreiding.
 ssl-error-unexpected-extended-master-secret = De peer probearre in werfetting mei in ûnferwachte extended_master_secret-útwreiding.
+
 sec-error-io = Der is in I/O-flater bard tiidens befeiligingsautorisaasje.
 sec-error-library-failure = flater yn befeiligingsbiblioteek.
 sec-error-bad-data = befeiligingsbiblioteek: ferkearde gegevens ûntfongen.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Kin net ûntsiferje: kaaikodearringsalgoritme 
 sec-error-pkcs7-bad-signature = Undertekeningsferifikaasje mislearre: gjin ûndertekenaar fûn, te folle ûndertekenaars fûn, of ferkearde of skansearre gegevens.
 sec-error-unsupported-keyalg = Net-stipe of ûnbekend kaai-algoritme.
 sec-error-decryption-disallowed = Kin net ûntsiferje: fersifere mei help fan in net-tastiene algoritme of kaaigrutte.
-xp-sec-fortezza-bad-card = Fortezza-kaart is net goed ynisjalisearre.  Smyt de kaart fuort en retourneer dizze nei jo útjouwer.
-xp-sec-fortezza-no-card = Gjin Fortezza-kaarten fûn
-xp-sec-fortezza-none-selected = Gjin Fortezza-kaart selektearre
-xp-sec-fortezza-more-info = Selektearje in persoan om mear ynformaasje oer te krijen
-xp-sec-fortezza-person-not-found = Persoan net fûn
-xp-sec-fortezza-no-more-info = Gjin fierdere ynformaasje oer dy persoan
-xp-sec-fortezza-bad-pin = Unjildige pinkoade
-xp-sec-fortezza-person-error = Koe Fortezza-persoanen net inisjalisearje.
 sec-error-no-krl = Gjin KRL foar sertifikaat fan dizze website fûn.
 sec-error-krl-expired = De KRL foar it sertifikaat fan dizze website is ferrûn.
 sec-error-krl-bad-signature = De KRL foar it sertifikaat fan dizze website hat in ûnjildige ûndertekening.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = In sertifikaat mei deselde alias bestiet al.
 sec-error-key-nickname-collision = In kaai mei deselde alias bestiet al.
 sec-error-safe-not-created = flater tiidens it meitsjen fan feilich objekt
 sec-error-baggage-not-created = flater tiidens it meitesjen fan bagage objekt
-xp-java-remove-principal-error = Koe de haadpersoan net fuortsmite
-xp-java-delete-privilege-error = Koe it privilege net fuortsmite
-xp-java-cert-not-exists-error = Dit haadpersoan hat gjin sertifikaat
 sec-error-bad-export-algorithm = Fereaske algoritme is net tastien.
 sec-error-exporting-certificates = Flater by poging ta eksportearjen fan sertifikaten.
 sec-error-importing-certificates = Flater by poging ta ymportearjen fan sertifikaten.
@@ -339,6 +320,7 @@ sec-error-locked-password = It wachtwurd is fêstsetten.
 sec-error-unknown-pkcs11-error = Unbekende PKCS #11-flater.
 sec-error-bad-crl-dp-url = Unjildige of net-stipe URL yn CRL-distribúsjepuntennamme.
 sec-error-cert-signature-algorithm-disabled = It sertifikaat is fersifere mei in ûndertekening dat is útskeakele, omdat it ûnfeilich is.
+
 mozilla-pkix-error-key-pinning-failure = De server brûkt kaaipinning (HPKP), mar der kin gjin fertroude sertifikaatketen makke dy’t mei de pinset oerienkomt. Skeining fan kaaipinning kin net negearre wurde.
 mozilla-pkix-error-ca-cert-used-as-end-entity = De server brûkt in sertifikaat mei in basisbetingst-útwreiding dy’t identifisearret as in sertifikaatautoriteit. Foar in korrekt útjûn sertifikaat, soe dit net it gefal wêze moatte.
 mozilla-pkix-error-inadequate-key-size = De server hat in sertifikaat mei in te lytse kaaigrutte presintearre om in befeilige ferbining te meitsjen.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = De server hat in sertifikaat presi
 mozilla-pkix-error-empty-issuer-name = De server presintearre in sertifikaat mei in lege namme foar de ûnderskiedende útjouwer.
 mozilla-pkix-error-additional-policy-constraint-failed = In oanfoljende beliedsbeheining is mislearre by it falidearjen fan dit sertifikaat.
 mozilla-pkix-error-self-signed-cert = It sertifikaat is net fertroud, omdat it sels ûndertekene is.
+
+xp-java-remove-principal-error = Koe de haadpersoan net fuortsmite
+xp-java-delete-privilege-error = Koe it privilege net fuortsmite
+xp-java-cert-not-exists-error = Dit haadpersoan hat gjin sertifikaat
+
+xp-sec-fortezza-bad-card = Fortezza-kaart is net goed ynisjalisearre.  Smyt de kaart fuort en retourneer dizze nei jo útjouwer.
+xp-sec-fortezza-no-card = Gjin Fortezza-kaarten fûn
+xp-sec-fortezza-none-selected = Gjin Fortezza-kaart selektearre
+xp-sec-fortezza-more-info = Selektearje in persoan om mear ynformaasje oer te krijen
+xp-sec-fortezza-person-not-found = Persoan net fûn
+xp-sec-fortezza-no-more-info = Gjin fierdere ynformaasje oer dy persoan
+xp-sec-fortezza-bad-pin = Unjildige pinkoade
+xp-sec-fortezza-person-error = Koe Fortezza-persoanen net inisjalisearje.

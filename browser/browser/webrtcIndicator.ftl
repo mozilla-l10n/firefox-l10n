@@ -30,6 +30,7 @@ webrtc-item-browser = ljepblêd
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Unbekende orizjine
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Apparaten dy’t ljepblêden diele
     .accesskey = d
+
 webrtc-sharing-window = Jo diele in oar tapassingsfinster.
 webrtc-sharing-browser-window = Jo diele { -brand-short-name }.
 webrtc-sharing-screen = Jo diele jo folsleine skerm.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Dielen beheare
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Dielen beheare op ‘{ $streamTitle }’
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kamera dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kamera dield mei { $tabCount } ljepblêd
            *[other] Kamera dield mei { $tabCount } ljepblêden
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofoan dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofoan dield mei { $tabCount } ljepblêd
            *[other] Mikrofoan dield mei { $tabCount } ljepblêden
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = In applikaasje dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] In applikaasje dield mei { $tabCount } ljepblêdb
            *[other] Applikaasjes dield mei { $tabCount } ljepblêden
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Skerm dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Skerm dield mei { $tabCount } ljepblêd
            *[other] Skerm dield mei { $tabCount } ljepblêden
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Finster dield mei ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Finster dield mei { $tabCount } ljepblêd
            *[other] Finster dield mei { $tabCount } ljepblêden
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = In ljepblêd dield mei ‘{ $streamTitle }’
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } tastean om it lûd fan
 
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } tastean om { $thirdParty } tastimming te jaan om nei de audio fan dit ljepblêd te harkjen?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo kamera te jaan?
-webrtc-allow-share-microphone-unsafe-delegations = { $origin } tastean om { $thirdParty } tagong ta jo mikrofoan te jaan?
 webrtc-allow-share-microphone-unsafe-delegation = { $origin } tastean om { $thirdParty } tagong ta jo mikrofoan te jaan?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } tastean om { $thirdParty } jo skerm sjen te litten?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } tast
 
 webrtc-share-screen-warning = Diel allinnich skermen mei websites dy’t jo fertrouwe. Diele kin misliedende websites tastean om as jo te surfen en jo priveegegevens te stellen.
 webrtc-share-browser-warning = Diel { -brand-short-name } allinnich mei websites dy’t jo fertrouwe. Dielen kin misliedende websites tastean út jo namme te browsen en jo priveegegevens te stellen.
+
 webrtc-share-screen-learn-more = Mear ynfo
 webrtc-pick-window-or-screen = Finster of skerm selektearje
 webrtc-share-entire-screen = Folslein skerm
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Dizze beslissing ûnthâlde
 webrtc-mute-notifications-checkbox = Websitemeldingen dôvje wylst dielen
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kin gjin permaninte tagong ta jo skerm tastean.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kin gjin permaninte tagong ta it lûd fan jo ljepblêd tastean sûnder te freegjen hokker ljepblêd dield wurde moat.
 webrtc-reason-for-no-permanent-allow-insecure = Jo ferbining mei dizze website is net befeilige. Om jo te beskermjen, sil { -brand-short-name } allinnich tagong foar dizze sesje tastean.
