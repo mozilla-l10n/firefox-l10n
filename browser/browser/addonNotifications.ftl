@@ -14,6 +14,7 @@ xpinstall-prompt-message = Προσπαθείτε να εγκαταστήσετ�
 
 xpinstall-prompt-header-unknown = Να επιτραπεί σε έναν άγνωστο ιστότοπο η εγκατάσταση προσθέτου;
 xpinstall-prompt-message-unknown = Προσπαθείτε να εγκαταστήσετε ένα πρόσθετο από έναν άγνωστο ιστότοπο. Βεβαιωθείτε ότι εμπιστεύεστε αυτόν τον ιστότοπο προτού συνεχίσετε.
+
 xpinstall-prompt-dont-allow =
     .label = Απόρριψη
     .accesskey = ρ
@@ -44,6 +45,7 @@ xpinstall-disabled = Η εγκατάσταση λογισμικού είναι �
 xpinstall-disabled-button =
     .label = Ενεργοποίηση
     .accesskey = ν
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = Το { $addonName } ({ $addonId }) έχει α
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ο διαχειριστής του συστήματός σας εμπόδισε την ερώτηση αυτού του ιστοτόπου για εγκατάσταση λογισμικού στον υπολογιστή σας.
 addon-install-full-screen-blocked = Η εγκατάσταση προσθέτων δεν επιτρέπεται κατά τη χρήση ή πριν την είσοδο σε λειτουργία πλήρους οθόνης.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Το { $addonName } προστέθηκε στο { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Το { $addonName } απαιτεί νέα δικαιώματα
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Αφαίρεση του { $name };
 addon-removal-message = Αφαίρεση του { $name } από το { -brand-shorter-name };
 addon-removal-button = Αφαίρεση
 addon-removal-abuse-report-checkbox = Αναφορά επέκτασης στη { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] Λήψη και επαλήθευση { $addonCount } προσθέτων…
     }
 addon-download-verifying = Επαλήθευση
+
 addon-install-cancel-button =
     .label = Ακύρωση
     .accesskey = Α

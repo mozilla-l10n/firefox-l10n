@@ -30,6 +30,7 @@ webrtc-item-browser = καρτέλα
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Άγνωστη προέλευση
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Καρτέλες που μοιράζονται συσκευές
     .accesskey = σ
+
 webrtc-sharing-window = Μοιράζεστε το παράθυρο μιας άλλης εφαρμογής.
 webrtc-sharing-browser-window = Μοιράζεστε το { -brand-short-name }.
 webrtc-sharing-screen = Μοιράζεστε ολόκληρη την οθόνη σας.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Έλεγχος κοινής χρήσης
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Έλεγχος κοινής χρήσης για «{ $streamTitle }»
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Κοινή χρήση κάμερας με «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Κοινή χρήση κάμερας με { $tabCount } καρτέλα
            *[other] Κοινή χρήση κάμερας με { $tabCount } καρτέλες
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Κοινή χρήση μικροφώνου με «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Κοινή χρήση μικροφώνου με { $tabCount } καρτέλα
            *[other] Κοινή χρήση μικροφώνου με { $tabCount } καρτέλες
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Κοινή χρήση εφαρμογής με «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Κοινή χρήση εφαρμογής με { $tabCount } καρτέλα
            *[other] Κοινή χρήση εφαρμογών με { $tabCount } καρτέλες
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Κοινή χρήση οθόνης με «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Κοινή χρήση οθόνης με { $tabCount } καρτέλα
            *[other] Κοινή χρήση οθόνης με { $tabCount } καρτέλες
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Κοινή χρήση παραθύρου με «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Κοινή χρήση παραθύρου με { $tabCount } καρτέλα
            *[other] Κοινή χρήση παραθύρων με { $tabCount } καρτέλες
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Κοινή χρήση καρτέλας με «{ $streamTitle }»
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = Να επιτρέπεται στο
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } άδεια για ακρόαση του ήχου αυτής της καρτέλας;
 webrtc-allow-share-camera-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στην κάμερά σας;
-webrtc-allow-share-microphone-unsafe-delegations = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στο μικρόφωνό σας;
 webrtc-allow-share-microphone-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } πρόσβαση στο μικρόφωνό σας;
 webrtc-allow-share-screen-unsafe-delegation = Να επιτρέπεται στο { $origin } να παραχωρεί στο { $thirdParty } άδεια για θέαση της οθόνης σας;
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Να επιτρ�
 
 webrtc-share-screen-warning = Να μοιράζεστε οθόνες μόνο με αξιόπιστες ιστοσελίδες. Η κοινή χρήση μπορεί να επιτρέψει σε παραπλανητικές ιστοσελίδες να περιηγηθούν με την ταυτότητά σας και να υποκλέψουν τα προσωπικά δεδομένα σας.
 webrtc-share-browser-warning = Να μοιράζεστε το { -brand-short-name } μόνο με αξιόπιστες ιστοσελίδες. Η κοινή χρήση μπορεί να επιτρέψει σε παραπλανητικές ιστοσελίδες να περιηγηθούν με την ταυτότητά σας και να υποκλέψουν τα προσωπικά δεδομένα σας.
+
 webrtc-share-screen-learn-more = Μάθετε περισσότερα
 webrtc-pick-window-or-screen = Επιλέξτε παράθυρο ή οθόνη
 webrtc-share-entire-screen = Ολόκληρη η οθόνη
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Απομνημόνευση επιλογής
 webrtc-mute-notifications-checkbox = Σίγαση ειδοποιήσεων ιστοτόπου κατά την κοινή χρήση
+
 webrtc-reason-for-no-permanent-allow-screen = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στην οθόνη σας.
 webrtc-reason-for-no-permanent-allow-audio = Το { -brand-short-name } δεν μπορεί να επιτρέψει μόνιμη πρόσβαση στον ήχο της καρτέλας σας χωρίς να ρωτήσει ποια καρτέλα θα διαμοιραστεί.
 webrtc-reason-for-no-permanent-allow-insecure = Η σύνδεσή σας με αυτόν τον ιστότοπο δεν είναι ασφαλής. Για την προστασία σας, το { -brand-short-name } θα επιτρέψει την πρόσβαση μόνο για αυτήν τη συνεδρία.

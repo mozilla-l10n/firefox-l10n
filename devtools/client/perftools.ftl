@@ -83,8 +83,6 @@ perftools-thread-renderer =
     .title = Το νήμα που εκτελεί κλήσεις OpenGL όταν είναι ενεργοποιημένο το WebRender
 perftools-thread-render-backend =
     .title = Το νήμα WebRender RenderBackend
-perftools-thread-paint-worker =
-    .title = Το νήμα στο οποίο γίνεται ο χρωματισμός όταν είναι ενεργός ο χρωματισμός εκτός κύριου νήματος
 perftools-thread-timer =
     .title = Τα χρονόμετρα χειρισμού νημάτων (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -132,6 +130,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Ανάπτυξη web

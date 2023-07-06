@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Άνοιγμα μενού για το { $extensionName }
+
 unified-extensions-item-message-manage = Διαχείριση επέκτασης
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Καρφίτσωμα στη γραμμή εργαλείων
+
 unified-extensions-context-menu-manage-extension =
     .label = Διαχείριση επέκτασης
+
 unified-extensions-context-menu-remove-extension =
     .label = Αφαίρεση επέκτασης
+
 unified-extensions-context-menu-report-extension =
     .label = Αναφορά επέκτασης
+
 unified-extensions-context-menu-move-widget-up =
     .label = Μετακίνηση πάνω
+
 unified-extensions-context-menu-move-widget-down =
     .label = Μετακίνηση κάτω
 

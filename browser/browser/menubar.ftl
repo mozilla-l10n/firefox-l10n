@@ -38,9 +38,11 @@ menu-quit =
             [windows] ξ
            *[other] ξ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Έξοδος από το { -brand-shorter-name }
+
 menu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Πρόσφατα κλεισμένες καρτέλες
 menu-history-undo-window-menu =
     .label = Πρόσφατα κλεισμένα παράθυρα
-menu-history-reopen-all-tabs = Επαναφορά όλων των καρτελών
-menu-history-reopen-all-windows = Επαναφορά όλων των παραθύρων
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = Σ
 menu-bookmarks-manage =
     .label = Διαχείριση σελιδοδεικτών
-menu-bookmark-current-tab =
-    .label = Προσθήκη καρτέλας στους σελιδοδείκτες
-menu-bookmark-edit =
-    .label = Επεξεργασία σελιδοδείκτη
 menu-bookmark-tab =
     .label = Προσθήκη σελιδοδείκτη…
 menu-edit-bookmark =

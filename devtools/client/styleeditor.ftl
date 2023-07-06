@@ -20,7 +20,6 @@ styleeditor-save-button = Αποθήκευση
     .accesskey = Α
 styleeditor-options-button =
     .tooltiptext = Επιλογές επεξεργασίας στυλ
-styleeditor-media-rules = Κανόνες @media
 styleeditor-at-rules = Κανόνες «At»
 styleeditor-editor-textbox =
     .data-placeholder = Πληκτρολογήστε CSS εδώ.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = Μ
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Δεν βρέθηκε αντίστοιχο φύλλο στυλ.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

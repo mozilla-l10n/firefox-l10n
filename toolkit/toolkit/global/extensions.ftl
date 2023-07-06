@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Ακύρωση
     .accesskey = Α
+
 webext-perms-sideload-text = Κάποιο πρόγραμμα του υπολογιστή σας εγκατέστησε ένα πρόσθετο που ενδέχεται να επηρεάσει το πρόγραμμα περιήγησής σας. Παρακαλώ ελέγξτε τα αιτήματα δικαιωμάτων του προσθέτου και επιλέξτε «Ενεργοποίηση» ή «Ακύρωση» (για να παραμείνει ανενεργό).
 webext-perms-sideload-text-no-perms = Κάποιο πρόγραμμα του υπολογιστή σας εγκατέστησε ένα πρόσθετο που ενδέχεται να επηρεάσει το πρόγραμμα περιήγησής σας. Παρακαλώ επιλέξτε «Ενεργοποίηση» ή «Ακύρωση» (για να παραμείνει ανενεργό).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Ακύρωση
     .accesskey = Α
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Το { $extension } έχει ενημερωθεί. Πρέπει να εγκρίνετε τα νέα δικαιώματα πριν εγκατασταθεί η ενημερωμένη έκδοση. Αν επιλέξετε «Ακύρωση», θα διατηρηθεί η τρέχουσα έκδοση της επέκτασης. Η επέκταση θα έχει την άδεια για:
 webext-perms-update-accept =
     .label = Ενημέρωση
     .accesskey = Ε
+
 webext-perms-optional-perms-list-intro = Επιθυμεί την άδεια για:
 webext-perms-optional-perms-allow =
     .label = Αποδοχή
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Άρνηση
     .accesskey = ρ
+
 webext-perms-host-description-all-urls = Πρόσβαση στα δεδομένα σας για κάθε ιστότοπο
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Πρόσβαση στα δεδομένα σας για ιστοτόπους του τομέα { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Πρόσβαση στα δεδομένα σας για το { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

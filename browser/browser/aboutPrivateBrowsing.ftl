@@ -22,10 +22,12 @@ about-private-browsing-not-private = Αυτήν τη στιγμή, δεν βρί
 about-private-browsing-info-description-private-window = Ιδιωτικό παράθυρο: Το { -brand-short-name } διαγράφει το ιστορικό αναζητήσεων και περιήγησης όταν κλείνετε όλα τα ιδιωτικά παράθυρα. Αυτό δεν παρέχει ανωνυμία.
 about-private-browsing-info-description-simplified = Το { -brand-short-name } διαγράφει το ιστορικό αναζητήσεων και περιήγησής σας όταν κλείνετε όλα τα ιδιωτικά παράθυρα, αλλά δεν σας καθιστά ανώνυμους.
 about-private-browsing-learn-more-link = Μάθετε περισσότερα
+
 about-private-browsing-hide-activity = Αποκρύψτε τη δραστηριότητα και την τοποθεσία σας, όπου κι αν περιηγείστε
 about-private-browsing-get-privacy = Προστασία απορρήτου σε κάθε επίσκεψή σας
 about-private-browsing-hide-activity-1 = Αποκρύψτε τη δραστηριότητα και την τοποθεσία σας με το { -mozilla-vpn-brand-name }. Με ένα κλικ έχετε ασφαλή σύνδεση, ακόμα και σε δημόσιο Wi-Fi.
 about-private-browsing-prominent-cta = Προστατέψτε το απόρρητό σας με το { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Λήψη του { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Ιδιωτική περιήγηση εν κινήσει
 about-private-browsing-focus-promo-text = Η εφαρμογή ιδιωτικής περιήγησής μας για κινητές συσκευές διαγράφει το ιστορικό και τα cookies σας κάθε φορά.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Πάρτε την ιδιωτική
 about-private-browsing-focus-promo-text-b = Χρησιμοποιήστε το { -focus-brand-name } για τις ιδιωτικές αναζητήσεις που δεν θέλετε να βλέπει το κύριο πρόγραμμα περιήγησής σας.
 about-private-browsing-focus-promo-header-c = Απόρρητο ανώτερου επιπέδου στο κινητό
 about-private-browsing-focus-promo-text-c = Το { -focus-brand-name } διαγράφει το ιστορικό σας κάθε φορά, ενώ αποκλείει διαφημίσεις και ιχνηλάτες.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Κλείσιμο
+
 about-private-browsing-promo-close-button =
     .title = Κλείσιμο
 

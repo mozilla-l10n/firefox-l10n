@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Ολοκλήρωση ρύθμισης λογαριασμού
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Ο λογαριασμός αποσυνδέθηκε
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Αποστολή σε όλες τις συσκευές
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Διαχείριση συσκευών…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Διαχείριση συσκευών…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Δεν συνδέθηκαν συσκευές
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Μάθετε για την αποστολή καρτελών…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Σύνδεση άλλης συσκευής…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Επαλήθευση λογαριασμού�
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(case: "nom", capitalization: "upper") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Αυτός ο υπολογιστής είναι πλέον συνδεδεμένος με το { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Αυτός ο υπολογιστής είναι πλέον συνδεδεμένος με μια νέα συσκευή.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Έγινε επιτυχής σύνδεση
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Αυτός ο υπολογιστείς έχει αποσυνδεθεί.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Ελήφθη καρτέλα
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Καρτέλα από τη συσκευή { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Ελήφθησαν καρτέλες
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
