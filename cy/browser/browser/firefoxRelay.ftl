@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Rhaid mewngofnodi i { -fxaccount-brand-name } 
 firefox-relay-get-unlimited-masks =
     .label = Rheoli arallenwau
     .accesskey = R
-firefox-relay-opt-in-title = Diogelwch eich cyfeiriad e-bost
-firefox-relay-opt-in-subtitle = Ychwanegwch { -relay-brand-name }
-firefox-relay-generate-mask-title = Diogelwch eich cyfeiriad e-bost
-firefox-relay-generate-mask-subtitle = Cynhyrchwch arallenw { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Ymlaen
-    .accesskey = Y
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Diogelwch eich cyfeiriad e-bost:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

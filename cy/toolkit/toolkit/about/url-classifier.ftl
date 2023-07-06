@@ -50,5 +50,9 @@ url-classifier-disabled = Analluogwyd
 url-classifier-updating = diweddaru
 url-classifier-cannot-update = methu diweddaru
 url-classifier-success = llwyddiant
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = gwall diweddaru ({ $error })
 url-classifier-download-error = gwall llwytho i lawr ({ $error })

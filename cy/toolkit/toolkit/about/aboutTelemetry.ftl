@@ -135,12 +135,6 @@ about-telemetry-category-header = categori
 about-telemetry-method-header = dull
 about-telemetry-object-header = gwrthrych
 about-telemetry-extra-header = ychwanegol
-about-telemetry-origin-section = Telemetreg y Tarddiad
-about-telemetry-origin-origin = tarddiad
-about-telemetry-origin-count = cyfrif
-# Variables:
-#   $telemetryServerOwner (string) - The value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = Mae <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> yn amgodio data cyn iddo gael ei anfon fel bod { $telemetryServerOwner } yn gallu cyfrif pethau, ond heb wybod a yw { -brand-product-name } wedi cyfrannu i'r cyfrif hwnnw. (<a data-l10n-name="prio-blog-link">Dysgu rhagor</a>)
 # Variables:
 #  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Proses { $process }

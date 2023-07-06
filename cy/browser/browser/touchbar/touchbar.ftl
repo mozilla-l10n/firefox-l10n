@@ -19,6 +19,7 @@ open-location = Chwilio neu gyfeiriad gwe
 share = Rhannu
 close-window = Cau Ffenestr
 open-sidebar = Barrau Ochr
+
 # This string describes shortcuts for search.
 search-popover = Chwilio llwybrau byr
 # Describes searches limited to a specific scope

@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Agor dewislen ar gyfer { $extensionName }
+
 unified-extensions-item-message-manage = Rheoli estyniadau
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Pinio i'r Bar Offer
+
 unified-extensions-context-menu-manage-extension =
     .label = Rheoli Estyniad
+
 unified-extensions-context-menu-remove-extension =
     .label = Tynnu Estyniad
+
 unified-extensions-context-menu-report-extension =
     .label = Adrodd ar yr Estyniad
+
 unified-extensions-context-menu-move-widget-up =
     .label = Symud i Fyny
+
 unified-extensions-context-menu-move-widget-down =
     .label = Symud i Lawr
 

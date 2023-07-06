@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Gosod Nod Tudalen i'r Tabiau…
     .accesskey = T
-bookmark-tab =
-    .label = Gosod Nod Tudalen i'r Tab
-    .accesskey = N
 tab-context-bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab
     .accesskey = T
@@ -118,6 +115,7 @@ tab-context-move-tabs =
            *[other] Symud Tab
         }
     .accesskey = S
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

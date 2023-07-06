@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Chwarae cyfryngau
 about-logging-preset-media-playback-description = Cofnodi modiwlau i ddatrys materion chwarae cyfryngau (nid materion fideo-gynadledda)
 about-logging-preset-custom-label = Cyfaddas
 about-logging-preset-custom-description = Modiwlau cofnodion wedi'u dewis â llaw
+
 # Error handling
 about-logging-error = Gwall:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Rhagosodiad proffiliwr anhysbys “{ $v 
 about-logging-unknown-option = Dewis about:logging anhysbys “{ $k }“
 about-logging-configuration-url-ignored = Anwybyddwyd URL ffurfweddiad
 about-logging-file-and-profiler-override = Methu â gorfodi allbwn ffeil a diystyru dewisiadau proffiliwr ar yr un pryd
+
 about-logging-configured-via-url = Dewis wedi'i ffurfweddu trwy URL

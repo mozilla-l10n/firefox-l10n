@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Ffontiau
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Ffont ar gyfer
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabaidd
 fonts-langgroup-armenian =
@@ -75,27 +77,37 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Cyfrannol
     .accesskey = y
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Maint
     .accesskey = M
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = a
+
 fonts-monospace = Monospace
     .accesskey = o
+
 fonts-monospace-size = Maint
     .accesskey = a
+
 fonts-minsize = Lleiafswm maint ffont
     .accesskey = L
+
 fonts-minsize-none =
     .label = Dim
+
 fonts-allow-own =
     .label = Caniatáu i dudalennau ddewis eu ffont eu hun, yn lle fy newis i uchod
     .accesskey = C
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

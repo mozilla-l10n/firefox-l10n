@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Nodwedd Cymeradwy
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pam ydw i'n gweld hyn
+
 cfr-doorhanger-extension-cancel-button = Nid Nawr
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Ychwanegu Nawr
     .accesskey = Y
+
 cfr-doorhanger-extension-manage-settings-button = Gosodiadau Argymell Rheoli
     .accesskey = R
+
 cfr-doorhanger-extension-never-show-recommendation = Peidio Dangos yr Argymhelliad i Mi
     .accesskey = P
+
 cfr-doorhanger-extension-learn-more-link = Dysgu rhagor
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = gan { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Argymhelliad
 cfr-doorhanger-extension-notification2 = Argymhelliad
     .tooltiptext = Argymhelliad Estyniad
     .a11y-announcement = Mae argymhelliad estyniad ar gael
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Argymhelliad
@@ -85,9 +93,11 @@ cfr-protections-panel-link-text = Dysgu rhagor
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nodwedd newydd:
+
 cfr-whatsnew-button =
     .label = Beth sy'n Newydd
     .tooltiptext = Beth sy'n Newydd
+
 cfr-whatsnew-release-notes-link-text = Darllenwch y nodiadau rhyddhau
 
 ## Enhanced Tracking Protection Milestones
@@ -120,13 +130,6 @@ cfr-doorhanger-doh-secondary-button = Analluogi
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Mae eich preifatrwydd yn bwysig. Erbyn hyn mae { -brand-short-name } yn ynysu, neu'n creu blychau tywod er mwyn cadw gwefannau oddi wrth ei gilydd, sy'n ei gwneud hi'n anoddach i hacwyr ddwyn cyfrineiriau, rhifau cardiau credyd, a manylion sensitif arall, oddi arnoch.
-cfr-doorhanger-fission-header = Ynysu Gwefan
-cfr-doorhanger-fission-primary-button = Iawn, Wedi deall!
-    .accesskey = I
-cfr-doorhanger-fission-secondary-button = Dysgu rhagor
-    .accesskey = D
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Efallai na fydd fideos ar y wefan hon yn chwarae'n gywir ar y fersiwn hon o { -brand-short-name }. I gael cefnogaeth fideo lawn, diweddarwch { -brand-short-name } nawr.
@@ -135,11 +138,6 @@ cfr-doorhanger-video-support-primary-button = Diweddarwch Nawr
     .accesskey = D
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Dysgu rhagor
-    .title = Ehangu i ddysgu rhagor am y nodwedd hon
-spotlight-learn-more-expanded = Dysgu rhagor
-    .title = Cau
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -156,18 +154,6 @@ spotlight-public-wifi-vpn-link = Nid Nawr
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Rhowch brawf ar ein profiad
-    preifatrwydd mwyaf pwerus erioed
-spotlight-total-cookie-protection-body = Mae Total Cookie Protection yn atal tracwyr rhag defnyddio cwcis i'ch dilyn o amgylch y we.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = Mae { -brand-short-name } yn adeiladu ffens o amgylch cwcis, gan eu cyfyngu i'r wefan rydych chi arni fel na all tracwyr eu defnyddio i'ch dilyn chi. Gyda mynediad cynnar, byddwch yn helpu i wella'r nodwedd hon fel y gallwn barhau i adeiladu gwe well i bawb.
-spotlight-total-cookie-protection-primary-button = Cychwyn Total Cookie Protection
-spotlight-total-cookie-protection-secondary-button = Nid nawr
 
 ## Emotive Continuous Onboarding
 
@@ -197,11 +183,13 @@ spotlight-pin-secondary-button = Nid nawr
 
 mr2022-background-update-toast-title = { -brand-short-name } newydd. Yn fwy preifat. Llai o dracwyr. Dim cyfaddawdu.
 mr2022-background-update-toast-text = Rhowch gynnig ar y { -brand-short-name } mwyaf newydd nawr, wedi'i uwchraddio gyda'n diogelwch gwrth-dracio cryfaf eto.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Agorwch { -brand-shorter-name } Nawr
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -220,6 +208,7 @@ firefoxview-cfr-body-v2 = Cael tabiau sydd wedi'u cau'n ddiweddar nôl, a symud 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Dywedwch helo wrth { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Eisiau'r tab agored hwnnw ar eich ffôn? Gafaelwch ynddo. Oes angen y wefan hon rydych newydd ymweld â hi? Pwff, mae'n ôl gyda { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Dyma sut mae'n gweithio...
@@ -229,6 +218,7 @@ firefoxview-spotlight-promo-secondarybutton = Hepgor
 
 colorways-cfr-primarybutton = Dewis cyfuniad lliw
     .accesskey = D
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Lliwiwch eich porwr gyda lliwiau unigryw { -brand-short-name } wedi'u hysbrydoli gan leisiau a newidiodd ddiwylliant.
 colorways-cfr-header-28days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben Ionawr 16
@@ -251,6 +241,7 @@ july-jam-headline = Rydyn ni yn eich cefnogi chi
 july-jam-body = Bob mis, mae { -brand-short-name } yn rhwystro 3,000+ o dracwyr fesul defnyddiwr ar gyfartaledd, gan roi mynediad diogel a chyflym i'r rhyngrwyd da i chi.
 july-jam-set-default-primary = Agor fy nolenni gyda { -brand-short-name }
 fox-doodle-pin-headline = Croeso nôl
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Dyma neges atgoffa cyflym y gallwch chi gadw'ch hoff borwr annibynnol un clic yn unig i ffwrdd.

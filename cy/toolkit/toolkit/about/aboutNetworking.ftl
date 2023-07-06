@@ -34,13 +34,6 @@ about-networking-messages-received = Negeseuon Derbyniwyd
 about-networking-bytes-sent = Didau Wedi'u Hanfon
 about-networking-bytes-received = Didau Wedi'u Derbyn
 about-networking-logging = Cofnodi
-about-networking-log-tutorial = Gw <a data-l10n-name="logging">HTTP Logging</a> am wybodaeth ar sut i ddefnyddio'r teclyn hwn.
-about-networking-current-log-file = Ffeil Cofnodi Cyfredol:
-about-networking-current-log-modules = Modiwlau Cofnodi Cyfredol:
-about-networking-set-log-file = Gosod Ffeil Cofnodi
-about-networking-set-log-modules = Gosod Modiwlau Cofnodi
-about-networking-start-logging = Cychwyn Cofnodi
-about-networking-stop-logging = Peidio Cofnodi
 about-networking-dns-lookup = Chwilio DNS
 about-networking-dns-lookup-button = Datrys
 about-networking-dns-domain = Parth:

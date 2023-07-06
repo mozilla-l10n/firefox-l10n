@@ -14,6 +14,7 @@ xpinstall-prompt-message = Rydych yn ceisio gosod ychwanegyn o { $host }. Gwnewc
 
 xpinstall-prompt-header-unknown = Caniatáu i wefan anhysbys osod ategyn?
 xpinstall-prompt-message-unknown = Rydych yn ceisio gosod ychwanegyn o wefan anhysbys. Gwnewch yn siŵr eich bod yn ymddiried yn y wefan hon cyn parhau.
+
 xpinstall-prompt-dont-allow =
     .label = Peidio â Chaniatáu
     .accesskey = P
@@ -44,6 +45,7 @@ xpinstall-disabled = Mae gosod meddalwedd wedi ei analluogi. Cliciwch Galluogi a
 xpinstall-disabled-button =
     .label = Galluogi
     .accesskey = a
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = Mae { $addonName } ({ $addonId }) wedi ei anal
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Rhwystrodd eich gweinyddwr systemau y wefan hon rhag gofyn i chi osod meddalwedd ar eich cyfrifiadur.
 addon-install-full-screen-blocked = Nid yw gosod ychwanegiad yn cael ei ganiatáu wrth fynd i'r modd sgrin lawn neu cyn hynny.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Mae { $addonName } wedi ei ychwanegu at { -brand-short-name }
@@ -69,6 +72,7 @@ addon-removal-title = Tynnu { $name }?
 addon-removal-message = Tynnu { $name } o { -brand-shorter-name }?
 addon-removal-button = Tynnu
 addon-removal-abuse-report-checkbox = Adroddwch yr estyniad hwn i { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +85,7 @@ addon-downloading-and-verifying =
        *[other] Llwytho i lawr a dilysu { $addonCount } ychwanegyn…
     }
 addon-download-verifying = Dilysu
+
 addon-install-cancel-button =
     .label = Diddymu
     .accesskey = D
