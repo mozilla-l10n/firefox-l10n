@@ -4,15 +4,20 @@
 
 places-empty-bookmarks-folder =
     .label = (Nombe jatani)
+
 places-file-close =
     .label = Mikani
     .accesskey = M
+
 places-cmd-close =
     .key = w
+
 places-view-sort-col-name =
     .label = Arikua
+
 places-view-sort-col-url =
     .label = Nani exentani
+
 places-cmd-find-key =
     .key = f
 

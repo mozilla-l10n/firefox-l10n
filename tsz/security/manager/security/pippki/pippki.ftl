@@ -24,3 +24,5 @@ reset-password-button-label =
 
 ## Protected Auth dialog
 
+## Protected authentication alert
+

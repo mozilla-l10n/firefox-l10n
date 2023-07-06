@@ -106,14 +106,6 @@ main-context-menu-video-email =
     .label = Email Video…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Íni ánxitarakuani úra
-    .accesskey = Í
-
-main-context-menu-plugin-hide =
-    .label = Ojchakuera ini anchikurhitarakuani
-    .accesskey = O
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -127,10 +119,6 @@ main-context-menu-frame =
 main-context-menu-frame-reload =
     .label = Eratikuani uininharhitantsï
     .accesskey = E
-
-main-context-menu-frame-bookmark =
-    .label = Kuparatani ini anchitarakuechani
-    .accesskey = K
 
 main-context-menu-frame-save-as =
     .label = Patsani anamutakua esïka…

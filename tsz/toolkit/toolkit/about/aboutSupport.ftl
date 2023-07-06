@@ -6,6 +6,8 @@ a11y-title = Marhuatakua
 
 ## Media titles
 
+## Codec support table
+
 ##
 
 ## Remote Debugging

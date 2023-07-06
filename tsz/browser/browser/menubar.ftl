@@ -102,6 +102,8 @@ menu-view-full-screen =
     .label = Uininharhitantsï
     .accesskey = U
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
