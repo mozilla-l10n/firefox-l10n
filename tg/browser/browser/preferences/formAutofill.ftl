@@ -7,8 +7,10 @@
 
 autofill-manage-addresses-title = Нишониҳои нигоҳдошташуда
 autofill-manage-addresses-list-header = Нишониҳо
+
 autofill-manage-credit-cards-title = Кортҳои кредитии нигоҳдошташуда
 autofill-manage-credit-cards-list-header = Кортҳои кредитӣ
+
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Тоза кардан
@@ -21,6 +23,7 @@ autofill-manage-edit-button = Таҳрир кардан…
 autofill-add-new-address-title = Илова кардани нишонии нав
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Таҳрир кардани нишонӣ
+
 autofill-address-given-name = Ном
 autofill-address-additional-name = Номи падар
 autofill-address-family-name = Насаб
@@ -81,13 +84,16 @@ autofill-address-eircode = Рамзи почта
 autofill-address-country = Кишвар ё минтақа
 autofill-address-tel = Телефон
 autofill-address-email = Почтаи электронӣ
+
 autofill-cancel-button = Бекор кардан
 autofill-save-button = Нигоҳ доштан
 autofill-country-warning-message = Айни ҳол, пуркунии шакл ба таври худкор танҳо барои баъзе кишварҳо дастрас аст.
+
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Илова кардани корти кредитии нав
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Таҳрир кардани корти кредитӣ
+
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -96,6 +102,7 @@ autofill-edit-card-password-prompt =
         [windows] «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти корти кредитиро нишон диҳад. Дастрасиро ба ин ҳисоби «Windows» дар зер тасдиқ намоед.
        *[other] «{ -brand-short-name }» кӯшиш мекунад, ки маълумоти корти кредитиро нишон диҳад.
     }
+
 autofill-card-number = Рақами корт
 autofill-card-invalid-number = Лутфан, рақами корти дурустро ворид намоед
 autofill-card-name-on-card = Ном дар корт

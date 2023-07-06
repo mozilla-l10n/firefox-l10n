@@ -38,9 +38,11 @@ menu-quit =
             [windows] Б
            *[other] Х
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Хомӯш кардани { -brand-shorter-name }
+
 menu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Варақаҳои ба наздикӣ пӯшидашуда
 menu-history-undo-window-menu =
     .label = Равзанаҳои ба наздикӣ пӯшидашуда
-menu-history-reopen-all-tabs = Аз нав кушодани ҳамаи варақаҳо
-menu-history-reopen-all-windows = Аз нав кушодани ҳамаи равзанаҳо
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = Х
 menu-bookmarks-manage =
     .label = Идоракунии хатбаракҳо
-menu-bookmark-current-tab =
-    .label = Гузоштани хатбарак барои варақаи ҷорӣ
-menu-bookmark-edit =
-    .label = Таҳрир кардани ин хатбарак
 menu-bookmark-tab =
     .label = Гузоштани хатбарак барои варақаи ҷорӣ…
 menu-edit-bookmark =

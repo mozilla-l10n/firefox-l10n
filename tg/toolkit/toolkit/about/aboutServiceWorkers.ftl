@@ -9,6 +9,7 @@ about-service-workers-title = Дар бораи коргузорони хизм�
 about-service-workers-main-title = Коргузорони хизматрасонии бақайдгирифташуда
 about-service-workers-warning-not-enabled = Коргузорони хизматрасонӣ фаъол нестанд.
 about-service-workers-warning-no-service-workers = Ягон коргузори хизматрасонӣ ба қайд гирифта нашуд.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Номи зерҳофизаи фаъол:</strong> {
 waiting-cache-name = <strong>Номи зерҳофизаи интизорӣ:</strong> { $name }
 push-end-point-waiting = <strong>Нуқтаи ниҳоии «Push»:</strong> { waiting }
 push-end-point-result = <strong>Нуқтаи ниҳоии «Push»:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Навсозӣ кардан
+
 unregister-button = Аз қайд гирифтан
+
 unregister-error = Ин коргузори хизматрасонӣ аз қайд гирифта нашуд.
+
 waiting = Интизорӣ…

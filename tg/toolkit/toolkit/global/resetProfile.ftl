@@ -9,6 +9,7 @@ refresh-profile-dialog-description = Барои ислоҳ кардани муш
 refresh-profile = Ислоҳ кардани нуқсонҳои кори «{ -brand-short-name }»
 refresh-profile-button = Аз нав сохтани «{ -brand-short-name }»…
 refresh-profile-learn-more = Маълумоти бештар
+
 refresh-profile-progress =
     .title = Нав кардани «{ -brand-short-name }»
 refresh-profile-progress-description = Қариб ба анҷом расид …

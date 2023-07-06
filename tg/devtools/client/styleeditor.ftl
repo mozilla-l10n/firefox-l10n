@@ -20,7 +20,6 @@ styleeditor-save-button = Нигоҳ доштан
     .accesskey = Н
 styleeditor-options-button =
     .tooltiptext = Имконоти муҳаррири услубҳо
-styleeditor-media-rules = Дархостҳои расона
 styleeditor-at-rules = Баёнияҳои «At-rules»
 styleeditor-editor-textbox =
     .data-placeholder = Рамзи CSS-ро дар ин ҷо ворид кунед.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Ягон варақаи услубҳои мувофиқ ёфт нашуд.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

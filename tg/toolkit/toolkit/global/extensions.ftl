@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Бекор кардан
     .accesskey = Б
+
 webext-perms-sideload-text = Барномаи дигар дар компютери шумо ҷузъи иловагиеро насб кард, ки метавонад ба браузери шумо таъсир расонад. Лутфан, дархостҳои ин ҷузъи иловагиро нисбат ба иҷозатҳо баррасӣ кунед ва аз имкони «Фаъол кардан» ё «Бекор кардан» (барои амали ғайрифаъолсозӣ) истифода баред.
 webext-perms-sideload-text-no-perms = Барномаи дигар дар компютери шумо ҷузъи иловагиеро насб кард, ки метавонад ба браузери шумо таъсир расонад. Лутфан, аз имкони «Фаъол кардан» ё «Бекор кардан» (барои амали ғайрифаъолсозӣ) истифода баред.
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Бекор кардан
     .accesskey = Б
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } навсозӣ шудааст. Пеш аз он, ки версия навшуда насб карда мешавад, шумо бояд иҷозатҳои навро тасдиқ намоед. Агар шумо имкони «Бекор кардан»-ро интихоб кунед, версия васеъшавии ҷорӣ нигоҳ дошта мешавад. Ин васеъшавӣ ба зерин дастрасӣ пайдо мекунад:
 webext-perms-update-accept =
     .label = Навсозӣ кардан
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Дархост барои:
 webext-perms-optional-perms-allow =
     .label = Иҷозат додан
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Рад кардан
     .accesskey = D
+
 webext-perms-host-description-all-urls = Дастрас кардани маълумоти шумо барои ҳамаи сомонаҳо
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Дастрас кардани маълумоти шумо барои сомонаҳо дар домени { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Дастрас кардани маълумоти шумо барои { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

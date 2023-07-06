@@ -54,6 +54,7 @@ close-tab =
     .title = Пӯшидани варақа
 show-addon =
     .title = Намоиш додан дар мудири ҷузъҳои иловагӣ
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

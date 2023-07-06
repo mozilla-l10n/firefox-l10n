@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Хатои насбкунӣ
 opensearch-error-duplicate-desc = «{ -brand-short-name }» плагини ҷустуҷӯиро аз “{ $location-url }” насб карда натавонист, зеро ки низоми ҷустуҷӯӣ бо чунин ном аллакай вуҷуд дорад.
+
 opensearch-error-format-title = Формати нодуруст
 opensearch-error-format-desc = «{ -brand-short-name }» низоми ҷустуҷӯиро аз нишонии зерин насб карда натавонист: { $location-url }
+
 opensearch-error-download-title = Хатои боргирӣ
 opensearch-error-download-desc = «{ -brand-short-name }» низоми ҷустуҷӯиро аз нишонии зерин боргирӣ карда натавонист: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = «{ -brand-short-name }» низоми ҷуст
 
 searchbar-submit =
     .tooltiptext = Иҷро кардани ҷустуҷӯ
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Ҷустуҷӯ
+
 searchbar-icon =
     .tooltiptext = Ҷустуҷӯ
 

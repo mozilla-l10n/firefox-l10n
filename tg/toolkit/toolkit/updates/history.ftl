@@ -23,5 +23,7 @@ state-header = Вазъият
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Тафсилот
+
 update-installed-on = Санаи насб: { $date }
+
 update-status = Вазъият: { $status }

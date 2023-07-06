@@ -14,6 +14,7 @@ xpinstall-prompt-message = Шумо дар ҳоли насбкунии ҷузъ�
 
 xpinstall-prompt-header-unknown = Ба сомонаи номаълум иҷозат медиҳед, ки ҷузъи иловагиро насб кунад?
 xpinstall-prompt-message-unknown = Шумо дар ҳоли насбкунии ҷузъи иловагӣ аз сомонаи номаълум қарор доред. Пеш аз идомаи насб, мутмаин шавед, ки шумо ба ин сомона эътимод доред.
+
 xpinstall-prompt-dont-allow =
     .label = Иҷозат дода нашавад
     .accesskey = D
@@ -44,6 +45,7 @@ xpinstall-disabled = Айни ҳол насбкунии нармафзор ға�
 xpinstall-disabled-button =
     .label = Фаъол кардан
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) аз ҷониб�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Маъмури низои шумо дархостҳои ин сомонаро барои насб кардани нармафзор дар компютери шумо манъ кард.
 addon-install-full-screen-blocked = Ҳангоми ё пеш аз фаъол кардани реҷаи экрани пурра, насбкунии ҷузъи иловагӣ иҷозат дода намешавад.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ба { -brand-short-name } илова шуд
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } иҷозати нави шуморо дархост мекунад
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = «{ $name }»-ро тоза мекунед?
 addon-removal-message = { $name }-ро аз { -brand-shorter-name } тоза мекунед?
 addon-removal-button = Тоза кардан
 addon-removal-abuse-report-checkbox = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ҷузъи иловагӣ боргирӣ ва тасдиқ шуда истодаанд…
     }
 addon-download-verifying = Тасдиқ шуда истодааст
+
 addon-install-cancel-button =
     .label = Бекор кардан
     .accesskey = Б

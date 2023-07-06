@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Барои истифода бурдани «{
 firefox-relay-get-unlimited-masks =
     .label = Идоракунии ниқобҳо
     .accesskey = И
-firefox-relay-opt-in-title = Нишонии почтаи электронии худро ҳифз намоед
-firefox-relay-opt-in-subtitle = Илова кардани «{ -relay-brand-name }»
-firefox-relay-generate-mask-title = Нишонии почтаи электронии худро ҳифз намоед
-firefox-relay-generate-mask-subtitle = Эҷод кардани ниқоби «{ -relay-brand-short-name }»
-firefox-relay-opt-in-confirmation-enable =
-    .label = Идома додан
-    .accesskey = И
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Нишонии почтаи электронии худро ҳифз намоед:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

@@ -8,39 +8,38 @@ password-quality-meter = Дараҷаи сифати ниҳонвожа
 
 change-device-password-window =
     .title = Иваз кардани ниҳонвожа
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Дастгоҳи амният: { $tokenName }
 change-password-old = Ниҳонвожаи ҷорӣ:
 change-password-new = Ниҳонвожаи нав:
 change-password-reenter = Ниҳонвожаи нав (такроран):
+
 pippki-failed-pw-change = Ниҳонвожа тағйир дода намешавад.
 pippki-incorrect-pw = Шумо ниҳонвожаи ҷориро нодуруст ворид кардед. Лутфан, аз нав кӯшиш кунед.
 pippki-pw-change-ok = Ниҳонвожа бо муваффақият иваз карда шуд.
+
 pippki-pw-empty-warning = Ниҳонвожаҳо ва калидҳои махфии нигоҳдошташудаи шумо ҳифз карда намешаванд.
 pippki-pw-erased-ok = Шумо ниҳонвожаи худро нест кардед. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Диққат! Шумо ба қарор омадед, ки ниҳонвожаро дигар истифода намебаред. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Айни ҳол шумо дар реҷаи «FIPS» қарор доред. Реҷаи «FIPS» талаб мекунад, ки ниҳонвожа танзим карда шавад.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Аз нав танзим кардани ниҳонвожаи асосӣ
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Аз нав танзим кардани ниҳонвожаи асосӣ
     .style = min-width: 40em
 reset-password-button-label =
     .label = Аз нав танзим кардан
 reset-primary-password-text = Агар шумо ниҳонвожаи асосии худро аз нав танзим кунед, ҳамаи ниҳонвожаҳои нигоҳдошташудаи шумо барои сомонаҳо ва почтаи электронӣ, гувоҳномаҳои шахсӣ ва калидҳои махфӣ гум карда мешаванд. Шумо мутмаин ҳастед, ки мехоҳед ниҳонвожаи асосии худро аз нав танзим кунед?
+
 pippki-reset-password-confirmation-title = Аз нав танзим кардани ниҳонвожаи асосӣ
 pippki-reset-password-confirmation-message = Ниҳонвожаи асосии шумо аз нав танзим карда шуд.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Боргирии гувоҳнома
-    .style = width: 46em
 download-cert-window2 =
     .title = Боргирии гувоҳнома
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Диққат: Агар шумо ниҳонвожаи нусхаи эҳтиётии гувоҳномаи худро фаромӯш кунед, шумо дигар наметавонед, ки ин нусхаи эҳтиётиро барқарор созед. Лутфан, онро сабт карда, дар ҷойи бехатар нигоҳ доред.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Санҷиши ҳаққонияти нишони маҳфуз
-protected-auth-msg = Лутфан, ба воситаи нишон (токен) аз санҷиши ҳаққоният гузаронед. Тарзи санҷиши ҳаққоният аз навъи нишон (токен)-и шумо вобаста аст.
-protected-auth-token = Нишон:
 
 ## Protected authentication alert
 

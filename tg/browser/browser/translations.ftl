@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Саҳифа аз забони { $fromLanguage } ба забони { $toLanguage } тарҷума карда шуд
+
 urlbar-translations-button-loading =
     .tooltiptext = Дар ҳоли тарҷума қарор дорад
+
 translations-panel-settings-button =
     .aria-label = Идоракунии танзимоти тарҷума
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Идоракунии забонҳо
 translations-panel-settings-about = Дар бораи тарҷумаҳо тавассути «{ -brand-shorter-name }»
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Ҳамеша бояд аз забони «{ $language }» тарҷума карда шавад
 translations-panel-settings-always-translate-unknown-language =
     .label = Ҳамеша бояд аз ин забон тарҷума карда шавад
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Ҳеҷ гоҳ бояд аз забони «{ $language }» тарҷума карда нашавад
 translations-panel-settings-never-translate-unknown-language =
     .label = Ҳеҷ гоҳ бояд аз ин забон тарҷума карда нашавад
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Ин сомона бояд ҳеҷ гоҳ тарҷума карда нашавад
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Лутфан, интизор шавед…
 translations-panel-translate-cancel =
     .label = Бекор кардан
+
 translations-panel-error-translating = Ҳангоми тарҷума мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-panel-error-load-languages = Низом забонҳоро бор карда натавонист
 translations-panel-error-load-languages-hint = Пайвасти интернети худро санҷед ва аз нав кӯшиш намоед.
 translations-panel-error-load-languages-hint-button =
     .label = Аз нав кӯшиш кардан
+
 translations-panel-error-unsupported = Тарҷума барои ин саҳифа дастнорас аст
 translations-panel-error-dismiss-button =
     .label = Фаҳмидам
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Ҳангоми боргирӣ кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-delete = Ҳангоми несткунии файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-list = Рӯйхати забонҳои дастрас барои тарҷума ба даст оварда нашуд. Саҳифаро аз нав бор карда, аз нав кӯшиш намоед.
+
 translations-settings-title =
     .title = Танзимоти тарҷума
     .style = min-width: 36em

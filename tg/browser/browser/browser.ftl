@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Тамошокунии хусусӣ)
-    .data-content-title-default = { $content-title } — { -brand-full-name }
-    .data-content-title-private = { $content-title } — { -brand-full-name } (Тамошокунии хусусӣ)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } — (Тамошокунии хусусӣ)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } — (Тамошокунии хусусӣ)
 # These are the default window titles everywhere except macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -54,6 +21,7 @@ browser-main-window-window-titles =
     .data-title-private = Тамошокунии хусусии { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = Тамошокунии хусусии { $content-title } — { -brand-full-name }
+
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -76,11 +44,13 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Тамошокунии хусусӣ
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Тамошокунии хусусӣ
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
+
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Тамошокунии хусусӣ бо «{ -brand-shortcut-name }»
@@ -114,16 +84,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Кушодани лавҳаи иҷозатҳои ҳақиқати виртуалӣ
 urlbar-storage-access-anchor =
     .tooltiptext = Кушодани лавҳаи иҷозатҳо ҳангоми фаъолияти тамошокунӣ
-urlbar-translate-notification-anchor =
-    .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Идора кардани иҷозати дастрасӣ ба равзанаҳо ё экрани шумо дар сомона
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Кушодани лавҳаи паёмҳо оид ба захирагоҳи офлайн
 urlbar-password-notification-anchor =
     .tooltiptext = Кушодани лавҳаи паёмҳо оид ба нигаҳдории ниҳонвожа
-urlbar-translated-notification-anchor =
-    .tooltiptext = Идоракунии тарҷумаи саҳифа
 urlbar-plugins-notification-anchor =
     .tooltiptext = Идоракунии истифодаи плагин
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -147,6 +113,7 @@ urlbar-search-tips-confirm-short = Фаҳмидам
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Маслиҳат:
+
 urlbar-result-menu-button =
     .title = Кушодани меню
 urlbar-result-menu-button-feedback = Изҳори назар
@@ -168,8 +135,10 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Камтар чоп кунед, бештар ёбед: Рост аз навори нишонӣ тавассути { $engineName } ҷустуҷӯ кунед.
 urlbar-search-tips-redirect-2 = Барои дидани пешниҳодҳои ҷустуҷӯ аз { $engineName } ва таърихи тамошокунӣ, ҷустуҷӯи худро аз навори нишонӣ оғоз намоед.
+
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Ҷустуҷӯ осон шуд. Кӯшиш кунед, ки ҷустуҷӯи худро дар ин ҷо тавассути навори нишонӣ ба таври мушаххас иҷро кунед. Барои ба ивазаш намоиш додани нишонии URL, ба Ҷустуҷӯ дар танзимот гузаред.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Барои зудтар пайдо кардани чизи лозимӣ ин миёнбурро интихоб кунед.
@@ -207,10 +176,12 @@ urlbar-midi-blocked =
     .tooltiptext = Шумо барои ин сомона дастрасии «MIDI»-ро манъ кардед.
 urlbar-install-blocked =
     .tooltiptext = Шумо барои ин сомона насбкунии ҷузъи иловагиро манъ кардед.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Таҳрир кардани хатбараки ҷорӣ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -218,10 +189,6 @@ urlbar-star-add-bookmark =
 
 ## Page Action Context Menu
 
-page-action-manage-extension =
-    .label = Идоракунии васеъшавӣ…
-page-action-remove-extension =
-    .label = Тоза кардани васеъшавӣ
 page-action-manage-extension2 =
     .label = Идоракунии васеъшавӣ…
     .accesskey = И
@@ -243,8 +210,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ин дафъа бо зерин ҷустуҷӯ кунед:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Тағйир додани танзимоти ҷустуҷӯ
+
 search-one-offs-context-open-new-tab =
     .label = Ҷустуҷӯ дар варақаи нав
     .accesskey = Ҷ
@@ -254,12 +223,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Танзим кардан ҳамчун низоми ҷустуҷӯии пешфарз барои равзанаи хусусӣ
     .accesskey = Т
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -296,54 +267,71 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Намоиши ҷузъҳои иловагӣ
 quickactions-cmd-addons2 = ҷузъҳои иловагӣ
+
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Идоракунии хатбаракҳо
 quickactions-cmd-bookmarks = хатбаракҳо
+
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Пок кардани таърих
 quickactions-cmd-clearhistory = пок кардани таърих
+
 # Opens about:downloads page
 quickactions-downloads2 = Дидани боргириҳо
 quickactions-cmd-downloads = боргириҳо
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Идоракунии васеъшавиҳо
 quickactions-cmd-extensions = васеъшавиҳо
+
 # Opens the devtools web inspector
 quickactions-inspector2 = Кушодани абзорҳои барномарезӣ
 quickactions-cmd-inspector = тафтишкунанда, абзорҳои барномарезӣ
+
 # Opens about:logins
 quickactions-logins2 = Идоракунии ниҳонвожаҳо
 quickactions-cmd-logins = воридшавиҳо, ниҳонвожаҳо
+
 # Opens about:addons page in the plugins section
 quickactions-plugins = Идоракунии плагинҳо
 quickactions-cmd-plugins = плагинҳо
+
 # Opens the print dialog
 quickactions-print2 = Чоп кардани саҳифа
 quickactions-cmd-print = чоп кардан
+
 # Opens a new private browsing window
 quickactions-private2 = Кушодани равзанаи хусусӣ
 quickactions-cmd-private = тамошокунии хусусӣ
+
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Аз нав сохтани «{ -brand-short-name }»
 quickactions-cmd-refresh = нав кардан
+
 # Restarts the browser
 quickactions-restart = Аз нав оғоз кардани «{ -brand-short-name }»
 quickactions-cmd-restart = аз нав оғоз кардан
+
 # Opens the screenshot tool
 quickactions-screenshot3 = Гирифтани акси экран
 quickactions-cmd-screenshot = акси экран
+
 # Opens about:preferences
 quickactions-settings2 = Идоракунии танзимот
 quickactions-cmd-settings = танзимот, хусусиятҳо, имконот
+
 # Opens about:addons page in the themes section
 quickactions-themes = Идоракунии мавзуъҳо
 quickactions-cmd-themes = мавзуъҳо
+
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Навсозӣ кардани «{ -brand-short-name }»
 quickactions-cmd-update = навсозӣ кардан
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Дидани манбаи саҳифа
 quickactions-cmd-viewsource = намоиши манбаъ, манбаъ
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Маълумоти бештар дар бораи «Амалҳои зуд»
@@ -369,6 +357,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = Н
 bookmark-panel-save-button =
     .label = Нигоҳ доштан
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -396,6 +385,7 @@ identity-passive-loaded = Қисмҳои ин саҳифа бехатар нес
 identity-active-loaded = Шумо барои ин саҳифа муҳофизатро ғайрифаъол кардед.
 identity-weak-encryption = Ин саҳифа рамзгузории камқувватро истифода мебарад.
 identity-insecure-login-forms = Воридшавиҳое, ки шумо дар ин саҳифа ворид мекунед, метавонанд ошкор карда шаванд.
+
 identity-https-only-connection-upgraded = (ба HTTPS такмил ёфт)
 identity-https-only-label = Реҷаи «Танҳо HTTPS»
 identity-https-only-dropdown-on =
@@ -407,16 +397,17 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Агар шумо хоҳед, ки «{ -brand-short-name }» пайвастшавиро ба қадри имкон такмил диҳад, реҷаи «Танҳо HTTPS»-ро барои ин сомона фаъол кунед.
 identity-https-only-info-turn-off2 = Агар саҳифа вайроншуда ба назар расад, шумо метавонед барои аз нав бор кардани ин сомона бо истифодаи «HTTP»-и беэътимод реҷаи «Танҳо HTTPS»-ро хомӯш кунед.
 identity-https-only-info-no-upgrade = Иваз кардани пайвастшавӣ аз HTTP ғайриимкон аст.
+
 identity-permissions-storage-access-header = Кукиҳои байнисомонавӣ
 identity-permissions-storage-access-hint = Тарафҳои зерин метавонанд кукиҳои байнисомонавӣ ва маълумоти сомонаро ҳангоми тамошокунии сомонаи ҷорӣ истифода баранд.
 identity-permissions-storage-access-learn-more = Маълумоти бештар
+
 identity-permissions-reload-hint = Барои татбиқ кардани тағйирот шумо бояд саҳифаро аз нав бор кунед.
 identity-clear-site-data =
     .label = Пок кардани кукиҳо ва иттилооти сомона…
 identity-connection-not-secure-security-view = Шумо ба ин сомона тавассути шабакаи муҳофизатнашуда пайваст шудед.
 identity-connection-verified = Шумо ба ин сомона тавассути шабакаи муҳофизатшуда пайваст шудед.
 identity-ev-owner-label = Гувоҳнома дода шуд ба:
-identity-description-custom-root = Mozilla ин барорандаи гувоҳномаро эътироф намекунад. Эҳтимол аст, ки он аз тарафи низоми амалкунандаи шумо ё аз ҷониби маъмур илова карда шуд. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-custom-root2 = Mozilla ин барорандаи гувоҳномаро эътироф намекунад. Эҳтимол аст, ки он аз тарафи низоми амалкунандаи шумо ё аз ҷониби маъмур илова карда шуд.
 identity-remove-cert-exception =
     .label = Тоза кардани истисно
@@ -425,17 +416,12 @@ identity-description-insecure = Пайвасти шумо бо ин сомона
 identity-description-insecure-login-forms = Маълумоти воридшавие, ки шумо дар ин саҳифа ворид мекунед, ба таври бехатар нигоҳ дошта намешавад ва метавонад ошкор карда шавад.
 identity-description-weak-cipher-intro = Пайвасти шумо бо ин сомона рамзгузории камқувватро истифода мебарад ва хусусӣ намебошад.
 identity-description-weak-cipher-risk = Одамони дигар метавонанд маълумоти шуморо бинанд ё рафтори сомонаро тағйир диҳанд.
-identity-description-active-blocked = «{ -brand-short-name }» қисмҳои ҳифзнашудаи саҳифаи ҷориро манъ кард. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-active-blocked2 = «{ -brand-short-name }» қисмҳои ҳифзнашудаи саҳифаи ҷориро манъ кард.
 identity-description-passive-loaded = Пайвасти шумо хусусӣ нест ва иттилооте, ки шумо бо ин сомона мубодила мекунед, метавонад аз ҷониби одамони дигар дида шавад.
-identity-description-passive-loaded-insecure = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, тасвирҳо). <label data-l10n-name="link">Маълумоти бештар</label>
-identity-description-passive-loaded-mixed = Гарчанде «{ -brand-short-name }» баъзеи муҳтаворо манъ кард, дар ин саҳифа то ҳол муҳтавое (монанди тасвирҳо) вуҷуд дорад, ки бехатар намебошад. <label data-l10n-name="link">Маълумоти бештар</label>
 identity-description-passive-loaded-insecure2 = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, тасвирҳо).
 identity-description-passive-loaded-mixed2 = Гарчанде «{ -brand-short-name }» баъзеи муҳтаворо манъ кард, дар ин саҳифа то ҳол муҳтавое (монанди тасвирҳо) вуҷуд дорад, ки бехатар намебошад.
 identity-description-active-loaded = Ин сомона дорои муҳтавои хатарнок мебошад (масалан, скриптҳо) ва пайвасти шумо ба он хусусӣ нест.
 identity-description-active-loaded-insecure = Маълумоте, ки шумо бо ин сомона мубодила мекунед, метавонад аз тарафи дигарон дида шавад (монанди ниҳонвожаҳо, паёмҳо, кортҳои кредитӣ ва ғайра).
-identity-learn-more =
-    .value = Маълумоти бештар
 identity-disable-mixed-content-blocking =
     .label = Ғайрифаъол кардани муҳофизат
     .accesskey = Ғ
@@ -476,11 +462,13 @@ browser-tab-mute =
         [1] БЕСАДО КАРДАНИ ВАРАҚА
        *[other] БЕСАДО КАРДАНИ { $count } ВАРАҚА
     }
+
 browser-tab-unmute =
     { $count ->
         [1] ФАЪОЛ КАРДАНИ САДОИ ВАРАҚА
        *[other] ФАЪОЛ КАРДАНИ САДОИ { $count } ВАРАҚА
     }
+
 browser-tab-unblock =
     { $count ->
         [1] ПАХШ КАРДАНИ ВАРАҚА
@@ -492,6 +480,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Ворид кардани хатбаракҳо…
     .tooltiptext = Ворид кардани хатбаракҳо аз браузери дигар ба «{ -brand-short-name }».
+
 bookmarks-toolbar-empty-message = Барои дастрасии зуд, хатбаракҳои худро дар ин ҷо дар навори абзорҳои хатбаракҳо гузоред. <a data-l10n-name="manage-bookmarks">Идоракунии хатбаракҳо…</a>
 
 ## WebRTC Pop-up notifications
@@ -512,13 +501,6 @@ popup-select-window-or-screen =
     .label = Равзана ё экран:
     .accesskey = W
 popup-all-windows-shared = Ҳамаи равзанаҳое, ки дар экрани шумо намоёнанд, мубодила карда мешаванд.
-popup-screen-sharing-block =
-    .label = Манъ кардан
-    .accesskey = М
-popup-screen-sharing-always-block =
-    .label = Ҳамеша манъ карда шавад
-    .accesskey = Ҳ
-popup-mute-notifications-checkbox = Бесадо кардани огоҳиҳои сомона ҳангоми мубодила
 
 ## WebRTC window or screen share tab switch warning
 
@@ -531,7 +513,6 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Барои истифода кардани миёнбури «F12», аввал «DevTools»-ро тавассути менюи барномарезии сомона кушоед.
 enable-devtools-popup-description2 = Барои истифода кардани миёнбури «F12», аввал «Абзорҳои барномарезӣ (DevTools)»-ро тавассути менюи «Абзорҳои браузер» кушоед.
 
 ## URL Bar
@@ -540,6 +521,7 @@ enable-devtools-popup-description2 = Барои истифода кардани 
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Нишониеро ҷустуҷӯ кунед ё ворид намоед
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -548,6 +530,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Ҷустуҷӯ дар Интернет
     .aria-label = Ҷустуҷӯ тавассути { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -556,26 +539,32 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯи { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар хатбаракҳо
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар таърих
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯ дар варақаҳо
+
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Вожаҳои ҷустуҷӯиро ворид намоед
     .aria-label = Ҷустуҷӯи амалҳо
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Нишониеро тавассути { $name } ҷустуҷӯ кунед ё ворид намоед
+
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -585,9 +574,11 @@ urlbar-permissions-granted =
     .tooltiptext = Шумо барои ин сомона иҷозатҳои иловагиро таъин кардед.
 urlbar-switch-to-tab =
     .value = Ба варақа гузаштан:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Васеъшавӣ:
+
 urlbar-go-button =
     .tooltiptext = Аз навори ҷойгиршавӣ ба нишонии воридшуда гузаред
 urlbar-page-action-button =
@@ -655,12 +646,14 @@ urlbar-result-action-search-actions = Ҷустуҷӯи амалҳо
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
+
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Пешниҳодҳои { $engine }
+
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Амалҳои зуд
@@ -680,8 +673,10 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Кушодани «Расм-дар-расм» ({ $shortcut })
+
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Пӯшидани «Расм-дар-расм» ({ $shortcut })
+
 picture-in-picture-panel-header = Расм-дар-расм
 picture-in-picture-panel-headline = Ин сомона истифодаи «Расм-дар-расм»-ро тавсия намедиҳад
 picture-in-picture-panel-body = Вақте ки «Расм-дар-расм» фаъол аст, видеоҳо метавонанд мувофиқи дастури барномасоз намоиш дода нашаванд.
@@ -695,9 +690,12 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> дар реҷаи экрани пурра мебошад
 fullscreen-warning-no-domain = Ин ҳуҷҷат дар реҷаи экрани пурра мебошад
+
+
 fullscreen-exit-button = Баромад аз экрани пурра (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Баромад аз экрани пурра (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -705,17 +703,6 @@ pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> к
 pointerlock-warning-no-domain = Ин ҳуҷҷат курсори муши шуморо идора мекунад. Барои ба даст овардани идоракунии курсори муш, тугмаи «Esc»-ро пахш намоед.
 
 ## Subframe crash notification
-
-crashed-subframe-message = <strong>Қисми ин саҳифа вайрон шуд.</strong> Барои ба { -brand-product-name } дар бораи ин масъала хабар додан ва зудтар ҳал кардани он, лутфан, гузориши худро пешниҳод намоед.
-# The string for crashed-subframe-title.title should match crashed-subframe-message,
-# but without any markup.
-crashed-subframe-title =
-    .title = Қисми ин саҳифа вайрон шуд. Барои ба { -brand-product-name } дар бораи ин масъала хабар додан ва зудтар ҳал кардани он, лутфан, гузориши худро пешниҳод намоед.
-crashed-subframe-learnmore-link =
-    .value = Маълумоти бештар
-crashed-subframe-submit =
-    .label = Гузориш додан
-    .accesskey = Г
 
 ## Bookmarks panels, menus and toolbar
 
@@ -768,10 +755,9 @@ bookmarks-search =
     .label = Ҷустуҷӯи хатбаракҳо
 bookmarks-tools =
     .label = Воситаҳои хатбаракҳо
-bookmarks-bookmark-edit-panel =
-    .label = Таҳрир кардани ин хатбарак
 bookmarks-subview-edit-bookmark =
     .label = Таҳрир кардани ин хатбарак…
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -785,9 +771,7 @@ bookmarks-toolbar-placeholder =
     .title = Унсурҳои навори хатбаракҳо
 bookmarks-toolbar-placeholder-button =
     .label = Унсурҳои навори хатбаракҳо
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Гузоштани хатбарак барои варақаи ҷорӣ
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Гузоштани хатбарак барои варақаи ҷорӣ…
@@ -814,11 +798,6 @@ repair-text-encoding-button =
 ## Customize Toolbar Buttons
 
 # Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Ҷузъҳои иловагӣ ва мавзуъҳо
-    .tooltiptext = Ҷузъҳои иловагӣ ва мавзуъҳои худро идора кунед ({ $shortcut })
-# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Танзимот
@@ -827,28 +806,35 @@ toolbar-settings-button =
             [macos] Кушодани танзимот ({ $shortcut })
            *[other] Кушодани танзимот
         }
+
 toolbar-overflow-customize-button =
     .label = Танзимоти навори абзорҳо…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = Ирсоли пайванд тавассути почта
     .tooltiptext = Ирсоли пайванд ба ин саҳифа тавассути почта
+
 toolbar-button-logins =
     .label = Ниҳонвожаҳо
     .tooltiptext = Ниҳонвожаҳои худро бинед ва идора намоед
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Нигоҳ доштани саҳифа
     .tooltiptext = Нигоҳ доштани ин саҳифа ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Кушодани файл
     .tooltiptext = Кушодани файл ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Варақаҳои ҳамоҳангшуда
     .tooltiptext = Намоиш додани варақаҳо аз дастгоҳҳои дигар
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -870,11 +856,6 @@ panel-save-update-password = Ниҳонвожа
 
 ## Add-on removal warning
 
-# Variables:
-#  $name (String): The name of the addon that will be removed.
-addon-removal-title = «{ $name }»-ро тоза мекунед?
-addon-removal-abuse-report-checkbox = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
-
 ##
 
 # "More" item in macOS share menu
@@ -889,6 +870,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Иҷозат додани равзанаҳои зоҳиршаванда барои { $uriHost }
     .accesskey = И
+
 popups-infobar-block =
     .label = Манъ кардани равзанаҳои зоҳиршаванда барои { $uriHost }
     .accesskey = М
@@ -898,9 +880,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ҳангоми баста шудани равзанаҳои зоҳиршаванда, ин паём нишон дода нашавад
     .accesskey = Ҳ
+
 edit-popup-settings =
     .label = Идоракунии танзимоти равзанаҳои зоҳиршаванда…
     .accesskey = И
+
 picture-in-picture-hide-toggle =
     .label = Пинҳон кардани васлаки реҷаи «Расм-дар-расм»
     .accesskey = П
@@ -911,6 +895,7 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Гузаронидани васлаки «Расм-дар-расм» ба тарафи рост
     .accesskey = Г
+
 picture-in-picture-move-toggle-left =
     .label = Гузаронидани васлаки «Расм-дар-расм» ба тарафи чап
     .accesskey = Г
@@ -925,32 +910,39 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Паймоиш
+
 navbar-downloads =
     .label = Боргириҳо
+
 navbar-overflow =
     .tooltiptext = Абзорҳои бештар…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Чоп кардан
     .tooltiptext = Чоп кардани саҳифаи ҷорӣ… ({ $shortcut })
+
 navbar-home =
     .label = Саҳифаи асосӣ
     .tooltiptext = Саҳифаи асосии «{ -brand-short-name }»
+
 navbar-library =
     .label = Китобхона
     .tooltiptext = Намоиш додани таърих, хатбаракҳои нигоҳдошташуда ва ғайра
+
 navbar-search =
     .title = Ҷустуҷӯ
-navbar-accessibility-indicator =
-    .tooltiptext = Хусусиятҳои қобилияти дастрасӣ фаъоланд
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Варақаҳои браузер
+
 tabs-toolbar-new-tab =
     .label = Варақаи нав
+
 tabs-toolbar-list-all-tabs =
     .label = Рӯйхати ҳамаи варақаҳо
     .tooltiptext = Рӯйхати ҳамаи варақаҳо
@@ -967,6 +959,7 @@ data-reporting-notification-message = «{ -brand-short-name }» баъзе ма�
 data-reporting-notification-button =
     .label = Интихоб кунед, ки чӣ дастрас мешавад
     .accesskey = И
+
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Тамошокунии махфӣ
 
@@ -998,25 +991,21 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = { -brand-short-name } ин саҳифаро аз боркунии дубораи худкор манъ кард.
 refresh-blocked-redirect-label = { -brand-short-name } ин саҳифаро аз интиқоли дубораи худкор ба саҳифаи дигар манъ кард.
+
 refresh-blocked-allow =
     .label = Иҷозат додан
     .accesskey = A
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-relay = Барои муҳофизат кардани шумо аз ҳамлаҳо ва мактубҳои номатлуб «{ -relay-brand-name }» ба нишонии почтаи электронии ҳақиқии шумо ниқоб мепӯшад.
-firefox-relay-offer-how-we-integrate = Агар шумо идома диҳед, минбаъд метавонед барои почтаи электронӣ ниқобҳои «{ -relay-brand-short-name }»-и навро рост аз мудири ниҳонвожаҳои «{ -brand-shorter-name }» эҷод намоед.
-# Variables:
-#  $sitename (String): name of the site where user enters their Relay mask
-#  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-does = Мо ҳамаи паёмҳои электрониро аз <strong>{ $sitename }</strong> ба <strong>{ $useremail }</strong> интиқол медиҳем.
-
 ## Popup Notification
 
 firefox-relay-offer-why-to-use-relay = Ниқобҳои муҳофизатии мо бехатар ва дар истифода осон буда, шахсияти шуморо ҳифз мекунанд ва тавассути пинҳон кардани нишонии почтаи электронии шумо мактубҳои номатлубро пешгирӣ мекунанд.
+
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Ҳамаи паёмҳои электроние, ки ба ниқобҳои муҳофизатии почтаи электронии шумо фиристода мешаванд, дарҳол ба <strong>{ $useremail }</strong> интиқол дода мешаванд (агар шумо онҳоро барҳам надиҳед).
+
 firefox-relay-offer-legal-notice = Вақте ки шумо имкони «Истифодаи ниқоби муҳофизатии почтаи электронӣ»-ро зер мекунед, шумо ҳамзамон бо <label data-l10n-name="tos-url">Шартҳои хизматрасонӣ</label> ва <label data-l10n-name="privacy-url">Огоҳномаи махфият</label> розӣ мешавед.
 
 ## Add-on Pop-up Notifications
@@ -1049,6 +1038,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Воридшавиҳо ва ниҳонвожаҳо
-login-filter =
-    .placeholder = Ҷустуҷӯи воридшавиҳо
-create-login-button = Эҷод кардани воридшавии нав
+
 about-logins-login-filter =
     .placeholder = Ҷустуҷӯи воридшавиҳо
     .key = F
+
 create-new-login-button =
     .title = Эҷод кардани воридшавии нав
+
 fxaccounts-sign-in-text = Ниҳонвожаҳои худро дар дастгоҳҳои дигари худ ба даст оред
 fxaccounts-sign-in-sync-button = Барои ҳамоҳангсозӣ ворид шавед
 fxaccounts-avatar-button =
@@ -111,9 +111,6 @@ login-item-copied-password-button-text = Нусха бардошта шуд!
 login-item-save-changes-button = Нигоҳ доштани тағйирот
 login-item-save-new-button = Нигоҳ доштан
 login-item-cancel-button = Бекор кардан
-login-item-time-changed = Санаи тағйири охирин: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Санаи эҷод: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Санаи истифодаи охирин: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -139,16 +136,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Барои таҳрир к�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = воридшавии нигоҳдошташударо таҳрир кунад
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Барои дидани ниҳонвожаи худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ниҳонвожаи нигоҳдошташударо нишон диҳад
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Барои нусха бардоштани ниҳонвожаи худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ниҳонвожаи нигоҳдошташударо нусха бардорад
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Барои содир кардани воридшавиҳои худ, маълумоти корбари «Windows»-и худро ворид кунед. Ин амал барои муҳофизат кардани амнияти ҳисоби шумо кумак мерасонад.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,6 +167,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Бекор кардан
 confirmation-dialog-dismiss-button =
     .title = Бекор кардан
+
 about-logins-confirm-remove-dialog-title = Ин воридшавиро тоза мекунед?
 confirm-delete-dialog-message = Ин амал бекор карда намешавад.
 about-logins-confirm-remove-dialog-confirm-button = Тоза кардан
@@ -179,11 +180,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Тоза кардан
        *[other] Ҳамаро тоза кардан
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ҳа, ин воридшавиро тоза намоед
        *[other] Ҳа, ин воридшавиҳоро тоза намоед
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Воридшавии { $count }-ро тоза мекунед?
@@ -194,6 +197,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] Ин амал воридшавиеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, тоза мекунад, аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
        *[other] Ин амал воридшавиҳоеро, ки шумо дар «{ -brand-short-name }» нигоҳ доштед, тоза мекунад, аз он ҷумла, ҳамаи ҳушдорҳо оид ба вайронкуниҳое, ки дар ин ҷо пайдо мешаванд, тоза карда мешаванд. Шумо ин амалро пас аз иҷро бекор карда наметавонед.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Воридшавии { $count }-ро аз ҳамаи дастгоҳҳо тоза мекунед?
@@ -210,8 +214,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Содир кардани воридшавиҳо ва ниҳонвожаҳо
 about-logins-confirm-export-dialog-message = Ниҳонвожаҳои шумо дар шакли матни хондашаванда нигоҳ дошта мешаванд (масалан, BadP@ssw0rd), бинобар ин, ҳар касе, ки метавонад файлро кушояд, ҳам метавонад ниҳонвожаҳоро бинад.
 about-logins-confirm-export-dialog-confirm-button = Содирот…
+
 about-logins-alert-import-title = Воридот анҷом ёфт
 about-logins-alert-import-message = Дидани ҷамъбасти муфассал оид ба воридот
+
 confirm-discard-changes-dialog-title = Тағйироти захиранашударо бекор мекунед?
 confirm-discard-changes-dialog-message = Ҳамаи тағироти захиранашуда гум мешаванд.
 confirm-discard-changes-dialog-confirm-button = Рад кардан
@@ -224,7 +230,6 @@ about-logins-breach-alert-date = Ин ҳамла санаи { DATETIME($date, da
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ба { $hostname } гузаред
-about-logins-breach-alert-learn-more-link = Маълумоти бештар
 
 ## Vulnerable Password notification
 
@@ -242,6 +247,7 @@ about-logins-vulnerable-alert-learn-more-link = Маълумоти бештар
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Воридшавӣ барои { $loginTitle } бо ин номи корбар аллакай вуҷуд дорад. <a data-l10n-name="duplicate-link">Ба воридшавии мавҷудбуда мегузаред?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Ҳангоми кӯшиши нигоҳ доштани ин ниҳонвожа хато ба миён омад.
 
@@ -290,10 +296,12 @@ about-logins-import-dialog-items-added =
     { $count ->
        *[other] <span>Воридшавиҳои нав илова шуданд:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
        *[other] <span>Воридшавиҳои мавҷудбуда навсозӣ шудаанд:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Воридшавиҳои такрорӣ ёфт шуданд:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ворид нашудаанд)</span>
@@ -303,6 +311,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Хатоҳо:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ворид нашудаанд)</span>
     }
 about-logins-import-dialog-done = Тайёр
+
 about-logins-import-dialog-error-title = Хатои воридот
 about-logins-import-dialog-error-conflicting-values-title = Якчанд қимати ихтилофнок барои як воридшавӣ
 about-logins-import-dialog-error-conflicting-values-description = Барои мисол: якчанд номи корбар, ниҳонвожа, нишонии URL ва ғайра барои як воридшавӣ.
@@ -316,8 +325,10 @@ about-logins-import-dialog-error-no-logins-imported = Ягон воридшав�
 about-logins-import-dialog-error-learn-more = Маълумоти бештар
 about-logins-import-dialog-error-try-import-again = Кӯшиши воридкуниро аз нав такрор кунед…
 about-logins-import-dialog-error-cancel = Бекор кардан
+
 about-logins-import-report-title = Ҷамъбасти воридот
 about-logins-import-report-description = Воридшавиҳо ва ниҳонвожаҳо ба «{ -brand-short-name }» ворид шудаанд.
+
 #
 # Variables:
 #  $number (number) - The number of the row

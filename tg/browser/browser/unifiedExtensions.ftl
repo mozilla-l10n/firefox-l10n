@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Кушодани меню барои { $extensionName }
+
 unified-extensions-item-message-manage = Идоракунии васеъшавӣ
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Васл кардан ба навори абзорҳо
+
 unified-extensions-context-menu-manage-extension =
     .label = Идоракунии васеъшавӣ
+
 unified-extensions-context-menu-remove-extension =
     .label = Тоза кардани васеъшавӣ
+
 unified-extensions-context-menu-report-extension =
     .label = Шикоят дар бораи васеъшавӣ
+
 unified-extensions-context-menu-move-widget-up =
     .label = Ба боло гузоштан
+
 unified-extensions-context-menu-move-widget-down =
     .label = Ба поён гузоштан
 

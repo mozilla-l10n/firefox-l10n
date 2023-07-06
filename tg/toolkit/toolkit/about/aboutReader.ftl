@@ -4,6 +4,7 @@
 
 about-reader-loading = Бор шуда истодааст…
 about-reader-load-error = Мақола аз ин саҳифа бор карда нашуд
+
 about-reader-color-scheme-light = Равшан
     .title = Нақшаи ранги «Равшан»
 about-reader-color-scheme-dark = Торик
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Сепия
     .title = Нақшаи ранги «Сепия»
 about-reader-color-scheme-auto = Худкор
     .title = Нақшаи ранги «Худкор»
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

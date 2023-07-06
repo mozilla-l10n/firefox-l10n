@@ -14,11 +14,15 @@ about-config-intro-warning-button = Таваккалро қабул кунед �
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Тағйир додани ин бартариҳо метавонад ба кор ё амнияти «{ -brand-short-name }» таъсир расонад.
+
 about-config-page-title = Хусусиятҳои иловагӣ
+
 about-config-search-input1 =
     .placeholder = Ҷустуҷӯи номи хусусият
 about-config-show-all = Ҳамаро намоиш додан
+
 about-config-show-only-modified = Намоиш додани танҳо хусусиятҳои тағйирёфта
+
 about-config-pref-add-button =
     .title = Илова кардан
 about-config-pref-toggle-button =

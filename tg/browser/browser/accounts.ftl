@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Анҷом додани танзими ҳисоб
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Ҳисоб пайваст нашуд
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Фиристодан ба ҳамаи дастгоҳҳо
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Идоракунии дастгоҳҳо…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Идоракунии дастгоҳҳо…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Ягон дастгоҳ пайваст нашуд
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Маълумоти бештар дар бораи фиристодани варақаҳо…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Пайваст кардани дастгоҳи дигар…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Ҳисоби худро тасдиқ кун�
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Ин компютер бо { $deviceName } пайваст карда шуд.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Ин компютер бо дастгоҳи нав пайваст карда шуд.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Шумо бо муваффақият ворид шудед
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Пайвастшавии ин компютер қатъ карда шуд.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Варақаи қабулшуда
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Варақа аз { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Рарақаҳои қабулшуда
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

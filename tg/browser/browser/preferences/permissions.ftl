@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Истисноҳо
-    .style = width: 45em
 permissions-window2 =
     .title = Истисноҳо
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Нишонии сомона
     .accesskey = Н
+
 permissions-block =
     .label = Манъ кардан
     .accesskey = М
+
 permissions-disable-etp =
     .label = Илова кардани истисно
     .accesskey = И
+
 permissions-session =
     .label = Барои ҷаласа иҷозат додан
     .accesskey = Б
+
 permissions-allow =
     .label = Иҷозат додан
     .accesskey = И
+
 permissions-button-off =
     .label = Хомӯш кардан
     .accesskey = Х
+
 permissions-button-off-temporarily =
     .label = Муваққатан хомӯш кардан
     .accesskey = М
+
 permissions-site-name =
     .label = Сомона
+
 permissions-status =
     .label = Вазъият
+
 permissions-remove =
     .label = Тоза кардани сомона
     .accesskey = Т
+
 permissions-remove-all =
     .label = Тоза кардани ҳамаи сомонаҳо
     .accesskey = Т
+
 permission-dialog =
     .buttonlabelaccept = Нигоҳ доштани тағйирот
     .buttonaccesskeyaccept = Н
+
 permissions-autoplay-menu = Пешфарз барои ҳамаи сомонаҳо:
+
 permissions-searchbox =
     .placeholder = Ҷустуҷӯи сомонаҳо
+
 permissions-capabilities-autoplay-allow =
     .label = Иҷозат додани аудио ва видео
 permissions-capabilities-autoplay-block =
     .label = Манъ кардани аудио
 permissions-capabilities-autoplay-blockall =
     .label = Манъ кардани аудио ва видео
+
 permissions-capabilities-allow =
     .label = Иҷозат додан
 permissions-capabilities-block =
     .label = Манъ кардан
 permissions-capabilities-prompt =
     .label = Ҳамеша пурсидан
+
 permissions-capabilities-listitem-allow =
     .value = Иҷозат додан
 permissions-capabilities-listitem-block =
     .value = Манъ кардан
 permissions-capabilities-listitem-allow-session =
     .value = Барои ҷаласа иҷозат додан
+
 permissions-capabilities-listitem-off =
     .value = Ғайрифаъол кардан
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Лутфан, номи дурусти мизбо
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Шумо барои сомонаҳои зерин муҳофизатро ғайрифаъол кардед.
 permissions-exceptions-etp-window2 =
     .title = Истисноҳо барои муҳофизати такмилёфта аз пайгирӣ
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Шумо метавонед муайя�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Истисноҳо - Кукиҳо ва иттилооти сомона
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Истисноҳо - Кукиҳо ва иттилооти сомона
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Шумо метавонед муайян к
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Шумо метавонед реҷаи 
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Сомонаҳои иҷозатдодашуда - Равзанаҳои зоҳиршаванда
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Сомонаҳои иҷозатдодашуда - Равзанаҳои зоҳиршаванда
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Шумо метавонед муайян к�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Истисно - Воридшавиҳои нигоҳдошташуда
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Истисно - Воридшавиҳои нигоҳдошташуда
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Воридшавиҳо барои с�
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Сомонаҳои иҷозатдодашуда - Насбкунии ҷузъҳои иловагӣ
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Сомонаҳои иҷозатдодашуда - Насбкунии ҷузъҳои иловагӣ
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Шумо метавонед муайян к
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Танзимот - Пахши худкор
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Танзимот - Пахши худкор
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Дар ин ҷо шумо метавонед с
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Танзимот - Иҷозатҳои огоҳнома
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Танзимот - Иҷозатҳои огоҳнома
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Ин амал ҳамаи сомон
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Танзимот - Иҷозатҳои ҷойгиршавӣ
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Танзимот - Иҷозатҳои ҷойгиршавӣ
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Ин амал ҳамаи сомонаҳ
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Танзимот - Иҷозатҳои ҳақиқати виртуалӣ
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Танзимот - Иҷозатҳои ҳақиқати виртуалӣ
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Ин амал ҳамаи сомонаҳоер
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Танзимот - Иҷозатҳои камера
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Танзимот - Иҷозатҳои камера
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Ин амал ҳамаи сомонаҳо
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Танзимот - Иҷозатҳои микрофон
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Танзимот - Иҷозатҳои микрофон
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Танзимот - Иҷозатҳои баландгӯяк
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Сомонаҳои зерин интихоби дастгоҳи барориши аудиоро дархост карданд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои интихоби дастгоҳи барориши аудио иҷозат доранд.
+
 permissions-exceptions-doh-window =
     .title = Истисноҳои сомона барои «DNS тавассути HTTPS»
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } наметавонад, ки аз DNS-и бехатар дар ин сомонаҳо ва зердоменҳои он истифода барад.
+
 permissions-doh-entry-field = Номи домени сомонаро ворид намоед
     .accesskey = Н
+
 permissions-doh-add-exception =
     .label = Илова кардан
     .accesskey = И
+
 permissions-doh-col =
     .label = Домен
+
 permissions-doh-remove =
     .label = Тоза кардан
     .accesskey = Т
+
 permissions-doh-remove-all =
     .label = Ҳамаро тоза кардан
     .accesskey = Ҳ

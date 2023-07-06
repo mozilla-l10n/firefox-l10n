@@ -39,9 +39,11 @@ compatibility-issue-occurrences =
         [one] { $number } масъала
        *[other] { $number } масъала
     }
+
 compatibility-no-issues-found = Ягон мушкилии мувофиқат ёфт нашуд.
 compatibility-close-settings-button =
     .title = Пӯшидани танзимот
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

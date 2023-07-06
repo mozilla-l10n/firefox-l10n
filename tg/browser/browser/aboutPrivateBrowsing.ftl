@@ -22,10 +22,12 @@ about-private-browsing-not-private = Айни ҳол шумо дар равза�
 about-private-browsing-info-description-private-window = Равзанаи хусусӣ: Ҳангоми пӯшидани ҳамаи равзанаҳои хусусӣ «{ -brand-short-name }» таърихи ҷустуҷӯ ва тамошокунии шуморо тоза мекунад. Аммо ин амал шуморо беном намегузорад.
 about-private-browsing-info-description-simplified = Ҳангоми пӯшидани ҳамаи равзанаҳои хусусӣ «{ -brand-short-name }» таърихи ҷустуҷӯ ва тамошокунии шуморо тоза мекунад, аммо ин амал шуморо беном намегузорад.
 about-private-browsing-learn-more-link = Маълумоти бештар
+
 about-private-browsing-hide-activity = Фаъолият ва макони худро дар ҳамаи ҷойҳое, ки паймоиш мекунед, пинҳон намоед
 about-private-browsing-get-privacy = Дар ҳама ҷое, ки шумо тамошо мекунед, муҳофизати амниятро ба даст оред.
 about-private-browsing-hide-activity-1 = Бо { -mozilla-vpn-brand-name } фаъолияти тамошокунӣ ва ҷойгиршавии худро пинҳон намоед. Як зеркунӣ пайвасти бехатарро эҷод мекунад, ҳатто дар шабакаи ҷамъиятии Wi-Fi.
 about-private-browsing-prominent-cta = Бо { -mozilla-vpn-brand-name } хусусияти худро нигоҳ доред
+
 about-private-browsing-focus-promo-cta = «{ -focus-brand-name }»-ро боргирӣ намоед
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Тамошокунии хусусӣ дар роҳ
 about-private-browsing-focus-promo-text = Барномаи мобилии махсуси мо барои тамошокунии хусусӣ ҳар вақт таърих ва кукиҳои шуморо тоза мекунад.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Тамошокунии хусус�
 about-private-browsing-focus-promo-text-b = Барои он ҷустуҷӯҳои шахсие, ки шумо намехоҳед браузери асосии мобилии шумо бинад, аз { -focus-brand-name } истифода баред.
 about-private-browsing-focus-promo-header-c = Махфияти насли оянда дар дастгоҳҳои мобилӣ
 about-private-browsing-focus-promo-text-c = Ҳар вақте ки { -focus-brand-name } реклама ва васоити пайгириро манъ мекунад, он ҳам таърихи шуморо пок менамояд.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Пӯшидан
+
 about-private-browsing-promo-close-button =
     .title = Пӯшидан
 

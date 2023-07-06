@@ -41,7 +41,9 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Андозаи миёнҷӣ:
+
 perftools-custom-threads-label = Илова кардани ҷараёнҳои фармоишӣ аз рӯйи ном:
+
 perftools-devtools-interval-label = Фосила:
 perftools-devtools-threads-label = Ҷараёнҳо:
 perftools-devtools-settings-label = Танзимот
@@ -79,8 +81,6 @@ perftools-thread-renderer =
     .title = Вақте ки «WebRender» фаъол аст, ин ҷараён дархостҳои «OpenGL»-ро иҷро мекунад
 perftools-thread-render-backend =
     .title = Ҷараёни «WebRender RenderBackend»
-perftools-thread-paint-worker =
-    .title = Ҷараёнест, ки дар он расмкашӣ иҷро мешавад, вақте ки расмкашӣ берун аз ҷараёни асосӣ фаъол аст
 perftools-thread-timer =
     .title = Вақтсанҷҳои коркарди ҷараёнҳо (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -111,6 +111,7 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Рад кардани интихоби болозикр ва сабт кардани ҳамаи ҷараёнҳои бақайдгирифташуда
+
 perftools-tools-threads-input-label =
     .title = Ин номҳои ҷараёнҳо дар рӯйхате бо вергул ҷудошуда, барои фаъол кардани профилсозии ҷараёнҳо дар профилсоз истифода мешаванд. Ном метавонад ба номи ҷараёне, ки илова мешавад, танҳо қисман мувофиқат кунад. Фосилаҳо байни номҳо бояд бо диққат истифода шаванд.
 
@@ -118,6 +119,7 @@ perftools-tools-threads-input-label =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Нав</b>: Акнун { -profiler-brand-name } ба Абзорҳои барномасозӣ илова карда шудааст. <a>Маълумоти бештар</a> дар бораи ин абзори нави пурқувват.
+
 perftools-onboarding-close-button =
     .aria-label = Пӯшидани паёми интиқол
 
@@ -128,19 +130,29 @@ perftools-onboarding-close-button =
 # devtools/client/performance-new/popup/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
 perftools-presets-web-developer-label = Барномарезии сомонаҳо
 perftools-presets-web-developer-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои аксари барномаҳои веб бо хароҷоти иловагии паст.
+
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
+
 perftools-presets-graphics-label = Графика
 perftools-presets-graphics-description = Танзимот барои тафтиши хатоҳои графикӣ дар { -brand-shorter-name }.
+
 perftools-presets-media-label = Расона
 perftools-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
+
 perftools-presets-networking-label = Шабакасозӣ
 perftools-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
+
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Қувва
 perftools-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
+
 perftools-presets-custom-label = Фармоишӣ
 
 ##

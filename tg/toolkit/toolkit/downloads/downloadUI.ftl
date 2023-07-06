@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Набаромадан
        *[other] Набаромадан
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Агар шумо ҳозир ба реҷаи офлайн гузаред, 1 боргирӣ бекор карда мешавад. Шумо мутмаин ҳастед, ки мехоҳед аз барнома бароед?
        *[other] Агар шумо ҳозир ба реҷаи офлайн гузаред, { $downloadsCount } боргирӣ бекор карда мешаванд. Шумо мутмаин ҳастед, ки мехоҳед аз барнома бароед?
     }
 download-ui-dont-go-offline-button = Дар алоқа истодан
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Агар шумо ҳозир ҳамаи равзанаҳои тамошокунии хусусиро пӯшед, 1 боргирӣ бекор карда мешавад. Шумо мутмаин ҳастед, ки мехоҳед аз реҷаи тамошокунии хусусӣ бароед?
        *[other] Агар шумо ҳозир ҳамаи равзанаҳои тамошокунии хусусиро пӯшед, { $downloadsCount } боргирӣ бекор карда мешаванд. Шумо мутмаин ҳастед, ки мехоҳед аз реҷаи тамошокунии хусусӣ бароед?
     }
 download-ui-dont-leave-private-browsing-button = Истодан дар тамошокунии хусусӣ
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Бекор кардани 1 боргирӣ

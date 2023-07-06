@@ -34,15 +34,6 @@ about-networking-messages-received = Паёмҳои қабулшуда
 about-networking-bytes-sent = Байтҳои ирсолшуда
 about-networking-bytes-received = Байтҳои қабулшуда
 about-networking-logging = Сабти рӯйдодҳо
-about-networking-log-tutorial =
-    Барои гирифтани дастурҳо оид ба истифодаи ин абзор
-    ба <a data-l10n-name="logging">Сабти рӯйдодҳои HTTP</a> нигаред.
-about-networking-current-log-file = Файли сабти рӯйдодҳои ҷорӣ:
-about-networking-current-log-modules = Модулҳои сабти рӯйдодҳои ҷорӣ:
-about-networking-set-log-file = Танзими файли сабти рӯйдодҳо
-about-networking-set-log-modules = Танзими модули сабти рӯйдодҳо
-about-networking-start-logging = Оғоз кардани сабти рӯйдодҳо
-about-networking-stop-logging = Анҷом додани сабти рӯйдодҳо
 about-networking-dns-lookup = Дархости DNS
 about-networking-dns-lookup-button = Ҳар кардан
 about-networking-dns-domain = Домен:

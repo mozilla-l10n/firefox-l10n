@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Модулҳои сабти рӯйдодҳои
 url-classifier-debug-modules = Модулҳои сабти рӯйдодҳои ҷорӣ
 url-classifier-debug-sbjs-modules = Сабти рӯйдодҳои JS-и тамошокунии бехатар
 url-classifier-debug-file = Файли сабти рӯйдодҳои ҷорӣ
+
 url-classifier-trigger-update = Оғоз кардани навсозӣ
 url-classifier-not-available = Дастнорас
 url-classifier-disable-sbjs-log = Ғайрифаъол кардани сабти рӯйдодҳои JS-и тамошокунии бехатар
@@ -49,5 +50,9 @@ url-classifier-disabled = Ғайрифаъол аст
 url-classifier-updating = навсозӣ
 url-classifier-cannot-update = навсозӣ карда нашуд
 url-classifier-success = муваффақият
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = хатои навсозӣ ({ $error })
 url-classifier-download-error = хатои боргирӣ ({ $error })

@@ -7,14 +7,19 @@
 
 appmenuitem-banner-update-downloading =
     .label = Навсозии { -brand-shorter-name } боргирӣ шуда истодааст
+
 appmenuitem-banner-update-available =
     .label = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
+
 appmenuitem-banner-update-manual =
     .label = Навсозӣ дастрас аст — ҳозир боргирӣ кунед
+
 appmenuitem-banner-update-unsupported =
     .label = Навсозӣ намешавад — низом мувофиқат намекунад
+
 appmenuitem-banner-update-restart =
     .label = Навсозӣ дастрас аст — ҳозир браузерро аз нав оғоз кунед
+
 appmenuitem-new-tab =
     .label = Варақаи нав
 appmenuitem-new-window =
@@ -53,6 +58,7 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Пӯшидани менюи барномаҳо
     .label = { -brand-short-name }
+
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -73,23 +79,30 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Барои ҳамоҳангсозӣ ворид шавед…
 appmenu-remote-tabs-turn-on-sync =
     .label = Фаъол кардани ҳамоҳангсозӣ…
+
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Намоиш додани варақаҳои бештар
     .tooltiptext = Намоиш додани варақаҳои бештар аз ин дастгоҳ
+
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ягон варақаи кушодашуда нест
+
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Барои дидани рӯйхати варақаҳо аз дастгоҳҳои дигари худ, ҳамоҳангсозии варақаҳоро фаъол созед.
+
 appmenu-remote-tabs-opensettings =
     .label = Танзимот
+
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Мехоҳед, ки варақаҳои худро аз дастгоҳҳои дигар дар ин ҷо бинед?
+
 appmenu-remote-tabs-connectdevice =
     .label = Пайваст кардани дастгоҳи дигар
 appmenu-remote-tabs-welcome = Дидани рӯйхати варақаҳо аз дастгоҳҳои дигар.
 appmenu-remote-tabs-unverified = Ҳисоби шумо бояд тасдиқ карда шавад.
+
 appmenuitem-fxa-toolbar-sync-now2 = Ҳозир ҳамоҳанг кунед
 appmenuitem-fxa-sign-in = Ворид шудан ба { -brand-product-name }
 appmenuitem-fxa-manage-account = Идоракунии ҳисоб
@@ -103,12 +116,14 @@ appmenu-fxa-sync-and-save-data2 = Ҳамоҳангсозӣ ва нигоҳ до�
 appmenu-fxa-signed-in-label = Ворид шудан
 appmenu-fxa-setup-sync =
     .label = Фаъол кардани ҳамоҳангсозӣ…
+
 appmenuitem-save-page =
     .label = Нигоҳ доштани саҳифа ҳамчун…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Чӣ нав аст
+
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -122,39 +137,52 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Профилсоз
     .tooltiptext = Профили самаранокро сабт кунед
+
 profiler-popup-button-recording =
     .label = Профилсоз
     .tooltiptext = Профилсоз профилеро сабт карда истодааст
+
 profiler-popup-button-capturing =
     .label = Профилсоз
     .tooltiptext = Профилсоз профилеро нусха бардошта истодааст
-profiler-popup-title =
-    .value = { -profiler-brand-name }
+
 profiler-popup-header-text = { -profiler-brand-name }
+
 profiler-popup-reveal-description-button =
     .aria-label = Намоиши маълумоти бештар
+
 profiler-popup-description-title =
     .value = Сабт кунед, таҳлил кунед, мубодила намоед
+
 profiler-popup-description = Бо интишори профилҳо барои мубодила бо дастаи худ, дар масъалаҳои самаранокӣ якҷоя кор кунед.
+
 profiler-popup-learn-more-button =
     .label = Маълумоти бештар
+
 profiler-popup-settings =
     .value = Танзимот
+
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Таҳрир кардани танзимот…
+
 profiler-popup-recording-screen = Сабт шуда истодааст…
+
 profiler-popup-start-recording-button =
     .label = Оғози сабт
+
 profiler-popup-discard-button =
     .label = Рад кардан
+
 profiler-popup-capture-button =
     .label = Аксгирӣ
+
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
+
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -177,22 +205,28 @@ profiler-popup-capture-shortcut =
 profiler-popup-presets-web-developer-description = Танзимоти тавсияшуда барои ислоҳи нуқсонҳои аксари барномаҳои веб бо хароҷоти иловагии паст.
 profiler-popup-presets-web-developer-label =
     .label = Барномарезии сомонаҳо
+
 profiler-popup-presets-firefox-description = Танзимоти тавсияшуда барои профилсозии { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
+
 profiler-popup-presets-graphics-description = Танзимот барои тафтиши хатоҳои графикӣ дар { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Графика
+
 profiler-popup-presets-media-description2 = Танзимот барои тафтиши хатоҳои аудио ва видео дар { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Расона
+
 profiler-popup-presets-networking-description = Танзимот барои тафтиши хатоҳои шабакасозӣ дар { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Шабакасозӣ
+
 profiler-popup-presets-power-description = Танзимот барои тафтиши хатоҳои истифодаи қувваи барқ дар { -brand-shorter-name }, бо хароҷоти паст.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Қувва
+
 profiler-popup-presets-custom-label =
     .label = Фармоишӣ
 
@@ -200,8 +234,6 @@ profiler-popup-presets-custom-label =
 
 appmenu-manage-history =
     .label = Идоракунии таърих
-appmenu-reopen-all-tabs = Аз нав кушодани ҳамаи варақаҳо
-appmenu-reopen-all-windows = Аз нав кушодани ҳамаи равзанаҳо
 appmenu-restore-session =
     .label = Барқарор кардани ҷаласаи қаблӣ
 appmenu-clear-history =
@@ -260,6 +292,7 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Танзимоти навори абзорҳо…
+
 appmenu-developer-tools-subheader = Абзорҳои браузер
 appmenu-developer-tools-extensions =
     .label = Васеъшавиҳо барои барномасозон
