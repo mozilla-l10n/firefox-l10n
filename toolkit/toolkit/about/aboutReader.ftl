@@ -4,6 +4,7 @@
 
 about-reader-loading = Ladataan…
 about-reader-load-error = Artikkelin lataaminen sivulta epäonnistui
+
 about-reader-color-scheme-light = Vaalea
     .title = Vaalea väriteema
 about-reader-color-scheme-dark = Tumma
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Seepia
     .title = Seepiamainen väriteema
 about-reader-color-scheme-auto = Automaattinen
     .title = Automaattinen väriteema
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

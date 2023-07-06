@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Itsenäiset äänet
-colorway-collection-independent-voices-description = Väri voi muuttaa kulttuuria. Uusimmat värit juhlivat ääniä, jotka tekevät maailmasta paremman paikan.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Kulttuuria muuttavat värit.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Pelinrakentaja
