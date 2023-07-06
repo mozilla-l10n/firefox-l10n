@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-select-bookmark-window =
-    .title = गृह पृष्ठ चयन गर्नुहोस्
-    .style = width: 32em;
-
 select-bookmark-window2 =
     .title = गृह पृष्ठ चयन गर्नुहोस्
     .style = min-width: 32em;

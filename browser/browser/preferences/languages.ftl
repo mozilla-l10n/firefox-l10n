@@ -39,10 +39,6 @@ languages-customize-add =
 languages-code-format =
     .label = { $locale }  [{ $code }]
 
-browser-languages-window =
-    .title = { -brand-short-name } भाषा  सेटिङ्गहरु
-    .style = width: 40em
-
 browser-languages-window2 =
     .title = { -brand-short-name } भाषा  सेटिङ्गहरु
     .style = min-width: 40em

@@ -5,11 +5,6 @@
 
 about-logins-page-title = लगइनहरू र पासवर्डहरू
 
-login-filter =
-    .placeholder = लगइनहरू खोज्नुहोस्
-
-create-login-button = नयाँ लगईन सिर्जना गर्नुहोस्
-
 fxaccounts-sign-in-text = तपाईंको अन्य उपकरणहरूमा तपाईंको पासवर्डहरू प्राप्त गर्नुहोस्
 fxaccounts-sign-in-sync-button = सिङ्क गर्नका लागि साइन इन गर्नुहोस्
 fxaccounts-avatar-button =
@@ -99,9 +94,10 @@ login-item-copied-password-button-text = प्रतिलिपि गरि�
 login-item-save-changes-button = परिवर्तनहरू सुरक्षित गर्नुहोस्
 login-item-save-new-button = सङ्ग्रह गर्नुहोस्
 login-item-cancel-button = रद्द गर्नुहोस्
-login-item-time-changed = अन्तिम परिमार्जन: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = सिर्जना गरिएको: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = अन्तिम प्रयोग: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -152,6 +148,9 @@ about-logins-confirm-remove-dialog-title = यो लगइन हटाउन �
 confirm-delete-dialog-message = यो कार्य पूर्ववत गर्न सकिँदैन ।
 about-logins-confirm-remove-dialog-confirm-button = हटाउनुहोस्
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] हटाउनुहोस्
@@ -190,6 +189,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] यसले तपाईंको { -fxaccount-brand-name } मा सिंक गरिएका सबै यन्त्रहरूमा { -brand-short-name } मा सुरक्षित गर्नुभएका सबै लगइनहरूलाई हटाउनेछ। यसले यहाँ देखा पर्ने उल्लङ्घन अलर्टहरू पनि हटाउनेछ। तपाईंले यो कार्यलाई अन्डू गर्न सक्नुहुने छैन।
     }
 
+##
+
 about-logins-confirm-export-dialog-title = लगइनहरू र पासवर्डहरू निर्यात गर्नुहोस्
 about-logins-confirm-export-dialog-message = तपाईंका पासवर्डहरू पढ्न योग्य अक्षर (जस्तै, BadP@ssw0rd) को रूपमा बचत गरिनेछ, ताकि जो कोहीले निर्यातित फाइलहरु खोल्न र तिनीहरूलाई हेर्न सक्छन्।
 about-logins-confirm-export-dialog-confirm-button = निर्यात गर्नुहोस्…
@@ -209,7 +210,6 @@ about-logins-breach-alert-date = यो उल्लघंन { DATETIME($date, 
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } मा जानुहोस्
-about-logins-breach-alert-learn-more-link = थप जान्नुहोस्
 
 ## Vulnerable Password notification
 

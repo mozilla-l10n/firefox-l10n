@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = पृष्ठ हटाइयो
 pocket-panel-saved-page-saved = { -pocket-brand-name } मा सेभ गरियो
 pocket-panel-saved-page-saved-b = { -pocket-brand-name } मा सुरक्षित राखियो ।
 pocket-panel-saved-processing-remove = पृष्ठ हटाउँदै ...
-pocket-panel-saved-removed = मेरो-सुची बाट पृष्ठ/पाना हटाइयो
 pocket-panel-saved-processing-tags = ट्यागहरू थप्दै…
 pocket-panel-saved-remove-page = पृष्ठ हटाउनुहोस्
 pocket-panel-saved-save-tags = सेभ गर्नुहोस्
 pocket-panel-saved-saving-tags = सेभ गरिँदै…
 pocket-panel-saved-suggested-tags = सिफारिस गरिएका ट्यागहरू
 pocket-panel-saved-tags-saved = थपिएका ट्याग्स् हरु
-pocket-panel-signup-view-list = सुची हेर्नुहोस्
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ट्यागहरू थप्नुहोस्:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = { -brand-product-name } बाट कु
 pocket-panel-signup-tagline-story-two = कुनै पनि उपकरण, कुनै पनि समय { -pocket-brand-name } मा हेर्नुहोस्।
 
 pocket-panel-signup-cta-a-fix = इन्टरनेटको निम्ति तपाई को सेभ-बटन
-pocket-panel-signup-cta-b = लेख , भिडियो तथा लिङ्कस् सुरक्षित/ सेभ गर्न { -pocket-brand-name } बटन थिचौ । जुनै बेला जुनै उपकरण मा आफ्नो-सूची हरौ
 pocket-panel-signup-cta-b-short = लेख , भिडियो तथा लिङ्कस् हरु सेभ गर्न { -pocket-brand-name } बटन थिच्नुहोस् ।
-pocket-panel-signup-cta-c = कुनै पनि समय , कुनै पनि वेला आफ्नो सूची हेर्नुहोस ।
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = मेरो सूची
 pocket-panel-home-welcome-back = पुनः स्वागत छ
 pocket-panel-home-paragraph = वेब पाना/पेज , लेख , भिडियो , पोडकाष्ट खोताल्नु तथा सेभ गर्न वा आफुले पढ्दै गरेको पछिल्लो पृष्ठमा फर्किन  { -pocket-brand-name } लाइ प्रयोग गर्न सक्नुहुन्छ ।
 pocket-panel-home-explore-popular-topics = लोकप्रिय बिषयहरु अन्वेषण गर्नुहोस्
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = तपाईको तत्कालीन
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = आफ्नो-सूची हेरौं ।
 pocket-panel-header-sign-in = साइन ईन
 
 ## Pocket panel buttons

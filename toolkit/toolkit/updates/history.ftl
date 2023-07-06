@@ -23,5 +23,7 @@ state-header = स्थिति
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = विवरण
+
 update-installed-on = स्थापना मिति: { $date }
+
 update-status = स्थिति: { $status }

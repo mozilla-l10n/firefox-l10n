@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = संझ्याल तथा ट्याबहरू
 browser-data-session-label =
     .value = संझ्याल तथा ट्याबहरू
+

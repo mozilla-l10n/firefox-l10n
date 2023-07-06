@@ -21,10 +21,6 @@ certmgr-mine = यी संस्थाहरूबाट तपाईँला
 certmgr-people = तपाईँसँग फाइलमा प्रमाणपत्रहरू छन् जसले यी व्यक्तिहरू पहिचान गर्दछन्
 certmgr-ca = तपाईँसँग फाइलमा प्रमाणपत्रहरू छन् जसले यी प्रमाणपत्र अधिकारीहरू पहिचान गर्दछन्
 
-certmgr-edit-ca-cert =
-    .title = CA प्रमाणपत्र विश्वास सेटिङहरू सम्पादन गर्नुहोस्
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA प्रमाणपत्र विश्वास सेटिङहरू सम्पादन गर्नुहोस्
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = यो प्रमाणपत्रले मेल प्रयोगकर्ताहरूको पहिचान गर्न सक्छ।
 
-certmgr-delete-cert =
-    .title = प्रमाणपत्र मेटाउनुहोस्
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = प्रमाणपत्र मेटाउनुहोस्
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = सर्भर
-
-certmgr-override-lifetime =
-    .label = जीवन काल
 
 certmgr-token-name =
     .label = सुरक्षा यन्त्र

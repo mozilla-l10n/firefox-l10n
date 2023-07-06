@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = अपवादहरू
-    .style = width: 45em
-
 permissions-window2 =
     .title = अपवादहरू
     .style = min-width: 45em
@@ -69,10 +65,6 @@ permissions-invalid-uri-label = कृपया वैध होस्टना�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = अपवादहरु - कुकिजहरु र साइट डाटा
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = अपवादहरु - कुकिजहरु र साइट डाटा
     .style = { permissions-window2.style }
@@ -82,10 +74,6 @@ permissions-exceptions-cookie-window2 =
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = अनुमति दिइएको वेबसाइटहरू - पप-अपहरू
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = अनुमति दिइएको वेबसाइटहरू - पप-अपहरू
     .style = { permissions-window2.style }
@@ -93,20 +81,12 @@ permissions-exceptions-popup-desc = You can specify which web sites are allowed 
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = अपवादहरू - सङ्ग्रहित लग-इनहरू
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = अपवादहरू - सङ्ग्रहित लग-इनहरू
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = निम्न वेबसाइटहरू को लागि लगइनहरू संग्रह गरिँदैन
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = अनुमति दिइएको वेबसाइटहरू - एड-अन स्थापना
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = अनुमति दिइएको वेबसाइटहरू - एड-अन स्थापना
@@ -118,19 +98,11 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = सेटिङस् - सूचना अनुमतिहरु
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = सेटिङस् - सूचना अनुमतिहरु
     .style = { permissions-window2.style }
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = सेटिङस् - स्थान अनुमतिहरु
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = सेटिङस् - स्थान अनुमतिहरु
@@ -143,20 +115,17 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = सेटिङस् - क्यामेरा अनुमतिहरु
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = सेटिङस् - क्यामेरा अनुमतिहरु
     .style = { permissions-window2.style }
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = सेटिङस् - माइक्रोफोन अनुमतिहरु
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = सेटिङस् - माइक्रोफोन अनुमतिहरु
     .style = { permissions-window2.style }
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

@@ -93,44 +93,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = यो पृष्ठ बूकमार्क गर्नुहोस्
-    .accesskey = m
-    .tooltiptext = यो पृष्ठ बूकमार्क गर्नुहोस्
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = बुकमार्क पृष्ठ
-    .accesskey = m
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = बुकमार्क सम्पादन गर्नुहोस्
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = यस पृष्ठ बूकमार्क गर्नुहोस्
-    .accesskey = m
-    .tooltiptext = ({ $shortcut }) यस पृष्ठ बूकमार्क गर्नुहोस्
-
-main-context-menu-bookmark-change =
-    .aria-label = यो बुकमार्क सम्पादन गर्नुहोस्
-    .accesskey = m
-    .tooltiptext = यो बुकमार्क सम्पादन गर्नुहोस्
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = यो बुकमार्क सम्पादन गर्नुहोस्
-    .accesskey = m
-    .tooltiptext = यो बुकमार्क सम्पादन गर्नुहोस् ({ $shortcut })
-
 main-context-menu-open-link =
     .label = लिङ्क खोल्नुहोस्
     .accesskey = O
@@ -150,10 +112,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = लिङ्कलाई नयाँ निजी सञ्झ्यालमा खोल्नुहोस्
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = बुकमार्कको लिङ्क
-    .accesskey = B
 
 main-context-menu-save-link =
     .label = यस रूपमा लिङ्क सङ्ग्रह गर्नुहोस्...
@@ -256,14 +214,6 @@ main-context-menu-audio-email =
     .label = इमेल अडियो…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = यस प्लगिनलाई सक्षम पार्नुहोस्
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = यस प्लगिनलाई लुकाउनुहोस्
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = पृष्ठलाई यन्त्रमा पठाउनुहोस्
     .accesskey = D
@@ -302,10 +252,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = फ्रेम पुनःलोड गर्नुहोस्
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = यो फ्रेम बुकमार्क गर्नुहोस्
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = यसरूपमा फ्रेम सङ्ग्रह गर्नुहोस्…
