@@ -77,6 +77,8 @@ clear-startup-cache-title = Ishga tushish keshini tozalashga harakat qiling
 
 audio-backend = Audio Server
 
+## Codec support table
+
 ##
 
 

@@ -24,15 +24,18 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Bekor qilish
     .accesskey = C
+
 webext-perms-sideload-enable =
     .label = Yoqish
     .accesskey = Y
 webext-perms-sideload-cancel =
     .label = Bekor qilish
     .accesskey = B
+
 webext-perms-update-accept =
     .label = Yangilash
     .accesskey = Y
+
 webext-perms-optional-perms-list-intro = U quyidagi uchun huquqni olmoqchi:
 webext-perms-optional-perms-allow =
     .label = Ruxsat berish

@@ -14,6 +14,7 @@ xpinstall-prompt-message = { $host } saytidan qoʻshimcha dasturni oʻrnatishga 
 
 xpinstall-prompt-header-unknown = Nomaʼlum saytga qoʻshimcha dastur oʻrnatishiga ruxsat berasizmi?
 xpinstall-prompt-message-unknown = Nomaʼlum saytdan qoʻshimcha dasturni oʻrnatishga urinyapsiz. Davom etishdan oldin uning ishonchli ekanligiga ishonch hosil qiling.
+
 xpinstall-prompt-dont-allow =
     .label = Ruxsat berilmasin
     .accesskey = R
@@ -31,12 +32,14 @@ xpinstall-disabled = Dastur oʻrnatish hozircha oʻchirilgan. "Yoqish" tugmasini
 xpinstall-disabled-button =
     .label = Yoqish
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) tizim administratori tomonidan bloklangan.
 addon-install-full-screen-blocked = Butun ekran rejimida yoki unga kirishdan oldin qoʻshimcha dastur oʻrnatishga ruxsat berilmaydi.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name }ga { $addonName } qoʻshildi
@@ -54,6 +57,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ta qo‘shimcha dastur yuklab olinmoqda va tekshirilmoqda…
     }
 addon-download-verifying = Tekshirilmoqda
+
 addon-install-cancel-button =
     .label = Bekor qilish
     .accesskey = B

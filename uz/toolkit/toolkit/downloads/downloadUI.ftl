@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Chiqilmasin
        *[other] Chiqilmasin
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Agar oflayn usuliga hozir oʻtsangiz, 1 yuklab olish bekor qilinadi. Oflayn usuliga oʻtishga ishonchingiz komilmi?
        *[other] Agar hozir oflayn usuliga oʻtsangiz, { $downloadsCount } ta yuklab olish bekor qilinadi. Oflayn usuliga oʻtishga ishonchingiz komilmi?
     }
 download-ui-dont-go-offline-button = Onlayn qolish
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Agar barcha "Maxfiy koʻrish" oynalarini yopsangiz, 1 ta yuklab olish bekor qilinadi. "Maxfiy ko‘rish" usulidan chiqshni xohlaysizmi?
        *[other] Agar barcha "Maxfiy koʻrish" oynalarini yopsangiz, { $downloadsCount } ta yuklab olish bekor qilinadi. "Maxfiy ko‘rish" usulidan chiqmoqchi ekanligingizga ishonchingiz komilmi?
     }
 download-ui-dont-leave-private-browsing-button = "Maxfiy koʻrish usuli"da qolish
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 yuklab olishni bekor qilish

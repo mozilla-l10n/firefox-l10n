@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Istisnolar
-    .style = width: 45em
-
 permissions-window2 =
     .title = Istisnolar
     .style = min-width: 45em
@@ -77,10 +73,6 @@ permissions-exceptions-popup-desc = Siz xohlagan vebsaytlaringizga paydo boʻluv
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Istisnolar - saqlangan taxalluslar
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Istisnolar - saqlangan taxalluslar
     .style = { permissions-window2.style }
@@ -105,4 +97,8 @@ permissions-exceptions-addons-desc = Siz xohlagan vebsaytingizga qoʻshimcha das
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

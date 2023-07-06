@@ -19,6 +19,10 @@ onboarding-welcome-header = { -brand-short-name }ga xush kelibsiz
 onboarding-start-browsing-button-label = Koʻrishni boshlash
 onboarding-not-now-button-label = Hozir emas
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Boshlash
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Qoyil, endi sizda { -brand-short-name } bor
@@ -31,29 +35,14 @@ return-to-amo-add-extension-label = Kengaytma qoʻshish
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Olov (|Fire)
-    bu yerdan boshlanadi
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Mebellar boʻyicha dizayner, Firefox ishqibozlaridan biri
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Animatsiyalarni oʻchirish
@@ -62,44 +51,14 @@ mr1-onboarding-reduce-motion-button-label = Animatsiyalarni oʻchirish
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Oson kirish uchun { -brand-short-name }ni asosiy menyuda saqlang
-       *[other] Oson kirish uchun { -brand-short-name }ni vazifalar paneliga mahkamlang
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Asosiy menyuga saqlash
-       *[other] Vazifalar paneliga mahkamlash
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Boshlash
-
-mr1-onboarding-welcome-header = { -brand-short-name }ga xush kelibsiz
-mr1-onboarding-set-default-pin-primary-button-label = { -brand-short-name } asosiy brauzerim boʻlsin
-    .title = { -brand-short-name } asosiy brauzer qilinadi va vazifalar paneliga mahkamlanadi
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } asosiy brauzerim boʻlsin
-mr1-onboarding-set-default-secondary-button-label = Hozir emas
 mr1-onboarding-sign-in-button-label = Kirish
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = { -brand-short-name } asosiy brauzerim boʻlsin
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Avtomatik
 
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tizim mavzusi
@@ -139,6 +98,8 @@ mr1-onboarding-theme-label-system = Tizim mavzusi
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -164,4 +125,11 @@ mr1-onboarding-theme-label-system = Tizim mavzusi
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

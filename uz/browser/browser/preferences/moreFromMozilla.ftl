@@ -7,3 +7,5 @@
 
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+

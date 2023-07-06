@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (nomsiz)
+
 places-bookmarks-backup-title = Zahira fayl nomlarini xatchoʻplarga qoʻshish
 places-bookmarks-restore-alert-title = Xatchoʻplarni tiklash
 places-bookmarks-restore-alert = Bu barcha joriy xatchoʻplaringizni zahiradagisi bilan almashtiriadi. Rozimisiz?
@@ -11,5 +12,6 @@ places-bookmarks-restore-title = Xatchoʻplarni zahiralashni tanlash
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Mos kelmaydigan fayl turi.
 places-bookmarks-restore-parse-error = Zahira faylini amalga oshirib boʻlmaydi.
+
 places-bookmarks-import = Xatchoʻplar faylini import qilish
 places-bookmarks-export = Xatchoʻplar faylini eksport qilish

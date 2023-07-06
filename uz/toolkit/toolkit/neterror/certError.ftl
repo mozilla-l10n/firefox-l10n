@@ -47,6 +47,7 @@ deniedPortAccess-title = Bu manzil cheklangan
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Bu sayt topilmadi.
+
 fileNotFound-title = Fayl topilmadi
 fileAccessDenied-title = Fayldan foydalanishga ruxsat berilmadi
 generic-title = Obbo.

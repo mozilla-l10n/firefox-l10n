@@ -26,7 +26,6 @@ pocket-panel-saved-save-tags = Saqlash
 pocket-panel-saved-saving-tags = Saqlanmoqda…
 pocket-panel-saved-suggested-tags = Tavsiya etiladigan teglar
 pocket-panel-saved-tags-saved = Teglar kiritildi
-pocket-panel-signup-view-list = Ro‘yxatni ko‘rish
 
 ## about:pocket-signup panel
 
@@ -42,7 +41,6 @@ pocket-panel-signup-tagline-story-two = Istalgan vaqtda, istalgan qurilmada { -p
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Roʻyxatim
 pocket-panel-home-welcome-back = Xush kelibsiz
 pocket-panel-home-paragraph = Sayt, maqola, video va podkastlar bilan tanishish, saqlash yoki qolgan joyidan davom ettirish uchun { -pocket-brand-name } xizmatidan foydalaning.
 pocket-panel-home-explore-popular-topics = Mashhur mavzular bilan tanishish

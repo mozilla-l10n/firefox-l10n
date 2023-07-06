@@ -23,5 +23,7 @@ state-header = Holati
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Tafsilotlar
+
 update-installed-on = Oʻrnatilgan: { $date }
+
 update-status = Holati: { $status }

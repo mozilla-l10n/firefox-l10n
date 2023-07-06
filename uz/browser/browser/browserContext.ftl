@@ -93,30 +93,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Sahifani xatcho‘plarga qo‘shish
-    .accesskey = m
-    .tooltiptext = Sahifani xatcho‘pga qo‘shish
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Sahifani xatcho‘plarga qo‘shish
-    .accesskey = m
-    .tooltiptext = Sahifani xatcho‘pga qo‘shish ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Ushbu xatcho‘pni o‘zgartirish
-    .accesskey = m
-    .tooltiptext = Ushbu xatcho‘pni tahrirlash
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Ushbu xatcho‘pni o‘zgartirish
-    .accesskey = m
-    .tooltiptext = Ushbu xatcho‘pni tahrirlash ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Havolani ochish
     .accesskey = o
@@ -136,10 +112,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Havolani yangi maxfiy oynada ochish
     .accesskey = m
-
-main-context-menu-bookmark-link =
-    .label = Havolani xatchoʻplarga qoʻshish
-    .accesskey = H
 
 main-context-menu-save-link =
     .label = Havolani saqlash…
@@ -274,14 +246,6 @@ main-context-menu-audio-email =
     .label = Audioni emaildan joʻnatish…
     .accesskey = A
 
-main-context-menu-plugin-play =
-    .label = Bu plaginni faollashtirish
-    .accesskey = f
-
-main-context-menu-plugin-hide =
-    .label = Bu plaginni yashirish
-    .accesskey = y
-
 main-context-menu-save-to-pocket =
     .label = Sahifani { -pocket-brand-name } xizmatiga saqlash
     .accesskey = k
@@ -325,10 +289,6 @@ main-context-menu-frame-reload =
     .label = Freymni qayta yuklash
     .accesskey = q
 
-main-context-menu-frame-bookmark =
-    .label = Freymni xatchoʻplarga qoʻshish
-    .accesskey = h
-
 main-context-menu-frame-save-as =
     .label = Freym sifatida saqlash
     .accesskey = F
@@ -344,10 +304,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Freym haqida maʼlumot
     .accesskey = s
-
-main-context-menu-print-selection =
-    .label = Tanlanganlarni chop qilish
-    .accesskey = p
 
 main-context-menu-view-selection-source =
     .label = Tanlangan fragment manba kodi

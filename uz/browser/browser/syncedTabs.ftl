@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Ochish
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Yangi varaqda ochish
-    .accesskey = n
-synced-tabs-context-open-in-new-window =
-    .label = Yangi oynada ochish
-    .accesskey = o
-synced-tabs-context-open-in-new-private-window =
-    .label = Yangi maxfiy oynada ochish
-    .accesskey = m
-synced-tabs-context-bookmark-single-tab =
-    .label = Varaqni xatchoʻplarga qoʻshish…
-    .accesskey = x
 
 ##
 

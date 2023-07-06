@@ -5,11 +5,6 @@
 
 about-logins-page-title = Login va parollar
 
-login-filter =
-    .placeholder = Loginlarni qidirish
-
-create-login-button = Yangi login yaratish
-
 fxaccounts-sign-in-text = Boshqa qurilmalardagi parollaringizdan foydalaning
 fxaccounts-sign-in-sync-button = Sinxronlash uchun hisobingizga kiring
 fxaccounts-avatar-button =
@@ -96,9 +91,10 @@ login-item-copied-password-button-text = Nusxa olindi!
 login-item-save-changes-button = Oʻzgarishlarni saqlash
 login-item-save-new-button = Saqlash
 login-item-cancel-button = Bekor qilish
-login-item-time-changed = Oxirgi marta oʻzgartirilgan: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Yaratilgan: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Oxirgi marta foydalanilgan: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -141,11 +137,16 @@ about-logins-confirm-remove-dialog-title = Bu login olib tashlansinmi?
 confirm-delete-dialog-message = Bu amalni orqaga qaytarib boʻlmaydi.
 about-logins-confirm-remove-dialog-confirm-button = Olib tashlash
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } ta login barcha qurilmalardan olib tashlansinmi?
        *[other] { $count } ta login barcha qurilmalardan olib tashlansinmi?
     }
+
+##
 
 about-logins-confirm-export-dialog-title = Login va parollarni eksport qilish
 about-logins-confirm-export-dialog-message = Parollaringiz oʻqilishi mumkin boʻlgan matn sifatida saqlanadi (masalan, BadP@ssw0rd). Eksport qilingan faylni ochadigan har bir kishi ularni koʻrishi mumkin.
@@ -162,7 +163,6 @@ about-logins-breach-alert-date = Maʼlumotlar sizishi yuz bergan vaqt: { DATETIM
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } saytini ochish
-about-logins-breach-alert-learn-more-link = Batafsil
 
 ## Vulnerable Password notification
 

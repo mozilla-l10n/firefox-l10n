@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-clear-site-data-window =
-    .title = Maʼlumotlarni tozalash
-    .style = width: 40em
-
 clear-site-data-window2 =
     .title = Maʼlumotlarni tozalash
     .style = min-width: 40em

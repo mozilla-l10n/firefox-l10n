@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Tasdiqdan oʻtkazishlar
 
-certmgr-edit-ca-cert =
-    .title = CA sertifikati ishonch sozlamalarini oʻzgartirish
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA sertifikati ishonch sozlamalarini oʻzgartirish
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Ushbu sertifikat foydalanuvchilar pochtalari ma’lumotlarini aniqlay oladi.
 
-certmgr-delete-cert =
-    .title = Sertifikatni o‘chirish
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Sertifikatni o‘chirish
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Foydalanish muddati
 
 certmgr-token-name =
     .label = Qurilma xavfsizligi

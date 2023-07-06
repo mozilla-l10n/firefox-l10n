@@ -129,3 +129,4 @@ browser-data-session-checkbox =
     .label = Oynalar va varaqlar
 browser-data-session-label =
     .value = Oynalar va varaqlar
+

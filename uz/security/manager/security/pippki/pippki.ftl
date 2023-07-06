@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Sertifikat yuklab olinmoqda
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Sertifikat yuklab olinmoqda
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = Muhim: agar siz sertifikat zahira parolini unutsangiz, u
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Himoyalangan ulam tasdig‘i
-protected-auth-msg = Ulamga tasdiqdan o‘tkazing. Tasdiqdan o‘tkazish uslubi ulamingiz turiga bog‘liq.
-protected-auth-token = Ulam:
+## Protected authentication alert
+

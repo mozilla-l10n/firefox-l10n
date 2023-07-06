@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ichki xususiyatlari
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = saqlash haqida:webrtc kabi
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC jurnalga kiritish
 about-webrtc-aec-logging-off-state-label = AEC jurnalga kiritishni boshlash
 about-webrtc-aec-logging-on-state-label = AEC jurnalga kiritishni to‘xtatish
 about-webrtc-aec-logging-on-state-msg = AEC jurnalga kiritish faol (chaqiruvchi bilan bir necha daqiqa gaplashing va soʻngra yozib olishni toʻxtating)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC jurnalga kiritish faol (chaqiruvchi bilan bir necha daqiqa gaplashing va soʻngra yozib olishni toʻxtating)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Yozib olingan jurnal fayllarini bu yerda topish mumkin: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -66,10 +69,12 @@ about-webrtc-type-remote = Masofadagi
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Belgilangan
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Tanlangan
+
 about-webrtc-save-page-label = Sahifani saqlash
 about-webrtc-debug-mode-msg-label = Tuzatish rejimi
 about-webrtc-debug-mode-off-state-label = Tuzatish rejimini ishga tushirish
@@ -80,6 +85,7 @@ about-webrtc-log-show-msg = jurnalni ko‘rsatish
     .title = ushbu seansni kengaytirish uchun bosing
 about-webrtc-log-hide-msg = jurnalni yashirish
     .title = ushbu seansni yig‘ish uchun bosing
+
 about-webrtc-log-section-show-msg = Jurnalni ko‘rsatish
     .title = Ushbu seansni kengaytirish uchun bosing
 about-webrtc-log-section-hide-msg = Jurnalni yashirish
@@ -135,6 +141,7 @@ about-webrtc-save-page-msg = sahifa saqlandi: { $path }
 about-webrtc-debug-mode-off-state-msg = kuzatish jurnalini bu yerdan topish mumkin: { $path }
 about-webrtc-debug-mode-on-state-msg = tuzatish rejimi faol, kuzatish jurnali: { $path }
 about-webrtc-aec-logging-off-state-msg = yozib olingan jurnal fayllarini bu yerda topish mumkin: { $path }
+
 about-webrtc-save-page-complete-msg = Sahifa saqlandi: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Kuzatish jurnalini bu yerdan topish mumkin: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Tuzatish rejimi faol, kuzatish jurnali: { $path }
