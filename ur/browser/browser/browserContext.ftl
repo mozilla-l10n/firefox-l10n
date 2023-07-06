@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = یہ صفحہ نشان زد کریں
-    .accesskey = m
-    .tooltiptext = یہ صفحہ نشان زد کریں
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = صفحہ بکمارک کریں
-    .accesskey = m
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = بُک مارک تدوین کریں
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = یہ صفحہ نشان زد کریں
-    .accesskey = m
-    .tooltiptext = یہ صفحہ نشان زد کریں ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = اس بک مارک کی تدوین کریں
-    .accesskey = m
-    .tooltiptext = یہ بک مارک تدوین کریں
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = اس بک مارک کی تدوین کریں
-    .accesskey = m
-    .tooltiptext = یہ بک مارک تدوین کریں ({ $shortcut })
-
 main-context-menu-open-link =
     .label = ربط کھولیں
     .accesskey = O
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = ربط نئے نجی دریچے میں کھولیں
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = بک مارک ربط
-    .accesskey = B
 
 main-context-menu-save-link =
     .label = ربط محفوظ کریں بطور ...
@@ -310,14 +268,6 @@ main-context-menu-audio-email =
     .label = آڈیو ای میل کریں…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = اس پلگ ان کو متحرک کریں
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = اس پلگ ان کو چھپائیں
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = { -pocket-brand-name } میں صفحہ محفوظ کریں
     .accesskey = k
@@ -376,10 +326,6 @@ main-context-menu-frame-reload =
     .label = فریم پھر لوڈ کریں
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = یہ فریم نشان زد کریں
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = فریم محفوظ کریں بطو ر...
     .accesskey = F
@@ -395,10 +341,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = فریم معلومات نظارہ کریں
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = منتخب شدہ پرنٹ کریں
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = انتخاب ماخذ نظارہ کریں

@@ -155,3 +155,4 @@ browser-data-session-checkbox =
     .label = دریچے اور ٹیب
 browser-data-session-label =
     .value = دریچے اور ٹیب
+

@@ -29,10 +29,6 @@ pippki-reset-password-confirmation-message = آپ کا بنیادی پاس ور�
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = تصدیق نامہ ڈاؤن لوڈ کر رہا ہے
-    .style = width: 46em
-
 download-cert-window2 =
     .title = تصدیق نامہ ڈاؤن لوڈ کر رہا ہے
     .style = min-width: 46em
@@ -67,7 +63,5 @@ set-password-reminder = اہم: اگر آپ اپنا تصدیق نامہ پشت�
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = تحفظ شدہ ٹوکن توثیق کاری
-protected-auth-msg = برا ئے مہربانی ٹوکن کو توثیق کریں۔ توثیق کاری کا طریقہ آپ کے ٹوکن کی قسم پر انحصار کرتا ہے۔
-protected-auth-token = ٹوکن:
+## Protected authentication alert
+

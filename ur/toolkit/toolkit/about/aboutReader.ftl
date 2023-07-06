@@ -4,6 +4,7 @@
 
 about-reader-loading = لوڈ کر رہا ہے...
 about-reader-load-error = صفحے سے عبارت کو لوڈ کرنےمیں ناکام رہا
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -23,5 +23,7 @@ state-header = ریاست
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = تفصیلات
+
 update-installed-on = تنصیب شدہ از: { $date }
+
 update-status = حالت: { $status }

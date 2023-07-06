@@ -127,6 +127,8 @@ media-device-channels = چینلز
 media-device-rate = شرح
 media-device-latency = لیٹینسی
 
+## Codec support table
+
 ##
 
 intl-title = انٹرنیشنلائزیشن & لوکلائزیشن

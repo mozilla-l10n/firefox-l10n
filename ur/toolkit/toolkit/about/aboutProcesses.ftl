@@ -44,7 +44,6 @@ about-processes-preloaded-tab = پہلے سے لوڈ شدہ نیا ٹیب
 
 # Utility process actor names
 about-processes-utility-actor-unknown = نامعلوم اداکار
-about-processes-utility-actor-audio-decoder = آڈیو ڈیکوڈر
 
 ## Displaying CPU (percentage and total)
 ## Variables:

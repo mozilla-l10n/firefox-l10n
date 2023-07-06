@@ -23,6 +23,7 @@ downloads-cmd-cancel =
     .tooltiptext = منسوخ کریں
 downloads-cmd-cancel-panel =
     .aria-label = منسوخ کریں
+
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -45,6 +46,7 @@ downloads-cmd-show-button-2 =
             [macos] فولڈر میں دکھائیں
            *[other] فولڈر میں دکھائیں
         }
+
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -57,6 +59,7 @@ downloads-cmd-show-description-2 =
             [macos] فولڈر میں دکھائیں
            *[other] فولڈر میں دکھائیں
         }
+
 downloads-cmd-show-downloads =
     .label = ڈاؤن لوڈ پوشہ دکھائیں
 downloads-cmd-retry =
@@ -78,33 +81,42 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ڈاؤن لوڈ خالی کریں
     .accesskey = ڈ
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = اجازت دیں ڈاؤن لوڈ کرنے کی
     .accesskey = ز
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = فائل ہٹائیں
+
 downloads-cmd-remove-file-panel =
     .aria-label = فائل ہٹائیں
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = فائل ہٹائیں یا ڈاؤن لوڈ اجازت دیں
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = فائل ہٹائیں یا ڈاؤن لوڈ اجازت دیں
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = کھولیں یا فائل ہٹائیں
+
 downloads-cmd-choose-open-panel =
     .aria-label = کھولیں یا مسل ہٹائیں
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = مزید معلومات دکھائیں
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -118,7 +130,6 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
-downloading-file-opens-in-some-time = مکمل ہونے پر کھولیں…
 downloading-file-opens-in-some-time-2 =
     .value = مکمل ہونے پر کھولیں…
 downloading-file-click-to-open =
@@ -130,16 +141,19 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = ڈاؤن لوڈ کی پھر کوشش کریں
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ڈاؤن لوڈ منسوخ کریں
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = تمام ڈاؤن لوڈ دکھائیں
     .accesskey = ت
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -156,10 +170,12 @@ downloads-details =
 downloads-clear-downloads-button =
     .label = ڈاؤن لوڈ خالی کریں
     .tooltiptext = مکمل، منسوخ شدہ اور ناکام ڈاؤن لوڈ کریں ہٹاتا ہے
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = کوئی ڈاؤن لوڈ نہیں ہیں۔
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = اس سیشن کے لیئے کوئی ڈاؤن لوڈ نہیں۔

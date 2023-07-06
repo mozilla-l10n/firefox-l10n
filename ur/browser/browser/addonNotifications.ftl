@@ -34,6 +34,7 @@ xpinstall-disabled = سافٹ ویئر کی تنصیب اس وقت نا اہل �
 xpinstall-disabled-button =
     .label = اہل بنائیں
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } کا { -brand-short-name } میں اظافہ کر دیا گیا ہے
@@ -51,6 +52,7 @@ addon-removal-title = { $name } کو حذف کریں؟
 addon-removal-message = { -brand-shorter-name } سے { $name } ہٹائیں
 addon-removal-button = ہٹائیں
 addon-removal-abuse-report-checkbox = اس توسیع کی اطلاع{ -vendor-short-name } کو دیں
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -59,6 +61,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ایڈ اون ڈاؤن لوڈ اور تصدیق کر رہا ہے…
     }
 addon-download-verifying = توثیق کر رہا ہے
+
 addon-install-cancel-button =
     .label = منسوخ کریں
     .accesskey = C

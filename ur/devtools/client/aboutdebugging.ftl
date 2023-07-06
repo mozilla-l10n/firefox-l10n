@@ -245,14 +245,6 @@ about-debugging-worker-scope =
 about-debugging-worker-push-service =
     .label = پش سروس
 
-# Displayed as name for the Main Process debug target in the Processes category. Only for
-# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-name = مرکزی عمل
-
-# Displayed as description for the Main Process debug target in the Processes category.
-# Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
-about-debugging-main-process-description2 = ہدف بشدہ راؤزر کے لئے اہم عمل
-
 # Displayed instead of the Main Process debug target when the preference
 # `devtools.browsertoolbox.fission` is true.
 about-debugging-multiprocess-toolbox-name = ملٹی پروسیس ٹول باکس

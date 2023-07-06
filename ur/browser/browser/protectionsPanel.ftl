@@ -90,3 +90,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = منسوخ کریں
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = رپورٹ ارسال کریں
+
+# Cookie Banner Handling
+

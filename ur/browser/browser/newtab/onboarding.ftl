@@ -19,12 +19,18 @@ onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
 onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 onboarding-not-now-button-label = ابھی نہیں
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = شروع کریں
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = بہت اچھا ، آپ کو { -brand-short-name } مل گیا ہے
 return-to-amo-add-extension-label = ایکسٹینشن  شامل کریں
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -33,15 +39,6 @@ return-to-amo-add-extension-label = ایکسٹینشن  شامل کریں
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
 
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = آگ یہاں سے شروع ہوتی ہے
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = متحرک تصاویر بند کردیں
 
@@ -49,62 +46,21 @@ mr1-onboarding-reduce-motion-button-label = متحرک تصاویر بند کر�
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] ڈوک میں پن کریں
-       *[other] ٹاسک بار میں پن کریں
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = شروع کریں
-
-mr1-onboarding-welcome-header = { -brand-short-name } میں خوش آمدید
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = { -brand-short-name } کو میرا طے شدہ برائوزر بنائیں
-mr1-onboarding-set-default-secondary-button-label = ابھی نہیں
 mr1-onboarding-sign-in-button-label = سائن ان کریں
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = { -brand-short-name } کو اپنا طے شدہ برائوزر بنائیں
-mr1-onboarding-default-primary-button-label = طےشدہ براؤزر بنائیں
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = یہ سب اپنے ساتھ لائیں
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } سے درآمد کریں
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = پچھلے براؤزر سے درآمد کریں
-mr1-onboarding-import-secondary-button-label = ابھی نہیں
-
-mr2-onboarding-colorway-header = رنگین زندگی
-mr2-onboarding-colorway-secondary-button-label = ابھی نہیں
-mr2-onboarding-colorway-label-soft = نرم
-mr2-onboarding-colorway-label-balanced = متوازن
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = بولڈ
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = خودکار
-
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = طے شدہ
-
 mr1-onboarding-theme-header = اسے اپنا بنائیں
-mr1-onboarding-theme-primary-button-label = تھیم کو محفوظ کریں
 mr1-onboarding-theme-secondary-button-label = ابھی نہیں
 
 # System theme uses operating system color settings
@@ -129,10 +85,6 @@ mr1-onboarding-theme-label-alpenglow = ایلپینگلو
 
 ## Multistage MR1 onboarding strings (MR1 about:welcome pages)
 
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = طے شدہ تھیمز دریافت کریں۔
-
 ## Strings for Thank You page
 
 mr2-onboarding-thank-you-header = ہمیں منتخب کرنے کے لیے آپ کا شکریہ
@@ -155,6 +107,8 @@ mr2-onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 ## Firefox 100 Thank You screens
+
+## MR2022 New User Easy Setup screen strings
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -181,4 +135,11 @@ mr2-onboarding-start-browsing-button-label = براؤزنگ شروع کریں
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

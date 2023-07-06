@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = محفوظ
 pocket-panel-saved-saving-tags = محفوظ کر رہا ہے…
 pocket-panel-saved-suggested-tags = تجویز شدہ ٹیگز
 pocket-panel-saved-tags-saved = ٹیگز کا اظافہ کر دیا گیا
-pocket-panel-signup-view-list = فہرست کا نظارہ کریں
 
 ## about:pocket-signup panel
 
@@ -41,7 +40,6 @@ pocket-panel-signup-tagline-story-two = { -pocket-brand-name } میں نظارہ
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = میری فہرست
 pocket-panel-home-welcome-back = واپسى پر خوش آمديد
 pocket-panel-home-explore-popular-topics = مشہور عنوانات دریافت کریں
 pocket-panel-home-discover-more = مزید تلاش کریں
@@ -49,7 +47,6 @@ pocket-panel-home-explore-more = دریافت کریں
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = میری فہرست دیکھیں
 pocket-panel-header-sign-in = سائن ان کریں
 
 ## Pocket panel buttons

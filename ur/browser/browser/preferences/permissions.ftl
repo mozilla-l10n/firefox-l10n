@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = استثنیات
-    .style = width: 45em
-
 permissions-window2 =
     .title = استثنیات
     .style = min-width: 45em
@@ -92,20 +88,11 @@ permissions-invalid-uri-label = کوئی جائز نام میزبان داخل �
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = آپ نے ان ویب سائٹوں پر تحفظات بند کردیئے ہیں۔
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = استثنیات - کوکیز اور سائٹ کا ڈیٹا
@@ -117,20 +104,12 @@ permissions-exceptions-cookie-desc = آپ اختصاص کر سکتے ہیں کی
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = اجازت دی ویب سائٹ - پاپ اپ
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = اجازت دی ویب سائٹ - پاپ اپ
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = آپ اختصاص کر سکتے ہیں کہ کونسی سائٹیں پاپ اپ کھولنے کے لیے اجازت دادہ ہیں۔ جس سائٹ کو اجازت دینا چاہتے ہیں اس کا ٹھیک ٹھیک پتہ ٹائپ کریں اور پھر اجازت دیں پر کلک کریں۔
 
 ## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window =
-    .title = استثنیات ۔ محفوظ شدہ لاگ ان
-    .style = { permissions-window.style }
 
 permissions-exceptions-saved-logins-window2 =
     .title = استثنیات ۔ محفوظ شدہ لاگ ان
@@ -139,10 +118,6 @@ permissions-exceptions-saved-logins-desc = درج ذیل ویب سائٹس کے 
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
-    .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = اجازت دار ویب سائٹیں - ایڈ اون انسٹالیشن
     .style = { permissions-window2.style }
@@ -150,19 +125,11 @@ permissions-exceptions-addons-desc = آپ اختصاص کر سکتے ہیں کہ
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = سیٹنگز - آٹو پلے
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = سیٹنگز - آٹو پلے
     .style = { permissions-window2.style }
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = سیٹنگز - نوٹیفکیشن اجازات
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = سیٹنگز - نوٹیفکیشن اجازات
@@ -174,10 +141,6 @@ permissions-site-notification-disable-desc = یہ کسی بھی ویب سائٹ 
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = سیٹنگز- محل وقوع اجازت
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = سیٹنگز- محل وقوع اجازت
     .style = { permissions-window2.style }
@@ -188,10 +151,6 @@ permissions-site-location-disable-desc = یہ کسی بھی ویب سائٹ کو
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = سیٹنگز - ورچوئل رئیلٹی اجازت
-    .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = سیٹنگز - ورچوئل رئیلٹی اجازت
     .style = { permissions-window2.style }
@@ -199,10 +158,6 @@ permissions-site-xr-disable-label =
     .label = اپنی ورچوئل رئیلٹی ڈیوائسز تک رسائی کے لیے نئی درخواستوں کو مسدود کریں
 
 ## Site Permissions - Camera
-
-permissions-site-camera-window =
-    .title = سیٹنگز- کیمرہ اجازتیں
-    .style = { permissions-window.style }
 
 permissions-site-camera-window2 =
     .title = سیٹنگز- کیمرہ اجازتیں
@@ -214,10 +169,6 @@ permissions-site-camera-disable-desc = یہ کسی بھی ویب سائٹ کو �
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = سیٹنگز - مائکروفون کی اجازت
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = سیٹنگز - مائکروفون کی اجازت
     .style = { permissions-window2.style }
@@ -225,3 +176,8 @@ permissions-site-microphone-desc = مندرجہ ذیل ویب سائٹ نے آپ
 permissions-site-microphone-disable-label =
     .label = اپنے مائیکروفون تک رسائی حاصل کرنے سے متعلق نئی درخواستیں بند کریں
 permissions-site-microphone-disable-desc = یہ کسی بھی ویب سائٹ کو آپکے مائکروفون کے رسائی کی اجازت کی درخواست کرنے سے روکتا ہے جو اوپر درج نہیں ہے۔ آپکے مائکروفون کے رسائی کو روکنے سے ویب سائٹ کی کچھ خوبی وقفہ ہو سکتی ہے۔
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

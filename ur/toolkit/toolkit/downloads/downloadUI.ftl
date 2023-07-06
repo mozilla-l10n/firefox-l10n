@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] کنارہ مت کریں
        *[other] باہر نہ نکلیں
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] اگر آپ ابھی آف لائن گئے تو 1 ڈاؤن لوڈ منسوخ ہو جائے گا۔ کیا آپ کو یقین ہے کہ آپ آف لائن جانا چاہتے ہیں؟
        *[other] اگر آپ ابھی آف لائن گئے تو { $downloadsCount } ڈاؤن لوڈ منسوخ ہو جائیں گے۔ کیا آپ کو یقین ہے کہ آپ آف لائن جانا چاہتے ہیں؟
     }
 download-ui-dont-go-offline-button = آن لائن رہیں
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] اگر آپ نے ابھی نجی براؤزنگ موڈ دریجہ بند کردیا، تو 1 ڈاؤن لوڈ منسوخ ہو جائے گی۔ کیا آپ واقعی نجی براؤزنگ موڈ چھوڑنا چاہتے ہیں؟
        *[other] اگر آپ نے ابھی نجی براؤزنگ موڈ دریجہ بند کردیا، تو { $downloadsCount } ڈاؤن لوڈ منسوخ ہو جائیں گی۔ کیا آپ واقعی نجی براؤزنگ موڈ چھوڑنا چاہتے ہیں؟
     }
 download-ui-dont-leave-private-browsing-button = نجی براؤزنگ میں رہیں؟
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ڈاؤن لوڈ منسوخ کریں

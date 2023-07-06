@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = مقتدرات
 
-certmgr-edit-ca-cert =
-    .title = CA تصدیق نامہ بھروسا سیٹنگز تدوین کریں
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA تصدیق نامہ بھروسا سیٹنگز تدوین کریں
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = یہ تصدیق نامہ ڈاک صارفین  شناخت کر سکتا ہے۔
 
-certmgr-delete-cert =
-    .title = تصدیق نامہ حذف کریں
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = تصدیق نامہ حذف کریں
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = پیش کار
-
-certmgr-override-lifetime =
-    .label = تاحیات
 
 certmgr-token-name =
     .label = سلامتی آلہ

@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = نیا ٹیب
+
 tabbrowser-menuitem-close-tab =
     .label = ٹیب بند کریں
 tabbrowser-menuitem-close =
     .label = بند کریں
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -51,6 +53,7 @@ tabbrowser-confirm-caretbrowsing-title = کیریٹ براؤزنگ
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } سے اس طرح کی اطلاعات کو آپ کو ان کے ٹیب تک لے جانے کی اجازت دیں۔
+
 tabbrowser-customizemode-tab-title = { -brand-short-name } کو تخصیص کریں
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -76,3 +79,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = تمام { $tabCount } ٹیب فہرست کرے
+
+## Tab manager menu buttons
+

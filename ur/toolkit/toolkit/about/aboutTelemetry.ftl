@@ -84,5 +84,3 @@ about-telemetry-category-header = زمرہ
 about-telemetry-method-header = طریقہ
 about-telemetry-object-header = آبجیکٹ
 about-telemetry-extra-header = فالتو
-about-telemetry-origin-origin = اصل
-about-telemetry-origin-count = گنیں
