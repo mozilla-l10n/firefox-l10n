@@ -20,3 +20,4 @@ sec-error-js-invalid-module-name = Igama lemojuli alisebenzi.
 sec-error-js-add-mod-failure = Ayikwazi ukwenezela imojuli
 sec-error-js-del-mod-failure = Ayikwazi ukucisha le mojuli
 sec-error-old-krl = I-CRL indala kunekhona manje.
+

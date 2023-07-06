@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Ungasho ngokuqondile ukuthi imaphi amawebhu
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Amagunya
 
-certmgr-edit-ca-cert =
-    .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Lungisa ukuhlelwa kokwethembeka kwesitifiketi se-CA
     .style = min-width: 48em;
@@ -23,10 +19,6 @@ certmgr-edit-cert-edit-trust = Lungisa ukuhlelwa kokwethembeka:
 
 certmgr-edit-cert-trust-email =
     .label = Lesi sitifiketi singahlonza abasebenzisa iposi.
-
-certmgr-delete-cert =
-    .title = Cisha Isitifiketi
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Cisha Isitifiketi

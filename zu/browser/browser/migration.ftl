@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Amawindi namamaki
 browser-data-session-label =
     .value = Amawindi namamaki
+

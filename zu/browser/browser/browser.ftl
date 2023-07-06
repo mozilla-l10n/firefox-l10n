@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Ukuphequlula okuyimfihlo)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Ukuphequlula okuyimfihlo)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Ukuphequlula okuyimfihlo)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Ukuphequlula okuyimfihlo)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -125,8 +92,10 @@ browser-window-minimize-button =
 
 urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
+
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
+
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo
 
@@ -170,8 +139,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = Hlela lolu phawu lokubekisa
 bookmarks-toolbar-menu =
     .label = Ibha yamathuluzi ezimpawu zokubekisa
 bookmarks-toolbar-placeholder =
@@ -209,6 +176,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Vumela okuzivelelayo ku-{ $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Vimbela okuqhamuka esikhaleni { $uriHost }
     .accesskey = p
@@ -230,13 +198,16 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Ukwaziswa okuthathwe kwafakwa
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Omoki bokuphequlula
+
 tabs-toolbar-new-tab =
     .label = Ithebhu entsha
+
 tabs-toolbar-list-all-tabs =
     .label = Faka ohlwini bonke omaki
     .tooltiptext = Faka ohlwini bonke omaki
@@ -255,10 +226,14 @@ data-reporting-notification-message = I-{ -brand-short-name } ithumela ngokuzenz
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = I-{ -brand-short-name } ivimbele le khasi ekulayisheni kabusha ngokuzenzakalela.
 refresh-blocked-redirect-label = I-{ -brand-short-name } ivimbele le khasi ekuthumeleni kabusha ngokuzenzakalela kwelinye ikhasi.
+
 refresh-blocked-allow =
     .label = Vumela
     .accesskey = A
@@ -272,6 +247,8 @@ refresh-blocked-allow =
 ## Pop-up Notification
 
 
+## Add-on Pop-up Notifications
+
 ## Pop-up warning
 
 # Variables:
@@ -281,6 +258,7 @@ popup-warning-message =
         [one] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni iwindi le-pop-up.
        *[other] I-{ -brand-short-name } ivimbele leli sayithi ekuvuleni amawindi we-pop-up angu-{ $popupCount }.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

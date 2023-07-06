@@ -38,6 +38,8 @@ copy-raw-data-to-clipboard-label = Kopisha ulwazi olungakasetshenziswa kwi-clipb
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

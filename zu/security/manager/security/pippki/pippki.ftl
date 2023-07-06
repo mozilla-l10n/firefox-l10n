@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Ukuthatha ufake izitifiketi
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Ukuthatha ufake izitifiketi
     .style = min-width: 46em
@@ -54,4 +50,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Okubalulekile: Uma ukhohlwa igama lokungena lesitifiketi ozosigcina, ngeke ukwazi ukubuyisa lesi esigciniwe kamuva.  Sicela ulibhale endaweni ephephile.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

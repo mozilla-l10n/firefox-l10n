@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = Yakha Indlela Echazayo
-    .style = width: 45em; height: 32em;
-
 create-profile-window2 =
     .title = Yakha Indlela Echazayo
     .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Isingeniso
-       *[other] Siyakwamukela ku-{ create-profile-window.title }
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Isiphetho
-       *[other] Iqedelela i-{ create-profile-window.title }
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

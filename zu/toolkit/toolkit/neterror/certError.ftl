@@ -7,6 +7,7 @@
 
 connectionFailure-title = Ayikwazi Ukuxhuma
 deniedPortAccess-title = Leli kheli livinjelwe
+
 fileNotFound-title = Ifayela alitholakali
 generic-title = Hayi bo.
 netInterrupt-title = Ukuxhumana kuphazamisekile
