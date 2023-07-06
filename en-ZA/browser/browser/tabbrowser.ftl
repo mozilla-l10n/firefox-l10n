@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = New Tab
+
 tabbrowser-menuitem-close-tab =
     .label = Close Tab
 tabbrowser-menuitem-close =
@@ -50,3 +51,6 @@ tabbrowser-context-unmute-tab =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = List All { $tabCount } Tabs
+
+## Tab manager menu buttons
+

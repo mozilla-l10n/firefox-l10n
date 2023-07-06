@@ -16,18 +16,6 @@ synced-tabs-sidebar-tabsnotsyncing = Turn on tab syncing to view a list of tabs 
 synced-tabs-context-open =
     .label = Open
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Open in a New Tab
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Open in a New Window
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Open in a New Private Window
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Bookmark This Tab…
-    .accesskey = B
 
 ##
 

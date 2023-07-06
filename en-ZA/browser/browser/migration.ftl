@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = Windows and Tabs
 browser-data-session-label =
     .value = Windows and Tabs
+

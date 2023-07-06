@@ -32,6 +32,7 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = Unable to connect
 deniedPortAccess-title = This address is restricted
+
 fileNotFound-title = File not found
 fileAccessDenied-title = Access to the file was denied
 generic-title = Oops.

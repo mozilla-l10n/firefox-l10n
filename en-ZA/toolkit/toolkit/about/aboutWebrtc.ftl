@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = save about:webrtc as
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = AEC Logging
 about-webrtc-aec-logging-off-state-label = Start AEC Logging
 about-webrtc-aec-logging-on-state-label = Stop AEC Logging
 about-webrtc-aec-logging-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
+
 about-webrtc-aec-logging-toggled-on-state-msg = AEC logging active (speak with the caller for a few minutes and then stop the capture)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Captured log files can be found in: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -66,10 +69,12 @@ about-webrtc-type-remote = Remote
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
+
 about-webrtc-save-page-label = Save Page
 about-webrtc-debug-mode-msg-label = Debug Mode
 about-webrtc-debug-mode-off-state-label = Start Debug Mode
@@ -80,6 +85,7 @@ about-webrtc-log-show-msg = show log
     .title = click to expand this section
 about-webrtc-log-hide-msg = hide log
     .title = click to collapse this section
+
 about-webrtc-log-section-show-msg = Show log
     .title = Click to expand this section
 about-webrtc-log-section-hide-msg = Hide log
@@ -135,6 +141,7 @@ about-webrtc-save-page-msg = page saved to: { $path }
 about-webrtc-debug-mode-off-state-msg = trace log can be found at: { $path }
 about-webrtc-debug-mode-on-state-msg = debug mode active, trace log at: { $path }
 about-webrtc-aec-logging-off-state-msg = captured log files can be found in: { $path }
+
 about-webrtc-save-page-complete-msg = Page saved to: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trace log can be found at: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debug mode active, trace log at: { $path }

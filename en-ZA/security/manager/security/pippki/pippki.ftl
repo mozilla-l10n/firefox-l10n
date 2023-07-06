@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Downloading Certificate
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Downloading Certificate
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Protected Token Authentication
-protected-auth-msg = Please authenticate to the token. Authentication method depends on the type of your token.
-protected-auth-token = Token:
+## Protected authentication alert
+
