@@ -10,6 +10,8 @@ fxa-menu-send-tab-to-device =
             [one] ডিভাইসে ট্যাব পাঠান
            *[other] ডিভাইসে { $tabCount } ট্যাব পাঠান
         }
+
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = ডিভাইস সিঙ্ক হচ্ছে…
+

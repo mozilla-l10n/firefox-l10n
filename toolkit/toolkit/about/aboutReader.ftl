@@ -4,6 +4,7 @@
 
 about-reader-loading = লোড করা হচ্ছে…
 about-reader-load-error = পাতা থেকে নিবন্ধ লোড ব্যর্থ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

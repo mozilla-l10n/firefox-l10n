@@ -110,6 +110,8 @@ media-device-channels = চ্যানেল
 media-device-rate = মূল্যায়ন করুন
 media-device-latency = যোজনী
 
+## Codec support table
+
 ##
 
 intl-title = আন্তর্জাতিকিকরণ & স্থানীয়করণ

@@ -20,10 +20,6 @@ certmgr-tab-ca =
 certmgr-mine = উল্লেখিত প্রতিষ্ঠানগুলি থেকে সনাক্তকারী সার্টিফিকেট বিদ্যমান
 certmgr-people = উল্লেখিত ব্যক্তিদের সনাক্ত করতে ব্যবহৃত সার্টিফিকেট আপনার ফাইলে বিদ্যমান
 
-certmgr-edit-ca-cert =
-    .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA সার্টিফিকেটের বিশ্বস্ততা সংক্রান্ত বৈশিষ্ট্য সম্পাদনা
     .style = min-width: 48em;
@@ -36,10 +32,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = এই সার্টিফিকেটের সাহায্যে মেইল ব্যবহারকারীদের সনাক্ত করা সম্ভব।
 
-certmgr-delete-cert =
-    .title = সার্টিফিকেট অপসারণ
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = সার্টিফিকেট অপসারণ
     .style = min-width: 48em; min-height: 24em;
@@ -49,9 +41,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = সার্ভার
-
-certmgr-override-lifetime =
-    .label = মেয়াদ
 
 certmgr-token-name =
     .label = নিরাপত্তা ডিভাইস
