@@ -9,10 +9,6 @@ failed-pp-change = Nepavyko pakeisti pagrindinio slaptažodžio.
 incorrect-pp = Neteisingai surinkote dabartinį pagrindinį slaptažodį. Bandykite dar kartą.
 pp-change-ok = Pagrindinis slaptažodis sėkmingai pakeistas.
 
-pp-empty-warning = Jūsų įrašyti slaptažodžiai ir privatūs raktai nebus apsaugoti.
-pp-erased-ok = Pašalinote pagrindinį slaptažodį. { pp-empty-warning }
-pp-not-wanted = Dėmesio! Nusprendėte nesinaudoti pagrindiniu slaptažodžiu. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Šiuo metu pasirinkta FIPS veiksena. Jai reikia pagrindinio slaptažodžio.
 pw-change-success-title = Slaptažodis pakeistas sėkmingai
 pw-change-failed-title = Slaptažodžio pakeisti nepavyko

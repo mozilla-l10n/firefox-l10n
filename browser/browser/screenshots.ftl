@@ -55,3 +55,4 @@ screenshots-private-window-error-details = Atsiprašome už nepatogumą. Mes dir
 
 screenshots-generic-error-title = Oi! „{ -screenshots-brand-name }“ sugedo.
 screenshots-generic-error-details = Mes nesame tikri, kas ką tik nutiko. Norite pabandyti dar kartą arba nufotografuoti kitą tinklalapį?
+

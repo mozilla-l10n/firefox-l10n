@@ -164,6 +164,8 @@ media-capabilities-title = Medijos galimybės
 # List all the entries of the database.
 media-capabilities-enumerate = Išvardinti duomenų bazės turinį
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalizacija ir lokalizacija

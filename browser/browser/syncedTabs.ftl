@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Atverti
     .accesskey = A
-synced-tabs-context-open-in-new-tab =
-    .label = Atverti naujoje kortelėje
-    .accesskey = o
-synced-tabs-context-open-in-new-window =
-    .label = Atverti naujame lange
-    .accesskey = l
-synced-tabs-context-open-in-new-private-window =
-    .label = Atverti naujame privačiojo naršymo lange
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Įtraukti kortelę į adresyną…
-    .accesskey = t
 
 ##
 

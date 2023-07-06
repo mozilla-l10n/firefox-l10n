@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Dabartinis žurnalo failas:
-about-logging-current-log-modules = Dabartiniai žurnalo moduliai:
 about-logging-log-tutorial = Paskaitykite apie <a data-l10n-name="logging">HTTP žurnalizavimą</a> norėdami gauti instrukcijų kaip naudotis šiuo įrankiu.
 about-logging-set-log-file = Parinkti žurnalo failą
 about-logging-set-log-modules = Parinkti žurnalo modulius
 about-logging-start-logging = Pradėti žurnalizavimą
 about-logging-stop-logging = Baigti žurnalizavimą
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

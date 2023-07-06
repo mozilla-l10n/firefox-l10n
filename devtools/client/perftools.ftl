@@ -82,8 +82,6 @@ perftools-thread-renderer =
     .title = Kai „WebRender“ yra įjungtas, tai gija, vykdanti „OpenGL“ kreipinius
 perftools-thread-render-backend =
     .title = „WebRender“ priklausanti „RenderBackend“ gija
-perftools-thread-paint-worker =
-    .title = Kai yra įjungtas piešimas už pagrindinės gijos ribų, tai gija, kurioje vyksta piešimas
 perftools-thread-style-thread =
     .title = Stilių apskaičiavimas yra padalintas į keletą gijų
 pref-thread-stream-trans =
@@ -121,6 +119,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Saityno kūrėjams

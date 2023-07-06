@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Bandant užmegzti ryšį su { $hostname } įvyko klaida. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Klaidos kodas: { $error }
-
 psmerr-ssl-disabled = Nepavyko užmegzti saugaus ryšio, nes SSL protokolo naudojimas išjungtas.
 psmerr-ssl2-disabled = Nepavyko užmegzti saugaus ryšio, nes svetainė naudoja seną, nesaugią SSL protokolo atmainą.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Nesukonfigūruotas joks palaikomas 
 ssl-error-unsupported-signature-algorithm = Partnerinis kompiuteris naudoja nepalaikomą parašo ir maišos algoritmo kombinaciją.
 ssl-error-missing-extended-master-secret = Partnerinis kompiuteris bandė pratęsti ryšį be tinkamo „extended_master_secret“ plėtinio.
 ssl-error-unexpected-extended-master-secret = Partnerinis kompiuteris bandė pratęsti ryšį su nelauktu „extended_master_secret“ plėtiniu.
+
 sec-error-io = Saugiai nustatant tapatybę įvyko įvesties–išvesties klaida.
 sec-error-library-failure = saugumo bibliotekos klaida.
 sec-error-bad-data = saugumo biblioteka: gauti netinkami duomenys.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Iššifruoti nepavyko, nes rakto šifravimo al
 sec-error-pkcs7-bad-signature = Nepavyko patikrinti parašo, nes nerastas pasirašytojas, arba jų rasta per daug, arba duomenys yra sugadinti.
 sec-error-unsupported-keyalg = Nepalaikomas arba nežinomas rakto algoritmas.
 sec-error-decryption-disallowed = Iššifruoti nepavyko, nes užšifruota naudojant neleidžiamą algoritmą arba rakto dydį.
-xp-sec-fortezza-bad-card = „Fortezza“ korta nebuvo tvarkingai inicijuota. Išimkite ją ir grąžinkite tam, kas ją suteikė.
-xp-sec-fortezza-no-card = „Fortezza“ kortų nerasta
-xp-sec-fortezza-none-selected = Nepasirinkta „Fortezza“ korta
-xp-sec-fortezza-more-info = Pasirinkite tapatybę, apie kurią norite sužinoti daugiau
-xp-sec-fortezza-person-not-found = Tapatybė nerasta
-xp-sec-fortezza-no-more-info = Apie tapatybę daugiau informacijos nėra
-xp-sec-fortezza-bad-pin = Blogas PIN kodas
-xp-sec-fortezza-person-error = Nepavyko inicijuoti „Fortezza“ tapatybių.
 sec-error-no-krl = Šios srities liudijimo atšauktų raktų sąrašas (KRL) nerastas.
 sec-error-krl-expired = Šios srities liudijimo atšauktų raktų sąrašas (KRL) nebegalioja.
 sec-error-krl-bad-signature = Šios srities liudijimo atšauktų raktų sąrašo (KRL) parašas netinkamas.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Liudijimas tokiu alternatyviuoju vardu jau y
 sec-error-key-nickname-collision = Raktas tokiu alternatyviuoju vardu jau yra.
 sec-error-safe-not-created = klaida kuriant saugų objektą
 sec-error-baggage-not-created = klaida kuriant bagažo objektą
-xp-java-remove-principal-error = Nepavyko pašalinti mazgo
-xp-java-delete-privilege-error = Nepavyko panaikinti privilegijos
-xp-java-cert-not-exists-error = Šis mazgas neturi liudijimo
 sec-error-bad-export-algorithm = Reikiamas algoritmas uždraustas.
 sec-error-exporting-certificates = Bandant eksportuoti liudijimus įvyko klaida.
 sec-error-importing-certificates = Bandant importuoti liudijimus įvyko klaida.
@@ -338,6 +319,7 @@ sec-error-locked-password = Slaptažodis fiksuotas.
 sec-error-unknown-pkcs11-error = Nežinoma PKCS #11 klaida.
 sec-error-bad-crl-dp-url = Nurodytas CRL (atšauktų liudijimų sąrašo) adresas yra neleistinas arba nežinomo tipo.
 sec-error-cert-signature-algorithm-disabled = Liudijimas pasirašytas, naudojant nesaugų ir todėl nepalaikomą algoritmą.
+
 mozilla-pkix-error-key-pinning-failure = Šis serveris yra reikalavęs įsiminti šifravimui naudojamus raktus (HPKP), tačiau iš dabar pateiktų liudijimų nepavyko sukonstruoti liudijimų grandinės, tenkinančios įsimintus raktus. Šio tipo pažeidimų nepaisyti neleidžiama.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Šio serverio pateiktame liudijime naudojamas „Basic Constraints“ plėtinys, identifikuojantis patį serverį kaip liudijimų įstaigą. Tvarkingai išduotų liudijimų atveju taip neturėtų būti.
 mozilla-pkix-error-inadequate-key-size = Šis serveris pateikė liudijimą, kurio rakto dydis per mažas saugiam ryšiui užmegzti.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Serveris pateikė liudijimą su ne
 mozilla-pkix-error-empty-issuer-name = Serveris pateikė liudijimą su tuščiu išdavėjo unikaliu vardu.
 mozilla-pkix-error-additional-policy-constraint-failed = Tikrinant šį liudijimą nepavyko papildomas nuostatų apribojimas.
 mozilla-pkix-error-self-signed-cert = Liudijimu nepasitikima, nes jis yra pasirašytas paties gavėjo.
+
+xp-java-remove-principal-error = Nepavyko pašalinti mazgo
+xp-java-delete-privilege-error = Nepavyko panaikinti privilegijos
+xp-java-cert-not-exists-error = Šis mazgas neturi liudijimo
+
+xp-sec-fortezza-bad-card = „Fortezza“ korta nebuvo tvarkingai inicijuota. Išimkite ją ir grąžinkite tam, kas ją suteikė.
+xp-sec-fortezza-no-card = „Fortezza“ kortų nerasta
+xp-sec-fortezza-none-selected = Nepasirinkta „Fortezza“ korta
+xp-sec-fortezza-more-info = Pasirinkite tapatybę, apie kurią norite sužinoti daugiau
+xp-sec-fortezza-person-not-found = Tapatybė nerasta
+xp-sec-fortezza-no-more-info = Apie tapatybę daugiau informacijos nėra
+xp-sec-fortezza-bad-pin = Blogas PIN kodas
+xp-sec-fortezza-person-error = Nepavyko inicijuoti „Fortezza“ tapatybių.

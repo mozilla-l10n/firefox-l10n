@@ -14,6 +14,7 @@ xpinstall-prompt-message = Bandote įdiegti priedą iš { $host }. Prieš tęsda
 
 xpinstall-prompt-header-unknown = Leisti nežinomai svetainei įdiegti priedą?
 xpinstall-prompt-message-unknown = Bandote įdiegti priedą iš nežinomos svetainės. Prieš tęsdami įsitikinkite, ar pasitikite šia svetaine.
+
 xpinstall-prompt-dont-allow =
     .label = Neleisti
     .accesskey = N
@@ -37,12 +38,14 @@ xpinstall-disabled = Programinės įrangos automatinis diegimas šiuo metu nelei
 xpinstall-disabled-button =
     .label = Leisti
     .accesskey = L
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Jūsų sistemos administratorius yra užblokavęs „{ $addonName }“ ({ $addonId }).
 addon-install-full-screen-blocked = Priedų diegimas yra neleidžiamas esant viso ekrano veiksenoje, arba prieš pareinant į ją.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = „{ $addonName }“ pridėtas į „{ -brand-short-name }“
@@ -60,6 +63,7 @@ addon-removal-title = Pašalinti „{ $name }“?
 addon-removal-message = Pašalinti „{ $name }“ iš „{ -brand-shorter-name }“?
 addon-removal-button = Pašalinti
 addon-removal-abuse-report-checkbox = Pranešti apie šį priedą į „{ -vendor-short-name }“
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -69,6 +73,7 @@ addon-downloading-and-verifying =
        *[other] Parsiunčiama ir patikrinama { $addonCount } priedų…
     }
 addon-download-verifying = Tikrinamas
+
 addon-install-cancel-button =
     .label = Atsisakyti
     .accesskey = t

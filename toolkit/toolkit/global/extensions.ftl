@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Atsisakyti
     .accesskey = A
+
 webext-perms-sideload-text = Kita jūsų kompiuteryje esanti programa įrašė priedą, galintį paveikti jūsų naršyklę. Prašome peržiūrėti šio priedo prašomų leidimų sąrašą ir nuspręsti ar įjungti, ar atsisakyti (palikti išjungtą).
 webext-perms-sideload-text-no-perms = Kita jūsų kompiuteryje esanti programa įrašė priedą, galintį paveikti jūsų naršyklę. Prašome nuspręsti ar įjungti, ar atsisakyti (palikti išjungtą).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Atsisakyti
     .accesskey = A
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = „{ $extension }“ buvo atnaujintas. Jūs turite patvirtinti naujus leidimus prieš įrašant šią versiją. Pasirinkę „Atsisakyti“, liksite prie senos priedo versijos. Šis priedas turės tokius leidimus:
 webext-perms-update-accept =
     .label = Naujinti
     .accesskey = N
+
 webext-perms-optional-perms-list-intro = Jam reikia:
 webext-perms-optional-perms-allow =
     .label = Leisti
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Drausti
     .accesskey = D
+
 webext-perms-host-description-all-urls = Pasiekti jūsų duomenis visose svetainėse
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Pasiekti jūsų duomenis svetainėse, priklausančiose { $domain } sričiai
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -62,6 +68,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Pasiekti jūsų duomenis iš { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

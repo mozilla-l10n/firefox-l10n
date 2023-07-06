@@ -23,5 +23,7 @@ state-header = Būsena
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Išsamiau
+
 update-installed-on = Įdiegta: { $date }
+
 update-status = Būsena: { $status }

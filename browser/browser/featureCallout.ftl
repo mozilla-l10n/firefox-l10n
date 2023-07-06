@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = Toliau
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = Supratau!
 
@@ -16,4 +17,5 @@ callout-primary-complete-button-label = Supratau!
 ## PDF.js Feature Tour Strings
 
 callout-pdfjs-edit-button = Toliau
+
 callout-pdfjs-draw-title = Pasirašykite dokumentus naujuoju piešimo įrankiu
