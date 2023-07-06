@@ -15,8 +15,6 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
@@ -48,6 +46,7 @@ about-logging-preset-networking-description = ਨੈੱਟਵਰਕ ਮਸਲੇ
 about-logging-preset-media-playback-label = ਮੀਡੀਆ ਪਲੇਅਬੈਕ
 about-logging-preset-custom-label = ਚੁਣਿੰਦਾ
 about-logging-preset-custom-description = ਲਾਗ ਮੋਡੀਊਲ ਖੁਦ ਚੁਣੇ ਗਏ ਹਨ
+
 # Error handling
 about-logging-error = ਗਲਤੀ:
 

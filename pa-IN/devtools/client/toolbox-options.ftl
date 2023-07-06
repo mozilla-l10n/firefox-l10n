@@ -15,6 +15,7 @@ options-select-dev-tools-theme-label = ਥੀਮ
 
 # The heading
 options-context-inspector = ਨਿਰੀਖਕ
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ਬਰਾਊਜ਼ਰ ਅੰਦਾਜ ਵਿਖਾਓ
 
@@ -33,6 +34,7 @@ options-styleeditor-label = ਅੰਦਾਜ ਸੰਪਾਦਕ
 
 # The heading
 options-screenshot-label = ਸਕਰੀਨਸ਼ਾਟ ਰਵੱਈਆ
+
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = ਕੈਮਰਾ ਸ਼ਟਰ ਆਵਾਜ਼ ਚਲਾਓ
 options-screenshot-audio-tooltip =

@@ -28,4 +28,5 @@ learn-more = <span data-l10n-name="link">ਹੋਰ ਜਾਣੋ</span>
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ਪ੍ਰਯੋਗੀ ਜਾਇਦਾਦ ਹੈ।
+
 css-compatibility-learn-more-message = <strong>{ $rootProperty }</strong> ਬਾਰੇ <span data-l10n-name="link">ਹੋਰ ਜਾਣੋ</span>

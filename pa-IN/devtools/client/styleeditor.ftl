@@ -7,7 +7,6 @@ styleeditor-save-button = ਸੰਭਾਲੋ
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = ਅੰਦਾਜ ਸੰਪਾਦਕ ਚੋਣਾਂ
-styleeditor-media-rules = @media ਸਵਾਲ
 styleeditor-editor-textbox =
     .data-placeholder = ਸੀ.ਐਸ.ਐਸ. ਇੱਥੇ ਲਿਖੋ।
 styleeditor-no-stylesheet = ਇਸ ਵਰਕੇ ਲਈ ਕੋਈ ਅੰਦਾਜ ਸ਼ੀਟ ਨਹੀਂ ਹੈ।
@@ -21,6 +20,7 @@ styleeditor-find =
 styleeditor-find-again =
     .label = ਮੁੜ ਕੇ ਲੱਭੋ
     .accesskey = g
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -34,13 +34,6 @@ about-networking-messages-received = ਪ੍ਰਾਪਤ ਕੀਤੇ ਸੁਨ�
 about-networking-bytes-sent = ਭੇਜੇ ਬਾਈਟ
 about-networking-bytes-received = ਪ੍ਰਾਪਤ ਕੀਤੇ ਬਾਈਟ
 about-networking-logging = ਲਾਗ ਰੱਖਣਾ
-about-networking-log-tutorial = ਇਹ ਟੂਲ ਦੀ ਵਰਤੋਂ ਸਿ਼ਖਣ ਲਈ ਹਦਾਇਤਾਂ ਵਾਸਤੇ <a data-l10n-name="logging">HTTP Logging</a> ਨੂੰ ਵੇਖੋ
-about-networking-current-log-file = ਮੌਜੂਦਾ ਲਾਗ ਫਾਈਲ:
-about-networking-current-log-modules = Current Log Modules:
-about-networking-set-log-file = Set Log File
-about-networking-set-log-modules = Set Log Modules
-about-networking-start-logging = Start Logging
-about-networking-stop-logging = Stop Logging
 about-networking-dns-lookup = DNS ਖੋਜ
 about-networking-dns-lookup-button = ਹੱਲ਼
 about-networking-dns-domain = ਡੋਮੇਨ:

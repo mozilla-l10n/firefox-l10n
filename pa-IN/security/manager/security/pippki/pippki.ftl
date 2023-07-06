@@ -8,39 +8,38 @@ password-quality-meter = ਪਾਸਵਰਡ ਕੁਆਲਟੀ ਮੀਟਰ
 
 change-device-password-window =
     .title = ਪਾਸਵਰਡ ਬਦਲੋ
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ: { $tokenName }
 change-password-old = ਮੌਜੂਦਾ ਪਾਸਵਰਡ:
 change-password-new = ਨਵਾਂ ਪਾਸਵਰਡ:
 change-password-reenter = ਨਵਾਂ ਪਾਸਵਰਡ (ਮੁੜ):
+
 pippki-failed-pw-change = ਪਾਸਵਰਡ ਬਦਲਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 pippki-incorrect-pw = ਤੁਸੀਂ ਆਪਣਾ ਮੌਜੂਦਾ ਪਾਸਵਰਡ ਠੀਕ ਨਹੀਂ ਭਰਿਆ ਹੈ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
 pippki-pw-change-ok = ਪਾਸਵਰਡ ਕਾਮਯਾਬੀ ਨਾਲ ਬਦਲਿਆ ਹੈ।
+
 pippki-pw-empty-warning = ਤੁਹਾਡੇ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਤੇ ਪ੍ਰਾਈਵੇਟ ਕੁੰਜੀਆਂ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਰਹਿਣਗੀਆਂ।
 pippki-pw-erased-ok = ਤੁਸੀਂ ਆਪਣਾ ਪਾਸਵਰਡ ਹਟਾ ਚੁੱਕੇ ਹੋ। { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ਸਾਵਧਾਨ! ਤੁਸੀਂ ਪਾਸਵਰਡ ਨਾ ਵਰਤਣ ਦਾ ਫ਼ੈਸਲਾ ਕੀਤਾ ਹੈ। { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = ਇਸ ਵੇਲੇ ਤੁਸੀਂ FIPS ਢੰਗ ਵਰਤ ਰਹੇ ਹੋ। FIPS ਲਈ ਪਾਸਵਰਡ ਖਾਲੀ ਨਹੀਂ ਹੋ ਸਕਦਾ ਹੈ।
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ
     .style = min-width: 40em
 reset-password-button-label =
     .label = ਮੁੜ-ਲੋਡ ਕਰੋ
 reset-primary-password-text = ਜੇਕਰ ਤੁਸੀਂ ਆਪਣਾ ਮੁੱਖ ਪਾਸਵਰਡ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਤਾਂ, ਤੁਹਾਡੇ ਸਭ ਸੰਭਾਲੇ ਵੈੱਬ ਤੇ ਈ-ਮੇਲ ਪਾਸਵਰਡ, ਫਾਰਮ ਡਾਟਾ, ਨਿੱਜੀ ਸਰਟੀਫਿਕੇਟ ਅਤੇ ਨਿੱਜੀ ਕੁੰਜੀਆਂ ਭੁਲਾ ਦਿੱਤੀਆਂ ਜਾਣਗੀਆਂ। ਕੀ ਤੁਸੀਂ ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹੋ?
+
 pippki-reset-password-confirmation-title = ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕਰੋ
 pippki-reset-password-confirmation-message = ਤੁਹਾਡਾ ਮੁੱਖ ਪਾਸਵਰਡ ਮੁੜ-ਸੈੱਟ ਕੀਤਾ ਜਾ ਚੁੱਕਾ ਹੈ।
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-    .style = width: 46em
 download-cert-window2 =
     .title = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = ਖਾਸ: ਜੇਕਰ ਤੁਸੀਂ ਸਰਟੀਫਿਕੇਟ ਬੈਕਅੱਪ ਪਾਸਵਰਡ ਭੁੱਲ ਗਏ ਤਾਂ ਤੁਸੀਨ ਇਸ ਬੈਕਅੱਪ ਨੂੰ ਬਾਅਦ ਵਿੱਚ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕੋਗੇ। ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਨੂੰ ਸੁਰੱਖਿਅਤ ਥਾਂ ਉੱਤੇ ਰੱਖੋ।
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = ਸੁਰੱਖਿਅਤ ਟੋਕਨ ਦੀ ਪਰਮਾਣਕਿਤਾ
-protected-auth-msg = ਟੋਕਨ ਨੂੰ ਪਰਮਾਣਿਤ ਕਰੋ ਜੀ। ਪਰਮਾਣਕਿਤਾ ਢੰਗ ਤੁਹਾਡੇ ਟੋਕਨ ਦੀ ਟਾਈਪ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ।
-protected-auth-token = ਟੋਕਨ:
 
 ## Protected authentication alert
 
