@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = پرونده وقایع فعلی:
-about-logging-current-log-modules = ماژول‌های وقایع فعلی:
 about-logging-log-tutorial = برای اطلاع از نحوه استفاده از این ابزار به <a data-l10n-name="logging">وقایع HTTP</a> سر بزنید.
 about-logging-set-log-file = تنظیم پرونده وقایع
 about-logging-set-log-modules = تنظیم ماژول‌های وقایع
 about-logging-start-logging = شروع ثبت وقایع
 about-logging-stop-logging = توقف ثبت وقایع
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

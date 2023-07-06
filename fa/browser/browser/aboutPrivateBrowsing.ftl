@@ -22,10 +22,12 @@ about-private-browsing-not-private = شما در حال حاضر در یک پن�
 about-private-browsing-info-description-private-window = پنجره ناشناس: { -brand-short-name } تاریخچهٔ جست‌وجو و مرور شما را بعد از بستن تمام پنجره‌های ناشناس پاک می‌کند. این کار شما را ناشناس نمی‌کند.
 about-private-browsing-info-description-simplified = وقتی تمام پنجره‌های ناشناس را می‌بندید، { -brand-short-name } تاریخچهٔ جست‌وجو و مرور شما را پاک می‌کند، اما این کار شما را ناشناس نمی‌کند.
 about-private-browsing-learn-more-link = بیشتر بدانید
+
 about-private-browsing-hide-activity = فعالیت‌ها و مکان خود را در هر جایی که مرور می‌کنید پنهان کنید
 about-private-browsing-get-privacy = در هر جایی که اینترنت را مرور می‌کنید، از حریم خصوصی خود محافظت کنید
 about-private-browsing-hide-activity-1 = فعالیت مرور و مکان خود را با { -mozilla-vpn-brand-name } مخفی کنید. با یک کلیک، حتی در وای‌فای‌های عمومی، یک اتصال ایمن داشته باشید.
 about-private-browsing-prominent-cta = با { -mozilla-vpn-brand-name } ناشناس بمانید
+
 about-private-browsing-focus-promo-cta = بارگیری { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: مرور محرمانه در مسیر
 about-private-browsing-focus-promo-text = کارهٔ همراه مرور محرمانهٔ ویژه‌مان هر بار پیشینه و کلوچک‌هایتان را پاک می‌کند.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = مرور محرمانه را به 
 about-private-browsing-focus-promo-text-b = از { -focus-brand-name } برای جست‌وجوهای ناشناسی که نمی‌خواهید مرورگر اصلی تلفن همراهتان ببیند، استفاده کنید.
 about-private-browsing-focus-promo-header-c = گام بعدی محرمانگی در تلفن همراه
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } در عین مسدود کردن تبلیغات و ردیاب‌ها، هر بار سابقه‌تان را را پاک می‌کند.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = بستن
+
 about-private-browsing-promo-close-button =
     .title = بستن
 

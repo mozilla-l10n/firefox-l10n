@@ -4,6 +4,7 @@
 
 page-title = اطلاعات رفع اشکال
 page-subtitle = این صفحه حاوی اطلاعات فنی است که امکان دارد هنگامی که به دنبال حل مشکلی هستید به شما کمک کند.  اگر به دنبال پاسخی برای پرسش‌های معمول دربارهٔ { -brand-short-name } هستید، از <a data-l10n-name="support-link">وبگاه پشتیبانی ما</a> بازدید نمایید.
+
 crashes-title = گزارش‌های فروپاشی
 crashes-id = شناسهٔ گزارش
 crashes-send-date = ثبت شد
@@ -68,6 +69,7 @@ app-basics-location-service-key-google = کلید سرویس مکان‌یابی
 app-basics-safebrowsing-key-google = کلید مرور امن گوگل
 app-basics-key-mozilla = کلید سرویس مکان‌یابی موزیلا
 app-basics-safe-mode = حالت امن
+
 show-dir-label =
     { PLATFORM() ->
         [macos] نمایش در Finder
@@ -146,6 +148,8 @@ media-device-rate = ارزیابی
 media-device-latency = تاخیر
 media-capabilities-title = قابلیت‌های رسانه
 
+## Codec support table
+
 ##
 
 intl-title = بین المللی سازی& محلی سازی
@@ -180,6 +184,7 @@ report-crash-for-days =
         [one] گزارش فروپاشی‌ها برای { $days } روز گذشته
        *[other] گزارش فروپاشی‌ها برای { $days } روز گذشته
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -187,6 +192,7 @@ crashes-time-minutes =
         [one] { $minutes } دقیقه قبل
        *[other] { $minutes } دقیقه قبل
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -194,6 +200,7 @@ crashes-time-hours =
         [one] { $hours } ساعت قبل
        *[other] { $hours } ساعت قبل
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -201,6 +208,7 @@ crashes-time-days =
         [one] { $days } روز قبل
        *[other] { $days } روز قبل
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -208,6 +216,7 @@ pending-reports =
         [one] تمامی گزارش‌های فروپاشی (شامل { $reports } فروپاشیِ معلق در بازهٔ زمانی داده شده)
        *[other] تمامی گزارش‌های فروپاشی (شامل { $reports } فروپاشی معلق در باز زمانی داده شده)
     }
+
 raw-data-copied = رونوشت داده‌های خام به تخته‌گیره ارسال شد
 text-copied = رونوشت متن به تخته‌گیره ارسال شد
 
@@ -220,9 +229,11 @@ blocked-mismatched-version = مسدود شدن برای درایور نسخه گ
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = به خاطر نسخهٔ راه‌انداز گرافیکی شما متوقف شده است. سعی کنید راه‌انداز گرافیکی خود را به نسخهٔ { $driverVersion } یا جدیدتر ارتقا دهید.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = پارامترهای تایپ واضح
+
 compositing = ترکیب
 hardware-h264 = رمزگشایی سخت‌افزاری H264
 main-thread-no-omtc = رشته اصلی، بدون OMTC
@@ -237,6 +248,7 @@ virtual-monitor-disp = نمایش نمایشگر مجازی
 
 found = پیدا شد
 missing = ناپیدا
+
 gpu-process-pid = شماره پردازه GPU
 gpu-process = پردازه GPU
 gpu-description = توضیحات
@@ -259,12 +271,15 @@ webgl2-renderer = WebGL 2 Driver Renderer
 webgl2-version = نسخه راه‌انداز WebGL 2
 webgl2-driver-extensions = افزونه راه‌انداز WebGL 2
 webgl2-extensions = افزونه‌های WebGL 2
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = مسدود شده،‌ کد خطا { $failureCode }
+
 d3d11layers-crash-guard = حروفچین D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = رمزگشا ویدئویی WMF VPX
+
 reset-on-next-restart = تنظیم مجدد بعد از راه اندازی مجدد
 gpu-process-kill-button = خاتمه پروسهٔ GPU
 gpu-device-reset = بازنشانی دستگاه
@@ -273,8 +288,10 @@ uses-tiling = استفاده از Tiling
 content-uses-tiling = استفاده از Tiling(محتوا)
 off-main-thread-paint-enabled = Off Main Thread Painting فعال شد
 target-frame-rate = نرخ فریم هدف
+
 min-lib-versions = حداقل نسخهٔ لازم
 loaded-lib-versions = نسخهٔ جاری
+
 has-seccomp-bpf = Seccomp-BPF (پالایش فراخوانی‌های سیستم)
 has-seccomp-tsync = به‌هنگام‌سازی تردهای Seccomp
 has-user-namespaces = زیرمجموعه کاربر
@@ -287,14 +304,17 @@ sandbox-proc-type-content = محتوا
 sandbox-proc-type-file = محتوا پرونده
 sandbox-proc-type-media-plugin = متصل‌شوندهٔ رسانه
 sandbox-proc-type-data-decoder = رمز‌گشایِ داده
+
 launcher-process-status-0 = فعال شد
 launcher-process-status-1 = به دلیل عدم موفقیت غیرفعال شد
 launcher-process-status-2 = در هر شرایطی غیرفعال شود
 launcher-process-status-unknown = وضعیت نامشخص
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+
 async-pan-zoom = پان/بزرگنمایی ناهمگام
 apz-none = هیچ‌کدام
 wheel-enabled = ورودی چرخ فعال شد
@@ -329,6 +349,7 @@ support-printing-prefs-value = مقدار
 support-remote-experiments-title = آزمایش‌های از راه دور
 support-remote-experiments-name = نام
 support-remote-experiments-branch = شاخهٔ آزمایش
+
 support-remote-features-title = ویژگی‌های از راه دور
 support-remote-features-name = نام
 support-remote-features-status = وضعیت

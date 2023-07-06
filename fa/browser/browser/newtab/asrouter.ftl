@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = ویژگی پیشنهادی
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = چرا این را می‌بینم
+
 cfr-doorhanger-extension-cancel-button = اکنون نه
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = اکنون اضافه کن
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = مدیریت تنظیمات پیشنهادی
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = این پیشنهاد را به من نشان نده
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = بیشتر بدانید
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = توسط { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = توصیه
 cfr-doorhanger-extension-notification2 = توصیه
     .tooltiptext = افزونه‌های توصیه شده
     .a11y-announcement = افزونه‌های توصیه شده موجود
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = توصیه
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = بیشتر بدانید
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ویژگی‌های جدید:
+
 cfr-whatsnew-button =
     .label = تازه‌ها
     .tooltiptext = تازه‌ها
+
 cfr-whatsnew-release-notes-link-text = یادداشت‌های انتشار را بخوانید
 
 ## Enhanced Tracking Protection Milestones
@@ -107,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = از کار انداختن
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = حریم خصوصی شما مهم است. { -brand-short-name } هم‌اکنون وبگاه‌ها را منزوی می‌کند یا در جعبهٔ شنی قرار می‌دهد، که کار رخنه‌گران را برای دزدین گذرواژه‌ها، کارت‌های اعتباری و سایر اطلاعات حساس سخت‌تر می‌کند.
-cfr-doorhanger-fission-header = ایزوله‌سازی سایت
-cfr-doorhanger-fission-primary-button = باشه،‌ متوجه شدم
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = اطلاعات بیشتر
-    .accesskey = ب
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ویدئوهای این سایت ممکن است در نسخهٔ فعلی { -brand-short-name } به درستی نمایش داده نشود. برای پشتیبانی ویدئویی کامل، { -brand-short-name } را هم‌اکنون بروزرسانی کنید.
@@ -122,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = هم‌اکنون بروزرسان
     .accesskey = ه
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = اطلاعات بیشتر
-    .title = برای اطلاعات بیشتر کلیک کنید
-spotlight-learn-more-expanded = اطلاعات بیشتر
-    .title = بستن
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,18 +141,6 @@ spotlight-public-wifi-vpn-link = اکنون نه
     .accesskey = ن
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    اولین نفری باشید که قوی‌ترین آزمایش
-    حریم‌خصوصی ما را تجربه می‌کند
-spotlight-total-cookie-protection-body = محافظت کامل در برابر کلوچک‌ها مانع از استفادهٔ ردیاب‌ها از کلوچک‌ها برای تعقیب شما در وب می‌شود.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } حصاری در اطراف کلوچک‌ها ایجاد می‌کند و آن‌ها را به پایگاهی که در آن هستید محدود می‌کند تا ردیاب‌ها نتوانند از آن‌ها برای دنبال کردن شما استفاده کنند. با دسترسی زودهنگام، به بهینه‌سازی این ویژگی کمک خواهید کرد تا بتوانیم به ساختن یک وبِ بهتر برای همه ادامه دهیم.
-spotlight-total-cookie-protection-primary-button = روشن کردن محافظت کامل در برابر کلوچک‌ها
-spotlight-total-cookie-protection-secondary-button = اکنون نه
 
 ## Emotive Continuous Onboarding
 

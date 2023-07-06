@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = نشانک‌گذاری زبانه‌ها…
     .accesskey = k
-bookmark-tab =
-    .label = نشانک‌گذاری زبانه
-    .accesskey = B
 tab-context-bookmark-tab =
     .label = نشانک‌گذاری زبانه…
     .accesskey = ن
@@ -103,6 +100,7 @@ tab-context-move-tabs =
            *[other] جابجایی زبانه‌ها
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

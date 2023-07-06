@@ -5,8 +5,6 @@
 
 ## These strings are used in the about:preferences moreFromMozilla page
 
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-button-mozilla-rally-2 = پیوستن به { -rally-short-name }
 more-from-moz-learn-more-link = بیشتر بدانید
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page

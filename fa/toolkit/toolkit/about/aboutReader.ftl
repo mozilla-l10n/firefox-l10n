@@ -4,6 +4,7 @@
 
 about-reader-loading = در حال بارکردن...
 about-reader-load-error = بارگذاری مقاله از این صفحه ناموفق بود
+
 about-reader-color-scheme-light = نور
     .title = طرح رنگ روشن
 about-reader-color-scheme-dark = تیره
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = سیاه و سفید با تون قهوه‌ا
     .title = طرح رنگ قرمز قهوه‌ای
 about-reader-color-scheme-auto = خودکار
     .title = Color Scheme Auto
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

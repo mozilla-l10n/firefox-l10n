@@ -20,9 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = در حال بارگیری گواهی
-    .style = width: 46em
 download-cert-window2 =
     .title = در حال بارگیری گواهی
     .style = min-width: 46em
@@ -56,11 +53,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = تصدیق هویت توسط نشانهٔ حفاظت شده
-protected-auth-msg = لطفأ در برابر این نشانه هویت خود را تصدیق کنید. روش تصدیق هویت به نوع نشانه‌تان بستگی دارد.
-protected-auth-token = نشانه:
 
 ## Protected authentication alert
 

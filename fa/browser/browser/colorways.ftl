@@ -6,6 +6,9 @@
 ## Colorway names and descriptions
 
 visionary-colorway-name = رؤیایی
+
 activist-colorway-name = کنشگر
+
 dreamer-colorway-name = رؤیاپرداز
+
 innovator-colorway-name = نوآور

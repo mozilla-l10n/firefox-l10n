@@ -14,6 +14,7 @@ xpinstall-prompt-message = شما در حال نصب یک افزونه از { $h
 
 xpinstall-prompt-header-unknown = به یک سایت ناشناخته اجازه نصب یک افزونه را می‌دهید؟
 xpinstall-prompt-message-unknown = شما در حال نصب یک افزونه از یک وب‌سایت ناشناخته هستید. قبل از ادامه دادن از قابل اعتماد بودن سایت اطمینان حاصل کنید.
+
 xpinstall-prompt-dont-allow =
     .label = اجازه نده
     .accesskey = D
@@ -37,12 +38,14 @@ xpinstall-disabled = نصب نرم‌افزار در حال حاضر غیرفع�
 xpinstall-disabled-button =
     .label = فعال‌سازی
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = ‫{ $addonName } ({ $addonId }) توسط مدیر سیستم شما مسدود شده است.
 addon-install-full-screen-blocked = نصب افزونه در حین یا قبل از ورود به حالت تمام صفحه مجاز نیست.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } به { -brand-short-name } افزوده شد
@@ -60,6 +63,7 @@ addon-removal-title = { $name } حذف شود؟
 addon-removal-message = حذف { $name } از { -brand-shorter-name }؟
 addon-removal-button = حذف
 addon-removal-abuse-report-checkbox = گزارش این افزونه به { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -68,6 +72,7 @@ addon-downloading-and-verifying =
        *[other] در حال بارگیری و تایید { $addonCount } افزونه…
     }
 addon-download-verifying = در حال بررسی
+
 addon-install-cancel-button =
     .label = انصراف
     .accesskey = ا

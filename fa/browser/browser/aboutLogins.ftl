@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = ورودها و گذرواژه‌ها
-login-filter =
-    .placeholder = جست‌وجو در ورودها
-create-login-button = ایجاد ورود جدید
+
 about-logins-login-filter =
     .placeholder = جست‌وجوی ورودها
     .key = F
+
 create-new-login-button =
     .title = ایجاد ورود جدید
+
 fxaccounts-sign-in-text = گذرواژه‌هایتان را دستگاه‌های دیگر خود همراه داشته باشید
 fxaccounts-sign-in-sync-button = ورود برای همگام‌سازی
 fxaccounts-avatar-button =
@@ -111,9 +111,6 @@ login-item-copied-password-button-text = رونوشت شد!
 login-item-save-changes-button = ذخیره تغییرات
 login-item-save-new-button = ذخیره
 login-item-cancel-button = لغو
-login-item-time-changed = آخرین تغییر: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = تاریخ ایجاد: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = آخرین استفاده: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -139,16 +136,19 @@ about-logins-edit-login-os-auth-dialog-message-win = برای ویرایش ور�
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ویرایش ورودهای ذخیره شده
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = برای دیدن گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = نمایش گذرواژهٔ ذخیره شده
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = برای رونوشت از گذرواژه خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = رونوشت از گذرواژهٔ ذخیره شده
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = برای برون‌ریزی گذرواژه‌های خود، گذواژهٔ ویندوز خود را وارد کنید. این به امنیت حساب شما کمک می‌کند.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,6 +167,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = انصراف
 confirmation-dialog-dismiss-button =
     .title = انصراف
+
 about-logins-confirm-remove-dialog-title = حذف این ورود؟
 confirm-delete-dialog-message = این عمل قابل برگشت نیست.
 about-logins-confirm-remove-dialog-confirm-button = برداشتن
@@ -180,11 +181,13 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] برداشتن
        *[other] برداشتن همه
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] بله، این ورود را بردار
        *[other] بله، این ورودها را بردار
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } ورود حذف شود؟
@@ -195,6 +198,7 @@ about-logins-confirm-remove-all-dialog-message =
         [1] این کار ورودهایی که در { -brand-short-name } ذخیره شده‌اند و هرگونه هشدارهای ورود ناخواسته که اینجا نمایش داده شده است را حذف خواهند کرد. این عمل غیرقابل بازگشت است.
        *[other] این کار ورودهایی که در { -brand-short-name } ذخیره شده‌اند و هرگونه هشدارهای ورود ناخواسته که اینجا نمایش داده شده است را حذف خواهند کرد. این عمل غیرقابل بازگشت است.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } ورود از همه دستگاه‌ها حذف شود؟
@@ -211,8 +215,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = برون‌ریزی ورودها و گذرواژه‌ها
 about-logins-confirm-export-dialog-message = گذرواژه‌های شما به عنوان متن قابل خواندن ذخیره خواهد شد (مثلاً BadP@ssw0rd) بنابراین هر کسی که بتواند پرونده صادر شده را باز کند، می‌تواند آنها را ببیند.
 about-logins-confirm-export-dialog-confirm-button = برون‌ریزی…
+
 about-logins-alert-import-title = ورود اطلاعات کامل شد
 about-logins-alert-import-message = نمایش جزئیاتِ ورود اطلاعات
+
 confirm-discard-changes-dialog-title = تغییرات ذخیره نشده نادیده گرفته شود؟
 confirm-discard-changes-dialog-message = تمام تغییرات ذخیره نشده از بین می‌روند.
 confirm-discard-changes-dialog-confirm-button = نادیده گرفتن
@@ -225,7 +231,6 @@ about-logins-breach-alert-date = این رخنه در تاریخ { DATETIME($dat
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = برو به { $hostname }
-about-logins-breach-alert-learn-more-link = بیشتر بدانید
 
 ## Vulnerable Password notification
 
@@ -243,6 +248,7 @@ about-logins-vulnerable-alert-learn-more-link = بیشتر یاد بگیرید
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = یک ورودی برای { $loginTitle } با آن نام‌کاربری از قبل وجود دارد. <a data-l10n-name="duplicate-link">به ورودی فعلی برو؟</a>
+
 # This is a generic error message.
 about-logins-error-message-default = خطای هنگام ذخیره این گذرواژه رخ داد.
 
@@ -292,11 +298,13 @@ about-logins-import-dialog-items-added =
         [one] <span>ورودهای جدید اضافه شده:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>ورودهای جدید اضافه شده:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>ورودهای بروزرسانی شده:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>ورودهای بروزرسانی شده:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>تعداد ورودهای تکراری:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
@@ -308,6 +316,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>خطاها:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(وارد نشدند)</span>
     }
 about-logins-import-dialog-done = انجام شد
+
 about-logins-import-dialog-error-title = خطا در ورود اطلاعات
 about-logins-import-dialog-error-conflicting-values-title = چند مفدار متناقض برای یک ورود
 about-logins-import-dialog-error-conflicting-values-description = برای مثال: نام‌کاربری‌هاد، گذرواژها، آدرسِ متعدد برای یک ورود.
@@ -321,8 +330,10 @@ about-logins-import-dialog-error-no-logins-imported = هیچ اطلاعاتی و
 about-logins-import-dialog-error-learn-more = اطلاعات بیشتر
 about-logins-import-dialog-error-try-import-again = تلاش مجدد برای درون‌ریزی…
 about-logins-import-dialog-error-cancel = انصراف
+
 about-logins-import-report-title = خلاصهٔ ورود اطلاعات
 about-logins-import-report-description = ورودها و گذرواژه‌ها به { -brand-short-name } وارد شدند.
+
 #
 # Variables:
 #  $number (number) - The number of the row

@@ -2,65 +2,80 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = استثناها
-    .style = width: 45em
 permissions-window2 =
     .title = استثناها
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = آدرس وب‌سایت
     .accesskey = d
+
 permissions-block =
     .label = باز داشتن
     .accesskey = ب
+
 permissions-session =
     .label = اجازه دادن برای این نشست
     .accesskey = د
+
 permissions-allow =
     .label = اجازه دادن
     .accesskey = ج
+
 permissions-button-off =
     .label = خاموش کردن
     .accesskey = خ
+
 permissions-button-off-temporarily =
     .label = خاموش کردن موقت
     .accesskey = ا
+
 permissions-site-name =
     .label = وب‌سایت
+
 permissions-status =
     .label = وضعیت
+
 permissions-remove =
     .label = حذف وب‌سایت
     .accesskey = R
+
 permissions-remove-all =
     .label = حذف همه وب‌سایت‌ها
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = ذخیره تغییرات
     .buttonaccesskeyaccept = ذ
+
 permissions-autoplay-menu = پیش‌فرض برای تمام پایگاه‌ها:
+
 permissions-searchbox =
     .placeholder = جست‌وجو وب‌سایت
+
 permissions-capabilities-autoplay-allow =
     .label = اجازه دادن صوت و ویدئو
 permissions-capabilities-autoplay-block =
     .label = مسدود کردن صوت
 permissions-capabilities-autoplay-blockall =
     .label = مسدود کردن صوت و ویدئو
+
 permissions-capabilities-allow =
     .label = اجازه دادن
 permissions-capabilities-block =
     .label = باز داشتن
 permissions-capabilities-prompt =
     .label = همیشه پرسیده شود
+
 permissions-capabilities-listitem-allow =
     .value = اجازه دادن
 permissions-capabilities-listitem-block =
     .value = باز داشتن
 permissions-capabilities-listitem-allow-session =
     .value = اجازه دادن برای نشست
+
 permissions-capabilities-listitem-off =
     .value = خاموش
 permissions-capabilities-listitem-off-temporarily =
@@ -73,19 +88,12 @@ permissions-invalid-uri-label = لطفاً نام میزبان معتبری را
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = شما محافظت از ردگیری را در پایگاه‌های زیر خاموش کرده‌اید.
 permissions-exceptions-etp-window2 =
     .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
     .style = { permissions-window2.style }
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = استثناها - کلوچک‌ها و اطلاعات پایگاه
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = استثناها - کلوچک‌ها و داده‌های پایگاه
     .style = { permissions-window2.style }
@@ -93,9 +101,6 @@ permissions-exceptions-cookie-desc = می‌توانید تعیین که چه پ
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = موارد استثنا - حالتِ فقط-HTTPS
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = موارد استثنا - حالتِ فقط-HTTPS
     .style = { permissions-window2.style }
@@ -103,9 +108,6 @@ permissions-exceptions-https-only-desc = شما می‌توانید حالت ف�
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = سایت‌های مجاز ‐ پنجره‌های بازشو
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = سایت‌های مجاز ‐ پنجره‌های بازشو
     .style = { permissions-window2.style }
@@ -113,9 +115,6 @@ permissions-exceptions-popup-desc = شما می‌توانید مشخص کنید
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = استثناها - ورودهای ذخیره شده
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = استثناها - ورودهای ذخیره شده
     .style = { permissions-window2.style }
@@ -123,9 +122,6 @@ permissions-exceptions-saved-logins-desc = ورود برای دنبال کردن
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = سایت‌های مجاز ‐ نصب افزودنی‌ها
     .style = { permissions-window2.style }
@@ -133,9 +129,6 @@ permissions-exceptions-addons-desc = شما می‌توانید مشخص کنی�
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = تنظیمات - پخش خودکار
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = تنظیمات - پخش خودکار
     .style = { permissions-window2.style }
@@ -143,9 +136,6 @@ permissions-site-autoplay-desc = شما می‌توانید پایگاه‌ها�
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = تنظیمات - مجوزهای اعلان
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = تنظیمات - مجوزهای اعلان
     .style = { permissions-window2.style }
@@ -156,9 +146,6 @@ permissions-site-notification-disable-desc = این باعث محافظت از �
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = تنظیمات - مجوزهای مکان
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = تنظیمات - مجوزهای مکان
     .style = { permissions-window2.style }
@@ -169,9 +156,6 @@ permissions-site-location-disable-desc = این امکان درخواست اجا
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = تنظیمات - مجوزهای واقعیت مجازی
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = تنظیمات - مجوزهای واقعیت مجازی
     .style = { permissions-window2.style }
@@ -182,9 +166,6 @@ permissions-site-xr-disable-desc = این کار باعث می‌شود وب‌�
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = تنظیمات - مجوزهای دوربین
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = تنظیمات - مجوزهای دوربین
     .style = { permissions-window2.style }
@@ -195,9 +176,6 @@ permissions-site-camera-disable-desc = این امکان درخواست اجاز
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = تنظیمات - اجازه‌های صدابَر
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = تنظیمات - اجازه‌های صدابَر
     .style = { permissions-window2.style }
@@ -213,3 +191,4 @@ permissions-site-microphone-disable-desc = این امکان درخواست اج
 permissions-exceptions-doh-window =
     .title = وبگاه‌های مستثنا برای ساناد روی HTTPS
     .style = { permissions-window2.style }
+

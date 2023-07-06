@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = خطایی در هنگام اتصال { $hostname }.{ $errorMessage } رخ داد
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = کد خطا:{ $error }
-
 psmerr-ssl-disabled = قادر به برقراری اتصال ایمن نبود، زیرا قرارداد SSL غیرفعال شده است.
 psmerr-ssl2-disabled = قادر به برقراری اتصال امن نیست، زیرا این پایگاه از نسخه‌ای قدیمی و غیر امن از قرارداد SSL استفاده می‌کند.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = الگوریتم امضا های TL
 ssl-error-unsupported-signature-algorithm = جفت استفاده شده در الگوریتم هش و امضا ترکیب پشتیبانی نشده.
 ssl-error-missing-extended-master-secret = جفت تلاش می‌کند بدون correct extended_master_secret extension ادامه دهد.
 ssl-error-unexpected-extended-master-secret = جفت تلاش می‌کند بدون unexpected extended_master_secret extension ادامه دهد.
+
 sec-error-io = یک خطای ورودی/خروجی در هنگام مجازشماری امنیتی رخ داد.
 sec-error-library-failure = شکست کتابخانهٔ امنیتی.
 sec-error-bad-data = کتابخانهٔ امنیتی: اطلاعات نامعتبری دریافت شد.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = رمزگشایی ممکن نیست: الگور
 sec-error-pkcs7-bad-signature = وارسی امضا شکست خورد: امضاکننده‌ای پیدا نشد، امضاکنندگان بیش از حدی پیدا شدند، یا اطلاعات نادرست یا مخدوش است.
 sec-error-unsupported-keyalg = الگوریتم کلید ناشناخته یا پشتیبانی نشده.
 sec-error-decryption-disallowed = قادر به رمزگشایی نیست: این اطلاعات توسط یک الگوریتم یا اندازهٔ کلید نامعتبر رمزگذاری شده است.
-xp-sec-fortezza-bad-card = کارت فورتزا به درستی مقداردهی اولیه نشده است. لطفاً آن را حذف کرده و به صادرکنندهٔ آن بازگردانید.
-xp-sec-fortezza-no-card = کارت فورتزایی وجود ندارد
-xp-sec-fortezza-none-selected = کارت فورتزایی انتخاب نشده است
-xp-sec-fortezza-more-info = لطفاً برای اطلاعات بیشتر یک شخص را انتخاب نمایید
-xp-sec-fortezza-person-not-found = شخص پیدا نشد
-xp-sec-fortezza-no-more-info = اطلاعات بیشتری دربارهٔ این شخص وجود ندارد
-xp-sec-fortezza-bad-pin = شمارهٔ شناسایی شخصی نامعتبر
-xp-sec-fortezza-person-error = قادر به شروع شخص فورتزا نبود.
 sec-error-no-krl = هیچ KRL برای گواهی این پایگاه پیدا نشد.
 sec-error-krl-expired = KRL گواهی این پایگاه منقضی شده است.
 sec-error-krl-bad-signature = KRL این پایگاه دارای امضایی نامعتبر است.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = گواهی با همین نام مستعار
 sec-error-key-nickname-collision = کلیدی با همین نام مستعار قبلاً وجود دارد.
 sec-error-safe-not-created = خطا در ایجاد شیء امن
 sec-error-baggage-not-created = خطا در ایجاد شیء چمدان
-xp-java-remove-principal-error = قادر به حذف مجوز نیست
-xp-java-delete-privilege-error = قادر به حذف امتیاز نیست
-xp-java-cert-not-exists-error = گواهی موجود نیست
 sec-error-bad-export-algorithm = الگوریتم مورد نیاز مجاز نیست.
 sec-error-exporting-certificates = خطا در صدور گواهی‌ها.
 sec-error-importing-certificates = خطا در وارد کردن گواهی‌ها.
@@ -338,6 +319,7 @@ sec-error-locked-password = گذرواژه قفل شده است.
 sec-error-unknown-pkcs11-error = خطای نامشخص PKCS #11.
 sec-error-bad-crl-dp-url = آدرس اشتباه یا پشتیبانی نشده در نام نقطهٔ توزیع CRL وجود دارد.
 sec-error-cert-signature-algorithm-disabled = مدرک توسط نوعی الگوریتم نا امن امضا شده، به همین دلیل غیر فعال شده است.
+
 mozilla-pkix-error-key-pinning-failure = سرور از کلید متصل شده استفاده می کند(HPKP) اما زنجیره گواهینامه معتبری نمی‌تواند با این کلید های متصل سازگار شود. نقص کلید متصل شده نمی‌تواند دوباره بازنویسی شود.
 mozilla-pkix-error-ca-cert-used-as-end-entity = سرور از گواهینامه استفاده می کند که محدودیت های اولیه‌ای شناسایی را به عنوان یک صدور گواهی بسط می دهد یک مورد درست گواهینامه این شکلی نیست.
 mozilla-pkix-error-inadequate-key-size = کلیدگواهینامه صادر شده از طرف سرور به اندازه ای کوچک است که یک اتصال را برقرار نمی‌کند.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = سرور امضا را ارائه 
 mozilla-pkix-error-empty-issuer-name = این سرور گواهینامه‌ای را ارائه می‌کند که نام صادرکننده برجسته‌ آن خالی می‌ باشد.
 mozilla-pkix-error-additional-policy-constraint-failed = علاوه بر این محدودیت مقررات در هنگام ارزیابی این گواهینامه با خطا مواجه شد.
 mozilla-pkix-error-self-signed-cert = این گواهینامه مورد اعتماد نیست زیرا بدون امضا است.
+
+xp-java-remove-principal-error = قادر به حذف مجوز نیست
+xp-java-delete-privilege-error = قادر به حذف امتیاز نیست
+xp-java-cert-not-exists-error = گواهی موجود نیست
+
+xp-sec-fortezza-bad-card = کارت فورتزا به درستی مقداردهی اولیه نشده است. لطفاً آن را حذف کرده و به صادرکنندهٔ آن بازگردانید.
+xp-sec-fortezza-no-card = کارت فورتزایی وجود ندارد
+xp-sec-fortezza-none-selected = کارت فورتزایی انتخاب نشده است
+xp-sec-fortezza-more-info = لطفاً برای اطلاعات بیشتر یک شخص را انتخاب نمایید
+xp-sec-fortezza-person-not-found = شخص پیدا نشد
+xp-sec-fortezza-no-more-info = اطلاعات بیشتری دربارهٔ این شخص وجود ندارد
+xp-sec-fortezza-bad-pin = شمارهٔ شناسایی شخصی نامعتبر
+xp-sec-fortezza-person-error = قادر به شروع شخص فورتزا نبود.

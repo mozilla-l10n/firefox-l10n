@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } این صفحه ر
 safeb-palm-advisory-desc = مشاوره فراهم شده توسط <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = برگشتن
 safeb-palm-see-details-label = مشاهده جزئیات
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه اینترنتی فریب دهنده شناخته شده است</a>. شما می‌توانید <a data-l10n-name='report_detection'>این مشکل شناسایی شده رو گزارش دهید</a> یا <a data-l10n-name='ignore_warning_link'>این خطر را نادیده بگیرید</a> و به این پایگاه اینترنتی ناامن بروید.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه اینترنتی فریبنده گزارش شده است</a>. شما می‌توانید <a data-l10n-name='report_detection'>یک گزارشِ شناساییِ اشتباه ارسال کنید</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = در مورد پایگاه‌های اینترنتی فریب‌دهنده و فیشینگ در<a data-l10n-name='learn_more_link'>www.antiphishing.org</a> بیشتر اطلاعات کسب کنید. در مورد نحوه رفتار { -brand-short-name } با فیشینک و محافظت در مورد جاسوس‌افزارها در <a data-l10n-name='firefox_support'>support.mozilla.org</a> بیشتر اطلاعات کسب کنید.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>سایت حاوی نرم‌افزار مخرب گزارش شد است</a>. شما می‌توانید <a data-l10n-name='ignore_warning_link'>این خطر را در نظر نادیده بگیرید</a> و به این پایگاه اینترنتی ناامن بروید.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه شامل نرم‌افزارهای مخرب گزارش شده است</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = در مورد راهکارهای { -brand-short-name } برای محافظت در برابر فیشینگ و بدافزار‌ها در <a data-l10n-name='firefox_support'>support.mozilla.org</a> بیشتر اطلاعات کسب کنید.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>سایت حاوی نرم‌افزار مخرب گزارش شد است</a>. شما می‌توانید <a data-l10n-name='ignore_warning_link'>این خطر را در نظر نادیده بگیرید</a> و به این پایگاه اینترنتی ناامن بروید.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> گزارش شده است <a data-l10n-name='error_desc_link'>به عنوان سایت حاوی نرم‌افزارهای مخرب گزارش شده است</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = در مورد نرم‌افزارهای مضر و غیرضروری در <a data-l10n-name='learn_more_link'>سیاست‌های نرم‌افزارهای ناخواسته</a> بیشتر بخوانید. در مورد نحوه رفتار { -brand-short-name } با فیشینگ و محافظت در برابر جاسوس‌افزارها در <a data-l10n-name='firefox_support'>support.mozilla.org</a> اطلاعات بیشتر کسب کنید.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه با نرم‌افزارهای مخرب گزارش شده است</a>. شما می‌توانید <a data-l10n-name='ignore_warning_link'>این خطر را نادیده بگیرید</a> و به این پایگاه اینترنتی ناامن بروید.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> به عنوان <a data-l10n-name='error_desc_link'>یک پایگاه شامل نرم‌افزارهای مخرب گزارش شده است</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = در مورد راهکارهای { -brand-short-name } برای محافظت در برابر فیشینگ و بدافزار‌ها در <a data-l10n-name='firefox_support'>support.mozilla.org</a> بیشتر اطلاعات کسب کنید.
 safeb-palm-notdeceptive =
     .label = این یک سایت گمراه‌کننده نیست…
