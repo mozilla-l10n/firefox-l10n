@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (একান্ত ব্রাউজিং)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (একান্ত ব্রাউজিং)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (একান্ত ব্রাউজিং)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (একান্ত ব্রাউজিং)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -73,16 +40,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = ভার্চুয়াল রিয়েলিটি অনুমোদন প্যানেলে যান
 urlbar-storage-access-anchor =
     .tooltiptext = ব্রাউজিং কার্যকলাপ অনুমতি প্যানেল খুলুন
-urlbar-translate-notification-anchor =
-    .tooltiptext = এই পাতাটি অনুবাদ করুন
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = সাইটটির সাথে আপনার উইন্ডোজ কিংবা স্ক্রিন শেয়ার নিয়ন্ত্রণ করুন
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = অফলাইন স্টোরেজ বার্তা প্যানেল খুলুন
 urlbar-password-notification-anchor =
     .tooltiptext = পাসওয়ার্ড সংরক্ষণ বার্তা প্যানেল খুলুন
-urlbar-translated-notification-anchor =
-    .tooltiptext = পাতার অনুবাদ নিয়ন্ত্রণ করুন
 urlbar-plugins-notification-anchor =
     .tooltiptext = প্লাগ-ইন ব্যবহার পরিচালনা করুন
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -140,21 +103,18 @@ urlbar-midi-blocked =
     .tooltiptext = আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
 urlbar-install-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য অ্যাড-অন ইনস্টলেশন বন্ধ করেছেন।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই বুকমার্কটি সম্পাদনা করুন ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = এই পাতাটি বুকমার্ক করুন ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = এক্সটেনশন ব্যবস্থাপনা...
-page-action-remove-extension =
-    .label = এক্সটেনশন অপসারণ করুন
 
 ## Auto-hide Context Menu
 
@@ -170,8 +130,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = এবার এর সাথে অনুসন্ধান করুন:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = অনুসন্ধান সেটিংস পরিবর্তন করুন
+
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবে অনুসন্ধান
     .accesskey = T
@@ -181,6 +143,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = ব্যক্তিগত উইন্ডোর জন্য ডিফল্ট অনুসন্ধান ইঞ্জিন হিসেবে সেট করুন
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -219,6 +182,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = সংরক্ষণ করুন
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -245,13 +209,13 @@ identity-passive-loaded = এই পাতার অংশগুলো নির
 identity-active-loaded = আপনি এই পাতায় সুরক্ষা বন্ধ করেছেন।
 identity-weak-encryption = এই পাতা দুর্বল এনক্রিপশন ব্যবহার করে।
 identity-insecure-login-forms = এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।
+
 identity-permissions-reload-hint = পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।
 identity-clear-site-data =
     .label = কুকি এবং সাইট ডাটা পরিষ্কার করুন…
 identity-connection-not-secure-security-view = এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।
 identity-connection-verified = আপনি সুরক্ষিতভাবে এই সাইটে সংযুক্ত হয়েছেন।
 identity-ev-owner-label = সার্টিফিকেট দেওয়া হয়েছে:
-identity-description-custom-root = Mozilla এই সার্টিফিকেট আনুমোদনকারীকে চিনতে পারছে না। এটি আপনার অপারেটিং সিস্টেম বা প্রশাসক দ্বারা যুক্ত করা হতে পারে। <label data-l10n-name="link">আরও জানুন</label>
 identity-description-custom-root2 = Mozilla এই সার্টিফিকেট আনুমোদনকারীকে চিনতে পারছে না। এটি আপনার অপারেটিং সিস্টেম বা প্রশাসক দ্বারা যুক্ত করা হতে পারে।
 identity-remove-cert-exception =
     .label = ব্যাতিক্রম সরিয়ে ফেলুন
@@ -260,17 +224,12 @@ identity-description-insecure = এই সাইট এ আপনার সং�
 identity-description-insecure-login-forms = আপনি এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা নিরাপদ নয় এবং চুরিও হতে পারে।
 identity-description-weak-cipher-intro = এই ওয়েবসাইটে আপনার সংযোগ দুর্বল এনক্রিপশন ব্যবহার করে এবং এটি ব্যক্তিগত নয়।
 identity-description-weak-cipher-risk = যে কেউ আপনার দেয়া তথ্য দেখতে পারে বা ওয়েব সাইটের আচরন পরিবর্তন করতে পারে।
-identity-description-active-blocked = { -brand-short-name } নিরাপদ নয় তাই এই পাতার কিছু অংশ ব্লক করা হয়েছে। <label data-l10n-name="link">আরও জানুন</label>
 identity-description-active-blocked2 = { -brand-short-name } নিরাপদ নয় তাই এই পাতার কিছু অংশ ব্লক করা হয়েছে।
 identity-description-passive-loaded = আপনার সংযোগটি ব্যক্তিগত নয় এবং এই সাইটে আপনার শেয়ার করা তথ্য অন্যদের দ্বারা দেখা যেতে পারে।
-identity-description-passive-loaded-insecure = এই ওয়েবসাইটে এমন কিছু কন্টেন্ট রয়েছে যা নিরাপদ নয় (যেমন ছবি)। <label data-l10n-name="link">আরও জানুন</label>
-identity-description-passive-loaded-mixed = যদিও { -brand-short-name } কিছু কন্টেন্ট প্রতিরোধ করেছে, তবুও পাতাটিতে এখনও কিছু কন্টেন্ট আছে যা নিরাপদ নয় (যেমন ছবি)। <label data-l10n-name="link">আরও জানুন</label>
 identity-description-passive-loaded-insecure2 = এই ওয়েবসাইটে এমন কিছু কন্টেন্ট রয়েছে যা নিরাপদ নয় (যেমন ছবি)।
 identity-description-passive-loaded-mixed2 = যদিও { -brand-short-name } কিছু কন্টেন্ট প্রতিরোধ করেছে, তবুও পাতাটিতে এখনও কিছু কন্টেন্ট আছে যা নিরাপদ নয় (যেমন ছবি)।
 identity-description-active-loaded = এই ওয়েবসাইটে যে বিষয়বস্তু রয়েছে তা নিরাপদ নয় (যেমন স্ক্রিপ্ট) এবং আপনার সংযোগটি ব্যক্তিগত নয়।
 identity-description-active-loaded-insecure = আপনার এই সাইটে শেয়ার করা তথ্য অন্যরা দেখতে পারেন (যেমন পাসওয়ার্ড, বার্তা, ক্রেডিট কার্ড, ইত্যাদি।)।
-identity-learn-more =
-    .value = আরও জানুন
 identity-disable-mixed-content-blocking =
     .label = এখন সুরক্ষা নিষ্ক্রিয় করুন
     .accesskey = এ
@@ -312,14 +271,13 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = F12 শর্টকাট ব্যবহার করতে, প্রথমে ওয়েব ডেভেলপার মেনু থেকে DevTools খুলুন।
-
 ## URL Bar
 
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন বা ঠিকানা দিন
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -328,6 +286,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = ওয়েবে অনুসন্ধান করুন
     .aria-label = { $name } দ্বারা অনুসন্ধান করুন
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -336,17 +295,21 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = অনুসন্ধানের পদ লিখুন
     .aria-label = { $name } অনুসন্ধান করুন
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } দ্বারা অনুসন্ধান করুন অথবা ঠিকানা লিখুন
+
 urlbar-permissions-granted =
     .tooltiptext = আপনি এই সাইটের জন্য বিশেষ অনুমতি দিয়েছেন।
 urlbar-switch-to-tab =
     .value = ট্যাবে যান:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
+
 urlbar-go-button =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =
@@ -417,9 +380,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> এখন পূর্ণ পর্দায় রয়েছে
 fullscreen-warning-no-domain = এই ডকুমেন্ট এখন পূর্ণ পর্দায় রয়েছে
+
+
 fullscreen-exit-button = পূর্ণ পর্দা বন্ধ করুন (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = পূর্ণ পর্দা বন্ধ করুন (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -471,8 +437,7 @@ bookmarks-search =
     .label = বুকমার্ক অনুসন্ধান
 bookmarks-tools =
     .label = বুকমার্কের সরঞ্জাম
-bookmarks-bookmark-edit-panel =
-    .label = বুকমার্ক সম্পাদনা
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -486,9 +451,6 @@ bookmarks-toolbar-placeholder =
     .title = বুকমার্ক টুলবারের আইটেম
 bookmarks-toolbar-placeholder-button =
     .label = বুকমার্ক টুলবারের আইটেম
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = বর্তমান ট্যাবটি বুকমার্ক করুন
 
 ## Library Panel items
 
@@ -506,30 +468,30 @@ save-to-pocket-button =
 
 ## Customize Toolbar Buttons
 
-# Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = অ্যাড-অন ও থিম
-    .tooltiptext = আপনার অ্যাড-অন ও থিম পরিচালনা করুন ({ $shortcut })
 toolbar-overflow-customize-button =
     .label = কাস্টোমাইজ টুলবার…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = ইমেইল লিঙ্ক
     .tooltiptext = এই পাতায় একটি লিঙ্ক ইমেল করুন
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = পাতা সংরক্ষণ করুন
     .tooltiptext = এই পাতা সংরক্ষণ করুন ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = ফাইল খুলুন
     .tooltiptext = একটি ফাইল খুলুন ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = সিঙ্ককৃত ট্যাব
     .tooltiptext = অন্য ডিভাইস থেকে ট্যাব দেখান
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -557,6 +519,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } থেকে পপ-আপ অনুমোদন করা হবে
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } থেকে পপ-আপ রোধ করা হবে
     .accesskey = p
@@ -566,6 +529,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = পপ-আপ রোধ করা হলে এই বার্তাটি প্রদর্শন করা হবে না
     .accesskey = D
+
 picture-in-picture-hide-toggle =
     .label = পিকচার-ইন-পিকচার টগল লুকান
     .accesskey = H
@@ -584,32 +548,39 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = ন্যাভিগেশন
+
 navbar-downloads =
     .label = ডাউনলোড
+
 navbar-overflow =
     .tooltiptext = আরও সরঞ্জাম…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = মুদ্রণ
     .tooltiptext = এই পাতাটি মুদ্রণ করুন… ({ $shortcut })
+
 navbar-home =
     .label = নীড়
     .tooltiptext = { -brand-short-name } নীড় পাতা
+
 navbar-library =
     .label = লাইব্রেরি
     .tooltiptext = ইতিহাস, সংরক্ষিত বুকমার্ক এবং আরও অনেক কিছু দেখুন
+
 navbar-search =
     .title = অনুসন্ধান
-navbar-accessibility-indicator =
-    .tooltiptext = প্রবেশগম্যতার ফিচারটি সক্রিয় হয়েছে
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ব্রাউজার ট্যাব
+
 tabs-toolbar-new-tab =
     .label = নতুন ট্যাব
+
 tabs-toolbar-list-all-tabs =
     .label = সব ট্যাবের তালিকা
     .tooltiptext = সব ট্যাবের তালিকা
@@ -633,10 +604,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } এই পাতাকে স্বয়ংক্রিয়ভাবে পুনঃলোড করতে বাধা দিয়েছে।
 refresh-blocked-redirect-label = { -brand-short-name } এই পাতাটিকে স্বয়ংক্রিয়ভাবে অন্য একটি পাতায় রিডিরেক্ট করতে বাধা দিয়েছে।
+
 refresh-blocked-allow =
     .label = অনুমোদন
     .accesskey = A
@@ -677,6 +652,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

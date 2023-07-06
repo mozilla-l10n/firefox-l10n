@@ -152,10 +152,12 @@ profiler-popup-discard-button =
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
+# Please take care that the same values are also defined in devtools' perftools.ftl.
+
 ## History panel
 
-appmenu-reopen-all-tabs = সমস্ত ট্যাব পুনরায় খুলুন
-appmenu-reopen-all-windows = সমস্ত উইন্ডো পুনরায় খুলুন
 appmenu-restore-session =
     .label = পূর্ববর্তী সেশন পুনরুদ্ধার করুন
 appmenu-clear-history =

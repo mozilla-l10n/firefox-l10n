@@ -93,44 +93,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = এই পাতাটি বুকমার্ক করুন
-    .accesskey = m
-    .tooltiptext = এই পাতাটি বুকমার্ক করুন
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = পাতাটি বুকমার্ক করুন
-    .accesskey = m
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = বুকমার্ক সম্পাদনা
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = এই পাতাটি বুকমার্ক করুন
-    .accesskey = m
-    .tooltiptext = এই পাতাটি বুকমার্ক করুন ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = বুকমার্ক সম্পাদনা
-    .accesskey = m
-    .tooltiptext = এই বুকমার্কটি সম্পাদনা
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = বুকমার্ক সম্পাদনা
-    .accesskey = m
-    .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
-
 main-context-menu-open-link =
     .label = লিঙ্ক খুলুন O
     .accesskey = O
@@ -256,14 +218,6 @@ main-context-menu-audio-email =
     .label = A অডিও ইমেইল করুন...
     .accesskey = A
 
-main-context-menu-plugin-play =
-    .label = এই প্লাগইনটি সচল করুন
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = প্লাগইনটি আড়াল করুন
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = { -pocket-brand-name } এ পাতাটি সংরক্ষণ করুন
     .accesskey = k
@@ -307,10 +261,6 @@ main-context-menu-frame-reload =
     .label = ফ্রেম পুনরায় লোড করা হবে
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = এই ফ্রেমটি বুকমার্ক করুন
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = ফ্রেম নতুনভাবে সংরক্ষণ…
     .accesskey = F
@@ -326,10 +276,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = ফ্রেম সংক্রান্ত তথ্য
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = নির্বাচিত অংশ প্রিন্ট
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = নির্বাচিত অংশের উৎস দেখুন

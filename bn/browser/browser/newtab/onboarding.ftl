@@ -17,6 +17,8 @@ onboarding-not-now-button-label = এই মূহুর্তে নয়
 ## Custom Return To AMO onboarding strings
 
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 
@@ -38,8 +40,6 @@ onboarding-not-now-button-label = এই মূহুর্তে নয়
 
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-subtitle = আপনার পাসওয়ার্ড, বুকমার্ক, <br/>এবং আরও অনেক কিছু আমদানি করুন।
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -69,6 +69,8 @@ mr1-onboarding-import-subtitle = আপনার পাসওয়ার্ড,
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -94,4 +96,11 @@ mr1-onboarding-import-subtitle = আপনার পাসওয়ার্ড,
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

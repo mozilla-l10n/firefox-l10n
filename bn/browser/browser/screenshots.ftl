@@ -40,3 +40,4 @@ screenshots-private-window-error-details = অসুবিধার জন্য
 
 screenshots-generic-error-title = হায় হায়!, { -screenshots-brand-name } কিছু সমস্যা হয়েছে।
 screenshots-generic-error-details = এই মাত্র কি ঘটেছে আমরা নিশ্চিত নই। আপনি কি অনুগ্রহ করে পুরনায় সট নেবেন কিংবা ভিন্ন একটি পেজে চেষ্টা করবেন?
+
