@@ -109,22 +109,12 @@ cfr-doorhanger-doh-secondary-button = అచేతనించు
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-primary-button = సరే, అర్థమయ్యింది
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = ఇంకా తెలుసుకోండి
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-primary-button = ఇప్పుడే తాజాకరించు
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = ఇంకా తెలుసుకోండి
-    .title = ఈ విశేషం గురించి మరింత తెలుసుకోడానికి విస్తరించండి
-spotlight-learn-more-expanded = ఇంకా తెలుసుకోండి
-    .title = మూసివేయి
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -136,8 +126,6 @@ spotlight-public-wifi-vpn-link = ఇప్పుడు కాదు
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-spotlight-total-cookie-protection-secondary-button = ఇప్పుడు కాదు
 
 ## Emotive Continuous Onboarding
 
@@ -173,3 +161,16 @@ firefoxview-cfr-secondarybutton = ఇప్పుడు కాదు
 
 firefoxview-spotlight-promo-primarybutton = ఎలా పనిచేస్తుందో చూడండి
 firefoxview-spotlight-promo-secondarybutton = దాటవేయి
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
+

@@ -88,3 +88,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = రద్దుచేయి
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = నివేదికను పంపించు
+
+# Cookie Banner Handling
+

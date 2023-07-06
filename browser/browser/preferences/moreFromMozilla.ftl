@@ -9,7 +9,7 @@ more-from-moz-title = { -vendor-short-name } నుండి మరిన్న�
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } నుండి మరిన్ని
 
-# This string is specific to the product Mozilla Rally which is US only.
-more-from-moz-mozilla-rally-title = { -rally-brand-name }
-
 more-from-moz-learn-more-link = ఇంకా తెలుసుకోండి
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+

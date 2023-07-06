@@ -20,18 +20,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = తెరువు
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = కొత్త ట్యాబులో తెరువు
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = కొత్త విండోలో తెరువు
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = కొత్త అంతరంగిక విండోలో తెరువు
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = ఈ ట్యాబును ఇష్టాంశంగా చేయి…
-    .accesskey = B
 
 ##
 

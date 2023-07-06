@@ -12,6 +12,7 @@ xpinstall-prompt-header = { $host }‌ను పొడగింతను స్�
 ##
 
 xpinstall-prompt-header-unknown = గుర్తుతెలియని సైటు పొడగింతను స్థాపించడాన్ని అనుమతించాలా?
+
 xpinstall-prompt-dont-allow =
     .label = అనుమతించవద్దు
     .accesskey = D
@@ -35,6 +36,7 @@ xpinstall-disabled = సాఫ్ట్‌వేర్ స్థాపన ప్
 xpinstall-disabled-button =
     .label = చేతనించు
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ని { -brand-short-name } కి జోడించబడినది
@@ -51,6 +53,7 @@ addon-removal-title = { $name }‌ను తీసివేయారా?
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = { -brand-shorter-name } నుండి { $name }‌ని తొలగించాలా?
 addon-removal-button = తొలగించు
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -59,6 +62,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } పొడిగింతలను దింపుకుంటోంది మరియు నిర్ధారిస్తోంది…
     }
 addon-download-verifying = నిర్ధారించుచున్నది
+
 addon-install-cancel-button =
     .label = రద్దుచేయి
     .accesskey = C

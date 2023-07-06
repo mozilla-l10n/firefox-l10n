@@ -14,6 +14,16 @@ onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
 onboarding-start-browsing-button-label = విహరించడం మొదలుపెట్టండి
 onboarding-not-now-button-label = ఇప్పుడు కాదు
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = మొదలుపెట్టండి
+
+## Title, subtitle and primary button string used on set default onboarding screen
+## when Firefox is not default browser
+
+
+## Multistage MR1 onboarding strings (about:welcome pages)
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = అద్భుతం, మీరు { -brand-short-name }‌ను తెచ్చుకున్నారు
@@ -34,13 +44,6 @@ return-to-amo-add-theme-label = అలంకారాన్ని చేర్�
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = మొదలుపెట్టండి: { $total } తెరలలో { $current }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 
 ## Title and primary button strings differ between platforms as they
@@ -50,30 +53,13 @@ onboarding-welcome-steps-indicator =
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = మొదలుపెట్టండి
-mr1-onboarding-welcome-header = { -brand-short-name }కు స్వాగతం
-mr1-onboarding-set-default-secondary-button-label = ఇప్పుడు కాదు
-
-## Title, subtitle and primary button string used on set default onboarding screen
-## when Firefox is not default browser
-
-
-## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-secondary-button-label = ఇప్పడు కాదు
-mr2-onboarding-colorway-header = జీవితం రంగులమయం
-mr2-onboarding-colorway-secondary-button-label = ఇప్పుడు కాదు
-mr2-onboarding-colorway-label-balanced = సంతులితం
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = అప్రమేయం
 mr1-onboarding-theme-header = దీన్ని మీ స్వంతం చేసుకోండి
 mr1-onboarding-theme-subtitle = ఒక అలంకారంతో { -brand-short-name }‌ని వ్యక్తిగతీకరించుకోండి.
-mr1-onboarding-theme-primary-button-label = అలంకారాన్ని భద్రపరుచు
 mr1-onboarding-theme-secondary-button-label = ఇప్పుడు కాదు
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = వ్యవస్థ అలంకారం
+
 onboarding-theme-primary-button-label = పూర్తయింది
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -103,13 +89,17 @@ onboarding-theme-primary-button-label = పూర్తయింది
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = మీ భాషను ఎంచుకోండి
+
 mr2022-onboarding-live-language-text = { -brand-short-name } మీ భాష మాట్లాడుతుంది
+
 onboarding-live-language-secondary-cancel-download = రద్దుచేయి
 onboarding-live-language-skip-button-label = దాటవేయి
 
 ## Firefox 100 Thank You screens
 
 mr2022-onboarding-secondary-skip-button-label = ఈ అంచెను దాటవేయి
+
+## MR2022 New User Easy Setup screen strings
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -156,4 +146,6 @@ mr2022-onboarding-gratitude-secondary-button-label = విహరించడం
 
 ## MR2022 Illustration alt tags
 ## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

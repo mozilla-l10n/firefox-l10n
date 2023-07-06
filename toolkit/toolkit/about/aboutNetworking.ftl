@@ -26,13 +26,6 @@ about-networking-messages-received = స్వీకరించిన సంద
 about-networking-bytes-sent = పంపిన బైట్లు
 about-networking-bytes-received = స్వీకరించిన బైట్లు
 about-networking-logging = నమోదుపరుచు
-about-networking-log-tutorial = ఈ పనిముట్టును ఎలా వాడుకోవాలో సూచనల కోసం <a data-l10n-name="logging">HTTP లాగింగ్</a>‌ను చూడండి.
-about-networking-current-log-file = ప్రస్తుత లాగ్ ఫైలు:
-about-networking-current-log-modules = ప్రస్తుత నమోదు మాడ్యూలు:
-about-networking-set-log-file = లాగ్ ఫైల్ సెట్ చేయి
-about-networking-set-log-modules = లాగ్ మాడ్యూల్ సెట్ చేయి
-about-networking-start-logging = లాగింగ్ ప్రారంభించు
-about-networking-stop-logging = లాగింగ్ ఆపివేయి
 about-networking-dns-lookup = DNS శోధన
 about-networking-dns-lookup-button = పరిష్కరించు
 about-networking-dns-domain = డొమైన్:

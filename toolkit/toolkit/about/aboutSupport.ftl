@@ -114,6 +114,8 @@ media-device-channels = వాహికలు
 media-device-rate = రేటు
 media-device-latency = Latency
 
+## Codec support table
+
 ##
 
 intl-title = అంతర్జాతీయీకరణ & స్థానికీకరణ

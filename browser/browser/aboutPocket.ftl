@@ -26,7 +26,6 @@ pocket-panel-saved-save-tags = భద్రపరచు
 pocket-panel-saved-saving-tags = భద్రమవుతోంది…
 pocket-panel-saved-suggested-tags = సూచించిన ట్యాగులు
 pocket-panel-saved-tags-saved = ట్యాగులు చేర్చబడ్డాయి
-pocket-panel-signup-view-list = జాబితాను చూడండి
 
 ## about:pocket-signup panel
 
@@ -40,11 +39,8 @@ pocket-panel-signup-tagline = ఏ పరికరంలో అయినా, ఎ�
 pocket-panel-signup-tagline-story-one = { -brand-product-name } నుంచి ఏదైనా వ్యాసం, వీడియో లేదా పేజీని భద్రపరచుకోడానికి { -pocket-brand-name } బొత్తాన్ని నొక్కండి.
 pocket-panel-signup-tagline-story-two = ఏ పరికరంలో అయినా, ఎప్పుడైనా { -pocket-brand-name }లో చూడండి.
 
-pocket-panel-signup-cta-c = మీ జాబితాను ఏ పరికరంలోనైనా, ఎప్పుడైనా చూడండి.
-
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = నా జాబితా
 pocket-panel-home-welcome-back = పునఃస్వాగతం
 pocket-panel-home-explore-popular-topics = ప్రాచుర్య అంశాలను చూడండి
 pocket-panel-home-discover-more = మరింత కనుగొనండి
@@ -54,7 +50,6 @@ pocket-panel-home-new-user-message = మీరు ఇటీవల భద్ర�
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = నా జాబితా చూపించు
 pocket-panel-header-sign-in = ప్రవేశించండి
 
 ## Pocket panel buttons

@@ -225,19 +225,13 @@ newtab-pocket-more-recommendations = మరిన్ని సిఫారసు
 newtab-pocket-learn-more = ఇంకా తెలుసుకోండి
 newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
 
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = మరిన్న కథనాలను చూపించు
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = అన్నీ చూసేసారు!
-newtab-pocket-last-card-desc = మరిన్నిటి కోసం కాసేపటి తర్వాత చూడండి.
-newtab-pocket-last-card-image =
-    .alt = అన్నీ చూసేసారు
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = భద్రపరుచు
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

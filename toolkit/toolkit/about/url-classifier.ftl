@@ -40,5 +40,9 @@ url-classifier-disabled = అచేతనం
 url-classifier-updating = నవీకరిస్తోంది
 url-classifier-cannot-update = తాజాకరించలేకున్నాం
 url-classifier-success = విజయవంతం
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = తాజాకరణ దోషం ({ $error })
 url-classifier-download-error = దింపుకోలు దోషం ({ $error })

@@ -4,6 +4,7 @@
 
 about-reader-loading = లోడుచేయుచున్నది…
 about-reader-load-error = పేజీ నుండి వ్యాసం రాబట్టడం విఫలమైంది
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

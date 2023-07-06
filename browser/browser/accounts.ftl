@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = ఖాతా అమర్పు పూర్తిచేయండి
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = ఖాతా డిస్‌కనెక్ట్ చేయబడింది
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = పరికరాలన్నిటికీ పంపించు
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = పరికరాలను నిర్వహించండి…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = పరికరాలను నిర్వ�
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = పరికరాలేమీ అనుసంధానం కాలేదు
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = ట్యాబ్లను పంపడం గురించి తెలుసుకోండి…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = మరొక పరికరాన్ని అనుసంధానించండి…
 
@@ -44,6 +49,7 @@ account-send-tab-to-device-verify = మీ ఖాతాను ధృవీకర
 
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = ఈ కంప్యూటరు ఇప్పుడు ఒక కొత్త పరికరంతో అనుసంధానమయ్యింది.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = మీరు విజయవంతంగా ప్రవేశించారు
 
@@ -55,6 +61,7 @@ account-single-tab-arriving-title = ట్యాబు వచ్చింది
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } నుంచి ట్యాబు
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -67,6 +74,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = టాబ్లు స్వీకరించబడినవి
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
