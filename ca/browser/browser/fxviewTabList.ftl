@@ -4,10 +4,12 @@
 
 fxviewtabrow-open-menu-button =
     .title = Obre el menú
+
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Tanca { $tabTitle }
+
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Ara mateix
 

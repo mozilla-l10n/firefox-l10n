@@ -79,5 +79,3 @@ about-telemetry-category-header = categoria
 about-telemetry-method-header = mètode
 about-telemetry-object-header = objecte
 about-telemetry-extra-header = extra
-about-telemetry-origin-origin = origen
-about-telemetry-origin-count = recompte

@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
+
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Cerqueu amb { $engine } o escriviu una adreça
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Escriviu una cerca o adreça
     .title = Escriviu una cerca o adreça
     .aria-label = Escriviu una cerca o adreça
+
 newtab-search-box-text = Cerca al web
 newtab-search-box-input =
     .placeholder = Cerca al web
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Edita la drecera
 newtab-topsites-title-label = Títol
 newtab-topsites-title-input =
     .placeholder = Escriviu el títol
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escriviu o enganxeu un URL
 newtab-topsites-url-validation = Es necessita un URL vàlid
+
 newtab-topsites-image-url-label = URL d'imatge personalitzada
 newtab-topsites-use-image-link = Utilitza una imatge personalitzada…
 newtab-topsites-image-validation = S'ha produït un error en carregar la imatge. Proveu un altre URL.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Patrocinat
 newtab-menu-section-tooltip =
     .title = Obre el menú
     .aria-label = Obre el menú
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Elimina
     .aria-label = Elimina
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,14 +162,17 @@ newtab-label-removed-bookmark = S'ha eliminat l'adreça d'interès
 newtab-label-recommended = Tendència
 newtab-label-saved = Desat al { -pocket-brand-name }
 newtab-label-download = Baixat
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinat
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Patrocinat per { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -202,6 +211,7 @@ newtab-section-header-pocket = Recomanat per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comenceu a navegar i aquí us mostrarem els millors articles, vídeos i altres pàgines que hàgiu visitat o afegit a les adreces d'interès recentment.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -226,22 +236,15 @@ newtab-pocket-learn-more = Més informació
 newtab-pocket-cta-button = Obtén el { -pocket-brand-name }
 newtab-pocket-cta-text = Deseu els vostres articles preferits al { -pocket-brand-name } i gaudiu d'altres recomanacions fascinants.
 newtab-pocket-pocket-firefox-family = El { -pocket-brand-name } és part de la família { -brand-product-name }
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Desa al { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = S'ha desat al { -pocket-brand-name }
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Carrega més articles
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Ja esteu al dia.
-newtab-pocket-last-card-desc = Torneu més tard per veure si n'hi ha més.
-newtab-pocket-last-card-image =
-    .alt = Ja esteu al dia.
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Desa
 newtab-pocket-saved = S'ha desat
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

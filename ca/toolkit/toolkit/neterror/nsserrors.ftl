@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = S'ha produït un error durant la connexió a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Codi d'error: { $error }
-
 psmerr-ssl-disabled = No es pot connectar de forma segura perquè s'ha inhabilitat el protocol SSL.
 psmerr-ssl2-disabled = No es pot connectar de forma segura perquè el lloc utilitza una versió antiga i insegura del protocol SSL.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = No s'ha configurat cap algorisme de
 ssl-error-unsupported-signature-algorithm = L'altre extrem ha utilitzat una combinació incompatible d'algorisme de signatura i de hash.
 ssl-error-missing-extended-master-secret = L'altre extrem ha intentat continuar sense una extensió extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = L'altre extrem ha intentat continuar amb una extensió extended_master_secret inesperada.
+
 sec-error-io = S'ha produït un error I/O durant l'autorització de seguretat.
 sec-error-library-failure = ha fallat la biblioteca de seguretat.
 sec-error-bad-data = biblioteca de seguretat: s'han rebut dades incorrectes.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = No es pot desxifrar: l'algorisme de xifratge d
 sec-error-pkcs7-bad-signature = La verificació de signatura ha fallat: no s'ha trobat cap signatura, se n'han trobat massa, o bé les dades estan malmeses o no són adequades.
 sec-error-unsupported-keyalg = No es coneix l'algorisme de clau o bé no està implementat.
 sec-error-decryption-disallowed = No es pot desxifrar: s'ha xifrat amb un algorisme o una mida de clau no permesa.
-xp-sec-fortezza-bad-card = La targeta Fortezza no s'ha inicialitzat de forma adequada. Extraieu-la i torneu-la al vostre emissor.
-xp-sec-fortezza-no-card = No s'ha trobat cap targeta Fortezza
-xp-sec-fortezza-none-selected = No s'ha seleccionat cap targeta Fortezza
-xp-sec-fortezza-more-info = Seleccioneu una personalitat per aconseguir-ne més informació
-xp-sec-fortezza-person-not-found = No s'ha trobat la personalitat
-xp-sec-fortezza-no-more-info = No hi ha més informació de la personalitat
-xp-sec-fortezza-bad-pin = El PIN no és vàlid
-xp-sec-fortezza-person-error = No s'han pogut inicialitzar les personalitats de Fortezza.
 sec-error-no-krl = No s'ha trobat cap KRL per al certificat d'aquest lloc.
 sec-error-krl-expired = La KRL del certificat d'aquest lloc ha vençut.
 sec-error-krl-bad-signature = La KRL del certificat d'aquest lloc no té una signatura vàlida.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Ja existeix un certificat amb el mateix sobr
 sec-error-key-nickname-collision = Ja existeix una clau amb el mateix sobrenom.
 sec-error-safe-not-created = s'ha produït un error en crear un objecte segur
 sec-error-baggage-not-created = s'ha produït un error en crear un objecte d'equipatge
-xp-java-remove-principal-error = No s'ha pogut eliminar el principal
-xp-java-delete-privilege-error = No s'ha pogut suprimir el privilegi
-xp-java-cert-not-exists-error = Aquest principal no té un certificat
 sec-error-bad-export-algorithm = No es permet l'algorisme necessari.
 sec-error-exporting-certificates = S'ha produït un error en intentar d'exportar els certificats.
 sec-error-importing-certificates = S'ha produït un error en intentar d'importar els certificats.
@@ -339,6 +320,7 @@ sec-error-locked-password = La contrasenya s'ha blocat.
 sec-error-unknown-pkcs11-error = Error desconegut PKCS #11.
 sec-error-bad-crl-dp-url = URL no vàlida o no suportada al punt de distribució CRL.
 sec-error-cert-signature-algorithm-disabled = El certificat s'ha signat amb un algoritme que s'ha inhabilitat perquè no és segur.
+
 mozilla-pkix-error-key-pinning-failure = El servidor utilitza la fixació de claus (HPKP) però no s'ha pogut construir cap cadena de certificat que coincideixi amb el conjunt de claus fixes. Les infraccions de fixació de claus no es poden ometre.
 mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor utilitza un certificat amb una extensió de restriccions bàsiques que l'identifica com a entitat certificadora. Això no hauria de passar amb un certificat que s'hagi emès correctament.
 mozilla-pkix-error-inadequate-key-size = El servidor ha presentat un certificat que té una mida de clau massa petita per establir una connexió segura.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = El servidor ha presentat un certif
 mozilla-pkix-error-empty-issuer-name = El servidor ha presentat un certificat amb un nom distintiu de l'emissor buit.
 mozilla-pkix-error-additional-policy-constraint-failed = En validar aquest certificat, ha fallat una restricció de política addicional.
 mozilla-pkix-error-self-signed-cert = No es confia en el certificat perquè està signat per ell mateix.
+
+xp-java-remove-principal-error = No s'ha pogut eliminar el principal
+xp-java-delete-privilege-error = No s'ha pogut suprimir el privilegi
+xp-java-cert-not-exists-error = Aquest principal no té un certificat
+
+xp-sec-fortezza-bad-card = La targeta Fortezza no s'ha inicialitzat de forma adequada. Extraieu-la i torneu-la al vostre emissor.
+xp-sec-fortezza-no-card = No s'ha trobat cap targeta Fortezza
+xp-sec-fortezza-none-selected = No s'ha seleccionat cap targeta Fortezza
+xp-sec-fortezza-more-info = Seleccioneu una personalitat per aconseguir-ne més informació
+xp-sec-fortezza-person-not-found = No s'ha trobat la personalitat
+xp-sec-fortezza-no-more-info = No hi ha més informació de la personalitat
+xp-sec-fortezza-bad-pin = El PIN no és vàlid
+xp-sec-fortezza-person-error = No s'han pogut inicialitzar les personalitats de Fortezza.

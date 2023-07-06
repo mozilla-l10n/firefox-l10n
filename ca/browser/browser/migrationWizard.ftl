@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importa les dades del navegador
 migration-wizard-selection-list = Trieu les dades que voleu importar.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Trieu les dades que voleu importar.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -51,12 +53,15 @@ migration-selected-data-label = Importa les dades seleccionades
 
 migration-select-all-option-label = Selecciona-ho tot
 migration-bookmarks-option-label = Adreces d'interès
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Preferits
+
 migration-logins-and-passwords-option-label = Inicis de sessió i contrasenyes desats
 migration-history-option-label = Historial de navegació
 migration-form-autofill-option-label = Dades d'emplenament automàtic de formularis
+
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -71,9 +76,11 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Document TSV (valors separats per tabuladors)
        *[other] Fitxer TSV (valors separats per tabuladors)
     }
+
 migration-import-button-label = Importa
 migration-cancel-button-label = Cancel·la
 migration-done-button-label = Fet
+
 migration-wizard-import-browser-no-browsers = El { -brand-short-name } no ha trobat cap programa que contingui dades d'adreces d'interès, d'historial o de contrasenyes.
 migration-wizard-import-browser-no-resources = S'ha produït un error. El { -brand-short-name } no ha trobat cap dada per importar del perfil del navegador indicat.
 
@@ -84,6 +91,7 @@ migration-wizard-import-browser-no-resources = S'ha produït un error. El { -bra
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = adreces d'interès
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = preferits
@@ -99,6 +107,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = S'està important…
 migration-wizard-progress-icon-completed =
     .aria-label = S'ha acabat
+
 migration-safari-password-import-header = Importeu les contrasenyes del Safari
 migration-safari-password-import-steps-header = Per a importar les contrasenyes del Safari:
 migration-safari-password-import-step1 = En el Safari, obriu el menú «Safari» i aneu a Preferències > Contrasenyes
@@ -107,6 +116,8 @@ migration-safari-password-import-step3 = Deseu el fitxer de contrasenyes
 migration-safari-password-import-step4 = Utilitzeu «Selecciona el fitxer» a continuació per a triar el fitxer de contrasenyes que heu desat
 migration-safari-password-import-skip-button = Omet
 migration-safari-password-import-select-button = Selecciona el fitxer
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -117,6 +128,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } adreça d'interès
        *[other] { $quantity } adreces d'interès
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -129,6 +141,13 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } preferit
        *[other] { $quantity } preferits
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -139,6 +158,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } contrasenya
        *[other] { $quantity } contrasenyes
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -149,8 +169,9 @@ migration-wizard-progress-success-history =
         [one] De l'últim dia
        *[other] Dels últims { $maxAgeInDays } dies
     }
+
 migration-wizard-progress-success-formdata = Historial de formularis
+
 migration-wizard-safari-permissions-sub-header = Per a importar les adreces d'interès i l'historial de navegació del Safari:
 migration-wizard-safari-instructions-continue = Seleccioneu «Continuar»
 migration-wizard-safari-instructions-folder = Seleccioneu la carpeta del Safari a la llista i trieu «Obre»
-migration-wizard-safari-select-button = Selecciona el fitxer

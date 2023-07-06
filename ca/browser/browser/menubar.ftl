@@ -38,9 +38,11 @@ menu-quit =
             [windows] u
            *[other] u
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Surt del { -brand-shorter-name }
+
 menu-about =
     .label = Quant al { -brand-shorter-name }
     .accesskey = Q
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Pestanyes tancades recentment
 menu-history-undo-window-menu =
     .label = Finestres tancades recentment
-menu-history-reopen-all-tabs = Torna a obrir totes les pestanyes
-menu-history-reopen-all-windows = Torna a obrir totes les finestres
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = r
 menu-bookmarks-manage =
     .label = Gestiona les adreces d'interès
-menu-bookmark-current-tab =
-    .label = Afegeix la pestanya actual a les adreces d'interès
-menu-bookmark-edit =
-    .label = Edita aquesta adreça d'interès
 menu-bookmark-tab =
     .label = Afegeix la pestanya actual a les adreces d'interès…
 menu-edit-bookmark =

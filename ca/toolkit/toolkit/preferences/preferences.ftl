@@ -9,10 +9,6 @@ failed-pp-change = No es pot canviar la contrasenya principal.
 incorrect-pp = No heu introduït la contrasenya principal actual correcta. Torneu-ho a provar.
 pp-change-ok = La contrasenya principal s'ha canviat correctament.
 
-pp-empty-warning = Les contrasenyes i claus privades que deseu no estaran protegides.
-pp-erased-ok = Heu suprimit la vostra contrasenya principal. { pp-empty-warning }
-pp-not-wanted = Avís! Heu decidit no utilitzar cap contrasenya principal. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Us trobeu en mode FIPS. El FIPS requereix una contrasenya principal que no sigui buida.
 pw-change-success-title = El canvi de contrasenya s'ha realitzat correctament
 pw-change-failed-title = El canvi de contrasenya ha fallat

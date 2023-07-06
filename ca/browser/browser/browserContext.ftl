@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Afegeix aquesta pàgina a les adreces d'interès
-    .accesskey = i
-    .tooltiptext = Afegeix aquesta pàgina a les adreces d'interès
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Afegeix la pàgina a les adreces d'interès
-    .accesskey = i
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Edita l'adreça d'interès
-    .accesskey = i
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Afegeix aquesta pàgina a les adreces d'interès
-    .accesskey = i
-    .tooltiptext = Afegeix aquesta pàgina a les adreces d'interès ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Edita aquesta adreça d'interès
-    .accesskey = i
-    .tooltiptext = Edita aquesta adreça d'interès
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Edita aquesta adreça d'interès
-    .accesskey = i
-    .tooltiptext = Edita l'adreça d'interès ({ $shortcut })
-
 main-context-menu-bookmark-page =
     .aria-label = Afegeix la pàgina a les adreces d'interès…
     .accesskey = i
@@ -191,10 +153,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Obre l'enllaç en una finestra privada nova
     .accesskey = p
-
-main-context-menu-bookmark-link =
-    .label = Afegeix l'enllaç a les adreces d'interès
-    .accesskey = i
 
 main-context-menu-bookmark-link-2 =
     .label = Afegeix l'enllaç a les adreces d'interès…
@@ -370,14 +328,6 @@ main-context-menu-audio-email =
     .label = Envia l'àudio per correu…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activa aquest connector
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Amaga aquest connector
-    .accesskey = m
-
 main-context-menu-save-to-pocket =
     .label = Desa la pàgina al { -pocket-brand-name }
     .accesskey = k
@@ -436,10 +386,6 @@ main-context-menu-frame-reload =
     .label = Actualitza el marc
     .accesskey = z
 
-main-context-menu-frame-bookmark =
-    .label = Afegeix el marc a les adreces d'interès
-    .accesskey = m
-
 main-context-menu-frame-add-bookmark =
     .label = Afegeix el marc a les adreces d'interès…
     .accesskey = m
@@ -459,10 +405,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Informació del marc
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = Imprimeix la selecció
-    .accesskey = r
 
 main-context-menu-print-selection-2 =
     .label = Imprimeix la selecció…
