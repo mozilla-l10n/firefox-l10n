@@ -4,12 +4,14 @@
 
 about-reader-loading = Зареждане…
 about-reader-load-error = Отварянето на статията е неуспешно
+
 about-reader-color-scheme-light = Светла
     .title = Светла тема
 about-reader-color-scheme-dark = Тъмна
     .title = Тъмна тема
 about-reader-color-scheme-sepia = Сепия
     .title = Тема сепия
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

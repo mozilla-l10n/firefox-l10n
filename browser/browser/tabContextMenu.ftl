@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Отмятане на разделите…
     .accesskey = о
-bookmark-tab =
-    .label = Отмятане на раздела
-    .accesskey = о
 tab-context-bookmark-tab =
     .label = Отмятане на раздела…
     .accesskey = т
@@ -103,6 +100,7 @@ tab-context-move-tabs =
            *[other] Преместване на раздели
         }
     .accesskey = П
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

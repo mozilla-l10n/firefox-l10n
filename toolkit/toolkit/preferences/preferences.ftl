@@ -9,10 +9,6 @@ failed-pp-change = Грешка при промяна на главната па
 incorrect-pp = Главната парола, която въведохте е грешна. Моля, опитайте отново.
 pp-change-ok = Главната парола е сменена успешно.
 
-pp-empty-warning = Запазени пароли и частни ключове няма да бъдат защитени.
-pp-erased-ok = Изтрихте вашата главна парола. { pp-empty-warning }
-pp-not-wanted = Внимание! Решихте да не използвате главна парола. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = В момента сте в режим на FIPS. FIPS изисква главна парола.
 pw-change-success-title = Успешна промяна на парола
 pw-change-failed-title = Грешка при промяна на паролата

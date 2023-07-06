@@ -40,3 +40,4 @@ screenshots-private-window-error-details = Съжаляваме за неудо�
 
 screenshots-generic-error-title = Леле! Нещо се обърка с { -screenshots-brand-name }.
 screenshots-generic-error-details = Не сме сигурни какво точно се случи. Може да опитате отново, както и да снимате друга страница.
+

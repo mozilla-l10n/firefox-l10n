@@ -30,6 +30,7 @@ webrtc-item-browser = раздел
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Неизвестен произход
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Устройства споделящи раздели
     .accesskey = У
+
 webrtc-sharing-window = Споделяте друг прозорец на приложението.
 webrtc-sharing-browser-window = Споделяте { -brand-short-name }.
 webrtc-sharing-screen = Споделяте целия си екран
@@ -77,6 +79,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Настройки на споделяне
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Настройки на споделяне за „{ $streamTitle }“
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Споделяте камера с „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -85,6 +88,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Споделяте камера с { $tabCount } раздел
            *[other] Споделяте камера с { $tabCount } раздела
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Споделяте микрофон с „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -93,6 +97,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Споделяте микрофон с { $tabCount } раздел
            *[other] Споделяте микрофон с { $tabCount } раздела
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Споделяте приложение с „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -101,6 +106,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Споделяте приложение с { $tabCount } раздел
            *[other] Споделяте приложение с { $tabCount } раздела
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Споделяте екран с „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -109,6 +115,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Споделяте екран с { $tabCount } раздел
            *[other] Споделяте екран с { $tabCount } раздела
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Споделяте прозорец с „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -117,6 +124,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Споделяте прозорец с { $tabCount } раздел
            *[other] Споделяте прозорец с { $tabCount } раздела
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Споделяте раздел с „{ $streamTitle }“
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -173,6 +181,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Запомняне на решението
 webrtc-mute-notifications-checkbox = Спиране на известия докато споделяте
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } не може да позволи постоянен достъп до екрана ви.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } не може да позволи постоянен достъп до звука на раздела без да ви попита кой раздел да сподели.
 webrtc-reason-for-no-permanent-allow-insecure = Връзката към сайта е незащитена. За да ви предпази { -brand-short-name } ще позволи достъпа само за тази сесия.

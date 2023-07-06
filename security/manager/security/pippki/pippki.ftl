@@ -15,10 +15,6 @@ change-password-reenter = Нова парола (отново):
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Нулиране на главна парола
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Нулиране на главна парола
     .style = min-width: 40em
@@ -29,10 +25,6 @@ pippki-reset-password-confirmation-title = Нулиране на главна п
 pippki-reset-password-confirmation-message = Главната парола е нулирана.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Изтегляне на сертификат
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Изтегляне на сертификат
@@ -68,7 +60,5 @@ set-password-reminder = Важно: Ако забравите паролата �
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Защитен удостоверяващ токен
-protected-auth-msg = Моля, удостоверете токена. Начинът на удостоверяване зависи от токена.
-protected-auth-token = Токен:
+## Protected authentication alert
+

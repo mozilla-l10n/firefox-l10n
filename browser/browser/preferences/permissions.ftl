@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Изключения
-    .style = width: 52em
-
 permissions-window2 =
     .title = Изключения
     .style = min-width: 52em
@@ -92,20 +88,11 @@ permissions-invalid-uri-label = Моля, въведете валидно име
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Изключения в подобрената защита от проследяване
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Изключения в подобрената защита от проследяване
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Защитите са изключени за тези страници.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = Изключения – Бисквитки и данни на страници
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = Изключения – Бисквитки и данни на страници
@@ -114,20 +101,12 @@ permissions-exceptions-cookie-desc = Може да укажете на кои с
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Изключения – Режим „само HTTPS“
-    .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = Изключения – Режим „само HTTPS“
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Можете да изключите режима „само HTTPS“ за конкретни страници. { -brand-short-name } няма да опитва да надстройва връзката към HTTPS за тези страници. Изключенията не се прилагат за поверителни прозорци.
 
 ## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window =
-    .title = Разрешени страници - изскачащи прозорци
-    .style = { permissions-window.style }
 
 permissions-exceptions-popup-window2 =
     .title = Разрешени страници - изскачащи прозорци
@@ -136,20 +115,12 @@ permissions-exceptions-popup-desc = Може да посочите страни�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Изключения – Запазени регистрации
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Изключения – Запазени регистрации
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Регистрациите в следните страници няма да бъдат запазвани
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Разрешени страници - инсталация на добавки
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Разрешени страници - инсталация на добавки
@@ -158,20 +129,12 @@ permissions-exceptions-addons-desc = Може да посочите страни
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Настройки – Автоматично възпроизвеждане
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Настройки – Автоматично възпроизвеждане
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Тук можете да управлявате страниците, които не следват настройките за автоматично възпроизвеждане по подразбиране.
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = Настройки – Права за известия
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = Настройки – Права за известия
@@ -183,10 +146,6 @@ permissions-site-notification-disable-desc = По този начин ще по�
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Настройки – Права за местоположение
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Настройки – Права за местоположение
     .style = { permissions-window2.style }
@@ -196,10 +155,6 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = По този начин ще попречите на страниците, които не са в списъка да искат разрешение за достъп до местоположението. Спирането достъпа до местоположението ви може да наруши работата на страниците.
 
 ## Site Permissions - Virtual Reality
-
-permissions-site-xr-window =
-    .title = Настройки - Права за виртуална реалност
-    .style = { permissions-window.style }
 
 permissions-site-xr-window2 =
     .title = Настройки - Права за виртуална реалност
@@ -211,10 +166,6 @@ permissions-site-xr-disable-desc = По този начин ще попречи�
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Настройки – Права за камера
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Настройки – Права за камера
     .style = { permissions-window2.style }
@@ -225,10 +176,6 @@ permissions-site-camera-disable-desc = По този начин ще попре�
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Настройки – Права за микрофон
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Настройки – Права за микрофон
     .style = { permissions-window2.style }
@@ -236,3 +183,8 @@ permissions-site-microphone-desc = Следните страници са пои
 permissions-site-microphone-disable-label =
     .label = Спиране на всички нови запитвания за достъп до микрофона
 permissions-site-microphone-disable-desc = По този начин ще попречите на страниците, които не са в списъка да искат разрешение за достъп до микрофона. Спирането на достъпа да микрофона ви може да наруши работата на страниците.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

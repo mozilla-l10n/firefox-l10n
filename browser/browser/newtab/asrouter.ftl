@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Препоръчана възможност
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Защо го виждам?
+
 cfr-doorhanger-extension-cancel-button = Не сега
     .accesskey = н
+
 cfr-doorhanger-extension-ok-button = Добавяне
     .accesskey = д
+
 cfr-doorhanger-extension-manage-settings-button = Управление на настройки за препоръки
     .accesskey = н
+
 cfr-doorhanger-extension-never-show-recommendation = Не ми показвайте тази препоръка
     .accesskey = н
+
 cfr-doorhanger-extension-learn-more-link = Научете повече
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препоръка
 cfr-doorhanger-extension-notification2 = Препоръчано
     .tooltiptext = Препоръка за разширение
     .a11y-announcement = Налична е препоръка за разширение
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препоръка
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Научете повече
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова възможност:
+
 cfr-whatsnew-button =
     .label = Какво е новото
     .tooltiptext = Новото в това издание
+
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
 
 ## Enhanced Tracking Protection Milestones
@@ -106,12 +116,6 @@ cfr-doorhanger-doh-secondary-button = Изключване
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-header = Изолирана страница
-cfr-doorhanger-fission-primary-button = Добре, разбрах
-    .accesskey = Д
-cfr-doorhanger-fission-secondary-button = Научете повече
-    .accesskey = Н
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-header = Обновете { -brand-short-name } за възпроизвеждане на видео
@@ -119,11 +123,6 @@ cfr-doorhanger-video-support-primary-button = Обновяване
     .accesskey = б
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Научете повече
-    .title = Отворете, за да научите повече
-spotlight-learn-more-expanded = Научете повече
-    .title = Затваряне
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +138,6 @@ spotlight-public-wifi-vpn-link = Не сега
     .accesskey = Н
 
 ## Total Cookie Protection Rollout
-
-spotlight-total-cookie-protection-secondary-button = Не сега
 
 ## Emotive Continuous Onboarding
 
@@ -172,12 +169,12 @@ spotlight-pin-secondary-button = Не сега
 
 ## Cookie Banner Handling CFR
 
-cfr-cookiebanner-header-variant-2 = Намаляване на банерите за бисквитки
-cfr-cookiebanner-accept-button-variant-2 = &Разрешаване
-    .accesskey = Р
-
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

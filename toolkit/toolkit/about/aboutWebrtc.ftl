@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = запазване на about:webrtc като
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = Журнал на AEC
 about-webrtc-aec-logging-off-state-label = Активиране журнал на AEC
 about-webrtc-aec-logging-on-state-label = Спиране журнал на AEC
 about-webrtc-aec-logging-on-state-msg = Активен журнал на AEC (разговор с обаждащия се за няколко минути и след това спиране на журнала)
+
 about-webrtc-aec-logging-toggled-on-state-msg = Активен журнал на AEC (разговор с обаждащия се за няколко минути и след това спиране на журнала)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Журналните файлове могат да бъдат намерени в: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -75,10 +78,12 @@ about-webrtc-type-remote = Отдалечен
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Номинирано
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Избрано
+
 about-webrtc-save-page-label = Запазване на страницата
 about-webrtc-debug-mode-msg-label = Режим на дебъгване
 about-webrtc-debug-mode-off-state-label = Активиране режим на дебъгване
@@ -91,6 +96,7 @@ about-webrtc-log-show-msg = показване на журнал
     .title = щракнете, за да разширите раздела
 about-webrtc-log-hide-msg = скриване на журнал
     .title = щракнете, за да свиете раздела
+
 about-webrtc-log-section-show-msg = Показване на журнал
     .title = Щракнете, за да разширите раздела
 about-webrtc-log-section-hide-msg = Скриване на журнал
@@ -157,6 +163,7 @@ about-webrtc-save-page-msg = страницата е запазена в: { $pat
 about-webrtc-debug-mode-off-state-msg = журналът на дебъгването може да бъде намерен в: { $path }
 about-webrtc-debug-mode-on-state-msg = активиран режим на дебъгване, журнал на дебъгването в: { $path }
 about-webrtc-aec-logging-off-state-msg = журналните файлове могат да бъдат намерени в: { $path }
+
 about-webrtc-save-page-complete-msg = Страницата е запазена в: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Журналът на дебъгването може да бъде намерен в: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Активиран режим на дебъгване, журнал на дебъгването в: { $path }
@@ -168,6 +175,7 @@ about-webrtc-debug-mode-toggled-on-state-msg = Активиран режим н�
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = колебания { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

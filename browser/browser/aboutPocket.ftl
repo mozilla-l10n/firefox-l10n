@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = Страницата е премахната
 pocket-panel-saved-page-saved = Запазена в { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Запазено в { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Премахване на страница…
-pocket-panel-saved-removed = Страницата е премахната от Моя списък
 pocket-panel-saved-processing-tags = Добавяне на етикети…
 pocket-panel-saved-remove-page = Премахване на страница
 pocket-panel-saved-save-tags = Запазване
 pocket-panel-saved-saving-tags = Запазване…
 pocket-panel-saved-suggested-tags = Предложени етикети
 pocket-panel-saved-tags-saved = Етикетите са добавени
-pocket-panel-signup-view-list = Преглед на списъка
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Добавяне на етикети:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = Използвайте бутона на
 pocket-panel-signup-tagline-story-two = Преглеждайте в { -pocket-brand-name } на всяко устройство и по всяко време.
 
 pocket-panel-signup-cta-a-fix = Вашият бутон за запазване за интернет
-pocket-panel-signup-cta-b = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки. Преглеждайте списъка на всяко устройство и по всяко време.
 pocket-panel-signup-cta-b-short = Щракнете върху бутона на { -pocket-brand-name }, за да запазите статии, видео и препратки.
-pocket-panel-signup-cta-c = Преглеждайте списъка на всяко устройство и по всяко време.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Моят списък
 pocket-panel-home-welcome-back = Добре дошли
 pocket-panel-home-paragraph = Можете да използвате { -pocket-brand-name } за да разглеждате и запазвате страници, статии, видео и други или да се върнете към това което сте чели.
 pocket-panel-home-explore-popular-topics = Преглед на популярни теми
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = Вижте какво сте запазил
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Преглед на Моят списък
 pocket-panel-header-sign-in = Вписване
 
 ## Pocket panel buttons

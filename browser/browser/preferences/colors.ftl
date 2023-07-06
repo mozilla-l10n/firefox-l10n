@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-colors-window =
-    .title = Цветове
-    .style =
-        { PLATFORM() ->
-            [macos] width: 52em
-           *[other] width: 43em
-        }
-
 colors-close-key =
     .key = w
 

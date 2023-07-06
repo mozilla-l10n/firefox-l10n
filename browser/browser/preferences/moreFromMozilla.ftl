@@ -10,3 +10,6 @@ more-from-moz-category =
     .tooltiptext = Още от { -vendor-short-name }
 
 more-from-moz-learn-more-link = Научете повече
+
+## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
+
