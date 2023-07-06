@@ -30,18 +30,21 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] Reabrir lapelas pechadas
         }
     .accesskey = o
+
 toolbar-context-menu-manage-extension =
     .label = Xestionar extensión
     .accesskey = e
 toolbar-context-menu-remove-extension =
     .label = Retirar extensión
     .accesskey = x
+
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = Denunciar extensión
     .accesskey = D
+
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -68,6 +71,7 @@ toolbar-context-menu-view-customize-toolbar-2 =
 toolbar-context-menu-pin-to-toolbar =
     .label = Fixar na barra de ferramentas
     .accesskey = F
+
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Mostrar sempre
     .accesskey = s
@@ -77,9 +81,11 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = Mostrar só en lapelas novas
     .accesskey = l
+
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = Mostrar outros marcadores
     .accesskey = M
+
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = Barra de menú
     .accesskey = B

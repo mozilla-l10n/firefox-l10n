@@ -20,7 +20,6 @@ styleeditor-save-button = Gardar
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Opcións do editor de estilo
-styleeditor-media-rules = Regras @media
 styleeditor-at-rules = Regras @
 styleeditor-editor-textbox =
     .data-placeholder = Escriba aquí a CSS.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = S
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Non se atopou ningunha folla de estilo que coincida.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Marcar estas lapelas…
     .accesskey = l
-bookmark-tab =
-    .label = Marcar lapela
-    .accesskey = l
 tab-context-bookmark-tab =
     .label = Marcar a lapela…
     .accesskey = M
@@ -106,6 +103,7 @@ tab-context-move-tabs =
            *[other] Mover lapelas
         }
     .accesskey = v
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

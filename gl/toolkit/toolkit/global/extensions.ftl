@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Cancelar
     .accesskey = C
+
 webext-perms-sideload-text = Outro programa do seu computador instalou un complemento que pode afectar ao seu navegador. Revise os permisos que solicita este complemento e escolla Activar ou Cancelar (para deixalo desactivado).
 webext-perms-sideload-text-no-perms = Outro programa do seu computador instalou un complemento que pode afectar ao seu navegador. Escolla Activar ou Cancelar (para deixalo desactivado).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Actualizouse { $extension }. Debe aprobar permisos novos antes de que se instale a versión actualizada. Se escolle «Cancelar» manterase a versión actual da extensión. Esta extensión terá permiso para:
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = a
+
 webext-perms-optional-perms-list-intro = Quere:
 webext-perms-optional-perms-allow =
     .label = Permitir
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Denegar
     .accesskey = D
+
 webext-perms-host-description-all-urls = Acceder aos seus datos de todos os sitios web
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder aos seus datos para os sitios no dominio { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acceder aos seus datos de { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

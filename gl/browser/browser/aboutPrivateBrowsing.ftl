@@ -22,10 +22,12 @@ about-private-browsing-not-private = Actualmente non está nunha xanela privada.
 about-private-browsing-info-description-private-window = Xanela privada: O { -brand-short-name } limpa o historial de buscas e de navegación ao pechar todas as xanelas privadas,. Isto non fai que vostede permaneza no anonimato.
 about-private-browsing-info-description-simplified = O { -brand-short-name } limpa o historial de buscas e de navegación ao pechar todas as xanelas privadas, pero isto non fai que vostede permaneza no anonimato.
 about-private-browsing-learn-more-link = Máis información
+
 about-private-browsing-hide-activity = Agoche a súa actividade e situación en calquera lugar polo que navegue
 about-private-browsing-get-privacy = Obteña proteccións de privacidade en calquera lugar polo que navegue
 about-private-browsing-hide-activity-1 = Agoche a súa actividade e a localización de navegación con { -mozilla-vpn-brand-name }. Un clic crea unha conexión segura, mesmo en redes sen fíos públicas.
 about-private-browsing-prominent-cta = Manteña a súa privacidade con { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = Descargar { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: navegación privada en calquera lugar
 about-private-browsing-focus-promo-text = A nosa aplicación móbil dedicada á navegación privada borra o seu historial e as cookies cada vez.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Leve a navegación privada ao seu 
 about-private-browsing-focus-promo-text-b = Use { -focus-brand-name } para aquelas buscas privadas que non quere que vexa o seu navegador móbil principal.
 about-private-browsing-focus-promo-header-c = Un novo nivel de privacidade no móbil
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } borra o seu historial cada vez ao tempo que bloquea anuncios e rastreadores.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Pechar
+
 about-private-browsing-promo-close-button =
     .title = Pechar
 

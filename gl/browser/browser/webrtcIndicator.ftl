@@ -30,6 +30,7 @@ webrtc-item-browser = lapela
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Orixe descoñecida
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Lapelas que comparten dispositivos
     .accesskey = d
+
 webrtc-sharing-window = Está a compartir outra xanela da aplicación.
 webrtc-sharing-browser-window = Está compartindo { -brand-short-name }.
 webrtc-sharing-screen = Está a compartir toda a pantalla.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controlar uso compartido
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controlar o uso compartido en "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Compartindo a cámara con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Compartindo a cámara con { $tabCount } lapela
            *[other] Compartindo a cámara con { $tabCount } lapelas
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Compartindo o micrófono con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Compartindo o micrófono con { $tabCount } lapela
            *[other] Compartindo o micrófono con { $tabCount } lapelas
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Compartindo un aplicativo con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Compartindo un aplicativo con { $tabCount } lapela
            *[other] Compartindo aplicativos con { $tabCount } lapelas
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Compartindo a pantalla con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Compartindo a pantalla con { $tabCount } lapela
            *[other] Compartindo a pantalla con { $tabCount } lapelas
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Compartindo unha xanela con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Compartindo unha xanela con { $tabCount } lapela
            *[other] Compartindo xanelas con { $tabCount } lapelas
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Compartindo unha lapela con "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -177,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Permitir que { $
 
 webrtc-share-screen-warning = Comparta a pantalla só cos sitios nos que confíe. Compartir pode permitir que sitios enganosos suplanten a súa actividade de navegación e rouben os seus datos privados.
 webrtc-share-browser-warning = Comparta { -brand-short-name } só cos sitios nos que confíe. Compartir pode permitir que sitios enganosos suplanten a súa actividade de navegación e rouben os seus datos privados.
+
 webrtc-share-screen-learn-more = Máis información
 webrtc-pick-window-or-screen = Seleccionar xanela ou pantalla
 webrtc-share-entire-screen = Pantalla completa
@@ -212,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Lembrar esta decisión
 webrtc-mute-notifications-checkbox = Silenciar as notificacións do sitio web mentres se comparte
+
 webrtc-reason-for-no-permanent-allow-screen = Non é posíbel que { -brand-short-name } permita o acceso permanente a súa pantalla.
 webrtc-reason-for-no-permanent-allow-audio = Non é posíbel que { -brand-short-name } permita o acceso permanente ao son da súa lapela sen preguntar que lapela compartir.
 webrtc-reason-for-no-permanent-allow-insecure = A conexión con este sitio non é segura. Para protéxelo, { -brand-short-name } só permitirá o acceso para esta sesión.

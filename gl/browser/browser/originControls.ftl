@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = A extensión non pode ler nin cambiar os datos
+
 origin-controls-quarantined =
     .label = A extensión non está autorizada para ler nin cambiar datos
+
 origin-controls-options =
     .label = A extensión pode ler e cambiar os datos:
+
 origin-controls-option-all-domains =
     .label = En todos os sitios
+
 origin-controls-option-when-clicked =
     .label = Só cando se prema
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Non se poden ler nin cambiar os datos deste sitio
+
 origin-controls-state-quarantined = Non permitido por { -vendor-short-name } neste sitio
+
 origin-controls-state-always-on = Sempre pode ler e cambiar os datos deste sitio
+
 origin-controls-state-when-clicked = Necesítase permiso para ler e cambiar datos
+
 origin-controls-state-hover-run-visit-only = Executar só nesta visita
+
 origin-controls-state-runnable-hover-open = Abrir a extensión
+
 origin-controls-state-runnable-hover-run = Executar a extensión
+
 origin-controls-state-temporary-access = Pode ler e cambiar os datos nesta visita
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = Pode ler e cambiar os datos nesta visit
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Necesita permiso
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

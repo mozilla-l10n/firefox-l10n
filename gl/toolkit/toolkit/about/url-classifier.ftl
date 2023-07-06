@@ -50,5 +50,9 @@ url-classifier-disabled = Desactivado
 url-classifier-updating = actualizando
 url-classifier-cannot-update = non é posíbel actualizar
 url-classifier-success = rematou correctamente
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = erro de actualización ({ $error })
 url-classifier-download-error = erro na descarga ({ $error })
