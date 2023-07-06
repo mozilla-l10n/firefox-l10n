@@ -46,3 +46,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Ləğv et
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Hesabat Göndər
+
+# Cookie Banner Handling
+

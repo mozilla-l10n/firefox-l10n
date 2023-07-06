@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Çıxma
        *[other] Çıxma
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Əgər indi oflayn rejimə keçsəniz endirilən 1 fayl ləğv ediləcək. Oflayn rejimə keçmək istədiyinizə əminsiniz?
        *[other] Əgər indi oflayn rejimə keçsəniz endirilən { $downloadsCount } fayl ləğv ediləcək. Oflayn rejimə keçmək istədiyinizə əminsiniz?
     }
 download-ui-dont-go-offline-button = Online qal
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Əgər Məxfi Səyahət pəncərəsini indi qapatsanız 1 endirmə ləğv ediləcək. Məxfi Səyahəti indi tərk etmək istədiyinizə əminsiniz?
        *[other] Əgər Məxfi Səyahət pəncərəsini indi qapatsanız { $downloadsCount } endirmə ləğv ediləcək. Məxfi Səyahəti indi tərk etmək istədiyinizə əminsiniz?
     }
 download-ui-dont-leave-private-browsing-button = Məxfi Səyahətdə qal
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 Endirməni Ləğv et

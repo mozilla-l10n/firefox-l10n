@@ -4,6 +4,7 @@
 
 about-reader-loading = Yüklənir…
 about-reader-load-error = Məqalə səhifədən yüklənə bilmədi
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

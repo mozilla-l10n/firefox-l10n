@@ -26,13 +26,6 @@ about-networking-messages-received = Alınan mesajlar
 about-networking-bytes-sent = Bayt gondərildi
 about-networking-bytes-received = Bayt qəbul edildi
 about-networking-logging = Qeydiyyat
-about-networking-log-tutorial = Bu aləti necə istifadə edəcəyinizi öyrənmək üçün <a data-l10n-name="logging">HTTP Qeyd Aparma</a> səhifəsinə baxın.
-about-networking-current-log-file = Hazırkı Qeydiyyat Faylı:
-about-networking-current-log-modules = Hazırkı Qeydiyyat Modulları:
-about-networking-set-log-file = Qeydiyyat Faylını Qur
-about-networking-set-log-modules = Qeydiyyat Modullarını Qur
-about-networking-start-logging = Qeydiyyatı Başlat
-about-networking-stop-logging = Qeydiyyatı Dayandır
 about-networking-dns-lookup = DNS Baxış
 about-networking-dns-lookup-button = Qərarlaşdır
 about-networking-dns-domain = Domen:

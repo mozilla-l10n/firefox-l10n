@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = { $hostname } ünvanına qoşularkən xəta baş verdi. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Xəta kodu: { $error }
-
 psmerr-ssl-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydası söndürülüb.
 psmerr-ssl2-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydasının köhnə və etibarsız versiyası istifadə olunur.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Dəstəklənən heç bir TLS imzala
 ssl-error-unsupported-signature-algorithm = Qarşı tərəf dəstəklənməyən imza və heş alqoritmi işlətdi.
 ssl-error-missing-extended-master-secret = Qarşı tərəf düzgün extended_master_secret qoşması olmadan davam etməyə çalışdı.
 ssl-error-unexpected-extended-master-secret = Qarşı tərəf gözlənilməz extended_master_secret qoşması ilə davam etməyə çalışdı.
+
 sec-error-io = Təhlükəsizlik təsdiqləməsi zamanı giriş-çıxış səhvi baş verdi.
 sec-error-library-failure = Təhlükəsizlik kitabxanası səhvi.
 sec-error-bad-data = Təhlükəsiz kitabxanası: Pis məlumat alındı.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Şifrə açıla bilmir: Açar şifrələmə a�
 sec-error-pkcs7-bad-signature = Açar təsdiqləməsi uğursuz oldu: İmzaçı tapıla bilməmiş, çox artıq tapılmış ya da düzgün olmayan və ya əksik məlumatla əməliyyat aparılmış ola bilər.
 sec-error-unsupported-keyalg = Dəstəklənməyən ya da naməlum açar açma yolu.
 sec-error-decryption-disallowed = Şifrə açıla bilmir: İcazə verilməyən bir açma yolu ilə ya da açar ölçüsündə şifrələnib.
-xp-sec-fortezza-bad-card = Fortezza kartı düzgün olaraq işlədilmədi. Lütfən çıxarıb yayımlayıcıya qaytarın.
-xp-sec-fortezza-no-card = Fortezza kartı tapılmadı
-xp-sec-fortezza-none-selected = Fortezza kartı seçilmədi
-xp-sec-fortezza-more-info = Lütfən daha çox məlumat almaq üçün bir şəxsiyyət seçin
-xp-sec-fortezza-person-not-found = Kişilik bulunamadı
-xp-sec-fortezza-no-more-info = Bu şəxsiyyətlə bağlı daha çox məlumat yoxdur
-xp-sec-fortezza-bad-pin = Etibarsız şəxsi təyin etmə nömrəsi
-xp-sec-fortezza-person-error = Fortezza şəxsiyyətləri tapılmadı.
 sec-error-no-krl = Bu saytla bağlı hər hansı etibarsız açar siyahısı tapılmadı.
 sec-error-krl-expired = Bu saytın etibarsız açar siyahısının vaxtı çıxmışdır.
 sec-error-krl-bad-signature = Bu saytın etibarsız açar siyahısının açarı etibarsızdır.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Eyni ləqəbdə bir təsdiq sənədi mövcud
 sec-error-key-nickname-collision = Eyni ləqəbdə bir açar mövcuddur.
 sec-error-safe-not-created = Təhlükəsiz obyekt yaradılarkən səhv baş verdi.
 sec-error-baggage-not-created = Baqaj obyekti yaradılarkən səhv baş verdi.
-xp-java-remove-principal-error = Baş bölmə silinmədi.
-xp-java-delete-privilege-error = İstisnalıq silinə bilmədi
-xp-java-cert-not-exists-error = Bu baş bölməsinin təsdiq sənədi yoxdur
 sec-error-bad-export-algorithm = İstenen açma yoluna icazə verilmir.
 sec-error-exporting-certificates = Təsdiq sənədləri ixrac edilərkən səhv baş verdi.
 sec-error-importing-certificates = təsdiq sənədləri idxal edilərkən səhv baş verdi.
@@ -338,6 +319,7 @@ sec-error-locked-password = Parol kilidlənib.
 sec-error-unknown-pkcs11-error = Naməlum PKCS #11 xətası.
 sec-error-bad-crl-dp-url = CRL paylama nöqtəsi adında etibarsız və ya dəstəklənilməyən URL.
 sec-error-cert-signature-algorithm-disabled = Sertifikat, etibarlı olmadığı üçün söndürülən bir imza alqoritmi ilə imzalandı.
+
 mozilla-pkix-error-key-pinning-failure = Server açar sabitləmə (HPKP) istifadə edir amma sabit qrupla uyğun gələn bir etibarlı sertifikat zənciri yaradıla bilmədi. Açar sabitləmə pozuntuları göz ardı edilə bilməz.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server, özünü sertifikat səlahiyyətlisi olaraq tanıdan, başlıca məhdudiyyətlər əlavəsi olan bir sertifikat istifadə edir. Düzgün şəkildə verilmiş bir sertifikatda bu olmamalıydı.
 mozilla-pkix-error-inadequate-key-size = Serverin təqdim etdiyi sertifikatın açar uzunluğu təhlükəsiz bağlantı qurmaq üçün çox qısadır.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Server səhv tam ədəd kodlayıc�
 mozilla-pkix-error-empty-issuer-name = Server boş təchizatçı fərqləndirici adı ilə sertifikat verdi.
 mozilla-pkix-error-additional-policy-constraint-failed = Bu sertifikatı təsdiqləyərkən əlavə icbari siyasət təsdiqlənə bilmədi.
 mozilla-pkix-error-self-signed-cert = Sertifikata etibar edilmir, çünki özü tərəfindən imzalanıb.
+
+xp-java-remove-principal-error = Baş bölmə silinmədi.
+xp-java-delete-privilege-error = İstisnalıq silinə bilmədi
+xp-java-cert-not-exists-error = Bu baş bölməsinin təsdiq sənədi yoxdur
+
+xp-sec-fortezza-bad-card = Fortezza kartı düzgün olaraq işlədilmədi. Lütfən çıxarıb yayımlayıcıya qaytarın.
+xp-sec-fortezza-no-card = Fortezza kartı tapılmadı
+xp-sec-fortezza-none-selected = Fortezza kartı seçilmədi
+xp-sec-fortezza-more-info = Lütfən daha çox məlumat almaq üçün bir şəxsiyyət seçin
+xp-sec-fortezza-person-not-found = Kişilik bulunamadı
+xp-sec-fortezza-no-more-info = Bu şəxsiyyətlə bağlı daha çox məlumat yoxdur
+xp-sec-fortezza-bad-pin = Etibarsız şəxsi təyin etmə nömrəsi
+xp-sec-fortezza-person-error = Fortezza şəxsiyyətləri tapılmadı.

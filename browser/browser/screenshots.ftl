@@ -40,3 +40,4 @@ screenshots-private-window-error-details = Narahatlıq üçün üzr istəyirik. 
 
 screenshots-generic-error-title = Off! { -screenshots-brand-name } dəli olub.
 screenshots-generic-error-details = Nə baş verdiyindən əmin deyilik. Bir daha yoxlayın və ya başqa səhifənin ekran görüntüsünü alaraq işləyib işləmədiyinə əmin olun.
+

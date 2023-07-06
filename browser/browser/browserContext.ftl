@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Bu Səhifəni Əlfəcinlə
-    .accesskey = m
-    .tooltiptext = Bu səhifəni əlfəcinlə
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Bu Səhifəni Əlfəcinlə
-    .accesskey = m
-    .tooltiptext = Bu səhifəni əlfəcinlə ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Bu əlfəcini düzəlt
-    .accesskey = m
-    .tooltiptext = Bu əlfəcini redaktə et
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Bu əlfəcini düzəlt
-    .accesskey = m
-    .tooltiptext = Bu əlfəcini redaktə et ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Keçidi Aç
     .accesskey = A
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = Audionu e-poçt ilə göndər…
     .accesskey = -
 
-main-context-menu-plugin-play =
-    .label = Bu qoşmanı aktivləşdir
-    .accesskey = a
-
-main-context-menu-plugin-hide =
-    .label = Bu qoşmanı gizlət
-    .accesskey = g
-
 main-context-menu-save-to-pocket =
     .label = Səhifəni { -pocket-brand-name }-ə Saxla
     .accesskey = k
@@ -297,10 +265,6 @@ main-context-menu-frame-reload =
     .label = Çərçivəni yenilə
     .accesskey = e
 
-main-context-menu-frame-bookmark =
-    .label = Bu Çərçivəni Əlfəcinlə
-    .accesskey = Ə
-
 main-context-menu-frame-save-as =
     .label = Çərçivəni Fərqli Saxla…
     .accesskey = Ç
@@ -316,10 +280,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Çərçivə Məlumatlarını Göstər
     .accesskey = M
-
-main-context-menu-print-selection =
-    .label = Seçilmiş hissəni çap et
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = Seçimin qaynaq kodunu göstər

@@ -36,9 +36,11 @@ menu-quit =
             [windows] ı
            *[other] x
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } səyyahını tərk et
+
 menu-about =
     .label = { -brand-shorter-name } Haqqında
     .accesskey = H
@@ -202,8 +204,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Əlfəcinlər
     .accesskey = Ə
-menu-bookmark-edit =
-    .label = Bu əlfəcini düzəlt
 menu-bookmarks-all-tabs =
     .label = Bütün vərəqləri əlfəcinlə…
 menu-bookmarks-toolbar =

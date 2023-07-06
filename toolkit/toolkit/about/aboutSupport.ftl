@@ -111,6 +111,8 @@ media-device-channels = Kanallar
 media-device-rate = Tempi
 media-device-latency = Ləngimə
 
+## Codec support table
+
 ##
 
 intl-title = Beynəlmiləlləşdirmə və Lokallaşdırma

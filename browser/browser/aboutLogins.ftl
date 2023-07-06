@@ -11,11 +11,6 @@ about-logins-page-title = Giriş və Parollar
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Hesablarda axtar
-
-create-login-button = Yeni hesab yarat
-
 fxaccounts-sign-in-text = Parollarınız bütün cihazlarınızda sizinlə olsunlar
 fxaccounts-avatar-button =
     .title = Hesabı idarə et
@@ -82,9 +77,10 @@ login-item-copied-password-button-text = Köçürüldü!
 login-item-save-changes-button = Dəyişiklikləri yadda saxla
 login-item-save-new-button = Saxla
 login-item-cancel-button = Ləğv et
-login-item-time-changed = Son dəyişiklik: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Yaradılıb: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Son işlədilmə: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -127,13 +123,16 @@ about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
 confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
 about-logins-confirm-remove-dialog-confirm-button = Sil
 
+## Variables
+##   $count (number) - Number of items
+
+##
+
 confirm-discard-changes-dialog-title = Saxlanılmamış dəyişikliklər ləğv edilsin?
 confirm-discard-changes-dialog-message = Bütün saxlanılmamış dəyişikliklər itiriləcək.
 confirm-discard-changes-dialog-confirm-button = Ləğv et
 
 ## Breach Alert notification
-
-about-logins-breach-alert-learn-more-link = Ətraflı öyrən
 
 ## Vulnerable Password notification
 

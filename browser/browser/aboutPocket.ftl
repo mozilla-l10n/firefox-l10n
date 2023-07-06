@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Saxla
 pocket-panel-saved-saving-tags = Saxlanır…
 pocket-panel-saved-suggested-tags = Məsləhətli etiketlər
 pocket-panel-saved-tags-saved = Etiketlər əlavə edildi
-pocket-panel-signup-view-list = Siyahını gör
 
 ## about:pocket-signup panel
 

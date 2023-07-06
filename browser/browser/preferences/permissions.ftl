@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = İstisnalar
-    .style = width: 45em
-
 permissions-window2 =
     .title = İstisnalar
     .style = min-width: 45em
@@ -73,10 +69,6 @@ permissions-invalid-uri-label = Lütfən etibarlı bir server adı daxil edin
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = İstisnalar: Çərəzlər və Sayt Məlumatları
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = İstisnalar: Çərəzlər və Sayt Məlumatları
     .style = { permissions-window2.style }
@@ -87,10 +79,6 @@ permissions-exceptions-cookie-desc = Hansı saytların çərəz və sayt məluma
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = İcazə verilən Saytlar - Avtomatik açılan pəncərələr
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = İcazə verilən Saytlar - Avtomatik açılan pəncərələr
     .style = { permissions-window2.style }
@@ -98,20 +86,12 @@ permissions-exceptions-popup-desc = Hansı saytların avtomatik açılan pəncə
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = İstisnalar - Saxlanılmış Hesablar
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = İstisnalar - Saxlanılmış Hesablar
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Aşağıdakı saytlar üçün hesablar saxlanılmayacaq
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = İcazə verilən saytlar - Əlavə quraşdırılması
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = İcazə verilən saytlar - Əlavə quraşdırılması
@@ -123,10 +103,6 @@ permissions-exceptions-addons-desc = Hansı saytların əlavə yükləyə biləc
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Tənzimləmələr - Bildiriş İcazələri
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Tənzimləmələr - Bildiriş İcazələri
     .style = { permissions-window2.style }
@@ -136,10 +112,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Bu yuxarıda olmayan bütün saytların sizdən bildiriş göndərmə icazəsi istəmələrini əngəlləyəcək. Bildirişləri əngəlləmə bəzi sayt özəlliklərini poza bilər.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Tənzimləmələr - Mövqe İcazələri
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Tənzimləmələr - Mövqe İcazələri
@@ -154,10 +126,6 @@ permissions-site-location-disable-desc = Bu yuxarıda olmayan bütün saytların
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Tənzimləmələr - Kamera İcazələri
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Tənzimləmələr - Kamera İcazələri
     .style = { permissions-window2.style }
@@ -168,10 +136,6 @@ permissions-site-camera-disable-desc = Bu yuxarıda olmayan bütün saytların k
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Tənzimləmələr - Mikrofon İcazələri
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Tənzimləmələr - Mikrofon İcazələri
     .style = { permissions-window2.style }
@@ -179,3 +143,8 @@ permissions-site-microphone-desc = Aşağıdakı saytlar mikrofonunuz üçün ic
 permissions-site-microphone-disable-label =
     .label = Mikrofonunuz üçün icazə istəyən yeni istəkləri əngəllə
 permissions-site-microphone-disable-desc = Bu yuxarıda olmayan bütün saytların mikrofonunuz üçün icazə istəmələrini əngəlləyəcək. Mikrofonunuzu işlətməyi əngəlləmə bəzi sayt özəlliklərini poza bilər.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

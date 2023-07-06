@@ -21,10 +21,6 @@ certmgr-mine = Sizi müəyyənləşdirən bu təşkilatlardan təsdiq sənədlə
 certmgr-people = Bu şəxsləri müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var
 certmgr-ca = Bu təsdiq sənədi səlahiyyətlilərini müəyyənləşdirən qeydiyyatlı təsdiq sənədləriniz var
 
-certmgr-edit-ca-cert =
-    .title = Təsdiq sənədinin etibarlılıq parametrlərini redaktə edin
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Təsdiq sənədinin etibarlılıq parametrlərini redaktə edin
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Bu təsdiq sənədi poçt istifadəçilərini təyin edə bilər.
 
-certmgr-delete-cert =
-    .title = Təsdiq sənədini sil
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Təsdiq sənədini sil
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Xidmət müddəti
 
 certmgr-token-name =
     .label = Təhlükəsizlik cihazları
