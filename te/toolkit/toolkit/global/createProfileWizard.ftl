@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = ప్రొఫైల్ విజార్డును సృష్టించు
-    .style = width: 45em; height: 32em;
-
 create-profile-window2 =
     .title = ప్రొఫైల్ విజార్డును సృష్టించు
     .style = min-width: 45em; min-height: 32em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] పరిచయం
-       *[other] { create-profile-window.title }కు స్వాగతం
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] ముగింపు
-       *[other] { create-profile-window.title }ను పూర్తిచేయుచున్నది
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

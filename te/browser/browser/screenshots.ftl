@@ -44,3 +44,4 @@ screenshots-private-window-error-details = అసౌకర్యానికి 
 
 screenshots-generic-error-title = అయ్యో! { -screenshots-brand-name } గల్లంతయ్యింది.
 screenshots-generic-error-details = ఏమి జరిగిందో మాకు ఖచ్చితంగా తెలియలేదు. మళ్లీ ప్రయత్నించాలనుకుంటున్నారా లేదా మరొక పేజీ తెరపట్టు తీసుకోవాలనుకుంటున్నారా?
+

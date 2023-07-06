@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = మినహాయింపులు
-    .style = width: 45em
-
 permissions-window2 =
     .title = మినహాయింపులు
     .style = min-width: 45em
@@ -92,20 +88,11 @@ permissions-invalid-uri-label = దయచేసి సరైన హోస్ట�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = మెరుగైన ట్రాకింగ్ సంరక్షణ కొరకు మినహాయింపులు
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = ఈ వెబ్‌సైట్లలో మీరు సంరక్షణలను అచేతనం చేసివున్నారు.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = మినహాయింపులు - కుకీలు, సైటు డేటా
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = మినహాయింపులు - కుకీలు, సైటు డేటా
@@ -113,19 +100,11 @@ permissions-exceptions-cookie-window2 =
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = మినహాయింపులు - HTTPS- మాత్రమే రీతి
-    .style = { permissions-window.style }
-
 permissions-exceptions-https-only-window2 =
     .title = మినహాయింపులు - HTTPS- మాత్రమే రీతి
     .style = { permissions-window2.style }
 
 ## Exceptions - Pop-ups
-
-permissions-exceptions-popup-window =
-    .title = అనుమతించిన వెబ్‌సైట్లు - పాప్అప్‌లు
-    .style = { permissions-window.style }
 
 permissions-exceptions-popup-window2 =
     .title = అనుమతించిన వెబ్‌సైట్లు - పాప్అప్‌లు
@@ -134,20 +113,12 @@ permissions-exceptions-popup-desc = పాప్‌అప్ విండోల�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = మినహాయింపులు - భద్రపరిచన ప్రవేశాలు
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = మినహాయింపులు - భద్రపరిచన ప్రవేశాలు
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = ఈ క్రింది వెబ్‌సైట్ల ప్రవేశాలు భద్రపరచబడవు
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = అనుమతించబడిన సైట్లు - పొడిగింతల స్థాపన
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = అనుమతించబడిన సైట్లు - పొడిగింతల స్థాపన
@@ -156,19 +127,11 @@ permissions-exceptions-addons-desc = పొడిగింతలను స్థ
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = అమరికలు - ఆటోప్లే
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = అమరికలు - ఆటోప్లే
     .style = { permissions-window2.style }
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = అమరికలు - గమనింపుల అనుమతులు
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = అమరికలు - గమనింపుల అనుమతులు
@@ -178,10 +141,6 @@ permissions-site-notification-disable-label =
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = అమరికలు - స్థాన అనుమతులు
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = అమరికలు - స్థాన అనుమతులు
     .style = { permissions-window2.style }
@@ -190,19 +149,11 @@ permissions-site-location-disable-label =
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
-    .style = { permissions-window.style }
-
 permissions-site-xr-window2 =
     .title = అమరికలు - వర్చువల్ రియాలిటీ అనుమతులు
     .style = { permissions-window2.style }
 
 ## Site Permissions - Camera
-
-permissions-site-camera-window =
-    .title = అమరికలు - కెమెరా అనుమతులు
-    .style = { permissions-window.style }
 
 permissions-site-camera-window2 =
     .title = అమరికలు - కెమెరా అనుమతులు
@@ -212,12 +163,13 @@ permissions-site-camera-disable-label =
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = అమరికలు - మైక్రోఫోన్ అనుమతులు
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = అమరికలు - మైక్రోఫోన్ అనుమతులు
     .style = { permissions-window2.style }
 permissions-site-microphone-disable-label =
     .label = మీ మైక్రోఫోనును వాడుటకై వచ్చే కొత్త అభ్యర్థనలను తిరస్కరించు
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

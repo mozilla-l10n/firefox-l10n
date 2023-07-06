@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = అథారిటీలు
 
-certmgr-edit-ca-cert =
-    .title = CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA ధృవీకరణపత్రం నమ్మిక అమరికలను సరిచేయి
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ఈ ధృవీకరణపత్రం మెయిల్ వాడుకరులను గుర్తించగలదు.
 
-certmgr-delete-cert =
-    .title = ధృవీకరణపత్రంను తొలగించు
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = ధృవీకరణపత్రంను తొలగించు
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = సేవిక
-
-certmgr-override-lifetime =
-    .label = జీవిత కాలం
 
 certmgr-token-name =
     .label = రక్షణ సాధనం

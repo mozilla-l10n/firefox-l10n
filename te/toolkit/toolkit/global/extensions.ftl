@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = రద్దుచేయి
     .accesskey = C
+
 webext-perms-sideload-text = మీ కంప్యూటర్లోని మరొక ప్రోగ్రామ్ మీ విహారిణిని ప్రభావితం చేసే పొడిగింత స్థాపించింది. దయచేసి ఈ పొడిగింత అనుమతుల అభ్యర్థనలను సమీక్షించి, ప్రారంభించండి లేదా రద్దు చేయండి (దీన్ని అచేతనపరచడానికి వదిలివేయండి).
 webext-perms-sideload-text-no-perms = మీ కంప్యూటర్లోని మరొక ప్రోగ్రామ్ మీ విహారిణిని ప్రభావితం చేసే పొడిగింతని స్థాపించింది. దయచేసి ఆ పొడిగింతను చేతనం చేయండి (లేదా పొడిగింత అచేతనమవటానికి విడిచిపెట్టండి).
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = రద్దుచేయి
     .accesskey = C
+
 webext-perms-update-accept =
     .label = తాజాకరించు
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = ఇది:
 webext-perms-optional-perms-allow =
     .label = అనుమతించు
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = తిరస్కరించు
     .accesskey = D
+
 webext-perms-host-description-all-urls = అన్ని వెబ్ సైట్లలో మీ డేటాను చూడటం
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } డొమైను సైట్లలో మీ డేటాను చూడటం
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -55,6 +61,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain }లో మీ డేటాను చూడటం
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

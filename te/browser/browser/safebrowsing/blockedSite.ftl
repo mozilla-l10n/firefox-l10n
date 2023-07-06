@@ -8,6 +8,27 @@ safeb-blocked-unwanted-page-title = రాబోయే ఆ సైటులో �
 safeb-blocked-harmful-page-title = వెళ్ళబోతున్న సైటులో మాల్‌వేరు ఉండొచ్చు
 safeb-palm-accept-label = వెనక్కి వెళ్ళు
 safeb-palm-see-details-label = వివరాలను చూడండి
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = ఇది ఒక మోసపూరిత సైట్ కాదు...
     .accesskey = d

@@ -152,3 +152,4 @@ browser-data-session-checkbox =
     .label = విండోలు, ట్యాబులు
 browser-data-session-label =
     .value = విండోలు, ట్యాబులు
+

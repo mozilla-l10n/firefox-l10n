@@ -36,9 +36,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } నిష్క్రమించు
+
 menu-about =
     .label = { -brand-shorter-name } గురించి
     .accesskey = A
@@ -215,8 +217,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = ఇష్టాంశాలు
     .accesskey = B
-menu-bookmark-edit =
-    .label = ఈ ఇష్టాంశాన్ని సరిదిద్దు
 menu-bookmarks-all-tabs =
     .label = ట్యాబులన్నింటినీ ఇష్టాంశాలుగా చేయి…
 menu-bookmarks-toolbar =
