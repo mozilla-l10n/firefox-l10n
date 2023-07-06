@@ -17,5 +17,9 @@ url-classifier-enabled = Enabled
 url-classifier-disabled = Disabled
 url-classifier-updating = updatin
 url-classifier-cannot-update = cannae update
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = update mishanter ({ $error })
 url-classifier-download-error = doonload mishanter ({ $error })

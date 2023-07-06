@@ -14,6 +14,7 @@ xpinstall-prompt-message = Yer ettlin at instawin an eik-on fae { $host }. Mak s
 
 xpinstall-prompt-header-unknown = Alloo an unkent site tae instaw an eik-on?
 xpinstall-prompt-message-unknown = Yer ettlin at instawin an eik-on fae an unkent site. Mak siccar ye trust this site afore gangin on.
+
 xpinstall-prompt-dont-allow =
     .label = Dinnae Alloo
     .accesskey = D
@@ -37,12 +38,14 @@ xpinstall-disabled = Saftware instawment is disabled the noo. Click Enable fur t
 xpinstall-disabled-button =
     .label = Enable
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) is blockit by yer system admeenistrator.
 addon-install-full-screen-blocked = Eik-on instawment isnae allooed while in or afore gangin intae hale-screen mode.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } eikit on tae { -brand-short-name }
@@ -60,6 +63,7 @@ addon-removal-title = Remuive { $name }?
 addon-removal-message = Remuive { $name } fae { -brand-shorter-name }?
 addon-removal-button = Remuive
 addon-removal-abuse-report-checkbox = Report this extension tae { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -68,6 +72,7 @@ addon-downloading-and-verifying =
        *[other] Doonloadin and verifyin { $addonCount } eik-ons…
     }
 addon-download-verifying = Verifyin
+
 addon-install-cancel-button =
     .label = Stap
     .accesskey = S

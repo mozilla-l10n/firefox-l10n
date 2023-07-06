@@ -9,10 +9,6 @@ failed-pp-change = No able tae chynge Primary Passwird.
 incorrect-pp = Ye didnae inpit the Primary Passwird that's richt jist noo. Gie it anither shot.
 pp-change-ok = Primary Passwird chynged wioot onie problems.
 
-pp-empty-warning = Your stored passwirds and private keys willnae be bieldit.
-pp-erased-ok = Ye've dichtit yer Primary Passwird. { pp-empty-warning }
-pp-not-wanted = Haud on! Ye've decidit no tae yaise a Primary Passwird. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = The noo, ye're in FIPS modes. FIPS needs a Primary Passwird that isnae tuim.
 pw-change-success-title = Passwird Chynge Wirked
 pw-change-failed-title = Passwird Chynge Didnae Wirk

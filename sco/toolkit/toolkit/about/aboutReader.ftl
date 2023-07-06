@@ -4,12 +4,14 @@
 
 about-reader-loading = Loadin…
 about-reader-load-error = Couldnae load airticle fae page
+
 about-reader-color-scheme-light = Licht
     .title = Colour Scheme Licht
 about-reader-color-scheme-dark = Daurk
     .title = Colour Scheme Daurk
 about-reader-color-scheme-sepia = Sepia
     .title = Colour Scheme Sepia
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

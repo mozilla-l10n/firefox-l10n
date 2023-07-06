@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Dinnae Quit
        *[other] Dinnae Ootgang
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Gin ye gang affline noo, 1 doonload will be cancelled. Are ye shair ye want tae gang affline?
        *[other] Gin ye gang affline noo, { $downloadsCount } doonloads will be cancelled. Are ye shair ye want tae gang affline?
     }
 download-ui-dont-go-offline-button = Stey Online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Gin ye sneck aw Private Stravaigin windaes noo, 1 doonload will be cancelled. Are ye shair ye want tae leave Private Stravaigin?
        *[other] Gin ye sneck aw Private Stravaigin windaes noo, { $downloadsCount } doonloads will be cancelled. Are ye shair ye want tae leave Private Stravaigin?
     }
 download-ui-dont-leave-private-browsing-button = Bide in Private Stravaigin
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Stap 1 Doonload

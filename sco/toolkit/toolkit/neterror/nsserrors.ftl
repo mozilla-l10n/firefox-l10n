@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = A mishanter tuik place durin a connection tae { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Mishanter code: { $error }
-
 psmerr-ssl-disabled = Cannae connect siccarly acause the SSL protocol has been disabled.
 psmerr-ssl2-disabled = Cannae connect siccarly acause the site yaises an aulder, unsiccar version o the SSL protocol.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Nae supportit TLS signature algorit
 ssl-error-unsupported-signature-algorithm = The peer yaised an unsupportit combination o signature and hash algorithm.
 ssl-error-missing-extended-master-secret = The peer ettlet at gangin on wioot a correct extendit_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer ettlet at gangin on wi an unexpectit extendit_master_secret extension.
+
 sec-error-io = An I/O mishanter tuik place durin siccarness authorization.
 sec-error-library-failure = siccarness leebrar failure.
 sec-error-bad-data = siccarness leebrar: received bad data.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Cannae decrypt: key encryption algorithm disna
 sec-error-pkcs7-bad-signature = Signature trystmakkin didnae wirk: nae signer fund, ower monie signers fund, or no proper or camshauchlet data.
 sec-error-unsupported-keyalg = Unsupportit or unkent key algorithm.
 sec-error-decryption-disallowed = Cannae decrypt: encryptit yaisin an algorithm or key size that isnae allooed.
-xp-sec-fortezza-bad-card = Fortezza caird hasnae been initialised richt. Please remuive it and gie it back tae yer issuer.
-xp-sec-fortezza-no-card = Nae Fortezza cairds Fund
-xp-sec-fortezza-none-selected = Nae Fortezza caird selectit
-xp-sec-fortezza-more-info = Gonnae wale a personality fur tae get mair info on it.
-xp-sec-fortezza-person-not-found = Personality no fund
-xp-sec-fortezza-no-more-info = Nae mair information on thon Personality
-xp-sec-fortezza-bad-pin = Pin No Suithfest
-xp-sec-fortezza-person-error = Couldnae initialise Fortezza personalities.
 sec-error-no-krl = Nae KRL has been fund fur this site’s certificate.
 sec-error-krl-expired = The KRL fur this site’s certificate has gaed oot o date.
 sec-error-krl-bad-signature = The KRL fur this site’s certificate has a signature that isnae suithfest.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = A certificate wi the same nicknemme awready 
 sec-error-key-nickname-collision = A key wi the same nicknemme awready exists.
 sec-error-safe-not-created = mishanter while creatin sauf objeck
 sec-error-baggage-not-created = mishanter while creatin baggage objeck
-xp-java-remove-principal-error = Couldnae remuive the principal
-xp-java-delete-privilege-error = Couldnae dicht the preevilege
-xp-java-cert-not-exists-error = This principal disnae hae a certificate
 sec-error-bad-export-algorithm = Algorithm needit isnae alloed
 sec-error-exporting-certificates = Mishanter while ettlin fur tae ootgie certificates.
 sec-error-importing-certificates = Mishanter while ettlin fur tae inbring certificates.
@@ -339,6 +320,7 @@ sec-error-locked-password = The passwird is lockit.
 sec-error-unknown-pkcs11-error = Unkent PKCS #11 mishanter.
 sec-error-bad-crl-dp-url = No suithfest or unsupportit URL in CRL distribution pynt nemme.
 sec-error-cert-signature-algorithm-disabled = The certificate wis signed yaisin a signature algorithm that is disabled acause it isnae siccar.
+
 mozilla-pkix-error-key-pinning-failure = The server yaises key pinnin (HPKP) but nae trustit certificate chain could be biggit that matches the pinset. Key pinnin violations cannae be owerridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server yaises a certificate wi a basic constraints extension identifyin it as a certificate authority. Fur a certificate that has been issued richt, this shouldnae be the case.
 mozilla-pkix-error-inadequate-key-size = The server presentit a certificate wi a key size that is ower wee fur tae estaiblish a siccar connection.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = The server presentit a certificate
 mozilla-pkix-error-empty-issuer-name = The server presentit a certificate wi a tuim issuer distinguished nemme.
 mozilla-pkix-error-additional-policy-constraint-failed = An addeetional policy constraint didnae wirk whan ettlin fur tae trystmak this certificate.
 mozilla-pkix-error-self-signed-cert = The certificate isnae trustit acause it is sel-signed.
+
+xp-java-remove-principal-error = Couldnae remuive the principal
+xp-java-delete-privilege-error = Couldnae dicht the preevilege
+xp-java-cert-not-exists-error = This principal disnae hae a certificate
+
+xp-sec-fortezza-bad-card = Fortezza caird hasnae been initialised richt. Please remuive it and gie it back tae yer issuer.
+xp-sec-fortezza-no-card = Nae Fortezza cairds Fund
+xp-sec-fortezza-none-selected = Nae Fortezza caird selectit
+xp-sec-fortezza-more-info = Gonnae wale a personality fur tae get mair info on it.
+xp-sec-fortezza-person-not-found = Personality no fund
+xp-sec-fortezza-no-more-info = Nae mair information on thon Personality
+xp-sec-fortezza-bad-pin = Pin No Suithfest
+xp-sec-fortezza-person-error = Couldnae initialise Fortezza personalities.

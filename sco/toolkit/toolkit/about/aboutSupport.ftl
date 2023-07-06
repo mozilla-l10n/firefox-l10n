@@ -157,6 +157,8 @@ media-capabilities-title = Media Capabilities
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerate database
 
+## Codec support table
+
 ##
 
 intl-title = Internationalization & Localization

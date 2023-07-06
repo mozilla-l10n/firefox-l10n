@@ -26,7 +26,6 @@ pocket-panel-saved-save-tags = Save
 pocket-panel-saved-saving-tags = Savin…
 pocket-panel-saved-suggested-tags = Suggestit Tags
 pocket-panel-saved-tags-saved = Tags Eikit On
-pocket-panel-signup-view-list = View List
 
 ## about:pocket-signup panel
 
@@ -42,7 +41,6 @@ pocket-panel-signup-tagline-story-two = View in { -pocket-brand-name } on onie d
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Ma List
 pocket-panel-home-welcome-back = Walcome Back
 pocket-panel-home-paragraph = Ye can yaise { -pocket-brand-name } tae stravaig and save wabpages, airticles, videos, and podcasts, or tae get back tae whit ye've been readin.
 pocket-panel-home-explore-popular-topics = Hae A Deek at Popular Topics

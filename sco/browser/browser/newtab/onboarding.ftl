@@ -19,6 +19,10 @@ onboarding-welcome-header = Walcome tae { -brand-short-name }
 onboarding-start-browsing-button-label = Stert Stravaigin
 onboarding-not-now-button-label = No jist noo
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Get stertit
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Smashin, ye've got { -brand-short-name }
@@ -31,34 +35,14 @@ return-to-amo-add-extension-label = Eik On the Extension
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Gettin stertit: screen { $current } o { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Fire sterts here
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Furnitur designer, Firefox fan
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Turn aff animations
@@ -67,65 +51,22 @@ mr1-onboarding-reduce-motion-button-label = Turn aff animations
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Keep { -brand-short-name } in yer Dock for easy ingang
-       *[other] Peen { -brand-short-name } tae yer taskbaur for easy ingang
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Keep in Dock
-       *[other] Peen tae taskbaur
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Get stertit
-
-mr1-onboarding-welcome-header = Walcome tae { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Mak { -brand-short-name } ma staunart stravaiger
-    .title = Sets { -brand-short-name } as staunart stravaiger and peens tae taskbaur
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Mak { -brand-short-name } ma staunart stravaiger
-mr1-onboarding-set-default-secondary-button-label = No jist noo
 mr1-onboarding-sign-in-button-label = Sign in
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Mak { -brand-short-name } yer staunart
-mr1-onboarding-default-subtitle = Pit speed, siccarness, and privacy on autopilot.
-mr1-onboarding-default-primary-button-label = Mak staunart wab-stravaiger
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = Bring it aw wi ye
-mr1-onboarding-import-subtitle = Inbring yer passwirds, <br/>buikmerks, and mair.
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Inbring fae { $previous }
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Inbring fae previous wab-stravaiger
-mr1-onboarding-import-secondary-button-label = No jist noo
-
-mr2-onboarding-colorway-secondary-button-label = No jist noo
-mr2-onboarding-colorway-label-soft = Saft
-
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Staunart
-
 mr1-onboarding-theme-header = Mak it yer ain
 mr1-onboarding-theme-subtitle = Personalise { -brand-short-name } wi a theme.
-mr1-onboarding-theme-primary-button-label = Save theme
 mr1-onboarding-theme-secondary-button-label = No jist noo
 
 # System theme uses operating system color settings
@@ -219,6 +160,8 @@ mr2-onboarding-start-browsing-button-label = Stert stravaigin
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -244,4 +187,11 @@ mr2-onboarding-start-browsing-button-label = Stert stravaigin
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

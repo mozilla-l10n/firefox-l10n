@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Buikmerk This Page
-    .accesskey = m
-    .tooltiptext = Buikmerk this page
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Buikmerk Page
-    .accesskey = m
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Edit Buikmerk
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Buikmerk This Page
-    .accesskey = m
-    .tooltiptext = Buikmerk this page ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Edit This Buikmerk
-    .accesskey = m
-    .tooltiptext = Edit this buikmerk
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Edit This Buikmerk
-    .accesskey = m
-    .tooltiptext = Edit this buikmerk ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Open Link
     .accesskey = O
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Open Link in New Private Windae
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = Buikmerk Link
-    .accesskey = B
 
 main-context-menu-save-link =
     .label = Save Link As…
@@ -320,14 +278,6 @@ main-context-menu-audio-email =
     .label = Email Soond…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activate this plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Hide this plugin
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = Save Page tae { -pocket-brand-name }
     .accesskey = k
@@ -386,10 +336,6 @@ main-context-menu-frame-reload =
     .label = Reload Frame
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = Buikmerk This Frame
-    .accesskey = m
-
 main-context-menu-frame-save-as =
     .label = Save Frame As…
     .accesskey = F
@@ -405,10 +351,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = View Frame Info
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = Prent Walin
-    .accesskey = r
 
 main-context-menu-view-selection-source =
     .label = View Walin Soorce

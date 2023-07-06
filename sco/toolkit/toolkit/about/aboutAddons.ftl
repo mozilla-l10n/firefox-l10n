@@ -8,10 +8,12 @@ search-header =
     .placeholder = Sairch addons.mozilla.org
     .searchbuttonlabel = Sairch
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Get extensions and themes on <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = Ye dinnae hae onie eik-ons o this type instawed
@@ -343,7 +345,6 @@ extension-enabled-heading = Enabled
 extension-disabled-heading = Disabled
 
 theme-enabled-heading = Enabled
-theme-disabled-heading = Disabled
 
 plugin-enabled-heading = Enabled
 plugin-disabled-heading = Disabled
@@ -410,6 +411,9 @@ addon-detail-private-browsing-help = When allooed, the extension will hae ingang
 addon-detail-private-browsing-allow = Alloo
 addon-detail-private-browsing-disallow = Dinnae Alloo
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -466,6 +470,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

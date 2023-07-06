@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Stap
     .accesskey = C
+
 webext-perms-sideload-text = Anither program on yer computer instawed an eik-on that micht affect yer stravaiger. Gonnae hae a glisk at this eik-on's permeesions requests and chuise tae Enable or Stap (tae lea it disabled).
 webext-perms-sideload-text-no-perms = Anither program on yer computer instawed an eik-on that micht affect yer stravaiger. Gonnae chuise tae Enable or Stap (tae lea it disabled).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Stap
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } has been updatit. Ye maun approve new permeesions afore the updatit version will instaw. Chuisin "Stap" will mainteen yer current extension version. This extension will hae permeesion tae:
 webext-perms-update-accept =
     .label = Update
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = It wants tae:
 webext-perms-optional-perms-allow =
     .label = Alloo
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Dinnae alloo
     .accesskey = D
+
 webext-perms-host-description-all-urls = Gang intae yer data fur aw wabsites
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Gang intae yer data fur sites in the { $domain } domain
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Gang intae yer data fur { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

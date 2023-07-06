@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Ye're in FIPS mode jist noo. FIPS needs a 
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Reset Primary Passwird
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Reset Primary Passwird
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Reset Primary Passwird
 pippki-reset-password-confirmation-message = Yer Primary Passwird has been reset.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Doonloadin Certificate
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Doonloadin Certificate
@@ -82,7 +74,5 @@ set-password-reminder = Important: If you forget yer certificate backup passwird
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Bieldit Token Uphaudin
-protected-auth-msg = Gonnae uphaud tae the token. Uphaudin method depends on the type o yer token.
-protected-auth-token = Token:
+## Protected authentication alert
+

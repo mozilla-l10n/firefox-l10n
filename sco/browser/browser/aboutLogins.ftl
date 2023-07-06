@@ -7,11 +7,6 @@ about-logins-page-title = Logins & Passwirds
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Sairch Logins
-
-create-login-button = Mak New Login
-
 fxaccounts-sign-in-text = Get yer passwirds on yer ither devices
 fxaccounts-sign-in-sync-button = Sign in tae sync
 fxaccounts-avatar-button =
@@ -100,9 +95,10 @@ login-item-copied-password-button-text = Copied!
 login-item-save-changes-button = Save Chynges
 login-item-save-new-button = Save
 login-item-cancel-button = Stap
-login-item-time-changed = Last chynged: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Makkit: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Last yaised: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -157,6 +153,9 @@ about-logins-confirm-remove-dialog-title = Remuive this login?
 confirm-delete-dialog-message = This action cannae be unduin.
 about-logins-confirm-remove-dialog-confirm-button = Remuive
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Remuive
@@ -195,6 +194,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] This will remuive aw logins ye've saved tae { -brand-short-name } on aw devices synced tae yer { -fxaccount-brand-name }. Forby, this will remuive breach alerts that kythe here. Ye'll no be able tae undae this action.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Ootgie logins and passwirds
 about-logins-confirm-export-dialog-message = Yer passwirds will be saved as readable text (e.g., BadP@ssw1rd) sae that oniebodie whae can open the exportit file can see them.
 about-logins-confirm-export-dialog-confirm-button = Ootgie…
@@ -214,7 +215,6 @@ about-logins-breach-alert-date = This breach tuik place on { DATETIME($date, day
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Gang tae { $hostname }
-about-logins-breach-alert-learn-more-link = Lairn mair
 
 ## Vulnerable Password notification
 

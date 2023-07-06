@@ -236,17 +236,10 @@ newtab-pocket-cta-button = Get { -pocket-brand-name }
 newtab-pocket-cta-text = Save the stories ye're intae wi { -pocket-brand-name }, and nourish yer mind wi some wunnerfu reads.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } is pairt o the { -brand-product-name } faimily
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Save tae { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Saved tae { -pocket-brand-name }
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Ye're aw caught up!
-newtab-pocket-last-card-desc = Check back efter for mair.
-newtab-pocket-last-card-image =
-    .alt = Ye're aw caught up
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

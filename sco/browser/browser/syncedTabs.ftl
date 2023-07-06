@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Open
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Open in a New Tab
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Open in a New Windae
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Open in a New Private Windae
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Buikmerk This Tab…
-    .accesskey = B
 
 ##
 

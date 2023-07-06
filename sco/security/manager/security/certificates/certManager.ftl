@@ -26,10 +26,6 @@ certmgr-people = Ye hae certificates on file that identify these fowk
 certmgr-server = These inpits identify server certificate mishanter exceptions
 certmgr-ca = Ye hae certificates on file that identify these certificate authorities
 
-certmgr-edit-ca-cert =
-    .title = Chynge CA certificate trust settins
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Chynge CA certificate trust settins
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = This certificate can identify mail yaisers.
-
-certmgr-delete-cert =
-    .title = Dicht Certificate
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Dicht Certificate
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Lifetime
 
 certmgr-token-name =
     .label = Siccarness Device

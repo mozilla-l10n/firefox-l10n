@@ -53,3 +53,4 @@ screenshots-private-window-error-details = Sorry aboot aw the faff. We're wirkin
 
 screenshots-generic-error-title = Help ma boab! { -screenshots-brand-name } jist went radge!
 screenshots-generic-error-details = We're no shair whit jist happened. Want tae try again or tak a shot o anither page?
+

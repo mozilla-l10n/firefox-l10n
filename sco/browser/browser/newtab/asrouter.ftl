@@ -117,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = Disable
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Yer privacy maitters. { -brand-short-name } noo sets asinder, or saundboxes, wabsites fae each ither, makkin it haurder fur hackers tae pauchle passwirds, credit caird nummers, and ither sensitive information.
-cfr-doorhanger-fission-header = Site Isolatin
-cfr-doorhanger-fission-primary-button = Awricht, Got ye
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Lairn mair
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videos on this site micht no wirk richt on this version o { -brand-short-name }. Fur full video support, update { -brand-short-name } noo.
@@ -132,9 +125,6 @@ cfr-doorhanger-video-support-primary-button = Update Noo
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-expanded = Lairn mair
-    .title = Sneck
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -151,8 +141,6 @@ spotlight-public-wifi-vpn-link = No Jist Noo
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-spotlight-total-cookie-protection-secondary-button = No jist noo
 
 ## Emotive Continuous Onboarding
 
@@ -172,4 +160,16 @@ spotlight-total-cookie-protection-secondary-button = No jist noo
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 
