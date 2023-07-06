@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Aperir le menu pro { $extensionName }
-
 unified-extensions-item-message-manage = Gerer extension
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Appunctar al barra de instrumentos
-
 unified-extensions-context-menu-manage-extension =
     .label = Gerer extension
-
 unified-extensions-context-menu-remove-extension =
     .label = Remover extension
-
 unified-extensions-context-menu-report-extension =
     .label = Signalar extension
-
 unified-extensions-context-menu-move-widget-up =
     .label = Mover in alto
-
 unified-extensions-context-menu-move-widget-down =
     .label = Mover in basso
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Alcun extensiones non es permittite
 unified-extensions-mb-quarantined-domain-message = Solo alcun extensiones surveliate per { -vendor-short-name } es permittite in iste sito pro proteger tu datos.
+unified-extensions-mb-quarantined-domain-message-2 = Pro proteger tu datos, alcun extensiones non pote leger o cambiar datos in iste sito. Usar le parametros de extension pro permitter los sur sitos limitate per { -vendor-short-name }.
