@@ -10,15 +10,19 @@
 
 # The heading
 options-select-default-tools-label = Predvolené vývojárske nástroje
+
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * nie je podporované pre aktuálny cieľ súpravy nástrojov
+
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Vývojárske nástroje nainštalované doplnkami
+
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Dostupné tlačidlá súpravy nástrojov
+
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Témy vzhľadu
 
@@ -26,18 +30,22 @@ options-select-dev-tools-theme-label = Témy vzhľadu
 
 # The heading
 options-context-inspector = Prieskumník
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Zobraziť štýly prehliadača
 options-show-user-agent-styles-tooltip =
     .title = Povolením tejto možnosti zobrazíte predvolené štýly, ktoré sú načítavané prehliadačom
+
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = Skrátené DOM atribúty
 options-collapse-attrs-tooltip =
     .title = Skrátené dlhé atribúty v prieskumníkovi
+
 # The label for the checkbox option to enable the "drag to update" feature
 options-inspector-draggable-properties-label = Kliknutím a potiahnutím upravíte hodnoty veľkosti
 options-inspector-draggable-properties-tooltip =
     .title = Kliknutím a potiahnutím upravíte hodnoty veľkosti v zobrazení pravidiel inšpektora.
+
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Použiť jednoduchšie zvýrazňovače, ak je použitá vlastnosť 'prefers-reduced-motion'
@@ -58,6 +66,7 @@ options-default-color-unit-name = Názov farby
 
 # The heading
 options-styleeditor-label = Editor štýlov
+
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Automatické dokončovanie CSS
 options-stylesheet-autocompletion-tooltip =
@@ -67,10 +76,12 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Snímky obrazovky
+
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-only-label = Uložiť snímku obrazovky iba do schránky
 options-screenshot-clipboard-tooltip2 =
     .title = Uloží snímku obrazovky priamo do schránky
+
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Prehrať zvuk spúšte fotoaparátu
 options-screenshot-audio-tooltip =
@@ -80,6 +91,7 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = Nastavenia editora
+
 options-sourceeditor-detectindentation-tooltip =
     .title = Odhadnúť odsadenie na základe obsahu zdroja
 options-sourceeditor-detectindentation-label = Zisťovať odsadenie
@@ -97,37 +109,46 @@ options-sourceeditor-keybinding-default-label = Predvolené
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Rozšírené nastavenia
+
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = Zakázať vyrovnávaciu pamäť HTTP (ak sú otvorené vývojárske nástroje)
 options-disable-http-cache-tooltip =
     .title = Zapnutím tejto voľby bude vyrovnávacia pamäť HTTP vypnutá pre všetky karty, ktoré majú otvorené nástroje. Skripty typu worker nebudú touto voľbou ovplyvnené.
+
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Zakázať JavaScript *
 options-disable-javascript-tooltip =
     .title = Označením tejto voľby zakážete používanie JavaScriptu na aktuálnej karte. Po zatvorení karty alebo ukončení vývojárskych nástrojov bude táto voľba automaticky prepnutá späť
+
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Povoliť nástroje ladenia chrome prehliadača a doplnkov
 options-enable-chrome-tooltip =
     .title = Zapnutie tejto voľby vám umožní ladiť doplnky z okna Správcu doplnkov a používať rôzne vývojárske nástroje aj pre kontext prehliadača (Nástroje > Webový vývojár > Súprava nástrojov prehliadača)
+
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Povoliť vzdialené ladenie
 options-enable-remote-tooltip2 =
     .title = Zapnutím tejto možnosti umožníte ladenie tejto inštancie prehliadača na diaľku
+
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = Na otvorenie alebo zatvorenie Vývojárskych nástrojov používať kláves F12
 options-enable-f12-tooltip =
     .title = Zapnutím tejto možnosti sa nastaví kláves F12 na otvorenie alebo zatvorenie panela Vývojárskych nástrojov
+
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Povoliť vlastné formátovače
 options-enable-custom-formatters-tooltip =
     .title = Zapnutie tejto možnosti umožní webovým stránkam definovať vlastné formátovače pre objekty DOM
+
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Povoliť skripty typu worker cez HTTP (ak je súprava nástrojov otvorená)
 options-enable-service-workers-http-tooltip =
     .title = Zapnutie tejto voľby povolí skripty typu worker cez HTTP pre všetky karty, ktoré majú otvorené vývojárske nástroje
+
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Povoliť zdrojové mapy
 options-source-maps-tooltip =
     .title = Ak túto voľbu zapnete, zdroje budú mapované v nástrojoch.
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Len pre aktuálnu reláciu, opäť načíta obsah stránky

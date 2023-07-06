@@ -50,5 +50,9 @@ url-classifier-disabled = Zakázané
 url-classifier-updating = aktualizuje sa
 url-classifier-cannot-update = aktualizácia nie je možná
 url-classifier-success = úspech
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = chyba pri aktualizácii ({ $error })
 url-classifier-download-error = chyba pri sťahovaní ({ $error })

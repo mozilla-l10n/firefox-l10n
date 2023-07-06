@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Nezávislé hlasy
-colorway-collection-independent-voices-description = Farba môže zmeniť kultúru. Najnovšie farebné témy oslavujú hlasy, vďaka ktorým je svet lepším miestom.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Farby, ktoré menia kultúru.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Tvorca hry

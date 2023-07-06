@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Preložiť túto stránku
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Stránka preložená z jazyka { $fromLanguage } do jazyka { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Práve prebieha preklad
+
 translations-panel-settings-button =
     .aria-label = Spravovať nastavenia prekladu
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Spravovať jazyky
 translations-panel-settings-about = O prekladoch vo { -brand-shorter-name(case: "loc") }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Vždy prekladať z jazyka { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Vždy prekladať z tohto jazyka
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Nikdy neprekladať z jazyka { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nikdy neprekladať z tohto jazyka
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nikdy neprekladať túto stránku
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Čakajte, prosím…
 translations-panel-translate-cancel =
     .label = Zrušiť
+
 translations-panel-error-translating = Pri preklade sa vyskytol problém. Prosím skúste znova.
 translations-panel-error-load-languages = Nepodarilo sa načítať jazyky
 translations-panel-error-load-languages-hint = Skontrolujte svoje internetové pripojenie a skúste to znova.
 translations-panel-error-load-languages-hint-button =
     .label = Skúsiť znova
+
 translations-panel-error-unsupported = Preklad pre túto stránku nie je k dispozícii
 translations-panel-error-dismiss-button =
     .label = Rozumiem
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Pri sťahovaní jazykových súborov sa vyskytol problém. Prosím skúste znova.
 translations-manage-error-delete = Pri odstraňovaní jazykových súborov sa vyskytla chyba. Prosím skúste znova.
 translations-manage-error-list = Nepodarilo sa získať zoznam dostupných jazykov na preklad. Obnovte stránku a skúste to znova.
+
 translations-settings-title =
     .title = Nastavenia prekladov
     .style = min-width: 36em

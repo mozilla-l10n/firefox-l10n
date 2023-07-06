@@ -4,15 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Nesprávny PIN! Zadajte správny kód PIN pre svoje zariadenie.
-        [one] Nesprávny PIN! Zadajte správny kód PIN pre svoje zariadenie. Zostáva vám { $retriesLeft } pokus.
-        [few] Nesprávny PIN! Zadajte správny kód PIN pre svoje zariadenie. Zostávajú vám { $retriesLeft } pokusy.
-       *[other] Nesprávny PIN! Zadajte správny kód PIN pre svoje zariadenie. Zostáva vám { $retriesLeft } pokusov.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Nesprávny PIN. Zostáva vám { $retriesLeft } pokus, kým natrvalo stratíte prístup k prihlasovacím údajom v tomto zariadení.
@@ -22,6 +13,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Nesprávny PIN. Skúste to znova.
 webauthn-pin-required-prompt = Zadajte kód PIN pre svoje zariadenie.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

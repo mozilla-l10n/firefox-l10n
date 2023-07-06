@@ -38,9 +38,11 @@ menu-quit =
             [windows] U
            *[other] U
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončiť { -brand-shorter-name }
+
 menu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
@@ -221,8 +223,6 @@ menu-history-undo-menu =
     .label = Nedávno zatvorené karty
 menu-history-undo-window-menu =
     .label = Nedávno zatvorené okná
-menu-history-reopen-all-tabs = Obnoviť všetky karty
-menu-history-reopen-all-windows = Obnoviť všetky okná
 
 ## Bookmarks Menu
 
@@ -231,10 +231,6 @@ menu-bookmarks-menu =
     .accesskey = o
 menu-bookmarks-manage =
     .label = Spravovať záložky
-menu-bookmark-current-tab =
-    .label = Pridať túto kartu medzi záložky
-menu-bookmark-edit =
-    .label = Upraviť túto záložku
 menu-bookmark-tab =
     .label = Pridať túto kartu medzi záložky
 menu-edit-bookmark =

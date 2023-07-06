@@ -36,6 +36,17 @@
 -translations-brand-name = Firefox Translations
 -focus-brand-name = Firefox Focus
 
+-relay-brand-name =
+    { $case ->
+       *[nom] Firefox Relay
+        [gen] Firefoxu Relay
+        [dat] Firefoxu Relay
+        [acc] Firefox Relay
+        [loc] Firefoxe Relay
+        [ins] Firefoxom Relay
+    }
+-relay-brand-short-name = Relay
+
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Návrhy Firefoxu
@@ -64,13 +75,3 @@
         [ins] Prehľadom Firefoxu
     }
 
--relay-brand-name =
-    { $case ->
-       *[nom] Firefox Relay
-        [gen] Firefoxu Relay
-        [dat] Firefoxu Relay
-        [acc] Firefox Relay
-        [loc] Firefoxe Relay
-        [ins] Firefoxom Relay
-    }
--relay-brand-short-name = Relay

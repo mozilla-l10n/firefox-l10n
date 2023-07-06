@@ -8,39 +8,38 @@ password-quality-meter = Ukazovateľ kvality hesla:
 
 change-device-password-window =
     .title = Zmena hesla
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Bezpečnostné zariadenie: { $tokenName }
 change-password-old = Aktuálne heslo:
 change-password-new = Nové heslo:
 change-password-reenter = Nové heslo (znova):
+
 pippki-failed-pw-change = Nie je možné zmeniť heslo.
 pippki-incorrect-pw = Aktuálne heslo nebolo zadané správne. Skúste to znova.
 pippki-pw-change-ok = Heslo bolo úspešne zmenené.
+
 pippki-pw-empty-warning = Uložené heslá a súkromné kľúče nebudú chránené.
 pippki-pw-erased-ok = Odstránili ste svoje heslo. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Upozornenie! Rozhodli ste sa nepoužívať heslo. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = Momentálne používate režim FIPS. Tento režim vyžaduje nastavenie hesla.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Obnovenie hlavného hesla
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Obnovenie hlavného hesla
     .style = min-width: 40em
 reset-password-button-label =
     .label = Obnoviť
 reset-primary-password-text = Ak obnovíte svoje hlavné heslo, všetky uložené heslá, údaje formulárov, osobné certifikáty a súkromné kľúče budú vymazané. Naozaj chcete obnoviť svoje hlavné heslo?
+
 pippki-reset-password-confirmation-title = Obnovenie hlavného hesla
 pippki-reset-password-confirmation-message = Vaše hlavné heslo bolo obnovené.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Sťahuje sa certifikát
-    .style = width: 46em
 download-cert-window2 =
     .title = Sťahuje sa certifikát
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Dôležité: ak zabudnete heslo pre zálohu certifikátov, nebude možné neskôr obnoviť túto zálohu. Uložte toto heslo na bezpečné miesto.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Overenie chráneného tokenu
-protected-auth-msg = Overte token. Spôsob overenia závisí od typu tokenu.
-protected-auth-token = Token:
 
 ## Protected authentication alert
 

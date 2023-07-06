@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Nová karta
 tabbrowser-empty-private-tab-title = Nová súkromná karta
+
 tabbrowser-menuitem-close-tab =
     .label = Zavrieť kartu
 tabbrowser-menuitem-close =
     .label = Zavrieť
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -135,6 +138,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Nabudúce toto okno nezobrazovať
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Povoliť podobné oznámenia z domény { $domain }, aby vás presmerovali na ich kartu
+
 tabbrowser-customizemode-tab-title = Prispôsobenie { -brand-short-name(case: "gen") }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -153,6 +157,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Zapnúť zvuk na kartách
     .accesskey = u
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Prehráva zvuk
 

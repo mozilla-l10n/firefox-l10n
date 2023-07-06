@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Odporúčaná funkcia
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
+
 cfr-doorhanger-extension-cancel-button = Teraz nie
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Pridať
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Nastavenia odporúčania
     .accesskey = d
+
 cfr-doorhanger-extension-never-show-recommendation = Toto odporúčanie už nezobrazovať
     .accesskey = n
+
 cfr-doorhanger-extension-learn-more-link = Ďalšie informácie
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od vývojára { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Odporúčanie
 cfr-doorhanger-extension-notification2 = Odporúčanie
     .tooltiptext = Odporúčanie rozšírenia
     .a11y-announcement = K dispozícii je odporúčané rozšírenie
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Odporúčanie
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Ďalšie informácie
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nová funkcia:
+
 cfr-whatsnew-button =
     .label = Čo je nové
     .tooltiptext = Čo je nové
+
 cfr-whatsnew-release-notes-link-text = Prečítajte si poznámky k vydaniu
 
 ## Enhanced Tracking Protection Milestones
@@ -111,13 +121,6 @@ cfr-doorhanger-doh-secondary-button = Zakázať
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Na vašom súkromí záleží. Prehliadač { -brand-short-name } teraz izoluje webové stránky navzájom, čo hackerom sťažuje odcudzenie hesiel, čísiel kreditných kariet a ďalších citlivých informácií.
-cfr-doorhanger-fission-header = Izolácia stránok
-cfr-doorhanger-fission-primary-button = OK, rozumiem
-    .accesskey = r
-cfr-doorhanger-fission-secondary-button = Ďalšie informácie
-    .accesskey = a
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videá na tejto stránke sa v tejto verzii { -brand-short-name(case: "gen") } nemusia prehrávať správne. Ak chcete získať úplnú podporu videa, aktualizujte prehliadač { -brand-short-name } na novšiu verziu.
@@ -126,11 +129,6 @@ cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
     .accesskey = A
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Ďalšie informácie
-    .title = Rozbalením zobrazíte ďalšie informácie o tejto funkcii
-spotlight-learn-more-expanded = Ďalšie informácie
-    .title = Zavrieť
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -147,18 +145,6 @@ spotlight-public-wifi-vpn-link = Teraz nie
     .accesskey = T
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Otestujte našu doteraz
-    najvýkonnejšiu ochranu súkromia
-spotlight-total-cookie-protection-body = Úplná ochrana súborov cookie bráni sledovačom používať súbory cookie na sledovanie webu.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } vytvára virtuálny plot okolo súborov cookie a obmedzuje ich na stránku, na ktorej sa nachádzate, takže sledovači ich nemôžu použiť na to, aby vás sledovali. Vďaka testovaciemu programu nám pomôžete optimalizovať túto funkciu, aby sme mohli naďalej vytvárať lepší web pre všetkých.
-spotlight-total-cookie-protection-primary-button = Zapnúť Úplnú ochranu súborov cookie
-spotlight-total-cookie-protection-secondary-button = Teraz nie
 
 ## Emotive Continuous Onboarding
 
@@ -188,11 +174,13 @@ spotlight-pin-secondary-button = Teraz nie
 
 mr2022-background-update-toast-title = Nový { -brand-short-name }. Ešte viac zameraný na súkromie. Menej sledovacích prvkov. Žiadne kompromisy.
 mr2022-background-update-toast-text = Vyskúšajte najnovší { -brand-short-name(case: "acc") }, inovovaný s našou doteraz najsilnejšou ochranou proti sledovaniu.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Spustiť { -brand-shorter-name(case: "acc") }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -211,6 +199,7 @@ firefoxview-cfr-body-v2 = Získajte späť nedávno zatvorené karty a navyše p
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Pozdravte { -firefoxview-brand-name(case: "acc") }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Chcete získať kartu otvorenú vo vašom telefóne? Vezmite si ju. Potrebujete opäť stránku, ktorú ste práve navštívili? Uf, sú späť vďaka funkcii { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Pozrite sa, ako to funguje
@@ -220,6 +209,7 @@ firefoxview-spotlight-promo-secondarybutton = Preskočiť
 
 colorways-cfr-primarybutton = Zvoľte si farebnú tému
     .accesskey = Z
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Vyfarbite svoj prehliadač { -brand-short-name } exkluzívne odtieňmi inšpirovanými hlasmi, ktoré zmenili kultúru.
 colorways-cfr-header-28days = Farebná téma Nezávislé hlasy je dostupná už len do 16. januára
@@ -242,6 +232,7 @@ july-jam-headline = Kryjeme vás
 july-jam-body = Každý mesiac { -brand-short-name } zablokuje v priemere viac ako 3 000 sledovacích prvkov na používateľa, čo vám poskytuje bezpečný a rýchly prístup k dobrému internetu.
 july-jam-set-default-primary = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
 fox-doodle-pin-headline = Vitajte späť
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Tu je rýchle pripomenutie, že svoj obľúbený nezávislý prehliadač si môžete ponechať jediným kliknutím.

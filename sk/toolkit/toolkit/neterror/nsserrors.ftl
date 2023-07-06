@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Pri pripájaní k { $hostname } sa vyskytla chyba. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kód chyby: { $error }
-
 psmerr-ssl-disabled = Nie je možné bezpečne sa pripojiť, pretože protokol SSL je zakázaný.
 psmerr-ssl2-disabled = Nie je možné bezpečne sa pripojiť, pretože server používa staršiu a nie veľmi bezpečnú verziu protokolu SSL.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Nebol nakonfigurovaný žiadny podp
 ssl-error-unsupported-signature-algorithm = Partner používa nepodporovanú kombináciu podpisu a hashovacieho algoritmu.
 ssl-error-missing-extended-master-secret = Partner sa snažil pokračovať bez správneho rozšírenia extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Partner sa snažil pokračovať s neočakávaným rozšírením extended_master_secret.
+
 sec-error-io = Počas bezpečnostného overenia došlo k chybe vstupu a výstupu.
 sec-error-library-failure = chyba bezpečnostnej knižnice.
 sec-error-bad-data = bezpečnostná knižnica: prijaté nesprávne údaje.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Nie je možné dešifrovať: algoritmus šifro
 sec-error-pkcs7-bad-signature = Overenie podpisu sa nepodarilo: nenašiel sa podpisujúci, našlo sa príliš veľa podpisujúcich, údaje sú nesprávne alebo poškodené.
 sec-error-unsupported-keyalg = Nepodporovaný alebo neznámy algoritmus kľúča.
 sec-error-decryption-disallowed = Nie je možné dešifrovať: zašifrované pomocou nepovoleného algoritmu alebo nepovolenej veľkosti kľúča.
-xp-sec-fortezza-bad-card = Karta Fortezza nebola správne inicializovaná. Vyberte ju a vráťte jej vydavateľovi.
-xp-sec-fortezza-no-card = Nenašla sa žiadna karta Fortezza
-xp-sec-fortezza-none-selected = Nie je vybraná žiadna karta Fortezza
-xp-sec-fortezza-more-info = Vyberte osobu, o ktorej chcete zistiť ďalšie informácie
-xp-sec-fortezza-person-not-found = Osoba sa nenašla
-xp-sec-fortezza-no-more-info = Nie sú žiadne informácie o tejto osobe
-xp-sec-fortezza-bad-pin = Neplatný kód PIN
-xp-sec-fortezza-person-error = Nie je možné inicializovať osoby Fortezza.
 sec-error-no-krl = Pre certifikát tejto stránky sa nenašlo žiadne KRL.
 sec-error-krl-expired = Uplynula platnosť KRL pre certifikát tejto stránky.
 sec-error-krl-bad-signature = KRL pre certifikát tejto stránky obsahuje neplatný podpis.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Certifikát s rovnakým názvom už existuje
 sec-error-key-nickname-collision = Kľúč s rovnakým názvom už existuje.
 sec-error-safe-not-created = chyba počas vytvárania bezpečného objektu
 sec-error-baggage-not-created = chyba počas vytvárania objektu zariadenia
-xp-java-remove-principal-error = Nie je možné odstrániť predstaviteľa
-xp-java-delete-privilege-error = Nie je možné odstrániť právo
-xp-java-cert-not-exists-error = Tento predstaviteľ nemá certifikát
 sec-error-bad-export-algorithm = Požadovaný algoritmus nie je povolený.
 sec-error-exporting-certificates = Chyba počas pokusu o export certifikátov.
 sec-error-importing-certificates = Chyba počas pokusu o import certifikátov.
@@ -339,6 +320,7 @@ sec-error-locked-password = Heslo je zamknuté.
 sec-error-unknown-pkcs11-error = Neznáma chyba PKCS #11.
 sec-error-bad-crl-dp-url = Neplatná alebo nepodporovaná adresa URL v názve lokality distribúcie CRL.
 sec-error-cert-signature-algorithm-disabled = Certifikát bol podpísaný použitím podpisového algoritmu, ktorý je zakázaný, pretože nie je bezpečný.
+
 mozilla-pkix-error-key-pinning-failure = Server používa key pinning (HPKP), ale nebola zložená vhodná reťaz dôveryhodných certifikátov, ktoré sa zhodujú s daným pinsetom. Porušenia key pinning nie je možné ignorovať.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server používa certifikát s rozšírením základných vymedzení, ktoré ho identifikujú ako certifikačnú autoritu. Toto by sa nemalo stať pre korektne vydaný certifikát.
 mozilla-pkix-error-inadequate-key-size = Server poskytol certifikát s veľkosťou kľúča, ktorá je príliš malá na zostavenie bezpečného spojenia.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Server predložil certifikát, kto
 mozilla-pkix-error-empty-issuer-name = Server poskytol certifikát s prázdnym názvom vydavateľa.
 mozilla-pkix-error-additional-policy-constraint-failed = Pri overovaní tohto certifikátu nebolo splnené dodatočné obmedzujúce pravidlo.
 mozilla-pkix-error-self-signed-cert = Certifikát nie je dôveryhodný, pretože je podpísaný vlastným podpisom.
+
+xp-java-remove-principal-error = Nie je možné odstrániť predstaviteľa
+xp-java-delete-privilege-error = Nie je možné odstrániť právo
+xp-java-cert-not-exists-error = Tento predstaviteľ nemá certifikát
+
+xp-sec-fortezza-bad-card = Karta Fortezza nebola správne inicializovaná. Vyberte ju a vráťte jej vydavateľovi.
+xp-sec-fortezza-no-card = Nenašla sa žiadna karta Fortezza
+xp-sec-fortezza-none-selected = Nie je vybraná žiadna karta Fortezza
+xp-sec-fortezza-more-info = Vyberte osobu, o ktorej chcete zistiť ďalšie informácie
+xp-sec-fortezza-person-not-found = Osoba sa nenašla
+xp-sec-fortezza-no-more-info = Nie sú žiadne informácie o tejto osobe
+xp-sec-fortezza-bad-pin = Neplatný kód PIN
+xp-sec-fortezza-person-error = Nie je možné inicializovať osoby Fortezza.
