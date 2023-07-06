@@ -38,9 +38,11 @@ compatibility-issue-occurrences =
     { $number ->
        *[other] 遇到 { $number } 个
     }
+
 compatibility-no-issues-found = 未发现兼容性问题。
 compatibility-close-settings-button =
     .title = 关闭设置
+
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

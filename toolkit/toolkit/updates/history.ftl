@@ -23,5 +23,7 @@ state-header = 状态
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = 详细信息
+
 update-installed-on = 安装时间： { $date }
+
 update-status = 状态： { $status }

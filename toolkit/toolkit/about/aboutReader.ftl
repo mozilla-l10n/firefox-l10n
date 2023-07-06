@@ -4,6 +4,7 @@
 
 about-reader-loading = 正在加载…
 about-reader-load-error = 从页面加载文章失败
+
 about-reader-color-scheme-light = 浅色
     .title = 浅色模式
 about-reader-color-scheme-dark = 深色
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = 纸墨
     .title = 纸墨模式
 about-reader-color-scheme-auto = 自动
     .title = 自动颜色模式
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

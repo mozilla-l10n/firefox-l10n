@@ -8,39 +8,38 @@ password-quality-meter = 密码强度
 
 change-device-password-window =
     .title = 更改密码
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 安全设备: { $tokenName }
 change-password-old = 当前密码:
 change-password-new = 新密码:
 change-password-reenter = 新密码(重复):
+
 pippki-failed-pw-change = 无法更改密码。
 pippki-incorrect-pw = 您未输入正确的主密码，请重试。
 pippki-pw-change-ok = 密码更改成功。
+
 pippki-pw-empty-warning = 您存储的密码和私钥将不再受保护。
 pippki-pw-erased-ok = 警告！您已经删除了您的主密码。 { pippki-pw-empty-warning }
 pippki-pw-not-wanted = 警告！您决定了不使用主密码。{ pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = 您正处于 FIPS 模式。该模式需要一个非空的主密码。
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = 重置主密码
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = 重置主密码
     .style = min-width: 40em
 reset-password-button-label =
     .label = 重置
 reset-primary-password-text = 如果您重置您的主密码，您存储的所有网站和电子邮箱密码、表单数据、个人证书以及私钥，都将被丢弃。您确实要重置主密码吗？
+
 pippki-reset-password-confirmation-title = 重置主密码
 pippki-reset-password-confirmation-message = 您的主密码已重置。
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = 下载证书
-    .style = width: 46em
 download-cert-window2 =
     .title = 下载证书
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = 重要：如果您忘记了您的证书备份密码，您此后将无法恢复此备份。请将它记在一个安全的地方。
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = 受保护的令牌身份验证
-protected-auth-msg = 请验证该令牌。认证方式取决于您的令牌的类型。
-protected-auth-token = 令牌：
 
 ## Protected authentication alert
 

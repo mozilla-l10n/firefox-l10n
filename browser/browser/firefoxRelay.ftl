@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = 您须登录 { -fxaccount-brand-name }才能�
 firefox-relay-get-unlimited-masks =
     .label = 管理马甲
     .accesskey = M
-firefox-relay-opt-in-title = 保护您的邮箱地址
-firefox-relay-opt-in-subtitle = 添加{ -relay-brand-name }
-firefox-relay-generate-mask-title = 保护您的邮箱地址
-firefox-relay-generate-mask-subtitle = 生成 { -relay-brand-short-name } 马甲
-firefox-relay-opt-in-confirmation-enable =
-    .label = 继续
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = 保护您的邮箱地址：
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

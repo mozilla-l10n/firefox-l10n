@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Mozest
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Wen Shaohua, Jin Jian, Rongjun Mu, Xie Yanbo, Cathayan, YFdyh000, xcffl, Shen Hao, Liu Xing
