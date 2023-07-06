@@ -61,9 +61,6 @@ import-items-description = Seleccione qué elementos quiere importar:
 
 import-permissions-page-title = Da-le permisos a { -brand-short-name }
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS requiere explicitament que le des permisos a { -brand-short-name } pa acceder a los marcapachinas de Safari. Fe clic en “Continar” y tría lo fichero “Bookmarks.plist” en o panel d'apertura de fichers que i amaneixerá.
-
 import-migrating-page-title = Se ye importando…
 
 import-migrating-description = Os siguients elementos se son importando agora…
@@ -155,3 +152,4 @@ browser-data-session-checkbox =
     .label = Finestras y pestanyas
 browser-data-session-label =
     .value = Finestras y pestanyas
+

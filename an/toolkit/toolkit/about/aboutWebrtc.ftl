@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Detalles internos de WebRTC
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = nombra y alza a salida d'about:webrtc
@@ -21,12 +22,14 @@ about-webrtc-aec-logging-msg-label = Rechistro d'AEC
 about-webrtc-aec-logging-off-state-label = Empecipiar o rechistro d'AEC
 about-webrtc-aec-logging-on-state-label = Atura o rechistro d'AEC
 about-webrtc-aec-logging-on-state-msg = Rechistro d'AEC activo (parle con o interlocutor por bells minutos y dimpués ature a captura)
+
 about-webrtc-aec-logging-toggled-on-state-msg = Rechistro d'AEC activo (parle con o interlocutor por bells minutos y dimpués ature a captura)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Os fichers de rechistro capturaus se troban en: { $path }
 
 ##
+
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -75,10 +78,12 @@ about-webrtc-type-remote = Remoto
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominau
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Trigau
+
 about-webrtc-save-page-label = Alzar a pachina
 about-webrtc-debug-mode-msg-label = Modo de depuración
 about-webrtc-debug-mode-off-state-label = Empecipiar o modo de depuración
@@ -91,6 +96,7 @@ about-webrtc-log-show-msg = amuestra o rechistro
     .title = fe clic ta ixamplar ista sección
 about-webrtc-log-hide-msg = amaga o rechistro
     .title = fe clic pa reducir ista sección
+
 about-webrtc-log-section-show-msg = Amuestra o rechistro
     .title = Fe clic ta ixamplar ista sección
 about-webrtc-log-section-hide-msg = Amaga o rechistro
@@ -157,6 +163,7 @@ about-webrtc-save-page-msg = a pachina s'ha alzau en: { $path }
 about-webrtc-debug-mode-off-state-msg = o rechistro de traza se troba en: { $path }
 about-webrtc-debug-mode-on-state-msg = o modo de depuración activo: o rechistro de traza ye en: { $path }
 about-webrtc-aec-logging-off-state-msg = os fichers de rechistro capturaus se troban en: { $path }
+
 about-webrtc-save-page-complete-msg = A pachina s'ha alzau en: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = O rechistro de traza se troba en: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = O modo de depuración activo: o rechistro de traza ye en: { $path }
@@ -168,6 +175,7 @@ about-webrtc-debug-mode-toggled-on-state-msg = O modo de depuración activo: o r
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

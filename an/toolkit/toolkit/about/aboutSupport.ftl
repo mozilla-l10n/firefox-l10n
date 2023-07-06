@@ -148,6 +148,8 @@ media-capabilities-title = Capacidatz multimedia
 # List all the entries of the database.
 media-capabilities-enumerate = Enumerar la base de datos
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalización & localización

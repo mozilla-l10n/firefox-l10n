@@ -36,9 +36,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Salir d'o { -brand-shorter-name }
+
 menu-about =
     .label = Arredol d'o { -brand-shorter-name }
     .accesskey = d
@@ -202,8 +204,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Marcapachinas
     .accesskey = c
-menu-bookmark-edit =
-    .label = Editar iste marcapachinas
 menu-bookmarks-all-tabs =
     .label = Adhibir pestanyas ta marcapachinas…
 menu-bookmarks-toolbar =

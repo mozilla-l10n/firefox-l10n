@@ -16,7 +16,6 @@ styleeditor-save-button = Alzar
     .accesskey = A
 styleeditor-options-button =
     .tooltiptext = Opcions de l'editor d'estilo
-styleeditor-media-rules = Reglas @media
 styleeditor-editor-textbox =
     .data-placeholder = Escriba o CSS aquí.
 styleeditor-no-stylesheet = Ista pachina no tiene garra fuella d'estilo.
@@ -32,6 +31,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Blincar enta la linia…
     .accesskey = B
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

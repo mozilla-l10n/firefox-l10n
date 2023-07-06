@@ -32,6 +32,7 @@ webrtc-item-browser = pestanya
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Orichen desconoixiu
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -40,6 +41,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Pestanyas que comparten dispositivos
     .accesskey = d
+
 webrtc-sharing-window = Yes compartindo unatra finestra d'aplicación.
 webrtc-sharing-browser-window = Yes compartindo { -brand-short-name }.
 webrtc-sharing-screen = Yes compartindo la pantalla completa.
@@ -96,6 +98,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controlar compartición
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controlar la compartición en "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Ye compartindo la camara con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -104,6 +107,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Ye compartindo a camara con { $tabCount } pestanya
            *[other] Ye compartindo a camara con { $tabCount } pestanyas
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Ye compartindo lo microfono con “{ $streamTitle }”
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -112,6 +116,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Ye compartindo o microfono con { $tabCount } pestanya
            *[other] Ye compartindo a camara con { $tabCount } pestanyas
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Ye compartindo una Aplicación con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,6 +125,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Compartir una Aplicación con { $tabCount } pestanya
            *[other] Compartir Aplicacions con { $tabCount } pestanyas
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ye compartindo a pantalla con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -128,6 +134,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ye compartindo a pantalla con { $tabCount } pestanya
            *[other] Ye compartindo a camara con { $tabCount } pestanyas
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Ye compartindo una finestra con "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +143,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Ye compartindo una finestra con { $tabCount } pestanya
            *[other] Ye compartindo a camara con { $tabCount } pestanyas
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Ye compartindo una pestanya con "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -182,6 +190,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Recordar ista decisión
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } no puede permitir l'acceso permanent a la suya pantalla.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } no puede acceder de traza permanent a l'audio de garra pestanya sin demandar-le antes con quí lo quiere compartir.
 webrtc-reason-for-no-permanent-allow-insecure = La suya connexión a iste puesto no ye segura. Pa protecher-le, { -brand-short-name } nomás permitirá l'acceso en ista sesión.

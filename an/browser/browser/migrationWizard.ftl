@@ -42,3 +42,10 @@ migration-passwords-from-file-csv-filter-title =
 
 ##
 
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+

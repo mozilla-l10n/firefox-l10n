@@ -52,14 +52,9 @@ onboarding-start-browsing-button-label = Empecipiar a navegar
 
 ## Multistage 3-screen onboarding flow strings (about:welcome pages)
 
-## Multistage onboarding strings (about:welcome pages)
+##  Variables: $addon-name (String) - Name of the add-on to be installed
 
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Iniciando: pantalla { $current } de { $total }
+## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
@@ -109,6 +104,8 @@ onboarding-welcome-steps-indicator =
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -134,4 +131,11 @@ onboarding-welcome-steps-indicator =
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

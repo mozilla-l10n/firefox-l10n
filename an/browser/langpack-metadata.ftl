@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = mozilla.org / Softaragonés
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Softaragonés, Softcatalà, Juan Pablo Martínez Cortés, Chesús Daniel Trigo, Daniel Martínez Cucalón

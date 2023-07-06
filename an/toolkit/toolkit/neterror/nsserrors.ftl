@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ha ocurriu una error durant una connexión a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Codigo d'error: { $error }
-
 psmerr-ssl-disabled = No se puede connectar de traza segura porque s'ha deshabilitau o protocolo SSL.
 psmerr-ssl2-disabled = No se puede connectar de traza segura porque o puesto emplega una versión antiga y insegura d'o protocolo SSL.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = No s'ha configurau garra algoritmo 
 ssl-error-unsupported-signature-algorithm = Lo par ha usau una combinación no soportada de signatura y algoritmo hash.
 ssl-error-missing-extended-master-secret = Lo par ha mirau de continar sin una extensión extended_master_secret extension correcta.
 ssl-error-unexpected-extended-master-secret = Lo par ha mirau de continar con una extensión inasperada extended_master_secret.
+
 sec-error-io = S'ha produciu una error de I/O entre l'autorización de seguranza.
 sec-error-library-failure = ha fallau a biblioteca de seguranza.
 sec-error-bad-data = biblioteca de seguranza: s'han recibiu datos incorrectos.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = No se puede deszifrar: l'algorismo de zifrau d
 sec-error-pkcs7-bad-signature = A verificación d'a sinyatura ha fallau: no s'ha trobau garra sinyatura, u se'n ha trobau masiadas, u bien os datos son inadequaus u malmesos.
 sec-error-unsupported-keyalg = No se conoixe l'algorismo de clau u bien no ye implementau.
 sec-error-decryption-disallowed = No se puede deszifrar: s'ha zifrau fendo servir un algorismo u una grandaria de clau no permitius.
-xp-sec-fortezza-bad-card = A tarcheta Fortezza no s'ha inicializau correctament. Extraiga-la y torne-la ta o suyo emisor.
-xp-sec-fortezza-no-card = No s'ha trobau garra tarcheta Fortezza
-xp-sec-fortezza-none-selected = No s'ha trigau garra tarcheta Fortezza
-xp-sec-fortezza-more-info = Trigue una personalidat ta aconseguir-ne mas información
-xp-sec-fortezza-person-not-found = No s'ha trobau a personalidat
-xp-sec-fortezza-no-more-info = No n'i hai mas información
-xp-sec-fortezza-bad-pin = O PIN no ye valido
-xp-sec-fortezza-person-error = No s'ha puesto inicializar as personalidatz de Fortezza.
 sec-error-no-krl = No s'ha trobau garra KRL t'o certificau d'iste puesto.
 sec-error-krl-expired = A KRL d'o certificau d'iste puesto ha venciu.
 sec-error-krl-bad-signature = A KRL d'o certificau d'iste puesto no tiene una sinyatura valida.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Ya existe un certificau con a mesma embotada
 sec-error-key-nickname-collision = Ya existe una clau con a mesma embotada.
 sec-error-safe-not-created = s'ha produciu una error en creyar l'obchecto seguro
 sec-error-baggage-not-created = s'ha produciu una error en creyar l'obchecto de equipache
-xp-java-remove-principal-error = No s'ha puesto eliminar o prencipal
-xp-java-delete-privilege-error = No s'ha puesto eliminar o privilechio
-xp-java-cert-not-exists-error = Iste prencipal no tiene un certificau
 sec-error-bad-export-algorithm = No se permite l'algorismo que s'ha solicitau.
 sec-error-exporting-certificates = S'ha produciu una error en mirar d'exportar os certificaus.
 sec-error-importing-certificates = S'ha produciu una error en mirar d'importar os certificaus.
@@ -338,6 +319,7 @@ sec-error-locked-password = A clau s'ha blocau.
 sec-error-unknown-pkcs11-error = Error desconoixida PKCS #11.
 sec-error-bad-crl-dp-url = URL no valida u no soportada en o punto de distribución CRL.
 sec-error-cert-signature-algorithm-disabled = O certificau s'ha sinyau con un algorismo que s'ha inhabilitau porque no ye seguro.
+
 mozilla-pkix-error-key-pinning-failure = O servidor usa key pinning (HPKP) pero s'ha puesto construir garra cadena de certificaus confiables que concuerde con o pinset. As violacions d'o key pinning no se pueden ignorar.
 mozilla-pkix-error-ca-cert-used-as-end-entity = O servidor fa servir un certificau con una extensión de restriccions basica, que lo identifica como una autoridat de certificaus. Esto no habría de pasar en un certificau correctament emeso.
 mozilla-pkix-error-inadequate-key-size = O servidor presentó un certificado con una mida de clau masiau chicota como ta establir una connexión segura.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Lo servidor ha presentau un certif
 mozilla-pkix-error-empty-issuer-name = Lo servidor ha presentau un certificau con un nombre d'emisor vuedo.
 mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de politica adicional ha fallau quan se validaba este certificau.
 mozilla-pkix-error-self-signed-cert = Lo certificau no ye confiable per estar auto-firmau.
+
+xp-java-remove-principal-error = No s'ha puesto eliminar o prencipal
+xp-java-delete-privilege-error = No s'ha puesto eliminar o privilechio
+xp-java-cert-not-exists-error = Iste prencipal no tiene un certificau
+
+xp-sec-fortezza-bad-card = A tarcheta Fortezza no s'ha inicializau correctament. Extraiga-la y torne-la ta o suyo emisor.
+xp-sec-fortezza-no-card = No s'ha trobau garra tarcheta Fortezza
+xp-sec-fortezza-none-selected = No s'ha trigau garra tarcheta Fortezza
+xp-sec-fortezza-more-info = Trigue una personalidat ta aconseguir-ne mas información
+xp-sec-fortezza-person-not-found = No s'ha trobau a personalidat
+xp-sec-fortezza-no-more-info = No n'i hai mas información
+xp-sec-fortezza-bad-pin = O PIN no ye valido
+xp-sec-fortezza-person-error = No s'ha puesto inicializar as personalidatz de Fortezza.

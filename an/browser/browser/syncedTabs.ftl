@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Ubrir
     .accesskey = U
-synced-tabs-context-open-in-new-tab =
-    .label = Ubrir en una pestanya nueva
-    .accesskey = v
-synced-tabs-context-open-in-new-window =
-    .label = Ubrir lo vinclo en una finestra nueva
-    .accesskey = f
-synced-tabs-context-open-in-new-private-window =
-    .label = Ubrir lo vinclo en una nueva finestra privada
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Marcar ista pachina con marcapachinas
-    .accesskey = B
 
 ##
 
