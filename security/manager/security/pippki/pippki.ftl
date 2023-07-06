@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Ukukhuphela Iintifikhethi
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Ukukhuphela Iintifikhethi
     .style = min-width: 46em
@@ -57,4 +53,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Kuqakathekile: Nakube uyalibala inomboro yokungena yesisekelo sesitifikhethi, angeze ukwazi ukuvuselela isisekelwesi esikhathi esizako.  Sibawa uyitlole endaweni ebulungekileko.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

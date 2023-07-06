@@ -22,5 +22,7 @@ state-header = Ubujamo
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Imininingwana
+
 update-installed-on = Ifakwe ku: { $date }
+
 update-status = Ubujamo: { $status }

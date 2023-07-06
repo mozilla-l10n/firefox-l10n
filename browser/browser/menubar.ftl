@@ -96,6 +96,8 @@ menu-view-full-screen =
     .label = Umpheme opheleleko
     .accesskey = U
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-bidi-switch-page-direction =
