@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Mos Dilni
        *[other] Mos Dil
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nëse kaloni jashtë linje tani, do të anulohet 1 shkarkim. Jeni i sigurt se doni të kaloni jashtë linje?
        *[other] Nëse kaloni jashtë linje tani, do të anulohen { $downloadsCount } shkarkime. Jeni i sigurt se doni të kaloni jashtë linje?
     }
 download-ui-dont-go-offline-button = Rri Në Linjë
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Nëse i mbyllni tani krejt dritaret e Shfletimit Privat, do të anulohet 1 shkarkim. Jeni i sigurt se doni të dilni nga mënyra e Shfletimit Privat?
        *[other] Nëse i mbyllni tani krejt dritaret e Shfletimit Privat, do të anulohen { $downloadsCount } shkarkime. Jeni i sigurt se doni të dilni nga mënyra e Shfletimit Privat?
     }
 download-ui-dont-leave-private-browsing-button = Qëndro në Mënyrën Shfletim Privat
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Anulo 1 Shkarkim

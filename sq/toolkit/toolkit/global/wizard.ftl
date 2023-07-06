@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Mbrapsht
     .accesskey = M
+
 wizard-macos-button-next =
     .label = Vazhdo
     .accesskey = V
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Pasuesi >
     .accesskey = P
+
 wizard-macos-button-finish =
     .label = U bë
 wizard-linux-button-finish =
     .label = Përfundoje
 wizard-win-button-finish =
     .label = Përfundoje
+
 wizard-macos-button-cancel =
     .label = Anuloje
 wizard-linux-button-cancel =

@@ -20,15 +20,22 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Hap menunë për { $extensionName }
+
 unified-extensions-item-message-manage = Administroni zgjerim
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Fiksoje te Paneli
+
 unified-extensions-context-menu-manage-extension =
     .label = Administroni Zgjerimin
+
 unified-extensions-context-menu-remove-extension =
     .label = Hiqe Zgjerimin
+
 unified-extensions-context-menu-report-extension =
     .label = Raportoje Zgjerimin
+
+## Notifications
+

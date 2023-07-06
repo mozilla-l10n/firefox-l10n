@@ -10,12 +10,16 @@
 
 origin-controls-no-access =
     .label = Zgjerimi S’mund të Lexojë dhe Ndryshojë të Dhëna
+
 origin-controls-options =
     .label = Zgjerimi Mund të Lexojë dhe Ndryshojë të Dhëna:
+
 origin-controls-option-all-domains =
     .label = Në Krejt Sajtet
+
 origin-controls-option-when-clicked =
     .label = Vetëm Kur Klikohet
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -27,11 +31,17 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = S’mund të lexohen dhe ndryshohen të dhëna në këtë sajt
+
 origin-controls-state-always-on = Mund të lexohen dhe ndryshohen përherë të dhëna në këtë sajt
+
 origin-controls-state-when-clicked = Lypset leje për lexim dhe ndryshim të dhënash
+
 origin-controls-state-hover-run-visit-only = Kryeje vetëm për këtë vizitë
+
 origin-controls-state-runnable-hover-open = Hape zgjerimin
+
 origin-controls-state-runnable-hover-run = Vëre zgjerimin në punë
+
 origin-controls-state-temporary-access = Mund të lexojë dhe ndryshojë të dhëna për këtë vizitë
 
 ## Extension's toolbar button.
@@ -41,6 +51,7 @@ origin-controls-state-temporary-access = Mund të lexojë dhe ndryshojë të dh�
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -48,3 +59,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Leje e mohuar
+

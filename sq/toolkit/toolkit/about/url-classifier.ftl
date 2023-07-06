@@ -50,5 +50,9 @@ url-classifier-disabled = I çaktivizuar
 url-classifier-updating = po përditësohet
 url-classifier-cannot-update = s’përditësohet dot
 url-classifier-success = sukses
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = gabim përditësimi ({ $error })
 url-classifier-download-error = gabim shkarkimi ({ $error })

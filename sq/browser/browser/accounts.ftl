@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Përfundoni Rregullim Llogarie
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Llogaria u shkëput
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Dërgoje te Krejt Pajisjet
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Administroni Pajisje…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Administroni Pajisje…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Pa Pajisje të Lidhura
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Mësoni Rreth Dërgimit të Skedave…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Lidhni Tjetër Pajisje…
 
@@ -45,10 +50,13 @@ account-send-tab-to-device-verify = Verifikoni Llogarinë Tuaj…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Ky kompjuter tani është i lidhur me { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Ky kompjuter tani është lidhur me një pajisje të re.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Hytë me sukses
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Ky kompjuter është shkëputur.
 
@@ -60,6 +68,7 @@ account-single-tab-arriving-title = Skeda u mor
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Skedë nga { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -72,6 +81,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Skedat u Morën
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

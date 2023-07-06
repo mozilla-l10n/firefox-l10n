@@ -14,6 +14,7 @@ xpinstall-prompt-message = Po përpiqeni të instaloni një shtesë nga { $host 
 
 xpinstall-prompt-header-unknown = Të lejohet një sajt i panjohur të instalojë një shtesë?
 xpinstall-prompt-message-unknown = Po provoni të instaloni një shtesë nga një sajt i panjohur. Përpara se të vazhdoni, sigurohuni se i zini besë këtij sajti.
+
 xpinstall-prompt-dont-allow =
     .label = Mos e Lejo
     .accesskey = M
@@ -42,6 +43,7 @@ xpinstall-disabled = Instalimi i software-it është hëpërhë i çaktivizuar. 
 xpinstall-disabled-button =
     .label = Aktivizoje
     .accesskey = a
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -50,6 +52,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) është bllokuar
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Përgjegjësi i sistemit tuaj e pengoi këtë sajt t’ju kërkojë të instalojë program në kompjuterin tuaj.
 addon-install-full-screen-blocked = Nuk lejohet instalim shtesash teksa gjendet në mënyrën sa krejt ekrani ose para saj.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } u shtua te { -brand-short-name }
@@ -67,6 +70,7 @@ addon-removal-title = Të hiqet { $name }?
 addon-removal-message = Të hiqet { $name } nga { -brand-shorter-name }?
 addon-removal-button = Hiqe
 addon-removal-abuse-report-checkbox = Raportojeni këtë zgjerim te { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -75,6 +79,7 @@ addon-downloading-and-verifying =
        *[other] Po shkarkohen dhe verifikohen { $addonCount } shtesa…
     }
 addon-download-verifying = Po verifikohet
+
 addon-install-cancel-button =
     .label = Anuloje
     .accesskey = A

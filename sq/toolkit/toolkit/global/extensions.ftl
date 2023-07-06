@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Anuloje
     .accesskey = A
+
 webext-perms-sideload-text = Një tjetër program në kompjuterin tuaj ka instaluar një shtesë që mund të ndikojë në shfletuesin tuaj. Ju lutemi, shqyrtoni kërkesat për leje të kësaj shtese dhe zgjidhni të Aktivizohet ose të Anulohet (që ta lini të çaktivizuar).
 webext-perms-sideload-text-no-perms = Një tjetër program në kompjuterin tuaj instaloi një shtesë që mund të ndikojë në shfletuesin tuaj. Ju lutemi, zgjidhni të Aktivizohet ose të Anulohet (që ta lini të çaktivizuar).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Anuloje
     .accesskey = A
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } është përditësuar. Duhet të miratoni lejet e reja përpara se të instalohet versioni i përditësuar. Zgjedhja e “Anuloje” do të mbajë versionin e tanishëm të zgjerimit. Ky zgjerim do të ketë leje të:
 webext-perms-update-accept =
     .label = Përditësoje
     .accesskey = d
+
 webext-perms-optional-perms-list-intro = Dëshiron të:
 webext-perms-optional-perms-allow =
     .label = Lejoje
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Mos e lejo
     .accesskey = M
+
 webext-perms-host-description-all-urls = Të hyjë në të dhënat tuaja për krejt sajtet
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Të hyjë në të dhënat tuaja për sajte të përkatësisë { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Të hyjë në të dhënat tuaja për { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
