@@ -33,9 +33,6 @@ certmgr-cert-name =
 certmgr-cert-server =
     .label = ڕاژەکان
 
-certmgr-override-lifetime =
-    .label = ماوەی کارایی
-
 certmgr-token-name =
     .label = ئامێری پاراستن
 

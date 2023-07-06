@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = کردنەوە
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label =  کردنەوەی لە بازدەری نوێ
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = لە پەنجەرەیەکی نوێ بیکەرەوە
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = ئەم پەڕەیە دڵخواز بکە...
-    .accesskey = B
 
 ##
 

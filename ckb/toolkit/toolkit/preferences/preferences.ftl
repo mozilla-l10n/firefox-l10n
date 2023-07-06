@@ -5,8 +5,6 @@
 password-not-set =
     .value = (ئامادە نەکراوە)
 
-pp-not-wanted = ئاگاداربە! تۆ بڕیارت دا کە وشەی تێپەڕی سەرەکی بەکارنەهێنیت. { pp-empty-warning }
-
 pw-change-success-title = گۆڕینی وشەی تێپەڕ سەرکەوتوو بوو
 pw-change-failed-title = گۆڕینی وشەی تێپەڕب سەرکەوتوو نەبوو
 pw-remove-button =

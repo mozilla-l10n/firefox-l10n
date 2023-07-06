@@ -22,15 +22,18 @@ webext-perms-add =
 webext-perms-cancel =
     .label = پاشگەزبوونەوە
     .accesskey = C
+
 webext-perms-sideload-enable =
     .label = چالاک
     .accesskey = E
 webext-perms-sideload-cancel =
     .label = پاشگەزبوونەوە
     .accesskey = C
+
 webext-perms-update-accept =
     .label = نوێکردنەوە
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = دەیەوێت کە:
 webext-perms-optional-perms-allow =
     .label = ڕێگەبدە

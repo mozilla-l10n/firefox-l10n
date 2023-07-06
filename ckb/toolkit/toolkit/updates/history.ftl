@@ -23,5 +23,7 @@ state-header = هەرێم
 update-full-build-name = { $buildID }{ $name }
 
 update-details = وردەکاری
+
 update-installed-on = دامەزرا لە:{ $date }
+
 update-status = دۆخ:{ $status }

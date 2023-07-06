@@ -35,6 +35,7 @@ xpinstall-disabled = دامەزراندنی نەرمەواڵە ئێستا ناچ
 xpinstall-disabled-button =
     .label = چالاک
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } زیادکرا بۆ { -brand-short-name }
@@ -45,6 +46,7 @@ webext-perms-update-menu-item = { $addonName } پێویستی بە ڕێگەپێ�
 ## Add-on removal warning
 
 addon-download-verifying = دەسەلمێندرێت
+
 addon-install-cancel-button =
     .label = پاشگەزبوونەوە
     .accesskey = C

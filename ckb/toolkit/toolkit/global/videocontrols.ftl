@@ -23,15 +23,6 @@ videocontrols-closed-caption-off =
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = وێنە-لەناو-وێنە
 
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = بە وێنە-لەناو-وێنە سەیری بکە
-
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = لە پشتەوە ڤیدیۆ کارپێبکە لە کاتێکا خەریکی کاری تریت لەگەڵ { -brand-short-name }
-
 videocontrols-error-aborted = بارکردنی ڤیدیۆ وەستا
 videocontrols-error-network = پێکردنەوەی ڤیدیۆ وەستا بەهۆی کێشەی ڕایەڵەوە.
 videocontrols-error-decode = ناتوانرێت ڤیدیۆ لێبدرێت چونکە پەڕگەکەی تێکشکاوە.

@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = پاشەکەوتکردن
 pocket-panel-saved-saving-tags = پاشکەوت دەکرێت...
 pocket-panel-saved-suggested-tags = تاگی پێشنیارکراو
 pocket-panel-saved-tags-saved = تاگەکان زیادکران
-pocket-panel-signup-view-list = لیستە پیشان بدە
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = تاگ زیاد بکە:
@@ -43,8 +42,6 @@ pocket-panel-signup-tagline-story-one = کرتە بکە لە دوگمەی { -poc
 pocket-panel-signup-tagline-story-two = لە { -pocket-brand-name } پیشانی بدە لەهەر ئامێرێک، هەر کاتێک.
 
 ## about:pocket-home panel
-
-pocket-panel-home-my-list = لیستەکەم
 
 ## Pocket panel header component
 

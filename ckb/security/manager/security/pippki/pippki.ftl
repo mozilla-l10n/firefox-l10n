@@ -28,3 +28,5 @@ change-password-old = تێپەڕە وشەی ئێستا:
 
 ## Protected Auth dialog
 
+## Protected authentication alert
+

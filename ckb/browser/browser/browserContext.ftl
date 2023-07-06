@@ -93,44 +93,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = ئەم پەڕەیە دڵخواز بکە
-    .accesskey = د
-    .tooltiptext = ئەم پەڕەیە دڵخواز بکە
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = پەڕە دڵخواز بکە
-    .accesskey = پ
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = نیشانەکراوەکان دەستکاریبکە
-    .accesskey = ن
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = ئەم پەڕەیە دڵخواز بکە
-    .accesskey = د
-    .tooltiptext = ئەم پەرەیە دڵخواز بکە { $shortcut }
-
-main-context-menu-bookmark-change =
-    .aria-label = ئەم دڵخوازە دەستکاریبکە
-    .accesskey = ت
-    .tooltiptext = ئەم دڵخوازە دەستکاریبکە
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = ئەم دڵخوازە دەستکاریبکە
-    .accesskey = ت
-    .tooltiptext = ئەم دڵخوازە دەستکاریبکە { $shortcut }
-
 main-context-menu-open-link =
     .label = بەستەر بکەرەوە
     .accesskey = ب
@@ -285,14 +247,6 @@ main-context-menu-audio-email =
     .label = ناردنی دەنگ...
     .accesskey = ن
 
-main-context-menu-plugin-play =
-    .label = ئەم پێوەکراوە چالاک بکە
-    .accesskey = چ
-
-main-context-menu-plugin-hide =
-    .label = پیوەکراو بشارەوە
-    .accesskey = ش
-
 main-context-menu-save-to-pocket =
     .label = پەڕە پاشەکەوت بکە لە { -pocket-brand-name }
     .accesskey = ک
@@ -336,10 +290,6 @@ main-context-menu-frame-reload =
     .label = بارکردنەوەی چوارچێوە
     .accesskey = چ
 
-main-context-menu-frame-bookmark =
-    .label = ئەم چوارچێوەیە دڵخواز بکە
-    .accesskey = د
-
 main-context-menu-frame-save-as =
     .label = چوارچێوە پاشەکەوت بکە وەک ...
     .accesskey = پ
@@ -355,10 +305,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = زانیاری چوارچێوە پیشان بدە
     .accesskey = ز
-
-main-context-menu-print-selection =
-    .label = دیاریکراو چاپ بکە
-    .accesskey = چ
 
 main-context-menu-view-selection-source =
     .label = سەرچاوەی دیاریکراو ببینە

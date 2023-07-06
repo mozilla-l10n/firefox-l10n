@@ -36,9 +36,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = وازهێنانی { -brand-shorter-name }
+
 menu-about =
     .label = دەربارەی { -brand-shorter-name }
     .accesskey = A
@@ -202,8 +204,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = دڵخوازەکان
     .accesskey = د
-menu-bookmark-edit =
-    .label = ئەم دڵخوازە دەستکاریبکە
 menu-bookmarks-all-tabs =
     .label = هەموو بازدەرەکان دڵخواز بکە...
 menu-bookmarks-toolbar =

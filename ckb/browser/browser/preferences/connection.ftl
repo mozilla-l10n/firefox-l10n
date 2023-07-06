@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-connection-window =
-    .title = ڕێکخستنەکانی پەیوەندیگرتن
-    .style =
-        { PLATFORM() ->
-            [macos] width: 44em
-           *[other] width: 49em
-        }
-
 connection-window2 =
     .title = ڕێکخستنەکانی پەیوەندیگرتن
     .style =
@@ -67,13 +59,6 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = بارکردنەوە
     .accesskey = e
-
-connection-dns-over-https =
-    .label = چالاککردنی DNS لەسەر HTTPS
-    .accesskey = چ
-
-connection-dns-over-https-url-resolver = دابینکەر بەکاربێنە
-    .accesskey = د
 
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider

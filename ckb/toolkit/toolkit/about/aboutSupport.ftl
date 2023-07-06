@@ -99,6 +99,8 @@ restart-button-label = پێکردنەوە
 
 media-device-name = ناو
 
+## Codec support table
+
 ##
 
 

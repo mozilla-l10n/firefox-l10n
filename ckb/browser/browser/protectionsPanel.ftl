@@ -79,3 +79,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = پاشگەزبوونەوە
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = ڕاپۆرت بنێرە
+
+# Cookie Banner Handling
+

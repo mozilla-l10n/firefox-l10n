@@ -8,8 +8,10 @@ search-header =
     .placeholder = بگەڕێ لە addons.Mozilla.org
     .searchbuttonlabel = بگەڕێ
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
+##
 
 list-empty-installed =
     .value = هیچ پێوەکراوێکت لەم جۆرە دانەمەزراندووە.
@@ -284,7 +286,6 @@ extension-enabled-heading = چالاکە
 extension-disabled-heading = ناچالاکە
 
 theme-enabled-heading = چالاکە
-theme-disabled-heading = ناچالاکە
 
 plugin-enabled-heading = چالاکە
 plugin-disabled-heading = ناچالاکە
@@ -339,6 +340,9 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-allow = ڕێگەبدە
 addon-detail-private-browsing-disallow = ڕێگە مەدە
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -380,6 +384,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

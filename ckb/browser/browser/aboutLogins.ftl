@@ -5,11 +5,6 @@
 
 about-logins-page-title = چوونەژوورەوە و وشەی تێپەڕەکان
 
-login-filter =
-    .placeholder = گەڕان بۆ چوونەژوورەوەکان
-
-create-login-button = چوونەژوورەوە دروست بکە
-
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-sync-button = بۆ هاوکاتکردن بچۆژوورەوە
 fxaccounts-avatar-button =
@@ -99,9 +94,10 @@ login-item-copied-password-button-text = لەبەرگیرا!
 login-item-save-changes-button = گۆڕانکارییەکان هەڵگرە
 login-item-save-new-button = پاشەکەوتکردن
 login-item-cancel-button = پاشگەزبوونەوە
-login-item-time-changed = دوواجار دەستکاریکراوە:{ DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = دروستکراوە:{ DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = دوواجار بەکاربراوە:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -152,6 +148,9 @@ about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەس�
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] بەڵی، ئەم چوونەژورەوەیە بسڕەوە
@@ -170,6 +169,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
         [one] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
        *[other] { $count } چوونەژوورەوە دەسڕیتەوە لە هەموو ئامێرەکان؟
     }
+
+##
 
 about-logins-confirm-export-dialog-title = چوونەژوورەوە و وشەی تێپەڕەکان دەربهێنە
 about-logins-confirm-export-dialog-message = وشەنهێنیەکانت پاشەکەوت ئەکرێن وەک دەقێکی خوێنراوە (نمونە BadP@ssw0rd) بەشێوەیەک هەموو کەسێک پەڕگە دەرکراوەکە بکاتەوە و بیان بینێت.
@@ -190,7 +191,6 @@ about-logins-breach-alert-date = ئەم دزەپێکردنەوە دۆزراوە�
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = بڕۆ بۆ { $hostname }
-about-logins-breach-alert-learn-more-link = زیاتر بزانە
 
 ## Vulnerable Password notification
 

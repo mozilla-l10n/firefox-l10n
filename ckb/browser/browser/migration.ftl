@@ -152,3 +152,4 @@ browser-data-session-checkbox =
     .label = پەنجەرەکان و بازدەرەکان
 browser-data-session-label =
     .value = پەنجەرەکان و بازدەرەکان
+

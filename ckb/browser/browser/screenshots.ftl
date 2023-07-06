@@ -32,3 +32,4 @@ screenshots-empty-selection-error-title = شوێنی دیاریکراو زۆر �
 screenshots-private-window-error-title = { -screenshots-brand-name } ناچالاکە لە دۆخی گەڕانی تایبەتەوە
 
 screenshots-generic-error-details = ئێمە نازانین چی ڕوویدا. دەتەوێت هەوڵبدەیتەوە یان وێنەی شوێنێکی تر بگریت؟
+

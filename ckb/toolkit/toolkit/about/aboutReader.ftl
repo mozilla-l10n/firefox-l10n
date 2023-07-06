@@ -4,12 +4,14 @@
 
 about-reader-loading = باردەکرێت...
 about-reader-load-error = نەتوانرا بابەت باربکرێت لە پەڕەوە
+
 about-reader-color-scheme-light = ڕوون
     .title = ڕەنگی ڕێدانانی ڕوون
 about-reader-color-scheme-dark = تاریک
     .title = ڕەنگی ڕێدانانی تاریک
 about-reader-color-scheme-sepia = خۆڵەمێشی تۆخ
     .title = ڕەنگی ڕێدانانی خۆڵەمێشی تۆخ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

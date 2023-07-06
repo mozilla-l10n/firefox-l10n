@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] دایمەخەرەوە
        *[other] دەرمەچۆ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ئەگەر ئێستا دەرهێڵبیت، ئەوا 1 داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوە؟
        *[other] ئەگەر ئێستا بچیتە دەرهێڵ، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوە؟
     }
 download-ui-dont-go-offline-button = سەرهێڵ بمێنەوە
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] ئەگەر ئێستا لە گەڕانی تایبەت دەرچیت، ئەوا 1 داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوەی لە گەڕانی تایبەت دەرچیت؟
        *[other] ئەگەر ئێستا لە گەڕانی تایبەت دەرچیت، ئەوا { $downloadsCount } داگرتن هەڵدەوەشێنرێتەوە. ئایا تۆ دڵنیای لەوەی لە گەڕانی تایبەت دەرچیت؟
     }
 download-ui-dont-leave-private-browsing-button = لە گەڕانی تایبەت بمێنەوە
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 داگرتن هەڵبوەشێنەوە

@@ -30,8 +30,6 @@ policy-DisableDeveloperTools = دەستگەیشتن بە توڵامرازی گە
 
 policy-DisablePrivateBrowsing = گەڕانی تایبەت ناچالاک بکە.
 
-policy-FirefoxHome = ماڵەوەی فایەرفۆکس ڕێکبخە.
-
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 

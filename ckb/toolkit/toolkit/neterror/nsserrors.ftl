@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = هەلەیەك تێبنی کرا لە کاتی پەیوەندی کردن بە { $hostname }.{ $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = کۆدی هەڵە: { $error }
-
 psmerr-ssl-disabled = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت چونکە پرۆتۆکۆلی SSL ناچالاک کراوە.
 psmerr-ssl2-disabled = ناتوانیت بە شێوەیەکی پارێزراو پەیوەندی ببەستیت چونکە ئەم ناونیشانە وەشانێکی کۆنی پرۆتۆکۆلی SSL  ی بەکارهێناوە.
 
@@ -31,14 +22,13 @@ ssl-error-no-cypher-overlap = ناتوانیت بە شێوەیەکی پارێز�
 ssl-error-no-certificate = نەتوانرا بڕوانامە یان کلیلی پێویست بدۆزرێتەوە بۆ ڕێگەپێدان
 ssl-error-unsupported-certificate-type = جۆری بڕوانامە پاڵپشتی نەکراوە.
 ssl-error-post-warning = کۆدی هەڵە SSL باوەڕپێ نەکراوە.
+
 sec-error-duplicate-cert = بڕوانامە بوونی هەیە ئێستا لە بنکە دراوەکەت.
 sec-error-no-key = کلیلی تایبەت بۆ ئەم بڕوانامەیە ناتوانرێت بدۆزرێتەوە لە بنکەی دراوی سەرەکی
 sec-error-cert-valid = ئەم بڕوانامەیە دروستە.
 sec-error-cert-not-valid = ئەم بڕوانامەیە نادروستە.
 sec-error-no-slot-selected = هیچ دەرەچەیەک یان پارچەیەکت هەڵنەبژاردووە.
 sec-error-safe-not-created = هەڵە لە کاتی درووستکردنی تەنی پارێزراو
-xp-java-remove-principal-error = نەتوانرا بنچینە بسڕێتەوە
-xp-java-delete-privilege-error = نەتوانرا دەسەڵات بسڕێتەوە
 sec-error-bad-export-algorithm = ئەلگۆریتمی داواکراو ڕێگەپێنەدراوە.
 sec-error-pkcs12-unsupported-version = نەتوانرا هاوردەبکرێت. وەشانی پەڕگە پشتگیری ناکرێت.
 sec-error-pkcs12-privacy-password-incorrect = نەتوانرا هاوردەبکرێت. وشەی تێپەڕی تایبەتیی هەڵەیە.
@@ -51,3 +41,7 @@ sec-error-not-initialized = NSS دەستپێنەکراوە.
 sec-error-expired-password = تێپەڕەوشە بەسەرچووە.
 sec-error-locked-password = تێپەڕەوشە کلیلدراوە.
 sec-error-unknown-pkcs11-error = هەڵەی نەناسراوی .PKCS #11
+
+xp-java-remove-principal-error = نەتوانرا بنچینە بسڕێتەوە
+xp-java-delete-privilege-error = نەتوانرا دەسەڵات بسڕێتەوە
+
