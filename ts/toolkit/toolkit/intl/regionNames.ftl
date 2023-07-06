@@ -51,7 +51,6 @@ region-name-ly = Libiya
 region-name-ma = Morocco
 region-name-mc = Monaco
 region-name-md = Rhipubliki ya Moldova
-region-name-mk = F.Y.R. ya Makhadoniya
 region-name-mo = Macao
 region-name-mx = Mekziko
 region-name-my = Malaxiya
