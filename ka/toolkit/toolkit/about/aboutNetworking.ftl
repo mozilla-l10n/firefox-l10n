@@ -34,13 +34,6 @@ about-networking-messages-received = მიღებული შეტყობ
 about-networking-bytes-sent = გაგზავნილი ბაიტი
 about-networking-bytes-received = მიღებული ბაიტი
 about-networking-logging = აღრიცხვა
-about-networking-log-tutorial = ეწვიეთ ბმულს <a data-l10n-name="logging">HTTP აღრიცხვა,</a> ამ ხელსაწყოს მოხმარების წესების გასაცნობად.
-about-networking-current-log-file = მიმდინარე აღრიცხვის ფაილი:
-about-networking-current-log-modules = მიმდინარე აღრიცხვის მოდულები:
-about-networking-set-log-file = აღრიცხვის ფაილის მითითება
-about-networking-set-log-modules = აღრიცხვის მოდულების მითითება
-about-networking-start-logging = აღრიცხვის დაწყება
-about-networking-stop-logging = აღრიცხვის შეჩერება
 about-networking-dns-lookup = DNS-მოძიება
 about-networking-dns-lookup-button = მოთხოვნა
 about-networking-dns-domain = დომენი:

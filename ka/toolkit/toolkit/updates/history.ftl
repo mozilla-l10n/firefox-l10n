@@ -23,5 +23,7 @@ state-header = მდგომარეობა
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = ვრცლად
+
 update-installed-on = ჩადგმის თარიღი: { $date }
+
 update-status = მდგომარეობა: { $status }

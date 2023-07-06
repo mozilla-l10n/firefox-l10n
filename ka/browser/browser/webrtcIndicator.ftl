@@ -30,6 +30,7 @@ webrtc-item-browser = ჩანართი
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = უცნობი წარმომავლობა
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ჩანართის გამზიარებელი მოწყობილობები
     .accesskey = მ
+
 webrtc-sharing-window = თქვენ აზიარებთ სხვა პროგრამის ფანჯარას
 webrtc-sharing-browser-window = თქვენ გაზიარებული გაქვთ { -brand-short-name }.
 webrtc-sharing-screen = თქვენ აზიარებთ მთლიან ეკრანს.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = გაზიარება მართვა
 webrtc-indicator-menuitem-control-sharing-on =
     .label = გაზიარების გამართვა „{ $streamTitle }“-ზე
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = კამერის გაზიარება „{ $streamTitle }“-სთვის
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] კამერა გაზიარებულია ჩანართთან
            *[other] კამერა გაზიარებულია { $tabCount } ჩანართთან
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = მიკროფონის გაზიარება „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] მიკროფონი გაზიარებულია ჩანართთან
            *[other] მიკროფონი გაზიარებულია { $tabCount } ჩანართთან
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = პროგრამის გაზიარება „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] პროგრამა გაზიარებულია ჩანართთან
            *[other] პროგრამა გაზიარებულია { $tabCount } ჩანართთან
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = ეკრანის გაზიარება „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] ეკრანი გაზიარებულია ჩანართთან
            *[other] ეკრანი გაზიარებულია { $tabCount } ჩანართთან
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = ფანჯრის გაზიარება „{ $streamTitle }“
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] ფანჯარა გაზიარებულია ჩანართთან
            *[other] ფანჯარა გაზიარებულია { $tabCount } ჩანართთან
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = ჩანართის გაზიარება „{ $streamTitle }“
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = ნებას რთავთ { 
 
 webrtc-allow-share-audio-capture-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ჩანართის ხმასთან?
 webrtc-allow-share-camera-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს კამერასთან?
-webrtc-allow-share-microphone-unsafe-delegations = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
 webrtc-allow-share-microphone-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენს მიკროფონთან?
 webrtc-allow-share-screen-unsafe-delegation = ნებას რთავთ { $origin }-ს დაუშვას { $thirdParty } თქვენი ეკრანის გამოსახულებასთან?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ნებას 
 
 webrtc-share-screen-warning = ეკრანი გაუზიარეთ მხოლოდ სანდო საიტებს. ეკრანის გაზიარება თაღლითურ საიტებს აძლევს საშუალებას, თქვენს მსგავსად დაათვალიეროს გვერდები და მოგპაროთ პირადი მონაცემები.
 webrtc-share-browser-warning = { -brand-short-name } გაუზიარეთ მხოლოდ სანდო საიტებს. გაზიარება თაღლითურ საიტებს აძლევს საშუალებას, თქვენს მსგავსად დაათვალიეროს გვერდები და მოგპაროთ პირადი მონაცემები.
+
 webrtc-share-screen-learn-more = ვრცლად
 webrtc-pick-window-or-screen = ფანჯრის ან ეკრანის არჩევა
 webrtc-share-entire-screen = მთლიანი ეკრანი
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = გადაწყვეტილების დამახსოვრება
 webrtc-mute-notifications-checkbox = საიტის შეტყობინებების დადუმება გაზიარებისას
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ვერ გასცემს მუდმივი წვდომის ნებართვას, თქვენს ეკრანთან.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ვერ გასცემს მუდმივი წვდომის ნებართვას თქვენი ჩანართის ხმასთან, იმის უკითხავად, თუ რომელ ჩანართს აზიარებთ.
 webrtc-reason-for-no-permanent-allow-insecure = კავშირი ამ საიტთან დაუცველია. უსაფრთხოების მიზნით, { -brand-short-name } მხოლოდ ამ სეანსზე დაუშვებს წვდომას.

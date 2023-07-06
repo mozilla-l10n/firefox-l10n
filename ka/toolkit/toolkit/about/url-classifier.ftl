@@ -50,5 +50,9 @@ url-classifier-disabled = გამორთულია
 url-classifier-updating = მიმდინარეობს განახლება
 url-classifier-cannot-update = განახლება ვერ ხერხდება
 url-classifier-success = წარმატებით შესრულდა
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = განახლების შეცდომა ({ $error })
 url-classifier-download-error = ჩამოტვირთვის შეცდომა ({ $error })

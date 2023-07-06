@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] გაგრძელება
        *[other] დარჩენა
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] თუ ახლა კავშირგარეშე რეჟიმში გადახვალთ, 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ კავშირგარეშე რეჟიმში გადასვლა?
        *[other] თუ ახლა კავშირგარეშე რეჟიმში გადახვალთ, { $downloadsCount } ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ კავშირგარეშე რეჟიმში გადასვლა?
     }
 download-ui-dont-go-offline-button = ხაზზე დარჩენა
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] თუ პირადი დათვალიერების ყველა ფანჯარას დახურავთ, 1 ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ პირადი დათვალიერების დატოვება?
        *[other] თუ პირადი დათვალიერების ყველა ფანჯარას დახურავთ, { $downloadsCount } ჩამოტვირთვა გაუქმდება. ნამდვილად გსურთ პირადი დათვალიერების დატოვება?
     }
 download-ui-dont-leave-private-browsing-button = პირად დათვალიერებაში დარჩენა
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ჩამოტვირთვის გაუქმება

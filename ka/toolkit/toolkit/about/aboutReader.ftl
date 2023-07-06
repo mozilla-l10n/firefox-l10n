@@ -4,6 +4,7 @@
 
 about-reader-loading = იტვირთება…
 about-reader-load-error = გვერდიდან სტატიის ჩატვირთვა ვერ მოხერხდა
+
 about-reader-color-scheme-light = ნათელი
     .title = ნათელი ფერები
 about-reader-color-scheme-dark = მუქი
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = სეპია
     .title = მოყავისფრო ფერები
 about-reader-color-scheme-auto = ავტომატური
     .title = ფერთა თვითშერჩევა
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
