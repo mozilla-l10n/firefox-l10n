@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Sohõda huruyan tuku:
-about-logging-current-log-modules = Sohõda huruyan dunbey:
 about-logging-log-tutorial = Dii <a data-l10n-name="logging">HTTP huruyan</a> ka bay taka kaŋ nda boro ga goy nda jinaa woo.
 about-logging-set-log-file = Huruyan tuku kayandi
 about-logging-set-log-modules = Huruyan dunhey kayandi
 about-logging-start-logging = Huruyan šintin
 about-logging-stop-logging = Huruyan kayandi
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

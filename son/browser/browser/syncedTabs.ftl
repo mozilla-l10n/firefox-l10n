@@ -16,18 +16,6 @@ synced-tabs-sidebar-tabsnotsyncing = Kanji hangandiyan tunandi ka dii kanjey maa
 synced-tabs-context-open =
     .label = Feeri
     .accesskey = F
-synced-tabs-context-open-in-new-tab =
-    .label = Feeri kanji taaga ra
-    .accesskey = t
-synced-tabs-context-open-in-new-window =
-    .label = Doboo feeri zanfun taaga ra
-    .accesskey = z
-synced-tabs-context-open-in-new-private-window =
-    .label = Doboo feeri zanfun taaga ra
-    .accesskey = z
-synced-tabs-context-bookmark-single-tab =
-    .label = Moɲoo woo šilbay
-    .accesskey = l
 
 ##
 

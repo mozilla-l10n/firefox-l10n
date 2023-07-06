@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Wa ši fatta
        *[other] Wa ši fatta
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Nda war ga goy bila nda ciyari alhaali ra, zumandi foo ga dere. War ga baa ka goy bila nda ciyari?
        *[other] Nda ga goy bila nda ciyari alhaali ra, { $downloadsCount } zumandey ga naŋandi. War ga baa ka goy bila nda ciyari?
     }
 download-ui-dont-go-offline-button = Wa cindi ciyari ra
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Nda war na sutura naarumi zanfuney kul daabu sohõ, zumandi 1 ga dere. Alhakiika war ga baa ka sutura alhaali naŋ?
        *[other] Nda war na sutura naarumi zanfuney kul daabu sohõ, zumandi { $downloadsCount } ga dere. Alhakiika war ga baa ka sutura alhaali naŋ?
     }
 download-ui-dont-leave-private-browsing-button = Wa cindi sutura naarumi ra
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Zumandi 1 naŋ

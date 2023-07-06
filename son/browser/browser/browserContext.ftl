@@ -175,14 +175,6 @@ main-context-menu-audio-email =
     .label = Jinde tukoo sanba…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Sukaroo woo tunandi
-    .accesskey = a
-
-main-context-menu-plugin-hide =
-    .label = Sukaroo woo tugu
-    .accesskey = k
-
 main-context-menu-send-to-device =
     .label = Moɲoo sanba jinaa ga
     .accesskey = j
@@ -220,10 +212,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Kungaa dam taaga
     .accesskey = d
-
-main-context-menu-frame-bookmark =
-    .label = Kungaa woo šilbay
-    .accesskey = K
 
 main-context-menu-frame-save-as =
     .label = Kunga gaabu sanda…

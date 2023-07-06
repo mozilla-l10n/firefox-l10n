@@ -22,5 +22,7 @@ state-header = Alhaali
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Šilbayhayey
+
 update-installed-on = Sinjiyan han: { $date }
+
 update-status = Assariya: { $status }

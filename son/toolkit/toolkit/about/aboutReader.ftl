@@ -4,6 +4,7 @@
 
 about-reader-loading = Goo ma zumandi…
 about-reader-load-error = Mana hin ka hantumoo zumandi moɲoo ga
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = Zanfuney nda kanjey
 browser-data-session-label =
     .value = Zanfuney nda kanjey
+

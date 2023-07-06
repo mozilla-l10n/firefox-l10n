@@ -83,6 +83,8 @@ sandbox-sys-call-tid = TID
 
 audio-backend = Jinde bendoo
 
+## Codec support table
+
 ##
 
 

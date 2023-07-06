@@ -32,6 +32,7 @@ cert-error-details-cert-chain-label = Tabatiyan-tiira tenjiri:
 
 connectionFailure-title = Ši hin ka ciya
 deniedPortAccess-title = Aderesoo ga dafandi
+
 fileNotFound-title = Tuku mana diyandi
 fileAccessDenied-title = Tukoo duuyanoo mongu
 generic-title = Jalla!

@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Goo ma tabatiyan-tiira zumandi
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Goo ma tabatiyan-tiira zumandi
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Hawgay: Nda war dirŋa war tabatiyan-tiira banda-gaabu �
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Tammaasa lasal-tabatandiyan jejebante
-protected-auth-msg = Taare tammaasa lasal-tabatandi. Lasal-tabatandiyan dabaroo ma tenji nda war boŋ tammaasa dumoo.
-protected-auth-token = Tammaasa:
+## Protected authentication alert
+

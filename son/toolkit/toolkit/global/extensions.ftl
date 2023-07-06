@@ -22,6 +22,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Naŋ
     .accesskey = N
+
 webext-perms-sideload-text = Porogaram tana foo na tontoni foo dam war ordinateroo ga kaŋ ga hin ka ceecikaa nakaši. Tontonoo woo duɲeyan hãayaney guna ka boori, de wa Tunandi suuba wala Kayandi (nd'a ši dira).
 webext-perms-sideload-text-no-perms = Porogaram tana foo na tontoni foo dam war ordinateroo ga kaŋ ga hin ka ceecikaa nakaši. Tontonoo woo duɲeyan hãayaney guna ka boori, de wa Tunandi suuba wala Kayandi (nd'a ši dira).
 webext-perms-sideload-enable =
@@ -30,9 +31,11 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Naŋ
     .accesskey = N
+
 webext-perms-update-accept =
     .label = Taagandi
     .accesskey = T
+
 webext-perms-optional-perms-list-intro = A ga boona ka:
 webext-perms-optional-perms-allow =
     .label = Noo fondo
@@ -40,10 +43,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Wanji
     .accesskey = W
+
 webext-perms-host-description-all-urls = Duu war bayhayey interneti nungey kul se
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Duu war barhayey nungey kaŋ goo { $domain } laamaa ra
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -55,6 +61,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Duu war bayhayey { $domain } se
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

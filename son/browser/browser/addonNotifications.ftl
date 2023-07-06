@@ -24,6 +24,7 @@ xpinstall-disabled = Goyjinay sinjiyanoo kayandi sohõ. Tunandi naagu ka ceeci k
 xpinstall-disabled-button =
     .label = Tunandi
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } tontonandi { -brand-short-name } ga
@@ -41,6 +42,7 @@ addon-downloading-and-verifying =
        *[other] Goo ma tontoni { $addonCount } zumandi k'i koroši…
     }
 addon-download-verifying = Goo ma koroši
+
 addon-install-cancel-button =
     .label = Naŋ
     .accesskey = N

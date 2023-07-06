@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Hiney
 
-certmgr-edit-ca-cert =
-    .title = Tabatiyan-tiira hini naanay kayandiyaney fasal
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Tabatiyan-tiira hini naanay kayandiyaney fasal
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Tabatiyan-tiiraa woo ka hin ka bataga goykey tammaasa.
 
-certmgr-delete-cert =
-    .title = Tabatiyan-tiiraa woo tuusu
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Tabatiyan-tiiraa woo tuusu
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Feršikaw
-
-certmgr-override-lifetime =
-    .label = Hundimee
 
 certmgr-token-name =
     .label = Saajaw jinay

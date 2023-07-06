@@ -34,9 +34,11 @@ menu-quit =
             [windows] F
            *[other] F
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fatta { -brand-shorter-name } ra
+
 menu-about =
     .label = { -brand-shorter-name } ga
     .accesskey = a
@@ -192,8 +194,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Doo-šilbawey
     .accesskey = b
-menu-bookmark-edit =
-    .label = Doo-šilbaa woo fasal
 menu-bookmarks-all-tabs =
     .label = Kanjey kul doo-šilbay…
 menu-bookmarks-toolbar =
