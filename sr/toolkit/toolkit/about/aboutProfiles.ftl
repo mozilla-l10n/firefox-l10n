@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 profiles-title = О профилима
 profiles-subtitle = Управљајте профилима на овој страници. Сваки профил је независан и садржи засебну историју, обележиваче, подешавања и додатке.
 profiles-create = Направи нови профил
@@ -13,11 +14,13 @@ profiles-flush-fail-title = Промене нису сачуване
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Промене нису сачуване због неочекиване грешке.
 profiles-flush-restart-button = Поново покрени { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Профил: { $name }
 profiles-is-default = Подразумевани профил
 profiles-rootdir = Основна фасцикла
+
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -27,22 +30,28 @@ profiles-rootdir = Основна фасцикла
 profiles-localdir = Локална фасцикла
 profiles-current-profile = Овај профил се тренутно користи и не може бити обрисан.
 profiles-in-use-profile = Овај профил се користи на другој апликацији и не може бити обрисан.
+
 profiles-rename = Преименуј
 profiles-remove = Уклони
 profiles-set-as-default = Постави као подразумевани
 profiles-launch-profile = Покрени профил у новом прегледачу
+
 profiles-cannot-set-as-default-title = Није могуће поставити подразумевано
 profiles-cannot-set-as-default-message = Подразумевани профил се не може мењати за { -brand-short-name }.
+
 profiles-yes = да
 profiles-no = не
+
 profiles-rename-profile-title = Преименовање профила
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Изаберите нови назив профила „{ $name }”:
+
 profiles-invalid-profile-name-title = Неважећи назив профила
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Назив профила „{ $name }” није дозвољен.
+
 profiles-delete-profile-title = Брисање профила
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -52,6 +61,9 @@ profiles-delete-profile-confirm =
     Да ли желите да обришете датотеке профила?
 profiles-delete-files = Избриши датотеке
 profiles-dont-delete-files = Не бриши датотеке
+
 profiles-delete-profile-failed-title = Грешка
 profiles-delete-profile-failed-message = Дошло је до грешке приликом брисања овог профила.
+
+
 profiles-opendir = Прикажи у фасцикли

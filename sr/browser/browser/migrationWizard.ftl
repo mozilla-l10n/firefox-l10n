@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Увези податке прегледача
 migration-wizard-selection-list = Изаберите податке које желите да увезете.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Изаберите податке које ж�
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Увези изабране податке
 
 migration-select-all-option-label = Изабери све
 migration-bookmarks-option-label = Обележивачи
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Омиљено
+
 migration-logins-and-passwords-option-label = Сачуване пријаве и лозинке
 migration-history-option-label = Историја прегледања
 migration-extensions-option-label = Додаци
 migration-form-autofill-option-label = Подаци о аутоматском попуњавању образаца
 migration-payment-methods-option-label = Начини плаћања
+
 migration-cookies-option-label = Колачићи
 migration-session-option-label = Прозори и картице
 migration-otherdata-option-label = Остали подаци
+
 migration-passwords-from-file-progress-header = Увези датотеку са лозинкама
 migration-passwords-from-file-success-header = Лозинке су успешно увезене
 migration-passwords-from-file = Датотека се проверава за лозинке
 migration-passwords-new = Нове лозинке
 migration-passwords-updated = Постојеће лозинке
+
 migration-passwords-from-file-no-valid-data = Датотека не садржи важеће податке о лозинки. Изаберите другу датотеку.
+
 migration-passwords-from-file-picker-title = Увези датотеку са лозинкама
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -77,6 +85,7 @@ migration-passwords-from-file-csv-filter-title = CSV датотека
 # A description for the .tsv file format that may be shown as the file type
 # filter by the operating system. TSV is short for 'tab separated values'.
 migration-passwords-from-file-tsv-filter-title = TSV датотека
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -88,6 +97,7 @@ migration-wizard-progress-success-new-passwords =
         [few] Додана су { $newEntries }
        *[other] Додано је { $newEntries }
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -99,11 +109,14 @@ migration-wizard-progress-success-updated-passwords =
         [few] Ажурирана су { $updatedEntries }
        *[other] Ажурирано је { $updatedEntries }
     }
+
 migration-bookmarks-from-file-picker-title = Увоз датотеке са обележивачима
 migration-bookmarks-from-file-progress-header = Увоз обележивача
 migration-bookmarks-from-file = Обележивачи
 migration-bookmarks-from-file-success-header = Обележивачи су успешно увезени
+
 migration-bookmarks-from-file-no-valid-data = Датотека не садржи податке о обележивачима. Изаберите другу датотеку.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -111,9 +124,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML документ
        *[other] HTML датотека
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON датотека
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -125,12 +140,14 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } обележивача
        *[other] { $newEntries } обележивача
     }
+
 migration-import-button-label = Увези
 migration-choose-to-import-from-file-button-label = Увези из датотеке
 migration-import-from-file-button-label = Изабери датотеку
 migration-cancel-button-label = Откажи
 migration-done-button-label = Готово
 migration-continue-button-label = Настави
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } није успео да пронађе програме са подацима о обележивачима, историјом или лозинкама.
 migration-wizard-import-browser-no-resources = Дошло је до грешке. { -brand-short-name } није успео да пронађе податке за увоз из тог профила прегледача.
 
@@ -141,6 +158,7 @@ migration-wizard-import-browser-no-resources = Дошло је до грешке
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = обележивачи
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = омиљено
@@ -158,6 +176,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Увоз…
 migration-wizard-progress-icon-completed =
     .aria-label = Завршено
+
 migration-safari-password-import-header = Увези Safari лозинке
 migration-safari-password-import-steps-header = Да увезете Safari лозинке:
 migration-safari-password-import-step1 = У Safari-ју, отворите „Safari” мени и идите на Подешавања > Лозинке
@@ -166,6 +185,8 @@ migration-safari-password-import-step3 = Сачувајте датотеку с�
 migration-safari-password-import-step4 = Користите „Изабери датотеку“ испод да изаберете сачувану датотеку са лозинкама
 migration-safari-password-import-skip-button = Прескочи
 migration-safari-password-import-select-button = Изабери датотеку
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -177,6 +198,7 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } обележивача
        *[other] { $quantity } обележивача
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -206,6 +228,7 @@ migration-wizard-progress-success-extensions =
         [few] { $quantity } додатка
        *[other] { $quantity } додатака
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -213,10 +236,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } од { $quantity } додатака
+
 migration-wizard-progress-extensions-support-link = Сазнајте како { -brand-product-name } претражује одговарајуће додатке
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Нема одговарајућих додатака
+
 migration-wizard-progress-extensions-addons-link = Прегледајте додатке за { -brand-short-name }
 
 ##
@@ -232,6 +257,7 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } лозинке
        *[other] { $quantity } лозинки
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -243,7 +269,9 @@ migration-wizard-progress-success-history =
         [few] Од задња { $maxAgeInDays } дана
        *[other] Од задњих { $maxAgeInDays } дана
     }
+
 migration-wizard-progress-success-formdata = Историја образаца
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -255,6 +283,7 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } начина плаћања
        *[other] { $quantity } начина плаћања
     }
+
 migration-wizard-safari-permissions-sub-header = Да увезете Safari обележиваче и историју прегледања:
 migration-wizard-safari-instructions-continue = Изаберите „Настави”
 migration-wizard-safari-instructions-folder = Изаберите Safari фасциклу из списка, а затим „Отвори”

@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Обележи картице…
     .accesskey = б
-bookmark-tab =
-    .label = Обележи картицу
-    .accesskey = б
 tab-context-bookmark-tab =
     .label = Обележи картицу…
     .accesskey = О
@@ -105,6 +102,7 @@ tab-context-move-tabs =
            *[other] Премести картице
         }
     .accesskey = П
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

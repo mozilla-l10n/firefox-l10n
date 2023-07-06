@@ -14,6 +14,7 @@ xpinstall-prompt-message = Покушавате да инсталирате до
 
 xpinstall-prompt-header-unknown = Дозволити непознатом сајту да инсталира додатак?
 xpinstall-prompt-message-unknown = Покушавате да инсталирате додатак са непознатог сајта. Пре него што наставите размислите да ли верујете овом сајту.
+
 xpinstall-prompt-dont-allow =
     .label = Блокирај
     .accesskey = Б
@@ -44,6 +45,7 @@ xpinstall-disabled = Инсталација софтвера је тренутн
 xpinstall-disabled-button =
     .label = Омогући
     .accesskey = О
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = Администратор система је
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Администратор вашег система је спречио овом сајту да тражи дозволу за инсталирање софтвера.
 addon-install-full-screen-blocked = Инсталација додатака није дозвољена у режиму целог екрана.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Додатак { $addonName } је додат у { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } захтева новe дозволe
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Уклонити { $name }?
 addon-removal-message = Уклонити { $name } из { -brand-shorter-name }-а?
 addon-removal-button = Обриши
 addon-removal-abuse-report-checkbox = Пријави злоупотребу организацији { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -82,6 +87,7 @@ addon-downloading-and-verifying =
        *[other] Преузимање и провера { $addonCount } додатака…
     }
 addon-download-verifying = Проверавам
+
 addon-install-cancel-button =
     .label = Откажи
     .accesskey = О

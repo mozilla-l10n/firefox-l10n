@@ -14,37 +14,6 @@ onboarding-welcome-header = Добро дошли у { -brand-short-name }
 onboarding-start-browsing-button-label = Претражујте интернет
 onboarding-not-now-button-label = Не сада
 mr1-onboarding-get-started-primary-button-label = Увод
-mr1-onboarding-welcome-header =
-    Добро дошли у { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    }
-mr1-onboarding-set-default-pin-primary-button-label =
-    Постави програм { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    } као примарни прегледач
-    .title =
-        Sets { -brand-short-name.gender ->
-            [masculine] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
-            [feminine] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи је
-            [neuter] { -brand-short-name(case: "acc") } као подразумевани прегледач и качи га
-           *[other] програм { -brand-short-name } као подразумевани прегледач и качи га
-        } на траку задатака
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label =
-    Постави { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    } као подразумевани прегледач
-mr1-onboarding-set-default-secondary-button-label = Не сада
 
 ## Custom Return To AMO onboarding strings
 
@@ -69,48 +38,16 @@ mr1-return-to-amo-add-extension-label = Додај { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Први кораци: екран { $current } од { $total }
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Све почиње овде
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — дизајнерка намештаја, обожаватељка Firefox-а
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Напредак: корак { $current } од { $total }
+
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Искључи анимације
 
 ## Title and primary button strings differ between platforms as they
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Додајте { -brand-short-name } на траку задатака ради лакшег приступа
-       *[other] Закачите { -brand-short-name } на траку задатака ради лакшег приступа
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Додај на док
-       *[other] Закачи на траку задатака
-    }
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -120,40 +57,13 @@ mr1-onboarding-sign-in-button-label = Пријави ме
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header =
-    Постави { -brand-short-name.gender ->
-        [masculine] { -brand-short-name(case: "acc") }
-        [feminine] { -brand-short-name(case: "acc") }
-        [neuter] { -brand-short-name(case: "acc") }
-       *[other] програм { -brand-short-name }
-    } као подразумевани прегледач
-mr1-onboarding-default-subtitle = Брзина, безбедност и приватност пре свега.
-mr1-onboarding-default-primary-button-label = Постави као подразумевани прегледач
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-mr1-onboarding-import-header = Понесите све са собом
-mr1-onboarding-import-subtitle = Увезите лозинке, <br/>обележиваче и још много тога.
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Увези из прегледача { $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Увези из претходног прегледача
-mr1-onboarding-import-secondary-button-label = Не сада
-mr2-onboarding-colorway-header = Живот у боји
-mr2-onboarding-colorway-subtitle = Експресивне комбинације боја. Доступно ограничено време.
-mr2-onboarding-colorway-primary-button-label = Сачувајте комбинацију боја
-mr2-onboarding-colorway-secondary-button-label = Не сада
-mr2-onboarding-colorway-label-soft = Нежно
-mr2-onboarding-colorway-label-balanced = Уравнотежено
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Одважно
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Аутоматски
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Подразумевано
+
 mr1-onboarding-theme-header = Персонализација
 mr1-onboarding-theme-subtitle =
     Персонализујте { -brand-short-name.gender ->
@@ -162,14 +72,16 @@ mr1-onboarding-theme-subtitle =
         [neuter] { -brand-short-name(case: "acc") }
        *[other] програм { -brand-short-name }
     } помоћу теме.
-mr1-onboarding-theme-primary-button-label = Сачувај тему
 mr1-onboarding-theme-secondary-button-label = Не сада
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Системска тема
+
 mr1-onboarding-theme-label-light = Светла
 mr1-onboarding-theme-label-dark = Тамна
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Алпски жар
+
 onboarding-theme-primary-button-label = Готово
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -182,61 +94,49 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Користите тему оперативног система
         за дугмад, меније и прозоре.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         Користите тему оперативног система
         за дугмад, меније и прозоре.
+
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         Користите светлу тему за дугмад,
         меније и прозоре.
+
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         Користите светлу тему за дугмад,
         меније и прозоре.
+
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         Користите тамну тему за дугмад,
         меније и прозоре.
+
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         Користите тамну тему за дугмад,
         меније и прозоре.
+
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         Користите динамичку и живописну тему за дугмад,
         меније и прозоре.
+
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Користите динамичку и живописну тему за дугмад,
         меније и прозоре.
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Користите ову комбинацију боја.
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Користите ову комбинацију боја.
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Истражите { $colorwayName } комбинације боја.
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Истражите { $colorwayName } комбинације боја.
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Истражите подразумеване теме.
+
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Истражите подразумеване теме.
 
@@ -264,13 +164,18 @@ mr2-onboarding-start-browsing-button-label = Започни прегледање
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Изаберите ваш језик
+
 mr2022-onboarding-live-language-text = { -brand-short-name } говори вашим језиком
+
 mr2022-language-mismatch-subtitle = Захваљујући нашој заједници, { -brand-short-name } је преведен на преко 90 језика. Изгледа да ваш систем користи { $systemLanguage }, а { -brand-short-name } користи { $appLanguage } језик.
+
 onboarding-live-language-button-label-downloading = Преузимање језичког пакета за { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Добављање доступних језика…
 onboarding-live-language-installing = Инсталирање језичког пакета за { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = Пребаците на { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Наставите са { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Откажи
 onboarding-live-language-skip-button-label = Прескочи
 
@@ -293,12 +198,14 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Остави { -brand-short-name } у доку
        *[other] Закачи { -brand-short-name } на траку
     }
+
 fx100-upgrade-thanks-header = 100 захвалница
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Ово је стото издање програма { -brand-short-name }. <em>Хвала вам</em> што нам помажете у изградњи бољег и здравијег интернета.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Ово је наше стото издање! Хвала вам што сте део наше заједнице. Нека { -brand-short-name } буде близу вас и у наредних 100 издања.
+
 mr2022-onboarding-secondary-skip-button-label = Прескочи овај корак
 
 ## MR2022 New User Easy Setup screen strings
@@ -375,30 +282,37 @@ mr2022-onboarding-colorway-title = Изаберите боју која вас �
 mr2022-onboarding-colorway-subtitle = Независни гласови могу да промене културу.
 mr2022-onboarding-colorway-primary-button-label-continue = Подеси и настави
 mr2022-onboarding-existing-colorway-checkbox-label = Подесите { -firefox-home-brand-name } боје по свом укусу
+
 mr2022-onboarding-colorway-label-default = Подразумевано
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Тренутне { -brand-short-name } боје
 mr2022-onboarding-colorway-description-default = <b>Користи моје тренутне { -brand-short-name } боје.</b>
+
 mr2022-onboarding-colorway-label-playmaker = Плејмејкер
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Плејмејкер (црвено)
 mr2022-onboarding-colorway-description-playmaker = <b>Плејмејкер.</b> Стварате прилике за победе и помажете свима око себе да подигну ниво своје игре.
+
 mr2022-onboarding-colorway-label-expressionist = Екпресионизам
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = Екпресионизам (жуто)
 mr2022-onboarding-colorway-description-expressionist = <b>Експресионизам.</b> На свет гледате другачије и ваш рад изазива снажна осећања код других.
+
 mr2022-onboarding-colorway-label-visionary = Визионарски
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = Визионарски (зелено)
 mr2022-onboarding-colorway-description-visionary = <b>Визионарски.</b> Доводите у питање стање ствари око себе и побуђујете друге да размишљају о бољој будућности.
+
 mr2022-onboarding-colorway-label-activist = Активизам
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = Активизам (плаво)
 mr2022-onboarding-colorway-description-activist = <b>Активизам.</b> Чините свет бољим него што је био претходног дана и изазивате друге да верују у промене.
+
 mr2022-onboarding-colorway-label-dreamer = Сањарски
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = Сањарски (љубичасто)
 mr2022-onboarding-colorway-description-dreamer = <b>Сањарски.</b> Верујете да срећа прати храбре и инспиришете друге да буду храбрији.
+
 mr2022-onboarding-colorway-label-innovator = Проналазачки
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = Проналазачки (наранџасто)

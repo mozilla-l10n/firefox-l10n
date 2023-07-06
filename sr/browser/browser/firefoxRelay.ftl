@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Морате се пријавити у { -fxa
 firefox-relay-get-unlimited-masks =
     .label = Управљај маскама
     .accesskey = У
-firefox-relay-opt-in-title = Заштитите вашу адресу е-поште
-firefox-relay-opt-in-subtitle = Додајте { -relay-brand-name }
-firefox-relay-generate-mask-title = Заштитите вашу адресу е-поште
-firefox-relay-generate-mask-subtitle = Направите { -relay-brand-short-name } маску
-firefox-relay-opt-in-confirmation-enable =
-    .label = Настави
-    .accesskey = Н
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Заштитите вашу адресу е-поште:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
