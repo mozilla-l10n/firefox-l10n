@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = منتظم
 
-certmgr-edit-ca-cert =
-    .title = سرٹئفیكیٹ CA بروسئ مند سیٹینگسن كریو ادارت
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = سرٹئفیكیٹ CA بروسئ مند سیٹینگسن كریو ادارت
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = یئ سرٹئفیكیٹ پرزناوئ  میل استیمال كرئن وال۪ین
 
-certmgr-delete-cert =
-    .title = سرٹیفکیٹ  كریو خئرج
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = سرٹیفکیٹ  كریو خئرج
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = سرور
-
-certmgr-override-lifetime =
-    .label = پورئ عمر۪ی
 
 certmgr-token-name =
     .label = حفئظتی عالئ

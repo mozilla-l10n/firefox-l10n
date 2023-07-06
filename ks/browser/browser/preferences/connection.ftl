@@ -11,21 +11,27 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = آٹو ڈیٹیكٹ پراكزی سیٹینگس یم۪ی نیٹورك خٲطرئ
     .accesskey = w
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = مثلن: mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = ری لوڈ
     .accesskey = e
+
 connection-proxy-autologin =
     .label = پرامپٹْہ مْہ کْریو تصدیق باپت اگر پاس وأرڈ محفوظ کرنْہ یِیہ
     .accesskey = پ
     .tooltip = یہ اوپشن چُھ خاموشی سان تصدیق کران توہیہ پراکزی ین کُن ییلہ توہیہ محفوظ کران چھیو کریڈینشل تِمن باپت۔ توہیہ یِیہ پرامپٹْہ دِنْہ اگر تصدیق ناکام گژھِ۔
+
 connection-proxy-autologin-checkbox =
     .label = پرامپٹْہ مْہ کْریو تصدیق باپت اگر پاس وأرڈ محفوظ کرنْہ یِیہ
     .accesskey = پ
     .tooltiptext = یہ اوپشن چُھ خاموشی سان تصدیق کران توہیہ پراکزی ین کُن ییلہ توہیہ محفوظ کران چھیو کریڈینشل تِمن باپت۔ توہیہ یِیہ پرامپٹْہ دِنْہ اگر تصدیق ناکام گژھِ۔
+

@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = سرٹیفکیٹ  ڈاونلوڈ كران
-    .style = width: 46em
-
 download-cert-window2 =
     .title = سرٹیفکیٹ  ڈاونلوڈ كران
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = ضروری:  اگر توہیہ مشید گژھ تُہن�
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = محفوظ ٹوكن تصدیق
-protected-auth-msg = مہربأنی کْرتھ کْریو تصدیق ٹوکنس۔ تصدیق میتھڈ چُھ دارمدار تھاوان ٹوکن کِس ٹایپس پیٹھ۔
-protected-auth-token = ٹوكن
+## Protected authentication alert
+

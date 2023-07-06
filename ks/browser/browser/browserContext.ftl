@@ -167,14 +167,6 @@ main-context-menu-audio-email =
     .label = ویڈیو  كریو ای میل
     .accesskey = و
 
-main-context-menu-plugin-play =
-    .label = یہ پْلگ اِن کْریو ایکٹیویٹ&
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = یہ پْلگ اِن کْریو ہایِڈ&
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -204,10 +196,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = فریم كریو ری لوڈ
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = یتھ فریمس تھٲویو   نشان   ۔۔۔
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = فریم تھٲویو محفوظ اتھ كئن...

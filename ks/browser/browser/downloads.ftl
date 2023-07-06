@@ -74,10 +74,12 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = ڈاون لوڈ کْریو کْلیر
     .tooltiptext = چُھ کْلیر کران مُکمل، کینسل کرنْہ آمْت تْہ فیل گأمِت ڈاون لوڈ
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = کانہہ ڈاون لوڈ چُھ نْہ۔
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = یتھ سیشنس باپت چُھ نْہ کانہہ ڈاون لوڈ۔

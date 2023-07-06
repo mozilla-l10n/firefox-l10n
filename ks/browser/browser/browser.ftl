@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (پوشیدئ براوزِنگ)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (پوشیدئ براوزِنگ)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (پوشیدئ براوزِنگ)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (پوشیدئ براوزِنگ)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -65,6 +32,7 @@ browser-main-window-title = { -brand-full-name }
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بوک مارْک کْریو ایڈیٹ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -143,8 +111,10 @@ popup-all-windows-shared = تُہندس سکرینس پیٹھ تمام ظأہر 
 
 urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
+
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
+
 urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
 
@@ -193,8 +163,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = یئ نشان زَد كریو ایڈيٹ
 bookmarks-toolbar-menu =
     .label = نشان زد ٹول بار
 bookmarks-toolbar-placeholder =
@@ -216,16 +184,19 @@ bookmarks-toolbar-placeholder-button =
 toolbar-button-email-link =
     .label = ایمیل لینک
     .tooltiptext = ایمیل کْریو اکھ لینک یتھ پیجس کُن
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = پیج کْریو محفوظ
     .tooltiptext = یہ پیج کْریو محفوظ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = فایل كھولیو
     .tooltiptext = اکھ فایل کْریو اوپْن({ $shortcut })
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -253,6 +224,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } خٲطرئ دیو پاپ اَپسن اجازت
     .accesskey = p
+
 popups-infobar-block =
     .label = { $uriHost } خٲطرئ كریو  پاپ اَپسن بند
     .accesskey = p
@@ -274,20 +246,25 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = ڈاؤن لوڈز
+
 navbar-overflow =
     .tooltiptext = مزید ٹول ۔ ۔ ۔
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = پرینٹ
     .tooltiptext = یہ پیج کْریو پرینٹ ۔ ۔ ۔ ({ $shortcut })
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = براوزر ٹیبس
+
 tabs-toolbar-new-tab =
     .label = نئو ٹیب
+
 tabs-toolbar-list-all-tabs =
     .label = سارنی ٹیبن ہیوند فہرست بنٲویو
     .tooltiptext = سارنی ٹیبن ہیوند فہرست بنٲویو
@@ -309,10 +286,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ئن دیوت نئ یَتھ صفحس پانٲی لوڈ گژھنئ
 refresh-blocked-redirect-label = { -brand-short-name }  ئن دیوت نئ یتھ صفحس بییس صفحس منز پانٲی گژھنئ
+
 refresh-blocked-allow =
     .label = اجازتھ
     .accesskey = A
@@ -326,11 +307,14 @@ refresh-blocked-allow =
 ## Pop-up Notification
 
 
+## Add-on Pop-up Notifications
+
 ## Pop-up warning
 
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message = ان رُکأو یہ سایِٹ اکھ پاپ۔اپ وینڈو کھولنْہ نِش۔؛ ان رُکأو یہ سایِٹ اکھ پاپ۔اپ وینڈو کھولنْہ نِش۔#۲{ -brand-short-name }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

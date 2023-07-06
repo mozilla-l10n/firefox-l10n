@@ -16,7 +16,6 @@ styleeditor-save-button = محفوظ کریو
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = سٹایل ایڈیٹر اوپشن
-styleeditor-media-rules = @میڈیا اصول
 styleeditor-editor-textbox =
     .data-placeholder = CSS كریو یَت۪یتھ ٹایپ
 styleeditor-no-stylesheet = یٹھ صفحس چھُ نئ كہین تئ سٹایل شیٹ
@@ -27,6 +26,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = ریخ۪ی منز گژھیو
     .accesskey = J
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

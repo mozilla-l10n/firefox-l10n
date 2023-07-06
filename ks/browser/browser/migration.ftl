@@ -81,3 +81,4 @@ browser-data-session-checkbox =
     .label = وِنڈوز تئ ٹیبس
 browser-data-session-label =
     .value = وِنڈوز تئ ٹیبس
+

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] مكلئویو مئ
        *[other] نیریو مئ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] اگر توہیہ آف لایِن گْژھیو وْنئ، ۱ ڈاون لوڈ گژھ کینسل۔ کیاہ توہیہ چھیو یژھان پْز پأٹھ آف لایِن گژھُن؟
        *[other] اگر توہیہ آف لایِن گْژھیو وْنئ، { $downloadsCount } ڈاون لوڈ گژھ کینسل۔ کیاہ توہیہ چھیو یژھان پْز پأٹھ آف لایِن گژھُن؟
     }
 download-ui-dont-go-offline-button = آن لائن روزیو
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] اگر توہیہ تمام پرایوٹ براوزینگ وینڈو  بند کْریو وْنئ، ۱ ڈاون لوڈ گژھ کینسل۔ کیاہ توہیہ چھیو یژھان پْز پأٹھ تراوْنی پرایوٹ براوزینگ؟
        *[other] اگر توہیہ تمام پرایوٹ براوزینگ وینڈو  بند کْریو وْنئ، { $downloadsCount } ڈاون لوڈ گژھ کینسل۔ کیاہ توہیہ چھیو یژھان پْز پأٹھ تراوْنی پرایوٹ براوزینگ؟
     }
 download-ui-dont-leave-private-browsing-button = پوشیدئ  براوزِنگ موڈ س منز روزیو
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1  ڈاون لوڈ كریو منسوخ

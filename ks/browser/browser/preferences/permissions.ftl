@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = توہیہ ہیکیو  مخصوص کْرت�
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

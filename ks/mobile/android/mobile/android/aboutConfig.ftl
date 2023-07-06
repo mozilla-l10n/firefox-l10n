@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = ژانڈیو
 config-new-pref-name =
     .placeholder = ناو
+
 config-new-pref-value-boolean = بہہلین
 config-new-pref-value-string = سٹرنگ
 config-new-pref-value-integer = انٹیجر
+
 config-new-pref-string =
     .placeholder = لیخیو اکھ اسٹرنگ
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = منسوکھ
 config-new-pref-create-button = بناو٘ن
 config-new-pref-change-button = بدلایو
+
 config-pref-toggle-button = ٹوگل
 config-pref-reset-button = ریسٹ
+
 config-context-menu-copy-pref-name =
     .label = ناو کریو کاپی
 config-context-menu-copy-pref-value =

@@ -51,6 +51,8 @@ sandbox-title = سینڈ بوکْس
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

@@ -146,6 +146,8 @@ menu-view-full-screen =
     .label = پورئ پردہ
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -176,8 +178,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = نشانئ زد{ " " }
     .accesskey = B
-menu-bookmark-edit =
-    .label = یئ نشان زَد كریو ایڈيٹ
 menu-bookmarks-all-tabs =
     .label = سارنی ٹیبن تھٲویو نشان
 menu-bookmarks-toolbar =

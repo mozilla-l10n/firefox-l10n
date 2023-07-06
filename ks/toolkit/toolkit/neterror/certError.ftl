@@ -22,6 +22,7 @@ cert-error-untrusted-default = سرٹئفیكیٹ چھئ نئ آمژ بروسئ 
 
 connectionFailure-title = ہیك نئ رٲبطئ كر۪یتھ
 deniedPortAccess-title = یئ پتئ چھُ زٲتی
+
 fileNotFound-title = فایل آی نئ اتھ۪ی
 generic-title = اوہ
 netInterrupt-title = رٲبطس منز پیو خلل
