@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = Sobre o registo
 about-logging-page-title = Gestor de registo
 about-logging-current-log-file = Ficheiro de registo atual:
-about-logging-current-log-modules = Módulos de registo atual:
 about-logging-new-log-file = Novo ficheiro de registo:
 about-logging-currently-enabled-log-modules = Módulos de registo atualmente ativos:
 about-logging-log-tutorial = Consulte <a data-l10n-name="logging">HTTP Logging</a> para instruções sobre como utilizar esta ferramenta.
@@ -53,6 +50,7 @@ about-logging-preset-media-playback-label = Reprodução de multimédia
 about-logging-preset-media-playback-description = Módulos de registo para diagnosticar problemas de reprodução de media (não incluí problemas de videoconferência)
 about-logging-preset-custom-label = Personalizar
 about-logging-preset-custom-description = Módulos de registo selecionados manualmente
+
 # Error handling
 about-logging-error = Erro:
 
@@ -66,4 +64,5 @@ about-logging-unknown-profiler-preset = Modelo de gerador de perfis desconhecido
 about-logging-unknown-option = Opção about:logging “{ $k }“ desconhecida
 about-logging-configuration-url-ignored = URL de configuração ignorado
 about-logging-file-and-profiler-override = Não é possível forçar a saída para ficheiro e substituir as opções do gerador de perfis em simultâneo
+
 about-logging-configured-via-url = Opção configurada via URL
