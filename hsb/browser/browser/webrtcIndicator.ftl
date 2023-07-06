@@ -30,6 +30,7 @@ webrtc-item-browser = rajtark
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Njeznaty pochad
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Graty, kotrež so rajtarki dźěla
     .accesskey = G
+
 webrtc-sharing-window = Dźěliće wokno druheho nałoženja.
 webrtc-sharing-browser-window = Dźěliće { -brand-short-name }.
 webrtc-sharing-screen = Dźěliće swoju cyłu wobrazowku.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Dźělenje wodźić
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Dźělenje na "{ $streamTitle }" wodźić
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kameru z "{ $streamTitle }" dźělić
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -101,6 +104,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Kamera so z { $tabCount } rajtarkami dźěli
            *[other] Kamera so z { $tabCount } rajtarkami dźěli
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofon z "{ $streamTitle }" dźělić
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,6 +115,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Mikrofon so z { $tabCount } rajtarkami dźěli
            *[other] Mikrofon so z { $tabCount } rajtarkami dźěli
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Nałoženje z "{ $streamTitle }" dźělić
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -121,6 +126,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Nałoženja so z { $tabCount } rajtarkami dźěla
            *[other] Nałoženja se z { $tabCount } rajtarkami dźěla
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Wobrazowku z "{ $streamTitle }" dźělić
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -131,6 +137,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Wobrazowka so z { $tabCount } rajtarkami dźěli
            *[other] Wobrazowka so z { $tabCount } rajtarkami dźěli
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Wokno z "{ $streamTitle }" dźělić
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -141,6 +148,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Wokno so z { $tabCount } rajtarkami dźěli
            *[other] Wokno so z { $tabCount } rajtarkami dźěli
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Rajtark z "{ $streamTitle }" dźělić
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -175,7 +183,6 @@ webrtc-allow-share-screen-and-audio-capture = Chceće { $origin } dowolić, na a
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, na awdio tutoho rajtarka poskać?
 webrtc-allow-share-camera-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašej kamerje dawa?
-webrtc-allow-share-microphone-unsafe-delegations = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa?
 webrtc-allow-share-microphone-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } přistup k wašemu mikrofonej dawa?
 webrtc-allow-share-screen-unsafe-delegation = Chceće { $origin } dowolić, zo { $thirdParty } dowolnosć dawa, swoju wobrazowku widźeć?
 # "Speakers" is used in a general sense that might include headphones or
@@ -190,6 +197,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Chceće { $origi
 
 webrtc-share-screen-warning = Dźělće jenož wobrazowki ze sydłami, kotrymž dowěriće. Dźělenje móže wobšudnym sydłam zmóžnić, jako wy přehladować a waše priwatne daty kradnyć.
 webrtc-share-browser-warning = Dźělće { -brand-short-name } jenož ze sydłami, kotrymž dowěriće. Dźělenje móže wobšudnym sydłam zmóžnić, jako wy přehladować a waše priwatne daty kradnyć.
+
 webrtc-share-screen-learn-more = Dalše informacije
 webrtc-pick-window-or-screen = Wubjerće wokno abo wobrazowku
 webrtc-share-entire-screen = Cyła wobrazowka
@@ -227,6 +235,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Tutón rozsud sej spomjatkować
 webrtc-mute-notifications-checkbox = Zdźělenki websydła při dźělenju zněmić
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } njemóže trajny přistup k wašej wobrazowce dopušćić.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } njemóže trajny přistup k awdiu wašeho rajtarka dowolić bjez toho, zo by so prašał, kotry ma so dźělić.
 webrtc-reason-for-no-permanent-allow-insecure = Waš zwisk z tutym sydłom wěsty njeje. Zo by was škitał, { -brand-short-name } jenož přistup za tute posedźenje dowoli.

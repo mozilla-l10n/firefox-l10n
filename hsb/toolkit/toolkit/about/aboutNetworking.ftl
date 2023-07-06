@@ -34,13 +34,6 @@ about-networking-messages-received = Přijate powěsće
 about-networking-bytes-sent = Pósłane bajty
 about-networking-bytes-received = Přijate bajty
 about-networking-logging = Protokolowanje
-about-networking-log-tutorial = Hlejće <a data-l10n-name="logging">HTTP-protokolowanje</a> za instrukcije wo tym, kak so tutón nastroj wužiwa.
-about-networking-current-log-file = Aktualna protokolowa dataja:
-about-networking-current-log-modules = Aktualne protokolowe module:
-about-networking-set-log-file = Protokolowu dataju postajić
-about-networking-set-log-modules = Protokolowe module postajić
-about-networking-start-logging = Protokolowanje započeć
-about-networking-stop-logging = Protokolowanje skónčić
 about-networking-dns-lookup = DNS-pytanje
 about-networking-dns-lookup-button = Rozeznać
 about-networking-dns-domain = Domena:

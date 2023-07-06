@@ -22,10 +22,12 @@ about-private-browsing-not-private = Tuchwilu njejsće w priwatnym woknje.
 about-private-browsing-info-description-private-window = Priwatne wokno: { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće.  Přez to njebudźeće anonymny.
 about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće, ale přez to njebudźeće anonymny.
 about-private-browsing-learn-more-link = Dalše informacije
+
 about-private-browsing-hide-activity = Schowajće swoju aktiwitu a stejnišćo, hdźežkuli wobhladowak wužiwaće
 about-private-browsing-get-privacy = Wobstarajće sej škit priwatnosće wšudźe, hdźež přehladujeće
 about-private-browsing-hide-activity-1 = Schowajće přehladowansku aktiwitu a stejnišćo z { -mozilla-vpn-brand-name }. Z jednym kliknjenjom wutworiće zwisk, samo w zjawnym WLAN:
 about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla-vpn-brand-name }
+
 about-private-browsing-focus-promo-cta = { -focus-brand-name } sćahnyć
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus po puću
 about-private-browsing-focus-promo-text = Naše mobilne, za priwatny modus myslene nałoženje wašu historiju a placki kóždy čas prózdni.
@@ -36,6 +38,7 @@ about-private-browsing-focus-promo-header-b = Přinjesće priwatne přehladowanj
 about-private-browsing-focus-promo-text-b = Wužiwajće { -focus-brand-name } za te priwatne pytanja, kotrež nima waš hłowny mobilny wobhladowak widźeć.
 about-private-browsing-focus-promo-header-c = Priwatnosć přichodneho schodźenka za mobilne graty
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wašu historiju kóždy raz zhaša, hdyž wabjenje a přesćěhowaki blokujeće.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -48,6 +51,7 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Začinić
+
 about-private-browsing-promo-close-button =
     .title = Začinić
 

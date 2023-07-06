@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Njewotwisne hłosy
-colorway-collection-independent-voices-description = Barba móže kulturu změnić. Najnowše barbowe kombinacije hłosy swjeća, kotrež swět k lěpšemu městnu činja.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Barby, kotrež kulturu měnjeja.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Wodźacy hrajer
