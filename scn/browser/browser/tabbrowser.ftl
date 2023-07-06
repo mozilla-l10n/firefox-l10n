@@ -42,3 +42,6 @@ tabbrowser-confirm-close-tabs-button = Chiuji schedi
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Lista tutti i { $tabCount } schedi
+
+## Tab manager menu buttons
+

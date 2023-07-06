@@ -11,11 +11,6 @@ about-logins-page-title = Accessi e chiavi
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Cerca nnê cridinziali
-
-create-login-button = Crea nova cridinziali
-
 fxaccounts-sign-in-text = Vidi i to chiavi nna tutti i to dispusitivi
 fxaccounts-avatar-button =
     .title = Gistisci cuntu
@@ -80,9 +75,10 @@ login-item-copied-password-button-text = Cupiatu!
 login-item-save-changes-button = Sarba canciamenti
 login-item-save-new-button = Sarba
 login-item-cancel-button = Sfai
-login-item-time-changed = Ùrtimu canciamentu: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Criatu: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Ùrtimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -109,6 +105,11 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Livari sta cridinziali?
 confirm-delete-dialog-message = St'azziuni nun si po sfari.
 about-logins-confirm-remove-dialog-confirm-button = Leva
+
+## Variables
+##   $count (number) - Number of items
+
+##
 
 confirm-discard-changes-dialog-title = Scartari i canciamenti nun sarbati?
 confirm-discard-changes-dialog-message = Pirdirai tutti i canciamenti nun sarbati.

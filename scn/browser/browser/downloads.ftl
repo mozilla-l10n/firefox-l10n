@@ -85,3 +85,5 @@ downloads-clear-downloads-button =
     .label = Pulizzìa i scarricamenti
     .tooltiptext = Leva scarricamenti cunchiujuti, sfalluti e falluti
 
+## Download errors
+

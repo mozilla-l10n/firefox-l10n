@@ -5,6 +5,7 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Finisci cunfijurazziuni dû cuntu
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Manna a tutti i dispusitivi
 
@@ -23,8 +24,10 @@ account-send-to-all-devices-titlecase = Manna a tutti i dispusitivi
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Nuḍḍu dispusitivu cunnessu
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Cchiù nfurmazziuna supra a comu mannari schedi…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Cunnetti n'autru dispusitivu…
 
@@ -39,10 +42,13 @@ account-send-tab-to-device-verify = Virìfica u to cuntu…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Stu computer è culligatu cu { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Stu computer ora è culligatu c'un dispusitivu novu.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Sissiuni raputa
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Stu computer fu sculligatu.
 
@@ -54,6 +60,7 @@ account-single-tab-arriving-title = Scheda ricivuta
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Scheda di { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -66,6 +73,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Schedi ricivuti
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

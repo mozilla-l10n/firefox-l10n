@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Ccizziuna
-    .style = width: 45em
-
 permissions-window2 =
     .title = Ccizziuna
     .style = min-width: 45em
@@ -75,20 +71,11 @@ permissions-invalid-uri-label = Metti nomu òspiti vàlidu
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
-    .style = { permissions-window.style }
-
 permissions-exceptions-etp-window2 =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window2.style }
-permissions-exceptions-etp-desc = Disattivasti i prutizziuna pi sti siti.
 
 ## Exceptions - Cookies
-
-permissions-exceptions-cookie-window =
-    .title = Ccizziuna - Cookie e dati dû situ
-    .style = { permissions-window.style }
 
 permissions-exceptions-cookie-window2 =
     .title = Ccizziuna - Cookie e dati dû situ
@@ -100,20 +87,12 @@ permissions-exceptions-cookie-desc = Po' spicificari quali siti ponnu o nun ponn
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Siti cunzintuti - Finestri autumàtichi
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Siti cunzintuti - Finestri autumàtichi
     .style = { permissions-window2.style }
 permissions-exceptions-popup-desc = Po' spicificari quali siti ponnu ràpiri finestri autumàtichi. Dìggita u nnirizzu giustu dû situ ô quali ci u vo' pirmèttiri e poi ammacca Pirmetti.
 
 ## Exceptions - Saved Logins
-
-permissions-exceptions-saved-logins-window =
-    .title = Ccizziuna - Accessi sarbati
-    .style = { permissions-window.style }
 
 permissions-exceptions-saved-logins-window2 =
     .title = Ccizziuna - Accessi sarbati
@@ -122,10 +101,6 @@ permissions-exceptions-saved-logins-desc = L'accessi pi i siti appressu nun venn
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
-    .style = { permissions-window.style }
-
 permissions-exceptions-addons-window2 =
     .title = Siti cunzintuti - Nstallazziuni di agghiuncitini
     .style = { permissions-window2.style }
@@ -133,20 +108,12 @@ permissions-exceptions-addons-desc = Po' spicificari quali siti ponnu nstallari 
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Mpustazziuna - Ripruduzziuni autumàtica
-    .style = { permissions-window.style }
-
 permissions-site-autoplay-window2 =
     .title = Mpustazziuna - Ripruduzziuni autumàtica
     .style = { permissions-window2.style }
 permissions-site-autoplay-desc = Cca po' spicificari i siti chi nun ànnu a rispittari i mpustazziuna pridifinuti pâ ripruduzziuni autumàtica.
 
 ## Site Permissions - Notifications
-
-permissions-site-notification-window =
-    .title = Mpustazziuna - Pirmisi di nutìfica
-    .style = { permissions-window.style }
 
 permissions-site-notification-window2 =
     .title = Mpustazziuna - Pirmisi di nutìfica
@@ -158,10 +125,6 @@ permissions-site-notification-disable-desc = Chistu mpidisci ê siti ca nun cump
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Mpustazziuna - Pirmisi di lucalizzazziuni
-    .style = { permissions-window.style }
-
 permissions-site-location-window2 =
     .title = Mpustazziuna - Pirmisi di lucalizzazziuni
     .style = { permissions-window2.style }
@@ -171,10 +134,6 @@ permissions-site-location-disable-label =
 permissions-site-location-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri â to pusizziuni. Bluccari l'accessu â to pusizziuni putissi fari sfarsijari certi carattirìstichi dû situ.
 
 ## Site Permissions - Virtual Reality
-
-permissions-site-xr-window =
-    .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
-    .style = { permissions-window.style }
 
 permissions-site-xr-window2 =
     .title = Mpustazziuna - Pirmisi pâ rialtà virtuali
@@ -186,10 +145,6 @@ permissions-site-xr-disable-desc = Chistu bluccarà tutti i siti ca nun sunnu el
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Mpustazziuna - Primisi fotucàmira
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Mpustazziuna - Primisi fotucàmira
     .style = { permissions-window2.style }
@@ -200,10 +155,6 @@ permissions-site-camera-disable-desc = Chistu mpidisci ê siti ca nun cumparìsc
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Mpustazziuna - Pirmisi micròfunu
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Mpustazziuna - Pirmisi micròfunu
     .style = { permissions-window2.style }
@@ -211,3 +162,8 @@ permissions-site-microphone-desc = I siti appressu dumannaru di accèdiri ô mic
 permissions-site-microphone-disable-label =
     .label = Blocca i novi dumanni d'accessu ô micròfunu
 permissions-site-microphone-disable-desc = Chistu mpidisci ê siti ca nun cumparìscinu supra di dumannari u pirmisu di accèdiri ô micròfunu. Bluccari l'accessu ô micròfunu putissi ncippari certi carattirìstichi dû situ.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

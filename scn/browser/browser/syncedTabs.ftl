@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Rapi
     .accesskey = R
-synced-tabs-context-open-in-new-tab =
-    .label = Rapi nta na scheda nova
-    .accesskey = n
-synced-tabs-context-open-in-new-window =
-    .label = Rapi nta na finestra nova
-    .accesskey = f
-synced-tabs-context-open-in-new-private-window =
-    .label = Rapi nta na finestra privata nova
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Agghiunci ê nzingalibbri…
-    .accesskey = A
 
 ##
 

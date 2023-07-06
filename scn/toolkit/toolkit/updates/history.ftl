@@ -23,5 +23,7 @@ state-header = Statu
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Minutagghi
+
 update-installed-on = Nzitatu u: { $date }
+
 update-status = Statu: { $status }

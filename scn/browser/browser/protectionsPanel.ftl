@@ -44,3 +44,6 @@ protections-panel-social-media-trackers = I riti suciali mèttinu trazzatura nni
 
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Sfai
+
+# Cookie Banner Handling
+

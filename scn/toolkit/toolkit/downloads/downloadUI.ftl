@@ -16,11 +16,13 @@ download-ui-confirm-quit-cancel-downloads-mac =
         [1] Si chiuji ora, u scarricamentu sfallirà. Cuntinuari?
        *[other] Si chiuji ora, { $downloadsCount } scarricamenti sfallirannu. Cuntinuari?
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si ti sculleghi ora, u scarricamentu sfallirà. Cuntinuari?
        *[other] Si ti sculleghi ora, { $downloadsCount } scarricamenti sfallirannu. Cuntinuari?
     }
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Si chiuji ora tutti i schedi di navigazziuni privata, u scarricamentu sfallirà. Cuntinuari?

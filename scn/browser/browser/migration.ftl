@@ -89,3 +89,4 @@ browser-data-session-checkbox =
     .label = Finestri e schedi
 browser-data-session-label =
     .value = Finestri e schedi
+

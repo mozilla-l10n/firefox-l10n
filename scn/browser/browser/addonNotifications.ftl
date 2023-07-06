@@ -14,6 +14,7 @@ xpinstall-prompt-message = Stai pruvannu a nzitari n'agghiuncitina di { $host }.
 
 xpinstall-prompt-header-unknown = Pirmèttiri a stu situ scanusciutu di nzitari n'agghiuncitina?
 xpinstall-prompt-message-unknown = Sta' pruvannu a nzitari n'agghiuncitina d'un situ scanusciutu. Pènzacci si ài fiducia nna stu situ, prima di cuntinuari.
+
 xpinstall-prompt-dont-allow =
     .label = Nun u pirmèttiri
     .accesskey = N
@@ -37,12 +38,14 @@ xpinstall-disabled = P'accamora u nzitamentu dî prugrammi è disabbilitatu. Amm
 xpinstall-disabled-button =
     .label = Abbìlita
     .accesskey = A
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) fu bluccatu di l'amministraturi dû to sistema.
 addon-install-full-screen-blocked = Nun è pussìbbili nzitari n'agghiuncitina quannu sì, o prima di tràsiri, 'n mudalità a tuttu schirmu.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } fu agghiunciutu a { -brand-short-name }
@@ -56,6 +59,7 @@ webext-perms-update-menu-item = { $addonName } addumanna novi pirmisi
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Livari { $name } di { -brand-shorter-name }?
 addon-removal-button = Leva
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -64,6 +68,7 @@ addon-downloading-and-verifying =
        *[other] Staju scarricannu e virificannu { $addonCount } agghiuncitini…
     }
 addon-download-verifying = Staju virificannu
+
 addon-install-cancel-button =
     .label = Sfai
     .accesskey = S

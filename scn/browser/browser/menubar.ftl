@@ -23,6 +23,7 @@ menu-application-hide-other =
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Nesci di { -brand-shorter-name }
+
 menu-about =
     .label = Supra { -brand-shorter-name }
     .accesskey = S
@@ -186,8 +187,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Nzingalibbri
     .accesskey = N
-menu-bookmark-edit =
-    .label = Cancia stu nzingalibbru
 menu-bookmarks-all-tabs =
     .label = Agghiunci tutti i schedi ê nzingalibbri…
 menu-bookmarks-toolbar =

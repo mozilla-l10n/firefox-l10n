@@ -45,6 +45,8 @@ library-version-title = Virsiuna libbrirìi
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

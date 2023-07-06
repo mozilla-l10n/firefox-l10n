@@ -7,3 +7,4 @@ styleeditor-open-link-new-tab =
 styleeditor-find =
     .label = Trova
     .accesskey = v
+
