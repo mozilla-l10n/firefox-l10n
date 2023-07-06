@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Aban
 
-certmgr-edit-ca-cert =
-    .title = Sesa CA abodin krataa agyedi nhyehyɛe
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Sesa CA abodin krataa agyedi nhyehyɛe
     .style = min-width: 48em;
@@ -29,10 +25,6 @@ certmgr-edit-cert-edit-trust = Sesa agyedi nhyehyɛe:
 
 certmgr-edit-cert-trust-email =
     .label = Saa abodin krataa yi betumi akyerɛ emel dwumadifo.
-
-certmgr-delete-cert =
-    .title = Diliite Abodin krataa
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Diliite Abodin krataa
@@ -43,9 +35,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Somfofidie
-
-certmgr-override-lifetime =
-    .label = Nkwa Nda
 
 certmgr-token-name =
     .label = Bambɔ Efidie

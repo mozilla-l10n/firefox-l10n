@@ -74,6 +74,7 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Pepa Ntwe
     .tooltiptext = Ewie apepa, atwa na egyae ntwe mu
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =

@@ -131,6 +131,8 @@ menu-view-full-screen =
     .label = Skreen Tɛtrɛtɛɛ
     .accesskey = t
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -161,8 +163,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Mbukmaak
     .accesskey = b
-menu-bookmark-edit =
-    .label = Sesa Bukmaak Yi
 menu-bookmarks-all-tabs =
     .label = Bukmaake Ntab Nyinara…
 menu-bookmarks-toolbar =

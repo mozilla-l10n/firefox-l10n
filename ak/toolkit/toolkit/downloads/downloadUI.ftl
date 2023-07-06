@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] Mma Nngyae
        *[other] Mma Mmpue
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Sɛ wo kɔ ɔflaen seiseiara a, wɔbetwa ntwe baako. Wo gye di sɛ wo pɛ sɛ wo kɔ ɔflaen?
        *[other] Sɛ wo kɔ ɔflaen seiseiara a, wɔbetwa ntwe { $downloadsCount } mu. Wo gye di sɛ wo pɛ sɛ wo kɔ ɔflaen?
     }
 download-ui-dont-go-offline-button = Gyina Ɔnlaen hɔ ara
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Twa Ntwe baako so

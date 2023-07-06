@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Ntokuro ne Ntab
 browser-data-session-label =
     .value = Ntokuro ne Ntab
+

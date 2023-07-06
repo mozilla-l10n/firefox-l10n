@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Wobetumi apaw awɛb saet a wɔwɔ kwan sɛ 
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

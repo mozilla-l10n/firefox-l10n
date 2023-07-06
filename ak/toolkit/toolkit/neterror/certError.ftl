@@ -20,6 +20,7 @@ cert-error-untrusted-default = Olukusa teruva mu kkubo lyesigika.
 
 connectionFailure-title = Nntumi nnkɔnɛkt
 deniedPortAccess-title = Wɔaka adrɛs yi ahyɛ
+
 fileNotFound-title = Ennhu fael no
 generic-title = Agyei.
 netInterrupt-title = Wotwaa kɔnɛkhyɛn ne so

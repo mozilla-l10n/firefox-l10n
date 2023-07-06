@@ -159,14 +159,6 @@ main-context-menu-video-email =
     .label = Emel video…
     .accesskey = m
 
-main-context-menu-plugin-play =
-    .label = Kenyan plagin yi
-    .accesskey = n
-
-main-context-menu-plugin-hide =
-    .label = Suma plagin yi
-    .accesskey = S
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -196,10 +188,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = San Lood Frem
     .accesskey = S
-
-main-context-menu-frame-bookmark =
-    .label = Bukmaake Frem Yi
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Sie Frem Sɛ…

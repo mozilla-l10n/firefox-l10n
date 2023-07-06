@@ -22,5 +22,7 @@ state-header = Tebea
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = nhunumu
+
 update-installed-on = instɔlee da yi: { $date }
+
 update-status = tebea: { $status }

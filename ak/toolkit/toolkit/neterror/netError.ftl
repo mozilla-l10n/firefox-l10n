@@ -22,6 +22,17 @@ neterror-load-error-try-again = Etumi ba no sɛ kwan nnda hɔ mma saet no anaaso
 neterror-load-error-connection = Sɛ wonntumi nnhu krataafa biara a, hwɛ wo kɔmputa nɛtwɛk no mu.
 neterror-load-error-firewall = Sɛ prɔksi anaaso ogyaban bɔ wo nɛtwɛk ne ho ban a, hwɛ  sɛ { -brand-short-name } wɔ ho kwan sɛ ɔbɛkɔ Wɛb no so.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Hwɛ fael ne din sɛ wo annyɛ mfomso biara wɔ bere a wo rekyerɛw din no.
 neterror-file-not-found-moved = Hwɛ sɛ wɔmmfaa fael no nnkɔɔ beebi foforo, wɔnntoo no din foforo anaaso wonnyii mmfiri kɔmputa no so koraa mpo a.
 

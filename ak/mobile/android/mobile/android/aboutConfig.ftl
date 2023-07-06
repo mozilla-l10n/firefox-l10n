@@ -6,7 +6,10 @@ config-toolbar-search =
     .placeholder = Hwehwɛ
 config-new-pref-name =
     .placeholder = Din
+
 config-new-pref-cancel-button = Twa-mu
 config-new-pref-change-button = Sesa
+
 config-pref-toggle-button = Tɔgel
 config-pref-reset-button = Hyehyɛ-bio
+
