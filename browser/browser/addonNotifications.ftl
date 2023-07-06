@@ -14,6 +14,7 @@ xpinstall-prompt-message = Está intentando instalar un complemento desde { $hos
 
 xpinstall-prompt-header-unknown = ¿Permitir que un sitio desconocido instale un complemento?
 xpinstall-prompt-message-unknown = Está intentando instalar un complemento desde un sitio desconocido. Asegúrese de que confía en este sitio antes de continuar.
+
 xpinstall-prompt-dont-allow =
     .label = No permitir
     .accesskey = N
@@ -44,6 +45,7 @@ xpinstall-disabled = La instalación de software está actualmente deshabilitada
 xpinstall-disabled-button =
     .label = Habilitar
     .accesskey = H
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = El administrador del sistema evitó que este sitio pida instalar software en su computadora.
 addon-install-full-screen-blocked = La instalación de complementos no está permitida mientras o antes de entrar a modo de pantalla completa.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } agregado a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } requiere nuevos permisos
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = ¿Eliminar { $name }?
 addon-removal-message = ¿Eliminar { $name } de { -brand-shorter-name }?
 addon-removal-button = Eliminar
 addon-removal-abuse-report-checkbox = Informar de este complemento a { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] Descargando y verificando { $addonCount } complementos…
     }
 addon-download-verifying = Verificando
+
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C

@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ocurrió un error al conectarse a { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Código de error: { $error }
-
 psmerr-ssl-disabled = No se puede conectar de forma segura porque el protocolo SSL fue deshabilitado.
 psmerr-ssl2-disabled = No se puede conectar de forma segura porque el sitio usa una versión antigua e insegura del protocolo SSL.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = No se configuró un algoritmo de fi
 ssl-error-unsupported-signature-algorithm = El par utilizó una combinación no soportada de firma y algoritmo de hash.
 ssl-error-missing-extended-master-secret = El par intentó continuar sin una extensión extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = El par intentó continuar con una extensión extended_master_secret inesperada.
+
 sec-error-io = Ocurrió un error de E/S durante la autorización de seguridad.
 sec-error-library-failure = fallo en la biblioteca de seguridad.
 sec-error-bad-data = biblioteca de seguridad: se recibieron datos incorrectos.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = No se puede descifrar: el algoritmo de cifrado
 sec-error-pkcs7-bad-signature = Falló la verificación de la firma: no se ha encontrado firmante, se han encontrado demasiados firmantes o los datos son inadecuados o corruptos.
 sec-error-unsupported-keyalg = Algoritmo de clave no soportado o desconocido.
 sec-error-decryption-disallowed = No se puede descifrar: se cifró usando un algoritmo o tamaño de clave no permitidos.
-xp-sec-fortezza-bad-card = La tarjeta Fortezza no se ha inicializado correctamente. Elimínela y devuélvala a su emisor.
-xp-sec-fortezza-no-card = No se encontraron tarjetas Fortezza
-xp-sec-fortezza-none-selected = No se seleccionó ninguna tarjeta Fortezza
-xp-sec-fortezza-more-info = Seleccione una personalidad de la que obtendrá más información
-xp-sec-fortezza-person-not-found = Personalidad no encontrada
-xp-sec-fortezza-no-more-info = No hay más información sobre esa personalidad
-xp-sec-fortezza-bad-pin = PIN inválido
-xp-sec-fortezza-person-error = Couldn't initialize Fortezza personalities.
 sec-error-no-krl = No KRL for this site's certificate has been found.
 sec-error-krl-expired = The KRL for this site's certificate has expired.
 sec-error-krl-bad-signature = The KRL for this site's certificate has an invalid signature.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Ya existe un certificado con el mismo apodo.
 sec-error-key-nickname-collision = Ya existe una clave con el mismo apodo.
 sec-error-safe-not-created = error al crear un objeto seguro
 sec-error-baggage-not-created = error while creating baggage object
-xp-java-remove-principal-error = Couldn't remove the principal
-xp-java-delete-privilege-error = No se puede borrar el privilegio
-xp-java-cert-not-exists-error = This principal doesn't have a certificate
 sec-error-bad-export-algorithm = Algoritmo requerido no permitido
 sec-error-exporting-certificates = Error intentando exportar certificados.
 sec-error-importing-certificates = Error intentando importar certificados.
@@ -339,6 +320,7 @@ sec-error-locked-password = La contraseña está bloqueada.
 sec-error-unknown-pkcs11-error = Error PKCS #11 desconocido.
 sec-error-bad-crl-dp-url = URL no válida o no soportada en el nombre de punto de distribución de CRL.
 sec-error-cert-signature-algorithm-disabled = El certificado fue firmado usando un algoritmo de firma que está deshabilitado porque no es seguro.
+
 mozilla-pkix-error-key-pinning-failure = El servidor usa key pinning (HPKP) pero no se ha podido construir una cadena de certificados confiables que coincida con el pinset. Las violaciones de key pinning no se pueden anular.
 mozilla-pkix-error-ca-cert-used-as-end-entity = El servidor utiliza un certificado con una extensión de las restricciones básicas que lo identifica como una autoridad de certificación. Para un certificado correctamente emitido, este no debería ser el caso.
 mozilla-pkix-error-inadequate-key-size = El servidor presentó un certificado con un tamaño de clave que es demasiado pequeño para esteblecer una conexión segura.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = El servidor presentó un certifica
 mozilla-pkix-error-empty-issuer-name = El servidor presentó un certificado con un nombre distinguido de emisor vacío.
 mozilla-pkix-error-additional-policy-constraint-failed = Una restricción de política adicional falló al validar este certificado.
 mozilla-pkix-error-self-signed-cert = El certificado no es confiable porque es auto firmado.
+
+xp-java-remove-principal-error = Couldn't remove the principal
+xp-java-delete-privilege-error = No se puede borrar el privilegio
+xp-java-cert-not-exists-error = This principal doesn't have a certificate
+
+xp-sec-fortezza-bad-card = La tarjeta Fortezza no se ha inicializado correctamente. Elimínela y devuélvala a su emisor.
+xp-sec-fortezza-no-card = No se encontraron tarjetas Fortezza
+xp-sec-fortezza-none-selected = No se seleccionó ninguna tarjeta Fortezza
+xp-sec-fortezza-more-info = Seleccione una personalidad de la que obtendrá más información
+xp-sec-fortezza-person-not-found = Personalidad no encontrada
+xp-sec-fortezza-no-more-info = No hay más información sobre esa personalidad
+xp-sec-fortezza-bad-pin = PIN inválido
+xp-sec-fortezza-person-error = Couldn't initialize Fortezza personalities.
