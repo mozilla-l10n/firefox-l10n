@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } חסם דף זה �
 safeb-palm-advisory-desc = גורם מייעץ: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = חזרה אחורה
 safeb-palm-see-details-label = צפייה בפרטים
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאתר מטעה</a>. באפשרותך <a data-l10n-name='report_detection'>לדווח על בעיה בזיהוי</a> או <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-phishing-page-error-desc-no-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאתר מטעה</a>. באפשרותך <a data-l10n-name='report_detection'>לדווח על בעיה בזיהוי</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = מידע נוסף על אתרים מטעים ודיוג זמין בכתובת <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה זדונית</a>. באפשרותך <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-malware-page-error-desc-no-override-sumo = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה זדונית</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה מזיקה</a>. באפשרותך <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-unwanted-page-error-desc-no-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל תוכנה מזיקה</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = מידע נוסף על תוכניות מזיקות ובלתי רצויות זמין ב<a data-l10n-name='learn_more_link'>מדיניות תוכניות בלתי רצויות</a>. מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>. באפשרותך <a data-l10n-name='ignore_warning_link'>להתעלם מהסיכון</a> ולהמשיך לאתר הלא בטוח הזה.
 safeb-blocked-harmful-page-error-desc-no-override = האתר <span data-l10n-name='sitename'>{ $sitename }</span> <a data-l10n-name='error_desc_link'>דווח כאחד המכיל יישום שככל הנראה מזיק</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = מידע נוסף על ההגנה של { -brand-short-name } מפני דיוג ותוכנות זדוניות זמין בכתובת <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = אתר זה אינו אתר מטעה…

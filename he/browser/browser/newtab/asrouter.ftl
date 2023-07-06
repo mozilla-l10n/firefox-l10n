@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = תכונה מומלצת
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
+
 cfr-doorhanger-extension-cancel-button = לא עכשיו
     .accesskey = ע
+
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
+
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות
     .accesskey = ג
+
 cfr-doorhanger-extension-never-show-recommendation = לא להציג לי המלצה זו
     .accesskey = ל
+
 cfr-doorhanger-extension-learn-more-link = מידע נוסף
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = מאת { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = המלצה
 cfr-doorhanger-extension-notification2 = המלצה
     .tooltiptext = המלצה על הרחבה
     .a11y-announcement = זמינה המלצה על הרחבה
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = המלצה
@@ -76,9 +84,11 @@ cfr-protections-panel-link-text = מידע נוסף
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = תכונה חדשה:
+
 cfr-whatsnew-button =
     .label = מה חדש
     .tooltiptext = מה חדש
+
 cfr-whatsnew-release-notes-link-text = קריאת הערור השחרור
 
 ## Enhanced Tracking Protection Milestones
@@ -107,12 +117,6 @@ cfr-doorhanger-doh-secondary-button = השבתה
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-header = בידוד אתרים
-cfr-doorhanger-fission-primary-button = בסדר, הבנתי
-    .accesskey = ב
-cfr-doorhanger-fission-secondary-button = מידע נוסף
-    .accesskey = מ
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ייתכן שסרטונים באתר זה לא יעבדו כראוי בגרסה זו של { -brand-short-name }. לקבלת תמיכה מלאה בווידאו, יש לעדכן את { -brand-short-name } כעת.
@@ -121,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = עדכון כעת
     .accesskey = ע
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = מידע נוסף
-    .title = יש להרחיב כדי לקבל מידע נוסף על תכונה זו
-spotlight-learn-more-expanded = מידע נוסף
-    .title = סגירה
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -142,16 +141,6 @@ spotlight-public-wifi-vpn-link = לא כעת
     .accesskey = ל
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = נסו את חווית הפרטיות העוצמתית ביותר אי פעם שלנו
-spotlight-total-cookie-protection-body = הגנת עוגיות מלאה מונעת מרכיבי מעקב להשתמש בעוגיות כדי לעקוב אחריך ברחבי הרשת.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = ‏{ -brand-short-name } בונה גדר סביב עוגיות, ומבודד אותם לאתר שבו אתה נמצא, כך שעוגיות לא יכולות להשתמש בהן כדי לעקוב אחריך. הפעלת תכונה זו תסייע לנו לייעל אותה כדי שנוכל להמשיך לבנות אינטרנט טוב יותר עבור כולם.
-spotlight-total-cookie-protection-primary-button = הפעלת הגנת עוגיות מלאה
-spotlight-total-cookie-protection-secondary-button = לא כעת
 
 ## Emotive Continuous Onboarding
 
@@ -180,11 +169,13 @@ spotlight-pin-secondary-button = לא כעת
 
 mr2022-background-update-toast-title = ‏{ -brand-short-name } חדש. יותר פרטיות. פחות רכיבי מעקב. ללא פשרות.
 mr2022-background-update-toast-text = נסו את { -brand-short-name } החדש ביותר כעת, משודרג עם ההגנה החזקה ביותר שלנו עד כה נגד מעקב.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = פתיחת { -brand-shorter-name } כעת
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -202,6 +193,7 @@ firefoxview-cfr-header-v2 = להמשיך בזריזות מאיפה שהפסקת
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = תגידו שלום ל־{ -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = רוצה את הלשונית הפתוחה הזאת שבטלפון שלך? קיבלת. יש לך צורך באתר שבדיוק עכשיו ביקרת? פוף, הנה הוא כאן ב־{ -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = כיצד זה עובד
@@ -211,6 +203,7 @@ firefoxview-spotlight-promo-secondarybutton = דילוג
 
 colorways-cfr-primarybutton = בחירת ערכת צבעים
     .accesskey = ב
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעדיים של { -brand-short-name } בהשראת קולות שמשנים תרבות.
 
@@ -221,6 +214,7 @@ colorways-cfr-body = צבעו את הדפדפן שלכם בגוונים בלעד
 
 july-jam-set-default-primary = פתיחת הקישורים שלי באמצעות { -brand-short-name }
 fox-doodle-pin-headline = ברוכים השבים
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = רק תזכורת קטנה שבאפשרותך לשמור את הדפדפן העצמאי האהוב עליך במרחק לחיצה אחת בלבד.

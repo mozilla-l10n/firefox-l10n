@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = עליך להתחבר אל { -fxaccount-brand-
 firefox-relay-get-unlimited-masks =
     .label = ניהול מסיכות
     .accesskey = מ
-firefox-relay-opt-in-title = הגנה על כתובת הדוא״ל שלך
-firefox-relay-opt-in-subtitle = הוספת { -relay-brand-name }
-firefox-relay-generate-mask-title = הגנה על כתובת הדוא״ל שלך
-firefox-relay-generate-mask-subtitle = ייצור מסיכת { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = המשך
-    .accesskey = ה
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = הגנה על כתובת הדוא״ל שלך:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

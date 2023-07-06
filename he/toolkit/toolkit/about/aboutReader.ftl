@@ -4,6 +4,7 @@
 
 about-reader-loading = בטעינה…
 about-reader-load-error = כשלון בטעינת המאמר מהדף
+
 about-reader-color-scheme-light = בהיר
     .title = ערכת צבעים בהירה
 about-reader-color-scheme-dark = כהה
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = חום כהה
     .title = ערכת צבעים חמה
 about-reader-color-scheme-auto = אוטומטי
     .title = ערכת צבעים אוטומטית
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = סיום הגדרת החשבון
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = החשבון נותק
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = שליחה לכל המכשירים
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = ניהול מכשירים…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = ניהול מכשירים…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = אין מכשירים מחוברים
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = מידע נוסף על שליחת לשוניות…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = חיבור מכשיר נוסף…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = אימות החשבון שלך…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(case: "a") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = מחשב זה חובר עכשיו אל { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = מחשב זה מחובר עכשיו למכשיר חדש.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = נכנסת בהצלחה
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = מחשב זה נותק.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = התקבלה לשונית אחת
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = לשונית מהמכשיר { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = התקבלו לשוניות
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

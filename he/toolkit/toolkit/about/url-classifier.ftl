@@ -49,5 +49,9 @@ url-classifier-disabled = מנוטרל
 url-classifier-updating = מתעדכן
 url-classifier-cannot-update = לא ניתן לעדכן
 url-classifier-success = הצלחה
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = שגיאת עדכון ({ $error })
 url-classifier-download-error = שגיאת הורדה ({ $error })

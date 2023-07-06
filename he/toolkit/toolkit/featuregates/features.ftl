@@ -12,17 +12,9 @@ experimental-features-css-masonry2 =
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
-
 experimental-features-devtools-compatibility-panel =
     .label = כלי פיתוח: חלונית תאימות
 
-# Do not translate 'SameSite', 'Lax' and 'None'.
-experimental-features-cookie-samesite-lax-by-default2 =
-    .label = עוגיות: SameSite=Lax כברירת מחדל
 
 # about:home should be kept in English, as it refers to the the URI for
 # the internal default home page.
@@ -46,5 +38,3 @@ experimental-features-js-warp =
     .label = JavaScript JIT: Warp
 experimental-features-js-warp-description = הפעלת Warp, מיזם לשיפור הביצועים וניצול הזיכרון של JavaScript.
 
-experimental-features-accessibility-cache =
-    .label = מטמון נגישות

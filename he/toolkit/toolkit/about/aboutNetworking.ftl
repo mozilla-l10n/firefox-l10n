@@ -33,13 +33,6 @@ about-networking-messages-received = הודעות שהתקבלו
 about-networking-bytes-sent = בתים שנשלחו
 about-networking-bytes-received = בתים שהתקבלו
 about-networking-logging = רישום
-about-networking-log-tutorial = לקבלת הוראות לגבי השימוש בכלי זה, נא לפנות אל המאמר <a data-l10n-name="logging">רישום HTTP</a>.
-about-networking-current-log-file = קובץ רישום נוכחי:
-about-networking-current-log-modules = מודולי רישום נוכחיים:
-about-networking-set-log-file = הגדרת קובץ רישום
-about-networking-set-log-modules = הגדרת מודולי רישום
-about-networking-start-logging = התחלת רישום
-about-networking-stop-logging = הפסקת רישום
 about-networking-dns-lookup = חיפוש ב־DNS
 about-networking-dns-lookup-button = זיהוי
 about-networking-dns-domain = שם מתחם:
