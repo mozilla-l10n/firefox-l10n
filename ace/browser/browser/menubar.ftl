@@ -103,6 +103,8 @@ menu-view-full-screen =
     .label = Layeue Peunoh
     .accesskey = F
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Keucuwali
-    .style = width: 45em
-
 permissions-window2 =
     .title = Keucuwali
     .style = min-width: 45em
@@ -62,10 +58,6 @@ permissions-invalid-uri-label = Neutulông pasoë nanhost (hostname) nyang beut�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Keucuwali - Kukis ngön Data Situih
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Keucuwali - Kukis ngön Data Situih
     .style = { permissions-window2.style }
@@ -76,10 +68,6 @@ permissions-exceptions-cookie-desc = Droëneuh jeuët neupeuteuntèë situihwèb
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Peuidin Situihwèb - Pop-up
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Peuidin Situihwèb - Pop-up
     .style = { permissions-window2.style }
@@ -87,20 +75,12 @@ permissions-exceptions-popup-desc = Droëneuh jeuët neupeuteuntèë töh situih
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Keucuwali - Keubah Tamèng Log
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Keucuwali - Keubah Tamèng Log
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Tamèng log lam situihwèb dimiyub nyoë hana teukeubah
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Peuidin Situihwèb - Pasang Add-on
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Peuidin Situihwèb - Pasang Add-on
@@ -112,10 +92,6 @@ permissions-exceptions-addons-desc = Droëneuh jeuët neupeuteuntèë toh situih
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Peuatô - Peuidin Notifikasi
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Peuatô - Peuidin Notifikasi
     .style = { permissions-window2.style }
@@ -125,10 +101,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Nyoe keu peutheun laman web laen nyang hana rôh lam list diateuh nibak ilakéi idin kirem notifikasi. Tham notifikasi jeut meukureueng fitur ladôm laman web.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Peuatô - laké idin lokasi
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Peuatô - laké idin lokasi
@@ -143,10 +115,6 @@ permissions-site-location-disable-desc = Nyôe keu peutheun situs web laén nyan
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Peuatô - laké idin kamera
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Peuatô - laké idin kamera
     .style = { permissions-window2.style }
@@ -157,10 +125,6 @@ permissions-site-camera-disable-desc = Nyoe keu peutheun situs web laén nyang h
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Peuatô - lakéi idin ngui mic
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Peuatô - lakéi idin ngui mic
     .style = { permissions-window2.style }
@@ -168,3 +132,8 @@ permissions-site-microphone-desc = Situs web imiyub nyoe kalheuh ilakéi akses n
 permissions-site-microphone-disable-label =
     .label = Tham soe nyang neuk lakéi akses ngui mic droen
 permissions-site-microphone-disable-desc = Nyoe keu peutheun situs web laén nyang hana lam list diateuh nibak ilakéi idin akses mic. Tham akses u mic jeut meuubah ladôm fitur situs web
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

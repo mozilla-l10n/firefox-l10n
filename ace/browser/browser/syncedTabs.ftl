@@ -13,9 +13,6 @@ synced-tabs-sidebar-notabs = Hana teuhah tabs
 synced-tabs-context-open =
     .label = Peuhah
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Peuhah lam Tab Barô
-    .accesskey = w
 
 ##
 

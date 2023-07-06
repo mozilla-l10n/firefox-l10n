@@ -63,3 +63,5 @@ downloads-open-file =
 
 ##
 
+## Download errors
+

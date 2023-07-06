@@ -21,12 +21,15 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Bateuë
     .accesskey = B
+
 webext-perms-sideload-cancel =
     .label = Bateuë
     .accesskey = B
+
 webext-perms-update-accept =
     .label = Seubarô
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Nyan peureulèë keu:
 webext-perms-optional-perms-allow =
     .label = Peuidin

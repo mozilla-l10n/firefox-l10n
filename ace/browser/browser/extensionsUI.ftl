@@ -8,3 +8,4 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = Han
     .accesskey = N
+

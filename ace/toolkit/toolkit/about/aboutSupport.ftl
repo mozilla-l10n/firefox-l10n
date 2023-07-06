@@ -14,6 +14,8 @@ locked-prefs-name = Nan
 
 media-device-name = Nan
 
+## Codec support table
+
 ##
 
 

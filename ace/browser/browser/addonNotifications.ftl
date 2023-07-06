@@ -25,6 +25,7 @@ webext-perms-sideload-menu-item = { $addonName } teutamah keu { -brand-short-nam
 ## Add-on removal warning
 
 addon-removal-button = Sampôh
+
 addon-install-cancel-button =
     .label = Bateuë
     .accesskey = B
