@@ -26,13 +26,6 @@ about-networking-messages-received = বার্তা গৃহীত হয়�
 about-networking-bytes-sent = প্রেরিত বাইট
 about-networking-bytes-received = প্রাপ্ত বাইট
 about-networking-logging = লগিং
-about-networking-log-tutorial = টুলটি ব্যবহারের নিয়ম জানতে <a data-l10n-name="logging">HTTP Logging</a> দেখুন।
-about-networking-current-log-file = বর্তমান লগ ফাইল:
-about-networking-current-log-modules = বর্তমান লগ মডিউল:
-about-networking-set-log-file = লগ ফাইল সেট করুন
-about-networking-set-log-modules = লগ মডিউল সেট করুন
-about-networking-start-logging = লগিং শুরু করুন
-about-networking-stop-logging = লগিং থামাও
 about-networking-dns-lookup = ডিএনএস লুকআপ
 about-networking-dns-lookup-button = রিজলভ
 about-networking-dns-domain = ডোমেইন:

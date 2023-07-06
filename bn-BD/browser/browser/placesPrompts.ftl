@@ -4,6 +4,7 @@
 
 places-error-title = { -brand-short-name }
 places-no-title = (শিরোনামহীন)
+
 places-bookmarks-backup-title = বুকমার্ক ব্যাকআপ ফাইলের নাম
 places-bookmarks-restore-alert-title = বুকমার্ক পূর্বাবস্থায় ফিরানো
 places-bookmarks-restore-alert = এর ফলে বর্তমান বুকমার্কগুলো, ব্যাকআপ বুকমার্ক দিয়ে প্রতিস্থাপন করা হবে। আপনি কি নিশ্চিতভাবে এটি করতে চান?
@@ -11,5 +12,6 @@ places-bookmarks-restore-title = একটি বুকমার্ক ব্য
 places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = অসমর্থিত ধরনের ফাইল।
 places-bookmarks-restore-parse-error = ব্যাকআপ ফাইল প্রক্রিয়াকরণে ব্যর্থ।
+
 places-bookmarks-import = বুকমার্ক ফাইল ইমপোর্ট করা হবে
 places-bookmarks-export = বুকমার্ক ফাইল এক্সপোর্ট করা হবে
