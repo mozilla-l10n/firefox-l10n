@@ -22,15 +22,18 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ರದ್ದುಗೊಳಿಸು
     .accesskey = C
+
 webext-perms-sideload-enable =
     .label = ಶಕ್ತಗೊಳಿಸು
     .accesskey = E
 webext-perms-sideload-cancel =
     .label = ರದ್ದು ಮಾಡು
     .accesskey = C
+
 webext-perms-update-accept =
     .label = ಪರಿಷ್ಕರಿಸು
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = ಇದು ಬೇಕಾಗಿದೆ:
 webext-perms-optional-perms-allow =
     .label = ಅನುಮತಿಸು
@@ -38,10 +41,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ನಿರಾಕರಿಸು
     .accesskey = D
+
 webext-perms-host-description-all-urls = ಎಲ್ಲಾ ಜಾಲತಾಣಗಳ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಪಡೆಯಿರಿ
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = ನಿಮ್ಮ { $domain } ವ್ಯಾಪ್ತಿಯಲ್ಲಿರುವ ಜಾಲತಾಣಗಳ ದತ್ತಾಂಶವನ್ನು ಪಡೆಯಿರಿ
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -53,6 +59,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ಗಾಗಿ ನಿಮ್ಮ ದತ್ತಾಂಶವನ್ನು ಪಡೆಯಿರಿ
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

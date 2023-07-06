@@ -9,6 +9,27 @@ safeb-blocked-harmful-page-title = ಈ ಮುಂದಿನ ತಾಣವು ಮಾ
 safeb-palm-advisory-desc = <a data-l10n-name='advisory_provider'>{ $advisoryname }</a> ಇಂದ ಸಲಹೆಯನ್ನು ಒದಗಿಸಲಾಗಿದೆ.
 safeb-palm-accept-label = ಹಿಂದಕ್ಕೆ ತೆರಳು
 safeb-palm-see-details-label = ವಿವರಗಳನ್ನು ನೋಡು
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
 safeb-palm-notdeceptive =
     .label = ಇದು ದಾಳಿಕಾರಕ ತಾಣವಲ್ಲ…‍
     .accesskey = d

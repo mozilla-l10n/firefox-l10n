@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = ವಿಂಡೋಗಳು ಹಾಗು ಹಾಳೆಗಳು
 browser-data-session-label =
     .value = ವಿಂಡೋಗಳು ಹಾಗು ಹಾಳೆಗಳು
+

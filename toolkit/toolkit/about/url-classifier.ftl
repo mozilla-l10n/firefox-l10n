@@ -24,5 +24,9 @@ url-classifier-disabled = ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿ
 url-classifier-updating = ನವೀಕರಿಸಲಾಗುತ್ತಿದೆ
 url-classifier-cannot-update = ಪರಿಷ್ಕರಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ
 url-classifier-success = ಯಶಸ್ವಿ
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = ಪರಿಷ್ಕರಣೆ ದೋಷ ({ $error })
 url-classifier-download-error = ಡೌನ್‌ಲೋಡ್ ದೋಷ ({ $error })

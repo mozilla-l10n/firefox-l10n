@@ -94,6 +94,8 @@ media-device-channels = ಚಾನೆಲ್‌ಗಳು
 media-device-rate = ದರ
 media-device-latency = ತಡ
 
+## Codec support table
+
 ##
 
 
