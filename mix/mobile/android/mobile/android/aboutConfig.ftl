@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Nduku
 config-new-pref-name =
     .placeholder = Sivi
+
 config-new-pref-value-boolean = Uvi kua
 config-new-pref-value-string = Cadena
 config-new-pref-value-integer = número entero
+
 config-new-pref-string =
     .placeholder = Chaa ña kunu
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Kunchatu
 config-new-pref-create-button = Saà
 config-new-pref-change-button = Ndasama
+
 config-pref-toggle-button = Tecla
 config-pref-reset-button = Ntaki tsaà
+
 config-context-menu-copy-pref-name =
     .label = Nta tava sivi
 config-context-menu-copy-pref-value =

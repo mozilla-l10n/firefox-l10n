@@ -9,3 +9,8 @@ places-open =
 places-history =
     .aria-label = Ña ntsinu
 
+## Strings used as a placeholder in the Library search field. For example,
+## "Search History" stands for "Search through the browser's history".
+
+##
+

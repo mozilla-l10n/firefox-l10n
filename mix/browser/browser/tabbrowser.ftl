@@ -34,3 +34,5 @@ tabbrowser-confirm-open-multiple-tabs-button = Kuna xikua
 
 ## Ctrl-Tab dialog
 
+## Tab manager menu buttons
+

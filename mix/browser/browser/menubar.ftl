@@ -139,6 +139,8 @@ menu-view-full-screen =
     .label = Pantalla kanu
     .accesskey = P
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =

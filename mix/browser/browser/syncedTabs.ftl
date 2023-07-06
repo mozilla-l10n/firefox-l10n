@@ -11,15 +11,6 @@
 synced-tabs-context-open =
     .label = Kuna
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Kunàa nu xikua tsàa
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Kunàa nu inka nu sachuun tsàa
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Kunàa see inka nu sachuun tsàa
-    .accesskey = P
 
 ##
 

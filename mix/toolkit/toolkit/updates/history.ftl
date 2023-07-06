@@ -23,5 +23,7 @@ state-header = Estado
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Detalles
+
 update-installed-on = inkai nu: { $date }
+
 update-status = Nixi kai: { $status }

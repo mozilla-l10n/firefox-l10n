@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Kaxi tutu ndatavana
-    .style = width: 45em
-
 permissions-window2 =
     .title = Kaxi tutu ndatavana
     .style = min-width: 45em
@@ -91,4 +87,8 @@ permissions-capabilities-listitem-block =
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

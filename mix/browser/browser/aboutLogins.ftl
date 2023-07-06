@@ -7,11 +7,6 @@ about-logins-page-title = Kitsa tsi cha sivu
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Nduku nixi kitsana
-
-create-login-button = Saa nixi kitsau
-
 fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
 fxaccounts-avatar-button =
     .title = Administrar Kuenta
@@ -64,9 +59,10 @@ login-item-copied-password-button-text = ¡Va’a ndataviña!
 login-item-save-changes-button = Chica vaa ña samu
 login-item-save-new-button = Chika vaà
 login-item-cancel-button = Kunchatu
-login-item-time-changed = Ña samu santii: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Creado: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Ntsuana sa ntii: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -95,6 +91,11 @@ confirmation-dialog-dismiss-button =
 
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
 about-logins-confirm-remove-dialog-confirm-button = Xitaá
+
+## Variables
+##   $count (number) - Number of items
+
+##
 
 about-logins-confirm-export-dialog-confirm-button = Stucha…
 

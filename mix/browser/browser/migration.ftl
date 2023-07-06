@@ -68,3 +68,4 @@ browser-data-session-checkbox =
     .label = Ventana tsi pestañas
 browser-data-session-label =
     .value = Ventana tsi pestañas
+

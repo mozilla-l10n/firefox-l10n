@@ -38,3 +38,6 @@ protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Kunchatu
+
+# Cookie Banner Handling
+

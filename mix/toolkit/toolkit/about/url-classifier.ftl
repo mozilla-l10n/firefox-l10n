@@ -5,3 +5,6 @@
 url-classifier-search-title = Nduku
 url-classifier-search-input = URL
 
+## Variables
+##   $error (string) - Error message
+
