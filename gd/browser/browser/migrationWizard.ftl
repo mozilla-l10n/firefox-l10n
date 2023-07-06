@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Ion-phortaich dàta a’ bhrabhsair
 migration-wizard-selection-list = Tagh an dàta a bu toil leat ion-phortadh.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Tagh an dàta a bu toil leat ion-phortadh.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -52,17 +54,21 @@ migration-selected-data-label = Ion-phortaich an dàta a thagh thu
 
 migration-select-all-option-label = Tagh na h-uile
 migration-bookmarks-option-label = Comharran-lìn
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Annsachdan
+
 migration-logins-and-passwords-option-label = Clàraidhean a-steach is faclan-faire a shàbhail thu
 migration-history-option-label = An eachdraidh brabhsaidh
 migration-form-autofill-option-label = Dàta fèin-lìonadh fhoirmean
+
 migration-passwords-from-file-progress-header = Ion-phortaich faidhle fhaclan-faire
 migration-passwords-from-file-success-header = Chaidh na faclan-faire ion-phortadh
 migration-passwords-from-file = A’ toirt sùil airson faclan-faire
 migration-passwords-new = Faclan-faire ùra
 migration-passwords-updated = Faclan-faire làithreach
+
 migration-passwords-from-file-picker-title = Ion-phortaich faidhle fhaclan-faire
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -78,6 +84,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Sgrìobhainn TSV
        *[other] Faidhle TSV
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -90,18 +97,21 @@ migration-wizard-progress-success-new-passwords =
         [few] Chaidh { $newEntries } a chur ris
        *[other] Chaidh { $newEntries } a chur ris
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
 # Variables:
 #  $updatedEntries (Number): the number of updated passwords
 migration-wizard-progress-success-updated-passwords = Chaidh { $updatedEntries } ùrachadh
+
 migration-import-button-label = Ion-phortaich
 migration-choose-to-import-from-file-button-label = Ion-phortaich o fhaidhle
 migration-import-from-file-button-label = Tagh faidhle
 migration-cancel-button-label = Sguir dheth
 migration-done-button-label = Deiseil
 migration-continue-button-label = Lean air adhart
+
 migration-wizard-import-browser-no-browsers = Cha b’ urrainn dha { -brand-short-name } prògram sam bith a lorg sa bheil dàta chomharran-lìn, eachdraidh no fhaclan-faire.
 migration-wizard-import-browser-no-resources = Thachair mearachd. Chan fhaigh { -brand-short-name } lorg air dàta sam bith as urrainn dha ion-phortadh on phròifil bhrabhsair ud.
 
@@ -112,6 +122,7 @@ migration-wizard-import-browser-no-resources = Thachair mearachd. Chan fhaigh { 
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = comharran-lìn
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = annsachdan
@@ -127,6 +138,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Ag ion-phortadh…
 migration-wizard-progress-icon-completed =
     .aria-label = Deiseil
+
 migration-safari-password-import-header = Ion-phortaich faclan-faire o Shafari
 migration-safari-password-import-steps-header = Airson faclan-faire Shafari ion-phortadh:
 migration-safari-password-import-step1 = Ann an Safari, fosgail clàr-taice “Safari” is tadhail air “Preferences” > “Passwords”
@@ -135,6 +147,8 @@ migration-safari-password-import-step3 = Sàbhail faidhle nam faclan-faire
 migration-safari-password-import-step4 = Cleachd “Tagh faidhle” gu h-ìosal airson faidhle nam faclan-faire a shàbhail thu a thaghadh
 migration-safari-password-import-skip-button = Leum seachad
 migration-safari-password-import-select-button = Tagh faidhle
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -147,6 +161,7 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } comharran-lìn
        *[other] { $quantity } comharra-lìn
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -161,6 +176,13 @@ migration-wizard-progress-success-favorites =
         [few] { $quantity } annsachdan
        *[other] { $quantity } annsachd
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -173,6 +195,7 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } faclan-faire
        *[other] { $quantity } facal-faire
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -185,8 +208,9 @@ migration-wizard-progress-success-history =
         [few] dhen { $maxAgeInDays } làithean ron diugh
        *[other] dhen { $maxAgeInDays } latha ron diugh
     }
+
 migration-wizard-progress-success-formdata = Eachdraidh na foirm
+
 migration-wizard-safari-permissions-sub-header = Airson comharran-lìn is eachdraidh brabhsaidh Safari ion-phortadh:
 migration-wizard-safari-instructions-continue = Tagh “Air adhart”
 migration-wizard-safari-instructions-folder = Tagh pasgan Safari san liosta is tagh “Fosgail”
-migration-wizard-safari-select-button = Tagh faidhle

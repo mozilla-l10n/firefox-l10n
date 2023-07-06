@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Guthan neo-eisimeileach
-colorway-collection-independent-voices-description = Tha buaidh atharrachaidh aig dathan. Tha na sgeamannan dhathan as ùire a’ cur ri iomairt leasachadh an t-saoghail.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Tha buaidh atharrachaidh aig dathan.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker

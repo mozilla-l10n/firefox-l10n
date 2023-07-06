@@ -54,9 +54,6 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Dèan comharran-lìn dhe na tabaichean…
     .accesskey = B
-bookmark-tab =
-    .label = Dèan comharra-lìn dhen taba
-    .accesskey = B
 tab-context-bookmark-tab =
     .label = Dèan comharra-lìn dhen taba…
     .accesskey = D
@@ -112,6 +109,7 @@ tab-context-move-tabs =
            *[other] Gluais na tabaichean
         }
     .accesskey = G
+
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

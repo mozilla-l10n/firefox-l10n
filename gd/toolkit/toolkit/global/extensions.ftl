@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Sguir dheth
     .accesskey = S
+
 webext-perms-sideload-text = Stàlaich prògram eile air a’ choimpiutair agad tuilleadan agus dh’fhaoidte gu bheil buaidh aige air a’ bhrabhsair agad. Thoir sùil air na tha an tuilleadan ag iarraidh de cheadan agus tagh “Cuir an comas” no “Sguir dheth” (airson fhàgail à comas).
 webext-perms-sideload-text-no-perms = Stàlaich prògram eile air a’ choimpiutair agad tuilleadan agus dh’fhaoidte gu bheil buaidh aige air a’ bhrabhsair agad. Tagh “Cuir an comas” no “Sguir dheth” (airson fhàgail à comas).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Sguir dheth
     .accesskey = S
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Chaidh { $extension } ùrachadh. Feumaidh tu aontachadh ris na ceadan ùra mus dèid an tionndadh ùr a stàladh. Ma thaghas tu “Sguir dheth”, thèid an leudachan làithreach a ghlèidheadh. Seo na dh’fhaodas an leudachan:
 webext-perms-update-accept =
     .label = Ùraich
     .accesskey = r
+
 webext-perms-optional-perms-list-intro = Tha e ag iarraidh na leanas:
 webext-perms-optional-perms-allow =
     .label = Ceadaich
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Diùlt
     .accesskey = D
+
 webext-perms-host-description-all-urls = Cothrom fhaighinn air an dàta agad airson a h-uile làrach-lìn
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Cothrom fhaighinn air an dàta air fad agad airson làraichean air an àrainn { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -63,6 +69,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Cothrom fhaighinn air an dàta agad airson { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

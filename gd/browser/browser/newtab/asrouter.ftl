@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Gleus a mholamaid
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Carson a tha mi a’ faicinn seo?
+
 cfr-doorhanger-extension-cancel-button = Chan ann an-dràsta
     .accesskey = d
+
 cfr-doorhanger-extension-ok-button = Cuir ris an-dràsta
     .accesskey = C
+
 cfr-doorhanger-extension-manage-settings-button = Stiùirich roghainnean nam molaidhean
     .accesskey = m
+
 cfr-doorhanger-extension-never-show-recommendation = Na seall am moladh seo dhomh
     .accesskey = s
+
 cfr-doorhanger-extension-learn-more-link = Barrachd fiosrachaidh
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
 cfr-doorhanger-extension-notification2 = Moladh
     .tooltiptext = Leudachan a mholamaid
     .a11y-announcement = Tha moladh leudachain ann
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Moladh
@@ -81,9 +89,11 @@ cfr-protections-panel-link-text = Barrachd fiosrachaidh
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gleus ùr:
+
 cfr-whatsnew-button =
     .label = Na tha ùr
     .tooltiptext = Na tha ùr
+
 cfr-whatsnew-release-notes-link-text = Leugh na nòtaichean sgaoilidh
 
 ## Enhanced Tracking Protection Milestones
@@ -114,13 +124,6 @@ cfr-doorhanger-doh-secondary-button = Cuir à comas
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Tha do phrìobhaideachd cudromach. Cumaidh { -brand-short-name } làraichean-lìn fa leth o chàch a chèile a-nis (’s e seo ann am bogsaichean-gainmhich) a nì e nas dorra do hackers faclan-faire, àireamhan cairte-creideis agus fiosrachadh dìomhair eile a ghoid.
-cfr-doorhanger-fission-header = Cumail làraichean fa leth
-cfr-doorhanger-fission-primary-button = Ceart, tha mi agaibh
-    .accesskey = e
-cfr-doorhanger-fission-secondary-button = Barrachd fiosrachaidh
-    .accesskey = B
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Dh’fhaoidte nach dèid na videothan air an làrach seo a chluich mar bu chòir leis an tionndadh seo dhe { -brand-short-name }. Airson làn-taic ri videothan, ùraich { -brand-short-name } an-dràsta.
@@ -129,11 +132,6 @@ cfr-doorhanger-video-support-primary-button = Ùraich an-dràsta
     .accesskey = r
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Barrachd fiosrachaidh
-    .title = Leudaich seo airson barrachd fiosrachaidh mun ghleus
-spotlight-learn-more-expanded = Barrachd fiosrachaidh
-    .title = Dùin
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -150,16 +148,6 @@ spotlight-public-wifi-vpn-link = Chan ann an-dràsta
     .accesskey = C
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = Cuir an àrainneachd as prìobhaidich againn a-riamh fo dheuchainn
-spotlight-total-cookie-protection-body = Cuiridh làn-dìon o bhriosgaidean stad air tracaichean a chleachdas briosgaidean gus do leantainn air feadh an lìn gu dìomhair.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = Togaidh { -brand-short-name } feansa mun cuairt air na briosgaidean airson ’s nach obraich iad ach air an làrach air a bheil thu agus cuiridh sin bacadh air na tracaichean o bhith gad leantainn. Le bhith a’ cur a’ ghleus seo fo dheuchainn tràth, cuiridh tu ri obair-leasachaidh a’ ghleus seo ach an tog sinn lìon nas fheàrr dhan a h-uile duine.
-spotlight-total-cookie-protection-primary-button = Cuir an làn-dìon o bhriosgaidean air
-spotlight-total-cookie-protection-secondary-button = Chan ann an-dràsta
 
 ## Emotive Continuous Onboarding
 
@@ -189,11 +177,13 @@ spotlight-pin-secondary-button = Chan ann an-dràsta
 
 mr2022-background-update-toast-title = { -brand-short-name } ùr. Nas prìobhaidiche. Na lugha de thracaichean. Gun mhura-bhith.
 mr2022-background-update-toast-text = Feuch am { -brand-short-name } as ùire, le dìon o thracadh a tha nas treasa na bha e a-riamh roimhe.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Fosgail { -brand-shorter-name } an-dràsta
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -212,6 +202,7 @@ firefoxview-cfr-body-v2 = Faigh greim a-rithist air tabaichean a dhùin thu o ch
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Cuir fàilte air { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Ag iarradh an taba ud a tha fosgailte air an fhòn agad? Faigh greim air. An làrach air an do thadhail thu an-dràsta fhèin a dhìth ort? Fruis, seo dhut e le { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Seo mar a dh’obraicheas e
@@ -221,6 +212,7 @@ firefoxview-spotlight-promo-secondarybutton = Leum seachad
 
 colorways-cfr-primarybutton = Tagh sgeama dhathan
     .accesskey = T
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Cuir dathan air a’ bhrabhsair agad le tuaran dhathan nach fhaigh thu ach ann am { -brand-short-name } stèidhichte air guthan aig an robh buaidh mhòr air cultar.
 colorways-cfr-header-28days = Falbhaidh an ùine air sgeamannan dhathan nan guthan neo-eisimeileach 16 dhen Fhaoilleach
@@ -243,6 +235,7 @@ july-jam-headline = Tha sinn ri do thaobh
 july-jam-body = Bacaidh { -brand-short-name } mu thuaireamh 3,000 tracaiche gach mìos do gach cleachdaiche agus bheir sinn dhut inntrigeadh sàbhailte ’s luath dhan eadar-lìon.
 july-jam-set-default-primary = Fosgail na ceanglaichean agam le { -brand-short-name }
 fox-doodle-pin-headline = Fàilte air ais
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Seo dhut cuimhneachan beag gu bheil am brabhsair neo-eisimeileach as fheàrr leat dìreach briogadh air falbh.

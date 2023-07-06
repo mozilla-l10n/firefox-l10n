@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Na sguir
        *[other] Na sguir
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ma thèid thu far loidhne an-dràsta, thèid casg a chur air aon luchdadh a-nuas. A bheil thu cinnteach gu bheil thu airson a dhol far loidhne?
        *[other] Ma thèid thu far loidhne an-dràsta, thèid casg a chur air luchdadh a-nuas de { $downloadsCount } rudan. A bheil thu cinnteach gu bheil thu airson a dhol far loidhne?
     }
 download-ui-dont-go-offline-button = Fuirich air loidhne
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ma dhùineas tu gach uinneag brabhsaidh prìobhaideach an-dràsta, thèid crìoch a chur air aon luchdadh a-nuas. A bheil thu cinnteach gu bheil thu airson sgur dhen bhrabhsadh phrìobhaideach?
        *[other] Ma dhùineas tu gach uinneag brabhsaidh prìobhaideach an-dràsta, thèid crìoch a chur air luchdadh a-nuas de { $downloadsCount } rudan. A bheil thu cinnteach gu bheil thu airson sgur dhen bhrabhsadh phrìobhaideach?
     }
 download-ui-dont-leave-private-browsing-button = Fuirich sa bhrabhsadh phrìobhaideach
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Sguir de 1 luchdadh a-nuas

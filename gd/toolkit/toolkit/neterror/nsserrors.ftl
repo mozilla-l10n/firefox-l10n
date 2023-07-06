@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Thachair mearachd fhad 's a bha ceangal ann ri { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Còd na mearachd: { $error }
-
 psmerr-ssl-disabled = Cha ghabh ceangal tèarainte a dhèanamh a chionn 's gun deach am pròtacal SSL a chur à comas.
 psmerr-ssl2-disabled = Cha ghabh ceangal tèarainte a dhèanamh a chionn 's gu bheil an làrach a' cleachdadh seann tionndadh dhen phròtacal SSL nach eil tèarainte.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = No supported TLS signature algorith
 ssl-error-unsupported-signature-algorithm = The peer used an unsupported combination of signature and hash algorithm.
 ssl-error-missing-extended-master-secret = The peer tried to resume without a correct extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = The peer tried to resume with an unexpected extended_master_secret extension.
+
 sec-error-io = Thachair mearachd I/O rè an ùghdarrachaidh thèarainteachd.
 sec-error-library-failure = fàillinn na leabhar-lainn thèarainteachd.
 sec-error-bad-data = leabhar-lann tèarainteachd: fhuaradh droch dhàta.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Cha gabh a chrioptachadh: chan eil algairim cr
 sec-error-pkcs7-bad-signature = Dh'fhàillig dearbhadh an ainm: cha deach soidhnichear a lorg, chaidh cus dhiubh a lorg no dàta mì-cheart no truaillte.
 sec-error-unsupported-keyalg = Algairim iuchrach neo-aithnichte no gun taic.
 sec-error-decryption-disallowed = Cha ghabh a chrioptachadh: air a chrioptachadh le algairim no meud iuchrach nach eil ceadaichte.
-xp-sec-fortezza-bad-card = Cha deach a’ chairt Fortezza a thòiseachadh mar bu chòir. Thoir air falbh e ’s till dhan fhoillsichear agad e.
-xp-sec-fortezza-no-card = Cha deach cairt Fortezza a lorg
-xp-sec-fortezza-none-selected = Cha deach cairt Fortezza a thaghadh
-xp-sec-fortezza-more-info = Tagh a' phearsantachd a tha thu ag iarraidh barrachd fiosrachaidh mu dhèidhinn
-xp-sec-fortezza-person-not-found = Cha deach a' phearsantachd a lorg
-xp-sec-fortezza-no-more-info = Chan eil barrachd fiosrachaidh mun phearsantachd seo ann
-xp-sec-fortezza-bad-pin = PIN mì-dhligheach
-xp-sec-fortezza-person-error = Cha deach na pearsantachdan Fortezza a thòiseachadh.
 sec-error-no-krl = Chan eil liosta nan iuchraichean a chaidh a chùl-ghairm a lorg airson teisteanas na làraich seo.
 sec-error-krl-expired = Dh'fhalbh an ùine air liosta nan iuchraichean a chaidh a chùl-ghairm airson teisteanas na làraich seo.
 sec-error-krl-bad-signature = Tha ainm mì-dhligheach ri liosta nan iuchraichean a chaidh a chùl-ghairm airson teisteanas na làraich seo.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Tha teisteanas air a bheil an dearbh fhar-ai
 sec-error-key-nickname-collision = Tha iuchair air a bheil an dearbh fhar-ainm ann mu thràth.
 sec-error-safe-not-created = mearachd rè cruthachadh an oibseict sàbhailte
 sec-error-baggage-not-created = mearachd rè cruthachadh an oibseict bhagaiste
-xp-java-remove-principal-error = Cha do ghabh am prìomhaire a thoirt air falbh
-xp-java-delete-privilege-error = Cha do ghabh a' phribhleid a sguabadh às
-xp-java-cert-not-exists-error = Chan eil teisteanas aig a' phrìomhaire
 sec-error-bad-export-algorithm = Chan eil an algairim air a bheil feum ceadaichte.
 sec-error-exporting-certificates = Mearachd ann an às-phortadh nan teisteanasan.
 sec-error-importing-certificates = Mearachd le ion-phortadh nan teisteanasan.
@@ -338,6 +319,7 @@ sec-error-locked-password = Tha am facal-faire glaiste.
 sec-error-unknown-pkcs11-error = Mearachd PKCS #11 neo-aithnichte.
 sec-error-bad-crl-dp-url = URL mì-dhligheach no gun taic ann an ainm puing sgaoileadh CRL.
 sec-error-cert-signature-algorithm-disabled = Chaidh an teisteanas a shoidhneadh le algairim soidhnidh a tha à comas a chionn 's nach eil e tèarainte.
+
 mozilla-pkix-error-key-pinning-failure = The server uses key pinning (HPKP) but no trusted certificate chain could be constructed that matches the pinset. Key pinning violations cannot be overridden.
 mozilla-pkix-error-ca-cert-used-as-end-entity = The server uses a certificate with a basic constraints extension identifying it as a certificate authority. For a properly-issued certificate, this should not be the case.
 mozilla-pkix-error-inadequate-key-size = The server presented a certificate with a key size that is too small to establish a secure connection.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = The server presented a certificate
 mozilla-pkix-error-empty-issuer-name = Nochd am frithealaiche teisteanas le ainm foillsichear falamh.
 mozilla-pkix-error-additional-policy-constraint-failed = An additional policy constraint failed when validating this certificate.
 mozilla-pkix-error-self-signed-cert = Chan eil earbsa san teisteanas seo a chionn 's gun deach a fhèin-shoidhneadh.
+
+xp-java-remove-principal-error = Cha do ghabh am prìomhaire a thoirt air falbh
+xp-java-delete-privilege-error = Cha do ghabh a' phribhleid a sguabadh às
+xp-java-cert-not-exists-error = Chan eil teisteanas aig a' phrìomhaire
+
+xp-sec-fortezza-bad-card = Cha deach a’ chairt Fortezza a thòiseachadh mar bu chòir. Thoir air falbh e ’s till dhan fhoillsichear agad e.
+xp-sec-fortezza-no-card = Cha deach cairt Fortezza a lorg
+xp-sec-fortezza-none-selected = Cha deach cairt Fortezza a thaghadh
+xp-sec-fortezza-more-info = Tagh a' phearsantachd a tha thu ag iarraidh barrachd fiosrachaidh mu dhèidhinn
+xp-sec-fortezza-person-not-found = Cha deach a' phearsantachd a lorg
+xp-sec-fortezza-no-more-info = Chan eil barrachd fiosrachaidh mun phearsantachd seo ann
+xp-sec-fortezza-bad-pin = PIN mì-dhligheach
+xp-sec-fortezza-person-error = Cha deach na pearsantachdan Fortezza a thòiseachadh.

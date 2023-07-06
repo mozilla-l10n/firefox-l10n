@@ -4,14 +4,14 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Clàraidhean a-steach ⁊ faclan-faire
-login-filter =
-    .placeholder = Lorg sna clàraidhean a-steach
-create-login-button = Cruthaich clàradh a-steach ùr
+
 about-logins-login-filter =
     .placeholder = Lorg sna clàraidhean a-steach
     .key = F
+
 create-new-login-button =
     .title = Cruthaich clàradh a-steach ùr
+
 fxaccounts-sign-in-text = Faigh cothrom air na faclan-faire agad air uidheaman eile
 fxaccounts-sign-in-sync-button = Clàraich a-steach a shioncronachadh
 fxaccounts-avatar-button =
@@ -115,9 +115,6 @@ login-item-copied-password-button-text = Lethbhreac air a dhèanamh!
 login-item-save-changes-button = Sàbhail na h-atharraichean
 login-item-save-new-button = Sàbhail
 login-item-cancel-button = Sguir dheth
-login-item-time-changed = An t-atharrachadh mu dheireadh: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Air a chruthachadh: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Cleachdadh mu dheireadh: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -143,16 +140,19 @@ about-logins-edit-login-os-auth-dialog-message-win = Airson an clàradh a-steach
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = an clàradh a-steach a shàbhail thu a dheasachadh
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Airson am facal-faire agad a shealltainn, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = am facal-faire a shàbhail thu a nochdadh
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Airson lethbhreac a dhèanamh dhen fhacal-faire agad, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanamh dhen fhacal-fhaire a shàbhail thu
+
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Airson na clàraidhean a-steach agad às-phortadh, cuir a-steach teisteas clàraidh a-steach Windows. Cuiridh seo ri dìon tèarainteachd nan cunntasan agad.
 # This message can be seen when attempting to export a password in about:logins
@@ -171,6 +171,7 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Sguir dheth
 confirmation-dialog-dismiss-button =
     .title = Sguir dheth
+
 about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
 confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
 about-logins-confirm-remove-dialog-confirm-button = Thoir air falbh
@@ -186,6 +187,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Thoir air falbh na h-uile
        *[other] Thoir air falbh na h-uile
     }
+
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Thoir air falbh an clàradh a-steach seo
@@ -194,6 +196,7 @@ about-logins-confirm-remove-all-dialog-checkbox-label =
         [few] Thoir air falbh na clàraidhean a-steach seo
        *[other] Thoir air falbh na clàraidhean a-steach seo
     }
+
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] A bheil thu airson an { $count } chlàradh a-steach a thoirt air falbh?
@@ -209,6 +212,7 @@ about-logins-confirm-remove-all-dialog-message =
         [few] Bheir seo air falbh na clàraidhean a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
        *[other] Bheir seo air falbh na clàraidhean a-steach a shàbhail thu gu { -brand-short-name } agus caismeachd sam bith air brisidhean a-steach a nochd an-seo. Chan urrainn dhut seo a neo-dhèanamh.
     }
+
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] A bheil thu airson { $count } chlàradh a-steach a thoirt air falbh o gach uidheam?
@@ -230,8 +234,10 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Às-phortaich na clàraidhean a-steach agus faclan-faire agad
 about-logins-confirm-export-dialog-message = Thèid na faclan-faire agad a shàbhaladh ’nan teacsa a ghabhas leughadh (m.e. BadP@ssw0rd) agus chì duine sam bith iad as urrainn dhan fhaidhle air às-phortadh fhosgladh.
 about-logins-confirm-export-dialog-confirm-button = Às-phortaich…
+
 about-logins-alert-import-title = Ion-phortadh deiseil
 about-logins-alert-import-message = Seall geàrr-chunntas mionaideach dhen ion-phortadh
+
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
 confirm-discard-changes-dialog-confirm-button = Tilg air falbh
@@ -244,7 +250,6 @@ about-logins-breach-alert-date = Thachair am briseadh a-steach air { DATETIME($d
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Tadhail air { $hostname }
-about-logins-breach-alert-learn-more-link = Barrachd fiosrachaidh
 
 ## Vulnerable Password notification
 
@@ -262,6 +267,7 @@ about-logins-vulnerable-alert-learn-more-link = Barrachd fiosrachaidh
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Tha innteart airson { $loginTitle } leis an ainm-chleachdaiche seo mu thràth. <a data-l10n-name="duplicate-link">A bheil thu airson tadhal air an innteart làithreach?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn ris am facal-faire seo a shàbhaladh.
 
@@ -314,6 +320,7 @@ about-logins-import-dialog-items-added =
         [few] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Clàraidhean a-steach ùra air an cur ris:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-modified =
     { $count ->
         [1] <span>Clàradh a-steach air ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
@@ -322,6 +329,7 @@ about-logins-import-dialog-items-modified =
         [few] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Clàraidhean a-steach air an ùrachadh:</span> <span data-l10n-name="count">{ $count }</span>
     }
+
 about-logins-import-dialog-items-no-change =
     { $count ->
         [1] <span>Clàradh a-steach dùblaichte air a lorg:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
@@ -339,6 +347,7 @@ about-logins-import-dialog-items-error =
        *[other] <span>Mearachdan:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(gun ion-phortadh)</span>
     }
 about-logins-import-dialog-done = Deiseil
+
 about-logins-import-dialog-error-title = Mearachd leis an ion-phortadh
 about-logins-import-dialog-error-conflicting-values-title = Tha iomadh luach aig an aon chlàradh a-steach ann an còmhstri
 about-logins-import-dialog-error-conflicting-values-description = Mar eisimpleir: iomadh ainm-cleachdaiche, facal-faire, URL is msaa. dhan aon chlàradh a-steach.
@@ -352,8 +361,10 @@ about-logins-import-dialog-error-no-logins-imported = Cha deach clàradh a-steac
 about-logins-import-dialog-error-learn-more = Barrachd fiosrachaidh
 about-logins-import-dialog-error-try-import-again = Feuch ris an ion-phortadh a-rithist…
 about-logins-import-dialog-error-cancel = Sguir dheth
+
 about-logins-import-report-title = Geàrr-chunntas an ion-phortaidh
 about-logins-import-report-description = Chaidh na clàraidhean a-steach ’s na faclan-faire ion-phortadh gu { -brand-short-name }.
+
 #
 # Variables:
 #  $number (number) - The number of the row

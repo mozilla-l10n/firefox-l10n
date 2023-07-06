@@ -38,9 +38,11 @@ menu-quit =
             [windows] F
            *[other] F
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fàg { -brand-shorter-name }
+
 menu-about =
     .label = Mu { -brand-shorter-name }
     .accesskey = M
@@ -222,8 +224,6 @@ menu-history-undo-menu =
     .label = Tabaichean a dhùin thu o chionn goirid
 menu-history-undo-window-menu =
     .label = Uinneagan a dhùin thu o chionn goirid
-menu-history-reopen-all-tabs = Ath-fhosgail gach taba
-menu-history-reopen-all-windows = Ath-fhosgail gach uinneag
 
 ## Bookmarks Menu
 
@@ -232,10 +232,6 @@ menu-bookmarks-menu =
     .accesskey = C
 menu-bookmarks-manage =
     .label = Stiùirich na comharran-lìn
-menu-bookmark-current-tab =
-    .label = Dèan comharra-lìn dhen taba làithreach
-menu-bookmark-edit =
-    .label = Deasaich an comharra-lìn seo
 menu-bookmark-tab =
     .label = Dèan comharra-lìn dhen taba làithreach…
 menu-edit-bookmark =
