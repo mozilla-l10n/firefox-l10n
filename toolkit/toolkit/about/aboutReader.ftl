@@ -4,6 +4,7 @@
 
 about-reader-loading = Loading…
 about-reader-load-error = ਸਫ਼ੇ ਤੋਂ ਲੇਖ ਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ
+
 about-reader-color-scheme-light = ਹਲਕਾ
     .title = ਰੰਗ ਸਕੀਮ ਹਲਕੀ
 about-reader-color-scheme-dark = ਗੂੜ੍ਹਾ
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = ਭੂਰਾ
     .title = ਰੰਗ ਸਕੀਮ ਭੂਰਾ
 about-reader-color-scheme-auto = ਆਟੋ
     .title = ਰੰਗ ਸਕੀਮ ਆਪਣੇ-ਆਪ
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -14,6 +14,7 @@ xpinstall-prompt-message = ਤੁਸੀਂ { $host } ਤੋਂ ਐਡ-ਆਨ ਇ
 
 xpinstall-prompt-header-unknown = ਅਣਪਛਾਤੀ ਸਾਈਟ ਨੂੰ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੇਣ ਲਈ ਸਹਿਮਤ ਹੋ?
 xpinstall-prompt-message-unknown = ਤੁਸੀਂ ਅਣਪਛਾਤੀ ਸਾਈਟ ਤੋਂ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ। ਜਾਰੀ ਰੱਖਣ ਤੋਂ ਪਹਿਲਾਂ ਪੱਕਾ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇਸ ਸਾਈਟ ‘ਤੇ ਭਰੋਸਾ ਕਰਦੇ ਹੋ।
+
 xpinstall-prompt-dont-allow =
     .label = ਮਨਜ਼ੂਰੀ ਨਾ ਦਿਓ
     .accesskey = D
@@ -43,6 +44,7 @@ xpinstall-disabled = ਸਾਫਟਵੇਅਰ ਦੀ ਇੰਸਟਾਲੇਸ਼
 xpinstall-disabled-button =
     .label = ਸਮਰੱਥ ਕਰੋ
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -51,6 +53,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ‘ਤੇ ਤੁ
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ਤੁਹਾਡੇ ਸਿਸਟਮ ਪਰਸ਼ਾਸ਼ਕ ਨੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਫਟਵੇਅਰ ਇੰਸਟਾਲ ਕਰਨ ਤੋਂ ਪੁੱਛਣ ਤੇ ਰੋਕ ਲਾਈ ਹੈ।
 addon-install-full-screen-blocked = ਪੂਰੀ ਸਕਰੀਨ ਢੰਗ ‘ਚ ਹੋਣ ਜਾਂ ਜਾਣ ਦੇ ਦੌਰਾਨ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ ਹੈ।
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ਨੂੰ { -brand-short-name } 'ਚ ਜੋੜਿਆ
@@ -68,6 +71,7 @@ addon-removal-title = { $name } ਹਟਾਉਣਾ ਹੈ?
 addon-removal-message = { $name } ਨੂੰ { -brand-shorter-name } ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?
 addon-removal-button = ਹਟਾਓ
 addon-removal-abuse-report-checkbox = ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ { -vendor-short-name } ਨੂੰ ਰਿਪੋਰਟ ਦਿਓ
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -76,6 +80,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } ਐਡ-ਆਨਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਅਤੇ ਤਸਦੀਕ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
     }
 addon-download-verifying = ਜਾਂਚ ਜਾਰੀ ਹੈ
+
 addon-install-cancel-button =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C

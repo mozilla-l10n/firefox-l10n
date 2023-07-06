@@ -19,6 +19,7 @@ open-location = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 share = ਸਾਂਝਾ ਕਰੋ
 close-window = ਵਿੰਡੋ ਬੰਦ ਕਰੋ
 open-sidebar = ਬਾਹੀਆਂ
+
 # This string describes shortcuts for search.
 search-popover = ਖੋਜ ਸ਼ਾਰਟਕੱਟ
 # Describes searches limited to a specific scope

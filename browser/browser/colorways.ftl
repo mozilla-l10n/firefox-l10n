@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = ਆਜ਼ਾਦ ਆਵਾਜ਼ਾਂ
-colorway-collection-independent-voices-description = ਰੰਗ ਕਲਚਰ ਨੂੰ ਬਦਲ ਸਕਦਾ ਹੈ। ਸੰਸਾਰ ਨੂੰ ਹੋਰ ਵਧੀਆ ਥਾਂ ਬਣਾਉਣ ਲਈ ਨਵੇਂ ਰੰਗ-ਢੰਗ ਆਵਾਜ਼ਾਂ ਦਾ ਜਸ਼ਨ ਮਨਾਓ।
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = ਰੰਗ, ਜੋ ਕਲਚਰ ਨੂੰ ਬਦਲਦੇ ਹਨ।
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = ਪਲੇਅਮੇਕਰ

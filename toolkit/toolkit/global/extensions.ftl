@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+
 webext-perms-sideload-text = ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਹੋਰ ਪਰੋਗਰਾਮ ਨੇ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕੀਤੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦੀ ਹੈ। ਇਸ ਐਡ-ਆਨ ਦੀਆਂ ਇਜਾਜ਼ਤ ਬੇਨਤੀਆਂ ਦੀ ਪੜਤਾਲ ਕਰੋ ਅਤੇ ਸਮਰੱਥ ਜਾਂ ਰੱਦ ਕਰਨ (ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਰਹਿਣ ਦੇਣ) ਦੀ ਚੋਣ ਕਰੋ।
 webext-perms-sideload-text-no-perms = ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਤੋਂ ਹੋਰ ਪਰੋਗਰਾਮ ਨੇ ਐਡ-ਆਨ ਇੰਸਟਾਲ ਕੀਤੀ ਹੈ, ਜੋ ਕਿ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਨੂੰ ਪ੍ਰਭਾਵਿਤ ਕਰ ਸਕਦੀ ਹੈ। ਸਮਰੱਥ ਜਾਂ ਰੱਦ ਕਰਨ (ਇਸ ਨੂੰ ਅਸਮਰੱਥ ਰਹਿਣ ਦੇਣ) ਦੀ ਚੋਣ ਕਰੋ।
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਕੀਤੇ ਵਰਜ਼ਨ ਨੂੰ ਇੰਸਟਾਲ ਕਰਹਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਨੂੰ ਨਵੀਆਂ ਇਜਾਜ਼ਤਾਂ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਨਾ ਹੋਵੇਗਾ। ਆਪਣੇ ਮੌਜੂਦਾ ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਨੂੰ ਰੱਖਣ ਲਈ “ਰੱਦ ਕਰੋ” ਨੂੰ ਚੁਣੋ। ਇਹ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਇਜਾਜ਼ਤਾਂ ਦੀ ਲੋੜ ਹੋਵੇਗੀ:
 webext-perms-update-accept =
     .label = ਅੱਪਡੇਟ ਕਰੋ
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = ਇਹ ਚਾਹੁੰਦਾ ਹੈ:
 webext-perms-optional-perms-allow =
     .label = ਮਨਜ਼ੂਰ
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ਇਨਕਾਰ
     .accesskey = D
+
 webext-perms-host-description-all-urls = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਵਾਸਤੇ ਪਹੁੰਚ
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } ਡੋਮੇਨ ਵਿੱਚ ਸਾਈਟਾਂ ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਲਈ ਪਹੁੰਚ
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ਲਈ ਤੁਹਾਡੇ ਡਾਟੇ ਵਾਸਤੇ ਪਹੁੰਚ
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

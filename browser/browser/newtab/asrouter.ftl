@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = ਸਿਫ਼ਾਰਸ਼ੀ ਫੀਚਰ
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ਮੈਨੂੰ ਇਹ ਕਿਉਂ ਦਿਖਾਈ ਦੇ ਰਿਹਾ ਹੈ
+
 cfr-doorhanger-extension-cancel-button = ਹੁਣ ਨਹੀਂ
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = ਹੁਣੇ ਜੋੜੋ
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = ਸਿਫਾਰਸ਼ੀ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = ਇਹ ਸਿਫਾਰਸ਼ ਮੈਨੂੰ ਨਾ ਦਿਖਾਓ
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = ਹੋਰ ਸਿੱਖੋ
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } ਰਾਹੀਂ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ਸਿਫ਼ਾਰਸ਼ੀ
 cfr-doorhanger-extension-notification2 = ਸਿਫਾਰਸ਼ੀ
     .tooltiptext = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ
     .a11y-announcement = ਇਕਸਟੈਨਸ਼ਨ ਸਿਫਾਰਸ਼ਾਂ ਮੌਜੂਦ ਹਨ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = ਸਿਫਾਰਸ਼ੀ
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = ਹੋਰ ਜਾਣੋ
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ਨਵਾਂ ਫੀਚਰ
+
 cfr-whatsnew-button =
     .label = ਨਵਾਂ ਕੀ ਹੈ
     .tooltiptext = ਨਵਾਂ ਕੀ ਹੈ
+
 cfr-whatsnew-release-notes-link-text = ਰੀਲਿਜ਼ ਨੋਟਿਸ ਪੜ੍ਹੋ
 
 ## Enhanced Tracking Protection Milestones
@@ -107,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = ਅਸਮਰੱਥ ਕਰੋ
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਪਹਿਲਾਂ ਹੈ। { -brand-short-name } ਹੁਣ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਇੱਕ ਦੂਜੇ ਤੋਂ ਪੂਰੀ ਤਰ੍ਹਾਂ ਅਲਹਿਦਾ ਕਰ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਹੈਕਰਾਂ ਲਈ ਪਾਸਵਰਡ, ਕਰੈਡਿਟ ਕਾਰਡ ਨੰਬਰ ਤੇ ਹੋਰ ਸੰਵੇਦਨਸ਼ੀਲ ਜਾਣਕਾਰੀ ਚੋਰੀ ਕਰਨਾ ਔਖਾ ਹੋ ਜਾਂਦਾ ਹੈ।
-cfr-doorhanger-fission-header = ਸਾਈਟ ਅਲਹਿਦਗੀ
-cfr-doorhanger-fission-primary-button = ਠੀਕ ਹੈ, ਸਮਝ ਗਏ
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = ਹੋਰ ਜਾਣੋ
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ਇਸ ਸਾਈਟ ਤੋਂ ਵੀਡੀਓ ਨੂੰ { -brand-short-name } ਦੇ ਇਸ ਵਰਜ਼ਨ ਉੱਤੇ ਠੀਕ ਤਰ੍ਹਾਂ ਸ਼ਾਇਦ ਚਲਾਇਆ ਨਾ ਜਾ ਸਕੇ। ਪੂਰੇ ਵੀਡੀਓ ਸਹਿਯੋਗ ਲਈ { -brand-short-name } ਨੂੰ ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ।
@@ -122,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = ਹੁਣੇ ਅੱਪਡੇਟ �
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = ਹੋਰ ਜਾਣੋ
-    .title = ਫ਼ੀਚਰ ਬਾਰੇ ਹੋਰ ਜਾਣਨ ਲਈ ਫੈਲਾਓ
-spotlight-learn-more-expanded = ਹੋਰ ਜਾਣੋ
-    .title = ਬੰਦ ਕਰੋ
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,16 +141,6 @@ spotlight-public-wifi-vpn-link = ਹੁਣੇ ਨਹੀਂ
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = ਸਾਡੇ ਸਭ ਤੋਂ ਜ਼ਬਰਦਸਤ ਪਰਦੇਦਾਰੀ ਤਜਰਬੇ ਨੂੰ ਵਰਤ ਕੇ ਵੇਖੋ
-spotlight-total-cookie-protection-body = ਪੂਰੀ ਕੂਕੀਜ਼ ਸੁਰੱਖਿਆ ਟਰੈਕਾਂ ਨੂੰ ਕੂਕੀਜ਼ ਵਰਤ ਕੇ ਵੈੱਬ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਤੋਂ ਰੋਕਦੀ ਹੈ।
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } ਕੂਕੀਜ਼ ਦੇ ਦੁਆਲੇ ਵਾੜ ਲਾ ਦਿੰਦਾ ਹੈ, ਜਿਸ ਨਾਲ ਉਹ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੀ ਸਾਈਟ ਤੱਕ ਹੀ ਸੀਮਿਤ ਰਹਿ ਜਾਂਦੇ ਹਨ, ਇਸਕਰਕੇ ਟਰੈਕਰ ਉਹਨਾਂ ਨੂੰ ਤੁਹਾਡਾ ਪਿੱਛਾ ਕਰਨ ਲਈ ਨਹੀਂ ਵਰਤ ਸਕਦੇ ਹਨ। ਇਹ ਪਹਿਲਾਂ ਦੀ ਪਹੁੰਚ ਨਾਲ ਤੁਸੀਂ ਇਹ ਫ਼ੀਚਰ ਨੂੰ ਸੰਵਾਰਨ ਲਈ ਮਦਦ ਸਕਦੇ ਹੋ ਤਾ ਕਿ ਅਸੀਂ ਹਰ ਕਿਸੇ ਲਈ ਵੈੱਬ ਨੂੰ ਹੋਰ ਵੀ ਵਧੀਆ ਬਣਾ ਸਕੀੇਏ।
-spotlight-total-cookie-protection-primary-button = ਪੂਰੀ ਕੂਕੀ ਸੁਰੱਖਿਆ ਚਾਲੂ ਕਰੋ
-spotlight-total-cookie-protection-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 ## Emotive Continuous Onboarding
 
@@ -182,11 +170,13 @@ spotlight-pin-secondary-button = ਹੁਣੇ ਨਹੀਂ
 
 mr2022-background-update-toast-title = ਨਵਾਂ{ -brand-short-name }। ਵੱਧ ਪ੍ਰਾਈਵੇਟ। ਘੱਟ ਟਰੈਕਰ। ਕੋਈ ਸਮਝੌਤਾ ਨਹੀਂ।
 mr2022-background-update-toast-text = ਹੁਣ ਨਵੇਂ { -brand-short-name } ਵਰਤ ਕੇ ਵੇਖੋ, ਸਾਡੇ ਹਾਲੇ ਤੱਕ ਦੇ ਸਭ ਤੋਂ ਮਜ਼ਬੂਤ ਟਰੈਕਿੰਗ-ਰੋਧੀ ਸੁਰੱਖਿਆ ਲਈ ਅੱਪਗਰੇਡ ਕਰੋ।
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = ਹੁਣੇ { -brand-shorter-name } ਖੋਲ੍ਹੋ
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -205,6 +195,7 @@ firefoxview-cfr-body-v2 = ਹਾਲ ਵਿੱਚ ਖੋਲ੍ਹੀਆਂ ਟੈ
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name } ਨੂੰ ਮਿਲੋ
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ਆਪਣੇ ਫ਼ੋਨ ਉੱਤੇ ਉਹ ਟੈਬ ਖੋਲ੍ਹਣੀ ਚਾਹੁੰਦੇ ਹੋ? ਇਹ ਲਵੋ। ਬੱਸ ਉਹ ਹੁਣੇ ਖੋਲ੍ਹੀ ਸਾਈਟ ਚਾਹੀਦੀ ਹੈ, { -firefoxview-brand-name } ਨਾਲ ਵਾਪਸ ਲਵੋ।
 firefoxview-spotlight-promo-primarybutton = ਵੇਖੋ ਕਿ ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
@@ -214,6 +205,7 @@ firefoxview-spotlight-promo-secondarybutton = ਛੱਡੋ
 
 colorways-cfr-primarybutton = ਰੰਗ-ਢੰਗ ਚੁਣੋ
     .accesskey = C
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = ਸਭਿਆਚਾਰ ਬਦਲਣ ਵਾਲੀਆਂ ਆਵਾਜ਼ਾਂ ਤੋਂ ਪ੍ਰੇਰਿਤ ਕਰਨ ਵਾਲੇ ਰੰਗਾਂ ਨਾਲ { -brand-short-name } ਰਾਹੀਂ ਆਪਣੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਭਰੋ।
 colorways-cfr-header-28days = ਆਜ਼ਾਦ ਆਵਾਜ਼ ਰੰਗ=ਢੰਗ ਦੀ ਮਿਆਦ ਜਨਵਰੀ 16 ਨੂੰ ਪੁੱਗੇਗੀ
@@ -236,6 +228,7 @@ july-jam-headline = ਅਸੀਂ ਤੁਹਾਡੇ ਲਈ ਢਾਲ ਬਣ ਕ�
 july-jam-body = ਹਰ ਮਹੀਨੇ { -brand-short-name } ਹਰ ਵਰਤੋਂਕਾਰ ਲਈ ਔਸਤਨ 3,000+  ਟਰੈਕਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾ ਕੇ ਤੁਹਾਨੂੰ ਸੁਰੱਖਿਅਤ, ਤੇਜ਼ ਇੰਟਰਨੈੱਟ ਪਹੁੰਚਾਉਣ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ।
 july-jam-set-default-primary = ਮੇਰੇ ਲਿੰਕ { -brand-short-name } ਨਾਲ ਖੋਲ੍ਹੋ
 fox-doodle-pin-headline = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = ਤੁਹਾਨੂੰ ਯਾਦ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਾਂ ਕਿ ਤੁੁਹਾਡਾ ਆਜ਼ਾਦ ਬਰਾਊਜ਼ਰ ਸਿਰਫ਼ ਇੱਕ ਕਲਿੱਕ ਜਿੰਨੀ ਦੂਰ ਹੈ।

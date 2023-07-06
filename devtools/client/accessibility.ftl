@@ -6,7 +6,9 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = ਹੋਰ ਜਾਣੋ
+
 accessibility-text-label-header = ਲਿਖਤ ਦੇ ਲੇਬਲ ਅਤੇ ਨਾਂ
+
 accessibility-keyboard-header = ਕੀਬੋਰਡ
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
@@ -21,8 +23,10 @@ accessibility-progress-initializing = ਸ਼ੁਰੂ ਕੀਤਾ ਜਾਂਦਾ 
 
 accessibility-warning =
     .alt = ਚੇਤਾਵਨੀ
+
 accessibility-fail =
     .alt = ਗਲਤੀ
+
 accessibility-best-practices =
     .alt = ਵਧੀਆ ਪ੍ਰੈਕਟਿਸਾਂ
 

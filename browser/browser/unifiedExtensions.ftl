@@ -20,19 +20,28 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = { $extensionName } ਲਈ ਮੇਨੂ ਖੋਲ੍ਹੋ
+
 unified-extensions-item-message-manage = ਇਕਸਟੈਨਸ਼ਨ ਦਾ ਇੰਤਜ਼ਾਮ
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = ਟੂਲਬਾਰ ਵਿੱਚ ਟੰਗੋ
+
 unified-extensions-context-menu-manage-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
+
 unified-extensions-context-menu-remove-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
+
 unified-extensions-context-menu-report-extension =
     .label = ਇਕਸਟੈਨਸ਼ਨ ਬਾਰੇ ਰਿਪੋਰਟ ਕਰੋ
+
 unified-extensions-context-menu-move-widget-up =
     .label = ਉੱਤੇ ਭੇਜੋ
+
 unified-extensions-context-menu-move-widget-down =
     .label = ਹੇਠਾਂ ਭੇਜੋ
+
+## Notifications
+

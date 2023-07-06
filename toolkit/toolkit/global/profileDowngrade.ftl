@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiledowngrade-window =
-    .title = ਤੁਸੀਂ { -brand-product-name } ਦਾ ਪੁਰਾਣਾ ਵਰਜ਼ਨ ਚਲਾਇਆ ਹੈ
-    .style = width: 490px;
-
 profiledowngrade-window2 =
     .title = ਤੁਸੀਂ { -brand-product-name } ਦਾ ਪੁਰਾਣਾ ਵਰਜ਼ਨ ਚਲਾਇਆ ਹੈ
     .style = min-width: 490px;

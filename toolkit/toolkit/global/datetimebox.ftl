@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Date/time clear button
-datetime-reset =
-    .aria-label = ਸਾਫ਼ ਕਰੋ
-
 ## Placeholders for date and time inputs
 
 datetime-year-placeholder = yyyy

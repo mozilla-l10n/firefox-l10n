@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = ਛੋਟ
-    .style = width: 36em
 permissions-window2 =
     .title = ਛੋਟ
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ਵੈੱਬਸਾਈਟ ਦਾ ਸਿਰਨਾਵਾਂ
     .accesskey = d
+
 permissions-block =
     .label = ਪਾਬੰਦੀ
     .accesskey = B
+
 permissions-disable-etp =
     .label = ਛੋਟ ਜੋੜੋ
     .accesskey = E
+
 permissions-session =
     .label = ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ
     .accesskey = S
+
 permissions-allow =
     .label = ਮਨਜ਼ੂਰ ਕਰੋ
     .accesskey = A
+
 permissions-button-off =
     .label = ਬੰਦ ਕਰੋ
     .accesskey = O
+
 permissions-button-off-temporarily =
     .label = ਆਰਜੀ ਤੌਰ 'ਤੇ ਬੰਦ ਕਰੋ
     .accesskey = T
+
 permissions-site-name =
     .label = ਵੈੱਬਸਾਈਟ
+
 permissions-status =
     .label = ਹਾਲਤ
+
 permissions-remove =
     .label = ਵੈੱਬਸਾਈਟ ਨੂੰ ਹਟਾਓ
     .accesskey = R
+
 permissions-remove-all =
     .label = ਸਾਰੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਹਟਾਓ
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੰਭਾਲੋ
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = ਸਾਰੀਆਂ ਵੈਬਸਾਈਟਾਂ ਲਈ ਡਿਫੌਲਟ:
+
 permissions-searchbox =
     .placeholder = ਵੈੱਬਾਸਾਈਟ ਨੂੰ ਲੱਭੋ
+
 permissions-capabilities-autoplay-allow =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ
 permissions-capabilities-autoplay-block =
     .label = ਆਡੀਓ 'ਤੇ ਪਾਬੰਦੀ ਲਾਓ
 permissions-capabilities-autoplay-blockall =
     .label = ਆਡੀਓ ਅਤੇ ਵੀਡਿਓ ਤੇ ਪਾਬੰਦੀ ਲਾਓ
+
 permissions-capabilities-allow =
     .label = ਮਨਜ਼ੂਰ
 permissions-capabilities-block =
     .label = ਪਾਬੰਦੀ
 permissions-capabilities-prompt =
     .label = ਹਮੇਸ਼ਾਂ ਪੁੱਛੋ
+
 permissions-capabilities-listitem-allow =
     .value = ਮਨਜ਼ੂਰ
 permissions-capabilities-listitem-block =
     .value = ਪਾਬੰਦੀ
 permissions-capabilities-listitem-allow-session =
     .value = ਸ਼ੈਸ਼ਨ ਲਈ ਮਨਜ਼ੂਰ
+
 permissions-capabilities-listitem-off =
     .value = ਬੰਦ
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = ਠੀਕ ਹੋਸਟ ਨਾਂ ਦਿਓ ਜ�
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = ਤੁਸੀਂ ਇਹਨਾਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰ ਚੁੱਕੇ ਹੋ।
 permissions-exceptions-etp-window2 =
     .title = ਵਧੇਰੇ ਟਰੈਕਿੰਗ ਸੁਰੱਖਿਆ ਲਈ ਛੋਟਾਂ
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = ਤੁਸੀਂ ਵੈੱਬਸਾਈ�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = ਛੋਟਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = ਛੋਟਾਂ - ਕੂਕੀਜ਼ ਅਤੇ ਸਾਈਟ ਡਾਟਾ
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = ਛੋਟ - ਸਿਰਫ਼-HTTPS ਮੋਡ
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = ਛੋਟ - ਸਿਰਫ਼-HTTPS ਮੋਡ
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = ਤੁਸੀਂ ਖਾਸ ਵੈੱਬ�
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਪੌਪਅੱਪ
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = ਛੋਟਾਂ - ਸੰਭਾਲੇ ਲਾਗਇਨ
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ �
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = ਇਜਾਜ਼ਤ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ - ਐਨ-ਆਨ ਇੰਸਟਾਲੇਸ਼ਨ
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = ਤੁਸੀਂ ਦੱਸ ਸਕਦੇ ਹ�
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਆਪੇ-ਚਲਾਓ
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = ਤੁਸੀਂ ਉਹਨਾਂ ਸਾਈਟਾ
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਨੋਟੀਫਿਕੇਸ਼ਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬ
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਟਿਕਾਣਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱ�
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ ਇਜਾਜ਼ਤਾਂ
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਮਸ਼ੀਨੀ ਅਸਲੀਅਤ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ ਨ
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਕੈਮਰਾ ਇਜਾਜ਼ਤਾਂ
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਕੈਮਰਾ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = ਇਹ ਉੱਤੇ ਸੂਚੀਬੱਧ
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = ਸੈਟਿੰਗਾਂ - ਮਾਈਕਰੋਫ਼ੋਨ ਇਜਾਜ਼ਤਾਂ
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = ਸੈਟਿੰਗਾਂ - ਮਾਈਕਰੋਫ਼ੋਨ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = ਸੈਟਿੰਗਾਂ - ਸਪੀਕਰ ਇਜਾਜ਼ਤਾਂ
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੇ ਆਡੀਓ ਆਉਟਪੁੱਟ ਡਿਵਾਈਸ ਚੁਣਨ ਦੀ ਬੇਨਤੀ ਕੀਤੀ ਹੈ। ਤੁਸੀਂ ਚੁਣ ਸਕਦੇ ਹੋ ਕਿ ਕਿਹੜੀ ਵੈੱਬਸਾਈਟ ਨੂੰ ਕਿਹੜਾ ਆਡੀਓ ਆਉਟਪੁੱਟ ਡਿਵਾਈਸ ਚੁਣਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਹੈ।
+
 permissions-exceptions-doh-window =
     .title = HTTPS ਰਾਹੀਂ DNS ਲਈ ਵੈੱਬਸਾਈਟ ਛੋਟਾਂ
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ਇਹਨਾਂ ਸਾਈਟਾਂ ਤੇ ਸਬ-ਡੋਮੇਨਾਂ ਲਈ ਸੁਰੱਖਿਅਤ DNS ਨਹੀਂ ਵਰਤੇਗਾ।
+
 permissions-doh-entry-field = ਵੈੱਬਸਾਈਟ ਡੋਮੇਨ ਨਾਂ ਦਿਓ
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = ਜੋੜੋ
     .accesskey = A
+
 permissions-doh-col =
     .label = ਡੋਮੇਨ
+
 permissions-doh-remove =
     .label = ਹਟਾਓ
     .accesskey = R
+
 permissions-doh-remove-all =
     .label = ਸਭ ਹਟਾਓ
     .accesskey = e
