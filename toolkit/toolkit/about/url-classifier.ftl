@@ -46,5 +46,9 @@ url-classifier-disabled = Díchumasaithe
 url-classifier-updating = á nuashonrú
 url-classifier-cannot-update = ní féidir nuashonrú
 url-classifier-success = d'éirigh leis
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = earráid nuashonraithe ({ $error })
 url-classifier-download-error = earráid íoslódála ({ $error })

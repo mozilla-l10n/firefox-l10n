@@ -99,3 +99,4 @@ browser-data-session-checkbox =
     .label = Fuinneoga agus Cluaisíní
 browser-data-session-label =
     .value = Fuinneoga agus Cluaisíní
+

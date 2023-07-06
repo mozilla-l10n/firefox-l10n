@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ná Scoir
        *[other] Ná Scoir
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Má théann tú as líne anois, cealófar íoslódáil amháin. An bhfuil tú cinnte gur mian leat dul as líne?
        *[other] Má théann tú as líne anois, cealófar { $downloadsCount } íoslódáil. An bhfuil tú cinnte gur mian leat dul as líne?
     }
 download-ui-dont-go-offline-button = Fan ar líne
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Má dhúnann tú gach fuinneog Brabhsáil Phríobháideach anois, cealófar íoslódáil amháin. An bhfuil tú cinnte gur mhaith leat Brabhsáil Phríobháideach a scor?
        *[other] Má dhúnann tú gach fuinneog Brabhsáil Phríobháideach anois, cealófar { $downloadsCount } íoslódáil. An bhfuil tú cinnte gur mhaith leat Brabhsáil Phríobháideach a scor?
     }
 download-ui-dont-leave-private-browsing-button = Leat ort le Brabhsáil Phríobháideach
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cealaigh íoslódáil amháin

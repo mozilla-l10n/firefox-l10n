@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Údaráis
 
-certmgr-edit-ca-cert =
-    .title = Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Cuir socruithe muiníne do theastais na nÚdarás Deimhniúcháin in eagar
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Is féidir leis an teastas seo úsáideoirí ríomhphoist a shainaithint.
 
-certmgr-delete-cert =
-    .title = Scrios Teastas
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Scrios Teastas
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Freastalaí
-
-certmgr-override-lifetime =
-    .label = Saolré
 
 certmgr-token-name =
     .label = Gléas Slándála

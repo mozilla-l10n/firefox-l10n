@@ -88,6 +88,8 @@ sandbox-sys-call-args = Argóintí
 
 audio-backend = Inneall Fuaime
 
+## Codec support table
+
 ##
 
 

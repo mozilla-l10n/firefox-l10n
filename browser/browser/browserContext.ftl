@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Cruthaigh Leabharmharc don Leathanach Seo
-    .accesskey = m
-    .tooltiptext = Cruthaigh Leabharmharc don Leathanach Seo
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Cruthaigh Leabharmharc don Leathanach Seo
-    .accesskey = m
-    .tooltiptext = Cruthaigh leabharmharc don leathanach seo ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Cuir an Leabharmharc Seo in Eagar
-    .accesskey = m
-    .tooltiptext = Cuir an leabharmharc seo in eagar
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Cuir an Leabharmharc Seo in Eagar
-    .accesskey = m
-    .tooltiptext = Cuir an leabharmharc seo in eagar ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Oscail an Nasc
     .accesskey = O
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = Seol an Fhuaim trí Ríomhphost…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Cuir an forlíontán seo i ngníomh
-    .accesskey = C
-
-main-context-menu-plugin-hide =
-    .label = Folaigh an forlíontán seo
-    .accesskey = h
-
 main-context-menu-save-to-pocket =
     .label = Sábháil an Leathanach i { -pocket-brand-name }
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Athlódáil an Fráma
     .accesskey = r
-
-main-context-menu-frame-bookmark =
-    .label = Cruthaigh Leabharmharc don Fhráma Seo
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Sábháil an Fráma Mar…

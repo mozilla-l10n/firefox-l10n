@@ -31,3 +31,4 @@ screenshots-empty-selection-error-title = Roghnaigh tú réigiún róbheag
 
 screenshots-generic-error-title = Úps! Tá { -screenshots-brand-name } imithe sa fhraoch.
 screenshots-generic-error-details = Nílimid cinnte cad a tharla. An bhfuil fonn ort triail eile a bhaint as, nó gabháil scáileáin eile a ghlacadh?
+

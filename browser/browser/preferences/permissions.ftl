@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Eisceachtaí
-    .style = width: 49em
-
 permissions-window2 =
     .title = Eisceachtaí
     .style = min-width: 49em
@@ -71,10 +67,6 @@ permissions-exceptions-popup-desc = Is féidir na suímh a bhfuil cead acu preab
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Eisceachtaí - Focail Fhaire a Sábháladh
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Eisceachtaí - Focail Fhaire a Sábháladh
     .style = { permissions-window2.style }
@@ -84,10 +76,6 @@ permissions-exceptions-saved-logins-window2 =
 permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu breiseáin a shuiteáil a shonrú. Clóscríobh seoladh cruinn an tsuímh a theastaíonn uait a cheadú agus ansin cliceáil Ceadaigh.
 
 ## Site Permissions - Autoplay
-
-permissions-site-autoplay-window =
-    .title = Socruithe - Uathsheinm
-    .style = { permissions-window.style }
 
 permissions-site-autoplay-window2 =
     .title = Socruithe - Uathsheinm
@@ -106,4 +94,8 @@ permissions-site-autoplay-window2 =
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 

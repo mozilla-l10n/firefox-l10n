@@ -25,13 +25,6 @@ about-networking-messages-received = Teachtaireachtaí Faighte
 about-networking-bytes-sent = Bearta Seolta
 about-networking-bytes-received = Bearta Faighte
 about-networking-logging = Logáil
-about-networking-log-tutorial = Féach ar <a data-l10n-name="logging">Logáil HTTP</a> le haghaidh treoracha faoi úsáid na huirlise seo.
-about-networking-current-log-file = An Logchomhad Reatha:
-about-networking-current-log-modules = Logmhodúil Reatha:
-about-networking-set-log-file = Socraigh Logchomhad
-about-networking-set-log-modules = Socraigh Logmhodúil
-about-networking-start-logging = Tosaigh Logáil
-about-networking-stop-logging = Stop Logáil
 about-networking-dns-lookup = Cuardach DNS
 about-networking-dns-lookup-button = Réitigh
 about-networking-dns-domain = Fearann:

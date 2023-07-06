@@ -14,6 +14,7 @@ xpinstall-prompt-message = Tá tú ag iarraidh breiseán a shuiteáil ó { $host
 
 xpinstall-prompt-header-unknown = An bhfuil cead ag an suíomh anaithnid seo breiseán a shuiteáil?
 xpinstall-prompt-message-unknown = Tá tú ag iarraidh breiseán a shuiteáil ó shuíomh anaithnid. Deimhnigh go bhfuil muinín agat as an suíomh seo sula rachaidh tú ar aghaidh.
+
 xpinstall-prompt-dont-allow =
     .label = Ná Ceadaigh
     .accesskey = D
@@ -37,11 +38,13 @@ xpinstall-disabled = Tá suiteáil bhogearraí díchumasaithe faoi láthair. Cli
 xpinstall-disabled-button =
     .label = Cumasaigh
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Chuir riarthóir do chórais cosc ar { $addonName } ({ $addonId }).
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Cuireadh { $addonName } le { -brand-short-name }
@@ -55,6 +58,7 @@ webext-perms-update-menu-item = Ceadanna nua ag teastáil ó { $addonName }
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Bain { $name } ó { -brand-shorter-name }?
 addon-removal-button = Bain
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -66,6 +70,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } breiseán á n-íoslódáil agus á ndeimhniú…
     }
 addon-download-verifying = Á Fhíorú
+
 addon-install-cancel-button =
     .label = Cealaigh
     .accesskey = C

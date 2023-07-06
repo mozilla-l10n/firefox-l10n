@@ -16,18 +16,6 @@ synced-tabs-sidebar-tabsnotsyncing = Las sioncronú cluaisíní chun liosta clua
 synced-tabs-context-open =
     .label = Oscail
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Oscail i gCluaisín Nua
-    .accesskey = C
-synced-tabs-context-open-in-new-window =
-    .label = Oscail i bhFuinneog Nua
-    .accesskey = F
-synced-tabs-context-open-in-new-private-window =
-    .label = Oscail i bhFuinneog Nua Phríobháideach
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Cruthaigh Leabharmharc don Chluaisín Seo…
-    .accesskey = b
 
 ##
 
