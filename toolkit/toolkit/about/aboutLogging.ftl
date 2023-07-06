@@ -15,15 +15,12 @@
 ## For further details, consult:
 ## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
 
--profiler-brand-name = Firefox Profiler
-
 ##
 
 # This is the title of the page
 about-logging-title = Om logging
 about-logging-page-title = Loggbehandler
 about-logging-current-log-file = Current Log File:
-about-logging-current-log-modules = Gjeldende loggmoduler:
 about-logging-new-log-file = Ny loggfil:
 about-logging-currently-enabled-log-modules = Aktiverte loggmoduler for øyeblikket:
 about-logging-log-tutorial = See <a data-l10n-name="logging">HTTP Logging</a> for instructions on how to use this tool.
@@ -53,6 +50,7 @@ about-logging-preset-media-playback-label = Medieavspilling
 about-logging-preset-media-playback-description = Loggmoduler for å diagnostisere problemer med medieavspilling (ikke for problemer med videokonferanser)
 about-logging-preset-custom-label = Tilpasset
 about-logging-preset-custom-description = Loggmoduler valgt manuelt
+
 # Error handling
 about-logging-error = Feil:
 
@@ -66,4 +64,5 @@ about-logging-unknown-profiler-preset = Ukjent forhåndsvalg for profilering «{
 about-logging-unknown-option = Ukjent alternativ for about:logging «{ $k }»
 about-logging-configuration-url-ignored = Konfigurasjons-URL ignorert
 about-logging-file-and-profiler-override = Kan ikke tvinge utdata for fil og overstyre innstillinger for profilering samtidig
+
 about-logging-configured-via-url = Alternativ satt opp via URL

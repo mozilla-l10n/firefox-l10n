@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = En feil oppstod under tilkobling til { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Feilkode: { $error }
-
 psmerr-ssl-disabled = Kan ikke koble til sikkert, fordi SSL-protokollen er avslått.
 psmerr-ssl2-disabled = Kan ikke koble til sikkert, fordi nettstedet bruker en eldre, usikker versjon av SSL-protokollen.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Ingen støttede TLS signaturalgorit
 ssl-error-unsupported-signature-algorithm = Motparten brukte en ustøttet kombinasjon av signatur og hash-algoritmer.
 ssl-error-missing-extended-master-secret = Motparten forsøkte å fortsette uten en gyldig extended_master_secret-utvidelse.
 ssl-error-unexpected-extended-master-secret = Motparten forsøkte å fortsette med en uventet extended_master_secret-utvidelse.
+
 sec-error-io = En I/O-feil oppstod under sikkerhetsautorisasjon.
 sec-error-library-failure = feil i sikkerhetsbibliotek.
 sec-error-bad-data = sikkehetsbibliotek: mottok ugyldig data.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Klarte ikke dekryptere: Nøkkelens krypterings
 sec-error-pkcs7-bad-signature = Signaturkontroll feilet: ingen signerer funnet, for mange signerere funnet, eller ugyldig/ødelagt data.
 sec-error-unsupported-keyalg = Ustøttet eller ugyldig nøkkelalgoritme.
 sec-error-decryption-disallowed = Klarte ikke dekryptere: Er kryptert med en algoritme eller nøkkelstørrelse som ikke er tillatt.
-xp-sec-fortezza-bad-card = Fortezza-kort har ikke blitt ordentlig initialisert.  Fjern det, og returner det til utsteder.
-xp-sec-fortezza-no-card = Ingen Fortezza-kort ble funnet
-xp-sec-fortezza-none-selected = Ingen Fortezza-kort er valgt
-xp-sec-fortezza-more-info = Velg en personlighet å hente mer informasjon om
-xp-sec-fortezza-person-not-found = Personlighet ble ikke funnet
-xp-sec-fortezza-no-more-info = Har ikke mer informasjon om den personligheten
-xp-sec-fortezza-bad-pin = Ugyldig PIN
-xp-sec-fortezza-person-error = Klarte ikke initialsere Fortezza-personligheter.
 sec-error-no-krl = Ingen KRL-er ble funnet for dette nettstedets sertifikat.
 sec-error-krl-expired = KRL-en for dette nettstedets sertifikat er utløpt på dato.
 sec-error-krl-bad-signature = KRL-en for dette nettstedets sertifikat har en ugyldig signatur.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Et sertifikat med samme kallenavn fins aller
 sec-error-key-nickname-collision = En nøkkel med samme kallenavn fins allerede.
 sec-error-safe-not-created = en feil oppstod under opprettelse av trygt objektt
 sec-error-baggage-not-created = en feil oppstod under opprettelse av bagasjeobjekt
-xp-java-remove-principal-error = Klarte ikke fjerne kontohaver
-xp-java-delete-privilege-error = Klarte ikke slette privilegiet
-xp-java-cert-not-exists-error = Denne kontohaveren har ikke et sertifikat
 sec-error-bad-export-algorithm = Påkrevd algoritme er ikke tillatt.
 sec-error-exporting-certificates = Feil ved eksport av sertifikater.
 sec-error-importing-certificates = Feil ved import av sertifikater.
@@ -339,6 +320,7 @@ sec-error-locked-password = Passordet er låst.
 sec-error-unknown-pkcs11-error = Ukjent PKCS #11-feil.
 sec-error-bad-crl-dp-url = Ugyldig eller ustøttet URL i CRL distribusjonspunktnavn.
 sec-error-cert-signature-algorithm-disabled = Sertifikatet ble signert med en signaturalgoritme som er deaktivert fordi den er utrygg.
+
 mozilla-pkix-error-key-pinning-failure = Serveren bruker key pinning (HPKP), men ingen tiltrodde sertifikater ble funnet som passer til pin-settet. Brudd på key-pinning kan ikke overstyres.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serveren bruker et sertifikat som identifiserer det som en sertifikatutsteder. For et riktig utstedt sertifikat bør ikke dette skje.
 mozilla-pkix-error-inadequate-key-size = Serveren bruker et sertifikat med en nøkkelstørrelse som er for liten til å etablere en sikker tilkobling.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Serveren oppgav et sertifikat som 
 mozilla-pkix-error-empty-issuer-name = Serveren presenterte et sertifikat med et tomt unikt utstedernavn.
 mozilla-pkix-error-additional-policy-constraint-failed = En ytterligere policy-begrensning mislyktes ved validering av dette sertifikatet.
 mozilla-pkix-error-self-signed-cert = Sertifikatet er ikke tiltrodd fordi det er selvsignert.
+
+xp-java-remove-principal-error = Klarte ikke fjerne kontohaver
+xp-java-delete-privilege-error = Klarte ikke slette privilegiet
+xp-java-cert-not-exists-error = Denne kontohaveren har ikke et sertifikat
+
+xp-sec-fortezza-bad-card = Fortezza-kort har ikke blitt ordentlig initialisert.  Fjern det, og returner det til utsteder.
+xp-sec-fortezza-no-card = Ingen Fortezza-kort ble funnet
+xp-sec-fortezza-none-selected = Ingen Fortezza-kort er valgt
+xp-sec-fortezza-more-info = Velg en personlighet å hente mer informasjon om
+xp-sec-fortezza-person-not-found = Personlighet ble ikke funnet
+xp-sec-fortezza-no-more-info = Har ikke mer informasjon om den personligheten
+xp-sec-fortezza-bad-pin = Ugyldig PIN
+xp-sec-fortezza-person-error = Klarte ikke initialsere Fortezza-personligheter.

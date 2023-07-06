@@ -131,12 +131,6 @@ about-telemetry-category-header = kategori
 about-telemetry-method-header = metode
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = ekstra
-about-telemetry-origin-section = Origin Telemetry
-about-telemetry-origin-origin = opprinnelse
-about-telemetry-origin-count = antall
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> koder informasjon før det blir sendt. Det betyr at { $telemetryServerOwner } kan telle ting, men vet ikke om noen installasjon fra { -brand-product-name } bidro til det samlede antallet. (<a data-l10n-name="prio-blog-link">Les mer</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process }-prosess
