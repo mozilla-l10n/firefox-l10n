@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Du skal logge ind på { -fxaccount-brand-name 
 firefox-relay-get-unlimited-masks =
     .label = Administrer masker
     .accesskey = A
-firefox-relay-opt-in-title = Beskyt din mailadresse
-firefox-relay-opt-in-subtitle = Tilføj { -relay-brand-name }
-firefox-relay-generate-mask-title = Beskyt din mailadresse
-firefox-relay-generate-mask-subtitle = Opret { -relay-brand-short-name }-maske
-firefox-relay-opt-in-confirmation-enable =
-    .label = Fortsæt
-    .accesskey = F
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Beskyt din mailadresse:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Uafhængige stemmer
-colorway-collection-independent-voices-description = Farver kan ændre kulturen. De nyeste farvekombinationer hylder stemmer, der gør verden til et bedre sted.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Farver, der ændrer kulturen.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker

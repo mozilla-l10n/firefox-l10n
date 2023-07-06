@@ -38,9 +38,11 @@ menu-quit =
             [windows] A
            *[other] A
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Afslut { -brand-shorter-name }
+
 menu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Senest lukkede faneblade
 menu-history-undo-window-menu =
     .label = Senest lukkede vinduer
-menu-history-reopen-all-tabs = Genåbn alle faneblade
-menu-history-reopen-all-windows = Genåbn alle vinduer
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Håndter bogmærker
-menu-bookmark-current-tab =
-    .label = Bogmærk dette faneblad
-menu-bookmark-edit =
-    .label = Rediger bogmærke
 menu-bookmark-tab =
     .label = Bogmærk dette faneblad…
 menu-edit-bookmark =

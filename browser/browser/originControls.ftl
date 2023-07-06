@@ -10,14 +10,19 @@
 
 origin-controls-no-access =
     .label = Udvidelsen kan ikke læse og ændre data
+
 origin-controls-quarantined =
     .label = Udvidelse har ikke tilladelse til at læse og ændre data
+
 origin-controls-options =
     .label = Udvidelsen kan læse og ændre data:
+
 origin-controls-option-all-domains =
     .label = På alle websteder
+
 origin-controls-option-when-clicked =
     .label = Kun, når du klikker
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -29,12 +34,19 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Kan ikke læse eller ændre data på dette websted
+
 origin-controls-state-quarantined = Ikke tilladt af { -vendor-short-name } på dette websted
+
 origin-controls-state-always-on = Kan altid læse og ændre data på dette websted
+
 origin-controls-state-when-clicked = Tilladelse behøves for at læse og ændre data
+
 origin-controls-state-hover-run-visit-only = Udfør kun for dette besøg
+
 origin-controls-state-runnable-hover-open = Åbn udvidelse
+
 origin-controls-state-runnable-hover-run = Kør udvidelse
+
 origin-controls-state-temporary-access = Kan læse og ændre data for dette besøg
 
 ## Extension's toolbar button.
@@ -44,6 +56,7 @@ origin-controls-state-temporary-access = Kan læse og ændre data for dette bes�
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -51,6 +64,7 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Tilladelser kræves
+
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =

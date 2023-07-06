@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = Guiden Opret profil
-    .style = width: 47em; height: 35em;
-
 create-profile-window2 =
     .title = Guiden Opret profil
     .style = min-width: 47em; min-height: 35em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Introduktion
-       *[other] Velkommen til { create-profile-window.title }
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Konklusion
-       *[other] Færdiggør { create-profile-window.title }
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

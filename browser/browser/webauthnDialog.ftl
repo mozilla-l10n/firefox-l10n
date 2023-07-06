@@ -4,14 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Forkert pinkode. Indtast den korrekte pinkode for din enhed.
-        [one] Forkert pinkode. Indtast den korrekte pinkode for din enhed. Du har { $retriesLeft } forsøg tilbage.
-       *[other] Forkert pinkode. Indtast den korrekte pinkode for din enhed. Du har { $retriesLeft } forsøg tilbage.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Forkert pinkode. Du har { $retriesLeft } forsøg tilbage, inden du permanent mister adgangen til login-informationerne på denne enhed.
@@ -19,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Forkert pinkode. Prøv igen.
 webauthn-pin-required-prompt = Indtast pinkoden for din enhed.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

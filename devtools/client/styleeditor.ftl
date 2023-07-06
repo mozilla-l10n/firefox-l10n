@@ -20,7 +20,6 @@ styleeditor-save-button = Gem
     .accesskey = G
 styleeditor-options-button =
     .tooltiptext = Indstillinger for CSS-editor
-styleeditor-media-rules = @media-regler
 styleeditor-at-rules = @-regler
 styleeditor-editor-textbox =
     .data-placeholder = Skriv CSS her.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = H
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Et matchende stylesheet blev ikke fundet.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

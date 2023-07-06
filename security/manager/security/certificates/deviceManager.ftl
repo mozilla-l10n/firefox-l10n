@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = Enhedsadministration
-    .style = width: 57em; height: 25em;
-
 devmgr-window =
     .title = Enhedsadministration
     .style = min-width: 57em; min-height: 25em;

@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Importer browserdata
 migration-wizard-selection-list = Vælg de data, du vil importere.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Vælg de data, du vil importere.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Importer valgte data
 
 migration-select-all-option-label = Vælg alle
 migration-bookmarks-option-label = Bogmærker
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favoritter
+
 migration-logins-and-passwords-option-label = Gemte logins og adgangskoder
 migration-history-option-label = Browserhistorik
 migration-extensions-option-label = Udvidelser
 migration-form-autofill-option-label = Data til autofyldning af formularer
 migration-payment-methods-option-label = Betalingsmetoder
+
 migration-cookies-option-label = Cookies
 migration-session-option-label = Vinduer og faneblade
 migration-otherdata-option-label = Andre data
+
 migration-passwords-from-file-progress-header = Importer fil med adgangskoder
 migration-passwords-from-file-success-header = Adgangskoder blev importeret
 migration-passwords-from-file = Kontrollerer fil for adgangskoder
 migration-passwords-new = Nye adgangskoder
 migration-passwords-updated = Eksisterende adgangskoder
+
 migration-passwords-from-file-no-valid-data = Filen indeholder ikke gyldige adgangskode-data. Vælg en anden fil.
+
 migration-passwords-from-file-picker-title = Importer fil med adgangskoder
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-fil
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } tilføjet
        *[other] { $newEntries } tilføjet
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } opdateret
        *[other] { $updatedEntries } opdateret
     }
+
 migration-bookmarks-from-file-picker-title = Importer bogmærkefil
 migration-bookmarks-from-file-progress-header = Importerer bogmærker
 migration-bookmarks-from-file = Bogmærker
 migration-bookmarks-from-file-success-header = Bogmærker importeret
+
 migration-bookmarks-from-file-no-valid-data = Filen indeholder ikke bogmærke-data. Vælg en anden fil.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-dokument
        *[other] HTML-fil
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-fil
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } bogmærke
        *[other] { $newEntries } bogmærker
     }
+
 migration-import-button-label = Importer
 migration-choose-to-import-from-file-button-label = Importer fra fil
 migration-import-from-file-button-label = Vælg fil
 migration-cancel-button-label = Annuller
 migration-done-button-label = Færdig
 migration-continue-button-label = Fortsæt
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kunne ikke finde nogen programmer, der indeholder bogmærker, historik eller adgangskoder.
 migration-wizard-import-browser-no-resources = Der opstod en fejl. { -brand-short-name } kan ikke finde nogen data at importere fra den valgte browser-profil.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Der opstod en fejl. { -brand-shor
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = bogmærker
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favoritter
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Importerer…
 migration-wizard-progress-icon-completed =
     .aria-label = Færdig
+
 migration-safari-password-import-header = Importer adgangskoder fra Safari
 migration-safari-password-import-steps-header = For at importere adgangskoder fra Safari:
 migration-safari-password-import-step1 = Åbn "Safari"-menuen i Safari og gå til Indstillinger > Adgangskoder
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Gem filen med adgangskoder
 migration-safari-password-import-step4 = Brug "Vælg fil" nedenfor for at vælge den gemte fil med adgangskoder
 migration-safari-password-import-skip-button = Spring over
 migration-safari-password-import-select-button = Vælg fil
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } bogmærke
        *[other] { $quantity } bogmærker
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } udvidelse
        *[other] { $quantity } udvidelser
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,10 +238,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } af { $quantity } udvidelser
+
 migration-wizard-progress-extensions-support-link = Læs hvordan { -brand-product-name } matcher udvidelser
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Ingen matchende udvidelser
+
 migration-wizard-progress-extensions-addons-link = Gennemse udvidelser for { -brand-short-name }
 
 ##
@@ -233,6 +258,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } adgangskode
        *[other] { $quantity } adgangskoder
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -243,7 +269,9 @@ migration-wizard-progress-success-history =
         [one] Fra den seneste dag
        *[other] Fra de seneste { $maxAgeInDays } dage
     }
+
 migration-wizard-progress-success-formdata = Formularhistorik
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -254,6 +282,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } betalingsmetode
        *[other] { $quantity } betalingsmetoder
     }
+
 migration-wizard-safari-permissions-sub-header = For at importere bogmærker og browserhistorik fra Safari:
 migration-wizard-safari-instructions-continue = Vælg "Fortsæt"
 migration-wizard-safari-instructions-folder = Vælg Safari-mappen på listen og vælg "Åbn"
