@@ -10,8 +10,10 @@
 
 opensearch-error-duplicate-title = Ошибка установки
 opensearch-error-duplicate-desc = { -brand-short-name } не смог установить поисковый плагин с «{ $location-url }», так как поисковая система с таким именем уже существует.
+
 opensearch-error-format-title = Некорректный формат
 opensearch-error-format-desc = { -brand-short-name } не смог установить поисковую систему из: { $location-url }
+
 opensearch-error-download-title = Ошибка загрузки
 opensearch-error-download-desc = { -brand-short-name } не смог загрузить поисковый плагин с: { $location-url }
 
@@ -19,9 +21,11 @@ opensearch-error-download-desc = { -brand-short-name } не смог загру�
 
 searchbar-submit =
     .tooltiptext = Найти
+
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Поиск
+
 searchbar-icon =
     .tooltiptext = Поиск
 

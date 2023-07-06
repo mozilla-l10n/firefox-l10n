@@ -4,15 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Неверный PIN-код! Пожалуйста, введите правильный PIN-код для вашего устройства.
-        [one] Неверный PIN-код! Пожалуйста, введите правильный PIN-код для вашего устройства. У вас осталась { $retriesLeft } попытка.
-        [few] Неверный PIN-код! Пожалуйста, введите правильный PIN-код для вашего устройства. У вас осталось { $retriesLeft } попытки.
-       *[many] Неверный PIN-код! Пожалуйста, введите правильный PIN-код для вашего устройства. У вас осталось { $retriesLeft } попыток.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Неверный PIN-код. У вас осталось { $retriesLeft } попытка, прежде чем вы навсегда потеряете доступ к учётным данным на этом устройстве.
@@ -21,6 +12,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Неверный PIN-код. Попробуйте снова.
 webauthn-pin-required-prompt = Пожалуйста, введите PIN-код для вашего устройства.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

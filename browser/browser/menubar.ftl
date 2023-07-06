@@ -38,9 +38,11 @@ menu-quit =
             [windows] х
            *[other] ы
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Завершить { -brand-shorter-name }
+
 menu-about =
     .label = О { -brand-shorter-name }
     .accesskey = О
@@ -221,8 +223,6 @@ menu-history-undo-menu =
     .label = Недавно закрытые вкладки
 menu-history-undo-window-menu =
     .label = Недавно закрытые окна
-menu-history-reopen-all-tabs = Снова открыть все вкладки
-menu-history-reopen-all-windows = Снова открыть все окна
 
 ## Bookmarks Menu
 
@@ -231,10 +231,6 @@ menu-bookmarks-menu =
     .accesskey = З
 menu-bookmarks-manage =
     .label = Управление закладками
-menu-bookmark-current-tab =
-    .label = Добавить текущую вкладку в закладки
-menu-bookmark-edit =
-    .label = Изменить эту закладку
 menu-bookmark-tab =
     .label = Добавить текущую вкладку в закладки…
 menu-edit-bookmark =

@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Импорт данных браузера
 migration-wizard-selection-list = Выберите данные, которые хотите импортировать.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Выберите данные, которые 
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Импортировать выбранные д
 
 migration-select-all-option-label = Выбрать все
 migration-bookmarks-option-label = Закладки
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Избранное
+
 migration-logins-and-passwords-option-label = Сохранённые логины и пароли
 migration-history-option-label = Журнал посещений
 migration-extensions-option-label = Расширения
 migration-form-autofill-option-label = Данные автозаполнения форм
 migration-payment-methods-option-label = Способы оплаты
+
 migration-cookies-option-label = Куки
 migration-session-option-label = Окна и вкладки
 migration-otherdata-option-label = Другие данные
+
 migration-passwords-from-file-progress-header = Импорт паролей из файла
 migration-passwords-from-file-success-header = Пароли успешно импортированы
 migration-passwords-from-file = Проверка файла на наличие паролей
 migration-passwords-new = Новые пароли
 migration-passwords-updated = Существующие пароли
+
 migration-passwords-from-file-no-valid-data = Файл не содержит корректных данных о паролях. Выберите другой файл.
+
 migration-passwords-from-file-picker-title = Импорт паролей из файла
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Документ TSV
        *[other] TSV-файл
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -96,6 +105,7 @@ migration-wizard-progress-success-new-passwords =
         [few] { $newEntries } добавлено
        *[many] { $newEntries } добавлено
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -107,11 +117,14 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } обновлено
        *[many] { $updatedEntries } обновлено
     }
+
 migration-bookmarks-from-file-picker-title = Импорт файла закладок
 migration-bookmarks-from-file-progress-header = Импорт закладок
 migration-bookmarks-from-file = Закладки
 migration-bookmarks-from-file-success-header = Закладки успешно импортированы
+
 migration-bookmarks-from-file-no-valid-data = Файл не содержит никаких данных о закладках. Выберите другой файл.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -119,9 +132,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-документ
        *[other] HTML-файл
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-файл
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -133,12 +148,14 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } закладки
        *[many] { $newEntries } закладок
     }
+
 migration-import-button-label = Импорт
 migration-choose-to-import-from-file-button-label = Импортировать из файла
 migration-import-from-file-button-label = Выберите файл
 migration-cancel-button-label = Отмена
 migration-done-button-label = Готово
 migration-continue-button-label = Продолжить
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не удалось найти ни одной программы, содержащей данные о закладках, истории или паролях.
 migration-wizard-import-browser-no-resources = Произошла ошибка. { -brand-short-name } не смог найти данные для импорта из этого профиля браузера.
 
@@ -149,6 +166,7 @@ migration-wizard-import-browser-no-resources = Произошла ошибка. 
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = закладки
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = избранное
@@ -166,6 +184,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Идёт импорт…
 migration-wizard-progress-icon-completed =
     .aria-label = Завершено
+
 migration-safari-password-import-header = Импорт паролей из Safari
 migration-safari-password-import-steps-header = Чтобы импортировать пароли Safari:
 migration-safari-password-import-step1 = В Safari откройте меню «Safari» и перейдите в «Настройки» > «Пароли».
@@ -174,6 +193,8 @@ migration-safari-password-import-step3 = Сохраните файл парол�
 migration-safari-password-import-step4 = Используйте «Выберите файл» ниже, чтобы выбрать файл паролей, который вы сохранили.
 migration-safari-password-import-skip-button = Пропустить
 migration-safari-password-import-select-button = Выберите файл
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -185,6 +206,7 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } закладки
        *[many] { $quantity } закладок
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -214,6 +236,7 @@ migration-wizard-progress-success-extensions =
         [few] { $quantity } расширения
        *[many] { $quantity } расширений
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -221,10 +244,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } из { $quantity } расширений
+
 migration-wizard-progress-extensions-support-link = Узнайте, как { -brand-product-name } проверяет расширения на совместимость
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Нет подходящих расширений
+
 migration-wizard-progress-extensions-addons-link = Просмотрите расширения для { -brand-short-name }
 
 ##
@@ -240,6 +265,7 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } пароля
        *[many] { $quantity } паролей
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -251,7 +277,9 @@ migration-wizard-progress-success-history =
         [few] За последние { $maxAgeInDays } дня
        *[many] За последние { $maxAgeInDays } дней
     }
+
 migration-wizard-progress-success-formdata = Журнал форм
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -263,6 +291,7 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } способа оплаты
        *[many] { $quantity } способов оплаты
     }
+
 migration-wizard-safari-permissions-sub-header = Чтобы импортировать закладки Safari и журнал посещённых страниц:
 migration-wizard-safari-instructions-continue = Нажмите «Продолжить»
 migration-wizard-safari-instructions-folder = Выберите папку Safari в списке и нажмите «Открыть».
