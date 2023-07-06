@@ -4,24 +4,23 @@
 
 pictureinpicture-player-title = Slika u slici
 
-pictureinpicture-pause =
-    .aria-label = Zaustavi
-pictureinpicture-play =
-    .aria-label = Pokreni
-
-pictureinpicture-mute =
-    .aria-label = Isključi zvuk
-pictureinpicture-unmute =
-    .aria-label = Uključi zvuk
-
-pictureinpicture-unpip =
-    .aria-label = Pošalji natrag na karticu
-
-pictureinpicture-close =
-    .aria-label = Zatvori
-
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+##
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
 
 ##
 

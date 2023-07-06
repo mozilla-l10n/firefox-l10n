@@ -30,6 +30,7 @@ url-classifier-cache-prefix = Prefiks
 url-classifier-debug-title = Otklanjanje grešaka
 url-classifier-debug-modules = Trenutačni log moduli
 url-classifier-debug-file = Trenutačna log datoteka
+
 url-classifier-trigger-update = Pokreni nadogradnju
 url-classifier-not-available = Ništa
 url-classifier-disable-sbjs-log = Onemogući JS zapis sigurnog pregledavanja
@@ -39,5 +40,9 @@ url-classifier-disabled = Onemogućeno
 url-classifier-updating = aktualiziranje
 url-classifier-cannot-update = nije moguće aktualizirati
 url-classifier-success = uspjeh
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = greška prilikom aktualiziranja ({ $error })
 url-classifier-download-error = greška prilikom preuzimanja ({ $error })

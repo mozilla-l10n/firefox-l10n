@@ -30,6 +30,7 @@ webrtc-item-browser = kartica
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Nepoznati izvor
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Kartice koje dijele uređaje
     .accesskey = u
+
 webrtc-sharing-window = Dijeliš drugi prozor aplikacije.
 webrtc-sharing-browser-window = Dijeliš { -brand-short-name }.
 webrtc-sharing-screen = Dijeliš svoj cijeli zaslon
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Upravljanje dijeljenjem
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Upravljanje dijeljenjem na "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Dijeljenje kamere sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -100,6 +103,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Dijeljenje kamere sa { $tabCount } kartice
            *[other] Dijeljenje kamere sa { $tabCount } kartica
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Dijeljenje mikrofona sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -109,6 +113,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Dijeljenje mikrofona sa { $tabCount } kartice
            *[other] Dijeljenje mikrofona sa { $tabCount } kartica
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Aplikacija se dijeli sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -118,6 +123,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Aplikacija se dijeli s { $tabCount } kartice
            *[other] Aplikacija se dijeli s { $tabCount } kartica
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Dijeljenje ekrana sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -127,6 +133,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Dijeljenje ekrana sa { $tabCount } kartice
            *[other] Dijeljenje ekrana sa { $tabCount } kartica
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Dijeljenje prozora sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +143,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Dijeljenje prozora sa { $tabCount } kartice
            *[other] Dijeljenje prozora sa { $tabCount } kartica
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Dijeljenje kartice sa "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -165,7 +173,6 @@ webrtc-allow-share-screen-and-audio-capture = Dopustiti stranici { $origin } slu
 ##   $thirdParty (String): the third party origin.
 
 webrtc-allow-share-camera-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojoj kameri?
-webrtc-allow-share-microphone-unsafe-delegations = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojem mikrofonu?
 webrtc-allow-share-microphone-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } omogući pristup tvojem mikrofonu?
 webrtc-allow-share-screen-unsafe-delegation = Dopustiti stranici { $origin } da stranici { $thirdParty } dozvoli da vidi tvoj zaslon?
 # "Speakers" is used in a general sense that might include headphones or
@@ -180,6 +187,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Dopustiti { $ori
 
 webrtc-share-screen-warning = Dijeli ekrane samo s web lokacijama kojima vjeruješ. Dijeljenje može omogućiti obmanjujućim web-lokacijama da pregledavaju kao i ti, te ukrasti tvoje privatne podatke.
 webrtc-share-browser-warning = Dijeli { -brand-short-name } samo s web lokacijama kojima vjeruješ. Dijeljenje može omogućiti obmanjujućim web-lokacijama da pregledavaju kao ti, te ukrasti tvoje privatne podatke.
+
 webrtc-share-screen-learn-more = Saznaj više
 webrtc-pick-window-or-screen = Odaberi prozor ili ekran
 webrtc-share-entire-screen = Cijeli ekran
@@ -216,6 +224,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Zapamti moju odluku
 webrtc-mute-notifications-checkbox = Utišaj obavijesti web-stranice tijekom dijeljenja
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne može dozvoliti trajni pristup tvom ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne može trajno dozvoliti pristup zvuku kartice, jer mora pitati koju karticu želiš dijeliti.
 webrtc-reason-for-no-permanent-allow-insecure = Veza s ovom stranicom nije sigurna. Kako bismo te zaštitili, { -brand-short-name } će dozvoliti pristup samo za trajanja ove sesije.

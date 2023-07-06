@@ -16,7 +16,6 @@ styleeditor-save-button = Spremi
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Mogućnosti uređivača stilova
-styleeditor-media-rules = @media pravila
 styleeditor-editor-textbox =
     .data-placeholder = Upišite CSS ovdje.
 styleeditor-no-stylesheet = Ova stranica nema stilove.
@@ -34,6 +33,7 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = Skoči na redak…
     .accesskey = r
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Otvori
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Otvori u novoj kartici
-    .accesskey = k
-synced-tabs-context-open-in-new-window =
-    .label = Otvori u novom prozoru
-    .accesskey = n
-synced-tabs-context-open-in-new-private-window =
-    .label = Otvori u novom privatnom prozoru
-    .accesskey = p
-synced-tabs-context-bookmark-single-tab =
-    .label = Zabilježi ovu stranicu…
-    .accesskey = B
 
 ##
 

@@ -5,15 +5,16 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Neovisni glasovi
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Boje koje mijenjaju kulturu.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Playmaker
+
 expressionist-colorway-name = Ekspresionist
+
 visionary-colorway-name = Vizionar
+
 activist-colorway-name = Aktivist
+
 dreamer-colorway-name = Sanjar
+
 innovator-colorway-name = Inovator

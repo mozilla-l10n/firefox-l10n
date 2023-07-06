@@ -21,10 +21,6 @@ certmgr-mine = Imaš certifikate sljedećih organizacija koje te identificiraju
 certmgr-people = Imaš spremljene certifikate koji identificiraju sljedeće osobe
 certmgr-ca = Imaš spremljene certifikate koji identificiraju ova certifikacijska tijela
 
-certmgr-edit-ca-cert =
-    .title = Uredi postavke povjerenja CA-ovih certifikata
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Uredi postavke povjerenja CA-ovih certifikata
     .style = min-width: 48em;
@@ -36,10 +32,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Ovaj certifikat može identificirati korisnike e-pošte.
-
-certmgr-delete-cert =
-    .title = Izbriši certifikat
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Izbriši certifikat
@@ -53,9 +45,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Poslužitelj
-
-certmgr-override-lifetime =
-    .label = Vijek trajanja
 
 certmgr-token-name =
     .label = Sigurnosni uređaj

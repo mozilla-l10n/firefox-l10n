@@ -20,7 +20,12 @@ unified-extensions-item-message-manage = Upravljaj proširenjem
 
 unified-extensions-context-menu-manage-extension =
     .label = Upravljaj proširenjem
+
 unified-extensions-context-menu-remove-extension =
     .label = Ukloni proširenje
+
 unified-extensions-context-menu-report-extension =
     .label = Prijavi proširenje
+
+## Notifications
+

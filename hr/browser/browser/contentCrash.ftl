@@ -6,6 +6,7 @@
 ## Subframe crash notification
 
 crashed-subframe-message = <strong>Dio ove stranice se srušio.</strong> Da bi { -brand-product-name } znao za ovu grešku i ispravio je, pošalji izvješće.
+
 # The string for crashed-subframe-title.title should match crashed-subframe-message,
 # but without any markup.
 crashed-subframe-title =
