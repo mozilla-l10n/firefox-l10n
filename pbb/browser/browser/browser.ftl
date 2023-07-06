@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Paçte kẽsejna)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Paçte kẽsejna)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox - (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Paçte kẽsejna)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Paçte kẽsejna)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -57,12 +24,8 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Thegna na vxisnxi's txãa software DRM
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Thegna katxudenxi's kapnasahnxite çxãçxa kapthusenxinxa'kh ayte
-urlbar-translate-notification-anchor =
-    .tooltiptext = Na's vxite yuwe kaykhewũjxa
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Thegna txãa vxitxh le'çxkwetx katxudenxii meçxa jxuka thegnxite aytewesxa's
-urlbar-translated-notification-anchor =
-    .tooltiptext = Thegna na kaskhewũjnxi's
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Thegna katxudenxi's kapnasahnxite y/o çxãçxa kapthusenxinxa'kh ayte
 
@@ -102,6 +65,7 @@ search-one-offs-context-open-new-tab =
 search-one-offs-context-set-as-default =
     .label = Txãa bubnxi's nawe pakwen jxanyah
     .accesskey = j
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -132,6 +96,7 @@ identity-passive-loaded = Naa kxtee web-te jiphunime's pa'yakx (piisanisa).
 identity-active-loaded = Ayte ktudujmeta payatx na paynxite.
 identity-weak-encryption = Naa fxi'jhnxisa mej tudkwe ũ'sa'
 identity-insecure-login-forms = Putxna na'we u'kan nate nanxu pa'yatxinega.
+
 identity-remove-cert-exception =
     .label = Khukhn yahtxn
     .accesskey = K
@@ -139,17 +104,12 @@ identity-description-insecure = Idx çxkitxanxii ayte paçteme ũsa' na ayte ta'
 identity-description-insecure-login-forms = Nawe putxn ta'sxnxii vxitn na ayte meka napa isasamena y suwena.
 identity-description-weak-cipher-intro = Idx ukanxii webte mvxis nawesa's uka'h wehçxaa ũ'sanapa jĩçxapa paçteme.
 identity-description-weak-cipher-risk = Vxite nasa idx vxitnxi's uyya ewutxina meçxa wejx phewuhya na webtewe'sxa's.
-identity-description-active-blocked = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta. <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
 identity-description-active-blocked2 = { -brand-short-name } na' aphne' maisa paynxite nanxu isa ewmeta.
 identity-description-passive-loaded = Idx çxkitxanxi' paçteme' aça tasxnxisa's katxuhdete ayte vxite uya' ewutxin.
-identity-description-passive-loaded-insecure = Ayte web jip ũsa' napa thakwe selpimena isamanx (nawẽ pisanxi). <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
-identity-description-passive-loaded-mixed = Ma'wẽtepa { -brand-short-name } nanxu aphnxi ũsn mawẽçxapa ji'pn, ma'wẽntepa nenxutana thegnxite ãhmetepa (ma'wẽsa pisanxitepa) <label data-l10n-name="link">&Jweiçxaa jiyunxi...</label>
 identity-description-passive-loaded-insecure2 = Ayte web jip ũsa' napa thakwe selpimena isamanx (nawẽ pisanxi).
 identity-description-passive-loaded-mixed2 = Ma'wẽtepa { -brand-short-name } nanxu aphnxi ũsn mawẽçxapa ji'pn, ma'wẽntepa nenxutana thegnxite ãhmetepa (ma'wẽsa pisanxitepa)
 identity-description-active-loaded = Ayte ahmea' webte ji'punxi' (nawẽsa scripts) vxite idx çxkitxanxii txãwẽsxi' paçteme nenxuna.
 identity-description-active-loaded-insecure = Ayte ta'sxn katxudenxi vxitetx ya' ta'sxya ewuna (nawẽ vxite paçte fxi'hjnxi, vxite yuwe kahnxisa vxite vxiu ktusehnxinxa'kh, meçxa fxifxisanxakh.).
-identity-learn-more =
-    .value = &Jweiçxaa jiyunxi...
 identity-disable-mixed-content-blocking =
     .label = Ãçxte phuphnxi's nuyçxhaçxhanximee.
     .accesskey = D
@@ -191,8 +151,10 @@ popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden
 
 urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
+
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
+
 urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
 
@@ -229,6 +191,8 @@ urlbar-result-action-switch-tab = Yu'pthẽn txhudeya'
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> Ãçx jxukate theguna'w
 fullscreen-warning-no-domain = Naa eç pejxinxi' ãçxa'h jxukate ũsa'
+
+
 fullscreen-exit-button = Kasehn txãa jxuka thegnxisate (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kasehn txãa jxuka thegnxisate (Esc)
@@ -250,8 +214,6 @@ bookmarks-sidebar-content =
 
 ##
 
-bookmarks-bookmark-edit-panel =
-    .label = Ki'phni kase'k
 bookmarks-toolbar-menu =
     .label = Pheu'çx mjinxi's txi'khnxisa' txe txi'pupnxa'çxa
 bookmarks-toolbar-placeholder =
@@ -291,6 +253,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Kakahna vxite vxitx le'çxkwe tudte txãpaka { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Aphna vxitx le'çxkwe tudteh { $uriHost }
     .accesskey = p
@@ -312,15 +275,19 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Spakxna
+
 navbar-overflow =
     .tooltiptext = Jwee vxiswa'j...
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Kẽsehn kaykheũ'sa
+
 tabs-toolbar-new-tab =
     .label = U'se txundesa
+
 tabs-toolbar-list-all-tabs =
     .label = Jxuka txundenxi's tasxna
     .tooltiptext = Jxuka txundenxi's tasxna
@@ -338,10 +305,14 @@ tabs-toolbar-list-all-tabs =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ´{ -brand-short-name } wa'lne' ayte kaskhewũhnxisa's ktusehyapt petx ũs.
 refresh-blocked-redirect-label = { -brand-short-name } petx ũs kaskhewũsa's txi' dxijaya'pte
+
 refresh-blocked-allow =
     .label = Ewun
     .accesskey = A
@@ -366,6 +337,7 @@ popup-warning-message =
         [one] { -brand-short-name } ayte ivxitne' vxite vxitx le'çxkwe phadewajas tudtewe'sx.
        *[other] { -brand-short-name } na' ayte phadeya ewumene' { $popupCount } vxitx le'çxkwe's tudtewe'sxa's.
     }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

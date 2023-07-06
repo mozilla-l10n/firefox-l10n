@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Pakweya'
 config-new-pref-name =
     .placeholder = Yase
+
 config-new-pref-value-boolean = Booleano
 config-new-pref-value-string = txanxi
 config-new-pref-value-integer = Ãhçxaasaa
+
 config-new-pref-string =
     .placeholder = U'hkan teeçx txãanxi
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Dewe
 config-new-pref-create-button = Vxitni
 config-new-pref-change-button = Yuptheya'
+
 config-pref-toggle-button = Yuptheya'
 config-pref-reset-button = Ma'wẽ u'pte txãawẽy ki'pya'
+
 config-context-menu-copy-pref-name =
     .label = Yase's kapsxi'dun
 config-context-menu-copy-pref-value =

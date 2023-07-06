@@ -148,6 +148,8 @@ menu-view-full-screen =
     .label = Jxuka the'gnxisa
     .accesskey = J
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-show-all-tabs =
@@ -180,8 +182,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Ki'phwa'ja's
     .accesskey = K
-menu-bookmark-edit =
-    .label = Ki'phni kase'k
 menu-bookmarks-all-tabs =
     .label = Txi'puphnxisa'tx kãjana & txujnden…
 menu-bookmarks-toolbar =

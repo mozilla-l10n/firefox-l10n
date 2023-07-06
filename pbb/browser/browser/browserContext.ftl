@@ -167,14 +167,6 @@ main-context-menu-audio-email =
     .label = Wẽsehnxitx kahnah…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Ki'tan na's plugin
-    .accesskey = K
-
-main-context-menu-plugin-hide =
-    .label = Paçte na's Kãjãya'
-    .accesskey = H
-
 ## The access keys for "Use Saved Login" and "Use Saved Password"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
@@ -204,10 +196,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Khtusehn txteçxa puçte
     .accesskey = K
-
-main-context-menu-frame-bookmark =
-    .label = Kãjãhn na's txhuden ki'phwa'ja's.
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Ew thegçxaa jxawnxi …

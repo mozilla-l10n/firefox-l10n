@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Aphmee
        *[other] Kase'mee
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Yu'pthẽhçxha' ãçxh tud çxkitxameete', kyujunxi' neyũuna' spakxnxisa'. ¿Isate yuu vxithwa'j peejxpa'ga?
        *[other] Ãçxh tudte yu'pthẽhte çxkitxanximee  yã'ja', tuduçmeeta' { $downloadsCount } spakxya'.¿Isa yuu tudte çxkitxawẽjeçmeepa'ga?
     }
 download-ui-dont-go-offline-button = Çxkitxãn nes yuuna
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Jkuka vxitx le'çxkwẽtx aphçxa' txãajĩçxa's ãçxh kẽse'hna, tuduçmeeta' 1 spahkxna. ¿Na's isa kase'wẽjẽ'ga peekxjĩiçxa's kẽse'jxa'?
        *[other] Jxuka vxitx le'çkwẽsx aphna ãçxh peekxjĩiçxa's kẽsehya', tuduçmeeta' { $downloadsCount } spakxna. ¿Isa kaseh wẽen ũsga' peekiçxaa kẽse'nxi's?
     }
 download-ui-dont-leave-private-browsing-button = Tud tud nes yũuna kẽsehna peekĩhçxa's
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Tuduçmeeth teeçxsa's spahkxya'

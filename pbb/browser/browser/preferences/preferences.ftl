@@ -4,10 +4,13 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Aphna
 
@@ -93,6 +96,7 @@ close-button =
 
 
 ## Search Section
+
 
 search-choose-engine-column =
     .label = jxukatek ẽsesen pakwe'

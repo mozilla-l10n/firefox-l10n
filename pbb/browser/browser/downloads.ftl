@@ -74,10 +74,12 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Spatxnxitxi khukhn
     .tooltiptext = Khukhna jxukate spatxnxitxi, tudume'h suwenxitxih
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Meeta spatxnxisa.
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Meetah spatxnxisa nate.
