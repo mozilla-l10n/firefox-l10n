@@ -74,3 +74,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cealaigh
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Seol an Tuairisc
+
+# Cookie Banner Handling
+

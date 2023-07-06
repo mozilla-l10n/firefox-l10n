@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Cuardaigh
 config-new-pref-name =
     .placeholder = Ainm
+
 config-new-pref-value-boolean = Boole
 config-new-pref-value-string = Teaghrán
 config-new-pref-value-integer = Slánuimhir
+
 config-new-pref-string =
     .placeholder = Cuir teaghrán isteach
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Cealaigh
 config-new-pref-create-button = Cruthaigh
 config-new-pref-change-button = Athraigh
+
 config-pref-toggle-button = Scoránaigh
 config-pref-reset-button = Bánaigh
+
 config-context-menu-copy-pref-name =
     .label = Cóipeáil an t-ainm
 config-context-menu-copy-pref-value =

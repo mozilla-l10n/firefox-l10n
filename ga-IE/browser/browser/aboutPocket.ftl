@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Sábháil
 pocket-panel-saved-saving-tags = Á Sábháil…
 pocket-panel-saved-suggested-tags = Clibeanna Molta
 pocket-panel-saved-tags-saved = Clibeanna curtha leis
-pocket-panel-signup-view-list = Féach ar an Liosta
 
 ## about:pocket-signup panel
 

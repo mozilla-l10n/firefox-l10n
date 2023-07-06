@@ -4,6 +4,7 @@
 
 about-reader-loading = Á Luchtú...
 about-reader-load-error = Níorbh fhéidir alt a lódáil ón leathanach
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

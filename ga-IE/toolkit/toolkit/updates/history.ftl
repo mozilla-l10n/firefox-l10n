@@ -23,5 +23,7 @@ state-header = Staid
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Mionsonraí
+
 update-installed-on = Suiteáilte ar: { $date }
+
 update-status = Stádas: { $status }

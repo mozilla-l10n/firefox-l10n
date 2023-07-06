@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Cluaisín Nua
+
 tabbrowser-menuitem-close-tab =
     .label = Dún Cluaisín
 tabbrowser-menuitem-close =
     .label = Dún
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
@@ -61,3 +63,6 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [many] Liostaigh na { $tabCount } gCluaisín
            *[other] Liostaigh na { $tabCount } Cluaisín
         }
+
+## Tab manager menu buttons
+

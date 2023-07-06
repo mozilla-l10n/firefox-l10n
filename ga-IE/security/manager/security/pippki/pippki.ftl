@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Teastas á íoslódáil
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Teastas á íoslódáil
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Tábhachtach: má dhéanann tú dearmad ar an bhfocal fa
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Fíordheimhniú le Comhartha Cosanta
-protected-auth-msg = Fíordheimhnigh leis an gcomhartha le do thoil. Braitheann an modh fíordheimhnithe ar chineál do chomhartha.
-protected-auth-token = Ceadchomhartha:
+## Protected authentication alert
+

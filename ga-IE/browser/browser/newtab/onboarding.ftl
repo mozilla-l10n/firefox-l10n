@@ -15,14 +15,9 @@ onboarding-welcome-header = Fáilte go { -brand-short-name }
 ## Custom Return To AMO onboarding strings
 
 
-## Multistage onboarding strings (about:welcome pages)
+##  Variables: $addon-name (String) - Name of the add-on to be installed
 
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Tús maith: scáileán { $current } as { $total }
+## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
@@ -43,9 +38,6 @@ onboarding-welcome-steps-indicator =
 
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Uathoibríoch
 
 ## Please make sure to split the content of the title attribute into lines whose
 ## width corresponds to about 40 Latin characters, to ensure that the tooltip
@@ -76,6 +68,8 @@ mr2-onboarding-theme-label-auto = Uathoibríoch
 
 ## Firefox 100 Thank You screens
 
+
+## MR2022 New User Easy Setup screen strings
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -114,4 +108,9 @@ mr2-onboarding-theme-label-auto = Uathoibríoch
 
 
 ## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

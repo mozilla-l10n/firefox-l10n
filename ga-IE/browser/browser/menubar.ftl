@@ -38,9 +38,11 @@ menu-quit =
             [windows] S
            *[other] S
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Scoir { -brand-shorter-name }
+
 menu-about =
     .label = Maidir le { -brand-shorter-name }
     .accesskey = M
@@ -229,10 +231,6 @@ menu-bookmarks-menu =
     .accesskey = L
 menu-bookmarks-manage =
     .label = Bainistigh Leabharmharcanna
-menu-bookmark-current-tab =
-    .label = Leabharmharcáil Cluaisín Reatha
-menu-bookmark-edit =
-    .label = Cuir an Leabharmharc Seo in Eagar
 menu-bookmark-tab =
     .label = Leabharmharcáil Cluaisín Reatha…
 menu-bookmarks-all-tabs =

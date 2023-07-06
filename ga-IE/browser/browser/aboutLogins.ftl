@@ -4,9 +4,7 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Focail Fhaire
-login-filter =
-    .placeholder = Cuardaigh Focal Faire
-create-login-button = Cruthaigh Logáil Isteach Nua
+
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
 fxaccounts-avatar-button =
     .title = Bainistigh an cuntas
@@ -68,9 +66,10 @@ login-item-copied-password-button-text = Cóipeáladh é!
 login-item-save-changes-button = Sábháil na hAthruithe
 login-item-save-new-button = Sábháil
 login-item-cancel-button = Cealaigh
-login-item-time-changed = Athrú is déanaí: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Cruthaithe: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Úsáid is déanaí: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -92,10 +91,18 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Cealaigh
 confirmation-dialog-dismiss-button =
     .title = Cealaigh
+
 about-logins-confirm-remove-dialog-title = Bain an Focal Faire seo?
 confirm-delete-dialog-message = Ní féidir an gníomh seo a chur ar ceal.
 about-logins-confirm-remove-dialog-confirm-button = Bain
+
+## Variables
+##   $count (number) - Number of items
+
+##
+
 about-logins-confirm-export-dialog-confirm-button = Easpórtáil…
+
 confirm-discard-changes-dialog-confirm-button = Cuileáil
 
 ## Breach Alert notification

@@ -32,6 +32,17 @@ neterror-load-error-firewall = Má tá do ríomhaire nó do líonra á chosaint 
 
 neterror-captive-portal = Caithfidh tú logáil isteach sa líonra sular féidir leat teacht ar an Idirlíon.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.
 neterror-file-not-found-moved = Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.
 
