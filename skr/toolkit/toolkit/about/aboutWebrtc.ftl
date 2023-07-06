@@ -117,6 +117,7 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (بند)
 ##  $codecs - a list of media codecs
 
 about-webrtc-short-send-direction = بھیڄو: { $codecs }
+about-webrtc-short-receive-direction = وصول کرو: { $codecs }
 
 ##
 
