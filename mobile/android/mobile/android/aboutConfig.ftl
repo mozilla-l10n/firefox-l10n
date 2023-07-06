@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = શોધો
 config-new-pref-name =
     .placeholder = નામ
+
 config-new-pref-value-boolean = બુલિયન
 config-new-pref-value-string = શબ્દમાળા
 config-new-pref-value-integer = પૂર્ણાંક
+
 config-new-pref-string =
     .placeholder = શબ્દમાળા દાખલ કરો
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = રદ કરો
 config-new-pref-create-button = બનાવો
 config-new-pref-change-button = બદલો
+
 config-pref-toggle-button = ફેરવો
 config-pref-reset-button = રીસેટ
+
 config-context-menu-copy-pref-name =
     .label = નામની નકલ કરો
 config-context-menu-copy-pref-value =

@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = આ પાનું બુકમાર્ક કરો...
-    .accesskey = m
-    .tooltiptext = આ પાનાં ને બુકમાર્ક કરો
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = આ પાનું બુકમાર્ક કરો...
-    .accesskey = m
-    .tooltiptext = આ પાનાં ({ $shortcut }) ને બુકમાર્ક કરો
-
-main-context-menu-bookmark-change =
-    .aria-label = આ બુકમાર્કમાં ફેરફાર કરો
-    .accesskey = m
-    .tooltiptext = આ બુકમાર્ક માં ફેરફાર કરો
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = આ બુકમાર્કમાં ફેરફાર કરો
-    .accesskey = m
-    .tooltiptext = આ બુકમાર્ક ({ $shortcut }) માં ફેરફાર કરો
-
 main-context-menu-open-link =
     .label = કડીને ખોલો
     .accesskey = O
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = ઇમેલ ઓડિયો…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = આ પ્લગઇન સક્રિય કરો
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = આ પ્લગઇન છુપાવો
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = પૃષ્ઠને { -pocket-brand-name } પર સાચવો
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = ચોકઠું પુનઃલાવો
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = આ ચોકઠું બુકમાર્ક કરો...
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = ચોકઠું આ રીતે સંગ્રહો...

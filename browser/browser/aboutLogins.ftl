@@ -11,11 +11,6 @@ about-logins-page-title = લોગિન્સ અને પાસવર્ડ�
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = લોગિન્સ શોધો
-
-create-login-button = નવું લોગિન બનાવો
-
 fxaccounts-sign-in-text = તમારા પાસવર્ડ્સ તમારા અન્ય ઉપકરણો પર મેળવો
 fxaccounts-avatar-button =
     .title = એકાઉન્ટ મેનેજ કરો
@@ -84,9 +79,10 @@ login-item-copied-password-button-text = નકલ કરેલ!
 login-item-save-changes-button = ફેરફારો સાચવો
 login-item-save-new-button = સાચવો
 login-item-cancel-button = રદ કરો
-login-item-time-changed = છેલ્લે સુધારેલું: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = બનાવ્યું: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = છેલ્લે વપરાયેલ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -123,6 +119,11 @@ about-logins-confirm-remove-dialog-title = આ લોગિન ને દૂર 
 confirm-delete-dialog-message = આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.
 about-logins-confirm-remove-dialog-confirm-button = દૂર કરો
 
+## Variables
+##   $count (number) - Number of items
+
+##
+
 confirm-discard-changes-dialog-title = વણસાચવેલા ફેરફારોને કાઢી નાખો?
 confirm-discard-changes-dialog-message = બધા વણસાચવેલા ફેરફારો ખોવાઈ જશે.
 confirm-discard-changes-dialog-confirm-button = કાઢી નાખો
@@ -132,7 +133,6 @@ confirm-discard-changes-dialog-confirm-button = કાઢી નાખો
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } પર જાઓ
-about-logins-breach-alert-learn-more-link = વધુ જાણો
 
 ## Vulnerable Password notification
 

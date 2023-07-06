@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = અપવાદો
-    .style = width: 45em
-
 permissions-window2 =
     .title = અપવાદો
     .style = min-width: 45em
@@ -73,10 +69,6 @@ permissions-invalid-uri-label = મહેરબાની કરીને મા�
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = અપવાદો - કૂકીઝ અને સાઇટ ડેટા
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = અપવાદો - કૂકીઝ અને સાઇટ ડેટા
     .style = { permissions-window2.style }
@@ -87,10 +79,6 @@ permissions-exceptions-cookie-desc = તમે કઈ વેબસાઇટ્�
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = માન્ય વેબસાઈટ્સ - પોપઅપ
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = માન્ય વેબસાઈટ્સ - પોપઅપ
     .style = { permissions-window2.style }
@@ -98,20 +86,12 @@ permissions-exceptions-popup-desc = તમે સ્પષ્ટ કરી શ�
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = અપવાદો - સાચવેલા લોગિન
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = અપવાદો - સાચવેલા લોગિન
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = નીચેની વેબસાઇટ્સ માટેના લૉગિન્સ સંગ્રહાશે નહીં
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = માન્ય વેબસાઈટ્સ - એડ-ઓન સ્થાપન
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = માન્ય વેબસાઈટ્સ - એડ-ઓન સ્થાપન
@@ -123,10 +103,6 @@ permissions-exceptions-addons-desc = કઈ વેબ સાઈટો એડ-ઓ
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = સેટિંગ્સ - સૂચના પરવાનગીઓ
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = સેટિંગ્સ - સૂચના પરવાનગીઓ
     .style = { permissions-window2.style }
@@ -136,10 +112,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = સૂચનાઓ મોકલવા માટે પરવાનગીની વિનંતિ કરવાથી ઉપરોક્ત સૂચિબદ્ધ કોઈપણ વેબસાઇટ્સને અટકાવશે. બ્લોકીંગ સૂચનાઓ કેટલીક વેબસાઈટ વિશિષ્ટતાઓ તોડી શકે છે.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = સેટિંગ્સ - સ્થાન પરવાનગીઓ
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = સેટિંગ્સ - સ્થાન પરવાનગીઓ
@@ -154,10 +126,6 @@ permissions-site-location-disable-desc = આ તમારા સ્થાનન�
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = સેટિંગ્સ - કૅમેરા પરવાનગીઓ
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = સેટિંગ્સ - કૅમેરા પરવાનગીઓ
     .style = { permissions-window2.style }
@@ -168,10 +136,6 @@ permissions-site-camera-disable-desc = આ તમારા કૅમેરાન
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = સેટિંગ્સ - માઇક્રોફોન પરવાનગીઓ
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = સેટિંગ્સ - માઇક્રોફોન પરવાનગીઓ
     .style = { permissions-window2.style }
@@ -179,3 +143,8 @@ permissions-site-microphone-desc = નીચેની વેબસાઇટ્�
 permissions-site-microphone-disable-label =
     .label = તમારા માઇક્રોફોનને મેળવવા માગતી નવી વિનંતીઓને અવરોધિત કરો
 permissions-site-microphone-disable-desc = આ તમારા માઇક્રોફોનને મેળવવા માટે પરવાનગીની વિનંતિ કરવાથી ઉપરોક્ત સૂચિબદ્ધ કોઈપણ વેબસાઇટ્સને અટકાવશે. તમારા માઇક્રોફોનને મેળવવાની અવરોધિત કરવાથી કેટલીક વેબસાઈટ સુવિધાઓ તૂટી શકે છે.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+
