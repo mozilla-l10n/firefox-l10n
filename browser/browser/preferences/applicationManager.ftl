@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-app-manager-window =
-    .title = Mion-fhiosrachadh na h-aplacaid
-    .style = width: 36em; min-height: 24em;
-
 app-manager-window2 =
     .title = Mion-fhiosrachadh na h-aplacaid
     .style = min-width: 36em; min-height: 24em;

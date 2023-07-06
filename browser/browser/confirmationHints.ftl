@@ -12,6 +12,5 @@ confirmation-hint-password-saved = Chaidh am facal-faire a shàbhaladh!
 confirmation-hint-pin-tab = Prìnichte!
 confirmation-hint-pin-tab-description = Dèan briogadh deas air an taba gus a dhì-phrìneachadh.
 confirmation-hint-send-to-device = Air a chur!
-confirmation-hint-firefox-relay-mask-generated = Chaidh masg { -relay-brand-short-name } ùr a chruthachadh!
 confirmation-hint-firefox-relay-mask-created = Chaidh masg ùr a chruthachadh!
 confirmation-hint-firefox-relay-mask-reused = Chaidh masg a bh’ agad mu thràth ath-chleachdadh!

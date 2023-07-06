@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Taba ùr
 tabbrowser-empty-private-tab-title = Taba prìobhaideach ùr
+
 tabbrowser-menuitem-close-tab =
     .label = Dùin an taba
 tabbrowser-menuitem-close =
     .label = Dùin
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -141,6 +144,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Na seall am bogsa-còmhraidh seo dho
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Thoir cead do brathan mar am fear seo o { $domain } gun doir iad dhan taba aca-san thu
+
 tabbrowser-customizemode-tab-title = Gnàthaich { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -159,6 +163,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Till fuaim nan tabaichean
     .accesskey = m
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = A’ cluich fuaim
 
@@ -174,3 +179,6 @@ tabbrowser-ctrl-tab-list-all-tabs =
             [few] Seall na tabaichean air fad ({ $tabCount })
            *[other] Seall na tabaichean air fad ({ $tabCount })
         }
+
+## Tab manager menu buttons
+

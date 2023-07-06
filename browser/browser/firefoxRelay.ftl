@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Feumaidh tu clàradh a-steach gu { -fxaccount-
 firefox-relay-get-unlimited-masks =
     .label = Stiùirich na masgan
     .accesskey = S
-firefox-relay-opt-in-title = Dìon an seòladh post-d agad
-firefox-relay-opt-in-subtitle = Cuir { -relay-brand-name } ris
-firefox-relay-generate-mask-title = Dìon an seòladh post-d agad
-firefox-relay-generate-mask-subtitle = Gin masg { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Lean air adhart
-    .accesskey = L
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Dìon an seòladh post-d agad:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

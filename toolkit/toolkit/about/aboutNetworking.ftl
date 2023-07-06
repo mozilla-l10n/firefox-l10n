@@ -34,13 +34,6 @@ about-networking-messages-received = Teachdaireachdan a fhuaradh
 about-networking-bytes-sent = Bytes a chaidh a chur
 about-networking-bytes-received = Bytes a fhuaradh
 about-networking-logging = Logadh
-about-networking-log-tutorial = Faic <a data-l10n-name="logging">Logadh HTTP</a> airson stiùireadh mun inneal seo.
-about-networking-current-log-file = Am faidhle logaidh làithreach:
-about-networking-current-log-modules = Na mòidealan logaidh làithreach:
-about-networking-set-log-file = Suidhich faidhle logaidh
-about-networking-set-log-modules = Suidhich mòidealan logaidh
-about-networking-start-logging = Tòisich air logadh
-about-networking-stop-logging = Sguir dhen logadh
 about-networking-dns-lookup = Lorg DNS
 about-networking-dns-lookup-button = Fuasgail
 about-networking-dns-domain = Àrainn:

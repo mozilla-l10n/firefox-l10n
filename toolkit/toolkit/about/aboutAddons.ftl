@@ -3,89 +3,118 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Manaidsear nan tuilleadan
+
 search-header =
     .placeholder = Lorg air addons.mozilla.org
     .searchbuttonlabel = Lorg
-search-header-shortcut =
-    .key = f
 
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Faigh leudachain is ùrlaran air <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = Faigh faclairean air <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-language-packs-message = Faigh pacaidean cànain air <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
 list-empty-installed =
     .value = Chan eil tuilleadan dhen t-seòrsa seo air a stàladh agad
+
 list-empty-available-updates =
     .value = Cha deach ùrachadh a lorg
+
 list-empty-recent-updates =
     .value = Cha do dh'ùraich thu tuilleadan sam bith o chionn goirid
+
 list-empty-find-updates =
     .label = Lorg ùrachaidhean
+
 list-empty-button =
     .label = Faigh barrachd fiosrachaidh mu thuilleadain
+
 help-button = Taic nan tuilleadan
 sidebar-help-button-title =
     .title = Taic nan tuilleadan
+
 addons-settings-button = Roghainnean { -brand-short-name }
 sidebar-settings-button-title =
     .title = Roghainnean { -brand-short-name }
+
 show-unsigned-extensions-button =
     .label = Bha leudachain ann nach b’ urrainn dhuinn dearbhadh
+
 show-all-extensions-button =
     .label = Seall a h-uile leudachan
+
 detail-version =
     .label = Tionndadh
+
 detail-last-updated =
     .label = Ùrachadh mu dheireadh
+
 addon-detail-description-expand = Seall barrachd
 addon-detail-description-collapse = Seall nas lugha
+
 detail-contributions-description = Dh'iarr leasaichear an tuilleadain seo gun cuir thu taic ri shìor-leasachadh tro thabhartas beag.
+
 detail-contributions-button = Gabh pàirt ann
     .title = Cuir taic ri leasachadh an leudachain seo
     .accesskey = C
+
 detail-update-type =
     .value = Ùrachaidhean fèin-obrachail
+
 detail-update-default =
     .label = Bunaiteach
     .tooltiptext = Na stàlaich ùrachaidhean gu fèin-obrachail ach mas e sin an roghainn bhunaiteach
+
 detail-update-automatic =
     .label = Air
     .tooltiptext = Stàlaich ùrachaidhean gu fèin-obrachail
+
 detail-update-manual =
     .label = Dheth
     .tooltiptext = Na stàlaich ùrachaidhean gu fèin-obrachail
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Ruith ann an uinneagan prìobhaideach
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Chan eil seo ceadaichte ann an uinneagan prìobhaideach
 detail-private-disallowed-description2 = Cha ruith an leudachan seo fhad ’s a nì thu brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Feumaidh seo cothrom air uinneagan prìobhaideach
 detail-private-required-description2 = Gheibh an leudachan cothrom air a’ ghnìomhachd air loidhne agad nuair a bhios tu ri brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
+
 detail-private-browsing-on =
     .label = Ceadaich
     .tooltiptext = Cuir an comas ann am brabhsadh prìobhaideach
+
 detail-private-browsing-off =
     .label = Na ceadaich
     .tooltiptext = Cuir à comas ann am brabhsadh prìobhaideach
+
 detail-home =
     .label = Duilleag-dhachaigh
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Pròifil an tuilleadain
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Lorg ùrachaidhean
     .accesskey = L
     .tooltiptext = Lorg ùrachaidhean airson an tuilleadain seo
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -102,23 +131,35 @@ detail-show-preferences =
             [windows] Atharraich roghainnean an tuilleadain seo
            *[other] Atharraich roghainnean an tuilleadain seo
         }
+
 detail-rating =
     .value = Rangachadh
+
 addon-restart-now =
     .label = Ath-thòisich an-dràsta
+
 disabled-unsigned-heading =
     .value = Chaidh cuid dhe na tuilleadain a chur à comas
+
 disabled-unsigned-description = Cha deach na tuilleadain a leanas a dhearbhadh a chum cleachdaidh ann an { -brand-short-name }. ’S urrainn dhut <label data-l10n-name="find-addons">feadhainn eile a lorg ’nan àite</label> no iarraidh air an luchd-leasachaidh aca an dearbhadh.
+
 disabled-unsigned-learn-more = Barrachd fiosrachaidh mu na nì sinn gus do chumail sàbhailte air loidhne.
+
 disabled-unsigned-devinfo = Mas e neach-leasachaidh a tha annad ’s tu a’ beachdachadh air dearbhadh nan tuilleadan agad, nach leugh thu<label data-l10n-name="learn-more">an stiùireadh againn</label>.
+
 plugin-deprecation-description = Dad a dhìth ort? Chan eil { -brand-short-name } a’ cur taic ri cuid a phlugain tuilleadh. <label data-l10n-name="learn-more">Barrachd fiosrachaidh.</label>
+
 legacy-warning-show-legacy = Seall leudachain dhìleabach
+
 legacy-extensions =
     .value = Leudachain dhìleabach
+
 legacy-extensions-description = Chan eil na leudachain seo a’ coileanadh stannardan { -brand-short-name } agus chaidh an cur às comas ri linn sin. <label data-l10n-name="legacy-learn-more">Fiosraich na tha ùr a thaobh leudachan</label>
+
 private-browsing-description2 =
     Tha { -brand-short-name } ag atharrachadh mar a dh’obraicheas leudachain ann am brabhsadh prìobhaideach. Cha ruith leudachan ùr sam bith a chuireas tu ri { -brand-short-name } ann an uinneagan prìobhaideach. Chan obraich an leudachan ann am brabhsadh prìobhaideach gus an ceadaich thu e sna roghainnean agus cha bhi cothrom aige air do ghnìomhachd air loidhne . Rinn sinn seo gus am brabhsadh prìobhaideach a chumail prìobhaideach.
     <label data-l10n-name="private-browsing-learn-more">Mar a stiùiricheas tu roghainnean nan leudachan</label>
+
 addon-category-discover = Na mholamaid
 addon-category-discover-title =
     .title = Na mholamaid
@@ -206,28 +247,35 @@ addon-open-about-debugging = Dì-bhugaich na tuilleadain
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Stiùirich ath-ghoiridean an leudachain
     .accesskey = S
+
 shortcuts-no-addons = Chan eil leudachan sam bith an comas agad.
 shortcuts-no-commands = Chan eil ath-ghoirid aig na leudachain a leanas:
 shortcuts-input =
     .placeholder = Cuir a-steach ath-ghoirid
+
 shortcuts-browserAction2 = Gnìomhaich putan a’ bhàr-inneal
 shortcuts-pageAction = Cuir gnìomh na duilleige an gnìomh
 shortcuts-sidebarAction = Toglaich am bàr-taoibh
+
 shortcuts-modifier-mac = Gabh a-staigh Ctrl, Alt no ⌘
 shortcuts-modifier-other = Gabh a-staigh Ctrl no Alt
 shortcuts-invalid = Combanaid mhì-dhligheach
 shortcuts-letter = Sgrìobh litir
 shortcuts-system = Cha ghabh ath-ghoirid { -brand-short-name } a thar-àithneadh
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Ath-ghoirid dhùblaichte
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Tha { $shortcut } ’ga chleachdadh ’na ath-ghoirid do dh’iomadh rud. Adhbharaichidh ath-ghoiridean dùblaichte giùlan ris nach eilear an dùil.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = ’Ga chleachdadh le { $addon } mu thràth
+
 # Variables:
 #   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
@@ -237,7 +285,9 @@ shortcuts-card-expand-button =
         [few] Seall { $numberToShow } a bharrachd
        *[other] Seall { $numberToShow } a bharrachd
     }
+
 shortcuts-card-collapse-button = Seall nas lugha
+
 header-back-button =
     .title = Air ais
 
@@ -252,12 +302,15 @@ discopane-intro =
     beaga seo ’gan leasachadh le treas-phàrtaidh gu tric. Seo roghadh is taghadh a tha
     { -brand-product-name } <a data-l10n-name="learn-more-trigger">a’ moladh</a> airson
     tèarainteachd, dèanadas is gleusan nas fheàrr.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Tha cuid dhe na molaidhean seo pearsanaichte. Tha iad stèidhichte air leudachain
     eile a stàlaich thu, roghainnean na pròifil is stadastaireachd a’ chleachdaidh.
 discopane-notice-learn-more = Barrachd fiosrachaidh
+
 privacy-policy = Am poileasaidh prìobhaideachd
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -273,6 +326,7 @@ install-theme-button = Stàlaich an t-ùrlar
 manage-addon-button = Stiùirich
 find-more-addons = Lorg barrachd leudachain
 find-more-themes = Lorg barrachd ùrlaran
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -298,47 +352,49 @@ preferences-addon-button =
 details-addon-button = Mion-fhiosrachadh
 release-notes-addon-button = Nòtaichean sgaoilidh
 permissions-addon-button = Ceadan
+
 extension-enabled-heading = An comas
 extension-disabled-heading = À comas
+
 theme-enabled-heading = An comas
-theme-disabled-heading = À comas
 theme-disabled-heading2 = Ùrlaran a shàbhail thu
-theme-monochromatic-heading = Sgeama dhathan
-theme-monochromatic-subheading = Feuch sgeamannan dhathan ùra le { -brand-product-name }. Ri fhaighinn fad ùine ghoirid.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Feuch na sgeamannan dhathan
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Atharraich an sgeama dhathan
-# Variables:
-#   $expiryDate (string) - Date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Falbhaidh an ùine air { DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = An comas
 plugin-disabled-heading = À comas
+
 dictionary-enabled-heading = An comas
 dictionary-disabled-heading = À comas
+
 locale-enabled-heading = An comas
 locale-disabled-heading = À comas
+
 sitepermission-enabled-heading = An comas
 sitepermission-disabled-heading = À comas
+
 always-activate-button = Cuir an gnìomh an-còmhnaidh
 never-activate-button = Na cuir an gnìomh idir
+
 addon-detail-author-label = Ùghdar
 addon-detail-version-label = Tionndadh
 addon-detail-last-updated-label = Ùrachadh mu dheireadh
 addon-detail-homepage-label = Duilleag-dhachaigh
 addon-detail-rating-label = Rangachadh
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Thèid an leudachan seo ùrachadh nuair a thèid { -brand-short-name } ath-thòiseachadh.
 install-postponed-button = Ùraich an-dràsta
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Rangachadh { NUMBER($rating, maximumFractionDigits: 1) } à 5
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (à comas)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -356,12 +412,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Chaidh <span data-l10n-name="addon-name">{ $addon }</span> a thoirt air falbh.
 pending-uninstall-undo-button = Neo-dhèan
+
 addon-detail-updates-label = Ceadaich ùrachaidhean fèin-obrachail
 addon-detail-updates-radio-default = Bun-roghainn
 addon-detail-updates-radio-on = Air
 addon-detail-updates-radio-off = Dheth
 addon-detail-update-check-label = Thoir sùil airson ùrachaidhean
 install-update-button = Ùraich
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -370,6 +428,9 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Ma fhuair e cead, gheibh an leudachan cothrom air a’ ghnìomhachd air loidhne agad nuair a bhios tu ri brabhsadh prìobhaideach. <a data-l10n-name="learn-more">Barrachd fiosrachaidh</a>
 addon-detail-private-browsing-allow = Ceadaich
 addon-detail-private-browsing-disallow = Na ceadaich
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -390,17 +451,22 @@ addon-badge-verified2 =
 
 available-updates-heading = Ùrachaidhean a tha ri am faighinn
 recent-updates-heading = Na chaidh ùrachadh o chionn goirid
+
 release-notes-loading = ’Ga luchdadh…
 release-notes-error = Tha sinn duilich ach thachair mearachd rè luchdadh nan nòtaichean sgaoilidh.
+
 addon-permissions-empty = Chan eil an leudachan seo feumach air cead sam bith
 addon-permissions-required = Ceadan riatanach dha na bun-ghleusan:
 addon-permissions-optional = Ceadan roghainneil airson barrachd ghleusan:
 addon-permissions-learnmore = Barrachd fiosrachaidh mu cheadan
+
 recommended-extensions-heading = Leudachain a mholamaid
 recommended-themes-heading = Ùrlaran a mholamaid
+
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Bheir seo na comasan a leanas dha <span data-l10n-name="hostname">{ $hostname }</span>:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Am bu mhiann leat cruthachadh? <a data-l10n-name="link">Tog an t-ùrlar agad fhèin le Firefox Color.</a>
@@ -416,9 +482,11 @@ updates-heading = Stiùirich na h-ùrachaidhean agad
 sitepermission-heading = Stiùirich ceadan na làraich agad
 discover-heading = Cuir dreach pearsanta air { -brand-short-name }
 shortcuts-heading = Stiùirich ath-ghoiridean an leudachain
+
 default-heading-search-label = Lorg barrachd leudachain
 addons-heading-search-input =
     .placeholder = Lorg air addons.mozilla.org
+
 addon-page-options-button =
     .title = Innealan airson a h-uile tuilleadan
 
@@ -435,12 +503,17 @@ addon-page-options-button =
 #   $version (string) - Application version.
 details-notification-incompatible = Chan eil { $name } co-chòrdail le { -brand-short-name } { $version }.
 details-notification-incompatible-link = Barrachd fiosrachaidh
+
 details-notification-unsigned-and-disabled = Cha b’ urrainn dhuinn { $name } a dhearbhadh a chum cleachdaidh ann an { -brand-short-name } agus chaidh a chur à comas.
 details-notification-unsigned-and-disabled-link = Barrachd fiosrachaidh
+
 details-notification-unsigned = Cha b’ urrainn dhuinn { $name } a dhearbhadh a chum cleachdaidh ann an { -brand-short-name }. Bi faiceallach.
 details-notification-unsigned-link = Barrachd fiosrachaidh
+
 details-notification-blocked = Chaidh { $name } a chur à comas air sgàth adhbharan tèarainteachd no seasmhachd.
 details-notification-blocked-link = Barrachd fiosrachaidh
+
 details-notification-softblocked = Tha fhios gun adhbharaich { $name } duilgheadasan tèarainteachd is seasmhachd.
 details-notification-softblocked-link = Barrachd fiosrachaidh
+
 details-notification-gmp-pending = Thèid { $name } stàladh a dh'aithghearr.

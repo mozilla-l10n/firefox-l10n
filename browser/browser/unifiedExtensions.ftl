@@ -20,19 +20,28 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Fosgail an clàr-taice airson { $extensionName }
+
 unified-extensions-item-message-manage = Stiùirich an leudachan
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Prìnich ris a’ bhàr-inneal
+
 unified-extensions-context-menu-manage-extension =
     .label = Stiùirich an leudachan
+
 unified-extensions-context-menu-remove-extension =
     .label = Thoir an leudachan air falbh
+
 unified-extensions-context-menu-report-extension =
     .label = Dèan aithris air an leudachan
+
 unified-extensions-context-menu-move-widget-up =
     .label = Gluais suas
+
 unified-extensions-context-menu-move-widget-down =
     .label = Gluais sìos
+
+## Notifications
+
