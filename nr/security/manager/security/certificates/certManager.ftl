@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Iimphathi mandla
 
-certmgr-edit-ca-cert =
-    .title = Lungisa ijamo lesitifikeyiti se trust yeCA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Lungisa ijamo lesitifikeyiti se trust yeCA
     .style = min-width: 48em;
@@ -26,10 +22,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Isitifikeyitesi singakgonukwazi abasebenzisa iposo.
-
-certmgr-delete-cert =
-    .title = Sula isitifikeyiti
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Sula isitifikeyiti

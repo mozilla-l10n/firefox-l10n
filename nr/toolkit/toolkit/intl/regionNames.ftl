@@ -51,7 +51,6 @@ region-name-ly = Libhiya
 region-name-ma = iMorocco
 region-name-mc = iMonakho
 region-name-md = Moldova, Iriphabhliki ye
-region-name-mk = i-Macedonia
 region-name-mo = i-Macao
 region-name-mx = iMexikho
 region-name-my = i-Malaysia
