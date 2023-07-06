@@ -2,18 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-colors-window =
-    .title = Kleuren
-    .style =
-        { PLATFORM() ->
-            [macos] width: 41em
-           *[other] width: 43em
-        }
-
-colors-dialog =
-    .title = Kleuren
-    .style = width: 41em;
-
 colors-dialog2 =
     .title = Kleuren
     .style = min-width: 41em;

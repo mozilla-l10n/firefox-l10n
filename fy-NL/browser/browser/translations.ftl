@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Dizze side oersette
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Side oerset fan it { $fromLanguage } nei it { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Oersetting wurdt útfierd
+
 translations-panel-settings-button =
     .aria-label = Oersetynstellingen beheare
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Talen beheare
 translations-panel-settings-about = Oer oersettingen yn { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = { $language } altyd oersette
 translations-panel-settings-always-translate-unknown-language =
     .label = Dizze taal altyd oersette
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = { $language } nea oersette
 translations-panel-settings-never-translate-unknown-language =
     .label = Dizze taal nea oersette
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Dizze website nea oersette
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Ien momint…
 translations-panel-translate-cancel =
     .label = Annulearje
+
 translations-panel-error-translating = Der is in probleem bard by it oersetten. Probearje it opnij.
 translations-panel-error-load-languages = Koe talen net lade
 translations-panel-error-load-languages-hint = Kontrolearje jo ynternetferbining en probearje it opnij.
 translations-panel-error-load-languages-hint-button =
     .label = Opnij probearje
+
 translations-panel-error-unsupported = Der is foar dizze side gjin oersetting beskikber
 translations-panel-error-dismiss-button =
     .label = Begrepen
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Der is in probleem bard by it downloaden fan de taalbestannen. Probearje it opnij.
 translations-manage-error-delete = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
 translations-manage-error-list = Kin de list mei beskikbere talen foar oersetting net ophelje. Fernij de side om it opnij te probearjen.
+
 translations-settings-title =
     .title = Oersetynstellingen
     .style = min-width: 36em

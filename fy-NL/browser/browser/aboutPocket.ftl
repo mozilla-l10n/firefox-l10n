@@ -11,6 +11,7 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Labels tafoegje
+
 pocket-panel-saved-error-generic = Der is in flater bard by it bewarjen nei { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Labels binne beheint ta 25 tekens
 pocket-panel-saved-error-only-links = Allinnich keppelingen kinne bewarre wurde
@@ -21,7 +22,6 @@ pocket-panel-saved-page-removed = Side fuortsmiten
 pocket-panel-saved-page-saved = Bewarre nei { -pocket-brand-name }
 pocket-panel-saved-page-saved-b = Bewarre nei { -pocket-brand-name }!
 pocket-panel-saved-processing-remove = Side fuortsmite…
-pocket-panel-saved-removed = Side út Myn list fuortsmiten
 pocket-panel-saved-removed-updated = Side út Opgeslagen items fuortsmiten
 pocket-panel-saved-processing-tags = Labels tafoegje…
 pocket-panel-saved-remove-page = Side fuortsmite
@@ -29,7 +29,7 @@ pocket-panel-saved-save-tags = Bewarje
 pocket-panel-saved-saving-tags = Bewarje…
 pocket-panel-saved-suggested-tags = Foarstelde labels
 pocket-panel-saved-tags-saved = Labels tafoege
-pocket-panel-signup-view-list = List werjaan
+
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Labels tafoegje:
 
@@ -44,21 +44,20 @@ pocket-panel-signup-signup-firefox = Registrearje mei { -brand-product-name }
 pocket-panel-signup-tagline = Bewarje artikelen en fideo’s fan { -brand-product-name } út foar werjaan yn { -pocket-brand-name } op ferskate apparaten, wannear dan ek.
 pocket-panel-signup-tagline-story-one = Klik op de { -pocket-brand-name }-knop om artikelen, fideo’s of siden fan { -brand-product-name } út te bewarjen.
 pocket-panel-signup-tagline-story-two = Besjoch se yn { -pocket-brand-name } op ferskate apparaten, wannear dan ek.
+
 pocket-panel-signup-cta-a-fix = Jo bewarknop foar it ynternet
-pocket-panel-signup-cta-b = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen. Besjoch jo list op elk apparaat, wannear dan ek.
 pocket-panel-signup-cta-b-updated = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen. Besjoch jo bewarre items op elk apparaat, wannear dan ek.
 pocket-panel-signup-cta-b-short = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen.
-pocket-panel-signup-cta-c = Besjoch jo list op elk apparaat, wannear dan ek.
 pocket-panel-signup-cta-c-updated = Besjoch jo bewarre items op elk apparaat, wannear dan ek.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Myn list
 pocket-panel-home-welcome-back = Wolkom werom
 pocket-panel-home-paragraph = Jo kinne { -pocket-brand-name } brûke om websiden, artikelen, fideo’s en podcasts te ferkennen en te bewarjen, of om tebek te gean nei wat jo oan it lêzen wiene.
 pocket-panel-home-explore-popular-topics = Populêre ûnderwerpen ferkenne
 pocket-panel-home-discover-more = Mear ûntdekke
 pocket-panel-home-explore-more = Ferkenne
+
 pocket-panel-home-most-recent-saves = Dit binne jo meast resinte bewarre items:
 pocket-panel-home-most-recent-saves-loading = Resint bewarre items wurde laden…
 pocket-panel-home-new-user-cta = Klik op de knop { -pocket-brand-name } om artikelen, fideo’s en keppelingen te bewarjen.
@@ -66,7 +65,6 @@ pocket-panel-home-new-user-message = Besjoch hjir jo resint bewarre items.
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Myn list besjen
 pocket-panel-header-my-saves = Myn Opgeslagen items besjen
 pocket-panel-header-sign-in = Oanmelde
 

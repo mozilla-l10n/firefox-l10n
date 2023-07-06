@@ -12,7 +12,6 @@ confirmation-hint-password-saved = Wachtwurd bewarre!
 confirmation-hint-pin-tab = Fêstset!
 confirmation-hint-pin-tab-description = Klik mei rjochts op it ljepblêd om it los te meitsjen.
 confirmation-hint-send-to-device = Ferstjoerd!
-confirmation-hint-firefox-relay-mask-generated = Nij { -relay-brand-short-name }-masker oanmakke!
 confirmation-hint-firefox-relay-mask-created = Nij masker oanmakke!
 confirmation-hint-firefox-relay-mask-reused = Besteand masker opnij brûkt!
 confirmation-hint-screenshot-copied = Skermôfbylding kopiearre!
