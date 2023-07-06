@@ -14,6 +14,10 @@ onboarding-welcome-header = Tere tulemast { -brand-short-name }i
 onboarding-start-browsing-button-label = Alusta veebilehitsemist
 onboarding-not-now-button-label = Mitte praegu
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Tee algust
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Tore, sul on nüüd { -brand-short-name }
@@ -25,36 +29,14 @@ return-to-amo-addon-title = Hangime sulle nüüd ka laienduse <img data-l10n-nam
 return-to-amo-add-extension-label = Paigalda laiendus
 return-to-amo-add-theme-label = Lisa teema
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Alustamine: { $current }/{ $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text =
-    Tuli algab
-    siit
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — mööblidisainer, Firefoxi fänn
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Lülita animatsioonid välja
@@ -63,75 +45,22 @@ mr1-onboarding-reduce-motion-button-label = Lülita animatsioonid välja
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Lihtsamaks juurdepääsuks kinnita { -brand-short-name } dokile
-       *[other] Lihtsamaks juurdepääsuks kinnita { -brand-short-name } tegumiribale
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Hoia dokil
-       *[other] Kinnita tegumiribale
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Tee algust
-
-mr1-onboarding-welcome-header = Tere tulemast { -brand-short-name }i
-mr1-onboarding-set-default-pin-primary-button-label = Määra { -brand-short-name } vaikebrauseriks
-    .title = Määrab { -brand-short-name } vaikebrauseriks ja kinnitab tegumiribale
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Määra { -brand-short-name } vaikebrauseriks
-mr1-onboarding-set-default-secondary-button-label = Mitte praegu
 mr1-onboarding-sign-in-button-label = Logi sisse
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Määra { -brand-short-name } vaikebrauseriks
-mr1-onboarding-default-subtitle = Pane kiirus, turvalisus ja privaatsus autopiloodile.
-mr1-onboarding-default-primary-button-label = Määra vaikebrauseriks
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = Võta see kõik endaga kaasa
-mr1-onboarding-import-subtitle = Impordi oma paroolid, <br/>järjehoidjad ja muud asjad.
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Impordi brauserist { $previous }
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Impordi eelmisest brauserist
-mr1-onboarding-import-secondary-button-label = Mitte praegu
-
-mr2-onboarding-colorway-header = Elu värvides
-mr2-onboarding-colorway-subtitle = Uued särtsakad värvitoonid. Saadaval piiratud aja jooksul.
-mr2-onboarding-colorway-primary-button-label = Salvesta värvitoon
-mr2-onboarding-colorway-secondary-button-label = Mitte praegu
-mr2-onboarding-colorway-label-soft = Pehme
-mr2-onboarding-colorway-label-balanced = Tasakaalustatud
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Paks
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Automaatne
-
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Vaikimisi
-
 mr1-onboarding-theme-header = Tee see enda omaks
 mr1-onboarding-theme-subtitle = Isikupärasta oma { -brand-short-name } teemaga.
-mr1-onboarding-theme-primary-button-label = Salvesta teema
 mr1-onboarding-theme-secondary-button-label = Mitte praegu
 
 # System theme uses operating system color settings
@@ -197,31 +126,6 @@ mr1-onboarding-theme-description-alpenglow =
         Nuppude, menüüde ja akende jaoks
         kasutatakse värvikat teemat.
 
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Kasuta seda värvivalikut.
-
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Kasuta seda värvivalikut.
-
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Avasta { $colorwayName } värvivalikud.
-
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Avasta { $colorwayName } värvivalikud.
-
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Vaata vaikimisi teemasid.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Vaata vaikimisi teemasid.
 
@@ -282,6 +186,8 @@ fx100-upgrade-thank-you-body = See on meie 100. { -brand-short-name }i väljalas
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = See on meie 100. väljalase. Täname, et oled osaks meie kogukonnast. Hoia { -brand-short-name } klõpsu kaugusel ka järgmise 100 väljalaske jooksul.
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -307,4 +213,11 @@ fx100-upgrade-thanks-keep-body = See on meie 100. väljalase. Täname, et oled o
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

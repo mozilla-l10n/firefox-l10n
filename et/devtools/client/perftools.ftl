@@ -83,8 +83,6 @@ perftools-thread-renderer =
     .title = When WebRender is enabled, the thread that executes OpenGL calls
 perftools-thread-render-backend =
     .title = The WebRender RenderBackend thread
-perftools-thread-paint-worker =
-    .title = When off-main-thread painting is enabled, the thread on which painting happens
 perftools-thread-timer =
     .title = The thread handling timers (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -132,6 +130,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web Developer

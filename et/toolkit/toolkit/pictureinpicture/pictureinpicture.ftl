@@ -4,24 +4,23 @@
 
 pictureinpicture-player-title = Pilt-pildis
 
-pictureinpicture-pause =
-    .aria-label = Paus
-pictureinpicture-play =
-    .aria-label = Esita
-
-pictureinpicture-mute =
-    .aria-label = Summutatud
-pictureinpicture-unmute =
-    .aria-label = Summutus maha
-
-pictureinpicture-unpip =
-    .aria-label = Saada tagasi kaardile
-
-pictureinpicture-close =
-    .aria-label = Sulge
-
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+##
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
 
 ##
 

@@ -118,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Keela
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Sinu privaatsus on oluline. { -brand-short-name } isoleerib või aedikkäitab nüüd veebilehed üksteisest eraldi, mis teeb kurikaeladel paroolide, krediitkaardinumbrite ja muu tundliku teabe varastamise raskemaks.
-cfr-doorhanger-fission-header = Saitide isoleerimine
-cfr-doorhanger-fission-primary-button = Olgu, sain aru
-    .accesskey = g
-cfr-doorhanger-fission-secondary-button = Rohkem teavet
-    .accesskey = h
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Sellel saidil olevaid videoid ei pruugita selle { -brand-short-name } versiooniga õigesti esitada. Täieliku videotoe saamiseks uuendage { -brand-short-name } kohe.
@@ -133,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Uuenda kohe
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Rohkem teavet
-    .title = Funktsionaalsuse rohkema teabe jaoks laienda
-spotlight-learn-more-expanded = Rohkem teavet
-    .title = Sulge
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -154,21 +142,6 @@ spotlight-public-wifi-vpn-link = Mitte praegu
     .accesskey = M
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = Testi meie kõige võimsamat privaatsuskogemust
-spotlight-total-cookie-protection-body = Täielik küpsistevastane kaitse takistab jälitajatel küpsiste kaudu sinu tegevuse jälgimise.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } ehitab küpsiste ümber aia, piirates need ühele saidile, nii et jälitajad ei saa neid sinu jälitamiseks kasutada. Varase ligipääsu kaudu aitad meil seda funktsionaalsust optimeerida, nii et saaksime ehitada parema veebi kõigile.
-spotlight-total-cookie-protection-primary-button = Lülita sisse täielik küpsiste vastane kaitse
-spotlight-total-cookie-protection-secondary-button = Mitte praegu
-
-cfr-total-cookie-protection-header = Tänu sulle on { -brand-short-name } veel privaatsem ja turvalisem kui kunagi varem
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch". Only those who received it and accepted are shown this message.
-cfr-total-cookie-protection-body = Täielik küpsistekaitse on meie seni tugevaim privaatsuskaitse – ja see on nüüd vaikeseade { -brand-short-name }i kasutajatele kõikjal. Me poleks seda saanud teha ilma sinusuguste varajase ligipääsuga osalejateta. Täname, et aitasid meil luua paremat ja privaatsemat internetti.
 
 ## Emotive Continuous Onboarding
 
@@ -199,4 +172,16 @@ spotlight-pin-secondary-button = Mitte praegu
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

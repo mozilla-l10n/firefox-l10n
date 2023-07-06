@@ -237,20 +237,10 @@ newtab-pocket-cta-button = Hangi { -pocket-brand-name }
 newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name } perekonnast
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Salvesta { -pocket-brand-name }isse
-newtab-pocket-saved-to-pocket = { -pocket-brand-name }isse salvestatud
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Laadi rohkem lugusid
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Jõudsid lõpuni!
-newtab-pocket-last-card-desc = Uute lugude vaatamiseks tule hiljem tagasi.
-newtab-pocket-last-card-image =
-    .alt = Jõudsid lõpuni!
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

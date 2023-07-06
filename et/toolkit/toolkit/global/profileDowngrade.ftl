@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiledowngrade-window =
-    .title = Käivitatud on { -brand-product-name }i vanem versioon
-    .style = width: 490px;
-
 profiledowngrade-window2 =
     .title = Käivitatud on { -brand-product-name }i vanem versioon
     .style = min-width: 490px;

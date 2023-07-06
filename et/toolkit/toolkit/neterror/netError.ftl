@@ -41,6 +41,17 @@ neterror-load-error-firewall = Kui sinu arvuti või võrk on kaitstud tulemüür
 
 neterror-captive-portal = Internetti pääsemiseks pead sellesse võrku sisse logima.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Kontrolli faili nimes olevaid suurtähti või muid sisestusvigu.
 neterror-file-not-found-moved = Kontrolli, kas faili pole mujale liigutatud, ümber nimetatud või kustutatud.
 

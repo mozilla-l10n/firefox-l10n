@@ -167,6 +167,8 @@ media-capabilities-title = Meedia esitamise võimekus
 # List all the entries of the database.
 media-capabilities-enumerate = Hinda uuesti
 
+## Codec support table
+
 ##
 
 intl-title = Lokaliseerimine

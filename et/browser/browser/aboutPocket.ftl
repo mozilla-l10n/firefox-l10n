@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = Leht eemaldati
 pocket-panel-saved-page-saved = { -pocket-brand-name }isse salvestatud
 pocket-panel-saved-page-saved-b = Salvesta { -pocket-brand-name }isse!
 pocket-panel-saved-processing-remove = Lehe eemaldamine…
-pocket-panel-saved-removed = Leht eemaldati nimekirjast
 pocket-panel-saved-processing-tags = Siltide lisamine…
 pocket-panel-saved-remove-page = Eemalda leht
 pocket-panel-saved-save-tags = Salvesta
 pocket-panel-saved-saving-tags = Salvestamine…
 pocket-panel-saved-suggested-tags = Soovitatud sildid
 pocket-panel-saved-tags-saved = Sildid on lisatud
-pocket-panel-signup-view-list = Vaata nimekirja
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Lisa silte:
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = Artikli, video või lehe salvestamiseks 
 pocket-panel-signup-tagline-story-two = Vaata { -pocket-brand-name }ist kõigil seadmeil just siis, kui ise soovid.
 
 pocket-panel-signup-cta-a-fix = Sinu interneti salvestamise nupp
-pocket-panel-signup-cta-b = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu. Vaata oma nimekirja mis tahes seadmes ja igal ajal.
 pocket-panel-signup-cta-b-short = Artiklite, videote ja linkide salvestamiseks klõpsa { -pocket-brand-name }i nuppu.
-pocket-panel-signup-cta-c = Vaata oma nimekirja mis tahes seadmes ja igal ajal.
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Minu nimekiri
 pocket-panel-home-welcome-back = Tere tulemast tagasi
 pocket-panel-home-paragraph = { -pocket-brand-name }it saad kasutada veebisaitide, artiklite, videote, taskuhäälingusaadete avastamiseks ja salvestamiseks või loetu juurde naasmiseks.
 pocket-panel-home-explore-popular-topics = Avasta populaarseid teemasid
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = Vaata oma viimati salvestatud linke siit.
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Vaata minu nimekirja
 pocket-panel-header-sign-in = Logi sisse
 
 ## Pocket panel buttons

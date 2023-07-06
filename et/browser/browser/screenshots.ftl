@@ -55,3 +55,4 @@ screenshots-private-window-error-details = Vabandame tüli tekitamise pärast. T
 
 screenshots-generic-error-title = Oi-oi! { -screenshots-brand-name } läks sassi.
 screenshots-generic-error-details = Me pole kindlad, mis just juhtus. Proovid ehk uuesti või teed ekraanipildi mõnest teisest lehest?
+

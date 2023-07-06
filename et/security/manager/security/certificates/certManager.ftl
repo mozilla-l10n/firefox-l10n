@@ -26,10 +26,6 @@ certmgr-people = Sul on järgnevaid inimesi tuvastavaid sertifikaate
 certmgr-server = Need kirjed tuvastavad serverite sertide vigade erandeid
 certmgr-ca = Sul on järgnevaid sertifitseerimiskeskusi tuvastavaid sertifikaate
 
-certmgr-edit-ca-cert =
-    .title = SK sertifikaadi usaldusväärsuse sätete redigeerimine
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = SK sertifikaadi usaldusväärsuse sätete redigeerimine
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Selle sertifikaadiga saab tuvastada e-posti kasutajaid.
-
-certmgr-delete-cert =
-    .title = Sertifikaadi kustutamine
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Sertifikaadi kustutamine
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Eluaeg
 
 certmgr-token-name =
     .label = Turvaseade

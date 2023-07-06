@@ -64,9 +64,6 @@ import-items-description = Vali, millised elemendid imporditakse:
 
 import-permissions-page-title = Palun anna { -brand-short-name }ile õigused
 
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = macOS nõuab, et lubaksid { -brand-short-name }le selgesõnaliselt juurdepääsu Safari järjehoidjatele. Klõpsa “Jätka” ja vali avanenud aknast fail “Bookmarks.plist”.
-
 import-migrating-page-title = Importimine...
 
 import-migrating-description = Toimub järgnevate elementide importimine...
@@ -158,3 +155,4 @@ browser-data-session-checkbox =
     .label = Aknad ja kaardid
 browser-data-session-label =
     .value = Aknad ja kaardid
+

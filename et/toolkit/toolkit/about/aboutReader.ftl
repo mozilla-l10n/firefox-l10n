@@ -4,6 +4,7 @@
 
 about-reader-loading = Laadimine…
 about-reader-load-error = Artikli laadimine lehelt ebaõnnestus
+
 about-reader-color-scheme-light = hele
     .title = Hele värvilahendus
 about-reader-color-scheme-dark = tume
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = seepia
     .title = Seepia värvilahendus
 about-reader-color-scheme-auto = automaatne
     .title = Automaatne värvilahendus
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

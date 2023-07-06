@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Uus kaart
 tabbrowser-empty-private-tab-title = Uus privaatne kaart
+
 tabbrowser-menuitem-close-tab =
     .label = Sulge kaart
 tabbrowser-menuitem-close =
     .label = Sulge
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Seda akent rohkem ei näidata.
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Sellistel teavitustel saidilt { $domain } lubatakse suunata sind nende kaardile
+
 tabbrowser-customizemode-tab-title = { -brand-short-name }i kohandamine
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -142,3 +146,6 @@ tabbrowser-context-unmute-selected-tabs =
 #   $tabCount (Number): The number of tabs in the current browser window. It will always be 2 at least.
 tabbrowser-ctrl-tab-list-all-tabs =
     .label = Kuva kõik kaardid ({ $tabCount })
+
+## Tab manager menu buttons
+

@@ -5,11 +5,6 @@
 
 about-logins-page-title = Kasutajatunnused ja paroolid
 
-login-filter =
-    .placeholder = Otsi kasutajakontosid
-
-create-login-button = Loo uus kasutajakonto
-
 fxaccounts-sign-in-text = Tee paroolid kättesaadavaks ka oma teistes seadmetes
 fxaccounts-sign-in-sync-button = Sünkroniseerimiseks logi sisse
 fxaccounts-avatar-button =
@@ -99,9 +94,10 @@ login-item-copied-password-button-text = Kopeeritud!
 login-item-save-changes-button = Salvesta muudatused
 login-item-save-new-button = Salvesta
 login-item-cancel-button = Loobu
-login-item-time-changed = Viimati muudatud: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Loodud: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Viimati kasutatud: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -152,6 +148,9 @@ about-logins-confirm-remove-dialog-title = Kas eemaldada see kasutajakonto?
 confirm-delete-dialog-message = Seda tegevust pole võimalik tagasi võtta.
 about-logins-confirm-remove-dialog-confirm-button = Eemalda
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Eemalda
@@ -190,6 +189,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] See tegevus eemaldab kõik { -brand-short-name }i salvestadud kasutajakontod kõigist seadmetest, mis on ühendatud sinu { -fxaccount-brand-name }ga. Seda toimingut pole võimalik tagasi võtta.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Kasutajanimede ja paroolide eksportimine
 about-logins-confirm-export-dialog-message = Sinu paroolid salvestatakse loetava tekstina (nt HalbP@r00l), nii et kõik, kes saavad eksporditud faili avada, saavad neid vaadata.
 about-logins-confirm-export-dialog-confirm-button = Ekspordi...
@@ -209,7 +210,6 @@ about-logins-breach-alert-date = See rünne toimus { DATETIME($date, day: "numer
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Mine saidile { $hostname }
-about-logins-breach-alert-learn-more-link = Rohkem teavet
 
 ## Vulnerable Password notification
 

@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Sa oled FIPS-režiimis. See eeldab, et sin
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Ülemparooli lähtestamine
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Ülemparooli lähtestamine
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Ülemparooli lähtestamine
 pippki-reset-password-confirmation-message = Ülemparool on lähtestatud.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Sertifikaadi allalaadimine
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Sertifikaadi allalaadimine
@@ -82,7 +74,5 @@ set-password-reminder = Tähtis: kui sa unustad varukoopia parooli, ei ole võim
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Turvatõendi kasutusõiguse kinnitamine
-protected-auth-msg = Palun kinnita turvatõendi kasutusõigust. ID-kaardi puhul sisesta PIN kaardilugeja sõrmistikult.
-protected-auth-token = Turvatõend:
+## Protected authentication alert
+

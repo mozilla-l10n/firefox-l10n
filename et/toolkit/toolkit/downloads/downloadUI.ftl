@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ära välju
        *[other] Ära välju
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Kui sa lähed nüüd võrguta olekusse, siis katkestatakse 1 allalaadimine. Kas oled kindel, et tahad võrguta olekusse minna?
        *[other] Kui sa lähed nüüd võrguta olekusse, siis katkestatakse { $downloadsCount } allalaadimist. Kas oled kindel, et tahad võrguta olekusse minna?
     }
 download-ui-dont-go-offline-button = Jää võrgurežiimi
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Kõigi privaatse veebilehitsemise režiimis olevate akende sulgemisel katkestatakse 1 allalaadimine. Kas oled kindel, et tahad privaatse veebilehitsemise režiimist väljuda?
        *[other] Kõigi privaatse veebilehitsemise režiimis olevate akende sulgemisel katkestatakse { $downloadsCount } allalaadimist. Kas oled kindel, et tahad privaatse veebilehitsemise režiimist väljuda?
     }
 download-ui-dont-leave-private-browsing-button = Jää privaatse veebilehitsemise režiimi
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Katkesta 1 allalaadimine
