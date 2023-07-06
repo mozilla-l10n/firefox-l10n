@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ikkje avslutt
        *[other] Ikkje avslutt
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Om du koplar frå no, vil 1 nedlasting avbrytast. Er du sikker på at du vil du kople frå?
        *[other] Om du koplar frå no, vil { $downloadsCount } nedlastingar avbrytast. Er du sikker på at du vil du kople frå?
     }
 download-ui-dont-go-offline-button = Bli verande tilkopla
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Om du lèt att alle Private nettlesar-vindauga no, vil 1 nedlasting avbrytast. Er du sikker på at du vil avslutte Privat nettlesing?
        *[other] Dersom du lèt att alle Private nettlesings-vindauge no, vil { $downloadsCount } nedlastingar avbrytast. Er du sikker på at du vil avslutte Privat nettlesing?
     }
 download-ui-dont-leave-private-browsing-button = Fortset med Privat nettlesing
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Avbryt 1 nedlasting

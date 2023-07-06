@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Opne menyen for { $extensionName }
+
 unified-extensions-item-message-manage = Handsam utviding
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Fest til verktøylinja
+
 unified-extensions-context-menu-manage-extension =
     .label = Handsam utviding
+
 unified-extensions-context-menu-remove-extension =
     .label = Fjern utviding
+
 unified-extensions-context-menu-report-extension =
     .label = Rapporter utviding
+
 unified-extensions-context-menu-move-widget-up =
     .label = Flytt opp
+
 unified-extensions-context-menu-move-widget-down =
     .label = Flytt ned
 

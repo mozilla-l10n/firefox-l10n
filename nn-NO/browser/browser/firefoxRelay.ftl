@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Du må logge på { -fxaccount-brand-name } for
 firefox-relay-get-unlimited-masks =
     .label = Handsam masker
     .accesskey = H
-firefox-relay-opt-in-title = Vern e-postadressa di
-firefox-relay-opt-in-subtitle = Legg til { -relay-brand-name }
-firefox-relay-generate-mask-title = Vern e-postadressa di
-firefox-relay-generate-mask-subtitle = Generer { -relay-brand-short-name }-maske
-firefox-relay-opt-in-confirmation-enable =
-    .label = Hald fram
-    .accesskey = H
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Vern e-postadressa di:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

@@ -14,6 +14,7 @@ xpinstall-prompt-message = Du prøver å installere eit tillegg frå { $host }. 
 
 xpinstall-prompt-header-unknown = Tillate ein ukjend nettstad å installere eit tillegg?
 xpinstall-prompt-message-unknown = Du prøver å installere ei utviding frå ei ukjend nettside. Fortset berre viss du stolar på nettstaden.
+
 xpinstall-prompt-dont-allow =
     .label = Ikkje tillat
     .accesskey = k
@@ -44,6 +45,7 @@ xpinstall-disabled = Programvareinstallasjon er avslått no. Trykk på Tillat fo
 xpinstall-disabled-button =
     .label = Tillat
     .accesskey = T
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) vert blokkert av
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Systemadministratoren din hindra denne nettstaden frå å spørje deg om å installere programvare på datamaskina di.
 addon-install-full-screen-blocked = Tilleggsinnstallasjon er ikkje tillaten medan du er i, eller før du går inn i, fullskjermmodus.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } lagt til i { -brand-short-name }
@@ -69,6 +72,7 @@ addon-removal-title = Fjerne { $name }?
 addon-removal-message = Fjerne { $name } frå { -brand-shorter-name }?
 addon-removal-button = Fjern
 addon-removal-abuse-report-checkbox = Rapporter denne utvidinga til { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -77,6 +81,7 @@ addon-downloading-and-verifying =
        *[other] Lastar ned og stadfestar { $addonCount } tillegg…
     }
 addon-download-verifying = Stadfestar
+
 addon-install-cancel-button =
     .label = Avbryt
     .accesskey = A
