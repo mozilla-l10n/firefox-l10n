@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Over Glean
-about-glean-description = De <a data-l10n-name="glean-sdk-doc-link">Glean-SDK</a> is een bibliotheek voor gegevensverzameling die wordt gebruikt in Mozilla-producten. Deze pagina is bedoeld voor ontwikkelaars en testers die <a data-l10n-name="fog-debug-doc-link">de debugging- en logboekstatus in de Glean-SDK</a> moeten configureren.
-about-glean-warning = Als u deze interface verkeerd gebruikt, kan { -brand-short-name } crashen.
-tag-pings-label = Alle verzonden pings met deze tag labelen
-log-pings-label = Ping-payload loggen voordat deze wordt verzonden?
-send-pings-label = De genoemde ping verzenden
-controls-button-label = Instellingen indienen
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name }-SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name }-debugging-pingviewer
+
 about-glean-page-title2 = Over { -glean-brand-name }
 about-glean-header = Over { -glean-brand-name }
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     is gegevensverzamelingsbibliotheek die wordt gebruikt in { -vendor-short-name }-projecten.
     Deze interface is ontworpen voor gebruik door ontwikkelaars en testers om handmatig
     <a data-l10n-name="fog-link">instrumentatie te testen</a>.
+
 about-glean-upload-enabled = Gegevensupload is ingeschakeld.
 about-glean-upload-disabled = Gegevensupload is uitgeschakeld.
 about-glean-upload-enabled-local = Gegevensupload is alleen ingeschakeld voor verzenden naar een lokale server.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     zodat gegevens nog steeds lokaal worden opgenomen.
     Noot: als u een debuglabel instelt, worden pings geüpload naar de
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>, ongeacht de instellingen.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relevante <a data-l10n-name="fog-prefs-and-defines-doc-link">voorkeuren en definities</a> omvatten:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Over testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">instrumentatietestdocumenten van { -fog-brand-name }</a>
     en in de <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }-documentatie</a>,
     maar, kort gezegd, om handmatig te testen dat uw instrumentatie werkt, moet u:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (geen ping indienen)
 # An in-line text input field precedes this string.
@@ -88,6 +85,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Bezoek de { glean-debug-ping-viewer-brand-name }-pagina voor pings met uw label</a>.
     Het zou niet meer dan een paar seconden moeten duren vanaf het indrukken van de knop tot het aankomen van uw ping.
     Soms duurt het enkele minuten.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Voor meer <i>ad hoc</i>-testen,
@@ -95,7 +93,10 @@ about-glean-adhoc-explanation =
     door hier een devtools-console te openen op <code>about:glean</code>
     en de <code>testGetValue()</code>-API te gebruiken zoals
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Instellingen toepassen en ping verzenden
+
 about-glean-about-data-header = Over gegevens
 about-glean-about-data-explanation =
     Raadpleeg, om door de lijst met verzamelde gegevens te bladeren, de

@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Fout tijdens het verbinden met { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Foutcode: { $error }
-
 psmerr-ssl-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat het SSL-protocol is uitgeschakeld.
 psmerr-ssl2-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat de pagina een oudere, minder veilige versie van het SSL-protocol gebruikt.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Er is geen ondersteunde TLS-onderte
 ssl-error-unsupported-signature-algorithm = De peer gebruikte een niet-ondersteunde combinatie van ondertekening en hash-algoritme.
 ssl-error-missing-extended-master-secret = De peer probeerde een hervatting zonder een juiste extended_master_secret-extensie.
 ssl-error-unexpected-extended-master-secret = De peer probeerde een hervatting met een onverwachte extended_master_secret-extensie.
+
 sec-error-io = Er is een I/O-fout opgetreden tijdens beveiligingsautorisatie.
 sec-error-library-failure = fout in beveiligingsbibliotheek.
 sec-error-bad-data = beveiligingsbibliotheek: onjuiste gegevens ontvangen.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Kan niet ontcijferen: sleutelcoderingsalgoritm
 sec-error-pkcs7-bad-signature = Ondertekeningverificatie mislukt: geen ondertekenaar gevonden, te veel ondertekenaars gevonden, of onjuiste of beschadigde gegevens.
 sec-error-unsupported-keyalg = Niet-ondersteund of onbekend sleutelalgoritme.
 sec-error-decryption-disallowed = Kan niet ontcijferen: versleuteld met behulp van een niet-toegestaan algoritme of sleutelgrootte.
-xp-sec-fortezza-bad-card = Fortezza-kaart is niet juist geïnitialiseerd. Verwijder de kaart en retourneer deze naar uw uitgever.
-xp-sec-fortezza-no-card = Geen Fortezza-kaarten gevonden
-xp-sec-fortezza-none-selected = Geen Fortezza-kaart geselecteerd
-xp-sec-fortezza-more-info = Selecteer een persoon om meer informatie over te verkrijgen
-xp-sec-fortezza-person-not-found = Persoon niet gevonden
-xp-sec-fortezza-no-more-info = Geen verdere informatie over die persoon
-xp-sec-fortezza-bad-pin = Ongeldige pincode
-xp-sec-fortezza-person-error = Kon Fortezza-personen niet initialiseren.
 sec-error-no-krl = Geen KRL voor certificaat van deze website gevonden.
 sec-error-krl-expired = De KRL voor het certificaat van deze website is verlopen.
 sec-error-krl-bad-signature = De KRL voor het certificaat van deze website heeft een ongeldige ondertekening.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Er bestaat al een certificaat met dezelfde a
 sec-error-key-nickname-collision = Er bestaat al een sleutel met dezelfde alias.
 sec-error-safe-not-created = fout tijdens het maken van safe object
 sec-error-baggage-not-created = fout tijdens het maken van baggage object
-xp-java-remove-principal-error = Kon de hoofdpersoon niet verwijderen
-xp-java-delete-privilege-error = Kon het privilege niet verwijderen
-xp-java-cert-not-exists-error = Deze hoofdpersoon heeft geen certificaat
 sec-error-bad-export-algorithm = Vereiste algoritme is niet toegestaan.
 sec-error-exporting-certificates = Fout bij poging tot exporteren van certificaten.
 sec-error-importing-certificates = Fout bij poging tot importeren van certificaten.
@@ -338,6 +319,7 @@ sec-error-locked-password = Het wachtwoord is vergrendeld.
 sec-error-unknown-pkcs11-error = Onbekende PKCS #11-fout.
 sec-error-bad-crl-dp-url = Ongeldige of niet-ondersteunde URL in CRL-distributiepuntnaam.
 sec-error-cert-signature-algorithm-disabled = Het certificaat is versleuteld via een ondertekeningsalgoritme dat is uitgeschakeld, omdat het onveilig is.
+
 mozilla-pkix-error-key-pinning-failure = De server gebruikt key pinning (HPKP), maar er kon geen vertrouwde certificaatketen worden geconstrueerd die met de pinset overeenkomt. Schendingen van key pinning kunnen niet worden genegeerd.
 mozilla-pkix-error-ca-cert-used-as-end-entity = De server gebruikt een certificaat met een extensie voor basisbeperkingen die deze identificeert als een certificaatautoriteit. Voor een correct uitgegeven certificaat hoort dit niet het geval te zijn.
 mozilla-pkix-error-inadequate-key-size = De server heeft een certificaat gepresenteerd met een te kleine sleutelgrootte om een beveiligde verbinding te maken.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = De server heeft een certificaat ge
 mozilla-pkix-error-empty-issuer-name = De server heeft een certificaat gepresenteerd met een lege DN-naam van de uitgever.
 mozilla-pkix-error-additional-policy-constraint-failed = Een aanvullende beleidsbeperking is mislukt bij het valideren van dit certificaat.
 mozilla-pkix-error-self-signed-cert = Het certificaat wordt niet vertrouwd, omdat het zelfondertekend is.
+
+xp-java-remove-principal-error = Kon de hoofdpersoon niet verwijderen
+xp-java-delete-privilege-error = Kon het privilege niet verwijderen
+xp-java-cert-not-exists-error = Deze hoofdpersoon heeft geen certificaat
+
+xp-sec-fortezza-bad-card = Fortezza-kaart is niet juist geïnitialiseerd. Verwijder de kaart en retourneer deze naar uw uitgever.
+xp-sec-fortezza-no-card = Geen Fortezza-kaarten gevonden
+xp-sec-fortezza-none-selected = Geen Fortezza-kaart geselecteerd
+xp-sec-fortezza-more-info = Selecteer een persoon om meer informatie over te verkrijgen
+xp-sec-fortezza-person-not-found = Persoon niet gevonden
+xp-sec-fortezza-no-more-info = Geen verdere informatie over die persoon
+xp-sec-fortezza-bad-pin = Ongeldige pincode
+xp-sec-fortezza-person-error = Kon Fortezza-personen niet initialiseren.

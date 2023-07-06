@@ -7,6 +7,7 @@
 ## Only text elements and literals are supported for these strings.
 
 langpack-creator = Mozilla-NL
+
 # To credit multiple contributors, use a comma-delimited list.
 # Example: Joe Solon, Suzy Solon
 langpack-contributors = Gert-Paul van der Beek, Tim Maks van den Broek, Laurens Holst, Ton Kensen, Anne van Kesteren, Hendrik Maryns, Martijn Ras, leden MozBrowser-forum

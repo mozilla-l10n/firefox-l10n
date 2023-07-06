@@ -4,6 +4,7 @@
 
 about-reader-loading = Laden…
 about-reader-load-error = Artikel van pagina laden is mislukt
+
 about-reader-color-scheme-light = Licht
     .title = Kleurenschema Licht
 about-reader-color-scheme-dark = Donker
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Kleurenschema Sepia
 about-reader-color-scheme-auto = Auto
     .title = Kleurenschema Automatisch
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Onafhankelijke stemmen
-colorway-collection-independent-voices-description = Kleur kan cultuur veranderen. De nieuwste kleurstellingen vieren stemmen die de wereld een betere plek maken.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Kleuren die cultuur veranderen.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Spelmaker

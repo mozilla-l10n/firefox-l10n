@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Importeerwizard
+
 import-from =
     { PLATFORM() ->
         [windows] Opties, bladwijzers, geschiedenis, wachtwoorden en andere gegevens importeren uit:
        *[other] Voorkeuren, bladwijzers, geschiedenis, wachtwoorden en andere gegevens importeren uit:
     }
+
 import-from-bookmarks = Bladwijzers importeren uit:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Er zijn geen programma’s gevonden die bladwijzers, geschiedenis of wachtwoorden bevatten.
+
 import-source-page-title = Instellingen en gegevens importeren
 import-items-page-title = Te importeren items
+
 import-items-description = Selecteer de te importeren items:
+
 import-permissions-page-title = Geef { -brand-short-name } toestemmingen
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = In macOS dient u { -brand-short-name } expliciet toegang te geven tot de bladwijzers van Safari. Klik op ‘Doorgaan’ en selecteer in het getoonde paneel Bestand openen het bestand ‘Bookmarks.plist’.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = In macOS dient u { -brand-short-name } expliciet toegang te geven tot de gegevens van Safari. Klik op ‘Doorgaan’, selecteer de map ‘Safari’ in het getoonde Finder-dialoogvenster en klik vervolgens op ‘Openen’.
+
 import-migrating-page-title = Importeren…
+
 import-migrating-description = De volgende items worden momenteel geïmporteerd…
+
 import-select-profile-page-title = Profiel selecteren
+
 import-select-profile-description = De volgende profielen zijn beschikbaar om uit te importeren:
+
 import-done-page-title = Importeren voltooid
+
 import-done-description = De volgende items zijn met succes geïmporteerd:
+
 import-close-source-browser = Zorg ervoor dat de geselecteerde browser is gesloten voordat u verdergaat.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Leeslijst (uit Safari)
 imported-edge-reading-list = Leeslijst (uit Edge)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Navigatiegeschiedenis en bladwijzers
            *[other] Navigatiegeschiedenis
         }
+
 browser-data-formdata-checkbox =
     .label = Opgeslagen formuliergeschiedenis
 browser-data-formdata-label =
     .value = Opgeslagen formuliergeschiedenis
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Opgeslagen aanmeldingen en wachtwoorden
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] Favorieten
            *[other] Bladwijzers
         }
+
 browser-data-otherdata-checkbox =
     .label = Andere gegevens
 browser-data-otherdata-label =
     .label = Andere gegevens
+
 browser-data-session-checkbox =
     .label = Vensters en tabbladen
 browser-data-session-label =
     .value = Vensters en tabbladen
+
 browser-data-payment-methods-checkbox =
     .label = Betalingsmethoden
 browser-data-payment-methods-label =

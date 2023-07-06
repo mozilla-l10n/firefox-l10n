@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Deze pagina vertalen
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Pagina vertaald van het { $fromLanguage } naar het { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Vertaling wordt uitgevoerd
+
 translations-panel-settings-button =
     .aria-label = Vertaalinstellingen beheren
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Talen beheren
 translations-panel-settings-about = Over vertalingen in { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = { $language } altijd vertalen
 translations-panel-settings-always-translate-unknown-language =
     .label = Deze taal altijd vertalen
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = { $language } nooit vertalen
 translations-panel-settings-never-translate-unknown-language =
     .label = Deze taal nooit vertalen
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Deze website nooit vertalen
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Even geduld…
 translations-panel-translate-cancel =
     .label = Annuleren
+
 translations-panel-error-translating = Er is een probleem opgetreden bij het vertalen. Probeer het opnieuw.
 translations-panel-error-load-languages = Kon talen niet laden
 translations-panel-error-load-languages-hint = Controleer uw internetverbinding en probeer het opnieuw.
 translations-panel-error-load-languages-hint-button =
     .label = Opnieuw proberen
+
 translations-panel-error-unsupported = Er is voor deze pagina geen vertaling beschikbaar
 translations-panel-error-dismiss-button =
     .label = Begrepen
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Er is een probleem opgetreden bij het downloaden van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-delete = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-list = Kan de lijst met beschikbare talen voor vertaling niet ophalen. Vernieuw de pagina om het opnieuw te proberen.
+
 translations-settings-title =
     .title = Vertaalinstellingen
     .style = min-width: 36em

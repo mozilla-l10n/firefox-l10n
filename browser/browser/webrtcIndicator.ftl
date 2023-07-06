@@ -30,6 +30,7 @@ webrtc-item-browser = tabblad
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Onbekende herkomst
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Apparaten die tabbladen delen
     .accesskey = t
+
 webrtc-sharing-window = U deelt een ander toepassingsvenster.
 webrtc-sharing-browser-window = U deelt { -brand-short-name }.
 webrtc-sharing-screen = U deelt uw volledige scherm.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Delen beheren
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Delen op ‘{ $streamTitle }’ beheren
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Camera gedeeld met ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Camera gedeeld met { $tabCount } tabblad
            *[other] Camera gedeeld met { $tabCount } tabbladen
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Microfoon gedeeld met ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Microfoon gedeeld met { $tabCount } tabblad
            *[other] Microfoon gedeeld met { $tabCount } tabbladen
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Een toepassing gedeeld met ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Een toepassing gedeeld met { $tabCount } tabblad
            *[other] Toepassingen gedeeld met { $tabCount } tabbladen
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Scherm gedeeld met ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Scherm gedeeld met { $tabCount } tabblad
            *[other] Scherm gedeeld met { $tabCount } tabbladen
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Een venster gedeeld met ‘{ $streamTitle }’
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Een venster gedeeld met { $tabCount } tabblad
            *[other] Vensters gedeeld met { $tabCount } tabbladen
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Een tabblad gedeeld met ‘{ $streamTitle }’
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = { $origin } toestaan om het geluid
 
 webrtc-allow-share-audio-capture-unsafe-delegation = { $origin } toestaan om { $thirdParty } toestemming te geven om naar de audio van dit tabblad te luisteren?
 webrtc-allow-share-camera-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw camera te geven?
-webrtc-allow-share-microphone-unsafe-delegations = { $origin } toestaan om { $thirdParty } toegang tot uw microfoon te geven?
 webrtc-allow-share-microphone-unsafe-delegation = { $origin } toestaan om { $thirdParty } toegang tot uw microfoon te geven?
 webrtc-allow-share-screen-unsafe-delegation = { $origin } toestaan om { $thirdParty } uw scherm te laten zien?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } toes
 
 webrtc-share-screen-warning = Deel alleen schermen met websites die u vertrouwt. Delen kan misleidende websites toestaan om als u te surfen en uw privégegevens te stelen.
 webrtc-share-browser-warning = Deel { -brand-short-name } alleen met websites die u vertrouwt. Delen kan misleidende websites toestaan om als u te surfen en uw privégegevens te stelen.
+
 webrtc-share-screen-learn-more = Meer info
 webrtc-pick-window-or-screen = Venster of scherm selecteren
 webrtc-share-entire-screen = Gehele scherm
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Deze beslissing onthouden
 webrtc-mute-notifications-checkbox = Websitemeldingen dempen tijdens delen
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan geen permanente toegang tot uw scherm toestaan.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan geen permanente toegang tot het geluid van uw tabblad toestaan zonder te vragen welk tabblad moet worden gedeeld.
 webrtc-reason-for-no-permanent-allow-insecure = Uw verbinding met deze website is niet beveiligd. Om u te beschermen, zal { -brand-short-name } alleen toegang voor deze sessie toestaan.
