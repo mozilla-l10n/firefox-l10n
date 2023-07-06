@@ -10,12 +10,16 @@
 
 origin-controls-no-access =
     .label = Hedapenak ezin ditu datuak irakurri eta aldatu
+
 origin-controls-options =
     .label = Hedapenak datuak irakurri eta alda ditzake:
+
 origin-controls-option-all-domains =
     .label = Gune guztietan
+
 origin-controls-option-when-clicked =
     .label = Klik egindakoan soilik
+
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -27,11 +31,17 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ezin ditu datuak irakurri eta aldatu gune honetan
+
 origin-controls-state-always-on = Beti irakurri eta alda ditzake datuak gune honetan
+
 origin-controls-state-when-clicked = Baimena behar da datuak irakurri eta aldatzeko
+
 origin-controls-state-hover-run-visit-only = Exekutatu bisita honetarako soilik
+
 origin-controls-state-runnable-hover-open = Ireki hedapena
+
 origin-controls-state-runnable-hover-run = Exekutatu hedapena
+
 origin-controls-state-temporary-access = Datuak irakurri eta alda ditzake bisita honetarako
 
 ## Extension's toolbar button.
@@ -41,6 +51,7 @@ origin-controls-state-temporary-access = Datuak irakurri eta alda ditzake bisita
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
+
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -48,3 +59,4 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Baimena behar da
+

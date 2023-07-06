@@ -4,11 +4,13 @@
 
 migration-wizard =
     .title = Inportazio-morroia
+
 import-from =
     { PLATFORM() ->
         [windows] Laster-markak, historia, pasahitzak eta beste zenbait datu hemendik inportatu:
        *[other] Hobespenak, laster-markak, historia, pasahitzak eta beste zenbait datu hemendik inportatu:
     }
+
 import-from-bookmarks = Laster-markak nondik inportatu:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -61,25 +63,37 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
+
 no-migration-sources = Ezin izan da laster-markak, historia edo pasahitz daturik duen programarik aurkitu.
+
 import-source-page-title = Inportatu ezarpenak eta datuak
 import-items-page-title = Inportatu beharrekoak
+
 import-items-description = Aukeratu inportatu beharrekoak:
+
 import-permissions-page-title = Mesedez eman baimenak { -brand-short-name }(r)i
-# Do not translate "Bookmarks.plist"; the file name is the same everywhere.
-import-permissions-description = { -brand-short-name }(e)k Safari-ren laster-marketarako sarbidea izan dezan, macOS-en beharrezkoa da baimenak esplizituki ematea. Egin klik 'Jarraitu' botoian eta fitxategia irekitzeko agertzen den panelean hautatu 'Bookmarks.plist' fitxategia.
+
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = { -brand-short-name }(e)k Safari-ren datuetarako sarbidea izan dezan, macOS-en beharrezkoa da baimenak esplizituki ematea. Egin klik 'Jarraitu' botoian, hautatu "Safari" karpeta Finder elkarrizketa-koadroan eta ondoren egin klik "Ireki" botoian.
+
 import-migrating-page-title = Inportatzen…
+
 import-migrating-description = Ondorengo osagaiak inportatzen…
+
 import-select-profile-page-title = Hautatu profila
+
 import-select-profile-description = Inportatzeko honako profil hauek daude eskuragarri:
+
 import-done-page-title = Inportazioa burutu da
+
 import-done-description = Hurrengo osagaiak ondo inportatu dira:
+
 import-close-source-browser = Ziurtatu hautatutako nagitzailea itxita dagoela jarraitu aurretik.
+
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
+
 imported-safari-reading-list = Irakurketa-zerrenda (Safari-tik)
 imported-edge-reading-list = Irakurketa-zerrenda (Edge-tik)
 
@@ -101,6 +115,7 @@ browser-data-cookies-checkbox =
     .label = Cookieak
 browser-data-cookies-label =
     .value = Cookieak
+
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -113,10 +128,12 @@ browser-data-history-label =
             [firefox] Nabigatze-historia eta laster-markak
            *[other] Nabigatze-historia
         }
+
 browser-data-formdata-checkbox =
     .label = Gordetako inprimakien historia
 browser-data-formdata-label =
     .value = Gordetako inprimakien historia
+
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -125,6 +142,7 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Gorde saio-hasierak eta pasahitzak
+
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -139,14 +157,17 @@ browser-data-bookmarks-label =
             [edge] Gogokoak
            *[other] Laster-markak
         }
+
 browser-data-otherdata-checkbox =
     .label = Bestelako datuak
 browser-data-otherdata-label =
     .label = Bestelako datuak
+
 browser-data-session-checkbox =
     .label = Leihoak eta fitxak
 browser-data-session-label =
     .value = Leihoak eta fitxak
+
 browser-data-payment-methods-checkbox =
     .label = Ordainketa metodoak
 browser-data-payment-methods-label =

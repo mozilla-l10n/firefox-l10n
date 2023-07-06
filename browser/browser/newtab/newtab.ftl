@@ -236,24 +236,14 @@ newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
 newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
 newtab-pocket-pocket-firefox-family = { -brand-product-name }(r)en familiakoa da { -pocket-brand-name }
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Gorde { -pocket-brand-name }-en
-newtab-pocket-saved-to-pocket = { -pocket-brand-name }-en gordeta
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Kargatu istorio gehiago
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
-
-newtab-pocket-last-card-title = Egunean zaude!
-newtab-pocket-last-card-desc = Itzuli geroago gehiago aurkitzeko.
-newtab-pocket-last-card-image =
-    .alt = Egunean zaude!
 
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Gorde
 newtab-pocket-saved = Gordeta
+
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Itzuli orri hau
+
 translations-panel-settings-button =
     .aria-label = Kudeatu itzulpenen ezarpenak
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -17,6 +19,7 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Kudeatu hizkuntzak
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -24,6 +27,7 @@ translations-panel-settings-always-translate-language =
     .label = Beti itzuli { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Beti itzuli hizkuntza hau
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -31,6 +35,7 @@ translations-panel-settings-never-translate-language =
     .label = Ez itzuli inoiz { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Ez itzuli inoiz hizkuntza hau
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Ez itzuli inoiz gune hau
@@ -45,11 +50,13 @@ translations-panel-translate-button-loading =
     .label = Itxaron mesedez…
 translations-panel-translate-cancel =
     .label = Utzi
+
 translations-panel-error-translating = Arazo bat gertatu da itzultzean. Saiatu berriro mesedez.
 translations-panel-error-load-languages = Ezin dira hizkuntzak kargatu
 translations-panel-error-load-languages-hint = Egiaztatu interneterako zure konexioa eta saiatu berriro.
 translations-panel-error-load-languages-hint-button =
     .label = Saiatu berriro
+
 translations-panel-error-unsupported = Itzulpena ez dago erabilgarri orri honentzat
 translations-panel-error-dismiss-button =
     .label = Ulertuta
@@ -107,6 +114,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Arazo bat gertatu da hizkuntza-fitxategiak deskargatzean. Saiatu berriro mesedez.
 translations-manage-error-delete = Arazo bat gertatu da hizkuntza-fitxategiak ezabatzean. Saiatu berriro mesedez.
 translations-manage-error-list = Huts egin du itzultzeko erabilgarri dauden hizkuntzen zerrenda eskuratzean. Berritu orria eta saiatu berriro.
+
 translations-settings-title =
     .title = Itzulpenen ezarpenak
     .style = min-width: 36em

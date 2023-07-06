@@ -128,7 +128,6 @@ about-processes-frame-name-many = Azpimarkoak ({ $number }): { $shortUrl }
 ## Utility process actor names
 
 about-processes-utility-actor-unknown = Aktore ezezaguna
-about-processes-utility-actor-audio-decoder = Audio deskodetzailea
 
 about-processes-utility-actor-audio-decoder-generic = Audio-deskodetzaile arrunta
 about-processes-utility-actor-audio-decoder-applemedia = Apple Media audio-deskodetzailea

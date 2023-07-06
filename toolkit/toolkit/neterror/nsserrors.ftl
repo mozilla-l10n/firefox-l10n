@@ -8,15 +8,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Errorea gertatu da { $hostname } ostalarira konektatzean. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Errore-kodea: { $error }
-
 psmerr-ssl-disabled = Ezin da modu seguruan konektatu SSL protokoloa ezgaiturik dago eta.
 psmerr-ssl2-disabled = Ezin da modu seguruan konektatu guneak SSL protokoloaren bertsio zahar eta ez seguru ba erabiltzen du eta.
 
@@ -162,6 +153,7 @@ ssl-error-no-supported-signature-algorithm = Ez da onartutako TLS sinadura-algor
 ssl-error-unsupported-signature-algorithm = Onartzen ez den sinadura- eta hash-algoritmo konbinazioak erabili ditu pareak.
 ssl-error-missing-extended-master-secret = Parekoa berrekiten saiatu da extended_master_secret luzapen zuzenik gabe.
 ssl-error-unexpected-extended-master-secret = Parekoa berrekiten saiatu da espero gabeko extended_master_secret luzapenarekin.
+
 sec-error-io = S/I errore bat gertatu da segurtasun autorizazioan.
 sec-error-library-failure = segurtasun liburutegi akatsa.
 sec-error-bad-data = segurtasun liburutegia: datu okerrak jaso dira.
@@ -212,14 +204,6 @@ sec-error-pkcs7-keyalg-mismatch = Ezin da deszifratu: gako zifraketa algoritmoa 
 sec-error-pkcs7-bad-signature = Sinadura egiaztapen hutsa: ez da sinatzailerik aurkitu, sinatzaile gehiegi edo datu baliogabe edo hondatuak.
 sec-error-unsupported-keyalg = Onartzen ez den edo ezezaguna den gako algoritmoa.
 sec-error-decryption-disallowed = Ezin da deszifratu: baimendu gabe dagoen algoritmo edo gako-tamaina batek zifratuta dago.
-xp-sec-fortezza-bad-card = Fortezza txartela ez dago behar bezala hasieratuta. Kendu eta itzul iezaziozu jaulkitzaileari.
-xp-sec-fortezza-no-card = Ez da Fortezza txartelik aurkitu
-xp-sec-fortezza-none-selected = Ez da Fortezza txartelik hautatu
-xp-sec-fortezza-more-info = Hautatu pertsonalitate bat hari buruz argibide gehiago jasotzeko
-xp-sec-fortezza-person-not-found = Pertsonalitatea ez da aurkitu
-xp-sec-fortezza-no-more-info = Ez dago argibide gehiago pertsonalitate honetaz
-xp-sec-fortezza-bad-pin = Pin baliogabea
-xp-sec-fortezza-person-error = Ezin dira Fortezza pertsonalitateak abiarazi.
 sec-error-no-krl = Ez da KRL-rik aurkitu gune honen ziurtagiriarentzat.
 sec-error-krl-expired = Gune honen ziurtagiriaren KRL-a iraungita dago.
 sec-error-krl-bad-signature = Gune honen ziurtagiriaren KRL-ak sinadura baliogabe bat du.
@@ -234,9 +218,6 @@ sec-error-cert-nickname-collision = Badago dagoeneko ezizen berdineko ziurtagiri
 sec-error-key-nickname-collision = Badago dagoeneko ezizen berdineko gako bat.
 sec-error-safe-not-created = errorea objektu segurua sortzean
 sec-error-baggage-not-created = errorea sortu da hatu objektua sortzean
-xp-java-remove-principal-error = Ezin da nagusia ezabatu
-xp-java-delete-privilege-error = Ezin da eskubidea ezabatu
-xp-java-cert-not-exists-error = Nagusiak ez du ziurtagiririk
 sec-error-bad-export-algorithm = Beharrezko algoritmoa ez dago baimenduta.
 sec-error-exporting-certificates = Errorea ziurtagiriak esportatzen saiatzean.
 sec-error-importing-certificates = Errorea ziurtagiriak inportatzen saiatzean.
@@ -339,6 +320,7 @@ sec-error-locked-password = Pasahitza blokeatuta dago.
 sec-error-unknown-pkcs11-error = PKCS #11 errore ezezaguna.
 sec-error-bad-crl-dp-url = URL baliogabe edo onargabea CRL banaketaren puntu-izenean.
 sec-error-cert-signature-algorithm-disabled = Segurua ez delako desgaituta dagoen sinadura-algoritmo bat erabiliz sinatu da ziurtagiria.
+
 mozilla-pkix-error-key-pinning-failure = Zerbitzariak gakoen ainguratzea erabiltzen du (HPKP) baina ezin da gako finkoekin bat datorren fidatzeko moduko ziurtagiri-katerik eraiki. Gakoen ainguratzeen bortxaketak ezin dira gainidatzi.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Zerbitzariak oinarrizko murriztapenen hedapenak dituen eta ziurtagiri-autoritate gisa identifikatzen den ziurtagiria erabiltzen du. Hau ezin liteke gertatu ondo jaulkitako ziurtagiri batentzat.
 mozilla-pkix-error-inadequate-key-size = Zerbitzariak aurkeztu duen ziurtagiriaren gako-tamaina oso txikia da konexio segurua ezartzeko.
@@ -353,3 +335,16 @@ mozilla-pkix-error-invalid-integer-encoding = Zerbitzariak aurkeztu duen ziurtag
 mozilla-pkix-error-empty-issuer-name = Zerbitzariak aurkeztu duen ziurtagiriak jaulkitzailearen izen goren hutsa du.
 mozilla-pkix-error-additional-policy-constraint-failed = Politika-murriztapen gehigarri batek huts egin du ziurtagiri hau balidatzean.
 mozilla-pkix-error-self-signed-cert = Ziurtagiria ez da fidagarria bere buruak sinatzen duelako.
+
+xp-java-remove-principal-error = Ezin da nagusia ezabatu
+xp-java-delete-privilege-error = Ezin da eskubidea ezabatu
+xp-java-cert-not-exists-error = Nagusiak ez du ziurtagiririk
+
+xp-sec-fortezza-bad-card = Fortezza txartela ez dago behar bezala hasieratuta. Kendu eta itzul iezaziozu jaulkitzaileari.
+xp-sec-fortezza-no-card = Ez da Fortezza txartelik aurkitu
+xp-sec-fortezza-none-selected = Ez da Fortezza txartelik hautatu
+xp-sec-fortezza-more-info = Hautatu pertsonalitate bat hari buruz argibide gehiago jasotzeko
+xp-sec-fortezza-person-not-found = Pertsonalitatea ez da aurkitu
+xp-sec-fortezza-no-more-info = Ez dago argibide gehiago pertsonalitate honetaz
+xp-sec-fortezza-bad-pin = Pin baliogabea
+xp-sec-fortezza-person-error = Ezin dira Fortezza pertsonalitateak abiarazi.

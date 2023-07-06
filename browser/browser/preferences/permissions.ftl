@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Salbuespenak
-    .style = width: 45em
 permissions-window2 =
     .title = Salbuespenak
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Webgunearen helbidea
     .accesskey = h
+
 permissions-block =
     .label = Blokeatu
     .accesskey = B
+
 permissions-disable-etp =
     .label = Gehitu salbuespena
     .accesskey = G
+
 permissions-session =
     .label = Baimendu saiorako
     .accesskey = s
+
 permissions-allow =
     .label = Baimendu
     .accesskey = B
+
 permissions-button-off =
     .label = Desaktibatu
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Desaktibatu behin-behinean
     .accesskey = b
+
 permissions-site-name =
     .label = Webgunea
+
 permissions-status =
     .label = Egoera
+
 permissions-remove =
     .label = Kendu webgunea
     .accesskey = K
+
 permissions-remove-all =
     .label = Kendu webgune guztiak
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Gorde aldaketak
     .buttonaccesskeyaccept = G
+
 permissions-autoplay-menu = Webgune guztietarako lehenetsia:
+
 permissions-searchbox =
     .placeholder = Bilatu webgunea
+
 permissions-capabilities-autoplay-allow =
     .label = Baimendu audioa eta bideoa
 permissions-capabilities-autoplay-block =
     .label = Blokeatu audioa
 permissions-capabilities-autoplay-blockall =
     .label = Blokeatu audioa eta bideoa
+
 permissions-capabilities-allow =
     .label = Baimendu
 permissions-capabilities-block =
     .label = Blokeatu
 permissions-capabilities-prompt =
     .label = Galdetu beti
+
 permissions-capabilities-listitem-allow =
     .value = Baimendu
 permissions-capabilities-listitem-block =
     .value = Blokeatu
 permissions-capabilities-listitem-allow-session =
     .value = Baimendu saiorako
+
 permissions-capabilities-listitem-off =
     .value = Desaktibatuta
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Idatzi baliozko zerbitzari-izena
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Jarraipenaren babes hobeturako salbuespenak
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Babesak desaktibatu dituzu webgune hauetan.
 permissions-exceptions-etp-window2 =
     .title = Jarraipenaren babes hobeturako salbuespenak
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Jarraipenaren babes hobetua desaktibatu
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Salbuespenak - Cookieak eta guneen datuak
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Salbuespenak - Cookieak eta guneen datuak
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Cookieak eta gunearen datuak beti edo inoiz
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Salbuespenak - HTTPS-Only modua
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Salbuespenak - HTTPS-Only modua
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = HTTPS-Only modua desgai dezakezu gune z
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Baimendutako webguneak - Popup-ak
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Baimendutako webguneak - Popup-ak
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Popup leihoak irekitzeko baimena duten webgu
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Salbuespenak - Gordetako saio-hasierak
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Salbuespenak - Gordetako saio-hasierak
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Ondorengo webguneetako saio-hasierak 
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Baimendutako webguneak - Gehigarrien instalazioa
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Baimendutako webguneak - Gehigarrien instalazioa
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Gehigarriak instalatzeko baimena duten webg
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Ezarpenak - Erreprodukzio automatikoa
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Ezarpenak - Erreprodukzio automatikoa
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Erreprodukzio automatikoko ezarpen lehenetsiak 
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Ezarpenak - Jakinarazpenen baimenak
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Ezarpenak - Jakinarazpenen baimenak
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Aukera honekin, jakinarazpenak bida
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Ezarpenak - Kokapenaren baimenak
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Ezarpenak - Kokapenaren baimenak
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Aukera honekin, kokalekua ezagutzeko ba
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Ezarpenak - Errealitate birtualaren baimenak
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Ezarpenak - Errealitate birtualaren baimenak
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Aukera honekin, errealitate birtualeko gailue
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Ezarpenak - Kameraren baimenak
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Ezarpenak - Kameraren baimenak
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Aukera honekin, kamera erabiltzeko baimen
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Ezarpenak - Mikrofonoaren baimenak
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Ezarpenak - Mikrofonoaren baimenak
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Ezarpenak - Bozgorailuen baimenak
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Ondorengo webguneek audio irteera-gailu bat hautatzea eskatu dute. Audio irteera-gailua hautatzeko baimenduta dauden webguneak zehatz ditzakezu.
+
 permissions-exceptions-doh-window =
     .title = Webguneen salbuespenak HTTPS gaineko DNSrako
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }(e)k ez du DNS segurua erabiliko gune hauetan eta beraien azpidomeinuetan.
+
 permissions-doh-entry-field = Idatzi webgunearen domeinu-izena
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = Gehitu
     .accesskey = G
+
 permissions-doh-col =
     .label = Domeinua
+
 permissions-doh-remove =
     .label = Kendu
     .accesskey = K
+
 permissions-doh-remove-all =
     .label = Kendu denak
     .accesskey = d

@@ -83,8 +83,6 @@ perftools-thread-renderer =
     .title = WebRender gaituta dagoenean, OpenGL deiak exekutatzen dituen haria
 perftools-thread-render-backend =
     .title = WebRender-en RenderBackend haria
-perftools-thread-paint-worker =
-    .title = Hari nagusiz kanpoko marrazketa gaituta dagoenean, marrazketa gertatzen den haria
 perftools-thread-timer =
     .title = Denboragailuak maneiatzen dituen haria (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -132,6 +130,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Web garapena

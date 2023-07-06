@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Inportatu nabigatzailearen datuak
 migration-wizard-selection-list = Hautatu inportatu nahi dituzun datuak.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Hautatu inportatu nahi dituzun datuak.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -51,17 +53,21 @@ migration-selected-data-label = Inportatu hautatutako datuak
 
 migration-select-all-option-label = Hautatu dena
 migration-bookmarks-option-label = Laster-markak
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Gogokoak
+
 migration-logins-and-passwords-option-label = Gordetako saio-hasierak eta pasahitzak
 migration-history-option-label = Nabigatze-historia
 migration-form-autofill-option-label = Inprimakien betetze automatikorako datuak
+
 migration-passwords-from-file-progress-header = Inportatu pasahitzen fitxategia
 migration-passwords-from-file-success-header = Pasahitzak ondo inportatu dira
 migration-passwords-from-file = Fitxategia pasahitzen bila egiaztatzen
 migration-passwords-new = Pasahitz berriak
 migration-passwords-updated = Lehendik dauden pasahitzak
+
 migration-passwords-from-file-picker-title = Inportatu pasahitzen fitxategia
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -77,6 +83,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV dokumentua
        *[other] TSV fitxategia
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -87,6 +94,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } gehituta
        *[other] { $newEntries } gehituta
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -97,10 +105,12 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } eguneratuta
        *[other] { $updatedEntries } eguneratuta
     }
+
 migration-bookmarks-from-file-picker-title = Inportatu laster-marken fitxategia
 migration-bookmarks-from-file-progress-header = Laster-markak inportatzen
 migration-bookmarks-from-file = Laster-markak
 migration-bookmarks-from-file-success-header = Laster-markak ondo inportatu dira
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -108,9 +118,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML dokumentua
        *[other] HTML fitxategia
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON fitxategia
+
 migration-import-button-label = Inportatu
 migration-choose-to-import-from-file-button-label = Inportatu fitxategitik
 migration-import-from-file-button-label = Hautatu fitxategia
@@ -125,6 +137,7 @@ migration-continue-button-label = Jarraitu
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = laster-markak
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = gogokoak
@@ -140,6 +153,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Inportatzen…
 migration-wizard-progress-icon-completed =
     .aria-label = Burututa
+
 migration-safari-password-import-header = Inportatu pasahitzak Safaritik
 migration-safari-password-import-steps-header = Safaritik pasahitzak inportatzeko:
 migration-safari-password-import-step1 = Safarin, ireki "Safari" menua eta zoaz Hobespenak > Pasahitzak atalera
@@ -148,6 +162,8 @@ migration-safari-password-import-step3 = Gorde pasahitzen fitxategia
 migration-safari-password-import-step4 = Erabili azpiko "hautatu fitxategia" aukera gorde berri duzun pasahitzen fitxategia aukeratzeko
 migration-safari-password-import-skip-button = Saltatu
 migration-safari-password-import-select-button = Hautatu fitxategia
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -158,6 +174,7 @@ migration-wizard-progress-success-bookmarks =
         [one] laster-marka { $quantity }
        *[other] { $quantity } laster-marka
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -170,6 +187,13 @@ migration-wizard-progress-success-favorites =
         [one] gogoko { $quantity }
        *[other] { $quantity } gogoko
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
@@ -180,6 +204,7 @@ migration-wizard-progress-success-passwords =
         [one] pasahitz { $quantity }
        *[other] { $quantity } pasahitz
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -190,7 +215,9 @@ migration-wizard-progress-success-history =
         [one] Azken egunetik
        *[other] Azken { $maxAgeInDays } egunetatik
     }
+
 migration-wizard-progress-success-formdata = Inprimakien historia
+
 migration-wizard-safari-permissions-sub-header = Safariko laster-markak eta nabigatze-historia inportatzeko:
 migration-wizard-safari-instructions-continue = Hautatu "Jarraitu"
 migration-wizard-safari-instructions-folder = Hautatu Safari karpeta zerrendatik eta aukeratu "Ireki"

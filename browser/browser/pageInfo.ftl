@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopiatu
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Hautatu dena
     .accesskey = a
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Orokorra
     .accesskey = O
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Izena
 general-meta-content =
     .label = Edukia
+
 media-tab =
     .label = Multimedia
     .accesskey = M
@@ -69,11 +74,13 @@ media-save-as =
 media-save-image-as =
     .label = Gorde honela…
     .accesskey = e
+
 perm-tab =
     .label = Baimenak
     .accesskey = B
 permissions-for =
     .value = Honen baimenak:
+
 security-tab =
     .label = Segurtasuna
     .accesskey = S
@@ -94,17 +101,22 @@ security-view-identity-validity =
     .value = Iraungitze-data:
 security-view-privacy =
     .value = Pribatutasuna eta historia
+
 security-view-privacy-history-value = Webgune hau lehenago bisitatu dut?
 security-view-privacy-sitedata-value = Webgune hau informazioa gordetzen ari da nire ordenagailuan?
+
 security-view-privacy-clearsitedata =
     .label = Garbitu cookieak eta guneetako datuak
     .accesskey = G
+
 security-view-privacy-passwords-value = Webgune honetarako pasahitzik gorde dut?
+
 security-view-privacy-viewpasswords =
     .label = Ikusi pasahitzak
     .accesskey = I
 security-view-technical =
     .value = Xehetasun teknikoak
+
 help-button =
     .label = Laguntza
 
@@ -116,6 +128,7 @@ help-button =
 
 security-site-data-cookies = Bai, cookieak eta gunearen datuetako { $value } { $unit }
 security-site-data-only = Bai, gunearen datuetako { $value } { $unit }
+
 security-site-data-cookies-only = Bai, cookieak
 security-site-data-no = Ez
 
@@ -139,6 +152,7 @@ media-video = Bideoa
 media-audio = Audioa
 saved-passwords-yes = Bai
 saved-passwords-no = Ez
+
 no-page-title =
     .value = Izenbururik gabeko orria
 general-quirks-mode =
@@ -153,6 +167,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Erabili lehenetsia
 security-no-visits = Ez
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -163,6 +178,7 @@ general-meta-tags =
             [one] Meta (etiketa bat)
            *[other] Meta ({ $tags } etiketa)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +189,7 @@ security-visits-number =
         [one] Bai, behin
        *[other] Bai, { $visits } aldiz
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -183,6 +200,7 @@ properties-general-size =
             [one] { $kb } KB (byte bat)
            *[other] { $kb } KB ({ $bytes } byte)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -194,12 +212,14 @@ media-animated-image-type =
             [one] { $type } irudia (biziduna, marko bat)
            *[other] { $type } irudia (biziduna, { $frames } marko)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } irudia
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -209,17 +229,23 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (eskalatua: { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -227,6 +253,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Blokeatu { $website }(e)ko irudiak
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

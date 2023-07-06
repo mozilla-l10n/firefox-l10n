@@ -8,39 +8,38 @@ password-quality-meter = Pasahitz kalitatearen neurgailua
 
 change-device-password-window =
     .title = Aldatu pasahitza
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Segurtasun-gailua: { $tokenName }
 change-password-old = Uneko pasahitza:
 change-password-new = Pasahitz berria:
 change-password-reenter = Pasahitz berria (berriro):
+
 pippki-failed-pw-change = Ezin da pasahitza aldatu.
 pippki-incorrect-pw = Ez duzu uneko pasahitz zuzena sartu. Saiatu berriro.
 pippki-pw-change-ok = Pasahitza ondo aldatu da.
+
 pippki-pw-empty-warning = Gordetako zure pasahitz eta gako pribatuak ez dira babestuko.
 pippki-pw-erased-ok = Zure pasahitza ezabatu duzu. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Kontuz! Pasahitzik ez erabiltzea erabaki duzu. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = FIPS moduan zaude. Honek hutsa ez den pasahitza eskatzen du.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Berrezarri pasahitz nagusia
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Berrezarri pasahitz nagusia
     .style = min-width: 40em
 reset-password-button-label =
     .label = Berezarri
 reset-primary-password-text = Pasahitz nagusia berrezarriz gero, ahaztu egingo dira gordetako webeko eta posta elektronikoko pasahitzak, ziurtagiri pertsonalak eta gako pribatuak. Ziur zaude pasahitz nagusia berrezarri nahi duzula?
+
 pippki-reset-password-confirmation-title = Berrezarri pasahitz nagusia
 pippki-reset-password-confirmation-message = Zure pasahitz nagusia berrezarri egin da.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Ziurtagiria deskargatzen
-    .style = width: 46em
 download-cert-window2 =
     .title = Ziurtagiria deskargatzen
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Garrantzizkoa: Ziurtagiri-babeskopiaren pasahitza ahazten bazaizu, ezin izango duzu geroago babeskopia hori berreskuratu.  Gorde ezazu leku seguru batean.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Babesturiko token autentifikazioa
-protected-auth-msg = Mesedez token-ean autentifikatu. Autentifikazio metodoa token moetaren arabera aldatzen da.
-protected-auth-token = Token-a:
 
 ## Protected authentication alert
 

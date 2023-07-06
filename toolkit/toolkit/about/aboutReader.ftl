@@ -4,6 +4,7 @@
 
 about-reader-loading = Kargatzen...
 about-reader-load-error = Huts egin du artikulua orritik kargatzean
+
 about-reader-color-scheme-light = Argia
     .title = Kolore-eskema argia
 about-reader-color-scheme-dark = Iluna
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Kolore-eskema sepia
 about-reader-color-scheme-auto = Automatikoa
     .title = Kolore-eskema automatikoa
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

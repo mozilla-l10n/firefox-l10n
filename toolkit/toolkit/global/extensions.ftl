@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Utzi
     .accesskey = U
+
 webext-perms-sideload-text = Zure ordenagailuko beste programa batek nabigatzailean eragina izan lezakeen gehigarri bat instalatu du. Mesedez berrikusi gehigarri honen baimen-eskaerak eta aukeratu 'Gaitu' edo 'Utzi' (desgaituta uzteko).
 webext-perms-sideload-text-no-perms = Zure ordenagailuko beste programa batek nabigatzailean eragina izan lezakeen gehigarri bat instalatu du. Aukeratu 'Gaitu' edo 'Utzi' (desgaituta uzteko).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Utzi
     .accesskey = U
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } eguneratu egin da. Baimen berriak onartu behar dituzu eguneratutako bertsioa instala dadin. "Utzi" aukeratuz gero, hedapenaren uneko bertsioarekin jarraituko duzu. Hedapen honek ondorengo baimenak izango ditu:
 webext-perms-update-accept =
     .label = Eguneratu
     .accesskey = E
+
 webext-perms-optional-perms-list-intro = Ondorengoa egin nahi du:
 webext-perms-optional-perms-allow =
     .label = Baimendu
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Ukatu
     .accesskey = U
+
 webext-perms-host-description-all-urls = Webgune guztietako zure datuak atzitzea
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } domeinupeko guneetako zure datuak atzitzea
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } ostalariko zure datuak atzitzea
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

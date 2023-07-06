@@ -14,6 +14,7 @@ xpinstall-prompt-message = { $host }(e)tik gehigarri bat instalatzen saiatzen ar
 
 xpinstall-prompt-header-unknown = Baimendu gune ezezagun bati gehigarria instalatzea?
 xpinstall-prompt-message-unknown = Gune ezezagun batetik gehigarri bat instalatzen saiatzen ari zara. Jarraitu aurretik, ziurtatu gunea fidagarria dela.
+
 xpinstall-prompt-dont-allow =
     .label = Ez baimendu
     .accesskey = E
@@ -42,6 +43,7 @@ xpinstall-disabled = Softwareren instalazioa ezgaituta dago. Egin klik 'Gaitu' b
 xpinstall-disabled-button =
     .label = Gaitu
     .accesskey = G
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -50,6 +52,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) blokeatu du zure
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Zure sistemaren kudeatzaileak gune honi galarazi egin dio ordenagailuan softwarea instalatzeaz galdetzea.
 addon-install-full-screen-blocked = Gehigarrien instalazioa ez da baimentzen pantaila osoko moduan edo modu horretara sartu aurretik.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } gehigarria { -brand-short-name }(e)ra gehitu da
@@ -67,6 +70,7 @@ addon-removal-title = { $name } kendu?
 addon-removal-message = Kendu { $name } { -brand-shorter-name }(e)tik?
 addon-removal-button = Kendu
 addon-removal-abuse-report-checkbox = Salatu hedapen hau { -vendor-short-name }(r)i
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -75,6 +79,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } gehigarri deskargatzen eta egiaztatzen…
     }
 addon-download-verifying = Egiaztatzen
+
 addon-install-cancel-button =
     .label = Utzi
     .accesskey = U
