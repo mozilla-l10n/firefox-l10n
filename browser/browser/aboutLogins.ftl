@@ -11,11 +11,6 @@ about-logins-page-title = Credenziali e password
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Cerca nelle credenziali
-
-create-login-button = Inserisci nuove credenziali
-
 about-logins-login-filter =
    .placeholder = Cerca nelle credenziali
    .key = F
@@ -118,9 +113,6 @@ login-item-copied-password-button-text = Copiata.
 login-item-save-changes-button = Salva modifiche
 login-item-save-new-button = Salva
 login-item-cancel-button = Annulla
-login-item-time-changed = Ultima modifica: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Data creazione: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Ultimo utilizzo: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## The date is displayed in a timeline showing the password evolution.
 ## A label is displayed under the date to describe the type of change.
@@ -232,7 +224,6 @@ about-logins-breach-alert-date = Questa violazione si è verificata il giorno { 
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Apri { $hostname }
-about-logins-breach-alert-learn-more-link = Ulteriori informazioni
 
 ## Vulnerable Password notification
 

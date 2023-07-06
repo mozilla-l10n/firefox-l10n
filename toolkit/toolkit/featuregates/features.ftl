@@ -12,7 +12,6 @@ experimental-features-css-masonry-description = Attiva il supporto per la funzio
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description2 = Questa nuova API fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. Le <a data-l10n-name="spec">specifiche</a> non sono ancora definitive. Consultare il <a data-l10n-name="bugzilla">bug 1602129</a> per ulteriori dettagli.
 
 experimental-features-web-gpu-description3 = L’<a data-l10n-name="wikipedia-webgpu">API WebGPU</a> fornisce supporto di basso livello per l’esecuzione di calcolo e rendering grafico utilizzando l’<a data-l10n-name="wikipedia-gpu">unità di elaborazione grafica (GPU)</a> del dispositivo o del computer dell’utente. La prima versione delle <a data-l10n-name="spec">specifiche</a> è in fase di finalizzazione. Consultare il <a data-l10n-name="bugzilla">bug 1616739</a> per ulteriori dettagli.
 
@@ -20,21 +19,9 @@ experimental-features-media-jxl =
     .label = Media: JPEG XL
 experimental-features-media-jxl-description = Attiva in { -brand-short-name } il supporto per il formato JPEG XL (JXL). Si tratta di un formato avanzato per immagini che supporta il passaggio senza perdita di dettagli dai tradizionali file JPEG. Consultare <a data-l10n-name="bugzilla">bug 1539075</a> per ulteriori dettagli.
 
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-css-constructable-stylesheets =
-    .label = CSS: Constructable Stylesheets
-experimental-features-css-constructable-stylesheets-description = L’aggiunta di un costruttore all’interfaccia <a data-l10n-name="mdn-cssstylesheet">CSSStyleSheet</a>, insieme ad altre modifiche correlate, rende possibile la creazione di nuovi fogli di stile senza bisogno di aggiungerli all’HTML. Questo rende molto più facile la creazione di fogli di stile riutilizzabili con <a data-l10n-name="mdn-shadowdom">Shadow DOM</a>. Consultare <a data-l10n-name="bugzilla">bug 1520690</a> per ulteriori dettagli.
-
 experimental-features-devtools-compatibility-panel =
     .label = Strumenti di sviluppo: pannello compatibilità
 experimental-features-devtools-compatibility-panel-description = Un pannello laterale per lo strumento di Analisi pagina che visualizza informazioni dettagliate sulla compatibilità della propria app in diversi browser. Consultare <a data-l10n-name="bugzilla">bug 1584464</a> per ulteriori dettagli.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-lax-by-default2 =
-    .label = Cookie: SameSite=Lax predefinito
-experimental-features-cookie-samesite-lax-by-default2-description = Gestisci i cookie come “SameSite=Lax” per impostazione predefinita se non viene specificato alcun attributo “SameSite”. Gli sviluppatori devono utilizzare esplicitamente “SameSite=None” per ripristinare il funzionamento attuale che non prevede alcuna limitazione d’uso.
 
 
 # The title of the experiment should be kept in English as it may be referenced
@@ -48,12 +35,6 @@ experimental-features-cookie-samesite-none-requires-secure2-description = Rendi 
 experimental-features-abouthome-startup-cache =
     .label = Cache di avvio per about:home
 experimental-features-abouthome-startup-cache-description = Attiva cache per la pagina about:home che viene caricata automaticamente all’avvio del browser. Lo scopo di questa cache è migliorare le prestazioni di avvio.
-
-# The title of the experiment should be kept in English as it may be referenced
-# by various online articles and is technical in nature.
-experimental-features-cookie-samesite-schemeful =
-    .label = Cookie: Schemeful SameSite
-experimental-features-cookie-samesite-schemeful-description = Gestisci i cookie dallo stesso dominio ma con schemi diversi (ad esempio http://example.com e https://example.com) come cross-site invece di same-site. Questo migliora la sicurezza, ma può creare problemi nella navigazione.
 
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =

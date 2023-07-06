@@ -224,10 +224,6 @@ about-debugging-worker-inspect-action-disabled =
 about-debugging-zombie-tab-inspect-action-disabled =
   .title = La scheda non è stata caricata completamente e non può essere analizzata
 
-about-debugging-main-process-name = Processo principale
-
-about-debugging-main-process-description2 = Processo principale per il browser obiettivo
-
 about-debugging-multiprocess-toolbox-name = Cassetta degli attrezzi multiprocesso
 
 about-debugging-multiprocess-toolbox-description = Processo principale e processi per i contenuti per il browser obiettivo

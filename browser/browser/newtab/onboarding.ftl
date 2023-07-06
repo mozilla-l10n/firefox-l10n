@@ -18,13 +18,6 @@ onboarding-not-now-button-label = Non adesso
 # when Firefox is both pinned and default
 mr1-onboarding-get-started-primary-button-label = Inizia
 
-mr1-onboarding-welcome-header = Benvenuti in { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Imposta { -brand-short-name } come browser principale
-    .title = Imposta { -brand-short-name } come browser predefinito e lo aggiunge alla barra delle applicazioni
-
-mr1-onboarding-set-default-only-primary-button-label = Imposta { -brand-short-name } come browser predefinito
-mr1-onboarding-set-default-secondary-button-label = Non adesso
-
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Ottimo, ora hai installato { -brand-short-name }
@@ -48,25 +41,6 @@ mr1-return-to-amo-add-extension-label = Aggiungi { $addon-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Come iniziare: schermata { $current } di { $total }
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-mr1-welcome-screen-hero-text = Cominciamo da qui
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Designer di mobili, fan di Firefox
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = Avanzamento: passo { $current } di { $total }
@@ -78,19 +52,6 @@ mr1-onboarding-reduce-motion-button-label = Disattiva animazioni
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Mantieni { -brand-short-name } nel Dock per un accesso più rapido
-       *[other] Aggiungi { -brand-short-name } alla barra delle applicazioni per un accesso più rapido
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Mantieni nel Dock
-       *[other] Aggiungi alla barra delle applicazioni
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 mr1-onboarding-sign-in-button-label = Accedi
@@ -98,43 +59,15 @@ mr1-onboarding-sign-in-button-label = Accedi
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Imposta { -brand-short-name } come browser predefinito
-mr1-onboarding-default-subtitle = Velocità, sicurezza e privacy senza preoccupazioni.
-mr1-onboarding-default-primary-button-label = Imposta come browser predefinito
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = Porta tutto con te
-mr1-onboarding-import-subtitle = Importa password, segnalibri<br/>e altro ancora.
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importa da { $previous }
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importa dal browser precedente
-mr1-onboarding-import-secondary-button-label = Non adesso
-
-mr2-onboarding-colorway-header = Una vita a colori
-mr2-onboarding-colorway-subtitle = Nuove vibranti tonalità. Disponibili per un periodo limitato.
-mr2-onboarding-colorway-primary-button-label = Salva tonalità
-mr2-onboarding-colorway-secondary-button-label = Non adesso
-mr2-onboarding-colorway-label-soft = Delicata
-mr2-onboarding-colorway-label-balanced = Bilanciata
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Forte
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Automatico
-
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Tema predefinito
-
 mr1-onboarding-theme-header = Uno stile unico
 mr1-onboarding-theme-subtitle = Personalizza { -brand-short-name } con un tema.
-mr1-onboarding-theme-primary-button-label = Salva tema
 mr1-onboarding-theme-secondary-button-label = Non adesso
 
 # System theme uses operating system color settings
@@ -201,31 +134,6 @@ mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         Utilizza una combinazione di colori dinamica
         e variegata per pulsanti, menu e finestre.
-
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Utilizza questa tonalità.
-
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Utilizza questa tonalità.
-
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Scopri le tonalità { $colorwayName }.
-
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Scopri le tonalità { $colorwayName }.
-
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Scopri i temi predefiniti.
 
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Scopri i temi predefiniti.

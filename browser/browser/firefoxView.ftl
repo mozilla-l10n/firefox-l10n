@@ -112,6 +112,7 @@ firefoxview-collapse-button-hide =
 
 firefoxview-overview-nav = Navigazione recente
     .title = Navigazione recente
+
 firefoxview-overview-header = Navigazione recente
   .title = Navigazione recente
 

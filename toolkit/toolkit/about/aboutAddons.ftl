@@ -8,9 +8,6 @@ search-header =
     .placeholder = Cerca in addons.mozilla.org
     .searchbuttonlabel = Cerca
 
-search-header-shortcut =
-    .key = f
-
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
@@ -350,9 +347,6 @@ extension-enabled-heading = Attive
 extension-disabled-heading = Disattivate
 
 theme-enabled-heading = Attivi
-theme-disabled-heading = Disattivati
-theme-monochromatic-heading = Tonalità
-theme-monochromatic-subheading = Nuove vibranti tonalità da { -brand-product-name }. Disponibili per un periodo limitato.
 
 theme-disabled-heading2 = Temi salvati
 
@@ -406,10 +400,9 @@ addon-detail-updates-radio-on = Attivo
 addon-detail-updates-radio-off = Disattivato
 addon-detail-update-check-label = Controlla aggiornamenti
 install-update-button = Aggiorna
+
 addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
-addon-detail-group-label-private-browsing =
-    .aria-label = { detail-private-browsing-label }
 
 addon-badge-private-browsing-allowed2 =
     .title = Attiva in finestre anonime
@@ -417,6 +410,9 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Se viene garantito il permesso, l’estensione potrà accedere alle tue attività online nelle finestre anonime. <a data-l10n-name="learn-more">Ulteriori informazioni</a>
 addon-detail-private-browsing-allow = Consenti
 addon-detail-private-browsing-disallow = Non consentire
+
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.

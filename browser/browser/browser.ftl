@@ -5,41 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Navigazione anonima)
-    .data-content-title-default = { $content-title } – { -brand-full-name }
-    .data-content-title-private = { $content-title } – { -brand-full-name } (Navigazione anonima)
-
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" – "Mozilla Firefox"
-# "private" – "Mozilla Firefox – (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } – (Navigazione anonima)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } – (Navigazione anonima)
-
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } Navigazione anonima
@@ -89,16 +54,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Apri il pannello dei permessi per la realtà virtuale
 urlbar-storage-access-anchor =
     .tooltiptext = Apri il pannello relativo ai permessi per la navigazione
-urlbar-translate-notification-anchor =
-    .tooltiptext = Traduci questa pagina
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Gestisci la condivisione delle finestre o dello schermo con il sito
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Apri il pannello con il messaggio relativo all’archiviazione non in linea per le app
 urlbar-password-notification-anchor =
     .tooltiptext = Apri il pannello per il salvataggio delle password
-urlbar-translated-notification-anchor =
-    .tooltiptext = Gestisci la traduzione della pagina
 urlbar-plugins-notification-anchor =
     .tooltiptext = Gestisci l’utilizzo dei plugin
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -194,11 +155,6 @@ urlbar-star-add-bookmark =
     .tooltiptext = Aggiungi ai segnalibri ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Gestisci estensione…
-page-action-remove-extension =
-    .label = Rimuovi estensione
 
 page-action-manage-extension2 =
     .label = Gestisci estensione…
@@ -403,7 +359,6 @@ identity-clear-site-data =
 identity-connection-not-secure-security-view = La connessione con questo sito non è sicura.
 identity-connection-verified = La connessione con questo sito è sicura.
 identity-ev-owner-label = Certificato rilasciato a:
-identity-description-custom-root = Mozilla non riconosce il soggetto che ha emesso questo certificato. Potrebbe essere stato aggiunto dal sistema operativo o da un amministratore. <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-custom-root2 = Mozilla non riconosce il soggetto che ha emesso questo certificato. Potrebbe essere stato aggiunto dal sistema operativo o da un amministratore.
 identity-remove-cert-exception =
     .label = Elimina eccezione
@@ -412,17 +367,12 @@ identity-description-insecure = La connessione con questo sito non è privata. L
 identity-description-insecure-login-forms = Le credenziali di accesso inserite in questa pagina non sono sicure e potrebbero essere vulnerabili.
 identity-description-weak-cipher-intro = La connessione con questo sito web utilizza una crittografia debole e non è privata.
 identity-description-weak-cipher-risk = Altri soggetti potrebbero visualizzare le informazioni trasmesse o modificare il comportamento del sito.
-identity-description-active-blocked = Alcuni elementi non sicuri di questa pagina sono stati bloccati da { -brand-short-name }. <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-active-blocked2 = Alcuni elementi non sicuri di questa pagina sono stati bloccati da { -brand-short-name }.
 identity-description-passive-loaded = La connessione non è privata e le informazioni trasmesse al sito potrebbero essere visibili ad altri soggetti.
-identity-description-passive-loaded-insecure = Alcuni elementi di questo sito web non sono sicuri (ad esempio immagini). <label data-l10n-name="link">Ulteriori informazioni</label>
-identity-description-passive-loaded-mixed = Nonostante alcuni elementi siano stati bloccati da { -brand-short-name }, in questa pagina sono ancora presenti elementi non sicuri (ad esempio immagini). <label data-l10n-name="link">Ulteriori informazioni</label>
 identity-description-passive-loaded-insecure2 = Alcuni elementi di questo sito web non sono sicuri (ad esempio immagini).
 identity-description-passive-loaded-mixed2 = Nonostante alcuni elementi siano stati bloccati da { -brand-short-name }, in questa pagina sono ancora presenti elementi non sicuri (ad esempio immagini).
 identity-description-active-loaded = La connessione con questo sito web non è sicura in quanto presenta contenuti non sicuri (ad esempio script).
 identity-description-active-loaded-insecure = Le informazioni inviate, come ad esempio password, messaggi, dati delle carte di credito, ecc. potrebbero essere visibili ad altri soggetti.
-identity-learn-more =
-    .value = Ulteriori informazioni
 identity-disable-mixed-content-blocking =
     .label = Disattiva temporaneamente protezione
     .accesskey = D
@@ -503,16 +453,6 @@ popup-select-window-or-screen =
     .accesskey = F
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
 
-popup-screen-sharing-block =
-    .label = Blocca
-    .accesskey = B
-
-popup-screen-sharing-always-block =
-    .label = Blocca sempre
-    .accesskey = s
-
-popup-mute-notifications-checkbox = Disattiva notifiche dai siti web durante la condivisione
-
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = { -brand-short-name } è attualmente condiviso. Altre persone possono vedere quando passi a un’altra scheda.
@@ -523,8 +463,6 @@ sharing-warning-disable-for-session =
     .label = Disattiva avvisi relativi alla condivisione in questa sessione
 
 ## DevTools F12 popup
-
-enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
 
 enable-devtools-popup-description2 = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu ”Strumenti del browser”.
 
@@ -716,18 +654,6 @@ pointerlock-warning-no-domain = Questo documento sta controllando il puntatore d
 
 ## Subframe crash notification
 
-crashed-subframe-message = <strong>Una parte di questa pagina si è bloccata.</strong> Invia una segnalazione a { -brand-product-name } per comunicare questo problema e fare in modo che venga risolto più rapidamente.
-
-# The string for crashed-subframe-title.title should match crashed-subframe-message,
-# but without any markup.
-crashed-subframe-title =
-    .title = Una parte di questa pagina si è bloccata. Invia una segnalazione a { -brand-product-name } per comunicare questo problema e fare in modo che venga risolto più rapidamente.
-crashed-subframe-learnmore-link =
-    .value = Ulteriori informazioni
-crashed-subframe-submit =
-    .label = Invia segnalazione
-    .accesskey = s
-
 ## Bookmarks panels, menus and toolbar
 
 bookmarks-manage-bookmarks =
@@ -779,8 +705,6 @@ bookmarks-search =
     .label = Cerca nei segnalibri
 bookmarks-tools =
     .label = Strumenti per i segnalibri
-bookmarks-bookmark-edit-panel =
-    .label = Modifica segnalibro
 
 bookmarks-subview-edit-bookmark =
     .label = Modifica segnalibro…
@@ -798,10 +722,6 @@ bookmarks-toolbar-placeholder =
     .title = Elementi della barra dei segnalibri
 bookmarks-toolbar-placeholder-button =
     .label = Elementi della barra dei segnalibri
-
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Aggiungi scheda corrente ai segnalibri
 
 bookmarks-subview-bookmark-tab =
     .label = Aggiungi scheda corrente ai segnalibri…
@@ -826,12 +746,6 @@ repair-text-encoding-button =
     .tooltiptext = Cerca di identificare la codifica testo corretta in base al contenuto della pagina
 
 ## Customize Toolbar Buttons
-
-# Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Estensioni e temi
-    .tooltiptext = Gestisci estensioni e temi ({ $shortcut })
 
 # Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
@@ -891,11 +805,6 @@ panel-save-update-username = Nome utente
 panel-save-update-password = Password
 
 ## Add-on removal warning
-
-# Variables:
-#  $name (String): The name of the addon that will be removed.
-addon-removal-title = Rimuovere { $name }?
-addon-removal-abuse-report-checkbox = Segnala questa estensione a { -vendor-short-name }
 
 ##
 
@@ -974,9 +883,6 @@ navbar-library =
 
 navbar-search =
     .title = Cerca
-
-navbar-accessibility-indicator =
-    .tooltiptext = Caratteristiche per l’accessibilità attive
 
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
