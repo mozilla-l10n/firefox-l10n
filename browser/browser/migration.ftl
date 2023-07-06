@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = Pencere û Hilpekîn
 browser-data-session-label =
     .value = Pencere û Hilpekîn
+

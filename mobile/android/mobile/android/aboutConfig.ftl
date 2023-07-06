@@ -4,3 +4,4 @@
 
 config-toolbar-search =
     .placeholder = Lê bigere
+

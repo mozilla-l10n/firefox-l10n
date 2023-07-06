@@ -23,6 +23,8 @@ a11y-title = Gihîştin
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = Dikarî diyar bikî ka kîjan malper sazkir
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

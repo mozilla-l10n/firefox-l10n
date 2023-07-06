@@ -22,5 +22,7 @@ state-header = Rewş
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Kitekit
+
 update-installed-on = Li vir hat sazkirin: { $date }
+
 update-status = Rewş: { $status }

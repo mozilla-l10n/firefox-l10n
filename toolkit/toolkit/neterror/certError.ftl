@@ -22,6 +22,7 @@ cert-error-untrusted-default = Çavkaniya sertîfîkayê ne ewle ye.
 
 connectionFailure-title = Çewtî! Di Girêdanê de Kêmasî hene
 deniedPortAccess-title = Portê Ji Ber Sedemên Ewlekariyê Asteng Kir
+
 fileNotFound-title = Çewtî! Pel Nayê Dîtin
 generic-title = Ahhaaa.
 netInterrupt-title = Girêdan qut bû

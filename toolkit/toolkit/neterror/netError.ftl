@@ -23,6 +23,17 @@ neterror-load-error-try-again = Dibe ku mapler ji bo demekê hatibe rawestandin 
 neterror-load-error-connection = Heke nikaribî tu malperan vekî, girêdana torê ya komputera xwe kontrol bike.
 neterror-load-error-firewall = Heke komputer an jî tora te ji hêla Firewall an jî proxyekê ve tê parastin, binêre ka destûra { -brand-short-name } 'ê ya têketina webê heye an na.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Dibe ku di nivîsandina tîpên hûrdek/girdek de çewtî hebe.
 neterror-file-not-found-moved = Dibe ku ciyê pelê an jî navê wê hatibe guhertin an jî hatibe jêbirin.
 
