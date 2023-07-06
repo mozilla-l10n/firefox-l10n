@@ -38,9 +38,11 @@ menu-quit =
             [windows] z
            *[other] U
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zatvori { -brand-shorter-name }
+
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -210,10 +212,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Zabilješke
     .accesskey = b
-menu-bookmark-current-tab =
-    .label = Zabilježi trenutni tab
-menu-bookmark-edit =
-    .label = Uredi ovu Zabilješku
 menu-bookmarks-all-tabs =
     .label = Zabilježi sve tabove…
 menu-bookmarks-toolbar =

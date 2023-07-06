@@ -5,10 +5,6 @@
 
 ## Strings used for device manager
 
-devmgr =
-    .title = Upravnik uređaja
-    .style = width: 67em; height: 32em;
-
 devmgr-window =
     .title = Upravnik uređaja
     .style = min-width: 67em; min-height: 32em;

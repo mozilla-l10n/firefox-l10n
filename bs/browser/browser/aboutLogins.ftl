@@ -7,11 +7,6 @@ about-logins-page-title = Prijave & lozinke
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-filter =
-    .placeholder = Pretraži prijave
-
-create-login-button = Kreiraj novu prijavu
-
 fxaccounts-sign-in-text = Pristupite lozinkama na drugim uređajima
 fxaccounts-avatar-button =
     .title = Upravljanje računom
@@ -89,9 +84,10 @@ login-item-copied-password-button-text = Kopirano!
 login-item-save-changes-button = Spasi promjene
 login-item-save-new-button = Spasi
 login-item-cancel-button = Otkaži
-login-item-time-changed = Zadnja izmjena: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Stvoreno: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Zadnji put korišteno: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -143,6 +139,11 @@ about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja se ne može poništiti.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
 
+## Variables
+##   $count (number) - Number of items
+
+##
+
 about-logins-confirm-export-dialog-title = Izvezi prijave i lozinke
 about-logins-confirm-export-dialog-confirm-button = Izvoz…
 
@@ -155,7 +156,6 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Posjeti { $hostname }
-about-logins-breach-alert-learn-more-link = Saznajte više
 
 ## Vulnerable Password notification
 

@@ -27,6 +27,7 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Nepoznat izvor
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -68,6 +69,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Upravljanje dijeljenjem
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Upravljanje dijeljenjem na "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Dijeljenje kamere sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -77,6 +79,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [few] Dijeljenje kamere sa { $tabCount } tabova
            *[other] Dijeljenje kamere sa { $tabCount } tabova
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Dijeljenje mikrofona sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -86,6 +89,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [few] Dijeljenje mikrofona sa { $tabCount } tabova
            *[other] Dijeljenje mikrofona sa { $tabCount } tabova
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Dijeljenje aplikacije sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -95,6 +99,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [few] Dijeljenje aplikacije s { $tabCount } tabova
            *[other] Dijeljenje aplikacije s { $tabCount } tabova
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Dijeljenje ekrana sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -104,6 +109,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [few] Dijeljenje ekrana sa { $tabCount } tabova
            *[other] Dijeljenje ekrana sa { $tabCount } tabova
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Dijeljenje prozora sa "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -113,6 +119,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [few] Dijeljenje prozora sa { $tabCount } tabova
            *[other] Dijeljenje prozora sa { $tabCount } tabova
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Dijeljenje taba sa "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -160,6 +167,7 @@ webrtc-action-allow =
 ##
 
 webrtc-remember-allow-checkbox = Zapamti ovu odluku
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ne može dopustiti stalan pristup vašem ekranu.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ne može dozvoliti stalan pristup audiu vašeg taba bez upita koji tab želite podijeliti.
 webrtc-reason-for-no-permanent-allow-insecure = Vaša veza na ovu stranicu nije sigurna. Da bi vas zaštitio, { -brand-short-name } će dozvoliti pristup samo za ovu sesiju.

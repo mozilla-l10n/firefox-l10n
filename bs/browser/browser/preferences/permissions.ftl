@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Izuzeci
-    .style = width: 36em
-
 permissions-window2 =
     .title = Izuzeci
     .style = min-width: 36em
@@ -80,10 +76,6 @@ permissions-exceptions-cookie-desc = Možete navesti kojim web stranica je uvije
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Dozvoljene web stranice - Pop-up prozori
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Dozvoljene web stranice - Pop-up prozori
     .style = { permissions-window2.style }
@@ -91,20 +83,12 @@ permissions-exceptions-popup-desc = Možete odrediti kojim web stranicama je doz
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Izuzeci - Spašene prijave
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Izuzeci - Spašene prijave
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Prijave za sljedeće stranice neće biti sačuvane
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Dozvoljene web stranice - Instalacija add-ona
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Dozvoljene web stranice - Instalacija add-ona
@@ -116,10 +100,6 @@ permissions-exceptions-addons-desc = Možete odrediti kojim web stranicama je do
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Postavke - Dozvole za obavještenja
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Postavke - Dozvole za obavještenja
     .style = { permissions-window2.style }
@@ -129,10 +109,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = Ovo će spriječiti bilo koju stranicu koja nije prikazana iznad od zahtijevanja za dozvolu slanja obavijesti. Blokiranje obavijesti može onemogućiti neke opcije web stranice.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Postavke - Dozvole za lokaciju
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Postavke - Dozvole za lokaciju
@@ -147,10 +123,6 @@ permissions-site-location-disable-desc = Ovo će onemogućiti bilo koju stranicu
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Postavke - Dozvole za kameru
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Postavke - Dozvole za kameru
     .style = { permissions-window2.style }
@@ -161,10 +133,6 @@ permissions-site-camera-disable-desc = Ovo će onemogućiti bilo koju stranicu k
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Postavke - Dozvole za mikrofon
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Postavke - Dozvole za mikrofon
     .style = { permissions-window2.style }
@@ -172,3 +140,8 @@ permissions-site-microphone-desc = Sljedeće stranice su zahtijevale pristup va�
 permissions-site-microphone-disable-label =
     .label = Blokiraj nove zahtjeve u kojima se traži dozvola za pristup vašem mikrofonu
 permissions-site-microphone-disable-desc = Ovo će onemogućiti bilo koju stranicu koja nije prikazana iznad od slanja zahtijeva za dozvolu za pristup vašem mikrofonu. Blokiranje pristupa vašem mikrofonu može onemogućiti neke mogućnosti web stranice.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

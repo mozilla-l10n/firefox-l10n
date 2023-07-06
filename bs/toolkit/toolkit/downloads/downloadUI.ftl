@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Ne izlazi
        *[other] Ne izlazi
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ako sada odete offline, 1 preuzimanje će biti otkazano. Da li ste sigurni da želite otići offline?
        *[other] Ako sada odete offline, { $downloadsCount } preuzimanja će biti otkazano. Da li ste sigurni da želite otići offline?
     }
 download-ui-dont-go-offline-button = Ostani online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Ako zatvorite sve prozore privatnog surfanja sada, 1 preuzimanje će biti otkazano. Da li ste sigurni da želite napustiti privatno surfanje?
        *[other] Ako zatvorite sve prozore privatnog surfanja sada, { $downloadsCount } preuzimanja će biti otkazano. Da li ste sigurni da želite napustiti privatno surfanje?
     }
 download-ui-dont-leave-private-browsing-button = Ostani u privatnom surfanju
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Otkaži jedno preuzimanje

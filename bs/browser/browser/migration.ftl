@@ -107,3 +107,4 @@ browser-data-session-checkbox =
     .label = Prozori i tabovi
 browser-data-session-label =
     .value = Prozori i tabovi
+

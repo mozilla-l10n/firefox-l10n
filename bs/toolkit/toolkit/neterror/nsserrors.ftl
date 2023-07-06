@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Došlo je do greške tokom povezivanja sa { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Kod greške: { $error }
-
 psmerr-ssl-disabled = Nije moguće sigurno povezivanje jer je SSL protokol isključen.
 psmerr-ssl2-disabled = Nije moguće sigurno povezivanje jer stranica koristi stariju, nesigurnu verziju SSL protokola.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Niti jedan podržani algoritam TLS 
 ssl-error-unsupported-signature-algorithm = Peer je koristio nepodržanu kombinaciju algoritma potpisa i hasha.
 ssl-error-missing-extended-master-secret = Peer je pokušao nastaviti bez ispravne extended_master_secret ekstenzije.
 ssl-error-unexpected-extended-master-secret = Peer je pokušao nastaviti s neočekivanom extended_master_secret ekstenzijom.
+
 sec-error-io = Došlo je do U/I greške tokom sigurnosne autorizacije.
 sec-error-library-failure = greška u sigurnosnoj biblioteci.
 sec-error-bad-data = sigurnosna biblioteka: primljeni su loši podaci.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Dekriptovanje nije moguće: algoritam za enkri
 sec-error-pkcs7-bad-signature = Neuspjela verifikacija potpisa: potpisnik nije pronađen, previše potpisnika pronađeno, ili su podaci neodgovarajući ili oštećeni.
 sec-error-unsupported-keyalg = Nepodržani ili nepoznati algoritam za ključeve.
 sec-error-decryption-disallowed = Dekriptovanje nije moguće: enkriptovano pomoću nedozvoljenog algoritma ili dužine ključa.
-xp-sec-fortezza-bad-card = Fortezza karta nije propisno inicijalizirana. Molimo da je uklonite i vratite izdavaču.
-xp-sec-fortezza-no-card = Nije pronađena niti jedna Fortezza karta
-xp-sec-fortezza-none-selected = Nije izabrana nijedna Fortezza karta
-xp-sec-fortezza-more-info = Molimo da odaberete ličnost o kojoj treba dobaviti podatke
-xp-sec-fortezza-person-not-found = Ličnost nije pronađena
-xp-sec-fortezza-no-more-info = Nema više podataka o toj ličnosti
-xp-sec-fortezza-bad-pin = Pogrešan PIN
-xp-sec-fortezza-person-error = Nije moguće pokrenuti Fortezza ličnosti.
 sec-error-no-krl = Nijedan KRL nije pronađen za certifikat ove stranice.
 sec-error-krl-expired = KRL za certifikat ove stranice je istekao.
 sec-error-krl-bad-signature = KRL za certifikat ove stranice ima neispravan potpis.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Certifikat sa istom oznakom već postoji.
 sec-error-key-nickname-collision = Ključ sa istom oznakom već postoji.
 sec-error-safe-not-created = greška pri kreiranju sigurnog objekta
 sec-error-baggage-not-created = greška pri kreiranju objekta prtljaga
-xp-java-remove-principal-error = Glavnica nije mogla biti uklonjena
-xp-java-delete-privilege-error = Nije moguće ukloniti privilegiju
-xp-java-cert-not-exists-error = Ova glavnica nema certifikat
 sec-error-bad-export-algorithm = Traženi algoritam nije dopušten.
 sec-error-exporting-certificates = Greška pri pokušaju izvoza certifikata.
 sec-error-importing-certificates = Greška pri pokušaju uvoza certifikata.
@@ -338,6 +319,7 @@ sec-error-locked-password = Lozinka je zaključana.
 sec-error-unknown-pkcs11-error = Nepoznata PKCS #11 greška.
 sec-error-bad-crl-dp-url = Neispravan ili nepodržan URL u CRL nazivu distribucijske tačke.
 sec-error-cert-signature-algorithm-disabled = Certifikat je potpisan upotrebom algoritma koji je onemogućen jer nije siguran.
+
 mozilla-pkix-error-key-pinning-failure = Server koristi "key pinning" (HPKP), ali nije moguće sastaviti nijedan lanac certifikata koji odgovara pinsetu. "Key pinning" prekršaji se ne mogu zaobići.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server koristi certifikat s proširenjem osnovnih uvjeta koji ga identificiraju kao certifikacijski autoritet. Za ispravno izdat certifikat, ovo ne bi smio biti slučaj.
 mozilla-pkix-error-inadequate-key-size = Server je prezentirao certifikat s ključem premale dužine za uspostavljanje sigurne veze.
@@ -351,3 +333,16 @@ mozilla-pkix-error-required-tls-feature-missing = Nedostaje potrebna TLS funkcio
 mozilla-pkix-error-invalid-integer-encoding = Server je prezentovao certifikat koji sadrži neispravno kodiranje cijelog broja. Uobičajeni uzroci za ovo uključuju negativne serijske brojeve, negativne RSA module i kodiranja koja su duža nego što je potrebno.
 mozilla-pkix-error-empty-issuer-name = Server je prezentovao certifikat sa praznim nazivom izdavača.
 mozilla-pkix-error-self-signed-cert = Certifikat nije od povjerenja jer je samopotpisan.
+
+xp-java-remove-principal-error = Glavnica nije mogla biti uklonjena
+xp-java-delete-privilege-error = Nije moguće ukloniti privilegiju
+xp-java-cert-not-exists-error = Ova glavnica nema certifikat
+
+xp-sec-fortezza-bad-card = Fortezza karta nije propisno inicijalizirana. Molimo da je uklonite i vratite izdavaču.
+xp-sec-fortezza-no-card = Nije pronađena niti jedna Fortezza karta
+xp-sec-fortezza-none-selected = Nije izabrana nijedna Fortezza karta
+xp-sec-fortezza-more-info = Molimo da odaberete ličnost o kojoj treba dobaviti podatke
+xp-sec-fortezza-person-not-found = Ličnost nije pronađena
+xp-sec-fortezza-no-more-info = Nema više podataka o toj ličnosti
+xp-sec-fortezza-bad-pin = Pogrešan PIN
+xp-sec-fortezza-person-error = Nije moguće pokrenuti Fortezza ličnosti.

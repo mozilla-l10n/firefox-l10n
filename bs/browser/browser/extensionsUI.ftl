@@ -13,3 +13,4 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = Ne
     .accesskey = N
+

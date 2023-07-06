@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Zabilježi ovu stranicu
-    .accesskey = m
-    .tooltiptext = Zabilježi ovu stranicu
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Zabilježi ovu stranicu
-    .accesskey = m
-    .tooltiptext = Zabilježi ovu stranicu ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Uredi ovu Zabilješku
-    .accesskey = m
-    .tooltiptext = Uredi ovu zabilješku
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Uredi ovu Zabilješku
-    .accesskey = m
-    .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Otvori link
     .accesskey = O
@@ -246,14 +222,6 @@ main-context-menu-audio-email =
     .label = Pošalji audio emailom…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Aktiviraj ovaj plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Sakrij ovaj plugin
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = Spasi stranicu u { -pocket-brand-name }
     .accesskey = k
@@ -296,10 +264,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Obnovi okvir
     .accesskey = r
-
-main-context-menu-frame-bookmark =
-    .label = Zabilježi ovaj okvir
-    .accesskey = Z
 
 main-context-menu-frame-save-as =
     .label = Spasi okvir kao…

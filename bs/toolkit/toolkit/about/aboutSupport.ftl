@@ -131,6 +131,8 @@ media-capabilities-title = Mogućnosti medija
 # List all the entries of the database.
 media-capabilities-enumerate = Enumeriraj bazu podataka
 
+## Codec support table
+
 ##
 
 intl-title = Internacionalizacija & lokalizacija

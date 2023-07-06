@@ -13,14 +13,40 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } je blokirao ovu st
 safeb-palm-advisory-desc = Savjetovanje pružili <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Vrati se
 safeb-palm-see-details-label = Pokaži detalje
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen kao obmanjujuća stranica</a>. Možete <a data-l10n-name='report_detection'>prijaviti problem</a> ili <a data-l10n-name='ignore_warning_link'>ignorisati rizik</a> i posjetiti nesigurnu stranicu.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen kao obmanjujuća stranica</a>. Možete <a data-l10n-name='report_detection'>prijaviti problem</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Saznajte više o obmanjujućim stranicama i phishingu <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Saznajte više o { -brand-short-name } zaštiti od phishinga i štetnog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
+##
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen da sadrži štetan softver</a>. Možete <a data-l10n-name='ignore_warning_link'>ignorisati rizik</a> i posjetiti ovu nesigurnu stranicu.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen da sadrži štetan softver</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Saznajte više o štetnom i neželjenom softveru na <a data-l10n-name='learn_more_link'>Polica o neželjenom softveru</a>. Saznajte više o { -brand-short-name } zaštiti od phishinga i štetnog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen da sadrži potencijalno štetnu aplikaciju</a>. Možete <a data-l10n-name='ignore_warning_link'>ignorisati rizik</a> i posjetiti ovu nesigurnu stranicu.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> je <a data-l10n-name='error_desc_link'>prijavljen da sadrži potencijalno štetnu aplikaciju</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Saznajte više o { -brand-short-name } zaštiti od phishinga i štetnog softvera na <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Ovo nije obmanjujuća stranica…

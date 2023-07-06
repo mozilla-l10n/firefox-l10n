@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Privatno surfanje)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Privatno surfanje)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Privatno surfanje)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Privatno surfanje)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -67,16 +34,12 @@ urlbar-default-notification-anchor =
     .tooltiptext = Otvori panel s porukama
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Otvori panel sa zahtjevima lokacije
-urlbar-translate-notification-anchor =
-    .tooltiptext = Prevedi ovu stranicu
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Upravljajte dijeljenjem vaših prozora ili ekrana sa stranicom
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Otvori panel s porukama offline pohrane
 urlbar-password-notification-anchor =
     .tooltiptext = Otvori panel s porukama o spašenim lozinkama
-urlbar-translated-notification-anchor =
-    .tooltiptext = Upravljajte prijevodom stranica
 urlbar-plugins-notification-anchor =
     .tooltiptext = Upravljanje korištenjem plugina
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -125,19 +88,18 @@ urlbar-popup-blocked =
     .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
 urlbar-canvas-blocked =
     .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Zabilježi ovu stranicu ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Upravljanje ekstenzijom…
 
 ## Auto-hide Context Menu
 
@@ -152,18 +114,21 @@ full-screen-exit =
 
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke za pretragu
+
 search-one-offs-context-open-new-tab =
     .label = Traži u novom tabu
     .accesskey = t
 search-one-offs-context-set-as-default =
     .label = Postavi kao glavni pretraživač
     .accesskey = p
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -193,6 +158,7 @@ search-one-offs-history =
 bookmark-panel-show-editor-checkbox =
     .label = Prikaži editor prilikom spašavanja
     .accesskey = S
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -218,6 +184,7 @@ identity-passive-loaded = Dijelovi ove stranice nisu sigurni (poput slika).
 identity-active-loaded = Onemogućili ste zaštitu na ovoj stranici.
 identity-weak-encryption = Ova stranica koristi slabu enkripciju.
 identity-insecure-login-forms = Prijave unešene na ovoj stranici mogle bi biti kompromitovane.
+
 identity-permissions-reload-hint = Možda ćete morati ponovo učitati stranicu radi primjene izmjena.
 identity-remove-cert-exception =
     .label = Ukloni izuzetak
@@ -226,17 +193,12 @@ identity-description-insecure = Vaša konekcija na ovu stranicu nije privatna. I
 identity-description-insecure-login-forms = Informacije za prijavu koje unesete na ovoj stranici nisu sigurne i mogle bi biti kompromitovane.
 identity-description-weak-cipher-intro = Vaša konekcija na ovu web stranicu koristi slabu enkripciju i nije privatna.
 identity-description-weak-cipher-risk = Drugi ljudi mogu vidjeti vaše informacije ili modifikovati ponašanje web stranice.
-identity-description-active-blocked = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni. <label data-l10n-name="link">Saznajte više</label>
 identity-description-active-blocked2 = { -brand-short-name } je blokirao dijelove ove stranice koji nisu sigurni.
 identity-description-passive-loaded = Vaša konekcija nije privatna, a informacije koje dijelite sa stranicom mogu vidjeti drugi.
-identity-description-passive-loaded-insecure = Ova stranica sadrži nesiguran sadržaj (poput slika). <label data-l10n-name="link">Saznajte više</label>
-identity-description-passive-loaded-mixed = Iako je { -brand-short-name } blokirao dio sadržaja, i dalje postoji sadržaj na stranici koji nije siguran (poput slika). <label data-l10n-name="link">Saznajte više</label>
 identity-description-passive-loaded-insecure2 = Ova stranica sadrži nesiguran sadržaj (poput slika).
 identity-description-passive-loaded-mixed2 = Iako je { -brand-short-name } blokirao dio sadržaja, i dalje postoji sadržaj na stranici koji nije siguran (poput slika).
 identity-description-active-loaded = Ova web stranica sadrži nesiguran sadržaj (poput skripti) te vaša konekcija na nju nije privatna.
 identity-description-active-loaded-insecure = Informacije koje dijelite sa ovom stranicom mogu vidjeti drugi (poput lozinki, poruka, kreditnih kartica, itd.).
-identity-learn-more =
-    .value = Saznajte više
 identity-disable-mixed-content-blocking =
     .label = Onemogući zaštitu za sada
     .accesskey = d
@@ -280,13 +242,16 @@ popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podije
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Unesite termin za pretragu ili adresu
+
 urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici ste dodijelili dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prebaci se na tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Proširenje:
+
 urlbar-go-button =
     .tooltiptext = Idi na adresu upisanu u adresnoj traci
 urlbar-page-action-button =
@@ -332,9 +297,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> je sad preko cijelog ekrana
 fullscreen-warning-no-domain = Ovaj dokument je prikazan preko cijelog ekrana
+
+
 fullscreen-exit-button = Izađite iz cijelog ekrana (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Izađite iz cijelog ekrana (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -386,8 +354,7 @@ bookmarks-search =
     .label = Pretraži zabilješke
 bookmarks-tools =
     .label = Alati za zabilježavanje
-bookmarks-bookmark-edit-panel =
-    .label = Uredi ovu Zabilješku
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -401,9 +368,6 @@ bookmarks-toolbar-placeholder =
     .title = Stavke trake sa zabilješkama
 bookmarks-toolbar-placeholder-button =
     .label = Stavke trake sa zabilješkama
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Zabilježi trenutni tab
 
 ## Library Panel items
 
@@ -419,11 +383,6 @@ library-bookmarks-menu =
 ## Customize Toolbar Buttons
 
 # Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Add-oni i teme
-    .tooltiptext = Upravljanje vašim add-onima i temama ({ $shortcut })
-# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Postavke
@@ -432,25 +391,31 @@ toolbar-settings-button =
             [macos] Otvori postavke ({ $shortcut })
            *[other] Otvori postavke
         }
+
 toolbar-overflow-customize-button =
     .label = Prilagodi alatnu traku…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = Pošalji link emailom
     .tooltiptext = Pošalji link na ovu stranicu putem emaila
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Spasi stranicu
     .tooltiptext = Spasi ovu stranicu ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Otvori fajl
     .tooltiptext = Otvori fajl ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Sinhronizovani tabovi
     .tooltiptext = Prikaži tabove s ostalih uređaja
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -478,6 +443,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Dozvoli pop-upe za { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Blokiraj pop-upe za { $uriHost }
     .accesskey = p
@@ -487,6 +453,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Ne prikazuj ovu poruku kada su pop-upi blokirani
     .accesskey = D
+
 picture-in-picture-hide-toggle =
     .label = Sakrij preklop sa slike u sliku
     .accesskey = H
@@ -505,29 +472,35 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigacija
+
 navbar-downloads =
     .label = Preuzimanja
+
 navbar-overflow =
     .tooltiptext = Više alata…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Štampaj
     .tooltiptext = Printaj ovu stranicu… ({ $shortcut })
+
 navbar-library =
     .label = Biblioteka
     .tooltiptext = Prikaži historiju, spašene zabilješke, i više
+
 navbar-search =
     .title = Pretraga
-navbar-accessibility-indicator =
-    .tooltiptext = Funkcionalnosti pristupačnosti su omogućene
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Tabovi browsera
+
 tabs-toolbar-new-tab =
     .label = Novi tab
+
 tabs-toolbar-list-all-tabs =
     .label = Izlistaj sve tabove
     .tooltiptext = Izlistaj sve tabove
@@ -549,10 +522,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } je spriječio ovu stranicu da se automatski osvježi.
 refresh-blocked-redirect-label = { -brand-short-name } je spriječio ovu stranicu da automatski preusmjeri na drugu stranicu.
+
 refresh-blocked-allow =
     .label = Dozvoli
     .accesskey = D
@@ -590,6 +567,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

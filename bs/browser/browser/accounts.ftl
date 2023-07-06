@@ -5,9 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Završite podešavanje računa
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Račun diskonektovan
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Pošalji svim uređajima
 
@@ -26,8 +28,10 @@ account-send-to-all-devices-titlecase = Pošalji svim uređajima
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Nema povezanih uređaja
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Naučite više o slanju tabova…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Poveži dodatni uređaj…
 
@@ -48,6 +52,7 @@ account-single-tab-arriving-title = Tab primljen
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Tab iz { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -60,6 +65,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Tabovi primljeni
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

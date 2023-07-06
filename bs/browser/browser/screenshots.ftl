@@ -38,3 +38,4 @@ screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na
 
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.
 screenshots-generic-error-details = Nismo sigurni šta se upravo dogodilo. Možete li pokušati ponovo ili snimiti drukčiju stranicu?
+
