@@ -5,20 +5,13 @@
 
 ### "Glean" and "Glean SDK" should remain in English.
 
-about-glean-page-title = Om Glean
-about-glean-description = <a data-l10n-name="glean-sdk-doc-link">Glean SDK</a> är ett datainsamlingsbibliotek som används i Mozilla-produkter. Denna sida är för utvecklare och testare som behöver <a data-l10n-name="fog-debug-doc-link">konfigurera felsökning och loggning i Glean SDK</a>.
-about-glean-warning = Missbruk av detta gränssnitt kan krascha { -brand-short-name }.
-tag-pings-label = Tagga alla skickade pingar med den här taggen
-log-pings-label = Logga ping nyttolast innan du skickar?
-send-pings-label = Skicka den namngivna pingen
-controls-button-label = Skicka inställningar
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } Felsök Ping Viewer
+
 about-glean-page-title2 = Om { -glean-brand-name }
 about-glean-header = Om { -glean-brand-name }
 about-glean-interface-description =
@@ -26,6 +19,7 @@ about-glean-interface-description =
     är ett datainsamlingsbibliotek som används i { -vendor-short-name }-projekt.
     Detta gränssnitt är utformat för att användas av utvecklare och testare för att manuellt
     <a data-l10n-name="fog-link">testa instrumentering</a>.
+
 about-glean-upload-enabled = Dataöverföring är aktiverad.
 about-glean-upload-disabled = Dataöverföring är inaktiverad.
 about-glean-upload-enabled-local = Dataöverföring är endast aktiverad för sändning till en lokal server.
@@ -35,6 +29,7 @@ about-glean-upload-fake-enabled =
     så att data fortfarande registreras lokalt.
     Obs: Om du ställer in en debug-tagg kommer pingar att laddas upp till
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> oavsett inställningar.
+
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relevanta <a data-l10n-name="fog-prefs-and-defines-doc-link">inställningar och definitioner</a> inkluderar:
 # Variables:
@@ -53,6 +48,7 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
+
 about-glean-about-testing-header = Om testning
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -60,6 +56,7 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } instrumenteringstestdokument</a>
     och i <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } dokumentationen</a>,
     men kort sagt, för att manuellt testa att din instrumentering fungerar, bör du:
+
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (skicka inte in någon ping)
 # An in-line text input field precedes this string.
@@ -88,6 +85,7 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Besök sidan { glean-debug-ping-viewer-brand-name } för pingar med din tagg</a>.
     Det bör inte ta mer än några sekunder från att du trycker på knappen tills din ping kommer.
     Ibland kan det ta några minuter.
+
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     För mer <i>ad hoc</i>-tester,
@@ -95,7 +93,10 @@ about-glean-adhoc-explanation =
     genom att öppna en devtools-konsol här på <code>about:glean</code>
     och använda <code>testGetValue()</code> API som
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+
+
 controls-button-label-verbose = Tillämpa inställningar och skicka ping
+
 about-glean-about-data-header = Om data
 about-glean-about-data-explanation =
     För att bläddra i listan över insamlade data, vänligen konsultera

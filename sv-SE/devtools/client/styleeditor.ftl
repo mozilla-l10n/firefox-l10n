@@ -20,7 +20,6 @@ styleeditor-save-button = Spara
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Alternativ för stilredigerare
-styleeditor-media-rules = Media-förfrågningar
 styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = Skriv in CSS här.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = G
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Ingen matchande stilmall har hittats.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

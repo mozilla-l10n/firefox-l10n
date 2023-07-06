@@ -34,13 +34,6 @@ about-networking-messages-received = Mottagna meddelanden
 about-networking-bytes-sent = Skickade byte
 about-networking-bytes-received = Mottagna byte
 about-networking-logging = Loggning
-about-networking-log-tutorial = Se <a data-l10n-name="logging">HTTP-loggning</a> för instruktioner om hur du använder detta verktyg.
-about-networking-current-log-file = Aktuell loggfil:
-about-networking-current-log-modules = Aktuella loggmoduler:
-about-networking-set-log-file = Ange loggfil
-about-networking-set-log-modules = Ange loggmoduler
-about-networking-start-logging = Starta loggning
-about-networking-stop-logging = Stoppa loggning
 about-networking-dns-lookup = DNS-uppslagning
 about-networking-dns-lookup-button = Lös fel
 about-networking-dns-domain = Domän:

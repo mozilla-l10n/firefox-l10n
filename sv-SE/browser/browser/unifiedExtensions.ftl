@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Öppna menyn för { $extensionName }
+
 unified-extensions-item-message-manage = Hantera tillägg
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Fäst i verktygsfält
+
 unified-extensions-context-menu-manage-extension =
     .label = Hantera tillägg
+
 unified-extensions-context-menu-remove-extension =
     .label = Ta bort tillägg
+
 unified-extensions-context-menu-report-extension =
     .label = Rapportera tillägg
+
 unified-extensions-context-menu-move-widget-up =
     .label = Flytta upp
+
 unified-extensions-context-menu-move-widget-down =
     .label = Flytta ner
 

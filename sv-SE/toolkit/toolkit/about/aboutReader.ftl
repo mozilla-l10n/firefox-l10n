@@ -4,6 +4,7 @@
 
 about-reader-loading = Laddar...
 about-reader-load-error = Det gick inte att läsa in artikeln från sidan
+
 about-reader-color-scheme-light = Ljus
     .title = Färgschema ljus
 about-reader-color-scheme-dark = Mörk
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Färgschema sepia
 about-reader-color-scheme-auto = Auto
     .title = Färgschema automatiskt
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

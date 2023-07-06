@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Översätt den här sidan
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Sidan översatt från { $fromLanguage } till { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Översättning pågår
+
 translations-panel-settings-button =
     .aria-label = Hantera översättningsinställningar
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Hantera språk
 translations-panel-settings-about = Om översättningar i { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Översätt alltid { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Översätt alltid detta språk
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Översätt aldrig { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Översätt aldrig detta språk
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Översätt aldrig den här sidan
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Vänta…
 translations-panel-translate-cancel =
     .label = Avbryt
+
 translations-panel-error-translating = Det uppstod ett problem med översättningen. Var god försök igen.
 translations-panel-error-load-languages = Det gick inte att läsa in språk
 translations-panel-error-load-languages-hint = Kontrollera din internetanslutning och försök igen.
 translations-panel-error-load-languages-hint-button =
     .label = Försök igen
+
 translations-panel-error-unsupported = Översättning är inte tillgänglig för den här sidan
 translations-panel-error-dismiss-button =
     .label = Jag förstår
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Det gick inte att ladda ned språkfilerna. Var god försök igen.
 translations-manage-error-delete = Det gick inte att ta bort språkfilerna. Var god försök igen.
 translations-manage-error-list = Det gick inte att hämta listan över tillgängliga språk för översättning. Uppdatera sidan för att försöka igen.
+
 translations-settings-title =
     .title = Översättningsinställningar
     .style = min-width: 36em
