@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = ପ୍ରାଧିକାରୀଗଣ
 
-certmgr-edit-ca-cert =
-    .title = CA ପ୍ରମାଣପତ୍ର ବିଶ୍ୱସ୍ତ ବିନ୍ୟାସକୁ ସମ୍ପାଦନ କରନ୍ତୁ
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA ପ୍ରମାଣପତ୍ର ବିଶ୍ୱସ୍ତ ବିନ୍ୟାସକୁ ସମ୍ପାଦନ କରନ୍ତୁ
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ଏହି ପ୍ରମାଣପତ୍ର ମେଲ ଚାଳକମାନଙ୍କୁ ଚିହ୍ନିପାରେ.
 
-certmgr-delete-cert =
-    .title = ପ୍ରମାଣପତ୍ର ଅପସାରଣ କରନ୍ତୁ
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = ପ୍ରମାଣପତ୍ର ଅପସାରଣ କରନ୍ତୁ
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = ସର୍ଭର
-
-certmgr-override-lifetime =
-    .label = ଆଜୀବନ
 
 certmgr-token-name =
     .label = ସୁରକ୍ଷା ଯନ୍ତ୍ର

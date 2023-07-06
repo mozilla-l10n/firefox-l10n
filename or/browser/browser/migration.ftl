@@ -83,3 +83,4 @@ browser-data-session-checkbox =
     .label = ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକ
 browser-data-session-label =
     .value = ୱିଣ୍ଡୋ ଏବଂ ଟ୍ୟାବଗୁଡ଼ିକ
+

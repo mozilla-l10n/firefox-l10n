@@ -7,10 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = ତ୍ରୁଟି କୋଡ: { $error }
-
 psmerr-ssl-disabled = ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିପାରିବେ ନାହିଁ କାରଣ SSL ପ୍ରୋଟୋକଲଟି ନିଷ୍କ୍ରିୟ ହୋଇଯାଇଛି.
 psmerr-ssl2-disabled = ସୁରକ୍ଷିତ ଭାବରେ ସଂଯୋଗ କରିପାରିବେ ନାହିଁ କାରଣ ସାଇଟଟି SSL ପ୍ରୋଟୋକଲର ଗୋଟିଏ ପୁରୁଣା, ଅସୁରକ୍ଷିତ ସଂସ୍କରଣକୁ ବ୍ୟବହାର କରେ.
 
@@ -148,6 +144,7 @@ ssl-error-incorrect-signature-algorithm = ଡିଜିଟାଲ୍‌ ହସ୍�
 ssl-error-next-protocol-no-callback = ପରବର୍ତ୍ତୀ ପ୍ରଟୋକଲ କାର୍ଯ୍ୟକାରୀ ଅନୁଲଗ୍ନକୁ ସକ୍ରିୟ କରାଯାଇଥିଲା, କିନ୍ତୁ କଲବ୍ୟାକ୍‌କୁ ଆବଶ୍ୟକ ପୂର୍ବରୁ ସଫାକରାଯାଇଥିଲା।
 ssl-error-next-protocol-no-protocol = ସର୍ଭର କୌଣସି ପ୍ରଟୋକଲକୁ ସହାୟତା କରିନଥାଏ ଯାହାକୁ ALPN ଅନୁଲଗ୍ନରେ କ୍ଲାଏଣ୍ଟ ବିଜ୍ଞାପନ ଦେଇଥାଏ।
 ssl-error-inappropriate-fallback-alert = ସର୍ଭର ହ୍ୟାଣ୍ଡସେକକୁ ଖାରଜ କରିଥିଲା କାରଣ କ୍ଲାଏଣ୍ଟଟି ସର୍ଭର ଦ୍ୱାରା ସହାୟତା ପ୍ରାପ୍ତ ସ୍ତର ଠାରୁ  ନିମ୍ନସ୍ତରର TLS ସଂସ୍କରଣକୁ ଖସିଥାଏ।
+
 sec-error-io = An I/O error occurred during security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: received bad data.
@@ -197,13 +194,6 @@ sec-error-pkcs7-keyalg-mismatch = Cannot decrypt: key encryption algorithm does 
 sec-error-pkcs7-bad-signature = Signature verification failed: no signer found, too many signers found, or improper or corrupted data.
 sec-error-unsupported-keyalg = Unsupported or unknown key algorithm.
 sec-error-decryption-disallowed = Cannot decrypt: encrypted using a disallowed algorithm or key size.
-xp-sec-fortezza-no-card = No Fortezza cards Found
-xp-sec-fortezza-none-selected = No Fortezza card selected
-xp-sec-fortezza-more-info = Please select a personality to get more info on
-xp-sec-fortezza-person-not-found = Personality not found
-xp-sec-fortezza-no-more-info = No more information on that Personality
-xp-sec-fortezza-bad-pin = Invalid Pin
-xp-sec-fortezza-person-error = Couldn't initialize Fortezza personalities.
 sec-error-no-krl = No KRL for this site's certificate has been found.
 sec-error-krl-expired = The KRL for this site's certificate has expired.
 sec-error-krl-bad-signature = The KRL for this site's certificate has an invalid signature.
@@ -218,9 +208,6 @@ sec-error-cert-nickname-collision = A certificate with the same nickname already
 sec-error-key-nickname-collision = A key with the same nickname already exists.
 sec-error-safe-not-created = error while creating safe object
 sec-error-baggage-not-created = error while creating baggage object
-xp-java-remove-principal-error = Couldn't remove the principal
-xp-java-delete-privilege-error = Couldn't delete the privilege
-xp-java-cert-not-exists-error = This principal doesn't have a certificate
 sec-error-bad-export-algorithm = Required algorithm is not allowed.
 sec-error-exporting-certificates = Error attempting to export certificates.
 sec-error-importing-certificates = Error attempting to import certificates.
@@ -303,6 +290,19 @@ sec-error-locked-password = ପ୍ରବେଶ ସଂକେତଟି ଅପର�
 sec-error-unknown-pkcs11-error = ଅଜଣା PKCS #11 ତ୍ରୁଟି।
 sec-error-bad-crl-dp-url = Invalid or unsupported URL in CRL distribution point name.
 sec-error-cert-signature-algorithm-disabled = The certificate was signed using an signature algorithm that is disabled because it is not secure.
+
 mozilla-pkix-error-key-pinning-failure = ସର୍ଭର କି ପିନିଙ୍ଗ (HPKP) କୁ ବ୍ୟବହାର କରିଥାଏ କିନ୍ତୁ କୌଣସି ବିଶ୍ୱସ୍ତ ପ୍ରମାଣପତ୍ର ଚେନ୍‌ ପିନ୍‌ସେଟ ସହିତ ମେଳଖାଉଥିବା କୌଣସି ଗୋଟିକୁ ନିର୍ମାଣ କରିପାରିବ ନାହିଁ। କି ପିନିଙ୍ଗ ଅମାନ୍ୟକୁ ଏଡ଼ାଇ ଦେଇ ହେବ ନାହିଁ।
 mozilla-pkix-error-ca-cert-used-as-end-entity = ସର୍ଭର କିଛି ମୌଳିକ ବିଶେଷତା ଧାରଣ କରିଥିବା ଅନୁଲଗ୍ନ ସହିତ ପ୍ରମାଣପତ୍ରକୁ ବ୍ୟବହାର କରିଥାଏ ଯାହାକି ଏକ ପ୍ରମାଣପତ୍ର ପ୍ରାଧିକାରୀ ଭାବରେ ଚିହ୍ନଟ ହୋଇଥାଏ।  ସଠିକ ଭାବରେ ପ୍ରାପ୍ତ ହୋଇଥିବା ପ୍ରମାଣପତ୍ର ପାଇଁ, ଏହା ଏକ ସ୍ଥିତି ହେବା ଉଚିତ ନୁହଁ।
 mozilla-pkix-error-inadequate-key-size = ସୁରକ୍ଷିତ ସଂଯୋଗ ସ୍ଥାପନ କରିବା ପାଇଁ ଛୋଟ କି ଆକାର ସହିତ  ସର୍ଭର ଏକ ପ୍ରମାଣପତ୍ର ଉପସ୍ଥାପନ କରିଥାଏ।
+
+xp-java-remove-principal-error = Couldn't remove the principal
+xp-java-delete-privilege-error = Couldn't delete the privilege
+xp-java-cert-not-exists-error = This principal doesn't have a certificate
+
+xp-sec-fortezza-no-card = No Fortezza cards Found
+xp-sec-fortezza-none-selected = No Fortezza card selected
+xp-sec-fortezza-more-info = Please select a personality to get more info on
+xp-sec-fortezza-person-not-found = Personality not found
+xp-sec-fortezza-no-more-info = No more information on that Personality
+xp-sec-fortezza-bad-pin = Invalid Pin
+xp-sec-fortezza-person-error = Couldn't initialize Fortezza personalities.

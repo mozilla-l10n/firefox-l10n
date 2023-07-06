@@ -25,6 +25,7 @@ webrtc-item-window = ୱିଣ୍ଡୋ
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = ଅଜଣା ମୂଳ ସ୍ଥାନ
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -64,6 +65,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରନ୍ତୁ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = "{ $streamTitle }" ଉପରେ ସହଭାଗକୁ ନିୟନ୍ତ୍ରଣ କରନ୍ତୁ
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = "{ $streamTitle }" ସହିତ କ୍ୟାମେରାକୁ ସହଭାଗ କରନ୍ତୁ
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -72,6 +74,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } ଟ୍ୟାବ ସହିତ କ୍ୟାମେରା ସହଭାଗ କରୁଅଛି
            *[other] { $tabCount } ଟ୍ୟାବଗୁଡ଼ିକ ସହିତ କ୍ୟାମେରାକୁ ସହଭାଗ କରୁଅଛି
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = "{ $streamTitle }" ସହିତ ମାଇକ୍ରୋଫନ୍‌କୁ ସହଭାଗ କରୁଅଛି
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -80,6 +83,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ଟ୍ୟାବ ସହିତ ମାଇକ୍ରୋଫନ ସହଭାଗ କରୁଅଛି
            *[other] { $tabCount } ଟ୍ୟାବଗୁଡ଼ିକ ସହିତ ମାଇକ୍ରୋଫନକୁ ସହଭାଗ କରୁଅଛି
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = "{ $streamTitle }" ସହିତ ପ୍ରୟୋଗକୁ ସହଭାଗ କରୁଅଛି
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -88,6 +92,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } ଟ୍ୟାବ ସହିତ ପ୍ରୟୋଗକୁ ସହଭାଗ କରୁଅଛି
            *[other] { $tabCount } ଟ୍ୟାବ ସହିତ ପ୍ରୟୋଗକୁ ସହଭାଗ କରୁଅଛି
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = "{ $streamTitle }" ସହିତ ପରଦା ସହଭାଗ କରୁଅଛି
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -96,6 +101,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ଟ୍ୟାବ ସହିତ ପରଦା ସହଭାଗ କରୁଅଛି
            *[other] { $tabCount } ଟ୍ୟାବଗୁଡ଼ିକ ସହିତ ପରଦା ସହଭାଗ କରୁଅଛି
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = "{ $streamTitle }" ସହିତ ୱିଣ୍ଡୋ ସହଭାଗ କରୁଅଛି
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -104,6 +110,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } ଟ୍ୟାବ ସହିତ ୱିଣ୍ଡୋ ସହଭାଗ କରୁଅଛି
            *[other] { $tabCount } ଟ୍ୟାବଗୁଡ଼ିକ ସହିତ ୱିଣ୍ଡୋ ସହଭାଗ କରୁଅଛି
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = "{ $streamTitle }" ସହିତ କ୍ୟାମେରାକୁ ସହଭାଗ କରନ୍ତୁ
 

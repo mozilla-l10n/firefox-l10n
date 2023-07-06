@@ -12,8 +12,6 @@
 
 policy-DisableTelemetry = ଟେଲିମେଟ୍ରିକୁ ବନ୍ଦ କରିଦିଅନ୍ତୁ
 
-policy-FirefoxHome = Firefox Homeକୁ ପରିଚାଳନା କରନ୍ତୁ
-
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 ##

@@ -22,12 +22,14 @@ download-ui-dont-quit-button =
         [mac] ବିଦାୟ ନିଅନ୍ତୁ ନାହିଁ
        *[other] ପ୍ରସ୍ଥାନ କରନ୍ତୁ ନାହିଁ
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] ଯଦି ଆପଣ ବର୍ତ୍ତମାନ ଅଫ ଲାଇନ ହେଇଯାଉଛନ୍ତି, 1  ଆହରଣ ବାତିଲ ହୋଇଯିବ. ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଅଫ ଲାଇନ ହେବାକୁ ଚାହୁଁଛନ୍ତି?
        *[other] ଯଦି ଆପଣ ବର୍ତ୍ତମାନ ଅଫ ଲାଇନ ହେଇଯାଉଛନ୍ତି, { $downloadsCount }  ଆହରଣ ବାତିଲ ହୋଇଯିବ. ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଅଫ ଲାଇନ ହେବାକୁ ଚାହୁଁଛନ୍ତି?
     }
 download-ui-dont-go-offline-button = ଅନ ଲାଇନ ରୁହନ୍ତୁ
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 ଆହରଣକୁ ବାତିଲ କରନ୍ତୁ

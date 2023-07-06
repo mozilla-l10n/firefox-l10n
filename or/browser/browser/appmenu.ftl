@@ -34,6 +34,7 @@ appmenuitem-fullscreen =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 appmenuitem-fxa-manage-account = ଆକାଉଣ୍ଟ୍ ପରିଚାଳନା
+
 appmenuitem-save-page =
     .label = ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
 
@@ -47,6 +48,7 @@ whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
 
 profiler-popup-reveal-description-button =
     .aria-label = ଅଧିକ ସୂଚନା ପ୍ରକାଶ କରନ୍ତୁ
+
 profiler-popup-learn-more-button =
     .label = ଅଧିକ ଜାଣନ୍ତୁ
 

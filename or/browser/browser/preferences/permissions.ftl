@@ -74,3 +74,7 @@ permissions-exceptions-addons-desc = କେଉଁ ୱେବ ସାଇଟଗୁ�
 
 ## Site Permissions - Microphone
 
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

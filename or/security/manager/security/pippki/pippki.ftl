@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
-    .style = width: 46em
-
 download-cert-window2 =
     .title = ପ୍ରମାଣପତ୍ର ଆହରଣ କରୁଅଛି
     .style = min-width: 46em
@@ -57,7 +53,5 @@ set-password-reminder = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ: ଯଦି �
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = ସୁରକ୍ଷିତ ଟୋକେନ ବୈଧିକରଣ
-protected-auth-msg = ଦୟାକରି ଟୋକେନକୁ ବୈଧିକରଣ କରନ୍ତୁ. ବୈଧିକରଣ ପ୍ରଣାଳୀ ଆପଣଙ୍କର ଟୋକେନ ପ୍ରକାର ଉପରେ ନିରଭର କରେ.
-protected-auth-token = 'ଟୋକେନ:
+## Protected authentication alert
+

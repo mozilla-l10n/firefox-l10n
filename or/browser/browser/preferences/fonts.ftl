@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ଅକ୍ଷରରୂପଗୁଡ଼ିକ
+
 fonts-window-close =
     .key = w
 
@@ -73,8 +74,10 @@ fonts-default-serif =
     .label = ସେରିଫ
 fonts-default-sans-serif =
     .label = ସାନସ ସେରିଫ
+
 fonts-minsize-none =
     .label = କିଛିନୁହଁ
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
