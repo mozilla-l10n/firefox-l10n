@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] अन्त्य नगर्नुहोस्
        *[other] ननिस्कनुहोस्
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] तपाईँ अब अफलाइन जाने हो भने, १ डाउनलोड रद्द हुनेछ। तपाईँ अफलाइन जाने कुरामा निश्चित हुनुहुन्छ?
        *[other] तपाईँ अब अफलाइन जाने हो भने, { $downloadsCount } डाउनलोड रद्द हुनेछ। तपाईँ अफलाइन जाने कुरामा निश्चित हुनुहुन्छ?
     }
 download-ui-dont-go-offline-button = अनलाइन रहिरहनुहोस्
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] तपाईँले अब सबै निजी ब्राउजिङ्गको सञ्झ्यालहरू बन्द गर्ने हो भने, १ डाउनलोड रद्द गरिनेछ। के तपाईँ निजी ब्राउजिङ्ग छोड्ने कुरामा निश्चित हुनुहुन्छ?
        *[other] तपाईँले अब सबै निजी ब्राउजिङ्गको सञ्झ्यालहरू बन्द गर्ने हो भने, { $downloadsCount } डाउनलोडहरू रद्द गरिनेछ। के तपाईँ निजी ब्राउजिङ्ग छोड्ने कुरामा निश्चित हुनुहुन्छ?
     }
 download-ui-dont-leave-private-browsing-button = निजी ब्राउजिङ्गमै बस्नुहोस्
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] १ वटा डाउनलोड रद्द गर्नुहोस्

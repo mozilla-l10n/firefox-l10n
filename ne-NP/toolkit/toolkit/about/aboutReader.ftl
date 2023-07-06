@@ -4,6 +4,7 @@
 
 about-reader-loading = लोड हुँदैछ...
 about-reader-load-error = पेजबाट लेख खोल्न असफल भयो
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

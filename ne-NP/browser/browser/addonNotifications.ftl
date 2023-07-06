@@ -24,6 +24,7 @@ xpinstall-disabled = सफ्टवेयर इन्स्टल गर्न
 xpinstall-disabled-button =
     .label = सक्षम पार्नुहोस्
     .accesskey = n
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name } मा { $addonName } थपियो
@@ -34,6 +35,7 @@ webext-perms-update-menu-item = { $addonName } लाई नयाँ अनु�
 ## Add-on removal warning
 
 addon-removal-button = हटाउनुहोस्
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -42,6 +44,7 @@ addon-downloading-and-verifying =
        *[other] एडअन डाउनलोड र प्रमाणिकरण गरिँदै…{ $addonCount } एडअनहरू…
     }
 addon-download-verifying = प्रमाणित गरिँदै
+
 addon-install-cancel-button =
     .label = रद्द गर्नुहोस्
     .accesskey = C

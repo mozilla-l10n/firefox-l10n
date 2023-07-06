@@ -110,6 +110,8 @@ media-device-channels = च्यानलहरू
 media-device-rate = दर
 media-device-latency = विलम्बता
 
+## Codec support table
+
 ##
 
 intl-title = अन्तरराष्ट्रियकरण & स्थानीयकरण
