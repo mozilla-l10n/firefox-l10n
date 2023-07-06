@@ -14,44 +14,12 @@
 # The last two are for use when there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Gachenu hùì'
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Gachenu hùì'
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Gachenu hùì'
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Gachenu hùì'
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
     .data-title-default = { -brand-full-name }
     .data-title-private = { -brand-full-name } Riña aché un hui’
     .data-content-title-default = { $content-title } { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Riña aché un hui’
+
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -85,16 +53,12 @@ urlbar-geolocation-notification-anchor =
     .tooltiptext = Na'nïn' riña nu sa achín ni'iaj
 urlbar-storage-access-anchor =
     .tooltiptext = Na'nïn riña nej sa 'na' achín ni'iát da' gachē nunt
-urlbar-translate-notification-anchor =
-    .tooltiptext = Naduno' nânj ginù riña pagina na
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Gi'iaj sun sitio na 'ngà riña si ago'
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Na'nïn' riña ma nigua' mahuin ro'ô' antaj si nitaj konesiôn
 urlbar-password-notification-anchor =
     .tooltiptext = Na'nïn' riña ma sa' nej da'ngà' huìi
-urlbar-translated-notification-anchor =
-    .tooltiptext = Naduno' daj nanù a'ngò nânj a'min' riña pagina na
 urlbar-plugins-notification-anchor =
     .tooltiptext = Nachrá so' plugins
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -146,19 +110,18 @@ urlbar-midi-blocked =
     .tooltiptext = Gi'iaj blokeandot MIDI guenda sitio web na.
 urlbar-install-blocked =
     .tooltiptext = Naránt da' nutà' man nej sa huāa guendâ sitiô nan.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Nagi'io' sa arajsun nichrò' doj ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Sa raj sun nichrà' doj pagina na ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Ganikaj ñu'un' extensiôn...
 
 ## Auto-hide Context Menu
 
@@ -174,8 +137,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diû nan, nana'uì' ngà:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Naduna daj ga sa nana'uit
+
 search-one-offs-context-open-new-tab =
     .label = Nana'ui' riña a'ngô rakïj ñaj nakàa
     .accesskey = T
@@ -185,6 +150,7 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Dunâj da' nahuin man sa riña nana'uì' niganjt sa ruhuât riña Private Windows
     .accesskey = P
+
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -221,6 +187,7 @@ bookmark-panel-remove =
 bookmark-panel-show-editor-checkbox =
     .label = Digun' sa nagi'iaj 'ngà na'nïnj so'
     .accesskey = S
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -247,13 +214,13 @@ identity-passive-loaded = Hua da'aj nej sa 'na' riña ñanj na ni sa yi'ìi huin
 identity-active-loaded = Guxunt sa dugumin pajinâ na.
 identity-weak-encryption = Ûta ninaj hua sifrado arajsun pajinâ na.
 identity-insecure-login-forms = Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.
+
 identity-permissions-reload-hint = Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.
 identity-clear-site-data =
     .label = Nagi'iaj niñu' kookies nī si dato sitio...
 identity-connection-not-secure-security-view = Nitāj si huā hue'e seguridâ nikāj sitiô nan.
 identity-connection-verified = Riña sitiô nan nī huā seguridâ.
 identity-ev-owner-label = Sertifikadô giri sa gu’nàj:
-identity-description-custom-root = Nu nani'in Mozilla sa giri sertifikadô nan. Sa ga'nïn si sistemât huin asi sa ga'nïn 'ngō administrador huin. <label data-l10n-name="link">Gahuin chrūn doj</label>
 identity-description-custom-root2 = Nu nani'in Mozilla sa giri sertifikadô nan. Sa ga'nïn si sistemât huin asi sa ga'nïn 'ngō administrador huin.
 identity-remove-cert-exception =
     .label = Dure' sa taj a
@@ -262,17 +229,12 @@ identity-description-insecure = Nitaj si yitïnj hua sitio na. Hua da'aj nej nug
 identity-description-insecure-login-forms = Nej nuguan' achrut riña ayi'ìt sesion nī nitaj si yitïnj hua ma riña pajinâ na, ga'ue rikij 'ngo sa si garan' ruat.
 identity-description-weak-cipher-intro = Si conexión riña sitio na nī ûta akò huaj nitaj si hua huìi ma.
 identity-description-weak-cipher-risk = Hua a'ngo dugui' ga'ue gini'iaj si nuguant nī ga'ue si gi'iaj sun hue'ê sitio web na.
-identity-description-active-blocked = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma. <label data-l10n-name="link">Gahuin chrūn doj</label>
 identity-description-active-blocked2 = { -brand-short-name } garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.
 identity-description-passive-loaded = Se conexión huìi huin ma nī ga'ue si hua a'ngò dugui' ni'iaj ma.
-identity-description-passive-loaded-insecure = Nitaj si yitïnj hua sa ma riña sitio web na (daj run' ñadu'ua). <label data-l10n-name="link">Gahuin chrūn doj</label>
-identity-description-passive-loaded-mixed = Antaj si { -brand-short-name } garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua). <label data-l10n-name="link">Gahuin chrūn doj</label>
 identity-description-passive-loaded-insecure2 = Nitaj si yitïnj hua sa ma riña sitio web na (daj run' ñadu'ua).
 identity-description-passive-loaded-mixed2 = Antaj si { -brand-short-name } garán riña da'aj sa ma na sani nū gè sa yi'ì riña pajinâ na (daj run' ñadu'ua).
 identity-description-active-loaded = Nitaj si yitïnj hua sa ma riña pajinâ web na (daj run' skripts) nī nitaj si yitïnj hua riña ma.
 identity-description-active-loaded-insecure = Nej nuguan' a'nínt riña sitio na nī ga'ue gini'iaj a'ngo dugui' (Daj run' da'ngà huìi, tarjeta yikín, etc.).
-identity-learn-more =
-    .value = Gahuin chrūn doj
 identity-disable-mixed-content-blocking =
     .label = Nitaj si 'raj sun sa dugumî ñù'
     .accesskey = D
@@ -316,17 +278,21 @@ popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Nana'ui' 'ngà { $name } nej si gachrun' direksiôn
+
 urlbar-permissions-granted =
     .tooltiptext = Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.
 urlbar-switch-to-tab =
     .value = Naduno' a'ngô rakij ñaj:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = A'ngô ra'a:
+
 urlbar-go-button =
     .tooltiptext = Gun' dukuán 'na direksion
 urlbar-page-action-button =
@@ -372,9 +338,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> 'nga nahuin yachij riña aga' sikà ràa
 fullscreen-warning-no-domain = Ñaj na ni 'ngà nahuin yachij ma da'ua gè riña aga' na
+
+
 fullscreen-exit-button = Nagi'iaj lij riña aga' sikà' ràa (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Nagi'iaj lij riña aga' sikà' ràa (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -426,8 +395,7 @@ bookmarks-search =
     .label = Nana'ui' sa raj sun nichrò' doj
 bookmarks-tools =
     .label = Si rasun markadores
-bookmarks-bookmark-edit-panel =
-    .label = Nagi'io' sa arajsun nichrò' doj
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -461,22 +429,27 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = Nagi'io' dukuán ma sa rajeunit'...
     .accesskey = C
+
 toolbar-button-email-link =
     .label = Ga'ni' Link…
     .tooltiptext = Ga'nï' link riña pajina na
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Na'nïn sa'
     .tooltiptext = Na'nïnj so' pajinâ na ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Na'nïn' chrû ñanj
     .tooltiptext = Na'nï' chrûn ñanj ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = Nej rakïj ñaj guña huaa
     .tooltiptext = Digun' nej rakïj ñanj ma riña a'ngò aga'a
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -504,6 +477,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Ga'nïn' gi'iaj sun ventana ra'ñanj an { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Si gi'iaj sun ventana ra'ñanj an { $uriHost }
     .accesskey = p
@@ -513,6 +487,7 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Si gà ra'nga ventana 'ngà narran' riña ventana râ'ñanj an
     .accesskey = D
+
 picture-in-picture-hide-toggle =
     .label = Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna
     .accesskey = H
@@ -531,32 +506,39 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Sun aché nuu
+
 navbar-downloads =
     .label = Nadunïnj
+
 navbar-overflow =
     .tooltiptext = Doj sa ga'ue garasun'
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Nari' ña du'ua
     .tooltiptext = Giri' ña du'ua pajinâ na… ({ $shortcut })
+
 navbar-home =
     .label = Riñan gayi'ij
     .tooltiptext = { -brand-short-name } Riña gayi'ìj
+
 navbar-library =
     .label = Dukuâ ñanj
     .tooltiptext = Ni'io' riña gaché nu', nej markador na'ní so' nī doj
+
 navbar-search =
     .title = Nana'ui'
-navbar-accessibility-indicator =
-    .tooltiptext = Hua ni'nïnj da' gatu'
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Nej rakïj ñanj riña aché nu'
+
 tabs-toolbar-new-tab =
     .label = Rakïj ñanj nakàa
+
 tabs-toolbar-list-all-tabs =
     .label = Ni'io' nej rakïj ñanj hua ni'ninj
     .tooltiptext = Ni'io' nej rakïj ñanj hua ni'ninj
@@ -578,10 +560,14 @@ data-reporting-notification-button =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } nū nachrā ma'an pajinâ na.
 refresh-blocked-redirect-label = { -brand-short-name } nū ga'ue ga'anj ma'an pajiña riña a'ngo pajinâ.
+
 refresh-blocked-allow =
     .label = Ga'nïn
     .accesskey = A
@@ -622,6 +608,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Si Ga'nïn' ruhuât
        *[other] Si gahuit
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si gahuit riña lînia ni, 1 narè' sa nadunïnjt nan. Huin ruhuâ yangà't gahuit riña lînia raj?
        *[other] Si gahuit riña lînia ni, { $downloadsCount } narè' nej sa nadunïnjt nan. Huin ruhuâ yangà't gahuit riña lînia raj?
     }
 download-ui-dont-go-offline-button = Ginu riña lînea
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Sisi naránt riña daran' nej bentanâ aché nu huìt hìaj ni, 1 narè' sa nadunïnjt nan. Ruhuâ yangà' naránt riña daran' nej bentanà dan anj?
        *[other] Sisi naránt riña daran' nej bentanâ aché nu huìt hìaj ni, { $downloadsCount } narè' nej sa nadunïnjt nan. Ruhuâ yangà' naránt riña daran' nej bentanà dan anj?
     }
 download-ui-dont-leave-private-browsing-button = Ginu riña Aché nu Huìt
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Duyichin' 1 sa naduninj

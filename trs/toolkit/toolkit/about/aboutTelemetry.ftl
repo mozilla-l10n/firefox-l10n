@@ -130,12 +130,6 @@ about-telemetry-category-header = da' yi'ni'in
 about-telemetry-method-header = daj ganiko'
 about-telemetry-object-header = rasuun
 about-telemetry-extra-header = sa tàj a
-about-telemetry-origin-section = Telemetriâ gurugui' sinïin
-about-telemetry-origin-origin = danè' gahuij
-about-telemetry-origin-count = Guânda
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link"> Dàj gurugui' si Telemetria Firefox</a>Nagi'iaj chre' dâto hìaj gàchin ga'nïnjt{ $telemetryServerOwner } Ga'ue nataj rasuun { -brand-product-name } ruguñu'un guendâ nan. (<a data-l10n-name="prio-blog-link">gahuin chrun doj</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Chrej ganikò' { $process }

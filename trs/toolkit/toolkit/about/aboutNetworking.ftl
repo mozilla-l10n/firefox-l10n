@@ -26,13 +26,6 @@ about-networking-messages-received = Nuguan nahuin ro'o'
 about-networking-bytes-sent = Bytes sa ga'nin'
 about-networking-bytes-received = Bytes nahuin ro'o'
 about-networking-logging = Nej riña ayi'ì sesión
-about-networking-log-tutorial = Ni'iaj riña na <a data-l10n-name="logging">HTTP Logging</a> da' guini'in daj garasunt ma.
-about-networking-current-log-file = Riña Ma sa Nakaa
-about-networking-current-log-modules = Riña Ma sa Naka doj:
-about-networking-set-log-file = Set Log File
-about-networking-set-log-modules = Nuto' riña Nachra So':
-about-networking-start-logging = Gayi'i' Nachro'
-about-networking-stop-logging = Dunikin' sa Nachro'
 about-networking-dns-lookup = Nana'ui' DNS
 about-networking-dns-lookup-button = Nagi'io'
 about-networking-dns-domain = Nikaj ñu'unj:

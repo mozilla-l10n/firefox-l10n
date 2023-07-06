@@ -4,24 +4,23 @@
 
 pictureinpicture-player-title = Sa ni'io' Riña sa ni'io'
 
-pictureinpicture-pause =
-    .aria-label = Duyichin' akuan'
-pictureinpicture-play =
-    .aria-label = Duguachrá
-
-pictureinpicture-mute =
-    .aria-label = Dín gahuin
-pictureinpicture-unmute =
-    .aria-label = Naduyingô' nanèe
-
-pictureinpicture-unpip =
-    .aria-label = Nādunikàj rakïj ñanj nan’anj
-
-pictureinpicture-close =
-    .aria-label = Nārán
-
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
+##
+## Variables:
+##   $shortcut (String) - Keyboard shortcut to execute the command.
+
+##
+
+## Note that this uses .tooltip rather than the standard '.title'
+## or '.tooltiptext' -  but it has the same effect. Code in the
+## picture-in-picture window will read and copy this to an in-document
+## DOM node that then shows the tooltip.
 
 ##
 

@@ -105,3 +105,4 @@ browser-data-session-checkbox =
     .label = Ventana ni rakïj nanj
 browser-data-session-label =
     .value = Ventana ni rakïj nanj
+

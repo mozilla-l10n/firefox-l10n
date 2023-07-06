@@ -50,5 +50,9 @@ url-classifier-disabled = Nitaj si huaj
 url-classifier-updating = Sa hua nahuin nakàa
 url-classifier-cannot-update = Na'ue nahuin nakàj
 url-classifier-success = dugu'nï'
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = Sa 'iaj na'ue nahuin nàkaj ({ $error })
 url-classifier-download-error = Nadunïnj sa gi'iaj gire'ej ({ $error })

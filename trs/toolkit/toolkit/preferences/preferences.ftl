@@ -9,10 +9,6 @@ failed-pp-change = Nitāj si hūaj nādūnā da’nga’ huì arâj sunt doj.
 incorrect-pp = Nu gāchrūn hue’êt da’nga’ huì araāj sunt doj huā nākàa. Ginù huin ñû.
 pp-change-ok = Ngà nadunâ da’nga’ huì arâj sunt doj.
 
-pp-empty-warning = Sī ga rán sà’ riña nej da’nga’ huì màn sà’a.
-pp-erased-ok = Ngà dure’ej da’nga’ huì arâj sunt doj. { pp-empty-warning }
-pp-not-wanted = ¡Gā gudadû! Dadin’ nu gārasunt ‘ngō da’nga’ huì araj sunt doj. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Akuan’ nïn nī nunt ngà modô FIPS. FIPS nī ni’ñan ‘ngō Da’nga’ Huì araj sunt doj.
 pw-change-success-title = Ngà gisîj ga’ue nadunât Da’nga’ Huìi
 pw-change-failed-title = Nu ga’ue nādunaj Da’nga’ Huìi

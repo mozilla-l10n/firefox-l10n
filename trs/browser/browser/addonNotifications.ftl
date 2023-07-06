@@ -14,6 +14,7 @@ xpinstall-prompt-message = Huin ruhuât ga'nïnjt 'ngō sa nata'a asìj riña { 
 
 xpinstall-prompt-header-unknown = Ga'nïnt riña 'ngō sitiô nu ni'înt ga'nïn 'ngō sa nata'a bè'ej?
 xpinstall-prompt-message-unknown = Ruhuaj ga'nïn 'ngō sa nata'a asìj riña 'ngō sitiô nu ni'înt. Asìj gàchin gan'ānjt ne' ñaa nī ni'iāj si sê sa yi'ìi huin sitiô nan.
+
 xpinstall-prompt-dont-allow =
     .label = Si ga'ni'
     .accesskey = D
@@ -37,12 +38,14 @@ xpinstall-disabled = Giyichin' software a'nít riña aga' na. Ga'ui' klik da' na
 xpinstall-disabled-button =
     .label = Dugi'iaj sun' man
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ganarán sa nikāj ñu'ūnj sistêma riñaj.
 addon-install-full-screen-blocked = Nu a’nïn ga’nïnjt sa nata’a ngà nut riña nahuin gachrà’ riña aga’a.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } 'ngà nuta' ma { -brand-short-name }
@@ -56,6 +59,7 @@ webext-perms-update-menu-item = { $addonName } gachinj ni'iaj nakà ñut
 #   $name (String): the name of the extension which is about to be removed.
 addon-removal-message = Dusiki' { $name } asij { -brand-shorter-name }?
 addon-removal-button = Guxūn
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -64,6 +68,7 @@ addon-downloading-and-verifying =
        *[other] 'Ngà naduninj ma nī natsij ma{ $addonCount } komplemento…
     }
 addon-download-verifying = Natsi ni'ia
+
 addon-install-cancel-button =
     .label = Duyichin'
     .accesskey = C

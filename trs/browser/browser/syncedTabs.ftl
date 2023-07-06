@@ -21,18 +21,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Na'nïn
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Na'nïn' riña a'ngô rakïj ñaj nakàa
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Na'nïn' riña a'ngô rakïj ñaj nakàa
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Na'nïn' riña a'ngô rakïj ñaj huìi
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Nuto' markador riña rakïj ñanj na...
-    .accesskey = B
 
 ##
 

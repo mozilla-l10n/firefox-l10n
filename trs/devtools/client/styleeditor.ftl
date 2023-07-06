@@ -16,7 +16,6 @@ styleeditor-save-button = Na'nïnj sà'
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Sa huā riña editor estîlo
-styleeditor-media-rules = Chrēj @media
 styleeditor-editor-textbox =
     .data-placeholder = Yi'nïn' CSS hiūj nan.
 styleeditor-no-stylesheet = Nitāj ñanj estîlo hua riña pajinâ nan.
@@ -31,3 +30,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = Nana'uì' Ñûn
     .accesskey = g
+

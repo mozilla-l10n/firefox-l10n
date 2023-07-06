@@ -93,37 +93,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Sa raj sun nichrà' doj pagina na
-    .accesskey = m
-    .tooltiptext = Sa raj sun nichrà' doj pagina na
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Nādūnā riña sa arâj sun nīchrò\' doj
-    .accesskey = m
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Sa raj sun nichrà' doj pagina na
-    .accesskey = m
-    .tooltiptext = Sa raj sun nichrà' doj pagina na ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Nagi'io' sa arajsun nichrò' doj
-    .accesskey = m
-    .tooltiptext = Nagi'io' sa arajsun nichrò' doj
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Nagi'io' sa arajsun nichrò' doj
-    .accesskey = m
-    .tooltiptext = Nagi'io' sa arajsun nichrò' doj ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Na'nïn Link
     .accesskey = O
@@ -272,14 +241,6 @@ main-context-menu-audio-email =
     .label = Ga'ni' nanèe 'ngà korreo…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Dugi'iaj sun' plugin na
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Gachri huì' plugin
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = Nannj sà' pâjina riña { -pocket-brand-name }
     .accesskey = k
@@ -322,10 +283,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Nachra ñu marko
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = Sa raj sun nichrà' doj pagina na
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Na'nïnj sà' Pâjina Gù'na…

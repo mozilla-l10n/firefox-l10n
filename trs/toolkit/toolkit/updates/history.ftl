@@ -23,5 +23,7 @@ state-header = Dàj huaj
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Doj sa huāa
+
 update-installed-on = Ngà nanunj: { $date }
+
 update-status = Dàj hua riñaj: { $status }

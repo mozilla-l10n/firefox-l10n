@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-profiledowngrade-window =
-    .title = 'Ngo versiûn hua rukù 'iaj { -brand-product-name } 'iaj sun ngàt
-    .style = width: 490px;
-
 profiledowngrade-window2 =
     .title = 'Ngo versiûn hua rukù 'iaj { -brand-product-name } 'iaj sun ngàt
     .style = min-width: 490px;

@@ -21,10 +21,6 @@ certmgr-mine = Nikajt si sertificadô nej yi'nïn' nan nata' dàj huat
 certmgr-people = Màn sertifikâdo riña archîbo nata' dà hua nej guì nan
 certmgr-ca = Màn nej sertifikâdo riña archîbo nata' dàj hua nej sa a'nïn' nan
 
-certmgr-edit-ca-cert =
-    .title = Nagi'iaj ni nachrunt dàj huin ruhuât riña sertifikadô CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Nagi'iaj ni nachrunt dàj huin ruhuât riña sertifikadô CA
     .style = min-width: 48em;
@@ -37,10 +33,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Ga'ue natà' sertifikadô nan dàj hua nej sa na'nín korrêo.
 
-certmgr-delete-cert =
-    .title = Nadure' Sertifikâdo
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Nadure' Sertifikâdo
     .style = min-width: 48em; min-height: 24em;
@@ -50,9 +42,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Serbidôr
-
-certmgr-override-lifetime =
-    .label = Nìko diû ga man
 
 certmgr-token-name =
     .label = Sa dugumîn sò'

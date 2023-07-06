@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = si naduninj ma sertifikado
-    .style = width: 46em
-
 download-cert-window2 =
     .title = si naduninj ma sertifikado
     .style = min-width: 46em
@@ -58,7 +54,5 @@ set-password-reminder = Sa ña'āanj: Si sā gini'ñunt si da'ngà' huì si sert
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Ni'ia dàj hua Token huā rán rayi'î
-protected-auth-msg = Gi'iaj 'ngō sunūj un nī nadigânt man'ânt riña token. Chrēj nīkoj da' nadiganj sò' daj hua man'an si tokênt.
-protected-auth-token = Token:
+## Protected authentication alert
+

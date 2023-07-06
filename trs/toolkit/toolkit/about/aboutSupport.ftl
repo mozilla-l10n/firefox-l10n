@@ -131,6 +131,8 @@ media-capabilities-title = Dàj nìko ga’ue gimàn multimêdia
 # List all the entries of the database.
 media-capabilities-enumerate = Ganachrūn nûmero riña basê mà dâto
 
+## Codec support table
+
 ##
 
 intl-title = Nagi'iô guendâ yumiguìi & Narì' man

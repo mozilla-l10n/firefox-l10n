@@ -36,9 +36,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Gahui' { -brand-shorter-name }
+
 menu-about =
     .label = rayi'î { -brand-shorter-name }
     .accesskey = r
@@ -199,8 +201,6 @@ menu-history-undo-window-menu =
 menu-bookmarks-menu =
     .label = Sa raj sun nichrò' doj
     .accesskey = B
-menu-bookmark-edit =
-    .label = Nagi'io' sa arajsun nichrò' doj
 menu-bookmarks-all-tabs =
     .label = Nuto' a'ngo rakïj ñanj...
 menu-bookmarks-toolbar =

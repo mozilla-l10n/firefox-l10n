@@ -41,6 +41,17 @@ neterror-load-error-firewall = Sisi hua rán rayi'î si aga't 'iaj proxi, ni'iaj
 
 neterror-captive-portal = Da'uit gayi'ìt sesiôn asij gachrin gatut riña internet.
 
+## TRR-only specific messages
+## Variables:
+##   $hostname (String) - Hostname of the website to which the user was trying to connect.
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+## Native fallback specific messages
+## Variables:
+##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
+
+##
+
 neterror-file-not-found-filename = Natsij ni ni'iajt si nu gachrun a'na't si yugui archivo.
 neterror-file-not-found-moved = Natsij ni ni'iajt si nu narè' archivo, gisikij asi nadunâ si yugui.
 
