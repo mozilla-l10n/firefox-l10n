@@ -30,6 +30,7 @@ webrtc-item-browser = fane
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Ukjent opphav
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Faner som deler einingar
     .accesskey = e
+
 webrtc-sharing-window = Du deler eit annea programvindauge.
 webrtc-sharing-browser-window = Du deler { -brand-short-name }.
 webrtc-sharing-screen = Du deler heile skjermen.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Kontroller deling
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Kontroller deling på «{ $streamTitle }»
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Deler kamera med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Deler kamera med { $tabCount } fane
            *[other] Deler kamera med { $tabCount }faner
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Deler mikrofon med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Deler mikrofon med { $tabCount } fane
            *[other] Deler mikrofon med { $tabCount } faner
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Deler eit program med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Deler eit program med { $tabCount } fane
            *[other] Deler program med { $tabCount } faner
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Deler skjerm med "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Deler skjerm med { $tabCount } fane
            *[other] Deler skjerm med { $tabCount } faner
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Deler eit vindauge med «{ $streamTitle }»
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Deler eit vindauge med { $tabCount } fane
            *[other] Deler vindauge med { $tabCount } faner
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Deler ei fane med «{ $streamTitle }»
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = Tillate { $origin } å lytte på l
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til å lytte til lyden i denne fana?
 webrtc-allow-share-camera-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til kameraet ditt?
-webrtc-allow-share-microphone-unsafe-delegations = Tillate { $origin } å gi { $thirdParty } tilgang til mikrofonen din?
 webrtc-allow-share-microphone-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } tilgang til mikrofonen din?
 webrtc-allow-share-screen-unsafe-delegation = Tillate { $origin } å gi { $thirdParty } løyve til å sjå skjermen din?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Tillate { $origi
 
 webrtc-share-screen-warning = Del skjermen din berre med nettstadar du stolar på. Deling kan tillate villeiande nettstadar å surfe som deg og stele dei private dataa dine.
 webrtc-share-browser-warning = Del berre { -brand-short-name } med nettstadar du stolar på. Deling kan tillate villeiande nettstadar å surfe som deg og stele dei privata dataa dine.
+
 webrtc-share-screen-learn-more = Les meir
 webrtc-pick-window-or-screen = Vel vindauge eller skjerm
 webrtc-share-entire-screen = Heile skjermen
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Hugs dette valet
 webrtc-mute-notifications-checkbox = Slå av nettstadvarsel mesn du deler
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } kan ikkje tillate permanent tilgang til skjermen din.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } kan ikkje tillate permanent tilgang til lyden på fana di utan å spørje kva for fane som skal delast.
 webrtc-reason-for-no-permanent-allow-insecure = Tilkoplinga di til denne nettstaden er ikkje trygg. For å beskytte deg, vil { -brand-short-name } berre tillate tilgang for denne økta.

@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Unntak
-    .style = width: 36em
 permissions-window2 =
     .title = Unntak
     .style = min-width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adressa til nettstaden
     .accesskey = a
+
 permissions-block =
     .label = Blokker
     .accesskey = B
+
 permissions-disable-etp =
     .label = Legg til unnatak
     .accesskey = L
+
 permissions-session =
     .label = Tillat for programøkta
     .accesskey = T
+
 permissions-allow =
     .label = Tillat
     .accesskey = T
+
 permissions-button-off =
     .label = Slå av
     .accesskey = S
+
 permissions-button-off-temporarily =
     .label = Slå av kortvarig
     .accesskey = k
+
 permissions-site-name =
     .label = Nettside
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Fjern nettsida
     .accesskey = F
+
 permissions-remove-all =
     .label = Fjern alle nettstadar
     .accesskey = e
+
 permission-dialog =
     .buttonlabelaccept = Lagre endringar
     .buttonaccesskeyaccept = L
+
 permissions-autoplay-menu = Standard for alle nettstadar:
+
 permissions-searchbox =
     .placeholder = Søk på nettsida
+
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
+
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
+
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkta
+
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Skriv inn eit gyldig tenarnamn
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Unntak for utvida sporingsvern
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Du har slått av vern på desse nettsidene.
 permissions-exceptions-etp-window2 =
     .title = Unntak for utvida sporingsvern
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Du kan oppgje kva for nettstadar som ha
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Unntak - Infokapslar og nettstaddata
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Unntak - Infokapslar og nettstaddata
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Du kan spesifisere kva for nettstadar som a
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Unntak - Berre HTTPS-modus
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Unntak - Berre HTTPS-modus
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for be
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Tillatne nettsider - Sprettoppvindauge
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Tillatne nettsider - Sprettoppvindauge
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Du kan velje kva for nettstadar som har løy
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Unntak - Lagra innloggingar
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Unntak - Lagra innloggingar
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Innloggingar frå følgjande nettsted
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Tillatne nettsider - Inatallering av tillegg
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Tillatne nettsider - Inatallering av tillegg
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Du kan velje kva for nettstadar som har lø
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Innstillingar - Automatisk avspeling
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Innstillingar - Automatisk avspeling
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Du kan handsame nettstadar som ikkje følgjer s
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Innstillingar - Varslingsløyve
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Innstillingar - Varslingsløyve
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Dette hindrar nettstadar som ikkje 
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Innstillingar - Plasseringsløyve
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Innstillingar - Plasseringsløyve
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Dette hindrar nettstadar som ikkje er f
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Innstillingar - Løyve for virtuell røyndom
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Innstillingar - Løyve for virtuell røyndom
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Dette findrar nettstadar som ikkje er oppfør
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Innstillingar - Kameraløyve
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Innstillingar - Kameraløyve
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Dette hindrar nettstadar som ikkje er fø
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Innstillingar - Mikrofonløyve
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Innstillingar - Mikrofonløyve
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Innstillingar - Høgtalarløyve
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Følgjande nettstadar har bedt om å velje ei lyd ut-eining. Du kan spesifisere kva for nettstadar som har lov til å velje ei lyd ut-eining.
+
 permissions-exceptions-doh-window =
     .title = Nettstadunntak for DNS-over-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikkje bruke sikker DNS på desse nettstadane og underdomena deira.
+
 permissions-doh-entry-field = Skriv inn domenenamnet til nettstaden
     .accesskey = S
+
 permissions-doh-add-exception =
     .label = Legg til
     .accesskey = L
+
 permissions-doh-col =
     .label = Domene
+
 permissions-doh-remove =
     .label = Fjern
     .accesskey = F
+
 permissions-doh-remove-all =
     .label = Fjern alle
     .accesskey = e

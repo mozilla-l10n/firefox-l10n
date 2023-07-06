@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Uavhengige røyster
-colorway-collection-independent-voices-description = Farge kan endre kultur. Dei nyaste fargane hyller røyster som gjer verda til ein betre stad.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Fargar som endrar kultur.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Spelar
