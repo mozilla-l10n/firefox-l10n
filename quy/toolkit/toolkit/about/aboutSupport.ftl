@@ -67,6 +67,8 @@ sandbox-title = Aqupata
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 
