@@ -8,39 +8,38 @@ password-quality-meter = Medidor de calidad de la contraseña
 
 change-device-password-window =
     .title = Cambiar contraseña
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguridad: { $tokenName }
 change-password-old = Contraseña actual:
 change-password-new = Nueva contraseña:
 change-password-reenter = Nueva contraseña (confirmar):
+
 pippki-failed-pw-change = No se puede cambiar la contraseña.
 pippki-incorrect-pw = No ha introducido la actual contraseña maestra correctamente. Vuelva a intentarlo.
 pippki-pw-change-ok = Contraseña cambiada correctamente.
+
 pippki-pw-empty-warning = Sus contraseñas almacenadas y claves privadas no estarán protegidas.
 pippki-pw-erased-ok = Ha eliminado su contraseña. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = ¡Atención! Ha decidido no utilizar una contraseña. { pippki-pw-empty-warning }
+
 pippki-pw-change2empty-in-fips-mode = En este momento está en modo FIPS. FIPS requiere una contraseña no vacía.
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Restablecer la contraseña maestra
-    .style = width: 40em
 reset-primary-password-window2 =
     .title = Restablecer la contraseña maestra
     .style = min-width: 40em
 reset-password-button-label =
     .label = Restablecer
 reset-primary-password-text = Si restablece su contraseña maestra, se olvidarán todas las contraseñas de webs, correo electrónico, certificados personales y llaves privadas almacenadas. ¿Está seguro de que quiere restablecer su contraseña maestra?
+
 pippki-reset-password-confirmation-title = Restablecer la contraseña maestra
 pippki-reset-password-confirmation-message = Se ha restablecido su contraseña maestra.
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Descargando certificado
-    .style = width: 46em
 download-cert-window2 =
     .title = Descargando certificado
     .style = min-width: 46em
@@ -74,11 +73,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Importante: si olvida la contraseña de respaldo de su certificado, no podrá restaurar esta copia de respaldo más tarde. Guárdela en un lugar seguro.
 
 ## Protected Auth dialog
-
-protected-auth-window =
-    .title = Identificación protegida por token
-protected-auth-msg = Identifíquese con el token. El método de identificación depende del tipo de su token.
-protected-auth-token = Token:
 
 ## Protected authentication alert
 
