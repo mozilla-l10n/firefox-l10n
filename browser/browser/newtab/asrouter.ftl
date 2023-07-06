@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
+
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
+
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
+
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
+
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recumandaziun
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
+
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
+
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Deactivar
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Tia sfera privata è impurtanta. { -brand-short-name } isolescha ussa websites ina da l'autra. Quai renda pli difficil a hackers dad engular pleds-clav, numers da cartas da credit ed autras infurmaziuns sensiblas.
-cfr-doorhanger-fission-header = Isolaziun da websites
-cfr-doorhanger-fission-primary-button = OK, chapì
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Ulteriuras infurmaziuns
-    .accesskey = l
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videos sin questa website na vegnan eventualmain betg reproducids endretg cun questa versiun da { -brand-short-name }. Per garantir il sustegn cumplet da video, actualisescha ussa { -brand-short-name }.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Actualisar ussa
     .accesskey = u
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Ulteriuras infurmaziuns
-    .title = Expander per vegnir a savair dapli davart la funcziun
-spotlight-learn-more-expanded = Ulteriuras infurmaziuns
-    .title = Serrar
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Betg ussa
     .accesskey = B
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Testescha gia ussa la nova funcziun per
-    la protecziun optimala da tia sfera privata
-spotlight-total-cookie-protection-body = La protecziun totala cunter cookies impedescha ch'ils fastizaders dovrian ils cookies per ta persequitar en il web.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } construescha ina saiv enturn cookies, cun als limitar a la website sin la quala ti ta chattas. Uschia na pon fastizaders betg als utilisar per ta suandar. Cun duvrar gia ussa questa funcziun gidas ti a l'optimar per che nus possian crear in meglier web per ina e mintgin.
-spotlight-total-cookie-protection-primary-button = Activar la protecziun totala cunter cookies
-spotlight-total-cookie-protection-secondary-button = Betg ussa
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = Betg ussa
 
 mr2022-background-update-toast-title = Il nov { -brand-short-name }. Pli discret. Damain fastizaders. Nagins cumpromiss.
 mr2022-background-update-toast-text = Emprova ussa il pli nov { -brand-short-name }, actualisà cun nossa protecziun cunter fastizaders la pli ferma d'enfin qua.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Avrir ussa { -brand-shorter-name }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Va per tabs serrads dacurt e siglia ultra da quai a mo
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Nus ta mussain { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vuls ti avair quel tab avert sin tes telefonin? Va per el. Dovras ti la website che ti has gist visità? Zac ed ella è puspè qua cun { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Mussar co che quai funcziuna
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Sursiglir
 
 colorways-cfr-primarybutton = Tscherner ina cumbinaziun da colurs
     .accesskey = T
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colurescha tes navigatur cun las nianzas da colurs exclusivas da { -brand-short-name } inspiradas da las vuschs independentas che han midà la societad.
 colorways-cfr-header-28days = La cumbinaziun da colurs «vuschs independentas» scada ils 16 da schaner
@@ -239,6 +229,7 @@ july-jam-headline = Nus defendain tai
 july-jam-body = Mintga mais blochescha { -brand-short-name } en media passa 3'000 fastizaders per utilisader. Uschia vegns ti svelt e segir en l'internet.
 july-jam-set-default-primary = Avrir mias colliaziuns cun { -brand-short-name }
 fox-doodle-pin-headline = Bel da ta vesair puspè!
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Nus vulain ta regurdar che ti pos tegnair tes navigatur independent adina per mauns ed accessibel cun mo in clic.

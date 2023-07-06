@@ -30,6 +30,7 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Funtauna nunenconuschenta
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Apparats che cundividan tabs
     .accesskey = d
+
 webrtc-sharing-window = Ti cundividas in'autra fanestra d'applicaziun.
 webrtc-sharing-browser-window = Ti cundividas { -brand-short-name }.
 webrtc-sharing-screen = Ti cundividas tes entir visur.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Controllar la cundivisiun
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Controllar la cundivisiun cun "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Cundivider la camera cun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] La camera vegn cundividida cun { $tabCount } tab
            *[other] La camera vegn cundividida cun { $tabCount } tabs
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Cundivider il microfon cun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Il microfon vegn cundividì cun { $tabCount } tab
            *[other] Il microfon vegn cundividì cun { $tabCount } tabs
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Cundivider ina applicaziun cun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Ina applicaziun vegn cundividida cun { $tabCount } tab
            *[other] Applicaziuns vegnan cundivididas cun { $tabCount } tabs
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Cundivider il visur cun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Il visur vegn cundividì cun { $tabCount } tab
            *[other] Il visur vegn cundividì cun { $tabCount } tabs
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Cundivider ina fanestra cun "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Fanestras vegnan cundivididas cun { $tabCount } tab
            *[other] Fanestras vegnan cundivididas cun { $tabCount } tabs
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Cundivider in tab cun "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = Permetter a { $origin } da tadlar 
 
 webrtc-allow-share-audio-capture-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da tadlar il tun da quest tab?
 webrtc-allow-share-camera-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tia camera?
-webrtc-allow-share-microphone-unsafe-delegations = Permetter a { $origin } da dar a { $thirdParty } l'access a tes microfon?
 webrtc-allow-share-microphone-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } l'access a tes microfon?
 webrtc-allow-share-screen-unsafe-delegation = Permetter a { $origin } da dar a { $thirdParty } il dretg da vesair tes visur?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Lubir a { $origi
 
 webrtc-share-screen-warning = Cundivida tes visur mo cun paginas da las qualas ti ta fidas. La cundivisiun po permetter a paginas nuschaivlas da navigar en tes num e dad engular tias datas privatas.
 webrtc-share-browser-warning = Cundivida { -brand-short-name } mo cun paginas da las qualas ti ta fidas. La cundivisiun po permetter a paginas nuschaivlas da navigar en tes num e dad engular tias datas privatas.
+
 webrtc-share-screen-learn-more = Ulteriuras infurmaziuns
 webrtc-pick-window-or-screen = Tscherna la fanestra u il visur
 webrtc-share-entire-screen = Entir visur
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Memorisar questa decisiun
 webrtc-mute-notifications-checkbox = Deactivar las notificaziuns da websites durant la cundivisiun
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } na po betg permetter l'access permanent a tes visur.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } na po betg permetter l'access permanent al tun da tes tab senza dumandar tge tab che duai vegnir cundividÌ.
 webrtc-reason-for-no-permanent-allow-insecure = Tia connexiun a questa pagina n'è betg segira. Per ta proteger permetta { -brand-short-name } l'access mo per questa sesida.

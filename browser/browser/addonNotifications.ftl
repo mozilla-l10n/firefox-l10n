@@ -14,6 +14,7 @@ xpinstall-prompt-message = Ti emprovas dad installar in supplement da { $host }.
 
 xpinstall-prompt-header-unknown = Vuls ti permetter ad ina pagina nunenconuschenta dad installar in supplement?
 xpinstall-prompt-message-unknown = Ti emprovas dad installar in supplement dad ina website nunenconuschenta. Fa la segira che ti ta fidas da la website avant che cuntinuar.
+
 xpinstall-prompt-dont-allow =
     .label = Betg permetter
     .accesskey = B
@@ -44,6 +45,7 @@ xpinstall-disabled = L'installaziun da software è actualmain deactivada. Clicca
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = A
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,6 +54,7 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) è bloccà da l'
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'administratur da tes sistem ha impedì che questa website ta dumondia sche software duai vegnir installada sin tes computer.
 addon-install-full-screen-blocked = L'installaziun da supplements n'è betg permessa durant u avant che midar en il modus da maletg entir.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Agiuntà { $addonName } a { -brand-short-name }
@@ -69,6 +72,7 @@ addon-removal-title = Allontanar { $name }?
 addon-removal-message = Allontanar { $name } da { -brand-shorter-name }?
 addon-removal-button = Allontanar
 addon-removal-abuse-report-checkbox = Rapportar questa extensiun a { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -77,6 +81,7 @@ addon-downloading-and-verifying =
        *[other] Telechargiar e verifitgar { $addonCount } supplements…
     }
 addon-download-verifying = Verifitgar
+
 addon-install-cancel-button =
     .label = Interrumper
     .accesskey = r

@@ -38,9 +38,11 @@ menu-quit =
             [windows] T
            *[other] T
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Terminar { -brand-shorter-name }
+
 menu-about =
     .label = Davart { -brand-shorter-name }
     .accesskey = D
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = Tabs serrads dacurt
 menu-history-undo-window-menu =
     .label = Fanestras serradas dacurt
-menu-history-reopen-all-tabs = Reavrir tut ils tabs
-menu-history-reopen-all-windows = Reavrir tut las fanestras
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = S
 menu-bookmarks-manage =
     .label = Administrar ils segnapaginas
-menu-bookmark-current-tab =
-    .label = Agiuntar in segnapagina per il tab actual
-menu-bookmark-edit =
-    .label = Modifitgar quest segnapagina
 menu-bookmark-tab =
     .label = Agiuntar in segnapagina per il tab actual…
 menu-edit-bookmark =

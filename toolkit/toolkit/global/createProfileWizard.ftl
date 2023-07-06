@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = Assistent da profil
-    .style = width: 45em; height: 36em;
-
 create-profile-window2 =
     .title = Assistent da profil
     .style = min-width: 45em; min-height: 36em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Entschatta
-       *[other] { create-profile-window.title } - Bainvegni
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Finiziun
-       *[other] { create-profile-window.title } - Terminar
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

@@ -4,12 +4,15 @@
 
 third-party-page-title = Infurmaziuns da moduls da ina terzas partidas
 third-party-section-title = Glista da moduls en { -brand-short-name } da terzas partidas
+
 third-party-intro =
     Questa pagina mussa ils moduls da terzas partidas installadas en tes
     { -brand-short-name }. Mintga modul che n'è betg signà da Microsoft u
     { -vendor-short-name } vegn considerà sco modul da terzas partidas.
+
 third-party-message-empty = Na chattà nagins moduls da terzas partidas.
 third-party-message-no-duration = Betg registrà
+
 third-party-detail-version = Versiun da la datoteca
 third-party-detail-vendor = Infurmaziuns dal vendider
 third-party-detail-occurrences = Occurrenzas
@@ -18,9 +21,11 @@ third-party-detail-duration = Temp da bloccada en media (ms)
     .title = Quant ditg che quest modul ha bloccà l'applicaziun.
 third-party-detail-app = Applicaziun
 third-party-detail-publisher = Editur
+
 third-party-th-process = Process
 third-party-th-duration = Temp per chargiar (ms)
 third-party-th-status = Status
+
 third-party-tag-ime = IME
     .title = Quest tip da modul vegn chargià sche ti utiliseschas in IME da terzas partidas.
 third-party-tag-shellex = Extensiun shell
@@ -29,19 +34,17 @@ third-party-tag-background = Davos las culissas
     .title =
         Quest tip da modul n'ha betg bloccà l'applicaziun perquai ch'el è vegnì
         chargià davos las culissas.
-third-party-unsigned-icon =
-    .title = Quest modul n'è betg signà
-third-party-warning-icon =
-    .title = { -brand-short-name } è collabà en code da quest modul
 third-party-icon-unsigned =
     .title = Quest modul n'è betg signà
     .alt = Quest modul n'è betg signà
 third-party-icon-warning =
     .title = { -brand-short-name } è collabà en code da quest modul
     .alt = { -brand-short-name } è collabà en code da quest modul
+
 third-party-status-loaded = Chargià
 third-party-status-blocked = Bloccà
 third-party-status-redirected = Renvià
+
 third-party-button-copy-to-clipboard = Copiar las datas bruttas en l'archiv provisoric
 third-party-loading-data =
     .alt = Chargiar las infurmaziuns dal sistem…
@@ -67,12 +70,11 @@ third-party-button-expand =
     .title = Mussar infurmaziuns detagliadas
 third-party-button-collapse =
     .title = Reducir las infurmaziuns detagliadas
-third-party-requires-restart = { -brand-short-name } sto vegnir reavià per midar ils moduls da terzas partidas bloccads.
 third-party-blocking-requires-restart = Per pudair bloccar in modul dad ina terza partida sto { -brand-short-name } reaviar.
 third-party-should-restart-title = Reaviar { -brand-short-name }
-third-party-should-restart-ok = Reaviar ussa { -brand-short-name }
 third-party-restart-now = Reaviar ussa
 third-party-restart-later = Reaviar pli tard
+
 third-party-blocked-by-builtin =
     .title = Bloccà da { -brand-short-name }
     .alt = Bloccà da { -brand-short-name }

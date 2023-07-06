@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = Ina errur è succedida durant ina connexiun cun { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Code d'errur: { $error }
-
 psmerr-ssl-disabled = Impussibel da realisar ina connexiun segira, perquai ch'il protocol SSL è vegnì deactivà.
 psmerr-ssl2-disabled = Impussibel da realisar ina connexiun segira, perquai che la website utilisescha ina versiun pli veglia e malsegira dal protocol SSL.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Nagin algoritmus da signatura TLS s
 ssl-error-unsupported-signature-algorithm = Il peer ha utilisà ina cumbinaziun betg sustegnida da signatura ed algoritmus da hash.
 ssl-error-missing-extended-master-secret = Il peer ha empruvà da cuntinuar senza l'extensiun extended_master_secret correcta.
 ssl-error-unexpected-extended-master-secret = Il peer ha empruvà da cuntinuar cun ina extensiun extended_master_secret nunspetgada.
+
 sec-error-io = In'errur I/O cun autentifitgar la segirezza.
 sec-error-library-failure = Errur da la biblioteca da segirezza.
 sec-error-bad-data = Biblioteca da segirezza: recepì datas donnegiadas.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Impussibel da decriptar: l'algoritmus da cript
 sec-error-pkcs7-bad-signature = La verificaziun da la signatura n'è betg reussida: betg chattà in signatari, chattà memia blers signataris, datas nunadattadas u donnegiadas.
 sec-error-unsupported-keyalg = Algoritmus da clav nunenconuschent u betg sustegnì.
 sec-error-decryption-disallowed = Impussibel da decriptar: criptà cun in algoritmus betg permess u cun ina grondezza da clav betg permessa.
-xp-sec-fortezza-bad-card = La carta Fortezza n'è betg vegnida installada correctamain. La deconnectescha per plaschair e la porta enavos a l'emittent.
-xp-sec-fortezza-no-card = Betg chattà cartas Fortezza
-xp-sec-fortezza-none-selected = Betg tschernì ina carta Fortezza
-xp-sec-fortezza-more-info = Inditgescha per plaschair ina persunalitad per retschaiver ulteriuras infurmaziuns davart quella
-xp-sec-fortezza-person-not-found = Betg chattà la persunalitad
-xp-sec-fortezza-no-more-info = Naginas ulteriuras infurmaziuns davart questa persunalitad
-xp-sec-fortezza-bad-pin = PIN nunvalid
-xp-sec-fortezza-person-error = Impussibel d'inizialisar las persunalitads Fortezza.
 sec-error-no-krl = Ina KRL per il certificat da questa pagina n'è betg vegnida chattada.
 sec-error-krl-expired = La KRL per il certificat da questa pagina è scrudada.
 sec-error-krl-bad-signature = La KRL per il certificat da questa pagina ha ina signatura nunvalida.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = In certificat cun la medema descripziun curt
 sec-error-key-nickname-collision = Ina clav cun la medema descripziun curta exista gia.
 sec-error-safe-not-created = Errur cun crear in object segir.
 sec-error-baggage-not-created = Errur cun crear in "Object da bagascha"
-xp-java-remove-principal-error = Impussibel d'allontanar 'Principal'
-xp-java-delete-privilege-error = Impussibel da stizzar il privilegi
-xp-java-cert-not-exists-error = Quest 'principal' n'ha nagin certificat
 sec-error-bad-export-algorithm = L'algoritmus necessari n'è betg permess.
 sec-error-exporting-certificates = Errur cun empruvar d'exportar certificats.
 sec-error-importing-certificates = Errur cun empruvar d'importar certificats.
@@ -338,6 +319,7 @@ sec-error-locked-password = Il pled-clav è bloccà.
 sec-error-unknown-pkcs11-error = Errur nunenconuschenta da PKCS #11.
 sec-error-bad-crl-dp-url = URL nunvalida u betg sustegnida en il num da puncts da la distribuziun CRL.
 sec-error-cert-signature-algorithm-disabled = Il certificat è suttascrit cun in algoritmus ch'è deactivà perquai ch'el n'è betg segir.
+
 mozilla-pkix-error-key-pinning-failure = Quest server utilisescha key pinning (HPKP), ma i n'è betg reussì da crear ina chadaina da certificats fidads che correspunda al pin. Violaziuns da key pinning na pon betg vegnir surscrittas.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Il server utilisescha in certificat cun l'extensiun 'basic constraints' per s'identifitgar sco post da certificaziun. Quai na duess betg capitar tar certificats emess correctamain.
 mozilla-pkix-error-inadequate-key-size = Il server ha preschentà in certificat cun ina clav ch'è memia curta per stabilir ina connexiun segira.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Il server ha preschentà in certif
 mozilla-pkix-error-empty-issuer-name = Il server ha preschentà in certificat senza in num unic dad in emettur.
 mozilla-pkix-error-additional-policy-constraint-failed = Ina restricziun da regla supplementara n'è betg reussida durant la validaziun da quest certificat.
 mozilla-pkix-error-self-signed-cert = I na vegn betg fidà al certificat, perquai ch'el è suttascrit da l'agen emettur.
+
+xp-java-remove-principal-error = Impussibel d'allontanar 'Principal'
+xp-java-delete-privilege-error = Impussibel da stizzar il privilegi
+xp-java-cert-not-exists-error = Quest 'principal' n'ha nagin certificat
+
+xp-sec-fortezza-bad-card = La carta Fortezza n'è betg vegnida installada correctamain. La deconnectescha per plaschair e la porta enavos a l'emittent.
+xp-sec-fortezza-no-card = Betg chattà cartas Fortezza
+xp-sec-fortezza-none-selected = Betg tschernì ina carta Fortezza
+xp-sec-fortezza-more-info = Inditgescha per plaschair ina persunalitad per retschaiver ulteriuras infurmaziuns davart quella
+xp-sec-fortezza-person-not-found = Betg chattà la persunalitad
+xp-sec-fortezza-no-more-info = Naginas ulteriuras infurmaziuns davart questa persunalitad
+xp-sec-fortezza-bad-pin = PIN nunvalid
+xp-sec-fortezza-person-error = Impussibel d'inizialisar las persunalitads Fortezza.

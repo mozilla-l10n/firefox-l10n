@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Betg serrar
        *[other] Betg terminar
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Sche ti vas uss offline, vegn interrutta 1 telechargiada. Es ti segir che ti vuls ir offline?
        *[other] Sche ti vas uss offline, vegnan interruttas { $downloadsCount } telechargiadas. Es ti segir che ti vuls ir offline?
     }
 download-ui-dont-go-offline-button = Restar online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Sche ti serras ussa tut las fanestras privatas vegn ina telechargiada interrutta. Es ti segir che ti vuls bandunar il modus privat?
        *[other] Sche ti serras ussa tut las fanestras privatas vegnan { $downloadsCount } telechargiadas interruttas. Es ti segir che ti vuls bandunar il modus privat?
     }
 download-ui-dont-leave-private-browsing-button = Restar en il modus privat
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Interrumper 1 telechargiada

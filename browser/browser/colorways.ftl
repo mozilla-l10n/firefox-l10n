@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Vuschs independentas
-colorway-collection-independent-voices-description = Colurs pon midar la societad. La pli nova cumbinaziun da colurs celebrescha vuschs che contribueschan ad in meglier mund.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Colurs che midan la societad.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Capo
