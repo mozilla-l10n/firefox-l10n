@@ -8,14 +8,16 @@ search-header =
     .placeholder = Otsi saidilt addons.mozilla.org
     .searchbuttonlabel = Otsi
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Hangi laiendusi ja teemasi domeenil <a data-l10n-name="get-extensions">{ $domain }</a>
 
 list-empty-get-dictionaries-message = Hangi sõnaraamatuid domeenil <a data-l10n-name="get-extensions">{ $domain }</a>
 
 list-empty-get-language-packs-message = Hangi keelepakke domeenil <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
 
 list-empty-installed =
     .value = Ühtegi seda tüüpi lisa pole paigaldatud
@@ -339,15 +341,7 @@ extension-enabled-heading = Lubatud
 extension-disabled-heading = Keelatud
 
 theme-enabled-heading = Lubatud
-theme-disabled-heading = Keelatud
 theme-disabled-heading2 = Salvestatud teemad
-theme-monochromatic-heading = Värvivalikud
-theme-monochromatic-subheading = Uued erksad värvid { -brand-product-name }ilt. Saadaval piiratud aja jooksul.
-
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Proovi värvivalikuid
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Muuda värvivalikut
 
 plugin-enabled-heading = Lubatud
 plugin-disabled-heading = Keelatud
@@ -417,6 +411,9 @@ addon-detail-private-browsing-help = Lubamise korral saab laiendus ligipääsu s
 addon-detail-private-browsing-allow = lubatud
 addon-detail-private-browsing-disallow = keelatud
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -476,6 +473,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.

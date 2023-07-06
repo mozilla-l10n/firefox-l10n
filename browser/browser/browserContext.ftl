@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Lisa see veebileht järjehoidjatesse
-    .accesskey = j
-    .tooltiptext = Lisa see leht järjehoidjatesse
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Lisa leht järjehoidjatesse
-    .accesskey = L
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Muuda järjehoidjat
-    .accesskey = M
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Lisa see veebileht järjehoidjatesse
-    .accesskey = j
-    .tooltiptext = Lisa see leht järjehoidjatesse ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Muuda seda järjehoidjat
-    .accesskey = j
-    .tooltiptext = Muuda seda järjehoidjat
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Muuda seda järjehoidjat
-    .accesskey = j
-    .tooltiptext = Muuda seda järjehoidjat ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Ava link
     .accesskey = v
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Ava link uues privaatses aknas
     .accesskey = k
-
-main-context-menu-bookmark-link =
-    .label = Lisa link järjehoidjatesse
-    .accesskey = L
 
 main-context-menu-save-link =
     .label = Salvesta link kui…
@@ -324,14 +282,6 @@ main-context-menu-audio-email =
     .label = Saada audio e-postiga…
     .accesskey = u
 
-main-context-menu-plugin-play =
-    .label = Aktiveeri see plugin
-    .accesskey = u
-
-main-context-menu-plugin-hide =
-    .label = Peida see plugin
-    .accesskey = d
-
 main-context-menu-save-to-pocket =
     .label = Salvesta leht { -pocket-brand-name }isse
     .accesskey = k
@@ -390,10 +340,6 @@ main-context-menu-frame-reload =
     .label = Laadi paneeli sisu uuesti
     .accesskey = L
 
-main-context-menu-frame-bookmark =
-    .label = Lisa see paneel järjehoidjatesse
-    .accesskey = e
-
 main-context-menu-frame-save-as =
     .label = Salvesta paneel kui…
     .accesskey = v
@@ -409,10 +355,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Vaata paneeli teavet
     .accesskey = i
-
-main-context-menu-print-selection =
-    .label = Prindi valik
-    .accesskey = P
 
 main-context-menu-view-selection-source =
     .label = Vaata valiku lähtekoodi

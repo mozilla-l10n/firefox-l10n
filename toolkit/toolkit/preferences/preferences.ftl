@@ -9,10 +9,6 @@ failed-pp-change = Ülemparooli pole võimalik muuta.
 incorrect-pp = Sa ei sisestanud praegu kehtivat õiget ülemparooli. Palun proovi uuesti.
 pp-change-ok = Ülemparooli muutmine õnnestus.
 
-pp-empty-warning = Sinu salvestatud paroole ja privaatseid võtmeid ei kaitsta.
-pp-erased-ok = Sa kustutasid oma ülemparooli. { pp-empty-warning }
-pp-not-wanted = Hoiatus! Sa otsustasid ülemparooli kasutamisest loobuda. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
 pw-change-success-title = Parooli muutmine õnnestus
 pw-change-failed-title = Parooli muutmine nurjus

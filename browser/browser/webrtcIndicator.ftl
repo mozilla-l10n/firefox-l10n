@@ -32,6 +32,7 @@ webrtc-item-browser = kaart
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Tundmatu allikas
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -40,6 +41,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Seadmeid jagavad kaardid
     .accesskey = S
+
 webrtc-sharing-window = Jagad teise rakenduse akent.
 webrtc-sharing-browser-window = Jagad { -brand-short-name }i.
 webrtc-sharing-screen = Jagad tervet ekraani.
@@ -96,6 +98,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Halda jagamist
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Halda jagamist kaardiga "{ $streamTitle }"
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Kaamerat jagatakse kaardiga "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -104,6 +107,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Kaamerat jagatakse ühe kaardiga
            *[other] Kaamerat jagatakse { $tabCount } kaardiga
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Mikrofoni jagatakse kaardiga "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -112,6 +116,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Mikrofoni jagatakse ühe kaardiga
            *[other] Mikrofoni jagatakse { $tabCount } kaardiga
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Rakendust jagatakse kaardiga "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,6 +125,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Rakendust jagatakse ühe kaardiga
            *[other] Rakendust jagatakse { $tabCount } kaardiga
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Ekraani jagatakse kaardiga "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -128,6 +134,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Ekraani jagatakse ühe kaardiga
            *[other] Ekraani jagatakse { $tabCount } kaardiga
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Akent jagatakse kaardiga "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +143,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Akent jagatakse ühe kaardiga
            *[other] Akent jagatakse { $tabCount } kaardiga
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Kaarti jagatakse kaardiga "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -167,7 +175,6 @@ webrtc-allow-share-screen-and-audio-capture = Kas lubad saidil { $origin } kuula
 ##   $thirdParty (String): the third party origin.
 
 webrtc-allow-share-camera-unsafe-delegation = Kas lubad saidil { $origin } anda ligipääs sinu kaamerale saidile { $thirdParty }?
-webrtc-allow-share-microphone-unsafe-delegations = Kas lubad saidil { $origin } anda ligipääs sinu mikrofonile saidile { $thirdParty }?
 webrtc-allow-share-microphone-unsafe-delegation = Kas lubad saidil { $origin } anda ligipääs sinu mikrofonile saidile { $thirdParty }?
 webrtc-allow-share-screen-unsafe-delegation = Kas lubad saidil { $origin } anda ligipääs sinu ekraani vaatamiseks saidile { $thirdParty }?
 # "Speakers" is used in a general sense that might include headphones or
@@ -182,6 +189,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Kas lubad saidil
 
 webrtc-share-screen-warning = Oma ekraani jaga ainult nende saitidega, mida usaldad. Jagamine võib võimaldada petlikel saitidel sinuna veebi lehitseda ja varastada sinu privaatseid andmeid.
 webrtc-share-browser-warning = Oma { -brand-short-name }i jaga ainult nende saitidega, mida usaldad. Jagamine võib võimaldada petlikel saitidel sinuna veebi lehitseda ja varastada sinu privaatseid andmeid.
+
 webrtc-share-screen-learn-more = Rohkem teavet
 webrtc-pick-window-or-screen = Vali aken või ekraan
 webrtc-share-entire-screen = Terve ekraan
@@ -214,6 +222,7 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = See otsus peetakse meeles
 webrtc-mute-notifications-checkbox = Jagamise ajal saidi teavitused vaigistatakse
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ei saa lubada püsivat ligipääsu sinu ekraanile.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ei saa lubada püsivat ligipääsu sinu kaardi helile ilma küsimata, millise kaardi heli jagada.
 webrtc-reason-for-no-permanent-allow-insecure = Sinu ühendus selle saidiga pole turvaline. Sinu kaitsmiseks lubab { -brand-short-name } ligipääsu ainult selleks seansiks.

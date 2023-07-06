@@ -23,5 +23,7 @@ state-header = Olek
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Üksikasjad
+
 update-installed-on = Paigaldatud: { $date }
+
 update-status = Olek: { $status }

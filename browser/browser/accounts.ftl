@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Lõpeta konto seadistamine
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Konto ühendati lahti
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Kõikidesse seadmetesse
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Halda seadmeid…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Halda seadmeid…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Ühtki teist seadet pole ühendatud
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Rohkem teavet kaartide teise seadmesse saatmise kohta…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Ühenda teine seade…
 
@@ -45,10 +50,13 @@ account-send-tab-to-device-verify = Kinnita oma konto…
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = See arvuti on nüüd ühendatud seadmega { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = See arvuti on nüüd ühendatud uue seadmega.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Oled edukalt sisse loginud
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = See arvuti on lahti ühendatud.
 
@@ -60,6 +68,7 @@ account-single-tab-arriving-title = Kaart on vastu võetud
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Kaart seadmest { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -72,6 +81,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Vastuvõetud kaardid
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
