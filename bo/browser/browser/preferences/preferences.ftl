@@ -53,6 +53,16 @@ restart-later = ཡུད་ཙམ་རྗེས་ནས་འགོ་བས�
 ## Variables:
 ##   $name (String): name of the extension
 
+## Extension Control Notifications
+##
+## These strings are used to inform the user
+## about changes made by extensions to browser settings.
+##
+## <img data-l10n-name="icon"/> is going to be replaced by the extension icon.
+##
+## Variables:
+##   $name (string) - Name of the extension
+
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -116,6 +126,10 @@ browser-containers-settings =
     .accesskey = i
 
 containers-disable-alert-title = Close All Container Tabs?
+
+## Variables:
+##   $tabCount (number) - Number of tabs
+
 containers-disable-alert-desc =
     { $tabCount ->
         [one] If you disable Container Tabs now, { $tabCount } container tab will be closed. Are you sure you want to disable Container Tabs?
@@ -127,6 +141,9 @@ containers-disable-alert-ok-button =
         [one] Close { $tabCount } Container Tab
        *[other] Close { $tabCount } Container Tabs
     }
+
+##
+
 containers-disable-alert-cancel-button = Keep enabled
 
 containers-remove-alert-title = Remove This Container?
@@ -232,6 +249,7 @@ applications-action-column =
 
 
 ##
+
 
 drm-content-header = Digital Rights Management (DRM) Content
 
@@ -354,11 +372,6 @@ home-restore-defaults =
     .label = སྔོན་སྒྲིག་སླར་གསོ
     .accesskey = R
 
-# "Firefox" should be treated as a brand and kept in English,
-# while "Home" and "(Default)" can be localized.
-home-mode-choice-default =
-    .label = མེ་ཝ་ཡི་གཙོ་ངོས (སྔོན་སྒྲིག)
-
 home-mode-choice-custom =
     .label = དྲ་མིང་རང་མོས་སྒྲིག་པ…
 
@@ -391,8 +404,10 @@ choose-bookmark =
 ##  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 
 
-##
+## Variables:
+##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
 
+##
 
 ## Search Section
 
@@ -411,6 +426,7 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = དྲ་གནས་ངོས་སུ་འཚོལ་བཤེར་གྱི་གསལ་འདེབས་སྟོན་པ།
     .accesskey = l
+
 
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
@@ -460,6 +476,9 @@ containers-remove-button =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 sync-signedout-caption = Take your Web with you
 
 # This message contains two links and two icon images.
@@ -474,14 +493,21 @@ sync-mobile-promo = Download Firefox for <img data-l10n-name="android-icon"/> <a
 
 ## Firefox Account - Signed in
 
+## Firefox account - Signed in
+
 sync-profile-picture =
     .tooltiptext = Change profile picture
 
 sync-manage-account = Manage Account
     .accesskey = o
 
+## Variables
+## $email (string) - Email used for Firefox account
+
 sync-signedin-unverified = { $email } is not verified.
 sync-signedin-login-failure = Please sign in to reconnect { $email }
+
+##
 
 sync-resend-verification =
     .label = Resend Verification
@@ -546,6 +572,9 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Save
     .accesskey = v
+
+## These strings are shown in a desktop notification after the
+## user requests we resend a verification email.
 
 ## Privacy Section
 
@@ -656,8 +685,6 @@ sitedata-block-desc = Type blocked
 
 sitedata-option-block-unvisited =
     .label = Cookies from unvisited websites
-sitedata-option-block-all-third-party =
-    .label = All third-party cookies (may cause websites to break)
 sitedata-option-block-all =
     .label = All cookies (will cause websites to break)
 
@@ -668,6 +695,8 @@ sitedata-clear =
 sitedata-settings =
     .label = Manage Data…
     .accesskey = M
+
+## Privacy Section - Cookie Banner Handling
 
 ## Privacy Section - Address Bar
 
@@ -707,7 +736,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-all-third-party-cookies = All third-party cookies
+# The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 content-blocking-warning-title = Heads up!
 
@@ -834,6 +863,8 @@ certs-devices =
 
 ## Privacy Section - HTTPS-Only
 
+
+## DoH Section
 
 ## The following strings are used in the Download section of settings
 

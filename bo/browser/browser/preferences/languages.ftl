@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-webpage-languages-window =
-    .title = དྲ་ངོས་ཀྱི་སྐད་ཡིག་སྒྲིག་འགོད
-    .style = width: 40em
-
 webpage-languages-window2 =
     .title = དྲ་ངོས་ཀྱི་སྐད་ཡིག་སྒྲིག་འགོད
     .style = min-width: 40em
@@ -52,10 +48,6 @@ languages-code-format =
 
 languages-active-code-format =
     .value = { languages-code-format.label }
-
-browser-languages-window =
-    .title = { -brand-short-name }་ཡི་སྐད་ཡིག་སྒྲིག་འགོད
-    .style = width: 40em
 
 browser-languages-window2 =
     .title = { -brand-short-name }་ཡི་སྐད་ཡིག་སྒྲིག་འགོད

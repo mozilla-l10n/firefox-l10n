@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = ལག་ཁྱེར་སྤྲོད་མཁན
 
-certmgr-edit-ca-cert =
-    .title = CA ལག་ཁྱེར་གྱི་ཡིད་རྟོན་སྒྲིག་འགོད་སྒྱུར་བ
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = CA ལག་ཁྱེར་གྱི་ཡིད་རྟོན་སྒྲིག་འགོད་སྒྱུར་བ
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = ལག་ཁྱེར་འདིས་གློག་ཡིག་གི་སྤྱོད་མཁན་ངོས་འཛིན་བྱེད་ཐུབ།
 
-certmgr-delete-cert =
-    .title = ལག་ཁྱེར་བསུབ།
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = ལག་ཁྱེར་བསུབ།
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = ཞབས་ཞུ་གནས།
-
-certmgr-override-lifetime =
-    .label = ཚེ་ཚད།
 
 certmgr-token-name =
     .label = ཉེན་སྲུང་སྒྲིག་ཆས།

@@ -10,6 +10,7 @@ deniedPortAccess-title = དྲ་གནས་འདི་ནི་བཀག་�
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = འོ་ཡ། ང་ཚོས་དྲ་ཚིག་དེ་རྙེད་མི་ཐུབ་པའི་དཀའ་ངལ་འཕྲད་སོང་།
+
 fileNotFound-title = ཡིག་ཆ་རྙེད་མ་ཐུབ
 fileAccessDenied-title = Access to the file was denied
 generic-title = འོ་ཡ།

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] སྒོ་མ་རྒྱག
        *[other] ཕྱིར་མ་འབུད
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] If you go offline now, 1 download will be canceled. Are you sure you want to go offline?
        *[other] If you go offline now, { $downloadsCount } downloads will be canceled. Are you sure you want to go offline?
     }
 download-ui-dont-go-offline-button = དྲ་ཐོག་ཏུ་སྡོད་པ
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] If you close all Private Browsing windows now, 1 download will be canceled. Are you sure you want to leave Private Browsing?
        *[other] If you close all Private Browsing windows now, { $downloadsCount } downloads will be canceled. Are you sure you want to leave Private Browsing?
     }
 download-ui-dont-leave-private-browsing-button = Stay in Private Browsing
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] མར་འཇུག་1་ཕྱིར་འཐེན

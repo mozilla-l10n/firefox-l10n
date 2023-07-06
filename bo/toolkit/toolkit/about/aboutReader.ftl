@@ -4,12 +4,14 @@
 
 about-reader-loading = འཇུག་བཞིན་ཡོད…
 about-reader-load-error = དྲ་ངོས་ནས་རྩོམ་ཡིག་འཇུག་མ་ཐུབ
+
 about-reader-color-scheme-light = དཀར་གསལ
     .title = ཁ་གསལ་བའི་ཁ་དོག་སྒྲིག་གཞི
 about-reader-color-scheme-dark = མུན་ནག
     .title = ཁ་ནང་པའི་ཁ་དོག་སྒྲིག་གཞི
 about-reader-color-scheme-sepia = རྙིང་མདོག
     .title = རྙིང་མདོག་གི་ཁ་དོག་སྒྲིག་གཞི
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

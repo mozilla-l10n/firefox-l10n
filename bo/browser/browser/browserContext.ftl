@@ -92,30 +92,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = དྲ་ངོས་འདི་ལ་ཡིག་རྟགས་འཇོག་པ
-    .accesskey = m
-    .tooltiptext = འདི་ལ་ཡིག་རྟགས་འཇོག་པ
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = དྲ་ངོས་འདི་ལ་ཡིག་རྟགས་འཇོག་པ
-    .accesskey = m
-    .tooltiptext = འདི་ལ་ཡིག་རྟགས་འཇོག་པ ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
-    .accesskey = m
-    .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག
-    .accesskey = m
-    .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
-
 main-context-menu-open-link =
     .label = སྦྲེལ་ཐག་ཁ་ཕྱེ
     .accesskey = O
@@ -242,14 +218,6 @@ main-context-menu-audio-email =
     .label = གློག་ཡིག་བརྒྱུད་ནས་སྒྲ་སྐུར་བ…
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Activate this plugin
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Hide this plugin
-    .accesskey = H
-
 main-context-menu-send-to-device =
     .label = དྲ་ངོས་དེ་སྒྲིག་ཆས་ལ་སྐུར་བ
     .accesskey = n
@@ -288,10 +256,6 @@ main-context-menu-frame-open-window =
 main-context-menu-frame-reload =
     .label = Reload Frame
     .accesskey = R
-
-main-context-menu-frame-bookmark =
-    .label = Bookmark This Frame
-    .accesskey = m
 
 main-context-menu-frame-save-as =
     .label = Save Frame As…

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = དམིགས་བསལ་ཅན
-    .style = width: 36em
-
 permissions-window2 =
     .title = དམིགས་བསལ་ཅན
     .style = min-width: 36em
@@ -69,10 +65,6 @@ permissions-invalid-uri-label = ཡང་དག་པའི་དྲ་མིང
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Exceptions - Cookies and Site Data
-    .style = { permissions-window.style }
-
 permissions-exceptions-cookie-window2 =
     .title = Exceptions - Cookies and Site Data
     .style = { permissions-window2.style }
@@ -83,10 +75,6 @@ permissions-exceptions-cookie-desc = You can specify which websites are always o
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Allowed Websites - Pop-ups
-    .style = { permissions-window.style }
-
 permissions-exceptions-popup-window2 =
     .title = Allowed Websites - Pop-ups
     .style = { permissions-window2.style }
@@ -94,20 +82,12 @@ permissions-exceptions-popup-desc = You can specify which websites are allowed t
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Exceptions - Saved Logins
-    .style = { permissions-window.style }
-
 permissions-exceptions-saved-logins-window2 =
     .title = Exceptions - Saved Logins
     .style = { permissions-window2.style }
 permissions-exceptions-saved-logins-desc = Logins for the following websites will not be saved
 
 ## Exceptions - Add-ons
-
-permissions-exceptions-addons-window =
-    .title = Allowed Websites - Add-ons Installation
-    .style = { permissions-window.style }
 
 permissions-exceptions-addons-window2 =
     .title = Allowed Websites - Add-ons Installation
@@ -119,10 +99,6 @@ permissions-exceptions-addons-desc = You can specify which websites are allowed 
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Settings - Notification Permissions
-    .style = { permissions-window.style }
-
 permissions-site-notification-window2 =
     .title = Settings - Notification Permissions
     .style = { permissions-window2.style }
@@ -132,10 +108,6 @@ permissions-site-notification-disable-label =
 permissions-site-notification-disable-desc = This will prevent any websites not listed above from requesting permission to send notifications. Blocking notifications may break some website features.
 
 ## Site Permissions - Location
-
-permissions-site-location-window =
-    .title = Settings - Location Permissions
-    .style = { permissions-window.style }
 
 permissions-site-location-window2 =
     .title = Settings - Location Permissions
@@ -150,10 +122,6 @@ permissions-site-location-disable-desc = This will prevent any websites not list
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Settings - Camera Permissions
-    .style = { permissions-window.style }
-
 permissions-site-camera-window2 =
     .title = Settings - Camera Permissions
     .style = { permissions-window2.style }
@@ -164,10 +132,6 @@ permissions-site-camera-disable-desc = This will prevent any websites not listed
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Settings - Microphone Permissions
-    .style = { permissions-window.style }
-
 permissions-site-microphone-window2 =
     .title = Settings - Microphone Permissions
     .style = { permissions-window2.style }
@@ -175,3 +139,8 @@ permissions-site-microphone-desc = The following websites have requested to acce
 permissions-site-microphone-disable-label =
     .label = Block new requests asking to access your microphone
 permissions-site-microphone-disable-desc = This will prevent any websites not listed above from requesting permission to access your microphone. Blocking access to your microphone may break some website features.
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
+

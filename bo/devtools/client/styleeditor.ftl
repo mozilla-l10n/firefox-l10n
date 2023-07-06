@@ -8,3 +8,4 @@ styleeditor-find =
 styleeditor-find-again =
     .label = ཡང་བསྐྱར་འཚོལ་བ
     .accesskey = g
+

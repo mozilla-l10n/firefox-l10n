@@ -40,3 +40,6 @@ protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Cancel
 protections-panel-content-blocking-breakage-report-view-send-report =
     .label = Send Report
+
+# Cookie Banner Handling
+
