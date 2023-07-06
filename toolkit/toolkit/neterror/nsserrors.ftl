@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = אירעה שגיאה בהתחברות אל { $hostname }.‏ { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = קוד שגיאה: { $error }
-
 psmerr-ssl-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שפרוטוקול ה־SSL נוטרל.
 psmerr-ssl2-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שהאתר משתמש בגרסה ישנה ולא מאובטחת של פרוטוקול ה־SSL.
 
@@ -151,6 +142,7 @@ ssl-error-no-supported-signature-algorithm = לא הוגדר אלגוריתם ח
 ssl-error-unsupported-signature-algorithm = העמית השתמש בצירוף בלתי נתמך של חתימה ואלגוריתם גיבוב.
 ssl-error-missing-extended-master-secret = העמית ניסה להמשיך ללא הרחבת extended_master_secret נכונה.
 ssl-error-unexpected-extended-master-secret = העמית ניסה להמשיך עם הרחבת extended_master_secret בלתי צפויה.
+
 sec-error-io = An I/O error occurred during security authorization.
 sec-error-library-failure = security library failure.
 sec-error-bad-data = security library: received bad data.
@@ -201,14 +193,6 @@ sec-error-pkcs7-keyalg-mismatch = Cannot decrypt: key encryption algorithm does 
 sec-error-pkcs7-bad-signature = אימות החתימה נכשל: לא נמצא חותם, נמצאו יותר מדי חותמים או שהנתונים פגומים או בלתי תקניים.
 sec-error-unsupported-keyalg = Unsupported or unknown key algorithm.
 sec-error-decryption-disallowed = Cannot decrypt: encrypted using a disallowed algorithm or key size.
-xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized. Please remove it and return it to your issuer.
-xp-sec-fortezza-no-card = No Fortezza cards Found
-xp-sec-fortezza-none-selected = No Fortezza card selected
-xp-sec-fortezza-more-info = Please select a personality to get more info on
-xp-sec-fortezza-person-not-found = Personality not found
-xp-sec-fortezza-no-more-info = No more information on that Personality
-xp-sec-fortezza-bad-pin = Invalid Pin
-xp-sec-fortezza-person-error = Couldn't initialize Fortezza personalities.
 sec-error-no-krl = No KRL for this site's certificate has been found.
 sec-error-krl-expired = The KRL for this site's certificate has expired.
 sec-error-krl-bad-signature = The KRL for this site's certificate has an invalid signature.
@@ -223,9 +207,6 @@ sec-error-cert-nickname-collision = A certificate with the same nickname already
 sec-error-key-nickname-collision = A key with the same nickname already exists.
 sec-error-safe-not-created = error while creating safe object
 sec-error-baggage-not-created = error while creating baggage object
-xp-java-remove-principal-error = Couldn't remove the principal
-xp-java-delete-privilege-error = Couldn't delete the privilege
-xp-java-cert-not-exists-error = This principal doesn't have a certificate
 sec-error-bad-export-algorithm = Required algorithm is not allowed.
 sec-error-exporting-certificates = Error attempting to export certificates.
 sec-error-importing-certificates = Error attempting to import certificates.
@@ -328,6 +309,7 @@ sec-error-locked-password = הססמה ננעלה.
 sec-error-unknown-pkcs11-error = שגיאת PKCS #11 לא ידועה.
 sec-error-bad-crl-dp-url = כתובת לא חוקית או לא נתמכת בשם נקודת ההפצה של CRL.
 sec-error-cert-signature-algorithm-disabled = אישור האבטחה נחתם על־ידי אלגוריתם חתימה שנוטרל מכיוון שאינו מאובטח.
+
 mozilla-pkix-error-ca-cert-used-as-end-entity = השרת משתמש באישור עם הרחבת אילוצים בסיסית שגורמת לו להזדהות בתור רשות אישורים. זה לא אמור לקרות אם האישור הונפק כראוי.
 mozilla-pkix-error-inadequate-key-size = השרת הציג אישור עם גודל מפתח קטן מכדי לקיים חיבור מאובטח.
 mozilla-pkix-error-not-yet-valid-certificate = השרת הציג אישור שאינו תקף עוד.
@@ -339,3 +321,16 @@ mozilla-pkix-error-required-tls-feature-missing = תכונת ה־TLS הנדרש�
 mozilla-pkix-error-invalid-integer-encoding = השרת הציג אישור שמכיל קידוד שגוי של מספר שלם וחיובי. הסיבות הנפוצות לכך הן מספרי סידוריים שליליים, שאריות שליליות של RSA וקידודים ארוכים מהנדרש.
 mozilla-pkix-error-additional-policy-constraint-failed = אילוץ מדיניות נוסף נכשל בעת אימות האישור הזה.
 mozilla-pkix-error-self-signed-cert = האישור אינו מהימן מכיוון שהוא נחתם עצמית.
+
+xp-java-remove-principal-error = Couldn't remove the principal
+xp-java-delete-privilege-error = Couldn't delete the privilege
+xp-java-cert-not-exists-error = This principal doesn't have a certificate
+
+xp-sec-fortezza-bad-card = Fortezza card has not been properly initialized. Please remove it and return it to your issuer.
+xp-sec-fortezza-no-card = No Fortezza cards Found
+xp-sec-fortezza-none-selected = No Fortezza card selected
+xp-sec-fortezza-more-info = Please select a personality to get more info on
+xp-sec-fortezza-person-not-found = Personality not found
+xp-sec-fortezza-no-more-info = No more information on that Personality
+xp-sec-fortezza-bad-pin = Invalid Pin
+xp-sec-fortezza-person-error = Couldn't initialize Fortezza personalities.

@@ -6,7 +6,9 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = מידע נוסף
+
 accessibility-text-label-header = תוויות טקסט ושמות
+
 accessibility-keyboard-header = מקלדת
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
@@ -16,6 +18,7 @@ accessibility-keyboard-header = מקלדת
 
 accessibility-progress-initializing = בתהליך אתחול…
     .aria-valuetext = בתהליך אתחול…
+
 # This string is displayed in the audit progress bar in the accessibility panel.
 # Variables:
 #   $nodeCount (Integer) - The number of nodes for which the audit was run so far.
@@ -24,6 +27,7 @@ accessibility-progress-progressbar =
         [one] בבדיקת צומת אחד
        *[other] בבדיקת { $nodeCount } צמתים
     }
+
 accessibility-progress-finishing = בתהליך סיום…
     .aria-valuetext = בתהליך סיום…
 
@@ -31,8 +35,10 @@ accessibility-progress-finishing = בתהליך סיום…
 
 accessibility-warning =
     .alt = אזהרה
+
 accessibility-fail =
     .alt = שגיאה
+
 accessibility-best-practices =
     .alt = שיטות הפעלה מומלצות
 
@@ -41,8 +47,11 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-heading = לכותרות חייבות להיות תוויות. <a>מידע נוסף</a>
+
 accessibility-text-label-issue-image = תוכן עם תמונות חייב להיות מסומן בתווית. <a>מידע נוסף</a>
+
 accessibility-text-label-issue-interactive = רכיבים אינטראקטיביים חייבים להיות מסומנים בתוויות. <a>מידע נוסף</a>
+
 accessibility-text-label-issue-toolbar = סרגלי כלים חייבים להיות מסומנים בתוויות כשיש יותר מסרגל כלים אחד. <a>מידע נוסף</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section

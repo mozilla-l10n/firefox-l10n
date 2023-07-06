@@ -43,6 +43,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = מודולי רישום לאבחון שיחות WebRTC
 about-logging-preset-custom-label = התאמה אישית
 about-logging-preset-custom-description = מודולי רישום שנבחרים בצורה ידנית
+
 # Error handling
 about-logging-error = שגיאה:
 
@@ -56,4 +57,5 @@ about-logging-unknown-profiler-preset = ערכה לא ידועהשל יוצר ה
 about-logging-unknown-option = אפשרות about:logging לא ידועה ״{ $k }״
 about-logging-configuration-url-ignored = התעלמות מכתובת אתר של הגדרת תצורה
 about-logging-file-and-profiler-override = לא ניתן לאלץ פלט לקובץ ולעקוף אפשרויות של יוצר הפרופילים בו זמנית
+
 about-logging-configured-via-url = האפשרות מוגדרת באמצעות כתובת אתר

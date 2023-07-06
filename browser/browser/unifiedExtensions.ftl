@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = פתיחת תפריט עבור { $extensionName }
+
 unified-extensions-item-message-manage = ניהול הרחבה
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = הצמדה לסרגל הכלים
+
 unified-extensions-context-menu-manage-extension =
     .label = ניהול הרחבה
+
 unified-extensions-context-menu-remove-extension =
     .label = הסרת הרחבה
+
 unified-extensions-context-menu-report-extension =
     .label = דיווח על הרחבה
+
 unified-extensions-context-menu-move-widget-up =
     .label = הזזה למעלה
+
 unified-extensions-context-menu-move-widget-down =
     .label = הזזה למטה
 

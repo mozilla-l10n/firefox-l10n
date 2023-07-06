@@ -38,9 +38,11 @@ menu-quit =
             [windows] צ
            *[other] צ
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
+
 menu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -219,8 +221,6 @@ menu-history-undo-menu =
     .label = לשוניות שנסגרו לאחרונה
 menu-history-undo-window-menu =
     .label = חלונות שנסגרו לאחרונה
-menu-history-reopen-all-tabs = פתיחת כל הלשוניות מחדש
-menu-history-reopen-all-windows = פתיחת כל החלונות מחדש
 
 ## Bookmarks Menu
 
@@ -229,10 +229,6 @@ menu-bookmarks-menu =
     .accesskey = ס
 menu-bookmarks-manage =
     .label = ניהול סימניות
-menu-bookmark-current-tab =
-    .label = יצירת סימנייה ללשונית הנוכחית
-menu-bookmark-edit =
-    .label = עריכת סימנייה זו
 menu-bookmark-tab =
     .label = יצירת סימנייה ללשונית הנוכחית…
 menu-edit-bookmark =

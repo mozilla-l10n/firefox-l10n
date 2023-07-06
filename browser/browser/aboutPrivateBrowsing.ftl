@@ -64,3 +64,6 @@ about-private-browsing-pin-promo-link-text =
        *[other] הצמדה לשורת המשימות
     }
 about-private-browsing-pin-promo-title = ללא עוגיות או היסטוריה שמורה, היישר משולחן העבודה שלך. לדפדף כאילו אף אחד לא צופה בך.
+
+## Strings used in a promotion message for cookie banner reduction
+

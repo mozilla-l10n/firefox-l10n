@@ -8,6 +8,7 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC Internals
+
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = שמירת about:webrtc בשם
@@ -21,6 +22,7 @@ about-webrtc-aec-logging-msg-label = רישום AEC
 about-webrtc-aec-logging-off-state-label = התחלת רישום AEC
 about-webrtc-aec-logging-on-state-label = עצירת רישום AEC
 about-webrtc-aec-logging-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
+
 about-webrtc-aec-logging-toggled-on-state-msg = רישום AEC פעיל (יש לדבר עם המתקשר לכמה דקות ואז להפסיק את ההקלטה)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,10 +32,14 @@ about-webrtc-aec-logging-toggled-off-state-msg = קובצי יומן שנלכד�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = רענון אוטומטי
+
 # Determines the default state of the Auto Refresh check boxes
 about-webrtc-auto-refresh-default-label = רענון אוטומטי כברירת מחדל
+
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = רענון
+
+
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
@@ -83,10 +89,12 @@ about-webrtc-type-remote = מרוחק
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominated
+
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Selected
+
 about-webrtc-save-page-label = שמירת דף
 about-webrtc-debug-mode-msg-label = מצב ניפוי שגיאות
 about-webrtc-debug-mode-off-state-label = הפעלת מצב ניפוי שגיאות
@@ -99,6 +107,7 @@ about-webrtc-log-show-msg = הצגת יומן
     .title = click to expand this section
 about-webrtc-log-hide-msg = הסתרת יומן
     .title = click to collapse this section
+
 about-webrtc-log-section-show-msg = הצגת יומן
     .title = Click to expand this section
 about-webrtc-log-section-hide-msg = הסתרת יומן
@@ -166,6 +175,7 @@ about-webrtc-pc-configuration-hide-msg = הסתרת תצורה
 
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = העדפות WebRTC שהוגדרו על־ידי המשתמש
+
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = רוחב פס משוער
 
@@ -178,6 +188,7 @@ about-webrtc-save-page-msg = הדף נשמר אל: { $path }
 about-webrtc-debug-mode-off-state-msg = יומן מעקב זמין במיקום: { $path }
 about-webrtc-debug-mode-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
 about-webrtc-aec-logging-off-state-msg = קובצי יומן שנלכדו זמינים במיקום: { $path }
+
 about-webrtc-save-page-complete-msg = הדף נשמר אל: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = יומן מעקב זמין במיקום: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = מצב ניפוי שגיאות פעיל, יומן מעקב זמין במיקום: { $path }
@@ -189,6 +200,7 @@ about-webrtc-debug-mode-toggled-on-state-msg = מצב ניפוי שגיאות פ
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
+
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.

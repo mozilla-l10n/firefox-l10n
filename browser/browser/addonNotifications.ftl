@@ -14,6 +14,7 @@ xpinstall-prompt-message = מתבצע ניסיון להתקין תוספת מ־{
 
 xpinstall-prompt-header-unknown = לאפשר לאתר לא מוכר להתקין תוספת?
 xpinstall-prompt-message-unknown = מתבצע ניסיון להתקין תוספת מאתר לא מוכר. יש לוודא שיש לך אמון באתר זה לפני המשך ההתקנה.
+
 xpinstall-prompt-dont-allow =
     .label = לא לאפשר
     .accesskey = ל
@@ -44,6 +45,7 @@ xpinstall-disabled = התקנת תוכנה כרגע מנוטרלת. לחץ אפ�
 xpinstall-disabled-button =
     .label = אפשר
     .accesskey = א
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = התוספת { $addonName } ({ $addonId }) נ�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = מנהל המערכת שלך מנע מאתר זה מלבקש ממך להתקין תוכנה על מחשב זה.
 addon-install-full-screen-blocked = התקנת תוספות אינה מורשית במצב מסך מלא או לפני הכניסה אליו.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } נוספה אל { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = נדרשות הרשאות חדשות עבור { $addonName }
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = להסיר את { $name }?
 addon-removal-message = להסיר את { $name } מ־{ -brand-shorter-name }?
 addon-removal-button = הסרה
 addon-removal-abuse-report-checkbox = דיווח על הרחבה זו ל־{ -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] בתהליך הורדה ואימות { $addonCount } תוספות…
     }
 addon-download-verifying = מאמת
+
 addon-install-cancel-button =
     .label = ביטול
     .accesskey = ב

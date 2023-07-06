@@ -4,6 +4,7 @@
 
 # Callout dialog primary button to advance to next screen
 callout-primary-advance-button-label = הבא
+
 # Callout dialog primary button to complete the feature tour
 callout-primary-complete-button-label = הבנתי!
 
@@ -14,6 +15,7 @@ callout-firefox-view-recently-closed-subtitle = כל הלשוניות שנסגר
 ## Continuous Onboarding - Firefox View: Tab pick up
 
 continuous-onboarding-firefox-view-tab-pickup-subtitle = קבלת גישה ללשוניות הפתוחות שלך מכל מכשיר. בנוסף, סנכרון הסימניות, הססמאות שלך ועוד.
+
 continuous-onboarding-firefox-view-tab-pickup-primary-button-label = תחילת עבודה
 
 ## PDF.js Feature Tour Strings
@@ -22,6 +24,7 @@ callout-pdfjs-edit-title = עריכת קובצי PDF עם כלי הטקסט הח
 callout-pdfjs-edit-body-a = מילוי טפסים והוספת הערות היישר ב־{ -brand-short-name }.
 callout-pdfjs-edit-body-b = אפשר לדלג על החיפוש אחר עורכים מקוונים חינמיים. מילוי טפסים והוספת הערות היישר ב־{ -brand-short-name }.
 callout-pdfjs-edit-button = הבא
+
 callout-pdfjs-draw-title = חתימה על מסמכים עם כלי הציור החדש שלנו
 # “Mark up” refers to the process of “annotating” or adding free hand text or diagramming to the document.
 callout-pdfjs-draw-body-a = כתיבה על קובצי PDF ושמירת השינויים שערכת.
