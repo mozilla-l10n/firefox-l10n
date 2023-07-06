@@ -32,6 +32,7 @@ webrtc-item-browser = ներդիր
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Անյայտ ծագում
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -40,6 +41,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Սարքերը տարածող ներդիրներ
     .accesskey = d
+
 webrtc-sharing-window = Դուք կիսում էք այլ յաւելուածի պատուհանը
 webrtc-sharing-browser-window = Դուք կիսում էք { -brand-short-name }
 webrtc-sharing-screen = Դուք կիսում էք ամբողջ եկրանը
@@ -96,6 +98,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Կառավարել համաւգտագործումը
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Կառավարել համաւգտագործումը “{ $streamTitle }”-ում
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Համաւգտագործել տեսախցիկը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -104,6 +107,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Համաւգտագործել տեսախցիկը { $tabCount } ներդիրի հետ
            *[other] Համաւգտագործել խցիկը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Համաւգտագործել խաւսափողը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -112,6 +116,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Համաւգտագործել խաւսափողը { $tabCount } ներդիրի հետ
            *[other] Համաւգտագործել խաւսափողը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Համաւգտագործել հաւելուածը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,6 +125,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Համաւգտագործել հաւելուածը { $tabCount } ներդիրի հետ
            *[other] Համաւգտագործել հաւելուածը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Համաւգտագործել եկրանը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -128,6 +134,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Համաւգտագործել եկրանը { $tabCount } ներդիրի հետ
            *[other] Համաւգտագործել եկրանը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Համաւգտագործել պատուհանը “{ $streamTitle }”-ի հետ
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -136,6 +143,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Համաւգտագործել պատուհանը { $tabCount } ներդիրի հետ
            *[other] Համաւգտագործել պատուհանը { $tabCount } ներդիրների հետ
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Ներդիրը բաժանելով “{ $streamTitle }”-ի հետ
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -167,7 +175,6 @@ webrtc-allow-share-screen-and-audio-capture = Թոյղատրե՞լ { $origin }-�
 ##   $thirdParty (String): the third party origin.
 
 webrtc-allow-share-camera-unsafe-delegation = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն տեսախցիկին։
-webrtc-allow-share-microphone-unsafe-delegations = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն խաւսափողին։
 webrtc-allow-share-microphone-unsafe-delegation = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն խաւսափողին։
 webrtc-allow-share-screen-unsafe-delegation = Թոյղատրե՞լ { $origin } -ին տալ { $thirdParty } -ին հասանելիութիւն եկրանը տեսնելու համար։
 # "Speakers" is used in a general sense that might include headphones or
@@ -182,6 +189,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Թոյղատրե
 
 webrtc-share-screen-warning = Եկրանների ցուցադրումը իրականացրէք միայն վստահելի կայքերի հետ։ Ցուցադրումը կարող է որոշ կայքերի հնարաւորութիւն տալ գողանալու անձնական եւ գաղտնի տեղեկութիւններ։
 webrtc-share-browser-warning = { -brand-short-name }-ի ցուցադրումն իրականացնել միայն վստահելի կայքերի հետ։ Ցուցադրումը կարող է որոշ կայքերի հնարաւորութիւն տալ գողանալ անձնական եւ գաղտնի տեղեկութիւններ։
+
 webrtc-share-screen-learn-more = Իմանալ աւելին
 webrtc-pick-window-or-screen = Ընտրէք պատուհան կամ ցուցադրիչ
 webrtc-share-entire-screen = Ամբողջական եկրան
@@ -214,6 +222,7 @@ webrtc-action-always-block =
 
 webrtc-remember-allow-checkbox = Յիշել այս որոշումը
 webrtc-mute-notifications-checkbox = Անջատել կայքից ծանուցումները տարածման ընթացքում
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name }-ը չի կարող թոյլատրել մշտական հասանելիութիւն Ձեր եկրանին։
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name }-ը չի կարող է թոյատրել մշտական հասանելութիւն Ձեր ներդիրի ձայնանիւթին՝ առանց հարցնելու, թէ որ ներդիրը կիսել։
 webrtc-reason-for-no-permanent-allow-insecure = Ձեր կապակցումը այս կայքին անվտագ չէ։ Ձեզ պաշտպանելու համար { -brand-short-name }-ը կը տայ հասանելութիւն միայն այս աշխատաշրջանի համար։

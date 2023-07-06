@@ -82,8 +82,6 @@ perftools-thread-renderer =
     .title = Երբ WebRender֊ը միացուած է, շղթան, որն իրականացնում է OpenGL կանչերը
 perftools-thread-render-backend =
     .title = WebRender RenderBackend շղթան
-perftools-thread-paint-worker =
-    .title = Երբ off-main-thread գունաւորումը միացած է, շղթան, որտեղ այն տեղին է ունենում
 perftools-thread-style-thread =
     .title = Ոճի հաշուարկը մասնատուում է բազմաթիւ շղթաների
 pref-thread-stream-trans =
@@ -121,6 +119,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Ցանցային ծրագրաւորող

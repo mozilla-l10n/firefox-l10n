@@ -118,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Անջատել
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ձեր գաղտնիութիւնը կարեւոր է: { -brand-short-name }-ն այժմ մեկուսացնում կամ իրարից առանձնացնում է վեբ-կայքերը, ինչը դժուարացնում է նենգորդների կողմից գաղտնաբառերի, վարկային քարտի համարների եւ այլ զգայուն տեղեկատուութեան գողանալը:
-cfr-doorhanger-fission-header = Կայքի մեկուսացում
-cfr-doorhanger-fission-primary-button = Բարի, հասկացայ
-    .accesskey = Բ
-cfr-doorhanger-fission-secondary-button = Իմանալ աւելին
-    .accesskey = Ի
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Կայքում { -brand-short-name } ֊ի այս տարբերակով՝ տեսանիւթերը ճիշտ չեն միացուում։ Միացման լիարժէք աշխատանքի համար,  թարմացրէք { -brand-short-name } հիմայ։
@@ -133,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Թարմացնել հիմայ
     .accesskey = Թ
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Իմանալ աւելին
-    .title = Ընդարձակեք՝ գործառոյթի մասին աւելին իմանալու համար
-spotlight-learn-more-expanded = Իմանալ աւելին
-    .title = Փակել
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -154,16 +142,6 @@ spotlight-public-wifi-vpn-link = Ոչ հիմայ
     .accesskey = ո
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header = Փորձէք գաղտնիութեան ամենահզոր պահպանումը երբեւէ
-spotlight-total-cookie-protection-body = Total Cookie Protection-ը կանգնեցնում է հետագծիչների թխուկների գործածումը:
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name }-ը սահմանափակում է թխուկների գործածումը, հետագծիչները չեն կարող գործածել դրանք ձեզ հետեւելու համար: Նախնական տարբերակում, դուք կարող էք աւգնել զարգացնել այս յաւելուածը աւելի անվտանգ ցանց կառուցելու համար:
-spotlight-total-cookie-protection-primary-button = Միացնել «Total Cookie Protection»-ը
-spotlight-total-cookie-protection-secondary-button = Ոչ հիմայ
 
 ## Emotive Continuous Onboarding
 
@@ -194,4 +172,16 @@ spotlight-pin-secondary-button = Ոչ հիմա
 ## Firefox View CFR
 
 ## Firefox View Spotlight
+
+## Colorways expiry reminder CFR
+
+## Cookie Banner Handling CFR
+
+## These strings are used in the Fox doodle Pin/set default spotlights
+
+## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
+## FxA sync CFR
+
+## Device Migration FxA Spotlight
 

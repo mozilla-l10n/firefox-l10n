@@ -4,6 +4,7 @@
 
 about-reader-loading = Բեռնում …
 about-reader-load-error = Չը հաջողուեց յոդուածը ներբեռնել էջից
+
 about-reader-color-scheme-light = Լոյս
     .title = Լոյսի գունային սխեման
 about-reader-color-scheme-dark = Մուգ
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Հունաստան
     .title = դարչնագոյն գունային համակարգ
 about-reader-color-scheme-auto = Ինքնաշխատ
     .title = Գունապնակ «Auto»
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

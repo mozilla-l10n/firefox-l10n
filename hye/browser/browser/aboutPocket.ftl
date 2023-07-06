@@ -22,14 +22,12 @@ pocket-panel-saved-page-removed = Էջը հեռացուած է
 pocket-panel-saved-page-saved = Պահպանուած է { -pocket-brand-name }-ում
 pocket-panel-saved-page-saved-b = Պահպանուել է { -pocket-brand-name } ֊ում
 pocket-panel-saved-processing-remove = Էջը հեռացուում է…
-pocket-panel-saved-removed = Էջը հեռացուել է իմ ցանկից
 pocket-panel-saved-processing-tags = Պիտակների հաւելում…
 pocket-panel-saved-remove-page = Հեռացնել էջը
 pocket-panel-saved-save-tags = Պահպանել
 pocket-panel-saved-saving-tags = Պահպանում…
 pocket-panel-saved-suggested-tags = Առաջարկուող պիտակներ
 pocket-panel-saved-tags-saved = Պիտակները աւելացուել են
-pocket-panel-signup-view-list = Դիտել ցանկը
 
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Աւելացնել պիտակներ․
@@ -47,13 +45,10 @@ pocket-panel-signup-tagline-story-one = Սեղմէք { -pocket-brand-name } կո
 pocket-panel-signup-tagline-story-two = Դիտէք { -pocket-brand-name }-ում ցանկացած սարքից, ցանկացած ժամանակ։
 
 pocket-panel-signup-cta-a-fix = Պահպանման կոճակ համացանցի համար։
-pocket-panel-signup-cta-b = Սեղմէք { -pocket-brand-name } կոճակը՝ յաւդուածներ, տեսանիւթեր, յղումներ պահպանելու համար։ Դիտէք Ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ։
 pocket-panel-signup-cta-b-short = Սեղմէք { -pocket-brand-name } կոճակը՝ յոդուածներ, տեսանիւթեր եւ յղումներ պահպանելու համար։
-pocket-panel-signup-cta-c = Դիտէք Ձեր ցուցակը ցանկացած սարքի վրայ, ցանկացած ժամանակ:
 
 ## about:pocket-home panel
 
-pocket-panel-home-my-list = Իմ ցուցակը
 pocket-panel-home-welcome-back = Բարի վերադարձ
 pocket-panel-home-paragraph = { -pocket-brand-name } -ն աւգտագործուում է կայքեր, յաւդուածներ, տեսանիւթեր, թուային ձայներիզներ բացայայտելու եւ պահպանելու, ինչպէս նաեւ նախկինում գործածուած նիւթերին անցնելու համար:
 pocket-panel-home-explore-popular-topics = Բացայայտել հանրաճանաչ նիւթերը
@@ -67,7 +62,6 @@ pocket-panel-home-new-user-message = Տեսնել վերջին պահպանած�
 
 ## Pocket panel header component
 
-pocket-panel-header-my-list = Դիտել ցանկը
 pocket-panel-header-sign-in = Մուտք գործել
 
 ## Pocket panel buttons

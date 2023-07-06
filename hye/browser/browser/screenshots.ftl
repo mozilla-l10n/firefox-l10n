@@ -55,3 +55,4 @@ screenshots-private-window-error-details = Ներողութիւն անյարմա
 
 screenshots-generic-error-title = Ո՞վ{ -screenshots-brand-name } գնաց գլխիվայր:
 screenshots-generic-error-details = Մենք վստահ չենք, թէ ինչ է տեղի ունեցնել:  Մտածո՞ւմ եք նորից փորձել,  թէ՞ այլ էջի հանոյթ կստանաք:
+

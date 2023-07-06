@@ -26,10 +26,6 @@ certmgr-people = Դուք ունէք պահպանուած վկայականներ
 certmgr-server = Այս գրանցումները իսկորոշում են սպասարկչի վկայագրի սխալի բացառութիւնները
 certmgr-ca = Դուք ունէք պահպանուած վկայագրեր, որոնք այս կենտրոնները նոյնացնում են։
 
-certmgr-edit-ca-cert =
-    .title = Խմբագրել CA վկայագրի վստահութեան դրոյթները
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Խմբագրել CA վկայագրի վստահութեան դրոյթները
     .style = min-width: 48em;
@@ -41,10 +37,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Այս վկայագիրը կարող է բացայայտել փոստի աւգտուողներին.
-
-certmgr-delete-cert =
-    .title = Հեռացնել վկայագիրը
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Հեռացնել վկայագիրը
@@ -58,9 +50,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Սպասարկիչ
-
-certmgr-override-lifetime =
-    .label = Տեւողութիւն
 
 certmgr-token-name =
     .label = Անվտանգութեան սարք

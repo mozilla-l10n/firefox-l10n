@@ -19,6 +19,10 @@ onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
 onboarding-start-browsing-button-label = Սկսել դիտարկումը
 onboarding-not-now-button-label = Ոչ հիմա
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Սկսել
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-subtitle = Հիանալի է, Դուք ունէք { -brand-short-name }
@@ -33,34 +37,14 @@ return-to-amo-add-extension-label = Աւելացնել ընդլայնումը
 
 return-to-amo-add-theme-label = Ավելացնել Ոճը
 
+##  Variables: $addon-name (String) - Name of the add-on to be installed
+
 ## Multistage onboarding strings (about:welcome pages)
 
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Մեկնարկում է․ եկրան { $total }֊ից { $current }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
-
-# "Hero Text" displayed on left side of welcome screen.
-# The "Fire" in "Fire starts here" plays on the "Fire" in "Firefox".
-# It also signals the passion users bring to Firefox, how they use
-# Firefox to pursue those passions, as well as the boldness in their
-# choice to use Firefox over a larger competitor browser.
-# An alternative title for localization is: "It starts here".
-# This text can be formatted to span multiple lines as needed.
-mr1-welcome-screen-hero-text = Կրակը սկսուում է այստեղ
-
-# Caption for background image in about:welcome. "Soraya Osorio" is the name
-# of the person and shouldn't be translated.
-# In case your language needs to adapt the nouns to a gender, Soraya is a female name (she/her).
-# You can see the picture in about:welcome in Nightly 90.
-mr1-onboarding-welcome-image-caption = Soraya Osorio — Կահոյքի նախագծող, Firefox-ի երկրպագու
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = անջատել շարժապատկերումը
@@ -69,75 +53,22 @@ mr1-onboarding-reduce-motion-button-label = անջատել շարժապատկե�
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] պահել { -brand-short-name }-ը Dock-ում հեշտ հասանելիութեան համար
-       *[other] կցել { -brand-short-name }-ը խնդրագաւտում հեշտ հասանելիութեան համար
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Պահել Dock-ում
-       *[other] Ամրացնել խնդրագոտում
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Սկսել
-
-mr1-onboarding-welcome-header = Բարի գալուստ { -brand-short-name } ֊ում
-mr1-onboarding-set-default-pin-primary-button-label = Դարձնել { -brand-short-name } ֊ը հիմնական զննարկիչ
-    .title = Տեղադրել { -brand-short-name } ֊ը որպէս լռելեայն զննարկիչ եւ ամրեցնել խնդրագաւտում
-
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Դարձնել { -brand-short-name }-ը հիմնական զննարկիչ
-mr1-onboarding-set-default-secondary-button-label = Ոչ հիմա
 mr1-onboarding-sign-in-button-label = Մուտք գործել
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
 
-mr1-onboarding-default-header = Դարձնել { -brand-short-name }-ը սկզբնադիր
-mr1-onboarding-default-subtitle = Սահմանել արագութիւն, անվտանգութիւն եւ գաղտնիութիւն  ինքնակառավարչի վրայ։
-mr1-onboarding-default-primary-button-label = Դարձնել սկզբնադիր զննարկիչ
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-header = Բերեք այդ ամէնը ձեր հետ
-mr1-onboarding-import-subtitle = Ներածել գաղտնաբառերը, <br/> էջանիշները եւ աւելին։
 
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Ներածել { $previous } ֊ից
 
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Ներածել նախորդ զննարկչից
-mr1-onboarding-import-secondary-button-label = Ոչ հիմայ
-
-mr2-onboarding-colorway-header = Կյանքը գոյների մէջ
-mr2-onboarding-colorway-subtitle = Նոր գունագեղ գունազարդումներ։ Հասանելի սահմանափակ ժամանակով։
-mr2-onboarding-colorway-primary-button-label = Պահպանել գունազարդումը
-mr2-onboarding-colorway-secondary-button-label = Ոչ հիմայ
-mr2-onboarding-colorway-label-soft = Նուրբ
-mr2-onboarding-colorway-label-balanced = Հաւասարակշռուած
-# "Bold" is used in the sense of bravery or courage, not in the sense of
-# emphasized text.
-mr2-onboarding-colorway-label-bold = Թաւ
-
-# Automatic theme uses operating system color settings
-mr2-onboarding-theme-label-auto = Ինքաշխատ
-
-# This string will be used for Default theme
-mr2-onboarding-theme-label-default = Սկզբանդիր
-
 mr1-onboarding-theme-header = Սեփականացնել
 mr1-onboarding-theme-subtitle = Յարմարեցնել { -brand-short-name }֊ը ոճով։
-mr1-onboarding-theme-primary-button-label = Պահպանել ոճը
 mr1-onboarding-theme-secondary-button-label = Ոչ հիմայ
 
 # System theme uses operating system color settings
@@ -192,31 +123,6 @@ mr1-onboarding-theme-tooltip-alpenglow =
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description = Աւգտագործել գունաւոր ոճ կոճակների, ցանկերի եւ պատուհանների համար։
-
-# Tooltip displayed on hover of non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-tooltip =
-    .title = Գործածել այս գունազարդումը
-
-# Selector description for non-default colorway theme
-# variations e.g. soft, balanced, bold
-mr2-onboarding-theme-description =
-    .aria-description = Գործածել այս գունազարդումը
-
-# Tooltip displayed on hover of colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-tooltip =
-    .title = Բացայայտել { $colorwayName } գունազարդումները
-
-# Selector description for colorway
-# Variables:
-#   $colorwayName (String) - Name of colorway
-mr2-onboarding-colorway-label = Բացայայտել { $colorwayName } գունազարդումները
-
-# Tooltip displayed on hover of default themes
-mr2-onboarding-default-theme-tooltip =
-    .title = Բացայայտել սկզբնադիր ոճերը
 
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Բացայայտել սկզբնադիր ոճերը
@@ -276,6 +182,8 @@ fx100-upgrade-thanks-header = 100 Շնորհակալ ենք
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Սա մեր { -brand-short-name }֊ի 100-րդ թողարկումն է: Շնորհակալութիւն <em>Ձեզ</em> մեզ աւգնելու համար ստեղծել աւելի լաւ, առողջ համացանց:
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -301,4 +209,11 @@ fx100-upgrade-thank-you-body = Սա մեր { -brand-short-name }֊ի 100-րդ թ
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

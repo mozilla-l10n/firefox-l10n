@@ -3,11 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-logging-current-log-file = Ընթացիկ մատեանի նիշքը․
-about-logging-current-log-modules = Ընթացիկ մատեանի բաղադրիչներ․
 about-logging-log-tutorial = Դիտէք <a data-l10n-name="logging">HTTP գրանցումը </a>՝ իմանալու համար, թե ինչպէս աւգտագործել այս գործիքը։
 about-logging-set-log-file = Կայել մատեանի նիշքը
 about-logging-set-log-modules = Սահմանել գրանցամատեանի հանգուցակները
 about-logging-start-logging = Սկսել գրանցումը
 about-logging-stop-logging = Կանգնեցնել գրանցումը
 
--profiler-brand-name = Firefox Profiler
+## Logging presets
+
+## Variables:
+##   $k (String) - Variable name
+##   $v (String) - Variable value
+

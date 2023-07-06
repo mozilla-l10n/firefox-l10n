@@ -237,20 +237,10 @@ newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } պատկանում է { -brand-product-name } ընտանիքին
 
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Պահպանել { -pocket-brand-name } ֊ում
-newtab-pocket-saved-to-pocket = Պահպանուել է { -pocket-brand-name } ֊ում
-
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Բեռնել աւելի շատ պատմութիւններ
-
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = Թարմացումներ չկան
-newtab-pocket-last-card-desc = Յաւելեալ տեղեկութիւնների համար միացէք աւելի ուշ:
-newtab-pocket-last-card-image =
-    .alt = Թարմացումներ չկան
+## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

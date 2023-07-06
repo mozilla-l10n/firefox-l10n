@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-videocontrols-scrubber =
-    .aria-label = Դիրք
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -12,6 +10,7 @@ videocontrols-volume-control =
     .aria-label = Ուժգնութիւն
 videocontrols-closed-caption-button =
     .aria-label = Փակուած խորագրեր
+
 videocontrols-play-button =
     .aria-label = Նուագարկել
 videocontrols-pause-button =
@@ -28,16 +27,11 @@ videocontrols-casting-button-label =
     .aria-label = Դէպի էկրան
 videocontrols-closed-caption-off =
     .offlabel = Անջատել
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Նկար-նկարում
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = Դիտել նկար-նկարում
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Նուագարկէք տեսանիւթերն առաջնաշերտում, մինչ այլ գործեր էք անում { -brand-short-name }-ում:
+
 videocontrols-error-aborted = Տեսանիւթի բեռնումը կանգնեցուել է։
 videocontrols-error-network = Տեսանիւթի վերարտադրումը կանգնեցուել է ցանցի սխալի պատճառով:
 videocontrols-error-decode = Տեսանիւթը չի կարող վերարտադրուել, որովհետեւ նիշքը վնասուած է:
@@ -45,6 +39,7 @@ videocontrols-error-src-not-supported = Տեսանիւթի տեսակը կամ M
 videocontrols-error-no-source = Չկայ աջակցուող տեսանիւթի եւ MIME-ի տեսակ:
 videocontrols-error-generic = Տեսանիւթի վերարտադրումը կանգնեցուել է անյայտ սխալի պատճառով:
 videocontrols-status-picture-in-picture = Այս տեսանիւթը նուագարկուում է Նկար֊Նկարում աշխատակերպում։
+
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -58,6 +53,7 @@ videocontrols-status-picture-in-picture = Այս տեսանիւթը նուագա
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

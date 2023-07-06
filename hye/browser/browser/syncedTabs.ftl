@@ -22,18 +22,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Բացել
     .accesskey = O
-synced-tabs-context-open-in-new-tab =
-    .label = Բացել նոր ներդիրում
-    .accesskey = w
-synced-tabs-context-open-in-new-window =
-    .label = Յղումը բացել նոր պատուհանում
-    .accesskey = N
-synced-tabs-context-open-in-new-private-window =
-    .label = Յղումը բացել գաղտնի դիտարկմամբ
-    .accesskey = P
-synced-tabs-context-bookmark-single-tab =
-    .label = Էջանշել այս ներդիրը…
-    .accesskey = B
 
 ##
 

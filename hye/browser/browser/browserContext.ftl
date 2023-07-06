@@ -96,44 +96,6 @@ main-context-menu-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-add =
-    .aria-label = Էջանշել այս էջը
-    .accesskey = m
-    .tooltiptext = Էջանշել այս էջը
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-edit-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-add-mac =
-    .label = Էջանշել էջը
-    .accesskey = Է
-
-# This menuitem is only visible on macOS
-# Cannot be shown at the same time as main-context-menu-bookmark-add-mac,
-# so should probably have the same access key if possible.
-main-context-menu-bookmark-edit-mac =
-    .label = Խմբագրել էջանիշը
-    .accesskey = Խ
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
-main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Էջանշել այս էջը
-    .accesskey = m
-    .tooltiptext = Էջանշել այս էջը ({ $shortcut })
-
-main-context-menu-bookmark-change =
-    .aria-label = Խմբագրել այս էջանիշը
-    .accesskey = m
-    .tooltiptext = Խմբագրել այս էջանիշը
-
-# Variables
-#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
-main-context-menu-bookmark-change-with-shortcut =
-    .aria-label = Խմբագրել այս էջանիշը
-    .accesskey = m
-    .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
-
 main-context-menu-open-link =
     .label = Բացել յղումը
     .accesskey = O
@@ -153,10 +115,6 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Բացել յղումը նոր մասնաւոր պատուհանում
     .accesskey = P
-
-main-context-menu-bookmark-link =
-    .label = Էջանիշի յղումը
-    .accesskey = Է
 
 main-context-menu-save-link =
     .label = Պահպանել յղումը որպէս…
@@ -331,14 +289,6 @@ main-context-menu-audio-email =
     .label = Ձայնագրութիւնն ուղարկել ել֊փոստով
     .accesskey = a
 
-main-context-menu-plugin-play =
-    .label = Միացնել այս ներդիրը
-    .accesskey = c
-
-main-context-menu-plugin-hide =
-    .label = Թաքցնել այս ներդիրը
-    .accesskey = H
-
 main-context-menu-save-to-pocket =
     .label = Պահպանել էջը { -pocket-brand-name }֊ում
     .accesskey = k
@@ -397,18 +347,6 @@ main-context-menu-frame-reload =
     .label = Կրկին բեռնել շրջանակը
     .accesskey = R
 
-main-context-menu-frame-bookmark =
-    .label = Էջանշել այս շրջանակը
-    .accesskey =
-        m
-        m
-        m
-        m
-        m
-        m
-        m
-        m
-
 main-context-menu-frame-save-as =
     .label = Պահպանել շրջանակը որպէս…
     .accesskey = F
@@ -424,10 +362,6 @@ main-context-menu-frame-view-source =
 main-context-menu-frame-view-info =
     .label = Տեղեկութիւն շրջանակի մասին
     .accesskey = I
-
-main-context-menu-print-selection =
-    .label = Տպել ընտրութիւնը
-    .accesskey = պ
 
 main-context-menu-view-selection-source =
     .label = Դիտել ընտրաղբեւրը

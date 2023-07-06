@@ -31,10 +31,6 @@ third-party-tag-shellex = Միջավայրի ընդլայնում
     .title = Հանգոյցը բեռնուում է, երբ բացուում է նիշերի հետ աշխատելու երկխաւսութեան պատուհանը։
 third-party-tag-background = Ետնաբեմ
     .title = Այս հանգոյցը չի ​​արգելափակում հաւելուածը, քանի որ այն բեռնուած է ետնաբեմում:
-third-party-unsigned-icon =
-    .title = Այս հանգոյցը ստորագրուած չէ
-third-party-warning-icon =
-    .title = Տուեալ հանգոյցն առաջացրել է վթար { -brand-short-name } այղագրում
 
 third-party-status-loaded = Բեռնուած
 third-party-status-blocked = Արգելափակուած
@@ -49,3 +45,4 @@ third-party-button-expand =
     .title = Ցուցադրել մանրամասն տեղեկութիւնը
 third-party-button-collapse =
     .title = Թաքցնել մանրամասն տեղեկութիւնը
+

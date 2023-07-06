@@ -163,6 +163,8 @@ media-capabilities-title = Մեդիայ հնարաւորութիւններ
 # List all the entries of the database.
 media-capabilities-enumerate = Թուանշուած տուեալների բազայ
 
+## Codec support table
+
 ##
 
 intl-title = Միջազգայնացում եւ տեղայնացում

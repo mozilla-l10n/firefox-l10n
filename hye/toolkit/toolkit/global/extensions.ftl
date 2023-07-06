@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Չեղարկել
     .accesskey = C
+
 webext-perms-sideload-text = Ձեր համակարգչի վրայ տեղադրուած մեկ այլ ծրագիր հաւելուած կարող է ազդել Ձեր զննարկչի վրայ: Խնդրում ենք վերանայել այս հաւելեալ թոյլտուութեան հարցումները եւ ընտրել «Միացնել» կամ «Չեղարկել» (այն անջատուած թողնելու համար):
 webext-perms-sideload-text-no-perms = Ձեր համակարգչի վրա տեղադրուած մեկ այլ ծրագիր հաւելուած կարող է ազդել Ձեր զննարկչի վրա: Խնդրում ենք ընտրել միացնել կամ չեղարկել (այն անջատելու համար):
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Չեղարկել
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } թարմացուել է։ Մինչ նոր տարբերակի բեռնումը հարկաւոր է հաստատել արտաւնութիւնների տրամադրումը։ «Չեղարկում» տարբերակի ընտրումը կազդի յաւելման ներկայիս տարբերակի վրա։ Յաւելումը կը ստանայ հետեւեալ արտաւնութիւնները.
 webext-perms-update-accept =
     .label = Թարմացնել
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Այն ցանկանում է՝
 webext-perms-optional-perms-allow =
     .label = Թոյլատրել
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Մերժել
     .accesskey = D
+
 webext-perms-host-description-all-urls = Մուտք գործեք Ձեր տուեալները բոլոր կայքերի համար
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Մատչել Ձեր տուեալներին { $domain } տիրոյթի կայքերի համար
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Մուտք գործեք Ձեր տուեալները { $domain }-ում
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

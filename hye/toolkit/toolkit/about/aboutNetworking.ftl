@@ -34,13 +34,6 @@ about-networking-messages-received = Հաղորդագրութիւնները ստ
 about-networking-bytes-sent = Բայթերը ուղարկուել են
 about-networking-bytes-received = Բայթերը ստացուել են
 about-networking-logging = Մուտքագրում
-about-networking-log-tutorial = Դիտէք <a data-l10n-name="logging">HTTP գրանցումը </a>՝ իմանալու համար, թե ինչպէս աւգտագործել այս գործիքը։
-about-networking-current-log-file = Ընթացիկ մատեանի նիշքը․
-about-networking-current-log-modules = Ընթացիկ մատեանի բաղադրիչներ․
-about-networking-set-log-file = Կայել մատեանի նիշքը
-about-networking-set-log-modules = Սահմանել գրանցամատեանի հանգուցակները
-about-networking-start-logging = Սկսել գրանցումը
-about-networking-stop-logging = Կանգնեցնել գրանցումը
 about-networking-dns-lookup = DNS փնտրում
 about-networking-dns-lookup-button = Ուղղել
 about-networking-dns-domain = Տիրոյթ․

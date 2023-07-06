@@ -5,11 +5,6 @@
 
 about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
 
-login-filter =
-    .placeholder = Որոնել մուտքանուններ
-
-create-login-button = Ստեղծել նոր մուտքանուն
-
 fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր մեւս սարքերում
 fxaccounts-sign-in-sync-button = Մուտք գործել համաժամեցման համար
 fxaccounts-avatar-button =
@@ -99,9 +94,10 @@ login-item-copied-password-button-text = Պատճենուած
 login-item-save-changes-button = Պահպանել փոփոխութիւնները
 login-item-save-new-button = Պահպանել
 login-item-cancel-button = Չեղարկել
-login-item-time-changed = Վերջին փոփոխութիւնը՝ { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Ստեղծուած՝ { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Վերջին անգամ աւգտագործուած՝ { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -152,6 +148,9 @@ about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտք�
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Հեռացնել
@@ -190,6 +189,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Սա կը հեռացնի { -fxaccount-brand-name }- ում պահպանած մտից անունները ձեր { -fxaccount-brand-name }֊ի հետ համաժամեցրած բոլոր սարքերում։ Կը հեռացուեն նաեւ խախտումների ծանուցումները, որոնք յայտնուում են այստեղ: Դուք չէք կարողանայ յետարկել այս գործողութիւնը:
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Արտահանել մուտքանուններն ու գաղտնաբառերը
 about-logins-confirm-export-dialog-message = Ձեր գաղտնաբառերը կը պահպանուեն որպէս ընթեռնելի գրոյթ (աւրինակ՝ BadP@ssw0rd) եւ ովքեր կարող են բացել Ձեր նիշերը, կը տեսնեն գաղտնաբառերը։
 about-logins-confirm-export-dialog-confirm-button = Արտահանել
@@ -209,7 +210,6 @@ about-logins-breach-alert-date = Խախտումը տեղի է ունեցել { D
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Գնալ դէպի{ $hostname }
-about-logins-breach-alert-learn-more-link = Իմանալ աւելին
 
 ## Vulnerable Password notification
 

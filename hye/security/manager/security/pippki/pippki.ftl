@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Դուք այժմ ընթացիկ FIPS աշ
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Վերակայել առաջնային գաղտնաբառը
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Վերակայել առաջնային գաղտնաբառը
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Վերակայել առաջնային
 pippki-reset-password-confirmation-message = Ձեր առաջնային գաղտնաբառը վերակայուել է:
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Վկայագրի բեռնում
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Վկայագրի բեռնում
@@ -82,7 +74,5 @@ set-password-reminder = Կարեւոր է. Եթե մոռանաք ձեր վկայ
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Պահպանուած  նոյնականացման նշան
-protected-auth-msg = Խնդրում ենք վաւերացնել կոդանշանը։ Իսկութեան կերպը կախուած է կոդանշանի տեսակից։
-protected-auth-token = Կոդանշան
+## Protected authentication alert
+

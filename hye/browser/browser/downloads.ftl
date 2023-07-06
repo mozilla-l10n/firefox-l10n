@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-items =
     .style = width: 35em
+
 downloads-cmd-pause =
     .label = Դադար
     .accesskey = P
@@ -28,6 +29,7 @@ downloads-cmd-cancel =
     .tooltiptext = Չեղարկել
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
+
 downloads-cmd-show-menuitem-2 =
     .label =
         { PLATFORM() ->
@@ -48,6 +50,7 @@ downloads-cmd-use-system-default =
 downloads-cmd-use-system-default-named =
     .label = Բացել { $handler }֊ում
     .accesskey = ո
+
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -67,12 +70,14 @@ downloads-cmd-always-use-system-default-named =
 downloads-cmd-always-open-similar-files =
     .label = Մշտապէս բացել նմանատիպ նիշերը
     .accesskey = Ո
+
 downloads-cmd-show-button-2 =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Ցուցադրել որոնիչում
            *[other] Ցուցադրել պանակում
         }
+
 downloads-cmd-show-panel-2 =
     .aria-label =
         { PLATFORM() ->
@@ -85,6 +90,7 @@ downloads-cmd-show-description-2 =
             [macos] Ցուցադրել որոնիչում
            *[other] Ցուցադրել պանակում
         }
+
 downloads-cmd-show-downloads =
     .label = Ցուցադրել ներբեռնումների թղթապանակը
 downloads-cmd-retry =
@@ -109,33 +115,42 @@ downloads-cmd-clear-downloads =
 downloads-cmd-delete-file =
     .label = Ջնջել
     .accesskey = Ջ
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Թոյլատրել ներբեռնումը
     .accesskey = o
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Հեռացնել նիշը
+
 downloads-cmd-remove-file-panel =
     .aria-label = Հեռացնել նիշը
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Հեռացնել նիշը կամ թոյղատրել ներբեռնումը
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = Հեռացնել նիշը կամ թոյղատրել ներբեռնումը
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Բացել կամ հեռացնել նիշը
+
 downloads-cmd-choose-open-panel =
     .aria-label = Բացել կամ հեռացնել նիշը
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Ցուցադրել լրացուցիչ տեղեկութիւն
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -149,11 +164,6 @@ downloads-open-file =
 ##   $seconds (number) - Amount of seconds left till the file opens.
 ##   $minutes (number) - Amount of minutes till the file opens.
 
-downloading-file-opens-in-hours-and-minutes = Բացուելու է { $hours } ժամ, { $minutes } րոպէից…
-downloading-file-opens-in-minutes = Բացուելու է { $minutes } րոպէից…
-downloading-file-opens-in-minutes-and-seconds = Բացուելու է { $minutes } րոպէից, { $seconds } վայրկեանից…
-downloading-file-opens-in-seconds = Բացուելու է { $seconds } վայրկեանից…
-downloading-file-opens-in-some-time = Բացուելու է, աւարտումից հետոյ…
 downloading-file-opens-in-hours-and-minutes-2 =
     .value = Բացուելու է { $hours } ժամ, { $minutes } րոպէից…
 downloading-file-opens-in-minutes-2 =
@@ -173,16 +183,19 @@ downloading-file-click-to-open =
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Կրկնել ներբեռնումը
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Չեղարկել ներբեռնումը
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Ցուցադրել բոլոր ներբեռնումները
     .accesskey = S
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
@@ -206,13 +219,16 @@ downloads-blocked-download-detailed-info = { $url }֊ը փորձել է ինքն
 downloads-clear-downloads-button =
     .label = Ջնջել ներբեռնումները
     .tooltiptext = Ջնջում է աւարտուած, չեղարկուած եւ ձախողուած ներբեռնումները
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Ներբեռնումներ չկան։
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Չկան ներբեռնումներ այս աշխատաշրջանում։
+
 # This is displayed in an item at the bottom of the Downloads Panel when there
 # are more downloads than can fit in the list in the panel.
 #   $count (number) - number of files being downloaded that are not shown in the

@@ -14,6 +14,7 @@ xpinstall-prompt-message = Դուք փորձում եք տեղակայել հա�
 
 xpinstall-prompt-header-unknown = Թոյլ տուէք անյայտ կայքին տեղակայել հաւելանիւթ։
 xpinstall-prompt-message-unknown = Դուք փորձում եք հաւելանիւթ տեղադրել անյայտ կայքից։ Համոզուէք, որ վստահում եք այս կայքին՝ շարունակելուց առաջ։
+
 xpinstall-prompt-dont-allow =
     .label = Չթոյլատրել
     .accesskey = D
@@ -37,6 +38,7 @@ xpinstall-disabled = Ծրագրերի տեղակայումը ժամանակաւ�
 xpinstall-disabled-button =
     .label = Միացնել
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -45,6 +47,7 @@ addon-install-blocked-by-policy = { $addonName }({ $addonId }) արգելափա�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ձեր համակարգի վարիչն արգելել է այս կայքին բեռնել ծրագրաշար համակարգչում։
 addon-install-full-screen-blocked = Յաւելումի տեղադրումը չի թոյլատրուում լիեկրան աշխատակերպում կամ նախքան լիեկրան կերպին անցնելը։
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName }-ը աւելացուել է { -brand-short-name }-ում
@@ -62,6 +65,7 @@ addon-removal-title = Հեռացնե՞լ { $name }-ը
 addon-removal-message = Հեռացնե՞լ { $name }֊ը { -brand-shorter-name }֊ից։
 addon-removal-button = Հեռացնել
 addon-removal-abuse-report-checkbox = Դիմել { -vendor-short-name }-ին ընդլայման խնդրի վերաբերեալ
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -70,6 +74,7 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } հաւելումների ներբեռնում եւ ստուգում…
     }
 addon-download-verifying = Ստուգում
+
 addon-install-cancel-button =
     .label = Չեղարկել
     .accesskey = C

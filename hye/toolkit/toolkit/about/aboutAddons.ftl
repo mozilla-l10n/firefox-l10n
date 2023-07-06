@@ -8,14 +8,16 @@ search-header =
     .placeholder = Որոնել addons.mozilla.org֊ում
     .searchbuttonlabel = Որոնել
 
-search-header-shortcut =
-    .key = f
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Ստանալ հաւելումներ եւ ոճեր <a data-l10n-name="get-extensions">{ $domain }</a> -ից
 
 list-empty-get-dictionaries-message = Ստանալ բառարաններ <a data-l10n-name="get-extensions">{ $domain }</a> -ից
 
 list-empty-get-language-packs-message = Ստանալ լեզուական փաթեթներ <a data-l10n-name="get-extensions">{ $domain }</a> -ից
+
+##
 
 list-empty-installed =
     .value = Ձեզ մաւտ նմանատիպ յաւելումներ տեղադրուած չեն
@@ -341,9 +343,6 @@ extension-enabled-heading = Միացուած
 extension-disabled-heading = Անջատուած
 
 theme-enabled-heading = Միացուած
-theme-disabled-heading = Անջատուած
-theme-monochromatic-heading = Գունազարդումներ
-theme-monochromatic-subheading = Նոր գունազարդումներ { -brand-product-name } -ից։ Հասանելի սահմանափակ ժամանակով։
 
 plugin-enabled-heading = Միացուած
 plugin-disabled-heading = Անջատուած
@@ -413,6 +412,9 @@ addon-detail-private-browsing-help = Երբ թոյլատրած է, ընդլայ�
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
 
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -472,6 +474,10 @@ addon-page-options-button =
 ## Detail notifications
 ## Variables:
 ##   $name (String): name of the add-on.
+
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
