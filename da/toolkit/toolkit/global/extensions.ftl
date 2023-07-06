@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Annuller
     .accesskey = A
+
 webext-perms-sideload-text = Et andet program på din computer har installeret en tilføjelse, der kan påvirke din browser. Undersøg hvilke tilladelser, tilføjelsen anmoder om, og vælg at aktivere eller deaktivere den.
 webext-perms-sideload-text-no-perms = Et andet program på din computer har installeret en tilføjelse, der kan påvirke din browser. Vælg at aktivere den eller klik på Fortryd ikke at aktivere den.
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Fortryd
     .accesskey = F
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } er blevet opdateret. Du skal godkende nye tilladelser, før den opdaterede version bliver installeret. Hvis du vælger "Annuller", så beholder du den nuværende version af udvidelsen. Denne udvidelse vil have tilladelse til at:
 webext-perms-update-accept =
     .label = Opdater
     .accesskey = O
+
 webext-perms-optional-perms-list-intro = Den vil:
 webext-perms-optional-perms-allow =
     .label = Tillad
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Afvis
     .accesskey = A
+
 webext-perms-host-description-all-urls = Tilgå dine data for alle websteder
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Tilgå dine data for websteder på domænet { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Tilgå dine data for { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

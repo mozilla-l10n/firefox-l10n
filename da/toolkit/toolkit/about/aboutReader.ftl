@@ -4,6 +4,7 @@
 
 about-reader-loading = Indlæser…
 about-reader-load-error = Indlæsning af artikel fra side mislykkedes
+
 about-reader-color-scheme-light = Lys
     .title = Lyst farveskema
 about-reader-color-scheme-dark = Mørk
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Sepia
     .title = Sepia farveskema
 about-reader-color-scheme-auto = Auto
     .title = Automatisk farveskema
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

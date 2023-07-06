@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Afslut ikke
        *[other] Afslut ikke
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Hvis du går offline nu, vil hentning af 1 fil blive annulleret. Er du sikker på, at du vil gå offline?
        *[other] Hvis du går offline nu, vil hentning af { $downloadsCount } filer blive annulleret. Er du sikker på, at du vil gå offline?
     }
 download-ui-dont-go-offline-button = Forbliv online
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Hvis du lukker alle privat browsing-vinduer nu, vil 1 filhentning blive annulleret. Er du sikker på, at du vil forlade privat browsing-tilstand?
        *[other] Hvis du lukker alle privat browsing-vinduer nu, vil { $downloadsCount } filhentninger blive annulleret. Er du sikker på, at du vil forlade privat browsing-tilstand?
     }
 download-ui-dont-leave-private-browsing-button = Forbliv i privat browsing-tilstand
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Annuller hentning af 1 fil

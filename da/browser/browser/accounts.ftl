@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Afslut opsætning af konto
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Forbindelsen til kontoen er afbrudt
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Send til alle enheder
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Håndter enheder…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Håndter enheder…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Ingen enheder forbundet
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Læs mere om at sende faneblade…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Opret forbindelse til ny enhed…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Bekræft din konto…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Denne computer er nu forbundet med { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Denne computer er nu forbundet med en ny enhed.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Du er logget ind.
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Denne computers forbindelse er blevet afbrudt.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Faneblad modtaget
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Faneblad fra { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Faneblade modtaget
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

@@ -4,15 +4,18 @@
 
 tabbrowser-empty-tab-title = Nyt faneblad
 tabbrowser-empty-private-tab-title = Nyt privat faneblad
+
 tabbrowser-menuitem-close-tab =
     .label = Luk faneblad
 tabbrowser-menuitem-close =
     .label = Luk
+
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
+
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -117,6 +120,7 @@ tabbrowser-confirm-caretbrowsing-checkbox = Vis ikke denne dialogboks igen
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Tillad at beskeder som denne fra { $domain } tager dig til deres faneblad
+
 tabbrowser-customizemode-tab-title = Tilpas { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -135,6 +139,7 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Slå lyden til i fanebladene
     .accesskey = S
+
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Afspiller lyd
 
