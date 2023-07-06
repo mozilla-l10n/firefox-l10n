@@ -25,6 +25,7 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Cancelar
     .accesskey = C
+
 webext-perms-sideload-text = Otro programa en tu computador instaló un complemento que puede afectar a tu navegador. Por favor, revisa las solicitudes de permisos de este complemento y elige Activar o Cancelar (para mantenerlas desactivadas).
 webext-perms-sideload-text-no-perms = Otro programa en tu computador instaló un complemento que puede afectar a tu navegador. Por favor, elige Activar o Cancelar (para mantenerlas desactivadas).
 webext-perms-sideload-enable =
@@ -33,12 +34,14 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Cancelar
     .accesskey = C
+
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } ha sido actualizada. Debes aprobar nuevos permisos antes de que la actualización sea aplicada. Elige "Cancelar" si quieres mantener la versión ya instalada. Esta extensión tendrá permisos para:
 webext-perms-update-accept =
     .label = Actualizar
     .accesskey = U
+
 webext-perms-optional-perms-list-intro = Quiere:
 webext-perms-optional-perms-allow =
     .label = Permitir
@@ -46,10 +49,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Denegar
     .accesskey = D
+
 webext-perms-host-description-all-urls = Acceder a tus datos para todos los sitios
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acceder a tus datos para sitios en el dominio { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -61,6 +67,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acceder a tus datos para { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] No salir
        *[other] No Salir
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Si cambias al modo sin conexión ahora, se cancelará una descarga. ¿De verdad quieres cambiar al modo sin conexión?
        *[other] Si te desconectas ahora, { $downloadsCount } descargas se van a cancelar. ¿De verdad quieres desconectarte?
     }
 download-ui-dont-go-offline-button = Mantenerse Conectado
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Si cierra todas las ventanas de navegación privada ahora, 1 descarga será cancelada. ¿De verdad quieres dejar la navegación privada?
        *[other] Si cierra todas las ventanas de navegación privada ahora, { $downloadsCount } descargas serán canceladas. ¿De verdad quieres dejar la navegación privada?
     }
 download-ui-dont-leave-private-browsing-button = Permanecer en navegación privada
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Cancelar 1 descarga
