@@ -4,6 +4,7 @@
 
 about-reader-loading = Учитавање…
 about-reader-load-error = Неуспешно учитавање чланка са странице
+
 about-reader-color-scheme-light = Светло
     .title = Светла тема
 about-reader-color-scheme-dark = Тамно
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Сепија
     .title = Тема „Сепија”
 about-reader-color-scheme-auto = Аутоматски
     .title = Аутоматска шема боја
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

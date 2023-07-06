@@ -34,13 +34,6 @@ about-networking-messages-received = Поруке примљене
 about-networking-bytes-sent = Бајтова послано
 about-networking-bytes-received = Бајтова примљено
 about-networking-logging = Бележење
-about-networking-log-tutorial = Погледајте <a data-l10n-name="logging">HTTP бележење</a> за инструкције о коришћењу овог алата.
-about-networking-current-log-file = Тренутна датотека евиденције:
-about-networking-current-log-modules = Тренутни модули за бележење:
-about-networking-set-log-file = Подеси датотеку за бележење
-about-networking-set-log-modules = Подеси модуле за бележење
-about-networking-start-logging = Покрени бележење
-about-networking-stop-logging = Заустави бележење
 about-networking-dns-lookup = DNS Lookup
 about-networking-dns-lookup-button = Решити
 about-networking-dns-domain = Домен:

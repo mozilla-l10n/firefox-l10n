@@ -15,6 +15,7 @@ psmerr-hostreusedissuerandserial =
     Примили сте неисправан сертификат. Обавестите администратора сервера или надлежне о следећем:
     
     Ваш сертификат садржи исти серијски број као још неки сертификат издат од стране сертификационог тела. Набавите нови сертификат са јединственим серијским бројем.
+
 ssl-error-export-only-server = Није могућа безбедна комуникација. Удаљени рачунар не подржава шифровање високе категорије.
 ssl-error-us-only-server = Није могућа безбедна комуникација. Удаљени рачунар захтева шифровање високе категорије које није подржано.
 ssl-error-no-cypher-overlap = Није могуће безбедна комуникација са удаљеним рачунаром: Нема заједничких алгоритама за шифровање.
@@ -151,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Неподржан TLS алгори
 ssl-error-unsupported-signature-algorithm = Рачунар је употребио неподржану комбинацију потписа и hash алгоритма.
 ssl-error-missing-extended-master-secret = Рачунар је покушао да настави без исправне extended_master_secret екстензије.
 ssl-error-unexpected-extended-master-secret = Рачунар је покушао да настави са неочекиваном extended_master_secret екстензијом.
+
 sec-error-io = Дошло је до I/O грешке током безбедносне ауторизације.
 sec-error-library-failure = грешка у библиотеци за безбедност.
 sec-error-bad-data = библиотека за безбедност: примљени су лоши подаци.
@@ -317,6 +319,7 @@ sec-error-locked-password = Лозинка је закључана.
 sec-error-unknown-pkcs11-error = Непозната ПКЦС #11 грешка.
 sec-error-bad-crl-dp-url = Неисправна или URL адреса која није подржана у CRL имену дистрибутивне тачке.
 sec-error-cert-signature-algorithm-disabled = Сертификат је потписан коришћењем алгоритма за потписивање који је онемогућен из сигурносних разлога.
+
 mozilla-pkix-error-key-pinning-failure = Сервер користи key pinning (HPKP) али ниједан сертификат од поверења није могао бити изграђен тако да одговара овом pinset-у. Key pinning прекршаји се не могу превазићи.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Сервер користи сертификат са основним ограничењима екстензије да би га идентификовао као сертификационо тело. Ово не би требао бити случај за правилно издате сертификате.
 mozilla-pkix-error-inadequate-key-size = Сервер је представио сертификат са величином кључа која је сувише мала да би се успоставила безбедна веза.
@@ -331,9 +334,11 @@ mozilla-pkix-error-invalid-integer-encoding = Сервер је приказао
 mozilla-pkix-error-empty-issuer-name = Сервер је представио сертификат са празним именом издавача.
 mozilla-pkix-error-additional-policy-constraint-failed = При провери овог сертификата утврђено је кршење ограничења које налаже додатна политика.
 mozilla-pkix-error-self-signed-cert = Сертификат није од поверења јер је самопотписан.
+
 xp-java-remove-principal-error = Није могуће уклонити главну компоненту
 xp-java-delete-privilege-error = Није могуће уклонити привилегију
 xp-java-cert-not-exists-error = Ова главна компонента нема сертификат
+
 xp-sec-fortezza-bad-card = Fortezza карта није прописно покренута.  Уклоните је и вратите издавачу.
 xp-sec-fortezza-no-card = Није нађена ниједна Fortezza карта
 xp-sec-fortezza-none-selected = Није изабрана Fortezza карта

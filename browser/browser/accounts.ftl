@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Заврши подешавање налога
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Веза са налогом је прекинута
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Пошаљи на све уређаје
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Управљај уређајима…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Управљај уређајима…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Нема повезаних уређаја
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Више о слању картица…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Повежи други уређај…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Потврдите ваш налог…
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Овај рачунар је сада повезан са уређајем { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Овај рачунар је сада повезан са новим уређајем.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Успешно сте се пријавили
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Овај рачунар је отпојен.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Картица је примљена
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Картица са { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Примљене картице
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

@@ -35,6 +35,7 @@ about-logging-preset-media-playback-label = Репродукција медиј�
 about-logging-preset-media-playback-description = Модули за бележење дијагностификације проблема са репродукцијом медија (не проблема са видео конференцијама)
 about-logging-preset-custom-label = Прилагођено
 about-logging-preset-custom-description = Ручно одабрани модули за бележење
+
 # Error handling
 about-logging-error = Грешка:
 
@@ -48,4 +49,5 @@ about-logging-unknown-profiler-preset = Непознат унапред поде
 about-logging-unknown-option = Непозната about:logging опција “{ $k }“
 about-logging-configuration-url-ignored = URL конфигурације је игнорисан
 about-logging-file-and-profiler-override = Није могуће истовремено наметнути излаз датотеке и заменити опције профајлера
+
 about-logging-configured-via-url = Параметар је конфигурисан преко URL-а

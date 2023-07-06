@@ -84,6 +84,7 @@ appmenu-update-other-instance-message =
         [neuter] { -brand-shorter-name(case: "gen") }
        *[other] програма { -brand-shorter-name }
     }. Затворите га или ажурирајте упркос томе (други примерак можда неће радити док га не рестартујете).
+
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = У реду
     .buttonaccesskey = У
@@ -91,6 +92,7 @@ appmenu-addon-post-install-message3 = Управљајте додацима и �
 appmenu-addon-post-install-incognito-checkbox =
     .label = Дозволи рад у приватним прозорима
     .accesskey = Д
+
 appmenu-new-tab-controlled-changes =
     .label = Страница нове картице је промењена.
     .buttonlabel = Задржи промене

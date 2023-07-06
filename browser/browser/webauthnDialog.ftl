@@ -4,15 +4,6 @@
 
 # Variables:
 #  $retriesLeft (Number): number of tries left
-webauthn-pin-invalid-prompt =
-    { $retriesLeft ->
-        [0] Погрешан PIN! Унесите исправан PIN за ваш уређај.
-        [one] Погрешан PIN! Унесите исправан PIN за ваш уређај. Преостао вам је { $retriesLeft } покушај.
-        [few] Погрешан PIN! Унесите исправан PIN за ваш уређај. Преостала су вам { $retriesLeft } покушаја.
-       *[other] Погрешан PIN! Унесите исправан PIN за ваш уређај. Преостало вам је { $retriesLeft } покушаја.
-    }
-# Variables:
-#  $retriesLeft (Number): number of tries left
 webauthn-pin-invalid-long-prompt =
     { $retriesLeft ->
         [one] Нетачан PIN. Преостао вам је још { $retriesLeft } покушај пре него што трајно изгубите приступ подацима за пријаву на овом уређају.
@@ -21,6 +12,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Нетачан PIN. Покушајте поново.
 webauthn-pin-required-prompt = Унесите PIN код за ваш уређај.
+
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

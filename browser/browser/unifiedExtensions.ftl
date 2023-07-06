@@ -20,20 +20,26 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Отвори мени за { $extensionName }
+
 unified-extensions-item-message-manage = Управљај додатком
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Додај на траку са алаткама
+
 unified-extensions-context-menu-manage-extension =
     .label = Управљај додатком
+
 unified-extensions-context-menu-remove-extension =
     .label = Уклони додатак
+
 unified-extensions-context-menu-report-extension =
     .label = Пријави додатак
+
 unified-extensions-context-menu-move-widget-up =
     .label = Помери горе
+
 unified-extensions-context-menu-move-widget-down =
     .label = Помери доле
 

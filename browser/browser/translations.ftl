@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Преведи ову страницу
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Страница је преведена са { $fromLanguage } на { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Превод је у току
+
 translations-panel-settings-button =
     .aria-label = Управљај подешавањима превода
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Управљај језицима
 translations-panel-settings-about = О преводима у { -brand-shorter-name }-у
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Увек преведи { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Увек преведи овај језик
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Никад не преводи { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Никад не преводи овај језик
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Никад не преводи овај сајт
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Сачекајте…
 translations-panel-translate-cancel =
     .label = Откажи
+
 translations-panel-error-translating = Дошло је до проблема при превођењу. Покушајте поново касније.
 translations-panel-error-load-languages = Није могуће учитати језике
 translations-panel-error-load-languages-hint = Проверите интернет везу и покушајте поново.
 translations-panel-error-load-languages-hint-button =
     .label = Покушај поново
+
 translations-panel-error-unsupported = Није доступан превод за ову страницу
 translations-panel-error-dismiss-button =
     .label = Важи
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Дошло је до проблема при преузимању језичких датотека. Покушајте поново.
 translations-manage-error-delete = Дошло је до грешке при брисању језичких датотека. Покушајте поново.
 translations-manage-error-list = Није могуће добити листу доступних језика за превод. Освежите страницу да покушате поново.
+
 translations-settings-title =
     .title = Подешавања превода
     .style = min-width: 36em

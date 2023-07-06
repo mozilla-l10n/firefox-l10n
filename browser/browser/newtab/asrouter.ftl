@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Препоручена функција
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Зашто видим ово?
+
 cfr-doorhanger-extension-cancel-button = Не сада
     .accesskey = Н
+
 cfr-doorhanger-extension-ok-button = Додај
     .accesskey = Д
+
 cfr-doorhanger-extension-manage-settings-button = Управљај препорукама
     .accesskey = У
+
 cfr-doorhanger-extension-never-show-recommendation = Не приказуј ми ову препоруку
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Сазнајте више
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Аутор: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Препорука
 cfr-doorhanger-extension-notification2 = Препорука
     .tooltiptext = Препорука додатка
     .a11y-announcement = Доступна је препорука додатка
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Препорука
@@ -79,9 +87,11 @@ cfr-protections-panel-link-text = Сазнајте више
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Нова функција:
+
 cfr-whatsnew-button =
     .label = Шта је ново
     .tooltiptext = Шта је ново
+
 cfr-whatsnew-release-notes-link-text = Прочитајте напомене о верзији
 
 ## Enhanced Tracking Protection Milestones
@@ -111,13 +121,6 @@ cfr-doorhanger-doh-secondary-button = Онемогући
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ваша приватност је битна. { -brand-short-name } сада изолује веб странице, што хакерима отежава крађу лозинки, бројева кредитних картица и других осетљивих података.
-cfr-doorhanger-fission-header = Изолација сајта
-cfr-doorhanger-fission-primary-button = Разумем
-    .accesskey = Р
-cfr-doorhanger-fission-secondary-button = Сазнајте више
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Видео записи на овом сајту се можда неће правилно репродуковати у овој { -brand-short-name } верзији. Ажурирајте { -brand-short-name } за потпуну видео подршку.
@@ -132,11 +135,6 @@ cfr-doorhanger-video-support-primary-button = Ажурирај
     .accesskey = А
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Сазнај више
-    .title = Проширите да сазнате више о функцији
-spotlight-learn-more-expanded = Сазнај више
-    .title = Затвори
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -153,18 +151,6 @@ spotlight-public-wifi-vpn-link = Не сада
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Први испробајте наше најмоћније
-    искуство приватности до сада
-spotlight-total-cookie-protection-body = Свеобухватна заштита од колачића спречава елементе за праћење да вас прате широм мреже.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } ограђује колачиће, ограничавајући их тако да елементи за праћење не могу да их користе како би вас пратили. Рани приступ нам помаже да оптимизујемо ову функцију како би наставили да правимо бољи веб за све.
-spotlight-total-cookie-protection-primary-button = Укључите свеобухватну заштиту од колачића
-spotlight-total-cookie-protection-secondary-button = Не сада
 
 ## Emotive Continuous Onboarding
 
@@ -194,11 +180,13 @@ spotlight-pin-secondary-button = Не сада
 
 mr2022-background-update-toast-title = Нови { -brand-short-name }. Приватнији. Са мање праћења. Без компромиса.
 mr2022-background-update-toast-text = Испробајте нови { -brand-short-name }, надограђен нашом најјачом заштитом од праћења до сада.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Отвори { -brand-shorter-name }
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -217,6 +205,7 @@ firefoxview-cfr-body-v2 = Вратите недавно затворене ка�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Упознајте { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Желите ту отворену картицу на свом телефону? Треба вам сајт који сте управо посетили? Уз { -firefoxview-brand-name } све може!
 firefoxview-spotlight-promo-primarybutton = Сазнајте како ради
@@ -226,6 +215,7 @@ firefoxview-spotlight-promo-secondarybutton = Прескочи
 
 colorways-cfr-primarybutton = Одаберите комбинацију боја
     .accesskey = О
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Обојите свој прегледач ексклузивним { -brand-short-name } нијансама инспирисаним гласовима који су утицали на културу.
 colorways-cfr-header-28days = Комбинације боја „Независни гласови” истичу 16. јануара
@@ -248,6 +238,7 @@ july-jam-headline = Ту смо за вас
 july-jam-body = У просеку, { -brand-short-name } месечно блокира преко 3,000 елемената за праћење и пружа вам безбедан и брз приступ интернету.
 july-jam-set-default-primary = Отвори моје везе са { -brand-short-name }-ом
 fox-doodle-pin-headline = Добро дошли назад
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Мали подсетник да ваш омиљени независни прегледач можете закачити и отворити га једним кликом.

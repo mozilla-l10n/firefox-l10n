@@ -20,6 +20,7 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Претражи
     .aria-label = Претражи
+
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Претражите у претраживачу { $engine } или унесите адресу
@@ -34,6 +35,7 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Претражите или унесите адресу
     .title = Претражите или унесите адресу
     .aria-label = Претражите или унесите адресу
+
 newtab-search-box-text = Претражи интернет
 newtab-search-box-input =
     .placeholder = Претражите интернет
@@ -48,10 +50,12 @@ newtab-topsites-edit-shortcut-header = Измени пречицу
 newtab-topsites-title-label = Наслов
 newtab-topsites-title-input =
     .placeholder = Унесите наслов
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Унесите или налепите URL
 newtab-topsites-url-validation = Исправан URL се захтева
+
 newtab-topsites-image-url-label = URL прилагођене слике
 newtab-topsites-use-image-link = Користи прилагођену слику…
 newtab-topsites-image-validation = Нисам успео да учитам слику. Пробајте са другим URL-ом.
@@ -80,10 +84,12 @@ newtab-topsite-sponsored = Спонзорисано
 newtab-menu-section-tooltip =
     .title = Отвори мени
     .aria-label = Отвори мени
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Уклони
     .aria-label = Уклони
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -152,14 +158,17 @@ newtab-label-removed-bookmark = Обележивач је уклоњен
 newtab-label-recommended = У тренду
 newtab-label-saved = Сачувано у { -pocket-brand-name(case: "loc") }
 newtab-label-download = Преузето
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спонзорисано
+
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Спонзорише { $sponsor }
+
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -198,6 +207,7 @@ newtab-section-header-pocket = Предложио { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Почните да претражујете интернет а ми ћемо вам овде приказати одличне чланке, видео-снимке и друге странице које сте недавно посетили или обележили.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -222,19 +232,10 @@ newtab-pocket-learn-more = Сазнајте више
 newtab-pocket-cta-button = Преузми { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Сачувајте приче које вам се свиђају у { -pocket-brand-name(case: "loc") } и уживајте у врхунском штиву.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } је члан { -brand-product-name } породице
-# A save to Pocket button that shows over the card thumbnail on hover.
-newtab-pocket-save-to-pocket = Сачувај у { -pocket-brand-name }
-newtab-pocket-saved-to-pocket = Сачувано у { -pocket-brand-name }
-# This is a button shown at the bottom of the Pocket section that loads more stories when clicked.
-newtab-pocket-load-more-stories-button = Учитај више прича
 
 ## Pocket Final Card Section.
 ## This is for the final card in the Pocket grid.
 
-newtab-pocket-last-card-title = У току сте!
-newtab-pocket-last-card-desc = Вратите се касније за више.
-newtab-pocket-last-card-image =
-    .alt = У току сте
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Сачувај
 newtab-pocket-saved = Сачувано
