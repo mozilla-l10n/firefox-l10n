@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = E jarolla Disetifikeiti
-    .style = width: 46em
-
 download-cert-window2 =
     .title = E jarolla Disetifikeiti
     .style = min-width: 46em
@@ -57,4 +53,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Sa bohlokwa: Haeba o lebetse phasewete ya backup ya setifikeiti sa hao, ha o na ho kgona ho busetsa backup hamorao.  Ka kopo e rekote tulong e bolokehileng.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

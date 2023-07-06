@@ -96,6 +96,8 @@ menu-view-full-screen =
     .label = Skerini se Feletseng
     .accesskey = S
 
+## These menu items may use the same accesskey.
+
 ##
 
 menu-view-bidi-switch-page-direction =

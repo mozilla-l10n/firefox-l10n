@@ -51,7 +51,6 @@ region-name-ly = Libya
 region-name-ma = Morocco
 region-name-mc = Monaco
 region-name-md = Moldova, Riphaboliki ya
-region-name-mk = Macedonia, F.Y.R. ya
 region-name-mo = Macao
 region-name-mx = Mexico
 region-name-my = Malaysia

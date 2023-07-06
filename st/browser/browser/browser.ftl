@@ -164,6 +164,7 @@ bookmarks-toolbar-placeholder-button =
 popups-infobar-allow =
     .label = Dumella di-popup tsa { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Thibela di-popup tsa { $uriHost }
     .accesskey = p
@@ -185,8 +186,10 @@ popups-infobar-dont-show-message =
 
 navbar-downloads =
     .label = Tse jarollwang
+
 navbar-search =
     .title = Batla
+
 tabs-toolbar-new-tab =
     .label = Tab E ntjha
 
@@ -203,6 +206,9 @@ tabs-toolbar-new-tab =
 ## Note that the new line is intentionally part of the tooltip.
 
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 
@@ -214,6 +220,8 @@ tabs-toolbar-new-tab =
 
 ## Pop-up Notification
 
+
+## Add-on Pop-up Notifications
 
 ## Pop-up warning
 
@@ -228,6 +236,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

@@ -22,5 +22,7 @@ state-header = Naha
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Dintlha
+
 update-installed-on = E kentswe ka la: { $date }
+
 update-status = Boemo: { $status }

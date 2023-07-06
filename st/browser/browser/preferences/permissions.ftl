@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Mekgelo
-    .style = width: 36em
-
 permissions-window2 =
     .title = Mekgelo
     .style = min-width: 36em
@@ -81,4 +77,8 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 
 
 ## Site Permissions - Microphone
+
+## Site Permissions - Speaker
+##
+## "Speaker" refers to an audio output device.
 
