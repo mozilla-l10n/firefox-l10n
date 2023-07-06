@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Aanbevolen functie
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Waarom zie ik dit?
+
 cfr-doorhanger-extension-cancel-button = Niet nu
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Nu toevoegen
     .accesskey = t
+
 cfr-doorhanger-extension-manage-settings-button = Instellingen voor aanbevelingen beheren
     .accesskey = I
+
 cfr-doorhanger-extension-never-show-recommendation = Deze aanbeveling niet tonen
     .accesskey = D
+
 cfr-doorhanger-extension-learn-more-link = Meer info
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = door { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Aanbeveling
 cfr-doorhanger-extension-notification2 = Aanbeveling
     .tooltiptext = Aanbeveling voor extensie
     .a11y-announcement = Aanbeveling voor extensie beschikbaar
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Aanbeveling
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Meer info
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nieuwe functie:
+
 cfr-whatsnew-button =
     .label = Wat is er nieuw
     .tooltiptext = Wat is er nieuw
+
 cfr-whatsnew-release-notes-link-text = Uitgaveopmerkingen lezen
 
 ## Enhanced Tracking Protection Milestones
@@ -108,13 +118,6 @@ cfr-doorhanger-doh-secondary-button = Uitschakelen
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Uw privacy is belangrijk. { -brand-short-name } isoleert, of sandboxt, websites nu van elkaar, waardoor het voor hackers moeilijker wordt om wachtwoorden, creditcardnummers en andere gevoelige informatie te stelen.
-cfr-doorhanger-fission-header = Website-isolatie
-cfr-doorhanger-fission-primary-button = OK, begrepen
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Meer info
-    .accesskey = M
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Video’s op deze website worden mogelijk in deze versie van { -brand-short-name } niet correct afgespeeld. Werk { -brand-short-name } nu bij voor volledige video-ondersteuning.
@@ -123,11 +126,6 @@ cfr-doorhanger-video-support-primary-button = Nu bijwerken
     .accesskey = w
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Meer info
-    .title = Uitvouwen voor meer info over de functie
-spotlight-learn-more-expanded = Meer info
-    .title = Sluiten
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -144,18 +142,6 @@ spotlight-public-wifi-vpn-link = Niet nu
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Maak een testrit in onze krachtigste
-    privacy-ervaring ooit
-spotlight-total-cookie-protection-body = Totale cookiebescherming voorkomt dat trackers cookies gebruiken om u stiekem op het internet te volgen.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } bouwt een hek rond cookies, waardoor ze worden beperkt tot de website waarop u zich bevindt, zodat trackers ze niet kunnen gebruiken om u te volgen. Als vroege gebruiker helpt u deze functie te optimaliseren, zodat we een beter internet voor iedereen kunnen blijven bouwen.
-spotlight-total-cookie-protection-primary-button = Totale cookiebescherming inschakelen
-spotlight-total-cookie-protection-secondary-button = Niet nu
 
 ## Emotive Continuous Onboarding
 
@@ -185,11 +171,13 @@ spotlight-pin-secondary-button = Niet nu
 
 mr2022-background-update-toast-title = Nieuwe { -brand-short-name }. Meer privé. Minder trackers. Geen compromissen.
 mr2022-background-update-toast-text = Probeer nu de nieuwste { -brand-short-name }, geüpgraded met onze krachtigste bescherming tegen volgen tot nu toe.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } nu openen
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,6 +196,7 @@ firefoxview-cfr-body-v2 = Ontvang onlangs gesloten tabbladen terug en schakel na
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Zeg hallo tegen { -firefoxview-brand-name }
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Behoefte aan dat open tabblad op uw telefoon? Pak het. Hebt u die website nodig die u net hebt bezocht? Poef, hij is terug met { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Zien hoe het werkt
@@ -217,6 +206,7 @@ firefoxview-spotlight-promo-secondarybutton = Overslaan
 
 colorways-cfr-primarybutton = Kleurstelling kiezen
     .accesskey = k
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Kleur uw browser met voor { -brand-short-name } exclusieve tinten, geïnspireerd door stemmen die de cultuur hebben veranderd.
 colorways-cfr-header-28days = Independent Voices-kleurstellingen verlopen op 16 januari
@@ -239,6 +229,7 @@ july-jam-headline = Bij ons bent u veilig
 july-jam-body = Elke maand blokkeert { -brand-short-name } gemiddeld meer dan 3.000 trackers per gebruiker, waardoor u veilig en snel toegang hebt tot het goede internet.
 july-jam-set-default-primary = Mijn koppelingen openen met { -brand-short-name }
 fox-doodle-pin-headline = Welkom terug
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Dit is een korte herinnering dat u uw favoriete indiebrowser op slechts één klik afstand kunt houden.

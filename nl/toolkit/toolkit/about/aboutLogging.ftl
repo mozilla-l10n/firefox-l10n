@@ -40,6 +40,7 @@ about-logging-preset-media-playback-label = Media afspelen
 about-logging-preset-media-playback-description = Logboekmodules om problemen met het afspelen van media te diagnosticeren (geen problemen met videoconferenties)
 about-logging-preset-custom-label = Aangepast
 about-logging-preset-custom-description = Logboekmodules handmatig geselecteerd
+
 # Error handling
 about-logging-error = Fout:
 
@@ -53,4 +54,5 @@ about-logging-unknown-profiler-preset = Onbekende voorinstelling voor profiler �
 about-logging-unknown-option = Onbekende about:logging-optie ‘{ $k }’
 about-logging-configuration-url-ignored = Configuratie-URL genegeerd
 about-logging-file-and-profiler-override = Kan niet tegelijkertijd bestandsuitvoer forceren en profileropties overschrijven
+
 about-logging-configured-via-url = Optie geconfigureerd via URL

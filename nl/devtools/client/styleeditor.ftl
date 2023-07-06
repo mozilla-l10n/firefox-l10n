@@ -20,7 +20,6 @@ styleeditor-save-button = Opslaan
     .accesskey = s
 styleeditor-options-button =
     .tooltiptext = Stijleditoropties
-styleeditor-media-rules = @media-regels
 styleeditor-at-rules = At-regels
 styleeditor-editor-textbox =
     .data-placeholder = Voer hier CSS in.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = S
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Er is geen overeenkomend stijlblad gevonden.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

@@ -34,15 +34,6 @@ about-networking-messages-received = Berichten ontvangen
 about-networking-bytes-sent = Bytes verzonden
 about-networking-bytes-received = Bytes ontvangen
 about-networking-logging = Logboekregistratie
-about-networking-log-tutorial =
-    Zie <a data-l10n-name="logging">HTTP logging</a>
-    voor instructies over het gebruik van dit hulpmiddel.
-about-networking-current-log-file = Huidige logbestand:
-about-networking-current-log-modules = Huidige logmodules:
-about-networking-set-log-file = Logbestand instellen
-about-networking-set-log-modules = Logmodules instellen
-about-networking-start-logging = Registratie starten
-about-networking-stop-logging = Registratie stoppen
 about-networking-dns-lookup = DNS-zoekactie
 about-networking-dns-lookup-button = Omzetten
 about-networking-dns-domain = Domein:

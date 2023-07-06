@@ -6,9 +6,11 @@ config-toolbar-search =
     .placeholder = Zoeken
 config-new-pref-name =
     .placeholder = Naam
+
 config-new-pref-value-boolean = Boolean
 config-new-pref-value-string = String
 config-new-pref-value-integer = Integer
+
 config-new-pref-string =
     .placeholder = Voer een string in
 config-new-pref-number =
@@ -16,8 +18,10 @@ config-new-pref-number =
 config-new-pref-cancel-button = Annuleren
 config-new-pref-create-button = Aanmaken
 config-new-pref-change-button = Wijzigen
+
 config-pref-toggle-button = Omschakelen
 config-pref-reset-button = Herinitialiseren
+
 config-context-menu-copy-pref-name =
     .label = Naam kopiëren
 config-context-menu-copy-pref-value =
