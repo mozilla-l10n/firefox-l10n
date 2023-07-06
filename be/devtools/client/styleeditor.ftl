@@ -20,7 +20,6 @@ styleeditor-save-button = Захаваць
     .accesskey = З
 styleeditor-options-button =
     .tooltiptext = Налады рэдактара стыляў
-styleeditor-media-rules = правілы @media
 styleeditor-at-rules = At-правілы
 styleeditor-editor-textbox =
     .data-placeholder = Набярыце CSS тут.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = с
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Адпаведная табліца стыляў не знойдзена.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

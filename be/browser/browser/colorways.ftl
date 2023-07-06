@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Незалежныя галасы
-colorway-collection-independent-voices-description = Колер можа змяніць культуру. Апошнія расфарбоўкі ўшаноўваюць галасы, што робяць свет лепшым.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Колеры, якія змяняюць культуру.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Стваральнік гульняў

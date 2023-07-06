@@ -22,18 +22,21 @@ download-ui-dont-quit-button =
         [mac] Не завяршаць
        *[other] Не выходзіць
     }
+
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Калі вы выйдзеце з сеткі зараз, 1 сцягванне будзе скасавана. Вы сапраўды жадаеце выйсці з сеткі?
        *[other] Калі вы выйдзеце з сеткі зараз, дык будуць скасаваны { $downloadsCount } загрузак(кі). Вы сапраўды жадаеце выйсці з сеткі?
     }
 download-ui-dont-go-offline-button = Застацца ў сетцы
+
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Калі вы зараз закрыеце ўсе вокны прыватнага аглядання, 1 сцягванне будзе скасавана. Вы сапраўды жадаеце выйсці з прыватнага аглядання?
        *[other] Калі вы зараз закрыеце ўсе вокны прыватнага аглядання, { $downloadsCount } сцягванняў будзе скасавана. Вы сапраўды жадаеце выйсці з прыватнага аглядання?
     }
 download-ui-dont-leave-private-browsing-button = Застацца ў прыватным агляданні
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Скасаваць 1 сцягванне

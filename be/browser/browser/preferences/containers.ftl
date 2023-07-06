@@ -2,14 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-containers-window-new =
-    .title = Дадаць новы кантэйнер
-    .style = width: 45em
-# Variables
-#   $name (String) - Name of the container
-containers-window-update-settings =
-    .title = Налады кантэйнера { $name }
-    .style = width: 45em
 containers-window-new2 =
     .title = Дадаць новы кантэйнер
     .style = min-width: 45em
@@ -18,8 +10,10 @@ containers-window-new2 =
 containers-window-update-settings2 =
     .title = Налады кантэйнера { $name }
     .style = min-width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -30,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = Назва
     .accesskey = Н
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Увядзіце назву кантэйнера
+
 containers-icon-label = Значок
     .accesskey = З
     .style = { -containers-labels-style }
+
 containers-color-label = Колер
     .accesskey = о
     .style = { -containers-labels-style }
+
 containers-dialog =
     .buttonlabelaccept = Гатова
     .buttonaccesskeyaccept = Г
+
 containers-color-blue =
     .label = Блакітны
 containers-color-turquoise =
@@ -62,6 +62,7 @@ containers-color-purple =
     .label = Фіялетавы
 containers-color-toolbar =
     .label = Дапасаваць да паліцы прылад
+
 containers-icon-fence =
     .label = Агароджа
 containers-icon-fingerprint =

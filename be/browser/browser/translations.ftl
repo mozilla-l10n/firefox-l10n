@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Перакласці гэту старонку
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Старонка перакладзена з { $fromLanguage } на { $toLanguage }
+
 urlbar-translations-button-loading =
     .tooltiptext = Ідзе пераклад
+
 translations-panel-settings-button =
     .aria-label = Кіраваць наладамі перакладу
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Кіраванне мовамі
 translations-panel-settings-about = Пра пераклад у { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Заўсёды перакладаць { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Заўсёды перакладаць з гэтай мовы
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Ніколі не перакладаць { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Ніколі не перакладаць з гэтай мовы
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Ніколі не перакладаць гэты сайт
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Пачакайце, калі ласка…
 translations-panel-translate-cancel =
     .label = Скасаваць
+
 translations-panel-error-translating = Узнікла праблема з перакладам. Калі ласка, паспрабуйце яшчэ раз.
 translations-panel-error-load-languages = Не ўдалося загрузіць мовы
 translations-panel-error-load-languages-hint = Праверце злучэнне з Інтэрнэтам і паўтарыце спробу.
 translations-panel-error-load-languages-hint-button =
     .label = Паспрабаваць зноў
+
 translations-panel-error-unsupported = Для гэтай старонкі пераклад недаступны
 translations-panel-error-dismiss-button =
     .label = Зразумела
@@ -119,6 +128,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Пры сцягванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-delete = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-list = Не ўдалося атрымаць спіс даступных моў для перакладу. Абнавіце старонку, каб паўтарыць спробу.
+
 translations-settings-title =
     .title = Налады перакладу
     .style = min-width: 36em

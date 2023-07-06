@@ -132,12 +132,6 @@ about-telemetry-category-header = катэгорыя
 about-telemetry-method-header = метад
 about-telemetry-object-header = аб'ект
 about-telemetry-extra-header = дадаткова
-about-telemetry-origin-section = Тэлеметрыя крыніц
-about-telemetry-origin-origin = крыніца
-about-telemetry-origin-count = колькасць
-# Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Тэлеметрыя крыніц Firefox</a> кадуе звесткі перад перадачай, таму { $telemetryServerOwner } можа палічыць рэчы, не ведаючы, ці зрабіў пэўны { -brand-product-name } унёсак у гэту лічбу. (<a data-l10n-name="prio-blog-link">даведацца больш</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Працэс { $process }
