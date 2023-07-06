@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Exceptions
-    .style = width: 50em
 permissions-window2 =
     .title = Exceptions
     .style = min-width: 50em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresse du site web
     .accesskey = d
+
 permissions-block =
     .label = Bloquer
     .accesskey = B
+
 permissions-disable-etp =
     .label = Ajouter une exception
     .accesskey = A
+
 permissions-session =
     .label = Autoriser pour la session
     .accesskey = o
+
 permissions-allow =
     .label = Autoriser
     .accesskey = A
+
 permissions-button-off =
     .label = Désactiver
     .accesskey = D
+
 permissions-button-off-temporarily =
     .label = Désactiver temporairement
     .accesskey = t
+
 permissions-site-name =
     .label = Site web
+
 permissions-status =
     .label = État
+
 permissions-remove =
     .label = Supprimer le site
     .accesskey = S
+
 permissions-remove-all =
     .label = Supprimer tous les sites
     .accesskey = u
+
 permission-dialog =
     .buttonlabelaccept = Enregistrer les modifications
     .buttonaccesskeyaccept = E
+
 permissions-autoplay-menu = Par défaut pour tous les sites web :
+
 permissions-searchbox =
     .placeholder = Rechercher un site web
+
 permissions-capabilities-autoplay-allow =
     .label = Autoriser l’audio et la vidéo
 permissions-capabilities-autoplay-block =
     .label = Bloquer l’audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquer l’audio et la vidéo
+
 permissions-capabilities-allow =
     .label = Autoriser
 permissions-capabilities-block =
     .label = Bloquer
 permissions-capabilities-prompt =
     .label = Toujours demander
+
 permissions-capabilities-listitem-allow =
     .value = Autoriser
 permissions-capabilities-listitem-block =
     .value = Bloquer
 permissions-capabilities-listitem-allow-session =
     .value = Autoriser pour la session
+
 permissions-capabilities-listitem-off =
     .value = Désactivé
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Veuillez saisir un nom d’hôte valide
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Exceptions pour la protection renforcée contre le pistage
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Vous avez désactivé les protections sur ces sites web.
 permissions-exceptions-etp-window2 =
     .title = Exceptions pour la protection renforcée contre le pistage
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Vous pouvez indiquer les sites web pour
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Exceptions - Cookies et données de sites
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Exceptions - Cookies et données de sites
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Vous pouvez indiquer les sites web qui sont
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Exceptions - Mode HTTPS uniquement
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Exceptions - Mode HTTPS uniquement
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Vous pouvez désactiver le mode HTTPS u
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Sites autorisés - Popups
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Sites autorisés - Popups
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Vous pouvez indiquer les sites web autorisé
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Exceptions - Enregistrement des identifiants
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Exceptions - Enregistrement des identifiants
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Les identifiants pour les sites suiva
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Sites autorisés - Modules complémentaires
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Sites autorisés - Modules complémentaires
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Vous pouvez indiquer les sites web autoris�
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Paramètres - Lecture automatique
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Paramètres - Lecture automatique
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Vous pouvez gérer ici les sites qui ne suivent
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Paramètres - Permissions pour les notifications
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Paramètres - Permissions pour les notifications
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Cela empêchera tous les sites web 
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Paramètres - Permissions pour la localisation
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Paramètres - Permissions pour la localisation
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Cela empêchera tous les sites web non 
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Paramètres - Autorisations de réalité virtuelle
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Paramètres - Autorisations de réalité virtuelle
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Cela empêchera tous les sites web non listé
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Paramètres - Permissions pour la caméra
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Paramètres - Permissions pour la caméra
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Cela empêchera tous les sites web non li
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Paramètres - Permissions pour le microphone
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Paramètres - Permissions pour le microphone
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Paramètres - Permissions pour les haut-parleurs
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Les sites web suivants ont demandé à sélectionner un périphérique de sortie audio. Vous pouvez décider quels sites web sont autorisés à sélectionner un périphérique de sortie audio.
+
 permissions-exceptions-doh-window =
     .title = Exceptions au DNS via HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } n’utilisera pas le DNS sécurisé sur ces sites et leurs sous-domaines.
+
 permissions-doh-entry-field = Saisissez le nom de domaine du site web
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = Ajouter
     .accesskey = A
+
 permissions-doh-col =
     .label = Domaine
+
 permissions-doh-remove =
     .label = Supprimer
     .accesskey = S
+
 permissions-doh-remove-all =
     .label = Tout supprimer
     .accesskey = T

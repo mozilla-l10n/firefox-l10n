@@ -14,6 +14,7 @@ xpinstall-prompt-message = Vous essayez d’installer un module complémentaire 
 
 xpinstall-prompt-header-unknown = Autoriser un site inconnu à installer un module complémentaire ?
 xpinstall-prompt-message-unknown = Vous essayez d’installer un module complémentaire depuis un site inconnu. Assurez-vous qu’il s’agit d’un site digne de confiance avant de continuer.
+
 xpinstall-prompt-dont-allow =
     .label = Ne pas autoriser
     .accesskey = N
@@ -44,6 +45,7 @@ xpinstall-disabled = L’installation de logiciels est actuellement désactivée
 xpinstall-disabled-button =
     .label = Activer
     .accesskey = v
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) est bloqué par 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Votre administrateur système a empêché ce site d’installer un logiciel sur votre ordinateur.
 addon-install-full-screen-blocked = L’installation de modules complémentaires n’est pas autorisée pendant ou avant le passage en mode plein écran.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } a été ajouté à { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } demande de nouvelles permissions
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Supprimer { $name } ?
 addon-removal-message = Supprimer { $name } de { -brand-shorter-name } ?
 addon-removal-button = Supprimer
 addon-removal-abuse-report-checkbox = Signaler cette extension à { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,6 +86,7 @@ addon-downloading-and-verifying =
        *[other] Téléchargement et vérification de { $addonCount } modules…
     }
 addon-download-verifying = Vérification en cours
+
 addon-install-cancel-button =
     .label = Annuler
     .accesskey = n

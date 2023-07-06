@@ -17,13 +17,6 @@ firefox-relay-must-login-to-fxa = Vous devez vous connecter à votre { -fxaccoun
 firefox-relay-get-unlimited-masks =
     .label = Gérer les alias de messagerie
     .accesskey = G
-firefox-relay-opt-in-title = Protégez votre adresse e-mail
-firefox-relay-opt-in-subtitle = Installer { -relay-brand-name }
-firefox-relay-generate-mask-title = Protégez votre adresse e-mail
-firefox-relay-generate-mask-subtitle = Générer un alias { -relay-brand-short-name }
-firefox-relay-opt-in-confirmation-enable =
-    .label = Continuer
-    .accesskey = C
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Protégez votre adresse e-mail :
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

@@ -44,6 +44,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Modules de journalisation pour diagnostiquer les appels WebRTC
 about-logging-preset-custom-label = Personnalisé
 about-logging-preset-custom-description = Modules de journalisation sélectionnés manuellement
+
 # Error handling
 about-logging-error = Erreur :
 
@@ -57,4 +58,5 @@ about-logging-unknown-profiler-preset = Réglage du profileur « { $v } » inc
 about-logging-unknown-option = Option « { $k } » pour about:logging inconnue
 about-logging-configuration-url-ignored = URL de configuration ignorée
 about-logging-file-and-profiler-override = Impossible de forcer la sortie du fichier et de remplacer les options du profileur en même temps
+
 about-logging-configured-via-url = Option configurée par URL
