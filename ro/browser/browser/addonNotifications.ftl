@@ -14,6 +14,7 @@ xpinstall-prompt-message = Încerci să instalezi un supliment de la { $host }. 
 
 xpinstall-prompt-header-unknown = Permiți unui site necunoscut să instaleze un supliment?
 xpinstall-prompt-message-unknown = Încerci să instalezi un supliment de pe un site necunoscut. Asigură-te că site-ul e de încredere înainte de a continua.
+
 xpinstall-prompt-dont-allow =
     .label = Nu permite
     .accesskey = D
@@ -37,12 +38,14 @@ xpinstall-disabled = Instalarea de programe este dezactivată în prezent. Dă c
 xpinstall-disabled-button =
     .label = Activează
     .accesskey = n
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) este blocat de administratorul de sistem.
 addon-install-full-screen-blocked = Instalarea de suplimente nu este permisă cât timp ești sau înainte de a intra în modul de afișare pe tot ecranul.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } adăugat în { -brand-short-name }
@@ -60,6 +63,7 @@ addon-removal-title = Elimini { $name }?
 addon-removal-message = Elimini { $name } din { -brand-shorter-name }?
 addon-removal-button = Elimină
 addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -69,6 +73,7 @@ addon-downloading-and-verifying =
        *[other] Se descarcă și se verifică { $addonCount } de suplimente…
     }
 addon-download-verifying = Se verifică
+
 addon-install-cancel-button =
     .label = Renunță
     .accesskey = C

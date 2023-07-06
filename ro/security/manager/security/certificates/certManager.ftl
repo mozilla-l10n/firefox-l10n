@@ -25,10 +25,6 @@ certmgr-remembered = Aceste certificate sunt folosite pentru a te identifica pe 
 certmgr-people = Ai stocate certificate care identifică aceste persoane
 certmgr-ca = Ai stocate certificate care identifică aceste autorități de certificare
 
-certmgr-edit-ca-cert =
-    .title = Editează setările certificatului de încredere AC
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Editează setările certificatului de încredere AC
     .style = min-width: 48em;
@@ -40,10 +36,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Acest certificat poate identifica utilizatori de e-mail.
-
-certmgr-delete-cert =
-    .title = Șterge certificatul
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Șterge certificatul
@@ -57,9 +49,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Server
-
-certmgr-override-lifetime =
-    .label = Durată de viață
 
 certmgr-token-name =
     .label = Dispozitiv de securitate

@@ -5,39 +5,6 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
-#
-# default - "Mozilla Firefox"
-# private - "Mozilla Firefox (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } (Navigare privată)
-    .data-content-title-default = { $content-title } - { -brand-full-name }
-    .data-content-title-private = { $content-title } - { -brand-full-name } (Navigare privată)
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox — (Private Browsing)"
-#
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
-#
-# Also note the other subtle difference here: we use a `-` to separate the
-# brand name from `(Private Browsing)`, which does not happen on other OSes.
-#
-# Variables:
-#  $content-title (String): the title of the web content.
-browser-main-window-mac =
-    .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (Navigare privată)
-    .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (Navigare privată)
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -73,16 +40,12 @@ urlbar-xr-notification-anchor =
     .tooltiptext = Deschide panoul de permisiuni pentru realitate virtuală
 urlbar-storage-access-anchor =
     .tooltiptext = Deschide panoul de permisiuni pentru activitatea de navigare
-urlbar-translate-notification-anchor =
-    .tooltiptext = Tradu această pagină
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Gestionează partajarea ferestrelor sau a ecranului cu site-ul
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje despre stocarea în modul offline
 urlbar-password-notification-anchor =
     .tooltiptext = Deschide panoul cu mesaje despre salvarea parolelor
-urlbar-translated-notification-anchor =
-    .tooltiptext = Gestionează traducerea paginii
 urlbar-plugins-notification-anchor =
     .tooltiptext = Gestionează utilizarea pluginurilor
 urlbar-web-rtc-share-devices-notification-anchor =
@@ -109,6 +72,7 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrii mai puțin, găsești mai multe: caută cu { $engineName } direct în bara de adrese.
 urlbar-search-tips-redirect-2 = Începe căutarea în bara de adrese ca să vezi sugestii de la { $engineName } și din istoricul tău de navigare.
+
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selectează această comandă rapidă pentru a găsi mai repede ceea ce ai nevoie.
@@ -146,21 +110,18 @@ urlbar-midi-blocked =
     .tooltiptext = Ai blocat accesul MIDI pentru acest site web.
 urlbar-install-blocked =
     .tooltiptext = Ai blocat suplimentele instalate pentru acest site web.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editează acest marcaj ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = Marchează pagina ({ $shortcut })
 
 ## Page Action Context Menu
-
-page-action-manage-extension =
-    .label = Gestionează extensia…
-page-action-remove-extension =
-    .label = Elimină extensia
 
 ## Auto-hide Context Menu
 
@@ -176,8 +137,10 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = De data aceasta, caută cu:
+
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Schimbă setările de căutare
+
 search-one-offs-context-open-new-tab =
     .label = Caută într-o filă nouă
     .accesskey = T
@@ -187,12 +150,14 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Setează ca motor de căutare implicit în ferestre private
     .accesskey = P
+
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
+
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -228,20 +193,27 @@ search-one-offs-actions =
 
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Vezi suplimentele
+
 # Opens about:addons page in the extensions section
 quickactions-extensions = Gestionează extensiile
 quickactions-cmd-extensions = extensii
+
 quickactions-cmd-refresh = reîmprospătează
+
 # Restarts the browser
 quickactions-restart = Repornește { -brand-short-name }
 quickactions-cmd-restart = repornește
+
 # Opens the screenshot tool
 quickactions-screenshot3 = Realizează o captură de ecran
+
 # Opens about:addons page in the themes section
 quickactions-themes = Gestionează temele
 quickactions-cmd-themes = teme
+
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Vezi sursa paginii
+
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Află mai multe despre acțiunile rapide
@@ -268,6 +240,7 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Salvează
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -295,17 +268,19 @@ identity-passive-loaded = Unele părți din pagină nu sunt sigure (cum ar fi im
 identity-active-loaded = Ai dezactivat protecția pe această pagină.
 identity-weak-encryption = Această pagină folosește criptare slabă.
 identity-insecure-login-forms = Datele de autentificare introduse pe această pagină ar putea fi compromise.
+
 identity-https-only-label = Mod numai HTTPS
 identity-https-only-info-turn-on2 = Activează modul numai HTTPS pentru acest site dacă vrei ca { -brand-short-name } să actualizeze conexiunea atunci când este posibil.
+
 identity-permissions-storage-access-header = Cookie-uri inter-site-uri
 identity-permissions-storage-access-learn-more = Află mai multe
+
 identity-permissions-reload-hint = Ar putea fi nevoie să reîncarci pagina pentru a aplica modificările.
 identity-clear-site-data =
     .label = Șterge cookie-urile și datele site-urilor…
 identity-connection-not-secure-security-view = Nu ești conectat în mod securizat la acest site.
 identity-connection-verified = Ești conectat în mod securizat la acest site.
 identity-ev-owner-label = Certificat emis către:
-identity-description-custom-root = Mozilla nu recunoaște acest emițător de certificate. Este posibil să fi fost adăugat de sistemul tău de operare sau de un administrator. <label data-l10n-name="link">Află mai multe</label>
 identity-description-custom-root2 = Mozilla nu recunoaște acest emițător de certificate. Este posibil să fi fost adăugat de sistemul tău de operare sau de un administrator.
 identity-remove-cert-exception =
     .label = Elimină excepția
@@ -314,17 +289,12 @@ identity-description-insecure = Conexiunea la acest site nu este privată. Infor
 identity-description-insecure-login-forms = Informațiile de autentificare pe care le introduci pe această pagină nu sunt securizate și pot fi compromise.
 identity-description-weak-cipher-intro = Conexiunea la acest site web folosește criptare slabă și nu este privată.
 identity-description-weak-cipher-risk = Alte persoane îți pot vedea informațiile sau pot modifica comportamentul site-ului web.
-identity-description-active-blocked = { -brand-short-name } a blocat părți ale acestei pagini care nu sunt sigure. <label data-l10n-name="link">Află mai multe</label>
 identity-description-active-blocked2 = { -brand-short-name } a blocat părți ale acestei pagini care nu sunt sigure.
 identity-description-passive-loaded = Conexiunea nu este privată și informațiile pe care le partajezi cu acest site pot fi văzute de alții.
-identity-description-passive-loaded-insecure = Acest site web are conținut care nu este sigur (cum ar fi imaginile). <label data-l10n-name="link">Află mai multe</label>
-identity-description-passive-loaded-mixed = Deși { -brand-short-name } a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile). <label data-l10n-name="link">Află mai multe</label>
 identity-description-passive-loaded-insecure2 = Acest site web are conținut care nu este sigur (cum ar fi imaginile).
 identity-description-passive-loaded-mixed2 = Deși { -brand-short-name } a blocat o parte din conținut, mai există conținut pe pagină care nu este sigur (cum ar fi imaginile).
 identity-description-active-loaded = Acest site web are conținut care nu este sigur (cum ar fi scripturile), iar conexiunea ta la acesta nu este privată.
 identity-description-active-loaded-insecure = Informațiile pe care le partajezi cu site-ul ar putea fi văzute de alții (cum ar fi parolele, mesajele, cardurile de credit, etc.).
-identity-learn-more =
-    .value = Află mai multe
 identity-disable-mixed-content-blocking =
     .label = Dezactivează protecția deocamdată
     .accesskey = D
@@ -376,14 +346,13 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Pentru a folosi comanda rapidă F12, deschide mai întâi DevTools prin intermediul meniului Dezvoltator web.
-
 ## URL Bar
 
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Caută sau introdu adresa
+
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -392,6 +361,7 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Caută pe web
     .aria-label = Caută cu { $name }
+
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -400,29 +370,36 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută { $name }
+
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută în marcaje
+
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută în istoric
+
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Introdu termenii de căutare
     .aria-label = Caută file
+
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Caută cu { $name } sau introdu adresa
+
 urlbar-permissions-granted =
     .tooltiptext = Ai acordat permisiuni suplimentare acestui site web.
 urlbar-switch-to-tab =
     .value = Comută pe filă:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
+
 urlbar-go-button =
     .tooltiptext = Mergi la adresa din bara de adrese
 urlbar-page-action-button =
@@ -491,9 +468,12 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> este acum în modul ecran complet
 fullscreen-warning-no-domain = Acest document este acum în ecran complet
+
+
 fullscreen-exit-button = Ieși din modul ecran complet (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Ieși din modul ecran complet (esc)
+
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
@@ -501,9 +481,6 @@ pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> co
 pointerlock-warning-no-domain = Documentul controlează acum cursorul. Apasă Esc pentru a prelua controlul.
 
 ## Subframe crash notification
-
-crashed-subframe-learnmore-link =
-    .value = Află mai multe
 
 ## Bookmarks panels, menus and toolbar
 
@@ -556,8 +533,7 @@ bookmarks-search =
     .label = Caută în marcaje
 bookmarks-tools =
     .label = Instrumente pentru marcaje
-bookmarks-bookmark-edit-panel =
-    .label = Editează acest marcaj
+
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -571,9 +547,7 @@ bookmarks-toolbar-placeholder =
     .title = Elemente pe bara de marcaje
 bookmarks-toolbar-placeholder-button =
     .label = Elemente pe bara de marcaje
-# "Bookmark" is a verb, as in "Add current tab to bookmarks".
-bookmarks-current-tab =
-    .label = Marchează fila actuală
+
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Marchează fila actuală…
@@ -598,11 +572,6 @@ repair-text-encoding-button =
 ## Customize Toolbar Buttons
 
 # Variables:
-#  $shortcut (String): keyboard shortcut to open the add-ons manager
-toolbar-addons-themes-button =
-    .label = Suplimente și teme
-    .tooltiptext = Gestionează-ți suplimentele și temele ({ $shortcut })
-# Variables:
 #  $shortcut (String): keyboard shortcut to open settings (only on macOS)
 toolbar-settings-button =
     .label = Setări
@@ -611,25 +580,31 @@ toolbar-settings-button =
             [macos] Deschide setările ({ $shortcut })
            *[other] Deschide setările
         }
+
 toolbar-overflow-customize-button =
     .label = Personalizează bara de instrumente…
     .accesskey = C
+
 toolbar-button-email-link =
     .label = Trimite e-mail cu linkul
     .tooltiptext = Trimite un e-mail cu linkul către acestă pagină
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Salvează pagina
     .tooltiptext = Salvează această pagină ({ $shortcut })
+
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Deschide fișier
     .tooltiptext = Deschide un fișier ({ $shortcut })
+
 toolbar-button-synced-tabs =
     .label = File sincronizate
     .tooltiptext = Afișează file de pe alte dispozitive
+
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -650,11 +625,6 @@ panel-save-update-password = Parolă
 
 ## Add-on removal warning
 
-# Variables:
-#  $name (String): The name of the addon that will be removed.
-addon-removal-title = Elimini { $name }?
-addon-removal-abuse-report-checkbox = Raportează această extensie la { -vendor-short-name }
-
 ##
 
 ui-tour-info-panel-close =
@@ -666,6 +636,7 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Permite ferestre pop-up pentru { $uriHost }
     .accesskey = p
+
 popups-infobar-block =
     .label = Blochează ferestrele pop-up pentru { $uriHost }
     .accesskey = p
@@ -675,9 +646,11 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Nu afișa acest mesaj când sunt blocate ferestre pop-up
     .accesskey = D
+
 edit-popup-settings =
     .label = Gestionează setările ferestrelor pop-up…
     .accesskey = M
+
 picture-in-picture-hide-toggle =
     .label = Ascunde comutatorul Picture-in-Picture
     .accesskey = H
@@ -696,32 +669,39 @@ picture-in-picture-hide-toggle =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigare
+
 navbar-downloads =
     .label = Descărcări
+
 navbar-overflow =
     .tooltiptext = Mai multe instrumente…
+
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Tipărește
     .tooltiptext = Tipărește pagina… ({ $shortcut })
+
 navbar-home =
     .label = Pagină de start
     .tooltiptext = Pagina de start { -brand-short-name }
+
 navbar-library =
     .label = Bibliotecă
     .tooltiptext = Vezi istoricul, marcajele salvate și multe altele
+
 navbar-search =
     .title = Caută
-navbar-accessibility-indicator =
-    .tooltiptext = Funcții de accesibilitate activate
+
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Filele browserului
+
 tabs-toolbar-new-tab =
     .label = Filă nouă
+
 tabs-toolbar-list-all-tabs =
     .label = Listează toate filele
     .tooltiptext = Listează toate filele
@@ -751,10 +731,14 @@ unified-extensions-button-permissions-needed =
         Extensii
         Permisiuni necesare
 
+## Unified extensions button when some extensions are quarantined.
+## Note that the new line is intentionally part of the tooltip.
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } a împiedicat această pagină să se reîncarce automat.
 refresh-blocked-redirect-label = { -brand-short-name } a împiedicat această pagină să redirecționeze automat la altă pagină.
+
 refresh-blocked-allow =
     .label = Permite
     .accesskey = A
@@ -800,6 +784,7 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
+
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

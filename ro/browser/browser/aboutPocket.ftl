@@ -25,7 +25,6 @@ pocket-panel-saved-save-tags = Salvează
 pocket-panel-saved-saving-tags = Se salvează...
 pocket-panel-saved-suggested-tags = Etichete sugerate
 pocket-panel-saved-tags-saved = Etichete adăugate
-pocket-panel-signup-view-list = Vezi lista
 
 ## about:pocket-signup panel
 

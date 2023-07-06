@@ -4,12 +4,14 @@
 
 about-reader-loading = Se încarcă…
 about-reader-load-error = Imposibil de încărcat articolul de la pagina
+
 about-reader-color-scheme-light = Luminos
     .title = Paletă de culori deschise
 about-reader-color-scheme-dark = Întunecat
     .title = Paletă de culori întunecate
 about-reader-color-scheme-sepia = Sepia
     .title = Paletă de culori sepia
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

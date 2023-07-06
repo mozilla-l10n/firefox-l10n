@@ -14,13 +14,6 @@ onboarding-welcome-header = Bun venit în { -brand-short-name }
 onboarding-start-browsing-button-label = Începe să navighezi
 onboarding-not-now-button-label = Nu acum
 mr1-onboarding-get-started-primary-button-label = Începe
-mr1-onboarding-welcome-header = Bun venit în { -brand-short-name }
-mr1-onboarding-set-default-pin-primary-button-label = Desemnează { -brand-short-name } ca browserul meu principal
-    .title = Setează { -brand-short-name } drept browser implict și fixează în bara de activități
-# This string will be used on welcome page primary button label
-# when Firefox is not default but already pinned
-mr1-onboarding-set-default-only-primary-button-label = Desemnează { -brand-short-name } ca browserul meu implicit
-mr1-onboarding-set-default-secondary-button-label = Nu acum
 
 ## Custom Return To AMO onboarding strings
 
@@ -43,13 +36,6 @@ mr1-return-to-amo-subtitle = Salută { -brand-short-name }
 # Variables:
 #   $current (Int) - Number of the current page
 #   $total (Int) - Total number of pages
-onboarding-welcome-steps-indicator =
-    .aria-label = Noțiuni introductive: ecran { $current } din { $total }
-
-# Aria-label to make the "steps" of multistage onboarding visible to screen readers.
-# Variables:
-#   $current (Int) - Number of the current page
-#   $total (Int) - Total number of pages
 
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = Dezactivează animațiile
@@ -58,28 +44,11 @@ mr1-onboarding-reduce-motion-button-label = Dezactivează animațiile
 ## match the OS' application context menu item action where Windows uses "pin"
 ## and "taskbar" while macOS "keep" and "Dock" (proper noun).
 
-# Title used on welcome page when Firefox is not pinned
-mr1-onboarding-pin-header =
-    { PLATFORM() ->
-        [macos] Păstrează { -brand-short-name } în Dock pentru acces facil
-       *[other] Fixează { -brand-short-name } în bara de activități pentru acces facil
-    }
-# Primary button string used on welcome page when Firefox is not pinned.
-mr1-onboarding-pin-primary-button-label =
-    { PLATFORM() ->
-        [macos] Păstrează în Dock
-       *[other] Fixează în bara de activități
-    }
-
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
 
 ## Title, subtitle and primary button string used on set default onboarding screen
 ## when Firefox is not default browser
-
-mr1-onboarding-default-header = Desemnează { -brand-short-name } ca browser implicit
-mr1-onboarding-default-subtitle = Pune viteza, siguranța și confidențialitatea pe pilot automat.
-mr1-onboarding-default-primary-button-label = Desemnează ca browser implicit
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
@@ -87,14 +56,13 @@ mr1-onboarding-default-primary-button-label = Desemnează ca browser implicit
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = Importă din { $previous }{ $previous }
-# This string will be used in cases where we can't detect the previous browser name.
-mr1-onboarding-import-primary-button-label-no-attribution = Importă dintr-un browser anterior
-mr1-onboarding-import-secondary-button-label = Nu acum
+
 mr1-onboarding-theme-subtitle = Personalizează { -brand-short-name } cu o temă.
-mr1-onboarding-theme-primary-button-label = Salvează tema
 mr1-onboarding-theme-secondary-button-label = Nu acum
+
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = Tema sistemului
+
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = Alpenglow
 
@@ -108,6 +76,7 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         Urmează tema sistemului de operare
         pentru butoane, meniuri și ferestre.
+
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
@@ -136,13 +105,18 @@ mr2-onboarding-start-browsing-button-label = Începe să navighezi
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = Alege-ți limba
+
 mr2022-onboarding-live-language-text = { -brand-short-name } vorbește pe limba ta
+
 mr2022-language-mismatch-subtitle = Mulțumită comunității noastre, { -brand-short-name } este tradus în peste 90 de limbi. Se pare că sistemul folosește { $systemLanguage }, iar { -brand-short-name } folosește { $appLanguage }.
+
 onboarding-live-language-button-label-downloading = Se descarcă pachetul lingvistic pentru { $negotiatedLanguage }…
 onboarding-live-language-waiting-button = Se obțin limbile disponibile…
 onboarding-live-language-installing = Se instalează pachetul lingvistic pentru { $negotiatedLanguage }…
+
 mr2022-onboarding-live-language-switch-to = Comută pe { $negotiatedLanguage }
 mr2022-onboarding-live-language-continue-in = Continuă în { $appLanguage }
+
 onboarding-live-language-secondary-cancel-download = Renunță
 onboarding-live-language-skip-button-label = Omite
 
@@ -154,11 +128,13 @@ fx100-thank-you-pin-primary-button-label =
         [macos] Păstrează { -brand-short-name } în Dock
        *[other] Fixează { -brand-short-name } în bara de activități
     }
+
 # Message shown with a start-browsing button. Emphasis <em> should be for "you"
 # but "Thank" can be used instead if there's no "you" in the translation.
 fx100-upgrade-thank-you-body = Este versiunea noastră cu numărul 100 a { -brand-short-name }. <em>Îți mulțumim</em> că ne ajuți să construim un internet mai bun și mai sănătos.
 # Message shown with either a pin-to-taskbar or set-default button.
 fx100-upgrade-thanks-keep-body = Este versiunea noastră cu numărul 100! Îți mulțumim că faci parte din comunitatea noastră. Păstrează { -brand-short-name } la un clic distanță pentru următoarele 100.
+
 mr2022-onboarding-secondary-skip-button-label = Omite acest pas
 
 ## MR2022 New User Easy Setup screen strings

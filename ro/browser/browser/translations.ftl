@@ -5,8 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Tradu această pagină
+
 translations-panel-settings-button =
     .aria-label = Gestionează setările de traducere
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -18,6 +20,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gestionează limbile
 translations-panel-settings-about = Despre traduceri în { -brand-shorter-name }
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -25,6 +28,7 @@ translations-panel-settings-always-translate-language =
     .label = Tradu întotdeauna { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Tradu întotdeauna această limbă
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -32,6 +36,7 @@ translations-panel-settings-never-translate-language =
     .label = Nu tradu niciodată { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nu tradu niciodată această limbă
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nu tradu niciodată acest site
@@ -46,11 +51,13 @@ translations-panel-translate-button-loading =
     .label = Te rugăm să aștepți…
 translations-panel-translate-cancel =
     .label = Renunță
+
 translations-panel-error-translating = A apărut o problemă la traducere. Te rugăm să încerci din nou.
 translations-panel-error-load-languages = Nu s-au putut încărca limbile
 translations-panel-error-load-languages-hint = Verifică conexiunea la internet și încearcă din nou.
 translations-panel-error-load-languages-hint-button =
     .label = Încearcă din nou
+
 translations-panel-error-unsupported = Traducerea nu este disponibilă pentru această pagină
 translations-panel-error-dismiss-button =
     .label = Am înțeles
@@ -108,6 +115,7 @@ translations-manage-language-delete-button =
 translations-manage-error-download = A apărut o problemă la descărcarea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-delete = A apărut o problemă la ștergerea fișierelor lingvistice. Te rugăm să încerci din nou.
 translations-manage-error-list = Nu s-a putut obține lista de limbi disponibile pentru traducere. Reîmprospătează pagina pentru a încerca din nou.
+
 translations-settings-title =
     .title = Setări pentru traducere
     .style = min-width: 37em

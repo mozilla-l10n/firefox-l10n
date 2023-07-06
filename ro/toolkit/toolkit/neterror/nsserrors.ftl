@@ -7,15 +7,6 @@
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
 # refactoring them in some way, the script will need updating.
 
-# Variables:
-# $hostname (String) - Hostname of the website with SSL error.
-# $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
-ssl-connection-error = A apărut o eroare în timpul conectării la { $hostname }. { $errorMessage }
-
-# Variables:
-# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
-cert-error-code-prefix = Codul erorii: { $error }
-
 psmerr-ssl-disabled = Nu se poate stabili o conexiune securizată deoarece protocolul SSL a fost dezactivat.
 psmerr-ssl2-disabled = Nu se poate stabili o conexiune securizată deoarece site-ul folosește o versiune mai veche, nesigură, a protocolului SSL.
 
@@ -161,6 +152,7 @@ ssl-error-no-supported-signature-algorithm = Nu a fost configurat niciun algorit
 ssl-error-unsupported-signature-algorithm = Serverul a folosit o combinație fără suport de algoritmi de semnătură și hash.
 ssl-error-missing-extended-master-secret = Serverul a încercat să reia conexiunea fără o extensie corectă extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Serverul a încercat să reia cu o extensie neașteptată extended_master_secret.
+
 sec-error-io = A intervenit o eroare I/O în timpul autorizării securizate.
 sec-error-library-failure = eroare a bibliotecii de securitate.
 sec-error-bad-data = biblioteca de securitate: s-au primit date greșite.
@@ -211,14 +203,6 @@ sec-error-pkcs7-keyalg-mismatch = Nu se poate decripta: cheia algoritmului de cr
 sec-error-pkcs7-bad-signature = Verificarea semnăturii a eșuat: nu s-a găsit niciun semnatar, au fost găsiți prea mulți sau datele sunt incorecte sau corupte.
 sec-error-unsupported-keyalg = Algoritm de criptare nesuportat sau necunoscut.
 sec-error-decryption-disallowed = Nu se poate decripta: criptat cu ajutorul unui algoritm nepermis sau o mărime nepermisă de cheie.
-xp-sec-fortezza-bad-card = Cardul Fortezza nu a fost inițializat corect. Te rugăm să-l elimini și să-l înapoiezi persoanei care l-a emis.
-xp-sec-fortezza-no-card = Nu a fost găsit niciun card Fortezza
-xp-sec-fortezza-none-selected = Nu a fost selectat niciun card Fortezza
-xp-sec-fortezza-more-info = Te rugăm să selectezi o personalitate pentru mai multe informații
-xp-sec-fortezza-person-not-found = Personalitatea nu a fost găsită
-xp-sec-fortezza-no-more-info = Nu sunt alte informații despre această personalitate
-xp-sec-fortezza-bad-pin = Pin nevalid
-xp-sec-fortezza-person-error = Nu se pot inițializa personalitățile Fortezza.
 sec-error-no-krl = Niciun KRL pentru certificatul acestui site nu s-a găsit.
 sec-error-krl-expired = KRL-ul pentru certificatul acestui site a expirat.
 sec-error-krl-bad-signature = KRL-ul pentru certificatul acestui site are o semnătură nevalidă.
@@ -233,9 +217,6 @@ sec-error-cert-nickname-collision = Există deja un certificat cu același pseud
 sec-error-key-nickname-collision = Există deja o cheie cu același pseudonim.
 sec-error-safe-not-created = eroare în timpul creării obiectului sigur
 sec-error-baggage-not-created = eroare în timpul creării obiectului bagaj
-xp-java-remove-principal-error = Nu se poate elimina principalul
-xp-java-delete-privilege-error = Nu s-a putut șterge privilegiul
-xp-java-cert-not-exists-error = Acest principal nu are un certificat
 sec-error-bad-export-algorithm = Algoritmul cerut nu este permis.
 sec-error-exporting-certificates = Eroare la încercarea de export a certificatelor.
 sec-error-importing-certificates = Eroare la încercarea de import a certificatelor.
@@ -338,6 +319,7 @@ sec-error-locked-password = Parola e blocată.
 sec-error-unknown-pkcs11-error = Eroare PKCS #11 necunoscută.
 sec-error-bad-crl-dp-url = URL nevalid sau fără suport în denumirea punctului de distribuție CRL.
 sec-error-cert-signature-algorithm-disabled = The certificate was signed using an signature algorithm that is disabled because it is not secure.
+
 mozilla-pkix-error-key-pinning-failure = Serverul folosește fixarea cheilor publice (HPKP), însă nu a putut fi construit niciun lanț de certificate de încredere care să se coreleze la setul de fixare. Încălcările mecanismului de fixare a cheilor nu pot fi ocolite.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Serverul folosește un certificat cu o extensie de constrângeri de bază care îl identifică drept autoritate de certificare. Nu ar fi cazul, dacă ar fi un certificat emis corespunzător.
 mozilla-pkix-error-inadequate-key-size = Serverul a prezentat un certificat cu o mărime a cheii care este prea mică pentru a stabili o conexiune securizată.
@@ -352,3 +334,16 @@ mozilla-pkix-error-invalid-integer-encoding = Serverul a prezentat un certificat
 mozilla-pkix-error-empty-issuer-name = Serverul a prezentat un certificat fără un nume de emițător.
 mozilla-pkix-error-additional-policy-constraint-failed = O constrângere suplimentară de politică a eșuat la validarea acestui certificat.
 mozilla-pkix-error-self-signed-cert = Certificatul nu prezintă încredere deoarece este semnat de el însuși.
+
+xp-java-remove-principal-error = Nu se poate elimina principalul
+xp-java-delete-privilege-error = Nu s-a putut șterge privilegiul
+xp-java-cert-not-exists-error = Acest principal nu are un certificat
+
+xp-sec-fortezza-bad-card = Cardul Fortezza nu a fost inițializat corect. Te rugăm să-l elimini și să-l înapoiezi persoanei care l-a emis.
+xp-sec-fortezza-no-card = Nu a fost găsit niciun card Fortezza
+xp-sec-fortezza-none-selected = Nu a fost selectat niciun card Fortezza
+xp-sec-fortezza-more-info = Te rugăm să selectezi o personalitate pentru mai multe informații
+xp-sec-fortezza-person-not-found = Personalitatea nu a fost găsită
+xp-sec-fortezza-no-more-info = Nu sunt alte informații despre această personalitate
+xp-sec-fortezza-bad-pin = Pin nevalid
+xp-sec-fortezza-person-error = Nu se pot inițializa personalitățile Fortezza.

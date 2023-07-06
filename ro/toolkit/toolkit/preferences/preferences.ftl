@@ -9,10 +9,6 @@ failed-pp-change = Nu se poate schimba parola primară.
 incorrect-pp = Nu ai introdus corect parola primară curentă. Te rugăm să încerci din nou.
 pp-change-ok = Parola primară a fost schimbată cu succes.
 
-pp-empty-warning = Parolele stocate și cheile private nu vor fi protejate.
-pp-erased-ok = Ți-ai șters parola primară. { pp-empty-warning }
-pp-not-wanted = Avertisment! Ai decis să nu folosești o parolă primară. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Acum ești în modul FIPS. FIPS nu permite inexistența unei parole primare.
 pw-change-success-title = Schimbarea parolei a reușit
 pw-change-failed-title = Schimbarea parolei a eșuat

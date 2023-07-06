@@ -44,3 +44,4 @@ screenshots-private-window-error-details = Ne pare rău pentru inconveniență. 
 
 screenshots-generic-error-title = Aaah! { -screenshots-brand-name } a întâmpinat o eroare.
 screenshots-generic-error-details = Nu știm sigur ce s-a întâmplat. Ai vrea să încerci din nou sau realizezi o captură a altei pagini?
+

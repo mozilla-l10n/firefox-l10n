@@ -28,10 +28,6 @@ pippki-pw-change2empty-in-fips-mode = Acum ești în modul FIPS. FIPS necesită 
 
 ## Reset Primary Password dialog
 
-reset-primary-password-window =
-    .title = Resetează parola primară
-    .style = width: 40em
-
 reset-primary-password-window2 =
     .title = Resetează parola primară
     .style = min-width: 40em
@@ -43,10 +39,6 @@ pippki-reset-password-confirmation-title = Resetează parola primară
 pippki-reset-password-confirmation-message = Parola primară a fost resetată.
 
 ## Downloading cert dialog
-
-download-cert-window =
-    .title = Descărcare certificat
-    .style = width: 46em
 
 download-cert-window2 =
     .title = Descărcare certificat
@@ -82,7 +74,5 @@ set-password-reminder = Important: Dacă uiți parola de siguranță pentru cert
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Autentificare prin jeton protejat
-protected-auth-msg = Te rugăm te autentifici cu cod. Metoda de autentificare depinde de tipul codului tău.
-protected-auth-token = Cod:
+## Protected authentication alert
+
