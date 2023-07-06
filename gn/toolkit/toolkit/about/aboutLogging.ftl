@@ -36,6 +36,7 @@ about-logging-preset-media-playback-label = Hekoetáva mboheta
 about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
+
 # Error handling
 about-logging-error = Javy:
 
@@ -49,4 +50,5 @@ about-logging-unknown-profiler-preset = Mbohapeha ypygua ojekuaa’ỹva “{ $v
 about-logging-unknown-option = Poravopyrã about:logging ojekuaa’ỹva “{ $k }“
 about-logging-configuration-url-ignored = Ñembohekopyahu hejapyre URL
 about-logging-file-and-profiler-override = Nerenohẽkuaái mbaretépe marandurendágui ha emboyke mbohapeha poravopyrã oñondive
+
 about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive

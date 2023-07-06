@@ -13,17 +13,45 @@ safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogu
 safeb-palm-advisory-desc = Marandu omog̃uahẽva <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Guevi
 safeb-palm-see-details-label = Sa’ikue chauka
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda oporombotavyséva</a>. Emomarandukuaa <a data-l10n-name='report_detection'>ojejavyha</a> ýrõ <a data-l10n-name='ignore_warning_link'>epena’ỹkuaa kóvare</a> ha eike ko tenda iñag̃ave’ỹvape.
 safeb-blocked-phishing-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda oporombotavyséva</a>. Emomarandukuaa <a data-l10n-name='report_detection'>ojejavyhague</a>.
+
+##
+
 safeb-blocked-phishing-page-learn-more = Eikuaave tenda oporombotavyséva rehegua ha avei physing rehegua ko’ápe <a data-l10n-name='learn_more_link'>www.antiphishing.org</a>. Eikuaave mba’éichapa { -brand-short-name } nemo’ã Physing ha Malware-gui ko’ápe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda orekóva tembipuru mba’evaiapoha</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹ kóvare</a> ha eho tenda hekorosã’ỹvape.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ha’e <a data-l10n-name='error_desc_link'>oñemomarandúva oguerekoha software mba’evaiapoha</a>.
+
+##
+
 safeb-blocked-malware-page-learn-more-sumo = Eikuaave Phishing nemo’ã rehegua { -brand-short-name } Malware <a data-l10n-name='firefox_support'>support.mozilla.org</a> rupi.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-unwanted-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri ivaiha <a data-l10n-name='error_desc_link'>oguereko rupi software mba’evai aposeha</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹkuaa kóvare</a> ha eike ko ñandutiveve iñag̃ave’ỹvape.
 safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri <a data-l10n-name='error_desc_link'>oguerekoha mba’evai aposeha ipype</a>.
+
+##
+
 safeb-blocked-unwanted-page-learn-more = Eikuaave software mba’evai aposeha rehegua ko’ápe <a data-l10n-name='learn_more_link'>Software Ivaiháne Rehegua</a>. Eikuaave avei mba’éichapa { -brand-short-name } nemo’ã Physing ha Malware-gui rehegua ko’ápe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
+
+## Variables
+##  $sitename (string) - Domain name for the blocked page
+
 safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri ha’eha <a data-l10n-name='error_desc_link'>tenda oguerekóva tembipuru mba’evai apoha ipype</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹkuaa kóvare</a> ha eike ko tendápe ag̃ave.
 safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri oguerekoha <a data-l10n-name='error_desc_link'>tembipuru’i mba’evai apoha ipype</a>.
+
+##
+
 safeb-blocked-harmful-page-learn-more = Eikuaave mba’éichapa { -brand-short-name } nemo’ã Phishing ha Malware-gui ko’ápe <a data-l10n-name='firefox_support'>support.mozilla.org</a>.
 safeb-palm-notdeceptive =
     .label = Kóva ndaha’éi tenda ombotavyséva…

@@ -9,10 +9,6 @@ failed-pp-change = Ndaikatúi emoambue Ñe’ẽñemi Ñepyrũháva.
 incorrect-pp = Nomoingéi ne’ẽñemi ha’etéva ag̃agua hekopete. Eha’ãjey upe rire.
 pp-change-ok = Oñemoambue Ñe’ẽñemi ha’etéva hekopete.
 
-pp-empty-warning = Ne ñe’ẽñemi ñongatupyre ha ñe’ẽkañy ñemigua noñemo’ãi.
-pp-erased-ok = Emboguetéma ne ñe’ẽñemi ha’etéva. { pp-empty-warning }
-pp-not-wanted = ¡Ema’ẽmi! Eréma ndereipurumo’ãiha pe ñe’ẽñemi ha’etéva. { pp-empty-warning }
-
 pp-change2empty-in-fips-mode = Ko’ag̃aite eimehína FIPS ayvúpe. FIPS oikotevẽ ñe’ẽñemi ha’etéva inandi’ỹva.
 pw-change-success-title = Iñambue hekoitépe ñe’ẽñemi
 pw-change-failed-title = Ñe’ẽmi moambue jejavy

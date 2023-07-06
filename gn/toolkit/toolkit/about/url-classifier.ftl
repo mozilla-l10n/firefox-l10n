@@ -50,5 +50,9 @@ url-classifier-disabled = Oĩmbaporã’ỹva
 url-classifier-updating = Hekopyahuhína
 url-classifier-cannot-update = ndaikatúi embohekopyahu
 url-classifier-success = po’aite
+
+## Variables
+##   $error (string) - Error message
+
 url-classifier-update-error = ojavy ñembohekopyahu ({ $error })
 url-classifier-download-error = ojavy ñemboguejy ({ $error })

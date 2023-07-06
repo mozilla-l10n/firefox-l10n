@@ -20,7 +20,6 @@ styleeditor-save-button = Ñongatu
     .accesskey = S
 styleeditor-options-button =
     .tooltiptext = Style Editor jeporavorã
-styleeditor-media-rules = Ñemomarandu rape
 styleeditor-at-rules = At-mbojojaha
 styleeditor-editor-textbox =
     .data-placeholder = Ehai CSS ápe.
@@ -41,6 +40,7 @@ styleeditor-go-to-line =
     .accesskey = j
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Ndojejuhúi mba’evéichagua mbohekoharogue.
+
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.

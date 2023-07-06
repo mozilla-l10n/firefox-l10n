@@ -5,6 +5,7 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Emoñe’ẽasa ko kuatiarogue
+
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -14,10 +15,13 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Kuatiarogue moñe’ẽasapyre { $fromLanguage } guive { $toLanguage }-pe
+
 urlbar-translations-button-loading =
     .tooltiptext = Ñe’ẽasa oñemboguatáva
+
 translations-panel-settings-button =
     .aria-label = Eñangareko ñe’ẽasa ñembohekóre
+
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -29,6 +33,7 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Eñangareko ñe’ẽnguérare
 translations-panel-settings-about = Ñe’ẽasa rehegua { -brand-shorter-name }-pe
+
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,6 +41,7 @@ translations-panel-settings-always-translate-language =
     .label = Emoñe’ẽasameme { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Emoñe’ẽasameme ko ñe’ẽ
+
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,6 +49,7 @@ translations-panel-settings-never-translate-language =
     .label = Ani emoñe’ẽasa { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Ani araka’eve emoñe’ẽasa ko ñe’ẽ
+
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Araka'eve ani emo'ñẽasa ko tenda
@@ -57,11 +64,13 @@ translations-panel-translate-button-loading =
     .label = Eha’arõmína…
 translations-panel-translate-cancel =
     .label = Heja
+
 translations-panel-error-translating = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
 translations-panel-error-load-languages = Noñemyanyhẽkuaái ñe’ẽnguéra
 translations-panel-error-load-languages-hint = Ehechajey ne ñanduti reko ha eha’ãjey ag̃ave.
 translations-panel-error-load-languages-hint-button =
     .label = Eha’ãjey
+
 translations-panel-error-unsupported = Pe ñe’ẽasa ndahekói ko kuatiaroguépe g̃uarã
 translations-panel-error-dismiss-button =
     .label = Aikumby
@@ -118,6 +127,7 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Iñapañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
 translations-manage-error-delete = Iñapañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
+
 translations-settings-title =
     .title = Ñe’ẽasa ñemboheko
     .style = min-width: 36em

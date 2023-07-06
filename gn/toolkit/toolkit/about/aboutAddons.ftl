@@ -3,82 +3,118 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Moĩmbaha ñangarekohára
+
 search-header =
     .placeholder = Eheka addons.mozilla.org
     .searchbuttonlabel = Heka
-search-header-shortcut =
-    .key = f
+
+## Variables
+##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 list-empty-get-extensions-message = Eguereko jepysokue ha téma <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-dictionaries-message = Eguereko ñe’ẽryru <a data-l10n-name="get-extensions">{ $domain }</a>
+
 list-empty-get-language-packs-message = Eguereko ñe’ẽ aty <a data-l10n-name="get-extensions">{ $domain }</a>
+
+##
+
 list-empty-installed =
     .value = Ndereguerekói ãichagua moĩmbaha
+
 list-empty-available-updates =
     .value = Ndojejuhúi ñembohekopyahu
+
 list-empty-recent-updates =
     .value = Nerembopyahúi mba’evéichagua moĩmbaha
+
 list-empty-find-updates =
     .label = Ñembohekopyahu jeheka
+
 list-empty-button =
     .label = Eikuaave moĩmbahakuéra rehegua
+
 help-button = Moĩmbaha jokoha
 sidebar-help-button-title =
     .title = Moĩmbaha jokoha
+
 addons-settings-button = { -brand-short-name } Ñemboheko
 sidebar-settings-button-title =
     .title = { -brand-short-name } Ñemboheko
+
 show-unsigned-extensions-button =
     .label = Heta pukukue ndaikatúi kuri ojehechajey
+
 show-all-extensions-button =
     .label = Opaite mba’ejoapyrã jehecha
+
 detail-version =
     .label = Peteĩchagua
+
 detail-last-updated =
     .label = Ñembohekopyahu ramovéva
+
 addon-detail-description-expand = Ehechaukave
 addon-detail-description-collapse = Ehechauka’ive
+
 detail-contributions-description = Ko moĩmbaha mboguatahára ojerure eipytyvõ okueve hag̃ua mboguatahápe ejapóvo peteĩ michĩmíva mba’eme’ẽ.
+
 detail-contributions-button = Ñepytyvõ
     .title = Eipytyvõ ko moĩmbaha okakuaa hag̃ua
     .accesskey = Ñ
+
 detail-update-type =
     .value = Ñembohekopyahu ijeheguíva
+
 detail-update-default =
     .label = Jepokokuaa’ỹha
     .tooltiptext = Emohendarei tekopyahu oĩ jave kóva ypykuéramo
+
 detail-update-automatic =
     .label = Hẽe
     .tooltiptext = Emohenda ñembohekopyahu ijeheguíva
+
 detail-update-manual =
     .label = Mongepyre
     .tooltiptext = Aníke emohenda ñembohekopyahu ijeheguíva
+
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Eipuru ovetã ñemíme
+
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Noñemoneĩri ovetã ñemíme
 detail-private-disallowed-description2 = Ko jepysokue ndoikói kundaha ñemíme. <a data-l10n-name="learn-more">Eikuaave</a>
+
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Oikotevẽ ovetã ñemíme jeike
 detail-private-required-description2 = Ko jepysokue oikekuaa ne rembiapo ñandutípe eikundaha ñeminguévo. <a data-l10n-name="learn-more">Eikuaave</a>
+
 detail-private-browsing-on =
     .label = Moneĩ
     .tooltiptext = Embojuruja kundaha ñemíme
+
 detail-private-browsing-off =
     .label = Ani emoneĩ
     .tooltiptext = Eipe'a kundaha ñemígui
+
 detail-home =
     .label = Kuatiarogue ñepyrũha
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Perfil del complemento
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Ñembohekopyahu jeheka
     .accesskey = f
     .tooltiptext = Eheka ñembohekopyahu ko moĩmbaha rehegua
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -95,25 +131,37 @@ detail-show-preferences =
             [windows] Emoambue poravopyrã ko moĩmbaha rehegua
            *[other] Emoambue jerohoryvéva ko moĩmbaha rehegua
         }
+
 detail-rating =
     .value = Ñehepyme’ẽ
+
 addon-restart-now =
     .label = Emoñepyrũjey ko’ág̃a
+
 disabled-unsigned-heading =
     .value = Heta moĩmbaha ojepe’aitéma
+
 disabled-unsigned-description = Ko’ã moĩmbaha ndojehechajeýi ojepuru hag̃uáicha { -brand-short-name }-pe. Ikatu<label data-l10n-name="find-addons">Myengoviarã juhu</label> térã ejerure mboguatahárape ojehechajey hag̃ua.
+
 disabled-unsigned-learn-more = Eikuaave oreñeha’ã rehegua ikatu hag̃uáicha roipytyvõ peime hag̃ua jeikekatúpe.
+
 disabled-unsigned-devinfo = Umi mboguatahára oipotáva moĩmbaha jehechapyréva ikatu omoñe’ẽve ohóvo ko <label data-l10n-name="learn-more">popeguáva</label>.
+
 plugin-deprecation-description = ¿Oĩ nderejuhúiva? Sapy’ánte oĩ mba’ejoajurã ndaikatuvéima ojepuru { -brand-short-name } ndive. <label data-l10n-name="learn-more">Jeikuaave.</label>
+
 legacy-warning-show-legacy = Opaite mba’ejoapyrã jehecha
+
 legacy-extensions =
     .value = Opaite mba’ejoapyrã
+
 legacy-extensions-description = Ko’ã jepysokue ndoguerekói { -brand-short-name } tekoguatarã oñembogue hag̃ua. <label data-l10n-name="legacy-learn-more">Maranduve moĩmbaha moambue rehegua</label>
+
 private-browsing-description2 =
     { -brand-short-name } iñambuehína mba’éichapa omba’apo jepysokue kundaha ñemíme. Oimeraẽva jepysokue pyahu embojuajúva
     { -brand-short-name } rupi nomba’apomo’ãi ijypykue rupi kundaha ñemíme. Neremoneĩrirõ Moĩporãhápe, pe jepysokue ndoikomo’ãi kundaha ñemíme, ha ndoikemo’ãi nerembiapo ñanduti
     peguápe. Romoambue roguereko hag̃ua ñemiháme ne kundaha ñemigua.
     <label data-l10n-name="private-browsing-learn-more">Eikuaa mba’éichapa eñangarekóta ko’ã jepysokue ñemboheko rehe </label>
+
 addon-category-discover = Je’eporã
 addon-category-discover-title =
     .title = Je’eporã
@@ -201,34 +249,43 @@ addon-open-about-debugging = Emopotĩ Moĩmbahakuéra
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Eñangareko jepysokue jeike pya’eha rehe
     .accesskey = S
+
 shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
     .placeholder = Ehai mbopya’eha
+
 shortcuts-browserAction2 = Emyandy votõ tembipuru renda
 shortcuts-pageAction = Emyandy kuatiarogue ñemongu’e
 shortcuts-sidebarAction = Embojopyru tenda yke
+
 shortcuts-modifier-mac = Emoinge Ctrl, Alt o ⌘
 shortcuts-modifier-other = Emoinge Ctrl or Alt
 shortcuts-invalid = Ñembojopyru ndoikóiva
 shortcuts-letter = Ehai peteĩ tai
 shortcuts-system = Ndaikatúi eipe’a peteĩ mbopya’eha { -brand-short-name } mba’éva
+
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Jeike pya’eha imokõiva
+
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Pe { $shortcut } ojepuruhína mbopya’eháramo heta jey. Pe jeike pya’eha ikõiva ikatu ojapo mba’e eha’arõ’ỹva.
+
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Oipurúma { $addon }
+
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Ehechave { $numberToShow }
        *[other] Ehechave { $numberToShow }
     }
+
 shortcuts-card-collapse-button = Ehechauka’ive
+
 header-back-button =
     .title = Guevijey
 
@@ -237,10 +294,13 @@ header-back-button =
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Umi jepysokue ha téma ha’e tembipuru’i kundahápe g̃uarã ha omo’ã ñe’ẽñemi, ta’ãngamýi ñemboguejy, joguarã jejuhu, maranduñemurã jejoko, kundahára rova ñemoambue ha hetave mba’e. Mbohapyhaguáva hetave jey umi omoheñóiva software. Rome’ẽ jeporavorã { -brand-product-name } <a data-l10n-name="learn-more-trigger">je’eporãpy</a> tekorosãme, apopyre ha tembiaporape ijojaha’ỹva.
+
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijepurukue.
 discopane-notice-learn-more = Kuaave
+
 privacy-policy = Temiñemi purureko
+
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -256,6 +316,7 @@ install-theme-button = Emohenda téma
 manage-addon-button = Ñangareko
 find-more-addons = Ehekave moĩmbaha
 find-more-themes = Ejuhuvéta téma
+
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -281,47 +342,49 @@ preferences-addon-button =
 details-addon-button = Mba’emimi
 release-notes-addon-button = Jehaipy rehegua
 permissions-addon-button = Moneĩ
+
 extension-enabled-heading = Myandypyre
 extension-disabled-heading = Ojepuruve’ỹva
+
 theme-enabled-heading = Myandypyre
-theme-disabled-heading = Ojepuruve’ỹva
 theme-disabled-heading2 = Téma ñongatupyre
-theme-monochromatic-heading = Sa’y ojueheguáva
-theme-monochromatic-subheading = Sa’y ojuehegua overáva pyahu { -brand-product-name }. Eipurukuaáva sapy’ami.
-# Refers to the button label for the colorways card when a user does not have a colorway theme enabled.
-theme-colorways-button = Eipuru Colorways
-# Refers to the button label for the colorways card when a user has a colorway theme enabled.
-theme-colorways-button-colorway-enabled = Emoambue sa’y ojueheguáva
-# Variables:
-#   $expiryDate (string) - date on which the colorway collection expires. When formatting this, you may omit the year, only exposing the month and day, as colorway collections will always expire within a year.
-colorway-collection-expiry-label = Hekopaháta { DATETIME($expiryDate, month: "long", day: "numeric") }
+
 plugin-enabled-heading = Myandypyre
 plugin-disabled-heading = Ojepuruve’ỹva
+
 dictionary-enabled-heading = Myandypyre
 dictionary-disabled-heading = Ojepuruve’ỹva
+
 locale-enabled-heading = Myandypyre
 locale-disabled-heading = Ojepuruve’ỹva
+
 sitepermission-enabled-heading = Myandypyre
 sitepermission-disabled-heading = Pe’apyre
+
 always-activate-button = Emyandy tapia
 never-activate-button = Ani emyandy araka’eve
+
 addon-detail-author-label = Apohára
 addon-detail-version-label = Peteĩchagua
 addon-detail-last-updated-label = Mbohekopyahu paha
 addon-detail-homepage-label = Kuatiarogue ñepyrũha
 addon-detail-rating-label = Jeporavopy
+
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ko jepysokue hekopyahúta emoñepyrũjeývo { -brand-short-name }.
 install-postponed-button = Embohekopyahu ko’ág̃a
+
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Mbopapapyre { NUMBER($rating, maximumFractionDigits: 1) } 5 peve
+
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (jepe’apyre)
+
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -337,12 +400,14 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Oñemboguete <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = Mboguevi
+
 addon-detail-updates-label = Emoneĩ mbohekopyahu ijeheguíva
 addon-detail-updates-radio-default = Ijypykue
 addon-detail-updates-radio-on = Hendypyre
 addon-detail-updates-radio-off = Mbogue
 addon-detail-update-check-label = Eheka mohekopyahu
 install-update-button = Mohekopyahu
+
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -351,6 +416,9 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Hendy jave, pe jepysokue ikatu oike ejapóva guivépe eikundaha ñemi aja. <a data-l10n-name="learn-more">Eikuaave</a>
 addon-detail-private-browsing-allow = Moneĩ
 addon-detail-private-browsing-disallow = Ani emoneĩ
+
+## "sites with restrictions" (internally called "quarantined") are special domains
+## where add-ons are normally blocked for security reasons.
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -371,15 +439,20 @@ addon-badge-verified2 =
 
 available-updates-heading = Ñembohekopyahu eipurukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
+
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.
+
 addon-permissions-empty = Ko jepysokue noikotevẽi ñemoneĩ
 addon-permissions-required = Ñemoneĩ tekotevẽva tembiapoite ha’etévape g̃uarã:
 addon-permissions-optional = Ñemoneĩ potapýva tembiapoite jopoiguápe g̃uarã:
 addon-permissions-learnmore = Eikuaave ñemoneĩ rehegua
+
 recommended-extensions-heading = Jepysokue je’eporãpyre
 recommended-themes-heading = Téma je’eporãpyre
+
 addon-sitepermissions-required = Ome’ẽ ko’ã jejapokuaa <span data-l10n-name="hostname">{ $hostname }</span>-pe:
+
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ¿Emoheñoisépa? <a data-l10n-name="link">Emoheñoi ne temarã Firefox Color ndive.</a>
@@ -395,9 +468,11 @@ updates-heading = Eñangareko ne ñembohekopyahúre
 sitepermission-heading = Eñangareko tenda ñemoneĩre
 discover-heading = Emomba’e nde { -brand-short-name }
 shortcuts-heading = Eñangareko jepysokue jeike pya’eháre
+
 default-heading-search-label = Ehekave moĩmbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
+
 addon-page-options-button =
     .title = Tembipuru opaite moimbahápe g̃uarã
 
@@ -405,16 +480,25 @@ addon-page-options-button =
 ## Variables:
 ##   $name (String): name of the add-on.
 
+## Detail notifications
+## Variables:
+##   $name (string) - Name of the add-on.
+
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
 details-notification-incompatible-link = Eñemomaranduve
+
 details-notification-unsigned-and-disabled = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe ha oñemongéma.
 details-notification-unsigned-and-disabled-link = Maranduve
+
 details-notification-unsigned = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
 details-notification-unsigned-link = Maranduve
+
 details-notification-blocked = { $name } oñemongéma oguereko rupi apañuãi tekorosãrã térã tekopytápe.
 details-notification-blocked-link = Maranduve
+
 details-notification-softblocked = Ojeikuaa { $name } omoapañuãiha tekorosã térã tekoporã.
 details-notification-softblocked-link = Maranduve
+
 details-notification-gmp-pending = { $name } oñemohendáta sapy’aitépe.

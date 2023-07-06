@@ -12,25 +12,33 @@ cfr-doorhanger-feature-heading = Tembiapoite ñe’ẽporãpyre
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Mba’ére ahechahína kóva
+
 cfr-doorhanger-extension-cancel-button = Ko’ág̃a nahániri
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Embojuaju ko’ág̃a
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Eñangareko je’eporã ñemboheko rehe
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Ani ehechauka ko je’eporã
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Kuaave
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = Hese { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Je’ete
 cfr-doorhanger-extension-notification2 = Je’eporã
     .tooltiptext = Jepysokue je’eporã
     .a11y-announcement = Jepysokue je’eporã eipurukuaáva
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Je’eporã
@@ -77,9 +85,11 @@ cfr-protections-panel-link-text = Eikuaave
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Peteĩchagua pyahu:
+
 cfr-whatsnew-button =
     .label = Oĩpa mba’e pyahu
     .tooltiptext = Oĩpa mba’e pyahu
+
 cfr-whatsnew-release-notes-link-text = Emoñe’ẽ jehaipy rehegua
 
 ## Enhanced Tracking Protection Milestones
@@ -107,13 +117,6 @@ cfr-doorhanger-doh-secondary-button = Pe’a
 
 ## Fission Experiment Message
 
-cfr-doorhanger-fission-body-approved = Ne ñemigua romomba’e. { -brand-short-name } ko’ág̃a omoha’eño ñanduti renda peteĩva ambu’egui, ombohasyvéva umi mba’evaiapohápe omondávo ne ñe’ẽñemi, kuatia’atã ñemurã papapy ha ambue marandu ehayhúva.
-cfr-doorhanger-fission-header = Tenda ñemoha’eño
-cfr-doorhanger-fission-primary-button = OK, arekóma
-    .accesskey = O
-cfr-doorhanger-fission-secondary-button = Kuaave
-    .accesskey = L
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Ikatu ko’ã ta’ãngamýi ko tendagua ndojehechaporãi { -brand-short-name } ag̃aguápe. Embojokupyty hag̃ua ta’ãngamýi, embohekopyahu { -brand-short-name } ko’ág̃a.
@@ -122,11 +125,6 @@ cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
     .accesskey = U
 
 ## Spotlight modal shared strings
-
-spotlight-learn-more-collapsed = Kuaave
-    .title = Embotuicha eñemomaranduve hag̃ua tembiapoite rehegua
-spotlight-learn-more-expanded = Kuaave
-    .title = Mboty
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,18 +141,6 @@ spotlight-public-wifi-vpn-link = Ani ko’ág̃a
     .accesskey = N
 
 ## Total Cookie Protection Rollout
-
-# "Test pilot" is used as a verb. Possible alternatives: "Be the first to try",
-# "Join an early experiment". This header text can be explicitly wrapped.
-spotlight-total-cookie-protection-header =
-    Eipuru ore rembiaporapykuere
-    ñemigua imbaretevéva tembiasakuépe
-spotlight-total-cookie-protection-body = Ñemo’ãmbaite kookie rovake omboyke tapykuehohápe oipurúvo kookie nde rapykueho hag̃ua ñandutípe.
-# "Early access" for this feature rollout means it's a "feature preview" or
-# "soft launch" as not everybody will get it yet.
-spotlight-total-cookie-protection-expanded = { -brand-short-name } omopu’ã tápia kookie jerére ha ojoko tenda oĩhápe ani hag̃ua tapykuehoha oipuru nde rapykueho hag̃ua. Pe jeike voi ndive, oipytyvõta oiko porãve hag̃ua tembiapoite rojapo hag̃ua ñanduti iporãva opavavépe g̃uarã.
-spotlight-total-cookie-protection-primary-button = Embojuruja Total Cookie Protection
-spotlight-total-cookie-protection-secondary-button = Ani ko’ág̃a
 
 ## Emotive Continuous Onboarding
 
@@ -184,11 +170,13 @@ spotlight-pin-secondary-button = Ani ko’ág̃a
 
 mr2022-background-update-toast-title = { -brand-short-name } pyahu. Hekoñemive. Ojehapykueho’ive. Jejokua’ỹre.
 mr2022-background-update-toast-text = Eipuru { -brand-short-name } ipyahuve, hekopyahúva romo’ãva tapykuehoha rovake imbaretevéva ag̃aite peve.
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Embojuruja { -brand-shorter-name } ko’ág̃a
+
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -207,6 +195,7 @@ firefoxview-cfr-body-v2 = Eguerujey tendayke oñembotyramóva ha ehasa pya’e m
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Emomaitei { -firefoxview-brand-name }-pe
+
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ¿Eipota tendayke ijurujáva ne pumbyrúpe? Eguerujey pya’e. ¿Eikotevẽ tenda eikeramoha rehe? Oĩ { -firefoxview-brand-name }-pe.
 firefoxview-spotlight-promo-primarybutton = Ehecha mba’éichapa omba’apo
@@ -216,6 +205,7 @@ firefoxview-spotlight-promo-secondarybutton = Jepo
 
 colorways-cfr-primarybutton = Eiporaro sa’y ojueheguáva
     .accesskey = C
+
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Embosa’y kundahára eipotavévape { -brand-short-name } ndive ohechakuaáva umi ñe’ẽ omoambuéva mba’ekuaa.
 colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama 16 jasyteĩ guive
@@ -238,6 +228,7 @@ july-jam-headline = Roguereko ñemo’ãpe
 july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-headline = Eg̃uahẽporãjey
+
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Peteĩ ñemomandu’a ikautha eguereko ne kundahára ijeheguíva namombyryiete ndehegui.

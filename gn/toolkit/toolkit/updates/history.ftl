@@ -23,5 +23,7 @@ state-header = Tekotee
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Mba’emimi
+
 update-installed-on = Oñemohendapyréva amo: { $date }
+
 update-status = Tekotee: { $status }

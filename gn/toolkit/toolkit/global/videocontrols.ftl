@@ -2,8 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-videocontrols-scrubber =
-    .aria-label = Tendaite
 # This label is used by screenreaders and other assistive technology to indicate
 # to users how much of the video has been loaded from the network. It will be
 # followed by the percentage of the video that has loaded (e.g. "Loading: 13%").
@@ -12,6 +10,7 @@ videocontrols-volume-control =
     .aria-label = Mbopuha
 videocontrols-closed-caption-button =
     .aria-label = Teratee’i
+
 videocontrols-play-button =
     .aria-label = Mboheta
 videocontrols-pause-button =
@@ -28,23 +27,20 @@ videocontrols-casting-button-label =
     .aria-label = Mba’erechaha ojuehéva
 videocontrols-closed-caption-off =
     .offlabel = Mboguepyre
+
 # This string is used as part of the Picture-in-Picture video toggle button when
 # the mouse is hovering it.
 videocontrols-picture-in-picture-label = Picture-in-picture
-# This string is used as the label for a variation of the Picture-in-Picture video
-# toggle button when the mouse is hovering over the video.
-videocontrols-picture-in-picture-toggle-label = Ehecha Picture-in-Picture-pe
-# This string is used as part of a variation of the Picture-in-Picture video toggle
-# button. When using this variation, this string appears below the toggle when the
-# mouse hovers the toggle.
-videocontrols-picture-in-picture-explainer = Emboheta ta’ãngamýi tenondete ejapokuévo ambue mba’e { -brand-short-name }-pe;
+
 # This string is used as the label for a variation of the Picture-in-Picture video
 # toggle button when the mouse is hovering over the video.
 videocontrols-picture-in-picture-toggle-label2 = Enohẽ ko ta’ãngamýi
+
 # This string is used as part of a variation of the Picture-in-Picture video toggle
 # button. When using this variation, this string appears below the toggle when the
 # mouse hovers the toggle.
 videocontrols-picture-in-picture-explainer3 = Hetavévo mba’erechaha iporãve. Embopu ta’ãngamýi ejapo aja ambue mba’e.
+
 videocontrols-error-aborted = Ojejoko ta’ãngamýi ñemyenyhẽ.
 videocontrols-error-network = Ta’ãndamýi ñemboheta ojejokóma ñanduti jejavy rupi.
 videocontrols-error-decode = Ndaikatúi emboheta ta’ãngamýi pe marandurenda imarã rupi.
@@ -52,6 +48,7 @@ videocontrols-error-src-not-supported = Ysaja térã MIME ta’ãngamýi rehegua
 videocontrols-error-no-source = Ndojejuhúi mba’eveichagua ta’ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.
 videocontrols-error-generic = Pe ta’ãngamýi ñemboheta ndoikomo’ãi peteĩ jejavy jeikuaa’ỹva rupi.
 videocontrols-status-picture-in-picture = Ko ta’angamýi oñembohetahína Picture-in-Picture rekópe.
+
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -65,6 +62,7 @@ videocontrols-status-picture-in-picture = Ko ta’angamýi oñembohetahína Pict
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
+
 # This is a plain text version of the videocontrols-position-and-duration-labels
 # string, used by screenreaders.
 #

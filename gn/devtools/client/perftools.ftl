@@ -83,8 +83,6 @@ perftools-thread-renderer =
     .title = WebRender hendy jave, pe inimbo omongu’éva umi OpenGL renoiha
 perftools-thread-render-backend =
     .title = Inimbo WebRender RenderBackend
-perftools-thread-paint-worker =
-    .title = Hendy vove pe mbosa’ypyre inimbógui okápe, pe inimbo ojejapohápe mbosa’ypyre
 perftools-thread-timer =
     .title = Umi mboaravopapaha tapereko’i rehegua (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
@@ -132,6 +130,10 @@ perftools-onboarding-close-button =
 
 # Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/popup/background.jsm.js
+# The same labels and descriptions are also defined in appmenu.ftl.
+
+# Presets and their l10n IDs are defined in the file
+# devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Ñanduti Mboguatahára

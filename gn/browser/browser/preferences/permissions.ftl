@@ -2,68 +2,84 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-permissions-window =
-    .title = Ta’ãnga ñangarekoha
-    .style = width: 45em
 permissions-window2 =
     .title = Ta’ãnga ñangarekoha
     .style = min-width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ñanduti renda kundaharape
     .accesskey = d
+
 permissions-block =
     .label = Joko
     .accesskey = B
+
 permissions-disable-etp =
     .label = Embojuaju oĩ’ỹva
     .accesskey = E
+
 permissions-session =
     .label = Emoneĩ Tembiapo ñepyrũ
     .accesskey = T
+
 permissions-allow =
     .label = Moneĩ
     .accesskey = A
+
 permissions-button-off =
     .label = Eipe’aite
     .accesskey = O
+
 permissions-button-off-temporarily =
     .label = Jepe’a sapy’agua
     .accesskey = T
+
 permissions-site-name =
     .label = Ñanduti renda
+
 permissions-status =
     .label = Tekotee
+
 permissions-remove =
     .label = Emboguete ñanduti renda
     .accesskey = R
+
 permissions-remove-all =
     .label = Emboguete opavave ñanduti renda
     .accesskey = E
+
 permission-dialog =
     .buttonlabelaccept = Moambue ñongatu
     .buttonaccesskeyaccept = S
+
 permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
+
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
+
 permissions-capabilities-autoplay-allow =
     .label = Emoneĩ mba’epu ha ta’ãngamýi
 permissions-capabilities-autoplay-block =
     .label = Ejoko mba’epu
 permissions-capabilities-autoplay-blockall =
     .label = Ejoko mba’epu ha ta’ãngamýi
+
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
     .label = Jokoha
 permissions-capabilities-prompt =
     .label = Porandu Tapia
+
 permissions-capabilities-listitem-allow =
     .value = Moneĩ
 permissions-capabilities-listitem-block =
     .value = Jokoha
 permissions-capabilities-listitem-allow-session =
     .value = Tembiapópe g̃uarã moneĩ
+
 permissions-capabilities-listitem-off =
     .value = Mboguepyre
 permissions-capabilities-listitem-off-temporarily =
@@ -76,10 +92,6 @@ permissions-invalid-uri-label = Emoinge peteĩ mohendahavusu oikóva réra
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-etp-window =
-    .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
-    .style = { permissions-window.style }
-permissions-exceptions-etp-desc = Eipe’a mo’ãha ko’ã ñanduti renda pegua.
 permissions-exceptions-etp-window2 =
     .title = Ykepegua tapykuehoha mo’ãha iporãvévape g̃uarã
     .style = { permissions-window2.style }
@@ -87,9 +99,6 @@ permissions-exceptions-manage-etp-desc = Ikatu ehechauka mba’ete ñanduti rend
 
 ## Exceptions - Cookies
 
-permissions-exceptions-cookie-window =
-    .title = Ijykepeguáva: Kookie ha tenda mba’ekuaarã
-    .style = { permissions-window.style }
 permissions-exceptions-cookie-window2 =
     .title = Ijykepeguáva: Kookie ha tenda mba’ekuaarã
     .style = { permissions-window2.style }
@@ -97,9 +106,6 @@ permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte 
 
 ## Exceptions - HTTPS-Only Mode
 
-permissions-exceptions-https-only-window =
-    .title = Ykepegua – HTTPS ayvu añópe
-    .style = { permissions-window.style }
 permissions-exceptions-https-only-window2 =
     .title = Ykepegua – HTTPS ayvu añópe
     .style = { permissions-window2.style }
@@ -107,9 +113,6 @@ permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñand
 
 ## Exceptions - Pop-ups
 
-permissions-exceptions-popup-window =
-    .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
-    .style = { permissions-window.style }
 permissions-exceptions-popup-window2 =
     .title = Tenda ñemoneĩmbyre - Ovetã apysẽ
     .style = { permissions-window2.style }
@@ -117,9 +120,6 @@ permissions-exceptions-popup-desc = Ikatu rehechauka mba’e ñanduti renda guiv
 
 ## Exceptions - Saved Logins
 
-permissions-exceptions-saved-logins-window =
-    .title = Oĩ’ỹva - Emoñepyrũ tembiapo ñongatupyre
-    .style = { permissions-window.style }
 permissions-exceptions-saved-logins-window2 =
     .title = Oĩ’ỹva - Emoñepyrũ tembiapo ñongatupyre
     .style = { permissions-window2.style }
@@ -127,9 +127,6 @@ permissions-exceptions-saved-logins-desc = Tembiapo ñepyrũ ko’ã ñanduti re
 
 ## Exceptions - Add-ons
 
-permissions-exceptions-addons-window =
-    .title = Tenda ñemoneĩmbyre - Moĩmbaha ñemohenda
-    .style = { permissions-window.style }
 permissions-exceptions-addons-window2 =
     .title = Tenda ñemoneĩmbyre - Moĩmbaha ñemohenda
     .style = { permissions-window2.style }
@@ -137,9 +134,6 @@ permissions-exceptions-addons-desc = Ikatu rehechauka mba’e ñanduti renda gui
 
 ## Site Permissions - Autoplay
 
-permissions-site-autoplay-window =
-    .title = Ñemboheko - Mbohetajehegui
-    .style = { permissions-window.style }
 permissions-site-autoplay-window2 =
     .title = Ñemboheko - Mbohetajehegui
     .style = { permissions-window2.style }
@@ -147,9 +141,6 @@ permissions-site-autoplay-desc = Ko’ápe ikatu eñangareko umi tenda ndohapyku
 
 ## Site Permissions - Notifications
 
-permissions-site-notification-window =
-    .title = Ñemboheko - Momarandu ñemoneĩ
-    .style = { permissions-window.style }
 permissions-site-notification-window2 =
     .title = Ñemboheko - Momarandu ñemoneĩ
     .style = { permissions-window2.style }
@@ -160,9 +151,6 @@ permissions-site-notification-disable-desc = Kóva omboykéta umi ñanduti renda
 
 ## Site Permissions - Location
 
-permissions-site-location-window =
-    .title = Ñangareko - Tenda Reimeha Rehegua
-    .style = { permissions-window.style }
 permissions-site-location-window2 =
     .title = Ñangareko - Tenda Reimeha Rehegua
     .style = { permissions-window2.style }
@@ -173,9 +161,6 @@ permissions-site-location-disable-desc = Ko’ãva omboykéta umi ñanduti renda
 
 ## Site Permissions - Virtual Reality
 
-permissions-site-xr-window =
-    .title = Ñemboheko - Ñemoneĩ añetegua ñandutípe
-    .style = { permissions-window.style }
 permissions-site-xr-window2 =
     .title = Ñemboheko - Ñemoneĩ añetegua ñandutípe
     .style = { permissions-window2.style }
@@ -186,9 +171,6 @@ permissions-site-xr-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva 
 
 ## Site Permissions - Camera
 
-permissions-site-camera-window =
-    .title = Ñangareko - Camara Jepuru
-    .style = { permissions-window.style }
 permissions-site-camera-window2 =
     .title = Ñangareko - Camara Jepuru
     .style = { permissions-window2.style }
@@ -199,9 +181,6 @@ permissions-site-camera-disable-desc = Kóva omboykéta ñanduti renda noĩriva 
 
 ## Site Permissions - Microphone
 
-permissions-site-microphone-window =
-    .title = Ñangareko - Ñe’ẽmbotuichaha Jepuru
-    .style = { permissions-window.style }
 permissions-site-microphone-window2 =
     .title = Ñangareko - Ñe’ẽmbotuichaha Jepuru
     .style = { permissions-window2.style }
@@ -218,20 +197,26 @@ permissions-site-speaker-window =
     .title = Ñemboheko - Ñe’ẽataha Ñemoneĩ
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Ko’ã ñanduti renda ojerure peteĩ mba’e’oka mba’epu ñesẽrã. Eiporavokuaa mba’e ñanduti rendápepa oñemoneĩ ome’ẽvo mba’e’oka mba’epu ñesẽrã rehegua.
+
 permissions-exceptions-doh-window =
     .title = Ñanduti renda ykepeguáva DNS mba’erã HTTPS rehegua
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ndoipurumo’ãi DNS hekorosãva ko’ã tenda ha tendatee’ípe.
+
 permissions-doh-entry-field = Ehai ñanduti renda rendatee réra
     .accesskey = d
+
 permissions-doh-add-exception =
     .label = Mbojuaju
     .accesskey = A
+
 permissions-doh-col =
     .label = Tendatee
+
 permissions-doh-remove =
     .label = Mboguete
     .accesskey = R
+
 permissions-doh-remove-all =
     .label = Emboguepaite
     .accesskey = e

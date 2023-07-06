@@ -38,9 +38,11 @@ menu-quit =
             [windows] x
            *[other] Q
         }
+
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }-gui ñesẽ
+
 menu-about =
     .label = { -brand-shorter-name } rehegua
     .accesskey = A
@@ -220,8 +222,6 @@ menu-history-undo-menu =
     .label = Tendayke oñembotyramóva
 menu-history-undo-window-menu =
     .label = Ovetã oñembotyramóva
-menu-history-reopen-all-tabs = Embojurujajey opaite tendayke
-menu-history-reopen-all-windows = Embojurujajey opaite ovetã
 
 ## Bookmarks Menu
 
@@ -230,10 +230,6 @@ menu-bookmarks-menu =
     .accesskey = B
 menu-bookmarks-manage =
     .label = Eñangareko Techaukaháre
-menu-bookmark-current-tab =
-    .label = Emongurusu tendayke ag̃agua
-menu-bookmark-edit =
-    .label = Ko techaukaha mbosako’i
 menu-bookmark-tab =
     .label = Embojuaju tendayke ag̃agua techaukaháre…
 menu-edit-bookmark =

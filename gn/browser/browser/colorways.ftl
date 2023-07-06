@@ -5,11 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Ñe’ẽayvu peteĩteĩva
-colorway-collection-independent-voices-description = Sa’y omoambuekuaa arandupy. Sa’y ojuehegua ramoguavéva omomba’e ñe’ẽ ojapóva arapýgui tenda iporãvéva.
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Sa’y omoambuéva arandupy.
-
 ## Colorway names and descriptions
 
 playmaker-colorway-name = Ñembosarái moheñoiha

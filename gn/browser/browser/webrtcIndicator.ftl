@@ -30,6 +30,7 @@ webrtc-item-browser = tendayke
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Ndojekuaái mamoguápa
+
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -38,6 +39,7 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Emoherakuã ko’ápe mba’epuru
     .accesskey = d
+
 webrtc-sharing-window = Emoherakuãhína ambue tembipuru’i rovetã.
 webrtc-sharing-browser-window = Emoherakuãhína { -brand-short-name }.
 webrtc-sharing-screen = Emoherakuãhína ne mba’erechaha.
@@ -91,6 +93,7 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Ñemoherakuã ñangarekoha
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Ñangarekoha ñemoambue "{ $streamTitle }"-pe
+
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Eipuruhína Ta’ãngamýi “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -99,6 +102,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] Emoherakuãhína Ta’ãngamýi peteĩ { $tabCount } tendayke ndive
            *[other] Emoherakuãhína Ta’ãngamýi peteĩ { $tabCount } tendayke ndive
         }
+
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Eipuruhína Ñe’ẽatãha “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -107,6 +111,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] Emoherakuãhína Ñe’ẽatãha peteĩ { $tabCount } tendayke ndive
            *[other] Emoherakuãhína Ñe’ẽatãha peteĩ { $tabCount } tendayke ndive
         }
+
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Eipuruhína Tembipuru’i “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -115,6 +120,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] Emoherakuãhína Tembipuru’i peteĩ { $tabCount } tendayke ndive
            *[other] Emoherakuãhína Tembipuru’i peteĩ { $tabCount } tendayke ndive
         }
+
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Eipuruhína Mba’erechaha “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -123,6 +129,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] Emoherakuãhína Mba’erechaha peteĩ { $tabCount } tendayke ndive
            *[other] Emoherakuãhína Mba’erechaha peteĩ { $tabCount } tendayke ndive
         }
+
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Eipuruhína Ovetã "{ $streamTitle }" ndive
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -131,6 +138,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] Emoherakuãhína Ovetã peteĩ { $tabCount } tendayke ndive
            *[other] Emoherakuãhína Ovetã peteĩ { $tabCount } tendayke ndive
         }
+
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Eipuruhína Tendayke "{ $streamTitle }" ndive
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -163,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture = ¿Emoneĩ { $origin } ohendúvo mb
 
 webrtc-allow-share-audio-capture-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty }-pe ohecha hag̃ua ko tendayke mba’epu?
 webrtc-allow-share-camera-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } ta’ãngamýipe?
-webrtc-allow-share-microphone-unsafe-delegations = ¿Emoneĩ { $origin } oikévo { $thirdParty } mba’epúpe?
 webrtc-allow-share-microphone-unsafe-delegation = ¿Emoneĩ { $origin } oikévo { $thirdParty } mba’epúpe?
 webrtc-allow-share-screen-unsafe-delegation = ¿Emoneĩ { $origin } ome’ẽvo { $thirdParty } ohecha hag̃ua mba’erechaha?
 # "Speakers" is used in a general sense that might include headphones or
@@ -178,6 +185,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Emoneĩ { $ori
 
 webrtc-share-screen-warning = Emoherakuã mba’erechaha tenda ejeroviahápe. Jepuru oñondivegua omoneĩkuaa tenda imarãva oipykúivo ndéramo ha omonda ne mba’ekuaarã ñemigua.
 webrtc-share-browser-warning = Emoherakuã { -brand-short-name } rendakuéra ejeroviahápe añoite. Jepuru oñondivegua omoneĩkuaa tenda imarãva nemyendaguévo ha omonda ne mba’ekuaarã ñemigua.
+
 webrtc-share-screen-learn-more = Jekuaave
 webrtc-pick-window-or-screen = Eiporavo ovetã térã mba’erechaha
 webrtc-share-entire-screen = Mba’erechaha tuichakue
@@ -213,6 +221,7 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Eñemomandu’a mba’épepa ojepyta
 webrtc-mute-notifications-checkbox = Emokirirĩ ñanduti renda marandu’i emoherakuã aja
+
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ndaikatúi omoneĩ mba’erechahápe jeike tapia.
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ndaikatúi omoneĩ tendayke mba’epúpe jeike tapia oporandu’ỹre mba’e tendayképa omoherakuãta.
 webrtc-reason-for-no-permanent-allow-insecure = Nde jeike ko tendápe nahekorosãi. Eñemo’ã hag̃ua, { -brand-short-name } omoneĩta eikévo ko tembiapópe añoite.

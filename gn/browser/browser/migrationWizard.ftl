@@ -4,6 +4,7 @@
 
 migration-wizard-selection-header = Emba’egueru kundahára mba’ekuaarãgui
 migration-wizard-selection-list = Eiporavo mba’ekuaarã egueruséva.
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -11,6 +12,7 @@ migration-wizard-selection-list = Eiporavo mba’ekuaarã egueruséva.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
+
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -53,23 +55,29 @@ migration-selected-data-label = Emba’egueru mba’ekuaarã poravopyre
 
 migration-select-all-option-label = Mbosa’ypa
 migration-bookmarks-option-label = Techaukaha
+
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Takate’ỹha
+
 migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñongatupyre
 migration-history-option-label = Kundaha rembiasakue
 migration-extensions-option-label = Jepysokue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva
 migration-payment-methods-option-label = Mba’éicha ehepyme’ẽta
+
 migration-cookies-option-label = Kookie
 migration-session-option-label = Ovetã ha tendayke
 migration-otherdata-option-label = Ambue mba’ekuaarã
+
 migration-passwords-from-file-progress-header = Marandurenda ñemba’egueru ñe’ẽñemi
 migration-passwords-from-file-success-header = Ñe’ẽñemi Ñemba’egueru Porã
 migration-passwords-from-file = Aheka ñe’ẽñemi marandurendápe
 migration-passwords-new = Ñe’ẽñemi pyahu
 migration-passwords-updated = Ñe’ẽñemi oĩmavavoi
+
 migration-passwords-from-file-no-valid-data = Pe marandurenda ndogueroikéi ñe’ẽñemi mba’ekuaarã. Eiporavo ambue marandurenda.
+
 migration-passwords-from-file-picker-title = Marandurenda ñemba’egueru ñe’ẽñemi
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -85,6 +93,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV Kuatiaite
        *[other] TSV Marandurenda
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,6 +104,7 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } juajupyre
        *[other] { $newEntries } juajupyre
     }
+
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -105,11 +115,14 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } hekopyahupyre
        *[other] { $updatedEntries } hekopyahupyre
     }
+
 migration-bookmarks-from-file-picker-title = Techaukaha marandurenda jegueru
 migration-bookmarks-from-file-progress-header = Techaukaha mba’egueru
 migration-bookmarks-from-file = Techaukaha
 migration-bookmarks-from-file-success-header = Mba’ekuaarã mba’egueru porã
+
 migration-bookmarks-from-file-no-valid-data = Pe marandurenda ndogueroikéi ñe’ẽñemi rechaukaha. Eiporavo ambue marandurenda.
+
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -117,9 +130,11 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML Kuatiaite
        *[other] HTML Marandurenda
     }
+
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON Marandurenda
+
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -130,12 +145,14 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } techaukaha
        *[other] { $newEntries } techaukahakuéra
     }
+
 migration-import-button-label = Mba’egueru
 migration-choose-to-import-from-file-button-label = Marandurendágui jegueru
 migration-import-from-file-button-label = Eiporavo Marandurenda
 migration-cancel-button-label = Heja
 migration-done-button-label = Apopyre
 migration-continue-button-label = Ku’ejey
+
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ndojuhúi apopyre orekóva mba’ekuaarã techaukaha, tembiasakue térã ñe’ẽñemi rehegua.
 migration-wizard-import-browser-no-resources = Oiko jejavy. { -brand-short-name } ndojuhúi mba’ekuaarã omba’egueru hag̃ua kundahára mba’ete guive.
 
@@ -146,6 +163,7 @@ migration-wizard-import-browser-no-resources = Oiko jejavy. { -brand-short-name 
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = techaukaha
+
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = Takate’ỹha
@@ -163,6 +181,7 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Mba’egueruha…
 migration-wizard-progress-icon-completed =
     .aria-label = Opámava
+
 migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
 migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:
 migration-safari-password-import-step1 = Safari ndive, embojuruja “Safari” poravorã ha eho Guerohoryvévape > Ñe’ẽñemi
@@ -171,6 +190,8 @@ migration-safari-password-import-step3 = Eñongatu ñe’ẽñemi marandurenda
 migration-safari-password-import-step4 = Eipuru “Marandurenda jeporavo” ehecha hag̃ua ñe’ẽñemi eñongatuséva
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda
+
+
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -181,6 +202,7 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } rechaukaha
        *[other] { $quantity } rechaukaha
     }
+
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -208,6 +230,7 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } jepysokue
        *[other] { $quantity } jepysokuekuéra
     }
+
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -215,10 +238,12 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } { $quantity } jepysokue
+
 migration-wizard-progress-extensions-support-link = Ehecha mba’éichapa { -brand-product-name } ojokupyty jepysokue ndive
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Ndaipóri jepysokue ojokupytýva
+
 migration-wizard-progress-extensions-addons-link = Eheka jepysokue { -brand-short-name }-pe g̃uarã
 
 ##
@@ -233,6 +258,7 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } ñe’ẽñemi
        *[other] { $quantity } ñe’ẽñemi
     }
+
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -243,7 +269,9 @@ migration-wizard-progress-success-history =
         [one] Ára eipururamovehague
        *[other] Ára eipururamovehague { $maxAgeInDays }
     }
+
 migration-wizard-progress-success-formdata = Myanyhẽha rembiasakue
+
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -254,6 +282,7 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } mba’éicha ehepyme’ẽta
        *[other] { $quantity } mba’éicha ehepyme’ẽmbáta
     }
+
 migration-wizard-safari-permissions-sub-header = Emba’egueru hag̃ua Safari kundahára rechaukaha ha rembiasakue:
 migration-wizard-safari-instructions-continue = Eiporavo “Ku’ejey”
 migration-wizard-safari-instructions-folder = Eiporavo Safari marandurenda rysýipe ha eiporavo “Mbojuruja”
