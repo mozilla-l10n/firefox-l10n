@@ -132,12 +132,6 @@ about-telemetry-category-header = категорія
 about-telemetry-method-header = спосіб
 about-telemetry-object-header = об'єкт
 about-telemetry-extra-header = екстра
-about-telemetry-origin-section = Телеметрія джерела
-about-telemetry-origin-origin = джерело
-about-telemetry-origin-count = кількість
-# Variables:
-#   $telemetryServerOwner (string) - The value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
-about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Телеметрія джерела Firefox</a> кодує дані перед їх надсиланням, щоб в { $telemetryServerOwner } мали змогу їх проаналізувати, але не дізналися про будь-який { -brand-product-name }, що надав свої дані для аналізу. (<a data-l10n-name="prio-blog-link">Докладніше</a>)
 # Variables:
 #  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Процес { $process }

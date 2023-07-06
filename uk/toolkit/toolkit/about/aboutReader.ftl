@@ -4,6 +4,7 @@
 
 about-reader-loading = Завантаження…
 about-reader-load-error = Не вдалося завантажити статтю зі сторінки
+
 about-reader-color-scheme-light = Світла
     .title = Світла схема кольорів
 about-reader-color-scheme-dark = Темна
@@ -12,6 +13,7 @@ about-reader-color-scheme-sepia = Сепія
     .title = Схема кольорів сепія
 about-reader-color-scheme-auto = Авто
     .title = Автоматична колірна схема
+
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

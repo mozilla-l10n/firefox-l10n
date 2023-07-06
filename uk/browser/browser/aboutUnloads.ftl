@@ -14,15 +14,18 @@ about-unloads-intro =
     Ця сторінка показує, як { -brand-short-name } пріоритизує вкладки та яку вкладку
     буде вивантажено під час спрацювання цієї функції. Ви можете активувати
     вивантаження вкладки вручну натиснувши кнопку <em>Вивантажити</em> внизу.
+
 # The link points to a Firefox documentation page, only available in English,
 # with title "Tab Unloading"
 about-unloads-learn-more =
     Докладніше про функцію <a data-l10n-name="doc-link">Вивантаження вкладок</a>
     і цю сторінку.
+
 about-unloads-last-updated = Востаннє оновлено: { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-button-unload = Вивантажити
     .title = Вивантажити вкладку з найвищим пріоритетом
 about-unloads-no-unloadable-tab = Немає вкладок для вивантаження.
+
 about-unloads-column-priority = Пріоритет
 about-unloads-column-host = Хост
 about-unloads-column-last-accessed = Останній доступ
@@ -34,6 +37,7 @@ about-unloads-column-memory = Пам'ять
     .title = Розраховане споживання пам'яті вкладкою
 about-unloads-column-processes = Ідентифікатори процесів
     .title = Ідентифікатори процесів вмісту розміщеної вкладки
+
 about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } МБ
 about-unloads-memory-in-mb-tooltip =

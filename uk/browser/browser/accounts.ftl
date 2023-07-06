@@ -5,11 +5,14 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Завершити налаштування облікового запису
+
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Обліковий запис від'єднано
+
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Надіслати на всі пристрої
+
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Керувати пристроями…
 
@@ -29,8 +32,10 @@ account-manage-devices-titlecase = Керувати пристроями…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Немає під'єднаних пристроїв
+
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Докладніше про надсилання вкладок…
+
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Під'єднати інший пристрій…
 
@@ -45,13 +50,17 @@ account-send-tab-to-device-verify = Підтвердити обліковий з
 # The title shown in a notification when either this device or another device
 # has connected to, or disconnected from, a Firefox account.
 account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
+
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Цей комп'ютер під'єднано до { $deviceName }.
+
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Цей комп'ютер під'єднано до нового пристрою.
+
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Ви успішно увійшли
+
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Цей комп'ютер було від'єднано.
 
@@ -63,6 +72,7 @@ account-single-tab-arriving-title = Відправлена вкладка
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Вкладка з { $deviceName }
+
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -75,6 +85,7 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Отримані вкладки
+
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-blocklist-window =
-    .title = Списки блокування
-    .style = width: 58em
-
 blocklist-window2 =
     .title = Списки блокування
     .style = min-width: 58em

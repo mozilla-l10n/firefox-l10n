@@ -14,6 +14,7 @@ xpinstall-prompt-message = Ви збираєтеся встановити дод
 
 xpinstall-prompt-header-unknown = Дозволити невідомому сайту встановити додаток?
 xpinstall-prompt-message-unknown = Ви збираєтеся встановити додаток з невідомого сайту. Перш ніж продовжити, переконайтеся, що ви довіряєте цьому сайту.
+
 xpinstall-prompt-dont-allow =
     .label = Не дозволяти
     .accesskey = Н
@@ -44,6 +45,7 @@ xpinstall-disabled = Зараз встановлення програмного 
 xpinstall-disabled-button =
     .label = Увімкнути
     .accesskey = У
+
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -52,12 +54,14 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) заблоков
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Ваш системний адміністратор заблокував запит на встановлення програмного забезпечення з цього сайту на ваш комп'ютер.
 addon-install-full-screen-blocked = Встановлення додатків не дозволено під час або перед початком повноекранного режиму.
+
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } додано до { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } вимагає нових дозволів
+
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -73,6 +77,7 @@ addon-removal-title = Вилучити { $name }?
 addon-removal-message = Вилучити { $name } з { -brand-shorter-name }?
 addon-removal-button = Вилучити
 addon-removal-abuse-report-checkbox = Поскаржитись на це розширення до { -vendor-short-name }
+
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -82,6 +87,7 @@ addon-downloading-and-verifying =
        *[many] Завантаження і перевірка { $addonCount } додатків…
     }
 addon-download-verifying = Перевірка
+
 addon-install-cancel-button =
     .label = Скасувати
     .accesskey = С
