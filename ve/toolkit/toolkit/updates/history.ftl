@@ -22,5 +22,7 @@ state-header = Bulani
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Zwidodombedzwa
+
 update-installed-on = Yo longelwa kha: { $date }
+
 update-status = Maimo: { $status }

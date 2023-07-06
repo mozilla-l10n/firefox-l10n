@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Vhahulwane
 
-certmgr-edit-ca-cert =
-    .title = Lulamisani nzudzanyo ya ṱhanziela dza fulufhelo kha CA
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Lulamisani nzudzanyo ya ṱhanziela dza fulufhelo kha CA
     .style = min-width: 48em;
@@ -26,10 +22,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Hei ṱhanziela i nga sumba vhashumisi vha meiḽi.
-
-certmgr-delete-cert =
-    .title = Thuthani ṱhanziela
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Thuthani ṱhanziela

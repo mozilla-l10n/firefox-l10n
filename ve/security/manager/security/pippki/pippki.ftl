@@ -20,10 +20,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = U Longela ṱhanziela
-    .style = width: 46em
-
 download-cert-window2 =
     .title = U Longela ṱhanziela
     .style = min-width: 46em
@@ -57,4 +53,6 @@ set-password-repeat-backup-pw =
 set-password-reminder = Zwa vhuṱhogwa: Arali na hangwa phasiwede ya thikhedzo ya thanziela yanu, ni nga si kone u vhuedzedza hei thikhedzo nga murahu.  Ni khou humbelwa uri ni i rekhode fhethu ho tsireledzeaho.
 
 ## Protected Auth dialog
+
+## Protected authentication alert
 

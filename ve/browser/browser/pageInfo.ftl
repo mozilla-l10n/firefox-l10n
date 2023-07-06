@@ -77,3 +77,6 @@ general-quirks-mode =
 general-strict-mode =
     .value = Moudu wa u tendelana na maimo
 
+## Variables:
+##   $website (string) — The url of the website pageInfo is getting info for
+
