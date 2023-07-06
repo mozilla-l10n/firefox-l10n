@@ -2,21 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-create-profile-window =
-    .title = Волшебник за креирање профили
-    .style = width: 51em; height: 38em;
-
 create-profile-window2 =
     .title = Волшебник за креирање профили
     .style = min-width: 51em; min-height: 38em;
 
 ## First wizard page
-
-create-profile-first-page-header =
-    { PLATFORM() ->
-        [macos] Вовед
-       *[other] Добродојдовте во „{ create-profile-window.title }“
-    }
 
 create-profile-first-page-header2 =
     { PLATFORM() ->
@@ -37,12 +27,6 @@ profile-creation-explanation-4 =
     }
 
 ## Second wizard page
-
-create-profile-last-page-header =
-    { PLATFORM() ->
-        [macos] Заклучок
-       *[other] Комплетирање на „{ create-profile-window.title }“
-    }
 
 create-profile-last-page-header2 =
     { PLATFORM() ->

@@ -23,10 +23,6 @@ reset-password-button-label =
 
 ## Downloading cert dialog
 
-download-cert-window =
-    .title = Преземање на сертификат
-    .style = width: 46em
-
 download-cert-window2 =
     .title = Преземање на сертификат
     .style = min-width: 46em
@@ -61,7 +57,5 @@ set-password-reminder = Важно: ако ја заборавите лозин�
 
 ## Protected Auth dialog
 
-protected-auth-window =
-    .title = Проверка со зашитетен белег
-protected-auth-msg = Проверете се со белегот. Методот зависи од типот на белегот.
-protected-auth-token = Белег:
+## Protected authentication alert
+

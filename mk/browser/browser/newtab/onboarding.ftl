@@ -14,9 +14,15 @@ onboarding-welcome-header = Добредојдовте на { -brand-short-name 
 onboarding-start-browsing-button-label = Започнете со прелистување
 onboarding-not-now-button-label = Не сега
 
+# This string will be used on welcome page primary button label
+# when Firefox is both pinned and default
+mr1-onboarding-get-started-primary-button-label = Вовед
+
 ## Custom Return To AMO onboarding strings
 
 return-to-amo-add-extension-label = Додадете ја наставката
+
+##  Variables: $addon-name (String) - Name of the add-on to be installed
 
 ## Multistage onboarding strings (about:welcome pages)
 
@@ -33,13 +39,6 @@ return-to-amo-add-extension-label = Додадете ја наставката
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
 
-# This string will be used on welcome page primary button label
-# when Firefox is both pinned and default
-mr1-onboarding-get-started-primary-button-label = Вовед
-
-mr1-onboarding-welcome-header = Добредојдовте на { -brand-short-name }
-
-mr1-onboarding-set-default-secondary-button-label = Не сега
 mr1-onboarding-sign-in-button-label = Најавете се
 
 ## Title, subtitle and primary button string used on set default onboarding screen
@@ -47,11 +46,6 @@ mr1-onboarding-sign-in-button-label = Најавете се
 
 
 ## Multistage MR1 onboarding strings (about:welcome pages)
-
-mr1-onboarding-import-secondary-button-label = Не сега
-
-mr2-onboarding-colorway-header = Животот во боја
-mr2-onboarding-colorway-secondary-button-label = Не сега
 
 mr1-onboarding-theme-secondary-button-label = Не сега
 
@@ -97,6 +91,8 @@ onboarding-live-language-skip-button-label = Прескокни
 
 ## Firefox 100 Thank You screens
 
+## MR2022 New User Easy Setup screen strings
+
 ## MR2022 New User Pin Firefox screen strings
 
 ## MR2022 Existing User Pin Firefox Screen Strings
@@ -122,4 +118,11 @@ onboarding-live-language-skip-button-label = Прескокни
 ## MR2022 Privacy Segmentation screen strings
 
 ## MR2022 Multistage Gratitude screen strings
+
+## Onboarding spotlight for infrequent users
+
+## MR2022 Illustration alt tags
+## Descriptive tags for illustrations used by screen readers and other assistive tech
+
+## Device migration onboarding
 

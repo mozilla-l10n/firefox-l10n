@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Авторитети
 
-certmgr-edit-ca-cert =
-    .title = Менување на поставките за доверба на CA сетификатот
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Менување на поставките за доверба на CA сетификатот
     .style = min-width: 48em;
@@ -33,10 +29,6 @@ certmgr-edit-cert-trust-ssl =
 certmgr-edit-cert-trust-email =
     .label = Овој сертификат може да идентификува поштенски корисници.
 
-certmgr-delete-cert =
-    .title = Бришење на сертификат
-    .style = width: 48em; height: 24em;
-
 certmgr-delete-cert2 =
     .title = Бришење на сертификат
     .style = min-width: 48em; min-height: 24em;
@@ -46,9 +38,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Сервер
-
-certmgr-override-lifetime =
-    .label = Животен век
 
 certmgr-token-name =
     .label = Безбедносен уред

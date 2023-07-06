@@ -40,6 +40,8 @@ copy-raw-data-to-clipboard-label = Копирај ги сировите пода
 ## Media titles
 
 
+## Codec support table
+
 ##
 
 

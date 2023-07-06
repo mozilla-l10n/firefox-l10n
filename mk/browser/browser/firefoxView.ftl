@@ -37,3 +37,19 @@ firefoxview-collapse-button-show =
 
 firefoxview-collapse-button-hide =
     .title = Скриј список
+
+## History in this context refers to browser history
+
+## Open Tabs in this context refers to all open tabs in the browser
+
+## Recently closed tabs in this context refers to recently closed tabs from all windows
+
+## Tabs from other devices refers in this context refers to synced tabs from other devices
+
+##
+
+## Variables:
+##   $date (string) - Date to be formatted based on locale
+
+##
+

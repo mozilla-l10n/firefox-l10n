@@ -18,18 +18,6 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Отвори
     .accesskey = О
-synced-tabs-context-open-in-new-tab =
-    .label = Отвори во ново јазиче
-    .accesskey = ј
-synced-tabs-context-open-in-new-window =
-    .label = Отвори во нов прозорец
-    .accesskey = Н
-synced-tabs-context-open-in-new-private-window =
-    .label = Отвори во нов приватен прозорец
-    .accesskey = П
-synced-tabs-context-bookmark-single-tab =
-    .label = Обележи го ова јазиче…
-    .accesskey = О
 
 ##
 

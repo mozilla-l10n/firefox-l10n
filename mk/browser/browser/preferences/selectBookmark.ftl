@@ -2,10 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-select-bookmark-window =
-    .title = Поставување на домашна страница
-    .style = width: 32em;
-
 select-bookmark-window2 =
     .title = Поставување на домашна страница
     .style = min-width: 32em;

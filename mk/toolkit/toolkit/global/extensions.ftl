@@ -22,15 +22,18 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Откажи
     .accesskey = О
+
 webext-perms-sideload-enable =
     .label = Овозможи
     .accesskey = О
 webext-perms-sideload-cancel =
     .label = Откажи
     .accesskey = О
+
 webext-perms-update-accept =
     .label = Надградби
     .accesskey = Н
+
 webext-perms-optional-perms-list-intro = Сака да:
 webext-perms-optional-perms-allow =
     .label = Дозволи
@@ -38,10 +41,13 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Одбиј
     .accesskey = О
+
 webext-perms-host-description-all-urls = Пристапува до вашите податоци за сите мрежни места
+
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Пристапува до вашите податоци за места во домејнот { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -53,6 +59,7 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Пристапува до вашите податоци за { $domain }
+
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

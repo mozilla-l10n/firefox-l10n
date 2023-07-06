@@ -5,10 +5,6 @@
 
 ## Colorway collections
 
-colorway-collection-independent-voices = Независни гласови
-# Used as a subheading for the colorway collection card in about:addons
-colorway-collection-independent-voices-short-description = Бои кои ја менуваат културата.
-
 ## Colorway names and descriptions
 
 expressionist-colorway-name = Експресионист

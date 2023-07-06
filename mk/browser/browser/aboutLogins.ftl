@@ -5,11 +5,6 @@
 
 about-logins-page-title = Најави и лозинки
 
-login-filter =
-    .placeholder = Пребарај најави
-
-create-login-button = Креирај нова најава
-
 fxaccounts-sign-in-text = Добијте ги вашите лозинки на други уреди
 fxaccounts-sign-in-sync-button = Пријавете се за синхронизација
 fxaccounts-avatar-button =
@@ -99,9 +94,10 @@ login-item-copied-password-button-text = Ископирана!
 login-item-save-changes-button = Зачувај промени
 login-item-save-new-button = Сними
 login-item-cancel-button = Откажи
-login-item-time-changed = Последна промена: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
-login-item-time-created = Создадено: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
-login-item-time-used = Последно користено: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## The date is displayed in a timeline showing the password evolution.
+## A label is displayed under the date to describe the type of change.
+## (e.g. updated, created, etc.)
 
 ## OS Authentication dialog
 
@@ -152,6 +148,9 @@ about-logins-confirm-remove-dialog-title = Да се отстрани ова н�
 confirm-delete-dialog-message = Ова дејство не може да се врати.
 about-logins-confirm-remove-dialog-confirm-button = Отстрани
 
+## Variables
+##   $count (number) - Number of items
+
 about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Отстрани
@@ -190,6 +189,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
        *[other] Ова ќе ги отстрани сите најавувања што сте ги зачувале на { -brand-short-name } на сите уреди синхронизирани со вашиот { -fxaccount-brand-name }. Ова ќе ги отстрани и предупредувањата за прекршување што се појавуваат овде. Нема да може да го вратите ова дејство.
     }
 
+##
+
 about-logins-confirm-export-dialog-title = Извезете најави и лозинки
 about-logins-confirm-export-dialog-message = Вашите лозинки ќе се зачуваат како читлив текст (на пр., BadP@ssw0rd), така што секој што може да ја отвори извезената датотека може да ги прегледа.
 about-logins-confirm-export-dialog-confirm-button = Извези...
@@ -209,7 +210,6 @@ about-logins-breach-alert-date = Овој прекршок се случи на 
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Појди до { $hostname }
-about-logins-breach-alert-learn-more-link = Дознајте повеќе
 
 ## Vulnerable Password notification
 
