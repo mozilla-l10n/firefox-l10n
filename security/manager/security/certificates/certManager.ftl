@@ -11,10 +11,6 @@ certmgr-tab-mine =
 certmgr-tab-ca =
     .label = Bolaodi
 
-certmgr-edit-ca-cert =
-    .title = Edita Disetwa tsa setifikeiti sa CA se tshwetjwang
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = Edita Disetwa tsa setifikeiti sa CA se tshwetjwang
     .style = min-width: 48em;
@@ -26,10 +22,6 @@ certmgr-edit-cert-trust-ssl =
 
 certmgr-edit-cert-trust-email =
     .label = Setefikeiti sena se ka tseba basebedisi ba meile.
-
-certmgr-delete-cert =
-    .title = Phumula Setefikeiti
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Phumula Setefikeiti
