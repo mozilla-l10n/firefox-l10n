@@ -18,6 +18,7 @@ cert-error-untrusted-default = Гэрчилгээ итгэлтэй эх үүсв
 
 connectionFailure-title = Холбогдож чадахгүй байна
 deniedPortAccess-title = Хаяг хязгаарлагдсан байна
+
 fileNotFound-title = Файл олдсонгүй
 generic-title = Уучлаарай.
 netInterrupt-title = Холболт тасарсан

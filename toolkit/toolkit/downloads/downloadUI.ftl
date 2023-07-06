@@ -12,7 +12,9 @@ download-ui-dont-quit-button =
         [mac] Бүү гар
        *[other] Бүү гар
     }
+
 download-ui-dont-go-offline-button = Холбоотой үлд
+
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] 1 татаж авалтыг цуцал

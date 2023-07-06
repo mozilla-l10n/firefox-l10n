@@ -22,5 +22,7 @@ state-header = Төлөв
 update-full-build-name = { $name } ({ $buildID })
 
 update-details = Нарийн мэдээлэл
+
 update-installed-on = Суугдсан газар: { $date }
+
 update-status = Төлөв: { $status }

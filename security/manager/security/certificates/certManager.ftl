@@ -17,10 +17,6 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Эрх
 
-certmgr-edit-ca-cert =
-    .title = ГЭ гэрчилгээнд итгэх тохиргоог засварлах
-    .style = width: 48em;
-
 certmgr-edit-ca-cert2 =
     .title = ГЭ гэрчилгээнд итгэх тохиргоог засварлах
     .style = min-width: 48em;
@@ -29,10 +25,6 @@ certmgr-edit-cert-edit-trust = Итгэх тохиргоог засварлах:
 
 certmgr-edit-cert-trust-email =
     .label = Энэ гэрчилгээ захианы хэрэглэгчийг таниж чадна.
-
-certmgr-delete-cert =
-    .title = Гэрчилгээ устгах
-    .style = width: 48em; height: 24em;
 
 certmgr-delete-cert2 =
     .title = Гэрчилгээ устгах
@@ -43,9 +35,6 @@ certmgr-cert-name =
 
 certmgr-cert-server =
     .label = Сервер
-
-certmgr-override-lifetime =
-    .label = Үргэлж
 
 certmgr-token-name =
     .label = Нууцлалын төхөөрөмж

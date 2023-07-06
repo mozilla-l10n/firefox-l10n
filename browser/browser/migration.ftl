@@ -74,3 +74,4 @@ browser-data-session-checkbox =
     .label = Цонх болон самбарууд
 browser-data-session-label =
     .value = Цонх болон самбарууд
+

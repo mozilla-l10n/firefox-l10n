@@ -151,10 +151,6 @@ main-context-menu-frame-reload =
     .label = Хүрээг дахин дууд
     .accesskey = Х
 
-main-context-menu-frame-bookmark =
-    .label = Энэ хүрээний хаягийг хадгал
-    .accesskey = л
-
 main-context-menu-frame-save-as =
     .label = Хүрээнд нэр өгч хадгал…
     .accesskey = Х
