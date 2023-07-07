@@ -9,19 +9,17 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } के लिए रिपोर्ट करें
-
 abuse-report-title-extension = इस विस्तार की रिपोर्ट { -vendor-short-name }
 abuse-report-title-theme = इस थीम को { -vendor-short-name } रिपोर्ट करें
 abuse-report-subtitle = मुद्दा क्या है?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name"> { $author-name } </a> द्वारा
-
 abuse-report-learnmore =
     पता लगाएँ कि क्या समस्या है?
     <a data-l10n-name="learnmore-link"> रिपोर्टिंग एक्सटेंशन और थीम के बारे में और जानें </a>
-
+abuse-report-learnmore-intro = पता लगाएँ कि क्या समस्या है?
+abuse-report-learnmore-link = रिपोर्टिंग एक्सटेंशन और थीम के बारे में और जानें
 abuse-report-submit-description = समस्या का वर्णन करें (वैकल्पिक)
 abuse-report-textarea =
     .placeholder = यदि हमारे पास कोई समस्या है तो हमें समस्या का समाधान करना आसान है। कृपया बताएं कि आप क्या अनुभव कर रहे हैं। वेब को स्वस्थ रखने में हमारी मदद करने के लिए धन्यवाद।
@@ -35,12 +33,6 @@ abuse-report-cancel-button = रद्द करें
 abuse-report-next-button = अगला
 abuse-report-goback-button = वापस जाएँ
 abuse-report-submit-button = जमा
-
-## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
 
 ## Message bars descriptions.
 ##
@@ -68,15 +60,11 @@ abuse-report-messagebar-action-cancel = रद्द करें
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-example = उदाहरण: इंजेक्ट किया गया मैलवेयर या डेटा चुराया गया
-
 abuse-report-spam-example = उदाहरण: वेबपृष्ठों पर विज्ञापन डालें
-
 abuse-report-settings-suggestions = विस्तार की रिपोर्ट करने से पहले, आप अपनी सेटिंग्स बदलने की कोशिश कर सकते हैं:
 abuse-report-settings-suggestions-search = अपनी डिफ़ॉल्ट खोज सेटिंग बदलें
 abuse-report-settings-suggestions-homepage = अपना मुखपृष्ठ और नया टैब बदलें
-
 abuse-report-deceptive-example = उदाहरण: भ्रामक वर्णन या कल्पना
-
 abuse-report-broken-example = उदाहरण: विशेषताएं धीमी हैं, उपयोग करना कठिन है, या काम नहीं कर रहा है; वेबसाइटों के हिस्से लोड या असामान्य नहीं दिखेंगे
 abuse-report-broken-suggestions-extension =
     ऐसा लगता है कि आपने बग की पहचान कर ली है। सबसे अच्छी तरह से यहाँ एक रिपोर्ट प्रस्तुत करने के अलावा
@@ -86,13 +74,9 @@ abuse-report-broken-suggestions-theme =
     ऐसा लगता है कि आपने बग की पहचान कर ली है। सबसे अच्छी तरह से यहाँ एक रिपोर्ट प्रस्तुत करने के अलावा
     एक कार्यक्षमता समस्या को हल करने के लिए विषय डेवलपर से संपर्क करना है।
     डेवलपर जानकारी प्राप्त करने के लिए <a data-l10n-name="support-link"> थीम की वेबसाइट </a> पर जाएं।
-
 abuse-report-policy-suggestions =
     नोट: कॉपीराइट और ट्रेडमार्क मुद्दों को एक अलग प्रक्रिया में सूचित किया जाना चाहिए।
     <a data-l10n-name="report-infringement-link"> इन निर्देशों का उपयोग करें </a> से
     समस्या की रिपोर्ट करें।
-
 abuse-report-unwanted-example = उदाहरण: एक एप्लिकेशन ने इसे मेरी अनुमति के बिना स्थापित किया
-
 abuse-report-other-reason = कुछ और
-
