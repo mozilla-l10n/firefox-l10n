@@ -67,10 +67,10 @@ third-party-button-to-unblock-module = Deze module deblokkeren
     .aria-label = Momenteel geblokkeerd. Klik om te deblokkeren.
 third-party-button-to-unblock-module-disabled = Deze module deblokkeren (blokkeerlijst momenteel uitgeschakeld)
     .title =
-        Momenteel gemarkeerd als geblokkerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
+        Momenteel gemarkeerd als geblokkeerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
         van { -brand-short-name }. Klik om deze te deblokkeren.
     .aria-label =
-        Momenteel gemarkeerd als geblokkerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
+        Momenteel gemarkeerd als geblokkeerd, hoewel de blokkeerlijst is uitgeschakeld voor deze run
         van { -brand-short-name }. Klik om deze te deblokkeren.
 third-party-button-expand =
     .title = Detailinformatie tonen
