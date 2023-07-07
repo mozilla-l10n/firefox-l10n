@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport voor { $addon-name }
-
 abuse-report-title-extension = Deze extensie rapporteren aan { -vendor-short-name }
 abuse-report-title-sitepermission = Deze extensie voor websitemachtigingen rapporteren aan { -vendor-short-name }
 abuse-report-title-theme = Dit thema rapporteren aan { -vendor-short-name }
 abuse-report-subtitle = Wat is het probleem?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = door <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Weet u niet zeker welk probleem u moet selecteren?
     <a data-l10n-name="learnmore-link">Meer info over het rapporteren van extensies en thema’s</a>
-
+abuse-report-learnmore-intro = Weet u niet zeker welk probleem u moet selecteren?
+abuse-report-learnmore-link = Meer info over het rapporteren van extensies en thema’s
 abuse-report-submit-description = Beschrijf het probleem (optioneel)
 abuse-report-textarea =
     .placeholder = Het is makkelijker voor ons om een probleem te behandelen als we details hebben. Beschrijf het probleem dat u ondervindt. Bedankt voor uw hulp bij het gezond houden van het web.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Annuleren
 
 abuse-report-damage-reason-v2 = Het heeft mijn computer beschadigd of mijn gegevens gecompromitteerd
 abuse-report-damage-example = Voorbeeld: heeft malware geïnjecteerd of gegevens gestolen
-
 abuse-report-spam-reason-v2 = Het bevat spam of voegt ongewenste advertenties in
 abuse-report-spam-example = Voorbeeld: voegt advertenties toe aan webpagina’s
-
 abuse-report-settings-reason-v2 = Het heeft zonder dit te melden of te vragen mijn zoekmachine, startpagina of nieuwe tabblad gewijzigd
 abuse-report-settings-suggestions = Voordat u de extensie meldt, kunt u proberen uw instellingen te wijzigen:
 abuse-report-settings-suggestions-search = Uw standaard zoekinstellingen wijzigen
 abuse-report-settings-suggestions-homepage = Uw startpagina en nieuwe tabblad wijzigen
-
 abuse-report-deceptive-reason-v2 = Het doet zich als iets anders voor
 abuse-report-deceptive-example = Voorbeeld: misleidende beschrijving of afbeeldingen
-
 abuse-report-broken-reason-extension-v2 = Het werkt niet, zorgt ervoor dat websites niet werken of vertraagt { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Het werkt niet, zorgt ervoor dat websites niet werken of vertraagt { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Het werkt niet of zorgt ervoor dat de browserweergave niet werkt
@@ -91,13 +85,10 @@ abuse-report-broken-suggestions-theme =
     Het klinkt alsof u een bug hebt gevonden. Naast het hier indienen van een rapport, is de beste manier
     om een functioneel probleem op te lossen, contact op te nemen met de ontwikkelaar van het thema.
     <a data-l10n-name="support-link">Bezoek de website van het thema</a> voor informatie over de ontwikkelaar.
-
 abuse-report-policy-reason-v2 = Het bevat haatdragende, gewelddadige of illegale inhoud
 abuse-report-policy-suggestions =
     Opmerking: problemen met auteursrechten en handelsmerken moeten in een afzonderlijk proces worden gemeld.
     <a data-l10n-name="report-infringement-link">Volg deze instructies</a> om het probleem te melden.
-
 abuse-report-unwanted-reason-v2 = Ik heb het nooit gewild en weet niet hoe ik er vanaf moet komen
 abuse-report-unwanted-example = Voorbeeld: een toepassing heeft deze zonder mijn toestemming geïnstalleerd
-
 abuse-report-other-reason = Iets anders
