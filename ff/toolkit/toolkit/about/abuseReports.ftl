@@ -9,15 +9,14 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Jaŋtol ngam { $addon-name }
-
 abuse-report-title-extension = Jaŋto ndee timmitere e { -vendor-short-name }
 abuse-report-title-theme = Jaŋto ndee siŋkoore e { -vendor-short-name }
 abuse-report-subtitle = Hol ko woni caɗeele ɗee?
-
 abuse-report-learnmore =
     A yananaaka hol caɗeele cuɓotoɗaa?
     <a data-l10n-name="learnmore-link">Ɓeydu humpito baɗte Jaŋtol timmitte e ciŋkooje</a>
-
+abuse-report-learnmore-intro = A yananaaka hol caɗeele cuɓotoɗaa?
+abuse-report-learnmore-link = Ɓeydu humpito baɗte Jaŋtol timmitte e ciŋkooje
 abuse-report-submit-description = Sifo caɗeele ɗee (waɗɗaaki)
 
 ## Panel buttons.
@@ -26,12 +25,6 @@ abuse-report-cancel-button = Haaytu
 abuse-report-next-button = Yeeso
 abuse-report-goback-button = Rutto
 abuse-report-submit-button = Naatnu
-
-## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
 
 ## Message bars descriptions.
 ##
@@ -59,11 +52,8 @@ abuse-report-messagebar-action-cancel = Haaytu
 
 abuse-report-damage-reason-v2 = Ina bonna ordinateer am walla jaaya keɓe am
 abuse-report-damage-example = Yeru: addii mbonanteeri walla wujjii keɓe
-
 abuse-report-spam-example = Yeru: ɓittii ɓaŋŋine e kelle geese
-
 abuse-report-settings-reason-v2 = Ɗum waylii yiylorde am, jaɓɓorgo am, walla tabbere hesere tawo ɗum humpitaani mi walla ɗum naamnaaki mi
 abuse-report-settings-suggestions = Hade maa jaŋtaade timmitere ndee, aɗa waawi etaade waylude teelte maa;
 abuse-report-settings-suggestions-search = Waylu teelte njiilaw maa gaawooɗo
 abuse-report-settings-suggestions-homepage = Waylu jaɓɓorgo maa e tabbere hesere
-
