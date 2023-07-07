@@ -65,6 +65,16 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = Бұл парақ үшін аударма қолжетімсіз
 translations-panel-error-dismiss-button =
     .label = Түсіндім
+translations-panel-error-change-button =
+    .label = Бастапқы тілді өзгерту
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Кешіріңіз, { $language } тіліне қолдау әлі жоқ.
+translations-panel-error-unsupported-hint-unknown = Кешіріңіз, бұл тілге қолдау әлі жоқ.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -96,9 +106,27 @@ translations-manage-header = Аудармалар
 translations-manage-settings-button =
     .label = Баптаулар…
     .accesskey = т
+translations-manage-description = Желіден тыс аударма үшін тілдерді жүктеп алу.
 translations-manage-all-language = Барлық тілдер
 translations-manage-download-button = Жүктеп алу
 translations-manage-delete-button = Өшіру
+translations-manage-language-download-button =
+    .label = Жүктеп алу
+    .accesskey = к
+translations-manage-language-delete-button =
+    .label = Өшіру
+    .accesskey = ш
+translations-manage-error-download = Тілдік файлды жүктеп алу кезінде мәселе орын алды. Қайталап көріңіз.
+translations-manage-error-delete = Тілдік файлдарды өшіру кезінде қате орын алды. Қайталап көріңіз.
+translations-manage-error-list = Аударма үшін қолжетімді тілдер тізімін алу сәтсіз аяқталды. Әрекетті қайталау үшін бетті жаңартыңыз.
+translations-settings-title =
+    .title = Аударма баптаулары
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Келесі тілдер үшін аударма автоматты түрде орындалады
+translations-settings-never-translate-langs-description = Келесі тілдер үшін аударма ұсынылмайтын болады
+translations-settings-never-translate-sites-description = Келесі сайттар үшін аударма ұсынылмайтын болады
 translations-settings-languages-column =
     .label = Тілдер
 translations-settings-remove-language-button =
