@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Повідомити про порушення для { $addon-name }
-
 abuse-report-title-extension = Поскаржитись на це розширення до { -vendor-short-name }
 abuse-report-title-sitepermission = Повідомити { -vendor-short-name } про ці дозволи для сайтів додатка
 abuse-report-title-theme = Поскаржитись на цю тему до { -vendor-short-name }
 abuse-report-subtitle = У чому проблема?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = від <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Не впевнені, яку проблему обрати?
     <a data-l10n-name="learnmore-link">Дізнайтеся більше про скарги на розширення і теми</a>
-
+abuse-report-learnmore-intro = Не впевнені, яку проблему обрати?
+abuse-report-learnmore-link = Дізнайтеся більше про скарги на розширення і теми
 abuse-report-submit-description = Опишіть проблему (необов'язково)
 abuse-report-textarea =
     .placeholder = Нам легше розв'язати проблему, якщо вона детально описана. Будь ласка, розкажіть про усі подробиці. Дякуємо за допомогу.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Скасувати
 
 abuse-report-damage-reason-v2 = Пошкодження мого комп'ютера або компрометація моїх даних
 abuse-report-damage-example = Наприклад: Зловмисне програмне забезпечення чи викрадання даних
-
 abuse-report-spam-reason-v2 = Спам або небажана реклама
 abuse-report-spam-example = Наприклад: Додавання реклами на вебсторінках
-
 abuse-report-settings-reason-v2 = Зміна пошукового засобу, домівки чи сторінки нової вкладки без мого дозволу
 abuse-report-settings-suggestions = Перед надсиланням скарги ви можете спробувати змінити налаштування:
 abuse-report-settings-suggestions-search = Зміна типового пошукового засобу
 abuse-report-settings-suggestions-homepage = Зміна домівки і сторінки нової вкладки
-
 abuse-report-deceptive-reason-v2 = Видавання себе за щось інше
 abuse-report-deceptive-example = Наприклад: Опис чи зображення, що вводять в оману
-
 abuse-report-broken-reason-extension-v2 = Не працює, пошкоджує вебсайти, або сповільнює роботу { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Не працює, пошкоджує вебсайти, або сповільнює роботу { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Не працює чи пошкоджує вигляд браузера
@@ -94,14 +88,11 @@ abuse-report-broken-suggestions-theme =
     Схоже, ви виявили помилку. Окрім надсилання скарги, найкращим способом
     розв'язання проблеми буде зв'язок із розробником теми.
     <a data-l10n-name="support-link">Відвідайте вебсайт теми</a> для отримання інформації про розробника.
-
 abuse-report-policy-reason-v2 = Має ненависний, насильницький або незаконний вміст
 abuse-report-policy-suggestions =
     Примітка: Скарги на порушення авторських прав і торгової марки повинні відправлятися в окремому процесі.
     <a data-l10n-name="report-infringement-link">Скористайтеся цими інструкціями</a> для
     повідомлення про проблему.
-
 abuse-report-unwanted-reason-v2 = Мені це було непотрібно і я не знаю, як цього позбутися
 abuse-report-unwanted-example = Наприклад: Встановлення без дозволу
-
 abuse-report-other-reason = Щось інше
