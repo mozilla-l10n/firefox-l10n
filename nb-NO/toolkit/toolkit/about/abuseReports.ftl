@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Rapport for { $addon-name }
-
 abuse-report-title-extension = Rapporter denne utvidelsen til { -vendor-short-name }
 abuse-report-title-sitepermission = Rapporter dette tillegget for nettstedstillatelser til { -vendor-short-name }
 abuse-report-title-theme = Rapporter dette temaet til { -vendor-short-name }
 abuse-report-subtitle = Hva er problemet?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = av <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Er du usikker på hvilket problem du skal velge?
     <a data-l10n-name="learnmore-link">Les mer om rapportering av utvidelser og temaer</a>
-
+abuse-report-learnmore-intro = Er du usikker på hvilket problem du skal velge?
+abuse-report-learnmore-link = Les mer om rapportering av utvidelser og temaer
 abuse-report-submit-description = Beskriv problemet (valgfritt)
 abuse-report-textarea =
     .placeholder = Det er lettere for oss å løse et problem hvis vi har detaljer. Beskriv hva du opplever. Takk for at du hjelper oss med å gjøre nettet til et bedre sted.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Avbryt
 
 abuse-report-damage-reason-v2 = Det skadet datamaskinen min eller kompromitterte mine data
 abuse-report-damage-example = Eksempel: Injiserte skadelig kode eller stjal data
-
 abuse-report-spam-reason-v2 = Den inneholder spam eller legger inn uønsket annonsering
 abuse-report-spam-example = Eksempel: Setter inn reklamer på nettsider
-
 abuse-report-settings-reason-v2 = Den endret min søkmotor, startside eller ny fane uten å informere eller spørre meg
 abuse-report-settings-suggestions = Før du rapporterer utvidelsen, kan du prøve å endre dine innstillinger:
 abuse-report-settings-suggestions-search = Endre dine standardinnstillinger for søkemotor
 abuse-report-settings-suggestions-homepage = Endre startside og ny fane-siden
-
 abuse-report-deceptive-reason-v2 = Den gir seg ut for å være noe den ikke er
 abuse-report-deceptive-example = Eksempel: Villedende beskrivelse eller bilder
-
 abuse-report-broken-reason-extension-v2 = Den fungerer ikke, ødelegger nettsteder, eller gjør { -brand-product-name } treg
 abuse-report-broken-reason-sitepermission-v2 = Den fungerer ikke, ødelegger nettsteder, eller gjør { -brand-product-name } treg
 abuse-report-broken-reason-theme-v2 = Den virker ikke eller ødelegger nettsidens utseende
@@ -94,14 +88,11 @@ abuse-report-broken-suggestions-theme =
     Det høres ut som om du har identifisert en feil. I tillegg til å sende inn en rapport her, så er den beste måten
     for å få en funksjonell feil løst på er å kontakte temautvikleren.
     <a data-l10n-name="support-link">Besøk temaets nettsted</a> for å få informasjon om utvikleren.
-
 abuse-report-policy-reason-v2 = Den inneholder hatefullt, voldelig eller ulovlig innhold
 abuse-report-policy-suggestions =
     Merknad: Opphavsrett- og varemerkerproblemer rapporteres på en annen måte.
     <a data-l10n-name="report-infringement-link">Bruk disse instruksjonene</a> for å
     rapportere problemet.
-
 abuse-report-unwanted-reason-v2 = Jeg har aldri ønsket den og jeg vet ikke hvordan jeg kan bli kvitt den
 abuse-report-unwanted-example = Eksempel: Et program installerte den uten min tillatelse
-
 abuse-report-other-reason = Noe annet
