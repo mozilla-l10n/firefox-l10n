@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Імпарт дадзеных браўзера
 migration-wizard-selection-list = Выберыце дадзеныя, якія вы хочаце імпартаваць.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Выберыце дадзеныя, якія в
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,27 +53,23 @@ migration-selected-data-label = Імпартаваць абраныя дадзе
 
 migration-select-all-option-label = Вылучыць усе
 migration-bookmarks-option-label = Закладкі
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Выбраныя
-
 migration-logins-and-passwords-option-label = Захаваныя лагіны і паролі
 migration-history-option-label = Гісторыя аглядання
 migration-extensions-option-label = Пашырэнні
 migration-form-autofill-option-label = Звесткі аўтазапаўнення формаў
 migration-payment-methods-option-label = Спосабы аплаты
-
 migration-cookies-option-label = Кукі
 migration-session-option-label = Вокны і карткі
 migration-otherdata-option-label = Іншыя дадзеныя
-
 migration-passwords-from-file-progress-header = Імпарт файла пароляў
 migration-passwords-from-file-success-header = Паролі паспяхова імпартаваны
 migration-passwords-from-file = Праверка файла на наяўнасць пароляў
 migration-passwords-new = Новыя паролі
 migration-passwords-updated = Наяўныя паролі
-
+migration-passwords-from-file-no-valid-data = Файл не змяшчае дадзеных пра паролі. Выберыце іншы файл.
 migration-passwords-from-file-picker-title = Імпарт файла пароляў
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -91,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Дакумент TSV
        *[other] Файл TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -103,7 +96,6 @@ migration-wizard-progress-success-new-passwords =
         [few] { $newEntries } дададзены
        *[many] { $newEntries } дададзена
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -115,14 +107,11 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } абноўлены
        *[many] { $updatedEntries } абноўлена
     }
-
 migration-bookmarks-from-file-picker-title = Імпарт файла закладак
 migration-bookmarks-from-file-progress-header = Імпарт закладак
 migration-bookmarks-from-file = Закладкі
 migration-bookmarks-from-file-success-header = Закладкі паспяхова імпартаваны
-
 migration-bookmarks-from-file-no-valid-data = Файл не змяшчае дадзеных закладак. Выберыце іншы файл.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -130,11 +119,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Дакумент HTML
        *[other] Файл HTML
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Файл JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -146,14 +133,12 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } закладкі
        *[many] { $newEntries } закладак
     }
-
 migration-import-button-label = Імпартаваць
 migration-choose-to-import-from-file-button-label = Імпартаваць з файла
 migration-import-from-file-button-label = Выбраць файл
 migration-cancel-button-label = Скасаваць
 migration-done-button-label = Гатова
 migration-continue-button-label = Працягнуць
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не змог знайсці праграмы, якія ўтрымліваюць закладкі, гісторыю або паролі.
 migration-wizard-import-browser-no-resources = Здарылася памылка. { -brand-short-name } не змог знайсці дадзеныя для імпарту з гэтага профілю браўзера.
 
@@ -164,7 +149,6 @@ migration-wizard-import-browser-no-resources = Здарылася памылка
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = закладкі
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = абраныя
@@ -182,7 +166,6 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Імпарт…
 migration-wizard-progress-icon-completed =
     .aria-label = Скончана
-
 migration-safari-password-import-header = Імпартаваць паролі з Safari
 migration-safari-password-import-steps-header = Каб імпартаваць паролі з Safari:
 migration-safari-password-import-step1 = У Safari адкрыйце меню «Safari» і перайдзіце ў Налады > Паролі
@@ -191,8 +174,6 @@ migration-safari-password-import-step3 = Захавайце файл парол�
 migration-safari-password-import-step4 = Націсніце «Выбраць файл» ніжэй, каб выбраць файл пароляў, які вы захавалі
 migration-safari-password-import-skip-button = Прапусціць
 migration-safari-password-import-select-button = Выбраць файл
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -204,7 +185,6 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } закладкі
        *[many] { $quantity } закладак
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -234,7 +214,6 @@ migration-wizard-progress-success-extensions =
         [few] { $quantity } пашырэнні
        *[many] { $quantity } пашырэнняў
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -242,7 +221,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } з { $quantity } пашырэнняў
-
+migration-wizard-progress-extensions-support-link = Даведайцеся, як { -brand-product-name } знаходзіць адпаведныя пашырэнні
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Няма адпаведных пашырэнняў
@@ -260,7 +239,6 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } паролі
        *[many] { $quantity } пароляў
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -272,9 +250,7 @@ migration-wizard-progress-success-history =
         [few] За апошнія { $maxAgeInDays } дні
        *[many] За апошнія { $maxAgeInDays } дзён
     }
-
 migration-wizard-progress-success-formdata = Гісторыя формаў
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -286,7 +262,6 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } спосабы аплаты
        *[many] { $quantity } спосабаў аплаты
     }
-
 migration-wizard-safari-permissions-sub-header = Каб імпартаваць закладкі Safari і гісторыю аглядання:
 migration-wizard-safari-instructions-continue = Выберыце «Працягнуць»
 migration-wizard-safari-instructions-folder = Вылучыце ў спісе папку Safari і абярыце «Адкрыць»

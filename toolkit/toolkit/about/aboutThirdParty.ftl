@@ -4,12 +4,9 @@
 
 third-party-page-title = Інфармацыя пра модулі іншых вытворцаў
 third-party-section-title = Спіс старонніх модуляў у { -brand-short-name }
-
 third-party-intro = На гэтай старонцы паказаны модулі іншых вытворцаў, якія былі дададзены ў ваш { -brand-short-name }. Любы модуль, які не падпісаны Microsoft або { -vendor-short-name }, лічыцца староннім.
-
 third-party-message-empty = Модулі іншых вытворцаў не выяўлены.
 third-party-message-no-duration = Не запісана
-
 third-party-detail-version = Версія файла
 third-party-detail-vendor = Інфармацыя пра вытворцу
 third-party-detail-occurrences = Уваходжанні
@@ -18,11 +15,9 @@ third-party-detail-duration = Сярэдні час блакавання (мс)
     .title = Колькі часу гэты модуль блакаваў праграму.
 third-party-detail-app = Праграма
 third-party-detail-publisher = Выдавец
-
 third-party-th-process = Працэс
 third-party-th-duration = Працягласць загрузкі (мс)
 third-party-th-status = Стан
-
 third-party-tag-ime = IME
     .title = Гэты тып модуляў загружаецца, калі вы карыстаецеся IME ад трэцяга боку.
 third-party-tag-shellex = Пашырэнне абалонкі
@@ -35,11 +30,9 @@ third-party-icon-unsigned =
 third-party-icon-warning =
     .title = Гэты модуль выклікаў збой у { -brand-short-name }
     .alt = Гэты модуль выклікаў збой у { -brand-short-name }
-
 third-party-status-loaded = Загружаны
 third-party-status-blocked = Заблакаваны
 third-party-status-redirected = Перанакіраваны
-
 third-party-button-copy-to-clipboard = Скапіяваць сырыя дадзеныя ў буфер абмену
 third-party-loading-data =
     .alt = Загрузка сістэмнай інфармацыі…
@@ -57,6 +50,12 @@ third-party-button-to-unblock =
 third-party-button-to-unblock-disabled =
     .title = У цяперашні час пазначаны як заблакаваны, хоць спіс блакавання адключаны для гэтага запуску { -brand-short-name }. Націсніце, каб разблакаваць яго.
     .aria-label = У цяперашні час пазначаны як заблакаваны, хоць спіс блакавання адключаны для гэтага запуску { -brand-short-name }. Націсніце, каб разблакаваць яго.
+third-party-button-to-block-module = Заблакаваць гэты модуль
+    .title = Заблакаваць гэты модуль
+    .aria-label = Заблакаваць гэты модуль
+third-party-button-to-unblock-module = Разблакаваць гэты модуль
+    .title = Зараз заблакаваны. Націсніце, каб разблакаваць.
+    .aria-label = Зараз заблакаваны. Націсніце, каб разблакаваць.
 third-party-button-expand =
     .title = Паказаць падрабязную інфармацыю
 third-party-button-collapse =
@@ -65,7 +64,6 @@ third-party-blocking-requires-restart = Каб заблакаваць старо
 third-party-should-restart-title = Перазапусціць { -brand-short-name }
 third-party-restart-now = Перазапусціць зараз
 third-party-restart-later = Перазапусціць пазней
-
 third-party-blocked-by-builtin =
     .title = Заблакавана { -brand-short-name }
     .alt = Заблакавана { -brand-short-name }
