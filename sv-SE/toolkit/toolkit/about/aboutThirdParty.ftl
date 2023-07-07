@@ -4,15 +4,12 @@
 
 third-party-page-title = Information om tredjepartsmoduler
 third-party-section-title = Lista över moduler från tredje part i { -brand-short-name }
-
 third-party-intro =
     Den här sidan visar modulerna från tredje part som injicerades
     i { -brand-short-name }. Alla moduler som inte är signerade av Microsoft
     eller { -vendor-short-name } anses vara en tredjepartsmodul.
-
 third-party-message-empty = Inga tredjepartsmoduler upptäcktes.
 third-party-message-no-duration = Inte inspelad
-
 third-party-detail-version = Filversion
 third-party-detail-vendor = Leverantörsinformation
 third-party-detail-occurrences = Förekomster
@@ -21,11 +18,9 @@ third-party-detail-duration = Genomsnittlig blockeringstid (ms)
     .title = Hur länge den här modulen blockerade applikationen.
 third-party-detail-app = Applikation
 third-party-detail-publisher = Utgivare
-
 third-party-th-process = Process
 third-party-th-duration = Laddningstid (ms)
 third-party-th-status = Status
-
 third-party-tag-ime = IME
     .title = Denna typ av modul laddas när du använder en IME från tredje part.
 third-party-tag-shellex = Shell-tillägg
@@ -41,11 +36,9 @@ third-party-icon-unsigned =
 third-party-icon-warning =
     .title = { -brand-short-name } kraschade i koden från den här modulen
     .alt = { -brand-short-name } kraschade i koden från den här modulen
-
 third-party-status-loaded = Laddad
 third-party-status-blocked = Blockerad
 third-party-status-redirected = Omdirigerad
-
 third-party-button-copy-to-clipboard = Kopiera rådata till urklipp
 third-party-loading-data =
     .alt = Laddar systeminformation…
@@ -67,6 +60,9 @@ third-party-button-to-unblock-disabled =
     .aria-label =
         Markeras för närvarande som blockerad, även om blockeringslistan är inaktiverad för denna körning
         av { -brand-short-name }. Klicka för att avblockera den.
+third-party-button-to-block-module = Blockera denna modul
+    .title = Blockera denna modul
+    .aria-label = Blockera denna modul
 third-party-button-expand =
     .title = Visa detaljerad information
 third-party-button-collapse =
@@ -75,7 +71,6 @@ third-party-blocking-requires-restart = För att blockera en tredjepartsmodul m�
 third-party-should-restart-title = Starta om { -brand-short-name }
 third-party-restart-now = Starta om nu
 third-party-restart-later = Starta om senare
-
 third-party-blocked-by-builtin =
     .title = Blockerad av { -brand-short-name }
     .alt = Blockerad av { -brand-short-name }
