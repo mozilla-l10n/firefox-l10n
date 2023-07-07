@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Pranešimas apie „{ $addon-name }“
-
 abuse-report-title-extension = Pranešti apie šį priedą į „{ -vendor-short-name }“
 abuse-report-title-sitepermission = Pranešti apie šį svetainių leidimų priedą į „{ -vendor-short-name }“
 abuse-report-title-theme = Pranešti apie šį priedą į „{ -vendor-short-name }“
 abuse-report-subtitle = Kokia problema?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = sukūrė <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Nežinote, kurią problemą pasirinkti?
     <a data-l10n-name="learnmore-link">Sužinokite daugiau, kaip geriau pranešti apie priedus ir grafinius apvalkalus</a>
-
+abuse-report-learnmore-intro = Nežinote, kurią problemą pasirinkti?
+abuse-report-learnmore-link = Sužinokite daugiau, kaip geriau pranešti apie priedus ir grafinius apvalkalus
 abuse-report-submit-description = Apibūdinkite problemą (neprivaloma)
 abuse-report-textarea =
     .placeholder = Mums lengviau reaguoti į problemas, kai turime daugiau detalių. Aprašykite, kokia esama situacija. Ačiū, kad padedate palaikyti saityno kokybę.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Atsisakyti
 
 abuse-report-damage-reason-v2 = Pažeidė mano kompiuterį arba mano duomenis
 abuse-report-damage-example = Pavyzdys: įdiegė virusą arba pavogė duomenis
-
 abuse-report-spam-reason-v2 = Yra nepageidaujamo turinio arba nepageidaujamų reklamų
 abuse-report-spam-example = Pavyzdys: svetainėse įterpia reklamas
-
 abuse-report-settings-reason-v2 = Pakeitė mano ieškyklę, pradžios tinklalapį, arba naują kortelę, apie tai nepranešant ir nepaklausiant
 abuse-report-settings-suggestions = Prieš pranešdami apie priedą, galite pabandyti pakeisti nuostatas:
 abuse-report-settings-suggestions-search = Keisti numatytosios ieškyklės nuostatas
 abuse-report-settings-suggestions-homepage = Keisti pradžios tinklalapį ir naujos kortelės tinklalapį
-
 abuse-report-deceptive-reason-v2 = Apsimeta kažkuo kitu
 abuse-report-deceptive-example = Pavyzdys: klaidinantis aprašymas arba vaizdai
-
 abuse-report-broken-reason-extension-v2 = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą
 abuse-report-broken-reason-sitepermission-v2 = Neveikia, trikdo svetainių veikimą, arba lėtina „{ -brand-product-name }“ veikimą
 abuse-report-broken-reason-theme-v2 = Neveikia arba trikdo naršyklės vaizdą
@@ -91,13 +85,10 @@ abuse-report-broken-suggestions-sitepermission =
 abuse-report-broken-suggestions-theme =
     Panašu, kad aptikote triktį. Pateikus pranešimą čia, geras būdas padėti spręsti problemą
     yra susisiekti su grafinio apvalkalo kūrėju. <a data-l10n-name="support-link">Aplankę grafinio apvalkalo svetainę</a>, rasite kūrėjo kontaktus.
-
 abuse-report-policy-reason-v2 = Yra neapykantą, smurtą kurstančio arba nelegalaus turinio
 abuse-report-policy-suggestions =
     Atminkite: problemos dėl autorių teisių ir prekių ženklų privalo būti pateiktos atskirai.
     Norėdami pranešti apie tokią problemą, <a data-l10n-name="report-infringement-link">sekite šias instrukcijas</a>.
-
 abuse-report-unwanted-reason-v2 = Niekada nenorėjau ir nežinau kaip tuo atsikratyti
 abuse-report-unwanted-example = Pavyzdys: programa įdiegė priedą be mano sutikimo
-
 abuse-report-other-reason = Kažkas kito
