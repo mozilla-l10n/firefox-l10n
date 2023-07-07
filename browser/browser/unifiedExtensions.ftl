@@ -20,28 +20,23 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = { $extensionName } үшін мәзірді ашу
-
 unified-extensions-item-message-manage = Кеңейтуді басқару
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Құралдар панеліне бекіту
-
 unified-extensions-context-menu-manage-extension =
     .label = Кеңейтуді басқару
-
 unified-extensions-context-menu-remove-extension =
     .label = Кеңейтуді өшіру
-
 unified-extensions-context-menu-report-extension =
     .label = Кеңейтуді хабарлау
-
 unified-extensions-context-menu-move-widget-up =
     .label = Жоғары жылжыту
-
 unified-extensions-context-menu-move-widget-down =
     .label = Төмен жылжыту
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Кейбір кеңейтулер рұқсат етілмеген

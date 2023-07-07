@@ -4,3 +4,4 @@
 
 webauthn-pin-invalid-short-prompt = Жарасыз PIN. Қайталап көріңіз.
 webauthn-pin-required-prompt = Құрылғыңыз үшін дұрыс PIN кодын енгізіңіз.
+webauthn-uv-invalid-short-prompt = Пайдаланушыны растау сәтсіз аяқталды. Қайталап көріңіз.
