@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ішкі құрылысы
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc қалайша сақтау
@@ -22,7 +21,6 @@ about-webrtc-aec-logging-msg-label = AEC логтауы
 about-webrtc-aec-logging-off-state-label = AEC логтауын іске қосу
 about-webrtc-aec-logging-on-state-label = AEC логтауын тоқтату
 about-webrtc-aec-logging-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -32,15 +30,18 @@ about-webrtc-aec-logging-toggled-off-state-msg = Жиналған лог фай�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Автожаңарту
-
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Үнсіз келісім бойынша автоматты түрде жаңарту
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Жаңарту
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Ашылған деректер арналары:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Жабылған деректер арналары:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -86,12 +87,10 @@ about-webrtc-type-remote = Қашықтағы
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Ұсынған
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Таңдалған
-
 about-webrtc-save-page-label = Парақты сақтау
 about-webrtc-debug-mode-msg-label = Жөндеу режимі
 about-webrtc-debug-mode-off-state-label = Жөндеу режимін іске қосу
@@ -104,11 +103,12 @@ about-webrtc-log-show-msg = логты көрсету
     .title = бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-log-hide-msg = логты жасыру
     .title = бұл санатты жинау үшін шертіңіз
-
 about-webrtc-log-section-show-msg = Логты көрсету
     .title = Бұл санатты жазық қылу үшін шертіңіз
 about-webrtc-log-section-hide-msg = Логты жасыру
     .title = Бұл санатты жинау үшін шертіңіз
+about-webrtc-copy-report-button = Есептемені көшіру
+about-webrtc-copy-report-history-button = Есептемелер тарихын көшіру
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -124,6 +124,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (жаб�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Жіберу / Алу: { $codecs }
+about-webrtc-short-send-direction = Жіберу: { $codecs }
+about-webrtc-short-receive-direction = Алу: { $codecs }
 
 ##
 
@@ -182,36 +185,26 @@ about-webrtc-pc-configuration-hide-msg = Баптауларды жасыру
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Ұсынылған
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ұсынылмаған
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC пайдаланушы баптаулары
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Болжалды өткізу қабілеттілігі
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Трек идентификаторы
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Жіберудің өткізу қабілеттілігі (байт/сек)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Қабылдаудың өткізу қабілеттілігі (байт/сек)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Максималды толтырғыш (байт/сек)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Пакеттер арасындағы кідіріс (мс)
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT (мс)
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -227,7 +220,6 @@ about-webrtc-save-page-msg = бет сақталған жері: { $path }
 about-webrtc-debug-mode-off-state-msg = трейс логын келесі жерден табу мүмкін емес: { $path }
 about-webrtc-debug-mode-on-state-msg = жөндеу режимі іске қосулы, трей лог жері: { $path }
 about-webrtc-aec-logging-off-state-msg = жиналған лог файлдарының орналасқан жері: { $path }
-
 about-webrtc-save-page-complete-msg = Бет сақталған жері: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Трейс логын келесі жерден табу мүмкін емес: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Жөндеу режимі іске қосулы, трей лог жері: { $path }
@@ -242,7 +234,6 @@ about-webrtc-frames =
         [one] { $frames } кадр
        *[other] { $frames } кадр
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -251,7 +242,6 @@ about-webrtc-channels =
         [one] { $channels } арна
        *[other] { $channels } арна
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -259,7 +249,6 @@ about-webrtc-received-label =
     { $packets ->
        *[other] { $packets } десте алынды
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -267,7 +256,6 @@ about-webrtc-lost-label =
     { $packets ->
        *[other] { $packets } десте жоғалды
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -275,13 +263,11 @@ about-webrtc-sent-label =
     { $packets ->
        *[other] { $packets } десте жіберілді
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Джиттер { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -294,12 +280,10 @@ about-webrtc-trickle-caption-msg = Еніп кеткен кандидаттар 
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Жергілікті SDP шамасын { NUMBER($timestamp, useGrouping: "false") } уақыт белгісінде онату
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Қашықтағы SDP шамасын { NUMBER($timestamp, useGrouping: "false") } уақыт белгісінде онату
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -315,6 +299,9 @@ about-webrtc-hide-msg-sdp = SDP жасыру
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Медиа контекстін көрсету
+about-webrtc-media-context-hide-msg = Медиа контекстін жасыру
+about-webrtc-media-context-heading = Медиа контексті
 
 ##
 
