@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Segnalazion par { $addon-name }
-
 abuse-report-title-extension = Segnale cheste estension a { -vendor-short-name }
 abuse-report-title-sitepermission = Segnale chest component adizionâl par permès sîts a { -vendor-short-name }
 abuse-report-title-theme = Segnale chest teme a { -vendor-short-name }
 abuse-report-subtitle = Cuâl isal il probleme?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = di <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     No tu sês sigûr su ce probleme selezionâ?
     <a data-l10n-name="learnmore-link">Scuvierç di plui su cemût segnalâ estensions e temis</a>
-
+abuse-report-learnmore-intro = No tu sês sigûr su ce probleme selezionâ?
+abuse-report-learnmore-link = Scuvierç di plui su cemût segnalâ estensions e temis
 abuse-report-submit-description = Descrîf il probleme (facoltatîf)
 abuse-report-textarea =
     .placeholder = Al è plui facil par nô risolvi un probleme se o vin ducj i detais. Descrîf il probleme che tu âs cjatât. Gracie di judânus a tignî in salût il web.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Anule
 
 abuse-report-damage-reason-v2 = Al à ruvinât il gno computer o comprometût i miei dâts
 abuse-report-damage-example = Esempli: inietât un malware o robât dâts
-
 abuse-report-spam-reason-v2 = Al conten spam o al inserìs publicitât malvolude
 abuse-report-spam-example = Esempli: al inserìs publicitât aes pagjinis web
-
 abuse-report-settings-reason-v2 = Al à cambiât il gno motôr di ricercje, pagjine iniziâl o la gnove schede cence visâ o domandâ il permès
 abuse-report-settings-suggestions = Prime di segnalâ la estension, tu puedis provâ a cambiâ lis impostazions:
 abuse-report-settings-suggestions-search = Cambie lis tôs impostazions di ricercje predefinidis
 abuse-report-settings-suggestions-homepage = Cambie la tô pagjine iniziâl e la gnove schede
-
 abuse-report-deceptive-reason-v2 = Al pretint di jessi alc altri
 abuse-report-deceptive-example = Esempli: descrizion o grafiche ingjanose
-
 abuse-report-broken-reason-extension-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Nol funzione, al ruvine i sîts o al moreste { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Nol funzione o al ruvine la visualizazion dal navigadôr
@@ -94,15 +88,12 @@ abuse-report-broken-suggestions-theme =
     Al somee che tu vedis cjatât un erôr. Sore a segnalâ il probleme achì, la robe miôr par risolvi
     chest gjenar di problemis e je chê di contatâ il svilupadôr dal teme.
     <a data-l10n-name="support-link">Visite il sît web dal teme</a> par cjatâ informazions sul svilupadôr.
-
 abuse-report-policy-reason-v2 = Al à contignûts ofensîfs, violents o ilegâi
 abuse-report-policy-suggestions =
     Note: i problemis di marchis regjistradis o sui dirits d'autôr (copyright) a van segnalâts
     doprant une procedure divierse.
     <a data-l10n-name="report-infringement-link">Dopre chestis istruzions</a> par
     segnalâ il probleme.
-
 abuse-report-unwanted-reason-v2 = No lu ai mai volût/volude e no sai cemût gjavâlu/le
 abuse-report-unwanted-example = Esempli: une aplicazion instalade cence il gno permès
-
 abuse-report-other-reason = Alc altri
