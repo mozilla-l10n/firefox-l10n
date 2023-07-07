@@ -8,18 +8,16 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Informe para { $addon-name }
-
 abuse-report-title-extension = Informar de esta extensión a { -vendor-short-name }
 abuse-report-title-sitepermission = Informar sobre este complemento para permisos del sitio a { -vendor-short-name }
 abuse-report-title-theme = Informar de este tema a { -vendor-short-name }
 abuse-report-subtitle = ¿Cuál es el problema?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore = ¿No sabe qué problema seleccionar? <a data-l10n-name="learnmore-link">Descubre más sobre cómo informar de extensiones y temas</a>
-
+abuse-report-learnmore-intro = ¿No sabe qué problema seleccionar?
+abuse-report-learnmore-link = Descubre más sobre cómo informar de extensiones y temas
 abuse-report-submit-description = Describir el problema (opcional)
 abuse-report-textarea =
     .placeholder = Para nosotros es más fácil solucionar un problema si tenemos detalles específicos. Describa su problema. Gracias por ayudarnos a que Internet siga siendo saludable.
@@ -62,18 +60,14 @@ abuse-report-messagebar-action-cancel = Cancelar
 
 abuse-report-damage-reason-v2 = Ha dañado mi ordenador o mis datos se han visto comprometidos
 abuse-report-damage-example = Ejemplo: instaló malware o robó información
-
 abuse-report-spam-reason-v2 = Contiene spam o inserta publicidad no deseada
 abuse-report-spam-example = Ejemplo: inserta publicidad en páginas web
-
 abuse-report-settings-reason-v2 = Ha cambiado mi buscador, página de inicio o nueva pestaña sin informarme ni preguntarme
 abuse-report-settings-suggestions = Antes de informar sobre la extensión, pruebe a cambiar la configuración:
 abuse-report-settings-suggestions-search = Cambie la configuración predeterminada de las búsquedas
 abuse-report-settings-suggestions-homepage = Cambie la página de inicio y de nueva pestaña
-
 abuse-report-deceptive-reason-v2 = Simula ser algo que no es
 abuse-report-deceptive-example = Ejemplo: descripción o imágenes erróneas
-
 abuse-report-broken-reason-extension-v2 = No funciona, provoca errores en sitios o ralentiza { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = No funciona, provoca errores en sitios o ralentiza { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona o estropea lo que muestra el navegador
@@ -84,14 +78,11 @@ abuse-report-broken-suggestions-sitepermission =
     para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del sitio web.
     <a data-l10n-name="support-link">Acceda al sitio web</a> para conseguir los datos de contacto del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que ha identificado un problema. Además de enviar un informe por aquí, lo mejor para conseguir que se resuelva un problema de funcionalidad es contactar con el desarrollador del tema. <a data-l10n-name="support-link">Acceda al sitio web del tema</a> para conseguir los datos de contacto del desarrollador.
-
 abuse-report-policy-reason-v2 = Tiene contenido de odio, violento o ilegal
 abuse-report-policy-suggestions =
     Nota: Los problemas relacionados con derechos de autor y marcas registradas deben informarse en un proceso separado.
     <a data-l10n-name="report-infringement-link">Utilice estas instrucciones</a> para
     informar del problema
-
 abuse-report-unwanted-reason-v2 = Nunca lo quise y no sé cómo deshacerme de él
 abuse-report-unwanted-example = Ejemplo: una aplicación la instaló sin mi permiso
-
 abuse-report-other-reason = Otra cosa
