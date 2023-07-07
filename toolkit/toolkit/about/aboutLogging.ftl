@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Stacktraces foar lochboekberjochte
 
 about-logging-preset-networking-label = Netwurk
 about-logging-preset-networking-description = Logboekmodulen om netwurkproblemen te diagnostisearjen
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Logboekmodulen om cookieproblemen te diagnostisearjen
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Logboekmodulen om WebSocketproblemen te diagnostisearjen
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Logboekmodulen om HTTP/3- en QUIC-problemen te diagnostisearjen
 about-logging-preset-media-playback-label = Media ôfspylje
 about-logging-preset-media-playback-description = Logboekmodulen om problemen mei it ôfspyljen fan media te diagnostisearjen (gjin problemen mei fideokonferinsjes)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Logboekmodulen om WebRTC-oanroppen te diagnostisearjen
 about-logging-preset-custom-label = Oanpast
 about-logging-preset-custom-description = Logboekmodulen hânmjittich selektearre
-
 # Error handling
 about-logging-error = Flater:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Unbekende foarynstelling foar profiler �
 about-logging-unknown-option = Unbekende about:logging-opsje ‘{ $k }’
 about-logging-configuration-url-ignored = Konfiguraasje-URL negearre
 about-logging-file-and-profiler-override = Kin net tagelyk bestânsútfier forsearje en profileropsjes oerskriuwe
-
 about-logging-configured-via-url = Opsje konfigurearre fia URL
