@@ -8,19 +8,17 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name }-ৰ বাবে প্ৰতিবেদন
-
 abuse-report-title-extension = { -vendor-short-name }-ক এই এক্সটেনশ্যনৰ প্ৰতিবেদন দিয়ক
 abuse-report-title-theme = { -vendor-short-name }-ক এই থীমৰ প্ৰতিবেদন দিয়ক
 abuse-report-subtitle = কি সমস্য হৈছে?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = <a data-l10n-name="author-name">{ $author-name }</a>-ৰ দ্বাৰা
-
 abuse-report-learnmore =
     কি সমস্যা বাছনি কৰিব নিশ্চিত নহয়নে?
     <a data-l10n-name="learnmore-link">এক্সটেনশ্যন আৰু থীমৰ প্ৰতিবেদন দিয়াৰ বিষয়ে অধিক জানক</a>
-
+abuse-report-learnmore-intro = কি সমস্যা বাছনি কৰিব নিশ্চিত নহয়নে?
+abuse-report-learnmore-link = এক্সটেনশ্যন আৰু থীমৰ প্ৰতিবেদন দিয়াৰ বিষয়ে অধিক জানক
 abuse-report-submit-description = সমস্যাৰ বৰ্ণনা কৰক (বৈকল্পিক)
 
 ## Panel buttons.
@@ -29,12 +27,6 @@ abuse-report-cancel-button = বাতিল কৰক
 abuse-report-next-button = পৰৱৰ্তী
 abuse-report-goback-button = পিছলৈ যাওক
 abuse-report-submit-button = দাখিল কৰক
-
-## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
 
 ## Message bars descriptions.
 ##
@@ -56,12 +48,7 @@ abuse-report-messagebar-action-cancel = বাতিল কৰক
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-example = উদাহৰণ: মেলৱেৰ সুমুৱাইছে বা ডাটা চুৰ কৰিছে
-
 abuse-report-spam-example = উদাহৰণ: ৱেবপৃষ্ঠাবোৰত বিজ্ঞাপন ভৰাই
-
 abuse-report-broken-example = উদাহৰণ: সুবিধাসমূহ ধীৰ, ব্যৱহাৰ কৰা টান বা কাম নকৰে; ৱেবছাইটৰ কিছুমান অংশ ল'ড নহয় বা দেখাত অসাধাৰণ
-
 abuse-report-unwanted-example = উদাহৰণ: এপ্লিকেশ্যন এটাই মোৰ অনুমতি নোহোৱাকৈ এইটো ইনষ্টল কৰিছে
-
 abuse-report-other-reason = আন কিবা
-
