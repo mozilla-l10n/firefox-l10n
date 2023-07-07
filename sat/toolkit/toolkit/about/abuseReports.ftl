@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
-
 abuse-report-title-extension = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ { -vendor-short-name } ᱴᱷᱮᱱ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 abuse-report-title-sitepermission = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱮᱰᱚᱱ ᱫᱚ { -vendor-short-name } ᱴᱷᱮᱱ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 abuse-report-title-theme = ᱱᱚᱶᱟ ᱴᱷᱤᱢ ᱫᱚ { -vendor-short-name } ᱴᱷᱮᱱ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
 abuse-report-subtitle = ᱮᱴᱠᱮᱴᱚᱬᱮ ᱪᱮᱫ ᱠᱟᱱᱟ ?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = ᱚᱱᱚᱞᱤᱭᱟᱹ <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     ᱪᱮᱫ ᱵᱟᱝ ᱴᱷᱟᱹᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ?
     <a data-l10n-name="learnmore-link">ᱨᱤᱯᱚᱴᱤᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ</a>
-
+abuse-report-learnmore-intro = ᱪᱮᱫ ᱵᱟᱝ ᱴᱷᱟᱹᱠᱟᱹ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟ ᱪᱮᱫᱮᱢ ᱵᱟᱪᱷᱟᱣ ᱟ?
+abuse-report-learnmore-link = ᱨᱤᱯᱚᱴᱤᱝ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱵᱟᱵᱚᱫᱽ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱰᱟᱭ ᱢᱮ
 abuse-report-submit-description = ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱟᱛᱟᱣ ᱢᱮ (ᱩᱱᱟᱹᱜ ᱵᱟᱝ ᱞᱟᱹᱠᱛᱤ)
 abuse-report-textarea =
     .placeholder = ᱟᱢᱟᱜ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱩᱡᱷᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱟᱞᱮ ᱫᱚ ᱯᱩᱥᱴᱟᱹᱣ ᱥᱟᱹᱦᱤᱡ ᱞᱟᱹᱭᱟᱞᱮᱢ ᱾ ᱡᱟᱦᱟᱸ ᱢᱩᱥᱠᱤᱞᱮᱢ ᱵᱩᱡᱷᱟᱹᱣᱮᱫᱟ ᱞᱟᱹᱭᱢᱮ ᱾ ᱟᱢᱟᱜ ᱣᱮᱵᱽ  ᱜᱚᱲᱚ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 
 abuse-report-damage-reason-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱤᱧᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱠᱷᱨᱟᱯ ᱠᱮᱜᱼᱟᱭ ᱥᱮ ᱤᱧᱟᱜ ᱰᱟᱴᱟ ᱯᱟᱥᱱᱟᱣ ᱠᱮᱜᱼᱟᱭ
 abuse-report-damage-example = ᱫᱟᱹᱭᱠᱟᱹ : ᱢᱟᱞᱣᱮᱨ ᱵᱷᱚᱨᱛᱤ ᱠᱮᱜᱼᱟᱭ ᱥᱮ ᱠᱩᱢᱵᱽᱲᱩ ᱠᱮᱜᱼᱟᱭ
-
 abuse-report-spam-reason-v2 = ᱱᱚᱶᱟ ᱨᱮ ᱥᱯᱟᱢ ᱥᱮ ᱵᱟᱝᱞᱟᱹᱠᱛᱤ ᱰᱷᱟᱶᱨᱟ ᱥᱟᱢᱵᱟᱣᱟᱭ
 abuse-report-spam-example = ᱫᱟᱹᱭᱠᱟᱹ ᱺ ᱣᱮᱵᱽᱥᱟᱦᱴᱟ ᱠᱚᱨᱮ ᱰᱷᱟᱶᱨᱟ ᱥᱟᱢᱵᱟᱣᱟᱭ
-
 abuse-report-settings-reason-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱤᱧᱟᱜ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱟᱱ, ᱚᱲᱟᱜᱥᱟᱦᱴᱟ, ᱥᱮ ᱱᱟᱶᱟ ᱴᱮᱵᱽ, ᱤᱧ ᱵᱤᱱ ᱠᱩᱠᱞᱤ ᱛᱮ ᱵᱚᱫᱚᱞ ᱠᱮᱜᱼᱟᱭ
 abuse-report-settings-suggestions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱷᱚᱵᱚᱨ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱟᱢ ᱫᱚ ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱫᱚᱞ ᱠᱟᱛᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ :
 abuse-report-settings-suggestions-search = ᱟᱢᱟᱜ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱫᱚᱞ ᱢᱮ
 abuse-report-settings-suggestions-homepage = ᱟᱢᱟᱜ ᱚᱲᱟᱜᱥᱟᱦᱴᱟ ᱟᱨ ᱱᱚᱶᱟ ᱴᱮᱽ ᱵᱚᱫᱚᱞ ᱢᱮ
-
 abuse-report-deceptive-reason-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱡᱟᱦᱟᱸ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟᱭ ᱚᱱᱟ ᱫᱚ ᱵᱟᱝ ᱠᱟᱱᱟᱭ
 abuse-report-deceptive-example = ᱫᱟᱹᱭᱠᱟᱹ ᱺ ᱵᱟᱝᱯᱩᱥᱴᱟᱹᱶ ᱵᱤᱵᱨᱚᱬ ᱥᱮ ᱪᱤᱛᱟᱹᱨ
-
 abuse-report-broken-reason-extension-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ, ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱟᱹᱯᱩᱫᱚᱜ ᱠᱟᱱᱟ, ᱥᱮ { -brand-product-name } ᱵᱟᱹᱭ ᱮᱫᱟᱭ
 abuse-report-broken-reason-sitepermission-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ, ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱟᱹᱯᱩᱫᱚᱜ ᱠᱟᱱᱟ, ᱥᱮ { -brand-product-name } ᱵᱟᱹᱭ ᱮᱫᱟᱭ
 abuse-report-broken-reason-theme-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱮᱫᱟᱭ ᱥᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱰᱤᱥᱯᱞᱮ ᱨᱟᱹᱯᱩᱫᱮᱫᱟᱭ
@@ -94,13 +88,10 @@ abuse-report-broken-suggestions-theme =
     ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
     ᱦᱩᱭᱩᱜᱼᱟ ᱱᱚᱶᱟ ᱛᱷᱤᱢ ᱵᱟᱵᱚᱛ ᱫᱚ ᱟᱢ ᱛᱷᱤᱢ ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱠᱟᱛᱷᱟᱜ ᱢᱮ ᱾
     ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱢᱮ</a> ᱾
-
 abuse-report-policy-reason-v2 = ᱱᱚᱶᱟ ᱨᱮ ᱦᱤᱨᱠᱟᱹ, ᱦᱤᱸᱥᱟᱹᱞᱤᱭᱟᱹ ᱟᱨ ᱵᱟᱝ ᱵᱟᱝ ᱟᱹᱛᱷᱟᱹᱲᱤ ᱵᱮᱥᱟᱹᱨᱤᱭᱟᱹ ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜᱼᱟ
 abuse-report-policy-suggestions =
     ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱺ ᱱᱚᱠᱚᱞ ᱟᱨ ᱴᱨᱮᱰᱢᱟᱨᱠ ᱵᱚᱵᱚᱛ ᱢᱩᱫᱼᱫᱟ ᱫᱚ ᱮᱴᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱯᱮ ᱾
     ᱠᱷᱚᱵᱚᱨ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="report-infringement-link">ᱱᱚᱶᱟ ᱫᱤᱥᱟᱹᱩᱫᱩᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ</a> ᱾
-
 abuse-report-unwanted-reason-v2 = ᱤᱧ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱹᱧ ᱫᱚᱠᱟᱨᱟᱜᱼᱟ ᱟᱨ ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱲᱟᱭᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱱᱚᱶᱟ ᱠᱷᱚᱱ ᱥᱟᱦᱟᱜᱼᱟ
 abuse-report-unwanted-example = ᱫᱟᱹᱭᱠᱟᱹ ᱺ ᱤᱧᱟᱜ ᱵᱤᱱ ᱠᱩᱠᱞᱤ ᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱦᱚᱞ ᱮᱱᱟ
-
 abuse-report-other-reason = ᱡᱟᱦᱱᱟᱜ ᱮᱴᱟᱜ ᱡᱤᱱᱤᱥ
