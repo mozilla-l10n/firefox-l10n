@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = นำเข้ารหัสผ
 migration-passwords-from-file = กำลังตรวจสอบหารหัสผ่านในไฟล์
 migration-passwords-new = รหัสผ่านใหม่
 migration-passwords-updated = รหัสผ่านที่มีอยู่
+migration-passwords-from-file-no-valid-data = ไฟล์นี้ไม่มีข้อมูลรหัสผ่านที่ถูกต้องใด ๆ โปรดเลือกไฟล์อื่น
 migration-passwords-from-file-picker-title = นำเข้าไฟล์รหัสผ่าน
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -108,6 +109,7 @@ migration-bookmarks-from-file-picker-title = นำเข้าไฟล์ท�
 migration-bookmarks-from-file-progress-header = นำเข้าที่คั่นหน้า
 migration-bookmarks-from-file = ที่คั่นหน้า
 migration-bookmarks-from-file-success-header = นำเข้าที่คั่นหน้าสำเร็จแล้ว
+migration-bookmarks-from-file-no-valid-data = ไฟล์นี้ไม่มีข้อมูลที่คั่นหน้าใด ๆ โปรดเลือกไฟล์อื่น
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
