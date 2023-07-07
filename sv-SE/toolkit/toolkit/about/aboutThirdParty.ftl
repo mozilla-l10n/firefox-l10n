@@ -63,6 +63,16 @@ third-party-button-to-unblock-disabled =
 third-party-button-to-block-module = Blockera denna modul
     .title = Blockera denna modul
     .aria-label = Blockera denna modul
+third-party-button-to-unblock-module = Avblockera denna modul
+    .title = För närvarande blockerad. Klicka för att avblockera den.
+    .aria-label = För närvarande blockerad. Klicka för att avblockera den.
+third-party-button-to-unblock-module-disabled = Avblockera den här modulen (blockeringslista är för närvarande inaktiverad)
+    .title =
+        Markerad som blockerad för närvarande, även om blockeringslistan är inaktiverad för denna körning
+        av { -brand-short-name }. Klicka för att avblockera den.
+    .aria-label =
+        Markerad som blockerad för närvarande, även om blockeringslistan är inaktiverad för denna körning
+        av { -brand-short-name }. Klicka för att avblockera den.
 third-party-button-expand =
     .title = Visa detaljerad information
 third-party-button-collapse =
