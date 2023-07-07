@@ -7,7 +7,6 @@ page-subtitle =
     Dizze side befettet technyske ynformaasje dy’t brûkber wêze kin as jo
     probearje om problemen op te lossen. As jo antwurden sykje op algemiene fragen
     oer { -brand-short-name }, sjoch dan op ús <a data-l10n-name="support-link">stipewebsite</a>.
-
 crashes-title = Ungelokrapporten
 crashes-id = Rapport-ID
 crashes-send-date = Ynstjoerd
@@ -78,12 +77,10 @@ app-basics-key-mozilla = Mozilla-lokaasjetsjinstkaai
 app-basics-safe-mode = Feilige modus
 app-basics-memory-size = Unthâldgrutte (RAM)
 app-basics-disk-available = Beskikbere skiifromte:
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Toane yn Finder
@@ -185,6 +182,7 @@ media-codec-support-hw-decoding = Hardware-dekodearring
 media-codec-support-codec-name = Codecnamme
 media-codec-support-supported = Stipe
 media-codec-support-unsupported = Net stipe
+media-codec-support-error = Codec-stipeynformaasje net beskikber. Probearje it nochris nei it ôfspyljen fan in mediabestân.
 
 ##
 
@@ -220,7 +218,6 @@ report-crash-for-days =
         [one] Ungelokrapporten foar de lêste { $days } dei
        *[other] Ungelokrapporten foar de lêste { $days } dagen
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -228,7 +225,6 @@ crashes-time-minutes =
         [one] { $minutes } minút lyn
        *[other] { $minutes } minuten lyn
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -236,7 +232,6 @@ crashes-time-hours =
         [one] { $hours } oer lyn
        *[other] { $hours } oer lyn
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -244,7 +239,6 @@ crashes-time-days =
         [one] { $days } dei lyn
        *[other] { $days } dagen lyn
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -252,7 +246,6 @@ pending-reports =
         [one] Alle ûngelokrapporten (ynklusyf { $reports } ûngelok op wacht yn it opjûne tiidsrak)
        *[other] Alle ûngelokrapporten (ynklusyf { $reports } ûngelokken op wacht yn it opjûne tiidsrak))
     }
-
 raw-data-copied = Rûge gegevens nei klamboerd kopiearre
 text-copied = Tekst nei klamboerd kopiearre
 
@@ -265,11 +258,9 @@ blocked-mismatched-version = Blokkearre foar jo grafyske stjoerprogramma, ferzje
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokkearre foar jo grafysk stjoerprogramma. Probearje jo grafyske stjoerprogramma by te wurkjen nei ferzje { $driverVersion } of nijer.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parameters
-
 compositing = Gearstalle
 hardware-h264 = Hardwaremjittige H264-dekodearring
 main-thread-no-omtc = haadthread, gjin OMTC
@@ -284,7 +275,6 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Fûn
 missing = Untbrekt
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beskriuwing
@@ -309,19 +299,15 @@ webgl2-driver-extensions = Utwreidingen fan WebGL 2-stjoerprogramma
 webgl2-extensions = WebGL 2-útwreidingen
 webgpu-default-adapter = WebGPU-standertdadapter
 webgpu-fallback-adapter = WebGPU-tebekfaladapter
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Blokkearre fanwegen bekende problemen: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Op blokkearlist; flaterkoade { $failureCode }
-
 d3d11layers-crash-guard = D3D11-compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX-fideodecoder
-
 reset-on-next-restart = Opnij ynstelle nij werstart
 gpu-process-kill-button = GPU-proses beëinigje
 gpu-device-reset = Apparaatwerinisjalisaasje
@@ -331,10 +317,8 @@ content-uses-tiling = Brûkt Tiling (Ynhâld)
 off-main-thread-paint-enabled = Off Main Thread Painting ynskeakele
 off-main-thread-paint-worker-count = Oantal Off Main Thread Painting-workers
 target-frame-rate = Doelframerate
-
 min-lib-versions = Minimale ferzje ferwachte
 loaded-lib-versions = Brûkte ferzje
-
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
 has-seccomp-tsync = Seccomp-threadsynchronisatie
 has-user-namespaces = Namespaces fan brûker
@@ -349,18 +333,15 @@ sandbox-proc-type-content = ynhâld
 sandbox-proc-type-file = bestânsynhâld
 sandbox-proc-type-media-plugin = mediaynstekker
 sandbox-proc-type-data-decoder = gegevensdecoder
-
 startup-cache-title = Opstartbuffer
 startup-cache-disk-cache-path = Paad nei skiifbuffer
 startup-cache-ignore-disk-cache = Skiifbuffer negearje
 startup-cache-found-disk-cache-on-init = Skiifbuffer by Init fûn
 startup-cache-wrote-to-disk-cache = Nei skiifbuffer skreaun
-
 launcher-process-status-0 = Ynskeakele
 launcher-process-status-1 = Utskeakele fanwegen flater
 launcher-process-status-2 = Forsearre útskeakele
 launcher-process-status-unknown = Unbekende steat
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -380,7 +361,6 @@ fission-status-enabled-by-user-pref = Ynskeakele troch brûker
 fission-status-disabled-by-user-pref = Utskeakele troch brûker
 fission-status-disabled-by-e10s-other = E10s útskeakele
 fission-status-enabled-by-rollout = Ynskeakele troch fazearre útjefte
-
 async-pan-zoom = Asyngroan panne/zoome
 apz-none = gjin
 wheel-enabled = tsjilynfier ynskeakele
@@ -417,7 +397,6 @@ support-remote-experiments-title = Eksterne eksperiminten
 support-remote-experiments-name = Namme
 support-remote-experiments-branch = Eksperiminttak
 support-remote-experiments-see-about-studies = Sjoch <a data-l10n-name="support-about-studies-link">about:studies</a> foar mear ynformaasje, wêrûnder hoe’t jo yndividuele eksperiminten útskeakelje kinne of foarkomme kinne dat{ -brand-short-name } dit soarte eksperiminten yn de takomst útfiert.
-
 support-remote-features-title = Eksterne funksjes
 support-remote-features-name = Namme
 support-remote-features-status = Steat
