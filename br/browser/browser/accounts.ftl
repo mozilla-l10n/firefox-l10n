@@ -5,14 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Echuiñ kefluniadur ar gont
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Kont digennasket
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Kan d'an holl drvenadoù
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Merañ an trevnadoù...
 
@@ -32,10 +29,8 @@ account-manage-devices-titlecase = Merañ an trevnadoù...
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = Trevnad ebet kennasket
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Gouzout hiroc'h a-zivout kas ivinelloù…
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Kennaskañ un trevnad all…
 
@@ -47,16 +42,16 @@ account-send-tab-to-device-verify = Gwiriit ho kont…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Kennasket eo an urzhiataer-mañ gant { $deviceName }
-
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Kennasket eo an urzhiataer-mañ gant un trevnad nevez.
-
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Kennasket oc'h gant berzh
-
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Digennasket eo bet an urzhiataer-mañ.
 
@@ -68,7 +63,6 @@ account-single-tab-arriving-title = Ivinell degemeret
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Ivinell eus { $deviceName }
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -81,7 +75,6 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = Ivinelloù degemeret
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =

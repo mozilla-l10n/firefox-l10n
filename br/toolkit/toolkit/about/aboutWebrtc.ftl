@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Diabarzhiadoù WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = enrollañ about:webrtc evel
@@ -22,14 +21,12 @@ about-webrtc-aec-logging-msg-label = Kerzhlevr AEC
 about-webrtc-aec-logging-off-state-label = Gweredekaat kerzhlevr AEC
 about-webrtc-aec-logging-on-state-label = Diweredekaat kerzhlevr AEC
 about-webrtc-aec-logging-on-state-msg = Enrolladur kerzhlevr AEC gweredekaet (komzit gant ar galver e-pad un nebeud munutennoù ha paouezit an enrolladenn)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Enrolladur kerzhlevr AEC gweredekaet (komzit gant ar galver e-pad un nebeud munutennoù ha paouezit an enrolladenn)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
 
 ##
-
 
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
@@ -79,12 +76,10 @@ about-webrtc-type-remote = A-bell
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Rakdibabet
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Diuzet
-
 about-webrtc-save-page-label = Enrollañ ar bajenn
 about-webrtc-debug-mode-msg-label = Mod Diveugañ
 about-webrtc-debug-mode-off-state-label = Deraouiñ ar Mod Diveugañ
@@ -97,7 +92,6 @@ about-webrtc-log-show-msg = diskouez ar c'herzhlevr
     .title = klikit evit kreskaat al lodenn-mañ
 about-webrtc-log-hide-msg = Kuzhat ar c'herzhlevr
     .title = Klikañ da ziskar ar gevrenn-mañ
-
 about-webrtc-log-section-show-msg = Diskouez ar c'herzhlevr
     .title = Klikit evit kreskaat al lodenn-mañ
 about-webrtc-log-section-hide-msg = Kuzhat ar c'herzhlevr
@@ -144,6 +138,7 @@ about-webrtc-fold-default-hide-msg = Kuzhat ar munudoù
     .title = Klikañ da ziskar ar gevrenn-mañ
 about-webrtc-decoder-label = Ezvoneger
 about-webrtc-encoder-label = Enboneger
+about-webrtc-show-tab-label = Diskouez an ivinell
 about-webrtc-width-px = Ledander (pks)
 about-webrtc-height-px = Uhelder (pks)
 about-webrtc-time-elapsed = Amzer aet e bioù (e)
@@ -168,7 +163,6 @@ about-webrtc-save-page-msg = pajenn enrollet e: { $path }
 about-webrtc-debug-mode-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
 about-webrtc-debug-mode-on-state-msg = mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
 about-webrtc-aec-logging-off-state-msg = Restroù kerzhlevr euvret a c'hall bezañ kavet e-barzh: { $path }
-
 about-webrtc-save-page-complete-msg = Pajenn enrollet e: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Kerzhlevr ar roudoù a c'hall bezañ kavet e: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Mod diveugañ gweredekaet, kerzhlevr ar roudoù e: { $path }
@@ -180,7 +174,6 @@ about-webrtc-debug-mode-toggled-on-state-msg = Mod diveugañ gweredekaet, kerzhl
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Distabilder { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
