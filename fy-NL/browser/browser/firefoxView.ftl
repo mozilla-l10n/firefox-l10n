@@ -59,6 +59,7 @@ firefoxview-closed-tabs-title = Koartlyn sluten
 firefoxview-closed-tabs-description2 = Iepenje siden opnij dy’t jo yn dit finster sluten hawwe.
 firefoxview-closed-tabs-placeholder-header = Gjin koartlyn sluten ljepblêden
 firefoxview-closed-tabs-placeholder-body = Wannear’t jo in ljepblêd yn dit finster slute, kinne jo it hjir ophelje.
+firefoxview-closed-tabs-placeholder-body2 = Wannear’t jo in ljepblêd, kinne jo it hjir ophelje.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
