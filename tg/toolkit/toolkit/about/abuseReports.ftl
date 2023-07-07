@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Гузориш дар бораи { $addon-name }
-
 abuse-report-title-extension = Фиристодани гузориш дар бораи ин васеъшавӣ ба { -vendor-short-name }
 abuse-report-title-sitepermission = Фиристодани гузориш дар бораи ин васеъшавии иҷозатҳо барои сомонаи ҷорӣ ба { -vendor-short-name }
 abuse-report-title-theme = Фиристодани гузориш дар бораи ин мавзуъ ба { -vendor-short-name }
 abuse-report-subtitle = Масъала дар чист?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = аз ҷониби <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Намедонед, ки кадом мушкилиро интихоб намоед?
     <a data-l10n-name="learnmore-link">Дар бораи гузоришдиҳӣ оид ба хатоҳо дар васеъшавиҳо ва мавзуъҳо маълумоти бешар гиред</a>
-
+abuse-report-learnmore-intro = Намедонед, ки кадом мушкилиро интихоб намоед?
+abuse-report-learnmore-link = Дар бораи гузоришдиҳӣ оид ба хатоҳо дар васеъшавиҳо ва мавзуъҳо маълумоти бешар гиред
 abuse-report-submit-description = Мушкилиро тавзеҳ кунед (ихтиёрӣ)
 abuse-report-textarea =
     .placeholder = Агар мо тафсилоти муфассал дошта бошед, ҳалли мушкилӣ барои мо осонтар мебошад. Лутфан, он мушкилие, ки шумо мекашед, тавсиф кунед. Ташаккур барои он, ки шумо ба мо дар нигоҳдории Интернети солим кумак мекунед.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Бекор кардан
 
 abuse-report-damage-reason-v2 = Ба кори компютери ман зарар мерасонад ё маълумоти маро зери хатар мегузорад
 abuse-report-damage-example = Масалан: Нармафзори зарарноки воридшуда ё маълумоти дуздишуда
-
 abuse-report-spam-reason-v2 = Паёмҳои номатлубро дар бар мегирад ё рекламаи нодаркорро нишон медиҳад
 abuse-report-spam-example = Масалан: Рекламаро ба саҳифаҳои сомона ворид мекунад
-
 abuse-report-settings-reason-v2 = Низоми ҷустуҷӯӣ, саҳифаи асосӣ ё варақаи нави маро бе огоҳӣ ё бе иҷозати ман иваз мекунад
 abuse-report-settings-suggestions = Пеш аз фиристодани гузориш дар бораи васеъшавӣ, шумо метавонед кӯшиш кунед, ки танзимоти худро тағйир диҳед:
 abuse-report-settings-suggestions-search = Танзимоти ҷустуҷӯи пешфарзи шуморо иваз мекунад
 abuse-report-settings-suggestions-homepage = Саҳифаи асосӣ ва варақаи нави шуморо иваз мекунад
-
 abuse-report-deceptive-reason-v2 = Худро ба ғайр аз он чизе, ки дар ҳақиқат мебошад, тақлид мекунад
 abuse-report-deceptive-example = Масалан: Тавсиф ё тасвир шубҳаангез мебошад
-
 abuse-report-broken-reason-extension-v2 = Кор намекунад, сомонаҳоро вайрон мекунад ё кори { -brand-product-name }-ро суст мекунад
 abuse-report-broken-reason-sitepermission-v2 = Кор намекунад, сомонаҳоро вайрон мекунад ё кори { -brand-product-name }-ро суст мекунад
 abuse-report-broken-reason-theme-v2 = Кор намекунад ё намоиши браузерро вайрон мекунад
@@ -97,13 +91,10 @@ abuse-report-broken-suggestions-theme =
     беҳтарин роҳ барои ислоҳ кардани мушкилии вазоифӣ дар он аст, ки шумо бояд бо барномасози
     ин мавзуъ дар тамос шавед.
     Барои гирифтани маълумот дар бораи сомонасоз, <a data-l10n-name="support-link">ба сомонаи ин мавзуъ ворид шавед</a>.
-
 abuse-report-policy-reason-v2 = Ин матн дорои муҳтавои нафратангез, зӯроварӣ ё ғайриқонунӣ мебошад
 abuse-report-policy-suggestions =
     Тавзеҳ: Масъалаҳои ҳуқуқи муаллиф ва тамғаи тиҷорӣ бояд дар раванди алоҳида гузориш дода шаванд.
     Барои пешниҳод кардани гузориш дар бораи мушкилӣ, <a data-l10n-name="report-infringement-link">аз ин даструҳо истифода баред</a>.
-
 abuse-report-unwanted-reason-v2 = Ҳеҷ гоҳ ба ман лозим набуд ва намедонам, ки чӣ тавр аз он халос шавам
 abuse-report-unwanted-example = Масалан: Барнома онро бе иҷозати ман насб кард
-
 abuse-report-other-reason = Чизе дигар
