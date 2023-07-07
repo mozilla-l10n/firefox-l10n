@@ -169,6 +169,7 @@ media-codec-support-hw-decoding = Decodifica hardware
 media-codec-support-codec-name = Nome codec
 media-codec-support-supported = Supportata
 media-codec-support-unsupported = Non supportata
+media-codec-support-error = Informazioni di supporto sui codec non disponibili. Riprova dopo aver riprodotto un file multimediale.
 
 ##
 
