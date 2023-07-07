@@ -8,18 +8,16 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Reporte para { $addon-name }
-
 abuse-report-title-extension = Reportar esta extensión a { -vendor-short-name }
 abuse-report-title-sitepermission = Reportar los permisos de sitio de esta extensión a { -vendor-short-name }
 abuse-report-title-theme = Reportar este tema a { -vendor-short-name }
 abuse-report-subtitle = ¿Cuál es el problema?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = por <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore = ¿No sabes que problema seleccionar? <a data-l10n-name="learnmore-link">Aprende más acerca de reportar extensiones y temas</a>
-
+abuse-report-learnmore-intro = ¿No sabes que problema seleccionar?
+abuse-report-learnmore-link = Aprende más acerca de reportar extensiones y temas
 abuse-report-submit-description = Describe el problema (opcional)
 abuse-report-textarea =
     .placeholder = Es más fácil para nosotros abordar un problema si tenemos detalles específicos. por favor, describe lo que estás experimentando. Gracias por ayudarnos a mantener la web saludable.
@@ -62,18 +60,14 @@ abuse-report-messagebar-action-cancel = Cancelar
 
 abuse-report-damage-reason-v2 = Dañó mi computador o comprometió mis datos
 abuse-report-damage-example = Ejemplo: Malware inyectado o datos robados
-
 abuse-report-spam-reason-v2 = Contiene spam o inserta publicidad no deseada
 abuse-report-spam-example = Ejemplo: Inserta publicidad en sitios web
-
 abuse-report-settings-reason-v2 = Cambió mi buscador, página de inicio o nueva pestaña sin informarme ni preguntarme
 abuse-report-settings-suggestions = Antes de reportar la extensión, puedes intentar cambiar tus ajustes:
 abuse-report-settings-suggestions-search = Cambia tus ajustes de búsqueda predeterminados
 abuse-report-settings-suggestions-homepage = Cambia tu página de inicio y nueva pestaña
-
 abuse-report-deceptive-reason-v2 = Dice ser algo que no es
 abuse-report-deceptive-example = Ejemplo: Descripción o imágenes engañosas
-
 abuse-report-broken-reason-extension-v2 = No funciona, provoca errores en sitios o enlentece { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = No funciona, provoca errores en sitios o enlentece { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = No funciona o corrompe la vista del navegador
@@ -81,11 +75,8 @@ abuse-report-broken-example = Ejemplo: Las funciones son lentas, difíciles de u
 abuse-report-broken-suggestions-extension = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador de la extensión. <a data-l10n-name="support-link">Visita el sitio web de la extensión</a> para conseguir la información del desarrollador.
 abuse-report-broken-suggestions-sitepermission = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador del sitio web. <a data-l10n-name="support-link">Visita el sitio web</a> para conseguir la información del desarrollador.
 abuse-report-broken-suggestions-theme = Parece que has identificado un bug. Junto con enviar un reporte aquí, la mejor forma de que un problema de funcionalidad sea resuelto es contactar al desarrollador del tema. <a data-l10n-name="support-link">Visita el sitio web del tema</a> para conseguir la información del desarrollador.
-
 abuse-report-policy-reason-v2 = Muestra contenido de odio, violencia o ilegal
 abuse-report-policy-suggestions = Nota: Problemas de derechos de autor y uso de marca deben ser reportados en un proceso separado. <a data-l10n-name="report-infringement-link">Usa estas instrucciones</a> para reportar el problema.
-
 abuse-report-unwanted-reason-v2 = Nunca lo quise y no sé cómo deshacerme de él
 abuse-report-unwanted-example = Ejemplo: Una aplicación instalada sin mi permiso
-
 abuse-report-other-reason = Otra cosa
