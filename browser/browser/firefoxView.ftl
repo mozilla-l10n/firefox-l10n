@@ -59,6 +59,7 @@ firefoxview-closed-tabs-title = Đã đóng gần đây
 firefoxview-closed-tabs-description2 = Mở lại các trang bạn đã đóng trong cửa sổ này.
 firefoxview-closed-tabs-placeholder-header = Không có thẻ nào đã đóng gần đây
 firefoxview-closed-tabs-placeholder-body = Khi bạn đóng một thẻ trong cửa sổ này, bạn có thể lấy nó từ đây.
+firefoxview-closed-tabs-placeholder-body2 = Khi bạn đóng một thẻ, bạn có thể tìm thấy nó từ đây.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
