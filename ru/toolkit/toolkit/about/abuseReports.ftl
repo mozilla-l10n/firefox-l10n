@@ -8,20 +8,18 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = Пожаловаться на { $addon-name }
-
 abuse-report-title-extension = Пожаловаться на это расширение в { -vendor-short-name }
 abuse-report-title-sitepermission = Пожаловаться на это дополнение разрешений для сайта в { -vendor-short-name }
 abuse-report-title-theme = Пожаловаться на эту тему в { -vendor-short-name }
 abuse-report-subtitle = С какой проблемой вы столкнулись?
-
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = от <a data-l10n-name="author-name">{ $author-name }</a>
-
 abuse-report-learnmore =
     Не знаете, какую проблему выбрать?
     <a data-l10n-name="learnmore-link">Подробнее о жалобах на расширения и темы</a>
-
+abuse-report-learnmore-intro = Не знаете, какую проблему выбрать?
+abuse-report-learnmore-link = Подробнее о жалобах на расширения и темы
 abuse-report-submit-description = Опишите проблему (необязательно)
 abuse-report-textarea =
     .placeholder = Нам легче решить проблему, если она подробно описана. Пожалуйста, расскажите все подробности. Спасибо за помощь в поддержке здорового Интернета.
@@ -66,18 +64,14 @@ abuse-report-messagebar-action-cancel = Отмена
 
 abuse-report-damage-reason-v2 = Вредит работе компьютера или крадёт мои данные
 abuse-report-damage-example = Например: Вредоносное ПО или кража данных
-
 abuse-report-spam-reason-v2 = Содержит спам или вставляет нежелательную рекламу
 abuse-report-spam-example = Например: Вставляет рекламу на веб-страницы
-
 abuse-report-settings-reason-v2 = Изменяет мою поисковую систему, домашнюю страницу или страницу новой вкладки, не сообщая и не спрашивая меня
 abuse-report-settings-suggestions = Перед отправкой жалобы на расширение, вы можете попробовать изменить настройки:
 abuse-report-settings-suggestions-search = Изменяет настройки поиска по умолчанию
 abuse-report-settings-suggestions-homepage = Изменяет домашнюю страницу и страницу новой вкладки
-
 abuse-report-deceptive-reason-v2 = Выдаёт себя не за то, чем является
 abuse-report-deceptive-example = Например: Описание или изображение вводят в заблуждение
-
 abuse-report-broken-reason-extension-v2 = Не работает, ломает веб-сайты или замедляет работу { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Не работает, ломает веб-сайты или замедляет работу { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Не работает или нарушает работу браузера
@@ -94,14 +88,11 @@ abuse-report-broken-suggestions-theme =
     Похоже, что вы обнаружили ошибку. В дополнение к отправке отчёта здесь, лучшим способом
     решения проблемы будет связь с разработчиком темы.
     <a data-l10n-name="support-link">Посетите веб-сайт темы</a> для получения информации о разработчике.
-
 abuse-report-policy-reason-v2 = Содержит незаконное, жестокое, вызывающее ненависть содержимое
 abuse-report-policy-suggestions =
     Примечание: Жалобы о нарушении авторских прав или прав на товарный знак должны подаваться отдельно.
     <a data-l10n-name="report-infringement-link">Воспользуйтесь этими инструкциями</a>, чтобы
     сообщить о проблеме.
-
 abuse-report-unwanted-reason-v2 = Я никогда не устанавливал(а) его и не знаю, как от него избавиться
 abuse-report-unwanted-example = Например: Приложение установило его без моего разрешения
-
 abuse-report-other-reason = Что-то другое
