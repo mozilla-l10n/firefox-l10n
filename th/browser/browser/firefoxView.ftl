@@ -83,6 +83,8 @@ firefoxview-collapse-button-hide =
     .title = ซ่อนรายการ
 firefoxview-overview-nav = การเรียกดูล่าสุด
     .title = การเรียกดูล่าสุด
+firefoxview-overview-header = การเรียกดูล่าสุด
+    .title = การเรียกดูล่าสุด
 
 ## History in this context refers to browser history
 
@@ -104,6 +106,9 @@ firefoxview-recently-closed-header = แท็บที่ปิดล่าส�
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = แท็บจากอุปกรณ์อื่น ๆ
+    .title = แท็บจากอุปกรณ์อื่น ๆ
+firefoxview-synced-tabs-header = แท็บจากอุปกรณ์อื่น ๆ
 
 ##
 
@@ -121,10 +126,17 @@ firefoxview-opentabs-focus-tab =
     .title = สลับไปยังแท็บนี้
 firefoxview-show-more = แสดงเพิ่มเติม
 firefoxview-show-less = แสดงน้อยลง
+firefoxview-sort-history-by-date-label = เรียงตามวันที่
+firefoxview-sort-history-by-site-label = เรียงตามไซต์
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = วันนี้ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = เมื่อวาน - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
+firefoxview-show-all-history = แสดงประวัติทั้งหมด
