@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = about:webrtc қалайша сақтау
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Жабылған PeerConnections көрсету
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Жабылған PeerConnections жасыру
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 

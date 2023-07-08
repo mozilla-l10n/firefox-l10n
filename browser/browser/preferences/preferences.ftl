@@ -1234,16 +1234,26 @@ preferences-doh-setting-enabled =
     .accesskey = а
 preferences-doh-enabled-desc = Сіз қауіпсіз DNS пайдалану уақытын өзіңіз басқарасыз және провайдеріңізді таңдайсыз.
 preferences-doh-enabled-detailed-desc-1 = Сіз тандаған провайдерді пайдалану
+preferences-doh-enabled-detailed-desc-2 = Үнсіз келісім DNS провайдерін тек қауіпсіз DNS провайдеріне қатысты мәселе болса, пайдалану
 preferences-doh-setting-strict =
     .label = Максималды қорғаныс
     .accesskey = М
+preferences-doh-strict-desc = { -brand-short-name }әрқашан қауіпсіз DNS пайдаланады. Жүйенің DNS жүйесін пайдаланбас бұрын қауіпсіздік тәуекел қаупі туралы ескертуді көресіз.
 preferences-doh-strict-detailed-desc-1 = Тек сіз тандаған провайдерді пайдалану
 preferences-doh-strict-detailed-desc-2 = Қауіпсіз DNS қолжетімді болмаса, әрқашан ескерту
 preferences-doh-strict-detailed-desc-3 = Қауіпсіз DNS қолжетімді болмаса, сайттар жүктелмейді немесе дұрыс жұмыс істемейді
 preferences-doh-setting-off =
     .label = Сөндіру
     .accesskey = С
+preferences-doh-off-desc = Үнсіз келісім DNS шешушісін қолдану
+preferences-doh-checkbox-warn =
+    .label = Үшінші тарап қауіпсіз DNS-ке белсенді түрде кедергі жасаса, ескерту
+    .accesskey = е
 preferences-doh-select-resolver = Провайдерді таңдау:
+preferences-doh-exceptions-description = { -brand-short-name } бұл сайттарда қауіпсіз DNS пайдаланбайды
+preferences-doh-manage-exceptions =
+    .label = Ережеден тыс жағдайларды басқару…
+    .accesskey = р
 
 ## The following strings are used in the Download section of settings
 
