@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 # DO NOT ADD THINGS OTHER THAN ERROR MESSAGES HERE.
 # This file gets parsed into a JS dictionary of all known error message ids in
 # gen_aboutneterror_codes.py . If we end up needing fluent attributes or
@@ -9,13 +10,11 @@
 
 psmerr-ssl-disabled = Não é possível ligar de forma segura porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não é possível ligar de forma segura porque o site utiliza uma versão do protocolo SSL antiga e é insegura.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recebeu um certificado inválido.  Por favor contacte o administrador do servidor ou endereço de email equivalente e dê-lhes a seguinte informação:
     
     O seu certificado contém o mesmo número de série que o de outro certificado emitido pela mesma autoridade certificadora.  Por favor obtenha um novo certificado com um número de série único.
-
 ssl-error-export-only-server = Não foi possível comunicar de forma segura. O par não suporta encriptação de alta qualidade.
 ssl-error-us-only-server = Não foi possível comunicar de forma segura. O par requer uma encriptação de alta qualidade que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar de forma segura com o par: não existe(m) algoritmo(s) de encriptação em comum.
@@ -116,7 +115,7 @@ ssl-error-protocol-version-alert = O par indica uma versão do protocolo não su
 ssl-error-insufficient-security-alert = O servidor requer cifras mais seguras do que as suportadas pelo cliente.
 ssl-error-internal-error-alert = O par indicou que teve um erro interno.
 ssl-error-user-canceled-alert = O utilizador do par cancelou o handshake.
-ssl-error-no-renegotiation-alert = O par não permite a re-negociação dos parâmetros de segurança SSL.
+ssl-error-no-renegotiation-alert = O par não permite a renegociação dos parâmetros de segurança SSL.
 ssl-error-server-cache-not-configured = Cache do servidor SSL não configurado e não desativado para este socket.
 ssl-error-unsupported-extension-alert = O par SSL não tem suporte à extensão TLS hello.
 ssl-error-certificate-unobtainable-alert = O par SSL não conseguiu obter o seu certificado a partir do URL fornecido.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nenhum algoritmo de assinatura TLS 
 ssl-error-unsupported-signature-algorithm = O par utilizou um algoritmo de combinação de assinatura e hash não suportado.
 ssl-error-missing-extended-master-secret = O par tentou resumir sem a extensão extended_master_secret correta.
 ssl-error-unexpected-extended-master-secret = O par tentou resumir com uma extensão extended_master_secret inesperada.
-
 sec-error-io = Ocorreu um erro de E/S durante a autorização de segurança.
 sec-error-library-failure = falha na biblioteca de segurança.
 sec-error-bad-data = biblioteca de segurança: receção de dados errados.
@@ -319,7 +317,6 @@ sec-error-locked-password = A palavra-passe está bloqueada.
 sec-error-unknown-pkcs11-error = Erro PKCS #11 desconhecido.
 sec-error-bad-crl-dp-url = URL não suportado ou inválido no ponto de distribuição CRL.
 sec-error-cert-signature-algorithm-disabled = O certificado foi assinado usando um algoritmo da assinatura que foi desativado pois não é seguro.
-
 mozilla-pkix-error-key-pinning-failure = O servidor utiliza uma chave pinning (HPKP) mas não foi possível construir uma cadeia de confiança do certificado que corresponda ao pinset. Violações da chave não podem ser sobrescritas.
 mozilla-pkix-error-ca-cert-used-as-end-entity = O servidor usa um certificado com uma extensão com restrições base identificando-a como uma autoridade de certificação. Para um certificado correto esse problema não se coloca.
 mozilla-pkix-error-inadequate-key-size = O servidor apresentou um certificado com o tamanho da chave demasiado pequeno para estabelecer uma ligação segura.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = O servidor apresentou um certifica
 mozilla-pkix-error-empty-issuer-name = O servidor apresentou um certificado com um nome de emissor distinto vazio.
 mozilla-pkix-error-additional-policy-constraint-failed = Uma restrição de política adicional falhou ao validar este certificado.
 mozilla-pkix-error-self-signed-cert = O certificado não é de confiança porque é auto-assinado.
-
 xp-java-remove-principal-error = Não foi possível remover o principal
 xp-java-delete-privilege-error = Não foi possível apagar o privilégio
 xp-java-cert-not-exists-error = Este principal não tem um certificado
-
 xp-sec-fortezza-bad-card = O cartão Fortezza não foi iniciado corretamente. Por favor remova-o e devolva-o ao seu emissor.
 xp-sec-fortezza-no-card = Não foram encontrados cartões Fortezza
 xp-sec-fortezza-none-selected = Nenhum cartão Fortezza selecionado
