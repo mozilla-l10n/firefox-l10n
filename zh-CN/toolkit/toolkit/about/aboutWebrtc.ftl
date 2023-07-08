@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = 另存 about:webrtc 为
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = 显示已关闭的 PeerConnection
+about-webrtc-closed-peerconnection-disclosure-hide-msg = 隐藏已关闭的 PeerConnection
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -30,6 +32,8 @@ about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的日志文件在这�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = 自动刷新
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = 默认自动刷新
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = 刷新
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -295,6 +299,9 @@ about-webrtc-hide-msg-sdp = 隐藏SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = 显示媒体内容
+about-webrtc-media-context-hide-msg = 隐藏媒体内容
+about-webrtc-media-context-heading = 媒体内容
 
 ##
 
