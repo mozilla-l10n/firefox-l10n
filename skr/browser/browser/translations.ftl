@@ -95,6 +95,7 @@ translations-manage-header = ترجمے
 translations-manage-settings-button =
     .label = ترتیباں …
     .accesskey = t
+translations-manage-description = آف لائن ترجمے کیتے زناناں ڈاؤن لوڈ کرو
 translations-manage-all-language = ساریاں زباناں
 translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
