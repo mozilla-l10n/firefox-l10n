@@ -38,11 +38,9 @@ menu-quit =
             [windows] r
            *[other] r
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sair do { -brand-shorter-name }
-
 menu-about =
     .label = Acerca do { -brand-shorter-name }
     .accesskey = A
@@ -233,6 +231,9 @@ menu-bookmark-tab =
     .label = Adicionar separador atual aos marcadores…
 menu-edit-bookmark =
     .label = Editar este marcador…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Pesquisar marcadores
 menu-bookmarks-all-tabs =
     .label = Adicionar todos os separadores aos marcadores…
 menu-bookmarks-toolbar =
