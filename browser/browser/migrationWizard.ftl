@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = 已成功导入密码
 migration-passwords-from-file = 正在检查文件中的密码
 migration-passwords-new = 新密码
 migration-passwords-updated = 现有密码
+migration-passwords-from-file-no-valid-data = 此文件不含有效的密码数据，请选择其他文件。
 migration-passwords-from-file-picker-title = 导入密码文件
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -183,9 +184,18 @@ migration-wizard-progress-success-favorites = { $quantity } 个收藏
 # Variables:
 #   $quantity (Number): the number of successfully imported extensions
 migration-wizard-progress-success-extensions = { $quantity } 个扩展
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = 检测到 { $quantity } 个扩展，成功匹配 { $matched } 个
+migration-wizard-progress-extensions-support-link = 详细了解 { -brand-product-name } 匹配扩展的方式
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = 没有匹配的扩展
+migration-wizard-progress-extensions-addons-link = 浏览 { -brand-short-name } 的扩展
 
 ##
 

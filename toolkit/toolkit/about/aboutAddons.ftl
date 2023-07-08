@@ -158,6 +158,7 @@ extensions-warning-check-compatibility-button = 启用
 extensions-warning-update-security = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
 extensions-warning-update-security-button = 启用
     .title = 启用附加组件安全更新检查
+extensions-warning-imported-addons = 请完成安装导入至 { -brand-short-name } 的扩展。
 extensions-warning-imported-addons-button = 安装扩展
 
 ## Strings connected to add-on updates
@@ -357,6 +358,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = 在受限制的网站上运行
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = 允许后，此扩展将能够访问受 { -vendor-short-name } 限制的网站。请仅在您信任此网站时才允许。
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = 允许
 addon-detail-quarantined-domains-disallow = 不允许
