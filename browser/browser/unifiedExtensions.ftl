@@ -20,28 +20,25 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Abrir o menu para { $extensionName }
-
 unified-extensions-item-message-manage = Gerir extensão
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Afixar na barra de ferramentas
-
 unified-extensions-context-menu-manage-extension =
     .label = Gerir Extensão
-
 unified-extensions-context-menu-remove-extension =
     .label = Remover Extensão
-
 unified-extensions-context-menu-report-extension =
     .label = Reportar Extensão
-
 unified-extensions-context-menu-move-widget-up =
     .label = Mover para cima
-
 unified-extensions-context-menu-move-widget-down =
     .label = Mover para baixo
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Algumas extensões não são permitidas
+unified-extensions-mb-quarantined-domain-message = Apenas são permitidas algumas extensões neste site, monitorizadas por { -vendor-short-name } para proteger os seus dados.
+unified-extensions-mb-quarantined-domain-message-2 = Para proteger os seus dados, algumas extensões não podem ler ou alterar os dados neste site. Utilize as definições da extensão para a permitir nos sites restritos por { -vendor-short-name }.
