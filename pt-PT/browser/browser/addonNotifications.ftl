@@ -14,7 +14,6 @@ xpinstall-prompt-message = Está a tentar instalar um extra a partir de { $host 
 
 xpinstall-prompt-header-unknown = Permitir que um site desconhecido instale um extra?
 xpinstall-prompt-message-unknown = Está a tentar instalar um extra a partir de um site desconhecido. Certifique-se de que confia neste site antes de continuar.
-
 xpinstall-prompt-dont-allow =
     .label = Não permitir
     .accesskey = N
@@ -45,7 +44,6 @@ xpinstall-disabled = A instalação de software está atualmente desativada. Cli
 xpinstall-disabled-button =
     .label = Ativar
     .accesskey = t
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,13 +52,16 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) está bloqueado 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = O seu administrador de sistema impediu este site de solicitar autorização para instalar software no seu computador.
 addon-install-full-screen-blocked = A instalação de extras não é permitida enquanto estiver ou antes de entrar no modo de ecrã completo.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } adicionado ao { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } requer novas permissões
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Finalize a instalação das extensões importadas para o { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -72,7 +73,6 @@ addon-removal-title = Remover { $name }?
 addon-removal-message = Remover { $name } do { -brand-shorter-name }?
 addon-removal-button = Remover
 addon-removal-abuse-report-checkbox = Reportar esta extensão à { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] A transferir e a verificar { $addonCount } extras…
     }
 addon-download-verifying = A verificar
-
 addon-install-cancel-button =
     .label = Cancelar
     .accesskey = C
