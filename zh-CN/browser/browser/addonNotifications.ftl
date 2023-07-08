@@ -14,7 +14,6 @@ xpinstall-prompt-message = 您正尝试从 { $host } 安装附加组件。继续
 
 xpinstall-prompt-header-unknown = 允许未知站点安装附加组件？
 xpinstall-prompt-message-unknown = 您正尝试从未知站点安装附加组件。继续之前请确保您信任此站点。
-
 xpinstall-prompt-dont-allow =
     .label = 不允许
     .accesskey = D
@@ -45,7 +44,6 @@ xpinstall-disabled = 软件安装已被禁用。请单击“启用”并重试�
 xpinstall-disabled-button =
     .label = 启用
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,13 +52,16 @@ addon-install-blocked-by-policy = { $addonName }（{ $addonId }）已被系统�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = 您的系统管理员已阻止此网站在您的计算机上安装软件的请求。
 addon-install-full-screen-blocked = 进入全屏模式前或进入时，不允许安装附加组件。
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } 已添加到 { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } 需要新的权限
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = 正在完成安装已导入 { -brand-short-name } 的扩展
 
 ## Add-on removal warning
 
@@ -72,12 +73,10 @@ addon-removal-title = 要移除 { $name } 吗？
 addon-removal-message = 移除 { -brand-shorter-name } 中的 { $name } 吗？
 addon-removal-button = 移除
 addon-removal-abuse-report-checkbox = 向 { -vendor-short-name } 举报此扩展
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 正在下载并验证 { $addonCount } 个附加组件…
 addon-download-verifying = 正在验证
-
 addon-install-cancel-button =
     .label = 取消
     .accesskey = C
