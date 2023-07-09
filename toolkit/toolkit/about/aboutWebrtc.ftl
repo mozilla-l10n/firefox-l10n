@@ -105,6 +105,7 @@ about-webrtc-save-page-label = Salva pagina
 about-webrtc-debug-mode-msg-label = Modalità di debug
 about-webrtc-debug-mode-off-state-label = Avvia modalità di debug
 about-webrtc-debug-mode-on-state-label = Interrompi modalità di debug
+about-webrtc-enable-logging-label = Attiva preset di registrazione per WebRTC
 about-webrtc-stats-heading = Statistiche di sessione
 about-webrtc-stats-clear = Cancella cronologia
 about-webrtc-log-heading = Registro di connessione
