@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Бас тарту
     .accesskey = с
-
 webext-perms-sideload-text = Компьютеріңіздегі басқа бағдарлама браузерге кері әсерін тигізе алатын кеңейтуді орнатқан. Бұл кеңейтудің рұқсаттарға талаптарын қарап шығып, Іске қосуды немесе оны сөндірілген күйінде қалдыру үшін Бас тартуды таңдаңыз.
 webext-perms-sideload-text-no-perms = Компьютеріңіздегі басқа бағдарлама браузерге кері әсерін тигізе алатын кеңейтуді орнатқан. Іске қосуды немесе оны сөндірілген күйінде қалдыру үшін Бас тартуды таңдаңыз.
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Бас тарту
     .accesskey = с
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } жаңартылды. Жаңартылған нұсқасы орнатылу алдында жаңа рұқсаттарды сізге растау керек. "Бас тарту" таңдасаңыз, кеңейтудің ағымдағы нұсқасы қалатын болады. Бұл кеңейтудің келесі рұқсаттары болады:
 webext-perms-update-accept =
     .label = Жаңарту
     .accesskey = Ж
-
 webext-perms-optional-perms-list-intro = Оның талаптары:
 webext-perms-optional-perms-allow =
     .label = Рұқсат ету
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Тыйым салу
     .accesskey = Т
-
 webext-perms-host-description-all-urls = Барлық вебсайттар үшін деректеріңізге қатынау
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = { $domain } доменіндегі сайттар үшін деректеріңізге қатынау
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } үшін деректеріңізге қатынау
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -89,6 +82,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Бұл қосымша { $
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Бұл әдетте дыбыс синтезаторлары сияқты жалғанатын құрылғылар, бірақ компьютерге де кіріктірілген болуы мүмкін.
+    
+    Веб-сайттарға әдетте MIDI құрылғыларына кіруге рұқсат етілмейді. Дұрыс пайдаланбау зақым келтіруі немесе қауіпсіздікті бұзуы мүмкін.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
