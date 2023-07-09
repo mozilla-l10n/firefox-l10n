@@ -65,6 +65,13 @@ third-party-button-to-block-module = Bloquear este módulo
 third-party-button-to-unblock-module = Desbloquear este módulo
     .title = Actualmente bloqueado. Clic para desbloquearlo.
     .aria-label = Actualmente bloqueado. Clic para desbloquearlo.
+third-party-button-to-unblock-module-disabled = Desbloquear este módulo (lista de bloqueo actualmente deshabilitada)
+    .title =
+        Actualmente marcado como bloqueado, aunque la lista de bloqueo está desactivada para esta ejecución
+        de { -brand-short-name }. Clic para desbloquearlo.
+    .aria-label =
+        Actualmente marcado como bloqueado, aunque la lista de bloqueo está desactivada para esta ejecución
+        de { -brand-short-name }. Clic para desbloquearlo.
 third-party-button-expand =
     .title = Mostrar información detallada
 third-party-button-collapse =
