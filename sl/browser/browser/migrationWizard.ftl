@@ -206,6 +206,18 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } razširitev
+        [two] { $quantity } razširitvi
+        [few] { $quantity } razširitve
+       *[other] { $quantity } razširitev
+    }
 
 ##
 
