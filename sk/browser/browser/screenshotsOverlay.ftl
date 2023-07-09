@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 screenshots-overlay-cancel-button = Zrušiť
-screenshots-overlay-instructions = Potiahnutím alebo kliknutím si vyberte oblasť, ktorú chcete zachytiť. Výber zrušíte stlačením klávesa ESC.
+screenshots-overlay-instructions = Potiahnutím alebo kliknutím na stránku vyberte oblasť. Nástroj zrušíte stlačením klávesu ESC.
 screenshots-overlay-download-button = Stiahnuť
 screenshots-overlay-copy-button = Kopírovať
