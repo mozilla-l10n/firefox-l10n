@@ -7,7 +7,6 @@ page-subtitle =
     Táto stránka obsahuje technické informácie, ktoré môžu byť užitočné pri riešení
     problémov s touto aplikáciou. Ak hľadáte odpovede na bežné otázky
     o programe { -brand-short-name }, navštívte <a data-l10n-name="support-link">stránku podpory</a>.
-
 crashes-title = Správy o zlyhaní
 crashes-id = Identifikátor správy
 crashes-send-date = Dátum odoslania
@@ -78,12 +77,10 @@ app-basics-key-mozilla = Kľúč Mozilla Location Service
 app-basics-safe-mode = Núdzový režim
 app-basics-memory-size = Veľkosť pamäte (RAM)
 app-basics-disk-available = Dostupné miesto na disku
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Zobraziť vo Finderi
@@ -185,6 +182,7 @@ media-codec-support-hw-decoding = Hardvérové dekódovanie
 media-codec-support-codec-name = Názov kodeku
 media-codec-support-supported = Podporované
 media-codec-support-unsupported = Nepodporované
+media-codec-support-error = Informácie o podpore kodeku nie sú k dispozícii. Skúste to znova po prehratí mediálneho súboru.
 
 ##
 
@@ -221,7 +219,6 @@ report-crash-for-days =
         [few] Správy o zlyhaní za posledné { $days } dni
        *[other] Správy o zlyhaní za posledných { $days } dní
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -230,7 +227,6 @@ crashes-time-minutes =
         [few] pred { $minutes } minútami
        *[other] pred { $minutes } minútami
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -239,7 +235,6 @@ crashes-time-hours =
         [few] pred { $hours } hodinami
        *[other] pred { $hours } hodinami
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -248,7 +243,6 @@ crashes-time-days =
         [few] pred { $days } dňami
        *[other] pred { $days } dňami
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -257,7 +251,6 @@ pending-reports =
         [few] Všetky správy o zlyhaní (vrátane { $reports } čakajúcich správ za dané obdobie)
        *[other] Všetky správy o zlyhaní (vrátane { $reports } čakajúcich správ za dané obdobie)
     }
-
 raw-data-copied = Údaje boli skopírované do schránky
 text-copied = Text bol skopírovaný do schránky
 
@@ -270,11 +263,9 @@ blocked-mismatched-version = Blokované kvôli nesúladu verzie ovládača grafi
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokované kvôli verzii ovládača grafickej karty. Skúste ovládač aktualizovať na verziu { $driverVersion } alebo novšiu.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Technológia ClearType
-
 compositing = Skladanie
 hardware-h264 = Hardvérové dekódovanie H264
 main-thread-no-omtc = hlavné vlákno, bez OMTC
@@ -289,7 +280,6 @@ virtual-monitor-disp = Zobrazenie virtuálneho monitoru
 
 found = Nájdený
 missing = Chýba
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Popis
@@ -314,19 +304,15 @@ webgl2-driver-extensions = Rozšírenia ovládača WebGL 2
 webgl2-extensions = Rozšírenia WebGL 2
 webgpu-default-adapter = Predvolený adaptér WebGPU
 webgpu-fallback-adapter = Záložný adaptér WebGPU
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zablokované kvôli známym problémom: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokované; chybový kód { $failureCode }
-
 d3d11layers-crash-guard = D3D11 Compositor
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX video dekodér
-
 reset-on-next-restart = Obnoviť pri nasledujúcom reštarte
 gpu-process-kill-button = Ukončiť GPU proces
 gpu-device-reset = Obnova zariadenia
@@ -336,10 +322,8 @@ content-uses-tiling = Používa skladanie (obsah)
 off-main-thread-paint-enabled = Vykresľovanie mimo hlavného vlákna povolené
 off-main-thread-paint-worker-count = Počet vlákien pre vykresľovanie mimo hlavného vlákna
 target-frame-rate = Cieľová obrazová frekvencia
-
 min-lib-versions = Očakávaná minimálna verzia
 loaded-lib-versions = Používaná verzia
-
 has-seccomp-bpf = Seccomp-BPF (filtrovanie systémových volaní)
 has-seccomp-tsync = Synchronizácia vlákien Seccomp
 has-user-namespaces = Priestory názvov používateľa
@@ -354,18 +338,15 @@ sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah súboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekodér údajov
-
 startup-cache-title = Vyrovnávacia pamäť spustenia
 startup-cache-disk-cache-path = Cesta k vyrovnávacej pamäti na disku
 startup-cache-ignore-disk-cache = Ignorovať vyrovnávaciu pamäť disku
 startup-cache-found-disk-cache-on-init = Vyrovnávacia pamäť na disku nájdená počas inicializácie
 startup-cache-wrote-to-disk-cache = Zapísané do vyrovnávacej pamäti na disku
-
 launcher-process-status-0 = Povolený
 launcher-process-status-1 = Zakázaný kvôli chybe
 launcher-process-status-2 = Vynútene zakázaný
 launcher-process-status-unknown = Neznámy stav
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -385,7 +366,6 @@ fission-status-enabled-by-user-pref = Povolené používateľom
 fission-status-disabled-by-user-pref = Zakázané používateľom
 fission-status-disabled-by-e10s-other = E10s zakázané
 fission-status-enabled-by-rollout = Povolené postupným zavádzaním
-
 async-pan-zoom = Asynchrónna lupa/panning
 apz-none = žiadna
 wheel-enabled = vstup kolieskom povolený
@@ -422,7 +402,6 @@ support-remote-experiments-title = Vzdialené experimenty
 support-remote-experiments-name = Názov
 support-remote-experiments-branch = Vetva experimentu
 support-remote-experiments-see-about-studies = Ďalšie informácie nájdete na stránke <a data-l10n-name="support-about-studies-link">about:studies</a> vrátane informácií, ako zakázať jednotlivé experimenty alebo ako zakázať spustenie tohto typu experimentu v aplikácii { -brand-short-name } v budúcnosti.
-
 support-remote-features-title = Vzdialené funkcie
 support-remote-features-name = Názov
 support-remote-features-status = Stav
