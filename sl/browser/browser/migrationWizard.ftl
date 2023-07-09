@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Uvoz podatkov brskalnika
 migration-wizard-selection-list = Izberite podatke, ki jih želite uvoziti.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Izberite podatke, ki jih želite uvoziti.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = iz { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,26 +53,22 @@ migration-selected-data-label = Uvozi izbrane podatke
 
 migration-select-all-option-label = Izberi vse
 migration-bookmarks-option-label = zaznamki
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = priljubljene
-
 migration-logins-and-passwords-option-label = shranjene prijave in gesla
 migration-history-option-label = zgodovina brskanja
+migration-extensions-option-label = Razširitve
 migration-form-autofill-option-label = podatki za izpolnjevanje obrazcev
 migration-payment-methods-option-label = Načini plačila
-
 migration-cookies-option-label = Piškotki
 migration-session-option-label = Okna in zavihki
 migration-otherdata-option-label = Drugi podatki
-
 migration-passwords-from-file-progress-header = Uvozi datoteko z gesli
 migration-passwords-from-file-success-header = Gesla so uspešno uvožena
 migration-passwords-from-file = Iskanje gesel v datoteki
 migration-passwords-new = Nova gesla
 migration-passwords-updated = Obstoječa gesla
-
 migration-passwords-from-file-picker-title = Uvozi datoteko z gesli
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -90,7 +84,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Datoteka TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -103,7 +96,6 @@ migration-wizard-progress-success-new-passwords =
         [few] { $newEntries } dodana
        *[other] { $newEntries } dodanih
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -116,14 +108,11 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } posodobljena
        *[other] { $updatedEntries } posodobljenih
     }
-
 migration-bookmarks-from-file-picker-title = Uvozi datoteko z zaznamki
 migration-bookmarks-from-file-progress-header = Uvažanje zaznamkov
 migration-bookmarks-from-file = Zaznamki
 migration-bookmarks-from-file-success-header = Zaznamki so uspešno uvoženi
-
 migration-bookmarks-from-file-no-valid-data = Datoteka ne vsebuje podatkov o zaznamkih. Izberite drugo datoteko.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -131,11 +120,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Dokument HTML
        *[other] Datoteka HTML
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Datoteka JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -148,14 +135,12 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } zaznamki
        *[other] { $newEntries } zaznamkov
     }
-
 migration-import-button-label = Uvozi
 migration-choose-to-import-from-file-button-label = Uvozi iz datoteke
 migration-import-from-file-button-label = Izberi datoteko
 migration-cancel-button-label = Prekliči
 migration-done-button-label = Končano
 migration-continue-button-label = Nadaljuj
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ni našel programov, ki bi vsebovali zaznamke, zgodovino ali gesla.
 migration-wizard-import-browser-no-resources = Prišlo je do napake. { -brand-short-name } ne najde podatkov za uvoz iz tega profila brskalnika.
 
@@ -166,7 +151,6 @@ migration-wizard-import-browser-no-resources = Prišlo je do napake. { -brand-sh
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = zaznamke
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = priljubljene
@@ -183,7 +167,6 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Uvažanje ...
 migration-wizard-progress-icon-completed =
     .aria-label = Dokončano
-
 migration-safari-password-import-header = Uvozi gesla iz brskalnika Safari
 migration-safari-password-import-steps-header = Za uvoz gesel iz brskalnika Safari:
 migration-safari-password-import-step1 = V Safariju odprite meni “Safari” in izberite Preferences > Passwords
@@ -192,8 +175,6 @@ migration-safari-password-import-step3 = Shranite datoteko z gesli
 migration-safari-password-import-step4 = Spodaj kliknite “Izberi datoteko” in poiščite datoteko, ki ste jo shranili
 migration-safari-password-import-skip-button = Preskoči
 migration-safari-password-import-select-button = Izberi datoteko
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -206,7 +187,6 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } zaznamki
        *[other] { $quantity } zaznamkov
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -226,6 +206,7 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+
 ##
 
 # Shown in the migration wizard after importing passwords from another
@@ -240,7 +221,6 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } gesla
        *[other] { $quantity } gesel
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -253,9 +233,7 @@ migration-wizard-progress-success-history =
         [few] zadnjih { $maxAgeInDays } dni
        *[other] zadnjih { $maxAgeInDays } dni
     }
-
 migration-wizard-progress-success-formdata = zgodovina obrazcev
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -268,7 +246,6 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } načini plačil
        *[other] { $quantity } načinov plačil
     }
-
 migration-wizard-safari-permissions-sub-header = Za uvoz zaznamkov in zgodovine iz brskalnika Safari:
 migration-wizard-safari-instructions-continue = Izberite "Nadaljuj"
 migration-wizard-safari-instructions-folder = Na seznamu izberite mapo Safari in nato “Odpri”

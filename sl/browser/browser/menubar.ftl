@@ -38,11 +38,9 @@ menu-quit =
             [windows] h
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Izhod iz { -brand-shorter-name }a
-
 menu-about =
     .label = O { -brand-shorter-name }u
     .accesskey = O
@@ -235,6 +233,9 @@ menu-bookmark-tab =
     .label = Dodaj trenutni zavihek med zaznamke …
 menu-edit-bookmark =
     .label = Uredi ta zaznamek …
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Iskanje po zaznamkih
 menu-bookmarks-all-tabs =
     .label = Dodaj vse zavihke med zaznamke …
 menu-bookmarks-toolbar =
