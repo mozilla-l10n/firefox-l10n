@@ -110,6 +110,8 @@ options-enable-remote-tooltip2 =
     .title = Бұл параметрді іске қосу осы браузер экземплярын қашықтан жөндеуге мүмкіндік береді
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = DevTools ашу немесе жабу үшін F12 пернесін пайдаланыңыз
+options-enable-f12-tooltip =
+    .title = Бұл опцияны іске қосу DevTools құралдар жинағын ашу немесе жабу үшін F12 пернесін байланыстырады
 # The label for checkbox that toggles custom formatters for objects
 options-enable-custom-formatters-label = Арнаулы пішімдеушілерді іске қосу
 options-enable-custom-formatters-tooltip =
