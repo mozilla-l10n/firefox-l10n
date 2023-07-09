@@ -33,7 +33,7 @@ about-logging-with-profiler-stacks-checkbox = Включить трассиро�
 about-logging-preset-networking-label = Сеть
 about-logging-preset-networking-description = Модули журнала для диагностики проблем с сетью
 about-logging-preset-networking-cookie-label = Куки
-about-logging-preset-networking-cookie-description = Модули журнала для диагностики проблем с куки
+about-logging-preset-networking-cookie-description = Модули журнала для диагностики проблем с куками
 about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = Модули журнала для диагностики проблем WebSocket
 about-logging-preset-networking-http3-label = HTTP/3
@@ -44,7 +44,6 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модули журнала для диагностики вызовов WebRTC
 about-logging-preset-custom-label = Персональная
 about-logging-preset-custom-description = Вручную выбранные модули журнала
-
 # Error handling
 about-logging-error = Ошибка:
 
@@ -58,5 +57,4 @@ about-logging-unknown-profiler-preset = Неизвестная предуста�
 about-logging-unknown-option = Неизвестная настройка about:logging «{ $k }»
 about-logging-configuration-url-ignored = Сетевой адрес конфигурации проигнорирован
 about-logging-file-and-profiler-override = Невозможно одновременно принудительно вывести в файл и переопределить настройки профайлера.
-
 about-logging-configured-via-url = Опция настроена через сетевой адрес
