@@ -8,13 +8,14 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Materion Mewnol WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = cadw about:webrtc fel
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Dangos PeerConnections Caeedig
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Cuddio PeerConnections Caeedig
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,7 +23,6 @@ about-webrtc-aec-logging-msg-label = Cofnodi AEC
 about-webrtc-aec-logging-off-state-label = Cychwyn Cofnodi AEC
 about-webrtc-aec-logging-on-state-label = Atal Cofnodi AEC
 about-webrtc-aec-logging-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,14 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = Mae'r ffeiliau cofnod y cipio y
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Auto Adnewyddu
-
-
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Awto Adnewyddu Rhagosodedig
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Adnewyddu
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = Dynodiad PeerConnection:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Sianeli Data Agorwyd:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Sianeli Data Caewyd:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -83,12 +89,10 @@ about-webrtc-type-remote = Pell
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Enwebwyd
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Dewiswyd
-
 about-webrtc-save-page-label = Cadw Tudalen
 about-webrtc-debug-mode-msg-label = Modd Dadfygio
 about-webrtc-debug-mode-off-state-label = Cychwyn y Modd Dadfygio
@@ -101,12 +105,12 @@ about-webrtc-log-show-msg = dangos cofnod
     .title = cliciwch i ehangu'r adran
 about-webrtc-log-hide-msg = cuddio cofnod
     .title = cliciwch i gau'r adran
-
 about-webrtc-log-section-show-msg = Dangos cofnod
     .title = Cliciwch i ehangu'r adran
 about-webrtc-log-section-hide-msg = Cuddio cofnod
     .title = Cliciwch i gau'r adran
 about-webrtc-copy-report-button = Copïo Adroddiad
+about-webrtc-copy-report-history-button = Copïo Hanes Adroddiad
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -122,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (cau) { 
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Anfon / Derbyn: { $codecs }
+about-webrtc-short-send-direction = Anfon: { $codecs }
+about-webrtc-short-receive-direction = Derbyn: { $codecs }
 
 ##
 
@@ -180,36 +187,26 @@ about-webrtc-pc-configuration-hide-msg = Cuddio Ffurfwedd
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Wedi'i Ddarparu
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Heb ei Ddarparu
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Dewisiadau WebRTC Gosodedig y Defnyddiwr
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Amcangyfrif Lled Band
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Dynodwr tracio
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Lled Band Anfon (beit/eiliad)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Lled Band Derbyn (beit/eiliad)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Uchafswm Padio (beit/eiliad)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Oedi Pacer ms
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -225,7 +222,6 @@ about-webrtc-save-page-msg = cadwyd y dudalen i: { $path }
 about-webrtc-debug-mode-off-state-msg = mae modd canfod y cofnod olrhain yn: { $path }
 about-webrtc-debug-mode-on-state-msg = modd dadfygio'n weithredol, cofnod olrhain yn { $path }
 about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $path }
-
 about-webrtc-save-page-complete-msg = Cadwyd y dudalen i: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Mae modd canfod y cofnod olrhain yn: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modd dadfygio'n weithredol, cofnod olrhain yn { $path }
@@ -244,7 +240,6 @@ about-webrtc-frames =
         [many] { $frames } ffrâm
        *[other] { $frames } ffrâm
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -257,7 +252,6 @@ about-webrtc-channels =
         [many] { $channels } sianel
        *[other] { $channels } sianel
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -270,7 +264,6 @@ about-webrtc-received-label =
         [many] Wedi derbyn { $packets } pecyn
        *[other] Wedi derbyn { $packets } pecyn
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -283,7 +276,6 @@ about-webrtc-lost-label =
         [many] Wedi derbyn { $packets } pecyn
        *[other] Wedi derbyn { $packets } pecyn
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -296,13 +288,11 @@ about-webrtc-sent-label =
         [many] Wedi anfon { $packets } pecyn
        *[other] Wedi anfon { $packets } pecyn
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -315,12 +305,10 @@ about-webrtc-trickle-caption-msg = Mae ymgeisydd diferu (yn cyrraedd ar ôl yr a
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Gosod SDP lleol ar y stamp amser { NUMBER($timestamp, useGrouping: "false") }.
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Gosod SDP pell ar y stamp amser { NUMBER($timestamp, useGrouping: "false") }.
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -336,6 +324,9 @@ about-webrtc-hide-msg-sdp = Cuddio SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Dangos Cyd-destun Cyfryngau
+about-webrtc-media-context-hide-msg = Cuddio Cyd-destun Cyfryngau
+about-webrtc-media-context-heading = Cyd-destun Cyfryngau
 
 ##
 
