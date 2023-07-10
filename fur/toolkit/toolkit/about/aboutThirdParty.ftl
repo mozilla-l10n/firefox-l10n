@@ -61,6 +61,13 @@ third-party-button-to-block-module = Bloche chest modul
 third-party-button-to-unblock-module = Sbloche chest modul
     .title = In chest moment blocât. Fâs clic par sblocâlu.
     .aria-label = In chest moment blocât. Fâs clic par sblocâlu.
+third-party-button-to-unblock-module-disabled = Sbloche chest modul (in chest moment il bloc midiant liste al è disativât)
+    .title =
+        Cumò al è segnât come blocât, ancje se il bloc vie liste al è disativât per cheste esecuzion
+        di { -brand-short-name }. Fâs clic par sblocâlu.
+    .aria-label =
+        Cumò al è segnât come blocât, ancje se il bloc vie liste al è disativât par cheste esecuzion
+        di { -brand-short-name }. Fâs clic par sblocâlu.
 third-party-button-expand =
     .title = Mostre informazions detaiadis
 third-party-button-collapse =
