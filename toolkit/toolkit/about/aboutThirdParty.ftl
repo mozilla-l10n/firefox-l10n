@@ -85,8 +85,16 @@ third-party-button-to-unblock-module = Odblokovat tento modul
     .title = Aktuálně blokován. Klepnutím jej odblokujete.
     .aria-label = Aktuálně blokován. Klepnutím jej odblokujete.
 third-party-button-to-unblock-module-disabled = Odblokovat tento modul (seznam blokovaných je aktuálně zakázán)
-    .title = Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění { -brand-short-name(case: "gen") } seznam blokovaných zakázán. Pro odblokování klepněte.
-    .aria-label = Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění { -brand-short-name(case: "gen") } seznam blokovaných zakázán. Pro odblokování klepněte.
+    .title =
+        { -brand-short-name.case-status ->
+            [with-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění { -brand-short-name(case: "gen") } seznam blokovaných zakázán. Pro odblokování klepněte.
+           *[no-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění aplikace { -brand-short-name } seznam blokovaných zakázán. Pro odblokování klepněte.
+        }
+    .aria-label =
+        { -brand-short-name.case-status ->
+            [with-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění { -brand-short-name(case: "gen") } seznam blokovaných zakázán. Pro odblokování klepněte.
+           *[no-cases] Aktuálně označeno jako blokované, ačkoliv je pro toto spuštění aplikace { -brand-short-name } seznam blokovaných zakázán. Pro odblokování klepněte.
+        }
 third-party-button-expand =
     .title = Zobrazit podrobnosti
 third-party-button-collapse =
