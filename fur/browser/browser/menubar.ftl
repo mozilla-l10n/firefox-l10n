@@ -38,11 +38,9 @@ menu-quit =
             [windows] J
            *[other] J
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Jes di { -brand-shorter-name }
-
 menu-about =
     .label = Informazions su { -brand-shorter-name }
     .accesskey = I
@@ -233,6 +231,9 @@ menu-bookmark-tab =
     .label = Met tai segnelibris cheste schede…
 menu-edit-bookmark =
     .label = Modifiche chest segnelibri…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Cîr tai segnelibris
 menu-bookmarks-all-tabs =
     .label = Zonte dutis lis schedis tai segnelibris…
 menu-bookmarks-toolbar =

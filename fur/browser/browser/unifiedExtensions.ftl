@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Vierç il menù par { $extensionName }
-
 unified-extensions-item-message-manage = Gjestìs estension
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Fisse te sbare dai struments
-
 unified-extensions-context-menu-manage-extension =
     .label = Gjestìs estension
-
 unified-extensions-context-menu-remove-extension =
     .label = Gjave estension
-
 unified-extensions-context-menu-report-extension =
     .label = Segnale estension
-
 unified-extensions-context-menu-move-widget-up =
     .label = Sposte in sù
-
 unified-extensions-context-menu-move-widget-down =
     .label = Sposte in jù
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Cualchi estension no je consintude
 unified-extensions-mb-quarantined-domain-message = Dome cualchi estension monitorade di { -vendor-short-name } e je consintude su chest sît par protezi i tiei dâts.
+unified-extensions-mb-quarantined-domain-message-2 = Par protezi i tiei dâts, cualchi estension no pues lei o cambiâ i dâts su chest sît. Dopre lis impostazions de estension par permeti il so funzionament sui sîts cun restrizions identificâts di { -vendor-short-name }.
