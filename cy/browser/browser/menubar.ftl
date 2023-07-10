@@ -38,11 +38,9 @@ menu-quit =
             [windows] G
            *[other] G
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Gadael { -brand-shorter-name }
-
 menu-about =
     .label = Ynghylch { -brand-shorter-name }
     .accesskey = n
@@ -238,6 +236,9 @@ menu-bookmark-tab =
     .label = Gosod Nod Tudalen i'r Tab Cyfredol…
 menu-edit-bookmark =
     .label = Golygu'r Nod Tudalen…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Chwilio'r Nodau Tudalen
 menu-bookmarks-all-tabs =
     .label = Nod Tudalen i Bob Tab…
 menu-bookmarks-toolbar =
