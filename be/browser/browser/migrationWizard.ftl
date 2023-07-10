@@ -225,6 +225,7 @@ migration-wizard-progress-extensions-support-link = Даведайцеся, як
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Няма адпаведных пашырэнняў
+migration-wizard-progress-extensions-addons-link = Праглядзіце пашырэнні для { -brand-short-name }
 
 ##
 
