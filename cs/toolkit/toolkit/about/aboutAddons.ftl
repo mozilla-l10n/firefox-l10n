@@ -413,7 +413,11 @@ addon-detail-group-label-private-browsing =
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Spouštět na stránkách s omezeními
 # Used as help text part of the quarantined domains UI controls row.
-addon-detail-quarantined-domains-help = Pokud je to povoleno, bude mít rozšíření přístup k webům omezeným organizací { -vendor-short-name }. Povolte pouze v případě, že tomuto rozšíření důvěřujete.
+addon-detail-quarantined-domains-help =
+    { -vendor-short-name.case-status ->
+        [with-cases] Pokud je to povoleno, bude mít rozšíření přístup k webům omezeným { -vendor-short-name(case: "ins") }. Povolte pouze v případě, že tomuto rozšíření důvěřujete.
+       *[no-cases] Pokud je to povoleno, bude mít rozšíření přístup k webům omezeným organizací { -vendor-short-name }. Povolte pouze v případě, že tomuto rozšíření důvěřujete.
+    }
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Povolit
 addon-detail-quarantined-domains-disallow = Nepovolit
