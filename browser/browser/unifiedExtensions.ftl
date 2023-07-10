@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Agor dewislen ar gyfer { $extensionName }
-
 unified-extensions-item-message-manage = Rheoli estyniadau
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Pinio i'r Bar Offer
-
 unified-extensions-context-menu-manage-extension =
     .label = Rheoli Estyniad
-
 unified-extensions-context-menu-remove-extension =
     .label = Tynnu Estyniad
-
 unified-extensions-context-menu-report-extension =
     .label = Adrodd ar yr Estyniad
-
 unified-extensions-context-menu-move-widget-up =
     .label = Symud i Fyny
-
 unified-extensions-context-menu-move-widget-down =
     .label = Symud i Lawr
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Nid oes caniatâd i rai estyniadau
 unified-extensions-mb-quarantined-domain-message = Dim ond rhai estyniadau sy'n cael eu monitro gan { -vendor-short-name } sydd â chaniatâd ar y wefan hon er mwyn diogelu eich data.
+unified-extensions-mb-quarantined-domain-message-2 = Er mwyn diogelu eich data, ni all rhai estyniadau ddarllen na newid data ar y wefan hon. Defnyddiwch osodiadau'r estyniad i'w ganiatáu ar wefannau sydd wedi'u cyfyngu gan { -vendor-short-name }.

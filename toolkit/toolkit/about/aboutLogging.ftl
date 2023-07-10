@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Galluogi olion stac ar gyfer neges
 
 about-logging-preset-networking-label = Rhwydweithio
 about-logging-preset-networking-description = Cofnodi modiwlau er mwyn datrys materion rhwydweithio
+about-logging-preset-networking-cookie-label = Cwcis
+about-logging-preset-networking-cookie-description = Cofnodi modiwlau i wneud diagnosis o broblemau cwci
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Cofnodi modiwlau er mwyn datrys materion WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Cofnodi modiwlau er mwyn datrys materion HTTP/3 a QUIC
 about-logging-preset-media-playback-label = Chwarae cyfryngau
 about-logging-preset-media-playback-description = Cofnodi modiwlau i ddatrys materion chwarae cyfryngau (nid materion fideo-gynadledda)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Cofnodi modiwlau er mwyn datrys materion galwadau WebRTC
 about-logging-preset-custom-label = Cyfaddas
 about-logging-preset-custom-description = Modiwlau cofnodion wedi'u dewis â llaw
-
 # Error handling
 about-logging-error = Gwall:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Rhagosodiad proffiliwr anhysbys “{ $v 
 about-logging-unknown-option = Dewis about:logging anhysbys “{ $k }“
 about-logging-configuration-url-ignored = Anwybyddwyd URL ffurfweddiad
 about-logging-file-and-profiler-override = Methu â gorfodi allbwn ffeil a diystyru dewisiadau proffiliwr ar yr un pryd
-
 about-logging-configured-via-url = Dewis wedi'i ffurfweddu trwy URL
