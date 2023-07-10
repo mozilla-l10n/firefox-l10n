@@ -4,4 +4,4 @@
 
 webauthn-pin-invalid-short-prompt = غلط پِن۔ ولدا کوشش کرو۔
 webauthn-pin-required-prompt = براہ مہربانی اپݨی ڈیوائس کیتے پن درج کرو۔
-
+webauthn-uv-invalid-short-prompt = ورتݨ آلے دی پڑتال ناکام تھی ڳئی۔ ولدا کوشش کرو۔
