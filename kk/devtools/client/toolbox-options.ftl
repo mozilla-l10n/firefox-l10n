@@ -38,6 +38,11 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = Өлшем мәндерін түзету үшін басыңыз және сүйреңіз
 options-inspector-draggable-properties-tooltip =
     .title = Бақылаушы ережелері көрінісінде өлшем мәндерін өзгерту үшін, шертіп, тартыңыз.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = prefers-reduced-motion опциясымен қарапайымдау маркерлерді қолдану
+options-inspector-simplified-highlighters-tooltip =
+    .title = prefers-reduced-motion опциясы іске қосулы кезінде қарапайымдау маркерлерді іске қосады. Жыпылықтау әсерлерін болдырмау үшін түспен ерекшеленген элементтердің айналасында толтырылған тіктөртбұрыштардың орнына сызықтар салады.
 
 ## "Default Color Unit" options for the Inspector
 
