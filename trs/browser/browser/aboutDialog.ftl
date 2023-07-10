@@ -36,6 +36,7 @@ aboutdialog-update-manual-with-link = Gà' hua sa nakà doj riña <label data-l1
 settings-update-manual-with-link = Gà' hua sa nakà doj riña <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Si ga'ue nagi'iaj nakà rè' doj riña aga' na gà' rû' huaj<label data-l10n-name="unsupported-link">Gahuin chrun doj</label>
 update-restarting = Nayi'ì ñûn
+update-internal-error2 = Na’hue gā’nïn nānà’huij sa nāhuin nākàa dadin’ huā ‘ngō sa huā a’nan’. Si ruhuât nārì’t sa nāhuin nākàa nī guīj hiūj nan <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
