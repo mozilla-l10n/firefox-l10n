@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Ative analisi dal stack pai messa�
 
 about-logging-preset-networking-label = Rêt
 about-logging-preset-networking-description = Modui di regjistrazion par diagnosticâ i problemis di rêt
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Modui di regjistrazion par diagnosticâ i problemis cui cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Modui di regjistrazion par diagnosticâ i problemis cun WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Modui di regjistrazion par diagnosticâ i problemis cun HTTP/3 e QUIC
 about-logging-preset-media-playback-label = Riproduzion multimediâl
 about-logging-preset-media-playback-description = Modui di regjistrazion par diagnosticâ i problemis di riproduzion multimediâl (no relatîfs a video-conferencis)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Modui di regjistrazion par diagnosticâ lis clamadis WebRTC
 about-logging-preset-custom-label = Personalizadis
 about-logging-preset-custom-description = Modui di regjistrazion selezionâts a man
-
 # Error handling
 about-logging-error = Erôr:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Pre-configurazion dal profiladôr “{ $
 about-logging-unknown-option = Opzion di about:logging “{ $k }“ no cognossude
 about-logging-configuration-url-ignored = URL di configurazion ignorât
 about-logging-file-and-profiler-override = Impussibil sfuarçâ il file di jessude e tal stes timp passâ parsore aes opzions dal profiladôr
-
 about-logging-configured-via-url = Opzion configurade midiant URL

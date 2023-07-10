@@ -4,15 +4,12 @@
 
 third-party-page-title = Informazions sui modui di tiercis parts
 third-party-section-title = Liste di modui di tiercis parts in { -brand-short-name }
-
 third-party-intro =
     Cheste pagjine e mostre une liste di modui di tiercis parts inserîts in
     { -brand-short-name }. Cualsisei modul no firmât di Microsoft o
     { -vendor-short-name } al ven considerât un modul di tiercis parts.
-
 third-party-message-empty = Nol è stât rilevât nissun modul di tiercis parts.
 third-party-message-no-duration = No regjistrât
-
 third-party-detail-version = Version file
 third-party-detail-vendor = Info produtôr
 third-party-detail-occurrences = Câs
@@ -21,11 +18,9 @@ third-party-detail-duration = Medie timp di bloc (ms)
     .title = Trop a dilunc che chest modul al à blocât la aplicazion.
 third-party-detail-app = Aplicazion
 third-party-detail-publisher = Autôr
-
 third-party-th-process = Procès
 third-party-th-duration = Timp di cjariament (ms)
 third-party-th-status = Stât
-
 third-party-tag-ime = IME
     .title = Chest gjenar di modul al ven cjamât cuant che tu dopris un IME di tiercis parts.
 third-party-tag-shellex = Estension shell
@@ -40,11 +35,9 @@ third-party-icon-unsigned =
 third-party-icon-warning =
     .title = { -brand-short-name } al è colassât tal codiç di chest modul
     .alt = { -brand-short-name } al è colassât intal codiç di chest modul
-
 third-party-status-loaded = Cjariât
 third-party-status-blocked = Blocât
 third-party-status-redirected = Indreçât
-
 third-party-button-copy-to-clipboard = Copie i dâts grês intes notis
 third-party-loading-data =
     .alt = Cjariament informazions dal sisteme…
@@ -62,6 +55,12 @@ third-party-button-to-unblock =
 third-party-button-to-unblock-disabled =
     .title = Atualmentri segnât come blocât, ancje se la liste dai elements blocâts e je disativade par cheste esecuzion di { -brand-short-name }. Fâs clic par sblocâlu.
     .aria-label = In chest moment al è segnât come blocât, ancje se la liste dai elements blocâts e je disativade par cheste esecuzion di { -brand-short-name }. Fâs clic par sblocâlu.
+third-party-button-to-block-module = Bloche chest modul
+    .title = Bloche chest modul
+    .aria-label = Bloche chest modul
+third-party-button-to-unblock-module = Sbloche chest modul
+    .title = In chest moment blocât. Fâs clic par sblocâlu.
+    .aria-label = In chest moment blocât. Fâs clic par sblocâlu.
 third-party-button-expand =
     .title = Mostre informazions detaiadis
 third-party-button-collapse =
@@ -70,7 +69,6 @@ third-party-blocking-requires-restart = Par blocâ un modul di tiercis parts al 
 third-party-should-restart-title = Torne invie { -brand-short-name }
 third-party-restart-now = Torne invie cumò
 third-party-restart-later = Torne invie plui indenant
-
 third-party-blocked-by-builtin =
     .title = Blocât di { -brand-short-name }
     .alt = Blocât di { -brand-short-name }
