@@ -160,6 +160,7 @@ extensions-warning-check-compatibility-button = Zmóžnić
 extensions-warning-update-security = Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.
 extensions-warning-update-security-button = Zmóžnić
     .title = Přepruwowanje wěstoty aktualizacije zmóžnić
+extensions-warning-imported-addons = Prošu dokónčće instalaciju rozšěrjenjow, kotrež su so do { -brand-short-name } importowali.
 extensions-warning-imported-addons-button = Rozšěrjenja instalować
 
 ## Strings connected to add-on updates
@@ -367,6 +368,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Na sydłach z wobmjezowanjemi wuwjesć
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Jeli dowolene, ma rozšěrjenje přistup k sydłam, kotrež su wot { -vendor-short-name } wobmjezowane. Dowolće to jenož, jeli tutomu rozšěrjenju dowěrjeće.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Dowolić
 addon-detail-quarantined-domains-disallow = Njedowolić
