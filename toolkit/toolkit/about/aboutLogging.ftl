@@ -34,11 +34,11 @@ about-logging-with-profiler-stacks-checkbox = Aktiver stack-traces for logbesked
 
 about-logging-preset-networking-label = Netværk
 about-logging-preset-networking-description = Logmoduler til at diagnosticere netværksproblemer
+about-logging-preset-networking-cookie-label = Cookies
 about-logging-preset-media-playback-label = Medieafspilning
 about-logging-preset-media-playback-description = Logmoduler til at diagnosticere problemer med medieafspilning (ikke problemer med videokonferencer)
 about-logging-preset-custom-label = Tilpasset
 about-logging-preset-custom-description = Manuelt valgte logmoduler
-
 # Error handling
 about-logging-error = Fejl:
 
@@ -52,5 +52,4 @@ about-logging-unknown-profiler-preset = Ukendt forindstilling for profilering: "
 about-logging-unknown-option = Ukendt indstilling for about:logging: "{ $k }"
 about-logging-configuration-url-ignored = Konfigurations-URL blev ignoreret
 about-logging-file-and-profiler-override = Kan ikke gennemtvinge fil-output og tilsidesætte indstillinger for profilering samtidig
-
 about-logging-configured-via-url = Valg indstillet via URL
