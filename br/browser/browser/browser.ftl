@@ -5,13 +5,15 @@
 
 ## The main browser window's title
 
-# These are the default window titles everywhere except macOS. The first two
-# attributes are used when the web content opened has no title:
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
 #
 # default - "Mozilla Firefox"
 # private - "Mozilla Firefox (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
 # Variables:
 #  $content-title (String): the title of the web content.
 browser-main-window-window-titles =
@@ -19,15 +21,17 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Merdeiñ prevez
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Merdeiñ prevez
-
-# These are the default window titles on macOS. The first two are for use when
-# there is no content title:
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
 #
 # "default" - "Mozilla Firefox"
 # "private" - "Mozilla Firefox — (Private Browsing)"
 #
-# The last two are for use when there *is* a content title.
-# Do not use the brand name in the last two attributes, as we do on non-macOS.
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
 #
 # Also note the other subtle difference here: we use a `-` to separate the
 # brand name from `(Private Browsing)`, which does not happen on other OSes.
@@ -39,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Merdeiñ prevez
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Merdeiñ prevez
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Merdeiñ prevez
@@ -108,7 +110,6 @@ urlbar-search-tips-confirm-short = Komprenet em eus!
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tun:
-
 urlbar-result-menu-button =
     .title = Digeriñ al lañser
 urlbar-result-menu-button-feedback = Evezhiadennoù
@@ -130,10 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
 urlbar-search-tips-redirect-2 = Krogit ho klask er varrenn-chomlec'h evit gwelout alioù klask { $engineName } hag ho roll istor merdeiñ.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Aesoc'h e teu da vezañ ar c'hlask. Klaskit ober e seurt ma vefe resisoc'h an danvez a glaskit, amañ er varrenn enklask. Evit diskouez kentoc'h an URL e c'hallit mont el lodenn Enklask, e-barzh an arventennoù.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Dibabit ar verradenn-mañ evit kavout ar pezh a fell deoc'h buanoc’h.
@@ -171,12 +170,10 @@ urlbar-midi-blocked =
     .tooltiptext = Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.
 urlbar-install-blocked =
     .tooltiptext = Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Embann ar sined-mañ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -205,10 +202,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ar wech-mañ, klaskit gant:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Kemmañ an arventennoù klask
-
 search-one-offs-context-open-new-tab =
     .label = Klask en ivinell nevez
     .accesskey = n
@@ -218,14 +213,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Lakaat da lusker enklask dre ziouer evit ar prenestroù prevez
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -262,71 +255,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Gwelout an askouezhioù
 quickactions-cmd-addons2 = askouezhioù
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Merañ ar sinedoù
 quickactions-cmd-bookmarks = sinedoù
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Skarzhañ ar roll istor
 quickactions-cmd-clearhistory = skarzhañ ar roll istor
-
 # Opens about:downloads page
 quickactions-downloads2 = Gwelout ar pellgargadurioù
 quickactions-cmd-downloads = pellgargadurioù
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Merañ an askouezhioù
 quickactions-cmd-extensions = askouezhioù
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Digeriñ Developer Tools
 quickactions-cmd-inspector = inspector, devtools
-
 # Opens about:logins
 quickactions-logins2 = Merañ ar gerioù-tremen
 quickactions-cmd-logins = titouroù kennaskañ, gerioù-tremen
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Merañ an enlugelladoù
 quickactions-cmd-plugins = enlugelladoù
-
 # Opens the print dialog
 quickactions-print2 = Moullañ ar bajenn
 quickactions-cmd-print = moullañ
-
 # Opens a new private browsing window
 quickactions-private2 = Digeriñ ur prenestr prevez
 quickactions-cmd-private = Merdeiñ prevez
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Freskaat { -brand-short-name }
 quickactions-cmd-refresh = freskaat
-
 # Restarts the browser
 quickactions-restart = Adloc'hañ { -brand-short-name }
 quickactions-cmd-restart = adloc'hañ
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Kemer un dapadenn-skramm
 quickactions-cmd-screenshot = tapadenn-skramm
-
 # Opens about:preferences
 quickactions-settings2 = Merañ an arventennoù
 quickactions-cmd-settings = arventennoù, dibaboù gwellañ, dibarzhioù
-
 # Opens about:addons page in the themes section
 quickactions-themes = Merañ an neuzioù
 quickactions-cmd-themes = neuzioù
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Hizivaat { -brand-short-name }
 quickactions-cmd-update = hizivaat
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Gwelout tarzh ar bajennad
 quickactions-cmd-viewsource = gwelout tarzh, tarzh
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Gouzout hiroc'h diwar-benn an Oberoù prim
@@ -355,7 +331,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = Enrollañ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -383,7 +358,6 @@ identity-passive-loaded = Arvarus eo lodennoù eus ar bajennad (skeudennoù, da 
 identity-active-loaded = Diweredekaet ho peus ar gwarez war ar bajenn-mañ.
 identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
 identity-insecure-login-forms = Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.
-
 identity-https-only-connection-upgraded = (hizivaet da HTTPS)
 identity-https-only-label = Mod HTTPS hepken
 identity-https-only-dropdown-on =
@@ -395,11 +369,9 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Gweredekait ar mod HTTPS hepken evit al lec’hienn-mañ ma fell deoc’h vefe hizivaet ar c‘hennask gant { -brand-short-name } p’eo posupl.
 identity-https-only-info-turn-off2 = Ma seblant bezañ torret ar bajenn e c’hallit diweredekaat ar mod HTTPS hepken evit ma vefe adkarget al lec’hienn gant HTTP diziogel.
 identity-https-only-info-no-upgrade = N'haller ket gwellaat ar c'hennask HTTP.
-
 identity-permissions-storage-access-header = Toupinoù etrelec'hienn
 identity-permissions-storage-access-hint = An aozadurioù-mañ a c'hall implijout toupinoù etre al lec’hiennoù hag ar roadennoù lec’hienn p’emaoc’h war al lec’hienn-mañ.
 identity-permissions-storage-access-learn-more = Gouzout hiroc’h
-
 identity-permissions-reload-hint = Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.
 identity-clear-site-data =
     .label = Skarzhañ an toupinoù ha roadennoù lec'hienn…
@@ -464,7 +436,6 @@ browser-tab-mute =
         [many] Tennañ son { $count } a ivinelloù
        *[other] Tennañ son { $count } ivinell
     }
-
 browser-tab-unmute =
     { $count ->
         [1] Adlakaat son an ivinell
@@ -474,7 +445,6 @@ browser-tab-unmute =
         [many] Adlakaat son { $count } a ivinelloù
        *[other] Adlakaat son { $count } ivinell
     }
-
 browser-tab-unblock =
     { $count ->
         [1] Lenn an ivinell
@@ -490,7 +460,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Enporzhiañ ar sinedoù…
     .tooltiptext = Enporzhiañ ar sinedoù adalek ur merdeer all betek { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Evit kaout anezho buan e c’hallit lakaat ho sinedoù amañ e barrenn-ostilhoù ar sinedoù. <a data-l10n-name="manage-bookmarks">Merañ ar sinedoù…</a>
 
 ## WebRTC Pop-up notifications
@@ -531,7 +500,6 @@ enable-devtools-popup-description2 = Evit implijout ar verradenn F12 e rankit da
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Bizskrivit un termen da glask pe ur chomlec'h
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -540,7 +508,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Klask er web
     .aria-label = Klask gant { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -549,32 +516,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Enankit gerioù da glask
     .aria-label = Klask { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Enankit gerioù da glask
     .aria-label = Klask er sinedoù
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Enankit gerioù da glask
     .aria-label = Klask er roll istor
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Enankit gerioù da glask
     .aria-label = Klask en ivinelloù
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Skrivañ ar gerioù da glask
     .aria-label = Klask
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Klaskit gant: { $name } pe enankit ur chomlec'h
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -584,11 +545,9 @@ urlbar-permissions-granted =
     .tooltiptext = Roet ho peus aotreoù ouzhpenn d'al lec'hienn-mañ.
 urlbar-switch-to-tab =
     .value = Mont d'an ivinell:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Askouezh:
-
 urlbar-go-button =
     .tooltiptext = Mont d'ar chomlec'h er varrenn lec'hiañ
 urlbar-page-action-button =
@@ -656,14 +615,12 @@ urlbar-result-action-search-actions = Klask
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Kinnigoù { $engine }
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Oberoù prim
@@ -683,7 +640,6 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Digeriñ Skeudenn-ouzh-skeudenn ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Serriñ Skeudenn-ouzh-skeudenn ({ $shortcut })
 
@@ -694,19 +650,14 @@ picture-in-picture-urlbar-button-close =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a zo e skramm a-bezh
 fullscreen-warning-no-domain = War ar skramm a-bezh emañ an teul-mañ bremañ
-
-
 fullscreen-exit-button = Kuitaat ar mod skramm a-bezh (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Kuitaat ar mod skramm a-bezh (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> a c'hall reoliñ ho logodenn. Pouezit war Achap evit bezañ mestr outi en-dro.
 pointerlock-warning-no-domain = Meret eo ho logodenn gant an teul-mañ. Pouezit war Achap evit bezañ mestr outi en-dro.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -761,7 +712,6 @@ bookmarks-tools =
     .label = Ostilhoù ar sinedoù
 bookmarks-subview-edit-bookmark =
     .label = Embann ar sined…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -775,7 +725,6 @@ bookmarks-toolbar-placeholder =
     .title = Ergorennoù barrenn ostilhoù ar sinedoù
 bookmarks-toolbar-placeholder-button =
     .label = Ergorennoù barrenn ostilhoù ar sinedoù
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Lakaat an ivinell a-vremañ er sinedoù…
@@ -810,35 +759,28 @@ toolbar-settings-button =
             [macos] Digeriñ an arventennoù ({ $shortcut })
            *[other] Digeriñ an arventennoù
         }
-
 toolbar-overflow-customize-button =
     .label = Personelaat ar varrenn ostilhoù…
     .accesskey = P
-
 toolbar-button-email-link =
     .label = Kas an ere dre bostel
     .tooltiptext = Kas ere ar bajenn-mañ dre bostel
-
 toolbar-button-logins =
     .label = Gerioù-tremen
     .tooltiptext = Gwelout ha merañ ar gerioù-tremen enrollet
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Enrollañ ar bajenn
     .tooltiptext = Enrollañ ar bajenn-mañ ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Digeriñ ur restr
     .tooltiptext = Digeriñ ur restr ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Ivinelloù goubredet
     .tooltiptext = Diskouez ivinelloù an trevnadoù all
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -858,8 +800,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = A
 panel-save-update-username = Anv implijer
 panel-save-update-password = Ger-tremen
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -874,7 +814,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Aotren an diflugelloù evit { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Diflugelloù harzet evit { $uriHost }
     .accesskey = p
@@ -884,11 +823,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Na ziskouez ar gemennadenn-mañ pa vez harzet an diflugelloù
     .accesskey = D
-
 edit-popup-settings =
     .label = Merañ arventennoù ar prenestroù diflugell...
     .accesskey = M
-
 picture-in-picture-hide-toggle =
     .label = Kuzhat an afell skeudenn-ouzh-skeudenn
     .accesskey = K
@@ -899,7 +836,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Dilec'hiañ ar mod Skeudenn-ouzh-skeudenn war an tu dehou
     .accesskey = D
-
 picture-in-picture-move-toggle-left =
     .label = Dilec'hiañ ar mod Skeudenn-ouzh-skeudenn war an tu kleiz
     .accesskey = D
@@ -914,39 +850,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Merdeiñ
-
 navbar-downloads =
     .label = Pellgargadurioù
-
 navbar-overflow =
     .tooltiptext = Muioc'h a ostilhoù…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Moullañ
     .tooltiptext = Moullañ ar bajenn-mañ… ({ $shortcut })
-
 navbar-home =
     .label = D'ar gêr
     .tooltiptext = Pennbajenn { -brand-short-name }
-
 navbar-library =
     .label = Levraoueg
     .tooltiptext = Gwelout ar roll istor, ar sinedoù enrollet ha muioc'h c'hoazh
-
 navbar-search =
     .title = Klask
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Ivinelloù merdeer
-
 tabs-toolbar-new-tab =
     .label = Ivinell nevez
-
 tabs-toolbar-list-all-tabs =
     .label = Roll an holl ivinelloù
     .tooltiptext = Roll an holl ivinelloù
@@ -963,7 +890,6 @@ data-reporting-notification-message = { -brand-short-name } a dreuzkas roadenno�
 data-reporting-notification-button =
     .label = Dibab ar pezh a zo rannet ganin
     .accesskey = D
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Merdeiñ prevez
 
@@ -985,18 +911,16 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Harzet eo bet gant { -brand-short-name } adkargadur emgefreek ar bajennad-mañ.
 refresh-blocked-redirect-label = { -brand-short-name } en deus miret ouzh ar bajenn-mañ adheñchañ ent emgefreek etrezek ur bajenn all.
-
 refresh-blocked-allow =
     .label = Aotren
     .accesskey = A
 
 ## Firefox Relay integration
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -1022,10 +946,11 @@ popup-warning-message =
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-exceeded-message =
     { $popupCount ->
-        [two] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } brenestr diflugell.
-        [few] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } frenestr diflugell.
-        [many] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } a brenestroù diflugell.
-       *[other] { -brand-short-name } en deus miret al lec'hienn-mañ da zigeriñ muioc'h eget { $popupCount } prenestr diflugell.
+        [one] { -brand-short-name } en deus miret al lec’hienn-mañ da zigeriñ muioc’h eget { $popupCount } prenestr diflugell.
+        [two] { -brand-short-name } en deus miret al lec’hienn-mañ da zigeriñ muioc’h eget { $popupCount } brenestr diflugell.
+        [few] { -brand-short-name } en deus miret al lec’hienn-mañ da zigeriñ muioc’h eget { $popupCount } frenestr diflugell.
+        [many] { -brand-short-name } en deus miret al lec’hienn-mañ da zigeriñ muioc’h eget { $popupCount } a brenestroù diflugell.
+       *[other] { -brand-short-name } en deus miret al lec’hienn-mañ da zigeriñ muioc’h eget { $popupCount } prenestr diflugell.
     }
 popup-warning-button =
     .label =
@@ -1038,7 +963,6 @@ popup-warning-button =
             [windows] D
            *[other] G
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
