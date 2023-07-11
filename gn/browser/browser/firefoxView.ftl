@@ -132,6 +132,8 @@ firefoxview-sort-history-by-site-label = Tenda rupive
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Ko’ára - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Kuehe - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 

@@ -32,11 +32,15 @@ about-logging-with-profiler-stacks-checkbox = Emyandy píla resa’ỹijoha ñe�
 
 about-logging-preset-networking-label = Pyha
 about-logging-preset-networking-description = Mboheraguapy ra’ãha ehecha hag̃ua pyha apañuãi
+about-logging-preset-networking-cookie-label = Kookie
+about-logging-preset-networking-cookie-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuãi
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Hekoetáva mboheta
 about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
-
 # Error handling
 about-logging-error = Javy:
 
@@ -50,5 +54,4 @@ about-logging-unknown-profiler-preset = Mbohapeha ypygua ojekuaa’ỹva “{ $v
 about-logging-unknown-option = Poravopyrã about:logging ojekuaa’ỹva “{ $k }“
 about-logging-configuration-url-ignored = Ñembohekopyahu hejapyre URL
 about-logging-file-and-profiler-override = Nerenohẽkuaái mbaretépe marandurendágui ha emboyke mbohapeha poravopyrã oñondive
-
 about-logging-configured-via-url = Poravopyrã mbohekopyahupyre URL rupive
