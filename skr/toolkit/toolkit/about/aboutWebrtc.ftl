@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = ہتھیکڑا کرو about:webrtc بطو�
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = بند تھئے PeerConnections ݙکھاؤ
+about-webrtc-closed-peerconnection-disclosure-hide-msg = بند تھئے PeerConnections لکاؤ
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
