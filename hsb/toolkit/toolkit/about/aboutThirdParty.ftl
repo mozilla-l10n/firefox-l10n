@@ -65,6 +65,13 @@ third-party-button-to-block-module = Tutón modul blokować
 third-party-button-to-unblock-module = Tutón modul hižo njeblokować
     .title = Je tuchwilu zablokowany. Klikńće, zo byšće blokowanje zběhnył.
     .aria-label = Je tuchwilu zablokowany. Klikńće, zo byšće blokowanje zběhnył.
+third-party-button-to-unblock-module-disabled = Tutón modul hižo njebokować (lisćina blokowanjow tuchwilu znjemóžnjena)
+    .title =
+        Tuchwilu jako zablokowany markěrowany, hačrunjež lisćina blokowanja je za tute wuwjedźenje
+        { -brand-short-name } znjemóžnjena. Klikńće, zo byšće blokowanje skónčił.
+    .aria-label =
+        Tuchwilu jako zablokowany markěrowany, hačrunjež lisćina blokowanja je za tute wuwjedźenje
+        { -brand-short-name } znjemóžnjena. Klikńće, zo byšće blokowanje skónčił.
 third-party-button-expand =
     .title = Nadrobne informacije pokazać
 third-party-button-collapse =
