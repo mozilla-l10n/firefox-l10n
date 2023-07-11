@@ -38,11 +38,9 @@ menu-quit =
             [windows] k
            *[other] o
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name }Name; wopušćić
-
 menu-about =
     .label = Wo { -brand-shorter-name }
     .accesskey = W
@@ -236,6 +234,9 @@ menu-bookmark-tab =
     .label = Aktualny rajtark jako zapołožku składować …
 menu-edit-bookmark =
     .label = Tutu zapołožku wobdźěłać …
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Zapołožki přepytać
 menu-bookmarks-all-tabs =
     .label = Wšě rajtarki jako zapołožki…
 menu-bookmarks-toolbar =
