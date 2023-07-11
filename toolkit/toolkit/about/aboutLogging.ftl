@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Staplowe přesćěhanja za protoko
 
 about-logging-preset-networking-label = Syć
 about-logging-preset-networking-description = Module za diagnosticěrowanje syćowych problemow protokolować
+about-logging-preset-networking-cookie-label = Placki
+about-logging-preset-networking-cookie-description = Module za diagnosticěrowanje problemow z plackami protokolować
+about-logging-preset-networking-websocket-label = Websokety
+about-logging-preset-networking-websocket-description = Module za diagnosticěrowanje problemow z Websoketom protokolować
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Module za diagnosticěrowanje problemow z HTTP/3 a QUIC protokolować
 about-logging-preset-media-playback-label = Wothraće medijow
 about-logging-preset-media-playback-description = Module konfigurować, zo byšće problemy medijoweho wothraća diagnosticěrował (nic problemy z widejokonferencami)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Module za diagnosticěrowanje problemow z WebRTC protokolować
 about-logging-preset-custom-label = Swójski
 about-logging-preset-custom-description = Protokolowe module manuelnje wubrane
-
 # Error handling
 about-logging-error = Zmylk:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Njeznate profilerowe přednastajenje „
 about-logging-unknown-option = Njeznate nastajenje about:logging „{ $k }“
 about-logging-configuration-url-ignored = Konfiguraciski URL ignorowany
 about-logging-file-and-profiler-override = Wudawanje a přepisowanje nastajenjow wukonoweje analyzy njedatej so naraz wunuzować
-
 about-logging-configured-via-url = Přez URL skonfigurowane nastajenje
