@@ -7,6 +7,11 @@ urlbar-translations-button =
     .tooltiptext = แปลหน้านี้
 translations-panel-settings-button =
     .aria-label = จัดการการตั้งค่าการแปล
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } เบต้า
 
 ## Options in the Firefox Translations settings.
 
