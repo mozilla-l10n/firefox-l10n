@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Meni za { $extensionName } wočinić
-
 unified-extensions-item-message-manage = Rozšěrjenje rjadować
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = K symbolowej lajsće připjeć
-
 unified-extensions-context-menu-manage-extension =
     .label = Rozšěrjenje rjadować
-
 unified-extensions-context-menu-remove-extension =
     .label = Rozšěrjenje wotstronić
-
 unified-extensions-context-menu-report-extension =
     .label = Rozšěrjenje zdźělić
-
 unified-extensions-context-menu-move-widget-up =
     .label = Horje
-
 unified-extensions-context-menu-move-widget-down =
     .label = Dele
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Někotre rozšěrjenja dowolene njejsu
 unified-extensions-mb-quarantined-domain-message = Jenož někotre rozšěrjenja, kotrež so wot { -vendor-short-name } dohladuja, su na tutym sydle dowolene, zo bychu waše daty škitali.
+unified-extensions-mb-quarantined-domain-message-2 = Zo byšće swoje daty škitał, njemóža někotre rozšěrjenja daty na tutym sydle ani čitać ani změnić. Wužiwajće nastajenja rozšěrjenja, zo byšće přistup k sydłam dowolił, kotrež su wot { -vendor-short-name } wobmjezowane.
