@@ -33,6 +33,7 @@ about-logging-with-profiler-stacks-checkbox = Log mesajları için yığın izin
 about-logging-preset-networking-label = Ağ
 about-logging-preset-networking-description = Ağ sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-networking-cookie-label = Çerezler
+about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Medya oynatma
 about-logging-preset-media-playback-description = Medya oynatma sorunlarını teşhis etmeye yönelik log modülleri (video konferans sorunları hariç)
