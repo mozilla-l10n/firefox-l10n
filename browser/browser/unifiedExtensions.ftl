@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Avrir il menu per { $extensionName }
-
 unified-extensions-item-message-manage = Administrar l'extensiun
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Agiuntar a la trav d'utensils
-
 unified-extensions-context-menu-manage-extension =
     .label = Administrar l'extensiun
-
 unified-extensions-context-menu-remove-extension =
     .label = Allontanar l'extensiun
-
 unified-extensions-context-menu-report-extension =
     .label = Rapportar l'extensiun
-
 unified-extensions-context-menu-move-widget-up =
     .label = Spustar ensi
-
 unified-extensions-context-menu-move-widget-down =
     .label = Spustar engiu
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Tschertas extensiuns n'èn betg permessas
 unified-extensions-mb-quarantined-domain-message = Mo tschertas extensiuns survegliadas da { -vendor-short-name } èn permessas sin questa website per proteger tias datas.
+unified-extensions-mb-quarantined-domain-message-2 = Per proteger tias datas na pon tschertas extensiuns betg leger u midar datas sin questa website. Utilisescha ils parameters da l'extensiun per permetter l'access a websites che { -vendor-short-name } ha bloccà.
