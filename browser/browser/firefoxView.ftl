@@ -59,6 +59,7 @@ firefoxview-closed-tabs-title = Tampats recentament
 firefoxview-closed-tabs-description2 = Tornatz dobrir las paginas qu’avètz tampadas dins aquesta pagina.
 firefoxview-closed-tabs-placeholder-header = Cap d’onglets pas tampat recentament
 firefoxview-closed-tabs-placeholder-body = Quand tampatz un onglet d’aquesta fenèstra, lo podètz trapar aicí.
+firefoxview-closed-tabs-placeholder-body2 = Quand tampatz un onglet, lo podètz trapar aicí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -82,6 +83,8 @@ firefoxview-collapse-button-show =
 firefoxview-collapse-button-hide =
     .title = Rescondre la lista
 firefoxview-overview-nav = Navegacion recenta
+    .title = Navegacion recenta
+firefoxview-overview-header = Navegacion recenta
     .title = Navegacion recenta
 
 ## History in this context refers to browser history
@@ -116,6 +119,10 @@ firefoxview-view-all-link = Tot afichar
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = Fenèstra { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Fenèstra { $winID } (actuala)
 firefoxview-opentabs-focus-tab =
     .title = Anar a aqueste onglet
 firefoxview-show-more = Ne veire mai
@@ -126,6 +133,10 @@ firefoxview-sort-history-by-site-label = Triar per site
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Uèi – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Ièr – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
