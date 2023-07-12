@@ -34,7 +34,6 @@ menu-application-touch-bar =
 menu-quit =
     .label = Ukončit
     .accesskey = k
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label =
@@ -42,7 +41,6 @@ menu-quit-mac =
             [with-cases] Ukončit { -brand-shorter-name(case: "acc") }
            *[no-cases] Ukončit aplikaci { -brand-shorter-name }
         }
-
 menu-about =
     .label =
         { -brand-shorter-name.case-status ->
