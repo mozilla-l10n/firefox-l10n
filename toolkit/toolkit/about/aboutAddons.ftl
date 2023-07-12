@@ -161,6 +161,7 @@ extensions-warning-check-compatibility-button = Etkinleştir
 extensions-warning-update-security = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
 extensions-warning-update-security-button = Etkinleştir
     .title = Eklenti güncelleme güvenliği denetimini devreye sok
+extensions-warning-imported-addons = Lütfen { -brand-short-name } tarayıcınıza aktarılan uzantıların kurulumunu bitirin.
 
 ## Strings connected to add-on updates
 
