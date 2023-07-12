@@ -4,7 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Nej riña gayi'ì' sesiûn & nej da'nga' huìi
-
+about-logins-login-filter =
+    .placeholder = Nana'huì' nej riña gayi'ìt sesiûn
+    .key = F
+create-new-login-button =
+    .title = Giri 'ngo riña gayi'ì sesiûn nakàa
 fxaccounts-sign-in-text = Giri da'ngā huìi da' garasunt riña a'ngo aga'aj
 fxaccounts-sign-in-sync-button = Gāyi’ì sesión da’ nāgi’iaj gūñānt
 fxaccounts-avatar-button =
@@ -36,6 +40,14 @@ login-list-count =
     { $count ->
         [one] { $count } gayi'ì sesiûn
        *[other] { $count } nej ña gayi'ì sesiûn
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [one] { $count } si'hiaj { $total } gayi'ì man sesiûn
+       *[other] { $count } si'hiaj { $total } gayi'ì nej  man sesiûn
     }
 login-list-sort-label-text = Nagi'aj chre' da':
 login-list-name-option = Si yugui (A-Z)
@@ -112,19 +124,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Da’ nāgi’iát riña ga
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = Nāgi’iaj riña gayi’ìt sēsiûn na’nïn sà’t
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Da’ gīni’iājt riña si da'nga' huìt, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = Gīni’iāj da’nga’ huì nū sà’ ‘iát
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Da’ gūxūnt nī nāchrūnt a’ngô hiūj si da'nga' huìt, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Gūxūn nī nāchrūn a’ngô hiūj da’nga’ huì nū sà’ ‘iát
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Da’ gā’nïnt gan'ānj riña gayi’ìt sēsiûn, gāchrūn si krēdenciât nga gayi’ìt Windows. Rugûñun’ūnj nan da’ dūguminj nej si kuendât.
 # This message can be seen when attempting to export a password in about:logins
@@ -143,7 +152,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Duyichin'
 confirmation-dialog-dismiss-button =
     .title = Duyichin'
-
 about-logins-confirm-remove-dialog-title = ¿Nadurê't riña gayi'ìt sesión na anj?
 confirm-delete-dialog-message = Si ga'ue dure' sa 'ngà gahuin na.
 about-logins-confirm-remove-dialog-confirm-button = Guxūn
@@ -162,7 +170,6 @@ about-logins-confirm-remove-all-dialog-title =
 about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
 about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
 about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
-
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
 confirm-discard-changes-dialog-confirm-button = Dunâj man
@@ -192,7 +199,6 @@ about-logins-vulnerable-alert-learn-more-link = Gāhuin chrūn doj
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ngà hua 'ngo nuguan' hua dàdanj riña { $loginTitle } dàj rû' hua sa gachrûnt. <a data-l10n-name="duplicate-link">Gatut ni'iajt riña nuguan' dan anj</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Hua 'ngo sa gire' ngà gahuin ruhuât na'nïnj sà' da'nga' huì nan.
 
@@ -230,10 +236,8 @@ about-logins-import-file-picker-csv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = Gà' huaj
-
 about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
 about-logins-import-dialog-error-cancel = Dūyichin\'
-
 #
 # Variables:
 #  $number (number) - The number of the row
