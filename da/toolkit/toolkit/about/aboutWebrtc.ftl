@@ -8,13 +8,14 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC-dele
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = gem about:webrtc som
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Vis lukkede PeerConnections
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Skjul lukkede PeerConnections
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,7 +23,6 @@ about-webrtc-aec-logging-msg-label = AEC-logning
 about-webrtc-aec-logging-off-state-label = Start AEC-logning
 about-webrtc-aec-logging-on-state-label = Stop AEC-logning
 about-webrtc-aec-logging-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,18 +30,18 @@ about-webrtc-aec-logging-toggled-off-state-msg = Log-filer kan findes her: { $pa
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatisk genindlæsning
-
-
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Opdater automatisk som standard
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Opdater
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection-ID:
-
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Åbnede data-kanaler:
-
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = Lukkede data-kanaler:
 
@@ -89,12 +89,10 @@ about-webrtc-type-remote = Fjern
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nomineret
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Valgt
-
 about-webrtc-save-page-label = Gem side
 about-webrtc-debug-mode-msg-label = Debug-tilstand
 about-webrtc-debug-mode-off-state-label = Start debug-tilstand
@@ -107,7 +105,6 @@ about-webrtc-log-show-msg = vis log
     .title = klik for at udvide denne sektion
 about-webrtc-log-hide-msg = skjul log
     .title = klik for at sammenklappe denne sektion
-
 about-webrtc-log-section-show-msg = Vis log
     .title = Klik for at udvide denne sektion
 about-webrtc-log-section-hide-msg = Skjul log
@@ -129,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (lukket)
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Send/modtag: { $codecs }
+about-webrtc-short-send-direction = Send: { $codecs }
+about-webrtc-short-receive-direction = Modtag: { $codecs }
 
 ##
 
@@ -187,36 +187,26 @@ about-webrtc-pc-configuration-hide-msg = Skjul indstillinger
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Angivet
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ikke angivet
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = WebRTC-indstillinger sat af brugeren
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Anslået båndbredde
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Spor-identifikator
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Båndbredde for afsendelse (bytes/sek)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Båndbredde for modtagelse (bytes/sek)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maksimal padding (bytes/sek)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Pacer-forsinkelse ms
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -232,7 +222,6 @@ about-webrtc-save-page-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-off-state-msg = trace-log kan findes her: { $path }
 about-webrtc-debug-mode-on-state-msg = debug-tilstand er aktiveret, trace-log findes her: { $path }
 about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
-
 about-webrtc-save-page-complete-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trace-log kan findes her: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debug-tilstand er aktiveret, trace-log findes her: { $path }
@@ -247,7 +236,6 @@ about-webrtc-frames =
         [one] { $frames } frame
        *[other] { $frames } frames
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -256,7 +244,6 @@ about-webrtc-channels =
         [one] { $channels } kanal
        *[other] { $channels } kanaler
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -265,7 +252,6 @@ about-webrtc-received-label =
         [one] Modtog { $packets } pakke
        *[other] Modtog { $packets } pakker
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -274,7 +260,6 @@ about-webrtc-lost-label =
         [one] Mistede { $packets } pakke
        *[other] Mistede { $packets } pakker
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -283,13 +268,11 @@ about-webrtc-sent-label =
         [one] Sendte { $packets } pakke
        *[other] Sendte { $packets } pakker
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -302,12 +285,10 @@ about-webrtc-trickle-caption-msg = Trickled kandidater (ankommet efter answer) e
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Sæt Lokal SDP ved tidsstempel { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Sæt Fjern-SDP ved tidsstempel { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
