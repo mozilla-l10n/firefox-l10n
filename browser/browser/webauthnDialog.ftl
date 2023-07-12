@@ -13,4 +13,13 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Wopacny PIN. Wopytajśo hyšći raz.
 webauthn-pin-required-prompt = Pšosym zapódajśo PIN za swój rěd.
-
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Wužywaŕske pśeglědanje njejo se raźiło. Maśo hyšći { $retriesLeft } wopyt. Wopytajśo hyšći raz.
+        [two] Wužywaŕske pśeglědanje njejo se raźiło. Maśo hyšći { $retriesLeft } wopyta. Wopytajśo hyšći raz.
+        [few] Wužywaŕske pśeglědanje njejo se raźiło. Maśo hyšći { $retriesLeft } wopyty. Wopytajśo hyšći raz.
+       *[other] Wužywaŕske pśeglědanje njejo se raźiło. Maśo hyšći { $retriesLeft } wopytow. Wopytajśo hyšći raz.
+    }
+webauthn-uv-invalid-short-prompt = Wužywaŕske pśeglědanje njejo se raźiło. Wopytajśo hyšći raz.

@@ -20,29 +20,25 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Meni za { $extensionName } wócyniś
-
 unified-extensions-item-message-manage = Rozšyrjenje zastojaś
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = K symbolowej rědce pśipěś
-
 unified-extensions-context-menu-manage-extension =
     .label = Rozšyrjenje zastojaś
-
 unified-extensions-context-menu-remove-extension =
     .label = Rozšyrjenje wótwónoźeś
-
 unified-extensions-context-menu-report-extension =
     .label = Rozšyrjenje k wěsći daś
-
 unified-extensions-context-menu-move-widget-up =
     .label = Górjej
-
 unified-extensions-context-menu-move-widget-down =
     .label = Dołoj
 
 ## Notifications
 
 unified-extensions-mb-quarantined-domain-title = Někotare rozšyrjenja njejsu dowólone
+unified-extensions-mb-quarantined-domain-message = Jano někotare rozšyrjenja, kótarež se wót { -vendor-short-name } doglěduju, su na toś tom sedle dowólone, aby waše daty šćitali.
+unified-extensions-mb-quarantined-domain-message-2 = Aby swóje daty šćitał, njamógu někotare rozšyrjenja daty na toś tom sedle daniž cytaś daniž změniś. Wužywajśo nastajenja rozšyrjenja, aby pśistup k sedłam dowólił, kótarež su wót { -vendor-short-name } wobgranicowane.
