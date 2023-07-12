@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Activar analisas dal stack per mes
 
 about-logging-preset-networking-label = Rait
 about-logging-preset-networking-description = Moduls da protocollaziun per diagnostitgar problems da la rait
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Moduls da protocollaziun per diagnostitgar problems da cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Moduls da protocollaziun per diagnostitgar problems da WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Moduls da protocollaziun per diagnostitgar problems da HTTP/3 e QUIC
 about-logging-preset-media-playback-label = Reproducziun multimedia
 about-logging-preset-media-playback-description = Moduls da protocollaziun per diagnostitgar problems da reproducziun da multimedia (senza problems da videoconferenza)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Moduls da protocollaziun per diagnostitgar problems cun cloms WebRTC
 about-logging-preset-custom-label = Persunalisà
 about-logging-preset-custom-description = Moduls da protocollaziun tschernids manualmain
-
 # Error handling
 about-logging-error = Errur:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Preselecziun da profiler «{ $v }» nune
 about-logging-unknown-option = Opziun about:logging «{ $k }» nunenconuschenta
 about-logging-configuration-url-ignored = Ignorà l'URL da configuraziun
 about-logging-file-and-profiler-override = Impussibel da sfurzar da scriver ina datoteca e remplazzar il medem mument las opziuns dal profiler
-
 about-logging-configured-via-url = Opziun configurada via URL
