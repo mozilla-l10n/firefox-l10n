@@ -38,11 +38,9 @@ menu-quit =
             [windows] Q
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sortir de { -brand-shorter-name }
-
 menu-about =
     .label = A prepaus de { -brand-shorter-name }
     .accesskey = A
@@ -234,6 +232,9 @@ menu-bookmark-tab =
     .label = Marcar l’onglet actual…
 menu-edit-bookmark =
     .label = Modificar aqueste marcapagina…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Cercar dins los marcapaginas
 menu-bookmarks-all-tabs =
     .label = Marcar totes los onglets…
 menu-bookmarks-toolbar =
