@@ -156,6 +156,7 @@ extensions-warning-check-compatibility-button = Іске қосу
 extensions-warning-update-security = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
 extensions-warning-update-security-button = Іске қосу
     .title = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
+extensions-warning-imported-addons = { -brand-short-name } ішіне импортталған кеңейтулер орнатуын аяқтаңыз.
 extensions-warning-imported-addons-button = Кеңейтулерді орнату
 
 ## Strings connected to add-on updates
@@ -365,6 +366,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Шектеулері бар сайттарда іске қосу
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Рұқсат етілсе, кеңейту { -vendor-short-name } арқылы шектелген сайттарға кіре алады. Бұл кеңейтуге сенсеңіз ғана рұқсат етіңіз.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Рұқсат ету
 addon-detail-quarantined-domains-disallow = Рұқсат етпеу
