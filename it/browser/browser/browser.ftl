@@ -339,6 +339,7 @@ identity-insecure-login-forms = Gli accessi effettuati in questa pagina potrebbe
 
 identity-https-only-connection-upgraded = (aggiornato a HTTPS)
 identity-https-only-label = Modalità solo HTTPS
+identity-https-only-label2 = Aggiorna automaticamente questo sito a una connessione sicura
 identity-https-only-dropdown-on =
     .label = Attiva
 identity-https-only-dropdown-off =
@@ -347,6 +348,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Disattivata temporaneamente
 identity-https-only-info-turn-on2 = Attivare la modalità solo HTTPS per fare in modo che { -brand-short-name } aggiorni la connessione quando possibile.
 identity-https-only-info-turn-off2 = Se la pagina non funziona correttamente, provare a disattivare per questo sito la modalità solo HTTPS per ricaricare utilizzando una connessione non sicura HTTP.
+identity-https-only-info-turn-on3 = Attiva l’aggiornamento a HTTPS per questo sito per fare in modo che { -brand-short-name } aggiorni la connessione quando possibile.
+identity-https-only-info-turn-off3 = Se la pagina non funziona correttamente, prova a disattivare l’aggiornamento a HTTPS per questo sito. Il sito verrà ricaricato usando una connessione HTTP non sicura.
 identity-https-only-info-no-upgrade = Impossibile aggiornare la connessione da HTTP.
 
 identity-permissions-storage-access-header = Cookie intersito
