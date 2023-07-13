@@ -338,7 +338,7 @@ menu-help-exit-troubleshoot-mode =
     .label = Ukončit režim řešení potíží
     .accesskey = m
 menu-help-switch-device =
-    .label = Přenos na nové zařízení
+    .label = Přechod na nové zařízení
     .accesskey = n
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
