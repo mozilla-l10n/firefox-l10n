@@ -32,12 +32,18 @@ about-webrtc-aec-logging-toggled-off-state-msg = Файлы журнала за�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Аўтаабнаўленне
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Тыповае аўтаабнаўленне
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Абнавіць
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Адкрытыя каналы дадзеных:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Закрытыя каналы дадзеных:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -120,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (зак�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Адпраўка / атрыманне: { $codecs }
+about-webrtc-short-send-direction = Адпраўка: { $codecs }
+about-webrtc-short-receive-direction = Атрыманне: { $codecs }
 
 ##
 
