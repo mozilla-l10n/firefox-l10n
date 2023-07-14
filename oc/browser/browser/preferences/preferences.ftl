@@ -738,6 +738,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = E
     .buttonlabelextra2 = Desconnectar…
     .buttonaccesskeyextra2 = D
+sync-choose-dialog-subtitle = Las modificacions portadas a la lista d’elements de sincronizar s’aplicaràn a totes los aparelhs connectats.
 sync-engine-bookmarks =
     .label = Marcapaginas
     .accesskey = M

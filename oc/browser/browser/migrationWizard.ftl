@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Senhals corrèctament importats
 migration-passwords-from-file = Verificacion del fichièr de senhals
 migration-passwords-new = Senhals novèls
 migration-passwords-updated = Senhals existents
+migration-passwords-from-file-no-valid-data = Aqueste fichièr conten pas cap de donadas de senhals. Causissètz-ne un autre.
 migration-passwords-from-file-picker-title = Importar un fichièr de senhals
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -108,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Importar un fichièr de marcapagina
 migration-bookmarks-from-file-progress-header = Importacion dels marcapaginas
 migration-bookmarks-from-file = Marcapaginas
 migration-bookmarks-from-file-success-header = Marcapaginas importats amb succès
+migration-bookmarks-from-file-no-valid-data = Aqueste fichièr conten pas cap de donadas de marcapaginas. Causissètz-ne un autre.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -213,6 +215,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } de { $quantity } extensions
+migration-wizard-progress-extensions-support-link = Vejatz coma { -brand-product-name } identifica las extensions
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Cap d’extension correspondenta
