@@ -25,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = سائن ان
     .accesskey = S
+identity-credential-policy-title = { $provider } کوں لاگ ان مہیاکار دے طور تے ورتو
