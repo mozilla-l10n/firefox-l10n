@@ -22,12 +22,10 @@ about-private-browsing-not-private = N'emaoc’h ket e-barzh ur prenestr merdei�
 about-private-browsing-info-description-private-window = Prenestr prevez: { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa serrit ho holl brenestroù prevez. Ne lak ket ac’hanoc’h da vezañ dizanv.
 about-private-browsing-info-description-simplified = { -brand-short-name } a skarzh ho roll istor klask ha merdeiñ pa serrit ho holl brenestroù prevez met ne lak ket ac’hanoc’h da vezañ dizanv.
 about-private-browsing-learn-more-link = Gouzout hiroc’h
-
 about-private-browsing-hide-activity = Kuzhit hoc’h oberiantiz ha lec’hiadur, e kement lec’h ma verdeit.
 about-private-browsing-get-privacy = Gwarezit ho puhez prevez e pep lec’h ma verdeit
 about-private-browsing-hide-activity-1 = Kuzhat hoc’h oberiantiz merdeiñ ha lec’hiadur gant { -mozilla-vpn-brand-name }. Ur c'hlik a grou ur c’hennask suraet, war ar rouedadoù Wi-Fi foran ivez soken.
 about-private-browsing-prominent-cta = Chomit prevez gant { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Pellgargañ { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: merdeiñ prevez hezoug
 about-private-browsing-focus-promo-text = Hon arload hezoug arbennik war ar merdeiñ prevez a skarzh ho roll istor hag ho toupinoù bewech.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Kemerit ho puhez prevez gant ho pe
 about-private-browsing-focus-promo-text-b = Grit gant { -focus-brand-name } evit ar c’hlaskoù prevez na fell ket deoc’h vefe gwelet gant ho merdeer hezoug pennañ.
 about-private-browsing-focus-promo-header-c = Prevezded uhel war hezoug
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } a skarzh ho roll istor bewech ha stankañ a ra ar bruderezh hag an heulierien.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,11 +48,23 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Serriñ
-
 about-private-browsing-promo-close-button =
     .title = Serriñ
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-header = Frankiz ar merdeiñ prevez en ur c'hlik
+about-private-browsing-pin-promo-link-text =
+    { PLATFORM() ->
+        [macos] Mirout en Dock
+       *[other] Spilhennañ er varren-ostilhoù
+    }
+about-private-browsing-pin-promo-title = Toupin ha roll istor ebet enrollet. Merdeit hep bezañ gwelet.
+
 ## Strings used in a promotion message for cookie banner reduction
 
+# Simplified version of the headline if the original text doesn't work
+# in your language: `See fewer cookie requests`.
+about-private-browsing-cookie-banners-promo-header = Echu gant ar bannieloù toupin!
+about-private-browsing-cookie-banners-promo-button = Bihanaat ar bannieloù toupin
+about-private-browsing-cookie-banners-promo-message = Leuskel { -brand-short-name } da respont ent emgefreek d'ar bannieloù toupin evit merdeiñ en un doare disoursi. Argas a raio { -brand-short-name } an holl c'houlennoù m'eo posupl.

@@ -43,7 +43,9 @@ pocket-panel-signup-tagline = Enrollit pennadoù ha videoioù adalek { -brand-pr
 pocket-panel-signup-tagline-story-one = Klikit war an afell { -pocket-brand-name } evit enrollañ ur pennad, video pe pajenn adalek { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Sellit anezhañ e { -pocket-brand-name } war forzh peseurt trevnad, p’ho peus c’hoant.
 pocket-panel-signup-cta-a-fix = Hoc'h afell Enrollañ evit an internet
+pocket-panel-signup-cta-b-updated = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù. Gwelit ho roll war forzh peseurt trevnad, forzh pegoulz.
 pocket-panel-signup-cta-b-short = Klikit war an afell { -pocket-brand-name } evit enrollañ pennadoù, videoioù hag ereoù.
+pocket-panel-signup-cta-c-updated = Gwelout ho roll war forzh peseurt trevnad, forzh pegoulz.
 
 ## about:pocket-home panel
 
@@ -59,6 +61,7 @@ pocket-panel-home-new-user-message = Gwelit hoc’h enrolladennoù nevez amañ.
 
 ## Pocket panel header component
 
+pocket-panel-header-my-saves = Gwelout ma roll
 pocket-panel-header-sign-in = Kennaskañ
 
 ## Pocket panel buttons

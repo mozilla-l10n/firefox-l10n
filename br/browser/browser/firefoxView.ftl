@@ -53,6 +53,10 @@ firefoxview-closed-tabs-title = Ivinelloù serret nevez zo
 firefoxview-closed-tabs-description2 = Digeriñ en-dro ar pajennoù bet serret nevez zo er prenestr-mañ.
 firefoxview-closed-tabs-placeholder-header = N’eus ivinell nevez serret ebet
 # Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = Skarzhañ { $tabTitle }
+# Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Digeriñ { $targetURI } en un ivinell nevez
@@ -81,22 +85,40 @@ firefoxview-opentabs-header = Ivinelloù digor
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Ivinelloù serret nevez zo
+    .title = Ivinelloù serret nevez zo
+firefoxview-recently-closed-header = Ivinelloù serret nevez zo
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Ivinelloù an trevnadoù all
+    .title = Ivinelloù an trevnadoù all
+firefoxview-synced-tabs-header = Ivinelloù an trevnadoù all
 
 ##
 
+# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+firefoxview-view-all-link = Gwelout pep tra
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
     .title = Prenestr { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Prenestr { $winID } (Bremanel)
+firefoxview-opentabs-focus-tab =
+    .title = Mont d'an ivinell-mañ
 firefoxview-show-more = Diskouez muioc’h
 firefoxview-show-less = Diskouez nebeutoc’h
+firefoxview-sort-history-by-date-label = Rummañ dre zeiziad
+firefoxview-sort-history-by-site-label = Rummañ dre lec'hienn
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Hiziv - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Dec'h - { DATETIME($date, dateStyle: "full") }
 
 ##
 
