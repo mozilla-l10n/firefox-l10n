@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Activa os rastrexos da pila para a
 
 about-logging-preset-networking-label = Rede
 about-logging-preset-networking-description = Módulos de rexistro para diagnosticar problemas de rede
+about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Módulos de rexistro para diagnosticar problemas de cookies
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Módulos de rexistro para diagnosticar problemas de WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Módulos de rexistro para diagnosticar problemas de HTTP/3 e QUIC
 about-logging-preset-media-playback-label = Reprodución multimedia
 about-logging-preset-media-playback-description = Módulos de rexistro para diagnosticar problemas de reprodución multimedia (non problemas de videoconferencia)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Módulos de rexistro para diagnosticar chamadas WebRTC
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de rexistro seleccionados manualmente
-
 # Error handling
 about-logging-error = Erro:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Predefinición de perfilador descoñecid
 about-logging-unknown-option = Opción de about:logging descoñecida «{ $k }»
 about-logging-configuration-url-ignored = Ignorouse o URL de configuración
 about-logging-file-and-profiler-override = Non se pode forzar a saída do ficheiro e substituír as opcións do perfilador ao mesmo tempo
-
 about-logging-configured-via-url = Opción configurada por URL
