@@ -20,6 +20,11 @@ xpinstall-prompt-dont-allow =
 xpinstall-prompt-never-allow =
     .label = Na aotren
     .accesskey = N
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = Danevellañ ul lec’hienn touellus
+    .accesskey = D
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -29,6 +34,8 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Al lec’hienn-mañ a c’houlenn haeziñ ho trevnadoù MIDI (Musical Instrument Digital Interface). Gallout a rit gweredekaat an haeziñ d'an trevnadoù en ur staliañ un enlugellad.
+site-permission-install-first-prompt-midi-message = N'eo ket diogel mont betek al lec’hienn-mañ. Kendalc’hit m’ho peus fiziañs enni.
 
 ##
 
@@ -42,6 +49,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = Stanket eo { $addonName } ({ $addonId }) gant hoc'h ardoer reizhiad.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = Ardoer ho reizhiad en deus miret al lec’hienn da c’houlenn diganeoc’h staliañ ur meziant war hoc’h urzhiataer.
 addon-install-full-screen-blocked = N’eo ket aotreet staliañ askouezhioù p’emaoc'h er mod skramm a-bezh pe a-raok mont e-barzh.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -49,6 +58,10 @@ webext-perms-sideload-menu-item = { $addonName } ouzhpennet da { -brand-short-na
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = Aotreoù nevez a zo goulennet gant { $addonName }
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Peurechuiñ staliadur an askouezhioù enporzhiet e { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -117,6 +130,7 @@ addon-install-error-incorrect-hash = An askouezh-mañ n'hall ket bezañ staliet 
 addon-install-error-corrupt-file = An askouezh pellgarget n'hall ket bezañ staliet rak kontronet eo war ar seblant.
 addon-install-error-file-access = { $addonName } n'hall ket bezañ staliet rak { -brand-short-name } n'hall ket kemmañ ar restr azgoulennet.
 addon-install-error-not-signed = Harzhet eo bet gant { -brand-short-name } staliadur un askouezh nann-gwiriet gant al lec'hienn-mañ.
+addon-install-error-invalid-domain = An askouezh { $addonName } n’hall ket bezañ staliet adalek al lec’h-mañ.
 addon-local-install-error-network-failure = An askouezh-mañ n'hall ket bezañ staliet en abeg d'ur fazi gant ar reizhiad restroù.
 addon-local-install-error-incorrect-hash = An askouezh-mañ n'hall ket bezañ staliet rak ne genglot ket gant an askouezh { -brand-short-name } gortozet.
 addon-local-install-error-corrupt-file = An askouezh-mañ n'hall ket bezañ staliet rak kontronet eo war ar seblant.
