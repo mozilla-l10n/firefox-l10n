@@ -14,7 +14,6 @@ xpinstall-prompt-message = Ensajatz d’installar un modul complementari de { $h
 
 xpinstall-prompt-header-unknown = Autorizar un site desconegut a installar un modul complementari ?
 xpinstall-prompt-message-unknown = Ensajatz d’installar un modul complementari d’un site desconegut. Asseguratz-vos qu’es un site de fisança abans de contunhar.
-
 xpinstall-prompt-dont-allow =
     .label = Autorizar pas
     .accesskey = p
@@ -35,6 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = Aqueste site demanda l’accès a vòstre periferics MIDI (Musical Instrument Digital Interface). Se pòt donar l’accès en installant un modul complementari.
 site-permission-install-first-prompt-midi-message = La seguretat d’aqueste accès es pas garantida. Continuatz sonque se vos fisatz d’aqueste site.
 
 ##
@@ -44,7 +44,6 @@ xpinstall-disabled = L'installacion de programas es desactivada. Clicatz sus Act
 xpinstall-disabled-button =
     .label = Activar
     .accesskey = A
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,13 +52,16 @@ addon-install-blocked-by-policy = L’administrador del sistèma a blocat { $add
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L’administrator sistèma a empachat aqueste site de vos demandar d'installar un logicial sul vòstre ordenador.
 addon-install-full-screen-blocked = L’installacion de modul complementaris es pas possibla pendent o abans lo passatge en mòde ecran complèt.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } es estat apondut a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } demanda de permissions novèlas
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Finalizar l’installacion de las extensions importadas dins { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -71,7 +73,6 @@ addon-removal-title = Suprimir { $name } ?
 addon-removal-message = Suprimir { $name } de { -brand-shorter-name } ?
 addon-removal-button = Suprimir
 addon-removal-abuse-report-checkbox = Senhalar aquesta extension a { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -80,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] Telecargament e verificacion de { $addonCount } moduls…
     }
 addon-download-verifying = Verificacion en cors
-
 addon-install-cancel-button =
     .label = Anullar
     .accesskey = A
