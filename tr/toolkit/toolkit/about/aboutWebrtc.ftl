@@ -126,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (kapatı
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Gönderme/alma: { $codecs }
+about-webrtc-short-send-direction = Gönderme: { $codecs }
+about-webrtc-short-receive-direction = Alma: { $codecs }
 
 ##
 
