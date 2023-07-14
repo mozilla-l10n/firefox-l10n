@@ -3,15 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## Colorway collections
-
 ## Colorway names and descriptions
 
+playmaker-colorway-name = Playmaker
 expressionist-colorway-name = Ekspresionour
-
 visionary-colorway-name = Dreistweler
-
 activist-colorway-name = Stourmer
-
 dreamer-colorway-name = Huñvreour
-

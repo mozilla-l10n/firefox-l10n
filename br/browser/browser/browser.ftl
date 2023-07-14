@@ -932,6 +932,11 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Hon aliazoù diogel hag aes da implij a warez hoc’h identelezh hag a stank ar posteloù lastez en ur guzhat ho chomlec’h postel.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = An holl bosteloù kaset d’hoc’h aliazoù postel a vo treuzkaset betek <strong> { $useremail }</strong> (estreget ma fell deoc’h o stankañ).
+firefox-relay-offer-legal-notice = En ur glikañ war “Implij an aliaz postel” e asantit d’an <label data-l10n-name="tos-url">divizoù arver</label>hag ar <label data-l10n-name="privacy-url">reolenn a-fed buhez prevez</label>.
 
 ## Add-on Pop-up Notifications
 
