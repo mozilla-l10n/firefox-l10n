@@ -642,6 +642,11 @@ picture-in-picture-urlbar-button-open =
     .tooltiptext = Digeriñ Skeudenn-ouzh-skeudenn ({ $shortcut })
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Serriñ Skeudenn-ouzh-skeudenn ({ $shortcut })
+picture-in-picture-panel-header = Skeudenn-ouzh-skeudenn
+picture-in-picture-panel-headline = N’eo ket erbedet ar mod Skeudenn-ouzh-skeudenn gant al lec’hienn-mañ.
+picture-in-picture-panel-body = Gallout a ra ar videoioù chom hep bezañ skrammet evel ma fell d’an diorroer⋅ez ma vez lakaet ar mod Skeudenn-ouzh-Skeudenn.
+picture-in-picture-enable-toggle =
+    .label = Gweredekaat memestra
 
 ## Full Screen and Pointer Lock UI
 
@@ -911,6 +916,11 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Askouezhioù
+    .tooltiptext =
+        Askouezhioù
+        Ul lodenn eus an askouezhioù n'int ket aotreet
 
 ## Autorefresh blocker
 

@@ -182,6 +182,7 @@ profiler-popup-presets-media-label =
 profiler-popup-presets-networking-description = Rakarventennoù evit enklask ar beugoù rouedad e { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rouedad
+profiler-popup-presets-power-description = Arventenn evit dielfennañ ar beugoù liammet gant an implij tredan e { -brand-shorter-name }, gant nebeut a zreistkarg.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energiezh
@@ -201,6 +202,9 @@ appmenu-recently-closed-tabs =
     .label = Ivinelloù serret nevez zo
 appmenu-recently-closed-windows =
     .label = Prenestroù serret nevez zo
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Klask er roll istor
 
 ## Help panel
 
@@ -220,6 +224,8 @@ appmenu-help-report-site-issue =
 appmenu-help-share-ideas =
     .label = Kinnig mennozhioù hag alioù
     .accesskey = K
+appmenu-help-switch-device =
+    .label = Tremen war un trevnad nevez
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
