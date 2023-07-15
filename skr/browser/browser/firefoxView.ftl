@@ -59,6 +59,7 @@ firefoxview-closed-tabs-title = حالیہ بند تھیاں
 firefoxview-closed-tabs-description2 = او ورقے دوبارہ کھولو جیڑھے تساں ایں ونڈو وچ بند کر ݙتے ہن۔
 firefoxview-closed-tabs-placeholder-header = حالیہ بند ٹیبز کوئی کائنی
 firefoxview-closed-tabs-placeholder-body = جݙاں تساں ایں ونڈو وِچ ہک ٹیب بند کریندے او، تساں اینکوں اتھوں چھِک سڳدے او۔
+firefoxview-closed-tabs-placeholder-body2 = جݙاں تساں ہک ٹیب بند کریندے او، تساں اینکوں اتھوں چھِک سڳدے ہو۔
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
