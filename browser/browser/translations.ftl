@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oversett denne siden
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Side oversatt fra { $fromLanguage } til { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Oversettelse pågår
-
 translations-panel-settings-button =
     .aria-label = Behandle oversettelsesinnstillinger
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,6 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Behandle språk
 translations-panel-settings-about = Om oversettelser i { -brand-shorter-name }
-
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +36,6 @@ translations-panel-settings-always-translate-language =
     .label = Oversett alltid { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Oversett alltid dette språket
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -59,7 +53,6 @@ translations-panel-translate-button-loading =
     .label = Vent litt…
 translations-panel-translate-cancel =
     .label = Avbryt
-
 translations-panel-error-translating = Det oppstod et problem med å oversette. Prøv på nytt.
 translations-panel-error-load-languages = Kunne ikke laste inn språk
 
@@ -91,5 +84,4 @@ translations-manage-language-delete-button =
     .label = Slett
     .accesskey = S
 translations-manage-error-download = Klarte ikke å laste ned språkfilene. Prøv på nytt.
-translations-manage-error-delete = Det oppsto en feil ved sletting av språkfilene. Prøv på nytt.
-
+translations-manage-error-delete = Det oppstod en feil ved sletting av språkfilene. Prøv på nytt.
