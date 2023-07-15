@@ -95,6 +95,54 @@ translations-panel-to-label = Tradueix a:
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
 translations-panel-revisit-header = Aquesta pàgina s'ha traduït de { $fromLanguage } a { $toLanguage }
+translations-panel-choose-language =
+    .label = Trieu una llengua
+translations-panel-restore-button =
+    .label = Mostra l'original
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Traduccions
+translations-manage-settings-button =
+    .label = Paràmetres…
+    .accesskey = P
+translations-manage-description = Baixeu llengües per a la traducció fora de línia.
+translations-manage-all-language = Totes les llengües
+translations-manage-download-button = Baixa
+translations-manage-delete-button = Suprimeix
+translations-manage-language-download-button =
+    .label = Baixa
+    .accesskey = B
+translations-manage-language-delete-button =
+    .label = Suprimeix
+    .accesskey = S
+translations-manage-error-download = Hi ha hagut un problema en baixar els fitxers de la llengua. Torneu-ho a provar.
+translations-manage-error-delete = Hi ha hagut un problema en suprimir els fitxers de la llengua. Torneu-ho a provar.
+translations-manage-error-list = No s'ha pogut obtenir la llista de llengües disponibles per a la traducció. Actualitzeu la pàgina per tornar-ho a provar.
+translations-settings-title =
+    .title = Paràmetres de les traduccions
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-always-translate-langs-description = Les llengües següents es traduiran automàticament
+translations-settings-never-translate-langs-description = No s'oferirà traducció per a les llengües següents
+translations-settings-never-translate-sites-description = No s'oferirà traducció per als llocs següents
+translations-settings-languages-column =
+    .label = Llengües
+translations-settings-remove-language-button =
+    .label = Elimina la llengua
+    .accesskey = E
+translations-settings-remove-all-languages-button =
+    .label = Elimina totes les llengües
+    .accesskey = t
+translations-settings-sites-column =
+    .label = Llocs web
+translations-settings-remove-site-button =
+    .label = Elimina el lloc
+    .accesskey = l
+translations-settings-remove-all-sites-button =
+    .label = Elimina tots els llocs
+    .accesskey = m
+translations-settings-close-dialog =
+    .buttonlabelaccept = Tanca
+    .buttonaccesskeyaccept = T
