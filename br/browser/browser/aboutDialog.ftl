@@ -36,7 +36,7 @@ aboutdialog-update-manual-with-link = Hizivadennoù hegerz e <label data-l10n-na
 settings-update-manual-with-link = Hizivadennoù hegerz e <a data-l10n-name="manual-link">{ $displayUrl }</a>
 update-unsupported = Ne c’hellit ket arloañ hizivadennoù ouzhpenn war ho reizhiad. <label data-l10n-name="unsupported-link">Gouzout hiroc’h</label>
 update-restarting = Oc’h adloc’hañ…
-update-internal-error2 = N’haller ket gwiriañ hizivadennoù abalamour d'ur fazi diabarzh. Kavet e vezont aze: <label data-l10n-name="manual-link"><label data-l10n-name="manual-link">{ $displayUrl }</label>
+update-internal-error2 = N’haller ket gwiriañ hizivadennoù abalamour d'ur fazi diabarzh. Kavet e vezont aze: <label data-l10n-name="manual-link">{ $displayUrl }</label>
 
 ##
 
