@@ -112,11 +112,20 @@ firefoxview-synced-tabs-header = Faner frå andre einingar
 
 # Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
 firefoxview-view-all-link = Vis alle
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Vindauge { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Vindauge { $winID } (gjeldande)
 firefoxview-opentabs-focus-tab =
     .title = Byt til denne fana
 firefoxview-show-more = Vis meir
 firefoxview-show-less = Vis mindre
 firefoxview-sort-history-by-date-label = Sorter etter dato
+firefoxview-sort-history-by-site-label = Sorter etter nettstad
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -124,3 +133,4 @@ firefoxview-sort-history-by-date-label = Sorter etter dato
 
 ##
 
+firefoxview-show-all-history = Vis all historikk
