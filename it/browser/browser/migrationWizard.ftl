@@ -176,7 +176,8 @@ migration-list-payment-methods-label = metodi di pagamento
 ##
 
 migration-wizard-progress-header = Importazione dati
-migration-wizard-progress-done-header = Importazione dei dati completata
+migration-wizard-progress-done-header = Importazione dei dati completata correttamente
+migration-wizard-progress-done-with-warnings-header = Importazione dei dati completata
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importazione in corso…
 migration-wizard-progress-icon-completed =
