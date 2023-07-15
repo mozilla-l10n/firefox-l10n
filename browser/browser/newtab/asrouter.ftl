@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Gomendatutako eginbidea
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Zergatik ari naizen hau ikusten
-
 cfr-doorhanger-extension-cancel-button = Une honetan ez
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Gehitu orain
     .accesskey = G
-
 cfr-doorhanger-extension-manage-settings-button = Kudeatu gomendioen ezarpenak
     .accesskey = K
-
 cfr-doorhanger-extension-never-show-recommendation = Ez erakutsi gomendio hau
     .accesskey = z
-
 cfr-doorhanger-extension-learn-more-link = Argibide gehiago
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = egilea: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Gomendioa
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Gomendioa
     .tooltiptext = Hedapenaren gomendioa
     .a11y-announcement = Hedapenaren gomendioa erabilgarri dago
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Gomendioa
     .tooltiptext = Eginbidearen gomendioa
     .a11y-announcement = Eginbidearen gomendioa erabilgarri dago
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Argibide gehiago
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Eginbide berria:
-
 cfr-whatsnew-button =
     .label = Nobedadeak
     .tooltiptext = Nobedadeak
-
 cfr-whatsnew-release-notes-link-text = Irakurri bertsio-oharrak
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = Ados
 cfr-doorhanger-doh-secondary-button = Desgaitu
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Gune honetako bideoak agian ez dira ondo erreproduzituko { -brand-short-name } bertsio honetan. Bideo-euskarri osorako, eguneratu { -brand-short-name } orain.
 cfr-doorhanger-video-support-header = Eguneratu { -brand-short-name } bideoa erreproduzitzeko
 cfr-doorhanger-video-support-primary-button = Eguneratu orain
     .accesskey = E
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Mantendu pribatu { -mozilla-vpn-brand
     .accesskey = M
 spotlight-public-wifi-vpn-link = Une honetan ez
     .accesskey = z
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Une honetan ez
 
 mr2022-background-update-toast-title = { -brand-short-name } berria. Pribatuagoa. Jarraipen-elementu gutxiago. Konpromisorik ez.
 mr2022-background-update-toast-text = Probatu orain { -brand-short-name } berriena, jarraipen-elementuei aurka egiteko inoizko babesik indartsuenarekin eguneratua.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Ireki { -brand-shorter-name } orain
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Berreskuratu itxitako azken fitxak eta aldatu di-da ba
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Esan kaixo { -firefoxview-brand-name }ri.
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Telefonoan irekita daukazun fitxa hori nahi duzu? Har ezazu. Oraintxe bisitatu duzun gune hori behar duzu? Lasai, bueltan da { -firefoxview-brand-name }rekin.
 firefoxview-spotlight-promo-primarybutton = Ikusi nola dabilen
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Saltatu
 
 colorways-cfr-primarybutton = Aukeratu kolore-konbinazioa
     .accesskey = k
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Eman kolorea zure nabigatzaileari { -brand-short-name } kultura aldatu zuten ahotsek inspiratutako itzaldura esklusiboekin.
 colorways-cfr-header-28days = Ahots independenteen kolore-konbinazioak urtarrilaren 16an iraungiko dira
@@ -228,7 +210,6 @@ july-jam-headline = Babesean zaitugu
 july-jam-body = Hilero, { -brand-short-name }(e)k batez beste 3.000 jarraipen-elementu blokeatzen ditu erabiltzaileko, internet onerako sarbide seguru eta azkarra emanez.
 july-jam-set-default-primary = Ireki nire loturak { -brand-short-name } erabiliz
 fox-doodle-pin-headline = Ongi etorri berriro
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Hona hemen abisua gogorarazteko zure nabigatzaile independente gogokoena klik bakarrera manten dezakezula.
@@ -242,5 +223,11 @@ set-default-pdf-handler-primary = Ulertuta
 
 ## FxA sync CFR
 
+fxa-sync-cfr-primary = Argibide gehiago
+    .accesskey = A
+fxa-sync-cfr-secondary = Gogora iezadazu geroago
+    .accesskey = G
+
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-link = Gogora iezadazu geroago
