@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ਤੋਂ ਬਾਹਰ
-
 menu-about =
     .label = { -brand-shorter-name } ਬਾਰੇ
     .accesskey = A
@@ -327,7 +325,7 @@ menu-help-exit-troubleshoot-mode =
     .label = ਸਮੱਸਿਆ ਨਿਪਟਾਰਾ ਢੰਗ ਬੰਦ ਹੈ
     .accesskey = M
 menu-help-switch-device =
-    .label = ਨਵੇਂ ਡਿਵਾਈਸ ਲਈ ਬਦਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
+    .label = ਨਵੇਂ ਡਿਵਾਈਸ ਲਈ ਬਦਲਣਾ
     .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
