@@ -57,11 +57,24 @@ translations-panel-translate-button-loading =
     .label = Espereu…
 translations-panel-translate-cancel =
     .label = Cancel·la
+translations-panel-error-translating = Hi ha hagut un problema en traduir. Torneu-ho a provar.
+translations-panel-error-load-languages = No s’han pogut carregar les llengües
+translations-panel-error-load-languages-hint = Comproveu la connexió a Internet i torneu-ho a provar.
+translations-panel-error-load-languages-hint-button =
+    .label = Torna-ho a provar
 translations-panel-error-unsupported = La traducció no està disponible per a aquesta pàgina
 translations-panel-error-dismiss-button =
     .label = Entesos
 translations-panel-error-change-button =
     .label = Canvia la llengua d'origen
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Aquesta llengua encara no és compatible: { $language }
+translations-panel-error-unsupported-hint-unknown = Aquesta llengua encara no és compatible.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -74,6 +87,14 @@ translations-panel-to-label = Tradueix a:
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Aquesta pàgina s'ha traduït de { $fromLanguage } a { $toLanguage }
 
 ## Firefox Translations language management in about:preferences.
 
