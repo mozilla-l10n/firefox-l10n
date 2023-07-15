@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = { -brand-shorter-name } ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
-
 appmenuitem-banner-update-available =
     .label = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
-
 appmenuitem-banner-update-manual =
     .label = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ
-
 appmenuitem-banner-update-unsupported =
     .label = ਅੱਪਡੇਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ — ਸਿਸਟਮ ਮਾਫ਼ਕ ਨਹੀਂ ਹੈ
-
 appmenuitem-banner-update-restart =
     .label = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹੈ — ਹੁਣੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ
-
 appmenuitem-new-tab =
     .label = ਨਵੀਂ ਟੈਬ
 appmenuitem-new-window =
@@ -58,7 +53,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = ਐਪਲੀਕੇਸ਼ਨ ਮੇਨੂ ਬੰਦ ਕਰੋ
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -79,30 +73,23 @@ appmenu-remote-tabs-sign-into-sync =
     .label = …ਸਿੰਕ ਵਾਸਤੇ ਸਾਈਨ ਇਨ ਕਰੋ
 appmenu-remote-tabs-turn-on-sync =
     .label = …ਸਿੰਕ ਚਾਲੂ ਕਰੋ
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = ਹੋਰ ਟੈਬਾਂ ਵੇਖਾਓ
     .tooltiptext = ਇਸ ਡਿਵਾਈਸ ਤੋਂ ਹੋਰ ਟੈਬਾਂ ਨੂੰ ਵੇਖੋ
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = ਕੋਈ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨਹੀਂ
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖਣ ਲਈ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰੋ।
-
 appmenu-remote-tabs-opensettings =
     .label = ਸੈਟਿੰਗਾਂ
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਇੱਥੇ ਦੇਖਣਾ ਚਾਹੁੰਦੇ ਹੋ?
-
 appmenu-remote-tabs-connectdevice =
     .label = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ
 appmenu-remote-tabs-welcome = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖੋ।
 appmenu-remote-tabs-unverified = ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਤਸਦੀਕ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।
-
 appmenuitem-fxa-toolbar-sync-now2 = ਹੁਣੇ ਸਿੰਕ ਕਰੋ
 appmenuitem-fxa-sign-in = { -brand-product-name } ‘ਚ ਸਾਈਨ ਇਨ ਕਰੋ
 appmenuitem-fxa-manage-account = ਖਾਤੇ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
@@ -116,14 +103,12 @@ appmenu-fxa-sync-and-save-data2 = ਡਾਟਾ ਸਿੰਕ ਕਰੋ ਤੇ ਸ
 appmenu-fxa-signed-in-label = ਸਾਇਨ ਇਨ
 appmenu-fxa-setup-sync =
     .label = ਸਿੰਕ ਕਰਨਾ ਚਾਲੂ ਕਰੋ…
-
 appmenuitem-save-page =
     .label = …ਸਫ਼ੇ ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = ਨਵਾਂ ਕੀ ਹੈ
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -137,52 +122,37 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = ਪਰੋਫਾਈਲਰ
     .tooltiptext = ਕਾਰਗੁਜ਼ਾਰੀ ਪਰੋਫਾਈਲ ਨੂੰ ਰਿਕਾਰਡ ਕਰੋ
-
 profiler-popup-button-recording =
     .label = ਪਰੋਫਾਈਲਰ
     .tooltiptext = ਪਰੋਫਾਈਲਰ ਇੱਕ ਰਿਕਾਰਡ ਕਰਨ ਵਾਲਾ ਪਰੋਫਾਈਲ ਹੈ
-
 profiler-popup-button-capturing =
     .label = ਪਰੋਫਾਈਲਰ
     .tooltiptext = ਪਰੋਫਾਈਲਰ ਪਰੋਫਾਈਲ ਇਕੱਤਰ ਕਰਦਾ ਹੈ
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = ਹੋਰ ਜਾਣਕਾਰੀ ਲਵੋ
-
 profiler-popup-description-title =
     .value = ਰਿਕਾਰਡ ਕਰੋ, ਪੜਤਾਲ ਕਰੋ, ਸਾਂਝਾ ਕਰੋ
-
 profiler-popup-description = ਆਪਣੀ ਟੀਮ ਨਾਲ ਪਰੋਫਾਇਲ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰਕੇ ਕਾਰਗੁਜ਼ਾਰੀ ਮਸਲਿਆਂ ਉੱਤੇ ਸਾਂਝਾ ਪਾਓ।
-
 profiler-popup-learn-more-button =
     .label = ਹੋਰ ਜਾਣੋ
-
 profiler-popup-settings =
     .value = ਸੈਟਿੰਗਾਂ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = …ਸੈਟਿੰਗਾਂ ਸੋਧੋ
-
 profiler-popup-recording-screen = ਰਿਕਾਰਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…
-
 profiler-popup-start-recording-button =
     .label = ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰੋ
-
 profiler-popup-discard-button =
     .label = ਖ਼ਾਰਜ ਕਰੋ
-
 profiler-popup-capture-button =
     .label = ਕੈਪਚਰ
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -194,39 +164,28 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = ਬਹੁਤੀਆਂ ਵੈੱਬ ਐਪ ਨੂੰ ਡੀਬੱਗ ਕਰਨ ਲਈ ਘੱਟ ਉਲਝਣਾਂ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-web-developer-label =
     .label = ਵੈੱਬ ਡਿਵੈਲਪਰ
-
 profiler-popup-presets-firefox-description = { -brand-shorter-name } ਪਰੋਫਾਈਲਿੰਗ ਲਈ ਸਿਫਾਰਸ਼ੀ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = { -brand-shorter-name } ਵਿੱਚ ਗਰਾਫਿਸ ਬੱਗ ਦੀ ਜਾਂਚ ਕਰਨਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-graphics-label =
     .label = ਗਰਾਫਿਕਸ
-
 profiler-popup-presets-media-description2 = { -brand-shorter-name } ਵਿੱਚ ਆਡੀਓ ਤੇ ਵੀਡੀਓ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-media-label =
     .label = ਮੀਡਿਆ
-
 profiler-popup-presets-networking-description = { -brand-shorter-name } ਵਿੱਚ ਨੈੱਟਵਰਕਿੰਗ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਲਈ ਪਹਿਲਾਂ ਨਿਯਤ ਸਮੂਹ।
 profiler-popup-presets-networking-label =
     .label = ਨੈੱਟਵਰਕਿੰਗ
-
 profiler-popup-presets-power-description = ਘੱਟ ਖਪਤ ਨਾਲ { -brand-shorter-name } ਵਿੱਚ ਊਰਜਾ ਵਰਤਣ ਵਾਲੇ ਬੱਗਾਂ ਦੀ ਜਾਂਚ ਕਰਨ ਲਈ ਪ੍ਰੀ-ਸੈਟ ਹੈ।
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = ਊਰਜਾ
-
 profiler-popup-presets-custom-label =
     .label = ਕਸਟਮ
 
@@ -266,7 +225,7 @@ appmenu-help-share-ideas =
     .label = …ਵਿਚਾਰ ਤੇ ਸੁਝਾਅ ਸਾਂਝੇ ਕਰੋ
     .accesskey = S
 appmenu-help-switch-device =
-    .label = ਨਵੇਂ ਡਿਵਾਈਸ ਲਈ ਬਦਲਿਆ ਜਾ ਰਿਹਾ ਹੈ
+    .label = ਨਵੇਂ ਡਿਵਾਈਸ ਲਈ ਬਦਲਣਾ
 
 ## appmenu-help-enter-troubleshoot-mode and appmenu-help-exit-troubleshoot-mode
 ## are mutually exclusive, so it's possible to use the same accesskey for both.
@@ -292,7 +251,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = …ਟੂਲਬਾਰ ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
-
 appmenu-developer-tools-subheader = ਬਰਾਊਜ਼ਰ ਟੂਲ
 appmenu-developer-tools-extensions =
     .label = ਡਿਵੈਲਪਰਾਂ ਲਈ ਇਕਸਟੈਨਸ਼ਨਾਂ
