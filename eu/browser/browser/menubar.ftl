@@ -38,11 +38,9 @@ menu-quit =
             [windows] I
            *[other] I
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Irten { -brand-shorter-name }(e)tik
-
 menu-about =
     .label = { -brand-shorter-name }(r)i buruz
     .accesskey = b
@@ -233,6 +231,9 @@ menu-bookmark-tab =
     .label = Egin uneko fitxaren laster-marka…
 menu-edit-bookmark =
     .label = Editatu laster-marka…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Bilatu laster-markak
 menu-bookmarks-all-tabs =
     .label = Egin fitxa guztien laster-marka…
 menu-bookmarks-toolbar =
