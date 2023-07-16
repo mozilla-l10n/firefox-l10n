@@ -2,21 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-##
-
 # This is the title of the page
 about-logging-title = Erregistroari buruz
 about-logging-page-title = Erregistroaren kudeatzailea
@@ -46,11 +31,13 @@ about-logging-logging-preset-selector-text = Erregistroaren aurrezarpena:
 
 about-logging-preset-networking-label = Sarea
 about-logging-preset-networking-description = Sarearen arazoak diagnostikatzeko erregistro-moduluak
+about-logging-preset-networking-cookie-label = Cookieak
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Multimedia erreproduzitzea
 about-logging-preset-media-playback-description = Multimediaren erreprodukzio-arazoak (ez bideo-deien arazoak) diagnostikatzeko erregistro-moduluak
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Pertsonalizatua
 about-logging-preset-custom-description = Erregistratu eskuz hautatutako moduluak
-
 # Error handling
 about-logging-error = Errorea:
 
@@ -64,5 +51,4 @@ about-logging-unknown-profiler-preset = Profil sortzailearen "{ $v }" aurrezarpe
 about-logging-unknown-option = about:logging "{ $k }" aukera ezezaguna
 about-logging-configuration-url-ignored = Konfigurazio URLa ezikusita
 about-logging-file-and-profiler-override = Ezin da fitxategiaren irteera behartu eta aldi berean profil sortzailearen aukerak baliogabetu
-
 about-logging-configured-via-url = Aukera URL bidez konfiguratuta
