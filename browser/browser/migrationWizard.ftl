@@ -207,6 +207,11 @@ migration-wizard-progress-success-extensions = { $quantity } ส่วนขย�
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } จาก { $quantity } ส่วนขยาย
+migration-wizard-progress-extensions-support-link = เรียนรู้ว่า { -brand-product-name } จับคู่ส่วนขยายอย่างไร
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = ไม่มีส่วนขยายที่ตรงกัน
+migration-wizard-progress-extensions-addons-link = เรียกดูส่วนขยายสำหรับ { -brand-short-name }
 
 ##
 
