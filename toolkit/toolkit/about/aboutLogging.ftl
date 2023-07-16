@@ -35,11 +35,15 @@ about-logging-with-profiler-stacks-checkbox = Aktiver stack-traces for logbesked
 about-logging-preset-networking-label = Netværk
 about-logging-preset-networking-description = Logmoduler til at diagnosticere netværksproblemer
 about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-description = Logmoduler til at diagnosticere cookieproblemer
 about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Logmoduler til at diagnosticere WebSocket-problemer
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Logmoduler til at diagnosticere HTTP/3- og QUIC-problemer
 about-logging-preset-media-playback-label = Medieafspilning
 about-logging-preset-media-playback-description = Logmoduler til at diagnosticere problemer med medieafspilning (ikke problemer med videokonferencer)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Logmoduler til at diagnosticere WebRTC-opkald
 about-logging-preset-custom-label = Tilpasset
 about-logging-preset-custom-description = Manuelt valgte logmoduler
 # Error handling
