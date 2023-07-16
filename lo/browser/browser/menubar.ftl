@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = ອອກ { -brand-shorter-name }
-
 menu-about =
     .label = About { -brand-shorter-name }
     .accesskey = A
@@ -224,6 +222,9 @@ menu-bookmark-tab =
     .label = ບຸກມາກແຖບປັດຈຸບັນ...
 menu-edit-bookmark =
     .label = ແກ້ໄຂບຸກມາກນີ້...
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = ຊອກຫາບຸກມາກ
 menu-bookmarks-all-tabs =
     .label = ບຸກມາກແທັບທັງຫມົດ…
 menu-bookmarks-toolbar =
