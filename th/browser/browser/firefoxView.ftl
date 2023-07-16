@@ -59,6 +59,7 @@ firefoxview-closed-tabs-title = เพิ่งปิดล่าสุด
 firefoxview-closed-tabs-description2 = เปิดหน้าที่คุณปิดไปในหน้าต่างนี้ใหม่
 firefoxview-closed-tabs-placeholder-header = ไม่มีแท็บที่ปิดล่าสุด
 firefoxview-closed-tabs-placeholder-body = เมื่อคุณปิดแท็บในหน้าต่างนี้ คุณสามารถเรียกแท็บนั้นกลับมาได้จากที่นี่
+firefoxview-closed-tabs-placeholder-body2 = เมื่อคุณปิดแท็บ คุณสามารถเรียกแท็บนั้นกลับมาได้จากที่นี่
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
