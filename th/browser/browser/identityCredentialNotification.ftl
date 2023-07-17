@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = ลงชื่อเข้า
     .accesskey = ล
 identity-credential-policy-title = ใช้ { $provider } เป็นผู้ให้บริการเข้าสู่ระบบ
-identity-credential-policy-description = การเข้าสู่ระบบ { $host } ด้วยบัญชี { $provider } จะอยู่ภายใต้<label data-l10n-name="privacy-url">นโยบายส่วนบุคคล</label>และ<label data-l10n-name="tos- url">ข้อกำหนดในการให้บริการ</label>
+identity-credential-policy-description = การเข้าสู่ระบบ { $host } ด้วยบัญชี { $provider } จะอยู่ภายใต้<label data-l10n-name="privacy-url">นโยบายส่วนบุคคล</label>และ<label data-l10n-name="tos-url">ข้อกำหนดในการให้บริการ</label>
