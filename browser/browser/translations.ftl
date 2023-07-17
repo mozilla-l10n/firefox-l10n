@@ -5,10 +5,19 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Prevedi stran
-
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Stran je prevedena iz jezika { $fromLanguage } v jezik { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = Prevajanje poteka
 translations-panel-settings-button =
     .aria-label = Nastavitve prevajanja
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -20,7 +29,6 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Upravljanje jezikov
 translations-panel-settings-about = O prevodih v { -brand-shorter-name(sklon: "mestnik") }
-
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -28,7 +36,6 @@ translations-panel-settings-always-translate-language =
     .label = Vedno prevedi jezik { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Vedno prevedi ta jezik
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,7 +43,6 @@ translations-panel-settings-never-translate-language =
     .label = Nikoli ne prevajaj jezika { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nikoli ne prevajaj tega jezika
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nikoli ne prevajaj tega spletnega mesta
@@ -51,13 +57,11 @@ translations-panel-translate-button-loading =
     .label = Počakajte …
 translations-panel-translate-cancel =
     .label = Prekliči
-
 translations-panel-error-translating = Pri prevajanju je prišlo do težave. Poskusite znova.
 translations-panel-error-load-languages = Jezikov ni bilo mogoče naložiti
 translations-panel-error-load-languages-hint = Preverite internetno povezavo in poskusite znova.
 translations-panel-error-load-languages-hint-button =
     .label = Poskusi znova
-
 translations-panel-error-unsupported = Prevod za to stran ni na voljo
 translations-panel-error-dismiss-button =
     .label = Razumem
@@ -115,7 +119,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Pri prenašanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-delete = Pri brisanju datoteke z jezikom je prišlo do napake. Poskusite znova.
 translations-manage-error-list = Seznama jezikov, ki jih je mogoče prevesti, ni bilo mogoče pridobiti. Osvežite stran in poskusite znova.
-
 translations-settings-title =
     .title = Nastavitve prevajanja
     .style = min-width: 36em
