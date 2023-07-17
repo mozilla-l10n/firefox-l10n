@@ -59,6 +59,7 @@ firefoxview-closed-tabs-title = Nedavno zaprto
 firefoxview-closed-tabs-description2 = Ponovno odprite strani, ki ste jih zaprli v tem oknu.
 firefoxview-closed-tabs-placeholder-header = Ni nedavno zaprtih zavihkov
 firefoxview-closed-tabs-placeholder-body = Tukaj lahko najdete zavihke, ki ste jih zaprli v tem oknu.
+firefoxview-closed-tabs-placeholder-body2 = Tukaj lahko najdete zavihke, ki ste jih zaprli.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -82,6 +83,8 @@ firefoxview-collapse-button-show =
 firefoxview-collapse-button-hide =
     .title = Skrij seznam
 firefoxview-overview-nav = Nedavno brskanje
+    .title = Nedavno brskanje
+firefoxview-overview-header = Nedavno brskanje
     .title = Nedavno brskanje
 
 ## History in this context refers to browser history
@@ -125,10 +128,15 @@ firefoxview-opentabs-focus-tab =
 firefoxview-show-more = Prikaži več
 firefoxview-show-less = Prikaži manj
 firefoxview-sort-history-by-date-label = Razvrsti po datumu
+firefoxview-sort-history-by-site-label = Razvrsti po spletnem mestu
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Danes – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Včeraj – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 

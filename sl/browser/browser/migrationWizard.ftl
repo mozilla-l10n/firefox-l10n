@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Gesla so uspešno uvožena
 migration-passwords-from-file = Iskanje gesel v datoteki
 migration-passwords-new = Nova gesla
 migration-passwords-updated = Obstoječa gesla
+migration-passwords-from-file-no-valid-data = Datoteka ne vsebuje veljavnih podatkov o geslih. Izberite drugo datoteko.
 migration-passwords-from-file-picker-title = Uvozi datoteko z gesli
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -156,6 +157,7 @@ migration-list-bookmark-label = zaznamke
 migration-list-favorites-label = priljubljene
 migration-list-password-label = gesla
 migration-list-history-label = zgodovino
+migration-list-extensions-label = razširitve
 migration-list-autofill-label = podatke za samodejno izpolnjevanje
 migration-list-payment-methods-label = načine plačil
 
@@ -218,6 +220,18 @@ migration-wizard-progress-success-extensions =
         [few] { $quantity } razširitve
        *[other] { $quantity } razširitev
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } od { $quantity } razširitev
+migration-wizard-progress-extensions-support-link = Kako { -brand-product-name } odkriva ujemajoče se razširitve
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ni ujemajočih se razširitev
+migration-wizard-progress-extensions-addons-link = Oglejte si razširitve za { -brand-short-name }
 
 ##
 

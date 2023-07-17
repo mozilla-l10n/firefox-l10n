@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Odpri meni za { $extensionName }
-
 unified-extensions-item-message-manage = Upravljanje razširitve
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Pripni v orodno vrstico
-
 unified-extensions-context-menu-manage-extension =
     .label = Upravljaj razširitev
-
 unified-extensions-context-menu-remove-extension =
     .label = Odstrani razširitev
-
 unified-extensions-context-menu-report-extension =
     .label = Prijavi razširitev
-
 unified-extensions-context-menu-move-widget-up =
     .label = Premakni gor
-
 unified-extensions-context-menu-move-widget-down =
     .label = Premakni dol
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Nekatere razširitve niso dovoljene
 unified-extensions-mb-quarantined-domain-message = Zaradi zaščite vaših podatkov so na tem spletnem mestu dovoljene samo nekatere razširitve, ki jih { -vendor-short-name } nadzoruje.
+unified-extensions-mb-quarantined-domain-message-2 = Za zaščito vaših podatkov nekatere razširitve ne morejo brati ali spreminjati podatkov na tem spletnem mestu. Delovanje razširitve na spletnih straneh, kjer jo omejuje { -vendor-short-name }, lahko omogočite v njenih nastavitvah.
