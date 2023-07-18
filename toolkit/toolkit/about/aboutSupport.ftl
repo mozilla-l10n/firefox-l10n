@@ -179,7 +179,7 @@ media-codec-support-hw-decoding = Hardwarowe dekodowanje
 media-codec-support-codec-name = Mjeno Codec
 media-codec-support-supported = Podpěrany
 media-codec-support-unsupported = Njepodpěrany
-media-codec-support-error = Informacije wo podpěranych kodekach k dispoziciji njesteja. Syptajće hišće raz, po tym zo sće medijowu dataju wothrał.
+media-codec-support-error = Informacije wo podpěranych kodekach k dispoziciji njesteja. Spytajće hišće raz, po tym zo sće medijowu dataju wothrał.
 
 ##
 
