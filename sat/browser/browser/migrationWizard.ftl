@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱭ ᱢᱮ
 migration-wizard-selection-list = ᱟᱢ ᱠᱩᱥᱩᱭᱟᱜ ᱰᱟᱴᱟ ᱟᱹᱜᱩᱣᱟᱜ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = ᱟᱢ ᱠᱩᱥᱩᱭᱟᱜ ᱰᱟᱴᱟ ᱟ�
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱰᱟᱴᱟ ᱟᱹ
 
 migration-select-all-option-label = ᱡᱚᱛᱚ ᱵᱟᱪᱷᱟᱣ
 migration-bookmarks-option-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = ᱠᱩᱥᱤ ᱠᱚ
-
 migration-logins-and-passwords-option-label = ᱞᱚᱜᱤᱱ ᱠᱚ ᱟᱨ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱮᱱᱟ
 migration-history-option-label = ᱱᱟᱜᱟᱢ ᱯᱟᱱᱛᱮ
 migration-extensions-option-label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
 migration-form-autofill-option-label = ᱟᱡ ᱛᱮ ᱯᱟᱨᱮᱡ ᱯᱷᱚᱨᱢ
 migration-payment-methods-option-label = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟᱠᱚ
-
 migration-cookies-option-label = ᱠᱩᱠᱤᱡᱽᱠᱚ
 migration-session-option-label = ᱡᱷᱚᱨᱠᱟ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ
 migration-otherdata-option-label = ᱮᱴᱟᱜ ᱰᱟᱴᱟ
-
 migration-passwords-from-file-progress-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 migration-passwords-from-file-success-header = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱟᱹᱥ ᱞᱮᱠᱟᱛᱮ ᱟᱹᱜᱩᱭ ᱮᱱᱟ
 migration-passwords-from-file = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱞᱟᱹᱜᱤᱫ ᱨᱮᱫ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ
 migration-passwords-new = ᱱᱟᱣᱟ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱠᱚ
 migration-passwords-updated = ᱢᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱢᱮᱱᱟᱜ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ
-
 migration-passwords-from-file-no-valid-data = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱨᱮ ᱡᱟᱦᱱᱟᱜ ᱴᱷᱤᱠ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾ ᱮᱴᱟᱜ ᱨᱮᱫᱽ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
-
 migration-passwords-from-file-picker-title = ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV ᱫᱚᱞᱤᱞ
        *[other] TSV ᱨᱮᱫ
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -105,7 +96,6 @@ migration-wizard-progress-success-new-passwords =
         [two] { $newEntries } ᱠᱤᱱ ᱥᱟᱞᱮᱫ ᱮᱱᱟ
        *[other] { $newEntries } ᱠᱚ ᱥᱟᱞᱮᱫ ᱮᱱᱟ
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -117,14 +107,11 @@ migration-wizard-progress-success-updated-passwords =
         [two] { $updatedEntries } ᱠᱤᱱ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
        *[other] { $updatedEntries } ᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱮᱱᱟ
     }
-
 migration-bookmarks-from-file-picker-title = ᱨᱮᱫᱽ ᱠᱷᱚᱱ ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱟᱹᱜᱩ
 migration-bookmarks-from-file-progress-header = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
 migration-bookmarks-from-file = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ
 migration-bookmarks-from-file-success-header = ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱟᱹᱜᱩᱮᱱᱟ
-
 migration-bookmarks-from-file-no-valid-data = ᱱᱚᱶᱟ ᱨᱮᱫᱽ ᱨᱮ ᱡᱟᱦᱱᱟᱜ ᱯᱩᱛᱷᱵᱩᱩᱠᱢᱟᱨᱠ ᱰᱮᱴᱟ ᱵᱟᱭ ᱢᱮᱥᱟᱜᱼᱟ ᱾ ᱮᱴᱟᱜ ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱾
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -132,11 +119,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML ᱫᱚᱞᱤᱞ
        *[other] HTML ᱨᱮᱫᱽ
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON ᱨᱮᱫᱽ
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -148,14 +133,12 @@ migration-wizard-progress-success-new-bookmarks =
         [two] { $newEntries } ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱤᱱ
        *[other] { $newEntries } ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ
     }
-
 migration-import-button-label = ᱟᱹᱜᱩ
 migration-choose-to-import-from-file-button-label = ᱨᱮᱫ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 migration-import-from-file-button-label = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-cancel-button-label = ᱵᱟᱹᱰᱨᱟᱹ
 migration-done-button-label = ᱦᱩᱭᱮᱱᱟ
 migration-continue-button-label = ᱞᱮᱛᱟᱲ
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ᱫᱚ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ, ᱦᱤᱛᱟᱹᱞ ᱟᱨᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱰᱟᱴᱟ. ᱢᱮᱱᱟᱜ ᱪᱮᱫ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱫᱟᱭ ᱾
 migration-wizard-import-browser-no-resources = ᱢᱤᱫᱴᱟᱹᱝ ᱦᱩᱰᱟᱹᱜ. ᱦᱩᱭᱮᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱚᱱᱟ ᱵᱨᱟᱣᱡᱚᱨ ᱢᱚᱦᱚᱨ ᱠᱷᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱝ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱫᱟᱭ ᱾
 
@@ -166,7 +149,6 @@ migration-wizard-import-browser-no-resources = ᱢᱤᱫᱴᱟᱹᱝ ᱦᱩᱰ�
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = ᱵᱩᱠᱢᱟᱨᱠ ᱠᱚ
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = ᱠᱩᱥᱤ ᱠᱚ
@@ -179,12 +161,18 @@ migration-list-payment-methods-label = ᱜᱚᱱᱚᱝ ᱦᱚᱨᱟᱠᱚ
 ##
 
 migration-wizard-progress-header = ᱰᱟᱴᱟ ᱟᱹᱜᱩᱜ ᱠᱟᱱᱟ
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = ᱰᱟᱴᱟ ᱨᱟᱹᱥ ᱞᱮᱠᱷᱟᱛᱮ ᱦᱮᱡ ᱮᱱᱟ
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = ᱰᱟᱴᱟ ᱟᱹᱜᱩ ᱯᱩᱨᱟᱹᱣ ᱮᱱᱟ
 migration-wizard-progress-icon-in-progress =
     .aria-label = ᱟᱹᱜᱩᱭᱮᱫ ᱟ…
 migration-wizard-progress-icon-completed =
     .aria-label = ᱪᱟᱵᱟ ᱮᱱᱟ
-
 migration-safari-password-import-header = Safari ᱠᱷᱚᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
 migration-safari-password-import-steps-header = Safari ᱛᱮ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ ᱟᱹᱜᱩᱭ ᱢᱮ :
 migration-safari-password-import-step1 = Safari ᱨᱮ, “Safari” ᱢᱮᱱᱩ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱛᱮ ᱠᱩᱥᱤᱭᱟᱜ > ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮ ᱪᱟᱞᱟᱜ ᱢᱮ
@@ -193,8 +181,6 @@ migration-safari-password-import-step3 = ᱫᱟᱱᱟᱝ ᱥᱟᱦᱟᱫ ᱨᱮ�
 migration-safari-password-import-step4 = ᱞᱟᱛᱟᱨ ᱨᱮ ᱢᱮᱱᱟᱜ “ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ” ᱵᱮᱵᱷᱟᱨ ᱛᱮ ᱥᱟᱸᱪᱷᱟᱣ ᱠᱟᱱ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱨᱮᱫ ᱟᱢ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 migration-safari-password-import-skip-button = ᱟᱲᱟᱜ
 migration-safari-password-import-select-button = ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -205,7 +191,6 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } ᱵᱩᱩᱠᱢᱟᱨᱠ
        *[other] { $quantity } ᱵᱩᱩᱠᱢᱟᱨᱠᱠᱚ
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -234,7 +219,6 @@ migration-wizard-progress-success-extensions =
         [two] { $quantity } ᱯᱟᱥᱱᱟᱣᱠᱤᱱ
        *[other] { $quantity } ᱯᱟᱥᱱᱟᱣᱠᱚ
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -242,12 +226,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $quantity } ᱠᱷᱚᱱ { $matched } ᱯᱟᱥᱱᱟᱣᱠᱚ
-
 migration-wizard-progress-extensions-support-link = ᱵᱟᱲᱟᱭ ᱢᱮ { -brand-product-name } ᱫᱚ ᱯᱟᱥᱱᱟᱣᱠᱚ ᱪᱮᱫ ᱞᱮᱠᱟᱛᱮ ᱢᱮᱲᱟᱣ ᱮᱫᱟᱭ
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = ᱪᱤᱫ ᱦᱚᱸ ᱢᱮᱲᱟᱣ ᱯᱟᱥᱱᱟᱣ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ
-
 migration-wizard-progress-extensions-addons-link = { -brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱥᱱᱟᱣᱠᱚ ᱵᱽᱨᱟᱹᱡᱽ ᱢᱮ
 
 ##
@@ -263,7 +245,6 @@ migration-wizard-progress-success-passwords =
         [two] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱤᱱ
        *[other] { $quantity } ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱠᱚ
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -275,9 +256,7 @@ migration-wizard-progress-success-history =
         [two] ᱢᱟᱲᱟᱝ ᱫᱤᱱ ᱠᱷᱚᱱ
        *[other] ᱢᱟᱲᱟᱝ { $maxAgeInDays } ᱫᱤᱱ ᱠᱷᱚᱱ
     }
-
 migration-wizard-progress-success-formdata = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱚᱨᱢ
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -289,7 +268,6 @@ migration-wizard-progress-success-payment-methods =
         [two] { $quantity } ᱜᱚᱱᱚᱝ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱠᱤᱱ
        *[other] { $quantity } ᱜᱚᱱᱚᱝ ᱮᱢ ᱵᱟᱪᱷᱟᱣᱠᱚ
     }
-
 migration-wizard-safari-permissions-sub-header = Safari ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹᱠᱚ ᱟᱨ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱞᱟᱫᱮ ᱞᱟᱹᱜᱤᱫ :
 migration-wizard-safari-instructions-continue = “ᱞᱟᱦᱟ” ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 migration-wizard-safari-instructions-folder = ᱞᱤᱥᱴᱤ ᱨᱮ Safari ᱨᱮᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ ᱟᱨ “ᱠᱷᱩᱞᱟᱹ” ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ
