@@ -110,10 +110,15 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = ᱪᱮᱛᱟᱱ ᱵᱟᱪᱷᱟᱣᱠᱚ ᱵᱟᱭᱯᱟᱥ ᱢᱮ ᱟᱨ ᱧᱩᱛᱩᱢᱞᱮᱠᱷᱟ ᱠᱟᱱ ᱛᱷᱨᱮᱰᱠᱚ ᱨᱮᱠᱳᱰ ᱢᱮ
+perftools-tools-threads-input-label =
+    .title = ᱱᱚᱣᱟ ᱥᱩᱛᱟᱹᱢ ᱧᱩᱛᱩᱢ ᱫᱚ ᱢᱤᱫ ᱠᱳᱢᱟ ᱵᱷᱮᱜᱟᱨ ᱞᱤᱥᱴ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨ ᱨᱮ ᱴᱨᱮᱱᱰ ᱠᱚ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜᱼᱟ ᱾ ᱧᱩᱛᱩᱢ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱚᱱᱚᱞ ᱧᱩᱛᱩᱢ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱢᱮᱲᱟᱣ ᱡᱟᱦᱟᱸ ᱫᱚ ᱛᱟᱭᱚᱢ ᱛᱮ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾ ᱱᱚᱟᱣ ᱫᱚ ᱠᱷᱟᱹᱞᱤᱡᱟᱭᱜᱟ ᱥᱮᱱᱥᱤᱴᱤᱵᱷ ᱜᱮᱭᱟ ᱾
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
+perftools-onboarding-message = <b>ᱱᱚᱶᱟ</b>: { -profiler-brand-name } ᱫᱚ ᱱᱤᱛᱚᱜ ᱰᱤᱵᱷᱞᱚᱯᱚᱨ ᱥᱟᱡᱟᱣᱠᱚᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱟᱵᱚᱛ <a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a> ᱾
+perftools-onboarding-close-button =
+    .aria-label = ᱚᱱᱵᱚᱰᱤᱝ ᱠᱷᱚᱵᱚᱨ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Profiler presets
 
@@ -122,6 +127,20 @@ perftools-record-all-registered-threads = ᱪᱮᱛᱟᱱ ᱵᱟᱪᱷᱟᱣᱠ�
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
+perftools-presets-web-developer-label = ᱣᱮᱵᱽ ᱞᱟᱦᱟ ᱦᱚᱪᱚᱭᱤᱡ
+perftools-presets-web-developer-description = ᱠᱚᱢ ᱚᱣᱟᱹᱨᱞᱳᱰ ᱥᱟᱶ ᱣᱮᱵᱽ ᱰᱮᱵᱚᱜᱤᱝ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱟᱛᱟᱣᱟᱜ ᱾
+perftools-presets-firefox-label = { -brand-shorter-name }
+perftools-presets-firefox-description = { -brand-shorter-name } ᱢᱚᱦᱲᱟᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱨᱩᱲ ᱡᱤᱱᱤᱥ ᱾
+perftools-presets-graphics-label = ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ
+perftools-presets-graphics-description = { -brand-shorter-name } ᱨᱮ ᱧᱮᱧᱮᱞᱤᱭᱟᱹ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
+perftools-presets-media-label = ᱢᱤᱰᱤᱭᱟ
+perftools-presets-media-description2 = { -brand-shorter-name } ᱨᱮ ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱚ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
+perftools-presets-networking-label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
+perftools-presets-networking-description = { -brand-shorter-name } ᱨᱮ ᱱᱮᱴᱣᱟᱨᱠᱤᱝ ᱵᱟᱵᱚᱛ ᱮᱴᱠᱮᱴᱚᱬᱮᱸ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱤᱱᱤᱥ ᱾
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = ᱞᱟᱹᱭᱤᱱ
+perftools-presets-power-description = ᱠᱚᱢ ᱚᱵᱷᱚᱨᱞᱚᱰ ᱥᱟᱶᱛᱮ, { -brand-shorter-name } ᱨᱮ ᱯᱟᱣᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱰᱤᱜᱟᱹᱣ ᱡᱟᱸᱪ ᱯᱚᱲᱛᱟᱞ ᱨᱟᱭᱟᱜ ᱦᱟᱡᱚᱨ ᱾
+perftools-presets-custom-label = ᱠᱩᱥᱤᱭᱟᱜ
 
 ##
 
