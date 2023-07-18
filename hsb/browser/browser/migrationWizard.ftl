@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Daty wobhladowaka importować
 migration-wizard-selection-list = Wubjerće daty, kotrež chceće importować.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Wubjerće daty, kotrež chceće importować.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = Wubrane daty importować
 
 migration-select-all-option-label = Wšě wubrać
 migration-bookmarks-option-label = Zapołožki
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Fawority
-
 migration-logins-and-passwords-option-label = Składowane přizjewjenja a hesła
 migration-history-option-label = Přehladowanska historija
 migration-extensions-option-label = Rozšěrjenja
 migration-form-autofill-option-label = Daty za awtomatiske wupjelnjenje formularow
 migration-payment-methods-option-label = Płaćenske metody
-
 migration-cookies-option-label = Placki
 migration-session-option-label = Wokna a rajtarki
 migration-otherdata-option-label = Druhe daty
-
 migration-passwords-from-file-progress-header = Dataju hesłow importować
 migration-passwords-from-file-success-header = Hesła su so wuspěšnje importowali
 migration-passwords-from-file = Dataja za hesła so přepruwuje
 migration-passwords-new = Nowe hesła
 migration-passwords-updated = Eksistowace hesła
-
 migration-passwords-from-file-no-valid-data = Dataje płaćiwe daty hesłow njewobsahuje. Wubjerće druhu dataju.
-
 migration-passwords-from-file-picker-title = Dataju hesłow importować
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-dokument
        *[other] TSV-dataja
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -106,7 +97,6 @@ migration-wizard-progress-success-new-passwords =
         [few] { $newEntries } su so přidali
        *[other] { $newEntries } je so přidało
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -119,14 +109,11 @@ migration-wizard-progress-success-updated-passwords =
         [few] { $updatedEntries } su so zaktualizowali
        *[other] { $updatedEntries } je so zaktualizowało
     }
-
 migration-bookmarks-from-file-picker-title = Dataju zapołožkow importować
 migration-bookmarks-from-file-progress-header = Zapołožki importować
 migration-bookmarks-from-file = Zapołožki
 migration-bookmarks-from-file-success-header = Zapołožki su so wuspěšnje importowali
-
 migration-bookmarks-from-file-no-valid-data = Dataje daty zapołožkow njewobsahuje. Wubjerće druhu dataju.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -134,11 +121,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-dokument
        *[other] HTML-dataja
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-dataja
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -151,14 +136,12 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } zapołožki
        *[other] { $newEntries } zapołožkow
     }
-
 migration-import-button-label = Importować
 migration-choose-to-import-from-file-button-label = Z dataje importować
 migration-import-from-file-button-label = Dataju wubrać
 migration-cancel-button-label = Přetorhnyć
 migration-done-button-label = Dokónčeny
 migration-continue-button-label = Dale
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } njemóžeše programy namakać, kotrež daty zapołožkow, historije abo hesłow wobsahować.
 migration-wizard-import-browser-no-resources = Zmylk je nastał. { -brand-short-name } njemóže daty namakać, kotrež dadźa so z toho profila wobhladowaka importować.
 
@@ -169,7 +152,6 @@ migration-wizard-import-browser-no-resources = Zmylk je nastał. { -brand-short-
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = zapołožki
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = fawority
@@ -182,12 +164,18 @@ migration-list-payment-methods-label = płaćenske metody
 ##
 
 migration-wizard-progress-header = Daty so importuja
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Daty su so wuspěšnje importowali
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Importowanje datow dokónčene
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importuje so…
 migration-wizard-progress-icon-completed =
     .aria-label = Dokónčeny
-
 migration-safari-password-import-header = Hesła ze Safari importować
 migration-safari-password-import-steps-header = Zo byšće hesła ze Safari importował:
 migration-safari-password-import-step1 = Wočińće meni „Safari“ w Safari a přeńdźće k Einstellungen > Passwörter (Nastajenja > Hesła)
@@ -196,8 +184,6 @@ migration-safari-password-import-step3 = Dataju hesłow składować
 migration-safari-password-import-step4 = Wubjerće „Dataju wubrać“ deleka, zo byšće dataju hesłow wubrał, kotruž sće składował
 migration-safari-password-import-skip-button = Přeskočić
 migration-safari-password-import-select-button = Dataju wubrać
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -210,7 +196,6 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } zapołožki
        *[other] { $quantity } zapołožkow
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -242,7 +227,6 @@ migration-wizard-progress-success-extensions =
         [few] { $quantity } rozšěrjenja
        *[other] { $quantity } rozšěrjenjow
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -250,12 +234,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } z { $quantity } rozšěrjenjow
-
 migration-wizard-progress-extensions-support-link = Zhońće, kak { -brand-product-name } wotpowědne rozšěrjenja namaka
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Žane wotpowědne rozšěrjenja
-
 migration-wizard-progress-extensions-addons-link = Rozšěrjenja za { -brand-short-name } přepytać
 
 ##
@@ -272,7 +254,6 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } hesła
        *[other] { $quantity } hesłow
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -285,9 +266,7 @@ migration-wizard-progress-success-history =
         [few] Z poslednich { $maxAgeInDays } dnjow
        *[other] Z poslednich { $maxAgeInDays } dnjow
     }
-
 migration-wizard-progress-success-formdata = Formularna historija
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -300,7 +279,6 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } płaćenske metody
        *[other] { $quantity } płaćenskich metodow
     }
-
 migration-wizard-safari-permissions-sub-header = Zo byšće zapołožki a přehladowansku historiju Safari importował:
 migration-wizard-safari-instructions-continue = Wubjerće „Pokročować“
 migration-wizard-safari-instructions-folder = Wubjerće rjadowak Safari w lisćinje a potom „Wočinić“
