@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Stronu składować
 about-webrtc-debug-mode-msg-label = Modus pytanja zmylkow
 about-webrtc-debug-mode-off-state-label = Modus pytanja zmylkow startować
 about-webrtc-debug-mode-on-state-label = Modus pytanja zmylkow zastajić
+about-webrtc-enable-logging-label = Protokolowe přednastajenje WebRTC zmóžnić
 about-webrtc-stats-heading = Posedźenska statistika
 about-webrtc-stats-clear = Historiju wuprózdnić
 about-webrtc-log-heading = Zwiskowy protokol
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = strona je so składowała do: { $path }
 about-webrtc-debug-mode-off-state-msg = slědowanski protokol da so namakać na: { $path }
 about-webrtc-debug-mode-on-state-msg = modus pytanja zmylkow je aktiwny, slědowanski protokol je na: { $path }
 about-webrtc-aec-logging-off-state-msg = móžeće natočene protokolowe dataje namakać w: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Strona je so składowała do: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Slědowanski protokol da so namakać na: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modus pytanja zmylkow je aktiwny, slědowanski protokol je na: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -317,6 +319,9 @@ about-webrtc-hide-msg-sdp = SDP schować
 about-webrtc-media-context-show-msg = Medijowy kontekst pokazać
 about-webrtc-media-context-hide-msg = Medijowy kontekst schować
 about-webrtc-media-context-heading = Medijowy kontekst
+
+##
+
 
 ##
 
