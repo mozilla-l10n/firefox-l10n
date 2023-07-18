@@ -86,9 +86,30 @@ perftools-thread-style-thread =
     .title = ᱥᱴᱟᱴᱚᱥ ᱠᱚᱢᱯᱭᱩᱴᱮᱥᱚᱱ ᱫᱚ ᱟᱭᱢᱟᱸ ᱥᱩᱛᱟᱹ ᱨᱮ ᱵᱷᱟᱜᱽ ᱮᱱᱟ
 pref-thread-stream-trans =
     .title = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱴᱨᱮᱢ ᱴᱨᱟᱱᱥᱯᱚᱴ
+perftools-thread-socket-thread =
+    .title = ᱥᱩᱛ ᱡᱟᱦᱟᱸ ᱨᱮ ᱱᱮᱴᱣᱟᱨᱠᱤᱝ ᱠᱳᱰ ᱠᱚ ᱡᱟᱦᱟᱸ ᱵᱞᱚᱠᱤᱝ ᱥᱚᱠᱮᱴ ᱦᱚᱦᱚᱭᱟᱭ
+perftools-thread-img-decoder =
+    .title = ᱪᱤᱛᱟᱹᱨ ᱰᱤᱠᱳᱰᱤᱝ ᱥᱩᱛᱟᱹᱠᱚ
+perftools-thread-dns-resolver =
+    .title = ᱱᱚᱶᱟ ᱥᱩᱛᱟᱹ ᱨᱮ DNS ᱨᱤᱡᱚᱞᱭᱩᱥᱚᱱ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ
+perftools-thread-task-controller =
+    .title = TaskController ᱥᱩᱛᱟᱹ ᱯᱩᱞ ᱥᱩᱛᱟᱹ
+perftools-thread-jvm-gecko =
+    .title = ᱢᱩᱞ  Gecko JVM ᱥᱩᱛᱟᱹ
+perftools-thread-jvm-nimbus =
+    .title = Nimbus ᱵᱤᱰᱟᱹᱣ SDK ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱩᱞ ᱥᱩᱛᱟᱹᱠᱚ
+perftools-thread-jvm-default-dispatcher =
+    .title = Kotlin coroutines ᱞᱟᱭᱵᱽᱨᱮᱨᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱩᱞ ᱰᱤᱥᱯᱮᱪᱚᱨ
+perftools-thread-jvm-glean =
+    .title = Glean telemetry SDK ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱩᱞ ᱥᱩᱛᱟᱹᱢ
+perftools-thread-jvm-arch-disk-io =
+    .title = Kotlin coroutines ᱞᱟᱭᱵᱽᱨᱮᱨᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱮ IO ᱰᱤᱥᱯᱮᱪᱚᱨ
+perftools-thread-jvm-pool =
+    .title = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝᱧᱩᱛᱩᱢ ᱥᱩᱛᱟᱹᱢ ᱯᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱩᱛᱹᱢ ᱛᱮᱭᱟᱨ ᱠᱟᱱᱟ
 
 ##
 
+perftools-record-all-registered-threads = ᱪᱮᱛᱟᱱ ᱵᱟᱪᱷᱟᱣᱠᱚ ᱵᱟᱭᱯᱟᱥ ᱢᱮ ᱟᱨ ᱧᱩᱛᱩᱢᱞᱮᱠᱷᱟ ᱠᱟᱱ ᱛᱷᱨᱮᱰᱠᱚ ᱨᱮᱠᱳᱰ ᱢᱮ
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
