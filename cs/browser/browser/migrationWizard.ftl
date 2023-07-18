@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Import dat prohlížeče
 migration-wizard-selection-list = Vyberte data, která chcete importovat.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Vyberte data, která chcete importovat.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = Importovat vybraná data
 
 migration-select-all-option-label = Vybrat vše
 migration-bookmarks-option-label = Záložky
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Oblíbené
-
 migration-logins-and-passwords-option-label = Uložená přihlašovací jména a hesla
 migration-history-option-label = Historie prohlížení
 migration-extensions-option-label = Rozšíření
 migration-form-autofill-option-label = Data pro automatické vyplňování formulářů
 migration-payment-methods-option-label = Způsoby platby
-
 migration-cookies-option-label = Cookies
 migration-session-option-label = Okna a panely
 migration-otherdata-option-label = Ostatní data
-
 migration-passwords-from-file-progress-header = Import souboru s hesly
 migration-passwords-from-file-success-header = Import hesel byl úspěšně dokončen
 migration-passwords-from-file = Vyhledávají se hesla v souboru
 migration-passwords-new = Nová hesla
 migration-passwords-updated = Existující hesla
-
 migration-passwords-from-file-no-valid-data = Soubor neobsahuje žádná platná data s přihlašovacími údaji. Vyberte jiný soubor.
-
 migration-passwords-from-file-picker-title = Import souboru s hesly
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Soubor TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -106,7 +97,6 @@ migration-wizard-progress-success-new-passwords =
         [many] { $newEntries } přidaných
        *[other] { $newEntries } přidaných
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -119,14 +109,11 @@ migration-wizard-progress-success-updated-passwords =
         [many] { $updatedEntries } aktualizovaných
        *[other] { $updatedEntries } aktualizovaných
     }
-
 migration-bookmarks-from-file-picker-title = Importu souboru záložek
 migration-bookmarks-from-file-progress-header = Probíhá import záložek
 migration-bookmarks-from-file = Záložky
 migration-bookmarks-from-file-success-header = Záložky byly úspěšně naimportovány
-
 migration-bookmarks-from-file-no-valid-data = Soubor neobsahuje žádná data záložek. Vyberte jiný soubor.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -134,11 +121,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Dokument HTML
        *[other] Soubor HTML
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Soubor JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -151,14 +136,12 @@ migration-wizard-progress-success-new-bookmarks =
         [many] { $newEntries } záložek
        *[other] { $newEntries } záložek
     }
-
 migration-import-button-label = Importovat
 migration-choose-to-import-from-file-button-label = Importovat ze souboru
 migration-import-from-file-button-label = Vybrat soubor
 migration-cancel-button-label = Zrušit
 migration-done-button-label = Hotovo
 migration-continue-button-label = Pokračovat
-
 migration-wizard-import-browser-no-browsers =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } nenašel žádné programy, které obsahují záložky, historii nebo přihlašovací údaje.
@@ -175,7 +158,6 @@ migration-wizard-import-browser-no-resources = Nastala chyba. { -brand-short-nam
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = záložky
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = oblíbené
@@ -188,12 +170,18 @@ migration-list-payment-methods-label = způsoby platby
 ##
 
 migration-wizard-progress-header = Import dat
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Import dat byl úspěšně dokončen
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Import dat byl dokončen
 migration-wizard-progress-icon-in-progress =
     .aria-label = Probíhá import…
 migration-wizard-progress-icon-completed =
     .aria-label = Hotovo
-
 migration-safari-password-import-header = Import hesel ze Safari
 migration-safari-password-import-steps-header = Pro importování hesel ze Safari:
 migration-safari-password-import-step1 = V Safari otevřete nabídku „Safari“ a přejděte na Nastavení > Hesla
@@ -202,8 +190,6 @@ migration-safari-password-import-step3 = Uložte soubor s hesly
 migration-safari-password-import-step4 = Klepněte na „Vybrat soubor“ níže a vyberte uložený soubor s hesly
 migration-safari-password-import-skip-button = Přeskočit
 migration-safari-password-import-select-button = Vybrat soubor
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -216,7 +202,6 @@ migration-wizard-progress-success-bookmarks =
         [many] { $quantity } záložek
        *[other] { $quantity } záložek
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -242,7 +227,6 @@ migration-wizard-progress-success-favorites =
 # Variables:
 #   $quantity (Number): the number of successfully imported extensions
 migration-wizard-progress-success-extensions = { $quantity } rozšíření
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -255,12 +239,10 @@ migration-wizard-progress-partial-success-extensions =
         [few] { $matched } ze { $quantity } rozšíření
        *[other] { $matched } z { $quantity } rozšíření
     }
-
 migration-wizard-progress-extensions-support-link = Zjistěte, jak { -brand-product-name } poznává rozšíření
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Žádná rozpoznaná rozšíření
-
 migration-wizard-progress-extensions-addons-link =
     { -brand-short-name.case-status ->
         [with-cases] Prohledávat rozšíření pro { -brand-short-name(case: "acc") }
@@ -281,7 +263,6 @@ migration-wizard-progress-success-passwords =
         [many] { $quantity } hesel
        *[other] { $quantity } hesel
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -294,9 +275,7 @@ migration-wizard-progress-success-history =
         [many] Za posledních { $maxAgeInDays } dní
        *[other] Za posledních { $maxAgeInDays } dní
     }
-
 migration-wizard-progress-success-formdata = Historie formulářů
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -309,7 +288,6 @@ migration-wizard-progress-success-payment-methods =
         [many] { $quantity } způsobů platby
        *[other] { $quantity } způsobů platby
     }
-
 migration-wizard-safari-permissions-sub-header = Pro importování záložek a historie prohlížení ze Safari:
 migration-wizard-safari-instructions-continue = Vyberte „Pokračovat“
 migration-wizard-safari-instructions-folder = Vyberte v seznamu složku Safari a zvolte „Otevřít“
