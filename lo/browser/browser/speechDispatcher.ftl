@@ -9,6 +9,7 @@
 speech-dispatcher-lib-missing = ທ່ານບໍ່ສາມາດໃຊ້ການສັງເຄາະສຽງເວົ້າໄດ້ ເພາະວ່າ library Speech Dispatcher ຂາດຫາຍໄປ.
 speech-dispatcher-lib-too-old = ທ່ານບໍ່ສາມາດໃຊ້ການສັງເຄາະສຽງເວົ້າໄດ້ ເພາະວ່າ Speech Dispatcher ຕ້ອງໄດ້ຮັບການອັບເດດ.
 speech-dispatcher-missing-symbol = ທ່ານບໍ່ສາມາດໃຊ້ການສັງເຄາະສຽງເວົ້າໄດ້ເນື່ອງຈາກ library Speech Dispatcher ເສຍຫາຍ.
+speech-dispatcher-open-fail = ທ່ານບໍ່ສາມາດໃຊ້ການສັງເຄາະສຽງເວົ້າໄດ້ ເພາະວ່າ Speech Dispatcher ຈະບໍ່ເປີດ.
 speech-dispatcher-dismiss-button =
     .label = ຢ່າສະແດງອີກ
     .accesskey = D
