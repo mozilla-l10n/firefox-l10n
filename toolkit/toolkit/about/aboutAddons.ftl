@@ -368,6 +368,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Na sedłach z wobgranicowanjami wuwjasć
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Jolic dowólone, ma rozšyrjenje pśistup k sedłam, kótarež su wót { -vendor-short-name } wobgranicowane. Dowólśo to jano, jolic toś tomu rozšyrjenjeju dowěriśo.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Dowóliś
 addon-detail-quarantined-domains-disallow = Njedowóliś
