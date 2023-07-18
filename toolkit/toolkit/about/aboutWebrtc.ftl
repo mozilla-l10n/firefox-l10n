@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Side bewarre
 about-webrtc-debug-mode-msg-label = Debugmodus
 about-webrtc-debug-mode-off-state-label = Debugmodus starte
 about-webrtc-debug-mode-on-state-label = Debugmodus stopje
+about-webrtc-enable-logging-label = WebRTC-lochboekfoarynstelling ynskeakelje
 about-webrtc-stats-heading = Sesjestatistiken
 about-webrtc-stats-clear = Skiednis wiskje
 about-webrtc-log-heading = Ferbiningslochboek
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = side bewarre yn: { $path }
 about-webrtc-debug-mode-off-state-msg = trasearlochboek is te finen yn: { $path }
 about-webrtc-debug-mode-on-state-msg = debugmodus aktyf, trasearlochboek yn: { $path }
 about-webrtc-aec-logging-off-state-msg = fêstleine lochbestannen binne te finen yn: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Side bewarre yn: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trasearlochboek is te finen yn: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debugmodus aktyf, trasearlochboek yn: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,6 +309,9 @@ about-webrtc-hide-msg-sdp = SDP ferstopje
 about-webrtc-media-context-show-msg = Mediakontekst toane
 about-webrtc-media-context-hide-msg = Mediakontekst ferstopje
 about-webrtc-media-context-heading = Mediakontekst
+
+##
+
 
 ##
 
