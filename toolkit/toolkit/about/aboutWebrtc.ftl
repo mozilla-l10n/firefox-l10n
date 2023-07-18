@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Seite speichern
 about-webrtc-debug-mode-msg-label = Debug-Modus
 about-webrtc-debug-mode-off-state-label = Debug-Modus starten
 about-webrtc-debug-mode-on-state-label = Debug-Modus beenden
+about-webrtc-enable-logging-label = WebRTC-Protokollvoreinstellung aktivieren
 about-webrtc-stats-heading = Sitzungsstatistiken
 about-webrtc-stats-clear = Chronik löschen
 about-webrtc-log-heading = Verbindungsprotokoll
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = Seite gespeichert als: { $path }
 about-webrtc-debug-mode-off-state-msg = Das Ablaufprotokoll befindet sich in: { $path }
 about-webrtc-debug-mode-on-state-msg = Debug-Modus aktiv, Ablaufprotokoll in: { $path }
 about-webrtc-aec-logging-off-state-msg = Gespeicherte Protokolldateien befinden sich in: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Seite gespeichert als: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Das ablaufprotokoll befindet sich in: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debug-modus aktiv, ablaufprotokoll in: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,6 +309,9 @@ about-webrtc-hide-msg-sdp = SDP ausblenden
 about-webrtc-media-context-show-msg = Medienkontext anzeigen
 about-webrtc-media-context-hide-msg = Medienkontext verbergen
 about-webrtc-media-context-heading = Medienkontext
+
+##
+
 
 ##
 
