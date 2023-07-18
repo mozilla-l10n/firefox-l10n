@@ -164,7 +164,14 @@ migration-list-payment-methods-label = płaśeńske metody
 ##
 
 migration-wizard-progress-header = Daty se importěruju
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Daty su se wuspěšnje importěrowali
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Importěrowanje datow dokóńćone
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importěrujo se…
 migration-wizard-progress-icon-completed =
