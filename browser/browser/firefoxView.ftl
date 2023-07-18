@@ -141,3 +141,4 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = 顯示所有瀏覽記錄
+firefoxview-view-more-browsing-history = 檢視更多瀏覽紀錄
