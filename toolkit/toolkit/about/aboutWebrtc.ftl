@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = about:webrtc składowaś ako
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Zacynjone PeerConnections pokazaś
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Zacynjone PeerConnections schowaś
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -30,12 +32,18 @@ about-webrtc-aec-logging-toggled-off-state-msg = Móžośo nagrane protokolowe d
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Awtomatiski aktualizěrowaś
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Pó standarźe awtomatiski aktualizěrowaś
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Aktualizěrowaś
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = ID PeerConnection:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Datowe kanale wócynjone:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Datowe kanale zacynjone:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -102,6 +110,7 @@ about-webrtc-log-section-show-msg = Protokol pokazaś
 about-webrtc-log-section-hide-msg = Protokol schowaś
     .title = Klikniśo, aby toś ten wótrězk schował
 about-webrtc-copy-report-button = Rozpšawu kopěrowaś
+about-webrtc-copy-report-history-button = Rozpšawnisku historiju kopěrowaś
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -117,6 +126,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (zacynjo
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Słaś / Dostawaś: { $codecs }
+about-webrtc-short-send-direction = Słaś: { $codecs }
+about-webrtc-short-receive-direction = Dostawaś: { $codecs }
 
 ##
 
@@ -210,12 +222,13 @@ about-webrtc-save-page-msg = bok jo se składł do: { $path }
 about-webrtc-debug-mode-off-state-msg = slědowański protokol dajo se namakaś na: { $path }
 about-webrtc-debug-mode-on-state-msg = modus pytanja zmólkow jo aktiwny, slědowański protokol jo na: { $path }
 about-webrtc-aec-logging-off-state-msg = móžośo nagrane protokolowe dataje namakaś w: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Bok jo se składł do: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Slědowański protokol dajo se namakaś na: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modus pytanja zmólkow jo aktiwny, slědowański protokol jo na: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -301,6 +314,12 @@ about-webrtc-hide-msg-sdp = SDP schowaś
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = Medijowy kontekst pokazaś
+about-webrtc-media-context-hide-msg = Medijowy kontekst schowaś
+about-webrtc-media-context-heading = Medijowy kontekst
+
+##
 
 
 ##
