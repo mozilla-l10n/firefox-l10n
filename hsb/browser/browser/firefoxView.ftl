@@ -141,4 +141,4 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Wšu historiju pokazać
-firefoxview-view-more-browsing-history = Dalšu přehladowansku historiju wuprózdnić
+firefoxview-view-more-browsing-history = Dalšu přehladowansku historiju pokazać
