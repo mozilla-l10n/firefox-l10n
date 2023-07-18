@@ -141,3 +141,4 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Alle geschiedenis tonen
+firefoxview-view-more-browsing-history = Meer navigatiegeschiedenis bekijken
