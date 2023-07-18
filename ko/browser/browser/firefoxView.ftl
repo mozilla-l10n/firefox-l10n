@@ -141,3 +141,4 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = 모든 기록 보기
+firefoxview-view-more-browsing-history = 탐색 기록 더보기
