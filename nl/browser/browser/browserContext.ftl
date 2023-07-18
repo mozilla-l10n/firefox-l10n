@@ -160,7 +160,7 @@ main-context-menu-copy-link-simple =
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
     .label = Koppeling zonder websitetracking kopiëren
-    .accesskey = K
+    .accesskey = i
 
 ## Media (video/audio) controls
 ##

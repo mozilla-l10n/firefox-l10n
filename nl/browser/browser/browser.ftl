@@ -21,7 +21,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name }-privénavigatie
     .data-content-title-default = { $content-title } – { -brand-full-name }
     .data-content-title-private = { $content-title } – { -brand-full-name }-privénavigatie
-
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -44,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } – Privénavigatie
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } – Privénavigatie
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name }-privénavigatie
@@ -113,7 +110,6 @@ urlbar-search-tips-confirm-short = Begrepen
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tip:
-
 urlbar-result-menu-button =
     .title = Menu openen
 urlbar-result-menu-button-feedback = Feedback
@@ -135,10 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Minder typen, meer vinden: direct zoeken bij { $engineName } vanaf uw adresbalk.
 urlbar-search-tips-redirect-2 = Begin in de adresbalk met zoeken om suggesties van { $engineName } en uit uw browsergeschiedenis te zien.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Zoeken is nu nog eenvoudiger geworden. Probeer uw zoekopdracht hier in de adresbalk specifieker te maken. Als u in plaats daarvan de URL wilt weergeven, ga dan naar Zoeken in de instellingen.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Selecteer deze snelkoppeling om sneller te vinden wat u nodig hebt.
@@ -176,12 +170,10 @@ urlbar-midi-blocked =
     .tooltiptext = U hebt MIDI-toegang voor deze website geblokkeerd.
 urlbar-install-blocked =
     .tooltiptext = U hebt installatie van add-ons voor deze website geblokkeerd.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Deze bladwijzer bewerken ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,10 +202,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Deze keer zoeken met:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Zoekinstellingen wijzigen
-
 search-one-offs-context-open-new-tab =
     .label = Zoeken in Nieuw tabblad
     .accesskey = t
@@ -223,14 +213,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Als standaardzoekmachine voor privévensters instellen
     .accesskey = p
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -267,71 +255,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Add-ons bekijken
 quickactions-cmd-addons2 = add-ons
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Bladwijzers beheren
 quickactions-cmd-bookmarks = bladwijzers
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Geschiedenis wissen
 quickactions-cmd-clearhistory = geschiedenis wissen
-
 # Opens about:downloads page
 quickactions-downloads2 = Downloads bekijken
 quickactions-cmd-downloads = downloads
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Extensies beheren
 quickactions-cmd-extensions = extensies
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Ontwikkelaarshulpmiddelen openen
 quickactions-cmd-inspector = inspector, devtools
-
 # Opens about:logins
 quickactions-logins2 = Wachtwoorden beheren
 quickactions-cmd-logins = aanmeldingen, wachtwoorden
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Plug-ins beheren
 quickactions-cmd-plugins = plug-ins
-
 # Opens the print dialog
 quickactions-print2 = Pagina afdrukken
 quickactions-cmd-print = afdrukken
-
 # Opens a new private browsing window
 quickactions-private2 = Privévenster openen
 quickactions-cmd-private = privénavigatie
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } opfrissen
 quickactions-cmd-refresh = vernieuwen
-
 # Restarts the browser
 quickactions-restart = { -brand-short-name } herstarten
 quickactions-cmd-restart = herstarten
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Een schermafbeelding maken
 quickactions-cmd-screenshot = schermafbeelding
-
 # Opens about:preferences
 quickactions-settings2 = Instellingen beheren
 quickactions-cmd-settings = instellingen, voorkeuren, opties
-
 # Opens about:addons page in the themes section
 quickactions-themes = Thema’s beheren
 quickactions-cmd-themes = thema’s
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } bijwerken
 quickactions-cmd-update = bijwerken
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Paginabron bekijken
 quickactions-cmd-viewsource = bron bekijken, bron
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Meer info over Snelle acties
@@ -357,7 +328,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = E
 bookmark-panel-save-button =
     .label = Opslaan
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -385,9 +355,9 @@ identity-passive-loaded = Onderdelen van deze pagina zijn niet beveiligd (zoals 
 identity-active-loaded = U hebt bescherming op deze pagina uitgeschakeld.
 identity-weak-encryption = Deze pagina gebruikt zwakke versleuteling.
 identity-insecure-login-forms = Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.
-
 identity-https-only-connection-upgraded = (geüpgraded naar HTTPS)
 identity-https-only-label = Alleen-HTTPS-modus
+identity-https-only-label2 = Deze site automatisch naar een beveiligde verbinding upgraden
 identity-https-only-dropdown-on =
     .label = Aan
 identity-https-only-dropdown-off =
@@ -396,12 +366,12 @@ identity-https-only-dropdown-off-temporarily =
     .label = Tijdelijk uit
 identity-https-only-info-turn-on2 = Schakel Alleen-HTTPS voor deze website in als u wilt dat { -brand-short-name } indien mogelijk de verbinding upgradet.
 identity-https-only-info-turn-off2 = Als de website niet lijkt te werken, dan kunt u proberen de Alleen-HTTPS-modus voor deze website uit te schakelen en de pagina te vernieuwen met het onveilige HTTP.
+identity-https-only-info-turn-on3 = Schakel upgrades naar HTTPS voor deze website in als u wilt dat { -brand-short-name } indien mogelijk de verbinding upgradet.
+identity-https-only-info-turn-off3 = Als de website niet lijkt te werken, dan kunt u proberen de HTTPS-upgrade voor deze website uit te schakelen en de pagina te vernieuwen met het onveilige HTTP.
 identity-https-only-info-no-upgrade = Kan HTTP-verbinding niet upgraden.
-
 identity-permissions-storage-access-header = Cross-sitecookies
 identity-permissions-storage-access-hint = Deze partijen kunnen tijdens uw bezoek aan deze website cross-sitecookies en websitegegevens gebruiken.
 identity-permissions-storage-access-learn-more = Meer info
-
 identity-permissions-reload-hint = Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.
 identity-clear-site-data =
     .label = Cookies en websitegegevens wissen…
@@ -463,14 +433,12 @@ browser-tab-mute =
         [one] TABBLAD DEMPEN
        *[other] { $count } TABBLADEN DEMPEN
     }
-
 browser-tab-unmute =
     { $count ->
         [1] TABBLAD DEMPEN OPHEFFEN
         [one] TABBLAD DEMPEN OPHEFFEN
        *[other] { $count } TABBLADEN DEMPEN OPHEFFEN
     }
-
 browser-tab-unblock =
     { $count ->
         [1] TABBLAD AFSPELEN
@@ -483,7 +451,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Bladwijzers importeren…
     .tooltiptext = Bladwijzers uit een andere browser naar { -brand-short-name } importeren.
-
 bookmarks-toolbar-empty-message = Plaats voor snelle toegang uw bladwijzers hier op de bladwijzerwerkbalk. <a data-l10n-name="manage-bookmarks">Bladwijzers beheren…</a>
 
 ## WebRTC Pop-up notifications
@@ -524,7 +491,6 @@ enable-devtools-popup-description2 = Open eerst DevTools in het menu Extra van d
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Voer zoekterm of adres in
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -533,7 +499,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Zoeken op het web
     .aria-label = Zoeken met { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -542,32 +507,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken op { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in bladwijzers
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in geschiedenis
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Voer zoektermen in
     .aria-label = Zoeken in tabbladen
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Voer zoektermen in
     .aria-label = Zoekacties
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Voer zoekterm voor { $name } of adres in
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -577,11 +536,9 @@ urlbar-permissions-granted =
     .tooltiptext = U hebt deze website aanvullende toestemmingen gegeven.
 urlbar-switch-to-tab =
     .value = Wisselen naar tabblad:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
-
 urlbar-go-button =
     .tooltiptext = Naar het adres in de locatiebalk gaan
 urlbar-page-action-button =
@@ -649,14 +606,12 @@ urlbar-result-action-search-actions = Zoekacties
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine }-suggesties
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Snelle acties
@@ -676,10 +631,8 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Picture-in-picture openen ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Picture-in-picture sluiten ({ $shortcut })
-
 picture-in-picture-panel-header = Picture-in-Picture
 picture-in-picture-panel-headline = Deze website raadt Picture-in-Picture niet aan
 picture-in-picture-panel-body = Video’s worden mogelijk niet getoond zoals de ontwikkelaar het bedoeld heeft, terwijl Picture-in-Picture is ingeschakeld.
@@ -693,19 +646,14 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> gebruikt nu het volledige scherm
 fullscreen-warning-no-domain = Dit document gebruikt nu het volledige scherm
-
-
 fullscreen-exit-button = Volledig scherm verlaten (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Volledig scherm verlaten (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> heeft de controle over uw aanwijzer. Druk op Esc om de controle weer over te nemen.
 pointerlock-warning-no-domain = Dit document heeft de controle over uw aanwijzer. Druk op Esc om de controle weer over te nemen.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -760,7 +708,6 @@ bookmarks-tools =
     .label = Bladwijzerhulpmiddelen
 bookmarks-subview-edit-bookmark =
     .label = Deze bladwijzer bewerken…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -774,7 +721,6 @@ bookmarks-toolbar-placeholder =
     .title = Bladwijzerwerkbalkitems
 bookmarks-toolbar-placeholder-button =
     .label = Bladwijzerwerkbalkitems
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Bladwijzer voor huidige tabblad maken…
@@ -809,35 +755,28 @@ toolbar-settings-button =
             [macos] Instellingen openen ({ $shortcut })
            *[other] Instellingen openen
         }
-
 toolbar-overflow-customize-button =
     .label = Werkbalk aanpassen…
     .accesskey = a
-
 toolbar-button-email-link =
     .label = Koppeling e-mailen
     .tooltiptext = Een koppeling naar deze pagina e-mailen
-
 toolbar-button-logins =
     .label = Wachtwoorden
     .tooltiptext = Uw opgeslagen wachtwoorden bekijken en beheren
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Pagina opslaan
     .tooltiptext = Deze pagina opslaan ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Bestand openen
     .tooltiptext = Een bestand openen ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Gesynchroniseerde tabbladen
     .tooltiptext = Tabbladen van andere apparaten tonen
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -857,8 +796,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = S
 panel-save-update-username = Gebruikersnaam
 panel-save-update-password = Wachtwoord
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -873,7 +810,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Pop-ups van { $uriHost } toestaan
     .accesskey = P
-
 popups-infobar-block =
     .label = Pop-ups van { $uriHost } blokkeren
     .accesskey = P
@@ -883,11 +819,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Dit bericht niet tonen wanneer pop-ups worden geblokkeerd
     .accesskey = n
-
 edit-popup-settings =
     .label = Pop-upinstellingen beheren…
     .accesskey = b
-
 picture-in-picture-hide-toggle =
     .label = Picture-in-picture-knop verbergen
     .accesskey = v
@@ -898,7 +832,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Picture-in-picture-schakelaar naar de rechterzijde verplaatsen
     .accesskey = z
-
 picture-in-picture-move-toggle-left =
     .label = Picture-in-picture-schakelaar naar de linkerzijde verplaatsen
     .accesskey = j
@@ -913,39 +846,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigatie
-
 navbar-downloads =
     .label = Downloads
-
 navbar-overflow =
     .tooltiptext = Meer hulpmiddelen…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Afdrukken
     .tooltiptext = Deze pagina afdrukken… ({ $shortcut })
-
 navbar-home =
     .label = Startpagina
     .tooltiptext = { -brand-short-name }-startpagina
-
 navbar-library =
     .label = Bibliotheek
     .tooltiptext = Geschiedenis, opgeslagen bladwijzers en meer bekijken
-
 navbar-search =
     .title = Zoeken
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Browsertabbladen
-
 tabs-toolbar-new-tab =
     .label = Nieuw tabblad
-
 tabs-toolbar-list-all-tabs =
     .label = Alle tabbladtitels tonen
     .tooltiptext = Alle tabbladtitels tonen
@@ -962,7 +886,6 @@ data-reporting-notification-message = { -brand-short-name } verzendt automatisch
 data-reporting-notification-button =
     .label = Kiezen wat ik deel
     .accesskey = K
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privénavigatie
 
@@ -994,21 +917,16 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = { -brand-short-name } heeft voorkomen dat deze pagina automatisch werd herladen.
 refresh-blocked-redirect-label = { -brand-short-name } heeft voorkomen dat deze pagina automatisch werd doorgestuurd naar een andere pagina.
-
 refresh-blocked-allow =
     .label = Toestaan
     .accesskey = T
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = Onze veilige, gebruiksvriendelijke maskers beschermen uw identiteit en voorkomen spam door uw e-mailadres te verbergen.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Alle e-mailberichten die naar uw e-mailmaskers worden verzonden, worden doorgestuurd naar <strong>{ $useremail }</strong> (tenzij u besluit ze te blokkeren).
-
 firefox-relay-offer-legal-notice = Door op ‘E-mailmasker gebruiken’ te klikken, gaat u akkoord met de <label data-l10n-name="tos-url">Servicevoorwaarden</label> en <label data-l10n-name="privacy-url">Privacyverklaring</label>.
 
 ## Add-on Pop-up Notifications
@@ -1041,7 +959,6 @@ popup-warning-button =
             [windows] O
            *[other] V
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

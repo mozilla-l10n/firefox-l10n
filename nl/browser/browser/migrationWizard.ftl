@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Browsergegevens importeren
 migration-wizard-selection-list = Selecteer de gegevens die u wilt importeren.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Selecteer de gegevens die u wilt importeren.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = Geselecteerde gegevens importeren
 
 migration-select-all-option-label = Alles selecteren
 migration-bookmarks-option-label = Bladwijzers
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorieten
-
 migration-logins-and-passwords-option-label = Opgeslagen aanmeldingen en wachtwoorden
 migration-history-option-label = Navigatiegeschiedenis
 migration-extensions-option-label = Extensies
 migration-form-autofill-option-label = Gegevens voor automatisch invullen van formulieren
 migration-payment-methods-option-label = Betalingsmethoden
-
 migration-cookies-option-label = Cookies
 migration-session-option-label = Vensters en tabbladen
 migration-otherdata-option-label = Andere gegevens
-
 migration-passwords-from-file-progress-header = Wachtwoordenbestand importeren
 migration-passwords-from-file-success-header = Wachtwoorden met succes geïmporteerd
 migration-passwords-from-file = Bestand wordt gecontroleerd op wachtwoorden
 migration-passwords-new = Nieuwe wachtwoorden
 migration-passwords-updated = Bestaande wachtwoorden
-
 migration-passwords-from-file-no-valid-data = Het bestand bevat geen geldige wachtwoordgegevens. Kies een ander bestand.
-
 migration-passwords-from-file-picker-title = Wachtwoordenbestand importeren
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-document
        *[other] TSV-bestand
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -104,7 +95,6 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } toegevoegd
        *[other] { $newEntries } toegevoegd
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -115,14 +105,11 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } bijgewerkt
        *[other] { $updatedEntries } bijgewerkt
     }
-
 migration-bookmarks-from-file-picker-title = Bladwijzerbestand importeren
 migration-bookmarks-from-file-progress-header = Bladwijzers importeren
 migration-bookmarks-from-file = Bladwijzers
 migration-bookmarks-from-file-success-header = Bladwijzers met succes geïmporteerd
-
 migration-bookmarks-from-file-no-valid-data = Het bestand bevat geen bladwijzergegevens. Kies een ander bestand.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -130,11 +117,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-document
        *[other] HTML-bestand
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-bestand
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -145,14 +130,12 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } bladwijzer
        *[other] { $newEntries } bladwijzers
     }
-
 migration-import-button-label = Importeren
 migration-choose-to-import-from-file-button-label = Uit bestand importeren
 migration-import-from-file-button-label = Bestand selecteren
 migration-cancel-button-label = Annuleren
 migration-done-button-label = Gereed
 migration-continue-button-label = Doorgaan
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } kan geen programma’s met bladwijzer-, geschiedenis- of wachtwoordgegevens vinden.
 migration-wizard-import-browser-no-resources = Er is een fout opgetreden. { -brand-short-name } kan geen uit dat browserprofiel te importeren gegevens vinden.
 
@@ -163,7 +146,6 @@ migration-wizard-import-browser-no-resources = Er is een fout opgetreden. { -bra
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = bladwijzers
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favorieten
@@ -176,12 +158,18 @@ migration-list-payment-methods-label = betalingsmethoden
 ##
 
 migration-wizard-progress-header = Gegevens importeren
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Gegevens met succes geïmporteerd
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Gegevensimport voltooid
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importeren…
 migration-wizard-progress-icon-completed =
     .aria-label = Voltooid
-
 migration-safari-password-import-header = Wachtwoorden uit Safari importeren
 migration-safari-password-import-steps-header = Safari-wachtwoorden importeren:
 migration-safari-password-import-step1 = Open in Safari het menu ‘Safari’ en ga naar Voorkeuren > Wachtwoorden
@@ -190,8 +178,6 @@ migration-safari-password-import-step3 = Sla het wachtwoordenbestand op
 migration-safari-password-import-step4 = Gebruik ‘Bestand selecteren’ hieronder om het wachtwoordenbestand dat u hebt opgeslagen te kiezen
 migration-safari-password-import-skip-button = Overslaan
 migration-safari-password-import-select-button = Bestand selecteren
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -202,7 +188,6 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } bladwijzer
        *[other] { $quantity } bladwijzers
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -230,7 +215,6 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } extensie
        *[other] { $quantity } extensies
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -238,12 +222,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } van { $quantity } extensies
-
 migration-wizard-progress-extensions-support-link = Ontdek hoe { -brand-product-name } extensies matcht
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Geen overeenkomende extensies
-
 migration-wizard-progress-extensions-addons-link = Door extensies voor { -brand-short-name } bladeren
 
 ##
@@ -258,7 +240,6 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } wachtwoord
        *[other] { $quantity } wachtwoorden
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -269,9 +250,7 @@ migration-wizard-progress-success-history =
         [one] Van de afgelopen dag
        *[other] Van de afgelopen { $maxAgeInDays } dagen
     }
-
 migration-wizard-progress-success-formdata = Formuliergeschiedenis
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -282,7 +261,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } betalingsmethode
        *[other] { $quantity } betalingsmethoden
     }
-
 migration-wizard-safari-permissions-sub-header = Safari-bladwijzers en navigatiegeschiedenis importeren:
 migration-wizard-safari-instructions-continue = Selecteer ‘Doorgaan’
 migration-wizard-safari-instructions-folder = Selecteer de map Safari in de lijst en kies ‘Openen’
