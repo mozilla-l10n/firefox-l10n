@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Bok składowaś
 about-webrtc-debug-mode-msg-label = Modus pytanja zmólkow
 about-webrtc-debug-mode-off-state-label = Modus pytanja zmólkow startowaś
 about-webrtc-debug-mode-on-state-label = Modus pytanja zmólkow zastajiś
+about-webrtc-enable-logging-label = Protokolowe pśednastajenje WebRTC zmóžniś
 about-webrtc-stats-heading = Pósejźeńska statistika
 about-webrtc-stats-clear = Historiju wuprozniś
 about-webrtc-log-heading = Zwiskowy protokol
