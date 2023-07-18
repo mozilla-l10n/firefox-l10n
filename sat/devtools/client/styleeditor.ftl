@@ -8,12 +8,19 @@ styleeditor-new-button =
 styleeditor-import-button =
     .tooltiptext = ᱫᱚᱞᱤᱞ ᱨᱮ ᱢᱤᱛ ᱢᱮᱱᱟᱜᱟᱜ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱟᱹᱜᱩ ᱟᱨ ᱟᱠᱟᱭ ᱢᱮ
     .accesskey = I
+styleeditor-filter-input =
+    .placeholder = ᱥᱴᱟᱭᱤᱞ ᱥᱤᱴᱠᱚ ᱪᱷᱟᱹᱱᱤ ᱢᱮ
 styleeditor-visibility-toggle =
     .tooltiptext = ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱧᱮᱞᱚᱚᱜᱟᱜ ᱛᱚᱞ ᱢᱮ
     .accesskey = S
+styleeditor-visibility-toggle-system =
+    .tooltiptext = ᱥᱤᱥᱴᱚᱢ ᱥᱴᱟᱭᱤᱞ ᱥᱤᱴᱫᱚ ᱵᱚᱸᱫ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
 styleeditor-save-button = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .tooltiptext = ᱢᱤᱛ ᱨᱮᱛ ᱨᱮ ᱱᱚᱣᱟ  ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱥᱟᱸᱪᱟᱣ ᱢᱮ
     .accesskey = S
+styleeditor-options-button =
+    .tooltiptext = ᱥᱴᱟᱭᱤᱞ ᱥᱟᱯᱲᱟᱣᱤᱭᱟᱹ ᱢᱚᱱᱮᱛᱮᱭᱟᱜᱠᱚ
+styleeditor-at-rules = At-rules
 styleeditor-editor-textbox =
     .data-placeholder = ᱱᱚᱰᱮ CSS ᱱᱚᱰᱮ ᱴᱟᱭᱤᱯ ᱢᱮ ᱾
 styleeditor-no-stylesheet = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱡᱟᱦᱟᱱ ᱦᱩᱱᱟᱹᱨ ᱯᱟᱛᱟᱨ ᱵᱟᱹᱱᱩᱜ ᱟ ᱾
@@ -31,7 +38,8 @@ styleeditor-find-again =
 styleeditor-go-to-line =
     .label = ᱜᱟᱨ ᱨᱮ ᱫᱚᱱ …
     .accesskey = J
-
+# Label displayed when searching a term that is not found in any stylesheet path
+styleeditor-stylesheet-all-filtered = ᱪᱮᱫ ᱦᱚᱸ ᱢᱮᱲᱟᱣᱜ ᱠᱟᱱ ᱥᱴᱟᱭᱤᱞ ᱥᱤᱴ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ ᱾
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
