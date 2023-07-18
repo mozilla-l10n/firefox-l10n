@@ -538,7 +538,7 @@ update-setting-write-failure-title2 = Errore durante il salvataggio delle impost
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le impostazioni è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 
 update-in-progress-title = Aggiornamento in corso
@@ -600,6 +600,10 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Utilizza sempre i tasti direzione per navigare nelle pagine
     .accesskey = l
+
+browsing-use-full-keyboard-navigation =
+    .label = Utilizza il tasto di tabulazione (TAB) per spostare la selezione tra i controlli dei moduli e i link
+    .accesskey = u
 
 browsing-search-on-start-typing =
     .label = Cerca nel testo quando si digita qualcosa
