@@ -76,6 +76,16 @@ perftools-thread-compositor =
     .title = ᱥᱟᱦᱴᱟ ᱨᱮ ᱥᱟᱶᱛᱮ ᱵᱷᱮᱜᱟᱨᱼᱵᱷᱮᱜᱟᱨ ᱯᱚᱛᱟᱣ ᱠᱟᱱ ᱱᱟᱹᱢᱩᱱᱟ ᱠᱚᱢᱯᱚᱡᱤᱴᱟᱭ
 perftools-thread-dom-worker =
     .title = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱨᱭᱟ ᱣᱮᱵᱽ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣᱟᱭ
+perftools-thread-renderer =
+    .title = ᱛᱤᱧ ᱡᱷᱚᱜ WebRender ᱮᱢᱪᱷᱚᱜᱼᱟ, OpenGL ᱠᱚᱞ ᱮᱢ ᱪᱷᱚᱭᱤᱡ ᱥᱩᱛᱟᱹᱭᱟᱭ
+perftools-thread-render-backend =
+    .title = WebRender RenderBackend ᱥᱩᱛᱟᱹ
+perftools-thread-timer =
+    .title = ᱥᱩᱛ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱚᱠᱛᱚᱦᱤᱥᱟᱹᱵᱤᱭᱟᱹ (setTimeout, setInterval, nsITimer)
+perftools-thread-style-thread =
+    .title = ᱥᱴᱟᱴᱚᱥ ᱠᱚᱢᱯᱭᱩᱴᱮᱥᱚᱱ ᱫᱚ ᱟᱭᱢᱟᱸ ᱥᱩᱛᱟᱹ ᱨᱮ ᱵᱷᱟᱜᱽ ᱮᱱᱟ
+pref-thread-stream-trans =
+    .title = ᱱᱮᱴᱣᱟᱨᱠ ᱥᱴᱨᱮᱢ ᱴᱨᱟᱱᱥᱯᱚᱴ
 
 ##
 
