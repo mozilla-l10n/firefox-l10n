@@ -29,24 +29,53 @@ perftools-heading-local-build = ᱞᱚᱠᱟᱞ ᱛᱮᱭᱟᱨ
 perftools-description-intro =
     ᱨᱮᱠᱚᱰᱤᱝᱥ <a>profiler.firefox.com</a> ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾ ᱡᱷᱚᱛᱚ ᱰᱟᱴᱟ ᱫᱚ ᱞᱚᱠᱟᱞ ᱨᱮ ᱫᱚᱦᱚᱜᱼᱟ,
     ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱫᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+perftools-description-local-build =
+    ᱡᱩᱫᱤ ᱟᱢ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢᱛᱮᱜᱮ ᱠᱚᱢᱯᱟᱭᱤᱞ ᱠᱟᱫᱟᱢ, 
+    ᱡᱩᱫᱤ ᱱᱚᱣᱟ ᱢᱮᱥᱤᱱ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ objdir ᱫᱚ ᱞᱤᱥᱴᱤ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱵᱤᱵᱨᱚᱬ ᱨᱮ ᱯᱟᱱᱛᱮ ᱜᱟᱱᱚᱜ ᱢᱟᱸ ᱾
 
 ## The controls for the interval at which the profiler samples the code.
 
+perftools-range-interval-label = ᱥᱮᱢᱯᱞᱤᱝ ᱤᱱᱴᱚᱨᱵᱷᱟᱞ ᱺ
+perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 2) } ms
 
 ##
 
+# The size of the memory buffer used to store things in the profiler.
+perftools-range-entries-label = ᱵᱚᱵᱷᱚᱨ ᱢᱟᱯ ᱺ
+perftools-custom-threads-label = ᱧᱩᱛᱩᱢ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱚᱥᱴᱚᱢ ᱥᱩᱛᱟᱹ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱺ
+perftools-devtools-interval-label = ᱤᱱᱴᱚᱨᱵᱷᱟᱞ ᱺ
+perftools-devtools-threads-label = ᱥᱩᱛᱟᱹ ᱺ
+perftools-devtools-settings-label = ᱥᱟᱡᱟᱣ ᱠᱚ
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
+perftools-status-recording-stopped-by-another-tool = ᱮᱴᱟᱜ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱛᱮ ᱨᱮᱠᱚᱚᱰᱤᱝᱥ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾
+perftools-status-restart-required = ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱮᱢᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
+perftools-request-to-stop-profiler = ᱨᱮᱠᱚᱰᱤᱝ ᱵᱚᱸᱫᱚᱜ ᱠᱟᱱᱟ
+perftools-request-to-get-profile-and-stop-profiler = ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱤᱫᱤᱜ ᱠᱟᱱᱟ
 
 ##
 
+perftools-button-start-recording = ᱨᱮᱠᱚᱰᱤᱝ ᱮᱦᱚᱵ ᱢᱮ
+perftools-button-capture-recording = ᱨᱮᱠᱚᱰᱤᱝ ᱠᱮᱯᱪᱚᱨᱚᱜ ᱠᱟᱱᱟ
+perftools-button-cancel-recording = ᱨᱮᱠᱚᱰᱤᱝᱥ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+perftools-button-save-settings = ᱥᱟᱡᱟᱣᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱢᱮ ᱟᱨ ᱛᱟᱭᱚᱢᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ
+perftools-button-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
+perftools-button-add-directory = ᱢᱤᱫᱴᱟᱹᱝ ᱰᱟᱭᱨᱮᱠᱴᱚᱨ ᱥᱮᱞᱮᱫ ᱢᱮ
+perftools-button-remove-directory = ᱵᱟᱪᱷᱟᱣ ᱚᱪᱚᱜᱽ ᱢᱮ
+perftools-button-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
 
 ## These messages are descriptions of the threads that can be enabled for the profiler.
 
+perftools-thread-gecko-main =
+    .title = ᱵᱟᱨᱭᱟ ᱯᱮᱨᱮᱱᱴ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ, ᱟᱨ ᱡᱤᱱᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱢᱩᱞ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ
+perftools-thread-compositor =
+    .title = ᱥᱟᱦᱴᱟ ᱨᱮ ᱥᱟᱶᱛᱮ ᱵᱷᱮᱜᱟᱨᱼᱵᱷᱮᱜᱟᱨ ᱯᱚᱛᱟᱣ ᱠᱟᱱ ᱱᱟᱹᱢᱩᱱᱟ ᱠᱚᱢᱯᱚᱡᱤᱴᱟᱭ
+perftools-thread-dom-worker =
+    .title = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱨᱭᱟ ᱣᱮᱵᱽ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱟᱨ ᱥᱚᱨᱵᱷᱤᱥ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣᱟᱭ
 
 ##
 
