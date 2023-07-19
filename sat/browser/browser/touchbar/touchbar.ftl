@@ -19,7 +19,6 @@ open-location = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸ
 share = ᱦᱟᱹᱴᱤᱧ ᱢᱮ
 close-window = ᱡᱷᱚᱨᱠᱟ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
 open-sidebar = ᱫᱷᱟᱨᱮ ᱵᱟᱨ
-
 # This string describes shortcuts for search.
 search-popover = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Describes searches limited to a specific scope

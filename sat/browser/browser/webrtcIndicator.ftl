@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = ᱴᱮᱵᱽ
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱢᱩᱞ
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = ᱨᱮᱵᱽ ᱦᱟᱹᱴᱤᱧ ᱥᱟᱫᱷᱚᱱ ᱠᱚ
     .accesskey = d
-
 webrtc-sharing-window = ᱟᱢ ᱫᱚ ᱮᱴᱟᱜ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱣᱤᱱᱰᱚ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾
 webrtc-sharing-browser-window = ᱟᱢ ᱫᱚ { -brand-short-name } ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾
 webrtc-sharing-screen = ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱯᱩᱨᱟᱹ ᱥᱠᱨᱤᱱ ᱦᱟᱹᱴᱤᱧ ᱮᱫᱟᱢ ᱾
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱢᱮ
 webrtc-indicator-menuitem-control-sharing-on =
     .label = “{ $streamTitle }” ᱨᱮ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱠᱮᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -102,7 +93,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱠᱚᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱠᱮᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -111,7 +101,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [one] { $tabCount } ᱢᱟᱭᱠᱨᱚᱯᱷᱚ ᱥᱟᱶ ᱠᱚᱢᱨᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -120,7 +109,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -129,7 +117,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱯᱚᱨᱫᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -138,7 +125,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [one] { $tabCount } ᱴᱮᱵᱽ ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
            *[other] { $tabCount } ᱴᱮᱵᱽ ᱠᱚ ᱥᱟᱶ ᱡᱷᱚᱨᱠᱟ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = “{ $streamTitle }” ᱥᱟᱶ ᱴᱮᱵᱽ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -161,7 +147,7 @@ webrtc-allow-share-screen = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱫ�
 # another audio output connection.
 webrtc-allow-share-speaker = { $origin } ᱫᱚ ᱮᱴᱟᱜ ᱥᱯᱤᱠᱚᱨ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱣᱟᱭᱮᱢ ?
 webrtc-allow-share-camera-and-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱟᱨ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱣᱟᱭᱟᱢ ᱥᱮ ?
-webrtc-allow-share-camera-and-audio-capture = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱵᱮᱵᱷᱟᱨ ᱪᱷᱚᱞᱟᱭᱮᱢ ᱟᱨ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱮᱰᱮ ᱟᱧᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜ ᱦᱮᱥᱤᱭᱟᱹᱨ ᱮᱢᱟᱭᱟᱢ ᱥᱮ ?
+webrtc-allow-share-camera-and-audio-capture = { $origin } ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱵᱮᱵᱷᱟᱨ ᱦᱚᱪᱚ ᱞᱟ.ᱜᱤᱫ ᱟᱨ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱥᱮᱰᱮ ᱟᱸᱡᱚᱢ ᱫᱟᱲᱮᱭᱟᱜ ᱞᱟ.ᱜᱤᱫ ᱟᱸᱫᱮ ᱮᱢ ᱢᱮ ?
 webrtc-allow-share-screen-and-microphone = { $origin } ᱫᱚ ᱟᱢᱟᱜ ᱢᱤᱠᱨᱳᱯᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱟᱨ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱥᱮ?
 webrtc-allow-share-screen-and-audio-capture = { $origin } ᱫᱚ ᱱᱚᱶᱟ ᱴᱟᱵᱽ ᱥᱟᱰᱮ ᱟᱨ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱫᱼᱟᱭ ᱥᱮ ?
 
@@ -185,7 +171,6 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = { $origin } ᱫ�
 
 webrtc-share-screen-warning = ᱠᱷᱟᱹᱞᱤ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱣᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴᱠᱚ ᱴᱷᱮᱱ ᱥᱠᱨᱤᱱ ᱦᱟᱹᱴᱤᱧ ᱢᱮ ᱾ ᱦᱟᱹᱴᱤᱧ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱮᱲᱮ ᱥᱟᱭᱤᱴᱠᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱰᱟᱴᱟ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 webrtc-share-browser-warning = { -brand-short-name } ᱫᱚ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱣᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴᱠᱚ ᱥᱟᱞᱟᱜ ᱜᱮ ᱦᱟᱹᱴᱤᱧ ᱢᱮ ᱦᱟᱹᱴᱤᱧ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱮᱲᱮ ᱥᱟᱭᱤᱴᱠᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱰᱟᱴᱟ ᱠᱚ ᱧᱮᱞ ᱟᱨ ᱠᱩᱢᱵᱽᱲᱩ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
-
 webrtc-share-screen-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 webrtc-pick-window-or-screen = ᱡᱷᱚᱨᱠᱟ ᱥᱮ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 webrtc-share-entire-screen = ᱛᱚᱴᱟ ᱯᱚᱨᱫᱟ
@@ -221,7 +206,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = ᱱᱚᱶᱟ ᱩᱫᱩᱜ ᱩᱭᱦᱟᱹᱨ ᱢᱮ
 webrtc-mute-notifications-checkbox = ᱦᱟᱹᱴᱤᱧ ᱡᱷᱚᱜ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱷᱚᱵᱚᱨ ᱠᱚ ᱪᱩᱯ ᱪᱷᱚᱭ ᱢᱮ
-
 webrtc-reason-for-no-permanent-allow-screen = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱛᱮ ᱡᱷᱚᱛᱚ ᱫᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱚᱠ ᱵᱟᱭ ᱮᱢᱚᱜᱼᱟᱭ ᱾
 webrtc-reason-for-no-permanent-allow-audio = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱨᱮᱭᱟᱜ ᱥᱟᱰᱮ ᱠᱚ ᱟᱢᱟᱜ ᱵᱤᱱ ᱠᱩᱞᱤ ᱛᱮ ᱡᱷᱚᱛᱚ ᱫᱤᱱ ᱞᱟᱹᱜᱤᱫ ᱦᱚᱠ ᱵᱟᱭ ᱮᱢᱚᱜᱼᱟᱭ ᱾
 webrtc-reason-for-no-permanent-allow-insecure = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱵᱟᱭ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱟ ᱾ ᱟᱢ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ, { -brand-short-name } ᱫᱚ ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱨᱟᱭ ᱾
