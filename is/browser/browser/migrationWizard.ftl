@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Flytja inn vafragögn
 migration-wizard-selection-list = Veldu gögnin sem þú vilt flytja inn.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Veldu gögnin sem þú vilt flytja inn.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = Flytja inn valin gögn
 
 migration-select-all-option-label = Velja allt
 migration-bookmarks-option-label = Bókamerki
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Eftirlæti
-
 migration-logins-and-passwords-option-label = Vistaðar innskráningar og lykilorð
 migration-history-option-label = Vafurferill
 migration-extensions-option-label = Forritsaukar
 migration-form-autofill-option-label = Sjálfvirk útfyllingargögn reita
 migration-payment-methods-option-label = Greiðslumátar
-
 migration-cookies-option-label = Vefkökur
 migration-session-option-label = Gluggar og flipar
 migration-otherdata-option-label = Önnur gögn
-
 migration-passwords-from-file-progress-header = Flytja inn lykilorðaskrá
 migration-passwords-from-file-success-header = Tókst að flytja inn lykilorð
 migration-passwords-from-file = Athuga lykilorð í skrá
 migration-passwords-new = Ný lykilorð
 migration-passwords-updated = Fyrirliggjandi lykilorð
-
 migration-passwords-from-file-no-valid-data = Skráin inniheldur engin gild lykilorðagögn. Veldu aðra skrá.
-
 migration-passwords-from-file-picker-title = Flytja inn lykilorðaskrá
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV-skjal
        *[other] TSV-skrá
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -104,7 +95,6 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } bætt við
        *[other] { $newEntries } bætt við
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -115,14 +105,11 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } uppfært
        *[other] { $updatedEntries } uppfærð
     }
-
 migration-bookmarks-from-file-picker-title = Flytja inn bókamerkjaskrá
 migration-bookmarks-from-file-progress-header = Flyt inn bókamerki
 migration-bookmarks-from-file = Bókamerki
 migration-bookmarks-from-file-success-header = Tókst að flytja inn bókamerki
-
 migration-bookmarks-from-file-no-valid-data = Skráin inniheldur engin bókamerkjagögn. Veldu aðra skrá.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -130,11 +117,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-skjal
        *[other] HTML-skrá
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON-skrá
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -145,14 +130,12 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } bókamerki
        *[other] { $newEntries } bókamerki
     }
-
 migration-import-button-label = Flytja inn
 migration-choose-to-import-from-file-button-label = Flytja inn úr skrá
 migration-import-from-file-button-label = Veldu skrá
 migration-cancel-button-label = Hætta við
 migration-done-button-label = Lokið
 migration-continue-button-label = Halda áfram
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } fann engin forrit sem innihalda bókamerki, feril eða lykilorðagögn.
 migration-wizard-import-browser-no-resources = Upp kom villa. { -brand-short-name } finnur engin gögn til að flytja inn úr þessu vafrasniði.
 
@@ -163,7 +146,6 @@ migration-wizard-import-browser-no-resources = Upp kom villa. { -brand-short-nam
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = bókamerki
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = eftirlæti
@@ -176,12 +158,18 @@ migration-list-payment-methods-label = greiðslumátar
 ##
 
 migration-wizard-progress-header = Flyt inn gögn
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Tókst að flytja inn gögn
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Innflutningi gagna lokið
 migration-wizard-progress-icon-in-progress =
     .aria-label = Flyt inn…
 migration-wizard-progress-icon-completed =
     .aria-label = Lokið
-
 migration-safari-password-import-header = Flytja inn lykilorð úr Safari
 migration-safari-password-import-steps-header = Til að flytja inn lykilorð úr Safari:
 migration-safari-password-import-step1 = Í Safari, opnaðu "Safari" valmyndina og farðu í Kjörstillingar > Lykilorð
@@ -190,8 +178,6 @@ migration-safari-password-import-step3 = Vistaðu lykilorðaskrána
 migration-safari-password-import-step4 = Notaðu „Veldu skrá“ hér að neðan til að velja lykilorðaskrána sem þú vistaðir
 migration-safari-password-import-skip-button = Sleppa
 migration-safari-password-import-select-button = Veldu skrá
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -202,7 +188,6 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } bókamerki
        *[other] { $quantity } bókamerki
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -230,7 +215,6 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } forritsauki
        *[other] { $quantity } forritsaukar
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -238,12 +222,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } af { $quantity } forritsaukum
-
 migration-wizard-progress-extensions-support-link = Lærðu hvernig { -brand-product-name } samsvarar forritsaukum
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Engir samsvarandi forritsaukar
-
 migration-wizard-progress-extensions-addons-link = Skoða forritsauka fyrir { -brand-short-name }
 
 ##
@@ -258,7 +240,6 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } lykilorð
        *[other] { $quantity } lykilorð
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -269,9 +250,7 @@ migration-wizard-progress-success-history =
         [one] Frá síðasta deginum
        *[other] Frá síðustu { $maxAgeInDays } dögum
     }
-
 migration-wizard-progress-success-formdata = Ferill innfyllingarforms
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -282,7 +261,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } greiðslumáti
        *[other] { $quantity } greiðslumátar
     }
-
 migration-wizard-safari-permissions-sub-header = Til að flytja inn Safari-bókamerki og vafurferil:
 migration-wizard-safari-instructions-continue = Veldu „Áfram“
 migration-wizard-safari-instructions-folder = Veldu Safari-möppu á listanum og veldu „Opna“
