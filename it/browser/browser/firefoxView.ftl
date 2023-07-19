@@ -31,15 +31,27 @@ firefoxview-tabpickup-step-signin-header = Passa velocemente da un dispositivo a
 firefoxview-tabpickup-step-signin-description = Per recuperare le schede aperte sul tuo telefono, accedi o crea un account.
 firefoxview-tabpickup-step-signin-primarybutton = Continua
 
+firefoxview-syncedtabs-signin-header = Recupera le tue schede da qualsiasi dispositivo
+firefoxview-syncedtabs-signin-description = Per accedere alle tue schede ovunque utilizzi { -brand-product-name }, accedi al tuo account. Se non hai ancora un account, ti guideremo attraverso il processo per crearne uno.
+firefoxview-syncedtabs-signin-primarybutton = Accedi o registrati
+
 firefoxview-tabpickup-adddevice-header = Sincronizza { -brand-product-name } sul tuo telefono o tablet
 firefoxview-tabpickup-adddevice-description = Scarica { -brand-product-name } per dispositivi mobili e accedi al tuo account.
 firefoxview-tabpickup-adddevice-learn-how = Scopri come
 firefoxview-tabpickup-adddevice-primarybutton = Ottieni { -brand-product-name } per mobile
 
+firefoxview-syncedtabs-adddevice-header = Accedi a { -brand-product-name } su un altro dispositivo
+firefoxview-syncedtabs-adddevice-description = Per accedere alle tue schede ovunque utilizzi { -brand-product-name }, effettua l’accesso in tutti i tuoi dispositivi. Scopri come <a data-l10n-name="url">connettere altri dispositivi</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Prova { -brand-product-name } per dispositivi mobili
+
 firefoxview-tabpickup-synctabs-header = Attiva la sincronizzazione delle schede
 firefoxview-tabpickup-synctabs-description = Consenti a { -brand-short-name } di condividere le schede tra i tuoi dispositivi.
 firefoxview-tabpickup-synctabs-learn-how = Scopri come
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizza le schede aperte
+
+firefoxview-syncedtabs-synctabs-header = Aggiorna le impostazioni di sincronizzazione
+firefoxview-syncedtabs-synctabs-description = Per visualizzare le schede da altri dispositivi è necessario attivare la sincronizzazione delle schede aperte.
+firefoxview-syncedtabs-synctabs-checkbox = Permetti la sincronizzazione delle schede aperte
 
 firefoxview-tabpickup-fxa-admin-disabled-header = La tua azienda ha disattivato la sincronizzazione
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non è in grado di sincronizzare le schede tra i tuoi dispositivi in quanto un amministratore ha disattivato la sincronizzazione.
@@ -60,6 +72,7 @@ firefoxview-tabpickup-password-locked-header = Inserisci la password principale 
 firefoxview-tabpickup-password-locked-description = Per recuperare le tue schede devi inserire la tua password principale per { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Ulteriori informazioni
 firefoxview-tabpickup-password-locked-primarybutton = Inserisci la password principale
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ulteriori informazioni</a>
 
 firefoxview-tabpickup-signed-out-header = Accedi per riconnetterti
 firefoxview-tabpickup-signed-out-description = Per riconnetterti e recuperare le tue schede, accedi al tuo { -fxaccount-brand-name }.
