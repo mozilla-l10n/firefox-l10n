@@ -107,6 +107,9 @@ login-item-cancel-button = Duyichin'
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+# Variables
+#   $datetime (date) - Event date
+login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Ngà girij
 login-item-timeline-action-updated = Ngà nahuin nàkaj
 login-item-timeline-action-used = Ngà garâj sunj
@@ -159,6 +162,12 @@ about-logins-confirm-remove-dialog-confirm-button = Guxūn
 ## Variables
 ##   $count (number) - Number of items
 
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Gūxūn
+        [one] Gūxūn daran'anj
+       *[other] { "" }
+    }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Nādurê't riña gayi'ìt sesión { $count } nan anj
