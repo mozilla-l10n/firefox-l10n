@@ -19,7 +19,6 @@ open-location = Cîr alc o scrîf une direzion
 share = Condivît
 close-window = Siere barcon
 open-sidebar = Sbaris laterâls
-
 # This string describes shortcuts for search.
 search-popover = Scurtis di ricercje
 # Describes searches limited to a specific scope
@@ -30,7 +29,7 @@ search-search-in = Cîr in:
 
 search-bookmarks = Segnelibris
 search-history = Cronologjie
-search-opentabs = Vierç schedis
+search-opentabs = Schedis viertis
 search-tags = Etichetis
 search-titles = Titui
 
