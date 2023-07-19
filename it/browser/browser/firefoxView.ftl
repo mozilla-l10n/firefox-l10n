@@ -178,3 +178,35 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 firefoxview-show-all-history = Mostra tutta la cronologia
 
 firefoxview-view-more-browsing-history = Mostra ulteriore cronologia di navigazione
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Ritorna dove sei già stato
+firefoxview-history-empty-description = Inizia a navigare e mostreremo qui le pagine che visiti.
+firefoxview-history-empty-description-two = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-product-name } debba ricordare nelle <a data-l10n-name="history-settings-url">impostazioni della cronologia</a>.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Scegli un browser
+  .title = Scegli un browser
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Nulla da mostrare
+firefoxview-dont-remember-history-empty-description = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-product-name } debba ricordare.
+firefoxview-dont-remember-history-empty-description-two = { -brand-product-name } è attualmente impostato per non ricordare alcuna attività mentre navighi. Per cambiare, <a data-l10n-name="history-settings-url-two">imposta il tuo browser per salvare la cronologia</a>.
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+  .aria-label = Chiudi
+  .title = Chiudi
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Importa cronologia da un altro browser
+firefoxview-import-history-description = Rendi { -brand-product-name } il tuo browser di riferimento. Importa cronologia, segnalibri e altro ancora.
+
+##
