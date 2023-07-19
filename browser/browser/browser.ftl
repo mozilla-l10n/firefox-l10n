@@ -21,7 +21,6 @@ browser-main-window-window-titles =
     .data-title-private = Приватный просмотр { -brand-full-name }
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — Приватный просмотр { -brand-full-name }
-
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -44,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Приватный просмотр
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Приватный просмотр
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = Приватный просмотр { -brand-shortcut-name }
@@ -113,7 +110,6 @@ urlbar-search-tips-confirm-short = Понятно
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Совет:
-
 urlbar-result-menu-button =
     .title = Открыть меню
 urlbar-result-menu-button-feedback = Обратная связь
@@ -135,10 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Печатайте меньше, находите больше: Ищите в { $engineName } прямо из адресной строки.
 urlbar-search-tips-redirect-2 = Начните поиск в адресной строке, чтобы увидеть предложения из { $engineName } и истории посещений.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Поиск стал проще: теперь вы можете уточнять поисковый запрос в адресной строке. Чтобы вместо этого отобразить адрес сайта, перейдите в раздел «Поиск» в настройках.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Выберите этот ярлык, чтобы быстрее найти то, что вам нужно.
@@ -176,12 +170,10 @@ urlbar-midi-blocked =
     .tooltiptext = Вы заблокировали доступ этого веб-сайта к MIDI.
 urlbar-install-blocked =
     .tooltiptext = Вы заблокировали установку дополнений с этого веб-сайта.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Редактировать эту закладку ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,10 +202,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = В этот раз искать в:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Изменить настройки поиска
-
 search-one-offs-context-open-new-tab =
     .label = Искать в новой вкладке
     .accesskey = а
@@ -223,14 +213,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Использовать как поисковую систему по умолчанию в приватных окнах
     .accesskey = З
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -267,71 +255,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Просмотр дополнений
 quickactions-cmd-addons2 = дополнения
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Управление закладками
 quickactions-cmd-bookmarks = закладки
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Удаление истории
 quickactions-cmd-clearhistory = удалить историю
-
 # Opens about:downloads page
 quickactions-downloads2 = Просмотреть загрузки
 quickactions-cmd-downloads = загрузки
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Управление расширениями
 quickactions-cmd-extensions = расширения
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Открыть Инструменты разработчика
 quickactions-cmd-inspector = инспектор, инструменты разработки
-
 # Opens about:logins
 quickactions-logins2 = Управление паролями
 quickactions-cmd-logins = логины, пароли
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Управление плагинами
 quickactions-cmd-plugins = плагины
-
 # Opens the print dialog
 quickactions-print2 = Распечатать страницу
 quickactions-cmd-print = печать
-
 # Opens a new private browsing window
 quickactions-private2 = Открыть приватное окно
 quickactions-cmd-private = приватный просмотр
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Очистить { -brand-short-name }
 quickactions-cmd-refresh = обновить
-
 # Restarts the browser
 quickactions-restart = Перезапустить { -brand-short-name }
 quickactions-cmd-restart = перезапустить
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Сделать снимок экрана
 quickactions-cmd-screenshot = скриншот
-
 # Opens about:preferences
 quickactions-settings2 = Управление настройками
 quickactions-cmd-settings = настройки, параметры, опции
-
 # Opens about:addons page in the themes section
 quickactions-themes = Управление темами
 quickactions-cmd-themes = темы
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Обновить { -brand-short-name }
 quickactions-cmd-update = обновление
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Исходный код страницы
 quickactions-cmd-viewsource = просмотр исходного текста, кода
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Узнать больше о Быстрых действиях
@@ -358,7 +329,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ы
 bookmark-panel-save-button =
     .label = Сохранить
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -386,9 +356,9 @@ identity-passive-loaded = Части этой страницы (такие ка�
 identity-active-loaded = Вы отключили защиту на этой странице.
 identity-weak-encryption = Эта страница использует слабое шифрование.
 identity-insecure-login-forms = Учётные данные, вводимые на этой странице, могут быть скомпрометированы.
-
 identity-https-only-connection-upgraded = (переключено на HTTPS)
 identity-https-only-label = Режим «Только HTTPS»
+identity-https-only-label2 = Автоматически обновить этот сайт для безопасного соединения
 identity-https-only-dropdown-on =
     .label = Включён
 identity-https-only-dropdown-off =
@@ -397,12 +367,12 @@ identity-https-only-dropdown-off-temporarily =
     .label = Временно отключён
 identity-https-only-info-turn-on2 = Включите для этого сайта Режим «Только HTTPS», если хотите, чтобы { -brand-short-name } по возможности переключался на безопасное соединение.
 identity-https-only-info-turn-off2 = Если страница кажется сломанной, вы можете отключить для этого сайта режим «Только HTTPS», чтобы перезагрузить его с использованием незащищённого HTTP.
+identity-https-only-info-turn-on3 = Включите обновление на HTTPS для этого сайта, если хотите, чтобы { -brand-short-name } обновлял соединение, когда это возможно.
+identity-https-only-info-turn-off3 = Если страница кажется неработающей, вы можете отключить обновления на HTTPS для этого сайта, чтобы перезагрузить его с использованием небезопасного HTTP.
 identity-https-only-info-no-upgrade = Невозможно переключить соединение с HTTP.
-
 identity-permissions-storage-access-header = Межсайтовые куки
 identity-permissions-storage-access-hint = Следующие стороны могут использовать межсайтовые куки и данные сайта, пока вы находитесь на этом сайте.
 identity-permissions-storage-access-learn-more = Узнать больше
-
 identity-permissions-reload-hint = Чтобы изменения возымели действие, вам, возможно, потребуется перезагрузить страницу.
 identity-clear-site-data =
     .label = Удалить куки и данные сайта…
@@ -464,14 +434,12 @@ browser-tab-mute =
         [few] ОТКЛЮЧИТЬ ЗВУК { $count } ВКЛАДОК
        *[many] ОТКЛЮЧИТЬ ЗВУК { $count } ВКЛАДОК
     }
-
 browser-tab-unmute =
     { $count ->
         [one] ВКЛЮЧИТЬ ЗВУК ВКЛАДКИ
         [few] ВКЛЮЧИТЬ ЗВУК { $count } ВКЛАДОК
        *[many] ВКЛЮЧИТЬ ЗВУК { $count } ВКЛАДОК
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ВОСПРОИЗВЕСТИ ЗВУК ВО ВКЛАДКЕ
@@ -485,7 +453,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Импорт закладок…
     .tooltiptext = Импортируйте закладки из другого браузера в { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = Для ускорения доступа разместите свои закладки на панели закладок. <a data-l10n-name="manage-bookmarks">Управление закладками…</a>
 
 ## WebRTC Pop-up notifications
@@ -526,7 +493,6 @@ enable-devtools-popup-description2 = Чтобы использовать гор�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Введите поисковый запрос или адрес
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -535,7 +501,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Искать в Интернете
     .aria-label = Поиск с помощью { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -544,32 +509,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Введите поисковый запрос
     .aria-label = Поиск в { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Введите поисковый запрос
     .aria-label = Поиск в закладках
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Введите поисковый запрос
     .aria-label = Поиск в истории
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Введите поисковый запрос
     .aria-label = Поиск во вкладках
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Введите поисковый запрос
     .aria-label = Поисковые действия
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Найдите в { $name } или введите адрес
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -579,11 +538,9 @@ urlbar-permissions-granted =
     .tooltiptext = Вы предоставили этому веб-сайту дополнительные разрешения.
 urlbar-switch-to-tab =
     .value = Перейти на вкладку:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Расширение:
-
 urlbar-go-button =
     .tooltiptext = Перейти по введённому адресу
 urlbar-page-action-button =
@@ -651,14 +608,12 @@ urlbar-result-action-search-actions = Искать в действиях
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = Предложения от { $engine }
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Быстрые действия
@@ -678,10 +633,8 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Открыть «Картинку в картинке» ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Закрыть «Картинку в картинке» ({ $shortcut })
-
 picture-in-picture-panel-header = Картинка в картинке
 picture-in-picture-panel-headline = Этот веб-сайт не рекомендует функцию «Картинка в картинке».
 picture-in-picture-panel-body = Видео может отображаться не так, как задумано разработчиком, когда включена функция «Картинка в картинке».
@@ -695,19 +648,14 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> теперь находится в полноэкранном режиме
 fullscreen-warning-no-domain = Этот документ теперь находится в полноэкранном режиме
-
-
 fullscreen-exit-button = Выйти из полноэкранного режима (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Выйти из полноэкранного режима (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> контролирует ваш курсор. Нажмите Esc, чтобы вернуть себе контроль.
 pointerlock-warning-no-domain = Этот документ контролирует ваш курсор. Нажмите Esc, чтобы вернуть себе контроль.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -762,7 +710,6 @@ bookmarks-tools =
     .label = Инструменты закладок
 bookmarks-subview-edit-bookmark =
     .label = Изменить эту закладку…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -776,7 +723,6 @@ bookmarks-toolbar-placeholder =
     .title = Элементы панели закладок
 bookmarks-toolbar-placeholder-button =
     .label = Элементы панели закладок
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Добавить текущую вкладку в закладки…
@@ -811,35 +757,28 @@ toolbar-settings-button =
             [macos] Открыть настройки ({ $shortcut })
            *[other] Открыть настройки
         }
-
 toolbar-overflow-customize-button =
     .label = Настроить панель инструментов…
     .accesskey = а
-
 toolbar-button-email-link =
     .label = Отправить ссылку
     .tooltiptext = Отправить по почте ссылку на эту страницу
-
 toolbar-button-logins =
     .label = Пароли
     .tooltiptext = Просмотр и управление сохраненными паролями
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Сохранить страницу
     .tooltiptext = Сохранить эту страницу ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Открыть файл
     .tooltiptext = Открыть файл ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Облачные вкладки
     .tooltiptext = Показать вкладки с других устройств
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -859,8 +798,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = к
 panel-save-update-username = Имя пользователя
 panel-save-update-password = Пароль
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -875,7 +812,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Разрешить всплывающие окна для { $uriHost }
     .accesskey = в
-
 popups-infobar-block =
     .label = Блокировать всплывающие окна для { $uriHost }
     .accesskey = в
@@ -885,11 +821,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Не показывать это сообщение при блокировке всплывающих окон
     .accesskey = н
-
 edit-popup-settings =
     .label = Управление настройками всплывающих окон…
     .accesskey = ы
-
 picture-in-picture-hide-toggle =
     .label = Скрыть переключатель «Картинка в картинке»
     .accesskey = ы
@@ -900,7 +834,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Переместить переключатель «Картинка в картинке» вправо
     .accesskey = п
-
 picture-in-picture-move-toggle-left =
     .label = Переместить переключатель «Картинка в картинке» влево
     .accesskey = л
@@ -915,39 +848,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Навигация
-
 navbar-downloads =
     .label = Загрузки
-
 navbar-overflow =
     .tooltiptext = Другие инструменты…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Печать
     .tooltiptext = Распечатать эту страницу… ({ $shortcut })
-
 navbar-home =
     .label = Домой
     .tooltiptext = Домашняя страница { -brand-short-name }
-
 navbar-library =
     .label = Библиотека
     .tooltiptext = Просмотр истории, сохранённых закладок и многого другого
-
 navbar-search =
     .title = Поиск
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Вкладки браузера
-
 tabs-toolbar-new-tab =
     .label = Новая вкладка
-
 tabs-toolbar-list-all-tabs =
     .label = Список всех вкладок
     .tooltiptext = Список всех вкладок
@@ -964,7 +888,6 @@ data-reporting-notification-message = { -brand-short-name } автоматиче
 data-reporting-notification-button =
     .label = Выбрать, чем мне поделиться
     .accesskey = В
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Приватный просмотр
 
@@ -996,21 +919,16 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = { -brand-short-name } заблокировал автоматическую перезагрузку этой страницы.
 refresh-blocked-redirect-label = { -brand-short-name } заблокировал автоматическое перенаправление на другую страницу.
-
 refresh-blocked-allow =
     .label = Разрешить
     .accesskey = Р
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = Наши безопасные и простые в использовании псевдонимы защищают вашу личность и предотвращают спам, скрывая ваш адрес электронной почты.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Все электронные письма, отправленные на ваши псевдонимы электронной почты, будут перенаправлены на <strong>{ $useremail }</strong> (если вы не решите их заблокировать).
-
 firefox-relay-offer-legal-notice = Нажимая «Использовать псевдоним электронной почты», вы соглашаетесь с <label data-l10n-name="tos-url">Условиями использования</label> и <label data-l10n-name="privacy-url">Примечанием о конфиденциальности</label>.
 
 ## Add-on Pop-up Notifications
@@ -1049,7 +967,6 @@ popup-warning-button =
             [windows] Н
            *[other] Н
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
