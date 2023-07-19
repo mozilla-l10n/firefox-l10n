@@ -11,7 +11,6 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Indaûr
     .accesskey = û
-
 wizard-macos-button-next =
     .label = Va indevant
     .accesskey = V
@@ -21,17 +20,15 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Indevant >
     .accesskey = v
-
 wizard-macos-button-finish =
     .label = Fat
 wizard-linux-button-finish =
     .label = Fin
 wizard-win-button-finish =
     .label = Fin
-
 wizard-macos-button-cancel =
-    .label = Scancele
+    .label = Anule
 wizard-linux-button-cancel =
-    .label = Scancele
+    .label = Anule
 wizard-win-button-cancel =
-    .label = Scancele
+    .label = Anule

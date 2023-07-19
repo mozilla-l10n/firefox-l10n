@@ -103,10 +103,9 @@ print-window =
     .title = Daûr a stampâ
 print-complete =
     .value = Finît di stampâ.
-
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
     .value = { $percent }%
-dialog-cancel-label = Scancele
+dialog-cancel-label = Anule
 dialog-close-label = Siere
