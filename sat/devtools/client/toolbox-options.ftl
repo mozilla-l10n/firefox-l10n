@@ -115,5 +115,19 @@ options-enable-remote-tooltip2 =
     .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱱᱚᱶᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱡᱷᱟᱹᱞ ᱠᱷᱚᱱ ᱰᱮᱵᱩᱜᱽ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ
 # The label for checkbox that enables F12 as a shortcut to open DevTools
 options-enable-f12-label = DevTools ᱠᱷᱩᱞᱟᱹ ᱥᱮ ᱵᱚᱸᱫ ᱞᱟᱹᱜᱤᱫ F12 ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+options-enable-f12-tooltip =
+    .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱫᱚ DevTools ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ F12 ᱪᱟᱹᱵᱤ ᱛᱮ ᱠᱷᱩᱞᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ
+# The label for checkbox that toggles custom formatters for objects
+options-enable-custom-formatters-label = ᱠᱚᱥᱴᱚᱢ ᱯᱷᱚᱨᱢᱟᱴᱚᱨᱥ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
+options-enable-custom-formatters-tooltip =
+    .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱫᱚ DOM ᱡᱤᱱᱤᱥᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱠᱚᱥᱴᱚᱢ ᱯᱷᱚᱨᱢᱟᱴᱚᱨᱥ ᱠᱚ ᱵᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ
+# The label for checkbox that toggles the service workers testing over HTTP on or off.
+options-enable-service-workers-http-label = HTTP ᱪᱮᱛᱟᱱ ᱨᱮ ᱥᱚᱨᱵᱷᱤᱥ ᱣᱟᱨᱠᱚᱨ ᱮᱢᱪᱷᱚᱭ ᱢᱮ (ᱛᱤᱧᱡᱷᱚᱜ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ ᱠᱷᱩᱞᱟᱹ ᱛᱟᱦᱮᱸᱱᱟ)
+options-enable-service-workers-http-tooltip =
+    .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱨᱮ ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱠᱚᱥ ᱨᱮ HTTP ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱵᱷᱤᱥ ᱣᱟᱨᱠᱚᱨ ᱮᱢᱪᱷᱚᱭᱚᱭ ᱾
+# The label for the checkbox that toggles source maps in all tools.
+options-source-maps-label = ᱥᱨᱚᱛ ᱱᱚᱠᱥᱟ ᱮᱢ ᱪᱷᱚᱭᱚᱭ
+options-source-maps-tooltip =
+    .title = ᱡᱩᱫᱤ ᱟᱢ ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱠᱷᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱨᱮ ᱥᱨᱚᱛᱠᱚ ᱵᱟᱹᱭᱥᱟᱣᱜᱼᱟ ᱾
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * ᱮᱠᱷᱮᱱ ᱱᱤᱛᱟᱜ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ, ᱥᱟᱦᱴᱟ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ ᱾
