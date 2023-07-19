@@ -21,7 +21,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } жекелік шолу режимі
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } жекелік шолу режимі
-
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -44,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — жекелік шолу режимі
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — жекелік шолу режимі
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } жекелік шолу режимі
@@ -113,7 +110,6 @@ urlbar-search-tips-confirm-short = Түсіндім
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Кеңес:
-
 urlbar-result-menu-button =
     .title = Мәзірді ашу
 urlbar-result-menu-button-feedback = Кері байланыс
@@ -135,10 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Азырақ теріп, көбірек табыңыз: { $engineName } қызметінен тура адрестік жолақтан іздеңіз.
 urlbar-search-tips-redirect-2 = { $engineName } және шолу тарихы ұсыныстарын көру үшін, іздеуді адрестік жолағында бастаңыз.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Іздеу енді оңайырақ болды. Адрестік жолағында іздеуді нақтырақ етіп көріңіз. Оның орнына URL адресін көрсету үшін параметрлердегі Іздеу бөліміне өтіңіз.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Қажетті нәрсені тезірек табу үшін бұл жарлықты таңдаңыз.
@@ -176,12 +170,10 @@ urlbar-midi-blocked =
     .tooltiptext = Сіз MIDI қолдануды бұл вебсайтқа блоктадыңыз.
 urlbar-install-blocked =
     .tooltiptext = Сіз қосымшаларды орнатуды бұл вебсайтқа блоктадыңыз.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Бұл бетбелгіні түзету ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,10 +202,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Осы рет, келесімен іздеу:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Іздеу баптауларын өзгерту
-
 search-one-offs-context-open-new-tab =
     .label = Жаңа бетте іздеу
     .accesskey = т
@@ -223,14 +213,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Жекелік терезелері үшін негізгі іздеу жүйесі ретінде орнату
     .accesskey = р
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -267,71 +255,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Қосымшаларды қарау
 quickactions-cmd-addons2 = қосымшалар
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Бетбелгілерді басқару
 quickactions-cmd-bookmarks = бетбелгілер
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Тарихты тазарту
 quickactions-cmd-clearhistory = тарихты тазарту
-
 # Opens about:downloads page
 quickactions-downloads2 = Жүктемелерді қарау
 quickactions-cmd-downloads = жүктемелер
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Кеңейтулерді басқару
 quickactions-cmd-extensions = кеңейтулер
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Әзірлеуші құралдарын ашу
 quickactions-cmd-inspector = бақылаушы, әзірлеуші құралдары
-
 # Opens about:logins
 quickactions-logins2 = Парольдерді басқару
 quickactions-cmd-logins = логиндер, парольдер
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Плагиндерді басқару
 quickactions-cmd-plugins = плагиндер
-
 # Opens the print dialog
 quickactions-print2 = Бетті баспаға шығару
 quickactions-cmd-print = баспаға шығару
-
 # Opens a new private browsing window
 quickactions-private2 = Жекелік шолу терезесін ашу
 quickactions-cmd-private = жекелік шолу
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } жаңғырту
 quickactions-cmd-refresh = жаңарту
-
 # Restarts the browser
 quickactions-restart = { -brand-short-name } қайта қосу
 quickactions-cmd-restart = қайта қосу
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Скриншотты түсіру
 quickactions-cmd-screenshot = скриншот
-
 # Opens about:preferences
 quickactions-settings2 = Баптауларды басқару
 quickactions-cmd-settings = баптаулар, қалаулар, опциялар
-
 # Opens about:addons page in the themes section
 quickactions-themes = Темаларды басқару
 quickactions-cmd-themes = темалар
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = { -brand-short-name } жаңарту
 quickactions-cmd-update = жаңарту
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Парақтың бастапқы кодын қарау
 quickactions-cmd-viewsource = бастапқы кодын қарау, бастапқы код
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Жылдам әрекеттер туралы көбірек біліңіз
@@ -357,7 +328,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = с
 bookmark-panel-save-button =
     .label = Сақтау
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -385,9 +355,9 @@ identity-passive-loaded = Бұл парақтың кейбір бөліктер�
 identity-active-loaded = Бұл парақта қорғанысты сөндіргенсіз.
 identity-weak-encryption = Бұл парақ әлсіз шифрлеуді қолданады.
 identity-insecure-login-forms = Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.
-
 identity-https-only-connection-upgraded = (HTTPS дейін жаңартылды)
 identity-https-only-label = Тек-HTTPS режимі
+identity-https-only-label2 = Бұл сайтты қауіпсіз байланысқа автоматты түрде жаңарту
 identity-https-only-dropdown-on =
     .label = Іске қосулы
 identity-https-only-dropdown-off =
@@ -396,12 +366,12 @@ identity-https-only-dropdown-off-temporarily =
     .label = Уақытша сөндірулі
 identity-https-only-info-turn-on2 = { -brand-short-name } мүмкін болған кезде байланысты қауіпсіз нұсқасына жаңартуы үшін, бұл сайт үшін тек-HTTPS режимін іске қосыңыз.
 identity-https-only-info-turn-off2 = Егер парақ бұзылған сияқты көрінсе, сіз оны қауіпсіз емес HTTP арқылы қайта жүктеу үшін осы сайт үшін тек-HTTPS режимін өшіре аласыз.
+identity-https-only-info-turn-on3 = { -brand-short-name } мүмкін болған кезде байланысты қауіпсіз нұсқасына жаңартуы үшін, бұл сайт үшін HTTPS дейін жаңартуды іске қосыңыз.
+identity-https-only-info-turn-off3 = Егер парақ бұзылған сияқты көрінсе, сіз оны қауіпсіз емес HTTP арқылы қайта жүктеу үшін осы сайт үшін HTTPS дейін жаңартуды сөндіре аласыз.
 identity-https-only-info-no-upgrade = Байланысты HTTP-дан жаңарту мүмкін емес.
-
 identity-permissions-storage-access-header = Сайтаралық cookie файлдары
 identity-permissions-storage-access-hint = Бұл тараптар сіз осы сайтта болған кезде сайтаралық cookie файлдарын және сайт деректерін қолдана алады.
 identity-permissions-storage-access-learn-more = Көбірек білу
-
 identity-permissions-reload-hint = Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.
 identity-clear-site-data =
     .label = Cookies файлдары және сайт деректерін тазарту…
@@ -462,13 +432,11 @@ browser-tab-mute =
         [1] БЕТ ДЫБЫСЫН БАСУ
        *[other] { $count } БЕТ ДЫБЫСЫН БАСУ
     }
-
 browser-tab-unmute =
     { $count ->
         [1] БЕТ ДЫБЫСЫН ІСКЕ ҚОСУ
        *[other] { $count } БЕТ ДЫБЫСЫН ІСКЕ ҚОСУ
     }
-
 browser-tab-unblock =
     { $count ->
         [1] БЕТТІ ОЙНАТУ
@@ -480,7 +448,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Бетбелгілерді импорттау…
     .tooltiptext = Басқа браузерден бетбелгілерді { -brand-short-name } ішіне иморттау.
-
 bookmarks-toolbar-empty-message = Жылдам қатынау үшін, бетбелгілеріңізді бетбелгілер панеліне орналастырыңыз. <a data-l10n-name="manage-bookmarks">Бетбелгілерді басқару…</a>
 
 ## WebRTC Pop-up notifications
@@ -521,7 +488,6 @@ enable-devtools-popup-description2 = F12 жарлығын қолдану үші�
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Іздеу немесе адрес
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -530,7 +496,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Интернеттен іздеу
     .aria-label = { $name } көмегімен іздеу
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -539,32 +504,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = { $name } іздеу
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Бетбелгілерден іздеу
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Тарихтан іздеу
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Беттерден іздеу
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Іздеу жолын енгізіңіз
     .aria-label = Іздеу әрекеттері
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } көмегімен іздеу немесе адрес
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -574,11 +533,9 @@ urlbar-permissions-granted =
     .tooltiptext = Бұл веб-сайтқа қосымша рұқсаттарды бердіңіз.
 urlbar-switch-to-tab =
     .value = Бетке ауысу:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Кеңейту:
-
 urlbar-go-button =
     .tooltiptext = Енгізілген адреске өту
 urlbar-page-action-button =
@@ -646,14 +603,12 @@ urlbar-result-action-search-actions = Әрекеттерден іздеу
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine } ұсыныстары
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Жылдам әрекеттер
@@ -673,10 +628,8 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Суреттегі суретті ашу ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Суреттегі суретті жабу ({ $shortcut })
-
 picture-in-picture-panel-header = Суреттегі сурет
 picture-in-picture-panel-headline = Бұл веб-сайт "Суреттегі сурет" функциясын қолдануға ұсынбайды
 picture-in-picture-panel-body = "Суреттегі сурет" режимі іске қосулы кезінде суреттер әзірлеуші ойлағандай көрсетілмеуі мүмкін.
@@ -690,19 +643,14 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> енді толық экран режимінде
 fullscreen-warning-no-domain = Бұл құжат енді толық экран режимінде
-
-
 fullscreen-exit-button = Толық экраннан шығу (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Толық экраннан шығу (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.
 pointerlock-warning-no-domain = Бұл құжат курсорыңызды басқаруда. Басқаруды қайта алу үшін Esc басыңыз.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -757,7 +705,6 @@ bookmarks-tools =
     .label = Бетбелгілер құралдары
 bookmarks-subview-edit-bookmark =
     .label = Бетбелгіні түзету…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -771,7 +718,6 @@ bookmarks-toolbar-placeholder =
     .title = Бетбелгілер панелінің элементтері
 bookmarks-toolbar-placeholder-button =
     .label = Бетбелгілер панелінің элементтері
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Ағымдағы бетті бетбелгілерге қосу…
@@ -806,35 +752,28 @@ toolbar-settings-button =
             [macos] Баптауларды ашу ({ $shortcut })
            *[other] Баптауларды ашу
         }
-
 toolbar-overflow-customize-button =
     .label = Құралдар панелін баптау…
     .accesskey = б
-
 toolbar-button-email-link =
     .label = Сілтемені эл. поштамен жіберу
     .tooltiptext = Бұл парақ сілтемесін эл. поштамен жіберу
-
 toolbar-button-logins =
     .label = Парольдер
     .tooltiptext = Сақталған парольдеріңізді қарау және басқару
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Парақты сақтау
     .tooltiptext = Бұл парақты сақтау ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Файлды ашу
     .tooltiptext = Файлды ашу ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Синхрондалған беттер
     .tooltiptext = Басқа құрылғылардан беттерді көрсету
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -854,8 +793,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = д
 panel-save-update-username = Пайдаланушы аты
 panel-save-update-password = Пароль
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -870,7 +807,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } үшін "атып шығатын" терезелерді болдыру
     .accesskey = т
-
 popups-infobar-block =
     .label = { $uriHost } үшін "атып шығатын" терезелерді болдырмау
     .accesskey = т
@@ -880,11 +816,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = "Атып шығатын" терезелерді болдырмау мүмкіндігі қосулы кезінде осы хабарламаны көрсетпеу
     .accesskey = п
-
 edit-popup-settings =
     .label = Атып шығатын терезелер баптаулары…
     .accesskey = п
-
 picture-in-picture-hide-toggle =
     .label = Суреттегі сурет қосқышын жасыру
     .accesskey = ы
@@ -895,7 +829,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Суреттегі-сурет ауыстырғышын оң жаққа жылжыту
     .accesskey = о
-
 picture-in-picture-move-toggle-left =
     .label = Суреттегі-сурет ауыстырғышын сол жаққа жылжыту
     .accesskey = с
@@ -910,39 +843,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Навигация
-
 navbar-downloads =
     .label = Жүктемелер
-
 navbar-overflow =
     .tooltiptext = Көбірек құралдар…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Баспаға шығару
     .tooltiptext = Ағымдағы бетті баспаға шығару… ({ $shortcut })
-
 navbar-home =
     .label = Үйге
     .tooltiptext = { -brand-short-name } үй беті
-
 navbar-library =
     .label = Жинақталған
     .tooltiptext = Тарихты, сақталған бетбелгілерді қарау және т.б.
-
 navbar-search =
     .title = Іздеу
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Браузер беттері
-
 tabs-toolbar-new-tab =
     .label = Жаңа бет
-
 tabs-toolbar-list-all-tabs =
     .label = Барлық беттерді тізіп шығу
     .tooltiptext = Барлық беттерді тізіп шығу
@@ -959,7 +883,6 @@ data-reporting-notification-message = { -brand-short-name } автоматты �
 data-reporting-notification-button =
     .label = Мен немен бөлісе алатынымды көрсету
     .accesskey = М
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Жекелік шолу
 
@@ -991,21 +914,16 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = { -brand-short-name } осы парақтың өзіндік жаңартуын тоқтатты.
 refresh-blocked-redirect-label = { -brand-short-name } басқа параққа автоматты бағдарлауын тоқтатты.
-
 refresh-blocked-allow =
     .label = Рұқсат ету
     .accesskey = а
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = Біздің қауіпсіз, қолдануға оңай маскалар сіздің тұлғаңызды қорғайды және электрондық пошта адресіңізді жасыру арқылы спамның алдын алады.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Электрондық пошта маскаларына жіберілген барлық хаттар <strong>{ $useremail }</strong> адресіне жіберіледі (егер сіз оларды блоктауды шешпесеңіз).
-
 firefox-relay-offer-legal-notice = "Электронды пошта маскасын қолдану" шерту арқылы, сіз <label data-l10n-name="tos-url">Қызмет көрсету шарттары</label> мен <label data-l10n-name="privacy-url">Жекелік ескертуімен</label> келісесіз.
 
 ## Add-on Pop-up Notifications
@@ -1038,7 +956,6 @@ popup-warning-button =
             [windows] Б
            *[other] П
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
