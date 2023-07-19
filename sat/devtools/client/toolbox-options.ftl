@@ -38,6 +38,9 @@ options-collapse-attrs-tooltip =
 options-inspector-draggable-properties-label = ᱢᱟᱯ ᱮᱞᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱚᱛᱟ ᱟᱨ ᱚᱨᱟᱬᱜᱚᱭ ᱢᱮ
 options-inspector-draggable-properties-tooltip =
     .title = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱨᱩᱞᱥ ᱧᱮᱞᱨᱮ ᱢᱟᱯ ᱮᱞ ᱨᱮ ᱚᱛᱟ ᱟᱨ ᱚᱨᱟᱬᱜᱚᱭ ᱢᱮ ᱾
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = prefers-reduced-motion ᱥᱟᱶᱛᱮ ᱟᱢ ᱫᱚ ᱥᱚᱦᱚᱡᱽ ᱦᱟᱭᱞᱟᱭᱴᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 
 ## "Default Color Unit" options for the Inspector
 
