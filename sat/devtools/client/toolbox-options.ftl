@@ -99,11 +99,21 @@ options-sourceeditor-keybinding-default-label = ᱢᱩᱞ
 options-context-advanced-settings = ᱞᱟᱦᱟᱣᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP Cache ᱵᱚᱸᱫᱚᱭ ᱢᱮ (ᱛᱤᱧᱡᱷᱚᱜ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ ᱡᱷᱤᱡ ᱛᱟᱦᱮᱸᱱ ᱟ)
+options-disable-http-cache-tooltip =
+    .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ ᱫᱚ ᱡᱷᱚᱛᱚ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱛᱮ HTTP ᱟᱹᱛᱩᱨ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱭ ᱡᱟᱦᱟᱸ ᱴᱷᱮᱱ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ ᱠᱷᱩᱞᱟᱹ ᱛᱟᱦᱮᱸᱱᱟ ᱾ ᱥᱚᱨᱵᱷᱤᱥ ᱣᱟᱨᱠᱚᱨ ᱠᱚ ᱱᱚᱶᱟ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱛᱮ ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱠᱚ ᱪᱤᱠᱟᱹᱜᱼᱟ ᱾
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript ᱵᱚᱸᱫᱚᱭ ᱢᱮ *
 options-disable-javascript-tooltip =
     .title = ᱱᱚᱶᱟ ᱟᱯᱱᱟᱨ ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱱᱤᱡᱚᱨᱟᱜ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ JavaScript ᱵᱚᱸᱫ ᱪᱷᱚᱭ ᱟᱭ ᱾ ᱡᱤᱫᱤ ᱴᱮᱵᱽ ᱵᱟᱝᱠᱷᱟᱱ ᱦᱟᱹᱛᱤᱭᱟᱹᱨᱵᱟᱠᱚᱥ  ᱵᱚᱸᱫ ᱞᱮᱱ ᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱥᱟᱡᱟᱣ ᱠᱚ ᱦᱤᱲᱤᱧᱚᱜᱼᱟ ᱾
+# The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
+options-enable-chrome-label = ᱵᱽᱨᱟᱣᱡᱚᱨ chrome ᱟᱨ ᱮᱰ-ᱚᱱ ᱰᱤᱵᱩᱜᱤᱝ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥᱠᱚ ᱮᱢᱪᱷᱚᱭᱚᱭ
+options-enable-chrome-tooltip =
+    .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜᱮ ᱮᱢ ᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱚᱱᱴᱮᱠᱴ (ᱴᱩᱞᱥ > ᱣᱮᱵᱽ ᱰᱮᱵᱞᱚᱯᱚᱨ > ᱵᱽᱨᱟᱣᱤᱡᱚᱨ ᱴᱩᱞᱵᱚᱠᱥ) ᱟᱨ ᱰᱮᱵᱩᱜᱽ ᱮᱰᱼᱚᱱᱥ ᱫᱚ ᱮᱰᱼᱚᱱᱥ ᱢᱮᱱᱮᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱭᱢᱟᱸ ᱰᱮᱵᱷᱞᱚᱯᱚᱨ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = ᱥᱟᱹᱝᱜᱤᱧ ᱰᱤᱵᱚᱜᱤᱝ ᱦᱩᱭ ᱦᱚᱪᱚ
+options-enable-remote-tooltip2 =
+    .title = ᱱᱚᱶᱟ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱮᱢ ᱞᱮᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱱᱚᱶᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱡᱷᱟᱹᱞ ᱠᱷᱚᱱ ᱰᱮᱵᱩᱜᱽ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ
+# The label for checkbox that enables F12 as a shortcut to open DevTools
+options-enable-f12-label = DevTools ᱠᱷᱩᱞᱟᱹ ᱥᱮ ᱵᱚᱸᱫ ᱞᱟᱹᱜᱤᱫ F12 ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * ᱮᱠᱷᱮᱱ ᱱᱤᱛᱟᱜ ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ, ᱥᱟᱦᱴᱟ ᱞᱟᱫᱮ ᱫᱚᱦᱲᱟ ᱾
