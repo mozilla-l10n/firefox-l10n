@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = ᱞᱚᱜᱽ ᱠᱷᱚᱵᱚᱨ �
 
 about-logging-preset-networking-label = ᱱᱮᱴᱣᱟᱨᱠᱤᱝ
 about-logging-preset-networking-description = ᱱᱚᱴᱣᱟᱨᱠᱤᱝ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱪᱤᱱᱦᱟᱹᱯ ᱞᱟᱹᱜᱫᱤ ᱢᱳᱰᱭᱩᱞ ᱞᱚᱜᱽ ᱢᱮ
+about-logging-preset-networking-cookie-label = ᱠᱩᱠᱤᱡᱽᱠᱚ
+about-logging-preset-networking-cookie-description = ᱠᱩᱠᱤ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱪᱤᱱᱦᱟᱹᱯ ᱞᱟᱹᱜᱫᱤ ᱢᱳᱰᱭᱩᱞ ᱞᱚᱜᱽ ᱢᱮ
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = WebSocket ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱪᱤᱱᱦᱟᱹᱯ ᱞᱟᱹᱜᱫᱤ ᱢᱳᱰᱭᱩᱞ ᱞᱚᱜᱽ ᱢᱮ
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = HTTP/3 ᱟᱨ QUIC ᱠᱷᱚᱵᱚᱨ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱪᱤᱱᱦᱟᱹᱯ ᱞᱟᱹᱜᱫᱤ ᱢᱳᱰᱭᱩᱞ ᱞᱚᱜᱽ ᱢᱮ
 about-logging-preset-media-playback-label = ᱢᱤᱰᱤᱭᱟ ᱯᱞᱮᱵᱮᱠ
 about-logging-preset-media-playback-description = ᱢᱤᱰᱤᱭᱟ ᱯᱞᱮᱵᱮᱠ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱪᱤᱱᱦᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱢᱳᱰᱭᱩᱞ ᱞᱚᱜᱽ ᱢᱮ (ᱣᱤᱰᱤᱭᱚ ᱠᱚᱱᱯᱷᱨᱮᱱᱥᱤᱝ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱫᱚ ᱵᱟᱝᱟ)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = WebRTC ᱦᱚᱦᱚ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱠᱚ ᱪᱤᱱᱦᱟᱹᱯ ᱞᱟᱹᱜᱫᱤ ᱢᱳᱰᱭᱩᱞ ᱞᱚᱜᱽ ᱢᱮ
 about-logging-preset-custom-label = ᱠᱩᱥᱤᱭᱟᱜ
 about-logging-preset-custom-description = ᱛᱤᱛᱮᱭᱟᱜ ᱵᱟᱪᱷᱟᱣᱟᱜ ᱞᱚᱜᱽ ᱢᱳᱰᱭᱩᱞᱠᱚ
-
 # Error handling
 about-logging-error = ᱵᱷᱩᱞ :
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = ᱵᱟᱝᱵᱟᱲᱟᱭ ᱢᱚᱦᱚᱨ
 about-logging-unknown-option = ᱵᱟᱝᱵᱟᱲᱟᱭ about:logging ᱢᱚᱱᱮ ᱛᱮᱭᱟᱜ ᱢᱮᱱᱟᱜᱼᱟ “{ $v }“
 about-logging-configuration-url-ignored = ᱵᱮᱵᱚᱥᱛᱟ URL  ᱵᱮᱠᱷᱟᱛᱤᱨ ᱠᱟᱱᱟ
 about-logging-file-and-profiler-override = ᱢᱤᱫ ᱚᱠᱛᱚ ᱨᱮ ᱨᱮᱫᱽ ᱛᱮᱞᱟ ᱟᱨ ᱚᱣᱚᱨᱨᱟᱭᱤᱰ ᱢᱚᱦᱚᱨ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱫᱚ ᱡᱩᱨ ᱮᱢ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
-
 about-logging-configured-via-url = URL ᱛᱮ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱵᱮᱵᱚᱥᱛᱟ ᱠᱟᱱᱟ
