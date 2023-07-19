@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = ייבוא נתוני דפדפן
 migration-wizard-selection-list = נא לבחור בנתונים שברצונך לייבא.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = נא לבחור בנתונים שברצונך 
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = ייבוא נתונים שנבחרו
 
 migration-select-all-option-label = בחירת הכול
 migration-bookmarks-option-label = סימניות
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = מועדפים
-
 migration-logins-and-passwords-option-label = כניסות וססמאות שמורות
 migration-history-option-label = היסטוריית גלישה
 migration-extensions-option-label = הרחבות
 migration-form-autofill-option-label = נתוני מילוי אוטומטי של טפסים
 migration-payment-methods-option-label = אמצעי תשלום
-
 migration-cookies-option-label = עוגיות
 migration-session-option-label = חלונות ולשוניות
 migration-otherdata-option-label = נתונים אחרים
-
 migration-passwords-from-file-progress-header = ייבוא קובץ ססמאות
 migration-passwords-from-file-success-header = הססמאות יובאו בהצלחה
 migration-passwords-from-file = בתהליך בדיקת הקובץ אחר ססמאות
 migration-passwords-new = ססמאות חדשות
 migration-passwords-updated = ססמאות קיימות
-
 migration-passwords-from-file-no-valid-data = הקובץ אינו מכיל נתוני ססמאות חוקיים. נא לבחור בקובץ אחר.
-
 migration-passwords-from-file-picker-title = ייבוא קובץ ססמאות
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] מסמך TSV
        *[other] קובץ TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -104,7 +95,6 @@ migration-wizard-progress-success-new-passwords =
         [one] אחת נוספה
        *[other] { $newEntries } נוספו
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -115,14 +105,11 @@ migration-wizard-progress-success-updated-passwords =
         [one] אחת עודכנה
        *[other] { $updatedEntries } עודכנו
     }
-
 migration-bookmarks-from-file-picker-title = ייבוא קובץ סימניות
 migration-bookmarks-from-file-progress-header = בתהליך ייבוא סימניות
 migration-bookmarks-from-file = סימניות
 migration-bookmarks-from-file-success-header = הסימניות יובאו בהצלחה
-
 migration-bookmarks-from-file-no-valid-data = הקובץ אינו מכיל נתוני סימניות. נא לבחור בקובץ אחר.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -130,11 +117,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] מסמך HTML
        *[other] קובץ HTML
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = קובץ JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -145,14 +130,12 @@ migration-wizard-progress-success-new-bookmarks =
         [one] סימניה אחת
        *[other] { $newEntries } סימניות
     }
-
 migration-import-button-label = ייבוא
 migration-choose-to-import-from-file-button-label = ייבוא מקובץ
 migration-import-from-file-button-label = בחירת קובץ
 migration-cancel-button-label = ביטול
 migration-done-button-label = סיום
 migration-continue-button-label = המשך
-
 migration-wizard-import-browser-no-browsers = ‏{ -brand-short-name } לא הצליח למצוא תוכנות המכילות נתונים של סימניות, היסטוריה או ססמאות.
 migration-wizard-import-browser-no-resources = אירעה שגיאה. { -brand-short-name } לא יכול למצוא נתונים לייבא מפרופיל הדפדפן הזה.
 
@@ -163,7 +146,6 @@ migration-wizard-import-browser-no-resources = אירעה שגיאה. { -brand-s
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = סימניות
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = מועדפים
@@ -176,12 +158,18 @@ migration-list-payment-methods-label = אמצעי תשלום
 ##
 
 migration-wizard-progress-header = מתבצע ייבוא נתונים…
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = הנתונים יובאו בהצלחה
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = ייבוא הנתונים הושלם
 migration-wizard-progress-icon-in-progress =
     .aria-label = מתבצע ייבוא…
 migration-wizard-progress-icon-completed =
     .aria-label = הושלם
-
 migration-safari-password-import-header = ייובא סיסמאות מ־Safari
 migration-safari-password-import-steps-header = כדי לייבא ססמאות מ־Safari:
 migration-safari-password-import-step1 = ב־Safari, יש לפתוח את תפריט ״Safari״ ולעבור אל העדפות > סיסמאות
@@ -190,8 +178,6 @@ migration-safari-password-import-step3 = יש לשמור את קובץ הססמ�
 migration-safari-password-import-step4 = יש להשתמש בכפתור ״בחירת קובץ״ שלהלן כדי לבחור בקובץ הססמאות ששמרת
 migration-safari-password-import-skip-button = דילוג
 migration-safari-password-import-select-button = בחירת קובץ
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -203,7 +189,6 @@ migration-wizard-progress-success-bookmarks =
         [two] { $quantity } סימניות
        *[other] { $quantity } סימניות
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -232,7 +217,6 @@ migration-wizard-progress-success-extensions =
         [one] הרחבה אחת
        *[other] { $quantity } הרחבות
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -240,12 +224,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } מתוך { $quantity } הרחבות
-
 migration-wizard-progress-extensions-support-link = מידע על האופן שבו { -brand-product-name } מאתר הרחבות תואמות
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = אין הרחבות תואמות
-
 migration-wizard-progress-extensions-addons-link = עיון בהרחבות עבור { -brand-short-name }
 
 ##
@@ -261,7 +243,6 @@ migration-wizard-progress-success-passwords =
         [two] { $quantity } ססמאות
        *[other] { $quantity } ססמאות
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -273,9 +254,7 @@ migration-wizard-progress-success-history =
         [two] מהיומיים האחרונים
        *[other] מ־{ $maxAgeInDays } הימים האחרונים
     }
-
 migration-wizard-progress-success-formdata = היסטוריית טפסים
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -286,7 +265,6 @@ migration-wizard-progress-success-payment-methods =
         [one] אמצעי תשלום אחד
        *[other] { $quantity } אמצעי תשלום
     }
-
 migration-wizard-safari-permissions-sub-header = כדי לייבא סימניות והיסטוריית גלישה של Safari:
 migration-wizard-safari-instructions-continue = יש ללחוץ על ״המשך״
 migration-wizard-safari-instructions-folder = יש לבחור בתיקייה של Safari מהרשימה וללחוץ על ״פתיחה״

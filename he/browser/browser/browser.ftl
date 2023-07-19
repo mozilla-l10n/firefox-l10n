@@ -21,7 +21,6 @@ browser-main-window-window-titles =
     .data-title-private = ‏{ -brand-full-name } במצב גלישה פרטית
     .data-content-title-default = ‏{ $content-title } — { -brand-full-name }
     .data-content-title-private = ‏{ $content-title } — { -brand-full-name } במצב גלישה פרטית
-
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -44,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = ‏{ -brand-full-name } — גלישה פרטית
     .data-content-title-default = { $content-title }
     .data-content-title-private = ‏{ $content-title } — גלישה פרטית
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = ‏{ -brand-shortcut-name } במצב גלישה פרטית
@@ -113,7 +110,6 @@ urlbar-search-tips-confirm-short = הבנתי
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = עצה:
-
 urlbar-result-menu-button =
     .title = פתיחת תפריט
 urlbar-result-menu-button-feedback = משוב
@@ -135,10 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = מהיום מקלידים פחות ומוצאים יותר: אפשר לחפש עם { $engineName } ישירות משורת הכתובת שלך.
 urlbar-search-tips-redirect-2 = ניתן להתחיל את החיפוש שלך בשורת הכתובת כדי לצפות בהצעות מ־{ $engineName } ובהיסטוריית הגלישה שלך.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = החיפוש נעשה פשוט יותר. נסו להפוך את החיפוש שלכם לספציפי יותר כאן בשורת הכתובת. כדי להציג את כתובת האתר במקום, ניתן להיכנס בהגדרות לקטגוריה ״חיפוש״.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = ניתן לבחור בקיצור הדרך הזה כדי למצוא את מה שמחפשים מהר יותר.
@@ -176,12 +170,10 @@ urlbar-midi-blocked =
     .tooltiptext = חסמת גישת MIDI עבור אתר זה.
 urlbar-install-blocked =
     .tooltiptext = חסמת התקנת תוספות עבור אתר זה.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = עריכת סימנייה זו ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,10 +202,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = הפעם, לחפש באמצעות:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = שינוי הגדרות החיפוש
-
 search-one-offs-context-open-new-tab =
     .label = חיפוש בלשונית חדשה
     .accesskey = ל
@@ -223,14 +213,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = הגדרה כמנוע חיפוש ברירת המחדל עבור חלונות פרטיים
     .accesskey = ג
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -267,71 +255,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = הצגת תוספות
 quickactions-cmd-addons2 = הרחבות, תוספות, תוספים
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = ניהול סימניות
 quickactions-cmd-bookmarks = סימניות, מועדפים
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = מחיקת היסטוריה
 quickactions-cmd-clearhistory = מחיקת היסטוריה, ניקוי היסטוריה, מחק היסטוריה, נקה היסטוריה, למחוק היסטוריה, לנקות היסטוריה
-
 # Opens about:downloads page
 quickactions-downloads2 = הצגת הורדות
 quickactions-cmd-downloads = הורדות
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = ניהול הרחבות
 quickactions-cmd-extensions = הרחבות, תוספות, תוספים
-
 # Opens the devtools web inspector
 quickactions-inspector2 = פתיחת כלי פיתוח
 quickactions-cmd-inspector = מפקח, inspector, כלי פיתוח, כלי מפתח, devtools
-
 # Opens about:logins
 quickactions-logins2 = ניהול ססמאות
 quickactions-cmd-logins = כניסות, פרטי התחברות, פרטי גישה, פרטי כניסה, ססמאות, סיסמאות
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = ניהול תוספים חיצוניים
 quickactions-cmd-plugins = תוספים חיצוניים
-
 # Opens the print dialog
 quickactions-print2 = הדפסת הדף
 quickactions-cmd-print = הדפסה, הדפס, להדפיס
-
 # Opens a new private browsing window
 quickactions-private2 = פתיחת חלון פרטי
 quickactions-cmd-private = גלישה פרטית, גלישה אנונימית
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = רענון { -brand-short-name }
 quickactions-cmd-refresh = רענון, רענן, לרענן
-
 # Restarts the browser
 quickactions-restart = הפעלת { -brand-short-name } מחדש
 quickactions-cmd-restart = הפעלה מחדש, הפעל מחדש, להפעיל מחדש
-
 # Opens the screenshot tool
 quickactions-screenshot3 = צילום מסך
 quickactions-cmd-screenshot = צילום מסך, צלם מסך, לצלם מסך, לצלם את המסך, לקחת צילום מסך
-
 # Opens about:preferences
 quickactions-settings2 = ניהול הגדרות
 quickactions-cmd-settings = הגדרות, העדפות, אפשרויות
-
 # Opens about:addons page in the themes section
 quickactions-themes = ניהול ערכות נושא
 quickactions-cmd-themes = ערכות נושא
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = עדכון { -brand-short-name }
 quickactions-cmd-update = עדכון, עדכן, לעדכן
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = הצגת מקור הדף
 quickactions-cmd-viewsource = הצגת קוד מקור, הצג קוד מקור, להציג קוד מקור, קוד מקור, מקור
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = מידע נוסף על פעולות מהירות
@@ -357,7 +328,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = ה
 bookmark-panel-save-button =
     .label = שמירה
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -385,9 +355,9 @@ identity-passive-loaded = חלקים מדף זה אינם מאובטחים (כג
 identity-active-loaded = ניטרלת את אמצעי האבטחה על דף זה.
 identity-weak-encryption = דף זה משתמש בהצפנה חלשה.
 identity-insecure-login-forms = פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.
-
 identity-https-only-connection-upgraded = (שודרג ל־HTTPS)
 identity-https-only-label = מצב HTTPS בלבד
+identity-https-only-label2 = שדרוג אוטומטי של אתר זה לחיבור מאובטח
 identity-https-only-dropdown-on =
     .label = פעיל
 identity-https-only-dropdown-off =
@@ -396,12 +366,12 @@ identity-https-only-dropdown-off-temporarily =
     .label = כבוי באופן זמני
 identity-https-only-info-turn-on2 = יש להפעיל את מצב HTTPS בלבד אם ברצונך ש־{ -brand-short-name } ישדרג את החיבור כשהדבר אפשרי.
 identity-https-only-info-turn-off2 = אם נראה שהדף שבור, באפשרותך לכבות את מצב ה־HTTPS בלבד עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
+identity-https-only-info-turn-on3 = יש להפעיל את השדרוג ל־HTTPS אם ברצונך ש־{ -brand-short-name } ישדרג את החיבור כשהדבר אפשרי.
+identity-https-only-info-turn-off3 = אם נראה שהדף שבור, באפשרותך לכבות את שדרוג ה־HTTPS עבור אתר זה כדי לטעון מחדש באמצעות HTTP לא מאובטח.
 identity-https-only-info-no-upgrade = לא ניתן לשדרג את החיבור מ־HTTP.
-
 identity-permissions-storage-access-header = עוגיות חוצות אתרים
 identity-permissions-storage-access-hint = צדדים אלה יכולים להשתמש בעוגיות חוצות אתרים ובנתוני אתרים בזמן שנמצאים באתר זה.
 identity-permissions-storage-access-learn-more = מידע נוסף
-
 identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את העמוד כדי שהשינויים ייכנסו לתוקף.
 identity-clear-site-data =
     .label = ניקוי עוגיות ונתוני אתרים…
@@ -462,13 +432,11 @@ browser-tab-mute =
         [1] השתקת לשונית
        *[other] השתקת { $count } לשוניות
     }
-
 browser-tab-unmute =
     { $count ->
         [1] ביטול השתקת לשונית
        *[other] ביטול השתקת { $count } לשוניות
     }
-
 browser-tab-unblock =
     { $count ->
         [1] ניגון לשונית
@@ -480,7 +448,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = ייבוא סימניות…
     .tooltiptext = ייבוא סימניות מדפדפן אחר אל תוך { -brand-short-name }.
-
 bookmarks-toolbar-empty-message = לקבלת גישה מהירה, ניתן למקם את הסימניות שלך כאן בסרגל הכלים של הסימניות. <a data-l10n-name="manage-bookmarks">ניהול סימניות…</a>
 
 ## WebRTC Pop-up notifications
@@ -521,7 +488,6 @@ enable-devtools-popup-description2 = כדי להשתמש בקיצור הדרך F
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = חיפוש או הקלדת כתובת
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -530,7 +496,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = חיפוש ברשת
     .aria-label = חיפוש באמצעות { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -539,32 +504,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש ב־{ $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש בסימניות
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש בהיסטוריה
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = נא להקליד מונח לחיפוש
     .aria-label = חיפוש בלשוניות
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = נא להקליד מונחים לחיפוש
     .aria-label = חיפוש פעולות
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = ‏ניתן לחפש עם { $name } או להקליד כתובת
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -574,11 +533,9 @@ urlbar-permissions-granted =
     .tooltiptext = הענקת לאתר זה הרשאות נוספות.
 urlbar-switch-to-tab =
     .value = מעבר ללשונית:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = הרחבה:
-
 urlbar-go-button =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
 urlbar-page-action-button =
@@ -646,14 +603,12 @@ urlbar-result-action-search-actions = פעולות חיפוש
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = הצעות מ־{ $engine }
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = פעולות מהירות
@@ -673,10 +628,8 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = פתיחת תמונה בתוך תמונה ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = סגירת תמונה בתוך תמונה ({ $shortcut })
-
 picture-in-picture-panel-header = תמונה בתוך תמונה
 picture-in-picture-panel-headline = אתר זה אינו ממליץ על תמונה בתוך תמונה
 picture-in-picture-panel-body = ייתכן שסרטונים לא יוצגו כפי שהמפתח התכוון בזמן שמצב תמונה בתוך תמונה מופעל.
@@ -690,19 +643,14 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> כעת במסך מלא
 fullscreen-warning-no-domain = מסמך זה כעת במסך מלא
-
-
 fullscreen-exit-button = יציאה ממסך מלא (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = יציאה ממסך מלא (Esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = לאתר בכתובת <span data-l10n-name="domain">{ $domain }</span> יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.
 pointerlock-warning-no-domain = למסמך זה יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -757,7 +705,6 @@ bookmarks-tools =
     .label = כלי סימניות
 bookmarks-subview-edit-bookmark =
     .label = עריכת סימנייה זו…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -771,7 +718,6 @@ bookmarks-toolbar-placeholder =
     .title = פריטי סרגל כלים סימניות
 bookmarks-toolbar-placeholder-button =
     .label = פריטי סרגל כלים סימניות
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = יצירת סימנייה ללשונית הנוכחית…
@@ -806,35 +752,28 @@ toolbar-settings-button =
             [macos] פתיחת הגדרות ({ $shortcut })
            *[other] פתיחת הגדרות
         }
-
 toolbar-overflow-customize-button =
     .label = התאמה אישית של סרגל הכלים…
     .accesskey = ס
-
 toolbar-button-email-link =
     .label = שליחת קישור בדוא״ל
     .tooltiptext = שליחת קישור לדף זה בדוא״ל
-
 toolbar-button-logins =
     .label = ססמאות
     .tooltiptext = הצגה וניהול הססמאות השמורות שלך
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = שמירת דף
     .tooltiptext = שמירת דף זה ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = פתיחת קובץ
     .tooltiptext = פתיחת קובץ ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = לשוניות מסונכרנות
     .tooltiptext = הצגת לשוניות ממכשירים אחרים
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -854,8 +793,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = ס
 panel-save-update-username = שם משתמש
 panel-save-update-password = ססמה
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -870,7 +807,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = לאפשר חלונות קופצים עבור { $uriHost }
     .accesskey = א
-
 popups-infobar-block =
     .label = לחסום חלונות קופצים עבור { $uriHost }
     .accesskey = ח
@@ -880,11 +816,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = לא להציג הודעה זו בעת חסימת חלונות קופצים
     .accesskey = ל
-
 edit-popup-settings =
     .label = ניהול הגדרות של חלונות קופצים…
     .accesskey = ח
-
 picture-in-picture-hide-toggle =
     .label = הסתרת הכפתור של תמונה בתוך תמונה
     .accesskey = ה
@@ -895,7 +829,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = העברת הכפתור של תמונה בתוך תמונה לצד ימין
     .accesskey = י
-
 picture-in-picture-move-toggle-left =
     .label = העברת הכפתור של תמונה בתוך תמונה לצד שמאל
     .accesskey = ש
@@ -910,39 +843,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = ניווט
-
 navbar-downloads =
     .label = הורדות
-
 navbar-overflow =
     .tooltiptext = כלים נוספים…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = הדפסה
     .tooltiptext = הדפסת דף זה… ({ $shortcut })
-
 navbar-home =
     .label = דף הבית
     .tooltiptext = דף הבית של { -brand-short-name }
-
 navbar-library =
     .label = ספרייה
     .tooltiptext = צפייה בהיסטוריה, סימניות שמורות ועוד
-
 navbar-search =
     .title = חיפוש
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = לשוניות הדפדפן
-
 tabs-toolbar-new-tab =
     .label = לשונית חדשה
-
 tabs-toolbar-list-all-tabs =
     .label = רשימת כל הלשוניות
     .tooltiptext = רשימת כל הלשוניות
@@ -959,7 +883,6 @@ data-reporting-notification-message = { -brand-short-name } יישלח אוטו�
 data-reporting-notification-button =
     .label = בחירת פריטים לשיתוף
     .accesskey = ש
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = גלישה פרטית
 
@@ -991,21 +914,16 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = ‏{ -brand-short-name } מנע מעמוד זה לטעון את עצמו מחדש באופן אוטומטי.
 refresh-blocked-redirect-label = ‏{ -brand-short-name } מנע מעמוד זה להפנות לעמוד אחר באופן אוטומטי.
-
 refresh-blocked-allow =
     .label = לאפשר
     .accesskey = א
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = המסכות המאובטחות והקלות לשימוש שלנו מגנות על הזהות שלך ומונעות דואר זבל על־ידי הסתרת כתובת הדוא״ל שלך.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = כל הודעות הדוא״ל שנשלחים למסיכות הדוא״ל שלך יועברו אל <strong>{ $useremail }</strong> (אלא אם תבחר לחסום אותם).
-
 firefox-relay-offer-legal-notice = לחיצה על ״שימוש במסיכת דוא״ל״ מהווה הסכמה ל<label data-l10n-name="tos-url">תנאי השירות</label> ול<label data-l10n-name="privacy-url">הצהרת הפרטיות</label>.
 
 ## Add-on Pop-up Notifications
@@ -1042,7 +960,6 @@ popup-warning-button =
             [windows] א
            *[other] ד
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =

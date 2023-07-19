@@ -149,7 +149,7 @@ main-context-menu-save-link-to-pocket =
 
 main-context-menu-copy-email =
     .label = העתקת כתובת דוא״ל
-    .accesskey = כ
+    .accesskey = ה
 main-context-menu-copy-phone =
     .label = העתקת מספר טלפון
     .accesskey = ה
