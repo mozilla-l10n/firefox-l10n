@@ -69,7 +69,7 @@ firefoxview-pickup-tabs-badge = ᱢᱟᱲᱟᱝ ᱪᱚᱴᱠᱟᱨᱟᱜ
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
-    .title = ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ { $targetURI } ᱡᱷᱤᱡᱽ ᱢᱮ
+    .title = ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ { $targetURI } ᱡᱷᱤᱡᱽ ᱢᱮ
 firefoxview-try-colorways-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱤᱰᱟᱹᱣ ᱧᱚᱜᱽ ᱢᱮ
 firefoxview-change-colorway-button = ᱠᱚᱞᱚᱨᱣᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
 # Variables:

@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ᱥᱮᱸᱫᱽᱨᱟ
     .aria-label = ᱥᱮᱸᱫᱽᱨᱟ
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟ ᱟᱨ ᱵᱟᱝ ᱴᱷᱤᱠᱬᱟᱹ ᱟᱫᱮᱨ ᱢᱮ
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
     .title = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
     .aria-label = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
-
 newtab-search-box-text = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 newtab-search-box-input =
     .placeholder = ᱣᱮᱵᱽ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱥᱟᱯ�
 newtab-topsites-title-label = ᱧᱩᱛᱩᱢ
 newtab-topsites-title-input =
     .placeholder = ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ᱢᱤᱫᱴᱟᱹᱝ URL ᱚᱞ ᱢᱮ ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
 newtab-topsites-url-validation = ᱴᱷᱤᱠ URL ᱫᱚᱨᱠᱟᱨ ᱠᱟᱱᱟ
-
 newtab-topsites-image-url-label = ᱱᱤᱡᱚᱨ URL ᱪᱤᱛᱟᱹᱨ
 newtab-topsites-use-image-link = ᱱᱤᱡᱚᱨ ᱪᱤᱛᱟᱹᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ …
 newtab-topsites-image-validation = ᱪᱤᱛᱟᱹᱨ ᱞᱟᱫᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱮᱴᱟᱜ URL ᱪᱮᱥᱴᱟ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = ᱠᱟᱹᱢᱤᱼᱤᱭᱟᱹ
 newtab-menu-section-tooltip =
     .title = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
     .aria-label = ᱢᱮᱱᱩ ᱡᱷᱤᱡᱽ ᱢᱮ
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ᱚᱪᱚᱜᱽ ᱢᱮ
     .aria-label = ᱚᱪᱚᱜᱽ ᱢᱮ
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -123,7 +117,7 @@ newtab-privacy-modal-header = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱱ ᱞᱟᱹᱠᱛᱤ �
 newtab-privacy-modal-paragraph-2 =
     ᱡᱚᱛᱚ ᱠᱷᱚᱱ ᱱᱟᱯᱟᱭ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱮᱢᱚᱜ ᱥᱟᱶᱛᱮ, ᱟᱯᱮ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱥᱚᱨᱮᱥ, ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱵᱟᱷᱪᱟᱣ ᱠᱟᱱ ᱥᱯᱳᱱᱥᱚᱨ ᱠᱚ ᱠᱷᱚᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱟᱯᱮ ᱠᱚ ᱴᱷᱮᱱ ᱞᱮ ᱯᱟᱨᱥᱟᱞ ᱟ ᱾ 
     ᱱᱤᱥᱪᱤᱱᱛ ᱛᱟᱦᱮᱸᱱ ᱢᱮ, <strong>ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱰᱟᱴᱟ ᱫᱚ ᱟᱢᱟᱜ { -brand-product-name } ᱠᱷᱚᱱ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱦᱨᱮ ᱛᱮ ᱵᱟᱭ ᱪᱟᱞᱟᱜᱼᱟ</strong> - ᱟᱞᱮ ᱫᱚ ᱵᱟᱞᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ, ᱟᱨ ᱟᱞᱮ ᱨᱤᱱ ᱠᱚ ᱢᱟᱸ ᱢᱩᱴᱮ ᱵᱟᱝᱟ ᱾
-newtab-privacy-modal-link = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱱᱤᱥᱚᱱ ᱪᱮᱞᱠᱟ ᱠᱟᱹᱢᱤᱟᱭ ᱵᱟᱲᱟᱭᱢᱮ
+newtab-privacy-modal-link = ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱯᱚᱨᱟᱭᱵᱟᱥᱤ ᱪᱮᱫ ᱞᱮᱠᱟᱭ ᱠᱟᱹᱢᱤᱟᱭ ᱵᱟᱲᱟᱭ ᱢᱮ
 
 ##
 
@@ -160,17 +154,14 @@ newtab-label-removed-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜᱟᱠᱟᱱ�
 newtab-label-recommended = ᱴᱨᱮᱱᱰᱤᱝ
 newtab-label-saved = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
 newtab-label-download = ᱰᱟᱩᱱᱞᱚᱰ ᱦᱩᱭ
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ᱜᱚᱲᱚᱤᱡ
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = ᱜᱚᱲᱚᱤᱡ ᱫᱚ { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -209,7 +200,6 @@ newtab-section-header-pocket = { $provider } ᱨᱮᱭᱟᱜ ᱵᱟᱛᱟᱣᱟ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱮᱛᱚᱦᱚᱵ ᱢᱮ, ᱟᱨ ᱟᱢ ᱡᱟᱦᱟᱸᱱ ᱱᱟᱯᱟᱭ ᱚᱱᱚᱞ, ᱵᱷᱤᱰᱤᱭᱳ ᱟᱨ ᱮᱴᱟᱜ ᱥᱟᱦᱴᱟ ᱠᱚ ᱞᱮ ᱫᱮᱠᱷᱟᱣ ᱟᱢᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢ ᱱᱮᱞᱮ ᱮᱢ ᱧᱮᱞ ᱠᱟᱫᱟ ᱵᱟᱝᱠᱷᱟᱱ ᱡᱟᱦᱟᱸ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ ᱠᱟᱫᱟᱢ ᱾
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -234,10 +224,6 @@ newtab-pocket-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 newtab-pocket-cta-button = { -pocket-brand-name } ᱧᱟᱢ ᱢᱮ
 newtab-pocket-cta-text = { -pocket-brand-name } ᱨᱮ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱠᱟᱹᱦᱱᱤ ᱠᱚ ᱥᱟᱧᱪᱟᱣ ᱢᱮ, ᱟᱨ ᱵᱮᱥ ᱡᱤᱱᱤᱥ ᱠᱚ ᱮᱢᱟᱱ ᱯᱟᱲᱦᱟᱣ ᱢᱮ ᱾
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱧᱡᱽ ᱨᱮᱭᱟᱜ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ᱥᱟᱺᱪᱟᱣ ᱢᱮ
 newtab-pocket-saved = ᱥᱟᱺᱪᱟᱣᱮᱱᱟ
