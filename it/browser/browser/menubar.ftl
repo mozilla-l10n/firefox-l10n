@@ -213,6 +213,9 @@ menu-history-undo-menu =
     .label = Schede chiuse di recente
 menu-history-undo-window-menu =
     .label = Finestre chiuse di recente
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Cerca nella cronologia
 
 ## Bookmarks Menu
 
