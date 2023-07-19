@@ -12,3 +12,6 @@ about-unloads-no-unloadable-tab = Nitāj rakïj ñanj hua nāduni'.
 about-unloads-column-priority = Sa ña’ān doj
 about-unloads-column-host = Sa nīkāj ñu’ūnj un
 about-unloads-column-last-accessed = Sa gatûj rūkù nï̀n’ïn
+about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } MB
+about-unloads-memory-in-mb-tooltip =
+    .title = { NUMBER($mem, maxFractionalUnits: 2) } MB
