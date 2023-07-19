@@ -141,3 +141,4 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Birta allan vafurferil
+firefoxview-view-more-browsing-history = Skoða meira af vafurferlinum
