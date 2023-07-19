@@ -41,13 +41,17 @@ options-inspector-draggable-properties-tooltip =
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = prefers-reduced-motion ᱥᱟᱶᱛᱮ ᱟᱢ ᱫᱚ ᱥᱚᱦᱚᱡᱽ ᱦᱟᱭᱞᱟᱭᱴᱚᱨ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+options-inspector-simplified-highlighters-tooltip =
+    .title = prefers-reduced-motion ᱮᱢᱪᱷᱚ ᱞᱮᱠᱷᱟᱱ ᱥᱚᱦᱚᱡᱽ ᱦᱟᱭᱞᱟᱭᱴᱚᱨ ᱮᱢᱪᱷᱚᱭᱟᱭ ᱾ ᱡᱷᱟᱞᱠᱟᱣ ᱯᱨᱚᱵᱷᱟᱣ ᱟᱞᱚ ᱯᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱪᱤᱱᱦᱟᱹ ᱠᱟᱱ ᱱᱟᱹᱢᱩᱱᱟᱠᱚᱨᱮ ᱯᱩᱨᱟᱹᱣ ᱟᱭᱛᱟᱱᱤᱭᱟᱹ ᱵᱟᱝ ᱠᱟᱛᱮ ᱜᱟᱨ ᱛᱮᱭᱟᱨ ᱢᱮ ᱾
 
 ## "Default Color Unit" options for the Inspector
 
 options-default-color-unit-label = ᱦᱩᱰᱟᱹᱜ ᱨᱚᱝ ᱢᱤᱫᱟᱜ
+options-default-color-unit-authored = ᱚᱱᱚᱞᱤᱭᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
 options-default-color-unit-rgb = RGB(A)
+options-default-color-unit-hwb = HWB
 options-default-color-unit-name = ᱨᱚᱝ ᱧᱩᱛᱩᱢ ᱠᱚ
 
 ## Style Editor section
@@ -61,6 +65,16 @@ options-stylesheet-autocompletion-tooltip =
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱵᱮᱵᱷᱟᱨ
+# Label for the checkbox that toggles screenshot to clipboard feature
+options-screenshot-clipboard-only-label = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱫᱚ ᱨᱮᱴᱚᱯᱵᱚᱰ ᱛᱮᱜᱮ
+options-screenshot-clipboard-tooltip2 =
+    .title = ᱨᱮᱴᱚᱯᱵᱚᱰ ᱛᱮ ᱥᱤᱫᱷᱟᱹ ᱥᱠᱨᱯᱤᱱᱥᱚᱴ ᱥᱟᱧᱪᱟᱣᱜᱼᱟ
+# Label for the checkbox that toggles the camera shutter audio for screenshot tool
+options-screenshot-audio-label = ᱠᱮᱢᱨᱟ ᱥᱚᱴᱚᱨ ᱥᱟᱰᱮ ᱮᱢ ᱢᱮ
+options-screenshot-audio-tooltip =
+    .title = ᱥᱠᱨᱤᱱᱥᱚᱴ ᱫᱤᱫ ᱡᱷᱚᱜ ᱠᱮᱢᱨᱟ ᱥᱟᱰᱮ ᱮᱢᱪᱷᱚᱭᱚᱭ
 
 ## Editor section
 
@@ -77,11 +91,14 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = ᱥᱟᱦᱴᱟ ᱥᱤᱢᱟᱹ ᱵᱮᱵᱷᱟᱨ ᱯᱷᱟᱸᱠ ᱠᱚ
 options-sourceeditor-tabsize-label = ᱴᱮᱵᱽ ᱢᱟᱯ
 options-sourceeditor-keybinding-label = ᱠᱟᱹᱴᱷᱤ ᱛᱚᱞ ᱠᱚ
+options-sourceeditor-keybinding-default-label = ᱢᱩᱞ
 
 ## Advanced section
 
 # The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = ᱞᱟᱦᱟᱣᱟᱜ ᱥᱟᱡᱟᱣ ᱠᱚ
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = HTTP Cache ᱵᱚᱸᱫᱚᱭ ᱢᱮ (ᱛᱤᱧᱡᱷᱚᱜ ᱦᱟᱹᱛᱤᱭᱟᱨᱵᱟᱠᱚᱥ ᱡᱷᱤᱡ ᱛᱟᱦᱮᱸᱱ ᱟ)
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript ᱵᱚᱸᱫᱚᱭ ᱢᱮ *
 options-disable-javascript-tooltip =
