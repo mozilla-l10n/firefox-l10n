@@ -5,14 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = ගිණුම පිහිටුවීම නිම කරන්න
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = ගිණුම විසන්ධි විය
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = සියළු උපාංග වෙත යවන්න
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = උපාංග කළමනාකරණය...
 
@@ -32,10 +29,8 @@ account-manage-devices-titlecase = උපාංග කළමනාකරණය�
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = සම්බන්ධිත උපාංග නැත
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = පටිති යැවීම ගැන දැනගන්න…
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = අන් උපාංගයක් සබඳින්න…
 
@@ -50,13 +45,10 @@ account-send-tab-to-device-verify = ගිණුම සත්‍යාපනය 
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = මෙම පරිගණකය දැන් { $deviceName } සමඟ සම්බන්ධිතයි.
-
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = මෙම පරිගණකය දැන් නව උපාංගයක් සමඟ සම්බන්ධිතයි.
-
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = ඔබ සාර්ථකව පිවිසුණි
-
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = මෙම පරිගණකය විසන්ධි වී ඇත.
 
@@ -68,7 +60,6 @@ account-single-tab-arriving-title = පටිත්ත ලැබුණි
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = { $deviceName } වෙතින් පටිති
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -81,4 +72,9 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = පටිත්ත ලැබුණි
-
+# This version is used when we don't know any device names.
+account-multiple-tabs-arriving-from-unknown-device =
+    { $tabCount ->
+        [one] පටිති { $tabCount } ක් ලැබිණි
+       *[other] පටිති { $tabCount } ක් ලැබිණි
+    }
