@@ -890,6 +890,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = අපගේ ආරක්‍ෂිත සහ භාවිතයට පහසු වැස්ම ඔබගේ අනන්‍යතාවය රැක දෙන අතර වි-තැපැල් ලිපිනය සැඟවීමෙන් අයාචිත තැපැල් පණිවිඩ වළක්වයි.
 
 ## Add-on Pop-up Notifications
 

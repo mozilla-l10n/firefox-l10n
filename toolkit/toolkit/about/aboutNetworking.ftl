@@ -40,6 +40,8 @@ about-networking-total-network-requests = මුළු ජාල ඉල්ලී
 about-networking-rcwn-operation = නිහිත මෙහෙයුම
 about-networking-networkid = ජාලයේ හැඳු.
 about-networking-networkid-id = ජාලයේ හැඳු.
+# Note: do not translate about:logging, as it is a URL.
+about-networking-moved-about-logging = මෙම පිටුව <a data-l10n-name="about-logging-url">about:logging</a> වෙත ගෙන ගොස් ඇත.
 
 ## Link is intended as "network link"
 

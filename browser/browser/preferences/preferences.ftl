@@ -197,6 +197,8 @@ preferences-web-appearance-description = ඔබගේ අභිප්‍රේ�
 preferences-web-appearance-choice-auto = ස්වයංක්‍රීය
 preferences-web-appearance-choice-light = දීප්ත
 preferences-web-appearance-choice-dark = අඳුරු
+preferences-web-appearance-choice-tooltip-auto =
+    .title = ඔබගේ පද්ධතියේ සැකසුම් සහ { -brand-short-name } තේමාව මත පදනම්ව අඩවිවල පසුබිම සහ අන්තර්ගතය ස්වයංක්‍රීයව වෙනස් කරන්න.
 preferences-web-appearance-choice-tooltip-light =
     .title = අඩවියේ පසුබිම් හා අන්තර්ගතය සඳහා දීප්තිමත් පෙනුමක් යොදාගන්න.
 preferences-web-appearance-choice-tooltip-dark =
@@ -242,6 +244,7 @@ choose-language-description = පිටු පෙන්වීම සඳහා �
 choose-button =
     .label = තෝරන්න…
     .accesskey = o
+choose-browser-language-description = { -brand-short-name } වට්ටෝරු, පණිවිඩ හා දැනුම්දීම් පෙන්වීමට භාවිතා කරන භාෂා තෝරන්න.
 manage-browser-languages-button =
     .label = විකල්ප සකසන්න…
     .accesskey = I
@@ -392,6 +395,7 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } ධාවනය නොවන විට
     .accesskey = W
+update-application-warning-cross-user-setting = මෙම සැකසුම සියළුම වින්ඩෝස් ගිණුම් සහ { -brand-short-name } ස්ථාපිතය භාවිතා කරන { -brand-short-name } සියළුම පැතිකඩ සඳහා අදාළ වේ.
 update-application-use-service =
     .label = යාවත්කාල ස්ථාපනයට පසුබිම් සේවාවක්  යොදාගන්න
     .accesskey = b
@@ -578,6 +582,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = සෙවුම් යෝජනා ලිපින තීරුවේ පෙන්වන්න
     .accesskey = I
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = පෙරනිමි සෙවුම් යන්ත්‍ර ප්‍රතිඵල පිටුවේ ඒ.ස.නි. වෙනුවට සෙවුම් පද පෙන්වන්න
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -794,6 +803,8 @@ forms-breach-alerts =
     .label = උල්ලංඝනය වූ අඩවිවල මුරපද පිළිබඳව ඇඟවීම් පෙන්වන්න
     .accesskey = b
 forms-breach-alerts-learn-more-link = තව දැනගන්න
+preferences-relay-integration-checkbox =
+    .label = ඔබගේ වි-තැපැල් ලිපිනය රැක ගැනීමට { -relay-brand-name } වි-තැපැල් වැස්ම යෝජනා කරන්න
 relay-integration-learn-more-link = තව දැනගන්න
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -1054,6 +1065,8 @@ permissions-microphone = ශබ්දවාහිනිය
 permissions-microphone-settings =
     .label = සැකසුම්…
     .accesskey = t
+# Short form for "the act of choosing sound output devices and redirecting audio to the chosen devices".
+permissions-speaker = විකාශකය තේරීම
 permissions-speaker-settings =
     .label = සැකසුම්…
     .accesskey = t
@@ -1108,6 +1121,7 @@ collection-health-report-disabled = මෙම තැනීමේ වින්‍
 collection-backlogged-crash-reports-with-link = ඔබට අතපසු වූ බිඳ වැටීම් වාර්තා යැවීමට { -brand-short-name } සඳහා ඉඩ දෙන්න <a data-l10n-name="crash-reports-link">තව දැනගන්න</a>
     .accesskey = c
 privacy-segmentation-section-header = ඔබගේ පිරික්සීම ඉහළ නංවන නව විශේෂාංග
+privacy-segmentation-section-description = ඔබට වඩාත් පුද්ගලික අත්දැකීමක් ලබා දීමට ඔබගේ දත්ත භාවිතා කරන විශේෂාංග පිරිනමන විට:
 privacy-segmentation-radio-off =
     .label = { -brand-product-name } නිර්දේශ භාවිතා කරන්න
 privacy-segmentation-radio-on =
@@ -1146,6 +1160,7 @@ certs-devices =
 space-alert-over-5gb-settings-button =
     .label = සැකසුම් අරින්න
     .accesskey = O
+space-alert-over-5gb-message2 = <strong>{ -brand-short-name } සඳහා තැටියේ ඉඩ අවසන් වෙමින් පවතී.</strong> අඩවිවල අන්තර්ගත නිසි ලෙස නොපෙන්වනු ඇත. ඔබට සැකසුම් > පෞද්ගලිකත්‍වය සහ ආරක්‍ෂාව > දත්තකඩ සහ අඩවි දත්ත හරහා ගබඩා වී තිබෙන දත්ත මැකීමට හැකිය.
 
 ## Privacy Section - HTTPS-Only
 
@@ -1170,12 +1185,21 @@ preferences-doh-resolver = ප්‍රතිපාදක: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = ඒ.ස.නි. වැරදිය
+preferences-doh-status-active = සක්‍රිය
 preferences-doh-status-disabled = අක්‍රියයි
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = සක්‍රිය නැත ({ $reason })
+preferences-doh-group-message = මෙයින් ආරක්‍ෂිත ව.නා.ප. සබල කරන්න:
 preferences-doh-expand-section =
     .tooltiptext = තවත් තොරතුරු
 preferences-doh-setting-default =
     .label = පෙරනිමි රැකවරණය
     .accesskey = D
+preferences-doh-default-desc = ඔබගේ පෞද්ගලිකත්‍වය රැක දීමට ආරක්‍ෂිත ව.නා.ප. භාවිතා කළ යුතු අවස්ථා { -brand-short-name } තීරණය කරයි.
+preferences-doh-setting-enabled =
+    .label = ඉහළ නැංවූ රැකවරණය
+    .accesskey = I
 preferences-doh-setting-strict =
     .label = උපරිම රැකවරණය
     .accesskey = M
