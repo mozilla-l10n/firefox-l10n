@@ -196,7 +196,7 @@ firefoxview-view-more-browsing-history = Mostra ulteriore cronologia di navigazi
 
 firefoxview-history-empty-header = Ritorna dove sei già stato
 firefoxview-history-empty-description = Inizia a navigare e mostreremo qui le pagine che visiti.
-firefoxview-history-empty-description-two = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-product-name } debba ricordare nelle <a data-l10n-name="history-settings-url">impostazioni della cronologia</a>.
+firefoxview-history-empty-description-two = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-short-name } debba ricordare nelle <a data-l10n-name="history-settings-url">impostazioni della cronologia</a>.
 
 ##
 
@@ -207,8 +207,8 @@ firefoxview-choose-browser-button = Scegli un browser
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nulla da mostrare
-firefoxview-dont-remember-history-empty-description = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-product-name } debba ricordare.
-firefoxview-dont-remember-history-empty-description-two = { -brand-product-name } è attualmente impostato per non ricordare alcuna attività mentre navighi. Per cambiare, <a data-l10n-name="history-settings-url-two">imposta il tuo browser per salvare la cronologia</a>.
+firefoxview-dont-remember-history-empty-description = Proteggere la tua privacy è la nostra priorità. Per questo motivo puoi decidere quali attività { -brand-short-name } debba ricordare.
+firefoxview-dont-remember-history-empty-description-two = { -brand-short-name } è attualmente impostato per non ricordare alcuna attività mentre navighi. Per cambiare, <a data-l10n-name="history-settings-url-two">imposta il tuo browser per salvare la cronologia</a>.
 
 ##
 
@@ -220,6 +220,6 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importa cronologia da un altro browser
-firefoxview-import-history-description = Rendi { -brand-product-name } il tuo browser di riferimento. Importa cronologia, segnalibri e altro ancora.
+firefoxview-import-history-description = Rendi { -brand-short-name } il tuo browser di riferimento. Importa cronologia, segnalibri e altro ancora.
 
 ##
