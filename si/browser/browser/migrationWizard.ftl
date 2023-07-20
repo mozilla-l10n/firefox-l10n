@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard-selection-header = අතිරික්සුවක දත්ත ආයාත කරන්න
+migration-wizard-selection-header = අතිරික්සුවක දත්ත ආයාතය
 migration-wizard-selection-list = ඔබ ආයාත කිරීමට කැමති දත්ත තෝරන්න.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support

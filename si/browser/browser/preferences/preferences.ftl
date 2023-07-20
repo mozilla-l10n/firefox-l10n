@@ -121,6 +121,10 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = දිගුව අබල කරන්න
 preferences-data-migration-header = අතිරික්සුවක දත්ත ආයාත කරන්න
+preferences-data-migration-description = පොත්යොමු, මුරපද, ඉතිහාසය සහ ස්වයං පිරවුම් දත්ත { -brand-short-name } වෙත ආයාත කරන්න.
+preferences-data-migration-button =
+    .label = දත්ත ආයාත කරන්න
+    .accesskey = m
 tabs-group-header = පටිති
 ctrl-tab-recently-used-order =
     .label = Ctrl+Tab මෑතදී භාවිතා කළ අනුපිළිවෙලට පටිති සකසයි
@@ -396,6 +400,7 @@ update-application-suppress-prompts =
     .accesskey = n
 update-setting-write-failure-title2 = යාවත්කාල සැකසුම් සුරැකීමේ දෝෂයකි
 update-in-progress-title = යාවත්කාලය සිදු වෙමින්
+update-in-progress-message = ඔබට { -brand-short-name } මෙම යාවත්කාලය දිගටම කරගෙන යාමට වුවමනාද?
 update-in-progress-ok-button = &ඉවතලන්න
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -891,6 +896,10 @@ sitedata-allow-cookies-option =
 sitedata-disallow-cookies-option =
     .label = දත්තකඩ හා අඩවි දත්ත අවහිරය
     .accesskey = B
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = අවහිර වූ වර්ගය
+    .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = හරස්-අඩවි ලුහුබැඳීම්
 sitedata-option-block-cross-site-tracking-cookies =
@@ -916,6 +925,8 @@ sitedata-cookies-exceptions =
 cookie-banner-handling-header = දත්තකඩ පතාක අවකරණය
 cookie-banner-handling-description = { -brand-short-name } සහාය දක්වන අඩවි මත දත්තකඩ පතාකවල දත්තකඩ ඉල්ලීම් ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කිරීමට උත්සාහ කරයි.
 cookie-banner-learn-more = තව දැනගන්න
+forms-handle-cookie-banners =
+    .label = දත්තකඩ පතාක අවම කරන්න
 
 ## Privacy Section - Address Bar
 
@@ -981,6 +992,7 @@ content-blocking-social-media-trackers = සමාජ මාධ්‍ය ලු�
 content-blocking-all-cookies = සියළු දත්තකඩ
 content-blocking-unvisited-cookies = නොගිය අඩවිවල දත්තකඩ
 content-blocking-all-windows-tracking-content = සියළු කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
+content-blocking-all-cross-site-cookies = සියළු හරස් අඩවි දත්තකඩ
 content-blocking-fingerprinters = ඇඟිලි සටහන්
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
@@ -1170,6 +1182,10 @@ preferences-doh-setting-strict =
 preferences-doh-setting-off =
     .label = අක්‍රියයි
     .accesskey = O
+preferences-doh-select-resolver = ප්‍රතිපාදක තෝරන්න:
+preferences-doh-manage-exceptions =
+    .label = හැරදැමීම් කළමනාකරණය…
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 
