@@ -166,7 +166,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
     { $count ->
         [1] Gūxūn
         [one] Gūxūn daran'anj
-       *[other] { "" }
+       *[other] Gūxūn daran'anj
     }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
