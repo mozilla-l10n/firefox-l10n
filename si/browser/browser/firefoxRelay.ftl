@@ -11,6 +11,10 @@
 
 ##
 
+firefox-relay-use-mask-title = { -relay-brand-name } වි-තැපැල් වැස්ම යොදාගන්න
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = වි-තැපැල් වැස්ම යොදාගන්න
+    .accesskey = U
 firefox-relay-opt-in-confirmation-disable =
     .label = මෙය නැවත නොපෙන්වන්න
     .accesskey = D
