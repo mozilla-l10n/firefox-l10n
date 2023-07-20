@@ -186,6 +186,11 @@ firefoxview-history-date-yesterday = Ieri - { DATETIME($date, dateStyle: "full")
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (file locali)
+
 ##
 
 firefoxview-show-all-history = Mostra tutta la cronologia
