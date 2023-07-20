@@ -54,6 +54,9 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Zabilježi kartice…
     .accesskey = b
+tab-context-bookmark-tab =
+    .label = Zabilježi karticu…
+    .accesskey = b
 tab-context-open-in-new-container-tab =
     .label = Otvori u novoj kontejnerskoj kartici
     .accesskey = e
@@ -103,7 +106,6 @@ tab-context-move-tabs =
            *[other] Premjesti kartice
         }
     .accesskey = m
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
