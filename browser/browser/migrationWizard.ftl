@@ -261,4 +261,6 @@ migration-wizard-progress-success-payment-methods =
         [one] ගෙවීමේ ක්‍රම { $quantity }
        *[other] ගෙවීමේ ක්‍රම { $quantity }
     }
+migration-wizard-safari-permissions-sub-header = සෆාරි පොත්යොමු සහ පිරික්සුම් ඉතිහාසය ආයාතයට:
 migration-wizard-safari-instructions-continue = “ඉදිරියට” තෝරන්න
+migration-wizard-safari-instructions-folder = දැක්මෙහි සෆාරි බහාලුම තෝරා "අරින්න" තෝරන්න
