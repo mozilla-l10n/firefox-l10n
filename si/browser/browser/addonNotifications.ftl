@@ -14,7 +14,6 @@ xpinstall-prompt-message = ඔබ { $host } වෙතින් එක්කහ�
 
 xpinstall-prompt-header-unknown = නොදන්නා අඩවියකට එක්කහු ස්ථාපනයට ඉඩ දෙනවාද?
 xpinstall-prompt-message-unknown = ඔබ නොදන්නා අඩවියකින් එක්කහුවක් ස්ථාපනයට තැත් කරයි. ඉදිරියට යාමට පෙර ඔබ මෙම වියමන අඩවිය විශ්වාස කරන බවට වග බලා ගන්න.
-
 xpinstall-prompt-dont-allow =
     .label = ඉඩ නොදෙන්න
     .accesskey = D
@@ -38,20 +37,22 @@ xpinstall-disabled = මෘදුකාංග ස්ථාපනය දැනට
 xpinstall-disabled-button =
     .label = සබල
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = පද්ධතියේ පරිපාලක විසින් { $addonName } ({ $addonId }) අවහිර කර ඇත.
 addon-install-full-screen-blocked = පූර්ණ තිර ප්‍රකාරයේ සිටින විට හෝ ඊට පෙර එක්කහු ස්ථාපනයට ඉඩ නොදේ.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name } වෙත { $addonName } එක් කෙරිණි
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } සඳහා නව අවසර අවශ්‍යයි
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = { -brand-short-name } වෙත ආයාත වූ දිගු ස්ථාපනය නිමා වෙමින්
 
 ## Add-on removal warning
 
@@ -63,7 +64,6 @@ addon-removal-title = { $name } ඉවතලන්නද?
 addon-removal-message = { -brand-shorter-name } වෙතින් { $name } ඉවත් කරන්නද?
 addon-removal-button = ඉවත් කරන්න
 addon-removal-abuse-report-checkbox = මෙම එක්කහුව { -vendor-short-name } වෙත වාර්තා කරන්න
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -72,7 +72,6 @@ addon-downloading-and-verifying =
        *[other] එක්කහු { $addonCount } ක් බාගැනෙමින් හා සත්‍යාපනය වෙමින්…
     }
 addon-download-verifying = සත්‍යාපනය වෙමින්
-
 addon-install-cancel-button =
     .label = අවලංගු
     .accesskey = C
