@@ -33,7 +33,7 @@ inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</stron
 inactive-scroll-padding-when-not-scroll-container = 由于不会滚动，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-border-image = 由于父表格元素的 <strong>border-collapse</strong> 已设为 <strong>collapse</strong>，无法应用至内部表格元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
-inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> 不受高亮伪元素支持。
+inactive-css-highlight-pseudo-elements-not-supported = 强调（highlight）目的的伪元素上不支持 <strong>{ $property }</strong>。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
