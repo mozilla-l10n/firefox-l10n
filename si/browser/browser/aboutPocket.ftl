@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = අනන්‍යන යොදන්න
-
 pocket-panel-saved-error-generic = { -pocket-brand-name } හි සුරැකීමට තැත් කිරීමේදී දෝෂයක් මතු විය.
 pocket-panel-saved-error-tag-length = අනන්‍යන අකුරු 25 කට සීමා වේ
 pocket-panel-saved-error-only-links = සබැඳි පමණක් සුරැකීමට හැකිය
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = සුරකින්න
 pocket-panel-saved-saving-tags = සුරැකෙමින්…
 pocket-panel-saved-suggested-tags = යෝජිත අනන්‍යන
 pocket-panel-saved-tags-saved = අනන්‍යන එක් විය
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = අනන්‍යන යොදන්න:
 
@@ -44,9 +42,10 @@ pocket-panel-signup-signup-firefox = { -brand-product-name } සමඟ ලිය
 pocket-panel-signup-tagline = ඕනෑම උපාංගයක, ඕනෑම වේලාවක දී { -pocket-brand-name } හි බැලීමට { -brand-product-name } වෙතින් ලිපි සහ දෘශ්‍යක සුරකින්න.
 pocket-panel-signup-tagline-story-one = { -brand-product-name } වෙතින් පිටු, ලිපි, දෘශ්‍යක හා සබැඳි සුරැකීමට { -pocket-brand-name } බොත්තම ඔබන්න.
 pocket-panel-signup-tagline-story-two = ඕනෑම උපාංගයක, ඕනෑම වේලාවක දී { -pocket-brand-name } හි බලන්න.
-
 pocket-panel-signup-cta-a-fix = අන්තර්ජාලය සඳහා ඔබගේ සුරැකීමේ බොත්තම
+pocket-panel-signup-cta-b-updated = ලිපි, දෘශ්‍යක, හා සබැඳි සුරැකීමට { -pocket-brand-name } බොත්තම ඔබන්න. ඕනෑම උපාංගයක, ඕනෑම වේලාවක ඔබගේ සුරැකුම් බලන්න.
 pocket-panel-signup-cta-b-short = ලිපි, දෘශ්‍යක හා සබැඳි සුරැකීමට { -pocket-brand-name } බොත්තම ඔබන්න.
+pocket-panel-signup-cta-c-updated = ඕනෑම උපාංගයකින් ඔබගේ සුරැකුම් බලන්න.
 
 ## about:pocket-home panel
 
@@ -54,7 +53,6 @@ pocket-panel-home-welcome-back = සාදරයෙන් පිළිගනි�
 pocket-panel-home-explore-popular-topics = ජනප්‍රිය මාතෘකා ගවේශනය
 pocket-panel-home-discover-more = තව සොයා ගන්න
 pocket-panel-home-explore-more = ගවේශනය
-
 pocket-panel-home-most-recent-saves = ඔබගේ මෑත සුරැකුම් මෙතන:
 pocket-panel-home-most-recent-saves-loading = මෑත සුරැකුම් පූරණය වෙමින්...
 pocket-panel-home-new-user-cta = ලිපි, දෘශ්‍යක, හා සබැඳි සුරැකීමට { -pocket-brand-name } බොත්තම ඔබන්න.
