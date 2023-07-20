@@ -21,7 +21,6 @@ browser-main-window-window-titles =
     .data-title-private = { -brand-full-name } Privat surfning
     .data-content-title-default = { $content-title } — { -brand-full-name }
     .data-content-title-private = { $content-title } — { -brand-full-name } Privat surfning
-
 # These are the default window titles on macOS.
 # .data-title-default and .data-title-private are used when the web content
 # opened has no title:
@@ -44,13 +43,11 @@ browser-main-window-mac-window-titles =
     .data-title-private = { -brand-full-name } — Privat surfning
     .data-content-title-default = { $content-title }
     .data-content-title-private = { $content-title } — Privat surfning
-
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
 # `browser-main-window` and `browser-main-window-mac`.
 browser-main-window-title = { -brand-full-name }
-
 # The non-variable portion of this MUST match the translation of
 # "PRIVATE_BROWSING_SHORTCUT_TITLE" in custom.properties
 private-browsing-shortcut-text-2 = { -brand-shortcut-name } Privat surfning
@@ -113,7 +110,6 @@ urlbar-search-tips-confirm-short = Jag förstår
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = Tips:
-
 urlbar-result-menu-button =
     .title = Öppna meny
 urlbar-result-menu-button-feedback = Feedback
@@ -135,10 +131,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = Skriv mindre, hitta mer: Sök med { $engineName } direkt från ditt adressfält.
 urlbar-search-tips-redirect-2 = Starta din sökning i adressfältet för att se förslag från { $engineName } och din surfhistorik.
-
 # Make sure to match the name of the Search panel in settings.
 urlbar-search-tips-persist = Det har blivit enklare att söka. Försök att göra din sökning mer specifik här i adressfältet. För att visa webbadressen istället, besök Sök i inställningarna.
-
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Välj den här genvägen för att hitta det du behöver snabbare.
@@ -176,12 +170,10 @@ urlbar-midi-blocked =
     .tooltiptext = Du har blockerat MIDI-åtkomst för denna webbplats.
 urlbar-install-blocked =
     .tooltiptext = Du har blockerat installation av tillägg från denna webbplats.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigera detta bokmärke ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -210,10 +202,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Denna gång, sök med:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ändra sökinställningar
-
 search-one-offs-context-open-new-tab =
     .label = Sök i ny flik
     .accesskey = f
@@ -223,14 +213,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = Ange som standardsökmotor för privata fönster
     .accesskey = A
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # Shown when adding new engines from the address bar shortcut buttons or context
 # menu, or from the search bar shortcut buttons.
 # Variables:
@@ -267,71 +255,54 @@ search-one-offs-actions =
 # Opens the about:addons page in the home / recommendations section
 quickactions-addons = Visa tillägg
 quickactions-cmd-addons2 = tillägg
-
 # Opens the bookmarks library window
 quickactions-bookmarks2 = Hantera bokmärken
 quickactions-cmd-bookmarks = bokmärken
-
 # Opens a SUMO article explaining how to clear history
 quickactions-clearhistory = Rensa historik
 quickactions-cmd-clearhistory = rensa historik
-
 # Opens about:downloads page
 quickactions-downloads2 = Visa nedladdningar
 quickactions-cmd-downloads = hämtningar
-
 # Opens about:addons page in the extensions section
 quickactions-extensions = Hantera tillägg
 quickactions-cmd-extensions = tillägg
-
 # Opens the devtools web inspector
 quickactions-inspector2 = Öppna utvecklarverktyg
 quickactions-cmd-inspector = inspektör, utvecklarverktyg
-
 # Opens about:logins
 quickactions-logins2 = Hantera lösenord
 quickactions-cmd-logins = inloggningar, lösenord
-
 # Opens about:addons page in the plugins section
 quickactions-plugins = Hantera insticksmoduler
 quickactions-cmd-plugins = insticksmoduler
-
 # Opens the print dialog
 quickactions-print2 = Skriv ut sida
 quickactions-cmd-print = skriva ut
-
 # Opens a new private browsing window
 quickactions-private2 = Öppna privat fönster
 quickactions-cmd-private = privat surfning
-
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Återställ { -brand-short-name }
 quickactions-cmd-refresh = uppdatera
-
 # Restarts the browser
 quickactions-restart = Starta om { -brand-short-name }
 quickactions-cmd-restart = omstart
-
 # Opens the screenshot tool
 quickactions-screenshot3 = Ta en skärmdump
 quickactions-cmd-screenshot = skärmbild
-
 # Opens about:preferences
 quickactions-settings2 = Hantera inställningar
 quickactions-cmd-settings = inställningar, alternativ
-
 # Opens about:addons page in the themes section
 quickactions-themes = Hantera teman
 quickactions-cmd-themes = teman
-
 # Opens a SUMO article explaining how to update the browser
 quickactions-update = Uppdatera { -brand-short-name }
 quickactions-cmd-update = uppdatera
-
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = Visa källkod
 quickactions-cmd-viewsource = visa källa, källa
-
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
     .title = Läs mer om snabbåtgärder
@@ -357,7 +328,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = V
 bookmark-panel-save-button =
     .label = Spara
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -385,9 +355,9 @@ identity-passive-loaded = Vissa komponenter av den här sidan är inte säkra (t
 identity-active-loaded = Du har stängt av skyddet på den här sidan.
 identity-weak-encryption = Den här sidan använder en svag kryptering.
 identity-insecure-login-forms = Inloggningar som anges på den här sidan kan äventyras.
-
 identity-https-only-connection-upgraded = (uppgraderad till HTTPS)
 identity-https-only-label = Endast HTTPS-läge
+identity-https-only-label2 = Uppgradera denna webbplats automatiskt till en säker anslutning
 identity-https-only-dropdown-on =
     .label = På
 identity-https-only-dropdown-off =
@@ -396,12 +366,12 @@ identity-https-only-dropdown-off-temporarily =
     .label = Tillfälligt av
 identity-https-only-info-turn-on2 = Aktivera endast HTTPS-läge för den här webbplatsen om du vill att { -brand-short-name } ska uppgradera anslutningen när det är möjligt.
 identity-https-only-info-turn-off2 = Om sidan verkar trasig kanske du vill stänga av endast HTTPS-läge för att den här webbplatsen ska laddas om med osäker HTTP.
+identity-https-only-info-turn-on3 = Aktivera HTTPS-uppgraderingar för den här webbplatsen om du vill att { -brand-short-name } ska uppgradera anslutningen när det är möjligt.
+identity-https-only-info-turn-off3 = Om sidan verkar trasig kanske du vill stänga av HTTPS-uppgraderingar för att den här webbplatsen ska laddas om med osäker HTTP.
 identity-https-only-info-no-upgrade = Det gick inte att uppgradera anslutningen från HTTP.
-
 identity-permissions-storage-access-header = Globala kakor
 identity-permissions-storage-access-hint = Dessa parter kan använda global kakor och webbplatsinformation medan du är på denna webbplats.
 identity-permissions-storage-access-learn-more = Läs mer
-
 identity-permissions-reload-hint = Du kan behöva ladda om sidan för att ändringarna ska verkställas.
 identity-clear-site-data =
     .label = Rensa kakor och webbplatsdata…
@@ -462,13 +432,11 @@ browser-tab-mute =
         [1] STÄNG AV LJUD
        *[other] STÄNG AV LJUD ({ $count } FLIKAR)
     }
-
 browser-tab-unmute =
     { $count ->
         [1] SLÅ PÅ LJUD
        *[other] SLÅ PÅ LJUD ({ $count } FLIKAR)
     }
-
 browser-tab-unblock =
     { $count ->
         [1] STARTA UPPSPELNING
@@ -480,7 +448,6 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Importera bokmärken…
     .tooltiptext = Importera bokmärken från en annan webbläsare till { -brand-short-name }
-
 bookmarks-toolbar-empty-message = För snabb åtkomst placerar du dina bokmärken i bokmärkesfältet. <a data-l10n-name="manage-bookmarks">Hantera bokmärken…</a>
 
 ## WebRTC Pop-up notifications
@@ -521,7 +488,6 @@ enable-devtools-popup-description2 = För att använda F12-genvägen, öppna fö
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = Sök eller ange adress
-
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -530,7 +496,6 @@ urlbar-placeholder =
 urlbar-placeholder-search-mode-web-2 =
     .placeholder = Sök på webben
     .aria-label = Sök med { $name }
-
 # This placeholder is used in search mode with search engines that search a
 # specific site (e.g., Amazon).
 # Variables
@@ -539,32 +504,26 @@ urlbar-placeholder-search-mode-web-2 =
 urlbar-placeholder-search-mode-other-engine =
     .placeholder = Ange söktermer
     .aria-label = Sök i { $name }
-
 # This placeholder is used when searching bookmarks.
 urlbar-placeholder-search-mode-other-bookmarks =
     .placeholder = Ange söktermer
     .aria-label = Sök i bokmärken
-
 # This placeholder is used when searching history.
 urlbar-placeholder-search-mode-other-history =
     .placeholder = Ange söktermer
     .aria-label = Sök i historik
-
 # This placeholder is used when searching open tabs.
 urlbar-placeholder-search-mode-other-tabs =
     .placeholder = Ange söktermer
     .aria-label = Sök i flikar
-
 # This placeholder is used when searching quick actions.
 urlbar-placeholder-search-mode-other-actions =
     .placeholder = Ange söktermer
     .aria-label = Sök åtgärder
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = Sök med { $name } eller ange adress
-
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
@@ -574,11 +533,9 @@ urlbar-permissions-granted =
     .tooltiptext = Du har beviljat den här webbplatsen ytterligare behörigheter.
 urlbar-switch-to-tab =
     .value = Växla till flik:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tillägg:
-
 urlbar-go-button =
     .tooltiptext = Gå till adressen i adressfältet
 urlbar-page-action-button =
@@ -646,14 +603,12 @@ urlbar-result-action-search-actions = Sökåtgärder
 # urlbar results.
 urlbar-group-firefox-suggest =
     .label = { -firefox-suggest-brand-name }
-
 # A label shown above the search suggestions group in the urlbar results. It
 # should use sentence case.
 # Variables
 #  $engine (String): the name of the search engine providing the suggestions
 urlbar-group-search-suggestions =
     .label = { $engine }-förslag
-
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Snabbåtgärder
@@ -673,10 +628,8 @@ reader-view-close-button =
 
 picture-in-picture-urlbar-button-open =
     .tooltiptext = Öppna bild-i-bild ({ $shortcut })
-
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Stäng bild-i-bild ({ $shortcut })
-
 picture-in-picture-panel-header = Bild-i-bild
 picture-in-picture-panel-headline = Denna webbplats rekommenderar inte bild-i-bild
 picture-in-picture-panel-body = Videor kanske inte visas som utvecklaren tänkt när bild-i-bild är aktiverat.
@@ -690,19 +643,14 @@ picture-in-picture-enable-toggle =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> är nu i helskärm
 fullscreen-warning-no-domain = Detta dokument är nu i helskärm
-
-
 fullscreen-exit-button = Avsluta helskärm (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = Avsluta helskärm (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> har kontroll över pekaren. Tryck på Esc för att ta tillbaka kontrollen.
 pointerlock-warning-no-domain = Detta dokument har kontroll över pekaren. Tryck på Esc för att ta tillbaka kontrollen.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -757,7 +705,6 @@ bookmarks-tools =
     .label = Verktyg för bokmärken
 bookmarks-subview-edit-bookmark =
     .label = Redigera detta bokmärke…
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -771,7 +718,6 @@ bookmarks-toolbar-placeholder =
     .title = Bokmärkesfältsposter
 bookmarks-toolbar-placeholder-button =
     .label = Bokmärkesfältsposter
-
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Bokmärk aktuell flik…
@@ -806,35 +752,28 @@ toolbar-settings-button =
             [macos] Öppna inställningar ({ $shortcut })
            *[other] Öppna inställningar
         }
-
 toolbar-overflow-customize-button =
     .label = Anpassa verktygsfält…
     .accesskey = n
-
 toolbar-button-email-link =
     .label = E-posta länk
     .tooltiptext = Mejla en länk till denna sidan
-
 toolbar-button-logins =
     .label = Lösenord
     .tooltiptext = Visa och hantera dina sparade lösenord
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = Spara sida
     .tooltiptext = Spara denna sida ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = Öppna fil
     .tooltiptext = Öppna en fil ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = Synkade flikar
     .tooltiptext = Visa flikar från andra enheter
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -854,8 +793,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = g
 panel-save-update-username = Användarnamn
 panel-save-update-password = Lösenord
 
-## Add-on removal warning
-
 ##
 
 # "More" item in macOS share menu
@@ -870,7 +807,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = Tillåt popup-fönster för { $uriHost }
     .accesskey = p
-
 popups-infobar-block =
     .label = Blockera popup-fönster för { $uriHost }
     .accesskey = p
@@ -880,11 +816,9 @@ popups-infobar-block =
 popups-infobar-dont-show-message =
     .label = Visa inte det här meddelandet när popup-fönster blockeras
     .accesskey = D
-
 edit-popup-settings =
     .label = Hantera popup-inställningar...
     .accesskey = p
-
 picture-in-picture-hide-toggle =
     .label = Dölj bild-i-bild växling
     .accesskey = D
@@ -895,7 +829,6 @@ picture-in-picture-hide-toggle =
 picture-in-picture-move-toggle-right =
     .label = Flytta växel av bild-i-bild till höger sida
     .accesskey = h
-
 picture-in-picture-move-toggle-left =
     .label = Flytta växel av bild-i-bild till vänster sida
     .accesskey = v
@@ -910,39 +843,30 @@ picture-in-picture-move-toggle-left =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = Navigering
-
 navbar-downloads =
     .label = Filhämtaren
-
 navbar-overflow =
     .tooltiptext = Fler verktyg…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = Skriv ut
     .tooltiptext = Skriv ut denna sida… ({ $shortcut })
-
 navbar-home =
     .label = Startsida
     .tooltiptext = { -brand-short-name } Hemsida
-
 navbar-library =
     .label = Bibliotek
     .tooltiptext = Visa historik, sparade bokmärken och mer
-
 navbar-search =
     .title = Sök
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = Webbläsarflikar
-
 tabs-toolbar-new-tab =
     .label = Ny flik
-
 tabs-toolbar-list-all-tabs =
     .label = Lista alla flikar
     .tooltiptext = Lista alla flikar
@@ -959,7 +883,6 @@ data-reporting-notification-message = { -brand-short-name } skickar automatiskt 
 data-reporting-notification-button =
     .label = Välj vad som ska delas
     .accesskey = V
-
 # Label for the indicator shown in the private browsing window titlebar.
 private-browsing-indicator-label = Privat surfning
 
@@ -991,21 +914,16 @@ unified-extensions-button-quarantined =
 
 refresh-blocked-refresh-label = { -brand-short-name } har förhindrat att den här sidan uppdateras automatiskt.
 refresh-blocked-redirect-label = { -brand-short-name } har förhindrat att den här sidan automatiskt styr om till en annan sida.
-
 refresh-blocked-allow =
     .label = Tillåt
     .accesskey = T
 
 ## Firefox Relay integration
 
-## Popup Notification
-
 firefox-relay-offer-why-to-use-relay = Våra säkra, lättanvända alias skyddar din identitet och förhindrar skräppost genom att dölja din e-postadress.
-
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Alla e-postmeddelanden som skickas till dina e-postalias kommer att vidarebefordras till <strong>{ $useremail }</strong> (om du inte bestämmer dig för att blockera dem).
-
 firefox-relay-offer-legal-notice = Genom att klicka på "Använd e-postalias" godkänner du <label data-l10n-name="tos-url">användarvillkoren</label> och <label data-l10n-name="privacy-url">sekretessmeddelandet</label>.
 
 ## Add-on Pop-up Notifications
@@ -1038,7 +956,6 @@ popup-warning-button =
             [windows] I
            *[other] I
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
