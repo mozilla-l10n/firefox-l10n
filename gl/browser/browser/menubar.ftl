@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Lapelas pechadas recentemente
 menu-history-undo-window-menu =
     .label = Xanelas pechadas recentemente
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Buscar no historial
 
 ## Bookmarks Menu
 

@@ -23,11 +23,13 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completado
 firefoxview-tabpickup-step-signin-header = Cambiar sen problemas entre dispositivos
 firefoxview-tabpickup-step-signin-description = Para ver as lapelas do seu teléfono aquí, primeiro inicie sesión ou cree unha conta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-header = Colla pestanas desde calquera lugar
 firefoxview-syncedtabs-signin-primarybutton = Acceder ou rexistrarse
 firefoxview-tabpickup-adddevice-header = Sincronice { -brand-product-name } no seu teléfono ou tableta
 firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para móbil e iniciar sesión alí.
 firefoxview-tabpickup-adddevice-learn-how = Aprender como
 firefoxview-tabpickup-adddevice-primarybutton = Obter { -brand-product-name } para móbiles
+firefoxview-syncedtabs-adddevice-header = Acceda en { -brand-product-name } nos seus outros dispositivos
 firefoxview-syncedtabs-adddevice-primarybutton = Probe { -brand-product-name } para móbiles
 firefoxview-tabpickup-synctabs-header = Activar a sincronización de lapelas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta lapelas entre dispositivos.
@@ -177,6 +179,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar o historial desde outro navegador
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
