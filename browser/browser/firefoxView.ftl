@@ -163,6 +163,7 @@ firefoxview-view-more-browsing-history = 탐색 기록 더보기
 
 firefoxview-history-empty-header = 이전으로 돌아가기
 firefoxview-history-empty-description = 탐색할 때, 방문하는 페이지가 여기에 나열됩니다.
+firefoxview-history-empty-description-two = 개인 정보를 보호하는 것은 우리가 하는 일의 핵심입니다. <a data-l10n-name="history-settings-url">기록 설정</a>에서 { -brand-short-name }가 기억하는 활동을 제어할 수 있는 이유입니다.
 
 ##
 
@@ -173,6 +174,7 @@ firefoxview-choose-browser-button = 브라우저 선택
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = 표시할 항목 없음
+firefoxview-dont-remember-history-empty-description = 개인 정보를 보호하는 것은 우리가 하는 일의 핵심입니다. { -brand-short-name }가 기억하는 활동을 제어할 수 있는 이유입니다.
 
 ##
 
