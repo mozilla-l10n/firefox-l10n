@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Zdźělenku začinić
 alert-settings-title =
     .tooltiptext = Nastajenja
+
+## Reminder Notifications
+
+notification-default-dismiss = Zaćisnyć
