@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Pechar esta notificación
 alert-settings-title =
     .tooltiptext = Axustes
+
+## Reminder Notifications
+
+notification-default-dismiss = Rexeitar
