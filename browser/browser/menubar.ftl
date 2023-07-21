@@ -231,6 +231,9 @@ menu-bookmark-tab =
     .label = …ਮੌਜੂਦਾ ਟੈਬ ਨੂੰ ਬੁੱਕਮਾਰਕ ਕਰੋ
 menu-edit-bookmark =
     .label = …ਇਹ ਬੁੱਕਮਾਰਕ ਨੂੰ ਸੋਧੋ
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = ਬੁੱਕਮਾਰਕ ਖੋਜੋ
 menu-bookmarks-all-tabs =
     .label = …ਸਭ ਟੈਬਾਂ ਲਈ ਬੁੱਕਮਾਰਕ ਬਣਾਓ
 menu-bookmarks-toolbar =
