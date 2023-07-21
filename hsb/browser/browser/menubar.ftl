@@ -222,6 +222,9 @@ menu-history-undo-menu =
     .label = Runje začinjene rajtarki
 menu-history-undo-window-menu =
     .label = Runje začinjene wokna
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Historiju přepytać
 
 ## Bookmarks Menu
 
