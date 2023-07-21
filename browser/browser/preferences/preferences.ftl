@@ -383,6 +383,7 @@ update-application-version = අනුවාදය { $version } <a data-l10n-nam
 update-history =
     .label = යාවත්කාල ඉතිහාසය පෙන්වන්න...
     .accesskey = p
+update-application-allow-description = { -brand-short-name } සඳහා ඉඩදෙන්න
 update-application-auto =
     .label = ස්වයංක්‍රීයව යාවත්කාල ස්ථාපනය (නිර්දේශිතයි)
     .accesskey = A
@@ -403,6 +404,14 @@ update-application-suppress-prompts =
     .label = යාවත්කාල දැනුම්දීම් ප්‍රේරක අඩුවෙන් පෙන්වන්න
     .accesskey = n
 update-setting-write-failure-title2 = යාවත්කාල සැකසුම් සුරැකීමේ දෝෂයකි
+# Variables:
+#   $path (string) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message2 =
+    { -brand-short-name } දෝෂයකට මුහුණ දුන් අතර මෙම වෙනස නොසුරකින ලදි. මෙම යාවත්කාල සැකසුම සංශෝධනයට පහත ගොනුවට ලිවීමේ අවසරය වුවමනා බව සලකන්න. ඔබ හෝ පද්ධතියේ පරිපාලකයෙක් මෙම ගොනුව වෙත පරිශ්‍රීලක සමූහයේ පූර්ණ පාලනය ප්‍රදානය කළහොත් දෝෂය නිරාකරණයට හැකිවනු ඇත.
+    
+    ගොනුවට ලිවීමට නොහැකිය: { $path }
 update-in-progress-title = යාවත්කාලය සිදු වෙමින්
 update-in-progress-message = ඔබට { -brand-short-name } මෙම යාවත්කාලය දිගටම කරගෙන යාමට වුවමනාද?
 update-in-progress-ok-button = &ඉවතලන්න
@@ -1176,6 +1185,8 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = HTTPS හරහා ව.නා.ප.
+preferences-doh-description = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්ධතාවයක් මඟින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සාදමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවිය කුමක්දැයි අන් අයට බැලීමට අපහසු කරයි.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = තත්‍වය: { $status }
@@ -1200,6 +1211,7 @@ preferences-doh-default-desc = ඔබගේ පෞද්ගලිකත්‍ව
 preferences-doh-setting-enabled =
     .label = ඉහළ නැංවූ රැකවරණය
     .accesskey = I
+preferences-doh-enabled-detailed-desc-1 = ඔබ තේරූ ප්‍රතිපාදකය යොදාගන්න
 preferences-doh-setting-strict =
     .label = උපරිම රැකවරණය
     .accesskey = M

@@ -14,6 +14,8 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = පිටුව { $fromLanguage } න් { $toLanguage } ට පරිවර්තනය කර ඇත
+urlbar-translations-button-loading =
+    .tooltiptext = පරිවර්තනය වෙමින් පවතී
 translations-panel-settings-button =
     .aria-label = පරිවර්තන සැකසුම් කළමනාකරණය
 # Text displayed on a language dropdown when the language is in beta
@@ -26,6 +28,24 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = භාෂා කළමනාකරණය
+translations-panel-settings-about = { -brand-shorter-name } පරිවර්තන පිළිබඳව
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = { $language } සැමවිට පරිවර්තනය කරන්න
+translations-panel-settings-always-translate-unknown-language =
+    .label = සෑමවිට මෙම භාෂාව පරිවර්තනය කරන්න
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = { $language } කිසිවිටෙක පරිවර්තනය නොකරන්න
+translations-panel-settings-never-translate-unknown-language =
+    .label = මෙම භාෂාව කිසිවිටෙක පරිවර්තනය නොකරන්න
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = අඩවිය පරිවර්තනය නොකරන්න
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -37,15 +57,31 @@ translations-panel-translate-button-loading =
     .label = කරුණාකර රැඳෙන්න...
 translations-panel-translate-cancel =
     .label = අවලංගු
+translations-panel-error-translating = පරිවර්තන ගැටළුවක් මතු විය. යළි උත්සාහ කරන්න.
+translations-panel-error-load-languages = භාෂා පූරණය නොවිණි
+translations-panel-error-load-languages-hint = අන්තර්ජාල සම්බන්ධතාවය පරීක්‍ෂා කර උත්සාහ කරන්න.
 translations-panel-error-load-languages-hint-button =
     .label = නැවත
+translations-panel-error-unsupported = මෙම පිටුව සඳහා පරිවර්තනය නොතිබේ
 translations-panel-error-dismiss-button =
     .label = තේරුණා
+translations-panel-error-change-button =
+    .label = මූලාශ්‍ර භාෂාව වෙනස් කරන්න
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = කණගාටුයි, තවමත් { $language } සඳහා සහාය නොදක්වයි.
+translations-panel-error-unsupported-hint-unknown = කණගාටුයි, තවමත් මෙම භාෂාවට සහාය නොදක්වයි.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = මෙයින්
+translations-panel-to-label = මෙයට
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -70,6 +106,7 @@ translations-manage-header = පරිවර්තන
 translations-manage-settings-button =
     .label = සැකසුම්…
     .accesskey = t
+translations-manage-description = මාර්ගඅපගත පරිවර්තනය සඳහා භාෂා බාගන්න.
 translations-manage-all-language = සියළුම භාෂා
 translations-manage-download-button = බාගන්න
 translations-manage-delete-button = මකන්න
@@ -79,11 +116,17 @@ translations-manage-language-download-button =
 translations-manage-language-delete-button =
     .label = මකන්න
     .accesskey = e
+translations-manage-error-download = භාෂා ගොනු බාගැනීමේ ගැටළුවක් ඇත. නැවත උත්සාහ කරන්න.
+translations-manage-error-delete = භාෂා ගොනු මකා දැමීමේ ගැටළුවක් ඇත. නැවත උත්සාහ කරන්න.
+translations-manage-error-list = පරිවර්තනය සඳහා පවතින භාෂා ලේඛනය ගැනීමට අසමත් විය. නැවත උත්සාහ කිරීමට පිටුව නැවුම් කරන්න.
 translations-settings-title =
     .title = පරිවර්තන සැකසුම්
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = පහත භාෂා සඳහා පරිවර්තනය ස්වයංක්‍රීයව සිදුවනු ඇත
+translations-settings-never-translate-langs-description = පහත භාෂා සඳහා පරිවර්තනය ලබා නොදෙනු ඇත
+translations-settings-never-translate-sites-description = පහත අඩවි සඳහා පරිවර්තනය ලබා නොදෙනු ඇත
 translations-settings-languages-column =
     .label = භාෂා
 translations-settings-remove-language-button =
