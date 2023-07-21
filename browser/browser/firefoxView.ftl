@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = 브라우저 선택
 
 firefoxview-dont-remember-history-empty-header = 표시할 항목 없음
 firefoxview-dont-remember-history-empty-description = 개인 정보를 보호하는 것은 우리가 하는 일의 핵심입니다. { -brand-short-name }가 기억하는 활동을 제어할 수 있는 이유입니다.
+firefoxview-dont-remember-history-empty-description-two = 현재 설정에 따라 { -brand-short-name }는 탐색 중 활동을 기억하지 않습니다. 이를 변경하려면 <a data-l10n-name="history-settings-url-two">기록을 기억하도록 기록 설정을 변경</a>하세요.
 
 ##
 
