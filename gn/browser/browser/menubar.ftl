@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Tendayke oñembotyramóva
 menu-history-undo-window-menu =
     .label = Ovetã oñembotyramóva
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Eheka Tembiasakue
 
 ## Bookmarks Menu
 
