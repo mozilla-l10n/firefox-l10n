@@ -38,11 +38,9 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Encerrar { -brand-shorter-name }
-
 menu-about =
     .label = Sobre o { -brand-shorter-name }
     .accesskey = S
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = Abas fechadas recentemente
 menu-history-undo-window-menu =
     .label = Janelas fechadas recentemente
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Pesquisar no histórico
 
 ## Bookmarks Menu
 
