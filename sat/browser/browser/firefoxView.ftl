@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% ᱯᱩᱨᱟᱹᱣ ᱮ
 firefoxview-tabpickup-step-signin-header = ᱥᱟᱫᱷᱚᱱ ᱛᱟᱞᱟ ᱨᱮ ᱚᱫᱚᱞᱵᱚᱫᱚᱞᱚᱜ ᱢᱮ
 firefoxview-tabpickup-step-signin-description = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱱᱚᱰᱮ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱢᱟᱲᱟᱝ ᱫᱚ ᱟᱢ ᱥᱩᱦᱤ ᱮᱢ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱟᱨᱵᱟᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱾
 firefoxview-tabpickup-step-signin-primarybutton = ᱞᱮᱛᱟᱲ
+firefoxview-syncedtabs-signin-header = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨᱵᱟᱝ ᱴᱮᱵᱞᱮᱴ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
 firefoxview-tabpickup-adddevice-description = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ  { -brand-product-name } ᱰᱟᱩᱱᱞᱳᱰ ᱢᱮ ᱟᱨ ᱚᱱᱰᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-adddevice-learn-how = ᱪᱮᱫᱢᱮ
@@ -113,7 +114,7 @@ firefoxview-synced-tabs-header = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ �
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -142,3 +143,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 firefoxview-show-all-history = ᱡᱷᱚᱛᱚ ᱦᱤᱛᱟᱹᱞ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 firefoxview-view-more-browsing-history = ᱟᱨᱦᱚᱸ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
