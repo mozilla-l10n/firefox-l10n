@@ -182,9 +182,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = 다른 브라우저에서 기록 가져오기
+firefoxview-import-history-description = { -brand-short-name }를 기본 브라우저로 만드세요. 방문 기록, 북마크 등을 가져옵니다.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = 탭을 너무 빨리 닫았습니까?
+firefoxview-recentlyclosed-empty-description = 여기에서 최근에 닫은 탭을 찾을 수 있으므로, 원하는 탭을 빠르게 다시 열 수 있습니다.
+firefoxview-recentlyclosed-empty-description-two = 오래 전 탭을 찾으려면 <a data-l10n-name="history-url">방문 기록</a>을 확인하세요.
 
 ##
 
