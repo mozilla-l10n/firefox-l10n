@@ -165,6 +165,8 @@ extensions-warning-check-compatibility-button = ᱦᱩᱭ ᱦᱚᱪᱚ
 extensions-warning-update-security = ᱮᱰ-ᱟᱹᱱ ᱟᱹᱯᱛᱤ ᱧᱮᱞ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱵᱟᱠᱟᱱᱟ ᱾ ᱟᱢ ᱦᱟᱹᱞᱤ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱩᱞᱟᱹᱱᱟᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 extensions-warning-update-security-button = ᱦᱩᱭ ᱦᱚᱪᱚ
     .title = ᱮᱰ-ᱟᱹᱱ ᱦᱟᱹᱞᱤ ᱧᱮᱸᱞ ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨ ᱢᱮ
+extensions-warning-imported-addons = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚᱣᱟᱜ ᱵᱚᱦᱟᱞ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱛᱮ ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ ᱾
+extensions-warning-imported-addons-button = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱚᱦᱟᱞ ᱢᱮ
 
 ## Strings connected to add-on updates
 
@@ -375,6 +377,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = ᱵᱤᱨᱩᱫᱷ ᱛᱟᱦᱮᱸᱠᱟᱛᱮᱨᱮᱦᱚᱸ ᱥᱟᱭᱤᱴ ᱨᱮ ᱫᱟᱹᱲᱪᱷᱚᱭ ᱢᱮ
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = ᱛᱤᱧ ᱡᱷᱚᱜ ᱦᱮᱥᱮᱨᱤᱭᱟᱜᱼᱟ, ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱴᱷᱮᱱ { -vendor-short-name } ᱟᱠᱚᱴ ᱠᱟᱫ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱫᱮᱨ ᱧᱟᱢᱟᱭ ᱾ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱷᱚᱨᱥᱟ ᱮᱫ ᱠᱷᱟᱱ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹᱭ ᱢᱮ ᱾
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 addon-detail-quarantined-domains-disallow = ᱟᱞᱚ ᱢᱟᱹᱧᱡᱩᱨᱮᱭᱟᱢ

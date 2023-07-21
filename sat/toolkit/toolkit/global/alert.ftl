@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = ᱱᱚᱣᱟ ᱤᱛᱞᱟᱹᱭ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
 alert-settings-title =
     .tooltiptext = ᱥᱟᱡᱟᱣ ᱠᱚ
+
+## Reminder Notifications
+
+notification-default-dismiss = ᱵᱚᱸᱫ

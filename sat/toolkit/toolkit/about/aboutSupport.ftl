@@ -4,7 +4,6 @@
 
 page-title = ᱫᱤᱜᱫᱷᱟᱹ ᱥᱟᱦᱟ ᱵᱟᱰᱟᱭ ᱛᱮᱫ ᱠᱚ
 page-subtitle = ᱱᱚᱣᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱯᱨᱚᱣᱫᱭᱚᱜᱤᱠᱤ ᱞᱟᱹᱭ ᱥᱚᱫᱚᱨ ᱢᱮᱱᱟᱜ ᱟ ᱾ ᱳᱠᱟ ᱫᱚ ᱞᱟᱵ ᱧᱟᱢᱚᱜᱟᱜ ᱠᱟᱱᱟ, ᱛᱤᱱ ᱨᱮ ᱟᱢ ᱢᱤᱫ ᱫᱤᱧᱜᱷᱟ ᱥᱟᱹᱛ ᱞᱟᱹᱜᱤᱫ ᱠᱩᱨᱩᱢᱩᱴᱩᱭᱟ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱥᱟᱫᱷᱟᱨᱚᱱ ᱠᱩᱠᱞᱤ ᱞᱟᱹᱭ ᱞᱟᱹᱜᱤᱫ ᱧᱮᱞᱮᱫ ᱟᱢ { -brand-short-name }, ᱵᱟᱵᱚᱛ ᱛᱮ ᱟᱞᱮᱭᱟᱜ ᱛᱮᱸᱜᱷᱟᱱᱟ ᱢᱮ <a data-l10n-name="support-link"> ᱜᱚᱲᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ</a> ᱾
-
 crashes-title = ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ
 crashes-id = ᱨᱤᱯᱚᱨᱴ ID
 crashes-send-date = ᱡᱚᱢᱟ ᱮᱢ ᱟᱠᱟᱜ
@@ -16,6 +15,10 @@ support-addons-type = ᱞᱮᱠᱟ
 support-addons-enabled = ᱦᱩᱭ ᱦᱚᱪᱚ
 support-addons-version = ᱵᱷᱟᱹᱨᱥᱚᱱ
 support-addons-id = ID
+legacy-user-stylesheets-title = ᱞᱮᱜᱮᱥᱤ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱥᱴᱟᱭᱤᱞᱥᱤᱴ
+legacy-user-stylesheets-enabled = ᱩᱥᱨᱟᱹᱣ
+legacy-user-stylesheets-stylesheet-types = ᱥᱴᱟᱭᱤᱞᱥᱤᱴᱠᱚ
+legacy-user-stylesheets-no-stylesheets-found = ᱪᱮᱫ ᱥᱴᱟᱭᱤᱞᱥᱤᱴᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱱᱟ
 security-software-title = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱚᱯᱷᱴᱣᱮᱨ
 security-software-type = ᱞᱮᱠᱟ
 security-software-name = ᱧᱩᱛᱩᱢ
@@ -75,12 +78,10 @@ app-basics-key-mozilla = Mozilla ᱨᱮᱭᱟᱜ ᱡᱟᱭᱜᱟ ᱠᱟᱹᱢᱤ
 app-basics-safe-mode = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱳᱰ
 app-basics-memory-size = ᱢᱚᱱᱮ ᱢᱟᱯ (RAM)
 app-basics-disk-available = ᱰᱤᱥᱠ ᱡᱟᱭᱜᱟ ᱢᱮᱱᱟᱜᱼᱟ
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] ᱨᱚᱫ ᱨᱮ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
@@ -182,6 +183,7 @@ media-codec-support-hw-decoding = ᱦᱟᱰᱣᱮᱨ ᱰᱤᱠᱳᱰᱤᱝ
 media-codec-support-codec-name = ᱠᱚᱰᱮᱠ ᱧᱩᱛᱩᱢ
 media-codec-support-supported = ᱜᱚᱲᱚᱣᱟᱜ
 media-codec-support-unsupported = ᱵᱟᱝ ᱜᱚᱲᱚᱣᱟᱜ
+media-codec-support-error = ᱠᱳᱰᱮᱠ ᱜᱚᱲᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾ ᱢᱤᱫᱴᱟᱹᱝ ᱢᱤᱰᱤᱭᱟ ᱨᱮᱫᱽ ᱮᱢ ᱪᱷᱚ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 
 ##
 
@@ -217,7 +219,6 @@ report-crash-for-days =
         [one] ᱢᱩᱪᱟᱹᱫ { $days } ᱢᱟᱦᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ
        *[other] ᱢᱩᱪᱟᱹᱫ { $days }ᱢᱟᱹᱦᱤᱫ ᱠᱚᱞᱟᱹᱜᱤᱫ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -225,7 +226,6 @@ crashes-time-minutes =
         [one] { $minutes } ᱴᱤᱯᱡ ᱢᱟᱲᱟᱝ
        *[other] { $minutes }ᱴᱤᱯᱤᱡ ᱠᱚ ᱢᱟᱲᱟᱝ
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -233,7 +233,6 @@ crashes-time-hours =
         [one] { $hours }ᱴᱟᱲᱟᱝ ᱢᱟᱲᱟᱝ
        *[other] { $hours } ᱴᱟᱲᱟᱝ ᱠᱚ ᱾
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -241,7 +240,6 @@ crashes-time-days =
         [one] { $days } ᱢᱟᱦᱟ ᱢᱟᱲᱟᱝ
        *[other] { $days } ᱢᱟᱦᱟ ᱢᱟᱲᱟᱝ
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -249,7 +247,6 @@ pending-reports =
         [one] ᱡᱚᱛᱚ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ (ᱮᱢᱟᱠᱟᱱ ᱳᱠᱛᱚ ᱯᱟᱥᱱᱟᱣ ᱨᱮ { $reports } ᱟᱴᱠᱟᱣ ᱫᱚᱦᱚ ᱨᱟᱹᱯᱩᱫ )
        *[other] ᱡᱚᱛᱚ ᱨᱟᱹᱯᱩᱫ ᱨᱤᱯᱚᱨᱴ ᱠᱚ (ᱮᱢᱠᱤᱱ ᱳᱠᱛᱚ ᱯᱟᱥᱱᱟᱣ ᱨᱮ { $reports } ᱟᱴᱠᱟᱣ ᱫᱚᱦᱚ ᱨᱟᱹᱯᱩᱫ )
     }
-
 raw-data-copied = ᱵᱷᱮᱨᱮᱞ ᱰᱟᱴᱟ ᱨᱮᱴᱚᱯ ᱵᱚᱨᱰ ᱨᱮ ᱱᱚᱠᱚᱞ ᱞᱮᱱᱟ ᱾
 text-copied = ᱚᱱᱚᱞ ᱨᱮᱴᱚᱵᱚᱨᱰ ᱨᱮ ᱱᱚᱠᱚᱞᱮᱱᱟ᱾
 
@@ -262,11 +259,9 @@ blocked-mismatched-version = ᱟᱢᱟᱜ ᱜᱽᱨᱟᱯᱷᱤᱠ ᱰᱨᱟᱭ�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ᱪᱤᱛᱟᱹᱨ ᱰᱨᱟᱤᱵᱟᱨ ᱵᱟᱨᱥᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱟᱠᱟᱱᱟ ᱵᱟᱨᱥᱱ { $driverVersion } ᱟᱨ ᱵᱟᱝ ᱱᱟᱣᱟᱱᱟᱜ ᱨᱮᱟᱢᱟᱜ ᱜᱟᱨ ᱪᱤᱛᱟᱹᱨ ᱰᱨᱟᱤᱣᱟᱨ ᱦᱟᱹᱞᱤ ᱦᱚᱪᱚ ᱠᱩᱨᱩᱢᱩᱴᱩᱭ ᱢᱮᱸ ᱾
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ᱯᱩᱥᱴᱟᱹᱣ ᱴᱟᱭᱤᱯ ᱯᱟᱨᱟᱢᱤᱴᱟᱨ
-
 compositing = ᱛᱮᱭᱟᱨᱚᱜ ᱠᱟᱱᱟ
 hardware-h264 = ᱦᱮᱰᱣᱮᱨ H264 ᱰᱤᱠᱚᱰᱤᱝ
 main-thread-no-omtc = ᱢᱩᱞ ᱛᱷᱨᱮᱰ, OMTC ᱫᱚ ᱵᱟᱝᱟ
@@ -281,7 +276,6 @@ virtual-monitor-disp = ᱣᱟᱹᱨᱪᱩᱣᱟᱞ ᱢᱚᱱᱤᱴᱚᱨ ᱰᱤ�
 
 found = ᱧᱟᱢᱮᱱᱟ
 missing = ᱟᱫ
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = ᱵᱤᱵᱨᱚᱬ
@@ -306,19 +300,15 @@ webgl2-driver-extensions = WebGL 2 ᱰᱨᱟᱭᱵᱷᱚᱨ ᱮᱠᱥᱴᱮᱱ�
 webgl2-extensions = WebGL 2 ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ
 webgpu-default-adapter = WebGPU ᱢᱩᱞ ᱮᱰᱟᱯᱴᱚᱨ
 webgpu-fallback-adapter = WebGPU ᱯᱷᱚᱞᱵᱮᱠ ᱮᱰᱟᱯᱴᱚᱨ
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = ᱱᱚᱶᱟ ᱠᱚ ᱠᱟᱨᱚᱬ ᱞᱟᱹᱜᱤᱫ ᱟᱠᱚᱴ ᱠᱟᱱᱟ : <a data-l10n-name="bug-link">ᱵᱷᱩᱞ{ $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ᱚᱠᱚᱴᱠᱟᱱᱟ; ᱰᱤᱜᱟᱹᱣ ᱠᱳᱰ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 ᱠᱚᱢᱯᱚᱡᱚᱨ
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX ᱣᱤᱰᱤᱭᱚ ᱰᱤᱠᱚᱰᱚᱨ
-
 reset-on-next-restart = ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢ ᱨᱮ ᱫᱩᱦᱲᱟᱹ ᱨᱤᱥᱮᱴ ᱯᱮ
 gpu-process-kill-button = GPU ᱞᱟᱦᱟᱠᱚ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 gpu-device-reset = ᱥᱟᱫᱷᱚᱱ ᱨᱤᱥᱮᱴ ᱢᱮ
@@ -328,10 +318,8 @@ content-uses-tiling = ᱴᱤᱞᱤᱝ ᱵᱮᱵᱷᱟᱨᱟᱭ (ᱡᱤᱱᱤᱥ)
 off-main-thread-paint-enabled = ᱵᱟᱦᱨᱮ ᱢᱩᱞ ᱛᱷᱚᱠ ᱪᱤᱛᱟᱹᱨ ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
 off-main-thread-paint-worker-count = ᱵᱟᱦᱨᱮ ᱢᱩᱞ ᱛᱷᱚᱠ ᱪᱤᱛᱟᱹᱨ ᱠᱟᱹᱢᱤᱭᱟᱹ ᱦᱤᱥᱟᱹᱵ
 target-frame-rate = ᱴᱟᱨᱜᱮᱴ ᱯᱷᱨᱮᱢ ᱫᱚᱨ
-
 min-lib-versions = ᱟᱸᱥᱟᱜ ᱠᱚᱢᱩᱛᱟᱹᱨ ᱵᱟᱨᱥᱱ
 loaded-lib-versions = ᱵᱮᱵᱷᱟᱨ ᱨᱮ ᱵᱟᱨᱥᱟᱱ
-
 has-seccomp-bpf = Seccomp-BPF (ᱥᱤᱥᱴᱚᱢ ᱠᱚᱞ ᱪᱷᱟᱹᱱᱤ)
 has-seccomp-tsync = Seccomp ᱛᱷᱨᱮᱰ ᱟᱹᱭᱩᱨ ᱢᱤᱫ
 has-user-namespaces = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱧᱩᱛᱩᱢ ᱡᱟᱭᱜᱟ ᱠᱚ
@@ -346,18 +334,15 @@ sandbox-proc-type-content = ᱡᱤᱱᱤᱥ
 sandbox-proc-type-file = ᱨᱮᱫᱽ ᱡᱤᱱᱤᱥ
 sandbox-proc-type-media-plugin = ᱢᱤᱰᱤᱭᱟ ᱯᱞᱚᱜᱤᱱ
 sandbox-proc-type-data-decoder = ᱰᱟᱴᱟ ᱰᱤᱠᱚᱰᱚᱨ
-
 startup-cache-title = ᱥᱴᱚᱴᱚᱯᱷ ᱠᱮᱪ
 startup-cache-disk-cache-path = ᱰᱤᱥᱠ ᱠᱮᱪ ᱦᱚᱨ
 startup-cache-ignore-disk-cache = ᱰᱤᱥᱠ ᱠᱮᱪ ᱮᱨᱮᱲ ᱜᱤᱰᱤ
 startup-cache-found-disk-cache-on-init = ᱰᱤᱥᱠ ᱠᱮᱪ ᱮᱛᱦᱚᱵ ᱨᱮ ᱧᱟᱢᱮᱱᱟ
 startup-cache-wrote-to-disk-cache = ᱰᱤᱥᱠ ᱠᱮᱪ ᱨᱮ ᱚᱞᱮᱱᱟ
-
 launcher-process-status-0 = ᱮᱢ ᱪᱷᱚ ᱮᱱᱟ
 launcher-process-status-1 = ᱰᱤᱜᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱸᱫ ᱮᱱᱟ
 launcher-process-status-2 = ᱡᱩᱨ ᱡᱚᱵᱚᱨᱫᱚᱥᱛ ᱵᱚᱸᱫ ᱮᱱᱟ
 launcher-process-status-unknown = ᱵᱟᱝᱵᱟᱲᱟᱭ ᱥᱴᱟᱴᱚᱥ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -377,7 +362,6 @@ fission-status-enabled-by-user-pref = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠ�
 fission-status-disabled-by-user-pref = ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱞᱮᱠᱷᱟᱛᱮ ᱵᱚᱸᱫ ᱪᱷᱚ ᱠᱟᱱᱟ
 fission-status-disabled-by-e10s-other = E10s ᱵᱚᱸᱫ ᱠᱟᱱᱟ
 fission-status-enabled-by-rollout = ᱯᱷᱮᱡ ᱨᱚᱞᱟᱣᱴ ᱛᱮ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ
-
 async-pan-zoom = ᱮᱥᱤᱱᱠᱨᱚᱱᱚᱥ ᱯᱮᱱ/ᱡᱩᱢ
 apz-none = ᱵᱟᱹᱱᱩᱜᱼᱟ
 wheel-enabled = ᱪᱚᱠᱟ ᱟᱫᱮᱨ ᱮᱢᱪᱷᱚ ᱠᱟᱱᱟ
@@ -414,7 +398,6 @@ support-remote-experiments-title = ᱨᱤᱢᱚᱴ ᱮᱠᱥᱯᱮᱨᱤᱢᱮ�
 support-remote-experiments-name = ᱧᱩᱛᱩᱢ
 support-remote-experiments-branch = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱰᱟᱹᱨ
 support-remote-experiments-see-about-studies = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-about-studies-link">about:studies</a>ᱧᱮᱞ ᱢᱮ, ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱚᱱ ᱵᱸᱚᱫ ᱟ ᱥᱮ { -brand-short-name } ᱫᱚ ᱱᱮᱶᱟ ᱯᱨᱚᱠᱟᱨᱟᱜ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱫᱚ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱚᱱ ᱪᱟᱹᱞᱩᱭᱟ ᱾
-
 support-remote-features-title = ᱨᱤᱢᱚᱴ ᱯᱷᱤᱪᱚᱨᱠᱚ
 support-remote-features-name = ᱧᱩᱛᱩᱢ
 support-remote-features-status = ᱫᱚᱥᱟ
