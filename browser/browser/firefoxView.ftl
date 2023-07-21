@@ -23,10 +23,12 @@ firefoxview-tabpickup-progress-label = { $percentValue } % dokónčene
 firefoxview-tabpickup-step-signin-header = Přeńdźće bjezposrědnje mjez gratami
 firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho šmóratka dóstał, přizjewće so najprjedy abo załožće konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dale
+firefoxview-syncedtabs-signin-primarybutton = Přizjewić abo registrować
 firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
 firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
 firefoxview-tabpickup-adddevice-learn-how = Zhońće kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny grat wobstarać
+firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
 firefoxview-tabpickup-synctabs-learn-how = Zhońće kak
@@ -46,6 +48,7 @@ firefoxview-tabpickup-password-locked-header = Zapodajće swoje hłowne hesło, 
 firefoxview-tabpickup-password-locked-description = Za přistup k swojim rajtarkam dyrbiće hłowne hesło za { -brand-short-name } zapodać.
 firefoxview-tabpickup-password-locked-link = Dalše informacije
 firefoxview-tabpickup-password-locked-primarybutton = Hłowne hesło zapodać
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dalše informacije</a>
 firefoxview-tabpickup-signed-out-header = Přizjewće so, zo byšće zaso zwjazał
 firefoxview-tabpickup-signed-out-description = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Přizjewić
@@ -92,6 +95,8 @@ firefoxview-overview-header = Njedawno wopytane
 firefoxview-history-nav = Historija
     .title = Historija
 firefoxview-history-header = Historija
+firefoxview-history-context-delete = Z historije zhašeć
+    .accesskey = Z
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +118,7 @@ firefoxview-synced-tabs-header = Rajtarki z druhich gratow
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Wšě pokazać
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,8 +142,41 @@ firefoxview-history-date-today = Dźensa – { DATETIME($date, dateStyle: "full"
 firefoxview-history-date-yesterday = Wčera – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokalne dataje)
 
 ##
 
 firefoxview-show-all-history = Wšu historiju pokazać
 firefoxview-view-more-browsing-history = Dalšu přehladowansku historiju pokazać
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Wubjerće wobhladowak
+    .title = Wubjerće wobhladowak
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Začinić
+    .title = Začinić
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Historiju z druheho wobhladowaka importować
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
