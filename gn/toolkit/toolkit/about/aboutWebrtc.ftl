@@ -95,6 +95,7 @@ about-webrtc-save-page-label = Kuatiarogue ñongatu
 about-webrtc-debug-mode-msg-label = Mopotĩha reko
 about-webrtc-debug-mode-off-state-label = Mopotĩha reko ñepyrũ
 about-webrtc-debug-mode-on-state-label = Mopotĩha reko jejoko
+about-webrtc-enable-logging-label = Embojuruja WebRTC mboheraguapy ypygua
 about-webrtc-stats-heading = Tembiapo rehegua papapy
 about-webrtc-stats-clear = Tembiasakue ñembogue
 about-webrtc-log-heading = Jeike rehegua haipy
@@ -219,12 +220,13 @@ about-webrtc-save-page-msg = Kuatiarogue ñeñongatuha: { $path }
 about-webrtc-debug-mode-off-state-msg = Tapykueho jehaipy ikatu ejuhu amo: { $path }
 about-webrtc-debug-mode-on-state-msg = mopotĩha hendýva reko, haipy jehapykueho ápe: { $path }
 about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu ejuhu amo: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Kuatiarogue ñeñongatuha: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Tapykueho jehaipy ikatu ejuhu amo: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Mopotĩha hendýva reko, haipy jehapykueho ápe: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -304,6 +306,9 @@ about-webrtc-hide-msg-sdp = Eñomi SDP
 about-webrtc-media-context-show-msg = Ehechauka momaranduhára rehegua
 about-webrtc-media-context-hide-msg = Eñomi momaranduhára rehegua
 about-webrtc-media-context-heading = Momaranduhára rehegua
+
+##
+
 
 ##
 

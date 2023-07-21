@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Ko marandu mboty
 alert-settings-title =
     .tooltiptext = Ñemyatyrõ
+
+## Reminder Notifications
+
+notification-default-dismiss = Mboyke
