@@ -23,14 +23,20 @@ firefoxview-tabpickup-progress-label = { $percentValue }% дайын
 firefoxview-tabpickup-step-signin-header = Құрылғылар арасында кедергісіз ауысыңыз
 firefoxview-tabpickup-step-signin-description = Телефон беттерін осы жерден алу үшін алдымен жүйеге кіріңіз немесе тіркелгіні жасаңыз.
 firefoxview-tabpickup-step-signin-primarybutton = Жалғастыру
+firefoxview-syncedtabs-signin-header = Беттерді кез келген жерден алу
+firefoxview-syncedtabs-signin-primarybutton = Кіру немесе тіркелгіні жасау
 firefoxview-tabpickup-adddevice-header = Телефонда немесе планшетте { -brand-product-name }синхрондаңыз
 firefoxview-tabpickup-adddevice-description = Мобильді телефонға { -brand-product-name } жүктеп алып, сол жерден кіріңіз.
 firefoxview-tabpickup-adddevice-learn-how = Көбірек білу
 firefoxview-tabpickup-adddevice-primarybutton = Мобильді { -brand-product-name } алу
+firefoxview-syncedtabs-adddevice-primarybutton = Мобильді { -brand-product-name } қолданып көру
 firefoxview-tabpickup-synctabs-header = Беттер синхрондауын іске қосу
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } үшін құрылғылар арасында беттермен бөлісуді рұқсат ету.
 firefoxview-tabpickup-synctabs-learn-how = Көбірек білу
 firefoxview-tabpickup-synctabs-primarybutton = Ашық беттерді синхрондау
+firefoxview-syncedtabs-synctabs-header = Синхрондау баптауларын жаңартыңыз
+firefoxview-syncedtabs-synctabs-description = Басқа құрылғылардан беттерді көру үшін ашық беттерді синхрондау керек.
+firefoxview-syncedtabs-synctabs-checkbox = Ашық беттерді синхрондауға рұқсат ету
 firefoxview-tabpickup-fxa-admin-disabled-header = Сізідң ұйымыңыз синхрондауды сөндірген
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі әкімшіңіз синхрондауды сөндірген.
 firefoxview-tabpickup-network-offline-header = Интернет байланысын тексеріңіз
@@ -46,6 +52,7 @@ firefoxview-tabpickup-password-locked-header = Беттерді көру үші�
 firefoxview-tabpickup-password-locked-description = Беттерді алу үшін { -brand-short-name } үшін басты пароліңізді енгізуіңіз керек.
 firefoxview-tabpickup-password-locked-link = Көбірек білу
 firefoxview-tabpickup-password-locked-primarybutton = Басты парольді енгізіңіз
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Көбірек білу</a>
 firefoxview-tabpickup-signed-out-header = Қайта байланысу үшін кіру
 firefoxview-tabpickup-signed-out-description = Қайта байланысу және беттерді алу үшін { -fxaccount-brand-name } ішіне кіріңіз.
 firefoxview-tabpickup-signed-out-primarybutton = Кіру
@@ -92,6 +99,8 @@ firefoxview-overview-header = Жуырдағы шолу
 firefoxview-history-nav = Тарих
     .title = Тарих
 firefoxview-history-header = Тарих
+firefoxview-history-context-delete = Тарихтан өшіру
+    .accesskey = ш
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +122,7 @@ firefoxview-synced-tabs-header = Басқа құрылғылардан бетт�
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Барлығын қарау
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,8 +146,44 @@ firefoxview-history-date-today = Бүгін - { DATETIME($date, dateStyle: "full
 firefoxview-history-date-yesterday = Кеше - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (жергілікті файлдар)
 
 ##
 
 firefoxview-show-all-history = Бүкіл тарихты көрсету
 firefoxview-view-more-browsing-history = Көбірек шолу тарихын қарау
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Болған жеріңізге оралу
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Браузерді таңдау
+    .title = Браузерді таңдау
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Ақпарат жоқ
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Жабу
+    .title = Жабу
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Тарихты басқа браузерден импорттау
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Бетті тым ерте жаптыңыз ба?
+
+##
+
