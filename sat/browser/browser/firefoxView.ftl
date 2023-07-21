@@ -162,18 +162,31 @@ firefoxview-view-more-browsing-history = ᱟᱨᱦᱚᱸ ᱵᱽᱨᱟᱣᱩᱡ�
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = ᱟᱢ ᱡᱟᱦᱟᱸ ᱴᱷᱟᱶ ᱨᱮᱜᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ ᱚᱱᱟ ᱴᱷᱟᱶ ᱨᱮᱜᱮ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
+firefoxview-history-empty-description = ᱟᱢ ᱥᱮᱸᱫᱽᱨᱟ ᱛᱮ, ᱟᱢ ᱦᱤᱨᱤ ᱠᱟᱫ ᱥᱟᱦᱴᱟ ᱠᱚ ᱱᱚᱰᱮ ᱞᱤᱥᱴᱤᱜᱼᱟ ᱾
+firefoxview-history-empty-description-two = ᱟᱢᱟᱜ ᱡᱤᱛᱚᱱ ᱤᱫᱤ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱫᱟᱭᱛᱚ ᱠᱟᱱᱟ ᱾ ᱚᱱᱟ ᱛᱮ { -brand-short-name } ᱩᱭᱦᱟᱹᱨᱮᱫ ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ, <a data-l10n-name="history-settings-url">ᱦᱤᱛᱟᱹᱞ ᱥᱟᱡᱟᱣ</a> ᱠᱚᱴᱷᱮᱱ ᱠᱚᱵᱚᱡᱽ ᱢᱮᱱᱟᱜ ᱛᱟᱢᱟᱸ ᱾
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .title = ᱵᱽᱨᱟᱣᱡᱚᱨ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = ᱫᱮᱠᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮᱫᱦᱚᱸ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ
+firefoxview-dont-remember-history-empty-description = ᱟᱢᱟᱜ ᱱᱤᱥᱚᱢ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱟᱞᱮᱭᱟᱜ ᱡᱤᱜᱚᱨ ᱨᱮ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾ ᱚᱱᱟ ᱛᱮ { -brand-short-name } ᱩᱭᱦᱟᱹᱨᱮᱫ ᱡᱷᱚᱛᱚ ᱠᱟᱹᱢᱤᱠᱚᱨᱮ ᱟᱢᱟᱜ ᱠᱚᱵᱚᱡᱽ ᱢᱮᱱᱟᱜ ᱠᱟᱫᱟ ᱾
+firefoxview-dont-remember-history-empty-description-two = ᱟᱢᱟᱜ ᱱᱤᱛᱚᱜᱟᱜ ᱥᱟᱡᱟᱣ ᱦᱤᱥᱟᱹᱵ ᱛᱮ, ᱟᱢ ᱯᱟᱱᱛᱮ ᱮᱫ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ { -brand-short-name } ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱮᱫᱟᱭ ᱾ ᱚᱱᱟ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, <a data-l10n-name="history-settings-url-two">ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱩᱭᱦᱟᱹᱨ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱟᱢᱟᱜ ᱱᱟᱜᱟᱢ ᱥᱟᱡᱟᱣᱠᱚ ᱵᱚᱫᱚᱞᱢᱮ</a> ᱾
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .title = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱱᱟᱜᱟᱢᱠᱚ ᱟᱹᱜᱩᱭᱢᱮ
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
