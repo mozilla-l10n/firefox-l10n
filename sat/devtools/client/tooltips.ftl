@@ -56,6 +56,8 @@ inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> ᱯ�
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> ᱯᱨᱚᱯᱚᱴᱤ ᱫᱚ <strong>table-column</strong>, <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ᱥᱮ <strong>table-footer-group</strong> ᱟᱲᱟᱜ ᱠᱟᱛᱮ ᱟᱨ ᱡᱟᱦᱱᱟᱜ ᱥᱮᱴ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
 inactive-css-not-table-fix = <strong>display:table</strong> or <strong>display:inline-table</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, ᱥᱮ <strong>overflow:hidden</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾{ learn-more }
+inactive-css-border-image-fix = ᱜᱷᱟᱨᱚᱧᱡᱽ ᱴᱮᱵᱩᱞ ᱱᱚᱢᱩᱱᱟ ᱨᱮ, ᱯᱨᱚᱯᱚᱨᱴᱤ ᱚᱪᱚᱜᱽ ᱢᱮ ᱥᱮ <strong>border-collapse</strong> ᱦᱟᱜ ᱮᱞ ᱫᱚ ᱡᱟᱦᱱᱟᱜ ᱮᱴᱟᱜ ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ <strong>collapse</strong> ᱟᱲᱟᱜ ᱠᱟᱛᱮ ᱾ { learn-more }
+inactive-css-ruby-element-fix = ᱨᱩᱵᱤ ᱚᱞ ᱨᱮᱭᱟᱜ <strong>font-size</strong> ᱵᱚᱫᱚᱞ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
@@ -64,3 +66,11 @@ inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</s
 ##   $property (string) - A CSS declaration name e.g. "-moz-user-select" that can be a platform specific alias.
 ##   $rootProperty (string) - A raw CSS property name e.g. "user-select" that is not a platform specific alias.
 
+css-compatibility-default-message = <strong>{ $property }</strong> ᱫᱚ ᱱᱚᱶᱟ ᱵᱽᱨᱟᱣᱡᱚᱨᱠᱚᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱺ
+css-compatibility-deprecated-experimental-message = <strong>{ $property }</strong> ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱨᱚᱯᱚᱨᱴᱤ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ W3C ᱢᱟᱱᱚᱠᱛᱮ ᱵᱤᱫᱟ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟᱠᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱺ
+css-compatibility-deprecated-experimental-supported-message = <strong>{ $property }</strong> ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱨᱚᱯᱚᱨᱴᱤ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ W3C ᱢᱟᱱᱚᱠᱛᱮ ᱵᱤᱫᱟ ᱠᱟᱱᱟ ᱾
+css-compatibility-deprecated-message = <strong>{ $property }</strong> ᱫᱚ W3C ᱢᱟᱱᱚᱠᱛᱮ ᱵᱤᱫᱟ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟᱠᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱺ
+css-compatibility-deprecated-supported-message = <strong>{ $property }</strong> ᱫᱚ W3C ᱢᱟᱱᱚᱠᱛᱮ ᱵᱤᱫᱟ ᱠᱟᱱᱟ ᱾
+css-compatibility-experimental-message = <strong>{ $property }</strong> ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱨᱚᱯᱚᱨᱴᱤ ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟᱠᱚ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱥᱚᱦᱚᱫ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ ᱺ
+css-compatibility-experimental-supported-message = <strong>{ $property }</strong> ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱟᱞ ᱯᱨᱚᱯᱚᱨᱴᱤ ᱠᱟᱱᱟ ᱾
+css-compatibility-learn-more-message = ᱵᱟᱵᱚᱛ <strong>{ $rootProperty }</strong> <span data-l10n-name="link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ </span>
