@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Захаваць старонку
 about-webrtc-debug-mode-msg-label = Рэжым адладкі
 about-webrtc-debug-mode-off-state-label = Увайсці ў рэжым адладкі
 about-webrtc-debug-mode-on-state-label = Выйсці з рэжыма адладкі
+about-webrtc-enable-logging-label = Уключыць нарыхтоўку журнала WebRTC
 about-webrtc-stats-heading = Статыстыка сеанса
 about-webrtc-stats-clear = Ачысціць гісторыю
 about-webrtc-log-heading = Журнал злучэння
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = старонка захавана ў: { $path }
 about-webrtc-debug-mode-off-state-msg = журнал трасіроўкі можна знайсці ў: { $path }
 about-webrtc-debug-mode-on-state-msg = рэжым адладкі актыўны, журнал трасіроўкі ў: { $path }
 about-webrtc-aec-logging-off-state-msg = файлы журнала захопу можна знайсці ў: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Старонка захавана ў: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Журнал трасіроўкі можна знайсці ў: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Рэжым адладкі актыўны, журнал трасіроўкі ў: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -312,6 +314,9 @@ about-webrtc-hide-msg-sdp = Схаваць SDP
 about-webrtc-media-context-show-msg = Паказаць медыякантэкст
 about-webrtc-media-context-hide-msg = Схаваць медыякантэкст
 about-webrtc-media-context-heading = Медыякантэкст
+
+##
+
 
 ##
 
