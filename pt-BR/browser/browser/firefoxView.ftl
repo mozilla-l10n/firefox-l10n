@@ -161,21 +161,35 @@ firefoxview-view-more-browsing-history = Ver mais histórico de navegação
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Retorne para onde você já esteve
+firefoxview-history-empty-description = Conforme você navega, as páginas visitadas aparecem aqui.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Escolher navegador
+    .title = Escolher navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nada a mostrar
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Fechar
+    .title = Fechar
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar histórico de outro navegador
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Fechou uma aba cedo demais?
+firefoxview-recentlyclosed-empty-description = Aqui você encontra as abas que fechou recentemente, assim pode reabrir qualquer uma delas rapidamente.
+firefoxview-recentlyclosed-empty-description-two = Para encontrar abas fechadas há mais tempo, procure no <a data-l10n-name="history-url">histórico de navegação</a>.
 
 ##
 
