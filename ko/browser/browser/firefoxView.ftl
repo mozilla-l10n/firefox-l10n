@@ -24,11 +24,15 @@ firefoxview-tabpickup-step-signin-header = 기기 간 원활한 전환
 firefoxview-tabpickup-step-signin-description = 여기에서 휴대폰 탭을 보려면, 먼저 로그인하거나 계정을 만드세요.
 firefoxview-tabpickup-step-signin-primarybutton = 계속
 firefoxview-syncedtabs-signin-header = 어디서나 탭 가져오기
+firefoxview-syncedtabs-signin-description = { -brand-product-name }를 사용하는 모든 곳에서 탭을 보려면 계정에 로그인하세요. 계정이 없는 경우 가입 단계를 안내해 드립니다.
 firefoxview-syncedtabs-signin-primarybutton = 로그인 또는 가입
 firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
 firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name }를 다운로드하고 로그인하세요.
 firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
 firefoxview-tabpickup-adddevice-primarybutton = 모바일용 { -brand-product-name } 받기
+firefoxview-syncedtabs-adddevice-header = 다른 기기에서 { -brand-product-name }에 로그인하세요.
+firefoxview-syncedtabs-adddevice-description = { -brand-product-name }를 사용하는 모든 곳에서 탭을 보려면 모든 기기에서 로그인하세요. <a data-l10n-name="url">추가 기기 연결</a> 방법에 대해 알아보세요.
+firefoxview-syncedtabs-adddevice-primarybutton = 모바일용 { -brand-product-name } 사용해보기
 firefoxview-tabpickup-synctabs-header = 탭 동기화 켜기
 firefoxview-tabpickup-synctabs-description = { -brand-short-name }가 기기 간에 탭을 공유하도록 허용합니다.
 firefoxview-tabpickup-synctabs-learn-how = 방법 알아보기
