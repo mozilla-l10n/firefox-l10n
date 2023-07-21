@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue } % dokónčene
 firefoxview-tabpickup-step-signin-header = Přeńdźće bjezposrědnje mjez gratami
 firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho šmóratka dóstał, přizjewće so najprjedy abo załožće konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dale
+firefoxview-syncedtabs-signin-header = Wobstarajće sej rajtarki wot wšudźe
 firefoxview-syncedtabs-signin-primarybutton = Přizjewić abo registrować
 firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
 firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
@@ -35,6 +36,7 @@ firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, raj
 firefoxview-tabpickup-synctabs-learn-how = Zhońće kak
 firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizować
 firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske nastajenja
+firefoxview-syncedtabs-synctabs-description = Zo byšće rajtarki z druhich gratow widźał, dyrbiće swoje wočinjene rajtarki synchronizować.
 firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wočinjenych rajtarkow dowolić
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
@@ -157,6 +159,7 @@ firefoxview-view-more-browsing-history = Dalšu přehladowansku historiju pokaza
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Wróćće so tam, hdźež sće był
 
 ##
 
@@ -181,6 +184,8 @@ firefoxview-import-history-header = Historiju z druheho wobhladowaka importować
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Rajtark je so přezahe začinił?
+firefoxview-recentlyclosed-empty-description-two = Zo byšće starše rajtarki namakał, hladajće do <a data-l10n-name="history-url">přehladowanskeje historije</a>.
 
 ##
 
