@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Парақты сақтау
 about-webrtc-debug-mode-msg-label = Жөндеу режимі
 about-webrtc-debug-mode-off-state-label = Жөндеу режимін іске қосу
 about-webrtc-debug-mode-on-state-label = Жөндеу режимін тоқтату
+about-webrtc-enable-logging-label = WebRTC журналының алдын ала баптауын іске қосу
 about-webrtc-stats-heading = Сессия статистикасы
 about-webrtc-stats-clear = Тарихты тазарту
 about-webrtc-log-heading = Байланыстар логы
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = бет сақталған жері: { $path }
 about-webrtc-debug-mode-off-state-msg = трейс логын келесі жерден табу мүмкін емес: { $path }
 about-webrtc-debug-mode-on-state-msg = жөндеу режимі іске қосулы, трей лог жері: { $path }
 about-webrtc-aec-logging-off-state-msg = жиналған лог файлдарының орналасқан жері: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Бет сақталған жері: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Трейс логын келесі жерден табу мүмкін емес: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Жөндеу режимі іске қосулы, трей лог жері: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -304,6 +306,9 @@ about-webrtc-hide-msg-sdp = SDP жасыру
 about-webrtc-media-context-show-msg = Медиа контекстін көрсету
 about-webrtc-media-context-hide-msg = Медиа контекстін жасыру
 about-webrtc-media-context-heading = Медиа контексті
+
+##
+
 
 ##
 
