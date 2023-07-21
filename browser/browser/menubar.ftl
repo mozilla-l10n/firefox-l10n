@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Son kapatılan sekmeler
 menu-history-undo-window-menu =
     .label = Son kapatılan pencereler
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Geçmişte ara
 
 ## Bookmarks Menu
 

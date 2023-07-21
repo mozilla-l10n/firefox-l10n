@@ -23,14 +23,18 @@ firefoxview-tabpickup-progress-label = %{ $percentValue } tamamlandı
 firefoxview-tabpickup-step-signin-header = Cihazlar arasında kolayca geçiş yapın
 firefoxview-tabpickup-step-signin-description = Telefondaki sekmelerinizi burada görmek için önce giriş yapın veya hesap açın.
 firefoxview-tabpickup-step-signin-primarybutton = Devam et
+firefoxview-syncedtabs-signin-primarybutton = Giriş yap veya kaydol
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
 firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-product-name }’u indirin ve hesabınıza giriş yapın.
 firefoxview-tabpickup-adddevice-learn-how = Nasıl yapılacağını öğrenin
 firefoxview-tabpickup-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u indir
+firefoxview-syncedtabs-adddevice-header = Diğer cihazlarınızdan { -brand-product-name }’a giriş yapın
+firefoxview-syncedtabs-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u deneyin
 firefoxview-tabpickup-synctabs-header = Sekme eşitlemeyi açın
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tarayıcınızın sekmeleri cihazlar arasında paylaşmasına izin verin.
 firefoxview-tabpickup-synctabs-learn-how = Nasıl yapılacağını öğrenin
 firefoxview-tabpickup-synctabs-primarybutton = Açık sekmeleri eşitle
+firefoxview-syncedtabs-synctabs-header = Eşitleme ayarlarınızı güncelleyin
 firefoxview-tabpickup-fxa-admin-disabled-header = Kuruluşunuz eşitlemeyi devre dışı bırakmış
 firefoxview-tabpickup-fxa-admin-disabled-description = Yöneticiniz eşitlemeyi devre dışı bıraktığı için { -brand-short-name } sekmeleri cihazlar arasında eşitleyemiyor.
 firefoxview-tabpickup-network-offline-header = İnternet bağlantınızı kontrol edin
@@ -91,6 +95,8 @@ firefoxview-overview-header = Son bakılanlar
 firefoxview-history-nav = Geçmiş
     .title = Geçmiş
 firefoxview-history-header = Geçmiş
+firefoxview-history-context-delete = Geçmişten sil
+    .accesskey = G
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -112,7 +118,7 @@ firefoxview-synced-tabs-header = Diğer cihazlardaki sekmeler
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Tümünü göster
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -136,7 +142,40 @@ firefoxview-history-date-today = Bugün - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Dün - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (yerel dosyalar)
 
 ##
 
 firefoxview-show-all-history = Tüm geçmişi göster
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Tarayıcı seç
+    .title = Tarayıcı seç
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Gösterilecek bir şey yok
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Kapat
+    .title = Kapat
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+

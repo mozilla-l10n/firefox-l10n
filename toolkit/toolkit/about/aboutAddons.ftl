@@ -162,6 +162,7 @@ extensions-warning-update-security = Eklenti güncelleme güvenliği denetimi de
 extensions-warning-update-security-button = Etkinleştir
     .title = Eklenti güncelleme güvenliği denetimini devreye sok
 extensions-warning-imported-addons = Lütfen { -brand-short-name } tarayıcınıza aktarılan uzantıların kurulumunu bitirin.
+extensions-warning-imported-addons-button = Uzantıları yükle
 
 ## Strings connected to add-on updates
 
