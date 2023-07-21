@@ -23,6 +23,8 @@ firefoxview-tabpickup-progress-label = { $percentValue }% 완료
 firefoxview-tabpickup-step-signin-header = 기기 간 원활한 전환
 firefoxview-tabpickup-step-signin-description = 여기에서 휴대폰 탭을 보려면, 먼저 로그인하거나 계정을 만드세요.
 firefoxview-tabpickup-step-signin-primarybutton = 계속
+firefoxview-syncedtabs-signin-header = 어디서나 탭 가져오기
+firefoxview-syncedtabs-signin-primarybutton = 로그인 또는 가입
 firefoxview-tabpickup-adddevice-header = 휴대폰 또는 태블릿에서 { -brand-product-name } 동기화
 firefoxview-tabpickup-adddevice-description = 모바일용 { -brand-product-name }를 다운로드하고 로그인하세요.
 firefoxview-tabpickup-adddevice-learn-how = 방법 알아보기
@@ -113,7 +115,7 @@ firefoxview-synced-tabs-header = 다른 기기의 탭
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = 모두 보기
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -142,3 +144,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 firefoxview-show-all-history = 모든 기록 보기
 firefoxview-view-more-browsing-history = 탐색 기록 더보기
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+

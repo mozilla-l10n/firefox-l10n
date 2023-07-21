@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } 종료
-
 menu-about =
     .label = { -brand-shorter-name } 정보
     .accesskey = A
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = 최근에 닫은 탭
 menu-history-undo-window-menu =
     .label = 최근에 닫은 창
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = 기록 검색
 
 ## Bookmarks Menu
 
