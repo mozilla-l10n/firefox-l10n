@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = 最近关闭的标签页
 menu-history-undo-window-menu =
     .label = 最近关闭的窗口
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = 搜索历史记录
 
 ## Bookmarks Menu
 
