@@ -38,11 +38,9 @@ menu-quit =
             [windows] ы
            *[other] В
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Выйсці з { -brand-shorter-name }
-
 menu-about =
     .label = Пра { -brand-shorter-name }
     .accesskey = П
@@ -223,6 +221,9 @@ menu-history-undo-menu =
     .label = Нядаўна закрытыя карткі
 menu-history-undo-window-menu =
     .label = Нядаўна закрытыя вокны
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Шукаць у гісторыі
 
 ## Bookmarks Menu
 
