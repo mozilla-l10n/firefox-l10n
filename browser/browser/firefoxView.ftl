@@ -35,6 +35,7 @@ firefoxview-tabpickup-synctabs-header = Kveiktu á samstillingu flipa
 firefoxview-tabpickup-synctabs-description = Leyfðu { -brand-short-name } að deila flipum á milli tækja.
 firefoxview-tabpickup-synctabs-learn-how = Lærðu hvernig
 firefoxview-tabpickup-synctabs-primarybutton = Samstilla opna flipa
+firefoxview-syncedtabs-synctabs-header = Uppfærðu stillingarnar þínar fyrir samstillingu
 firefoxview-syncedtabs-synctabs-description = Til að sjá flipa frá öðrum tækjum þarftu að samstilla opna flipa.
 firefoxview-syncedtabs-synctabs-checkbox = Leyfa opnum flipum að samstillast
 firefoxview-tabpickup-fxa-admin-disabled-header = Kerfisstjórarnir þínir hafa gert samstillingu óvirka
@@ -170,6 +171,7 @@ firefoxview-choose-browser-button = Veldu vafra
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ekkert til að sýna
+firefoxview-dont-remember-history-empty-description-two = Miðað við núverandi stillingar þínar, mun { -brand-short-name } ekki skrá virkni þína við vafur. Til að breyta því, skaltu <a data-l10n-name="history-settings-url-two">breyta ferlistillingunum þínum í að muna vafrið þitt</a>.
 
 ##
 
@@ -181,10 +183,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Flytja vafurferil inn úr öðrum vafra
+firefoxview-import-history-description = Gerðu { -brand-short-name } að aðalvafranum þínum. Flyttu inn vafurferil, bókamerki og fleira.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Lokaðirðu flipa of snemma?
+firefoxview-recentlyclosed-empty-description = Hér finnurðu flipa sem þú lokaðir nýlega, svo þú getur fljótt opnað þá aftur.
+firefoxview-recentlyclosed-empty-description-two = Til að finna flipa sem lengra er síðan að var lokað, skaltu skoða <a data-l10n-name="history-url">vafurferilinn þinn</a>.
 
 ##
 
