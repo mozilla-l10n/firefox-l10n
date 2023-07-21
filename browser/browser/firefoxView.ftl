@@ -37,6 +37,9 @@ firefoxview-tabpickup-synctabs-header = 탭 동기화 켜기
 firefoxview-tabpickup-synctabs-description = { -brand-short-name }가 기기 간에 탭을 공유하도록 허용합니다.
 firefoxview-tabpickup-synctabs-learn-how = 방법 알아보기
 firefoxview-tabpickup-synctabs-primarybutton = 열린 탭 동기화
+firefoxview-syncedtabs-synctabs-header = 동기화 설정 업데이트
+firefoxview-syncedtabs-synctabs-description = 다른 기기의 탭을 보려면 열려 있는 탭을 동기화해야 합니다.
+firefoxview-syncedtabs-synctabs-checkbox = 열린 탭이 동기화되도록 허용
 firefoxview-tabpickup-fxa-admin-disabled-header = 조직에서 동기화를 사용하지 않도록 설정함
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }는 관리자가 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
 firefoxview-tabpickup-network-offline-header = 인터넷 연결 확인
@@ -52,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = 탭을 보려면 기본 비밀번
 firefoxview-tabpickup-password-locked-description = 탭을 가져오려면 { -brand-short-name }의 기본 비밀번호를 입력해야 합니다.
 firefoxview-tabpickup-password-locked-link = 더 알아보기
 firefoxview-tabpickup-password-locked-primarybutton = 기본 비밀번호 입력
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">더 알아보기</a>
 firefoxview-tabpickup-signed-out-header = 다시 연결하려면 로그인하세요
 firefoxview-tabpickup-signed-out-description = 다시 연결하고 탭을 가져오려면 { -fxaccount-brand-name }에 로그인하세요.
 firefoxview-tabpickup-signed-out-primarybutton = 로그인
@@ -98,6 +102,8 @@ firefoxview-overview-header = 최근 탐색
 firefoxview-history-nav = 기록
     .title = 기록
 firefoxview-history-header = 기록
+firefoxview-history-context-delete = 기록에서 삭제
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -143,6 +149,10 @@ firefoxview-history-date-today = 오늘 - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = 어제 - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (로컬 파일)
 
 ##
 
@@ -154,15 +164,24 @@ firefoxview-view-more-browsing-history = 탐색 기록 더보기
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = 브라우저 선택
+    .title = 브라우저 선택
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = 표시할 항목 없음
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = 닫기
+    .title = 닫기
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = 다른 브라우저에서 기록 가져오기
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
