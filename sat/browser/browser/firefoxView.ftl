@@ -24,14 +24,22 @@ firefoxview-tabpickup-step-signin-header = ᱥᱟᱫᱷᱚᱱ ᱛᱟᱞᱟ ᱨ�
 firefoxview-tabpickup-step-signin-description = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱴᱮᱵᱽ ᱠᱚ ᱱᱚᱰᱮ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱢᱟᱲᱟᱝ ᱫᱚ ᱟᱢ ᱥᱩᱦᱤ ᱮᱢ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱟᱨᱵᱟᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱟᱛᱟ ᱛᱮᱭᱟᱨ ᱛᱮ ᱦᱩᱭᱟᱢᱟᱸ ᱾
 firefoxview-tabpickup-step-signin-primarybutton = ᱞᱮᱛᱟᱲ
 firefoxview-syncedtabs-signin-header = ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱜᱮ ᱴᱮᱵᱽᱠᱚ ᱦᱟᱛᱟᱣ ᱢᱮ
+firefoxview-syncedtabs-signin-description = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ { -brand-product-name } ᱵᱮᱵᱷᱟᱨᱟ ᱚᱱᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱠᱷᱟᱛᱟ ᱨᱮ ᱢᱮ ᱾ ᱡᱩᱫᱤ ᱟᱢ ᱴᱷᱮᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱹᱱᱩᱜ ᱠᱷᱟᱱ, ᱟᱢ ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱠᱚᱨᱮ ᱟᱢ ᱥᱟᱶ ᱞᱮ ᱛᱟᱦᱮᱸᱱᱟ ᱾
+firefoxview-syncedtabs-signin-primarybutton = ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱥᱮ ᱧᱩᱛᱩᱢ ᱚᱞ ᱦᱚᱪᱚᱭ ᱢᱮ
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱟᱨᱵᱟᱝ ᱴᱮᱵᱞᱮᱴ ᱨᱮ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
 firefoxview-tabpickup-adddevice-description = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ  { -brand-product-name } ᱰᱟᱩᱱᱞᱳᱰ ᱢᱮ ᱟᱨ ᱚᱱᱰᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-adddevice-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢᱟᱜ ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱜᱩᱭ ᱢᱮ
+firefoxview-syncedtabs-adddevice-header = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱛᱮ { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+firefoxview-syncedtabs-adddevice-description = ᱟᱢᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱡᱟᱦᱟᱸ ᱠᱷᱚᱱ ᱟᱢ { -brand-product-name } ᱵᱮᱵᱷᱟᱨᱟ ᱮᱫᱟ ᱚᱱᱟ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱡᱷᱚᱛᱚ ᱥᱚᱫᱷᱚᱱ ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾ <a data-l10n-name="url">ᱵᱟᱹᱲᱛᱤ ᱥᱟᱫᱷᱚᱱᱠᱚ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ</a> ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ ᱾
+firefoxview-syncedtabs-adddevice-primarybutton = ᱢᱚᱵᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ { -brand-product-name } ᱪᱮᱥᱴᱟᱭ ᱢᱮ
 firefoxview-tabpickup-synctabs-header = ᱴᱮᱵᱽ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-tabpickup-synctabs-description = ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱤᱨ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ { -brand-short-name } ᱠᱚᱨᱟᱣ ᱪᱷᱚᱭᱮᱢ ᱾
 firefoxview-tabpickup-synctabs-learn-how = ᱪᱮᱫᱢᱮ
 firefoxview-tabpickup-synctabs-primarybutton = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴᱮᱵᱽ ᱠᱚ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱢᱮ
+firefoxview-syncedtabs-synctabs-header = ᱟᱢᱟᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱥᱟᱡᱟᱣᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
+firefoxview-syncedtabs-synctabs-description = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱟᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱷᱚᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
+firefoxview-syncedtabs-synctabs-checkbox = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱴᱮᱵᱽ ᱠᱚ ᱠᱷᱩᱞᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱤᱡ ᱮᱰᱢᱤᱱ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
@@ -47,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = ᱴᱮᱵᱽ ᱨᱚ ᱧᱮᱞ ᱞ
 firefoxview-tabpickup-password-locked-description = ᱴᱮᱵᱽ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢ ᱫᱚ { -brand-short-name } ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ ᱟᱫᱮᱨ ᱛᱮ ᱦᱩᱭ ᱟᱢᱟ ᱾
 firefoxview-tabpickup-password-locked-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 firefoxview-tabpickup-password-locked-primarybutton = ᱢᱩᱞ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱟᱫᱮᱨ ᱢᱮ
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 firefoxview-tabpickup-signed-out-header = ᱫᱩᱲᱟᱹ ᱡᱚᱲᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ ᱢᱮ
 firefoxview-tabpickup-signed-out-description = ᱫᱩᱦᱲᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱟᱨ ᱴᱮᱵᱽ ᱠᱚ ᱦᱟᱛᱟᱣ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ { -fxaccount-brand-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ ᱾
 firefoxview-tabpickup-signed-out-primarybutton = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
@@ -93,6 +102,8 @@ firefoxview-overview-header = ᱱᱮᱛᱟᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 firefoxview-history-nav = ᱱᱟᱜᱟᱢ
     .title = ᱱᱟᱜᱟᱢ
 firefoxview-history-header = ᱱᱟᱜᱟᱢ
+firefoxview-history-context-delete = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱢᱮᱴᱟᱣ ᱢᱮ
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -138,6 +149,10 @@ firefoxview-history-date-today = ᱛᱮᱦᱮᱸᱧ - { DATETIME($date, dateStyl
 firefoxview-history-date-yesterday = ᱦᱚᱞᱟ - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ᱱᱚᱰᱮᱱᱟᱜ ᱨᱮᱫ ᱠᱚ )
 
 ##
 
@@ -146,6 +161,7 @@ firefoxview-view-more-browsing-history = ᱟᱨᱦᱚᱸ ᱵᱽᱨᱟᱣᱩᱡ�
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = ᱟᱢ ᱡᱟᱦᱟᱸ ᱴᱷᱟᱶ ᱨᱮᱜᱮ ᱛᱟᱦᱮᱸᱱ ᱠᱟᱱᱟ ᱚᱱᱟ ᱴᱷᱟᱶ ᱨᱮᱜᱮ ᱨᱩᱣᱟᱹᱲ ᱢᱮ
 
 ##
 
