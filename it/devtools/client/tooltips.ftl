@@ -123,3 +123,4 @@ css-compatibility-experimental-message = <strong>{ $property }</strong> è una p
 css-compatibility-experimental-supported-message = <strong>{ $property }</strong> è una proprietà sperimentale.
 
 css-compatibility-learn-more-message = <span data-l10n-name="link">Ulteriori informazioni</span> su <strong>{ $rootProperty }</strong>
+

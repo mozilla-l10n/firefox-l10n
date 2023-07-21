@@ -83,3 +83,4 @@ text-action-spell-dictionaries =
 
 text-action-search-text-box-clear =
     .title = Cancella
+
