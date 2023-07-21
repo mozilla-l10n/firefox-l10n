@@ -46,6 +46,10 @@ remote-node-picker-notice-action-touch = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱨᱮ ᱵ�
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
 remote-node-picker-notice-hide-button = ᱩᱠᱩ
+# The text displayed in a toolbox notification message which is only displayed
+# if prefers-reduced-motion is enabled (via OS-level settings or by using the
+# ui.prefersReducedMotion=1 preference).
+simple-highlighters-message = prefers-reduced-motion ᱮᱢ ᱛᱟᱦᱮᱸᱱ ᱠᱷᱟᱱ, ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱫᱟ ᱦᱟᱭᱞᱟᱭᱴᱚᱨ ᱫᱚ ᱥᱟᱡᱟᱣ ᱯᱮᱱᱟᱞ ᱨᱮ ᱮᱢ ᱜᱟᱱᱚᱜᱼᱟ, ᱨᱚᱝ ᱡᱷᱟᱞᱠᱟᱣ ᱟᱞᱚ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱛᱮ  ᱾
 # Text displayed in a button inside the "simple-highlighters-message" toolbox
 # notification. "Settings" here refers to the DevTools settings panel.
 simple-highlighters-settings-button = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
