@@ -161,6 +161,8 @@ firefoxview-view-more-browsing-history = 탐색 기록 더보기
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = 이전으로 돌아가기
+firefoxview-history-empty-description = 탐색할 때, 방문하는 페이지가 여기에 나열됩니다.
 
 ##
 
