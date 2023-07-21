@@ -33,6 +33,9 @@ firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
 firefoxview-tabpickup-synctabs-learn-how = 了解要如何做
 firefoxview-tabpickup-synctabs-primarybutton = 同步打开的标签页
+firefoxview-syncedtabs-synctabs-header = 更新您的同步设置
+firefoxview-syncedtabs-synctabs-description = 要查看来自其他设备的标签页，您需要同步打开的标签页。
+firefoxview-syncedtabs-synctabs-checkbox = 允许同步打开的标签页
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服务
 firefoxview-tabpickup-fxa-admin-disabled-description = 由于您的管理员已禁用同步服务，{ -brand-short-name } 无法跨设备同步标签页。
 firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
@@ -48,6 +51,7 @@ firefoxview-tabpickup-password-locked-header = 请输入您的主密码以查看
 firefoxview-tabpickup-password-locked-description = 若要接收您的标签页，需先输入 { -brand-short-name } 的主密码。
 firefoxview-tabpickup-password-locked-link = 详细了解
 firefoxview-tabpickup-password-locked-primarybutton = 请输入主密码
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">了解更多</a>
 firefoxview-tabpickup-signed-out-header = 登录以重新连接
 firefoxview-tabpickup-signed-out-description = 登录 { -fxaccount-brand-name }即可重新连接并取回标签页。
 firefoxview-tabpickup-signed-out-primarybutton = 登录
