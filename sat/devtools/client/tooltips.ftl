@@ -41,6 +41,21 @@ inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</st
 
 inactive-css-not-grid-or-flex-container-fix = <strong>display:grid</strong> ᱥᱮ <strong>display:flex</strong> ᱥᱮᱞᱮᱫ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = <strong>display:grid</strong>, <strong>display:flex</strong>, ᱥᱮ <strong>columns:2</strong> ᱥᱮᱞᱮᱫ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-grid-or-flex-item-fix-3 = <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, ᱥᱮ <strong>display:inline-flex</strong> ᱜᱷᱟᱨᱚᱧᱡᱽ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱥᱮᱞᱮᱫ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-grid-item-fix-2 = <strong>display:grid</strong> ᱥᱮ <strong>display:inline-grid</strong> ᱜᱷᱟᱨᱚᱧᱡᱽ ᱱᱚᱢᱤᱩᱱᱟ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-grid-container-fix = <strong>display:grid</strong> ᱥᱮ <strong>display:inline-grid</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-flex-item-fix-2 = <strong>display:flex</strong> ᱥᱮ <strong>display:inline-flex</strong> ᱜᱷᱟᱨᱚᱧᱡᱽ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-flex-container-fix = <strong>display:flex</strong> ᱥᱮ <strong>display:inline-flex</strong> ᱨᱮ ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-inline-or-tablecell-fix = <strong>display:inline</strong> ᱥᱮ <strong>display:table-cell</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = <strong>display:inline-block</strong> ᱥᱮ <strong>display:block</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = <strong>display:inline-block</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-display-block-on-floated-fix = <strong>float</strong> ᱚᱪᱚᱜᱽ ᱥᱮ <strong>display:block</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = <strong>static</strong> ᱪᱷᱟᱰᱤ ᱠᱟᱛᱮ ᱡᱟᱦᱱᱟᱜ <strong>position</strong> ᱯᱨᱚᱯᱚᱴᱤ ᱥᱮᱴ ᱠᱟᱛᱮ ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-text-overflow-when-no-overflow-fix = <strong>overflow:hidden</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-for-internal-table-elements-fix = <strong>display</strong> ᱯᱨᱚᱯᱚᱴᱤ ᱫᱚ <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ᱥᱮ <strong>table-footer-group</strong> ᱟᱲᱟᱜ ᱠᱟᱛᱮ ᱟᱨ ᱡᱟᱦᱱᱟᱜ ᱥᱮᱴ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = <strong>display</strong> ᱯᱨᱚᱯᱚᱴᱤ ᱫᱚ <strong>table-column</strong>, <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ᱥᱮ <strong>table-footer-group</strong> ᱟᱲᱟᱜ ᱠᱟᱛᱮ ᱟᱨ ᱡᱟᱦᱱᱟᱜ ᱥᱮᱴ ᱠᱟᱛᱮ ᱧᱮᱞ ᱢᱮ ᱾ { learn-more }
+inactive-css-not-table-fix = <strong>display:table</strong> or <strong>display:inline-table</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾ { learn-more }
+inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, ᱥᱮ <strong>overflow:hidden</strong> ᱥᱮᱞᱮᱫ ᱵᱤᱲᱟᱹᱣ ᱢᱮ ᱾{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
