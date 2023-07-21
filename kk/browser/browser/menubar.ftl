@@ -38,11 +38,9 @@ menu-quit =
             [windows] ы
            *[other] Ш
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } жұмысын аяқтау
-
 menu-about =
     .label = { -brand-shorter-name } туралы
     .accesskey = а
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = Жақында жабылған беттер
 menu-history-undo-window-menu =
     .label = Жақында жабылған терезелер
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Тарихтан іздеу
 
 ## Bookmarks Menu
 
