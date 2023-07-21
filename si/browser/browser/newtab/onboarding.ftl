@@ -28,6 +28,7 @@ mr1-return-to-amo-add-extension-label = { $addon-name } එක් කරන්�
 
 ## Multistage onboarding strings (about:welcome pages)
 
+
 # Aria-label to make the "steps" of multistage onboarding visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
@@ -35,41 +36,23 @@ mr1-return-to-amo-add-extension-label = { $addon-name } එක් කරන්�
 
 onboarding-welcome-steps-indicator-label =
     .aria-label = ප්‍රගතිය: { $total } න් { $current } වන පියවර
-
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = සජීවිකරණ අක්‍රිය කරන්න
-
-## Title and primary button strings differ between platforms as they
-## match the OS' application context menu item action where Windows uses "pin"
-## and "taskbar" while macOS "keep" and "Dock" (proper noun).
-
-## Multistage MR1 onboarding strings (about:welcome pages)
-
 # String for the Firefox Accounts button
 mr1-onboarding-sign-in-button-label = පිවිසෙන්න
-
-## Title, subtitle and primary button string used on set default onboarding screen
-## when Firefox is not default browser
-
-## Multistage MR1 onboarding strings (about:welcome pages)
-
 # The primary import button label will depend on whether we can detect which browser was used to download Firefox.
 # Variables:
 #   $previous (Str) - Previous browser name, such as Edge, Chrome
 mr1-onboarding-import-primary-button-label-attribution = { $previous } වෙතින් ආයාතය
-
 mr1-onboarding-theme-header = ඔබගේම කරගන්න
 mr1-onboarding-theme-subtitle = තේමාවකින් { -brand-short-name } පුද්ගලීකරණය කරන්න.
 mr1-onboarding-theme-secondary-button-label = දැන් නොවේ
-
 # System theme uses operating system color settings
 mr1-onboarding-theme-label-system = පද්ධතියේ තේමාව
-
 mr1-onboarding-theme-label-light = දීප්ත
 mr1-onboarding-theme-label-dark = අඳුරු
 # "Alpenglow" here is the name of the theme, and should be kept in English.
 mr1-onboarding-theme-label-alpenglow = ඇල්පෙන්ග්ලෝ
-
 onboarding-theme-primary-button-label = අහවරයි
 
 ## Please make sure to split the content of the title attribute into lines whose
@@ -82,49 +65,41 @@ mr1-onboarding-theme-tooltip-system =
     .title =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         මෙ. පද්. තේමාව අනුගමනය කරන්න.
-
 # Input description for system theme
 mr1-onboarding-theme-description-system =
     .aria-description =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         මෙ. පද්. තේමාව අනුගමනය කරන්න.
-
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         දීප්තිමත් තේමාවක් යොදා ගන්න.
-
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         දීප්තිමත් තේමාවක් යොදා ගන්න.
-
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         අඳුරු තේමාවක් යොදා ගන්න.
-
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         අඳුරු තේමාවක් යොදා ගන්න.
-
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         අහඹු, වර්ණවත් තේමාවක් යොදා ගන්න.
-
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
         බොත්තම්, වට්ටෝරු හා කවුළු සඳහා
         අහඹු, වර්ණවත් තේමාවක් යොදා ගන්න.
-
 # Selector description for default themes
 mr2-onboarding-default-theme-label = පෙරනිමි තේමා ගවේශනය.
 
@@ -140,30 +115,17 @@ mr2-onboarding-start-browsing-button-label = පිරික්සුම අර�
 ##
 ## Variables:
 ##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
-
-
-## Multistage live language reloading onboarding strings (about:welcome pages)
-##
-## The following language names are generated by the browser's Intl.DisplayNames API.
-##
-## Variables:
-##   $negotiatedLanguage (String) - The name of the langpack's language, e.g. "Español (ES)"
 ##   $systemLanguage (String) - The name of the system language, e.g "Español (ES)"
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 onboarding-live-language-header = ඔබගේ භාෂාව තෝරන්න
-
 mr2022-onboarding-live-language-text = { -brand-short-name } ඔබගේ භාෂාව කතා කරයි
-
 mr2022-language-mismatch-subtitle = { -brand-short-name } අතිරික්සුව භාෂා 90 කට වඩා වැඩි ගණනකට සහාය දක්වයි. ඔබගේ පද්ධතියෙහි { $systemLanguage } භාවිතා වන බව පෙනෙන අතර { -brand-short-name } අතිරික්සුව { $appLanguage } භාවිතා කරයි.
-
 onboarding-live-language-button-label-downloading = { $negotiatedLanguage } සඳහා භාෂා ඇසුරුම බාගැනෙමින්…
 onboarding-live-language-waiting-button = තිබෙන භාෂා ගැනෙමින්...
 onboarding-live-language-installing = { $negotiatedLanguage } සඳහා භාෂා ඇසුරුම ස්ථාපනය වෙමින්…
-
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } වෙත මාරු වන්න
 mr2022-onboarding-live-language-continue-in = { $appLanguage } න් ඉදිරියට
-
 onboarding-live-language-secondary-cancel-download = අවලංගු
 onboarding-live-language-skip-button-label = මඟහරින්න
 
@@ -185,9 +147,7 @@ fx100-thank-you-pin-primary-button-label =
         [macos] { -brand-short-name } තැටියෙහි තබන්න
        *[other] කාර්ය තීරුවට { -brand-short-name } අමුණන්න
     }
-
 fx100-upgrade-thanks-header = 100 ස්තූතියි
-
 mr2022-onboarding-secondary-skip-button-label = පියවර මඟ හරින්න
 
 ## MR2022 New User Easy Setup screen strings
@@ -247,40 +207,33 @@ mr2022-onboarding-import-primary-button-label-no-attribution = කලින් �
 ## help creating a more inclusive translation.
 
 mr2022-onboarding-colorway-title = ප්‍රබෝධමත් වර්ණයක් තෝරන්න
-mr2022-onboarding-colorway-subtitle = ස්වාධීන හඬ සංස්කෘතියට බලපායි.
+mr2022-onboarding-colorway-subtitle = ස්වාධීන හඬ අභිවර්ධනයට බලපායි.
 mr2022-onboarding-colorway-primary-button-label-continue = සකස් කර ඉදිරියට
 mr2022-onboarding-existing-colorway-checkbox-label = { -firefox-home-brand-name } ඔබගේ වර්ණවත් මුල්පිටුව ලෙස යොදන්න
-
 mr2022-onboarding-colorway-label-default = පෙරනිමි
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = වත්මන් { -brand-short-name } වර්ණ
 mr2022-onboarding-colorway-description-default = <b>මාගේ වත්මන් { -brand-short-name } වර්ණ යොදා ගන්න.</b>
-
 mr2022-onboarding-colorway-label-playmaker = තරඟකරුවෙකි
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = තරඟකරුවෙකි (රතු)
 mr2022-onboarding-colorway-description-playmaker = <b>ඔබ තරඟකරුවෙකි</b> ඔබ ජයග්‍රහණය සඳහා අවස්ථා සාදන අතර ඔබ වටා සිටින සැමගේ ක්‍රීඩාව උසස් කිරීමට උපකාර කරයි.
-
 mr2022-onboarding-colorway-label-expressionist = විභාවනවාදියෙකි
 mr2022-onboarding-colorway-tooltip-expressionist2 =
     .title = විභාවනවාදියෙකි (කහ)
 mr2022-onboarding-colorway-description-expressionist = <b>ඔබ විභාවනවාදියෙකි</b> ඔබ ලෝකය යථාවාදීව දකින අතර ඔබගේ මාපන අන් අයගේ උනන්දුවට හේතු වේ.
-
 mr2022-onboarding-colorway-label-visionary = දූරදර්ශියෙකි
 mr2022-onboarding-colorway-tooltip-visionary2 =
     .title = දූරදර්ශියෙකි (කොළ)
 mr2022-onboarding-colorway-description-visionary = <b>ඔබ දූරදර්ශියෙකි</b> ඔබ පවතින තත්‍වය ප්‍රශ්න කරන අතර වඩාත් ධර්මිෂ්ඨ අනාගතයක් ගැන සිතීමට අන් අයව පොලඹවයි.
-
 mr2022-onboarding-colorway-label-activist = ක්‍රියාකාරිකයෙකි
 mr2022-onboarding-colorway-tooltip-activist2 =
     .title = ක්‍රියාකාරිකයෙකි (නිල්)
 mr2022-onboarding-colorway-description-activist = <b>ඔබ ක්‍රියාකාරිකයෙකි</b> ලෝකයෙහි ඔබට හමු වූවාට වඩා යහපත් තත්‍වයක් විශ්වාස කිරීමට අන් අයව යොමු කරයි.
-
 mr2022-onboarding-colorway-label-dreamer = සිහින දකින්නෙකි
 mr2022-onboarding-colorway-tooltip-dreamer2 =
     .title = සිහින දකින්නෙකි (දම්)
 mr2022-onboarding-colorway-description-dreamer = <b>ඔබ සිහින දකින්නෙකි</b> ධෛර්යය සම්පන්න අයට සෞභාග්‍යය ළඟා වන බව ඔබ විශ්වාස කරයි සහ අන් අයට නිර්භීත වීමට පොළඹවයි.
-
 mr2022-onboarding-colorway-label-innovator = නවෝත්පාදකයෙකි
 mr2022-onboarding-colorway-tooltip-innovator2 =
     .title = නවෝත්පාදකයෙකි (තැඹිලි)

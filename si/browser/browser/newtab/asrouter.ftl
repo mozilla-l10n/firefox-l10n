@@ -100,6 +100,7 @@ cfr-doorhanger-milestone-close-button = වසන්න
 
 ## DOH Message
 
+cfr-doorhanger-doh-body = පෞද්ගලිකත්‍වය ඉතා වැදගත්ය. { -brand-short-name } දැන් ඔබගේ ව.නා.ප. ඉල්ලීම් ඔබ පිරික්සන අතරතුර ඔබගේ රැකවරණය උදෙසා හවුල්කාර සේවාවක් වෙත ආරක්‍ෂිතව යොමු කරයි.
 cfr-doorhanger-doh-header = වඩාත් ආරක්‍ෂිත, සංකේතිත ව.නා.ප. බැලීම්
 cfr-doorhanger-doh-primary-button-2 = හරි
     .accesskey = O
@@ -129,6 +130,10 @@ spotlight-public-wifi-vpn-link = දැන් නොවේ
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = හොඳ අන්තර්ජාලයක් ඔබගෙන් ඇරඹෙයි
+spotlight-better-internet-body = ඔබ { -brand-short-name } භාවිතයෙන් හැමෝටම ප්‍රවේශ්‍ය සහ යහපත් විවෘත අන්තර්ජාලයක් සඳහා මනාපය ලබා දෙයි.
+spotlight-peace-mind-header = අපි ඔබව ආවරණය කර ඇත
+spotlight-peace-mind-body = සෑම මසකම, { -brand-short-name } සාමාන්‍යයෙන් එක් අයෙකුට ලුහුබැඳීම් 3,000 කට වඩා අවහිර කර දෙයි. මන්ද, විශේෂයෙන් ලුහුබැඳීම් වැනි කරදරකාරී දෑ සියල්ල ඔබ සහ යහපත් අන්තර්ජාලයක් වෙනුවෙන් පෙනී නොසිටින බැවිනි.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] තැටියේ තබාගන්න
@@ -149,6 +154,8 @@ spotlight-pin-secondary-button = දැන් නොවේ
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = නව { -brand-short-name }. වඩාත් පෞද්ගලිකයි. ලුහුබැඳීම් අවමයි. සම්මුති නැත.
+mr2022-background-update-toast-text = අපගේ ප්‍රබලම ලුහුබැඳීමේ රැකවරණයට උත්ශ්‍රේණි කර ඇති නවතම { -brand-short-name } දැන් උත්සාහ කරන්න.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -181,6 +188,8 @@ firefoxview-spotlight-promo-secondarybutton = මඟහරින්න
 
 colorways-cfr-primarybutton = වර්ණ පරාසය තෝරන්න
     .accesskey = C
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = අභිවර්ධනයට බලපෑ හඬින් ප්‍රබෝධමත් වූ සුවිශේෂ { -brand-short-name } පැහැයන්ගෙන් ඔබගේ අතිරික්සුව වර්ණවත් කරන්න.
 
 ## Cookie Banner Handling CFR
 
@@ -193,17 +202,25 @@ cfr-cbh-dismiss-button = දැන් නොවේ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = අපි ඔබව ආවරණය කර ඇත
+july-jam-body = { -brand-short-name } සෑම මසකම සාමාන්‍යයෙන් එක් අයෙකුට ලුහුබැඳීම් 3,000 කට වඩා අවහිර කර දෙමින් අන්තර්ජාලයට ආරක්‍ෂිත, වේගවත් ප්‍රවේශයක් ලබා දෙයි.
 july-jam-set-default-primary = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න
 fox-doodle-pin-headline = සාදරයෙන් පිළිගනිමු
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = ඔබගේ ප්‍රියතම ස්වාධීන අතිරික්සුව එක් එබීමකින් තබා ගත හැකි බවට මතක් කිරීමකි.
 fox-doodle-pin-primary = { -brand-short-name } සමඟ මාගේ සබැඳි අරින්න
 fox-doodle-pin-secondary = දැන් නොවේ
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>ඔබගේ පීඩීඑෆ් දැන් { -brand-short-name } හි විවෘත වේ.</strong>සෘජුව අතිරික්සුවෙන් ආකෘතිපත්‍ සංස්කරණයට හෝ අත්සන් තැබීමට හැකිය. වෙනස් කිරීමට, සැකසුම් තුළ "පීඩීඑෆ්" සොයාගන්න.
 set-default-pdf-handler-primary = තේරුණා
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = අනාගතයේදී අළුත් උපාංගයක්?
+fxa-sync-cfr-body = නව { -brand-product-name } අතිරික්සුවක් විවෘත කරන ඕනෑම වේලාවක ඔබගේ පොත්යොමු, මුරපද සහ පටිති ලැබෙන බවට වග බලා ගන්න.
 fxa-sync-cfr-primary = තව දැනගන්න
     .accesskey = L
 fxa-sync-cfr-secondary = පසුව මතක් කරන්න
@@ -211,4 +228,7 @@ fxa-sync-cfr-secondary = පසුව මතක් කරන්න
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = පරණ උපාංගයක් භාවිතා කරන්නේද?
+device-migration-fxa-spotlight-body = පොත්යොමු සහ මුරපද වැනි වැදගත් තොරතුරු ඔබට අහිමි නොවීමට ඔබගේ දත්ත උපස්ථ කරන්න — විශේෂයෙන් ඔබ නව උපාංගයකට මාරු වන්නේ නම්.
+device-migration-fxa-spotlight-primary-button = මාගේ දත්ත උපස්ථ කරන්නේ කෙසේද?
 device-migration-fxa-spotlight-link = පසුව මතක් කරන්න
