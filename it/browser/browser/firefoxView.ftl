@@ -227,4 +227,8 @@ firefoxview-import-history-close-button =
 firefoxview-import-history-header = Importa cronologia da un altro browser
 firefoxview-import-history-description = Rendi { -brand-short-name } il tuo browser di riferimento. Importa cronologia, segnalibri e altro ancora.
 
-##
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Hai chiuso una scheda per sbaglio?
+firefoxview-recentlyclosed-empty-description = Qui puoi trovare tutte le schede che hai chiuso di recente, così puoi riaprire velocemente quelle che ti servono.
+firefoxview-recentlyclosed-empty-description-two = Per trovare schede che hai chiuso da più tempo, dai un’occhiata alla tua <a data-l10n-name="history-url">cronologia di navigazione</a>.
