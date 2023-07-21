@@ -23,10 +23,13 @@ firefoxview-tabpickup-progress-label = { $percentValue }% lokið
 firefoxview-tabpickup-step-signin-header = Skiptu hiklaust á milli tækja
 firefoxview-tabpickup-step-signin-description = Til að grípa símaflipana hér, skaltu fyrst skrá þig inn eða búa til reikning.
 firefoxview-tabpickup-step-signin-primarybutton = Halda áfram
+firefoxview-syncedtabs-signin-primarybutton = Skráðu þig inn eða nýskráðu þig
 firefoxview-tabpickup-adddevice-header = Samstilltu { -brand-product-name } á símanum eða spjaldtölvunni
 firefoxview-tabpickup-adddevice-description = Sæktu { -brand-product-name } fyrir farsíma og skráðu þig inn þar.
 firefoxview-tabpickup-adddevice-learn-how = Lærðu hvernig
 firefoxview-tabpickup-adddevice-primarybutton = Náðu í { -brand-product-name } fyrir farsíma
+firefoxview-syncedtabs-adddevice-header = Skráðu þig inn á { -brand-product-name } í hinum tækjunum þínum
+firefoxview-syncedtabs-adddevice-primarybutton = Prófaðu { -brand-product-name } fyrir farsíma
 firefoxview-tabpickup-synctabs-header = Kveiktu á samstillingu flipa
 firefoxview-tabpickup-synctabs-description = Leyfðu { -brand-short-name } að deila flipum á milli tækja.
 firefoxview-tabpickup-synctabs-learn-how = Lærðu hvernig
@@ -46,6 +49,7 @@ firefoxview-tabpickup-password-locked-header = Settu inn aðallykilorðið þitt
 firefoxview-tabpickup-password-locked-description = Til að ná í flipana þína þarftu að setja inn aðallykilorðið fyrir { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Kanna nánar
 firefoxview-tabpickup-password-locked-primarybutton = Settu inn aðallykilorð
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Frekari upplýsingar</a>
 firefoxview-tabpickup-signed-out-header = Skráðu þig inn til að tengjast aftur
 firefoxview-tabpickup-signed-out-description = Skráðu þig inn á { -fxaccount-brand-name } til að tengjast aftur og ná í flipana þína.
 firefoxview-tabpickup-signed-out-primarybutton = Skrá inn
@@ -92,6 +96,8 @@ firefoxview-overview-header = Nýlegt vafur
 firefoxview-history-nav = Ferill
     .title = Ferill
 firefoxview-history-header = Ferill
+firefoxview-history-context-delete = Eyða úr vafurferli
+    .accesskey = f
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +119,7 @@ firefoxview-synced-tabs-header = Flipar frá öðrum tækjum
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Skoða allt
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,8 +143,45 @@ firefoxview-history-date-today = Í dag - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Í gær - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (staðbundnar skrár)
 
 ##
 
 firefoxview-show-all-history = Birta allan vafurferil
 firefoxview-view-more-browsing-history = Skoða meira af vafurferlinum
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Fara aftur þangað sem þú varst
+firefoxview-history-empty-description = Þegar þú vafrar verða síðurnar sem þú heimsækir skráðar hér.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Veldu vafra
+    .title = Veldu vafra
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Ekkert til að sýna
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Loka
+    .title = Loka
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Flytja vafurferil inn úr öðrum vafra
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Lokaðirðu flipa of snemma?
+
+##
+
