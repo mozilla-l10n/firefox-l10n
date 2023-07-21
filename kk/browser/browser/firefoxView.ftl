@@ -162,6 +162,7 @@ firefoxview-view-more-browsing-history = Көбірек шолу тарихын 
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Болған жеріңізге оралу
+firefoxview-history-empty-description = Сіз шолу кезінде кірген беттер тізімі осында көрсетілетін болады.
 firefoxview-history-empty-description-two = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті <a data-l10n-name="history-settings-url">тарих баптауларында</a> басқара аласыз.
 
 ##
@@ -174,6 +175,7 @@ firefoxview-choose-browser-button = Браузерді таңдау
 
 firefoxview-dont-remember-history-empty-header = Ақпарат жоқ
 firefoxview-dont-remember-history-empty-description = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті басқаруға болады.
+firefoxview-dont-remember-history-empty-description-two = Сіздің ағымдағы баптауларға сәйкес, { -brand-short-name } шолу кезінде белсенділікті есте сақтамайды. Оны өзгерту үшін, <a data-l10n-name="history-settings-url-two">шолу тарихыңызды есте сақтау үшін, тарих баптауларын өзгертіңіз</a>.
 
 ##
 
@@ -185,10 +187,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Тарихты басқа браузерден импорттау
+firefoxview-import-history-description = { -brand-short-name } қолданбасын өзіңіздің негізгі браузер қылыңыз. Шолу тарихы, бетбелгілер және т.б. импорттаңыз.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Бетті тым ерте жаптыңыз ба?
+firefoxview-recentlyclosed-empty-description = Осында сіз жақында жабылған беттерді таба аласыз, олардың кез келгенін жылдам қайта аша аласыз.
+firefoxview-recentlyclosed-empty-description-two = Одан да бұрыңғы беттерді табу үшін, <a data-l10n-name="history-url">шолу тарихын</a> қараңыз.
 
 ##
 

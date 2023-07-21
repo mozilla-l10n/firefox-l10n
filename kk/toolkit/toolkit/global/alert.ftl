@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Бұл хабарламаны жабу
 alert-settings-title =
     .tooltiptext = Баптаулар
+
+## Reminder Notifications
+
+notification-default-dismiss = Елемеу
