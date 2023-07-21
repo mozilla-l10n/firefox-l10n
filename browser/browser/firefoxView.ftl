@@ -31,6 +31,7 @@ firefoxview-tabpickup-adddevice-description = Мобильді телефонғ�
 firefoxview-tabpickup-adddevice-learn-how = Көбірек білу
 firefoxview-tabpickup-adddevice-primarybutton = Мобильді { -brand-product-name } алу
 firefoxview-syncedtabs-adddevice-header = Басқа құрылғыларыңызда { -brand-product-name } ішіне кіріңіз
+firefoxview-syncedtabs-adddevice-description = { -brand-product-name } қолданатын әр жеріңізден беттерді көру үшін, әр құрылғыңызда тіркелгіңізге кіріңіз. <a data-l10n-name="url">Қосымша құрылғыларды қалай қосуға болатыны</a> туралы көбірек біліңіз.
 firefoxview-syncedtabs-adddevice-primarybutton = Мобильді { -brand-product-name } қолданып көру
 firefoxview-tabpickup-synctabs-header = Беттер синхрондауын іске қосу
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } үшін құрылғылар арасында беттермен бөлісуді рұқсат ету.
@@ -161,6 +162,7 @@ firefoxview-view-more-browsing-history = Көбірек шолу тарихын 
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Болған жеріңізге оралу
+firefoxview-history-empty-description-two = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті <a data-l10n-name="history-settings-url">тарих баптауларында</a> басқара аласыз.
 
 ##
 
@@ -171,6 +173,7 @@ firefoxview-choose-browser-button = Браузерді таңдау
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ақпарат жоқ
+firefoxview-dont-remember-history-empty-description = Сіздің жекелігіңізді қорғау - біздің жұмысымыздың негізі. Сондықтан { -brand-short-name } есте сақтайтын белсенділікті басқаруға болады.
 
 ##
 
