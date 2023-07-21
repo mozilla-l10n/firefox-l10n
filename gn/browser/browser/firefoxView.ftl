@@ -23,14 +23,20 @@ firefoxview-tabpickup-progress-label = { $percentValue }% henyhẽma
 firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñekytĩ’ỹre
 firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry rendayke, emoñepyrũraẽ tembiapo térã emoheñói mba’ete.
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
+firefoxview-syncedtabs-signin-header = Ejapyhy tendayke oimeha guive
+firefoxview-syncedtabs-signin-primarybutton = Eike térã eñemboheraguapy
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
 firefoxview-tabpickup-adddevice-learn-how = Mba’éicha eikuaáta
 firefoxview-tabpickup-adddevice-primarybutton = Eguereko { -brand-product-name } ne pumbyrýpe g̃uarã
+firefoxview-syncedtabs-adddevice-header = Eike { -brand-product-name } ndive ambue imba’e’okápe
+firefoxview-syncedtabs-adddevice-primarybutton = Ereko { -brand-product-name } ne pumbyrýpe
 firefoxview-tabpickup-synctabs-header = Emyandy tendayke ñembojuehe
 firefoxview-tabpickup-synctabs-description = Emoneĩ { -brand-short-name } omoherakuãvo tendayke mba’e’oka pa’ũme.
 firefoxview-tabpickup-synctabs-learn-how = Mba’éichapa eikuaáta
 firefoxview-tabpickup-synctabs-primarybutton = Embojuehe tendayke ijurujáva
+firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
+firefoxview-syncedtabs-synctabs-checkbox = Emoneĩ tendayke ijurujáva tojuehekuaa
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboykégui ñembojuehe.
 firefoxview-tabpickup-network-offline-header = Ehecha og̃uahẽ porãpa ñanduti
@@ -46,6 +52,7 @@ firefoxview-tabpickup-password-locked-header = Ehai ne ñe’ẽñemi ha’etév
 firefoxview-tabpickup-password-locked-description = Eguerujey hag̃ua tendayke, ehaiva’erã ñe’ẽñemi ha’etéva { -brand-short-name }-pe.
 firefoxview-tabpickup-password-locked-link = Kuaave
 firefoxview-tabpickup-password-locked-primarybutton = Ehai Ñe’ẽñemi Ha’etéva
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Eikuaave</a>
 firefoxview-tabpickup-signed-out-header = Eñepyrũ tembiapo eikejey hag̃ua
 firefoxview-tabpickup-signed-out-description = Eikejey ha ereko hag̃ua ne rendayke, emoñepyrũ tembiapo nde { -fxaccount-brand-name }-pe.
 firefoxview-tabpickup-signed-out-primarybutton = Eñepyrũ tembiapo
@@ -59,6 +66,7 @@ firefoxview-closed-tabs-title = Oñembotyramovéva
 firefoxview-closed-tabs-description2 = Embojurujajey kuatiarogue embotýva ko ovetãme.
 firefoxview-closed-tabs-placeholder-header = Ndaipóri tendayke oñembotyramóva
 firefoxview-closed-tabs-placeholder-body = Embotývo peteĩ tendayke ko ovetãme, ehekakuaa ko’a guive.
+firefoxview-closed-tabs-placeholder-body2 = Embotývo peteĩ tendayke ehekakuaa ko’a guive.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -91,6 +99,8 @@ firefoxview-overview-header = Ñeikundaha ramovéva
 firefoxview-history-nav = Tembiasakue
     .title = Tembiasakue
 firefoxview-history-header = Tembiasakue
+firefoxview-history-context-delete = Emboguete tembiasakuégui
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -112,7 +122,7 @@ firefoxview-synced-tabs-header = Tendaykekuéra ambue mba’e’okagua
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Ehechapa
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -140,3 +150,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Tembiasakue jehechaukapa
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
