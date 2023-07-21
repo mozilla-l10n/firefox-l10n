@@ -38,11 +38,9 @@ menu-quit =
             [windows] H
            *[other] H
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Hætta í { -brand-shorter-name }
-
 menu-about =
     .label = Um { -brand-shorter-name }
     .accesskey = U
@@ -222,6 +220,9 @@ menu-history-undo-menu =
     .label = Nýlega lokaðir flipar
 menu-history-undo-window-menu =
     .label = Nýlega lokaðir gluggar
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Leita í vafurferli
 
 ## Bookmarks Menu
 

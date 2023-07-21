@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Loka tilkynningu
 alert-settings-title =
     .tooltiptext = Stillingar
+
+## Reminder Notifications
+
+notification-default-dismiss = Afgreiða
