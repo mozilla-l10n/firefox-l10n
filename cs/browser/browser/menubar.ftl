@@ -225,6 +225,9 @@ menu-history-undo-menu =
     .label = Naposledy zavřené panely
 menu-history-undo-window-menu =
     .label = Naposledy zavřená okna
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Hledat v historii
 
 ## Bookmarks Menu
 
