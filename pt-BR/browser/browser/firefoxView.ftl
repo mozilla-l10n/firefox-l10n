@@ -24,14 +24,22 @@ firefoxview-tabpickup-step-signin-header = Passe facilmente de um dispositivo pa
 firefoxview-tabpickup-step-signin-description = Para abrir aqui as abas do seu celular, primeiro entre na sua conta ou crie uma.
 firefoxview-tabpickup-step-signin-primarybutton = Avançar
 firefoxview-syncedtabs-signin-header = Recupere abas de qualquer dispositivo
+firefoxview-syncedtabs-signin-description = Para acessar suas abas de onde quer que você use o { -brand-product-name }, entre na sua conta. Se ainda não tiver, nós te orientamos no processo de criar uma conta.
+firefoxview-syncedtabs-signin-primarybutton = Entrar ou criar conta
 firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } em seu celular ou tablet
 firefoxview-tabpickup-adddevice-description = Instale o { -brand-product-name } para dispositivos móveis e entre na sua conta.
 firefoxview-tabpickup-adddevice-learn-how = Saiba como
 firefoxview-tabpickup-adddevice-primarybutton = Instale o { -brand-product-name } para dispositivos móveis
+firefoxview-syncedtabs-adddevice-header = Entre na sua conta no { -brand-product-name } em seus outros dispositivos
+firefoxview-syncedtabs-adddevice-description = Para acessar suas abas de onde quer que você use o { -brand-product-name }, entre na sua conta em todos os seus dispositivos. Saiba como <a data-l10n-name="url">conectar outros dispositivos</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para celular
 firefoxview-tabpickup-synctabs-header = Ative a sincronização de abas
 firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } compartilhe abas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Saiba como
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar abas abertas
+firefoxview-syncedtabs-synctabs-header = Atualize suas configurações de sincronização
+firefoxview-syncedtabs-synctabs-description = Para acessar suas abas de outros dispositivos, você precisa sincronizar suas abas abertas.
+firefoxview-syncedtabs-synctabs-checkbox = Permitir sincronizar abas abertas
 firefoxview-tabpickup-fxa-admin-disabled-header = Sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar abas entre dispositivos porque seu administrador desativou a sincronização.
 firefoxview-tabpickup-network-offline-header = Verifique sua conexão com a internet
@@ -47,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Digite sua senha principal para v
 firefoxview-tabpickup-password-locked-description = Para recuperar suas abas, precisa inserir a senha principal do { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Saiba mais
 firefoxview-tabpickup-password-locked-primarybutton = Digite a senha principal
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saiba mais</a>
 firefoxview-tabpickup-signed-out-header = Entre na conta para reconectar
 firefoxview-tabpickup-signed-out-description = Para reconectar e acessar suas abas, entre na sua conta { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Entrar
@@ -93,6 +102,8 @@ firefoxview-overview-header = Navegação recente
 firefoxview-history-nav = Histórico
     .title = Histórico
 firefoxview-history-header = Histórico
+firefoxview-history-context-delete = Excluir do histórico
+    .accesskey = x
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -138,6 +149,10 @@ firefoxview-history-date-today = Hoje - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ontem - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (arquivos locais)
 
 ##
 
