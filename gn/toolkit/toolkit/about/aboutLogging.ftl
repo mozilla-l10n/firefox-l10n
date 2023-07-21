@@ -35,10 +35,13 @@ about-logging-preset-networking-description = Mboheraguapy ra’ãha ehecha hag�
 about-logging-preset-networking-cookie-label = Kookie
 about-logging-preset-networking-cookie-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuãi
 about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Mboheraguapy ra’ãha ehecha hag̃ua WebSocket apañuãi
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Mboheraguapy ra’ãha ehecha hag̃ua HTTP/3 ha QUIC apañuãi
 about-logging-preset-media-playback-label = Hekoetáva mboheta
 about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua WebRTC apañuãi
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
 # Error handling
