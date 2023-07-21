@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = ਨਵੀਂ ਟੈਬ
 tabbrowser-empty-private-tab-title = ਨਵੀਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬ
-
 tabbrowser-menuitem-close-tab =
     .label = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
 tabbrowser-menuitem-close =
     .label = ਬੰਦ ਕਰੋ
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -120,7 +117,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = ਇਹ ਡਾਈਲਾਗ ਬਾਕ�
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = { $domain } ਤੋਂ ਇੰਝ ਦੇ ਨੋਟੀਫਿਕੇਸ਼ਨਾਂ ਨੂੰ ਤੁਹਾਨੂੰ ਉਹਨਾਂ ਦੀ ਟੈਬ ਉੱਤੇ ਲੈ ਜਾਣ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
-
 tabbrowser-customizemode-tab-title = { -brand-short-name } ਨੂੰ ਕਸਟਮਾਈਜ਼ ਕਰੋ
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +135,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = ਟੈਬਾਂ ਦੀ ਆਵਾਜ਼ ਚਲਾਓ
     .accesskey = m
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = ਆਡੀਓ ਚੱਲ ਰਹੀ ਹੈ
 
@@ -152,3 +147,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = ਟੈਬ ਨੂੰ ਮੌਨ ਕਰੋ
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = ਟੈਬ ਤੋਂ ਸੁਣੋ
+tabbrowser-manager-close-tab =
+    .tooltiptext = ਟੈਬ ਨੂੰ ਬੰਦ ਕਰੋ
