@@ -38,11 +38,9 @@ menu-quit =
             [windows] ᱚ
            *[other] ᱛ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } ᱵᱟᱹᱜᱤ ᱢᱮ
-
 menu-about =
     .label = { -brand-shorter-name } ᱵᱟᱵᱚᱛ
     .accesskey = ᱵ
@@ -223,6 +221,9 @@ menu-history-undo-menu =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ
 menu-history-undo-window-menu =
     .label = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱣᱤᱱᱰᱚ ᱠᱚ
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
 
 ## Bookmarks Menu
 

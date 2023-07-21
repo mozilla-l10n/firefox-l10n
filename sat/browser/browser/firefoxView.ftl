@@ -187,9 +187,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = ᱮᱴᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱱᱟᱜᱟᱢᱠᱚ ᱟᱹᱜᱩᱭᱢᱮ
+firefoxview-import-history-description = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ, ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ, ᱟᱨ ᱰᱷᱮᱨ ᱡᱤᱱᱤᱥ ᱟᱹᱜᱩᱭ ᱢᱮ ᱾
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ᱴᱮᱵᱽ ᱞᱚᱜᱚᱱ ᱮᱢ ᱵᱚᱸᱫᱚᱭ ᱠᱮᱜᱼᱟ ?
+firefoxview-recentlyclosed-empty-description = ᱱᱚᱰᱮ ᱟᱢ ᱫᱚ ᱱᱮᱱᱮ ᱵᱚᱸᱫ ᱠᱟᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ, ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱡᱟᱦᱟᱱᱟᱜ ᱜᱮ ᱞᱚᱜᱚᱱ ᱠᱷᱩᱞᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
+firefoxview-recentlyclosed-empty-description-two = ᱡᱟᱦᱱᱟᱜ ᱢᱟᱨᱮ ᱴᱮᱵᱽᱠᱚ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢᱟᱜ <a data-l10n-name="history-url">ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ</a> ᱧᱮᱞ ᱛᱟᱢ ᱾
 
 ##
 
