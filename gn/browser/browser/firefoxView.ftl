@@ -146,28 +146,44 @@ firefoxview-history-date-today = Ko’ára - { DATETIME($date, dateStyle: "full"
 firefoxview-history-date-yesterday = Kuehe - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (marandurenda pypegua)
 
 ##
 
 firefoxview-show-all-history = Tembiasakue jehechaukapa
+firefoxview-view-more-browsing-history = Ehecha kundahára rembiasakue
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Ejevyjey eimehaguépe
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Eiporavo kundahára
+    .title = Eiporavo kundahára
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ndaipóri jehechaukarã
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Mboty
+    .title = Mboty
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Egueru tembiasakue ambue kundaháragui
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ¿Emboty pya’e tendayke?
 
 ##
 
