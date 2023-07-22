@@ -2,21 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-##
-
 # This is the title of the page
 about-logging-title = Om logging
 about-logging-page-title = Loggbehandler
@@ -46,11 +31,18 @@ about-logging-logging-preset-selector-text = Forhåndsvalg for logging:
 
 about-logging-preset-networking-label = Nettverk
 about-logging-preset-networking-description = Loggmoduler for å diagnostisere nettverksproblemer
+about-logging-preset-networking-cookie-label = Infokapsler
+about-logging-preset-networking-cookie-description = Loggmoduler for å diagnostisere infokapselproblemer
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Loggmoduler for å diagnostisere WebSocket-problemer
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Loggmoduler for å diagnostisere HTTP/3- og QUIC-problemer
 about-logging-preset-media-playback-label = Medieavspilling
 about-logging-preset-media-playback-description = Loggmoduler for å diagnostisere problemer med medieavspilling (ikke for problemer med videokonferanser)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Loggmoduler for å diagnostisere WebRTC-anrop
 about-logging-preset-custom-label = Tilpasset
 about-logging-preset-custom-description = Loggmoduler valgt manuelt
-
 # Error handling
 about-logging-error = Feil:
 
@@ -64,5 +56,4 @@ about-logging-unknown-profiler-preset = Ukjent forhåndsvalg for profilering «{
 about-logging-unknown-option = Ukjent alternativ for about:logging «{ $k }»
 about-logging-configuration-url-ignored = Konfigurasjons-URL ignorert
 about-logging-file-and-profiler-override = Kan ikke tvinge utdata for fil og overstyre innstillinger for profilering samtidig
-
 about-logging-configured-via-url = Alternativ satt opp via URL
