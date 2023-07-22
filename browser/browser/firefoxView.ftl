@@ -23,14 +23,21 @@ firefoxview-tabpickup-progress-label = { $percentValue } % dokóńcone
 firefoxview-tabpickup-step-signin-header = Pśejźćo njepósrědnje mjazy rědami
 firefoxview-tabpickup-step-signin-description = Aby how rejtariki swójogo telefona dostał, pśizjawśo se nejpjerwjej abo załožćo konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dalej
+firefoxview-syncedtabs-signin-header = Wobstarajśo se rejtariki wóte wšuźi
+firefoxview-syncedtabs-signin-primarybutton = Pśizjawiś abo registrěrowaś
 firefoxview-tabpickup-adddevice-header = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
 firefoxview-tabpickup-adddevice-description = Ześěgniśo { -brand-product-name } za mobilne rědy a pśizjawśo se tam.
 firefoxview-tabpickup-adddevice-learn-how = Zgóńśo kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny rěd wobstaraś
+firefoxview-syncedtabs-adddevice-header = Pśizjawśo se pla { -brand-product-name } na swójich drugich rědach
+firefoxview-syncedtabs-adddevice-primarybutton = Wopytajśo { -brand-product-name } za mobilny rěd
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rejtarikow zmóžniś
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowóliś, rejtariki mjazy rědami źěliś.
 firefoxview-tabpickup-synctabs-learn-how = Zgóńśo kak
 firefoxview-tabpickup-synctabs-primarybutton = Wócynjone rejtariki synchronizěrowaś
+firefoxview-syncedtabs-synctabs-header = Aktualizěrujśo swóje synchronizaciske nastajenja
+firefoxview-syncedtabs-synctabs-description = Aby rejtariki z drugich rědow wiźeł, musyśo swóje wócynjone rejtariki synchronizěrowaś.
+firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wócynjonych rejtarikow dowoliś
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waš administrator jo znjemóžnił synchronizěrowanje.
 firefoxview-tabpickup-network-offline-header = Pśeglědujśo swój internetny zwisk
@@ -46,6 +53,7 @@ firefoxview-tabpickup-password-locked-header = Zapódajśo swójo głowne gronid
 firefoxview-tabpickup-password-locked-description = Za pśistup k swójim rejtarikam musyśo głowne gronidło za { -brand-short-name } zapódaś.
 firefoxview-tabpickup-password-locked-link = Dalšne informacije
 firefoxview-tabpickup-password-locked-primarybutton = Głowne gronidło zapódaś
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dalšne informacije</a>
 firefoxview-tabpickup-signed-out-header = Pśizjawśo se, aby zasej zwězał
 firefoxview-tabpickup-signed-out-description = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Pśizjawiś
@@ -92,6 +100,8 @@ firefoxview-overview-header = Njedawno woglědane
 firefoxview-history-nav = Historija
     .title = Historija
 firefoxview-history-header = Historija
+firefoxview-history-context-delete = Z historije lašowaś
+    .accesskey = Z
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +123,7 @@ firefoxview-synced-tabs-header = Rejtariki z drugich rědow
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Wšykne pokazaś
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,8 +147,45 @@ firefoxview-history-date-today = Źinsa – { DATETIME($date, dateStyle: "full")
 firefoxview-history-date-yesterday = Cora – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokalne dataje)
 
 ##
 
 firefoxview-show-all-history = Wšu historiju pokazaś
 firefoxview-view-more-browsing-history = Dalšnu pśeglědowańsku historiju pokazaś
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Wrośćo se tam, źož sćo był
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Wubjeŕśo wobglědowak
+    .title = Wubjeŕśo wobglědowak
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Njedajo nic, až dajo se pokazaś
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Zacyniś
+    .title = Zacyniś
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Historiju z drugego wobglědowaka importěrowaś
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Rejtarik jo se zacynił pśejěsno?
+firefoxview-recentlyclosed-empty-description-two = Aby starše rejtariki namakał, glědajśo do <a data-l10n-name="history-url">pśeglědowańskeje historije</a>.
+
+##
+
