@@ -99,7 +99,7 @@ firefoxview-overview-header = 近期瀏覽
 
 firefoxview-history-nav = 瀏覽紀錄
     .title = 瀏覽紀錄
-firefoxview-history-header = 瀏覽紀錄瀏覽紀錄
+firefoxview-history-header = 瀏覽紀錄
 firefoxview-history-context-delete = 從瀏覽紀錄刪除
     .accesskey = D
 
@@ -159,6 +159,9 @@ firefoxview-view-more-browsing-history = 檢視更多瀏覽紀錄
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = 回到曾經去過的地方
+firefoxview-history-empty-description = 隨您上網，造訪過的頁面將顯示於此處。
+firefoxview-history-empty-description-two = 保護您的隱私是我們的第一要務。這也是為什麼您可以在<a data-l10n-name="history-settings-url">瀏覽紀錄設定</a>中自行設定要讓 { -brand-short-name } 記得哪些瀏覽行為。
 
 ##
 
@@ -169,6 +172,7 @@ firefoxview-choose-browser-button = 選擇瀏覽器
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = 沒有可顯示的項目
+firefoxview-dont-remember-history-empty-description = 保護您的隱私是我們的第一要務。這也是為什麼您可以自行設定要讓 { -brand-short-name } 記得哪些瀏覽行為。
 firefoxview-dont-remember-history-empty-description-two = 依照您目前的設定，{ -brand-short-name } 不會記得您的上網行為。要改變此設定，<a data-l10n-name="history-settings-url-two">請將設定調整為要記得您的瀏覽紀錄</a>。
 
 ##
@@ -187,6 +191,7 @@ firefoxview-import-history-description = 讓 { -brand-short-name } 成為您的�
 
 firefoxview-recentlyclosed-empty-header = 不小心把分頁關閉了？
 firefoxview-recentlyclosed-empty-description = 您可以在此處找到近期關閉的分頁，這樣就可以快速重新開啟。
+firefoxview-recentlyclosed-empty-description-two = 要尋找更久之前的分頁，請查詢您的<a data-l10n-name="history-url">瀏覽紀錄</a>。
 
 ##
 
