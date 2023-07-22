@@ -224,6 +224,9 @@ menu-history-undo-menu =
     .label = Tabiau Wedi'u Cau'n Ddiweddar
 menu-history-undo-window-menu =
     .label = Ffenestri wedi eu Cau yn Ddiweddar
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Hanes Chwilio
 
 ## Bookmarks Menu
 
