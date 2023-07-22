@@ -161,12 +161,19 @@ firefoxview-view-more-browsing-history = 查看更多浏览历史
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = 选择浏览器
+    .title = 选择浏览器
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = 关闭
+    .title = 关闭
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
