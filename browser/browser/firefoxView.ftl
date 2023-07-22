@@ -169,6 +169,7 @@ firefoxview-choose-browser-button = 選擇瀏覽器
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = 沒有可顯示的項目
+firefoxview-dont-remember-history-empty-description-two = 依照您目前的設定，{ -brand-short-name } 不會記得您的上網行為。要改變此設定，<a data-l10n-name="history-settings-url-two">請將設定調整為要記得您的瀏覽紀錄</a>。
 
 ##
 
