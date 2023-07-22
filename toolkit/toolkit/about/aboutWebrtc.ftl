@@ -97,6 +97,7 @@ about-webrtc-save-page-label = 保存页面
 about-webrtc-debug-mode-msg-label = 调试模式
 about-webrtc-debug-mode-off-state-label = 开始调试模式
 about-webrtc-debug-mode-on-state-label = 停止调试模式
+about-webrtc-enable-logging-label = 启用 WebRTC 日志预设
 about-webrtc-stats-heading = 会话统计
 about-webrtc-stats-clear = 清除历史记录
 about-webrtc-log-heading = 连接日志
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = 页面已保存到: { $path }
 about-webrtc-debug-mode-off-state-msg = 跟踪日志可以在这里找到: { $path }
 about-webrtc-debug-mode-on-state-msg = 调试模式已激活，跟踪日志在: { $path }
 about-webrtc-aec-logging-off-state-msg = 捕捉到的日志文件在这里: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = 页面已保存到: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = 跟踪日志可以在这里找到: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = 调试模式已激活，跟踪日志在: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -302,6 +304,9 @@ about-webrtc-hide-msg-sdp = 隐藏SDP
 about-webrtc-media-context-show-msg = 显示媒体内容
 about-webrtc-media-context-hide-msg = 隐藏媒体内容
 about-webrtc-media-context-heading = 媒体内容
+
+##
+
 
 ##
 
