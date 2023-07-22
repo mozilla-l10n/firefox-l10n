@@ -55,6 +55,8 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name } සඳහා වි
 ##   $hostname (String) - Hostname of the website to which the user was trying to connect.
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-trr-only-reason = මෙම අඩවියේ ලිපිනයට අපගේ විශ්වාසදායක ව.නා.ප. පිළිවිසඳුව හරහා { -brand-short-name } මගින් ඔබගේ ඉල්ලීම රැකීමට නොහැකිය. හේතුව:
+neterror-dns-not-found-trr-third-party-warning2 = ඔබගේ පෙරනිමි ව.නා.ප. පිළිවිසඳුව සමඟ ඉදිරියට යාමට හැකිය. කෙසේ වෙතත්, තෙවන පාර්ශ්වයකට ඔබ ගොඩවදින අඩවි මොනවාදැයි බැලීමට හැකිය.
 neterror-dns-not-found-trr-offline = ඔබ අන්තර්ජාලයට සම්බන්ධ වී නැත.
 neterror-dns-not-found-trr-unknown-problem = අනපේක්‍ෂිත ගැටළුවකි.
 
@@ -62,6 +64,7 @@ neterror-dns-not-found-trr-unknown-problem = අනපේක්‍ෂිත ග�
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = මෙම අඩවියේ ලිපිනයට අපගේ විශ්වාසදායක ව.නා.ප. පිළිවිසඳුව හරහා { -brand-short-name } මගින් ඔබගේ ඉල්ලීම රැකීමට නොහැකිය. හේතුව:
 
 ##
 
