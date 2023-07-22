@@ -163,6 +163,7 @@ firefoxview-view-more-browsing-history = Ver mais histórico de navegação
 
 firefoxview-history-empty-header = Retorne para onde você já esteve
 firefoxview-history-empty-description = Conforme você navega, as páginas visitadas aparecem aqui.
+firefoxview-history-empty-description-two = Proteger sua privacidade está no cerne do que fazemos. É por isso que você pode controlar a atividade que o { -brand-short-name } memoriza, nas <a data-l10n-name="history-settings-url">configurações de histórico</a>.
 
 ##
 
@@ -173,6 +174,8 @@ firefoxview-choose-browser-button = Escolher navegador
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nada a mostrar
+firefoxview-dont-remember-history-empty-description = Proteger sua privacidade está no cerne do que fazemos. É por isso que você pode controlar a atividade que o { -brand-short-name } memoriza.
+firefoxview-dont-remember-history-empty-description-two = Com base em suas configurações atuais, o { -brand-short-name } não memoriza sua atividade enquanto você navega. Para mudar isso, <a data-l10n-name="history-settings-url-two">altere as configurações de histórico para memorizar seu histórico</a>.
 
 ##
 
@@ -184,6 +187,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importar histórico de outro navegador
+firefoxview-import-history-description = Torne o { -brand-short-name } seu navegador padrão. Importe histórico de navegação, favoritos, etc.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
