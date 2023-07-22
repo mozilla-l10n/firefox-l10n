@@ -4,7 +4,6 @@
 
 about-reader-loading = පූරණය වෙමින්…
 about-reader-load-error = පිටුවෙන් ලිපිය පූරණය කිරීමට අසමත් විය
-
 about-reader-color-scheme-light = දීප්ත
     .title = දීප්තිමත් වර්ණ රටාව
 about-reader-color-scheme-dark = අඳුරු
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = මද දුඹුරු
     .title = මද රතු දුඹුරු
 about-reader-color-scheme-auto = ස්වයං
     .title = ස්වයං වර්ණ රටාව
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:
@@ -28,9 +26,9 @@ about-reader-estimated-read-time =
 ## These are used as tooltips in Type Control
 
 about-reader-toolbar-minus =
-    .title = මුද්‍රණඅකුර කුඩා කරන්න
+    .title = රුවකුර කුඩා කරන්න
 about-reader-toolbar-plus =
-    .title = මුද්‍රණඅකුර විශාල කරන්න
+    .title = රුවකුර විශාල කරන්න
 about-reader-toolbar-contentwidthminus =
     .title = අන්තර්ගතයෙහි පළල අඩු කරන්න
 about-reader-toolbar-contentwidthplus =
