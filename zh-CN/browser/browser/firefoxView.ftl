@@ -29,6 +29,7 @@ firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-n
 firefoxview-tabpickup-adddevice-learn-how = 了解要如何做
 firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-syncedtabs-adddevice-header = 在您的其他设备上登录 { -brand-product-name }
+firefoxview-syncedtabs-adddevice-primarybutton = 试试 { -brand-product-name } 移动版
 firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
 firefoxview-tabpickup-synctabs-learn-how = 了解要如何做
@@ -98,6 +99,8 @@ firefoxview-overview-header = 近期浏览
 firefoxview-history-nav = 历史记录
     .title = 历史记录
 firefoxview-history-header = 历史记录
+firefoxview-history-context-delete = 从历史记录中删除
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
