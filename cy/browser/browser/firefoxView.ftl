@@ -23,14 +23,23 @@ firefoxview-tabpickup-progress-label = { $percentValue }% wedi'i gwblhau
 firefoxview-tabpickup-step-signin-header = Symud yn rhwydd rhwng dyfeisiau
 firefoxview-tabpickup-step-signin-description = I ddefnyddio'ch tabiau ffôn yma, mewngofnodwch yn gyntaf neu greu cyfrif.
 firefoxview-tabpickup-step-signin-primarybutton = Ymlaen
+firefoxview-syncedtabs-signin-header = Cipio tabiau o unrhyw le
+firefoxview-syncedtabs-signin-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch i'ch cyfrif. Os nad oes gennych gyfrif, byddwn yn mynd â chi drwy'r camau i gofrestru.
+firefoxview-syncedtabs-signin-primarybutton = Mewngofnodi neu gofrestru
 firefoxview-tabpickup-adddevice-header = Cydweddwch { -brand-product-name } ar eich ffôn neu dabled
 firefoxview-tabpickup-adddevice-description = Llwytho { -brand-product-name } ar gyfer ffôn symudol a mewngofnodi yno.
 firefoxview-tabpickup-adddevice-learn-how = Sut mae gwneud
 firefoxview-tabpickup-adddevice-primarybutton = Cael { -brand-product-name } ar gyfer symudol
+firefoxview-syncedtabs-adddevice-header = Mewngofnodwch i{ -brand-product-name } ar eich dyfeisiau eraill
+firefoxview-syncedtabs-adddevice-description = I weld eich tabiau o ble bynnag rydych yn defnyddio { -brand-product-name }, mewngofnodwch ar eich holl ddyfeisiau. Dysgwch sut i <a data-l10n-name="url">gysylltu dyfeisiau ychwanegol</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Rhowch gynnig ar { -brand-product-name } ar gyfer ffonau symudol
 firefoxview-tabpickup-synctabs-header = Cychwyn cydweddu tabiau
 firefoxview-tabpickup-synctabs-description = Caniatáu i { -brand-short-name } rannu tabiau rhwng dyfeisiau.
 firefoxview-tabpickup-synctabs-learn-how = Sut mae gwneud
 firefoxview-tabpickup-synctabs-primarybutton = Cydweddu tabiau agored
+firefoxview-syncedtabs-synctabs-header = Diweddarwch eich gosodiadau cydweddu
+firefoxview-syncedtabs-synctabs-description = I weld tabiau o ddyfeisiau eraill, mae angen i chi gydweddu'ch tabiau agored.
+firefoxview-syncedtabs-synctabs-checkbox = Caniatáu i dabiau agored gydweddu
 firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
 firefoxview-tabpickup-fxa-admin-disabled-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich gweinyddwr wedi analluogi cydweddu.
 firefoxview-tabpickup-network-offline-header = Gwiriwch eich cysylltiad rhwydwaith
@@ -46,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Rhowch eich Prif Gyfrinair i weld
 firefoxview-tabpickup-password-locked-description = I gipio'ch tabiau, bydd angen i chi roi eich Prif Gyfrinair ar gyfer { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Dysgu rhagor
 firefoxview-tabpickup-password-locked-primarybutton = Rhowch Gyfrinair Cynradd
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dysgu rhagor</a>
 firefoxview-tabpickup-signed-out-header = Mewngofnodi i ailgysylltu
 firefoxview-tabpickup-signed-out-description = I ailgysylltu a chipio eich tabiau, mewngofnodwch i'ch { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Mewngofnodi
@@ -92,6 +102,8 @@ firefoxview-overview-header = Pori diweddar
 firefoxview-history-nav = Hanes
     .title = Hanes
 firefoxview-history-header = Hanes
+firefoxview-history-context-delete = Dileu o'r Hanes
+    .accesskey = H
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +125,7 @@ firefoxview-synced-tabs-header = Tabiau o ddyfeisiau eraill
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Gweld y cyfan
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +149,50 @@ firefoxview-history-date-today = Heddiw - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ddoe - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ffeiliau lleol)
 
 ##
 
 firefoxview-show-all-history = Dangos yr holl hanes
+firefoxview-view-more-browsing-history = Gweld rhagor o hanes pori
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Mynd nôl i lle rydych wedi bod
+firefoxview-history-empty-description = Wrth i chi bori, bydd y tudalennau y byddwch yn ymweld â nhw yn cael eu rhestru yma.
+firefoxview-history-empty-description-two = Mae diogelu eich preifatrwydd wrth wraidd yr hyn a wnawn. Dyma pam y gallwch reoli'r gweithgaredd y mae { -brand-short-name } yn ei gofio, yn eich <a data-l10n-name="history-settings-url">gosodiadau hanes</a>.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Dewiswch borwr
+    .title = Dewiswch borwr
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Dim byd i'w ddangos
+firefoxview-dont-remember-history-empty-description = Mae diogelu eich preifatrwydd wrth wraidd yr hyn a wnawn. Dyna pam y gallwch reoli'r gweithgaredd y mae { -brand-short-name } yn ei gofio.
+firefoxview-dont-remember-history-empty-description-two = Yn seiliedig ar eich gosodiadau presennol, nid yw { -brand-short-name } yn cofio eich gweithgarwch wrth i chi bori. I newid hynny, <a data-l10n-name="history-settings-url-two">newidiwch eich gosodiadau hanes i gofio eich hanes</a>.
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Cau
+    .title = Cau
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Mewnforio hanes o borwr arall
+firefoxview-import-history-description = Gwnewch { -brand-short-name } eich prif borwr. Mewnforiwch eich hanes pori, nodau tudalen, a rhagor.
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Wedi cau tab yn rhy fuan?
+firefoxview-recentlyclosed-empty-description = Yma fe welwch y tabiau y gwnaethoch eu cau yn ddiweddar, fel y gallwch chi ailagor unrhyw un ohonyn nhw'n gyflym.
+
+##
+
