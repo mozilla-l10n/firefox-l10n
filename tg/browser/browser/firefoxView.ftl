@@ -23,10 +23,12 @@ firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
 firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе халал гузаред
 firefoxview-tabpickup-step-signin-description = Барои аз ин ҷо ба даст овардани варақаҳои браузери телефони худ, аввал ворид шавед ё ҳисоберо эҷод намоед.
 firefoxview-tabpickup-step-signin-primarybutton = Идома додан
+firefoxview-syncedtabs-signin-primarybutton = Ворид шавед ё сабти ном кунед
 firefoxview-tabpickup-adddevice-header = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
 firefoxview-tabpickup-adddevice-description = Браузери «{ -brand-product-name }»-ро барои телефони моболии худ боргирӣ кунед ва дар он ҷо ворид шавед.
 firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
+firefoxview-syncedtabs-adddevice-header = Дар дастгоҳҳои дигари худ ба «{ -brand-product-name }» ворид шавед
 firefoxview-tabpickup-synctabs-header = Фаъол кардани ҳамоҳангсозӣ варақаҳо
 firefoxview-tabpickup-synctabs-description = Иҷозат диҳед, ки «{ -brand-short-name }» варақаҳоро байни дастгоҳҳо мубодила кунад.
 firefoxview-tabpickup-synctabs-learn-how = Бифаҳмед, ки чӣ тавр
@@ -113,7 +115,7 @@ firefoxview-synced-tabs-header = Варақаҳо аз дастгоҳҳои ди
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Ҳамаро дидан
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -141,3 +143,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Намоиш додани таърихи пурра
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
