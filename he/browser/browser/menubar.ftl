@@ -38,11 +38,9 @@ menu-quit =
             [windows] צ
            *[other] צ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = יציאה מ־{ -brand-shorter-name }
-
 menu-about =
     .label = על אודות { -brand-shorter-name }
     .accesskey = א
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = לשוניות שנסגרו לאחרונה
 menu-history-undo-window-menu =
     .label = חלונות שנסגרו לאחרונה
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = חיפוש בהיסטוריה
 
 ## Bookmarks Menu
 
