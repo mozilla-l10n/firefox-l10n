@@ -1186,7 +1186,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = HTTPS හරහා ව.නා.ප.
-preferences-doh-description = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්ධතාවයක් මඟින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සාදමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවිය කුමක්දැයි අන් අයට බැලීමට අපහසු කරයි.
+preferences-doh-description = HTTPS හරහා ව.නා.ප. සංකේතිත සම්බන්ධතාවයක් මඟින් වසම් නාම සඳහා ඔබගේ ඉල්ලීම් යවයි. ආරක්‍ෂිත වසම් නාම පද්ධතියක් (DNS) සාදමින් ඔබ ගොඩවැදීමට සැරසෙන අඩවි මොනවාදැයි අන් අයට බැලීමට අපහසු කරයි.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = තත්‍වය: { $status }
