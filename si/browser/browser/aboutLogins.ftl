@@ -80,7 +80,7 @@ login-intro-description = වෙනත් උපාංගවල { -brand-product
 login-intro-instructions-fxa = ඔබගේ පිවිසුම් සුරකින ලද උපාංගයෙන් { -fxaccount-brand-name } වෙත පිවිසෙන්න.
 login-intro-instructions-fxa-settings = සැකසුම් > සමමුහූර්තය > සමමුහූර්තය සක්‍රිය කරන්න... වෙත ගොස් පිවිසුම් හා මුරපද කොටුව තෝරන්න.
 login-intro-instructions-fxa-passwords-help = උපකාර සඳහා <a data-l10n-name="passwords-help-link">මුරපද සහාය</a> වෙත ගොඩවදින්න.
-about-logins-intro-browser-only-import = ඔබගේ පිවිසුම් වෙනත් අතිරික්සුවක සුරකින ලද්දේ නම්, ඒවා <a data-l10n-name="import-link">{ -brand-product-name } වෙත ආයාත</a> කළ හැකිය.
+about-logins-intro-browser-only-import = ඔබගේ පිවිසුම් වෙනත් අතිරික්සුවක සුරකින ලද්දේ නම්, ඒවා <a data-l10n-name="import-link">{ -brand-product-name } වෙත ආයාත</a> කිරීමට හැකිය.
 
 ## Login
 
