@@ -222,6 +222,9 @@ menu-history-undo-menu =
     .label = Rowno zacynjone rejtariki
 menu-history-undo-window-menu =
     .label = Rowno zacynjone wokna
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Historiju pśepytaś
 
 ## Bookmarks Menu
 
