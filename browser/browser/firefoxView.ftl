@@ -23,14 +23,20 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completo
 firefoxview-tabpickup-step-signin-header = Cambiar entre dispositivos sin interrupciones
 firefoxview-tabpickup-step-signin-description = Para ver las pestañas de tu teléfono aquí, primero conéctate o crea una cuenta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-primarybutton = Conectarse o registrarse
 firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } en tu teléfono o tablet
 firefoxview-tabpickup-adddevice-description = Descarga { -brand-product-name } para dispositivos móviles y conéctate allí.
 firefoxview-tabpickup-adddevice-learn-how = Aprender cómo
 firefoxview-tabpickup-adddevice-primarybutton = Obtén { -brand-product-name } para dispositivos móviles
+firefoxview-syncedtabs-adddevice-header = Conéctate a { -brand-product-name } en tus otros dispositivos
+firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Aprender cómo
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
+firefoxview-syncedtabs-synctabs-header = Actualiza tus ajustes de sincronización
+firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debes sincronizar tus pestañas abiertas.
+firefoxview-syncedtabs-synctabs-checkbox = Permitir que las pestañas abiertas sean sincronizadas
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu administrador ha deshabilitado la sincronización.
 firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
@@ -46,6 +52,7 @@ firefoxview-tabpickup-password-locked-header = Ingresa tu contraseña primaria p
 firefoxview-tabpickup-password-locked-description = Para recuperar tus pestañas, deberás ingresar la contraseña primaria de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Aprender más
 firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña primaria
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Aprender más</a>
 firefoxview-tabpickup-signed-out-header = Conectarse para continuar
 firefoxview-tabpickup-signed-out-description = Para volver a sincronizar y obtener tus pestañas, conéctate a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Conectarse
@@ -92,6 +99,8 @@ firefoxview-overview-header = Navegación reciente
 firefoxview-history-nav = Historial
     .title = Historial
 firefoxview-history-header = Historial
+firefoxview-history-context-delete = Eliminar del historial
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +122,7 @@ firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Ver todos
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,8 +146,47 @@ firefoxview-history-date-today = Hoy - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ayer - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (archivos locales)
 
 ##
 
 firefoxview-show-all-history = Mostrar historial completo
 firefoxview-view-more-browsing-history = Ver más historial de navegación
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Vuelve a donde has estado
+firefoxview-history-empty-description = A medida que navegas, las páginas que visitas serán mostradas aquí.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Elegir navegador
+    .title = Elegir navegador
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Nada que mostrar
+firefoxview-dont-remember-history-empty-description = La protección de tu privacidad está en el corazón de lo que hacemos. Es por eso que puedes controlar la actividad que { -brand-short-name } recuerda.
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Cerrar
+    .title = Cerrar
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Importar historial desde otro navegador
+firefoxview-import-history-description = Haz de { -brand-short-name } tu navegador favorito. Importa el historial de navegación, los marcadores y más.
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = ¿Cerraste una pestaña demasiado pronto?
+
+##
+
