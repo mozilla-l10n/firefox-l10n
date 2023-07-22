@@ -155,6 +155,7 @@ firefoxview-view-more-browsing-history = הצגת היסטוריית גלישה 
 
 firefoxview-history-empty-header = חזרה למקום שבו היית
 firefoxview-history-empty-description = תוך כדי גלישה, הדפים שבהם ביקרת יופיעו כאן.
+firefoxview-history-empty-description-two = ליבת העשייה שלנו היא להגן על הפרטיות שלך. זוהי הסיבה שבאפשרותך לשלוט בפעילות ש־{ -brand-short-name } זוכר, ב<a data-l10n-name="history-settings-url">הגדרות ההיסטוריה</a> שלך.
 
 ##
 
@@ -165,6 +166,7 @@ firefoxview-choose-browser-button = בחירת דפדפן
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = אין מה לראות כאן
+firefoxview-dont-remember-history-empty-description = ליבת העשייה שלנו היא להגן על הפרטיות שלך. זוהי הסיבה שבאפשרותך לשלוט בפעילות ש־{ -brand-short-name } זוכר.
 firefoxview-dont-remember-history-empty-description-two = בהתבסס על ההגדרות הנוכחיות שלך, { -brand-short-name } לא זוכר את הפעילות שלך תוך כדי גלישה. כדי לשנות זאת, ניתן <a data-l10n-name="history-settings-url-two">לשנות את הגדרות ההיסטוריה שלך כדי לזכור את ההיסטוריה שלך</a>.
 
 ##
