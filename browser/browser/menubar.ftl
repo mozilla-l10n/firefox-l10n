@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = 離開 { -brand-shorter-name }
-
 menu-about =
     .label = 關於 { -brand-shorter-name }
     .accesskey = A
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = 最近關閉的分頁
 menu-history-undo-window-menu =
     .label = 最近關閉的視窗
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = 搜尋瀏覽記錄
 
 ## Bookmarks Menu
 

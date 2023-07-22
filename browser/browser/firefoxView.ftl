@@ -28,12 +28,16 @@ firefoxview-tabpickup-adddevice-header = 與您的手機或平板電腦同步 { 
 firefoxview-tabpickup-adddevice-description = 下載 { -brand-product-name } 行動版並在該裝置登入。
 firefoxview-tabpickup-adddevice-learn-how = 了解要怎麼做
 firefoxview-tabpickup-adddevice-primarybutton = 下載 { -brand-product-name } 行動版
-firefoxview-syncedtabs-adddevice-header = 在您的其他裝置也登入 { -brand-product-name }
+firefoxview-syncedtabs-adddevice-header = 在您其他裝置上的 { -brand-product-name } 也登入
 firefoxview-syncedtabs-adddevice-description = 請在您所有使用的裝置都登入 { -brand-product-name }，才能看到所有地方開啟的分頁。了解如何<a data-l10n-name="url">連結更多裝置</a>。
+firefoxview-syncedtabs-adddevice-primarybutton = 試用 { -brand-product-name } 行動版
 firefoxview-tabpickup-synctabs-header = 開啟分頁同步
 firefoxview-tabpickup-synctabs-description = 允許 { -brand-short-name } 在不同裝置間分享分頁。
 firefoxview-tabpickup-synctabs-learn-how = 了解要怎麼做
 firefoxview-tabpickup-synctabs-primarybutton = 同步開啟的分頁
+firefoxview-syncedtabs-synctabs-header = 更新同步設定
+firefoxview-syncedtabs-synctabs-description = 需要同步開啟的分頁，才能看到您其他裝置上的分頁。
+firefoxview-syncedtabs-synctabs-checkbox = 允許同步開啟的分頁
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的組織已停用同步功能
 firefoxview-tabpickup-fxa-admin-disabled-description = 由於您的管理員已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
 firefoxview-tabpickup-network-offline-header = 請檢查您的網際網路連線是否正常
@@ -49,6 +53,7 @@ firefoxview-tabpickup-password-locked-header = 請輸入您的主控密碼來檢
 firefoxview-tabpickup-password-locked-description = 若要取得您的分頁，需要先輸入 { -brand-short-name } 的主控密碼。
 firefoxview-tabpickup-password-locked-link = 了解更多
 firefoxview-tabpickup-password-locked-primarybutton = 輸入主控密碼
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">了解更多</a>
 firefoxview-tabpickup-signed-out-header = 登入即可重新連線
 firefoxview-tabpickup-signed-out-description = 登入 { -fxaccount-brand-name } 即可重新連線並取回分頁。
 firefoxview-tabpickup-signed-out-primarybutton = 登入
@@ -95,6 +100,8 @@ firefoxview-overview-header = 近期瀏覽
 firefoxview-history-nav = 瀏覽紀錄
     .title = 瀏覽紀錄
 firefoxview-history-header = 瀏覽紀錄瀏覽紀錄
+firefoxview-history-context-delete = 從瀏覽紀錄刪除
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -140,6 +147,10 @@ firefoxview-history-date-today = 今天 - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = 昨天 - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = （本機檔案）
 
 ##
 
@@ -161,12 +172,20 @@ firefoxview-dont-remember-history-empty-header = 沒有可顯示的項目
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = 關閉
+    .title = 關閉
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = 自其他瀏覽器匯入瀏覽紀錄
+firefoxview-import-history-description = 讓 { -brand-short-name } 成為您的預設瀏覽器。匯入瀏覽紀錄、書籤與更多資料。
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = 不小心把分頁關閉了？
+firefoxview-recentlyclosed-empty-description = 您可以在此處找到近期關閉的分頁，這樣就可以快速重新開啟。
 
 ##
 
