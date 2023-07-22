@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Пӯшидани огоҳномаи ҷорӣ
 alert-settings-title =
     .tooltiptext = Танзимот
+
+## Reminder Notifications
+
+notification-default-dismiss = Нодида гузарондан

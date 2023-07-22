@@ -94,6 +94,8 @@ firefoxview-overview-header = Тамошокунии охирин
 firefoxview-history-nav = Таърих
     .title = Таърих
 firefoxview-history-header = Таърих
+firefoxview-history-context-delete = Нест кардан аз таърих
+    .accesskey = Н
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -139,6 +141,10 @@ firefoxview-history-date-today = Имрӯз - { DATETIME($date, dateStyle: "full
 firefoxview-history-date-yesterday = Дирӯз - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (файлҳои маҳаллӣ)
 
 ##
 
@@ -155,6 +161,10 @@ firefoxview-show-all-history = Намоиш додани таърихи пурр
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Пӯшидан
+    .title = Пӯшидан
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 

@@ -38,11 +38,9 @@ menu-quit =
             [windows] Б
            *[other] Х
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Хомӯш кардани { -brand-shorter-name }
-
 menu-about =
     .label = Дар бораи { -brand-shorter-name }
     .accesskey = Д
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = Варақаҳои ба наздикӣ пӯшидашуда
 menu-history-undo-window-menu =
     .label = Равзанаҳои ба наздикӣ пӯшидашуда
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Ҷустуҷӯ дар таърих
 
 ## Bookmarks Menu
 

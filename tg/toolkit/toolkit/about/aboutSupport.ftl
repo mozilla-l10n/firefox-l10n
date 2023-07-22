@@ -19,6 +19,7 @@ support-addons-type = Навъ
 support-addons-enabled = Фаъол аст
 support-addons-version = Силсила
 support-addons-id = Рақами мушаххас
+legacy-user-stylesheets-enabled = Фаъол
 security-software-title = Нармафзори амният
 security-software-type = Навъ
 security-software-name = Ном
