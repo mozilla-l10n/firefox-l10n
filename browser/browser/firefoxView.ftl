@@ -193,6 +193,7 @@ firefoxview-import-history-description = Gwnewch { -brand-short-name } eich prif
 
 firefoxview-recentlyclosed-empty-header = Wedi cau tab yn rhy fuan?
 firefoxview-recentlyclosed-empty-description = Yma fe welwch y tabiau y gwnaethoch eu cau yn ddiweddar, fel y gallwch chi ailagor unrhyw un ohonyn nhw'n gyflym.
+firefoxview-recentlyclosed-empty-description-two = I ddod o hyd i dabiau ers peth amser, edrychwch ar eich <a data-l10n-name="history-url">hanes pori</a>.
 
 ##
 
