@@ -23,10 +23,13 @@ firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
 firefoxview-tabpickup-step-signin-header = 無縫切換裝置
 firefoxview-tabpickup-step-signin-description = 請先登入或註冊帳號，即可在此處接收手機上的分頁。
 firefoxview-tabpickup-step-signin-primarybutton = 繼續
+firefoxview-syncedtabs-signin-primarybutton = 登入或註冊
 firefoxview-tabpickup-adddevice-header = 與您的手機或平板電腦同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下載 { -brand-product-name } 行動版並在該裝置登入。
 firefoxview-tabpickup-adddevice-learn-how = 了解要怎麼做
 firefoxview-tabpickup-adddevice-primarybutton = 下載 { -brand-product-name } 行動版
+firefoxview-syncedtabs-adddevice-header = 在您的其他裝置也登入 { -brand-product-name }
+firefoxview-syncedtabs-adddevice-description = 請在您所有使用的裝置都登入 { -brand-product-name }，才能看到所有地方開啟的分頁。了解如何<a data-l10n-name="url">連結更多裝置</a>。
 firefoxview-tabpickup-synctabs-header = 開啟分頁同步
 firefoxview-tabpickup-synctabs-description = 允許 { -brand-short-name } 在不同裝置間分享分頁。
 firefoxview-tabpickup-synctabs-learn-how = 了解要怎麼做
@@ -113,7 +116,7 @@ firefoxview-synced-tabs-header = 來自其他裝置的分頁
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = 檢視全部
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -142,3 +145,28 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 firefoxview-show-all-history = 顯示所有瀏覽記錄
 firefoxview-view-more-browsing-history = 檢視更多瀏覽紀錄
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = 選擇瀏覽器
+    .title = 選擇瀏覽器
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = 沒有可顯示的項目
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
