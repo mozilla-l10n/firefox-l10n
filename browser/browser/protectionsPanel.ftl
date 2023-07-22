@@ -64,7 +64,7 @@ protections-panel-site-not-working-view-issue-list-forms = ආකෘති
 protections-panel-site-not-working-view-issue-list-payments = ගෙවීම්
 protections-panel-site-not-working-view-issue-list-comments = අදහස්
 protections-panel-site-not-working-view-issue-list-videos = දෘශ්‍යක
-protections-panel-site-not-working-view-issue-list-fonts = අකුරු
+protections-panel-site-not-working-view-issue-list-fonts = රුවකුරු
 protections-panel-site-not-working-view-send-report = වාර්තාවක් යවන්න
 
 ##
