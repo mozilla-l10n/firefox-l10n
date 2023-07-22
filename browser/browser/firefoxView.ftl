@@ -158,18 +158,32 @@ firefoxview-history-empty-description = תוך כדי גלישה, הדפים ש�
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = בחירת דפדפן
+    .title = בחירת דפדפן
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = אין מה לראות כאן
+firefoxview-dont-remember-history-empty-description-two = בהתבסס על ההגדרות הנוכחיות שלך, { -brand-short-name } לא זוכר את הפעילות שלך תוך כדי גלישה. כדי לשנות זאת, ניתן <a data-l10n-name="history-settings-url-two">לשנות את הגדרות ההיסטוריה שלך כדי לזכור את ההיסטוריה שלך</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = סגירה
+    .title = סגירה
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = ייבוא היסטוריה מדפדפן אחר
+firefoxview-import-history-description = ניתן להפוך את { -brand-short-name } לדפדפן ברירת המחדל שלך. ייבוא היסטוריית גלישה, סימניות ועוד.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = סגרת לשונית מוקדם מדי?
+firefoxview-recentlyclosed-empty-description = כאן ניתן למצוא את הלשוניות שסגרת לאחרונה, כך שבאפשרותך לפתוח מחדש כל אחת מהן במהירות.
+firefoxview-recentlyclosed-empty-description-two = כדי למצוא לשוניות מלפני זמן רב, ניתן לצפות <a data-l10n-name="history-url">בהיסטוריית הגלישה</a> שלך.
 
 ##
 
