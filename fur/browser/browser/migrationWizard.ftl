@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Impuarte dâts dal navigadôr
 migration-wizard-selection-list = Selezione i dâts che tu desideris impuartâ.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Selezione i dâts che tu desideris impuartâ.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = Impuarte i dâts selezionâts
 
 migration-select-all-option-label = Selezione dut
 migration-bookmarks-option-label = Segnelibris
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Preferîts
-
 migration-logins-and-passwords-option-label = Credenziâls e passwords salvadis
 migration-history-option-label = Cronologjie di navigazion
 migration-extensions-option-label = Estensions
 migration-form-autofill-option-label = Dâts pe compilazion automatiche dai formularis
 migration-payment-methods-option-label = Metodis di paiament
-
 migration-cookies-option-label = Cookies
 migration-session-option-label = Barcons e schedis
 migration-otherdata-option-label = Altris dâts
-
 migration-passwords-from-file-progress-header = Impuarte file des passwords
 migration-passwords-from-file-success-header = Passwords impuartadis cun sucès
 migration-passwords-from-file = Daûr a controlâ il file pes passwords
 migration-passwords-new = Gnovis passwords
 migration-passwords-updated = Passwords esistentis
-
 migration-passwords-from-file-no-valid-data = Il file nol inclût nissune informazion valide relative aes passwords. Sielç un altri file.
-
 migration-passwords-from-file-picker-title = Impuarte file des passwords
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Document TSV
        *[other] File TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -104,7 +95,6 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } zontade
        *[other] { $newEntries } zontadis
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -115,14 +105,11 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } inzornade
        *[other] { $updatedEntries } inzornadis
     }
-
 migration-bookmarks-from-file-picker-title = Importazion file di segnelibris
 migration-bookmarks-from-file-progress-header = Daûr a impuartâ i segnelibris
 migration-bookmarks-from-file = Segnelibris
 migration-bookmarks-from-file-success-header = Segnelibris impuartâts cun sucès
-
 migration-bookmarks-from-file-no-valid-data = Il file nol inclût nissune informazion relative ai segnelibris. Sielç un altri file.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -130,11 +117,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Document HTML
        *[other] File HTML
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = File JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -145,14 +130,12 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } segnelibri
        *[other] { $newEntries } segnelibris
     }
-
 migration-import-button-label = Impuarte
 migration-choose-to-import-from-file-button-label = Impuarte di file
 migration-import-from-file-button-label = Selezione file
 migration-cancel-button-label = Anule
 migration-done-button-label = Fat
 migration-continue-button-label = Continue
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } nol è rivât a cjatâ nissun program che al contegni segnelibris, cronologjiis o passwords.
 migration-wizard-import-browser-no-resources = Al è vignût fûr un erôr. { -brand-short-name } nol rive a cjatâ nissun dât di impuartâ di chel profîl dal navigadôr.
 
@@ -163,7 +146,6 @@ migration-wizard-import-browser-no-resources = Al è vignût fûr un erôr. { -b
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = segnelibris
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = preferîts
@@ -176,12 +158,18 @@ migration-list-payment-methods-label = metodis di paiament
 ##
 
 migration-wizard-progress-header = Importazion dâts
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Dâts impuartâts cun sucès
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Importazion dâts completade
 migration-wizard-progress-icon-in-progress =
     .aria-label = Daûr a impuartâ…
 migration-wizard-progress-icon-completed =
     .aria-label = Completade
-
 migration-safari-password-import-header = Importazion passwords di Safari
 migration-safari-password-import-steps-header = Par impuartâ lis passwords di Safari:
 migration-safari-password-import-step1 = In Safari, vierç il menù “Safari” e va in Preferencis > Passwords
@@ -190,8 +178,6 @@ migration-safari-password-import-step3 = Salve il file des passwords
 migration-safari-password-import-step4 = Dopre “Selezione file” chi sot par sielzi il file des passwords che tu âs salvât
 migration-safari-password-import-skip-button = Salte
 migration-safari-password-import-select-button = Selezione file
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -202,7 +188,6 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } segnlibri
        *[other] { $quantity } segnelibris
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -230,7 +215,6 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } estension
        *[other] { $quantity } estensions
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -238,12 +222,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } di { $quantity } estensions
-
 migration-wizard-progress-extensions-support-link = Scuvierç cemût che { -brand-product-name } al cjate corispondencis tra lis estensions
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Nissune estension corispondente
-
 migration-wizard-progress-extensions-addons-link = Bute un voli aes estensions par { -brand-short-name }
 
 ##
@@ -258,7 +240,6 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } password
        *[other] { $quantity } passwords
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -269,9 +250,7 @@ migration-wizard-progress-success-history =
         [one] Dal ultin dì
        *[other] Dai ultins { $maxAgeInDays } dîs
     }
-
 migration-wizard-progress-success-formdata = Cronologjie formularis
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -282,7 +261,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } metodi di paiament
        *[other] { $quantity } metodis di paiament
     }
-
 migration-wizard-safari-permissions-sub-header = Par impuartâ i segnelibris di Safari e la cronologjie di navigazion:
 migration-wizard-safari-instructions-continue = Selezione “Continue”
 migration-wizard-safari-instructions-folder = Selezione la cartele Safari te liste e sielç “Vierç”
