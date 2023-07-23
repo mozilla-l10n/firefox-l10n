@@ -93,6 +93,8 @@ firefoxview-overview-header = Nedávne prehliadanie
 firefoxview-history-nav = História
     .title = História
 firefoxview-history-header = História
+firefoxview-history-context-delete = Odstrániť z histórie
+    .accesskey = d
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -138,13 +140,20 @@ firefoxview-history-date-today = Dnes – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Včera – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokálne súbory)
 
 ##
 
 firefoxview-show-all-history = Zobraziť celú históriu
+firefoxview-view-more-browsing-history = Zobraziť ďalšiu históriu prehliadania
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Vráťte sa tam, kde ste boli
+firefoxview-history-empty-description = Počas prehliadania sa tu zobrazia stránky, ktoré navštívite.
 
 ##
 

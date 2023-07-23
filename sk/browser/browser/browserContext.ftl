@@ -160,7 +160,7 @@ main-context-menu-copy-link-simple =
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
     .label = Kopírovať odkaz bez sledovacích prvkov
-    .accesskey = d
+    .accesskey = b
 
 ## Media (video/audio) controls
 ##
