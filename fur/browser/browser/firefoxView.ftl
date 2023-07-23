@@ -193,6 +193,7 @@ firefoxview-import-history-description = Rint { -brand-short-name } il to naviga
 
 firefoxview-recentlyclosed-empty-header = Âstu sierât une schede masse adore?
 firefoxview-recentlyclosed-empty-description = Achì tu puedis cjatâ lis schedis che tu âs sierât di resint, in mût di podêlis tornâ a vierzi daurman.
+firefoxview-recentlyclosed-empty-description-two = Par cjatâ schedis sieradis di tant timp, viôt la tô <a data-l10n-name="history-url">cronologjie di navigazion</a>.
 
 ##
 

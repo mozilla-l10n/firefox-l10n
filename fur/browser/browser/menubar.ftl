@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = Schedis sieradis di resint
 menu-history-undo-window-menu =
     .label = Barcons sierâts cumò denant
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Cîr te cronologjie
 
 ## Bookmarks Menu
 
