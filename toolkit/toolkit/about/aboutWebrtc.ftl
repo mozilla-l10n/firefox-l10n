@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Útroby WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = uložiť about:webrtc ako
@@ -24,7 +23,6 @@ about-webrtc-aec-logging-msg-label = Záznam AEC
 about-webrtc-aec-logging-off-state-label = Spustiť záznam AEC
 about-webrtc-aec-logging-on-state-label = Zastaviť záznam AEC
 about-webrtc-aec-logging-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -34,22 +32,16 @@ about-webrtc-aec-logging-toggled-off-state-msg = Zachytené záznamy je možné 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatické obnovovanie
-
 # Determines the default state of the Auto Refresh check boxes
 about-webrtc-auto-refresh-default-label = Automaticky obnovovať
-
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Obnoviť
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
-
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Otvorené dátové kanály:
-
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = Zatvorené dátové kanály:
 
@@ -97,16 +89,15 @@ about-webrtc-type-remote = Vzdialený
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominovaný
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Zvolený
-
 about-webrtc-save-page-label = Uložiť stránku
 about-webrtc-debug-mode-msg-label = Režim ladenia
 about-webrtc-debug-mode-off-state-label = Spustiť režim ladenia
 about-webrtc-debug-mode-on-state-label = Zastaviť režim ladenia
+about-webrtc-enable-logging-label = Povoliť protokolovanie WebRTC
 about-webrtc-stats-heading = Štatistiky relácie
 about-webrtc-stats-clear = Vymazať históriu
 about-webrtc-log-heading = Denník pripojenia
@@ -115,7 +106,6 @@ about-webrtc-log-show-msg = zobraziť záznamy
     .title = kliknutím rozbalíte túto sekciu
 about-webrtc-log-hide-msg = skryť záznamy
     .title = kliknutím skryjete túto sekciu
-
 about-webrtc-log-section-show-msg = Zobraziť záznamy
     .title = Kliknutím rozbalíte túto sekciu
 about-webrtc-log-section-hide-msg = Skryť záznamy
@@ -198,36 +188,26 @@ about-webrtc-pc-configuration-hide-msg = Skryť konfiguráciu
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Poskytnuté
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Neposkytnuté
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Používateľom nastavené predvoľby WebRTC
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Odhadovaná šírka pásma
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Identifikátor stopy
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Šírka pásma pre odoslanie (bajtov/sek)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Šírka pásma pre prijímanie (bajtov/sek)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maximálna výplň (bajtov/sek)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Oneskorenie medzi paketmi (ms)
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -243,13 +223,13 @@ about-webrtc-save-page-msg = stránka uložená do: { $path }
 about-webrtc-debug-mode-off-state-msg = denník sledovania je možné nájsť tu: { $path }
 about-webrtc-debug-mode-on-state-msg = režim ladenia je aktivovaný, denník sledovania tu: { $path }
 about-webrtc-aec-logging-off-state-msg = zachytené záznamy je možné nájsť tu: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stránka uložená do: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Denník sledovania je možné nájsť tu: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Režim ladenia je aktivovaný, denník sledovania tu: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -259,7 +239,6 @@ about-webrtc-frames =
         [few] { $frames } snímky
        *[other] { $frames } snímiek
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -269,7 +248,6 @@ about-webrtc-channels =
         [few] { $channels } kanály
        *[other] { $channels } kanálov
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -279,7 +257,6 @@ about-webrtc-received-label =
         [few] Prijaté { $packets } pakety
        *[other] Prijatých { $packets } paketov
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -289,7 +266,6 @@ about-webrtc-lost-label =
         [few] Stratené { $packets } pakety
        *[other] Stratených { $packets } paketov
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -299,13 +275,11 @@ about-webrtc-sent-label =
         [few] Odoslané { $packets } pakety
        *[other] Odoslaných { $packets } paketov
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -318,12 +292,10 @@ about-webrtc-trickle-caption-msg = Trickled candidates (doručené po odpovedi) 
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Nastaviť lokálne SDP na časovej známke { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Nastaviť vzdialené SDP na časovej známke { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -342,6 +314,9 @@ about-webrtc-hide-msg-sdp = Skryť SDP
 about-webrtc-media-context-show-msg = Zobraziť kontext médií
 about-webrtc-media-context-hide-msg = Skryť kontext médií
 about-webrtc-media-context-heading = Informácie o kontexte médií
+
+##
+
 
 ##
 
