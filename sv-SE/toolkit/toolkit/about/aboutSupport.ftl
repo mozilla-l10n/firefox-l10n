@@ -15,6 +15,7 @@ support-addons-type = Typ
 support-addons-enabled = Aktiverad
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-title = Äldre stilmallar för användare
 legacy-user-stylesheets-enabled = Aktiv
 legacy-user-stylesheets-stylesheet-types = Stilmallar
 legacy-user-stylesheets-no-stylesheets-found = Inga stilmallar hittades
