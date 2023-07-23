@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Salve la pagjne
 about-webrtc-debug-mode-msg-label = Modalitât debug
 about-webrtc-debug-mode-off-state-label = Comence modalitât debug
 about-webrtc-debug-mode-on-state-label = Ferme modalitât debug
+about-webrtc-enable-logging-label = Ative la pre-configurazion di regjistrazion par WebRTC
 about-webrtc-stats-heading = Statistichis session
 about-webrtc-stats-clear = Cancele la storie
 about-webrtc-log-heading = Regjistri di conession
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = pagjine salvade in:{ $path }
 about-webrtc-debug-mode-off-state-msg = regjistri de rie disponibil in: { $path }
 about-webrtc-debug-mode-on-state-msg = modalitât debug ative. Regjistri de rie in: { $path }
 about-webrtc-aec-logging-off-state-msg = i files regjistrâts a si cjatin in: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pagjine salvade in:{ $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Regjistri de rie disponibil in: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modalitât debug ative. regjistri de rie in: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,6 +309,9 @@ about-webrtc-hide-msg-sdp = Plate SDP
 about-webrtc-media-context-show-msg = Mostre contest multimediâl
 about-webrtc-media-context-hide-msg = Plate contest multimediâl
 about-webrtc-media-context-heading = Contest multimediâl
+
+##
+
 
 ##
 
