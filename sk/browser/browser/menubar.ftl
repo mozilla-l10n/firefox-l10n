@@ -38,11 +38,9 @@ menu-quit =
             [windows] U
            *[other] U
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Ukončiť { -brand-shorter-name }
-
 menu-about =
     .label = O aplikácii { -brand-shorter-name }
     .accesskey = O
@@ -223,6 +221,9 @@ menu-history-undo-menu =
     .label = Nedávno zatvorené karty
 menu-history-undo-window-menu =
     .label = Nedávno zatvorené okná
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Hľadať v histórii
 
 ## Bookmarks Menu
 
