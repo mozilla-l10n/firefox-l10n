@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = Dokončeno { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízeními
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
+firefoxview-syncedtabs-signin-primarybutton = Přihlášení nebo registrace
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
         [with-cases] Synchronizujte { -brand-product-name(case: "acc") } se svým telefonem či tabletem.
@@ -39,6 +40,7 @@ firefoxview-tabpickup-adddevice-primarybutton =
         [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
        *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
+firefoxview-syncedtabs-adddevice-primarybutton = Vyzkoušet { -brand-product-name } pro mobily
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
 firefoxview-tabpickup-synctabs-description =
     { -brand-short-name.case-status ->
@@ -47,6 +49,8 @@ firefoxview-tabpickup-synctabs-description =
     }
 firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
 firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
+firefoxview-syncedtabs-synctabs-header = Aktualizace nastavení synchronizace
+firefoxview-syncedtabs-synctabs-description = Chcete-li zobrazit panely z jiných zařízení, musíte své otevřené panely synchronizovat.
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je to synchronizace zakázána vaším správcem.
 firefoxview-tabpickup-network-offline-header = Zkontrolujte své připojení k Internetu
@@ -153,7 +157,7 @@ firefoxview-synced-tabs-header = Panely z jiných zařízení
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Zobrazit vše
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -177,8 +181,38 @@ firefoxview-history-date-today = Dnes – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Včera – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (místní soubor)
 
 ##
 
 firefoxview-show-all-history = Zobrazit celou historii
 firefoxview-view-more-browsing-history = Zobrazit více z historie prohlížení
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Zavřít
+    .title = Zavřít
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Importovat historii z jiného prohlížeče
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
