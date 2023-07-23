@@ -24,16 +24,22 @@ firefoxview-tabpickup-step-signin-header = Vaihda saumattomasti laitteiden väli
 firefoxview-tabpickup-step-signin-description = Noutaaksesi puhelimen välilehdet tänne, kirjaudu ensin sisään tai luo tili.
 firefoxview-tabpickup-step-signin-primarybutton = Jatka
 firefoxview-syncedtabs-signin-header = Nappaa välilehdet mistä tahansa
+firefoxview-syncedtabs-signin-description = Näet välilehdet kaikkialla, missä käytät { -brand-product-name }ia, kun kirjaudut sisään tilillesi. Jos sinulla ei ole tiliä, opastamme sinut rekisteröitymisen vaiheiden läpi.
 firefoxview-syncedtabs-signin-primarybutton = Kirjaudu tai rekisteröidy
 firefoxview-tabpickup-adddevice-header = Synkronoi { -brand-product-name } puhelimellasi tai tablet-laitteellasi
 firefoxview-tabpickup-adddevice-description = Lataa { -brand-product-name } mobiililaitteelle ja kirjaudu sisään.
 firefoxview-tabpickup-adddevice-learn-how = Lue lisää
 firefoxview-tabpickup-adddevice-primarybutton = Hanki { -brand-product-name } mobiililaitteelle
+firefoxview-syncedtabs-adddevice-header = Kirjaudu sisään { -brand-product-name }iin muilla laitteillasi
+firefoxview-syncedtabs-adddevice-description = Näet välilehdet kaikkialla, missä käytät { -brand-product-name }ia, kun kirjaudut sisään tilillesi kaikilla laitteillasi. Tietoa <a data-l10n-name="url">muiden laitteiden yhdistämisestä</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Kokeile { -brand-product-name }ia mobiililaitteella
 firefoxview-tabpickup-synctabs-header = Ota välilehtien synkronointi käyttöön
 firefoxview-tabpickup-synctabs-description = Salli { -brand-short-name }in jakaa välilehtiä laitteiden välillä.
 firefoxview-tabpickup-synctabs-learn-how = Lue lisää
 firefoxview-tabpickup-synctabs-primarybutton = Synkronoi avoimet välilehdet
 firefoxview-syncedtabs-synctabs-header = Päivitä synkronointiasetukset
+firefoxview-syncedtabs-synctabs-description = Jos haluat nähdä muiden laitteiden välilehdet, sinun on synkronoitava avoimet välilehdet.
+firefoxview-syncedtabs-synctabs-checkbox = Salli avointen välilehtien synkronointi
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska laitteesi järjestelmänvalvoja on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-network-offline-header = Tarkista Internet-yhteytesi
@@ -49,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Anna pääsalasanasi nähdäksesi
 firefoxview-tabpickup-password-locked-description = Jotta pääset käyttämään välilehtiäsi, sinun tulee kirjoittaa { -brand-short-name }in pääsalasana.
 firefoxview-tabpickup-password-locked-link = Lue lisää
 firefoxview-tabpickup-password-locked-primarybutton = Kirjoita pääsalasana
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Lisätietoja</a>
 firefoxview-tabpickup-signed-out-header = Kirjaudu yhdistääksesi uudelleen
 firefoxview-tabpickup-signed-out-description = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään { -fxaccount-brand-name }llesi.
 firefoxview-tabpickup-signed-out-primarybutton = Kirjaudu sisään
@@ -142,10 +149,15 @@ firefoxview-history-date-today = Tänään - { DATETIME($date, dateStyle: "full"
 firefoxview-history-date-yesterday = Eilen - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (paikalliset tiedostot)
 
 ##
 
 firefoxview-show-all-history = Näytä koko historia
+firefoxview-view-more-browsing-history = Näytä lisää selaushistoriaa
 
 ## Message displayed in Firefox View when the user has no history data
 
