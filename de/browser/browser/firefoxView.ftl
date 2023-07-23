@@ -95,6 +95,8 @@ firefoxview-overview-header = Kürzlich besucht
 firefoxview-history-nav = Chronik
     .title = Chronik
 firefoxview-history-header = Chronik
+firefoxview-history-context-delete = Aus Chronik löschen
+    .accesskey = l
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -155,15 +157,23 @@ firefoxview-view-more-browsing-history = Mehr Browserverlauf anzeigen
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Browser wählen
+    .title = Browser wählen
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Schließen
+    .title = Schließen
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Chronik aus einem anderen Browser importieren
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
