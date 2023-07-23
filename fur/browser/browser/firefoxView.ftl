@@ -162,6 +162,8 @@ firefoxview-view-more-browsing-history = Mostre altre cronologjie di navigazion
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Torne là che tu sês za stât
+firefoxview-history-empty-description = A man a man che tu navighis, lis pagjinis che tu visitis a vignaran listadis achì.
+firefoxview-history-empty-description-two = Protezi la tô riservatece e je la nestre prioritât. Par chest tu puedis decidi lis ativitâts che { -brand-short-name } al à di visâsi tes <a data-l10n-name="history-settings-url">impostazions de cronologjie</a>.
 
 ##
 
@@ -172,6 +174,8 @@ firefoxview-choose-browser-button = Sielç un navigadôr
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nuie ce mostrâ
+firefoxview-dont-remember-history-empty-description = Protezi la tô riservatece e je la nestre prioritât. Par chest motîf tu puedis decidi lis ativitâts che { -brand-short-name } al à di visâsi.
+firefoxview-dont-remember-history-empty-description-two = In base aes tôs impostazions corintis, { -brand-short-name } nol à di visâsi lis tôs ativitâts dilunc la navigazion. Par cambiâ, <a data-l10n-name="history-settings-url-two">tes impostazions de cronologjie, stabilìs che il to navigadôr al salvi la cronologjie</a>.
 
 ##
 
@@ -183,10 +187,12 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Impuarte la cronologjie di un altri navigadôr
+firefoxview-import-history-description = Rint { -brand-short-name } il to navigadôr di riferiment. Impuarte la cronologjie, i segnelibris e ancjemò altri.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Âstu sierât une schede masse adore?
+firefoxview-recentlyclosed-empty-description = Achì tu puedis cjatâ lis schedis che tu âs sierât di resint, in mût di podêlis tornâ a vierzi daurman.
 
 ##
 
