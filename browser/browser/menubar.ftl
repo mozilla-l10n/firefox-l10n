@@ -38,11 +38,9 @@ menu-quit =
             [windows] S
            *[other] S
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Sulje { -brand-shorter-name }
-
 menu-about =
     .label = Tietoja: { -brand-shorter-name }
     .accesskey = T
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = Suljetut välilehdet
 menu-history-undo-window-menu =
     .label = Suljetut ikkunat
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Etsi historiasta
 
 ## Bookmarks Menu
 
