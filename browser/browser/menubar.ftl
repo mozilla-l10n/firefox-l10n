@@ -38,11 +38,9 @@ menu-quit =
             [windows] A
            *[other] A
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Avsluta { -brand-shorter-name }
-
 menu-about =
     .label = Om { -brand-shorter-name }
     .accesskey = O
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = Nyligen stängda flikar
 menu-history-undo-window-menu =
     .label = Nyligen stängda fönster
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Sök i historik
 
 ## Bookmarks Menu
 
