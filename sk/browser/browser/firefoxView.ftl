@@ -23,6 +23,8 @@ firefoxview-tabpickup-progress-label = Dokončené na { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Plynule prepínajte medzi zariadeniami
 firefoxview-tabpickup-step-signin-description = Ak chcete získať karty z telefónu, najprv sa prihláste alebo si vytvorte účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovať
+firefoxview-syncedtabs-signin-header = Vezmite si karty odkiaľkoľvek
+firefoxview-syncedtabs-signin-description = Ak chcete vidieť svoje karty kdekoľvek, kde používate { -brand-product-name }, prihláste sa do svojho účtu. Ak nemáte účet, prevedieme vás krokmi registrácie.
 firefoxview-syncedtabs-signin-primarybutton = Prihláste sa alebo sa zaregistrujte
 firefoxview-tabpickup-adddevice-header = Synchronizujte { -brand-product-name } na svojom telefóne alebo tablete
 firefoxview-tabpickup-adddevice-description = Stiahnite si { -brand-product-name } pre mobilné zariadenie a prihláste sa tam.
@@ -37,6 +39,7 @@ firefoxview-tabpickup-synctabs-learn-how = Ďalšie informácie
 firefoxview-tabpickup-synctabs-primarybutton = Zapnúť synchronizáciu kariet
 firefoxview-syncedtabs-synctabs-header = Aktualizujte nastavenia synchronizácie
 firefoxview-syncedtabs-synctabs-description = Ak chcete zobraziť karty z iných zariadení, musíte svoje otvorené karty synchronizovať.
+firefoxview-syncedtabs-synctabs-checkbox = Povoliť synchronizáciu otvorených kariet
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizácia zakázala synchronizáciu
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože váš správca zakázal synchronizáciu.
 firefoxview-tabpickup-network-offline-header = Skontrolujte svoje internetové pripojenie
@@ -160,6 +163,7 @@ firefoxview-view-more-browsing-history = Zobraziť ďalšiu históriu prehliadan
 
 firefoxview-history-empty-header = Vráťte sa tam, kde ste boli
 firefoxview-history-empty-description = Počas prehliadania sa tu zobrazia stránky, ktoré navštívite.
+firefoxview-history-empty-description-two = Ochrana vášho súkromia je základom toho, čo robíme. Preto môžete v <a data-l10n-name="history-settings-url">nastaveniach histórie</a> určiť, ktorú aktivitu si { -brand-short-name } pamätá.
 
 ##
 
@@ -170,6 +174,8 @@ firefoxview-choose-browser-button = Zvoľte prehliadač
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Zatiaľ tu nič nie je
+firefoxview-dont-remember-history-empty-description = Ochrana vášho súkromia je základom toho, čo robíme. Preto môžete určiť, ktorú aktivitu si { -brand-short-name } pamätá.
+firefoxview-dont-remember-history-empty-description-two = Na základe vašich aktuálnych nastavení si { -brand-short-name } nepamätá vašu aktivitu pri prehliadaní. Ak to chcete zmeniť, <a data-l10n-name="history-settings-url-two">zmeňte nastavenia histórie tak, aby si históriu pamätal</a>.
 
 ##
 
