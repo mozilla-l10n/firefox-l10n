@@ -23,14 +23,23 @@ firefoxview-tabpickup-progress-label = { $percentValue }% hoàn thành
 firefoxview-tabpickup-step-signin-header = Chuyển đổi liền mạch giữa các thiết bị
 firefoxview-tabpickup-step-signin-description = Để truy cập các thẻ điện thoại của bạn tại đây, trước tiên hãy đăng nhập hoặc tạo tài khoản.
 firefoxview-tabpickup-step-signin-primarybutton = Tiếp tục
+firefoxview-syncedtabs-signin-header = Nhận các thẻ từ bất cứ đâu
+firefoxview-syncedtabs-signin-description = Để xem các thẻ của bạn từ bất cứ nơi nào bạn sử dụng { -brand-product-name }, hãy đăng nhập vào tài khoản của bạn. Nếu bạn chưa có tài khoản, chúng tôi sẽ hướng dẫn bạn các bước để đăng ký.
+firefoxview-syncedtabs-signin-primarybutton = Đăng nhập hoặc đăng ký
 firefoxview-tabpickup-adddevice-header = Đồng bộ hóa { -brand-product-name } trên điện thoại hoặc máy tính bảng của bạn
 firefoxview-tabpickup-adddevice-description = Tải xuống { -brand-product-name } cho điện thoại di động và đăng nhập vào đó.
 firefoxview-tabpickup-adddevice-learn-how = Tìm hiểu cách làm
 firefoxview-tabpickup-adddevice-primarybutton = Tải { -brand-product-name } dành cho điện thoại di động
+firefoxview-syncedtabs-adddevice-header = Đăng nhập vào { -brand-product-name } trên các thiết bị khác của bạn
+firefoxview-syncedtabs-adddevice-description = Để xem các thẻ của bạn từ bất cứ nơi nào bạn sử dụng { -brand-product-name }, đăng nhập trên tất cả các thiết bị của bạn. Tìm hiểu cách <a data-l10n-name="url">kết nối các thiết bị khác</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Thử { -brand-product-name } cho di động
 firefoxview-tabpickup-synctabs-header = Bật đồng bộ hóa thẻ
 firefoxview-tabpickup-synctabs-description = Cho phép { -brand-short-name } chia sẻ các thẻ giữa các thiết bị.
 firefoxview-tabpickup-synctabs-learn-how = Tìm hiểu cách làm
 firefoxview-tabpickup-synctabs-primarybutton = Đồng bộ hóa các thẻ đang mở
+firefoxview-syncedtabs-synctabs-header = Cập nhật cài đặt đồng bộ hóa của bạn
+firefoxview-syncedtabs-synctabs-description = Để xem các thẻ từ các thiết bị khác, bạn cần đồng bộ hóa các thẻ đang mở của mình.
+firefoxview-syncedtabs-synctabs-checkbox = Cho phép đồng bộ hóa các thẻ đang mở
 firefoxview-tabpickup-fxa-admin-disabled-header = Tổ chức của bạn đã tắt đồng bộ hóa
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } không thể đồng bộ hóa các thẻ giữa các thiết bị vì quản trị viên của bạn đã tắt đồng bộ hóa.
 firefoxview-tabpickup-network-offline-header = Kiểm tra kết nối Internet của bạn
@@ -46,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Nhập mật khẩu chính của 
 firefoxview-tabpickup-password-locked-description = Để lấy các thẻ của mình, bạn cần nhập mật khẩu chính cho { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Tìm hiểu thêm
 firefoxview-tabpickup-password-locked-primarybutton = Nhập mật khẩu chính
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Tìm hiểu thêm</a>
 firefoxview-tabpickup-signed-out-header = Đăng nhập để kết nối lại
 firefoxview-tabpickup-signed-out-description = Để kết nối lại và lấy các thẻ của bạn, hãy đăng nhập vào { -fxaccount-brand-name } của bạn.
 firefoxview-tabpickup-signed-out-primarybutton = Đăng nhập
@@ -92,6 +102,8 @@ firefoxview-overview-header = Duyệt web gần đây
 firefoxview-history-nav = Lịch sử
     .title = Lịch sử
 firefoxview-history-header = Lịch sử
+firefoxview-history-context-delete = Xóa khỏi lịch sử
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +125,7 @@ firefoxview-synced-tabs-header = Thẻ từ thiết bị khác
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Xem tất cả
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +149,51 @@ firefoxview-history-date-today = Hôm nay - { DATETIME($date, dateStyle: "full")
 firefoxview-history-date-yesterday = Hôm qua - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (tập tin cục bộ)
 
 ##
 
 firefoxview-show-all-history = Xem tất cả lịch sử
+firefoxview-view-more-browsing-history = Xem thêm lịch sử duyệt web
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Quay trở lại nơi bạn đã đến
+firefoxview-history-empty-description = Khi bạn duyệt, các trang bạn truy cập sẽ được hiển thị ở đây.
+firefoxview-history-empty-description-two = Bảo vệ sự riêng tư của bạn là trọng tâm của những gì chúng tôi làm. Đó là lý do tại sao bạn có thể kiểm soát hoạt động mà { -brand-short-name } ghi nhớ, trong <a data-l10n-name="history-settings-url">cài đặt lịch sử</a> của bạn.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Chọn trình duyệt
+    .title = Chọn trình duyệt
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Không có gì để hiển thị
+firefoxview-dont-remember-history-empty-description = Bảo vệ sự riêng tư của bạn là trọng tâm của những gì chúng tôi làm. Đó là lý do tại sao bạn có thể kiểm soát hoạt động mà { -brand-short-name } ghi nhớ.
+firefoxview-dont-remember-history-empty-description-two = Dựa trên cài đặt hiện tại của bạn, { -brand-short-name } không nhớ hoạt động của bạn khi bạn duyệt. Để thay đổi ý định, <a data-l10n-name="history-settings-url-two">hãy thay đổi cài đặt lịch sử của bạn để ghi nhớ lịch sử của bạn</a>.
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Đóng
+    .title = Đóng
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Nhập lịch sử từ trình duyệt khác
+firefoxview-import-history-description = Đặt { -brand-short-name } làm trình duyệt mặc định của bạn. Nhập lịch sử duyệt web, dấu trang, và hơn thế nữa.
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Đóng một thẻ quá sớm?
+firefoxview-recentlyclosed-empty-description = Tại đây, bạn sẽ tìm thấy các thẻ bạn đã đóng gần đây, vì vậy bạn có thể mở lại bất kỳ thẻ nào một cách nhanh chóng.
+firefoxview-recentlyclosed-empty-description-two = Để tìm các thẻ từ thời gian cũ hơn, hãy xem <a data-l10n-name="history-url">lịch sử duyệt web</a> của bạn.
+
+##
+
