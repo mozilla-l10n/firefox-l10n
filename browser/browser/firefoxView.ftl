@@ -23,10 +23,16 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completo
 firefoxview-tabpickup-step-signin-header = Cambiar entre dispositivos sin interrupciones
 firefoxview-tabpickup-step-signin-description = Para ver las pestañas de tu teléfono aquí, primero iniciá la sesión o creá una cuenta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-header = Tome pestañas desde cualquier lugar
+firefoxview-syncedtabs-signin-description = Para ver sus pestañas desde cualquier lugar donde use { -brand-product-name }, inicie la sesión en su cuenta. Si no tiene una cuenta, lo guiaremos a través de los pasos para registrarse.
+firefoxview-syncedtabs-signin-primarybutton = Ingresar o registrarse
 firefoxview-tabpickup-adddevice-header = Sincronizar { -brand-product-name } en tu teléfono o tableta
 firefoxview-tabpickup-adddevice-description = Descargar { -brand-product-name } para dispositivos móviles e iniciá la sesión allí.
 firefoxview-tabpickup-adddevice-learn-how = Conocer cómo
 firefoxview-tabpickup-adddevice-primarybutton = Obtené { -brand-product-name } para dispositivos móviles
+firefoxview-syncedtabs-adddevice-header = Inicie la sesión en { -brand-product-name } en sus otros dispositivos
+firefoxview-syncedtabs-adddevice-description = Para ver sus pestañas desde cualquier lugar donde use { -brand-product-name }, inicie sesión en todos sus dispositivos. Obtenga información sobre cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Pruebe { -brand-product-name } para dispositivos móviles
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Conocer cómo
@@ -113,7 +119,7 @@ firefoxview-synced-tabs-header = Pestañas de otros dispositivos
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Ver todo
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -142,3 +148,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 firefoxview-show-all-history = Mostrar todo el historial
 firefoxview-view-more-browsing-history = Ver más historial de navegación
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
