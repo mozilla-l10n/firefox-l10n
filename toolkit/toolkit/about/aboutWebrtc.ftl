@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Cadw Tudalen
 about-webrtc-debug-mode-msg-label = Modd Dadfygio
 about-webrtc-debug-mode-off-state-label = Cychwyn y Modd Dadfygio
 about-webrtc-debug-mode-on-state-label = Atal y Modd Dadfygio
+about-webrtc-enable-logging-label = Galluogi Rhagosodiad Cofnod WebRTC
 about-webrtc-stats-heading = Ystadegau'r Sesiwn
 about-webrtc-stats-clear = Clirio Hanes
 about-webrtc-log-heading = Cofnod Cysylltu
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = cadwyd y dudalen i: { $path }
 about-webrtc-debug-mode-off-state-msg = mae modd canfod y cofnod olrhain yn: { $path }
 about-webrtc-debug-mode-on-state-msg = modd dadfygio'n weithredol, cofnod olrhain yn { $path }
 about-webrtc-aec-logging-off-state-msg = mae'r ffeiliau cofnod y cipio yn: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Cadwyd y dudalen i: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Mae modd canfod y cofnod olrhain yn: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modd dadfygio'n weithredol, cofnod olrhain yn { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -327,6 +329,9 @@ about-webrtc-hide-msg-sdp = Cuddio SDP
 about-webrtc-media-context-show-msg = Dangos Cyd-destun Cyfryngau
 about-webrtc-media-context-hide-msg = Cuddio Cyd-destun Cyfryngau
 about-webrtc-media-context-heading = Cyd-destun Cyfryngau
+
+##
+
 
 ##
 

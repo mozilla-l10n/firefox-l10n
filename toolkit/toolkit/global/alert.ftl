@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Cau'r hysbysiad
 alert-settings-title =
     .tooltiptext = Gosodiadau
+
+## Reminder Notifications
+
+notification-default-dismiss = Cau
