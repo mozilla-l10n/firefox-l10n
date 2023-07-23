@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = Nyleg attlatne faner
 menu-history-undo-window-menu =
     .label = Nyleg attlatne vindauge
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Søk i historikk
 
 ## Bookmarks Menu
 
