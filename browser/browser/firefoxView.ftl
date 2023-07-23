@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = Ak chcete zobraziť karty, zadajt
 firefoxview-tabpickup-password-locked-description = Ak chcete získať svoje karty, budete musieť zadať vaše hlavné heslo pre { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Ďalšie informácie
 firefoxview-tabpickup-password-locked-primarybutton = Zadajte hlavné heslo
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ďalšie informácie</a>
 firefoxview-tabpickup-signed-out-header = Pre opätovné pripojenie sa prihláste
 firefoxview-tabpickup-signed-out-description = Ak sa chcete znova pripojiť a prevziať svoje karty, prihláste sa do svojho { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
 firefoxview-tabpickup-signed-out-primarybutton = Prihlásiť sa
@@ -113,7 +114,7 @@ firefoxview-synced-tabs-header = Karty z ďalších zariadení
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Zobraziť všetky
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -141,3 +142,33 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Zobraziť celú históriu
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Zavrieť
+    .title = Zavrieť
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Import histórie z iného prehliadača
+firefoxview-import-history-description = Urobte si z { -brand-short-name(case: "gen") } svoj prehliadač. Importujte si históriu prehliadania, záložky a ďalšie položky.
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Zavreli ste kartu príliš skoro?
+firefoxview-recentlyclosed-empty-description = Tu nájdete karty, ktoré ste nedávno zatvorili, takže ktorúkoľvek z nich môžete rýchlo znova otvoriť.
+firefoxview-recentlyclosed-empty-description-two = Ak chcete nájsť karty z minulosti, nájdete ich v <a data-l10n-name="history-url">histórii prehliadania</a>.
+
+##
+
