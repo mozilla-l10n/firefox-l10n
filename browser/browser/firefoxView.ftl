@@ -23,6 +23,8 @@ firefoxview-tabpickup-progress-label = { $percentValue } % valmiina
 firefoxview-tabpickup-step-signin-header = Vaihda saumattomasti laitteiden välillä
 firefoxview-tabpickup-step-signin-description = Noutaaksesi puhelimen välilehdet tänne, kirjaudu ensin sisään tai luo tili.
 firefoxview-tabpickup-step-signin-primarybutton = Jatka
+firefoxview-syncedtabs-signin-header = Nappaa välilehdet mistä tahansa
+firefoxview-syncedtabs-signin-primarybutton = Kirjaudu tai rekisteröidy
 firefoxview-tabpickup-adddevice-header = Synkronoi { -brand-product-name } puhelimellasi tai tablet-laitteellasi
 firefoxview-tabpickup-adddevice-description = Lataa { -brand-product-name } mobiililaitteelle ja kirjaudu sisään.
 firefoxview-tabpickup-adddevice-learn-how = Lue lisää
@@ -31,6 +33,7 @@ firefoxview-tabpickup-synctabs-header = Ota välilehtien synkronointi käyttöö
 firefoxview-tabpickup-synctabs-description = Salli { -brand-short-name }in jakaa välilehtiä laitteiden välillä.
 firefoxview-tabpickup-synctabs-learn-how = Lue lisää
 firefoxview-tabpickup-synctabs-primarybutton = Synkronoi avoimet välilehdet
+firefoxview-syncedtabs-synctabs-header = Päivitä synkronointiasetukset
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska laitteesi järjestelmänvalvoja on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-network-offline-header = Tarkista Internet-yhteytesi
@@ -92,6 +95,8 @@ firefoxview-overview-header = Viimeaikainen selaus
 firefoxview-history-nav = Sivuhistoria
     .title = Sivuhistoria
 firefoxview-history-header = Sivuhistoria
+firefoxview-history-context-delete = Poista historiasta
+    .accesskey = P
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +118,7 @@ firefoxview-synced-tabs-header = Välilehdet muista laitteista
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Näytä kaikki
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -141,3 +146,36 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Näytä koko historia
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Palaa sinne missä olit
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Valitse selain
+    .title = Valitse selain
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Sulje
+    .title = Sulje
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Tuo historia toisesta selaimesta
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Suljitko välilehden liian nopeasti?
+firefoxview-recentlyclosed-empty-description = Täältä löydät äskettäin sulkemasi välilehdet, joten voit avata minkä tahansa niistä nopeasti uudelleen.
+firefoxview-recentlyclosed-empty-description-two = Jos haluat etsiä välilehtiä ajan takaa, tarkastele <a data-l10n-name="history-url">selaushistoriaa</a>.
+
+##
+

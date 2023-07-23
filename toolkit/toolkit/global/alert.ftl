@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Sulje tämä ilmoitus
 alert-settings-title =
     .tooltiptext = Asetukset
+
+## Reminder Notifications
+
+notification-default-dismiss = Hylkää

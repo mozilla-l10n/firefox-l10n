@@ -2,21 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-##
-
 # This is the title of the page
 about-logging-title = Tietoja lokituksesta
 about-logging-page-title = Lokihallinta
@@ -42,8 +27,9 @@ about-logging-logging-preset-selector-text = Lokituksen esiasetus:
 ## Logging presets
 
 about-logging-preset-networking-label = Verkko
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Median toisto
-
+about-logging-preset-webrtc-label = WebRTC
 # Error handling
 about-logging-error = Virhe:
 
