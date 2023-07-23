@@ -158,7 +158,14 @@ migration-list-payment-methods-label = maksutavat
 ##
 
 migration-wizard-progress-header = Tuodaan tietoja
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Tietojen tuonti onnistui
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Tietojen tuonti valmis
 migration-wizard-progress-icon-in-progress =
     .aria-label = Tuodaan…
 migration-wizard-progress-icon-completed =
@@ -198,6 +205,27 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } laajennus
+       *[other] { $quantity } laajennusta
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched }/{ $quantity } laajennusta
+migration-wizard-progress-extensions-support-link = Lisätietoja siitä, kuinka { -brand-product-name } tekee laajennusten täsmäytyksiä
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ei täsmääviä laajennuksia
 migration-wizard-progress-extensions-addons-link = Selaa { -brand-short-name }in laajennuksia
 
 ##
