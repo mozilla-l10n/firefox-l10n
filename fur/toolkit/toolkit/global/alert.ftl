@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Siere cheste notifiche
 alert-settings-title =
     .tooltiptext = Impostazions
+
+## Reminder Notifications
+
+notification-default-dismiss = Siere

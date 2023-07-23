@@ -24,14 +24,22 @@ firefoxview-tabpickup-step-signin-header = Passe cence fastidis di un dispositî
 firefoxview-tabpickup-step-signin-description = Par recuperâ achì lis schedis viertis sul telefon, prime jentre o cree un account.
 firefoxview-tabpickup-step-signin-primarybutton = Continue
 firefoxview-syncedtabs-signin-header = Recupere lis tôs schedis di cualsisei dispositîf
+firefoxview-syncedtabs-signin-description = Par viodi lis tôs schedis di dapardut là che tu dopris { -brand-product-name }, jentre cul to account. Se no tu âs un account, ti acompagnìn dilunc i passaçs par creâ un.
+firefoxview-syncedtabs-signin-primarybutton = Jentre o regjistriti
 firefoxview-tabpickup-adddevice-header = Sincronize { -brand-product-name } sul to telefon o taulete
 firefoxview-tabpickup-adddevice-description = Discjame { -brand-product-name } par dispositîfs mobii e jentre di lì.
 firefoxview-tabpickup-adddevice-learn-how = Impare cemût
 firefoxview-tabpickup-adddevice-primarybutton = Oten { -brand-product-name } par dispositîfs mobii
+firefoxview-syncedtabs-adddevice-header = Jentre su { -brand-product-name } suntun altri dispositîf
+firefoxview-syncedtabs-adddevice-description = Par viodi lis tôs schedis di dapardut là che tu dopris { -brand-product-name }, jentre su ducj i tiei dispositîfs. Scuvierç cemût <a data-l10n-name="url">coneti altris dispositîfs</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Prove { -brand-product-name } par dispositîfs mobii
 firefoxview-tabpickup-synctabs-header = Ative la sincronizazion des schedis
 firefoxview-tabpickup-synctabs-description = Permet a { -brand-short-name } di condividi lis schedis tra dispositîfs.
 firefoxview-tabpickup-synctabs-learn-how = Impare cemût
 firefoxview-tabpickup-synctabs-primarybutton = Sincronize lis schedis viertis
+firefoxview-syncedtabs-synctabs-header = Inzorne lis impostazions di sincronizazion
+firefoxview-syncedtabs-synctabs-description = Par viodi lis schedis di altris dispositîfs tu âs di ativâ la sincronizazion des schedis viertis.
+firefoxview-syncedtabs-synctabs-checkbox = Permet la sincronizazion des schedi viertis
 firefoxview-tabpickup-fxa-admin-disabled-header = La tô organizazion e à disativât la sincronizazion
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nol rive a sincronizâ lis schedis tra i dispositîfs parcè che il to aministradôr al à disabilitât la sincronizazion.
 firefoxview-tabpickup-network-offline-header = Controle la tô conession a internet
@@ -47,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Inserìs la tô password primarie
 firefoxview-tabpickup-password-locked-description = Par recuperâ lis tôs schedis tu scugnis inserî la password primarie par { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Plui informazions
 firefoxview-tabpickup-password-locked-primarybutton = Inserìs la password primarie
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Altris informazions</a>
 firefoxview-tabpickup-signed-out-header = Jentre par tornâ a conetiti
 firefoxview-tabpickup-signed-out-description = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre tal to { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Jentre
@@ -93,6 +102,8 @@ firefoxview-overview-header = Navigazion resinte
 firefoxview-history-nav = Cronologjie
     .title = Cronologjie
 firefoxview-history-header = Cronologjie
+firefoxview-history-context-delete = Elimine de cronologjie
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -138,28 +149,44 @@ firefoxview-history-date-today = Vuê - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Îr - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (files locâi)
 
 ##
 
 firefoxview-show-all-history = Mostre dute la cronologjie
+firefoxview-view-more-browsing-history = Mostre altre cronologjie di navigazion
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Torne là che tu sês za stât
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Sielç un navigadôr
+    .title = Sielç un navigadôr
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nuie ce mostrâ
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Siere
+    .title = Siere
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Impuarte la cronologjie di un altri navigadôr
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Âstu sierât une schede masse adore?
 
 ##
 
