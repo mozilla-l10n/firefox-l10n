@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = Thẻ mới đóng gần đây
 menu-history-undo-window-menu =
     .label = Các cửa sổ mới đóng
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Tìm kiếm lịch sử
 
 ## Bookmarks Menu
 
