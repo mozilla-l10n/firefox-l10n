@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Đóng thông báo này
 alert-settings-title =
     .tooltiptext = Thiết lập
+
+## Reminder Notifications
+
+notification-default-dismiss = Bỏ qua
