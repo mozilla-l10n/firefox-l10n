@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completât
 firefoxview-tabpickup-step-signin-header = Passe cence fastidis di un dispositîf a chel altri
 firefoxview-tabpickup-step-signin-description = Par recuperâ achì lis schedis viertis sul telefon, prime jentre o cree un account.
 firefoxview-tabpickup-step-signin-primarybutton = Continue
+firefoxview-syncedtabs-signin-header = Recupere lis tôs schedis di cualsisei dispositîf
 firefoxview-tabpickup-adddevice-header = Sincronize { -brand-product-name } sul to telefon o taulete
 firefoxview-tabpickup-adddevice-description = Discjame { -brand-product-name } par dispositîfs mobii e jentre di lì.
 firefoxview-tabpickup-adddevice-learn-how = Impare cemût
@@ -113,7 +114,7 @@ firefoxview-synced-tabs-header = Schedis di altris dispositîfs
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Mostre dut
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -141,3 +142,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Mostre dute la cronologjie
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
