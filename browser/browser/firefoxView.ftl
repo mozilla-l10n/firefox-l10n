@@ -162,6 +162,8 @@ firefoxview-view-more-browsing-history = Näytä lisää selaushistoriaa
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Palaa sinne missä olit
+firefoxview-history-empty-description = Kun selaat, vierailemasi sivut näkyvät tässä.
+firefoxview-history-empty-description-two = Yksityisyytesi suojaaminen on toimintamme ydin. Tästä syystä voit hallita <a data-l10n-name="history-settings-url">historia-asetuksissa</a>, mitä toimintaa { -brand-short-name } muistaa.
 
 ##
 
@@ -171,6 +173,9 @@ firefoxview-choose-browser-button = Valitse selain
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ei mitään näytettävää
+firefoxview-dont-remember-history-empty-description = Yksityisyytesi suojaaminen on toimintamme ydin. Sen vuoksi voit hallita, mitä toimintaa { -brand-short-name } muistaa.
+firefoxview-dont-remember-history-empty-description-two = Nykyisten asetustesi perusteella { -brand-short-name } ei muista toimintaasi selaamisen aikana. Voit muuttaa tätä <a data-l10n-name="history-settings-url-two">muuttamalla historia-asetuksia niin, että selain muistaa selaushistorian</a>.
 
 ##
 
@@ -182,6 +187,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Tuo historia toisesta selaimesta
+firefoxview-import-history-description = Tee { -brand-short-name }ista oletusselain. Tuo selaushistoria, kirjanmerkit ja paljon muuta.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
