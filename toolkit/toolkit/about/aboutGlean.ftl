@@ -19,6 +19,12 @@ about-glean-interface-description =
 about-glean-upload-enabled = Деректерді жүктеп салу іске қосулы.
 about-glean-upload-disabled = Деректерді жүктеп салу сөндірулі.
 about-glean-upload-enabled-local = Деректерді жүктеп салу тек жергілікті серверге жіберу үшін іске қосулы.
+about-glean-upload-fake-enabled =
+    Деректерді жүктеп жіберу сөндірілген,
+    бірақ біз өтірік айтып, { glean-sdk-brand-name } іске қосылған деп айтамыз,
+    осылайша деректер әлі де жергілікті түрде жазылады.
+    Ескерту: Жөндеу тегін орнатсаңыз, баптауларға қарамастан, пингтер
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ішіне жүктеп жіберілетін болады.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Сәйкес <a data-l10n-name="fog-prefs-and-defines-doc-link">баптаулар мен анықтаулар</a> мыналарды қамтиды:
 # Variables:
