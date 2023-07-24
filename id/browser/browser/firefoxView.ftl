@@ -34,6 +34,7 @@ firefoxview-tabpickup-synctabs-header = Aktifkan sinkronisasi tab
 firefoxview-tabpickup-synctabs-description = Izinkan { -brand-short-name } untuk membagikan tab antar perangkat.
 firefoxview-tabpickup-synctabs-learn-how = Pelajari caranya
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronkan tab terbuka
+firefoxview-syncedtabs-synctabs-header = Perbarui pengaturan sinkronisasi Anda
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasi Anda telah menonaktifkan sinkronisasi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } tidak dapat menyinkronkan tab antar perangkat karena administrator Anda telah menonaktifkan sinkronisasi.
 firefoxview-tabpickup-network-offline-header = Periksa koneksi Internet Anda
@@ -99,6 +100,13 @@ firefoxview-collapse-button-hide =
 
 ##
 
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
+firefoxview-view-all-link = Tampilkan semua
+firefoxview-opentabs-focus-tab =
+    .title = Pindah ke tab ini
+firefoxview-show-more = Tampilkan lebih banyak
+firefoxview-show-less = Tampilkan lebih sedikit
+firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -118,9 +126,14 @@ firefoxview-collapse-button-hide =
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Tutup
+    .title = Tutup
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Impor riwayat dari peramban lainnya
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
