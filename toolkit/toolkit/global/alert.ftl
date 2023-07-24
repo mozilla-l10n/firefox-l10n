@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Értesítés bezárása
 alert-settings-title =
     .tooltiptext = Beállítások
+
+## Reminder Notifications
+
+notification-default-dismiss = Eltüntetés

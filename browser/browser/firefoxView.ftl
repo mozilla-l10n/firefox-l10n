@@ -24,6 +24,7 @@ firefoxview-tabpickup-step-signin-header = Váltson zökkenőmentesen az eszköz
 firefoxview-tabpickup-step-signin-description = Ha itt szeretné átvenni a telefonja lapjait, először jelentkezzen be, vagy hozzon létre egy fiókot.
 firefoxview-tabpickup-step-signin-primarybutton = Folytatás
 firefoxview-syncedtabs-signin-header = Vegye át a lapokat bárhonnan
+firefoxview-syncedtabs-signin-description = Hogy mindenhol lássa a lapjait, ahol a { -brand-product-name(case: "accusative") } használja. Ha nincs még fiókja, akkor végigvezetjük a regisztráció lépésein.
 firefoxview-syncedtabs-signin-primarybutton = Jelentkezzen be vagy regisztráljon
 firefoxview-tabpickup-adddevice-header = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name(case: "accusative") }
 firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-product-name(case: "accusative") }, és jelentkezzen be.
