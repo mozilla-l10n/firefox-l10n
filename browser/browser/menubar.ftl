@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = Itxitako azken fitxak
 menu-history-undo-window-menu =
     .label = Itxitako azken leihoak
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Bilatu historia
 
 ## Bookmarks Menu
 
