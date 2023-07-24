@@ -176,6 +176,8 @@ media-capabilities-enumerate = Daftar basis data
 ## Codec support table
 
 media-codec-support-hw-decoding = Dekode Perangkat Keras
+media-codec-support-supported = Didukung
+media-codec-support-unsupported = Tidak didukung
 
 ##
 
