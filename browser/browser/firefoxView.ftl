@@ -23,10 +23,13 @@ firefoxview-tabpickup-progress-label = { $percentValue }% kész
 firefoxview-tabpickup-step-signin-header = Váltson zökkenőmentesen az eszközök között
 firefoxview-tabpickup-step-signin-description = Ha itt szeretné átvenni a telefonja lapjait, először jelentkezzen be, vagy hozzon létre egy fiókot.
 firefoxview-tabpickup-step-signin-primarybutton = Folytatás
+firefoxview-syncedtabs-signin-header = Vegye át a lapokat bárhonnan
+firefoxview-syncedtabs-signin-primarybutton = Jelentkezzen be vagy regisztráljon
 firefoxview-tabpickup-adddevice-header = Szinkronizálja a telefonján vagy a táblagépén lévő { -brand-product-name(case: "accusative") }
 firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-product-name(case: "accusative") }, és jelentkezzen be.
 firefoxview-tabpickup-adddevice-learn-how = Tudja meg hogyan
 firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-product-name(case: "accusative") }
+firefoxview-syncedtabs-adddevice-header = Jelentkezzen be a { -brand-product-name }ba a többi eszközén
 firefoxview-tabpickup-synctabs-header = Lapszinkronizálás bekapcsolása
 firefoxview-tabpickup-synctabs-description = Engedélyezés, hogy a { -brand-short-name } lapokat osszon meg az eszközök között
 firefoxview-tabpickup-synctabs-learn-how = Tudja meg hogyan
@@ -113,7 +116,7 @@ firefoxview-synced-tabs-header = Lapok más eszközökről
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Összes megtekintése
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -141,3 +144,24 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = Összes előzmény megjelenítése
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
