@@ -23,16 +23,19 @@ firefoxview-tabpickup-progress-label = { $percentValue }% иҷро шуд
 firefoxview-tabpickup-step-signin-header = Байни дастгоҳҳо бе халал гузаред
 firefoxview-tabpickup-step-signin-description = Барои аз ин ҷо ба даст овардани варақаҳои браузери телефони худ, аввал ворид шавед ё ҳисоберо эҷод намоед.
 firefoxview-tabpickup-step-signin-primarybutton = Идома додан
+firefoxview-syncedtabs-signin-header = Варақаҳоро аз ҷойҳои дилхоҳ ба даст оред
 firefoxview-syncedtabs-signin-primarybutton = Ворид шавед ё сабти ном кунед
 firefoxview-tabpickup-adddevice-header = Ҳамоҳангсозии { -brand-product-name } дар телефон ва планшет
 firefoxview-tabpickup-adddevice-description = Браузери «{ -brand-product-name }»-ро барои телефони моболии худ боргирӣ кунед ва дар он ҷо ворид шавед.
 firefoxview-tabpickup-adddevice-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро дар телефони мобилии худ насб кунед
 firefoxview-syncedtabs-adddevice-header = Дар дастгоҳҳои дигари худ ба «{ -brand-product-name }» ворид шавед
+firefoxview-syncedtabs-adddevice-primarybutton = Браузери «{ -brand-product-name }»-ро барои дастгоҳи мобилӣ кӯшиш кунед
 firefoxview-tabpickup-synctabs-header = Фаъол кардани ҳамоҳангсозӣ варақаҳо
 firefoxview-tabpickup-synctabs-description = Иҷозат диҳед, ки «{ -brand-short-name }» варақаҳоро байни дастгоҳҳо мубодила кунад.
 firefoxview-tabpickup-synctabs-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-synctabs-primarybutton = Ҳамоҳангсозии варақаҳои кушодашуда
+firefoxview-syncedtabs-synctabs-header = Танзимоти ҳамоҳангсозиро навсозӣ кунед
 firefoxview-tabpickup-fxa-admin-disabled-header = Ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард
 firefoxview-tabpickup-fxa-admin-disabled-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки маъмури шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
 firefoxview-tabpickup-network-offline-header = Пайвастшавии Интернети худро тафтиш кунед
@@ -155,9 +158,13 @@ firefoxview-show-all-history = Намоиш додани таърихи пурр
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Браузерро интихоб намоед
+    .title = Браузерро интихоб намоед
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ягон маълумот нест
 
 ##
 
