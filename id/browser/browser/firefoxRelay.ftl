@@ -17,6 +17,11 @@ firefox-relay-must-login-to-fxa = Anda harus masuk ke { -fxaccount-brand-name } 
 firefox-relay-get-unlimited-masks =
     .label = Kelola topeng
     .accesskey = t
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Lindungi alamat email Anda:
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Gunakan topeng surel
+    .accesskey = t
 firefox-relay-opt-in-confirmation-disable =
     .label = Jangan tampilkan lagi
     .accesskey = J
