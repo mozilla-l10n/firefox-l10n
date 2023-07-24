@@ -29,6 +29,7 @@ firefoxview-tabpickup-adddevice-description = Unduh { -brand-product-name } untu
 firefoxview-tabpickup-adddevice-learn-how = Pelajari caranya
 firefoxview-tabpickup-adddevice-primarybutton = Dapatkan { -brand-product-name } untuk ponsel
 firefoxview-syncedtabs-adddevice-header = Masuk ke { -brand-product-name } pada perangkat lainnya
+firefoxview-syncedtabs-adddevice-primarybutton = Coba { -brand-product-name } untuk ponsel
 firefoxview-tabpickup-synctabs-header = Aktifkan sinkronisasi tab
 firefoxview-tabpickup-synctabs-description = Izinkan { -brand-short-name } untuk membagikan tab antar perangkat.
 firefoxview-tabpickup-synctabs-learn-how = Pelajari caranya
