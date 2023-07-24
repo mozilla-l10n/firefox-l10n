@@ -66,6 +66,13 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Тегіңіз орнатылған пингтер үшін { glean-debug-ping-viewer-brand-name } бетіне кіріңіз</a>.
     Батырманы басқаннан бастап пингтің келуіне дейінгі уақыт бірнеше секундтан аспауы керек.
     Кейде бұл бірнеше минутқа созылуы мүмкін.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Қосымша <i>ad hoc</i> тестілеу үшін, сондай-ақ,
+    осы жерде <code>about:glean</code> ішінде devtools консолін ашу
+    және <code>Glean.metricCategory.metricName.testGetValue()</code> сияқты
+    <code>testGetValue()</code> API пайдалану арқылы
+    белгілі бір құрал бөлігінің ағымдағы мәнін анықтауға болады.
 controls-button-label-verbose = Баптауларды іске асырып, пинг жіберу
 about-glean-about-data-header = Деректер туралы
 about-glean-about-data-explanation =
