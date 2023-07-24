@@ -174,15 +174,26 @@ firefoxview-choose-browser-button = Elegir el navegador
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nada para mostrar
+firefoxview-dont-remember-history-empty-description = Proteger la privacidad es el corazón de lo que hacemos. Es por eso que puede controlar la actividad que recuerda { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Según la configuración actual, { -brand-short-name } no recuerda la actividad mientras navega. Para cambiar eso, <a data-l10n-name="history-settings-url-two">cambie la configuración del historial para recordarlo</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Cerrar
+    .title = Cerrar
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar historial desde otro navegador
+firefoxview-import-history-description = Haga de { -brand-short-name } su navegador favorito. Importe el historial de navegación, los marcadores y más.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ¿Cerró una pestaña demasiado pronto?
+firefoxview-recentlyclosed-empty-description = Aquí se encontrarán las pestañas que se cerraron recientemente, para que se pueda volver a abrir cualquiera de ellas rápidamente.
+firefoxview-recentlyclosed-empty-description-two = Para buscar pestañas de hace más tiempo, vea el <a data-l10n-name="history-url">historial de navegación</a>.
 
 ##
 
