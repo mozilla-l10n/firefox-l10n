@@ -29,11 +29,13 @@ firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-
 firefoxview-tabpickup-adddevice-learn-how = Даведацца, як
 firefoxview-tabpickup-adddevice-primarybutton = Атрымаць { -brand-product-name } для мабільнага
 firefoxview-syncedtabs-adddevice-header = Увайдзіце ў { -brand-product-name } на іншых сваіх прыладах
+firefoxview-syncedtabs-adddevice-primarybutton = Паспрабуйце { -brand-product-name } для мабільных прылад
 firefoxview-tabpickup-synctabs-header = Уключыць сінхранізацыю картак
 firefoxview-tabpickup-synctabs-description = Дазволіць { -brand-short-name } дзяліцца карткамі паміж прыладамі.
 firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
 firefoxview-tabpickup-synctabs-primarybutton = Сінхранізаваць адкрытыя карткі
 firefoxview-syncedtabs-synctabs-header = Абнавіце налады сінхранізацыі
+firefoxview-syncedtabs-synctabs-checkbox = Дазволіць сінхранізацыю адкрытых картак
 firefoxview-tabpickup-fxa-admin-disabled-header = У ваша арганізацыі сінхранізацыя адключана
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваш адміністратар адключыў сінхранізацыю.
 firefoxview-tabpickup-network-offline-header = Праверце падлучэнне да Інтэрнэту
@@ -175,6 +177,7 @@ firefoxview-import-history-close-button =
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Закрылі картку занадта рана?
 
 ##
 
