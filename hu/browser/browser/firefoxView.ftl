@@ -30,10 +30,15 @@ firefoxview-tabpickup-adddevice-description = Töltse le a mobilos { -brand-prod
 firefoxview-tabpickup-adddevice-learn-how = Tudja meg hogyan
 firefoxview-tabpickup-adddevice-primarybutton = Szerezze be a mobilos { -brand-product-name(case: "accusative") }
 firefoxview-syncedtabs-adddevice-header = Jelentkezzen be a { -brand-product-name }ba a többi eszközén
+firefoxview-syncedtabs-adddevice-description = Hogy lássa a lapjait, bárhol is használja a { -brand-product-name(case: "accusative") }, jelentkezzen be az összes eszközén. Ismerje meg, hogyan <a data-l10n-name="url">további eszközöket csatlakoztatni</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Próbálja ki a mobilos { -brand-product-name(case: "accusative") }
 firefoxview-tabpickup-synctabs-header = Lapszinkronizálás bekapcsolása
 firefoxview-tabpickup-synctabs-description = Engedélyezés, hogy a { -brand-short-name } lapokat osszon meg az eszközök között
 firefoxview-tabpickup-synctabs-learn-how = Tudja meg hogyan
 firefoxview-tabpickup-synctabs-primarybutton = Nyitott lapok szinkronizálása
+firefoxview-syncedtabs-synctabs-header = Frissítse a szinkronizálási beállításait
+firefoxview-syncedtabs-synctabs-description = A más eszközökről származó lapok megtekintéséhez szinkronizálnia kell a nyitott lapjait.
+firefoxview-syncedtabs-synctabs-checkbox = A megnyitott lapok szinkronizálásának engedélyezése
 firefoxview-tabpickup-fxa-admin-disabled-header = A szervezete letiltotta a szinkronizálást
 firefoxview-tabpickup-fxa-admin-disabled-description = A { -brand-short-name } nem tudja szinkronizálni a lapokat az eszközök között, mert a rendszergazda letiltotta a szinkronizálást.
 firefoxview-tabpickup-network-offline-header = Ellenőrizze internetkapcsolatát
@@ -49,6 +54,7 @@ firefoxview-tabpickup-password-locked-header = A lapok megtekintéséhez adja me
 firefoxview-tabpickup-password-locked-description = A lapok átvételéhez meg kell adnia az elsődleges jelszót a { -brand-short-name }ban.
 firefoxview-tabpickup-password-locked-link = További tudnivalók
 firefoxview-tabpickup-password-locked-primarybutton = Írja be az elsődleges jelszót
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">További tudnivalók</a>
 firefoxview-tabpickup-signed-out-header = Jelentkezzen be az újrakapcsolódáshoz
 firefoxview-tabpickup-signed-out-description = Az újbóli csatlakozáshoz és a lapok megszerzéséhez jelentkezzen be a { -fxaccount-brand-name } fiókjába.
 firefoxview-tabpickup-signed-out-primarybutton = Bejelentkezés
@@ -95,6 +101,8 @@ firefoxview-overview-header = Legutóbbi böngészés
 firefoxview-history-nav = Előzmények
     .title = Előzmények
 firefoxview-history-header = Előzmények
+firefoxview-history-context-delete = Törlés az előzményekből
+    .accesskey = T
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -140,28 +148,51 @@ firefoxview-history-date-today = Ma – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Tegnap – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (helyi fájlok)
 
 ##
 
 firefoxview-show-all-history = Összes előzmény megjelenítése
+firefoxview-view-more-browsing-history = További böngészési előzmények megtekintése
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Térjen vissza oda, ahol volt
+firefoxview-history-empty-description = Böngészés során a felkeresett oldalak itt lesznek felsorolva.
+firefoxview-history-empty-description-two = Az adatvédelme áll tevékenységünk középpontjában. Ezért az <a data-l10n-name="history-settings-url">előzménybeállításokban</a> szabályozhatja, hogy mely tevékenységekre emlékezzen a { -brand-short-name }.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Válasszon böngészőt
+    .title = Válasszon böngészőt
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nincs megjeleníthető elem
+firefoxview-dont-remember-history-empty-description = Az adatvédelme áll tevékenységünk középpontjában. Ezért szabályozhatja, hogy mely tevékenységekre emlékezzen a { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = A jelenlegi beállítások alapján a { -brand-short-name } nem jegyzi meg a tevékenységét böngészés közben. Hogy ezt megváltoztassa, <a data-l10n-name="history-settings-url-two">módosítsa az előzménybeállításokat, hogy megjegyezze az előzményeit</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Bezárás
+    .title = Bezárás
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Előzmények importálása egy másik böngészőből
+firefoxview-import-history-description = Legyen a { -brand-short-name } a szokásos böngészője. Importálja a böngészési előzményeket, könyvjelzőket és egyebeket.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Túl hamar zárt be egy lapot?
+firefoxview-recentlyclosed-empty-description = Itt találhatók a nemrég bezárt lapok, így bármelyiket gyorsan újra megnyithatja.
+firefoxview-recentlyclosed-empty-description-two = Ha régebbi lapokat szeretne megtalálni, akkor tekintse meg a <a data-l10n-name="history-url">böngészési előzményeit</a>.
 
 ##
 
