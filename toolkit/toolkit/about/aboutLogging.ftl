@@ -2,21 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-##
-
 # This is the title of the page
 about-logging-title = Tentang Pencatatan
 about-logging-page-title = Pengelola log
@@ -48,9 +33,9 @@ about-logging-preset-networking-label = Jaringan
 about-logging-preset-networking-description = Log modul untuk mendiagnosis masalah jaringan
 about-logging-preset-media-playback-label = Pemutaran media
 about-logging-preset-media-playback-description = Modul log untuk mendiagnosis masalah pemutaran media (bukan masalah konferensi video)
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Khusus
 about-logging-preset-custom-description = Modul log dipilih secara manual
-
 # Error handling
 about-logging-error = Kesalahan:
 
@@ -64,5 +49,4 @@ about-logging-unknown-profiler-preset = Prasetel profiler tidak dikenal "{ $v }"
 about-logging-unknown-option = Opsi about:logging tidak dikenal “{ $k }“
 about-logging-configuration-url-ignored = URL Konfigurasi diabaikan
 about-logging-file-and-profiler-override = Tidak dapat memaksa opsi output file dan menimpa profil secara bersamaan
-
 about-logging-configured-via-url = Opsi dikonfigurasi melalui URL

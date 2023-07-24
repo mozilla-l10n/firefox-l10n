@@ -29,6 +29,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ##
 
+migration-payment-methods-option-label = Metode pembayaran
+migration-cookies-option-label = Kuki
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -57,6 +59,7 @@ migration-passwords-from-file-tsv-filter-title =
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
+
 
 ##
 
