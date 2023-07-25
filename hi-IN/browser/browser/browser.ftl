@@ -64,6 +64,17 @@ urlbar-search-tips-confirm = ठीक है, समझ गया
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = सुझाव:
+urlbar-result-menu-button =
+    .title = मेन्यू खोलें
+urlbar-result-menu-learn-more =
+    .label = अधिक जानें
+    .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = इतिहास से हटाएं
+    .accesskey = R
+urlbar-result-menu-tip-get-help =
+    .label = मदद लें
+    .accesskey = h
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -105,18 +116,20 @@ urlbar-midi-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 urlbar-install-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए ऐड-ऑन संस्थापन को अवरूद्ध कर दिया है।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यह बुकमार्क संपादित करें ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
     .tooltiptext = यह पृष्ठ बुकमार्कित करें ({ $shortcut })
 
 ## Page Action Context Menu
+
+page-action-remove-extension2 =
+    .label = एक्सटेंशन हटाएं
+    .accesskey = v
 
 ## Auto-hide Context Menu
 
@@ -132,10 +145,8 @@ full-screen-exit =
 # This string prompts the user to use the list of search shortcuts in
 # the Urlbar and searchbar.
 search-one-offs-with-title = इस बार, इसके साथ खोजें:
-
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग बदले
-
 search-one-offs-context-open-new-tab =
     .label = नया टैब में खोजें
     .accesskey = T
@@ -145,14 +156,12 @@ search-one-offs-context-set-as-default =
 search-one-offs-context-set-as-default-private =
     .label = निजी विंडो के लिए तयशुदा खोज इंजन के रूप में सेट करें
     .accesskey = P
-
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
 #  $engineName (String): The name of the engine.
 #  $alias (String): The @alias shortcut/keyword.
 search-one-offs-engine-with-alias =
     .tooltiptext = { $engineName } ({ $alias })
-
 # When more than 5 engines are offered by a web page, they are grouped in a
 # submenu using this as its label.
 search-one-offs-add-engine-menu =
@@ -198,7 +207,6 @@ bookmark-panel-show-editor-checkbox =
     .accesskey = S
 bookmark-panel-save-button =
     .label = सहेजें
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -225,16 +233,13 @@ identity-passive-loaded = इस पेज का भाग सुरक्ष�
 identity-active-loaded = आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.
 identity-weak-encryption = यह पेज कमजोर गोपन का उपयोग करता हैं.
 identity-insecure-login-forms = इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.
-
 identity-https-only-dropdown-on =
     .label = चालू
 identity-https-only-dropdown-off =
     .label = बंद
 identity-https-only-dropdown-off-temporarily =
     .label = अस्थाई रूप से बंद
-
 identity-permissions-storage-access-learn-more = अधिक जानें
-
 identity-permissions-reload-hint = बदलाव को लागु करने के लिए आपको पृष्ठ को फिर से लोड करने की आवश्यकता हैं.
 identity-clear-site-data =
     .label = कूकीज़ तथा साइट डेटा हटायें…
@@ -318,19 +323,15 @@ sharing-warning-disable-for-session =
 # engine is unknown.
 urlbar-placeholder =
     .placeholder = खोजें या पता दर्ज करें
-
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
     .placeholder = { $name } के साथ खोजें या पता दर्ज करें
-
 urlbar-switch-to-tab =
     .value = टैब में जाएँ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = विस्तारक:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पता में जाएँ
 urlbar-page-action-button =
@@ -396,19 +397,14 @@ reader-view-close-button =
 #  $domain (String): the domain that is full screen, e.g. "mozilla.org"
 fullscreen-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अब पूर्ण स्क्रीन है
 fullscreen-warning-no-domain = यह दस्तावेज़ अब पूर्ण स्क्रीन पर है
-
-
 fullscreen-exit-button = पूर्ण स्क्रीन से निकलें (Esc)
 # "esc" is lowercase on mac keyboards, but uppercase elsewhere.
 fullscreen-exit-mac-button = पूर्ण स्क्रीन से निकलें (esc)
-
 # Please ensure that the domain stays in the `<span data-l10n-name="domain">` markup.
 # Variables
 #  $domain (String): the domain that is using pointer-lock, e.g. "mozilla.org"
 pointerlock-warning-domain = <span data-l10n-name="domain">{ $domain }</span> अपने सूचक पर नियंत्रण हैं. नियंत्रण फिर से वापस लेने के लिए Esc बटन दबाएँ.
 pointerlock-warning-no-domain = इस दस्तेवाज को आपके सूचक पर नियंत्रण हैं. नियंत्रण फिर से वापस लेने के लिए Esc बटन दबाएँ.
-
-## Subframe crash notification
 
 ## Bookmarks panels, menus and toolbar
 
@@ -452,7 +448,6 @@ bookmarks-search =
     .label = बुकमार्क खोजें
 bookmarks-tools =
     .label = बुकमार्क के उपकरण
-
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
@@ -486,27 +481,22 @@ save-to-pocket-button =
 toolbar-overflow-customize-button =
     .label = औज़ारपट्टी अनुकूलित करें...
     .accesskey = C
-
 toolbar-button-email-link =
     .label = ईमेल कडी
     .tooltiptext = इस पृष्ठ में कोई कड़ी ईमेल करें
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
     .label = पृष्ठ सहेजें
     .tooltiptext = इस पृष्ठ को सहेजें ({ $shortcut })
-
 # Variables:
 #  $shortcut (String): keyboard shortcut to open a local file
 toolbar-button-open-file =
     .label = फ़ाइल खोलें
     .tooltiptext = फ़ाइल खोलें ({ $shortcut })
-
 toolbar-button-synced-tabs =
     .label = संकलित टैब्स
     .tooltiptext = अन्य उपकरण से टैब को दिखाएँ
-
 # Variables
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
@@ -523,9 +513,6 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 panel-save-update-password = पासवर्ड
 
-## Add-on removal warning
-
-
 ##
 
 ui-tour-info-panel-close =
@@ -537,7 +524,6 @@ ui-tour-info-panel-close =
 popups-infobar-allow =
     .label = { $uriHost } के लिए पॉप-अप स्वीकारें
     .accesskey = P
-
 popups-infobar-block =
     .label = { $uriHost } के लिए पॉप-अप रोकें
     .accesskey = P
@@ -562,39 +548,30 @@ popups-infobar-dont-show-message =
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
     .aria-label = पथ प्रदर्शन
-
 navbar-downloads =
     .label = डाउनलोड
-
 navbar-overflow =
     .tooltiptext = अधिक औज़ार…
-
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
     .label = छापें
     .tooltiptext = यह पृष्ठ छापें… ({ $shortcut })
-
 navbar-home =
     .label = मुख्य पृष्ठ
     .tooltiptext = { -brand-short-name } होम पेज
-
 navbar-library =
     .label = लाइब्रे‌री
     .tooltiptext = इतिहास, सहेजे गए बुकमार्क, और अधिक देखें
-
 navbar-search =
     .title = खोज
-
 # Name for the tabs toolbar as spoken by screen readers. The word
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
     .aria-label = ब्राउजर टैब
-
 tabs-toolbar-new-tab =
     .label = नया टैब
-
 tabs-toolbar-list-all-tabs =
     .label = सभी टैब सूचीबद्ध करें
     .tooltiptext = सभी टैब सूचीबद्ध करें
@@ -619,19 +596,16 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ने इस पृष्ठ को स्वतः लोड होने से रोका है.
 refresh-blocked-redirect-label = { -brand-short-name } ने इस पृष्ठ को दूसरे पृष्ठ में स्वतः पुनर्निर्देशित होने से रोका है.
-
 refresh-blocked-allow =
     .label = अनुमति दें
     .accesskey = A
 
 ## Firefox Relay integration
-
-
-## Popup Notification
 
 
 ## Add-on Pop-up Notifications
@@ -660,7 +634,6 @@ popup-warning-button =
             [windows] O
            *[other] P
         }
-
 # Variables:
 #   $popupURI (String): the URI for the pop-up window
 popup-show-popup-menuitem =
