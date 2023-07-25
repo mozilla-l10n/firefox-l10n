@@ -164,6 +164,8 @@ firefoxview-choose-browser-button = Выбраць браўзер
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Няма чаго паказаць
+firefoxview-dont-remember-history-empty-description = Ахова вашай прыватнасці з'яўляецца сутнасцю нашай дзейнасці. Вось чаму вы можаце кантраляваць дзеянні, якія запамінае { -brand-short-name }.
 
 ##
 
@@ -174,6 +176,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Імпарт гісторыі з іншага браўзера
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
