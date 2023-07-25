@@ -162,18 +162,32 @@ firefoxview-view-more-browsing-history = Ver más historial de navegación
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Vuelva a donde ya ha estado
+firefoxview-history-empty-description = A medida que navega, las páginas que visita se mostrarán aquí.
+firefoxview-history-empty-description-two = La protección de su privacidad está en el corazón de lo que hacemos. Por eso puede controlar la actividad que { -brand-short-name } recuerda, en los <a data-l10n-name="history-settings-url">ajustes del historial</a>.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Elegir navegador
+    .title = Elegir navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nada que mostrar
+firefoxview-dont-remember-history-empty-description = La protección de su privacidad está en el corazón de lo que hacemos. Por eso puede controlar la actividad que recuerda { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Según la configuración actual, { -brand-short-name } no recuerda la actividad mientras navega. Para cambiarlo, <a data-l10n-name="history-settings-url-two">modifique la configuración del historial</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Cerrar
+    .title = Cerrar
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar historial desde otro navegador
+firefoxview-import-history-description = Haga de { -brand-short-name } su navegador favorito. Importe el historial de navegación, los marcadores y más.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
