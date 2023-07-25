@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = संस्थापन त्रुटि
 opensearch-error-duplicate-desc = { -brand-short-name } खोज प्लगिन को "{ $location-url }" से संस्थापित नहीं कर सका क्योंकि समान नाम के साथ ईंजन पहले से मौजूद है.
-
 opensearch-error-format-title = अमान्य स्वरूप
 opensearch-error-format-desc = { $location-url } से { -brand-short-name } खोज इंजन को स्थापित नही कर सका:
-
 opensearch-error-download-title = डाउनलोड त्रुटि
 opensearch-error-download-desc = { -brand-short-name } इससे खोज प्लगिन डाउनलोड नहीं कर सका: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = { -brand-short-name } इससे खोज �
 
 searchbar-submit =
     .tooltiptext = खोज जमा करें
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = खोज
-
 searchbar-icon =
     .tooltiptext = खोज
 
@@ -34,3 +30,4 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
+remove-search-engine-button = ठीक है
