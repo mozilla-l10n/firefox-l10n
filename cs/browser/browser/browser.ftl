@@ -396,9 +396,11 @@ identity-https-only-info-turn-on2 =
     } spojení na HTTPS, kdykoliv je to možné, zapněte pro tento server režim „pouze HTTPS“.
 identity-https-only-info-turn-off2 = Pokud se zdá, že je stránka rozbitá, zkuste vypnout režim „pouze HTTPS“, aby se znovu načetla pomocí nezabezpečeného spojení HTTP.
 identity-https-only-info-turn-on3 =
-    { -brand-short-name.case-status ->
-        [with-cases] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšil komunikaci kdykoliv je to možné.
-       *[no-cases] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby aplikace { -brand-short-name } povýšila komunikaci kdykoliv je to možné.
+    { -brand-short-name.gender ->
+        [masculine] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšil komunikaci kdykoliv je to možné.
+        [feminine] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšila komunikaci kdykoliv je to možné.
+        [neuter] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby { -brand-short-name } povýšilo komunikaci kdykoliv je to možné.
+       *[other] Zapněte povýšení komunikace na HTTPS pro tento server, pokud chcete, aby aplikace { -brand-short-name } povýšila komunikaci kdykoliv je to možné..
     }
 identity-https-only-info-turn-off3 = Pokud se zdá stránka rozbitá, můžete povýšení na HTTPS vypnout a tím obnovit stránku pomocí nezabezpečeného HTTP.
 identity-https-only-info-no-upgrade = Nepodařilo se přepnout spojení z HTTP.
