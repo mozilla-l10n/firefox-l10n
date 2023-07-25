@@ -57,6 +57,7 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV दस्तावेज़
        *[other] TSV फ़ाइल
     }
+migration-cancel-button-label = रद्द करें
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -64,6 +65,9 @@ migration-passwords-from-file-tsv-filter-title =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = बुकमार्क
+migration-list-history-label = इतिहास
+migration-list-extensions-label = एक्सटेंशन
 
 ##
 
