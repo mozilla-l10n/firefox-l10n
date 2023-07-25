@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% เสร็จสม�
 firefoxview-tabpickup-step-signin-header = สลับระหว่างอุปกรณ์ได้อย่างไร้รอยต่อ
 firefoxview-tabpickup-step-signin-description = เมื่อต้องการนำแท็บบนโทรศัพท์ของคุณมาที่นี่ ให้ลงชื่อเข้าหรือสร้างบัญชีก่อน
 firefoxview-tabpickup-step-signin-primarybutton = ดำเนินการต่อ
+firefoxview-syncedtabs-signin-header = หยิบแท็บได้จากทุกที่
 firefoxview-tabpickup-adddevice-header = ซิงค์ { -brand-product-name } บนโทรศัพท์หรือแท็บเล็ตของคุณ
 firefoxview-tabpickup-adddevice-description = ดาวน์โหลด { -brand-product-name } สำหรับมือถือแล้วลงชื่อเข้าจากที่นั่น
 firefoxview-tabpickup-adddevice-learn-how = เรียนรู้วิธี
@@ -113,7 +114,7 @@ firefoxview-synced-tabs-header = แท็บจากอุปกรณ์อ�
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = ดูทั้งหมด
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -141,3 +142,26 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 ##
 
 firefoxview-show-all-history = แสดงประวัติทั้งหมด
+firefoxview-view-more-browsing-history = ดูประวัติการเข้าชมเพิ่มเติม
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = ไม่มีอะไรจะแสดง
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
