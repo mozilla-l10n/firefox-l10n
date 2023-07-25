@@ -24,6 +24,7 @@ firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízen�
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
 firefoxview-syncedtabs-signin-header = Vezměte si panely odkudkoliv
+firefoxview-syncedtabs-signin-description = Pokud chcete vidět své panely kdekoliv, kde používáte { -brand-product-name }, přihlaste se do svého účtu. Pokud ho nemáte, provedeme vás jednotlivými kroky registrace.
 firefoxview-syncedtabs-signin-primarybutton = Přihlášení nebo registrace
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
@@ -199,12 +200,17 @@ firefoxview-view-more-browsing-history = Zobrazit více z historie prohlížení
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Vraťte se tam, kde jste byli
+firefoxview-history-empty-description = V průběhu prohlížení se zde zobrazí stránky, které navštívíte.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Zvolte prohlížeč
+    .title = Zvolte prohlížeč
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Zatím tu není nic k vidění
 
 ##
 
@@ -216,9 +222,17 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importovat historii z jiného prohlížeče
+firefoxview-import-history-description =
+    { -brand-short-name.case-status ->
+        [with-cases] Učiňte z { -brand-short-name(case: "gen") } svůj prohlížeč. Importujte si historii prohlížení, záložky a další položky.
+       *[no-cases] Učiňte z aplikace { -brand-short-name } svůj prohlížeč. Importujte si historii prohlížení, záložky a další položky.
+    }
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Zavřeli jste panel příliš brzy?
+firefoxview-recentlyclosed-empty-description = Zde najdete panely, které jste nedávno zavřeli. Kterýkoliv z nich můžete rychle znovu otevřít.
+firefoxview-recentlyclosed-empty-description-two = Pokud chcete najít panely z minulosti, najdete je v <a data-l10n-name="history-url">historii prohlížení</a>.
 
 ##
 
