@@ -191,6 +191,9 @@ firefoxview-import-history-description = Haga de { -brand-short-name } su navega
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ¿Ha cerrado una pestaña por error?
+firefoxview-recentlyclosed-empty-description = Aquí encontrará las pestañas que ha cerrado recientemente, para que pueda volver a abrir cualquiera de ellas rápidamente.
+firefoxview-recentlyclosed-empty-description-two = Para buscar pestañas cerradas hace más tiempo, vea el <a data-l10n-name="history-url">historial de navegación</a>.
 
 ##
 
