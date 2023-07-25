@@ -20,8 +20,8 @@ about-private-browsing-handoff-text = { $engine } के साथ खोजे�
 about-private-browsing-handoff-text-no-engine = खोजें या पता दर्ज करें
 about-private-browsing-not-private = आप फिलहाल एक निजी विंडो में नहीं हैं.
 about-private-browsing-learn-more-link = अधिक जानें
-
 about-private-browsing-prominent-cta = { -mozilla-vpn-brand-name } के साथ निजी रहें
+about-private-browsing-focus-promo-cta = { -focus-brand-name } डाउनलोड करें
 
 ## The following strings will be used for experiments in Fx99 and Fx100
 
@@ -37,8 +37,11 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = बंद करें
+about-private-browsing-promo-close-button =
+    .title = बंद करें
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
+
 
 ## Strings used in a promotion message for cookie banner reduction
 
