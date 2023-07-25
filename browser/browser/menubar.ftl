@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = แท็บที่ปิดล่าสุด
 menu-history-undo-window-menu =
     .label = หน้าต่างที่ปิดล่าสุด
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = ค้นหาประวัติ
 
 ## Bookmarks Menu
 
