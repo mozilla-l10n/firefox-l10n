@@ -68,6 +68,7 @@ app-basics-key-mozilla = Chiave per georilevazione di Mozilla
 app-basics-safe-mode = Modalità provvisoria
 app-basics-memory-size = Dimensione memoria (RAM)
 app-basics-disk-available = Spazio su disco disponibile
+app-basics-pointing-devices = Dispositivi di puntamento
 
 # Variables:
 #   $value (number) - Amount of data being stored
@@ -411,3 +412,10 @@ support-remote-experiments-see-about-studies = Consultare <a data-l10n-name="sup
 support-remote-features-title = Funzioni remote
 support-remote-features-name = Nome
 support-remote-features-status = Stato
+
+## Pointing devices
+
+pointing-device-mouse = Mouse
+pointing-device-touchscreen = Schermo touch
+pointing-device-pen-digitizer = Penna digitale
+pointing-device-none = Nessuno dispositivo di puntamento
