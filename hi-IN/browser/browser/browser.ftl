@@ -185,6 +185,17 @@ search-one-offs-history =
 ## The -cmd- strings are comma separated list of keywords that will match
 ## the action.
 
+quickactions-cmd-addons2 = ऐड-ऑन
+quickactions-cmd-bookmarks = बुकमार्क
+quickactions-cmd-print = प्रिंट करें
+# Opens the screenshot tool
+quickactions-screenshot3 = स्क्रीनशॉट लें
+quickactions-cmd-screenshot = स्क्रीनशॉट
+# Opens about:preferences
+quickactions-settings2 = सेटिंग प्रबंधित करें
+# Opens a SUMO article explaining how to update the browser
+quickactions-update = { -brand-short-name } अपडेट करें
+quickactions-cmd-update = अपडेट करें
 
 ## Bookmark Panel
 
