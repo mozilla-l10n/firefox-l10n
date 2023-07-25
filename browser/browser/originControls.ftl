@@ -13,6 +13,12 @@ origin-controls-no-access =
 origin-controls-quarantined =
     .label = L’estensione non ha il permesso di leggere e modificare dati
 
+origin-controls-quarantined-status =
+    .label = Estensione non consentita in siti con restrizioni
+
+origin-controls-quarantined-allow =
+    .label = Consenti in siti con restrizioni
+
 origin-controls-options =
     .label = L’estensione può leggere e modificare dati:
 
