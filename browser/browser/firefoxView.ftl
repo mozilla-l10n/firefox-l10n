@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = Dokončeno { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízeními
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
+firefoxview-syncedtabs-signin-header = Vezměte si panely odkudkoliv
 firefoxview-syncedtabs-signin-primarybutton = Přihlášení nebo registrace
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
@@ -51,6 +52,7 @@ firefoxview-tabpickup-synctabs-learn-how = Zjistěte jak
 firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
 firefoxview-syncedtabs-synctabs-header = Aktualizace nastavení synchronizace
 firefoxview-syncedtabs-synctabs-description = Chcete-li zobrazit panely z jiných zařízení, musíte své otevřené panely synchronizovat.
+firefoxview-syncedtabs-synctabs-checkbox = Povolit synchronizaci otevřených panelů
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je to synchronizace zakázána vaším správcem.
 firefoxview-tabpickup-network-offline-header = Zkontrolujte své připojení k Internetu
@@ -74,6 +76,7 @@ firefoxview-tabpickup-password-locked-description =
     }
 firefoxview-tabpickup-password-locked-link = Zjistit více
 firefoxview-tabpickup-password-locked-primarybutton = Zadat hlavní heslo
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Zjistit více</a>
 firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste
 firefoxview-tabpickup-signed-out-description = Chcete-li se znovu připojit a získat své panely, přihlaste se ke svému { -fxaccount-brand-name(case: "dat", capitalization: "lower") }.
 firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
@@ -136,6 +139,8 @@ firefoxview-overview-header = Nedávné prohlížení
 firefoxview-history-nav = Historie
     .title = Historie
 firefoxview-history-header = Historie
+firefoxview-history-context-delete = Smazat z historie
+    .accesskey = S
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -193,6 +198,7 @@ firefoxview-view-more-browsing-history = Zobrazit více z historie prohlížení
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Vraťte se tam, kde jste byli
 
 ##
 
