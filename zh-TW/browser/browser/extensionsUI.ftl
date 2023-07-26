@@ -23,6 +23,8 @@ addon-post-install-message = 已安裝 { $addonName }。
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = 要在受限制的網站執行 { $addonName } 嗎？
+webext-quarantine-confirmation-line-1 = 為了保護您的資料，不允許此擴充套件於此網站運作。
+webext-quarantine-confirmation-line-2 = 若您信任此擴充套件讀取與變更您在受 { -vendor-short-name } 限制的網站上的資料，再允許此擴充套件運作。
 webext-quarantine-confirmation-allow =
     .label = 允許
     .accesskey = A
