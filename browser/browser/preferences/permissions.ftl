@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Výjimky
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa webového serveru
     .accesskey = d
-
 permissions-block =
     .label = Blokovat
     .accesskey = B
-
 permissions-disable-etp =
     .label = Přidat výjimku
     .accesskey = P
-
 permissions-session =
     .label = Povolit pro relaci
     .accesskey = o
-
 permissions-allow =
     .label = Povolit
     .accesskey = P
-
 permissions-button-off =
     .label = Vypnout
     .accesskey = o
-
 permissions-button-off-temporarily =
     .label = Dočasně vypnout
     .accesskey = t
-
 permissions-site-name =
     .label = Server
-
 permissions-status =
     .label = Stav
-
 permissions-remove =
     .label = Odebrat server
     .accesskey = r
-
 permissions-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Uložit změny
     .buttonaccesskeyaccept = U
-
 permissions-autoplay-menu = Výchozí nastavení:
-
 permissions-searchbox =
     .placeholder = Hledat
-
 permissions-capabilities-autoplay-allow =
     .label = povolit zvuk i video
 permissions-capabilities-autoplay-block =
     .label = blokovat zvuk
 permissions-capabilities-autoplay-blockall =
     .label = blokovat zvuk i video
-
 permissions-capabilities-allow =
     .label = Povolit
 permissions-capabilities-block =
     .label = Blokovat
 permissions-capabilities-prompt =
     .label = Vždy se zeptat
-
 permissions-capabilities-listitem-allow =
     .value = Povolit
 permissions-capabilities-listitem-block =
     .value = Blokovat
 permissions-capabilities-listitem-allow-session =
     .value = Povolit pro relaci
-
 permissions-capabilities-listitem-off =
     .value = Vypnuto
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Servery, které mohou používat nezabezpečený protokol HTTP
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS. Pro anonymní okna tento seznam výjimek neplatí.
+permissions-exceptions-https-only-desc2 = Zde můžete určit, které servery mohou používat nezabezpečený protokol HTTP. Na těchto serverech se { -brand-short-name } nebude pokoušet o automatické navázání spojení skrze protokol HTTPS.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Oprávnění přístupu k reproduktoru
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Následující servery požádaly o výběr výstupního zvukového zařízení. Zde můžete určit, které servery mají povoleno vybrat výstupní zvukové zařízení.
-
 permissions-exceptions-doh-window =
     .title = Výjimky pro DNS over HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nebude zabezpečené DNS na těchto serverech a jejich subdoménách používat.
-
 permissions-doh-entry-field = Zadejte doménové jméno
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Přidat
     .accesskey = a
-
 permissions-doh-col =
     .label = Doména
-
 permissions-doh-remove =
     .label = Odebrat
     .accesskey = r
-
 permissions-doh-remove-all =
     .label = Odebrat vše
     .accesskey = e
