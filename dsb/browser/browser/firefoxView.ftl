@@ -185,6 +185,7 @@ firefoxview-import-history-header = Historiju z drugego wobglědowaka importěro
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Rejtarik jo se zacynił pśejěsno?
+firefoxview-recentlyclosed-empty-description = How namakajośo rejtariki, kótarež sćo njedawno zacynił, aby mógał je malsnje zasej wócyniś.
 firefoxview-recentlyclosed-empty-description-two = Aby starše rejtariki namakał, glědajśo do <a data-l10n-name="history-url">pśeglědowańskeje historije</a>.
 
 ##
