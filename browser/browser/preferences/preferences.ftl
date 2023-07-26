@@ -1196,6 +1196,7 @@ preferences-doh-resolver = ප්‍රතිපාදක: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = ඒ.ස.නි. වැරදිය
+preferences-doh-steering-status = ස්ථානීය ප්‍රතිපාදක භාවිතා වේ
 preferences-doh-status-active = සක්‍රිය
 preferences-doh-status-disabled = අක්‍රියයි
 # Variables:
@@ -1208,7 +1209,10 @@ preferences-doh-setting-default =
     .label = පෙරනිමි රැකවරණය
     .accesskey = D
 preferences-doh-default-desc = ඔබගේ පෞද්ගලිකත්‍වය රැක දීමට ආරක්‍ෂිත ව.නා.ප. භාවිතා කළ යුතු අවස්ථා { -brand-short-name } තීරණය කරයි.
+preferences-doh-default-detailed-desc-1 = ආරක්‍ෂිත ව.නා.ප. තිබෙන කලාපවල භාවිතා කරන්න
 preferences-doh-default-detailed-desc-2 = ආරක්‍ෂිත ව.නා.ප. ප්‍රතිපාදකයාගේ ගැටළුවක් තිබේ නම් ඔබගේ පෙරනිමි ව.නා.ප. පිළිවිසඳුව භාවිතා කරන්න
+preferences-doh-default-detailed-desc-3 = හැකි නම්, ස්ථානීය ප්‍රතිපාදකයක් යොදාගන්න
+preferences-doh-default-detailed-desc-4 = අ.පු.ජා. (VPN), මාපිය පාලනය, හෝ ව්‍යවසාය ප්‍රතිපත්ති ක්‍රියාත්මක විට අක්‍රිය කරන්න
 preferences-doh-setting-enabled =
     .label = ඉහළ නැංවූ රැකවරණය
     .accesskey = I
@@ -1228,6 +1232,7 @@ preferences-doh-checkbox-warn =
     .label = තෙවන පාර්ශ්වයක් ආරක්‍ෂිත ව.නා.ප. වළක්වන්නේ නම් අඟවන්න
     .accesskey = W
 preferences-doh-select-resolver = ප්‍රතිපාදක තෝරන්න:
+preferences-doh-exceptions-description = { -brand-short-name } මෙම අඩවි සඳහා ආරක්‍ෂිත ව.නා.ප. භාවිතා නොකරයි
 preferences-doh-manage-exceptions =
     .label = හැරදැමීම් කළමනාකරණය…
     .accesskey = x
