@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla орналасулар қызметінің к�
 app-basics-safe-mode = Қауіпсіз режимі
 app-basics-memory-size = Жады өлшемі (RAM)
 app-basics-disk-available = Дисктегі қолжетімді орын
+app-basics-pointing-devices = Көрсеткіш құрылғылары
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,10 @@ support-remote-experiments-see-about-studies = Қосымша ақпаратты
 support-remote-features-title = Қашықтағы мүмкіндіктер
 support-remote-features-name = Аты
 support-remote-features-status = Қалып-күйі
+
+## Pointing devices
+
+pointing-device-mouse = Тышқан
+pointing-device-touchscreen = Тачскрин
+pointing-device-pen-digitizer = Қалам диджитайзері
+pointing-device-none = Көрсеткіш құрылғылары жоқ
