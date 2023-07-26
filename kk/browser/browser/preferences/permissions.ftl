@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Осыдан бөлек
     .style = min-width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Сайт адресі
     .accesskey = д
-
 permissions-block =
     .label = Блоктау
     .accesskey = Б
-
 permissions-disable-etp =
     .label = Ерекше ережені қосу
     .accesskey = е
-
 permissions-session =
     .label = Тек осы сессияға рұқсат беру
     .accesskey = Т
-
 permissions-allow =
     .label = Рұқсат ету
     .accesskey = е
-
 permissions-button-off =
     .label = Сөндіру
     .accesskey = д
-
 permissions-button-off-temporarily =
     .label = Уақытша сөндіру
     .accesskey = т
-
 permissions-site-name =
     .label = Веб сайт
-
 permissions-status =
     .label = Қалып-күйі
-
 permissions-remove =
     .label = Вебсайтты өшіру
     .accesskey = ш
-
 permissions-remove-all =
     .label = Барлық вебсайттарды өшіру
     .accesskey = р
-
 permission-dialog =
     .buttonlabelaccept = Өзгерістерді сақтау
     .buttonaccesskeyaccept = с
-
 permissions-autoplay-menu = Барлық веб-сайттар үшін негізгі:
-
 permissions-searchbox =
     .placeholder = Вебсайттан іздеу
-
 permissions-capabilities-autoplay-allow =
     .label = Аудио және видеоны рұқсат ету
 permissions-capabilities-autoplay-block =
     .label = Аудионы бұғаттау
 permissions-capabilities-autoplay-blockall =
     .label = Аудио мен видеоны бұғаттау
-
 permissions-capabilities-allow =
     .label = Рұқсат ету
 permissions-capabilities-block =
     .label = Болдырмау
 permissions-capabilities-prompt =
     .label = Әрқашан сұрау
-
 permissions-capabilities-listitem-allow =
     .value = Рұқсат ету
 permissions-capabilities-listitem-block =
     .value = Болдырмау
 permissions-capabilities-listitem-allow-session =
     .value = Тек осы сессияға рұқсат ету
-
 permissions-capabilities-listitem-off =
     .value = Сөндіру
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Ережеден тыс - тек-HTTPS режимі
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Белгілі бір веб-сайттар үшін тек-HTTPS режимін сөндіруге болады. { -brand-short-name } бұл сайттар үшін байланысты қауіпсіз HTTPS байланысына дейін жаңартуға әрекет жасамайды. Ережеден тыс жағдайлар жекелік терезелерге қолданылмайды.
+permissions-exceptions-https-only-desc2 = Белгілі бір веб-сайттар үшін тек-HTTPS режимін сөндіруге болады. { -brand-short-name } бұл сайттар үшін байланысты қауіпсіз HTTPS байланысына дейін жаңартуға әрекет жасамайды.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Баптаулар - Динамиктер рұқсаттары
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Келесі веб-сайттар аудио шығыс құрылғысын таңдауды сұрады. Аудио шығыс құрылғысын таңдауға рұқсат етілген веб-сайттарды көрсетуге болады.
-
 permissions-exceptions-doh-window =
     .title = HTTPS арқылы DNS үшін веб-сайттар ережеден тыс жағдайлары
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }бұл сайттарда және олардың ішкі домендерінде қауіпсіз DNS пайдаланбайды.
-
 permissions-doh-entry-field = Веб-сайттың домен атын енгізіңіз
     .accesskey = д
-
 permissions-doh-add-exception =
     .label = Қосу
     .accesskey = о
-
 permissions-doh-col =
     .label = Домен
-
 permissions-doh-remove =
     .label = Өшіру
     .accesskey = ш
-
 permissions-doh-remove-all =
     .label = Барлығын өшіру
     .accesskey = р
