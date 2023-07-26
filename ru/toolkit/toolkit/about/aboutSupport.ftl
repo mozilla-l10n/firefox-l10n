@@ -78,6 +78,7 @@ app-basics-key-mozilla = Ключ Службы определения место
 app-basics-safe-mode = Безопасный Режим
 app-basics-memory-size = Объём памяти (ОЗУ)
 app-basics-disk-available = Доступное место на накопителе
+app-basics-pointing-devices = Манипуляторы
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -406,3 +407,10 @@ support-remote-experiments-see-about-studies = Ознакомьтесь со с�
 support-remote-features-title = Дистанционно распространяемые функции
 support-remote-features-name = Имя
 support-remote-features-status = Статус
+
+## Pointing devices
+
+pointing-device-mouse = Мышь
+pointing-device-touchscreen = Сенсорный экран
+pointing-device-pen-digitizer = Графический планшет
+pointing-device-none = Манипуляторы отсутствуют

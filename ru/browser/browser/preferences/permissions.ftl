@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Исключения
     .style = min-width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адрес веб-сайта
     .accesskey = е
-
 permissions-block =
     .label = Блокировать
     .accesskey = л
-
 permissions-disable-etp =
     .label = Добавить исключение
     .accesskey = и
-
 permissions-session =
     .label = Разрешить на сессию
     .accesskey = с
-
 permissions-allow =
     .label = Разрешить
     .accesskey = з
-
 permissions-button-off =
     .label = Отключить
     .accesskey = ю
-
 permissions-button-off-temporarily =
     .label = Временно отключить
     .accesskey = е
-
 permissions-site-name =
     .label = Веб-сайт
-
 permissions-status =
     .label = Состояние
-
 permissions-remove =
     .label = Удалить веб-сайт
     .accesskey = д
-
 permissions-remove-all =
     .label = Удалить все веб-сайты
     .accesskey = в
-
 permission-dialog =
     .buttonlabelaccept = Сохранить изменения
     .buttonaccesskeyaccept = х
-
 permissions-autoplay-menu = По умолчанию для всех веб-сайтов:
-
 permissions-searchbox =
     .placeholder = Поиск по веб-сайту
-
 permissions-capabilities-autoplay-allow =
     .label = Разрешить аудио и видео
 permissions-capabilities-autoplay-block =
     .label = Блокировать аудио
 permissions-capabilities-autoplay-blockall =
     .label = Блокировать аудио и видео
-
 permissions-capabilities-allow =
     .label = Разрешить
 permissions-capabilities-block =
     .label = Блокировать
 permissions-capabilities-prompt =
     .label = Всегда спрашивать
-
 permissions-capabilities-listitem-allow =
     .value = Разрешить
 permissions-capabilities-listitem-block =
     .value = Блокировать
 permissions-capabilities-listitem-allow-session =
     .value = Разрешить на сессию
-
 permissions-capabilities-listitem-off =
     .value = Отключить
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Исключения — Режим «Только HTTPS»
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Вы можете отключить Режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов. Исключения не распространяются на приватные окна.
+permissions-exceptions-https-only-desc2 = Вы можете отключить Режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Настройки — Разрешения на доступ к динамику
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Следующие сайты запросили выбор устройства вывода звука. Вы можете указать, каким сайтам разрешено выбирать устройство вывода звука.
-
 permissions-exceptions-doh-window =
     .title = Исключения сайтов для DNS через HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не будет использовать безопасный DNS для этих сайтов и их поддоменов.
-
 permissions-doh-entry-field = Введите доменное имя сайта
     .accesskey = м
-
 permissions-doh-add-exception =
     .label = Добавить
     .accesskey = б
-
 permissions-doh-col =
     .label = Домен
-
 permissions-doh-remove =
     .label = Удалить
     .accesskey = л
-
 permissions-doh-remove-all =
     .label = Удалить все
     .accesskey = с
