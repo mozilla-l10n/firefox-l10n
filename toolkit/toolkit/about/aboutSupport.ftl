@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla 위치 서비스 키
 app-basics-safe-mode = 안전 모드
 app-basics-memory-size = 메모리 크기 (램)
 app-basics-disk-available = 사용 가능한 디스크 공간
+app-basics-pointing-devices = 포인팅 기기
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -381,3 +382,10 @@ support-remote-experiments-see-about-studies = 개별 실험을 비활성화하�
 support-remote-features-title = 원격 기능
 support-remote-features-name = 이름
 support-remote-features-status = 상태
+
+## Pointing devices
+
+pointing-device-mouse = 마우스
+pointing-device-touchscreen = 터치 스크린
+pointing-device-pen-digitizer = 펜 디지타이저
+pointing-device-none = 포인팅 기기 없음
