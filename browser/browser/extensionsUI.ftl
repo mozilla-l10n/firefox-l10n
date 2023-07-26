@@ -24,6 +24,7 @@ addon-post-install-message = התוספת { $addonName } נוספה.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = להפעיל את { $addonName } באתרים מוגבלים?
 webext-quarantine-confirmation-line-1 = כדי להגן על הנתונים שלך, הרחבה זו אינה מותרת באתר זה.
+webext-quarantine-confirmation-line-2 = אם יש לך אמון בהרחבה זו, באפשרותך לאפשר לה לקרוא ולשנות את הנתונים שלך באתרים המוגבלים על־ידי { -vendor-short-name }.
 webext-quarantine-confirmation-allow =
     .label = לאפשר
     .accesskey = ל

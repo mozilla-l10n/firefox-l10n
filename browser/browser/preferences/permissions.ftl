@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = חריגות
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = כתובת אתר
     .accesskey = ת
-
 permissions-block =
     .label = חסום
     .accesskey = ח
-
 permissions-disable-etp =
     .label = הוספת חריגה
     .accesskey = ח
-
 permissions-session =
     .label = הרשה למשך ההפעלה
     .accesskey = מ
-
 permissions-allow =
     .label = הרשה
     .accesskey = ש
-
 permissions-button-off =
     .label = כיבוי
     .accesskey = כ
-
 permissions-button-off-temporarily =
     .label = כיבוי באופן זמני
     .accesskey = ז
-
 permissions-site-name =
     .label = אתר
-
 permissions-status =
     .label = מצב
-
 permissions-remove =
     .label = הסרת אתר
     .accesskey = ה
-
 permissions-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ס
-
 permission-dialog =
     .buttonlabelaccept = שמירת שינויים
     .buttonaccesskeyaccept = ש
-
 permissions-autoplay-menu = ברירת מחדל עבור כל האתרים:
-
 permissions-searchbox =
     .placeholder = חיפוש אתר
-
 permissions-capabilities-autoplay-allow =
     .label = הפעלת שמע ווידאו
 permissions-capabilities-autoplay-block =
     .label = חסימת שמע
 permissions-capabilities-autoplay-blockall =
     .label = חסימת שמע ווידאו
-
 permissions-capabilities-allow =
     .label = הרשה
 permissions-capabilities-block =
     .label = חסום
 permissions-capabilities-prompt =
     .label = לשאול תמיד
-
 permissions-capabilities-listitem-allow =
     .value = הרשה
 permissions-capabilities-listitem-block =
     .value = חסום
 permissions-capabilities-listitem-allow-session =
     .value = הרשה למשך ההפעלה
-
 permissions-capabilities-listitem-off =
     .value = כבוי
 permissions-capabilities-listitem-off-temporarily =
@@ -109,7 +90,8 @@ permissions-exceptions-cookie-desc = באפשרותך לציין לאלו אתר
 permissions-exceptions-https-only-window2 =
     .title = חריגות - מצב HTTPS בלבד
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל-HTTPS מאובטח עבור אתרים אלו. החריגות אינן חלות בחלונות פרטיים.
+permissions-exceptions-https-only-desc = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל־HTTPS מאובטח עבור אתרים אלו. החריגות אינן חלות בחלונות פרטיים.
+permissions-exceptions-https-only-desc2 = באפשרותך לכבות את מצב HTTPS בלבד עבור אתרים מסוימים. { -brand-short-name } לא ינסה לשדרג את החיבור ל־HTTPS מאובטח עבור אתרים אלו.
 
 ## Exceptions - Pop-ups
 
@@ -196,26 +178,20 @@ permissions-site-speaker-window =
     .title = הגדרות - הרשאות רמקול
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = האתרים הבאים ביקשו לבחור התקן פלט קול. באפשרותך לציין אילו אתרים מורשים לבחור התקן פלט קול.
-
 permissions-exceptions-doh-window =
     .title = חריגות אתרים עבור DNS על גבי HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = ‏{ -brand-short-name } לא ישתמש ב־DNS מאובטח באתרים אלה ובתתי התחומים שלהם.
-
 permissions-doh-entry-field = נא להכניס את כתובת שם מתחם האתר
     .accesskey = ח
-
 permissions-doh-add-exception =
     .label = הוספה
     .accesskey = ה
-
 permissions-doh-col =
     .label = שם מתחם
-
 permissions-doh-remove =
     .label = הסרה
     .accesskey = ס
-
 permissions-doh-remove-all =
     .label = הסרת הכל
     .accesskey = כ
