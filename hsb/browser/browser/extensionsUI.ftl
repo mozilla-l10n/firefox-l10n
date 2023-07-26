@@ -20,6 +20,11 @@ addon-post-install-message = { $addonName } je so přidał.
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = { $addonName } na wobmjezowanych sydłach wuwjesć?
+webext-quarantine-confirmation-line-1 = Zo bychu so waše daty škitali, tute rozšěrjenje na tutym sydle dowolene njeje.
+webext-quarantine-confirmation-line-2 = Dowolće tute rozšěrjenje, jeli jemu dowěrjeće, waše daty na sydłach čitać a změnić, kotrež su wot { -vendor-short-name } wobmjezowane.
 webext-quarantine-confirmation-allow =
     .label = Dowolić
     .accesskey = D
