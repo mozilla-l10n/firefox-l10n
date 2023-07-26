@@ -156,6 +156,8 @@ migration-list-payment-methods-label = betalingsmåtar
 ##
 
 migration-wizard-progress-header = Importerer data
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Data vart importert
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importerer…
@@ -213,6 +215,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } av { $quantity } utvidingar
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Ingen matchande utvidingar
+migration-wizard-progress-extensions-addons-link = Bla i utvidingar for { -brand-short-name }
 
 ##
 
