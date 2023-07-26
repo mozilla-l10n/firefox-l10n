@@ -35,6 +35,7 @@ firefoxview-tabpickup-synctabs-description = Izinkan { -brand-short-name } untuk
 firefoxview-tabpickup-synctabs-learn-how = Pelajari caranya
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronkan tab terbuka
 firefoxview-syncedtabs-synctabs-header = Perbarui pengaturan sinkronisasi Anda
+firefoxview-syncedtabs-synctabs-checkbox = Izinkan tab terbuka untuk disinkronkan
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasi Anda telah menonaktifkan sinkronisasi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } tidak dapat menyinkronkan tab antar perangkat karena administrator Anda telah menonaktifkan sinkronisasi.
 firefoxview-tabpickup-network-offline-header = Periksa koneksi Internet Anda
@@ -63,6 +64,7 @@ firefoxview-closed-tabs-title = Baru saja ditutup
 firefoxview-closed-tabs-description2 = Buka kembali laman yang Anda tutup pada jendela ini.
 firefoxview-closed-tabs-placeholder-header = Tidak ada tab yang baru saja ditutup
 firefoxview-closed-tabs-placeholder-body = Ketika Anda menutup tab di jendela ini, Anda dapat mengambilnya dari sini.
+firefoxview-closed-tabs-placeholder-body2 = Ketika Anda menutup tab, Anda dapat mengambilnya dari sini.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -88,20 +90,35 @@ firefoxview-collapse-button-hide =
 
 ## History in this context refers to browser history
 
+firefoxview-history-nav = Riwayat
+    .title = Riwayat
+firefoxview-history-header = Riwayat
+firefoxview-history-context-delete = Hapus dari Riwayat
+    .accesskey = H
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
+firefoxview-opentabs-nav = Tab terbuka
+    .title = Tab terbuka
+firefoxview-opentabs-header = Tab terbuka
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Tab dari perangkat lain
+    .title = Tab dari perangkat lain
+firefoxview-synced-tabs-header = Tab dari perangkat lain
 
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Tampilkan semua
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Jendela { $winID }
 firefoxview-opentabs-focus-tab =
     .title = Pindah ke tab ini
 firefoxview-show-more = Tampilkan lebih banyak
@@ -120,6 +137,9 @@ firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Pilih peramban
+    .title = Pilih peramban
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
