@@ -10,19 +10,15 @@
 
 # The heading
 options-select-default-tools-label = Gitic pa layub makwongo
-
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Pe kicwako pi bap me canduk gintic matye kombedi
-
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Med-ikome oketo Gintic pa luyub
-
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = Jarara cnaduk gintic mmatye
-
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Theme
 
@@ -30,11 +26,13 @@ options-select-dev-tools-theme-label = Theme
 
 # The heading
 options-context-inspector = La ngi
-
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Nyut cital pa layeny
 options-show-user-agent-styles-tooltip =
     .title = Dino man obi nyuto cital makwongo ma layeny cano.
+# The label for the checkbox option to enable simplified highlighting on page elements
+# within the inspector for users who enabled prefers-reduced-motion = reduce
+options-inspector-simplified-highlighters-label = Tii ki laket lanyut ma yot ki prefers-reduced-motion
 
 ## "Default Color Unit" options for the Inspector
 
@@ -49,7 +47,6 @@ options-default-color-unit-name = Nying rangi
 
 # The heading
 options-styleeditor-label = Layub Cital
-
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = Tyek CSS pire kene
 options-stylesheet-autocompletion-tooltip =
@@ -59,7 +56,6 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = Kit Cal me wang kio
-
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = Tuk dwon me koko pa lamak cal
 options-screenshot-audio-tooltip =
@@ -69,7 +65,6 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = Gin ma imito me Layub
-
 options-sourceeditor-detectindentation-tooltip =
     .title = Byek kabedo ma i kin kacako coc kun i jenge ikom gin manonge kama oaa iye
 options-sourceeditor-detectindentation-label = Nong kabedo ma i kin kacako coc
@@ -85,32 +80,23 @@ options-sourceeditor-keybinding-default-label = Makwongo
 
 ## Advanced section
 
-# The heading
+# The heading (this item is also used in perftools.ftl)
 options-context-advanced-settings = Ter ma lamal
-
 options-disable-http-cache-tooltip =
     .title = Cako ter man bijuko kano HTTP pi dirica matino weng ma tye ki bok me gitic ayaba. Ter man pe gudo kom Service Workers.
-
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Juk JavaScript *
 options-disable-javascript-tooltip =
     .title = Dino gin ayera man obi juko JavaScript pi dirica matidi matye kombedi. Ka ce dirica matidi onyo canduk me gintic ki loro woko ci ter man wic obi wil iye.
-
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Ye bok me gitic me layeny chrome ki med-ikome
 options-enable-chrome-tooltip =
     .title = Keto gin ayera man biweko i tiyo ki gitic pa layub mapatpat i kabedo ma orumu layeny (ki i Gitic > Layub Kakube > Bok gitic me Layeny) kadong nongo bal i med-ikome ma i Lalor Med-ikome
-
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ye nongo bal ki kama bor
-
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Cak Service Workers i HTTP (kacce bok me gitic tye ayaba)
 options-enable-service-workers-http-tooltip =
     .title = Cako ter man bicako service workers i HTTP pi dirica matino weng matye ki bok me gitic ayaba.
-
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Kare ma kombedi ni keken, nwoyo cano pot buk
-
-##
-
