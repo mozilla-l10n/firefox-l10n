@@ -21,8 +21,8 @@ firefox-relay-get-unlimited-masks =
 firefox-relay-opt-in-title-1 = Электрондық пошта адресіңізді қорғаңыз:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
-firefox-relay-opt-in-subtitle-1 = { -relay-brand-name }эл. пошта маскасын қолдану
-firefox-relay-use-mask-title = { -relay-brand-name }эл. пошта маскасын қолдану
+firefox-relay-opt-in-subtitle-1 = { -relay-brand-name } эл. пошта маскасын қолдану
+firefox-relay-use-mask-title = { -relay-brand-name } эл. пошта маскасын қолдану
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Эл. пошта маскасын қолдану
     .accesskey = у
