@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = 例外網站
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = 網站網址
     .accesskey = d
-
 permissions-block =
     .label = 封鎖
     .accesskey = B
-
 permissions-disable-etp =
     .label = 新增例外網站
     .accesskey = E
-
 permissions-session =
     .label = 此次瀏覽階段允許
     .accesskey = S
-
 permissions-allow =
     .label = 允許
     .accesskey = A
-
 permissions-button-off =
     .label = 關閉
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = 暫時關閉
     .accesskey = T
-
 permissions-site-name =
     .label = 網站
-
 permissions-status =
     .label = 狀態
-
 permissions-remove =
     .label = 移除網站
     .accesskey = R
-
 permissions-remove-all =
     .label = 移除所有網站
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = 儲存變更
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = 對所有網站的預設行為:
-
 permissions-searchbox =
     .placeholder = 搜尋網站
-
 permissions-capabilities-autoplay-allow =
     .label = 允許自動播放影音內容
 permissions-capabilities-autoplay-block =
     .label = 封鎖音訊
 permissions-capabilities-autoplay-blockall =
     .label = 封鎖影音內容
-
 permissions-capabilities-allow =
     .label = 允許
 permissions-capabilities-block =
     .label = 阻擋
 permissions-capabilities-prompt =
     .label = 總是詢問
-
 permissions-capabilities-listitem-allow =
     .value = 允許
 permissions-capabilities-listitem-block =
     .value = 阻擋
 permissions-capabilities-listitem-allow-session =
     .value = 此次瀏覽階段允許
-
 permissions-capabilities-listitem-off =
     .value = 關閉
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = 例外 - 純 HTTPS 模式
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。例外網站不會在隱私保護視窗中生效。
+permissions-exceptions-https-only-desc2 = 您可以針對特定網站關閉純 HTTPS 模式。連線到這些網站時，{ -brand-short-name } 不會嘗試升級為安全的 HTTPS 連線。
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = 設定 - 喇叭權限
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = 下列網站曾要求存取您的音訊輸出裝置。您可指定要允許哪些網站允許選擇音訊輸出裝置。
-
 permissions-exceptions-doh-window =
     .title = 使用 DNS over HTTPS 的例外網站
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } 不會對下列網站與子網域網站，使用安全的 DNS 進行查詢。
-
 permissions-doh-entry-field = 請輸入網站的網域名稱
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = 新增
     .accesskey = A
-
 permissions-doh-col =
     .label = 網域
-
 permissions-doh-remove =
     .label = 移除
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = 全部移除
     .accesskey = e
