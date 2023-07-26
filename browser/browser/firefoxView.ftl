@@ -42,6 +42,12 @@ firefoxview-tabpickup-adddevice-primarybutton =
         [with-cases] Získat { -brand-product-name(case: "acc") } pro mobily
        *[no-cases] Získat aplikaci { -brand-product-name } pro mobily
     }
+firefoxview-syncedtabs-adddevice-header =
+    { -brand-product-name.case-status ->
+        [with-cases] Na ostatních zařízeních se přihlaste k { -brand-product-name(case: "gen") }
+       *[no-cases] Na ostatních zařízeních se přihlaste k aplikaci { -brand-product-name }
+    }
+firefoxview-syncedtabs-adddevice-description = Chcete-li vidět své panely kdekoliv, kde používáte { -brand-product-name }, přihlaste se na všech svých zařízeních. Přečtěte si, jak <a data-l10n-name="url">připojit další zařízení</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Vyzkoušet { -brand-product-name } pro mobily
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
 firefoxview-tabpickup-synctabs-description =
@@ -201,6 +207,7 @@ firefoxview-view-more-browsing-history = Zobrazit více z historie prohlížení
 
 firefoxview-history-empty-header = Vraťte se tam, kde jste byli
 firefoxview-history-empty-description = V průběhu prohlížení se zde zobrazí stránky, které navštívíte.
+firefoxview-history-empty-description-two = Ochrana vašeho soukromí je jádrem toho, co děláme. Proto můžete spravovat aktivitu, kterou si { -brand-short-name } pamatuje, v <a data-l10n-name="history-settings-url">nastavení historie</a>.
 
 ##
 
@@ -211,6 +218,8 @@ firefoxview-choose-browser-button = Zvolte prohlížeč
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Zatím tu není nic k vidění
+firefoxview-dont-remember-history-empty-description = Ochrana vašeho soukromí je jádrem toho, co děláme. Proto můžete spravovat aktivitu, kterou si { -brand-short-name } pamatuje.
+firefoxview-dont-remember-history-empty-description-two = Na základě vašeho aktuálního nastavení si { -brand-short-name } nepamatuje vaši aktivitu při procházení. Chcete-li to změnit, <a data-l10n-name="history-settings-url-two">změňte nastavení historie tak, aby si historii pamatoval</a>.
 
 ##
 

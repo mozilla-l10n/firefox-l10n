@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webext-perms-learn-more = Zjistit více
-
 # Variables:
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
@@ -15,7 +14,20 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = Ne
     .accesskey = N
-
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = Rozšíření { $addonName } bylo nainstalováno.
+
+## A modal confirmation dialog to allow an extension on quarantined domains.
+
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = Spouštět rozšíření { $addonName } na serverech s omezením?
+webext-quarantine-confirmation-line-1 = Z důvodu ochrany vašich dat není toto rozšíření na těchto stránkách povoleno.
+webext-quarantine-confirmation-line-2 = Povolte toto rozšíření, pokud mu důvěřujete, aby mohlo číst a měnit vaše data na webech omezených { -vendor-short-name(case: "ins") }.
+webext-quarantine-confirmation-allow =
+    .label = Povolit
+    .accesskey = P
+webext-quarantine-confirmation-deny =
+    .label = Nepovolit
+    .accesskey = N
