@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = 예외 사이트
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = 웹 사이트 주소
     .accesskey = d
-
 permissions-block =
     .label = 차단
     .accesskey = B
-
 permissions-disable-etp =
     .label = 예외 추가
     .accesskey = E
-
 permissions-session =
     .label = 세션 허용
     .accesskey = S
-
 permissions-allow =
     .label = 허용
     .accesskey = A
-
 permissions-button-off =
     .label = 끄기
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = 일시적으로 끄기
     .accesskey = T
-
 permissions-site-name =
     .label = 웹 사이트
-
 permissions-status =
     .label = 상태
-
 permissions-remove =
     .label = 웹 사이트 삭제
     .accesskey = R
-
 permissions-remove-all =
     .label = 모든 웹 사이트 삭제
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = 변경 내용 저장
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = 모든 웹 사이트의 기본값:
-
 permissions-searchbox =
     .placeholder = 웹 사이트 검색
-
 permissions-capabilities-autoplay-allow =
     .label = 오디오 및 비디오 허용
 permissions-capabilities-autoplay-block =
     .label = 오디오 차단
 permissions-capabilities-autoplay-blockall =
     .label = 오디오 및 비디오 차단
-
 permissions-capabilities-allow =
     .label = 허용
 permissions-capabilities-block =
     .label = 차단
 permissions-capabilities-prompt =
     .label = 항상 확인
-
 permissions-capabilities-listitem-allow =
     .value = 허용
 permissions-capabilities-listitem-block =
     .value = 차단
 permissions-capabilities-listitem-allow-session =
     .value = 세션 허용
-
 permissions-capabilities-listitem-off =
     .value = 끄기
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = 예외 - HTTPS 전용 모드
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = 특정 웹 사이트에 대해 HTTPS 전용 모드를 끌 수 있습니다. { -brand-short-name }는 해당 사이트에 대해 연결을 보안 HTTPS로 업그레이드를 시도하지 않습니다. 사생활 보호 창에는 예외가 적용되지 않습니다.
+permissions-exceptions-https-only-desc2 = 특정 웹 사이트에 대해 HTTPS 전용 모드를 끌 수 있습니다. { -brand-short-name }는 해당 사이트에 대해 연결을 보안 HTTPS로 업그레이드를 시도하지 않습니다.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = 설정 - 스피커 권한
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = 다음 웹사이트에서 오디오 출력 장치 선택을 요청했습니다. 오디오 출력 장치를 선택할 수 있는 웹사이트를 지정할 수 있습니다.
-
 permissions-exceptions-doh-window =
     .title = DNS over HTTPS 예외 웹 사이트
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }는 다음 사이트와 해당 하위 도메인에서 보안 DNS를 사용하지 않습니다.
-
 permissions-doh-entry-field = 웹 사이트의 도메인 이름을 입력하세요
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = 추가
     .accesskey = A
-
 permissions-doh-col =
     .label = 도메인
-
 permissions-doh-remove =
     .label = 삭제
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = 모두 삭제
     .accesskey = e
