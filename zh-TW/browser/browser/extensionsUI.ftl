@@ -20,6 +20,9 @@ addon-post-install-message = 已安裝 { $addonName }。
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = 要在受限制的網站執行 { $addonName } 嗎？
 webext-quarantine-confirmation-allow =
     .label = 允許
     .accesskey = A
