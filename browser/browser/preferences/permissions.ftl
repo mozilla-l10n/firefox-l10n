@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Wuwzaća
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa websydła
     .accesskey = A
-
 permissions-block =
     .label = Blokować
     .accesskey = B
-
 permissions-disable-etp =
     .label = Wuwzaće přidać
     .accesskey = z
-
 permissions-session =
     .label = Za posedźenje dowolić
     .accesskey = p
-
 permissions-allow =
     .label = Dowolić
     .accesskey = D
-
 permissions-button-off =
     .label = Znjemóžnić
     .accesskey = n
-
 permissions-button-off-temporarily =
     .label = Nachwilu znjemóžnić
     .accesskey = c
-
 permissions-site-name =
     .label = Websydło
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Websydło wotstronić
     .accesskey = t
-
 permissions-remove-all =
     .label = Wšě websydła wotstronić
     .accesskey = y
-
 permission-dialog =
     .buttonlabelaccept = Změny składować
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Standard za wšě websydła:
-
 permissions-searchbox =
     .placeholder = Websydło pytać
-
 permissions-capabilities-autoplay-allow =
     .label = Awdio a widejo dowolić
 permissions-capabilities-autoplay-block =
     .label = Awdio blokować
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a widejo blokować
-
 permissions-capabilities-allow =
     .label = Dowolić
 permissions-capabilities-block =
     .label = Blokować
 permissions-capabilities-prompt =
     .label = Přeco so prašeć
-
 permissions-capabilities-listitem-allow =
     .value = Dowolić
 permissions-capabilities-listitem-block =
     .value = Blokować
 permissions-capabilities-listitem-allow-session =
     .value = Za posedźenje dowolić
-
 permissions-capabilities-listitem-off =
     .value = Znjemóžnjeny
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Wuwzaća - Modus Jenož-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować. Wuwzaća za priwatne wokna njepłaća.
+permissions-exceptions-https-only-desc2 = Móžeće modus Jenož-HTTPS za wěste websydła znjemóžnić. { -brand-short-name } njespyta, zwisk za te sydła na wěsty HTTPS aktualizować.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Nastajenja - prawa wótřerěčaka
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Slědowace websydła su wo to prosyli, zo bychu grat za awdiowudaće wubrali. Móžeće podać, kotre websydła smědźa grat za awdiowudaće wubrać.
-
 permissions-exceptions-doh-window =
     .title = Websydłowe wuwzaća za DNS over HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } njebudźe wěsty DNS na tutych sydłach a jich poddomenach wužiwać.
-
 permissions-doh-entry-field = Zapodajće domenowe mjeno websydła
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Přidać
     .accesskey = P
-
 permissions-doh-col =
     .label = Domena
-
 permissions-doh-remove =
     .label = Wotstronić
     .accesskey = s
-
 permissions-doh-remove-all =
     .label = Wšě wotstronić
     .accesskey = W
