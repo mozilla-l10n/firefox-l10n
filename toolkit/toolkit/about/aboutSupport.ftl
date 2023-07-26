@@ -408,3 +408,8 @@ support-remote-experiments-see-about-studies = Гл. <a data-l10n-name="support-
 support-remote-features-title = Аддаленыя функцыі
 support-remote-features-name = Назва
 support-remote-features-status = Стан
+
+## Pointing devices
+
+pointing-device-mouse = Мыш
+pointing-device-touchscreen = Сенсарны экран
