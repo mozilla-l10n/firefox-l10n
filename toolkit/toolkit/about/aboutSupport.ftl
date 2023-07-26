@@ -78,6 +78,7 @@ app-basics-key-mozilla = Chave do serviço de localização da Mozilla
 app-basics-safe-mode = Modo de segurança
 app-basics-memory-size = Tamanho da memória (RAM)
 app-basics-disk-available = Espaço em disco disponível
+app-basics-pointing-devices = Dispositivos de apontamento
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,10 @@ support-remote-experiments-see-about-studies = Consulte mais informações em <a
 support-remote-features-title = Recursos remotos
 support-remote-features-name = Nome
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-mouse = Mouse
+pointing-device-touchscreen = Touch screen
+pointing-device-pen-digitizer = Caneta digitalizadora
+pointing-device-none = Nenhum dispositivo de apontamento
