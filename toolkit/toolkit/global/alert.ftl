@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Zapri obvestilo
 alert-settings-title =
     .tooltiptext = Nastavitve
+
+## Reminder Notifications
+
+notification-default-dismiss = Zapri

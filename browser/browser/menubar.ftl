@@ -221,6 +221,9 @@ menu-history-undo-menu =
     .label = Nedavno zaprti zavihki
 menu-history-undo-window-menu =
     .label = Nedavno zaprta okna
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Išči po zgodovini
 
 ## Bookmarks Menu
 

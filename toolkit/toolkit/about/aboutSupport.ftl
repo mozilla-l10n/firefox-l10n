@@ -18,6 +18,10 @@ support-addons-type = Vrsta
 support-addons-enabled = Omogočen
 support-addons-version = Različica
 support-addons-id = ID
+legacy-user-stylesheets-title = Stare uporabniške slogovne predloge
+legacy-user-stylesheets-enabled = Dejavna
+legacy-user-stylesheets-stylesheet-types = Slogovne predloge
+legacy-user-stylesheets-no-stylesheets-found = Ni najdenih slogovnih predlog
 security-software-title = Varnostna programska oprema
 security-software-type = Vrsta
 security-software-name = Ime
@@ -410,3 +414,6 @@ support-remote-experiments-see-about-studies = Oglejte si <a data-l10n-name="sup
 support-remote-features-title = Oddaljene zmogljivosti
 support-remote-features-name = Ime
 support-remote-features-status = Stanje
+
+## Pointing devices
+
