@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = סגירת התרעה זו
 alert-settings-title =
     .tooltiptext = הגדרות
+
+## Reminder Notifications
+
+notification-default-dismiss = סגירה
