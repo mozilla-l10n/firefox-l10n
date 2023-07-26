@@ -50,6 +50,7 @@ firefoxview-tabpickup-password-locked-header = Sekmeleri görmek için ana parol
 firefoxview-tabpickup-password-locked-description = Sekmelerinizi almak için { -brand-short-name } ana parolanızı girmeniz gerekir.
 firefoxview-tabpickup-password-locked-link = Daha fazla bilgi al
 firefoxview-tabpickup-password-locked-primarybutton = Ana parolayı girin
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Daha fazla bilgi alın</a>
 firefoxview-tabpickup-signed-out-header = Yeniden bağlanmak için giriş yapın
 firefoxview-tabpickup-signed-out-description = Yeniden bağlanıp sekmelerinize ulaşmak için { -fxaccount-brand-name }nıza giriş yapın.
 firefoxview-tabpickup-signed-out-primarybutton = Giriş yap
@@ -63,6 +64,7 @@ firefoxview-closed-tabs-title = Son kapatılanlar
 firefoxview-closed-tabs-description2 = Kapattığınız sayfaları bu pencereden geri açabilirsiniz.
 firefoxview-closed-tabs-placeholder-header = Yakın zamanda kapatılmış sekme yok
 firefoxview-closed-tabs-placeholder-body = Bu pencerede bir sekmeyi kapattıktan sonra buradan getirebilirsiniz.
+firefoxview-closed-tabs-placeholder-body2 = Bir sekmeyi kapattıktan sonra buradan getirebilirsiniz.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -150,9 +152,11 @@ firefoxview-history-site-localhost = (yerel dosyalar)
 ##
 
 firefoxview-show-all-history = Tüm geçmişi göster
+firefoxview-view-more-browsing-history = Daha fazla gezinti geçmişini görüntüle
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-description = Siz gezindikçe, ziyaret ettiğiniz sayfalar burada listelenecektir.
 
 ##
 
