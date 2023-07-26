@@ -81,6 +81,7 @@ app-basics-key-mozilla = Mozilla Location Service 金鑰
 app-basics-safe-mode = 安全模式
 app-basics-memory-size = 記憶體大小（RAM）
 app-basics-disk-available = 磁碟可用空間大小
+app-basics-pointing-devices = 指向裝置
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -384,3 +385,10 @@ support-remote-experiments-see-about-studies = 若需更多資訊，請參考 <a
 support-remote-features-title = 遠端功能
 support-remote-features-name = 名稱
 support-remote-features-status = 狀態
+
+## Pointing devices
+
+pointing-device-mouse = 滑鼠
+pointing-device-touchscreen = 觸控螢幕
+pointing-device-pen-digitizer = 繪圖板
+pointing-device-none = 無指向裝置

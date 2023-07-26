@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webext-perms-learn-more = 了解更多
-
 # Variables:
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
@@ -15,7 +14,15 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = 不要
     .accesskey = N
-
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = 已安裝 { $addonName }。
+
+## A modal confirmation dialog to allow an extension on quarantined domains.
+
+webext-quarantine-confirmation-allow =
+    .label = 允許
+    .accesskey = A
+webext-quarantine-confirmation-deny =
+    .label = 不允許
+    .accesskey = D
