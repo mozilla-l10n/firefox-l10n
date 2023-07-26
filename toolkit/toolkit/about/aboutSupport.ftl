@@ -403,3 +403,8 @@ support-remote-experiments-see-about-studies = Weitere Informationen erhalten Si
 support-remote-features-title = Externe Funktionen
 support-remote-features-name = Name
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-mouse = Maus
+pointing-device-touchscreen = Touch-Gerät
