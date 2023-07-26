@@ -357,6 +357,7 @@ identity-weak-encryption = Denne sida brukar ei svak kryptering.
 identity-insecure-login-forms = Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.
 identity-https-only-connection-upgraded = (oppgradert til HTTPS)
 identity-https-only-label = Berre-HTTPS-modus
+identity-https-only-label2 = Oppgrader denne nettstaden automatisk til ei sikker tilkopling
 identity-https-only-dropdown-on =
     .label = På
 identity-https-only-dropdown-off =
