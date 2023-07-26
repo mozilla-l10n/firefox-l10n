@@ -363,3 +363,10 @@ support-remote-experiments-see-about-studies = ניתן להיכנס ל־<a data
 support-remote-features-title = תכונות מרוחקות
 support-remote-features-name = שם
 support-remote-features-status = מצב
+
+## Pointing devices
+
+pointing-device-mouse = עכבר
+pointing-device-touchscreen = מסך מגע
+pointing-device-pen-digitizer = לוח כתיבה אלקטרוני
+pointing-device-none = אין התקני הצבעה
