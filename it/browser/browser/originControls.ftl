@@ -78,3 +78,4 @@ origin-controls-toolbar-button-quarantined =
         { $extensionTitle }
         Non consentita da { -vendor-short-name } in questo sito
 
+

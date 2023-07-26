@@ -40,3 +40,4 @@ webext-quarantine-confirmation-allow =
 webext-quarantine-confirmation-deny =
     .label = Non consentire
     .accesskey = N
+
