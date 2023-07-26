@@ -400,3 +400,8 @@ support-remote-experiments-see-about-studies = Daha fazla bilgi için <a data-l1
 support-remote-features-title = Uzak özellikler
 support-remote-features-name = Adı
 support-remote-features-status = Durum
+
+## Pointing devices
+
+pointing-device-mouse = Fare
+pointing-device-touchscreen = Dokunmatik ekran
