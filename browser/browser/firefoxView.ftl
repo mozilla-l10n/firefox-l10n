@@ -185,6 +185,7 @@ firefoxview-import-history-header = Historiju z druheho wobhladowaka importować
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Rajtark je so přezahe začinił?
+firefoxview-recentlyclosed-empty-description = Tu namakaće rajtarki, kotrež sće njedawno začinił, zo byšće móhł je spěšnje zaso wočinić.
 firefoxview-recentlyclosed-empty-description-two = Zo byšće starše rajtarki namakał, hladajće do <a data-l10n-name="history-url">přehladowanskeje historije</a>.
 
 ##
