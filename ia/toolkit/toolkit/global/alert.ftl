@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Clauder iste notification
 alert-settings-title =
     .tooltiptext = Parametros
+
+## Reminder Notifications
+
+notification-default-dismiss = Ignorar

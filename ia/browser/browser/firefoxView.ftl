@@ -23,10 +23,12 @@ firefoxview-tabpickup-progress-label = { $percentValue }% complete
 firefoxview-tabpickup-step-signin-header = Passar facilemente inter apparatos
 firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu telephono ci, primo aperi session o crea un conto.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-primarybutton = Inscriber se o acceder
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
 firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
+firefoxview-syncedtabs-adddevice-primarybutton = Discoperi { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
 firefoxview-tabpickup-synctabs-learn-how = Apprender como
@@ -46,6 +48,7 @@ firefoxview-tabpickup-password-locked-header = Insere tu contrasigno primari pro
 firefoxview-tabpickup-password-locked-description = Pro colliger tu schedas, tu debera inserer le contrasigno primari pro { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Pro saper plus
 firefoxview-tabpickup-password-locked-primarybutton = Insere le contrasigno primari
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pro saper plus</a>
 firefoxview-tabpickup-signed-out-header = Accede pro reconnecter te
 firefoxview-tabpickup-signed-out-description = Pro reconnecter te e recuperar tu schedas, accede a tu { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
@@ -92,6 +95,8 @@ firefoxview-overview-header = Navigation recente
 firefoxview-history-nav = Chronologia
     .title = Chronologia
 firefoxview-history-header = Chronologia
+firefoxview-history-context-delete = Deler del chronologia
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +118,7 @@ firefoxview-synced-tabs-header = Schedas ab altere apparatos
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Vider toto
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +142,42 @@ firefoxview-history-date-today = Hodie - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Heri - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (files local)
 
 ##
 
 firefoxview-show-all-history = Monstrar tote le chronologia
+firefoxview-view-more-browsing-history = Vider altere chronologia de navigation
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Seliger le navigator
+    .title = Seliger le navigator
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Nihil a monstrar
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Clauder
+    .title = Clauder
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Importar chronologia ab un altere navigator
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+

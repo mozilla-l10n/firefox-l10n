@@ -18,6 +18,7 @@ support-addons-type = Typo
 support-addons-enabled = Activate
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-enabled = Active
 security-software-title = Software de securitate
 security-software-type = Typo
 security-software-name = Nomine
@@ -400,3 +401,7 @@ support-remote-experiments-see-about-studies = Vide <a data-l10n-name="support-a
 support-remote-features-title = Functiones remote
 support-remote-features-name = Nomine
 support-remote-features-status = Stato
+
+## Pointing devices
+
+pointing-device-mouse = Mus
