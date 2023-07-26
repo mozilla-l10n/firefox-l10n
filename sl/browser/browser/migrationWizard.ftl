@@ -164,7 +164,14 @@ migration-list-payment-methods-label = načine plačil
 ##
 
 migration-wizard-progress-header = Uvažanje podatkov
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Podatki so uspešno uvoženi
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Uvoz podatkov dokončan
 migration-wizard-progress-icon-in-progress =
     .aria-label = Uvažanje ...
 migration-wizard-progress-icon-completed =
