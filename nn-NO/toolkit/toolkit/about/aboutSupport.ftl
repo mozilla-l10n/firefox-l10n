@@ -16,6 +16,8 @@ support-addons-enabled = Slått på
 support-addons-version = Versjon
 support-addons-id = ID
 legacy-user-stylesheets-enabled = Aktiv
+legacy-user-stylesheets-stylesheet-types = Stilark
+legacy-user-stylesheets-no-stylesheets-found = Fann ingen stilark
 security-software-title = Sikkerheitsprogram
 security-software-type = Type
 security-software-name = Namn
@@ -75,6 +77,7 @@ app-basics-key-mozilla = Mozilla Location Service-nykel
 app-basics-safe-mode = Trygg modus
 app-basics-memory-size = Minnestorleik (RAM)
 app-basics-disk-available = Tilgjengeleg diskplass
+app-basics-pointing-devices = Peike-einingar
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -397,3 +400,8 @@ support-remote-experiments-see-about-studies = Sjå <a data-l10n-name="support-a
 support-remote-features-title = Eksterne funksjonar
 support-remote-features-name = Namn
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-touchscreen = Berøringsskjerm
+pointing-device-none = Inga peikeeining
