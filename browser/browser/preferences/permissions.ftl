@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Wuwześa
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa websedła
     .accesskey = A
-
 permissions-block =
     .label = Blokěrowaś
     .accesskey = B
-
 permissions-disable-etp =
     .label = Wuwześe pśidaś
     .accesskey = W
-
 permissions-session =
     .label = Za pósejźenje dowóliś
     .accesskey = p
-
 permissions-allow =
     .label = Dowóliś
     .accesskey = D
-
 permissions-button-off =
     .label = Znjemóžniś
     .accesskey = n
-
 permissions-button-off-temporarily =
     .label = Nachylu znjemóžniś
     .accesskey = c
-
 permissions-site-name =
     .label = Websedło
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Websedło wotwónoźeś
     .accesskey = w
-
 permissions-remove-all =
     .label = Wšykne websedła wótwónoźeś
     .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Změny składowaś
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Standard za wšykne websedła:
-
 permissions-searchbox =
     .placeholder = Websedło pytaś
-
 permissions-capabilities-autoplay-allow =
     .label = Awdio a wideo dowóliś
 permissions-capabilities-autoplay-block =
     .label = Awdio blokěrowaś
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a wideo blokěrowaś
-
 permissions-capabilities-allow =
     .label = Dowóliś
 permissions-capabilities-block =
     .label = Blokěrowaś
 permissions-capabilities-prompt =
     .label = Pśecej se pšašaś
-
 permissions-capabilities-listitem-allow =
     .value = Dowóliś
 permissions-capabilities-listitem-block =
     .value = Blokěrowaś
 permissions-capabilities-listitem-allow-session =
     .value = Za pósejźenje dowóliś
-
 permissions-capabilities-listitem-off =
     .value = Znjemóžnjony
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Wuwześa - Modus Jano-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś. Wuwześa za priwatne wokna njepłaśe.
+permissions-exceptions-https-only-desc2 = Móžóśo modus Jano-HTTPS za wěste websedła znjemóžniś. { -brand-short-name } njewopytajo, zwisk za te sedła na wěsty HTTPS aktualizěrowaś.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Nastajenja – pšawa głosnika
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Slědujuce websedła su wó to pšosyli, aby rěd za awdiowudaśe wubrali. Móžośo pódaś, kótare websedła směju rěd za awdiowudaśe wubraś.
-
 permissions-exceptions-doh-window =
     .title = Websedłowe wuwześa za DNS pśez HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } njebuźo wěsty DNS na toś tych sedłach a jich póddomenach wužywaś.
-
 permissions-doh-entry-field = Zapódajśo domenowe mě websedła
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Pśidaś
     .accesskey = P
-
 permissions-doh-col =
     .label = Domena
-
 permissions-doh-remove =
     .label = Wótwónoźeś
     .accesskey = t
-
 permissions-doh-remove-all =
     .label = Wše wótwónoźeś
     .accesskey = e

@@ -78,6 +78,7 @@ app-basics-key-mozilla = Kluc słužby póstajenja městna Mozilla
 app-basics-safe-mode = Wěsty modus
 app-basics-memory-size = Wjelikosć składa (RAM)
 app-basics-disk-available = K dispoziciji stojecy platowy składowak
+app-basics-pointing-devices = Pokazowańske rědy
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -411,3 +412,10 @@ support-remote-experiments-see-about-studies = Glejśo <a data-l10n-name="suppor
 support-remote-features-title = Zdalone funkcije
 support-remote-features-name = Mě
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-mouse = Myška
+pointing-device-touchscreen = Dotyknjeńska wobrazowka
+pointing-device-pen-digitizer = Digitalizěrowak pisaka
+pointing-device-none = Žedne pokazowańske rědy
