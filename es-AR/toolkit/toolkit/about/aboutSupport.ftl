@@ -404,3 +404,9 @@ support-remote-experiments-see-about-studies = Ver <a data-l10n-name="support-ab
 support-remote-features-title = Características remotas
 support-remote-features-name = Nombre
 support-remote-features-status = Estado
+
+## Pointing devices
+
+pointing-device-mouse = Mouse
+pointing-device-touchscreen = Pantalla táctil
+pointing-device-pen-digitizer = Lápiz digitalizador
