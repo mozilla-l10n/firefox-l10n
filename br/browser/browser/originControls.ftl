@@ -10,16 +10,12 @@
 
 origin-controls-no-access =
     .label = An askouezh ne c'hall ket lenn pe kemmañ roadennoù
-
 origin-controls-options =
     .label = An askouezh a c'hall lenn pe kemmañ roadennoù :
-
 origin-controls-option-all-domains =
     .label = War an holl lec'hiennoù
-
 origin-controls-option-when-clicked =
     .label = Pa gliker warnañ nemetken
-
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -31,10 +27,12 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ne c'hall ket lenn pe kemmañ roadennoù war al lec'hienn-se
-
 origin-controls-state-always-on = Bepred e c'hall lenn pe kemmañ roadennoù war al lec'hienn-se
 
 ## Extension's toolbar button.
 ## Variables:
 ##   $extensionTitle (String) - Extension name or title message.
 
+origin-controls-toolbar-button =
+    .label = { $extensionTitle }
+    .tooltiptext = { $extensionTitle }
