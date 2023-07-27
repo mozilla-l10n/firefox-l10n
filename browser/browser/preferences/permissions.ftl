@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Undantag
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Webbplatsens adress
     .accesskey = d
-
 permissions-block =
     .label = Blockera
     .accesskey = B
-
 permissions-disable-etp =
     .label = Lägg till undantag
     .accesskey = u
-
 permissions-session =
     .label = Tillåt för sessionen
     .accesskey = s
-
 permissions-allow =
     .label = Tillåt
     .accesskey = å
-
 permissions-button-off =
     .label = Stäng av
     .accesskey = a
-
 permissions-button-off-temporarily =
     .label = Stäng av tillfälligt
     .accesskey = t
-
 permissions-site-name =
     .label = Webbplats
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Ta bort webbplats
     .accesskey = T
-
 permissions-remove-all =
     .label = Ta bort alla webbplatser
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Spara ändringar
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Standard för alla webbplatser:
-
 permissions-searchbox =
     .placeholder = Sök webbplats
-
 permissions-capabilities-autoplay-allow =
     .label = Tillåt ljud och video
 permissions-capabilities-autoplay-block =
     .label = Blockera ljud
 permissions-capabilities-autoplay-blockall =
     .label = Blockera ljud och video
-
 permissions-capabilities-allow =
     .label = Tillåt
 permissions-capabilities-block =
     .label = Blockera
 permissions-capabilities-prompt =
     .label = Fråga alltid
-
 permissions-capabilities-listitem-allow =
     .value = Tillåt
 permissions-capabilities-listitem-block =
     .value = Blockera
 permissions-capabilities-listitem-allow-session =
     .value = Tillåten för session
-
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Undantag - Endast HTTPS-läge
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Du kan inaktivera Endast HTTPS-läge för specifika webbplatser. { -brand-short-name } försöker inte uppgradera anslutningen för att säkra HTTPS för dessa webbplatser. Undantag gäller inte privata fönster.
+permissions-exceptions-https-only-desc2 = Du kan stänga av endast HTTPS-läge för specifika webbplatser. { -brand-short-name } kommer inte att försöka uppgradera anslutningen till säker HTTPS för dessa webbplatser.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Inställningar - Högtalarbehörigheter
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Följande webbplatser har begärt att få välja en ljudutgångsenhet. Du kan ange vilka webbplatser som får välja en ljudutgångsenhet.
-
 permissions-exceptions-doh-window =
     .title = Webbplatsundantag för DNS över HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } kommer inte att använda säker DNS på dessa webbplatser och deras underdomäner.
-
 permissions-doh-entry-field = Ange webbplatsens domännamn
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Lägg till
     .accesskey = L
-
 permissions-doh-col =
     .label = Domän
-
 permissions-doh-remove =
     .label = Ta bort
     .accesskey = T
-
 permissions-doh-remove-all =
     .label = Ta bort alla
     .accesskey = a
