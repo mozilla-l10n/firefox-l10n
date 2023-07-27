@@ -5,18 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traduci questa pagina
-
 # The button for "Firefox Translations" in the url bar. Note that here "Beta" should
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
 urlbar-translations-button2 =
-  .tooltiptext = Traduci questa pagina — Beta
-
+    .tooltiptext = Traduci questa pagina — Beta
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
-  .tooltiptext = Prova il sistema di traduzione rispettoso della privacy di { -brand-shorter-name } — Beta
-
+    .tooltiptext = Prova il sistema di traduzione rispettoso della privacy di { -brand-shorter-name } — Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -25,14 +22,11 @@ urlbar-translations-button-intro =
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
-  .tooltiptext = Pagina tradotta da { $fromLanguage } a { $toLanguage }
-
+    .tooltiptext = Pagina tradotta da { $fromLanguage } a { $toLanguage }
 urlbar-translations-button-loading =
-  .tooltiptext = Traduzione in corso
-
+    .tooltiptext = Traduzione in corso
 translations-panel-settings-button =
     .aria-label = Gestisci impostazioni per la traduzione
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -44,7 +38,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gestisci lingue
 translations-panel-settings-about = Informazioni sulle traduzioni in { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Informazioni sulle traduzioni in { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -52,7 +47,6 @@ translations-panel-settings-always-translate-language =
     .label = Traduci sempre da { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Traduci sempre da questa lingua
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -60,7 +54,6 @@ translations-panel-settings-never-translate-language =
     .label = Non tradurre mai da { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Non tradurre mai da questa lingua
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Non tradurre mai questo sito
@@ -72,20 +65,17 @@ translations-panel-header = Tradurre questa pagina?
 translations-panel-translate-button =
     .label = Traduci
 translations-panel-translate-button-loading =
-  .label = Attendere…
+    .label = Attendere…
 translations-panel-translate-cancel =
     .label = Annulla
 translations-panel-learn-more-link = Ulteriori informazioni
-
 translations-panel-intro-header = Prova il sistema di traduzione rispettoso della privacy di { -brand-shorter-name }
 translations-panel-intro-description = Per garantire la tua privacy, i testi da tradurre non lasciano mai il tuo dispositivo. Nuove lingue e altri miglioramenti presto disponibili.
-
 translations-panel-error-translating = Si è verificato un problema durante la traduzione. Riprova.
 translations-panel-error-load-languages = Impossibile caricare le lingue
 translations-panel-error-load-languages-hint = Verifica la connessione a Internet e riprova.
 translations-panel-error-load-languages-hint-button =
     .label = Riprova
-
 translations-panel-error-unsupported = La traduzione non è disponibile per questa pagina
 translations-panel-error-dismiss-button =
     .label = OK
@@ -140,26 +130,9 @@ translations-manage-language-download-button =
 translations-manage-language-delete-button =
     .label = Elimina
     .accesskey = E
-
-translations-manage-intro = Imposta le tue preferenze relative alla lingua e alla traduzione dei siti, gestisci le lingue installate per la traduzione non in linea.
-translations-manage-install-description = Installa lingue per la traduzione non in linea
-translations-manage-language-install-button =
-    .label = Installa
-translations-manage-language-install-all-button =
-    .label = Installa tutte
-    .accesskey = I
-translations-manage-language-remove-button =
-    .label = Rimuovi
-translations-manage-language-remove-all-button =
-    .label = Rimuovi tutte
-    .accesskey = e
-translations-manage-error-install = Si è verificato un errore durante l’installazione dei file della lingua. Riprova.
-translations-manage-error-remove = Si è verificato un errore durante la rimozione dei file della lingua. Riprova.
-
 translations-manage-error-download = Si è verificato un errore durante il download dei file. Riprova.
 translations-manage-error-delete = Si è verificato un errore durante l’eliminazione dei file della lingua. Riprova.
 translations-manage-error-list = Impossibile ottenere l’elenco delle lingue disponibili per la traduzione. Aggiorna la pagina per riprovare.
-
 translations-settings-title =
     .title = Impostazioni traduzione
     .style = min-width: 36em
@@ -187,5 +160,3 @@ translations-settings-remove-all-sites-button =
 translations-settings-close-dialog =
     .buttonlabelaccept = Chiudi
     .buttonaccesskeyaccept = C
-
-
