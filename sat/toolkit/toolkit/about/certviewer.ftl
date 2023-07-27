@@ -70,7 +70,7 @@ certificate-viewer-validity = ᱯᱩᱥᱴᱟᱹᱣᱚᱠᱛᱚ
 certificate-viewer-subject-alt-names = ᱥᱟᱛᱟᱢ Alt ᱧᱩᱛᱩᱢᱠᱚ
 certificate-viewer-public-key-info = ᱥᱟᱱᱟᱢ ᱪᱟᱹᱵᱤ ᱵᱤᱵᱨᱚᱬ
 certificate-viewer-miscellaneous = ᱟᱨᱛᱮᱭᱟᱜᱠᱚ
-certificate-viewer-fingerprints = ᱠᱟᱹᱴᱩᱵᱪᱷᱟᱯᱟ
+certificate-viewer-fingerprints = ᱴᱤᱯᱟᱹᱪᱷᱟᱯᱠᱚ
 certificate-viewer-basic-constraints = ᱢᱩᱞ ᱵᱚᱰᱷᱟᱣᱠᱚ
 certificate-viewer-key-usages = ᱪᱟᱹᱵᱤ ᱵᱮᱵᱷᱟᱨᱠᱚ
 certificate-viewer-extended-key-usages = ᱯᱟᱥᱱᱟᱣ ᱠᱟᱹᱴᱷᱤ ᱵᱮᱵᱷᱟᱨᱠᱚ
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = ᱟᱹᱭᱫᱟᱨᱤ ᱵᱤᱵᱨᱚᱬ
 certificate-viewer-certificate-policies = ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱟᱹᱨᱤᱠᱚ
 certificate-viewer-embedded-scts = ᱠᱷᱟᱹᱲ ᱠᱟᱱ SCTs
 certificate-viewer-crl-endpoints = CRL ᱢᱩᱪᱟᱹᱫ ᱫᱷᱟᱯ
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ᱰᱟᱩᱱᱞᱚᱰ
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱜᱚᱢᱵᱷᱤᱛ ᱞᱮᱠᱷᱟ ᱛᱮ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱫᱚ ᱠᱞᱟᱭᱮᱱᱴ ᱡᱩᱫᱤ ᱢᱮᱱᱮᱛ ᱵᱟᱭ ᱵᱩᱡᱷᱟᱹᱣ ᱠᱷᱟᱱ ᱫᱚ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱹᱨᱜᱤᱞ ᱜᱤᱰᱤ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾

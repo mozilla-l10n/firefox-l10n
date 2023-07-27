@@ -29,10 +29,10 @@ synced-tabs-context-open-in-container-tab =
     .label = ᱱᱟᱶᱟ ᱠᱚᱱᱴᱮᱱᱚᱨ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = i
 synced-tabs-context-open-in-window =
-    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .label = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱚ ᱨᱮ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = N
 synced-tabs-context-open-in-private-window =
-    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+    .label = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱣᱤᱱᱰᱳ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
     .accesskey = P
 
 ##

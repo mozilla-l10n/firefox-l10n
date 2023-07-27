@@ -211,7 +211,7 @@ search-one-offs-context-set-as-default =
     .label = ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱞᱮᱠᱷᱟ ᱥᱮᱴ ᱢᱮ
     .accesskey = D
 search-one-offs-context-set-as-default-private =
-    .label = ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱴ ᱢᱮ
+    .label = ᱱᱤᱡᱚᱨᱟᱜ ᱣᱤᱱᱰᱳ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞ ᱥᱮᱸᱫᱽᱨᱟ ᱤᱧᱡᱤᱱ ᱥᱮᱴ ᱢᱮ
     .accesskey = P
 # Search engine one-off buttons with an @alias shortcut/keyword.
 # Variables:
@@ -280,7 +280,7 @@ quickactions-cmd-plugins = ᱯᱞᱚᱜᱤᱱ ᱠᱚ
 quickactions-print2 = ᱥᱟᱦᱴᱟ ᱪᱷᱟᱯᱟᱭ ᱢᱮ
 quickactions-cmd-print = ᱪᱷᱟᱯᱟ
 # Opens a new private browsing window
-quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+quickactions-private2 = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
 quickactions-cmd-private = ᱱᱤᱡᱚᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = { -brand-short-name } ᱛᱟᱡᱟᱭ ᱢᱮ
@@ -473,7 +473,7 @@ popup-select-microphone-icon =
 popup-select-speaker-icon =
     .tooltiptext = ᱨᱚᱲᱠᱩᱜ
 popup-select-window-or-screen =
-    .label = ᱥᱠᱨᱤᱱ ᱟᱨᱵᱟᱝ ᱡᱷᱚᱨᱠᱟ:
+    .label = ᱥᱠᱨᱤᱱ ᱟᱨᱵᱟᱝ ᱣᱤᱱᱰᱳ:
     .accesskey = W
 popup-all-windows-shared = ᱟᱢᱟᱜ ᱥᱠᱨᱤᱱ ᱨᱮ ᱡᱷᱚᱛᱚ ᱧᱮᱞᱚᱜᱟᱜ ᱣᱤᱱᱰᱚ ᱦᱟᱹᱴᱤᱧᱟᱜᱼᱟ ᱾
 
@@ -557,9 +557,9 @@ urlbar-page-action-button =
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
 #  $engine (String): the name of a search engine
-urlbar-result-action-search-in-private-w-engine = ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+urlbar-result-action-search-in-private-w-engine = ᱱᱤᱡᱚᱨᱟᱜ ᱣᱤᱱᱰᱳ ᱨᱮ { $engine } ᱥᱟᱶ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # Used when the private browsing engine is the same as the default engine.
-urlbar-result-action-search-in-private = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
+urlbar-result-action-search-in-private = ᱢᱤᱫ ᱱᱤᱡᱚᱨᱟᱜ ᱣᱤᱱᱰᱳ ᱨᱮ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
 # The "with" format was chosen because the search engine name can end with
 # "Search", and we would like to avoid strings like "Search MSN Search".
 # Variables
@@ -946,8 +946,8 @@ popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ �
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱟᱴᱠᱟ ᱡᱷᱚᱨᱠᱟ  ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
-       *[other] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ { $popupCount } ᱴᱟᱴᱠᱟ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
+        [one] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱟᱴᱠᱟ ᱣᱤᱱᱰᱳ  ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
+       *[other] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ { $popupCount } ᱴᱟᱴᱠᱟ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:

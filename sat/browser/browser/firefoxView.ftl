@@ -66,9 +66,9 @@ firefoxview-mobile-promo-primarybutton = { -brand-product-name } ᱫᱚ ᱟᱢ�
 firefoxview-mobile-confirmation-header = 🎉 ᱪᱟᱞᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱥ ᱜᱮᱭᱟ!
 firefoxview-mobile-confirmation-description = ᱱᱤᱛᱚᱜ ᱫᱚ ᱟᱢ ᱟᱢᱟᱜ ᱴᱮᱵᱽᱞᱮᱴ ᱟᱨ ᱵᱟᱝ ᱯᱷᱚᱱ ᱠᱷᱚᱱ { -brand-product-name } ᱴᱮᱵᱽ ᱦᱟᱛᱮᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 firefoxview-closed-tabs-title = ᱱᱤᱛᱚᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ
-firefoxview-closed-tabs-description2 = ᱱᱚᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
+firefoxview-closed-tabs-description2 = ᱱᱚᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱵᱚᱸᱫ ᱟᱠᱟᱱ ᱥᱟᱦᱴᱟ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ᱾
 firefoxview-closed-tabs-placeholder-header = ᱱᱤᱛᱚᱜᱽᱼᱟᱜ ᱵᱚᱸᱫᱚᱼᱟᱜ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱹᱱᱩᱜᱼᱟ
-firefoxview-closed-tabs-placeholder-body = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
+firefoxview-closed-tabs-placeholder-body = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 firefoxview-closed-tabs-placeholder-body2 = ᱛᱤᱧ ᱡᱷᱚᱜ ᱟᱢ ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱮᱢ ᱵᱚᱱᱫ ᱮᱫᱟ, ᱟᱢ ᱫᱚ ᱱᱚᱰᱮ ᱠᱷᱚᱱ ᱟᱹᱛᱩᱨ ᱟᱬᱜᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
@@ -130,11 +130,11 @@ firefoxview-view-all-link = ᱡᱷᱚᱛᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
 firefoxview-opentabs-window-header =
-    .title = { $winID } ᱡᱷᱚᱨᱠᱟ
+    .title = { $winID } ᱣᱤᱱᱰᱳ
 # Variables:
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
-    .title = ᱡᱷᱚᱨᱠᱟ { $winID } (ᱱᱤᱛᱚᱜᱟᱜ)
+    .title = ᱣᱤᱱᱰᱳ { $winID } (ᱱᱤᱛᱚᱜᱟᱜ)
 firefoxview-opentabs-focus-tab =
     .title = ᱱᱚᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱩᱪᱟᱹᱲᱚᱜ ᱢᱮ
 firefoxview-show-more = ᱵᱚᱲᱛᱤ ᱫᱮᱠᱷᱟᱣ ᱢᱮ

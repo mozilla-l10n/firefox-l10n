@@ -69,7 +69,7 @@ app-basics-third-party = ᱛᱮᱥᱟᱨ ᱯᱟᱴᱤ ᱢᱳᱰᱭᱩᱞ
 app-basics-profiles = ᱢᱮᱫᱦᱟᱸᱠᱚ
 app-basics-launcher-process-status = ᱞᱚᱧᱪᱚᱨ ᱠᱟᱹᱢᱤᱮᱫᱟᱭ
 app-basics-multi-process-support = ᱟᱹᱰᱤ ᱞ ᱞᱮᱠᱟᱱ ᱠᱟᱹᱢᱤ ᱣᱤᱱᱰᱚ᱾
-app-basics-fission-support = ᱯᱷᱤᱥᱚᱱ ᱡᱷᱚᱨᱠᱟ
+app-basics-fission-support = ᱯᱷᱤᱥᱚᱱ ᱣᱤᱱᱰᱳ
 app-basics-remote-processes-count = ᱨᱤᱢᱚᱴ ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
 app-basics-enterprise-policies = ᱮᱱᱴᱚᱨᱯᱨᱟᱭᱤᱡᱽ ᱱᱤᱛᱤ
 app-basics-location-service-key-google = Google ᱡᱟᱭᱜᱟ ᱠᱟᱹᱢᱤ ᱪᱟᱹᱵᱤ
@@ -112,9 +112,9 @@ graphics-gpu2-title = GPU #2
 graphics-decision-log-title = ᱴᱷᱟᱹᱣᱠᱟᱹ ᱞᱚᱜᱽ
 graphics-crash-guards-title = ᱠᱨᱟᱥ ᱜᱟᱰ ᱵᱚᱸᱫ ᱠᱟᱱ ᱯᱷᱤᱪᱚᱨᱠᱚ
 graphics-workarounds-title = ᱠᱟᱹᱢᱤᱦᱚᱨᱟᱠᱚ
-graphics-device-pixel-ratios = ᱡᱷᱚᱨᱠᱟ ᱥᱟᱫᱷᱚᱱ ᱯᱤᱠᱥᱮᱞ ᱨᱮᱥᱤᱭᱚ
+graphics-device-pixel-ratios = ᱣᱤᱱᱰᱳ ᱥᱟᱫᱷᱚᱱ ᱯᱤᱠᱥᱮᱞ ᱨᱮᱥᱤᱭᱚ
 # Windowing system in use on Linux (e.g. X11, Wayland).
-graphics-window-protocol = ᱡᱷᱚᱨᱠᱟ ᱯᱚᱨᱴᱟᱞ
+graphics-window-protocol = ᱣᱤᱱᱰᱳ ᱯᱚᱨᱴᱟᱞ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
 graphics-desktop-environment = ᱰᱮᱥᱠᱴᱚᱯ ᱥᱟᱪᱟᱨᱦᱮ
 place-database-title = ᱰᱟᱴᱟᱵᱮᱥ ᱫᱚᱦᱚᱭᱟᱭ

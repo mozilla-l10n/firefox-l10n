@@ -58,13 +58,13 @@ detail-update-manual =
     .label = ᱵᱚᱸᱫᱚ
     .tooltiptext = ᱟᱡ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤ ᱠᱚ ᱟᱞᱚᱢ ᱵᱚᱦᱟᱞᱟ
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
+detail-private-browsing-label = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
-detail-private-disallowed-label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱭ ᱜᱚᱱᱚᱜᱼᱟ
+detail-private-disallowed-label = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱵᱟᱭ ᱜᱚᱱᱚᱜᱼᱟ
 detail-private-disallowed-description2 = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱯᱨᱟᱭᱵᱷᱮᱴ ᱵᱽᱨᱟᱣᱩᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱵᱟᱝ ᱪᱟᱹᱞᱩᱜᱼᱟ ᱾ <a data-l10n-name="learn-more">Learn more</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
-detail-private-required-label = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱟᱫᱮᱨ ᱦᱚᱠ ᱫᱟᱨᱠᱟᱨ
+detail-private-required-label = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱟᱫᱮᱨ ᱦᱚᱠ ᱫᱟᱨᱠᱟᱨ
 detail-private-required-description2 = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <a data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 detail-private-browsing-on =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
@@ -362,7 +362,7 @@ addon-detail-group-label-updates =
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
-    .title = ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
+    .title = ᱯᱨᱟᱭᱣᱮᱴ ᱣᱤᱱᱰᱳ ᱨᱮ ᱜᱚᱱᱚᱜᱼᱟ
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = ᱛᱤᱧ ᱡᱷᱚᱜ ᱮᱢ ᱪᱷᱚᱜᱼᱟ, ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱟᱢᱟᱜ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱚᱠᱛᱚ ᱨᱮ ᱟᱢᱟᱜ ᱚᱱᱞᱟᱭᱤᱱ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱠᱚ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ <a data-l10n-name="learn-more">ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 addon-detail-private-browsing-allow = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ

@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-panic-button-open-new-window = ᱱᱟᱶᱟ ᱯᱷᱟᱨᱪᱟ ᱡᱷᱚᱨᱠᱟ ᱡᱷᱤᱡᱽ ᱢᱮ
+panic-button-open-new-window = ᱱᱟᱶᱟ ᱯᱷᱟᱨᱪᱟ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡᱽ ᱢᱮ
 panic-button-undo-warning = ᱱᱚᱶᱟ ᱠᱟᱹᱢᱤ ᱥᱟᱹᱛ ᱵᱟᱝ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾
 panic-button-forget-button =
     .label = ᱦᱤᱲᱤᱧ!
@@ -28,4 +28,4 @@ panic-button-day =
 panic-button-action-desc = ᱞᱟᱦᱟ ᱞᱮᱠᱷᱟᱱ :
 panic-button-delete-cookies = ᱱᱤᱛᱚᱜᱼᱟᱜ <strong>ᱠᱩᱠᱤᱡᱽ ᱠᱚ</strong> ᱢᱮᱴᱟᱣ ᱢᱮ
 panic-button-delete-history = ᱱᱤᱛᱚᱜᱼᱟᱜ <strong>ᱱᱟᱜᱟᱢ</strong> ᱢᱮᱴᱟᱣ ᱢᱮ
-panic-button-delete-tabs-and-windows = ᱡᱷᱚᱛᱚ <strong>ᱴᱮᱵᱽᱠᱚ</strong> ᱟᱨ <strong>ᱡᱷᱚᱨᱠᱟ</strong> ᱵᱚᱱᱫ ᱢᱮ
+panic-button-delete-tabs-and-windows = ᱡᱷᱚᱛᱚ <strong>ᱴᱮᱵᱽᱠᱚ</strong> ᱟᱨ <strong>ᱣᱤᱱᱰᱳ</strong> ᱵᱚᱱᱫ ᱢᱮ

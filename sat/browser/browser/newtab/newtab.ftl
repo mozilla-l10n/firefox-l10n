@@ -98,8 +98,8 @@ newtab-menu-topsites-placeholder-tooltip =
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
 newtab-menu-edit-topsites = ᱥᱟᱯᱲᱟᱣ
-newtab-menu-open-new-window = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
-newtab-menu-open-new-private-window = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+newtab-menu-open-new-window = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
+newtab-menu-open-new-private-window = ᱱᱟᱶᱟ ᱱᱤᱡᱚᱨ ᱣᱤᱱᱰᱳ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ
 newtab-menu-dismiss = ᱵᱚᱸᱫ
 newtab-menu-pin = ᱞᱟᱴᱷᱟ
 newtab-menu-unpin = ᱚᱪᱚᱜᱽ

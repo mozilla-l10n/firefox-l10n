@@ -22,6 +22,6 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
 
-desktop-action-new-window-name = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ
-desktop-action-new-private-window-name = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ
+desktop-action-new-window-name = ᱱᱟᱶᱟ ᱣᱤᱱᱰᱳ
+desktop-action-new-private-window-name = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱳ
 desktop-action-open-profile-manager = ᱢᱮᱫᱦᱟᱸ ᱢᱮᱱᱮᱡᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ

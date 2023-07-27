@@ -29,7 +29,7 @@ appmenu-update-restart2 =
     .buttonaccesskey = U
     .secondarybuttonlabel = ᱵᱚᱸᱫ
     .secondarybuttonaccesskey = m
-appmenu-update-restart-message2 = { -brand-shorter-name } ᱨᱮᱭᱟᱜ ᱱᱮᱼᱱᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱟᱢᱮᱴ ᱢᱮ ᱾ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱟᱨ ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱫᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱜᱼᱟ ᱾
+appmenu-update-restart-message2 = { -brand-shorter-name } ᱨᱮᱭᱟᱜ ᱱᱮᱼᱱᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱟᱢᱮᱴ ᱢᱮ ᱾ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱟᱨ ᱣᱤᱱᱰᱳ ᱠᱚ ᱫᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱜᱼᱟ ᱾
 appmenu-update-other-instance =
     .label = { -brand-shorter-name } ᱫᱚ ᱱᱟᱶᱟ ᱵᱷᱟᱹᱨᱥᱚᱱ ᱛᱮ ᱟᱡ ᱛᱮ ᱵᱟᱭ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜ ᱫᱟᱲᱮᱭᱟᱫᱟ ᱾
     .buttonlabel = ᱡᱮᱞᱠᱟᱛᱮ { -brand-shorter-name } ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
@@ -37,15 +37,13 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = ᱱᱤᱛᱚᱜ ᱫᱚ ᱵᱟᱝᱟ
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ { -brand-shorter-name } ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮᱱᱟᱜᱼᱟ, ᱢᱮᱱᱠᱷᱟᱱ { -brand-shorter-name } ᱨᱮᱭᱟᱜ ᱮᱴᱟᱜ ᱱᱚᱠᱚᱞ ᱢᱮᱱᱟᱜ ᱠᱷᱟᱹᱛᱤᱨ ᱵᱚᱦᱟᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱛᱮ ᱞᱟᱦᱟᱜ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫᱚᱭ ᱢᱮ, ᱟᱨᱵᱟᱝᱠᱷᱟᱱ ᱡᱟᱦᱟᱺᱱ ᱞᱮᱠᱷᱟ ᱛᱮᱜᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱪᱷᱟᱣ ᱢᱮ (ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱵᱟᱝ ᱵᱷᱩᱨ ᱮᱴᱟᱜ ᱱᱚᱠᱚᱞ ᱫᱚ ᱴᱷᱤᱠ ᱥᱮ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱟᱭ) ᱾
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = ᱴᱷᱤᱠ ᱜᱮ
     .buttonaccesskey = ᱴ
 appmenu-addon-post-install-message3 = ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱢᱮᱱᱩ ᱛᱮ ᱮᱰᱼᱚᱱᱥ ᱟᱨ ᱛᱷᱤᱢ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ ᱾
 appmenu-addon-post-install-incognito-checkbox =
-    .label = ᱱᱤᱡᱚᱨ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱱᱚᱶᱟ ᱵᱤᱥᱤᱞ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
+    .label = ᱱᱤᱡᱚᱨ ᱣᱤᱱᱰᱳ ᱨᱮ ᱱᱚᱶᱟ ᱵᱤᱥᱤᱞ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
     .accesskey = A
-
 appmenu-new-tab-controlled-changes =
     .label = ᱟᱢᱟᱜ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱵᱚᱫᱚᱞ ᱮᱱᱟ ᱾
     .buttonlabel = ᱵᱚᱫᱚᱞ ᱠᱚ ᱫᱚᱦᱚᱭ ᱢᱮ

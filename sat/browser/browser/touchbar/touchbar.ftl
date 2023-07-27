@@ -17,7 +17,7 @@ reader-view = ᱯᱟᱲᱦᱟᱣ ᱧᱮᱞ
 # Meant to match the string displayed in an empty URL bar.
 open-location = ᱴᱷᱤᱠᱬᱟᱹ ᱯᱟᱱᱛᱮ ᱟᱨ ᱵᱟᱝ ᱥᱮᱸᱫᱽᱨᱟ
 share = ᱦᱟᱹᱴᱤᱧ ᱢᱮ
-close-window = ᱡᱷᱚᱨᱠᱟ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
+close-window = ᱣᱤᱱᱰᱳ ᱵᱚᱱᱫᱚᱭ ᱢᱮ
 open-sidebar = ᱫᱷᱟᱨᱮ ᱵᱟᱨ
 # This string describes shortcuts for search.
 search-popover = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱠᱚ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ

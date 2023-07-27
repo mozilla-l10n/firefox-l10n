@@ -90,9 +90,9 @@ tabbrowser-confirm-close-tabs-checkbox = ᱟᱭᱢᱟᱸ ᱴᱮᱵᱽ ᱠᱚ ᱵ
 #   $windowCount (Number): The number of windows that will be closed.
 tabbrowser-confirm-close-windows-title =
     { $windowCount ->
-        [one] { $windowCount } ᱡᱷᱚᱨᱠᱟ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
-        [two] { $windowCount } ᱡᱷᱚᱨᱠᱟ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
-       *[other] { $windowCount } ᱡᱷᱚᱨᱠᱟ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+        [one] { $windowCount } ᱣᱤᱱᱰᱳ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+        [two] { $windowCount } ᱣᱤᱱᱰᱳ ᱠᱤᱱ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
+       *[other] { $windowCount } ᱣᱤᱱᱰᱳ ᱠᱚ ᱵᱚᱸᱫᱚᱭᱟᱢ ᱥᱮ ?
     }
 tabbrowser-confirm-close-windows-button =
     { PLATFORM() ->
@@ -103,7 +103,7 @@ tabbrowser-confirm-close-windows-button =
 ## Confirmation dialog when quitting using the keyboard shortcut (Ctrl/Cmd+Q)
 ## Windows does not show a prompt on quit when using the keyboard shortcut by default.
 
-tabbrowser-confirm-close-tabs-with-key-title = ᱡᱷᱚᱨᱠᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ { -brand-short-name } ᱵᱚᱸᱫ ᱟᱢ ᱥᱮ ?
+tabbrowser-confirm-close-tabs-with-key-title = ᱣᱤᱱᱰᱳ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱟᱨ { -brand-short-name } ᱵᱚᱸᱫ ᱟᱢ ᱥᱮ ?
 tabbrowser-confirm-close-tabs-with-key-button = { -brand-short-name } ᱵᱟᱹᱜᱤ ᱢᱮ
 # Variables:
 #   $quitKey (String): the text of the keyboard shortcut for quitting.
