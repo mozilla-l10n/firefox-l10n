@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traduzir esta página
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Página traduzida de { $fromLanguage } para { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Tradução em andamento
-
 translations-panel-settings-button =
     .aria-label = Gerenciar configurações de tradução
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,6 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gerenciar idiomas
 translations-panel-settings-about = Sobre traduções no { -brand-shorter-name }
-
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +36,6 @@ translations-panel-settings-always-translate-language =
     .label = Sempre traduzir de { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Sempre traduzir deste idioma
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +43,6 @@ translations-panel-settings-never-translate-language =
     .label = Nunca traduzir de { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nunca traduzir deste idioma
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nunca traduzir este site
@@ -64,13 +57,11 @@ translations-panel-translate-button-loading =
     .label = Aguarde…
 translations-panel-translate-cancel =
     .label = Cancelar
-
 translations-panel-error-translating = Houve um problema ao traduzir. Tente novamente.
 translations-panel-error-load-languages = Não foi possível carregar idiomas
 translations-panel-error-load-languages-hint = Verifique sua conexão com a internet e tente novamente.
 translations-panel-error-load-languages-hint-button =
     .label = Tentar novamente
-
 translations-panel-error-unsupported = Não está disponível traduzir esta página
 translations-panel-error-dismiss-button =
     .label = Entendi
@@ -90,7 +81,7 @@ translations-panel-error-unsupported-hint-unknown = Desculpe, ainda não oferece
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Traduzir de
-translations-panel-to-label = Traduza para
+translations-panel-to-label = Traduzir para
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
@@ -128,7 +119,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Houve um problema ao baixar os arquivos de idioma. Tente novamente.
 translations-manage-error-delete = Houve um erro ao excluir os arquivos de idioma. Tente novamente.
 translations-manage-error-list = Falha ao obter a lista de idiomas disponíveis para tradução. Atualize a página para tentar novamente.
-
 translations-settings-title =
     .title = Configurações de tradução
     .style = min-width: 36em
