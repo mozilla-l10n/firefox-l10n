@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webext-perms-learn-more = Μάθετε περισσότερα
-
 # Variables:
 #   $addonName (String): localized named of the extension that is asking to change the default search engine.
 #   $currentEngine (String): name of the current search engine.
@@ -15,7 +14,13 @@ webext-default-search-yes =
 webext-default-search-no =
     .label = Όχι
     .accesskey = Ό
-
 # Variables:
 #   $addonName (String): localized named of the extension that was just installed.
 addon-post-install-message = Το { $addonName } προστέθηκε.
+
+## A modal confirmation dialog to allow an extension on quarantined domains.
+
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = Εκτέλεση του { $addonName } σε περιορισμένους ιστοτόπους;
+webext-quarantine-confirmation-line-1 = Για την προστασία των δεδομένων σας, δεν επιτρέπεται η εκτέλεση αυτής της επέκτασης σε αυτόν τον ιστότοπο.
