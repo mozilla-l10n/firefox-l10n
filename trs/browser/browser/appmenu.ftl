@@ -116,6 +116,11 @@ profiler-popup-discard-button =
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
+# "Power" is used in the sense of energy (electricity used by the computer).
+profiler-popup-presets-power-label =
+    .label = Ña'aan
+profiler-popup-presets-custom-label =
+    .label = Nāgi\'iaj mun\'ûn\'
 
 ## History panel
 
