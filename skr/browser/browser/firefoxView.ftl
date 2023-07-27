@@ -28,6 +28,8 @@ firefoxview-tabpickup-adddevice-header = { -brand-product-name } اپݨے فون
 firefoxview-tabpickup-adddevice-description = موبائل کیتے { -brand-product-name } ڈاؤن لوڈ کرو تے اُتھاں سائن اِن تھیوو۔
 firefoxview-tabpickup-adddevice-learn-how = ڄاݨو کیویں
 firefoxview-tabpickup-adddevice-primarybutton = موبائل کیتے { -brand-product-name } حاصل کرو
+firefoxview-syncedtabs-adddevice-header = آپݨیاں ٻیاں ݙیوائساں تے { -brand-product-name } وچ سائن ان تھیوو
+firefoxview-syncedtabs-adddevice-primarybutton = موبائل کیتے { -brand-product-name } ازماؤ
 firefoxview-tabpickup-synctabs-header = ٹیب ہم وقت کرݨ چالو کرو
 firefoxview-tabpickup-synctabs-description = ڈیوائسز دے درمیان ٹیبز شیئر کرݨ کیتے { -brand-short-name } کوں اجازت ݙیو۔
 firefoxview-tabpickup-synctabs-learn-how = ڄاݨو کیویں
@@ -148,6 +150,7 @@ firefoxview-history-site-localhost = (مقامی فائلاں)
 ##
 
 firefoxview-show-all-history = ساری تاریخ ݙکھاؤ
+firefoxview-view-more-browsing-history = ٻئی براؤزنگ تاریخ ݙیکھو
 
 ## Message displayed in Firefox View when the user has no history data
 
