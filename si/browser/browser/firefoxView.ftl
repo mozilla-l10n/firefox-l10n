@@ -58,6 +58,10 @@ firefoxview-closed-tabs-title = මෑතදී වසා දැමූ
 firefoxview-closed-tabs-description2 = මෙම කවුළුවෙහි වසා දැමූ පිටු නැවත විවෘත කරන්න.
 firefoxview-closed-tabs-placeholder-header = මෑත දී වසා දැමූ පටිති නැත
 firefoxview-closed-tabs-placeholder-body = මෙම කවුළුවේ පටිත්තක් වසා දැමූ විට, ඔබට එය මෙතැනින් ලද හැකිය.
+# Variables:
+#   $tabTitle (string) - Title of tab being dismissed
+firefoxview-closed-tabs-dismiss-tab =
+    .title = { $tabTitle } ඉවතලන්න
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = අවසන සක්‍රිය
 # Variables:
@@ -77,12 +81,16 @@ firefoxview-collapse-button-hide =
     .title = ලේඛනය සඟවන්න
 firefoxview-overview-nav = මෑත පිරික්සුම්
     .title = මෑත පිරික්සුම්
+firefoxview-overview-header = මෑත පිරික්සුම්
+    .title = මෑත පිරික්සුම්
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = ඉතිහාසය
     .title = ඉතිහාසය
 firefoxview-history-header = ඉතිහාසය
+firefoxview-history-context-delete = ඉතිහාසයෙන් මකන්න
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -106,16 +114,41 @@ firefoxview-synced-tabs-header = වෙනත් උපාංගවල පටි
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = සියල්ල බලන්න
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = කවුළුව { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = කවුළුව { $winID } (වත්මන්)
+firefoxview-opentabs-focus-tab =
+    .title = මෙම පටිත්තට මාරුවන්න
+firefoxview-show-more = තව පෙන්වන්න
+firefoxview-show-less = අඩුවෙන් පෙන්වන්න
+firefoxview-sort-history-by-date-label = දිනය අනුව පිළිවෙළට
+firefoxview-sort-history-by-site-label = අඩවිය අනුව පිළිවෙළට
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = අද - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = ඊයේ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ස්ථානීය ගොනු)
 
 ##
 
+firefoxview-show-all-history = සමස්ත ඉතිහාසය පෙන්වන්න
+firefoxview-view-more-browsing-history = තවත් පිරික්සුම් ඉතිහාසය බලන්න
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = ඔබ සිටි තැනට ආපසු යන්න
 
 ##
 
