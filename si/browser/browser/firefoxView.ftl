@@ -149,18 +149,29 @@ firefoxview-view-more-browsing-history = තවත් පිරික්සු�
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = ඔබ සිටි තැනට ආපසු යන්න
+firefoxview-history-empty-description = ඔබ පිරික්සන විට, ඔබ ගොඩවදින පිටු මෙහි අනුපිළිවෙළට දිස්වේ.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = අතිරික්සුව තෝරන්න
+    .title = අතිරික්සුව තෝරන්න
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = කිසිවක් නැත
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = වසන්න
+    .title = වසන්න
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = වෙනත් අතිරික්සුවකින් ඉතිහාසය ආයාත කරන්න
+firefoxview-import-history-description = { -brand-short-name } ඔබගේ දෛනික අතිරික්සුව කරගන්න. පිරික්සුම් ඉතිහාසය, පොත්යොමු සහ අනෙකුත් දෑ ආයාත කරන්න.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

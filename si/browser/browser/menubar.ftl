@@ -38,11 +38,9 @@ menu-quit =
             [windows] x
            *[other] Q
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } වෙතින් ඉවත් වන්න
-
 menu-about =
     .label = { -brand-shorter-name } පිළිබඳව
     .accesskey = A
@@ -218,6 +216,9 @@ menu-history-undo-menu =
     .label = මෑත දී වසා දැමූ පටිති
 menu-history-undo-window-menu =
     .label = මෑත දී වසා දැමූ කවුළු
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = සෙවුම් ඉතිහාසය
 
 ## Bookmarks Menu
 
@@ -230,6 +231,9 @@ menu-bookmark-tab =
     .label = වත්මන් පටිත්තට පොත්යොමුවක්…
 menu-edit-bookmark =
     .label = පොත්යොමුව සංස්කරණය…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = පොත්යොමු සොයන්න
 menu-bookmarks-all-tabs =
     .label = සියළු පොත්යොමු සංස්කරණය…
 menu-bookmarks-toolbar =
@@ -323,6 +327,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = දොස් සෙවීම ප්‍රකාරය අක්‍රිය කරන්න
     .accesskey = M
+menu-help-switch-device =
+    .label = නව උපාංගයකට මාරු වීම
+    .accesskey = N
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
