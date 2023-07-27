@@ -38,11 +38,9 @@ menu-quit =
             [windows] ξ
            *[other] ξ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Έξοδος από το { -brand-shorter-name }
-
 menu-about =
     .label = Σχετικά με το { -brand-shorter-name }
     .accesskey = τ
@@ -221,6 +219,9 @@ menu-history-undo-menu =
     .label = Πρόσφατα κλεισμένες καρτέλες
 menu-history-undo-window-menu =
     .label = Πρόσφατα κλεισμένα παράθυρα
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Αναζήτηση ιστορικού
 
 ## Bookmarks Menu
 

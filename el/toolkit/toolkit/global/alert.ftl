@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Κλείσιμο ειδοποίησης
 alert-settings-title =
     .tooltiptext = Ρυθμίσεις
+
+## Reminder Notifications
+
+notification-default-dismiss = Απόρριψη
