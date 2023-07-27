@@ -357,6 +357,7 @@ identity-weak-encryption = Αυτή η σελίδα δεν χρησιμοποι�
 identity-insecure-login-forms = Τα στοιχεία σύνδεσης που εισάγονται σε αυτήν τη σελίδα ενδέχεται να υποκλαπούν.
 identity-https-only-connection-upgraded = (αναβαθμίστηκε σε HTTPS)
 identity-https-only-label = Λειτουργία «Μόνο HTTPS»
+identity-https-only-label2 = Αυτόματη αναβάθμιση ιστοτόπου σε ασφαλή σύνδεση
 identity-https-only-dropdown-on =
     .label = Ενεργή
 identity-https-only-dropdown-off =
