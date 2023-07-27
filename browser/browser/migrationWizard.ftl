@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Імпорт даних браузера
 migration-wizard-selection-list = Виберіть дані, які потрібно імпортувати.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Виберіть дані, які потріб
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,29 +53,23 @@ migration-selected-data-label = Імпортувати вибрані дані
 
 migration-select-all-option-label = Вибрати все
 migration-bookmarks-option-label = Закладки
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Обране
-
 migration-logins-and-passwords-option-label = Збережені паролі
 migration-history-option-label = Історія перегляду
 migration-extensions-option-label = Розширення
 migration-form-autofill-option-label = Дані автозаповнення форм
 migration-payment-methods-option-label = Способи оплати
-
 migration-cookies-option-label = Куки
 migration-session-option-label = Вікна та вкладки
 migration-otherdata-option-label = Інші дані
-
 migration-passwords-from-file-progress-header = Імпортувати паролі з файлу
 migration-passwords-from-file-success-header = Паролі успішно імпортовано
 migration-passwords-from-file = Перевірка файлу на наявність паролів
 migration-passwords-new = Нові паролі
 migration-passwords-updated = Наявні паролі
-
 migration-passwords-from-file-no-valid-data = Файл не містить даних про паролі. Виберіть інший файл.
-
 migration-passwords-from-file-picker-title = Імпортувати файл з паролями
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -93,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Документ TSV
        *[other] Файл TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -105,7 +96,6 @@ migration-wizard-progress-success-new-passwords =
         [few] Додано { $newEntries }
        *[many] Додано { $newEntries }
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -117,14 +107,11 @@ migration-wizard-progress-success-updated-passwords =
         [few] Оновлено { $updatedEntries }
        *[many] Оновлено { $updatedEntries }
     }
-
 migration-bookmarks-from-file-picker-title = Імпортувати файл закладок
 migration-bookmarks-from-file-progress-header = Імпортування закладок
 migration-bookmarks-from-file = Закладки
 migration-bookmarks-from-file-success-header = Закладки успішно імпортовано
-
 migration-bookmarks-from-file-no-valid-data = Файл не містить даних закладок. Виберіть інший файл.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -132,11 +119,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML-документ
        *[other] HTML-файл
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Файл JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -148,14 +133,12 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } закладки
        *[many] { $newEntries } закладок
     }
-
 migration-import-button-label = Імпорт
 migration-choose-to-import-from-file-button-label = Імпортувати з файлу
 migration-import-from-file-button-label = Вибрати файл
 migration-cancel-button-label = Скасувати
 migration-done-button-label = Готово
 migration-continue-button-label = Продовжити
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } не зміг знайти програми, які містять закладки, історію чи паролі.
 migration-wizard-import-browser-no-resources = Сталася помилка. { -brand-short-name } не зміг знайти дані для імпорту з цього профілю браузера.
 
@@ -166,7 +149,6 @@ migration-wizard-import-browser-no-resources = Сталася помилка. { 
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = закладки
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = обране
@@ -179,12 +161,18 @@ migration-list-payment-methods-label = способи оплати
 ##
 
 migration-wizard-progress-header = Імпортування даних
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Дані успішно імпортовано
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Імпорт даних завершено
 migration-wizard-progress-icon-in-progress =
     .aria-label = Імпортування…
 migration-wizard-progress-icon-completed =
     .aria-label = Завершено
-
 migration-safari-password-import-header = Імпорт паролів із Safari
 migration-safari-password-import-steps-header = Щоб імпортувати паролі з Safari:
 migration-safari-password-import-step1 = У Safari відкрийте меню “Safari” та перейдіть до Параметри > Паролі.
@@ -193,8 +181,6 @@ migration-safari-password-import-step3 = Збережіть файл з паро
 migration-safari-password-import-step4 = Натисніть “Вибрати файл” нижче, щоб вибрати збережений файл з паролями
 migration-safari-password-import-skip-button = Пропустити
 migration-safari-password-import-select-button = Вибрати файл
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -206,7 +192,6 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } закладки
        *[many] { $quantity } закладок
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -236,7 +221,6 @@ migration-wizard-progress-success-extensions =
         [few] { $quantity } розширення
        *[many] { $quantity } розширень
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -244,12 +228,10 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } із { $quantity } розширень
-
 migration-wizard-progress-extensions-support-link = Дізнайтеся, як { -brand-product-name } знаходить відповідні розширення
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Немає відповідних розширень
-
 migration-wizard-progress-extensions-addons-link = Перегляньте розширення для { -brand-short-name }
 
 ##
@@ -265,7 +247,6 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } паролі
        *[many] { $quantity } паролів
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -277,9 +258,7 @@ migration-wizard-progress-success-history =
         [few] За останні { $maxAgeInDays } дні
        *[many] За останні { $maxAgeInDays } днів
     }
-
 migration-wizard-progress-success-formdata = Історія форм
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -291,7 +270,6 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } способи оплати
        *[many] { $quantity } способів оплати
     }
-
 migration-wizard-safari-permissions-sub-header = Щоб імпортувати закладки з Safari та історію перегляду:
 migration-wizard-safari-instructions-continue = Виберіть “Продовжити”
 migration-wizard-safari-instructions-folder = Виберіть теку Safari у списку та виберіть “Відкрити”

@@ -23,14 +23,19 @@ firefoxview-tabpickup-progress-label = { $percentValue }% завершено
 firefoxview-tabpickup-step-signin-header = Легко перемикайтеся між пристроями
 firefoxview-tabpickup-step-signin-description = Щоб побачити тут вкладки зі свого телефона, спершу увійдіть або зареєструйтеся.
 firefoxview-tabpickup-step-signin-primarybutton = Продовжити
+firefoxview-syncedtabs-signin-primarybutton = Увійти або зареєструватися
 firefoxview-tabpickup-adddevice-header = Синхронізуйте { -brand-product-name } на своєму телефоні чи планшеті
 firefoxview-tabpickup-adddevice-description = Завантажте { -brand-product-name } для мобільного та виконайте вхід на ньому.
 firefoxview-tabpickup-adddevice-learn-how = Навчитися
 firefoxview-tabpickup-adddevice-primarybutton = Отримати { -brand-product-name } для мобільного
+firefoxview-syncedtabs-adddevice-header = Увійдіть у { -brand-product-name } на інших своїх пристроях
+firefoxview-syncedtabs-adddevice-primarybutton = Спробуйте { -brand-product-name } для мобільних пристроїв
 firefoxview-tabpickup-synctabs-header = Увімкнути синхронізацію вкладок
 firefoxview-tabpickup-synctabs-description = Дозволити { -brand-short-name } ділитися вкладками між пристроями.
 firefoxview-tabpickup-synctabs-learn-how = Навчитися
 firefoxview-tabpickup-synctabs-primarybutton = Синхронізувати відкриті вкладки
+firefoxview-syncedtabs-synctabs-description = Щоб мати доступ до вкладок з інших пристроїв, потрібно синхронізувати відкриті вкладки.
+firefoxview-syncedtabs-synctabs-checkbox = Дозволити синхронізацію відкритих вкладок
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша організація вимкнула синхронізацію
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може синхронізувати вкладки між пристроями, тому що ваш адміністратор вимкнув синхронізацію.
 firefoxview-tabpickup-network-offline-header = Перевірте своє з'єднання з інтернетом
@@ -46,6 +51,7 @@ firefoxview-tabpickup-password-locked-header = Щоб переглянути в�
 firefoxview-tabpickup-password-locked-description = Щоб отримати доступ до своїх вкладок, необхідно ввести головний пароль для { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Докладніше
 firefoxview-tabpickup-password-locked-primarybutton = Введіть головний пароль
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Докладніше</a>
 firefoxview-tabpickup-signed-out-header = Увійдіть, щоб відновити з'єднання
 firefoxview-tabpickup-signed-out-description = Щоб відновити з'єднання та отримати вкладки, увійдіть у свій { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Увійти
@@ -92,6 +98,8 @@ firefoxview-overview-header = Останні перегляди
 firefoxview-history-nav = Історія
     .title = Історія
 firefoxview-history-header = Історія
+firefoxview-history-context-delete = Видалити з історії
+    .accesskey = В
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +121,7 @@ firefoxview-synced-tabs-header = Вкладки з інших пристроїв
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Переглянути все
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +145,43 @@ firefoxview-history-date-today = Сьогодні - { DATETIME($date, dateStyle:
 firefoxview-history-date-yesterday = Учора - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (локальні файли)
 
 ##
 
 firefoxview-show-all-history = Показати всю історію
+firefoxview-view-more-browsing-history = Переглянути більше історії перегляду
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Поверніться до відвіданих місць
+firefoxview-history-empty-description = Під час перегляду тут з'являтимуться відвідані вами сторінки.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Вибрати браузер
+    .title = Вибрати браузер
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Закрити
+    .title = Закрити
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-description-two = Щоб знайти давніші вкладки, перегляньте свою <a data-l10n-name="history-url">історію перегляду</a>.
+
+##
+

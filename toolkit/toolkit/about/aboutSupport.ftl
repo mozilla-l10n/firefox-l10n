@@ -18,6 +18,10 @@ support-addons-type = Тип
 support-addons-enabled = Увімкнено
 support-addons-version = Версія
 support-addons-id = ID
+legacy-user-stylesheets-title = Застарілі користувацькі таблиці стилів
+legacy-user-stylesheets-enabled = Активні
+legacy-user-stylesheets-stylesheet-types = Таблиці стилів
+legacy-user-stylesheets-no-stylesheets-found = Таблиці стилів не знайдено
 security-software-title = Програмне забезпечення для захисту
 security-software-type = Тип
 security-software-name = Назва
@@ -77,6 +81,7 @@ app-basics-key-mozilla = Ключ Служби визначення розташ
 app-basics-safe-mode = Безпечний режим
 app-basics-memory-size = Обсяг пам'яті (RAM)
 app-basics-disk-available = Доступний простір на диску
+app-basics-pointing-devices = Вказівні пристрої
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -405,3 +410,10 @@ support-remote-experiments-see-about-studies = Перегляньте <a data-l1
 support-remote-features-title = Віддалені функції
 support-remote-features-name = Назва
 support-remote-features-status = Стан
+
+## Pointing devices
+
+pointing-device-mouse = Миша
+pointing-device-touchscreen = Сенсорний екран
+pointing-device-pen-digitizer = Цифрові ручки
+pointing-device-none = Немає вказівних пристроїв

@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Винятки
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адреса сайту
     .accesskey = д
-
 permissions-block =
     .label = Блокувати
     .accesskey = Б
-
 permissions-disable-etp =
     .label = Додати виняток
     .accesskey = в
-
 permissions-session =
     .label = Дозволити на сеанс
     .accesskey = о
-
 permissions-allow =
     .label = Дозволити
     .accesskey = Д
-
 permissions-button-off =
     .label = Вимкнути
     .accesskey = В
-
 permissions-button-off-temporarily =
     .label = Вимкнути тимчасово
     .accesskey = т
-
 permissions-site-name =
     .label = Вебсайт
-
 permissions-status =
     .label = Стан
-
 permissions-remove =
     .label = Вилучити вебсайт
     .accesskey = л
-
 permissions-remove-all =
     .label = Вилучити всі вебсайти
     .accesskey = с
-
 permission-dialog =
     .buttonlabelaccept = Зберегти зміни
     .buttonaccesskeyaccept = З
-
 permissions-autoplay-menu = Типово для всіх вебсайтів:
-
 permissions-searchbox =
     .placeholder = Пошук по сайту
-
 permissions-capabilities-autoplay-allow =
     .label = Дозволити аудіо та відео
 permissions-capabilities-autoplay-block =
     .label = Блокувати аудіо
 permissions-capabilities-autoplay-blockall =
     .label = Блокувати аудіо та відео
-
 permissions-capabilities-allow =
     .label = Дозволити
 permissions-capabilities-block =
     .label = Блокувати
 permissions-capabilities-prompt =
     .label = Завжди питати
-
 permissions-capabilities-listitem-allow =
     .value = Дозволити
 permissions-capabilities-listitem-block =
     .value = Блокувати
 permissions-capabilities-listitem-allow-session =
     .value = Дозволити на сеанс
-
 permissions-capabilities-listitem-off =
     .value = Вимкнено
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Винятки — HTTPS-режим
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з'єднання, щоб захистити ці сайти за допомогою HTTPS. Винятки не стосуються приватних вікон.
+permissions-exceptions-https-only-desc2 = Ви можете вимкнути HTTPS-режим для певних вебсайтів. { -brand-short-name } не намагатиметься оновити з'єднання, щоб захистити ці сайти за допомогою HTTPS.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Налаштування - Дозволи гучномовців
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Ці вебсайти запитували дозвіл на вибір пристрою виводу звуку. Ви можете вказати, яким вебсайтам дозволено вибирати пристрій аудіовиводу.
-
 permissions-exceptions-doh-window =
     .title = Винятки вебсайтів для DNS через HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не використовуватиме захищену DNS на цих сайтах та їхніх піддоменах.
-
 permissions-doh-entry-field = Введіть доменне ім'я вебсайту
     .accesskey = о
-
 permissions-doh-add-exception =
     .label = Додати
     .accesskey = т
-
 permissions-doh-col =
     .label = Домен
-
 permissions-doh-remove =
     .label = Вилучити
     .accesskey = В
-
 permissions-doh-remove-all =
     .label = Вилучити все
     .accesskey = и
