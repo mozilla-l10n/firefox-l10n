@@ -23,6 +23,8 @@ firefoxview-tabpickup-progress-label = Terminé à { $percentValue } %
 firefoxview-tabpickup-step-signin-header = Passez facilement d’un appareil à l’autre
 firefoxview-tabpickup-step-signin-description = Pour récupérer les onglets de votre téléphone ici, commencez par vous connecter ou créer un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Continuer
+firefoxview-syncedtabs-signin-header = Récupérez vos onglets où que vous soyez
+firefoxview-syncedtabs-signin-primarybutton = S’inscrire ou se connecter
 firefoxview-tabpickup-adddevice-header = Synchronisez { -brand-product-name } avec votre téléphone ou votre tablette
 firefoxview-tabpickup-adddevice-description = Téléchargez { -brand-product-name } pour mobile et connectez-vous.
 firefoxview-tabpickup-adddevice-learn-how = Découvrez comment
@@ -46,6 +48,7 @@ firefoxview-tabpickup-password-locked-header = Saisissez votre mot de passe prin
 firefoxview-tabpickup-password-locked-description = Pour récupérer vos onglets, vous devez saisir le mot de passe principal de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = En savoir plus
 firefoxview-tabpickup-password-locked-primarybutton = Saisir le mot de passe principal
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">En savoir plus</a>
 firefoxview-tabpickup-signed-out-header = Identifiez-vous pour vous reconnecter
 firefoxview-tabpickup-signed-out-description = Pour vous reconnecter et récupérer vos onglets, connectez-vous à votre { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Se connecter
@@ -92,6 +95,8 @@ firefoxview-overview-header = Navigation récente
 firefoxview-history-nav = Historique
     .title = Historique
 firefoxview-history-header = Historique
+firefoxview-history-context-delete = Supprimer de l’historique
+    .accesskey = S
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +118,7 @@ firefoxview-synced-tabs-header = Onglets d’autres appareils
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Tout afficher
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +142,41 @@ firefoxview-history-date-today = Aujourd’hui – { DATETIME($date, dateStyle:
 firefoxview-history-date-yesterday = Hier – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (fichiers locaux)
 
 ##
 
 firefoxview-show-all-history = Afficher tout l’historique
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Choisir le navigateur
+    .title = Choisir le navigateur
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Rien à afficher
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Fermer
+    .title = Fermer
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Importer l’historique d’un autre navigateur
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
