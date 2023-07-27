@@ -7,7 +7,6 @@ page-subtitle =
     ایہ ورقہ تکنیکی معلومات تے مشتمل ہے جیڑھی اوں ویلھے مفید تھی سڳدی ہے جݙاں تساں ہوو
     ہک مسئلہ کوں حل کرݨ دی کوشش کریندا پیا ہے۔ جے تساں عام سوالات دے جواب ڳولیندے پئے او۔
     { -brand-short-name } دے بارے ، اساݙی <a data-l10n-name="support-link">سپورٹ ویب سائٹ</a> ݙیکھو۔
-
 crashes-title = کریش رپورٹاں
 crashes-id = رپورٹ ID
 crashes-send-date = جمع تھئے ہوئے
@@ -19,6 +18,7 @@ support-addons-type = قسم
 support-addons-enabled = فعال تھیا
 support-addons-version = ورشن
 support-addons-id = آئی ڈی
+legacy-user-stylesheets-enabled = فعال
 security-software-title = سلامتی سافٹ ویئر
 security-software-type = قسم
 security-software-name = ناں
@@ -78,12 +78,10 @@ app-basics-key-mozilla = موزیلا لوکیشن سروس کلید
 app-basics-safe-mode = محفوظ موڈ
 app-basics-memory-size = میموری سائز (RAM)
 app-basics-disk-available = ڈسک دی جاہ دستیاب ہے۔
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] فائنڈر وچ ݙکھاؤ
@@ -220,7 +218,6 @@ report-crash-for-days =
         [one] چھیکڑی { $days } ݙینہہ دیاں کریش رپورٹاں
        *[other] چھیکڑی { $days } ݙینہاں دیاں کریش رپورٹاں
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -228,7 +225,6 @@ crashes-time-minutes =
         [one] { $minutes } منٹ پہلے
        *[other] { $minutes } منٹ پہلے
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -236,7 +232,6 @@ crashes-time-hours =
         [one] { $hours } گھنٹہ پہلے
        *[other] { $hours } گھنٹے پہلے
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -244,7 +239,6 @@ crashes-time-days =
         [one] { $days } ݙین٘ہ پہلے
        *[other] { $days } ݙین٘ہ پہلے
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -252,7 +246,6 @@ pending-reports =
         [one] تمام کریش رپورٹاں (بشمول { $reports } ݙتے ڳئے وقت دی حد وِچ زیر التواء حادثے)
        *[other] تمام کریش رپورٹاں (بشمول { $reports }{ $reports } ݙتے ڳئے وقت دی حد وِچ زیر التواء کریشز)
     }
-
 raw-data-copied = خام ڈیٹا کلپ بورڈ تے کاپی تھی ڳیا
 text-copied = متن کلپ بورڈ تے کاپی تھی ڳیا۔
 
@@ -265,11 +258,9 @@ blocked-mismatched-version = رجسٹری تے DLL دے درمیان تہاݙے 
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = تہاݙے گرافکس ڈرائیور ورژن کیتے بلاک ہے۔ اپݨے گرافکس ڈرائیور کوں ورژن { $driverVersion } یا ایندے نویں ورژن وِچ اپ ڈیٹ کرݨ دی کوشش کرو۔
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType پیرامیٹر
-
 compositing = کمپوزیٹنگ
 hardware-h264 = ہارڈ ویئر H264 ضابطہ کشائی
 main-thread-no-omtc = مین تھریڈ، کوئی OMTC کائنی۔
@@ -284,7 +275,6 @@ virtual-monitor-disp = ورچوئل مانیٹر ڈسپلے
 
 found = لبھ ڳیا
 missing = لاپتہ
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = تفصیل
@@ -309,19 +299,15 @@ webgl2-driver-extensions = WebGL 2  ڈرائیور ایکسٹنشناں
 webgl2-extensions = WebGL 2 ایکسٹنشناں
 webgpu-default-adapter = WebGPU ڈیفالٹ اڈاپٹر
 webgpu-fallback-adapter = WebGPU فال بیک اڈاپٹر
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = معلوم مسائل دی وجہ توں بلاک لسٹ کیتا ڳیا ہے: <a data-l10n-name="bug-link">بگ { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = بلاک لسٹڈ؛ ناکامی دا کوڈ { $failureCode }
-
 d3d11layers-crash-guard = D3D11 کمپوزیٹر
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = WMF VPX ویڈیو ڈیکوڈر
-
 reset-on-next-restart = اڳلا دوباہ شروع کرݨ تے ولدا ترتیب ݙیوو۔
 gpu-process-kill-button = GPU عمل کوں ختم کرو۔
 gpu-device-reset = ڈیوائس ری سیٹ کرو
@@ -331,10 +317,8 @@ content-uses-tiling = ٹائلنگ دا استعمال کریندا ہے (موا
 off-main-thread-paint-enabled = آف مین تھریڈ پینٹنگ فعال ہے۔
 off-main-thread-paint-worker-count = آف مین تھریڈ پینٹنگ ورکر کاؤنٹ
 target-frame-rate = ٹارگٹ فریم ریٹ
-
 min-lib-versions = متوقع کم از کم ورژن
 loaded-lib-versions = استعمال وچ ورشن
-
 has-seccomp-bpf = Seccomp-BPF (سسٹم کال فلٹرنگ)
 has-seccomp-tsync = Seccomp تھریڈ سنکرونائزیشن
 has-user-namespaces = صارف دے ناں دیاں جاہیں۔
@@ -349,18 +333,15 @@ sandbox-proc-type-content = مواد
 sandbox-proc-type-file = فائل مواد
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
 sandbox-proc-type-data-decoder = ڈیٹا ڈی کوڈر
-
 startup-cache-title = سٹارٹ اپ کیشے
 startup-cache-disk-cache-path = ڈسک کیشے دا راہ
 startup-cache-ignore-disk-cache = ڈسک کیشے کوں اہمیت نہ ݙیوو
 startup-cache-found-disk-cache-on-init = Init تے ڈسک کیشے ملیا
 startup-cache-wrote-to-disk-cache = ڈسک کیشے تے لکھیا
-
 launcher-process-status-0 = فعال تھیا
 launcher-process-status-1 = ناکامی دی وجہ توں معذور
 launcher-process-status-2 = زبردستی معذور
 launcher-process-status-unknown = نامعلوم حیثیت
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -380,7 +361,6 @@ fission-status-enabled-by-user-pref = صارف دے ذریعے فعال کیتا
 fission-status-disabled-by-user-pref = صارف دے ذریعہ غیر فعال
 fission-status-disabled-by-e10s-other = E10s غیر فعال
 fission-status-enabled-by-rollout = مرحلہ وار رول آؤٹ دے ذریعے فعال کیتا ڳیا۔
-
 async-pan-zoom = غیر مطابقت پذیر پین/زوم
 apz-none = کوئی کائنی
 wheel-enabled = وہیل ان پٹ فعال
@@ -417,7 +397,11 @@ support-remote-experiments-title = پروبھرے تجربے
 support-remote-experiments-name = ناں
 support-remote-experiments-branch = تجرباتی ٹنگ
 support-remote-experiments-see-about-studies = ودھیک معلومات کیتے <a data-l10n-name="support-about-studies-link">about:studies</a> ݙیکھو، بشمول انفرادی تجربات کوں کیویں غیر فعال کیتا ونڄے یا { -brand-short-name } کوں اینکوں چلاوݨ کنوں غیر فعال کیتا ونڄے۔ مستقبل وِچ تجربے دی ونکی.
-
 support-remote-features-title = پروبھریاں خصوصیات
 support-remote-features-name = ناں
 support-remote-features-status = حالت
+
+## Pointing devices
+
+pointing-device-mouse = ماؤس
+pointing-device-touchscreen = ٹچ سکرین

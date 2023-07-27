@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = حالیہ بند کیتے ڳئے ٹیب
 menu-history-undo-window-menu =
     .label = حالیہ بند کیتے ڳئے ونڈو
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = تاریخ ڳولو
 
 ## Bookmarks Menu
 
