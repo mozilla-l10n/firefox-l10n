@@ -24,4 +24,4 @@ desktop-entry-keywords = Internet;WWW;Browser;Web;Explorer;
 
 desktop-action-new-window-name = ᱱᱟᱶᱟ ᱡᱷᱚᱨᱠᱟ
 desktop-action-new-private-window-name = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱡᱷᱚᱨᱠᱟ
-desktop-action-open-profile-manager = ᱢᱚᱦᱲᱟ ᱢᱮᱱᱮᱡᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
+desktop-action-open-profile-manager = ᱢᱮᱫᱦᱟᱸ ᱢᱮᱱᱮᱡᱚᱨ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
