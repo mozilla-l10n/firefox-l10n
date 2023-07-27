@@ -21,7 +21,7 @@ account-verify = Gwiriañ { $email }
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
-account-send-to-all-devices-titlecase = Kan d'an holl drvenadoù
+account-send-to-all-devices-titlecase = Kas d’an holl drevnadoù
 account-manage-devices-titlecase = Merañ an trevnadoù...
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link

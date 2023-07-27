@@ -43,6 +43,7 @@ firefoxview-tabpickup-sync-disconnected-header = Gweredekaat ar c'houbredañ evi
 firefoxview-tabpickup-sync-disconnected-description = Evit kaout hoc'h ivinelloù e vo dav deoc'h aotren ar c'houbredañ e { -brand-short-name }.
 firefoxview-tabpickup-sync-disconnected-primarybutton = Gweredekaat ar c'houbredañ en arventennoù
 firefoxview-tabpickup-password-locked-link = Gouzout muioc'h
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Gouzout hiroc’h</a>
 firefoxview-tabpickup-signed-out-primarybutton = Kennaskañ
 firefoxview-tabpickup-syncing = Gortozit e-pad ma vez goubredet hoc'h ivinelloù. Ne bado ket pell.
 firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
@@ -56,6 +57,8 @@ firefoxview-closed-tabs-placeholder-header = N’eus ivinell nevez serret ebet
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
     .title = Skarzhañ { $tabTitle }
+# refers to the last tab that was used
+firefoxview-pickup-tabs-badge = Ivinell implijet diwezhañ
 # Variables:
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
@@ -66,6 +69,7 @@ firefoxview-change-colorway-button = Cheñch liv
 #  $intensity (String): Colorway intensity
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
+firefoxview-synced-tabs-placeholder-header = Netra da welout evit poent
 firefoxview-collapse-button-show =
     .title = Diskouez al listenn
 firefoxview-collapse-button-hide =
@@ -97,7 +101,7 @@ firefoxview-synced-tabs-header = Ivinelloù an trevnadoù all
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Gwelout pep tra
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -119,6 +123,44 @@ firefoxview-sort-history-by-site-label = Rummañ dre lec'hienn
 
 firefoxview-history-date-today = Hiziv - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Dec'h - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (restroù lec’hel)
+
+##
+
+firefoxview-show-all-history = Diskouez ar roll istor a-bezh
+firefoxview-view-more-browsing-history = Gwelout muioc’h a roll istor
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Dibab ur merdeer
+    .title = Dibab ur merdeer
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Netra da ziskouez
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Serriñ
+    .title = Serriñ
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Enporzhiañ roll istor diouzh ur merdeer all
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
 
 ##
 

@@ -34,7 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = Al lec’hienn-mañ a c’houlenn haeziñ ho trevnadoù MIDI (Musical Instrument Digital Interface). Gallout a rit gweredekaat an haeziñ d'an trevnadoù en ur staliañ un enlugellad.
+site-permission-install-first-prompt-midi-header = Al lec’hienn-mañ a c’houlenn haeziñ ouzh ho trobarzhelloù MIDI (Musical Instrument Digital Interface). Gallout a rit gweredekaat an haeziñ d'an drobarzhell en ur staliañ un enlugellad.
 site-permission-install-first-prompt-midi-message = N'eo ket diogel mont betek al lec’hienn-mañ. Kendalc’hit m’ho peus fiziañs enni.
 
 ##
