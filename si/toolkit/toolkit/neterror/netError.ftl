@@ -57,6 +57,8 @@ neterror-dns-not-found-hint-firewall = { -brand-short-name } සඳහා වි
 
 neterror-dns-not-found-trr-only-reason = මෙම අඩවියේ ලිපිනයට අපගේ විශ්වාසදායක ව.නා.ප. පිළිවිසඳුව හරහා { -brand-short-name } මගින් ඔබගේ ඉල්ලීම රැකීමට නොහැකිය. හේතුව:
 neterror-dns-not-found-trr-third-party-warning2 = ඔබගේ පෙරනිමි ව.නා.ප. පිළිවිසඳුව සමඟ ඉදිරියට යාමට හැකිය. කෙසේ වෙතත්, තෙවන පාර්ශ්වයකට ඔබ ගොඩවදින අඩවි මොනවාදැයි බැලීමට හැකිය.
+neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } මගින් { $trrDomain } වෙත සම්බන්ධ වීමට නොහැකි විය.
+neterror-dns-not-found-trr-only-timeout = { $trrDomain } වෙත සම්බන්ධතාවයට අපේක්‍ෂිත කාලයට වඩා ගත විය.
 neterror-dns-not-found-trr-offline = ඔබ අන්තර්ජාලයට සම්බන්ධ වී නැත.
 neterror-dns-not-found-trr-unknown-problem = අනපේක්‍ෂිත ගැටළුවකි.
 
