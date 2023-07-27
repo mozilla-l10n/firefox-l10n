@@ -23,14 +23,23 @@ firefoxview-tabpickup-progress-label = Cumplettà per { $percentValue }%
 firefoxview-tabpickup-step-signin-header = Mida spert dad in apparat a l'auter
 firefoxview-tabpickup-step-signin-description = Per ir qua per tes tabs dal telefonin, t'annunzia l'emprim u creescha in conto.
 firefoxview-tabpickup-step-signin-primarybutton = Cuntinuar
+firefoxview-syncedtabs-signin-header = Va per tes tabs sin mintga apparat
+firefoxview-syncedtabs-signin-description = Per vesair tes tabs sin mintga apparat cun { -brand-product-name }, t'annunzia en tes conto. Sche ti n'has nagin conto, guidain nus tai tras il process da registraziun.
+firefoxview-syncedtabs-signin-primarybutton = S'annunziar u sa registrar
 firefoxview-tabpickup-adddevice-header = Sincronisescha { -brand-product-name } cun tes telefonin u tablet
 firefoxview-tabpickup-adddevice-description = Telechargia { -brand-product-name } per apparats mobils e t'annunzia là.
 firefoxview-tabpickup-adddevice-learn-how = Ve a savair co
 firefoxview-tabpickup-adddevice-primarybutton = Telechargia { -brand-product-name } per apparats mobils
+firefoxview-syncedtabs-adddevice-header = T'annunzia en { -brand-product-name } sin tes auters apparats
+firefoxview-syncedtabs-adddevice-description = Per vesair tes tabs sin mintga apparat cun { -brand-product-name }, t'annunzia sin tut tes apparats. Ve a savair co <a data-l10n-name="url">connectar ulteriurs apparats</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Emprova { -brand-product-name } per apparats mobils
 firefoxview-tabpickup-synctabs-header = Activar la sincronisaziun da tabs
 firefoxview-tabpickup-synctabs-description = Permetter a { -brand-short-name } da cundivider tabs tranter apparats.
 firefoxview-tabpickup-synctabs-learn-how = Ve a savair co far
 firefoxview-tabpickup-synctabs-primarybutton = Sincronisar tabs averts
+firefoxview-syncedtabs-synctabs-header = Actualisescha tes parameters da sincronisaziun
+firefoxview-syncedtabs-synctabs-description = Per vesair tabs dad auters apparats, stos ti sincronisar tes tabs averts.
+firefoxview-syncedtabs-synctabs-checkbox = Permetter la sincronisaziun da tabs averts
 firefoxview-tabpickup-fxa-admin-disabled-header = Tia organisaziun ha deactivà la sincronisaziun
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } n'è betg abel da sincronisar tabs tranter apparats perquai che tes administratur ha deactivà la sincronisaziun.
 firefoxview-tabpickup-network-offline-header = Controllescha tia connexiun cun l'internet
@@ -46,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Endatescha tes pled-clav universa
 firefoxview-tabpickup-password-locked-description = Per ir per tes tabs stos ti endatar il pled-clav universal per { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Ulteriuras infurmaziuns
 firefoxview-tabpickup-password-locked-primarybutton = Endatar il pled-clav universal
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ulteriuras infurmaziuns</a>
 firefoxview-tabpickup-signed-out-header = T\'annunzia per reconnectar
 firefoxview-tabpickup-signed-out-description = Per reconnectar ed ir per tes tabs, t'annunzia en tes { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = S'annunziar
@@ -92,6 +102,8 @@ firefoxview-overview-header = Navigaziun recenta
 firefoxview-history-nav = Cronologia
     .title = Cronologia
 firefoxview-history-header = Cronologia
+firefoxview-history-context-delete = Stizzar da la cronologia
+    .accesskey = d
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +125,7 @@ firefoxview-synced-tabs-header = Tabs dad auters apparats
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Mussar tut
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +149,51 @@ firefoxview-history-date-today = Oz - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ier - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (datotecas localas)
 
 ##
 
 firefoxview-show-all-history = Mussar l'entira cronologia
+firefoxview-view-more-browsing-history = Mussar l'ulteriura cronologia da navigaziun
+
+## Message displayed in Firefox View when the user has no history data
+
+firefoxview-history-empty-header = Turna là nua che ti es stà
+firefoxview-history-empty-description = Durant che ti navigheschas, vegnan las paginas che ti visitas, mussadas qua.
+firefoxview-history-empty-description-two = La protecziun da tias datas è nossa prioritad. Perquai pos ti decider tge activitads che { -brand-short-name } duai memorisar, numnadamain en tes <a data-l10n-name="history-settings-url">parameters da la cronologia</a>.
+
+##
+
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Tscherner in navigatur
+    .title = Tscherner in navigatur
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Nagut per mussar
+firefoxview-dont-remember-history-empty-description = La protecziun da tias datas è nossa prioritad. Perquai pos ti decider tge activitads che { -brand-short-name } duai memorisar.
+firefoxview-dont-remember-history-empty-description-two = Tenor tes parameters actuals, na memorisescha { -brand-short-name } betg tia navigaziun. Per midar quai, <a data-l10n-name="history-settings-url-two">adattescha ils parameters da la cronologia per memorisar tia cronologia</a>.
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Serrar
+    .title = Serrar
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+firefoxview-import-history-header = Importescha la cronologia dad in auter navigatur
+firefoxview-import-history-description = Fa da { -brand-short-name } tes navigatur predefinì. Importescha la cronologia da navigaziun, ils segnapaginas e dapli.
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Serrà memia svelt in tab?
+firefoxview-recentlyclosed-empty-description = Qua vegns ti a chattar ils tabs serrads dacurt, uschia che ti pos reavrir mintgin en in batterdegl.
+firefoxview-recentlyclosed-empty-description-two = Per chattar tabs serrads gia daditg, consultescha tia <a data-l10n-name="history-url">cronologia da navigaziun</a>.
+
+##
+
