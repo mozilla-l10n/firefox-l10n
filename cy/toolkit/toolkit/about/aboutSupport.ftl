@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla Location Service Key
 app-basics-safe-mode = Modd Diogel
 app-basics-memory-size = Maint Cof (RAM)
 app-basics-disk-available = Lle ar Ddisg ar Gael
+app-basics-pointing-devices = Dyfeisiau Pwyntio
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -421,3 +422,10 @@ support-remote-experiments-see-about-studies = Gweler <a data-l10n-name="support
 support-remote-features-title = Nodweddion Pell
 support-remote-features-name = Enw
 support-remote-features-status = Statws
+
+## Pointing devices
+
+pointing-device-mouse = Llygoden
+pointing-device-touchscreen = Sgrin Cyffwrdd
+pointing-device-pen-digitizer = Digidydd Pen
+pointing-device-none = Dim dyfeisiau pwyntio
