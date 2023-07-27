@@ -30,4 +30,4 @@ webext-quarantine-confirmation-allow =
     .accesskey = C
 webext-quarantine-confirmation-deny =
     .label = Peidio â Chaniatáu
-    .accesskey = { "" }
+    .accesskey = C
