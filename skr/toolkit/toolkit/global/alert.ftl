@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = ایں نوٹیفکیشن کوں بند کرو۔
 alert-settings-title =
     .tooltiptext = ترتیباں
+
+## Reminder Notifications
+
+notification-default-dismiss = فارغ کرو

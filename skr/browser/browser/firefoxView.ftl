@@ -49,6 +49,7 @@ firefoxview-tabpickup-password-locked-header = ٹیبز ݙیکھݨ کیتے اپ
 firefoxview-tabpickup-password-locked-description = اپݨیاں ٹیباں کوں حاصل کرݨ کیتے، تہاکوں { -brand-short-name } کیتے منڈھلا پاس ورڈ درج کرݨ دی ضرورت پوسے۔
 firefoxview-tabpickup-password-locked-link = ٻیا سِکھو
 firefoxview-tabpickup-password-locked-primarybutton = منڈھلا پاس ورڈ داخل کرو
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ٻیا سکھو</a>
 firefoxview-tabpickup-signed-out-header = ولدا کنکٹ کرݨ کیتے سائن ان تھیوو
 firefoxview-tabpickup-signed-out-description = اپݨیاں ٹیباں کوں ولدا جوڑݨ تے پکڑݨ کیتے، اپݨے { -fxaccount-brand-name } وِچ سائن ان کرو۔
 firefoxview-tabpickup-signed-out-primarybutton = سائن ان
