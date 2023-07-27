@@ -18,6 +18,8 @@ support-addons-type = Type
 support-addons-enabled = Activé
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-stylesheet-types = Feuilles de style
+legacy-user-stylesheets-no-stylesheets-found = Aucune feuille de style trouvée
 security-software-title = Logiciel de sécurité
 security-software-type = Type
 security-software-name = Nom
@@ -400,3 +402,6 @@ support-remote-experiments-see-about-studies = Consultez <a data-l10n-name="supp
 support-remote-features-title = Fonctionnalités distantes
 support-remote-features-name = Nom
 support-remote-features-status = État
+
+## Pointing devices
+

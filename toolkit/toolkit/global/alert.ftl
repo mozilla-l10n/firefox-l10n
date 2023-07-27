@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Fermer cette notification
 alert-settings-title =
     .tooltiptext = Paramètres
+
+## Reminder Notifications
+
+notification-default-dismiss = Fermer
