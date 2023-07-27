@@ -157,11 +157,11 @@ newtab-label-download = ᱰᱟᱣᱱᱞᱚᱰ ᱦᱩᱭ
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · ᱜᱚᱲᱚᱤᱡ
+newtab-label-sponsored = { $sponsorOrSource } · ᱜᱚᱲᱚᱭᱤᱡ
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
-newtab-label-sponsored-by = ᱜᱚᱲᱚᱤᱡ ᱫᱚ { $sponsor }
+newtab-label-sponsored-by = ᱜᱚᱲᱚᱭᱤᱡ ᱫᱚ { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
