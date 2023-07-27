@@ -18,6 +18,10 @@ support-addons-type = Tip
 support-addons-enabled = Activà
 support-addons-version = Versiun
 support-addons-id = ID
+legacy-user-stylesheets-title = Stylesheets utilisaders (legacy)
+legacy-user-stylesheets-enabled = Activ
+legacy-user-stylesheets-stylesheet-types = Stylesheets
+legacy-user-stylesheets-no-stylesheets-found = Na chattà nagins stylesheets
 security-software-title = Software da segirezza
 security-software-type = Tip
 security-software-name = Num
@@ -400,3 +404,6 @@ support-remote-experiments-see-about-studies = Consultar <a data-l10n-name="supp
 support-remote-features-title = Funcziunalitads a distanza
 support-remote-features-name = Num
 support-remote-features-status = Status
+
+## Pointing devices
+

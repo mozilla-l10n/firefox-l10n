@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Memorisar la pagina
 about-webrtc-debug-mode-msg-label = Modus per chattar sbagls
 about-webrtc-debug-mode-off-state-label = Lantschar il modus per chattar sbagls
 about-webrtc-debug-mode-on-state-label = Fermar il modus per chattar sbagls
+about-webrtc-enable-logging-label = Activar la preselecziun da protocollaziun per WebRTC
 about-webrtc-stats-heading = Statistica da la sesida
 about-webrtc-stats-clear = Stizzar la cronologia
 about-webrtc-log-heading = Connection Log
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = memorisà la pagina sut: { $path }
 about-webrtc-debug-mode-off-state-msg = il protocol dal decurs sa chatta qua: { $path }
 about-webrtc-debug-mode-on-state-msg = modus per chattar sbagls activ, protocol dal decurs sut: { $path }
 about-webrtc-aec-logging-off-state-msg = datotecas da protocols registrads sa chattan qua: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Memorisà la pagina sut: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Il protocol dal decurs sa chatta qua: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Modus per chattar sbagls activ, protocol dal decurs sut: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,6 +309,9 @@ about-webrtc-hide-msg-sdp = Zuppentar il SDP
 about-webrtc-media-context-show-msg = Mussar il context da multimedia
 about-webrtc-media-context-hide-msg = Zuppentar il context da multimedia
 about-webrtc-media-context-heading = Context multimedia
+
+##
+
 
 ##
 

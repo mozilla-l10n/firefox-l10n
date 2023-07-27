@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = Tabs serrads dacurt
 menu-history-undo-window-menu =
     .label = Fanestras serradas dacurt
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Tschertgar en la cronologia
 
 ## Bookmarks Menu
 
