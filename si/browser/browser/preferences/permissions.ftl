@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = හැරදැමීම්
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = අඩවියේ ලිපිනය
     .accesskey = d
-
 permissions-block =
     .label = අවහිර
     .accesskey = B
-
 permissions-disable-etp =
     .label = හැරදැමීමක් යොදන්න
     .accesskey = E
-
 permissions-session =
     .label = වාරයට ඉඩදෙන්න
     .accesskey = S
-
 permissions-allow =
     .label = ඉඩ දෙන්න
     .accesskey = A
-
 permissions-button-off =
     .label = අක්‍රිය කරන්න
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = තාවකාලිකව අක්‍රිය කරන්න
     .accesskey = T
-
 permissions-site-name =
     .label = අඩවිය
-
 permissions-status =
     .label = තත්‍වය
-
 permissions-remove =
     .label = අඩවිය ඉවත් කරන්න
     .accesskey = R
-
 permissions-remove-all =
     .label = සියළු අඩවි ඉවත් කරන්න
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = වෙනස්කම් සුරකින්න
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = සියළුම අඩවි සඳහා මකන්න:
-
 permissions-searchbox =
     .placeholder = අඩවිය සොයන්න
-
 permissions-capabilities-autoplay-allow =
     .label = ශ්‍රව්‍ය හා දෘශ්‍ය සඳහා ඉඩදෙන්න
 permissions-capabilities-autoplay-block =
     .label = හඬ අවහිර කරන්න
 permissions-capabilities-autoplay-blockall =
     .label = ශ්‍රව්‍ය හා දෘශ්‍ය අවහිර කරන්න
-
 permissions-capabilities-allow =
     .label = ඉඩ දෙන්න
 permissions-capabilities-block =
     .label = අවහිර
 permissions-capabilities-prompt =
     .label = සැමවිට අසන්න
-
 permissions-capabilities-listitem-allow =
     .value = ඉඩ දෙන්න
 permissions-capabilities-listitem-block =
     .value = අවහිර
 permissions-capabilities-listitem-allow-session =
     .value = වාරයට ඉඩදෙන්න
-
 permissions-capabilities-listitem-off =
     .value = අක්‍රිය
 permissions-capabilities-listitem-off-temporarily =
@@ -195,21 +176,20 @@ permissions-site-microphone-disable-desc = ඉහත ලේඛනගත කර �
 permissions-site-speaker-window =
     .title = සැකසුම් - විකාශකයේ අවසර
     .style = { permissions-window2.style }
-
+permissions-exceptions-doh-window =
+    .title = HTTPS හරහා ව.නා.ප. සඳහා අඩවි හැරදැමීම්
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name } මෙම අඩවි හා ඒවායේ උප වසම් සඳහා ආරක්‍ෂිත ව.නා.ප. භාවිතා නොකරයි
 permissions-doh-entry-field = අඩවියේ වසම් නාමය යොදන්න
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = එකතු
     .accesskey = A
-
 permissions-doh-col =
     .label = වසම
-
 permissions-doh-remove =
     .label = ඉවත් කරන්න
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = සියල්ල ඉවත් කරන්න
     .accesskey = e
