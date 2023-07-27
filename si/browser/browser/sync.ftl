@@ -16,6 +16,14 @@ fxa-menu-turn-on-sync =
 fxa-menu-turn-on-sync-default = සමමුහූර්තය සක්‍රිය කරන්න
 fxa-menu-connect-another-device =
     .label = අන් උපාංගයක් සබඳින්න...
+# Variables:
+#   $tabCount (Number): The number of tabs sent to the device.
+fxa-menu-send-tab-to-device =
+    .label =
+        { $tabCount ->
+            [1] උපාංගයට පටිත්ත යවන්න
+           *[other] උපාංගයට පටිති { $tabCount } ක් යවන්න
+        }
 # This is shown dynamically within "Send tab to device" in fxa menu.
 fxa-menu-send-tab-to-device-syncnotready =
     .label = උපාංග සමමුහූර්ත වෙමින්...

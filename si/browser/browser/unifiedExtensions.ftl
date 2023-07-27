@@ -20,23 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = { $extensionName } සඳහා වට්ටෝරුව අරින්න
-
 unified-extensions-item-message-manage = දිගුව කළමනාකරණය
 
 ## Extension's context menu
 
+unified-extensions-context-menu-pin-to-toolbar =
+    .label = මෙවලම් තීරුවට අමුණන්න
 unified-extensions-context-menu-manage-extension =
     .label = දිගුව කළමනාකරණය
-
 unified-extensions-context-menu-remove-extension =
     .label = දිගුව ඉවත් කරන්න
-
 unified-extensions-context-menu-report-extension =
     .label = දිගුව වාර්තා කරන්න
-
 unified-extensions-context-menu-move-widget-up =
     .label = ඉහළට ගෙනයන්න
-
 unified-extensions-context-menu-move-widget-down =
     .label = පහළට ගෙනයන්න
 

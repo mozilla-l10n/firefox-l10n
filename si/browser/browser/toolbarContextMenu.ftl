@@ -20,6 +20,8 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = සියළු පටිති තෝරන්න
     .accesskey = S
+# Variables
+#   $tabCount (number) - Number of tabs
 toolbar-context-menu-reopen-closed-tabs =
     .label =
         { $tabCount ->
@@ -27,21 +29,18 @@ toolbar-context-menu-reopen-closed-tabs =
            *[other] වැසූ පටිති යළි අරින්න
         }
     .accesskey = o
-
 toolbar-context-menu-manage-extension =
     .label = දිගුව කළමනාකරණය
     .accesskey = E
 toolbar-context-menu-remove-extension =
     .label = දිගුව ඉවත් කරන්න
     .accesskey = v
-
 # This label is used in the extensions toolbar buttons context menus,
 # a user can use this command to submit to Mozilla an abuse report
 # related to that extension. "Report" is a verb.
 toolbar-context-menu-report-extension =
     .label = දිගුව වාර්තා කරන්න
     .accesskey = o
-
 # Can appear on the same context menu as toolbar-context-menu-menu-bar-cmd
 # ("Menu Bar") and personalbarCmd ("Bookmarks Toolbar"), so they should
 # have different access keys.
@@ -60,7 +59,11 @@ toolbar-context-menu-view-customize-toolbar =
 toolbar-context-menu-view-customize-toolbar-2 =
     .label = මෙවලම් තීරුව රිසිකරණය…
     .accesskey = C
-
+# This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
+# is hidden, so they can share access keys.
+toolbar-context-menu-pin-to-toolbar =
+    .label = මෙවලම් තීරුවට අමුණන්න
+    .accesskey = P
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = සැමවිට පෙන්වන්න
     .accesskey = A
@@ -70,11 +73,9 @@ toolbar-context-menu-bookmarks-toolbar-never-show-2 =
 toolbar-context-menu-bookmarks-toolbar-on-new-tab-2 =
     .label = නව පටිත්ත මත පමණක් පෙන්වන්න
     .accesskey = O
-
 toolbar-context-menu-bookmarks-show-other-bookmarks =
     .label = වෙනත් පොත්යොමු පෙන්වන්න
     .accesskey = h
-
 toolbar-context-menu-menu-bar-cmd =
     .toolbarname = වට්ටෝරු තීරුව
     .accesskey = M
