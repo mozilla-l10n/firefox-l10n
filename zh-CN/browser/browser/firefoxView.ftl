@@ -66,7 +66,7 @@ firefoxview-closed-tabs-title = 最近关闭
 firefoxview-closed-tabs-description2 = 再次打开您在此窗口关闭的页面。
 firefoxview-closed-tabs-placeholder-header = 暂无最近关闭的标签页
 firefoxview-closed-tabs-placeholder-body = 此窗口中关闭的标签页，可在该处找回。
-firefoxview-closed-tabs-placeholder-body2 = 关闭选项卡后可在此处找回。
+firefoxview-closed-tabs-placeholder-body2 = 关闭标签页后，可在此处找回。
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
