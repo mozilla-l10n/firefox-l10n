@@ -78,6 +78,7 @@ app-basics-key-mozilla = Nyckel Mozilla Location Service
 app-basics-safe-mode = Felsäkert läge
 app-basics-memory-size = Minnesstorlek (RAM)
 app-basics-disk-available = Tillgängligt diskutrymme
+app-basics-pointing-devices = Pekdon
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,9 @@ support-remote-experiments-see-about-studies = Se <a data-l10n-name="support-abo
 support-remote-features-title = Fjärrfunktioner
 support-remote-features-name = Namn
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-mouse = Mus
+pointing-device-touchscreen = Pekskärm
+pointing-device-none = Inga pekdon
