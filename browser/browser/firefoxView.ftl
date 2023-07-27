@@ -23,17 +23,21 @@ firefoxview-tabpickup-progress-label = { $percentValue }% завершено
 firefoxview-tabpickup-step-signin-header = Легко перемикайтеся між пристроями
 firefoxview-tabpickup-step-signin-description = Щоб побачити тут вкладки зі свого телефона, спершу увійдіть або зареєструйтеся.
 firefoxview-tabpickup-step-signin-primarybutton = Продовжити
+firefoxview-syncedtabs-signin-header = Отримайте доступ до своїх вкладок звідусіль
+firefoxview-syncedtabs-signin-description = Щоб побачити свої вкладки на інших пристроях, на яких ви користуєтеся { -brand-product-name }, увійдіть у свій обліковий запис. Якщо у вас немає облікового запису, ми допоможемо вам зареєструватися.
 firefoxview-syncedtabs-signin-primarybutton = Увійти або зареєструватися
 firefoxview-tabpickup-adddevice-header = Синхронізуйте { -brand-product-name } на своєму телефоні чи планшеті
 firefoxview-tabpickup-adddevice-description = Завантажте { -brand-product-name } для мобільного та виконайте вхід на ньому.
 firefoxview-tabpickup-adddevice-learn-how = Навчитися
 firefoxview-tabpickup-adddevice-primarybutton = Отримати { -brand-product-name } для мобільного
 firefoxview-syncedtabs-adddevice-header = Увійдіть у { -brand-product-name } на інших своїх пристроях
+firefoxview-syncedtabs-adddevice-description = Щоб побачити свої вкладки з інших пристроїв, на яких ви користуєтеся { -brand-product-name }, увійдіть на всіх своїх пристроях. Дізнайтеся, як <a data-l10n-name="url">під'єднати додаткові пристрої</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Спробуйте { -brand-product-name } для мобільних пристроїв
 firefoxview-tabpickup-synctabs-header = Увімкнути синхронізацію вкладок
 firefoxview-tabpickup-synctabs-description = Дозволити { -brand-short-name } ділитися вкладками між пристроями.
 firefoxview-tabpickup-synctabs-learn-how = Навчитися
 firefoxview-tabpickup-synctabs-primarybutton = Синхронізувати відкриті вкладки
+firefoxview-syncedtabs-synctabs-header = Оновіть налаштування синхронізації
 firefoxview-syncedtabs-synctabs-description = Щоб мати доступ до вкладок з інших пристроїв, потрібно синхронізувати відкриті вкладки.
 firefoxview-syncedtabs-synctabs-checkbox = Дозволити синхронізацію відкритих вкладок
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша організація вимкнула синхронізацію
@@ -159,6 +163,7 @@ firefoxview-view-more-browsing-history = Переглянути більше і�
 
 firefoxview-history-empty-header = Поверніться до відвіданих місць
 firefoxview-history-empty-description = Під час перегляду тут з'являтимуться відвідані вами сторінки.
+firefoxview-history-empty-description-two = Захист вашої приватності — основа нашої діяльності. Ось чому ви можете контролювати дії, які запам'ятовує { -brand-short-name }, у своїх <a data-l10n-name="history-settings-url">налаштуваннях історії</a>.
 
 ##
 
@@ -168,6 +173,9 @@ firefoxview-choose-browser-button = Вибрати браузер
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Немає елементів для показу
+firefoxview-dont-remember-history-empty-description = Захист вашої приватності — основа нашої діяльності. Ось чому ви можете контролювати діяльність, яку запам'ятовує { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = На основі поточних налаштувань, { -brand-short-name } не зберігає ваші дії під час перегляду. <a data-l10n-name="history-settings-url-two">Змініть налаштування</a>, щоб історія зберігалась.
 
 ##
 
@@ -178,9 +186,13 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Імпортуйте історію з іншого браузера
+firefoxview-import-history-description = Зробіть { -brand-short-name } своїм основним браузером. Імпортуйте історію перегляду, закладки тощо.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Завчасно закрили вкладку?
+firefoxview-recentlyclosed-empty-description = Тут ви знайдете нещодавно закриті вкладки, які можна за потреби знову швидко відкрити.
 firefoxview-recentlyclosed-empty-description-two = Щоб знайти давніші вкладки, перегляньте свою <a data-l10n-name="history-url">історію перегляду</a>.
 
 ##
