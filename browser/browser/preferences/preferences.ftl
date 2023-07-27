@@ -1178,6 +1178,7 @@ space-alert-over-5gb-settings-button =
     .label = සැකසුම් අරින්න
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } සඳහා තැටියේ ඉඩ අවසන් වෙමින් පවතී.</strong> අඩවිවල අන්තර්ගත නිසි ලෙස නොපෙන්වනු ඇත. ඔබට සැකසුම් > පෞද්ගලිකත්‍වය සහ ආරක්‍ෂාව > දත්තකඩ සහ අඩවි දත්ත හරහා ගබඩා වී තිබෙන දත්ත මැකීමට හැකිය.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } සඳහා තැටියේ ඉඩ අවසන් වෙමින් පවතී.</strong> අඩවිවල අන්තර්ගතය හරිහැටි නොපෙන්වනු ඇත. වඩාත් හොඳින් පිරික්සීමට ඔබගේ තැටිය ප්‍රශස්තකරණයට “තව දැනගන්න” වෙත ගොඩවදින්න.
 
 ## Privacy Section - HTTPS-Only
 
