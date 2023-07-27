@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Eithriadau
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Cyfeiriad y wefan
     .accesskey = y
-
 permissions-block =
     .label = Rhwystro
     .accesskey = R
-
 permissions-disable-etp =
     .label = Ychwanegu Eithriad
     .accesskey = E
-
 permissions-session =
     .label = Caniatáu ar gyfer y Sesiwn
     .accesskey = S
-
 permissions-allow =
     .label = Caniatáu
     .accesskey = a
-
 permissions-button-off =
     .label = Diffodd
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Diffodd Dros Dro
     .accesskey = D
-
 permissions-site-name =
     .label = Gwefan
-
 permissions-status =
     .label = Statws
-
 permissions-remove =
     .label = Tynnu Gwefan
     .accesskey = T
-
 permissions-remove-all =
     .label = Tynnu Pob Gwefan
     .accesskey = G
-
 permission-dialog =
     .buttonlabelaccept = Cadw Newidiadau
     .buttonaccesskeyaccept = N
-
 permissions-autoplay-menu = Y rhagosodedig am bob gwefan:
-
 permissions-searchbox =
     .placeholder = Chwilio'r Wefan
-
 permissions-capabilities-autoplay-allow =
     .label = Caniatáu Sain a Fideo
 permissions-capabilities-autoplay-block =
     .label = Rhwystro Sain
 permissions-capabilities-autoplay-blockall =
     .label = Rhwystro Sain a Fideo
-
 permissions-capabilities-allow =
     .label = Caniatáu
 permissions-capabilities-block =
     .label = Rhwystro
 permissions-capabilities-prompt =
     .label = Gofyn bob Tro
-
 permissions-capabilities-listitem-allow =
     .value = Caniatáu
 permissions-capabilities-listitem-block =
     .value = Rhwystro
 permissions-capabilities-listitem-allow-session =
     .value = Caniatáu ar gyfer y Sesiwn
-
 permissions-capabilities-listitem-off =
     .value = Diffodd
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Eithriadau - Modd HTTPS-yn-Unig
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Gallwch ddiffodd Modd HTTPS-yn-Unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny. Nid oes eithriadau ar gyfer ffenestri preifat.
+permissions-exceptions-https-only-desc2 = Gallwch ddiffodd y Modd HTTPS-yn-Unig ar gyfer gwefannau penodol. Ni fydd { -brand-short-name } yn ceisio uwchraddio'r cysylltiad i sicrhau HTTPS ar gyfer y gwefannau hynny.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Gosodiadau - Caniatâd Seinydd
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Mae'r gwefannau canlynol wedi gofyn i gael anfon hysbysiadau atoch. Gallwch ddewis pa wefannau sy'n cael anfon hysbysiadau atoch chi.
-
 permissions-exceptions-doh-window =
     .title = Eithriadau Gwefan DNS dros HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = Ni fydd { -brand-short-name } yn defnyddio DNS diogel ar y gwefannau hyn na'u his-barthau.
-
 permissions-doh-entry-field = Rhowch enw parth y wefan
     .accesskey = R
-
 permissions-doh-add-exception =
     .label = Ychwanegu
     .accesskey = Y
-
 permissions-doh-col =
     .label = Parth
-
 permissions-doh-remove =
     .label = Tynnu
     .accesskey = T
-
 permissions-doh-remove-all =
     .label = Tynnu'r Cyfan
     .accesskey = C
