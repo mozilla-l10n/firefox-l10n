@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Ngoại trừ
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Địa chỉ của trang web
     .accesskey = d
-
 permissions-block =
     .label = Chặn
     .accesskey = C
-
 permissions-disable-etp =
     .label = Thêm ngoại trừ
     .accesskey = E
-
 permissions-session =
     .label = Cho phép theo phiên
     .accesskey = S
-
 permissions-allow =
     .label = Cho phép
     .accesskey = h
-
 permissions-button-off =
     .label = Tắt
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Tắt tạm thời
     .accesskey = T
-
 permissions-site-name =
     .label = Trang web
-
 permissions-status =
     .label = Trạng thái
-
 permissions-remove =
     .label = Xóa trang web
     .accesskey = R
-
 permissions-remove-all =
     .label = Xóa tất cả các trang web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Lưu thay đổi
     .buttonaccesskeyaccept = L
-
 permissions-autoplay-menu = Mặc định cho tất cả các trang web:
-
 permissions-searchbox =
     .placeholder = Tìm kiếm trang web
-
 permissions-capabilities-autoplay-allow =
     .label = Cho phép âm thanh và video
 permissions-capabilities-autoplay-block =
     .label = Chặn âm thanh
 permissions-capabilities-autoplay-blockall =
     .label = Chặn âm thanh và video
-
 permissions-capabilities-allow =
     .label = Cho phép
 permissions-capabilities-block =
     .label = Chặn
 permissions-capabilities-prompt =
     .label = Luôn hỏi
-
 permissions-capabilities-listitem-allow =
     .value = Cho phép
 permissions-capabilities-listitem-block =
     .value = Chặn
 permissions-capabilities-listitem-allow-session =
     .value = Cho phép theo phiên
-
 permissions-capabilities-listitem-off =
     .value = Tắt
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Ngoại trừ - Chế độ chỉ HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không cố gắng nâng cấp kết nối để bảo mật HTTPS cho các trang web đó. Các trường hợp ngoại lệ không áp dụng cho các cửa sổ riêng tư.
+permissions-exceptions-https-only-desc2 = Bạn có thể tắt Chế độ chỉ HTTPS cho các trang web cụ thể. { -brand-short-name } sẽ không nâng cấp kết nối để bảo mật HTTPS cho các trang web đó.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Cài đặt - Quyền thiết bị loa
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Các trang web sau đã yêu cầu chọn thiết bị đầu ra âm thanh. Bạn có thể chỉ định trang web nào được phép chọn thiết bị đầu ra âm thanh.
-
 permissions-exceptions-doh-window =
     .title = Ngoại trừ trang web cho DNS qua HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } sẽ không sử dụng DNS bảo mật trên các trang web này và tên miền phụ của chúng.
-
 permissions-doh-entry-field = Nhập tên miền trang web
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Thêm
     .accesskey = A
-
 permissions-doh-col =
     .label = Tên miền
-
 permissions-doh-remove =
     .label = Xóa
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = Xóa tất cả
     .accesskey = e
