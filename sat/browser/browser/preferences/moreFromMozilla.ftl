@@ -8,22 +8,16 @@
 more-from-moz-title = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
 more-from-moz-category =
     .tooltiptext = { -vendor-short-name } ᱠᱷᱚᱱ ᱰᱷᱮᱨ ᱜᱮ
-
 more-from-moz-subtitle = ᱮᱴᱟᱜ { -vendor-short-name } ᱡᱤᱱᱤᱥ ᱠᱚ ᱧᱮᱞ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫ ᱵᱮᱥ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱫᱤᱥᱟᱹᱠᱚᱨᱮ ᱜᱚᱲᱚ ᱮᱢᱚᱜᱼᱟᱭ ᱾
-
 more-from-moz-firefox-mobile-title = { -brand-product-name } ᱢᱳᱵᱟᱭᱤᱞ
 more-from-moz-firefox-mobile-description = ᱢᱚᱵᱟᱭᱤᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱯᱩᱭᱞᱩ ᱨᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
-more-from-moz-mozilla-vpn-description = ᱟᱱᱚᱱᱤᱢᱮᱥ ᱵᱽᱨᱟᱩᱡᱷᱟᱭᱤᱝ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱞᱚᱨᱚᱛ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱡᱟᱝ ᱢᱮ ᱾
-
+more-from-moz-mozilla-vpn-description = ᱟᱱᱚᱱᱤᱢᱮᱥ ᱵᱽᱨᱟᱩᱡᱷᱟᱭᱤᱝ ᱟᱨ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱞᱚᱨᱚᱛ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱡᱟᱝ ᱢᱮ ᱾
 more-from-moz-qr-code-box-firefox-mobile-title = ᱟᱢᱟᱜ ᱢᱳᱵᱟᱭᱤᱞ ᱥᱟᱫᱷᱚᱱ ᱵᱮᱵᱷᱟᱨ ᱟᱛᱮ ᱰᱟᱣᱩᱱᱞᱚᱰ ᱢᱮ ᱾ QR ᱠᱳᱰ ᱨᱮ ᱟᱢᱟᱜ ᱠᱮᱢᱨᱟ ᱩᱫᱩᱜᱽ ᱢᱮ ᱾ ᱡᱩᱫᱤ ᱢᱤᱫ ᱞᱤᱝᱠ ᱧᱮᱞᱚᱜ-ᱟ, ᱚᱱᱟ ᱨᱮ ᱴᱤᱯᱟᱹᱣ ᱢᱮ ᱾
 more-from-moz-qr-code-box-firefox-mobile-button = ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱤᱢᱮᱞ ᱵᱷᱮᱡᱟᱭ ᱢᱮ
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = { -brand-product-name } ᱢᱚᱵᱟᱭᱤᱱ ᱰᱟᱣᱱᱞᱚᱰ ᱞᱟᱹᱜᱤᱫ QR ᱠᱳᱰ
-
 more-from-moz-button-mozilla-vpn-2 = VPN ᱟᱹᱜᱩᱭ ᱢᱮ
-
 more-from-moz-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page

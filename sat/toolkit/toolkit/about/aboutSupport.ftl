@@ -184,7 +184,7 @@ media-codec-support-hw-decoding = ᱦᱟᱰᱣᱮᱨ ᱰᱤᱠᱳᱰᱤᱝ
 media-codec-support-codec-name = ᱠᱚᱰᱮᱠ ᱧᱩᱛᱩᱢ
 media-codec-support-supported = ᱜᱚᱲᱚᱣᱟᱜ
 media-codec-support-unsupported = ᱵᱟᱝ ᱜᱚᱲᱚᱣᱟᱜ
-media-codec-support-error = ᱠᱳᱰᱮᱠ ᱜᱚᱲᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾ ᱢᱤᱫᱴᱟᱹᱝ ᱢᱤᱰᱤᱭᱟ ᱨᱮᱫᱽ ᱮᱢ ᱪᱷᱚ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+media-codec-support-error = ᱠᱳᱰᱮᱠ ᱜᱚᱲᱚ ᱵᱤᱵᱨᱚᱬ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ ᱾ ᱢᱤᱫᱴᱟᱝ ᱢᱤᱰᱤᱭᱟ ᱨᱮᱫᱽ ᱮᱢ ᱪᱷᱚ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 
 ##
 
@@ -398,7 +398,7 @@ support-printing-prefs-value = ᱜᱚᱱᱚᱝ
 support-remote-experiments-title = ᱨᱤᱢᱚᱴ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴᱠᱚ
 support-remote-experiments-name = ᱧᱩᱛᱩᱢ
 support-remote-experiments-branch = ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱰᱟᱹᱨ
-support-remote-experiments-see-about-studies = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-about-studies-link">about:studies</a>ᱧᱮᱞ ᱢᱮ, ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱚᱱ ᱵᱸᱚᱫ ᱟ ᱥᱮ { -brand-short-name } ᱫᱚ ᱱᱮᱶᱟ ᱯᱨᱚᱠᱟᱨᱟᱜ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱫᱚ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱚᱱ ᱪᱟᱹᱞᱩᱭᱟ ᱾
+support-remote-experiments-see-about-studies = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-about-studies-link">about:studies</a>ᱧᱮᱞ ᱢᱮ, ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱝ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱚᱱ ᱵᱸᱚᱫ ᱟ ᱥᱮ { -brand-short-name } ᱫᱚ ᱱᱮᱶᱟ ᱯᱨᱚᱠᱟᱨᱟᱜ ᱮᱠᱥᱯᱮᱨᱤᱢᱮᱱᱴ ᱫᱚ ᱵᱷᱚᱵᱤᱥᱚᱛ ᱨᱮ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱵᱚᱱ ᱪᱟᱹᱞᱩᱭᱟ ᱾
 support-remote-features-title = ᱨᱤᱢᱚᱴ ᱯᱷᱤᱪᱚᱨᱠᱚ
 support-remote-features-name = ᱧᱩᱛᱩᱢ
 support-remote-features-status = ᱫᱚᱥᱟ

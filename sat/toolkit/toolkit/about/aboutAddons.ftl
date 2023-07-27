@@ -230,7 +230,7 @@ shortcuts-duplicate = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+shortcuts-duplicate-warning-message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -406,7 +406,7 @@ addon-badge-verified2 =
 available-updates-heading = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ
 recent-updates-heading = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱜ ᱠᱚ
 release-notes-loading = ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ…
-release-notes-error = ᱤᱠᱟᱹ, ᱢᱮᱱᱠᱷᱟᱱ ᱨᱤᱞᱤᱡᱽ ᱱᱚᱴ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+release-notes-error = ᱤᱠᱟᱹ, ᱢᱮᱱᱠᱷᱟᱱ ᱨᱤᱞᱤᱡᱽ ᱱᱚᱴ ᱞᱟᱫᱮ ᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
 addon-permissions-empty = ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱨᱮ ᱡᱟᱦᱟᱸ ᱦᱚᱠ ᱞᱟᱹᱠᱛᱤ ᱵᱟᱹᱱᱩᱜ ᱟᱹᱱᱤᱡ
 addon-permissions-required = ᱠᱚᱨ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱫᱟᱣ:
 addon-permissions-optional = ᱢᱚᱱᱮ ᱞᱮᱠᱟᱱᱟᱜ ᱫᱟᱣ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱮᱞᱮᱫ ᱠᱟᱱᱟ :

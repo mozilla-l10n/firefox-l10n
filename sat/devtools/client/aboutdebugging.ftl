@@ -90,7 +90,7 @@ about-debugging-setup-intro = ᱡᱩᱲᱟᱹᱣ ᱛᱚᱨᱠᱟ ᱥᱮᱴ ᱢ�
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox2 = ᱮᱠᱥᱴᱮᱱᱥᱚᱱᱠᱚ ᱟᱨ ᱥᱟᱹᱨᱵᱷᱤᱥ ᱣᱟᱨᱠᱚᱨᱥᱠᱚ ᱰᱮᱵᱚᱜᱽ ᱞᱟᱹᱜᱤᱫ <a>{ about-debugging-this-firefox-runtime-name }</a> ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱱᱚᱶᱟ { -brand-shorter-name } ᱦᱟᱹᱞᱤᱭᱟᱠ ᱨᱮ ᱾
 # Title of the heading Connect section of the Setup page.
-about-debugging-setup-connect-heading = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ ᱢᱮ
+about-debugging-setup-connect-heading = ᱢᱤᱫᱴᱟᱝ ᱥᱟᱫᱷᱚᱱ ᱡᱩᱲᱟᱹᱣ ᱢᱮ
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
@@ -188,7 +188,7 @@ about-debugging-runtime-service-workers-not-compatible = ᱟᱢᱟᱜ ᱵᱽᱨ�
 # "Troubleshooting" link points to https://firefox-source-docs.mozilla.org/devtools-user/about_colon_debugging/
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱢᱟᱨᱮ ({ $runtimeVersion }) ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱠᱚᱢ ᱥᱮ ᱥᱚᱢ ᱥᱚᱦᱚᱫᱽ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱫᱚ ({ $minVersion }) ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱝ ᱥᱚᱦᱚᱫ ᱥᱮᱴᱮᱯ ᱠᱟᱱᱟ ᱟᱨ DevTools ᱫᱚ ᱠᱷᱟᱨᱚᱯ ᱪᱷᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾<a>ᱜᱚᱲᱚᱫᱩᱣᱟᱹᱨ</a>
+about-debugging-browser-version-too-old = ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱢᱟᱨᱮ ({ $runtimeVersion }) ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱠᱚᱢ ᱥᱮ ᱥᱚᱢ ᱥᱚᱦᱚᱫᱽ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱫᱚ ({ $minVersion }) ᱠᱟᱱᱟ ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱝ ᱥᱚᱦᱚᱫ ᱥᱮᱴᱮᱯ ᱠᱟᱱᱟ ᱟᱨ DevTools ᱫᱚ ᱠᱷᱟᱨᱚᱯ ᱪᱷᱚ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾<a>ᱜᱚᱲᱚᱫᱩᱣᱟᱹᱨ</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
 about-debugging-browser-version-too-old-fennec = Firefox ᱨᱮᱭᱟᱜ ᱱᱚᱶᱟ ᱵᱷᱚᱨᱥᱚᱱ ᱨᱮ Android (68) ᱨᱮᱭᱟᱜ Firefox ᱨᱮ ᱰᱮᱵᱩᱜ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾ ᱟᱞᱮ ᱫᱚ Firefox for Android Nightly ᱟᱢᱟᱜ ᱯᱷᱚᱱ ᱨᱮ ᱦᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱴᱮᱥᱴᱤᱝ ᱞᱟᱹᱜᱤᱫ ᱞᱮ ᱵᱟᱛᱟᱣ ᱮᱫᱟ ᱾ <a>ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ</a>
@@ -198,7 +198,7 @@ about-debugging-browser-version-too-old-fennec = Firefox ᱨᱮᱭᱟᱜ ᱱᱚ�
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱡᱟᱹᱥᱛᱤ ᱱᱟᱶᱟ ᱜᱮᱭᱟ ({ $runtimeVersion }, buildID { $runtimeID }) ᱠᱷᱚᱱ ᱟᱢᱟᱜ { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝᱥᱚᱦᱚᱫ ᱥᱮᱴᱚᱯ ᱠᱟᱱᱟ ᱟᱨ DevTools ᱫᱚ ᱠᱷᱟᱨᱟᱯ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ Firefox ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾<a>ᱜᱚᱲᱚᱫᱩᱣᱟᱹᱨ</a>
+about-debugging-browser-version-too-recent = ᱡᱩᱲᱟᱹᱣ ᱠᱟᱱ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱨᱮ ᱡᱟᱹᱥᱛᱤ ᱱᱟᱶᱟ ᱜᱮᱭᱟ ({ $runtimeVersion }, buildID { $runtimeID }) ᱠᱷᱚᱱ ᱟᱢᱟᱜ { -brand-shorter-name } ({ $localVersion }, buildID { $localID }) ᱾ ᱱᱚᱶᱟ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱝᱥᱚᱦᱚᱫ ᱥᱮᱴᱚᱯ ᱠᱟᱱᱟ ᱟᱨ DevTools ᱫᱚ ᱠᱷᱟᱨᱟᱯ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ Firefox ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ ᱾<a>ᱜᱚᱲᱚᱫᱩᱣᱟᱹᱨ</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
@@ -250,7 +250,7 @@ about-debugging-tmp-extension-terminate-bgscript-button = ᱵᱮᱜᱽᱨᱟᱣ�
 # Note: this message is only displayed in Windows and Linux platforms.
 about-debugging-tmp-extension-install-message = manifest.json ᱨᱮᱫᱽ ᱥᱮ .xpi/.zip ᱟᱨᱠᱟᱭᱤᱵᱽ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 # This string is displayed as a message about the add-on having a temporaryID.
-about-debugging-tmp-extension-temporary-id = ᱱᱚᱶᱟ WebExtension ᱴᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱚᱥᱛᱷᱟᱭ ID ᱢᱮᱱᱟᱜᱼᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
+about-debugging-tmp-extension-temporary-id = ᱱᱚᱶᱟ WebExtension ᱴᱷᱚᱱ ᱢᱤᱫᱴᱟᱝ ᱚᱥᱛᱷᱟᱭ ID ᱢᱮᱱᱟᱜᱼᱟ ᱾<a>ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ</a>
 # Text displayed for extensions in "runtime" pages, before displaying a link the extension's
 # manifest URL.
 about-debugging-extension-manifest-url =

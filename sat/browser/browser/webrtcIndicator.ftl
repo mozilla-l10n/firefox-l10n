@@ -56,7 +56,7 @@ webrtc-camera-system-menu =
 webrtc-microphone-system-menu =
     .label = ᱟᱢ ᱟᱢᱟᱜ ᱢᱟᱭᱠᱨᱚᱯᱷᱚᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 webrtc-screen-system-menu =
-    .label = ᱟᱢ ᱟᱢᱟᱜ ᱣᱤᱱᱰᱚ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
+    .label = ᱟᱢ ᱟᱢᱟᱜ ᱣᱤᱱᱰᱚ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱝ ᱥᱠᱨᱤᱱ ᱮᱢ ᱦᱟᱹᱴᱤᱧ ᱦᱚᱪᱚ ᱮᱫᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## Tooltips used by the legacy global sharing indicator
 
@@ -73,7 +73,7 @@ webrtc-indicator-sharing-screen =
 webrtc-indicator-sharing-window =
     .tooltiptext = ᱟᱢᱟᱜ ᱣᱤᱱᱰᱳ ᱦᱟᱹᱴᱤᱧᱚᱜ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 webrtc-indicator-sharing-browser =
-    .tooltiptext = ᱢᱤᱫᱴᱟᱹᱝ ᱴᱮᱵᱽ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
+    .tooltiptext = ᱢᱤᱫᱴᱟᱝ ᱴᱮᱵᱽ ᱦᱟᱹᱴᱤᱧ ᱠᱟᱱᱟ ᱾ ᱦᱟᱹᱴᱤᱧ ᱠᱚᱵᱚᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ ᱾
 
 ## These strings are only used on Mac for menus attached to icons
 ## near the clock on the mac menubar.

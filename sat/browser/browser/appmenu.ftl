@@ -112,7 +112,7 @@ whatsnew-panel-header = ᱪᱮᱫ ᱱᱟᱶᱟ ᱢᱮᱱᱟᱜ-ᱟ
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
-    .label = ᱱᱟᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱪᱷᱚᱭᱟᱹᱧ ᱢᱮ
+    .label = ᱱᱟᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱵᱚᱛ ᱵᱟᱲᱟᱭ ᱦᱚᱪᱚᱭᱟᱹᱧ ᱢᱮ
     .accesskey = f
 
 ## The Firefox Profiler – The popup is the UI to turn on the profiler, and record

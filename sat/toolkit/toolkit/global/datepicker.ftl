@@ -11,9 +11,9 @@
 ## spinner dialogs for HTML's <input type="date">
 
 date-picker-label =
-    .aria-label = ᱢᱤᱫᱴᱟᱹᱝ ᱢᱟᱦᱟᱸ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .aria-label = ᱢᱤᱫᱴᱟᱝ ᱢᱟᱦᱟᱸ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 date-spinner-label =
-    .aria-label = ᱢᱤᱫᱴᱟᱹᱝ ᱢᱟᱦᱟᱸ ᱟᱨ ᱥᱮᱨᱢᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
+    .aria-label = ᱢᱤᱫᱴᱟᱝ ᱢᱟᱦᱟᱸ ᱟᱨ ᱥᱮᱨᱢᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ
 
 ## Text of the clear button
 

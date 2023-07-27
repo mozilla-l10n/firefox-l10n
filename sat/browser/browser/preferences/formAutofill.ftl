@@ -97,7 +97,7 @@ autofill-edit-card-password-prompt =
        *[other] { -brand-short-name } ᱫᱚ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱡᱤᱱᱤᱥ ᱫᱮᱠᱷᱟᱣ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱾
     }
 autofill-card-number = ᱠᱟᱰ ᱮᱞ
-autofill-card-invalid-number = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱷᱤᱠ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
+autofill-card-invalid-number = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱢᱤᱫᱴᱟᱝ ᱴᱷᱤᱠ ᱠᱨᱮᱰᱤᱴ ᱠᱟᱰ ᱮᱞ ᱟᱫᱮᱨ ᱢᱮ
 autofill-card-name-on-card = ᱠᱟᱰ ᱨᱮ ᱧᱩᱛᱩᱢ
 autofill-card-expires-month = ᱪᱟᱵᱟ ᱪᱟᱸᱫᱚ
 autofill-card-expires-year = ᱪᱟᱵᱟ ᱥᱮᱨᱢᱟᱸ

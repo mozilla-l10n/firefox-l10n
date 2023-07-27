@@ -9,7 +9,7 @@
 
 perftools-intro-title = ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨ ᱥᱟᱡᱟᱣᱠᱚ
 perftools-intro-description =
-    ᱨᱮᱠᱚᱰᱤᱝᱥ profiler.firefox.com ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾ ᱡᱷᱚᱛᱚ ᱰᱟᱴᱟ ᱫᱚ ᱞᱚᱠᱟᱞ ᱨᱮ ᱫᱚᱦᱚᱜᱼᱟ,
+    ᱨᱮᱠᱚᱰᱤᱝᱥ profiler.firefox.com ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾ ᱡᱷᱚᱛᱚ ᱰᱟᱴᱟ ᱫᱚ ᱞᱚᱠᱟᱞ ᱨᱮ ᱫᱚᱦᱚᱜᱼᱟ,
     ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱫᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 
 ## All of the headings for the various sections.
@@ -27,10 +27,10 @@ perftools-heading-local-build = ᱞᱚᱠᱟᱞ ᱛᱮᱭᱟᱨ
 ##
 
 perftools-description-intro =
-    ᱨᱮᱠᱚᱰᱤᱝᱥ <a>profiler.firefox.com</a> ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾ ᱡᱷᱚᱛᱚ ᱰᱟᱴᱟ ᱫᱚ ᱞᱚᱠᱟᱞ ᱨᱮ ᱫᱚᱦᱚᱜᱼᱟ,
+    ᱨᱮᱠᱚᱰᱤᱝᱥ <a>profiler.firefox.com</a> ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱴᱮᱵᱽ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ ᱾ ᱡᱷᱚᱛᱚ ᱰᱟᱴᱟ ᱫᱚ ᱞᱚᱠᱟᱞ ᱨᱮ ᱫᱚᱦᱚᱜᱼᱟ,
     ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱱᱚᱶᱟ ᱦᱟᱹᱴᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱫᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 perftools-description-local-build =
-    ᱡᱩᱫᱤ ᱟᱢ ᱢᱤᱫᱴᱟᱹᱝ ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢᱛᱮᱜᱮ ᱠᱚᱢᱯᱟᱭᱤᱞ ᱠᱟᱫᱟᱢ, 
+    ᱡᱩᱫᱤ ᱟᱢ ᱢᱤᱫᱴᱟᱝ ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨᱮᱢ ᱛᱮᱭᱟᱨ ᱮᱫᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱟᱢᱛᱮᱜᱮ ᱠᱚᱢᱯᱟᱭᱤᱞ ᱠᱟᱫᱟᱢ, 
     ᱡᱩᱫᱤ ᱱᱚᱣᱟ ᱢᱮᱥᱤᱱ ᱠᱟᱱᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱟᱢᱟᱜ objdir ᱫᱚ ᱞᱤᱥᱴᱤ ᱨᱮ ᱥᱮᱞᱮᱫ ᱢᱮ ᱢᱮᱱᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱫᱚ ᱪᱤᱱᱦᱟᱹ ᱵᱤᱵᱨᱚᱬ ᱨᱮ ᱯᱟᱱᱛᱮ ᱜᱟᱱᱚᱜ ᱢᱟᱸ ᱾
 
 ## The controls for the interval at which the profiler samples the code.
@@ -64,7 +64,7 @@ perftools-button-capture-recording = ᱨᱮᱠᱚᱰᱤᱝ ᱠᱮᱯᱪᱚᱨᱚ
 perftools-button-cancel-recording = ᱨᱮᱠᱚᱰᱤᱝᱥ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 perftools-button-save-settings = ᱥᱟᱡᱟᱣᱠᱚ ᱥᱟᱸᱪᱟᱣ ᱢᱮ ᱟᱨ ᱛᱟᱭᱚᱢᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ
 perftools-button-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
-perftools-button-add-directory = ᱢᱤᱫᱴᱟᱹᱝ ᱰᱟᱭᱨᱮᱠᱴᱚᱨ ᱥᱮᱞᱮᱫ ᱢᱮ
+perftools-button-add-directory = ᱢᱤᱫᱴᱟᱝ ᱰᱟᱭᱨᱮᱠᱴᱚᱨ ᱥᱮᱞᱮᱫ ᱢᱮ
 perftools-button-remove-directory = ᱵᱟᱪᱷᱟᱣ ᱚᱪᱚᱜᱽ ᱢᱮ
 perftools-button-edit-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱟᱯᱲᱟᱣ ᱢᱮ …
 
@@ -105,7 +105,7 @@ perftools-thread-jvm-glean =
 perftools-thread-jvm-arch-disk-io =
     .title = Kotlin coroutines ᱞᱟᱭᱵᱽᱨᱮᱨᱤ ᱞᱟᱹᱜᱤᱫ ᱛᱮ IO ᱰᱤᱥᱯᱮᱪᱚᱨ
 perftools-thread-jvm-pool =
-    .title = ᱢᱤᱫᱴᱟᱹᱝ ᱵᱟᱝᱧᱩᱛᱩᱢ ᱥᱩᱛᱟᱹᱢ ᱯᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱩᱛᱹᱢ ᱛᱮᱭᱟᱨ ᱠᱟᱱᱟ
+    .title = ᱢᱤᱫᱴᱟᱝ ᱵᱟᱝᱧᱩᱛᱩᱢ ᱥᱩᱛᱟᱹᱢ ᱯᱩᱞ ᱞᱮᱠᱷᱟᱛᱮ ᱥᱩᱛᱹᱢ ᱛᱮᱭᱟᱨ ᱠᱟᱱᱟ
 
 ##
 

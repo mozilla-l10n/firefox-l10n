@@ -289,7 +289,7 @@ quickactions-cmd-refresh = ᱛᱟᱡᱟ
 quickactions-restart = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱦᱚᱵ ᱢᱮ
 quickactions-cmd-restart = ᱫᱚᱦᱲᱟ ᱮᱦᱚᱵ
 # Opens the screenshot tool
-quickactions-screenshot3 = ᱢᱤᱫᱴᱟᱹᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
+quickactions-screenshot3 = ᱢᱤᱫᱴᱟᱝ ᱥᱠᱨᱤᱱᱥᱚᱴ ᱤᱫᱤᱢᱮ
 quickactions-cmd-screenshot = ᱥᱠᱨᱤᱱᱥᱚᱴ
 # Opens about:preferences
 quickactions-settings2 = ᱥᱟᱡᱟᱣ ᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
@@ -359,7 +359,7 @@ identity-weak-encryption = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱫᱚ ᱠᱚᱢᱡᱩ�
 identity-insecure-login-forms = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱨᱮ ᱟᱫᱮᱨ ᱠᱟᱱ ᱵᱚᱞᱚ ᱠᱚ ᱮᱴᱟᱜ ᱦᱚᱲ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱠᱚ ᱾
 identity-https-only-connection-upgraded = (HTTPS ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱦᱩᱭᱮᱱᱟ)
 identity-https-only-label = ᱠᱷᱟᱹᱞᱤᱼHTTPS ᱢᱳᱰ
-identity-https-only-label2 = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱞᱮᱠᱟ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱪᱷᱚᱭ ᱢᱮ
+identity-https-only-label2 = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱡᱩᱲᱟᱹᱣ ᱞᱮᱠᱟ ᱟᱡ ᱛᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱪᱷᱚᱭ ᱢᱮ
 identity-https-only-dropdown-on =
     .label = ᱪᱟᱹᱞᱩ
 identity-https-only-dropdown-off =
@@ -946,7 +946,7 @@ popup-notification-xpinstall-prompt-learn-more = ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ �
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱢᱤᱫᱴᱟᱹᱝ ᱴᱟᱴᱠᱟ ᱣᱤᱱᱰᱳ  ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
+        [one] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱢᱤᱫᱴᱟᱝ ᱴᱟᱴᱠᱟ ᱣᱤᱱᱰᱳ  ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
        *[other] { -brand-short-name } ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ { $popupCount } ᱴᱟᱴᱠᱟ ᱣᱤᱱᱰᱳ ᱡᱷᱤᱡ ᱠᱷᱚᱱ ᱟᱠᱚᱴ ᱠᱮᱫᱮᱭᱟᱭ ᱾
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.

@@ -12,7 +12,7 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
-identity-credential-header-providers = ᱢᱤᱫᱴᱟᱹᱝ ᱞᱚᱜᱤᱱ ᱯᱨᱚᱵᱷᱟᱭᱰᱚᱨ ᱥᱟᱞᱟᱜ ᱛᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
+identity-credential-header-providers = ᱢᱤᱫᱴᱟᱝ ᱞᱚᱜᱤᱱ ᱯᱨᱚᱵᱷᱟᱭᱰᱚᱨ ᱥᱟᱞᱟᱜ ᱛᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 identity-credential-header-accounts = { $provider } ᱥᱟᱞᱟᱜ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 identity-credential-urlbar-anchor =
     .tooltiptext = ᱞᱚᱜᱤᱱ ᱯᱮᱱᱟᱞ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
@@ -25,5 +25,5 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = ᱵᱚᱞᱚᱱ ᱥᱩᱦᱤ
     .accesskey = S
-identity-credential-policy-title = ᱢᱤᱫᱴᱟᱹᱝ ᱞᱚᱜᱤᱱ ᱯᱨᱚᱵᱷᱟᱭᱰᱮᱨ ᱞᱮᱠᱷᱟ { $provider } ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+identity-credential-policy-title = ᱢᱤᱫᱴᱟᱝ ᱞᱚᱜᱤᱱ ᱯᱨᱚᱵᱷᱟᱭᱰᱮᱨ ᱞᱮᱠᱷᱟ { $provider } ᱵᱮᱵᱷᱟᱨ ᱢᱮ
 identity-credential-policy-description = { $host } ᱨᱮ ᱢᱤᱫ { $provider } ᱠᱷᱟᱛᱟ ᱛᱮ ᱞᱚᱜᱤᱱ ᱠᱟᱛᱮ ᱱᱩᱠᱩᱣᱟᱜ <label data-l10n-name="privacy-url">ᱱᱤᱥᱚᱱ ᱱᱤᱛᱤ</label> ᱟᱨ <label data-l10n-name="tos-url">ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱥᱚᱨᱛᱚ</label> ᱛᱮ ᱪᱟᱞᱟᱜᱼᱟ ᱾

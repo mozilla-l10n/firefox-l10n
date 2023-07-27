@@ -7,14 +7,13 @@ xpinstall-prompt = { -brand-short-name } ᱟᱢ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱭᱩ�
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
-xpinstall-prompt-header = { $host } ᱢᱤᱫᱴᱟᱹᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱪᱷᱚᱭᱟᱢ ᱥᱮ?
-xpinstall-prompt-message = ᱟᱢ ᱫᱚ { $host } ᱠᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟᱭᱮᱫ ᱟᱢ ᱾ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱞᱟᱦᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱮ ᱠᱟᱱᱟᱢ ᱥᱮ ᱵᱟᱝᱟ ᱱᱟᱦ ᱾
+xpinstall-prompt-header = { $host } ᱢᱤᱫᱴᱟᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱪᱷᱚᱭᱟᱢ ᱥᱮ?
+xpinstall-prompt-message = ᱟᱢ ᱫᱚ { $host } ᱠᱷᱚᱱ ᱢᱤᱫᱴᱟᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟᱭᱮᱫ ᱟᱢ ᱾ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱞᱟᱦᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱮ ᱠᱟᱱᱟᱢ ᱥᱮ ᱵᱟᱝᱟ ᱱᱟᱦ ᱾
 
 ##
 
-xpinstall-prompt-header-unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱥᱟᱭᱤᱴ ᱫᱚ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱪᱷᱚᱭᱟᱢ ᱥᱮ ?
-xpinstall-prompt-message-unknown = ᱟᱢ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟᱭᱮᱫ ᱟᱢ ᱾ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱞᱟᱦᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱮ ᱠᱟᱱᱟᱢ ᱥᱮ ᱵᱟᱝᱟ ᱱᱟᱦ ᱾
-
+xpinstall-prompt-header-unknown = ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱥᱟᱭᱤᱴ ᱫᱚ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱦᱚᱪᱚᱭᱟᱢ ᱥᱮ ?
+xpinstall-prompt-message-unknown = ᱟᱢ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱢᱤᱫᱴᱟᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱞᱟᱹᱜᱤᱫ ᱪᱮᱥᱴᱟᱭᱮᱫ ᱟᱢ ᱾ ᱢᱚᱱᱮ ᱠᱟᱜ ᱢᱮ ᱞᱟᱦᱟ ᱢᱟᱲᱟᱝ ᱨᱮ ᱟᱢ ᱯᱟᱹᱛᱤᱭᱟᱹᱣᱮ ᱠᱟᱱᱟᱢ ᱥᱮ ᱵᱟᱝᱟ ᱱᱟᱦ ᱾
 xpinstall-prompt-dont-allow =
     .label = ᱟᱞᱚ ᱢᱟᱹᱧᱡᱩᱨᱮᱭᱟᱢ
     .accesskey = D
@@ -35,7 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ MIDI (ᱢᱭᱩᱡᱤᱠᱟᱱ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴ ᱰᱤᱡᱤᱴᱟᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ) ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱮᱨᱮᱫᱟᱭ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱰᱼᱚᱱ ᱵᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱥᱟᱫᱷᱚᱱ ᱦᱚᱠ ᱠᱚᱵᱚᱡᱽ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+site-permission-install-first-prompt-midi-header = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ MIDI (ᱢᱭᱩᱡᱤᱠᱟᱱ ᱤᱱᱥᱴᱨᱩᱢᱮᱱᱴ ᱰᱤᱡᱤᱴᱟᱞ ᱤᱱᱴᱚᱨᱯᱷᱮᱥ) ᱥᱟᱫᱷᱚᱱ ᱟᱫᱮᱨ ᱞᱟᱹᱜᱤᱫ ᱱᱮᱦᱮᱨᱮᱫᱟᱭ ᱢᱤᱫᱴᱟᱝ ᱮᱰᱼᱚᱱ ᱵᱚᱦᱟᱞ ᱠᱟᱛᱮ ᱥᱟᱫᱷᱚᱱ ᱦᱚᱠ ᱠᱚᱵᱚᱡᱽ ᱜᱟᱱᱚᱜᱼᱟ ᱾
 site-permission-install-first-prompt-midi-message = ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱟᱫᱮᱨ ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱛᱟᱦᱮᱸᱱ ᱵᱟᱭ ᱜᱮᱨᱮᱱᱴᱤᱭᱟᱭ ᱾ ᱡᱩᱫᱤ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱵᱷᱚᱨᱥᱟᱦᱟᱜ ᱠᱟᱱᱟᱢ ᱠᱷᱚᱱ ᱞᱮᱛᱟᱲ ᱢᱮ ᱾
 
 ##
@@ -45,7 +44,6 @@ xpinstall-disabled = ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱫᱚ ᱱᱤᱛ�
 xpinstall-disabled-button =
     .label = ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨ
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,14 +52,12 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ᱫᱚ ᱟᱢᱤ
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = ᱟᱢᱟᱜ ᱥᱤᱥᱴᱚᱢ ᱪᱟᱪᱞᱟᱣᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱠᱚᱢᱯᱩᱴᱚᱨ ᱨᱮ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱵᱚᱦᱟᱞ ᱠᱷᱚᱱ ᱢᱟᱱᱟ ᱠᱮᱫᱟᱭ ᱾
 addon-install-full-screen-blocked = ᱯᱩᱨᱟᱹ ᱯᱚᱨᱫᱟ ᱢᱳᱰ ᱨᱮ ᱵᱚᱞᱚ ᱢᱟᱲᱟᱝ ᱨᱮ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱫᱚ ᱮᱢ ᱵᱟᱹᱰ ᱜᱮᱭᱟ ᱾
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ᱫᱚ { -brand-short-name } ᱨᱮ ᱥᱮᱞᱮᱫ ᱮᱱᱟ
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ᱫᱚ ᱱᱟᱶᱟ ᱦᱚᱠ ᱛᱟᱭ ᱫᱚᱨᱠᱟᱨ
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +73,6 @@ addon-removal-title = { $name } ᱚᱪᱚᱜᱟᱢ ᱥᱮ?
 addon-removal-message = { -brand-shorter-name } ᱠᱷᱚᱱ { $name } ᱚᱪᱚᱜᱽᱟᱢ ᱥᱮ ?
 addon-removal-button = ᱚᱪᱚᱜᱽ ᱢᱮ
 addon-removal-abuse-report-checkbox = ᱱᱚᱶᱟ ᱯᱟᱥᱱᱟᱣ ᱫᱚ { -vendor-short-name } ᱛᱮ ᱠᱷᱚᱵᱚᱨ ᱢᱮ
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] ᱰᱟᱩᱱᱞᱚᱰ ᱟᱨ ᱯᱩᱥᱴᱟᱹᱣ { $addonCount } ᱮᱰ-ᱚᱱ ᱠᱚ …
     }
 addon-download-verifying = ᱯᱩᱥᱴᱟᱹᱣᱜ ᱠᱟᱱᱟ
-
 addon-install-cancel-button =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
     .accesskey = C
@@ -99,7 +93,7 @@ addon-install-accept-button =
 
 addon-confirm-install-message =
     { $addonCount ->
-        [one] ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ { -brand-short-name }:
+        [one] ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱮᱰ-ᱚᱱ ᱵᱚᱦᱟᱞ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ { -brand-short-name }:
        *[other] ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ { $addonCount } ᱵᱚᱦᱟᱞ ᱥᱮᱱᱟᱭ ᱠᱟᱱᱟ ᱮᱰᱼᱚᱱ { -brand-short-name } ᱨᱮ:
     }
 addon-confirm-install-unsigned-message =

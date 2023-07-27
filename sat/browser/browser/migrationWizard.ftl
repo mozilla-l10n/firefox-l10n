@@ -140,7 +140,7 @@ migration-cancel-button-label = ᱵᱟᱹᱰᱨᱟᱹ
 migration-done-button-label = ᱦᱩᱭᱮᱱᱟ
 migration-continue-button-label = ᱞᱮᱛᱟᱲ
 migration-wizard-import-browser-no-browsers = { -brand-short-name } ᱫᱚ ᱯᱩᱛᱷᱤᱪᱤᱱᱦᱟᱹ, ᱦᱤᱛᱟᱹᱞ ᱟᱨᱵᱟᱝ ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫᱽ ᱰᱟᱴᱟ. ᱢᱮᱱᱟᱜ ᱪᱮᱫ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱠᱚ ᱵᱟᱭ ᱧᱟᱢ ᱞᱮᱫᱟᱭ ᱾
-migration-wizard-import-browser-no-resources = ᱢᱤᱫᱴᱟᱹᱝ ᱦᱩᱰᱟᱹᱜ. ᱦᱩᱭᱮᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱚᱱᱟ ᱵᱨᱟᱣᱡᱚᱨ ᱢᱚᱦᱚᱨ ᱠᱷᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱝ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱫᱟᱭ ᱾
+migration-wizard-import-browser-no-resources = ᱢᱤᱫᱴᱟᱝ ᱦᱩᱰᱟᱹᱜ. ᱦᱩᱭᱮᱱᱟ ᱾ { -brand-short-name } ᱫᱚ ᱚᱱᱟ ᱵᱨᱟᱣᱡᱚᱨ ᱢᱚᱦᱚᱨ ᱠᱷᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱝ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱫᱟᱭ ᱾
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will

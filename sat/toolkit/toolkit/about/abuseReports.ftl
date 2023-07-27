@@ -42,7 +42,7 @@ abuse-report-submit-button = ᱡᱚᱢᱟᱭ ᱢᱮ
 abuse-report-messagebar-aborted = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱵᱟᱫ ᱮᱱᱟ ᱾
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱠᱟᱱᱟ ᱾
 abuse-report-messagebar-submitted = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ ᱪᱮᱫ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱢᱮᱴᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
-abuse-report-messagebar-submitted-noremove = ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ ᱾
+abuse-report-messagebar-submitted-noremove = ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ ᱾
 abuse-report-messagebar-removed-extension = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱢᱮᱴᱟᱣ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
 abuse-report-messagebar-removed-sitepermission = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱨᱮ ᱥᱟᱭᱤᱴ ᱦᱚᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
 abuse-report-messagebar-removed-theme = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱛᱷᱤᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
@@ -77,15 +77,15 @@ abuse-report-broken-reason-sitepermission-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱠ
 abuse-report-broken-reason-theme-v2 = ᱱᱚᱶᱟ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱮᱫᱟᱭ ᱥᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱰᱤᱥᱯᱞᱮ ᱨᱟᱹᱯᱩᱫᱮᱫᱟᱭ
 abuse-report-broken-example = ᱫᱟᱹᱭᱠᱟᱹ : ᱯᱷᱤᱪᱚᱨ ᱵᱟᱹᱭᱼᱵᱟᱹᱭ ᱧᱚᱜ ᱜᱚᱭᱟ, ᱵᱮᱵᱷᱟᱨ ᱨᱮ ᱢᱩᱥᱠᱤᱞ ᱜᱮᱭᱟ, ᱥᱮ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱮᱫᱟᱭ; ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮᱱᱟᱜ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱡᱟᱭᱜᱟ ᱵᱟᱭ ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ ᱥᱮ ᱴᱷᱤᱠ ᱵᱟᱭ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ
 abuse-report-broken-suggestions-extension =
-    ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
+    ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
     ᱦᱩᱭᱩᱜᱼᱟ ᱱᱚᱶᱟ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱵᱟᱵᱚᱛ ᱫᱚ ᱟᱢ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱠᱟᱛᱷᱟᱜ ᱢᱮ ᱾
     ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱢᱮ</a> ᱾
 abuse-report-broken-suggestions-sitepermission =
-    ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
+    ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
     ᱦᱩᱭᱩᱜᱼᱟ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱟᱵᱚᱛ ᱫᱚ ᱟᱢ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱠᱟᱛᱷᱟᱜ ᱢᱮ ᱾
     ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱢᱮ</a> ᱾
 abuse-report-broken-suggestions-theme =
-    ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
+    ᱱᱚᱨᱟ ᱵᱩᱡᱷᱟᱹᱣᱜ ᱠᱟᱱᱟ ᱟᱢ ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱮᱢ ᱪᱤᱱᱦᱟᱹᱯ ᱠᱟᱫᱟ ᱾ ᱱᱚᱰᱮ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱢᱟᱲᱟᱝ ᱨᱮ, ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱵᱮᱥ
     ᱦᱩᱭᱩᱜᱼᱟ ᱱᱚᱶᱟ ᱛᱷᱤᱢ ᱵᱟᱵᱚᱛ ᱫᱚ ᱟᱢ ᱛᱷᱤᱢ ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱥᱟᱞᱟᱜ ᱠᱟᱛᱷᱟᱜ ᱢᱮ ᱾
     ᱛᱮᱭᱟᱨᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="support-link">ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱟᱞᱟᱜ ᱢᱮ</a> ᱾
 abuse-report-policy-reason-v2 = ᱱᱚᱶᱟ ᱨᱮ ᱦᱤᱨᱠᱟᱹ, ᱦᱤᱸᱥᱟᱹᱞᱤᱭᱟᱹ ᱟᱨ ᱵᱟᱝ ᱵᱟᱝ ᱟᱹᱛᱷᱟᱹᱲᱤ ᱵᱮᱥᱟᱹᱨᱤᱭᱟᱹ ᱡᱤᱱᱤᱥ ᱢᱮᱱᱟᱜᱼᱟ
@@ -93,5 +93,5 @@ abuse-report-policy-suggestions =
     ᱧᱮᱞ ᱵᱤᱲᱟᱹᱣ ᱺ ᱱᱚᱠᱚᱞ ᱟᱨ ᱴᱨᱮᱰᱢᱟᱨᱠ ᱵᱚᱵᱚᱛ ᱢᱩᱫᱼᱫᱟ ᱫᱚ ᱮᱴᱟᱜ ᱡᱟᱭᱜᱟ ᱨᱮ ᱠᱷᱚᱵᱚᱨ ᱯᱮ ᱾
     ᱠᱷᱚᱵᱚᱨ ᱞᱟᱹᱜᱤᱫ <a data-l10n-name="report-infringement-link">ᱱᱚᱶᱟ ᱫᱤᱥᱟᱹᱩᱫᱩᱜ ᱵᱮᱵᱷᱟᱨ ᱢᱮ</a> ᱾
 abuse-report-unwanted-reason-v2 = ᱤᱧ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱹᱧ ᱫᱚᱠᱟᱨᱟᱜᱼᱟ ᱟᱨ ᱤᱧ ᱵᱟᱹᱧ ᱵᱟᱲᱟᱭᱟ ᱪᱮᱫ ᱞᱮᱠᱷᱟ ᱱᱚᱶᱟ ᱠᱷᱚᱱ ᱥᱟᱦᱟᱜᱼᱟ
-abuse-report-unwanted-example = ᱫᱟᱹᱭᱠᱟᱹ ᱺ ᱤᱧᱟᱜ ᱵᱤᱱ ᱠᱩᱠᱞᱤ ᱛᱮ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱦᱚᱞ ᱮᱱᱟ
+abuse-report-unwanted-example = ᱫᱟᱹᱭᱠᱟᱹ ᱺ ᱤᱧᱟᱜ ᱵᱤᱱ ᱠᱩᱠᱞᱤ ᱛᱮ ᱢᱤᱫᱴᱟᱝ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱵᱚᱦᱚᱞ ᱮᱱᱟ
 abuse-report-other-reason = ᱡᱟᱦᱱᱟᱜ ᱮᱴᱟᱜ ᱡᱤᱱᱤᱥ

@@ -250,7 +250,7 @@ places-details-pane-no-items =
 places-details-pane-items-count =
     .value =
         { $count ->
-            [one] ᱢᱤᱫᱴᱟᱹᱝ ᱡᱤᱱᱤᱥ
+            [one] ᱢᱤᱫᱴᱟᱝ ᱡᱤᱱᱤᱥ
            *[other] { $count } ᱡᱤᱱᱤᱥ ᱠᱚ
         }
 

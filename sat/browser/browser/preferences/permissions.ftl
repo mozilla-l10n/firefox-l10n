@@ -138,7 +138,7 @@ permissions-site-location-window2 =
     .style = { permissions-window2.style }
 permissions-site-location-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢ ᱴᱷᱮᱱ ᱟᱢᱟᱜ ᱡᱟᱭᱜᱟ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱮᱢ ᱵᱟᱛᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱡᱮ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱢᱟᱜ ᱡᱟᱭᱜᱟ ᱠᱚ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱥᱮ ᱵᱟᱝᱟ ᱾ ᱟᱢ ᱫᱚ ᱟᱠᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱡᱟᱦᱟᱸᱭ ᱫᱚ ᱟᱢᱟᱜ ᱡᱟᱭᱜᱟ ᱵᱟᱲᱟᱭ ᱥᱟᱱᱟᱭ ᱠᱟᱱᱟ ᱾
 permissions-site-location-disable-label =
-    .label = ᱡᱟᱭᱜᱟ ᱵᱟᱲᱟᱭ ᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱶᱟ ᱱᱮᱦᱚᱨ ᱠᱚ ᱢᱟᱱᱟᱭ ᱢᱮ
+    .label = ᱡᱟᱭᱜᱟ ᱵᱟᱲᱟᱭ ᱦᱚᱪᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱶᱟ ᱱᱮᱦᱚᱨ ᱠᱚ ᱢᱟᱱᱟᱭ ᱢᱮ
 permissions-site-location-disable-desc = ᱱᱟᱶᱟ ᱫᱚ ᱡᱟᱦᱟᱸ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱚᱱᱟ ᱞᱤᱥᱴᱤᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ ᱩᱱᱠᱩ ᱠᱚ ᱡᱟᱭᱜᱟ ᱵᱟᱠᱚ ᱵᱟᱲᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱟᱢᱟᱜ ᱡᱟᱭᱜᱟ ᱟᱠᱚᱴ ᱞᱮᱠᱷᱟᱱ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱯᱷᱤᱪᱚᱨ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾
 
 ## Site Permissions - Virtual Reality

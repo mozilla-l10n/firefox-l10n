@@ -7,7 +7,7 @@
 cert-error-intro = { $hostname } ᱵᱟᱝ ᱵᱟᱛᱟᱣ ᱡᱟᱹᱯᱛᱤ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢᱮ ᱵᱮᱵᱷᱟᱨᱮᱜ ᱟᱭ ᱾
 cert-error-mitm-intro = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱥᱟᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱱᱦᱟᱹᱯᱚᱜ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱟᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱚᱛᱷᱚᱨᱤᱴᱭ ᱮ ᱮᱢᱚᱜᱼᱟᱭ ᱾
 cert-error-mitm-mozilla = { -brand-short-name } ᱫᱚ ᱱᱤᱨ ᱞᱟᱵᱷ Mozilla ᱮ ᱜᱚᱲᱚ ᱮᱢ ᱟᱠᱟᱫᱟᱭ, ᱚᱠᱚᱭ ᱫᱚ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡᱟᱜ (CA) ᱫᱚᱠᱟᱱ ᱛᱚᱨᱟᱣ ᱮᱫᱟᱭ ᱾ CA ᱫᱚᱠᱟᱱ ᱫᱚ ᱵᱮᱵᱷᱟᱨᱤᱭᱟ ᱠᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ ᱯᱚᱨᱚᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱮᱢᱚᱜᱤᱡᱟᱜ ᱵᱮᱥ ᱮ ᱠᱟᱹᱢᱤ ᱮᱫᱟᱭ ᱾
-cert-error-mitm-connection = { -brand-short-name } ᱫᱚ ᱡᱩᱲᱟᱹᱣ ᱯᱚᱨᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ Mozilla CA ᱫᱚᱠᱟᱱ ᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱭ, ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱼᱟᱜ ᱱᱤᱡᱚᱨ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱾ ᱢᱮᱱᱠᱷᱟᱱ, ᱡᱩᱫᱤ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱱᱴᱤᱵᱷᱟᱭᱨᱚᱥ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱮᱴᱣᱟᱨᱠ ᱡᱩᱲᱟᱹᱣ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ CA ᱡᱟᱹᱨᱤ ᱠᱟᱫ Mozilla CA ᱥᱴᱚᱨ ᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱵᱟᱝ ᱴᱷᱤᱠ ᱟ ᱾
+cert-error-mitm-connection = { -brand-short-name } ᱫᱚ ᱡᱩᱲᱟᱹᱣ ᱯᱚᱨᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ Mozilla CA ᱫᱚᱠᱟᱱ ᱮ ᱵᱮᱵᱷᱟᱨ ᱟᱭ, ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹᱼᱟᱜ ᱱᱤᱡᱚᱨ ᱚᱯᱮᱨᱮᱴᱤᱝ ᱥᱭᱥᱴᱚᱢ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱵᱟᱝ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱾ ᱢᱮᱱᱠᱷᱟᱱ, ᱡᱩᱫᱤ ᱢᱤᱫᱴᱟᱝ ᱮᱱᱴᱤᱵᱷᱟᱭᱨᱚᱥ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱟᱨ ᱵᱟᱝ ᱢᱤᱫᱴᱟᱝ ᱱᱮᱴᱣᱟᱨᱠ ᱡᱩᱲᱟᱹᱣ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ CA ᱡᱟᱹᱨᱤ ᱠᱟᱫ Mozilla CA ᱥᱴᱚᱨ ᱨᱮ ᱵᱟᱹᱱᱩᱜᱼᱟ, ᱢᱮᱱᱠᱷᱟᱱ ᱡᱩᱲᱟᱹᱣ ᱫᱚ ᱵᱟᱝ ᱴᱷᱤᱠ ᱟ ᱾
 cert-error-trust-unknown-issuer-intro = ᱡᱟᱦᱟᱸᱭ ᱠᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱫᱚ ᱡᱟᱹᱞᱤ ᱞᱮᱠᱷᱟ ᱛᱮᱭᱟᱨ ᱪᱷᱚ ᱪᱮᱥᱴᱟ ᱟᱠᱟᱫᱼᱟ ᱠᱚ ᱟᱨ ᱟᱢ ᱫᱚ ᱵᱟᱝ ᱞᱟᱦᱟ ᱠᱟᱛᱷᱟ ᱾
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -54,7 +54,7 @@ cert-error-code-prefix-link = ᱵᱷᱩᱞ ᱠᱳᱰ: <a data-l10n-name="error-c
 cert-error-ssl-connection-error = { $hostname } ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾ { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱮᱢᱚᱜᱤᱡ ᱮᱢ ᱪᱷᱚ ᱟᱠᱟᱜᱟᱭ ᱾ GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱮᱢ ᱪᱟᱞᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱫᱚ ᱵᱟᱹᱲᱛᱤ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱵᱟᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱜᱼᱟ ᱾ { $hostname } ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱢᱤᱫᱴᱟᱹᱝ ᱮᱢᱚᱜᱤᱡ ᱠᱷᱚᱱ ᱵᱮᱵᱷᱟᱨᱟᱭ ᱟᱨ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱪᱤᱱᱦᱟᱹᱯ ᱫᱚ ᱵᱟᱭ ᱯᱚᱨᱢᱟᱱ ᱫᱟᱲᱮᱭᱟᱫᱟ ᱾
+cert-error-symantec-distrust-description = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱫᱚ ᱟᱠᱚᱣᱟᱜ ᱪᱤᱦᱟᱹᱯ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱟ, ᱚᱠᱟ ᱫᱚ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱮᱢᱚᱜᱤᱡ ᱮᱢ ᱪᱷᱚ ᱟᱠᱟᱜᱟᱭ ᱾ GeoTrust, RapidSSL, Symantec, Thawte, and VeriSign ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱮᱢ ᱪᱟᱞᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱥᱟᱹᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱛᱮ ᱫᱚ ᱵᱟᱹᱲᱛᱤ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱵᱟᱠᱚ ᱯᱩᱥᱴᱟᱹᱣᱜᱼᱟ ᱾ { $hostname } ᱫᱚ ᱱᱚᱶᱟ ᱠᱚ ᱢᱤᱫᱴᱟᱝ ᱮᱢᱚᱜᱤᱡ ᱠᱷᱚᱱ ᱵᱮᱵᱷᱟᱨᱟᱭ ᱟᱨ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱪᱤᱱᱦᱟᱹᱯ ᱫᱚ ᱵᱟᱭ ᱯᱚᱨᱢᱟᱱ ᱫᱟᱲᱮᱭᱟᱫᱟ ᱾
 cert-error-symantec-distrust-admin = ᱱᱚᱶᱟ ᱰᱤᱜᱟᱹᱣ ᱵᱟᱵᱚᱛ ᱟᱢ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱮᱰᱢᱤᱱᱤᱥᱴᱨᱮᱴᱚᱨ ᱮᱢ ᱮᱛᱞᱟ ᱫᱟᱲᱮᱟᱭᱟ ᱾
 cert-error-old-tls-version = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ TLS 1.2 ᱯᱨᱚᱴᱚᱠᱚᱞ ᱵᱟᱭ ᱥᱟᱹᱯᱚᱴ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ, ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱥᱟᱹᱯᱚᱴ ᱠᱟᱫ ᱡᱷᱚᱛᱚ ᱠᱷᱚᱱ ᱦᱚᱯᱚᱱ ᱵᱷᱚᱨᱥᱚᱱ ᱠᱟᱱᱟ ᱾
 # Variables:

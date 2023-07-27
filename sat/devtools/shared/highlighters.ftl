@@ -39,9 +39,9 @@ flextype-dual = ᱯᱷᱞᱮᱠᱥ ᱠᱚᱱᱴᱮᱱᱚᱨ / ᱡᱤᱱᱤᱥ
 #                    remote-node-picker-notice-action-touch
 remote-node-picker-notice = DevTools Node ᱵᱟᱪᱷᱟᱣ ᱮᱢ ᱪᱷᱚ ᱠᱟᱱᱟ ᱾ { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
-remote-node-picker-notice-action-desktop = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ
+remote-node-picker-notice-action-desktop = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱝ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
-remote-node-picker-notice-action-touch = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱹᱝ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱴᱤᱯᱟᱹᱣ ᱢᱮ
+remote-node-picker-notice-action-touch = ᱤᱱᱥᱯᱮᱠᱴᱚᱨ ᱨᱮ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱝ ᱱᱚᱢᱩᱱᱟ ᱨᱮ ᱴᱤᱯᱟᱹᱣ ᱢᱮ
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
@@ -49,7 +49,7 @@ remote-node-picker-notice-hide-button = ᱩᱠᱩ
 # The text displayed in a toolbox notification message which is only displayed
 # if prefers-reduced-motion is enabled (via OS-level settings or by using the
 # ui.prefersReducedMotion=1 preference).
-simple-highlighters-message = prefers-reduced-motion ᱮᱢ ᱛᱟᱦᱮᱸᱱ ᱠᱷᱟᱱ, ᱢᱤᱫᱴᱟᱹᱝ ᱥᱟᱫᱟ ᱦᱟᱭᱞᱟᱭᱴᱚᱨ ᱫᱚ ᱥᱟᱡᱟᱣ ᱯᱮᱱᱟᱞ ᱨᱮ ᱮᱢ ᱜᱟᱱᱚᱜᱼᱟ, ᱨᱚᱝ ᱡᱷᱟᱞᱠᱟᱣ ᱟᱞᱚ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱛᱮ  ᱾
+simple-highlighters-message = prefers-reduced-motion ᱮᱢ ᱛᱟᱦᱮᱸᱱ ᱠᱷᱟᱱ, ᱢᱤᱫᱴᱟᱝ ᱥᱟᱫᱟ ᱦᱟᱭᱞᱟᱭᱴᱚᱨ ᱫᱚ ᱥᱟᱡᱟᱣ ᱯᱮᱱᱟᱞ ᱨᱮ ᱮᱢ ᱜᱟᱱᱚᱜᱼᱟ, ᱨᱚᱝ ᱡᱷᱟᱞᱠᱟᱣ ᱟᱞᱚ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱜᱤᱫ ᱛᱮ  ᱾
 # Text displayed in a button inside the "simple-highlighters-message" toolbox
 # notification. "Settings" here refers to the DevTools settings panel.
 simple-highlighters-settings-button = ᱥᱟᱡᱟᱣ ᱠᱚ ᱡᱷᱤᱜ ᱢᱮ
