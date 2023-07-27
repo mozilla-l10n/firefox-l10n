@@ -9,7 +9,7 @@ printpreview-simplify-page-checkbox =
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
     .accesskey = { printpreview-simplify-page-checkbox.accesskey }
-    .tooltiptext = ᱟᱞᱜᱟ ᱛᱮ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱭᱟᱩᱴ ᱵᱚᱫᱚᱞ ᱢᱮ
+    .tooltiptext = ᱟᱞᱜᱟ ᱛᱮ ᱯᱟᱲᱦᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱞᱮᱭᱟᱣᱴ ᱵᱚᱫᱚᱞ ᱢᱮ
 printpreview-close =
     .label = ᱵᱚᱸᱫ ᱢᱮ
     .accesskey = ᱵ
@@ -38,7 +38,6 @@ printpreview-page-setup =
 printpreview-page =
     .value = ᱥᱟᱦᱴᱟ:
     .accesskey = ᱥ
-
 # Variables
 # $sheetNum (integer) - The current sheet number
 # $sheetCount (integer) - The total number of sheets to print

@@ -274,14 +274,14 @@ check-user-spelling =
 ## General Section - Files and Applications
 
 files-and-applications-title = ᱨᱮᱫᱽ ᱟᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱚ
-download-header = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
+download-header = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 download-save-where = ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱥᱟᱺᱪᱟᱣ
     .accesskey = v
 download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] ᱵᱟᱪᱷᱟᱣ ᱢᱮᱸ…
-           *[other] ᱵᱽᱨᱟᱩᱡᱽ…
+           *[other] ᱵᱽᱨᱟᱣᱡᱽ…
         }
     .accesskey =
         { PLATFORM() ->
@@ -892,10 +892,10 @@ history-remember-option-custom =
 history-remember-description = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ, ᱰᱟᱣᱱᱞᱚᱰ, ᱯᱷᱚᱨᱢ, ᱟᱨ ᱥᱮᱸᱫᱽᱨᱟ ᱦᱤᱛᱟᱹᱞ ᱢᱚᱱᱮ ᱫᱚᱦᱚᱭᱟᱭ ᱾
 history-dontremember-description = { -brand-short-name } ᱫᱚ ᱱᱤᱡᱮᱨᱟᱜ ᱯᱟᱱᱛᱮ ᱭᱟᱜ ᱞᱮᱠᱟ ᱢᱤᱛ ᱜᱮ ᱥᱟᱡᱟᱣ ᱠᱚ ᱨᱮᱭᱟᱜ ᱵᱮᱵᱷᱟᱨᱟ, ᱟᱨ ᱟᱢ ᱣᱮᱵ ᱯᱟᱱᱛᱮ ᱞᱮᱠᱟ ᱡᱟᱦᱟᱱ ᱦᱤᱛᱟᱹᱞ ᱵᱟᱭ ᱩᱭᱦᱟᱹᱨᱟ ᱾
 history-private-browsing-permanent =
-    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱢᱳᱰ ᱡᱟᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
+    .label = ᱯᱨᱟᱭᱣᱮᱴ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱢᱳᱰ ᱡᱟᱣᱜᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ
     .accesskey = p
 history-remember-browser-option =
-    .label = ᱵᱽᱨᱟᱩᱡᱤᱝ ᱟᱨ ᱰᱟᱩᱱᱞᱚᱰ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱩᱭᱦᱟᱹᱨ ᱠᱟᱜ ᱢᱮ
+    .label = ᱵᱽᱨᱟᱣᱡᱤᱝ ᱟᱨ ᱰᱟᱣᱱᱞᱚᱰ ᱦᱤᱛᱟᱹᱞ ᱠᱚ ᱩᱭᱦᱟᱹᱨ ᱠᱟᱜ ᱢᱮ
     .accesskey = b
 history-remember-search-option =
     .label = ᱯᱟᱱᱛᱮ ᱟᱨ ᱛᱮᱭᱟᱨ ᱦᱤᱛᱟᱹᱞ ᱩᱭᱦᱟᱹᱨ ᱫᱚᱦᱚᱭ ᱢᱮ
@@ -1265,5 +1265,5 @@ preferences-doh-manage-exceptions =
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = ᱰᱮᱥᱠᱴᱚᱯ
-downloads-folder-name = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
+downloads-folder-name = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 choose-download-folder-title = ᱟᱛᱩᱨ ᱟᱬᱜᱚ ᱯᱚᱴᱚᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:

@@ -262,7 +262,7 @@ places-search-bookmarks =
 places-search-history =
     .placeholder = ᱥᱮᱸᱫᱽᱨᱟ ᱱᱟᱜᱟᱢ ᱠᱚ
 places-search-downloads =
-    .placeholder = ᱰᱟᱩᱱᱞᱚᱰ ᱯᱟᱱᱛᱮ ᱢᱮ
+    .placeholder = ᱰᱟᱣᱱᱞᱚᱰ ᱯᱟᱱᱛᱮ ᱢᱮ
 
 ##
 

@@ -127,7 +127,7 @@ mr2-onboarding-start-browsing-button-label = ᱯᱟᱱᱛᱮᱭᱟᱜ ᱮᱦᱚ�
 onboarding-live-language-header = ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱵᱟᱪᱷᱟᱣ ᱛᱟᱢ
 mr2022-onboarding-live-language-text = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱨᱚᱲᱟᱭ
 mr2022-language-mismatch-subtitle = ᱟᱵᱚᱣᱟᱜ ᱜᱟᱶᱛᱟ ᱠᱷᱟᱹᱛᱤᱨ, { -brand-short-name } ᱫᱚ 90 ᱜᱚᱴᱟᱝ ᱯᱟᱹᱨᱥᱤ ᱛᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱟᱠᱟᱱᱟ ᱾ ᱟᱢᱟᱜ ᱥᱤᱥᱴᱮᱢ { $systemLanguage } ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ, ᱟᱨ { -brand-short-name } ᱫᱚ { $appLanguage } ᱵᱮᱵᱷᱟᱨᱮᱫᱟᱭ ᱾
-onboarding-live-language-button-label-downloading = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠ ᱰᱟᱩᱱᱞᱳᱰᱚᱜ ᱠᱟᱱᱟ …
+onboarding-live-language-button-label-downloading = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠ ᱰᱟᱣᱱᱞᱳᱰᱚᱜ ᱠᱟᱱᱟ …
 onboarding-live-language-waiting-button = ᱢᱮᱱᱟᱜ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤ ᱧᱟᱢᱚᱜ ᱠᱟᱱᱟ …
 onboarding-live-language-installing = { $negotiatedLanguage } ᱞᱟᱹᱜᱤᱫ ᱯᱟᱹᱨᱥᱤ ᱯᱮᱠᱮᱴ ᱵᱚᱦᱟᱞᱚᱜ ᱠᱟᱱᱟ …
 mr2022-onboarding-live-language-switch-to = { $negotiatedLanguage } ᱛᱮ ᱵᱚᱫᱚᱞ ᱢᱮ
@@ -224,7 +224,7 @@ mr2022-onboarding-get-started-primary-button-label = ᱢᱤᱫᱴᱟᱝ ᱴᱤ�
 ## MR2022 Import Settings screen strings
 
 mr2022-onboarding-import-header = ᱟᱹᱰᱤ ᱪᱚᱴᱠᱟᱨ ᱥᱮᱴᱚᱯ
-mr2022-onboarding-import-subtitle = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱥᱮᱴ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱵᱽᱨᱟᱩᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾
+mr2022-onboarding-import-subtitle = { -brand-short-name } ᱫᱚ ᱟᱢᱟᱜ ᱠᱩᱥᱤ ᱦᱤᱥᱟᱹᱵ ᱛᱮ ᱥᱮᱴ ᱢᱮ ᱾ ᱟᱢᱟᱜ ᱯᱟᱹᱦᱤᱞ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱢᱟᱜ ᱵᱩᱠᱢᱟᱨᱠ, ᱫᱟᱱᱟᱝ ᱥᱟᱵᱟᱫ, ᱟᱨ ᱟᱭᱢᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ᱾
 mr2022-onboarding-import-primary-button-label-no-attribution = ᱢᱟᱲᱟᱝᱟᱜ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱠᱷᱚᱱ ᱟᱹᱜᱩᱭ ᱢᱮ
 
 ## If your language uses grammatical genders, in the description for the

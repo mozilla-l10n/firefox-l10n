@@ -4,5 +4,5 @@
 
 screenshots-overlay-cancel-button = ᱵᱟᱹᱰᱨᱟᱹ
 screenshots-overlay-instructions = ᱡᱟᱭᱜᱟ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱪᱫ ᱚᱨ ᱟᱬᱜᱚᱭ ᱢᱨ ᱟᱨ ᱵᱟᱝ ᱥᱟᱦᱴᱟ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ ᱾ ᱵᱟᱹᱰᱨᱟᱹ ᱞᱟᱹᱜᱤᱫ Esc ᱚᱛᱟᱭ ᱢᱮ ᱾
-screenshots-overlay-download-button = ᱰᱟᱩᱱᱞᱚᱰ
+screenshots-overlay-download-button = ᱰᱟᱣᱱᱞᱚᱰ
 screenshots-overlay-copy-button = ᱱᱚᱠᱚᱞ

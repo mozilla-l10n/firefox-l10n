@@ -263,7 +263,7 @@ quickactions-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 quickactions-cmd-clearhistory = ᱦᱤᱛᱟᱹᱞ ᱯᱷᱟᱨᱪᱟᱭ ᱢᱮ
 # Opens about:downloads page
 quickactions-downloads2 = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ ᱧᱮᱞ ᱢᱮ
-quickactions-cmd-downloads = ᱰᱟᱩᱱᱞᱚᱰ ᱠᱚ
+quickactions-cmd-downloads = ᱰᱟᱣᱱᱞᱚᱰ ᱠᱚ
 # Opens about:addons page in the extensions section
 quickactions-extensions = ᱮᱠᱮᱴᱮᱱᱮᱚᱱ ᱠᱚ ᱢᱮᱱᱟᱡᱽ ᱢᱮ
 quickactions-cmd-extensions = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚ
@@ -786,7 +786,7 @@ toolbar-button-synced-tabs =
 # $shortcut (string) - Keyboard shortcut to open a new private browsing window
 toolbar-button-new-private-window =
     .label = ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱣᱤᱱᱰᱚ
-    .tooltiptext = ᱢᱤᱫ ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱣᱤᱱᱰᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ({ $shortcut })
+    .tooltiptext = ᱢᱤᱫ ᱱᱟᱶᱟ ᱱᱤᱡᱮᱨᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱣᱤᱱᱰᱚ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ ({ $shortcut })
 
 ## EME notification panel
 

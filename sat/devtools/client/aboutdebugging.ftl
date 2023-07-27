@@ -270,7 +270,7 @@ about-debugging-extension-id =
 # Text displayed for extensions in "runtime" pages, before displaying the status of the
 # extension background script.
 about-debugging-extension-backgroundscript =
-    .label = ᱵᱮᱠᱜᱽᱨᱟᱩᱸᱰ ᱥᱠᱨᱤᱯᱴ
+    .label = ᱵᱮᱠᱜᱽᱨᱟᱣᱸᱰ ᱥᱠᱨᱤᱯᱴ
 # Displayed for extension using a non-persistent background page (either an event page or
 # background service worker) when the background script is currently running.
 about-debugging-extension-backgroundscript-status-running = ᱫᱟᱹᱲᱮᱫᱟᱭ

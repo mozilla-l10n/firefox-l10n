@@ -6,7 +6,7 @@ restore-page-tab-title = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = ᱤᱠᱟᱹ ᱾ ᱟᱞᱮ ᱟᱢᱟᱜ ᱥᱟᱦᱴᱟ ᱠᱚ ᱟᱹᱜᱩ ᱨᱩᱣᱟᱹᱲ ᱨᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ ᱾
-restore-page-problem-desc = ᱟᱞᱮ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝ ᱵᱽᱨᱟᱩᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ ᱾ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
+restore-page-problem-desc = ᱟᱞᱮ ᱫᱚ ᱟᱢᱟᱜ ᱢᱟᱲᱟᱝ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱠᱟᱹᱢᱤ ᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱨᱮ ᱢᱩᱥᱠᱤᱞᱚᱜ ᱠᱟᱱᱟ ᱞᱮ ᱾ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚ ᱠᱟᱹᱢᱤ ᱵᱟᱪᱷᱟᱣ ᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 restore-page-try-this = ᱱᱤᱛ ᱦᱚᱸ ᱵᱟᱝ ᱫᱚᱦᱚ ᱨᱩᱣᱟᱹᱲ ᱟᱹᱜᱩ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱢ ? ᱚᱠᱟᱡᱷᱚᱜ ᱢᱤᱫᱴᱟᱝ ᱴᱮᱵᱽ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱥᱠᱤᱞ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾ ᱢᱟᱨᱮ ᱴᱮᱵᱽ ᱧᱮᱞ ᱢᱮ, ᱚᱠᱟ ᱵᱟᱝ ᱫᱚᱦᱚ ᱥᱮᱱᱟᱢ ᱠᱟᱱᱟ ᱚᱱᱟ ᱪᱤᱱᱦᱟᱹ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ, ᱟᱨ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ ᱾
 restore-page-hide-tabs = ᱛᱟᱭᱚᱢ ᱴᱮᱵᱽ ᱠᱚ ᱩᱠᱩᱭ ᱢᱮ
 restore-page-show-tabs = ᱛᱟᱭᱚᱢ ᱴᱮᱵᱽ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ

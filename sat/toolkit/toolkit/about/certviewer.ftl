@@ -83,7 +83,7 @@ certificate-viewer-embedded-scts = ᱠᱷᱟᱹᱲ ᱠᱟᱱ SCTs
 certificate-viewer-crl-endpoints = CRL ᱢᱩᱪᱟᱹᱫ ᱫᱷᱟᱯ
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
-certificate-viewer-download = ᱰᱟᱩᱱᱞᱚᱰ
+certificate-viewer-download = ᱰᱟᱣᱱᱞᱚᱰ
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field

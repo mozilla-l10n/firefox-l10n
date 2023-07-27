@@ -129,8 +129,8 @@ newtab-menu-bookmark = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟ.
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
-newtab-menu-copy-download-link = ᱰᱟᱩᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
-newtab-menu-go-to-download-page = ᱰᱟᱩᱱᱞᱚᱰ ᱥᱟᱦᱴᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ
+newtab-menu-copy-download-link = ᱰᱟᱣᱱᱞᱚᱰ ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
+newtab-menu-go-to-download-page = ᱰᱟᱣᱱᱞᱚᱰ ᱥᱟᱦᱴᱟ ᱥᱮᱫ ᱪᱟᱞᱟᱜ ᱢᱮ
 newtab-menu-remove-download = ᱱᱟᱜᱟᱢ ᱠᱷᱚᱱ ᱚᱪᱚᱜᱽ ᱢᱮ
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
@@ -153,7 +153,7 @@ newtab-label-bookmarked = ᱯᱩᱛᱷᱤ ᱪᱤᱱᱦᱟ. ᱠᱟᱱ
 newtab-label-removed-bookmark = ᱵᱩᱠᱢᱟᱨᱠ ᱚᱪᱚᱜᱟᱠᱟᱱᱟ
 newtab-label-recommended = ᱴᱨᱮᱱᱰᱤᱝ
 newtab-label-saved = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ ᱮᱱᱟ
-newtab-label-download = ᱰᱟᱩᱱᱞᱚᱰ ᱦᱩᱭ
+newtab-label-download = ᱰᱟᱣᱱᱞᱚᱰ ᱦᱩᱭ
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain

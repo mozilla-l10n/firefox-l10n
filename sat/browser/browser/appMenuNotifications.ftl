@@ -4,18 +4,18 @@
 
 appmenu-update-available2 =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱜ ᱢᱮᱱᱟᱜᱼᱟ
-    .buttonlabel = ᱰᱟᱩᱱᱞᱚᱰ
+    .buttonlabel = ᱰᱟᱣᱱᱞᱚᱰ
     .buttonaccesskey = D
     .secondarybuttonlabel = ᱵᱚᱸᱫ ᱪᱷᱚ
     .secondarybuttonaccesskey = m
-appmenu-update-available-message2 = { -brand-shorter-name } ᱨᱮᱭᱟᱜ ᱱᱮᱼᱱᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱰᱟᱩᱱᱞᱚᱰ ᱢᱮ ᱾
+appmenu-update-available-message2 = { -brand-shorter-name } ᱨᱮᱭᱟᱜ ᱱᱮᱼᱱᱮ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮ ᱾
 appmenu-update-manual2 =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱜ ᱢᱮᱱᱟᱜᱼᱟ
-    .buttonlabel = ᱰᱟᱩᱱᱞᱚᱰ
+    .buttonlabel = ᱰᱟᱣᱱᱞᱚᱰ
     .buttonaccesskey = D
     .secondarybuttonlabel = ᱵᱚᱸᱫ
     .secondarybuttonaccesskey = m
-appmenu-update-manual-message2 = { -brand-shorter-name } ᱟᱡ ᱛᱮ ᱵᱟᱝ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱞᱮᱱᱟ ᱾ ᱱᱟᱶᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱰᱟᱩᱱᱞᱳᱰ ᱢᱮ — ᱟᱢ ᱫᱚ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱝᱠᱷᱟᱱ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱝ ᱟᱫᱟ ᱾
+appmenu-update-manual-message2 = { -brand-shorter-name } ᱟᱡ ᱛᱮ ᱵᱟᱝ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱞᱮᱱᱟ ᱾ ᱱᱟᱶᱟ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱰᱟᱣᱱᱞᱳᱰ ᱢᱮ — ᱟᱢ ᱫᱚ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱱ ᱡᱤᱱᱤᱥ ᱵᱟᱝᱠᱷᱟᱱ ᱢᱚᱱᱮᱛᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ ᱠᱚ ᱵᱟᱝ ᱟᱫᱟ ᱾
 appmenu-update-unsupported2 =
     .label = ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱵᱟᱝ ᱜᱟᱱ ᱞᱮᱱᱟ
     .buttonlabel = ᱰᱷᱮᱨ ᱪᱮᱫ ᱢᱮ

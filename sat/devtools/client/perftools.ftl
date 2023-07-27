@@ -49,7 +49,7 @@ perftools-devtools-settings-label = ᱥᱟᱡᱟᱣ ᱠᱚ
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-recording-stopped-by-another-tool = ᱮᱴᱟᱜ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱛᱮ ᱨᱮᱠᱚᱚᱰᱤᱝᱥ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾
+perftools-status-recording-stopped-by-another-tool = ᱮᱴᱟᱜ ᱦᱟᱹᱛᱤᱭᱟᱨ ᱛᱮ ᱨᱮᱠᱚᱰᱤᱝᱥ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾
 perftools-status-restart-required = ᱱᱚᱶᱟ ᱯᱷᱤᱪᱚᱨ ᱮᱢᱪᱷᱚ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱵᱽᱨᱟᱣᱡᱚᱨ ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
@@ -111,7 +111,7 @@ perftools-thread-jvm-pool =
 
 perftools-record-all-registered-threads = ᱪᱮᱛᱟᱱ ᱵᱟᱪᱷᱟᱣᱠᱚ ᱵᱟᱭᱯᱟᱥ ᱢᱮ ᱟᱨ ᱧᱩᱛᱩᱢᱞᱮᱠᱷᱟ ᱠᱟᱱ ᱛᱷᱨᱮᱰᱠᱚ ᱨᱮᱠᱳᱰ ᱢᱮ
 perftools-tools-threads-input-label =
-    .title = ᱱᱚᱣᱟ ᱥᱩᱛᱟᱹᱢ ᱧᱩᱛᱩᱢ ᱫᱚ ᱢᱤᱫ ᱠᱳᱢᱟ ᱵᱷᱮᱜᱟᱨ ᱞᱤᱥᱴ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨ ᱨᱮ ᱴᱨᱮᱱᱰ ᱠᱚ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜᱼᱟ ᱾ ᱧᱩᱛᱩᱢ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱚᱱᱚᱞ ᱧᱩᱛᱩᱢ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱢᱮᱲᱟᱣ ᱡᱟᱦᱟᱸ ᱫᱚ ᱛᱟᱭᱚᱢ ᱛᱮ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾ ᱱᱚᱟᱣ ᱫᱚ ᱠᱷᱟᱹᱞᱤᱡᱟᱭᱜᱟ ᱥᱮᱱᱥᱤᱴᱤᱵᱷ ᱜᱮᱭᱟ ᱾
+    .title = ᱱᱚᱣᱟ ᱥᱩᱛᱟᱹᱢ ᱧᱩᱛᱩᱢ ᱫᱚ ᱢᱤᱫ ᱠᱳᱢᱟ ᱵᱷᱮᱜᱟᱨ ᱞᱤᱥᱴ ᱠᱟᱱᱟ ᱡᱟᱦᱟᱸ ᱫᱚ ᱯᱨᱚᱯᱷᱟᱭᱞᱚᱨ ᱨᱮ ᱴᱨᱮᱱᱰ ᱠᱚ ᱯᱨᱚᱯᱷᱟᱭᱤᱞ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱚᱜᱼᱟ ᱾ ᱧᱩᱛᱩᱢ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱚᱱᱚᱞ ᱧᱩᱛᱩᱢ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱢᱮᱲᱟᱣ ᱡᱟᱦᱟᱸ ᱫᱚ ᱛᱟᱭᱚᱢ ᱛᱮ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾ ᱱᱚᱣᱟᱣ ᱫᱚ ᱠᱷᱟᱹᱞᱤᱡᱟᱭᱜᱟ ᱥᱮᱱᱥᱤᱴᱤᱵᱷ ᱜᱮᱭᱟ ᱾
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
