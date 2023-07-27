@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla 位置服务密钥
 app-basics-safe-mode = 安全模式
 app-basics-memory-size = 内存大小（RAM）
 app-basics-disk-available = 磁盘可用空间
+app-basics-pointing-devices = 定点设备
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -381,3 +382,8 @@ support-remote-experiments-see-about-studies = 欲详细了解，请参见 <a da
 support-remote-features-title = 远程功能
 support-remote-features-name = 名称
 support-remote-features-status = 状态
+
+## Pointing devices
+
+pointing-device-pen-digitizer = 数位板
+pointing-device-none = 无定点设备
