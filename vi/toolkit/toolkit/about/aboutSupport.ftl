@@ -78,6 +78,7 @@ app-basics-key-mozilla = Khóa dịch vụ định vị Mozilla
 app-basics-safe-mode = Chế độ an toàn
 app-basics-memory-size = Dung lượng bộ nhớ (RAM)
 app-basics-disk-available = Không gian đĩa có sẵn
+app-basics-pointing-devices = Thiết bị điều khiển con trỏ
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -381,3 +382,10 @@ support-remote-experiments-see-about-studies = Xem trang <a data-l10n-name="supp
 support-remote-features-title = Tính năng từ xa
 support-remote-features-name = Tên
 support-remote-features-status = Trạng thái
+
+## Pointing devices
+
+pointing-device-mouse = Chuột
+pointing-device-touchscreen = Màn hình cảm ứng
+pointing-device-pen-digitizer = Bút kỹ thuật số
+pointing-device-none = Không có thiết bị điều khiển con trỏ
