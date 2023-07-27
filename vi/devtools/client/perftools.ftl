@@ -28,6 +28,10 @@ perftools-heading-local-build = Bản dựng cục bộ
 perftools-description-intro =
     Bản ghi sẽ khởi chạy <a>profiler.firefox.com</a> trong một thẻ mới. Tất cả dữ liệu được lưu trữ
     cục bộ, nhưng bạn có thể chọn tải lên để chia sẻ.
+perftools-description-local-build =
+    Nếu bạn đang lược tả một bản dựng do chính bạn biên dịch, trên
+    máy tính này, vui lòng thêm objdir của bản dựng của bạn vào
+    danh sách bên dưới để có thể sử dụng nó để tra cứu thông tin symbol.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -38,9 +42,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Kích thước đệm:
-
 perftools-custom-threads-label = Thêm luồng tùy chỉnh theo tên:
-
 perftools-devtools-interval-label = Khoảng thời gian
 perftools-devtools-threads-label = Luồng:
 perftools-devtools-settings-label = Cài đặt
@@ -86,7 +88,6 @@ perftools-thread-dns-resolver =
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Mới</b>: { -profiler-brand-name } hiện được tích hợp vào Công cụ nhà phát triển. <a>Tìm hiểu thêm</a> về công cụ mới mạnh mẽ này.
-
 perftools-onboarding-close-button =
     .aria-label = Đóng thông báo giới thiệu
 
@@ -94,28 +95,19 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Nhà phát triển Web
 perftools-presets-web-developer-description = Giá trị đặt trước được đề xuất tải thấp để gỡ lỗi các ứng dụng web phổ biến.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Giá trị đặt trước được đề xuất để kiểm tra hiệu suất { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Đồ họa
 perftools-presets-graphics-description = Giá trị đặt trước để điều tra lỗi đồ họa trong { -brand-shorter-name }.
-
 perftools-presets-media-label = Đa phương tiện
 perftools-presets-media-description2 = Giá trị đặt trước để điều tra lỗi âm thanh và video trong { -brand-shorter-name }.
-
 perftools-presets-networking-label = Kết nối mạng
 perftools-presets-networking-description = Giá trị đặt trước để điều tra lỗi mạng trong { -brand-shorter-name }.
-
 perftools-presets-custom-label = Tùy chọn
 
 ##
