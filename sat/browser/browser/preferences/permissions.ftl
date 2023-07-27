@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = ᱪᱷᱟᱰᱟ ᱠᱚ
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = ᱣᱮᱵᱥᱟᱭᱤᱴᱟᱜ ᱴᱷᱤᱠᱬᱟᱹ
     .accesskey = d
-
 permissions-block =
     .label = ᱟᱠᱚᱴ
     .accesskey = B
-
 permissions-disable-etp =
     .label = ᱵᱟᱫᱟᱜ ᱠᱚ ᱥᱮᱞᱮᱫ
     .accesskey = E
-
 permissions-session =
     .label = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
     .accesskey = S
-
 permissions-allow =
     .label = ᱦᱮᱥᱟᱹᱨᱤᱭᱟᱹ
     .accesskey = A
-
 permissions-button-off =
     .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = ᱛᱤᱱᱟᱹᱜ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
     .accesskey = T
-
 permissions-site-name =
     .label = ᱣᱮᱵᱥᱟᱭᱤᱴ
-
 permissions-status =
     .label = ᱫᱚᱥᱟ
-
 permissions-remove =
     .label = ᱣᱮᱵᱥᱟᱭᱤᱴ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
-
 permissions-remove-all =
     .label = ᱡᱷᱚᱛᱚ ᱣᱮᱵᱥᱟᱭᱤᱴ ᱠᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = ᱵᱚᱫᱚᱞ ᱠᱚ ᱥᱟᱺᱪᱟᱣ ᱢᱮ
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = ᱡᱷᱚᱛᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱢᱩᱞᱺ
-
 permissions-searchbox =
     .placeholder = ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱥᱮᱸᱫᱽᱨᱟᱭ ᱢᱮ
-
 permissions-capabilities-autoplay-allow =
     .label = ᱟᱰᱤᱭᱳ ᱟᱨ ᱣᱤᱰᱤᱭᱳ ᱦᱮᱥᱟᱨᱤᱭᱟᱹ ᱢᱮ
 permissions-capabilities-autoplay-block =
     .label = ᱥᱟᱰᱮ ᱟᱠᱚᱴ ᱢᱮ
 permissions-capabilities-autoplay-blockall =
     .label = ᱥᱟᱰᱮ ᱟᱨ ᱣᱤᱰᱤᱭᱳ ᱟᱴᱠᱟᱣ ᱢᱮ
-
 permissions-capabilities-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-block =
     .label = ᱟᱠᱚᱴ
 permissions-capabilities-prompt =
     .label = ᱡᱟᱣᱜᱮ ᱠᱩᱞᱤᱮᱢ
-
 permissions-capabilities-listitem-allow =
     .value = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
 permissions-capabilities-listitem-block =
     .value = ᱟᱠᱚᱴ
 permissions-capabilities-listitem-allow-session =
     .value = ᱠᱟᱹᱢᱤ ᱚᱠᱛᱚ ᱞᱟᱹᱜᱤᱫ ᱵᱟᱛᱟᱣ ᱮᱢ
-
 permissions-capabilities-listitem-off =
     .value = ᱵᱚᱸᱫᱚ
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = ᱵᱮᱜᱚᱨ - HTTPS-ᱢᱳᱰ ᱜᱮ
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = ᱟᱢ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱤᱥᱮᱥ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱜᱮ HTTPS-ᱢᱳᱰ ᱜᱮ ᱵᱚᱸᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ { -brand-short-name } ᱫᱚ ᱚᱱᱟ ᱠᱚ ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ HTTPS ᱵᱟᱭ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱟᱭ ᱾ ᱵᱮᱜᱚᱨ ᱫᱚ ᱯᱨᱟᱭᱣᱮᱴ ᱡᱷᱚᱨᱠᱟ ᱨᱮ ᱵᱟᱭ ᱮᱢᱚᱜᱚᱜᱼᱟ ᱾
+permissions-exceptions-https-only-desc2 = ᱟᱢ ᱫᱚ ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱤᱥᱮᱥ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱜᱮ HTTPS-ᱢᱳᱰ ᱜᱮ ᱵᱚᱸᱫ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾ { -brand-short-name } ᱫᱚ ᱚᱱᱟ ᱠᱚ ᱥᱟᱭᱤᱴ ᱨᱮᱭᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ HTTPS ᱵᱟᱭ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱟᱭ ᱾
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = ᱥᱟᱡᱟᱣ ᱠᱚ - ᱥᱯᱤᱠᱚᱨ ᱦᱚᱠ
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = ᱱᱚᱶᱟ ᱠᱚ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱥᱮᱰᱮ ᱥᱟᱫᱷᱚᱱ ᱵᱟᱪᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱠᱚ ᱱᱮᱦᱚᱨ ᱮᱫᱟ ᱾ ᱟᱢ ᱫᱚ ᱚᱠᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱵᱷᱵᱟᱨ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ ᱚᱱᱟ ᱠᱚ ᱵᱟᱪᱷᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
-
 permissions-exceptions-doh-window =
     .title = DNS ᱪᱮᱛᱟᱱ ᱨᱮ HTTPS ᱵᱟᱠᱷᱨᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱪᱷᱟᱲ
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ᱫᱚ ᱨᱩᱠᱷᱤᱭᱟᱹ DNS ᱚᱱᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱨ ᱟᱠᱚᱣᱟᱜ ᱥᱚᱵᱽᱰᱚᱢᱮᱱ ᱨᱮ ᱵᱟᱭ ᱵᱮᱵᱷᱟᱨ ᱟᱭ ᱾
-
 permissions-doh-entry-field = ᱣᱮᱵᱽᱥᱟᱭᱤ ᱰᱚᱢᱮᱱ ᱧᱩᱛᱩᱢ ᱟᱫᱮᱨ ᱢᱮ
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = ᱥᱮᱞᱮᱫᱽ ᱢᱮ
     .accesskey = A
-
 permissions-doh-col =
     .label = ᱰᱚᱢᱮᱱ
-
 permissions-doh-remove =
     .label = ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = ᱡᱷᱚᱛᱚ ᱚᱪᱚᱜᱽ ᱢᱮ
     .accesskey = e

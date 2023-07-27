@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla ᱨᱮᱭᱟᱜ ᱡᱟᱭᱜᱟ ᱠᱟᱹᱢᱤ
 app-basics-safe-mode = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱢᱳᱰ
 app-basics-memory-size = ᱢᱚᱱᱮ ᱢᱟᱯ (RAM)
 app-basics-disk-available = ᱰᱤᱥᱠ ᱡᱟᱭᱜᱟ ᱢᱮᱱᱟᱜᱼᱟ
+app-basics-pointing-devices = ᱩᱫᱩᱜ ᱥᱟᱫᱷᱚᱱᱠᱚ
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,10 @@ support-remote-experiments-see-about-studies = ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱞ�
 support-remote-features-title = ᱨᱤᱢᱚᱴ ᱯᱷᱤᱪᱚᱨᱠᱚ
 support-remote-features-name = ᱧᱩᱛᱩᱢ
 support-remote-features-status = ᱫᱚᱥᱟ
+
+## Pointing devices
+
+pointing-device-mouse = ᱢᱟᱣᱥ
+pointing-device-touchscreen = ᱴᱚᱪ ᱥᱠᱨᱤᱱ
+pointing-device-pen-digitizer = ᱯᱚᱱ ᱰᱤᱡᱤᱴᱟᱭᱡᱚᱨ
+pointing-device-none = ᱩᱫᱩᱜ ᱥᱟᱫᱷᱚᱱᱠᱚ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱼᱟ

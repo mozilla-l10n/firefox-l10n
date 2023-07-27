@@ -24,6 +24,7 @@ addon-post-install-message = { $addonName } ᱫᱚ ᱥᱮᱞᱮᱫ ᱮᱱᱟ ᱾
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = ᱵᱟᱹᱰ ᱠᱟᱱ ᱥᱟᱭᱤᱴᱠᱚ { $addonName } ᱫᱟᱹᱲᱪᱷᱚᱭ ᱢᱮ ?
 webext-quarantine-confirmation-line-1 = ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱞᱟᱹᱜᱤᱫ, ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ ᱾
+webext-quarantine-confirmation-line-2 = { -vendor-short-name } ᱛᱮ ᱟᱠᱚᱴ ᱠᱚᱱ ᱥᱟᱭᱤᱴ ᱨᱮ ᱟᱢᱟᱜ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱦᱮᱸᱥᱮᱨᱤᱭᱟᱹ ᱪᱷᱚᱭ ᱢᱮ ᱾
 webext-quarantine-confirmation-allow =
     .label = ᱦᱮᱥᱟᱨᱤᱭᱟᱹ
     .accesskey = A

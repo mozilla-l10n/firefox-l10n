@@ -10,19 +10,18 @@
 
 origin-controls-no-access =
     .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱵᱟᱭ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ
-
 origin-controls-quarantined =
     .label = ᱰᱟᱴᱟ ᱠᱚ ᱯᱟᱲᱦᱟᱣ ᱥᱮ ᱵᱚᱫᱚᱞ ᱫᱚ ᱮᱠᱥᱴᱮᱱᱥᱮᱚᱱ ᱵᱟᱭ ᱮᱢᱪᱷᱚᱭᱟᱭ
-
+origin-controls-quarantined-status =
+    .label = ᱟᱠᱚᱴ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱨᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱮᱢ ᱵᱟᱭ ᱜᱚᱱᱚᱜᱼᱟ
+origin-controls-quarantined-allow =
+    .label = ᱟᱠᱚᱴ ᱥᱟᱭᱤᱴ ᱨᱮ ᱮᱢ ᱪᱷᱚᱭ ᱢᱮ
 origin-controls-options =
     .label = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭᱺ
-
 origin-controls-option-all-domains =
     .label = ᱡᱷᱚᱛᱚ ᱥᱟᱭᱤᱴ ᱠᱚᱨᱮ
-
 origin-controls-option-when-clicked =
     .label = ᱠᱷᱟᱹᱞᱤ ᱚᱛᱟ ᱞᱮᱱ ᱱᱟ ᱜᱮ
-
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -34,19 +33,12 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱵᱟᱭ ᱜᱟᱱᱚᱜᱼᱟ
-
 origin-controls-state-quarantined = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ { -vendor-short-name } ᱵᱟᱭ ᱮᱢᱪᱷᱚᱭᱚᱭ
-
 origin-controls-state-always-on = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱮ ᱜᱷᱤᱲᱜᱮ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱜᱟᱱᱚᱜᱼᱟ
-
 origin-controls-state-when-clicked = ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱦᱚᱠ ᱫᱚᱨᱠᱟᱨ
-
 origin-controls-state-hover-run-visit-only = ᱱᱤᱭᱟᱹ ᱫᱷᱟᱣ ᱞᱟᱹᱜᱤᱫ ᱜᱮ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
-
 origin-controls-state-runnable-hover-open = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱷᱩᱞᱟᱹᱭ ᱢᱮ
-
 origin-controls-state-runnable-hover-run = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱟᱹᱲ ᱪᱷᱚᱭ ᱢᱮ
-
 origin-controls-state-temporary-access = ᱱᱚᱶᱟ ᱦᱤᱨᱤ ᱞᱟᱹᱜᱤᱫ ᱰᱟᱴᱟ ᱯᱟᱲᱦᱟᱣ ᱟᱨ ᱵᱚᱫᱚᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ
 
 ## Extension's toolbar button.
@@ -56,7 +48,6 @@ origin-controls-state-temporary-access = ᱱᱚᱶᱟ ᱦᱤᱨᱤ ᱞᱟᱹᱜ�
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
-
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -64,7 +55,6 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         ᱞᱟᱹᱠᱛᱤᱭᱟᱱ ᱩᱫᱤᱥᱟ
-
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =
