@@ -18,6 +18,7 @@ support-addons-type = Τύπος
 support-addons-enabled = Ενεργό
 support-addons-version = Έκδοση
 support-addons-id = ID
+legacy-user-stylesheets-stylesheet-types = Φύλλο στυλ
 security-software-title = Λογισμικό ασφαλείας
 security-software-type = Τύπος
 security-software-name = Όνομα
@@ -77,6 +78,7 @@ app-basics-key-mozilla = Κλειδί υπηρεσίας τοποθεσίας Mo
 app-basics-safe-mode = Ασφαλής λειτουργία
 app-basics-memory-size = Μέγεθος μνήμης (RAM)
 app-basics-disk-available = Διαθέσιμος χώρος δίσκου
+app-basics-pointing-devices = Συσκευές κατάδειξης
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -400,3 +402,8 @@ support-remote-experiments-see-about-studies = Δείτε το <a data-l10n-name
 support-remote-features-title = Απομακρυσμένες δυνατότητες
 support-remote-features-name = Όνομα
 support-remote-features-status = Κατάσταση
+
+## Pointing devices
+
+pointing-device-mouse = Ποντίκι
+pointing-device-touchscreen = Οθόνη αφής

@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = Ολοκλήρωση κατά { $percentV
 firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
 firefoxview-tabpickup-step-signin-description = Για να φέρετε τις καρτέλες του τηλεφώνου σας εδώ, κάντε πρώτα σύνδεση ή δημιουργήστε έναν λογαριασμό.
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
+firefoxview-syncedtabs-signin-primarybutton = Σύνδεση ή εγγραφή
 firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
@@ -46,6 +47,7 @@ firefoxview-tabpickup-password-locked-header = Εισαγάγετε τον κύ�
 firefoxview-tabpickup-password-locked-description = Για να λάβετε τις καρτέλες σας, θα πρέπει να εισαγάγετε τον κύριο κωδικό πρόσβασης του { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Μάθετε περισσότερα
 firefoxview-tabpickup-password-locked-primarybutton = Εισαγωγή κύριου κωδικού πρόσβασης
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Μάθετε περισσότερα</a>
 firefoxview-tabpickup-signed-out-header = Συνδεθείτε για επανασύνδεση
 firefoxview-tabpickup-signed-out-description = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
@@ -92,6 +94,8 @@ firefoxview-overview-header = Πρόσφατη περιήγηση
 firefoxview-history-nav = Ιστορικό
     .title = Ιστορικό
 firefoxview-history-header = Ιστορικό
+firefoxview-history-context-delete = Διαγραφή από ιστορικό
+    .accesskey = Δ
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +117,7 @@ firefoxview-synced-tabs-header = Καρτέλες από άλλες συσκευ
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Προβολή όλων
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +141,37 @@ firefoxview-history-date-today = Σήμερα - { DATETIME($date, dateStyle: "fu
 firefoxview-history-date-yesterday = Χθες - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (τοπικά αρχεία)
 
 ##
 
 firefoxview-show-all-history = Εμφάνιση πλήρους ιστορικού
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Κλείσιμο
+    .title = Κλείσιμο
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+firefoxview-recentlyclosed-empty-header = Κλείσατε κάποια καρτέλα πολύ νωρίς;
+
+##
+
