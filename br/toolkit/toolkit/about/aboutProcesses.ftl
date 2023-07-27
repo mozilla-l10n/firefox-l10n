@@ -52,12 +52,19 @@ about-processes-unknown-process = All : { $type } ({ $pid })
 ##    $origin (String) The domain name for this process.
 
 about-processes-web-isolated-process = { $origin } ({ $pid })
+about-processes-web-serviceworker = { $origin } ({ $pid }, serviceworker)
 about-processes-with-coop-coep-process = { $origin } ({ $pid }, liesorin distaget)
 about-processes-web-isolated-process-private = { $origin } — Prevez ({ $pid })
 about-processes-with-coop-coep-process-private = { $origin } — Prevez ({ $pid }, liesorin distaget)
 
 ## Details within processes
 
+# Thread details
+# Variables:
+#   $name (String) The name assigned to the thread.
+#   $tid (String) The thread id of this thread, assigned by the OS.
+about-processes-thread-name-and-id = { $name }
+    .title = Id an neudennad: { $tid }
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).

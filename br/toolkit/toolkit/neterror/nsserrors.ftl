@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Ne c'haller ket kennaskañ diarvar rak diweredekaet eo bet ar c'homenad SSL.
 psmerr-ssl2-disabled = Ne c'haller ket kennaskañ diarvar rak ur c'homenad mod SSL kozh hag arvarus a arver al lec'hienn.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Degemeret hoc'h eus un testeni didalvoudek. Kit e darempred gant ardoer an dafariad pe kaser ar postel ha roit dezho an titouroù da heul:
     
     An hevelep steudriñv eget hini un testeni all skignet gant an aotrouniezh testeniañ zo e-barzh ho testeni. Mar plij, kit da gerc'hat un testeni gant ur steudriñv nevez dibar.
-
 ssl-error-export-only-server = N'haller ket kehentiñ diarvar. N'eo ket skoret an enrinegañ a live uhel gant ho par.
 ssl-error-us-only-server = N'haller ket kehentiñ gant un doare diarvar. Azgoulenn a ra ar par ul live enrinegañ uhel n'eo ket skoret.
 ssl-error-no-cypher-overlap = N'haller ket kehentiñ diarvar gant ar par: n'eus kendreol(ioù) enrinegañ ebet.
@@ -113,7 +111,7 @@ ssl-error-access-denied-alert = Un testeni talvoudek a oa bet degemeret gant ar 
 ssl-error-decode-error-alert = Ar par n'eo ket evit ezrinegañ ar gemennadenn evit seveniñ ur c'hennaskañ mod SSL.
 ssl-error-decrypt-error-alert = Ur c'hwitadenn war gwiriañ ar sinadur pe eskemm an alc'hwez zo bet danevellet gant ar par.
 ssl-error-export-restriction-alert = Danevellet eo bet gant ar par ur c'hevraouiñ nad eo ket reizh e-keñver ar reolennadurioù ezporzhiañ.
-ssl-error-protocol-version-alert = Danevellet en deus ar par un handelv komenad digeverlec'h pe anskor.
+ssl-error-protocol-version-alert = Danevellet en deus ar par un handelv komenad digeverlec’h pe anskor.
 ssl-error-insufficient-security-alert = Azgoulennet eo sifroù suroc'h gant an dafariad eget ar re skoret gant an arval.
 ssl-error-internal-error-alert = Danevellañ a ra ar par en deus buhezet ur fazi diabarzh.
 ssl-error-user-canceled-alert = An arveriad par en deus dilezet seveniñ ar c'hennask.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = N'eo bet kefluniet treol sinadur TL
 ssl-error-unsupported-signature-algorithm = Un c'hedaozadur anskor a sinadur hag a treol ennegañ a zo bet arveret gant ar par.
 ssl-error-missing-extended-master-secret = Klasket eo bet kenderc'hel hep askouezh extended_master_secret talvoudek gant ar par.
 ssl-error-unexpected-extended-master-secret = Klasket eo bet kenderc'hel gant un extended_master_secret hiraet dic'hortoz gant ar par.
-
 sec-error-io = Degouezhet ez eus bet ur fazi enankañ/ec'hankañ pa oa o reiñ an aotre diogelroez.
 sec-error-library-failure = C'hwitadur al levraoueg diogelroez.
 sec-error-bad-data = levraoueg diogelroez: degemeret ez eus bet roadennoù fall.
@@ -294,7 +291,7 @@ sec-error-crl-invalid-version = Ur steudriñv dianav ez eus gant roll an testeni
 sec-error-crl-v1-critical-extension = Gant roll an testenioù dizorniet V1 ar skigner ez eus un askouezh eizik.
 sec-error-crl-unknown-critical-extension = Un askouezh eizik ez eus gant roll an testenioù dizorniet H2 eus ar skigner.
 sec-error-unknown-object-type = Reizh ergorenn erspizet dianav.
-sec-error-incompatible-pkcs11 = Forzhet eo an erspizadurioù dre un doare digeverlec'h gant ar stur PKCS #11.
+sec-error-incompatible-pkcs11 = Forzhet eo an erspizadurioù dre un doare digeverlec’h gant ar stur PKCS #11.
 sec-error-no-event = D'ar mare-mañ n'eus degouezh faout nevez hegerz ebet.
 sec-error-crl-already-exists = Roll an testenioù dizorniet (CRL) zo anezhañ endeo.
 sec-error-not-initialized = N'eo ket bet deraouekaet NSS.
@@ -320,7 +317,6 @@ sec-error-locked-password = Prennet eo ar ger-tremen.
 sec-error-unknown-pkcs11-error = Fazi PKCS #11 dianav.
 sec-error-bad-crl-dp-url = URL didalvoudek pe anskoret e-barzh an anv poent dasparzh CRL.
 sec-error-cert-signature-algorithm-disabled = Sinet eo bet an testeni gant un treol sinañ a zo bet diweredekaet rak ne oa ket diogel.
-
 mozilla-pkix-error-key-pinning-failure = Arverañ a ra an dafariad ar wikefre "key pinning" (HPKP) met n'eo ket bet posupl sevel ur steudad testenioù a fiziañs a genglot gant ar "pinset". N'haller tremen dreist ar forzhadurioù eus "Key pinning".
 mozilla-pkix-error-ca-cert-used-as-end-entity = Arverañ a ra an dafariad un testeni gant un askouezh destrizhoù eeun a hennad anezhañ evel un aotrouniezh testeniañ. An dra-se ne rankfe ket degouezhout gant un testeni skignet ent dereat.
 mozilla-pkix-error-inadequate-key-size = Kinniget en deus an dafariad un testeni gant ur ment alc'hwez re vihan evit savelañ ur c'hennask diogel.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Un testeni gant un enbonegañ keva
 mozilla-pkix-error-empty-issuer-name = Kinniget eo bet un testeni gant un anv heverk skigner goullo gant an dafariad.
 mozilla-pkix-error-additional-policy-constraint-failed = Un destrizh reolenn ouzhpenn en deus c'hwitet en un dalvoudekaat an testeni-mañ.
 mozilla-pkix-error-self-signed-cert = N'eus fiziañs ebet en testeni rak emsinet eo.
-
 xp-java-remove-principal-error = N'hall ket tennañ kuit an hini pennañ
 xp-java-delete-privilege-error = N'hall ket dilemel ar brient
 xp-java-cert-not-exists-error = N'eus testeni ebet gant an hini pennañ-mañ.
-
 xp-sec-fortezza-bad-card = N'eo ket bet deraouekaet mat ar gartenn Fortezza. Dilammit anezhi ha kasit anezhi en-dro d'ho skigner.
 xp-sec-fortezza-no-card = N'eus ket bet kavet kartennoù Fortezza
 xp-sec-fortezza-none-selected = N'eus kartenn Fortezza ebet bet diuzet.

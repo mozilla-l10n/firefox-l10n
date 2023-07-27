@@ -100,7 +100,11 @@ graphics-workarounds-title = Tremen e-biou
 graphics-window-protocol = Komenad ar prenestrañ
 place-database-title = Stlennvon "Places"
 place-database-stats = Stadegoù
+place-database-stats-show = Diskouez ar stadegoù
 place-database-stats-hide = Kuzhat ar stadegoù
+place-database-stats-entity = Elfenn
+place-database-stats-size-kib = Ment (Ko)
+place-database-stats-size-perc = Ment (%)
 place-database-integrity = Kevanded
 place-database-verify-integrity = Gwiriañ ar gevanded
 a11y-title = Haezadusted
@@ -127,8 +131,8 @@ audio-backend = Drekva aodio
 max-audio-channels = Niver a sanelloù uc'hek
 sample-rate = Feur standilhon gwellañ karet
 media-title = Media
-media-output-devices-title = Trevnadoù ec'hankañ
-media-input-devices-title = Trevnadoù enankañ
+media-output-devices-title = Trobarzhelloù ec'hankañ
+media-input-devices-title = Trobarzhelloù enankañ
 media-device-name = Anv
 media-device-group = Strollad
 media-device-vendor = Gwerzher
@@ -276,8 +280,8 @@ d3d11layers-crash-guard = Kenaozer D3D11
 glcontext-crash-guard = OpenGL
 reset-on-next-restart = Adderaouekaat en adloc'hañ a zeu
 gpu-process-kill-button = Herzel ar araezad kevregad
-gpu-device-reset = Adderaouekaat an trevnad
-gpu-device-reset-button = Deluskañ adderaouekadur an trevnad
+gpu-device-reset = Adderaouekaat an drobarzhell
+gpu-device-reset-button = Deluskañ adderaouekadur an drobarzhell
 uses-tiling = Arver an teolioù
 content-uses-tiling = Ober gant an teolioù (endalc'had)
 off-main-thread-paint-enabled = Pentañ e diavaez an neudenn erounezadur pennañ gweredekaet
@@ -305,6 +309,10 @@ launcher-process-status-unknown = Stad dianav
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
+# Variables
+# $fissionWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+fission-windows = { $fissionWindows }/{ $totalWindows }
 async-pan-zoom = Zoum ec'houbred
 apz-none = netra
 wheel-enabled = enankad rod gweredekaet
@@ -329,4 +337,7 @@ policies-error = Fazi
 
 
 ## Normandy sections
+
+
+## Pointing devices
 

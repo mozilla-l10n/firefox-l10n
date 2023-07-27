@@ -186,6 +186,12 @@ containers-remove-cancel-button = Chom hep dilemel an Endalc'her-mañ
 language-and-appearance-header = Yezh ha neuz
 preferences-web-appearance-choice-light = Sklaer
 preferences-web-appearance-choice-dark = Teñval
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
 default-font = Nodrezh dre ziouer
     .accesskey = N
 default-font-size = Ment
@@ -328,6 +334,9 @@ applications-use-os-default-label =
 
 ##
 
+applications-save-for-new-types =
+    .label = Enrollañ ar restroù
+    .accesskey = S
 drm-content-header = Endalc'had Digital Rights Management (DRM)
 play-drm-content =
     .label = Lenn un endalc'had reoliet gant DRM
@@ -449,6 +458,8 @@ home-newtabs-mode-label = Ivinelloù nevez
 home-restore-defaults =
     .label = Assav an arventennoù dre ziouer
     .accesskey = A
+home-mode-choice-default-fx =
+    .label = { -firefox-home-brand-name } (Dre ziouer)
 home-mode-choice-custom =
     .label = URLoù personelaet...
 home-mode-choice-blank =
@@ -1013,6 +1024,9 @@ permissions-microphone = Klevell
 permissions-microphone-settings =
     .label = Arventennoù…
     .accesskey = r
+permissions-speaker-settings =
+    .label = Arventennoù…
+    .accesskey = t
 permissions-notification = Rebuzadurioù
 permissions-notification-settings =
     .label = Arventennoù…
@@ -1114,6 +1128,9 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Statud: { $status }
 
 ## The following strings are used in the Download section of settings
 

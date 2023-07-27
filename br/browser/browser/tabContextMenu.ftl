@@ -49,6 +49,12 @@ unpin-selected-tabs =
 bookmark-selected-tabs =
     .label = Ouzhpennañ an ivinelloù er sinedoù…
     .accesskey = i
+tab-context-bookmark-tab =
+    .label = Ouzhpennañ an ivinell d'ar sinedoù…
+    .accesskey = B
+tab-context-open-in-new-container-tab =
+    .label = Digeriñ en un ivinell enderc’hel nevez
+    .accesskey = e
 move-to-start =
     .label = Dilec'hiañ etrezek ar penn-kentañ
     .accesskey = p
@@ -61,10 +67,35 @@ move-to-new-window =
 tab-context-close-multiple-tabs =
     .label = Serriñ meur a ivinell
     .accesskey = S
+tab-context-share-url =
+    .label = Rannañ
+    .accesskey = h
 
 ## Variables:
 ##  $tabCount (Number): the number of tabs that are affected by the action.
 
+tab-context-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Addigeriñ an ivinell serret
+            [one] Addigeriñ an ivinelloù serret
+            [two] Addigeriñ an ivinelloù serret
+            [few] Addigeriñ an ivinelloù serret
+            [many] Addigeriñ an ivinelloù serret
+           *[other] Addigeriñ an ivinelloù serret
+        }
+    .accesskey = o
+tab-context-close-n-tabs =
+    .label =
+        { $tabCount ->
+            [1] Serriñ { $tabCount } ivinell
+            [one] Serriñ { $tabCount } ivinell
+            [two] Serriñ { $tabCount } ivinell
+            [few] Serriñ { $tabCount } ivinell
+            [many] Serriñ { $tabCount } ivinell
+           *[other] Serriñ { $tabCount } ivinell
+        }
+    .accesskey = C
 tab-context-move-tabs =
     .label =
         { $tabCount ->

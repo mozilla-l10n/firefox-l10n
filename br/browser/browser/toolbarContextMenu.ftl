@@ -20,6 +20,19 @@ toolbar-context-menu-bookmark-selected-tabs =
 toolbar-context-menu-select-all-tabs =
     .label = Diuzañ an holl ivinelloù
     .accesskey = h
+# Variables
+#   $tabCount (number) - Number of tabs
+toolbar-context-menu-reopen-closed-tabs =
+    .label =
+        { $tabCount ->
+            [1] Addigeriñ an ivinell serret
+            [one] Addigeriñ an ivinelloù serret
+            [two] Addigeriñ an ivinelloù serret
+            [few] Addigeriñ an ivinelloù serret
+            [many] Addigeriñ an ivinelloù serret
+           *[other] Addigeriñ an ivinelloù serret
+        }
+    .accesskey = o
 toolbar-context-menu-manage-extension =
     .label = Merañ an askouezh
     .accesskey = M
