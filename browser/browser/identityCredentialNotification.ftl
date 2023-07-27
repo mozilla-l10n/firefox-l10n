@@ -25,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = පිවිසෙන්න
     .accesskey = S
+identity-credential-policy-title = පිවිසුම් ප්‍රතිපාදකයක් ලෙස { $provider } යොදාගන්න
