@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traducir esta página
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Página traducida de { $fromLanguage } a { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Traducción en proceso
-
 translations-panel-settings-button =
     .aria-label = Administrar configuración de traducciones
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Administrar idiomas
 translations-panel-settings-about = Acerca de traducciones en { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Acerca de traducciones en { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = Siempre traducir { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Siempre traducir este idioma
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = Nunca traducir { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nunca traducir este idioma
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nunca traducir este sitio
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = Espere…
 translations-panel-translate-cancel =
     .label = Cancelar
-
 translations-panel-error-translating = Hubo un problema al traducir. Intente nuevamente.
 translations-panel-error-load-languages = No se pueden cargar los idiomas
 translations-panel-error-load-languages-hint = Verifique la conexión a Internet e intente nuevamente.
 translations-panel-error-load-languages-hint-button =
     .label = Intentar nuevamente
-
 translations-panel-error-unsupported = La traducción no está disponible para esta página
 translations-panel-error-dismiss-button =
     .label = Entendido
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Hubo un problema descargando los archivos de idioma. Intente nuevamente.
 translations-manage-error-delete = Hubo un error borrando los archivos de idioma. Intente nuevamente.
 translations-manage-error-list = No se pudo obtener la lista de idiomas disponibles para la traducción. Actualice la página para volver a intentarlo.
-
 translations-settings-title =
     .title = Configuración de traducciones
     .style = min-width: 36em
