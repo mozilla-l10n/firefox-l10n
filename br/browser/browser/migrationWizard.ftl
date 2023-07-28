@@ -36,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge (handelvoù kozh)
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Gerioù-tremen diwar ur restr CSV
+migration-wizard-migrator-display-name-file-bookmarks = Sinedoù diouzh ur restr HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -44,6 +45,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Enporzhiañ an holl roadennoù hegerz
+migration-no-selected-data-label = Roadenn evet diuzet evit an enporzhiañ
 migration-selected-data-label = Enporzhiañ ar roadennoù diuzet
 
 ##
@@ -56,10 +59,17 @@ migration-favorites-option-label = Sinedoù
 migration-logins-and-passwords-option-label = Anaouadurioù ha gerioù-tremen enrollet
 migration-history-option-label = Roll istor ar merdeiñ
 migration-extensions-option-label = Askouezhioù
+migration-form-autofill-option-label = Roadennoù leuniañ ar furmskridoù ent emgefreek
+migration-payment-methods-option-label = Doareoù paeañ
 migration-cookies-option-label = Toupinoù
+migration-session-option-label = Prenestroù hag ivinelloù
 migration-otherdata-option-label = Roadennoù all
 migration-passwords-from-file-progress-header = Enporzhiañ ar gerioù-tremen diouzh ur restr
+migration-passwords-from-file-success-header = Gerioù-tremen enporzhiet gant berzh
+migration-passwords-from-file = O klask gerioù-tremen er restr
 migration-passwords-new = Gerioù-tremen nevez
+migration-passwords-updated = Gerioù-tremen a zo anezho
+migration-passwords-from-file-no-valid-data = N’eus roadenn ger-tremen talvoudek ebet er restr. Dibabit ur restr all.
 migration-passwords-from-file-picker-title = Enporzhiañ restr ar gerioù-tremen
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -104,6 +114,8 @@ migration-wizard-progress-success-updated-passwords =
 migration-bookmarks-from-file-picker-title = Enporzhiañ restr ar sinedoù
 migration-bookmarks-from-file-progress-header = Oc’h enporzhiañ ar sinedoù
 migration-bookmarks-from-file = Sinedoù
+migration-bookmarks-from-file-success-header = Sinedoù enporzhiet gant berzh
+migration-bookmarks-from-file-no-valid-data = N’eus roadenn sinedoù ebet er restr. Dibabit ur restr all.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -111,6 +123,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Teuliad HTML
        *[other] Restr HTML
     }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Restr JSON
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -124,6 +139,14 @@ migration-wizard-progress-success-new-bookmarks =
         [many] { $newEntries } a sinedoù
        *[other] { $newEntries } sined
     }
+migration-import-button-label = Enporzhiañ
+migration-choose-to-import-from-file-button-label = Enporzhiañ diouzh ur restr
+migration-import-from-file-button-label = Diuzañ ar restr
+migration-cancel-button-label = Nullañ
+migration-done-button-label = Graet
+migration-continue-button-label = Kenderc’hel
+migration-wizard-import-browser-no-browsers = { -brand-short-name } n’hall ket kavout programmoù gant sinedoù, ur roll istor pe roadennoù gerioù-tremen.
+migration-wizard-import-browser-no-resources = Degouezhet ez eus bet ur fazi. { -brand-short-name } n’hall ket kavout roadenn ebet da enporzhiañ diouzh aelad ar merdeer-se.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -131,9 +154,33 @@ migration-wizard-progress-success-new-bookmarks =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = sinedoù
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = sinedoù
+migration-list-password-label = gerioù-tremen
+migration-list-history-label = roll istor
+migration-list-extensions-label = askouezhioù
+migration-list-autofill-label = roadennoù leuniañ emgefreek
+migration-list-payment-methods-label = doareoù paeañ
 
 ##
 
+migration-wizard-progress-header = Oc'h enporzhiañ ar roadennoù
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Roadennoù enporzhiet gant berzh
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Echu eo an enporzhiañ roadennoù
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Oc'h enporzhiañ …
+migration-wizard-progress-icon-completed =
+    .aria-label = Echuet
+migration-safari-password-import-header = Enporzhiañ gerioù-tremen Safari
+migration-safari-password-import-steps-header = Evit enporzhiañ gerioù-tremen Safari:
 migration-safari-password-import-step3 = Enrollañ restr ar gerioù-tremen
 migration-safari-password-import-select-button = Diuzañ ar restr
 # Shown in the migration wizard after importing bookmarks from another

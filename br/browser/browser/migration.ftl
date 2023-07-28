@@ -66,6 +66,8 @@ import-source-page-title = Enporzhiañ arventennoù ha roadennoù diouzh …
 import-items-page-title = Ergorennoù da enporzhiañ
 import-items-description = Diuz pe elfennoù da enporzhiañ:
 import-permissions-page-title = Roit an aotreadurioù mar plij da { -brand-short-name }
+# Do not translate "Safari" (the name of the browser on Apple devices)
+import-safari-permissions-string = War macOs zo ezhomm aotren { -brand-short-name } da haeziñ roadennoù Safari. Klikit war "Kenderc’hel", dibabit an teuliad "Safari" er prenestr Finder ha klikit war "Digeriñ".
 import-migrating-page-title = Oc'h enporzhiañ …
 import-migrating-description = Emañ an ergorennoù da heul o vezañ enporzhiet…
 import-select-profile-page-title = Diuz an aelad
@@ -143,3 +145,7 @@ browser-data-session-checkbox =
     .label = Prenestroù hag ivinelloù
 browser-data-session-label =
     .value = Prenestroù hag ivinelloù
+browser-data-payment-methods-checkbox =
+    .label = Doareoù paeañ
+browser-data-payment-methods-label =
+    .value = Doareoù paeañ
