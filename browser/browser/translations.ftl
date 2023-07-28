@@ -29,6 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gestiona les llengües
 translations-panel-settings-about = Quant a les traduccions en el { -brand-shorter-name }
+translations-panel-settings-about2 =
+    .label = Quant a les traduccions en el { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
