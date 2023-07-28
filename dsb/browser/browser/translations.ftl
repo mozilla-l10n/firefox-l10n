@@ -29,6 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Rěcy zastojaś
 translations-panel-settings-about = Wó pśełožkach w { -brand-shorter-name }
+translations-panel-settings-about2 =
+    .label = Wó pśełožkach w { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
