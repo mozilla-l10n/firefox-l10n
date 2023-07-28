@@ -5,10 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traduki tiun ĉi paĝon
-
 translations-panel-settings-button =
     .aria-label = Administri agordojn de traduko
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -20,7 +18,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Administri lingvojn
 translations-panel-settings-about = Pli da informo pri tradukoj en { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Pli da informo pri tradukoj en { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -28,7 +27,6 @@ translations-panel-settings-always-translate-language =
     .label = Ĉiam traduki el la { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Ĉiam traduki el tiu ĉi lingvo
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,7 +34,6 @@ translations-panel-settings-never-translate-language =
     .label = Neniam traduki el la { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Neniam traduki el tiu ĉi lingvo
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Neniam traduki tiun ĉi retejon
@@ -51,13 +48,11 @@ translations-panel-translate-button-loading =
     .label = Bonvolu atendi…
 translations-panel-translate-cancel =
     .label = Nuligi
-
 translations-panel-error-translating = Okazis problemo dum traduko, bonvolu provi denove.
 translations-panel-error-load-languages = Ne eblis ŝargi lingvojn
 translations-panel-error-load-languages-hint = Kontrolu vian retaliron kaj provu denove.
 translations-panel-error-load-languages-hint-button =
     .label = Klopodi denove
-
 translations-panel-error-unsupported = Ne estas traduko havebla por tiu ĉi paĝo
 translations-panel-error-dismiss-button =
     .label = Mi komprenis
@@ -115,7 +110,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Okazis problemo dum elŝuto de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-delete = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-list = Ne eblis ricevi la liston de haveblaj lingvoj por traduko. Reŝargi la paĝon por klopodi denove.
-
 translations-settings-title =
     .title = Tradukaj agordoj
     .style = min-width: 36em
