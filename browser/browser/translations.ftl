@@ -29,6 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Upravljanje jezikov
 translations-panel-settings-about = O prevodih v { -brand-shorter-name(sklon: "mestnik") }
+translations-panel-settings-about2 =
+    .label = O prevodih v { -brand-shorter-name(sklon: "mestnik") }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
