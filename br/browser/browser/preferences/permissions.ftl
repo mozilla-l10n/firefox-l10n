@@ -143,8 +143,8 @@ permissions-site-xr-window2 =
     .style = { permissions-window2.style }
 permissions-site-xr-desc = Al lec’hiennoù da heul o deus goulennet haeziñ ouzh ho trobarzhelloù gwirvoud galloudel. Gallout a rit dibab pe lec’hiennoù a zo aotreet da haeziñ ouzh ho trobarzhelloù gwirvoud galloudel. Gallout a rit ivez stankañ ar goulennoù haeziñ nevez.
 permissions-site-xr-disable-label =
-    .label = Stankañ ar goulennoù nevez evit haeziñ ouzh ho trevnadoù gwirvoud galloudel
-permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er roll a-us da c'houlenn diganeoc'h haeziñ ouzh ho trevnadoù gwirvoud galloudel. Stankañ an haeziñ ouzh ar gwirvoud galloudel a c'hall lakaat lec'hiennoù ’zo da chom hep mont en-dro.
+    .label = Stankañ ar goulennoù nevez evit haeziñ ouzh ho trobarzhelloù gwirvoud galloudel
+permissions-site-xr-disable-desc = Mirout a raio kement lec'hienn n'emañ ket er roll a-us da c'houlenn diganeoc'h haeziñ ouzh ho trobarzhelloù gwirvoud galloudel. Stankañ an haeziñ ouzh ar gwirvoud galloudel a c'hall lakaat lec'hiennoù ’zo da chom hep mont en-dro.
 
 ## Site Permissions - Camera
 
