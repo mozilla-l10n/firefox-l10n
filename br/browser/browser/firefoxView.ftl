@@ -64,9 +64,12 @@ firefoxview-mobile-promo-header = Adtapit ivinelloù ho pellgomz pe dablezenn
 firefoxview-mobile-promo-description = Evit gwelout ivinelloù diwezhañ ho pellgomz hezoug e rankit kevreañ ouzh { -brand-product-name } war iOS pe Android.
 firefoxview-mobile-promo-primarybutton = Ho pezet { -brand-product-name } evit pellgomz hezoug.
 firefoxview-mobile-confirmation-header = 🎉 Deomp de'i !
+firefoxview-mobile-confirmation-description = Bremañ e c'hallit tapout hoc’h ivinelloù { -brand-product-name } diouzh ho tablezenn pe ho pellgomzer.
 firefoxview-closed-tabs-title = Ivinelloù serret nevez zo
 firefoxview-closed-tabs-description2 = Digeriñ en-dro ar pajennoù bet serret nevez zo er prenestr-mañ.
 firefoxview-closed-tabs-placeholder-header = N’eus ivinell nevez serret ebet
+firefoxview-closed-tabs-placeholder-body = Pa serrit un ivinell er prenestr-mañ e c’hallit kerc’hat anezhi adalek amañ.
+firefoxview-closed-tabs-placeholder-body2 = Pa serrit un ivinell e c’hallit kerc’hat anezhi adalek amañ.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -84,16 +87,23 @@ firefoxview-change-colorway-button = Cheñch liv
 #  $collection (String): Colorway Collection name
 firefoxview-colorway-description = { $intensity } · { $collection }
 firefoxview-synced-tabs-placeholder-header = Netra da welout evit poent
+firefoxview-synced-tabs-placeholder-body = Ar wech a zeu e tigorit ur bajenn e { -brand-product-name } war un trevnad all, tapit anezhi amañ.
 firefoxview-collapse-button-show =
     .title = Diskouez al listenn
 firefoxview-collapse-button-hide =
     .title = Kuzhat al listenn
+firefoxview-overview-nav = Merdeiñ nevez
+    .title = Merdeiñ nevez
+firefoxview-overview-header = Merdeiñ nevez
+    .title = Merdeiñ nevez
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Roll istor
     .title = Roll istor
 firefoxview-history-header = Roll istor
+firefoxview-history-context-delete = Dilemel eus ar roll istor
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -151,6 +161,9 @@ firefoxview-view-more-browsing-history = Gwelout muioc’h a roll istor
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Distroit el lec’h ma oac’h
+firefoxview-history-empty-description = Dre ma verdeit e vo skrammet amañ ar pajennoù a weladennit.
+firefoxview-history-empty-description-two = Ar pep pouezusañ eo gwareziñ ho puhez prevez. Setu perak hoc’h mestr war ar pezh a c’hell derc’hel soñj { -brand-short-name } en <a data-l10n-name="history-settings-url">arventennoù roll istor</a>.
 
 ##
 
@@ -161,6 +174,8 @@ firefoxview-choose-browser-button = Dibab ur merdeer
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Netra da ziskouez
+firefoxview-dont-remember-history-empty-description = Ar pep pouezusañ eo gwareziñ ho puhez prevez. Setu perak hoc’h mestr war ar pezh a c’hell derc’hel soñj { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Ne zalc’ho ket soñj { -brand-short-name } eus ar pezh a rit pa verdeit, diouzh ar pezh a zo bet dibabet en arventennoù. Evit cheñch an dra-mañ, <a data-l10n-name="history-settings-url-two">kemmit hoc’h arventennoù evit ma talc’hfe soñj eus ho roll istor</a>.
 
 ##
 
@@ -172,9 +187,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Enporzhiañ roll istor diouzh ur merdeer all
+firefoxview-import-history-description = Lakait { -brand-short-name } da vezañ ho merdeer dre ziouer. Enporzhit ho roll istor merdeiñ, ho sinedoù ha muioc’h c’hoazh.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Serret ho peus un ivinell re abred?
+firefoxview-recentlyclosed-empty-description = Amañ e kavoc’h an ivinelloù serret nevez 'zo, evit gallout digeriñ anezho en-dro buan.
+firefoxview-recentlyclosed-empty-description-two = Evit kavout ivinelloù koshoc’h, sellit en ho <a data-l10n-name="history-url">roll istor merdeiñ</a>.
 
 ##
 
