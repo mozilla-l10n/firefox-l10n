@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% complete
 firefoxview-tabpickup-step-signin-header = Passar facilemente inter apparatos
 firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu telephono ci, primo aperi session o crea un conto.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-header = Recupera tu schedas ab ubique
 firefoxview-syncedtabs-signin-primarybutton = Inscriber se o acceder
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
@@ -33,6 +34,9 @@ firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
 firefoxview-tabpickup-synctabs-learn-how = Apprender como
 firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
+firefoxview-syncedtabs-synctabs-header = Actualisa tu parametros de synchronisation
+firefoxview-syncedtabs-synctabs-description = Pro vider schedas ab un altere apparato tu debe synchronisar le schedas aperte.
+firefoxview-syncedtabs-synctabs-checkbox = Permitter le synchronisation del schedas aperte
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
 firefoxview-tabpickup-network-offline-header = Controla tu connexion a internet
@@ -154,6 +158,7 @@ firefoxview-view-more-browsing-history = Vider altere chronologia de navigation
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Retorna ubi tu era
 
 ##
 
@@ -178,6 +183,7 @@ firefoxview-import-history-header = Importar chronologia ab un altere navigator
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Claudeva tu un scheda troppo presto?
 
 ##
 
