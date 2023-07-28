@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 페이지 번역
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = 페이지 번역 - 베타
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name }에서 사생활 보호 번역을 사용해 보세요 - 베타
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,8 @@ translations-panel-translate-button-loading =
     .label = 잠시만 기다려 주세요…
 translations-panel-translate-cancel =
     .label = 취소
+translations-panel-learn-more-link = 더 알아보기
+translations-panel-intro-header = { -brand-shorter-name }에서 사생활 보호 번역을 사용해 보세요
 translations-panel-error-translating = 번역하는 중에 문제가 발생했습니다. 다시 시도하세요.
 translations-panel-error-load-languages = 언어를 로드할 수 없음
 translations-panel-error-load-languages-hint = 인터넷 연결을 확인하고 다시 시도하세요.
