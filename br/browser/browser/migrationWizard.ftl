@@ -181,7 +181,11 @@ migration-wizard-progress-icon-completed =
     .aria-label = Echuet
 migration-safari-password-import-header = Enporzhiañ gerioù-tremen Safari
 migration-safari-password-import-steps-header = Evit enporzhiañ gerioù-tremen Safari:
+migration-safari-password-import-step1 = E Safari, digorit al lañser "Safari" ha kit er Gwellvezioù (Réglages) > Gerioù-tremen (Mots de passe)
+migration-safari-password-import-step2 = Klikit war an afell <img data-l10n-name="safari-icon-3dots"/> ha dibabit "Ezporzhiañ an holl c’herioù-tremen" (Exporter tous les mots de passe)
 migration-safari-password-import-step3 = Enrollañ restr ar gerioù-tremen
+migration-safari-password-import-step4 = Klikit war "Dibab ur restr" amañ dindan ha dibabit ar restr ho peus enrollet
+migration-safari-password-import-skip-button = Tremen
 migration-safari-password-import-select-button = Diuzañ ar restr
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
@@ -196,11 +200,46 @@ migration-wizard-progress-success-bookmarks =
         [many] { $quantity } a sinedoù
        *[other] { $quantity } sined
     }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } sined
+        [two] { $quantity } sined
+        [few] { $quantity } sined
+        [many] { $quantity } a sinedoù
+       *[other] { $quantity } sined
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } askouezh
+        [two] { $quantity } askouezh
+        [few] { $quantity } askouezh
+        [many] { $quantity } a askouezhioù
+       *[other] { $quantity } askouezh
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } askouezh war { $quantity }
 
 ##
 
