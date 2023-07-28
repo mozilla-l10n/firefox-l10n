@@ -13,7 +13,7 @@ urlbar-translations-button2 =
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
-    .tooltiptext = { -brand-shorter-name }에서 사생활 보호 번역을 사용해 보세요 - 베타
+    .tooltiptext = { -brand-shorter-name }에서 개인 정보가 보호되는 번역을 사용해 보세요 - 베타
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -69,7 +69,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = 취소
 translations-panel-learn-more-link = 더 알아보기
-translations-panel-intro-header = { -brand-shorter-name }에서 사생활 보호 번역을 사용해 보세요
+translations-panel-intro-header = { -brand-shorter-name }에서 개인 정보가 보호되는 번역을 사용해 보세요
+translations-panel-intro-description = 개인 정보 보호를 위해 번역은 사용자의 기기를 떠나지 않습니다. 새로운 언어와 개선 사항이 곧 제공됩니다!
 translations-panel-error-translating = 번역하는 중에 문제가 발생했습니다. 다시 시도하세요.
 translations-panel-error-load-languages = 언어를 로드할 수 없음
 translations-panel-error-load-languages-hint = 인터넷 연결을 확인하고 다시 시도하세요.
@@ -131,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = 언어 파일을 다운로드하는 중에 문제가 발생했습니다. 다시 시도하세요.
 translations-manage-error-delete = 언어 파일을 삭제하는 동안 오류가 발생했습니다. 다시 시도하세요.
+translations-manage-intro = 언어 및 사이트 번역 기본 설정을 설정하고 오프라인 번역을 위해 설치된 언어를 관리합니다.
+translations-manage-install-description = 오프라인 번역을 위한 언어를 설치합니다.
+translations-manage-language-install-button =
+    .label = 설치
+translations-manage-language-install-all-button =
+    .label = 모두 설치
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = 제거
+translations-manage-language-remove-all-button =
+    .label = 모두 제거
+    .accesskey = e
+translations-manage-error-install = 언어 파일을 설치하는 중에 문제가 발생했습니다. 다시 시도하세요.
+translations-manage-error-remove = 언어 파일을 제거하는 동안 오류가 발생했습니다. 다시 시도하세요.
 translations-manage-error-list = 번역에 사용할 수 있는 언어 목록을 가져오지 못했습니다. 다시 시도하려면 페이지를 새로 고침하세요.
 translations-settings-title =
     .title = 번역 설정
