@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Käännä sivu
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,10 +14,8 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Sivu käännetty kielestä { $fromLanguage } kielelle { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Käännös käynnissä
-
 translations-panel-settings-button =
     .aria-label = Hallitse käännösasetuksia
 
@@ -27,7 +24,8 @@ translations-panel-settings-button =
 translations-panel-settings-manage-languages =
     .label = Hallitse kieliä
 translations-panel-settings-about = Tietoja käännöksistä { -brand-shorter-name }issa
-
+translations-panel-settings-about2 =
+    .label = Tietoja käännöksistä { -brand-shorter-name }issa
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -35,7 +33,6 @@ translations-panel-settings-always-translate-language =
     .label = Käännä { $language } aina
 translations-panel-settings-always-translate-unknown-language =
     .label = Käännä tämä kieli aina
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -43,7 +40,6 @@ translations-panel-settings-never-translate-language =
     .label = Älä käännä kieltä { $language } koskaan
 translations-panel-settings-never-translate-unknown-language =
     .label = Älä käännä tätä kieltä koskaan
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Älä käännä tätä sivustoa koskaan
@@ -58,13 +54,11 @@ translations-panel-translate-button-loading =
     .label = Odota…
 translations-panel-translate-cancel =
     .label = Peruuta
-
 translations-panel-error-translating = Käännettäessä ilmeni ongelma. Yritä uudelleen.
 translations-panel-error-load-languages = Kielten lataus epäonnistui
 translations-panel-error-load-languages-hint = Tarkista Internet-yhteytesi ja yritä uudelleen.
 translations-panel-error-load-languages-hint-button =
     .label = Yritä uudelleen
-
 translations-panel-error-unsupported = Käännöstoiminto ei ole käytettävissä tällä sivulla
 translations-panel-error-dismiss-button =
     .label = Selvä
@@ -122,7 +116,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Kielitiedostoja ladattaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-delete = Kielitiedostoja poistettaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-error-list = Käännettävissä olevien kielten listan nouto epäonnistui. Päivitä sivu yrittääksesi uudelleen.
-
 translations-settings-title =
     .title = Käännösasetukset
     .style = min-width: 36em
