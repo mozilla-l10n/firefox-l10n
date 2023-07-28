@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Kivételek
     .style = min-width: 55em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Weboldal címe
     .accesskey = o
-
 permissions-block =
     .label = Tiltás
     .accesskey = T
-
 permissions-disable-etp =
     .label = Kivétel hozzáadása…
     .accesskey = K
-
 permissions-session =
     .label = Engedélyezés a munkamenetben
     .accesskey = m
-
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
-
 permissions-button-off =
     .label = Kikapcsolás
     .accesskey = K
-
 permissions-button-off-temporarily =
     .label = Ideiglenes kikapcsolás
     .accesskey = I
-
 permissions-site-name =
     .label = Weboldal
-
 permissions-status =
     .label = Állapot
-
 permissions-remove =
     .label = Weboldal eltávolítása
     .accesskey = v
-
 permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
-
 permission-dialog =
     .buttonlabelaccept = Változtatások mentése
     .buttonaccesskeyaccept = V
-
 permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
-
 permissions-searchbox =
     .placeholder = Weboldal keresése
-
 permissions-capabilities-autoplay-allow =
     .label = Hang és videó engedélyezése
 permissions-capabilities-autoplay-block =
     .label = Hang blokkolása
 permissions-capabilities-autoplay-blockall =
     .label = Hang és videó blokkolása
-
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
-
 permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
     .value = Tiltás
 permissions-capabilities-listitem-allow-session =
     .value = Engedélyezés a munkamenetben
-
 permissions-capabilities-listitem-off =
     .value = Ki
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Kivételek – Csak HTTPS mód
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Az egyes webhelyeknél kikapcsolhatja a Csak HTTPS módot. A { -brand-short-name } nem próbálja meg biztonságos HTTPS-re frissíteni a kapcsolatot ezeknél a webhelyeknél. A kivételek nem vonatkoznak a privát ablakokra.
+permissions-exceptions-https-only-desc2 = Az egyes webhelyeknél kikapcsolhatja a Csak HTTPS módot. A { -brand-short-name } nem próbálja meg biztonságos HTTPS-re frissíteni a kapcsolatot ezeknél a webhelyeknél.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Beállítások – Hangszóró engedélyek
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = A következő weboldalak kérték, hogy kiválasszanak egy hangkimeneti eszközt. Megadhatja, hogy mely weboldalak választhassanak hangkimeneti eszközt.
-
 permissions-exceptions-doh-window =
     .title = Webhely-kivételek a HTTPS feletti DNS-hez
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = A { -brand-short-name } nem használ biztonságos DNS-t ezeken a webhelyeken és az aldomainjeiken.
-
 permissions-doh-entry-field = Adja meg a weboldal domain nevét
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Hozzáadás
     .accesskey = a
-
 permissions-doh-col =
     .label = Domain
-
 permissions-doh-remove =
     .label = Eltávolítás
     .accesskey = t
-
 permissions-doh-remove-all =
     .label = Összes eltávolítása
     .accesskey = e
