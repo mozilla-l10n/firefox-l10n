@@ -29,6 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Eñangareko ñe’ẽnguérare
 translations-panel-settings-about = Ñe’ẽasa rehegua { -brand-shorter-name }-pe
+translations-panel-settings-about2 =
+    .label = Ñe’ẽasa rehegua { -brand-shorter-name }-pe
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
