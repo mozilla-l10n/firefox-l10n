@@ -78,6 +78,7 @@ app-basics-key-mozilla = Clâf dal servizi Mozilla Location
 app-basics-safe-mode = Modalitât sigure
 app-basics-memory-size = Dimension memorie (RAM)
 app-basics-disk-available = Spazi su disc disponibil
+app-basics-pointing-devices = Dispositîf di pontament
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,10 @@ support-remote-experiments-see-about-studies = Consulte <a data-l10n-name="suppo
 support-remote-features-title = Funzionalitâts di lontan
 support-remote-features-name = Non
 support-remote-features-status = Stât
+
+## Pointing devices
+
+pointing-device-mouse = Mouse
+pointing-device-touchscreen = Schermi tatil
+pointing-device-pen-digitizer = Pene digjitâl
+pointing-device-none = Nissun dispositîf di pontament

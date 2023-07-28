@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Ecezions
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Direzion dal sît web
     .accesskey = D
-
 permissions-block =
     .label = Bloche
     .accesskey = B
-
 permissions-disable-etp =
     .label = Zonte ecezion
     .accesskey = e
-
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
-
 permissions-allow =
     .label = Permet
     .accesskey = P
-
 permissions-button-off =
     .label = Disative
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Disative in mût temporani
     .accesskey = t
-
 permissions-site-name =
     .label = Sît web
-
 permissions-status =
     .label = Stât
-
 permissions-remove =
     .label = Gjave sît web
     .accesskey = G
-
 permissions-remove-all =
     .label = Gjave ducj i sîts web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Salve modifichis
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Predefinît par ducj i sîts web:
-
 permissions-searchbox =
     .placeholder = Cîr sît web
-
 permissions-capabilities-autoplay-allow =
     .label = Permet audio e video
 permissions-capabilities-autoplay-block =
     .label = Bloche l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloche l'audio e il video
-
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
 permissions-capabilities-prompt =
     .label = Domande simpri
-
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
     .value = Bloche
 permissions-capabilities-listitem-allow-session =
     .value = Permet par cheste session
-
 permissions-capabilities-listitem-off =
     .value = Disativât
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Ecezions - Modalitât Dome-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Tu puedis disativâ la modalitât Dome-HTTPS par specifics sîts web. { -brand-short-name } nol cirarà di puartâ la conession par chei sîts su HTTPS sigûr. Lis ecezions no vegnin aplicadis ai barcons privâts.
+permissions-exceptions-https-only-desc2 = Tu puedis disativâ la modalitât dome HTTPS par specifics sîts web. { -brand-short-name } nol cirarà di inzornâ la conession ae version sigure HTTPS par chei sîts.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Impostazions - Permès cassis
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Chescj sîts web a àn domandât di selezionâ un dispositîf di jessude audio. Tu puedis specificâ cuai sîts web che a podaran selezionâ un dispositîf di jessude audio.
-
 permissions-exceptions-doh-window =
     .title = Ecezions di sîts web par DNS sore HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nol doprarà un DNS sigûr par chescj sîts e i relatîfs sot-dominis.
-
 permissions-doh-entry-field = Inserî il non dal domini dal sît web
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Zonte
     .accesskey = Z
-
 permissions-doh-col =
     .label = Domini
-
 permissions-doh-remove =
     .label = Gjave
     .accesskey = G
-
 permissions-doh-remove-all =
     .label = Gjave ducj
     .accesskey = e
