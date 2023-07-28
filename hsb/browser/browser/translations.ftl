@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Tutu stronu přełožować
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Strona je so z rěče { $fromLanguage } do rěče { $toLanguage } přełožiła
-
 urlbar-translations-button-loading =
     .tooltiptext = Přełoženje běži
-
 translations-panel-settings-button =
     .aria-label = Přełožowanske nastajenja rjadować
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Rěče rjadować
 translations-panel-settings-about = Wo přełožkach w { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Wo přełožkach w { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = { $language } přeco přełožować
 translations-panel-settings-always-translate-unknown-language =
     .label = Tutu rěč přeco přełožować
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = { $language } ženje njepřełožować
 translations-panel-settings-never-translate-unknown-language =
     .label = Tutu rěč ženje njepřełožować
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Njepřełožujće ženje tute sydło
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = Prošu čakajće…
 translations-panel-translate-cancel =
     .label = Přetorhnyć
-
 translations-panel-error-translating = Při přełožowanju je problem nastał. Prošu spytajće hišće raz.
 translations-panel-error-load-languages = Rěče njedadźa so začitać
 translations-panel-error-load-languages-hint = Přepruwujće swój internetny zwisk a spytajće hišće raz.
 translations-panel-error-load-languages-hint-button =
     .label = Hišće raz spytać
-
 translations-panel-error-unsupported = Přełožk za tutu stronu k dispoziciji njeje
 translations-panel-error-dismiss-button =
     .label = Sym zrozumił
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Při sćahowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-delete = Při zhašenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-list = Lisćina k dispoziciji stejacych rěčow za přełožowanje njeda so wotwołać. Aktualizujće stronu a spytajće hišće raz.
-
 translations-settings-title =
     .title = Přełožowanske nastajenja
     .style = min-width: 36em
