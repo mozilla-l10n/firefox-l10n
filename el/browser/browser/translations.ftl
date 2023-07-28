@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Μετάφραση σελίδας
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Η σελίδα μεταφράστηκε από τα { $fromLanguage } στα { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Μετάφραση σε εξέλιξη
-
 translations-panel-settings-button =
     .aria-label = Διαχείριση ρυθμίσεων μετάφρασης
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Διαχείριση γλωσσών
 translations-panel-settings-about = Σχετικά με τις μεταφράσεις στο { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Σχετικά με τις μεταφράσεις στο { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = Να μεταφράζονται πάντα τα { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Να μεταφράζεται πάντα αυτή η γλώσσα
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = Να μη μεταφράζονται ποτέ τα { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Να μη μεταφράζεται ποτέ αυτή η γλώσσα
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Να μη μεταφράζεται ποτέ αυτός ο ιστότοπος
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = Παρακαλώ περιμένετε…
 translations-panel-translate-cancel =
     .label = Ακύρωση
-
 translations-panel-error-translating = Προέκυψε πρόβλημα με τη μετάφραση. Παρακαλώ δοκιμάστε ξανά.
 translations-panel-error-load-languages = Δεν ήταν δυνατή η φόρτωση των γλωσσών
 translations-panel-error-load-languages-hint = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
 translations-panel-error-load-languages-hint-button =
     .label = Δοκιμή ξανά
-
 translations-panel-error-unsupported = Δεν διατίθεται μετάφραση για αυτήν τη σελίδα
 translations-panel-error-dismiss-button =
     .label = Το κατάλαβα
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
-
 translations-settings-title =
     .title = Ρυθμίσεις μεταφράσεων
     .style = min-width: 36em
