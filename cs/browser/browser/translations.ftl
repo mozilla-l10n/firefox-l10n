@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Přeložit tuto stránku
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Stránka přeložena z { $fromLanguage } do { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Probíhá překlad
-
 translations-panel-settings-button =
     .aria-label = Spravovat nastavení překladu
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -37,7 +33,12 @@ translations-panel-settings-about =
         [with-cases] O překladech ve { -brand-shorter-name(case: "loc") }
        *[no-cases] O překladech v aplikaci { -brand-shorter-name }
     }
-
+translations-panel-settings-about2 =
+    .label =
+        { -brand-shorter-name.case-status ->
+            [with-cases] O překladech ve { -brand-shorter-name(case: "loc") }
+           *[no-cases] O překladech v aplikaci { -brand-shorter-name }
+        }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -45,7 +46,6 @@ translations-panel-settings-always-translate-language =
     .label = Vždy překládat z jazyka { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Vždy překládat z tohoto jazyka
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -53,7 +53,6 @@ translations-panel-settings-never-translate-language =
     .label = Nikdy nepřekládat z jazyka { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nikdy nepřekládat tento jazyk
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nikdy nepřekládat tuto stránku
@@ -68,13 +67,11 @@ translations-panel-translate-button-loading =
     .label = Čekejte prosím…
 translations-panel-translate-cancel =
     .label = Zrušit
-
 translations-panel-error-translating = Při překladu došlo k chybě. Zkuste to prosím znovu.
 translations-panel-error-load-languages = Nepodařilo se načíst jazyky
 translations-panel-error-load-languages-hint = Zkontrolujte své připojení k internetu a zkuste to znovu.
 translations-panel-error-load-languages-hint-button =
     .label = Zkusit znovu
-
 translations-panel-error-unsupported = Překlad pro tuto stránku není k dispozici
 translations-panel-error-dismiss-button =
     .label = Rozumím
@@ -132,7 +129,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Při stahování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
 translations-manage-error-delete = Při odstraňování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
 translations-manage-error-list = Nepodařilo se získat seznam dostupných jazyků pro překlad. Obnovte stránku a zkuste to znovu.
-
 translations-settings-title =
     .title = Nastavení překladů
     .style = min-width: 36em
