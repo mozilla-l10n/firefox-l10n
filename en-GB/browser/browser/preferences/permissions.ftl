@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Exceptions
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Address of web site
     .accesskey = d
-
 permissions-block =
     .label = Block
     .accesskey = B
-
 permissions-disable-etp =
     .label = Add Exception
     .accesskey = E
-
 permissions-session =
     .label = Allow for Session
     .accesskey = S
-
 permissions-allow =
     .label = Allow
     .accesskey = A
-
 permissions-button-off =
     .label = Turn Off
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Turn Off Temporarily
     .accesskey = T
-
 permissions-site-name =
     .label = Web Site
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Remove Web Site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remove All Web Sites
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Save Changes
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Default for all web sites:
-
 permissions-searchbox =
     .placeholder = Search Web Site
-
 permissions-capabilities-autoplay-allow =
     .label = Allow Audio and Video
 permissions-capabilities-autoplay-block =
     .label = Block Audio
 permissions-capabilities-autoplay-blockall =
     .label = Block Audio and Video
-
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
     .label = Block
 permissions-capabilities-prompt =
     .label = Always Ask
-
 permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
     .value = Block
 permissions-capabilities-listitem-allow-session =
     .value = Allow for Session
-
 permissions-capabilities-listitem-off =
     .value = Off
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Exceptions - HTTPS-Only Mode
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = You can turn off HTTPS-Only Mode for specific websites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites. Exceptions do not apply to private windows.
+permissions-exceptions-https-only-desc2 = You can turn off HTTPS-Only Mode for specific web sites. { -brand-short-name } won’t attempt to upgrade the connection to secure HTTPS for those sites.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Settings - Speaker Permissions
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = The following web sites have requested to select an audio output device. You can specify which web sites are allowed to select an audio output device.
-
 permissions-exceptions-doh-window =
     .title = Web Site Exceptions for DNS over HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } won’t use secure DNS on these sites and their subdomains.
-
 permissions-doh-entry-field = Enter web site domain name
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Add
     .accesskey = A
-
 permissions-doh-col =
     .label = Domain
-
 permissions-doh-remove =
     .label = Remove
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = Remove All
     .accesskey = e
