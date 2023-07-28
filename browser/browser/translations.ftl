@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oldal lefordítása
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Az oldal le lett fordítva erről: { $fromLanguage }, erre: { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Fordítás folyamatban
-
 translations-panel-settings-button =
     .aria-label = Fordítási beállítások kezelése
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Nyelvek kezelése
 translations-panel-settings-about = A { -brand-shorter-name } fordításainak névjegye
-
+translations-panel-settings-about2 =
+    .label = A { -brand-shorter-name } fordításainak névjegye
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = Mindig fordítson erről a nyelvről: { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Mindig fordítson erről a nyelvről
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = Sose fordítson erről a nyelvről: { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Sose fordítson erről a nyelvről
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Sose fordítsa le ezt az oldalt
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = Kis türelmet…
 translations-panel-translate-cancel =
     .label = Mégse
-
 translations-panel-error-translating = Hiba történt a fordítás során. Próbálja meg újra.
 translations-panel-error-load-languages = A nyelvek betöltése sikertelen
 translations-panel-error-load-languages-hint = Ellenőrizze az internetkapcsolatát, és próbálja újra.
 translations-panel-error-load-languages-hint-button =
     .label = Próbálja újra
-
 translations-panel-error-unsupported = Ehhez az oldalhoz nem érhető el fordítás
 translations-panel-error-dismiss-button =
     .label = Megértettem!
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
 translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
 translations-manage-error-list = Nem sikerült lekérni a fordításhoz elérhető nyelveket. Az újrapróbálkozáshoz frissítse az oldalt.
-
 translations-settings-title =
     .title = Fordítási beállítások
     .style = min-width: 36em
