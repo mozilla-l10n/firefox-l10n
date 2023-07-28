@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Tutu stronu přełožować
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Tutu stronu přełožować – Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Spytajće priwatne přełožki w { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,8 @@ translations-panel-translate-button-loading =
     .label = Prošu čakajće…
 translations-panel-translate-cancel =
     .label = Přetorhnyć
+translations-panel-learn-more-link = Dalše informacije
+translations-panel-intro-header = Spytajće priwatne přełožki w { -brand-shorter-name }
 translations-panel-error-translating = Při přełožowanju je problem nastał. Prošu spytajće hišće raz.
 translations-panel-error-load-languages = Rěče njedadźa so začitać
 translations-panel-error-load-languages-hint = Přepruwujće swój internetny zwisk a spytajće hišće raz.
@@ -120,6 +131,19 @@ translations-manage-language-delete-button =
     .accesskey = h
 translations-manage-error-download = Při sćahowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-delete = Při zhašenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
+translations-manage-install-description = Rěče za přełožowanje offline instalować
+translations-manage-language-install-button =
+    .label = Instalować
+translations-manage-language-install-all-button =
+    .label = Wšě instalować
+    .accesskey = i
+translations-manage-language-remove-button =
+    .label = Wotstronić
+translations-manage-language-remove-all-button =
+    .label = Wšě wotstronić
+    .accesskey = t
+translations-manage-error-install = Při instalowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
+translations-manage-error-remove = Při wotstronjenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-list = Lisćina k dispoziciji stejacych rěčow za přełožowanje njeda so wotwołać. Aktualizujće stronu a spytajće hišće raz.
 translations-settings-title =
     .title = Přełožowanske nastajenja
