@@ -17,6 +17,15 @@ firefox-relay-must-login-to-fxa = Kennaskañ e { -fxaccount-brand-name } a ranki
 firefox-relay-get-unlimited-masks =
     .label = Merañ ar maskloù
     .accesskey = M
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Gwarezit ho chomlec’h postel:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Ober gant aliazoù chomlec'h postel { -relay-brand-name }
+firefox-relay-use-mask-title = Ober gant aliazoù chomlec'h postel { -relay-brand-name }
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Ober gant an aliaz chomlec’h posel
+    .accesskey = O
 firefox-relay-opt-in-confirmation-disable =
     .label = Na ziskouez din an dra-se en-dro
     .accesskey = N

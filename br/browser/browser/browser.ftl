@@ -360,6 +360,7 @@ identity-weak-encryption = Enrinegañ gwan a vez arveret gant ar bajenn-mañ.
 identity-insecure-login-forms = Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.
 identity-https-only-connection-upgraded = (hizivaet da HTTPS)
 identity-https-only-label = Mod HTTPS hepken
+identity-https-only-label2 = Diogelaat ar c’hennask d’al lec’hienn ent emgefreek
 identity-https-only-dropdown-on =
     .label = Enaouet
 identity-https-only-dropdown-off =
