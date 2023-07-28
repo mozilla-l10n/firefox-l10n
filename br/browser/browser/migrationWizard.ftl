@@ -50,11 +50,15 @@ migration-selected-data-label = Enporzhiañ ar roadennoù diuzet
 
 migration-select-all-option-label = Diuzañ pep tra
 migration-bookmarks-option-label = Sinedoù
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Sinedoù
 migration-logins-and-passwords-option-label = Anaouadurioù ha gerioù-tremen enrollet
 migration-history-option-label = Roll istor ar merdeiñ
 migration-extensions-option-label = Askouezhioù
 migration-cookies-option-label = Toupinoù
 migration-otherdata-option-label = Roadennoù all
+migration-passwords-from-file-progress-header = Enporzhiañ ar gerioù-tremen diouzh ur restr
 migration-passwords-new = Gerioù-tremen nevez
 migration-passwords-from-file-picker-title = Enporzhiañ restr ar gerioù-tremen
 # A description for the .csv file format that may be shown as the file type
