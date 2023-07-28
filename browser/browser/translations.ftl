@@ -5,10 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ
-
 translations-panel-settings-button =
     .aria-label = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -20,7 +18,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = ਭਾਸ਼ਾਵਾਂ ਦਾ ਇੰਤਜ਼ਾਮ ਕਰੋ
 translations-panel-settings-about = { -brand-shorter-name } ਦੇ ਅਨੁਵਾਦ ਬਾਰੇ
-
+translations-panel-settings-about2 =
+    .label = { -brand-shorter-name } ਦੇ ਅਨੁਵਾਦ ਬਾਰੇ
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -28,7 +27,6 @@ translations-panel-settings-always-translate-language =
     .label = ਹਮੇਸ਼ਾਂ { $language } ਦਾ ਅਨੁਵਾਦ ਕਰੋ
 translations-panel-settings-always-translate-unknown-language =
     .label = ਇਸ ਭਾਸ਼ਾ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,7 +34,6 @@ translations-panel-settings-never-translate-language =
     .label = { $language } ਦਾ ਕਦੇ ਅਨੁਵਾਦ ਨਾ ਕਰੋ
 translations-panel-settings-never-translate-unknown-language =
     .label = ਇਸ ਭਾਸ਼ਾ ਦਾ ਅਨੁਵਾਦ ਨਾ ਕਰੋ
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = ਇਹ ਸਾਈਟ ਦਾ ਅਨੁਵਾਦ ਕਦੇ ਨਾ ਕਰੋ
@@ -51,13 +48,11 @@ translations-panel-translate-button-loading =
     .label = …ਠਹਿਰੋ ਜੀ
 translations-panel-translate-cancel =
     .label = ਰੱਦ ਕਰੋ
-
 translations-panel-error-translating = ਅਨੁਵਾਦ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-panel-error-load-languages = ਭਾਸ਼ਾਵਾਂ ਲੋਡ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕੀਆਂ
 translations-panel-error-load-languages-hint = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਤੇ ਫ਼ੇਰ ਕੋਸ਼ਸ਼ ਕਰੋ।
 translations-panel-error-load-languages-hint-button =
     .label = ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ
-
 translations-panel-error-unsupported = ਇਸ ਸਫ਼ੇ ਲਈ ਅਨੁਵਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
 translations-panel-error-dismiss-button =
     .label = ਸਮਝੇ
@@ -115,7 +110,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = ਭਾਸ਼ਾ ਫ਼ਾਈਲਾਂ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-delete = ਭਾਸ਼ਾ ਫ਼ਾਈਲ ਹਟਾਉਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-list = ਅਨੁਵਾਦ ਲਈ ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸੂਚੀ ਲੈਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਸਫ਼ੇ ਨੂੰ ਤਾਜ਼ਾ ਕਰਕੇ ਫ਼ੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-
 translations-settings-title =
     .title = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ
     .style = min-width: 36em
