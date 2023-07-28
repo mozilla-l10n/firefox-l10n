@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Перакласці гэту старонку
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Перакласці гэтую старонку - Бэта
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -121,6 +126,7 @@ translations-manage-language-delete-button =
     .accesskey = В
 translations-manage-error-download = Пры сцягванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-delete = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
+translations-manage-intro = Вызначце параметры мовы і перакладу сайта і кіруйце мовамі, усталяванымі для аўтаномнага перакладу.
 translations-manage-install-description = Усталяваць мовы для перакладу па-за сеткаю
 translations-manage-language-install-button =
     .label = Усталяваць
@@ -132,6 +138,8 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Выдаліць усе
     .accesskey = В
+translations-manage-error-install = Пры ўсталяванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
+translations-manage-error-remove = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-list = Не ўдалося атрымаць спіс даступных моў для перакладу. Абнавіце старонку, каб паўтарыць спробу.
 translations-settings-title =
     .title = Налады перакладу
