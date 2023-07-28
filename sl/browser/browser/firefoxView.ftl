@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% dokončano
 firefoxview-tabpickup-step-signin-header = Brez težav preklapljajte med napravami
 firefoxview-tabpickup-step-signin-description = Če želite tukaj prikazati zavihke s telefona, se prijavite ali ustvarite račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nadaljuj
+firefoxview-syncedtabs-signin-header = Zajemite zavihke od koderkoli
 firefoxview-syncedtabs-signin-primarybutton = Prijavite se ali ustvarite račun
 firefoxview-tabpickup-adddevice-header = Sinhronizirajte { -brand-product-name } s telefonom ali tablico
 firefoxview-tabpickup-adddevice-description = Prenesite { -brand-product-name } za mobilne naprave in se prijavite vanj.

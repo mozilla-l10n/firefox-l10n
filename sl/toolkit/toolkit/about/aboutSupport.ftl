@@ -81,6 +81,7 @@ app-basics-key-mozilla = Ključ lokacijskih storitev Mozilla
 app-basics-safe-mode = Varni način
 app-basics-memory-size = Velikost pomnilnika (RAM)
 app-basics-disk-available = Razpoložljiv prostor na disku
+app-basics-pointing-devices = Kazalne naprave
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -417,3 +418,5 @@ support-remote-features-status = Stanje
 
 ## Pointing devices
 
+pointing-device-mouse = Miška
+pointing-device-touchscreen = Zaslon na dotik
