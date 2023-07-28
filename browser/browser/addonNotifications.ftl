@@ -54,7 +54,7 @@ addon-domain-blocked-by-policy = 您的系统管理员已阻止此网站在您�
 addon-install-full-screen-blocked = 进入全屏模式前或进入时，不允许安装附加组件。
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
-webext-perms-sideload-menu-item = { $addonName } 已添加到 { -brand-short-name }
+webext-perms-sideload-menu-item = “{ $addonName }”已添加到 { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } 需要新的权限
