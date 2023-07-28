@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla helymeghatározási szolgáltatás kulcs
 app-basics-safe-mode = Csökkentett mód
 app-basics-memory-size = Memória mérete (RAM)
 app-basics-disk-available = Szabad lemezterület
+app-basics-pointing-devices = Mutatóeszközök
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,10 @@ support-remote-experiments-see-about-studies = További információkért tekint
 support-remote-features-title = Távoli funkciók
 support-remote-features-name = Név
 support-remote-features-status = Állapot
+
+## Pointing devices
+
+pointing-device-mouse = Egér
+pointing-device-touchscreen = Érintőképernyő
+pointing-device-pen-digitizer = Digitalizáló toll
+pointing-device-none = Nincsenek mutatóeszközök
