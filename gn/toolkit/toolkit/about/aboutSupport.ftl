@@ -15,7 +15,10 @@ support-addons-type = Peteĩchagua
 support-addons-enabled = Myandypyre
 support-addons-version = Peteĩchagua
 support-addons-id = ID
+legacy-user-stylesheets-title = Kuatia mbohekoha puruhára mba’e
 legacy-user-stylesheets-enabled = Myandy
+legacy-user-stylesheets-stylesheet-types = Kuatia mbohekoha
+legacy-user-stylesheets-no-stylesheets-found = Ndojejuhúi kuatia mbohekoha
 security-software-title = Tekorosãrã rembiaporape
 security-software-type = Peteĩchagua
 security-software-name = Téra
@@ -75,6 +78,7 @@ app-basics-key-mozilla = Mozilla mba’epytyvõrã rendaite rehegua
 app-basics-safe-mode = Teko jerovia
 app-basics-memory-size = Mandu’arenda tuichakue (RAM)
 app-basics-disk-available = Pa’ũ Ñongatuhaguasu pegua
+app-basics-pointing-devices = Mba’e’oka jehechaukaha
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -397,3 +401,10 @@ support-remote-experiments-see-about-studies = Ehecha <a data-l10n-name="support
 support-remote-features-title = Tembiapoite okayguágui
 support-remote-features-name = Téra
 support-remote-features-status = Tekotee
+
+## Pointing devices
+
+pointing-device-mouse = Anguja
+pointing-device-touchscreen = Mba’erechaha pokoguáva
+pointing-device-pen-digitizer = Haiha monguatiaha
+pointing-device-none = Mba’e’oka jehechaukaha’ỹ
