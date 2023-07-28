@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traducer iste pagina
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Pagina traducite ab { $fromLanguage } a { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = Traduction in curso
-
 translations-panel-settings-button =
     .aria-label = Gerer le parametros del traduction
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Gerer le linguas
 translations-panel-settings-about = Re le traductiones in { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Re le traductiones in { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = Sempre traducer ab { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Sempre traducer ab iste lingua
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = Jammais traducer ab { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Jammais traducer ab iste lingua
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Jammais traducer iste sito
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = Per favor attende…
 translations-panel-translate-cancel =
     .label = Cancellar
-
 translations-panel-error-translating = Il habeva un problema traducente. Retenta.
 translations-panel-error-load-languages = Impossibile cargar linguas
 translations-panel-error-load-languages-hint = Verifica tu connexion a internet e retenta.
 translations-panel-error-load-languages-hint-button =
     .label = Retentar
-
 translations-panel-error-unsupported = Traduction non disponibile pro iste pagina
 translations-panel-error-dismiss-button =
     .label = Comprendite
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
 translations-manage-error-list = Impossibile obtener le lista del linguas disponibile pro le traduction. Actualisa le pagina pro retentar.
-
 translations-settings-title =
     .title = Parametros del traductiones
     .style = min-width: 36em
