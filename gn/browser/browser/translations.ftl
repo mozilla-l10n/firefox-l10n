@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Emoñe’ẽasa ko kuatiarogue
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Emoñe’ẽasa ko kuatiarogue - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Eipuru ñe’ẽasa ñemiguáva { -brand-shorter-name }-pe - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,8 @@ translations-panel-translate-button-loading =
     .label = Eha’arõmína…
 translations-panel-translate-cancel =
     .label = Heja
+translations-panel-learn-more-link = Eikuaave
+translations-panel-intro-header = Eipuru ñe’ẽasa ñemiguáva { -brand-shorter-name }-pe
 translations-panel-error-translating = Iñapañuãi’imi emoñe’ẽasakuévo, Eha’ãjey ag̃amieve.
 translations-panel-error-load-languages = Noñemyanyhẽkuaái ñe’ẽnguéra
 translations-panel-error-load-languages-hint = Ehechajey ne ñanduti reko ha eha’ãjey ag̃ave.
@@ -120,6 +131,17 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Iñapañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
 translations-manage-error-delete = Iñapañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
+translations-manage-install-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag̃ua ñanduti’ỹre
+translations-manage-language-install-button =
+    .label = Mohenda
+translations-manage-language-install-all-button =
+    .label = Emohendapa
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Mboguete
+translations-manage-language-remove-all-button =
+    .label = Emboguepa
+    .accesskey = e
 translations-settings-title =
     .title = Ñe’ẽasa ñemboheko
     .style = min-width: 36em

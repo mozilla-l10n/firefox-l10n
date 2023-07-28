@@ -10,19 +10,18 @@
 
 origin-controls-no-access =
     .label = Jepysokue nomoñe’ẽi ha nomoambuekuaái mba’ekuaarã
-
 origin-controls-quarantined =
     .label = Jepysokue nomoñe’ẽi ha nomoambuekuaái mba’ekuaarã
-
+origin-controls-quarantined-status =
+    .label = Jepysokue ñemoneĩ’ỹva tenda jeikekekuaa’ỹhápe
+origin-controls-quarantined-allow =
+    .label = Emoneĩ tenda jeikekekuaa’ỹhápe
 origin-controls-options =
     .label = Jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã:
-
 origin-controls-option-all-domains =
     .label = Opaite Tendápe
-
 origin-controls-option-when-clicked =
     .label = Eikutúvo añónte
-
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -34,19 +33,12 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Namoñe’ẽi ha namoambuekuaái mba’ekuaarã ko tendápe
-
 origin-controls-state-quarantined = Nomoneĩri { -vendor-short-name } ko tendápe
-
 origin-controls-state-always-on = Amoñe’ẽ ha amoambuekuaa mba’ekuaarã ko tendápe
-
 origin-controls-state-when-clicked = Ñemoneĩ emoñe’ẽ ha emoambue hag̃ua mba’ekuaarã
-
 origin-controls-state-hover-run-visit-only = Neañoite ko jeiképe g̃uarã
-
 origin-controls-state-runnable-hover-open = Jepysokue ijurujáva
-
 origin-controls-state-runnable-hover-run = Jepysokue jepuru
-
 origin-controls-state-temporary-access = Amoñe’ẽ ha amoambuekuaa mba’ekuaarã ko tendápe
 
 ## Extension's toolbar button.
@@ -56,7 +48,6 @@ origin-controls-state-temporary-access = Amoñe’ẽ ha amoambuekuaa mba’ekua
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
-
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -64,7 +55,6 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Ñemoneĩ tekotevẽva
-
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =
