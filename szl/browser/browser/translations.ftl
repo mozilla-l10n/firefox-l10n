@@ -5,10 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Przełōż ta strōna
-
 translations-panel-settings-button =
     .aria-label = Sztaluj przekłady
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -20,7 +18,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Sztaluj jynzyki
 translations-panel-settings-about = Ô przekładach we { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Ô przekładach we { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -28,7 +27,6 @@ translations-panel-settings-always-translate-language =
     .label = Dycki przekłodej { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Dycki przekłodej tyn jynzyk
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,7 +34,6 @@ translations-panel-settings-never-translate-language =
     .label = Nigdy niy przekłodej { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Nigdy niy przekłodej tego jynzyka
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nigdy niy przekłodej tyj strōny
@@ -51,13 +48,11 @@ translations-panel-translate-button-loading =
     .label = Prosza czekać…
 translations-panel-translate-cancel =
     .label = Pociep
-
 translations-panel-error-translating = Bōł problym ze przekłodaniym. Sprōbuj zaś.
 translations-panel-error-load-languages = Niy szło zaladować jynzykōw
 translations-panel-error-load-languages-hint = Ôbadej swoje internetowe połōnczynie i sprōbuj zaś.
 translations-panel-error-load-languages-hint-button =
     .label = Sprōbuj zaś
-
 translations-panel-error-unsupported = Przekłod tyj strōny niy ma dostympny
 translations-panel-error-dismiss-button =
     .label = Rozumia
@@ -115,7 +110,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Pokozoł sie problym przi pobiyraniu zbiorōw ôd tego jynzyka. Sprōbuj zaś.
 translations-manage-error-delete = Pokozoł sie problym przi kasowaniu zbiorōw ôd tego jynzyka. Sprōbuj zaś.
 translations-manage-error-list = Niy szło dotrzeć do wykazu przistympnych jynzykōw do przekłodanio. Ôdświyż strōna, żeby sprōbować zaś.
-
 translations-settings-title =
     .title = Sztalōnki przekładu
     .style = min-width: 36em
