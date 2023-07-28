@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 翻譯此頁面
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = 已將頁面從 { $fromLanguage } 翻譯為 { $toLanguage }
-
 urlbar-translations-button-loading =
     .tooltiptext = 翻譯中
-
 translations-panel-settings-button =
     .aria-label = 管理翻譯設定
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = 管理語言
 translations-panel-settings-about = 關於 { -brand-shorter-name } 的翻譯功能
-
+translations-panel-settings-about2 =
+    .label = 關於 { -brand-shorter-name } 的翻譯功能
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = 總是翻譯 { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = 總是翻譯此語言
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = 永不翻譯 { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = 永不翻譯此語言
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = 永不翻譯此網站
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = 請稍候…
 translations-panel-translate-cancel =
     .label = 取消
-
 translations-panel-error-translating = 翻譯時發生問題，請再試一次。
 translations-panel-error-load-languages = 無法載入語言清單
 translations-panel-error-load-languages-hint = 請確認網路連線正常後再試一次。
 translations-panel-error-load-languages-hint-button =
     .label = 重試
-
 translations-panel-error-unsupported = 無法翻譯此頁面
 translations-panel-error-dismiss-button =
     .label = 知道了！
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
 translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
 translations-manage-error-list = 取得可下載語言清單時發生錯誤，請重新整理頁面後再試一次。
-
 translations-settings-title =
     .title = 翻譯設定
     .style = min-width: 36em
