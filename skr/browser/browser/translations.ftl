@@ -29,6 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = زباناں منیج کرو
 translations-panel-settings-about = { -brand-shorter-name } وچ ترجمیاں بارے
+translations-panel-settings-about2 =
+    .label = { -brand-shorter-name } وچ ترجمیاں بارے
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
