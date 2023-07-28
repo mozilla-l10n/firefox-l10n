@@ -5,10 +5,8 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Przetłumacz tę stronę
-
 translations-panel-settings-button =
     .aria-label = Ustawienia tłumaczenia
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -20,7 +18,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Zarządzaj językami
 translations-panel-settings-about = Informacje o tłumaczeniach w { -brand-shorter-name(case: "loc") }
-
+translations-panel-settings-about2 =
+    .label = Informacje o tłumaczeniach w { -brand-shorter-name(case: "loc") }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -28,7 +27,6 @@ translations-panel-settings-always-translate-language =
     .label = Zawsze tłumacz ten język ({ $language })
 translations-panel-settings-always-translate-unknown-language =
     .label = Zawsze tłumacz ten język
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -36,7 +34,6 @@ translations-panel-settings-never-translate-language =
     .label = Nigdy nie tłumacz tego języka ({ $language })
 translations-panel-settings-never-translate-unknown-language =
     .label = Nigdy nie tłumacz tego języka
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Nigdy nie tłumacz tej witryny
@@ -51,13 +48,11 @@ translations-panel-translate-button-loading =
     .label = Proszę czekać…
 translations-panel-translate-cancel =
     .label = Anuluj
-
 translations-panel-error-translating = Wystąpił problem przy tłumaczeniu. Spróbuj ponownie.
 translations-panel-error-load-languages = Nie można wczytać języków
 translations-panel-error-load-languages-hint = Sprawdź połączenie z Internetem i spróbuj ponownie.
 translations-panel-error-load-languages-hint-button =
     .label = Spróbuj ponownie
-
 translations-panel-error-unsupported = Tłumaczenie nie jest dostępne dla tej strony
 translations-panel-error-dismiss-button =
     .label = OK
@@ -115,7 +110,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Wystąpił problem przy pobieraniu plików językowych. Spróbuj ponownie.
 translations-manage-error-delete = Wystąpił błąd podczas usuwania plików językowych. Spróbuj ponownie.
 translations-manage-error-list = Pobranie listy języków dostępnych do tłumaczenia się nie powiodło. Odśwież stronę, aby spróbować ponownie.
-
 translations-settings-title =
     .title = Ustawienia tłumaczeń
     .style = min-width: 36em
