@@ -5,7 +5,6 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Diese Seite übersetzen
-
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -15,13 +14,10 @@ urlbar-translations-button =
 #   $toLanguage (string) - The target language of the translation.
 urlbar-translations-button-translated =
     .tooltiptext = Seite von { $fromLanguage } nach { $toLanguage } übersetzt
-
 urlbar-translations-button-loading =
     .tooltiptext = Übersetzung läuft
-
 translations-panel-settings-button =
     .aria-label = Übersetzungs-Einstellungen verwalten
-
 # Text displayed on a language dropdown when the language is in beta
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -33,7 +29,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Sprachen verwalten
 translations-panel-settings-about = Über Übersetzungen in { -brand-shorter-name }
-
+translations-panel-settings-about2 =
+    .label = Über Übersetzungen in { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -41,7 +38,6 @@ translations-panel-settings-always-translate-language =
     .label = { $language } immer übersetzen
 translations-panel-settings-always-translate-unknown-language =
     .label = Diese Sprache immer übersetzen
-
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -49,7 +45,6 @@ translations-panel-settings-never-translate-language =
     .label = { $language } nie übersetzen
 translations-panel-settings-never-translate-unknown-language =
     .label = Diese Sprache nie übersetzen
-
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
     .label = Diese Website nie übersetzen
@@ -64,13 +59,11 @@ translations-panel-translate-button-loading =
     .label = Bitte warten…
 translations-panel-translate-cancel =
     .label = Abbrechen
-
 translations-panel-error-translating = Beim Übersetzen ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.
 translations-panel-error-load-languages = Sprachen konnten nicht geladen werden
 translations-panel-error-load-languages-hint = Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
 translations-panel-error-load-languages-hint-button =
     .label = Erneut versuchen
-
 translations-panel-error-unsupported = Übersetzung ist für diese Seite nicht verfügbar
 translations-panel-error-dismiss-button =
     .label = OK
@@ -128,7 +121,6 @@ translations-manage-language-delete-button =
 translations-manage-error-download = Beim Herunterladen der Sprachdateien ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.
 translations-manage-error-delete = Beim Löschen der Sprachdateien ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
 translations-manage-error-list = Die Liste der verfügbaren Sprachen für die Übersetzung konnte nicht abgerufen werden. Aktualisieren Sie die Seite, um es erneut zu versuchen.
-
 translations-settings-title =
     .title = Übersetzungseinstellungen
     .style = min-width: 36em
