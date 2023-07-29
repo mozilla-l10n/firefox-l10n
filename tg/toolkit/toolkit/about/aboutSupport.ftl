@@ -79,6 +79,7 @@ app-basics-key-mozilla = Калиди хидмати ҷойгиршавии «Mo
 app-basics-safe-mode = Реҷаи бехатар
 app-basics-memory-size = Андозаи ҳофиза (RAM)
 app-basics-disk-available = Фазои дастрас дар диск
+app-basics-pointing-devices = Дастгоҳҳои нуқтагузорӣ
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -402,3 +403,8 @@ support-remote-experiments-see-about-studies = Барои маълумоти б�
 support-remote-features-title = Хусусиятҳои дурдаст
 support-remote-features-name = Ном
 support-remote-features-status = Вазъият
+
+## Pointing devices
+
+pointing-device-mouse = Муш
+pointing-device-touchscreen = Экрани ламсӣ
