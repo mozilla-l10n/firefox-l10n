@@ -408,3 +408,4 @@ support-remote-features-status = Вазъият
 
 pointing-device-mouse = Муш
 pointing-device-touchscreen = Экрани ламсӣ
+pointing-device-none = Ягон дастгоҳҳои нуқтагузорӣ нест

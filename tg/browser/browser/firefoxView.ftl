@@ -36,6 +36,7 @@ firefoxview-tabpickup-synctabs-description = Иҷозат диҳед, ки «{ -
 firefoxview-tabpickup-synctabs-learn-how = Бифаҳмед, ки чӣ тавр
 firefoxview-tabpickup-synctabs-primarybutton = Ҳамоҳангсозии варақаҳои кушодашуда
 firefoxview-syncedtabs-synctabs-header = Танзимоти ҳамоҳангсозиро навсозӣ кунед
+firefoxview-syncedtabs-synctabs-checkbox = Иҷозат додан барои ҳамоҳангсозии варақаҳои кушода
 firefoxview-tabpickup-fxa-admin-disabled-header = Ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард
 firefoxview-tabpickup-fxa-admin-disabled-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки маъмури шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
 firefoxview-tabpickup-network-offline-header = Пайвастшавии Интернети худро тафтиш кунед
@@ -51,6 +52,7 @@ firefoxview-tabpickup-password-locked-header = Барои намоиш дода�
 firefoxview-tabpickup-password-locked-description = Барои ба даст овардани варақаҳои худ, шумо бояд ниҳонвожаи асосии худро барои «{ -brand-short-name }» ворид намоед.
 firefoxview-tabpickup-password-locked-link = Маълумоти бештар
 firefoxview-tabpickup-password-locked-primarybutton = Ниҳонвожаи асосии худро ворид кунед
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Маълумоти бештар</a>
 firefoxview-tabpickup-signed-out-header = Барои аз нав пайваст шудан ворид шавед
 firefoxview-tabpickup-signed-out-description = Барои аз нав пайваст шудан ва ба даст овардани варақаҳои худ, ба ҳисоби худ дар «{ -fxaccount-brand-name }» ворид шавед.
 firefoxview-tabpickup-signed-out-primarybutton = Ворид шудан
@@ -152,6 +154,7 @@ firefoxview-history-site-localhost = (файлҳои маҳаллӣ)
 ##
 
 firefoxview-show-all-history = Намоиш додани таърихи пурра
+firefoxview-view-more-browsing-history = Таърихи тамошокунии худро бештар аз назар гузаронед
 
 ## Message displayed in Firefox View when the user has no history data
 

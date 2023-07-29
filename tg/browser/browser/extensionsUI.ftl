@@ -23,6 +23,7 @@ addon-post-install-message = { $addonName } илова карда шуд.
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Васеъшавии «{ $addonName }»-ро дар сомонаҳои маҳдудшуда иҷро мекунед?
+webext-quarantine-confirmation-line-1 = Барои муҳофизат кардани маълумоти шумо, ин васеъшавӣ дар ин сомона иҷозат дода намешавад.
 webext-quarantine-confirmation-allow =
     .label = Иҷозат додан
     .accesskey = И
