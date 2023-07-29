@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Þýða þessa síðu
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Þýða þessa síðu - beta-prófun
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Prófaðu einkaþýðingar í { -brand-shorter-name } - beta-prófun
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,8 @@ translations-panel-translate-button-loading =
     .label = Bíddu aðeins…
 translations-panel-translate-cancel =
     .label = Hætta við
+translations-panel-learn-more-link = Frekari upplýsingar
+translations-panel-intro-header = Prófaðu einkaþýðingar í { -brand-shorter-name }
 translations-panel-error-translating = Vandamál kom upp við að þýða. Reyndu aftur.
 translations-panel-error-load-languages = Ekki tókst að hlaða inn tungumálum
 translations-panel-error-load-languages-hint = Athugaðu internettenginguna þína og reyndu aftur.
@@ -120,6 +131,19 @@ translations-manage-language-delete-button =
     .accesskey = E
 translations-manage-error-download = Villa kom upp við að sækja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-delete = Villa kom upp við að eyða tungumálaskránum. Reyndu aftur.
+translations-manage-install-description = Settu inn tungumál fyrir þýðingar án nettengingar.
+translations-manage-language-install-button =
+    .label = Setja inn
+translations-manage-language-install-all-button =
+    .label = Setja inn allt
+    .accesskey = i
+translations-manage-language-remove-button =
+    .label = Fjarlægja
+translations-manage-language-remove-all-button =
+    .label = Fjarlægja allt
+    .accesskey = F
+translations-manage-error-install = Villa kom upp við að setja inn tungumálaskrárnar. Reyndu aftur.
+translations-manage-error-remove = Villa kom upp við að fjarlægja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-list = Ekki tókst að ná í lista yfir tiltæk tungumál fyrir þýðingar. Endurnýjaðu síðuna til að reyna aftur.
 translations-settings-title =
     .title = Þýðingastillingar
