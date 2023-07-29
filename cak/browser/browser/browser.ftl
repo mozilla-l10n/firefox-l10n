@@ -367,6 +367,7 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Tatzija' ri HTTPS-Only Rub'anikil pa re ruxaq re' we nawajo' chi ri { -brand-short-name } nujäl rik'in ri okem toq k'atzinel.
 identity-https-only-info-turn-off2 = We man nisamäj ta ütz ri ruxaq, rik'in jub'a' nawajo' nachüp ri HTTPS-Only Rub'anikil pa re ruxaq re', richin nisamajïx chik akuchi' nokisäx ri mejikïl HTTP.
 identity-https-only-info-turn-on3 = Tatzija' chi nijal pa HTTPS re ruxaq re we nawajo' chi ri { -brand-short-name } nujäl rik'in ri okem toq k'atzinel.
+identity-https-only-info-turn-off3 = We man nisamäj ta ütz ri ruxaq, rik'in jub'a' nawajo' nachüp ri jaloj HTTPS pa re ruxaq re', richin nisamajïx chik akuchi' nokisäx ri mejikil HTTP.
 identity-https-only-info-no-upgrade = Man nitikïr ta nik'ex ri okem pa HTTP.
 identity-permissions-storage-access-header = Kicookies xoch'in taq ruxaq
 identity-permissions-storage-access-hint = Re taq peraj re' yetikïr nikokisaj kikokies xoch'in taq ruxaq chuqa' kitzij taq ruxaq toq at k'o pa re ruxaq.
@@ -633,6 +634,7 @@ picture-in-picture-urlbar-button-open =
 picture-in-picture-urlbar-button-close =
     .tooltiptext = Titz'apïx Picture-in-Picture({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
+picture-in-picture-panel-headline = Re ruxaq re' man nuchilab'ej ta Picture-in-Picture
 
 ## Full Screen and Pointer Lock UI
 
