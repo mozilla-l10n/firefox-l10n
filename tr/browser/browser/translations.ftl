@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Bu sayfayı çevir
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Bu sayfayı çevir - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +64,7 @@ translations-panel-translate-button-loading =
     .label = Lütfen bekleyin…
 translations-panel-translate-cancel =
     .label = Vazgeç
+translations-panel-learn-more-link = Daha fazla bilgi al
 translations-panel-error-translating = Çeviri sırasında bir sorun oluştu. Lütfen yeniden deneyin.
 translations-panel-error-load-languages = Diller yüklenemedi
 translations-panel-error-load-languages-hint = İnternet bağlantınızı kontrol edip yeniden deneyin.
@@ -120,6 +126,19 @@ translations-manage-language-delete-button =
     .accesskey = S
 translations-manage-error-download = Dil dosyaları indirilirken bir sorun oluştu. Lütfen yeniden deneyin.
 translations-manage-error-delete = Dil dosyaları silinirken bir hata oluştu. Lütfen yeniden deneyin.
+translations-manage-install-description = Çevrimdışı çeviri için dilleri yükle
+translations-manage-language-install-button =
+    .label = Yükle
+translations-manage-language-install-all-button =
+    .label = Tümünü yükle
+    .accesskey = T
+translations-manage-language-remove-button =
+    .label = Kaldır
+translations-manage-language-remove-all-button =
+    .label = Tümünü kaldır
+    .accesskey = k
+translations-manage-error-install = Dil dosyaları yüklenirken bir sorun oluştu. Lütfen yeniden deneyin.
+translations-manage-error-remove = Dil dosyaları kaldırılırken bir hata oluştu. Lütfen yeniden deneyin.
 translations-manage-error-list = Çeviri için mevcut dillerin listesi alınamadı. Yeniden denemek için sayfayı tazeleyin.
 translations-settings-title =
     .title = Çeviri Ayarları
