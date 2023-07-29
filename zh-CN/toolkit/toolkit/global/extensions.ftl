@@ -14,7 +14,7 @@ webext-perms-header = 要添加“{ $extension }”吗？
 webext-perms-header-with-perms = 要添加“{ $extension }”吗？此扩展将可执行下列操作：
 webext-perms-header-unsigned = 要添加“{ $extension }”吗？此扩展未经验证。恶意的扩展可能会窃取您的私密信息或损坏您的计算机。请仅在信任其来源时才安装。
 webext-perms-header-unsigned-with-perms = 要添加“{ $extension }”吗？此扩展未经验证。恶意的扩展可能会窃取您的私密信息或损坏您的计算机。请仅在信任其来源时才安装。此扩展将可执行下列操作：
-webext-perms-sideload-header = “{ $extension }”装好了
+webext-perms-sideload-header = 已添加“{ $extension }”
 webext-perms-optional-perms-header = “{ $extension }”需要额外权限。
 
 ##
