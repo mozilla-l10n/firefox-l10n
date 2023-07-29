@@ -56,6 +56,7 @@ migration-bookmarks-option-label = ブックマーク
 migration-favorites-option-label = お気に入り
 migration-logins-and-passwords-option-label = 保存したログイン情報とパスワード
 migration-history-option-label = ブラウジング履歴
+migration-extensions-option-label = 拡張機能
 migration-form-autofill-option-label = フォームの自動入力データ
 migration-payment-methods-option-label = 支払い方法
 migration-cookies-option-label = Cookie
@@ -66,6 +67,7 @@ migration-passwords-from-file-success-header = パスワードの読み込みが
 migration-passwords-from-file = パスワードファイルを確認しています
 migration-passwords-new = 新規パスワード
 migration-passwords-updated = 既存のパスワード
+migration-passwords-from-file-no-valid-data = このファイルには正しいパスワードデータが含まれていません。別のファイルを選んでください。
 migration-passwords-from-file-picker-title = パスワードファイルの読み込み
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -147,13 +149,21 @@ migration-list-bookmark-label = ブックマーク
 migration-list-favorites-label = お気に入り
 migration-list-password-label = パスワード
 migration-list-history-label = 履歴
+migration-list-extensions-label = 拡張機能
 migration-list-autofill-label = 自動入力データ
 migration-list-payment-methods-label = 支払い方法
 
 ##
 
 migration-wizard-progress-header = データの読み込み
-migration-wizard-progress-done-header = データの読み込みが完了しました
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = すべてのデータが読み込まれました
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = 一部のデータが読み込まれました
 migration-wizard-progress-icon-in-progress =
     .aria-label = 読み込み中...
 migration-wizard-progress-icon-completed =
@@ -188,6 +198,36 @@ migration-wizard-progress-success-favorites =
         [one] { $quantity } 個のお気に入り
        *[other] { $quantity } 個のお気に入り
     }
+
+## The import process identifies extensions installed in other supported
+## browsers and installs the corresponding (matching) extensions compatible
+## with Firefox, if available.
+
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } 個の拡張機能
+       *[other] { $quantity } 個の拡張機能
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } / { $quantity } 個の拡張機能
+migration-wizard-progress-extensions-support-link = { -brand-product-name } に適合する拡張機能についての詳細
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = 適合する拡張機能がありません
+migration-wizard-progress-extensions-addons-link = { -brand-short-name } 用の拡張機能を探す
+
+##
+
 # Shown in the migration wizard after importing passwords from another
 # browser has completed.
 #
