@@ -73,6 +73,7 @@ app-basics-key-mozilla = מפתח עבור שירותי המיקום של Mozill
 app-basics-safe-mode = מצב בטוח
 app-basics-memory-size = גודל זיכרון (RAM)
 app-basics-disk-available = שטח דיסק זמין
+app-basics-pointing-devices = התקני הצבעה
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
