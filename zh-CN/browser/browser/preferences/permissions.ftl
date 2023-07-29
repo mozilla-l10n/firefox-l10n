@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = 例外
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = 网站地址
     .accesskey = d
-
 permissions-block =
     .label = 阻止
     .accesskey = B
-
 permissions-disable-etp =
     .label = 添加例外
     .accesskey = E
-
 permissions-session =
     .label = 在这次浏览期间允许
     .accesskey = S
-
 permissions-allow =
     .label = 允许
     .accesskey = A
-
 permissions-button-off =
     .label = 关闭
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = 暂时关闭
     .accesskey = T
-
 permissions-site-name =
     .label = 网站
-
 permissions-status =
     .label = 状态
-
 permissions-remove =
     .label = 移除网站
     .accesskey = R
-
 permissions-remove-all =
     .label = 移除全部网站
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = 保存更改
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = 所有网站的默认值：
-
 permissions-searchbox =
     .placeholder = 搜索网站
-
 permissions-capabilities-autoplay-allow =
     .label = 允许音频和视频
 permissions-capabilities-autoplay-block =
     .label = 阻止音频
 permissions-capabilities-autoplay-blockall =
     .label = 阻止音频和视频
-
 permissions-capabilities-allow =
     .label = 允许
 permissions-capabilities-block =
     .label = 阻止
 permissions-capabilities-prompt =
     .label = 每次都问我
-
 permissions-capabilities-listitem-allow =
     .value = 允许
 permissions-capabilities-listitem-block =
     .value = 阻止
 permissions-capabilities-listitem-allow-session =
     .value = 在这次浏览期间允许
-
 permissions-capabilities-listitem-off =
     .value = 关闭
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = 例外 - HTTPS-Only 模式
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = 您可以关闭特定网站的 HTTPS-Only 模式。{ -brand-short-name } 将不再尝试将这些网站的连接升级为安全的 HTTPS。“例外”不会应用至隐私窗口。
+permissions-exceptions-https-only-desc2 = 您可以关闭特定网站的 HTTPS-Only 模式。{ -brand-short-name } 将不再尝试将这些网站的连接升级为安全的 HTTPS。
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = 设置 - 扬声器权限
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = 下列网站曾请求选择音频输出设备。您可指定允许哪些网站选择音频输出设备。
-
 permissions-exceptions-doh-window =
     .title = 例外网站 - 基于 HTTPS 的 DNS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } 将不再使用安全 DNS 解析这些网站及其子域网站。
-
 permissions-doh-entry-field = 输入网站域名
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = 添加
     .accesskey = A
-
 permissions-doh-col =
     .label = 域名
-
 permissions-doh-remove =
     .label = 移除
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = 全部移除
     .accesskey = e

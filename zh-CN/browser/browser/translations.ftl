@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 翻译此页面
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = 翻译此页面 - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = 试试 { -brand-shorter-name } 隐私为先的翻译功能 - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = 请稍候…
 translations-panel-translate-cancel =
     .label = 取消
+translations-panel-learn-more-link = 详细了解
+translations-panel-intro-header = 试试 { -brand-shorter-name } 隐私为先的翻译功能
+translations-panel-intro-description = 为保护隐私，翻译过程只会在本地进行。我们很快会支持更多语言并带来改进！
 translations-panel-error-translating = 翻译时遇到问题，请重试。
 translations-panel-error-load-languages = 无法加载语言
 translations-panel-error-load-languages-hint = 请检查您的互联网连接，然后重试。
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = 下载离线包时遇到问题，请重试。
 translations-manage-error-delete = 删除离线包时遇到问题，请重试。
+translations-manage-intro = 设置语言与网站翻译首选项，管理离线翻译语言包。
+translations-manage-install-description = 安装离线翻译语言包
+translations-manage-language-install-button =
+    .label = 安装
+translations-manage-language-install-all-button =
+    .label = 全部安装
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = 移除
+translations-manage-language-remove-all-button =
+    .label = 全部移除
+    .accesskey = e
+translations-manage-error-install = 安装离线包时遇到问题，请重试。
+translations-manage-error-remove = 删除离线包时遇到问题，请重试。
 translations-manage-error-list = 获取可用离线包失败，请刷新页面重试。
 translations-settings-title =
     .title = 翻译设置
