@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = 翻譯此頁面
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = 翻譯此頁面 - Beta 測試版
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = 試用保護隱私的 { -brand-shorter-name } 翻譯功能 - Beta 測試版
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -60,6 +69,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = 取消
 translations-panel-learn-more-link = 了解更多
+translations-panel-intro-header = 試用保護隱私的 { -brand-shorter-name } 翻譯功能
+translations-panel-intro-description = 為了保護您的隱私，要翻譯的內容不會離開您的裝置。即將支援更多新語言並改善功能！
 translations-panel-error-translating = 翻譯時發生問題，請再試一次。
 translations-panel-error-load-languages = 無法載入語言清單
 translations-panel-error-load-languages-hint = 請確認網路連線正常後再試一次。
@@ -121,6 +132,7 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
 translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
+translations-manage-intro = 設定您的語言與網站翻譯偏好設定，或管理已安裝的離線翻譯語言檔。
 translations-manage-install-description = 安裝離線翻譯用的語言檔案
 translations-manage-language-install-button =
     .label = 安裝
