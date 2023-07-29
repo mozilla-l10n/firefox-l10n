@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Перевести эту страницу
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Перевести эту страницу - Бета
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Попробуйте конфиденциальные переводы в { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Пожалуйста, подождите…
 translations-panel-translate-cancel =
     .label = Отмена
+translations-panel-learn-more-link = Узнать больше
+translations-panel-intro-header = Попробуйте конфиденциальные переводы в { -brand-shorter-name }
+translations-panel-intro-description = Для вашей конфиденциальности переводы никогда не покидают ваше устройство. Скоро появятся новые языки и улучшения!
 translations-panel-error-translating = При переводе возникла проблема, пожалуйста, попробуйте ещё раз.
 translations-panel-error-load-languages = Не удалось загрузить языки
 translations-panel-error-load-languages-hint = Проверьте подключение к Интернету и повторите попытку.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = л
 translations-manage-error-download = При загрузке языковых файлов возникла проблема, пожалуйста, попробуйте ещё раз.
 translations-manage-error-delete = При удалении языковых файлов произошла ошибка, пожалуйста, попробуйте ещё раз.
+translations-manage-intro = Задайте настройки языка и перевода сайта и управляйте языками, установленными для автономного перевода.
+translations-manage-install-description = Установите языки для автономного перевода
+translations-manage-language-install-button =
+    .label = Установить
+translations-manage-language-install-all-button =
+    .label = Установить все
+    .accesskey = ш
+translations-manage-language-remove-button =
+    .label = Удалить
+translations-manage-language-remove-all-button =
+    .label = Удалить все
+    .accesskey = у
+translations-manage-error-install = Возникла проблема с установкой языковых файлов. Пожалуйста, попробуйте еще раз.
+translations-manage-error-remove = Произошла ошибка при удалении языковых файлов. Пожалуйста, попробуйте еще раз.
 translations-manage-error-list = Не удалось получить список доступных языков для перевода. Обновите страницу, чтобы повторить попытку.
 translations-settings-title =
     .title = Настройки перевода
