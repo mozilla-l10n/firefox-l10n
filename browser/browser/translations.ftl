@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Бұл парақты аудару
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Бұл парақты аудару - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name } - Beta ішіндегі жекелік аудармаларды қолданып көріңіз
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Күте тұрыңыз…
 translations-panel-translate-cancel =
     .label = Бас тарту
+translations-panel-learn-more-link = Көбірек білу
+translations-panel-intro-header = { -brand-shorter-name } ішіндегі жекелік аудармаларды қолданып көріңіз
+translations-panel-intro-description = Жекелігіңіз үшін аудармалар құрылғыңыздан ешқашан кетпейді. Жаңа тілдер мен жақсартулар жақында!
 translations-panel-error-translating = Аудару кезінде мәселе орын алды. Қайталап көріңіз.
 translations-panel-error-load-languages = Тілдерді жүктеу мүмкін емес
 translations-panel-error-load-languages-hint = Интернет байланысын тексеріп, әрекетті қайталаңыз.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = ш
 translations-manage-error-download = Тілдік файлды жүктеп алу кезінде мәселе орын алды. Қайталап көріңіз.
 translations-manage-error-delete = Тілдік файлдарды өшіру кезінде қате орын алды. Қайталап көріңіз.
+translations-manage-intro = Тілді және сайт аудармасының баптауларын орнатыңыз және желіден тыс аударма үшін орнатылған тілдерді басқарыңыз.
+translations-manage-install-description = Желіден тыс аударма үшін тілдерді орнату
+translations-manage-language-install-button =
+    .label = Орнату
+translations-manage-language-install-all-button =
+    .label = Барлығын орнату
+    .accesskey = о
+translations-manage-language-remove-button =
+    .label = Өшіру
+translations-manage-language-remove-all-button =
+    .label = Барлығын өшіру
+    .accesskey = ш
+translations-manage-error-install = Тілдік файлды орнату кезінде мәселе орын алды. Қайталап көріңіз.
+translations-manage-error-remove = Тілдік файлдарды өшіру кезінде қате орын алды. Қайталап көріңіз.
 translations-manage-error-list = Аударма үшін қолжетімді тілдер тізімін алу сәтсіз аяқталды. Әрекетті қайталау үшін бетті жаңартыңыз.
 translations-settings-title =
     .title = Аударма баптаулары
