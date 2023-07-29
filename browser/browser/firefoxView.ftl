@@ -23,12 +23,15 @@ firefoxview-tabpickup-progress-label = 完成 { $percentValue }%
 firefoxview-tabpickup-step-signin-header = 无缝切换设备
 firefoxview-tabpickup-step-signin-description = 请先登录或创建账户，即可在此处接收手机上的标签页。
 firefoxview-tabpickup-step-signin-primarybutton = 继续
+firefoxview-syncedtabs-signin-header = 跨平台接收标签页
+firefoxview-syncedtabs-signin-description = 登录账户即可查看您在其他设备上的 { -brand-product-name } 中打开的标签页。如果还没有账户，我们可以引导您完成注册。
 firefoxview-syncedtabs-signin-primarybutton = 登录或注册
 firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-name } 并登录。
 firefoxview-tabpickup-adddevice-learn-how = 了解要如何做
 firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-syncedtabs-adddevice-header = 在您的其他设备上登录 { -brand-product-name }
+firefoxview-syncedtabs-adddevice-description = 为您在各设备上使用的 { -brand-product-name } 登录账户，即可查看您在其他设备上打开的标签页。详细了解<a data-l10n-name="url">连接其他设备的方法</a>。
 firefoxview-syncedtabs-adddevice-primarybutton = 试试 { -brand-product-name } 移动版
 firefoxview-tabpickup-synctabs-header = 开启标签页同步
 firefoxview-tabpickup-synctabs-description = 允许 { -brand-short-name } 跨设备共享标签页。
@@ -158,6 +161,9 @@ firefoxview-view-more-browsing-history = 查看更多浏览历史
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = 接续上次浏览
+firefoxview-history-empty-description = 浏览时，您访问过的页面会记录在此处。
+firefoxview-history-empty-description-two = 保护隐私是我们的首要事项。因此，您可以在<a data-l10n-name="history-settings-url">历史记录设置</a>中控制 { -brand-short-name } 所记录的活动。
 
 ##
 
@@ -167,6 +173,9 @@ firefoxview-choose-browser-button = 选择浏览器
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = 无内容
+firefoxview-dont-remember-history-empty-description = 保护隐私是我们的首要事项。因此，您可以控制 { -brand-short-name } 所记录的活动。
+firefoxview-dont-remember-history-empty-description-two = 基于当前的设置，{ -brand-short-name } 不会记录您的浏览活动。如有需要，请将历史记录设置<a data-l10n-name="history-settings-url-two">更改为记录历史</a>。
 
 ##
 
@@ -177,9 +186,14 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = 从其他浏览器导入历史记录
+firefoxview-import-history-description = 将 { -brand-short-name } 设为默认浏览器，导入浏览历史和书签等项目。
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = 要用到刚关闭的标签页？
+firefoxview-recentlyclosed-empty-description = 您可以在这里找回最近关闭的标签页，方便重新打开。
+firefoxview-recentlyclosed-empty-description-two = 如需查找较早前关闭的标签页，请查看<a data-l10n-name="history-url">浏览历史</a>。
 
 ##
 

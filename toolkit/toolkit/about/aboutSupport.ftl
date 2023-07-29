@@ -18,7 +18,10 @@ support-addons-type = 类型
 support-addons-enabled = 已启用
 support-addons-version = 版本
 support-addons-id = ID
+legacy-user-stylesheets-title = 旧版用户样式表单
+legacy-user-stylesheets-enabled = 启用
 legacy-user-stylesheets-stylesheet-types = 样式表
+legacy-user-stylesheets-no-stylesheets-found = 未找到样式表
 security-software-title = 安全软件
 security-software-type = 类型
 security-software-name = 名称
@@ -385,5 +388,7 @@ support-remote-features-status = 状态
 
 ## Pointing devices
 
+pointing-device-mouse = 鼠标
+pointing-device-touchscreen = 触摸屏
 pointing-device-pen-digitizer = 数位板
 pointing-device-none = 无定点设备
