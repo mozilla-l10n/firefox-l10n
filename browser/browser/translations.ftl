@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traducir esta página
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Traducir esta página - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Probar traducciones privadas en { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,8 @@ translations-panel-translate-button-loading =
     .label = Espere…
 translations-panel-translate-cancel =
     .label = Cancelar
+translations-panel-learn-more-link = Conocer más
+translations-panel-intro-header = Probar traducciones privadas en { -brand-shorter-name }
 translations-panel-error-translating = Hubo un problema al traducir. Intente nuevamente.
 translations-panel-error-load-languages = No se pueden cargar los idiomas
 translations-panel-error-load-languages-hint = Verifique la conexión a Internet e intente nuevamente.
