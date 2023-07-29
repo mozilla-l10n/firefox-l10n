@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = תרגום דף זה
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = תרגום עמוד זה - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = נסו תרגומים פרטיים ב־{ -brand-shorter-name } - ‏Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = נא להמתין…
 translations-panel-translate-cancel =
     .label = ביטול
+translations-panel-learn-more-link = מידע נוסף
+translations-panel-intro-header = נסו תרגומים פרטיים ב־{ -brand-shorter-name }
+translations-panel-intro-description = למען הפרטיות שלך, תרגומים לעולם אינם עוזבים את המכשיר שלך. שפות חדשות ושיפורים בקרוב!
 translations-panel-error-translating = אירעה שגיאה בתרגום. נא לנסות שוב.
 translations-panel-error-load-languages = לא ניתן לטעון שפות
 translations-panel-error-load-languages-hint = נא לבדוק את החיבור שלך לרשת ולנסות שוב.
@@ -120,6 +132,10 @@ translations-manage-language-delete-button =
     .accesskey = מ
 translations-manage-error-download = אירעה שגיאה בהורדת קובצי השפה. נא לנסות שוב.
 translations-manage-error-delete = אירעה שגיאה במחיקת קובצי השפה. נא לנסות שוב.
+translations-manage-intro = באפשרותך להגדיר את השפה שלך ואת ההעדפות שלך לתרגום האתרים, ולנהל שפות המותקנות עבור תרגום לא מקוון.
+translations-manage-install-description = התקנת שפות לתרגום לא מקוון
+translations-manage-language-install-button =
+    .label = התקנה
 translations-manage-error-list = נכשל לקבל את רשימת השפות הזמינות לתרגום. ניתן לרענן את הדף כדי לנסות שוב.
 translations-settings-title =
     .title = הגדרות תרגומים
