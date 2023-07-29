@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Přeložit tuto stránku
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Přeloží tuto stránku (beta)
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -67,6 +72,8 @@ translations-panel-translate-button-loading =
     .label = Čekejte prosím…
 translations-panel-translate-cancel =
     .label = Zrušit
+translations-panel-learn-more-link = Zjistit více
+translations-panel-intro-description = V zájmu ochrany vašeho soukromí překlady nikdy neopouštějí vaše zařízení. Nové jazyky a vylepšení již brzy!
 translations-panel-error-translating = Při překladu došlo k chybě. Zkuste to prosím znovu.
 translations-panel-error-load-languages = Nepodařilo se načíst jazyky
 translations-panel-error-load-languages-hint = Zkontrolujte své připojení k internetu a zkuste to znovu.
@@ -128,6 +135,18 @@ translations-manage-language-delete-button =
     .accesskey = m
 translations-manage-error-download = Při stahování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
 translations-manage-error-delete = Při odstraňování jazykových souborů se vyskytl problém. Zkuste to prosím znovu.
+translations-manage-language-install-button =
+    .label = Nainstalovat
+translations-manage-language-install-all-button =
+    .label = Nainstalovat vše
+    .accesskey = N
+translations-manage-language-remove-button =
+    .label = Odebrat
+translations-manage-language-remove-all-button =
+    .label = Odebrat vše
+    .accesskey = O
+translations-manage-error-install = Při instalaci jazykových souborů došlo k chybě. Prosím zkuste to znovu.
+translations-manage-error-remove = Při odstraňování jazykových souborů došlo k chybě. Prosím zkuste to znovu.
 translations-manage-error-list = Nepodařilo se získat seznam dostupných jazyků pro překlad. Obnovte stránku a zkuste to znovu.
 translations-settings-title =
     .title = Nastavení překladů
