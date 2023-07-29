@@ -78,6 +78,7 @@ app-basics-key-mozilla = Mozilla Location Service lykill
 app-basics-safe-mode = Öryggishamur
 app-basics-memory-size = Stærð minnis (RAM)
 app-basics-disk-available = Tiltækt diskapláss
+app-basics-pointing-devices = Bendiltæki
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -401,3 +402,10 @@ support-remote-experiments-see-about-studies = Skoðaðu <a data-l10n-name="supp
 support-remote-features-title = Fjartengingareiginleikar
 support-remote-features-name = Heiti
 support-remote-features-status = Staða
+
+## Pointing devices
+
+pointing-device-mouse = Mús
+pointing-device-touchscreen = Snertiskjár
+pointing-device-pen-digitizer = Teiknipenni
+pointing-device-none = Engin bendiltæki
