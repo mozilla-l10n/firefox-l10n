@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Перекласти цю сторінку
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Перекласти цю сторінку - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Спробуйте приватний переклад у { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Зачекайте, будь ласка…
 translations-panel-translate-cancel =
     .label = Скасувати
+translations-panel-learn-more-link = Докладніше
+translations-panel-intro-header = Спробуйте приватний переклад у { -brand-shorter-name }
+translations-panel-intro-description = Для вашої приватності переклади завжди відбуваються на пристрої. Невдовзі з'являться нові мови та покращення!
 translations-panel-error-translating = Виникла проблема з перекладом. Повторіть спробу.
 translations-panel-error-load-languages = Не вдалося завантажити мови
 translations-panel-error-load-languages-hint = Перевірте інтернет-з'єднання та повторіть спробу.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = В
 translations-manage-error-download = Виникла проблема із завантаженням мовних файлів. Повторіть спробу.
 translations-manage-error-delete = Під час видалення мовних файлів сталася помилка. Повторіть спробу.
+translations-manage-intro = Оберіть свою мову і налаштуйте переклад сайтів, а також керуйте мовами, що встановлюються для перекладу офлайн.
+translations-manage-install-description = Встановити мови для перекладу офлайн
+translations-manage-language-install-button =
+    .label = Встановити
+translations-manage-language-install-all-button =
+    .label = Встановити всі
+    .accesskey = т
+translations-manage-language-remove-button =
+    .label = Вилучити
+translations-manage-language-remove-all-button =
+    .label = Вилучити всі
+    .accesskey = л
+translations-manage-error-install = Виникла проблема під час встановлення мовних файлів. Спробуйте ще раз.
+translations-manage-error-remove = Виникла проблема під час вилучення мовних файлів. Спробуйте ще раз.
 translations-manage-error-list = Не вдалося отримати список доступних мов для перекладу. Оновіть сторінку, щоб повторити спробу.
 translations-settings-title =
     .title = Налаштування перекладу
