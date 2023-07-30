@@ -14,7 +14,6 @@ xpinstall-prompt-message = Za chwilę zostanie zainstalowany dodatek z witryny 
 
 xpinstall-prompt-header-unknown = Czy zezwolić nieznanej witrynie na zainstalowanie dodatku?
 xpinstall-prompt-message-unknown = Za chwilę zostanie zainstalowany dodatek z nieznanej witryny. Przed kontynuacją upewnij się, że jej ufasz.
-
 xpinstall-prompt-dont-allow =
     .label = Nie zezwalaj
     .accesskey = N
@@ -45,7 +44,6 @@ xpinstall-disabled = Instalacja oprogramowania jest obecnie wyłączona. Kliknij
 xpinstall-disabled-button =
     .label = Włącz
     .accesskey = c
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,13 +52,16 @@ addon-install-blocked-by-policy = Dodatek { $addonName } ({ $addonId }) został 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Administrator komputera nie pozwolił tej witrynie zapytać o zgodę na instalację oprogramowania.
 addon-install-full-screen-blocked = Instalacja dodatków jest niedozwolona w trybie pełnoekranowym lub przed jego włączeniem.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = Dodatek „{ $addonName }” został dodany do { -brand-short-name(case: "gen") }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } wymaga nowych uprawnień
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = Dokończ instalację rozszerzeń zaimportowanych do { -brand-short-name(case: "gen") }
 
 ## Add-on removal warning
 
@@ -72,7 +73,6 @@ addon-removal-title = Czy usunąć „{ $name }”?
 addon-removal-message = Czy usunąć rozszerzenie „{ $name }” z { -brand-shorter-name(case: "gen") }?
 addon-removal-button = Usuń
 addon-removal-abuse-report-checkbox = Zgłoś to rozszerzenie do { -vendor-short-name(case: "gen") }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -82,7 +82,6 @@ addon-downloading-and-verifying =
        *[many] Pobieranie i weryfikowanie { $addonCount } dodatków…
     }
 addon-download-verifying = weryfikowanie…
-
 addon-install-cancel-button =
     .label = Anuluj
     .accesskey = A

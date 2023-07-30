@@ -38,11 +38,9 @@ menu-quit =
             [windows] k
            *[other] k
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Zakończ program { -brand-shorter-name }
-
 menu-about =
     .label = O programie { -brand-shorter-name }
     .accesskey = O
@@ -223,6 +221,9 @@ menu-history-undo-menu =
     .label = Ostatnio zamknięte karty
 menu-history-undo-window-menu =
     .label = Ostatnio zamknięte okna
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Szukaj w historii
 
 ## Bookmarks Menu
 
@@ -235,6 +236,9 @@ menu-bookmark-tab =
     .label = Dodaj zakładkę do tej karty…
 menu-edit-bookmark =
     .label = Edytuj tę zakładkę…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Szukaj w zakładkach
 menu-bookmarks-all-tabs =
     .label = Dodaj zakładki do wszystkich kart…
 menu-bookmarks-toolbar =
