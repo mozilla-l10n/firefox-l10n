@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oldal lefordítása
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Oldal lefordítása – Béta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Próbálja ki a privát fordításokat a { -brand-shorter-name }ban – Béta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Kis türelmet…
 translations-panel-translate-cancel =
     .label = Mégse
+translations-panel-learn-more-link = További tudnivalók
+translations-panel-intro-header = Próbálja ki a privát fordításokat a { -brand-shorter-name }ban – Béta
+translations-panel-intro-description = Adatvédelmi okokból a fordítások sosem hagyják el az eszközét. Hamarosan új nyelvek és fejlesztések érkeznek!
 translations-panel-error-translating = Hiba történt a fordítás során. Próbálja meg újra.
 translations-panel-error-load-languages = A nyelvek betöltése sikertelen
 translations-panel-error-load-languages-hint = Ellenőrizze az internetkapcsolatát, és próbálja újra.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = T
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
 translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
+translations-manage-intro = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz használt nyelveket.
+translations-manage-install-description = Nyelvek telepítése a kapcsolat nélküli fordításhoz
+translations-manage-language-install-button =
+    .label = Telepítés
+translations-manage-language-install-all-button =
+    .label = Összes telepítése
+    .accesskey = t
+translations-manage-language-remove-button =
+    .label = Eltávolítás
+translations-manage-language-remove-all-button =
+    .label = Összes eltávolítása
+    .accesskey = e
+translations-manage-error-install = Hiba történt a nyelvi fájlok telepítése során. Próbálja meg újra.
+translations-manage-error-remove = Hiba történt a nyelvi fájlok eltávolítása során. Próbálja meg újra.
 translations-manage-error-list = Nem sikerült lekérni a fordításhoz elérhető nyelveket. Az újrapróbálkozáshoz frissítse az oldalt.
 translations-settings-title =
     .title = Fordítási beállítások
