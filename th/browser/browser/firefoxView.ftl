@@ -24,14 +24,20 @@ firefoxview-tabpickup-step-signin-header = สลับระหว่างอ�
 firefoxview-tabpickup-step-signin-description = เมื่อต้องการนำแท็บบนโทรศัพท์ของคุณมาที่นี่ ให้ลงชื่อเข้าหรือสร้างบัญชีก่อน
 firefoxview-tabpickup-step-signin-primarybutton = ดำเนินการต่อ
 firefoxview-syncedtabs-signin-header = หยิบแท็บได้จากทุกที่
+firefoxview-syncedtabs-signin-primarybutton = ลงชื่อเข้าหรือสมัคร
 firefoxview-tabpickup-adddevice-header = ซิงค์ { -brand-product-name } บนโทรศัพท์หรือแท็บเล็ตของคุณ
 firefoxview-tabpickup-adddevice-description = ดาวน์โหลด { -brand-product-name } สำหรับมือถือแล้วลงชื่อเข้าจากที่นั่น
 firefoxview-tabpickup-adddevice-learn-how = เรียนรู้วิธี
 firefoxview-tabpickup-adddevice-primarybutton = รับ { -brand-product-name } สำหรับมือถือ
+firefoxview-syncedtabs-adddevice-header = ลงชื่อเข้า { -brand-product-name } บนอุปกรณ์อื่น ๆ ของคุณ
+firefoxview-syncedtabs-adddevice-primarybutton = ลองใช้ { -brand-product-name } สำหรับมือถือ
 firefoxview-tabpickup-synctabs-header = เปิดการซิงค์แท็บ
 firefoxview-tabpickup-synctabs-description = อนุญาตให้ { -brand-short-name } แบ่งปันแท็บระหว่างอุปกรณ์
 firefoxview-tabpickup-synctabs-learn-how = เรียนรู้วิธี
 firefoxview-tabpickup-synctabs-primarybutton = ซิงค์แท็บที่เปิดอยู่
+firefoxview-syncedtabs-synctabs-header = อัปเดตการตั้งค่าการซิงค์ของคุณ
+firefoxview-syncedtabs-synctabs-description = หากต้องการดูแท็บจากอุปกรณ์อื่น คุณต้องซิงค์แท็บที่เปิดอยู่
+firefoxview-syncedtabs-synctabs-checkbox = อนุญาตให้ซิงค์แท็บที่เปิดอยู่
 firefoxview-tabpickup-fxa-admin-disabled-header = องค์กรของคุณปิดใช้งานการซิงค์
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ไม่สามารถซิงค์แท็บระหว่างอุปกรณ์ได้เนื่องจากผู้ดูแลระบบของคุณปิดใช้งานการซิงค์
 firefoxview-tabpickup-network-offline-header = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณ
@@ -47,6 +53,7 @@ firefoxview-tabpickup-password-locked-header = ป้อนรหัสผ่า
 firefoxview-tabpickup-password-locked-description = เมื่อต้องการนำแท็บของคุณมาที่นี่ คุณจะต้องป้อนรหัสผ่านหลักสำหรับ { -brand-short-name }
 firefoxview-tabpickup-password-locked-link = เรียนรู้เพิ่มเติม
 firefoxview-tabpickup-password-locked-primarybutton = ป้อนรหัสผ่านหลัก
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">เรียนรู้เพิ่มเติม</a>
 firefoxview-tabpickup-signed-out-header = ลงชื่อเข้าเพื่อเชื่อมต่ออีกครั้ง
 firefoxview-tabpickup-signed-out-description = หากต้องการเชื่อมต่อใหม่และนำแท็บของคุณมาที่นี่ ให้ลงชื่อเข้า { -fxaccount-brand-name } ของคุณ
 firefoxview-tabpickup-signed-out-primarybutton = ลงชื่อเข้า
@@ -93,6 +100,8 @@ firefoxview-overview-header = การเรียกดูล่าสุด
 firefoxview-history-nav = ประวัติ
     .title = ประวัติ
 firefoxview-history-header = ประวัติ
+firefoxview-history-context-delete = ลบออกจากประวัติ
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -138,6 +147,10 @@ firefoxview-history-date-today = วันนี้ - { DATETIME($date, dateStyl
 firefoxview-history-date-yesterday = เมื่อวาน - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ไฟล์ในเครื่อง)
 
 ##
 
@@ -146,9 +159,14 @@ firefoxview-view-more-browsing-history = ดูประวัติการเ
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = กลับมายังที่ที่คุณเคยไป
+firefoxview-history-empty-description = ระหว่างที่คุณเรียกดู หน้าที่คุณเยี่ยมชมจะแสดงอยู่ที่นี่
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = เลือกเบราว์เซอร์
+    .title = เลือกเบราว์เซอร์
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
@@ -156,12 +174,20 @@ firefoxview-dont-remember-history-empty-header = ไม่มีอะไรจ�
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = ปิด
+    .title = ปิด
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = นำเข้าประวัติจากเบราว์เซอร์อื่น
+firefoxview-import-history-description = ทำให้ { -brand-short-name } เป็นเบราว์เซอร์ที่คุณใช้ นำเข้าประวัติการเข้าชม ที่คั่นหน้า และอื่น ๆ
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ปิดแท็บเร็วเกินไป?
+firefoxview-recentlyclosed-empty-description = ที่นี่จะแสดงแท็บที่เพิ่งปิดไป คุณจึงสามารถเปิดใหม่ได้อย่างรวดเร็ว
 
 ##
 
