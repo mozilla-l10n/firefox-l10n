@@ -24,7 +24,7 @@ addon-post-install-message = Dodano rozszerzenie „{ $addonName }”.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Czy zezwolić rozszerzeniu „{ $addonName }” działać na witrynach z ograniczeniami?
 webext-quarantine-confirmation-line-1 = Aby chronić dane użytkownika, to rozszerzenie nie jest dozwolone na tej witrynie.
-webext-quarantine-confirmation-line-2 = Zezwolenie temu rozszerzeniu pozwoli mu odczytywać i zmieniać dane użytkownika na witrynach ograniczonych przez { -vendor-short-name(case: "acc") }.
+webext-quarantine-confirmation-line-2 = Zezwolenie temu rozszerzeniu pozwoli mu odczytywać i zmieniać dane użytkownika na witrynach z ograniczeniami nałożonymi przez { -vendor-short-name(case: "acc") }.
 webext-quarantine-confirmation-allow =
     .label = Zezwól
     .accesskey = Z
