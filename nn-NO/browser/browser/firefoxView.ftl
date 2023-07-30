@@ -28,6 +28,8 @@ firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
 firefoxview-tabpickup-adddevice-learn-how = Les korleis
 firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
+firefoxview-syncedtabs-adddevice-header = Logg inn på { -brand-product-name } på dei andre einingane dine
+firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
 firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom einingar.
 firefoxview-tabpickup-synctabs-learn-how = Les korleis
@@ -88,12 +90,16 @@ firefoxview-collapse-button-hide =
     .title = Skjul liste
 firefoxview-overview-nav = Nyleg besøkt
     .title = Nyleg besøkt
+firefoxview-overview-header = Nyleg nettlesing
+    .title = Nyleg nettlesing
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Historikk
     .title = Historikk
 firefoxview-history-header = Historikk
+firefoxview-history-context-delete = Slett frå historikk
+    .accesskey = S
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -135,6 +141,10 @@ firefoxview-sort-history-by-site-label = Sorter etter nettstad
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = I dag - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = I går - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
 # order to group sites that do not come from an outside host.
 # For example, this would be the heading for all file:/// URLs in history.
@@ -143,6 +153,7 @@ firefoxview-history-site-localhost = (lokale filer)
 ##
 
 firefoxview-show-all-history = Vis all historikk
+firefoxview-view-more-browsing-history = Vis meir nettlesarhistorikk
 
 ## Message displayed in Firefox View when the user has no history data
 
