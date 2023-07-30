@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Preložiť túto stránku
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Preložiť túto stránku - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Vyskúšajte súkromné preklady vo { -brand-shorter-name(case: "loc") } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Čakajte, prosím…
 translations-panel-translate-cancel =
     .label = Zrušiť
+translations-panel-learn-more-link = Ďalšie informácie
+translations-panel-intro-header = Vyskúšajte súkromné preklady vo { -brand-shorter-name(case: "loc") }
+translations-panel-intro-description = Na ochranu vášho súkromia preklady nikdy neopustia vaše zariadenie. Nové jazyky a vylepšenia už čoskoro!
 translations-panel-error-translating = Pri preklade sa vyskytol problém. Prosím skúste znova.
 translations-panel-error-load-languages = Nepodarilo sa načítať jazyky
 translations-panel-error-load-languages-hint = Skontrolujte svoje internetové pripojenie a skúste to znova.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = d
 translations-manage-error-download = Pri sťahovaní jazykových súborov sa vyskytol problém. Prosím skúste znova.
 translations-manage-error-delete = Pri odstraňovaní jazykových súborov sa vyskytla chyba. Prosím skúste znova.
+translations-manage-intro = Nastavte si jazyk a predvoľby prekladu stránok a spravujte jazyky nainštalované na preklad v režime offline.
+translations-manage-install-description = Nainštalujte jazyky na preklad v režime offline
+translations-manage-language-install-button =
+    .label = Nainštalovať
+translations-manage-language-install-all-button =
+    .label = Nainštalovať všetky
+    .accesskey = a
+translations-manage-language-remove-button =
+    .label = Odstrániť
+translations-manage-language-remove-all-button =
+    .label = Odstrániť všetky
+    .accesskey = d
+translations-manage-error-install = Pri inštalácii jazykových súborov sa vyskytol problém. Prosím skúste znova.
+translations-manage-error-remove = Pri odstraňovaní jazykových súborov sa vyskytla chyba. Prosím skúste znova.
 translations-manage-error-list = Nepodarilo sa získať zoznam dostupných jazykov na preklad. Obnovte stránku a skúste to znova.
 translations-settings-title =
     .title = Nastavenia prekladov
