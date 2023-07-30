@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Výnimky
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresa webovej stránky
     .accesskey = d
-
 permissions-block =
     .label = Zakázať
     .accesskey = a
-
 permissions-disable-etp =
     .label = Pridať výnimku
     .accesskey = P
-
 permissions-session =
     .label = Povoliť pre reláciu
     .accesskey = o
-
 permissions-allow =
     .label = Povoliť
     .accesskey = P
-
 permissions-button-off =
     .label = Vypnúť
     .accesskey = V
-
 permissions-button-off-temporarily =
     .label = Vypnúť dočasne
     .accesskey = d
-
 permissions-site-name =
     .label = Webová stránka
-
 permissions-status =
     .label = Stav
-
 permissions-remove =
     .label = Odstrániť stránku
     .accesskey = r
-
 permissions-remove-all =
     .label = Odstrániť všetky stránky
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Uložiť zmeny
     .buttonaccesskeyaccept = U
-
 permissions-autoplay-menu = Predvolené nastavenia pre všetky webové stránky:
-
 permissions-searchbox =
     .placeholder = Hľadať
-
 permissions-capabilities-autoplay-allow =
     .label = Povoliť zvuk a video
 permissions-capabilities-autoplay-block =
     .label = Blokovať zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokovať zvuk a video
-
 permissions-capabilities-allow =
     .label = Povoliť
 permissions-capabilities-block =
     .label = Zakázať
 permissions-capabilities-prompt =
     .label = Vždy sa opýtať
-
 permissions-capabilities-listitem-allow =
     .value = Povoliť
 permissions-capabilities-listitem-block =
     .value = Zakázať
 permissions-capabilities-listitem-allow-session =
     .value = Povoliť pre reláciu
-
 permissions-capabilities-listitem-off =
     .value = Vypnutá
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Výnimky z režimu Len HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Pre konkrétne webové stránky môžete vypnúť režim "Len HTTPS". Pre tieto stránky sa { -brand-short-name } nebude snažiť inovovať pripojenie na zabezpečené HTTPS. Výnimky sa nevzťahujú na súkromné okná.
+permissions-exceptions-https-only-desc2 = Pre konkrétne webové stránky môžete vypnúť režim "Len HTTPS". Pre tieto stránky sa { -brand-short-name } nebude snažiť inovovať pripojenie na zabezpečené HTTPS.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Nastavenia - Prístup k reproduktorom
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Nasledujúce webové stránky požiadali o výber výstupného zvukového zariadenia. Môžete určiť, ktoré webové stránky môžu zvoliť výstupné zvukové zariadenie.
-
 permissions-exceptions-doh-window =
     .title = Stránky vyňaté z režimu DNS cez HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nebude na týchto stránkach a ich subdoménach používať zabezpečené DNS.
-
 permissions-doh-entry-field = Zadajte názov domény webovej stránky
     .accesskey = a
-
 permissions-doh-add-exception =
     .label = Pridať
     .accesskey = P
-
 permissions-doh-col =
     .label = Doména
-
 permissions-doh-remove =
     .label = Odstrániť
     .accesskey = O
-
 permissions-doh-remove-all =
     .label = Odstrániť všetky
     .accesskey = v
