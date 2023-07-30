@@ -81,6 +81,7 @@ app-basics-key-mozilla = Kľúč Mozilla Location Service
 app-basics-safe-mode = Núdzový režim
 app-basics-memory-size = Veľkosť pamäte (RAM)
 app-basics-disk-available = Dostupné miesto na disku
+app-basics-pointing-devices = Polohovacie zariadenia
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -409,3 +410,10 @@ support-remote-experiments-see-about-studies = Ďalšie informácie nájdete na 
 support-remote-features-title = Vzdialené funkcie
 support-remote-features-name = Názov
 support-remote-features-status = Stav
+
+## Pointing devices
+
+pointing-device-mouse = Myš
+pointing-device-touchscreen = Dotyková obrazovka
+pointing-device-pen-digitizer = Dotykové pero
+pointing-device-none = Žiadne polohovacie zariadenia
