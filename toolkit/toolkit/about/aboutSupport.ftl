@@ -8,7 +8,6 @@ page-subtitle =
     rozwiązywania problemów. Jeśli szukasz odpowiedzi na często zadawane pytania
     dotyczące programu { -brand-short-name }, sprawdź naszą <a data-l10n-name="support-link">stronę wsparcia
     technicznego</a>.
-
 crashes-title = Zgłoszenia awarii
 crashes-id = ID zgłoszenia
 crashes-send-date = Data przesłania
@@ -20,6 +19,10 @@ support-addons-type = Typ
 support-addons-enabled = Włączone
 support-addons-version = Wersja
 support-addons-id = ID
+legacy-user-stylesheets-title = Przestarzałe arkusze stylów użytkownika
+legacy-user-stylesheets-enabled = Aktywne
+legacy-user-stylesheets-stylesheet-types = Arkusze stylów
+legacy-user-stylesheets-no-stylesheets-found = Nie znaleziono arkuszy stylów
 security-software-title = Oprogramowanie zabezpieczające
 security-software-type = Typ
 security-software-name = Nazwa
@@ -79,12 +82,11 @@ app-basics-key-mozilla = Klucz usługi lokalizacji Mozilli
 app-basics-safe-mode = Tryb awaryjny
 app-basics-memory-size = Rozmiar pamięci (RAM)
 app-basics-disk-available = Dostępne miejsce na dysku
-
+app-basics-pointing-devices = Urządzenia wskazujące
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] Pokaż w Finderze
@@ -222,7 +224,6 @@ report-crash-for-days =
         [few] Zgłoszenia awarii z ostatnich { $days } dni
        *[many] Zgłoszenia awarii z ostatnich { $days } dni
     }
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -231,7 +232,6 @@ crashes-time-minutes =
         [few] { $minutes } minuty temu
        *[many] { $minutes } minut temu
     }
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -240,7 +240,6 @@ crashes-time-hours =
         [few] { $hours } godziny temu
        *[many] { $hours } godzin temu
     }
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -249,7 +248,6 @@ crashes-time-days =
         [few] { $days } dni temu
        *[many] { $days } dni temu
     }
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -258,7 +256,6 @@ pending-reports =
         [few] Wszystkie zgłoszenia awarii (łącznie z { $reports } oczekującymi we wskazanym okresie)
        *[many] Wszystkie zgłoszenia awarii (łącznie z { $reports } oczekującymi we wskazanym okresie)
     }
-
 raw-data-copied = Nieprzetworzone dane skopiowane do schowka
 text-copied = Tekst skopiowany do schowka.
 
@@ -271,11 +268,9 @@ blocked-mismatched-version = Zablokowane z powodu różnicy wersji pomiędzy re
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Zablokowane dla zainstalowanej wersji sterownika grafiki. Zalecana jest aktualizacja sterownika do wersji { $driverVersion } lub nowszej.
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
-
 compositing = Komponowanie
 hardware-h264 = Sprzętowe dekodowanie H.264
 main-thread-no-omtc = główny wątek, brak OMTC
@@ -290,7 +285,6 @@ virtual-monitor-disp = Wirtualny monitor
 
 found = Obecny
 missing = Brak
-
 gpu-process-pid = PID procesu GPU
 gpu-process = Proces GPU
 gpu-description = Opis
@@ -315,19 +309,15 @@ webgl2-driver-extensions = Rozszerzenia sterownika WebGL 2
 webgl2-extensions = Rozszerzenia WebGL 2
 webgpu-default-adapter = Domyślna karta WebGPU
 webgpu-fallback-adapter = Zapasowa karta WebGPU
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Zablokowano z powodu znanych problemów: <a data-l10n-name="bug-link">zgłoszenie { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Zablokowano. Kod błędu: { $failureCode }
-
 d3d11layers-crash-guard = Kompozytor D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = Dekoder wideo WMF VPX
-
 reset-on-next-restart = Spróbuj włączyć przy następnym uruchomieniu
 gpu-process-kill-button = Zakończ proces GPU
 gpu-device-reset = Reset urządzenia
@@ -337,10 +327,8 @@ content-uses-tiling = Używa kafelkowania (treść)
 off-main-thread-paint-enabled = Rysowanie poza głównym wątkiem
 off-main-thread-paint-worker-count = Wątki rysujące poza głównym
 target-frame-rate = Docelowa liczba klatek na sekundę
-
 min-lib-versions = Oczekiwana wersja minimalna
 loaded-lib-versions = Wersja w użyciu
-
 has-seccomp-bpf = Seccomp-BPF (filtrowanie wywołań systemowych)
 has-seccomp-tsync = Synchronizacja wątków Seccomp
 has-user-namespaces = Przestrzenie nazw użytkownika
@@ -355,18 +343,15 @@ sandbox-proc-type-content = treść
 sandbox-proc-type-file = zawartość pliku
 sandbox-proc-type-media-plugin = wtyczka multimedialna
 sandbox-proc-type-data-decoder = dekoder danych
-
 startup-cache-title = Pamięć podręczna uruchamiania
 startup-cache-disk-cache-path = Ścieżka do pamięci podręcznej na dysku
 startup-cache-ignore-disk-cache = Ignorowanie pamięci podręcznej na dysku
 startup-cache-found-disk-cache-on-init = Odnaleziono pamięć podręczną na dysku podczas inicjacji
 startup-cache-wrote-to-disk-cache = Zapisano do pamięci podręcznej na dysku
-
 launcher-process-status-0 = włączony
 launcher-process-status-1 = wyłączony z powodu awarii
 launcher-process-status-2 = wymuszone wyłączenie
 launcher-process-status-unknown = nieznany stan
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -386,7 +371,6 @@ fission-status-enabled-by-user-pref = włączone przez użytkownika
 fission-status-disabled-by-user-pref = wyłączone przez użytkownika
 fission-status-disabled-by-e10s-other = e10s jest wyłączone
 fission-status-enabled-by-rollout = włączone przez stopniowe wdrażanie
-
 async-pan-zoom = Asynchroniczne przewijanie/powiększanie
 apz-none = brak
 wheel-enabled = kółko
@@ -423,7 +407,12 @@ support-remote-experiments-title = Zdalne eksperymenty
 support-remote-experiments-name = Nazwa
 support-remote-experiments-branch = Gałąź eksperymentu
 support-remote-experiments-see-about-studies = <a data-l10n-name="support-about-studies-link">about:studies</a> zawiera więcej informacji, w tym jak wyłączyć poszczególne eksperymenty lub uniemożliwić programowi { -brand-short-name } przeprowadzanie tego typu eksperymentów w przyszłości.
-
 support-remote-features-title = Zdalne funkcje
 support-remote-features-name = Nazwa
 support-remote-features-status = Stan
+
+## Pointing devices
+
+pointing-device-mouse = Mysz
+pointing-device-touchscreen = Ekran dotykowy
+pointing-device-none = Brak urządzeń wskazujących
