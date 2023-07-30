@@ -6,6 +6,7 @@
 ### Speech Dispatches is the name of a speech synthesis tool and shouldn’t be
 ### localized (https://freebsoft.org/speechd).
 
+speech-dispatcher-lib-missing = Du kan ikkje bruke talesyntese fordi biblioteket «Speech Dispatcher» manglar.
 speech-dispatcher-lib-too-old = Du kan ikkje bruke talesyntese fordi «Speech Dispatcher» må oppdaterast.
 speech-dispatcher-missing-symbol = Du kan ikkje bruke talesyntese fordi biblioteket «Speech Dispatcher» er skada.
 speech-dispatcher-open-fail = Du kan ikke bruke talesyntese fordi «Speech Dispatcher» ikkje kan opnast.
