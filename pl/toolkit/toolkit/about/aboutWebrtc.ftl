@@ -8,13 +8,14 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Szczegóły techniczne WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = Zapisz stronę about:webrtc jako
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Pokaż zamknięte PeerConnection
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Ukryj zamknięte PeerConnection
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,7 +23,6 @@ about-webrtc-aec-logging-msg-label = Dziennik redukcji szumów otoczenia
 about-webrtc-aec-logging-off-state-label = Zapisuj informacje redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-label = Zatrzymaj zapisywanie informacji redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,14 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = Pliki dziennika znajdują się 
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatyczne odświeżanie
-
-
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Domyślne automatyczne odświeżanie
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Odśwież
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = Identyfikator PeerConnection:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Otwarte kanały danych:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Zamknięte kanały danych:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -83,16 +89,15 @@ about-webrtc-type-remote = Zdalne
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nominowane
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Wybrane
-
 about-webrtc-save-page-label = Zapisz stronę
 about-webrtc-debug-mode-msg-label = Debugowanie
 about-webrtc-debug-mode-off-state-label = Rozpocznij debugowanie
 about-webrtc-debug-mode-on-state-label = Zatrzymaj debugowanie
+about-webrtc-enable-logging-label = Włącz ustawienie dziennika WebRTC
 about-webrtc-stats-heading = Statystyki sesji
 about-webrtc-stats-clear = Wyczyść historię
 about-webrtc-log-heading = Dziennik połączenia
@@ -101,12 +106,12 @@ about-webrtc-log-show-msg = Dziennik
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-log-hide-msg = Ukryj dziennik
     .title = Kliknij, aby zwinąć sekcję
-
 about-webrtc-log-section-show-msg = Dziennik
     .title = Kliknij, aby rozwinąć sekcję
 about-webrtc-log-section-hide-msg = Ukryj dziennik
     .title = Kliknij, aby zwinąć sekcję
 about-webrtc-copy-report-button = Skopiuj raport
+about-webrtc-copy-report-history-button = Skopiuj historię raportów
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -122,6 +127,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (Zakońc
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Wysyłanie/odbieranie: { $codecs }
+about-webrtc-short-send-direction = Wysyłanie: { $codecs }
+about-webrtc-short-receive-direction = Odbieranie: { $codecs }
 
 ##
 
@@ -180,36 +188,26 @@ about-webrtc-pc-configuration-hide-msg = Ukryj konfigurację
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Podano
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Nie podano
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferencje WebRTC ustawione przez użytkownika
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Szacowana przepustowość
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Identyfikator ścieżki
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Przepustowość wysyłania (bajty na sekundę)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Przepustowość odbierania (bajty na sekundę)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maksymalne wypełnienie (bajty na sekundę)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Opóźnienie między pakietami w milisekundach
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT w milisekundach
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -225,13 +223,13 @@ about-webrtc-save-page-msg = Strona zapisana jako { $path }
 about-webrtc-debug-mode-off-state-msg = Dziennik debugowania jest zapisywany w pliku { $path }
 about-webrtc-debug-mode-on-state-msg = Debugowanie aktywne, dziennik w { $path }
 about-webrtc-aec-logging-off-state-msg = Pliki dziennika znajdują się w katalogu { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Strona zapisana jako { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Dziennik debugowania jest zapisywany w pliku { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debugowanie aktywne, dziennik w { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -241,7 +239,6 @@ about-webrtc-frames =
         [few] { $frames } klatki
        *[many] { $frames } klatek
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -251,7 +248,6 @@ about-webrtc-channels =
         [few] { $channels } kanały
        *[many] { $channels } kanałów
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -261,7 +257,6 @@ about-webrtc-received-label =
         [few] Odebrano { $packets } pakiety
        *[many] Odebrano { $packets } pakietów
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -271,7 +266,6 @@ about-webrtc-lost-label =
         [few] Utracono { $packets } pakiety
        *[many] Utracono { $packets } pakietów
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -281,13 +275,11 @@ about-webrtc-sent-label =
         [few] Wysłano { $packets } pakiety
        *[many] Wysłano { $packets } pakietów
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -300,12 +292,10 @@ about-webrtc-trickle-caption-msg = Kandydaci odebrani po odpowiedzi są wyróżn
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Ustawiono „Lokalne SDP” o { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Ustawiono „Zdalne SDP” o { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -320,6 +310,12 @@ about-webrtc-hide-msg-sdp = Ukryj informacje SDP
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = Pokaż kontekst mediów
+about-webrtc-media-context-hide-msg = Ukryj kontekst mediów
+about-webrtc-media-context-heading = Kontekst mediów
+
+##
 
 
 ##
