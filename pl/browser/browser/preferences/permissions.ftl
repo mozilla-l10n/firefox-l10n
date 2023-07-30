@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Wyjątki
     .style = min-width: 35em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adres witryny:
     .accesskey = s
-
 permissions-block =
     .label = Blokuj
     .accesskey = B
-
 permissions-disable-etp =
     .label = Dodaj wyjątek
     .accesskey = D
-
 permissions-session =
     .label = Zezwalaj na czas sesji
     .accesskey = c
-
 permissions-allow =
     .label = Zezwalaj
     .accesskey = Z
-
 permissions-button-off =
     .label = Wyłącz
     .accesskey = W
-
 permissions-button-off-temporarily =
     .label = Wyłącz tymczasowo
     .accesskey = m
-
 permissions-site-name =
     .label = Witryna
-
 permissions-status =
     .label = Stan
-
 permissions-remove =
     .label = Usuń witrynę
     .accesskey = U
-
 permissions-remove-all =
     .label = Usuń wszystkie witryny
     .accesskey = w
-
 permission-dialog =
     .buttonlabelaccept = Zachowaj
     .buttonaccesskeyaccept = h
-
 permissions-autoplay-menu = Domyślne dla wszystkich witryn:
-
 permissions-searchbox =
     .placeholder = Szukaj witryn
-
 permissions-capabilities-autoplay-allow =
     .label = zezwalanie na dźwięk i wideo
 permissions-capabilities-autoplay-block =
     .label = blokowanie dźwięku
 permissions-capabilities-autoplay-blockall =
     .label = blokowanie dźwięku i wideo
-
 permissions-capabilities-allow =
     .label = zezwalaj
 permissions-capabilities-block =
     .label = blokuj
 permissions-capabilities-prompt =
     .label = zawsze pytaj
-
 permissions-capabilities-listitem-allow =
     .value = zezwalaj
 permissions-capabilities-listitem-block =
     .value = blokuj
 permissions-capabilities-listitem-allow-session =
     .value = zezwalaj na czas sesji
-
 permissions-capabilities-listitem-off =
     .value = wyłącz
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Tryb używania wyłącznie protokołu HTTPS — wyjątki
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach. Wyjątki nie są uwzględniane w oknach prywatnych.
+permissions-exceptions-https-only-desc2 = Określ, na których witrynach nie korzystać z trybu używania wyłącznie protokołu HTTPS. { -brand-short-name } nie będzie próbował przełączyć na zabezpieczone połączenie HTTPS na tych witrynach.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Wybieranie głośników — uprawnione witryny
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Następujące strony prosiły o możliwość wyboru wyjściowego urządzenia dźwiękowego. Określ, które witryny mogą je wybierać.
-
 permissions-exceptions-doh-window =
     .title = DNS poprzez HTTPS — wyjątki
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } nie będzie używał zabezpieczonego serwera DNS na tych witrynach i ich poddomenach.
-
 permissions-doh-entry-field = Wpisz nazwę domeny
     .accesskey = W
-
 permissions-doh-add-exception =
     .label = Dodaj
     .accesskey = D
-
 permissions-doh-col =
     .label = Domena
-
 permissions-doh-remove =
     .label = Usuń
     .accesskey = U
-
 permissions-doh-remove-all =
     .label = Usuń wszystkie
     .accesskey = w
