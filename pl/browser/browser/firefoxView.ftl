@@ -94,12 +94,16 @@ firefoxview-collapse-button-hide =
     .title = Ukryj listę
 firefoxview-overview-nav = Ostatnio przeglądane
     .title = Ostatnio przeglądane
+firefoxview-overview-header = Ostatnio przeglądane
+    .title = Ostatnio przeglądane
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Historia
     .title = Historia
 firefoxview-history-header = Historia
+firefoxview-history-context-delete = Usuń z historii
+    .accesskey = U
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -135,22 +139,42 @@ firefoxview-opentabs-focus-tab =
     .title = Przełącz na tę kartę
 firefoxview-show-more = Więcej
 firefoxview-show-less = Mniej
+firefoxview-sort-history-by-date-label = Sortuj według dat
+firefoxview-sort-history-by-site-label = Sortuj według witryn
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Dzisiaj – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Wczoraj – { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (pliki lokalne)
 
 ##
 
+firefoxview-show-all-history = Wyświetl całą historię
+firefoxview-view-more-browsing-history = Wyświetl więcej historii przeglądania
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Wracaj do przeszłości
+firefoxview-history-empty-description = Strony otwierane w czasie przeglądania będą tutaj widoczne.
+firefoxview-history-empty-description-two = Ochrona Twojej prywatności leży u podstaw naszej działalności. Dlatego możesz kontrolować, co { -brand-short-name } zapamiętuje w <a data-l10n-name="history-settings-url">ustawieniach historii</a>.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Wybierz przeglądarkę
+    .title = Wybierz przeglądarkę
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nic tu nie ma
+firefoxview-dont-remember-history-empty-description = Ochrona Twojej prywatności leży u podstaw naszej działalności. Dlatego możesz kontrolować, co { -brand-short-name } zapamiętuje.
 
 ##
 
