@@ -5,6 +5,26 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Przetłumacz tę stronę
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Przetłumacz tę stronę – Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Wypróbuj prywatne tłumaczenia w { -brand-shorter-name(case: "loc") } – Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Oryginalny język strony: { $fromLanguage }. Obecny język strony: { $toLanguage }
+urlbar-translations-button-loading =
+    .tooltiptext = Trwa tłumaczenie
 translations-panel-settings-button =
     .aria-label = Ustawienia tłumaczenia
 # Text displayed on a language dropdown when the language is in beta
@@ -48,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Proszę czekać…
 translations-panel-translate-cancel =
     .label = Anuluj
+translations-panel-learn-more-link = Więcej informacji
+translations-panel-intro-header = Wypróbuj prywatne tłumaczenia w { -brand-shorter-name(case: "loc") }
+translations-panel-intro-description = Ze względu na Twoją prywatność tłumaczenia nigdy nie opuszczają Twojego urządzenia. Wkrótce nowe języki i ulepszenia!
 translations-panel-error-translating = Wystąpił problem przy tłumaczeniu. Spróbuj ponownie.
 translations-panel-error-load-languages = Nie można wczytać języków
 translations-panel-error-load-languages-hint = Sprawdź połączenie z Internetem i spróbuj ponownie.
@@ -109,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = U
 translations-manage-error-download = Wystąpił problem przy pobieraniu plików językowych. Spróbuj ponownie.
 translations-manage-error-delete = Wystąpił błąd podczas usuwania plików językowych. Spróbuj ponownie.
+translations-manage-intro = Ustaw preferencje dotyczące języka i tłumaczenia witryn oraz zarządzaj językami zainstalowanymi do tłumaczenia bez dostępu do Internetu.
+translations-manage-install-description = Zainstaluj języki do tłumaczenia bez dostępu do Internetu
+translations-manage-language-install-button =
+    .label = Zainstaluj
+translations-manage-language-install-all-button =
+    .label = Zainstaluj wszystkie
+    .accesskey = Z
+translations-manage-language-remove-button =
+    .label = Usuń
+translations-manage-language-remove-all-button =
+    .label = Usuń wszystkie
+    .accesskey = U
+translations-manage-error-install = Wystąpił problem przy instalacji plików językowych. Spróbuj ponownie.
+translations-manage-error-remove = Wystąpił błąd podczas usuwania plików językowych. Spróbuj ponownie.
 translations-manage-error-list = Pobranie listy języków dostępnych do tłumaczenia się nie powiodło. Odśwież stronę, aby spróbować ponownie.
 translations-settings-title =
     .title = Ustawienia tłumaczeń
