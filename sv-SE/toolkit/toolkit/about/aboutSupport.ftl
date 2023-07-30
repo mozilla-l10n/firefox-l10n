@@ -407,4 +407,5 @@ support-remote-features-status = Status
 
 pointing-device-mouse = Mus
 pointing-device-touchscreen = Pekskärm
+pointing-device-pen-digitizer = Digital penna
 pointing-device-none = Inga pekdon
