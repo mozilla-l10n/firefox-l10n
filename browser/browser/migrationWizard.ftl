@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Importowanie danych z innych przeglądarek
 migration-wizard-selection-list = Wybierz dane do zaimportowania.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Wybierz dane do zaimportowania.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -55,26 +53,23 @@ migration-selected-data-label = Importowanie wybranych danych
 
 migration-select-all-option-label = Wybierz wszystkie
 migration-bookmarks-option-label = Zakładki
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Ulubione
-
 migration-logins-and-passwords-option-label = Zachowane dane logowania i hasła
 migration-history-option-label = Historia przeglądania
+migration-extensions-option-label = Rozszerzenia
 migration-form-autofill-option-label = Dane automatycznego wypełniania formularzy
 migration-payment-methods-option-label = Metody płatności
-
 migration-cookies-option-label = Ciasteczka
 migration-session-option-label = Okna i karty
 migration-otherdata-option-label = Inne dane
-
 migration-passwords-from-file-progress-header = Importowanie pliku z hasłami
 migration-passwords-from-file-success-header = Pomyślnie zaimportowano hasła
 migration-passwords-from-file = Wyszukiwanie haseł w pliku
 migration-passwords-new = Nowe hasła
 migration-passwords-updated = Istniejące hasła
-
+migration-passwords-from-file-no-valid-data = Plik nie zawiera żadnych prawidłowych danych o hasłach. Wybierz inny.
 migration-passwords-from-file-picker-title = Importowanie pliku z hasłami
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -90,7 +85,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Plik TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -102,7 +96,6 @@ migration-wizard-progress-success-new-passwords =
         [few] Dodano { $newEntries } hasła
        *[many] Dodano { $newEntries } haseł
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -114,14 +107,11 @@ migration-wizard-progress-success-updated-passwords =
         [few] Uaktualniono { $updatedEntries } hasła
        *[many] Uaktualniono { $updatedEntries } haseł
     }
-
 migration-bookmarks-from-file-picker-title = Importowanie pliku z zakładkami
 migration-bookmarks-from-file-progress-header = Importowanie zakładek
 migration-bookmarks-from-file = Zakładki
 migration-bookmarks-from-file-success-header = Pomyślnie zaimportowano zakładki
-
 migration-bookmarks-from-file-no-valid-data = Plik nie zawiera żadnych danych o zakładkach. Wybierz inny.
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -129,11 +119,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] Dokument HTML
        *[other] Plik HTML
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Plik JSON
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -145,14 +133,12 @@ migration-wizard-progress-success-new-bookmarks =
         [few] { $newEntries } zakładki
        *[many] { $newEntries } zakładek
     }
-
 migration-import-button-label = Importuj
 migration-choose-to-import-from-file-button-label = Importuj z pliku
 migration-import-from-file-button-label = Wybierz plik
 migration-cancel-button-label = Anuluj
 migration-done-button-label = Gotowe
 migration-continue-button-label = Kontynuuj
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } nie znalazł żadnych programów zawierających zakładki, historię lub hasła.
 migration-wizard-import-browser-no-resources = Wystąpił błąd. { -brand-short-name } nie może znaleźć żadnych danych do zaimportowania z tego profilu przeglądarki.
 
@@ -163,24 +149,30 @@ migration-wizard-import-browser-no-resources = Wystąpił błąd. { -brand-short
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = zakładki
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = ulubione
 migration-list-password-label = hasła
 migration-list-history-label = historia
+migration-list-extensions-label = rozszerzenia
 migration-list-autofill-label = dane automatycznego wypełniania formularzy
 migration-list-payment-methods-label = metody płatności
 
 ##
 
 migration-wizard-progress-header = Importowanie danych
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Pomyślnie zaimportowano dane
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Ukończono importowanie danych
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importowanie…
 migration-wizard-progress-icon-completed =
     .aria-label = Ukończono
-
 migration-safari-password-import-header = Importowanie haseł z Safari
 migration-safari-password-import-steps-header = Aby zaimportować hasła z Safari:
 migration-safari-password-import-step1 = W Safari otwórz menu „Safari” i przejdź do „Preferencje” → „Hasła”
@@ -189,8 +181,6 @@ migration-safari-password-import-step3 = Zapisz plik z hasłami
 migration-safari-password-import-step4 = Użyj przycisku „Wybierz plik” poniżej, aby wybrać zapisany plik z hasłami
 migration-safari-password-import-skip-button = Pomiń
 migration-safari-password-import-select-button = Wybierz plik
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -202,7 +192,6 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } zakładki
        *[many] { $quantity } zakładek
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -221,6 +210,30 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } rozszerzenie
+        [few] { $quantity } rozszerzenia
+       *[many] { $quantity } rozszerzeń
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } z { $quantity } rozszerzeń
+migration-wizard-progress-extensions-support-link = Więcej informacji o tym, jak { -brand-product-name } dopasowuje rozszerzenia
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Brak pasujących rozszerzeń
+migration-wizard-progress-extensions-addons-link = Przeglądaj rozszerzenia dla { -brand-short-name(case: "gen") }
+
 ##
 
 # Shown in the migration wizard after importing passwords from another
@@ -234,7 +247,6 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } hasła
        *[many] { $quantity } haseł
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -246,9 +258,7 @@ migration-wizard-progress-success-history =
         [few] Z ostatnich { $maxAgeInDays } dni
        *[many] Z ostatnich { $maxAgeInDays } dni
     }
-
 migration-wizard-progress-success-formdata = Historia formularzy
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -260,7 +270,6 @@ migration-wizard-progress-success-payment-methods =
         [few] { $quantity } metody płatności
        *[many] { $quantity } metod płatności
     }
-
 migration-wizard-safari-permissions-sub-header = Aby zaimportować zakładki i historię przeglądania z Safari:
 migration-wizard-safari-instructions-continue = Kliknij „Kontynuuj”
 migration-wizard-safari-instructions-folder = Zaznacz folder Safari na liście i kliknij „Otwórz”
