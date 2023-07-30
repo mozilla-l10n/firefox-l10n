@@ -175,15 +175,25 @@ firefoxview-choose-browser-button = Wybierz przeglądarkę
 
 firefoxview-dont-remember-history-empty-header = Nic tu nie ma
 firefoxview-dont-remember-history-empty-description = Ochrona Twojej prywatności leży u podstaw naszej działalności. Dlatego możesz kontrolować, co { -brand-short-name } zapamiętuje.
+firefoxview-dont-remember-history-empty-description-two = Z powodu obecnych ustawień { -brand-short-name } nie zapamiętuje tego, co przeglądasz. Możesz zmienić <a data-l10n-name="history-settings-url-two">ustawienia historii</a>, aby to pamiętał.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Zamknij
+    .title = Zamknij
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importuj historię z innej przeglądarki
+firefoxview-import-history-description = Używaj przeglądarki { -brand-short-name } za każdym razem. Zaimportuj historię przeglądania, zakładki i nie tylko.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Karta zamknęła się za wcześnie?
+firefoxview-recentlyclosed-empty-description = Tutaj znajdziesz ostatnio zamknięte karty, dzięki czemu możesz szybko otworzyć jakąś z powrotem.
+firefoxview-recentlyclosed-empty-description-two = Karty sprzed dłuższego czasu znajdziesz w <a data-l10n-name="history-url">historii przeglądania</a>.
 
 ##
 
