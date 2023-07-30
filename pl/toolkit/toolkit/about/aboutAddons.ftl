@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Dodatki
-
 search-header =
     .placeholder = Szukaj na stronie addons.mozilla.org
     .searchbuttonlabel = Szukaj
@@ -12,109 +11,79 @@ search-header =
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Znajdź rozszerzenia i motywy na stronie <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-dictionaries-message = Znajdź słowniki na stronie <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = Znajdź pakiety językowe na stronie <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
 list-empty-installed =
     .value = Nie ma zainstalowanych dodatków tego typu
-
 list-empty-available-updates =
     .value = Nie znaleziono aktualizacji
-
 list-empty-recent-updates =
     .value = Dodatki nie były ostatnio aktualizowane
-
 list-empty-find-updates =
     .label = Sprawdź dostępność aktualizacji
-
 list-empty-button =
     .label = Więcej informacji o dodatkach
-
 help-button = Wsparcie dla dodatków
 sidebar-help-button-title =
     .title = Wsparcie dla dodatków
-
 addons-settings-button = Ustawienia { -brand-short-name(case: "gen") }
 sidebar-settings-button-title =
     .title = Ustawienia { -brand-short-name(case: "gen") }
-
 show-unsigned-extensions-button =
     .label = Niektóre rozszerzenia nie mogły zostać zweryfikowane
-
 show-all-extensions-button =
     .label = Pokaż wszystkie rozszerzenia
-
 detail-version =
     .label = Wersja
-
 detail-last-updated =
     .label = Ostatnia aktualizacja
-
 addon-detail-description-expand = Więcej
 addon-detail-description-collapse = Mniej
-
 detail-contributions-description = Autor tego dodatku prosi o wsparcie niewielką kwotą jego dalszego rozwoju.
-
 detail-contributions-button = Wspomóż
     .title = Wspomóż rozwój tego dodatku
     .accesskey = s
-
 detail-update-type =
     .value = Aktualizacje automatyczne
-
 detail-update-default =
     .label = ustawienia domyślne
     .tooltiptext = Instaluj aktualizacje automatycznie tylko, jeśli takie jest domyślne ustawienie
-
 detail-update-automatic =
     .label = włączone
     .tooltiptext = Instaluj aktualizacje automatycznie
-
 detail-update-manual =
     .label = wyłączone
     .tooltiptext = Nie instaluj aktualizacji automatycznie
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Działanie w oknach prywatnych:
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Niedozwolone w oknach prywatnych
 detail-private-disallowed-description2 = To rozszerzenie nie działa podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Wymaga dostępu do okien prywatnych
 detail-private-required-description2 = To rozszerzenie ma dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
-
 detail-private-browsing-on =
     .label = zezwalaj
     .tooltiptext = Włącz w trybie prywatnym
-
 detail-private-browsing-off =
     .label = nie zezwalaj
     .tooltiptext = Wyłącz w trybie prywatnym
-
 detail-home =
     .label = Strona domowa
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profil dodatku
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Sprawdź dostępność aktualizacji
     .accesskey = S
     .tooltiptext = Sprawdź, czy dostępne są aktualizacje dla tego dodatku
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -131,38 +100,26 @@ detail-show-preferences =
             [windows] Zmień opcje tego dodatku
            *[other] Zmień preferencje związane z tym dodatkiem
         }
-
 detail-rating =
     .value = Ocena
-
 addon-restart-now =
     .label = Uruchom ponownie
-
 disabled-unsigned-heading =
     .value = Niektóre dodatki zostały wyłączone
-
 disabled-unsigned-description = Następujące dodatki nie zostały zweryfikowane do użytku w programie { -brand-short-name }. Możesz <label data-l10n-name="find-addons">poszukać zamienników</label> lub poprosić ich dostawcę o weryfikację.
-
 disabled-unsigned-learn-more = Więcej informacji o naszych wysiłkach na rzecz Twojego bezpieczeństwa w sieci.
-
 disabled-unsigned-devinfo = Programiści zainteresowani weryfikacją swoich dodatków mogą skorzystać z <label data-l10n-name="learn-more">dokumentacji</label>.
-
 plugin-deprecation-description = Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w programie { -brand-short-name }. <label data-l10n-name="learn-more">Więcej informacji</label>.
-
 legacy-warning-show-legacy = Wyświetl przestarzałe rozszerzenia
-
 legacy-extensions =
     .value = Przestarzałe rozszerzenia
-
 legacy-extensions-description = Te rozszerzenia nie spełniają obecnych standardów programu { -brand-short-name } i z tego powodu zostały wyłączone. <label data-l10n-name="legacy-learn-more">Więcej informacji o zmianach w dodatkach</label>.
-
 private-browsing-description2 =
     { -brand-short-name } zmienia sposób działania rozszerzeń w trybie prywatnym. Rozszerzenia dodane
     do programu domyślnie nie będą działały w oknach prywatnych. Jeśli nie zostanie to zmienione
     w ustawieniach, rozszerzenie nie będzie działało w trybie prywatnym i nie będzie miało dostępu
     do działań użytkownika. Wprowadziliśmy tę zmianę, aby prywatne przeglądanie zawsze było prywatne.
     <label data-l10n-name="private-browsing-learn-more">Więcej informacji o zarządzaniu ustawieniami rozszerzeń.</label>
-
 addon-category-discover = Polecane
 addon-category-discover-title =
     .title = Polecane
@@ -192,7 +149,7 @@ addon-category-sitepermission-title =
     .title = Uprawnienia witryn
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Uprawnienia witryny { $host }
 
 ## These are global warnings
@@ -204,6 +161,8 @@ extensions-warning-check-compatibility-button = Włącz
 extensions-warning-update-security = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.
 extensions-warning-update-security-button = Włącz
     .title = Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków
+extensions-warning-imported-addons = Dokończ instalację rozszerzeń, które zostały zaimportowane do { -brand-short-name(case: "gen") }.
+extensions-warning-imported-addons-button = Zainstaluj rozszerzenia
 
 ## Strings connected to add-on updates
 
@@ -250,44 +209,37 @@ addon-open-about-debugging = Debuguj dodatki
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Zarządzaj skrótami rozszerzeń
     .accesskey = d
-
 shortcuts-no-addons = Nie włączono żadnych rozszerzeń.
 shortcuts-no-commands = Te rozszerzenia nie mają skrótów:
 shortcuts-input =
     .placeholder = Wprowadź skrót
-
 shortcuts-browserAction2 = Włącz przycisk na pasku narzędzi
 shortcuts-pageAction = Włącz działanie na stronie
 shortcuts-sidebarAction = Przełącz panel boczny
-
 shortcuts-modifier-mac = Uwzględnij Ctrl, Alt lub ⌘
 shortcuts-modifier-other = Uwzględnij Ctrl lub Alt
 shortcuts-invalid = Nieprawidłowe połączenie
 shortcuts-letter = Wpisz literę
 shortcuts-system = Nie można zastąpić skrótu programu { -brand-short-name }
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Podwójny skrót
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } jest używane jako skrót w więcej niż jednym przypadku. Podwójne skróty mogą powodować niepoprawne działanie.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Jest już używany przez dodatek { $addon }
-
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } więcej
         [few] { $numberToShow } więcej
        *[many] { $numberToShow } więcej
     }
-
 shortcuts-card-collapse-button = Mniej
-
 header-back-button =
     .title = Wstecz
 
@@ -302,13 +254,10 @@ discopane-intro =
     Te małe programy są często tworzone przez osoby trzecie. Poniżej
     znajduje się wybór wyjątkowo bezpiecznych, wydajnych i funkcjonalnych
     dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez przeglądarkę { -brand-product-name }.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
 discopane-notice-learn-more = Więcej informacji
-
 privacy-policy = Zasady ochrony prywatności
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -324,7 +273,6 @@ install-theme-button = Zainstaluj motyw
 manage-addon-button = Zarządzaj
 find-more-addons = Znajdź więcej dodatków
 find-more-themes = Znajdź więcej motywów
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -350,49 +298,37 @@ preferences-addon-button =
 details-addon-button = Szczegóły
 release-notes-addon-button = Informacje o wydaniu
 permissions-addon-button = Uprawnienia
-
 extension-enabled-heading = Włączone
 extension-disabled-heading = Wyłączone
-
 theme-enabled-heading = Włączone
 theme-disabled-heading2 = Zachowane motywy
-
 plugin-enabled-heading = Włączone
 plugin-disabled-heading = Wyłączone
-
 dictionary-enabled-heading = Włączone
 dictionary-disabled-heading = Wyłączone
-
 locale-enabled-heading = Włączone
 locale-disabled-heading = Wyłączone
-
 sitepermission-enabled-heading = Włączone
 sitepermission-disabled-heading = Wyłączone
-
 always-activate-button = Zawsze aktywuj
 never-activate-button = Nigdy nie aktywuj
-
 addon-detail-author-label = Autor
 addon-detail-version-label = Wersja
 addon-detail-last-updated-label = Ostatnia aktualizacja
 addon-detail-homepage-label = Strona domowa
 addon-detail-rating-label = Ocena
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = To rozszerzenie zostanie zaktualizowane po ponownym uruchomieniu programu { -brand-short-name }.
 install-postponed-button = Zaktualizuj teraz
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Ocena: { NUMBER($rating, maximumFractionDigits: 1) } z 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (wyłączone)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -409,14 +345,16 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Usunięto dodatek <span data-l10n-name="addon-name">{ $addon }</span>.
 pending-uninstall-undo-button = Cofnij
-
 addon-detail-updates-label = Automatyczne aktualizacje:
 addon-detail-updates-radio-default = ustawienia domyślne
 addon-detail-updates-radio-on = włączone
 addon-detail-updates-radio-off = wyłączone
 addon-detail-update-check-label = Sprawdź dostępność aktualizacji
 install-update-button = Zaktualizuj
-
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -425,9 +363,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do działań użytkownika w Internecie podczas przeglądania w trybie prywatnym. <a data-l10n-name="learn-more">Więcej informacji</a>
 addon-detail-private-browsing-allow = zezwalaj
 addon-detail-private-browsing-disallow = nie zezwalaj
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
+
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Działanie na witrynach z ograniczeniami
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Zezwolenie spowoduje, że rozszerzenie będzie miało dostęp do witryn ograniczonych przez { -vendor-short-name(case: "acc") }. Zezwalaj tylko wtedy, gdy ufasz temu rozszerzeniu.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Zezwól
+addon-detail-quarantined-domains-disallow = Nie zezwalaj
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -448,20 +401,17 @@ addon-badge-verified2 =
 
 available-updates-heading = Dostępne aktualizacje
 recent-updates-heading = Ostatnie aktualizacje
-
 release-notes-loading = Wczytywanie…
 release-notes-error = Przepraszamy, podczas pobierania informacji o wydaniu wystąpił błąd.
-
 addon-permissions-empty = To rozszerzenie nie wymaga żadnych uprawnień
 addon-permissions-required = Uprawnienia wymagane do działania podstawowych funkcji:
 addon-permissions-optional = Opcjonalne uprawnienia do działania dodatkowych funkcji:
 addon-permissions-learnmore = Więcej informacji o uprawnieniach
-
 recommended-extensions-heading = Polecane rozszerzenia
 recommended-themes-heading = Polecane motywy
-
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Daje witrynie <span data-l10n-name="hostname">{ $hostname }</span> te możliwości:
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Masz ochotę coś stworzyć? <a data-l10n-name="link">Utwórz własny motyw za pomocą Firefox Color.</a>
@@ -477,37 +427,26 @@ updates-heading = Zarządzanie aktualizacjami
 sitepermission-heading = Zarządzanie uprawnieniami witryn
 discover-heading = Dostosuj przeglądarkę { -brand-short-name }
 shortcuts-heading = Zarządzanie skrótami rozszerzeń
-
 default-heading-search-label = Znajdź więcej dodatków
 addons-heading-search-input =
     .placeholder = Szukaj na stronie addons.mozilla.org
-
 addon-page-options-button =
     .title = Narzędzia dla wszystkich dodatków
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = Dodatek „{ $name }” jest niezgodny z programem { -brand-short-name } { $version }.
 details-notification-incompatible-link = Więcej informacji
-
 details-notification-unsigned-and-disabled = Dodatek „{ $name }” nie mógł zostać zweryfikowany do użytku w programie { -brand-short-name } i został wyłączony.
 details-notification-unsigned-and-disabled-link = Więcej informacji
-
 details-notification-unsigned = Dodatek „{ $name }” nie mógł zostać zweryfikowany do użytku w programie { -brand-short-name }. Ostrożnie.
 details-notification-unsigned-link = Więcej informacji
-
 details-notification-blocked = Dodatek { $name } został wyłączony z powodu problemów z bezpieczeństwem lub stabilnością.
 details-notification-blocked-link = Więcej informacji
-
 details-notification-softblocked = Dodatek „{ $name }” został zgłoszony jako powodujący problemy z bezpieczeństwem lub stabilnością.
 details-notification-softblocked-link = Więcej informacji
-
 details-notification-gmp-pending = Dodatek „{ $name }” zostanie wkrótce zainstalowany.

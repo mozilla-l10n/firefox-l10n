@@ -188,6 +188,7 @@ media-codec-support-hw-decoding = Dekodowanie sprzętowe
 media-codec-support-codec-name = Nazwa kodeku
 media-codec-support-supported = Obsługiwane
 media-codec-support-unsupported = Nieobsługiwane
+media-codec-support-error = Informacje o obsłudze kodeków są niedostępne. Spróbuj ponownie po odtworzeniu pliku multimedialnego.
 
 ##
 
@@ -415,4 +416,5 @@ support-remote-features-status = Stan
 
 pointing-device-mouse = Mysz
 pointing-device-touchscreen = Ekran dotykowy
+pointing-device-pen-digitizer = Rysik
 pointing-device-none = Brak urządzeń wskazujących
