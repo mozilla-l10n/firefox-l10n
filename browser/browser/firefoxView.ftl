@@ -166,6 +166,7 @@ firefoxview-choose-browser-button = Vel nettlesar
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ingenting å vise
 
 ##
 
@@ -179,6 +180,7 @@ firefoxview-import-history-close-button =
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Lèt att fane for tidleg?
 
 ##
 
