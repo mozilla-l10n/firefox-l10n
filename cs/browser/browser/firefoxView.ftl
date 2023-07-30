@@ -24,7 +24,11 @@ firefoxview-tabpickup-step-signin-header = Plynule přecházejte mezi zařízen�
 firefoxview-tabpickup-step-signin-description = Pro převzetí svých panelů z telefonu se musíte přihlásit nebo si vytvořit účet.
 firefoxview-tabpickup-step-signin-primarybutton = Pokračovat
 firefoxview-syncedtabs-signin-header = Vezměte si panely odkudkoliv
-firefoxview-syncedtabs-signin-description = Pokud chcete vidět své panely kdekoliv, kde používáte { -brand-product-name }, přihlaste se do svého účtu. Pokud ho nemáte, provedeme vás jednotlivými kroky registrace.
+firefoxview-syncedtabs-signin-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Pokud chcete vidět své panely kdekoliv, kde používáte { -brand-product-name(case: "acc") }, přihlaste se do svého účtu. Pokud ho nemáte, provedeme vás jednotlivými kroky registrace.
+       *[no-cases] Pokud chcete vidět své panely kdekoliv, kde používáte aplikaci { -brand-product-name }, přihlaste se do svého účtu. Pokud ho nemáte, provedeme vás jednotlivými kroky registrace.
+    }
 firefoxview-syncedtabs-signin-primarybutton = Přihlášení nebo registrace
 firefoxview-tabpickup-adddevice-header =
     { -brand-product-name.case-status ->
@@ -47,7 +51,11 @@ firefoxview-syncedtabs-adddevice-header =
         [with-cases] Na ostatních zařízeních se přihlaste k { -brand-product-name(case: "gen") }
        *[no-cases] Na ostatních zařízeních se přihlaste k aplikaci { -brand-product-name }
     }
-firefoxview-syncedtabs-adddevice-description = Chcete-li vidět své panely kdekoliv, kde používáte { -brand-product-name }, přihlaste se na všech svých zařízeních. Přečtěte si, jak <a data-l10n-name="url">připojit další zařízení</a>.
+firefoxview-syncedtabs-adddevice-description =
+    { -brand-product-name.case-status ->
+        [with-cases] Chcete-li vidět své panely kdekoliv, kde používáte { -brand-product-name(case: "acc") }, přihlaste se na všech svých zařízeních. Přečtěte si, jak <a data-l10n-name="url">připojit další zařízení</a>.
+       *[no-cases] Chcete-li vidět své panely kdekoliv, kde používáte aplikaci { -brand-product-name }, přihlaste se na všech svých zařízeních. Přečtěte si, jak <a data-l10n-name="url">připojit další zařízení</a>.
+    }
 firefoxview-syncedtabs-adddevice-primarybutton = Vyzkoušet { -brand-product-name } pro mobily
 firefoxview-tabpickup-synctabs-header = Zapnutí synchronizace panelů
 firefoxview-tabpickup-synctabs-description =
