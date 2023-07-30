@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Översätt den här sidan
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Översätt den här sidan - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Prova privata översättningar i { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Vänta…
 translations-panel-translate-cancel =
     .label = Avbryt
+translations-panel-learn-more-link = Läs mer
+translations-panel-intro-header = Prova privata översättningar i { -brand-shorter-name }
+translations-panel-intro-description = För din integritet lämnar översättningar aldrig din enhet. Nya språk och förbättringar kommer snart!
 translations-panel-error-translating = Det uppstod ett problem med översättningen. Var god försök igen.
 translations-panel-error-load-languages = Det gick inte att läsa in språk
 translations-panel-error-load-languages-hint = Kontrollera din internetanslutning och försök igen.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = T
 translations-manage-error-download = Det gick inte att ladda ned språkfilerna. Var god försök igen.
 translations-manage-error-delete = Det gick inte att ta bort språkfilerna. Var god försök igen.
+translations-manage-intro = Ställ in dina språk- och webbplatsöversättningsinställningar och hantera språk som är installerade för offlineöversättning.
+translations-manage-install-description = Installera språk för offlineöversättning
+translations-manage-language-install-button =
+    .label = Installera
+translations-manage-language-install-all-button =
+    .label = Installera alla
+    .accesskey = a
+translations-manage-language-remove-button =
+    .label = Ta bort
+translations-manage-language-remove-all-button =
+    .label = Ta bort alla
+    .accesskey = T
+translations-manage-error-install = Det uppstod ett problem när språkfilerna skulle installeras. Var god försök igen.
+translations-manage-error-remove = Det uppstod ett fel när språkfilerna skulle tas bort. Var god försök igen.
 translations-manage-error-list = Det gick inte att hämta listan över tillgängliga språk för översättning. Uppdatera sidan för att försöka igen.
 translations-settings-title =
     .title = Översättningsinställningar
