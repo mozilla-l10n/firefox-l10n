@@ -64,6 +64,7 @@ translations-panel-translate-button-loading =
     .label = Veuillez patienter…
 translations-panel-translate-cancel =
     .label = Annuler
+translations-panel-learn-more-link = En savoir plus
 translations-panel-error-translating = Un problème s’est produit lors de la traduction. Veuillez réessayer.
 translations-panel-error-load-languages = Impossible de charger les langues
 translations-panel-error-load-languages-hint = Vérifiez votre connexion Internet puis réessayez.

@@ -79,6 +79,7 @@ app-basics-key-mozilla = Clé du service de localisation de Mozilla
 app-basics-safe-mode = Mode sans échec
 app-basics-memory-size = Taille de la mémoire (RAM)
 app-basics-disk-available = Espace disque disponible
+app-basics-pointing-devices = Périphériques de pointage
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -405,3 +406,6 @@ support-remote-features-status = État
 
 ## Pointing devices
 
+pointing-device-mouse = Souris
+pointing-device-touchscreen = Écran tactile
+pointing-device-none = Aucun périphérique de pointage
