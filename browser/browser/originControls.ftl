@@ -10,19 +10,18 @@
 
 origin-controls-no-access =
     .label = La etendaĵo povas nek legi nek ŝanĝi datumojn
-
 origin-controls-quarantined =
     .label = La etendaĵo rajtas nek legi nek ŝanĝi datumojn
-
+origin-controls-quarantined-status =
+    .label = Etendaĵo ne permesata en limigitaj retejoj
+origin-controls-quarantined-allow =
+    .label = Permesi en limigitaj retejoj
 origin-controls-options =
     .label = La etendaĵo povas kaj legi kaj ŝanĝi datumojn:
-
 origin-controls-option-all-domains =
     .label = En ĉiuj retejoj
-
 origin-controls-option-when-clicked =
     .label = Nur post alklako
-
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -34,19 +33,12 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Ĝi povas nek legi nek ŝanĝi datumojn en tiu ĉi retejo
-
 origin-controls-state-quarantined = Malpermesata de { -vendor-short-name } en tiu ĉi retejo
-
 origin-controls-state-always-on = Ĝi ĉiam povas kaj legi kaj ŝanĝi datumojn en tiuj ĉi retejo
-
 origin-controls-state-when-clicked = Bezonatas permeso por legi kaj ŝanĝi datumojn
-
 origin-controls-state-hover-run-visit-only = Ruli nur por tiu ĉi vizito
-
 origin-controls-state-runnable-hover-open = Malfermi etendaĵon
-
 origin-controls-state-runnable-hover-run = Ruli etendaĵon
-
 origin-controls-state-temporary-access = Eblas kaj legi kaj ŝanĝi datumojn por tiu ĉi vizito
 
 ## Extension's toolbar button.
@@ -56,7 +48,6 @@ origin-controls-state-temporary-access = Eblas kaj legi kaj ŝanĝi datumojn por
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
-
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -64,7 +55,6 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Bezonataj permesoj
-
 # Extension's toolbar button when quarantined.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-quarantined =
