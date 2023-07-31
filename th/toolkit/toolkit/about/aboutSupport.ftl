@@ -4,7 +4,6 @@
 
 page-title = ข้อมูลการแก้ไขปัญหา
 page-subtitle = หน้านี้มีข้อมูลทางเทคนิคที่อาจเป็นประโยชน์เมื่อคุณกำลังพยายามแก้ไขปัญหา หากคุณกำลังมองหาคำตอบสำหรับคำถามที่พบบ่อยเกี่ยวกับ { -brand-short-name } ตรวจสอบ <a data-l10n-name="support-link">เว็บไซต์สนับสนุน</a> ของเรา
-
 crashes-title = รายงานข้อขัดข้อง
 crashes-id = ID รายงาน
 crashes-send-date = ส่งข้อมูลแล้ว
@@ -75,12 +74,10 @@ app-basics-key-mozilla = คีย์ Mozilla Location Service
 app-basics-safe-mode = โหมดปลอดภัย
 app-basics-memory-size = ขนาดหน่วยความจำ (RAM)
 app-basics-disk-available = พื้นที่ที่เหลือในดิสก์:
-
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
 app-basics-data-size = { $value } { $unit }
-
 show-dir-label =
     { PLATFORM() ->
         [macos] แสดงใน Finder
@@ -182,6 +179,7 @@ media-codec-support-hw-decoding = การถอดรหัสด้วยฮ�
 media-codec-support-codec-name = ชื่อตัวแปลงสัญญาณ
 media-codec-support-supported = รองรับ
 media-codec-support-unsupported = ไม่รองรับ
+media-codec-support-error = ข้อมูลการรองรับโคเดกไม่พร้อมใช้ โปรดลองอีกครั้งหลังจากเล่นไฟล์สื่อแล้ว
 
 ##
 
@@ -213,23 +211,18 @@ remote-debugging-url = URL
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days = รายงานข้อขัดข้องของ { $days } วันที่ผ่านมา
-
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes = { $minutes } นาทีที่แล้ว
-
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours = { $hours } ชั่วโมงที่แล้ว
-
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days = { $days } วันที่แล้ว
-
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports = รายงานข้อขัดข้องทั้งหมด (รวม { $reports } ข้อขัดข้องที่ยังไม่ได้รายงานในช่วงเวลาที่กำหนด)
-
 raw-data-copied = คัดลอกข้อมูลดิบไปยังคลิปบอร์ดแล้ว
 text-copied = คัดลอกข้อความไปยังคลิปบอร์ดแล้ว
 
@@ -242,11 +235,9 @@ blocked-mismatched-version = ถูกปิดกั้นจากรุ่น
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = ถูกปิดกั้นจากรุ่นไดรเวอร์กราฟิกของคุณ ลองปรับปรุงไดรเวอร์กราฟิกของคุณเป็นรุ่น { $driverVersion } หรือใหม่กว่า
-
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = พารามิเตอร์ ClearType
-
 compositing = การจัดองค์ประกอบ
 hardware-h264 = การถอดรหัสฮาร์ดแวร์ H264
 main-thread-no-omtc = เธรดหลัก ไม่มี OMTC
@@ -261,7 +252,6 @@ virtual-monitor-disp = จอแสดงผลเสมือนจริง
 
 found = พบ
 missing = หายไป
-
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = คำอธิบาย
@@ -286,19 +276,15 @@ webgl2-driver-extensions = ส่วนขยายไดรเวอร์ WebG
 webgl2-extensions = ส่วนขยาย WebGL 2
 webgpu-default-adapter = อะแดปเตอร์เริ่มต้นของ WebGPU
 webgpu-fallback-adapter = อะแดปเตอร์สำรองของ WebGPU
-
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = ถูกเพิ่มในรายการปิดกั้นเนื่องจากมีปัญหาที่ทราบสาเหตุ: <a data-l10n-name="bug-link">bug { $bugNumber }</a>
-
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = ถูกเพิ่มในรายการปิดกั้นแล้ว; รหัสความล้มเหลว { $failureCode }
-
 d3d11layers-crash-guard = คอมโพสิเตอร์ D3D11
 glcontext-crash-guard = OpenGL
 wmfvpxvideo-crash-guard = ตัวถอดรหัสวิดีโอ WMF VPX
-
 reset-on-next-restart = กลับค่าเดิมเมื่อเริ่มการทำงานใหม่ในครั้งถัดไป
 gpu-process-kill-button = สิ้นสุดโปรเซส GPU
 gpu-device-reset = การกลับค่าเดิมของอุปกรณ์
@@ -308,10 +294,8 @@ content-uses-tiling = ใช้ Tiling (เนื้อหา)
 off-main-thread-paint-enabled = เปิดใช้งาน Off Main Thread Painting แล้ว
 off-main-thread-paint-worker-count = จำนวนตัวทำงาน Off Main Thread Painting
 target-frame-rate = อัตราเฟรมเป้าหมาย
-
 min-lib-versions = รุ่นต่ำสุดที่ใช้ได้
 loaded-lib-versions = รุ่นที่ใช้อยู่
-
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Seccomp Thread Synchronization
 has-user-namespaces = เนมสเปซผู้ใช้
@@ -326,18 +310,15 @@ sandbox-proc-type-content = เนื้อหา
 sandbox-proc-type-file = เนื้อหาไฟล์
 sandbox-proc-type-media-plugin = ปลั๊กอินสื่อ
 sandbox-proc-type-data-decoder = ตัวถอดรหัสข้อมูล
-
 startup-cache-title = แคชเมื่อเริ่มการทำงาน
 startup-cache-disk-cache-path = เส้นทางแคชดิสก์
 startup-cache-ignore-disk-cache = ละเว้นแคชดิสก์
 startup-cache-found-disk-cache-on-init = แคชดิสก์ที่พบเมื่อเตรียมใช้งาน
 startup-cache-wrote-to-disk-cache = ที่เขียนลงในแคชดิสก์
-
 launcher-process-status-0 = เปิดใช้งานอยู่
 launcher-process-status-1 = ถูกปิดใช้งานเนื่องจากความล้มเหลว
 launcher-process-status-2 = ถูกปิดใช้งานโดยการบังคับ
 launcher-process-status-unknown = ไม่ทราบสถานะ
-
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -357,7 +338,6 @@ fission-status-enabled-by-user-pref = ถูกเปิดใช้งานโ
 fission-status-disabled-by-user-pref = ถูกปิดใช้งานโดยผู้ใช้
 fission-status-disabled-by-e10s-other = ปิดใช้งาน E10s แล้ว
 fission-status-enabled-by-rollout = เปิดใช้งานโดย phased rollout
-
 async-pan-zoom = การเลื่อน/ซูมแบบอะซิงโครนัส
 apz-none = ไม่มี
 wheel-enabled = เปิดใช้งานการป้อนข้อมูลด้วยล้อแล้ว
@@ -394,7 +374,9 @@ support-remote-experiments-title = คุณลักษณะทดลองร
 support-remote-experiments-name = ชื่อ
 support-remote-experiments-branch = สาขาการทดลอง
 support-remote-experiments-see-about-studies = ดูที่ <a data-l10n-name="support-about-studies-link">about:studies</a> สำหรับข้อมูลเพิ่มเติม รวมถึงวิธีการปิดใช้งานคุณลักษณะทดลองแต่ละอย่าง หรือปิดใช้งานไม่ให้ { -brand-short-name } เรียกใช้คุณลักษณะทดสอบชนิดนี้อีกในอนาคต
-
 support-remote-features-title = คุณลักษณะระยะไกล
 support-remote-features-name = ชื่อ
 support-remote-features-status = สถานะ
+
+## Pointing devices
+
