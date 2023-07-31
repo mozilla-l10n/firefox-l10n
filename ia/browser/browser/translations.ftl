@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traducer iste pagina
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Traducer iste pagina - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +64,7 @@ translations-panel-translate-button-loading =
     .label = Per favor attende…
 translations-panel-translate-cancel =
     .label = Cancellar
+translations-panel-learn-more-link = Pro saper plus
 translations-panel-error-translating = Il habeva un problema traducente. Retenta.
 translations-panel-error-load-languages = Impossibile cargar linguas
 translations-panel-error-load-languages-hint = Verifica tu connexion a internet e retenta.
@@ -120,6 +126,18 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
+translations-manage-language-install-button =
+    .label = Installar
+translations-manage-language-install-all-button =
+    .label = Installar toto
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Remover
+translations-manage-language-remove-all-button =
+    .label = Remover toto
+    .accesskey = e
+translations-manage-error-install = Il habeva un problema installante le files del linguas. Retenta.
+translations-manage-error-remove = Il habeva un problema removente le files del linguas. Retenta.
 translations-manage-error-list = Impossibile obtener le lista del linguas disponibile pro le traduction. Actualisa le pagina pro retentar.
 translations-settings-title =
     .title = Parametros del traductiones

@@ -159,6 +159,7 @@ firefoxview-view-more-browsing-history = Vider altere chronologia de navigation
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Retorna ubi tu era
+firefoxview-history-empty-description = Dum tu naviga, le paginas que tu visita sera listate ci.
 
 ##
 
