@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = ᱱᱚᱶᱟ ᱥᱟᱦᱴᱟ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ ᱼ ᱵᱮᱴᱟ
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name } ᱨᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱼ ᱵᱤᱴᱟ
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = ᱦᱟᱯᱮ ᱛᱟᱹᱝᱜᱤ ᱢᱮ …
 translations-panel-translate-cancel =
     .label = ᱵᱟᱹᱰᱨᱟᱹ
+translations-panel-learn-more-link = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
+translations-panel-intro-header = { -brand-shorter-name } ᱨᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱪᱮᱥᱴᱟᱭ ᱢᱮ
+translations-panel-intro-description = ᱟᱢᱟᱜ ᱯᱨᱟᱭᱣᱮᱥᱤ ᱞᱟᱹᱜᱤᱫ, ᱟᱢᱟᱜ ᱥᱟᱫᱷᱚᱱ ᱠᱷᱚᱱ ᱛᱚᱨᱡᱚᱢᱟ ᱛᱤᱥ ᱦᱚᱸ ᱵᱟᱝ ᱪᱟᱞᱟᱜᱼᱟ ᱾ ᱱᱚᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱥᱩᱫᱷᱟᱹᱨ ᱞᱚᱜᱚᱱ ᱜᱮ ᱦᱟᱹᱡᱩᱜ ᱞᱟᱹᱜᱤᱫ!
 translations-panel-error-translating = ᱛᱚᱨᱡᱚᱢᱟ ᱡᱷᱚᱜ ᱵᱷᱩᱞ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱦᱩᱭᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-panel-error-load-languages = ᱯᱟᱹᱨᱥᱤ ᱞᱟᱫᱮ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ
 translations-panel-error-load-languages-hint = ᱟᱢᱟᱜ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱡᱩᱲᱟᱹᱣ ᱧᱮᱞ ᱢᱮ ᱟᱨ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
