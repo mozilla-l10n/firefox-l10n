@@ -29,10 +29,15 @@ firefoxview-tabpickup-adddevice-header = Synchronisez { -brand-product-name } av
 firefoxview-tabpickup-adddevice-description = Téléchargez { -brand-product-name } pour mobile et connectez-vous.
 firefoxview-tabpickup-adddevice-learn-how = Découvrez comment
 firefoxview-tabpickup-adddevice-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
+firefoxview-syncedtabs-adddevice-description = Pour consulter vos onglets où que vous utilisez { -brand-product-name }, connectez-vous sur tous vos appareils. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Essayer { -brand-product-name } pour mobile
 firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
 firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.
 firefoxview-tabpickup-synctabs-learn-how = Me montrer comment faire
 firefoxview-tabpickup-synctabs-primarybutton = Synchroniser les onglets ouverts
+firefoxview-syncedtabs-synctabs-header = Mettez à jour vos paramètres de synchronisation
+firefoxview-syncedtabs-synctabs-description = Pour consulter les onglets d’autres appareils, vous devez synchroniser vos onglets ouverts.
+firefoxview-syncedtabs-synctabs-checkbox = Autoriser la synchronisation des onglets ouverts
 firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre administrateur·trice a désactivé la synchronisation.
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
