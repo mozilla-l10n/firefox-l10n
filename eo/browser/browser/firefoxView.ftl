@@ -175,15 +175,25 @@ firefoxview-choose-browser-button = Elekti retumilon
 
 firefoxview-dont-remember-history-empty-header = Nenio montrebla
 firefoxview-dont-remember-history-empty-description = Protekto de via privateco estas kerna afero por ni. Tial vi povas regi kion { -brand-short-name } memoras.
+firefoxview-dont-remember-history-empty-description-two = Laŭ viaj nunaj agordoj { -brand-short-name } ne memoras kion vi faras dum via retumo. Vi povas tamen <a data-l10n-name="history-settings-url-two">ŝanĝi viajn agordojn de historio por memori vian retumon</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Fermi
+    .title = Fermi
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Enporti datumojn el alia retumilo
+firefoxview-import-history-description = Igu { -brand-short-name } via ĉefa retumilo. Enportu vian retuman historion, legosignojn kaj pli.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Ĉu langeto tro rapide fermita?
+firefoxview-recentlyclosed-empty-description = Ĉi tie vi trovos la langetojn vi antaŭ nelonge fermis, tiel ke vi povos rapide remalfermi iun ajn el ili.
+firefoxview-recentlyclosed-empty-description-two = Por trovi pli malnovajn langetojn, vidu vian <a data-l10n-name="history-url">retuman historion</a>.
 
 ##
 

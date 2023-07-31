@@ -32,11 +32,18 @@ about-logging-with-profiler-stacks-checkbox = Aktivigi stakajn spurojn por regis
 
 about-logging-preset-networking-label = Reto
 about-logging-preset-networking-description = Registraj moduloj por diagnozi retajn problemojn
+about-logging-preset-networking-cookie-label = Kuketoj
+about-logging-preset-networking-cookie-description = Registraj moduloj por diagnozi kuketajn problemojn
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = Registraj moduloj por diagnozi problemojn kun WebSocket
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = Registraj moduloj por diagnozi problemojn kun HTTP/3 kaj QUIC
 about-logging-preset-media-playback-label = Ludado de aŭvidaĵoj
 about-logging-preset-media-playback-description = Registraj moduloj por diagnozi problemojn kun ludado de aŭdvidaĵoj (ne por videkonferencaj problemoj)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = Registraj moduloj por diagnozi problemojn kun vokoj WebRTC
 about-logging-preset-custom-label = Personecigita
 about-logging-preset-custom-description = Permane elekitaj registraj moduloj
-
 # Error handling
 about-logging-error = Eraro:
 
@@ -50,5 +57,4 @@ about-logging-unknown-profiler-preset = Nekonata antaŭdifinita agordo de rulana
 about-logging-unknown-option = Nekonata elekteblo de about:logging “{ $k }“
 about-logging-configuration-url-ignored = Ignorita agorda URL
 about-logging-file-and-profiler-override = Ne eblas registri en dosiero kaj samtempe superregi la elekteblojn de la rulanalizilo
-
 about-logging-configured-via-url = Elekteblo agordita per URL
