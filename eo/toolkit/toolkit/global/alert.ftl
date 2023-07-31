@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Fermi tiun ĉi sciigon
 alert-settings-title =
     .tooltiptext = Agordoj
+
+## Reminder Notifications
+
+notification-default-dismiss = Ignori

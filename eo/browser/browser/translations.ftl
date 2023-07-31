@@ -5,6 +5,26 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traduki tiun ĉi paĝon
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Traduki tiun ĉi paĝon - Beta versio
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Provu privatajn tradukojn en { -brand-shorter-name } - Beta versio
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Paĝo tradukita el { $fromLanguage } en la { $toLanguage }n
+urlbar-translations-button-loading =
+    .tooltiptext = Traduko okazas
 translations-panel-settings-button =
     .aria-label = Administri agordojn de traduko
 # Text displayed on a language dropdown when the language is in beta
@@ -48,6 +68,7 @@ translations-panel-translate-button-loading =
     .label = Bonvolu atendi…
 translations-panel-translate-cancel =
     .label = Nuligi
+translations-panel-learn-more-link = Pli da informo
 translations-panel-error-translating = Okazis problemo dum traduko, bonvolu provi denove.
 translations-panel-error-load-languages = Ne eblis ŝargi lingvojn
 translations-panel-error-load-languages-hint = Kontrolu vian retaliron kaj provu denove.
@@ -109,6 +130,18 @@ translations-manage-language-delete-button =
     .accesskey = F
 translations-manage-error-download = Okazis problemo dum elŝuto de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-delete = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
+translations-manage-language-install-button =
+    .label = Instali
+translations-manage-language-install-all-button =
+    .label = Instali ĉiujn
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Forigi
+translations-manage-language-remove-all-button =
+    .label = Forigi ĉiujn
+    .accesskey = F
+translations-manage-error-install = Okazis problemo dum instalo de lingvaj dosieroj. Bonvolu provi denove.
+translations-manage-error-remove = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-list = Ne eblis ricevi la liston de haveblaj lingvoj por traduko. Reŝargi la paĝon por klopodi denove.
 translations-settings-title =
     .title = Tradukaj agordoj

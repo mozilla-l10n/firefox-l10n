@@ -38,11 +38,9 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Fini { -brand-shorter-name }
-
 menu-about =
     .label = Pri { -brand-shorter-name }
     .accesskey = P
@@ -222,6 +220,9 @@ menu-history-undo-menu =
     .label = Antaŭ nelonge fermitaj langetoj
 menu-history-undo-window-menu =
     .label = Antaŭ nelonge fermitaj fenestroj
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Serĉi en historio
 
 ## Bookmarks Menu
 
@@ -234,6 +235,9 @@ menu-bookmark-tab =
     .label = Aldoni legosignon por la nuna langeto…
 menu-edit-bookmark =
     .label = Modifi tiun ĉi legosignon…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Serĉi en legosignojn
 menu-bookmarks-all-tabs =
     .label = Aldoni legosignon por ĉiuj langetoj…
 menu-bookmarks-toolbar =
