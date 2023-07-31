@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Esceptoj
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreso de retejo
     .accesskey = A
-
 permissions-block =
     .label = Bloki
     .accesskey = B
-
 permissions-disable-etp =
     .label = Aldoni escepton
     .accesskey = e
-
 permissions-session =
     .label = Permesi dum la seanco
     .accesskey = S
-
 permissions-allow =
     .label = Permesi
     .accesskey = P
-
 permissions-button-off =
     .label = Malŝalti
     .accesskey = M
-
 permissions-button-off-temporarily =
     .label = Provizore malŝalti
     .accesskey = P
-
 permissions-site-name =
     .label = Retejo
-
 permissions-status =
     .label = Stato
-
 permissions-remove =
     .label = Forigi retejon
     .accesskey = F
-
 permissions-remove-all =
     .label = Forigi ĉiujn retejojn
     .accesskey = r
-
 permission-dialog =
     .buttonlabelaccept = Konservi ŝanĝojn
     .buttonaccesskeyaccept = K
-
 permissions-autoplay-menu = Normo por ĉiuj retejoj:
-
 permissions-searchbox =
     .placeholder = Serĉi en retejo
-
 permissions-capabilities-autoplay-allow =
     .label = Permesi sonon kaj videon
 permissions-capabilities-autoplay-block =
     .label = Bloki sonon
 permissions-capabilities-autoplay-blockall =
     .label = Bloki sonon kaj videon
-
 permissions-capabilities-allow =
     .label = Permesi
 permissions-capabilities-block =
     .label = Bloki
 permissions-capabilities-prompt =
     .label = Ĉiam demandi
-
 permissions-capabilities-listitem-allow =
     .value = Permesi
 permissions-capabilities-listitem-block =
     .value = Bloki
 permissions-capabilities-listitem-allow-session =
     .value = Permesi dum la seanco
-
 permissions-capabilities-listitem-off =
     .value = Malŝaltita
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Esceptoj - HTTPS-nura reĝimo
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj. Esceptoj ne aplikeblas al privataj fenestroj.
+permissions-exceptions-https-only-desc2 = Vi povas malŝalti la HTTPS-nuran reĝimon por specifaj retejoj. { -brand-short-name } ne klopodos plibonigi la konekton pero uzo de HTTPS por tiuj retejoj.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Agordoj - Permesoj por soneligiloj
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = La jenaj retejoj petis permeson elekti soneligan aparaton. Vi povas decidi, kiuj retejoj rajtas elekti soneligan aparaton.
-
 permissions-exceptions-doh-window =
     .title = Retejaj esceptoj por DNS tra HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ne uzos sekuran DNS en tiuj ĉi retejoj kaj en ĝiaj subaj nomregnoj.
-
 permissions-doh-entry-field = Tajpu retejan nomregnon
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Aldoni
     .accesskey = A
-
 permissions-doh-col =
     .label = Nomregno
-
 permissions-doh-remove =
     .label = Forigi
     .accesskey = F
-
 permissions-doh-remove-all =
     .label = Forigi ĉiujn
     .accesskey = g
