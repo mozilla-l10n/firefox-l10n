@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Перакласці гэтую старонку - Бэта
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Паспрабуйце прыватныя пераклады ў { -brand-shorter-name } - Бэта
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -65,6 +69,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Скасаваць
 translations-panel-learn-more-link = Даведацца больш
+translations-panel-intro-header = Паспрабуйце прыватныя пераклады ў { -brand-shorter-name }
+translations-panel-intro-description = Дзеля вашай прыватнасці пераклады ніколі не пакідаюць вашу прыладу. Новыя мовы і паляпшэнні хутка!
 translations-panel-error-translating = Узнікла праблема з перакладам. Калі ласка, паспрабуйце яшчэ раз.
 translations-panel-error-load-languages = Не ўдалося загрузіць мовы
 translations-panel-error-load-languages-hint = Праверце злучэнне з Інтэрнэтам і паўтарыце спробу.
