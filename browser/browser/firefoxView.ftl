@@ -24,15 +24,22 @@ firefoxview-tabpickup-step-signin-header = Senĝene iru de unu aparato al la ali
 firefoxview-tabpickup-step-signin-description = Antaŭ ol povi malfermi ĉi tie la langetojn de via portebla, bonvolu komenci seancon aŭ krei konton.
 firefoxview-tabpickup-step-signin-primarybutton = Daŭrigi
 firefoxview-syncedtabs-signin-header = Reprenu viajn langetojn kie ajn vi estas
+firefoxview-syncedtabs-signin-description = Por vidi viajn langetojn, kie ajn vi uzas { -brand-product-name }, komencu seancon en via konto. Se vi ne havas konton, ni akompanos vin tra la registriĝo.
 firefoxview-syncedtabs-signin-primarybutton = Komenci seancon aŭ registriĝi
 firefoxview-tabpickup-adddevice-header = Speguli { -brand-product-name } en via telefono aŭ tabulkomputilo
 firefoxview-tabpickup-adddevice-description = Elŝutu { -brand-product-name } por poŝaparatoj kaj komencu seancon tie.
 firefoxview-tabpickup-adddevice-learn-how = Lernu kiel fari
 firefoxview-tabpickup-adddevice-primarybutton = Elŝutu { -brand-product-name } por poŝaparatoj
+firefoxview-syncedtabs-adddevice-header = Komencu seancon de { -brand-product-name } en viaj aliaj aparatoj
+firefoxview-syncedtabs-adddevice-description = Por vidi viajn langetojn kie ajn vi uzas { -brand-product-name }, komencu seancon en ĉiuj viaj aparatoj. Pli da informo pri kiel <a data-l10n-name="url">konekti aldonajn aparatojn</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Provu { -brand-product-name } por poŝaparatoj
 firefoxview-tabpickup-synctabs-header = Ŝalti speguladon de langetoj
 firefoxview-tabpickup-synctabs-description = Permesi al { -brand-short-name } dividi langetojn inter aparatoj.
 firefoxview-tabpickup-synctabs-learn-how = Lernu kiel fari
 firefoxview-tabpickup-synctabs-primarybutton = Speguli malfermitajn langetojn
+firefoxview-syncedtabs-synctabs-header = Ĝisdatigi viajn spegulajn agordojn
+firefoxview-syncedtabs-synctabs-description = Por vidi langetojn el aliaj aparatoj, vi bezonas speguli viajn malfermitajn langetojn.
+firefoxview-syncedtabs-synctabs-checkbox = Permesi speguladon de malfermitaj langetoj
 firefoxview-tabpickup-fxa-admin-disabled-header = Via organizo malaktivigis la speguladon
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via administranto malaktivigis la speguladon.
 firefoxview-tabpickup-network-offline-header = Kontrolu vian retaliron
@@ -48,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Por vidi langetojn, tajpu vian ĉ
 firefoxview-tabpickup-password-locked-description = Por rehavi viajn langetojn, vi devos tajpi la ĉefan pasvorton de { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Pli da informo
 firefoxview-tabpickup-password-locked-primarybutton = Tajpi ĉefan pasvorton
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pli da informo</a>
 firefoxview-tabpickup-signed-out-header = Komenci seancon por rekonekti
 firefoxview-tabpickup-signed-out-description = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Komenci seancon
@@ -61,6 +69,7 @@ firefoxview-closed-tabs-title = Ĵuse fermitaj
 firefoxview-closed-tabs-description2 = Malfermi paĝojn, kiujn vi estis ferminta en tiu ĉi fenestro.
 firefoxview-closed-tabs-placeholder-header = Neniu antaŭ nelonge fermita langeto
 firefoxview-closed-tabs-placeholder-body = Se vi fermas langeton en tiu ĉi fenestro, vi povas ĝin rehavi ĉi tie.
+firefoxview-closed-tabs-placeholder-body2 = Se vi fermas langeton, vi povas ĝin rehavi ĉi tie.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -85,12 +94,16 @@ firefoxview-collapse-button-hide =
     .title = Kaŝi liston
 firefoxview-overview-nav = Ĵusa retumo
     .title = Ĵusa retumo
+firefoxview-overview-header = Ĵusa retumo
+    .title = Ĵusa retumo
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Historio
     .title = Historio
 firefoxview-history-header = Historio
+firefoxview-history-context-delete = Forigi el historio
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -126,22 +139,42 @@ firefoxview-opentabs-focus-tab =
     .title = Iri al tiu ĉi langeto
 firefoxview-show-more = Montri pli
 firefoxview-show-less = Montri malpli
+firefoxview-sort-history-by-date-label = Ordigi laŭ dato
+firefoxview-sort-history-by-site-label = Ordigi laŭ retejo
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Hodiaŭ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Hieraŭ - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokaj dosieroj)
 
 ##
 
+firefoxview-show-all-history = Montri la tutan historion
+firefoxview-view-more-browsing-history = Montri pli da retuma historio
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Reiru al retejo, kie vi jam estis
+firefoxview-history-empty-description = La paĝoj vizititaj dum via retumo estos listigitaj ĉi tie.
+firefoxview-history-empty-description-two = Protekto de via privateco estas kerna afero por ni. Tial vi povas regi kion { -brand-short-name } memoras en la <a data-l10n-name="history-settings-url">agordoj de historio</a>.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Elekti retumilon
+    .title = Elekti retumilon
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nenio montrebla
+firefoxview-dont-remember-history-empty-description = Protekto de via privateco estas kerna afero por ni. Tial vi povas regi kion { -brand-short-name } memoras.
 
 ##
 
