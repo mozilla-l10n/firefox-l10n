@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Tradûs cheste pagjine
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Volte cheste pagjine — Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Prove il sisteme di traduzion rispietôs de riservatece di { -brand-shorter-name } — Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Un moment, par plasê…
 translations-panel-translate-cancel =
     .label = Anule
+translations-panel-learn-more-link = Plui informazions
+translations-panel-intro-header = Prove il sisteme di traduzion di { -brand-shorter-name } che al rispiete la riservatece
+translations-panel-intro-description = Par garantî la tô riservatece, i tescj di voltâ no lassaran mai il tô dispositîf. Gnovis lenghis e altris mioraments a rivaran ca di pôc!
 translations-panel-error-translating = Al è vignût fûr un probleme tal tradusi. Torne prove.
 translations-panel-error-load-languages = Impussibil cjariâ lis lenghis
 translations-panel-error-load-languages-hint = Verifiche la conession a internet e torne prove.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
 translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
+translations-manage-intro = Configure lis tôs preferencis relativis a lenghe e traduzion dai sîts e gjestìs lis lenghis instaladis pe traduzion fûr rêt.
+translations-manage-install-description = Instale lenghis pe traduzion fûr rêt
+translations-manage-language-install-button =
+    .label = Instale
+translations-manage-language-install-all-button =
+    .label = Instale dutis
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Gjave
+translations-manage-language-remove-all-button =
+    .label = Gjave dutis
+    .accesskey = e
+translations-manage-error-install = Al è vignût fûr un probleme tal instalâ i files de lenghe. Torne prove.
+translations-manage-error-remove = Al è vignût fûr un probleme tal gjavâi i files de lenghe. Torne prove.
 translations-manage-error-list = Impussibil otignî la liste des lenghis disponibilis pe traduzion. Inzorne la pagjine par tornâ a provâ.
 translations-settings-title =
     .title = Impostazions traduzions
