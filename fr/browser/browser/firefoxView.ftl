@@ -24,12 +24,14 @@ firefoxview-tabpickup-step-signin-header = Passez facilement d’un appareil à 
 firefoxview-tabpickup-step-signin-description = Pour récupérer les onglets de votre téléphone ici, commencez par vous connecter ou créer un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Continuer
 firefoxview-syncedtabs-signin-header = Récupérez vos onglets où que vous soyez
+firefoxview-syncedtabs-signin-description = Pour consulter vos onglets où que vous utilisiez { -brand-product-name }, connectez-vous à votre compte. Si vous n’avez pas de compte, nous vous guiderons à chaque étape de l’inscription.
 firefoxview-syncedtabs-signin-primarybutton = S’inscrire ou se connecter
 firefoxview-tabpickup-adddevice-header = Synchronisez { -brand-product-name } avec votre téléphone ou votre tablette
 firefoxview-tabpickup-adddevice-description = Téléchargez { -brand-product-name } pour mobile et connectez-vous.
 firefoxview-tabpickup-adddevice-learn-how = Découvrez comment
 firefoxview-tabpickup-adddevice-primarybutton = Installez { -brand-product-name } sur votre appareil mobile
-firefoxview-syncedtabs-adddevice-description = Pour consulter vos onglets où que vous utilisez { -brand-product-name }, connectez-vous sur tous vos appareils. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
+firefoxview-syncedtabs-adddevice-header = Connectez-vous à { -brand-product-name } sur vos autres appareils
+firefoxview-syncedtabs-adddevice-description = Pour consulter vos onglets où que vous utilisiez { -brand-product-name }, connectez-vous sur tous vos appareils. Découvrez comment <a data-l10n-name="url">connecter des appareils supplémentaires</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Essayer { -brand-product-name } pour mobile
 firefoxview-tabpickup-synctabs-header = Activez la synchronisation des onglets
 firefoxview-tabpickup-synctabs-description = Autorisez { -brand-short-name } à partager les onglets entre vos appareils.
