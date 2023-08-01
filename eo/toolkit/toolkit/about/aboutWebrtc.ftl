@@ -8,13 +8,14 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Internaĵoj de WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = konservi about:webrtc kiel
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Montri fermitajn PeerConnections
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Kaŝi fermitajn PeerConnections
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,7 +23,6 @@ about-webrtc-aec-logging-msg-label = Registrado de AEC
 about-webrtc-aec-logging-off-state-label = Komenci registradon de AEC
 about-webrtc-aec-logging-on-state-label = Haltigi registradon de AEC
 about-webrtc-aec-logging-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,14 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kaptitaj dosieroj de registrado
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Aŭtomata aktualiĝo
-
-
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Norma aŭtomata refreŝigo
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = Refreŝigi
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Malfermitaj datumaj kanaloj:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Fermitaj datumaj kanaloj:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -83,16 +89,15 @@ about-webrtc-type-remote = Fora
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nomumita
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Elektita
-
 about-webrtc-save-page-label = Konservi paĝon
 about-webrtc-debug-mode-msg-label = Senerariga reĝimo
 about-webrtc-debug-mode-off-state-label = Komenci senerarigan reĝimon
 about-webrtc-debug-mode-on-state-label = Haltigi senerarigan reĝimon
+about-webrtc-enable-logging-label = Aktivigi norma registro de WebRTC
 about-webrtc-stats-heading = Statistikoj pri seanco
 about-webrtc-stats-clear = Viŝi historion
 about-webrtc-log-heading = Registro de konektoj
@@ -101,12 +106,12 @@ about-webrtc-log-show-msg = montri registron
     .title = alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-log-hide-msg = kaŝi registron
     .title = alklaku por faldi tiun ĉi sekcion
-
 about-webrtc-log-section-show-msg = Montri registron
     .title = Alklkaku por malfaldi tiun ĉi sekcion
 about-webrtc-log-section-hide-msg = Kaŝi registron
     .title = Alklaku por faldi tiun ĉi sekcion
 about-webrtc-copy-report-button = Kopii raporton
+about-webrtc-copy-report-history-button = Kopii historion de raportoj
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -122,6 +127,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (femita)
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Sendi / Ricevi: { $codecs }
+about-webrtc-short-send-direction = Sendi: { $codecs }
+about-webrtc-short-receive-direction = Ricevi: { $codecs }
 
 ##
 
@@ -180,36 +188,26 @@ about-webrtc-pc-configuration-hide-msg = Kaŝi agordojn
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Provizita
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Ne provizita
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Preferoj de WebRTC difinitaj de uzanto
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Taksita datumtrafiko
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Spurila identigilo
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Trafiko sendata (oktetoj/sek)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Trafiko ricevata (oktetoj/sek)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Maksimuma ŝtopado (oktetoj/sek)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Prokrasto inter pakedoj (ms)
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = Tienreena tempo (RTT) (ms)
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -225,13 +223,13 @@ about-webrtc-save-page-msg = paĝo konservita kiel: { $path }
 about-webrtc-debug-mode-off-state-msg = spurregistrado troveblas en: { $path }
 about-webrtc-debug-mode-on-state-msg = senerariga reĝimo aktiva, spurregistrado en: { $path }
 about-webrtc-aec-logging-off-state-msg = kaptitaj dosieroj de registrado troveblas en: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Paĝo konservita kiel: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Spurregistrado troveblas en: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Senerariga reĝimo aktiva, spurregistrado en: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -240,7 +238,6 @@ about-webrtc-frames =
         [one] { $frames } kadro
        *[other] { $frames } kadroj
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -249,7 +246,6 @@ about-webrtc-channels =
         [one] { $channels } kanalo
        *[other] { $channels } kanaloj
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -258,7 +254,6 @@ about-webrtc-received-label =
         [one] { $packets } paketo ricevita
        *[other] { $packets } paketoj ricevitaj
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -267,7 +262,6 @@ about-webrtc-lost-label =
         [one] { $packets } paketo perdita
        *[other] { $packets } paketoj perditaj
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -276,13 +270,11 @@ about-webrtc-sent-label =
         [one] { $packets } paketo sendita
        *[other] { $packets } paketoj senditaj
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Jitter { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -295,12 +287,10 @@ about-webrtc-trickle-caption-msg = La malrapidaj kandidatoj (kiuj alvenas post r
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Difini Loka SDP kiel { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Difini Fora SDP kiel { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -315,6 +305,12 @@ about-webrtc-hide-msg-sdp = Kaŝi SDP
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
+
+about-webrtc-media-context-show-msg = Montri aŭdvidan kuntekston
+about-webrtc-media-context-hide-msg = Kaŝi aŭdvidan kuntekston
+about-webrtc-media-context-heading = Aŭdvidan kuntekston
+
+##
 
 
 ##
