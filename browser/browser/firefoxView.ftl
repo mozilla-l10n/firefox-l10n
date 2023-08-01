@@ -157,9 +157,12 @@ firefoxview-history-site-localhost = (fichiers locaux)
 ##
 
 firefoxview-show-all-history = Afficher tout l’historique
+firefoxview-view-more-browsing-history = Afficher plus d’historique de navigation
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Reprenez là où vous en étiez
+firefoxview-history-empty-description = Au cours de votre navigation, les pages visitées seront répertoriées ici.
 
 ##
 
@@ -181,9 +184,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importer l’historique d’un autre navigateur
+firefoxview-import-history-description = Faites de { -brand-short-name } votre navigateur par défaut. Importez l’historique de navigation, les marque-pages, etc.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Vous avez fermé un onglet par erreur ?
+firefoxview-recentlyclosed-empty-description = Vous trouverez ici les onglets que vous avez récemment fermés, afin de pouvoir les rouvrir rapidement.
+firefoxview-recentlyclosed-empty-description-two = Pour retrouver des onglets plus anciens, consultez votre <a data-l10n-name="history-url">historique de navigation</a>.
 
 ##
 
