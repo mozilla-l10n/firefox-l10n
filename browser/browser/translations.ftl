@@ -126,6 +126,7 @@ translations-manage-language-delete-button =
     .accesskey = S
 translations-manage-error-download = Un problème est survenu lors du téléchargement des fichiers de langue. Veuillez réessayer.
 translations-manage-error-delete = Une erreur s’est produite lors de la suppression des fichiers de langue. Veuillez réessayer.
+translations-manage-intro = Définissez vos préférences de langue et de traduction des sites, et gérez l’installation des langues pour la traduction hors ligne.
 translations-manage-install-description = Installer des langues pour traduction hors connexion
 translations-manage-language-install-button =
     .label = Installer
