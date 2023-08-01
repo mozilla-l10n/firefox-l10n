@@ -20,6 +20,11 @@ addon-post-install-message = { $addonName } a été ajouté.
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = Exécuter { $addonName } sur des sites restreints ?
+webext-quarantine-confirmation-line-1 = Afin de protéger vos données, cette extension n’est pas autorisée sur ce site.
+webext-quarantine-confirmation-line-2 = Autorisez cette extension si vous lui faites confiance pour lire et modifier vos données sur les sites restreints par { -vendor-short-name }.
 webext-quarantine-confirmation-allow =
     .label = Autoriser
     .accesskey = A

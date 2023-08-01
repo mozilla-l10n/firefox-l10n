@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Traduire cette page - Bêta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Essayez le système de traduction respectueux de la vie privée dans { -brand-shorter-name } - Bêta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -65,6 +69,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Annuler
 translations-panel-learn-more-link = En savoir plus
+translations-panel-intro-header = Essayez le système de traduction respectueux de la vie privée dans { -brand-shorter-name }
+translations-panel-intro-description = Afin de respecter votre vie privée, les traductions ne quittent jamais votre appareil. De nouvelles langues et des améliorations seront bientôt disponibles !
 translations-panel-error-translating = Un problème s’est produit lors de la traduction. Veuillez réessayer.
 translations-panel-error-load-languages = Impossible de charger les langues
 translations-panel-error-load-languages-hint = Vérifiez votre connexion Internet puis réessayez.
