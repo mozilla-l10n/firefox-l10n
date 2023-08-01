@@ -357,6 +357,7 @@ identity-weak-encryption = Cette page utilise un faible niveau de chiffrement.
 identity-insecure-login-forms = Les identifiants saisis sur cette page pourraient être compromis.
 identity-https-only-connection-upgraded = (surclassée en HTTPS)
 identity-https-only-label = Mode HTTPS uniquement
+identity-https-only-label2 = Passer automatiquement ce site vers une connexion sécurisée
 identity-https-only-dropdown-on =
     .label = Activé
 identity-https-only-dropdown-off =
