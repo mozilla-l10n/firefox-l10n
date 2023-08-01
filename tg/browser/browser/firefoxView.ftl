@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = Браузерро интихоб намое
 
 firefoxview-dont-remember-history-empty-header = Ягон маълумот нест
 firefoxview-dont-remember-history-empty-description = Муҳофизати махфияти шумо дар маркази диққати фаъолияти мо қарор дорад. Бинобар ин, шумо метавонед фаъолиятеро, ки «{ -brand-short-name }» дар хотир медорад, идора намоед.
+firefoxview-dont-remember-history-empty-description-two = Мувофиқи танзимоти ҷории шумо, вақте ки шумо дар Интернет кор мекунед, «{ -brand-short-name }» фаъолияти шуморо дар хотир намедорад. Барои иваз кардани ин танзим, <a data-l10n-name="history-settings-url-two">танзимоти таърихи худро иваз кунед, то таърихи шумо тавонад дар хотир нигоҳ дошта шавад</a>.
 
 ##
 
@@ -185,9 +186,12 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Ворид кардани таърих аз браузери дигар
+firefoxview-import-history-description = Браузери «{ -brand-short-name }»-ро ҳамчун браузери дӯстдоштаи худ истифода баред. Таърихи тамошокунӣ, хатбаракҳо ва бисёр чизҳои дигарро ворид намоед.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Варақаеро хеле зуд пӯшидед?
 
 ##
 
