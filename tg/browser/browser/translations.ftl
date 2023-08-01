@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Тарҷума кардани саҳифаи ҷорӣ - Озмоишӣ (Beta)
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Тарҷумаҳои хусусиро дар «{ -brand-shorter-name } - Beta» озмоед
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -65,6 +69,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Бекор кардан
 translations-panel-learn-more-link = Маълумоти бештар
+translations-panel-intro-header = Тарҷумаҳои хусусиро дар «{ -brand-shorter-name }» озмоед
 translations-panel-error-translating = Ҳангоми тарҷума мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-panel-error-load-languages = Низом забонҳоро бор карда натавонист
 translations-panel-error-load-languages-hint = Пайвасти интернети худро санҷед ва аз нав кӯшиш намоед.

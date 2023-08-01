@@ -192,6 +192,7 @@ firefoxview-import-history-description = Браузери «{ -brand-short-name 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Варақаеро хеле зуд пӯшидед?
+firefoxview-recentlyclosed-empty-description = Дар ин ҷо шумо варақаҳоеро, ки ба наздикӣ пӯшидаед, пайдо мекунед, то шумо тавонед яке аз онҳоро зуд аз нав кушоед.
 
 ##
 
