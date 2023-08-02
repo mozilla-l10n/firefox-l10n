@@ -160,6 +160,7 @@ firefoxview-view-more-browsing-history = Ehecha kundahára rembiasakue
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Ejevyjey eimehaguépe
+firefoxview-history-empty-description = Eikundahavekuévo, umi kuatiarogue eikeha ehecháta ko’ápe.
 
 ##
 

@@ -24,6 +24,7 @@ addon-post-install-message = { $addonName } oñembojuaju.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = ¿Eipuru { $addonName } tenda hekojopývape?
 webext-quarantine-confirmation-line-1 = Emo’ã hag̃ua ne mba’ekuaarã, ko jepysokue ndaijurujái ko tendápe.
+webext-quarantine-confirmation-line-2 = Emoneĩ jepysokue ejeroviárõ hese emoñe’ẽ ha emoambue umi mba’ekuaarã tenda ohekojejopýva { -vendor-short-name }.
 webext-quarantine-confirmation-allow =
     .label = Moneĩ
     .accesskey = A
