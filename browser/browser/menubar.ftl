@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Onglets tampats recentament
 menu-history-undo-window-menu =
     .label = Fenèstras tampadas recentament
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Cercar dins l’istoric
 
 ## Bookmarks Menu
 
