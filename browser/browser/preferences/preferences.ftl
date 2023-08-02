@@ -265,6 +265,12 @@ home-new-windows-tabs-header = Нови прозорци и јазичиња
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Почетна страница и нови прозорци
+home-newtabs-mode-label = Нови јазичиња
+home-mode-choice-blank =
+    .label = Празна страница
+home-homepage-custom-url =
+    .placeholder = Вметни „URL“…
 # This string has a special case for '1' and [other] (default). If necessary for
 # your language, you can add {$tabCount} to your translations and use the
 # standard CLDR forms, or only use the form for [other] if both strings should
@@ -282,6 +288,8 @@ choose-bookmark =
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-search-header =
+    .label = Веб-пребарување
 home-prefs-shortcuts-header =
     .label = Кратенки
 
@@ -294,18 +302,35 @@ home-prefs-recommended-by-header =
 ##
 
 home-prefs-recommended-by-learn-more = Како работи
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Спонзорирани приказни
+home-prefs-highlights-option-visited-pages =
+    .label = Посетени страници
 home-prefs-highlights-options-bookmarks =
     .label = Обележувачи
+home-prefs-highlights-option-most-recent-download =
+    .label = Последно преземање
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Страници снимени во { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
 # Alternative translation options: "Small Note" or something that
 # expresses the idea of "a small message, shortened from something else,
 # and non-essential but also not entirely trivial and useless.
 home-prefs-snippets-header =
     .label = Исечоци
+# Variables:
+#   $num (number) - Number of rows displayed
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ред
+           *[other] { $num } редови
+        }
 
 ## Search Section
 
 search-engine-default-header = Основен пребарувач
+search-suggestions-header = Предлози за пребарување
 search-suggestions-option =
     .label = Прикажувај предлог-пребарувања
     .accesskey = s
@@ -347,21 +372,31 @@ containers-remove-button =
 
 ## Firefox account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Променете ја сликата на профилот
 
 ## Variables
 ## $email (string) - Email used for Firefox account
 
+sync-signedin-unverified = { $email } не е потврдена.
 
 ##
 
+sync-sign-in =
+    .label = Најавете се
+    .accesskey = г
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Синхронизирање: ВКЛУЧЕНО
+prefs-syncing-off = Синхронизирање: ИСКЛУЧЕНО
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Обележувачи
 sync-currently-syncing-history = Историја
 sync-currently-syncing-tabs = Отворени јазичиња
+sync-currently-syncing-logins-passwords = Најави и лозинки
 sync-currently-syncing-addresses = Адреси
 sync-currently-syncing-creditcards = Кредитни картички
 sync-currently-syncing-addons = Додатоци
@@ -375,6 +410,10 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Историја
     .accesskey = р
+sync-engine-tabs =
+    .label = Отворени јазичиња
+    .tooltiptext = Листа на сѐ што е отворено од сите синхронизирани уреди
+    .accesskey = т
 
 ## The device name controls.
 
@@ -382,6 +421,10 @@ sync-device-name-header = Име на уред
 sync-device-name-cancel =
     .label = Откажи
     .accesskey = к
+sync-device-name-save =
+    .label = Сними
+    .accesskey = в
+sync-connect-another-device = Поврзете друг уред
 
 ## These strings are shown in a desktop notification after the
 ## user requests we resend a verification email.
@@ -395,12 +438,14 @@ sync-verification-not-sent-body = Не сме во можност да испр�
 
 ## Privacy Section
 
+privacy-header = Приватност на прелистувачот
 
 ## Privacy Section - Logins and Passwords
 
 forms-exceptions =
     .label = Исклучоци…
     .accesskey = ч
+forms-breach-alerts-learn-more-link = Дознајте повеќе
 forms-saved-logins =
     .label = Снимени најави …
     .accesskey = L
@@ -425,6 +470,7 @@ history-remember-option-never =
     .label = никогаш нема да ја памти историјата
 history-remember-option-custom =
     .label = ќе ги користи вашите лични поставки за историјата
+history-remember-description = { -brand-short-name } ќе ги помни вашата историја на прелистување, преземања, формулари и пребарувања.
 history-dontremember-description = { -brand-short-name } ќе ги користи истите поставки како и за приватно прелистување, и нема да ја памти историјата додека прелистувате на интернет.
 history-private-browsing-permanent =
     .label = Секогаш користи режим за приватно прелистување
@@ -441,6 +487,7 @@ history-clear-on-close-settings =
 
 ## Privacy Section - Site Data
 
+sitedata-header = Колачиња и податоци за мрежно место
 
 ## Privacy Section - Cookie Banner Handling
 
