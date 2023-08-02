@@ -36,6 +36,7 @@ firefoxview-tabpickup-synctabs-description = Emoneĩ { -brand-short-name } omohe
 firefoxview-tabpickup-synctabs-learn-how = Mba’éichapa eikuaáta
 firefoxview-tabpickup-synctabs-primarybutton = Embojuehe tendayke ijurujáva
 firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
+firefoxview-syncedtabs-synctabs-description = Ehecha hag̃ua tendayke ambue mba’e’okagua, embojuehe tendayke ijurujáva.
 firefoxview-syncedtabs-synctabs-checkbox = Emoneĩ tendayke ijurujáva tojuehekuaa
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboykégui ñembojuehe.
