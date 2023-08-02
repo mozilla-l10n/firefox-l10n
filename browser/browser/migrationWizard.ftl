@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Passord importerte
 migration-passwords-from-file = Ser etter passord i fila
 migration-passwords-new = Nye passord
 migration-passwords-updated = Eksisterande passord
+migration-passwords-from-file-no-valid-data = Fila inneheld ingen gyldige passorddata. Vel ei anna fil.
 migration-passwords-from-file-picker-title = Importer passordfil
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -108,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Importer bokmerkefil
 migration-bookmarks-from-file-progress-header = Importerer bokmerke
 migration-bookmarks-from-file = Bokmerke
 migration-bookmarks-from-file-success-header = Bokmerka vart importerte
+migration-bookmarks-from-file-no-valid-data = Fila inneheld ingen bokmerkedata. Vel ei anna fil.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

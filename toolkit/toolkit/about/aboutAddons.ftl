@@ -161,6 +161,7 @@ extensions-warning-check-compatibility-button = Slå på
 extensions-warning-update-security = Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.
 extensions-warning-update-security-button = Slå på
     .title = Slå på tryggingskontroll av tilleggsoppdateringar
+extensions-warning-imported-addons = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer utvidingar
 
 ## Strings connected to add-on updates
@@ -369,6 +370,8 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Køyr på nettstadar med restriksjonar
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Tillat
 addon-detail-quarantined-domains-disallow = Ikkje tillat

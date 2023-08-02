@@ -403,5 +403,6 @@ support-remote-features-status = Status
 
 ## Pointing devices
 
+pointing-device-mouse = Mus
 pointing-device-touchscreen = Berøringsskjerm
 pointing-device-none = Inga peikeeining
