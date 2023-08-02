@@ -61,7 +61,7 @@ translations-panel-settings-never-translate-site =
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
-translations-panel-header = 이 페이지 번역를 번역할까요?
+translations-panel-header = 이 페이지를 번역할까요?
 translations-panel-translate-button =
     .label = 번역
 translations-panel-translate-button-loading =
