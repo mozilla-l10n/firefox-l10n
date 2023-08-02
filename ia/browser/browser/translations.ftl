@@ -126,6 +126,7 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Il habeva un problema discargante le files del linguas. Retenta.
 translations-manage-error-delete = Il habeva un problema delente le files del linguas. Retenta.
+translations-manage-install-description = Installar linguas pro traducer offline.
 translations-manage-language-install-button =
     .label = Installar
 translations-manage-language-install-all-button =
