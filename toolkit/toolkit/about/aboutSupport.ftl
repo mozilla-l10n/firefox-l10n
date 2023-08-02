@@ -380,3 +380,7 @@ support-remote-features-status = สถานะ
 
 ## Pointing devices
 
+pointing-device-mouse = เมาส์
+pointing-device-touchscreen = หน้าจอสัมผัส
+pointing-device-pen-digitizer = ปากกาดิจิตอล
+pointing-device-none = ไม่มีอุปกรณ์ชี้ตำแหน่ง
