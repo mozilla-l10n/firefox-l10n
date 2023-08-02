@@ -488,15 +488,26 @@ history-clear-on-close-settings =
 ## Privacy Section - Site Data
 
 sitedata-header = Колачиња и податоци за мрежно место
+sitedata-total-size-calculating = Пресметување на податоците за мрежните места и големината на кешот…
+sitedata-learn-more = Дознајте повеќе
+sitedata-option-block-unvisited =
+    .label = Колачиња од непосетени мрежни места
 
 ## Privacy Section - Cookie Banner Handling
 
 
 ## Privacy Section - Address Bar
 
+addressbar-locbar-bookmarks-option =
+    .label = Обележувачи
+    .accesskey = к
+addressbar-locbar-openpage-option =
+    .label = Отворени јазичиња
+    .accesskey = о
 
 ## Privacy Section - Content Blocking
 
+content-blocking-learn-more = Дознајте повеќе
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -504,15 +515,53 @@ sitedata-header = Колачиња и податоци за мрежно мес�
 
 ##
 
+content-blocking-all-cookies = Сите колачиња
+content-blocking-unvisited-cookies = Колачиња од непосетени места
+content-blocking-fingerprinters = Отпечатоци
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
+content-blocking-warning-title = Внимание!
+content-blocking-warning-learn-how = Дознајте како
+content-blocking-tracking-protection-option-all-windows =
+    .label = Во сите прозорци
+    .accesskey = а
+content-blocking-option-private =
+    .label = Само во приватни прозорци
+    .accesskey = п
+content-blocking-cookies-label =
+    .label = Колачиња
+    .accesskey = ц
+content-blocking-expand-section =
+    .tooltiptext = Повеќе информации
 
 ## Privacy Section - Tracking
 
 
 ## Privacy Section - Permissions
 
+permissions-header = Дозволи
+permissions-location = Местоположба
+permissions-location-settings =
+    .label = Поставки…
+    .accesskey = т
+permissions-xr = Виртуелна реалност
+permissions-camera = Камера
+permissions-camera-settings =
+    .label = Поставки…
+    .accesskey = т
+permissions-microphone = Микрофон
+permissions-microphone-settings =
+    .label = Поставки…
+    .accesskey = т
+permissions-notification = Известувањa
+permissions-notification-settings =
+    .label = Поставки…
+    .accesskey = т
+permissions-notification-link = Дознајте повеќе
+permissions-autoplay-settings =
+    .label = Поставки…
+    .accesskey = т
 permissions-block-popups =
     .label = Блокирај скокачки прозорци
     .accesskey = л
@@ -523,7 +572,10 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-privacy-notice = Белешка за приватност
+collection-health-report-telemetry-disabled-link = Дознајте повеќе
 collection-health-report-link = Дознај повеќе
+collection-studies-link = Погледнете ги студиите на { -brand-short-name }
+addon-recommendations-link = Дознајте повеќе
 
 ## Privacy Section - Security
 ##
@@ -534,6 +586,7 @@ security-header = Безбедност
 security-enable-safe-browsing =
     .label = Блокирај ги опасните и измамнички содржини
     .accesskey = B
+security-enable-safe-browsing-link = Дознајте повеќе
 security-block-downloads =
     .label = Блокирај ги опасните преземања
     .accesskey = D
