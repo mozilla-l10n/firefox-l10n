@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% tz'aqät
 firefoxview-tabpickup-step-signin-header = Tijal chi kikojol taq okisaxel akuchi' majun q'atoj
 firefoxview-tabpickup-step-signin-description = Richin ye'atz'ët ri taq ruwi' awoyonib'al wawe', nab'ey tatikirisaj molojri'ïl o tatz'uku' jun rub'i' ataqoya'l.
 firefoxview-tabpickup-step-signin-primarybutton = Titikïr chik el
+firefoxview-syncedtabs-signin-primarybutton = Titikirisäx molojri'ïl o titz'ib'äx b'i'aj
 firefoxview-tabpickup-adddevice-header = Tixim { -brand-product-name } pan awoyonib'al o ch'uti kematz'ib'
 firefoxview-tabpickup-adddevice-description = Taqasaj { -brand-product-name } kichin oyonib'äl richin natikirisaj molojri'ïl chi ri'.
 firefoxview-tabpickup-adddevice-learn-how = Tetamäx achike rub'eyal

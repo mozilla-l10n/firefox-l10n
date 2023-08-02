@@ -635,6 +635,8 @@ picture-in-picture-urlbar-button-close =
     .tooltiptext = Titz'apïx Picture-in-Picture({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
 picture-in-picture-panel-headline = Re ruxaq re' man nuchilab'ej ta Picture-in-Picture
+picture-in-picture-enable-toggle =
+    .label = Xqi titzij
 
 ## Full Screen and Pointer Lock UI
 
