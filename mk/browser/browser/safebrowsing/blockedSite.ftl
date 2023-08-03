@@ -43,3 +43,6 @@ safeb-palm-see-details-label = Види детали
 
 ##
 
+safeb-palm-notdeceptive =
+    .label = Ова не е измамничко место...
+    .accesskey = д
