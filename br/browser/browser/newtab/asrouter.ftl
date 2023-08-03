@@ -164,12 +164,31 @@ spotlight-pin-secondary-button = Ket bremañ
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = Ur { -brand-short-name } nevez. Muioc’h a brevezded. Nebeutoc’h a heulierien.
+mr2022-background-update-toast-text = Esaeit ar { -brand-short-name } nevez bremañ, gwellaet gant hor gwarez galloudusañ e-enep an heulierien betek-henn.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = Digeriñ { -brand-shorter-name } bremañ
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it using a
+# variable font like Arial): the button can only fit 1-2 additional characters,
+# exceeding characters will be truncated.
+mr2022-background-update-toast-secondary-button-label = Degas soñj din diwezhatoc'h
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Esaeañ
+    .accesskey = E
+firefoxview-cfr-secondarybutton = Ket bremañ
+    .accesskey = K
+firefoxview-cfr-header-v2 = Adloc’hit el lec’h m’ho poa paouezet
+firefoxview-cfr-body-v2 = Adtapit hoc’h ivinelloù serret nevez 'zo, ha tremenit d'un trevnad d'egile gant { -firefoxview-brand-name }.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Lârit demat da { -firefoxview-brand-name }
 
 ## Colorways expiry reminder CFR
 
