@@ -189,15 +189,31 @@ firefoxview-cfr-body-v2 = Adtapit hoc’h ivinelloù serret nevez 'zo, ha tremen
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Lârit demat da { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = Fellout a ra deoc’h e vefe digoret an ivinell-se war ho pellgomzer? Tapit anezhañ. Ezhomm ho peus al lec’hienn-se ho poa gweladennet? Pouf, e { -firefoxview-brand-name } emañ.
+firefoxview-spotlight-promo-primarybutton = Sellit penaos ez a en-dro
+firefoxview-spotlight-promo-secondarybutton = Tremen
 
 ## Colorways expiry reminder CFR
 
+colorways-cfr-primarybutton = Dibab ul liv
+    .accesskey = D
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = Aotren { -brand-short-name } da skarzhañ banniel an toupinoù?
+cfr-cbh-body = { -brand-short-name } a c’hall nac’hañ bannieloù an toupinoù ent emgefreek.
+cfr-cbh-confirm-button = Argas banniel an toupinoù
+    .accesskey = A
+cfr-cbh-dismiss-button = Ket bremañ
+    .accesskey = K
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+july-jam-headline = Ho kwareziñ a reomp
+july-jam-body = Bep miz, { -brand-short-name } a stank tro 3 000 heulier dre implijer, evit kinnig en endro sur ha yac’h deoc’h war internet.
+july-jam-set-default-primary = Digeriñ an ereoù gant { -brand-short-name }
+fox-doodle-pin-headline = Donemat en-dro
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
