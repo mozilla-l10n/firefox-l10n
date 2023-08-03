@@ -8,14 +8,11 @@
 # "Auto" is short for automatic. It can be localized without limitations.
 extension-default-theme-name-auto = ᱥᱤᱥᱴᱟᱢ ᱛᱷᱤᱢ — ᱚᱣᱴᱳ
 extension-default-theme-description = ᱵᱟᱴᱚᱢ, ᱢᱮᱱᱭᱩ ᱟᱨ ᱣᱤᱱᱰᱳᱣ ᱞᱟᱹᱜᱤᱫ ᱚᱯᱨᱮᱥᱟᱱ ᱥᱤᱥᱴᱟᱢ ᱯᱟᱸᱡᱟᱭ ᱢᱮ ᱾
-
 extension-firefox-compact-light-name = ᱡᱚᱡᱚᱢ ᱥᱮᱫ
 extension-firefox-compact-light-description = ᱢᱤᱫ ᱛᱷᱤᱢ ᱥᱟᱶ ᱢᱟᱨᱥᱟᱞ ᱨᱚᱝ ᱥᱮᱢ ᱾
-
 extension-firefox-compact-dark-name = ᱧᱩᱛ
 extension-firefox-compact-dark-description = ᱢᱤᱫ ᱛᱷᱤᱢ ᱥᱟᱶ ᱧᱩᱛ ᱨᱚᱝ ᱥᱮᱢ ᱾
-
-extension-firefox-alpenglow-name = ᱯᱷᱟᱭᱟᱨᱯᱷᱠᱥ ᱟᱞᱯᱮᱱᱜᱽᱞᱚᱣ
+extension-firefox-alpenglow-name = Firefox ᱟᱞᱯᱮᱱᱜᱽᱞᱚᱣ
 extension-firefox-alpenglow-description = ᱵᱟᱴᱚᱢ, ᱢᱮᱱᱭᱩ ᱟᱨ ᱣᱤᱱᱰᱳᱣ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱫᱚ ᱮᱯᱤᱭᱨᱮᱱᱥ ᱨᱚᱝ ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱾
 
 ## Colorway Themes

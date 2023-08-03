@@ -49,7 +49,7 @@ certificate-viewer-protocol = ᱯᱨᱚᱴᱚᱠᱚᱞ
 certificate-viewer-public-value = ᱥᱟᱱᱟᱢ ᱮᱞ
 certificate-viewer-purposes = ᱯᱨᱚᱭᱚᱡᱚᱱ
 certificate-viewer-qualifier = ᱠᱣᱚᱞᱤᱯᱷᱟᱭᱟᱨ
-certificate-viewer-qualifiers = ᱠᱣᱚᱞᱤᱯᱷᱟᱭᱟᱨᱥ
+certificate-viewer-qualifiers = ᱠᱣᱚᱞᱤᱯᱷᱟᱭᱟᱨᱠᱚ
 certificate-viewer-required = ᱞᱟᱹᱠᱛᱤ
 certificate-viewer-unsupported = &lt;ᱵᱟᱝᱥᱚᱦᱚᱫ&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
