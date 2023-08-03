@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% acabat
 firefoxview-tabpickup-step-signin-header = Passatz d’un aparelh a l’autre de manièra transparenta
 firefoxview-tabpickup-step-signin-description = Per poder recuperar los onglets del mobil aicí, connectatz-vos o creatz un compte.
 firefoxview-tabpickup-step-signin-primarybutton = Contunhar
+firefoxview-syncedtabs-signin-primarybutton = Se marcar o se connectar
 firefoxview-tabpickup-adddevice-header = Sincronizatz { -brand-product-name } amb vòstre telefòn o vòstra tauleta
 firefoxview-tabpickup-adddevice-description = Telecargatz { -brand-product-name } per mobil e connectatz-vos enlai.
 firefoxview-tabpickup-adddevice-learn-how = Ne saber mai
@@ -113,7 +114,7 @@ firefoxview-synced-tabs-header = Onglets d’autres periferics
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Tot afichar
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +138,36 @@ firefoxview-history-date-today = Uèi – { DATETIME($date, dateStyle: "full") 
 firefoxview-history-date-yesterday = Ièr – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (fichièrs locals)
 
 ##
 
 firefoxview-show-all-history = Afichar tot l’istoric
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Tampar
+    .title = Tampar
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+

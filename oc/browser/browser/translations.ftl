@@ -59,6 +59,7 @@ translations-panel-translate-button-loading =
     .label = Esperatz…
 translations-panel-translate-cancel =
     .label = Anullar
+translations-panel-learn-more-link = Ne saber mai
 translations-panel-error-translating = I a agut un problèma al moment de traduire. Ensajatz tornamai.
 translations-panel-error-load-languages = Cargament impossible de las lengas
 translations-panel-error-load-languages-hint = Verificatz la connexion internet e tornatz ensajar.
