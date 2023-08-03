@@ -240,6 +240,55 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } askouezh war { $quantity }
+migration-wizard-progress-extensions-support-link = Deskit penaos e vez kavet an askouezhioù gant { -brand-product-name }
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = N'eus askouezh ebet a glot
+migration-wizard-progress-extensions-addons-link = Klaskit e-touez askouezhioù { -brand-short-name }
 
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } ger-tremen
+        [two] { $quantity } c'her-tremen
+        [few] { $quantity } ger-tremen
+        [many] { $quantity } a c'herioù-tremen
+       *[other] { $quantity } ger-tremen
+    }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [1] E-kerzh an devezh diwezhañ
+        [one] E-kerzh an { $maxAgeInDays } devezh diwezhañ
+        [two] E-kerzh an { $maxAgeInDays } zevezh diwezhañ
+        [few] E-kerzh an { $maxAgeInDays } devezh diwezhañ
+        [many] E-kerzh an { $maxAgeInDays } a zevezhioù diwezhañ
+       *[other] E-kerzh an { $maxAgeInDays } devezh diwezhañ
+    }
+migration-wizard-progress-success-formdata = Roll istor furmskridoù
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } doare paeañ
+        [two] { $quantity } zoare paeañ
+        [few] { $quantity } doare paeañ
+        [many] { $quantity } a zoareoù paeañ
+       *[other] { $quantity } doare paeañ
+    }
+migration-wizard-safari-permissions-sub-header = Evit enporzhiañ sinedoù ha roll istor Safari:
+migration-wizard-safari-instructions-continue = Dibabit “Kenderc’hel”
+migration-wizard-safari-instructions-folder = Dibabit teuliad Safari er roll ha dibabit “Digeriñ”

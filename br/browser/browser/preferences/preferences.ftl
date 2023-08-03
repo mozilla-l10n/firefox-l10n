@@ -76,6 +76,9 @@ restart-later = Adloc'hañ diwezhatoc'h
 # This string is shown to notify the user that the password manager setting
 # is being controlled by an extension
 extension-controlling-password-saving = <img data-l10n-name="icon"/><strong>{ $name }</strong> reoliañ an arventenn-mañ.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = <img data-l10n-name="icon"/><strong>{ $name }</strong> a reol an arventenn-mañ.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #

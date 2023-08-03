@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Keweriuster erbedet
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Perak e welan an dra-mañ
-
 cfr-doorhanger-extension-cancel-button = Ket bremañ
     .accesskey = K
-
 cfr-doorhanger-extension-ok-button = Ouzhpennañ bremañ
     .accesskey = O
-
 cfr-doorhanger-extension-manage-settings-button = Merañ an arventennoù erbediñ
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Na ziskouez din an erbedadenn-mañ
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Gouzout hiroc'h
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = gant { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Erbedadennoù
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Erbedadenn
     .tooltiptext = Erbedadenn askouezh
     .a11y-announcement = Erbedadenn askouezh egerzh
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Erbedadenn
     .tooltiptext = Erbedadenn keweriuster
     .a11y-announcement = Un erbedadenn keweriuster nevez a zo da lenn
@@ -91,11 +85,9 @@ cfr-protections-panel-link-text = Gouzout hiroc'h
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Keweriuster nevez:
-
 cfr-whatsnew-button =
     .label = Petra nevez
     .tooltiptext = Petra nevez
-
 cfr-whatsnew-release-notes-link-text = Lenn an notennoù ermaeziañ
 
 ## Enhanced Tracking Protection Milestones
@@ -125,16 +117,12 @@ cfr-doorhanger-doh-primary-button-2 = Mat eo
 cfr-doorhanger-doh-secondary-button = Diweredekaat
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Ar videoioù war al lec’hienn-mañ a c’hallfe chom hep mont en-dro war handelv { -brand-short-name }-mañ. Evit skor klok ar videoioù, hizivait { -brand-short-name } bremañ.
 cfr-doorhanger-video-support-header = Hizivaat { -brand-short-name } evit lenn ar video
 cfr-doorhanger-video-support-primary-button = Hizivaat bremañ
     .accesskey = H
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -149,8 +137,6 @@ spotlight-public-wifi-vpn-primary-button = Chomit prevez gant { -mozilla-vpn-bra
     .accesskey = C
 spotlight-public-wifi-vpn-link = Ket bremañ
     .accesskey = K
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -178,19 +164,33 @@ spotlight-pin-secondary-button = Ket bremañ
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+
 ## Firefox View CFR
+
 
 ## Firefox View Spotlight
 
+
 ## Colorways expiry reminder CFR
+
 
 ## Cookie Banner Handling CFR
 
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
+
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-primary = Komprenet
+
 ## FxA sync CFR
+
+fxa-sync-cfr-primary = Gouzout hiroc’h
+    .accesskey = G
+fxa-sync-cfr-secondary = Degas soñj din diwezhatoc’h
+    .accesskey = D
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-link = Degas soñj din diwezhatoc’h

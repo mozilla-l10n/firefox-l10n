@@ -156,6 +156,11 @@ main-context-menu-copy-phone =
 main-context-menu-copy-link-simple =
     .label = Eilañ an ere
     .accesskey = E
+# This command copies the link, removing additional
+# query parameters used to track users across sites.
+main-context-menu-strip-on-share-link =
+    .label = Eilañ an ere hep an heulierien
+    .accesskey = E
 
 ## Media (video/audio) controls
 ##

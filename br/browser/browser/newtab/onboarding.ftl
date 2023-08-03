@@ -28,6 +28,8 @@ return-to-amo-add-theme-label = Ouzhpennañ an neuz
 
 ##  Variables: $addon-name (String) - Name of the add-on to be installed
 
+mr1-return-to-amo-subtitle = Lârit demat da { -brand-short-name }
+mr1-return-to-amo-add-extension-label = Ouzhpennañ { $addon-name }
 
 ## Multistage onboarding strings (about:welcome pages)
 

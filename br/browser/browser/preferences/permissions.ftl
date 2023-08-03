@@ -170,3 +170,14 @@ permissions-site-microphone-disable-desc = Herzel a raio al lec'hiennoù ha n'in
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-doh-add-exception =
+    .label = Ouzhpennañ
+    .accesskey = O
+permissions-doh-col =
+    .label = Domani
+permissions-doh-remove =
+    .label = Dilemel
+    .accesskey = D
+permissions-doh-remove-all =
+    .label = Dilemel pep tra
+    .accesskey = p
