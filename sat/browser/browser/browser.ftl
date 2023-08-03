@@ -419,7 +419,7 @@ browser-window-close-button =
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-playing2 = ᱮᱱᱮᱡ ᱪᱷᱚ
 # This label should be written in all capital letters if your locale supports them.
-browser-tab-audio-muted2 = ᱥᱟᱰᱮ ᱛᱷᱤᱨ ᱦᱚᱪᱚᱮᱱᱟ
+browser-tab-audio-muted2 = ᱥᱟᱰᱮ ᱛᱷᱤᱨ ᱦᱚᱪᱚᱭᱱᱟ
 # This label should be written in all capital letters if your locale supports them.
 browser-tab-audio-blocked = ᱟᱡ ᱛᱮ ᱮᱱᱮᱡ ᱵᱟᱹᱰᱨᱟᱹ
 # This label should be written in all capital letters if your locale supports them.

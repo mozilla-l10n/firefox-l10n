@@ -56,7 +56,7 @@ protections-panel-not-found-label = ᱪᱮᱫ ᱦᱚᱸ ᱵᱟᱝ ᱪᱤᱱᱦ�
 
 ##
 
-protections-panel-settings-label = ᱨᱚᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱡᱟᱣ ᱠᱚ
+protections-panel-settings-label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱥᱟᱡᱟᱣᱠᱚ
 protections-panel-protectionsdashboard-label = ᱨᱩᱠᱷᱤᱭᱟᱹ ᱰᱮᱥᱵᱚᱰ
 
 ## In the Site Not Working? view, we suggest turning off protections if
