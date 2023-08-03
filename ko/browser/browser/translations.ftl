@@ -87,8 +87,8 @@ translations-panel-error-change-button =
 #
 # Variables:
 #   $language (string) - The language of the document.
-translations-panel-error-unsupported-hint-known = 죄송합니다. 아직 { $language }을(를) 지원하지 않습니다.
-translations-panel-error-unsupported-hint-unknown = 죄송합니다. 아직 이 언어를 지원하지 않습니다.
+translations-panel-error-unsupported-hint-known = 죄송합니다. 아직 { $language } 언어는 지원하지 않습니다.
+translations-panel-error-unsupported-hint-unknown = 죄송합니다. 아직 이 언어는 지원하지 않습니다.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
