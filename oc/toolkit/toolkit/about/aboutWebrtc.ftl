@@ -118,6 +118,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (tampat)
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-direction = Mandadís : { $codecs }
+about-webrtc-short-receive-direction = Recepcion : { $codecs }
 
 ##
 
@@ -211,12 +213,13 @@ about-webrtc-save-page-msg = pagina enregistrada a l'emplaçament seguent : { $
 about-webrtc-debug-mode-off-state-msg = lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 about-webrtc-debug-mode-on-state-msg = mòde desbugatge actiu, lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 about-webrtc-aec-logging-off-state-msg = los fichièrs de jornalizacion capturats son disponibles a l'emplaçament seguent : { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Pagina enregistrada a l'emplaçament seguent : { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Mòde desbugatge actiu, lo fichièr de la traça es disponible a l'emplaçament seguent : { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -292,6 +295,9 @@ about-webrtc-hide-msg-sdp = Amagar lo SDP
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
+
+
+##
 
 
 ##
