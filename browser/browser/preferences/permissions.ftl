@@ -96,9 +96,9 @@ permissions-exceptions-https-only-desc2 = Você pode desativar o modo somente HT
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window2 =
-    .title = Sites permitidos - Abertura de janelas
+    .title = Sites permitidos - Abertura de janelas ou abas
     .style = { permissions-window2.style }
-permissions-exceptions-popup-desc = Você pode especificar que sites têm permissão para abrir janelas. Digite o endereço exato de um site e clique em Permitir.
+permissions-exceptions-popup-desc = Você pode especificar quais sites têm permissão para abrir janelas ou abas. Digite o endereço exato de um site e clique em Permitir.
 
 ## Exceptions - Saved Logins
 

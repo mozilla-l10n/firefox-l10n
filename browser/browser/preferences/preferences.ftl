@@ -1109,7 +1109,7 @@ permissions-autoplay-settings =
     .label = Configurações…
     .accesskey = f
 permissions-block-popups =
-    .label = Bloquear abertura de janelas
+    .label = Bloquear abertura de janelas ou abas
     .accesskey = B
 # "popup" is a misspelling that is more popular than the correct spelling of
 # "pop-up" so it's included as a search keyword, not displayed in the UI.

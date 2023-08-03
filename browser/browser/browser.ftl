@@ -161,7 +161,7 @@ urlbar-screen-blocked =
 urlbar-persistent-storage-blocked =
     .tooltiptext = Você bloqueou o armazenamento persistente deste site.
 urlbar-popup-blocked =
-    .tooltiptext = Você bloqueou abertura de janelas neste site.
+    .tooltiptext = Você bloqueou abertura de janelas ou abas neste site.
 urlbar-autoplay-media-blocked =
     .tooltiptext = Você bloqueou a reprodução automática de mídia com som neste site.
 urlbar-canvas-blocked =
@@ -805,19 +805,19 @@ ui-tour-info-panel-close =
 ##  $uriHost (String): URI host for which the popup was allowed or blocked.
 
 popups-infobar-allow =
-    .label = Permitir abertura de janelas de { $uriHost }
+    .label = Permitir que { $uriHost } abra janelas ou abas
     .accesskey = P
 popups-infobar-block =
-    .label = Bloquear abertura de janelas de { $uriHost }
+    .label = Bloquear abertura de janelas ou abas de { $uriHost }
     .accesskey = B
 
 ##
 
 popups-infobar-dont-show-message =
-    .label = Não mostrar esta mensagem ao bloquear abertura de janelas
+    .label = Não mostrar esta mensagem ao bloquear abertura de janelas ou abas
     .accesskey = N
 edit-popup-settings =
-    .label = Gerenciar configurações de abertura de janelas…
+    .label = Gerenciar configurações de abertura de janelas ou abas…
     .accesskey = G
 picture-in-picture-hide-toggle =
     .label = Ocultar seletor de picture-in-picture
@@ -938,13 +938,13 @@ popup-notification-xpinstall-prompt-learn-more = Saiba mais sobre instalação d
 #   $popupCount (Number): the number of pop-ups blocked.
 popup-warning-message =
     { $popupCount ->
-        [one] O { -brand-short-name } impediu que este site abra uma janela.
-       *[other] O { -brand-short-name } impediu que este site abra { $popupCount } janelas.
+        [one] O { -brand-short-name } impediu este site de abrir uma janela ou aba.
+       *[other] O { -brand-short-name } impediu este site de abrir { $popupCount } janelas ou abas.
     }
 # The singular form is left out for English, since the number of blocked pop-ups is always greater than 1.
 # Variables:
 #   $popupCount (Number): the number of pop-ups blocked.
-popup-warning-exceeded-message = O { -brand-short-name } impediu que este site abra mais de { $popupCount } janelas.
+popup-warning-exceeded-message = O { -brand-short-name } impediu este site de abrir mais de { $popupCount } janelas ou abas.
 popup-warning-button =
     .label =
         { PLATFORM() ->
