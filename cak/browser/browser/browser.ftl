@@ -906,6 +906,11 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Taq k'amal
+    .tooltiptext =
+        Taq k'amal
+        Jujun taq k'amal man ya'on ta q'ij chi ke
 
 ## Autorefresh blocker
 
