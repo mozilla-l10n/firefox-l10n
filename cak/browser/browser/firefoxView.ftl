@@ -123,10 +123,13 @@ firefoxview-opentabs-focus-tab =
 firefoxview-show-more = Kek'ut ch'aqa' chik
 firefoxview-show-less = Tik'ut jub'a'
 firefoxview-sort-history-by-date-label = Kenuk' chi q'ijul
+firefoxview-sort-history-by-site-label = Tinuk' chi ruxaq
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Wakami - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Iwir - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 # When history is sorted by site, this heading is used in place of a domain, in
@@ -136,18 +139,28 @@ firefoxview-history-site-localhost = (aj wawe' taq yakb'äl)
 
 ##
 
+firefoxview-show-all-history = Tik'ut ronojel natab'äl
+firefoxview-view-more-browsing-history = Ketz'et ch'aqa' chik kinatab'al okem
 
 ## Message displayed in Firefox View when the user has no history data
 
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Ticha' okik'amaya'l
+    .title = Ticha' okik'amaya'l
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Majun achike nik'ut
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Titz'apïx
+    .title = Titz'apïx
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 

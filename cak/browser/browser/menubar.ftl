@@ -38,11 +38,9 @@ menu-quit =
             [windows] e
            *[other] T
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Tel pa { -brand-shorter-name }
-
 menu-about =
     .label = Chi rij ri { -brand-shorter-name }
     .accesskey = C
@@ -222,6 +220,9 @@ menu-history-undo-menu =
     .label = Taq Ruwi' k'a b'a' Ketz'apïx
 menu-history-undo-window-menu =
     .label = Taq k'ajtz'ib' k'a b'a' etz'apin
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Tikanöx Natab'äl
 
 ## Bookmarks Menu
 
@@ -234,6 +235,9 @@ menu-bookmark-tab =
     .label = Titz'aqatisäx Ruwi' pa Yaketal…
 menu-edit-bookmark =
     .label = Tinuk' re yaketal re'…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Kekanöx taq yaketal
 menu-bookmarks-all-tabs =
     .label = Ketz'aqatisäx taq ruwi' pa taq yaketal…
 menu-bookmarks-toolbar =
