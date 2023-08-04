@@ -193,6 +193,7 @@ firefoxview-import-history-description = Браузери «{ -brand-short-name 
 
 firefoxview-recentlyclosed-empty-header = Варақаеро хеле зуд пӯшидед?
 firefoxview-recentlyclosed-empty-description = Дар ин ҷо шумо варақаҳоеро, ки ба наздикӣ пӯшидаед, пайдо мекунед, то шумо тавонед яке аз онҳоро зуд аз нав кушоед.
+firefoxview-recentlyclosed-empty-description-two = Барои дидани варақаҳо қаблӣ, ба <a data-l10n-name="history-url">таърихи тамошокунӣ</a> нигаред.
 
 ##
 

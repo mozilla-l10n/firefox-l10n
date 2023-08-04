@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Истисноҳо
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Нишонии сомона
     .accesskey = Н
-
 permissions-block =
     .label = Манъ кардан
     .accesskey = М
-
 permissions-disable-etp =
     .label = Илова кардани истисно
     .accesskey = И
-
 permissions-session =
     .label = Барои ҷаласа иҷозат додан
     .accesskey = Б
-
 permissions-allow =
     .label = Иҷозат додан
     .accesskey = И
-
 permissions-button-off =
     .label = Хомӯш кардан
     .accesskey = Х
-
 permissions-button-off-temporarily =
     .label = Муваққатан хомӯш кардан
     .accesskey = М
-
 permissions-site-name =
     .label = Сомона
-
 permissions-status =
     .label = Вазъият
-
 permissions-remove =
     .label = Тоза кардани сомона
     .accesskey = Т
-
 permissions-remove-all =
     .label = Тоза кардани ҳамаи сомонаҳо
     .accesskey = Т
-
 permission-dialog =
     .buttonlabelaccept = Нигоҳ доштани тағйирот
     .buttonaccesskeyaccept = Н
-
 permissions-autoplay-menu = Пешфарз барои ҳамаи сомонаҳо:
-
 permissions-searchbox =
     .placeholder = Ҷустуҷӯи сомонаҳо
-
 permissions-capabilities-autoplay-allow =
     .label = Иҷозат додани аудио ва видео
 permissions-capabilities-autoplay-block =
     .label = Манъ кардани аудио
 permissions-capabilities-autoplay-blockall =
     .label = Манъ кардани аудио ва видео
-
 permissions-capabilities-allow =
     .label = Иҷозат додан
 permissions-capabilities-block =
     .label = Манъ кардан
 permissions-capabilities-prompt =
     .label = Ҳамеша пурсидан
-
 permissions-capabilities-listitem-allow =
     .value = Иҷозат додан
 permissions-capabilities-listitem-block =
     .value = Манъ кардан
 permissions-capabilities-listitem-allow-session =
     .value = Барои ҷаласа иҷозат додан
-
 permissions-capabilities-listitem-off =
     .value = Ғайрифаъол кардан
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Истисноҳо - Реҷаи «Танҳо HTTPS»
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. «{ -brand-short-name }» кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба «HTTPS»-и бехатар такмил диҳад. Чунин истисноҳо ба равзанаҳои хусусӣ татбиқ намешаванд.
+permissions-exceptions-https-only-desc2 = Шумо метавонед реҷаи «Танҳо HTTPS»-ро барои сомонаҳои мушаххас хомӯш кунед. { -brand-short-name } кӯшиш намекунад, ки барои ин сомонаҳои пайвастшавиро ба HTTPS-и бехатар такмил диҳад.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Танзимот - Иҷозатҳои баландгӯяк
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Сомонаҳои зерин интихоби дастгоҳи барориши аудиоро дархост карданд. Шумо метавонед муайян кунед, ки кадом сомонаҳо барои интихоби дастгоҳи барориши аудио иҷозат доранд.
-
 permissions-exceptions-doh-window =
     .title = Истисноҳои сомона барои «DNS тавассути HTTPS»
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } наметавонад, ки аз DNS-и бехатар дар ин сомонаҳо ва зердоменҳои он истифода барад.
-
 permissions-doh-entry-field = Номи домени сомонаро ворид намоед
     .accesskey = Н
-
 permissions-doh-add-exception =
     .label = Илова кардан
     .accesskey = И
-
 permissions-doh-col =
     .label = Домен
-
 permissions-doh-remove =
     .label = Тоза кардан
     .accesskey = Т
-
 permissions-doh-remove-all =
     .label = Ҳамаро тоза кардан
     .accesskey = Ҳ
