@@ -32,6 +32,7 @@ about-logging-logging-preset-selector-text = Erregistroaren aurrezarpena:
 about-logging-preset-networking-label = Sarea
 about-logging-preset-networking-description = Sarearen arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-networking-cookie-label = Cookieak
+about-logging-preset-networking-websocket-label = WebSocketak
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Multimedia erreproduzitzea
 about-logging-preset-media-playback-description = Multimediaren erreprodukzio-arazoak (ez bideo-deien arazoak) diagnostikatzeko erregistro-moduluak

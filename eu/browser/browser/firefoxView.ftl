@@ -31,6 +31,7 @@ firefoxview-tabpickup-synctabs-header = Gaitu fitxen sinkronizazioa
 firefoxview-tabpickup-synctabs-description = Baimendu { -brand-short-name }(r)i gailuen artean fitxak partekatzea.
 firefoxview-tabpickup-synctabs-learn-how = Ikasi nola
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronizatu irekitako fitxak
+firefoxview-syncedtabs-synctabs-header = Eguneratu zure sinkronizazio-ezarpenak
 firefoxview-tabpickup-fxa-admin-disabled-header = Zure erakundeak sinkronizazioa desgaitu du
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure administratzaileak sinkronizazioa desgaitu duelako.
 firefoxview-tabpickup-network-offline-header = Egiaztatu zure Interneterako konexioa
@@ -46,6 +47,7 @@ firefoxview-tabpickup-password-locked-header = Fitxak ikusteko, idatzi zure pasa
 firefoxview-tabpickup-password-locked-description = Zure fitxak eskura izateko,  { -brand-short-name }(e)n pasahitz nagusia idatzi behar duzu.
 firefoxview-tabpickup-password-locked-link = Argibide gehiago
 firefoxview-tabpickup-password-locked-primarybutton = Idatzi pasahitz nagusia
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Argibide gehiago</a>
 firefoxview-tabpickup-signed-out-header = Hasi saioa birkonektatzeko
 firefoxview-tabpickup-signed-out-description = Berriro konektatu eta zure fitxak hartzeko, hasi saioa zure { -fxaccount-brand-name }(e)n.
 firefoxview-tabpickup-signed-out-primarybutton = Hasi saioa
@@ -165,9 +167,14 @@ firefoxview-dont-remember-history-empty-header = Erakusteko ezer ez
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Itxi
+    .title = Itxi
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Inportatu historia beste nabigatzaile batetik
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
