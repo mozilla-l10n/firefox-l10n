@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = افزودن برچسب
-
 pocket-panel-saved-error-generic = خطایی در هنگام تلاش برای ذخیره‌سازی در { -pocket-brand-name } رخ داده است.
 pocket-panel-saved-error-tag-length = برچسب‌ها شامل محدودیت ۲۵ حرفی می‌باشند
 pocket-panel-saved-error-only-links = تنها لینک‌ها می توانند ذخیره شوند
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = ذخیره
 pocket-panel-saved-saving-tags = در حال ذخیره…
 pocket-panel-saved-suggested-tags = برچسب‌های پیشنهادی
 pocket-panel-saved-tags-saved = برچسب‌ها اضافه شد
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = افزودن برچسب‌ها:
 
@@ -44,8 +42,8 @@ pocket-panel-signup-signup-firefox = ثبت نام با { -brand-product-name }
 pocket-panel-signup-tagline = مقاله‌ها و ویدئوها را با { -brand-product-name } ذخیره کنید و در هر زمان و دستگاهی به وسیله‌ی { -pocket-brand-name } ببینید.
 pocket-panel-signup-tagline-story-one = بر روی دکمه { -pocket-brand-name } کلیک کنید تا مقاله، ویدئو یا صفحات را از طریق { -brand-product-name } ذخیره کنید.
 pocket-panel-signup-tagline-story-two = نمایش در { -pocket-brand-name } در هر دستگاه و در هر زمانی.
-
 pocket-panel-signup-cta-a-fix = دکمه ذخیره شما برای اینترنت
+pocket-panel-signup-cta-b-updated = برای ذخیره مقاله‌ها، ویدیوها و پیوندها، روی دکمه { -pocket-brand-name } کلیک کنید. ذخیره‌های خود را در هر دستگاه و در هر زمانی مشاهده کنید.
 pocket-panel-signup-cta-b-short = برای ذخیرهٔ مقاله‌ها، ویدیوها و پیوندها، روی دکمهٔ { -pocket-brand-name } کلیک کنید.
 pocket-panel-signup-cta-c-updated = دیدن ذخیره‌هایتان روی هر افزاره‌ای، در هر زمانی.
 
@@ -56,7 +54,6 @@ pocket-panel-home-paragraph = از { -pocket-brand-name } می‌توانید ب
 pocket-panel-home-explore-popular-topics = موضوعات جالب را پیدا کنید
 pocket-panel-home-discover-more = بیشتر ببینید
 pocket-panel-home-explore-more = کاوش
-
 pocket-panel-home-most-recent-saves = جدیدترین ذخیره‌های شما اینجایند:
 pocket-panel-home-most-recent-saves-loading = بار کردن ذخیره‌های اخیر…
 pocket-panel-home-new-user-cta = برای ذخیرهٔ مقاله‌ها، ویدیوها و پیوندها، روی دکمهٔ { -pocket-brand-name } کلیک کنید.
