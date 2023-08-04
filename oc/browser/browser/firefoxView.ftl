@@ -152,9 +152,13 @@ firefoxview-show-all-history = Afichar tot l’istoric
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Causir lo navegador
+    .title = Causir lo navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Pas res a mostrar
 
 ##
 
@@ -165,9 +169,11 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar l’istoric d'un autre navegador
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Avètz tampat los onglets per inatencion ?
 
 ##
 

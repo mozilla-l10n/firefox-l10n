@@ -15,6 +15,7 @@ support-addons-type = Tipe
 support-addons-enabled = Activat
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-enabled = Actius
 legacy-user-stylesheets-stylesheet-types = Fuèlh d’estil
 legacy-user-stylesheets-no-stylesheets-found = Cap de fuèlh d’estil pas trobat
 security-software-title = Logicial de seguretat
