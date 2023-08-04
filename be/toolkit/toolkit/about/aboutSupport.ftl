@@ -18,6 +18,7 @@ support-addons-type = Тып
 support-addons-enabled = Уключаны
 support-addons-version = Версія
 support-addons-id = ID
+legacy-user-stylesheets-title = Састарэлыя карыстальніцкія табліцы стыляў
 legacy-user-stylesheets-enabled = Дзейны
 legacy-user-stylesheets-stylesheet-types = Табліцы стыляў
 legacy-user-stylesheets-no-stylesheets-found = Табліцы стыляў не знойдзены
@@ -414,4 +415,5 @@ support-remote-features-status = Стан
 
 pointing-device-mouse = Мыш
 pointing-device-touchscreen = Сенсарны экран
+pointing-device-pen-digitizer = Дыгітайзер пяра
 pointing-device-none = Няма ўказальных прылад
