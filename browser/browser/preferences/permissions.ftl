@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Excepcions
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adreça del site web
     .accesskey = d
-
 permissions-block =
     .label = Blocar
     .accesskey = B
-
 permissions-disable-etp =
     .label = Apondre una excepcion
     .accesskey = A
-
 permissions-session =
     .label = Autorizar pendent la session
     .accesskey = s
-
 permissions-allow =
     .label = Autorizar
     .accesskey = A
-
 permissions-button-off =
     .label = Activar
     .accesskey = A
-
 permissions-button-off-temporarily =
     .label = Desactivar temporàriament
     .accesskey = D
-
 permissions-site-name =
     .label = Site web
-
 permissions-status =
     .label = Estat
-
 permissions-remove =
     .label = Suprimir lo site web
     .accesskey = S
-
 permissions-remove-all =
     .label = Suprimir totes los sites web
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Enregistrar las modificacions
     .buttonaccesskeyaccept = E
-
 permissions-autoplay-menu = Per defaut per tose los sites web :
-
 permissions-searchbox =
     .placeholder = Recercar un site web
-
 permissions-capabilities-autoplay-allow =
     .label = Autorizar l’àudio e la vidèo
 permissions-capabilities-autoplay-block =
     .label = Blocar l’àudio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l’àudio e la vidèo
-
 permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Totjorn demandar
-
 permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
     .value = Blocar
 permissions-capabilities-listitem-allow-session =
     .value = Autorizar pendent la session
-
 permissions-capabilities-listitem-off =
     .value = Desactivat
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Excepcions - Mòde HTTPS solament
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Podètz desactivar lo mòde HTTPS solament per de sites especifics. { -brand-short-name } ensajarà pas de passar a una connexion HTTPS segura per aqueles sites. Las excepcions s’aplican pas a las fenèstras de navegacion privada.
+permissions-exceptions-https-only-desc2 = Podètz desactivar lo mòde HTTPS solament per de sites especifics. { -brand-short-name } ensajarà pas de passar a una connexion HTTPS segura per aqueles sites.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Paramètres - Permission pel microfòn
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Los sites web seguents an demandat de seleccionar lo periferic de la sortida àudio. Podètz indicar quines sites son autorizats a seleccionar lo periferic de la sortida àudio.
-
 permissions-exceptions-doh-window =
     .title = Excepcions al DNS via HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } utilizarà pas lo DNS segur sus aquestes sites e sos jos domenis.
-
 permissions-doh-entry-field = Picatz lo nom de domeni del site web
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Apondre
     .accesskey = A
-
 permissions-doh-col =
     .label = Domeni
-
 permissions-doh-remove =
     .label = Suprimir
     .accesskey = S
-
 permissions-doh-remove-all =
     .label = Tot suprimir
     .accesskey = T
