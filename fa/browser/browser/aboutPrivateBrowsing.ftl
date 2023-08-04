@@ -59,7 +59,7 @@ about-private-browsing-pin-promo-link-text =
         [macos] نگه داشتن در داک
        *[other] سنجاق به نوار وظیفه
     }
-about-private-browsing-pin-promo-title = بدون ذخیرهٔ کلوچک یا پیشینه، درست از میزکارتان. آن گونه مرور کنید که گویا هیچ‌کس نمی‌بیند.
+about-private-browsing-pin-promo-title = طوری در اینترنت گشت و گذار کنید که گویی هیچکس نمی‌بیند، بدون ذخیره کوکی یا تاریخچه طوری که شایسته میزکار شماست.
 
 ## Strings used in a promotion message for cookie banner reduction
 

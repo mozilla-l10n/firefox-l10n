@@ -14,22 +14,28 @@ xpinstall-prompt-message = شما در حال نصب یک افزونه از { $h
 
 xpinstall-prompt-header-unknown = به یک سایت ناشناخته اجازه نصب یک افزونه را می‌دهید؟
 xpinstall-prompt-message-unknown = شما در حال نصب یک افزونه از یک وب‌سایت ناشناخته هستید. قبل از ادامه دادن از قابل اعتماد بودن سایت اطمینان حاصل کنید.
-
 xpinstall-prompt-dont-allow =
     .label = اجازه نده
     .accesskey = D
 xpinstall-prompt-never-allow =
     .label = هرگز اجازه نده
     .accesskey = ن
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = گزارش تارنمای مشکوک
+    .accesskey = ر
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
 xpinstall-prompt-install =
-    .label = ادامه به نصب
+    .label = ادامه نصب
     .accesskey = ا
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
+site-permission-install-first-prompt-midi-header = این تارنما درخواست دسترسی به دستگاه‌های MIDI (رابط دیجیتالی سازهای موسیقی) شما را دارد. دسترسی به دستگاه را می‌توان با نصب یک افزونه فعال کرد.
+site-permission-install-first-prompt-midi-message = تضمینی برای امن بودن این دسترسی وجود ندارد. تنها در صورتی ادامه دهید که به این تارنما اعتماد داشته باشید.
 
 ##
 
@@ -38,20 +44,24 @@ xpinstall-disabled = نصب نرم‌افزار در حال حاضر غیرفع�
 xpinstall-disabled-button =
     .label = فعال‌سازی
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = ‫{ $addonName } ({ $addonId }) توسط مدیر سیستم شما مسدود شده است.
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = مدیر سیستم شما از درخواست این سایت برای نصب نرم افزار روی کامپیوتر شما جلوگیری کرد.
 addon-install-full-screen-blocked = نصب افزونه در حین یا قبل از ورود به حالت تمام صفحه مجاز نیست.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } به { -brand-short-name } افزوده شد
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } درخواست مجوز جدید دارد
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = نصب افزونه‌های وارد شده به { -brand-short-name } را نهایی کنید
 
 ## Add-on removal warning
 
@@ -63,7 +73,6 @@ addon-removal-title = { $name } حذف شود؟
 addon-removal-message = حذف { $name } از { -brand-shorter-name }؟
 addon-removal-button = حذف
 addon-removal-abuse-report-checkbox = گزارش این افزونه به { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -72,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] در حال بارگیری و تایید { $addonCount } افزونه…
     }
 addon-download-verifying = در حال بررسی
-
 addon-install-cancel-button =
     .label = انصراف
     .accesskey = ا
