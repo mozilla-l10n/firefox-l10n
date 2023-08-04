@@ -405,3 +405,5 @@ support-remote-features-status = Stato
 ## Pointing devices
 
 pointing-device-mouse = Mus
+pointing-device-touchscreen = Schermo tactile
+pointing-device-none = Nulle dispositivo de punctage
