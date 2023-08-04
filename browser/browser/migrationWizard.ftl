@@ -161,7 +161,14 @@ migration-list-payment-methods-label = спосабы аплаты
 ##
 
 migration-wizard-progress-header = Імпарт дадзеных
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Дадзеныя паспяхова імпартаваны
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Імпарт дадзеных завершаны
 migration-wizard-progress-icon-in-progress =
     .aria-label = Імпарт…
 migration-wizard-progress-icon-completed =

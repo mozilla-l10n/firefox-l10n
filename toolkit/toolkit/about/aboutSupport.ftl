@@ -80,6 +80,7 @@ app-basics-key-mozilla = Ключ Службы вызначэння месцаз
 app-basics-safe-mode = Абаронены рэжым
 app-basics-memory-size = Памер памяці (RAM)
 app-basics-disk-available = Даступнае месца на дыску
+app-basics-pointing-devices = Указальныя прылады
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -413,3 +414,4 @@ support-remote-features-status = Стан
 
 pointing-device-mouse = Мыш
 pointing-device-touchscreen = Сенсарны экран
+pointing-device-none = Няма ўказальных прылад
