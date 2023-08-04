@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Хусусиятҳои WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = нигоҳ доштани «about:webrtc» ҳамчун
@@ -24,7 +23,6 @@ about-webrtc-aec-logging-msg-label = Сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-off-state-label = Оғози сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-on-state-label = Манъи сабти рӯйдодҳои AEC
 about-webrtc-aec-logging-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Сабти рӯйдодҳои AEC фаъол аст (бо муштарӣ якчанд дақиқа суҳбат кунед ва пас забтро манъ кунед)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -34,22 +32,16 @@ about-webrtc-aec-logging-toggled-off-state-msg = Файлҳои сабти рӯ�
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Навсозии худкор
-
 # Determines the default state of the Auto Refresh check boxes
 about-webrtc-auto-refresh-default-label = Навсозии худкор ба сурати пешфарз
-
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Нав кардан
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = Муайянкунандаи «PeerConnection»:
-
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Шабакаҳои иттилоотии кушодашуда:
-
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = Шабакаҳои иттилоотии маҳкамшуда:
 
@@ -97,16 +89,15 @@ about-webrtc-type-remote = Дурдаст
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Пешниҳодшуда
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Интихоб шуд
-
 about-webrtc-save-page-label = Нигоҳ доштани саҳифа
 about-webrtc-debug-mode-msg-label = Реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-off-state-label = Оғоз кардани реҷаи ислоҳи нуқсонҳо
 about-webrtc-debug-mode-on-state-label = Қатъ кардани реҷаи ислоҳи нуқсонҳо
+about-webrtc-enable-logging-label = Фаъол кардани танзими пешфарзи сабти рӯйдодҳои «WebRTC»
 about-webrtc-stats-heading = Омори ҷаласа
 about-webrtc-stats-clear = Пок кардани таърих
 about-webrtc-log-heading = Сабти рӯйдодҳои пайваст
@@ -115,7 +106,6 @@ about-webrtc-log-show-msg = намоиш додани сабти рӯйдодҳ�
     .title = барои баркушодани ин қисмат, зер кунед
 about-webrtc-log-hide-msg = пинҳон кардани сабти рӯйдодҳо
     .title = барои пинҳон кардани ин қисмат, зер кунед
-
 about-webrtc-log-section-show-msg = Намоиш додани сабти рӯйдодҳо
     .title = Барои баркушодани ин қисмат, зер кунед
 about-webrtc-log-section-hide-msg = Пинҳон кардани сабти рӯйдодҳо
@@ -198,36 +188,26 @@ about-webrtc-pc-configuration-hide-msg = Пинҳон кардани танзи�
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Таъмин шудааст
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Таъмин нашудааст
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Хусусиятҳои WebRTC-и танзими корбарӣ
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ҳисоббарории паҳноии навор
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Муайянкунандаи пайгирӣ
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Паҳноии навори ирсол (байтҳо/сония)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Паҳноии навори қабул (байтҳо/сония)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Фазогирии ҳадди аксар (байтҳо/сония)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Таъхири байни бастаҳо (мс)
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT (мс)
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -243,13 +223,13 @@ about-webrtc-save-page-msg = саҳифа ба масири зерин ниго�
 about-webrtc-debug-mode-off-state-msg = сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
 about-webrtc-debug-mode-on-state-msg = реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
 about-webrtc-aec-logging-off-state-msg = файлҳои сабти рӯйдодҳои забт дар ин ҷо дастрасанд: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Саҳифа ба масири зерин нигоҳ дошта шуд: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Сабти рӯйдодҳои пайгирӣ метавонад дар масири зерин пайдо шавад: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Реҷаи ислоҳи хатоҳо фаъол аст, сабти рӯйдодҳо дар: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -258,7 +238,6 @@ about-webrtc-frames =
         [one] { $frames } кадр
        *[other] { $frames } кадр
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -267,7 +246,6 @@ about-webrtc-channels =
         [one] { $channels } шабака
        *[other] { $channels } шабака
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -276,7 +254,6 @@ about-webrtc-received-label =
         [one] { $packets } баста қабул шуд
        *[other] { $packets } баста қабул шуданд
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -285,7 +262,6 @@ about-webrtc-lost-label =
         [one] { $packets } баста гум шуд
        *[other] { $packets } баста гум шуданд
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -294,13 +270,11 @@ about-webrtc-sent-label =
         [one] { $packets } баста ирсол шуд
        *[other] { $packets } баста ирсол шуданд
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Ҷиттери { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -313,12 +287,10 @@ about-webrtc-trickle-caption-msg = Ҷараёни номзадҳо (пас аз 
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Танзими тамғаи вақти { NUMBER($timestamp, useGrouping: "false") } барои SDP-и маҳаллӣ
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Танзими тамғаи вақти { NUMBER($timestamp, useGrouping: "false") } барои SDP-и дурдаст
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -337,6 +309,9 @@ about-webrtc-hide-msg-sdp = Пинҳон кардани SDP
 about-webrtc-media-context-show-msg = Намоиш додани муҳтавои расона
 about-webrtc-media-context-hide-msg = Пинҳон кардани муҳтавои расона
 about-webrtc-media-context-heading = Муҳтавои расона
+
+##
+
 
 ##
 

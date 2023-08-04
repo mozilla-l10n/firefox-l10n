@@ -19,7 +19,10 @@ support-addons-type = Навъ
 support-addons-enabled = Фаъол аст
 support-addons-version = Силсила
 support-addons-id = Рақами мушаххас
+legacy-user-stylesheets-title = Варақаҳои услубҳои корбарии соқит
 legacy-user-stylesheets-enabled = Фаъол
+legacy-user-stylesheets-stylesheet-types = Варақаҳои услубҳо
+legacy-user-stylesheets-no-stylesheets-found = Ягон варақаи услубҳо ёфт нашуд
 security-software-title = Нармафзори амният
 security-software-type = Навъ
 security-software-name = Ном
@@ -408,4 +411,5 @@ support-remote-features-status = Вазъият
 
 pointing-device-mouse = Муш
 pointing-device-touchscreen = Экрани ламсӣ
+pointing-device-pen-digitizer = Планшети расмкашии рақамӣ
 pointing-device-none = Ягон дастгоҳҳои нуқтагузорӣ нест

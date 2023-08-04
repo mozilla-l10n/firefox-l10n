@@ -27,19 +27,15 @@
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
 -focus-brand-name = Firefox Focus
-
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
-
+-fakespot-brand-name = Fakespot
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Пешниҳоди Firefox
-
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Саҳифаи асосии «Firefox»
-
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Намуди «Firefox»
-
