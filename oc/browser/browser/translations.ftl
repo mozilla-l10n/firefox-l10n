@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traduire aquesta pagina
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Traduire aquesta pagina – Bèta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -22,7 +27,7 @@ translations-panel-settings-button =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-displayname-beta =
-    .label = { $language } BETA
+    .label = { $language } BÈTA
 
 ## Options in the Firefox Translations settings.
 
