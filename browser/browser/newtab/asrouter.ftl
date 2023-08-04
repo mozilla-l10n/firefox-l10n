@@ -230,4 +230,5 @@ fxa-sync-cfr-secondary = Gogora iezadazu geroago
 
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Gailu zaharragoa darabilzu?
 device-migration-fxa-spotlight-link = Gogora iezadazu geroago
