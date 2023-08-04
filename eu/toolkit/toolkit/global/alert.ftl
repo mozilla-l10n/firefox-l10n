@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Itxi jakinarazpen hau
 alert-settings-title =
     .tooltiptext = Ezarpenak
+
+## Reminder Notifications
+
+notification-default-dismiss = Baztertu
