@@ -234,3 +234,7 @@ firefoxview-import-history-description = Rendi { -brand-short-name } il tuo brow
 firefoxview-recentlyclosed-empty-header = Hai chiuso una scheda per sbaglio?
 firefoxview-recentlyclosed-empty-description = Qui puoi trovare tutte le schede che hai chiuso di recente, così puoi riaprire velocemente quelle che ti servono.
 firefoxview-recentlyclosed-empty-description-two = Per trovare schede che hai chiuso da più tempo, dai un’occhiata alla tua <a data-l10n-name="history-url">cronologia di navigazione</a>.
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nessuna scheda aperta in questo dispositivo
