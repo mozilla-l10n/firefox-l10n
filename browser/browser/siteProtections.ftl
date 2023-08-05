@@ -5,6 +5,7 @@
 content-blocking-trackers-view-empty = ไม่มีที่ตรวจพบในไซต์นี้
 content-blocking-cookies-blocking-trackers-label = คุกกี้ติดตามข้ามไซต์
 content-blocking-cookies-blocking-third-party-label = คุกกี้จากบุคคลที่สาม
+content-blocking-cookies-blocking-all-label = คุกกี้ทั้งหมด
 content-blocking-cookies-view-first-party-label = จากไซต์นี้
 content-blocking-cookies-view-trackers-label = คุกกี้ติดตามข้ามไซต์
 content-blocking-cookies-view-third-party-label = คุกกี้จากบุคคลที่สาม
@@ -69,3 +70,7 @@ protections-not-blocking-cross-site-tracking-cookies =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter = { $trackerCount } ถูกปิดกั้น
+    .tooltiptext = ตั้งแต่ { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
