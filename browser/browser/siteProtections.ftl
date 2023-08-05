@@ -22,6 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Ryd cookie-undtagelser for { $domain }
+tracking-protection-icon-active = Blokerer sporing fra sociale medier, sporing på tværs af websteder og fingerprinters.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Udvidet beskyttelse mod sporing er SLÅET FRA på dette websted.
