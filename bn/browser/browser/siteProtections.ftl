@@ -5,6 +5,7 @@
 content-blocking-trackers-view-empty = এই সাইটে কিছু সনাক্ত হয়নি
 content-blocking-cookies-blocking-trackers-label = ক্রস-সাইট ট্র্যাকিং কুকিজ
 content-blocking-cookies-blocking-third-party-label = থার্ড পার্টি কুকিজ
+content-blocking-cookies-blocking-unvisited-label = ভিসিট না করা সাইট কুকি
 content-blocking-cookies-blocking-all-label = সমস্ত কুকি
 content-blocking-cookies-view-first-party-label = এই সাইট থেকে
 content-blocking-cookies-view-trackers-label = ক্রস-সাইট ট্র্যাকিং কুকিজ
@@ -45,6 +46,8 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = সব আঙ্গুলের ছাপ সনাক্তকারী ব্লক করা হয়েছে
 protections-blocking-cryptominers =
     .title = ক্রিপ্টোমাইনার অবরুদ্ধ
 protections-blocking-cookies-trackers =
@@ -53,12 +56,20 @@ protections-blocking-cookies-third-party =
     .title = থার্ড পার্টি কুকিজ অবরুদ্ধ
 protections-blocking-cookies-all =
     .title = সমস্ত কুকিজ অবরুদ্ধ
+protections-blocking-cookies-unvisited =
+    .title = ভিসিট করা হয়নি এমন সাইটের কুকি ব্লক করা হয়েছে
 protections-blocking-tracking-content =
     .title = ট্র্যাকিং কন্টেন্ট অবরুদ্ধ
 protections-blocking-social-media-trackers =
     .title = সোশ্যাল মিডিয়া ট্র্যাকারগুলো অবরুদ্ধ
+protections-not-blocking-fingerprinters =
+    .title = আঙ্গুলের ছাপ সনাক্তকারী ব্লক করা হয়নি
+protections-not-blocking-cryptominers =
+    .title = ক্রিপ্টোমাইনার ব্লক করা হয়নি
 protections-not-blocking-cross-site-tracking-cookies =
     .title = ক্রস-সাইট ট্র্যাকিং কুকি ব্লক করছে না
+protections-not-blocking-tracking-content =
+    .title = ট্র্যাক করে এমন কনটেন্ট ব্লক করা হচ্ছে না
 protections-not-blocking-social-media-trackers =
     .title = সোশ্যাল মিডিয়া ট্র্যাকারগুলোকে ব্লক করা হচ্ছে না
 
