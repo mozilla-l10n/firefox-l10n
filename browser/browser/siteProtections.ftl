@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+tracking-protection-icon-active = Блокування стеження соціальних мереж, кук стеження між сайтами, а також зчитування цифрового відбитка.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
@@ -15,6 +16,12 @@ tracking-protection-icon-no-trackers-detected-container =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Заблоковано зчитування цифрового відбитка
+protections-blocking-cookies-trackers =
+    .title = Заблоковано куки, що стежать між сайтами
+protections-not-blocking-fingerprinters =
+    .title = Зчитування цифрового відбитка не блокується
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
