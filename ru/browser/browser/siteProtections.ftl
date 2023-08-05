@@ -14,6 +14,10 @@ content-blocking-cookies-view-third-party-label = Сторонние куки
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
     .value = Разрешено
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = Заблокирован
 # Variables:
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
