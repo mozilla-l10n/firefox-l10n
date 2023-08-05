@@ -24,6 +24,7 @@ content-blocking-cookies-view-remove-button =
     .tooltiptext = ניקוי חריגת עוגיות עבור { $domain }
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = הגנת מעקב מתקדמת כבויה עבור אתר זה.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
 tracking-protection-icon-no-trackers-detected = לא זוהו רכיבי מעקב המוכרים ל־{ -brand-short-name } בדף זה.
@@ -74,3 +75,9 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } נחסמו
     }
     .tooltiptext = מאז { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] ‏{ -brand-short-name } חסם יותר מרכיב מעקב אחד מאז { DATETIME($date, year: "numeric", month: "long") }
+       *[other] ‏{ -brand-short-name } חסם למעלה מ־{ $trackerCount } רכיבי מעקב מאז { DATETIME($date, year: "numeric", month: "long") }
+    }
