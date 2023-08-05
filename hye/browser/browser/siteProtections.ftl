@@ -86,3 +86,9 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } Արգելափակուած
     }
     .tooltiptext = Սկսած { DATETIME($date, year: "numeric", month: "long", day: "numeric") }-ից
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name }֊ը արգելափակել է  { $trackerCount } հետագծողների է սկսած { DATETIME($date, year: "numeric", month: "long") }֊ից
+       *[other] { -brand-short-name }֊ը արգելափակել է  { $trackerCount } հետագծողների է սկսած { DATETIME($date, year: "numeric", month: "long") }֊ից
+    }
