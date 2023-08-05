@@ -23,8 +23,10 @@ content-blocking-cookies-view-remove-button =
 tracking-protection-icon-active = Blockering av sociala spårare, globala spårningskakor och fingeravtrycksspårare.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = Förbättrat spårningsskydd är AV för den här webbplatsen.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = Inga kända spårare för { -brand-short-name } upptäcktes på den här sidan.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
@@ -42,10 +44,16 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Fingeravtrycksspårare blockerade
+protections-blocking-cryptominers =
+    .title = Kryptogrävare blockerade
 protections-blocking-tracking-content =
     .title = Spårningsinnehåll blockerat
 protections-blocking-social-media-trackers =
     .title = Sociala media-spårare blockerade
+protections-not-blocking-fingerprinters =
+    .title = Blockerar inte Fingeravtrycksspårare
 protections-not-blocking-cryptominers =
     .title = Blockerar inte kryptogrävare
 protections-not-blocking-cookies-third-party =
