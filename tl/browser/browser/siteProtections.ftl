@@ -15,6 +15,8 @@ tracking-protection-icon-no-trackers-detected-container =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-cookies-unvisited =
+    .title = Unvisited Site Cookies Blocked
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
