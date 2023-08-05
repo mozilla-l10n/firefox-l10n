@@ -60,6 +60,8 @@ protections-blocking-cookies-unvisited =
     .title = Cookies von nicht besuchten Websites blockiert
 protections-blocking-tracking-content =
     .title = Inhalte zur Aktivitätenverfolgung blockiert
+protections-blocking-social-media-trackers =
+    .title = Skripte zur Aktivitätenverfolgung durch soziale Netzwerke blockiert
 protections-not-blocking-fingerprinters =
     .title = Identifizierer (Fingerprinter) nicht blockiert
 protections-not-blocking-cryptominers =
@@ -72,6 +74,8 @@ protections-not-blocking-cross-site-tracking-cookies =
     .title = Cookies zur seitenübergreifenden Aktivitätenverfolgung nicht blockiert
 protections-not-blocking-tracking-content =
     .title = Inhalte zur Aktivitätenverfolgung nicht blockiert
+protections-not-blocking-social-media-trackers =
+    .title = Skripte zur Aktivitätenverfolgung durch soziale Netzwerke nicht blockiert
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
