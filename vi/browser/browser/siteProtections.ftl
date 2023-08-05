@@ -15,6 +15,10 @@ tracking-protection-icon-no-trackers-detected-container =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-not-blocking-cookies-third-party =
+    .title = Không chặn cookie của bên thứ ba
+protections-not-blocking-cookies-all =
+    .title = Không chặn cookie
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
