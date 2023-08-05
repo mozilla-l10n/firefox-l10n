@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = 此网站上未检出
+content-blocking-cookies-blocking-trackers-label = 跨站跟踪性 Cookie
 content-blocking-cookies-blocking-third-party-label = 第三方 Cookie
 content-blocking-cookies-blocking-unvisited-label = 未访问网站 Cookie
 content-blocking-cookies-blocking-all-label = 所有 Cookie
 content-blocking-cookies-view-first-party-label = 来自此网站
+content-blocking-cookies-view-trackers-label = 跨站跟踪性 Cookie
 content-blocking-cookies-view-third-party-label = 第三方 Cookie
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
@@ -20,6 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = 清除对 { $domain } 的 Cookie 例外
+tracking-protection-icon-active = 拦截社交媒体跟踪器、跨站跟踪性 Cookie 和数字指纹跟踪程序。
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = 已关闭此网站上的增强型跟踪保护。
@@ -47,6 +50,8 @@ protections-blocking-fingerprinters =
     .title = 已拦截数字指纹跟踪程序
 protections-blocking-cryptominers =
     .title = 已拦截加密货币挖矿程序
+protections-blocking-cookies-trackers =
+    .title = 已拦截跨站跟踪性 Cookie
 protections-blocking-cookies-third-party =
     .title = 已拦截第三方 Cookie
 protections-blocking-cookies-all =
@@ -65,6 +70,8 @@ protections-not-blocking-cookies-third-party =
     .title = 未拦截第三方 Cookie
 protections-not-blocking-cookies-all =
     .title = 未拦截 Cookie
+protections-not-blocking-cross-site-tracking-cookies =
+    .title = 未拦截跨站跟踪性 Cookie
 protections-not-blocking-tracking-content =
     .title = 未拦截跟踪性内容
 protections-not-blocking-social-media-trackers =
