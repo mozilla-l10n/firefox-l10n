@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-cookies-blocking-trackers-label = Cookies de rastreo entre sitios
+content-blocking-cookies-view-trackers-label = Cookies de rastreo entre sitios
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = La protección contra rastreo mejorada está deshabilitada para este sitio.
@@ -25,8 +27,12 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-cookies-trackers =
+    .title = Cookies de rastreo entre sitios bloqueadas
 protections-blocking-cookies-third-party =
     .title = Cookies de terceros bloqueadas
+protections-blocking-cookies-all =
+    .title = Se han bloqueado todas las cookies
 protections-blocking-cookies-unvisited =
     .title = Cookies de sitios no visitados bloqueadas
 protections-blocking-tracking-content =
@@ -45,3 +51,11 @@ protections-not-blocking-social-media-trackers =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] 1 bloqueado
+       *[other] { $trackerCount } bloqueado
+    }
+    .tooltiptext = Desde { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
