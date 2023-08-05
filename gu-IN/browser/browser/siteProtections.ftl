@@ -2,6 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-cookies-view-first-party-label = આ સાઇટ પરથી
+content-blocking-cookies-view-third-party-label = તૃતીય પક્ષ કૂકીઝ
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
+content-blocking-cookies-view-allowed-label =
+    .value = મંજૂર
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = અવરોધિત
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = { $domain } માટે કૂકી અપવાદ સાફ કરો
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
