@@ -82,3 +82,17 @@ protections-not-blocking-social-media-trackers =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] { $trackerCount } بلاک تھیا
+       *[other] { $trackerCount } بلاک تھئے
+    }
+    .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } کنوں
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name }  { DATETIME($date, year: "numeric", month: "long") } کنوں { $trackerCount } ٹریکر کوں  بلاک کیتا
+       *[other] { -brand-short-name } { DATETIME($date, year: "numeric", month: "long") } کنوں { $trackerCount } کنوں زیادہ ٹریکرز کوں بلاک کر ݙتا۔
+    }
