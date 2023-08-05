@@ -22,6 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Удалить исключение для кук с { $domain }
+tracking-protection-icon-active = Блокируются трекеры соцсетей, межсайтовые отслеживающие куки, а также сборщики цифровых отпечатков.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Улучшенная защита от отслеживания на этом сайте ОТКЛЮЧЕНА.
