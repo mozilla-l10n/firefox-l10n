@@ -22,11 +22,13 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Очисти изузетак за колачиће на сајту { $domain }
+tracking-protection-icon-active = Блокирање елемената за праћење са друштвених мрежа, колачића за праћење трећих страна сакупљача дигиталних отисака.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Побољшана заштита од праћења је ИСКЉУЧЕНА на овој страници.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = { -brand-short-name } на овој страници није пронашао елементе за праћење.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
@@ -58,6 +60,8 @@ protections-blocking-cookies-unvisited =
     .title = Блокирани колачићи с непосећених сајтова
 protections-blocking-tracking-content =
     .title = Блокиран садржај за праћење
+protections-blocking-social-media-trackers =
+    .title = Блокирани елементи за праћење са друштвених мрежа
 protections-not-blocking-fingerprinters =
     .title = Деблокирани узимачи дигиталних отисака прстију
 protections-not-blocking-cryptominers =
@@ -70,6 +74,8 @@ protections-not-blocking-cross-site-tracking-cookies =
     .title = Деблокирани колачићи за праћење с унакрсним страница
 protections-not-blocking-tracking-content =
     .title = Деблокиран садржај за праћење
+protections-not-blocking-social-media-trackers =
+    .title = Дозвољени елементи за праћење са друштвених мрежа
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
@@ -85,3 +91,10 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } блокираних
     }
     .tooltiptext = Од { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] Од { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } је блокирао { $trackerCount } елемент за праћење
+        [few] Од { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } је блокирао више од { $trackerCount } елемента за праћење
+       *[other] Од { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } је блокирао више од { $trackerCount } елемената за праћење
+    }
