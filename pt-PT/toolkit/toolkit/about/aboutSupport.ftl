@@ -400,3 +400,7 @@ support-remote-experiments-see-about-studies = Consulte <a data-l10n-name="suppo
 support-remote-features-title = Funcionalidades remotas
 support-remote-features-name = Nome
 support-remote-features-status = Estado
+
+## Pointing devices
+
+pointing-device-mouse = Rato
