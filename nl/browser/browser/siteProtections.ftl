@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = Geen trackers op deze website gedetecteerd
+content-blocking-cookies-blocking-third-party-label = Cookies van derden
+content-blocking-cookies-blocking-all-label = Alle cookies
 content-blocking-cookies-view-first-party-label = Van deze website
 content-blocking-cookies-view-third-party-label = Cookies van derden
 # This label is shown next to a cookie origin in the cookies subview.
