@@ -25,6 +25,7 @@ content-blocking-cookies-view-remove-button =
 tracking-protection-icon-active = Asewḥel n yineḍfaṛen n yiẓedwa n tmetti, inagan n tuqqna n uḍfaṛ gar yismal akked imaṭṭafen n yidsilen umḍinen.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = Ammesten yettwaseǧehden mgal aḍfaṛ yensa i usmel-a.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
 tracking-protection-icon-no-trackers-detected = Ulac ineḍfaren i yessen { -brand-short-name } ittwafen deg usebter-a.
