@@ -41,6 +41,28 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = ลายนิ้วมือดิจิทัลถูกปิดกั้น
+protections-blocking-cryptominers =
+    .title = ตัวขุดเหรียญดิจิทัลถูกปิดกั้น
+protections-blocking-cookies-trackers =
+    .title = คุกกี้ติดตามข้ามไซต์ถูกปิดกั้น
+protections-blocking-cookies-third-party =
+    .title = คุกกี้จากบุคคลที่สามถูกปิดกั้น
+protections-blocking-cookies-all =
+    .title = คุกกี้ทั้งหมดถูกปิดกั้น
+protections-blocking-cookies-unvisited =
+    .title = คุกกี้จากไซต์ที่ไม่ได้เยี่ยมชมถูกปิดกั้น
+protections-blocking-tracking-content =
+    .title = ตัวติดตามเนื้อหาถูกปิดกั้น
+protections-blocking-social-media-trackers =
+    .title = ตัวติดตามสังคมออนไลน์ถูกปิดกั้น
+protections-not-blocking-fingerprinters =
+    .title = ไม่ปิดกั้นลายนิ้วมือดิจิทัล
+protections-not-blocking-cryptominers =
+    .title = ไม่ปิดกั้นตัวขุดเหรียญดิจิทัล
+protections-not-blocking-cross-site-tracking-cookies =
+    .title = ไม่ปิดกั้นคุกกี้ติดตามข้ามไซต์
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
