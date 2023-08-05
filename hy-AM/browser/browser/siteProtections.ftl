@@ -2,6 +2,26 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Ոչ մեկը հայտնաբերված չէ այս կայքում
+content-blocking-cookies-blocking-trackers-label = Միջակայքին հետևող նշոցիկ։
+content-blocking-cookies-blocking-third-party-label = Երրորդ կողմի նշոցիկ
+content-blocking-cookies-blocking-unvisited-label = Չայցելված կայքերի նշոցիկներ
+content-blocking-cookies-blocking-all-label = Բոլոր նշոցիկները
+content-blocking-cookies-view-first-party-label = Այս կայքից
+content-blocking-cookies-view-trackers-label = Միջակայքին հետևող նշոցիկներ
+content-blocking-cookies-view-third-party-label = Երրորդ կողմի նշոցիկներ
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
+content-blocking-cookies-view-allowed-label =
+    .value = Թույլատրված
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = Արգելափակված
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = Մաքրել նշոցիկների բացառությունը { $domain }-ի համար
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
