@@ -3,10 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = Ingen upptäckt på denna sida
+content-blocking-cookies-blocking-trackers-label = Globala spårningskakor
 content-blocking-cookies-blocking-third-party-label = Kakor från tredje part
 content-blocking-cookies-blocking-unvisited-label = Obesökta webbplatskakor
 content-blocking-cookies-blocking-all-label = Alla kakor
 content-blocking-cookies-view-first-party-label = Från den här webbplatsen
+content-blocking-cookies-view-trackers-label = Globala spårningskakor
 content-blocking-cookies-view-third-party-label = Kakor från tredje part
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
@@ -48,6 +50,14 @@ protections-blocking-fingerprinters =
     .title = Fingeravtrycksspårare blockerade
 protections-blocking-cryptominers =
     .title = Kryptogrävare blockerade
+protections-blocking-cookies-trackers =
+    .title = Globlala spårningskakor blockerade
+protections-blocking-cookies-third-party =
+    .title = Kakor från tredje part blockerade
+protections-blocking-cookies-all =
+    .title = Alla kakor blockerade
+protections-blocking-cookies-unvisited =
+    .title = Kakor från obesökta webbplatser blockerade
 protections-blocking-tracking-content =
     .title = Spårningsinnehåll blockerat
 protections-blocking-social-media-trackers =
