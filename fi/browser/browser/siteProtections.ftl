@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Ei havaittu tällä sivustolla
+content-blocking-cookies-blocking-unvisited-label = Evästeet vierailemattomilta sivustoilta
+content-blocking-cookies-view-first-party-label = Tältä sivustolta
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = Poista evästepoikkeus sivustolta { $domain }
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
@@ -15,6 +22,8 @@ tracking-protection-icon-no-trackers-detected-container =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-cookies-unvisited =
+    .title = Evästeet vierailemattomilta sivustoilta estetty
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
