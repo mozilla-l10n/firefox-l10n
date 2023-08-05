@@ -4,7 +4,9 @@
 
 content-blocking-trackers-view-empty = ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਨਹੀਂ ਖੋਜਿਆ
 content-blocking-cookies-blocking-trackers-label = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼
+content-blocking-cookies-blocking-third-party-label = ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
 content-blocking-cookies-blocking-unvisited-label = ਨਾ-ਖੋਲ੍ਹੀ ਸਾਈਟ ਕੂਕੀਜ਼
+content-blocking-cookies-blocking-all-label = ਸਾਰੇ ਕੂਕੀਜ਼
 content-blocking-cookies-view-first-party-label = ਇਸ ਸਾਈਟ ਤੋਂ
 content-blocking-cookies-view-trackers-label = ਅੰਤਰ-ਸਾਈਟ ਟਰੈਕ ਕਰਨ ਵਾਲੇ ਕੂਕੀਜ਼
 content-blocking-cookies-view-third-party-label = ਤੀਜੀ-ਧਿਰ ਕੂਕੀਜ਼
