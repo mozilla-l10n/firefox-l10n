@@ -3,7 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = Niti jedan nije otkriven na ovoj stranici
+content-blocking-cookies-blocking-trackers-label = Kolačići za praćenje među web lokacijama
+content-blocking-cookies-blocking-third-party-label = Kolačići treće strane
+content-blocking-cookies-blocking-unvisited-label = Kolačići neposjećene web lokacije
+content-blocking-cookies-blocking-all-label = Svi kolačići
 content-blocking-cookies-view-first-party-label = Od ove stranice
+content-blocking-cookies-view-trackers-label = Kolačići za praćenje među web lokacijama
 content-blocking-cookies-view-third-party-label = Kolačići trećih strana
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
@@ -32,11 +37,25 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Zaštite za { $host }
+# Text that gets spoken by a screen reader if the button will disable protections.
+protections-disable =
+    .aria-label = Deaktiviraj zaštitu za { $host }
+# Text that gets spoken by a screen reader if the button will enable protections.
+protections-enable =
+    .aria-label = Aktiviraj zaštitu za { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
     .title = Jedinstveni otisci su blokirani
+protections-blocking-cookies-trackers =
+    .title = Kolačići za praćenje među web lokacijama blokirani
+protections-blocking-cookies-third-party =
+    .title = Kolačići treće strane blokirani
+protections-blocking-cookies-all =
+    .title = Svi kolačići blokirani
+protections-blocking-cookies-unvisited =
+    .title = Kolačići neposjećene web lokacije blokirani
 protections-blocking-tracking-content =
     .title = Sadržaj za praćenje je blokiran
 protections-blocking-social-media-trackers =
