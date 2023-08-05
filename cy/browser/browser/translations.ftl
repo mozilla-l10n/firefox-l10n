@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Cyfieithu'r dudalen hon
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Cyfieithu'r dudalen hon - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Rhowch gynnig ar gyfieithiadau preifat yn { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Arhoswch…
 translations-panel-translate-cancel =
     .label = Diddymu
+translations-panel-learn-more-link = Dysgu rhagor
+translations-panel-intro-header = Rhowch gynnig ar gyfieithiadau preifat yn { -brand-shorter-name } - Beta
+translations-panel-intro-description = Er eich preifatrwydd, nid yw'r cyfieithiadau byth yn gadael eich dyfais. Ieithoedd newydd a gwelliannau i ddod yn fuan!
 translations-panel-error-translating = Bu anhawster wrth gyfieithu. Ceisiwch eto.
 translations-panel-error-load-languages = Methu llwytho'r ieithoedd
 translations-panel-error-load-languages-hint = Gwiriwch eich cysylltiad rhyngrwyd a rhowch gynnig arall arni.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = i
 translations-manage-error-download = Bu anhawster wrth lwytho'r ffeiliau iaith i lawr. Ceisiwch eto.
 translations-manage-error-delete = Bu gwall wrth ddileu'r ffeiliau iaith. Ceisiwch eto.
+translations-manage-intro = Gosodwch eich dewisiadau cyfieithu iaith a gwefan a rheoli ieithoedd sydd wedi'u gosod ar gyfer cyfieithu all-lein.
+translations-manage-install-description = Gosodwch ieithoedd ar gyfer cyfieithu all-lein
+translations-manage-language-install-button =
+    .label = Gosod
+translations-manage-language-install-all-button =
+    .label = Gosod y cyfan
+    .accesskey = G
+translations-manage-language-remove-button =
+    .label = Tynnu
+translations-manage-language-remove-all-button =
+    .label = Tynnu'r cyfan
+    .accesskey = T
+translations-manage-error-install = Bu anhawster wrth osod y ffeiliau iaith. Ceisiwch eto.
+translations-manage-error-remove = Bu gwall wrth dynnu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-error-list = Wedi methu â chael y rhestr o ieithoedd sydd ar gael i'w cyfieithu. Ail-lwythwch y dudalen i geisio eto.
 translations-settings-title =
     .title = Gosodiadau Cyfieithiadau

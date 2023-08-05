@@ -579,6 +579,8 @@ urlbar-result-action-search-w-engine = Chwilio gyda { $engine }
 urlbar-result-action-sponsored = Noddwyd
 urlbar-result-action-switch-tab = Newid i'r Tab
 urlbar-result-action-visit = Ymweld â
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Ymweld o'ch clipfwrdd
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

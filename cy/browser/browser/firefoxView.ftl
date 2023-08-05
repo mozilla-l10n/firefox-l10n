@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = I ddod o hyd i dabiau ers pet
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Dim tabiau ar agor ar y ddyfais hon
