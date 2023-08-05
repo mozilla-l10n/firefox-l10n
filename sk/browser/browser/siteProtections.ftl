@@ -2,11 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Neboli nájdené žiadne sledovacie prvky
 content-blocking-cookies-blocking-trackers-label = Sledovacie cookies tretích strán
 content-blocking-cookies-blocking-third-party-label = Súbory cookie tretích strán
 content-blocking-cookies-blocking-unvisited-label = Súbory cookie z nenavštívených stránok
 content-blocking-cookies-blocking-all-label = Všetky cookies
+content-blocking-cookies-view-first-party-label = Z tejto stránky
 content-blocking-cookies-view-trackers-label = Sledovacie cookies tretích strán
+content-blocking-cookies-view-third-party-label = Cookies tretích strán
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
@@ -15,8 +18,14 @@ content-blocking-cookies-view-allowed-label =
 # It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
 content-blocking-cookies-view-blocked-label =
     .value = Blokované
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = Zrušiť výnimku z blokovania cookies pre { $domain }
+tracking-protection-icon-active = Sledovacie prvky sociálnych sietí, cookies tretích strán aj tvorba odtlačku prehliadača je blokovaná.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = Rozšírená ochrana pred sledovaním je na tejto stránke VYPNUTÁ.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
 tracking-protection-icon-no-trackers-detected-container =
@@ -25,6 +34,14 @@ tracking-protection-icon-no-trackers-detected-container =
 ## Variables:
 ##   $host (String): the site's hostname
 
+# Header of the Protections Panel.
+protections-header = Ochrana pred sledovaním na { $host }
+# Text that gets spoken by a screen reader if the button will disable protections.
+protections-disable =
+    .aria-label = Vypnúť ochranu na stránke { $host }
+# Text that gets spoken by a screen reader if the button will enable protections.
+protections-enable =
+    .aria-label = Zapnúť ochranu na stránke { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -36,12 +53,16 @@ protections-blocking-cookies-trackers =
     .title = Sledovacie prvky tretích strán boli zablokované
 protections-blocking-cookies-third-party =
     .title = Cookies tretích strán boli zablokované
+protections-blocking-cookies-all =
+    .title = Všetky cookies sú blokované
 protections-blocking-cookies-unvisited =
     .title = Súbory cookie z nenavštívených stránok boli zablokované
 protections-blocking-tracking-content =
     .title = Sledovacie prvky boli zablokované
 protections-blocking-social-media-trackers =
     .title = Sledovacie prvky sociálnych sietí boli zablokované
+protections-not-blocking-fingerprinters =
+    .title = Vytváranie odtlačku prehliadača nie je blokované
 protections-not-blocking-cryptominers =
     .title = Ťažba kryptomien nie je blokovaná
 protections-not-blocking-cookies-third-party =
@@ -60,3 +81,19 @@ protections-not-blocking-social-media-trackers =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] { $trackerCount } blokovanie
+        [few] { $trackerCount } blokovania
+       *[other] { $trackerCount } blokovaní
+    }
+    .tooltiptext = Od { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] Od { DATETIME($date, year: "numeric", month: "long") } aplikácia { -brand-short-name } zablokovala jeden sledovací prvok
+        [few] Od { DATETIME($date, year: "numeric", month: "long") } aplikácia { -brand-short-name } zablokovala viac než { $trackerCount } sledovacie prvky
+       *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikácia { -brand-short-name } zablokovala viac než { $trackerCount } sledovacích prvkov
+    }
