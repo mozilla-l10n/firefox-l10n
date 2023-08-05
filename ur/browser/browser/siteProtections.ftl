@@ -39,16 +39,36 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = فنگر پرنٹرز مسدود ہیں
+protections-blocking-cryptominers =
+    .title = کریپٹومینرز مسدود ہیں
 protections-blocking-cookies-trackers =
     .title = کراس-سائٹ ٹریکنگ کوکیز  کو روک دیا گیا ہے
+protections-blocking-cookies-third-party =
+    .title = تیسری پارٹی کے کوکیز مسدود ہیں
 protections-blocking-cookies-all =
     .title = تمام کوکیز بلاک ہیں
+protections-blocking-cookies-unvisited =
+    .title = بلا امتیاز سائٹ کوکیز مسدود ہیں
 protections-blocking-tracking-content =
     .title = ٹریکنگ مواد کو روک دیا گیا ہے
+protections-blocking-social-media-trackers =
+    .title = سوشل میڈیا ٹریکرز مسدود ہیں
+protections-not-blocking-fingerprinters =
+    .title = فنگر پرنٹ کو مسدود نہیں کررہا ہے
+protections-not-blocking-cryptominers =
+    .title = کرپٹومینرز کو مسدود نہیں کررہا ہے
+protections-not-blocking-cookies-third-party =
+    .title = تھرڈ پارٹی کوکیز کو مسدود نہیں کررہا ہے
+protections-not-blocking-cookies-all =
+    .title = کوکیز کو مسدود نہیں کررہا ہے
 protections-not-blocking-cross-site-tracking-cookies =
     .title = کراس۔سائٹ ٹریکنگ کوکیز کو روکنہیںرہا
 protections-not-blocking-tracking-content =
     .title = ٹریکنگ مواد کو روک نہیں رہا
+protections-not-blocking-social-media-trackers =
+    .title = سوشل میڈیا ٹریکروں کو مسدود نہیں کررہا ہے
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
