@@ -22,6 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Sfeḍ tasureft n inagan n tuqqna i { $domain }
+tracking-protection-icon-active = Asewḥel n yineḍfaṛen n yiẓedwa n tmetti, inagan n tuqqna n uḍfaṛ gar yismal akked imaṭṭafen n yidsilen umḍinen.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
@@ -86,3 +87,9 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount }Iwḥel
     }
     .tooltiptext = Si { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } isewḥel { $trackerCount } n uneḍfaṛ seg { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } isewḥel ugar n { $trackerCount } n yineḍfaṛen seg { DATETIME($date, year: "numeric", month: "long") }
+    }
