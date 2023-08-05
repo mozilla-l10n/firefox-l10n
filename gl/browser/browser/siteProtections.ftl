@@ -22,8 +22,10 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Borrar excepción de cookies para { $domain }
+tracking-protection-icon-active = Bloqueo de rastreadores de redes sociais, cookies de seguimento entre sitios e identificadores de pegada dixital.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = A protección mellorada contra o rastrexo está desactivada neste sitio.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
 tracking-protection-icon-no-trackers-detected = Non se detectaron rastreadores coñecidos por { -brand-short-name } nesta páxina.
@@ -44,6 +46,8 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Identificadores de pegada dixital bloqueados
 protections-blocking-cryptominers =
     .title = Criptomoedas bloqueadas
 protections-blocking-cookies-trackers =
@@ -58,6 +62,8 @@ protections-blocking-tracking-content =
     .title = Rastrexo de contido bloqueado
 protections-blocking-social-media-trackers =
     .title = Rastrexadores de redes sociais bloqueados
+protections-not-blocking-fingerprinters =
+    .title = Non se bloquean os identificadores de pegada dixital
 protections-not-blocking-cryptominers =
     .title = Non se bloquean os criptomineiros
 protections-not-blocking-cookies-third-party =
