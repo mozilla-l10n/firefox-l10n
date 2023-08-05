@@ -5,6 +5,7 @@
 content-blocking-trackers-view-empty = ไม่มีที่ตรวจพบในไซต์นี้
 content-blocking-cookies-blocking-trackers-label = คุกกี้ติดตามข้ามไซต์
 content-blocking-cookies-blocking-third-party-label = คุกกี้จากบุคคลที่สาม
+content-blocking-cookies-blocking-unvisited-label = คุกกี้ของไซต์ที่ไม่ได้เยี่ยมชม
 content-blocking-cookies-blocking-all-label = คุกกี้ทั้งหมด
 content-blocking-cookies-view-first-party-label = จากไซต์นี้
 content-blocking-cookies-view-trackers-label = คุกกี้ติดตามข้ามไซต์
@@ -21,10 +22,12 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = ล้างข้อยกเว้นคุกกี้สำหรับ { $domain }
+tracking-protection-icon-active = กำลังปิดกั้นตัวติดตามสื่อสังคมออนไลน์ คุกกี้ติดตามข้ามไซต์ และลายนิ้วมือดิจิทัล
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = ไม่มีตัวติดตามที่ { -brand-short-name } รู้จักถูกตรวจพบที่หน้านี้
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
@@ -64,6 +67,10 @@ protections-not-blocking-cryptominers =
     .title = ไม่ปิดกั้นตัวขุดเหรียญดิจิทัล
 protections-not-blocking-cross-site-tracking-cookies =
     .title = ไม่ปิดกั้นคุกกี้ติดตามข้ามไซต์
+protections-not-blocking-tracking-content =
+    .title = ไม่ได้ปิดกั้นเนื้อหาการติดตาม
+protections-not-blocking-social-media-trackers =
+    .title = ไม่ได้ปิดกั้นตัวติดตามสื่อสังคมออนไลน์
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
@@ -74,3 +81,5 @@ protections-not-blocking-cross-site-tracking-cookies =
 # In its tooltip, we show the date when we started counting this number.
 protections-footer-blocked-tracker-counter = { $trackerCount } ถูกปิดกั้น
     .tooltiptext = ตั้งแต่ { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone = { -brand-short-name } ปิดกั้นตัวติดตาม { $trackerCount } ตัวตั้งแต่ { DATETIME($date, year: "numeric", month: "long") }
