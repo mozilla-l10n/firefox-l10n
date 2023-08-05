@@ -5,6 +5,20 @@
 content-blocking-cookies-blocking-third-party-label = Cookie-uri de la terți
 content-blocking-cookies-blocking-unvisited-label = Cookie-uri de pe site-uri nevizitate
 content-blocking-cookies-blocking-all-label = Toate cookie-urile
+content-blocking-cookies-view-first-party-label = De pe acest site
+content-blocking-cookies-view-third-party-label = Cookie-uri de la terți
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
+content-blocking-cookies-view-allowed-label =
+    .value = Permis
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = Blocat
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = Elimină excepția cookie-urilor pentru { $domain }
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Protecția îmbunătățită împotriva urmăririi este DEZACTIVATĂ pentru acest site.
@@ -56,3 +70,10 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } blocate
     }
     .tooltiptext = Începând cu { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } a blocat { $trackerCount } un element de urmărire din { DATETIME($date, year: "numeric", month: "long") }
+        [few] { -brand-short-name } a blocat peste { $trackerCount } elemente de urmărire din { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } a blocat peste { $trackerCount } de elemente de urmărire din { DATETIME($date, year: "numeric", month: "long") }
+    }
