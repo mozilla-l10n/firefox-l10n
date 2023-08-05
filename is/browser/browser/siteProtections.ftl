@@ -2,6 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Ekkert fannst á þessari síðu
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
+content-blocking-cookies-view-allowed-label =
+    .value = Leyft
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
