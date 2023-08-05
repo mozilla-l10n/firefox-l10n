@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-cookies-view-first-party-label = 이 사이트에서
+content-blocking-cookies-view-third-party-label = 제3자 쿠키
 tracking-protection-icon-active = 소셜 미디어 추적기, 교차 사이트 추적 쿠키 및 디지털 지문을 차단합니다.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
