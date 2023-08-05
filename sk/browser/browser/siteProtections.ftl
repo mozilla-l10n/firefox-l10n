@@ -28,6 +28,7 @@ tracking-protection-icon-active-container =
 tracking-protection-icon-disabled = Rozšírená ochrana pred sledovaním je na tejto stránke VYPNUTÁ.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = Prehliadač { -brand-short-name } nenašiel na tejto stránke žiadne známe sledovacie prvky.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
