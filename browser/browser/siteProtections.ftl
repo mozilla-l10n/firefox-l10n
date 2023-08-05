@@ -21,3 +21,9 @@ tracking-protection-icon-no-trackers-detected-container =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } a bloqué { $trackerCount } traqueur depuis { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } a bloqué plus de { $trackerCount } traqueurs depuis { DATETIME($date, year: "numeric", month: "long") }
+    }
