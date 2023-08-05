@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = 오래 전 탭을 찾으려�
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = 이 기기에 열린 탭 없음
