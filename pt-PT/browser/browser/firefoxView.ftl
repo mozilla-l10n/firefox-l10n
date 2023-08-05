@@ -23,10 +23,12 @@ firefoxview-tabpickup-progress-label = { $percentValue }% concluído
 firefoxview-tabpickup-step-signin-header = Alterne facilmente entre dispositivos
 firefoxview-tabpickup-step-signin-description = Para obter os separadores do seu telemóvel aqui, primeiro, entre ou crie uma conta.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
+firefoxview-syncedtabs-signin-primarybutton = Iniciar sessão ou registar
 firefoxview-tabpickup-adddevice-header = Sincronize o { -brand-product-name } no seu telemóvel ou tablet
 firefoxview-tabpickup-adddevice-description = Descarregue o { -brand-product-name } para dispositivos móveis e inicie sessão no mesmo.
 firefoxview-tabpickup-adddevice-learn-how = Saber mais
 firefoxview-tabpickup-adddevice-primarybutton = Obtenha o { -brand-product-name } para dispositivos móveis.
+firefoxview-syncedtabs-adddevice-primarybutton = Experimente o { -brand-product-name } para dispositivos móveis
 firefoxview-tabpickup-synctabs-header = Ativar sincronização de separadores
 firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name } partilhe separadores entre dispositivos.
 firefoxview-tabpickup-synctabs-learn-how = Saber mais
@@ -92,6 +94,8 @@ firefoxview-overview-header = Navegação recente
 firefoxview-history-nav = Histórico
     .title = Histórico
 firefoxview-history-header = Histórico
+firefoxview-history-context-delete = Apagar do histórico
+    .accesskey = A
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +117,7 @@ firefoxview-synced-tabs-header = Separadores de outros dispositivos
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Ver tudo
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,8 +141,41 @@ firefoxview-history-date-today = Hoje - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Ontem - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ficheiros locais)
 
 ##
 
 firefoxview-show-all-history = Mostrar todo o histórico
 firefoxview-view-more-browsing-history = Ver mais histórico de navegação
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+firefoxview-dont-remember-history-empty-header = Nada a mostrar
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Fechar
+    .title = Fechar
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
