@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Dịch trang này
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Dịch trang này - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Thử bản dịch riêng tư trong { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Vui lòng chờ…
 translations-panel-translate-cancel =
     .label = Hủy bỏ
+translations-panel-learn-more-link = Tìm hiểu thêm
+translations-panel-intro-header = Thử bản dịch riêng tư trong { -brand-shorter-name }
+translations-panel-intro-description = Vì riêng tư của bạn, bản dịch sẽ không bao giờ rời khỏi thiết bị của bạn. Sắp có các ngôn ngữ và cải tiến mới!
 translations-panel-error-translating = Có sự cố khi dịch. Hãy thử lại.
 translations-panel-error-load-languages = Không thể tải ngôn ngữ
 translations-panel-error-load-languages-hint = Kiểm tra kết nối Internet của bạn và thử lại.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Đã xảy ra sự cố khi tải xuống tập tin ngôn ngữ. Hãy thử lại.
 translations-manage-error-delete = Đã xảy ra sự cố khi xóa tập tin ngôn ngữ. Hãy thử lại.
+translations-manage-intro = Đặt tùy chọn ngôn ngữ và bản dịch trang web của bạn, đồng thời quản lý các ngôn ngữ được cài đặt để dịch ngoại tuyến.
+translations-manage-install-description = Cài đặt ngôn ngữ để dịch ngoại tuyến
+translations-manage-language-install-button =
+    .label = Cài đặt
+translations-manage-language-install-all-button =
+    .label = Cài đặt tất cả
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Xóa
+translations-manage-language-remove-all-button =
+    .label = Xóa tất cả
+    .accesskey = e
+translations-manage-error-install = Đã xảy ra sự cố khi cài đặt tập tin ngôn ngữ. Vui lòng thử lại.
+translations-manage-error-remove = Đã xảy ra lỗi khi xóa tập tin ngôn ngữ. Vui lòng thử lại.
 translations-manage-error-list = Không tải được danh sách các ngôn ngữ có sẵn để dịch. Làm mới trang để thử lại.
 translations-settings-title =
     .title = Cài đặt dịch
