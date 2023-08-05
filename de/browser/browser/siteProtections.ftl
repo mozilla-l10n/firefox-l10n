@@ -7,6 +7,7 @@ content-blocking-cookies-blocking-trackers-label = Cookies zur seitenübergreife
 content-blocking-cookies-blocking-third-party-label = Cookies von Drittanbietern
 content-blocking-cookies-blocking-unvisited-label = Cookies von nicht besuchten Websites
 content-blocking-cookies-blocking-all-label = Alle Cookies
+content-blocking-cookies-view-first-party-label = Von dieser Website
 content-blocking-cookies-view-trackers-label = Cookies zur seitenübergreifenden Aktivitätenverfolgung
 content-blocking-cookies-view-third-party-label = Cookies von Drittanbietern
 # This label is shown next to a cookie origin in the cookies subview.
@@ -63,6 +64,10 @@ protections-not-blocking-fingerprinters =
     .title = Identifizierer (Fingerprinter) nicht blockiert
 protections-not-blocking-cryptominers =
     .title = Heimliche Digitalwährungsberechner (Krypto-Miner) nicht blockiert
+protections-not-blocking-cookies-third-party =
+    .title = Cookies von Drittanbietern werden nicht blockiert
+protections-not-blocking-cookies-all =
+    .title = Cookies werden nicht blockiert
 protections-not-blocking-cross-site-tracking-cookies =
     .title = Cookies zur seitenübergreifenden Aktivitätenverfolgung nicht blockiert
 protections-not-blocking-tracking-content =
@@ -81,3 +86,9 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } blockiert
     }
     .tooltiptext = Seit { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } blockierte { $trackerCount } Element zur Aktivitätenverfolgung seit { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } blockierte { $trackerCount } Elemente zur Aktivitätenverfolgung seit { DATETIME($date, year: "numeric", month: "long") }
+    }
