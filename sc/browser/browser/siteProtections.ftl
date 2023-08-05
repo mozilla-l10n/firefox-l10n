@@ -2,8 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Nissunu rilevadu in custu situ
+content-blocking-cookies-blocking-trackers-label = Testimòngios de sighidura intre sitos
+content-blocking-cookies-blocking-third-party-label = Testimòngios de àteras partes
+content-blocking-cookies-blocking-unvisited-label = Testimòngios de sitos chi no as bisitadu
 content-blocking-cookies-blocking-all-label = Totu is testimòngios
 content-blocking-cookies-view-first-party-label = De custu situ
+content-blocking-cookies-view-trackers-label = Testimòngios de sighidura intre sitos
+content-blocking-cookies-view-third-party-label = Testimòngios de àteras partes
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
@@ -12,10 +18,17 @@ content-blocking-cookies-view-allowed-label =
 # It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
 content-blocking-cookies-view-blocked-label =
     .value = Blocadu
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = Cantzella s'etzetzione de is testimòngios pro { $domain }
+tracking-protection-icon-active = S'est blochende is sighidores de retes sotziales, is testimòngios de sighidura intre sitos e is generadores de imprentas digitales.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = S'amparu megioradu contra sa sighidura est DISATIVADU pro custu situ.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = In custa pàgina non s'est rilevadu nissunu sighidore connotu dae { -brand-short-name }.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
@@ -24,6 +37,12 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Amparos pro { $host }
+# Text that gets spoken by a screen reader if the button will disable protections.
+protections-disable =
+    .aria-label = Disativa is protetziones pro { $host }
+# Text that gets spoken by a screen reader if the button will enable protections.
+protections-enable =
+    .aria-label = Ativa sa protetzione pro { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -31,6 +50,14 @@ protections-blocking-fingerprinters =
     .title = Generadores de imprentas digitales blocados
 protections-blocking-cryptominers =
     .title = Cripto-minadores blocados
+protections-blocking-cookies-trackers =
+    .title = Testimòngios de sighidura intre sitos blocados
+protections-blocking-cookies-third-party =
+    .title = Testimòngios de àteras partes blocados
+protections-blocking-cookies-all =
+    .title = Totu is testimòngios blocados
+protections-blocking-cookies-unvisited =
+    .title = Testimòngios de is sitos chi no as bisitadu blocados
 protections-blocking-tracking-content =
     .title = Cuntenutos de sighidura blocados
 protections-blocking-social-media-trackers =
