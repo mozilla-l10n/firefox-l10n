@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Выключэнні
     .style = min-width: 38em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Адрас сайта
     .accesskey = д
-
 permissions-block =
     .label = Блакаваць
     .accesskey = Б
-
 permissions-disable-etp =
     .label = Дадаць выключэнне
     .accesskey = Д
-
 permissions-session =
     .label = Дазволіць на сеанс
     .accesskey = с
-
 permissions-allow =
     .label = Дазволіць
     .accesskey = Д
-
 permissions-button-off =
     .label = Выключыць
     .accesskey = В
-
 permissions-button-off-temporarily =
     .label = Часова выключыць
     .accesskey = Ч
-
 permissions-site-name =
     .label = Вэб-сайт
-
 permissions-status =
     .label = Статус
-
 permissions-remove =
     .label = Выдаліць вэб-сайт
     .accesskey = В
-
 permissions-remove-all =
     .label = Выдаліць усе вэб-сайты
     .accesskey = ы
-
 permission-dialog =
     .buttonlabelaccept = Захаваць змены
     .buttonaccesskeyaccept = Ы
-
 permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
-
 permissions-searchbox =
     .placeholder = Пошук сярод вэб-сайтаў
-
 permissions-capabilities-autoplay-allow =
     .label = Дазваляць гук і відэа
 permissions-capabilities-autoplay-block =
     .label = Блакаваць гук
 permissions-capabilities-autoplay-blockall =
     .label = Блакаваць гук і відэа
-
 permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
     .label = Блакаваць
 permissions-capabilities-prompt =
     .label = Заўсёды пытаць
-
 permissions-capabilities-listitem-allow =
     .value = Дазволіць
 permissions-capabilities-listitem-block =
     .value = Блакаваць
 permissions-capabilities-listitem-allow-session =
     .value = Дазволіць на сеанс
-
 permissions-capabilities-listitem-off =
     .value = Выкл.
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Выключэнні - Рэжым толькі HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Вы можаце выключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў. Выключэнні не распаўсюджваюцца на прыватныя вокны.
+permissions-exceptions-https-only-desc2 = Вы можаце выключыць рэжым толькі HTTPS для пэўных вэб-сайтаў. { -brand-short-name } не будзе спрабаваць пераключыць злучэнне на бяспечны HTTPS для гэтых сайтаў.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Налады - Дазволы дынамікаў
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Наступныя сайты запыталі дазвол на выбар прылады вываду гуку. Вы можаце ўказаць, якім сайтам дазволена выбіраць прыладу вываду гуку.
-
 permissions-exceptions-doh-window =
     .title = Выключэнні вэб-сайтаў для DNS праз HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } не будзе выкарыстоўваць бяспечны DNS на гэтых сайтах і іх субдаменах.
-
 permissions-doh-entry-field = Увядзіце даменнае імя сайта
     .accesskey = в
-
 permissions-doh-add-exception =
     .label = Дадаць
     .accesskey = Д
-
 permissions-doh-col =
     .label = Дамен
-
 permissions-doh-remove =
     .label = Выдаліць
     .accesskey = В
-
 permissions-doh-remove-all =
     .label = Выдаліць усе
     .accesskey = у
