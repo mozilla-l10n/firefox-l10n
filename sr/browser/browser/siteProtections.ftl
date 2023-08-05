@@ -3,7 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 content-blocking-trackers-view-empty = Ниједан уочен на овом сајту
+content-blocking-cookies-blocking-trackers-label = Колачићи с унакрсних страница
+content-blocking-cookies-blocking-third-party-label = Колачићи трећих страна
+content-blocking-cookies-blocking-unvisited-label = Колачићи са непосећених страница
+content-blocking-cookies-blocking-all-label = Сви колачићи
 content-blocking-cookies-view-first-party-label = Са овог сајта
+content-blocking-cookies-view-trackers-label = Колачићи с унакрсних страница
 content-blocking-cookies-view-third-party-label = Колачићи треће стране
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
@@ -39,15 +44,40 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Блокирани узимачи дигиталних отисака прстију
+protections-blocking-cryptominers =
+    .title = Блокирани рудари криптовалута
+protections-blocking-cookies-trackers =
+    .title = Блокирани колачићи с унакрсних страница
+protections-blocking-cookies-third-party =
+    .title = Блокирани колачићи трећих страна
 protections-blocking-cookies-all =
     .title = Блокирани сви колачићи
 protections-blocking-cookies-unvisited =
     .title = Блокирани колачићи с непосећених сајтова
 protections-blocking-tracking-content =
     .title = Блокиран садржај за праћење
+protections-not-blocking-fingerprinters =
+    .title = Деблокирани узимачи дигиталних отисака прстију
+protections-not-blocking-cryptominers =
+    .title = Деблокирани рудари криптовалута
+protections-not-blocking-cross-site-tracking-cookies =
+    .title = Деблокирани колачићи за праћење с унакрсним страница
+protections-not-blocking-tracking-content =
+    .title = Деблокиран садржај за праћење
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] { $trackerCount } блокиран
+        [few] { $trackerCount } блокирана
+       *[other] { $trackerCount } блокираних
+    }
+    .tooltiptext = Од { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
