@@ -18,6 +18,10 @@ content-blocking-cookies-view-allowed-label =
 # It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
 content-blocking-cookies-view-blocked-label =
     .value = Iwḥel
+# Variables:
+#   $domain (String): the domain of the site.
+content-blocking-cookies-view-remove-button =
+    .tooltiptext = Sfeḍ tasureft n inagan n tuqqna i { $domain }
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
