@@ -46,6 +46,10 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Elymynta, co chytajōm ôdcisk, sōm zaszperowane
+protections-blocking-cryptominers =
+    .title = Elymynta, co rychtujōm kryptopiniōndze, sōm zaszperowane
 protections-blocking-cookies-trackers =
     .title = Cookies elymyntōw, co śledzōm miyndzy strōnami, sōm zaszperowane
 protections-blocking-cookies-third-party =
@@ -56,6 +60,12 @@ protections-blocking-cookies-unvisited =
     .title = Cookies z niynawiydzōnych strōn sōm zaszperowane
 protections-blocking-tracking-content =
     .title = Sledzōnco zawartość je zaszperowano
+protections-blocking-social-media-trackers =
+    .title = Elymynta śledzōnce ôd społecznościowych serwisōw sōm zaszperowane
+protections-not-blocking-fingerprinters =
+    .title = Elymynta, co chytajōm ôdcisk przeglōndanio, niy sōm szperowane
+protections-not-blocking-cryptominers =
+    .title = Elymynta, co rychtujōm kryptopiniōndze, nie sōm szperowane
 protections-not-blocking-cookies-third-party =
     .title = Cookies z inkszych firmōw niy sōm szperowane
 protections-not-blocking-cookies-all =
@@ -64,9 +74,27 @@ protections-not-blocking-cross-site-tracking-cookies =
     .title = Cookies elymyntōw, co śledzōm miyndzy strōnami, niy sōm szperowane
 protections-not-blocking-tracking-content =
     .title = Śledzōnco zawartość niy ma szperowano
+protections-not-blocking-social-media-trackers =
+    .title = Elymynta śledzōnce ôd społecznościowych serwisōw niy sōm szperowane
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] Zaszperowany { $trackerCount } elymynt
+        [few] Zaszperowane { $trackerCount } elymynta
+       *[many] Zaszperowanych { $trackerCount } elymyntōw
+    }
+    .tooltiptext = Ôd { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] Aplikacyjo { -brand-short-name } zaszperowała { $trackerCount } śledzōncy elymynt ôd { DATETIME($date, year: "numeric", month: "long") }
+        [few] Aplikacyjo { -brand-short-name } zaszperowała wiyncyj jak { $trackerCount } śledzōnce elymynta ôd { DATETIME($date, year: "numeric", month: "long") }
+       *[many] Aplikacyjo { -brand-short-name } zaszperowała wiyncyj jak { $trackerCount } śledzōncych elymyntōw ôd { DATETIME($date, year: "numeric", month: "long") }
+    }
