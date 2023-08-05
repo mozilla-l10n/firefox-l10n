@@ -556,6 +556,8 @@ urlbar-result-action-search-w-engine = { $engine } 검색
 urlbar-result-action-sponsored = 스폰서
 urlbar-result-action-switch-tab = 탭 전환
 urlbar-result-action-visit = 방문
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = 클립보드에서 방문
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
