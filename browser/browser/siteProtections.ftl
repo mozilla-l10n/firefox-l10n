@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Nenhum detectado neste site
 content-blocking-cookies-blocking-trackers-label = Cookies de rastreamento entre sites
 content-blocking-cookies-blocking-third-party-label = Cookies de terceiros
 content-blocking-cookies-blocking-unvisited-label = Cookies de sites não visitados
