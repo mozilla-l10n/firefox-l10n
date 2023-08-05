@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = 要尋找更久之前的分�
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = 未於此裝置開啟分頁
