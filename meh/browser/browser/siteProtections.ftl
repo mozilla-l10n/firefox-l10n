@@ -43,3 +43,7 @@ protections-not-blocking-cookies-all =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter = { $trackerCount } Nasɨ
+    .tooltiptext = Nee { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
