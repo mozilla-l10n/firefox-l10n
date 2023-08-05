@@ -8,6 +8,15 @@ content-blocking-cookies-blocking-unvisited-label = Cookies de sites não visita
 content-blocking-cookies-blocking-all-label = Todos os cookies
 content-blocking-cookies-view-first-party-label = Cookies deste site
 content-blocking-cookies-view-trackers-label = Cookies de rastreamento entre sites
+content-blocking-cookies-view-third-party-label = Cookies de terceiros
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
+content-blocking-cookies-view-allowed-label =
+    .value = Permitido
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = Bloqueado
 # Variables:
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
