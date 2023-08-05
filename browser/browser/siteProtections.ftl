@@ -22,25 +22,70 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Մաքրել նշոցիկների բացառությունը { $domain }-ի համար
+tracking-protection-icon-active = Սոց մեդիայի հետևումների, միջակայքի նշոցիկների հետևման և մատնահետքերի արգելափակում։
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = Այս կայքի համար ընդլայնված հետևման պաշտպանությունը անջատված է։
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = Այս էջում { -brand-short-name }-ին հայտնի հետևումներ չեն հայտնաբերվել։
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
 ## Variables:
 ##   $host (String): the site's hostname
 
+# Header of the Protections Panel.
+protections-header = { $host }-ի պաշտպանությունները
+# Text that gets spoken by a screen reader if the button will disable protections.
+protections-disable =
+    .aria-label = Անջատել { $host }-ի պաշտպանությունները
+# Text that gets spoken by a screen reader if the button will enable protections.
+protections-enable =
+    .aria-label = Միացնել { $host }-ի պաշտպանությունները
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Մատնահետքերը արգելափակվել են
+protections-blocking-cryptominers =
+    .title = Գաղտնազերծիչը արգելափակված է
+protections-blocking-cookies-trackers =
+    .title = Միջակայքերի հետևումների նշոցիկները արգելափակվել են
+protections-blocking-cookies-third-party =
+    .title = Երրորդ կողմի նշոցիկները արգելափակվել են
+protections-blocking-cookies-all =
+    .title = Բոլոր նշոցիկները արգելափակվել են
+protections-blocking-cookies-unvisited =
+    .title = Չայցելված կայքի նշոցիկները արգելափակվել են
+protections-blocking-tracking-content =
+    .title = Հետևման բովանդակությունը արգելափակվել է
+protections-blocking-social-media-trackers =
+    .title = Սոց մեդիայի հետևումները արգելափակվել են
+protections-not-blocking-fingerprinters =
+    .title = Մատնահետքերը չեն արգելափակվում
+protections-not-blocking-cryptominers =
+    .title = Ծպտյալ արժեքները չեն արգելափակվում
+protections-not-blocking-cross-site-tracking-cookies =
+    .title = Միջակայքերի հետևման նշոցիկները չեն արգելափակվում
+protections-not-blocking-tracking-content =
+    .title = Հետևման բովանդակությունը չի արգելափակվել
+protections-not-blocking-social-media-trackers =
+    .title = Սոց մեդիայի հետևումները չեն արգելափակվել
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] 1 Արգելափակված
+       *[other] { $trackerCount } Արգելափակված
+    }
+    .tooltiptext = Սկսած { DATETIME($date, year: "numeric", month: "long", day: "numeric") }-ից
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
