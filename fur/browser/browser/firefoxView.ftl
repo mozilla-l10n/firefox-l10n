@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Par cjatâ schedis sieradis d
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nissune schede vierte in chest dispositîf
