@@ -5,6 +5,7 @@
 content-blocking-trackers-view-empty = Tidak ada yang terdeteksi di situs ini
 content-blocking-cookies-blocking-trackers-label = Kuki Pelacakan Lintas Situs
 content-blocking-cookies-blocking-third-party-label = Kuki Pihak Ketiga
+content-blocking-cookies-blocking-unvisited-label = Kuki Situs yang Tidak Dikunjungi
 content-blocking-cookies-blocking-all-label = Semua Kuki
 content-blocking-cookies-view-first-party-label = Dari Situs Ini
 content-blocking-cookies-view-trackers-label = Kuki Pelacakan Lintas Situs
@@ -21,10 +22,12 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Bersihkan pengecualian kuki untuk { $domain }
+tracking-protection-icon-active = Memblokir pelacak media sosial, kuki pelacakan lintas, dan pelacak sidik.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
+tracking-protection-icon-no-trackers-detected = Tidak ada pelacak yang dikenali { -brand-short-name } terdeteksi di laman ini.
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
@@ -42,12 +45,32 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-fingerprinters =
+    .title = Pelacak Sidik Diblokir
 protections-blocking-cryptominers =
     .title = Penambang Kripto Diblokir
+protections-blocking-cookies-trackers =
+    .title = Kuki Pelacakan Lintas Diblokir
 protections-blocking-cookies-third-party =
     .title = Kuki Pihak Ketiga Diblokir
 protections-blocking-cookies-all =
     .title = Semua Kuki Diblokir
+protections-blocking-cookies-unvisited =
+    .title = Kuki Situs yang Belum Dikunjungi Diblokir
+protections-blocking-tracking-content =
+    .title = Konten Pelacak Diblokir
+protections-blocking-social-media-trackers =
+    .title = Pelacak Media Sosial Diblokir
+protections-not-blocking-fingerprinters =
+    .title = Tidak Memblokir Pelacak Sidik
+protections-not-blocking-cryptominers =
+    .title = Tidak Memblokir Penambang Kripto
+protections-not-blocking-cross-site-tracking-cookies =
+    .title = Tidak Memblokir Kuki Pelacakan Lintas
+protections-not-blocking-tracking-content =
+    .title = Tidak Memblokir Konten Pelacak
+protections-not-blocking-social-media-trackers =
+    .title = Tidak Memblokir Pelacak Media Sosial
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
