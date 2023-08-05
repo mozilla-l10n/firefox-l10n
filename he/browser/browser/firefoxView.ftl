@@ -189,3 +189,7 @@ firefoxview-recentlyclosed-empty-description-two = כדי למצוא לשוני�
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = אין לשוניות פתוחות במכשיר הזה
