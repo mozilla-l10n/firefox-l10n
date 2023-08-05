@@ -25,6 +25,7 @@ content-blocking-cookies-view-remove-button =
 tracking-protection-icon-active = Memblokir pelacak media sosial, kuki pelacakan lintas, dan pelacak sidik.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
+tracking-protection-icon-disabled = Perlindungan Pelacakan yang Ditingkatkan NONAKTIF untuk situs ini.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
 tracking-protection-icon-no-trackers-detected = Tidak ada pelacak yang dikenali { -brand-short-name } terdeteksi di laman ini.
