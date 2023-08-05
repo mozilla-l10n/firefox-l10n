@@ -32,6 +32,8 @@ tracking-protection-icon-no-trackers-detected-container =
 ## Variables:
 ##   $host (String): the site's hostname
 
+# Header of the Protections Panel.
+protections-header = 保护状态：{ $host }
 # Text that gets spoken by a screen reader if the button will disable protections.
 protections-disable =
     .aria-label = 禁用对 { $host } 的保护
