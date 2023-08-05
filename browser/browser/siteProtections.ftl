@@ -39,6 +39,12 @@ protections-enable =
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
+protections-blocking-cookies-all =
+    .title = Блокирани сви колачићи
+protections-blocking-cookies-unvisited =
+    .title = Блокирани колачићи с непосећених сајтова
+protections-blocking-tracking-content =
+    .title = Блокиран садржај за праћење
 
 ## Footer and Milestones sections in the Protections Panel
 ## Variables:
