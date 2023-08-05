@@ -48,6 +48,8 @@ protections-enable =
 
 protections-blocking-fingerprinters =
     .title = Jedinstveni otisci su blokirani
+protections-blocking-cryptominers =
+    .title = Kripto-rudari su blokirani
 protections-blocking-cookies-trackers =
     .title = Kolačići za praćenje među web lokacijama blokirani
 protections-blocking-cookies-third-party =
