@@ -86,3 +86,9 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } Narán riñanj
     }
     .tooltiptext = Āsij { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } naran { $trackerCount } riña sa naga’nāj a āsìj { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } naran riña ga’ì { $trackerCount } sa naga’nāj a āsìj { DATETIME($date, year: "numeric", month: "long") }
+    }
