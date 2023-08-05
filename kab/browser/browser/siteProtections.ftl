@@ -2,8 +2,22 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+content-blocking-trackers-view-empty = Ulac-it deg usmel-a
 content-blocking-cookies-blocking-trackers-label = Inagan n tuqqna i uḍfaṛ gar yismal
+content-blocking-cookies-blocking-third-party-label = Inagan n tuqna n tɣawsiwin tis kraḍ
 content-blocking-cookies-blocking-unvisited-label = Inagan n tuqqna n yesmal ur yettwarzan ara
+content-blocking-cookies-blocking-all-label = Akk inagan n tuqqna
+content-blocking-cookies-view-first-party-label = Seg ismel-agi
+content-blocking-cookies-view-trackers-label = Inagan n tuqqna i uḍfaṛ gar yismal
+content-blocking-cookies-view-third-party-label = Inagan n tuqna n tɣawsiwin tis kraḍ
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
+content-blocking-cookies-view-allowed-label =
+    .value = Ittusireg
+# This label is shown next to a cookie origin in the cookies subview.
+# It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
+content-blocking-cookies-view-blocked-label =
+    .value = Iwḥel
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled-container =
@@ -60,3 +74,11 @@ protections-not-blocking-social-media-trackers =
 ##   $trackerCount (Number): number of trackers blocked
 ##   $date (Date): the date on which we started counting
 
+# This text indicates the total number of trackers blocked on all sites.
+# In its tooltip, we show the date when we started counting this number.
+protections-footer-blocked-tracker-counter =
+    { $trackerCount ->
+        [one] 1Iwḥel
+       *[other] { $trackerCount }Iwḥel
+    }
+    .tooltiptext = Si { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
