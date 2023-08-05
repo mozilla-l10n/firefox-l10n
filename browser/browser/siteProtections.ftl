@@ -89,3 +89,9 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } blokeret
     }
     .tooltiptext = siden { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
+protections-milestone =
+    { $trackerCount ->
+        [one] { -brand-short-name } har blokeret { $trackerCount } sporings-mekanisme siden { DATETIME($date, year: "numeric", month: "long") }
+       *[other] { -brand-short-name } har blokeret flere end { $trackerCount } sporings-mekanismer siden { DATETIME($date, year: "numeric", month: "long") }
+    }
