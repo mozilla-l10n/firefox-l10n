@@ -183,10 +183,12 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Egueru tembiasakue ambue kundaháragui
+firefoxview-import-history-description = Ejapo { -brand-short-name } ha’évo ne kundahára eipuruvévarõ. Egueru kundahára rembiasakue, techaukaha ha hetave.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = ¿Emboty pya’e tendayke?
+firefoxview-recentlyclosed-empty-description = Ko’ápe rejuhúta tendayke embotyramovéva, embojurujajey hag̃ua oimeraẽva embotyramova’ekue.
 
 ##
 
