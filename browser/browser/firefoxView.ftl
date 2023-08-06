@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Visa din <a data-l10n-name="h
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Inga flikar öppna på den här enheten
