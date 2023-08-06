@@ -94,7 +94,7 @@ protections-footer-blocked-tracker-counter =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] Od { DATETIME($date, year: "numeric", month: "long") } aplikácia { -brand-short-name } zablokovala jeden sledovací prvok
-        [few] Od { DATETIME($date, year: "numeric", month: "long") } aplikácia { -brand-short-name } zablokovala viac než { $trackerCount } sledovacie prvky
-       *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikácia { -brand-short-name } zablokovala viac než { $trackerCount } sledovacích prvkov
+        [one] Od { DATETIME($date, year: "numeric", month: "long") } zablokoval prehliadač { -brand-short-name } jeden sledovací prvok
+        [few] Od { DATETIME($date, year: "numeric", month: "long") } zablokoval prehliadač { -brand-short-name } viac než { $trackerCount } sledovacie prvky
+       *[other] Od { DATETIME($date, year: "numeric", month: "long") } zablokoval prehliadač { -brand-short-name } viac než { $trackerCount } sledovacích prvkov
     }

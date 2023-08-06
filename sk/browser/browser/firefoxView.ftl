@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Ak chcete nájsť karty z min
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Na tomto zariadení nie sú otvorené žiadne karty
