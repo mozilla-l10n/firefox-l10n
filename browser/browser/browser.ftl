@@ -563,6 +563,8 @@ urlbar-result-action-search-w-engine = { $engine } keresés
 urlbar-result-action-sponsored = Szponzorált
 urlbar-result-action-switch-tab = Váltás erre a lapra
 urlbar-result-action-visit = Keresse fel:
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Felkeresés a vágólapról
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
