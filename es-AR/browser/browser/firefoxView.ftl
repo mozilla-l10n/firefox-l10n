@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Para buscar pestañas de hace
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = No hay pestañas abiertas en este dispositivo
