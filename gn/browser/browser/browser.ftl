@@ -563,6 +563,8 @@ urlbar-result-action-search-w-engine = Eheka { $engine } ndive
 urlbar-result-action-sponsored = Pytyvõpyréva
 urlbar-result-action-switch-tab = Tendayképe jeguerova
 urlbar-result-action-visit = Jeho
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Eike nde kuatiajokoha guive
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
