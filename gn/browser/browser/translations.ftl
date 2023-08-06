@@ -150,6 +150,7 @@ translations-settings-title =
     .style = min-width: 36em
 translations-settings-close-key =
     .key = w
+translations-settings-always-translate-langs-description = Ñemoñe’ẽasa oikóta ijehegui ko’ã ñe’ẽnguérape g̃uarã
 translations-settings-never-translate-langs-description = Ñoñekuave’ẽmo’ãi ñe’ẽ’asa ko’ã ñe’ẽme g̃uarã
 translations-settings-never-translate-sites-description = Noñekuave’ẽmo’ãi moñe’ẽ’asa ko’ã ñandutirendápe g̃uarã
 translations-settings-languages-column =
