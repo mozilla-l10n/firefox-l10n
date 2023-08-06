@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Ha régebbi lapokat szeretne 
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nincsenek nyitott lapok ezen az eszközön
