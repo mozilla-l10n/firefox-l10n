@@ -193,3 +193,7 @@ firefoxview-recentlyclosed-empty-description-two = Til að finna flipa sem lengr
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Engir flipar opnir á þessu tæki
