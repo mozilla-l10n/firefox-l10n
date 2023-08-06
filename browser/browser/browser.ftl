@@ -560,6 +560,8 @@ urlbar-result-action-search-w-engine = { $engine } көмегімен іздеу
 urlbar-result-action-sponsored = Демеуленген
 urlbar-result-action-switch-tab = Бетке ауысу
 urlbar-result-action-visit = Шолу
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Алмасу буферінен сілтемені шолу
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
