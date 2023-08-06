@@ -189,9 +189,11 @@ firefoxview-import-history-description = Ejapo { -brand-short-name } ha’évo n
 
 firefoxview-recentlyclosed-empty-header = ¿Emboty pya’e tendayke?
 firefoxview-recentlyclosed-empty-description = Ko’ápe rejuhúta tendayke embotyramovéva, embojurujajey hag̃ua oimeraẽva embotyramova’ekue.
+firefoxview-recentlyclosed-empty-description-two = Eheka hag̃ua tendayke embotýva arevémava, ehecha <a data-l10n-name="history-url">ñeikundaha rembiasakue</a>.
 
 ##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Ndaipóri tendayke ijurujáva ko mba’e’okápe
