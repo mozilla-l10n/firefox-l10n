@@ -10,6 +10,14 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Přeloží tuto stránku (beta)
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext =
+        { -brand-shorter-name.case-status ->
+            [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "gen") } (Beta)
+           *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name } (Beta)
+        }
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -73,6 +81,11 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Zrušit
 translations-panel-learn-more-link = Zjistit více
+translations-panel-intro-header =
+    { -brand-shorter-name.case-status ->
+        [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "gen") } (Beta)
+       *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name } (Beta)
+    }
 translations-panel-intro-description = V zájmu ochrany vašeho soukromí překlady nikdy neopouštějí vaše zařízení. Nové jazyky a vylepšení již brzy!
 translations-panel-error-translating = Při překladu došlo k chybě. Zkuste to prosím znovu.
 translations-panel-error-load-languages = Nepodařilo se načíst jazyky
