@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Käännä sivu
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Käännä tämä sivu - Beeta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -54,6 +59,7 @@ translations-panel-translate-button-loading =
     .label = Odota…
 translations-panel-translate-cancel =
     .label = Peruuta
+translations-panel-learn-more-link = Lue lisää
 translations-panel-error-translating = Käännettäessä ilmeni ongelma. Yritä uudelleen.
 translations-panel-error-load-languages = Kielten lataus epäonnistui
 translations-panel-error-load-languages-hint = Tarkista Internet-yhteytesi ja yritä uudelleen.
@@ -115,6 +121,16 @@ translations-manage-language-delete-button =
     .accesskey = P
 translations-manage-error-download = Kielitiedostoja ladattaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-delete = Kielitiedostoja poistettaessa tapahtui virhe. Yritä uudelleen.
+translations-manage-language-install-button =
+    .label = Asenna
+translations-manage-language-install-all-button =
+    .label = Asenna kaikki
+    .accesskey = A
+translations-manage-language-remove-button =
+    .label = Poista
+translations-manage-language-remove-all-button =
+    .label = Poista kaikki
+    .accesskey = P
 translations-manage-error-list = Käännettävissä olevien kielten listan nouto epäonnistui. Päivitä sivu yrittääksesi uudelleen.
 translations-settings-title =
     .title = Käännösasetukset

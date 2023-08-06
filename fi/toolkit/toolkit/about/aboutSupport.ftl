@@ -77,6 +77,7 @@ app-basics-key-mozilla = Mozilla Location Service -avain
 app-basics-safe-mode = Vikasietotila
 app-basics-memory-size = Muistin koko (RAM)
 app-basics-disk-available = Levytilaa käytettävissä
+app-basics-pointing-devices = Osoitinlaitteet
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -400,3 +401,9 @@ support-remote-experiments-see-about-studies = Sivulta <a data-l10n-name="suppor
 support-remote-features-title = Etäominaisuudet
 support-remote-features-name = Nimi
 support-remote-features-status = Tila
+
+## Pointing devices
+
+pointing-device-mouse = Hiiri
+pointing-device-touchscreen = Kosketusnäyttö
+pointing-device-none = Ei osoitinlaitteita

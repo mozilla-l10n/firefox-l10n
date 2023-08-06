@@ -560,6 +560,8 @@ urlbar-result-action-search-w-engine = { $engine }-haku
 urlbar-result-action-sponsored = Sponsoroitu
 urlbar-result-action-switch-tab = Siirry välilehteen
 urlbar-result-action-visit = Avaa
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Siirry leikepöydällä olevaan osoitteeseen
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

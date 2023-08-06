@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Jos haluat etsi채 v채lilehti�
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Ei avoimia v채lilehti채 t채ll채 laitteella
