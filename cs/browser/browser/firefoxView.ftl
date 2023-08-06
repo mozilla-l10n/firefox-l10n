@@ -253,3 +253,7 @@ firefoxview-recentlyclosed-empty-description-two = Pokud chcete najít panely z 
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Na tomto zařízení nejsou otevřeny žádné panely
