@@ -189,3 +189,7 @@ firefoxview-recentlyclosed-empty-header = Claudeva tu un scheda troppo presto?
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nulle schedas aperte sur iste apparato

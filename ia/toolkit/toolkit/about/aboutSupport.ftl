@@ -19,6 +19,8 @@ support-addons-enabled = Activate
 support-addons-version = Version
 support-addons-id = ID
 legacy-user-stylesheets-enabled = Active
+legacy-user-stylesheets-stylesheet-types = Folios de stilo
+legacy-user-stylesheets-no-stylesheets-found = Nulle folios de stilo trovate
 security-software-title = Software de securitate
 security-software-type = Typo
 security-software-name = Nomine
@@ -78,6 +80,7 @@ app-basics-key-mozilla = Clave del servicio de localisation de Mozilla
 app-basics-safe-mode = Modo secur
 app-basics-memory-size = Dimension de memoria (RAM)
 app-basics-disk-available = Spatio de disco disponibile
+app-basics-pointing-devices = Indicante apparatos
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
