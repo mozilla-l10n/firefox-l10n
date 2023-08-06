@@ -91,7 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Исключения — Режим «Только HTTPS»
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Вы можете отключить Режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов. Исключения не распространяются на приватные окна.
-permissions-exceptions-https-only-desc2 = Вы можете отключить Режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов.
+permissions-exceptions-https-only-desc2 = Вы можете отключить режим «Только HTTPS» для определённых веб-сайтов. { -brand-short-name } не будет пытаться переключать соединение на защищённый HTTPS для этих сайтов.
 
 ## Exceptions - Pop-ups
 

@@ -25,7 +25,7 @@ firefoxview-tabpickup-step-signin-description = Чтобы просматрив�
 firefoxview-tabpickup-step-signin-primarybutton = Продолжить
 firefoxview-syncedtabs-signin-header = Захватывайте вкладки отовсюду
 firefoxview-syncedtabs-signin-description = Чтобы видеть свои вкладки везде, где вы используете { -brand-product-name }, войдите в свой аккаунт. Если у вас нет аккаунта, мы проведем вас через этапы регистрации.
-firefoxview-syncedtabs-signin-primarybutton = Войдите или зарегистририруйтесь
+firefoxview-syncedtabs-signin-primarybutton = Войдите или зарегистрируйтесь
 firefoxview-tabpickup-adddevice-header = Синхронизируйте { -brand-product-name } на своем телефоне или планшете
 firefoxview-tabpickup-adddevice-description = Загрузите { -brand-product-name } для мобильных устройств и выполните вход.
 firefoxview-tabpickup-adddevice-learn-how = Подробнее
@@ -38,7 +38,7 @@ firefoxview-tabpickup-synctabs-description = Разрешить { -brand-short-n
 firefoxview-tabpickup-synctabs-learn-how = Подробнее
 firefoxview-tabpickup-synctabs-primarybutton = Синхронизировать открытые вкладки
 firefoxview-syncedtabs-synctabs-header = Обновите настройки синхронизации
-firefoxview-syncedtabs-synctabs-description = Чтобы видеть вкладки с других устройств, вам необходимо синхронизировать открытые вкладки.
+firefoxview-syncedtabs-synctabs-description = Чтобы увидеть вкладки с других устройств, вам необходимо синхронизировать открытые вкладки.
 firefoxview-syncedtabs-synctabs-checkbox = Разрешить синхронизацию открытых вкладок
 firefoxview-tabpickup-fxa-admin-disabled-header = В вашей организации синхронизация отключена
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не может синхронизировать вкладки между устройствами, потому что ваш администратор отключил синхронизацию.
@@ -103,7 +103,7 @@ firefoxview-history-nav = История
     .title = История
 firefoxview-history-header = История
 firefoxview-history-context-delete = Удалить из истории
-    .accesskey = в
+    .accesskey = л
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -162,7 +162,7 @@ firefoxview-view-more-browsing-history = Увидеть больше из ист
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Вернуться обратно
-firefoxview-history-empty-description = По мере сёрфинга страницы, которые вы посещаете, будут перечисляться здесь.
+firefoxview-history-empty-description = По мере сёрфинга, страницы, которые вы посещаете, будут появляться здесь.
 firefoxview-history-empty-description-two = Защита вашей конфиденциальности лежит в основе того, что мы делаем. Вот почему вы можете контролировать активность, которую помнит { -brand-short-name }, в <a data-l10n-name="history-settings-url">настройках истории</a>.
 
 ##
@@ -187,13 +187,16 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Импорт истории из другого браузера
-firefoxview-import-history-description = Сделайте { -brand-short-name } своим любимым браузером. Импортируйте историю посещенных страниц, закладки и многое другое.
+firefoxview-import-history-description = Сделайте { -brand-short-name } своим любимым браузером. Импортируйте историю посещённых страниц, закладки и многое другое.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Слишком рано закрыли вкладку?
-firefoxview-recentlyclosed-empty-description = Здесь вы найдете вкладки, которые вы недавно закрыли, любую из них можно быстро открыть повторно.
+firefoxview-recentlyclosed-empty-description = Здесь вы найдете вкладки, которые вы недавно закрыли, и любую из них можно быстро снова открыть.
 firefoxview-recentlyclosed-empty-description-two = Чтобы найти более ранние вкладки, просмотрите <a data-l10n-name="history-url">историю посещённых страниц</a>.
 
 ##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
