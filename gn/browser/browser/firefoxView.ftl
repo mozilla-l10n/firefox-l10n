@@ -171,6 +171,7 @@ firefoxview-choose-browser-button = Eiporavo kundahára
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ndaipóri jehechaukarã
+firefoxview-dont-remember-history-empty-description = Ne rekoñemi ñemo’ã tuicha mba’e oréve g̃uarã. Upévare ikatu ehechameme tembiapo omomandu’áva { -brand-short-name }.
 
 ##
 
@@ -188,4 +189,7 @@ firefoxview-import-history-header = Egueru tembiasakue ambue kundaháragui
 firefoxview-recentlyclosed-empty-header = ¿Emboty pya’e tendayke?
 
 ##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
