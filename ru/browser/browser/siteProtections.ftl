@@ -13,7 +13,7 @@ content-blocking-cookies-view-third-party-label = Сторонние куки
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Allowed"
 content-blocking-cookies-view-allowed-label =
-    .value = Разрешено
+    .value = Разрешен
 # This label is shown next to a cookie origin in the cookies subview.
 # It forms the end of the (imaginary) sentence "www.example.com [was] Blocked"
 content-blocking-cookies-view-blocked-label =
@@ -94,7 +94,7 @@ protections-footer-blocked-tracker-counter =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] С { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } заблокировал { $trackerCount } трекер
+        [one] С { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } заблокировал более { $trackerCount } трекера
         [few] С { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } заблокировал более { $trackerCount } трекеров
        *[many] С { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } заблокировал более { $trackerCount } трекеров
     }

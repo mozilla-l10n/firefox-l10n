@@ -9,7 +9,7 @@ urlbar-translations-button =
 # not be translated, as it is a reflection of the un-localized BETA icon that is in the
 # panel.
 urlbar-translations-button2 =
-    .tooltiptext = Перевести эту страницу - Бета
+    .tooltiptext = Перевести эту страницу - Beta
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
@@ -138,14 +138,14 @@ translations-manage-language-install-button =
     .label = Установить
 translations-manage-language-install-all-button =
     .label = Установить все
-    .accesskey = ш
+    .accesskey = е
 translations-manage-language-remove-button =
     .label = Удалить
 translations-manage-language-remove-all-button =
     .label = Удалить все
-    .accesskey = у
-translations-manage-error-install = Возникла проблема с установкой языковых файлов. Пожалуйста, попробуйте еще раз.
-translations-manage-error-remove = Произошла ошибка при удалении языковых файлов. Пожалуйста, попробуйте еще раз.
+    .accesskey = и
+translations-manage-error-install = Возникла проблема с установкой языковых файлов. Пожалуйста, попробуйте ещё раз.
+translations-manage-error-remove = Произошла ошибка при удалении языковых файлов. Пожалуйста, попробуйте ещё раз.
 translations-manage-error-list = Не удалось получить список доступных языков для перевода. Обновите страницу, чтобы повторить попытку.
 translations-settings-title =
     .title = Настройки перевода
