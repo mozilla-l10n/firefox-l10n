@@ -26,7 +26,7 @@ text-action-copy-shortcut =
 # query parameters used to track users across sites.
 text-action-strip-on-share =
     .label = Скопировать без отслеживания сайтом
-    .accesskey = т
+    .accesskey = е
 text-action-paste =
     .label = Вставить
     .accesskey = с
