@@ -560,6 +560,8 @@ urlbar-result-action-search-w-engine = Ҷустуҷӯ тавассути { $engi
 urlbar-result-action-sponsored = Сарпарастӣ
 urlbar-result-action-switch-tab = Ба варақа гузаштан
 urlbar-result-action-visit = Боздид
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Тавассути ҳофизаи муваққатӣ боздид кунед
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

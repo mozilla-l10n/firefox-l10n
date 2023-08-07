@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Барои дидани ва�
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Дар ин дастгоҳ ягон варақаи кушода нест
