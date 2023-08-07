@@ -4,5 +4,11 @@
 
 webauthn-pin-invalid-short-prompt = PIN ndoikóiva. Eha’ãjey.
 webauthn-pin-required-prompt = Emoingemína PIN oikóva ne mba’e’okápe.
-
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
+       *[other] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
+    }
 webauthn-uv-invalid-short-prompt = Puruhára rechajey ndoikói. Eha’ã ag̃ave.
