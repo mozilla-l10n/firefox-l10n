@@ -571,6 +571,8 @@ urlbar-result-action-search-w-engine = Z { $engine } pytać
 urlbar-result-action-sponsored = Sponsorowany
 urlbar-result-action-switch-tab = K rajtarkej přeńć
 urlbar-result-action-visit = Wopytać
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Z mjezyskłada wopytać
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
