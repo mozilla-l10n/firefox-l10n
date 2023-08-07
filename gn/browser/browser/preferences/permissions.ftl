@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Ta’ãnga ñangarekoha
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Ñanduti renda kundaharape
     .accesskey = d
-
 permissions-block =
     .label = Joko
     .accesskey = B
-
 permissions-disable-etp =
     .label = Embojuaju oĩ’ỹva
     .accesskey = E
-
 permissions-session =
     .label = Emoneĩ Tembiapo ñepyrũ
     .accesskey = T
-
 permissions-allow =
     .label = Moneĩ
     .accesskey = A
-
 permissions-button-off =
     .label = Eipe’aite
     .accesskey = O
-
 permissions-button-off-temporarily =
     .label = Jepe’a sapy’agua
     .accesskey = T
-
 permissions-site-name =
     .label = Ñanduti renda
-
 permissions-status =
     .label = Tekotee
-
 permissions-remove =
     .label = Emboguete ñanduti renda
     .accesskey = R
-
 permissions-remove-all =
     .label = Emboguete opavave ñanduti renda
     .accesskey = E
-
 permission-dialog =
     .buttonlabelaccept = Moambue ñongatu
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Ijypykuéramo opaite ñanduti rendápe g̃uarã:
-
 permissions-searchbox =
     .placeholder = Ñandutirenda Jeheka
-
 permissions-capabilities-autoplay-allow =
     .label = Emoneĩ mba’epu ha ta’ãngamýi
 permissions-capabilities-autoplay-block =
     .label = Ejoko mba’epu
 permissions-capabilities-autoplay-blockall =
     .label = Ejoko mba’epu ha ta’ãngamýi
-
 permissions-capabilities-allow =
     .label = Moneĩ
 permissions-capabilities-block =
     .label = Jokoha
 permissions-capabilities-prompt =
     .label = Porandu Tapia
-
 permissions-capabilities-listitem-allow =
     .value = Moneĩ
 permissions-capabilities-listitem-block =
     .value = Jokoha
 permissions-capabilities-listitem-allow-session =
     .value = Tembiapópe g̃uarã moneĩ
-
 permissions-capabilities-listitem-off =
     .value = Mboguepyre
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Ykepegua – HTTPS ayvu añópe
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñanduti rendaitépe. { -brand-short-name } nomoambuemo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã. Umi ykepegua ndoipurúi ovetãnguéra ñemiguáva.
+permissions-exceptions-https-only-desc2 = Ikatu eipe’a HTTPS ayvu ñanduti peteĩva pegua. { -brand-short-name } nombohekopyahumo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Ñemboheko - Ñe’ẽataha Ñemoneĩ
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Ko’ã ñanduti renda ojerure peteĩ mba’e’oka mba’epu ñesẽrã. Eiporavokuaa mba’e ñanduti rendápepa oñemoneĩ ome’ẽvo mba’e’oka mba’epu ñesẽrã rehegua.
-
 permissions-exceptions-doh-window =
     .title = Ñanduti renda ykepeguáva DNS mba’erã HTTPS rehegua
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ndoipurumo’ãi DNS hekorosãva ko’ã tenda ha tendatee’ípe.
-
 permissions-doh-entry-field = Ehai ñanduti renda rendatee réra
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Mbojuaju
     .accesskey = A
-
 permissions-doh-col =
     .label = Tendatee
-
 permissions-doh-remove =
     .label = Mboguete
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = Emboguepaite
     .accesskey = e
