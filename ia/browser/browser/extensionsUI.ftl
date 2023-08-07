@@ -24,6 +24,7 @@ addon-post-install-message = { $addonName } ha essite addite.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Exequer { $addonName } sur sitos con restrictiones?
 webext-quarantine-confirmation-line-1 = Pro proteger tu datos iste extension non es permittite sur iste sito.
+webext-quarantine-confirmation-line-2 = Permitte iste extension si tu te fide que illo lege e modifica tu datos sur sitos limitate per { -vendor-short-name }.
 webext-quarantine-confirmation-allow =
     .label = Permitter
     .accesskey = P

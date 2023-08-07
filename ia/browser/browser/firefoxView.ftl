@@ -24,12 +24,14 @@ firefoxview-tabpickup-step-signin-header = Passar facilemente inter apparatos
 firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu telephono ci, primo aperi session o crea un conto.
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header = Recupera tu schedas ab ubique
+firefoxview-syncedtabs-signin-description = Pro vider tu schedas de ubicunque tu usa { -brand-product-name }, accede a tu conto. Si tu non ha un conto, nos te guidara per le passos pro inscriber te.
 firefoxview-syncedtabs-signin-primarybutton = Inscriber se o acceder
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
 firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
 firefoxview-syncedtabs-adddevice-header = Accede a { -brand-product-name } sur un tu altere apparato.
+firefoxview-syncedtabs-adddevice-description = Pro vider tu schedas de ubicunque tu usa { -brand-product-name }, accede sur tote tu apparatos. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Discoperi { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
 firefoxview-tabpickup-synctabs-description = Permitte a { -brand-short-name } de compartir schedas inter apparatos.
@@ -161,6 +163,7 @@ firefoxview-view-more-browsing-history = Vider altere chronologia de navigation
 
 firefoxview-history-empty-header = Retorna ubi tu era
 firefoxview-history-empty-description = Dum tu naviga, le paginas que tu visita sera listate ci.
+firefoxview-history-empty-description-two = Proteger tu confidentialitate es al corde de lo que nos face. Pro isto tu pote controlar le activitate que { -brand-short-name } rememora, in tu <a data-l10n-name="history-settings-url">parametros de chronologia</a>.
 
 ##
 
@@ -171,6 +174,8 @@ firefoxview-choose-browser-button = Seliger le navigator
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nihil a monstrar
+firefoxview-dont-remember-history-empty-description = Proteger tu confidentialitate es al corde de lo que nos face. Pro isto tu pote controlar le activitate que { -brand-short-name } rememora.
+firefoxview-dont-remember-history-empty-description-two = In base a tu actual parametros, { -brand-short-name } non rememora tu activitate quando tu naviga. Pro cambiar isto, <a data-l10n-name="history-settings-url-two">cambia tu parametros de chronologia pro rememorar lo</a>.
 
 ##
 
@@ -182,10 +187,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importar chronologia ab un altere navigator
+firefoxview-import-history-description = Rende { -brand-short-name } tu navigator predefinite. Importar chronologia de navigation, marcapaginas, e plus.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Claudeva tu un scheda troppo presto?
+firefoxview-recentlyclosed-empty-description = Ci tu trovara le schedas que tu recentemente claudeva, assi que facilemente tu pote reaperir los tote.
+firefoxview-recentlyclosed-empty-description-two = Pro trovar schedas de plus longe retro, vide tu <a data-l10n-name="history-url">chronologia de navigation</a>.
 
 ##
 

@@ -18,6 +18,7 @@ support-addons-type = Typo
 support-addons-enabled = Activate
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-title = Ancian folios de stilo de usator
 legacy-user-stylesheets-enabled = Active
 legacy-user-stylesheets-stylesheet-types = Folios de stilo
 legacy-user-stylesheets-no-stylesheets-found = Nulle folios de stilo trovate
@@ -409,4 +410,5 @@ support-remote-features-status = Stato
 
 pointing-device-mouse = Mus
 pointing-device-touchscreen = Schermo tactile
+pointing-device-pen-digitizer = Penna digitalisator
 pointing-device-none = Nulle dispositivo de punctage
