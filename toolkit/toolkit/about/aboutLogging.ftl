@@ -2,21 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
-## The following feature name must be treated as a brand.
-##
-## They cannot be:
-## - Transliterated.
-## - Translated.
-##
-## Declension should be avoided where possible, leaving the original
-## brand unaltered in prominent UI positions.
-##
-## For further details, consult:
-## https://mozilla-l10n.github.io/styleguides/mozilla_general/#brands-copyright-and-trademark
-
-##
-
 # This is the title of the page
 about-logging-title = აღრიცხვების შესახებ
 about-logging-page-title = აღრიცხვების მმართველი
@@ -46,11 +31,11 @@ about-logging-logging-preset-selector-text = აღრიცხვის მზ�
 
 about-logging-preset-networking-label = ქსელი
 about-logging-preset-networking-description = აღრიცხვის მოდულები ქსელის ხარვეზების გამოსავლენად
+about-logging-preset-networking-cookie-label = ფუნთუშები
 about-logging-preset-media-playback-label = ფაილის გაშვება
 about-logging-preset-media-playback-description = აღრიცხვის მოდულები ფაილთა გაშვებისას ხარვეზების გამოსავლენად (არ მოიცავს ვიდეოთათბირების ხარვეზებს)
 about-logging-preset-custom-label = მითითებული
 about-logging-preset-custom-description = აღრიცხვის მოდულები ხელითაა შერჩეული
-
 # Error handling
 about-logging-error = შეცდომა:
 
@@ -64,5 +49,4 @@ about-logging-unknown-profiler-preset = Profiler-ის დაუდგენე
 about-logging-unknown-option = დაუდგენელი about:logging-პარამეტრი „{ $k }“
 about-logging-configuration-url-ignored = გამართვის ბმული უგულებელყოფილია
 about-logging-file-and-profiler-override = შეუძლებელია ფაილში გამოტანის იძულება და Profilier-პარამეტრების ჩანაცვლება ერთდროულად
-
 about-logging-configured-via-url = პარამეტრი გამართულია ბმულის მეშვეობით
