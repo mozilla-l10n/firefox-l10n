@@ -160,18 +160,31 @@ firefoxview-view-more-browsing-history = სხვა მონახულე�
 
 firefoxview-history-empty-header = დაბრუნდი, სადაც იყავი
 firefoxview-history-empty-description = თვალიერებისას, მონახულებული გვერდები აქ აღინუსხება.
+firefoxview-history-empty-description-two = თქვენს პირადულობაზე ზრუნვა ჩვენი საქმიანობის მთავარი შემადგენელია. სწორედ ამიტომ თავად შეგიძლიათ განსაზღვროთ <a data-l10n-name="history-settings-url">ისტორიის პარამეტრებიდან</a>, რას დაიმახსოვრებს { -brand-short-name }.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = ბრაუზერის არჩევა
+    .title = ბრაუზერის არჩევა
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = არაფერია საჩვენებელი
+firefoxview-dont-remember-history-empty-description = თქვენს პირადულობაზე ზრუნვა ჩვენი საქმიანობის მთავარი შემადგენელია. სწორედ ამიტომ თავად შეგიძლიათ განსაზღვროთ, რას დაიმახსოვრებს { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = თქვენი ამჟამინდელი პარამეტრებით, { -brand-short-name } არ დაიხსომებს თქვენს მოქმედებებს გვერდების მონახულებისას. ცვლილებისთვის <a data-l10n-name="history-settings-url-two">მიუთითეთ ისტორიის პარამეტრებში მონახულებული გვერდების დამახსოვრება</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = დახურვა
+    .title = დახურვა
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = ისტორიის გადმოტანა სხვა ბრაუზერიდან
+firefoxview-import-history-description = აქციეთ { -brand-short-name } თქვენს ყოველდღიურ ბრაუზერად. გადმოიტანეთ გვერდების ისტორია, სანიშნები და სხვ.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
