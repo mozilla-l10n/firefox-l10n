@@ -13,7 +13,7 @@ urlbar-translations-button2 =
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
-    .tooltiptext = მოსინჯეთ თარგმნა პირადულობის დაცვით { -brand-shorter-name } – საცდელი Beta
+    .tooltiptext = მოსინჯეთ პირადი თარგმანი { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -31,7 +31,7 @@ translations-panel-settings-button =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-displayname-beta =
-    .label = { $language } ᲡᲐᲪᲓᲔᲚᲘ BETA
+    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
@@ -69,6 +69,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = გაუქმება
 translations-panel-learn-more-link = ვრცლად
+translations-panel-intro-header = მოსინჯეთ პირადული { -brand-shorter-name }-თარგმანები
+translations-panel-intro-description = პირადულობის დასაცავად თარგმანი მუდამ რჩება მოწყობილობაზე. ახალი ენები და სიახლეები მალე დაემატება!
 translations-panel-error-translating = ხარვეზი წარმოიშვა თარგმნისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-panel-error-load-languages = ვერ ჩაიტვირთა ენები
 translations-panel-error-load-languages-hint = შეამოწმეთ ქსელთან კავშირი და კვლავ სცადეთ.
@@ -77,6 +79,8 @@ translations-panel-error-load-languages-hint-button =
 translations-panel-error-unsupported = თარგმანი მიუწვდომელია ამ გვერდისთვის
 translations-panel-error-dismiss-button =
     .label = გასაგებია
+translations-panel-error-change-button =
+    .label = საწყისი ენის შეცვლა
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Sorry, we don't support the language yet: { $language }
@@ -91,6 +95,7 @@ translations-panel-error-unsupported-hint-unknown = სამწუხარო�
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = გადასათარგმნი
+translations-panel-to-label = თარგმნილი
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
