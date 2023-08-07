@@ -571,6 +571,8 @@ urlbar-result-action-search-w-engine = Z { $engine } pytaś
 urlbar-result-action-sponsored = Sponserowany
 urlbar-result-action-switch-tab = K rejtarikoju pśejś
 urlbar-result-action-visit = Woglědaś se
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Z mjazywótkłada woglědaś
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
