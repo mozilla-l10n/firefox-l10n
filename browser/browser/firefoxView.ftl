@@ -190,3 +190,7 @@ firefoxview-recentlyclosed-empty-description-two = Aby starše rejtariki namaka�
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Žedne rejtariki na toś tom rěźe wócynjone
