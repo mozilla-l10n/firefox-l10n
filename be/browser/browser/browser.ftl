@@ -567,6 +567,8 @@ urlbar-result-action-search-w-engine = Пошук з дапамогай { $engin
 urlbar-result-action-sponsored = Спонсарскі
 urlbar-result-action-switch-tab = Пераключыцца ў картку
 urlbar-result-action-visit = Наведаць
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Наведаць з буфера абмену
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
