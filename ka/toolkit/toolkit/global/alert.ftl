@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = შეტყობინების დახურვა
 alert-settings-title =
     .tooltiptext = პარამეტრები
+
+## Reminder Notifications
+
+notification-default-dismiss = აცილება

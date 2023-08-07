@@ -23,6 +23,9 @@ firefoxview-tabpickup-progress-label = { $percentValue }% შესრულე�
 firefoxview-tabpickup-step-signin-header = მოქნილად გადაერთეთ მოწყობილობებს შორის
 firefoxview-tabpickup-step-signin-description = თქვენი ტელეფონიდან ჩანართების გადმოსატანად ჯერ შექმენით ან შედით ანგარიშზე.
 firefoxview-tabpickup-step-signin-primarybutton = განაგრძეთ
+firefoxview-syncedtabs-signin-header = წამოიღეთ ჩანართები ნებისმიერი ადგილიდან
+firefoxview-syncedtabs-signin-description = თქვენი ჩანართების სანახავად, სადაც არ უნდა გამოიყენოთ { -brand-product-name }, შედით ანგარიშში. თუ არ გაქვთ ანგარიში, მის შესაქმნელად ნაბიჯ-ნაბიჯ გაგიძღვებით.
+firefoxview-syncedtabs-signin-primarybutton = შედით ან შექმენით ანგარიში
 firefoxview-tabpickup-adddevice-header = დაასინქრონეთ { -brand-product-name } თქვენს ტელეფონსა და პლანშეტზე
 firefoxview-tabpickup-adddevice-description = ჩამოტვირთეთ { -brand-product-name } მობილურზე და იქიდანაც შედით.
 firefoxview-tabpickup-adddevice-learn-how = იხილეთ, როგორ
@@ -190,9 +193,11 @@ firefoxview-import-history-description = აქციეთ { -brand-short-name 
 
 firefoxview-recentlyclosed-empty-header = ადრე დაგეხურათ ჩანართი?
 firefoxview-recentlyclosed-empty-description = აქ იხილავთ ბოლოს დახურულ ყველა ჩანართს, ასე რომ, სწრაფადვე შეგეძლებათ კვლავ გახსნა.
+firefoxview-recentlyclosed-empty-description-two = უფრო ადრინდელი ჩანართებისთვის იხილეთ <a data-l10n-name="history-url">მონახულებული გვერდების ისტორია</a>.
 
 ##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = ამ მოწყობილობაზე გახსნილი ჩანართები არაა
