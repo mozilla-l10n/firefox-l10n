@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = ზოგიერთი გაფართოება არაა ნებადართული
 unified-extensions-mb-quarantined-domain-message = მხოლოდ ზოგიერთი გაფართოება, რომელთაც { -vendor-short-name } ზედამხედველობს, ნებადართულია ამ საიტზე თქვენი მონაცემების უსაფრთხოებისთვის.
+unified-extensions-mb-quarantined-domain-message-2 = თქვენი მონაცემების დასაცავად ზოგიერთ გაფართოებას არ შეეძლება ამ საიტზე მონაცემების წაკითხვა ან შეცვლა. გაფართოების პარამეტრებიდან შეიძლება ნების დართვა საიტებზე, რომლებზეც ზღუდავს { -vendor-short-name }.
