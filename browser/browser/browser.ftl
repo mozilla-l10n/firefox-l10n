@@ -556,6 +556,8 @@ urlbar-result-action-search-w-engine = 使用 { $engine } 搜索
 urlbar-result-action-sponsored = 赞助项目
 urlbar-result-action-switch-tab = 切换到标签页
 urlbar-result-action-visit = 访问
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = 访问剪贴板中的网址
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
