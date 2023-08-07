@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Toś ten bok pśełožowaś
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Toś ten bok pśełožowaś – Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Wopytajśo priwatne pśełožki w { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Pšosym cakajśo…
 translations-panel-translate-cancel =
     .label = Pśetergnuś
+translations-panel-learn-more-link = Dalšne informacije
+translations-panel-intro-header = Wopytajśo priwatne pśełožki w { -brand-shorter-name }
+translations-panel-intro-description = Za wašu priwatnosć pśełožki waš rěd nigda njespušćaju. Nowe rěcy a pólěpšenja skóro pśidu!
 translations-panel-error-translating = Pśi pśełožowanju jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-panel-error-load-languages = Rěcy njedaju se zacytaś
 translations-panel-error-load-languages-hint = Pśeglědujśo swój internetny zwisk a wopytajśo hyšći raz.
@@ -120,6 +132,10 @@ translations-manage-language-delete-button =
     .accesskey = a
 translations-manage-error-download = Pśi ześěgowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-delete = Pśi lašowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
+translations-manage-intro = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline instalěrowane.
+translations-manage-install-description = Rěcy za pśełožowanje offline instalěrowaś
+translations-manage-language-install-button =
+    .label = Instalěrowaś
 translations-manage-error-list = Lisćina k dispoziciji stojecych rěcow za pśełožowanje njedajo se wótwołaś. Aktualizěrujśo bok a wopytajśo hyšći raz.
 translations-settings-title =
     .title = Pśełožowańske nastajenja
