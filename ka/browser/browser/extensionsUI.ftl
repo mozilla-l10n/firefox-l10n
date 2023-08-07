@@ -24,3 +24,10 @@ addon-post-install-message = { $addonName } დამატებულია.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = გაეშვას { $addonName } შეზღუდულ საიტებზე?
 webext-quarantine-confirmation-line-1 = თქვენი მონაცემების დასაცავად ეს გაფართოება არ გაეშვება ამ საიტზე.
+webext-quarantine-confirmation-line-2 = დართეთ ნება გაფართოებას, თუ სანდოდ მიგაჩნიათ მის მიერ თქვენი მონაცემების წაკითხვისა და შეცვლის შესაძლებლობა საიტებზე, რომელთაც ზღუდავს { -vendor-short-name }.
+webext-quarantine-confirmation-allow =
+    .label = ნებართვა
+    .accesskey = ნ
+webext-quarantine-confirmation-deny =
+    .label = აკრძალვა
+    .accesskey = ა
