@@ -14,6 +14,15 @@ urlbar-translations-button2 =
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
     .tooltiptext = მოსინჯეთ თარგმნა პირადულობის დაცვით { -brand-shorter-name } – საცდელი Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = გვერდის ენაა { $fromLanguage }, ნათარგმნი კი { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = ითარგმნება
 translations-panel-settings-button =
@@ -28,6 +37,9 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = ენების მართვა
+translations-panel-settings-about = { -brand-shorter-name }-თარგმანის შესახებ
+translations-panel-settings-about2 =
+    .label = { -brand-shorter-name }-თარგმანის შესახებ
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -78,11 +90,20 @@ translations-panel-error-unsupported-hint-unknown = სამწუხარო�
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = გადასათარგმნი
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = გვერდის ენა იყო { $fromLanguage }, ნათარგმნი კი { $toLanguage }
 translations-panel-choose-language =
     .label = ენის შერჩევა
 translations-panel-restore-button =
