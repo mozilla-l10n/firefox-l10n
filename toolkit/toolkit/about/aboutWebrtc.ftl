@@ -8,7 +8,6 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = Données internes de WebRTC
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = enregistrer about:webrtc sous
@@ -24,7 +23,6 @@ about-webrtc-aec-logging-msg-label = Journalisation AEC 
 about-webrtc-aec-logging-off-state-label = Démarrer la journalisation AEC
 about-webrtc-aec-logging-on-state-label = Arrêter la journalisation AEC
 about-webrtc-aec-logging-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
-
 about-webrtc-aec-logging-toggled-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -34,22 +32,16 @@ about-webrtc-aec-logging-toggled-off-state-msg = Les fichiers de journalisation 
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Actualisation automatique
-
 # Determines the default state of the Auto Refresh check boxes
 about-webrtc-auto-refresh-default-label = Actualisation automatique par défaut
-
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Actualiser
-
-
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = Identifiant PeerConnection:
-
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = Canaux de données ouverts :
-
 # The number of once open DataChannels that a PeerConnection has closed
 about-webrtc-data-channels-closed-label = Canaux de données fermés :
 
@@ -97,16 +89,15 @@ about-webrtc-type-remote = Distant
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = Nommé
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = Sélectionné
-
 about-webrtc-save-page-label = Enregistrer la page
 about-webrtc-debug-mode-msg-label = Mode débogage 
 about-webrtc-debug-mode-off-state-label = Démarrer le mode débogage
 about-webrtc-debug-mode-on-state-label = Arrêter le mode débogage
+about-webrtc-enable-logging-label = Activer la sélection de la journalisation WebRTC
 about-webrtc-stats-heading = Statistiques de session
 about-webrtc-stats-clear = Effacer l’historique
 about-webrtc-log-heading = Historique de connexion
@@ -115,7 +106,6 @@ about-webrtc-log-show-msg = afficher l’historique
     .title = cliquer pour développer cette section
 about-webrtc-log-hide-msg = masquer l’historique
     .title = cliquer pour réduire cette section
-
 about-webrtc-log-section-show-msg = Afficher l’historique
     .title = Cliquer pour développer cette section
 about-webrtc-log-section-hide-msg = Masquer l’historique
@@ -198,36 +188,26 @@ about-webrtc-pc-configuration-hide-msg = Masquer la configuration
 # An option whose value will not be displayed but instead noted as having been
 # provided
 about-webrtc-configuration-element-provided = Fourni
-
 # An option whose value will not be displayed but instead noted as having not
 # been provided
 about-webrtc-configuration-element-not-provided = Non fourni
-
 # The options set by the user in about:config that could impact a WebRTC call
 about-webrtc-custom-webrtc-configuration-heading = Préférences WebRTC définies par l’utilisateur ou l’utilisatrice
-
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Bande passante estimée
-
 # The ID of the MediaStreamTrack
 about-webrtc-track-identifier = Numéro de piste
-
 # The estimated bandwidth available for sending WebRTC media in bytes per second
 about-webrtc-send-bandwidth-bytes-sec = Débit montant (octets/s)
-
 # The estimated bandwidth available for receiving WebRTC media in bytes per second
 about-webrtc-receive-bandwidth-bytes-sec = Débit descendant (octets/s)
-
 # Maximum number of bytes per second that will be padding zeros at the ends of packets
 about-webrtc-max-padding-bytes-sec = Bourrage maximal (octets/s)
-
 # The amount of time inserted between packets to keep them spaced out
 about-webrtc-pacer-delay-ms = Délai d’espacement (ms)
-
 # The amount of time it takes for a packet to travel from the local machine to the remote machine,
 # and then have a packet return
 about-webrtc-round-trip-time-ms = RTT ms
-
 # This is a section heading for video frame statistics for a MediaStreamTrack.
 # see https://developer.mozilla.org/en-US/docs/Web/API/MediaStreamTrack.
 # Variables:
@@ -243,13 +223,13 @@ about-webrtc-save-page-msg = page enregistrée à l’emplacement suivant : { $
 about-webrtc-debug-mode-off-state-msg = le fichier de la trace est disponible à l’emplacement suivant : { $path }
 about-webrtc-debug-mode-on-state-msg = mode débogage actif, le fichier de la trace est disponible à l’emplacement suivant : { $path }
 about-webrtc-aec-logging-off-state-msg = les fichiers de journalisation capturés sont disponibles à l’emplacement suivant : { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Page enregistrée à l’emplacement suivant : { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Le fichier de la trace est disponible à l’emplacement suivant : { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Mode débogage actif, le fichier de la trace est disponible à l’emplacement suivant : { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -258,7 +238,6 @@ about-webrtc-frames =
         [one] { $frames } image
        *[other] { $frames } images
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -267,7 +246,6 @@ about-webrtc-channels =
         [one] { $channels } canal
        *[other] { $channels } canaux
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -276,7 +254,6 @@ about-webrtc-received-label =
         [one] Un paquet reçu
        *[other] { $packets } paquets reçus
     }
-
 # This is the total number of packets lost by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets lost.
@@ -285,7 +262,6 @@ about-webrtc-lost-label =
         [one] Un paquet perdu
        *[other] { $packets } paquets perdus
     }
-
 # This is the total number of packets sent by the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets sent.
@@ -294,13 +270,11 @@ about-webrtc-sent-label =
         [one] Un paquet envoyé
        *[other] { $packets } paquets envoyés
     }
-
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = Gigue { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -313,12 +287,10 @@ about-webrtc-trickle-caption-msg = Les candidats lents (arrivant après la répo
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-local = Définir SDP local à l’horodatage { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for remote SDP.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
 about-webrtc-sdp-set-at-timestamp-remote = Définir SDP distant à l’horodatage { NUMBER($timestamp, useGrouping: "false") }
-
 # This is used as a header for an SDP section contained in two columns allowing for side-by-side comparisons.
 # Variables:
 #  $timestamp (Number) - The Unix Epoch time at which the SDP was set.
@@ -337,6 +309,9 @@ about-webrtc-hide-msg-sdp = Masquer le SDP
 about-webrtc-media-context-show-msg = Afficher le contexte multimédia
 about-webrtc-media-context-hide-msg = Masquer le contexte multimédia
 about-webrtc-media-context-heading = Contexte multimédia
+
+##
+
 
 ##
 
