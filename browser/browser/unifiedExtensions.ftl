@@ -20,28 +20,24 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = მენიუს გახსნა – { $extensionName }
-
 unified-extensions-item-message-manage = გაფართოების მართვა
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = მიმაგრება ხელსაწყოთა ზოლზე
-
 unified-extensions-context-menu-manage-extension =
     .label = გაფართოების მართვა
-
 unified-extensions-context-menu-remove-extension =
     .label = გაფართოების ამოშლა
-
 unified-extensions-context-menu-report-extension =
     .label = გაფართოების გასაჩივრება
-
 unified-extensions-context-menu-move-widget-up =
     .label = აწევა
-
 unified-extensions-context-menu-move-widget-down =
     .label = ჩამოწევა
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = ზოგიერთი გაფართოება არაა ნებადართული
+unified-extensions-mb-quarantined-domain-message = მხოლოდ ზოგიერთი გაფართოება, რომელთაც { -vendor-short-name } ზედამხედველობს, ნებადართულია ამ საიტზე თქვენი მონაცემების უსაფრთხოებისთვის.
