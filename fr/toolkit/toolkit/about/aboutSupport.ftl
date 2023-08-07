@@ -410,4 +410,5 @@ support-remote-features-status = État
 
 pointing-device-mouse = Souris
 pointing-device-touchscreen = Écran tactile
+pointing-device-pen-digitizer = Stylet numériseur
 pointing-device-none = Aucun périphérique de pointage
