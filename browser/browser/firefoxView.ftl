@@ -188,6 +188,8 @@ firefoxview-import-history-description = აქციეთ { -brand-short-name 
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ადრე დაგეხურათ ჩანართი?
+firefoxview-recentlyclosed-empty-description = აქ იხილავთ ბოლოს დახურულ ყველა ჩანართს, ასე რომ, სწრაფადვე შეგეძლებათ კვლავ გახსნა.
 
 ##
 
