@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Адкрыць меню для { $extensionName }
-
 unified-extensions-item-message-manage = Кіраваць пашырэннем
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Замацаваць на паліцы прылад
-
 unified-extensions-context-menu-manage-extension =
     .label = Кіраваць пашырэннем
-
 unified-extensions-context-menu-remove-extension =
     .label = Выдаліць пашырэнне
-
 unified-extensions-context-menu-report-extension =
     .label = Паведаміць пра пашырэнне
-
 unified-extensions-context-menu-move-widget-up =
     .label = Рухаць угору
-
 unified-extensions-context-menu-move-widget-down =
     .label = Рухаць уніз
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Некаторыя пашырэнні не дазволены
 unified-extensions-mb-quarantined-domain-message = Для аховы вашых звестак на гэтым сайце дазволены толькі некаторыя пашырэнні, якія кантралююцца { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-message-2 = Каб абараніць вашы звесткі, некаторыя пашырэнні не могуць чытаць або змяняць дадзеныя на гэтым сайце. Выкарыстайце налады пашырэння, каб дазволіць яго на сайтах, абмежаваных { -vendor-short-name }.
