@@ -11,4 +11,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = არასწორი PIN. სცადეთ ხელახლა.
 webauthn-pin-required-prompt = შეიყვანეთ PIN თქვენი მოწყობილობისთვის.
-
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] მომხმარებლის დამოწმება ვერ მოხერხდა. დარჩენილია { $retriesLeft } მცდელობა. კვლავ სცადეთ.
+       *[other] მომხმარებლის დამოწმება ვერ მოხერხდა. დარჩენილია { $retriesLeft } მცდელობა. კვლავ სცადეთ.
+    }
+webauthn-uv-invalid-short-prompt = მომხმარებლის დამოწმება ვერ მოხერხდა. კვლავ სცადეთ.
