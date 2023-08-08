@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Prevedi stran
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Prevedi to stran – beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Preskusite zasebno prevajanje v { -brand-shorter-name(sklon: "mestnik") } – beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Počakajte …
 translations-panel-translate-cancel =
     .label = Prekliči
+translations-panel-learn-more-link = Več o tem
+translations-panel-intro-header = Preskusite zasebno prevajanje v { -brand-shorter-name(sklon: "mestnik") }
+translations-panel-intro-description = Zasebnost je zagotovljena, saj prevodi nikoli ne zapustijo vašega računalnika. Novi jeziki in izboljšave so na poti!
 translations-panel-error-translating = Pri prevajanju je prišlo do težave. Poskusite znova.
 translations-panel-error-load-languages = Jezikov ni bilo mogoče naložiti
 translations-panel-error-load-languages-hint = Preverite internetno povezavo in poskusite znova.
@@ -120,6 +132,19 @@ translations-manage-language-delete-button =
     .accesskey = I
 translations-manage-error-download = Pri prenašanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-delete = Pri brisanju datoteke z jezikom je prišlo do napake. Poskusite znova.
+translations-manage-intro = Upravljajte nastavitve prevajanja spletnih strani in jezike, nameščene za prevajanje brez povezave.
+translations-manage-install-description = Namestitev jezikov za prevajanje brez povezave
+translations-manage-language-install-button =
+    .label = Namesti
+translations-manage-language-install-all-button =
+    .label = Namesti vse
+    .accesskey = m
+translations-manage-language-remove-button =
+    .label = Odstrani
+translations-manage-language-remove-all-button =
+    .label = Odstrani vse
+    .accesskey = d
+translations-manage-error-install = Pri nameščanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-list = Seznama jezikov, ki jih je mogoče prevesti, ni bilo mogoče pridobiti. Osvežite stran in poskusite znova.
 translations-settings-title =
     .title = Nastavitve prevajanja
