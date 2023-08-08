@@ -14,7 +14,6 @@ xpinstall-prompt-message = თქვენ ცდილობთ დამატ
 
 xpinstall-prompt-header-unknown = ნებას რთავთ უცნობ საიტს, ჩადგას დამატება?
 xpinstall-prompt-message-unknown = თქვენ ცდილობთ დამატების ჩადგმას უცნობი საიტიდან. დარწმუნდით, რომ სანდო საიტია, სანამ განაგრძობთ.
-
 xpinstall-prompt-dont-allow =
     .label = აკრძალვა
     .accesskey = ა
@@ -45,7 +44,6 @@ xpinstall-disabled = პროგრამების ჩადგმა შე
 xpinstall-disabled-button =
     .label = ჩართვა
     .accesskey = ჩ
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,13 +52,16 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) შეზღუ�
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = თქვენი სისტემის ზედამხედველი უკრძალავს ამ საიტს თქვენს კომპიუტერში პროგრამის დაყენების მოთხოვნას.
 addon-install-full-screen-blocked = დამატების ჩადგმა დაუშვებელია სრული ეკრანის რეჟიმში ყოფნის ან შესვლის დროს.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } დაემატა { -brand-short-name }-ს
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } ითხოვს ახალ ნებართვებს
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = სრულდება გადმოტანილი გაფართოებების ჩადგმა – { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -72,7 +73,6 @@ addon-removal-title = მოცილდეს { $name }?
 addon-removal-message = { $name } გაფართოებას ამოშლის { -brand-shorter-name }, გნებავთ?
 addon-removal-button = ამოშლა
 addon-removal-abuse-report-checkbox = გაფართოებაზე საჩივარი { -vendor-short-name }-სთვის
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -81,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] { $addonCount } დამატების ჩამოტვირთვა და შემოწმება…
     }
 addon-download-verifying = შემოწმება
-
 addon-install-cancel-button =
     .label = გაუქმება
     .accesskey = გ
