@@ -50,6 +50,7 @@ pocket-panel-signup-cta-c-updated = ඕනෑම උපාංගයකින් 
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = සාදරයෙන් පිළිගනිමු
+pocket-panel-home-paragraph = ඔබට වියමන පිටු, ලිපි, දෘශ්‍යක, හඬප්‍රචාර පිරික්සීමට සහ සුරැකීමට, හෝ ඔබ කියවන දෑ වෙත ආපසු යාමට { -pocket-brand-name } භාවිතා කිරීමට හැකිය.
 pocket-panel-home-explore-popular-topics = ජනප්‍රිය මාතෘකා ගවේශනය
 pocket-panel-home-discover-more = තව සොයා ගන්න
 pocket-panel-home-explore-more = ගවේශනය
