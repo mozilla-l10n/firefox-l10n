@@ -161,6 +161,7 @@ firefoxview-view-more-browsing-history = Skoða meira af vafurferlinum
 
 firefoxview-history-empty-header = Fara aftur þangað sem þú varst
 firefoxview-history-empty-description = Þegar þú vafrar verða síðurnar sem þú heimsækir skráðar hér.
+firefoxview-history-empty-description-two = Að vernda friðhelgi þína er kjarninn í því sem við gerum. Þess vegna geturðu stjórnað hvaða virkni { -brand-short-name } kemur til með að muna í <a data-l10n-name="history-settings-url">vafurferlinu</a> þinu.
 
 ##
 
@@ -171,6 +172,7 @@ firefoxview-choose-browser-button = Veldu vafra
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ekkert til að sýna
+firefoxview-dont-remember-history-empty-description = Að vernda friðhelgi þína er kjarninn í því sem við gerum. Þess vegna geturðu stjórnað hvaða virkni { -brand-short-name } kemur til með að muna.
 firefoxview-dont-remember-history-empty-description-two = Miðað við núverandi stillingar þínar, mun { -brand-short-name } ekki skrá virkni þína við vafur. Til að breyta því, skaltu <a data-l10n-name="history-settings-url-two">breyta ferlistillingunum þínum í að muna vafrið þitt</a>.
 
 ##
