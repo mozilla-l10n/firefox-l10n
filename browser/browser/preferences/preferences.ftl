@@ -821,7 +821,7 @@ forms-breach-alerts =
     .accesskey = შ
 forms-breach-alerts-learn-more-link = ვრცლად
 preferences-relay-integration-checkbox =
-    .label = { -relay-brand-name } ელფოსტის ნიღბების შემოთავაზება საკუთარი მისამართის დასაცავად
+    .label = { -relay-brand-name } შემოთავაზება, დაიცვას ელფოსტა მისი შენიღბვით
 relay-integration-learn-more-link = ვრცლად
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
