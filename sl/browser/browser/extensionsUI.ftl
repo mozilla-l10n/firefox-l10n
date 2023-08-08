@@ -20,6 +20,11 @@ addon-post-install-message = Razširitev { $addonName } je bila dodana.
 
 ## A modal confirmation dialog to allow an extension on quarantined domains.
 
+# Variables:
+#   $addonName (String): localized name of the extension.
+webext-quarantine-confirmation-title = Dovolite delovanje razširitve { $addonName } na omejenih spletnih mestih?
+webext-quarantine-confirmation-line-1 = Zaradi zaščite vaših podatkov ta razširitev na tem spletnem mestu ni dovoljena.
+webext-quarantine-confirmation-line-2 = Če ji zaupate, ji lahko daste dovoljenje za branje in spreminjanje podatkov na spletnih mestih, kjer to omejuje { -vendor-short-name }.
 webext-quarantine-confirmation-allow =
     .label = Dovoli
     .accesskey = D
