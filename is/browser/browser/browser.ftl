@@ -563,6 +563,8 @@ urlbar-result-action-search-w-engine = Leita með { $engine }
 urlbar-result-action-sponsored = Kostað
 urlbar-result-action-switch-tab = Fara á flipa
 urlbar-result-action-visit = Heimsækja
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Heimsækja af klippispjaldinu þínu
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Undanþágur
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Vistfang vefsvæðis
     .accesskey = V
-
 permissions-block =
     .label = Loka á
     .accesskey = o
-
 permissions-disable-etp =
     .label = Bæta við undantekningu
     .accesskey = u
-
 permissions-session =
     .label = Leyfa í þessari vafralotu
     .accesskey = s
-
 permissions-allow =
     .label = Leyfa
     .accesskey = f
-
 permissions-button-off =
     .label = Slökkva á
     .accesskey = k
-
 permissions-button-off-temporarily =
     .label = Slökkva tímabundið
     .accesskey = t
-
 permissions-site-name =
     .label = Vefsvæði
-
 permissions-status =
     .label = Staða
-
 permissions-remove =
     .label = Fjarlægja vefsvæði
     .accesskey = R
-
 permissions-remove-all =
     .label = Fjarlægja öll vefsvæði
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Vista breytingar
     .buttonaccesskeyaccept = V
-
 permissions-autoplay-menu = Sjálfgefið fyrir öll vefsvæði:
-
 permissions-searchbox =
     .placeholder = Leita á vefsvæði
-
 permissions-capabilities-autoplay-allow =
     .label = Leyfa hljóð og myndskeið
 permissions-capabilities-autoplay-block =
     .label = Loka á hljóð
 permissions-capabilities-autoplay-blockall =
     .label = Loka á hljóð og myndskeið
-
 permissions-capabilities-allow =
     .label = Leyfa
 permissions-capabilities-block =
     .label = Loka á
 permissions-capabilities-prompt =
     .label = Spyrja alltaf
-
 permissions-capabilities-listitem-allow =
     .value = Leyfa
 permissions-capabilities-listitem-block =
     .value = Loka á
 permissions-capabilities-listitem-allow-session =
     .value = Leyfa í þessari vafralotu
-
 permissions-capabilities-listitem-off =
     .value = Slökkt
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Undantekningar - Einungis-HTTPS-hamur
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður. Undantekningar eiga ekki við um huliðsglugga.
+permissions-exceptions-https-only-desc2 = Þú getur slökkt á Einungis-HTTPS-ham fyrir tilteknar vefsíður. { -brand-short-name } mun ekki reyna að uppfæra tenginguna til að tryggja HTTPS fyrir þessar síður.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Stillingar - Leyfi fyrir hátalara
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Eftirfarandi vefsvæði hafa beðið um að fá að velja hljóðúttakstæki. Þú getur skilgreint hvaða vefsvæði hafi heimild til að velja hljóðúttakstæki.
-
 permissions-exceptions-doh-window =
     .title = Undantekningar á vefsvæðum fyrir DNS yfir HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } mun ekki nota öruggt DNS á þessum vefsvæðum og undirlénum þeirra.
-
 permissions-doh-entry-field = Settu inn lén vefsvæðisins
     .accesskey = l
-
 permissions-doh-add-exception =
     .label = Bæta við
     .accesskey = a
-
 permissions-doh-col =
     .label = Lén
-
 permissions-doh-remove =
     .label = Fjarlægja
     .accesskey = r
-
 permissions-doh-remove-all =
     .label = Fjarlægja allt
     .accesskey = F
