@@ -1204,7 +1204,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS-ის HTTPS-ით გადაცემა
-preferences-doh-description = საიტთა სახელების (DNS) მომსახურების HTTPS-ით გატარებისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული არხით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
+preferences-doh-description = საიტთა სახელების გადამყვანი (DNS) მომსახურების HTTPS-ით გატარებისას საიტის მისამართის მოთხოვნები იგზავნება დაშიფრული არხით, შედეგად იქმნება დაცული DNS და გარეშე პირებს უძნელდებათ გაარკვიონ, რომელ ვებსაიტებთან ცდილობთ წვდომას.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = მდგომარეობა: { $status }
@@ -1227,21 +1227,21 @@ preferences-doh-setting-default =
     .label = ნაგულისხმევი უსაფრთხოება
     .accesskey = ნ
 preferences-doh-default-desc = { -brand-short-name } წყვეტს, როდის გამოიყენოს დაცული DNS თქვენი პირადულობისთვის.
-preferences-doh-default-detailed-desc-1 = გამოიყენება DNS იმ მხარეში, სადაც ხელმისაწვდომია
-preferences-doh-default-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი, თუ ხარვეზითაა დაცული DNS-ის მომწოდებელი
-preferences-doh-default-detailed-desc-3 = ადგილობრივი მომწოდებელი, როცა კი შესაძლებელია
+preferences-doh-default-detailed-desc-1 = გამოიყენებს დაცულ DNS იმ მხარეში, სადაც ხელმისაწვდომია
+preferences-doh-default-detailed-desc-2 = ამჯობინებს ნაგულისხმევ DNS-ს, თუ ხარვეზითაა დაცული DNS
+preferences-doh-default-detailed-desc-3 = გამოიყენებს ადგილობრივ მომწოდებელს, როცა შესაძლებელია
 preferences-doh-default-detailed-desc-4 = გამოირთვება, როცა VPN, მშობლის ზედამხედველობა ან დაწესებულების დებულებებია ამოქმედებული
-preferences-doh-default-detailed-desc-5 = გამოირთვება, როცა ქსელშია მითითება, რომ { -brand-short-name } არ იყენებდეს დაცულ DNS-ს.
+preferences-doh-default-detailed-desc-5 = გამორთავს, თუ ქსელის მითითებით { -brand-short-name } არ უნდა იყენებდეს დაცულ DNS-ს.
 preferences-doh-setting-enabled =
     .label = გაზრდილი უსაფრთხოება
     .accesskey = გ
-preferences-doh-enabled-desc = თავად საზღვრავთ, როდის გამოიყენოთ დაცული DNS და ირჩევთ მომწოდებელს.
+preferences-doh-enabled-desc = თავად საზღვრავთ, როდის გამოიყენოს დაცული DNS და ირჩევთ მომწოდებელს.
 preferences-doh-enabled-detailed-desc-1 = გამოიყენება თქვენი შერჩეული მომწოდებელი
-preferences-doh-enabled-detailed-desc-2 = გამოიყენება ნაგულისხმევი DNS-გადამყვანი მხოლოდ მაშინ, თუ ხარვეზითაა დაცული DNS-ის მომწოდებელი
+preferences-doh-enabled-detailed-desc-2 = ამჯობინებს ნაგულისხმევ DNS-ს მხოლოდ მაშინ, თუ ხარვეზითაა დაცული DNS
 preferences-doh-setting-strict =
     .label = უმაღლესი უსაფრთხოება
     .accesskey = უ
-preferences-doh-strict-desc = { -brand-short-name } ყოველთვის გამოიყენებს დაცულ DNS-ს. იხილავთ საშიშროების შესახებ გაფრთხილებას სისტემის DNS-ის გამოყენებამდე.
+preferences-doh-strict-desc = { -brand-short-name } ყოველთვის გამოიყენებს დაცულ DNS-ს. იხილავთ საშიშროების შესახებ გაფრთხილებას დაუცველ DNS-ზე გადასვლამდე.
 preferences-doh-strict-detailed-desc-1 = გამოიყენება მხოლოდ თქვენი შერჩეული მომწოდებელი
 preferences-doh-strict-detailed-desc-2 = ყოველთვის გამოჩნდება გაფრთხილება, როცა დაცული DNS მიუწვდომელია
 preferences-doh-strict-detailed-desc-3 = თუ დაცული DNS მიუწვდომელია, საიტები არ ჩაიტვირთება ან სათანადოდ ვერ იმუშავებს
