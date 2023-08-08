@@ -94,6 +94,8 @@ fx100-upgrade-thanks-header = 100 Pwoc-Botwu
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
+# Title used on multistage onboarding page for existing users when Firefox is not pinned
+mr2022-onboarding-existing-pin-header = Pwoc boti pi maro { -brand-product-name }
 
 ## MR2022 New User Set Default screen strings
 
