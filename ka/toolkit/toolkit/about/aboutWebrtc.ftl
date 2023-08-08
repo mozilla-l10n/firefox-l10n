@@ -127,6 +127,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (და�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = გაგზავნა / მიღება: { $codecs }
+about-webrtc-short-send-direction = გაგზავნა: { $codecs }
+about-webrtc-short-receive-direction = მიღება: { $codecs }
 
 ##
 
