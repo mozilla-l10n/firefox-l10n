@@ -365,8 +365,9 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = დროებით გამორთ.
 identity-https-only-info-turn-on2 = ჩართეთ მხოლოდ-HTTPS-რეჟიმი და { -brand-short-name } შეეცდება უსაფრთხო კავშირზე გადაყვანას, შესაძლო შემთხვევებში.
-identity-https-only-info-turn-off2 = თუ გვერდს ხარვეზები ექნება, დაგჭირდებათ მხოლოდ-HTTPS-რეჟიმის გამორთვა ამ საიტისთვის და გვერდის არასაიმედო HTTP-ით ჩატვირთვა.
+identity-https-only-info-turn-off2 = თუ გვერდს ხარვეზები ექნება, დაგჭირდებათ მხოლოდ-HTTPS-რეჟიმის გამორთვა ამ საიტისთვის და გვერდის დაუცველი HTTP-ით ჩატვირთვა.
 identity-https-only-info-turn-on3 = ჩართეთ HTTPS-გადაყვანა ამ საიტისთვის, თუ გსურთ, რომ { -brand-short-name } შეეცადოს უსაფრთხო კავშირზე გადასვლას შესაძლო შემთხვევებში.
+identity-https-only-info-turn-off3 = თუ გვერდს ხარვეზები ექნება, დაგჭირდებათ HTTPS-გადასვლის გამორთვა ამ საიტისთვის და გვერდის დაუცველი HTTP-ით ჩატვირთვა.
 identity-https-only-info-no-upgrade = ვერ ხერხდება გადასვლა HTTP-დან.
 identity-permissions-storage-access-header = საიტთაშორისი ფუნთუშები
 identity-permissions-storage-access-hint = ამ მხარეებს შეუძლია გამოიყენოს საიტთაშორისი ფუნთუშები და მონაცემები, სანამ ამ საიტზე ხართ.
@@ -559,6 +560,8 @@ urlbar-result-action-search-w-engine = { $engine } ძიება
 urlbar-result-action-sponsored = დაფინანსებული
 urlbar-result-action-switch-tab = ჩანართზე გადასვლა
 urlbar-result-action-visit = მონახულება
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = აღებულ ბმულზე გადასვლა
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -903,6 +906,11 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = გაფართოებები
+    .tooltiptext =
+        გაფართოებები
+        ზოგი გაფართოება არაა ნებადართული
 
 ## Autorefresh blocker
 
