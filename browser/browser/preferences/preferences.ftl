@@ -580,7 +580,7 @@ home-prefs-sections-rows-option =
 
 search-bar-header = ძიების ველი
 search-bar-hidden =
-    .label = მისამართების ერთიანი ველი, ძიებისა და გვერდებზე გადაადგილებისთვის
+    .label = მისამართების ერთიანი ველი ძიებისა და გვერდებზე გადაადგილებისთვის
 search-bar-shown =
     .label = ძიების ველის დამატება ხელსაწყოთა ზოლზე
 search-engine-default-header = ნაგულისხმევი საძიებო სისტემა
@@ -608,13 +608,13 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = ძიების შემოთავაზებების მონახულებული გვერდების ისტორიაზე წინ გამოჩენა მისამართების ველის შედეგებში
+    .label = ძიების შემოთავაზების უკვე მონახულებულზე წინ გამოჩენა შედეგებში
 search-show-suggestions-private-windows =
     .label = ძიების შემოთავაზებების ჩვენება პირად ფანჯრებში
 suggestions-addressbar-settings-generic2 = პარამეტრები, მისამართების ველის სხვა შემოთავაზებებისთვის
 search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 search-one-click-header2 = ძიების მალსახმობები
-search-one-click-desc = მიუთითეთ სათადარიგო საძიებო სისტემები, რომლებიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ, საძებნი ფრაზის აკრეფისას.
+search-one-click-desc = მიუთითეთ სათადარიგო საძიებოები, რომლებიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ საძებნი ფრაზის აკრეფისას.
 search-choose-engine-column =
     .label = საძიებო სისტემა
 search-choose-keyword-column =
@@ -934,7 +934,7 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-tracking-cookies =
     .label = საიტთაშორისი მეთვალყურე ფუნთუშები
 sitedata-option-block-cross-site-cookies =
-    .label = საიტთაშორისი მეთვალყურე ფუნთუშები, სხვა ფუნთუშების გამიჯვნით
+    .label = საიტთაშორისი მეთვალყურე ფუნთუშები დანარჩენი ფუნთუშების გამიჯვნით
 sitedata-option-block-unvisited =
     .label = ფუნთუშები მოუნახულებელი საიტებიდან
 sitedata-option-block-all-cross-site-cookies =
@@ -954,7 +954,7 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = ფუნთუშის მოთხოვნების შემცირება
-cookie-banner-handling-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
+cookie-banner-handling-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების არჩევის ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
 cookie-banner-learn-more = ვრცლად
 forms-handle-cookie-banners =
     .label = შეამცირეთ ფუნთუშის მოთხოვნები
@@ -1016,9 +1016,9 @@ content-blocking-etp-strict-desc = მძლავრი დაცვა, თუ
 content-blocking-etp-custom-desc = აირჩიეთ, რომელი მეთვალყურე საშუალებები შეიზღუდოს
 content-blocking-etp-blocking-desc = { -brand-short-name } ზღუდავს შემდეგს:
 content-blocking-private-windows = მეთვალყურე შიგთავსი პირად ფანჯრებში
-content-blocking-cross-site-cookies-in-all-windows2 = საიტთაშორისი ფუნთუშები ყველა ფანჯარებში
+content-blocking-cross-site-cookies-in-all-windows2 = საიტთაშორისი ფუნთუშები ყველა ფანჯარაში
 content-blocking-cross-site-tracking-cookies = საიტთაშორისი მეთვალყურე ფუნთუშები
-content-blocking-all-cross-site-cookies-private-windows = საიტთაშორისი ფუნთუშები პირად ფანჯარებში
+content-blocking-all-cross-site-cookies-private-windows = საიტთაშორისი ფუნთუშები პირად ფანჯრებში
 content-blocking-cross-site-tracking-cookies-plus-isolate = საიტთაშორისი მეთვალყურე ფუნთუშები, დანარჩენი ფუნთუშების გამიჯვნით
 content-blocking-social-media-trackers = სოციალური ქსელის მეთვალყურეები
 content-blocking-all-cookies = ყველა ფუნთუშა
