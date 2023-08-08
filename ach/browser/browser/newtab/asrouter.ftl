@@ -11,15 +11,11 @@ cfr-doorhanger-extension-heading = Lamed ma kicwako
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pi ngo atye kaneno man
-
 cfr-doorhanger-extension-cancel-button = Pe kombedi
     .accesskey = P
-
 cfr-doorhanger-extension-ok-button = Med kombedi
     .accesskey = M
-
 cfr-doorhanger-extension-learn-more-link = Nong ngec mapol
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -28,9 +24,6 @@ cfr-doorhanger-extension-author = ki { $name }
 ## Add-on statistics
 ## These strings are used to display the total number of
 ## users and rating for an add-on. They are shown next to each other.
-
-
-## Cookie Banner Handling Onboarding
 
 
 ## Firefox Accounts Message
@@ -48,7 +41,6 @@ cfr-protections-panel-link-text = Nong ngec mapol
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Jami manyen:
-
 cfr-whatsnew-button =
     .label = Ngo Manyen
     .tooltiptext = Ngo Manyen
@@ -65,12 +57,7 @@ cfr-doorhanger-milestone-close-button = Lor
 cfr-doorhanger-doh-secondary-button = Juki
     .accesskey = J
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
-
-
-## Spotlight modal shared strings
 
 
 ## VPN promotion dialog for public Wi-Fi users
@@ -79,8 +66,6 @@ cfr-doorhanger-doh-secondary-button = Juki
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
 
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -103,7 +88,6 @@ cfr-doorhanger-doh-secondary-button = Juki
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Yab { -brand-shorter-name } Kombedi
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -112,10 +96,15 @@ mr2022-background-update-toast-secondary-button-label = Poo wiya Lacen
 
 ## Firefox View CFR
 
+firefoxview-cfr-primarybutton = Tem kombedi
+    .accesskey = T
+firefoxview-cfr-secondarybutton = Pe kombedi
+    .accesskey = P
 firefoxview-cfr-header-v2 = Cak oyot ki kama i giko iyie ni
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = Wac irii bot { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Nen kit ma tiyo kwede
 firefoxview-spotlight-promo-secondarybutton = Kal
 
@@ -127,9 +116,17 @@ firefoxview-spotlight-promo-secondarybutton = Kal
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
+
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
+
 
 ## FxA sync CFR
 
+fxa-sync-cfr-primary = Nong ngec mapol
+    .accesskey = N
+fxa-sync-cfr-secondary = Poo wiya Lacen
+    .accesskey = P
+
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Itye ka tic ki nyonyo ma otii?
