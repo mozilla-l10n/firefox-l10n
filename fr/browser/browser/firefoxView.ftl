@@ -163,6 +163,7 @@ firefoxview-view-more-browsing-history = Afficher plus d’historique de navigat
 
 firefoxview-history-empty-header = Reprenez là où vous en étiez
 firefoxview-history-empty-description = Au cours de votre navigation, les pages visitées seront répertoriées ici.
+firefoxview-history-empty-description-two = La protection de votre vie privée est notre priorité. C’est la raison pour laquelle vous pouvez contrôler les activités dont { -brand-short-name } garde trace dans vos <a data-l10n-name="history-settings-url">paramètres d’historique</a>.
 
 ##
 
@@ -173,6 +174,7 @@ firefoxview-choose-browser-button = Choisir le navigateur
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Rien à afficher
+firefoxview-dont-remember-history-empty-description = La protection de votre vie privée est notre priorité. C’est la raison pour laquelle vous pouvez contrôler les activités dont { -brand-short-name } garde trace.
 firefoxview-dont-remember-history-empty-description-two = D’après vos paramètres actuels, { -brand-short-name } ne conserve aucune trace de vos activités de navigation. Pour changer cela, <a data-l10n-name="history-settings-url-two">modifiez vos paramètres d’historique pour conserver votre historique de navigation</a>.
 
 ##
