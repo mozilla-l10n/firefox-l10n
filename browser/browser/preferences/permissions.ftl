@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = გამონაკლისები
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = საიტის მისამართი
     .accesskey = მ
-
 permissions-block =
     .label = აკრძალვა
     .accesskey = კ
-
 permissions-disable-etp =
     .label = გამონაკლისის დამატება
     .accesskey = კ
-
 permissions-session =
     .label = სეანსზე დაშვება
     .accesskey = ს
-
 permissions-allow =
     .label = დაშვება
     .accesskey = დ
-
 permissions-button-off =
     .label = გამორთვა
     .accesskey = ო
-
 permissions-button-off-temporarily =
     .label = გამორთვა დროებით
     .accesskey = დ
-
 permissions-site-name =
     .label = საიტი
-
 permissions-status =
     .label = მდგომარეობა
-
 permissions-remove =
     .label = საიტის მოცილება
     .accesskey = მ
-
 permissions-remove-all =
     .label = ყველა საიტის მოცილება
     .accesskey = ყ
-
 permission-dialog =
     .buttonlabelaccept = ცვლილებების შენახვა
     .buttonaccesskeyaccept = შ
-
 permissions-autoplay-menu = ნაგულისხმევი ყველა საიტისთვის:
-
 permissions-searchbox =
     .placeholder = საიტის ძიება
-
 permissions-capabilities-autoplay-allow =
     .label = ხმისა და ვიდეოს დაშვება
 permissions-capabilities-autoplay-block =
     .label = ხმის შეზღუდვა
 permissions-capabilities-autoplay-blockall =
     .label = ხმისა და ვიდეოს შეზღუდვა
-
 permissions-capabilities-allow =
     .label = ნებადართული
 permissions-capabilities-block =
     .label = შეზღუდული
 permissions-capabilities-prompt =
     .label = შეკითხვა ყოველ ჯერზე
-
 permissions-capabilities-listitem-allow =
     .value = ნებადართული
 permissions-capabilities-listitem-block =
     .value = შეზღუდული
 permissions-capabilities-listitem-allow-session =
     .value = ნებადართული ამ სეანსზე
-
 permissions-capabilities-listitem-off =
     .value = გამორთ.
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = გამონაკლისები – მხოლოდ-HTTPS-რეჟიმი
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = მხოლოდ-HTTPS-რეჟიმი შეგიძლიათ გამორთოთ ცალკეულ საიტებზე. { -brand-short-name } აღარ შეეცდება კავშირის გადაყვანას დაცულ HTTPS-ზე ამ საიტებისთვის. გამონაკლისები არ შეეხება პირად ფანჯრებს.
+permissions-exceptions-https-only-desc2 = მხოლოდ HTTPS რეჟიმი შეგიძლიათ გამორთოთ ცალკეულ საიტებზე. { -brand-short-name } აღარ შეეცდება კავშირის გადაყვანას დაცულ HTTPS-ზე ამ საიტებისთვის.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = პარამეტრები – ხმამაღლამოლაპარაკესთან წვდომის ნებართვები
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = მოცემული ვებსაიტები ითხოვს ხმის გამომტან მოწყობილობასთან წვდომის ნებართვას. შეგიძლიათ მიუთითოთ ნებადართული საიტები, რომლებსაც შეეძლება ხმის გამომტანის არჩევა.
-
 permissions-exceptions-doh-window =
     .title = გამონაკლისები DNS-ის HTTPS-ით გადაცემისას
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } არ გამოიყენებს დაცულ DNS-ს ამ საიტებსა და მათს ქვეჯგუფზე.
-
 permissions-doh-entry-field = შეიყვანეთ საიტის ჯგუფის სახელი
     .accesskey = ჯ
-
 permissions-doh-add-exception =
     .label = დამატება
     .accesskey = დ
-
 permissions-doh-col =
     .label = ჯგუფი
-
 permissions-doh-remove =
     .label = მოცილება
     .accesskey = ც
-
 permissions-doh-remove-all =
     .label = ყველას მოცილება
     .accesskey = ყ
