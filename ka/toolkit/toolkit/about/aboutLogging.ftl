@@ -32,8 +32,15 @@ about-logging-logging-preset-selector-text = აღრიცხვის მზ�
 about-logging-preset-networking-label = ქსელი
 about-logging-preset-networking-description = აღრიცხვის მოდულები ქსელის ხარვეზების გამოსავლენად
 about-logging-preset-networking-cookie-label = ფუნთუშები
+about-logging-preset-networking-cookie-description = მოდულების აღრიცხვა ფუნთუშების ხარვეზების გამოსავლენად
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = მოდულების აღრიცხვა WebSocket-ის ხარვეზების გამოსავლენად
+about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = მოდულების აღრიცხვა HTTP/3-ის ხარვეზების გამოსავლენად
 about-logging-preset-media-playback-label = ფაილის გაშვება
 about-logging-preset-media-playback-description = აღრიცხვის მოდულები ფაილთა გაშვებისას ხარვეზების გამოსავლენად (არ მოიცავს ვიდეოთათბირების ხარვეზებს)
+about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = მოდულების აღრიცხვა WebRTC-გამოძახების ხარვეზების გამოსავლენად
 about-logging-preset-custom-label = მითითებული
 about-logging-preset-custom-description = აღრიცხვის მოდულები ხელითაა შერჩეული
 # Error handling
