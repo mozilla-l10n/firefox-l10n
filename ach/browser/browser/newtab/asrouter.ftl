@@ -124,9 +124,10 @@ firefoxview-spotlight-promo-secondarybutton = Kal
 
 fxa-sync-cfr-primary = Nong ngec mapol
     .accesskey = N
-fxa-sync-cfr-secondary = Poo wiya Lacen
+fxa-sync-cfr-secondary = Poo wiya lacen
     .accesskey = P
 
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Itye ka tic ki nyonyo ma otii?
+device-migration-fxa-spotlight-link = Poo wiya lacen
