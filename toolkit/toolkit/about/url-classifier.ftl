@@ -5,7 +5,11 @@
 url-classifier-title = URL-მახარისხებლის მონაცემები
 url-classifier-search-title = ძიება
 url-classifier-search-result-title = შედეგები
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = ცხრილის სია: { $list }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = არამართებული URL
@@ -20,7 +24,7 @@ url-classifier-provider-next-update-time = მომდევნო განა
 url-classifier-provider-back-off-time = უკან დაბრუნების დრო
 url-classifier-provider-last-update-status = ბოლო განახლების მდგომარეობა
 url-classifier-provider-update-btn = განახლება
-url-classifier-cache-title = დროებითი ფაილები
+url-classifier-cache-title = მომარაგებული
 url-classifier-cache-refresh-btn = განახლება
 url-classifier-cache-clear-btn = გასუფთავება
 url-classifier-cache-table-name = ცხრილის სახელი
@@ -40,7 +44,6 @@ url-classifier-debug-sb-modules = უსაფრთხო თვალიერ
 url-classifier-debug-modules = მიმდინარე აღრიცხვის მოდულები
 url-classifier-debug-sbjs-modules = უსაფრთხო თვალიერების JS-აღრიცხვა
 url-classifier-debug-file = მიმდინარე აღრიცხვის ფაილი
-
 url-classifier-trigger-update = განახლების გაშვება
 url-classifier-not-available = მიუწვდომელია
 url-classifier-disable-sbjs-log = უსაფრთხო თვალიერების JS-აღრიცხვის გამორთვა
