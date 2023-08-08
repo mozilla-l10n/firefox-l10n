@@ -263,7 +263,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულების წარმოსადგენად გამოიყენებს საოპერაციო სისტემის პარამეტრებს ენისთვის „{ $localeName }“.
+    .label = თარიღის, დროის, ციფრებისა და საზომი ერთეულებისთვის გამოიყენოს საოპერაციო სისტემის პარამეტრები ენისთვის „{ $localeName }“.
 check-user-spelling =
     .label = მართლწერის შემოწმება ტექსტის აკრეფისას
     .accesskey = მ
@@ -388,7 +388,7 @@ update-application-auto =
     .label = თავად დააყენებს განახლებებს (სასურველია)
     .accesskey = თ
 update-application-check-choose =
-    .label = შემოწმდეს განახლებებზე, მაგრამ დაგეკითხოთ დაყენებამდე
+    .label = შემოწმდეს განახლებებზე, მაგრამ ნებართვა ითხოვოს დაყენებამდე
     .accesskey = შ
 update-application-manual =
     .label = არასდროს შემოწმდეს განახლებებზე (არაა სასურველი)
