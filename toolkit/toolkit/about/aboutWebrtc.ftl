@@ -97,7 +97,7 @@ about-webrtc-save-page-label = გვერდის შენახვა
 about-webrtc-debug-mode-msg-label = გამართვის რეჟიმი
 about-webrtc-debug-mode-off-state-label = გამართვის რეჟიმის დაწყება
 about-webrtc-debug-mode-on-state-label = გამართვის რეჟიმის შეჩერება
-about-webrtc-enable-logging-label = ამოქმედდეს WebRTC-აღრიცხვების მზა პარამეტრები
+about-webrtc-enable-logging-label = WebRTC-აღრიცხვის მზა პარამეტრების ჩართვა
 about-webrtc-stats-heading = სეანსის სტატისტიკა
 about-webrtc-stats-clear = ისტორიის გასუფთავება
 about-webrtc-log-heading = კავშირის ჩანაწერები
@@ -306,6 +306,9 @@ about-webrtc-hide-msg-sdp = დაიმალოს SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = მულტიმედიური გარემოს ჩვენება
+about-webrtc-media-context-hide-msg = მულტიმედიური გარემოს დამალვა
+about-webrtc-media-context-heading = მულტიმედიური გარემო
 
 ##
 
