@@ -4,7 +4,6 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Donyo iyie ki Mung me donyo
-
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-avatar-button =
     .title = Lo akaunt
@@ -102,7 +101,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = yub donyo iyie ma kigwoko ni
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = nyut mung me donyo ma kigwoko ni
@@ -118,7 +116,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Juki
 confirmation-dialog-dismiss-button =
     .title = Juki
-
 about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 about-logins-confirm-remove-dialog-confirm-button = Kwany
@@ -131,19 +128,16 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [1] Kwany
        *[other] Kwany Weng
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Eyo, kwany donyo iyie man
        *[other] Eyo, kwany donyo iyie magi
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Kwany donyo iyie { $count }?
        *[other] Kwany donyo iyie { $count } weng?
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Kwany donyo iyie { $count } ki i nyonyo weng?
@@ -154,7 +148,6 @@ about-logins-confirm-remove-all-sync-dialog-title =
 
 about-logins-confirm-export-dialog-message = Kibigwoko mung me donyo mamegi calo coc ma kwane (labolle, BadP@ssw0rd) pi meno ngat ma twero yabo pwail ma kicwalo woko ni twero neno gi.
 about-logins-confirm-export-dialog-confirm-button = Cwal woko...
-
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification
@@ -188,7 +181,9 @@ about-logins-import-file-picker-import-button = Kel ki woko
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-done = Otum
-
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } pe tye ki twero me kwano pwail. Tem loko twero me pwail.
+about-logins-import-dialog-error-unable-to-read-title = Pe twero Ngiyo Pwail
+about-logins-import-dialog-error-unable-to-read-description = Nen ni meno iyero pwail me CSV onyo TSV.
 about-logins-import-dialog-error-learn-more = Nong ngec mapol
 about-logins-import-dialog-error-cancel = Juki
 
