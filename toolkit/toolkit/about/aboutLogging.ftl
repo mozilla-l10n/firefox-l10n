@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = აღრიცხვა { -profiler-brand-n
 about-logging-no-log-modules = არცერთი
 about-logging-no-log-file = არცერთი
 about-logging-logging-preset-selector-text = აღრიცხვის მზა პარამეტრები:
+about-logging-with-profiler-stacks-checkbox = წყების მონაცემების დართვა აღრიცხვის შეტყობინებებისთვის
 
 ## Logging presets
 
