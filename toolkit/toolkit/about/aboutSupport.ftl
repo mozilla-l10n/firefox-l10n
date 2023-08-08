@@ -406,3 +406,6 @@ support-remote-features-status = მდგომარეობა
 ## Pointing devices
 
 pointing-device-mouse = თაგვი
+pointing-device-touchscreen = ხელშესახები ეკრანი
+pointing-device-pen-digitizer = კალმიანი პლანშეტი
+pointing-device-none = მიმთითებელი მოწყობილობა არა
