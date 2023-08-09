@@ -163,6 +163,7 @@ firefoxview-view-more-browsing-history = Ehecha kundahára rembiasakue
 
 firefoxview-history-empty-header = Ejevyjey eimehaguépe
 firefoxview-history-empty-description = Eikundahavekuévo, umi kuatiarogue eikeha ehecháta ko’ápe.
+firefoxview-history-empty-description-two = Nde rekoñemi ñemo’ã rogueroike ore rembiaporãkuaitépe. Upévare ehechava’erã pe tembiapoite { -brand-short-name } imandu’áva, <a data-l10n-name="history-settings-url">tembiasakue ñemoĩporã </a>.
 
 ##
 
