@@ -556,6 +556,8 @@ urlbar-result-action-search-w-engine = Tìm với { $engine }
 urlbar-result-action-sponsored = Được tài trợ
 urlbar-result-action-switch-tab = Chuyển sang thẻ
 urlbar-result-action-visit = Truy cập
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Truy cập khay nhớ tạm của bạn
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

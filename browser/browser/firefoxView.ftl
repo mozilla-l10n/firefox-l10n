@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Để tìm các thẻ từ th
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Không có thẻ đang mở trên thiết bị này
