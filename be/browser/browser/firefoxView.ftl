@@ -156,6 +156,7 @@ firefoxview-show-all-history = Паказаць усю гісторыю
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-description = У часе аглядання, старонкі, якія вы наведваеце, будуць з'яўляцца тут.
 
 ##
 
@@ -178,10 +179,14 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Імпарт гісторыі з іншага браўзера
+firefoxview-import-history-description = Зрабіце { -brand-short-name } сваім паўсядзённым браўзерам. Імпартуйце гісторыю аглядання, закладкі і іншае.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Закрылі картку занадта рана?
 
 ##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
