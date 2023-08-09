@@ -24,6 +24,7 @@ firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñek
 firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry rendayke, emoñepyrũraẽ tembiapo térã emoheñói mba’ete.
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-syncedtabs-signin-header = Ejapyhy tendayke oimeha guive
+firefoxview-syncedtabs-signin-description = Ehecha hag̃ua ne rendayke oimeraẽva mba’e’oka guive eipuruhápe { -brand-product-name }, eike ne ma’etépe. Ndereguerekóiramo, rombohapéta emoheñoikuaa hag̃ua.
 firefoxview-syncedtabs-signin-primarybutton = Eike térã eñemboheraguapy
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
