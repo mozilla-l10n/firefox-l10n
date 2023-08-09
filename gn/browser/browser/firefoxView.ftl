@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = Eiporavo kundahára
 
 firefoxview-dont-remember-history-empty-header = Ndaipóri jehechaukarã
 firefoxview-dont-remember-history-empty-description = Ne rekoñemi ñemo’ã tuicha mba’e oréve g̃uarã. Upévare ikatu ehechameme tembiapo omomandu’áva { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Pe ñemboheko ko’ag̃agua oĩháicha, { -brand-short-name } naimandu’ái tembiapóre oikundahakuévo. Emoambuekuaa hag̃ua, <a data-l10n-name="history-settings-url-two">emoambue ñemboheko tembiasakuégui</a>.
 
 ##
 
