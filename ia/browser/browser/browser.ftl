@@ -366,7 +366,7 @@ identity-https-only-dropdown-off-temporarily =
     .label = Disactivate temporarimente
 identity-https-only-info-turn-on2 = Activa le modo solo HTTPS pro iste sito si tu vole que { -brand-short-name } securisa le connexion quando possibile.
 identity-https-only-info-turn-off2 = Si le pagina non functiona, prova disactivar le modo solo HTTPS pro iste sito e recargar con un connexion HTTP insecur.
-identity-https-only-info-turn-on3 = Activa le promotiones de HTTPS pro iste sito si tu vole que { -brand-short-name } promove le connexion quando possibile.
+identity-https-only-info-turn-on3 = Activa le promotion a HTTPS pro iste sito si tu vole que { -brand-short-name } promove le connexion quando possibile.
 identity-https-only-info-turn-off3 = Si le pagina non functiona, prova disactivar le modo promotion HTTPS pro iste sito e recargar con un connexion HTTP insecur.
 identity-https-only-info-no-upgrade = Impossibile promover le connexion HTTP.
 identity-permissions-storage-access-header = Cookies inter sitos
@@ -561,7 +561,7 @@ urlbar-result-action-sponsored = Sponsorisate
 urlbar-result-action-switch-tab = Commutar al scheda
 urlbar-result-action-visit = Visitar
 # Allows the user to visit a URL that was previously copied to the clipboard.
-urlbar-result-action-visit-from-your-clipboard = Visita le adresse de tu area de transferentia
+urlbar-result-action-visit-from-your-clipboard = Visitar le adresse de tu area de transferentia
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

@@ -25,12 +25,12 @@ firefoxview-tabpickup-step-signin-description = Pro transferer le schedas de tu 
 firefoxview-tabpickup-step-signin-primarybutton = Continuar
 firefoxview-syncedtabs-signin-header = Recupera tu schedas ab ubique
 firefoxview-syncedtabs-signin-description = Pro vider tu schedas de ubicunque tu usa { -brand-product-name }, accede a tu conto. Si tu non ha un conto, nos te guidara per le passos pro inscriber te.
-firefoxview-syncedtabs-signin-primarybutton = Inscriber se o acceder
+firefoxview-syncedtabs-signin-primarybutton = Aperir session o crear conto
 firefoxview-tabpickup-adddevice-header = Synchronisa { -brand-product-name } sur tu telephono e tu tabletta
 firefoxview-tabpickup-adddevice-description = Discarga { -brand-product-name } pro apparatos mobile e aperi session illac.
 firefoxview-tabpickup-adddevice-learn-how = Apprende como
 firefoxview-tabpickup-adddevice-primarybutton = Installa { -brand-product-name } pro mobile
-firefoxview-syncedtabs-adddevice-header = Accede a { -brand-product-name } sur un tu altere apparato.
+firefoxview-syncedtabs-adddevice-header = Aperi session in { -brand-product-name } sur un tu altere apparato.
 firefoxview-syncedtabs-adddevice-description = Pro vider tu schedas de ubicunque tu usa { -brand-product-name }, accede sur tote tu apparatos. Apprende a <a data-l10n-name="url">connecter altere apparatos</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Discoperi { -brand-product-name } pro mobile
 firefoxview-tabpickup-synctabs-header = Activar synchronisation schedas
