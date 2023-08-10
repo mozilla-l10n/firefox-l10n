@@ -83,8 +83,8 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = Zjistit více
 translations-panel-intro-header =
     { -brand-shorter-name.case-status ->
-        [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "loc") } (Beta)
-       *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name } (Beta)
+        [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "loc") }
+       *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name }
     }
 translations-panel-intro-description = V zájmu ochrany vašeho soukromí překlady nikdy neopouštějí vaše zařízení. Nové jazyky a vylepšení již brzy!
 translations-panel-error-translating = Při překladu došlo k chybě. Zkuste to prosím znovu.
