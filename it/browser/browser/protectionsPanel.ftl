@@ -25,6 +25,20 @@ protections-panel-etp-more-info =
 protections-panel-etp-on-header = La protezione antitracciamento avanzata è ATTIVA per questo sito.
 protections-panel-etp-off-header = La protezione antitracciamento avanzata è DISATTIVATA per questo sito
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+  .label = Protezione antitracciamento avanzata
+  .description = Attiva per questo sito
+  .aria-label = Disattiva protezioni per { $host }
+protections-panel-etp-off-toggle =
+  .label = Protezione antitracciamento avanzata
+  .description = Disattivata per questo sito
+  .aria-label = Attiva protezioni per { $host }
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Il sito non funziona?
 
