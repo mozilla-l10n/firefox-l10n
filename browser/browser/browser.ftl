@@ -563,6 +563,8 @@ urlbar-result-action-search-w-engine = Søg med { $engine }
 urlbar-result-action-sponsored = Sponsoreret
 urlbar-result-action-switch-tab = Skift til faneblad
 urlbar-result-action-visit = Besøg
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Besøg fra din udklipsholder
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
