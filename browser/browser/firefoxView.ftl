@@ -23,15 +23,23 @@ firefoxview-tabpickup-progress-label = { $percentValue }% færdig
 firefoxview-tabpickup-step-signin-header = Skift nemt mellem enheder
 firefoxview-tabpickup-step-signin-description = For at hente faneblade fra din telefon skal du først logge ind eller oprette en konto.
 firefoxview-tabpickup-step-signin-primarybutton = Fortsæt
+firefoxview-syncedtabs-signin-header = Hent faneblade uanset hvor du er
+firefoxview-syncedtabs-signin-description = Log ind på din konto for at se faneblade fra dine andre enheder med { -brand-product-name }. Hvis du ikke har en konto, så kan vi føre dig gennem trinene for at tilmelde dig.
 firefoxview-syncedtabs-signin-primarybutton = Log ind eller tilmeld dig
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på din telefon eller tablet
 firefoxview-tabpickup-adddevice-description = Hent { -brand-product-name } til mobil og login på din telefon.
 firefoxview-tabpickup-adddevice-learn-how = Læs hvordan
 firefoxview-tabpickup-adddevice-primarybutton = Hent { -brand-product-name } til mobilen
+firefoxview-syncedtabs-adddevice-header = Log ind på { -brand-product-name } på dine andre enheder
+firefoxview-syncedtabs-adddevice-description = Log ind på alle dine enheder for at se dine faneblade fra alle de steder, du bruger { -brand-product-name }. <a data-l10n-name="url">Sådan tilføjer du nye enheder</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = På { -brand-product-name } på din mobil
 firefoxview-tabpickup-synctabs-header = Slå synkronisering af faneblade til
 firefoxview-tabpickup-synctabs-description = Tillad { -brand-short-name } at dele faneblade mellem enheder.
 firefoxview-tabpickup-synctabs-learn-how = Læs hvordan
 firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åbne faneblade
+firefoxview-syncedtabs-synctabs-header = Opdater dine indstillinger for synkronisering
+firefoxview-syncedtabs-synctabs-description = For at se faneblade på dine andre enheder skal du synkronisere dine åbne faneblade.
+firefoxview-syncedtabs-synctabs-checkbox = Tillad at åbne faneblade synkroniseres
 firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har deaktiveret synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faneblade mellem enheder, fordi din administrator har deaktiveret synkronisering.
 firefoxview-tabpickup-network-offline-header = Kontroller din internetforbindelse
@@ -149,9 +157,12 @@ firefoxview-history-site-localhost = (lokale filer)
 ##
 
 firefoxview-show-all-history = Vis al historik
+firefoxview-view-more-browsing-history = Vis mere browserhistorik
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Find tilbage til hvor du var tidligere
+firefoxview-history-empty-description = Her vises sider, du har besøgt tidligere.
 
 ##
 
