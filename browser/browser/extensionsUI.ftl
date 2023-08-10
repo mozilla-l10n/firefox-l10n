@@ -23,4 +23,11 @@ addon-post-install-message = { $addonName } blev tilføjet.
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Kør { $addonName } på websteder underlagt begrænsninger?
+webext-quarantine-confirmation-line-1 = For at beskytte dine data er denne udvidelse ikke tilladt på dette websted.
 webext-quarantine-confirmation-line-2 = Tillad kun denne udvidelse, hvis du stoler på den og vil give den adgang til at læse og ændre dine data på websteder, som er underlagt begrænsninger af { -vendor-short-name }.
+webext-quarantine-confirmation-allow =
+    .label = Tillad
+    .accesskey = T
+webext-quarantine-confirmation-deny =
+    .label = Tillad ikke
+    .accesskey = k
