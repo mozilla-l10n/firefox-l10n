@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Senest lukkede faneblade
 menu-history-undo-window-menu =
     .label = Senest lukkede vinduer
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Søg i historik
 
 ## Bookmarks Menu
 

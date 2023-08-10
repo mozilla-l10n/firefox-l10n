@@ -155,15 +155,23 @@ firefoxview-show-all-history = Vis al historik
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Vælg browser
+    .title = Vælg browser
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Luk
+    .title = Luk
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importer historik fra en anden browser
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
