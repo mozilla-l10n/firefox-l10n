@@ -181,6 +181,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Historiju z drugego wobglědowaka importěrowaś
+firefoxview-import-history-description = Cyńśo { -brand-short-name } k swójomu spušćobnemu wobglědowakoju. Importěrujśo pśeglědowańsku historiju, cytańske znamjenja a wěcej.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
