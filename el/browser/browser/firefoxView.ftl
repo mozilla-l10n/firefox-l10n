@@ -168,6 +168,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Εισαγωγή ιστορικού από άλλο πρόγραμμα περιήγησης
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
@@ -175,3 +176,7 @@ firefoxview-recentlyclosed-empty-header = Κλείσατε κάποια καρτ
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Καμία ανοικτή καρτέλα σε αυτήν τη συσκευή
