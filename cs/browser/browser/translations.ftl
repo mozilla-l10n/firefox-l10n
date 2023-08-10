@@ -15,7 +15,7 @@ urlbar-translations-button2 =
 urlbar-translations-button-intro =
     .tooltiptext =
         { -brand-shorter-name.case-status ->
-            [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "gen") } (Beta)
+            [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "loc") } (Beta)
            *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name } (Beta)
         }
 # If your language requires declining the language name, a possible solution
@@ -83,7 +83,7 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = Zjistit více
 translations-panel-intro-header =
     { -brand-shorter-name.case-status ->
-        [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "gen") } (Beta)
+        [with-cases] Vyzkoušejte anonymní překlady ve { -brand-shorter-name(case: "loc") } (Beta)
        *[no-cases] Vyzkoušejte anonymní překlady v aplikaci { -brand-shorter-name } (Beta)
     }
 translations-panel-intro-description = V zájmu ochrany vašeho soukromí překlady nikdy neopouštějí vaše zařízení. Nové jazyky a vylepšení již brzy!
