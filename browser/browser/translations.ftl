@@ -145,6 +145,7 @@ translations-manage-language-remove-all-button =
     .label = Odstrani vse
     .accesskey = d
 translations-manage-error-install = Pri nameščanju datoteke z jezikom je prišlo do težave. Poskusite znova.
+translations-manage-error-remove = Pri odstranjevanju datoteke z jezikom je prišlo do napake. Poskusite znova.
 translations-manage-error-list = Seznama jezikov, ki jih je mogoče prevesti, ni bilo mogoče pridobiti. Osvežite stran in poskusite znova.
 translations-settings-title =
     .title = Nastavitve prevajanja
