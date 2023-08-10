@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Μετάφραση σελίδας
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Μετάφραση σελίδας - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +64,7 @@ translations-panel-translate-button-loading =
     .label = Παρακαλώ περιμένετε…
 translations-panel-translate-cancel =
     .label = Ακύρωση
+translations-panel-learn-more-link = Μάθετε περισσότερα
 translations-panel-error-translating = Προέκυψε πρόβλημα με τη μετάφραση. Παρακαλώ δοκιμάστε ξανά.
 translations-panel-error-load-languages = Δεν ήταν δυνατή η φόρτωση των γλωσσών
 translations-panel-error-load-languages-hint = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
@@ -120,6 +126,16 @@ translations-manage-language-delete-button =
     .accesskey = γ
 translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
+translations-manage-language-install-button =
+    .label = Εγκατάσταση
+translations-manage-language-install-all-button =
+    .label = Εγκατάσταση όλων
+    .accesskey = Ε
+translations-manage-language-remove-button =
+    .label = Αφαίρεση
+translations-manage-language-remove-all-button =
+    .label = Αφαίρεση όλων
+    .accesskey = φ
 translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
 translations-settings-title =
     .title = Ρυθμίσεις μεταφράσεων
