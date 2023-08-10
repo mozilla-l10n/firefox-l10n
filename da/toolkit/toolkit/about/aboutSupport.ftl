@@ -18,6 +18,8 @@ support-addons-type = Type
 support-addons-enabled = Aktiveret
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-stylesheet-types = Stylesheets
+legacy-user-stylesheets-no-stylesheets-found = Ingen stylesheets fundet
 security-software-title = Sikkerheds-software
 security-software-type = Type
 security-software-name = Navn
@@ -400,3 +402,6 @@ support-remote-experiments-see-about-studies = Få mere information på siden <a
 support-remote-features-title = Fjern-funktioner
 support-remote-features-name = Navn
 support-remote-features-status = Status
+
+## Pointing devices
+

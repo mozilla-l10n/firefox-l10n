@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Undtagelser
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresse på websted
     .accesskey = d
-
 permissions-block =
     .label = Bloker
     .accesskey = B
-
 permissions-disable-etp =
     .label = Tilføj undtagelse
     .accesskey = u
-
 permissions-session =
     .label = Tillad for session
     .accesskey = s
-
 permissions-allow =
     .label = Tillad
     .accesskey = T
-
 permissions-button-off =
     .label = Slå fra
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Slå midlertidigt fra
     .accesskey = m
-
 permissions-site-name =
     .label = Websted
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern websted
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle websteder
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Gem ændringer
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Standard for alle websteder:
-
 permissions-searchbox =
     .placeholder = Søg efter websted
-
 permissions-capabilities-autoplay-allow =
     .label = Tillad lyd og video
 permissions-capabilities-autoplay-block =
     .label = Bloker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Bloker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillad
 permissions-capabilities-block =
     .label = Bloker
 permissions-capabilities-prompt =
     .label = Spørg altid
-
 permissions-capabilities-listitem-allow =
     .value = Tillad
 permissions-capabilities-listitem-block =
     .value = Bloker
 permissions-capabilities-listitem-allow-session =
     .value = Tillad for session
-
 permissions-capabilities-listitem-off =
     .value = Fra
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Undtagelser - Tilstanden Kun-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder. Undtagelser gælder ikke for private vinduer.
+permissions-exceptions-https-only-desc2 = Du kan slå tilstanden Kun-HTTPS fra for bestemte websteder. { -brand-short-name } vil ikke forsøge at opgradere til en sikker forbindelse for de valgte websteder.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Indstillinger - Tilladelser for højtalere
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Følgende websteder har anmodet om at vælge en output-enhed for lyd. Du kan angive, hvilke websteder der har tilladelse til at vælge en output-enhed for lyd.
-
 permissions-exceptions-doh-window =
     .title = Websteds-undtagelser for DNS via HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikke anvende sikker DNS på disse websteder og deres subdomæner.
-
 permissions-doh-entry-field = Angiv webstedets domænenavn
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Tilføj
     .accesskey = T
-
 permissions-doh-col =
     .label = Domæne
-
 permissions-doh-remove =
     .label = Fjern
     .accesskey = F
-
 permissions-doh-remove-all =
     .label = Fjern alle
     .accesskey = a
