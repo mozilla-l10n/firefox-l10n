@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Εξαιρέσεις
     .style = min-width: 47em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Διεύθυνση ιστοτόπου
     .accesskey = ι
-
 permissions-block =
     .label = Φραγή
     .accesskey = Φ
-
 permissions-disable-etp =
     .label = Προσθήκη εξαίρεσης
     .accesskey = ε
-
 permissions-session =
     .label = Αποδοχή για τη συνεδρία
     .accesskey = σ
-
 permissions-allow =
     .label = Αποδοχή
     .accesskey = Α
-
 permissions-button-off =
     .label = Απενεργοποίηση
     .accesskey = ν
-
 permissions-button-off-temporarily =
     .label = Προσωρινή απενεργοποίηση
     .accesskey = α
-
 permissions-site-name =
     .label = Ιστότοπος
-
 permissions-status =
     .label = Κατάσταση
-
 permissions-remove =
     .label = Αφαίρεση ιστοτόπου
     .accesskey = φ
-
 permissions-remove-all =
     .label = Αφαίρεση όλων των ιστοτόπων
     .accesskey = λ
-
 permission-dialog =
     .buttonlabelaccept = Αποθήκευση αλλαγών
     .buttonaccesskeyaccept = Π
-
 permissions-autoplay-menu = Προεπιλογή για κάθε ιστότοπο:
-
 permissions-searchbox =
     .placeholder = Αναζήτηση ιστοτόπου
-
 permissions-capabilities-autoplay-allow =
     .label = Αποδοχή ήχου και βίντεο
 permissions-capabilities-autoplay-block =
     .label = Φραγή ήχου
 permissions-capabilities-autoplay-blockall =
     .label = Φραγή ήχου και βίντεο
-
 permissions-capabilities-allow =
     .label = Αποδοχή
 permissions-capabilities-block =
     .label = Φραγή
 permissions-capabilities-prompt =
     .label = Ερώτηση πάντα
-
 permissions-capabilities-listitem-allow =
     .value = Αποδοχή
 permissions-capabilities-listitem-block =
     .value = Φραγή
 permissions-capabilities-listitem-allow-session =
     .value = Αποδοχή για τη συνεδρία
-
 permissions-capabilities-listitem-off =
     .value = Ανενεργό
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Εξαιρέσεις - Λειτουργία «Μόνο HTTPS»
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Μπορείτε να απενεργοποιήσετε τη λειτουργία «Μόνο HTTPS» για συγκεκριμένες ιστοτόπους. Το { -brand-short-name } δεν θα επιχειρήσει να κάνει αναβάθμιση σε ασφαλή σύνδεση HTTPS στους ιστοτόπους αυτούς. Οι εξαιρέσεις δεν ισχύουν για ιδιωτικά παράθυρα.
+permissions-exceptions-https-only-desc2 = Μπορείτε να απενεργοποιήσετε τη λειτουργία «Μόνο HTTPS» για συγκεκριμένους ιστοτόπους. Το { -brand-short-name } δεν θα επιχειρήσει να κάνει αναβάθμιση σε ασφαλή σύνδεση HTTPS σε αυτούς τους ιστοτόπους.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Ρυθμίσεις - Δικαιώματα ηχείου
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Οι ακόλουθοι ιστότοποι έχουν ζητήσει την επιλογή μιας συσκευής εξόδου ήχου. Μπορείτε να καθορίσετε σε ποιους ιστοτόπους επιτρέπεται η επιλογή συσκευής εξόδου ήχου.
-
 permissions-exceptions-doh-window =
     .title = Εξαιρέσεις ιστοτόπων για DNS over HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = Το { -brand-short-name } δεν θα χρησιμοποιεί ασφαλές DNS σε αυτούς τους ιστοτόπους και τους υποτομείς τους.
-
 permissions-doh-entry-field = Εισαγάγετε όνομα τομέα ιστοτόπου
     .accesskey = σ
-
 permissions-doh-add-exception =
     .label = Προσθήκη
     .accesskey = Π
-
 permissions-doh-col =
     .label = Τομέας
-
 permissions-doh-remove =
     .label = Αφαίρεση
     .accesskey = Α
-
 permissions-doh-remove-all =
     .label = Αφαίρεση όλων
     .accesskey = φ

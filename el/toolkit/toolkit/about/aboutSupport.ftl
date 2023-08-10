@@ -19,7 +19,9 @@ support-addons-enabled = Ενεργό
 support-addons-version = Έκδοση
 support-addons-id = ID
 legacy-user-stylesheets-title = Φύλλα στυλ χρήστη παλαιού τύπου
+legacy-user-stylesheets-enabled = Ενεργό
 legacy-user-stylesheets-stylesheet-types = Φύλλο στυλ
+legacy-user-stylesheets-no-stylesheets-found = Δεν βρέθηκαν φύλλα στυλ
 security-software-title = Λογισμικό ασφαλείας
 security-software-type = Τύπος
 security-software-name = Όνομα
@@ -408,4 +410,5 @@ support-remote-features-status = Κατάσταση
 
 pointing-device-mouse = Ποντίκι
 pointing-device-touchscreen = Οθόνη αφής
+pointing-device-pen-digitizer = Ψηφιοποιητής γραφίδας
 pointing-device-none = Δεν υπάρχουν συσκευές κατάδειξης
