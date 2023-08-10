@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% færdig
 firefoxview-tabpickup-step-signin-header = Skift nemt mellem enheder
 firefoxview-tabpickup-step-signin-description = For at hente faneblade fra din telefon skal du først logge ind eller oprette en konto.
 firefoxview-tabpickup-step-signin-primarybutton = Fortsæt
+firefoxview-syncedtabs-signin-primarybutton = Log ind eller tilmeld dig
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på din telefon eller tablet
 firefoxview-tabpickup-adddevice-description = Hent { -brand-product-name } til mobil og login på din telefon.
 firefoxview-tabpickup-adddevice-learn-how = Læs hvordan
@@ -46,6 +47,7 @@ firefoxview-tabpickup-password-locked-header = Indtast din hovedadgangskode for 
 firefoxview-tabpickup-password-locked-description = For at hente dine faneblade skal du indtaste din hovedadgangskode for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Læs mere
 firefoxview-tabpickup-password-locked-primarybutton = Indtast hovedadgangskode
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Læs mere</a>
 firefoxview-tabpickup-signed-out-header = Log ind for at genoprette forbindelse
 firefoxview-tabpickup-signed-out-description = Log ind på din { -fxaccount-brand-name } for at genoprette forbindelsen og hente dine faneblade.
 firefoxview-tabpickup-signed-out-primarybutton = Log ind
@@ -92,6 +94,8 @@ firefoxview-overview-header = Senest besøgte
 firefoxview-history-nav = Historik
     .title = Historik
 firefoxview-history-header = Historik
+firefoxview-history-context-delete = Slet fra historik
+    .accesskey = S
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,7 +117,7 @@ firefoxview-synced-tabs-header = Faneblade fra andre enheder
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Vis alle
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -137,7 +141,35 @@ firefoxview-history-date-today = I dag - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = I går - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokale filer)
 
 ##
 
 firefoxview-show-all-history = Vis al historik
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
