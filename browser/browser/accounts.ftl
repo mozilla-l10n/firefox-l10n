@@ -42,6 +42,9 @@ account-send-tab-to-device-verify = ගිණුම සත්‍යාපනය 
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = මෙම පරිගණකය දැන් { $deviceName } සමඟ සම්බන්ධිතයි.
@@ -72,6 +75,18 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = පටිත්ත ලැබුණි
+# Variables:
+#   $deviceName (String): the device name.
+account-multiple-tabs-arriving-from-single-device =
+    { $tabCount ->
+        [one] පටිති { $tabCount } ක් { $deviceName } උපාංගයෙන් ලැබී ඇත
+       *[other] පටිති { $tabCount } ක් { $deviceName } උපාංගයෙන් ලැබී ඇත
+    }
+account-multiple-tabs-arriving-from-multiple-devices =
+    { $tabCount ->
+        [one] පටිති { $tabCount } ක් ඔබගේ සම්බන්ධිත උපාංග වෙතින් ලැබී ඇත
+       *[other] පටිති { $tabCount } ක් ඔබගේ සම්බන්ධිත උපාංග වෙතින් ලැබී ඇත
+    }
 # This version is used when we don't know any device names.
 account-multiple-tabs-arriving-from-unknown-device =
     { $tabCount ->
