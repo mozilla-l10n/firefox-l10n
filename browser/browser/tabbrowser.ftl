@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = නව පටිත්ත
 tabbrowser-empty-private-tab-title = නව පෞද්. පටිත්ත
-
 tabbrowser-menuitem-close-tab =
     .label = පටිත්ත වසන්න
 tabbrowser-menuitem-close =
     .label = වසන්න
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -38,7 +35,7 @@ tabbrowser-close-tabs-tooltip =
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-confirm-close-tabs-title = පටිති { $tabCount } ක් වසන්නද?
 tabbrowser-confirm-close-tabs-button = පටිති වසන්න
-tabbrowser-confirm-close-tabs-checkbox = පටිති කිහිපයක් වැසීමට පෙර තහවුරුව
+tabbrowser-confirm-close-tabs-checkbox = පටිති කිහිපයක් වැසීමට පෙර තහවුරු කරන්න
 
 ## Confirmation dialog when quitting using the menu and multiple windows are open.
 
