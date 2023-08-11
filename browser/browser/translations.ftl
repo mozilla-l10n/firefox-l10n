@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = පිටුව පරිවර්තනය කරන්න
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = පිටුව පරිවර්තනය කරන්න - බීටා
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name } පෞද්. පරිවර්තනය බලන්න - බීටා
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = කරුණාකර රැඳෙන්න...
 translations-panel-translate-cancel =
     .label = අවලංගු
+translations-panel-learn-more-link = තව දැනගන්න
+translations-panel-intro-header = { -brand-shorter-name } පෞද්. පරිවර්තනය අත්විඳින්න
+translations-panel-intro-description = ඔබගේ පෞද්ගලිකත්‍වය උදෙසා පරිවර්තන කිසි විටෙක ඔබගේ උපාංගයෙන් පිට නොකරයි. නව භාෂා සහ වැඩිදියුණු කිරීම් ඉක්මනින් පැමිණෙනු ඇත!
 translations-panel-error-translating = පරිවර්තන ගැටළුවක් මතු විය. යළි උත්සාහ කරන්න.
 translations-panel-error-load-languages = භාෂා පූරණය නොවිණි
 translations-panel-error-load-languages-hint = අන්තර්ජාල සම්බන්ධතාවය පරීක්‍ෂා කර උත්සාහ කරන්න.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = භාෂා ගොනු බාගැනීමේ ගැටළුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-delete = භාෂා ගොනු මකා දැමීමේ ගැටළුවක් ඇත. නැවත උත්සාහ කරන්න.
+translations-manage-intro = ඔබගේ භාෂාව සහ අඩවි පරිවර්තන අභිප්‍රේත සකසන්න සහ මාර්ගඅපගත පරිවර්තනය සඳහා ස්ථාපිත භාෂා කළමනාකරණය කරන්න.
+translations-manage-install-description = මාර්ගඅපගත පරිවර්තනයට භාෂා ස්ථාපනය කරන්න
+translations-manage-language-install-button =
+    .label = ස්ථාපනය
+translations-manage-language-install-all-button =
+    .label = සියල්ල ස්ථාපනය
+    .accesskey = { "" }
+translations-manage-language-remove-button =
+    .label = ඉවත් කරන්න
+translations-manage-language-remove-all-button =
+    .label = සියල්ල ඉවතලන්න
+    .accesskey = { "" }
+translations-manage-error-install = භාෂා ගොනු ස්ථාපනයේ ගැටළුවක් ඇත. නැවත උත්සාහ කරන්න.
+translations-manage-error-remove = භාෂා ගොනු ඉවත් කිරීමේ ගැටළුවක් ඇත. නැවත උත්සාහ කරන්න.
 translations-manage-error-list = පරිවර්තනය සඳහා පවතින භාෂා ලේඛනය ගැනීමට අසමත් විය. නැවත උත්සාහ කිරීමට පිටුව නැවුම් කරන්න.
 translations-settings-title =
     .title = පරිවර්තන සැකසුම්
