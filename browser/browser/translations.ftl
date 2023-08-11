@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Translatar questa pagina
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Translatar questa pagina – Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Emprova la translaziun che protegia tias datas en { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Spetgar per plaschair...
 translations-panel-translate-cancel =
     .label = Interrumper
+translations-panel-learn-more-link = Ulteriuras infurmaziuns
+translations-panel-intro-header = Emprova la translaziun che protegia tias datas en { -brand-shorter-name }
+translations-panel-intro-description = Per la protecziun da tias datas, na bandunan ils texts betg tes apparat. Novas linguas ed optimaziuns suondan prest!
 translations-panel-error-translating = Igl ha dà in problem cun translatar. Emprova per plaschair anc ina giada.
 translations-panel-error-load-languages = Impussibel da chargiar las linguas
 translations-panel-error-load-languages-hint = Controllescha tia connexiun cun l'internet ed emprova anc ina giada.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = t
 translations-manage-error-download = Igl ha dà in problem cun telechargiar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-delete = Igl ha dà in problem cun stizzar las datotecas da lingua. Emprova per plaschair anc ina giada.
+translations-manage-intro = Definescha las preferenzas areguard la lingua e la translaziun da websites ed administrescha las linguas installadas per la translaziun senza connexiun.
+translations-manage-install-description = Installar linguas per la translaziun senza connexiun
+translations-manage-language-install-button =
+    .label = Installar
+translations-manage-language-install-all-button =
+    .label = Installar tuttas
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Allontanar
+translations-manage-language-remove-all-button =
+    .label = Allontanar tuttas
+    .accesskey = I
+translations-manage-error-install = Igl ha dà in problem cun installar las datotecas da lingua. Emprova per plaschair anc ina giada.
+translations-manage-error-remove = Igl ha dà in problem cun allontanar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-list = I n'è betg reussì da retschaiver la glista da las linguas disponiblas per la translaziun. Rechargia la pagina per empruvar anc ina giada.
 translations-settings-title =
     .title = Parameters da la translaziun
