@@ -178,6 +178,11 @@ about-logins-confirm-remove-all-dialog-title =
         [one] Nādurê't riña gayi'ìt sesión { $count } nan anj
        *[other] Nādurê't nej riña gayi'ìt sesión { $count } nan anj
     }
+about-logins-confirm-remove-all-sync-dialog-title =
+    { $count ->
+        [one] Gāhuit { $count } riña daran' aga' na'ninjt si kuetâ raj
+       *[other] Gāhuit { $count } riña daran' aga' na'ninjt si kuetâ raj
+    }
 
 ##
 
