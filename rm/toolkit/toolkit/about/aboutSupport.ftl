@@ -81,6 +81,7 @@ app-basics-key-mozilla = Clav dal servetsch da posiziun da Mozilla
 app-basics-safe-mode = Modus privat
 app-basics-memory-size = Grondezza da la memoria (RAM)
 app-basics-disk-available = Memoria disponibla sin il disc
+app-basics-pointing-devices = Apparats d'indicaziun
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -407,3 +408,7 @@ support-remote-features-status = Status
 
 ## Pointing devices
 
+pointing-device-mouse = Mieur
+pointing-device-touchscreen = Visur per tutgar
+pointing-device-pen-digitizer = Penna digitala
+pointing-device-none = Nagins apparats d'indicaziun
