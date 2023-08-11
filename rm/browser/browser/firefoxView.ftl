@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Per chattar tabs serrads gia 
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nagins tabs averts sin quest apparat

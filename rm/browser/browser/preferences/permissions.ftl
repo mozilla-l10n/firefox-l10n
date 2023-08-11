@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Excepziuns
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adressa da la website
     .accesskey = d
-
 permissions-block =
     .label = Bloccar
     .accesskey = B
-
 permissions-disable-etp =
     .label = Agiuntar ina excepziun
     .accesskey = e
-
 permissions-session =
     .label = Permetter per questa sesida
     .accesskey = P
-
 permissions-allow =
     .label = Permetter
     .accesskey = e
-
 permissions-button-off =
     .label = Deactivar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Deactivar temporarmain
     .accesskey = t
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Allontanar la website
     .accesskey = A
-
 permissions-remove-all =
     .label = Allontanar tut las websites
     .accesskey = t
-
 permission-dialog =
     .buttonlabelaccept = Memorisar las midadas
     .buttonaccesskeyaccept = M
-
 permissions-autoplay-menu = Standard per tuttas websites:
-
 permissions-searchbox =
     .placeholder = Tschertgar ina website
-
 permissions-capabilities-autoplay-allow =
     .label = Permetter audio e video
 permissions-capabilities-autoplay-block =
     .label = Bloccar l'audio
 permissions-capabilities-autoplay-blockall =
     .label = Bloccar audio e video
-
 permissions-capabilities-allow =
     .label = Permetter
 permissions-capabilities-block =
     .label = Bloccar
 permissions-capabilities-prompt =
     .label = Adina dumandar
-
 permissions-capabilities-listitem-allow =
     .value = Permetter
 permissions-capabilities-listitem-block =
     .value = Bloccar
 permissions-capabilities-listitem-allow-session =
     .value = Permetter per questa sesida
-
 permissions-capabilities-listitem-off =
     .value = Deactivà
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Excepziuns - Modus mo HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Ti pos deactivar il modus Mo-HTTPS per websites specificas. { -brand-short-name } na vegn lura betg a dumandar da midar la connexiun al HTTPS segirà per questas websites. Las excepziuns na valan betg en fanestras privatas.
+permissions-exceptions-https-only-desc2 = Ti pos deactivar il modus Mo-HTTPS per websites specificas. { -brand-short-name } na vegn lura betg a dumandar da midar la connexiun al HTTPS segirà per questas websites.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Parameters – autorisaziuns per ils autpledaders
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Las suandantas websites dumondan la permissiun da pudair tscherner in apparat da sortida per tun. Ti pos specifitgar las websites che dastgan tscherner in apparat da sortida per tun.
-
 permissions-exceptions-doh-window =
     .title = Excepziuns per DNS via HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } na vegn betg ad utilisar DNS segirà per questas websites e lur sutdomenas.
-
 permissions-doh-entry-field = Endatar il num da domena da la website
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Agiuntar
     .accesskey = A
-
 permissions-doh-col =
     .label = Domena
-
 permissions-doh-remove =
     .label = Allontanar
     .accesskey = r
-
 permissions-doh-remove-all =
     .label = Allontanar tut
     .accesskey = t
