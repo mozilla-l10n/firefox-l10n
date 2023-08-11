@@ -844,7 +844,7 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>කලින් පටිත්ත අරින්නද?</strong> ඉතිහාසය යටතේ, { -brand-short-name } යෙදුමේ <img data-l10n-name="icon"/> වට්ටෝරුව වෙතින් ඔබගේ කලින් වාරය ප්‍රත්‍යර්පණය කළ හැකිය.
+restore-session-startup-suggestion-message = <strong>කලින් පටිත්ත අරින්නද?</strong> ඉතිහාසය යටතේ, { -brand-short-name } යෙදුමේ <img data-l10n-name="icon"/> වට්ටෝරුව හරහා ඔබගේ කලින් වාරය ප්‍රත්‍යර්පණය කිරීමට හැකිය.
 restore-session-startup-suggestion-button = කෙසේදැයි පෙන්වන්න
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
