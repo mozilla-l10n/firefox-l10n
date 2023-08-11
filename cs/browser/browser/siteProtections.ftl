@@ -28,7 +28,13 @@ tracking-protection-icon-active-container =
 tracking-protection-icon-disabled = Rozšířená ochrana proti sledování je pro tento web vypnuta.
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
-tracking-protection-icon-no-trackers-detected = Aplikace { -brand-short-name } na této stránce nenalezla žádné známé sledovací prvky.
+tracking-protection-icon-no-trackers-detected =
+    { -brand-short-name.gender ->
+        [masculine] { -brand-short-name } na této stránce nenalezl žádné známé sledovací prvky.
+        [feminine] { -brand-short-name } na této stránce nenalezla žádné známé sledovací prvky.
+        [neuter] { -brand-short-name } na této stránce nenalezlo žádné známé sledovací prvky.
+       *[other] Aplikace { -brand-short-name } na této stránce nenalezla žádné známé sledovací prvky.
+    }
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 
@@ -94,7 +100,25 @@ protections-footer-blocked-tracker-counter =
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
-        [one] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala jeden sledovací prvek
-        [few] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
-       *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
+        [one]
+            { -brand-short-name.gender ->
+                [masculine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokoval jeden sledovací prvek
+                [feminine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovala jeden sledovací prvek
+                [neuter] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovalo jeden sledovací prvek
+               *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala jeden sledovací prvek
+            }
+        [few]
+            { -brand-short-name.gender ->
+                [masculine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokoval více než { $trackerCount } sledovací prvky
+                [feminine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
+                [neuter] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovalo více než { $trackerCount } sledovací prvky
+               *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovací prvky
+            }
+       *[other]
+            { -brand-short-name.gender ->
+                [masculine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokoval více než { $trackerCount } sledovacích prvků
+                [feminine] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
+                [neuter] Od { DATETIME($date, year: "numeric", month: "long") } { -brand-short-name } zablokovalo více než { $trackerCount } sledovacích prvků
+               *[other] Od { DATETIME($date, year: "numeric", month: "long") } aplikace { -brand-short-name } zablokovala více než { $trackerCount } sledovacích prvků
+            }
     }
