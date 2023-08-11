@@ -39,9 +39,7 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Velikost vyrovnávací paměti:
-
 perftools-custom-threads-label = Přidat vlastní vlákna podle názvu:
-
 perftools-devtools-interval-label = Interval:
 perftools-devtools-threads-label = Vlákna:
 perftools-devtools-settings-label = Nastavení
@@ -79,6 +77,8 @@ perftools-thread-timer =
     .title = Časovače zpracování vláken (setTimeout, setInterval, nsITimer)
 perftools-thread-style-thread =
     .title = Výpočty pro styly jsou rozdělené do více vláken
+pref-thread-stream-trans =
+    .title = Přenos síťového toku
 perftools-thread-img-decoder =
     .title = Vlákna pro dekódování obrázků
 perftools-thread-dns-resolver =
@@ -96,16 +96,10 @@ perftools-record-all-registered-threads = Neuvažovat výše uvedené výběry a
 ## devtools.performance.new-panel-onboarding preference is true.
 
 perftools-onboarding-message = <b>Novinka</b>: { -profiler-brand-name } je teď integrovaný do nástrojů pro webové vývojáře. <a>Zjistěte více</a> o tomto novém výkonném nástroji.
-
 perftools-onboarding-close-button =
     .aria-label = Zavřít informační zprávu
 
 ## Profiler presets
-
-
-# Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
 
 
 # Presets and their l10n IDs are defined in the file
@@ -114,35 +108,30 @@ perftools-onboarding-close-button =
 
 perftools-presets-web-developer-label = Vývoj webu
 perftools-presets-web-developer-description = Doporučené nastavení s minimální režií pro ladění většiny webových aplikací.
-
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description =
     { -brand-shorter-name.case-status ->
         [with-cases] Doporučené nastavení pro profilování { -brand-shorter-name(case: "gen") }.
        *[no-cases] Doporučené nastavení pro profilování aplikace { -brand-shorter-name }.
     }
-
 perftools-presets-graphics-label = Grafika
 perftools-presets-graphics-description =
     { -brand-shorter-name.case-status ->
         [with-cases] Doporučené nastavení pro ladění grafických chyb ve { -brand-shorter-name(case: "loc") }.
        *[no-cases] Doporučené nastavení pro ladění grafických chyb v aplikaci { -brand-shorter-name }.
     }
-
 perftools-presets-media-label = Média
 perftools-presets-media-description2 =
     { -brand-shorter-name.case-status ->
         [with-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa ve { -brand-shorter-name(case: "loc") }.
        *[no-cases] Doporučené nastavení pro ladění chyb při přehrávání zvuku nebo videa v aplikaci { -brand-shorter-name }.
     }
-
 perftools-presets-networking-label = Síť
 perftools-presets-networking-description =
     { -brand-shorter-name.case-status ->
         [with-cases] Doporučené nastavení pro ladění síťových problémů ve { -brand-shorter-name(case: "loc") }.
        *[no-cases] Doporučené nastavení pro ladění síťových problémů v aplikaci { -brand-shorter-name }.
     }
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Napájení
 perftools-presets-power-description =
@@ -150,7 +139,6 @@ perftools-presets-power-description =
         [with-cases] Doporučené nastavení pro ladění chyb ve spotřebě { -brand-shorter-name(case: "gen") }.
        *[no-cases] Doporučené nastavení pro ladění chyb ve spotřebě aplikace { -brand-shorter-name }.
     }
-
 perftools-presets-custom-label = Vlastní
 
 ##
