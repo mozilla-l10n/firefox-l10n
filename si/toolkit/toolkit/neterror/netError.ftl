@@ -68,6 +68,7 @@ neterror-dns-not-found-trr-unknown-problem = අනපේක්‍ෂිත ග�
 
 neterror-dns-not-found-native-fallback-reason = මෙම අඩවියේ ලිපිනයට අපගේ විශ්වාසදායක ව.නා.ප. පිළිවිසඳුව හරහා { -brand-short-name } මගින් ඔබගේ ඉල්ලීම රැකීමට නොහැකිය. හේතුව:
 neterror-dns-not-found-native-fallback-heuristic = HTTPS හරහා ව.නා.ප. ඔබගේ ජාලයට අබල කර ඇත.
+neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } මගින් { $trrDomain } වෙත සම්බන්ධ වීමට නොහැකි විය.
 
 ##
 
@@ -102,6 +103,8 @@ neterror-corrupted-content-intro = දත්ත සම්ප්‍රේෂණ �
 neterror-corrupted-content-contact-website = දේශීය සේවාවක් නම් මෙම ගැටළුව පිළිබඳව අඩවියෙහි හිමිකරුවන්ට දන්වන්න.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = වැඩිදුර තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION
+# Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
+neterror-inadequate-security-code = දෝෂයේ කේතය: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
