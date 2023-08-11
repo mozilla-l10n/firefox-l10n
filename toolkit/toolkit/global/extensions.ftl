@@ -25,21 +25,18 @@ webext-perms-add =
 webext-perms-cancel =
     .label = අවලංගු කරන්න
     .accesskey = C
-
 webext-perms-sideload-enable =
     .label = සබල කරන්න
     .accesskey = E
 webext-perms-sideload-cancel =
     .label = අවලංගු
     .accesskey = C
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } යාවත්කාල වී ඇත. යාවත්කාලීන අනුවාදය ස්ථාපනයට පෙර ඔබ නව අවසර අනුමත කළ යුතුය. “අවලංගු” යන්න තේරුවහොත් ඔබගේ දිගුවේ වත්මන් අනුවාදය පවත්වාගෙන යනු ඇත. මෙම දිගුවට තිබෙන අවසර:
 webext-perms-update-accept =
     .label = යාවත්කාල
     .accesskey = U
-
 webext-perms-optional-perms-list-intro = එයට අවශයයි:
 webext-perms-optional-perms-allow =
     .label = ඉඩ දෙන්න
@@ -47,9 +44,7 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = ප්‍රතික්‍ෂේප
     .accesskey = D
-
-webext-perms-host-description-all-urls = සියළු අඩවි සඳහා ඔබගේ දත්ත වෙත ප්‍රවේශය
-
+webext-perms-host-description-all-urls = සියළුම අඩවි සඳහා ඔබගේ දත්ත වෙත ප්‍රවේශය
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = { $domain } සඳහා ඔබගේ දත්ත වෙත ප්‍රවේශය
