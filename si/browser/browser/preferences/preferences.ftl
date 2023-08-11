@@ -133,7 +133,7 @@ open-new-link-as-tabs =
     .label = නව කවුළුවල වෙනුවට පටිති තුළ සබැඳි අරින්න
     .accesskey = w
 confirm-on-close-multiple-tabs =
-    .label = පටිති කිහිපයක් වැසීමට පෙර තහවුරුව
+    .label = පටිති කිහිපයක් වැසීමට පෙර තහවුරු කරන්න
     .accesskey = m
 # This string is used for the confirm before quitting preference.
 # Variables:

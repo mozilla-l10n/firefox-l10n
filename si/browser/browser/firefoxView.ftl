@@ -16,10 +16,10 @@ firefoxview-close-button =
 firefoxview-just-now-timestamp = මේ දැන්
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = පටිති ඇහිඳීම
-firefoxview-tabpickup-description = වෙනත් උපාංගවලින් පිටු බලන්න.
+firefoxview-tabpickup-description = වෙනත් උපාංගවල පිටු බලන්න.
 # Variables:
 #  $percentValue (Number): the percentage value for setup completion
-firefoxview-tabpickup-progress-label = { $percentValue }% සම්පූර්ණයි
+firefoxview-tabpickup-progress-label = { $percentValue }% ක් සම්පූර්ණයි
 firefoxview-tabpickup-step-signin-header = උපාංග අතර බාධාවකින් තොරව මාරු වන්න
 firefoxview-tabpickup-step-signin-description = දුරකථනයේ පටිති මෙතැනට ගැනීමට, ගිණුමක් සාදන්න හෝ පිවිසෙන්න.
 firefoxview-tabpickup-step-signin-primarybutton = ඉදිරියට
@@ -177,4 +177,7 @@ firefoxview-import-history-description = { -brand-short-name } ඔබගේ ද�
 
 
 ##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
