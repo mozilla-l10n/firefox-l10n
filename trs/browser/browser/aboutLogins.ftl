@@ -92,6 +92,7 @@ login-item-new-login-title = Giri 'ngo sa gayi'ì sesiûn nakàa
 login-item-edit-button = Nagi'iô'
 about-logins-login-item-remove-button = Guxūn
 login-item-origin-label = Si Direlsiûn Sîtio
+login-item-tooltip-message = Ni'hiaj sisī huê ngè direksiôn huin ngà riña ruhuat gātu raj.
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = Si yuguî rè'
@@ -173,10 +174,22 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Gūxūn daran'anj
        *[other] Gūxūn daran'anj
     }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Ga'hue durê'.
+        [one] { "" }
+       *[other] Nadure' nej sesiôn na.
+    }
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Nādurê't riña gayi'ìt sesión { $count } nan anj
        *[other] Nādurê't nej riña gayi'ìt sesión { $count } nan anj
+    }
+about-logins-confirm-remove-all-dialog-message =
+    { $count ->
+        [1] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
+        [one] { "" }
+       *[other] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -189,6 +202,8 @@ about-logins-confirm-remove-all-sync-dialog-title =
 about-logins-confirm-export-dialog-title = Gā'nïnj gan'ānj nej riña gayi'ìt sēsiûn nī nej da'nga' huìi
 about-logins-confirm-export-dialog-message = Ngà lêchra nāginu sà’ nej da’nga’ huì huā ‘iát (Dàj rû’, BadP@ssw0rd) da’ ga’ue gīni’iāj ahuin mān’an duguî’ na’nïn archivo nan.
 about-logins-confirm-export-dialog-confirm-button = Gā’nïnj gān’an a’ngô hiūj u…
+about-logins-alert-import-title = 'Ngà gisij gānūkuaj ma
+about-logins-alert-import-message = Ni'hio' daj gi'hiaj man gānūkua.
 confirm-discard-changes-dialog-title = ¿Nadurê't nej sa nun na'nïnj sà' raj?
 confirm-discard-changes-dialog-message = Gan'anj ni'ia daran' nej sa nagi'iát ni nu na'nïnj sà't.
 confirm-discard-changes-dialog-confirm-button = Dunâj man
@@ -248,6 +263,13 @@ about-logins-import-file-picker-csv-filter-title =
     { PLATFORM() ->
         [macos] CSV Ñanj
        *[other] CSV Archivo
+    }
+# A description for the .tsv file format that may be shown as the file type
+# filter by the operating system. TSV is short for 'tab separated values'.
+about-logins-import-file-picker-tsv-filter-title =
+    { PLATFORM() ->
+        [macos] Ñanj TSV
+       *[other] Ñanj TSV
     }
 
 ##
