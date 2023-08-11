@@ -621,6 +621,8 @@ urlbar-result-action-search-w-engine = Vyhledat pomocí { $engine }
 urlbar-result-action-sponsored = Sponzorováno
 urlbar-result-action-switch-tab = Přepnout na panel
 urlbar-result-action-visit = Navštívit
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Otevřít zkopírovanou adresu
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
