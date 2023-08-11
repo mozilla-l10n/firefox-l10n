@@ -5,7 +5,7 @@
 restore-page-tab-title = වාරය ප්‍රත්‍යර්පණය
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
-restore-page-error-title = ඔබගේ පිටු ආපසු ගැනීමේ ගැටළුවක් තිබේ.
+restore-page-error-title = කණගාටුයි. ඔබගේ පිටු ආපසු ගැනීමේ ගැටළුවක් තිබේ.
 restore-page-problem-desc = ඔබගේ පසුගිය වාරය ප්‍රත්‍යර්පණය නොවේ. වාරය ප්‍රත්‍යර්පණය යන්න තෝරා නැවත උත්සාහ කරන්න.
 restore-page-try-this = තවමත් ඔබගේ වාරය ප්‍රත්‍යර්පණය නොවේ ද? සමහර විට එක් පටිත්තක් මෙම ගැටළුවට හේතු විය හැකිය. ප්‍රතිසාධනයට වුවමනා නැති පටිති තෝරා ඉවත් කර, නැවත උත්සාහ කරන්න.
 restore-page-hide-tabs = කලින් පටිති සඟවන්න
