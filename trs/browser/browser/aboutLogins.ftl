@@ -276,6 +276,12 @@ about-logins-import-file-picker-tsv-filter-title =
 ## Variables:
 ##  $count (number) - The number of affected elements
 
+about-logins-import-dialog-title = 'Ngà gisij gānūkuaj ma
+about-logins-import-dialog-items-added =
+    { $count ->
+        [one] <span> Ganachra sà' ma sesiôn nakaa:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] <span> Ganachra sà' ma sesiôn nakaa:</span><span data-l10n-name="count">{ $count }</span>
+    }
 about-logins-import-dialog-done = Gà' huaj
 about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
 about-logins-import-dialog-error-cancel = Dūyichin\'
