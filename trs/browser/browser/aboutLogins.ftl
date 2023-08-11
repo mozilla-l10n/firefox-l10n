@@ -282,7 +282,26 @@ about-logins-import-dialog-items-added =
         [one] <span> Ganachra sà' ma sesiôn nakaa:</span><span data-l10n-name="count">{ $count }</span>
        *[other] <span> Ganachra sà' ma sesiôn nakaa:</span><span data-l10n-name="count">{ $count }</span>
     }
+about-logins-import-dialog-items-modified =
+    { $count ->
+        [one] <span>Nahuin nakà nej sesiôn:</span><span data-l10n-name="count">{ $count }</span>
+       *[other] { "" }
+    }
+about-logins-import-dialog-items-no-change =
+    { $count ->
+        [one] <span>Dâ huij nej sesiôn na hua:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nu guyunj)</span>
+       *[other] { "" }
+    }
+about-logins-import-dialog-items-error =
+    { $count ->
+        [one] <span>Sa gire'e:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu guyunj)</span>
+       *[other] { "" }
+    }
 about-logins-import-dialog-done = Gà' huaj
+about-logins-import-dialog-error-title = Nū gūyunj
+about-logins-import-dialog-error-conflicting-values-title = Ûta ga'ì sa gire' guedâ ga'hue gāyi'ij.
+about-logins-import-dialog-error-conflicting-values-description = Daj run': ga'ì si yugui, da'ngà' huii, URLs, huin guenda gatu' riña aga' na.
+about-logins-import-dialog-error-file-format-title = Nitaj si hua hue'ej.
 about-logins-import-dialog-error-learn-more = Gāhuin chrūn doj
 about-logins-import-dialog-error-cancel = Dūyichin\'
 #
