@@ -9,7 +9,7 @@ reload-tab =
     .label = පටිත්ත යළි පූරණය
     .accesskey = R
 select-all-tabs =
-    .label = සියළු පටිති තෝරන්න
+    .label = පටිති සියල්ල තෝරන්න
     .accesskey = S
 tab-context-play-tab =
     .label = පටිත්ත වාදනය
@@ -100,7 +100,6 @@ tab-context-move-tabs =
            *[other] පටිති ගෙනයන්න
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

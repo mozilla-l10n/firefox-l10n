@@ -18,7 +18,7 @@ toolbar-context-menu-bookmark-selected-tabs =
     .label = තේරූ පටිති සඳහා පොත්යොමු…
     .accesskey = T
 toolbar-context-menu-select-all-tabs =
-    .label = සියළු පටිති තෝරන්න
+    .label = පටිති සියල්ල තෝරන්න
     .accesskey = S
 # Variables
 #   $tabCount (number) - Number of tabs
