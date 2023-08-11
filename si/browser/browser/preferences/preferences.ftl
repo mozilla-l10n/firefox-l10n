@@ -363,7 +363,7 @@ applications-use-os-default-label =
 
 ##
 
-applications-handle-new-file-types-description = { -brand-short-name } අන් ගොනු සමඟ කුමක් කළ යුතුද?
+applications-handle-new-file-types-description = { -brand-short-name } අනකුත් ගොනු සමඟ කුමක් කළ යුතුද?
 applications-save-for-new-types =
     .label = ගොනු සුරකින්න
     .accesskey = S
@@ -581,13 +581,13 @@ search-bar-hidden =
 search-bar-shown =
     .label = සෙවුම් තීරය මෙවලම් තීරයට යොදන්න
 search-engine-default-header = පෙරනිමි සෙවුම් එළවුම
-search-engine-default-desc-2 = ලිපින තීරුවේ සහ සෙවුම් තීරුවේ ඇති ඔබගේ පෙරනිමි සෙවුම් යන්ත්‍රය මෙයයි. ඔබට එය ඕනෑම විටෙක මාරු කළ හැකිය.
+search-engine-default-desc-2 = ලිපින තීරුවේ සහ සෙවුම් තීරුවේ තිබෙන ඔබගේ පෙරනිමි සෙවුම් යන්ත්‍රය මෙයයි. ඔබට එය ඕනෑම විටෙක මාරු කිරීමට හැකිය.
 search-engine-default-private-desc-2 = පෞද්. කවුළු සඳහා පමණක් වෙනස් පෙරනිමි සෙවුම් යන්ත්‍රයක් තෝරන්න
 search-separate-default-engine =
     .label = පෞද්. කවුළුවල මෙම සෙවුම් යන්ත්‍රය භාවිතා කරන්න
     .accesskey = U
 search-suggestions-header = සෙවුම් යෝජනා
-search-suggestions-desc = සෙවුම් යන්ත්‍රවලින් යෝජනා දිස්වන ආකාරය තෝරන්න.
+search-suggestions-desc = සෙවුම් යන්ත්‍ර වලින් යෝජනා දිස්වන ආකාරය තෝරන්න.
 search-suggestions-option =
     .label = සෙවුම් යෝජනා ලබාදෙන්න
     .accesskey = s
@@ -605,7 +605,7 @@ search-show-search-term-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = පිරික්සුම් ඉතිහාසයට පෙර සෙවුම් යෝජනා ලිපින තීරු ප්‍රතිඵලවල පෙන්වන්න
+    .label = ලිපින තීරුවේ ප්‍රතිඵලවල පිරික්සුම් ඉතිහාසයට පෙර සෙවුම් යෝජනා පෙන්වන්න
 search-show-suggestions-private-windows =
     .label = පෞද්. කවුළුවල සෙවුම් යෝජනා පෙන්වන්න
 suggestions-addressbar-settings-generic2 = අන් ලිපින තීරු යෝජනා සඳහා සැකසුම් වෙනස් කරන්න
@@ -931,7 +931,7 @@ sitedata-option-block-cross-site-trackers =
 sitedata-option-block-cross-site-tracking-cookies =
     .label = හරස්-අඩවි ලුහුබඳින දත්තකඩ
 sitedata-option-block-cross-site-cookies =
-    .label = හරස්-අඩවි ලුහුබඳින දත්තකඩ, හා අන් හරස්-අඩවි දත්තකඩ හුදකලාව
+    .label = හරස්-අඩවි ලුහුබඳින දත්තකඩ හා වෙනත් හරස්-අඩවි දත්තකඩ හුදකලාව
 sitedata-option-block-unvisited =
     .label = නොගිය වියමන අඩවිවල දත්තකඩ
 sitedata-option-block-all-cross-site-cookies =
