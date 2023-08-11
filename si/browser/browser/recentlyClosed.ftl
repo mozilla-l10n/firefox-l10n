@@ -7,8 +7,8 @@
 ## and should follow the same capitalization (title case for English).
 ## Check menubar.ftl for reference.
 
-recently-closed-menu-reopen-all-tabs = සියළු පටිති යළි අරින්න
-recently-closed-menu-reopen-all-windows = සියළු කවුළු යළි අරින්න
+recently-closed-menu-reopen-all-tabs = සියළුම පටිති යළි අරින්න
+recently-closed-menu-reopen-all-windows = සියළුම කවුළු යළි අරින්න
 
 ## These strings are used in the app menu,
 ## and should follow the same capitalization (sentence case for English).

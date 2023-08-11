@@ -191,7 +191,7 @@ menu-view-close-readerview =
 ##
 
 menu-view-show-all-tabs =
-    .label = සියළු පටිති පෙන්වන්න
+    .label = පටිති සියල්ල පෙන්වන්න
     .accesskey = A
 menu-view-bidi-switch-page-direction =
     .label = පිටුවේ දිශාව මාරුව
@@ -203,7 +203,7 @@ menu-history =
     .label = ඉතිහාසය
     .accesskey = s
 menu-history-show-all-history =
-    .label = සියළු ඉතිහාසය පෙන්වන්න
+    .label = සමස්ත ඉතිහාසය පෙන්වන්න
 menu-history-clear-recent-history =
     .label = මෑත ඉතිහාසය මකන්න...
 menu-history-synced-tabs =
@@ -235,7 +235,7 @@ menu-edit-bookmark =
 menu-bookmarks-search =
     .label = පොත්යොමු සොයන්න
 menu-bookmarks-all-tabs =
-    .label = සියළු පොත්යොමු සංස්කරණය…
+    .label = සියළුම පොත්යොමු සංස්කරණය…
 menu-bookmarks-toolbar =
     .label = පොත්යොමු මෙවලම් තීරුව
 menu-bookmarks-other =

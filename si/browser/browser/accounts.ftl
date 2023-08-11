@@ -9,7 +9,7 @@ account-finish-account-setup = ගිණුම පිහිටුවීම න�
 # needs to reconnect their account.
 account-disconnected2 = ගිණුම විසන්ධි විය
 # Menu item that sends a tab to all synced devices.
-account-send-to-all-devices = සියළු උපාංග වෙත යවන්න
+account-send-to-all-devices = සියළුම උපාංග වෙත යවන්න
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = උපාංග කළමනාකරණය...
 
@@ -21,7 +21,7 @@ account-verify = { $email } සත්‍යාපනය කරන්න
 
 ## Displayed in the Send Tab/Page/Link to Device context menu when right clicking a tab, a page or a link.
 
-account-send-to-all-devices-titlecase = සියළු උපාංයන්ට යවන්න
+account-send-to-all-devices-titlecase = සියළුම උපාංයන්ට යවන්න
 account-manage-devices-titlecase = උපාංග කළමනාකරණය…
 
 ## Displayed in the Send Tabs context menu when right clicking a tab, a page or a link
