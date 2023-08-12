@@ -163,6 +163,7 @@ firefoxview-view-more-browsing-history = Dalšu přehladowansku historiju pokaza
 
 firefoxview-history-empty-header = Wróćće so tam, hdźež sće był
 firefoxview-history-empty-description = Mjeztym zo přehladujeće, so strony, kotrež wopytujeće, tu nalistuja.
+firefoxview-history-empty-description-two = Škit wašeje priwatnosće je naša dušina naležnosć. Tohodla móžeće aktiwitu,  na kotruž so { -brand-short-name } dopomina, we wašich <a data-l10n-name="history-settings-url">nastajenjach historije</a> wodźić.
 
 ##
 
@@ -173,6 +174,7 @@ firefoxview-choose-browser-button = Wubjerće wobhladowak
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Njeje ničo, zo hodźi so pokazać
+firefoxview-dont-remember-history-empty-description = Škit wašeje priwatnosće je naša dušina naležnosć. Tohodla móžeće aktiwitu wodźić,  na kotruž so { -brand-short-name } dopomina.
 
 ##
 
