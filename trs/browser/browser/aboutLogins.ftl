@@ -177,7 +177,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Ga'hue durê'.
-        [one] { "" }
+        [one] Ga'hue durê'.
        *[other] Nadure' nej sesiôn na.
     }
 about-logins-confirm-remove-all-dialog-title =
@@ -188,7 +188,7 @@ about-logins-confirm-remove-all-dialog-title =
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
         [1] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
-        [one] { "" }
+        [one] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
        *[other] Na gi'hiaj nī ganare' daran' nej sesión na'ní sat riña { -brand-short-name } nī si hua duguî' ruhuâ gātu hui nī si ga'hue.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
@@ -285,17 +285,17 @@ about-logins-import-dialog-items-added =
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Nahuin nakà nej sesiôn:</span><span data-l10n-name="count">{ $count }</span>
-       *[other] { "" }
+       *[other] <span>Nahuin nakà nej sesiôn:</span><span data-l10n-name="count">{ $count }</span>
     }
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Dâ huij nej sesiôn na hua:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nu guyunj)</span>
-       *[other] { "" }
+       *[other] <span>Dâ huij nej sesiôn na hua:</span><span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(nu guyunj)</span>
     }
 about-logins-import-dialog-items-error =
     { $count ->
         [one] <span>Sa gire'e:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu guyunj)</span>
-       *[other] { "" }
+       *[other] <span>Sa gire'e:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(nu guyunj)</span>
     }
 about-logins-import-dialog-done = Gà' huaj
 about-logins-import-dialog-error-title = Nū gūyunj
