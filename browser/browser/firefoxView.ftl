@@ -24,12 +24,14 @@ firefoxview-tabpickup-step-signin-header = Pśejźćo njepósrědnje mjazy rěda
 firefoxview-tabpickup-step-signin-description = Aby how rejtariki swójogo telefona dostał, pśizjawśo se nejpjerwjej abo załožćo konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dalej
 firefoxview-syncedtabs-signin-header = Wobstarajśo se rejtariki wóte wšuźi
+firefoxview-syncedtabs-signin-description = Aby swóje rejtariki wšuźi wiźeł, źož { -brand-product-name } wužywaśo, pśizjawśo se pla swójogo konta. Jolic konto njamaśo, pśewóźijomy was pśez kšace registracije.
 firefoxview-syncedtabs-signin-primarybutton = Pśizjawiś abo registrěrowaś
 firefoxview-tabpickup-adddevice-header = Synchronizěrujśo { -brand-product-name } na swójom telefonje abo tableśe
 firefoxview-tabpickup-adddevice-description = Ześěgniśo { -brand-product-name } za mobilne rědy a pśizjawśo se tam.
 firefoxview-tabpickup-adddevice-learn-how = Zgóńśo kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny rěd wobstaraś
 firefoxview-syncedtabs-adddevice-header = Pśizjawśo se pla { -brand-product-name } na swójich drugich rědach
+firefoxview-syncedtabs-adddevice-description = Aby swóje rejtariki wšuźi wiźeł, źož { -brand-product-name } wužywaśo, pśizjawśo se na wšych swójich rědach. Zgóńśo, kak móžośo z <a data-l10n-name="url">pśidatnymi rědami zwězaś</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wopytajśo { -brand-product-name } za mobilny rěd
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rejtarikow zmóžniś
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowóliś, rejtariki mjazy rědami źěliś.
@@ -160,6 +162,8 @@ firefoxview-view-more-browsing-history = Dalšnu pśeglědowańsku historiju pok
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Wrośćo se tam, źož sćo był
+firefoxview-history-empty-description = Mjaztym až pśeglědujośo, se boki, kótarež se woglědujośo, how nalicyju.
+firefoxview-history-empty-description-two = Šćit wašeje priwatnosći jo naša wutšobina pótrjebnosć. Togodla móžośo aktiwitu,  na kótaruž se { -brand-short-name } dopomina, we wašych <a data-l10n-name="history-settings-url">nastajenjach historije</a> wóźiś.
 
 ##
 
@@ -170,6 +174,8 @@ firefoxview-choose-browser-button = Wubjeŕśo wobglědowak
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Njedajo nic, až dajo se pokazaś
+firefoxview-dont-remember-history-empty-description = Šćit wašeje priwatnosći jo naša wutšobina pótrjebnosć. Togodla móžośo aktiwitu wóźiś,  na kótaruž se { -brand-short-name } dopomina.
+firefoxview-dont-remember-history-empty-description-two = Na zakłaźe wašych aktualnych nastajenjow se { -brand-short-name } na wašu aktiwitu njedopomina, gaž pśeglědujośo. Aby to změnił, <a data-l10n-name="history-settings-url-two">změńśo swóje nastajenja historije, aby se waša historija spomnjeła</a>.
 
 ##
 
