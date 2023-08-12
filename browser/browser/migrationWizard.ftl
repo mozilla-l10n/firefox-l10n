@@ -154,7 +154,14 @@ migration-list-payment-methods-label = วิธีการชำระเง�
 ##
 
 migration-wizard-progress-header = กำลังนำเข้าข้อมูล
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = นำเข้าข้อมูลสำเร็จแล้ว
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = การนำเข้าข้อมูลเสร็จสมบูรณ์
 migration-wizard-progress-icon-in-progress =
     .aria-label = กำลังนำเข้า…
 migration-wizard-progress-icon-completed =
