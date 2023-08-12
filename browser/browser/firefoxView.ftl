@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = Wubjerće wobhladowak
 
 firefoxview-dont-remember-history-empty-header = Njeje ničo, zo hodźi so pokazać
 firefoxview-dont-remember-history-empty-description = Škit wašeje priwatnosće je naša dušina naležnosć. Tohodla móžeće aktiwitu wodźić,  na kotruž so { -brand-short-name } dopomina.
+firefoxview-dont-remember-history-empty-description-two = Na zakładźe wašich aktualnych nastajenjow so { -brand-short-name } na wašu aktiwitu njedopomina, hdyž přehladujeće. Zo byšće to změnił, <a data-l10n-name="history-settings-url-two">změńće swoje nastajenja historije, zo by sej waša historija spomjatkowała</a>.
 
 ##
 
