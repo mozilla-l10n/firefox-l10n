@@ -24,12 +24,14 @@ firefoxview-tabpickup-step-signin-header = Přeńdźće bjezposrědnje mjez grat
 firefoxview-tabpickup-step-signin-description = Zo byšće tu rajtarki swojeho šmóratka dóstał, přizjewće so najprjedy abo załožće konto.
 firefoxview-tabpickup-step-signin-primarybutton = Dale
 firefoxview-syncedtabs-signin-header = Wobstarajće sej rajtarki wot wšudźe
+firefoxview-syncedtabs-signin-description = Zo byšće swoje rajtarki wšudźe widźał, hdźež { -brand-product-name } wužiwaće, přizjewće so pola swojeho konta. Jeli konto nimaće, přewodźimy was přez kroki registracije.
 firefoxview-syncedtabs-signin-primarybutton = Přizjewić abo registrować
 firefoxview-tabpickup-adddevice-header = Synchronizujće { -brand-product-name } na swojim telefonje abo tableće
 firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name } za mobilne graty a přizjewće so tam.
 firefoxview-tabpickup-adddevice-learn-how = Zhońće kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny grat wobstarać
 firefoxview-syncedtabs-adddevice-header = Přizjewće so pola { -brand-product-name } na swojich druhich gratach
+firefoxview-syncedtabs-adddevice-description = Zo byšće rajtarki wšudźe widźał, hdźež { -brand-product-name } wužiwaće, přizjewće so na wšěch swojich gratach. Zhońće, kak móžeće z <a data-l10n-name="url">přidatnymi gratami zwjazać</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
@@ -160,6 +162,7 @@ firefoxview-view-more-browsing-history = Dalšu přehladowansku historiju pokaza
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Wróćće so tam, hdźež sće był
+firefoxview-history-empty-description = Mjeztym zo přehladujeće, so strony, kotrež wopytujeće, tu nalistuja.
 
 ##
 
