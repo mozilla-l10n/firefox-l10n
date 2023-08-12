@@ -97,6 +97,7 @@ about-webrtc-save-page-label = บันทึกหน้า
 about-webrtc-debug-mode-msg-label = โหมดดีบั๊ก
 about-webrtc-debug-mode-off-state-label = เริ่มโหมดดีบั๊ก
 about-webrtc-debug-mode-on-state-label = หยุดโหมดดีบั๊ก
+about-webrtc-enable-logging-label = เปิดใช้งานพรีเซ็ตปูม WebRTC
 about-webrtc-stats-heading = สถิติวาระ
 about-webrtc-stats-clear = ล้างประวัติ
 about-webrtc-log-heading = รายการบันทึกการเชื่อมต่อ
