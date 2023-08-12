@@ -31,7 +31,7 @@ firefoxview-tabpickup-adddevice-description = Sćehńće { -brand-product-name }
 firefoxview-tabpickup-adddevice-learn-how = Zhońće kak
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } za mobilny grat wobstarać
 firefoxview-syncedtabs-adddevice-header = Přizjewće so pola { -brand-product-name } na swojich druhich gratach
-firefoxview-syncedtabs-adddevice-description = Zo byšće rajtarki wšudźe widźał, hdźež { -brand-product-name } wužiwaće, přizjewće so na wšěch swojich gratach. Zhońće, kak móžeće z <a data-l10n-name="url">přidatnymi gratami zwjazać</a>.
+firefoxview-syncedtabs-adddevice-description = Zo byšće swoje rajtarki wšudźe widźał, hdźež { -brand-product-name } wužiwaće, přizjewće so na wšěch swojich gratach. Zhońće, kak móžeće z <a data-l10n-name="url">přidatnymi gratami zwjazać</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Wupruwujće { -brand-product-name } za mobilny grat
 firefoxview-tabpickup-synctabs-header = Synchronizaciju rajtarkow zmóžnić
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } dowolić, rajtarki mjez gratami dźělić.
