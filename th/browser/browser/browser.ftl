@@ -353,6 +353,7 @@ identity-weak-encryption = หน้านี้ใช้การเข้า�
 identity-insecure-login-forms = การเข้าสู่ระบบที่ป้อนบนหน้านี้อาจถูกบุกรุกได้
 identity-https-only-connection-upgraded = (อัปเกรดเป็น HTTPS)
 identity-https-only-label = โหมด HTTPS-Only
+identity-https-only-label2 = อัปเกรดไซต์นี้เป็นการเชื่อมต่อแบบปลอดภัยโดยอัตโนมัติ
 identity-https-only-dropdown-on =
     .label = เปิด
 identity-https-only-dropdown-off =
