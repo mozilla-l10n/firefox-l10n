@@ -6,6 +6,7 @@ about-networking-title = Quant al trànsit de xarxa
 about-networking-http = HTTP
 about-networking-sockets = Sòcols
 about-networking-dns = DNS
+about-networking-dns-clear-cache-button = Esborra la memòria cau DNS
 about-networking-websockets = WebSockets
 about-networking-refresh = Actualitza
 about-networking-auto-refresh = Actualitza automàticament cada 3 segons

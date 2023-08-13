@@ -17,6 +17,8 @@ date-spinner-label =
 
 ## Text of the clear button
 
+date-picker-clear-button = Esborra
+
 ## These labels are used by screenreaders and other assistive technology
 ## to indicate the purpose of buttons that leaf through months of a calendar
 
