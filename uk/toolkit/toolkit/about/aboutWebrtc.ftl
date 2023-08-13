@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Почати журнал AEC
 about-webrtc-aec-logging-on-state-label = Припинити журнал AEC
 about-webrtc-aec-logging-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
 about-webrtc-aec-logging-toggled-on-state-msg = Журнал AEC активний (поговоріть з абонентом кілька хвилин, потім зупиніть захоплення)
+about-webrtc-aec-logging-unavailable-sandbox = Для експорту журналів AEC потрібна змінна середовища MOZ_DISABLE_CONTENT_SANDBOX=1. Встановлюйте цю змінну, лише якщо ви розумієте можливі ризики.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Захоплені файли журналу можна знайти в: { $path }
