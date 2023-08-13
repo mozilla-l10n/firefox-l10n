@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Komenci registradon de AEC
 about-webrtc-aec-logging-on-state-label = Haltigi registradon de AEC
 about-webrtc-aec-logging-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
 about-webrtc-aec-logging-toggled-on-state-msg = Registrado de AEC aktiva (parolu kun la vokinto dum kelkaj minutoj kaj poste haltigu la kaptadon)
+about-webrtc-aec-logging-unavailable-sandbox = La ĉirkaŭaĵa varianto MOZ_DISABLE_CONTENT_SANDBOX=1 estas postulata por krei registrojn AEC. Difinu tiun varianton nur se vi komprenas la eblajn riskojn.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Kaptitaj dosieroj de registrado troveblas en: { $path }
