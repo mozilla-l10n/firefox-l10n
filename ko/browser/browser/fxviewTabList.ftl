@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = 메뉴 열기
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = 새 탭에서 { $targetURI } 열기
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } 닫기
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = 방금 전
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name }에 저장
     .accesskey = o
 fxviewtabrow-copy-link = 링크 복사
     .accesskey = L
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle } 옵션
