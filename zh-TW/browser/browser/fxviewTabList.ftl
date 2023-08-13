@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = 開啟選單
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = 用新分頁開啟 { $targetURI }
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = 關閉 { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = 剛剛
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = 儲存至 { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = 複製鏈結
     .accesskey = L
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle } 的選項
