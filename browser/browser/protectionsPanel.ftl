@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Při słanju rozprawy je zmylk wustupił. Prošu spytajće pozdźišo hišće raz.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Sydło porjedźene? Sćelće rozprawu
 
@@ -22,13 +21,24 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Dalše informacije wo polěpšenym slědowanskim škiće
-
 protections-panel-etp-on-header = Polěpšeny slědowanski škit je zmóžnjeny za tute sydło
 protections-panel-etp-off-header = Polěpšeny slědowanski škit je znjemóžnjeny za tute sydło
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = Polěpšeny slědowanski škit
+    .description = Za tute sydło zmóžnjeny
+    .aria-label = Škit za { $host } znjemóžnić
+protections-panel-etp-off-toggle =
+    .label = Polěpšeny slědowanski škit
+    .description = Za tute sydło znjemóžnjeny
+    .aria-label = Škit za { $host } zmóžnić
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Sydło njefunguje?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Sydło njefunguje?
@@ -43,9 +53,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Wšě přesćěhowaki na tu
 ##
 
 protections-panel-no-trackers-found = Žane přesćěhowaki, kotrež { -brand-short-name } znaje, njejsu so na tutej stronje namakali.
-
 protections-panel-content-blocking-tracking-protection = Slědowacy wobsah
-
 protections-panel-content-blocking-socialblock = Přesćěhowaki socialnych medijow
 protections-panel-content-blocking-cryptominers-label = Kryptokopanje
 protections-panel-content-blocking-fingerprinters-label = Porstowe wotćišće
@@ -70,7 +78,6 @@ protections-panel-protectionsdashboard-label = Přehlad škitow
 
 # The header of the list
 protections-panel-site-not-working-view-header = Znjemóžńće škit, jeli maće problemy z:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Přizjewjenske pola
 protections-panel-site-not-working-view-issue-list-forms = Formulary
@@ -78,7 +85,6 @@ protections-panel-site-not-working-view-issue-list-payments = Płaćenja
 protections-panel-site-not-working-view-issue-list-comments = Komentary
 protections-panel-site-not-working-view-issue-list-videos = Wideja
 protections-panel-site-not-working-view-issue-list-fonts = Pisma
-
 protections-panel-site-not-working-view-send-report = Rozprawu pósłać
 
 ##
@@ -88,16 +94,13 @@ protections-panel-cryptominers = Kryptokopanje ličenski wukon wašeho systema w
 protections-panel-fingerprinters = Porstowe wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować.
 protections-panel-tracking-content = Websydła móža eksterne wabjenje, wideja a druhi wobsah ze slědowacym kodom začitać. Hdyž slědowacy wobsah blokujeće, móže to pomhać, sydła spěšnišo začitać, ale někotre tłóčatka, formulary a přizjewjenske pola snano hižo njebudu fungować.
 protections-panel-social-media-trackers = Socialne syće placěruja přesćěhowaki na druhich websydłach, zo bychu slědowali, što online činiće, widźiće a wobkedźbujeće. To předewzaćam socialnych medijow dowola, wjace wo was zhonił hač w profilach socialnych medijow dźěliće.
-
 protections-panel-description-shim-allowed = Blokowanje někotrych deleka markěrowanych přesćěhowakow je so zdźěla na tutej stronje zběhnyło, dokelž sće z nimi interagěrował.
 protections-panel-description-shim-allowed-learn-more = Dalše informacije
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Blokowanje přesćěhowaka je zdźěla zběhnjene
-
 protections-panel-content-blocking-manage-settings =
     .label = Škitne nastajenja rjadować
     .accesskey = n
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Wobškodźene sydło zdźělić
 protections-panel-content-blocking-breakage-report-view-description = Blokowanje wěstych přesćěhowakow móže problemy z někotrymi websydłami zawinować. Hdyž problemy zdźěliće, pomhaće { -brand-short-name } za kóždeho polěpšić. Pósćele so Mozilla URL a informacije wo wašich nastajenjach wobhladowaka. <label data-l10n-name="learn-more">Dalše informacije</label>
@@ -119,7 +122,6 @@ protections-panel-cookie-banner-handling-header = Redukowanje plackowych chorhoj
 protections-panel-cookie-banner-handling-enabled = Za tute sydło zmóžnjeny
 protections-panel-cookie-banner-handling-disabled = Za tute sydło znjemóžnjeny
 protections-panel-cookie-banner-handling-undetected = Sydło so tuchwilu njepodpěruje
-
 protections-panel-cookie-banner-view-title =
     .title = Redukowanje plackowych chorhojow
 # Variables
