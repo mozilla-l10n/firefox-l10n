@@ -19,7 +19,7 @@ customize-menu-add-to-overflowmenu =
 ## Forget Button
 
 # The forget button can be added to the toolbar or overflow menu via the cutomization menu.
-panic-button-thankyou-msg1 = S'ha netejat el vostre historial recent.
+panic-button-thankyou-msg1 = S'ha esborrat el vostre historial recent.
 panic-button-thankyou-msg2 = Navegueu amb seguretat!
 panic-button-thankyou-button =
     .label = Gràcies!
