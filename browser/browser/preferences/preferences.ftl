@@ -894,13 +894,13 @@ history-remember-search-option =
     .label = Recorda l'historial de cerques i de formularis
     .accesskey = f
 history-clear-on-close-option =
-    .label = Neteja l'historial quan es tanqui el { -brand-short-name }
-    .accesskey = q
+    .label = Esborra l'historial en tancar el { -brand-short-name }
+    .accesskey = b
 history-clear-on-close-settings =
     .label = Paràmetres…
     .accesskey = t
 history-clear-button =
-    .label = Neteja l'historial…
+    .label = Esborra l'historial…
     .accesskey = s
 
 ## Privacy Section - Site Data
@@ -939,7 +939,7 @@ sitedata-option-block-all-cross-site-cookies =
 sitedata-option-block-all =
     .label = Totes les galetes (farà que alguns llocs web no funcionin)
 sitedata-clear =
-    .label = Neteja les dades…
+    .label = Esborra les dades…
     .accesskey = l
 sitedata-settings =
     .label = Gestiona les dades…
