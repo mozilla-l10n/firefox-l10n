@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Por trovi pli malnovajn lange
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nenlu langeto malfermita en tiu ĉi aparato
