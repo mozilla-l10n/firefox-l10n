@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC-protokolěrowanje startowaś
 about-webrtc-aec-logging-on-state-label = AEC-protokolěrowanje zastajiś
 about-webrtc-aec-logging-on-state-msg = AEC-protokolěrowanje aktiwne (powědajśo pór minutow ze zazwónjarim a zastajśo pótom nagraśe)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-protokolěrowanje aktiwne (powědajśo pór minutow ze zazwónjarim a zastajśo pótom nagraśe)
+about-webrtc-aec-logging-unavailable-sandbox = Wokolinowa wariabla MOZ_DISABLE_CONTENT_SANDBOX=1 jo za eksport protokolow AEC trjebna. Stajśo toś tu wariablu jano, jolic móžne rizika rozmějośo.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Móžośo nagrane protokolowe dataje namakaś w: { $path }
