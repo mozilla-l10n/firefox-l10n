@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Malfermi menuon
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Malfermi { $targetURI } en nova langeto
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Ignori { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Ĵus
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = Konservi en { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Kopii ligilon
     .accesskey = l
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Elektebloj por { $tabTitle }
