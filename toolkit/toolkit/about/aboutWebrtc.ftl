@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Spustit protokol AEC
 about-webrtc-aec-logging-on-state-label = Zastavit protokol AEC
 about-webrtc-aec-logging-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
 about-webrtc-aec-logging-toggled-on-state-msg = Protokol AEC je aktivní (hovořte s volajícím pár minut, a pak zastavte sběr)
+about-webrtc-aec-logging-unavailable-sandbox = Proměnná prostředí MOZ_DISABLE_CONTENT_SANDBOX=1 je pro export protokolů AEC vyžadována. Tuto proměnnou nastavte pouze v případě, že si uvědomujete možná rizika.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Soubory sběru protokolu můžete nalézt v: { $path }
