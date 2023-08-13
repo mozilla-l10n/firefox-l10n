@@ -21,3 +21,4 @@ confirmation-hint-send-to-device = Inviata
 confirmation-hint-firefox-relay-mask-created = Nuovo alias creato.
 confirmation-hint-firefox-relay-mask-reused = Alias esistente riutilizzato.
 confirmation-hint-screenshot-copied = Schermata copiata.
+

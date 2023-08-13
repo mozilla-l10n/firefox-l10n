@@ -145,3 +145,4 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Annulla
 protections-panel-cookie-banner-view-turn-off = Disattiva
 protections-panel-cookie-banner-view-turn-on = Attiva
+

@@ -49,3 +49,4 @@ fxviewtabrow-copy-link = Copia link
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
   .title = Opzioni per { $tabTitle }
+
