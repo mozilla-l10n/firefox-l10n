@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = 开始 AEC 日志记录
 about-webrtc-aec-logging-on-state-label = 停止 AEC 日志记录
 about-webrtc-aec-logging-on-state-msg = AEC 日志正在记录（与呼叫者说几分钟话，然后停止捕捉）
 about-webrtc-aec-logging-toggled-on-state-msg = AEC 日志正在记录（与呼叫者说几分钟话，然后停止捕捉）
+about-webrtc-aec-logging-unavailable-sandbox = 导出AEC日志需要环境变量MOZ_DISABLE_CONTENT_SANDBOX=1。仅当您了解潜在的风险时才应设置此变量。
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的日志文件在这里: { $path }
