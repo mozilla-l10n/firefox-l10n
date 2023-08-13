@@ -8,6 +8,8 @@
 
 # The entry name is the label on the desktop icon, among other things.
 desktop-entry-name = { -brand-shortcut-name }
+# The comment usually appears as a tooltip when hovering over application menu entry.
+desktop-entry-comment = Arakatu World Wide Web-a
 desktop-entry-generic-name = Web nabigatzailea
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = { -brand-shortcut-name } web nabigatzailea
