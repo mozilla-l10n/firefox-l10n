@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC 로깅 시작
 about-webrtc-aec-logging-on-state-label = AEC 로깅 중지
 about-webrtc-aec-logging-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC 로깅 활성화(몇 분 간 대화를 하고 캡처를 중지하세요)
+about-webrtc-aec-logging-unavailable-sandbox = AEC 로그를 내보내려면 환경 변수 MOZ_DISABLE_CONTENT_SANDBOX=1 이 필요합니다. 가능한 위험을 이해하는 경우에만 이 변수를 설정하세요.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = 캡처된 로그파일 위치: { $path }
