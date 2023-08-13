@@ -23,6 +23,20 @@ protections-panel-etp-more-info =
     .aria-label = 关于增强型跟踪保护功能的更多信息
 protections-panel-etp-on-header = 此网站已开启增强型跟踪保护
 protections-panel-etp-off-header = 此网站已关闭增强型跟踪保护
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = 增强型跟踪保护
+    .description = 在此网站开启
+    .aria-label = 禁用对{ $host }的保护
+protections-panel-etp-off-toggle =
+    .label = 增强型跟踪保护
+    .description = 在此网站关闭
+    .aria-label = 启用对{ $host }的保护
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 网站不正常？
 # The heading/title of the sub-panel view
