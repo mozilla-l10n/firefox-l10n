@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Eike poravorãme
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Embojuruja { $targetURI } tendayke pyahúpe
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Emboyke { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Ko’ag̃aite
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
     .accesskey = o
 fxviewtabrow-copy-link = Emonguatia juajuha
     .accesskey = L
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Jeporavorã { $tabTitle } peg̃uarã
