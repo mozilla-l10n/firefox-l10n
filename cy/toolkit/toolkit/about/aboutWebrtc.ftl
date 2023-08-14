@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Cychwyn Cofnodi AEC
 about-webrtc-aec-logging-on-state-label = Atal Cofnodi AEC
 about-webrtc-aec-logging-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
 about-webrtc-aec-logging-toggled-on-state-msg = Cofnodi AEC yn weithredol (siarad gyda'r galwr am ychydig funudau ac yna atal y cipio)
+about-webrtc-aec-logging-unavailable-sandbox = Mae angen y newidyn amgylchedd MOZ_DISABLE_CONTENT_SANDBOX=1 er mwyn allforio cofnodion AEC. Gosodwch y newidyn hwn dim ond os ydych chi'n deall y risgiau posibl.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Mae'r ffeiliau cofnod y cipio yn: { $path }
