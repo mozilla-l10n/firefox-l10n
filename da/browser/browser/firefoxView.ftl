@@ -173,6 +173,8 @@ firefoxview-choose-browser-button = Vælg browser
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Intet at vise
+firefoxview-dont-remember-history-empty-description = At beskytte dit privatliv er en del af vores mission. Derfor er det dig, der bestemmer hvilke aktiviteter { -brand-short-name } husker.
 
 ##
 
@@ -184,12 +186,17 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importer historik fra en anden browser
+firefoxview-import-history-description = Gør { -brand-short-name } til din foretrukne browser. Importer historik, bogmærker og mere.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Lukkede du et faneblad for hurtigt?
+firefoxview-recentlyclosed-empty-description = Her kan du finde faneblade, du har lukket for nyligt. Så kan du hurtigt åbne nogen af dem igen.
+firefoxview-recentlyclosed-empty-description-two = Besøg din <a data-l10n-name="history-url">browserhistorik</a> for at se faneblade, du har besøgt for længere tid siden.
 
 ##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Ingen åbne faneblade på denne enhed
