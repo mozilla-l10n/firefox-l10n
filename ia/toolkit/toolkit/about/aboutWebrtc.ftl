@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Comenciar le registration de AEC
 about-webrtc-aec-logging-on-state-label = Stoppar registration AEC
 about-webrtc-aec-logging-on-state-msg = Registration AEC active (parla con le appellator durante alcun minutas e alora stoppa le captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Registration AEC active (parla con le appellator durante alcun minutas e alora stoppa le captura)
+about-webrtc-aec-logging-unavailable-sandbox = Es obligatori usar le variabile de ambiente MOZ_DISABLE_CONTENT_SANDBOX=1 pro exportar le registros AEC. Solo predefini iste variabile si tu comprende le possibile riscos associate.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Files de log capturate pote esser trovate in: { $path }
