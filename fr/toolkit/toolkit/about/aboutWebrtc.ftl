@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Démarrer la journalisation AEC
 about-webrtc-aec-logging-on-state-label = Arrêter la journalisation AEC
 about-webrtc-aec-logging-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
 about-webrtc-aec-logging-toggled-on-state-msg = Journalisation AEC active (discutez quelques minutes avec votre correspondant puis arrêtez l’enregistrement)
+about-webrtc-aec-logging-unavailable-sandbox = La variable d’environnement MOZ_DISABLE_CONTENT_SANDBOX=1 est requise pour exporter les journaux AEC. Ne définissez cette variable que si vous comprenez les risques possibles.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Les fichiers de journalisation capturés sont disponibles à l’emplacement suivant : { $path }
