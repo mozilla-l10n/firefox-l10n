@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Oĩ jepysokue ñoñemoneĩriva
 unified-extensions-mb-quarantined-domain-message = Oĩ ndahetái jepysokue oñangarekóva { -vendor-short-name } oñemoneĩ ko tendápe omo’ã hag̃ua ne mba’ekuaarã.
+unified-extensions-mb-quarantined-domain-message-2 = Emo’ã hag̃ua mba’ekuaarã, ndahetái jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã ko tendápe. Eipuru jepysokue ñemboheko emoneĩ hag̃ua tenda omochi’ĩva { -vendor-short-name }.
