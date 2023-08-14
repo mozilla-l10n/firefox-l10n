@@ -113,7 +113,7 @@ firefoxview-synced-tabs-header = Tabbladen van andere apparaten
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Alles bekijken
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -142,3 +142,31 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 firefoxview-show-all-history = Alle geschiedenis tonen
 firefoxview-view-more-browsing-history = Meer navigatiegeschiedenis bekijken
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Sluiten
+    .title = Sluiten
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
