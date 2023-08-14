@@ -5,6 +5,10 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oversæt denne side
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Prøv beta-versionen af oversættelse i { -brand-shorter-name }, der respekterer dit privatliv
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +63,9 @@ translations-panel-translate-button-loading =
     .label = Vent venligst…
 translations-panel-translate-cancel =
     .label = Annuller
+translations-panel-learn-more-link = Læs mere
+translations-panel-intro-header = Prøv oversættelse, der respekterer dit privatliv, i { -brand-shorter-name }
+translations-panel-intro-description = For at beskytte dit privatliv forlader oversættelserne aldrig din enhed. Nye sprog og andre forbedringer kommer snart!
 translations-panel-error-translating = Der opstod et problem med at oversætte. Prøv igen.
 translations-panel-error-load-languages = Kunne ikke indlæse sprog
 translations-panel-error-load-languages-hint = Kontroller din internetforbindelse og prøv igen.
