@@ -23,6 +23,20 @@ protections-panel-etp-more-info =
     .aria-label = ვრცლად თვალთვალისგან გაძლიერებული დაცვის შესახებ
 protections-panel-etp-on-header = თვალთვალისგან დაცვა ჩართულია ამ საიტზე
 protections-panel-etp-off-header = თვალთვალისგან დაცვა გამორთულია ამ საიტზე
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = თვალთვალისგან გაძლიერებული დაცვა
+    .description = ჩართულია ამ საიტზე
+    .aria-label = დაცვისგან გამოითიშოს { $host }
+protections-panel-etp-off-toggle =
+    .label = თვალთვალისგან გაძლიერებული დაცვა
+    .description = გამორთულია ამ საიტზე
+    .aria-label = დაცვით ჩაირთოს { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = არ მუშაობს საიტი?
 # The heading/title of the sub-panel view
