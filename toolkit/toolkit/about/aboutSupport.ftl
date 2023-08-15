@@ -15,7 +15,10 @@ support-addons-type = Mota
 support-addons-enabled = Gaituta
 support-addons-version = Bertsioa
 support-addons-id = ID
+legacy-user-stylesheets-title = Erabiltzaileen legatu estilo-orriak
 legacy-user-stylesheets-enabled = Aktibo
+legacy-user-stylesheets-stylesheet-types = Estilo-orriak
+legacy-user-stylesheets-no-stylesheets-found = Ez da estilo-orririk aurkitu
 security-software-title = Segurtasun softwarea
 security-software-type = Mota
 security-software-name = Izena
@@ -75,6 +78,7 @@ app-basics-key-mozilla = Mozilla Location Service gakoa
 app-basics-safe-mode = Modu segurua
 app-basics-memory-size = Memoriaren tamaina (RAM)
 app-basics-disk-available = Diskoko leku erabilgarria
+app-basics-pointing-devices = Erakusledun gailuak
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -178,6 +182,9 @@ media-capabilities-enumerate = Zerrendatu datu-basea
 media-codec-support-sw-decoding = Software deskodeketa
 media-codec-support-hw-decoding = Hardware deskodeketa
 media-codec-support-codec-name = Codec-aren izena
+media-codec-support-supported = Euskarria du
+media-codec-support-unsupported = Ez du euskarririk
+media-codec-support-error = Kodekaren euskarriari buruzko informazioa ez dago erabilgarri. Saiatu berriro multimedia-fitxategi bat erreproduzitu ondoren.
 
 ##
 
@@ -400,3 +407,4 @@ support-remote-features-status = Egoera
 
 pointing-device-mouse = Sagua
 pointing-device-touchscreen = Ukipen-pantaila
+pointing-device-pen-digitizer = Boligrafo digitalizatzailea
