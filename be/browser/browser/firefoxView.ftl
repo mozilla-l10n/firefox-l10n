@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue }% завершана
 firefoxview-tabpickup-step-signin-header = Лёгка пераключайцеся паміж прыладамі
 firefoxview-tabpickup-step-signin-description = Каб атрымаць тут карткі з тэлефона, спачатку ўвайдзіце або стварыце ўліковы запіс.
 firefoxview-tabpickup-step-signin-primarybutton = Працягнуць
+firefoxview-syncedtabs-signin-header = Захоплівайце карткі адусюль
 firefoxview-syncedtabs-signin-primarybutton = Увайсці або зарэгістравацца
 firefoxview-tabpickup-adddevice-header = Сінхранізуйце { -brand-product-name } на сваім тэлефоне або планшэце
 firefoxview-tabpickup-adddevice-description = Сцягніце { -brand-product-name } для мабільнага і ўвайдзіце там.
