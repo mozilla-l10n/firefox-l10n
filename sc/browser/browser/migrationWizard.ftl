@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Importa datos de su navigadore
 migration-wizard-selection-list = Sèbera is datos chi dias a bòlere importare.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Sèbera is datos chi dias a bòlere importare.
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -38,6 +36,7 @@ migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-file-password-csv = Craes dae archìviu CSV
+migration-wizard-migrator-display-name-file-bookmarks = Sinnalibros dae un’archìviu HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -54,21 +53,22 @@ migration-selected-data-label = Importa is datos seletzionados
 
 migration-select-all-option-label = Seletziona totu
 migration-bookmarks-option-label = Sinnalibros
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Preferidos
-
 migration-logins-and-passwords-option-label = Credentziales e craes sarvadas
 migration-history-option-label = Cronologia de navigatzione
+migration-extensions-option-label = Estensiones
 migration-form-autofill-option-label = Datos de cumpletamentu automàticu de is formulàrios
-
+migration-payment-methods-option-label = Mètodos de pagamentu
+migration-cookies-option-label = Testimòngios
+migration-session-option-label = Ventanas e ischedas
+migration-otherdata-option-label = Àteros datos
 migration-passwords-from-file-progress-header = Importa un’archìviu de craes
 migration-passwords-from-file-success-header = Craes importadas
 migration-passwords-from-file = Averiguende is craes in s’archìviu
 migration-passwords-new = Craes noas
 migration-passwords-updated = Craes chi esistint giai
-
 migration-passwords-from-file-picker-title = Importa un’archìviu de craes
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -84,7 +84,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Documentu TSV
        *[other] Archìviu TSV
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -95,7 +94,6 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } agiunta
        *[other] { $newEntries } agiuntas
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -106,14 +104,35 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } atualizada
        *[other] { $updatedEntries } atualizadas
     }
-
+migration-bookmarks-from-file-picker-title = Importa un’archìviu de sinnalibros
+migration-bookmarks-from-file = Sinnalibros
+migration-bookmarks-from-file-success-header = Sinnalibros importados
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Archìviu HTML
+       *[other] Archìviu HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Archìviu JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } sinnalibru
+       *[other] { $newEntries } sinnalibros
+    }
 migration-import-button-label = Importa
 migration-choose-to-import-from-file-button-label = Importa dae un’archìviu
 migration-import-from-file-button-label = Seletziona un’archìviu
 migration-cancel-button-label = Annulla
 migration-done-button-label = Fatu
 migration-continue-button-label = Sighi
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } no at agatadu nissunu programma chi cuntèngiat sinnalibros, cronologia o craes.
 migration-wizard-import-browser-no-resources = Ddoe est istada una faddina. { -brand-short-name } no at agatadu datos de importare dae su profilu seberadu.
 
@@ -124,23 +143,30 @@ migration-wizard-import-browser-no-resources = Ddoe est istada una faddina. { -b
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = sinnalibros
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = preferidos
 migration-list-password-label = craes
 migration-list-history-label = cronologia
+migration-list-extensions-label = estensiones
 migration-list-autofill-label = Datos de cumpletamentu automàticu
+migration-list-payment-methods-label = mètodos de pagamentu
 
 ##
 
 migration-wizard-progress-header = Importatzione de is datos
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = Datos importados
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Importatzione de is datos cumpletada
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importende…
 migration-wizard-progress-icon-completed =
     .aria-label = Cumpletadu
-
 migration-safari-password-import-header = Importa craes dae Safari
 migration-safari-password-import-steps-header = Pro importare craes dae Safari:
 migration-safari-password-import-step1 = In Safari, aberi su menù “Safari” e bae a Preferèntzias > Craes
@@ -149,8 +175,6 @@ migration-safari-password-import-step3 = Sarva s’archìviu de craes
 migration-safari-password-import-step4 = Imprea “Seletziona archìviu” a bàsciu pro seberare s’archìviu de is craes chi as sarvadu
 migration-safari-password-import-skip-button = Brinca
 migration-safari-password-import-select-button = Seletziona un’archìviu
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -161,7 +185,6 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } sinnalibru
        *[other] { $quantity } sinnalibros
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -179,6 +202,23 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } estensione
+       *[other] { $quantity } estensiones
+    }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } estensiones de { $quantity }
 
 ##
 
@@ -192,7 +232,6 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } crae
        *[other] { $quantity } craes
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -203,9 +242,17 @@ migration-wizard-progress-success-history =
         [one] Dae s’ùrtima die
        *[other] Dae is ùrtimas { $maxAgeInDays } dies
     }
-
 migration-wizard-progress-success-formdata = Cronologia de formulàrios
-
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } mètodu de pagamentu
+       *[other] { $quantity } mètodos de pagamentu
+    }
 migration-wizard-safari-permissions-sub-header = Pro importare is sinnalibros e sa cronologia de Safari;
 migration-wizard-safari-instructions-continue = Sèbera «Sighi»
 migration-wizard-safari-instructions-folder = Sèbera sa cartella de Safari in sa lista e sèbera «Aberi»

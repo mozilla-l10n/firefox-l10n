@@ -38,11 +38,9 @@ menu-quit =
             [windows] E
            *[other] E
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Essi de { -brand-shorter-name }
-
 menu-about =
     .label = Informatziones de { -brand-shorter-name }
     .accesskey = I
@@ -51,7 +49,7 @@ menu-about =
 
 menu-file =
     .label = Archìviu
-    .accesskey = r
+    .accesskey = A
 menu-file-new-tab =
     .label = Ischeda noa
     .accesskey = n
@@ -222,6 +220,9 @@ menu-history-undo-menu =
     .label = Ischedas serradas de reghente
 menu-history-undo-window-menu =
     .label = Ventanas serradas de reghente
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Chirca in sa cronologia
 
 ## Bookmarks Menu
 
@@ -234,6 +235,9 @@ menu-bookmark-tab =
     .label = Pone s'ischeda atuale in is sinnalibros…
 menu-edit-bookmark =
     .label = Modìfica custu sinnalibru…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Chirca in is sinnalibros
 menu-bookmarks-all-tabs =
     .label = Pone totu is ischedas in is sinnalibros...
 menu-bookmarks-toolbar =
@@ -327,6 +331,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Disativa sa modalidade de curretzione de faddinas
     .accesskey = d
+menu-help-switch-device =
+    .label = Passa a unu dispositivu nou
+    .accesskey = P
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
