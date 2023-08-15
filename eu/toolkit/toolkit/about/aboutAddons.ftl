@@ -156,6 +156,8 @@ extensions-warning-check-compatibility-button = Gaitu
 extensions-warning-update-security = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
 extensions-warning-update-security-button = Gaitu
     .title = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
+extensions-warning-imported-addons = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
+extensions-warning-imported-addons-button = Instalatu hedapenak
 
 ## Strings connected to add-on updates
 
@@ -356,6 +358,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Exekutatu mugak dituzten guneetan
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Baimenduta dagoenean, { -vendor-short-name }(e)k mugatzen dituen guneetarako sarbidea izango du hedapenak.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Baimendu
 addon-detail-quarantined-domains-disallow = Ez baimendu
