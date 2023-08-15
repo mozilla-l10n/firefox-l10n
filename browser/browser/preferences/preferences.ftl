@@ -491,7 +491,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = ახალი ფანჯრები და ჩანართები
-home-new-windows-tabs-description2 = მიუთითეთ რისი ხილვა გსურთ, საწყისი გვერდის, ახალი ფანჯრებისა და ახალი ჩანართების გახსნისას.
+home-new-windows-tabs-description2 = მიუთითეთ, რისი ხილვა გსურთ საწყისი გვერდის, ახალი ფანჯრებისა და ახალი ჩანართების გახსნისას.
 
 ## Home Section - Home Page Customization
 
@@ -611,7 +611,7 @@ search-show-suggestions-above-history-option =
     .label = ძიების შემოთავაზების უკვე მონახულებულზე წინ გამოჩენა შედეგებში
 search-show-suggestions-private-windows =
     .label = ძიების შემოთავაზებების ჩვენება პირად ფანჯრებში
-suggestions-addressbar-settings-generic2 = პარამეტრები, მისამართების ველის სხვა შემოთავაზებებისთვის
+suggestions-addressbar-settings-generic2 = პარამეტრები მისამართების ველის სხვა შემოთავაზებებისთვის
 search-suggestions-cant-show = მისამართების ველში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან მითითებული გაქვთ, რომ { -brand-short-name } არასოდეს დაიმახსოვრებს ისტორიას.
 search-one-click-header2 = ძიების მალსახმობები
 search-one-click-desc = მიუთითეთ სათადარიგო საძიებოები, რომლებიც გამოჩნდება მისამართებისა და ძიების ველების ქვემოთ საძებნი ფრაზის აკრეფისას.
@@ -991,7 +991,7 @@ addressbar-quickactions-learn-more = ვრცლად
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = თვალთვალისგან გაძლიერებული დაცვა
-content-blocking-section-top-level-description = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფორმაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
+content-blocking-section-top-level-description = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფორმაციას თქვენი ჩვევებისა თუ მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
 content-blocking-learn-more = ვრცლად
 content-blocking-fpi-incompatibility-warning = თქვენ იყენებთ პირველი მხარის გამიჯვნას (FPI), რომლითაც { -brand-short-name } ანაცვლებს ფუნთუშების ზოგიერთ პარამეტრს.
 
