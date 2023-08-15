@@ -408,3 +408,4 @@ support-remote-features-status = Egoera
 pointing-device-mouse = Sagua
 pointing-device-touchscreen = Ukipen-pantaila
 pointing-device-pen-digitizer = Boligrafo digitalizatzailea
+pointing-device-none = Erakusledun gailurik ez

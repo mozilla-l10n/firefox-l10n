@@ -37,6 +37,12 @@ pictureinpicture-close-btn =
 pictureinpicture-subtitles-btn =
     .aria-label = Azpitituluak
     .tooltip = Azpitituluak
+pictureinpicture-fullscreen-btn2 =
+    .aria-label = Pantaila osoa
+    .tooltip = Pantaila osoa (klik bikoitza edo { $shortcut })
+pictureinpicture-exit-fullscreen-btn2 =
+    .aria-label = Irten pantaila osotik
+    .tooltip = Irten pantaila osotik (klik bikoitza edo { $shortcut })
 
 ##
 
