@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Izjeme
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Naslov spletnega mesta
     .accesskey = N
-
 permissions-block =
     .label = Prepovej
     .accesskey = r
-
 permissions-disable-etp =
     .label = Dodaj izjemo
     .accesskey = D
-
 permissions-session =
     .label = Dovoli v tej seji
     .accesskey = S
-
 permissions-allow =
     .label = Dovoli
     .accesskey = D
-
 permissions-button-off =
     .label = Izključi
     .accesskey = I
-
 permissions-button-off-temporarily =
     .label = Začasno izključi
     .accesskey = Z
-
 permissions-site-name =
     .label = Spletno mesto
-
 permissions-status =
     .label = Stanje
-
 permissions-remove =
     .label = Odstrani spletno mesto
     .accesskey = O
-
 permissions-remove-all =
     .label = Odstrani vsa spletna mesta
     .accesskey = v
-
 permission-dialog =
     .buttonlabelaccept = Shrani spremembe
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Privzeto za vsa spletna mesta:
-
 permissions-searchbox =
     .placeholder = Iskanje spletnih mest
-
 permissions-capabilities-autoplay-allow =
     .label = Dovoli zvok in video
 permissions-capabilities-autoplay-block =
     .label = Zavrni zvok
 permissions-capabilities-autoplay-blockall =
     .label = Zavrni zvok in video
-
 permissions-capabilities-allow =
     .label = Dovoli
 permissions-capabilities-block =
     .label = Prepovej
 permissions-capabilities-prompt =
     .label = Vedno vprašaj
-
 permissions-capabilities-listitem-allow =
     .value = Dovoli
 permissions-capabilities-listitem-block =
     .value = Prepovej
 permissions-capabilities-listitem-allow-session =
     .value = Dovoli v tej seji
-
 permissions-capabilities-listitem-off =
     .value = Izključeno
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Izjeme – Način samo HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS. Izjeme ne bodo veljale v zasebnih oknih.
+permissions-exceptions-https-only-desc2 = Način "samo HTTPS" lahko izklopite za določena spletna mesta. Na teh spletnih mestih { -brand-short-name } ne bo poskušal nadgraditi povezave na zavarovani HTTPS.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Nastavitve – Dovoljenja zvočnikov
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Naslednja spletna mesta so hotela izbrati zvočno izhodno napravo. Določite lahko, katera spletna mesta lahko izberejo zvočno izhodno napravo.
-
 permissions-exceptions-doh-window =
     .title = Izjeme spletnih mest za DNS prek HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = Na teh spletnih mestih in njihovih poddomenah { -brand-short-name } ne bo uporabljal varnega DNS.
-
 permissions-doh-entry-field = Vnesite domeno spletnega mesta
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Dodaj
     .accesskey = D
-
 permissions-doh-col =
     .label = Domena
-
 permissions-doh-remove =
     .label = Odstrani
     .accesskey = O
-
 permissions-doh-remove-all =
     .label = Odstrani vse
     .accesskey = v
