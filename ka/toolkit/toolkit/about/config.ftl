@@ -7,7 +7,7 @@
 
 about-config-intro-warning-title = გამოიყენეთ სიფრთხილით
 about-config-intro-warning-text = გაფართოებული პარამეტრების შეცვლამ შესაძლოა დააზიანოს { -brand-short-name } წარმადობის ან უსაფრთხოების კუთხით.
-about-config-intro-warning-checkbox = გაფრთხილება, ამგვარ პარამეტრებთან წვდომისას
+about-config-intro-warning-checkbox = გაფრთხილება ამგვარ პარამეტრებთან წვდომისას
 about-config-intro-warning-button = საფრთხის გაცნობიერება და გაგრძელება
 
 ##
