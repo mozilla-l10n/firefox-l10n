@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = အကြံပြုထားသော လု�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ဘာကြောင့် မြင်ရပါသနည်း
-
 cfr-doorhanger-extension-cancel-button = ယခု မဟုတ်သေးပါ
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = ယခုပင်ထည့်ပါ
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = အကြံပြုချက်နှင့်ဆိုင်သည့်အပြင်အဆင်များစီမံပါ
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = ဒီအကြံပြုချက်ကိုမပြပါနှင့်
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = ပိုမိုလေ့လာရန်
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } အားဖြင့်
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = အကြံပြုချက်
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = အကြံပြုချက်
     .tooltiptext = အပိုနောက်တွဲ အကြံပြုချက်
     .a11y-announcement = အပိုနောက်တွဲ အကြံပြုချက် ရပြီ
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = အကြံပြုချက်
     .tooltiptext = စွမ်းရည် အကြံပြုချက်
     .a11y-announcement = စွမ်းရည် အကြံပြုချက် ရပြီ
@@ -67,16 +61,20 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-bookmark-fxa-header = သင့် စာမှတ်များ နေရာမျိုးစုံ တွင်အသုံးပြုပါ
 cfr-doorhanger-bookmark-fxa-body = ကောင်းကောင်းတွေ့တာပဲ! ဒီ စာမှတ် ကို သင့် မိုဘိုင်း ကိရိယာပေါ်မှာပဲ မထားခဲ့ပါနဲ့။ အခုပဲ { -fxaccount-brand-name } နှင့် စတင်ပါ။
+cfr-doorhanger-bookmark-fxa-link-text = အခုပဲ စာမှတ်များကို Sync ပါ…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = ပိတ် ခလုပ်
+    .title = ပိတ်
 
 ## Protections panel
 
+cfr-protections-panel-header = အင်တာနက်သုံးစွဲ ရာ‌‌ နောက်ယောင်ခံ လိုက်ခြင်း မရှိပါ
 
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = ဘာထူးလဲ
     .tooltiptext = ဘာထူးလဲ
-
 cfr-whatsnew-release-notes-link-text = ထုတ်ပြန်ချက်မှတ်စုများကိုဖတ်ပါ
 
 ## Enhanced Tracking Protection Milestones
@@ -89,13 +87,7 @@ cfr-doorhanger-milestone-ok-button = အားလုံးကိုကြည့�
 cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
     .accesskey = D
 
-## Fission Experiment Message
-
-
 ## Full Video Support CFR message
-
-
-## Spotlight modal shared strings
 
 
 ## VPN promotion dialog for public Wi-Fi users
@@ -103,9 +95,6 @@ cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
 ## If a user is detected to be on a public Wi-Fi network, they are given a
 ## bit of info about how to improve their privacy and then offered a button
 ## to the Mozilla VPN page and a link to dismiss the dialog.
-
-
-## Total Cookie Protection Rollout
 
 
 ## Emotive Continuous Onboarding
@@ -142,7 +131,9 @@ cfr-doorhanger-doh-secondary-button = ပိတ်ထားသည်
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+
 ## FxA sync CFR
+
 
 ## Device Migration FxA Spotlight
 
