@@ -357,6 +357,7 @@ identity-weak-encryption = Orri honek zifraketa ahula erabiltzen du.
 identity-insecure-login-forms = Orri honetan sartutako saio-hasierak arriskuan egon litezke.
 identity-https-only-connection-upgraded = (HTTPSra bihurtu da)
 identity-https-only-label = HTTPS-Only modua
+identity-https-only-label2 = Hobetu automatikoki gune hau konexio seguru batera
 identity-https-only-dropdown-on =
     .label = Aktibatuta
 identity-https-only-dropdown-off =
@@ -365,6 +366,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Desaktibatuta behin-behinean
 identity-https-only-info-turn-on2 = Aktibatu gune honetarako HTTPS-Only modua, ahal denean { -brand-short-name }(e)k konexioa HTTPSra bihur dezan.
 identity-https-only-info-turn-off2 = Orriak hautsita badirudi, agian HTTPS-Only modua desgaitu nahi duzu gunea HTTP ez-segurua erabiliz berritzeko.
+identity-https-only-info-turn-on3 = Gaitu HTTPS hobekuntzak gune honetarako { -brand-short-name }(e)k ahal denean konexioa hobetzea nahi baduzu.
+identity-https-only-info-turn-off3 = Orriak hautsita badirudi, agian gune honetarako HTTPS hobekuntzak desgaitu nahi dituzu, gunea HTTP ez-segurua erabiliz berritzeko.
 identity-https-only-info-no-upgrade = Ezin da konexioa bihurtu HTTPtik.
 identity-permissions-storage-access-header = Guneen arteko cookieak
 identity-permissions-storage-access-hint = Ondorengo hauek guneen arteko cookie eta datuak erabil ditzakete gune honetan zauden bitartean.
@@ -557,6 +560,8 @@ urlbar-result-action-search-w-engine = Bilatu { $engine } erabiliz
 urlbar-result-action-sponsored = Babesleak hornituta
 urlbar-result-action-switch-tab = Aldatu fitxara
 urlbar-result-action-visit = Bisitatu
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Bisitatu zure arbeletik
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
