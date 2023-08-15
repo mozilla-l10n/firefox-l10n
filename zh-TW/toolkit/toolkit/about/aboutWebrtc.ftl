@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = 開始 AEC 記錄
 about-webrtc-aec-logging-on-state-label = 停止 AEC 記錄
 about-webrtc-aec-logging-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
 about-webrtc-aec-logging-toggled-on-state-msg = AEC 紀錄中（請與來電者交談幾分鐘後再停止捕捉）
+about-webrtc-aec-logging-unavailable-sandbox = 需要設定環境變數 MOZ_DISABLE_CONTENT_SANDBOX=1 才可以匯出 AEC 紀錄。請務必先理解可能造成的風險，再設定此環境變數。
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = 捕捉到的記錄檔位於: { $path }
