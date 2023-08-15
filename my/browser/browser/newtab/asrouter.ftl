@@ -69,9 +69,14 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = အင်တာနက်သုံးစွဲ ရာ‌‌ နောက်ယောင်ခံ လိုက်ခြင်း မရှိပါ
+cfr-protections-panel-body = သင့် အချက်အလက် များသည် သင်သာ ရယူနိုင်သည်။ { -brand-short-name } မှ သင့်အား ‌ခြေရာခံ လိုက်သူများထံမှ အကာအကွယ်ပေးထားသည်။
+cfr-protections-panel-link-text = ပိုမို လေ့လာရန်
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = စွမ်းဆောင်မှု့ အသစ်များ :
 cfr-whatsnew-button =
     .label = ဘာထူးလဲ
     .tooltiptext = ဘာထူးလဲ
