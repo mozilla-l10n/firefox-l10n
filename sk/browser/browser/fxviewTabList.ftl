@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Otvoriť ponuku
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Otvoriť { $targetURI } na novej karte
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Odstrániť { $tabTitle } zo zoznamu
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = práve teraz
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = Uložiť do { -pocket-brand-name(case: "gen") }
     .accesskey = U
 fxviewtabrow-copy-link = Kopírovať odkaz
     .accesskey = K
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Možnosti pre { $tabTitle }
