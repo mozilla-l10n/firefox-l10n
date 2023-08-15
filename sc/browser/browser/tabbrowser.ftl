@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = Ischeda noa
 tabbrowser-empty-private-tab-title = Ischeda privada noa
-
 tabbrowser-menuitem-close-tab =
     .label = Serra s'ischeda
 tabbrowser-menuitem-close =
     .label = Serra
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -120,7 +117,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = No m'ammustres prus custu diàlogu.
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Permite a is notìficas comente a custa de { $domain } de ti batire a s'ischeda issoro
-
 tabbrowser-customizemode-tab-title = Personaliza { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,7 +135,6 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Ativa s'àudio de is ischedas
     .accesskey = t
-
 # This string is used as an additional tooltip and accessibility description for tabs playing audio
 tabbrowser-tab-audio-playing-description = Riproduende àudio
 
@@ -152,3 +147,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Pone s'ischeda a sa muda
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Ativa s'àudio de s'ischeda
+tabbrowser-manager-close-tab =
+    .tooltiptext = Serra s'ischeda

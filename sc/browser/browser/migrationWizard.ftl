@@ -69,6 +69,7 @@ migration-passwords-from-file-success-header = Craes importadas
 migration-passwords-from-file = Averiguende is craes in s’archìviu
 migration-passwords-new = Craes noas
 migration-passwords-updated = Craes chi esistint giai
+migration-passwords-from-file-no-valid-data = Custu archìviu no includet datos de craes. Seletziona·nde un’àteru.
 migration-passwords-from-file-picker-title = Importa un’archìviu de craes
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -105,8 +106,10 @@ migration-wizard-progress-success-updated-passwords =
        *[other] { $updatedEntries } atualizadas
     }
 migration-bookmarks-from-file-picker-title = Importa un’archìviu de sinnalibros
+migration-bookmarks-from-file-progress-header = Importatzione de sinnalibros
 migration-bookmarks-from-file = Sinnalibros
 migration-bookmarks-from-file-success-header = Sinnalibros importados
+migration-bookmarks-from-file-no-valid-data = Custu archìviu no includet datos de sinnalibros. Seletziona·nde un’àteru.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -219,6 +222,11 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } estensiones de { $quantity }
+migration-wizard-progress-extensions-support-link = Leghe in pitzus de comente { -brand-product-name } identìfica is estensiones
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Nissuna estensione agatada
+migration-wizard-progress-extensions-addons-link = Iscoberi estensiones pro { -brand-short-name }
 
 ##
 

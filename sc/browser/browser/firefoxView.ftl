@@ -23,11 +23,13 @@ firefoxview-tabpickup-progress-label = { $percentValue }% completu
 firefoxview-tabpickup-step-signin-header = Càmbia dae unu dispositivu a s'àteru chena problemas
 firefoxview-tabpickup-step-signin-description = Pro pòdere recuperare is ischedas tuas dae inoghe, prima atzede a su contu tuo o crea·nde unu.
 firefoxview-tabpickup-step-signin-primarybutton = Sighi
+firefoxview-syncedtabs-signin-header = Piga ischedas dae ònnia logu
 firefoxview-syncedtabs-signin-primarybutton = Identìfica·ti o registra·ti
 firefoxview-tabpickup-adddevice-header = Sincroniza { -brand-product-name } in su telèfonu o tauledda cosa tua
 firefoxview-tabpickup-adddevice-description = Iscàrriga { -brand-product-name } pro mòbiles e atzede a su contu tuo.
 firefoxview-tabpickup-adddevice-learn-how = Impara comente ddu fàghere
 firefoxview-tabpickup-adddevice-primarybutton = Otene { -brand-product-name } pro mòbiles
+firefoxview-syncedtabs-adddevice-header = Identìfica·ti in { -brand-product-name } in un’àteru dispositivu
 firefoxview-syncedtabs-adddevice-primarybutton = Proa { -brand-product-name } pro mòbiles
 firefoxview-tabpickup-synctabs-header = Ativa sa sincronizatzione de ischedas
 firefoxview-tabpickup-synctabs-description = Permite chi { -brand-short-name } cumpartzat ischedas intre dispositivos.
@@ -156,6 +158,8 @@ firefoxview-view-more-browsing-history = Ammustra àteru dae sa cronologia de na
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Torra in ue fias
+firefoxview-history-empty-description = Comente nàvigas, is pàginas chi ses bisitende ant a èssere ammustradas inoghe.
 
 ##
 
@@ -180,6 +184,9 @@ firefoxview-import-history-header = Importa sa cronologia dae un'àteru navigado
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = As serradu un’ischeda tropu a sa lestra?
+firefoxview-recentlyclosed-empty-description = Inoghe as a agatare is ischedas chi apas serradu de reghente, in manera chi ddas potzas recuperare.
+firefoxview-recentlyclosed-empty-description-two = Pro agatare ischedas prus betzas, càstia sa <a data-l10n-name="history-url">cronologia de navigatzione</a> tua.
 
 ##
 

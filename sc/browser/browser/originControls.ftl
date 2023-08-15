@@ -10,16 +10,12 @@
 
 origin-controls-no-access =
     .label = Custa estensione non podet lèghere nen modificare datos
-
 origin-controls-options =
     .label = Custa estensione podet lèghere e modificare datos:
-
 origin-controls-option-all-domains =
     .label = In totu is sitos
-
 origin-controls-option-when-clicked =
     .label = Isceti cando incarcas
-
 # This string denotes an option that grants the extension access to
 # the current site whenever they visit it.
 # Variables:
@@ -31,17 +27,11 @@ origin-controls-option-always-on =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-no-access = Non podet lèghere e modificare datos in custu situ
-
 origin-controls-state-always-on = Podet semper lèghere e modificare datos in custu situ
-
 origin-controls-state-when-clicked = Serbit su permissu pro lèghere e modificare datos
-
 origin-controls-state-hover-run-visit-only = Esecuta pro custa bìsita ebbia
-
 origin-controls-state-runnable-hover-open = Aberi estensione
-
 origin-controls-state-runnable-hover-run = Esecuta estensione
-
 origin-controls-state-temporary-access = Podet lèghere e modificare datos pro custa bìsita
 
 ## Extension's toolbar button.
@@ -51,7 +41,6 @@ origin-controls-state-temporary-access = Podet lèghere e modificare datos pro c
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
-
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -59,4 +48,10 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         Serbit su permissu
-
+# Extension's toolbar button when quarantined.
+# Note that the new line is intentionally part of the tooltip.
+origin-controls-toolbar-button-quarantined =
+    .label = { $extensionTitle }
+    .tooltiptext =
+        { $extensionTitle }
+        Non permìtida dae { -vendor-short-name } in custu situ

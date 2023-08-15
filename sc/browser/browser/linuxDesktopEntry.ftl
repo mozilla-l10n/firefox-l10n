@@ -13,6 +13,11 @@ desktop-entry-comment = Nàviga su Web
 desktop-entry-generic-name = Navigadore web
 # Combine Name and GenericName. This string is specific to GNOME.
 desktop-entry-x-gnome-full-name = Navigadore web { -brand-shortcut-name }
+# Keywords are search terms used to find this application.
+# The string is a list of keywords separated by semicolons:
+# - Do NOT replace semicolons with other punctuation signs.
+# - The list MUST end with a semicolon.
+desktop-entry-keywords = Internet;WWW;Navigadore;Web;Explorer;
 
 ## Actions are visible in a context menu after right clicking the
 ## taskbar icon, possibly other places depending on the environment.
