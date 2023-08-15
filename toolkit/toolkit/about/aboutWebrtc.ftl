@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Spustiť záznam AEC
 about-webrtc-aec-logging-on-state-label = Zastaviť záznam AEC
 about-webrtc-aec-logging-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
 about-webrtc-aec-logging-toggled-on-state-msg = Záznam AEC je aktivovaný (rozprávajte sa niekoľko minút s volajúcim a potom zastavte záznam)
+about-webrtc-aec-logging-unavailable-sandbox = Na export denníkov AEC je potrebná premenná prostredia MOZ_DISABLE_CONTENT_SANDBOX=1. Túto premennú nastavte len vtedy, ak rozumiete možným rizikám.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Zachytené záznamy je možné nájsť tu: { $path }
