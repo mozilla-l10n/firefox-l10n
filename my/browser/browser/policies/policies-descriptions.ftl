@@ -31,6 +31,7 @@ policy-DisableFirefoxScreenshots = မီးမြေခွေး၏ Screenshots
 policy-DisableFirefoxStudies = အလုပ်လုပ်နေသောလေ့လာမှုမှ { -brand-short-name } ကိုတားဆီးပါ
 policy-DisableForgetButton = မေ့ပျောက်ခလုပ်ကို ရရှိမှု တားဆီးပါ။
 policy-DisableFormHistory = ရှာဖွေမှု ဖြည့်စွက်မှု သမိုင်းများကို မမှတ်ထားပါ
+policy-DisablePasswordReveal = သိမ်းဆီး ထားသော လော့အင်များ မှ စကားဝှက်ကို ဖော်ပြရန် ခွင့်မပြုူပါ။
 policy-DisablePrivateBrowsing = သီးသန့်ရှာဖွေမှုကို ပိတ်ပါ
 policy-DisableSystemAddonUpdate = ဘရောက်ဇာကို စနစ်အက်အွန်းများကို ထည့်သွင်းခြင်းနှင့် မွမ်းမံခြင်းများမှ တားဆီးပါ
 policy-DisableTelemetry = ပေးပို့စနစ်များကိုပိတ်ထားပါ။
