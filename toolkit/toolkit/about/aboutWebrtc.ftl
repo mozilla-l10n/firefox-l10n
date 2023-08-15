@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC логтауын іске қос�
 about-webrtc-aec-logging-on-state-label = AEC логтауын тоқтату
 about-webrtc-aec-logging-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC логтауы белсенді (абонентпен бірнеше минут бойы сөйлесіп, жазуды тоқтатыңыз)
+about-webrtc-aec-logging-unavailable-sandbox = MOZ_DISABLE_CONTENT_SANDBOX=1 қоршам айнымалысы AEC журналдарын экспорттау үшін керек. Бұл айнымалыны тек мүмкін болатын тәуекелдерді түсінсеңіз ғана орнатыңыз.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Жиналған лог файлдарының орналасқан жері: { $path }
