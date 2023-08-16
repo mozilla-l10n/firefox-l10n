@@ -407,3 +407,6 @@ support-remote-features-status = Status
 
 ## Pointing devices
 
+pointing-device-mouse = Mus
+pointing-device-touchscreen = Touchscreen
+pointing-device-pen-digitizer = Digital pen
