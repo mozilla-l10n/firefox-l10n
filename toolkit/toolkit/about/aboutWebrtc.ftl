@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC naplózás indítása
 about-webrtc-aec-logging-on-state-label = AEC naplózás leállítása
 about-webrtc-aec-logging-on-state-msg = Az AEC naplózás aktív (beszéljen a hívóval pár percig, majd állítsa le a felvételt)
 about-webrtc-aec-logging-toggled-on-state-msg = Az AEC naplózás aktív (beszéljen a hívóval pár percig, majd állítsa le a felvételt)
+about-webrtc-aec-logging-unavailable-sandbox = A MOZ_DISABLE_CONTENT_SANDBOX=1 környezeti változó szükséges az AEC naplók exportálásához. Csak akkor állítsa be ezt a változót, ha ismeri a lehetséges kockázatokat.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = A rögzített naplófájlok megtalálhatók itt: { $path }
