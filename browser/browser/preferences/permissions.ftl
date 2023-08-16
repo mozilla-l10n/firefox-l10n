@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Ausnahmen
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresse der Website:
     .accesskey = d
-
 permissions-block =
     .label = Blockieren
     .accesskey = B
-
 permissions-disable-etp =
     .label = Ausnahme hinzufügen
     .accesskey = A
-
 permissions-session =
     .label = Für diese Sitzung erlauben
     .accesskey = F
-
 permissions-allow =
     .label = Erlauben
     .accesskey = E
-
 permissions-button-off =
     .label = Deaktivieren
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Temporär deaktivieren
     .accesskey = T
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Website entfernen
     .accesskey = n
-
 permissions-remove-all =
     .label = Alle Websites entfernen
     .accesskey = a
-
 permission-dialog =
     .buttonlabelaccept = Änderungen speichern
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Standard für alle Websites:
-
 permissions-searchbox =
     .placeholder = Website suchen
-
 permissions-capabilities-autoplay-allow =
     .label = Audio und Video erlauben
 permissions-capabilities-autoplay-block =
     .label = Medien mit Audio blockieren
 permissions-capabilities-autoplay-blockall =
     .label = Audio und Video blockieren
-
 permissions-capabilities-allow =
     .label = Erlauben
 permissions-capabilities-block =
     .label = Blockieren
 permissions-capabilities-prompt =
     .label = Immer fragen
-
 permissions-capabilities-listitem-allow =
     .value = Erlauben
 permissions-capabilities-listitem-block =
     .value = Blockieren
 permissions-capabilities-listitem-allow-session =
     .value = Für diese Sitzung erlauben
-
 permissions-capabilities-listitem-off =
     .value = Deaktiviert
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Ausnahmen - Nur-HTTPS-Modus
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Sie können den Nur-HTTPS-Modus für bestimmte Websites deaktivieren. { -brand-short-name } versucht dann nicht, die Verbindung zu ändern, um HTTPS für diese Websites sicherzustellen. Ausnahmen gelten nicht für private Fenster.
+permissions-exceptions-https-only-desc2 = Sie können den Nur-HTTPS-Modus für bestimmte Websites deaktivieren. { -brand-short-name } versucht dann nicht, die Verbindung zu ändern, um HTTPS für diese Websites sicherzustellen.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Einstellungen - Lautsprecher-Berechtigungen
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Die folgenden Websites haben angefragt, ein Audio-Ausgabegerät auswählen zu dürfen. Sie können festlegen, welche Websites ein Audio-Ausgabegerät auswählen dürfen.
-
 permissions-exceptions-doh-window =
     .title = Website-Ausnahmen für DNS über HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } verwendet kein sicheres DNS auf diesen Websites und deren Subdomains.
-
 permissions-doh-entry-field = Domain-Namen der Website eingeben
     .accesskey = D
-
 permissions-doh-add-exception =
     .label = Hinzufügen
     .accesskey = H
-
 permissions-doh-col =
     .label = Domain
-
 permissions-doh-remove =
     .label = Entfernen
     .accesskey = E
-
 permissions-doh-remove-all =
     .label = Alle entfernen
     .accesskey = A
