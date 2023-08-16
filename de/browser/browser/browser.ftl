@@ -560,6 +560,8 @@ urlbar-result-action-search-w-engine = Mit "{ $engine }" suchen
 urlbar-result-action-sponsored = Gesponsert
 urlbar-result-action-switch-tab = Zum Tab wechseln
 urlbar-result-action-visit = Aufrufen
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Aus der Zwischenablage aufrufen
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
