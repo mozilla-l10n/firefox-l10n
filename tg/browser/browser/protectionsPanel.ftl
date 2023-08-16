@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Ҳангоми фиристодани гузориш хато ба миён омад. Лутфан, баъдтар аз нав кӯшиш кунед.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Сомона ислоҳ шуд? Гузориш диҳед
 
@@ -22,13 +21,24 @@ protections-popup-footer-protection-label-standard = Стандартӣ
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Маълумоти бештар оид ба муҳофизати такмилёфта аз пайгирӣ
-
 protections-panel-etp-on-header = Муҳофизати такмилёфта аз пайгирӣ барои ин сомона фаъол аст
 protections-panel-etp-off-header = Муҳофизати такмилёфта аз пайгирӣ барои ин сомона ғайрифаъол аст
 
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = Муҳофизати такмилёфта аз пайгирӣ
+    .description = Барои ин сомона фаъол аст
+    .aria-label = Ғайрифаъол кардани муҳофизат барои { $host }
+protections-panel-etp-off-toggle =
+    .label = Муҳофизати такмилёфта аз пайгирӣ
+    .description = Барои ин сомона ғайрифаъол аст
+    .aria-label = Фаъол кардани муҳофизат барои { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сомона кор намекунад?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Сомона кор намекунад?
@@ -43,9 +53,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Ҳамаи васоити �
 ##
 
 protections-panel-no-trackers-found = Ягон васоити пайгирие, ки ба «{ -brand-short-name }» маълум аст, дар ин саҳифа падидор нашуд.
-
 protections-panel-content-blocking-tracking-protection = Муҳтавои пайгирикунанда
-
 protections-panel-content-blocking-socialblock = Васоити пайгирии шабакаҳои иҷтимоӣ
 protections-panel-content-blocking-cryptominers-label = Криптомайнерҳо
 protections-panel-content-blocking-fingerprinters-label = Хонандаи нақши ангушт
@@ -70,7 +78,6 @@ protections-panel-protectionsdashboard-label = Лавҳаи вазъияти м�
 
 # The header of the list
 protections-panel-site-not-working-view-header = Агар шумо бо зерин мушкилӣ кашед, муҳофизатро ғайрифаъол кунед:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Майдонҳои воридшавӣ
 protections-panel-site-not-working-view-issue-list-forms = Шаклҳо
@@ -78,7 +85,6 @@ protections-panel-site-not-working-view-issue-list-payments = Прадохтҳо
 protections-panel-site-not-working-view-issue-list-comments = Шарҳҳо
 protections-panel-site-not-working-view-issue-list-videos = Видеоҳо
 protections-panel-site-not-working-view-issue-list-fonts = Ҳуруф
-
 protections-panel-site-not-working-view-send-report = Фиристодани гузориш
 
 ##
@@ -88,16 +94,13 @@ protections-panel-cryptominers = Криптомайнерҳо барои ба д
 protections-panel-fingerprinters = Хонандаи нақши ангуштон барои эҷод кардани профили шумо танзимотро аз браузер ва компютери шумо ҷамъ мекунад. Бо истифодаи чунин нақши ангушти рақамӣ, онҳо метавонанд шуморо аз байни сомонаҳои гуногун пайгирӣ намоянд.
 protections-panel-tracking-content = Сомонаҳо метавонанд рекламаи берунӣ, видеоҳо ва муҳтавои дигареро, ки дорои рамзи пайгирикунанда мебошад, бор кунанд. Амали манъкунии муҳтавои пайгирикунанда ба сомонаҳо барои кушоиши тезтар мусоидат менамояд, аммо беъзе тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд кор накунанд.
 protections-panel-social-media-trackers = Шабакаҳои иҷтимоӣ барои пайгирӣ кардани он чизҳое, ки шумо мекунед, мебинед ва дар Интернет тамошо менамоед дар сомонаҳои дигар васоити пайгириро ҷойгир мекунанд. Ин ба ширкатҳои расонаҳои иҷтимоӣ имкон медиҳад, ки дар бораи шумо маълумоти зиёда аз он ки шумо дар профилҳои расонаҳои худ дастрас мекунед гиранд.
-
 protections-panel-description-shim-allowed = Баъзеи васоити пайгирии дар зер зикршуда дар ин саҳифа кушода шудаанд, зеро ки шумо аз онҳо истифода кардед.
 protections-panel-description-shim-allowed-learn-more = Маълумоти бештар
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Васоити пайгирӣ бо иҷозати қисмӣ
-
 protections-panel-content-blocking-manage-settings =
     .label = Идоракунии танзимоти муҳофизат
     .accesskey = И
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Гузориш дар бораи сомонаи вайроншуда
 protections-panel-content-blocking-breakage-report-view-description = Амали манъкунии васоити пайгирии муайян метавонад нисбат ба баъзе сомонаҳо мушкилиҳо ба вуҷуд орад. Гузоришдиҳӣ оид ба чунин мушкилиҳо барои беҳтар кардани «{ -brand-short-name }» ба фоидаи ҳамаи корбарон кумак мерасонад. Ҳангоми ирсолкунии ин гузориш, нишонии «URL» ва маълумот дар бораи танзимоти браузери шумо ба ширкати «Mozilla» фиристода мешавад. <label data-l10n-name="learn-more">Маълумоти бештар</label>
@@ -119,7 +122,6 @@ protections-panel-cookie-banner-handling-header = Маҳдудкунии бан�
 protections-panel-cookie-banner-handling-enabled = Барои ин сомона фаъол аст
 protections-panel-cookie-banner-handling-disabled = Барои ин сомона хомӯш аст
 protections-panel-cookie-banner-handling-undetected = Ин сомона дар айни замон дастгирӣ намешавад
-
 protections-panel-cookie-banner-view-title =
     .title = Маҳдудкунии баннери куки
 # Variables
