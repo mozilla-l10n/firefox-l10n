@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = Vælg browser
 
 firefoxview-dont-remember-history-empty-header = Intet at vise
 firefoxview-dont-remember-history-empty-description = At beskytte dit privatliv er en del af vores mission. Derfor er det dig, der bestemmer hvilke aktiviteter { -brand-short-name } husker.
+firefoxview-dont-remember-history-empty-description-two = I overensstemmelse med dine aktuelle indstillinger husker { -brand-short-name } ikke dine aktiviteter på nettet. For at ændre dette skal du <a data-l10n-name="history-settings-url-two">ændre dine indstillinger for historik til at huske din historik</a>.
 
 ##
 
