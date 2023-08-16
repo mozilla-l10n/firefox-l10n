@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Gem side
 about-webrtc-debug-mode-msg-label = Debug-tilstand
 about-webrtc-debug-mode-off-state-label = Start debug-tilstand
 about-webrtc-debug-mode-on-state-label = Stop debug-tilstand
+about-webrtc-enable-logging-label = Aktiver forhåndsindstilling af logs for WebRTC
 about-webrtc-stats-heading = Sessionsstatistik
 about-webrtc-stats-clear = Ryd historik
 about-webrtc-log-heading = Forbindelses-log
@@ -222,12 +223,13 @@ about-webrtc-save-page-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-off-state-msg = trace-log kan findes her: { $path }
 about-webrtc-debug-mode-on-state-msg = debug-tilstand er aktiveret, trace-log findes her: { $path }
 about-webrtc-aec-logging-off-state-msg = log-filer kan findes her: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Side gemt som: { $path }
 about-webrtc-debug-mode-toggled-off-state-msg = Trace-log kan findes her: { $path }
 about-webrtc-debug-mode-toggled-on-state-msg = Debug-tilstand er aktiveret, trace-log findes her: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -307,6 +309,9 @@ about-webrtc-hide-msg-sdp = Skjul SDP
 about-webrtc-media-context-show-msg = Vis media-kontekst
 about-webrtc-media-context-hide-msg = Skjul media-kontekst
 about-webrtc-media-context-heading = Medie-kontekst
+
+##
+
 
 ##
 
