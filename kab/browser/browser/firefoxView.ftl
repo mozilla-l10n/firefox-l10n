@@ -46,6 +46,7 @@ firefoxview-tabpickup-password-locked-header = Sekcem awal-ik·im uffir agejdan 
 firefoxview-tabpickup-password-locked-description = I ulqaḍ n waccaren-ik·im, tesriḍ ad teskecmeḍ awal uffir agejdan deg { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Issin ugar
 firefoxview-tabpickup-password-locked-primarybutton = Sekcem awal uffir agejdan
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Issin ugar</a>
 firefoxview-tabpickup-signed-out-header = Kcem akken ad talseḍ tuqqna
 firefoxview-tabpickup-signed-out-description = I wakken a talseḍ tuqqna s tririt n waccaren-ik·im, qqen ɣer { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Kcem
@@ -107,6 +108,14 @@ firefoxview-recently-closed-header = Iccaren imedlen melmi kan
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Wali akk
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Asfaylu { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Asfaylu { $winID } (Q)
 firefoxview-show-less = Sken drus
 firefoxview-sort-history-by-date-label = Asmizzwer s wazemz
 firefoxview-sort-history-by-site-label = Smizzwer s usmel
