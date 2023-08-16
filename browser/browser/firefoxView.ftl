@@ -23,16 +23,23 @@ firefoxview-tabpickup-progress-label = { $percentValue } % abgeschlossen
 firefoxview-tabpickup-step-signin-header = Nahtlos zwischen Geräten wechseln
 firefoxview-tabpickup-step-signin-description = Um Ihre Tabs vom Telefon hier abzurufen, melden Sie sich zuerst an oder erstellen Sie ein Konto.
 firefoxview-tabpickup-step-signin-primarybutton = Weiter
+firefoxview-syncedtabs-signin-header = Holen Sie sich Tabs von überall
+firefoxview-syncedtabs-signin-description = Um Ihre Tabs von überall anzuzeigen, wo Sie { -brand-product-name } verwenden, melden Sie sich bei Ihrem Konto an. Wenn Sie kein Konto haben, führen wir Sie durch die Schritte zur Registrierung.
 firefoxview-syncedtabs-signin-primarybutton = Anmelden oder registrieren
 firefoxview-tabpickup-adddevice-header = Synchronisieren Sie { -brand-product-name } auf Ihrem Telefon oder Tablet
 firefoxview-tabpickup-adddevice-description = Laden Sie { -brand-product-name } für Mobilgeräte herunter und melden Sie sich dort an.
 firefoxview-tabpickup-adddevice-learn-how = So wird's gemacht
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte holen
+firefoxview-syncedtabs-adddevice-header = Melden Sie sich auf Ihren anderen Geräten bei { -brand-product-name } an
+firefoxview-syncedtabs-adddevice-description = Um Ihre Tabs von überall anzuzeigen, wo Sie { -brand-product-name } verwenden, melden Sie sich auf all Ihren Geräten an. Erfahren Sie, wie Sie <a data-l10n-name="url">zusätzliche Geräte verbinden</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } für Mobilgeräte ausprobieren
 firefoxview-tabpickup-synctabs-header = Tab-Synchronisation aktivieren
 firefoxview-tabpickup-synctabs-description = Erlauben Sie { -brand-short-name }, Tabs zwischen Geräten zu teilen.
 firefoxview-tabpickup-synctabs-learn-how = So wird's gemacht
 firefoxview-tabpickup-synctabs-primarybutton = Offene Tabs synchronisieren
+firefoxview-syncedtabs-synctabs-header = Synchronisationseinstellungen aktualisieren
+firefoxview-syncedtabs-synctabs-description = Um Tabs von anderen Geräten zu sehen, müssen Sie Ihre offenen Tabs synchronisieren.
+firefoxview-syncedtabs-synctabs-checkbox = Synchronisierung offener Tabs erlauben
 firefoxview-tabpickup-fxa-admin-disabled-header = Ihre Organisation hat das Synchronisieren deaktiviert
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kann Tabs nicht zwischen Geräten synchronisieren, da Ihr Administrator das Synchronisieren deaktiviert hat.
 firefoxview-tabpickup-network-offline-header = Überprüfen Sie Ihre Internetverbindung
@@ -179,4 +186,7 @@ firefoxview-import-history-header = Chronik aus einem anderen Browser importiere
 
 
 ##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
