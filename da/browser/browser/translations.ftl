@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oversæt denne side
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Oversæt denne side - Beta
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
