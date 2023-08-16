@@ -23,6 +23,20 @@ protections-panel-etp-more-info =
     .aria-label = Več o izboljšani zaščiti pred sledenjem
 protections-panel-etp-on-header = Izboljšana zaščita pred sledenjem je VKLJUČENA za to stran
 protections-panel-etp-off-header = Izboljšana zaščita pred sledenjem je IZKLJUČENA za to stran
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = Izboljšana zaščita pred sledenjem
+    .description = Vključena na tem spletnem mestu
+    .aria-label = Onemogoči zaščite za { $host }
+protections-panel-etp-off-toggle =
+    .label = Izboljšana zaščita pred sledenjem
+    .description = Izključena na tem spletnem mestu
+    .aria-label = Omogoči zaščite za { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Stran ne deluje?
 # The heading/title of the sub-panel view
