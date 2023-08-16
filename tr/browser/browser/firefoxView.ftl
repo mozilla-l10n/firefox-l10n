@@ -185,3 +185,7 @@ firefoxview-import-history-close-button =
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Bu cihazda açık sekme yok
