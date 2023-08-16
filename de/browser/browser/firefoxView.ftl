@@ -161,6 +161,9 @@ firefoxview-view-more-browsing-history = Mehr Browserverlauf anzeigen
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Kommen Sie zurück dorthin, wo Sie schon waren
+firefoxview-history-empty-description = Während Sie surfen, werden die von Ihnen besuchten Seiten hier aufgelistet.
+firefoxview-history-empty-description-two = Der Schutz Ihrer Privatsphäre ist das Herzstück dessen, was wir tun. Deshalb können Sie die Aktivitäten, die { -brand-short-name } sich merkt, in Ihren <a data-l10n-name="history-settings-url">Chronik-Einstellungen</a> anpassen.
 
 ##
 
@@ -170,6 +173,9 @@ firefoxview-choose-browser-button = Browser wählen
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nichts zum Anzeigen
+firefoxview-dont-remember-history-empty-description = Der Schutz Ihrer Privatsphäre ist das Herzstück dessen, was wir tun. Deshalb können Sie anpassen, welche Aktivitäten { -brand-short-name } sich merkt.
+firefoxview-dont-remember-history-empty-description-two = Basierend auf Ihren aktuellen Einstellungen speichert { -brand-short-name } Ihre Aktivitäten nicht während des Surfens. Um das zu ändern, ändern Sie <a data-l10n-name="history-settings-url-two">Ihre Chronik-Einstellungen, um Ihre Chronik zu speichern</a>.
 
 ##
 
@@ -181,12 +187,17 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Chronik aus einem anderen Browser importieren
+firefoxview-import-history-description = Machen Sie { -brand-short-name } zu Ihrem Browser Nr. 1. Importieren Sie die Surf-Chronik, Lesezeichen und mehr.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Einen Tab zu früh geschlossen?
+firefoxview-recentlyclosed-empty-description = Hier finden Sie die Tabs, die Sie kürzlich geschlossen haben, damit Sie sie schnell wieder öffnen können.
+firefoxview-recentlyclosed-empty-description-two = Um Tabs von vor längerer Zeit zu finden, sehen Sie sich Ihre <a data-l10n-name="history-url">Surf-Chronik</a> an.
 
 ##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Keine offenen Tabs auf diesem Gerät
