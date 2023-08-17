@@ -18,6 +18,10 @@ support-addons-type = Type
 support-addons-enabled = Ingeschakeld
 support-addons-version = Versie
 support-addons-id = ID
+legacy-user-stylesheets-title = Verouderde gebruikersstijlbladen
+legacy-user-stylesheets-enabled = Actief
+legacy-user-stylesheets-stylesheet-types = Stijlbladen
+legacy-user-stylesheets-no-stylesheets-found = Geen stijlbladen gevonden
 security-software-title = Beveiligingssoftware
 security-software-type = Type
 security-software-name = Naam
@@ -77,6 +81,7 @@ app-basics-key-mozilla = Mozilla-locatieservicesleutel
 app-basics-safe-mode = Veilige modus
 app-basics-memory-size = Geheugengrootte (RAM)
 app-basics-disk-available = Beschikbare schijfruimte
+app-basics-pointing-devices = Aanwijsapparaten
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -400,3 +405,10 @@ support-remote-experiments-see-about-studies = Zie <a data-l10n-name="support-ab
 support-remote-features-title = Externe functies
 support-remote-features-name = Naam
 support-remote-features-status = Status
+
+## Pointing devices
+
+pointing-device-mouse = Muis
+pointing-device-touchscreen = Aanraakscherm
+pointing-device-pen-digitizer = Pen Digitizer
+pointing-device-none = Geen aanwijsapparaten
