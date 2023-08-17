@@ -23,14 +23,19 @@ firefoxview-tabpickup-progress-label = { $percentValue }% ਪੂਰਾ
 firefoxview-tabpickup-step-signin-header = ਡਿਵਾਈਸ ਵਿਚਾਲੇ ਸਹਿਜ ਨਾਲ ਬਦਲੋ
 firefoxview-tabpickup-step-signin-description = ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
 firefoxview-tabpickup-step-signin-primarybutton = ਜਾਰੀ ਰੱਖੋ
+firefoxview-syncedtabs-signin-header = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
+firefoxview-syncedtabs-signin-primarybutton = ਸਾਈਨ ਇਨ ਜਾਂ ਸਾਇਨ ਅੱਪ ਕਰੋ
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਨਾਲ ਸਿੰਕ ਕਰੋ
 firefoxview-tabpickup-adddevice-description = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ ਤੇ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefoxview-tabpickup-adddevice-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਲਵੋ
+firefoxview-syncedtabs-adddevice-header = ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਉੱਤੇ { -brand-product-name } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ
+firefoxview-syncedtabs-adddevice-primarybutton = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਵਰਤ ਕੇ ਵੇਖੋ
 firefoxview-tabpickup-synctabs-header = ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਚੋਣ ਕਰੋ
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਟੈਬਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।
 firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-synctabs-primarybutton = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ
+firefoxview-syncedtabs-synctabs-header = ਆਪਣੀਆਂ ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
 firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
@@ -46,6 +51,7 @@ firefoxview-tabpickup-password-locked-header = ਟੈਬਾਂ ਵੇਖਣ ਲ�
 firefoxview-tabpickup-password-locked-description = ਆਪਣੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ ਤੁਹਾਨੂੰ { -brand-short-name } ਲਈ ਮੁੱਖ ਪਾਸਵਰਡ ਭਰਨਾ ਪਵੇਗਾ।
 firefoxview-tabpickup-password-locked-link = ਹੋਰ ਜਾਣੋ
 firefoxview-tabpickup-password-locked-primarybutton = ਮੁੱਖ ਪਾਸਵਰਡ ਦਿਓ
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ਹੋਰ ਜਾਣੋ</a>
 firefoxview-tabpickup-signed-out-header = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ
 firefoxview-tabpickup-signed-out-description = ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਤੇ ਆਪਣੀਆਂ ਟੈਬਾਂ ਲੈਣ ਲਈ ਆਪਣੇ { -fxaccount-brand-name } ਵਿੱਚ ਸਾਇਨ ਇਨ ਕਰੋ।
 firefoxview-tabpickup-signed-out-primarybutton = ਸਾਈਨ ਇਨ
@@ -92,6 +98,8 @@ firefoxview-overview-header = ਸੱਜਰੀ ਬਰਾਊਜ਼ਿੰਗ
 firefoxview-history-nav = ਅਤੀਤ
     .title = ਅਤੀਤ
 firefoxview-history-header = ਅਤੀਤ
+firefoxview-history-context-delete = ਅਤੀਤ ਵਿੱਚੋਂ ਹਟਾਓ
+    .accesskey = D
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -137,6 +145,10 @@ firefoxview-history-date-today = ਅੱਜ - { DATETIME($date, dateStyle: "full"
 firefoxview-history-date-yesterday = ਕੱਲ੍ਹ - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ਲੋਕਲ ਫਾਈਲਾਂ)
 
 ##
 
@@ -145,21 +157,36 @@ firefoxview-view-more-browsing-history = ਹੋਰ ਬਰਾਊਜ਼ ਕਰਨ ਦ
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = ਜਿੱਥੇ ਤੁਸੀਂ ਸੀ, ਉੱਤੇ ਵਾਪਸ ਜਾਓ
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = ਬਰਾਊਜ਼ਰ ਚੁਣੋ
+    .title = ਬਰਾਊਜ਼ਰ ਚੁਣੋ
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = ਵੇਖਾਉਣ ਲਈ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = ਬੰਦ ਕਰੋ
+    .title = ਬੰਦ ਕਰੋ
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਅਤੀਤ ਇੰਪੋਰਟ ਕਰੋ
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = ਟੈਬ ਬਹੁਤ ਕਾਹਲੀ ਵਿੱਚ ਬੰਦ ਕਰ ਦਿੱਤੀ ਸੀ?
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਕੋਈ ਟੈਬ ਨਹੀਂ ਖੁੱਲ੍ਹੀ ਹੈ
