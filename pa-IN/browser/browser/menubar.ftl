@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = ਤਾਜ਼ਾ ਖੋਲ੍ਹੀਆਂ ਟੈਬਾਂ
 menu-history-undo-window-menu =
     .label = ਤਾਜ਼ਾ ਬੰਦ ਕੀਤੀਆਂ ਵਿੰਡੋ
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = ਅਤੀਤ ਖੋਜੋ
 
 ## Bookmarks Menu
 

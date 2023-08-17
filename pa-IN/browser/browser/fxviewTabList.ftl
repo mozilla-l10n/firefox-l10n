@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = { $targetURI } ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } ਖਾਰਜ ਕਰੋ
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = ਹੁਣੇ ਹੁਣੇ
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾ�
     .accesskey = o
 fxviewtabrow-copy-link = ਲਿੰਕ ਕਾਪੀ ਕਰੋ
     .accesskey = L
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle } ਲਈ ਚੋਣਾਂ
