@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC-registraasje starte
 about-webrtc-aec-logging-on-state-label = AEC-registraasje stopje
 about-webrtc-aec-logging-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-registraasje aktyf (sprek inkelde minuten mei de beller en stopje dêrnei it fêstlizzen)
+about-webrtc-aec-logging-unavailable-sandbox = De omjouwingsfariabele MOZ_DISABLE_CONTENT_SANDBOX=1 is fereaske om AEC-lochboeken te eksportearjen. Stel dizze fariabele allinnich yn as jo de mooglike risiko’s begripe.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Fêstleine lochbestannen binne te finen yn: { $path }
