@@ -31,10 +31,15 @@ firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } f
 firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } foar mobyl downloade
 firefoxview-syncedtabs-adddevice-header = Meld jo oan by { -brand-product-name } op jo oare apparaten
+firefoxview-syncedtabs-adddevice-description = Meld jo oan op al jo apparaten om jo ljepblêden te besjen, wêr’t jo { -brand-product-name } ek brûke. Lês hoe’t jo <a data-l10n-name="url">ekstra apparaten oanslute</a>
+firefoxview-syncedtabs-adddevice-primarybutton = { -brand-product-name } foar mobyl probearje
 firefoxview-tabpickup-synctabs-header = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tastean om ljepblêden tusken apparaten te dielen.
 firefoxview-tabpickup-synctabs-learn-how = Mear ynfo
 firefoxview-tabpickup-synctabs-primarybutton = Iepen ljepblêden syngronisearje
+firefoxview-syncedtabs-synctabs-header = Wurkje jo syngronisaasje-ynstellingen by
+firefoxview-syncedtabs-synctabs-description = Om ljepblêden fan oare apparaten te sjen, moatte jo jo iepen ljepblêden syngronisearje.
+firefoxview-syncedtabs-synctabs-checkbox = Tastean dat iepen ljepblêden syngronisearre wurde
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo behearder syngronisaasje útskeakele hat.
 firefoxview-tabpickup-network-offline-header = Kontrolearje jo ynternetferbining
@@ -50,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Fier jo haadwachtwurd yn om ljepb
 firefoxview-tabpickup-password-locked-description = Om jo ljepblêden op te heljen, moatte jo jo haadwachtwurd foar { -brand-short-name } ynjaan.
 firefoxview-tabpickup-password-locked-link = Mear ynfo
 firefoxview-tabpickup-password-locked-primarybutton = Haadwachtwurd ynfiere
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Mear ynfo</a>
 firefoxview-tabpickup-signed-out-header = Oanmelde om opnij te ferbinen
 firefoxview-tabpickup-signed-out-description = Meld jo oan by jo { -fxaccount-brand-name } om opnij te ferbinen en jo ljepblêden op te pakken.
 firefoxview-tabpickup-signed-out-primarybutton = Oanmelde
@@ -96,6 +102,8 @@ firefoxview-overview-header = Koartlyn besjoen
 firefoxview-history-nav = Skiednis
     .title = Skiednis
 firefoxview-history-header = Skiednis
+firefoxview-history-context-delete = Fuortsmite út skiednis
+    .accesskey = F
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -141,6 +149,10 @@ firefoxview-history-date-today = Hjoed – { DATETIME($date, dateStyle: "full") 
 firefoxview-history-date-yesterday = Juster – { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokale bestannen)
 
 ##
 
@@ -149,21 +161,39 @@ firefoxview-view-more-browsing-history = Mear navigaasjeskiednis besjen
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Werom nei wêr’t jo wiene
+firefoxview-history-empty-description = Wylst jo sneupe, wurde de siden dy’t jo besykje hjir werjûn.
+firefoxview-history-empty-description-two = It beskermjen fan jo privacy is it hert fan wat wy dogge. Dêrom kinne jo de aktiviteit kontrolearje dy’t { -brand-short-name } ûnthâldt, beheare yn jo <a data-l10n-name="history-settings-url">skiednisynstellingen</a>.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Kies browser
+    .title = Kies browser
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Neat sjen te litten
+firefoxview-dont-remember-history-empty-description = It beskermjen fan jo privacy is it hert fan wat wy dogge. Dêrom kinne jo de aktiviteit kontrolearje dy’t { -brand-short-name } ûnthâldt beheare.
+firefoxview-dont-remember-history-empty-description-two = Op grûn fan jo aktuele ynstellingen ûnthâldt { -brand-short-name } jo aktiviteit net as jo sneupe. <a data-l10n-name="history-settings-url-two">Wizigje jo skiednisynstellingen om jo skiednis te ûnthâlden</a> om dat oan te passen.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Slute
+    .title = Slute
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Skiednis ymportearje fan in oare browser út
+firefoxview-import-history-description = Meitsje fan { -brand-short-name } jo favorite browser. Ymportearje navigaasjeskiednis, blêdwizers, en mear.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Te betiid in ljepblêd sluten?
+firefoxview-recentlyclosed-empty-description = Hjir fine jo de ljepblêden dy’t jo koartlyn sluten hawwe, sadat jo elk fan har fluch opnij iepenje kinne.
+firefoxview-recentlyclosed-empty-description-two = Besjoch jo <a data-l10n-name="history-url">navigaasjeskiednis</a> om ljepblêden fan langer lyn te finen.
 
 ##
 
