@@ -28,6 +28,7 @@ firefoxview-syncedtabs-signin-primarybutton = ලියාපදිංචිය 
 firefoxview-tabpickup-adddevice-description = දුරකථනය සඳහා { -brand-product-name } බාගත කර පිවිසෙන්න.
 firefoxview-tabpickup-adddevice-learn-how = කෙසේදැයි දැනගන්න
 firefoxview-tabpickup-adddevice-primarybutton = දුරකථනය සඳහා { -brand-product-name } ගන්න
+firefoxview-syncedtabs-adddevice-header = ඔබගේ අනෙකුත් උපාංග වලින් { -brand-product-name } වෙත පිවිසෙන්න
 firefoxview-syncedtabs-adddevice-primarybutton = දුරකථනයට { -brand-product-name } දාගන්න
 firefoxview-tabpickup-synctabs-header = පටිති සමමුහූර්තය සබල කරන්න
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } සඳහා උපාංග අතර පටිති බෙදාගැනීමට ඉඩදෙන්න.

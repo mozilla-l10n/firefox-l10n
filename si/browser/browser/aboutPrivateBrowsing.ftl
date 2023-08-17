@@ -7,7 +7,7 @@ privatebrowsingpage-open-private-window-label = පෞද්. කවුළුව
 about-private-browsing-search-placeholder = වියමන තුළ සොයන්න
 about-private-browsing-info-title = ඔබ පෞද්. කවුළුවක සිටියි
 about-private-browsing-search-btn =
-    .title = වියමනහි සොයන්න
+    .title = සොයන්න
 # Variables
 #  $engine (String): the name of the user's default search engine
 about-private-browsing-handoff =

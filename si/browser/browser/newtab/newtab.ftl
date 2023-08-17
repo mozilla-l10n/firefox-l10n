@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = සොයන්න
     .aria-label = සොයන්න
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
@@ -35,11 +34,10 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
     .title = සොයන්න හෝ ලිපිනය යොදන්න
     .aria-label = සොයන්න හෝ ලිපිනය යොදන්න
-
-newtab-search-box-text = වියමනහි සොයන්න
+newtab-search-box-text = සොයන්න
 newtab-search-box-input =
-    .placeholder = වියමනහි සොයන්න
-    .aria-label = වියමනහි සොයන්න
+    .placeholder = සොයන්න
+    .aria-label = සොයන්න
 
 ## Top Sites - General form dialog.
 
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = කෙටිමඟ සංස්කරණ�
 newtab-topsites-title-label = සිරැසිය
 newtab-topsites-title-input =
     .placeholder = සිරැසියක් යොදන්න
-
 newtab-topsites-url-label = ඒ.ස.නි.
 newtab-topsites-url-input =
     .placeholder = ඒ.ස.නි. ලියන්න හෝ අලවන්න
 newtab-topsites-url-validation = වලංගු ඒ.ස.නි. අවශ්‍ය වේ
-
 newtab-topsites-image-url-label = අභිරුචි රූපයේ ඒ.ස.නි.
 newtab-topsites-use-image-link = අභිරුචි රූපයක් යොදා ගන්න...
 newtab-topsites-image-validation = රූපය පූරණයට අසමත් විය. අන් ඒ.ස.නි. බලන්න.
@@ -83,12 +79,10 @@ newtab-topsite-sponsored = අනුග්‍රහය ලද
 newtab-menu-section-tooltip =
     .title = වට්ටෝරුව අරින්න
     .aria-label = වට්ටෝරුව අරින්න
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ඉවත් කරන්න
     .aria-label = ඉවත් කරන්න
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -151,17 +145,14 @@ newtab-label-removed-bookmark = පොත්යොමුව ඉවත් කළ�
 newtab-label-recommended = නැඟී එන
 newtab-label-saved = { -pocket-brand-name } හි සුරැකිණි
 newtab-label-download = බාගත විය
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · අනුග්‍රහය ලද
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor } මගින් අනුග්‍රහය ලද
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -202,6 +193,7 @@ newtab-empty-section-highlights = පිරික්සීම අරඹන්න
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-content = තවත් කතා සඳහා පසුව බලන්න.
 newtab-discovery-empty-section-topstories-try-again-button = නැවත
 newtab-discovery-empty-section-topstories-loading = පූරණය වෙමින්…
 # Displays when a layout in a section took too long to fetch articles.
@@ -215,10 +207,6 @@ newtab-pocket-more-recommendations = තවත් නිර්දේශ
 newtab-pocket-learn-more = තව දැනගන්න
 newtab-pocket-cta-button = { -pocket-brand-name } ගන්න
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } යනු { -brand-product-name } පවුලේ කොටසකි
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = සුරකින්න
 newtab-pocket-saved = සුරැකිණි
