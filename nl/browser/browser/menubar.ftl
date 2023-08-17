@@ -38,11 +38,9 @@ menu-quit =
             [windows] A
            *[other] A
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = { -brand-shorter-name } afsluiten
-
 menu-about =
     .label = Over { -brand-shorter-name }
     .accesskey = O
@@ -222,6 +220,9 @@ menu-history-undo-menu =
     .label = Onlangs gesloten tabbladen
 menu-history-undo-window-menu =
     .label = Onlangs gesloten vensters
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Geschiedenis doorzoeken
 
 ## Bookmarks Menu
 

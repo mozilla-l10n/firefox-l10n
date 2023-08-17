@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Uitzonderingen
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adres van website
     .accesskey = d
-
 permissions-block =
     .label = Blokkeren
     .accesskey = B
-
 permissions-disable-etp =
     .label = Uitzondering toevoegen
     .accesskey = U
-
 permissions-session =
     .label = Toestaan voor sessie
     .accesskey = o
-
 permissions-allow =
     .label = Toestaan
     .accesskey = T
-
 permissions-button-off =
     .label = Uitschakelen
     .accesskey = U
-
 permissions-button-off-temporarily =
     .label = Tijdelijk uitschakelen
     .accesskey = T
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Website verwijderen
     .accesskey = v
-
 permissions-remove-all =
     .label = Alle websites verwijderen
     .accesskey = A
-
 permission-dialog =
     .buttonlabelaccept = Wijzigingen opslaan
     .buttonaccesskeyaccept = s
-
 permissions-autoplay-menu = Standaard voor alle websites:
-
 permissions-searchbox =
     .placeholder = Website doorzoeken
-
 permissions-capabilities-autoplay-allow =
     .label = Audio en video toestaan
 permissions-capabilities-autoplay-block =
     .label = Audio blokkeren
 permissions-capabilities-autoplay-blockall =
     .label = Audio en video blokkeren
-
 permissions-capabilities-allow =
     .label = Toestaan
 permissions-capabilities-block =
     .label = Blokkeren
 permissions-capabilities-prompt =
     .label = Altijd vragen
-
 permissions-capabilities-listitem-allow =
     .value = Toestaan
 permissions-capabilities-listitem-block =
     .value = Blokkeren
 permissions-capabilities-listitem-allow-session =
     .value = Toestaan voor sessie
-
 permissions-capabilities-listitem-off =
     .value = Uit
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Uitzonderingen – Alleen-HTTPS-modus
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = U kunt de Alleen-HTTPS-modus voor specifieke websites uitschakelen. { -brand-short-name } zal voor die websites niet proberen de verbinding naar veilige HTTPS te upgraden. Uitzonderingen zijn niet van toepassing op privévensters.
+permissions-exceptions-https-only-desc2 = U kunt de Alleen-HTTPS-modus voor specifieke websites uitschakelen. { -brand-short-name } zal voor die websites niet proberen de verbinding naar veilige HTTPS te upgraden.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Instellingen – Toestemmingen voor luidspreker
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = De volgende websites hebben gevraagd om een audio-uitvoerapparaat te selecteren. U kunt aangeven welke websites een audio-uitvoerapparaat mogen selecteren.
-
 permissions-exceptions-doh-window =
     .title = Website-uitzonderingen voor DNS over HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } gebruikt geen beveiligde DNS op deze websites en hun subdomeinen.
-
 permissions-doh-entry-field = Voer websitedomeinnaam in
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Toevoegen
     .accesskey = T
-
 permissions-doh-col =
     .label = Domein
-
 permissions-doh-remove =
     .label = Verwijderen
     .accesskey = V
-
 permissions-doh-remove-all =
     .label = Alle verwijderen
     .accesskey = w
