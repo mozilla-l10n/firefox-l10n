@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Menu openen
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = { $targetURI } openen in een nieuw tabblad
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = { $tabTitle } sluiten
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Zojuist
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = Opslaan naar { -pocket-brand-name }
     .accesskey = r
 fxviewtabrow-copy-link = Koppeling kopiëren
     .accesskey = K
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opties voor { $tabTitle }

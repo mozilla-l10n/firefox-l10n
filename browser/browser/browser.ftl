@@ -563,6 +563,8 @@ urlbar-result-action-search-w-engine = Zoeken met { $engine }
 urlbar-result-action-sponsored = Gesponsord
 urlbar-result-action-switch-tab = Wisselen naar tabblad
 urlbar-result-action-visit = Bezoeken
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Bezoeken vanaf uw klembord
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

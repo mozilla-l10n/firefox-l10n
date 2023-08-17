@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Deze pagina vertalen
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Deze pagina vertalen – Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Probeer privévertalingen in { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Even geduld…
 translations-panel-translate-cancel =
     .label = Annuleren
+translations-panel-learn-more-link = Meer info
+translations-panel-intro-header = Probeer privévertalingen in { -brand-shorter-name }
+translations-panel-intro-description = Voor uw privacy verlaten vertalingen uw apparaat nooit. Binnenkort nieuwe talen en verbeteringen!
 translations-panel-error-translating = Er is een probleem opgetreden bij het vertalen. Probeer het opnieuw.
 translations-panel-error-load-languages = Kon talen niet laden
 translations-panel-error-load-languages-hint = Controleer uw internetverbinding en probeer het opnieuw.
@@ -120,6 +132,20 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Er is een probleem opgetreden bij het downloaden van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-delete = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
+translations-manage-intro = Stel uw voorkeuren voor taal en websitevertaling in en beheer geïnstalleerde talen voor offline vertaling.
+translations-manage-install-description = Talen voor offline vertaling installeren
+translations-manage-language-install-button =
+    .label = Installeren
+translations-manage-language-install-all-button =
+    .label = Alle installeren
+    .accesskey = i
+translations-manage-language-remove-button =
+    .label = Verwijderen
+translations-manage-language-remove-all-button =
+    .label = Alle verwijderen
+    .accesskey = w
+translations-manage-error-install = Er is een probleem opgetreden bij het installeren van de taalbestanden. Probeer het opnieuw.
+translations-manage-error-remove = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-list = Kan de lijst met beschikbare talen voor vertaling niet ophalen. Vernieuw de pagina om het opnieuw te proberen.
 translations-settings-title =
     .title = Vertaalinstellingen
