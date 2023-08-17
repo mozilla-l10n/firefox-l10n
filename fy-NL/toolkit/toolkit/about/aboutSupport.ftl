@@ -18,6 +18,10 @@ support-addons-type = Type
 support-addons-enabled = Ynskeakele
 support-addons-version = Ferzje
 support-addons-id = ID
+legacy-user-stylesheets-title = Ferâldere brûkersstylblêden
+legacy-user-stylesheets-enabled = Aktyf
+legacy-user-stylesheets-stylesheet-types = Stylblêden
+legacy-user-stylesheets-no-stylesheets-found = Gjin stylblêden fûn
 security-software-title = Befeiligingssoftware
 security-software-type = Type
 security-software-name = Namme
@@ -77,6 +81,7 @@ app-basics-key-mozilla = Mozilla-lokaasjetsjinstkaai
 app-basics-safe-mode = Feilige modus
 app-basics-memory-size = Unthâldgrutte (RAM)
 app-basics-disk-available = Beskikbere skiifromte:
+app-basics-pointing-devices = Oanwiisapparaten
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -400,3 +405,10 @@ support-remote-experiments-see-about-studies = Sjoch <a data-l10n-name="support-
 support-remote-features-title = Eksterne funksjes
 support-remote-features-name = Namme
 support-remote-features-status = Steat
+
+## Pointing devices
+
+pointing-device-mouse = Mûs
+pointing-device-touchscreen = Oanraakskerm
+pointing-device-pen-digitizer = Pen Digitizer
+pointing-device-none = Gjin oanwiisapparaten
