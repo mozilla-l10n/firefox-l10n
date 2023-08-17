@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Utsûnderingen
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adres fan de website
     .accesskey = d
-
 permissions-block =
     .label = Blokkearje
     .accesskey = B
-
 permissions-disable-etp =
     .label = Utsûndering tafoegje
     .accesskey = U
-
 permissions-session =
     .label = Tastean foar sesje
     .accesskey = s
-
 permissions-allow =
     .label = Tastean
     .accesskey = T
-
 permissions-button-off =
     .label = Utskeakelje
     .accesskey = U
-
 permissions-button-off-temporarily =
     .label = Tydlik útskeakelje
     .accesskey = T
-
 permissions-site-name =
     .label = Website
-
 permissions-status =
     .label = Steat
-
 permissions-remove =
     .label = Website fuortsmite
     .accesskey = W
-
 permissions-remove-all =
     .label = Alle websites fuortsmite
     .accesskey = s
-
 permission-dialog =
     .buttonlabelaccept = Wizigingen bewarje
     .buttonaccesskeyaccept = i
-
 permissions-autoplay-menu = Standert foar alle websites:
-
 permissions-searchbox =
     .placeholder = Websites trochsykje
-
 permissions-capabilities-autoplay-allow =
     .label = Audio en fideo tastean
 permissions-capabilities-autoplay-block =
     .label = Audio blokkearje
 permissions-capabilities-autoplay-blockall =
     .label = Audio en fideo blokkearje
-
 permissions-capabilities-allow =
     .label = Tastean
 permissions-capabilities-block =
     .label = Blokkearje
 permissions-capabilities-prompt =
     .label = Altyd freegje
-
 permissions-capabilities-listitem-allow =
     .value = Tastean
 permissions-capabilities-listitem-block =
     .value = Blokkearje
 permissions-capabilities-listitem-allow-session =
     .value = Tastean foar sesje
-
 permissions-capabilities-listitem-off =
     .value = Ut
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Utsûnderingen – Allinnich-HTTPS-modus
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen. Utsûnderingen binne net fan tapassing op priveefinsters.
+permissions-exceptions-https-only-desc2 = Jo kinne de Allinnich-HTTPS-modus foar spesifike websites útskeakelje. { -brand-short-name } sil foar dy websites net probearje de ferbining nei feilige HTTPS te fernijen.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Ynstellingen - Tastimmingen foar lûdsprekker
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = De folgjende websites hawwe frege om in audio-útfierapparaat te selektearjen. Jo kinne opjaan hokker websites in audio-útfierapparaat selektearje meie.
-
 permissions-exceptions-doh-window =
     .title = Website-útsûnderingen foar DNS oer HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } brûkt gjin befeilige DNS op dizze websites en harren subdomeinen.
-
 permissions-doh-entry-field = Fier websitedomeinnamme yn
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Tafoegje
     .accesskey = T
-
 permissions-doh-col =
     .label = Domein
-
 permissions-doh-remove =
     .label = Fuortsmite
     .accesskey = F
-
 permissions-doh-remove-all =
     .label = Alle fuortsmite
     .accesskey = s

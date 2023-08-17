@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Dizze side oersette
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Dizze side oersette – Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Probearje privee-oersettingen yn { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -59,6 +68,9 @@ translations-panel-translate-button-loading =
     .label = Ien momint…
 translations-panel-translate-cancel =
     .label = Annulearje
+translations-panel-learn-more-link = Mear ynfo
+translations-panel-intro-header = Probearje privee-oersettingen yn { -brand-shorter-name }
+translations-panel-intro-description = Foar jo privacy ferlitte oersettingen jo apparaat nea. Nije talen en ferbetteringen komme gau!
 translations-panel-error-translating = Der is in probleem bard by it oersetten. Probearje it opnij.
 translations-panel-error-load-languages = Koe talen net lade
 translations-panel-error-load-languages-hint = Kontrolearje jo ynternetferbining en probearje it opnij.
@@ -120,6 +132,19 @@ translations-manage-language-delete-button =
     .accesskey = e
 translations-manage-error-download = Der is in probleem bard by it downloaden fan de taalbestannen. Probearje it opnij.
 translations-manage-error-delete = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
+translations-manage-intro = Stel jo foarkarren foar taal- en side-oersetting yn en behear talen dy’t ynstallearre binne foar offline oersetting.
+translations-manage-install-description = Talen foar offline oersetting ynstallearje.
+translations-manage-language-install-button =
+    .label = Ynstallearje
+translations-manage-language-install-all-button =
+    .label = Alle ynstallearje
+    .accesskey = y
+translations-manage-language-remove-button =
+    .label = Fuortsmite
+translations-manage-language-remove-all-button =
+    .label = Alle fuortsmite
+    .accesskey = m
+translations-manage-error-install = Der is in probleem bard by it ynstallearjen fan de taalbestannen. Probearje it opnij.
 translations-manage-error-list = Kin de list mei beskikbere talen foar oersetting net ophelje. Fernij de side om it opnij te probearjen.
 translations-settings-title =
     .title = Oersetynstellingen

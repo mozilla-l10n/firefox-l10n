@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Koartlyn sluten ljepblêden
 menu-history-undo-window-menu =
     .label = Koartlyn sluten skermen
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Skiednis trochsykje
 
 ## Bookmarks Menu
 
