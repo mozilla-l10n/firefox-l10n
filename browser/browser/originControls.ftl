@@ -8,6 +8,10 @@
 ## and are used to inform the user how the extension can access their
 ## data for the current website, and allow them to control it.
 
+origin-controls-no-access =
+    .label = දිගුවට දත්ත කියවීමට හා සංශෝධනයට නොහැකිය
+origin-controls-quarantined =
+    .label = දිගුවට දත්ත කියවීමට හා සංශෝධනයට ඉඩ නොදේ
 origin-controls-option-all-domains =
     .label = සියළුම අඩවිවල
 
@@ -15,9 +19,7 @@ origin-controls-option-all-domains =
 ## messages. They currently appear in the unified extensions panel.
 
 origin-controls-state-when-clicked = දත්ත කියවීමට හා සංශෝධනයට අවසරය අවශ්‍යයි
-
 origin-controls-state-runnable-hover-open = දිගුව අරින්න
-
 origin-controls-state-runnable-hover-run = දිගුව ධාවනය
 
 ## Extension's toolbar button.
@@ -27,7 +29,6 @@ origin-controls-state-runnable-hover-run = දිගුව ධාවනය
 origin-controls-toolbar-button =
     .label = { $extensionTitle }
     .tooltiptext = { $extensionTitle }
-
 # Extension's toolbar button when permission is needed.
 # Note that the new line is intentionally part of the tooltip.
 origin-controls-toolbar-button-permission-needed =
@@ -35,4 +36,3 @@ origin-controls-toolbar-button-permission-needed =
     .tooltiptext =
         { $extensionTitle }
         අවසරය අවශ්‍යයි
-
