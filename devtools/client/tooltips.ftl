@@ -37,6 +37,8 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> non ha effetto 
 
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto non è “inline” o “table-cell”.
 
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::first-line”.
+
 inactive-css-property-because-of-display = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto il valore di “display” è <strong>{ $display }</strong>.
 
 inactive-css-not-display-block-on-floated = Il valore di <strong>display</strong> è stato modificato in <strong>block</strong> in quanto l’elemento è <strong>floated</strong>.
@@ -61,7 +63,7 @@ inactive-css-border-image = <strong>{ $property }</strong> non ha effetto su que
 
 inactive-css-ruby-element = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto è un elemento per la trascrizione fonetica (ruby). La sua dimensione è determinata dalla dimensione del carattere.
 
-inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non è supportata su pseudo-elementi della categoria “highlight”.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non è supportata in pseudo-elementi della categoria “highlight”.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
