@@ -23,10 +23,14 @@ firefoxview-tabpickup-progress-label = { $percentValue }% foltôge
 firefoxview-tabpickup-step-signin-header = Wikselje maklik tusken apparaten
 firefoxview-tabpickup-step-signin-description = Meld jo earst oan of meitsje in account om hjir de ljepblêden fan jo telefoan te iepenjen.
 firefoxview-tabpickup-step-signin-primarybutton = Trochgean
+firefoxview-syncedtabs-signin-header = Pak oeral ljepblêden
+firefoxview-syncedtabs-signin-description = Meld jo oan by jo account om jo ljepblêden te besjen, net achte wêr’t jo { -brand-product-name } brûke. As jo gjin account hawwe, sille wy jo troch de stappen liede om jo te registrearjen.
+firefoxview-syncedtabs-signin-primarybutton = Oanmelde of registrearje
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } op jo telefoan of tablet syngronisearje
 firefoxview-tabpickup-adddevice-description = Download { -brand-product-name } foar mobyl en meld jo dêr oan.
 firefoxview-tabpickup-adddevice-learn-how = Mear ynfo
 firefoxview-tabpickup-adddevice-primarybutton = { -brand-product-name } foar mobyl downloade
+firefoxview-syncedtabs-adddevice-header = Meld jo oan by { -brand-product-name } op jo oare apparaten
 firefoxview-tabpickup-synctabs-header = Ljepblêdsyngronisaasje ynskeakelje
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tastean om ljepblêden tusken apparaten te dielen.
 firefoxview-tabpickup-synctabs-learn-how = Mear ynfo
@@ -113,7 +117,7 @@ firefoxview-synced-tabs-header = Ljepblêden fan oare apparaten
 
 ##
 
-# Used for a link in collapsible cards, in the 'Recent browsing' page of Firefox View
+# Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Alles besjen
 # Variables:
 #   $winID (Number) - The index of the owner window for this set of tabs
@@ -142,3 +146,27 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 firefoxview-show-all-history = Alle skiednis toane
 firefoxview-view-more-browsing-history = Mear navigaasjeskiednis besjen
+
+## Message displayed in Firefox View when the user has no history data
+
+
+##
+
+
+## Message displayed in Firefox View when the user has chosen to never remember History
+
+
+##
+
+
+## Text displayed in a dismissable banner to import bookmarks/history from another browser
+
+
+## Message displayed in Firefox View when the user has no recently closed tabs data
+
+
+##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+

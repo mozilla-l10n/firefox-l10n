@@ -24,3 +24,10 @@ addon-post-install-message = { $addonName } is tafoege.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = { $addonName } útfiere op beheinde websites?
 webext-quarantine-confirmation-line-1 = Om jo gegevens te beskermjen is dizze útwreiding net tastien op dizze website.
+webext-quarantine-confirmation-line-2 = Stean dizze útwreiding ta as jo dizze fertrouwe om jo gegevens op websites dy’t beheind binne troch { -vendor-short-name } te lêzen en wizigjen.
+webext-quarantine-confirmation-allow =
+    .label = Tastean
+    .accesskey = T
+webext-quarantine-confirmation-deny =
+    .label = Net tastean
+    .accesskey = N
