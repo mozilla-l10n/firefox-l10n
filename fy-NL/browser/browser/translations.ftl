@@ -145,6 +145,7 @@ translations-manage-language-remove-all-button =
     .label = Alle fuortsmite
     .accesskey = m
 translations-manage-error-install = Der is in probleem bard by it ynstallearjen fan de taalbestannen. Probearje it opnij.
+translations-manage-error-remove = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
 translations-manage-error-list = Kin de list mei beskikbere talen foar oersetting net ophelje. Fernij de side om it opnij te probearjen.
 translations-settings-title =
     .title = Oersetynstellingen
