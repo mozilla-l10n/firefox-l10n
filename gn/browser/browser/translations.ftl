@@ -56,7 +56,7 @@ translations-panel-settings-never-translate-unknown-language =
     .label = Ani araka’eve emoñe’ẽasa ko ñe’ẽ
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Araka'eve ani emo'ñẽasa ko tenda
+    .label = Araka’eve ani emo’ñẽasa ko tenda
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
