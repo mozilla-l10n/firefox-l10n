@@ -18,6 +18,7 @@ support-addons-type = Typ
 support-addons-enabled = Aktiviert
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-title = Ältere Benutzer-Stylesheets
 legacy-user-stylesheets-enabled = Aktiv
 legacy-user-stylesheets-stylesheet-types = Stylesheets
 legacy-user-stylesheets-no-stylesheets-found = Keine Stylesheets gefunden
@@ -80,6 +81,7 @@ app-basics-key-mozilla = Mozilla-Location-Service-Schlüssel
 app-basics-safe-mode = Abgesicherter Modus
 app-basics-memory-size = Speichergröße (RAM)
 app-basics-disk-available = Speicherplatz verfügbar
+app-basics-pointing-devices = Zeigegeräte
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
