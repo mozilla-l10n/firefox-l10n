@@ -192,6 +192,8 @@ firefoxview-import-history-description = Зрабіце { -brand-short-name } с
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Закрылі картку занадта рана?
+firefoxview-recentlyclosed-empty-description = Тут вы знойдзеце карткі, якія нядаўна закрылі, так што вы можаце хутка адкрыць ізноў любую з іх.
+firefoxview-recentlyclosed-empty-description-two = Каб знайсці даўнія карткі, паглядзіце сваю <a data-l10n-name="history-url">гісторыю аглядання</a>.
 
 ##
 
