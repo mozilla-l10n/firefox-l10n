@@ -24,6 +24,7 @@ firefoxview-tabpickup-step-signin-header = ਡਿਵਾਈਸ ਵਿਚਾਲੇ
 firefoxview-tabpickup-step-signin-description = ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੀਆਂ ਟੈਬਾਂ ਵੇਖਣ ਲਈ, ਪਹਿਲਾਂ ਸਾਈਨ ਇਨ ਕਰੋ ਜਾਂ ਖਾਤਾ ਬਣਾਓ।
 firefoxview-tabpickup-step-signin-primarybutton = ਜਾਰੀ ਰੱਖੋ
 firefoxview-syncedtabs-signin-header = ਟੈਬਾਂ ਕਿਤੋਂ ਵੀ ਲਵੋ
+firefoxview-syncedtabs-signin-description = ਕਿਤੋਂ ਵੀ ਆਪਣੀਆਂ ਟੈਬਾਂ ਨੂੰ ਵੇਖਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਨ ਵਾਸਤੇ { -brand-product-name } ਵਰਤੋਂ। ਜੇ ਤੁਹਾਡੇ ਕੋਲ ਖਾਤਾ ਨਹੀਂ ਹੈ ਤਾਂ ਅਸੀਂ ਸਾਈਨ ਅੱਪ ਕਰਨ ਵਾਸਤੇ ਤੁਹਾਡੀ ਮਦਦ ਕਰਾਂਗੇ।
 firefoxview-syncedtabs-signin-primarybutton = ਸਾਈਨ ਇਨ ਜਾਂ ਸਾਇਨ ਅੱਪ ਕਰੋ
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } ਨੂੰ ਆਪਣੇ ਫ਼ੋਨ ਜਾਂ ਟੇਬਲੇਟ ਨਾਲ ਸਿੰਕ ਕਰੋ
 firefoxview-tabpickup-adddevice-description = ਮੋਬਾਈਲ ਲਈ { -brand-product-name } ਡਾਊਨਲੋਡ ਕਰੋ ਤੇ ਸਾਈਨ ਇਨ ਕਰੋ।
@@ -36,6 +37,8 @@ firefoxview-tabpickup-synctabs-description = { -brand-short-name } ਨੂੰ ਡ
 firefoxview-tabpickup-synctabs-learn-how = ਸਿੱਖੋ ਕਿ ਕਿਵੇਂ
 firefoxview-tabpickup-synctabs-primarybutton = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਸਿੰਕ ਕਰੋ
 firefoxview-syncedtabs-synctabs-header = ਆਪਣੀਆਂ ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
+firefoxview-syncedtabs-synctabs-description = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਵੇਖਣ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਪਵੇਗਾ।
+firefoxview-syncedtabs-synctabs-checkbox = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
 firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
@@ -158,6 +161,7 @@ firefoxview-view-more-browsing-history = ਹੋਰ ਬਰਾਊਜ਼ ਕਰਨ ਦ
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = ਜਿੱਥੇ ਤੁਸੀਂ ਸੀ, ਉੱਤੇ ਵਾਪਸ ਜਾਓ
+firefoxview-history-empty-description = ਜਿਵੇਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼਼ਿਆਂ ਨੂੰ ਇੱਥੇ ਦਿਕਾਇਆ ਜਾਵੇਗਾ।
 
 ##
 
