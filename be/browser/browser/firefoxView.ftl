@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = Выбраць браўзер
 
 firefoxview-dont-remember-history-empty-header = Няма чаго паказаць
 firefoxview-dont-remember-history-empty-description = Ахова вашай прыватнасці з'яўляецца сутнасцю нашай дзейнасці. Вось чаму вы можаце кантраляваць дзеянні, якія запамінае { -brand-short-name }.
+firefoxview-dont-remember-history-empty-description-two = Зыходзячы з вашых цяперашніх налад, { -brand-short-name } не запамінае вашы дзеянні ў часе аглядання. Каб змяніць гэта, <a data-l10n-name="history-settings-url-two">змяніце налады гісторыі, каб запамінаць яе</a>.
 
 ##
 
