@@ -175,6 +175,7 @@ firefoxview-choose-browser-button = Escolher o navegador
 
 firefoxview-dont-remember-history-empty-header = Nada a mostrar
 firefoxview-dont-remember-history-empty-description = Proteger a sua privacidade está no centro do que fazemos. É por isto que pode controlar a atividade que o { -brand-short-name } guarda.
+firefoxview-dont-remember-history-empty-description-two = Com base nas suas definições atuais, o { -brand-short-name } não guarda a sua atividade enquanto você navega. Para mudar isto, <a data-l10n-name="history-settings-url-two">altere as suas definições do histórico para guardar o seu histórico</a>.
 
 ##
 
@@ -185,6 +186,7 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importar histórico de outro navegador
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
