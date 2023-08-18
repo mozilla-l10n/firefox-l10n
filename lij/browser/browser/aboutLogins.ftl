@@ -4,14 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Login e Poule segrete
-
 about-logins-login-filter =
     .placeholder = Çerca inti login
     .key = F
-
 create-new-login-button =
     .title = Crea neuvo login
-
 fxaccounts-sign-in-text = Treuva torna e teu poule segrête in sci âtri dispoxitivi
 fxaccounts-sign-in-sync-button = Acedi a sync
 fxaccounts-avatar-button =
@@ -119,7 +116,6 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = cangia l'acesso sarvou
-
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segrete
@@ -135,7 +131,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Anulla
 confirmation-dialog-dismiss-button =
     .title = Anulla
-
 about-logins-confirm-remove-dialog-title = Scancelâ st'acesso?
 confirm-delete-dialog-message = St'açion a no peu ese anula.
 about-logins-confirm-remove-dialog-confirm-button = Scancella
@@ -148,9 +143,7 @@ about-logins-confirm-remove-dialog-confirm-button = Scancella
 
 about-logins-confirm-export-dialog-title = Espòrta acessi e poule segrete
 about-logins-confirm-export-dialog-confirm-button = Espòrta…
-
 about-logins-alert-import-title = Inportaçion terminâ
-
 confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
@@ -208,12 +201,11 @@ about-logins-import-file-picker-tsv-filter-title =
 ##  $count (number) - The number of affected elements
 
 about-logins-import-dialog-title = Inportaçion terminâ
-
 about-logins-import-dialog-error-file-permission-title = No ariescio a lêze o schedaio
 about-logins-import-dialog-error-unable-to-read-title = No ariescio a elaborâ o schedaio
 about-logins-import-dialog-error-unable-to-read-description = Asegûate de seleçionâ 'n schedaio CSV ò TSV
+about-logins-import-dialog-error-learn-more = Pe saveine de ciù
 about-logins-import-dialog-error-cancel = Anulla
-
 #
 # Variables:
 #  $number (number) - The number of the row
