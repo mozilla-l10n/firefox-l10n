@@ -157,10 +157,13 @@ firefoxview-history-site-localhost = (лакальныя файлы)
 ##
 
 firefoxview-show-all-history = Паказаць усю гісторыю
+firefoxview-view-more-browsing-history = Паглядзець больш гісторыі аглядання
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Вярнуцца туды, дзе былі
 firefoxview-history-empty-description = У часе аглядання, старонкі, якія вы наведваеце, будуць з'яўляцца тут.
+firefoxview-history-empty-description-two = Ахова вашай прыватнасці — гэта сутнасць нашай дзейнасці. Вось чаму вы можаце кантраляваць дзеянні, якія запамінае { -brand-short-name }, у сваіх <a data-l10n-name="history-settings-url">наладах гісторыі</a>.
 
 ##
 
