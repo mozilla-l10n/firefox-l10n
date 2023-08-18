@@ -25,9 +25,12 @@ about-logging-logging-preset-selector-text = Forstilling atvikaskráningar:
 ## Logging presets
 
 about-logging-preset-networking-label = Netvinnsla
+about-logging-preset-networking-cookie-label = Vefkökur
+about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Afspilun margmiðlunar
+about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-custom-label = Sérsniðið
-
 # Error handling
 about-logging-error = Villa:
 
