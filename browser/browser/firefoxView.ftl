@@ -38,6 +38,7 @@ firefoxview-tabpickup-synctabs-description = Permitir que o { -brand-short-name 
 firefoxview-tabpickup-synctabs-learn-how = Saber mais
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar separadores abertos
 firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincronização
+firefoxview-syncedtabs-synctabs-description = Para ver os separadores de outros dispositivos, precisa de sincronizar os seus separadores abertos.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que separadores abertos sejam sincronizados
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar separadores entre dispositivos porque o seu administrador desativou a sincronização.
@@ -54,6 +55,7 @@ firefoxview-tabpickup-password-locked-header = Introduza a sua Palavra-passe pri
 firefoxview-tabpickup-password-locked-description = Para obter os seus separadores, terá de inserir a Palavra-passe principal no { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Saber mais
 firefoxview-tabpickup-password-locked-primarybutton = Inserir a Palavra-passe principal
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saber mais</a>
 firefoxview-tabpickup-signed-out-header = Iniciar sessão para restabelecer a ligação
 firefoxview-tabpickup-signed-out-description = Para reassociar e aceder aos seus separadores, inicie sessão na { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sessão
@@ -159,9 +161,15 @@ firefoxview-view-more-browsing-history = Ver mais histórico de navegação
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Regresse para onde já esteve
+firefoxview-history-empty-description = Enquanto navega, as páginas visitadas serão listadas aqui.
+firefoxview-history-empty-description-two = Proteger a sua privacidade está no centro do que fazemos. É por isto que pode controlar a atividade que o { -brand-short-name } guarda, nas suas <a data-l10n-name="history-settings-url">definições do histórico</a>.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Escolher o navegador
+    .title = Escolher o navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
