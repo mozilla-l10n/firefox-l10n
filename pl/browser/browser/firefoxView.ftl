@@ -197,3 +197,7 @@ firefoxview-recentlyclosed-empty-description-two = Karty sprzed dłuższego czas
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Nie ma kart otwartych na tym urządzeniu

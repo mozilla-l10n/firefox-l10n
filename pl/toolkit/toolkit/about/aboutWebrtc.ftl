@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Zapisuj informacje redukcji szumów o
 about-webrtc-aec-logging-on-state-label = Zatrzymaj zapisywanie informacji redukcji szumów otoczenia
 about-webrtc-aec-logging-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
 about-webrtc-aec-logging-toggled-on-state-msg = Zapisywanie informacji redukcji szumów otoczenia (rozmawiaj przez kilka minut, po czym zatrzymaj zapisywanie)
+about-webrtc-aec-logging-unavailable-sandbox = Eksport dzienników AEC wymaga zmiennej środowiskowej „MOZ_DISABLE_CONTENT_SANDBOX=1”. Ustaw tę zmienną wyłącznie wtedy, gdy rozumiesz możliwe ryzyko.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Pliki dziennika znajdują się w katalogu { $path }
