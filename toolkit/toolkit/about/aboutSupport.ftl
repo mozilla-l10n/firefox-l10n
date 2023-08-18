@@ -410,3 +410,5 @@ support-remote-features-status = Status
 
 pointing-device-mouse = Maus
 pointing-device-touchscreen = Touch-Gerät
+pointing-device-pen-digitizer = Digitizer-Stift
+pointing-device-none = Keine Zeigegeräte
