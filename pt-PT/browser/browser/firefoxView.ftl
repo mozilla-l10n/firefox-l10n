@@ -187,9 +187,12 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importar histórico de outro navegador
+firefoxview-import-history-description = Faça do { -brand-short-name } o seu navegador de eleição. Importe histórico de navegação, marcadores e muito mais.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Fechou um separador por engano?
+firefoxview-recentlyclosed-empty-description = Aqui poderá encontrar os separadores que fechou recentemente, para que possa reabrir qualquer um dos mesmos rapidamente.
 
 ##
 
