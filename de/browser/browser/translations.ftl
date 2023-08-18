@@ -70,6 +70,7 @@ translations-panel-translate-cancel =
     .label = Abbrechen
 translations-panel-learn-more-link = Weitere Informationen
 translations-panel-intro-header = Private Übersetzungen in { -brand-shorter-name } ausprobieren
+translations-panel-intro-description = Für Ihre Privatsphäre verlassen Übersetzungen niemals Ihr Gerät. Neue Sprachen und Verbesserungen kommen bald!
 translations-panel-error-translating = Beim Übersetzen ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.
 translations-panel-error-load-languages = Sprachen konnten nicht geladen werden
 translations-panel-error-load-languages-hint = Überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.
