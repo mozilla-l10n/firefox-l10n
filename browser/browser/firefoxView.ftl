@@ -174,6 +174,7 @@ firefoxview-choose-browser-button = Escolher o navegador
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Nada a mostrar
+firefoxview-dont-remember-history-empty-description = Proteger a sua privacidade está no centro do que fazemos. É por isto que pode controlar a atividade que o { -brand-short-name } guarda.
 
 ##
 
