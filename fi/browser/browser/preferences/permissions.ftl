@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Poikkeukset
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Sivuston osoite
     .accesskey = i
-
 permissions-block =
     .label = Estä
     .accesskey = E
-
 permissions-disable-etp =
     .label = Lisää poikkeus
     .accesskey = E
-
 permissions-session =
     .label = Salli istunnon ajaksi
     .accesskey = i
-
 permissions-allow =
     .label = Salli
     .accesskey = a
-
 permissions-button-off =
     .label = Poista käytöstä
     .accesskey = P
-
 permissions-button-off-temporarily =
     .label = Poista käytöstä väliaikaisesti
     .accesskey = v
-
 permissions-site-name =
     .label = Sivusto
-
 permissions-status =
     .label = Tila
-
 permissions-remove =
     .label = Poista sivusto
     .accesskey = P
-
 permissions-remove-all =
     .label = Poista kaikki sivustot
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Tallenna muutokset
     .buttonaccesskeyaccept = T
-
 permissions-autoplay-menu = Oletus kaikille sivustoille:
-
 permissions-searchbox =
     .placeholder = Etsi sivustoa
-
 permissions-capabilities-autoplay-allow =
     .label = Salli ääni ja video
 permissions-capabilities-autoplay-block =
     .label = Estä ääni
 permissions-capabilities-autoplay-blockall =
     .label = Estä ääni ja video
-
 permissions-capabilities-allow =
     .label = Salli
 permissions-capabilities-block =
     .label = Estä
 permissions-capabilities-prompt =
     .label = Kysy aina
-
 permissions-capabilities-listitem-allow =
     .value = Salli
 permissions-capabilities-listitem-block =
     .value = Estä
 permissions-capabilities-listitem-allow-session =
     .value = Salli istunnon ajaksi
-
 permissions-capabilities-listitem-off =
     .value = Pois
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Poikkeukset - Vain HTTPS -tila
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Voit poistaa Vain HTTPS -tilan käytöstä haluamiesi sivustojen kohdalla. { -brand-short-name } ei näin ollen yritä päivittää yhteyttä suojattuun HTTPS-tilaan kyseisten sivustojen kohdalla. Poikkeukset eivät päde yksityisiin ikkunoihin.
+permissions-exceptions-https-only-desc2 = Voit poistaa Vain HTTPS -tilan käytöstä haluamiesi sivustojen kohdalla. { -brand-short-name } ei näin ollen yritä päivittää yhteyttä suojattuun HTTPS-tilaan kyseisten sivustojen kohdalla.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Asetukset - Äänentoistolaitteen oikeudet
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Seuraavat sivustot ovat pyytäneet oikeutta valita äänentoistolaiteen. Voit määrittää millä sivustoilla on äänentoistolaitteen valintaoikeus.
-
 permissions-exceptions-doh-window =
     .title = Verkkosivustojen poikkeukset DNS:lle HTTPS:n kautta
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } ei käytä suojattua DNS:ää näillä sivustoilla ja niiden aliverkkotunnuksissa.
-
 permissions-doh-entry-field = Anna verkkosivuston verkkotunnuksen nimi
     .accesskey = v
-
 permissions-doh-add-exception =
     .label = Lisää
     .accesskey = L
-
 permissions-doh-col =
     .label = Verkkotunnus
-
 permissions-doh-remove =
     .label = Poista
     .accesskey = P
-
 permissions-doh-remove-all =
     .label = Poista kaikki
     .accesskey = k
