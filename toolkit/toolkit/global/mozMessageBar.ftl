@@ -4,6 +4,8 @@
 
 moz-message-bar-icon-info =
     .alt = Info
+moz-message-bar-icon-warning =
+    .alt = Åtvaring
 moz-message-bar-icon-success =
     .alt = Vellykka
 moz-message-bar-icon-error =
