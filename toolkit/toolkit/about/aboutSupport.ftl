@@ -81,6 +81,7 @@ app-basics-key-mozilla = Mozilla Location Service-nøgle
 app-basics-safe-mode = Fejlsikret tilstand
 app-basics-memory-size = Hukommelsesstørrelse (RAM)
 app-basics-disk-available = Ledig diskplads
+app-basics-pointing-devices = Pegeredskaber
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -410,3 +411,4 @@ support-remote-features-status = Status
 pointing-device-mouse = Mus
 pointing-device-touchscreen = Touchscreen
 pointing-device-pen-digitizer = Digital pen
+pointing-device-none = Ingen pegeredskaber

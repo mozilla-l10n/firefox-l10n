@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Start AEC-logning
 about-webrtc-aec-logging-on-state-label = Stop AEC-logning
 about-webrtc-aec-logging-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-logning er aktiveret (tal med opringeren i nogle minutter og deaktivér så logningen)
+about-webrtc-aec-logging-unavailable-sandbox = Miljøvariablen MOZ_DISABLE_CONTENT_SANDBOX=1 er påkrævet for at kunne eksportere AEC-logs. Indstil kun denne variabel, hvis du forstår de mulige risici.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Log-filer kan findes her: { $path }
