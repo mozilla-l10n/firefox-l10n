@@ -127,6 +127,8 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (attlate
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-direction = Send: { $codecs }
+about-webrtc-short-receive-direction = Ta imot: { $codecs }
 
 ##
 
@@ -303,6 +305,9 @@ about-webrtc-hide-msg-sdp = Skjul SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Vis media-kontekst
+about-webrtc-media-context-hide-msg = Gøym medie-kontekst
+about-webrtc-media-context-heading = Medie-kontekst
 
 ##
 

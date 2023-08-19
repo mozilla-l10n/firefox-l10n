@@ -184,3 +184,7 @@ firefoxview-recentlyclosed-empty-header = Lèt att fane for tidleg?
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Ingen opne faner på denne eininga
