@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Bu sayfayı çevir - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name }’ta gizli çevirileri deneyin - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -65,6 +69,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Vazgeç
 translations-panel-learn-more-link = Daha fazla bilgi al
+translations-panel-intro-header = { -brand-shorter-name }’ta gizli çevirileri deneyin
+translations-panel-intro-description = Gizliliğinizi korumak için çeviriler asla cihazınızdan dışarı çıkmaz. Yeni diller ve gelişmeler de yolda!
 translations-panel-error-translating = Çeviri sırasında bir sorun oluştu. Lütfen yeniden deneyin.
 translations-panel-error-load-languages = Diller yüklenemedi
 translations-panel-error-load-languages-hint = İnternet bağlantınızı kontrol edip yeniden deneyin.
