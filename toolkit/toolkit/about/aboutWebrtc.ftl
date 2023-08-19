@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Cumenzar da protocollar AEC
 about-webrtc-aec-logging-on-state-label = Chalar da protocollar AEC
 about-webrtc-aec-logging-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
 about-webrtc-aec-logging-toggled-on-state-msg = protocollar AEC è activ (discurra in pèr minutas cun il telefonader e terminescha lura il protocollar)
+about-webrtc-aec-logging-unavailable-sandbox = La variabla d'ambient MOZ_DISABLE_CONTENT_SANDBOX=1 è necessaria per exportar protocollaziuns AEC. Definescha mo questa variabla sche ti chapeschas il ristg potenzial.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Datotecas da protocols registrads sa chattan qua: { $path }
