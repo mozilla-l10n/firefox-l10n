@@ -161,6 +161,11 @@ migration-wizard-progress-header = Importerer data
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = Data vart importert
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Import av data fullført
 migration-wizard-progress-icon-in-progress =
     .aria-label = Importerer…
 migration-wizard-progress-icon-completed =
