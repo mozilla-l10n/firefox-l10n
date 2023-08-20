@@ -23,6 +23,20 @@ protections-panel-etp-more-info =
     .aria-label = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱟᱵᱚᱛ ᱰᱷᱮᱨ ᱵᱟᱲᱟᱭ ᱢᱮ
 protections-panel-etp-on-header = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱢ ᱛᱷᱚ ᱠᱟᱱᱟ
 protections-panel-etp-off-header = ᱥᱩᱫᱷᱨᱟᱹᱣ ᱠᱟᱱ ᱯᱟᱧᱡᱟ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱫᱚ ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫ ᱠᱟᱱᱟ
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱸᱡᱟ ᱨᱚᱯᱷᱟ
+    .description = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱮᱢᱪᱷᱚ
+    .aria-label = { $host } ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱵᱚᱸᱫ ᱢᱮ
+protections-panel-etp-off-toggle =
+    .label = ᱵᱟᱲᱦᱟᱣᱟᱠᱟᱱ ᱯᱟᱸᱡᱟ ᱨᱚᱯᱷᱟ
+    .description = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱞᱟᱹᱜᱤᱫ ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+    .aria-label = { $host } ᱞᱟᱹᱜᱤᱫ ᱨᱩᱠᱷᱤᱭᱟᱹᱠᱚ ᱮᱢᱪᱷᱚᱭ ᱢᱮ
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ᱥᱟᱭᱤᱴ ᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤ ᱠᱟᱱᱟ ᱥᱮ ?
 # The heading/title of the sub-panel view

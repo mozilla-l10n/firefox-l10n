@@ -39,3 +39,7 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name } ᱨᱮ ᱥᱟᱧᱪᱟᱣ �
     .accesskey = o
 fxviewtabrow-copy-link = ᱞᱤᱝᱠ ᱱᱚᱠᱚᱞ ᱢᱮ
     .accesskey = L
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = { $tabTitle } ᱞᱟᱹᱜᱤᱫ ᱢᱚᱱᱮᱛᱮᱭᱟᱜᱠᱚ
