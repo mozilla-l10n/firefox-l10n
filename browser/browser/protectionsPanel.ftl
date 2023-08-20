@@ -47,7 +47,7 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = რატომ?
-protections-panel-not-blocking-why-etp-on-tooltip = მათი შეზღუდვის შედეგად, შესაძლოა საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშების შესაყვანი და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.
+protections-panel-not-blocking-why-etp-on-tooltip = მათი შეზღუდვის შედეგად შესაძლოა, საიტების ნაწილმა ვერ იმუშაოს გამართულად. მეთვალყურეების მოცილებისას, ზოგიერთი ღილაკი, ანგარიშების შესაყვანი და სხვა შესავსები ველები, აღარ მოქმედებს ხოლმე.
 protections-panel-not-blocking-why-etp-off-tooltip = ყველა მეთვალყურე ჩაიტვირთა ამ საიტზე, ვინაიდან დაცვა გამორთულია.
 
 ##
@@ -103,8 +103,8 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = მ
 protections-panel-content-blocking-breakage-report-view =
     .title = მოხსენება დაზიანებულ საიტზე
-protections-panel-content-blocking-breakage-report-view-description = შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ { -brand-short-name } გავხადოთ უკეთესი ყველასთვის. შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები. <label data-l10n-name="learn-more">ვრცლად</label>
-protections-panel-content-blocking-breakage-report-view-description2 = შიგთავსის შეზღუდვის შედეგად, შესაძლოა საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ { -brand-short-name } გავხადოთ უკეთესი ყველასთვის. შედეგად, { -vendor-short-name }-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები.
+protections-panel-content-blocking-breakage-report-view-description = შიგთავსის შეზღუდვის შედეგად შესაძლოა, საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ { -brand-short-name } გავხადოთ უკეთესი ყველასთვის. შედეგად, Mozilla-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები. <label data-l10n-name="learn-more">ვრცლად</label>
+protections-panel-content-blocking-breakage-report-view-description2 = შიგთავსის შეზღუდვის შედეგად შესაძლოა, საიტებმა გამართულად ვერ იმუშაოს. ხარვეზების მოხსენებით, თქვენ დაგვეხმარებით, რომ { -brand-short-name } გავხადოთ უკეთესი ყველასთვის. შედეგად, { -vendor-short-name }-ს გადაეგზავნება როგორც URL-ბმული, აგრეთვე თქვენი ბრაუზერის პარამეტრების მონაცემები.
 protections-panel-content-blocking-breakage-report-view-collection-url = მისამართი
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = მისამართი

@@ -3,13 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 safeb-blocked-phishing-page-title = თაღლითური საიტი
-safeb-blocked-malware-page-title = საიტზე გადასვლამ, შესაძლოა ავნოს თქვენს კომპიუტერს
-safeb-blocked-unwanted-page-title = ეს საიტი შესაძლოა მავნე პროგრამებს შეიცავდეს
-safeb-blocked-harmful-page-title = ეს საიტი შესაძლოა მავნე კოდს შეიცავდეს
-safeb-blocked-phishing-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან, შესაძლოა მოტყუებით დაგაყენებინოთ პროგრამა ან ხელყოს თქვენი პირადი მონაცემები, მათ შორის პაროლები ან საკრედიტო ბარათების ნომრები.
+safeb-blocked-malware-page-title = საიტზე გადასვლამ შესაძლოა, ავნოს თქვენს კომპიუტერს
+safeb-blocked-unwanted-page-title = ეს საიტი შესაძლოა, მავნე პროგრამებს შეიცავდეს
+safeb-blocked-harmful-page-title = ეს საიტი შესაძლოა, მავნე კოდს შეიცავდეს
+safeb-blocked-phishing-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა, მოტყუებით დაგაყენებინოთ პროგრამა ან ხელყოს თქვენი პირადი მონაცემები, მათ შორის პაროლები ან საკრედიტო ბარათების ნომრები.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან ცდილობდა მავნე პროგრამის დაყენებას, რომელსაც შეეძლო მოეპარა ან გაენადგურებინა პირადი მონაცემები თქვენს კომპიუტერში.
-safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა მოტყუებით დაგაყენებინოთ პროგრამა, რომელიც ხელყოფს თქვენს ბრაუზერს (მაგალითად, შეგიცვლით საწყის გვერდს, ამოგიგდებთ დამატებით რეკლამებს საიტებზე და ა. შ.).
-safeb-blocked-harmful-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა სახიფათო პროგრამას აყენებდეს და იპარავდეს ან აზიანებდეს თქვენს პირად მონაცემებს (როგორიცაა ფოტოები, პაროლები, შეტყობინებები და საკრედიტო ბარათები).
+safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა, მოტყუებით დაგაყენებინოთ პროგრამა, რომელიც ხელყოფს თქვენს ბრაუზერს (მაგალითად, შეგიცვლით საწყის გვერდს, ამოგიგდებთ დამატებით რეკლამებს საიტებზე და ა. შ.).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } ზღუდავს ამ გვერდს, ვინაიდან შესაძლოა, სახიფათო პროგრამას აყენებდეს და იპარავდეს ან აზიანებდეს თქვენს პირად მონაცემებს (როგორიცაა ფოტოები, პაროლები, შეტყობინებები და საკრედიტო ბარათები).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = ინფორმაციის მომწოდებელი: <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = უკან დაბრუნება
 safeb-palm-see-details-label = ვრცლად
