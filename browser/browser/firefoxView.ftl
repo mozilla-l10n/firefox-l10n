@@ -23,6 +23,7 @@ firefoxview-tabpickup-progress-label = { $percentValue } % fullført
 firefoxview-tabpickup-step-signin-header = Bytt enkelt mellom enheter
 firefoxview-tabpickup-step-signin-description = For å hente telefonfanene dine hit, logger du først inn eller oppretter en konto.
 firefoxview-tabpickup-step-signin-primarybutton = Fortsett
+firefoxview-syncedtabs-signin-header = Hent faner uansett hvor du er
 firefoxview-syncedtabs-signin-primarybutton = Logg inn eller registrer deg
 firefoxview-tabpickup-adddevice-header = Synkroniser { -brand-product-name } på telefonen eller nettbrettet
 firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } for mobil og logg inn der.
@@ -48,6 +49,7 @@ firefoxview-tabpickup-password-locked-header = Skriv inn hovedpassordet ditt for
 firefoxview-tabpickup-password-locked-description = For å få tilgang til fanene dine må du skrive inn hovedpassordet for { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Les mer
 firefoxview-tabpickup-password-locked-primarybutton = Skriv inn hovedpassordet
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Les mer</a>
 firefoxview-tabpickup-signed-out-header = Logg inn for å koble til på nytt
 firefoxview-tabpickup-signed-out-description = For å koble til igjen og få tak i fanene dine, logg in på din { -fxaccount-brand-name }.
 firefoxview-tabpickup-signed-out-primarybutton = Logg inn
@@ -61,6 +63,7 @@ firefoxview-closed-tabs-title = Nylig lukket
 firefoxview-closed-tabs-description2 = Åpne på nytt sider du har lukket i dette vinduet.
 firefoxview-closed-tabs-placeholder-header = Ingen nylig lukkede faner
 firefoxview-closed-tabs-placeholder-body = Når du lukker en fane i dette vinduet, kan du hente den herfra.
+firefoxview-closed-tabs-placeholder-body2 = Når du lukker en fane, kan du hente den herfra.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
