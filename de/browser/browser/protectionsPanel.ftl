@@ -31,11 +31,11 @@ protections-panel-etp-off-header = Verbesserter Schutz vor Aktivitätenverfolgun
 
 protections-panel-etp-on-toggle =
     .label = Verbesserter Tracking-Schutz
-    .description = Aktiviert für diese Webseite
+    .description = Aktiviert für diese Website
     .aria-label = Schutz für { $host } abschalten
 protections-panel-etp-off-toggle =
     .label = Verbesserter Tracking-Schutz
-    .description = Deaktiviert für diese Seite
+    .description = Deaktiviert für diese Website
     .aria-label = Schutz für { $host } aktivieren
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Funktioniert die Website nicht richtig?
