@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 window-minimize-command =
-    .label = 最小化
+    .label = しまう
 window-zoom-command =
     .label = 拡大／縮小
 window-new-shortcut =
