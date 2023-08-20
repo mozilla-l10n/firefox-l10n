@@ -86,7 +86,7 @@ webext-site-perms-header-with-gated-perms-midi-sysex = ამ დამატე
 # Note, the empty line is used to create a line break between the two sections.
 # Note, this string will be used as raw markup. Avoid characters like <, >, &
 webext-site-perms-description-gated-perms-midi =
-    ეს ჩვეულებრივ მისაერთებელი მოწყობილობებია, როგორებიცაა ხმის სინთეზატორები, მაგრამ შესაძლოა ჩაშენებულიც იყოს თქვენს კომპიუტერში.
+    ეს ჩვეულებრივ მისაერთებელი მოწყობილობებია, როგორებიცაა ხმის სინთეზატორები, მაგრამ შესაძლოა, ჩაშენებულიც იყოს თქვენს კომპიუტერში.
     
     საიტებს, როგორც წესი, არ აქვს MIDI-მოწყობილობებზე წვდომის ნებართვა. არასათანადო გამოყენებამ შეიძლება დააზიანოს ან ხელყოს თქვენი უსაფრთხოება.
 

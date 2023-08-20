@@ -100,10 +100,10 @@ tabbrowser-confirm-open-multiple-tabs-title = გახსნის დასტ
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
     { $tabCount ->
-       *[other] თქვენ აპირებთ { $tabCount } ჩანართის გახსნას. გვერდების ჩატვირთვამ შესაძლოა შეანელოს { -brand-short-name }. ნამდვილად გსურთ, განაგრძოთ?
+       *[other] თქვენ აპირებთ { $tabCount } ჩანართის გახსნას. გვერდების ჩატვირთვამ შესაძლოა, შეანელოს { -brand-short-name }. ნამდვილად გსურთ, განაგრძოთ?
     }
 tabbrowser-confirm-open-multiple-tabs-button = ჩანართების გახსნა
-tabbrowser-confirm-open-multiple-tabs-checkbox = გაფრთხილება, როცა ბევრი ჩანართის გახსნამ, შესაძლოა შეანელოს { -brand-short-name }
+tabbrowser-confirm-open-multiple-tabs-checkbox = გაფრთხილება, როცა ბევრი ჩანართის გახსნამ შესაძლოა, შეანელოს { -brand-short-name }
 
 ## Confirmation dialog for enabling caret browsing
 

@@ -67,8 +67,8 @@ protection-report-passwords-manage-passwords-button = პაროლები�
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
     { $count ->
-        [one] 1 პაროლი, შესაძლოა გამჟღავნებულიყო მიტაცებისას.
-       *[other] { $count } პაროლი, შესაძლოა გამჟღავნებულიყო მიტაცებისას.
+        [one] 1 პაროლი შესაძლოა, გამჟღავნებულიყო მიტაცებისას.
+       *[other] { $count } პაროლი შესაძლოა, გამჟღავნებულიყო მიტაცებისას.
     }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.

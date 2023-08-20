@@ -32,7 +32,7 @@ neterror-disable-native-feedback-warning = ყოველთვის გან
 
 ##
 
-neterror-pref-reset = შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?
+neterror-pref-reset = შესაძლოა, ამას თქვენი ქსელის უსაფრთხოების პარამეტრები იწვევდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?
 neterror-error-reporting-automatic = აცნობეთ { -vendor-short-name }-ს მსგავსი შეცდომების შესახებ, რომ დაეხმაროთ მავნე საიტების აღმოჩენასა და მათ შეზღუდვაში
 
 ## Specific error messages
@@ -76,11 +76,11 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } �
 
 neterror-file-not-found-filename = შეამოწმეთ ფაილის სახელი მთავრულების გათვალისწინებით ან სხვა შეცდომებზე.
 neterror-file-not-found-moved = შეამოწმეთ, ხომ არაა ფაილი გადატანილი, გადარქმეული ან წაშლილი.
-neterror-access-denied = ის შესაძლოა წაშლილიყო, გადატანილიყო ან ფაილის უფლებები წვდომას არ უშვებს.
-neterror-unknown-protocol = ამ მისამართის გასახსნელად, შესაძლოა სხვა პროგრამის დაყენება იყოს საჭირო.
+neterror-access-denied = შესაძლოა, წაშლილია, გადატანილია ან ფაილთან წვდომის უფლებები შეზღუდულია.
+neterror-unknown-protocol = ამ მისამართის გასახსნელად შესაძლოა, სხვა პროგრამის დაყენება იყოს საჭირო.
 neterror-redirect-loop = ამ ხარვეზს, ზოგჯერ იწვევს ფუნთუშების გამორთვა ან უარყოფა.
 neterror-unknown-socket-type-psm-installed = შეამოწმეთ და დარწმუნდით რომ თქვენს სისტემაში პირადი უსაფრთხოების მმართველი დაყენებულია.
-neterror-unknown-socket-type-server-config = ამის მიზეზი შესაძლოა სერვერის არასტანდარტული კონფიგურაცია იყოს.
+neterror-unknown-socket-type-server-config = ამის მიზეზი შესაძლოა, სერვერის არასტანდარტული კონფიგურაცია იყოს.
 neterror-not-cached-intro = მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი ადგილობრივად, სადაც მას { -brand-short-name } დროებით ინახავს.
 neterror-not-cached-sensitive = უსაფრთხოების მიზნით { -brand-short-name } დაუკითხავად არ ჩამოტვირთავს ხელმეორედ საიტიდან მოსაფრთხილებელ მასალას.
 neterror-not-cached-try-again = ჩამოტვირთვის ახლიდან მოთხოვნისთვის, დაწკაპეთ „სცადეთ ხელახლა“.
@@ -113,7 +113,7 @@ neterror-corrupted-content-contact-website = გთხოვთ, დაუკა
 neterror-sslv3-used = დამატებითი ინფორმაცია: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებთან წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა, მარტივად მიიღოს იმ მონაცემებთან წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
@@ -137,7 +137,7 @@ certerror-mitm-what-can-you-do-about-it-antivirus = თუ თქვენს �
 certerror-mitm-what-can-you-do-about-it-corporate = თუ დაწესებულების ქსელით სარგებლობთ, დაუკავშირდით ქსელის მართვის განყოფილებას.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
-certerror-mitm-what-can-you-do-about-it-attack = თუ არ გეცნობათ <b>{ $mitm }</b>, შესაძლოა თავდასხმის ქვეშ იყოთ და სჯობს აღარ შეხვიდეთ ამ საიტზე.
+certerror-mitm-what-can-you-do-about-it-attack = თუ არ გეცნობათ <b>{ $mitm }</b>, შესაძლოა, თავდასხმის ქვეშ იყოთ და სჯობს აღარ შეხვიდეთ ამ საიტზე.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack-sts = თუ არ გეცნობათ <b>{ $mitm }</b>, მაშინ შეიძლება თავდასხმას ჰქონდეს ადგილი და ვერ შეძლებთ საიტთან წვდომას.

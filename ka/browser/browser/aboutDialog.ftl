@@ -43,7 +43,7 @@ update-internal-error2 = ვერ მოწმდება განახლ�
 # Variables:
 #   $channel (String): description of the update channel (e.g. "release", "beta", "nightly" etc.)
 aboutdialog-channel-description = თქვენ ამჟამად იყენებთ განახლების <label data-l10n-name="current-channel">{ $channel }</label>-არხს.
-warningDesc-version = { -brand-short-name } საცდელია და შესაძლოა არამდგრადი იყოს.
+warningDesc-version = { -brand-short-name } საცდელია და შესაძლოა, არამდგრადი იყოს.
 aboutdialog-help-user = { -brand-product-name } – დახმარება
 aboutdialog-submit-feedback = გამოხმაურების გაგზავნა
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> არის <label data-l10n-name="community-exp-creditsLink">საერთაშორისო ერთობა</label>, რომელიც მუშაობს იმისთვის, რომ ინტერნეტი დარჩეს გახსნილი, საჯარო და საყოველთაოდ ხელმისაწვდომი.
