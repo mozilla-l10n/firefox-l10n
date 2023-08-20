@@ -37,11 +37,11 @@ pictureinpicture-subtitles-btn =
     .aria-label = 字幕
     .tooltip = 字幕
 pictureinpicture-fullscreen-btn2 =
-    .aria-label = @@Fullscreen@@
-    .tooltip = @@Fullscreen@@モードを開始 (ダブルクリックまたは { $shortcut })
+    .aria-label = 全画面表示
+    .tooltip = 全画面表示モードを開始 (ダブルクリックまたは { $shortcut })
 pictureinpicture-exit-fullscreen-btn2 =
-  .aria-label = @@Fullscreen@@を終了
-  .tooltip = @@Fullscreen@@モードを終了 (ダブルクリックまたは { $shortcut })
+  .aria-label = 全画面表示を終了
+  .tooltip = 全画面表示モードを終了 (ダブルクリックまたは { $shortcut })
 
 ##
 
