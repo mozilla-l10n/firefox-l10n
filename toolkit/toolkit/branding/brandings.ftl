@@ -27,14 +27,12 @@
 -profiler-brand-name = Firefox Profiler
 -translations-brand-name = Firefox Translations
 -focus-brand-name = Firefox Focus
-
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
-
+-fakespot-brand-name = Fakespot
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefoxovi predlogi
-
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name =
@@ -70,8 +68,6 @@
                *[mala] domačo stranjo Firefoxa
             }
     }
-
 # View" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefoxview-brand-name = Firefox View
-
