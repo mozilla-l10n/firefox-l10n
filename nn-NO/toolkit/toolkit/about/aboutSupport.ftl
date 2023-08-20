@@ -405,4 +405,5 @@ support-remote-features-status = Status
 
 pointing-device-mouse = Mus
 pointing-device-touchscreen = Berøringsskjerm
+pointing-device-pen-digitizer = Digitalpenn
 pointing-device-none = Inga peikeeining
