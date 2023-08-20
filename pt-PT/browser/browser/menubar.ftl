@@ -219,6 +219,9 @@ menu-history-undo-menu =
     .label = Separadores fechados recentemente
 menu-history-undo-window-menu =
     .label = Janelas fechadas recentemente
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Pesquisar histórico
 
 ## Bookmarks Menu
 

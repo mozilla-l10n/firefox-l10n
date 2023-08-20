@@ -199,3 +199,4 @@ firefoxview-recentlyclosed-empty-description = Aqui poderá encontrar os separad
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Nenhum separador aberto neste dispositivo

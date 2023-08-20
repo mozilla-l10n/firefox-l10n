@@ -18,6 +18,7 @@ support-addons-type = Tipo
 support-addons-enabled = Ativado
 support-addons-version = Versão
 support-addons-id = ID
+legacy-user-stylesheets-enabled = Ativo
 security-software-title = Software de segurança
 security-software-type = Tipo
 security-software-name = Nome
@@ -77,6 +78,7 @@ app-basics-key-mozilla = Chave do serviço de localização da Mozilla
 app-basics-safe-mode = Modo de segurança
 app-basics-memory-size = Tamanho da Memória (RAM)
 app-basics-disk-available = Espaço em disco disponível
+app-basics-pointing-devices = Dispositivos Apontadores
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
