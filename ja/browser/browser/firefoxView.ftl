@@ -13,7 +13,7 @@ firefoxview-close-button =
     .title = 閉じる
     .aria-label = 閉じる
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
-firefoxview-just-now-timestamp = たった今
+firefoxview-just-now-timestamp = 直前
 # This is a headline for an area in the product where users can resume and re-open tabs they have previously viewed on other devices.
 firefoxview-tabpickup-header = 他端末のタブ
 firefoxview-tabpickup-description = 他の端末からページを開きます。
