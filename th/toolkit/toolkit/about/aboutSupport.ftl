@@ -15,6 +15,10 @@ support-addons-type = ชนิด
 support-addons-enabled = ถูกเปิดใช้งาน
 support-addons-version = รุ่น
 support-addons-id = ID
+legacy-user-stylesheets-title = สไตล์ชีตผู้ใช้แบบเดิม
+legacy-user-stylesheets-enabled = ใช้งานอยู่
+legacy-user-stylesheets-stylesheet-types = สไตล์ชีต
+legacy-user-stylesheets-no-stylesheets-found = ไม่พบสไตล์ชีต
 security-software-title = ซอฟต์แวร์ความปลอดภัย
 security-software-type = ชนิด
 security-software-name = ชื่อ
@@ -74,6 +78,7 @@ app-basics-key-mozilla = คีย์ Mozilla Location Service
 app-basics-safe-mode = โหมดปลอดภัย
 app-basics-memory-size = ขนาดหน่วยความจำ (RAM)
 app-basics-disk-available = พื้นที่ที่เหลือในดิสก์:
+app-basics-pointing-devices = อุปกรณ์ชี้ตำแหน่ง
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
