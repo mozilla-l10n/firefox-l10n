@@ -38,6 +38,8 @@ firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å del
 firefoxview-tabpickup-synctabs-learn-how = Les hvordan
 firefoxview-tabpickup-synctabs-primarybutton = Synkroniser åpne faner
 firefoxview-syncedtabs-synctabs-header = Oppdater dine synkroniseringsinnstillinger
+firefoxview-syncedtabs-synctabs-description = For å se faner fra andre enheter, må du synkronisere dine åpne faner.
+firefoxview-syncedtabs-synctabs-checkbox = Tillat åpne faner å synkronisere
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-network-offline-header = Sjekk internettilkoblingen din
@@ -92,12 +94,16 @@ firefoxview-collapse-button-hide =
     .title = Skjul liste
 firefoxview-overview-nav = Nylig besøkt
     .title = Nylig besøkt
+firefoxview-overview-header = Nylig besøkt
+    .title = Nylig besøkt
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Historikk
     .title = Historikk
 firefoxview-history-header = Historikk
+firefoxview-history-context-delete = Slett fra historikk
+    .accesskey = S
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -133,10 +139,20 @@ firefoxview-opentabs-focus-tab =
     .title = Bytt til denne fanen
 firefoxview-show-more = Vis mer
 firefoxview-show-less = Vis mindre
+firefoxview-sort-history-by-date-label = Sorter etter dato
+firefoxview-sort-history-by-site-label = Sorter etter nettsted
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = I dag - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = I går - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (lokale filer)
 
 ##
 
