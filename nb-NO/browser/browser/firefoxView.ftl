@@ -156,6 +156,8 @@ firefoxview-history-site-localhost = (lokale filer)
 
 ##
 
+firefoxview-show-all-history = Vis all historikk
+firefoxview-view-more-browsing-history = Vis mer nettleserhistorikk
 
 ## Message displayed in Firefox View when the user has no history data
 
