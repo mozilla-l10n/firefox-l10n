@@ -31,6 +31,7 @@ firefoxview-tabpickup-adddevice-description = Last ned { -brand-product-name } f
 firefoxview-tabpickup-adddevice-learn-how = Les korleis
 firefoxview-tabpickup-adddevice-primarybutton = Få { -brand-product-name } for mobil
 firefoxview-syncedtabs-adddevice-header = Logg inn på { -brand-product-name } på dei andre einingane dine
+firefoxview-syncedtabs-adddevice-description = Logg på alle einingane dine for å sjå fanene dine frå alle stadane du brukar { -brand-product-name }. <a data-l10n-name="url">Slik legg du til nye einingar</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } for mobil
 firefoxview-tabpickup-synctabs-header = Slå på fanesynkronisering
 firefoxview-tabpickup-synctabs-description = Tillat { -brand-short-name } å dele faner mellom einingar.
@@ -68,6 +69,7 @@ firefoxview-closed-tabs-title = Nyleg attlatne
 firefoxview-closed-tabs-description2 = Opne på nytt sider du har late att i dette vindauget.
 firefoxview-closed-tabs-placeholder-header = Ingen nyleg attlatne faner
 firefoxview-closed-tabs-placeholder-body = Når du lèt att ei fane i dette vindauget, kan du hente henne herifrå.
+firefoxview-closed-tabs-placeholder-body2 = Når du lèt att ei fane, kan du hente henne herifrå.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
