@@ -495,7 +495,7 @@ home-new-windows-tabs-description2 = Eiporavo ehecháva eikévo ne kuatiarogue i
 
 ## Home Section - Home Page Customization
 
-home-homepage-mode-label = Togue moñepyrû ha ovetâ pyahu
+home-homepage-mode-label = Togue moñepyrũ ha ovetã pyahu
 home-newtabs-mode-label = tendayke pyahu
 home-restore-defaults =
     .label = mbopyahujey techa mboyvegua
