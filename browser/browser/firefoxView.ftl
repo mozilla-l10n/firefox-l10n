@@ -161,18 +161,31 @@ firefoxview-view-more-browsing-history = Vis mer nettleserhistorikk
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Kom tilbake til der du har vært
+firefoxview-history-empty-description = Mens du surfer, vil sidene du besøker bli oppført her.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Velg nettleser
+    .title = Velg nettleser
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ingenting å vise
+firefoxview-dont-remember-history-empty-description = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker.
+firefoxview-dont-remember-history-empty-description-two = Basert på de nåværende innstillingene dine, husker ikke { -brand-short-name } aktiviteten din mens du surfer. For å endre det, <a data-l10n-name="history-settings-url-two">endre historikkinnstillingene dine for å huske historikken din</a>.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Lukk
+    .title = Lukk
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importer historikk fra en annen nettleser
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
