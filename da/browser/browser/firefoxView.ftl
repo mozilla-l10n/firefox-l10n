@@ -32,7 +32,7 @@ firefoxview-tabpickup-adddevice-learn-how = Læs hvordan
 firefoxview-tabpickup-adddevice-primarybutton = Hent { -brand-product-name } til mobilen
 firefoxview-syncedtabs-adddevice-header = Log ind på { -brand-product-name } på dine andre enheder
 firefoxview-syncedtabs-adddevice-description = Log ind på alle dine enheder for at se dine faneblade fra alle de steder, du bruger { -brand-product-name }. <a data-l10n-name="url">Sådan tilføjer du nye enheder</a>.
-firefoxview-syncedtabs-adddevice-primarybutton = På { -brand-product-name } på din mobil
+firefoxview-syncedtabs-adddevice-primarybutton = Prøv { -brand-product-name } på din mobil
 firefoxview-tabpickup-synctabs-header = Slå synkronisering af faneblade til
 firefoxview-tabpickup-synctabs-description = Tillad { -brand-short-name } at dele faneblade mellem enheder.
 firefoxview-tabpickup-synctabs-learn-how = Læs hvordan
