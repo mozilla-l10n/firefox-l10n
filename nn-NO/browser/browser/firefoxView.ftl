@@ -161,6 +161,7 @@ firefoxview-view-more-browsing-history = Vis meir nettlesarhistorikk
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Gå tilbake til der du allereie har vore
 
 ##
 
