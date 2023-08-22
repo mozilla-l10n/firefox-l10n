@@ -160,6 +160,7 @@ extensions-warning-check-compatibility-button = Myandy
 extensions-warning-update-security = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security-button = Myandy
     .title = Emyandy jehechajey moĩmbaha rekorosãrã reheguáva
+extensions-warning-imported-addons = Emohu’ã jepysokue guerupyre ñemohenda { -brand-short-name } peve
 extensions-warning-imported-addons-button = Emohenda Jepysokue
 
 ## Strings connected to add-on updates
@@ -363,6 +364,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Emongu’e tenda jejokopyrépe
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Oñemoneĩ vove, pe jepysokue oikekuaáta tenda { -vendor-short-name } omochi’ĩpyrévape. Emoneĩ ejeroviáramo ko jepysokue añoite.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Moneĩ
 addon-detail-quarantined-domains-disallow = Ani emoneĩ
