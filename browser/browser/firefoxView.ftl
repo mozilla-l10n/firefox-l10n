@@ -186,12 +186,17 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importer historikk fra en annen nettleser
+firefoxview-import-history-description = Gjør { -brand-short-name } til din nettleser. Importer nettleserhistorikk, bokmerker og mer.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Lukket en fane for tidlig?
+firefoxview-recentlyclosed-empty-description = Her finner du fanene du nylig lukket, slik at du raskt kan åpne hvilken som helst av dem igjen.
+firefoxview-recentlyclosed-empty-description-two = For å finne faner fra for lenge siden, se <a data-l10n-name="history-url">nettleserhistorikken din</a>.
 
 ##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Ingen faner åpne på denne enheten
