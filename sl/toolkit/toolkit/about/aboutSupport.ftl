@@ -420,4 +420,5 @@ support-remote-features-status = Stanje
 
 pointing-device-mouse = Miška
 pointing-device-touchscreen = Zaslon na dotik
+pointing-device-pen-digitizer = Digitalno pisalo
 pointing-device-none = Ni kazalnih naprav
