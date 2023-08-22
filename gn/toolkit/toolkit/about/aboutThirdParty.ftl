@@ -65,6 +65,13 @@ third-party-button-to-block-module = Ejoko ko ta’ãha
 third-party-button-to-unblock-module = Embojuruja ko ta’ãha
     .title = Ojejokohína. Eikutu embojuruja hag̃ua.
     .aria-label = Ojejokohína. Eikutu embojuruja hag̃ua.
+third-party-button-to-unblock-module-disabled = Embojuruja ko ta’ãha (jokoha rysýi nodikói ko’ág̃a)
+    .title =
+        Ko’ág̃aite ojejokohína, pe jokoha rysýi ojejokóramo jepe ko ko tembiapópe g̃uarã
+         { -brand-short-name } rehegua. Eikutu embojuruja hag̃ua.
+    .aria-label =
+        Ko’ág̃aite ojejokohína, pe jokoha rysýi ojejokóramo jepe ko ko tembiapópe g̃uarã
+         { -brand-short-name } rehegua. Eikutu embojuruja hag̃ua.
 third-party-button-expand =
     .title = Ehechaukapaite marandu
 third-party-button-collapse =
