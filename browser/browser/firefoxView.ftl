@@ -162,6 +162,7 @@ firefoxview-view-more-browsing-history = Vis meir nettlesarhistorikk
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Gå tilbake til der du allereie har vore
+firefoxview-history-empty-description = Mens du surfar, vil sidene du besøkjer bli oppførte her.
 
 ##
 
@@ -172,6 +173,8 @@ firefoxview-choose-browser-button = Vel nettlesar
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Ingenting å vise
+firefoxview-dont-remember-history-empty-description = Vern av personvernet ditt er kjernen i det vi gjer. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } hugsar.
+firefoxview-dont-remember-history-empty-description-two = Basert på dei gjeldande innstillingane dine, hugsar ikkje { -brand-short-name } aktiviteten din mens du surfar. For å endre det, <a data-l10n-name="history-settings-url-two">endre historikkinnstillingane dine for å hugse historikken din</a>.
 
 ##
 
@@ -182,10 +185,13 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importer historikk frå ein annan nettlesar
+firefoxview-import-history-description = Gjer { -brand-short-name } til din nettlesar. Importer nettlesarhistorikk, bokmerke og meir.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Lèt att fane for tidleg?
+firefoxview-recentlyclosed-empty-description = Her finn du fanene du nyleg lèt att, slik at du raskt kan opne nokre av dei igjen.
 
 ##
 
