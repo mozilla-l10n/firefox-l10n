@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ກ່ຽວກັບ Plugins
-
 installed-plugins-label = ຕິດຕັ້ງ Plugins ແລ້ວ
 no-plugins-are-installed-label = ບໍ່ພົບ Plugins ທີ່ໄດ້ຮັບການຕິດຕັ້ງໄວ້
-
 deprecation-description = ມີບາງຢ່າງຂາດຫາຍໄປ? ບາງປັກອິນແມ່ນບໍ່ໄດ້ຮັບການສະຫນັບສະຫນູນແລ້ວ. <a data-l10n-name="deprecation-link">ຮຽນຮູ້ເພີ່ມເຕີມ.</a>
+deprecation-description2 =
+    .message = ມີບາງຢ່າງຂາດຫາຍໄປ? ບາງປັກອິນແມ່ນບໍ່ໄດ້ຮັບການສະຫນັບສະຫນູນແລ້ວ.
 
 ## The information of plugins
 ##
@@ -29,7 +29,6 @@ state-dd-enabled = <span data-l10n-name="state">ສະພາວະ:</span> ເ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">ສະພາວະ:</span> ເປີດໃຊ້ງານແລ້ວ ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">ສະພາວະ:</span> ປິດໃຊ້ງານແລ້ວ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ສະພາວະ:</span> ປິດໃຊ້ງານແລ້ວ ({ $blockListState })
-
 mime-type-label = ຊະນິດ MIME
 description-label = ຄຳອະທິບາຍ​
 suffixes-label = Suffixes
@@ -38,6 +37,4 @@ suffixes-label = Suffixes
 
 plugins-gmp-license-info = ​ຂໍ້ມູນກ່ຽວກັບລິຂະສິດ
 plugins-gmp-privacy-info = ຂໍ້ມູນສ່ວນຕົວ
-
 plugins-openh264-name = OpenH264 Video Codec ໄດ້ຮັບການສະຫນອງມາຈາກ Cisco Systems, Inc.
-
