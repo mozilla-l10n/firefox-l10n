@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = 항상 { $language } 번역
 translations-panel-settings-always-translate-unknown-language =
     .label = 항상 이 언어 번역
+translations-panel-settings-always-offer-translation =
+    .label = 항상 번역 제안
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = 오프라인 번역을 위한 언어를 다운
 translations-manage-all-language = 모든 언어
 translations-manage-download-button = 다운로드
 translations-manage-delete-button = 삭제
-translations-manage-language-download-button =
-    .label = 다운로드
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = 삭제
-    .accesskey = e
 translations-manage-error-download = 언어 파일을 다운로드하는 중에 문제가 발생했습니다. 다시 시도하세요.
 translations-manage-error-delete = 언어 파일을 삭제하는 동안 오류가 발생했습니다. 다시 시도하세요.
 translations-manage-intro = 언어 및 사이트 번역 기본 설정을 하고 오프라인 번역을 위해 설치된 언어를 관리합니다.
