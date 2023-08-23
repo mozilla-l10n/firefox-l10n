@@ -45,10 +45,14 @@ translations-panel-settings-never-translate-language =
     .label = Oversett aldri { $language }
 translations-panel-settings-never-translate-unknown-language =
     .label = Oversett aldri dette språket
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = Oversett aldri dette nettstedet
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
 
+translations-panel-header = Oversett denne siden?
 translations-panel-translate-button =
     .label = Oversett
 translations-panel-translate-button-loading =
@@ -57,21 +61,50 @@ translations-panel-translate-cancel =
     .label = Avbryt
 translations-panel-error-translating = Det oppstod et problem med å oversette. Prøv på nytt.
 translations-panel-error-load-languages = Kunne ikke laste inn språk
+translations-panel-error-load-languages-hint = Sjekk internett-tilkoblingen din og prøv igjen.
+translations-panel-error-load-languages-hint-button =
+    .label = Prøv igjen
+translations-panel-error-unsupported = Oversettelse er ikke tilgjengelig for denne siden
+translations-panel-error-dismiss-button =
+    .label = Jeg forstår
+translations-panel-error-change-button =
+    .label = Endre kildespråk
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Beklager, vi støtter ikke { $language } ennå.
+translations-panel-error-unsupported-hint-unknown = Beklager, vi støtter ikke dette språket ennå.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = Oversett fra
+translations-panel-to-label = Oversett til
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Denne siden er oversatt fra { $fromlanguage } til { $tolanguage }.
+translations-panel-choose-language =
+    .label = Velg et språk
 translations-panel-restore-button =
     .label = Vis original
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Oversettelser
 translations-manage-settings-button =
     .label = Innstillinger…
     .accesskey = n
@@ -79,11 +112,27 @@ translations-manage-description = Last ned språk for frakoblet oversettelse.
 translations-manage-all-language = Alle språk
 translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
-translations-manage-language-download-button =
-    .label = Last ned
-    .accesskey = L
-translations-manage-language-delete-button =
-    .label = Slett
-    .accesskey = S
 translations-manage-error-download = Klarte ikke å laste ned språkfilene. Prøv på nytt.
 translations-manage-error-delete = Det oppstod en feil ved sletting av språkfilene. Prøv på nytt.
+translations-settings-close-key =
+    .key = w
+translations-settings-never-translate-sites-description = Oversetting vil ikke tilbys for følgende nettsteder
+translations-settings-languages-column =
+    .label = Språk
+translations-settings-remove-language-button =
+    .label = Fjern språk
+    .accesskey = F
+translations-settings-remove-all-languages-button =
+    .label = Fjern alle språk
+    .accesskey = e
+translations-settings-sites-column =
+    .label = Nettsteder
+translations-settings-remove-site-button =
+    .label = Fjern nettsted
+    .accesskey = s
+translations-settings-remove-all-sites-button =
+    .label = Fjern alle nettsteder
+    .accesskey = n
+translations-settings-close-dialog =
+    .buttonlabelaccept = Lukk
+    .buttonaccesskeyaccept = L
