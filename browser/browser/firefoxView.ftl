@@ -182,6 +182,7 @@ firefoxview-import-history-close-button =
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-description-two = Daha önceden kapattığınız sekmeleri <a data-l10n-name="history-url">gezinti geçmişinizde</a> bulabilirsiniz.
 
 ##
 
