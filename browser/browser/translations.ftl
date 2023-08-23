@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Oversett denne siden
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Oversett denne siden - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -38,6 +43,8 @@ translations-panel-settings-always-translate-language =
     .label = Oversett alltid { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Oversett alltid dette språket
+translations-panel-settings-always-offer-translation =
+    .label = Tilby alltid å oversette
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -59,6 +66,7 @@ translations-panel-translate-button-loading =
     .label = Vent litt…
 translations-panel-translate-cancel =
     .label = Avbryt
+translations-panel-learn-more-link = Les mer
 translations-panel-error-translating = Det oppstod et problem med å oversette. Prøv på nytt.
 translations-panel-error-load-languages = Kunne ikke laste inn språk
 translations-panel-error-load-languages-hint = Sjekk internett-tilkoblingen din og prøv igjen.
@@ -114,6 +122,17 @@ translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
 translations-manage-error-download = Klarte ikke å laste ned språkfilene. Prøv på nytt.
 translations-manage-error-delete = Det oppstod en feil ved sletting av språkfilene. Prøv på nytt.
+translations-manage-install-description = Installer språk for frakoblet oversettelse
+translations-manage-language-install-button =
+    .label = Installer
+translations-manage-language-install-all-button =
+    .label = Installer alle
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Fjern
+translations-manage-language-remove-all-button =
+    .label = Fjern alle
+    .accesskey = e
 translations-settings-close-key =
     .key = w
 translations-settings-never-translate-sites-description = Oversetting vil ikke tilbys for følgende nettsteder
