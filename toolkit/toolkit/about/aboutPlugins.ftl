@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Davart ils plug-ins
-
 installed-plugins-label = Plug-ins installads
 no-plugins-are-installed-label = Chattà nagins plug-ins installads
-
 deprecation-description = Manca insatge? Il program na sustegna betg pli tut ils plug-ins. <a data-l10n-name="deprecation-link">Ulteriuras infurmaziuns.</a>
+deprecation-description2 =
+    .message = Manca insatge? Il program na sustegna betg pli tut ils plug-ins.
 
 ## The information of plugins
 ##
@@ -29,7 +29,6 @@ state-dd-enabled = <span data-l10n-name="state">Status:</span> Activà
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Activà ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Status:</span> Deactivà
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Deactivà ({ $blockListState })
-
 mime-type-label = Tip MIME
 description-label = Descripziun
 suffixes-label = Finiziuns
@@ -38,9 +37,7 @@ suffixes-label = Finiziuns
 
 plugins-gmp-license-info = Infurmaziuns da licenza
 plugins-gmp-privacy-info = Infurmaziuns davart la protecziun da datas
-
 plugins-openh264-name = Codec da video OpenH264, purschì da Cisco Systems, Inc.
 plugins-openh264-description = Quest plug-in è vegnì installà automaticamain da Mozilla per ademplir la specificaziun da WebRTC e per pussibilitar la videotelefonia da WebRTC cun apparats che basegnan il codec da video H.264. Visita http://www.openh264.org/ per studegiar il code da funtauna dal codec e per emprender dapli davart l'implementaziun.
-
 plugins-widevine-name = Modul «Widevine Content Decryption», purschì da Google Inc.
 plugins-widevine-description = Quest plug-in pussibilitescha la lectura da medias criptadas tenor la specificaziun Encrypted Media Extensions. Websites utiliseschan per il pli medias criptadas per evitar che products da multimedia mess en vendita vegnian copiads. Visitescha https://www.w3.org/TR/encrypted-media/ per ulteriuras infurmaziuns davart medias criptadas.
