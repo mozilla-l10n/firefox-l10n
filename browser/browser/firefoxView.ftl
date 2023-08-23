@@ -143,6 +143,10 @@ firefoxview-show-more = 자세히 보기
 firefoxview-show-less = 간단히 보기
 firefoxview-sort-history-by-date-label = 날짜순 정렬
 firefoxview-sort-history-by-site-label = 사이트순 정렬
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url }(으)로 전환
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
