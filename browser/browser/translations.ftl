@@ -122,6 +122,7 @@ translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
 translations-manage-error-download = Klarte ikke å laste ned språkfilene. Prøv på nytt.
 translations-manage-error-delete = Det oppstod en feil ved sletting av språkfilene. Prøv på nytt.
+translations-manage-intro = Angi innstillingene for språk og nettstedoversettelse og behandle språk som er installert for frakoblet oversettelse.
 translations-manage-install-description = Installer språk for frakoblet oversettelse
 translations-manage-language-install-button =
     .label = Installer
