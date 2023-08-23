@@ -15,6 +15,7 @@ support-addons-type = Type
 support-addons-enabled = Påslått
 support-addons-version = Versjon
 support-addons-id = ID
+legacy-user-stylesheets-title = Eldre bruker-stilsett
 legacy-user-stylesheets-enabled = Aktiv
 legacy-user-stylesheets-stylesheet-types = Stilsett
 legacy-user-stylesheets-no-stylesheets-found = Ingen stilsett funnet
@@ -77,6 +78,7 @@ app-basics-key-mozilla = Mozilla Location Service-nøkkel
 app-basics-safe-mode = Sikker modus
 app-basics-memory-size = Minnestørrelse (RAM)
 app-basics-disk-available = Tilgjengelig diskplass
+app-basics-pointing-devices = Peke-enheter
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -177,6 +179,12 @@ media-capabilities-enumerate = Telle opp databasen
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Programvaredekoding
+media-codec-support-hw-decoding = Maskinvaredekoding
+media-codec-support-codec-name = Kodeknavn
+media-codec-support-supported = Støttet
+media-codec-support-unsupported = Ikke støttet
+media-codec-support-error = Kodek-støtteinformasjon utilgjengelig. Prøv igjen etter å ha spilt av en mediefil.
 
 ##
 
@@ -397,3 +405,7 @@ support-remote-features-status = Status
 
 ## Pointing devices
 
+pointing-device-mouse = Mus
+pointing-device-touchscreen = Trykkskjerm
+pointing-device-pen-digitizer = Digitalpenn
+pointing-device-none = Ingen peke-enheter
