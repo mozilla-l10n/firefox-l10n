@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Comence la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-label = Ferme la regjistrazion di AEC
 about-webrtc-aec-logging-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
 about-webrtc-aec-logging-toggled-on-state-msg = Regjistrazion di AEC ative (cjacare par cualchi minût cun l'interlocutôr e dopo ferme la regjistrazion)
+about-webrtc-aec-logging-unavailable-sandbox = La variabile di ambient MOZ_DISABLE_CONTENT_SANDBOX=1 e je necessarie par espuartâ i regjistris AEC. Stabilìs cheste variabile dome se tu cognossis i pussibii risis.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = I files regjistrâts a si cjatin in: { $path }

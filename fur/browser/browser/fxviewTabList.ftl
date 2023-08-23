@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Vierç menù
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Vierç { $targetURI } intune gnove schede
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Scarte { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Juste cumò
 
@@ -44,3 +39,7 @@ fxviewtabrow-save-to-pocket = Salve su { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Copie colegament
     .accesskey = l
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Opzions par { $tabTitle }
