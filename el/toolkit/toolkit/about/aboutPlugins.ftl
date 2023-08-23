@@ -7,7 +7,7 @@ installed-plugins-label = Εγκατεστημένα αρθρώματα
 no-plugins-are-installed-label = Δεν βρέθηκαν εγκατεστημένα αρθρώματα
 deprecation-description = Λείπει κάτι; Μερικά αρθρώματα δεν υποστηρίζονται πλέον. <a data-l10n-name="deprecation-link">Μάθετε περισσότερα.</a>
 deprecation-description2 =
-    .message = Λείπει κάτι; Μερικά αρθρώματα δεν υποστηρίζονται πλέον.
+    .message = Λείπει κάτι; Μερικές πρόσθετες λειτουργίες δεν υποστηρίζονται πλέον.
 
 ## The information of plugins
 ##
