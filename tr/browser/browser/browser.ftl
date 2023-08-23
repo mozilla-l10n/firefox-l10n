@@ -562,6 +562,8 @@ urlbar-result-action-search-w-engine = { $engine } ile ara
 urlbar-result-action-sponsored = Sponsorlu
 urlbar-result-action-switch-tab = Sekmeye geç
 urlbar-result-action-visit = Ziyaret et
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Panodan ziyaret et
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables

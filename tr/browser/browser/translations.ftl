@@ -132,6 +132,7 @@ translations-manage-language-delete-button =
     .accesskey = S
 translations-manage-error-download = Dil dosyaları indirilirken bir sorun oluştu. Lütfen yeniden deneyin.
 translations-manage-error-delete = Dil dosyaları silinirken bir hata oluştu. Lütfen yeniden deneyin.
+translations-manage-intro = Dil ve site çevirisi tercihlerinizi ayarlayın, çevrimdışı çeviri için yüklenen dilleri yönetin.
 translations-manage-install-description = Çevrimdışı çeviri için dilleri yükle
 translations-manage-language-install-button =
     .label = Yükle
