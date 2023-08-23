@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Lukk dette varselet
 alert-settings-title =
     .tooltiptext = Innstillinger
+
+## Reminder Notifications
+
+notification-default-dismiss = Ignorer

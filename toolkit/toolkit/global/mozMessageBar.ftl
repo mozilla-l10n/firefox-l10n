@@ -4,6 +4,12 @@
 
 moz-message-bar-icon-info =
     .alt = Info
+moz-message-bar-icon-warning =
+    .alt = Advarsel
+moz-message-bar-icon-success =
+    .alt = Vellykket
+moz-message-bar-icon-error =
+    .alt = Feil
 moz-message-bar-close-button =
     .aria-label = Lukk
     .title = Lukk
