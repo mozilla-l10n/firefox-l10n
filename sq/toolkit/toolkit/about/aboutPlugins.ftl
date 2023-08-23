@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Rreth Shtojcash
-
 installed-plugins-label = Shtojca të instaluara
 no-plugins-are-installed-label = Nuk u gjetën shtojca të instaluara
-
 deprecation-description = Mungon ndonjë gjë? Disa shtojca nuk mbulohen më. <a data-l10n-name="deprecation-link">Mësoni Më Tepër.</a>
+deprecation-description2 =
+    .message = Mungon ndonjë gjë? Disa shtojca nuk mbulohen më.
 
 ## The information of plugins
 ##
@@ -29,7 +29,6 @@ state-dd-enabled = <span data-l10n-name="state">Gjendje:</span> E aktivizuar
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Gjendje:</span> E aktivizuar ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Gjendje:</span> E çaktivizuar
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Gjendje:</span> E çaktivizuar ({ $blockListState })
-
 mime-type-label = Lloj MIME
 description-label = Përshkrim
 suffixes-label = Prapashtesa
@@ -38,9 +37,7 @@ suffixes-label = Prapashtesa
 
 plugins-gmp-license-info = Të dhëna licence
 plugins-gmp-privacy-info = Informacion Mbi Privatësinë
-
 plugins-openh264-name = Kodek Videosh OpenH264, i ofruar nga Cisco Systems, Inc.
 plugins-openh264-description = Kjo shtojcë është instaluar automatikisht nga Mozilla për përputhje me specifikimet WebRTC dhe për të bërë të mundur thirrje WebRTC me pajisje që lypin kodekun H.264 për video. Vizitoni http://www.openh264.org/ që të shihni kodin burim të kodekut dhe për të mësuar më tepër rreth sendërtimit të tij.
-
 plugins-widevine-name = Widevine Content Decryption Module ofruar nga Google Inc.
 plugins-widevine-description = Kjo shtojcë bën të mundur luajtje mediash të fshehtëzuara në përputhje me specifikimet Encrypted Media Extensions. Mediat e fshehtëzuara zakonisht përdoren nga sajtet për t’i mbrojtur kundër kopjimesh lënde media me pagesë. Vizitoni https://www.w3.org/TR/encrypted-media/ për më tepër të dhëna mbi Encrypted Media Extensions.
