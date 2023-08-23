@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Sukarey ga
-
 installed-plugins-label = Sukari sinjantey
 no-plugins-are-installed-label = Sukari sinjante kulyaŋ mana duwandi
-
 deprecation-description = Haya foo ga war kuma? Sukari fooyaŋ ši kanbandi koyne. <a data-l10n-name="deprecation-link">Bay ka tonton.</a>
+deprecation-description2 =
+    .message = Haya foo ga war kuma? Sukari fooyaŋ ši kanbandi koyne.
 
 ## The information of plugins
 ##
@@ -29,7 +29,6 @@ state-dd-enabled = <span data-l10n-name="state">Alhaali:</span> Tunante
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Alhaali:</span> Tunante ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Alhaali:</span> Kayante
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Alhaali:</span> Kayante ({ $blockListState })
-
 mime-type-label = MIME dumi
 description-label = Šilbayyan
 suffixes-label = Bankanjey
@@ -38,8 +37,6 @@ suffixes-label = Bankanjey
 
 plugins-gmp-license-info = Duɲekaddasu alhabar
 plugins-gmp-privacy-info = Sutura alhabar
-
 plugins-openh264-name = OpenH264 Video Codec kaŋ Cisco Systems, Inc. n'a noo.
 plugins-openh264-description = Mozilla ga bonse-sukari kayandi, hala nga nda WebRTC ma hin ka koy nda cere. Nda mo, WebRTC ma hin ka goy nda nga maršin-kotantey, kan ngey diraa ga widewo codec H.264 waažibandi. Codec ɲaŋey bangandi http://www.openh264.org/ boŋ, hala ma hansa ka faham nga diraa se.
-
 plugins-widevine-name = Widevine gundekuna feeriyan dunbu kaŋ Google Inc. n'a noondi
