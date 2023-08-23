@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name }에 저장
     .accesskey = o
 fxviewtabrow-copy-link = 링크 복사
     .accesskey = L
+fxviewtabrow-close-tab = 탭 닫기
+    .accesskey = C
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
