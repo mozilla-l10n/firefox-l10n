@@ -14,7 +14,7 @@ learn-more = <span data-l10n-name="link">Kuaave</span>
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva ha avei mbyatyha osẽtava renda.
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha osẽtava renda.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva, peteĩ mbyatyha ikora’ietáva, avei ndaha’éi mbyatyha hi’ytaetáva.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha heta ytapegua.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi osẽtava renda ha avei mba’epuru hu’ũva.
@@ -23,6 +23,7 @@ inactive-css-not-grid-container = <strong>{ $property }</strong> ndoguerekói  m
 inactive-css-not-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’epuru hu’ũva.
 inactive-css-not-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’epuru eikundahakuévo térã tenda’iete.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> noñemoneĩri ::mba’epurugua’u tairenda ñepyrũguápe.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe, oguereko rupi jehechaha <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mab’epuru oĩgui <strong>vevuihápe</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
