@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Salvar in { -pocket-brand-name }
     .accesskey = i
 fxviewtabrow-copy-link = Copiar ligamine
     .accesskey = l
+fxviewtabrow-close-tab = Clauder scheda
+    .accesskey = C
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
