@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Ҳамеша бояд аз забони «{ $language }» тарҷума карда шавад
 translations-panel-settings-always-translate-unknown-language =
     .label = Ҳамеша бояд аз ин забон тарҷума карда шавад
+translations-panel-settings-always-offer-translation =
+    .label = Тарҷума ҳамеша пешниҳод карда шавад
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Барои тарҷума дар реҷаи о
 translations-manage-all-language = Ҳамаи забонҳо
 translations-manage-download-button = Боргирӣ кардан
 translations-manage-delete-button = Нест кардан
-translations-manage-language-download-button =
-    .label = Боргирӣ кардан
-    .accesskey = Б
-translations-manage-language-delete-button =
-    .label = Нест кардан
-    .accesskey = Н
 translations-manage-error-download = Ҳангоми боргирӣ кардани файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-error-delete = Ҳангоми несткунии файлҳои забонӣ мушкилие ба миён омад. Лутфан, аз нав кӯшиш кунед.
 translations-manage-intro = Хусусиятҳои забон ва тарҷумаи сомонаро танзим кунед ва забонҳои насбшударо барои тарҷумаҳои офлайн идора намоед.

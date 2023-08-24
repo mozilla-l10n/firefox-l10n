@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Нигоҳ доштан ба { -pocket-brand-name 
     .accesskey = Н
 fxviewtabrow-copy-link = Нусха бардоштани пайванд
     .accesskey = Н
+fxviewtabrow-close-tab = Пӯшидани варақа
+    .accesskey = П
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

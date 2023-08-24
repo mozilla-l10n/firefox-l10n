@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Пӯшидан
     .aria-label = Пӯшидан
@@ -141,6 +143,10 @@ firefoxview-show-more = Бештар нишон диҳед
 firefoxview-show-less = Камтар нишон диҳед
 firefoxview-sort-history-by-date-label = Мураттаб кардан аз рӯи ном
 firefoxview-sort-history-by-site-label = Мураттаб кардан аз рӯи сомона
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Гузариш ба { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
