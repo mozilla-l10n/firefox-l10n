@@ -1049,6 +1049,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = 數位指紋追蹤程式
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = 已知的數位指紋追蹤程式
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = 疑似是數位指紋追蹤程式
+    .accesskey = S
 
 ## Privacy Section - Tracking
 

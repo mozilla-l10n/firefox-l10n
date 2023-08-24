@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = 總是翻譯 { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = 總是翻譯此語言
+translations-panel-settings-always-offer-translation =
+    .label = 總是提供翻譯
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = 下載語言檔案，進行離線翻譯。
 translations-manage-all-language = 所有語言
 translations-manage-download-button = 下載
 translations-manage-delete-button = 刪除
-translations-manage-language-download-button =
-    .label = 下載
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = 刪除
-    .accesskey = e
 translations-manage-error-download = 下載語言檔案時發生問題，請再試一次。
 translations-manage-error-delete = 刪除語言檔案時發生錯誤，請再試一次。
 translations-manage-intro = 設定您的語言與網站翻譯偏好設定，或管理已安裝的離線翻譯語言檔。
