@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Mindig fordítson erről a nyelvről: { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Mindig fordítson erről a nyelvről
+translations-panel-settings-always-offer-translation =
+    .label = A fordítás felajánlása mindig
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Nyelvek letöltése a kapcsolat nélküli ford
 translations-manage-all-language = Összes nyelv
 translations-manage-download-button = Letöltés
 translations-manage-delete-button = Törlés
-translations-manage-language-download-button =
-    .label = Letöltés
-    .accesskey = L
-translations-manage-language-delete-button =
-    .label = Törlés
-    .accesskey = T
 translations-manage-error-download = Hiba történt a nyelvi fájlok letöltése során. Próbálja meg újra.
 translations-manage-error-delete = Hiba történt a nyelvi fájlok törlése során. Próbálja meg újra.
 translations-manage-intro = Adja meg a nyelvi és webhelyfordítási beállításokat, és kezelje az offline fordításhoz használt nyelveket.

@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Mentés a { -pocket-brand-name }be
     .accesskey = M
 fxviewtabrow-copy-link = Hivatkozás másolása
     .accesskey = H
+fxviewtabrow-close-tab = Lap bezárása
+    .accesskey = b
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
