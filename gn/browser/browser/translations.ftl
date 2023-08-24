@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Emoñe’ẽasameme { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Emoñe’ẽasameme ko ñe’ẽ
+translations-panel-settings-always-offer-translation =
+    .label = Eñekuãve’ẽ emoñe’ẽasa hag̃ua
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Emboguejy ñe’ẽnguéra emoñe’ẽasa hag
 translations-manage-all-language = Opaite ñe’ẽ
 translations-manage-download-button = Mboguejy
 translations-manage-delete-button = Mboguete
-translations-manage-language-download-button =
-    .label = Mboguejy
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Mboguete
-    .accesskey = e
 translations-manage-error-download = Iñapañuãi emboguejykuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃amieve.
 translations-manage-error-delete = Iñapañuãi emboguekuévo ñe’ẽnguéra marandurenda. Eha’ãjey ag̃ave.
 translations-manage-intro = Emohenda tenda ñe’ẽ ha ñemoñe’ẽasa ehayhúvéva ha eñangereko umi ñe’ẽ emohendáva emoñe’ẽasátava ñanduti’ỹre.

@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Eñongatu { -pocket-brand-name }-pe
     .accesskey = o
 fxviewtabrow-copy-link = Emonguatia juajuha
     .accesskey = L
+fxviewtabrow-close-tab = Emboty tendayke
+    .accesskey = C
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
