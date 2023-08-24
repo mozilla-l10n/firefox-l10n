@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Oversett denne siden - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Prøv private oversettelser i { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -67,6 +71,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Avbryt
 translations-panel-learn-more-link = Les mer
+translations-panel-intro-header = Prøv private oversettelser i { -brand-shorter-name }
+translations-panel-intro-description = Av hensyn til personvernet ditt forlater aldri oversettelser enheten din. Nye språk og forbedringer kommer snart!
 translations-panel-error-translating = Det oppstod et problem med å oversette. Prøv på nytt.
 translations-panel-error-load-languages = Kunne ikke laste inn språk
 translations-panel-error-load-languages-hint = Sjekk internett-tilkoblingen din og prøv igjen.

@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Unntak
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adressen til nettstedet
     .accesskey = d
-
 permissions-block =
     .label = Blokker
     .accesskey = B
-
 permissions-disable-etp =
     .label = Legg til unntak
     .accesskey = e
-
 permissions-session =
     .label = Tillat for programøkten
     .accesskey = T
-
 permissions-allow =
     .label = Tillat
     .accesskey = T
-
 permissions-button-off =
     .label = Slå av
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Slå av midlertidig
     .accesskey = a
-
 permissions-site-name =
     .label = Nettsted
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern nettsted
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle nettsteder
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Lagre endringer
     .buttonaccesskeyaccept = L
-
 permissions-autoplay-menu = Standard for alle nettsteder:
-
 permissions-searchbox =
     .placeholder = Søk på nettside
-
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
-
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkten
-
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -109,7 +90,8 @@ permissions-exceptions-cookie-desc = Du kan spesifisere hvilke nettsteder som al
 permissions-exceptions-https-only-window2 =
     .title = Unntak - kun-HTTPS-modus
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen for å sikre HTTPS for disse nettstedene. Unntak gjelder ikke private vinduer.
+permissions-exceptions-https-only-desc = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen til sikker HTTPS for disse nettstedene. Unntak gjelder ikke private vinduer.
+permissions-exceptions-https-only-desc2 = Du kan slå av kun-HTTPS-modus for bestemte nettsteder. { -brand-short-name } prøver ikke å oppgradere tilkoblingen til sikker HTTPS for disse nettstedene.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Innstillinger - Høyttalertillatelser
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Følgende nettsteder har bedt om å velge en lydutgangsenhet. Du kan spesifisere hvilke nettsteder som har lov til å velge en lydutgangsenhet.
-
 permissions-exceptions-doh-window =
     .title = Nettstedunntak for DNS-over-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikke bruke sikker DNS på disse nettstedene og deres underdomener.
-
 permissions-doh-entry-field = Skriv inn nettstedets domenenavn
     .accesskey = k
-
 permissions-doh-add-exception =
     .label = Legg til
     .accesskey = L
-
 permissions-doh-col =
     .label = Domene
-
 permissions-doh-remove =
     .label = Fjern
     .accesskey = F
-
 permissions-doh-remove-all =
     .label = Fjern alle
     .accesskey = e

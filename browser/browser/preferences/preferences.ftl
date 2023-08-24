@@ -1065,6 +1065,13 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Nettleseravtrykk
     .accesskey = N
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Kjente nettlesaravtrykkere
+    .accesskey = K
 
 ## Privacy Section - Tracking
 
