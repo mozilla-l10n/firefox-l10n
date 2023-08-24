@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Завжди перекладати { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Завжди перекладати цією мовою
+translations-panel-settings-always-offer-translation =
+    .label = Завжди пропонувати переклад
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Завантажити мови для офл�
 translations-manage-all-language = Усі мови
 translations-manage-download-button = Завантажити
 translations-manage-delete-button = Видалити
-translations-manage-language-download-button =
-    .label = Завантажити
-    .accesskey = З
-translations-manage-language-delete-button =
-    .label = Видалити
-    .accesskey = В
 translations-manage-error-download = Виникла проблема із завантаженням мовних файлів. Повторіть спробу.
 translations-manage-error-delete = Під час видалення мовних файлів сталася помилка. Повторіть спробу.
 translations-manage-intro = Оберіть свою мову і налаштуйте переклад сайтів, а також керуйте мовами, що встановлюються для перекладу офлайн.
