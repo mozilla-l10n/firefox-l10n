@@ -52,3 +52,4 @@ fxviewtabrow-close-tab = Chiudi scheda
 fxviewtabrow-options-menu-button =
   .title = Opzioni per { $tabTitle }
 
+
