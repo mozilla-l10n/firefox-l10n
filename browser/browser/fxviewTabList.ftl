@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = שמירה אל { -pocket-brand-name }
     .accesskey = א
 fxviewtabrow-copy-link = העתקת קישור
     .accesskey = ע
+fxviewtabrow-close-tab = סגירת לשונית
+    .accesskey = ס
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
