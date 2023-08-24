@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-timeout = Pe { $trrDomain }-pe jeike nemoha’ã
 neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
 neterror-dns-not-found-trr-unknown-host2 = Ko ñandurti renda ndojuhúi { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Oĩ peteĩ apañuãi { $trrDomain } ndive.
+neterror-dns-not-found-bad-trr-url = URL oiko’ỹva.
 neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’arõ’ỹva.
 
 ## Native fallback specific messages
