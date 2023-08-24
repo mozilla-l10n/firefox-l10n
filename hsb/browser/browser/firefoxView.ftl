@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Začinić
     .aria-label = Začinić
@@ -141,6 +143,10 @@ firefoxview-show-more = Wjace pokazać
 firefoxview-show-less = Mjenje pokazać
 firefoxview-sort-history-by-date-label = Po datumje sortěrować
 firefoxview-sort-history-by-site-label = Po sydle sortěrować
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = K { $url } přeńć
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
