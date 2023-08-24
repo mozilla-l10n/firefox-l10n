@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Vista í { -pocket-brand-name }
     .accesskey = s
 fxviewtabrow-copy-link = Afrita tengil
     .accesskey = l
+fxviewtabrow-close-tab = Loka flipa
+    .accesskey = k
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Alltaf þýða { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Alltaf þýða þetta tungumál
+translations-panel-settings-always-offer-translation =
+    .label = Alltaf bjóðast til að þýða
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Sækja tungumál fyrir þýðingar án netteng
 translations-manage-all-language = Öll tungumál
 translations-manage-download-button = Sækja
 translations-manage-delete-button = Eyða
-translations-manage-language-download-button =
-    .label = Sækja
-    .accesskey = k
-translations-manage-language-delete-button =
-    .label = Eyða
-    .accesskey = E
 translations-manage-error-download = Villa kom upp við að sækja tungumálaskrárnar. Reyndu aftur.
 translations-manage-error-delete = Villa kom upp við að eyða tungumálaskránum. Reyndu aftur.
 translations-manage-intro = Stilltu tungumála- og vefþýðingastillingar þínar og stjórnaðu tungumálum sem eru uppsett fyrir þýðingar án nettengingar.

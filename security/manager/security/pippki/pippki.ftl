@@ -8,22 +8,18 @@ password-quality-meter = Gæðamæling lykilorðs
 
 change-device-password-window =
     .title = Breyta lykilorði
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Öryggistæki: { $tokenName }
 change-password-old = Núverandi lykilorð:
 change-password-new = Nýtt lykilorð:
 change-password-reenter = Nýtt lykilorð (aftur):
-
 pippki-failed-pw-change = Ekki hægt að breyta lykilorði.
 pippki-incorrect-pw = Þú slóst ekki inn rétt núverandi lykilorð. Reyndu aftur.
 pippki-pw-change-ok = Tókst að breyta lykilorði.
-
 pippki-pw-empty-warning = Geymdu lykilorðin þín og einkalyklar verða ekki vernduð.
 pippki-pw-erased-ok = Þú hefur eytt lykilorðinu þínu. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Aðvörun! Þú hefur ákveðið að nota ekki lykilorð. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Þú ert núna í FIPS-ham. FIPS má ekki hafa tómt lykilorð.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Endursetja
 reset-primary-password-text = Ef þú endurstillir aðallykilorðið, þá muntu missa öll geymd vef- og póstlykilorð, öll skilríki, og alla einkalykla. Ertu viss um að þú viljir endurstilla aðallykilorðið þitt?
-
 pippki-reset-password-confirmation-title = Endurstilla aðallykilorð
 pippki-reset-password-confirmation-message = Aðallykilorðið þitt hefur verið endurstillt.
 
@@ -72,7 +67,8 @@ set-password-repeat-backup-pw =
     .value = Lykilorð öryggisafrits (aftur):
 set-password-reminder = Mikilvægt: Ef þú gleymir lykilorði öryggisafrits geturðu ekki endurheimt öryggisafritið seinna. Geymdu það öruggum stað.
 
-## Protected Auth dialog
-
 ## Protected authentication alert
 
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Auðkenndu teiknið „{ $tokenName }“. Hvernig það er gert fer eftir teikninu (til dæmis með því að nota fingrafaralesara eða slá inn kóða með lyklaborði).
