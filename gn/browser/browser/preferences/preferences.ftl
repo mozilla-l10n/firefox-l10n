@@ -1071,7 +1071,7 @@ content-blocking-fingerprinters-label =
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
     .label = Kuãhũ ojekuaáva
-    .accesskey = { "" }
+    .accesskey = K
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
