@@ -1039,7 +1039,7 @@ content-blocking-etp-standard-tcp-rollout-description = Повний захис�
 content-blocking-etp-standard-tcp-rollout-learn-more = Докладніше
 content-blocking-etp-standard-tcp-title = Включає нашу найпотужнішу функцію приватності – повний захист кук
 content-blocking-warning-title = Увага!
-content-blocking-and-isolating-etp-warning-description-2 = Цей параметр може спричиняти неправильну роботу деяких вебсайтів. Якщо сайт виглядає пошкодженим, ви можете вимкнути захист від стеження для такого сайту, щоб завантажити весь вміст.
+content-blocking-and-isolating-etp-warning-description-2 = Цей параметр може спричиняти неправильну роботу деяких вебсайтів. Якщо сайт здається пошкодженим, ви можете вимкнути захист від стеження для такого сайту, щоб завантажити весь вміст.
 content-blocking-warning-learn-how = Навчитися
 content-blocking-reload-description = Вам необхідно перезавантажити вкладки для застосування змін.
 content-blocking-reload-tabs-button =
@@ -1069,6 +1069,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Зчитування цифрового відбитка
     .accesskey = б
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Відомі засоби зчитування цифрового відбитка
+    .accesskey = м
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Підозрювані засоби зчитування цифрового відбитка
+    .accesskey = П
 
 ## Privacy Section - Tracking
 
