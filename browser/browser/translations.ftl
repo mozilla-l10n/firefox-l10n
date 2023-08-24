@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } pśecej pśełožowaś
 translations-panel-settings-always-translate-unknown-language =
     .label = Toś tu rěc pśecej pśełožowaś
+translations-panel-settings-always-offer-translation =
+    .label = Pśełožk pśecej póbitowaś
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Rěcy za pśełožowanje offline ześěgnuś.
 translations-manage-all-language = Wšykne rěcy
 translations-manage-download-button = Ześěgnuś
 translations-manage-delete-button = Lašowaś
-translations-manage-language-download-button =
-    .label = Ześěgnuś
-    .accesskey = Z
-translations-manage-language-delete-button =
-    .label = Lašowaś
-    .accesskey = a
 translations-manage-error-download = Pśi ześěgowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-error-delete = Pśi lašowanju rěcnych datajow jo problem nastał. Pšosym wopytajśo hyšći raz.
 translations-manage-intro = Póstajśo swóje nastajenja za rěc a pśełožowanje sedłow a zastojśo rěcy, kótarež su za pśełožowanje offline instalěrowane.
