@@ -65,6 +65,13 @@ third-party-button-to-block-module = Blokker denne modulen
 third-party-button-to-unblock-module = Opphev blokkering av denne modulen
     .title = For tiden blokkert. Klikk for å oppheve blokkeringen.
     .aria-label = For tiden blokkert. Klikk for å oppheve blokkeringen.
+third-party-button-to-unblock-module-disabled = Fjern blokkering av denne modulen (blokkeringsliste er for øyeblikket deaktivert)
+    .title =
+        For øyeblikket merket som blokkert, selv om blokkeringslisten er deaktivert for denne
+        kjøringen av { -brand-short-name }. Klikk for å oppheve blokkeringen.
+    .aria-label =
+        For øyeblikket merket som blokkert, selv om blokkeringslisten er deaktivert for denne kjøringen
+        kjøringen av { -brand-short-name }. Klikk for å oppheve blokkeringen.
 third-party-button-expand =
     .title = Vis detaljert informasjon
 third-party-button-collapse =
