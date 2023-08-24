@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Pla { -pocket-brand-name } składowaś
     .accesskey = P
 fxviewtabrow-copy-link = Wótkaz kopěrowaś
     .accesskey = k
+fxviewtabrow-close-tab = Rejtarik zacyniś
+    .accesskey = z
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
