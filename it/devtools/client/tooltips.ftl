@@ -134,3 +134,4 @@ css-compatibility-experimental-supported-message = <strong>{ $property }</strong
 
 css-compatibility-learn-more-message = <span data-l10n-name="link">Ulteriori informazioni</span> su <strong>{ $rootProperty }</strong>
 
+
