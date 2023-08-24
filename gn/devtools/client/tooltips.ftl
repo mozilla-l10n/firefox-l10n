@@ -16,6 +16,7 @@ learn-more = <span data-l10n-name="link">Kuaave</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva ha avei mbyatyha osẽtava renda.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva, peteĩ mbyatyha ikora’ietáva, avei ndaha’éi mbyatyha hi’ytaetáva.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha heta ytapegua.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi osẽtava renda ha avei mba’epuru hu’ũva.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’epuru osẽtava renda.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ndoguerekói  mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha osẽtava renda.
