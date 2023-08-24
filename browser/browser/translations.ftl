@@ -110,7 +110,7 @@ translations-panel-to-label = Oversett til
 # Variables:
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
-translations-panel-revisit-header = Denne siden er oversatt fra { $fromlanguage } til { $tolanguage }.
+translations-panel-revisit-header = Denne siden er oversatt fra { $fromlanguage } til { $toLanguage }.
 translations-panel-choose-language =
     .label = Velg et språk
 translations-panel-restore-button =
