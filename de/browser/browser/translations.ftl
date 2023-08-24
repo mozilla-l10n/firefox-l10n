@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } immer übersetzen
 translations-panel-settings-always-translate-unknown-language =
     .label = Diese Sprache immer übersetzen
+translations-panel-settings-always-offer-translation =
+    .label = Übersetzung immer anbieten
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Laden Sie Sprachen für die Offline-Übersetzu
 translations-manage-all-language = Alle Sprachen
 translations-manage-download-button = Herunterladen
 translations-manage-delete-button = Löschen
-translations-manage-language-download-button =
-    .label = Herunterladen
-    .accesskey = H
-translations-manage-language-delete-button =
-    .label = Entfernen
-    .accesskey = E
 translations-manage-error-download = Beim Herunterladen der Sprachdateien ist ein Problem aufgetreten. Bitte versuchen Sie es erneut.
 translations-manage-error-delete = Beim Löschen der Sprachdateien ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.
 translations-manage-intro = Legen Sie Einstellungen für Sprachen und Website-Übersetzungen fest und verwalten Sie installierte Sprachen für die Offline-Übersetzung.
