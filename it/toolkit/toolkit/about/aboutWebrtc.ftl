@@ -245,8 +245,6 @@ about-webrtc-debug-mode-on-state-msg = Modalità di debug attiva, scrittura regi
 about-webrtc-aec-logging-off-state-msg = I file di registro creati sono disponibili in: { $path }
 
 about-webrtc-save-page-complete-msg = Pagina salvata in: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = I registri di traccia sono disponibili in: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modalità di debug attiva, scrittura registri di traccia in: { $path }
 
 ##
 

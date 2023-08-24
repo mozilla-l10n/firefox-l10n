@@ -126,12 +126,6 @@ translations-manage-description = Scarica le lingue per la traduzione non in lin
 translations-manage-all-language = Tutte le lingue
 translations-manage-download-button = Scarica
 translations-manage-delete-button = Elimina
-translations-manage-language-download-button =
-    .label = Scarica
-    .accesskey = S
-translations-manage-language-delete-button =
-    .label = Elimina
-    .accesskey = E
 
 translations-manage-intro = Imposta le tue preferenze relative alla lingua e alla traduzione dei siti, gestisci le lingue installate per la traduzione non in linea.
 translations-manage-install-description = Installa lingue per la traduzione non in linea
