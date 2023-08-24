@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Spara till { -pocket-brand-name }
     .accesskey = r
 fxviewtabrow-copy-link = Kopiera länk
     .accesskey = K
+fxviewtabrow-close-tab = Stäng flik
+    .accesskey = S
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
