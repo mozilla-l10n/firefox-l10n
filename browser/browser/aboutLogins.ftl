@@ -104,6 +104,8 @@ login-item-cancel-button = Anulla
 ## A label is displayed under the date to describe the type of change.
 ## (e.g. updated, created, etc.)
 
+login-item-timeline-action-created = Creou
+login-item-timeline-action-used = Deuviou
 
 ## OS Authentication dialog
 
@@ -138,6 +140,23 @@ about-logins-confirm-remove-dialog-confirm-button = Scancella
 ## Variables
 ##   $count (number) - Number of items
 
+about-logins-confirm-remove-all-dialog-confirm-button-label =
+    { $count ->
+        [1] Scancella
+        [one] Scancella
+       *[other] Scancella tutto
+    }
+about-logins-confirm-remove-all-dialog-checkbox-label =
+    { $count ->
+        [1] Scì, scancella st’acesso
+        [one] Scì, scancella st’acesso
+       *[other] Scì, scancella sti accessi
+    }
+about-logins-confirm-remove-all-dialog-title =
+    { $count ->
+        [one] Scancella { $count } acesso?
+       *[other] Scancella tutti { $count } i acessi?
+    }
 
 ##
 
