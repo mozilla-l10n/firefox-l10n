@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } přeco přełožować
 translations-panel-settings-always-translate-unknown-language =
     .label = Tutu rěč přeco přełožować
+translations-panel-settings-always-offer-translation =
+    .label = Přełožk přeco poskićić
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Rěče za přełožowanje offline sćahnyć.
 translations-manage-all-language = Wšě rěče
 translations-manage-download-button = Sćahnyć
 translations-manage-delete-button = Zhašeć
-translations-manage-language-download-button =
-    .label = Sćahnyć
-    .accesskey = S
-translations-manage-language-delete-button =
-    .label = Zhašeć
-    .accesskey = h
 translations-manage-error-download = Při sćahowanju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-error-delete = Při zhašenju rěčnych datajow je problem nastał. Prošu spytajće hišće raz.
 translations-manage-intro = Postajće swoje nastajenja za rěč a přełožowanje sydłow a rjadujće rěče, kotrež su za přełožowanje offline instalowane.
