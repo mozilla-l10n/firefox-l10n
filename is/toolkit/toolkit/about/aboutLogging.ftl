@@ -38,4 +38,5 @@ about-logging-error = Villa:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-configuration-url-ignored = Stillingaslóð hunsuð
 about-logging-configured-via-url = Valkostur stilltur í gegnum slóð
