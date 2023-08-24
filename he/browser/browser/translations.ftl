@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = תמיד לתרגם מ{ $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = תמיד לתרגם שפה זו
+translations-panel-settings-always-offer-translation =
+    .label = תמיד להציע לתרגם
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = הורדת שפות לתרגום לא מקוו
 translations-manage-all-language = כל השפות
 translations-manage-download-button = הורדה
 translations-manage-delete-button = מחיקה
-translations-manage-language-download-button =
-    .label = הורדה
-    .accesskey = ה
-translations-manage-language-delete-button =
-    .label = מחיקה
-    .accesskey = מ
 translations-manage-error-download = אירעה שגיאה בהורדת קובצי השפה. נא לנסות שוב.
 translations-manage-error-delete = אירעה שגיאה במחיקת קובצי השפה. נא לנסות שוב.
 translations-manage-intro = באפשרותך להגדיר את השפה שלך ואת ההעדפות שלך לתרגום האתרים, ולנהל שפות המותקנות עבור תרגום לא מקוון.
