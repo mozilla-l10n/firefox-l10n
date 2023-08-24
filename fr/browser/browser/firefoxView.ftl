@@ -143,6 +143,10 @@ firefoxview-show-more = En afficher plus
 firefoxview-show-less = En afficher moins
 firefoxview-sort-history-by-date-label = Trier par date
 firefoxview-sort-history-by-site-label = Trier par site
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Aller vers { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

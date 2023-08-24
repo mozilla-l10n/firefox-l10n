@@ -1072,6 +1072,11 @@ content-blocking-fingerprinters-label =
 content-blocking-known-fingerprinters-label =
     .label = Détecteurs d’empreinte numérique connus
     .accesskey = e
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Détecteurs d’empreinte numérique suspectés
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
