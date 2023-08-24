@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name } ішіне сақтау
     .accesskey = ш
 fxviewtabrow-copy-link = Сілтемені көшіріп алу
     .accesskey = л
+fxviewtabrow-close-tab = Бетті жабу
+    .accesskey = ж
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
