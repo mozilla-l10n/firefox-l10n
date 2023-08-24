@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Mdel
     .aria-label = Mdel
@@ -125,6 +127,8 @@ firefoxview-sort-history-by-site-label = Smizzwer s usmel
 
 firefoxview-history-date-today = Ass-a - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Iḍelli - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
 
 ##
 
