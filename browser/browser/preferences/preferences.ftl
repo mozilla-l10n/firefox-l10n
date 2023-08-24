@@ -3,11 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Invia ai siti web un segnale “Do Not Track” per chiedere di non effettuare alcun tracciamento
+do-not-track-description2 =
+    .label = Invia ai siti web una richiesta “Do Not Track”
+    .accesskey = b
 do-not-track-learn-more = Ulteriori informazioni
 do-not-track-option-default-content-blocking-known =
     .label = Solo quando { -brand-short-name } è impostato per bloccare gli elementi traccianti conosciuti
 do-not-track-option-always =
     .label = Sempre
+
+global-privacy-control-description =
+    .label = Segnala ai siti web di non vendere o condividere i miei dati
+    .accesskey = S
 
 settings-page-title = Impostazioni
 
