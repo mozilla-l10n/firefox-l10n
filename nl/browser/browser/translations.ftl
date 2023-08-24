@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } altijd vertalen
 translations-panel-settings-always-translate-unknown-language =
     .label = Deze taal altijd vertalen
+translations-panel-settings-always-offer-translation =
+    .label = Altijd aanbieden om te vertalen
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Talen voor offline vertaling downloaden.
 translations-manage-all-language = Alle talen
 translations-manage-download-button = Downloaden
 translations-manage-delete-button = Verwijderen
-translations-manage-language-download-button =
-    .label = Downloaden
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Verwijderen
-    .accesskey = e
 translations-manage-error-download = Er is een probleem opgetreden bij het downloaden van de taalbestanden. Probeer het opnieuw.
 translations-manage-error-delete = Er is een probleem opgetreden bij het verwijderen van de taalbestanden. Probeer het opnieuw.
 translations-manage-intro = Stel uw voorkeuren voor taal en websitevertaling in en beheer geïnstalleerde talen voor offline vertaling.
