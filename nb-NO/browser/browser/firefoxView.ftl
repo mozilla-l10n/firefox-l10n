@@ -169,7 +169,7 @@ firefoxview-view-more-browsing-history = Vis mer nettleserhistorikk
 
 firefoxview-history-empty-header = Kom tilbake til der du har vært
 firefoxview-history-empty-description = Mens du surfer, vil sidene du besøker bli oppført her.
-firefoxview-history-empty-description-two = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker, i <a data-l10n-name="history-settings-url">logginnstillingene</a>.
+firefoxview-history-empty-description-two = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker, i <a data-l10n-name="history-settings-url">innstillingene for historikk</a>.
 
 ##
 
@@ -181,7 +181,7 @@ firefoxview-choose-browser-button = Velg nettleser
 
 firefoxview-dont-remember-history-empty-header = Ingenting å vise
 firefoxview-dont-remember-history-empty-description = Beskyttelse av personvernet ditt er kjernen i det vi gjør. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } husker.
-firefoxview-dont-remember-history-empty-description-two = Basert på de nåværende innstillingene dine, husker ikke { -brand-short-name } aktiviteten din mens du surfer. For å endre det, <a data-l10n-name="history-settings-url-two">endre historikkinnstillingene dine for å huske historikken din</a>.
+firefoxview-dont-remember-history-empty-description-two = Basert på de nåværende innstillingene dine, husker ikke { -brand-short-name } aktiviteten din mens du surfer. For å endre det, <a data-l10n-name="history-settings-url-two">endre innstillingene for historikk for å huske historikken din</a>.
 
 ##
 
