@@ -1026,7 +1026,7 @@ content-blocking-unvisited-cookies = Infokapsler fra ubesøkte nettsteder
 content-blocking-all-windows-tracking-content = Sporingsinnhold i alle vinduer
 content-blocking-all-cross-site-cookies = Alle infokapsler på tvers av nettsteder
 content-blocking-cryptominers = Kryptoutvinnere
-content-blocking-fingerprinters = Fingerprinters
+content-blocking-fingerprinters = Nettleseravtrykk
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1070,8 +1070,13 @@ content-blocking-fingerprinters-label =
 #
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
-    .label = Kjente nettlesaravtrykkere
+    .label = Kjente nettlesaravtrykksporere
     .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Mistenkt nettlesaravtrykksporere
+    .accesskey = M
 
 ## Privacy Section - Tracking
 

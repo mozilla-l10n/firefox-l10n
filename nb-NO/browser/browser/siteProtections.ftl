@@ -37,17 +37,11 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Beskyttelse for { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = Slå av beskyttelse for { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = Slå på beskyttelse for { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
 protections-blocking-fingerprinters =
-    .title = Fingerprinters blokkerte
+    .title = Fingeravtrykksporere blokkerte
 protections-blocking-cryptominers =
     .title = Kryptoutvinnere blokkert
 protections-blocking-cookies-trackers =
@@ -63,7 +57,7 @@ protections-blocking-tracking-content =
 protections-blocking-social-media-trackers =
     .title = Sporing via sosiale medier blokkert
 protections-not-blocking-fingerprinters =
-    .title = Blokkerer ikke fingerprinters
+    .title = Blokkerer ikke fingeravtrykksporere
 protections-not-blocking-cryptominers =
     .title = Blokkerer ikke kryptoutvinnere
 protections-not-blocking-cookies-third-party =
