@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } тілін әрқашан аудару
 translations-panel-settings-always-translate-unknown-language =
     .label = Бұл тілді әрқашан аудару
+translations-panel-settings-always-offer-translation =
+    .label = Аударуды әрқашан ұсыну
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Желіден тыс аударма үшін 
 translations-manage-all-language = Барлық тілдер
 translations-manage-download-button = Жүктеп алу
 translations-manage-delete-button = Өшіру
-translations-manage-language-download-button =
-    .label = Жүктеп алу
-    .accesskey = к
-translations-manage-language-delete-button =
-    .label = Өшіру
-    .accesskey = ш
 translations-manage-error-download = Тілдік файлды жүктеп алу кезінде мәселе орын алды. Қайталап көріңіз.
 translations-manage-error-delete = Тілдік файлдарды өшіру кезінде қате орын алды. Қайталап көріңіз.
 translations-manage-intro = Тілді және сайт аудармасының баптауларын орнатыңыз және желіден тыс аударма үшін орнатылған тілдерді басқарыңыз.
