@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Bewarje nei { -pocket-brand-name }
     .accesskey = r
 fxviewtabrow-copy-link = Keppeling kopiearje
     .accesskey = K
+fxviewtabrow-close-tab = Ljepblêd slute
+    .accesskey = s
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

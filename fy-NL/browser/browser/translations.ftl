@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } altyd oersette
 translations-panel-settings-always-translate-unknown-language =
     .label = Dizze taal altyd oersette
+translations-panel-settings-always-offer-translation =
+    .label = Altyd oanbiede om oer te setten
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Talen foar offline oersetting downloade.
 translations-manage-all-language = Alle talen
 translations-manage-download-button = Downloade
 translations-manage-delete-button = Fuortsmite
-translations-manage-language-download-button =
-    .label = Downloade
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Fuortsmite
-    .accesskey = e
 translations-manage-error-download = Der is in probleem bard by it downloaden fan de taalbestannen. Probearje it opnij.
 translations-manage-error-delete = Der is in probleem bard by it fuortsmiten fan de taalbestannen. Probearje it opnij.
 translations-manage-intro = Stel jo foarkarren foar taal- en side-oersetting yn en behear talen dy’t ynstallearre binne foar offline oersetting.
