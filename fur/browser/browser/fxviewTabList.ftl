@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Salve su { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Copie colegament
     .accesskey = l
+fxviewtabrow-close-tab = Siere schede
+    .accesskey = c
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

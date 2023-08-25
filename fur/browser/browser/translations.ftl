@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Tradûs simpri dal { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Tradûs simpri di cheste lenghe
+translations-panel-settings-always-offer-translation =
+    .label = Propon simpri la traduzion
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Discjame lis lenghis pe traduzion fûr rêt.
 translations-manage-all-language = Dutis lis lenghis
 translations-manage-download-button = Discjame
 translations-manage-delete-button = Elimine
-translations-manage-language-download-button =
-    .label = Discjame
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Elimine
-    .accesskey = e
 translations-manage-error-download = Al è vignût fûr un probleme tal discjariâ i files de lenghe. Torne prove.
 translations-manage-error-delete = Al è vignût fûr un probleme tal eliminâ i files de lenghe. Torne prove.
 translations-manage-intro = Configure lis tôs preferencis relativis a lenghe e traduzion dai sîts e gjestìs lis lenghis instaladis pe traduzion fûr rêt.
