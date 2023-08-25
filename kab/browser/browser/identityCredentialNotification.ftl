@@ -12,6 +12,10 @@
 ##  $host (String): the hostname of the site that is being displayed.
 ##  $provider (String): the hostname of another website you are using to log in to the site being displayed
 
+identity-credential-header-providers = Qqen akked usaǧǧaw n tuqqna
+identity-credential-header-accounts = Qqen s { $provider }
+identity-credential-urlbar-anchor =
+    .tooltiptext = Ldi agalis n unekcum
 identity-credential-cancel-button =
     .label = Sefsex
     .accesskey = x
@@ -21,3 +25,4 @@ identity-credential-accept-button =
 identity-credential-sign-in-button =
     .label = Kcem
     .accesskey = K
+identity-credential-policy-title = Seqdec { $provider } am usaǧǧaw n tuqqna
