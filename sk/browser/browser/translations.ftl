@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Vždy prekladať z jazyka { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Vždy prekladať z tohto jazyka
+translations-panel-settings-always-offer-translation =
+    .label = Vždy ponúkať preklad
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Môžete si stiahnuť jazyky na prekladanie v 
 translations-manage-all-language = Všetky jazyky
 translations-manage-download-button = Stiahnuť
 translations-manage-delete-button = Odstrániť
-translations-manage-language-download-button =
-    .label = Stiahnuť
-    .accesskey = S
-translations-manage-language-delete-button =
-    .label = Odstrániť
-    .accesskey = d
 translations-manage-error-download = Pri sťahovaní jazykových súborov sa vyskytol problém. Prosím skúste to znova.
 translations-manage-error-delete = Pri odstraňovaní jazykových súborov sa vyskytla chyba. Prosím skúste to znova.
 translations-manage-intro = Nastavte si jazyk a predvoľby prekladu stránok a spravujte jazyky nainštalované na preklad v režime offline.
