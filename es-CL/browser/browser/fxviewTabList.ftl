@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Guardar en { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Copiar enlace
     .accesskey = L
+fxviewtabrow-close-tab = Cerrar pestaña
+    .accesskey = C
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
