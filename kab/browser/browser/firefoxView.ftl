@@ -144,6 +144,10 @@ firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "nu
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Mdel
+    .title = Mdel
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
