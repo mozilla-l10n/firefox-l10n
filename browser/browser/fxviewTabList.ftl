@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Lagre til { -pocket-brand-name }
     .accesskey = L
 fxviewtabrow-copy-link = Kopier lenke
     .accesskey = K
+fxviewtabrow-close-tab = Lat att fane
+    .accesskey = L
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
