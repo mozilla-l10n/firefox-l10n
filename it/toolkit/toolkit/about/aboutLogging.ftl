@@ -42,6 +42,8 @@ about-logging-preset-media-playback-label = Riproduzione file multimediali
 about-logging-preset-media-playback-description = Moduli di registrazione per diagnosticare problemi con la riproduzione di file multimediali (non relativi ad applicazioni di videoconferenza)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduli di registrazione per diagnosticare problemi con chiamate WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Moduli di registrazione per diagnosticare problemi con WebGPU
 about-logging-preset-custom-label = Personalizzato
 about-logging-preset-custom-description = Moduli di registrazione selezionati manualmente
 
