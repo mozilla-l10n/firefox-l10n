@@ -16,6 +16,7 @@ learn-more = <span data-l10n-name="link">详细了解</span>
 
 inactive-css-not-grid-or-flex-container = 由于不是弹性容器或网格容器，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-or-flex-container-or-multicol-container = 由于不是 Flex 容器、Grid 容器或多栏容器， <strong>{ $property }</strong> 对此元素没有影响。
+inactive-css-not-multicol-container = 由于不是多列容器，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-or-flex-item = 由于不是弹性或网格项目，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-item = 由于不是网格项目，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-not-grid-container = 由于不是网格容器，<strong>{ $property }</strong> 对此元素无效。
@@ -30,6 +31,7 @@ inactive-text-overflow-when-no-overflow = 由于未设置 <strong>overflow:hidde
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> 对内部表格元素无影响。
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> 对内部表格元素（表格单元格除外）无影响。
 inactive-css-not-table = 由于不是表格项目，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-not-table-cell = 由于不是单元格，<strong>{ $property }</strong> 对此元素无效。
 inactive-scroll-padding-when-not-scroll-container = 由于不会滚动，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-border-image = 由于父表格元素的 <strong>border-collapse</strong> 已设为 <strong>collapse</strong>，无法应用至内部表格元素，<strong>{ $property }</strong> 对此元素无效。
 inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
@@ -41,6 +43,7 @@ inactive-css-highlight-pseudo-elements-not-supported = 强调（highlight）目�
 
 inactive-css-not-grid-or-flex-container-fix = 请尝试添加 <strong>display:grid</ strong> 或 <strong>display:flex</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = 请尝试加入 <strong>display:grid</strong>、<strong>display:flex</strong> 或 <strong>columns:2</strong>。{ learn-more }
+inactive-css-not-multicol-container-fix = 请尝试添加 <strong>column-count</strong> 或 <strong>column-width</strong>。{ learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = 请尝试为元素的父元素添加 <strong>display:grid</ strong>、<strong>display:flex</strong>, <strong>display:inline-grid</strong> 或 <strong>display:inline-flex</strong>。{ learn-more }
 inactive-css-not-grid-item-fix-2 = 请尝试为元素的父元素添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
 inactive-css-not-grid-container-fix = 请尝试添加 <strong>display:grid</strong> 或 <strong>display:inline-grid</strong>。{ learn-more }
@@ -55,6 +58,7 @@ inactive-text-overflow-when-no-overflow-fix = 请尝试添加 <strong>overflow:h
 inactive-css-not-for-internal-table-elements-fix = 请尝试将其 <strong>display</strong> 设为 <strong>table-cell</strong>、<strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。{ learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = 请尝试将其 <strong>display</strong> 设为 <strong>table-column</strong>、<strong>table-row</strong>、<strong>table-column-group</strong>、<strong>table-row-group</strong> 或 <strong>table-footer-group</strong> 以外的值。{ learn-more }
 inactive-css-not-table-fix = 请尝试添加 <strong>display:table</strong> 或 <strong>display:inline-table</strong>。{ learn-more }
+inactive-css-not-table-cell-fix = 请尝试添加<strong>display:table-cell</strong>。{ learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = 请尝试添加 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或 <strong>overflow:hidden</strong>。{ learn-more }
 inactive-css-border-image-fix = 请在父表格元素上移除该属性，或将 <strong>border-collapse</strong> 的值更改为 <strong>collapse</strong> 以外的值。{ learn-more }
 inactive-css-ruby-element-fix = 请尝试调整 ruby 文本的 <strong>font-size</strong>。{ learn-more }
