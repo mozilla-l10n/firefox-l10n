@@ -26,6 +26,7 @@ about-logging-logging-to-profiler = Loggar til { -profiler-brand-name }
 about-logging-no-log-modules = Ingen
 about-logging-no-log-file = Ingen
 about-logging-logging-preset-selector-text = Førehandsval for logging:
+about-logging-with-profiler-stacks-checkbox = Aktiver stack-sporing for loggmeldingar
 
 ## Logging presets
 
