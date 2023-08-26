@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = 总是翻译{ $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = 总是翻译此语言
+translations-panel-settings-always-offer-translation =
+    .label = 始终提供翻译服务
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = 下载离线翻译语言包。
 translations-manage-all-language = 所有语言
 translations-manage-download-button = 下载
 translations-manage-delete-button = 删除
-translations-manage-language-download-button =
-    .label = 下载
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = 删除
-    .accesskey = e
 translations-manage-error-download = 下载离线包时遇到问题，请重试。
 translations-manage-error-delete = 删除离线包时遇到问题，请重试。
 translations-manage-intro = 设置语言与网站翻译首选项，管理离线翻译语言包。
