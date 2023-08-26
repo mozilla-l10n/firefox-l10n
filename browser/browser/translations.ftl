@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Ĉiam traduki el la { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Ĉiam traduki el tiu ĉi lingvo
+translations-panel-settings-always-offer-translation =
+    .label = Ĉiam proponi tradukon
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Elŝuti lingvojn por malkonektita traduko.
 translations-manage-all-language = Ĉiuj lingvoj
 translations-manage-download-button = Elŝuti
 translations-manage-delete-button = Forigi
-translations-manage-language-download-button =
-    .label = Elŝuti
-    .accesskey = E
-translations-manage-language-delete-button =
-    .label = Forigi
-    .accesskey = F
 translations-manage-error-download = Okazis problemo dum elŝuto de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-error-delete = Okazis eraro dum forigo de lingvaj dosieroj. Bonvolu klopodi denove.
 translations-manage-intro = Difinu vian lingvajn kaj retejajn preferojn kaj administru instalitajn lingvojn por traduki malkonektite.
