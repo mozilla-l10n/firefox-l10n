@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-timeout = { $trrDomain } ᱥᱟᱞᱟᱜ ᱡᱩ�
 neterror-dns-not-found-trr-offline = ᱟᱢ ᱫᱚ ᱤᱱᱴᱚᱨᱱᱮᱴ ᱥᱟᱞᱟᱜ ᱡᱩᱲᱟᱹᱣ ᱨᱮ ᱵᱟᱹᱱᱩᱜ ᱢᱮᱭᱟ ᱾
 neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ᱫᱚ ᱱᱚᱶᱟ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱵᱟᱭ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱫᱼᱟᱭ ᱾
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ᱥᱟᱞᱟᱜ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+neterror-dns-not-found-bad-trr-url = ᱵᱟᱝ URL ᱾
 neterror-dns-not-found-trr-unknown-problem = ᱵᱟᱝᱵᱷᱟᱹᱵᱤᱛ ᱠᱟᱱ ᱮᱴᱠᱮᱴᱚᱬᱮ ᱾
 
 ## Native fallback specific messages

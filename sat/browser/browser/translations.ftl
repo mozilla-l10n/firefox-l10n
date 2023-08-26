@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } ᱫᱚ ᱡᱟᱣᱜᱮ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
 translations-panel-settings-always-translate-unknown-language =
     .label = ᱱᱚᱶᱟ ᱯᱟᱹᱨᱥᱤ ᱡᱟᱹᱣᱜᱮ ᱛᱚᱨᱡᱚᱢᱟᱭ ᱢᱮ
+translations-panel-settings-always-offer-translation =
+    .label = ᱛᱚᱨᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱹᱣᱜᱮ ᱱᱮᱦᱚᱨ ᱢᱮ
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱛᱚᱨᱡᱚᱢᱟ
 translations-manage-all-language = ᱡᱷᱚᱛᱚ ᱯᱟᱹᱨᱥᱤᱠᱚ
 translations-manage-download-button = ᱰᱟᱣᱱᱞᱚᱰ
 translations-manage-delete-button = ᱢᱮᱴᱟᱣ ᱢᱮ
-translations-manage-language-download-button =
-    .label = ᱰᱟᱣᱱᱞᱚᱰ
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = ᱢᱮᱴᱟᱣ ᱢᱮ
-    .accesskey = e
 translations-manage-error-download = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱰᱟᱣᱱᱞᱚᱰ ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-error-delete = ᱯᱟᱹᱨᱥᱤ ᱨᱚᱫᱽᱠᱚ ᱢᱮᱴᱟᱣᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭ ᱞᱮᱱᱟ ᱾ ᱫᱟᱭᱟᱠᱟᱛᱮ ᱫᱩᱦᱲᱟᱹ ᱪᱮᱥᱴᱟᱭ ᱢᱮ ᱾
 translations-manage-intro = ᱚᱯᱷᱞᱟᱭᱤᱱ ᱛᱚᱨᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱢᱟᱜ ᱯᱟᱹᱨᱥᱤ ᱟᱨ ᱥᱟᱭᱤᱴ ᱛᱚᱨᱡᱚᱢᱟᱠᱚ ᱥᱮᱴ ᱢᱮ ᱟᱨ ᱵᱚᱦᱟᱞ ᱠᱟᱱ ᱯᱟᱹᱨᱥᱤᱠᱚ ᱢᱮᱱᱮᱡᱽ ᱢᱮ ᱾
