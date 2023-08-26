@@ -222,6 +222,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $matched } av { $quantity } utvidingar
+migration-wizard-progress-extensions-support-link = Finn ut korleis { -brand-product-name } samsvarar tillegg
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = Ingen matchande utvidingar
