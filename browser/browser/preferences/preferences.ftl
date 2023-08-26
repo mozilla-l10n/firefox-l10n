@@ -1076,7 +1076,7 @@ content-blocking-known-fingerprinters-label =
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
     .label = Mistenkte nettlesaravtrykksporarar
-    .accesskey = { "" }
+    .accesskey = M
 
 ## Privacy Section - Tracking
 
