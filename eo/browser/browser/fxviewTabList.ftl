@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Konservi en { -pocket-brand-name }
     .accesskey = o
 fxviewtabrow-copy-link = Kopii ligilon
     .accesskey = l
+fxviewtabrow-close-tab = Fermi langeton
+    .accesskey = F
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
