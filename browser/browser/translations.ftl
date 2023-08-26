@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Omsett alltid { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Omset alltid dette språket
+translations-panel-settings-always-offer-translation =
+    .label = Tilby alltid å omsetje
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -69,6 +71,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Avbryt
 translations-panel-learn-more-link = Les meir
+translations-panel-intro-header = Prøv private omsetjingar i { -brand-shorter-name }
+translations-panel-intro-description = Av omsyn til personvernet ditt forlèt aldri omsetjingar eininga di. Nye språk og forbetringar kjem snart!
 translations-panel-error-translating = Det oppstod eit problem med å omsetje. Prøv på nytt.
 translations-panel-error-load-languages = Klarte ikkje å laste inn språk
 translations-panel-error-load-languages-hint = Kontroller internett-tilkoplinga di og prøv på nytt.
@@ -122,14 +126,9 @@ translations-manage-description = Last ned språk for fråkopla-omsetting.
 translations-manage-all-language = Alle språk
 translations-manage-download-button = Last ned
 translations-manage-delete-button = Slett
-translations-manage-language-download-button =
-    .label = Last ned
-    .accesskey = L
-translations-manage-language-delete-button =
-    .label = Slett
-    .accesskey = S
 translations-manage-error-download = Klarte ikkje å laste ned språkfilene. Prøv på nytt.
 translations-manage-error-delete = Det oppstod ein feil ved sletting av språkfilene. Prøv på nytt.
+translations-manage-install-description = Installer språk for fråkopla-omsetjing.
 translations-manage-language-install-button =
     .label = Installer
 translations-manage-language-install-all-button =
