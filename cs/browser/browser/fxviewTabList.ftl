@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Uložit do { -pocket-brand-name(case: "gen") }
     .accesskey = o
 fxviewtabrow-copy-link = Kopírovat odkaz
     .accesskey = K
+fxviewtabrow-close-tab = Zavřít panel
+    .accesskey = Z
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
