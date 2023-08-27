@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Luôn dịch { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Luôn dịch ngôn ngữ này
+translations-panel-settings-always-offer-translation =
+    .label = Luôn đề nghị để dịch
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Tải xuống ngôn ngữ để dịch ngoại
 translations-manage-all-language = Tất cả ngôn ngữ
 translations-manage-download-button = Tải xuống
 translations-manage-delete-button = Xóa
-translations-manage-language-download-button =
-    .label = Tải xuống
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Xóa
-    .accesskey = e
 translations-manage-error-download = Đã xảy ra sự cố khi tải xuống tập tin ngôn ngữ. Hãy thử lại.
 translations-manage-error-delete = Đã xảy ra sự cố khi xóa tập tin ngôn ngữ. Hãy thử lại.
 translations-manage-intro = Đặt tùy chọn ngôn ngữ và bản dịch trang web của bạn, đồng thời quản lý các ngôn ngữ được cài đặt để dịch ngoại tuyến.
