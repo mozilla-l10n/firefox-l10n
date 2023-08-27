@@ -111,6 +111,8 @@ policy-SanitizeOnShutdown2 = Ixtean, garbitu nabigazio-datuak.
 policy-SearchBar = Ezarri bilaketa-barraren kokaleku lehenetsia. Erabiltzaileek oraindik ere pertsonalizatu ahal izango dute.
 policy-SearchEngines = Konfiguratu bilaketa-motorren ezarpenak. Politika hau Extended Support Release (ESR) bertsiorako dago erabilgarri soilik.
 policy-SearchSuggestEnabled = Gaitu edo desgaitu bilaketa-iradokizunak.
+# For more information, see https://wikipedia.org/wiki/PKCS_11
+policy-SecurityDevices2 = Gehitu edo ezabatu PKCS #11 moduluak.
 policy-ShowHomeButton = Erakutsi hasiera-orriko botoia tresna-barran.
 policy-SSLVersionMax = Ezarri SSL bertsio maximoa.
 policy-SSLVersionMin = Ezarri SSL bertsio minimoa.

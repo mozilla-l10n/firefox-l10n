@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Itxi
     .aria-label = Itxi
@@ -23,6 +25,8 @@ firefoxview-tabpickup-progress-label = %{ $percentValue } osatuta
 firefoxview-tabpickup-step-signin-header = Aldatu di-da batean gailuen artean
 firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen izateko, hasi saioa edo sortu kontua lehenik.
 firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
+firefoxview-syncedtabs-signin-header = Hartu fitxak edonondik
+firefoxview-syncedtabs-signin-primarybutton = Hasi saioa edo eman izena
 firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
 firefoxview-tabpickup-adddevice-learn-how = Ikasi nola
@@ -32,6 +36,7 @@ firefoxview-tabpickup-synctabs-description = Baimendu { -brand-short-name }(r)i 
 firefoxview-tabpickup-synctabs-learn-how = Ikasi nola
 firefoxview-tabpickup-synctabs-primarybutton = Sinkronizatu irekitako fitxak
 firefoxview-syncedtabs-synctabs-header = Eguneratu zure sinkronizazio-ezarpenak
+firefoxview-syncedtabs-synctabs-checkbox = Baimendu irekitako fitxak sinkronizatzea
 firefoxview-tabpickup-fxa-admin-disabled-header = Zure erakundeak sinkronizazioa desgaitu du
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }(e)k ezin ditu gailuen arteko fitxak sinkronizatu zure administratzaileak sinkronizazioa desgaitu duelako.
 firefoxview-tabpickup-network-offline-header = Egiaztatu zure Interneterako konexioa
@@ -61,6 +66,7 @@ firefoxview-closed-tabs-title = Itxitako azkenak
 firefoxview-closed-tabs-description2 = Berrireki leiho honetan itxi dituzun orriak.
 firefoxview-closed-tabs-placeholder-header = Itxitako azken fitxarik ez
 firefoxview-closed-tabs-placeholder-body = Leiho honetan fitxa bat ixtean, hemendik eskura dezakezu.
+firefoxview-closed-tabs-placeholder-body2 = Fitxa bat ixtean, hemendik eskura dezakezu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -132,6 +138,10 @@ firefoxview-show-more = Erakutsi gehiago
 firefoxview-show-less = Erakutsi gutxiago
 firefoxview-sort-history-by-date-label = Ordenatu dataren arabera
 firefoxview-sort-history-by-site-label = Ordenatu gunearen arabera
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Aldatu { $url } helbidera
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -181,3 +191,7 @@ firefoxview-import-history-header = Inportatu historia beste nabigatzaile bateti
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Irekitako fitxarik ez gailu honetan

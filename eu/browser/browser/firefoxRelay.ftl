@@ -17,6 +17,15 @@ firefox-relay-must-login-to-fxa = { -relay-brand-name } erabili ahal izateko, sa
 firefox-relay-get-unlimited-masks =
     .label = Kudeatu maskarak
     .accesskey = m
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Babestu zure helbide elektronikoa:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Erabili { -relay-brand-name } posta-maskara
+firefox-relay-use-mask-title = Erabili { -relay-brand-name } posta-maskara
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Erabili posta-maskara
+    .accesskey = E
 firefox-relay-opt-in-confirmation-disable =
     .label = Ez erakutsi hau berriro
     .accesskey = z
