@@ -5,6 +5,24 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Itzuli orri hau
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Itzuli orri hau - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Probatu itzulpen pribatuak { -brand-shorter-name }(e)n - Beta
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = Orri { $fromLanguage } hizkuntzatik { $toLanguage } hizkuntzara itzuli da
 urlbar-translations-button-loading =
     .tooltiptext = Itzulpena burutzen
 translations-panel-settings-button =
@@ -20,6 +38,8 @@ translations-panel-displayname-beta =
 translations-panel-settings-manage-languages =
     .label = Kudeatu hizkuntzak
 translations-panel-settings-about = { -brand-shorter-name }(e)ko itzulpenei buruz
+translations-panel-settings-about2 =
+    .label = { -brand-shorter-name }(e)ko itzulpenei buruz
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -27,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Beti itzuli { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Beti itzuli hizkuntza hau
+translations-panel-settings-always-offer-translation =
+    .label = Eskaini beti itzultzea
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -48,6 +70,8 @@ translations-panel-translate-button-loading =
     .label = Itxaron mesedez…
 translations-panel-translate-cancel =
     .label = Utzi
+translations-panel-learn-more-link = Argibide gehiago
+translations-panel-intro-header = Probatu itzulpen pribatuak { -brand-shorter-name }(e)n
 translations-panel-error-translating = Arazo bat gertatu da itzultzean. Saiatu berriro mesedez.
 translations-panel-error-load-languages = Ezin dira hizkuntzak kargatu
 translations-panel-error-load-languages-hint = Egiaztatu interneterako zure konexioa eta saiatu berriro.
