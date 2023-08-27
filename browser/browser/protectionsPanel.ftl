@@ -90,8 +90,8 @@ protections-panel-site-not-working-view-send-report = Odoslať hlásenie
 ##
 
 protections-panel-cross-site-tracking-cookies = Tieto cookies slúžia na vaše sledovanie naprieč webovými stránkami a na zber údajov o tom, čo na internete robíte. Používajú ich tretie strany, ako sú reklamné či analytické spoločnosti.
-protections-panel-cryptominers = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu, spomaľujú váš počítač a zvyšujú váš účet za elektrinu.
-protections-panel-fingerprinters = Zberom informácií o vašom prehliadači a počítači je možné vytvoriť unikátny odtlačok, ktorý je potom možné použiť na vaše sledovanie naprieč rôznymi webovými stránkami.
+protections-panel-cryptominers = Ťažba kryptomien využíva výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu, spomaľujú váš počítač a zvyšujú váš účet za elektrinu.
+protections-panel-fingerprinters = Zberom informácií o vašom prehliadači a počítači je možné vytvoriť unikátny digitálny odtlačok, ktorý je potom možné použiť na vaše sledovanie naprieč rôznymi webovými stránkami.
 protections-panel-tracking-content = Webové stránky môžu načítať externé reklamy a ďalší obsah, ktorý obsahuje sledovací kód. Po zablokovaní sledovacieho obsahu sa stránky načítajú rýchlejšie, ale niektoré tlačidlá alebo formuláre nemusia správne fungovať.
 protections-panel-social-media-trackers = Sociálne siete umiestňujú na webové stránky sledovacie prvky, ktoré sledujú, čo na internete robíte. Toto umožňuje spoločnostiam, ktoré tieto sociálne médiá vlastnia dozvedieť sa o vás viac ako to, čo zdieľate na svojich profiloch.
 protections-panel-description-shim-allowed = Niektoré sledovacie prvky označené nižšie boli na tejto stránke čiastočne odblokované, pretože s nimi prebiehala interakcia.
