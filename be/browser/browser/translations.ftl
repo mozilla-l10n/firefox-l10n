@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Заўсёды перакладаць { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Заўсёды перакладаць з гэтай мовы
+translations-panel-settings-always-offer-translation =
+    .label = Заўсёды прапаноўваць пераклад
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Сцягнуць мовы для перакл�
 translations-manage-all-language = Усе мовы
 translations-manage-download-button = Сцягнуць
 translations-manage-delete-button = Выдаліць
-translations-manage-language-download-button =
-    .label = Сцягнуць
-    .accesskey = С
-translations-manage-language-delete-button =
-    .label = Выдаліць
-    .accesskey = В
 translations-manage-error-download = Пры сцягванні моўных файлаў узнікла праблема. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-error-delete = Пры выдаленні моўных файлаў здарылася памылка. Калі ласка, паспрабуйце яшчэ раз.
 translations-manage-intro = Вызначце параметры мовы і перакладу сайта і кіруйце мовамі, усталяванымі для аўтаномнага перакладу.
