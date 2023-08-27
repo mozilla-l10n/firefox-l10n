@@ -50,7 +50,7 @@ tracker-tab-description = Webové stránky môžu načítať externé reklamy a 
 fingerprinter-tab-title = Snímanie digitálneho odtlačku
 fingerprinter-tab-content = Zberom informácií o vašom prehliadači a počítači je možné vytvoriť unikátny digitálny odtlačok, ktorý je potom možné použiť na vaše sledovanie naprieč rôznymi webovými stránkami. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 cryptominer-tab-title = Ťažba kryptomien
-cryptominer-tab-content = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+cryptominer-tab-content = Ťažba kryptomien využíva výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 protections-close-button2 =
     .aria-label = Zavrieť
     .title = Zavrieť

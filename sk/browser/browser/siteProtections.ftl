@@ -22,7 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = Zrušiť výnimku z blokovania cookies pre { $domain }
-tracking-protection-icon-active = Sledovacie prvky sociálnych sietí, cookies tretích strán aj tvorba odtlačku prehliadača je blokovaná.
+tracking-protection-icon-active = Blokujú sa sledovacie prvky sociálnych sietí, cookies tretích strán aj snímanie digitálneho odtlačku prehliadača.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = Rozšírená ochrana pred sledovaním je na tejto stránke VYPNUTÁ.
@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Ochrana pred sledovaním na { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = Vypnúť ochranu na stránke { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = Zapnúť ochranu na stránke { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -63,7 +57,7 @@ protections-blocking-tracking-content =
 protections-blocking-social-media-trackers =
     .title = Sledovacie prvky sociálnych sietí boli zablokované
 protections-not-blocking-fingerprinters =
-    .title = Vytváranie odtlačku prehliadača nie je blokované
+    .title = Snímanie digitálneho odtlačku nie je blokované
 protections-not-blocking-cryptominers =
     .title = Ťažba kryptomien nie je blokovaná
 protections-not-blocking-cookies-third-party =
