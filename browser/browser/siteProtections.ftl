@@ -6,7 +6,7 @@ content-blocking-trackers-view-empty = මෙම අඩවියෙහි අන
 content-blocking-cookies-blocking-trackers-label = හරස්-අඩවි ලුහුබඳින දත්තකඩ
 content-blocking-cookies-blocking-third-party-label = තෙවන පාර්ශ්ව දත්තකඩ
 content-blocking-cookies-blocking-unvisited-label = නොගිය අඩවිවල දත්තකඩ
-content-blocking-cookies-blocking-all-label = සියළුම දත්තකඩ
+content-blocking-cookies-blocking-all-label = සමස්ත දත්තකඩ
 content-blocking-cookies-view-first-party-label = මෙම අඩවියෙන්
 content-blocking-cookies-view-trackers-label = හරස්-අඩවි ලුහුබඳින දත්තකඩ
 content-blocking-cookies-view-third-party-label = තෙවන පාර්ශ්ව දත්තකඩ
@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = { $host } සඳහා රැකවරණ
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = { $host } සඳහා රැකවරණය අබල කරන්න
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = { $host } සඳහා රැකවරණය සබල කරන්න
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -53,7 +47,7 @@ protections-blocking-cookies-trackers =
 protections-blocking-cookies-third-party =
     .title = තෙවන පාර්ශ්ව දත්තකඩ අවහිරයි
 protections-blocking-cookies-all =
-    .title = සියළුම දත්තකඩ අවහිරයි
+    .title = සමස්ත දත්තකඩ අවහිරයි
 protections-blocking-cookies-unvisited =
     .title = නොගිය අඩවිවල දත්තකඩ අවහිරයි
 protections-blocking-tracking-content =

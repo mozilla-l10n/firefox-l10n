@@ -937,7 +937,7 @@ sitedata-option-block-unvisited =
 sitedata-option-block-all-cross-site-cookies =
     .label = සියළු හරස් අඩවි දත්තකඩ (අඩවි කැඩීමට හේතු වේ)
 sitedata-option-block-all =
-    .label = සියළු දත්තකඩ (අඩවි කැඩීමට හේතු වේ)
+    .label = සමස්ත දත්තකඩ (අඩවි කැඩීමට හේතු වේ)
 sitedata-clear =
     .label = දත්ත මකන්න...
     .accesskey = l
@@ -1017,10 +1017,10 @@ content-blocking-cross-site-tracking-cookies = හරස්-අඩවි ලු�
 content-blocking-all-cross-site-cookies-private-windows = සියළුම පෞද්. කවුළුවල හරස්-අඩවි දත්තකඩ
 content-blocking-cross-site-tracking-cookies-plus-isolate = හරස්-අඩවි ලුහුබඳින දත්තකඩ, හා ඉතිරි දත්තකඩ හුදකලාව
 content-blocking-social-media-trackers = සමාජ මාධ්‍ය ලුහුබැඳීම්
-content-blocking-all-cookies = සියළුම දත්තකඩ
+content-blocking-all-cookies = සමස්ත දත්තකඩ
 content-blocking-unvisited-cookies = නොගිය අඩවිවල දත්තකඩ
 content-blocking-all-windows-tracking-content = සියළුම කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
-content-blocking-all-cross-site-cookies = සියළු හරස් අඩවි දත්තකඩ
+content-blocking-all-cross-site-cookies = සමස්ත හරස් අඩවි දත්තකඩ
 content-blocking-fingerprinters = ඇඟිලි සටහන්
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
