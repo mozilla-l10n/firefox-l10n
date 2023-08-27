@@ -19,6 +19,7 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Kudeatu hizkuntzak
+translations-panel-settings-about = { -brand-shorter-name }(e)ko itzulpenei buruz
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -100,14 +101,22 @@ translations-manage-description = Deskargatu hizkuntzak lineaz kanpoko itzulpene
 translations-manage-all-language = Hizkuntza guztiak
 translations-manage-download-button = Deskargatu
 translations-manage-delete-button = Ezabatu
-translations-manage-language-download-button =
-    .label = Deskargatu
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Ezabatu
-    .accesskey = z
 translations-manage-error-download = Arazo bat gertatu da hizkuntza-fitxategiak deskargatzean. Saiatu berriro mesedez.
 translations-manage-error-delete = Arazo bat gertatu da hizkuntza-fitxategiak ezabatzean. Saiatu berriro mesedez.
+translations-manage-intro = Ezarri zure hizkuntza eta guneen itzulpenerako hobespenak eta kudeatu lineaz kanpoko itzulpenerako instalatuta dauden hizkuntzak.
+translations-manage-install-description = Instalatu hizkuntzak lineaz kanpoko itzulpenerako
+translations-manage-language-install-button =
+    .label = Instalatu
+translations-manage-language-install-all-button =
+    .label = Instalatu denak
+    .accesskey = d
+translations-manage-language-remove-button =
+    .label = Kendu
+translations-manage-language-remove-all-button =
+    .label = Kendu denak
+    .accesskey = d
+translations-manage-error-install = Arazo bat gertatu da hizkuntza-fitxategiak instalatzean. Saiatu berriro mesedez.
+translations-manage-error-remove = Errore bat gertatu da hizkuntza-fitxategiak kentzean. Saiatu berriro mesedez.
 translations-manage-error-list = Huts egin du itzultzeko erabilgarri dauden hizkuntzen zerrenda eskuratzean. Berritu orria eta saiatu berriro.
 translations-settings-title =
     .title = Itzulpenen ezarpenak
