@@ -1019,18 +1019,18 @@ content-blocking-etp-standard-desc = Vyvážená ochrana a výkon. Neovplyvní n
 content-blocking-etp-strict-desc = Viac blokovaného obsahu zvyšuje pravdepodobnosť, že niektoré stránky nebudú správne fungovať.
 content-blocking-etp-custom-desc = Vyberte sledovacie prvky a skripty, ktoré chcete blokovať.
 content-blocking-etp-blocking-desc = { -brand-short-name } blokuje:
-content-blocking-private-windows = Sledovací obsah je blokovaný v súkromných oknách
+content-blocking-private-windows = Sledovací obsah v súkromných oknách
 content-blocking-cross-site-cookies-in-all-windows2 = Cookies tretích strán vo všetkých oknách
-content-blocking-cross-site-tracking-cookies = Blokované sú sledovacie cookies
+content-blocking-cross-site-tracking-cookies = Sledovacie cookies
 content-blocking-all-cross-site-cookies-private-windows = Cookies tretích strán v súkromných oknách
 content-blocking-cross-site-tracking-cookies-plus-isolate = Sledovacie cookies tretích strán, ostatné izolovať
-content-blocking-social-media-trackers = Blokované sú sledovacie prvky sociálnych sietí
+content-blocking-social-media-trackers = Sledovacie prvky sociálnych sietí
 content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
-content-blocking-all-windows-tracking-content = Sledovací obsah je blokovaný vo všetkých oknách
+content-blocking-all-windows-tracking-content = Sledovací obsah vo všetkých oknách
 content-blocking-all-cross-site-cookies = Všetky súbory cookie tretích strán
-content-blocking-cryptominers = Blokovaná je ťažba kryptomien
-content-blocking-fingerprinters = Blokované je snímanie digitálneho odtlačku
+content-blocking-cryptominers = Ťažba kryptomien
+content-blocking-fingerprinters = Snímanie digitálneho odtlačku
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
