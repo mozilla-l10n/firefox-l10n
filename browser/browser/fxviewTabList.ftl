@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Gorde { -pocket-brand-name }-en
     .accesskey = o
 fxviewtabrow-copy-link = Kopiatu lotura
     .accesskey = o
+fxviewtabrow-close-tab = Itxi fitxa
+    .accesskey = x
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

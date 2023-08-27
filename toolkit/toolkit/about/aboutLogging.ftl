@@ -26,17 +26,22 @@ about-logging-logging-to-profiler = Erregistratu { -profiler-brand-name } tresna
 about-logging-no-log-modules = Bat ere ez
 about-logging-no-log-file = Bat ere ez
 about-logging-logging-preset-selector-text = Erregistroaren aurrezarpena:
+about-logging-with-profiler-stacks-checkbox = Gaitu pilen trazak erregistro-mezuentzat
 
 ## Logging presets
 
 about-logging-preset-networking-label = Sarea
 about-logging-preset-networking-description = Sarearen arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-networking-cookie-label = Cookieak
+about-logging-preset-networking-cookie-description = Cookien arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-networking-websocket-label = WebSocketak
+about-logging-preset-networking-websocket-description = WebSocket arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = HTTP/3 eta QUIC arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-media-playback-label = Multimedia erreproduzitzea
 about-logging-preset-media-playback-description = Multimediaren erreprodukzio-arazoak (ez bideo-deien arazoak) diagnostikatzeko erregistro-moduluak
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = WebRTC deiak diagnostikatzeko erregistro-moduluak
 about-logging-preset-custom-label = Pertsonalizatua
 about-logging-preset-custom-description = Erregistratu eskuz hautatutako moduluak
 # Error handling

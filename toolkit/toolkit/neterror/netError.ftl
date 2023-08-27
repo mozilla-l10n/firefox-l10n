@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-timeout = { $trrDomain } ostalarirako konexioak 
 neterror-dns-not-found-trr-offline = Ez zaude Internetera konektatuta.
 neterror-dns-not-found-trr-unknown-host2 = Webgune hau ez du aurkitu { $trrDomain } ostalariak
 neterror-dns-not-found-trr-server-problem = Arazo bat egon da { $trrDomain } ostalariarekin.
+neterror-dns-not-found-bad-trr-url = URL baliogabea.
 neterror-dns-not-found-trr-unknown-problem = Ustekabeko arazoa.
 
 ## Native fallback specific messages
