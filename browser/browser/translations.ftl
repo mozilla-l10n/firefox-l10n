@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Siempre traducir { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Siempre traducir este idioma
+translations-panel-settings-always-offer-translation =
+    .label = Siempre ofrecer la traducci처n
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Descargar idiomas para traducci처n sin conexi�
 translations-manage-all-language = Todos los idiomas
 translations-manage-download-button = Descargar
 translations-manage-delete-button = Borrar
-translations-manage-language-download-button =
-    .label = Descargar
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Borrar
-    .accesskey = B
 translations-manage-error-download = Hubo un problema descargando los archivos de idioma. Intente nuevamente.
 translations-manage-error-delete = Hubo un error borrando los archivos de idioma. Intente nuevamente.
 translations-manage-intro = Establecer preferencias de idioma y traducci처n del sitio y administrar los idiomas instalados para traducci처n sin conexi처n.
