@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Översätt alltid { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Översätt alltid detta språk
+translations-panel-settings-always-offer-translation =
+    .label = Erbjud alltid att översätta
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Ladda ner språk för offlineöversättning.
 translations-manage-all-language = Alla språk
 translations-manage-download-button = Hämta
 translations-manage-delete-button = Ta bort
-translations-manage-language-download-button =
-    .label = Hämta
-    .accesskey = H
-translations-manage-language-delete-button =
-    .label = Ta bort
-    .accesskey = T
 translations-manage-error-download = Det gick inte att ladda ned språkfilerna. Var god försök igen.
 translations-manage-error-delete = Det gick inte att ta bort språkfilerna. Var god försök igen.
 translations-manage-intro = Ställ in dina språk- och webbplatsöversättningsinställningar och hantera språk som är installerade för offlineöversättning.
