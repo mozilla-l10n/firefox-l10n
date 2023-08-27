@@ -143,6 +143,10 @@ firefoxview-show-more = Visa mer
 firefoxview-show-less = Visa mindre
 firefoxview-sort-history-by-date-label = Sortera efter datum
 firefoxview-sort-history-by-site-label = Sortera efter webbplats
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Växla till { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
