@@ -30,6 +30,8 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kapturatutako erregistro-fitxat
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Automatikoki berritu
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Berritu automatikoki lehenespenez
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Berritu
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
@@ -217,8 +219,6 @@ about-webrtc-aec-logging-off-state-msg = kapturatutako erregistro-fitxategiak he
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Orria hona gordeta: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Trazaren erregistroa hemen aurki daiteke: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Arazketa modua aktibo, trazaren erregistroaren kokapena: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -291,12 +291,12 @@ about-webrtc-sdp-set-timestamp = Denbora-marka { NUMBER($timestamp, useGrouping:
 about-webrtc-show-msg-sdp = Erakutsi SDPa
 about-webrtc-hide-msg-sdp = Ezkutatu SDPa
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
-
-
-##
 
 
 ##

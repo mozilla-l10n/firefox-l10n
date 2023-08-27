@@ -2,6 +2,20 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-pin-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] PIN okerra. Saiakera { $retriesLeft } duzu gailu honetako kredentzialetarako sarbidea betirako galdu aurretik.
+       *[other] PIN okerra. { $retriesLeft } saiakera dituzu gailu honetako kredentzialetarako sarbidea betirako galdu aurretik.
+    }
 webauthn-pin-invalid-short-prompt = PIN okerra. Saiatu berriro.
 webauthn-pin-required-prompt = Idatzi zure gailuaren PINa mesedez.
-
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Erabiltzailearen egiaztapenak huts egin du. Saiakera { $retriesLeft } gelditzen da. Saiatu berriro.
+       *[other] Erabiltzailearen egiaztapenak huts egin du. { $retriesLeft } saiakera gelditzen dira. Saiatu berriro.
+    }
+webauthn-uv-invalid-short-prompt = Erabiltzailearen egiaztapenak huts egin du. Saiatu berriro.
