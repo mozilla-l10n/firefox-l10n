@@ -12,4 +12,4 @@ refresh-profile =
 troubleshoot-mode-description = Eipuru ko { -brand-short-name } ayvu  ejuhukuaa hag̃ua apañuãi. Imoĩmbaha ha iñemboavakuéra ojepe’áta sapy’ami.
 skip-troubleshoot-refresh-profile = Ikatu avei ehasa apañuãi ayvu ñemyatyrõ ha embopiro’y { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.
-auto-safe-mode-description = { -brand-short-name } oñemboty ehe’arõ’ỹre oñepyrũmi jave. Kóva ikatu oiko tembipuru’i térã ambue apañuãi rupi. Nde ikatu eñeha’ã emoĩporã pe apañuãi jeikekatu rupi añoite.
+auto-safe-mode-description = { -brand-short-name } oñemboty ehe’arõ’ỹre oñepyrũmi jave. Kóva ikatu oiko tembiporu’i térã ambue apañuãi rupi. Nde ikatu eñeha’ã emoĩporã pe apañuãi jeikekatu rupi añoite.

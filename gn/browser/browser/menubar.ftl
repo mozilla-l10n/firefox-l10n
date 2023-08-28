@@ -129,7 +129,7 @@ menu-view-toolbars-menu =
     .label = Tembiporu renda
     .accesskey = T
 menu-view-customize-toolbar2 =
-    .label = Emboava tembipuru renda…
+    .label = Emboava tembiporu renda…
     .accesskey = C
 menu-view-sidebar =
     .label = Ta’ãngarupa yke
@@ -250,7 +250,7 @@ menu-bookmarks-mobile =
 ## Tools Menu
 
 menu-tools =
-    .label = Tembipuru
+    .label = Tembiporu
     .accesskey = T
 menu-tools-downloads =
     .label = Ñemboguejy

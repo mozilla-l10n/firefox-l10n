@@ -25,7 +25,7 @@ unified-extensions-item-message-manage = Eñangareko jepysokuére
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
-    .label = Emboja tembipuru rendáre
+    .label = Emboja tembiporu rendáre
 unified-extensions-context-menu-manage-extension =
     .label = Eñangareko jepysokuére
 unified-extensions-context-menu-remove-extension =

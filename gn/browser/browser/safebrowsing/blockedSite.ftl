@@ -9,7 +9,9 @@ safeb-blocked-harmful-page-title = Ko tenda tapykuerigua ikatu oreko malware
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ojoko kuatiarogue oimo’ãgui nembotavyseha ojapo hag̃ua mba’evai techapyrãrõ omohendakuaa software vai’apoha ýrõ ombohasakuaa ambuépe kuaapy nemba’éva taha’e ñe’ẽñemi térã kuatia’atã ñemurãva.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ojoko ko ñandutirogue omohendakuaágui mba’evai ne mohendahápe, omondakuaáva mba’ekuaa nde rehegua ýrõ omboguekuaáva reguerekóva.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ojoko togue oimo’ãgui nembotavyse emohenda hag̃ua programa mba’evaiapoha (techapyrãrõ omoambuekuaa ñandutirogue ñepyrũgua ýrõ ohechaukakuaa ta’ãnga omba’evendeseha opaite tenda eikehápe guive).
-safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogue oimo’ãgui kóva oiméne omohendase tembipuru’i ivaíva mohendahápe, umíva rupive omonda térã omboguekuaa nemba’éva (techapyrã ta’ãnga rerekóva, ñe’ẽñemi, marandu ha viru kuatiatã reipurúva).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogue oimo’ãgui kóva oiméne omohendase tembiporu’i ivaíva mohendahápe, umíva rupive omonda térã omboguekuaa nemba’éva (techapyrã ta’ãnga rerekóva, ñe’ẽñemi, marandu ha viru kuatiatã reipurúva).
+# Variables:
+#   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Marandu omog̃uahẽva <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.
 safeb-palm-accept-label = Guevi
 safeb-palm-see-details-label = Sa’ikue chauka
@@ -27,7 +29,7 @@ safeb-blocked-phishing-page-learn-more = Eikuaave tenda oporombotavyséva rehegu
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda orekóva tembipuru mba’evaiapoha</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹ kóvare</a> ha eho tenda hekorosã’ỹvape.
+safeb-blocked-malware-page-error-desc-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandu ha’eha <a data-l10n-name='error_desc_link'>tenda orekóva tembiporu mba’evaiapoha</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹ kóvare</a> ha eho tenda hekorosã’ỹvape.
 safeb-blocked-malware-page-error-desc-no-override-sumo = <span data-l10n-name='sitename'>{ $sitename }</span> ha’e <a data-l10n-name='error_desc_link'>oñemomarandúva oguerekoha software mba’evaiapoha</a>.
 
 ##
@@ -47,8 +49,8 @@ safeb-blocked-unwanted-page-learn-more = Eikuaave software mba’evai aposeha re
 ## Variables
 ##  $sitename (string) - Domain name for the blocked page
 
-safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri ha’eha <a data-l10n-name='error_desc_link'>tenda oguerekóva tembipuru mba’evai apoha ipype</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹkuaa kóvare</a> ha eike ko tendápe ag̃ave.
-safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri oguerekoha <a data-l10n-name='error_desc_link'>tembipuru’i mba’evai apoha ipype</a>.
+safeb-blocked-harmful-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri ha’eha <a data-l10n-name='error_desc_link'>tenda oguerekóva tembiporu mba’evai apoha ipype</a>. <a data-l10n-name='ignore_warning_link'>Epena’ỹkuaa kóvare</a> ha eike ko tendápe ag̃ave.
+safeb-blocked-harmful-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span> oñemomarandúkuri oguerekoha <a data-l10n-name='error_desc_link'>tembiporu’i mba’evai apoha ipype</a>.
 
 ##
 

@@ -37,15 +37,13 @@ appmenu-update-other-instance =
     .secondarybuttonlabel = Ko’ág̃a nahániri
     .secondarybuttonaccesskey = N
 appmenu-update-other-instance-message = Oĩ { -brand-shorter-name } hekopyahúmava, hákatu ndaikatúi gueteri emohenda ojejapo rupi { -brand-shorter-name } momokõi. Emboty ikatu hag̃ua embohekopyahu térã eiporavo mbohekopyahu opaicharei (ikatuhína pe ambue momokõimbyre ndoikoporãi emoñepyrũjey peve).
-
 appmenu-addon-private-browsing-installed2 =
     .buttonlabel = Moneĩ
     .buttonaccesskey = O
-appmenu-addon-post-install-message3 = Eñangareko ne moĩmbaha ha téma tembipuru’i poravorã guive.
+appmenu-addon-post-install-message3 = Eñangareko ne moĩmbaha ha téma tembiporu’i poravorã guive.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Emoneĩ ko jepysokue oñembohekóvo Windows ñemiguápe
     .accesskey = A
-    
 appmenu-new-tab-controlled-changes =
     .label = Nde kuatiarogue tendayke pyahugua iñambuéma.
     .buttonlabel = Erekotapia umi moambue

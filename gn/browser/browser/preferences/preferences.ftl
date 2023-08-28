@@ -270,7 +270,7 @@ check-user-spelling =
 
 ## General Section - Files and Applications
 
-files-and-applications-title = Marandurenda ha Tembipuru’i
+files-and-applications-title = Marandurenda ha Tembiporu’i
 download-header = Ñemboguejy
 download-save-where = Marandurenda ñongatu ko’ápe
     .accesskey = v
@@ -288,10 +288,10 @@ download-choose-folder =
 download-always-ask-where =
     .label = Eporandumeméke chéve moõpa añongatúta marandurenda
     .accesskey = A
-applications-header = Tembipuru’i
-applications-description = Eiporavo { -brand-short-name } eipuru marandurenda ñemboguejy ñanduti guive térã umi tembipuru’i eipurúva eikundaha aja.
+applications-header = Tembiporu’i
+applications-description = Eiporavo { -brand-short-name } eipuru marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eipurúva eikundaha aja.
 applications-filter =
-    .placeholder = Eheka marandurenda peteĩchagua térã tembipuru’i
+    .placeholder = Eheka marandurenda peteĩchagua térã tembiporu’i
 applications-type-column =
     .label = Peteĩchagua tetepy
     .accesskey = T
@@ -314,15 +314,15 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Eipuru tembipuru’i macOS ijypykuéva
-            [windows] Eipuru tembipuru’i Windows ijypykuéva
-           *[other] Eipuru tembipuru’i apopyvusugua ijypykuéva
+            [macos] Eipuru tembiporu’i macOS ijypykuéva
+            [windows] Eipuru tembiporu’i Windows ijypykuéva
+           *[other] Eipuru tembiporu’i apopyvusugua ijypykuéva
         }
 applications-use-other =
     .label = Ambuéva jepuru…
-applications-select-helper = Eiporavo tembipuru’i pytyvõrãva
+applications-select-helper = Eiporavo tembiporu’i pytyvõrãva
 applications-manage-app =
-    .label = Tembipuru’i mba’emimi…
+    .label = Tembiporu’i mba’emimi…
 applications-always-ask =
     .label = Porandu tapia
 # Variables:
@@ -582,7 +582,7 @@ search-bar-header = Jeheka Renda
 search-bar-hidden =
     .label = Eipuru kundaharape renda oñeikundaha ha ojeheka hag̃ua
 search-bar-shown =
-    .label = Toñembojoaju jeheka renda tembipuru rendápe
+    .label = Toñembojoaju jeheka renda tembiporu rendápe
 search-engine-default-header = Hekaha ypykuéva
 search-engine-default-desc-2 = Kóva nde jeheka mongu’eha ypyguáva kundaharape renda ha jehekeha rendápe.
 search-engine-default-private-desc-2 = Emoĩ jeheka mongu’eha ypyguáramo ovetã ñemíme g̃uarã

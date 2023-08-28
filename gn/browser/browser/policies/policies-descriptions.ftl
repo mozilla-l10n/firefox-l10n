@@ -22,7 +22,7 @@ policy-BlockAboutAddons = Ejoko Moĩmbaha ñangarekohápe jeike (about: addons).
 policy-BlockAboutConfig = Ejoko about:config kuatiaroguépe jeike.
 policy-BlockAboutProfiles = Ejoko about:profiles-pe jeike.
 policy-BlockAboutSupport = Ejoko about:support kuatiaroguépe jeike.
-policy-Bookmarks = Emoheñói techaukaha tembipuru renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
+policy-Bookmarks = Emoheñói techaukaha tembiporu renda rechaukahápe, pe techaukaha poravorãme térã peteĩ ñongatuhaitépe oĩva hyepýpe voi.
 policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eipuru mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
@@ -71,7 +71,7 @@ policy-ExtensionSettings = Eñangareko opaite mba’e jepysokue ñemohendáre.
 policy-ExtensionUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokue rehegua.
 policy-FirefoxHome2 = Emboheko { -firefox-home-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Emohembiapo ñeikundahatee ñanduti rendápe ehekarangue jeikeha peteĩ ñe’ẽmente ojehaíva kundaharape rendápe.
-policy-Handlers = Emboheko tembipuru’i ñangarekoha ypykuegua.
+policy-Handlers = Emboheko tembiporu’i ñangarekoha ypykuegua.
 policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
@@ -113,7 +113,7 @@ policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe
 policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Embojuaju térã eipe’a PKCS #11 ta’ãha.
-policy-ShowHomeButton = Ehechauka ñepyrũha votõ tembipuru rendápe.
+policy-ShowHomeButton = Ehechauka ñepyrũha votõ tembiporu rendápe.
 policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
 policy-StartDownloadsInTempDirectory = Embojere umi ñemboguejy oñepyrũ hag̃ua peteĩ tenda sapy’agua tendápe, tenda’i ñemboguejyrã ñepyrũrã rangue.

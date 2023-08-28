@@ -169,7 +169,7 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Ejokóma MIDI pe jeike ko ñanduti rendápe g̃uarã.
 urlbar-install-blocked =
-    .tooltiptext = Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.
+    .tooltiptext = Ejokóma tembiporu’i ñemohenda ko ñandutípe g̃uarã.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -191,7 +191,7 @@ page-action-remove-extension2 =
 ## Auto-hide Context Menu
 
 full-screen-autohide =
-    .label = Tembipuru renda moñemi
+    .label = Tembiporu renda moñemi
     .accesskey = H
 full-screen-exit =
     .label = Mba’erechaha tuichavéva rekógui ñesẽ
@@ -268,7 +268,7 @@ quickactions-cmd-downloads = ñemboguejy
 quickactions-extensions = Eñangareko jepysokuére
 quickactions-cmd-extensions = jepysokue
 # Opens the devtools web inspector
-quickactions-inspector2 = Embojuruja tembipuru mboguatahárape g̃uarã
+quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
 quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembipuru
 # Opens about:logins
 quickactions-logins2 = Eñangareko ñe’ẽñemíre
@@ -698,8 +698,8 @@ bookmarks-tools-toolbar-visibility-panel =
 bookmarks-tools-menu-button-visibility =
     .label =
         { $isVisible ->
-            [true] Eipe’a Techaukaharysýi Tembipuru rendágui
-           *[other] Embojoapy Techaukaharysýi Tembipuru rendápe
+            [true] Eipe’a Techaukaharysýi Tembiporu rendágui
+           *[other] Embojoapy Techaukaharysýi Tembiporu rendápe
         }
 
 ##
@@ -851,7 +851,7 @@ navbar-accessible =
 navbar-downloads =
     .label = Ñemboguejy
 navbar-overflow =
-    .tooltiptext = Tembipuruve…
+    .tooltiptext = Tembiporuve…
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
@@ -879,7 +879,7 @@ tabs-toolbar-list-all-tabs =
 ## Infobar shown at startup to suggest session-restore
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
-restore-session-startup-suggestion-message = <strong>¿Embojuruja tendayke mboyveguáva?</strong> Ehechajeykuaa ne rembiapokue tembipuru’i poravorã guive { -brand-short-name } <img data-l10n-name="icon"/>, Rembiasakuépe.
+restore-session-startup-suggestion-message = <strong>¿Embojuruja tendayke mboyveguáva?</strong> Ehechajeykuaa ne rembiapokue tembiporu’i poravorã guive { -brand-short-name } <img data-l10n-name="icon"/>, Rembiasakuépe.
 restore-session-startup-suggestion-button = Ehechauka mba’éichapa
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)

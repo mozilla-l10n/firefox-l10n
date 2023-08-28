@@ -14,7 +14,6 @@ xpinstall-prompt-message = Emohendasehína peteĩ moĩmbaha { $host } guive. Eje
 
 xpinstall-prompt-header-unknown = ¿Emoneĩ peteĩ tenda eikuaa’ỹva omohendávo moĩmbaha?
 xpinstall-prompt-message-unknown = Omohendasehína moĩmbaha peteĩ tenda eikuaa’ỹva guive. Ejeroviava’erã hese eikutu mboyve.
-
 xpinstall-prompt-dont-allow =
     .label = Ani emoneĩ
     .accesskey = D
@@ -35,7 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = Ko tenda oikese ne MIDI (Interfaz Digital de Instrumentos Musicales) mba’e’okápe. Pe mba’e’okápe jeike eguerekokuaa emohendávo tembipuru’i.
+site-permission-install-first-prompt-midi-header = Ko tenda oikese ne MIDI (Interfaz Digital de Instrumentos Musicales) mba’e’okápe. Pe mba’e’okápe jeike eguerekokuaa emohendávo tembiporu’i.
 site-permission-install-first-prompt-midi-message = Ndoje’ekuaái ndéve ko jeike hekorosãtaha. Eku’ejey ejeroviáramo ko tendáre.
 
 ##
@@ -45,7 +44,6 @@ xpinstall-disabled = Software ñemohenda oñembogue ko’ág̃a. Ejopy Myandy ha
 xpinstall-disabled-button =
     .label = Myandy
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -53,15 +51,13 @@ xpinstall-disabled-button =
 addon-install-blocked-by-policy = { $addonName } ({ $addonId }) ojokohína apopyvusu ñangarekoha.
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = Pe apopyvusu ñangarekohára omboyke ko tendápe ojerurévo omohenda hag̃ua software ne mohendahápe.
-addon-install-full-screen-blocked = Tembipuru’i ñemohenda noñemoneĩri eime aja térã eike mboyve mba’erechaha tuichavévape.
-
+addon-install-full-screen-blocked = Tembiporu’i ñemohenda noñemoneĩri eime aja térã eike mboyve mba’erechaha tuichavévape.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } ojuaju { -brand-short-name } rehe
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } oikotevẽ moneĩ pyahúre
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +73,6 @@ addon-removal-title = ¿Emboguete { $name }?
 addon-removal-message = ¿Embogue { $name } { -brand-shorter-name }-gui?
 addon-removal-button = Mboguete
 addon-removal-abuse-report-checkbox = Emomarandu ko jepysokue rehegua { -vendor-short-name }-pe
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] Oñemboguejy ha Ojohechajey { $addonCount } moĩmbaha…
     }
 addon-download-verifying = Jehechajey
-
 addon-install-cancel-button =
     .label = Heja
     .accesskey = C
