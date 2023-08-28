@@ -35,7 +35,7 @@ inactive-css-not-table = <strong>{ $property }</strong> no tiene efecto en este 
 inactive-css-not-table-cell = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no es una celda de una tabla.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> no tiene efecto en este elemento ya que no se desplaza.
 inactive-css-border-image = <strong>{ $property }</strong> no tiene efecto en este elemento porque no se puede aplicar a los elementos de la tabla interna donde <strong>border-collapse</strong> tiene el valor <strong>collapse</strong> en el elemento de la tabla principal.
-inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en este elemento ya que es un elemento ruby. Su tamaño está determinado por el tamaño de fuente del texto rubí.
+inactive-css-ruby-element = <strong>{ $property }</strong> no tiene efecto en este elemento ya que es un elemento ruby. Su tamaño está determinado por el tamaño de fuente del texto ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> no es compatible con los pseudoelementos resaltados.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -43,18 +43,18 @@ inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</st
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:flex</strong>. { learn-more }
-inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intente agregando <strong> display: grid </strong>, <strong> display: flex </strong> o <strong> columnas: 2 </strong>. { learn-more }
+inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Intente agregar <strong>display: grid</strong>, <strong>display: flex</strong> o <strong>columns: 2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Intente agregar <strong>column-count</strong> o <strong>column-width</strong>. { learn-more }
-inactive-css-not-grid-or-flex-item-fix-3 = Pruebe agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
-inactive-css-not-grid-item-fix-2 = Pruebe agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del item. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-3 = Intente agregar <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
+inactive-css-not-grid-item-fix-2 = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong> al padre del elemento. { learn-more }
 inactive-css-not-grid-container-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-flex-item-fix-2 = Pruebe agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong> al padre del elemento. { learn-more }
 inactive-css-not-flex-container-fix = Intente agregar <strong>display:flex</strong> o <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Intente agregar <strong>display:inline</strong> o <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Pruebe agregar <strong>display:inline-block</strong> o <strong>display:block</strong>. { learn-more }
-inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Pruebe agregar <strong>display:inline-block</strong>. { learn-more }
-inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>flotante</strong> o agregue<strong> display:block </strong>. { learn-more }
-inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad de<strong> posición </strong> en algo más que <strong>la estática </strong>. { learn-more }
+inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Intente agregar <strong>display:inline-block</strong>. { learn-more }
+inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>float</strong> o agregue <strong> display:block</strong>. { learn-more }
+inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad <strong>position</strong> en algo diferente que <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Intente agregar <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-fix = Pruebe  configurar su propiedad <strong>display</strong> a algo diferente de <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pruebe establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>. { learn-more }
