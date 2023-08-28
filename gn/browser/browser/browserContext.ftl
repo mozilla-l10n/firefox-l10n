@@ -289,19 +289,19 @@ main-context-menu-send-to-device =
 ## are mutually exclusive.
 
 main-context-menu-use-saved-login =
-    .label = Eipuru tembiapo ñepyrũ ñongatupyre
+    .label = Eiporu tembiapo ñepyrũ ñongatupyre
     .accesskey = o
 main-context-menu-use-saved-password =
-    .label = Eipuru ñe’ẽñemi ñongatupyre
+    .label = Eiporu ñe’ẽñemi ñongatupyre
     .accesskey = o
 
 ##
 
 main-context-menu-use-relay-mask =
-    .label = Eipuru { -relay-brand-short-name } Email Mask
+    .label = Eiporu { -relay-brand-short-name } Email Mask
     .accesskey = E
 main-context-menu-suggest-strong-password =
-    .label = Tojepuru ñe’ẽñemi hekorosãva…
+    .label = Tojeporu ñe’ẽñemi hekorosãva…
     .accesskey = S
 main-context-menu-manage-logins2 =
     .label = Eñangareko terarendáre

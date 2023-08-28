@@ -19,5 +19,5 @@ confirmation-hint-pin-tab = ¡Mbojapyre!
 confirmation-hint-pin-tab-description = Eikutu votõ akatuagua tendayke ári oso hag̃ua.
 confirmation-hint-send-to-device = ¡Mondopyre!
 confirmation-hint-firefox-relay-mask-created = ¡Tovamo’ãha pyahu moheñoipyre!
-confirmation-hint-firefox-relay-mask-reused = ¡Tovamo’ãha jepurujey!
+confirmation-hint-firefox-relay-mask-reused = ¡Tovamo’ãha jeporujey!
 confirmation-hint-screenshot-copied = ¡Mba’erechaha japyhypyre!

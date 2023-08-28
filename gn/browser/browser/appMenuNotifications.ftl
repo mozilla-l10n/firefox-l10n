@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available2 =
-    .label = Eipurukuaa ñemboheko
+    .label = Eiporukuaa ñemboheko
     .buttonlabel = Emboguejy
     .buttonaccesskey = D
     .secondarybuttonlabel = Ehejarei
     .secondarybuttonaccesskey = m
 appmenu-update-available-message2 = Emboguejy { -brand-shorter-name } ipyahuvéva.
 appmenu-update-manual2 =
-    .label = Eipurukuaa ñemboheko
+    .label = Eiporukuaa ñemboheko
     .buttonlabel = Emboguejy
     .buttonaccesskey = D
     .secondarybuttonlabel = Ehejarei
@@ -24,7 +24,7 @@ appmenu-update-unsupported2 =
     .secondarybuttonaccesskey = m
 appmenu-update-unsupported-message2 = Nde apopyvusu oku’éva ndojokupytýi { -brand-shorter-name } apopyre ipyahuvéva ndive.
 appmenu-update-restart2 =
-    .label = Eipurukuaa ñembohekopyahu
+    .label = Eiporukuaa ñembohekopyahu
     .buttonlabel = Embohekopyahu ha eñepyrũjey
     .buttonaccesskey = U
     .secondarybuttonlabel = Ehejarei

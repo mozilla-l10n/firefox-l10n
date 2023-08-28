@@ -10,7 +10,7 @@ about-unloads-page-title = Emboguejy tendayke
 about-unloads-intro =
     { -brand-short-name } oreko tembiapoite omboguejývo ijehegui tendayke
     omboyke hag̃ua tembiporu’i ojavývo imarandurenda’ígui
-    pe marandurenda apopyvusugua eipurukuaáva sa’írõ. Tendayke upeigua oñemboguejýtava
+    pe marandurenda apopyvusugua eiporukuaáva sa’írõ. Tendayke upeigua oñemboguejýtava
     ojeporavórõ tekome’ẽita rembiapoite rupi. Kuatiarogue ohechauka mba’éichapa
     { -brand-short-name } omotenonde tendayke ha mba’e tendayképa omboguejýta
     hendy rire tendayke mboguejyha. Emyandykuaa tendayke mboguejyha

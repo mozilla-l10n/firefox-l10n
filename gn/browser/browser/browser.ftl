@@ -66,13 +66,13 @@ urlbar-web-notification-anchor =
 urlbar-midi-notification-anchor =
     .tooltiptext = Eike ta’ãngarupa MIDI pe
 urlbar-eme-notification-anchor =
-    .tooltiptext = Eñangareko DRM software jepuru rehe
+    .tooltiptext = Eñangareko DRM software jeporu rehe
 urlbar-web-authn-anchor =
     .tooltiptext = Eike pe ñanduti mboajeha rupápe
 urlbar-canvas-notification-anchor =
     .tooltiptext = Ñangareko Moñeĩ Oñeguehohẽ hag̃ua Canvas
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = Eipuruhína neñe’ẽatãha ko tenda ndive
+    .tooltiptext = Eiporuhína neñe’ẽatãha ko tenda ndive
 urlbar-default-notification-anchor =
     .tooltiptext = Eike ñe’ẽmondo rupápe
 urlbar-geolocation-notification-anchor =
@@ -88,7 +88,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = Eike ñe’ẽmondo rupa ñe’ẽñemi ñongatuhápe
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Mba’ejoajurã jepuru ñangareko
+    .tooltiptext = Mba’ejoajurã jeporu ñangareko
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive
 # "Speakers" is used in a general sense that might include headphones or
@@ -269,7 +269,7 @@ quickactions-extensions = Eñangareko jepysokuére
 quickactions-cmd-extensions = jepysokue
 # Opens the devtools web inspector
 quickactions-inspector2 = Embojuruja tembiporu mboguatahárape g̃uarã
-quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembipuru
+quickactions-cmd-inspector = moambuekuaaha, ñemboguata rembiporu
 # Opens about:logins
 quickactions-logins2 = Eñangareko ñe’ẽñemíre
 quickactions-cmd-logins = tembiapo ñepyrũ, ñe’ẽñemi
@@ -353,7 +353,7 @@ identity-active-blocked = { -brand-short-name } ojokóma ko kuatiarogue pehẽ i
 identity-custom-root = Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.
 identity-passive-loaded = Ko kuatiarogue pehẽ heta hendápe nda’ijeroviapái (mba’era’ãngáramo).
 identity-active-loaded = Ndereguerekói pa’ũ ko kuatiaroguépe g̃uarã.
-identity-weak-encryption = Ko kuatiarogue oipuru ñangarekoha ikangýva.
+identity-weak-encryption = Ko kuatiarogue oiporu ñangarekoha ikangýva.
 identity-insecure-login-forms = Ojehaiva’ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.
 identity-https-only-connection-upgraded = (HTTPS hekopyahupyre)
 identity-https-only-label = HTTPS ayvúpe año
@@ -370,7 +370,7 @@ identity-https-only-info-turn-on3 = Emyandy HTTPS rekopyahurã ko tendápe g̃ua
 identity-https-only-info-turn-off3 = Pe tenda ndoikoporãirõ, ikatu emboguese HTTPS rekopyahurã emyanyhẽjey hag̃ua pe tenda eipurúvo HTTP hekorosã’ỹva.
 identity-https-only-info-no-upgrade = Ndaikatúi embohekopyahu jeike HTTP guive.
 identity-permissions-storage-access-header = Kookie tenda ojuasáva
-identity-permissions-storage-access-hint = Ko’ãva ikatu oipuru kookie ha tenda ojuasáva mba’ekuaarã eime aja ko tendápe.
+identity-permissions-storage-access-hint = Ko’ãva ikatu oiporu kookie ha tenda ojuasáva mba’ekuaarã eime aja ko tendápe.
 identity-permissions-storage-access-learn-more = Kuaave
 identity-permissions-reload-hint = Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.
 identity-clear-site-data =
@@ -384,7 +384,7 @@ identity-remove-cert-exception =
     .accesskey = R
 identity-description-insecure = Nde jeike ko tendápe naiñemíri. Marandu remondóva ikatu ohecha ambue tapicha (ñe’ẽñemíramo, ñe’ẽmondo, kuatia’atã ñemurã ha ambue).
 identity-description-insecure-login-forms = Pe marandu tembiapo ñepyrũ pegua emoingéva ko kuatiaroguépe nahekorosãi ha ikatu noĩporãmbái.
-identity-description-weak-cipher-intro = Nde jeike ko ñanduti rendápe oipuru ñangarekoha ikangýva ha naiñemíri.
+identity-description-weak-cipher-intro = Nde jeike ko ñanduti rendápe oiporu ñangarekoha ikangýva ha naiñemíri.
 identity-description-weak-cipher-risk = Ambue tapichakuéra ikatu ohecha nemarandu térã omoambue ñanduti kuatiarogue reko.
 identity-description-active-blocked2 = { -brand-short-name } ojokóma ko kuatiarogue pehẽ ijerovia’ỹha.
 identity-description-passive-loaded = Nde jeike naiñemíri ha nemarandu remoingéva ko tendápe ikatu ohecha ambue tapicha.
@@ -451,7 +451,7 @@ browser-tab-unblock =
 browser-import-button2 =
     .label = Techaukaha jegueru…
     .tooltiptext = Egueru techaukaha ambue kundaháragui { -brand-short-name }-pe.
-bookmarks-toolbar-empty-message = Eike pya’e hag̃ua, emoĩ nde rechaukaha techaukaha rembipuru rendápe. <a data-l10n-name="manage-bookmarks">Eñangareko techaukaháre…</a>
+bookmarks-toolbar-empty-message = Eike pya’e hag̃ua, emoĩ nde rechaukaha techaukaha rembiporu rendápe. <a data-l10n-name="manage-bookmarks">Eñangareko techaukaháre…</a>
 
 ## WebRTC Pop-up notifications
 
@@ -483,7 +483,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description2 = Eipurútarõ mbopya’eha F12, embojurujaraẽ DevTools kundahára rembipuru poravorã rupive.
+enable-devtools-popup-description2 = Eipurútarõ mbopya’eha F12, embojurujaraẽ DevTools kundahára rembiporu poravorã rupive.
 
 ## URL Bar
 
@@ -707,22 +707,22 @@ bookmarks-tools-menu-button-visibility =
 bookmarks-search =
     .label = Techaukaha jeheka
 bookmarks-tools =
-    .label = Techaukaha Rembipuru
+    .label = Techaukaha Rembiporu
 bookmarks-subview-edit-bookmark =
     .label = Embosako’i ko techaukaha…
 # The aria-label is a spoken label that should not include the word "toolbar" or
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Techaukaha rembipuru renda
+    .toolbarname = Techaukaha rembiporu renda
     .accesskey = B
     .aria-label = Techaukaha
 bookmarks-toolbar-menu =
-    .label = Techaukaha rembipuru renda
+    .label = Techaukaha rembiporu renda
 bookmarks-toolbar-placeholder =
-    .title = Techaukaha rembipuru renda remimoĩ
+    .title = Techaukaha rembiporu renda remimoĩ
 bookmarks-toolbar-placeholder-button =
-    .label = Techaukaha rembipuru renda remimoĩ
+    .label = Techaukaha rembiporu renda remimoĩ
 # "Bookmark" is a verb, as in "Add current tab to bookmarks".
 bookmarks-subview-bookmark-tab =
     .label = Embojuaju tendayke ag̃agua techaukaháre…
@@ -787,7 +787,7 @@ toolbar-button-new-private-window =
 
 ## EME notification panel
 
-eme-notifications-drm-content-playing = Heta mba’epu térã ta’ãngamýi ko tenda pegua oipuru software DRM, upéva omomichĩ pe { -brand-short-name } ohejáva ejapo heseve.
+eme-notifications-drm-content-playing = Heta mba’epu térã ta’ãngamýi ko tenda pegua oiporu software DRM, upéva omomichĩ pe { -brand-short-name } ohejáva ejapo heseve.
 eme-notifications-drm-content-playing-manage = Eñangareko ñembohekóre
 eme-notifications-drm-content-playing-manage-accesskey = M
 eme-notifications-drm-content-playing-dismiss = Mosẽ
@@ -795,7 +795,7 @@ eme-notifications-drm-content-playing-dismiss-accesskey = D
 
 ## Password save/update panel
 
-panel-save-update-username = Puruhára réra
+panel-save-update-username = Poruhára réra
 panel-save-update-password = Ñe’ẽñemi
 
 ##
@@ -923,11 +923,11 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = Ore rovamo’ãha hekorosã ha hasy’ỹva ijepuru omo’ã nde reraite ha omboyke ñandutiveve eipota’ỹva oñomívo ne ñanduti veve kundaharape.
+firefox-relay-offer-why-to-use-relay = Ore rovamo’ãha hekorosã ha hasy’ỹva ijeporu omo’ã nde reraite ha omboyke ñandutiveve eipota’ỹva oñomívo ne ñanduti veve kundaharape.
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Opaite ñanduti veve emondóva nde rovamo’ãha ñanduti vevépe oñemondojeýta <strong>{ $useremail }</strong> (nderejokói mba’éramo).
-firefox-relay-offer-legal-notice = Eikutúvo “Eipuru ñanduti veve rovamo’ãha”, emoneĩ ko’ã <label data-l10n-name="tos-url">Mba’epytyvõrã ñemboguata</label> ha <label data-l10n-name="privacy-url">Ñemigua marandu’i</label>.
+firefox-relay-offer-legal-notice = Eikutúvo “Eiporu ñanduti veve rovamo’ãha”, emoneĩ ko’ã <label data-l10n-name="tos-url">Mba’epytyvõrã ñemboguata</label> ha <label data-l10n-name="privacy-url">Ñemigua marandu’i</label>.
 
 ## Add-on Pop-up Notifications
 
