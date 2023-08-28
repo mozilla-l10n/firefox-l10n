@@ -25,6 +25,8 @@ firefoxview-tabpickup-progress-label = %{ $percentValue } tamamlandı
 firefoxview-tabpickup-step-signin-header = Cihazlar arasında kolayca geçiş yapın
 firefoxview-tabpickup-step-signin-description = Telefondaki sekmelerinizi burada görmek için önce giriş yapın veya hesap açın.
 firefoxview-tabpickup-step-signin-primarybutton = Devam et
+firefoxview-syncedtabs-signin-header = Sekmelerinize her yerden ulaşın
+firefoxview-syncedtabs-signin-description = Sekmelerinizi { -brand-product-name } kullandığınız her yerde görmek için hesabınıza giriş yapın. Hesabınız yoksa açmanız için sizi yönlendireceğiz.
 firefoxview-syncedtabs-signin-primarybutton = Giriş yap veya kaydol
 firefoxview-tabpickup-adddevice-header = { -brand-product-name } tarayıcınızı telefonunuz veya tabletinizle eşitleyin
 firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-product-name }’u indirin ve hesabınıza giriş yapın.
@@ -72,7 +74,7 @@ firefoxview-closed-tabs-placeholder-body2 = Bir sekmeyi kapattıktan sonra burad
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
-    .title = { $tabTitle } sekmesini kapat
+    .title = { $tabTitle } sekmesini kaldır
 # refers to the last tab that was used
 firefoxview-pickup-tabs-badge = Son bakılan
 # Variables:
@@ -164,6 +166,7 @@ firefoxview-view-more-browsing-history = Daha fazla gezinti geçmişini görünt
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Kaldığınız yere geri dönün
 firefoxview-history-empty-description = Siz gezindikçe, ziyaret ettiğiniz sayfalar burada listelenecektir.
 
 ##
@@ -185,6 +188,8 @@ firefoxview-import-history-close-button =
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Geçmişi başka bir tarayıcıdan içe aktarın
+firefoxview-import-history-description = { -brand-short-name }’u varsayılan tarayıcınız yapın. Gezinti geçmişinizi, yer imlerinizi ve daha fazlasını içe aktarın.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

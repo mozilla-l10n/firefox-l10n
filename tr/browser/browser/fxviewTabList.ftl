@@ -17,7 +17,7 @@ fxviewtabrow-tabs-list-tab =
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
-    .title = { $tabTitle } sekmesini kapat
+    .title = { $tabTitle } sekmesini kaldır
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = Az önce
 
