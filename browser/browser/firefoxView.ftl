@@ -135,6 +135,10 @@ firefoxview-show-more = Εμφάνιση περισσότερων
 firefoxview-show-less = Εμφάνιση λιγότερων
 firefoxview-sort-history-by-date-label = Ταξινόμηση κατά ημερομηνία
 firefoxview-sort-history-by-site-label = Ταξινόμηση κατά ιστότοπο
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Εναλλαγή στο { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
