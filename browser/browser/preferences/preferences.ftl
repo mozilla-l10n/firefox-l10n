@@ -1029,7 +1029,7 @@ content-blocking-all-cookies = Všetky cookies
 content-blocking-unvisited-cookies = Cookies z nenavštívených stránok
 content-blocking-all-windows-tracking-content = Sledovací obsah vo všetkých oknách
 content-blocking-all-cross-site-cookies = Všetky súbory cookie tretích strán
-content-blocking-cryptominers = Ťažba kryptomien
+content-blocking-cryptominers = Ťažbu kryptomien
 content-blocking-fingerprinters = Snímanie digitálneho odtlačku
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
