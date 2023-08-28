@@ -19,7 +19,7 @@ experimental-features-media-jxl =
 experimental-features-media-jxl-description = Ko tembiapoite hendýva ndive, { -brand-short-name } omoneĩ pe JPEG XL (JXL) ysaja. Kóva ha’e ta’ãnga marandurenda iporãvéva ysaja omoneĩva jeku’e okañy’ỹre marandurenda JPEG guive. Eikuaave hag̃ua, eporandu <a data-l10n-name="bugzilla">bug 1539075</a>-pe.
 experimental-features-devtools-compatibility-panel =
     .label = Mboguatahára rembipuru: Ojokupytyva Rupa
-experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omyesakãva jokupyty reko tembipuru’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
+experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omyesakãva jokupyty reko tembiporu’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
     .label = Kookie: SameSite=None oikotevẽ tekome’ẽ hekorosãva
@@ -33,7 +33,7 @@ experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyr�
 experimental-features-devtools-serviceworker-debugger-support =
     .label = Mboguatahára rembipuru: Service Worker mopotĩha
 # "Service Worker" is an API name and is usually not translated.
-experimental-features-devtools-serviceworker-debugger-support-description = Embojuruja pytyvõha ipyahúva Service Workers peg̃uarã Mopotĩha rupápe. Ko tembiapoite ikatu omombegue umi Tembipuru ñemboguataha ha oipuruve mandu’arenda.
+experimental-features-devtools-serviceworker-debugger-support-description = Embojuruja pytyvõha ipyahúva Service Workers peg̃uarã Mopotĩha rupápe. Ko tembiapoite ikatu omombegue umi Tembiporu ñemboguataha ha oipuruve mandu’arenda.
 # WebRTC global mute toggle controls
 experimental-features-webrtc-global-mute-toggles =
     .label = Emyandy/embogue WebRTC tuichaháicha
@@ -45,4 +45,4 @@ experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha oj
 # Search during IME
 experimental-features-ime-search =
     .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
-experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembipuru omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eipuru hag̃ua erohoryvéva IME ndoipurúirõ koichagua tupa.
+experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembiporu omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eipuru hag̃ua erohoryvéva IME ndoipurúirõ koichagua tupa.

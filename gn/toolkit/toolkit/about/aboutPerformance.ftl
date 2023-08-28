@@ -24,7 +24,7 @@ preloaded-tab = Henyhẽmbáva: { $title }
 type-tab = Tendayke
 type-subframe = Subframe
 type-tracker = Tapykuehohára
-type-addon = Tembipuru’i
+type-addon = Tembiporu’i
 type-browser = Kundaha
 type-worker = Mba’apohára
 type-other = Ambue
@@ -54,7 +54,6 @@ close-tab =
     .title = Emboty tendayke
 show-addon =
     .title = Ehechauka moĩmbaha ñangarekohápe
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -7,4 +7,4 @@ app-picker-browse-button =
 app-picker-send-msg =
     .value = Emondo ko mba’epuru amo:
 app-picker-no-app-found =
-    .value = Ndojejuhúi tembipuru’i koichagua marandurenda’atýpe g̃uarã.
+    .value = Ndojejuhúi tembiporu’i koichagua marandurenda’atýpe g̃uarã.

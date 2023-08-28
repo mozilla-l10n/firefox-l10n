@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Ndaikatúi eike jeroviápe pe mba’ete oñemongéma rupi.
 psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oipuru rupi peteĩchagua itujáva ha nahekorosãiva SSL reheguáva.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Og̃uahẽ ndéve peteĩ mboajepyre ndoikóiva. Eñe’ẽ pe me’ẽhára ndive térã ñanduti veve kundaharape mohendahavusu rehegua ha embohasa chupe marandu:
     
     Nemboajepyre oguereko peteĩchaguaite papapy syryrýva pe ambue mboajepyre oguenohẽva moakãhára omboajepyrekuaáva. Eñeha’ã eguereko mboajepyre pyahu ipapapy syryry ha’eñoitéva.
-
 ssl-error-export-only-server = Ndaikatúi oñemongeta jeroviaitépe. Avei nomoneĩri mbopapapy ijyvatetereíva.
 ssl-error-us-only-server = Ndaikatúi oñomongeta jeroviápe. Peer oikotevẽ mbopapapy tuicháva rehegua ndojogueraháiva.
 ssl-error-no-cypher-overlap = Ndaikatúi eñemomarandu jeroviápe ambuéva ndive: ndaipóri algoritmo ipapapýva opavaveguáva.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Algoritmo ñepytyvõ’ỹre TLS te
 ssl-error-unsupported-signature-algorithm = Ñomongetaha oipuru ñembojopyru ipu’aka’ỹva teraguapygua ha algoritmo mba’eku’i.
 ssl-error-missing-extended-master-secret = Pe mokõiguáva okuesejey extended_master_secret jepysokue’ỹre.
 ssl-error-unexpected-extended-master-secret = Pe mokõiguáva okuesejey extended_master_secret jepysokue ñeha’ãrõ’ỹva ndive.
-
 sec-error-io = Oiko peteĩ jejavy E/S mba’éva pe tekorosãrã ñemoneĩte aja.
 sec-error-library-failure = jejavy aranduka’aty rekorosãrã.
 sec-error-bad-data = aranduka’aty rekorosãrã: og̃uahẽkuri mba’ekuaarã oiko’ỹva.
@@ -234,7 +231,7 @@ sec-error-user-cancelled = Pe puruhára ojopýma Heja.
 sec-error-pkcs12-duplicate-data = Ndaha’éi jeguerupyre, oĩmavoi mba’ekuaarã rendápe.
 sec-error-message-send-aborted = Ñe’ẽmondo oho’ỹva.
 sec-error-inadequate-key-usage = Ñemigua jepuru mboajepyréva rehegua ndoikomo’ãi ko tembiapo reipotávape g̃uarã.
-sec-error-inadequate-cert-type = Mboajepyréva noñemoneĩriva tembipuru’ípe g̃uarã.
+sec-error-inadequate-cert-type = Mboajepyréva noñemoneĩriva tembiporu’ípe g̃uarã.
 sec-error-cert-addr-mismatch = Mboajepyréva kundaharape mboheraguapy rehegua ndojoguerahái kundaharape ndive ñe’ẽmondo myakãhápe.
 sec-error-pkcs12-unable-to-import-key = Ndaikatúi emba’egueru. Ojavy eñeha’ãvo emba’egueru ñe’ẽ ñemiguáva.
 sec-error-pkcs12-importing-cert-chain = Ndaikatúi emba’egueru. Ojavy eñeha’ãvo emba’egueru peteĩ mboajepyre joajuha.
@@ -320,7 +317,6 @@ sec-error-locked-password = Pe ñe’ẽñemi ojejokóma.
 sec-error-unknown-pkcs11-error = PKCS #11 ojekuaa’ỹva jejavy.
 sec-error-bad-crl-dp-url = URL ndoikói térã noñemoneĩriva kyta réra CRL ñemyasãihápe.
 sec-error-cert-signature-algorithm-disabled = Pe mboajepyréva oñemboheraguapy oipurúkuévo peteĩ algoritmo mboheraguapýva oñemongepyréva nahekorosãi rupi.
-
 mozilla-pkix-error-key-pinning-failure = Mohendahavusu oipuru kutuha (HPKP), hákatu mba’evéichagua mboajepyre joajuha jeroviaháva ikatu ojejapo oñembojuehe hag̃ua pinset ndive. Kutuha añetéva ndaikatúi oñemyengovia.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Pe mohendahavusu oipuru mboajepyre jepysokue jejokopyréva ndive ome’ẽva chupe peteí mboajepyréva mburuvicháramo. Peteĩ mboajepyréva oñeme’ẽ porãvape g̃uarã, kóva ndaikatúi péicha oiko.
 mozilla-pkix-error-inadequate-key-size = Pe mohendahavusu ohechauka peteĩ mboajepyréva ñemigua tuichakue ndive michĩetereíva oikekatu hag̃ua.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Ko mohendahavusu ohechauka mboajep
 mozilla-pkix-error-empty-issuer-name = Mohendahavusu ohechauka peteĩ mboajepyre téra tee rechaha nandíva.
 mozilla-pkix-error-additional-policy-constraint-failed = Oñemomichĩ purureko joapýva ndoikói oñemoneĩsévo mboajepyre.
 mozilla-pkix-error-self-signed-cert = Mboajepyre ndojegueroviapái heraguapy rupi ijehegui.
-
 xp-java-remove-principal-error = Ndaikatúi emboguete pe tuichavéva
 xp-java-delete-privilege-error = Ndaikatúi emboguete pe techaramovéva
 xp-java-cert-not-exists-error = Ko tuichavéva ndoguerekói peteĩ mboajepyréva
-
 xp-sec-fortezza-bad-card = Kuatia’atã Fortezza noñemoñepyrũi hekopete. Ikatúpiko, ehekyijey ha embojevy iguenohẽhárape.
 xp-sec-fortezza-no-card = Ndojejuhúikuri kuatia’atã Fortezza
 xp-sec-fortezza-none-selected = Ndaipóri kuatia’atã Fortezza ojeporavopyre

@@ -15,8 +15,8 @@ third-party-detail-vendor = Me’ẽhára marandu
 third-party-detail-occurrences = Mba’eaporei
     .title = Mboy jey oñemyanyhẽ ko ha’ãha.
 third-party-detail-duration = Ára mbotyha mbytegua (ms)
-    .title = Mboy ára ko ta’ãha ojoko tembipuru’i
-third-party-detail-app = Tembipuru’i
+    .title = Mboy ára ko ta’ãha ojoko tembiporu’i
+third-party-detail-app = Tembiporu’i
 third-party-detail-publisher = Mbosako’ihára
 third-party-th-process = Tapereko
 third-party-th-duration = Ñemyanyhẽ arekue (ms)
@@ -27,7 +27,7 @@ third-party-tag-shellex = Mba’e’okarupa jepysokue
     .title = Koichagua ta’ãha henyhẽ oñembojurujávo apopyvusu marandurenda ñomongeta.
 third-party-tag-background = Mokõihávape
     .title =
-        Koichagua ta’ãha ndojokói pe tembipuru’i henyhẽ rupi
+        Koichagua ta’ãha ndojokói pe tembiporu’i henyhẽ rupi
         Mokõihávape.
 third-party-icon-unsigned =
     .title = Ko ha’ãha noñemboheraguapýi

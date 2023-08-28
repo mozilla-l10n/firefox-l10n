@@ -212,7 +212,7 @@ shortcuts-no-addons = Ndoguerekói jepysokue ijurujáva.
 shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
     .placeholder = Ehai mbopya’eha
-shortcuts-browserAction2 = Emyandy votõ tembipuru renda
+shortcuts-browserAction2 = Emyandy votõ tembiporu renda
 shortcuts-pageAction = Emyandy kuatiarogue ñemongu’e
 shortcuts-sidebarAction = Embojopyru tenda yke
 shortcuts-modifier-mac = Emoinge Ctrl, Alt o ⌘
@@ -245,7 +245,7 @@ header-back-button =
 
 # Explanatory introduction to the list of recommended add-ons. The action word
 # ("recommends") in the final sentence is a link to external documentation.
-discopane-intro = Umi jepysokue ha téma ha’e tembipuru’i kundahápe g̃uarã ha omo’ã ñe’ẽñemi, ta’ãngamýi ñemboguejy, joguarã jejuhu, maranduñemurã jejoko, kundahára rova ñemoambue ha hetave mba’e. Mbohapyhaguáva hetave jey umi omoheñóiva software. Rome’ẽ jeporavorã { -brand-product-name } <a data-l10n-name="learn-more-trigger">je’eporãpy</a> tekorosãme, apopyre ha tembiaporape ijojaha’ỹva.
+discopane-intro = Umi jepysokue ha téma ha’e tembiporu’i kundahápe g̃uarã ha omo’ã ñe’ẽñemi, ta’ãngamýi ñemboguejy, joguarã jejuhu, maranduñemurã jejoko, kundahára rova ñemoambue ha hetave mba’e. Mbohapyhaguáva hetave jey umi omoheñóiva software. Rome’ẽ jeporavorã { -brand-product-name } <a data-l10n-name="learn-more-trigger">je’eporãpy</a> tekorosãme, apopyre ha tembiaporape ijojaha’ỹva.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijepurukue.
 discopane-notice-learn-more = Kuaave
@@ -422,7 +422,7 @@ default-heading-search-label = Ehekave moĩmbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
 addon-page-options-button =
-    .title = Tembipuru opaite moimbahápe g̃uarã
+    .title = Tembiporu opaite moimbahápe g̃uarã
 
 ## Detail notifications
 ## Variables:

@@ -22,9 +22,9 @@ rights-intro-point-5 = Heta mba’e { -brand-short-name } rehegua oipuru marandu
 rights-intro-point-5-unbranded = Ko japopyre oikéramo ñanduti mba’epytyvõrãme, oimeraẽva mba’epytyvõrã ojogueraháva umi mba’epytyvõrã ndive oikeva’erã ojokuápe amo <a data-l10n-name="mozilla-website-services-link">Ñanduti renda mba’epytyvõrã</a> pehẽ’i.
 rights-intro-point-6 = Embohetaseve rupi hetaichagua ta’ãngamýi tretepy, { -brand-short-name } omboguejy heta mbopapapy ra’ãha tetepy mbohapyguáva rehegua.
 rights-webservices-header = Mba’epytyvõrã { -brand-full-name } marandu ñanduti pegua
-rights-webservices = { -brand-full-name } oipuru marandu mba’epytyvõrã ipyendáva ñandutípe (“mba’epytyvõrã”) ome’ẽ hag̃ua heseguamimi ojepurukuaáva apopy ikõirekóva { -brand-short-name }-pe ojehaiháicha ko’a guive. Ndereipuruséirõ peteĩ térã hetave mba’epytyvõrã térã jehairysýi oĩva ko’a guive noñemoneĩkuaái, ikatu embogue hesegua térã mba’epytyvõrã. Reikuaasérõ mba’éicha remboguekuaa mba’e hesegua térã mba’epytyvõrã rejuhukuaa ko’ápe <a data-l10n-name="mozilla-disable-service-link">ko’ápe</a>. Ambue mba’e ha mba’epytyvõrã ikatu oñembogue tembipuru’i erohoryvéva rupi.
+rights-webservices = { -brand-full-name } oipuru marandu mba’epytyvõrã ipyendáva ñandutípe (“mba’epytyvõrã”) ome’ẽ hag̃ua heseguamimi ojepurukuaáva apopy ikõirekóva { -brand-short-name }-pe ojehaiháicha ko’a guive. Ndereipuruséirõ peteĩ térã hetave mba’epytyvõrã térã jehairysýi oĩva ko’a guive noñemoneĩkuaái, ikatu embogue hesegua térã mba’epytyvõrã. Reikuaasérõ mba’éicha remboguekuaa mba’e hesegua térã mba’epytyvõrã rejuhukuaa ko’ápe <a data-l10n-name="mozilla-disable-service-link">ko’ápe</a>. Ambue mba’e ha mba’epytyvõrã ikatu oñembogue tembiporu’i erohoryvéva rupi.
 rights-safebrowsing = <strong>Kundaha jeroviáva: </strong>Kundaha ñemi rehegua jeikekatu noñemoneĩmbái ikatu rehe nde gueraha tenda jerovia’ỹhápe. Emboguesetéramo ko mba’e rehegua, ehechakuaa ko tape:
-rights-safebrowsing-term-1 = Eike tembipuru’i erohoryvévape
+rights-safebrowsing-term-1 = Eike tembiporu’i erohoryvévape
 rights-safebrowsing-term-2 = Eiporavo Tekorosãrã ta’ãngarupa
 rights-safebrowsing-term-3 = Embogue poravopyrã "{ enableSafeBrowsing-label }"
 enableSafeBrowsing-label = Ejoko tetepy kyhyjerã ha imarãkuaáva

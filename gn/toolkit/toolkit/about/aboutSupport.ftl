@@ -8,7 +8,7 @@ crashes-title = Marandu jejavyguáva
 crashes-id = ID momarandu
 crashes-send-date = Mondopyre
 crashes-all-reports = Opaite marandu’i jejavy rehegua
-crashes-no-config = Ko tembipuru’i oñembohekopyahu ohechauka hag̃ua marandu jejavy rehegua.
+crashes-no-config = Ko tembiporu’i oñembohekopyahu ohechauka hag̃ua marandu jejavy rehegua.
 support-addons-title = Moĩmbaha
 support-addons-name = Téra
 support-addons-type = Peteĩchagua
@@ -32,7 +32,7 @@ features-id = ID
 processes-title = Tapereko okayguáva
 processes-type = Peteĩchagua
 processes-count = Papa
-app-basics-title = Tembipuru’i ñemboheko ypy
+app-basics-title = Tembiporu’i ñemboheko ypy
 app-basics-name = Téra
 app-basics-version = Peteĩchagua
 app-basics-build-id = ID jejapo
@@ -48,7 +48,7 @@ app-basics-update-dir =
 app-basics-update-history = Ñembohekopyahu rembiasakue
 app-basics-show-update-history = Ñembohekopyahu rembiasakue jehechauka
 # Represents the path to the binary used to start the application.
-app-basics-binary = Binario tembipuru’i rehegua
+app-basics-binary = Binario tembiporu’i rehegua
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Marandurenda mba'ete
@@ -189,10 +189,10 @@ media-codec-support-error = Pe marandu códec jokupyty ndojepurukuaái. Eha’ã
 ##
 
 intl-title = Mongakuaa & ñemohenda
-intl-app-title = Tembipuru’i ñemboheko
+intl-app-title = Tembiporu’i ñemboheko
 intl-locales-requested = Ñe’ẽnguéra jerurepyre
 intl-locales-available = Ñe’ẽnguéra ojepurukuaáva
-intl-locales-supported = Ñe’ẽnguéra tembipuru’i rehegua
+intl-locales-supported = Ñe’ẽnguéra tembiporu’i rehegua
 intl-locales-default = Ñe’ẽnguéra ijypykuéva
 intl-os-title = Apopyvusu oku’éva
 intl-os-prefs-system-locales = Ñe’ẽnguéra apopyvusu rehegua

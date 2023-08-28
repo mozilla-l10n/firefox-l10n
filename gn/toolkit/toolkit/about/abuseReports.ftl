@@ -85,5 +85,5 @@ abuse-report-broken-suggestions-theme = Hi’ã jéve ojuhúma apañuãi. Avei o
 abuse-report-policy-reason-v2 = Tetepy iñaña, imbarete térã léigui osẽva
 abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eipuru ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
 abuse-report-unwanted-reason-v2 = Ndaipotái ha ndaikuaái mba’éichapa ajeíta chugui
-abuse-report-unwanted-example = Techapyrã: Peteĩ tembipuru’i oñemohendáva amoneĩ’ỹre
+abuse-report-unwanted-example = Techapyrã: Peteĩ tembiporu’i oñemohendáva amoneĩ’ỹre
 abuse-report-other-reason = Ambue mba’e
