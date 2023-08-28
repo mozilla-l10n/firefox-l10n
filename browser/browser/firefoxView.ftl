@@ -193,6 +193,8 @@ firefoxview-import-history-description = { -brand-short-name }’u varsayılan t
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Kapattığınız sekmeye geri dönmek mi istiyorsunuz?
+firefoxview-recentlyclosed-empty-description = Burada yakın zamanda kapattığınız sekmeleri bulacaksınız. Böylece istediğiniz sekmeyi hızlı bir şekilde yeniden açabilirsiniz.
 firefoxview-recentlyclosed-empty-description-two = Daha önceden kapattığınız sekmeleri <a data-l10n-name="history-url">gezinti geçmişinizde</a> bulabilirsiniz.
 
 ##
