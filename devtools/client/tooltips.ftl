@@ -56,13 +56,13 @@ inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Intente a
 inactive-css-not-display-block-on-floated-fix = Intente eliminar <strong>float</strong> o agregue <strong> display:block</strong>. { learn-more }
 inactive-css-position-property-on-unpositioned-box-fix = Intente establecer la propiedad <strong>position</strong> en algo diferente que <strong>static</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = Intente agregar <strong>overflow:hidden</strong>. { learn-more }
-inactive-css-not-for-internal-table-elements-fix = Pruebe  configurar su propiedad <strong>display</strong> a algo diferente de <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
-inactive-css-not-for-internal-table-elements-except-table-cells-fix = Pruebe establecer su propiedad <strong>mostrar</strong> a algo diferente de<strong>tabla-columna</strong>, <strong>table-fila</strong>, <strong>table-de gupo de-columnas</strong>, <strong>tabla-de grupo de-filas</strong> o <strong>tabla de grupo de pies de página</strong>. { learn-more }
-inactive-css-not-table-fix = Intente agregar <strong>display:grid</strong> o <strong>display:inline-grid</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-fix = Intente establecer la propiedad <strong>display</strong> a algo diferente de <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-for-internal-table-elements-except-table-cells-fix = Intente establecer la propiedad <strong>display</strong> a algo diferente de<strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> o <strong>table-footer-group</strong>. { learn-more }
+inactive-css-not-table-fix = Intente agregar <strong>display:table</strong> o <strong>display:inline-table</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Intente agregar <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Intente agregar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = En el elemento de la tabla principal, se debe eliminar la propiedad o cambiar el valor de <strong>border-collapse</strong> a un valor que no sea <strong>collapse</strong>. { learn-more }
-inactive-css-ruby-element-fix = Intente cambiar el <strong>tamaño de fuente</strong> del texto rubí. { learn-more }
+inactive-css-ruby-element-fix = Intente cambiar <strong>font-size</strong> del texto ruby. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
