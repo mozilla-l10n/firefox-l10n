@@ -43,16 +43,14 @@ perftools-range-interval-milliseconds = { NUMBER($interval, maxFractionalUnits: 
 
 # The size of the memory buffer used to store things in the profiler.
 perftools-range-entries-label = Búfer tuichakue:
-
 perftools-custom-threads-label = Embojuaju inimbo momba’epyre héra rupi:
-
 perftools-devtools-interval-label = Mbojopyru:
 perftools-devtools-threads-label = Inimbo:
 perftools-devtools-settings-label = Ñemboheko
 
 ## Various statuses that affect the current state of profiling, not typically displayed.
 
-perftools-status-recording-stopped-by-another-tool = Ambue tembipuru ojoko ñeñongatu.
+perftools-status-recording-stopped-by-another-tool = Ambue tembiporu ojoko ñeñongatu.
 perftools-status-restart-required = Emoñepyrũjey kundahára embojuruja hag̃ua tembiapoite.
 
 ## These are shown briefly when the user is waiting for the profiler to respond.
@@ -113,15 +111,13 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Eñomi umi poravopyre yvategua ha eñongatu inimbo jehaipyre
-
 perftools-tools-threads-input-label =
     .title = Ko’ã hilo ha’e tysýi ipa’ũva kyguái rupive ha ojepurúva oñemyandy hag̃ua mba’ete ñemoheñói mbohapehápe. Pe téra ojokupytyva’erã michĩmínte hilo réra emoingévape. Oñandukuaa umi pa’ũ inandíva.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
 
-perftools-onboarding-message = <b>Ipyahu</b>: { -profiler-brand-name } ko’ág̃a oĩ juajúpe mboguatahára rembipuru ndive. <a>Eikuaave</a> ko tembipuru guasu rehegua.
-
+perftools-onboarding-message = <b>Ipyahu</b>: { -profiler-brand-name } ko’ág̃a oĩ juajúpe mboguatahára rembiporu ndive. <a>Eikuaave</a> ko tembiporu guasu rehegua.
 perftools-onboarding-close-button =
     .aria-label = Emboty pe ñe’ẽmondo jeikegua
 
@@ -129,32 +125,22 @@ perftools-onboarding-close-button =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# The same labels and descriptions are also defined in appmenu.ftl.
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # The same labels and descriptions are also defined in appmenu.ftl.
 
 perftools-presets-web-developer-label = Ñanduti Mboguatahára
-perftools-presets-web-developer-description = Ñemboheko iporãva emopotĩ hag̃ua ñanduti tembipuru’i, nahenyhẽrasáiva.
-
+perftools-presets-web-developer-description = Ñemboheko iporãva emopotĩ hag̃ua ñanduti tembiporu’i, nahenyhẽrasáiva.
 perftools-presets-firefox-label = { -brand-shorter-name }
 perftools-presets-firefox-description = Ñemboheko ypykue eipurukuaáva emoheñói hag̃ua mba’ete { -brand-shorter-name }.
-
 perftools-presets-graphics-label = Ta’ãnga
 perftools-presets-graphics-description = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
-
 perftools-presets-media-label = Momaranduha
 perftools-presets-media-description2 = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
-
 perftools-presets-networking-label = Pyha
 perftools-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuãi { -brand-shorter-name }-pe.
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Tendyry
 perftools-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry ndoikóirõ eipurukuévo { -brand-shorter-name }.
-
 perftools-presets-custom-label = Mboavapyre
 
 ##
