@@ -19,6 +19,8 @@ support-addons-enabled = Ativado
 support-addons-version = Versão
 support-addons-id = ID
 legacy-user-stylesheets-enabled = Ativo
+legacy-user-stylesheets-stylesheet-types = Folhas de estilo
+legacy-user-stylesheets-no-stylesheets-found = Nenhuma folha de estilo encontrada
 security-software-title = Software de segurança
 security-software-type = Tipo
 security-software-name = Nome
@@ -406,3 +408,5 @@ support-remote-features-status = Estado
 ## Pointing devices
 
 pointing-device-mouse = Rato
+pointing-device-touchscreen = Ecrã tátil
+pointing-device-pen-digitizer = Caneta Digitalizadora
