@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Έναρξη καταγραφής AEC
 about-webrtc-aec-logging-on-state-label = Διακοπή καταγραφής AEC
 about-webrtc-aec-logging-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
 about-webrtc-aec-logging-toggled-on-state-msg = Καταγραφή AEC ενεργή (μιλήστε με τον καλών για λίγα λεπτά και μετά σταματήστε την καταγραφή)
+about-webrtc-aec-logging-unavailable-sandbox = Απαιτείται η μεταβλητή περιβάλλοντος «MOZ_DISABLE_CONTENT_SANDBOX=1» για την εξαγωγή αρχείων καταγραφής AEC. Ορίστε αυτήν τη μεταβλητή μόνο εάν κατανοείτε τους πιθανούς κινδύνους.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Τα αρχεία καταγραφής μπορούν να βρεθούν στο: { $path }
@@ -228,8 +229,6 @@ about-webrtc-aec-logging-off-state-msg = τα αρχεία καταγραφής 
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Η σελίδα αποθηκεύτηκε στην διαδρομή: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Το αρχείο πληροφοριών μπορεί να βρεθεί στο: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Κατάσταση ελέγχου σφαλμάτων ενεργή, αρχείο καταγραφής στο: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -302,6 +301,9 @@ about-webrtc-sdp-set-timestamp = Χρονική σήμανση { NUMBER($timesta
 about-webrtc-show-msg-sdp = Εμφάνιση SDP
 about-webrtc-hide-msg-sdp = Απόκρυψη SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -309,9 +311,6 @@ about-webrtc-hide-msg-sdp = Απόκρυψη SDP
 about-webrtc-media-context-show-msg = Εμφάνιση πλαισίου πολυμέσων
 about-webrtc-media-context-hide-msg = Απόκρυψη πλαισίου πολυμέσων
 about-webrtc-media-context-heading = Πλαίσιο πολυμέσων
-
-##
-
 
 ##
 

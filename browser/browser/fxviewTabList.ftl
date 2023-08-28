@@ -41,3 +41,7 @@ fxviewtabrow-copy-link = Αντιγραφή συνδέσμου
     .accesskey = σ
 fxviewtabrow-close-tab = Κλείσιμο καρτέλας
     .accesskey = Κ
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Επιλογές για «{ $tabTitle }»
