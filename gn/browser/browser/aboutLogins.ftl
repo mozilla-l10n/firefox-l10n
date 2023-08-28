@@ -4,14 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Tembiapo ñepyrũ ha ñe’ẽñemi
-
 about-logins-login-filter =
     .placeholder = Eheka tembiapo ñepyrũ
     .key = F
-
 create-new-login-button =
     .title = Tembiapo ñepyrũ pyahu moheñói
-
 fxaccounts-sign-in-text = Egueru umi ne ñe’ẽñemi ne ambue mba’e’okágui
 fxaccounts-sign-in-sync-button = Eike embojuehe hag̃ua
 fxaccounts-avatar-button =
@@ -56,8 +53,8 @@ login-list-filtered-count =
 login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
 login-list-name-reverse-option = Téra (Z-A)
-login-list-username-option = Puruhára réra  (A-Z)
-login-list-username-reverse-option = Puruhára réra  (A-Z)
+login-list-username-option = Poruhára réra  (A-Z)
+login-list-username-reverse-option = Poruhára réra  (A-Z)
 about-logins-login-list-alerts-option = Kyhyjerã
 login-list-last-changed-option = Ñemoambue ipyahuvéva
 login-list-last-used-option = Ojepurúva ipahaitépe
@@ -67,7 +64,7 @@ about-logins-login-list-empty-search-title = Ndojejuhúi tembiapo ñepyrũ
 about-logins-login-list-empty-search-description = Ndaipóri pe ehekáva.
 login-list-item-title-new-login = Tembiapo ñepyrũ pyahu
 login-list-item-subtitle-new-login = Emoinge nde reraite tembiapo ñepyrũme
-login-list-item-subtitle-missing-username = (puruhára hera’ỹva)
+login-list-item-subtitle-missing-username = (poruhára hera’ỹva)
 about-logins-list-item-breach-icon =
     .title = Ñanduti renda imarãva
 about-logins-list-item-vulnerable-password-icon =
@@ -99,9 +96,9 @@ login-item-origin-label = Ñanduti kundaharape
 login-item-tooltip-message = Emoñondivéke pe kundaharape ñanduti renda emoñepyrũha tembiapo rehe.
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-username-label = Puruhára réra
+login-item-username-label = Poruhára réra
 about-logins-login-item-username =
-    .placeholder = (puruhára hera’ỹva)
+    .placeholder = (poruhára hera’ỹva)
 login-item-copy-username-button-text = Monguatia
 login-item-copied-username-button-text = Monguatiapyre!
 login-item-password-label = Ñe’ẽñemi
@@ -122,7 +119,7 @@ login-item-cancel-button = Heja
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
 login-item-timeline-action-created = Moheñoipyre
 login-item-timeline-action-updated = Mbohekopyahupyre
-login-item-timeline-action-used = Purupyre
+login-item-timeline-action-used = Porupyre
 
 ## OS Authentication dialog
 
@@ -137,24 +134,21 @@ about-logins-edit-login-os-auth-dialog-message-win = Embosako’ívo tembiapo ñ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = embosako’i tembiapo ñepyrũ ñongatupyre
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ehecha hag̃ua ñe’ẽñemi, emoinge nde reraite tembiapo ñepyrũ pegua. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = embosako’i ñe’ẽñemi ñongatupyre
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Emonguatia hag̃ua ñe’ẽñemi, emoinge nde reraite Windows rembiapo ñepyrũme. Oipytyvõta emo’ãvo ne mba’etekuéra rekorosã.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = embokuatia ñe’ẽñemi ñongatupyre
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Eguerahaukávo ne rembiapo ñepyrũ, emoĩ nde reraite Windows rembiapópe. Oipytyvõta emo’ãvo ne mba’ete rekorosã.
 # This message can be seen when attempting to export a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-export-password-os-auth-dialog-message-macosx = erahauka puruhára ha ñe’ẽñemi ñongatupyre
+about-logins-export-password-os-auth-dialog-message-macosx = erahauka poruhára ha ñe’ẽñemi ñongatupyre
 
 ## Primary Password notification
 
@@ -168,7 +162,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Heja
 confirmation-dialog-dismiss-button =
     .title = Heja
-
 about-logins-confirm-remove-dialog-title = ¿Emboguete ko tembiapo ñepyrũ?
 confirm-delete-dialog-message = Ko tembiapoite ndaikatúi emboguevi.
 about-logins-confirm-remove-dialog-confirm-button = Mboguete
@@ -182,14 +175,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Mboguepaite
        *[other] Mboguepaite
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Héẽ, emboguete ko tembiapo ñepyrũ
         [one] Héẽ, emboguete ko tembiapo ñepyrũ
        *[other] Héẽ, emboguete ko’ã tembiapo ñepyrũ
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] ¿Emboguete { $count } terachaukaha?
@@ -201,7 +192,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Kóva omboguetéta tembiapo ñepyrũ oñongatúva { -brand-short-name } ha oimeraẽva mboguaha kyhyjerã osẽva ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
        *[other] Kóva omboguetéta umi tembiapo ñepyrũ oñongatúva { -brand-short-name } ha oimeraẽva mboguaha kyhyjerã osẽva ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] ¿Emboguete { $count } rembiapo ñepyrũ opaite mba’e’okágui?
@@ -219,10 +209,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Emba’egueraha tembiapo ñepyrũ ha ñe’ẽñemi
 about-logins-confirm-export-dialog-message = Ñe’ẽñemi oñeñongatúta moñe’ẽrãrõ (techapyrã, BadP@ssw0rd) oimeraẽva ombojurujakuaáva marandurenda guerahaukapyre ikatu ohecha.
 about-logins-confirm-export-dialog-confirm-button = Emba’egueraha…
-
 about-logins-alert-import-title = Emba’eguerupáma
 about-logins-alert-import-message = Ehechapaite emba’egueruva’ekue
-
 confirm-discard-changes-dialog-title = ¿Emboyke moambue eñongatu’ỹva?
 confirm-discard-changes-dialog-message = Opaite ñemoambue oñeñongatu’ỹva oguepáta.
 confirm-discard-changes-dialog-confirm-button = Hejarei
@@ -239,7 +227,7 @@ about-logins-breach-alert-link = Eho { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ñe’ẽñemi ivaikuaáva
-about-logins-vulnerable-alert-text2 = Ko ñe’ẽñemi ojepuru ambue mba’etépe ikatúva mba’ekuaarã ombyai. Eipurujey terachaukaha ombyaikuaáva opaite mba’etépe. Emoambue ko ñe’ẽñemi.
+about-logins-vulnerable-alert-text2 = Ko ñe’ẽñemi ojeporu ambue mba’etépe ikatúva mba’ekuaarã ombyai. Eiporujey terachaukaha ombyaikuaáva opaite mba’etépe. Emoambue ko ñe’ẽñemi.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Eho { $hostname }
@@ -251,8 +239,7 @@ about-logins-vulnerable-alert-learn-more-link = Kuaave
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = Eikekuaáma { $loginTitle } ko puruhára réra reheve. <a data-l10n-name="duplicate-link">¿Ehosépa pe jeikehápe?</a>
-
+about-logins-error-message-duplicate-login-with-link = Eikekuaáma { $loginTitle } ko poruhára réra reheve. <a data-l10n-name="duplicate-link">¿Ehosépa pe jeikehápe?</a>
 # This is a generic error message.
 about-logins-error-message-default = Oiko jejavy eñongatukuévo ñe’ẽñemi.
 
@@ -302,13 +289,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Tembiapo ñepyrũ pyahu mbojuajupyre:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Tembiapo ñepyrũ hekopyahúva:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Tembiapo ñepyrũ hekopyahúva:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
         [one] <span>Tembiapo ñepyrũ ikõiva:</span> <span data-l10n-name="count">{ $count }</span><span data-l10n-name="meta">(ndojeguerúiva)</span>
@@ -320,24 +305,21 @@ about-logins-import-dialog-items-error =
        *[other] <span>Jejavy:</span><span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(ndojeguerúiva)</span>
     }
 about-logins-import-dialog-done = Apopyre
-
 about-logins-import-dialog-error-title = Ojavy mba’egueru
 about-logins-import-dialog-error-conflicting-values-title = Tepykue ndojokupytýiva tembiapo ñepyrũme g̃uarã
-about-logins-import-dialog-error-conflicting-values-description = Techapyrã: heta puruhára réra, ñe’ẽñemi, URLs, etc. peteĩ tembiapo ñepyrũme g̃uarã añónte.
+about-logins-import-dialog-error-conflicting-values-description = Techapyrã: heta poruhára réra, ñe’ẽñemi, URLs, etc. peteĩ tembiapo ñepyrũme g̃uarã añónte.
 about-logins-import-dialog-error-file-format-title = Marandurenda ysaja iñapañuãi
-about-logins-import-dialog-error-file-format-description = Yta yvatevegua oĩvai térã oĩ’ỹva. Ne marandurenda orekova’erã yta puruhára réra rendag̃ua, ñe’ẽñemi ha URL.
+about-logins-import-dialog-error-file-format-description = Yta yvatevegua oĩvai térã oĩ’ỹva. Ne marandurenda orekova’erã yta poruhára réra rendag̃ua, ñe’ẽñemi ha URL.
 about-logins-import-dialog-error-file-permission-title = Noñemoñe’ẽkuaái marandurenda
-about-logins-import-dialog-error-file-permission-description = { -brand-short-name } norekói moneĩ omoñe’ẽ hag̃ua marandurenda. Eipuru emoambuévo marandurenda ñemoneĩ.
+about-logins-import-dialog-error-file-permission-description = { -brand-short-name } norekói moneĩ omoñe’ẽ hag̃ua marandurenda. Eiporu emoambuévo marandurenda ñemoneĩ.
 about-logins-import-dialog-error-unable-to-read-title = Noñemomba’apokuaái marandurenda
 about-logins-import-dialog-error-unable-to-read-description = Eiporavo marandurenda CSV térã TSV.
 about-logins-import-dialog-error-no-logins-imported = Noñemba’eguerúi tembiapo ñepyrũ
 about-logins-import-dialog-error-learn-more = Kuaave
 about-logins-import-dialog-error-try-import-again = Eñeha’ã emba’eguerujey…
 about-logins-import-dialog-error-cancel = Heja
-
 about-logins-import-report-title = Mba’egueru Ñemomichĩ
 about-logins-import-report-description = Tembiapo ñepyrũ ha ñe’ẽñemi eguerupyre { -brand-short-name }-gui.
-
 #
 # Variables:
 #  $number (number) - The number of the row
