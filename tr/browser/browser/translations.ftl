@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = { $language } dilini her zaman çevir
 translations-panel-settings-always-translate-unknown-language =
     .label = Bu dili her zaman çevir
+translations-panel-settings-always-offer-translation =
+    .label = Her zaman çevirmeyi teklif et
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Çevrimdışı çeviri için dilleri indir.
 translations-manage-all-language = Tüm diller
 translations-manage-download-button = İndir
 translations-manage-delete-button = Sil
-translations-manage-language-download-button =
-    .label = İndir
-    .accesskey = i
-translations-manage-language-delete-button =
-    .label = Sil
-    .accesskey = S
 translations-manage-error-download = Dil dosyaları indirilirken bir sorun oluştu. Lütfen yeniden deneyin.
 translations-manage-error-delete = Dil dosyaları silinirken bir hata oluştu. Lütfen yeniden deneyin.
 translations-manage-intro = Dil ve site çevirisi tercihlerinizi ayarlayın, çevrimdışı çeviri için yüklenen dilleri yönetin.
