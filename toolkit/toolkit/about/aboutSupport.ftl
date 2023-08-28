@@ -77,6 +77,7 @@ app-basics-key-mozilla = Mozilla Konum Hizmeti anahtarı
 app-basics-safe-mode = Güvenli kip
 app-basics-memory-size = Bellek boyutu (RAM)
 app-basics-disk-available = Kullanılabilir disk alanı
+app-basics-pointing-devices = İşaretleme aygıtları
 # Variables:
 #   $value (number) - Amount of data being stored
 #   $unit (string) - The unit of data being stored (e.g. MB)
@@ -405,3 +406,5 @@ support-remote-features-status = Durum
 
 pointing-device-mouse = Fare
 pointing-device-touchscreen = Dokunmatik ekran
+pointing-device-pen-digitizer = Kalem sayısallaştırıcı
+pointing-device-none = İşaretleme aygıtı yok
