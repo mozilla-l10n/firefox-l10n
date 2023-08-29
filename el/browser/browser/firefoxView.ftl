@@ -25,11 +25,13 @@ firefoxview-tabpickup-progress-label = Ολοκλήρωση κατά { $percentV
 firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή μεταξύ συσκευών
 firefoxview-tabpickup-step-signin-description = Για να φέρετε τις καρτέλες του τηλεφώνου σας εδώ, κάντε πρώτα σύνδεση ή δημιουργήστε έναν λογαριασμό.
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
+firefoxview-syncedtabs-signin-header = Λάβετε καρτέλες από οπουδήποτε
 firefoxview-syncedtabs-signin-primarybutton = Σύνδεση ή εγγραφή
 firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
 firefoxview-tabpickup-adddevice-primarybutton = Λήψη του { -brand-product-name } για κινητά
+firefoxview-syncedtabs-adddevice-header = Συνδεθείτε στο { -brand-product-name } στις άλλες συσκευές σας
 firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρονισμού καρτελών
 firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
 firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
@@ -155,9 +157,11 @@ firefoxview-history-site-localhost = (τοπικά αρχεία)
 ##
 
 firefoxview-show-all-history = Εμφάνιση πλήρους ιστορικού
+firefoxview-view-more-browsing-history = Προβολή περισσότερου ιστορικού περιήγησης
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Επιστρέψτε εκεί που ήσασταν
 
 ##
 
