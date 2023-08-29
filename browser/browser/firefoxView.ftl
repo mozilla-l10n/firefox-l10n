@@ -171,9 +171,14 @@ firefoxview-history-empty-description = Καθώς περιηγείστε, οι 
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Επιλογή φυλλομετρητή
+    .title = Επιλογή φυλλομετρητή
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Δεν υπάρχουν δεδομένα
+firefoxview-dont-remember-history-empty-description-two = Με βάση τις τρέχουσες ρυθμίσεις σας, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητά σας κατά την περιήγηση. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">αλλάξτε τις ρυθμίσεις απομνημόνευσης του ιστορικού σας</a>.
 
 ##
 
@@ -185,6 +190,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Εισαγωγή ιστορικού από άλλο πρόγραμμα περιήγησης
+firefoxview-import-history-description = Κάντε το { -brand-short-name } το προεπιλεγμένο πρόγραμμα περιήγησής σας. Εισαγάγετε ιστορικό περιήγησης, σελιδοδείκτες και πολλά άλλα.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
