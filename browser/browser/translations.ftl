@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Cyfieithu { $language } bob tro
 translations-panel-settings-always-translate-unknown-language =
     .label = Cyfieithu'r iaith hon bob tro
+translations-panel-settings-always-offer-translation =
+    .label = Cynnig cyfieithu bob tro
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Llwythwch i lawr ieithoedd ar gyfer cyfieithu 
 translations-manage-all-language = Pob iaith
 translations-manage-download-button = Llwytho i Lawr
 translations-manage-delete-button = Dileu
-translations-manage-language-download-button =
-    .label = Llwytho i Lawr
-    .accesskey = L
-translations-manage-language-delete-button =
-    .label = Dileu
-    .accesskey = i
 translations-manage-error-download = Bu anhawster wrth lwytho'r ffeiliau iaith i lawr. Ceisiwch eto.
 translations-manage-error-delete = Bu gwall wrth ddileu'r ffeiliau iaith. Ceisiwch eto.
 translations-manage-intro = Gosodwch eich dewisiadau cyfieithu iaith a gwefan a rheoli ieithoedd sydd wedi'u gosod ar gyfer cyfieithu all-lein.
