@@ -48,7 +48,7 @@ profiles-delete-profile-title = Mba’ete Mboguete
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
     Emboguetérõ peteĩ mba’ete, ojepe’áta mba’ete ojepurukuaáva rysýigui ha ndaikatumo’ãi embojevyjey upe rire.
-    Ikatu avei eiporavo emboguete hag̃ua marandurenda mba’ete mba’ekuaarã, oikehápe iñembohekopyahu, mboajepyre ha ambue mba’ekuaarã puruhára rehegua. Ko poravopyrã omboguetéta ñongatuha “{ $dir }” ha ndaikatumo’ãi oñembojevyjey.
+    Ikatu avei eiporavo emboguete hag̃ua marandurenda mba’ete mba’ekuaarã, oikehápe iñembohekopyahu, mboajepyre ha ambue mba’ekuaarã poruhára rehegua. Ko poravopyrã omboguetéta ñongatuha “{ $dir }” ha ndaikatumo’ãi oñembojevyjey.
     Emboguesetépa marandurenda mba’ete mba’ekuaarã rehegua?
 profiles-delete-files = Marandurenda Mboguete
 profiles-dont-delete-files = Ani Remboguete Marandurenda

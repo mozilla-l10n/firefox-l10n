@@ -192,7 +192,7 @@ about-webrtc-configuration-element-provided = Me’ẽha
 # been provided
 about-webrtc-configuration-element-not-provided = Me’ẽ’ỹva
 # The options set by the user in about:config that could impact a WebRTC call
-about-webrtc-custom-webrtc-configuration-heading = WebRTC oguerohoryvéva puruhára moĩmbyre
+about-webrtc-custom-webrtc-configuration-heading = WebRTC oguerohoryvéva poruhára moĩmbyre
 # Section header for estimated bandwidths of WebRTC media flows
 about-webrtc-bandwidth-stats-heading = Ancho de banda jekuaa’ỹva
 # The ID of the MediaStreamTrack
@@ -228,8 +228,6 @@ about-webrtc-aec-logging-off-state-msg = marandurenda haipy japyhypyréva ikatu 
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Kuatiarogue ñeñongatuha: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Tapykueho jehaipy ikatu ejuhu amo: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Mopotĩha hendýva reko, haipy jehapykueho ápe: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -302,6 +300,9 @@ about-webrtc-sdp-set-timestamp = Aravochaukaha { NUMBER($timestamp, useGrouping:
 about-webrtc-show-msg-sdp = Ehechauka SDP
 about-webrtc-hide-msg-sdp = Eñomi SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -309,9 +310,6 @@ about-webrtc-hide-msg-sdp = Eñomi SDP
 about-webrtc-media-context-show-msg = Ehechauka momaranduhára rehegua
 about-webrtc-media-context-hide-msg = Eñomi momaranduhára rehegua
 about-webrtc-media-context-heading = Momaranduhára rehegua
-
-##
-
 
 ##
 

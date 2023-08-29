@@ -11,7 +11,7 @@ experimental-features-css-masonry-description = Embojuruja pe jokopytykuaa CSS M
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = Web API: WebGPU
-experimental-features-web-gpu-description3 = Ko <a data-l10n-name="wikipedia-webgpu">WebGPU API </a> ome’ẽta pytyvõ michĩva ejapo hag̃ua pe cálculo ha ta’ãnga moambuepyre eipurúvo ipyahúva <a data-l10n-name="wikipedia-gpu">Unidad de procesamiento de gráficos (GPU)</a> puruhára mohendaha térã mba’e’okápe. Pe <a data-l10n-name="spec">ha’etéva</a> peteĩháva osẽmbotaitéma. Eporandu pe <a data-l10n-name="bugzilla">bug 1616739</a> eikuaa porãve hag̃ua.
+experimental-features-web-gpu-description3 = Ko <a data-l10n-name="wikipedia-webgpu">WebGPU API </a> ome’ẽta pytyvõ michĩva ejapo hag̃ua pe cálculo ha ta’ãnga moambuepyre eiporúvo ipyahúva <a data-l10n-name="wikipedia-gpu">Unidad de procesamiento de gráficos (GPU)</a> poruhára mohendaha térã mba’e’okápe. Pe <a data-l10n-name="spec">ha’etéva</a> peteĩháva osẽmbotaitéma. Eporandu pe <a data-l10n-name="bugzilla">bug 1616739</a> eikuaa porãve hag̃ua.
 # The title of the experiment should be kept in English as it may be referenced
 # by various online articles and is technical in nature.
 experimental-features-media-jxl =

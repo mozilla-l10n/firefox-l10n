@@ -257,7 +257,7 @@ created-by-author = <a data-l10n-name="author">{ $author }</a> rupi
 # Shows the number of daily users of the add-on.
 # Variables:
 #   $dailyUsers (number) - The number of daily users.
-user-count = Puruhára: { $dailyUsers }
+user-count = Poruhára: { $dailyUsers }
 install-extension-button = Embojuaju { -brand-product-name }
 install-theme-button = Emohenda téma
 # The label of the button that appears after installing an add-on. Upon click,

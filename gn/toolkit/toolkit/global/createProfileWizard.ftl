@@ -13,13 +13,9 @@ create-profile-first-page-header2 =
         [macos] Moñepyrũ
        *[other] Eg̃uahẽporãite { create-profile-window2.title }-pe
     }
-
 profile-creation-explanation-1 = { -brand-short-name } oñongatu marandu ñembohekopyahu rehegua ha erororyvéva nemba’eteépe.
-
-profile-creation-explanation-2 = Emoherakuãrõ ko monguatia { -brand-short-name } mba’éva ambue puruhára ndive; ikatu oipuru mba’etee omboyke hag̃ua marandu peteĩteĩ puruhára mba’éva. Upevarã, peteĩteĩ puruhára omoheñói imba’eteerã.
-
+profile-creation-explanation-2 = Emoherakuãrõ ko monguatia { -brand-short-name } mba’éva ambue poruhára ndive; ikatu oiporu mba’etee omboyke hag̃ua marandu peteĩteĩ poruhára mba’éva. Upevarã, peteĩteĩ poruhára omoheñói imba’eteerã.
 profile-creation-explanation-3 = Neañomi eipurúramo ko monguatiapy { -brand-short-name } mba’éva, eguerekova’erã peteĩ mba’ete jepe. Eipotáramo, ikatu emoheñói hetaiterei mba’etee eñongatu hag̃ua heta ñembohekopyahu aty ha erohoryvéva. Techapyrãramo, ikatu eguerekose mba’etee moha’eñomby neañomi g̃uarã ha avei tembiapohápe g̃uarã.
-
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Emoheñói ñepyrũ hag̃ua nemba’ete, ejopy Jeku’ejey.
@@ -33,21 +29,15 @@ create-profile-last-page-header2 =
         [macos] Mohu’ã
        *[other] Emoĩmba { create-profile-window2.title }
     }
-
 profile-creation-intro = Emoheñoirõ heta mba’ete ikatu eikuaa héra rupi. Ikatu eipuru pe téra ome’ẽva kóva térã eiporavo ndete voi.
-
 profile-prompt = Emoinge mba’etee pyahu réra:
     .accesskey = E
-
 profile-default-name =
-    .value = Puruhára ijypykuéva
-
-profile-directory-explanation = Neñembohekopyahu puruhára, jerohoryvéva ha ambue mba’ekuaarã puruhára rehegua oñeñongatúta amo:
-
+    .value = Poruhára ijypykuéva
+profile-directory-explanation = Neñembohekopyahu poruhára, jerohoryvéva ha ambue mba’ekuaarã poruhára rehegua oñeñongatúta amo:
 create-profile-choose-folder =
     .label = Ñongatuha poravo…
     .accesskey = C
-
 create-profile-use-default =
     .label = Ñongatuha ijypykuéva jepuru
     .accesskey = U

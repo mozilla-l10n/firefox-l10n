@@ -5,8 +5,10 @@
 label-disable = Jepe’aite
 label-enable = Mbojuruja
 label-interventions = Jeikepaha
+# Variables:
+#   $bug (string) - Bug number
 label-more-information = Maranduve: javy { $bug }
-label-overrides = Puruhára rehegua jepe’aite
+label-overrides = Poruhára rehegua jepe’aite
 text-disabled-in-about-config = Ojepe’áma ko tembiapoite about:config rupi
 text-no-interventions = Ndojepuruihína jeikepaha
 text-no-overrides = Ndojepurúi AU pe’aha
