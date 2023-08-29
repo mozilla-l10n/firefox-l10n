@@ -55,8 +55,8 @@ cfr-doorhanger-extension-rating =
 #   $total (Number) - The total number of users using the add-on
 cfr-doorhanger-extension-total-users =
     { $total ->
-        [one] { $total } puruhára
-       *[other] { $total } puruhára
+        [one] { $total } poruhára
+       *[other] { $total } poruhára
     }
 
 ## Firefox Accounts Message
@@ -133,7 +133,7 @@ spotlight-public-wifi-vpn-link = Ani ko’ág̃a
 spotlight-better-internet-header = Ñanduti iporãváva oñepyrũ nendive
 spotlight-better-internet-body = Eipurúvo { -brand-short-name }, emoneĩ peteĩ ñanduti ijuruja ha hepy’ỹva iporãvéva opavave g̃uarã.
 spotlight-peace-mind-header = Ore romo’ãta
-spotlight-peace-mind-body = Jasy og̃uahẽvo, { -brand-short-name } ojoko hetave 3.000 tapykuehoha peteĩteĩ puruhárape. Avave, ha ãva kuápe oĩ omyangekóiva nde rekoñemi ha’éva tapykuehoha, ndoikeva’erãi nde ha nanduti pa’ũme.
+spotlight-peace-mind-body = Jasy og̃uahẽvo, { -brand-short-name } ojoko hetave 3.000 tapykuehoha peteĩteĩ poruhárape. Avave, ha ãva kuápe oĩ omyangekóiva nde rekoñemi ha’éva tapykuehoha, ndoikeva’erãi nde ha nanduti pa’ũme.
 spotlight-pin-primary-button =
     { PLATFORM() ->
         [macos] Ereko yrembe’ýpe
@@ -207,7 +207,7 @@ cfr-cbh-dismiss-button = Ani ko’ág̃a
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Roguereko ñemo’ãpe
-july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha puruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
+july-jam-body = Peteĩteĩva jasýpe, { -brand-short-name } ojoko hetave 3,000 tapykuehoha poruháragui, ome’ẽva jeike pya’e ha tekorosã Ñandutípe.
 july-jam-set-default-primary = Embojuruja juajuha { -brand-short-name } ndive
 fox-doodle-pin-headline = Eg̃uahẽporãjey
 # “indie” is short for the term “independent”.

@@ -18,4 +18,4 @@ webauthn-uv-invalid-long-prompt =
         [one] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
        *[other] Pe putuhára jehechajey ndoikói. Opyta ndéve { $retriesLeft } ejapo hag̃ua. Eha’ãjey ag̃ave.
     }
-webauthn-uv-invalid-short-prompt = Puruhára rechajey ndoikói. Eha’ã ag̃ave.
+webauthn-uv-invalid-short-prompt = Poruhára rechajey ndoikói. Eha’ã ag̃ave.

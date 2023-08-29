@@ -56,7 +56,7 @@ migration-bookmarks-option-label = Techaukaha
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Takate’ỹha
-migration-logins-and-passwords-option-label = Puruhára ha ñe’ẽñemi ñongatupyre
+migration-logins-and-passwords-option-label = Poruhára ha ñe’ẽñemi ñongatupyre
 migration-history-option-label = Kundaha rembiasakue
 migration-extensions-option-label = Jepysokue
 migration-form-autofill-option-label = Myanyhẽha henyhẽjeheguíva

@@ -409,7 +409,7 @@ update-setting-write-failure-title2 = Ojavy eñongatúvo mbohekopyahu ñemboheko
 # The newlines between the main text and the line containing the path is
 # intentional so the path is easier to identify.
 update-setting-write-failure-message2 =
-    { -brand-short-name } ojuhu jejavy ha noñongatúi ko moambue. Ehecháke ko ñembohekopyahu moĩporã oikotevẽha ñemoneĩ ehai hag̃ua marandurenda oĩmava ko’ág̃a guive. Nde térã ñangarekoha apopyvusu pegua omoĩporãkuaa jejavy eme’ẽvo Puruhára atýpe oñangarekóvo marandurendáre.
+    { -brand-short-name } ojuhu jejavy ha noñongatúi ko moambue. Ehecháke ko ñembohekopyahu moĩporã oikotevẽha ñemoneĩ ehai hag̃ua marandurenda oĩmava ko’ág̃a guive. Nde térã ñangarekoha apopyvusu pegua omoĩporãkuaa jejavy eme’ẽvo Poruhára atýpe oñangarekóvo marandurendáre.
     
     Ndaikatúi ojehai marandurendápe: { $path }
 update-in-progress-title = Oñembohekopyahuhína
@@ -754,7 +754,7 @@ sync-engine-tabs =
     .accesskey = T
 sync-engine-logins-passwords =
     .label = Tembiapo ñepyrũ ha ñe’ẽñemi
-    .tooltiptext = Puruhára réra ha ñe’ẽñemi ñongatupyre
+    .tooltiptext = Poruhára réra ha ñe’ẽñemi ñongatupyre
     .accesskey = L
 sync-engine-addresses =
     .label = Kundaharape
