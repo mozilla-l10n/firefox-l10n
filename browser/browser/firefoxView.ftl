@@ -41,6 +41,7 @@ firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
 firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοικτών καρτελών
 firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
 firefoxview-syncedtabs-synctabs-description = Για να δείτε καρτέλες από άλλες συσκευές, πρέπει να συγχρονίσετε τις ανοικτές καρτέλες σας.
+firefoxview-syncedtabs-synctabs-checkbox = Επιτρέψτε τον συγχρονισμό ανοικτών καρτελών
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
@@ -168,6 +169,7 @@ firefoxview-view-more-browsing-history = Προβολή περισσότερου
 
 firefoxview-history-empty-header = Επιστρέψτε εκεί που ήσασταν
 firefoxview-history-empty-description = Καθώς περιηγείστε, οι σελίδες που επισκέπτεστε θα εμφανίζονται εδώ.
+firefoxview-history-empty-description-two = Η προστασία του απορρήτου σας είναι στο επίκεντρο της αποστολής μας. Αυτός είναι ο λόγος για τον οποίο μπορείτε να ελέγξετε τη δραστηριότητα που απομνημονεύει το { -brand-short-name }, από τις <a data-l10n-name="history-settings-url">ρυθμίσεις ιστορικού</a>.
 
 ##
 
@@ -178,6 +180,7 @@ firefoxview-choose-browser-button = Επιλογή φυλλομετρητή
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Δεν υπάρχουν δεδομένα
+firefoxview-dont-remember-history-empty-description = Η προστασία του απορρήτου σας βρίσκεται στο επίκεντρο της αποστολής μας. Γι' αυτό, μπορείτε να ελέγξετε τη δραστηριότητα που απομνημονεύει το { -brand-short-name }.
 firefoxview-dont-remember-history-empty-description-two = Με βάση τις τρέχουσες ρυθμίσεις σας, το { -brand-short-name } δεν αποθηκεύει τη δραστηριότητά σας κατά την περιήγηση. Για να το αλλάξετε αυτό, <a data-l10n-name="history-settings-url-two">αλλάξτε τις ρυθμίσεις απομνημόνευσης του ιστορικού σας</a>.
 
 ##
