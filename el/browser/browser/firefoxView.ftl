@@ -26,16 +26,21 @@ firefoxview-tabpickup-step-signin-header = Απρόσκοπτη εναλλαγή
 firefoxview-tabpickup-step-signin-description = Για να φέρετε τις καρτέλες του τηλεφώνου σας εδώ, κάντε πρώτα σύνδεση ή δημιουργήστε έναν λογαριασμό.
 firefoxview-tabpickup-step-signin-primarybutton = Συνέχεια
 firefoxview-syncedtabs-signin-header = Λάβετε καρτέλες από οπουδήποτε
+firefoxview-syncedtabs-signin-description = Για να δείτε τις καρτέλες σας από όπου κι αν χρησιμοποιείτε το { -brand-product-name }, συνδεθείτε στον λογαριασμό σας. Εάν δεν έχετε λογαριασμό, θα σας καθοδηγήσουμε κατά την εγγραφή.
 firefoxview-syncedtabs-signin-primarybutton = Σύνδεση ή εγγραφή
 firefoxview-tabpickup-adddevice-header = Συγχρονισμός του { -brand-product-name } στις κινητές σας συσκευές
 firefoxview-tabpickup-adddevice-description = Κάντε λήψη του { -brand-product-name } για κινητές συσκευές και συνδεθείτε εκεί.
 firefoxview-tabpickup-adddevice-learn-how = Μάθετε πώς
 firefoxview-tabpickup-adddevice-primarybutton = Λήψη του { -brand-product-name } για κινητά
 firefoxview-syncedtabs-adddevice-header = Συνδεθείτε στο { -brand-product-name } στις άλλες συσκευές σας
+firefoxview-syncedtabs-adddevice-description = Για να δείτε τις καρτέλες σας από όπου κι αν χρησιμοποιείτε το { -brand-product-name }, συνδεθείτε από όλες τις συσκευές σας. Μάθετε πώς να <a data-l10n-name="url">συνδέσετε πρόσθετες συσκευές</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Δοκιμάστε το { -brand-product-name } για κινητές συσκευές
 firefoxview-tabpickup-synctabs-header = Ενεργοποίηση συγχρονισμού καρτελών
 firefoxview-tabpickup-synctabs-description = Επιτρέψτε στο { -brand-short-name } να κάνει κοινή χρήση καρτελών μεταξύ συσκευών.
 firefoxview-tabpickup-synctabs-learn-how = Μάθετε πώς
 firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοικτών καρτελών
+firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
+firefoxview-syncedtabs-synctabs-description = Για να δείτε καρτέλες από άλλες συσκευές, πρέπει να συγχρονίσετε τις ανοικτές καρτέλες σας.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
@@ -162,6 +167,7 @@ firefoxview-view-more-browsing-history = Προβολή περισσότερου
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Επιστρέψτε εκεί που ήσασταν
+firefoxview-history-empty-description = Καθώς περιηγείστε, οι σελίδες που επισκέπτεστε θα εμφανίζονται εδώ.
 
 ##
 
@@ -183,6 +189,8 @@ firefoxview-import-history-header = Εισαγωγή ιστορικού από �
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Κλείσατε κάποια καρτέλα πολύ νωρίς;
+firefoxview-recentlyclosed-empty-description = Εδώ θα βρείτε τις καρτέλες που κλείσατε πρόσφατα, ώστε να μπορέσετε να τις ανοίξετε ξανά πιο γρήγορα.
+firefoxview-recentlyclosed-empty-description-two = Για να βρείτε παλαιότερες καρτέλες, δείτε το <a data-l10n-name="history-url">ιστορικό περιήγησής</a> σας.
 
 ##
 
