@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Να μεταφράζονται πάντα τα { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Να μεταφράζεται πάντα αυτή η γλώσσα
+translations-panel-settings-always-offer-translation =
+    .label = Να γίνεται πάντα πρόταση για μετάφραση
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -70,6 +72,7 @@ translations-panel-translate-cancel =
     .label = Ακύρωση
 translations-panel-learn-more-link = Μάθετε περισσότερα
 translations-panel-intro-header = Δοκιμάστε ιδιωτικές μεταφράσεις στο { -brand-shorter-name }
+translations-panel-intro-description = Για το απόρρητό σας, οι μεταφράσεις δεν φεύγουν ποτέ από τη συσκευή σας. Σύντομα έρχονται νέες γλώσσες και βελτιώσεις!
 translations-panel-error-translating = Προέκυψε πρόβλημα με τη μετάφραση. Παρακαλώ δοκιμάστε ξανά.
 translations-panel-error-load-languages = Δεν ήταν δυνατή η φόρτωση των γλωσσών
 translations-panel-error-load-languages-hint = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο και δοκιμάστε ξανά.
@@ -125,6 +128,7 @@ translations-manage-download-button = Λήψη
 translations-manage-delete-button = Διαγραφή
 translations-manage-error-download = Προέκυψε πρόβλημα κατά τη λήψη του αρχείου γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-delete = Προέκυψε σφάλμα κατά τη διαγραφή των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
+translations-manage-intro = Ορίστε τις προτιμήσεις γλώσσας και μετάφρασης ιστοτόπων και διαχειριστείτε τις γλώσσες που έχουν εγκατασταθεί για μετάφραση εκτός σύνδεσης.
 translations-manage-install-description = Εγκατάσταση γλωσσών για μετάφραση εκτός σύνδεσης
 translations-manage-language-install-button =
     .label = Εγκατάσταση
@@ -136,6 +140,8 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Αφαίρεση όλων
     .accesskey = φ
+translations-manage-error-install = Προέκυψε πρόβλημα κατά την εγκατάσταση των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
+translations-manage-error-remove = Προέκυψε σφάλμα κατά τη αφαίρεση των αρχείων γλώσσας. Παρακαλώ δοκιμάστε ξανά.
 translations-manage-error-list = Αποτυχία λήψης της λίστας με τις διαθέσιμες γλώσσες για μετάφραση. Ανανεώστε τη σελίδα για να δοκιμάσετε ξανά.
 translations-settings-title =
     .title = Ρυθμίσεις μεταφράσεων
