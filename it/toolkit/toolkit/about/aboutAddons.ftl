@@ -305,6 +305,9 @@ addon-detail-homepage-label = Sito web
 addon-detail-rating-label = Voto
 # Message for add-ons with a staged pending update.
 install-postponed-message = Questa estensione verrà aggiornata al riavvio di { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Questa estensione verrà aggiornata al riavvio di { -brand-short-name }.
 install-postponed-button = Aggiorna adesso
 # The average rating that the add-on has received.
 # Variables:
