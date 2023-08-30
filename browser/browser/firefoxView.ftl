@@ -169,6 +169,7 @@ firefoxview-view-more-browsing-history = Vis meir nettlesarhistorikk
 
 firefoxview-history-empty-header = Gå tilbake til der du allereie har vore
 firefoxview-history-empty-description = Mens du surfar, vil sidene du besøkjer bli oppførte her.
+firefoxview-history-empty-description-two = Vern av personvernet ditt er kjernen i det vi gjer. Det er derfor du kan kontrollere aktiviteten { -brand-short-name } hugsar, i <a data-l10n-name="history-settings-url">innstillingane for historikk</a>.
 
 ##
 
