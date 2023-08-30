@@ -83,8 +83,12 @@ perftools-thread-img-decoder =
     .title = Vlákna pro dekódování obrázků
 perftools-thread-dns-resolver =
     .title = V tomto vklákně probíhá překlad DNS
+perftools-thread-task-controller =
+    .title = Vlákno souboru vláken TaskController
 perftools-thread-jvm-gecko =
     .title = Hlavní vlákno Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Hlavní vlákna pro experimentální sadu SDK Nimbus
 perftools-thread-jvm-glean =
     .title = Hlavní vlákna pro Glean telemetry SDK
 
