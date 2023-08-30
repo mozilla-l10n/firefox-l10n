@@ -248,6 +248,12 @@ discopane-notice-recommendations =
     Alcuni consigli in questa pagina sono personalizzati. Sono basati sulle
     estensioni già installate, le impostazioni del profilo e statistiche
     d’utilizzo.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Alcuni consigli in questa pagina sono personalizzati. Sono basati sulle
+        estensioni già installate, le impostazioni del profilo e statistiche
+        d’utilizzo.
 discopane-notice-learn-more = Ulteriori informazioni
 privacy-policy = Informativa sulla privacy
 # Refers to the author of an add-on, shown below the name of the add-on.
