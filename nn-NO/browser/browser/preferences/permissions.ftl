@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Unntak
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adressa til nettstaden
     .accesskey = a
-
 permissions-block =
     .label = Blokker
     .accesskey = B
-
 permissions-disable-etp =
     .label = Legg til unnatak
     .accesskey = L
-
 permissions-session =
     .label = Tillat for programøkta
     .accesskey = T
-
 permissions-allow =
     .label = Tillat
     .accesskey = T
-
 permissions-button-off =
     .label = Slå av
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Slå av kortvarig
     .accesskey = k
-
 permissions-site-name =
     .label = Nettside
-
 permissions-status =
     .label = Status
-
 permissions-remove =
     .label = Fjern nettsida
     .accesskey = F
-
 permissions-remove-all =
     .label = Fjern alle nettstadar
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Lagre endringar
     .buttonaccesskeyaccept = L
-
 permissions-autoplay-menu = Standard for alle nettstadar:
-
 permissions-searchbox =
     .placeholder = Søk på nettsida
-
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
-
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
-
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
     .value = Blokker
 permissions-capabilities-listitem-allow-session =
     .value = Tillat for programøkta
-
 permissions-capabilities-listitem-off =
     .value = Av
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Unntak - Berre HTTPS-modus
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Du kan slå av berre-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga for å sikre HTTPS for desse nettstadane. Unntak gjeld ikkje private vindauge.
+permissions-exceptions-https-only-desc2 = Du kan slå av kun-HTTPS-modus for bestemte nettstadar. { -brand-short-name } prøver ikkje å oppgradere tilkoplinga til sikker HTTPS for desse nettstadane.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Innstillingar - Høgtalarløyve
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Følgjande nettstadar har bedt om å velje ei lyd ut-eining. Du kan spesifisere kva for nettstadar som har lov til å velje ei lyd ut-eining.
-
 permissions-exceptions-doh-window =
     .title = Nettstadunntak for DNS-over-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name } vil ikkje bruke sikker DNS på desse nettstadane og underdomena deira.
-
 permissions-doh-entry-field = Skriv inn domenenamnet til nettstaden
     .accesskey = S
-
 permissions-doh-add-exception =
     .label = Legg til
     .accesskey = L
-
 permissions-doh-col =
     .label = Domene
-
 permissions-doh-remove =
     .label = Fjern
     .accesskey = F
-
 permissions-doh-remove-all =
     .label = Fjern alle
     .accesskey = e
