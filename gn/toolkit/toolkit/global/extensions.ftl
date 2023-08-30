@@ -25,7 +25,6 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Heja
     .accesskey = H
-
 webext-perms-sideload-text = Ambue tembiaporape ne mohendaha rehegua omohenda moĩmbaha ikatúva ombyai ne kundahára. Ehechajey mba’ejerure ñemoneĩguáva ko moĩmbaha pegua ha eiporavo Myendy térã Heja (eheja hag̃ua oñembotyhápe).
 webext-perms-sideload-text-no-perms = Ambue tembiaporape ne mohendaha rehegua omohenda moĩmbaha ikatúva ombyai ne kundahára. Ikatu piko eiporavo Myendy térã Heja (eheja hag̃ua oñembotyhápe).
 webext-perms-sideload-enable =
@@ -34,14 +33,12 @@ webext-perms-sideload-enable =
 webext-perms-sideload-cancel =
     .label = Heja
     .accesskey = H
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = Oñembohekopyahúma { $extension }. Emoneĩ pyahujeyva’erã emohenda hag̃ua apopyre oĩramovéva. Eiporavóramo “Heja” ohejáta moĩmbaha ko’ag̃agua. Ko jepysokue oñemoneĩta ojapo hag̃ua:
 webext-perms-update-accept =
     .label = Mbohekopyahu
     .accesskey = M
-
 webext-perms-optional-perms-list-intro = Eipota:
 webext-perms-optional-perms-allow =
     .label = Moneĩ
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Mbotove
     .accesskey = M
-
 webext-perms-host-description-all-urls = Eike ne mba’ekuaarãme opaite ñanduti rendápe g̃uarã
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Eike ne mba’ekuaarãme opaite ñanduti { $domain } mba’etévape
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Eike ne mba’ekuaarã { $domain }-pe g̃uarã
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -89,6 +82,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Ko moĩmbaha ome’ẽ { 
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    Tuichaháicha, ha’ehína mba’e’oka mba’epu sintetizadores, hákatu avei ojuaju ne mohendaháre.
+    
+    Hetajey, umi ñanduti renda ndoikekuaái MIDI mba’e’okápe. Ndojepuruporãiramo ikatu ombyai térã omohekochi’ĩ tekorosã.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
