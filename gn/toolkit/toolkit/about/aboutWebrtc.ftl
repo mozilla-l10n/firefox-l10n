@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC haipy moñepyrũ
 about-webrtc-aec-logging-on-state-label = AEC haipy jejoko
 about-webrtc-aec-logging-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
 about-webrtc-aec-logging-toggled-on-state-msg = Haipy AEC japyhypyre (eñe’ẽ pe tapicha ohenóiva sapy’aitemi ndive ha upéi opytáma pe japyhypyre)
+about-webrtc-aec-logging-unavailable-sandbox = Tekotevẽ pe ambuepy MOZ_DISABLE_CONTENT_SANDBOX=1 jerére emba’ereraha hag̃ua AEC mboheraguapy. Emboheko ko ambuepy eikumby añetérõ apañuãikuaa añoite.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Marandurenda haipy japyhypyréva ikatu ejuhu amo: { $path }
