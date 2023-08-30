@@ -54,6 +54,14 @@ about-glean-manual-testing =
 about-glean-no-ping-label = (aníke emondo ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = Kora mboyvegua, ehecháke toĩ ñemboguaha reramoĩ hasy’ỹva iñemomandu’a eikuaa porã hag̃ua pings tenondeve.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Eiporavo tysýi mboyveguávape ping oĩhápe hembiaporãite.
+    Reimérõ <a data-l10n-name="custom-ping-link">ping mba’eteéva</a> ndive, eiporavo péva.
+    Péicha ndoikóirõ, tepykue ijypyguáva ñeha’ãha <code>event</code> ha’e ping <code>events</code>
+    ha tepykue ijypyguáva opaite ñeha’ãha ha’e
+    ping <code>metrics</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Jeporavokuaáva. Emongurusu tenda’i hasaramóva eipotáramo umi ping oñemboheraguapy oñemondo vove.
