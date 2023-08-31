@@ -250,6 +250,9 @@ header-back-button =
 discopane-intro = Додаци и теме су попут апликација за прегледач и омогућавају вам да заштитите лозинке, преузимате видео-снимке, блокирате досадне рекламе, промените изглед прегледача и још много тога. Њих често развијају независни програмери. { -brand-product-name } <a data-l10n-name="learn-more-trigger">препоручује</a> следеће додатке и теме за изузетну безбедност, перформансе и функционалност.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Неке од ових препорука се заснивају на инсталираним додацима, подешавањима из профила и статистици употребе.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Неке од ових препорука се заснивају на инсталираним додацима, подешавањима из профила и статистици употребе.
 discopane-notice-learn-more = Сазнајте више
 privacy-policy = Политика приватности
 # Refers to the author of an add-on, shown below the name of the add-on.
