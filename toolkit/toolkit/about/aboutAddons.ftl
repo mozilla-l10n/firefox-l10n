@@ -114,9 +114,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Semua add-ons telah dinyahdayakan oleh mod selamat.
 extensions-warning-check-compatibility = Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.
+extensions-warning-safe-mode2 =
+    .message = Semua add-ons telah dinyahdayakan oleh mod selamat.
+extensions-warning-check-compatibility2 =
+    .message = Pemeriksaan kesesuaian add-on telah dinyahdayakan. Anda mungkin mempunyai add-on yang tidak sesuai.
 extensions-warning-check-compatibility-button = Dayakan
     .title = Dayakan semakan kesesuaian add-on
 extensions-warning-update-security = Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.
+extensions-warning-update-security2 =
+    .message = Semakan keselamatan kemaskini add-on telah dinyahdayakan. Anda mungkin terdedah kepada bahaya ketika mengemaskini.
 extensions-warning-update-security-button = Dayakan
     .title = Dayakan semakan keselamatan kemaskini add-on
 
