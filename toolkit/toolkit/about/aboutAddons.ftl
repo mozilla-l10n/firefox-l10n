@@ -313,6 +313,9 @@ addon-detail-homepage-label = Startowy bok
 addon-detail-rating-label = Pógódnośenje
 # Message for add-ons with a staged pending update.
 install-postponed-message = Toś to rozšyrjenje buźo se aktualizěrowaś, gaž se { -brand-short-name } znowego startujo.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Toś to rozšyrjenje buźo se aktualizěrowaś, gaž se { -brand-short-name } znowego startujo.
 install-postponed-button = Něnto aktualizěrowaś
 # The average rating that the add-on has received.
 # Variables:
