@@ -136,9 +136,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = النمط الآمن عطّل جميع الإضافات.
 extensions-warning-check-compatibility = التحقق من توافقية الإضافات قد عُطّل. قد يكون لديك إضافات غير متوافقة.
+extensions-warning-safe-mode2 =
+    .message = النمط الآمن عطّل جميع الإضافات.
+extensions-warning-check-compatibility2 =
+    .message = التحقق من توافقية الإضافات قد عُطّل. قد يكون لديك إضافات غير متوافقة.
 extensions-warning-check-compatibility-button = فعّل
     .title = فعّل التحقق من توافقية الإضافات
 extensions-warning-update-security = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
+extensions-warning-update-security2 =
+    .message = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
 extensions-warning-update-security-button = فعّل
     .title = فعّل التحقق من أمن تحديثات الإضافات
 
