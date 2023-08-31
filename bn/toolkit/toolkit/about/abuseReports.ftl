@@ -58,6 +58,8 @@ abuse-report-messagebar-removed-extension2 =
     .message = রিপোর্ট জমা দেওয়ার জন্য আপনাকে ধন্যবাদ। আপনি { $addon-name } এক্সটেনশনটি অপসারণ করেছেন।
 abuse-report-messagebar-removed-theme2 =
     .message = রিপোর্ট জমা দেওয়ার জন্য আপনাকে ধন্যবাদ। আপনি { $addon-name } থিমটি অপসারণ করেছেন।
+abuse-report-messagebar-error2 =
+    .message = { $addon-name } এর রিপোর্ট জমা দেওয়ার সময় এখানে সমস্যা ছিল।
 abuse-report-messagebar-error-recent-submit2 =
     .message = { $addon-name } এর রিপোর্ট পাঠানো হয়নি কারণ সম্প্রতি অন্য একটি রিপোর্ট পাঠানো হয়েছে।
 
