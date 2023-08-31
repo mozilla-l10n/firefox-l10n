@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Ativar
     .title = Ativar verificação de segurança de atualização do extra
 extensions-warning-imported-addons = Por favor, finalize a instalação das extensões que foram importadas para o { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Por favor, finalize a instalação das extensões que foram importadas para o { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar Extensões
 
 ## Strings connected to add-on updates
