@@ -163,6 +163,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Gaitu
     .title = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
 extensions-warning-imported-addons = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
+extensions-warning-imported-addons2 =
+    .message = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
 extensions-warning-imported-addons-button = Instalatu hedapenak
 
 ## Strings connected to add-on updates
