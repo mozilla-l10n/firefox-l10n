@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Activar
     .title = Activar il test da segirezza per l'actualisaziun da supplements
 extensions-warning-imported-addons = Finescha per plaschair l'installaziun da las extensiuns importadas en { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Finescha per plaschair l'installaziun da las extensiuns importadas en { -brand-short-name }.
 extensions-warning-imported-addons-button = Installar las extensiuns
 
 ## Strings connected to add-on updates
