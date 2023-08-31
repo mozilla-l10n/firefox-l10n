@@ -156,9 +156,13 @@ addon-sitepermission-host = Tisirag n usmel i { $host }
 
 extensions-warning-safe-mode = Armad n izegrar yekkes-it uskar aɣalsan.
 extensions-warning-check-compatibility = Asenqed n umṣada n izegrar ur yermid ara. Yezmer ad tesɛuḍ izegrar ur yemṣadan ara.
+extensions-warning-safe-mode2 =
+    .message = Armad n izegrar yekkes-it uskar aɣalsan.
 extensions-warning-check-compatibility-button = Rmed
     .title = Rmed asenqed n tisiḍent
 extensions-warning-update-security = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
+extensions-warning-update-security2 =
+    .message = Asenqed n ileqman n tɣellist n izegrar ur yermid ara. Yezmer ad tesɛuḍ yir izegrar.
 extensions-warning-update-security-button = Rmed
     .title = Rmed asenqed n ileqman n tɣellist i yezgrar isemmadanen
 
