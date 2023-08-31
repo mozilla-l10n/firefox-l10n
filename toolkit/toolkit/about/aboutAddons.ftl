@@ -440,13 +440,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = Dodatek „{ $name }” jest niezgodny z programem { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Dodatek „{ $name }” jest niezgodny z programem { -brand-short-name } { $version }.
 details-notification-incompatible-link = Więcej informacji
 details-notification-unsigned-and-disabled = Dodatek „{ $name }” nie mógł zostać zweryfikowany do użytku w programie { -brand-short-name } i został wyłączony.
+details-notification-unsigned-and-disabled2 =
+    .message = Dodatek „{ $name }” nie mógł zostać zweryfikowany do użytku w programie { -brand-short-name } i został wyłączony.
 details-notification-unsigned-and-disabled-link = Więcej informacji
 details-notification-unsigned = Dodatek „{ $name }” nie mógł zostać zweryfikowany do użytku w programie { -brand-short-name }. Ostrożnie.
+details-notification-unsigned2 =
+    .message = Dodatek „{ $name }” nie mógł zostać zweryfikowany do użytku w programie { -brand-short-name }. Ostrożnie.
 details-notification-unsigned-link = Więcej informacji
 details-notification-blocked = Dodatek { $name } został wyłączony z powodu problemów z bezpieczeństwem lub stabilnością.
+details-notification-blocked2 =
+    .message = Dodatek { $name } został wyłączony z powodu problemów z bezpieczeństwem lub stabilnością.
 details-notification-blocked-link = Więcej informacji
 details-notification-softblocked = Dodatek „{ $name }” został zgłoszony jako powodujący problemy z bezpieczeństwem lub stabilnością.
+details-notification-softblocked2 =
+    .message = Dodatek „{ $name }” został zgłoszony jako powodujący problemy z bezpieczeństwem lub stabilnością.
 details-notification-softblocked-link = Więcej informacji
 details-notification-gmp-pending = Dodatek „{ $name }” zostanie wkrótce zainstalowany.
+details-notification-gmp-pending2 =
+    .message = Dodatek „{ $name }” zostanie wkrótce zainstalowany.
