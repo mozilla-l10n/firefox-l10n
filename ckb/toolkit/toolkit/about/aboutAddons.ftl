@@ -126,6 +126,8 @@ addon-category-recent-updates-title =
 ## These are global warnings
 
 extensions-warning-safe-mode = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
+extensions-warning-safe-mode2 =
+    .message = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
 extensions-warning-check-compatibility-button = چالاک
     .title = چێکردنی گونجاندنی پێوکراو چالاک بکە
 extensions-warning-update-security-button = چالاک
