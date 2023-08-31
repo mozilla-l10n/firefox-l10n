@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Включить
     .title = Включить проверку безопасного обновления дополнений
 extensions-warning-imported-addons = Пожалуйста, завершите установку расширений, которые были импортированы в { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Пожалуйста, завершите установку расширений, которые были импортированы в { -brand-short-name }.
 extensions-warning-imported-addons-button = Установка расширений
 
 ## Strings connected to add-on updates
