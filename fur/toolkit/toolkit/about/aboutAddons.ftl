@@ -231,6 +231,11 @@ shortcuts-duplicate = Scurte duplicade
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = La cumbinazion { $shortcut } e je doprade tant che scurte in plui di un câs. Lis scurtis doplis a puedin causâ compuartaments inspietâts.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = La cumbinazion { $shortcut } e je doprade tant che scurte in plui di un câs. Lis scurtis doplis a puedin causâ compuartaments inspietâts.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
