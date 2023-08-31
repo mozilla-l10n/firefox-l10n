@@ -111,6 +111,8 @@ extensions-warning-check-compatibility = Provjera kompatibilnosti add-ona je one
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeravanje kompatibilnosti add-ona
 extensions-warning-update-security = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
+extensions-warning-update-security2 =
+    .message = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
 extensions-warning-update-security-button = Omogući
     .title = Omogući provjeravanje sigurnosti nadogradnje add-ona
 
