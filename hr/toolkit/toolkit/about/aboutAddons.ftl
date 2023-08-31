@@ -243,6 +243,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Neki prijedlozi su specifični za tebe, jer se temelje na drugim već instaliranim
     proširenjima, na postavkama profila ili na statistici korištenja.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Neki prijedlozi su specifični za tebe, jer se temelje na drugim već instaliranim
+        proširenjima, na postavkama profila ili na statistici korištenja.
 discopane-notice-learn-more = Saznaj više
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
