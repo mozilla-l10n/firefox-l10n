@@ -307,6 +307,9 @@ addon-detail-homepage-label = Pagina initial
 addon-detail-rating-label = Evalutation
 # Message for add-ons with a staged pending update.
 install-postponed-message = Iste extension essera actualisate quando { -brand-short-name } reinitia.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Iste extension essera actualisate quando { -brand-short-name } reinitia.
 install-postponed-button = Actualisar ora
 # The average rating that the add-on has received.
 # Variables:
