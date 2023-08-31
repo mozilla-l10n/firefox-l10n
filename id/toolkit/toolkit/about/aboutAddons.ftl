@@ -248,6 +248,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Beberapa rekomendasi ini dipersonalisasi. Rekomendasi tersebut didasarkan pada ekstensi lain
     yang Anda pasang, preferensi profil, dan statistik penggunaan.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Beberapa rekomendasi ini dipersonalisasi. Rekomendasi tersebut didasarkan pada ekstensi lain
+        yang Anda pasang, preferensi profil, dan statistik penggunaan.
 discopane-notice-learn-more = Pelajari lebih lanjut
 privacy-policy = Kebijakan Privasi
 # Refers to the author of an add-on, shown below the name of the add-on.
