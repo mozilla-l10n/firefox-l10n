@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = رپورٹ جمع کراوݨ د
 abuse-report-messagebar-removed-theme = رپورٹ جمع کراوݨ دا شکریہ۔ تہاݙے تھیم <span data-l10n-name="addon-name">{ $addon-name }</span> کوں ہٹا ݙتا ہے۔
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> کیتے رپورٹ بھیڄݨ وِچ ہک خرابی ہئی۔
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> دی رپورٹ نہیں بھیڄی ڳئی کیوں جو حالیہ ہک ٻئی رپورٹ جمع کرائی ڳئی ہئی۔
+abuse-report-messagebar-aborted2 =
+    .message = { $addon-name } دی رپورٹ منسوخ کر ݙتی ڳئی ہے۔
+abuse-report-messagebar-submitting2 =
+    .message = { $addon-name } کیتے رپورٹ بھیڄی ویندی پئی ہے۔
+abuse-report-messagebar-submitted2 =
+    .message = رپورٹ جمع کراوݨ دا شکریہ۔ کیا تساں { $addon-name } کوں ہٹاوݨ چاہندے او؟
+abuse-report-messagebar-submitted-noremove2 =
+    .message = رپورٹ جمع کراوݨ دا شکریہ۔
+abuse-report-messagebar-removed-extension2 =
+    .message = رپورٹ جمع کراوݨ دا شکریہ۔ تہاݙے ایکسٹینشن { $addon-name } کوں ہٹا ݙتا ہے۔
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = رپورٹ جمع کراوݨ دا شکریہ۔ تہاݙے سائٹ پرمیشنز ایڈ آن { $addon-name } کوں ہٹا ݙتا ہے۔
+abuse-report-messagebar-removed-theme2 =
+    .message = رپورٹ جمع کراوݨ دا شکریہ۔ تہاݙے تھیم { $addon-name } کوں ہٹا ݙتا ہے۔
+abuse-report-messagebar-error2 =
+    .message = { $addon-name } کیتے رپورٹ بھیڄݨ وِچ ہک خرابی ہئی۔
+abuse-report-messagebar-error-recent-submit2 =
+    .message = { $addon-name } دی رپورٹ نہیں بھیڄی ڳئی کیوں جو حالیہ ہک ٻئی رپورٹ جمع کرائی ڳئی ہئی۔
 
 ## Message bars actions.
 
