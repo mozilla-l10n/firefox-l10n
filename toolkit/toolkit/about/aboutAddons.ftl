@@ -222,6 +222,9 @@ header-back-button =
 discopane-intro = දිගු සහ තේමා ඔබගේ අතිරික්සුව සඳහා යෙදුම් වැනිය, ඒවා මුරපද ආරක්‍ෂා කිරීමට, දෘශ්‍යක බාගැනීමට, ගනුදෙනු සොයා ගැනීමට, කරදරකාරී දැන්වීම් අවහිර කිරීමට, ඔබගේ අතිරික්සුවේ පෙනුම වෙනස් කිරීමට සහ තවත් බොහෝ දෑ සඳහා උපකාරී වේ. මෙවැනි කුඩා මෘදුකාංග බොහෝ විට තෙවන පාර්ශ්ව විසින් සංවර්ධනය කරයි. මෙය { -brand-product-name } <a data-l10n-name="learn-more-trigger">නිර්දේශ කරන</a> ආරක්‍ෂාව, කාර්ය සාධනය සහ ක්‍රියාකාරීත්‍වයට විශේෂිත තේරීමකි.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = මෙම නිර්දේශවලින් ඇතැම් දෑ පුද්ගලීකරණය කර ඇත. ඒවා ඔබ ස්ථාපනය කර තිබෙන වෙනත් දිගු, පැතිකඩ අභිප්‍රේත සහ භාවිත සංඛ්‍යාලේඛන මත පදනම් වේ.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = මෙම නිර්දේශවලින් ඇතැම් දෑ පුද්ගලීකරණය කර ඇත. ඒවා ඔබ ස්ථාපනය කර තිබෙන වෙනත් දිගු, පැතිකඩ අභිප්‍රේත සහ භාවිත සංඛ්‍යාලේඛන මත පදනම් වේ.
 discopane-notice-learn-more = තව දැනගන්න
 privacy-policy = රහස්‍යතා ප්‍රතිපත්තිය
 # Shows the number of daily users of the add-on.
