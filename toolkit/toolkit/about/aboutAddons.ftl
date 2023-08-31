@@ -256,6 +256,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
     estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
+        estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
 discopane-notice-learn-more = Dysgu rhagor
 privacy-policy = Polisi Preifatrwydd
 # Refers to the author of an add-on, shown below the name of the add-on.
