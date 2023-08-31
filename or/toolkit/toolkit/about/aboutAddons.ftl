@@ -170,9 +170,17 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ଟି  { -brand-short-name } { $version } ସହିତ ସୁସଂଗତ ନୁହଁ
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } ଟି  { -brand-short-name } { $version } ସହିତ ସୁସଂଗତ ନୁହଁ
 details-notification-blocked = { $name } କୁ ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟାଗୁଡ଼ିକ କାରଣରୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
+details-notification-blocked2 =
+    .message = { $name } କୁ ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟାଗୁଡ଼ିକ କାରଣରୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
 details-notification-blocked-link = ଅଧିକ ସୂଚନା
 details-notification-softblocked = { $name } ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟା ଘଟାଇଥିବାର ଜଣାପଡ଼ିଛି।
+details-notification-softblocked2 =
+    .message = { $name } ସୁରକ୍ଷା କିମ୍ବା ସ୍ଥାୟୀତ୍ୱ ସମସ୍ୟା ଘଟାଇଥିବାର ଜଣାପଡ଼ିଛି।
 details-notification-softblocked-link = ଅଧିକ ସୂଚନା
 details-notification-gmp-pending = { $name } ଖୁବ ଚଞ୍ଚଳ ଇନଷ୍ଟଲ ହେବ ।
 details-notification-gmp-pending2 =
