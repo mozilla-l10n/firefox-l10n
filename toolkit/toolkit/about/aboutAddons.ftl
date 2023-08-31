@@ -313,6 +313,9 @@ addon-detail-homepage-label = Startowa strona
 addon-detail-rating-label = Pohódnoćenje
 # Message for add-ons with a staged pending update.
 install-postponed-message = Tute rozšěrjenje budźe so aktualizować, hdyž so { -brand-short-name } znowa startuje.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Tute rozšěrjenje budźe so aktualizować, hdyž so { -brand-short-name } znowa startuje.
 install-postponed-button = Nětko aktualizować
 # The average rating that the add-on has received.
 # Variables:
