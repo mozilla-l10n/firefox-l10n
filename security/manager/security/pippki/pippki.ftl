@@ -35,11 +35,20 @@ download-cert-view-text = CA प्रमाणपत्र जाँच गर�
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = प्रयोगकर्ता पहिचान अनुरोध
 client-auth-site-description = यो साइटले तपाईलाई आफूलाई एउटा प्रमाणपत्र सहित पहिचान गर्न आग्रह गरेको छ।
 client-auth-choose-cert = पहिचानका रूपमा प्रस्तुत गर्न एउटा प्रमाणपत्र छनोट गर्नुहोस्:
 client-auth-cert-details = चयन भएको प्रमाणपत्र को विवरण:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = { $issuedTo } को लागि जारी गरिएको
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = क्रम संख्या: { $serialNumber }
 
 ## Set password (p12) dialog
 
@@ -51,8 +60,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र जगेडा गोप्यशब्द(पुनः):
 set-password-reminder = महत्वपूर्ण: तपाईँले आफ्नो प्रमाणपत्रको जगेडा गोप्यशब्द बिर्सनुभयो भने, तपाईँले यो जगेडालाई पछि पुनः भण्डारण गर्न सक्नुहुन्न। कृपया यसलाई सुरक्षित स्थानमा रेकर्ड गर्नुहोस्।
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
