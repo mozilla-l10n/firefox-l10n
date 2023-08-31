@@ -155,6 +155,8 @@ addon-sitepermission-host = Website-Berechtigungen für { $host }
 
 extensions-warning-safe-mode = Alle Add-ons wurden durch den Abgesicherten Modus deaktiviert.
 extensions-warning-check-compatibility = Die Addon-Kompatibilitäts-Prüfung ist deaktiviert. Sie könnten inkompatible Add-ons haben.
+extensions-warning-safe-mode2 =
+    .message = Alle Add-ons wurden durch den Abgesicherten Modus deaktiviert.
 extensions-warning-check-compatibility-button = Aktivieren
     .title = Addon-Kompatibilitäts-Prüfung aktivieren
 extensions-warning-update-security = Die Überprüfung der Sicherheit von Add-on-Updates ist deaktiviert. Ihre Sicherheit könnte durch Updates kompromittiert worden sein.
