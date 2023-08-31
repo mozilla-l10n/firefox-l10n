@@ -189,6 +189,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Níl { $name } comhoiriúnach le { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Níl { $name } comhoiriúnach le { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name } agus díchumasaíodh é.
 details-notification-unsigned-and-disabled2 =
     .message = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name } agus díchumasaíodh é.
@@ -198,8 +202,12 @@ details-notification-unsigned2 =
     .message = Níorbh fhéidir { $name } a fhíorú le húsáid in { -brand-short-name }. Oibriú leat go faichilleach.
 details-notification-unsigned-link = Tuilleadh Eolais
 details-notification-blocked = Tá { $name } díchumasaithe mar gheall ar fhadhbanna slándála nó cobhsaíochta.
+details-notification-blocked2 =
+    .message = Tá { $name } díchumasaithe mar gheall ar fhadhbanna slándála nó cobhsaíochta.
 details-notification-blocked-link = Tuilleadh Eolais
 details-notification-softblocked = Tá { $name } freagrach as fadhbanna slándála nó cobhsaíochta.
+details-notification-softblocked2 =
+    .message = Tá { $name } freagrach as fadhbanna slándála nó cobhsaíochta.
 details-notification-softblocked-link = Tuilleadh Eolais
 details-notification-gmp-pending = Suiteálfar { $name } ar ball beag.
 details-notification-gmp-pending2 =
