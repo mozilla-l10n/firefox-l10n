@@ -383,6 +383,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = Digeverlec’h eo { $name } gant { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Digeverlec’h eo { $name } gant { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
 details-notification-unsigned-and-disabled2 =
     .message = N'haller ket gwiriekaat arver { $name } e { -brand-short-name } ha diweredekaet eo bet.
