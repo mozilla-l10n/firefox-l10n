@@ -237,8 +237,12 @@ addon-page-options-button =
 #   $version (String): application version.
 details-notification-incompatible = { $name } એ { -brand-short-name } { $version } સાથે અસુસંગત છે.
 details-notification-unsigned-and-disabled = { -brand-short-name } માં { $name } ઉપયોગ માટે ચકાસણી કરી શકાઈ નથી અને તે અક્ષમ કરવામાં આવ્યું છે.
+details-notification-unsigned-and-disabled2 =
+    .message = { -brand-short-name } માં { $name } ઉપયોગ માટે ચકાસણી કરી શકાઈ નથી અને તે અક્ષમ કરવામાં આવ્યું છે.
 details-notification-unsigned-and-disabled-link = વધુ મહિતી
 details-notification-unsigned = { -brand-short-name } માં ઉપયોગ માટે { $name } ચકાસવામાં આવી શક્યું નથી. સાવધાની સાથે આગળ વધો.
+details-notification-unsigned2 =
+    .message = { -brand-short-name } માં ઉપયોગ માટે { $name } ચકાસવામાં આવી શક્યું નથી. સાવધાની સાથે આગળ વધો.
 details-notification-unsigned-link = વધુ મહિતી
 details-notification-blocked = સુરક્ષા અથવા સ્થિરતા સમસ્યાઓ દરમ્યાન { $name } ને નિષ્ક્રિય કરી દેવામાં આવ્યો છે.
 details-notification-blocked-link = વધારે જાણકારી
