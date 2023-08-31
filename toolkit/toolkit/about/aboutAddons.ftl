@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = অ্যাড-অন ব্যবস্থাপক
-
 search-header =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
     .searchbuttonlabel = অনুসন্ধান
@@ -11,74 +10,54 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = আপনার এই ধরণের কোনো অ্যাড-অন ইনস্টল করা নেই
-
 list-empty-available-updates =
     .value = কোনো হালনাগাদ পাওয়া যায়নি
-
 list-empty-recent-updates =
     .value = আপনি সাম্প্রতিক সময়ে কোনো অ্যাড-অন হালনাগাদ করেননি
-
 list-empty-find-updates =
     .label = হালনাগাদের জন্য পরীক্ষা
-
 list-empty-button =
     .label = অ্যাড-অন সম্পর্কে আরও শিখুন
-
 help-button = অ্যাড-অন সহযোগীতা
 sidebar-help-button-title =
     .title = অ্যাড-অন সহযোগীতা
-
 show-unsigned-extensions-button =
     .label = কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি
-
 show-all-extensions-button =
     .label = সব এক্সটেনশন দেখাও
-
 detail-version =
     .label = সংস্করণ
-
 detail-last-updated =
     .label = সর্বশেষ হালনাগাদ
-
 detail-contributions-description = এ অ্যাড-অন ডেভেলপার বলে যে, আপনি আপনার যে কোনো ছোট অবদান দিয়েও এই অ্যাড-অনের উন্নয়নে সহায়তা করতে পারেন।
-
 detail-update-type =
     .value = স্বয়ংক্রিয় হালনাগাদ
-
 detail-update-default =
     .label = ডিফল্ট
     .tooltiptext = ডিফল্ট হলেই কেবল স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে
-
 detail-update-automatic =
     .label = সচল
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে
-
 detail-update-manual =
     .label = বন্ধ
     .tooltiptext = স্বয়ংক্রিয়ভাবে হালনাগাদ ইনস্টল করা হবে না
-
 detail-home =
     .label = নীড়পাতা
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = অ্যাড-অন প্রোফাইল
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = হালনাগাদের জন্য পরীক্ষা
     .accesskey = f
     .tooltiptext = এই অ্যাড-অনের জন্য হালনাগাদ পরীক্ষা
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -95,31 +74,20 @@ detail-show-preferences =
             [windows] এই অ্যাড-অন এর অপশন পরিবর্তন করুন
            *[other] এই অ্যাড-অন এর পছন্দসমূহ পরিবর্তন করুন
         }
-
 detail-rating =
     .value = রেটিং
-
 addon-restart-now =
     .label = এখন পুনরায় শুরু করুন
-
 disabled-unsigned-heading =
     .value = কিছু অ্যাড-অন নিস্ক্রিয় করা হয়েছে
-
 disabled-unsigned-description = নিম্নলিখিত অ্যাড-অনসমূহ { -brand-short-name } ব্যবহারের জন্য যাচাই করা হয় নি। আপনি যা করতে পারেন <label data-l10n-name="find-addons">প্রতিস্থাপন খুঁজুন</label> অথবা ডেভেলপার কে জিজ্ঞাসা করুন যাচাই করার জন্য
-
 disabled-unsigned-learn-more = আপনাকে অনলাইনে নিরাপদ রাখতে সাহায্য করতে আমাদের প্রচেষ্টা সম্পর্কে আরও জানুন.
-
 disabled-unsigned-devinfo = পড়ার অবিরত করতে পারেন যাচাই তাদের অ্যাড টার্ন পেতে আগ্রহী ডেভেলপারদের আমাদের <label data-l10n-name="learn-more">ম্যানুয়াল</label>।
-
 plugin-deprecation-description = কোন কিছু পাওয়া যাচ্ছে না? কোন কোন প্লাগইন { -brand-short-name } আর সমর্থন করে না। <label data-l10n-name="learn-more">আরও জানুন।</label>
-
 legacy-warning-show-legacy = সব পুরাতন এক্সটেনশন দেখাও
-
 legacy-extensions =
     .value = লিগ্যাসি এক্সটেনশন
-
 legacy-extensions-description = এই এক্সটেনশন বর্তমান { -brand-short-name } মান পূরণ করে না তাই তাদের নিষ্ক্রিয় করা হয়েছে। <label data-l10n-name="legacy-learn-more">অ্যাড-অন এ পরিবর্তন সম্পর্কে আরও জানুন</label>
-
 addon-category-extension = এক্সটেনশন
 addon-category-extension-title =
     .title = এক্সটেনশন
@@ -212,11 +180,13 @@ enable-addon-button = সক্রিয়
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -225,16 +195,10 @@ theme-heading = আপনার থিম ব্যবস্থাপনা
 plugin-heading = আপনার প্লাগইন ব্যবস্থাপনা
 dictionary-heading = আপনার অভিধান ব্যবস্থাপনা
 locale-heading = আপনার ভাষা ব্যবস্থাপনা
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org এ অনুসন্ধান করুন
-
 addon-page-options-button =
     .title = সব অ্যাড-অন এর জন্য টুল
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -243,17 +207,18 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
-
 details-notification-unsigned-and-disabled = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
 details-notification-unsigned-and-disabled-link = আরও তথ্য
-
 details-notification-unsigned = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
+details-notification-unsigned2 =
+    .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
 details-notification-unsigned-link = আরও তথ্য
-
 details-notification-blocked = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
 details-notification-blocked-link = আরও তথ্য
-
 details-notification-softblocked = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
 details-notification-softblocked-link = আরও তথ্য
-
 details-notification-gmp-pending = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
+details-notification-gmp-pending2 =
+    .message = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
