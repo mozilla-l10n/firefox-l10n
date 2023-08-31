@@ -8,22 +8,18 @@ password-quality-meter = پاس ورڈ کوالٹی میٹر
 
 change-device-password-window =
     .title = پاس ورڈ تبدیل کرو
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = سیکیورٹی ڈیوائس: { $tokenName }
 change-password-old = حالیہ پاس ورڈ:
 change-password-new = نواں پاس ورڈ:
 change-password-reenter = نواں پاس ورڈ (دوبارہ):
-
 pippki-failed-pw-change = پاس ورڈ تبدیل کرݨ کوں عاری ہے
 pippki-incorrect-pw = تساں درست موجودہ پاس ورڈ درج نہیں کیتا۔ ولدا کوشش کرو.
 pippki-pw-change-ok = پاس ورڈ کامیابی نال تبدیل تھی ڳیا ہے۔
-
 pippki-pw-empty-warning = تہاݙے محفوظ کردہ پاس ورڈز تے پرائیویٹ کنجیاں محفوظ کائنا ہوسن۔
 pippki-pw-erased-ok = تساں اپݨا پاس ورڈ حذف کر ݙٹا ہے۔ { pippki-pw-empty-warning }
 pippki-pw-not-wanted = چتاوݨی! تساں پاس ورڈ استعمال نہ کرݨ دا فیصلہ کیتا ہے۔ { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = تساں فی الحال FIPS موڈ وِچ او۔ FIPS کوں ہک غیر خالی پاس ورڈ دی ضرورت ہے۔
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = ولدا ٹھیک کرو
 reset-primary-password-text = جے تساں اپݨا منڈھلا پاس ورڈ دوبارہ ترتیب ݙیندے او، تاں تہاݙے تمام ذخیرہ شدہ ویب تے ای میل پاس ورڈز، ذاتی سرٹیفکیٹس، تے نجی کنجیاں بھل ویسن۔ کیا تساں واقعی اپݨا منڈھلا پاس ورڈ دوبارہ ترتیب ݙیوݨ چاہندے او؟
-
 pippki-reset-password-confirmation-title = منڈھلا پاس ورڈ ری سیٹ کرو
 pippki-reset-password-confirmation-message = تہاݙا منڈھلا پاس ورڈ دوبارہ ترتیب ݙتا ڳیا ہے۔
 
@@ -55,11 +50,38 @@ download-cert-view-text = CA سرٹیفکیٹ دا معائنہ کرو
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = صارف دی سنڄاݨ دی درخواست
 client-auth-site-description = ایں سائٹ درخواست کیتی ہے جو تساں ہک سرٹیفکیٹ دے نال اپݨی سنڄاݨ کرو:
 client-auth-choose-cert = سنڄاݨ دے طور تے پیش کرݨ کیتے ہک سرٹیفکیٹ دا انتخاب کرو:
 client-auth-cert-details = منتخب سرٹیفکیٹ دیاں تفصیلاں:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = جاری کیتا ڳیا: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = سیریل نمبر:{ $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = درست فارم { $notBefore } کنوں  { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = کلیدی استعمال:  { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ای میل پتے: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = دی طرفوں جاری: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = تے ذخیرہ تھیا : { $storedOn }
+client-auth-cert-remember-box =
+    .label = ایہ فیصلہ یاد رکھو
 
 ## Set password (p12) dialog
 
@@ -71,8 +93,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = سرٹیفکیٹ بیک اپ پاس ورڈ (دوبارہ):
 set-password-reminder = اہم: جے تساں اپݨا سرٹیفکیٹ بیک اپ پاس ورڈ بھل ویندے او، تاں تساں بعد وِچ ایں بیک اپ کوں بحال نہ کر سڳسو۔ براہ مہربانی اینکوں محفوظ مقام تے ریکارڈ کرو۔
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
