@@ -122,9 +122,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
 extensions-warning-check-compatibility = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
+extensions-warning-safe-mode2 =
+    .message = Bütün əlavələr təhlükəsizlik rejimdə söndürüldü.
+extensions-warning-check-compatibility2 =
+    .message = Əlavə uyğunluq nəzarəti söndürülüb. Uyğun olmayan əlavələriniz ola bilər.
 extensions-warning-check-compatibility-button = Aktiv et
     .title = Əlavə uyğunluq nəzarətini aktivləşdir
 extensions-warning-update-security = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
+extensions-warning-update-security2 =
+    .message = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti söndürülüb. Yeniləmələr təhlükəli ola bilər.
 extensions-warning-update-security-button = Aktiv et
     .title = Əlavə yeniləmə təhlükəsizliyinə  nəzarəti aktivləşdir
 
