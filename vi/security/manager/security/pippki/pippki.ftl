@@ -62,6 +62,9 @@ client-auth-cert-details = Thông tin chi tiết của chứng chỉ được ch
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = Cấp cho: { $issuedTo }
 # Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Số sê-ri: { $serialNumber }
+# Variables:
 # $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = Hợp lệ từ { $notBefore } đến { $notAfter }
