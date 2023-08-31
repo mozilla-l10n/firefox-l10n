@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع
 extensions-warning-check-compatibility = ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔
+extensions-warning-safe-mode2 =
+    .message = سٲری ایڈ آنس چھَ ناممكن بناونئ آمِت سیف موڈ كئ زریع
+extensions-warning-check-compatibility2 =
+    .message = ایڈ۔آن کمپیٹیبیلٹی چکینگ چھ ڈیسیبلْڈ۔ توہیہ ما آسن اِن کمپیٹیبْل ایڈ۔آن۔
 extensions-warning-check-compatibility-button = مجاز
     .title = ایڈ آں رلُن جانچ بنٲویو ممكن
 extensions-warning-update-security = ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔
+extensions-warning-update-security2 =
+    .message = ایڈ۔آن اپڈیٹ حفاظت چکینگ چھ ڈیسیبْل کرنْہ آمْژ۔ توہیہ ما أسیو کمپرومایز کورمُت اپڈیٹو ذریعہ۔
 extensions-warning-update-security-button = مجاز
     .title = ایڈ آن اپ ڈیٹ حفٲظتی جانچ بنٲویو ممكن
 
