@@ -204,6 +204,11 @@ shortcuts-duplicate = Eilañ ar verradenn
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } a zo implijet evel berradenn e plegennoù disheñvel. An doublennoù berradennoù a c’hall kaout un emzalc’h dic’hortoz.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } a zo implijet evel berradenn e plegennoù disheñvel. An doublennoù berradennoù a c’hall kaout un emzalc’h dic’hortoz.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
