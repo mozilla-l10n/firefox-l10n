@@ -149,9 +149,13 @@ extensions-warning-safe-mode = Sa modalidade segura at disativadu totu is cumple
 extensions-warning-check-compatibility = S'averiguada de cumpatibilidade de is estensiones est disativada. Dias pòdere tènnere estensiones non cumpatìbiles.
 extensions-warning-safe-mode2 =
     .message = Sa modalidade segura at disativadu totu is cumplementos.
+extensions-warning-check-compatibility2 =
+    .message = S'averiguada de cumpatibilidade de is estensiones est disativada. Dias pòdere tènnere estensiones non cumpatìbiles.
 extensions-warning-check-compatibility-button = Ativa
     .title = Ativa s'averiguada de cumpatibilidade de is estensiones
 extensions-warning-update-security = S'averiguada de seguresa de is atualizatziones de is estensiones est disativada. Is atualizatziones diant pòdere èssere unu perìgulu.
+extensions-warning-update-security2 =
+    .message = S'averiguada de seguresa de is atualizatziones de is estensiones est disativada. Is atualizatziones diant pòdere èssere unu perìgulu.
 extensions-warning-update-security-button = Ativa
     .title = Ativa s'averiguada de seguresa de is atualizatziones de is estensiones.
 
