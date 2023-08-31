@@ -250,6 +250,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Kai kurios iš šių rekomendacijų yra pritaikytos būtent jums. Yra atsižvelgiama į kitus
     jūsų įdiegtus priedus, profilio pasirinkimus, ir naudojimo statistikas.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Kai kurios iš šių rekomendacijų yra pritaikytos būtent jums. Yra atsižvelgiama į kitus
+        jūsų įdiegtus priedus, profilio pasirinkimus, ir naudojimo statistikas.
 discopane-notice-learn-more = Sužinoti daugiau
 privacy-policy = Privatumo nuostatai
 # Refers to the author of an add-on, shown below the name of the add-on.
