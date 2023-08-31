@@ -48,6 +48,22 @@ abuse-report-messagebar-removed-sitepermission = Thank you for submitting a repo
 abuse-report-messagebar-removed-theme = Mòran taing airson aithris a chur thugainn. Thug thu an t-ùrlar <span data-l10n-name="addon-name">{ $addon-name }</span> air falbh.
 abuse-report-messagebar-error = Thachair mearachd le cur na h-aithris air <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Cha deach an aithris air <span data-l10n-name="addon-name">{ $addon-name }</span> a chur on a chaidh aithris eile mu dhèidhinn a chur a-null o chionn goirid.
+abuse-report-messagebar-aborted2 =
+    .message = Chaidh sgur dhen aithris air { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = A’ cur na h-aithris air { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Mòran taig airson aithris a chur thugainn. A bheil thu airson { $addon-name } a thoirt air falbh?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Mòran taing airson aithris a chur thugainn.
+abuse-report-messagebar-removed-extension2 =
+    .message = Mòran taing airson aithris a chur thugainn. Thug thu an leudachan { $addon-name } air falbh.
+abuse-report-messagebar-removed-theme2 =
+    .message = Mòran taing airson aithris a chur thugainn. Thug thu an t-ùrlar { $addon-name } air falbh.
+abuse-report-messagebar-error2 =
+    .message = Thachair mearachd le cur na h-aithris air { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Cha deach an aithris air { $addon-name } a chur on a chaidh aithris eile mu dhèidhinn a chur a-null o chionn goirid.
 
 ## Message bars actions.
 
