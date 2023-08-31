@@ -78,6 +78,8 @@ addon-category-available-updates-title =
 ## These are global warnings
 
 extensions-warning-safe-mode = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
+extensions-warning-safe-mode2 =
+    .message = Add-on ທັງຫມົດໄດ້ຖືກປິດນຳໃຊ້ໂດຍໂຫມດປອດໄພ.
 
 ## Strings connected to add-on updates
 
