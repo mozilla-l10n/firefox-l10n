@@ -439,10 +439,18 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } არათავსებადია { -brand-short-name } { $version } ვერსიასთან.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } არათავსებადია { -brand-short-name } { $version } ვერსიასთან.
 details-notification-incompatible-link = ვრცლად
 details-notification-unsigned-and-disabled = ვერ დასტურდება, რომ { -brand-short-name } შეძლებს გამოიყენოს { $name }, ამიტომ გამორთულია.
+details-notification-unsigned-and-disabled2 =
+    .message = ვერ დასტურდება, რომ { -brand-short-name } შეძლებს გამოიყენოს { $name }, ამიტომ გამორთულია.
 details-notification-unsigned-and-disabled-link = ვრცლად
 details-notification-unsigned = ვერ დასტურდება, რომ { -brand-short-name } შეძლებს აამუშაოს { $name }. სიფრთხილით გამოიყენეთ.
+details-notification-unsigned2 =
+    .message = ვერ დასტურდება, რომ { -brand-short-name } შეძლებს აამუშაოს { $name }. სიფრთხილით გამოიყენეთ.
 details-notification-unsigned-link = ვრცლად
 details-notification-blocked = { $name } გამორთულია უსაფრთხოების მიზნით ან არამდგრადობის გამო.
 details-notification-blocked2 =
@@ -453,3 +461,5 @@ details-notification-softblocked2 =
     .message = { $name } მიჩნეულია არამდგრადად და საფრთხის შემცველად.
 details-notification-softblocked-link = ვრცლად
 details-notification-gmp-pending = { $name } მალე ჩაიდგმება.
+details-notification-gmp-pending2 =
+    .message = { $name } მალე ჩაიდგმება.
