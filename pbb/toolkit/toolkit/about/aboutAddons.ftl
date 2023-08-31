@@ -7,70 +7,51 @@ addons-page-title = Jxkaan kãajãwa'ja's
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Çxkitxãnximee ji'pha maitxi' kãajãhna naatx kthẽguhna.
-
 list-empty-available-updates =
     .value = Uyya' ewumeeta' yu'pthẽnxisa's.
-
 list-empty-recent-updates =
     .value = Yu'pthẽnxi' txaçxhme' maa juhtxpa kãajãhna
-
 list-empty-find-updates =
     .label = Yu'pthẽwa'ja's pakwen
-
 list-empty-button =
     .label = Piyana jweiçxaa pta'sxnakwekweju kãajãhna.
-
 show-unsigned-extensions-button =
     .label = Maaĩtxi' nuyjxujan thẽgya' ewumee ũsa'.
-
 show-all-extensions-button =
     .label = Nuyjxujanxisa's jxuka kthẽgun
-
 detail-version =
     .label = Yu'pthẽhn fxiy fxiy kthẽgun
-
 detail-last-updated =
     .label = Nmehtewe'sxa's yu'pthẽhna
-
 detail-contributions-description = Mjĩna naa kãajã'ñxisa's pẽyna ki'h mpu'çx jĩna takhna idx mjĩnxi's vxithna le'çkweçxapa puutx pu'çxna.
-
 detail-update-type =
     .value = Txãaiçxhaa yu'pthẽhna
-
 detail-update-default =
     .label = Nyafxtewe'sx
     .tooltiptext = Txãaiçxha yu'pthẽhn çxkitxan nasaa ãçxaak pẽy
-
 detail-update-automatic =
     .label = Ki'htan
     .tooltiptext = Txãaiçxaa çxkitxan ki'h yu'pthẽhna.
-
 detail-update-manual =
     .label = Spahkxna
     .tooltiptext = Txãaiçxaa çxktxãya'mee yu'pthẽwa'ja's
-
 detail-home =
     .label = Ajte jxã'j  pu'txna
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Eçx jiyunisa's kãjã'na
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Yu'pthẽwa'ja's pakwen
     .accesskey = Y
     .tooltiptext = Pakwen yu'pthẽwa'ja's na's kãajãhna
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,20 +68,14 @@ detail-show-preferences =
             [windows] Kuh jwed yu'pthẽhn naa kãajãnxisatx
            *[other] Yu'pthẽn txhitxna  na's kãajãhya'
         }
-
 detail-rating =
     .value = Ma'wẽ piyatepa jiyuya'
-
 addon-restart-now =
     .label = Ãçxh ki'ki'n takhya'.
-
 disabled-unsigned-heading =
     .value = Maai kãajãhnxisa' kçxhaçxanimeek neyũu.
-
 disabled-unsigned-description = Yaçkawe'sxa's kãajanxisa' ki'h thẽgnximee neyũutxna idx vxisnxisa' { -brand-short-name }.Ewuma'kh.<label data-l10n-name="find-addons">Uyna yu'pthẽhna</label>meeçxa' papẽhyna mjĩsa's ki'h thẽgya'.
-
 disabled-unsigned-learn-more = Thakwe jiyuya kwesx çxaçxa yatxnxisatx pu'çxjxa phuphwaja's txa dxi'the.
-
 addon-category-extension = Jxujuy txi'pnxisa
 addon-category-extension-title =
     .title = Jxujuy txi'pnxisa
@@ -185,11 +160,13 @@ addon-open-about-debugging = Yatenxi's kãajãhna
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -198,26 +175,31 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } puutx jadamesaa yakh { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } puutx jadamesaa yakh { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } thẽgya' ewume' idx  vxiswa'ja's { -brand-short-name }. vxite çxhaçxhanimeya' ũsa'.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } thẽgya' ewume' idx  vxiswa'ja's { -brand-short-name }. vxite çxhaçxhanimeya' ũsa'.
 details-notification-unsigned-and-disabled-link = Jweiçxaa pta'sxna
-
 details-notification-unsigned = { $name } Thẽgya' ewume' idx vxiswa'ja's { -brand-short-name }. Nmeh pa'yakx katekahn.
+details-notification-unsigned2 =
+    .message = { $name } Thẽgya' ewume' idx vxiswa'ja's { -brand-short-name }. Nmeh pa'yakx katekahn.
 details-notification-unsigned-link = Jweiçxaa pta'sxna
-
 details-notification-blocked = { $name } kapçhujunxi'k neeyũu napa yuwe ewmeesa' isasa' meeçxaa kxteewe'sx.
+details-notification-blocked2 =
+    .message = { $name } kapçhujunxi'k neeyũu napa yuwe ewmeesa' isasa' meeçxaa kxteewe'sx.
 details-notification-blocked-link = Jweiçxaa pta'sxna
-
 details-notification-softblocked = Ki´h jiigah { $name } isa yuwesa's meeçxa' kxtee ũssa's.
+details-notification-softblocked2 =
+    .message = Ki´h jiigah { $name } isa yuwesa's meeçxa' kxtee ũssa's.
 details-notification-softblocked-link = Jweiçxaa pta'sxna
-
 details-notification-gmp-pending = { $name } jxuhmee çxkitxãn.
+details-notification-gmp-pending2 =
+    .message = { $name } jxuhmee çxkitxãn.
