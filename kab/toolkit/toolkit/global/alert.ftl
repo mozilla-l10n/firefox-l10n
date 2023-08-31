@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = mdel alɣu-a
 alert-settings-title =
     .tooltiptext = Tawila
+
+## Reminder Notifications
+
+notification-default-dismiss = Zgel
