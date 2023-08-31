@@ -158,12 +158,18 @@ extensions-warning-safe-mode = ყველა დამატება გა�
 extensions-warning-check-compatibility = დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა, არათავსებადი დამატებები გქონდეთ.
 extensions-warning-safe-mode2 =
     .message = ყველა დამატება გამორთულია უსაფრთხო რეჟიმის მიერ.
+extensions-warning-check-compatibility2 =
+    .message = დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა, არათავსებადი დამატებები გქონდეთ.
 extensions-warning-check-compatibility-button = ჩართვა
     .title = დამატებების თავსებადობის შემოწმების ჩართვა
 extensions-warning-update-security = დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა, ზიანი მოგაყენოთ.
+extensions-warning-update-security2 =
+    .message = დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა, ზიანი მოგაყენოთ.
 extensions-warning-update-security-button = ჩართვა
     .title = დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა
 extensions-warning-imported-addons = გთხოვთ დაასრულოთ გადმოტანილი გაფართოების ჩადგმა – { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = გთხოვთ დაასრულოთ გადმოტანილი გაფართოების ჩადგმა – { -brand-short-name }.
 extensions-warning-imported-addons-button = გაფართოებების ჩაყენება
 
 ## Strings connected to add-on updates
