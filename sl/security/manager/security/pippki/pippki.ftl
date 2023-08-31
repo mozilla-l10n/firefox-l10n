@@ -69,6 +69,9 @@ client-auth-cert-details-serial-number = Serijska številka : { $serialNumber }
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = Veljavno od { $notBefore } do { $notAfter }
 # Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Uporaba ključev: { $keyUsages }
+# Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = E-poštni naslovi: { $emailAddresses }
 # Variables:
