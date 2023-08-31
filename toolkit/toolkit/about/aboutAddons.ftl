@@ -141,6 +141,10 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
 extensions-warning-check-compatibility = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
+extensions-warning-safe-mode2 =
+    .message = همهٔ افزودنی‌ها به دلیل مرور در حالت امن غیر فعال شده‌اند.
+extensions-warning-check-compatibility2 =
+    .message = کنترل سازگاری افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های ناسازگاری داشته باشید.
 extensions-warning-check-compatibility-button = فعال کردن
     .title = فعال کردن کنترل سازگاری افزودنی‌ها
 extensions-warning-update-security = بررسی امنیتی بروزرسانی افزودنی‌ها غیر فعال است. ممکن است افزودنی‌های‌تان به صورت ناامن بروزرسانی شوند.
