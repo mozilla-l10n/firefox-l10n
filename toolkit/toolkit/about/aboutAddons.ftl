@@ -438,6 +438,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } không tương thích với { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } không tương thích với { -brand-short-name } { $version }.
 details-notification-incompatible-link = Thông tin chi tiết
 details-notification-unsigned-and-disabled = Không thể kiểm tra tính tương thích của { $name } với { -brand-short-name } nên nó đã bị vô hiệu hóa.
 details-notification-unsigned-and-disabled2 =
@@ -448,8 +452,12 @@ details-notification-unsigned2 =
     .message = Không thể kiểm tra tính tương thích của { $name } với { -brand-short-name }. Bạn nên cẩn thận.
 details-notification-unsigned-link = Thông tin chi tiết
 details-notification-blocked = { $name } đã bị vô hiệu hóa vì vấn đề bảo mật hoặc tính ổn định.
+details-notification-blocked2 =
+    .message = { $name } đã bị vô hiệu hóa vì vấn đề bảo mật hoặc tính ổn định.
 details-notification-blocked-link = Thông tin Chi tiết
 details-notification-softblocked = { $name } được cho là gây ra các vấn đề về bảo mật hoặc tính ổn định.
+details-notification-softblocked2 =
+    .message = { $name } được cho là gây ra các vấn đề về bảo mật hoặc tính ổn định.
 details-notification-softblocked-link = Thông tin Chi tiết
 details-notification-gmp-pending = { $name } sắp được cài.
 details-notification-gmp-pending2 =
