@@ -319,6 +319,9 @@ addon-detail-homepage-label = მთავარი გვერდი
 addon-detail-rating-label = შეფასება
 # Message for add-ons with a staged pending update.
 install-postponed-message = ეს გაფართოება განახლდება, როცა { -brand-short-name } ხელახლა გაეშვება.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = ეს გაფართოება განახლდება, როცა { -brand-short-name } ხელახლა გაეშვება.
 install-postponed-button = განახლება ახლავე
 # The average rating that the add-on has received.
 # Variables:
