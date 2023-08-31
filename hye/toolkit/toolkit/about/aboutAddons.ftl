@@ -303,6 +303,9 @@ addon-detail-homepage-label = Տնէջ
 addon-detail-rating-label = Վարկանիշ
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ընդլայնումը պէտք է արդիացուի, երբ { -brand-short-name } -ը վերամեկնարկուում է:
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ընդլայնումը պէտք է արդիացուի, երբ { -brand-short-name } -ը վերամեկնարկուում է:
 install-postponed-button = Արդիացնել հիմա
 # The average rating that the add-on has received.
 # Variables:
