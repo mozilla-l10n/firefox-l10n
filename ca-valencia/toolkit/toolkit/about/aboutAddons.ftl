@@ -233,6 +233,11 @@ discopane-intro = Les extensions i els temes són com les aplicacions per al nav
 discopane-notice-recommendations =
     Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
     extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Algunes d’aquestes recomanacions són personalitzades. Es basen en altres
+        extensions que heu instal·lat, preferències del perfil i estadístiques d’ús.
 discopane-notice-learn-more = Més informació
 privacy-policy = Política de privadesa
 # Refers to the author of an add-on, shown below the name of the add-on.
