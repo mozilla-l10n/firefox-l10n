@@ -108,9 +108,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Mbayka kisnal daaƴii ɓeyditte fof.
 extensions-warning-check-compatibility = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
+extensions-warning-safe-mode2 =
+    .message = Mbayka kisnal daaƴii ɓeyditte fof.
+extensions-warning-check-compatibility2 =
+    .message = Ƴeewtagol jaaɓdugol ɓeyditte koko daaƴaa. Aɗa waawi jogaade ɓeyditte ɗe njaaɓaani.
 extensions-warning-check-compatibility-button = Daaƴtu
     .title = Daaƴtu ƴeewtagol jaaɓdugol ɓeyditte
 extensions-warning-update-security = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
+extensions-warning-update-security2 =
+    .message = Ƴeewtagol kisnal ɓeyditte koko daaƴaa. Aɗa waawi heɓde caɗe e kesɗitine.
 extensions-warning-update-security-button = Daaƴtu
     .title = Daaƴtu ƴeewtagol kisnal ɓeyditte
 
