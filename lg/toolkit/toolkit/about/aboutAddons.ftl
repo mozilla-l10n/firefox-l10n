@@ -7,64 +7,47 @@ addons-page-title = Omukulu w'ebyongerwako
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Tolina byongerwako byonna bya kika kino biteereddwako
-
 list-empty-available-updates =
     .value = Tewali kituusa kisangiddwa
-
 list-empty-recent-updates =
     .value = Totuukanyizza byongerwako byonna gyebuvuddeko
-
 list-empty-find-updates =
     .label = Kebera Ebituusa
-
 list-empty-button =
     .label = Yiga ebisingawo ku byongerwako
-
 detail-version =
     .label = Enkola
-
 detail-last-updated =
     .label = Okutuusa Okusembyeyo
-
 detail-contributions-description = Omutandisi w'ekyongerwako kino asaba nti oyambe okuwagira okwongera okukikulaakulanya ng'obaako akatono k'owaayo
-
 detail-update-type =
     .value = Ebyetuukaganya byokka
-
 detail-update-default =
     .label = eky'enkalakalira
     .tooltiptext = Teekako ebyetuukaganya byokka singa biba nti byebikulu
-
 detail-update-automatic =
     .label = Kweri
     .tooltiptext = Teekako eby'okutuukanya weekka
-
 detail-update-manual =
     .label = Teriiko
     .tooltiptext = Toteekako byakwetuukanya byokka
-
 detail-home =
     .label = Omuko ogusooka
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Ebikwata ku byongerwako
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Kebera ku Tuusaganya
     .accesskey = e
     .tooltiptext = Kebera ebyokutuukaganya ebikwata ku kyongerwako kino
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -81,13 +64,10 @@ detail-show-preferences =
             [windows] Kyusa ebyokulondako bye' ekyongerwako kino
            *[other] Kyusa ebyokulondako by'ekyongerwako kino
         }
-
 detail-rating =
     .value = kupima
-
 addon-restart-now =
     .label = Tandika nate kati
-
 addon-category-extension = Ebyongerebwako
 addon-category-extension-title =
     .title = Ebyongerebwako
@@ -170,11 +150,13 @@ addon-install-from-file-filter-name = Ebigattibwako
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -183,19 +165,20 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } tekwatagana na { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } tekwatagana na { -brand-short-name } { $version }.
 details-notification-blocked = { $name } emaliddwamu amanyi olw'ensonga z'ebyokwerinda oba butebenkevu.
+details-notification-blocked2 =
+    .message = { $name } emaliddwamu amanyi olw'ensonga z'ebyokwerinda oba butebenkevu.
 details-notification-blocked-link = Ebisingawo
-
 details-notification-softblocked = { $name } emanyiddwa okuleeta obunkenke.
+details-notification-softblocked2 =
+    .message = { $name } emanyiddwa okuleeta obunkenke.
 details-notification-softblocked-link = Ebisingawo
-
