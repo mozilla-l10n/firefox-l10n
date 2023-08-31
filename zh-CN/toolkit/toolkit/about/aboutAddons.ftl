@@ -153,6 +153,8 @@ addon-sitepermission-host = { $host } 的网站权限
 
 extensions-warning-safe-mode = 所有附加组件都已被安全模式暂时禁用。
 extensions-warning-check-compatibility = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
+extensions-warning-safe-mode2 =
+    .message = 所有附加组件都已被安全模式暂时禁用。
 extensions-warning-check-compatibility2 =
     .message = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
 extensions-warning-check-compatibility-button = 启用
