@@ -80,6 +80,8 @@ client-auth-cert-details-issued-by = Cyhoeddwyd gan: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Storiwyd ar: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Cofio'r penderfyniad yma
 
 ## Set password (p12) dialog
 
