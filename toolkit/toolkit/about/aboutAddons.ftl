@@ -141,6 +141,11 @@ shortcuts-no-commands = Les estensiones de darréu nun tienen atayos:
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } úsase como atayu en más d'una ocasión. Los atayos duplicaos puen causar un comportamientu inesperáu.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } úsase como atayu en más d'una ocasión. Los atayos duplicaos puen causar un comportamientu inesperáu.
 shortcuts-card-collapse-button = Amosar menos
 header-back-button =
     .title = Dir p'atrás
