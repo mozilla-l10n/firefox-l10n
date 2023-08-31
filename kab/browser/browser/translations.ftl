@@ -41,6 +41,11 @@ translations-panel-settings-always-offer-translation =
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
     .label = Ur suqqul ara akk isebtar n { $language }
+translations-panel-settings-never-translate-unknown-language =
+    .label = Ur suqqul ara akk tutlayt-a
+# Text displayed for the option to never translate this website
+translations-panel-settings-never-translate-site =
+    .label = Werǧin asuqel n usmel-a
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -53,8 +58,12 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Sefsex
 translations-panel-learn-more-link = Issin ugar
+translations-panel-error-translating = Yella wugur deg usuqqel. Ttxil-k ɛreḍ tikkelt niḍen.
+translations-panel-error-load-languages = Ggumant ad d-alint tutlayin
+translations-panel-error-load-languages-hint = Senqed tuqqna ɣer internet sakin ɛreḍ tikkelt niḍen.
 translations-panel-error-load-languages-hint-button =
     .label = Ɛreḍ tikelt nniḍen
+translations-panel-error-unsupported = Ulac tasuqqilt i usebter-a
 translations-panel-error-dismiss-button =
     .label = Awi-t
 translations-panel-error-change-button =
@@ -89,6 +98,7 @@ translations-manage-header = Tisuqilin
 translations-manage-settings-button =
     .label = Iɣewwaren…
     .accesskey = ɣ
+translations-manage-description = Sader tutlayin i usuqqel aruqqin.
 translations-manage-all-language = Meṛṛa tutlayin
 translations-manage-download-button = Sader
 translations-manage-delete-button = Kkes
@@ -105,6 +115,10 @@ translations-manage-language-remove-all-button =
 translations-settings-title =
     .title = Iɣewwaren n tsuqqilin
     .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
+translations-settings-never-translate-langs-description = Ur d-tettwasumar ara tsuqilt i tutlayin-a
+translations-settings-never-translate-sites-description = Ur d-tettwasumar ara tsuqilt i yismal-a
 translations-settings-languages-column =
     .label = Tutlayin
 translations-settings-remove-language-button =
