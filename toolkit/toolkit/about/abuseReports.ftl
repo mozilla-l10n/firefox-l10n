@@ -46,6 +46,24 @@ abuse-report-messagebar-removed-sitepermission = Obrigado por enviar uma denúnc
 abuse-report-messagebar-removed-theme = Obrigado por enviar uma denúncia. Você removeu o tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Houve um erro ao enviar a denúncia de <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = A denúncia de <span data-l10n-name="addon-name">{ $addon-name }</span> não foi enviada porque outra denúncia foi enviado recentemente.
+abuse-report-messagebar-aborted2 =
+    .message = Denúncia de { $addon-name } cancelada.
+abuse-report-messagebar-submitting2 =
+    .message = Enviando denúncia de { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Obrigado por enviar uma denúncia. Quer remover { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Obrigado por enviar uma denúncia.
+abuse-report-messagebar-removed-extension2 =
+    .message = Obrigado por enviar uma denúncia. Você removeu a extensão { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Obrigado por enviar uma denúncia. Você removeu a extensão de permissões de sites { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Obrigado por enviar uma denúncia. Você removeu o tema { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Houve um erro ao enviar a denúncia de { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = A denúncia de { $addon-name } não foi enviada porque outra denúncia foi enviado recentemente.
 
 ## Message bars actions.
 
