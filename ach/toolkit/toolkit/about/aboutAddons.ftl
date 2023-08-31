@@ -222,6 +222,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } pe rwate kwede { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } pe rwate kwede { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name } kadong ki juko woko.
 details-notification-unsigned-and-disabled2 =
     .message = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name } kadong ki juko woko.
@@ -231,8 +235,12 @@ details-notification-unsigned2 =
     .message = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name }. Mede ki diro.
 details-notification-unsigned-link = Ngec mapol
 details-notification-blocked = { $name } kityeko kwanyo pi kelo kop ikom gwok onyo bedo mot.
+details-notification-blocked2 =
+    .message = { $name } kityeko kwanyo pi kelo kop ikom gwok onyo bedo mot.
 details-notification-blocked-link = Ngec Mukene
 details-notification-softblocked = { $name } ngene pi kelo kop ikom gwok onyo bedo mot.
+details-notification-softblocked2 =
+    .message = { $name } ngene pi kelo kop ikom gwok onyo bedo mot.
 details-notification-softblocked-link = Ngec Mukene
 details-notification-gmp-pending = { $name } bi kete ma cokcoki.
 details-notification-gmp-pending2 =
