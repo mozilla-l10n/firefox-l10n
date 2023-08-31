@@ -431,13 +431,25 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } ndojokupytýi { -brand-short-name } { $version } ndive.
 details-notification-incompatible-link = Eñemomaranduve
 details-notification-unsigned-and-disabled = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe ha oñemongéma.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe ha oñemongéma.
 details-notification-unsigned-and-disabled-link = Maranduve
 details-notification-unsigned = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
+details-notification-unsigned2 =
+    .message = { $name } ndaikatúi ojehechajey ojepuru hag̃ua { -brand-short-name }-pe. Ejesareko porãke hese.
 details-notification-unsigned-link = Maranduve
 details-notification-blocked = { $name } oñemongéma oguereko rupi apañuãi tekorosãrã térã tekopytápe.
+details-notification-blocked2 =
+    .message = { $name } oñemongéma oguereko rupi apañuãi tekorosãrã térã tekopytápe.
 details-notification-blocked-link = Maranduve
 details-notification-softblocked = Ojeikuaa { $name } omoapañuãiha tekorosã térã tekoporã.
+details-notification-softblocked2 =
+    .message = Ojeikuaa { $name } omoapañuãiha tekorosã térã tekoporã.
 details-notification-softblocked-link = Maranduve
 details-notification-gmp-pending = { $name } oñemohendáta sapy’aitépe.
