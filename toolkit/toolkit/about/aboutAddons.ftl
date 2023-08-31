@@ -153,9 +153,13 @@ addon-sitepermission-host = { $host } 的网站权限
 
 extensions-warning-safe-mode = 所有附加组件都已被安全模式暂时禁用。
 extensions-warning-check-compatibility = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
+extensions-warning-check-compatibility2 =
+    .message = 附加组件兼容性检查已禁用。您可能有不兼容的附加组件。
 extensions-warning-check-compatibility-button = 启用
     .title = 启用附加组件兼容性检查
 extensions-warning-update-security = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
+extensions-warning-update-security2 =
+    .message = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
 extensions-warning-update-security-button = 启用
     .title = 启用附加组件安全更新检查
 extensions-warning-imported-addons = 请完成安装导入至 { -brand-short-name } 的扩展。
