@@ -156,6 +156,8 @@ addon-sitepermission-host = Permissões de site para { $host }
 
 extensions-warning-safe-mode = Todos os extras foram desativados pelo modo de segurança.
 extensions-warning-check-compatibility = A verificação de compatibilidade de extras está desativada. Poderá ter extras incompatíveis.
+extensions-warning-safe-mode2 =
+    .message = Todos os extras foram desativados pelo modo de segurança.
 extensions-warning-check-compatibility-button = Ativar
     .title = Ativar verificação de compatibilidade de extras
 extensions-warning-update-security = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
