@@ -50,12 +50,16 @@ abuse-report-messagebar-error = Une erreur s’est produite lors de l’envoi du
 abuse-report-messagebar-error-recent-submit = Le rapport <span data-l10n-name="addon-name">{ $addon-name }</span> n’a pas été transmis car un autre rapport a été transmis récemment.
 abuse-report-messagebar-aborted2 =
     .message = Signalement de { $addon-name } annulé.
+abuse-report-messagebar-submitting2 =
+    .message = Envoi du signalement concernant { $addon-name }.
 abuse-report-messagebar-submitted2 =
     .message = Merci d’avoir soumis un rapport. Voulez-vous supprimer { $addon-name } ?
 abuse-report-messagebar-submitted-noremove2 =
     .message = Merci d’avoir soumis un rapport.
 abuse-report-messagebar-removed-extension2 =
     .message = Merci d’avoir soumis un rapport. Vous avez supprimé l’extension { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Merci d’avoir soumis un rapport. Vous avez supprimé le module complémentaire d’autorisations de site { $addon-name }.
 abuse-report-messagebar-removed-theme2 =
     .message = Merci d’avoir soumis un rapport. Vous avez supprimé le thème { $addon-name }.
 abuse-report-messagebar-error2 =
