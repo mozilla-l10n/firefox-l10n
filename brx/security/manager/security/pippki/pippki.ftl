@@ -35,10 +35,19 @@ download-cert-view-text = CA चार्टिफिकेट आनजाद �
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = बाहायग्रानि सिनायथि खावलायनाय
 client-auth-site-description = बे साइटा मोनसे चार्टिफिकेटजों नोंथांखौ गावजों सिनायथि होनो खावलायबाय:
 client-auth-choose-cert = सिनायथि बादि मोनसे चार्टिफिकेट दिनथिनो बासिख:
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = फारि अनजिमा: { $serialNumber }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = इ-मेइल थं: { $emailAddresses }
 
 ## Set password (p12) dialog
 
@@ -50,8 +59,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = चार्टिफिकेट बेकआप पासवार्ड (फिन):
 set-password-reminder = गोनांथार: नोंथाङा नोंथांनि सार्टिफिकेट बेकआप पासवार्डखौ बावयोब्ला नोंथाङा बे बेकआपखौ उनाव लाबोफिननो हानाय नङा। अननानै बेखौ मोनसे रैखाथि जायगायाव रेकर्ड खालाम।
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
