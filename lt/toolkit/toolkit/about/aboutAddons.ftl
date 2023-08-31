@@ -152,9 +152,15 @@ addon-category-sitepermission-title =
 
 extensions-warning-safe-mode = Ribotojoje veiksenoje visi priedai išjungti.
 extensions-warning-check-compatibility = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
+extensions-warning-safe-mode2 =
+    .message = Ribotojoje veiksenoje visi priedai išjungti.
+extensions-warning-check-compatibility2 =
+    .message = Priedų suderinamumas netikrinamas. Gali būti, kad turite nesuderinamų priedų.
 extensions-warning-check-compatibility-button = Tikrinti
     .title = Įjungti priedų suderinamumo tikrinimą
 extensions-warning-update-security = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
+extensions-warning-update-security2 =
+    .message = Priedų naujinimų saugumas netikrinamas. Priedų naujinimai gali pakenkti jūsų saugumui.
 extensions-warning-update-security-button = Tikrinti
     .title = Įjungti priedų naujinimų saugumo tikrinimą
 
