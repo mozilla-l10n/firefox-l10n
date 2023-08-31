@@ -160,9 +160,15 @@ addon-sitepermission-host = { $host } کیتے سائٹ دی اجازت
 
 extensions-warning-safe-mode = سیف موڈ دی طرفوں تمام ایڈ-آنز غیر فعال کر ݙتے ڳئے ہن۔
 extensions-warning-check-compatibility = ایڈ آن مطابقت پذیری دی جانچ غیر فعال ہے۔ تھی سڳدا ہے تہاݙے کول غیر مطابقت پذیر ایڈ آنز ہوون۔
+extensions-warning-safe-mode2 =
+    .message = سیف موڈ دی طرفوں تمام ایڈ-آنز غیر فعال کر ݙتے ڳئے ہن۔
+extensions-warning-check-compatibility2 =
+    .message = ایڈ آن مطابقت پذیری دی جانچ غیر فعال ہے۔ تھی سڳدا ہے تہاݙے کول غیر مطابقت پذیر ایڈ آنز ہوون۔
 extensions-warning-check-compatibility-button = فعال بݨاؤ
     .title = ایڈ آن مطابقت پذیری دی جانچ فعال بݨاؤ
 extensions-warning-update-security = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
+extensions-warning-update-security2 =
+    .message = ایڈ آن اپ ڈیٹ سیکیورٹی چیکنگ غیر فعال ہے۔ تہاݙا اپ ڈیٹاں نال سمجھوتہ کیتا ونڄ سڳدا ہے۔
 extensions-warning-update-security-button = فعال بݨاؤ
     .title = ایڈ آن سیکیورٹی چیکنگ فعال بݨاؤ
 extensions-warning-imported-addons-button = ایکسٹنشناں انسٹال کرو
