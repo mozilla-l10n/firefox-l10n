@@ -172,6 +172,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Aktiver
     .title = Aktiver sikkerhedstjek ved opdatering af tilføjelser
 extensions-warning-imported-addons = Færdiggør installeringen af udvidelser importeret til { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Færdiggør installeringen af udvidelser importeret til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer udvidelser
 
 ## Strings connected to add-on updates
