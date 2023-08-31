@@ -254,6 +254,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Μερικές από αυτές τις προτάσεις είναι εξατομικευμένες. Βασίζονται σε άλλες
     επεκτάσεις που έχετε εγκαταστήσει, σε προτιμήσεις προφίλ και σε στατιστικά χρήσης.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Μερικές από αυτές τις προτάσεις είναι εξατομικευμένες. Βασίζονται σε άλλες
+        επεκτάσεις που έχετε εγκαταστήσει, σε προτιμήσεις προφίλ και σε στατιστικά χρήσης.
 discopane-notice-learn-more = Μάθετε περισσότερα
 privacy-policy = Πολιτική απορρήτου
 # Refers to the author of an add-on, shown below the name of the add-on.
