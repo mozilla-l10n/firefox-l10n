@@ -65,8 +65,15 @@ client-auth-cert-details-issued-to = გაცემულია ორგან
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = სერიული ნომერი: { $serialNumber }
 # Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = მოქმედების ვადა { $notBefore } – { $notAfter }
+# Variables:
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
 client-auth-cert-details-key-usages = გასაღების გამოყენება: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ელფოსტის მისამართები: { $emailAddresses }
 # Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = გამცემი ორგანო: { $issuedBy }
