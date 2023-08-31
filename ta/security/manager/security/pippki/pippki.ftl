@@ -44,8 +44,29 @@ client-auth-site-description = இந்த தளம் நீங்களா�
 client-auth-choose-cert = அடையாளமாக காட்ட வேண்டிய சான்றிதழ தேர்வு செய்யவும்:
 client-auth-cert-details = தேர்ந்தெடுக்கப்பட்ட சான்றிதழின் விவரங்கள்:
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = வழங்கப்பட்டது: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = வரிசை எண்: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = { $notBefore } முதல் { $notAfter } வரை செல்லத்தக்கது
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = முக்கிய பயன்கள்: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = மின்னஞ்சல் முகவரிகள்: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = வழங்கப்பட்டது: { $issuedBy }
+# Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = சேமிக்கப்பட்டது: { $storedOn }
+client-auth-cert-remember-box =
+    .label = இந்த முடிவை நினைவில் கொள்
 
 ## Set password (p12) dialog
 
