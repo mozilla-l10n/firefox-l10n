@@ -460,3 +460,5 @@ details-notification-softblocked2 =
     .message = { $name } es conegut per provocar de problèmas de seguretat o d'estabilitat.
 details-notification-softblocked-link = Mai d'informacions
 details-notification-gmp-pending = { $name } serà installat lèu.
+details-notification-gmp-pending2 =
+    .message = { $name } serà installat lèu.
