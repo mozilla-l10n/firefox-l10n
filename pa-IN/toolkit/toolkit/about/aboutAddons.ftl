@@ -222,6 +222,11 @@ shortcuts-duplicate = ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } ਨੂੰ ਇੱਕ ਤੋਂ ਵੱਧ ਹਾਲਤਾਂ ਵਿੱਚ ਸ਼ਾਰਟਕੱਟ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ ਬੇਉਮੀਦ ਰਵੱਈਏ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ।
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } ਨੂੰ ਇੱਕ ਤੋਂ ਵੱਧ ਹਾਲਤਾਂ ਵਿੱਚ ਸ਼ਾਰਟਕੱਟ ਵਜੋਂ ਵਰਤਿਆ ਜਾ ਰਿਹਾ ਹੈ। ਡੁਪਲੀਕੇਟ ਸ਼ਾਰਟਕੱਟ ਬੇਉਮੀਦ ਰਵੱਈਏ ਦਾ ਕਾਰਨ ਹੋ ਸਕਦੇ ਹਨ।
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
