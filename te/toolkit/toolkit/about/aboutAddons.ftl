@@ -269,6 +269,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } అనునది { -brand-short-name } { $version } తో సారూప్యంగా లేదు.
 details-notification-unsigned-and-disabled = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయలేకున్నాం కనుక అచేతనం చేసాం.
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయలేకున్నాం కనుక అచేతనం చేసాం.
@@ -278,6 +282,8 @@ details-notification-unsigned2 =
     .message = { -brand-short-name }‌లో వాడుకకు { $name }‌ను తనిఖీ చేయబడలేదు. జాగ్రత్తతో కొనసాగండి.
 details-notification-unsigned-link = మరింత సమాచారం
 details-notification-blocked = రక్షణ లేదా స్థిరత్వ సమస్యల కారణంగా { $name } అచేతనపరచబడింది.
+details-notification-blocked2 =
+    .message = రక్షణ లేదా స్థిరత్వ సమస్యల కారణంగా { $name } అచేతనపరచబడింది.
 details-notification-blocked-link = మరింత సమాచారం
 details-notification-softblocked = { $name } రక్షణ లేదా స్థిరత్వ సమస్యలకు కారణం.
 details-notification-softblocked2 =
