@@ -179,6 +179,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } असंगत अछि { -brand-short-name } { $version } क सँग.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } असंगत अछि { -brand-short-name } { $version } क सँग.
 details-notification-unsigned-and-disabled = { $name } क { -brand-short-name } मे उपयोग सत्यापित नहि भ सकैत अछि आओर निष्क्रिय कए देल गेल अछि.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } क { -brand-short-name } मे उपयोग सत्यापित नहि भ सकैत अछि आओर निष्क्रिय कए देल गेल अछि.
