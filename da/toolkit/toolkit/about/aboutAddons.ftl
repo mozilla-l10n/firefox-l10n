@@ -231,6 +231,11 @@ shortcuts-duplicate = Genvej findes allerede
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } bliver brugt som genvej i mere end ét tilfælde. Dette kan give anledning til uventet opførsel.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } bliver brugt som genvej i mere end ét tilfælde. Dette kan give anledning til uventet opførsel.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
