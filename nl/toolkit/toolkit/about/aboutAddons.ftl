@@ -457,3 +457,5 @@ details-notification-blocked-link = Meer informatie
 details-notification-softblocked = { $name } staat bekend als veroorzaker van beveiligings- of stabiliteitsproblemen.
 details-notification-softblocked-link = Meer informatie
 details-notification-gmp-pending = { $name } zal straks worden geïnstalleerd.
+details-notification-gmp-pending2 =
+    .message = { $name } zal straks worden geïnstalleerd.
