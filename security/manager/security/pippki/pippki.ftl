@@ -8,14 +8,12 @@ password-quality-meter = कूटशब्द गुणवत्ता मी�
 
 change-device-password-window =
     .title = पासवर्ड बदलें
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा युक्ति: { $tokenName }
 change-password-old = मौजूदा कूटशब्द:
 change-password-new = नया कूटशब्द:
 change-password-reenter = नया कूटशब्द (फिर):
-
 pippki-failed-pw-change = पासवर्ड बदलने में असमर्थ।
 pippki-pw-change-ok = पासवर्ड सफलतापूर्वक बदल दिया गया है।
 
@@ -41,11 +39,38 @@ download-cert-view-text = CA प्रमाणपत्र जांचें
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = उपयोक्ता पहचान आग्रह
 client-auth-site-description = इस साइट ने आपसे एक प्रमाणपत्र से अपने को पहचानने का आग्रह किया है:
 client-auth-choose-cert = एक पहचान के रूप में एक प्रमाणपत्र के लिये चुनें:
 client-auth-cert-details = चयनित प्रमाणपत्र का विवरण:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = इसे दिया गया: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = क्रम संख्या: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = { $notBefore } से { $notAfter } तक वैध
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = कुंजी उपयोग: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ई-मेल पता: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = के द्वारा दिया गया: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = पर भंडारित: { $storedOn }
+client-auth-cert-remember-box =
+    .label = यह निर्णय याद रखें
 
 ## Set password (p12) dialog
 
@@ -57,8 +82,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = प्रमाणपत्र बैकअप कूटशब्द (फिर):
 set-password-reminder = Important: अगर आप अपना प्रमाणपत्र बैकअप कूटशब्द भूल गये हैं, आप इस बैकअप को बाद में फिर नहीं ला पायेंगे. कृपया इसे सुरक्षित स्थान में रिकार्ड करें.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
