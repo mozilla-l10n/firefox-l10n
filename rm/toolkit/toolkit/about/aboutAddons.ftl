@@ -227,6 +227,11 @@ shortcuts-duplicate = Cumbinaziun da tastas occupada dublamain
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } vegn utilisà sco cumbinaziun da tastas per plirs cumonds. Cumbinaziuns da tastas duplitgadas pon chaschunar cumportaments nunprevis.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } vegn utilisà sco cumbinaziun da tastas per plirs cumonds. Cumbinaziuns da tastas duplitgadas pon chaschunar cumportaments nunprevis.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
