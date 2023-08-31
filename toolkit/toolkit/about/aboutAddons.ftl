@@ -459,3 +459,5 @@ details-notification-softblocked2 =
     .message = { $name } เป็นที่ทราบว่าก่อให้เกิดปัญหาด้านความปลอดภัยหรือเสถียรภาพ
 details-notification-softblocked-link = ข้อมูลเพิ่มเติม
 details-notification-gmp-pending = { $name } จะถูกติดตั้งในไม่ช้า
+details-notification-gmp-pending2 =
+    .message = { $name } จะถูกติดตั้งในไม่ช้า
