@@ -122,6 +122,10 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = सभी ऐड-ऑन्स सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.
 extensions-warning-check-compatibility = सहयुक्ति सुसंगतता जाँच निष्क्रिय है. आपके पास असंगत ऐड-ऑन्स हो सकती हैं.
+extensions-warning-safe-mode2 =
+    .message = सभी ऐड-ऑन्स सुरक्षित विधि के द्वारा निष्क्रिय की गई हैं.
+extensions-warning-check-compatibility2 =
+    .message = सहयुक्ति सुसंगतता जाँच निष्क्रिय है. आपके पास असंगत ऐड-ऑन्स हो सकती हैं.
 extensions-warning-check-compatibility-button = सक्रिय करें
     .title = सहयुक्ति सुसंगतता जाँच सक्रिय करें
 extensions-warning-update-security = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय है. आपकी सुरक्षा अद्यतन के द्वारा संदिग्ध हो सकती है.
