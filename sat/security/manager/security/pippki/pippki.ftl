@@ -50,11 +50,38 @@ download-cert-view-text = CA ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱯᱚᱨᱚᱠ 
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = ᱵᱮᱵᱷᱟᱨᱤᱡᱟᱜ ᱩᱯᱨᱩᱢ ᱵᱟᱵᱚᱛ ᱱᱮᱦᱚᱨ
 client-auth-site-description = ᱱᱚᱣᱟ ᱥᱟᱤᱴ ᱱᱮᱦᱚᱨ ᱟᱠᱟᱫ ᱟ ᱡᱮ ᱟᱢ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱥᱟᱸᱣ ᱟᱢᱛᱮ ᱩᱯᱨᱩᱢᱚᱜ ᱢᱮ :
 client-auth-choose-cert = ᱩᱯᱨᱩᱢ ᱩᱫᱩᱠ ᱞᱮᱠᱟ ᱢᱤᱫ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱟᱪᱷᱟᱣ ᱢᱮ:
 client-auth-cert-details = ᱵᱟᱪᱷᱟᱣ ᱠᱟᱱ ᱯᱚᱨᱢᱟᱱ ᱥᱟᱠᱟᱢ ᱵᱚᱵᱚᱛ :
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = ᱛᱮ ᱮᱢ ᱪᱟᱞᱤᱭᱟᱹ ᱺ { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = ᱥᱤᱨᱤᱭᱮᱞ ᱮᱞ : { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = { $notBefore } ᱠᱷᱚᱱ { $notAfter } ᱫᱷᱟᱹᱵᱤᱡ ᱣᱮᱫ ᱜᱮᱭᱟ
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = ᱪᱟᱹᱵᱤ ᱵᱮᱵᱷᱟᱨᱠᱚ : { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ᱤᱢᱮᱞ ᱴᱷᱤᱠᱬᱟᱹᱠᱚ : { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = ᱮᱢ ᱪᱟᱞ ᱺ { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = ᱨᱮ ᱫᱚᱦᱚ ᱠᱟᱱᱟ : { $storedOn }
+client-auth-cert-remember-box =
+    .label = ᱱᱚᱶᱟ ᱩᱫᱩᱜ ᱩᱭᱦᱟᱹᱨ ᱢᱮ
 
 ## Set password (p12) dialog
 
