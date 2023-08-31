@@ -241,6 +241,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name }, { -brand-short-name } { $version } सह असहत्व आहे.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name }, { -brand-short-name } { $version } सह असहत्व आहे.
 details-notification-unsigned-and-disabled = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही आणि ते अक्षम करण्यात आले आहे.
 details-notification-unsigned-and-disabled2 =
     .message = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही आणि ते अक्षम करण्यात आले आहे.
@@ -250,8 +254,12 @@ details-notification-unsigned2 =
     .message = { -brand-short-name } मध्ये वापरासाठी { $name } ची पडताळणी होऊ शकली नाही. काळजीपूर्वक पुढे जा.
 details-notification-unsigned-link = अधिक माहिती
 details-notification-blocked = { $name } सुरक्षा किंवा स्थिरता अडचणींमुळे बंद केले.
+details-notification-blocked2 =
+    .message = { $name } सुरक्षा किंवा स्थिरता अडचणींमुळे बंद केले.
 details-notification-blocked-link = अधिक माहिती
 details-notification-softblocked = { $name } सुरक्षा किंवा स्थिरता अडचणी निर्माण करण्यास परिचीत आहे.
+details-notification-softblocked2 =
+    .message = { $name } सुरक्षा किंवा स्थिरता अडचणी निर्माण करण्यास परिचीत आहे.
 details-notification-softblocked-link = अधिक माहिती
 details-notification-gmp-pending = { $name } लवकरच इंस्टॉल केले जाईल.
 details-notification-gmp-pending2 =
