@@ -203,6 +203,11 @@ shortcuts-duplicate = সদৃশ শর্টকাট
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } একাধিক ক্ষেত্রে শর্টকাট হিসাবে ব্যবহৃত হচ্ছে। সদৃশ শর্টকাটগুলি অপ্রত্যাশিত আচরণের কারণ হতে পারে।
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } একাধিক ক্ষেত্রে শর্টকাট হিসাবে ব্যবহৃত হচ্ছে। সদৃশ শর্টকাটগুলি অপ্রত্যাশিত আচরণের কারণ হতে পারে।
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
