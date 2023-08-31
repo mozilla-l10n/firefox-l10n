@@ -306,6 +306,9 @@ addon-detail-homepage-label = 首頁
 addon-detail-rating-label = 評分
 # Message for add-ons with a staged pending update.
 install-postponed-message = 將在 { -brand-short-name } 重新啟動後更新此擴充套件。
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = 將在 { -brand-short-name } 重新啟動後更新此擴充套件。
 install-postponed-button = 立即更新
 # The average rating that the add-on has received.
 # Variables:
