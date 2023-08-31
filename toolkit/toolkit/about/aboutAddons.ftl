@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = ઍડ-ઓન સંચાલક
-
 search-header =
     .placeholder = addons.mozilla.org શોધો
     .searchbuttonlabel = શોધો
@@ -11,85 +10,62 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = તમારી પાસે આ પ્રકારનાં સ્થાપિત થયેલ કોઇપણ ઍડ-ઓન નથી
-
 list-empty-available-updates =
     .value = સુધારાઓ મળ્યા નથી
-
 list-empty-recent-updates =
     .value = તમે તાજેતરમાં કોઇપણ ઍડ-ઓનને સુધારેલ નથી
-
 list-empty-find-updates =
     .label = સુધારાઓ માટે ચકાસો
-
 list-empty-button =
     .label = ઍડ-ઓન વિશે વધુ શીખો
-
 help-button = ઍડ-ઓન્સ આધાર
 sidebar-help-button-title =
     .title = ઍડ-ઓન્સ આધાર
-
 show-unsigned-extensions-button =
     .label = કેટલાક એક્સ્ટેન્શન્સની ચકાસણી કરી શકાઈ નથી
-
 show-all-extensions-button =
     .label = બધા એક્સ્ટેન્શન્સ બતાવો
-
 detail-version =
     .label = આવૃત્તિ
-
 detail-last-updated =
     .label = છેલ્લે સુધારેલ
-
 detail-contributions-description = આ ઍડ-ઓનનો ડેવલપર પૂછે છે કે તમે થોડો ફાળો કરીને તેનાં ચાલુ રાખેલ વિકાસમાં આધાર આપવા મદદ કરો છો.
-
 detail-update-type =
     .value = આપોઆપ સુધારાઓ
-
 detail-update-default =
     .label = મૂળભૂત
     .tooltiptext = ફક્ત આપમેળે સુધારાઓને સ્થાપિત કરે જો પેલુ મૂળભૂત હોય
-
 detail-update-automatic =
     .label = ચાલુ
     .tooltiptext = આપમેળે સુધારાઓને સ્થાપિત કરો
-
 detail-update-manual =
     .label = બંધ
     .tooltiptext = આપમેળે સુધારાઓને સ્થાપિત કરો નહિં
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = ખાનગી વિન્ડોઝ માં ચલાવો
-
 detail-private-browsing-on =
     .label = પરવાનગી આપો
     .tooltiptext = ખાનગી બ્રાઉઝિંગમાં સક્ષમ કરો
-
 detail-private-browsing-off =
     .label = મંજૂરી આપશો નહીં
     .tooltiptext = ખાનગી બ્રાઉઝિંગમાં અક્ષમ કરો
-
 detail-home =
     .label = મુખ્યપાનુ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ઍડ-ઓન રૂપરેખા
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = સુધારાઓ માટે ચકાસો
     .accesskey = f
     .tooltiptext = આ ઍડ-ઓન માટે સુધારાઓ માટે ચકાસો
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -106,31 +82,20 @@ detail-show-preferences =
             [windows] આ ઍડ-ઓનનાં વિકલ્પોને બદલો
            *[other] આ ઍડ-ઓનની પસંદગીઓને બદલો
         }
-
 detail-rating =
     .value = મૂલ્યાંકન
-
 addon-restart-now =
     .label = હવે પુન:શરૂ કરો
-
 disabled-unsigned-heading =
     .value = કેટલાક ઍડ-ઑન્સ અક્ષમ કરવામાં આવ્યા છે
-
 disabled-unsigned-description = નીચેના ઍડ-ઑન્સને { -brand-short-name } માં ઉપયોગ કરવા માટે ચકાસણી કરવામાં આવી નથી. તમે કરી શકો છો <label data-l10n-name="find-addons">ફેરબદલી શોધો</label> અથવા ડેવલપરને તેમને ચકાસવા માટે પૂછો.
-
 disabled-unsigned-learn-more = તમને ઓનલાઇન સુરક્ષિત રાખવામાં સહાય કરવાના અમારા પ્રયત્નો વિશે વધુ શીખો.
-
 disabled-unsigned-devinfo = તેમના ઍડ-ઑન્સ ચકાસવામાં રસ ધરાવતા ડેવલપર્સ ચાલુ રાખી શકે છે વાંચીને અમારી <label data-l10n-name="learn-more">મેન્યુઅલ</label>.
-
 plugin-deprecation-description = કંઈક ખૂટે છે? કેટલાક પ્લગિન્સ હવે { -brand-short-name } દ્વારા આધારભૂત નથી. <label data-l10n-name="learn-more">વધુ શીખો.</label>
-
 legacy-warning-show-legacy = જૂના એક્સ્ટેન્શન્સ બતાવો
-
 legacy-extensions =
     .value = જૂના એક્સ્ટેન્શન્સ
-
 legacy-extensions-description = આ એક્સ્ટેન્શન્સ વર્તમાન { -brand-short-name } ધોરણો મળતા નથી જેથી તેઓ નિષ્ક્રિય કરવામાં આવેલ છે. <label data-l10n-name="legacy-learn-more">ઍડ-ઑન્સમાં ફેરફારો વધુ શીખો</label>
-
 addon-category-extension = એક્સટેન્શન
 addon-category-extension-title =
     .title = એક્સટેન્શન
@@ -208,29 +173,23 @@ addon-open-about-debugging = ઍડ-ઑન્સ ડીબગ કરો
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
     .accesskey = S
-
 shortcuts-no-addons = તમારી પાસે કોઈ એક્સ્ટેન્શન સક્ષમ નથી.
 shortcuts-no-commands = નીચેના એક્સ્ટેન્શન્સમાં શૉર્ટકટ્સ નથી:
 shortcuts-input =
     .placeholder = શૉર્ટકટ લખો
-
 shortcuts-pageAction = પૃષ્ઠ ક્રિયા સક્રિય કરો
 shortcuts-sidebarAction = ટૉગલ બાજુપટ્ટી
-
 shortcuts-modifier-mac = Ctrl, Alt, અથવા ⌘ શામેલ કરો
 shortcuts-modifier-other = Ctrl અથવા Alt ને શામેલ કરો
 shortcuts-invalid = અમાન્ય સંયોજન
 shortcuts-letter = એક પત્ર લખો
 shortcuts-system = { -brand-short-name } શૉર્ટકટને ઓવરરાઇડ કરી શકતા નથી
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } વધુ બતાવો
        *[other] { $numberToShow } વધુ બતાવો
     }
-
 shortcuts-card-collapse-button = ઓછું બતાવો
-
 header-back-button =
     .title = પાછળ જાવ
 
@@ -249,11 +208,13 @@ enable-addon-button = સક્રિય
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -263,16 +224,10 @@ plugin-heading = તમારા પ્લગઈન્સને સંચાલ�
 dictionary-heading = તમારા શબ્દકોશોને સંચાલિત કરો
 locale-heading = તમારી ભાષાઓને સંચાલિત કરો
 shortcuts-heading = એક્સ્ટેંશન શૉર્ટકટ્સ મેનેજ કરો
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org શોધો
-
 addon-page-options-button =
     .title = બધા ઍડ-ઓન માટે સાધનો
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -281,17 +236,14 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } એ { -brand-short-name } { $version } સાથે અસુસંગત છે.
-
 details-notification-unsigned-and-disabled = { -brand-short-name } માં { $name } ઉપયોગ માટે ચકાસણી કરી શકાઈ નથી અને તે અક્ષમ કરવામાં આવ્યું છે.
 details-notification-unsigned-and-disabled-link = વધુ મહિતી
-
 details-notification-unsigned = { -brand-short-name } માં ઉપયોગ માટે { $name } ચકાસવામાં આવી શક્યું નથી. સાવધાની સાથે આગળ વધો.
 details-notification-unsigned-link = વધુ મહિતી
-
 details-notification-blocked = સુરક્ષા અથવા સ્થિરતા સમસ્યાઓ દરમ્યાન { $name } ને નિષ્ક્રિય કરી દેવામાં આવ્યો છે.
 details-notification-blocked-link = વધારે જાણકારી
-
 details-notification-softblocked = સુરક્ષા અથવા સ્થિરતાની સમસ્યાઓને કારણે { $name } જાણીતો છે.
 details-notification-softblocked-link = વધારે જાણકારી
-
 details-notification-gmp-pending = { $name } ટૂંક સમયમાં જ ઇન્સ્ટોલ થશે.
+details-notification-gmp-pending2 =
+    .message = { $name } ટૂંક સમયમાં જ ઇન્સ્ટોલ થશે.
