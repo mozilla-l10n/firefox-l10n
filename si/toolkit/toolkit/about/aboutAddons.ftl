@@ -143,9 +143,15 @@ addon-sitepermission-host = { $host } සඳහා අඩවි අවසර
 
 extensions-warning-safe-mode = ආරක්‍ෂණ ප්‍රකාරය මගින් සියළුම එක්කහු අබල කර ඇත.
 extensions-warning-check-compatibility = එක්කහු ගැළපීම පරීක්‍ෂාව අබල කර ඇත. ඔබ සතුව නොගැළපෙන එක්කහු තිබීමට හැකිය.
+extensions-warning-safe-mode2 =
+    .message = ආරක්‍ෂණ ප්‍රකාරය මගින් සියළුම එක්කහු අබල කර ඇත.
+extensions-warning-check-compatibility2 =
+    .message = එක්කහු ගැළපීම පරීක්‍ෂාව අබල කර ඇත. ඔබ සතුව නොගැළපෙන එක්කහු තිබීමට හැකිය.
 extensions-warning-check-compatibility-button = සබල කරන්න
     .title = එක්කහු ගැළපීම පරීක්‍ෂාව සබල කරන්න
 extensions-warning-update-security = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව අබල කර ඇත. යාවත්කාල මගින් බිඳ හෙළීමකට ලක් විය හැකිය.
+extensions-warning-update-security2 =
+    .message = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව අබල කර ඇත. යාවත්කාල මගින් බිඳ හෙළීමකට ලක් විය හැකිය.
 extensions-warning-update-security-button = සබල කරන්න
     .title = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව සබල කරන්න
 
