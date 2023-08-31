@@ -100,9 +100,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
 extensions-warning-check-compatibility = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
+extensions-warning-safe-mode2 =
+    .message = सभटा सहयुक्ति सुरक्षित विधि क द्वारा निष्क्रिय कएल गेल अछि.
+extensions-warning-check-compatibility2 =
+    .message = सहयुक्ति सुसंगतता जाँच निष्क्रिय अछि. अहाँक पास असंगत सहयुक्ति भए सकैत अछि.
 extensions-warning-check-compatibility-button = सक्रिय  करू
     .title = सहयुक्ति सुसंगतता जाँच सक्रिय  करू
 extensions-warning-update-security = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
+extensions-warning-update-security2 =
+    .message = सहयुक्ति अद्यतन सुरक्षा जाँच निष्क्रिय अछि. अहाँक सुरक्षा अद्यतनक द्वारा संदिग्ध भए सकैत अछि.
 extensions-warning-update-security-button = सक्रिय  करू
     .title = सहयुक्ति अद्यतन सुरक्षा जाँच सक्रिय करू
 
