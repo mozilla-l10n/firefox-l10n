@@ -42,6 +42,22 @@ abuse-report-messagebar-removed-extension = Gracias per ninviar un reporte. Has 
 abuse-report-messagebar-removed-theme = Gracias per ninviar un reporte. Has borrau lo tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = I habió una error en ninviar l'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = No se ninvió l'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> perque unatro informe se ninvió recientment.
+abuse-report-messagebar-aborted2 =
+    .message = Se canceló l'informe sobre { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Ninviando informe sobre { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Gracias per ninviar l'informe. Quiere eliminar { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Gracias per ninviar l'informe.
+abuse-report-messagebar-removed-extension2 =
+    .message = Gracias per ninviar un reporte. Has borrau la extensión { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Gracias per ninviar un reporte. Has borrau lo tema { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = I habió una error en ninviar l'informe sobre { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = No se ninvió l'informe sobre { $addon-name } perque unatro informe se ninvió recientment.
 
 ## Message bars actions.
 
