@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Anamu ñakk lajj suuxal na modili yokk yépp.
 extensions-warning-check-compatibility = Wóorliku andu modili mottali yi dafa suux. Xëyna dafa am ay modil yu mënula and.
+extensions-warning-safe-mode2 =
+    .message = Anamu ñakk lajj suuxal na modili yokk yépp.
+extensions-warning-check-compatibility2 =
+    .message = Wóorliku andu modili mottali yi dafa suux. Xëyna dafa am ay modil yu mënula and.
 extensions-warning-check-compatibility-button = Suqali
     .title = Suqali seetlu yi ànd
 extensions-warning-update-security = Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.
+extensions-warning-update-security2 =
+    .message = Wóoralu yeesali kaarange modili mottali yi dafa suux. Xëyna da nga am ay modili mottali yu wóorul.
 extensions-warning-update-security-button = Suqali
     .title = Suqali wóoralu yeesali kaaraange yu modili mottali yi
 
