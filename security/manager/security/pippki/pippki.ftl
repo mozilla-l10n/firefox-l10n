@@ -51,8 +51,16 @@ client-auth-cert-details-serial-number = Nombor siri: { $serialNumber }
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = Sah dari { $notBefore } hingga { $notAfter }
 # Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Alamat e-mel: { $emailAddresses }
+# Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Dikeluarkan oleh: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Disimpan dalam: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Ingati keputusan ini
 
 ## Set password (p12) dialog
 
