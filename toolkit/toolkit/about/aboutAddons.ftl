@@ -358,6 +358,13 @@ install-postponed-message =
         [with-cases] Toto rozšíření bude aktualizováno během restartu { -brand-short-name(case: "gen") }.
        *[no-cases] Toto rozšíření bude aktualizováno během restartu aplikace { -brand-short-name }.
     }
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Toto rozšíření bude aktualizováno během restartu { -brand-short-name(case: "gen") }.
+           *[no-cases] Toto rozšíření bude aktualizováno během restartu aplikace { -brand-short-name }.
+        }
 install-postponed-button = Aktualizovat hned
 # The average rating that the add-on has received.
 # Variables:
