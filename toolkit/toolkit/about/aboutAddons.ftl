@@ -230,6 +230,11 @@ discopane-intro =
 discopane-notice-recommendations =
     এর মধ্যে কিছু সুপারিশ পারসোনালাইজ সম্পর্কিত। এদের ভিত্তি অন্য
      যেসব এক্সটেনশন আপনি ইন্সটল করেছেন, আপনার প্রোফাইল পছন্দসমূহ এবং ব্যাবহারের পরিসংখ্যান।
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        এর মধ্যে কিছু সুপারিশ পারসোনালাইজ সম্পর্কিত। এদের ভিত্তি অন্য
+         যেসব এক্সটেনশন আপনি ইন্সটল করেছেন, আপনার প্রোফাইল পছন্দসমূহ এবং ব্যাবহারের পরিসংখ্যান।
 discopane-notice-learn-more = আরও জানুন
 privacy-policy = গোপনীয়তা নীতি
 # Refers to the author of an add-on, shown below the name of the add-on.
