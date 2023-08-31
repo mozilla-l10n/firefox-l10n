@@ -130,9 +130,13 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Kit maber ojuko woko med-ikome weng.
 extensions-warning-check-compatibility = Med ikome kityeko juko woko roto rwate ne. I romo bedo ki med ikome mape rwate.
+extensions-warning-safe-mode2 =
+    .message = Kit maber ojuko woko med-ikome weng.
 extensions-warning-check-compatibility-button = Ye
     .title = Ye ngiyo rwate me tic pa med-ikome
 extensions-warning-update-security = Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.
+extensions-warning-update-security2 =
+    .message = Ngiyo ber bedo pa ngec manyen me med-ikome kijuko woko. Mogo nongo inongo peko ki bot ngec manyen.
 extensions-warning-update-security-button = Ye
     .title = Ye ngiyo ber bedo pa ngec mayen
 
