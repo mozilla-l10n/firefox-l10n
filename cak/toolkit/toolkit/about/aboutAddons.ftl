@@ -315,6 +315,9 @@ addon-detail-homepage-label = Tikirib'äl ruxaq
 addon-detail-rating-label = Kejqalem
 # Message for add-ons with a staged pending update.
 install-postponed-message = Re k'amal re' xtik'extäj toq xtitikïr chik { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Re k'amal re' xtik'extäj toq xtitikïr chik { -brand-short-name }.
 install-postponed-button = Tik'exWakami
 # The average rating that the add-on has received.
 # Variables:
