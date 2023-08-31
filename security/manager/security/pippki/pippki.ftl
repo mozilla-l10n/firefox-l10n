@@ -35,11 +35,20 @@ download-cert-view-text = CA സര്‍ട്ടിഫിക്കേറ്റ
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = ഉപയോക്താവിനെ തിരിച്ചറിയുവാന്‍ ആവശ്യപ്പെടുക
 client-auth-site-description = ഈ സൈറ്റിനു് നിങ്ങള്‍ ഒരു സര്‍ട്ടിഫിക്കേറ്റ് ഉപയോഗിച്ചു് നിങ്ങളുടെ തിരിച്ചറിയല്‍ ഉറപ്പിക്കണം:
 client-auth-choose-cert = തിരിച്ചറിയുന്നതിനുള്ള ഒരു സര്‍ട്ടിഫിക്കേറ്റ് തെരഞ്ഞെടുക്കുക:
 client-auth-cert-details = തിരഞ്ഞെടുത്ത സർട്ടിഫിക്കറ്റിന്റെ വിശദാംശങ്ങൾ:
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = സീരിയൽ നമ്പർ: { $serialNumber }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ഇമെയിൽ വിലാസങ്ങൾ: { $emailAddresses }
 
 ## Set password (p12) dialog
 
@@ -51,8 +60,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = സര്‍ട്ടിഫിക്കേറ്റ് ബാക്കപ്പ് പാസ്‌വേര്‍ഡ്  (വീണ്ടും):
 set-password-reminder = പ്രധാനപ്പെട്ടതു്: നിങ്ങളുടെ സര്‍ട്ടിഫിക്കേറ്റ് ബാക്കപ്പ് പാസ്‌വേര്‍ഡ് നഷ്ടമായാല്‍, ഈ ബാക്കപ്പ് പിന്നീട് ലഭ്യമാകുകയില്ല. ദയവായി, ഇതു് സുരക്ഷിതമായ ഒരു സ്ഥലത്തേക്കു് മാറ്റുക.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
