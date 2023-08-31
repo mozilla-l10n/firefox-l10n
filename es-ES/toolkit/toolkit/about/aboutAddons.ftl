@@ -156,9 +156,15 @@ addon-sitepermission-host = Permisos del sitio para { $host }
 
 extensions-warning-safe-mode = Todos los complementos han sido desactivados por el modo seguro.
 extensions-warning-check-compatibility = La comprobación de compatibilidad de complementos está desactivada. Puede tener algunos incompatibles.
+extensions-warning-safe-mode2 =
+    .message = Todos los complementos han sido desactivados por el modo seguro.
+extensions-warning-check-compatibility2 =
+    .message = La comprobación de compatibilidad de complementos está desactivada. Puede tener algunos incompatibles.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar comprobación de compatibilidad de complementos
 extensions-warning-update-security = La comprobación de seguridad de los complementos está desactivada. Puede ver su seguridad comprometida durante las actualizaciones.
+extensions-warning-update-security2 =
+    .message = La comprobación de seguridad de los complementos está desactivada. Puede ver su seguridad comprometida durante las actualizaciones.
 extensions-warning-update-security-button = Activar
     .title = Activar comprobación de seguridad de complementos
 extensions-warning-imported-addons = Finalice la instalación de las extensiones que se importaron a { -brand-short-name }.
