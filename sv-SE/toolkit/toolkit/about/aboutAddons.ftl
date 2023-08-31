@@ -315,6 +315,9 @@ addon-detail-homepage-label = Startsida
 addon-detail-rating-label = Betyg
 # Message for add-ons with a staged pending update.
 install-postponed-message = Detta tillägg kommer att uppdateras när { -brand-short-name } startar om.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Detta tillägg kommer att uppdateras när { -brand-short-name } startar om.
 install-postponed-button = Uppdatera nu
 # The average rating that the add-on has received.
 # Variables:
