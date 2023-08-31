@@ -247,6 +247,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Някои от тези препоръки са персонализирани. Те се основават на други
     инсталирани разширения, предпочитания запазени в профила и статистика за използване.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Някои от тези препоръки са персонализирани. Те се основават на други
+        инсталирани разширения, предпочитания запазени в профила и статистика за използване.
 discopane-notice-learn-more = Научете повече
 privacy-policy = Политика за поверителност
 # Refers to the author of an add-on, shown below the name of the add-on.
