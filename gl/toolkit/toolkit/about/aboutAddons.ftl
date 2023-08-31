@@ -320,6 +320,9 @@ addon-detail-homepage-label = Páxina de inicio
 addon-detail-rating-label = Puntuación
 # Message for add-ons with a staged pending update.
 install-postponed-message = Esta extensión actualizarase ao reiniciar o { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Esta extensión actualizarase ao reiniciar o { -brand-short-name }.
 install-postponed-button = Actualizar agora
 # The average rating that the add-on has received.
 # Variables:
