@@ -156,9 +156,15 @@ addon-sitepermission-host = Povolenia stránky pre { $host }
 
 extensions-warning-safe-mode = Všetky doplnky boli zakázané núdzovým režimom.
 extensions-warning-check-compatibility = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
+extensions-warning-safe-mode2 =
+    .message = Všetky doplnky boli zakázané núdzovým režimom.
+extensions-warning-check-compatibility2 =
+    .message = Kontrola kompatibility doplnkov je vypnutá. Môžete mať nekompatibilné doplnky.
 extensions-warning-check-compatibility-button = Zapnúť
     .title = Povoliť kontrolu kompatibility doplnkov
 extensions-warning-update-security = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
+extensions-warning-update-security2 =
+    .message = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
 extensions-warning-update-security-button = Zapnúť
     .title = Povoliť kontrolu bezpečnosti aktualizácií doplnkov
 extensions-warning-imported-addons = Dokončite inštaláciu rozšírení, ktoré boli importované do { -brand-short-name(case: "gen") }.
