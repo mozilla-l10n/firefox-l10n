@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Zobrazí nedávné prohlížení napříč okny a zařízeními
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
