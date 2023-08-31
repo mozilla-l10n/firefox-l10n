@@ -284,6 +284,9 @@ addon-detail-homepage-label = Homepage
 addon-detail-rating-label = Grado
 # Message for add-ons with a staged pending update.
 install-postponed-message = Maa-update ang extension na ito kapag nag-restart ang { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Maa-update ang extension na ito kapag nag-restart ang { -brand-short-name }.
 install-postponed-button = Mag-update Na
 # The average rating that the add-on has received.
 # Variables:
