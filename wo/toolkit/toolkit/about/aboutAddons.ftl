@@ -7,64 +7,47 @@ addons-page-title = Saytukatu modili mottali yi
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Amuloo benn modil bu mel nii te sampu
-
 list-empty-available-updates =
     .value = Amul benn yeesal
-
 list-empty-recent-updates =
     .value = Toog nga lu yàgg yeesaloo say modili mottali
-
 list-empty-find-updates =
     .label = Wut ay yeesal
-
 list-empty-button =
     .label = Gënati jàngaat ci modili mottali yi
-
 detail-version =
     .label = Sumb
-
 detail-last-updated =
     .label = Yeesal bi mujj
-
 detail-contributions-description = Tàllalkatu modil  day ñaan nga dimbali ko as tuut ngir mu mottali liggéey bi
-
 detail-update-type =
     .value = Yeesali boppam
-
 detail-update-default =
     .label = Ñakk ndigal
     .tooltiptext = Yeesal yi dina ñu sampul seen bopp su fekkeeni regalaasu ñakk ndigal la
-
 detail-update-automatic =
     .label = Suqali
     .tooltiptext = Sampal boppam yeesal yi
-
 detail-update-manual =
     .label = Suux
     .tooltiptext = Du sampal boppam yeesal yi
-
 detail-home =
     .label = Xëtu dalal
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Jëmmalinu modil bi
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Wut ay yeesal yu féex
     .accesskey = W
     .tooltiptext = Wut ay yeesal yu féex pur modil bi
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -81,13 +64,10 @@ detail-show-preferences =
             [windows] Soppali tànnéefi modil yi
            *[other] Soppi taamu modil bi
         }
-
 detail-rating =
     .value = Yëgg
-
 addon-restart-now =
     .label = Tambaliwaatal léegi
-
 addon-category-extension = Yokk yi
 addon-category-extension-title =
     .title = Yokk yi
@@ -170,11 +150,13 @@ addon-install-from-file-filter-name = Modili mottali
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -183,19 +165,20 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } andul ak { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } andul ak { -brand-short-name } { $version }.
 details-notification-blocked = { $name } suuxal nañu ko ndax ay tolof tolofi kaaraange ak yanq.
+details-notification-blocked2 =
+    .message = { $name } suuxal nañu ko ndax ay tolof tolofi kaaraange ak yanq.
 details-notification-blocked-link = Xibaar yu gën bari
-
 details-notification-softblocked = { $name } liñu ko xame mooy indi ay tolof tolofi kaarange ak yanq.
+details-notification-softblocked2 =
+    .message = { $name } liñu ko xame mooy indi ay tolof tolofi kaarange ak yanq.
 details-notification-softblocked-link = Xibaar yu gën bari
-
