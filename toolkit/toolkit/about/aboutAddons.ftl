@@ -427,13 +427,21 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } 不兼容 { -brand-short-name } { $version }。
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } 不兼容 { -brand-short-name } { $version }。
 details-notification-incompatible-link = 更多信息
 details-notification-unsigned-and-disabled = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证，现已被禁用。
 details-notification-unsigned-and-disabled-link = 了解详情
 details-notification-unsigned = { $name } 未通过针对是否适用于 { -brand-short-name } 的验证。请谨慎。
 details-notification-unsigned-link = 了解详情
 details-notification-blocked = { $name } 由于安全或稳定性问题已被禁用。
+details-notification-blocked2 =
+    .message = { $name } 由于安全或稳定性问题已被禁用。
 details-notification-blocked-link = 了解详情
 details-notification-softblocked = { $name } 已知会导致安全性或稳定性问题。
 details-notification-softblocked-link = 了解详情
 details-notification-gmp-pending = { $name } 即将安装。
+details-notification-gmp-pending2 =
+    .message = { $name } 即将安装。
