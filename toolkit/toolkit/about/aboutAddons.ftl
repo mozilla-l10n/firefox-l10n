@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Ditlaleletši tšohle di šitišitšwe ke mokgwa o bolokegilego.
 extensions-warning-check-compatibility = Go lekola tshepelelano ya setlaleletši go šitišitšwe. O ka ba o na le ditlaleletši tše sa kwanego.
+extensions-warning-safe-mode2 =
+    .message = Ditlaleletši tšohle di šitišitšwe ke mokgwa o bolokegilego.
+extensions-warning-check-compatibility2 =
+    .message = Go lekola tshepelelano ya setlaleletši go šitišitšwe. O ka ba o na le ditlaleletši tše sa kwanego.
 extensions-warning-check-compatibility-button = Kgontšha
     .title = Kgontšha go lekola tshepelelano ya setlaleletši
 extensions-warning-update-security = Go lekola tšhireletšego ya mpshafatšo ya setlaleletši go šitišitšwe. O ka tsenywa mathateng ke dimpshafatšo.
+extensions-warning-update-security2 =
+    .message = Go lekola tšhireletšego ya mpshafatšo ya setlaleletši go šitišitšwe. O ka tsenywa mathateng ke dimpshafatšo.
 extensions-warning-update-security-button = Kgontšha
     .title = Kgontšha go lekola tšhireletšego ya mpshafatšo ya setlaleletši
 
