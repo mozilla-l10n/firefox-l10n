@@ -444,13 +444,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } nol è compatibil cun { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } nol è compatibil cun { -brand-short-name } { $version }.
 details-notification-incompatible-link = Altris informazions
 details-notification-unsigned-and-disabled = Nol è stât pussibil verificâ { $name } pe utilizazion in { -brand-short-name } e duncje al è stât disativât.
+details-notification-unsigned-and-disabled2 =
+    .message = Nol è stât pussibil verificâ { $name } pe utilizazion in { -brand-short-name } e duncje al è stât disativât.
 details-notification-unsigned-and-disabled-link = Altris informazions
 details-notification-unsigned = Nol è stât pussibil verificâ { $name } pe utilizazion in { -brand-short-name }. Continue cun cautele.
+details-notification-unsigned2 =
+    .message = Nol è stât pussibil verificâ { $name } pe utilizazion in { -brand-short-name }. Continue cun cautele.
 details-notification-unsigned-link = Altris informazions
 details-notification-blocked = { $name } al è stât disativât par vie di problemis di sigurece o stabilitât.
+details-notification-blocked2 =
+    .message = { $name } al è stât disativât par vie di problemis di sigurece o stabilitât.
 details-notification-blocked-link = Altris informazions
 details-notification-softblocked = Si sa che { $name } al cause problemis di sigurece o stabilitât.
+details-notification-softblocked2 =
+    .message = Si sa che { $name } al cause problemis di sigurece o stabilitât.
 details-notification-softblocked-link = Altris informazions
 details-notification-gmp-pending = Chi di pôc { $name } al vignarà instalât.
+details-notification-gmp-pending2 =
+    .message = Chi di pôc { $name } al vignarà instalât.
