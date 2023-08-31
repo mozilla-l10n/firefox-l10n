@@ -453,3 +453,5 @@ details-notification-softblocked2 =
     .message = Ojeikuaa { $name } omoapañuãiha tekorosã térã tekoporã.
 details-notification-softblocked-link = Maranduve
 details-notification-gmp-pending = { $name } oñemohendáta sapy’aitépe.
+details-notification-gmp-pending2 =
+    .message = { $name } oñemohendáta sapy’aitépe.
