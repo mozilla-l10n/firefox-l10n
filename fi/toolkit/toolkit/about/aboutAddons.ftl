@@ -254,6 +254,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
     muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Jotkin näistä suosituksista ovat henkilökohtaisia. Suositukset pohjautuvat
+        muihin asentamiisi laajennuksiin, profiiliasetuksiin ja käyttötilastoihin.
 discopane-notice-learn-more = Lue lisää
 privacy-policy = Tietosuojaseloste
 # Refers to the author of an add-on, shown below the name of the add-on.
