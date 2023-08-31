@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-sitepermission = Ďakujeme vám za hlásenie. Do
 abuse-report-messagebar-removed-theme = Ďakujeme vám za hlásenie. Téma vzhľadu <span data-l10n-name="addon-name">{ $addon-name }</span> bolo odstránené.
 abuse-report-messagebar-error = Pri odosielaní hlásenia o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> nastala chyba.
 abuse-report-messagebar-error-recent-submit = Hlásenie o doplnku <span data-l10n-name="addon-name">{ $addon-name }</span> nebolo odoslané, pretože ste ho už nedávno nahlásili.
+abuse-report-messagebar-aborted2 =
+    .message = Nahlásenie doplnku { $addon-name } bolo zrušené.
+abuse-report-messagebar-submitting2 =
+    .message = Odosielanie hlásenia o doplnku { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Ďakujeme vám za hlásenie. Chcete doplnok { $addon-name } odstrániť?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Ďakujeme vám za hlásenie.
+abuse-report-messagebar-removed-extension2 =
+    .message = Ďakujeme vám za hlásenie. Rozšírenie { $addon-name } bolo odstránené.
+abuse-report-messagebar-removed-theme2 =
+    .message = Ďakujeme vám za hlásenie. Téma vzhľadu { $addon-name } bolo odstránené.
+abuse-report-messagebar-error2 =
+    .message = Pri odosielaní hlásenia o doplnku { $addon-name } nastala chyba.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Hlásenie o doplnku { $addon-name } nebolo odoslané, pretože ste ho už nedávno nahlásili.
 
 ## Message bars actions.
 
