@@ -179,6 +179,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
     kengaytmalar, profil sozlamalari va foydalanish statistikasi asosida tavsiya etiladi.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
+        kengaytmalar, profil sozlamalari va foydalanish statistikasi asosida tavsiya etiladi.
 
 ## Add-on actions
 
