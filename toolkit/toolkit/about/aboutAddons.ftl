@@ -156,9 +156,15 @@ addon-sitepermission-host = Autorisations de site pour { $host }
 
 extensions-warning-safe-mode = Tous les modules complémentaires ont été désactivés par le mode sans échec.
 extensions-warning-check-compatibility = La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.
+extensions-warning-safe-mode2 =
+    .message = Tous les modules complémentaires ont été désactivés par le mode sans échec.
+extensions-warning-check-compatibility2 =
+    .message = La vérification de compatibilité des modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires incompatibles.
 extensions-warning-check-compatibility-button = Activer
     .title = Activer la vérification de compatibilité
 extensions-warning-update-security = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
+extensions-warning-update-security2 =
+    .message = La vérification de mises à jour de sécurité pour les modules complémentaires est désactivée. Vous avez peut-être des modules complémentaires non sûrs.
 extensions-warning-update-security-button = Activer
     .title = Activer la vérification de mises à jour de sécurité pour les modules complémentaires
 extensions-warning-imported-addons = Veuillez terminer l’installation des extensions qui ont été importées dans { -brand-short-name }.
