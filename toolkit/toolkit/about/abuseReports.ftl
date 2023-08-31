@@ -44,6 +44,22 @@ abuse-report-messagebar-removed-sitepermission = Gracias por enviar un reporte. 
 abuse-report-messagebar-removed-theme = Gracias por enviar el informe. Has eliminado el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Hubo un error al enviar el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = No se envió el informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> porque otro informe se envió recientemente.
+abuse-report-messagebar-aborted2 =
+    .message = Se canceló el informe sobre { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Enviando informe sobre { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Gracias por enviar el informe. ¿Quieres eliminar { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Gracias por enviar un informe.
+abuse-report-messagebar-removed-extension2 =
+    .message = Gracias por enviar el informe. Has eliminado la extensión { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Gracias por enviar el informe. Has eliminado el tema { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Hubo un error al enviar el informe sobre { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = No se envió el informe sobre { $addon-name } porque otro informe se envió recientemente.
 
 ## Message bars actions.
 
