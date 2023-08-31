@@ -35,11 +35,38 @@ download-cert-view-text = Ezamina o certificato CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = L'é domandâ a identitæ de l'utente
 client-auth-site-description = Sto scito o veu savei a teu identificaçion co-o certificato:
 client-auth-choose-cert = Çerni un certificato da fâ vedde comme identificaçion:
 client-auth-cert-details = Detalli in sciô certificato Seleçionou:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Publicou pe: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Numero seriale: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Valido da { $notBefore } a { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Uzo tastea: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Indirissi email: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Publicou da: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Sarvou in sce: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Aregorda sta decixon
 
 ## Set password (p12) dialog
 
@@ -51,8 +78,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Paròlla segreta pe-a còpia de seguessa (torna):
 set-password-reminder = Inportante: Se ti t'ascòrdi a paròlla segreta di certificati, no ti saiê ciù in graddo de repigiâ sta còpia de seguessa. Pe piaxei sarvila inte 'n leugo seguo.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
