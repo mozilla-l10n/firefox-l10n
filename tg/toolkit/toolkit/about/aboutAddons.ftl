@@ -229,6 +229,11 @@ shortcuts-duplicate = Миёнбури такрорӣ
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } ҳамчун миёнбур дар зиёда аз як маврид истифода мешавад. Миёнбурҳои такрорӣ метавонанд рафтори ногаҳонро ба вуҷуд оранд.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } ҳамчун миёнбур дар зиёда аз як маврид истифода мешавад. Миёнбурҳои такрорӣ метавонанд рафтори ногаҳонро ба вуҷуд оранд.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
