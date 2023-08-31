@@ -155,9 +155,15 @@ addon-sitepermission-host = Sedłowe pšawa za { $host }
 
 extensions-warning-safe-mode = Wšykne dodanki su se pśez wěsty modus znjemóžnili.
 extensions-warning-check-compatibility = Pśespytowanje dodankoweje kompatibelnosći jo znjemóžnjone. Jo móžno, až maśo njekompatibelne dodanki.
+extensions-warning-safe-mode2 =
+    .message = Wšykne dodanki su se pśez wěsty modus znjemóžnili.
+extensions-warning-check-compatibility2 =
+    .message = Pśespytowanje dodankoweje kompatibelnosći jo znjemóžnjone. Jo móžno, až maśo njekompatibelne dodanki.
 extensions-warning-check-compatibility-button = Zmóžniś
     .title = Pśespytowanje dodankeje kompatibelnosći zmóžniś
 extensions-warning-update-security = Pśespytowanje wěstoty aktualizacije jo znjemóžnjone. Jo móžno, až aktualizacije wam wobgrozuju.
+extensions-warning-update-security2 =
+    .message = Pśespytowanje wěstoty aktualizacije jo znjemóžnjone. Jo móžno, až aktualizacije wam wobgrozuju.
 extensions-warning-update-security-button = Zmóžniś
     .title = Pśespytowanje wěstoty aktualizacije zmóžniś
 extensions-warning-imported-addons = Pšosym dokóńcćo instalaciju rozšyrjenjow, kótarež su se importěrowali do { -brand-short-name }.
