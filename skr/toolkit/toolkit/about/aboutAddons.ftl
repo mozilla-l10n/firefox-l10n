@@ -259,6 +259,11 @@ discopane-intro =
 discopane-notice-recommendations =
     انہاں وِچوں کجھ سفارشاں ذاتی نوعیت دیاں ہن۔ او ٻئے تے مبنی ہن
     ایکسٹینشنز جیڑھیاں انسٹال کیتیا ہن، پروفائل دیاں ترجیحات، تے استعمال دے انگ اکھر۔
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        انہاں وِچوں کجھ سفارشاں ذاتی نوعیت دیاں ہن۔ او ٻئے تے مبنی ہن
+        ایکسٹینشنز جیڑھیاں انسٹال کیتیا ہن، پروفائل دیاں ترجیحات، تے استعمال دے انگ اکھر۔
 discopane-notice-learn-more = ٻیا سِکھو
 privacy-policy = رازداری پالیسی
 # Refers to the author of an add-on, shown below the name of the add-on.
