@@ -323,6 +323,9 @@ addon-detail-homepage-label = Websted
 addon-detail-rating-label = Bedømmelse
 # Message for add-ons with a staged pending update.
 install-postponed-message = Denne udvidelse opdateres når { -brand-short-name } genstarter.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Denne udvidelse opdateres når { -brand-short-name } genstarter.
 install-postponed-button = Opdater nu
 # The average rating that the add-on has received.
 # Variables:
