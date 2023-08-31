@@ -324,6 +324,9 @@ addon-detail-homepage-label = Pagjine web
 addon-detail-rating-label = Valutazion
 # Message for add-ons with a staged pending update.
 install-postponed-message = Cheste estension e vignarà inzornade cuant che si tornarà a inviâ { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Cheste estension e vignarà inzornade cuant che si tornarà a inviâ { -brand-short-name }.
 install-postponed-button = Inzorne cumò
 # The average rating that the add-on has received.
 # Variables:
