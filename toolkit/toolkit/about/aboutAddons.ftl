@@ -370,6 +370,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } ,{ -brand-short-name } { $version } এর জন্য উপযুক্ত।
 details-notification-unsigned-and-disabled = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
 details-notification-unsigned-and-disabled2 =
     .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, এবং নিস্ক্রিয় করে দেওয়া হয়েছে।
@@ -379,8 +383,12 @@ details-notification-unsigned2 =
     .message = { $name } যাচাই করা গেল না { -brand-short-name } তে ব্যবহারের জন্য, সতর্কতার সাথে আগান।
 details-notification-unsigned-link = আরও তথ্য
 details-notification-blocked = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
+details-notification-blocked2 =
+    .message = নিরাপত্তা ও স্থায়ীত্বজনিত কারণে { $name } নিস্ক্রিয় করা হয়েছে।
 details-notification-blocked-link = আরও তথ্য
 details-notification-softblocked = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
+details-notification-softblocked2 =
+    .message = নিরাপত্তা ও স্থায়ীত্বজনিত ত্রুটির জন্য { $name } দায়ী।
 details-notification-softblocked-link = আরও তথ্য
 details-notification-gmp-pending = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
 details-notification-gmp-pending2 =
