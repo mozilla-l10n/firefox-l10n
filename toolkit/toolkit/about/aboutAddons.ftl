@@ -153,9 +153,13 @@ addon-sitepermission-host = הרשאות אתר עבור { $host }
 
 extensions-warning-safe-mode = כל התוספות נוטרלו במצב בטוח.
 extensions-warning-check-compatibility = בדיקת תאימות תוספות מנוטלת. ייתכן שברשותך תוספות לא תואמות.
+extensions-warning-safe-mode2 =
+    .message = כל התוספות נוטרלו במצב בטוח.
 extensions-warning-check-compatibility-button = הפעלה
     .title = הפעלת בדיקת תאימות תוספות
 extensions-warning-update-security = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
+extensions-warning-update-security2 =
+    .message = בדיקת האבטחה של התוספות כרגע מנוטרלת. עדכונים לתוספות עלולים לסכן אותך.
 extensions-warning-update-security-button = הפעלה
     .title = הפעלת בדיקות אבטחה לעדכוני תוספות
 extensions-warning-imported-addons = נא להשלים את התקנת ההרחבות שיובאו אל { -brand-short-name }.
