@@ -46,6 +46,20 @@ abuse-report-messagebar-removed-extension = Շնորհակալություն զ�
 abuse-report-messagebar-removed-theme = Շնորհակալություն զեկույցն ուղարկելու համար։ Դուք հեռացրել եք <span data-l10n-name="addon-name">{ $addon-name }</span>-ի հիմնապատկերը։
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկույց ուղարկելիս սխալ տեղի ունեցավ։
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span>-ի համար զեկույցը չի ուղարկվել, որովհետև վերջերս այլ զեկույց է հաստատվել։
+abuse-report-messagebar-aborted2 =
+    .message = { $addon-name }-ի մասին զեկույցը չեղարկվել է։
+abuse-report-messagebar-submitting2 =
+    .message = Ուղարկվում է զեկույց { $addon-name }-ի համար։
+abuse-report-messagebar-submitted2 =
+    .message = Շնորհակալություն զեկույցը ուղակելու համար։ Ցանկանու՞մ եք հեռացնել { $addon-name }-ը։
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Շնորհակալություն զեկույցը ուղակելու համար։
+abuse-report-messagebar-removed-extension2 =
+    .message = Շնորհակալություն զեկույցը ուղակելու համար։ Դուք հեռացրել եք { $addon-name }-ի ընդլայնումը։
+abuse-report-messagebar-error2 =
+    .message = { $addon-name }-ի համար զեկույց ուղարկելիս սխալ տեղի ունեցավ։
+abuse-report-messagebar-error-recent-submit2 =
+    .message = { $addon-name }-ի համար զեկույցը չի ուղարկվել, որովհետև վերջերս այլ զեկույց է հաստատվել։
 
 ## Message bars actions.
 
