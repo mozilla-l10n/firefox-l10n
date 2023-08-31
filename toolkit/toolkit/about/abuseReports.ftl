@@ -48,6 +48,18 @@ abuse-report-messagebar-removed-sitepermission = Cảm ơn bạn đã gửi báo
 abuse-report-messagebar-removed-theme = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Đã xảy ra lỗi khi gửi báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Báo cáo về <span data-l10n-name="addon-name">{ $addon-name }</span> không thể gửi do đã có một báo cáo khác đã được gửi gần đây.
+abuse-report-messagebar-aborted2 =
+    .message = Báo cáo về { $addon-name } đã bị hủy.
+abuse-report-messagebar-submitting2 =
+    .message = Đang gửi báo cáo về { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Cám ơn bạn đã gửi báo cáo. Bạn có muốn xóa { $addon-name } không?
+abuse-report-messagebar-removed-theme2 =
+    .message = Cảm ơn bạn đã gửi báo cáo. Bạn đã xóa chủ đề { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Đã xảy ra lỗi khi gửi báo cáo về { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Báo cáo về { $addon-name } không thể gửi do đã có một báo cáo khác đã được gửi gần đây.
 
 ## Message bars actions.
 
