@@ -439,13 +439,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } er inkompatibel med { -brand-short-name } { $version }.
 details-notification-incompatible-link = Mer informasjon
 details-notification-unsigned-and-disabled = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name } og har blitt slått av.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name } og har blitt slått av.
 details-notification-unsigned-and-disabled-link = Mer informasjon
 details-notification-unsigned = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name }. Fortsett med varsomhet.
+details-notification-unsigned2 =
+    .message = { $name } har ikke blitt bekreftet for bruk i { -brand-short-name }. Fortsett med varsomhet.
 details-notification-unsigned-link = Mer informasjon
 details-notification-blocked = { $name } er avslått av sikkerhets- eller stabilitetshensyn .
+details-notification-blocked2 =
+    .message = { $name } er avslått av sikkerhets- eller stabilitetshensyn .
 details-notification-blocked-link = Mer informasjon
 details-notification-softblocked = { $name } er kjent for å skape sikkerhets- eller stabilitetsproblemer.
+details-notification-softblocked2 =
+    .message = { $name } er kjent for å skape sikkerhets- eller stabilitetsproblemer.
 details-notification-softblocked-link = Mer informasjon
 details-notification-gmp-pending = { $name } vil installeres snart.
+details-notification-gmp-pending2 =
+    .message = { $name } vil installeres snart.
