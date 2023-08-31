@@ -62,6 +62,19 @@ client-auth-cert-details = Detalios de certificato seligite:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = Emittite a: { $issuedTo }
 # Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Numero Serial: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Valide desde { $notBefore } a { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Usos del clave: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Adresses email: { $emailAddresses }
+# Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Emittite per: { $issuedBy }
 client-auth-cert-remember-box =
