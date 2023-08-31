@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Ahotew mu edum nkaho nyinara.
 extensions-warning-check-compatibility = Kaho wɔn nsɛ ne nhwehwɛmu edum. Etumi ba no sɛ wo nni nkaho a wɔfa.
+extensions-warning-safe-mode2 =
+    .message = Ahotew mu edum nkaho nyinara.
+extensions-warning-check-compatibility2 =
+    .message = Kaho wɔn nsɛ ne nhwehwɛmu edum. Etumi ba no sɛ wo nni nkaho a wɔfa.
 extensions-warning-check-compatibility-button = Sɔ
     .title = Sɔ fidie a ɛkyerɛ sɛ nkaho no fa anaaso ɛmmfa a
 extensions-warning-update-security = Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.
+extensions-warning-update-security2 =
+    .message = Kaho sikuriti ntoso wɔn nhwehwɛmu edum. Etumi ba no sɛ ntoso bɛma wo ho ada hɔ.
 extensions-warning-update-security-button = Sɔ
     .title = Sɔ fidie a ɛbɔ wo ho ban firi ntoso ma nkaho a wɔnndi mu
 
