@@ -58,6 +58,8 @@ abuse-report-messagebar-submitted-noremove2 =
     .message = Grazas por enviar un informe.
 abuse-report-messagebar-removed-extension2 =
     .message = Grazas por enviar un informe. Eliminou a extensión <span data-l10n-name = "addon-name">{ $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Grazas por enviar un informe. Eliminou a extensión de permisos do sitio <span data-l10n-name = "addon-name">{ $addon-name }.
 abuse-report-messagebar-removed-theme2 =
     .message = Grazas por enviar un informe. Eliminou o tema <span data-l10n-name = "addon-name">{ $addon-name }.
 abuse-report-messagebar-error2 =
