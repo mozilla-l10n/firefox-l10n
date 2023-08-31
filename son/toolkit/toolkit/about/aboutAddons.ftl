@@ -101,9 +101,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Saajaw alhaalooo na tontoney kul kayandi.
 extensions-warning-check-compatibility = Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.
+extensions-warning-safe-mode2 =
+    .message = Saajaw alhaalooo na tontoney kul kayandi.
+extensions-warning-check-compatibility2 =
+    .message = Tontoni cerekanbeyan koroširoo kayandi. I ga hima tontoniyaŋ kaŋ ši cerekanbe.
 extensions-warning-check-compatibility-button = Tunandi
     .title = Tontoni cerekanbeyan korošiyan tunandi
 extensions-warning-update-security = Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.
+extensions-warning-update-security2 =
+    .message = Tontoni saajaw taagandiri koroširoo kayandi. A ga hima taagandirey ga šendayyaŋ kate.
 extensions-warning-update-security-button = Tunandi
     .title = Tontoni saajaw taagandiri koroširoo tunandi
 
