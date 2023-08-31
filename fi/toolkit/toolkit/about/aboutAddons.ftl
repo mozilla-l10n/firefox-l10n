@@ -153,9 +153,13 @@ addon-sitepermission-host = Sivuston { $host } oikeudet
 
 extensions-warning-safe-mode = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
 extensions-warning-check-compatibility = Lisäosien yhteensopivuuden tarkistus ei ole käytössä. Osa lisäosista voi olla epäyhteensopivia.
+extensions-warning-safe-mode2 =
+    .message = Kaikki lisäosat on poistettu käytöstä vikasietotilassa.
 extensions-warning-check-compatibility-button = Ota käyttöön
     .title = Ota lisäosien yhteensopivuuden tarkistus käyttöön
 extensions-warning-update-security = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
+extensions-warning-update-security2 =
+    .message = Lisäosien päivitysten turvallisuustarkistus ei ole käytössä. Päivitykset voivat saastuttaa koneesi.
 extensions-warning-update-security-button = Ota käyttöön
     .title = Ota lisäosien päivitysten turvallisuustarkistus käyttöön
 extensions-warning-imported-addons = Viimeistele { -brand-short-name }iin tuotujen laajennusten asennus.
