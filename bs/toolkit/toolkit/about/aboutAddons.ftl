@@ -190,6 +190,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } je nekompatibilan sa { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } je nekompatibilan sa { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
@@ -199,8 +203,12 @@ details-notification-unsigned2 =
     .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
 details-notification-unsigned-link = Više informacija
 details-notification-blocked = { $name } je onemogućen pošto uzrokuje probleme vezane za sigurnost i stabilnost.
+details-notification-blocked2 =
+    .message = { $name } je onemogućen pošto uzrokuje probleme vezane za sigurnost i stabilnost.
 details-notification-blocked-link = Više informacija
 details-notification-softblocked = { $name } je poznat po tome što uzrokuje probleme vezane za stabilnost ili sigurnost.
+details-notification-softblocked2 =
+    .message = { $name } je poznat po tome što uzrokuje probleme vezane za stabilnost ili sigurnost.
 details-notification-softblocked-link = Više informacija
 details-notification-gmp-pending = { $name } će ubrzo biti instaliran.
 details-notification-gmp-pending2 =
