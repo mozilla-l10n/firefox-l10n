@@ -393,6 +393,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } este incompatibil cu { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } este incompatibil cu { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name } și a fost dezactivat.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name } și a fost dezactivat.
@@ -402,8 +406,12 @@ details-notification-unsigned2 =
     .message = { $name } nu a putut fi verificat pentru a fi folosit în { -brand-short-name }. Continuă cu atenție.
 details-notification-unsigned-link = Mai multe informații
 details-notification-blocked = { $name } a fost dezactivat din cauza unor probleme de securitate sau stabilitate.
+details-notification-blocked2 =
+    .message = { $name } a fost dezactivat din cauza unor probleme de securitate sau stabilitate.
 details-notification-blocked-link = Mai multe informații
 details-notification-softblocked = Se știe că { $name } poate provoca probleme de securitate sau stabilitate.
+details-notification-softblocked2 =
+    .message = Se știe că { $name } poate provoca probleme de securitate sau stabilitate.
 details-notification-softblocked-link = Mai multe informații
 details-notification-gmp-pending = { $name } va fi instalat în scurt timp.
 details-notification-gmp-pending2 =
