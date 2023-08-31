@@ -8,22 +8,18 @@ password-quality-meter = มาตรวัดคุณภาพรหัสผ�
 
 change-device-password-window =
     .title = เปลี่ยนรหัสผ่าน
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = อุปกรณ์ความปลอดภัย: { $tokenName }
 change-password-old = รหัสผ่านปัจจุบัน:
 change-password-new = รหัสผ่านใหม่:
 change-password-reenter = รหัสผ่านใหม่ (อีกครั้ง):
-
 pippki-failed-pw-change = ไม่สามารถเปลี่ยนรหัสผ่านได้
 pippki-incorrect-pw = คุณใส่รหัสผ่านปัจจุบันไม่ถูกต้อง โปรดลองอีกครั้ง
 pippki-pw-change-ok = เปลี่ยนรหัสผ่านสำเร็จแล้ว
-
 pippki-pw-empty-warning = รหัสผ่านที่บันทึกไว้และคีย์ส่วนตัวของคุณจะไม่ได้รับการปกป้อง
 pippki-pw-erased-ok = คุณได้ลบรหัสผ่านของคุณแล้ว { pippki-pw-empty-warning }
 pippki-pw-not-wanted = คำเตือน! คุณได้ตัดสินใจไม่ใช้รหัสผ่าน { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = ขณะนี้คุณอยู่ในโหมด FIPS ซึ่ง FIPS จำเป็นต้องมีรหัสผ่านที่ไม่ว่างเปล่า
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = ตั้งค่าใหม่
 reset-primary-password-text = หากคุณตั้งรหัสผ่านหลักของคุณใหม่ รหัสผ่านเว็บและอีเมล, ใบรับรองส่วนบุคคล, และกุญแจส่วนตัวทั้งหมดที่คุณจัดเก็บจะถูกลืม คุณแน่ใจหรือไม่ว่าต้องการตั้งรหัสผ่านหลักของคุณใหม่?
-
 pippki-reset-password-confirmation-title = ตั้งรหัสผ่านหลักใหม่
 pippki-reset-password-confirmation-message = รหัสผ่านหลักของคุณถูกตั้งใหม่แล้ว
 
@@ -55,11 +50,32 @@ download-cert-view-text = ตรวจสอบใบรับรอง CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = คำขออัตลักษณ์ผู้ใช้
 client-auth-site-description = ไซต์นี้ได้ขอให้คุณระบุตัวคุณเองด้วยใบรับรอง:
 client-auth-choose-cert = เลือกใบรับรองเพื่อระบุตัวตน:
 client-auth-cert-details = รายละเอียดของใบรับรองที่เลือก:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = ออกให้: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = หมายเลขอนุกรม: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = มีผลตั้งแต่ { $notBefore } ถึง { $notAfter }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ที่อยู่อีเมล: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = ออกโดย: { $issuedBy }
+client-auth-cert-remember-box =
+    .label = จดจำการตัดสินใจนี้
 
 ## Set password (p12) dialog
 
@@ -71,8 +87,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = รหัสผ่านสำรองใบรับรอง (อีกครั้ง) :
 set-password-reminder = สำคัญมาก : หากคุณลืมรหัสผ่านสำรองใบรับรอง คุณจะไม่สามารถเรียกคืนข้อมูลที่สำรองไว้ได้อีกต่อไป ควรบันทึกรหัสผ่านนี้ไว้ในที่ปลอดภัย
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
