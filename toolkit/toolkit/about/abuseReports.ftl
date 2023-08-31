@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Dziękujemy za zgłoszenie. Usu
 abuse-report-messagebar-removed-theme = Dziękujemy za zgłoszenie. Usunięto motyw <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Wystąpił błąd podczas zgłaszania dodatku <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Nie zgłoszono dodatku <span data-l10n-name="addon-name">{ $addon-name }</span>, ponieważ niedawno wysłano inne zgłoszenie.
+abuse-report-messagebar-aborted2 =
+    .message = Anulowano zgłoszenie dodatku { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Zgłaszanie dodatku { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Dziękujemy za zgłoszenie. Czy usunąć dodatek { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Dziękujemy za zgłoszenie.
+abuse-report-messagebar-removed-extension2 =
+    .message = Dziękujemy za zgłoszenie. Usunięto rozszerzenie { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Dziękujemy za zgłoszenie. Usunięto dodatek z uprawnieniami witryny { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Dziękujemy za zgłoszenie. Usunięto motyw { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Wystąpił błąd podczas zgłaszania dodatku { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Nie zgłoszono dodatku { $addon-name }, ponieważ niedawno wysłano inne zgłoszenie.
 
 ## Message bars actions.
 
