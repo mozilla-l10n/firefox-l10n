@@ -252,6 +252,9 @@ discopane-intro =
     jikomal, rub'eyal nisamäj chuqa' rusamaj.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Jujun chi ke re taq chilab'enïk re' e'ichinan. K'o kixe'el pa jujun chik taq k'amal e'ayakon, kajowab'al rub'i' awäch chuqa' rumolob'a' rokisaxik.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Jujun chi ke re taq chilab'enïk re' e'ichinan. K'o kixe'el pa jujun chik taq k'amal e'ayakon, kajowab'al rub'i' awäch chuqa' rumolob'a' rokisaxik.
 discopane-notice-learn-more = Tetamäx ch'aqa' chik
 privacy-policy = Ichinan Na'oj
 # Refers to the author of an add-on, shown below the name of the add-on.
