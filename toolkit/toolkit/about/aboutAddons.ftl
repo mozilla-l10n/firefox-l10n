@@ -313,6 +313,9 @@ addon-detail-homepage-label = Svetainė
 addon-detail-rating-label = Įvertinimas
 # Message for add-ons with a staged pending update.
 install-postponed-message = Šis priedas atsinaujins, kai „{ -brand-short-name }“ bus paleista iš naujo.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Šis priedas atsinaujins, kai „{ -brand-short-name }“ bus paleista iš naujo.
 install-postponed-button = Atnaujinti dabar
 # The average rating that the add-on has received.
 # Variables:
