@@ -48,6 +48,22 @@ abuse-report-messagebar-removed-sitepermission = Tak for at du indsendte rapport
 abuse-report-messagebar-removed-theme = Tak for at du indsendte rapporten. Du har fjernet temaet <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Der opstod et problem med at sende rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rapporten for <span data-l10n-name="addon-name">{ $addon-name }</span> blev ikke sendt, fordi en anden rapport blev sendt for nylig.
+abuse-report-messagebar-aborted2 =
+    .message = Rapport for { $addon-name } blev annulleret.
+abuse-report-messagebar-submitting2 =
+    .message = Sender rapport for { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Tak for at du indsendte rapporten. Vil du fjerne { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Tak for at du indsendte rapporten.
+abuse-report-messagebar-removed-extension2 =
+    .message = Tak for at du indsendte rapporten. Du har fjernet udvidelsen { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Tak for at du indsendte rapporten. Du har fjernet temaet { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Der opstod et problem med at sende rapporten for { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Rapporten for { $addon-name } blev ikke sendt, fordi en anden rapport blev sendt for nylig.
 
 ## Message bars actions.
 
