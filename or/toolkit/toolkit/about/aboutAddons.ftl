@@ -91,6 +91,10 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
 extensions-warning-check-compatibility = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।
+extensions-warning-safe-mode2 =
+    .message = ସମସ୍ତ ଏଡ-ଅନଗୁଡ଼ିକୁ ସୁରକ୍ଷିତ ଭାବରେ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି।
+extensions-warning-check-compatibility2 =
+    .message = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି। ଆପଣଙ୍କ ପାଖରେ ହୁଏତଃ ଅସଙ୍ଗତ ଏଡ-ଅନ ଅଛି।
 extensions-warning-check-compatibility-button = ସକ୍ରିୟ
     .title = ଏଡ-ଅନ ସୁସଙ୍ଗତତା ଯାଞ୍ଚକୁ ସକ୍ରିୟ କରନ୍ତୁ
 extensions-warning-update-security = ଆଡ଼-ଅନ ଅପଡେଟ ସୁରକ୍ଷା ଯାଞ୍ଚକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି । ଆପଣ ହୁଏତ ଅପଡେଟଗୁଡ଼ିକ ସହିତ ବୁଝାମଣା କରିଛନ୍ତି ।
