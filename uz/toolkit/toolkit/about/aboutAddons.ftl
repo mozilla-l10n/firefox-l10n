@@ -114,9 +114,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = "Xavfsiz usuli" tomonidan  barcha qoʻshimcha dasturlar oʻchirilgan
 extensions-warning-check-compatibility = Qoʻshimcha dasturning mosligini tekshirish oʻchirilgan. Sizda tugallanmagan qoʻshimcha dasturlar boʻlishi mumkin.
+extensions-warning-safe-mode2 =
+    .message = "Xavfsiz usuli" tomonidan  barcha qoʻshimcha dasturlar oʻchirilgan
+extensions-warning-check-compatibility2 =
+    .message = Qoʻshimcha dasturning mosligini tekshirish oʻchirilgan. Sizda tugallanmagan qoʻshimcha dasturlar boʻlishi mumkin.
 extensions-warning-check-compatibility-button = Yoqish
     .title = Qoʻshimcha dasturning mosligini tekshirishni yoqish
 extensions-warning-update-security = Qoʻshimcha dasturlarni xavfsiz yangilash oʻchirilgan. Yangilanishlar uchun xavf ostida boʻlishi mumkin.
+extensions-warning-update-security2 =
+    .message = Qoʻshimcha dasturlarni xavfsiz yangilash oʻchirilgan. Yangilanishlar uchun xavf ostida boʻlishi mumkin.
 extensions-warning-update-security-button = Yoqish
     .title = Qoʻshimcha dasturni xavfsiz yangilashni tekshirishni yoqish
 
