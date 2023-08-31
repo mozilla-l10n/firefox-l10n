@@ -256,6 +256,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Some of these recommendations are personalised. They are based on other
     extensions you’ve installed, profile preferences, and usage statistics.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Some of these recommendations are personalised. They are based on other
+        extensions you’ve installed, profile preferences, and usage statistics.
 discopane-notice-learn-more = Learn more
 privacy-policy = Privacy Policy
 # Refers to the author of an add-on, shown below the name of the add-on.
