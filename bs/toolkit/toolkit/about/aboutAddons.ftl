@@ -108,6 +108,10 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Svi add-oni su onemogućeni od strane sigurnog režima.
 extensions-warning-check-compatibility = Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.
+extensions-warning-safe-mode2 =
+    .message = Svi add-oni su onemogućeni od strane sigurnog režima.
+extensions-warning-check-compatibility2 =
+    .message = Provjera kompatibilnosti add-ona je onemogućena. Možda imate nekompatibilnih add-ona.
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeravanje kompatibilnosti add-ona
 extensions-warning-update-security = Sigurnosna provjera nadogradnje za add-one je onemogućena. Možete biti kompromitovani putem nadogradnje.
