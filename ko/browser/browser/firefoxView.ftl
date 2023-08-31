@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = 여러 창과 기기에서 최근 탐색 보기
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
