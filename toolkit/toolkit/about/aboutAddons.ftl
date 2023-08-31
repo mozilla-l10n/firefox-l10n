@@ -153,9 +153,15 @@ addon-sitepermission-host = Permisos del lloc per a { $host }
 
 extensions-warning-safe-mode = El mode segur ha inhabilitat tots els complements.
 extensions-warning-check-compatibility = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
+extensions-warning-safe-mode2 =
+    .message = El mode segur ha inhabilitat tots els complements.
+extensions-warning-check-compatibility2 =
+    .message = La comprovació de compatibilitat dels complements no està habilitada. Pot ser que tingueu complements incompatibles.
 extensions-warning-check-compatibility-button = Habilita
     .title = Habilita la comprovació de compatibilitat dels complements
 extensions-warning-update-security = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
+extensions-warning-update-security2 =
+    .message = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
 extensions-warning-update-security-button = Habilita
     .title = Habilita la comprovació de seguretat dels complements
 
