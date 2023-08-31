@@ -8,22 +8,18 @@ password-quality-meter = Jelszó minősége
 
 change-device-password-window =
     .title = Jelszó módosítása
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Adatvédelmi eszköz: { $tokenName }
 change-password-old = Jelenlegi jelszó:
 change-password-new = Új jelszó:
 change-password-reenter = Új jelszó (ismét):
-
 pippki-failed-pw-change = Nem sikerült megváltoztatni a jelszót.
 pippki-incorrect-pw = Nem helyesen adta meg a jelenlegi jelszót. Próbálja újra.
 pippki-pw-change-ok = A jelszó megváltoztatása sikeres.
-
 pippki-pw-empty-warning = A tárolt jelszavai és privát kulcsai nem lesznek védve.
 pippki-pw-erased-ok = Törölte a jelszót. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Figyelem! Úgy döntött, hogy nem használ jelszót. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres jelszót megadni.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Alaphelyzet
 reset-primary-password-text = Ha visszaállítja az elsődleges jelszót, akkor minden tárolt webes és e-mail-jelszó, űrlapadat, valamint személyes tanúsítvány és privát kulcs elvész. Biztos, hogy visszaállítja az elsődleges jelszót?
-
 pippki-reset-password-confirmation-title = Elsődleges jelszó visszaállítása
 pippki-reset-password-confirmation-message = Az elsődleges jelszó vissza lett állítva.
 
@@ -55,11 +50,38 @@ download-cert-view-text = A CA tanúsítványának megvizsgálása
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Felhasználóazonosítási kérelem
 client-auth-site-description = A webhely azt kívánja, hogy Ön igazolja magát egy tanúsítvánnyal:
 client-auth-choose-cert = Válassza ki az azonosításhoz használandó tanúsítványt:
 client-auth-cert-details = A kijelölt tanúsítvány részletei:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Kiadva ennek: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Sorozatszám: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Érvényes ettől: { $notBefore } eddig: { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Kulcs használható: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = E-mail címek: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Kibocsátó: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Tárolva ezen: { $storedOn }
+client-auth-cert-remember-box =
+    .label = A döntés megjegyzése
 
 ## Set password (p12) dialog
 
@@ -71,8 +93,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Jelszó (ismét):
 set-password-reminder = Fontos: Ha elfelejti a tanúsítványokról készült biztonsági mentéshez használt jelszót, nem fogja tudni visszaállítani a tanúsítványokat a mentésből.  Írja fel biztonságos helyre.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
