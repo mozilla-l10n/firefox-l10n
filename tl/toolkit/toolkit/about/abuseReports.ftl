@@ -43,6 +43,20 @@ abuse-report-messagebar-removed-extension = Salamat sa pagpasa ng ulat. Tinangga
 abuse-report-messagebar-removed-theme = Salamat sa pagpasa ng ulat. Tinanggal mo na ang tema na <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Nagkaproblema sa pagpasa ng ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Ang ulat para sa <span data-l10n-name="addon-name">{ $addon-name }</span> ay hindi naipadala dahil may isa nang naipadala kamakailan lang.
+abuse-report-messagebar-submitting2 =
+    .message = Ipinapadala ang ulat para sa { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Salamat sa pagpasa ng ulat. Gusto mo bang tanggalin ang { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Salamat sa pagpasa ng ulat.
+abuse-report-messagebar-removed-extension2 =
+    .message = Salamat sa pagpasa ng ulat. Tinanggal mo na ang extension na { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Salamat sa pagpasa ng ulat. Tinanggal mo na ang tema na { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Nagkaproblema sa pagpasa ng ulat para sa { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Ang ulat para sa { $addon-name } ay hindi naipadala dahil may isa nang naipadala kamakailan lang.
 
 ## Message bars actions.
 
