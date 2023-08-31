@@ -254,6 +254,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Tha cuid dhe na molaidhean seo pearsanaichte. Tha iad stèidhichte air leudachain
     eile a stàlaich thu, roghainnean na pròifil is stadastaireachd a’ chleachdaidh.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Tha cuid dhe na molaidhean seo pearsanaichte. Tha iad stèidhichte air leudachain
+        eile a stàlaich thu, roghainnean na pròifil is stadastaireachd a’ chleachdaidh.
 discopane-notice-learn-more = Barrachd fiosrachaidh
 privacy-policy = Am poileasaidh prìobhaideachd
 # Refers to the author of an add-on, shown below the name of the add-on.
