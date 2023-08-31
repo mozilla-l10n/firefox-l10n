@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Start AEC-logging
 about-webrtc-aec-logging-on-state-label = Stopp AEC-logging
 about-webrtc-aec-logging-on-state-msg = AEC-loggning påslått (prat med den som ringjer i nokre minutt og stopp så opptak)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC-loggning påslått (prat med den som ringjer i nokre minutt og stopp så opptak)
+about-webrtc-aec-logging-unavailable-sandbox = Miljøvariabelen MOZ_DISABLE_CONTENT_SANDBOX=1 er påkravd for å eksportere AEC-loggar. Still berre inn denne variabelen dersom du forstår dei moglege risikoane.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Opptekne loggfiler finn ein i: { $path }
@@ -228,8 +229,6 @@ about-webrtc-aec-logging-off-state-msg = opptekne loggfiler finn ein i: { $path 
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Side lagra til: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Sporingslogg finn ein på: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Feilsøkingsmodus påslått, trace log at: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -302,6 +301,9 @@ about-webrtc-sdp-set-timestamp = Tidsstempel { NUMBER($timestamp, useGrouping: "
 about-webrtc-show-msg-sdp = Vis SDP
 about-webrtc-hide-msg-sdp = Skjul SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -309,9 +311,6 @@ about-webrtc-hide-msg-sdp = Skjul SDP
 about-webrtc-media-context-show-msg = Vis media-kontekst
 about-webrtc-media-context-hide-msg = Gøym medie-kontekst
 about-webrtc-media-context-heading = Medie-kontekst
-
-##
-
 
 ##
 
