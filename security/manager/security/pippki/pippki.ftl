@@ -59,11 +59,19 @@ client-auth-site-description = אתר זה ביקש ממך להזדהות באמ
 client-auth-choose-cert = נא לבחור באישור להצגה כזיהוי:
 client-auth-cert-details = פרטי האישור הנבחר:
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = הונפק עבור: { $issuedTo }
+# Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = מספר סידורי: { $serialNumber }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = כתובות דוא״ל: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = הונפק על־ידי: { $issuedBy }
+client-auth-cert-remember-box =
+    .label = שמירת הבחירה הזו
 
 ## Set password (p12) dialog
 
