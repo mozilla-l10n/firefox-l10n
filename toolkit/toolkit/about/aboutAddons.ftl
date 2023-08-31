@@ -143,6 +143,8 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Toate suplimentele sunt dezactivate în modul Sigur.
 extensions-warning-check-compatibility = Verificarea compatibilității suplimentelor este dezactivată. Ai putea avea suplimente incompatibile.
+extensions-warning-safe-mode2 =
+    .message = Toate suplimentele sunt dezactivate în modul Sigur.
 extensions-warning-check-compatibility2 =
     .message = Verificarea compatibilității suplimentelor este dezactivată. Ai putea avea suplimente incompatibile.
 extensions-warning-check-compatibility-button = Activează
