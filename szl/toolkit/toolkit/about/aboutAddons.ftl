@@ -138,9 +138,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Wszyskie rozszyrzynia sōm zastawiōne ôd trybu bezpieczyństwa.
 extensions-warning-check-compatibility = Badanie kōmpatybilności rozszyrzyń je zastawiōne. Możesz mieć niykōmpatybilne rozszyrzynia.
+extensions-warning-safe-mode2 =
+    .message = Wszyskie rozszyrzynia sōm zastawiōne ôd trybu bezpieczyństwa.
+extensions-warning-check-compatibility2 =
+    .message = Badanie kōmpatybilności rozszyrzyń je zastawiōne. Możesz mieć niykōmpatybilne rozszyrzynia.
 extensions-warning-check-compatibility-button = Załōncz
     .title = Załōncz badanie kōmpatybilności rozszyrzyń
 extensions-warning-update-security = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
+extensions-warning-update-security2 =
+    .message = Badanie bezpieczyństwa aktualizacyji rozszyrzyń je zastawiōne. Aplikacyjo może być napadniynto z pōmocōm aktualizacyji.
 extensions-warning-update-security-button = Załōncz
     .title = Załōncz badanie bezpieczyństwa aktualizacyje rozszyrzyń
 
