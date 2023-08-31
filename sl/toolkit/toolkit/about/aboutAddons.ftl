@@ -165,6 +165,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Omogoči
     .title = Omogoči preverjanje, ali je posodobitev dodatka varna
 extensions-warning-imported-addons = Dokončajte nameščanje razširitev, ki so bile uvožene v { -brand-short-name(sklon: "tozilnik") }.
+extensions-warning-imported-addons2 =
+    .message = Dokončajte nameščanje razširitev, ki so bile uvožene v { -brand-short-name(sklon: "tozilnik") }.
 extensions-warning-imported-addons-button = Namesti razširitve
 
 ## Strings connected to add-on updates
