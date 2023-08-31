@@ -136,9 +136,13 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Idinisable lahat ng mga add-on sa safe mode.
 extensions-warning-check-compatibility = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
+extensions-warning-check-compatibility2 =
+    .message = Naka-disable ang add-on compatibility checking. Posibleng may incompatible add-on ka.
 extensions-warning-check-compatibility-button = I-enable
     .title = I-enable ang add-on compatibility checking
 extensions-warning-update-security = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
+extensions-warning-update-security2 =
+    .message = Naka-disable ang update security checking. Posibleng ma-compromise ka ng updates.
 extensions-warning-update-security-button = I-enable
     .title = I-enable ang add-on security checking
 
