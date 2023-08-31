@@ -156,9 +156,15 @@ addon-sitepermission-host = { $host } site izinleri
 
 extensions-warning-safe-mode = Tüm uzantılar güvenli kipte devre dışı bırakıldı.
 extensions-warning-check-compatibility = Uzantı uyumluluk denetimi devre dışı. Uyumsuz uzantılarınız olabilir.
+extensions-warning-safe-mode2 =
+    .message = Tüm uzantılar güvenli kipte devre dışı bırakıldı.
+extensions-warning-check-compatibility2 =
+    .message = Uzantı uyumluluk denetimi devre dışı. Uyumsuz uzantılarınız olabilir.
 extensions-warning-check-compatibility-button = Etkinleştir
     .title = Eklenti uyumluluk denetimini devreye sok
 extensions-warning-update-security = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
+extensions-warning-update-security2 =
+    .message = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
 extensions-warning-update-security-button = Etkinleştir
     .title = Eklenti güncelleme güvenliği denetimini devreye sok
 extensions-warning-imported-addons = Lütfen { -brand-short-name } tarayıcınıza aktarılan uzantıların kurulumunu bitirin.
