@@ -311,6 +311,9 @@ addon-detail-homepage-label = Beranda
 addon-detail-rating-label = Peringkat
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ekstensi ini akan diperbarui ketika { -brand-short-name } dimulai ulang.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ekstensi ini akan diperbarui ketika { -brand-short-name } dimulai ulang.
 install-postponed-button = Perbarui Sekarang
 # The average rating that the add-on has received.
 # Variables:
