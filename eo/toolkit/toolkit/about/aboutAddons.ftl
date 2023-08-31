@@ -222,6 +222,11 @@ shortcuts-duplicate = Ripetita alirklavo
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } estas uzata kiel alirklavon en pli ol unu okazo. Ripetitaj alirklavoj povas kaŭzi neatenditan konduton.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } estas uzata kiel alirklavon en pli ol unu okazo. Ripetitaj alirklavoj povas kaŭzi neatenditan konduton.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
