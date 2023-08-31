@@ -62,8 +62,23 @@ client-auth-cert-details = Detail sertifikat yang dipilih:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
 client-auth-cert-details-issued-to = Diterbitkan untuk: { $issuedTo }
 # Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Nomor serial: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Valid dari { $notBefore } hingga { $notAfter }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Alamat surel: { $emailAddresses }
+# Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Diterbitkan oleh: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Disimpan di: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Ingat pilihan ini
 
 ## Set password (p12) dialog
 
