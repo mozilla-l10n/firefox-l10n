@@ -46,6 +46,12 @@ abuse-report-messagebar-removed-extension = Hvala ti za slanje izvještaja. Uklo
 abuse-report-messagebar-removed-theme = Hvala ti za slanje izvještaja. Tema <span data-l10n-name="addon-name">{ $addon-name }</span> je uklonjena.
 abuse-report-messagebar-error = Došlo je do greške prilikom slanja prijave za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Prijava za <span data-l10n-name="addon-name">{ $addon-name }</span> nije poslana iz razloga što je druga prijava nedavno poslana.
+abuse-report-messagebar-submitting2 =
+    .message = Slanje prijave za { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Došlo je do greške prilikom slanja prijave za { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Prijava za { $addon-name } nije poslana iz razloga što je druga prijava nedavno poslana.
 
 ## Message bars actions.
 
