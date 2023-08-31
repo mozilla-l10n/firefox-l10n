@@ -317,6 +317,9 @@ addon-detail-homepage-label = Саҳифаи асосӣ
 addon-detail-rating-label = Баҳодиҳӣ
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ин васеъшавӣ навсозӣ карда мешавад, вақте ки «{ -brand-short-name }» аз нав оғоз мешавад.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ин васеъшавӣ навсозӣ карда мешавад, вақте ки «{ -brand-short-name }» аз нав оғоз мешавад.
 install-postponed-button = Ҳозир навсозӣ кунед
 # The average rating that the add-on has received.
 # Variables:
