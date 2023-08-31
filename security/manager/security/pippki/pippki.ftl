@@ -69,6 +69,9 @@ client-auth-cert-details-serial-number = Numer seryjny: { $serialNumber }
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = Ważny od { $notBefore } do { $notAfter }
 # Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Zastosowania klucza: { $keyUsages }
+# Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = Adresy e-mail: { $emailAddresses }
 # Variables:
