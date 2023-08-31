@@ -108,9 +108,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
 extensions-warning-check-compatibility = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
+extensions-warning-safe-mode2 =
+    .message = Drūsais režyms ir deaktiviejs vysus papyldynuojumu.
+extensions-warning-check-compatibility2 =
+    .message = Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.
 extensions-warning-check-compatibility-button = Aktivēt
     .title = Aktivēt papyldynuojumu savītuojameibys puorbaudi
 extensions-warning-update-security = Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.
+extensions-warning-update-security2 =
+    .message = Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.
 extensions-warning-update-security-button = Aktivēt
     .title = Aktivēt papyldynuojumu drūseibys puorbaudi
 
