@@ -7,70 +7,51 @@ addons-page-title = ആഡ്-ഓണ്‍ മാനേജര്‍
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = ഈ രീതിയിലുള്ള ആഡ്-ഓണുകള്‍ നിങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്തിട്ടില്ല
-
 list-empty-available-updates =
     .value = പരിഷ്കരണങ്ങള്‍ ലഭ്യമല്ല
-
 list-empty-recent-updates =
     .value = അടുത്തിടയ്ക്കു് ആഡ്-ഓണുകള്‍ പരിഷ്കരിച്ചിട്ടില്ല
-
 list-empty-find-updates =
     .label = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
-
 list-empty-button =
     .label = ആഡ്-ഓണുകളെപ്പറ്റി കൂടുതല്‍ അറിയുക
-
 show-unsigned-extensions-button =
     .label = ചില എക്റ്റെന്‍ഷനുകള്‍ പരിശോധിക്കാന്‍ പറ്റുന്നില്ല
-
 show-all-extensions-button =
     .label = എല്ലാ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
-
 detail-version =
     .label = പതിപ്പു്
-
 detail-last-updated =
     .label = ഏറ്റവും ഒടുവില്‍ പുതുക്കിയതു്
-
 detail-contributions-description = ചെറിയ സംഭാവനകള്‍ നല്‍കി ഈ ആഡ്-ഓണിനുള്ള പുരോഗമനത്തിനായി സഹായിയ്ക്കുവാന്‍ ഡവലപ്പര്‍ അഭ്യര്‍ത്ഥിയ്ക്കുന്നു.
-
 detail-update-type =
     .value = ഓട്ടോമാറ്റിക്ക് പരിഷ്കരണങ്ങള്‍
-
 detail-update-default =
     .label = സ്വതവേ
     .tooltiptext = സ്വതവേയുള്ളതാണെങ്കില്‍ മാത്രം പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
-
 detail-update-automatic =
     .label = ഓണ്‍
     .tooltiptext = പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക
-
 detail-update-manual =
     .label = ഓഫ്
     .tooltiptext = പരിഷ്കരണങ്ങള്‍ ഓട്ടോമാറ്റിക്കായി ഇന്‍സ്റ്റോള്‍ ചെയ്യരുതു്
-
 detail-home =
     .label = ആസ്ഥാനതാള്‍
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ആഡ്-ഓണ്‍ പ്രൊഫൈല്‍
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
     .accesskey = f
     .tooltiptext = ഈ ആഡ്-ഓണിനുള്ള പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,28 +68,18 @@ detail-show-preferences =
             [windows] ഈ ആഡ്-ഓണിനുള്ള ഐച്ഛികങ്ങള്‍ മാറ്റുക
            *[other] ഈ ആഡ്-ഓണിനുള്ള മുന്‍ഗണനകള്‍ മാറ്റുക
         }
-
 detail-rating =
     .value = റേറ്റിങ്
-
 addon-restart-now =
     .label = ഉടന്‍ വീണ്ടും ആരംഭിയ്ക്കുക
-
 disabled-unsigned-heading =
     .value = ചില ആഡോണുകള്‍ പ്രവര്‍ത്തനരഹിതമാക്കി
-
 disabled-unsigned-description = ഈ ആഡോണുകൾ { -brand-short-name } ൽ ഉപയോഗിക്കാമെന്ന് ഇതുവരെ ഉറപ്പുവരുത്തിയിട്ടില്ല. നിങ്ങൾക്ക് <label data-l10n-name="find-addons">പകരം വെക്കാനാവുന്നവ കണ്ടെത്താം</label> അല്ലെങ്കിൽ ഡെവലപ്പറോട് അവ വെരിഫൈ ചെയ്യാൻ ആവശ്യപ്പെടാം.
-
 disabled-unsigned-learn-more = ഓൺലൈനിൽ താങ്കൾ കൂടുതൽ സുരക്ഷിതനായിരിക്കാൻ സഹായിക്കുന്നതിനായുള്ള ഞങ്ങളുടെ ശ്രമങ്ങളെക്കുറിച്ച് കൂടുതൽ മനസിലാക്കുക.
-
 disabled-unsigned-devinfo = തങ്ങളുടെ ആഡോണുകൾ വെരിഫൈ ചെയ്യുന്നതിൽ തല്പരരായ ഡെവലപ്പർമാർക്ക് ഞങ്ങളുടെ<label data-l10n-name="learn-more">മാന്വൽ വായിക്കുന്നത് തുടരാവുന്നതാണ്</label>.
-
 plugin-deprecation-description = എന്തെങ്കിലും നഷ്ടമായോ? ചില പ്ലഗിന്നുകൾ ഇനിമുതൽ { -brand-short-name } പിന്തുണയ്ക്കില്ല. <label data-l10n-name="learn-more">കൂടുതല്‍ അറിയുക.</label>
-
 legacy-warning-show-legacy = പഴയ എക്സ്റ്റെന്‍ഷനും കാണിക്കുക
-
 legacy-extensions-description = ഈ എക്സ്റ്റൻഷെനുകൾ നിലവിലെ { -brand-short-name } മാനദണ്ഡങ്ങൾ പാലിക്കുന്നുല്ല, ആയതിനാൽ അവ നിർജ്ജീവമാക്കിയിട്ടുണ്ട്. <label data-l10n-name="legacy-learn-more">ആഡ്-ഓണുകളിലെ മാറ്റങ്ങളെക്കുറിച്ച് അറിയുക</label>
-
 addon-category-extension = എക്സ്റ്റെന്‍ഷനുകള്‍
 addon-category-extension-title =
     .title = എക്സ്റ്റെന്‍ഷനുകള്‍
@@ -196,11 +167,13 @@ addon-open-about-debugging = ആഡ്-ഓണുകള്‍ ഡീബഗ് ച
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -209,26 +182,23 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { -brand-short-name } { $version }-നോടൊപ്പം { $name } പൊരുത്തപ്പെടുന്നു.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { -brand-short-name } { $version }-നോടൊപ്പം { $name } പൊരുത്തപ്പെടുന്നു.
 details-notification-unsigned-and-disabled = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാൻ പറ്റുമോയെന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ലാത്തതിനാൽ അവ പ്രവർത്തരനരഹിതമാക്കിയിരിക്കുന്നു.
 details-notification-unsigned-and-disabled-link = കൂടുതല്‍ വിവരങ്ങള്‍
-
 details-notification-unsigned = { $name } { -brand-short-name } ൽ ഉപയോഗിക്കാമോ എന്ന് ഉറപ്പുവരുത്തിയിട്ടില്ല. ശ്രദ്ധയോടെ തുടരുക.
 details-notification-unsigned-link = കൂടുതല്‍ വിവരങ്ങള്‍
-
 details-notification-blocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ കാരണം { $name } പ്രവര്‍ത്തന രഹിതമാണു്.
 details-notification-blocked-link = കൂടുതല്‍ വിവരങ്ങള്‍
-
 details-notification-softblocked = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ക്കു് { $name } കാരണമാകുന്നു.
+details-notification-softblocked2 =
+    .message = സുരക്ഷാ, സ്ഥിരത പ്രശ്നങ്ങള്‍ക്കു് { $name } കാരണമാകുന്നു.
 details-notification-softblocked-link = കൂടുതല്‍ വിവരം
-
 details-notification-gmp-pending = { $name } ഉടനേ ഇന്‍സ്റ്റോള്‍ ചെയ്യും
