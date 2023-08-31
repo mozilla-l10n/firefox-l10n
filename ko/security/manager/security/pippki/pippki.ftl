@@ -59,6 +59,12 @@ client-auth-site-description = 웹 사이트에서 신원을 보증할 인증서
 client-auth-choose-cert = 제공할 인증서 선택:
 client-auth-cert-details = 선택한 인증서 상세 정보
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = 발급 대상: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = 일련 번호: { $serialNumber }
+# Variables:
 # $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = { $notBefore }에서 { $notAfter }까지 유효
@@ -68,6 +74,9 @@ client-auth-cert-details-key-usages = 키 사용처: { $keyUsages }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = 이메일 주소: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = 발급자: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = 저장소: { $storedOn }
