@@ -256,6 +256,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Một số trong những khuyến nghị được cá nhân hóa. Nó dựa trên khác
     tiện ích mở rộng mà bạn đã cài đặt, tùy chọn hồ sơ và thống kê sử dụng.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Một số trong những khuyến nghị được cá nhân hóa. Nó dựa trên khác
+        tiện ích mở rộng mà bạn đã cài đặt, tùy chọn hồ sơ và thống kê sử dụng.
 discopane-notice-learn-more = Tìm hiểu thêm
 privacy-policy = Chính sách riêng tư
 # Refers to the author of an add-on, shown below the name of the add-on.
