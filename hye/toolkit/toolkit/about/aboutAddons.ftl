@@ -149,9 +149,15 @@ addon-category-sitepermission-title =
 
 extensions-warning-safe-mode = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
 extensions-warning-check-compatibility = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
+extensions-warning-safe-mode2 =
+    .message = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
+extensions-warning-check-compatibility2 =
+    .message = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
 extensions-warning-check-compatibility-button = Միացնել
     .title = Միացնել  յաւելման համատեղելիութեան ստուգումը
 extensions-warning-update-security = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
+extensions-warning-update-security2 =
+    .message = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
 extensions-warning-update-security-button = Միացնել
     .title = Միացնել յաւելման թարմացման անվտանգութեան ստուգումը
 
