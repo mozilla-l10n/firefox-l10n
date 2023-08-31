@@ -151,6 +151,10 @@ addon-sitepermission-host = Webbplatsbehörigheter för { $host }
 
 extensions-warning-safe-mode = Alla tillägg är inaktiverade i felsäkert läge.
 extensions-warning-check-compatibility = Kompatibilitetskontroll av tillägg är inaktiverat. Du kan ha inkompatibla tillägg.
+extensions-warning-safe-mode2 =
+    .message = Alla tillägg är inaktiverade i felsäkert läge.
+extensions-warning-check-compatibility2 =
+    .message = Kompatibilitetskontroll av tillägg är inaktiverat. Du kan ha inkompatibla tillägg.
 extensions-warning-check-compatibility-button = Aktivera
     .title = Aktiverar kompatibilitetskontroll av tillägg
 extensions-warning-update-security = Säkerhetskontroll av tilläggsuppdateringar är inaktiverad. Du är sårbar för skadliga uppdateringar.
