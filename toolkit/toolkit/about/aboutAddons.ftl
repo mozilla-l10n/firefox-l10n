@@ -533,3 +533,5 @@ details-notification-softblocked2 =
     .message = Doplněk { $name } způsobuje bezpečnostní a výkonnostní problémy.
 details-notification-softblocked-link = Více informací
 details-notification-gmp-pending = { $name } bude brzy nainstalován.
+details-notification-gmp-pending2 =
+    .message = { $name } bude brzy nainstalován.
