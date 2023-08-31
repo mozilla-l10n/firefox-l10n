@@ -223,6 +223,11 @@ shortcuts-duplicate = Shkurtore e përsëdytur
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } po përdoret si shkurtore në më shumë se një rast. Shkurtoret e përsëdytura mund të shkaktojnë sjellje të papritur.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } po përdoret si shkurtore në më shumë se një rast. Shkurtoret e përsëdytura mund të shkaktojnë sjellje të papritur.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
