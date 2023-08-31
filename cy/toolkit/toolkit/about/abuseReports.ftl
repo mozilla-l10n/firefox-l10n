@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Diolch am gyflwyno adroddiad. R
 abuse-report-messagebar-removed-theme = Diolch i chi am gyflwyno adroddiad. Rydych chi wedi tynnu'r thema <span data-l10n-name="addon-name">{ $addon-name }</span>
 abuse-report-messagebar-error = Roedd gwall wrth anfon yr adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Nid yw'r adroddiad ar gyfer <span data-l10n-name="addon-name">{ $addon-name }</span> wedi ei anfon oherwydd bod adroddiad arall wedi'i gyflwyno'n ddiweddar.
+abuse-report-messagebar-aborted2 =
+    .message = Diddymwyd yr adroddiad ar gyfer { $addon-name }>.
+abuse-report-messagebar-submitting2 =
+    .message = Anfon adroddiad ar gyfer { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Diolch i chi am gyflwyno adroddiad. Ydych chi am gael gwared ar { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Diolch am gyflwyno adroddiad.
+abuse-report-messagebar-removed-extension2 =
+    .message = Diolch i chi am gyflwyno adroddiad. Rydych wedi tynnu'r estyniad { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Diolch am gyflwyno adroddiad. Rydych wedi tynnu'r estyniad { $addon-name }
+abuse-report-messagebar-removed-theme2 =
+    .message = Diolch i chi am gyflwyno adroddiad. Rydych chi wedi tynnu'r thema { $addon-name }
+abuse-report-messagebar-error2 =
+    .message = Roedd gwall wrth anfon yr adroddiad ar gyfer { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Nid yw'r adroddiad ar gyfer { $addon-name } wedi ei anfon oherwydd bod adroddiad arall wedi'i gyflwyno'n ddiweddar.
 
 ## Message bars actions.
 
