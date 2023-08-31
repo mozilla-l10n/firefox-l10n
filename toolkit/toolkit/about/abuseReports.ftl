@@ -46,6 +46,20 @@ abuse-report-messagebar-removed-extension = Kiitos kun lähetit raportin. Poisti
 abuse-report-messagebar-removed-theme = Kiitos kun lähetit raportin. Poistit teeman <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Raportin lähettäminen lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> epäonnistui.
 abuse-report-messagebar-error-recent-submit = Raporttia lisäosasta <span data-l10n-name="addon-name">{ $addon-name }</span> ei lähetetty, koska toinen raportti lähetettiin äskettäin.
+abuse-report-messagebar-aborted2 =
+    .message = Raportti lisäosasta { $addon-name } on peruttu.
+abuse-report-messagebar-submitting2 =
+    .message = Lähetetään raportti lisäosasta { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Kiitos kun lähetit raportin. Haluatko poistaa lisäosan { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Kiitos kun lähetit raportin.
+abuse-report-messagebar-removed-extension2 =
+    .message = Kiitos kun lähetit raportin. Poistit laajennuksen { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Kiitos kun lähetit raportin. Poistit teeman { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Raporttia lisäosasta { $addon-name } ei lähetetty, koska toinen raportti lähetettiin äskettäin.
 
 ## Message bars actions.
 
