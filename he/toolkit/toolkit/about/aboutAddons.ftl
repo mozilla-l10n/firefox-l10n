@@ -246,6 +246,9 @@ header-back-button =
 discopane-intro = הרחבות הן כמו יישומים לדפדפן שלך, ומאפשרות לך להגן על ססמאות, להוריד סרטונים, למצוא מבצעים, לחסום פרסומות מציקות, לשנות את תצוגת הדפדפן שלך ועוד. היישומים הקטנים האלו לרוב מפותחים על־ידי גורמי צד־שלישי. להלן מבחר הרחבות ש־{ -brand-product-name } <a data-l10n-name="learn-more-trigger">ממליצה</a> עליהן בגלל האבטחה, הביצועים והפונקציונליות יוצאת הדופן שלהן.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = חלק מהמלצות אלה מותאמות אישית. הן מבוססות על הרחבות אחרות שהתקנת, העדפות פרופיל וסטטיסטיקת שימוש.
 discopane-notice-learn-more = מידע נוסף
 privacy-policy = מדיניות פרטיות
 # Refers to the author of an add-on, shown below the name of the add-on.
