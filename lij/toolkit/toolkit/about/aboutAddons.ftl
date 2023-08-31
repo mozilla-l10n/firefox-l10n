@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Gestô di conponenti azonti
-
 search-header =
     .placeholder = Çerca in addons.mozilla.org
     .searchbuttonlabel = Çerca
@@ -11,85 +10,62 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Ti no gh'æ di conponenti azonti de sto tipo instalæ
-
 list-empty-available-updates =
     .value = Nisciun agiornamento trovou
-
 list-empty-recent-updates =
     .value = Urtimamente ti no t'æ agiornou nisciun conponente azonto
-
 list-empty-find-updates =
     .label = Çerca agiornamenti
-
 list-empty-button =
     .label = Ciù informaçioin in sci conponenti azonti
-
 help-button = Sopòrto conponenti azonti
 sidebar-help-button-title =
     .title = Sopòrto conponenti azonti
-
 show-unsigned-extensions-button =
     .label = No ò posciuo verificâ quarche estenscion
-
 show-all-extensions-button =
     .label = Amia tutte e estenscioin
-
 detail-version =
     .label = Verscion
-
 detail-last-updated =
     .label = Agiornou
-
 detail-contributions-description = O svilupatô de sto conponente azonto te domanda se t'eu contriboî con quarche palanca.
-
 detail-update-type =
     .value = Agiornamenti aotomatichi
-
 detail-update-default =
     .label = Predefinio
     .tooltiptext = Installa i agiornamenti in aotomatico solo se o l'é predefinio coscî
-
 detail-update-automatic =
     .label = Açendi
     .tooltiptext = Installa i agiornamenti in aotomatico
-
 detail-update-manual =
     .label = Asmòrtou
     .tooltiptext = No instalâ agiornamenti in aotomatico
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Ezegoçion inti barcoin privæ
-
 detail-private-browsing-on =
     .label = Permetti
     .tooltiptext = Permetti inta Navegaçion privâ
-
 detail-private-browsing-off =
     .label = No permette
     .tooltiptext = Dizabilita inta Navegaçion privâ
-
 detail-home =
     .label = Pagina Prinçipâ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profî do conponente azonto
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Çerca agiornamenti
     .accesskey = a
     .tooltiptext = Çerca agiornamenti pe sto conponente azonto
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -106,31 +82,20 @@ detail-show-preferences =
             [windows] Cangia e preferense de sto conponente azonto
            *[other] Cangia e preferense de sto conponente azonto
         }
-
 detail-rating =
     .value = Clasifica
-
 addon-restart-now =
     .label = Arvi torna òua
-
 disabled-unsigned-heading =
     .value = Quarche conponente azonto o l'é dizativou
-
 disabled-unsigned-description = Sti conponenti no en verificæ pe deuviali in { -brand-short-name }. L'é poscibile <label data-l10n-name="find-addons">çercâ de alternative</label> ò domandâ a-o svilupatô de fali verificâ.
-
 disabled-unsigned-learn-more = Descovri atre informaçoin in sciô nòstro inpegno pe garantî a seguessa di utenti in linia.
-
 disabled-unsigned-devinfo = I svilupatoî interesæ a-o processo de verifica di conponenti azonti peuan amiâ o segoente <label data-l10n-name="learn-more">manuâ</label>.
-
 plugin-deprecation-description = Te manca quarcösa? Quarche plugin o no l'é ciù soportou da { -brand-short-name }. <label data-l10n-name="learn-more">Ciù informaçioin.</label>
-
 legacy-warning-show-legacy = Amia estenscioin legacy
-
 legacy-extensions =
     .value = Estenscioin Legacy
-
 legacy-extensions-description = Ste estenscioin no va ben co-i corenti standard de { -brand-short-name } coscì en stæti dizativæ. <label data-l10n-name="legacy-learn-more">Pe saveine de ciù in sci conponenti azonti</label>
-
 addon-category-extension = Estenscioin
 addon-category-extension-title =
     .title = Estenscioin
@@ -208,26 +173,20 @@ addon-open-about-debugging = Debug di conponenti azonti
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gestisci scorsaeiu de estenscioin
     .accesskey = G
-
 shortcuts-input =
     .placeholder = Inserisci 'n scorsaieu
-
 shortcuts-pageAction = Ativa açion da pagina
 shortcuts-sidebarAction = Ativa/dizativa bara de scianco
-
 shortcuts-modifier-mac = Includde Ctrl, Alt, ò ⌘
 shortcuts-modifier-other = Includde Ctrl ò Alt
 shortcuts-invalid = Conbinaçion no bonn-a
 shortcuts-letter = Scrivi 'na letia
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Fanni vedde l'atro
        *[other] Fanni vedde atri { $numberToShow }
     }
-
 shortcuts-card-collapse-button = Mostra meno
-
 header-back-button =
     .title = Vanni inderê
 
@@ -247,11 +206,13 @@ permissions-addon-button = Permissi
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -261,16 +222,10 @@ plugin-heading = Gestisci i plugin
 dictionary-heading = Gestisci i diçionai
 locale-heading = Gestisci e lengoe
 shortcuts-heading = Gestisci scorsaeiu de estenscioin
-
 addons-heading-search-input =
     .placeholder = Çerca in addons.mozilla.org
-
 addon-page-options-button =
     .title = Angæsi pe tutti i conponenti azonti
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -279,17 +234,20 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } o no l'é conpatibile con { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } o no l'é conpatibile con { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } o l'é dizativou perché l'uzo o no l'é verificou pe { -brand-short-name }.
 details-notification-unsigned-and-disabled-link = Atre informaçioin
-
 details-notification-unsigned = { $name } o no l'é verificou pe l'uzo in { -brand-short-name }. Stanni atento.
 details-notification-unsigned-link = Atre informaçioin
-
 details-notification-blocked = { $name } o l'é stæto dizabilitou pe problemi de stabilitæ ò seguessa.
+details-notification-blocked2 =
+    .message = { $name } o l'é stæto dizabilitou pe problemi de stabilitæ ò seguessa.
 details-notification-blocked-link = Ciù informaçioin
-
 details-notification-softblocked = { $name } o l'é in angæzo ben conosciuo a caozâ problemi de stabilitæ ò seguessa.
+details-notification-softblocked2 =
+    .message = { $name } o l'é in angæzo ben conosciuo a caozâ problemi de stabilitæ ò seguessa.
 details-notification-softblocked-link = Ciù informaçioin
-
 details-notification-gmp-pending = { $name } o saiâ instalou tra quarche momento.
