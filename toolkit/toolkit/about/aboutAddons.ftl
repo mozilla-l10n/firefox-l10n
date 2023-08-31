@@ -153,9 +153,15 @@ addon-sitepermission-host = Dovoljenja za spletno mesto { $host }
 
 extensions-warning-safe-mode = Zaradi dela v varnem načinu so vsi dodatki onemogočeni.
 extensions-warning-check-compatibility = Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.
+extensions-warning-safe-mode2 =
+    .message = Zaradi dela v varnem načinu so vsi dodatki onemogočeni.
+extensions-warning-check-compatibility2 =
+    .message = Preverjanje združljivosti dodatkov je onemogočeno. Mogoče imate nameščene dodatke, ki niso združljivi.
 extensions-warning-check-compatibility-button = Omogoči
     .title = Omogoči preverjanje združljivosti dodatkov
 extensions-warning-update-security = Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.
+extensions-warning-update-security2 =
+    .message = Preverjanje, ali je posodobitev dodatkov varna, je onemogočeno. Posodobitve lahko ogrozijo vaš sistem.
 extensions-warning-update-security-button = Omogoči
     .title = Omogoči preverjanje, ali je posodobitev dodatka varna
 extensions-warning-imported-addons = Dokončajte nameščanje razširitev, ki so bile uvožene v { -brand-short-name(sklon: "tozilnik") }.
