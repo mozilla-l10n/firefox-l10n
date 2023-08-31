@@ -205,6 +205,11 @@ shortcuts-duplicate = اختصار متكرر
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = يُستعمل { $shortcut } كاختصار في أكثر من إجراء واحد. قد تؤدي الاختصارات المتكررة إلى سلوك لا تتوقعه.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = يُستعمل { $shortcut } كاختصار في أكثر من إجراء واحد. قد تؤدي الاختصارات المتكررة إلى سلوك لا تتوقعه.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
