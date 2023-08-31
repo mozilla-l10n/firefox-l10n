@@ -132,9 +132,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
 extensions-warning-check-compatibility = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
+extensions-warning-safe-mode2 =
+    .message = محفوظ موڈ کے تحت تمام ایڈ اون نا اہل ہیں۔
+extensions-warning-check-compatibility2 =
+    .message = ایڈ اون موازنت کی پڑتال نا اہل ہے۔ آپ کے پاس غیر موازن ایڈ اون ہو سکتے ہیں۔
 extensions-warning-check-compatibility-button = اہل بنائیں
     .title = ایڈ اون موازنت پڑتال اہل بنائیں
 extensions-warning-update-security = ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔
+extensions-warning-update-security2 =
+    .message = ایڈ اون سلامتی پڑتال نا اہل ہے۔ آپ کو تازہ کاریوں سے مسلہ ہو سکتا ہے۔
 extensions-warning-update-security-button = اہل بنائیں
     .title = ایڈ اون تازہ کاری سلامتی پڑتال کو اہل بنائیں
 
