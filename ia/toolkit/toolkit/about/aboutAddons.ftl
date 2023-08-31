@@ -159,6 +159,8 @@ extensions-warning-update-security = Le verification de securitate pro le actual
 extensions-warning-update-security-button = Activar
     .title = Activar le verification de securitate pro le actualisation del additivos
 extensions-warning-imported-addons = Completa le installation de extensiones que era importate a { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Completa le installation de extensiones que era importate a { -brand-short-name }.
 extensions-warning-imported-addons-button = Installar le extensiones
 
 ## Strings connected to add-on updates
