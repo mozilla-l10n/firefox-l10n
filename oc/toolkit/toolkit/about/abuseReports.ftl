@@ -46,6 +46,24 @@ abuse-report-messagebar-removed-sitepermission = Mercés d’aver enviat un rap�
 abuse-report-messagebar-removed-theme = Mercés d’aver enviat un rapòrt. Avètz suprimit lo tèma <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Una error s’es producha en mandar lo senhalament de <span data-l10n-name="addon-name"> { $addon-name } </span>.
 abuse-report-messagebar-error-recent-submit = Lo senhalament de <span data-l10n-name="addon-name">{ $addon-name }</span> es pas estat mandat qu'un autre senhalament foguèt enviat recentament.
+abuse-report-messagebar-aborted2 =
+    .message = Senhalament de { $addon-name } anullat.
+abuse-report-messagebar-submitting2 =
+    .message = Mandadís d’un senhalament de { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Mercés d’aver enviat un rapòrt. Volètz suprimir { $addon-name } ?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Mercés d’aver enviat un rapòrt.
+abuse-report-messagebar-removed-extension2 =
+    .message = Mercés d’aver enviat un rapòrt. Avètz suprimit l’extension { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Mercés d’aver enviat un rapòrt. Avètz suprimit la permission del site { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Mercés d’aver enviat un rapòrt. Avètz suprimit lo tèma { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Una error s’es producha en mandar lo senhalament de { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Lo senhalament de { $addon-name } es pas estat mandat qu'un autre senhalament foguèt enviat recentament.
 
 ## Message bars actions.
 
