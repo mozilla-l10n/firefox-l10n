@@ -319,6 +319,9 @@ addon-detail-homepage-label = Tudalen Cartref
 addon-detail-rating-label = Graddio
 # Message for add-ons with a staged pending update.
 install-postponed-message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
 install-postponed-button = Diweddarwch Nawr
 # The average rating that the add-on has received.
 # Variables:
