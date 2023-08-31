@@ -438,13 +438,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } n'è betg cumpatibel cun { -brand-short-name } { $version }.
 details-notification-incompatible-link = Ulteriuras infurmaziuns
 details-notification-unsigned-and-disabled = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
+details-notification-unsigned-and-disabled2 =
+    .message = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Il suplement è vegnì deactivà.
 details-notification-unsigned-and-disabled-link = Ulteriuras infurmaziuns
 details-notification-unsigned = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.
+details-notification-unsigned2 =
+    .message = Impussibel da verifitgar { $name } per l'utilisaziun en { -brand-short-name }. Cuntinuar cun precauziun.
 details-notification-unsigned-link = Ulteriuras infurmaziuns
 details-notification-blocked = { $name } è vegnì deactivà pervia da problems da segirezza u da stabilitad.
+details-notification-blocked2 =
+    .message = { $name } è vegnì deactivà pervia da problems da segirezza u da stabilitad.
 details-notification-blocked-link = Dapli infurmaziuns
 details-notification-softblocked = { $name } po chaschunar problems da segirezza u da stabilitad.
+details-notification-softblocked2 =
+    .message = { $name } po chaschunar problems da segirezza u da stabilitad.
 details-notification-softblocked-link = Ulteriuras infurmaziuns
 details-notification-gmp-pending = { $name } vegn installà en curt mument.
+details-notification-gmp-pending2 =
+    .message = { $name } vegn installà en curt mument.
