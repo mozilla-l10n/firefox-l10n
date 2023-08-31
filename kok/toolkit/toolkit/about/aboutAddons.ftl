@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
 extensions-warning-check-compatibility = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
+extensions-warning-safe-mode2 =
+    .message = सुरक्षित शैलीन सगले अँड-ऑन असमर्थ केल्यात
+extensions-warning-check-compatibility2 =
+    .message = अॅड-ऑन सुसंगतताय तपासणी अक्षम केल्या. तुमचेकडेन असुसंगत अॅड-ऑन आसू येतात.
 extensions-warning-check-compatibility-button = सक्षम
     .title = अँड-ऑन अनुरूपताय तपासणी समर्थ करा
 extensions-warning-update-security = अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.
+extensions-warning-update-security2 =
+    .message = अॅड-ऑन सुदार सुरक्षा तपासणी अक्षम केल्या. तुमच्या सुदारांनी तडजोड केल्ली आसू येता.
 extensions-warning-update-security-button = सक्षम
     .title = अँड-ऑन अपडेट सुरक्षा तपासणी समर्थ करा
 
