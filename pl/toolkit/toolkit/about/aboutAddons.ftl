@@ -256,6 +256,9 @@ discopane-intro =
     dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez przeglądarkę { -brand-product-name }.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
 discopane-notice-learn-more = Więcej informacji
 privacy-policy = Zasady ochrony prywatności
 # Refers to the author of an add-on, shown below the name of the add-on.
