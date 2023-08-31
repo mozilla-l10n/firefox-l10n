@@ -8,22 +8,18 @@ password-quality-meter = Medidor de calidade de contrasinais
 
 change-device-password-window =
     .title = Cambiar o contrasinal
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguranza: { $tokenName }
 change-password-old = Contrasinal actual:
 change-password-new = Novo contrasinal:
 change-password-reenter = Novo contrasinal (outra vez):
-
 pippki-failed-pw-change = Non foi posíbel cambiar o contrasinal.
 pippki-incorrect-pw = Non introduciu o contrasinal actual correcto. Por favor, inténteo de novo.
 pippki-pw-change-ok = Cambiouse correctamente o contrasinal.
-
 pippki-pw-empty-warning = Non se protexerán os seus contrasinais e chaves privadas almacenadas.
 pippki-pw-erased-ok = Eliminou o seu contrasinal. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Advertencia! Decidiu non usar un contrasinal. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Actualmente está en modo FIPS. FIPS require un contrasinal non baleiro.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Restabelecer
 reset-primary-password-text = Se restablece o seu contrasinal principal, esqueceranse todos os seus contrasinais de correo electrónico e correo electrónico, certificados persoais e chaves privadas. Confirma que desexa restablecer o seu contrasinal principal?
-
 pippki-reset-password-confirmation-title = Restablecer contrasinal principal
 pippki-reset-password-confirmation-message = Restableceuse o seu contrasinal principal.
 
@@ -55,11 +50,31 @@ download-cert-view-text = Examinar o certificado da AC
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Solicitude de identificación de usuario
 client-auth-site-description = Este sitio solicitou que se identifique cun certificado:
 client-auth-choose-cert = Escolla un certificado para presentar como identificación:
 client-auth-cert-details = Detalles do certificado seleccionado:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Emitido para: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Número de serie: { $serialNumber }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Usos da chave: { $keyUsages }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Emitido por: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Gardado en: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Lembrar esta decisión
 
 ## Set password (p12) dialog
 
@@ -71,8 +86,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Contrasinal da copia de seguranza do certificado (outra vez):
 set-password-reminder = Importante: Se esquece o contrasinal da copia de seguranza do certificado non poderá restaurar esa copia. Gárdeo nun lugar seguro.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
