@@ -57,6 +57,11 @@ client-auth-window =
     .title = Napšašowanje wó identifikaciji wužywarja
 client-auth-site-description = Toś to sedło jo pominał, až wy sam identificěrujośo se pśez certifikat:
 client-auth-choose-cert = Wubjeŕśo certifikat za identifikaciju:
+client-auth-send-no-certificate =
+    .label = Certifikat njesłaś
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = „{ $hostname }“ jo pominał, až se z certifikatom identificěrujośo:
 client-auth-cert-details = Drobnostki wubranego certifikata:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
