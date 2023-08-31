@@ -227,6 +227,11 @@ shortcuts-duplicate = Tvítaka flýtilykil
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } er notað sem flýtileið í fleiri en einu tilviki. Tvíteknar flýtileiðir geta valdið óvæntri hegðun.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } er notað sem flýtileið í fleiri en einu tilviki. Tvíteknar flýtileiðir geta valdið óvæntri hegðun.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
