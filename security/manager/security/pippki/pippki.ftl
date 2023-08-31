@@ -72,11 +72,16 @@ client-auth-cert-details-validity-period = Valaivel dals { $notBefore } enfin il
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
 client-auth-cert-details-key-usages = Utilisaziun da la clav: { $keyUsages }
 # Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Adressas d'e-mail: { $emailAddresses }
+# Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Emess da: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Memorisà sin: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Memorisar questa decisiun
 
 ## Set password (p12) dialog
 
