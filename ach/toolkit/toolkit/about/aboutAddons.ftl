@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Lalo med-ikome
-
 search-header =
     .placeholder = Yeny addons.mozilla.org
     .searchbuttonlabel = Yeny
@@ -11,89 +10,65 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Pe itye ki med-ikome ma kit man ma kiketo
-
 list-empty-available-updates =
     .value = Ngec manyen pe ononge
-
 list-empty-recent-updates =
     .value = Pwod pe i keto ngec manyen i med-ikome cokki
-
 list-empty-find-updates =
     .label = Rot pi ngec manyen
-
 list-empty-button =
     .label = Nong ngec mapol ikom med-ikome
-
 help-button = Kony me Med-ikome
 sidebar-help-button-title =
     .title = Kony me Med-ikome
-
 show-unsigned-extensions-button =
     .label = Pe onongo kiromo moko ada pa lamed mogo
-
 show-all-extensions-button =
     .label = Nyut lamed weng
-
 detail-version =
     .label = Kite
-
 detail-last-updated =
     .label = Kiketo ngec manyen me agiki
-
 detail-contributions-description = Ngat ma oyubo med-ikome man kwayo ni i kony me cwako mede me yubo ne kun imiyo ajog matidi mo.
-
 detail-update-type =
     .value = Ngec manyen mapire kene
-
 detail-update-default =
     .label = En matye
     .tooltiptext = Ket ngec manyen pire kene keken kace meno aye mapire kene
-
 detail-update-automatic =
     .label = Cwiny
     .tooltiptext = Ket ngec manyen pire kene
-
 detail-update-manual =
     .label = Neki
     .tooltiptext = Pe i ket ngec manyen pire kene
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overriden by the user.
 detail-private-disallowed-label = Pe ki Yee i Dirica me Mung
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Mito nongo Dirica me Mung
-
 detail-private-browsing-on =
     .label = Yee
     .tooltiptext = Cak i Yeny me Mung
-
 detail-private-browsing-off =
     .label = Pe Iyee
     .tooltiptext = Juk i Yeny me Mung
-
 detail-home =
     .label = Pot buk me acaki
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Profile me med-ikome
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Rot pi ngec manyen
     .accesskey = p
     .tooltiptext = Rot pi ngec manyen pi med-ikome man
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -110,37 +85,25 @@ detail-show-preferences =
             [windows] Lok gin ayera me med-ikome man
            *[other] Lok ter me med-ikome man
         }
-
 detail-rating =
     .value = Mino wel ne
-
 addon-restart-now =
     .label = Cak odoco kombedi
-
 disabled-unsigned-heading =
     .value = Kijuko med-ikome mogo woko
-
 disabled-unsigned-description = Med-ikome magi pe kimoko ada gi me tic i { -brand-short-name }. Itwero <label data-l10n-name="find-addons">nong lale kakagi</label> onyo peny layub wek omoko ada gi.
-
 disabled-unsigned-learn-more = Nong ngec mapol ikom tute wa me gwoki ma ber i wiyamo.
-
 disabled-unsigned-devinfo = Luyub ma mito moko ada pa med-ikome gi twero mede ki kwano <label data-l10n-name="learn-more">ki cing</label>.
-
 plugin-deprecation-description = Gino mo orem? { -brand-short-name } pe dong cwako larwak mogo. <label data-l10n-name="learn-more">Nong ngec mapol.</label>
-
 legacy-warning-show-legacy = Nyut lamed macon
-
 legacy-extensions =
     .value = Lamed Macon
-
 legacy-extensions-description = Lamed magi pe rwate ki rwom pa { -brand-short-name } ma kombedi pi meno kijuko gi woko. <label data-l10n-name="legacy-learn-more">Nong ngec ikom alokoloka magi i med-ikome</label>
-
 private-browsing-description2 =
     { -brand-short-name } tye ka loko kit ma lamed tiyo kwede i yeny me mung. Lamed mo manyen ma imedo ii
     { -brand-short-name } pe bitic pire kene i Dirica me Mung. Nikwanyo ka iyee i ter, lamed meno pe bitic ikare me yeny i mung, ki pe binongo tic mamegi me wiyamo
     kunu. Watimo alokaloka man me gwoko yeny me mung mamegi i mung.
     <label data-l10n-name="private-browsing-learn-more">Nong ngec ikit me loono ter pa lamed</label>
-
 addon-category-extension = Kube pa tic a kompiuta
 addon-category-extension-title =
     .title = Kube pa tic a kompiuta
@@ -216,13 +179,10 @@ addon-open-about-debugging = Nong bal i Med-ikome
 ## Extension shortcut management
 
 shortcuts-no-addons = Pe itye ki lamed mo ma kicako.
-
 shortcuts-pageAction = Cak tic me potbuk
 shortcuts-sidebarAction = Lok gitic me nget
-
 shortcuts-modifier-mac = Ket Ctrl, Alt, onyo ⌘
 shortcuts-modifier-other = Ket Ctrl onyo Alt
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -240,23 +200,20 @@ shortcuts-exists = { $addon } dong tye katic kwede
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
 
+
 ## Page headings
 
 addons-heading-search-input =
     .placeholder = Yeny addons.mozilla.org
-
 addon-page-options-button =
     .title = Gintic pi med-ikome weng
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -265,17 +222,18 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } pe rwate kwede { -brand-short-name } { $version }.
-
 details-notification-unsigned-and-disabled = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name } kadong ki juko woko.
+details-notification-unsigned-and-disabled2 =
+    .message = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name } kadong ki juko woko.
 details-notification-unsigned-and-disabled-link = Ngec mapol
-
 details-notification-unsigned = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name }. Mede ki diro.
+details-notification-unsigned2 =
+    .message = pe onongo kiromo moko ada pa { $name } me tic kwede i { -brand-short-name }. Mede ki diro.
 details-notification-unsigned-link = Ngec mapol
-
 details-notification-blocked = { $name } kityeko kwanyo pi kelo kop ikom gwok onyo bedo mot.
 details-notification-blocked-link = Ngec Mukene
-
 details-notification-softblocked = { $name } ngene pi kelo kop ikom gwok onyo bedo mot.
 details-notification-softblocked-link = Ngec Mukene
-
 details-notification-gmp-pending = { $name } bi kete ma cokcoki.
+details-notification-gmp-pending2 =
+    .message = { $name } bi kete ma cokcoki.
