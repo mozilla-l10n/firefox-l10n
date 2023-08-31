@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = 檢視最近各視窗、裝置的瀏覽紀錄
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F

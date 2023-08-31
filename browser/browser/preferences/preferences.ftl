@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = 傳送「Do Not Track」訊號，告訴網站您不想被追蹤
+do-not-track-description2 =
+    .label = 告訴網站「不要追蹤我」
+    .accesskey = d
 do-not-track-learn-more = 了解更多
 do-not-track-option-default-content-blocking-known =
     .label = 僅在 { -brand-short-name } 設定為封鎖已知追蹤器時
 do-not-track-option-always =
     .label = 總是
+global-privacy-control-description =
+    .label = 告訴網站不要銷售或分享我的資料
+    .accesskey = s
 settings-page-title = 設定
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
