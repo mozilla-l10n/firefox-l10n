@@ -156,9 +156,15 @@ addon-sitepermission-host = Разрешения сайта для { $host }
 
 extensions-warning-safe-mode = В безопасном режиме все дополнения отключены.
 extensions-warning-check-compatibility = Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.
+extensions-warning-safe-mode2 =
+    .message = В безопасном режиме все дополнения отключены.
+extensions-warning-check-compatibility2 =
+    .message = Проверка совместимости дополнений отключена. У вас могут иметься несовместимые дополнения.
 extensions-warning-check-compatibility-button = Включить
     .title = Включить проверку совместимости дополнений
 extensions-warning-update-security = Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.
+extensions-warning-update-security2 =
+    .message = Проверка безопасного обновления дополнений отключена. Обновления могут поставить вас под угрозу.
 extensions-warning-update-security-button = Включить
     .title = Включить проверку безопасного обновления дополнений
 extensions-warning-imported-addons = Пожалуйста, завершите установку расширений, которые были импортированы в { -brand-short-name }.
