@@ -163,6 +163,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = 開啟
     .title = 開啟附加元件更新安全性檢查
 extensions-warning-imported-addons = 請完成已匯入 { -brand-short-name } 的擴充套件的安裝步驟。
+extensions-warning-imported-addons2 =
+    .message = 請完成已匯入 { -brand-short-name } 的擴充套件的安裝步驟。
 extensions-warning-imported-addons-button = 安裝擴充套件
 
 ## Strings connected to add-on updates
