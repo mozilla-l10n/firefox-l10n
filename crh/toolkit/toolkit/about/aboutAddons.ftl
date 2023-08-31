@@ -125,9 +125,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
 extensions-warning-check-compatibility = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
+extensions-warning-safe-mode2 =
+    .message = Episi eklentiler emin tarz tarafından ğayrıqabilleştirilgendir.
+extensions-warning-check-compatibility2 =
+    .message = Eklenti telif qabiliyeti teşkerüvi qabil degildir. Belki ğayrı-qabili-telif eklentileriñiz bar.
 extensions-warning-check-compatibility-button = Qabilleştir
     .title = Eklenti telif qabiliyeti teşkerüvini qabilleştir
 extensions-warning-update-security = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
+extensions-warning-update-security2 =
+    .message = Eklenti yañartması emniyet teşkerüvi qabil degildir. Yañartmalar tarafından tehlükege atılabilirsiñiz.
 extensions-warning-update-security-button = Qabilleştir
     .title = Eklenti yañartması emniyet teşkerüvini qabilleştir
 
