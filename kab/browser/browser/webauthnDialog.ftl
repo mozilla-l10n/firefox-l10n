@@ -11,4 +11,11 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN d arameɣtu. Ɛreḍ tikelt-nniḍen.
 webauthn-pin-required-prompt = Ttxil-k·m sekcem PIN i yibenk-ik·im.
-
+# Variables:
+#  $retriesLeft (Number): number of tries left
+webauthn-uv-invalid-long-prompt =
+    { $retriesLeft ->
+        [one] Asenqed n useqdac yecceḍ. { $retriesLeft } uneɛruḍ n i d-yeqqimen. Ɛreḍ tikkelt niḍen.
+       *[other] Asenqed n useqdac yecceḍ. { $retriesLeft } yineɛruḍen n i d-yeqqimen. Ɛreḍ tikkelt niḍen.
+    }
+webauthn-uv-invalid-short-prompt = Asenqed n useqdac yecceḍ. Ɛreḍ tikkelt niḍen.
