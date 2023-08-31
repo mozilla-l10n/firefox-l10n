@@ -145,6 +145,8 @@ addon-sitepermission-host = Կայքի թույլտվությունները { $h
 
 extensions-warning-safe-mode = Ապահով կերպը պասիվացրել է բոլոր հավելումները:
 extensions-warning-check-compatibility = Հավելումների համատեղելիության ստուգումը պասիվ է: Դուք կարող էք ունենալ անհամատեղելի հավելումներ:
+extensions-warning-safe-mode2 =
+    .message = Ապահով կերպը պասիվացրել է բոլոր հավելումները:
 extensions-warning-check-compatibility-button = Միացնել
     .title = Միացնել հավելման համատեղելիության ստուգումը
 extensions-warning-update-security = Հավելումների թարմացման անվտանգության ստուգումը պասիվացված է: Թարմացումները կարող են վտանգավոր լինել ձեր համար:
