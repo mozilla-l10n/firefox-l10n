@@ -43,6 +43,22 @@ abuse-report-messagebar-removed-extension = Îți mulțumim că ai trimis o rapo
 abuse-report-messagebar-removed-theme = Îți mulțumim că ai trimis o raportare. Ai eliminat tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = A apărut o problemă la transmiterea raportării pentru <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Raportarea pentru <span data-l10n-name="addon-name">{ $addon-name }</span> nu a fost transmisă deoarece a mai fost depusă recent altă raportare.
+abuse-report-messagebar-aborted2 =
+    .message = Raportare anulată pentru { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Se transmite raportarea pentru { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Îți mulțumim că ai trimis raportarea. Vrei să elimini { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Îți mulțumim că ai transmis o raportare.
+abuse-report-messagebar-removed-extension2 =
+    .message = Îți mulțumim că ai trimis o raportare. Ai eliminat extensia { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Îți mulțumim că ai trimis o raportare. Ai eliminat tema { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = A apărut o problemă la transmiterea raportării pentru { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Raportarea pentru { $addon-name } nu a fost transmisă deoarece a mai fost depusă recent altă raportare.
 
 ## Message bars actions.
 
