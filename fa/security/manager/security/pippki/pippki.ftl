@@ -35,11 +35,38 @@ download-cert-view-text = بررسی گواهی مرجع صدور
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = درخواست تشخیص هویت کاربر
 client-auth-site-description = این پایگاه درخواست کرده شما خود را با ارائهٔ یک گواهی معرفی کنید:
 client-auth-choose-cert = یک گواهی به عنوان مدرک شناسایی انتخاب کنید:
 client-auth-cert-details = جزئیات گواهی انتخاب شده:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = منتشر شده برای: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = شماره سریال: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = معتبر از { $notBefore } تا { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = موارد استفاده کلید: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = آدرس‌های پست‌الکترونیکی: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = منتشر شده توسط: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = ذخیره شده در: { $storedOn }
+client-auth-cert-remember-box =
+    .label = این تصمیم را به خاطر بسپار
 
 ## Set password (p12) dialog
 
@@ -51,8 +78,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = گذرواژهٔ پشتیبان گواهی (دوباره وارد کنید):
 set-password-reminder = مهم: اگر گذرواژهٔ پشتیبان گواهی‌تان را فراموش کنید، بغداً قادر نخواهید بود از این پشتیبان برای بازگرداندن سیستم به حالت قدیم استقاده کنید. لطفاً گذرواژه را در محل امنی ضبط کنید.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
