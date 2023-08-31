@@ -285,6 +285,9 @@ addon-detail-homepage-label = صفحة البداية
 addon-detail-rating-label = التقييم
 # Message for add-ons with a staged pending update.
 install-postponed-message = سيُحدّث هذا الامتداد متى أُعيد تشغيل { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = سيُحدّث هذا الامتداد متى أُعيد تشغيل { -brand-short-name }.
 install-postponed-button = حدّث الآن
 # The average rating that the add-on has received.
 # Variables:
