@@ -258,6 +258,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
     пашырэннях, якія вы ўсталявалі, перавагах профілю і статыстыцы выкарыстання.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Некаторыя з гэтых рэкамендацый персаніфікаваныя. Яны заснаваны на іншых
+        пашырэннях, якія вы ўсталявалі, перавагах профілю і статыстыцы выкарыстання.
 discopane-notice-learn-more = Даведацца больш
 privacy-policy = Палітыка прыватнасці
 # Refers to the author of an add-on, shown below the name of the add-on.
