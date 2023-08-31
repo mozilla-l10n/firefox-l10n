@@ -320,6 +320,9 @@ addon-detail-homepage-label = Domovská stránka
 addon-detail-rating-label = Hodnotenie
 # Message for add-ons with a staged pending update.
 install-postponed-message = Toto rozšírenie bude aktualizované pri reštarte aplikácie { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Toto rozšírenie bude aktualizované pri reštarte aplikácie { -brand-short-name }.
 install-postponed-button = Aktualizovať teraz
 # The average rating that the add-on has received.
 # Variables:
