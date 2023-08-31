@@ -319,6 +319,9 @@ addon-detail-homepage-label = Heimeside
 addon-detail-rating-label = Vurdering
 # Message for add-ons with a staged pending update.
 install-postponed-message = Denne utvidinga vert oppdatert når { -brand-short-name } startar på nytt.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Denne utvidinga vert oppdatert når { -brand-short-name } startar på nytt.
 install-postponed-button = Oppdater no
 # The average rating that the add-on has received.
 # Variables:
