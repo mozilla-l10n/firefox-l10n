@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Wszëtczé dodôwczi òstałé wëłączoné przez awariowi trib.
 extensions-warning-check-compatibility = Sprôwdzanié kòmpatibilnotë dodôwków je wëłączoné. Jaczés dodôwczi mògą bëc niekòmpatibilne.
+extensions-warning-safe-mode2 =
+    .message = Wszëtczé dodôwczi òstałé wëłączoné przez awariowi trib.
+extensions-warning-check-compatibility2 =
+    .message = Sprôwdzanié kòmpatibilnotë dodôwków je wëłączoné. Jaczés dodôwczi mògą bëc niekòmpatibilne.
 extensions-warning-check-compatibility-button = Włączë
     .title = Włączë sprôwdzanié kòmpatibilnotë dodôwków
 extensions-warning-update-security = Sprôwdzanié bezpiekù aktualizacje je wëłączoné. Aktualizacje mògą bëc zagrożenim.
+extensions-warning-update-security2 =
+    .message = Sprôwdzanié bezpiekù aktualizacje je wëłączoné. Aktualizacje mògą bëc zagrożenim.
 extensions-warning-update-security-button = Włączë
     .title = Włączë sprôwdzanié bezpiekù aktualizacje dodôwków
 
