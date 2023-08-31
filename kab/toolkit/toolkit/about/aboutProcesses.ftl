@@ -126,6 +126,7 @@ about-processes-utility-actor-audio-decoder-wmf = Akestengal n umeslaw Windows M
 about-processes-utility-actor-mf-media-engine = CDM n umsedday n unadi n umidyat n Windows Media Foundation
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = Oracle JavaScript
+about-processes-utility-actor-windows-utils = Ihallen n tanfa n Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:
