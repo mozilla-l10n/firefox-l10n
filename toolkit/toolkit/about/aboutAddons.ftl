@@ -156,9 +156,15 @@ addon-sitepermission-host = Nettstadløyve for { $host }
 
 extensions-warning-safe-mode = Alle tillegg er avslegne av trygg-modus.
 extensions-warning-check-compatibility = Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible tillegg.
+extensions-warning-safe-mode2 =
+    .message = Alle tillegg er avslegne av trygg-modus.
+extensions-warning-check-compatibility2 =
+    .message = Kompatiblitetskonroll er avslegen. Du har kanskje ikkje-kompatible tillegg.
 extensions-warning-check-compatibility-button = Slå på
     .title = Slå på kompatibilitetskontroll
 extensions-warning-update-security = Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.
+extensions-warning-update-security2 =
+    .message = Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.
 extensions-warning-update-security-button = Slå på
     .title = Slå på tryggingskontroll av tilleggsoppdateringar
 extensions-warning-imported-addons = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
