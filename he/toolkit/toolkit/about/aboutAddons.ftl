@@ -165,6 +165,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = הפעלה
     .title = הפעלת בדיקות אבטחה לעדכוני תוספות
 extensions-warning-imported-addons = נא להשלים את התקנת ההרחבות שיובאו אל { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = נא להשלים את התקנת ההרחבות שיובאו אל { -brand-short-name }.
 extensions-warning-imported-addons-button = התקנת הרחבות
 
 ## Strings connected to add-on updates
