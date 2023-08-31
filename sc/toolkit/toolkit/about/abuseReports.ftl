@@ -60,6 +60,8 @@ abuse-report-messagebar-removed-sitepermission2 =
     .message = Gràtzias de s’informe tuo. As bogadu su cumplementu de permissos de su situ { $addon-name }.
 abuse-report-messagebar-removed-theme2 =
     .message = Gràtzias de s'informe tuo. As cantzelladu su tema { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Faddina in s'imbiu de s'informe subra de { $addon-name }.
 abuse-report-messagebar-error-recent-submit2 =
     .message = S'informe subra de { $addon-name } no est istadu imbiadu ca un'àteru informe est istadu imbiadu dae pagu.
 
