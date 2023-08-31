@@ -261,6 +261,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Cualchidun di chescj conseis al è personalizât. A son basâts su lis altris
     estensions instaladis, preferencis dal profîl e statistichis di utilizazion.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Cualchidun di chescj conseis al è personalizât. A son basâts su lis altris
+        estensions instaladis, preferencis dal profîl e statistichis di utilizazion.
 discopane-notice-learn-more = Plui informazions
 privacy-policy = Politiche pe riservatece
 # Refers to the author of an add-on, shown below the name of the add-on.
