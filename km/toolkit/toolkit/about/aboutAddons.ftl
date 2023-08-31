@@ -7,70 +7,51 @@ addons-page-title = កម្មវិធី​គ្រប់គ្រង​ក
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = អ្នក​មិន​មាន​កម្មវិធី​បន្ថែម​ប្រភេទ​ណាមួយ​ដែល​ត្រូវ​បាន​ដំឡើង​ទេ
-
 list-empty-available-updates =
     .value = រក​មិន​ឃើញ​បច្ចុប្បន្នភាព
-
 list-empty-recent-updates =
     .value = បច្ចុប្បន្ន​នេះ អ្នក​មិន​បាន​ធ្វើ​បច្ចុប្បន្នភាព​កម្មវិធី​បន្ថែម​ទេ
-
 list-empty-find-updates =
     .label = រកមើល​បច្ចុប្បន្នភាព
-
 list-empty-button =
     .label = សិក្សា​បន្ថែម​អំពី​កម្មវិធី​បន្ថែម
-
 show-unsigned-extensions-button =
     .label = ផ្នែក​បន្ថែម​ខ្លះ​មិន​អាច​បញ្ជាក់​បាន​ទេ
-
 show-all-extensions-button =
     .label = បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់
-
 detail-version =
     .label = កំណែ
-
 detail-last-updated =
     .label = បាន​ធ្វើ​បច្ចុប្បន្នភាព​លើក​ចុងក្រោយ
-
 detail-contributions-description = អ្នក​អភិវឌ្ឍន៍​កម្មវិធី​បន្ថែម​នេះ​ស្នើសុំ​ឲ្យ​អ្នក​ជួយ​គាំទ្រ​ដោយ​ការ​ចូលរួម​បរិច្ចាគ​បន្តិចបន្តួច​ដើម្បី​ធ្វើឲ្យ​ការ​អភិវឌ្ឍ​មាន​ដំណើរការ​បន្ត​ទៅមុខ​ទៀត ។
-
 detail-update-type =
     .value = បច្ចុប្បន្នភាព​ស្វ័យប្រវត្តិ
-
 detail-update-default =
     .label = លំនាំ​ដើម
     .tooltiptext = អាច​ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ​បាន លុះត្រាតែ​វា​ជា​លំនាំដើម
-
 detail-update-automatic =
     .label = បើក
     .tooltiptext = ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ
-
 detail-update-manual =
     .label = បិទ
     .tooltiptext = កុំ​ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ
-
 detail-home =
     .label = គេហទំព័រ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ទម្រង់​កម្មវិធី​បន្ថែម
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = ពិនិត្យមើល​បច្ចុប្បន្នភាព
     .accesskey = ព
     .tooltiptext = រកមើល​បច្ចុប្បន្នភាព​សម្រាប់​កម្មវិធី​បន្ថែម​នេះ
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,24 +68,16 @@ detail-show-preferences =
             [windows] ផ្លាស់ប្ដូរ​ជម្រើស​របស់​កម្មវិធី​បន្ថែម​នេះ
            *[other] ផ្លាស់ប្ដូរ​ចំណូលចិត្ត​របស់​កម្មវិធី​បន្ថែម​នេះ
         }
-
 detail-rating =
     .value = ការ​វាយតម្លៃ
-
 addon-restart-now =
     .label = ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវនេះ
-
 disabled-unsigned-heading =
     .value = កម្មវិធី​ផ្នែក​បន្ថែម​ខ្លះ​ត្រូវ​បាន​បិទ
-
 disabled-unsigned-description = កម្មវិធី​ផ្នែក​បន្ថែម​ខាងក្រោម​មិន​ទាន់​បាន​បញ្ជាក់​​ឲ្យ​ប្រើប្រាស់​នៅ​ក្នុង { -brand-short-name } នៅ​ឡើយ​ទេ។ អ្នក​អាច <label data-l10n-name="find-addons">រក​កម្មវិធី​ជំនួស</label> ឬ​សួរ​​អ្នក​អភិវឌ្ឍ​ដើម្បី​ឲ្យ​ពួកគេ​បញ្ជាក់​វា។
-
 disabled-unsigned-learn-more = ស្វែងយល់​បន្ថែម​អំពី​ការ​ព្យាយាម​របស់​យើង​ដើម្បី​ជួយ​រក្សា​សុវត្ថិភាព​របស់​អ្នក​នៅ​លើ​អ៊ីនធឺណិត។
-
 disabled-unsigned-devinfo = អ្នក​អភិវឌ្ឍ​ដែល​ចាប់អារម្មណ៍​​ដើម្បី​​បញ្ជាក់​កម្មវិធី​​ផ្នែក​បន្ថែម​របស់​ពួកគេ​អាច​បន្ត​ដោយ​អាន <label data-l10n-name="learn-more">ដោយដៃ</label>.
-
 plugin-deprecation-description = មាន​បាត់​អ្វី​មែន​ទេ? ផ្នែក​បន្ថែម​មួយ​ចំនួន​មិន​គាំទ្រ​ដោយ { -brand-short-name } ទៀត​ទេ។ <label data-l10n-name="learn-more">ស្វែងយល់បន្ថែម</label>
-
 addon-category-extension = ផ្នែក​បន្ថែម
 addon-category-extension-title =
     .title = ផ្នែក​បន្ថែម
@@ -189,11 +162,13 @@ addon-open-about-debugging = បំបាត់​កំហុស​ផ្នែ
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -202,26 +177,25 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } មិន​ឆប​ជាមួយ { -brand-short-name } { $version } ។
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } មិន​ឆប​ជាមួយ { -brand-short-name } { $version } ។
 details-notification-unsigned-and-disabled = { $name } មិន​អាច​បញ្ជាក់​សម្រាប់​ប្រើ​នៅ​ក្នុង { -brand-short-name } និង​ត្រូវ​បាន​បិទ​ដំណើរការ។
 details-notification-unsigned-and-disabled-link = ព័ត៌មាន​បន្ថែម
-
 details-notification-unsigned = { $name } មិន​អាច​បញ្ជាក់​សម្រាប់​ប្រើ​នៅ​ក្នុង { -brand-short-name }។ ចាប់ផ្ដើម​ដំណើរការ​ដោយ​ប្រុងប្រយ័ត្ន។
 details-notification-unsigned-link = ព័ត៌មាន​បន្ថែម
-
 details-notification-blocked = { $name } ត្រូវ​បាន​បិទ​ ដោយសារ​តែ​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។
+details-notification-blocked2 =
+    .message = { $name } ត្រូវ​បាន​បិទ​ ដោយសារ​តែ​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។
 details-notification-blocked-link = ព័ត៌មាន​បន្ថែម
-
 details-notification-softblocked = { $name } ត្រូវ​បាន​គេ​ដឹង​ថា នឹង​បង្ក​ឲ្យ​មាន​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។
+details-notification-softblocked2 =
+    .message = { $name } ត្រូវ​បាន​គេ​ដឹង​ថា នឹង​បង្ក​ឲ្យ​មាន​បញ្ហា​សុវត្ថិភាព ឬ​ស្ថិរភាព ។
 details-notification-softblocked-link = ព័ត៌មាន​បន្ថែម
-
 details-notification-gmp-pending = { $name } នឹង​ត្រូវ​បាន​ដំឡើង​នៅ​ពេល​បន្តិច​ទៀត។
