@@ -149,9 +149,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Aw eik-ons hae been disabled by sauf mode.
 extensions-warning-check-compatibility = Eik-on compatibility checkin is disabled. Ye micht hae incompatible eik-ons.
+extensions-warning-safe-mode2 =
+    .message = Aw eik-ons hae been disabled by sauf mode.
+extensions-warning-check-compatibility2 =
+    .message = Eik-on compatibility checkin is disabled. Ye micht hae incompatible eik-ons.
 extensions-warning-check-compatibility-button = Enable
     .title = Enable eik-on compatibility checkin
 extensions-warning-update-security = Eik-on update siccarness checkin is disabled. You micht be unnermined by updates.
+extensions-warning-update-security2 =
+    .message = Eik-on update siccarness checkin is disabled. You micht be unnermined by updates.
 extensions-warning-update-security-button = Enable
     .title = Enable eik-on update siccarness checkin
 
