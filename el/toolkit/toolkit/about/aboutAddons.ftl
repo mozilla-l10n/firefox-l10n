@@ -155,9 +155,15 @@ addon-sitepermission-host = Άδειες ιστοτόπου για το { $host 
 
 extensions-warning-safe-mode = Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.
 extensions-warning-check-compatibility = Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.
+extensions-warning-safe-mode2 =
+    .message = Όλα τα πρόσθετα έχουν απενεργοποιηθεί στην ασφαλή λειτουργία.
+extensions-warning-check-compatibility2 =
+    .message = Ο έλεγχος συμβατότητας προσθέτων είναι ανενεργός. Μπορεί να έχετε ασύμβατα πρόσθετα.
 extensions-warning-check-compatibility-button = Ενεργοποίηση
     .title = Ενεργοποίηση ελέγχου συμβατότητας προσθέτων
 extensions-warning-update-security = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
+extensions-warning-update-security2 =
+    .message = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
 extensions-warning-update-security-button = Ενεργοποίηση
     .title = Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων
 extensions-warning-imported-addons = Παρακαλώ ολοκληρώστε την εγκατάσταση των επεκτάσεων που εισήχθησαν στο { -brand-short-name }.
