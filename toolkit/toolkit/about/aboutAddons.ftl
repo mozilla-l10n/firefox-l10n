@@ -313,6 +313,9 @@ addon-detail-homepage-label = Kotisivu
 addon-detail-rating-label = Arvostelu
 # Message for add-ons with a staged pending update.
 install-postponed-message = Tämä laajennus päivitetään, kun { -brand-short-name } käynnistyy uudelleen.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Tämä laajennus päivitetään, kun { -brand-short-name } käynnistyy uudelleen.
 install-postponed-button = Päivitä nyt
 # The average rating that the add-on has received.
 # Variables:
