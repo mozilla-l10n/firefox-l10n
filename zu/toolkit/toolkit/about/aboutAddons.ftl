@@ -7,64 +7,47 @@ addons-page-title = Umphathi wokungezwayo
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Awunakho okungezwayo kwalolu hlobo okakiwe
-
 list-empty-available-updates =
     .value = Akukho ukuvuselela okutholakele
-
 list-empty-recent-updates =
     .value = Okwamanje awuvuselelanga okungezwayo
-
 list-empty-find-updates =
     .label = Ihlola Okufakwe Muva
-
 list-empty-button =
     .label = Funda kabanzi ngokungezwayo
-
 detail-version =
     .label = Inguqulo
-
 detail-last-updated =
     .label = Ukugcina ukuvuselela
-
 detail-contributions-description = Unjiniyela walokhu okwengezwayo ucela ukuba usize usekele ukukhula kwakho okuqhubekayo ngokubanmba iqhaza nje kancane.
-
 detail-update-type =
     .value = Ukuvuselela okuzenzakalelayo
-
 detail-update-default =
     .label = Okwakhona
     .tooltiptext = Faka ukuvuselela ngokuzenzakalela uma kuphela lokho kungokwakhona
-
 detail-update-automatic =
     .label = Khanya
     .tooltiptext = Faka ukuvuselela ngokuzenzakalela
-
 detail-update-manual =
     .label = Cima
     .tooltiptext = Ungafaki ukuvuselela ngokuzenzakalela
-
 detail-home =
     .label = Ikhasi eliyisiqalo
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Iprofayeli yokwengeziwe
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Hlola ukuvuselela
     .accesskey = u
     .tooltiptext = Hlola ukuvuselela kwalokhu okwengezwayo
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -81,13 +64,10 @@ detail-show-preferences =
             [windows] Shintasha izinketho zokwengezwayo
            *[other] Shintsha lokhu okuthandwayo kokungezwayo
         }
-
 detail-rating =
     .value = Ukala
-
 addon-restart-now =
     .label = Qala kabusha manje
-
 addon-category-extension = Izandiso
 addon-category-extension-title =
     .title = Izandiso
@@ -170,11 +150,13 @@ addon-install-from-file-filter-name = Okwengeziwe
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -183,19 +165,20 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = I-{ $name } ayisebenzisani ne-{ -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = I-{ $name } ayisebenzisani ne-{ -brand-short-name } { $version }.
 details-notification-blocked = I-{ $name } ikhutshaziwe ngenxa yezindaba zokuvikela noma amandla.
+details-notification-blocked2 =
+    .message = I-{ $name } ikhutshaziwe ngenxa yezindaba zokuvikela noma amandla.
 details-notification-blocked-link = Ulwazi olubanzi
-
 details-notification-softblocked = I-{ $name } iyaziwa ngokubangela izindaba zokuvikela noma amandla.
+details-notification-softblocked2 =
+    .message = I-{ $name } iyaziwa ngokubangela izindaba zokuvikela noma amandla.
 details-notification-softblocked-link = Ulwazi olubanzi
-
