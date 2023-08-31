@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.
 extensions-warning-check-compatibility = Ukaguzi wa utangamanifu wa kifaa cha nyongeza umelemazwa. Waweza kuwa na vifaa vya nyongeza sitangamanifu.
+extensions-warning-safe-mode2 =
+    .message = Vifaa vyote vya nyongeza vimelemazwa na hali tumizi ya usalama.
+extensions-warning-check-compatibility2 =
+    .message = Ukaguzi wa utangamanifu wa kifaa cha nyongeza umelemazwa. Waweza kuwa na vifaa vya nyongeza sitangamanifu.
 extensions-warning-check-compatibility-button = Wezesha
     .title = Wezesha ukaguzi wa utangamanifu wa kifaa cha nyongeza
 extensions-warning-update-security = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
+extensions-warning-update-security2 =
+    .message = Ukaguzi wa usalama wa kisasaisho cha vifaa vya nyongeza. Waweza kuwa umeafikiwa na visasaisho.
 extensions-warning-update-security-button = Wezesha
     .title = Wezesha ukaguzi wa usalama wa visasaisho vya vifaa vya nyongeza
 
