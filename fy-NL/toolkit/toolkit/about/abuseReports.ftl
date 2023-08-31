@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Tank foar it yntsjinjen fan in 
 abuse-report-messagebar-removed-theme = Tank foar it yntsjinjen fan in rapport. Jo hawwe it tema <span data-l10n-name="addon-name">{ $addon-name }</span> fuortsmiten.
 abuse-report-messagebar-error = Der is in flater bard by it ferstjoeren fan in rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = It rapport foar <span data-l10n-name="addon-name">{ $addon-name }</span> is net ferstjoerd, omdat jo resint in oar rapport ferstjoerd hawwe.
+abuse-report-messagebar-aborted2 =
+    .message = Rapport foar { $addon-name } annulearre.
+abuse-report-messagebar-submitting2 =
+    .message = Rapport ferstjoere foar { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Tank foar it yntsjinjen fan in rapport. Wolle jo { $addon-name } fuortsmite?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Tank foar it yntsjinjen fan in rapport.
+abuse-report-messagebar-removed-extension2 =
+    .message = Tank foar it yntsjinjen fan in rapport. Jo hawwe de útwreiding { $addon-name } fuortsmiten.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Tank foar it yntsjinjen fan in rapport. Jo hawwe de útwreiding foar websitemachtigingen { $addon-name } fuortsmiten.
+abuse-report-messagebar-removed-theme2 =
+    .message = Tank foar it yntsjinjen fan in rapport. Jo hawwe it tema { $addon-name } fuortsmiten.
+abuse-report-messagebar-error2 =
+    .message = Der is in flater bard by it ferstjoeren fan in rapport foar { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = It rapport foar { $addon-name } is net ferstjoerd, omdat jo resint in oar rapport ferstjoerd hawwe.
 
 ## Message bars actions.
 
