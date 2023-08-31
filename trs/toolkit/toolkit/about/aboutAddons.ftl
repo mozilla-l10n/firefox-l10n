@@ -204,6 +204,11 @@ shortcuts-duplicate = Narī ñanj du’ua aksêso direkto
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } huā ga’ì hiūj riñā ‘iaj sunj. Nej sa huā dànanj nī ga’ue nadunā sa gi’ia.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } huā ga’ì hiūj riñā ‘iaj sunj. Nej sa huā dànanj nī ga’ue nadunā sa gi’ia.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
