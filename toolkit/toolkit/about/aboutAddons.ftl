@@ -227,6 +227,11 @@ shortcuts-duplicate = Ismétlődő parancsikon
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = A { $shortcut } gyorsbillentyű több mint egy esetben van használva. Az ismétlődő gyorsbillentyűk váratlan viselkedést okozhatnak.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = A { $shortcut } gyorsbillentyű több mint egy esetben van használva. Az ismétlődő gyorsbillentyűk váratlan viselkedést okozhatnak.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
