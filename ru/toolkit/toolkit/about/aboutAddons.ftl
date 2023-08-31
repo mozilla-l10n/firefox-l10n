@@ -320,6 +320,9 @@ addon-detail-homepage-label = Домашняя страница
 addon-detail-rating-label = Рейтинг
 # Message for add-ons with a staged pending update.
 install-postponed-message = Это расширение будет обновлено после перезапуска { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Это расширение будет обновлено после перезапуска { -brand-short-name }.
 install-postponed-button = Обновить сейчас
 # The average rating that the add-on has received.
 # Variables:
