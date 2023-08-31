@@ -35,6 +35,10 @@ abuse-report-submit-button = দাখিল কৰক
 
 abuse-report-messagebar-submitting = <span data-l10n-name="addon-name"></span>-ৰ বাবে প্ৰতিবেদন পঠিয়াই থকা হৈছে।
 abuse-report-messagebar-submitted-noremove = প্ৰতিবেদন দাখিল কৰাৰ বাবে ধন্যবাদ।
+abuse-report-messagebar-submitting2 =
+    .message = <span data-l10n-name="addon-name"></span>-ৰ বাবে প্ৰতিবেদন পঠিয়াই থকা হৈছে।
+abuse-report-messagebar-submitted-noremove2 =
+    .message = প্ৰতিবেদন দাখিল কৰাৰ বাবে ধন্যবাদ।
 
 ## Message bars actions.
 
