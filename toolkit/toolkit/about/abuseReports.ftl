@@ -38,6 +38,20 @@ abuse-report-messagebar-removed-extension = A jaaraama e naatnugol jaŋtol. A it
 abuse-report-messagebar-removed-theme = A jaaraama e naatnugol jaŋtol. A ittii siŋkoore ndee <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ina waɗnoo juumre e neldugol jaŋtol ngam  <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Jaŋtol <span data-l10n-name="addon-name">{ $addon-name }</span> ngol neldanooka sabu jaŋtol goɗngol naatnanooma ko ɓooyaani.
+abuse-report-messagebar-submitting2 =
+    .message = Neldugol jaŋtol ngam { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = A jaaraama ngam naatnugol jaŋtol. Aɗa yiɗi ittude { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = A jaaraama e naatnugol jaŋtol.
+abuse-report-messagebar-removed-extension2 =
+    .message = A jaaraama e naatnugol jaŋtol. A ittii timmitere { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = A jaaraama e naatnugol jaŋtol. A ittii siŋkoore ndee { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Ina waɗnoo juumre e neldugol jaŋtol ngam  { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Jaŋtol { $addon-name } ngol neldanooka sabu jaŋtol goɗngol naatnanooma ko ɓooyaani.
 
 ## Message bars actions.
 
