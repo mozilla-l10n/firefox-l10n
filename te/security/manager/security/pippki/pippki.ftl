@@ -44,6 +44,9 @@ client-auth-site-description = మీ అంతట మీరే దృవీక�
 client-auth-choose-cert = గుర్తింపుగా ప్రవేశపెట్టుటకు ఒక ధృవీకరణపత్రాన్ని ఎన్నుకొనుము:
 client-auth-cert-details = ఎంపికచేసుకొన్న ధృవీకరణపత్రం వివరాలు:
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = వీరికి జారీ అయింది: { $issuedTo }
+# Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = క్రమ సంఖ్య: { $serialNumber }
 # Variables:
@@ -53,6 +56,9 @@ client-auth-cert-details-validity-period = { $notAfter } నుండి { $notB
 # Variables:
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
 client-auth-cert-details-key-usages = కీ ఉపయోగాలు: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ఈమెయిలు చిరునామాలు: { $emailAddresses }
 # Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = జారీచేసినది: { $issuedBy }
