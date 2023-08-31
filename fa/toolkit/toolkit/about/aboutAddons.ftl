@@ -382,6 +382,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } با نسخهٔ { $version } از { -brand-short-name } ناسازگار است.
 details-notification-unsigned-and-disabled = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشده و به همین دلیل غیرفعال شد.
@@ -391,8 +395,12 @@ details-notification-unsigned2 =
     .message = { $name } برای استفاده در { -brand-short-name } تایید نشد. با احتیاط ادامه دهید.
 details-notification-unsigned-link = اطلاعات بیشتر
 details-notification-blocked = { $name } به دلیل مشکلات امنیتی یا پایداری غیر فعال گردیده است.
+details-notification-blocked2 =
+    .message = { $name } به دلیل مشکلات امنیتی یا پایداری غیر فعال گردیده است.
 details-notification-blocked-link = اطلاعات بیشتر
 details-notification-softblocked = { $name } مشکلات امنیتی یا پایداری ایجاد می‌کند.
+details-notification-softblocked2 =
+    .message = { $name } مشکلات امنیتی یا پایداری ایجاد می‌کند.
 details-notification-softblocked-link = اطلاعات بیشتر
 details-notification-gmp-pending = { $name } به زودی نصب میشود.
 details-notification-gmp-pending2 =
