@@ -116,9 +116,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
 extensions-warning-check-compatibility = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
+extensions-warning-safe-mode2 =
+    .message = सेफ मोडद्वारे सर्व ॲड-ऑन्स् बंद केले आहे.
+extensions-warning-check-compatibility2 =
+    .message = ॲड-ऑन सहत्वता तपासणी बंद केली आहे. आपल्याकडे असहत्व ॲड-ऑन्स् असू शकतात.
 extensions-warning-check-compatibility-button = सुरू करा
     .title = ॲड-ऑन सहत्वता तपासणी सुरू करा
 extensions-warning-update-security = ॲड-ऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.
+extensions-warning-update-security2 =
+    .message = ॲड-ऑन सुधारणा सुरक्षा तपासणी बंद केले आहे. सुधारणा करतेवेळी सतर्क रहा.
 extensions-warning-update-security-button = सुरू करा
     .title = ॲड-ऑन सुधारणा सुरक्षा तपासणी सुरू करा
 
