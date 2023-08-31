@@ -258,6 +258,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Ezen javaslatok egy része személyre szabott. Ennek alapja a telepített kiegészítői,
     a profilbeállításai és a használati statisztikái.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Ezen javaslatok egy része személyre szabott. Ennek alapja a telepített kiegészítői,
+        a profilbeállításai és a használati statisztikái.
 discopane-notice-learn-more = További tudnivalók
 privacy-policy = Adatvédelmi irányelvek
 # Refers to the author of an add-on, shown below the name of the add-on.
