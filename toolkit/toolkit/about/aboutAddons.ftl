@@ -108,9 +108,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Drošais režīms ir deaktivējis visus papildinājumu.
 extensions-warning-check-compatibility = Papildinājumu savietojamības pārbaude ir deaktivēta. Iespējams jums ir nesavietojami papildinājumu.
+extensions-warning-safe-mode2 =
+    .message = Drošais režīms ir deaktivējis visus papildinājumu.
+extensions-warning-check-compatibility2 =
+    .message = Papildinājumu savietojamības pārbaude ir deaktivēta. Iespējams jums ir nesavietojami papildinājumu.
 extensions-warning-check-compatibility-button = Aktivēt
     .title = Aktivēt papildinājumu savietojamības pārbaudi
 extensions-warning-update-security = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
+extensions-warning-update-security2 =
+    .message = Papildinājumu drošības pārbaude ir deaktivēta. Iespējams jums ir nedroši papildinājumu.
 extensions-warning-update-security-button = Aktivēt
     .title = Aktivēt papildinājumu drošības pārbaudi
 
