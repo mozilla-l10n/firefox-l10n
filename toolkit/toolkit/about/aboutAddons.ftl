@@ -314,6 +314,9 @@ addon-detail-homepage-label = Web sitesi
 addon-detail-rating-label = Puan
 # Message for add-ons with a staged pending update.
 install-postponed-message = { -brand-short-name } yeniden başlatılınca bu uzantı güncellenecek.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = { -brand-short-name } yeniden başlatılınca bu uzantı güncellenecek.
 install-postponed-button = Şimdi güncelle
 # The average rating that the add-on has received.
 # Variables:
