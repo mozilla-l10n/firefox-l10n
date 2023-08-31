@@ -153,9 +153,15 @@ addon-sitepermission-host = Caniatâd Gwefan { $host }
 
 extensions-warning-safe-mode = Mae pob ychwanegyn wedi eu hanalluogi gan y modd diogel.
 extensions-warning-check-compatibility = Mae gwirio cydnawsedd ychwanegion wedi ei analluogi. Efallai fod gennych ychwanegion anghydnaws.
+extensions-warning-safe-mode2 =
+    .message = Mae pob ychwanegyn wedi eu hanalluogi gan y modd diogel.
+extensions-warning-check-compatibility2 =
+    .message = Mae gwirio cydnawsedd ychwanegion wedi ei analluogi. Efallai fod gennych ychwanegion anghydnaws.
 extensions-warning-check-compatibility-button = Galluogi
     .title = Galluogi gwirio cydnawsedd ychwanegion
 extensions-warning-update-security = Mae gwirio diogelwch diweddariad wedi ei analluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.
+extensions-warning-update-security2 =
+    .message = Mae gwirio diogelwch diweddariad wedi ei analluogi. Efallai eich bod o dan fygythiad gan ddiweddariad.
 extensions-warning-update-security-button = Galluogi
     .title = Galluogi gwirio diogelwch diweddariad ychwanegyn
 extensions-warning-imported-addons = Gorffennwch osod yr estyniadau a fewnforiwyd i { -brand-short-name }.
