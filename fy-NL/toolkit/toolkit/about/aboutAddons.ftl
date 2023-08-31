@@ -319,6 +319,9 @@ addon-detail-homepage-label = Startside
 addon-detail-rating-label = Wurdearring
 # Message for add-ons with a staged pending update.
 install-postponed-message = Dizze útwreiding wurdt bywurke wannear’t { -brand-short-name } opnij start.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Dizze útwreiding wurdt bywurke wannear’t { -brand-short-name } opnij start.
 install-postponed-button = No bywurkje
 # The average rating that the add-on has received.
 # Variables:
