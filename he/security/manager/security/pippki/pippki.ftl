@@ -57,6 +57,9 @@ client-auth-window =
     .title = בקשה לזיהוי המשתמש
 client-auth-site-description = אתר זה ביקש ממך להזדהות באמצעות אישור:
 client-auth-choose-cert = נא לבחור באישור להצגה כזיהוי:
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = האתר ״{ $hostname }״ ביקש ממך להזדהות באמצעות אישור:
 client-auth-cert-details = פרטי האישור הנבחר:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
