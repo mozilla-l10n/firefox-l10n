@@ -43,6 +43,22 @@ abuse-report-messagebar-removed-extension = Guruhuât nata' snan'anjt. Nadurê't
 abuse-report-messagebar-removed-theme = Guruhuât nata' snan'anjt. Nadurê't têma <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Ga 'ngo sa gahui' a'nan' ngà na'nïnt nuguan'an <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Nuguan' huaj guendâ <span data-l10n-name="addon-name">{ $addon-name }</span> nu gan'an dadin' ngà hua a'ngô nuguan' nukui' riñanj.
+abuse-report-messagebar-aborted2 =
+    .message = Nuguan' huaj guendâ { $addon-name } giyichin' man.
+abuse-report-messagebar-submitting2 =
+    .message = Hìaj na'nïn nuguan'an gan'anj guendâ { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Guruhuât nata' snan'anjt. Ruhuât nadurê' raj? { $addon-name }
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Guruhuât nata' snan'anjt.
+abuse-report-messagebar-removed-extension2 =
+    .message = Guruhuât nata' snan'anjt. Nadurê't ekstensiun { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Guruhuât nata' snan'anjt. Nadurê't têma { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Ga 'ngo sa gahui' a'nan' ngà na'nïnt nuguan'an { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Nuguan' huaj guendâ { $addon-name } nu gan'an dadin' ngà hua a'ngô nuguan' nukui' riñanj.
 
 ## Message bars actions.
 
