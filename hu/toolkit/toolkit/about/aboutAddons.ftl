@@ -321,6 +321,9 @@ addon-detail-homepage-label = Honlap
 addon-detail-rating-label = Értékelés
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ez a kiegészítő a { -brand-short-name } újraindításakor lesz frissítve.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ez a kiegészítő a { -brand-short-name } újraindításakor lesz frissítve.
 install-postponed-button = Frissítés most
 # The average rating that the add-on has received.
 # Variables:
