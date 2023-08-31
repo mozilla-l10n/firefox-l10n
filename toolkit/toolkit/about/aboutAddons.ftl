@@ -373,14 +373,26 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { -brand-short-name } { $version } සමඟ { $name } නොගැළපෙයි.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { -brand-short-name } { $version } සමඟ { $name } නොගැළපෙයි.
 details-notification-incompatible-link = තව තොරතුරු
 details-notification-unsigned-and-disabled = { -brand-short-name } හි භාවිතය සඳහා { $name } සත්‍යාපනය කළ නොහැකි බැවින් අබල කර ඇත.
+details-notification-unsigned-and-disabled2 =
+    .message = { -brand-short-name } හි භාවිතය සඳහා { $name } සත්‍යාපනය කළ නොහැකි බැවින් අබල කර ඇත.
 details-notification-unsigned-and-disabled-link = වැඩිදුර තොරතුරු
 details-notification-unsigned = { -brand-short-name } හි භාවිතයට { $name } සත්‍යාපනය කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.
+details-notification-unsigned2 =
+    .message = { -brand-short-name } හි භාවිතයට { $name } සත්‍යාපනය කළ නොහැකිය. ප්‍රවේශම්ව ඉදිරියට යන්න.
 details-notification-unsigned-link = වැඩිදුර තොරතුරු
 details-notification-blocked = ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ නිසා { $name } අබල කර ඇත.
+details-notification-blocked2 =
+    .message = ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ නිසා { $name } අබල කර ඇත.
 details-notification-blocked-link = වැඩිදුර තොරතුරු
 details-notification-softblocked = { $name } හි ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ තිබේ.
+details-notification-softblocked2 =
+    .message = { $name } හි ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ තිබේ.
 details-notification-softblocked-link = වැඩිදුර තොරතුරු
 details-notification-gmp-pending = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
 details-notification-gmp-pending2 =
