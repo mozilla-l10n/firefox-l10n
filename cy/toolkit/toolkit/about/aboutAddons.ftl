@@ -443,6 +443,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Mae { $name } yn anghydnaws â { -brand-short-name } { $version }.
 details-notification-incompatible-link = Rhagor o Wybodaeth
 details-notification-unsigned-and-disabled = Nid oedd modd dilysu { $name } i'w ddefnyddio yn { -brand-short-name } ac mae wedi ei analluogi.
 details-notification-unsigned-and-disabled-link = Rhagor o Wybodaeth
