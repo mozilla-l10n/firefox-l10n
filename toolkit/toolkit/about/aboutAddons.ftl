@@ -307,6 +307,9 @@ addon-detail-homepage-label = Hasiera-orria
 addon-detail-rating-label = Balorazioa
 # Message for add-ons with a staged pending update.
 install-postponed-message = Hedapen hau { -brand-short-name } berrabiaraztean eguneratuko da.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Hedapen hau { -brand-short-name } berrabiaraztean eguneratuko da.
 install-postponed-button = Eguneratu orain
 # The average rating that the add-on has received.
 # Variables:
