@@ -410,6 +410,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Добавката { $name } е несъвместима с { -brand-short-name } { $version }.
 details-notification-incompatible-link = Повече информация
 details-notification-unsigned-and-disabled = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }, и беше изключена.
 details-notification-unsigned-and-disabled2 =
@@ -420,7 +424,13 @@ details-notification-unsigned2 =
     .message = Добавката { $name } не може да бъде проверена, за да бъде използвана от { -brand-short-name }. Бъдете внимателни.
 details-notification-unsigned-link = Повече информация
 details-notification-blocked = Добавката { $name } беше изключена поради съображения за сигурност или стабилност.
+details-notification-blocked2 =
+    .message = Добавката { $name } беше изключена поради съображения за сигурност или стабилност.
 details-notification-blocked-link = Повече информация
 details-notification-softblocked = Добавката { $name } може да причини проблеми със сигурността или стабилността.
+details-notification-softblocked2 =
+    .message = Добавката { $name } може да причини проблеми със сигурността или стабилността.
 details-notification-softblocked-link = Повече информация
 details-notification-gmp-pending = Добавката { $name } ще бъде инсталирана след малко.
+details-notification-gmp-pending2 =
+    .message = Добавката { $name } ще бъде инсталирана след малко.
