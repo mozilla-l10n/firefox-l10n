@@ -41,7 +41,7 @@ storage-refresh-button =
     .title = Làm mới mục
 # Context menu action to delete all storage items
 storage-context-menu-delete-all =
-    .label = Xoá tất cả
+    .label = Xóa tất cả
 # Context menu action to delete all session cookies
 storage-context-menu-delete-all-session-cookies =
     .label = Xóa tất cả cookie của phiên
