@@ -7,64 +7,47 @@ addons-page-title = ایڈ آن انتظامیئ
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = تُہ۪ی چھُ نئ ام۪ی قئسمُك كاںہ تئ ایڈ آن اِنسٹال كر۪یتھ
-
 list-empty-available-updates =
     .value = كہین اپڈیٹ آی نئ اتھی
-
 list-empty-recent-updates =
     .value = تُہ۪ی چھُ حال۪ی اپڈیٹ كرمُت ایڈ آنس
-
 list-empty-find-updates =
     .label = اپڈیٹس خٲطرئ وچھیو
-
 list-empty-button =
     .label = ایڈ آنسن متعلق زٲنیو مزید
-
 detail-version =
     .label = ترجمہ
-
 detail-last-updated =
     .label = ٱخری اپڈیٹ
-
 detail-contributions-description = ییمہ ایڈ۔آنُک ڈیولپر  چُھ توہیہ منگان امدأدی تعاون امہ کِس لگاتار بڑھنس باپت اکھ لوکُٹ کنٹریبیوشن کرنْہ سْیت۔
-
 detail-update-type =
     .value = پانٲی اپڈیٹس
-
 detail-update-default =
     .label = ڈیفالٹ
     .tooltiptext = پانٲی كریو اپڈیٹ اِنسٹال اگر سُئ ڈیفالٹ چھُ
-
 detail-update-automatic =
     .label = یلئ
     .tooltiptext = پانٲی كریو اپڈیٹس اِنسٹال
-
 detail-update-manual =
     .label = بند
     .tooltiptext = پانٲی مئ كریو اپڈیٹس اِنسٹال
-
 detail-home =
     .label = ہوم صفحئ
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = ایڈ آن پروفایل
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = اپڈیٹس كریو جانچ
     .accesskey = f
     .tooltiptext = یَتھ آیڈ آنسس خٲطرئ وچھیو اپ ڈیٹس
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -81,13 +64,10 @@ detail-show-preferences =
             [windows] یئ ایڈ آن صورت بدلٲویو
            *[other] یئ ایڈ آن ترجیح بدلٲویو
         }
-
 detail-rating =
     .value = ریٹینگ
-
 addon-restart-now =
     .label = وئن كریو دوبارئ شروع
-
 addon-category-extension = وسعت
 addon-category-extension-title =
     .title = وسعت
@@ -170,11 +150,13 @@ addon-install-from-file-filter-name = ایڈ۔آنس
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -183,20 +165,23 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name }  چھُ نئ رلان  { -brand-short-name } { $version } سٲت.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name }  چھُ نئ رلان  { -brand-short-name } { $version } سٲت.
 details-notification-blocked = { $name }  چھُ آمُت نا ممكن بناونئ حفٲظتی یا سٹیبلٹی وجوہاتٲو كِن
+details-notification-blocked2 =
+    .message = { $name }  چھُ آمُت نا ممكن بناونئ حفٲظتی یا سٹیبلٹی وجوہاتٲو كِن
 details-notification-blocked-link = مزید مولومات
-
 details-notification-softblocked = { $name }  چھُ پٲدئ كران حفٲظتی یا سٹیبلٹی د قت
+details-notification-softblocked2 =
+    .message = { $name }  چھُ پٲدئ كران حفٲظتی یا سٹیبلٹی د قت
 details-notification-softblocked-link = مزید مولومات
-
 details-notification-gmp-pending = یِیہ انسٹال کرنْہ جلدی۔{ $name }
+details-notification-gmp-pending2 =
+    .message = یِیہ انسٹال کرنْہ جلدی۔{ $name }
