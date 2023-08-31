@@ -461,3 +461,5 @@ details-notification-softblocked2 =
     .message = В { $name } є відомі проблеми з безпекою та стабільністю.
 details-notification-softblocked-link = Докладніше
 details-notification-gmp-pending = { $name } незабаром буде встановлено.
+details-notification-gmp-pending2 =
+    .message = { $name } незабаром буде встановлено.
