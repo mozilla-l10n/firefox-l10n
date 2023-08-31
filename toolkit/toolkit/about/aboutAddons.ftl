@@ -156,9 +156,15 @@ addon-sitepermission-host = Site Permissions for { $host }
 
 extensions-warning-safe-mode = All add-ons have been disabled by safe mode.
 extensions-warning-check-compatibility = Add-on compatibility checking is disabled. You may have incompatible add-ons.
+extensions-warning-safe-mode2 =
+    .message = All add-ons have been disabled by safe mode.
+extensions-warning-check-compatibility2 =
+    .message = Add-on compatibility checking is disabled. You may have incompatible add-ons.
 extensions-warning-check-compatibility-button = Enable
     .title = Enable add-on compatibility checking
 extensions-warning-update-security = Add-on update security checking is disabled. You may be compromised by updates.
+extensions-warning-update-security2 =
+    .message = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security-button = Enable
     .title = Enable add-on update security checking
 extensions-warning-imported-addons = Please finalise the installation of extensions that were imported to { -brand-short-name }.
