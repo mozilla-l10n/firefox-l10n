@@ -224,6 +224,11 @@ shortcuts-duplicate = קיצור דרך כפול
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } משמש כקיצור דרך ביותר ממקרה אחד. קיצורי דרך כפולים עשויים לגרום להתנהגות בלתי צפויה.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } משמש כקיצור דרך ביותר ממקרה אחד. קיצורי דרך כפולים עשויים לגרום להתנהגות בלתי צפויה.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
