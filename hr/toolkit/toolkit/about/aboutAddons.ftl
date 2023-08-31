@@ -145,9 +145,15 @@ addon-category-sitepermission-title =
 
 extensions-warning-safe-mode = Siguran način rada isključio je sve dodatke.
 extensions-warning-check-compatibility = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
+extensions-warning-safe-mode2 =
+    .message = Siguran način rada isključio je sve dodatke.
+extensions-warning-check-compatibility2 =
+    .message = Provjera kompatibilnosti dodataka je isključena. Možda imaš nekompatibilne dodatke.
 extensions-warning-check-compatibility-button = Omogući
     .title = Omogući provjeru kompatibilnosti dodataka
 extensions-warning-update-security = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
+extensions-warning-update-security2 =
+    .message = Provjera dostupnosti sigurnosnih nadogradnji za dodatke je isključena. Nadogradnje mogu naškoditi tvojoj sigurnosti.
 extensions-warning-update-security-button = Omogući
     .title = Omogući provjeru dostupnosti sigurnosnih dopuna za dodatke
 
