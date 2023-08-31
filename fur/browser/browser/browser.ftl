@@ -916,7 +916,7 @@ unified-extensions-button-quarantined =
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } al à impedît a cheste pagjine di tornâ a cjamâsi in automatic.
-refresh-blocked-redirect-label = { -brand-short-name } al à impedît a cheste pagjine di indreçâti in automatic suntune altre pagjine.
+refresh-blocked-redirect-label = { -brand-short-name } al à impedît a cheste pagjine di dirotâti in automatic suntune altre pagjine.
 refresh-blocked-allow =
     .label = Permet
     .accesskey = P
