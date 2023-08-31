@@ -205,6 +205,11 @@ shortcuts-duplicate = Dobleng shortcut
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Ang { $shortcut } ay ginagamit bilang isang shortcut sa higit pa na isang kaso. Ang mga dobleng shortcut ay maaaring maging sanhi ng hindi inaasahang pag-uugali.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = Ang { $shortcut } ay ginagamit bilang isang shortcut sa higit pa na isang kaso. Ang mga dobleng shortcut ay maaaring maging sanhi ng hindi inaasahang pag-uugali.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
