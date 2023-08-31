@@ -156,9 +156,15 @@ addon-sitepermission-host = Quyền hạn trang web cho { $host }
 
 extensions-warning-safe-mode = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.
 extensions-warning-check-compatibility = Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.
+extensions-warning-safe-mode2 =
+    .message = Tất cả tiện ích đã bị vô hiệu hóa bởi chế độ an toàn.
+extensions-warning-check-compatibility2 =
+    .message = Việc kiểm tra tính tương thích của tiện ích đã bị vô hiệu hóa. Có thể bạn đang dùng các tiện ích không còn tương thích nữa.
 extensions-warning-check-compatibility-button = Bật
     .title = Kích hoạt kiểm tra tính tương thích của tiện ích
 extensions-warning-update-security = Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.
+extensions-warning-update-security2 =
+    .message = Việc kiểm tra tính an toàn của các cập nhật tiện ích đã bị vô hiệu hóa. Bạn có thể bị tổn hại nếu cập nhật.
 extensions-warning-update-security-button = Bật
     .title = Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích
 extensions-warning-imported-addons = Vui lòng hoàn tất việc cài đặt các tiện ích mở rộng đã được nhập vào { -brand-short-name }.
