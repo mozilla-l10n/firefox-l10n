@@ -58,6 +58,8 @@ abuse-report-messagebar-removed-extension2 =
     .message = Kiitos kun lähetit raportin. Poistit laajennuksen { $addon-name }.
 abuse-report-messagebar-removed-theme2 =
     .message = Kiitos kun lähetit raportin. Poistit teeman { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Raportin lähettäminen lisäosasta { $addon-name } epäonnistui.
 abuse-report-messagebar-error-recent-submit2 =
     .message = Raporttia lisäosasta { $addon-name } ei lähetetty, koska toinen raportti lähetettiin äskettäin.
 
