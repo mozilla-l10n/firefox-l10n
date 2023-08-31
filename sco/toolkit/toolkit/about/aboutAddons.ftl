@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Eik-ons Manager
-
 search-header =
     .placeholder = Sairch addons.mozilla.org
     .searchbuttonlabel = Sairch
@@ -17,97 +16,70 @@ list-empty-get-extensions-message = Get extensions and themes on <a data-l10n-na
 
 list-empty-installed =
     .value = Ye dinnae hae onie eik-ons o this type instawed
-
 list-empty-available-updates =
     .value = Nae updates fund
-
 list-empty-recent-updates =
     .value = Ye hivnae updatit onie eik-ons in a while
-
 list-empty-find-updates =
     .label = Check Fur Updates
-
 list-empty-button =
     .label = Lairn mair aboot eik-ons
-
 help-button = Eik-ons Hauners
 sidebar-help-button-title =
     .title = Eik-ons Hauners
-
 addons-settings-button = { -brand-short-name } Settins
 sidebar-settings-button-title =
     .title = { -brand-short-name } Settins
-
 show-unsigned-extensions-button =
     .label = Some extensions couldnae be trystmakkit
-
 show-all-extensions-button =
     .label = Kythe aw extensions
-
 detail-version =
     .label = Version
-
 detail-last-updated =
     .label = Last Updatit
-
 detail-contributions-description = The makker o this eik-on speirs at ye tae help uphaud its ongawin forderin by makkin a wee contreebution.
-
 detail-contributions-button = Contreebute
     .title = Contreebute tae the forderin o this eik-on
     .accesskey = C
-
 detail-update-type =
     .value = Automatic Updates
-
 detail-update-default =
     .label = Staunart
     .tooltiptext = Automatically instaw updates anely gin thon’s the staunart
-
 detail-update-automatic =
     .label = On
     .tooltiptext = Automatically instaw updates
-
 detail-update-manual =
     .label = Aff
     .tooltiptext = Dinnae automatically instaw updates
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Rin in Private Windaes
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = No Allooed in Private Windaes
 detail-private-disallowed-description2 = This extension disnae rin while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Needs Ingang tae Private Windaes
 detail-private-required-description2 = This extension has ingang tae your online ongauns while private stravaigin. <a data-l10n-name="learn-more">Lairn mair</a>
-
 detail-private-browsing-on =
     .label = Alloo
     .tooltiptext = Enable in Private Stravaigin
-
 detail-private-browsing-off =
     .label = Dinnae Alloo
     .tooltiptext = Disable in Private Stravaigin
-
 detail-home =
     .label = Hamepage
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Eik-on Profile
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Check fur Updates
     .accesskey = U
     .tooltiptext = Check fur updates fur this eik-on
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -124,42 +96,30 @@ detail-show-preferences =
             [windows] Chynge this eik-on’s options
            *[other] Chynge this eik-on’s preferences
         }
-
 detail-rating =
     .value = Ratin
-
 addon-restart-now =
     .label = Restert noo
-
 disabled-unsigned-heading =
     .value = Some eik-ons hae been disabled
-
 disabled-unsigned-description =
     The follaein eik-ons hivnae been trystmakkit fur yaise in { -brand-short-name }. Ye can
     <label data-l10n-name="find-addons">airt oot replacements</label> or ask the developer tae get them trystmakkit.
-
 disabled-unsigned-learn-more = Lairn mair aboot oor ettles tae help keep ye siccar online.
-
 disabled-unsigned-devinfo =
     Developers interestit in gettin their eik-ons trystmakkit can haud forrit by readin oor
     <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = Missin sowt? Some plugins arenae supportit by { -brand-short-name } onie mair. <label data-l10n-name="learn-more">Lairn Mair.</label>
-
 legacy-warning-show-legacy = Kythe bygane extensions
-
 legacy-extensions =
     .value = Bygane Extensions
-
 legacy-extensions-description = These extensions dinnae meet current { -brand-short-name } staunarts sae they've been deactivatit. <label data-l10n-name="legacy-learn-more">Lairn aboot the chynges tae eik-ons</label>
-
 private-browsing-description2 =
     { -brand-short-name } is chyngin how extensions wirk in private stravaigin. Onie new extensions ye eik on tae
     { -brand-short-name } willnae rin as staunart in Private Windaes. Unless ye alloo it in settins, the
     extension willnae wirk while preevat stravaigin, and willnae hae ingang tae yer online ongauns
     there. We’ve makkit this chynge fur tae keep yer private stravaigin private.
     <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
-
 addon-category-discover = Recommendations
 addon-category-discover-title =
     .title = Recommendations
@@ -240,42 +200,33 @@ addon-open-about-debugging = Bugdicht Eik-ons
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Manage Extension Shortcuts
     .accesskey = S
-
 shortcuts-no-addons = Ye dinnae hae onie extensions enabled.
 shortcuts-no-commands = The follaein extensions dinnae hae shortcuts:
 shortcuts-input =
     .placeholder = Type a shortcut
-
 shortcuts-browserAction2 = Activate toolbaur button
 shortcuts-pageAction = Activate page action
 shortcuts-sidebarAction = Toggle the sidebaur
-
 shortcuts-modifier-mac = Include Ctrl, Alt, or ⌘
 shortcuts-modifier-other = Include Ctrl or Alt
 shortcuts-invalid = Combination no suithfest
 shortcuts-letter = Type a letter
 shortcuts-system = Cannae owerride a { -brand-short-name } shortcut
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplicate shortcut
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } is bein yaised as a shortcut for mair than ane thing. Duplicate shortcuts micht cause unexpectit behavior.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Awready bein yaised by { $addon }
-
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Kythe { $numberToShow } Mair
     }
-
 shortcuts-card-collapse-button = Kythe Less
-
 header-back-button =
     .title = Gang back
 
@@ -290,15 +241,12 @@ discopane-intro =
     aft developed by a third pairty. Here’s a pickle { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recommends</a> fur byordinar
     siccarness, performance, and function.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Some o these recommendations are personalised. They're based on ither
     extensions ye’ve instawed, profile preferences, and statistics o yaise.
 discopane-notice-learn-more = Lairn mair
-
 privacy-policy = Privacy Policy
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -314,7 +262,6 @@ install-theme-button = Instaw Theme
 manage-addon-button = Manage
 find-more-addons = Find mair eik-ons
 find-more-themes = Airt oot mair themes
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -340,45 +287,34 @@ preferences-addon-button =
 details-addon-button = Details
 release-notes-addon-button = Roll-oot Notes
 permissions-addon-button = Permeesions
-
 extension-enabled-heading = Enabled
 extension-disabled-heading = Disabled
-
 theme-enabled-heading = Enabled
-
 plugin-enabled-heading = Enabled
 plugin-disabled-heading = Disabled
-
 dictionary-enabled-heading = Enabled
 dictionary-disabled-heading = Disabled
-
 locale-enabled-heading = Enabled
 locale-disabled-heading = Disabled
-
 always-activate-button = Ayeweys Activate
 never-activate-button = Nivver Activate
-
 addon-detail-author-label = Author
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Last Updatit
 addon-detail-homepage-label = Hamepage
 addon-detail-rating-label = Ratin
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = This extension will be updatit when { -brand-short-name } resterts.
 install-postponed-button = Update Noo
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Ratit { NUMBER($rating, maximumFractionDigits: 1) } oot o 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (disabled)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -394,14 +330,12 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been remuived.
 pending-uninstall-undo-button = Undae
-
 addon-detail-updates-label = Alloo automatic updates
 addon-detail-updates-radio-default = Staunart
 addon-detail-updates-radio-on = On
 addon-detail-updates-radio-off = Aff
 addon-detail-update-check-label = Check fur Updates
 install-update-button = Update
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -413,6 +347,7 @@ addon-detail-private-browsing-disallow = Dinnae Alloo
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
+
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -433,18 +368,14 @@ addon-badge-verified2 =
 
 available-updates-heading = Updates Redd
 recent-updates-heading = Recent Updates
-
 release-notes-loading = Loadin…
 release-notes-error = Awfie sorry, but there wis a mishanter loadin the roll-oot notes.
-
 addon-permissions-empty = This extension disnae need onie permeesions
 addon-permissions-required = Permeesions needit fur core functions:
 addon-permissions-optional = Optional permeesions fur better functions:
 addon-permissions-learnmore = Lairn mair aboot permeesions
-
 recommended-extensions-heading = Recommendit Extensions
 recommended-themes-heading = Recommendit Themes
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = In the muid for makkin sowt? <a data-l10n-name="link">Pit thegither yer ain theme wi Firefox Colour.</a>
@@ -459,17 +390,11 @@ locale-heading = Manage Yer Leids
 updates-heading = Manage Yer Updates
 discover-heading = Mak { -brand-short-name } Yer Ain
 shortcuts-heading = Manage Extension Shortcuts
-
 default-heading-search-label = Find mair eik-ons
 addons-heading-search-input =
     .placeholder = Sairch addons.mozilla.org
-
 addon-page-options-button =
     .title = Tools fur aw eik-ons
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -478,17 +403,26 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } isnae compatible wi { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } isnae compatible wi { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name } and has been disabled.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name } and has been disabled.
 details-notification-unsigned-and-disabled-link = Mair Information
-
 details-notification-unsigned = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name }. Gang forrit wi tent.
+details-notification-unsigned2 =
+    .message = { $name } couldnae be trystmakkit fur yaise in { -brand-short-name }. Gang forrit wi tent.
 details-notification-unsigned-link = Mair Information
-
 details-notification-blocked = { $name } has been disabled acause o siccarness or stieveness issues.
+details-notification-blocked2 =
+    .message = { $name } has been disabled acause o siccarness or stieveness issues.
 details-notification-blocked-link = Mair Information
-
 details-notification-softblocked = { $name } is kent tae cause siccarness or stieveness issues.
+details-notification-softblocked2 =
+    .message = { $name } is kent tae cause siccarness or stieveness issues.
 details-notification-softblocked-link = Mair Information
-
 details-notification-gmp-pending = { $name } will be instawed jist the noo.
+details-notification-gmp-pending2 =
+    .message = { $name } will be instawed jist the noo.
