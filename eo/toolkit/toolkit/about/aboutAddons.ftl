@@ -151,9 +151,15 @@ addon-sitepermission-host = Retejaj permesoj por { $host }
 
 extensions-warning-safe-mode = Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.
 extensions-warning-check-compatibility = La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.
+extensions-warning-safe-mode2 =
+    .message = Ĉiuj aldonaĵoj estis malaktivigitaj de la sekura reĝimo.
+extensions-warning-check-compatibility2 =
+    .message = La kontrolado de kongrueco de aldonaĵoj estas malaktiva.  Vi povus havi nekongruajn aldonaĵojn.
 extensions-warning-check-compatibility-button = Aktivigi
     .title = Aktivigi la kontroladon de kongrueco de aldonaĵoj
 extensions-warning-update-security = La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti kompromitita de ĝisdatigoj.
+extensions-warning-update-security2 =
+    .message = La kontrolado de sekurecaj ĝisdatigoj de aldonaĵoj ne estas aktiva.  Vi povus esti kompromitita de ĝisdatigoj.
 extensions-warning-update-security-button = Aktivigi
     .title = Aktivigi la kontroladon de sekurecaj ĝisdatigoj de aldonaĵoj
 extensions-warning-imported-addons = Bonvolu fini la instalon de etendaĵoj, kiuj estis enportitaj en { -brand-short-name }.
