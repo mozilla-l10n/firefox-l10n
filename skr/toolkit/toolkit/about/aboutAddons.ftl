@@ -438,13 +438,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } نال مطابقت نہیں رکھیندا۔
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } { -brand-short-name } { $version } نال مطابقت نہیں رکھیندا۔
 details-notification-incompatible-link = ودھیک معلومات
 details-notification-unsigned-and-disabled = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی تے اینکوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-unsigned-and-disabled-link = ودھیک معلومات
 details-notification-unsigned = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی۔ احتیاط نال اڳو تے ودھو.
+details-notification-unsigned2 =
+    .message = { $name } دی { -brand-short-name } وِچ استعمال کیتے تصدیق نہیں تھی سڳی۔ احتیاط نال اڳو تے ودھو.
 details-notification-unsigned-link = ودھیک معلومات
 details-notification-blocked = سیکیورٹی یا استحکام دے مسائل دی وجہ توں { $name } کوں غیر فعال کر ݙتا ڳیا ہے۔
+details-notification-blocked2 =
+    .message = سیکیورٹی یا استحکام دے مسائل دی وجہ توں { $name } کوں غیر فعال کر ݙتا ڳیا ہے۔
 details-notification-blocked-link = ودھیک معلومات
 details-notification-softblocked = { $name } سیکورٹی یا استحکام دے مسائل کیتے ڄاتا ویندا ہے۔
+details-notification-softblocked2 =
+    .message = { $name } سیکورٹی یا استحکام دے مسائل کیتے ڄاتا ویندا ہے۔
 details-notification-softblocked-link = ودھیک معلومات
 details-notification-gmp-pending = { $name } ستت انسٹال کر ݙتا ویسے۔
+details-notification-gmp-pending2 =
+    .message = { $name } ستت انسٹال کر ݙتا ویسے۔
