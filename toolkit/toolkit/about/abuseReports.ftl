@@ -48,6 +48,16 @@ abuse-report-messagebar-removed-sitepermission = 신고해 주셔서 감사합�
 abuse-report-messagebar-removed-theme = 신고해 주셔서 감사합니다. <span data-l10n-name="addon-name">{ $addon-name }</span> 테마를 제거했습니다.
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내는 중에 오류가 발생했습니다.
 abuse-report-messagebar-error-recent-submit = 최근 다른 신고가 제출되었으므로 <span data-l10n-name="addon-name">{ $addon-name }</span>에 대한 신고를 보내지 않았습니다.
+abuse-report-messagebar-aborted2 =
+    .message = { $addon-name }에 대한 신고가 취소되었습니다.
+abuse-report-messagebar-submitting2 =
+    .message = { $addon-name }에 대한 신고를 보내는 중입니다.
+abuse-report-messagebar-submitted-noremove2 =
+    .message = 보고서를 제출해 주셔서 감사합니다.
+abuse-report-messagebar-error2 =
+    .message = { $addon-name }에 대한 신고를 보내는 중에 오류가 발생했습니다.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = 최근 다른 신고가 제출되었으므로 { $addon-name }에 대한 신고를 보내지 않았습니다.
 
 ## Message bars actions.
 
