@@ -238,6 +238,11 @@ discopane-intro = Laiendused ja teemad on nagu äpid sinu brauseri jaoks. Need a
 discopane-notice-recommendations =
     Mõned neist soovitustest on isikupärastatud. Need baseeruvad sinu teistel paigaldatud lisadel,
     profiili sätetel ja kasutamise statistikal.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Mõned neist soovitustest on isikupärastatud. Need baseeruvad sinu teistel paigaldatud lisadel,
+        profiili sätetel ja kasutamise statistikal.
 discopane-notice-learn-more = Rohkem teavet
 privacy-policy = Privaatsusreeglid
 # Refers to the author of an add-on, shown below the name of the add-on.
