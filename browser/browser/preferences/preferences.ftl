@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = 웹 사이트에 “추적 안 함” 신호를 보내서 추적을 원하지 않는다고 알림
+do-not-track-description2 =
+    .label = 웹 사이트에 “추적 안 함” 요청 보내기
+    .accesskey = d
 do-not-track-learn-more = 더 알아보기
 do-not-track-option-default-content-blocking-known =
     .label = { -brand-short-name }가 알려진 추적기를 차단하도록 설정된 경우에만
 do-not-track-option-always =
     .label = 항상
+global-privacy-control-description =
+    .label = 웹 사이트에 내 데이터를 판매하거나 공유하지 말라고 요청
+    .accesskey = s
 settings-page-title = 설정
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
