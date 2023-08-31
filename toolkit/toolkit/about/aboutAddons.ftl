@@ -465,3 +465,5 @@ details-notification-softblocked2 =
     .message = { $name } har kendte sikkerheds- og/eller stabilitetsproblemer.
 details-notification-softblocked-link = Mere information
 details-notification-gmp-pending = { $name } vil snart blive installeret.
+details-notification-gmp-pending2 =
+    .message = { $name } vil snart blive installeret.
