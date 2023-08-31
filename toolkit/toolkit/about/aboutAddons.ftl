@@ -105,9 +105,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Alle byvoegings is deur veilige modus gedeaktiveer.
 extensions-warning-check-compatibility = Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.
+extensions-warning-safe-mode2 =
+    .message = Alle byvoegings is deur veilige modus gedeaktiveer.
+extensions-warning-check-compatibility2 =
+    .message = Kontrolering of byvoegings versoenbaar is, is gedeaktiveer. U het moontlik onversoenbare byvoegings.
 extensions-warning-check-compatibility-button = Aktiveer
     .title = Aktiveer byvoeging-versoenbaarheidkontrole
 extensions-warning-update-security = Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.
+extensions-warning-update-security2 =
+    .message = Kontrolering vir bywerkings vir byvoegings is gedeaktiveer. U kan dalk deur bywerkings gekompromitteer word.
 extensions-warning-update-security-button = Aktiveer
     .title = Aktiveer byvoegingsbywerking-beveiliging-kontrole
 
