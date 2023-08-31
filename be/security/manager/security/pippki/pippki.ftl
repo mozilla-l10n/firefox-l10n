@@ -8,22 +8,18 @@ password-quality-meter = Вымяральнік якасці пароля
 
 change-device-password-window =
     .title = Змяніць пароль
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Прылада бяспекі: { $tokenName }
 change-password-old = Цяперашні пароль:
 change-password-new = Новы пароль:
 change-password-reenter = Новы пароль (ізноў):
-
 pippki-failed-pw-change = Не ўдалося змяніць пароль.
 pippki-incorrect-pw = Вы няправільна ўвялі галоўны пароль. Паспрабуйце, калі ласка, ізноў.
 pippki-pw-change-ok = Пароль паспяхова зменены.
-
 pippki-pw-empty-warning = Вашы захаваныя паролі і прыватныя ключы не будуць абаронены.
 pippki-pw-erased-ok = Вы выдалілі свой пароль. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Увага! Вы вырашылі не выкарыстоўваць пароль. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Зараз вы ў рэжыме FIPS. Для FIPS патрабуецца непусты пароль.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Скінуць
 reset-primary-password-text = Калі вы скінеце свой галоўны пароль, згубяцца ўсе захаваныя паролі для сайтаў і электроннай пошты, асабістыя сертыфікаты і прыватныя ключы. Ці сапраўды хочаце скінуць свой галоўны пароль?
-
 pippki-reset-password-confirmation-title = Скінуць галоўны пароль
 pippki-reset-password-confirmation-message = Ваш галоўны пароль скінуты.
 
@@ -55,11 +50,38 @@ download-cert-view-text = Праверыць сертыфікат ЦС
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Запыт вызначэння карыстальніка
 client-auth-site-description = Гэты сайт патрабуе, каб вы ідэнтыфікавалі сябе сертыфікатам:
 client-auth-choose-cert = Вылучыце сертыфікат, каб падаць як вызначэнне:
 client-auth-cert-details = Падрабязнасці вылучанага сертыфіката:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Выдадзены: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Серыйны нумар: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Дзейсны ад { $notBefore } да { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Выкарыстаныя ключы: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Адрасы эл.пошты: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Выдавец: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Захаваны: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Запомніць гэты выбар
 
 ## Set password (p12) dialog
 
@@ -71,8 +93,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Пароль рэзервовай копіі (зноў):
 set-password-reminder = Увага: Калі вы забудзеце ваш пароль рэзервовай копіі сертыфікатаў, вы не зможаце ўзнавіць файлы з гэтай копіі пазней.  Занатуйце яго, калі ласка, у надзейным месцы.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
