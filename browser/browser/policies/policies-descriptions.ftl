@@ -123,6 +123,8 @@ policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle e
 
 policy-FirefoxHome2 = Configura { -firefox-home-brand-name }.
 
+policy-FirefoxSuggest = Configura { -firefox-suggest-brand-name }.
+
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forza la navigazione verso pagine della Intranet invece di avviare una ricerca quando si digita una singola parola nella barra degli indirizzi.
 
 policy-Handlers = Configura i gestori predefiniti dell’applicazione.
