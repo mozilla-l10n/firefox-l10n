@@ -8,22 +8,18 @@ password-quality-meter = პაროლის ხარისხმზომი
 
 change-device-password-window =
     .title = პაროლის შეცვლა
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = უსაფრთხოების მოწყობილობა: { $tokenName }
 change-password-old = მიმდინარე პაროლი:
 change-password-new = ახალი პაროლი:
 change-password-reenter = ახალი პაროლი (კვლავ):
-
 pippki-failed-pw-change = პაროლის შეცვლა, ვერ ხერხდება.
 pippki-incorrect-pw = თქვენ მიერ მითითებული მიმდინარე პაროლი მცდარია. სცადეთ ხელახლა.
 pippki-pw-change-ok = პაროლი წარმატებით შეიცვალა.
-
 pippki-pw-empty-warning = თქვენ მიერ შენახული პაროლები და პირადი გასაღებები, დაუცველი დარჩება.
 pippki-pw-erased-ok = თქვენ მოხსენით პაროლი. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = გაფრთხილება! თქვენ გადაწყვიტეთ არ გამოიყენოთ პაროლი. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = თქვენ FIPS-რეჟიმში ხართ. FIPS-ს ესაჭიროება პაროლი.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = განულება
 reset-primary-password-text = მთავარი პაროლის განულებით, დაიკარგება თქვენ მიერ შენახული ყველა ანგარიშისა და ელფოსტის პაროლი, შევსებული ველების მონაცემები, პირადი სერტიფიკატები. ნამდვილად გსურთ გაანულოთ მთავარი პაროლი?
-
 pippki-reset-password-confirmation-title = მთავარი პაროლის განულება
 pippki-reset-password-confirmation-message = თქვენი მთავარი პაროლი განულებულია.
 
@@ -55,11 +50,31 @@ download-cert-view-text = სააგენტოს სერტიფიკ�
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = მომხმარებლის ამოცნობის მოთხოვნა
 client-auth-site-description = საიტი თქვენი ვინაობის დასადგენად, სერტიფიკატის წარდგენას ითხოვს:
 client-auth-choose-cert = წარსადგენი სერტიფიკატის არჩევა:
 client-auth-cert-details = არჩეული სერტიფიკატის მონაცემები:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = გაცემულია ორგანიზაციაზე: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = სერიული ნომერი: { $serialNumber }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = გასაღების გამოყენება: { $keyUsages }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = გამცემი ორგანო: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = შენახულია აქ: { $storedOn }
+client-auth-cert-remember-box =
+    .label = გადაწყვეტილების დამახსოვრება
 
 ## Set password (p12) dialog
 
@@ -71,8 +86,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = სერტიფიკატის დუბლირების პაროლი (კვლავ):
 set-password-reminder = მნიშვნელოვანია: თუ სერტიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
