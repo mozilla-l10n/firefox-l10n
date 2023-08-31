@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-extension = Matyox ruma natäq re rutzijol. Xay�
 abuse-report-messagebar-removed-theme = Matyox ruma natäq ri rutzijol. Xayüj ri wachinel <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Xk'ulwachitäj jun sachoj toq nitaq ri rutzijol pa ruwi' <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Man xtaq ta ri rutzijol pa ruwi' <span data-l10n-name="addon-name">{ $addon-name }</span> ruma taqon chik jun rutzijol.
+abuse-report-messagebar-aborted2 =
+    .message = Xq'at ri rutzijol { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Nitaq ri rutzijol richin { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Matyox ruma xatäq ri rutzijol. ¿La nawajo' nayüj el { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Matyox ruma xatäq ri rutzijol.
+abuse-report-messagebar-removed-extension2 =
+    .message = Matyox ruma natäq re rutzijol. Xayüj ri k'amal { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Matyox ruma natäq ri rutzijol. Xayüj ri wachinel { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Xk'ulwachitäj jun sachoj toq nitaq ri rutzijol pa ruwi' { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Man xtaq ta ri rutzijol pa ruwi' { $addon-name } ruma taqon chik jun rutzijol.
 
 ## Message bars actions.
 
