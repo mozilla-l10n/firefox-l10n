@@ -7,70 +7,51 @@ addons-page-title = UMphathi wezongezelelo
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Akunazo izongezelelo zolu didi ezifakelweyo
-
 list-empty-available-updates =
     .value = Akukho zihlaziyi zifumanekayo
-
 list-empty-recent-updates =
     .value = Akuhlaziyanga naziphi na izongezelelo kutshanje
-
 list-empty-find-updates =
     .label = Khangela iZihlaziyi
-
 list-empty-button =
     .label = Funda ngokungaphezulu ngezongezelelo
-
 show-unsigned-extensions-button =
     .label = Ezinye izongezelelo azinaku ukuqinisekiswa
-
 show-all-extensions-button =
     .label = Bonisa zonke izandiso
-
 detail-version =
     .label = Uguqulelo
-
 detail-last-updated =
     .label = Uhlaziyo lokuGqibela
-
 detail-contributions-description = Umphuhlisi wesi songezelelo ucela ukuba uxhase uphuhliso lwaso oluqhubayo ngokwenza igalelo elincinane.
-
 detail-update-type =
     .value = IZihlaziyi ezizenzekelayo
-
 detail-update-default =
     .label = Isiseko
     .tooltiptext = Fakela uhlaziyo ngokuzenzekela kuphela ukuba oko kusisiseko
-
 detail-update-automatic =
     .label = Ivulile
     .tooltiptext = Fakela uhlaziyo ngokuzenzekela
-
 detail-update-manual =
     .label = Icimile
     .tooltiptext = Ungalufakeli uhlaziyo ngokuzenzekelayo
-
 detail-home =
     .label = Ikhasi lasekhaya
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Iprofayile yesongezelelo
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Khangela iZihlaziyi
     .accesskey = i
     .tooltiptext = Khangela uhlaziyo lwesi songezelelo
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,31 +68,20 @@ detail-show-preferences =
             [windows] Tshintsha okunokukhethwa kuko kwesongezelelo
            *[other] Tshintsha iipriferensi zesongezelelo
         }
-
 detail-rating =
     .value = Ukulinganisa umyinge
-
 addon-restart-now =
     .label = Qalisa kwakhona ngoku
-
 disabled-unsigned-heading =
     .value = Ezinye izongezelelo zenziwe azasebenza
-
 disabled-unsigned-description = Izongezelelo ezilandelayo ziqinisekisiwe ukusetyenziswa kwe-{ -brand-short-name }. Unganako<label data-l10n-name="find-addons">fumana izinto zokutshintsha </label>  okanye cela umenzi ukufumana ukuba baqinisekiswe.
-
 disabled-unsigned-learn-more = Funda okuninzi malunga neenzane zethu ukukunceda uhlale ukhuselekile kuqhagamshelwano lwe-intanethi.
-
 disabled-unsigned-devinfo = Abenzi abanomdla ekufumaneni izongezelelo zabo ukuba ziqinisekiswe kungaqhubeka ngokufunda zethu<label data-l10n-name="learn-more">Ukwenza ngaphandle komatshini</label>.
-
 plugin-deprecation-description = Ngaba kukho into engekhoyo? Ezinye iiplagini azisaxhaswa yi-{ -brand-short-name } <label data-l10n-name="learn-more">Funda Okungakumbi</label>
-
 legacy-warning-show-legacy = Bonisa izongezelelo ezizizikhokelo
-
 legacy-extensions =
     .value = IZongezelelo zeziKhokelo
-
 legacy-extensions-description = Ezi zongezelelo azidibani nemilinganiselo ye{ -brand-short-name } ekhoyo ngoko iye yayekiswa. <label data-l10n-name="legacy-learn-more">Funda ngotshintsho kwizongezelelo</label>
-
 addon-category-extension = Izandiso
 addon-category-extension-title =
     .title = Izandiso
@@ -196,11 +166,13 @@ addon-open-about-debugging = Khuphaibhagi Kwizongezelelo
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -209,26 +181,31 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = I-{ $name } ihambelana kunye ne-{ -brand-short-name } ne-{ $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = I-{ $name } ihambelana kunye ne-{ -brand-short-name } ne-{ $version }.
 details-notification-unsigned-and-disabled = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name } yaye yenziwe ayasebenza.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name } yaye yenziwe ayasebenza.
 details-notification-unsigned-and-disabled-link = Inkcazelo Engakumbi
-
 details-notification-unsigned = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name }. Qhubeka ngesilumkiso.
+details-notification-unsigned2 =
+    .message = { $name } ayinakuqinisekiswa ukusetyenziselwa kwi-{ -brand-short-name }. Qhubeka ngesilumkiso.
 details-notification-unsigned-link = Inkcazelo Engakumbi
-
 details-notification-blocked = I-{ $name } iqhwalelisiwe ngesizathu sokhuseleko nozinzo.
+details-notification-blocked2 =
+    .message = I-{ $name } iqhwalelisiwe ngesizathu sokhuseleko nozinzo.
 details-notification-blocked-link = Ulwazi Olungaphaya Kolunikiweyo
-
 details-notification-softblocked = I-{ $name } yaziwa ngokubangela ingxaki yokhuseleko neyozinzo.
+details-notification-softblocked2 =
+    .message = I-{ $name } yaziwa ngokubangela ingxaki yokhuseleko neyozinzo.
 details-notification-softblocked-link = Ulwazi Olungaphaya Kolunikiweyo
-
 details-notification-gmp-pending = { $name } iza kufakelwa kwangoku.
+details-notification-gmp-pending2 =
+    .message = { $name } iza kufakelwa kwangoku.
