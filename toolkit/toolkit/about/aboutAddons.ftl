@@ -207,6 +207,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } ৰ লগত খাপ খাব নোৱাৰে
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } { -brand-short-name } { $version } ৰ লগত খাপ খাব নোৱাৰে
 details-notification-unsigned-and-disabled = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল আৰু নিষ্ক্ৰিয় কৰা হৈছে।
 details-notification-unsigned-and-disabled-link = অধিক তথ্য
 details-notification-unsigned = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল। সাৱধানে আগবাঢ়ক।
