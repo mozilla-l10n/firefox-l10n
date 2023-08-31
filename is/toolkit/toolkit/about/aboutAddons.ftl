@@ -156,9 +156,15 @@ addon-sitepermission-host = Heimildir vefsvæðis fyrir { $host }
 
 extensions-warning-safe-mode = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
 extensions-warning-check-compatibility = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
+extensions-warning-safe-mode2 =
+    .message = Allar viðbætur hafa verið gerðar óvirkar vegna öryggishams.
+extensions-warning-check-compatibility2 =
+    .message = Samhæfnisathugun viðbóta er óvirk. Hugsanlegt er að þú sért með ósamhæfðar viðbætur.
 extensions-warning-check-compatibility-button = Virkja
     .title = Virkja samhæfnisathugun viðbóta
 extensions-warning-update-security = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
+extensions-warning-update-security2 =
+    .message = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
 extensions-warning-update-security-button = Virkja
     .title = Virkja öryggisuppfærslur fyrir viðbætur
 extensions-warning-imported-addons = Ljúktu við uppsetningu forritsauka sem fluttir voru inn í { -brand-short-name }
