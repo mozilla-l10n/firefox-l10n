@@ -8,22 +8,18 @@ password-quality-meter = Mesura de la qualitat del senhal
 
 change-device-password-window =
     .title = Cambiar lo senhal
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Periferic de seguretat: { $tokenName }
 change-password-old = Senhal actual :
 change-password-new = Picatz lo senhal actual :
 change-password-reenter = Tornatz picatz lo senhal :
-
 pippki-failed-pw-change = Cambiament del senhal impossible.
 pippki-incorrect-pw = Avètz pas picat lo senhal principal actual corrècte. Tornatz ensajar.
 pippki-pw-change-ok = Senhal corrèctament modificat.
-
 pippki-pw-empty-warning = Los senhals e claus privadas seràn pas protegidas.
 pippki-pw-erased-ok = Avètz suprimit vòstre senhal principal. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Atencion ! Avètz decidit d'utilizar pas de senhal principal. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Actualament, sètz en mòde FIPS. Lo mòde FIPS necessita un senhal principal pas void.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Escafar
 reset-primary-password-text = Se reïnicializatz vòstre senhal principal, totes vòstres senhals e email salvats, certificats personals e vòstras claus privadas seràn oblidats. Volètz vertadièrament suprimir lo senhal principal ?
-
 pippki-reset-password-confirmation-title = Reïnicializar lo senhal principal
 pippki-reset-password-confirmation-message = Vòstre senhal es estat reïnicializat.
 
@@ -55,11 +50,36 @@ download-cert-view-text = Examinar lo certificat d'AC
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Requèsta d'identificacion d'utilizaire
 client-auth-site-description = Aqueste sit vos demanda de vos identificar amb un certificat de seguretat :
 client-auth-choose-cert = Causir un certificat de presentar coma identificacion :
 client-auth-cert-details = Detalhs del certificat seleccionat :
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Emés per : { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Nombre de seria : { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Valid del { $notBefore } al { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Utilizacions de la clau : { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Adreças electronicas : { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Emés per : { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Emmagazinat dins : { $storedOn }
 
 ## Set password (p12) dialog
 
@@ -71,8 +91,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Senhal de salvament del certificat (encara) :
 set-password-reminder = Important : s'avètz oblidat vòstre senhal de seguretat, poiretz pas mai importar aquesta salvagarda mai tard. Conservatz-lo en luòc segur.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
