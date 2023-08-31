@@ -230,6 +230,11 @@ shortcuts-duplicate = ڈپلیکیٹ شارٹ کٹ
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } کوں ہک کنوں زیادہ صورتاں وِچ شارٹ کٹ دے طور تے استعمال کیتا ویندا پیا ہے۔ ڈپلیکیٹ شارٹ کٹ غیر متوقع رویے دا سبب بݨ سڳدے ہن۔
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } کوں ہک کنوں زیادہ صورتاں وِچ شارٹ کٹ دے طور تے استعمال کیتا ویندا پیا ہے۔ ڈپلیکیٹ شارٹ کٹ غیر متوقع رویے دا سبب بݨ سڳدے ہن۔
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
