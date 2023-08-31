@@ -314,6 +314,9 @@ addon-detail-homepage-label = Үй парағы
 addon-detail-rating-label = Рейтингі
 # Message for add-ons with a staged pending update.
 install-postponed-message = Бұл кеңейту { -brand-short-name } қайта іске қосылған кезде жаңартылады.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Бұл кеңейту { -brand-short-name } қайта іске қосылған кезде жаңартылады.
 install-postponed-button = Қазір жаңарту
 # The average rating that the add-on has received.
 # Variables:
