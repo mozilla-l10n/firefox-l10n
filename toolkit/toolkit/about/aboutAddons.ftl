@@ -172,6 +172,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Inschakelen
     .title = Beveiligingscontrole voor add-on-updates inschakelen
 extensions-warning-imported-addons = Voltooi de installatie van extensies die zijn geïmporteerd naar { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Voltooi de installatie van extensies die zijn geïmporteerd naar { -brand-short-name }.
 extensions-warning-imported-addons-button = Extensies installeren
 
 ## Strings connected to add-on updates
