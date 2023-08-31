@@ -108,9 +108,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Сите додатоци се оневозможени од безбедниот режим.
 extensions-warning-check-compatibility = Проверката за компатибилност на додатоците е оневозможена. Можеби имате некомпатибилни додатоци.
+extensions-warning-safe-mode2 =
+    .message = Сите додатоци се оневозможени од безбедниот режим.
+extensions-warning-check-compatibility2 =
+    .message = Проверката за компатибилност на додатоците е оневозможена. Можеби имате некомпатибилни додатоци.
 extensions-warning-check-compatibility-button = Овозможи
     .title = Овозможи проверување на компатибилноста на додатоците
 extensions-warning-update-security = Проверката за безбедност при надградба на додатоци е оневозможена. Надградбите може да Ви наштетат.
+extensions-warning-update-security2 =
+    .message = Проверката за безбедност при надградба на додатоци е оневозможена. Надградбите може да Ви наштетат.
 extensions-warning-update-security-button = Овозможи
     .title = Овозможи проверување на безбедноста при надградба на додаток
 
