@@ -47,6 +47,22 @@ abuse-report-messagebar-removed-extension = Gràcies per enviar un informe. Heu 
 abuse-report-messagebar-removed-theme = Gràcies per enviar un informe. Heu eliminat el tema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = S'ha produït un error en enviar l'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = L'informe sobre <span data-l10n-name="addon-name">{ $addon-name }</span> no s'ha enviat perquè recentment ja s'ha enviat un altre informe.
+abuse-report-messagebar-aborted2 =
+    .message = S'ha cancel·lat l'informe sobre { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = S'està enviant l'informe sobre { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Gràcies per enviar un informe. Voleu eliminar { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Gràcies per enviar un informe.
+abuse-report-messagebar-removed-extension2 =
+    .message = Gràcies per enviar un informe. Heu eliminat l'extensió { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Gràcies per enviar un informe. Heu eliminat el tema { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = S'ha produït un error en enviar l'informe sobre { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = L'informe sobre { $addon-name } no s'ha enviat perquè recentment ja s'ha enviat un altre informe.
 
 ## Message bars actions.
 
