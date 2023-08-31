@@ -38,11 +38,9 @@ menu-quit =
             [windows] F
            *[other] F
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Anef { -brand-shorter-name }
-
 menu-about =
     .label = Ɣef { -brand-shorter-name }
     .accesskey = Γ
@@ -222,6 +220,9 @@ menu-history-undo-menu =
     .label = Accaren imedlen melmi kan
 menu-history-undo-window-menu =
     .label = Isfuyla imedlen melmi kan
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Nadi deg uzray
 
 ## Bookmarks Menu
 
@@ -234,6 +235,9 @@ menu-bookmark-tab =
     .label = Iccer amiran n tecreḍt n usebter…
 menu-edit-bookmark =
     .label = Ẓreg tacreḍṭ n usebter-a…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Nadi ticraḍ n yisebtar
 menu-bookmarks-all-tabs =
     .label = Creḍ akk accaren…
 menu-bookmarks-toolbar =

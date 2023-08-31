@@ -84,12 +84,18 @@ firefoxview-collapse-button-show =
     .title = Sken tabdart
 firefoxview-collapse-button-hide =
     .title = Ffer tabdart
+firefoxview-overview-nav = Tunigin tamirant
+    .title = Tunigin tamirant
+firefoxview-overview-header = Tunigin tamirant
+    .title = Tunigin tamirant
 
 ## History in this context refers to browser history
 
 firefoxview-history-nav = Amazray
     .title = Amazray
 firefoxview-history-header = Amazray
+firefoxview-history-context-delete = Kkes seg uzray
+    .accesskey = K
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -105,6 +111,9 @@ firefoxview-recently-closed-header = Iccaren imedlen melmi kan
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Iccaren seg ibenkan nniḍen
+    .title = Iccaren seg ibenkan nniḍen
+firefoxview-synced-tabs-header = Accaren seg yibenkan niḍen
 
 ##
 
@@ -118,9 +127,16 @@ firefoxview-opentabs-window-header =
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
     .title = Asfaylu { $winID } (Q)
+firefoxview-opentabs-focus-tab =
+    .title = Uɣal ɣer yiccer-a
+firefoxview-show-more = Sken ugar
 firefoxview-show-less = Sken drus
 firefoxview-sort-history-by-date-label = Asmizzwer s wazemz
 firefoxview-sort-history-by-site-label = Smizzwer s usmel
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Uɣal ɣer { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -129,9 +145,15 @@ firefoxview-history-date-today = Ass-a - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-yesterday = Iḍelli - { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
 firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (ifuyla idiganen)
 
 ##
 
+firefoxview-show-all-history = Sken akk azray
+firefoxview-view-more-browsing-history = Sken ugar seg uzray n tunigin
 
 ## Message displayed in Firefox View when the user has no history data
 

@@ -41,3 +41,7 @@ fxviewtabrow-copy-link = Nɣel aseɣwen
     .accesskey = A
 fxviewtabrow-close-tab = Mdel Iccer
     .accesskey = M
+# Variables:
+#   $tabTitle (string) - Title of the tab to which the context menu is associated
+fxviewtabrow-options-menu-button =
+    .title = Tixtiṛiyin i { $tabTitle }
