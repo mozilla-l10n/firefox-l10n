@@ -250,6 +250,9 @@ header-back-button =
 discopane-intro = Rozšyrjenja a drastwy su ako nałoženja za waš wobglědowak, a šćitaju gronidła, ześěguju wideo, namakaju wułapotki, blokěruju gramne wabjenje, změnjaju naglěd wašogo wobglědowaka a wjele wěcej. Toś te małe softwarowe programy se cesto wót tśeśich wuwijaju. How jo wuběrk { -brand-product-name }<a data-l10n-name="learn-more-trigger">dopóruconych</a> rozšyrjenjow za { -brand-product-name } za wósebnu wěstotu, wugbaśe a funkcionalnosć.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Někotare z toś tych dopórucenjow su personalizěrowane. Bazěruju na rozšyrjenjach, kótarež sćo instalěrował, profilowych nastajenjach a wužywańskej statistice.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Někotare z toś tych dopórucenjow su personalizěrowane. Bazěruju na rozšyrjenjach, kótarež sćo instalěrował, profilowych nastajenjach a wužywańskej statistice.
 discopane-notice-learn-more = Dalšne informacije
 privacy-policy = Pšawidła priwatnosći
 # Refers to the author of an add-on, shown below the name of the add-on.
