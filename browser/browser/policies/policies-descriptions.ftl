@@ -70,6 +70,7 @@ policy-Extensions = Instalar, desinstalar e bloquear extensões. A opção “In
 policy-ExtensionSettings = Gerenciar todos os aspectos da instalação de extensões.
 policy-ExtensionUpdate = Ativar ou desativar atualizações automáticas de extensões.
 policy-FirefoxHome2 = Configurar a { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Configurar o { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Forçar navegação direta em site da intranet em vez de pesquisar ao digitar uma única palavra na barra de endereços.
 policy-Handlers = Configurar manipuladores de aplicativos padrão.
 policy-HardwareAcceleration = Caso definido como "false", desativar a aceleração de hardware.
