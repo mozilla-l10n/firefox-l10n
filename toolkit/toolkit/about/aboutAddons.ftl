@@ -320,6 +320,9 @@ addon-detail-homepage-label = Upphafssíða
 addon-detail-rating-label = Einkunn
 # Message for add-ons with a staged pending update.
 install-postponed-message = Þessi viðbót verður uppfærð þegar { -brand-short-name } endurræsir.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Þessi viðbót verður uppfærð þegar { -brand-short-name } endurræsir.
 install-postponed-button = Uppfæra núna
 # The average rating that the add-on has received.
 # Variables:
