@@ -227,6 +227,11 @@ shortcuts-duplicate = Дупликат пречице
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } се користи као пречица у више од једног случаја. Дупликати пречица могу проузроковати неочекивано понашање.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } се користи као пречица у више од једног случаја. Дупликати пречица могу проузроковати неочекивано понашање.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
