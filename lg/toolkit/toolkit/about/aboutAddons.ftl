@@ -91,9 +91,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
 extensions-warning-check-compatibility = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
+extensions-warning-safe-mode2 =
+    .message = Ebyongerebwako byonna binafuyiziddwa n'enkola ennungamu
+extensions-warning-check-compatibility2 =
+    .message = Obusobozi obukebera ebyongerwako ebitatukagana kujjiddwako. Osobola okubanga ebyongerwako ebetatuukagana.
 extensions-warning-check-compatibility-button = Sobozesa
     .title = Sobozesa ebikebera entuukaganya y'ebyongerwako
 extensions-warning-update-security = Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya
+extensions-warning-update-security2 =
+    .message = Ebyongerwako okutuukanya eby'okwerinda binafuyiziddwa. Oyinza obutafuna kutuukanya
 extensions-warning-update-security-button = Sobozesa
     .title = Sobozesa ebyongerebwako okukebera eby'okwerinda
 
