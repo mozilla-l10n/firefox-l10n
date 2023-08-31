@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Źěkujomy se, až sćo pósła
 abuse-report-messagebar-removed-theme = Źěkujomy se, až sćo pósłał rozpšawu. Sćo wótwónoźeł drastwu <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Zmólka pśi słanju rozpšawy za <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rozpšawa za <span data-l10n-name="addon-name">{ $addon-name }</span> njejo se pósłała, dokulaž jo se druga rozpšawa njedawno wótpósłała.
+abuse-report-messagebar-aborted2 =
+    .message = Rozpšawa za { $addon-name } jo se pśetergnuła.
+abuse-report-messagebar-submitting2 =
+    .message = Rozpšawa za { $addon-name } se sćelo.
+abuse-report-messagebar-submitted2 =
+    .message = Źěkujomy se, až sćo pósłał rozpšawu. Cośo { $addon-name } wótwónoźeś?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Źěkujomy se, až sćo pósłał rozpšawu.
+abuse-report-messagebar-removed-extension2 =
+    .message = Źěkujomy se, až sćo pósłał rozpšawu. Sćo wótwónoźeł rozšyěrjenje { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Źěkujomy se, až sćo pósłał rozpšawu. Sćo wótwónoźeł dodank sedłowych pšawow { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Źěkujomy se, až sćo pósłał rozpšawu. Sćo wótwónoźeł drastwu { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Zmólka pśi słanju rozpšawy za { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Rozpšawa za { $addon-name } njejo se pósłała, dokulaž jo se druga rozpšawa njedawno wótpósłała.
 
 ## Message bars actions.
 
