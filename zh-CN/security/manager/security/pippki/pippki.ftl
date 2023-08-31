@@ -69,8 +69,14 @@ client-auth-cert-details-serial-number = 序列号：{ $serialNumber }
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = 有效期从 { $notBefore } 至 { $notAfter }
 # Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = 密钥用途：{ $keyUsages }
+# Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = 电子邮件地址：{ $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = 颁发者：{ $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = 存储于：{ $storedOn }
