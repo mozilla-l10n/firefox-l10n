@@ -218,6 +218,11 @@ shortcuts-duplicate = Дублиране на комбинация
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = Комбинацията { $shortcut } се използва на повече от едно място. Дублиране на клавишни комбинации могат да имат  поведение.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = Комбинацията { $shortcut } се използва на повече от едно място. Дублиране на клавишни комбинации могат да имат  поведение.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
