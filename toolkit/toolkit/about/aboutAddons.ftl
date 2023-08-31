@@ -321,6 +321,9 @@ addon-detail-homepage-label = Хатняя старонка
 addon-detail-rating-label = Ацэнка
 # Message for add-ons with a staged pending update.
 install-postponed-message = Гэта пашырэнне будзе абноўлена пасля перазапуску { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Гэта пашырэнне будзе абноўлена пасля перазапуску { -brand-short-name }.
 install-postponed-button = Абнавіць зараз
 # The average rating that the add-on has received.
 # Variables:
