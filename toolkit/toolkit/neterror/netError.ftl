@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-timeout = { $trrDomain } მოსალოდ�
 neterror-dns-not-found-trr-offline = არ გაქვთ ინტერნეტკავშირი.
 neterror-dns-not-found-trr-unknown-host2 = საიტს ვერ პოულობს { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = ხარვეზებით მუშაობს { $trrDomain }.
+neterror-dns-not-found-bad-trr-url = არამართებული ბმული.
 neterror-dns-not-found-trr-unknown-problem = მოულოდნელი შეცდომა.
 
 ## Native fallback specific messages

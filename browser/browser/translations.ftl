@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = ყოველთვის ითარგმნოს { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = ყოველთვის ითარგმნოს ამ ენიდან
+translations-panel-settings-always-offer-translation =
+    .label = თარგმნის შემოთავაზება ყოველთვის
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = ენები ჩამოტვირთვ
 translations-manage-all-language = ყველა ენა
 translations-manage-download-button = ჩამოტვირთვა
 translations-manage-delete-button = წაშლა
-translations-manage-language-download-button =
-    .label = ჩამოტვირთვა
-    .accesskey = ო
-translations-manage-language-delete-button =
-    .label = წაშლა
-    .accesskey = წ
 translations-manage-error-download = ხარვეზი წარმოიშვა ენის ფაილების ჩამოტვირთვისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-error-delete = ხარვეზი წარმოიშვა ენის ფაილების წაშლისას. გთხოვთ სცადოთ მოგვიანებით.
 translations-manage-intro = მიუთითეთ თქვენი ენისა და საიტის თარგმნის პარამეტრები და მართეთ ხაზგარეშე თარგმნისთვის ჩაყენებული ენები.
