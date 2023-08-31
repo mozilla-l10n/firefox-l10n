@@ -2,24 +2,21 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 show-all-extensions-button =
     .label = Nana árera ákatari
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 addon-restart-now =
     .label = Bíeri ábɨdo taɨne
-
 addon-category-extension = Árera
 addon-category-extension-title =
     .title = Árera
@@ -73,21 +70,21 @@ addon-install-from-file-filter-name = Jɨaɨe
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
 
+
 ## Page headings
 
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
 ##   $name (string) - Name of the add-on.
 
 details-notification-gmp-pending = { $name } raɨre ñúe fɨnoye.
+details-notification-gmp-pending2 =
+    .message = { $name } raɨre ñúe fɨnoye.
