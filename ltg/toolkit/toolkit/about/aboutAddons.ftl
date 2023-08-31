@@ -210,3 +210,5 @@ details-notification-softblocked2 =
     .message = Ir zynoms, ka { $name } roda drūseibys voi stabilitātes problemys.
 details-notification-softblocked-link = Vairuok informacejis
 details-notification-gmp-pending = { $name } will be installed shortly.
+details-notification-gmp-pending2 =
+    .message = { $name } will be installed shortly.
