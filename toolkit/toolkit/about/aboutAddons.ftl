@@ -156,9 +156,15 @@ addon-sitepermission-host = Autorisaziuns per la website { $host }
 
 extensions-warning-safe-mode = Tut ils supplements èn vegnids deactivads dal modus segirà.
 extensions-warning-check-compatibility = Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.
+extensions-warning-safe-mode2 =
+    .message = Tut ils supplements èn vegnids deactivads dal modus segirà.
+extensions-warning-check-compatibility2 =
+    .message = Il test da cumpatibilitad per supplements è deactivà. I po esser che supplements incumpatibels èn installads.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar il test da cumpatibilitad dals supplements
 extensions-warning-update-security = Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.
+extensions-warning-update-security2 =
+    .message = Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.
 extensions-warning-update-security-button = Activar
     .title = Activar il test da segirezza per l'actualisaziun da supplements
 extensions-warning-imported-addons = Finescha per plaschair l'installaziun da las extensiuns importadas en { -brand-short-name }.
