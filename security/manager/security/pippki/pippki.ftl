@@ -71,6 +71,8 @@ client-auth-cert-details-email-addresses = 이메일 주소: { $emailAddresses }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = 저장소: { $storedOn }
+client-auth-cert-remember-box =
+    .label = 이 선택 기억하기
 
 ## Set password (p12) dialog
 
