@@ -156,6 +156,8 @@ addon-sitepermission-host = ნებართვები საიტისთ
 
 extensions-warning-safe-mode = ყველა დამატება გამორთულია უსაფრთხო რეჟიმის მიერ.
 extensions-warning-check-compatibility = დამატებების თავსებადობის შემოწმება გამორთულია. შესაძლოა, არათავსებადი დამატებები გქონდეთ.
+extensions-warning-safe-mode2 =
+    .message = ყველა დამატება გამორთულია უსაფრთხო რეჟიმის მიერ.
 extensions-warning-check-compatibility-button = ჩართვა
     .title = დამატებების თავსებადობის შემოწმების ჩართვა
 extensions-warning-update-security = დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა, ზიანი მოგაყენოთ.
