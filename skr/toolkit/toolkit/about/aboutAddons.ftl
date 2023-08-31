@@ -322,6 +322,9 @@ addon-detail-homepage-label = مکھ پناں
 addon-detail-rating-label = ریٹنگ
 # Message for add-ons with a staged pending update.
 install-postponed-message = ایہ توسیع ایں ویلھے اپ ڈیٹ تھی ویسے جݙاں { -brand-short-name } دوبارہ شروع تھیسے۔
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = ایہ توسیع ایں ویلھے اپ ڈیٹ تھی ویسے جݙاں { -brand-short-name } دوبارہ شروع تھیسے۔
 install-postponed-button = ہݨ ابڈیٹ کرو
 # The average rating that the add-on has received.
 # Variables:
