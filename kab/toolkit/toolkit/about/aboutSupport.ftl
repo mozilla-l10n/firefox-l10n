@@ -292,6 +292,7 @@ webgl2-version = Lqem WebGL 2 Driver
 webgl2-driver-extensions = Isiɣzaf WebGL 2 Driver
 webgl2-extensions = Isiɣzaf WebGL 2
 webgpu-default-adapter = Amezgay WebGPU amezwer
+webgpu-fallback-adapter = Amezgay WebGPU n tɣellist
 # Variables
 #   $bugNumber (string) - Bug number on Bugzilla
 support-blocklisted-bug = Tabdart tettusewḥel ssebba n wugur yettwassnen: <a data-l10n-name="bug-link">abug { $bugNumber }</a>
@@ -396,3 +397,5 @@ support-remote-features-status = Addad
 
 ## Pointing devices
 
+pointing-device-mouse = Taɣerdayt
+pointing-device-touchscreen = Nnal agdil
