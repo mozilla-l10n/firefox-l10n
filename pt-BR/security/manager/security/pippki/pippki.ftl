@@ -8,22 +8,18 @@ password-quality-meter = Medidor de qualidade da senha
 
 change-device-password-window =
     .title = Alterar senha
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }
 change-password-old = Senha atual:
 change-password-new = Nova senha:
 change-password-reenter = Confirmar a nova senha:
-
 pippki-failed-pw-change = Não foi possível alterar a senha.
 pippki-incorrect-pw = Você não digitou corretamente a senha atual. Tente novamente.
 pippki-pw-change-ok = Senha alterada com sucesso.
-
 pippki-pw-empty-warning = Suas senhas e chaves privadas armazenadas não estarão protegidas.
 pippki-pw-erased-ok = Você excluiu sua senha. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Atenção! Você decidiu não usar uma senha. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Você está no momento no modo FIPS. O modo FIPS exige uma senha não vazia.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Redefinir
 reset-primary-password-text = Se você redefinir a senha principal, todas as suas senhas de contas e emails, chaves privadas e certificados pessoais armazenados serão esquecidos. Tem certeza que quer redefinir sua senha principal?
-
 pippki-reset-password-confirmation-title = Redefinir senha principal
 pippki-reset-password-confirmation-message = Sua senha principal foi redefinida.
 
@@ -55,11 +50,35 @@ download-cert-view-text = Examinar certificado da CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Solicitação de identificação do usuário
 client-auth-site-description = Este site solicitou que você identifique-se com um certificado:
 client-auth-choose-cert = Selecione um certificado para apresentar como identificação:
 client-auth-cert-details = Detalhes do certificado selecionado:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Emitido para: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Número de série: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Válido de { $notBefore } a { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Chaves usadas: { $keyUsages }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Emitido por: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Armazenado em: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Memorizar esta decisão
 
 ## Set password (p12) dialog
 
@@ -71,8 +90,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Senha de backup do certificado (confirmar):
 set-password-reminder = Importante: Se você esquecer a senha do backup de certificados, não poderá restaurar esse backup mais tarde. Anote em um local seguro.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
