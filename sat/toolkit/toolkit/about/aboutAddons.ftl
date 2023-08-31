@@ -231,6 +231,11 @@ shortcuts-duplicate = ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } ᱫᱚ ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱱ ᱵᱟᱹᱲᱛᱤ ᱠᱮᱥ ᱨᱮ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱞᱮᱠᱟᱛᱮ ᱵᱮᱵᱷᱟᱨᱚᱜ ᱠᱟᱱᱟ ᱾ ᱰᱩᱯᱞᱤᱠᱮᱴ ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ ᱫᱚ ᱵᱟᱝ ᱵᱟᱲᱟᱭᱚᱜ ᱵᱮᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱭ ᱾
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
