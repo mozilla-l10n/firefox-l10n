@@ -317,6 +317,9 @@ addon-detail-homepage-label = Duilleag-dhachaigh
 addon-detail-rating-label = Rangachadh
 # Message for add-ons with a staged pending update.
 install-postponed-message = Thèid an leudachan seo ùrachadh nuair a thèid { -brand-short-name } ath-thòiseachadh.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Thèid an leudachan seo ùrachadh nuair a thèid { -brand-short-name } ath-thòiseachadh.
 install-postponed-button = Ùraich an-dràsta
 # The average rating that the add-on has received.
 # Variables:
