@@ -44,6 +44,22 @@ abuse-report-messagebar-removed-sitepermission = תודה ששלחת את הדי
 abuse-report-messagebar-removed-theme = תודה ששלחת את הדיווח. הסרת את ערכת הנושא <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = אירעה שגיאה בשליחת הדיווח עבור <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = הדיווח עבור <span data-l10n-name="addon-name">{ $addon-name }</span> לא נשלח מכיוון שדיווח נוסף נשלח לאחרונה.
+abuse-report-messagebar-aborted2 =
+    .message = הדיווח עבור { $addon-name } בוטל.
+abuse-report-messagebar-submitting2 =
+    .message = בשליחת דיווח עבור { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = תודה ששלחת את הדיווח. האם ברצונך להסיר את { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = תודה ששלחת את הדיווח.
+abuse-report-messagebar-removed-extension2 =
+    .message = תודה ששלחת את הדיווח. הסרת את ההרחבה { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = תודה ששלחת את הדיווח. הסרת את ערכת הנושא { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = אירעה שגיאה בשליחת הדיווח עבור { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = הדיווח עבור { $addon-name } לא נשלח מכיוון שדיווח נוסף נשלח לאחרונה.
 
 ## Message bars actions.
 
