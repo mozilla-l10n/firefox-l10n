@@ -3,10 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabmodalprompt-username =
-    .value = Puruhára réra:
+    .value = Poruhára réra:
 tabmodalprompt-password =
     .value = Ñe’ẽñemi:
-
 tabmodalprompt-ok-button =
     .label = MONEĨ
 tabmodalprompt-cancel-button =
