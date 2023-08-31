@@ -251,6 +251,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Бұл ұсыныстардың кейбіреулері жекеленген. Олар сіз басқа орнатқан кеңейтулер,
     профиль баптаулары және қолданылу статистикасына негізделген.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Бұл ұсыныстардың кейбіреулері жекеленген. Олар сіз басқа орнатқан кеңейтулер,
+        профиль баптаулары және қолданылу статистикасына негізделген.
 discopane-notice-learn-more = Көбірек білу
 privacy-policy = Жекелік саясаты
 # Refers to the author of an add-on, shown below the name of the add-on.
