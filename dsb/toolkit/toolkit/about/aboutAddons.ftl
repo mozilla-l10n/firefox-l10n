@@ -435,13 +435,21 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } njejo z kompatibelny z { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } njejo z kompatibelny z { -brand-short-name } { $version }.
 details-notification-incompatible-link = Dalšne informacije
 details-notification-unsigned-and-disabled = { $name } njedajo se za wužywanje w { -brand-short-name } wobkšuśiś a jo se znjemóžnił.
 details-notification-unsigned-and-disabled-link = Dalšne informacije
 details-notification-unsigned = { $name } njedajo se za wužywanje w { -brand-short-name } wobkšuśiś. Pókšacujśo z glědanim.
 details-notification-unsigned-link = Dalšne informacije
 details-notification-blocked = { $name } jo se dla problemow wěstoty abo stabilnosći znjemóžnił.
+details-notification-blocked2 =
+    .message = { $name } jo se dla problemow wěstoty abo stabilnosći znjemóžnił.
 details-notification-blocked-link = Dalšne informacije
 details-notification-softblocked = { $name } jo za to znaty, až zawinujo problemy wěstoty abo stabilnosći.
+details-notification-softblocked2 =
+    .message = { $name } jo za to znaty, až zawinujo problemy wěstoty abo stabilnosći.
 details-notification-softblocked-link = Dalšne informacije
 details-notification-gmp-pending = { $name } buźo se skóro instalěrowaś.
