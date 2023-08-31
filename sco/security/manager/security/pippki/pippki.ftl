@@ -8,22 +8,18 @@ password-quality-meter = Passwird quality meter
 
 change-device-password-window =
     .title = Chynge Passwird
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Siccarness Device: { $tokenName }
 change-password-old = Passwird the noo:
 change-password-new = New passwird:
 change-password-reenter = New passwird (again):
-
 pippki-failed-pw-change = No able tae chynge passwird.
 pippki-incorrect-pw = Ye didnae inpit whit's the richt passwird the noo. Gie it anither shot.
 pippki-pw-change-ok = Passwird chynged wioot onie problems.
-
 pippki-pw-empty-warning = Your stored passwirds and private keys willnae be bieldit.
 pippki-pw-erased-ok = Ye've dichtit yer passwird. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Haud on! Ye've decidit no tae yaise a passwird. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Ye're in FIPS mode jist noo. FIPS needs a passwird that isnae tuim.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Reset
 reset-primary-password-text = If ye reset yer Primary Passwird, aw yer stored wab and e-mail passwirds,personal certificates, and private keys will be forgotten. Are ye shair ye're wantin tae reset yer Primary Passwird?
-
 pippki-reset-password-confirmation-title = Reset Primary Passwird
 pippki-reset-password-confirmation-message = Yer Primary Passwird has been reset.
 
@@ -55,11 +50,17 @@ download-cert-view-text = Examine CA certificate
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Yaiser Identification Speirin
 client-auth-site-description = This site has speired that ye identify yersel wi a certificate:
 client-auth-choose-cert = Wale a certificate tae gie as identification:
 client-auth-cert-details = Parteeculars o waled certificate:
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Email addresses: { $emailAddresses }
 
 ## Set password (p12) dialog
 
@@ -71,8 +72,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Certificate backup passwird (aince mair):
 set-password-reminder = Important: If you forget yer certificate backup passwird, ye'll no be able tae restore this backup efter. Gonnae keep it in a sauf airtin.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
