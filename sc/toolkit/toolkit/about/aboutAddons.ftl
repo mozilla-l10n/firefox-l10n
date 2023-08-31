@@ -296,6 +296,9 @@ addon-detail-homepage-label = Pàgina printzipale
 addon-detail-rating-label = Valutatzione
 # Message for add-ons with a staged pending update.
 install-postponed-message = Custa estensione at a èssere atualizada comente torras a aviare { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Custa estensione at a èssere atualizada comente torras a aviare { -brand-short-name }.
 install-postponed-button = Agiorna immoe
 # The average rating that the add-on has received.
 # Variables:
