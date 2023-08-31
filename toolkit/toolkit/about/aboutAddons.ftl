@@ -255,6 +255,11 @@ discopane-intro =
 discopane-notice-recommendations =
     บางคำแนะนำเหล่านี้ถูกปรับเปลี่ยนตามแบบส่วนบุคคล ซึ่งขึ้นอยู่กับส่วนขยายอื่นที่คุณติดตั้ง,
     ค่ากำหนดโปรไฟล์, และสถิติการใช้งาน
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        บางคำแนะนำเหล่านี้ถูกปรับเปลี่ยนตามแบบส่วนบุคคล ซึ่งขึ้นอยู่กับส่วนขยายอื่นที่คุณติดตั้ง,
+        ค่ากำหนดโปรไฟล์, และสถิติการใช้งาน
 discopane-notice-learn-more = เรียนรู้เพิ่มเติม
 privacy-policy = นโยบายความเป็นส่วนตัว
 # Refers to the author of an add-on, shown below the name of the add-on.
