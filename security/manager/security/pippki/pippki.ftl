@@ -69,11 +69,17 @@ client-auth-cert-details-serial-number = หมายเลขอนุกรม
 # $notAfter (String) - The date after which the certificate is not valid
 client-auth-cert-details-validity-period = มีผลตั้งแต่ { $notBefore } ถึง { $notAfter }
 # Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = การใช้กุญแจ: { $keyUsages }
+# Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = ที่อยู่อีเมล: { $emailAddresses }
 # Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = ออกโดย: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = จัดเก็บไว้ใน: { $storedOn }
 client-auth-cert-remember-box =
     .label = จดจำการตัดสินใจนี้
 
