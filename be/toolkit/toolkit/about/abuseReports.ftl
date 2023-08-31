@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Дзякуй за прадст�
 abuse-report-messagebar-removed-theme = Дзякуй за прадстаўленую справаздачу. Вы выдалілі <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Памылка пры адпраўцы справаздачы для <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Справаздача пра <span data-l10n-name="addon-name">{ $addon-name }</span> не адпраўлена, бо нядаўна была пададзена яшчэ адна справаздача.
+abuse-report-messagebar-aborted2 =
+    .message = Справаздача аб { $addon-name } скасавана.
+abuse-report-messagebar-submitting2 =
+    .message = Адпраўляецца паведамленне пра { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Дзякуем за прадстаўленую справаздачу. Хочаце выдаліць { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Дзякуем за прадстаўленую справаздачу.
+abuse-report-messagebar-removed-extension2 =
+    .message = Дзякуй за прадстаўленую справаздачу. Вы выдалілі пашырэнне { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Дзякуй за прадстаўленую справаздачу. Вы выдалілі дадатак дазволаў для сайта { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Дзякуй за прадстаўленую справаздачу. Вы выдалілі { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Памылка пры адпраўцы справаздачы для { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Справаздача пра { $addon-name } не адпраўлена, бо нядаўна была пададзена яшчэ адна справаздача.
 
 ## Message bars actions.
 
