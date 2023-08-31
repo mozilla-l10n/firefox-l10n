@@ -100,9 +100,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = নিরাপদ মোডে সকল অতিরিক্ত সামগ্রী নিষ্ক্রিয় করা হয়েছে।
 extensions-warning-check-compatibility = অতিরিক্ত সামগ্রীর সুসংগতি পরীক্ষা নিষ্ক্রিয় করা হয়েছে। বিসংগত অতিরিক্ত সামগ্রী উপস্থিত থাকতে পারে।
+extensions-warning-safe-mode2 =
+    .message = নিরাপদ মোডে সকল অতিরিক্ত সামগ্রী নিষ্ক্রিয় করা হয়েছে।
+extensions-warning-check-compatibility2 =
+    .message = অতিরিক্ত সামগ্রীর সুসংগতি পরীক্ষা নিষ্ক্রিয় করা হয়েছে। বিসংগত অতিরিক্ত সামগ্রী উপস্থিত থাকতে পারে।
 extensions-warning-check-compatibility-button = সক্রিয় করুন
     .title = অতিরিক্ত সামগ্রীর সুসংগতি পরীক্ষার ব্যবস্থা সক্রিয় করা হবে
 extensions-warning-update-security = অতিরিক্ত সামগ্রীর নিরাপত্তা পরীক্ষা নিষ্ক্রিয় করা হয়েছে। আপডেটের ফলে বিপদ দেখা দিতে পারে।
+extensions-warning-update-security2 =
+    .message = অতিরিক্ত সামগ্রীর নিরাপত্তা পরীক্ষা নিষ্ক্রিয় করা হয়েছে। আপডেটের ফলে বিপদ দেখা দিতে পারে।
 extensions-warning-update-security-button = সক্রিয় করুন
     .title = অতিরিক্ত সামগ্রীর আপডেটের নিরাপত্তা পরীক্ষা ব্যবস্থা সক্রিয় করা হবে
 
