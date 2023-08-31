@@ -55,7 +55,10 @@ download-cert-view-text = Esamina certificato CA
 
 client-auth-window =
     .title = Richiesta identificazione utente
-client-auth-site-description = Questo sito richiede che ci si identifichi tramite un certificato:
+client-auth-send-no-certificate =
+  .label = Non inviare un certificato
+client-auth-site-description = Questo sito richiede di identificarti tramite un certificato:
+client-auth-site-identification = “{ $hostname }” richiede di identificarti tramite un certificato:
 client-auth-choose-cert = Scegliere un certificato da presentare come identificativo:
 client-auth-cert-details = Dettagli del certificato selezionato:
 # Variables:
