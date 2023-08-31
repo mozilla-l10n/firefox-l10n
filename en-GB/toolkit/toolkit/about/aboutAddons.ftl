@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Enable
     .title = Enable add-on update security checking
 extensions-warning-imported-addons = Please finalise the installation of extensions that were imported to { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Please finalise the installation of extensions that were imported to { -brand-short-name }.
 extensions-warning-imported-addons-button = Install Extensions
 
 ## Strings connected to add-on updates
