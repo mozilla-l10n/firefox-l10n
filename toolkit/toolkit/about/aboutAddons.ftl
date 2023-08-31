@@ -250,6 +250,9 @@ discopane-intro =
     funksione të jashtëzakonshme.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Disa nga këto rekomandime janë të personalizuara. Ato bazohen në zgjerime të tjera që keni instaluar, në parapëlqime profili dhe statistika përdorimi.
 discopane-notice-learn-more = Mësoni më tepër
 privacy-policy = Rregulla Privatësie
 # Refers to the author of an add-on, shown below the name of the add-on.
