@@ -319,6 +319,9 @@ addon-detail-homepage-label = Trang chủ
 addon-detail-rating-label = Xêp hạng
 # Message for add-ons with a staged pending update.
 install-postponed-message = Tiện ích mở rộng này sẽ được cập nhật khi { -brand-short-name } khởi động lại.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Tiện ích mở rộng này sẽ được cập nhật khi { -brand-short-name } khởi động lại.
 install-postponed-button = Cập nhật ngay
 # The average rating that the add-on has received.
 # Variables:
