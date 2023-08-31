@@ -7,70 +7,51 @@ addons-page-title = Upravnik add-onima
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Vi nemate instaliranih add-ona ovog tipa
-
 list-empty-available-updates =
     .value = Nijedna nadogradnja nije pronađena
-
 list-empty-recent-updates =
     .value = Odavno niste nadograđivali add-one
-
 list-empty-find-updates =
     .label = Provjeri za nadogradnje
-
 list-empty-button =
     .label = Naučite više o add-onima
-
 show-unsigned-extensions-button =
     .label = Neke ekstenzije nisu mogle biti verifikovane
-
 show-all-extensions-button =
     .label = Prikaži sve ekstenzije
-
 detail-version =
     .label = Verzija
-
 detail-last-updated =
     .label = Zadnja nadogradnja
-
 detail-contributions-description = Developer ovog add-ona vas je zamolio da podržite njegov dalji razvoj davanjem malog doprinosa.
-
 detail-update-type =
     .value = Automatske nadogradnje
-
 detail-update-default =
     .label = Izvorno
     .tooltiptext = Automatski nadograđuj samo ako je to izabrana postavka
-
 detail-update-automatic =
     .label = Uključeno
     .tooltiptext = Automatski nadograđuj
-
 detail-update-manual =
     .label = Isključeno
     .tooltiptext = Nemoj automatski nadograđivati
-
 detail-home =
     .label = Web stranica
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Add-on profil
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Provjeri za nadogradnje
     .accesskey = P
     .tooltiptext = Provjeri za nadogradnje za ovaj add-on
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,31 +68,20 @@ detail-show-preferences =
             [windows] Promijeni opcije ovog add-ona
            *[other] Promijeni postavke ovog add-ona
         }
-
 detail-rating =
     .value = Ocjena
-
 addon-restart-now =
     .label = Restartuj sada
-
 disabled-unsigned-heading =
     .value = Neki add-oni su onemogućeni
-
 disabled-unsigned-description = Sljedeći add-oni nisu verifikovani za upotrebu u { -brand-short-name }. Možete <label data-l10n-name="find-addons">pronaći zamjene</label> ili tražiti od developera da ih verifikuje.
-
 disabled-unsigned-learn-more = Saznajte više o našim naporima da vas zaštitimo na internetu.
-
 disabled-unsigned-devinfo = Developeri koji su zainteresovani za verifikaciju njihovih add-ona mogu nastaviti s čitanjem našeg <label data-l10n-name="learn-more">vodiča</label>.
-
 plugin-deprecation-description = Fali vam nešto? Neki plugini više nisu podržani od strane { -brand-short-name }a. <label data-l10n-name="learn-more">Saznajte više.</label>
-
 legacy-warning-show-legacy = Prikaže zastarjele ekstenzije
-
 legacy-extensions =
     .value = Zastarjele ekstenzije
-
 legacy-extensions-description = Ove ekstenzije ne zadovoljavaju trenutne { -brand-short-name } standarde i stoga su deaktivirane. <label data-l10n-name="legacy-learn-more">Saznajte više o promjenama na add-onima</label>
-
 addon-category-extension = Ekstenzije
 addon-category-extension-title =
     .title = Ekstenzije
@@ -199,22 +169,19 @@ addon-open-about-debugging = Debagiranje add-ona
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
 
+
 ## Page headings
 
 extension-heading = Upravljanje vašim ekstenzijama
-
 addon-page-options-button =
     .title = Alati za sve add-one
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -223,17 +190,18 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } je nekompatibilan sa { -brand-short-name } { $version }.
-
 details-notification-unsigned-and-disabled = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name } te je onemogućen.
 details-notification-unsigned-and-disabled-link = Više informacija
-
 details-notification-unsigned = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
+details-notification-unsigned2 =
+    .message = { $name } nije mogao biti verifikovan za rad u { -brand-short-name }. Nastavite s oprezom.
 details-notification-unsigned-link = Više informacija
-
 details-notification-blocked = { $name } je onemogućen pošto uzrokuje probleme vezane za sigurnost i stabilnost.
 details-notification-blocked-link = Više informacija
-
 details-notification-softblocked = { $name } je poznat po tome što uzrokuje probleme vezane za stabilnost ili sigurnost.
 details-notification-softblocked-link = Više informacija
-
 details-notification-gmp-pending = { $name } će ubrzo biti instaliran.
+details-notification-gmp-pending2 =
+    .message = { $name } će ubrzo biti instaliran.
