@@ -7,70 +7,51 @@ addons-page-title = Papildinājumu pārvaldnieks
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Jums nav uzinstalēts neviens šī tipa atjauninājums
-
 list-empty-available-updates =
     .value = Atjauninājumi nav atrasti
-
 list-empty-recent-updates =
     .value = Pēdējā laikā neviens papildinājums nav atjaunināts
-
 list-empty-find-updates =
     .label = Meklēt atjauninājumus
-
 list-empty-button =
     .label = Uzziniet vairāk par papildinājumiem
-
 show-unsigned-extensions-button =
     .label = Dažus papildinājumus nevar pārbaudīt
-
 show-all-extensions-button =
     .label = Rādīt visus papildinājumus
-
 detail-version =
     .label = Versija
-
 detail-last-updated =
     .label = Pēdējo reizi atjaunināts
-
 detail-contributions-description = Šī papildinājuma autors lūdz jūs atbalstīt izstrādi ar nelielu ziedojumu.
-
 detail-update-type =
     .value = Automātiska atjaunināšana
-
 detail-update-default =
     .label = Noklusētā vērtība
     .tooltiptext = Automātiski instalēt atjauninājumus vienīgi, ja tā ir noklusētā vērtība
-
 detail-update-automatic =
     .label = Ieslēgta
     .tooltiptext = Instalēt atjauninājumus automātiski
-
 detail-update-manual =
     .label = Izslēgta
     .tooltiptext = Neinstalēt atjauninājumus automātiski
-
 detail-home =
     .label = Mājas lapa
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Papildinājuma profils
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Meklēt atjauninājumus
     .accesskey = M
     .tooltiptext = Meklēt atjauninājumus šim papildinājumam
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,31 +68,20 @@ detail-show-preferences =
             [windows] Izmainīt šī papildinājuma iestatījumus
            *[other] Izmainīt šī papildinājuma iestatījumus
         }
-
 detail-rating =
     .value = Vērtējums
-
 addon-restart-now =
     .label = Pārstartēt
-
 disabled-unsigned-heading =
     .value = Daži papildinājumi ir deaktivēti
-
 disabled-unsigned-description = Šos papildinājumus nevar pārbaudīt izmantošanai ar { -brand-short-name }. Jūs varat <label data-l10n-name="find-addons">atrast aizvietotājus</label> vai palūgt to izstrādātājam apstiprināt tos.
-
 disabled-unsigned-learn-more = Uzziniet vairāk par to ko darām, lai jūs būtu drošībā.
-
 disabled-unsigned-devinfo = Izstrādātāji, kas vēlas apstiprināt savus papildinājumus var turpināt izlasot mūsu <label data-l10n-name="learn-more">pamācību</label>.
-
 plugin-deprecation-description = Kaut kas pietrūkst? Dažus spraudņus { -brand-short-name } vairs neatbalsta. <label data-l10n-name="learn-more">Uzzināt vairāk.</label>
-
 legacy-warning-show-legacy = Rādīt vēsturiskos papildinājumus
-
 legacy-extensions =
     .value = Vēsturiskie papildinājumi
-
 legacy-extensions-description = Šie paplašinājumi neatbilst pašreizējiem { -brand-short-name } standartiem, tāpēc tie tika deaktivizēti. <label data-l10n-name="legacy-learn-more">Uzzināt vairāk par papildinājumu izmaiņām</label>
-
 addon-category-extension = Papildinājumi
 addon-category-extension-title =
     .title = Papildinājumi
@@ -199,11 +169,13 @@ addon-open-about-debugging = Atkļūdot papildinājumus
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -212,26 +184,23 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } nav savietojams ar { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } nav savietojams ar { -brand-short-name } { $version }.
 details-notification-unsigned-and-disabled = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name } un ir deaktivēts.
 details-notification-unsigned-and-disabled-link = Vairāk informācijas
-
 details-notification-unsigned = { $name } nevar pārbaudīt izmantošanai ar { -brand-short-name }. Esiet piesardzīgi.
 details-notification-unsigned-link = Vairāk informācijas
-
 details-notification-blocked = { $name } ir bloķēts drošības un stabilitātes nolūkos.
+details-notification-blocked2 =
+    .message = { $name } ir bloķēts drošības un stabilitātes nolūkos.
 details-notification-blocked-link = Vairāk informācijas
-
 details-notification-softblocked = Ir zināms, ka { $name } rada drošības vai stabilitātes problēmas.
 details-notification-softblocked-link = Vairāk informācijas
-
 details-notification-gmp-pending = { $name } pēc mirkļa tiks instalēts.
