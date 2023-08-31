@@ -59,6 +59,9 @@ client-auth-site-description = Pe tenda upeigua ojerurékuri ndéve rejehechauka
 client-auth-choose-cert = Eiporavo peteĩ mboapyréva emoapysẽ hag̃ua jehechaukaháramo:
 client-auth-cert-details = Mboajepyréva poravopyre mba’emimi:
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Mba’egua: { $issuedTo }
+# Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = Tysýi papapy: { $serialNumber }
 # Variables:
@@ -77,6 +80,8 @@ client-auth-cert-details-issued-by = Onohẽpyre: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Ñongatupyre: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Epyta mba’e je’epyrépe
 
 ## Set password (p12) dialog
 
