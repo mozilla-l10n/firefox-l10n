@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ
 abuse-report-messagebar-removed-theme = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ <span data-l10n-name="addon-name">{ $addon-name }</span> ᱛᱷᱤᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name="addon-name">{ $addon-name }</span> ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱷᱮᱡᱟ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱮᱴᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱱᱮᱱᱮ ᱜᱚ ᱡᱚᱢᱟ ᱠᱟᱱᱟ ᱾
+abuse-report-messagebar-aborted2 =
+    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱵᱟᱫ ᱮᱱᱟ ᱾
+abuse-report-messagebar-submitting2 =
+    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟᱜ ᱠᱟᱱᱟ ᱾
+abuse-report-messagebar-submitted2 =
+    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ ᱪᱮᱫ { $addon-name } ᱢᱮᱴᱟᱣ ᱥᱟᱱᱟᱢ ᱠᱟᱱᱟ ᱥᱮ ?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = ᱢᱤᱫᱴᱟᱝ ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱨᱦᱟᱣ ᱜᱮ ᱾
+abuse-report-messagebar-removed-extension2 =
+    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ { $addon-name } ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱢᱮᱴᱟᱣ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ { $addon-name } ᱨᱮ ᱥᱟᱭᱤᱴ ᱦᱚᱠ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱮᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
+abuse-report-messagebar-removed-theme2 =
+    .message = ᱠᱷᱚᱵᱚᱨ ᱡᱚᱢᱟ ᱞᱟᱹᱜᱤᱫ ᱟᱹᱰᱤ ᱥᱟᱨᱦᱟᱣ ᱾ ᱟᱢ ᱫᱚ { $addon-name } ᱛᱷᱤᱢ ᱚᱪᱚᱜᱽ ᱠᱮᱫᱼᱟ ᱾
+abuse-report-messagebar-error2 =
+    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱵᱷᱮᱡᱟ ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ ᱾
+abuse-report-messagebar-error-recent-submit2 =
+    .message = { $addon-name } ᱞᱟᱹᱜᱤᱫ ᱠᱷᱚᱵᱚᱨ ᱫᱚ ᱵᱷᱮᱡᱟ ᱵᱟᱭ ᱜᱟᱱ ᱞᱮᱱᱟ ᱪᱮᱫᱟᱜ ᱥᱮ ᱮᱴᱟᱜ ᱠᱷᱚᱵᱚᱨ ᱱᱮᱱᱮ ᱜᱚ ᱡᱚᱢᱟ ᱠᱟᱱᱟ ᱾
 
 ## Message bars actions.
 
