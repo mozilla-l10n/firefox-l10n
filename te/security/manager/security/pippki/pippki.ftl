@@ -35,11 +35,32 @@ download-cert-view-text = CA ధృవీకరణపత్రాన్ని �
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = వినియోగాదారుని గుర్తింపు అభ్యర్దన
 client-auth-site-description = మీ అంతట మీరే దృవీకరణపత్రంతో గుర్తించబడాలని ఈ సైటు అభ్యర్దించటమైనది:
 client-auth-choose-cert = గుర్తింపుగా ప్రవేశపెట్టుటకు ఒక ధృవీకరణపత్రాన్ని ఎన్నుకొనుము:
 client-auth-cert-details = ఎంపికచేసుకొన్న ధృవీకరణపత్రం వివరాలు:
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = క్రమ సంఖ్య: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = { $notAfter } నుండి { $notBefore } కు చెల్లుతుంది
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = కీ ఉపయోగాలు: { $keyUsages }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = జారీచేసినది: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = నిల్వ ఉన్నది: { $storedOn }
+client-auth-cert-remember-box =
+    .label = ఈ నిర్ణయాన్ని గుర్తుంచుకోండి
 
 ## Set password (p12) dialog
 
@@ -51,8 +72,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదం(మరలా):
 set-password-reminder = ముఖ్యమైనది: మీరు మీ ధృవీకరణపత్రం బ్యాక్అప్ సంకేతపదాన్ని మరిచిపోయినట్లైతే, మీరు ఈ బ్యాక్అప్‌ను తర్వాత తిరిగిపొందలేరు. దయచేసి దీనిని భద్రమైన స్థానమునందు వుంచుకోండి.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
