@@ -156,9 +156,15 @@ addon-sitepermission-host = A(z) { $host } webhelyengedélyei
 
 extensions-warning-safe-mode = Minden kiegészítő tiltva van a csökkentett mód miatt.
 extensions-warning-check-compatibility = A kiegészítők kompatibilitásának vizsgálata tiltva van. Előfordulhat, hogy nem kompatibilis kiegészítői vannak.
+extensions-warning-safe-mode2 =
+    .message = Minden kiegészítő tiltva van a csökkentett mód miatt.
+extensions-warning-check-compatibility2 =
+    .message = A kiegészítők kompatibilitásának vizsgálata tiltva van. Előfordulhat, hogy nem kompatibilis kiegészítői vannak.
 extensions-warning-check-compatibility-button = Engedélyezés
     .title = Kiegészítők kompatibilitási ellenőrzésének engedélyezése
 extensions-warning-update-security = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
+extensions-warning-update-security2 =
+    .message = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
 extensions-warning-update-security-button = Engedélyezés
     .title = Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése
 extensions-warning-imported-addons = Véglegesítse a { -brand-short-name }ba importált kiegészítők telepítését.
