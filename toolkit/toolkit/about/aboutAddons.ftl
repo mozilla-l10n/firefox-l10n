@@ -318,6 +318,9 @@ addon-detail-homepage-label = Pagina d'internet
 addon-detail-rating-label = Valitaziun
 # Message for add-ons with a staged pending update.
 install-postponed-message = Questa extensiun vegn actualisada cura che { -brand-short-name } vegn reavià.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Questa extensiun vegn actualisada cura che { -brand-short-name } vegn reavià.
 install-postponed-button = Actualisar ussa
 # The average rating that the add-on has received.
 # Variables:
