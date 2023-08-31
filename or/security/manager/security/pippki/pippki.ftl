@@ -35,10 +35,37 @@ download-cert-view-text = CA ପ୍ରମାଣପତ୍ରକୁ ଯାଞ୍�
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = ଚାଳକ ଚିହ୍ନଟ ଅନୁରୋଧ
 client-auth-site-description = ଏହି ସାଇଟ ଅନୁରୋଧ କରିଥିଲାଯେ ଆପଣ ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ସାହାଯ୍ୟରେ ନିଜେ ନିଜକୁ ଚିହ୍ନଟ କରାନ୍ତୁ:
 client-auth-choose-cert = ପରିଚୟ ଆକାରରେ ଉପସ୍ଥିତ କରିବା ପାଇଁ ଗୋଟିଏ ପ୍ରମାଣପତ୍ର ଚୟନ କରନ୍ତୁ:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = { $issuedTo } ଙ୍କୁ ଦିଆଗଲା
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = ସିରିଏଲ ନମ୍ବର: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = { $notBefore } ରୁ { $notAfter } ଯାଏ ବୈଧ
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = ମୂଳ ବ୍ୟବହାର: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ଇମେଲ ଠିକଣା: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = { $issuedBy } ଙ୍କୁ ଦିଆଗଲା
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = { $storedOn } ରେ ସାଇତାଗଲା
+client-auth-cert-remember-box =
+    .label = ଏହି ସିଦ୍ଧାନ୍ତକୁ ମନେରଖନ୍ତୁ
 
 ## Set password (p12) dialog
 
@@ -50,8 +77,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = ପ୍ରମାଣପତ୍ର ନକଲସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତ (ପୁଣିଥରେ):
 set-password-reminder = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ: ଯଦି ଆପଣ ଆପଣଙ୍କର ପ୍ରମାଣପତ୍ର ନକଲ ସଂରକ୍ଷଣ ପ୍ରବେଶ ସଂକେତକୁ ଭୁଲିଯାଆନ୍ତି, ତେବେ ଆପଣ ପରେ ଏହି ନକଲ ସଂରକ୍ଷଣକୁ ପୁନଃସ୍ଥାପନ କରିବାରେ ସମର୍ଥ ହେବେ ନାହିଁ.  ଦୟାକରି ଏହାକୁ କୌଣସି ସୁରକ୍ଷିତ ସ୍ଥାନରେ ଲିପିବଦ୍ଧ କରନ୍ତୁ.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
