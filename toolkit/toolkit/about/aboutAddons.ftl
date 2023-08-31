@@ -440,6 +440,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } er ósamhæfð við { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } er ósamhæfð við { -brand-short-name } { $version }.
 details-notification-incompatible-link = Nánari upplýsingar
 details-notification-unsigned-and-disabled = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name } þar af leiðandi var viðbót gerð óvirk.
 details-notification-unsigned-and-disabled2 =
@@ -450,8 +454,12 @@ details-notification-unsigned2 =
     .message = Ekki tókst að staðfesta { $name } fyrir notkun í { -brand-short-name }. Farðu varlega í að halda áfram.
 details-notification-unsigned-link = Ítarlegri upplýsingar
 details-notification-blocked = { $name } hefur verið gerð óvirk vegna vandamála með öryggi eða stöðugleika.
+details-notification-blocked2 =
+    .message = { $name } hefur verið gerð óvirk vegna vandamála með öryggi eða stöðugleika.
 details-notification-blocked-link = Meiri upplýsingar
 details-notification-softblocked = { $name } er þekkt fyrir að valda vandamálum með öryggi eða stöðugleika.
+details-notification-softblocked2 =
+    .message = { $name } er þekkt fyrir að valda vandamálum með öryggi eða stöðugleika.
 details-notification-softblocked-link = Meiri upplýsingar
 details-notification-gmp-pending = { $name } verður sett inn fljótlega.
 details-notification-gmp-pending2 =
