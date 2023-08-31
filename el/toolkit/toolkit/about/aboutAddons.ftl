@@ -455,3 +455,5 @@ details-notification-softblocked2 =
     .message = Το { $name } είναι γνωστό ότι προκαλεί προβλήματα ασφαλείας ή σταθερότητας.
 details-notification-softblocked-link = Περισσότερες πληροφορίες
 details-notification-gmp-pending = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
+details-notification-gmp-pending2 =
+    .message = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
