@@ -441,13 +441,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = Dodatek { $name } ni združljiv z brskalnikom { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Dodatek { $name } ni združljiv z brskalnikom { -brand-short-name } { $version }.
 details-notification-incompatible-link = Več informacij
 details-notification-unsigned-and-disabled = { $name } ni bilo mogoče potrditi za uporabo v { -brand-short-name }u, zato je onemogočen.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name } ni bilo mogoče potrditi za uporabo v { -brand-short-name }u, zato je onemogočen.
 details-notification-unsigned-and-disabled-link = Več informacij
 details-notification-unsigned = { $name } ni bilo mogoče potrditi za uporabo v { -brand-short-name }u. Bodite pazljivi.
+details-notification-unsigned2 =
+    .message = { $name } ni bilo mogoče potrditi za uporabo v { -brand-short-name }u. Bodite pazljivi.
 details-notification-unsigned-link = Več informacij
 details-notification-blocked = Dodatek { $name } je onemogočen zaradi večje varnosti in zanesljivosti.
+details-notification-blocked2 =
+    .message = Dodatek { $name } je onemogočen zaradi večje varnosti in zanesljivosti.
 details-notification-blocked-link = Več informacij
 details-notification-softblocked = Dodatek { $name } lahko ogroža varno in zanesljivo delovanje.
+details-notification-softblocked2 =
+    .message = Dodatek { $name } lahko ogroža varno in zanesljivo delovanje.
 details-notification-softblocked-link = Več informacij
 details-notification-gmp-pending = { $name } bo kmalu nameščen.
+details-notification-gmp-pending2 =
+    .message = { $name } bo kmalu nameščen.
