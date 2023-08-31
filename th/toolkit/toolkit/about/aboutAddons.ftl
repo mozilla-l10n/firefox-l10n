@@ -318,6 +318,9 @@ addon-detail-homepage-label = หน้าแรก
 addon-detail-rating-label = การจัดอันดับ
 # Message for add-ons with a staged pending update.
 install-postponed-message = ส่วนขยายนี้จะถูกอัปเดตเมื่อ { -brand-short-name } เริ่มการทำงานใหม่
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = ส่วนขยายนี้จะถูกอัปเดตเมื่อ { -brand-short-name } เริ่มการทำงานใหม่
 install-postponed-button = อัปเดตตอนนี้
 # The average rating that the add-on has received.
 # Variables:
