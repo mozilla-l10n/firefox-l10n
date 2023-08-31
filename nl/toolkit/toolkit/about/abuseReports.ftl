@@ -54,10 +54,18 @@ abuse-report-messagebar-submitting2 =
     .message = Rapport verzenden voor { $addon-name }.
 abuse-report-messagebar-submitted2 =
     .message = Bedankt voor het indienen van een rapport. Wilt u { $addon-name } verwijderen?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Bedankt voor het indienen van een rapport.
+abuse-report-messagebar-removed-extension2 =
+    .message = Bedankt voor het indienen van een rapport. U hebt de extensie { $addon-name } verwijderd.
 abuse-report-messagebar-removed-sitepermission2 =
     .message = Bedankt voor het indienen van een rapport. U hebt de extensie voor websitemachtigingen { $addon-name } verwijderd.
+abuse-report-messagebar-removed-theme2 =
+    .message = Bedankt voor het indienen van een rapport. U hebt het thema { $addon-name } verwijderd.
 abuse-report-messagebar-error2 =
     .message = Er is een fout opgetreden bij het verzenden van een rapport voor { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Het rapport voor { $addon-name } is niet verzonden, omdat u recent een ander rapport hebt verzonden.
 
 ## Message bars actions.
 
