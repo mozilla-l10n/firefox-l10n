@@ -257,6 +257,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
     viðbótum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Sumar af þessum ráðleggingum eru sérsniðnar. Þær eru byggðar á öðrum
+        viðbótum sem þú hefur sett upp, stillingum persónusniðs og notkunartölfræði.
 discopane-notice-learn-more = Frekari upplýsingar
 privacy-policy = Meðferð persónuupplýsinga
 # Refers to the author of an add-on, shown below the name of the add-on.
