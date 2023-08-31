@@ -429,13 +429,27 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = Lisäosa { $name } on epäyhteensopiva { -brand-short-name }in version { $version } kanssa.
 details-notification-incompatible-link = Lisätietoja
 details-notification-unsigned-and-disabled = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
+details-notification-unsigned-and-disabled2 =
+    .message = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa ja on otettu pois päältä.
 details-notification-unsigned-and-disabled-link = Lisätietoja
 details-notification-unsigned = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa. Ole varovainen.
+details-notification-unsigned2 =
+    .message = Lisäosaa { $name } ei ole varmennettu käytettäväksi { -brand-short-name }issa. Ole varovainen.
 details-notification-unsigned-link = Lisätietoja
 details-notification-blocked = Lisäosa { $name } poistettiin käytöstä turvallisuus- tai vakausongelmien takia.
+details-notification-blocked2 =
+    .message = Lisäosa { $name } poistettiin käytöstä turvallisuus- tai vakausongelmien takia.
 details-notification-blocked-link = Lisätietoja
 details-notification-softblocked = Lisäosa { $name } aiheuttaa tunnetusti turvallisuus- tai vakausongelmia.
+details-notification-softblocked2 =
+    .message = Lisäosa { $name } aiheuttaa tunnetusti turvallisuus- tai vakausongelmia.
 details-notification-softblocked-link = Lisätietoja
 details-notification-gmp-pending = { $name } asennetaan kohta.
+details-notification-gmp-pending2 =
+    .message = { $name } asennetaan kohta.
