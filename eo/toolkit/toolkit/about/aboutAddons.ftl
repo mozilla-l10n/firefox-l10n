@@ -307,6 +307,9 @@ addon-detail-homepage-label = Ĉefpaĝo
 addon-detail-rating-label = Taksado
 # Message for add-ons with a staged pending update.
 install-postponed-message = Tiu ĉi etendaĵo estos ĝisdatigita dum restarto de { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Tiu ĉi etendaĵo estos ĝisdatigita dum restarto de { -brand-short-name }.
 install-postponed-button = Ĝisdatigi nun
 # The average rating that the add-on has received.
 # Variables:
