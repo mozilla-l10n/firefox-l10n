@@ -224,6 +224,11 @@ shortcuts-duplicate = Päällekkäinen pikanäppäin
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } on käytössä pikanäppäimenä enemmän kuin yhdessä tapauksessa. Päällekkäiset pikanäppäimet saattavat aiheuttaa odottamatonta käytöstä.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } on käytössä pikanäppäimenä enemmän kuin yhdessä tapauksessa. Päällekkäiset pikanäppäimet saattavat aiheuttaa odottamatonta käytöstä.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
