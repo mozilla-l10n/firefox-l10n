@@ -461,3 +461,5 @@ details-notification-softblocked2 =
     .message = { $name } kin feilichheids- of stabiliteitsproblemen feroarsaakje.
 details-notification-softblocked-link = Mear ynformaasje
 details-notification-gmp-pending = { $name } sil ynkoarten ynstallearre wurde.
+details-notification-gmp-pending2 =
+    .message = { $name } sil ynkoarten ynstallearre wurde.
