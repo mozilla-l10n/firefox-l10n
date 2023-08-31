@@ -151,9 +151,15 @@ addon-sitepermission-host = { $host } 的網站權限
 
 extensions-warning-safe-mode = 所有附加元件於安全模式中都已停用。
 extensions-warning-check-compatibility = 已停止檢查附加元件相容性，您可能有不相容的附加元件。
+extensions-warning-safe-mode2 =
+    .message = 所有附加元件於安全模式中都已停用。
+extensions-warning-check-compatibility2 =
+    .message = 已停止檢查附加元件相容性，您可能有不相容的附加元件。
 extensions-warning-check-compatibility-button = 開啟
     .title = 開啟附加元件相容性檢查
 extensions-warning-update-security = 已停止檢查附加元件安全性，更新程式可能不安全。
+extensions-warning-update-security2 =
+    .message = 已停止檢查附加元件安全性，更新程式可能不安全。
 extensions-warning-update-security-button = 開啟
     .title = 開啟附加元件更新安全性檢查
 extensions-warning-imported-addons = 請完成已匯入 { -brand-short-name } 的擴充套件的安裝步驟。
