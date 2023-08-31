@@ -99,6 +99,10 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.
 extensions-warning-check-compatibility = Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.
+extensions-warning-safe-mode2 =
+    .message = Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.
+extensions-warning-check-compatibility2 =
+    .message = Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.
 extensions-warning-check-compatibility-button = Mki'ta
     .title = Kẽse'hna we'wen katxhuden ki'h kãajãhna.
 extensions-warning-update-security = Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
