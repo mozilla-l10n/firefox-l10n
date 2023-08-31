@@ -311,6 +311,9 @@ addon-detail-homepage-label = Kuatiarogue ñepyrũha
 addon-detail-rating-label = Jeporavopy
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ko jepysokue hekopyahúta emoñepyrũjeývo { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ko jepysokue hekopyahúta emoñepyrũjeývo { -brand-short-name }.
 install-postponed-button = Embohekopyahu ko’ág̃a
 # The average rating that the add-on has received.
 # Variables:
