@@ -106,6 +106,8 @@ extensions-warning-check-compatibility2 =
 extensions-warning-check-compatibility-button = Mki'ta
     .title = Kẽse'hna we'wen katxhuden ki'h kãajãhna.
 extensions-warning-update-security = Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
+extensions-warning-update-security2 =
+    .message = Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.
 extensions-warning-update-security-button = Mki'ta
     .title = Ki'tan ãahn isa dxi'htepa' phuphna kãajãhwa'j
 
