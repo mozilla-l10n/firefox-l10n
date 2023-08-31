@@ -156,9 +156,15 @@ addon-sitepermission-host = Дазволы сайта для { $host }
 
 extensions-warning-safe-mode = Усе дадаткі адключаны бяспечным рэжымам.
 extensions-warning-check-compatibility = Праверка сумяшчальнасці дадаткаў адключана. Вы можаце мець несумяшчальныя дадаткі.
+extensions-warning-safe-mode2 =
+    .message = Усе дадаткі адключаны бяспечным рэжымам.
+extensions-warning-check-compatibility2 =
+    .message = Праверка сумяшчальнасці дадаткаў адключана. Вы можаце мець несумяшчальныя дадаткі.
 extensions-warning-check-compatibility-button = Уключыць
     .title = Уключыць праверку сумяшчальнасці дадаткаў
 extensions-warning-update-security = Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.
+extensions-warning-update-security2 =
+    .message = Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.
 extensions-warning-update-security-button = Уключыць
     .title = Уключыць праверку бяспечнасці абнаўленняў дадаткаў
 extensions-warning-imported-addons = Калі ласка, завяршыце ўсталяванне пашырэнняў, якія былі імпартаваны ў { -brand-short-name }.
