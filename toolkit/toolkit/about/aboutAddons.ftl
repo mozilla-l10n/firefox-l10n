@@ -305,6 +305,9 @@ addon-detail-homepage-label = Početna stranica
 addon-detail-rating-label = Ocjena
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ovo proširenje će se aktualizirati kad se { -brand-short-name } ponovno pokrene.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ovo proširenje će se aktualizirati kad se { -brand-short-name } ponovno pokrene.
 install-postponed-button = Aktualiziraj sada
 # The average rating that the add-on has received.
 # Variables:
