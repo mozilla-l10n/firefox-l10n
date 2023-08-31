@@ -155,12 +155,20 @@ addon-sitepermission-host = { $host }에 대한 사이트 권한
 
 extensions-warning-safe-mode = 안전 모드에서는 모든 부가 기능을 사용할 수 없습니다.
 extensions-warning-check-compatibility = 부가 기능 호환성 확인 기능을 사용 안 합니다. 호환되지 않는 부가 기능이 있을 수 있습니다.
+extensions-warning-safe-mode2 =
+    .message = 안전 모드에서는 모든 부가 기능을 사용할 수 없습니다.
+extensions-warning-check-compatibility2 =
+    .message = 부가 기능 호환성 확인 기능을 사용 안 합니다. 호환되지 않는 부가 기능이 있을 수 있습니다.
 extensions-warning-check-compatibility-button = 사용
     .title = 부가 기능 호환성 확인 기능 사용
 extensions-warning-update-security = 부가 기능 업데이트 보안 확인 기능을 사용 안 합니다. 업데이트로 인해 문제가 발생 할 수 있습니다.
+extensions-warning-update-security2 =
+    .message = 부가 기능 업데이트 보안 확인 기능을 사용 안 합니다. 업데이트로 인해 문제가 발생 할 수 있습니다.
 extensions-warning-update-security-button = 사용
     .title = 부가 기능 업데이트 보안 확인 기능 사용
 extensions-warning-imported-addons = { -brand-short-name }로 가져온 확장  기능의 설치를 완료하세요.
+extensions-warning-imported-addons2 =
+    .message = { -brand-short-name }로 가져온 확장  기능의 설치를 완료하세요.
 extensions-warning-imported-addons-button = 확장 기능 설치
 
 ## Strings connected to add-on updates
