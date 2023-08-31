@@ -156,12 +156,20 @@ addon-sitepermission-host = Uprawnienia witryny { $host }
 
 extensions-warning-safe-mode = Wszystkie dodatki zostały wyłączone przez tryb awaryjny
 extensions-warning-check-compatibility = Sprawdzanie zgodności dodatków jest wyłączone. Dodatki mogą być niezgodne.
+extensions-warning-safe-mode2 =
+    .message = Wszystkie dodatki zostały wyłączone przez tryb awaryjny
+extensions-warning-check-compatibility2 =
+    .message = Sprawdzanie zgodności dodatków jest wyłączone. Dodatki mogą być niezgodne.
 extensions-warning-check-compatibility-button = Włącz
     .title = Włącz sprawdzanie zgodności dodatków
 extensions-warning-update-security = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.
+extensions-warning-update-security2 =
+    .message = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.
 extensions-warning-update-security-button = Włącz
     .title = Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków
 extensions-warning-imported-addons = Dokończ instalację rozszerzeń, które zostały zaimportowane do { -brand-short-name(case: "gen") }.
+extensions-warning-imported-addons2 =
+    .message = Dokończ instalację rozszerzeń, które zostały zaimportowane do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons-button = Zainstaluj rozszerzenia
 
 ## Strings connected to add-on updates
