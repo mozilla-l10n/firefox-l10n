@@ -236,6 +236,9 @@ discopane-intro =
     توسط { -brand-product-name } برای استثناهای امنیتی، کارایی و عملکرد وجود دارد.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = برخی از این توصیه‌ها شخصی‌سازی شده‌اند. آن‌ها بر اساس دیگر افزونه‌هایی که نصب کردید،‌ ترجیحات نمایه و آمار استفاده می‌باشند.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = برخی از این توصیه‌ها شخصی‌سازی شده‌اند. آن‌ها بر اساس دیگر افزونه‌هایی که نصب کردید،‌ ترجیحات نمایه و آمار استفاده می‌باشند.
 discopane-notice-learn-more = بیشتر بدانید
 privacy-policy = سیاست حریم خصوصی
 # Refers to the author of an add-on, shown below the name of the add-on.
