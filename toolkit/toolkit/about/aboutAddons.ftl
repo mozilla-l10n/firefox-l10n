@@ -443,6 +443,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } is niet compatibel met { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } is niet compatibel met { -brand-short-name } { $version }.
 details-notification-incompatible-link = Meer informatie
 details-notification-unsigned-and-disabled = { $name } kon niet worden geverifieerd voor gebruik in { -brand-short-name } en is uitgeschakeld.
 details-notification-unsigned-and-disabled-link = Meer informatie
