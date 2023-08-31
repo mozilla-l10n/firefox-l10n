@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Graciis di vênus inviât une s
 abuse-report-messagebar-removed-theme = Graciis di vênus inviât une segnalazion. Tu âs gjavât il teme <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Al è vignût fûr un erôr tal inviâ la segnalazion par <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = La segnalazion par <span data-l10n-name="addon-name">{ $addon-name }</span> no je stade inviade parcè che di resint e je stade inviade une altre segnalazion.
+abuse-report-messagebar-aborted2 =
+    .message = Segnalazion par { $addon-name } anulade.
+abuse-report-messagebar-submitting2 =
+    .message = Inviament segnalazion par { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Ti ringraciìn par vênus inviât une segnalazion. Desideristu gjavâ { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Graciis par vênus inviât une segnalazion.
+abuse-report-messagebar-removed-extension2 =
+    .message = Graciis di vênus inviât une segnalazion. Tu âs gjavât la estension { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Graciis di vênus inviât une segnalazion. Tu âs gjavât il component adizionâl par permès sîts { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Graciis di vênus inviât une segnalazion. Tu âs gjavât il teme { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Al è vignût fûr un erôr tal inviâ la segnalazion par { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = La segnalazion par { $addon-name } no je stade inviade parcè che di resint e je stade inviade une altre segnalazion.
 
 ## Message bars actions.
 
