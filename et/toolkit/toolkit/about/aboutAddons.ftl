@@ -147,9 +147,15 @@ addon-category-sitepermission-title =
 
 extensions-warning-safe-mode = Kõik lisad on ohutu režiimi poolt keelatud.
 extensions-warning-check-compatibility = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
+extensions-warning-safe-mode2 =
+    .message = Kõik lisad on ohutu režiimi poolt keelatud.
+extensions-warning-check-compatibility2 =
+    .message = Lisade ühilduvuse kontrollimine on keelatud. Kasutusel võib olla mitteühilduvaid lisasid.
 extensions-warning-check-compatibility-button = Luba
     .title = Luba lisade ühilduvuse kontrollimine
 extensions-warning-update-security = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
+extensions-warning-update-security2 =
+    .message = Lisade uuendamise turvalisuse kontrollimine on keelatud. Sinu turvalisus võib uuenduste tõttu ohus olla.
 extensions-warning-update-security-button = Luba
     .title = Luba lisade uuendamise turvalisuse kontrollimine
 
