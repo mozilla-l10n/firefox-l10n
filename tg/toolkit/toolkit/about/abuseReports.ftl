@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Ташаккур барои ф�
 abuse-report-messagebar-removed-theme = Ташаккур барои фиристодани гузориш. Шумо мавзуи <span data-l10n-name="addon-name">{ $addon-name }</span>-ро тоза кардед.
 abuse-report-messagebar-error = Ҳангоми фиристодани гузориш дар бораи <span data-l10n-name="addon-name">{ $addon-name }</span> хато ба миён омад.
 abuse-report-messagebar-error-recent-submit = Гузориш дар бораи <span data-l10n-name="addon-name">{ $addon-name }</span> фиристода нашуд, зеро ки гузориши дигар ба қарибӣ пешниҳод карда шуд.
+abuse-report-messagebar-aborted2 =
+    .message = Гузориш дар бораи { $addon-name } бекор карда шуд.
+abuse-report-messagebar-submitting2 =
+    .message = Фиристодани гузориш дар бораи { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Ташаккур барои фиристодани гузориш. Шумо мехоҳед, ки { $addon-name }-ро тоза кунед?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Ташаккур барои фиристодани гузориш.
+abuse-report-messagebar-removed-extension2 =
+    .message = Ташаккур барои фиристодани гузориш. Шумо васеъшавии { $addon-name }-ро тоза кардед.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Ташаккур барои фиристодани гузориш. Шумо васеъшавии { $addon-name }-ро барои иҷозатҳои сомона тоза кардед.
+abuse-report-messagebar-removed-theme2 =
+    .message = Ташаккур барои фиристодани гузориш. Шумо мавзуи { $addon-name }-ро тоза кардед.
+abuse-report-messagebar-error2 =
+    .message = Ҳангоми фиристодани гузориш дар бораи { $addon-name } хато ба миён омад.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Гузориш дар бораи { $addon-name } фиристода нашуд, зеро ки гузориши дигар ба қарибӣ пешниҳод карда шуд.
 
 ## Message bars actions.
 
