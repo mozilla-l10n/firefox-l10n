@@ -48,8 +48,22 @@ abuse-report-messagebar-removed-sitepermission = ขอบคุณที่ส�
 abuse-report-messagebar-removed-theme = ขอบคุณที่ส่งรายงาน เราได้ลบธีม <span data-l10n-name="addon-name">{ $addon-name }</span> แล้ว
 abuse-report-messagebar-error = เกิดข้อผิดพลาดขึ้นขณะส่งรายงานสำหรับ <span data-l10n-name="addon-name">{ $addon-name }</span>
 abuse-report-messagebar-error-recent-submit = รายงานของ <span data-l10n-name="addon-name">{ $addon-name }</span> ไม่สามารถส่งได้เนื่องจากเพิ่งมีรายงานอีกฉบับถูกส่งไปเร็ว ๆ นี้
+abuse-report-messagebar-aborted2 =
+    .message = รายงานสำหรับ { $addon-name } ถูกยกเลิก
+abuse-report-messagebar-submitting2 =
+    .message = ส่งรายงานสำหรับ { $addon-name }
+abuse-report-messagebar-submitted2 =
+    .message = ขอบคุณที่ส่งรายงาน คุณต้องการลบ { $addon-name } ไหม?
 abuse-report-messagebar-submitted-noremove2 =
     .message = ขอบคุณที่ส่งรายงาน
+abuse-report-messagebar-removed-extension2 =
+    .message = ขอบคุณที่ส่งรายงาน คุณได้ลบส่วนขยาย { $addon-name } แล้ว
+abuse-report-messagebar-removed-theme2 =
+    .message = ขอบคุณที่ส่งรายงาน เราได้ลบธีม { $addon-name } แล้ว
+abuse-report-messagebar-error2 =
+    .message = เกิดข้อผิดพลาดขึ้นขณะส่งรายงานสำหรับ { $addon-name }
+abuse-report-messagebar-error-recent-submit2 =
+    .message = รายงานของ { $addon-name } ไม่สามารถส่งได้เนื่องจากเพิ่งมีรายงานอีกฉบับถูกส่งไปเร็ว ๆ นี้
 
 ## Message bars actions.
 
