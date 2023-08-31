@@ -159,6 +159,8 @@ extensions-warning-update-security = Mae gwirio diogelwch diweddariad wedi ei an
 extensions-warning-update-security-button = Galluogi
     .title = Galluogi gwirio diogelwch diweddariad ychwanegyn
 extensions-warning-imported-addons = Gorffennwch osod yr estyniadau a fewnforiwyd i { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Gorffennwch osod yr estyniadau a fewnforiwyd i { -brand-short-name }.
 extensions-warning-imported-addons-button = Gosod Estyniadau
 
 ## Strings connected to add-on updates
