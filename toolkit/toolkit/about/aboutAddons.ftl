@@ -160,6 +160,10 @@ addon-sitepermission-host = Websitemachtigingen voor { $host }
 
 extensions-warning-safe-mode = Alle add-ons zijn uitgeschakeld door de veilige modus.
 extensions-warning-check-compatibility = Compatibiliteitscontrole voor add-ons is uitgeschakeld. Mogelijk hebt u incompatibele add-ons.
+extensions-warning-safe-mode2 =
+    .message = Alle add-ons zijn uitgeschakeld door de veilige modus.
+extensions-warning-check-compatibility2 =
+    .message = Compatibiliteitscontrole voor add-ons is uitgeschakeld. Mogelijk hebt u incompatibele add-ons.
 extensions-warning-check-compatibility-button = Inschakelen
     .title = Add-on-compatibiliteitscontrole inschakelen
 extensions-warning-update-security = Beveiligingscontrole voor add-on-updates is uitgeschakeld. Mogelijk loopt u een beveiligingsrisico door updates.
