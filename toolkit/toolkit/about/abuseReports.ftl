@@ -48,6 +48,22 @@ abuse-report-messagebar-removed-sitepermission = Tack för att du skickade en ra
 abuse-report-messagebar-removed-theme = Tack för att du skickade in en rapport. Du har tagit bort temat <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Det gick inte att skicka rapporten för <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Rapporten för <span data-l10n-name="addon-name">{ $addon-name }</span> skickades inte eftersom en annan rapport skickades nyligen.
+abuse-report-messagebar-aborted2 =
+    .message = Rapport för { $addon-name } avbruten.
+abuse-report-messagebar-submitting2 =
+    .message = Skickar rapport för { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Tack för att du skickade in en rapport. Vill du ta bort { $addon-name }?
+abuse-report-messagebar-removed-extension2 =
+    .message = Tack för att du skickade in en rapport. Du har tagit bort tillägget { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Tack för att du skickade en rapport. Du har tagit bort webbplatsbehörighetstillägget { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Tack för att du skickade in en rapport. Du har tagit bort temat { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Det gick inte att skicka rapporten för { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Rapporten för { $addon-name } skickades inte eftersom en annan rapport skickades nyligen.
 
 ## Message bars actions.
 
