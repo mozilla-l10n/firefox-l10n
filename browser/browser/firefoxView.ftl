@@ -55,7 +55,7 @@ firefoxview-tabpickup-password-locked-link = מידע נוסף
 firefoxview-tabpickup-password-locked-primarybutton = נא להכניס את הססמה הראשית
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">מידע נוסף</a>
 firefoxview-tabpickup-signed-out-header = יש להיכנס כדי להתחבר מחדש
-firefoxview-tabpickup-signed-out-description = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס אל ה־{ -fxaccount-brand-name } שלך.
+firefoxview-tabpickup-signed-out-description = כדי להתחבר מחדש ולקבל את הלשוניות שלך, יש להיכנס אל { -fxaccount-brand-name(case: "the") } שלך.
 firefoxview-tabpickup-signed-out-primarybutton = כניסה
 firefoxview-tabpickup-syncing = נא להמתין בזמן שהלשוניות שלך מסתנכרנות. זה יקח ממש רגע.
 firefoxview-mobile-promo-header = קבלת לשוניות מהטלפון או למחשב הלוח שלך
