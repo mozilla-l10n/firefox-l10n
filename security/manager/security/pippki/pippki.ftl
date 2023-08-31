@@ -59,6 +59,9 @@ client-auth-site-description = Сайту необходимо определи�
 client-auth-choose-cert = Выберите сертификат для идентификации:
 client-auth-cert-details = Информация о выбранном сертификате:
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Кому выдан: { $issuedTo }
+# Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = Серийный номер: { $serialNumber }
 # Variables:
@@ -71,6 +74,9 @@ client-auth-cert-details-key-usages = Использования ключа: { $
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = Адреса эл. почты: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Кем выдан: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Место хранения: { $storedOn }
