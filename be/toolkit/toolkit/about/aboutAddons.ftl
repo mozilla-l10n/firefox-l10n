@@ -227,6 +227,11 @@ shortcuts-duplicate = Дублікат спалучэння клавіш
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } выкарыстоўваецца як спалучэнне клавіш больш чым у адным выпадку. Дубліраваныя спалучэнні могуць выклікаць нечаканыя паводзіны.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } выкарыстоўваецца як спалучэнне клавіш больш чым у адным выпадку. Дубліраваныя спалучэнні могуць выклікаць нечаканыя паводзіны.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
