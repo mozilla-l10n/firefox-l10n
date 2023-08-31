@@ -7,70 +7,51 @@ addons-page-title = सहयुक्ति प्रबंधक
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = अहाँक एहि प्रकारक कोनो सहयुक्ति संस्थापित नहि अछि
-
 list-empty-available-updates =
     .value = कोनो अद्यतन नहि भेटल
-
 list-empty-recent-updates =
     .value = अहाँ हाल मे कोनो सहयुक्ति अद्यतन नहि कएने छी
-
 list-empty-find-updates =
     .label = अद्यतन क लेल जाँचू
-
 list-empty-button =
     .label = सहयुक्तिक संबंधमे  बेसी जानू
-
 show-unsigned-extensions-button =
     .label = किछु विस्तार जाँचल नहि जाए सकल
-
 show-all-extensions-button =
     .label = सभ विस्तार देखाबू
-
 detail-version =
     .label = संस्करण
-
 detail-last-updated =
     .label = अंतिम अद्यतन
-
 detail-contributions-description = ई सहयुक्तिक डेवलेपर ने आग्रह कएल अछि जे अहाँ अपन छोट योगदान सँ एकर लगातार विकास मे अपन समर्थन दिअ.
-
 detail-update-type =
     .value = स्वचालित अद्यतन
-
 detail-update-default =
     .label = पूर्वनिर्धारित
     .tooltiptext = स्वतः अद्यतन संस्थापित करैत अछि जँ ओ पूर्वनिर्धारित अछि
-
 detail-update-automatic =
     .label = चालू
     .tooltiptext = स्वतः अद्यतन संस्थापित करैत अछि
-
 detail-update-manual =
     .label = बन्न
     .tooltiptext = स्वतः अद्यतन केँ संस्थापित मत  करू
-
 detail-home =
     .label = होमपेज
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = सहयुक्ति प्रोफाइल
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = अद्यतन क लेल जाँचू
     .accesskey = f
     .tooltiptext = ई सहयुक्ति क लेल अद्यतन क लेल जाँच  करू
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -87,22 +68,15 @@ detail-show-preferences =
             [windows] ई सहयुक्तिक विकल्पकेँ बदलू
            *[other] ई सहयुक्तिक वरीयता बदलू
         }
-
 detail-rating =
     .value = दर
-
 addon-restart-now =
     .label = आब फेर आरंभ करू
-
 disabled-unsigned-heading =
     .value = किछु सहयुक्ति निष्क्रिय कएल गेल अछि
-
 disabled-unsigned-description = { -brand-short-name } निम्नलिखित एड-ऑन उपयोग मे जाँचल नहि गेल अछि. अहाँ जाँचि सकैत छी<label data-l10n-name="find-addons">प्रतिस्थापन पाबू</label>अथवा डेवलपर सँ कहियो कि ओकरा जाँचि लिअ.
-
 disabled-unsigned-learn-more = अहाँ अपना केँ ऑनलाइन सुरक्षित राखब लेल हमर आओर अनेक प्रयासक बारे मे जानकारी पाउ.
-
 disabled-unsigned-devinfo = डेवलपर रुचि देखाबत हुए अपन एड-ऑन केँ जाँचनाय जारी राखत पढ़ि कए<label data-l10n-name="learn-more">मैनुअल</label>.
-
 addon-category-extension = विस्तार
 addon-category-extension-title =
     .title = विस्तार
@@ -185,11 +159,13 @@ addon-install-from-file-filter-name = सहयुक्तियाँ
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -198,26 +174,21 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } असंगत अछि { -brand-short-name } { $version } क सँग.
-
 details-notification-unsigned-and-disabled = { $name } क { -brand-short-name } मे उपयोग सत्यापित नहि भ सकैत अछि आओर निष्क्रिय कए देल गेल अछि.
 details-notification-unsigned-and-disabled-link = अधिक सूचना
-
 details-notification-unsigned = { -brand-short-name } मे उपयोग कलेल { $name } क सत्यापित नहि कएल जाए सकल. सावधानी केर सँग आगाँ बढ़ू.
 details-notification-unsigned-link = अधिक सूचना
-
 details-notification-blocked = { $name } केँ सुरक्षा अथवा स्थायित्व कारण सँ निष्क्रिय कएल गेल अछि.
+details-notification-blocked2 =
+    .message = { $name } केँ सुरक्षा अथवा स्थायित्व कारण सँ निष्क्रिय कएल गेल अछि.
 details-notification-blocked-link = बेसी  सूचना
-
 details-notification-softblocked = { $name } सुरक्षा अथवा स्थायित्व कारण केँ पैदा करब क लेल जएनाइ जाएत अछि.
+details-notification-softblocked2 =
+    .message = { $name } सुरक्षा अथवा स्थायित्व कारण केँ पैदा करब क लेल जएनाइ जाएत अछि.
 details-notification-softblocked-link = बेसी  सूचना
-
 details-notification-gmp-pending = { $name } कनि काल मे संस्थापित कएल जाएत.
