@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Eklentiler İdarecisi
-
 search-header =
     .placeholder = addons.mozilla.org’da qıdır
     .searchbuttonlabel = Qıdır
@@ -11,85 +10,62 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Bu türden qurulğan eklentileriñiz iç yoq
-
 list-empty-available-updates =
     .value = Tapılğan yañartmalar yoq
-
 list-empty-recent-updates =
     .value = Demin er angi eklentilerni yañartqan degilsiñiz
-
 list-empty-find-updates =
     .label = Yañartmalar İçün Teşker
-
 list-empty-button =
     .label = Eklentiler aqqında daa çoq ögreniñiz
-
 help-button = Eklentiler Destegi
 sidebar-help-button-title =
     .title = Eklentiler Destegi
-
 show-unsigned-extensions-button =
     .label = Bazı uzantılar doğrulanamadı
-
 show-all-extensions-button =
     .label = Episi uzantılarnı köster
-
 detail-version =
     .label = Sürüm
-
 detail-last-updated =
     .label = Soñki Yañartma
-
 detail-contributions-description = Bu eklentiniñ inkişafçısı, kiçik bir bağış yaparaq onıñ devamlı inkişafını desteklemege yardım etüviñizni rica ete.
-
 detail-update-type =
     .value = Avtomatik Yañartmalar
-
 detail-update-default =
     .label = Ögbelgilengen
     .tooltiptext = Yañartmalarnı faqat ögbelgilengeni o ise öz-özünden qur
-
 detail-update-automatic =
     .label = Açıq
     .tooltiptext = Yañartmalarnı öz-özünden qur
-
 detail-update-manual =
     .label = Qapalı
     .tooltiptext = Yañartmalarnı öz-özünden qurma
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Hususiy Pencerelerde Çaptır
-
 detail-private-browsing-on =
     .label = İzin Ber
     .tooltiptext = Hususiy Seyranda Qabilleştir
-
 detail-private-browsing-off =
     .label = İzin Berme
     .tooltiptext = Hususiy Seyranda Naqabilleştir
-
 detail-home =
     .label = Ev saifesi
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Eklenti Profili
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Yañartmalar içün Teşker
     .accesskey = i
     .tooltiptext = Bu eklenti içün yañartmalar içün teşker
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -106,35 +82,23 @@ detail-show-preferences =
             [windows] Bu eklentiniñ ihtiyariyatını deñiştir
            *[other] Bu eklentiniñ tercihlerini deñiştir
         }
-
 detail-rating =
     .value = Derecelendirme
-
 addon-restart-now =
     .label = Şimdi kene başlat
-
 disabled-unsigned-heading =
     .value = Bazı eklentiler naqabilleştirilgendir
-
 disabled-unsigned-description = Aşağıdaki eklentiler { -brand-short-name } üzerinde qullanım içün doğrulanmağandır. <label data-l10n-name="find-addons">Yerlerine ivazlarnı tapabilirsiñiz</label> yaki keliştiriciden olarnı doğrulatmasını soraybilirsiñiz.
-
 disabled-unsigned-learn-more = Sizni hat-üstü emin tutmağa yardım etme çabalarımız aqqında daa çoq ögreniñiz.
-
 disabled-unsigned-devinfo = Eklentilerini doğrulatmağa istegen keliştiriciler <label data-l10n-name="learn-more">rehber</label>imizni oquybilir.
-
 plugin-deprecation-description = Bir şey eksikmi? Bazı plaginler { -brand-short-name } tarafından artıq desteklenmey. <label data-l10n-name="learn-more">Daa Çoq Ögren.</label>
-
 legacy-warning-show-legacy = Qadimiy uzantılarnı köster
-
 legacy-extensions =
     .value = Qadimiy Uzantılar
-
 legacy-extensions-description = Bu uzantılar cari { -brand-short-name } standartlarını qarşılamay ve ondan dolayı ğayrıfaalleştirilgenlerdir. <label data-l10n-name="legacy-learn-more">Eklentilerge deñişiklikler aqqında ögreniñiz.</label>
-
 private-browsing-description2 =
     { -brand-short-name } uzantılarnıñ hususiy seyranda nasıl çalışqanını deñiştire. { -brand-short-name } içine eklegeniñiz er angi yañı eklentiler ögbelgilengen olaraq Hususiy Pencerelerde çapmaycaq. Ayarlarda oña izin bermegeniñiz taqdirde, uzantı hususiy seyranda olğanda çalışmaycaq ve andaki hat-üstü faaliyetleriñizge irişimi olmaycaq.
     <label data-l10n-name="private-browsing-learn-more">Uzantı ayarlarınıñ nasıl idare etilgenini ögreniñiz.</label>
-
 addon-category-extension = Uzantılar
 addon-category-extension-title =
     .title = Uzantılar
@@ -212,29 +176,23 @@ addon-open-about-debugging = Eklentilerni İlletsizleştir
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Eklenti Qısqayollarını İdare Et
     .accesskey = r
-
 shortcuts-no-addons = Qabilleştirilgen er angi bir eklentiñiz yoq.
 shortcuts-no-commands = Aşağıdaki uzantılarnıñ qısqayolları yoq:
 shortcuts-input =
     .placeholder = Bir qısqayol kirsetiñiz
-
 shortcuts-pageAction = Sahife fiilini faalleştir
 shortcuts-sidebarAction = Yan-çubuqnı tönter
-
 shortcuts-modifier-mac = Ctrl, Alt yaki ⌘ dahil et
 shortcuts-modifier-other = Ctrl yaki Alt dahil et
 shortcuts-invalid = Keçersiz kombinasyon
 shortcuts-letter = Bir harf tuşlañız
 shortcuts-system = Bir { -brand-short-name } qısqayolunınıñ üstünden aydayalmayım
-
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] { $numberToShow } dane daha köster
        *[other] { $numberToShow } dane daha köster
     }
-
 shortcuts-card-collapse-button = Daha Az Köster
-
 header-back-button =
     .title = Keri bar
 
@@ -253,11 +211,13 @@ enable-addon-button = Qabilleştir
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -267,16 +227,10 @@ plugin-heading = Plaginleriñizni İdare Etiñiz
 dictionary-heading = Luğatlarıñıznı İdare Etiñiz
 locale-heading = Tilleriñizni İdare Etiñiz
 shortcuts-heading = Eklenti Qısqa-yollarını İdare Etiñiz
-
 addons-heading-search-input =
     .placeholder = addons.mozilla.org’da qıdır
-
 addon-page-options-button =
     .title = Episi eklentiler içün aletler
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -285,17 +239,26 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name }, { -brand-short-name } { $version } ile ğayrı-qabili-telif.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name }, { -brand-short-name } { $version } ile ğayrı-qabili-telif.
 details-notification-unsigned-and-disabled = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı ve naqabilleştirilgendir.
+details-notification-unsigned-and-disabled2 =
+    .message = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı ve naqabilleştirilgendir.
 details-notification-unsigned-and-disabled-link = Daa Çoq Malümat
-
 details-notification-unsigned = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı. İhtiyat ile devam etiñiz.
+details-notification-unsigned2 =
+    .message = { $name }, { -brand-short-name } üzerinde qullanım içün doğrulanamadı. İhtiyat ile devam etiñiz.
 details-notification-unsigned-link = Daa Çoq Malümat
-
 details-notification-blocked = { $name } istiqrar yaki emniyet meselelerinden dolayı ğayrıqabilleştirilgendir.
+details-notification-blocked2 =
+    .message = { $name } istiqrar yaki emniyet meselelerinden dolayı ğayrıqabilleştirilgendir.
 details-notification-blocked-link = Daa Çoq Malümat
-
 details-notification-softblocked = { $name } eklentisiniñ emniyet yaki istiqrar meselelerine sebep olğanı biline.
+details-notification-softblocked2 =
+    .message = { $name } eklentisiniñ emniyet yaki istiqrar meselelerine sebep olğanı biline.
 details-notification-softblocked-link = Daa Çoq Malümat
-
 details-notification-gmp-pending = { $name } birazdan qurulacaq.
+details-notification-gmp-pending2 =
+    .message = { $name } birazdan qurulacaq.
