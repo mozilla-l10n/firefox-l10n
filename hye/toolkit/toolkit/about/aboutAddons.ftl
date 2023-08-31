@@ -241,6 +241,9 @@ discopane-intro =
     անվտանգութեան, արդիւնաւէտութեան եւ գործունակութեան համար։
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Այս առաջարկների որոշ մասն անհատականացուած է։ Դրանք հիմնուած են Ձեր կողմից տեղադրուած այլ ընդլայնումների, յատկագրի նախընտրութիւնների եւ աւգտագործման վիճակագրութիւնների վրայ:
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Այս առաջարկների որոշ մասն անհատականացուած է։ Դրանք հիմնուած են Ձեր կողմից տեղադրուած այլ ընդլայնումների, յատկագրի նախընտրութիւնների եւ աւգտագործման վիճակագրութիւնների վրայ:
 discopane-notice-learn-more = Իմանալ աւելին
 privacy-policy = Գաղտնիութեան քաղաքականութիւն
 # Refers to the author of an add-on, shown below the name of the add-on.
