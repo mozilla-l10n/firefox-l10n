@@ -323,6 +323,9 @@ addon-detail-homepage-label = Startpagina
 addon-detail-rating-label = Waardering
 # Message for add-ons with a staged pending update.
 install-postponed-message = Deze extensie wordt bijgewerkt wanneer { -brand-short-name } herstart.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Deze extensie wordt bijgewerkt wanneer { -brand-short-name } herstart.
 install-postponed-button = Nu bijwerken
 # The average rating that the add-on has received.
 # Variables:
