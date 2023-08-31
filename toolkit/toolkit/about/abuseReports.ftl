@@ -44,6 +44,8 @@ abuse-report-messagebar-removed-sitepermission = Dankon pro via denunco. Vi fori
 abuse-report-messagebar-removed-theme = Dankon pro via denunco. Vi forigis la etoson <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Okazis eraro dum la sendo de la denunco por <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = La denunco por <span data-l10n-name="addon-name">{ $addon-name }</span> ne estis sendita ĉar alia denunco estis ĵuse sendita.
+abuse-report-messagebar-aborted2 =
+    .message = Denunco por { $addon-name } nuligita.
 abuse-report-messagebar-submitting2 =
     .message = Sendo de denunco por { $addon-name }.
 abuse-report-messagebar-submitted2 =
