@@ -72,6 +72,9 @@ client-auth-cert-details-validity-period = Válido de { $notBefore } a { $notAft
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
 client-auth-cert-details-key-usages = Chaves usadas: { $keyUsages }
 # Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Endereços de email: { $emailAddresses }
+# Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Emitido por: { $issuedBy }
 # Variables:
