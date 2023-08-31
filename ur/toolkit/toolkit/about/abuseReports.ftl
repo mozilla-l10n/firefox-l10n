@@ -45,6 +45,10 @@ abuse-report-messagebar-submitting2 =
     .message = <span data-l10n-name = "addon-name"> { $addon-name } کیلئے رپورٹ بھیجنا۔
 abuse-report-messagebar-submitted-noremove2 =
     .message = رپورٹ جمع کرنے کا شکریہ۔
+abuse-report-messagebar-removed-extension2 =
+    .message = رپورٹ جمع کرنے کا شکریہ۔ آپنے ایکسٹینشن { $addon-name }</span><span data-l10n-name="addon-name"> کو ہٹا دیا ہے۔
+abuse-report-messagebar-removed-theme2 =
+    .message = رپورٹ جمع کرنے کا شکریہ۔ آپنے تھیم{ $addon-name }</span><span data-l10n-name="addon-name"> کو ہٹا دیا ہے۔
 abuse-report-messagebar-error-recent-submit2 =
     .message = <span data-l10n-name ="addon-name"> { $addon-name } کے لئے رپورٹ نہیں بھیجی گئی تھی کیونکہ حال ہی میں ایک اور رپورٹ پیش کی گئی تھی۔
 
