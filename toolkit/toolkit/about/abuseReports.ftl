@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-sitepermission = Köszönjük a bejelentést. El
 abuse-report-messagebar-removed-theme = Köszönjük a bejelentést. Eltávolította a(z) <span data-l10n-name="addon-name">{ $addon-name }</span> témát.
 abuse-report-messagebar-error = Hiba történt a(z) <span data-l10n-name="addon-name">{ $addon-name }</span> kiegészítő jelentésének beküldésekor.
 abuse-report-messagebar-error-recent-submit = A(z) <span data-l10n-name="addon-name">{ $addon-name }</span> kiegészítő jelentése nem lett elküldve, mert a közelmúltban már benyújtott egy másik jelentést.
+abuse-report-messagebar-aborted2 =
+    .message = A(z) { $addon-name } bejelentése megszakítva.
+abuse-report-messagebar-submitting2 =
+    .message = Jelentés küldésre erről: { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Köszönjük a bejelentést. Eltávolítja a(z) { $addon-name } kiegészítőt?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Köszönjük a bejelentést.
+abuse-report-messagebar-removed-extension2 =
+    .message = Köszönjük a bejelentést. Eltávolította a(z) { $addon-name } kiegészítőt.
+abuse-report-messagebar-removed-theme2 =
+    .message = Köszönjük a bejelentést. Eltávolította a(z) { $addon-name } témát.
+abuse-report-messagebar-error2 =
+    .message = Hiba történt a(z) { $addon-name } kiegészítő jelentésének beküldésekor.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = A(z) { $addon-name } kiegészítő jelentése nem lett elküldve, mert a közelmúltban már benyújtott egy másik jelentést.
 
 ## Message bars actions.
 
