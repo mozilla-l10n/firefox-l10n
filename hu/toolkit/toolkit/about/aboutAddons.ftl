@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Engedélyezés
     .title = Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése
 extensions-warning-imported-addons = Véglegesítse a { -brand-short-name }ba importált kiegészítők telepítését.
+extensions-warning-imported-addons2 =
+    .message = Véglegesítse a { -brand-short-name }ba importált kiegészítők telepítését.
 extensions-warning-imported-addons-button = Kiegészítők telepítése
 
 ## Strings connected to add-on updates
