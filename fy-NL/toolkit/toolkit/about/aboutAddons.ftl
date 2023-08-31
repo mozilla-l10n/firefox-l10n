@@ -156,14 +156,20 @@ addon-sitepermission-host = Websitemachtigingen foar { $host }
 
 extensions-warning-safe-mode = Alle add-ons binne útskeakele troch feilige modus.
 extensions-warning-check-compatibility = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
+extensions-warning-safe-mode2 =
+    .message = Alle add-ons binne útskeakele troch feilige modus.
 extensions-warning-check-compatibility2 =
     .message = Kontrole op kompatibileit foar add-ons is útskeakele. Jo kinne ynkompatibele add-ons hawwe.
 extensions-warning-check-compatibility-button = Ynskeakelje
     .title = Skeakelje kontrole fan kompatibileit foar add-ons yn
 extensions-warning-update-security = Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne efterrinne mei fernijingen.
+extensions-warning-update-security2 =
+    .message = Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne efterrinne mei fernijingen.
 extensions-warning-update-security-button = Ynskeakelje
     .title = Skeakelje feilichheidskontrole foar add-onsfernijingen yn
 extensions-warning-imported-addons = Foltôgje de ynstallaasje fan útwreidingen dy’t ymportearre binne nei { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Foltôgje de ynstallaasje fan útwreidingen dy’t ymportearre binne nei { -brand-short-name }.
 extensions-warning-imported-addons-button = Utwreidingen ynstallearje
 
 ## Strings connected to add-on updates
