@@ -184,6 +184,10 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } ಎನ್ನುವುದು { -brand-short-name } { $version } ನೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } ಎನ್ನುವುದು { -brand-short-name } { $version } ನೊಂದಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
 details-notification-unsigned-and-disabled = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.
 details-notification-unsigned-and-disabled2 =
     .message = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ ಮತ್ತು ಅದನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ.
@@ -193,8 +197,12 @@ details-notification-unsigned2 =
     .message = { $name } ಅನ್ನು { -brand-short-name } ನಲ್ಲಿ ಬಳಕೆಗೆ ದೃಢಪಡಿಸಲಾಗಿಲ್ಲ. ಎಚ್ಚರಿಕೆಯಿಂದ ಮುಂದುವರೆಯಿರಿ.
 details-notification-unsigned-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
 details-notification-blocked = ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ { $name } ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
+details-notification-blocked2 =
+    .message = ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ { $name } ಅನ್ನು ಅಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ.
 details-notification-blocked-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
 details-notification-softblocked = { $name } ಎನ್ನುವುದು ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂದು ತಿಳಿದು ಬಂದಿದೆ.
+details-notification-softblocked2 =
+    .message = { $name } ಎನ್ನುವುದು ಸುರಕ್ಷತೆ ಅಥವ ಸ್ಥಿರತೆಯ ಸಮಸ್ಯೆಗಳಿಗೆ ಕಾರಣವಾಗುತ್ತದೆ ಎಂದು ತಿಳಿದು ಬಂದಿದೆ.
 details-notification-softblocked-link = ಹೆಚ್ಚಿನ ಮಾಹಿತಿ
 details-notification-gmp-pending = { $name } ಸದ್ಯದಲ್ಲಿಯೆ ಅನುಸ್ಥಾಪಿಸಲಾಗುತ್ತದೆ.
 details-notification-gmp-pending2 =
