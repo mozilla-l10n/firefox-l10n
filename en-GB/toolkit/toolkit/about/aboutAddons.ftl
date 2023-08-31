@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = Add-ons Manager
-
 search-header =
     .placeholder = Search addons.mozilla.org
     .searchbuttonlabel = Search
@@ -12,109 +11,79 @@ search-header =
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
 list-empty-get-extensions-message = Get extensions and themes on <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-dictionaries-message = Get dictionaries on <a data-l10n-name="get-extensions">{ $domain }</a>
-
 list-empty-get-language-packs-message = Get language packs on <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 
 list-empty-installed =
     .value = You don’t have any add-ons of this type installed
-
 list-empty-available-updates =
     .value = No updates found
-
 list-empty-recent-updates =
     .value = You haven’t recently updated any add-ons
-
 list-empty-find-updates =
     .label = Check For Updates
-
 list-empty-button =
     .label = Learn more about add-ons
-
 help-button = Add-ons Support
 sidebar-help-button-title =
     .title = Add-ons Support
-
 addons-settings-button = { -brand-short-name } Settings
 sidebar-settings-button-title =
     .title = { -brand-short-name } Settings
-
 show-unsigned-extensions-button =
     .label = Some extensions could not be verified
-
 show-all-extensions-button =
     .label = Show all extensions
-
 detail-version =
     .label = Version
-
 detail-last-updated =
     .label = Last Updated
-
 addon-detail-description-expand = Show more
 addon-detail-description-collapse = Show less
-
 detail-contributions-description = The developer of this add-on asks that you help support its continued development by making a small contribution.
-
 detail-contributions-button = Contribute
     .title = Contribute to the development of this add-on
     .accesskey = C
-
 detail-update-type =
     .value = Automatic Updates
-
 detail-update-default =
     .label = Default
     .tooltiptext = Automatically install updates only if that’s the default
-
 detail-update-automatic =
     .label = On
     .tooltiptext = Automatically install updates
-
 detail-update-manual =
     .label = Off
     .tooltiptext = Don’t automatically install updates
-
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Run in Private Windows
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Not Allowed in Private Windows
 detail-private-disallowed-description2 = This extension does not run while private browsing. <a data-l10n-name="learn-more">Learn more</a>
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Requires Access to Private Windows
 detail-private-required-description2 = This extension has access to your online activities while private browsing. <a data-l10n-name="learn-more">Learn more</a>
-
 detail-private-browsing-on =
     .label = Allow
     .tooltiptext = Enable in Private Browsing
-
 detail-private-browsing-off =
     .label = Don’t Allow
     .tooltiptext = Disable in Private Browsing
-
 detail-home =
     .label = Homepage
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Add-on Profile
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Check for Updates
     .accesskey = U
     .tooltiptext = Check for updates for this add-on
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -131,38 +100,26 @@ detail-show-preferences =
             [windows] Change this add-on’s options
            *[other] Change this add-on’s preferences
         }
-
 detail-rating =
     .value = Rating
-
 addon-restart-now =
     .label = Restart now
-
 disabled-unsigned-heading =
     .value = Some add-ons have been disabled
-
 disabled-unsigned-description = The following add-ons have not been verified for use in { -brand-short-name }. You can <label data-l10n-name="find-addons">find replacements</label> or ask the developer to get them verified.
-
 disabled-unsigned-learn-more = Learn more about our efforts to help keep you safe online.
-
 disabled-unsigned-devinfo = Developers interested in getting their add-ons verified can continue by reading our <label data-l10n-name="learn-more">manual</label>.
-
 plugin-deprecation-description = Missing something? Some plugins are no longer supported by { -brand-short-name }. <label data-l10n-name="learn-more">Learn More.</label>
-
 legacy-warning-show-legacy = Show legacy extensions
-
 legacy-extensions =
     .value = Legacy Extensions
-
 legacy-extensions-description = These extensions do not meet current { -brand-short-name } standards so they have been deactivated. <label data-l10n-name="legacy-learn-more">Learn about the changes to add-ons</label>
-
 private-browsing-description2 =
     { -brand-short-name } is changing how extensions work in private browsing. Any new extensions you add to
     { -brand-short-name } won’t run by default in Private Windows. Unless you allow it in settings, the
     extension won’t work while private browsing, and won’t have access to your online activities
     there. We’ve made this change to keep your private browsing private.
     <label data-l10n-name="private-browsing-learn-more">Learn how to manage extension settings</label>
-
 addon-category-discover = Recommendations
 addon-category-discover-title =
     .title = Recommendations
@@ -204,7 +161,6 @@ extensions-warning-check-compatibility-button = Enable
 extensions-warning-update-security = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security-button = Enable
     .title = Enable add-on update security checking
-
 extensions-warning-imported-addons = Please finalise the installation of extensions that were imported to { -brand-short-name }.
 extensions-warning-imported-addons-button = Install Extensions
 
@@ -253,44 +209,35 @@ addon-open-about-debugging = Debug Add-ons
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Manage Extension Shortcuts
     .accesskey = S
-
 shortcuts-no-addons = You don’t have any extensions enabled.
 shortcuts-no-commands = The following extensions do not have shortcuts:
 shortcuts-input =
     .placeholder = Type a shortcut
-
 shortcuts-browserAction2 = Activate toolbar button
 shortcuts-pageAction = Activate page action
 shortcuts-sidebarAction = Toggle the sidebar
-
 shortcuts-modifier-mac = Include Ctrl, Alt, or ⌘
 shortcuts-modifier-other = Include Ctrl or Alt
 shortcuts-invalid = Invalid combination
 shortcuts-letter = Type a letter
 shortcuts-system = Can’t override a { -brand-short-name } shortcut
-
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplicate shortcut
-
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } is being used as a shortcut in more than one case. Duplicate shortcuts may cause unexpected behaviour.
-
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Already in use by { $addon }
-
 # Variables:
 #   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] Show { $numberToShow } More
     }
-
 shortcuts-card-collapse-button = Show Less
-
 header-back-button =
     .title = Go back
 
@@ -305,15 +252,12 @@ discopane-intro =
     often developed by a third party. Here’s a selection { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">recommends</a> for exceptional
     security, performance, and functionality.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Some of these recommendations are personalised. They are based on other
     extensions you’ve installed, profile preferences, and usage statistics.
 discopane-notice-learn-more = Learn more
-
 privacy-policy = Privacy Policy
-
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.
@@ -329,7 +273,6 @@ install-theme-button = Install Theme
 manage-addon-button = Manage
 find-more-addons = Find more add-ons
 find-more-themes = Find more themes
-
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -355,49 +298,37 @@ preferences-addon-button =
 details-addon-button = Details
 release-notes-addon-button = Release Notes
 permissions-addon-button = Permissions
-
 extension-enabled-heading = Enabled
 extension-disabled-heading = Disabled
-
 theme-enabled-heading = Enabled
 theme-disabled-heading2 = Saved Themes
-
 plugin-enabled-heading = Enabled
 plugin-disabled-heading = Disabled
-
 dictionary-enabled-heading = Enabled
 dictionary-disabled-heading = Disabled
-
 locale-enabled-heading = Enabled
 locale-disabled-heading = Disabled
-
 sitepermission-enabled-heading = Enabled
 sitepermission-disabled-heading = Disabled
-
 always-activate-button = Always Activate
 never-activate-button = Never Activate
-
 addon-detail-author-label = Author
 addon-detail-version-label = Version
 addon-detail-last-updated-label = Last Updated
 addon-detail-homepage-label = Homepage
 addon-detail-rating-label = Rating
-
 # Message for add-ons with a staged pending update.
 install-postponed-message = This extension will be updated when { -brand-short-name } restarts.
 install-postponed-button = Update Now
-
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
 five-star-rating =
     .title = Rated { NUMBER($rating, maximumFractionDigits: 1) } out of 5
-
 # This string is used to show that an add-on is disabled.
 # Variables:
 #   $name (string) - The name of the add-on
 addon-name-disabled = { $name } (disabled)
-
 # The number of reviews that an add-on has received on AMO.
 # Variables:
 #   $numberOfReviews (number) - The number of reviews received
@@ -413,19 +344,16 @@ addon-detail-reviews-link =
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been removed.
 pending-uninstall-undo-button = Undo
-
 addon-detail-updates-label = Allow automatic updates
 addon-detail-updates-radio-default = Default
 addon-detail-updates-radio-on = On
 addon-detail-updates-radio-off = Off
 addon-detail-update-check-label = Check for Updates
 install-update-button = Update
-
 # aria-label associated to the updates row to help screen readers to announce the group
 # of input controls being entered.
 addon-detail-group-label-updates =
     .aria-label = { addon-detail-updates-label }
-
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -434,7 +362,6 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = When allowed, the extension will have access to your online activities while private browsing. <a data-l10n-name="learn-more">Learn more</a>
 addon-detail-private-browsing-allow = Allow
 addon-detail-private-browsing-disallow = Don’t Allow
-
 # aria-label associated to the private browsing row to help screen readers to announce the group
 # of input controls being entered.
 addon-detail-group-label-private-browsing =
@@ -473,22 +400,17 @@ addon-badge-verified2 =
 
 available-updates-heading = Available Updates
 recent-updates-heading = Recent Updates
-
 release-notes-loading = Loading…
 release-notes-error = Sorry, but there was an error loading the release notes.
-
 addon-permissions-empty = This extension doesn’t require any permissions
 addon-permissions-required = Required permissions for core functionality:
 addon-permissions-optional = Optional permissions for added functionality:
 addon-permissions-learnmore = Learn more about permissions
-
 recommended-extensions-heading = Recommended Extensions
 recommended-themes-heading = Recommended Themes
-
 # Variables:
 #   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = Grants the following capabilities to <span data-l10n-name="hostname">{ $hostname }</span>:
-
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = Feeling creative? <a data-l10n-name="link">Build your own theme with Firefox Colour.</a>
@@ -504,18 +426,11 @@ updates-heading = Manage Your Updates
 sitepermission-heading = Manage Your Site Permissions
 discover-heading = Personalise Your { -brand-short-name }
 shortcuts-heading = Manage Extension Shortcuts
-
 default-heading-search-label = Find more add-ons
 addons-heading-search-input =
     .placeholder = Search addons.mozilla.org
-
 addon-page-options-button =
     .title = Tools for all add-ons
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
-
 
 ## Detail notifications
 ## Variables:
@@ -524,18 +439,21 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } is incompatible with { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } is incompatible with { -brand-short-name } { $version }.
 details-notification-incompatible-link = More Information
-
 details-notification-unsigned-and-disabled = { $name } could not be verified for use in { -brand-short-name } and has been disabled.
 details-notification-unsigned-and-disabled-link = More Information
-
 details-notification-unsigned = { $name } could not be verified for use in { -brand-short-name }. Proceed with caution.
 details-notification-unsigned-link = More Information
-
 details-notification-blocked = { $name } has been disabled due to security or stability issues.
+details-notification-blocked2 =
+    .message = { $name } has been disabled due to security or stability issues.
 details-notification-blocked-link = More Information
-
 details-notification-softblocked = { $name } is known to cause security or stability issues.
+details-notification-softblocked2 =
+    .message = { $name } is known to cause security or stability issues.
 details-notification-softblocked-link = More Information
-
 details-notification-gmp-pending = { $name } will be installed shortly.
