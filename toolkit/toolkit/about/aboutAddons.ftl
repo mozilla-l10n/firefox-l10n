@@ -313,6 +313,9 @@ addon-detail-homepage-label = Kreu
 addon-detail-rating-label = Vlerësim
 # Message for add-ons with a staged pending update.
 install-postponed-message = Ky zgjerim do të përditësohet kur të riniset { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Ky zgjerim do të përditësohet kur të riniset { -brand-short-name }.
 install-postponed-button = Përditësoje Tani
 # The average rating that the add-on has received.
 # Variables:
