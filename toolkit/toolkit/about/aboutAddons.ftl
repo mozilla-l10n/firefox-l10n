@@ -251,6 +251,11 @@ discopane-intro = Uzantılar ve temalar tarayıcınızın içinde çalışan uyg
 discopane-notice-recommendations =
     Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
     diğer uzantıları, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Bu önerilerden bazıları size özeldir. Önerilerimiz; yüklediğiniz
+        diğer uzantıları, profil tercihlerinizi ve kullanım istatistiklerinizi temel alır.
 discopane-notice-learn-more = Daha fazla bilgi al
 privacy-policy = Gizlilik İlkeleri
 # Refers to the author of an add-on, shown below the name of the add-on.
