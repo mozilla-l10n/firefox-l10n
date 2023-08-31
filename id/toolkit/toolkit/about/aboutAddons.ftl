@@ -156,9 +156,15 @@ addon-sitepermission-host = Izin Situs untuk { $host }
 
 extensions-warning-safe-mode = Semua pengaya telah dinonaktifkan dalam mode aman.
 extensions-warning-check-compatibility = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
+extensions-warning-safe-mode2 =
+    .message = Semua pengaya telah dinonaktifkan dalam mode aman.
+extensions-warning-check-compatibility2 =
+    .message = Pemeriksaan kompatibilitas pengaya telah dinonaktifkan. Anda mungkin menggunakan pengaya yang tidak kompatibel.
 extensions-warning-check-compatibility-button = Aktifkan
     .title = Aktifkan pemeriksaan kompatibilitas pengaya
 extensions-warning-update-security = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
+extensions-warning-update-security2 =
+    .message = Pemeriksaan keamanan pemutakhiran pengaya telah dinonaktifkan. Pemutakhiran pengaya saat ini memiliki risiko keamanan.
 extensions-warning-update-security-button = Aktifkan
     .title = Aktifkan pemeriksaan keamanan pemutakhiran pengaya
 
