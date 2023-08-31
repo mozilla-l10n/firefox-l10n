@@ -319,6 +319,9 @@ addon-detail-homepage-label = Homepage
 addon-detail-rating-label = Rating
 # Message for add-ons with a staged pending update.
 install-postponed-message = This extension will be updated when { -brand-short-name } restarts.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = This extension will be updated when { -brand-short-name } restarts.
 install-postponed-button = Update Now
 # The average rating that the add-on has received.
 # Variables:
