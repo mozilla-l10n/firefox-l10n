@@ -323,6 +323,9 @@ addon-detail-homepage-label = ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ
 addon-detail-rating-label = ᱫᱚᱨ ᱴᱷᱟᱹᱣᱠᱟᱹ
 # Message for add-ons with a staged pending update.
 install-postponed-message = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱮᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜᱼᱟ ᱾
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = { -brand-short-name } ᱫᱩᱦᱲᱟᱹ ᱮᱛᱦᱚᱵ ᱞᱮᱠᱷᱟᱱ ᱱᱚᱶᱟ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱫᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠᱚᱜᱼᱟ ᱾
 install-postponed-button = ᱱᱤᱛᱚᱜ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 # The average rating that the add-on has received.
 # Variables:
