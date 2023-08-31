@@ -44,6 +44,22 @@ abuse-report-messagebar-removed-sitepermission = 感谢您提交举报。已移�
 abuse-report-messagebar-removed-theme = 感谢您提交举报。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 主题。
 abuse-report-messagebar-error = 发送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的举报时，发生错误。
 abuse-report-messagebar-error-recent-submit = 由于最近发送过另一份举报，并未发送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的举报。
+abuse-report-messagebar-aborted2 =
+    .message = 已取消举报 { $addon-name }。
+abuse-report-messagebar-submitting2 =
+    .message = 正在发送 { $addon-name } 的举报。
+abuse-report-messagebar-submitted2 =
+    .message = 感谢您提交举报。您想要移除 { $addon-name } 吗？
+abuse-report-messagebar-submitted-noremove2 =
+    .message = 感谢您提交举报！
+abuse-report-messagebar-removed-extension2 =
+    .message = 感谢您提交举报。已移除 { $addon-name } 扩展。
+abuse-report-messagebar-removed-theme2 =
+    .message = 感谢您提交举报。已移除 { $addon-name } 主题。
+abuse-report-messagebar-error2 =
+    .message = 发送 { $addon-name } 的举报时，发生错误。
+abuse-report-messagebar-error-recent-submit2 =
+    .message = 由于最近发送过另一份举报，并未发送 { $addon-name } 的举报。
 
 ## Message bars actions.
 
