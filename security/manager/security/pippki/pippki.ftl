@@ -59,6 +59,9 @@ client-auth-site-description = Ο ιστότοπος ζήτησε να ταυτ�
 client-auth-choose-cert = Επιλέξτε ένα πιστοποιητικό για να το παρουσιάσετε ως ταυτότητα:
 client-auth-cert-details = Λεπτομέρειες επιλεγμένου πιστοποιητικού:
 # Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Έκδοση για: { $issuedTo }
+# Variables:
 # $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
 client-auth-cert-details-serial-number = Σειριακός αριθμός: { $serialNumber }
 # Variables:
