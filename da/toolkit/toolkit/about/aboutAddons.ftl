@@ -160,6 +160,10 @@ addon-sitepermission-host = Websteds-tilladelser for { $host }
 
 extensions-warning-safe-mode = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
 extensions-warning-check-compatibility = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
+extensions-warning-safe-mode2 =
+    .message = Alle tilføjelser er blevet deaktiveret i fejlsikker tilstand.
+extensions-warning-check-compatibility2 =
+    .message = Kompatibilitetstjek for tilføjelser er deaktiverert. Du kan have inkompatible tilføjelser.
 extensions-warning-check-compatibility-button = Aktiver
     .title = Aktiver kompatibilitetstjek for tilføjelser
 extensions-warning-update-security = Sikkerhedstjek ved opdatering af tilføjelser er deaktiveret. Du kan blive kompromiteret ved opdateringer.
