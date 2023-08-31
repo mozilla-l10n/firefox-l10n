@@ -48,6 +48,22 @@ abuse-report-messagebar-removed-sitepermission = Дякуємо за надси�
 abuse-report-messagebar-removed-theme = Дякуємо за надсилання скарги. Ви вилучили тему <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Сталася помилка під час надсилання скарги на <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Скаргу на <span data-l10n-name="addon-name">{ $addon-name }</span> не було надіслано, тому що недавно було відправлено іншу скаргу.
+abuse-report-messagebar-aborted2 =
+    .message = Скаргу на { $addon-name } скасовано.
+abuse-report-messagebar-submitting2 =
+    .message = Надсилання скарги на { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Дякуємо за надсилання скарги. Хочете вилучити { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Дякуємо за надсилання скарги.
+abuse-report-messagebar-removed-extension2 =
+    .message = Дякуємо за надсилання скарги. Ви вилучили розширення { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Дякуємо за надсилання скарги. Ви вилучили тему { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Сталася помилка під час надсилання скарги на { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Скаргу на { $addon-name } не було надіслано, тому що недавно було відправлено іншу скаргу.
 
 ## Message bars actions.
 
