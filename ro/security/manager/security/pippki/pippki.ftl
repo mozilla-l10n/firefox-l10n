@@ -80,6 +80,8 @@ client-auth-cert-details-issued-by = Emis de: { $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
 client-auth-cert-details-stored-on = Stocat pe: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Ține minte decizia
 
 ## Set password (p12) dialog
 
