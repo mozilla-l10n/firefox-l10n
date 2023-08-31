@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Faleminderit për parashtrimin 
 abuse-report-messagebar-removed-theme = Faleminderit për parashtrimin e një raporti. E hoqët temën <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Pati një gabim me dërgimin e raportit për <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Raporti për <span data-l10n-name="addon-name">{ $addon-name }</span> s’u dërgua, ngaqë tani afër qe parashtruar një tjetër raport.
+abuse-report-messagebar-aborted2 =
+    .message = Raportimi për { $addon-name } u anulua.
+abuse-report-messagebar-submitting2 =
+    .message = Po dërgohet raportim për { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Faleminderit për parashtrimin e një raportimi. Doni të hiqet { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Faleminderit për parashtrimin e një raporti.
+abuse-report-messagebar-removed-extension2 =
+    .message = Faleminderit për parashtrimin e një raporti. E hoqët zgjerimin { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Faleminderit për parashtrimin e një raporti. E hoqët “Leje Sajtesh” { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Faleminderit për parashtrimin e një raporti. E hoqët temën { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Pati një gabim me dërgimin e raportit për { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Raporti për { $addon-name } s’u dërgua, ngaqë tani afër qe parashtruar një tjetër raport.
 
 ## Message bars actions.
 
