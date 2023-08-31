@@ -162,6 +162,8 @@ extensions-warning-update-security = La vérification de mises à jour de sécur
 extensions-warning-update-security-button = Activer
     .title = Activer la vérification de mises à jour de sécurité pour les modules complémentaires
 extensions-warning-imported-addons = Veuillez terminer l’installation des extensions qui ont été importées dans { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Veuillez terminer l’installation des extensions qui ont été importées dans { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer les extensions
 
 ## Strings connected to add-on updates
