@@ -305,6 +305,9 @@ addon-detail-homepage-label = Hamepage
 addon-detail-rating-label = Ratin
 # Message for add-ons with a staged pending update.
 install-postponed-message = This extension will be updatit when { -brand-short-name } resterts.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = This extension will be updatit when { -brand-short-name } resterts.
 install-postponed-button = Update Noo
 # The average rating that the add-on has received.
 # Variables:
