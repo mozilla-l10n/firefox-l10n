@@ -77,6 +77,9 @@ client-auth-cert-details-email-addresses = Adresses email: { $emailAddresses }
 # Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Emittite per: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Immagazinate sur: { $storedOn }
 client-auth-cert-remember-box =
     .label = Memorisar iste decision
 
