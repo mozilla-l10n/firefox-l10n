@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Slå på
     .title = Slå på tryggingskontroll av tilleggsoppdateringar
 extensions-warning-imported-addons = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer utvidingar
 
 ## Strings connected to add-on updates
