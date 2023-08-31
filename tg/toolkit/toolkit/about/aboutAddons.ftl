@@ -158,12 +158,20 @@ addon-sitepermission-host = Иҷозатҳои сомона барои { $host }
 
 extensions-warning-safe-mode = Ҳамаи ҷузъҳои иловагӣ дар реҷаи бехатар ғайрифаъол карда шудаанд.
 extensions-warning-check-compatibility = Санҷиши мувофиқати ҷузъи иловагӣ ғайрифаъол аст. Эҳтимол, шумо ҷузъҳои иловагии номувофиқ доред.
+extensions-warning-safe-mode2 =
+    .message = Ҳамаи ҷузъҳои иловагӣ дар реҷаи бехатар ғайрифаъол карда шудаанд.
+extensions-warning-check-compatibility2 =
+    .message = Санҷиши мувофиқати ҷузъи иловагӣ ғайрифаъол аст. Эҳтимол, шумо ҷузъҳои иловагии номувофиқ доред.
 extensions-warning-check-compatibility-button = Фаъол кардан
     .title = Фаъол кардани санҷиши мутобиқати ҷузъи иловагӣ
 extensions-warning-update-security = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
+extensions-warning-update-security2 =
+    .message = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
 extensions-warning-update-security-button = Фаъол кардан
     .title = Фаъол кардани санҷиши навсозии амниятии ҷузъи иловагӣ
 extensions-warning-imported-addons = Лутфан, насби васеъшавиҳоеро, ки ба «{ -brand-short-name }» ворид карда шудаанд, ба анҷом расонед.
+extensions-warning-imported-addons2 =
+    .message = Лутфан, насби васеъшавиҳоеро, ки ба «{ -brand-short-name }» ворид карда шудаанд, ба анҷом расонед.
 extensions-warning-imported-addons-button = Насби васеъшавиҳо
 
 ## Strings connected to add-on updates
