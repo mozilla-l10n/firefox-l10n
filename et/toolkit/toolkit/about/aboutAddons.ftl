@@ -301,6 +301,9 @@ addon-detail-homepage-label = Koduleht
 addon-detail-rating-label = Hinnang
 # Message for add-ons with a staged pending update.
 install-postponed-message = Laiendus uuendatakse { -brand-short-name }i taaskäivitumisel.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Laiendus uuendatakse { -brand-short-name }i taaskäivitumisel.
 install-postponed-button = Uuenda kohe
 # The average rating that the add-on has received.
 # Variables:
