@@ -156,6 +156,10 @@ addon-sitepermission-host = Дозволи сайту для { $host }
 
 extensions-warning-safe-mode = В безпечному режимі всі додатки вимкнено.
 extensions-warning-check-compatibility = Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.
+extensions-warning-safe-mode2 =
+    .message = В безпечному режимі всі додатки вимкнено.
+extensions-warning-check-compatibility2 =
+    .message = Перевірка сумісності додатків вимкнена. У вас можуть бути несумісні додатки.
 extensions-warning-check-compatibility-button = Увімкнути
     .title = Увімкнути перевірку сумісності додатків
 extensions-warning-update-security = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
