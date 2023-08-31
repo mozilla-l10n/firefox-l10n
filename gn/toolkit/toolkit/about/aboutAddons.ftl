@@ -155,9 +155,13 @@ addon-sitepermission-host = Tenda ñemoneĩ { $host } peg̃uarã
 
 extensions-warning-safe-mode = Opaite moĩmbaha oñemongepáma teko jerovia rupi.
 extensions-warning-check-compatibility = Ojueheguáva jehechajey moĩmbaha reheguáva oñemongéma. Ikatu oguereko heta juehegua’ỹva.
+extensions-warning-safe-mode2 =
+    .message = Opaite moĩmbaha oñemongepáma teko jerovia rupi.
 extensions-warning-check-compatibility-button = Myandy
     .title = Ojueheguáva jehechajey moĩmbaha reheguáva myandy.
 extensions-warning-update-security = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
+extensions-warning-update-security2 =
+    .message = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security-button = Myandy
     .title = Emyandy jehechajey moĩmbaha rekorosãrã reheguáva
 extensions-warning-imported-addons = Emohu’ã jepysokue guerupyre ñemohenda { -brand-short-name } peve
