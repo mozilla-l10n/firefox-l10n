@@ -153,9 +153,13 @@ addon-sitepermission-host = { $host } ਲਈ ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
 
 extensions-warning-safe-mode = ਸੁਰੱਖਿਅਤ ਮੋਡ 'ਚ ਸਭ ਐਡ-ਆਨ ਬੰਦ ਕਰ ਦਿੱਤੀਆਂ ਗਈਆਂ ਹਨ।
 extensions-warning-check-compatibility = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
+extensions-warning-check-compatibility2 =
+    .message = ਐਡ-ਆਨ ਅਨੁਕੂਲਤਾ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਤੁਹਾਡੇ ਕੋਲ ਗ਼ੈਰ-ਅਨੁਕੂਲ ਐਡ-ਆਨ ਹੋ ਸਕਦੀਆਂ ਹਨ।
 extensions-warning-check-compatibility-button = ਸਮਰੱਥ
     .title = ਐਡ-ਆਨ ਦੇ ਢੁੱਕਵੇਂਪਣ ਦੀ ਜਾਂਚ ਕਰਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ
 extensions-warning-update-security = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
+extensions-warning-update-security2 =
+    .message = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 extensions-warning-update-security-button = ਚਾਲੂ
     .title = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
 
