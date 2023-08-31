@@ -285,6 +285,9 @@ addon-detail-homepage-label = হোমপেজ
 addon-detail-rating-label = রেটিং
 # Message for add-ons with a staged pending update.
 install-postponed-message = { -brand-short-name } পুনরাম্ভ হলে এই এক্সটেনশনটি হালনাগাদ করা হবে।
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = { -brand-short-name } পুনরাম্ভ হলে এই এক্সটেনশনটি হালনাগাদ করা হবে।
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
