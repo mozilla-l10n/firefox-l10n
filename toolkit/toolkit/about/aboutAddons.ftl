@@ -151,9 +151,15 @@ addon-sitepermission-host = { $host } ostalarirako baimenak
 
 extensions-warning-safe-mode = Modu seguruak gehigarri guztiak desgaitu ditu.
 extensions-warning-check-compatibility = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
+extensions-warning-safe-mode2 =
+    .message = Modu seguruak gehigarri guztiak desgaitu ditu.
+extensions-warning-check-compatibility2 =
+    .message = Gehigarrien bateragarritasuna egiaztatzea desgaituta dago. Gehigarri bateraezinak izan ditzakezu.
 extensions-warning-check-compatibility-button = Gaitu
     .title = Gaitu gehigarrien bateragarritasuna egiaztatzea
 extensions-warning-update-security = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
+extensions-warning-update-security2 =
+    .message = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
 extensions-warning-update-security-button = Gaitu
     .title = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
 extensions-warning-imported-addons = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
