@@ -212,6 +212,9 @@ addon-detail-last-updated-label = Últimu anovamientu
 addon-detail-rating-label = Valoración
 # Message for add-ons with a staged pending update.
 install-postponed-message = Esta estensión va anovase cuando se reanicie { -brand-short-name }
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Esta estensión va anovase cuando se reanicie { -brand-short-name }
 install-postponed-button = Anovar agora
 # The average rating that the add-on has received.
 # Variables:
