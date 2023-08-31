@@ -234,6 +234,9 @@ discopane-intro =
     za niyôbyczajne bezpieczyństwo, sprowność i funkcjōnalność.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Niykere z tych rykōmyndacyji sōm spersōnalizowane. Bazujōm na inkszych rozszyrzyniach, co mosz zainstalowane, preferyncyjach profilōw i statystykach używanio.
 discopane-notice-learn-more = Przewiydz sie wiyncyj
 privacy-policy = Polityka prywatności
 # Refers to the author of an add-on, shown below the name of the add-on.
