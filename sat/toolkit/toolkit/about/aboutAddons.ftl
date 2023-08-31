@@ -260,6 +260,11 @@ discopane-intro =
 discopane-notice-recommendations =
     ᱱᱚᱶᱟ ᱠᱚ ᱵᱟᱛᱮᱣ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱢ ᱠᱩᱥᱤ ᱞᱮᱠᱷᱟᱛᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱩᱠᱩ ᱫᱚ ᱮᱴᱟᱜ
      ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱡᱟᱦᱟᱸ ᱮᱢ ᱵᱚᱦᱟᱞ ᱠᱟᱫᱟᱢ , ᱢᱚᱦᱚᱨ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        ᱱᱚᱶᱟ ᱠᱚ ᱵᱟᱛᱮᱣ ᱟᱭᱢᱟ ᱞᱮᱠᱟᱱᱟᱜ ᱟᱢ ᱠᱩᱥᱤ ᱞᱮᱠᱷᱟᱛᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾ ᱱᱩᱠᱩ ᱫᱚ ᱮᱴᱟᱜ
+         ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱡᱟᱦᱟᱸ ᱮᱢ ᱵᱚᱦᱟᱞ ᱠᱟᱫᱟᱢ , ᱢᱚᱦᱚᱨ ᱠᱩᱥᱤᱠᱚ ᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱷᱟ ᱠᱚ ᱪᱮᱛᱟᱱ ᱨᱮ ᱢᱮᱱᱟᱜᱼᱟ ᱾
 discopane-notice-learn-more = ᱰᱷᱮᱨ ᱥᱮᱬᱟᱭ ᱢᱮ
 privacy-policy = ᱩᱠᱩ ᱱᱤᱛᱤ
 # Refers to the author of an add-on, shown below the name of the add-on.
