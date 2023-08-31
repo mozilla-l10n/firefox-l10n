@@ -213,3 +213,5 @@ details-notification-blocked-link = Maklumat Lanjut
 details-notification-softblocked = { $name } telah dikenalpasti sebagai punca dalam isu keselamatan dan kestabilan.
 details-notification-softblocked-link = Maklumat Lanjut
 details-notification-gmp-pending = { $name } akan dipasang sebentar lagi.
+details-notification-gmp-pending2 =
+    .message = { $name } akan dipasang sebentar lagi.
