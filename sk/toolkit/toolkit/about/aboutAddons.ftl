@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Zapnúť
     .title = Povoliť kontrolu bezpečnosti aktualizácií doplnkov
 extensions-warning-imported-addons = Dokončite inštaláciu rozšírení, ktoré boli importované do { -brand-short-name(case: "gen") }.
+extensions-warning-imported-addons2 =
+    .message = Dokončite inštaláciu rozšírení, ktoré boli importované do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons-button = Nainštalovať rozšírenia
 
 ## Strings connected to add-on updates
