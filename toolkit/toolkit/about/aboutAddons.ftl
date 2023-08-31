@@ -158,9 +158,15 @@ addon-sitepermission-host = Дозволе за сајт за { $host }
 
 extensions-warning-safe-mode = Сви додаци су онемогућени у безбедном начину рада.
 extensions-warning-check-compatibility = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
+extensions-warning-safe-mode2 =
+    .message = Сви додаци су онемогућени у безбедном начину рада.
+extensions-warning-check-compatibility2 =
+    .message = Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.
 extensions-warning-check-compatibility-button = Укључи
     .title = Омогући проверавање компатибилности додатка
 extensions-warning-update-security = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
+extensions-warning-update-security2 =
+    .message = Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.
 extensions-warning-update-security-button = Омогући
     .title = Омогући проверавање безбедности додатка
 
