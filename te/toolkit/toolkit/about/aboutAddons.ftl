@@ -180,6 +180,11 @@ header-back-button =
 discopane-notice-recommendations =
     వీటిలో కొన్ని పొడగింతలు వ్యక్తిగతీకరించబడ్డాయి. అవి మీరు స్థాపించుకున్న
     ఇతర పొడగింతలు, ప్రొఫైలు అభిరుచులు, వాడుక గణాంకాలపై ఆధారపడినవి.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        వీటిలో కొన్ని పొడగింతలు వ్యక్తిగతీకరించబడ్డాయి. అవి మీరు స్థాపించుకున్న
+        ఇతర పొడగింతలు, ప్రొఫైలు అభిరుచులు, వాడుక గణాంకాలపై ఆధారపడినవి.
 discopane-notice-learn-more = ఇంకా తెలుసుకోండి
 # Shows the number of daily users of the add-on.
 # Variables:
