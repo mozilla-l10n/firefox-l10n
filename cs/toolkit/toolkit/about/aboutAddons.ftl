@@ -491,21 +491,45 @@ details-notification-incompatible =
         [with-cases] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
        *[no-cases] Doplněk { $name } není s aplikací { -brand-short-name } { $version } kompatibilní.
     }
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Doplněk { $name } není s { -brand-short-name(case: "ins") } { $version } kompatibilní.
+           *[no-cases] Doplněk { $name } není s aplikací { -brand-short-name } { $version } kompatibilní.
+        }
 details-notification-incompatible-link = Více informací
 details-notification-unsigned-and-disabled =
     { -brand-short-name.case-status ->
         [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen a byl zakázán.
        *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen a byl zakázán.
     }
+details-notification-unsigned-and-disabled2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen a byl zakázán.
+           *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen a byl zakázán.
+        }
 details-notification-unsigned-and-disabled-link = Více informací
 details-notification-unsigned =
     { -brand-short-name.case-status ->
         [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
        *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen. Používejte ho obezřetně.
     }
+details-notification-unsigned2 =
+    .message =
+        { -brand-short-name.case-status ->
+            [with-cases] Doplněk { $name } nemohl být pro použití ve { -brand-short-name(case: "loc") } ověřen. Používejte ho obezřetně.
+           *[no-cases] Doplněk { $name } nemohl být pro použití v aplikaci { -brand-short-name } ověřen. Používejte ho obezřetně.
+        }
 details-notification-unsigned-link = Více informací
 details-notification-blocked = Doplněk { $name } byl zakázán kvůli problémům se zabezpečením nebo stabilitou.
+details-notification-blocked2 =
+    .message = Doplněk { $name } byl zakázán kvůli problémům se zabezpečením nebo stabilitou.
 details-notification-blocked-link = Více informací
 details-notification-softblocked = Doplněk { $name } způsobuje bezpečnostní a výkonnostní problémy.
+details-notification-softblocked2 =
+    .message = Doplněk { $name } způsobuje bezpečnostní a výkonnostní problémy.
 details-notification-softblocked-link = Více informací
 details-notification-gmp-pending = { $name } bude brzy nainstalován.
