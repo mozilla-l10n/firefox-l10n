@@ -122,9 +122,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.
 extensions-warning-check-compatibility = ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.
+extensions-warning-safe-mode2 =
+    .message = બધા ઍડ-ઓન સલામત સ્થિતિ દ્દારા નિષ્ક્રિય કરી દેવામાં આવ્યા છે.
+extensions-warning-check-compatibility2 =
+    .message = ઍડ-ઓન સુસંગતતા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારી પાસે અસુસંગત ઍડ-ઓન હોઇ શકે છે.
 extensions-warning-check-compatibility-button = સક્રિય
     .title = ઍડ-ઓન સુસંગતતા ચકાસણીને સક્રિય કરો
 extensions-warning-update-security = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.
+extensions-warning-update-security2 =
+    .message = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણી નિષ્ક્રિય થયેલ છે. તમારે સુધારાઓ વડે સમાધાન કરી શકો છો.
 extensions-warning-update-security-button = સક્રિય
     .title = ઍડ-ઓન સુધારા સુરક્ષા ચકાસણીને સક્રિય કરો
 
