@@ -225,6 +225,9 @@ header-back-button =
 discopane-intro = Ang mga extension at tema ay parang mga app sa iyong browser, pwede kang makapagprotekta ng mga password, mag-download ng video, maghanap ng mga binebentang bagay, magharang ng mga nakakabwiset na ad, baguhin ang itsura ng browser mo, at iba pa. Ang mga maliliit na software na ito ay kadalasang ginagawa ng third party. Narito ang isang koleksyon na <a data-l10n-name="learn-more-trigger">minumungkahi</a> ng { -brand-product-name } para sa katangi-tanging seguridad, pagganap, at pag-andar.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Ang ilan sa mga rekomendasyong ito ay pasadya. Sila na binase sa ibang mga extension na iyong ikinabit, sa mga profile preference, at usage statistics.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Ang ilan sa mga rekomendasyong ito ay pasadya. Sila na binase sa ibang mga extension na iyong ikinabit, sa mga profile preference, at usage statistics.
 discopane-notice-learn-more = Alamin
 privacy-policy = Patakaran sa Pribasiya
 # Refers to the author of an add-on, shown below the name of the add-on.
