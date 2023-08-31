@@ -57,6 +57,8 @@ client-auth-window =
     .title = 개인 인증서 요청
 client-auth-site-description = 웹 사이트에서 신원을 보증할 인증서를 요청합니다.:
 client-auth-choose-cert = 제공할 인증서 선택:
+client-auth-send-no-certificate =
+    .label = 인증서를 보내지 않음
 client-auth-cert-details = 선택한 인증서 상세 정보
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
