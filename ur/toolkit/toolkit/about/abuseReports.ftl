@@ -39,8 +39,14 @@ abuse-report-messagebar-submitted-noremove = رپورٹ جمع کرنے کا ش�
 abuse-report-messagebar-removed-extension = رپورٹ جمع کرنے کا شکریہ۔ آپنے ایکسٹینشن { $addon-name }</span><span data-l10n-name="addon-name"> کو ہٹا دیا ہے۔
 abuse-report-messagebar-removed-theme = رپورٹ جمع کرنے کا شکریہ۔ آپنے تھیم{ $addon-name }</span><span data-l10n-name="addon-name"> کو ہٹا دیا ہے۔
 abuse-report-messagebar-error-recent-submit = <span data-l10n-name ="addon-name"> { $addon-name }</span> کے لئے رپورٹ نہیں بھیجی گئی تھی کیونکہ حال ہی میں ایک اور رپورٹ پیش کی گئی تھی۔
+abuse-report-messagebar-aborted2 =
+    .message = <span data-l10n-name = "addon-name"> { $addon-name } کی رپورٹ منسوخ کردی گئی۔
+abuse-report-messagebar-submitting2 =
+    .message = <span data-l10n-name = "addon-name"> { $addon-name } کیلئے رپورٹ بھیجنا۔
 abuse-report-messagebar-submitted-noremove2 =
     .message = رپورٹ جمع کرنے کا شکریہ۔
+abuse-report-messagebar-error-recent-submit2 =
+    .message = <span data-l10n-name ="addon-name"> { $addon-name } کے لئے رپورٹ نہیں بھیجی گئی تھی کیونکہ حال ہی میں ایک اور رپورٹ پیش کی گئی تھی۔
 
 ## Message bars actions.
 
