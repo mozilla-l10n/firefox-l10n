@@ -260,6 +260,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Enkele van deze aanbevelingen zijn gepersonaliseerd. Ze zijn gebaseerd op andere
     door u geïnstalleerde extensies, profielvoorkeuren en gebruiksstatistieken.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Enkele van deze aanbevelingen zijn gepersonaliseerd. Ze zijn gebaseerd op andere
+        door u geïnstalleerde extensies, profielvoorkeuren en gebruiksstatistieken.
 discopane-notice-learn-more = Meer info
 privacy-policy = Privacybeleid
 # Refers to the author of an add-on, shown below the name of the add-on.
