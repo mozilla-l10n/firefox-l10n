@@ -57,6 +57,11 @@ client-auth-window =
     .title = 使用者識別需求
 client-auth-site-description = 此網站要求您提供可用來識別您自己的憑證:
 client-auth-choose-cert = 選擇一項憑證以做為識別:
+client-auth-send-no-certificate =
+    .label = 不要傳送憑證
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = 「{ $hostname }」要求您提供可用來識別您自己的憑證：
 client-auth-cert-details = 所選憑證的詳細資訊:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -73,13 +78,13 @@ client-auth-cert-details-validity-period = 從 { $notBefore } 到 { $notAfter } 
 client-auth-cert-details-key-usages = 金鑰用途：{ $keyUsages }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
-client-auth-cert-details-email-addresses = 電子郵件地址: { $emailAddresses }
+client-auth-cert-details-email-addresses = 電子郵件地址：{ $emailAddresses }
 # Variables:
 # $issuedBy (String) - The issuer common name of the certificate
-client-auth-cert-details-issued-by = 簽發者: { $issuedBy }
+client-auth-cert-details-issued-by = 簽發者：{ $issuedBy }
 # Variables:
 # $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
-client-auth-cert-details-stored-on = 儲存於: { $storedOn }
+client-auth-cert-details-stored-on = 儲存於：{ $storedOn }
 client-auth-cert-remember-box =
     .label = 記住此決定
 
