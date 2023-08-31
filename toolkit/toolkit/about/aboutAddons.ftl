@@ -169,9 +169,15 @@ addon-sitepermission-host = Oprávnění přístupu k webovým stránkám { $hos
 
 extensions-warning-safe-mode = V nouzovém režimu jsou všechny doplňky zakázány.
 extensions-warning-check-compatibility = Kontrola kompatibility doplňků je zakázána. Aplikace může obsahovat nekompatibilní doplňky.
+extensions-warning-safe-mode2 =
+    .message = V nouzovém režimu jsou všechny doplňky zakázány.
+extensions-warning-check-compatibility2 =
+    .message = Kontrola kompatibility doplňků je zakázána. Aplikace může obsahovat nekompatibilní doplňky.
 extensions-warning-check-compatibility-button = Povolit
     .title = Povolí kontrolu kompatibility doplňků
 extensions-warning-update-security = Kontrola bezpečné aktualizace doplňků je zakázána. Aplikace může být pomocí aktualizací napadena.
+extensions-warning-update-security2 =
+    .message = Kontrola bezpečné aktualizace doplňků je zakázána. Aplikace může být pomocí aktualizací napadena.
 extensions-warning-update-security-button = Povolit
     .title = Povolí kontrolu bezpečné aktualizace doplňků
 extensions-warning-imported-addons =
