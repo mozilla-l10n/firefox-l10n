@@ -35,11 +35,17 @@ download-cert-view-text = CA சான்றிதழை சோதி
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = பயனர் கண்டுபிடிக்கும் கோரிக்கை
 client-auth-site-description = இந்த தளம் நீங்களாகவே சான்றிதழுடன் சரிபார்க்க சொல்கிறது:
 client-auth-choose-cert = அடையாளமாக காட்ட வேண்டிய சான்றிதழ தேர்வு செய்யவும்:
 client-auth-cert-details = தேர்ந்தெடுக்கப்பட்ட சான்றிதழின் விவரங்கள்:
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = சேமிக்கப்பட்டது: { $storedOn }
 
 ## Set password (p12) dialog
 
@@ -51,8 +57,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = சான்றிதழ் காப்பு கடவுச்சொல் (மீண்டும்):
 set-password-reminder = முக்கியம்: உங்கள் சான்றிதழ் காப்பு கடவுச்சொல்லை நீங்கள் மறந்திருந்தால், கோப்பை மீட்க முடியாது. எனவே பாதுகாப்பான இடத்தில் கடவுச்சொல்லை பதிவு செய்துகொள்ளவும்.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
