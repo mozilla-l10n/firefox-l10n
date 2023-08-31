@@ -8,22 +8,18 @@ password-quality-meter = Дараҷаи сифати ниҳонвожа
 
 change-device-password-window =
     .title = Иваз кардани ниҳонвожа
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Дастгоҳи амният: { $tokenName }
 change-password-old = Ниҳонвожаи ҷорӣ:
 change-password-new = Ниҳонвожаи нав:
 change-password-reenter = Ниҳонвожаи нав (такроран):
-
 pippki-failed-pw-change = Ниҳонвожа тағйир дода намешавад.
 pippki-incorrect-pw = Шумо ниҳонвожаи ҷориро нодуруст ворид кардед. Лутфан, аз нав кӯшиш кунед.
 pippki-pw-change-ok = Ниҳонвожа бо муваффақият иваз карда шуд.
-
 pippki-pw-empty-warning = Ниҳонвожаҳо ва калидҳои махфии нигоҳдошташудаи шумо ҳифз карда намешаванд.
 pippki-pw-erased-ok = Шумо ниҳонвожаи худро нест кардед. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Диққат! Шумо ба қарор омадед, ки ниҳонвожаро дигар истифода намебаред. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Айни ҳол шумо дар реҷаи «FIPS» қарор доред. Реҷаи «FIPS» талаб мекунад, ки ниҳонвожа танзим карда шавад.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Аз нав танзим кардан
 reset-primary-password-text = Агар шумо ниҳонвожаи асосии худро аз нав танзим кунед, ҳамаи ниҳонвожаҳои нигоҳдошташудаи шумо барои сомонаҳо ва почтаи электронӣ, гувоҳномаҳои шахсӣ ва калидҳои махфӣ гум карда мешаванд. Шумо мутмаин ҳастед, ки мехоҳед ниҳонвожаи асосии худро аз нав танзим кунед?
-
 pippki-reset-password-confirmation-title = Аз нав танзим кардани ниҳонвожаи асосӣ
 pippki-reset-password-confirmation-message = Ниҳонвожаи асосии шумо аз нав танзим карда шуд.
 
@@ -55,11 +50,38 @@ download-cert-view-text = Тафтиш кардани гувоҳномаи ма�
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Дархости муайянкунии корбар
 client-auth-site-description = Ин сомона дархост кард, ки шумо худро ба воситаи гувоҳнома муайян кунед:
 client-auth-choose-cert = Гувоҳномаеро, ки ҳамчун муайянкунӣ пешниҳод мекунед, интихоб кунед:
 client-auth-cert-details = Тафсилоти гувоҳномаи интихобшуда:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Дода шуд ба: «{ $issuedTo }»
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Рақами силсилавӣ: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Муҳлати эътибор аз { $notBefore } то { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Истифодабарии калид: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = Нишониҳои почтаи электронӣ: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Дода шуд аз: «{ $issuedBy }»
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Захирагоҳ: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Ин қарор дар хотир нигоҳ дошта шавад
 
 ## Set password (p12) dialog
 
@@ -71,8 +93,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Ниҳонвожаи нусхаи эҳтиётии гувоҳнома (такроран):
 set-password-reminder = Диққат: Агар шумо ниҳонвожаи нусхаи эҳтиётии гувоҳномаи худро фаромӯш кунед, шумо дигар наметавонед, ки ин нусхаи эҳтиётиро барқарор созед. Лутфан, онро сабт карда, дар ҷойи бехатар нигоҳ доред.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
