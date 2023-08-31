@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-extension = Dziynkujymy za posłanie raportu. Ro
 abuse-report-messagebar-removed-theme = Dziynkujymy za posłanie raportu. Motyw <span data-l10n-name="addon-name">{ $addon-name }</span> je skasowany.
 abuse-report-messagebar-error = Przi posyłaniu raportu ô <span data-l10n-name="addon-name">{ $addon-name }</span> pokozoł sie feler.
 abuse-report-messagebar-error-recent-submit = Raport ô rozszyrzyniu <span data-l10n-name="addon-name">{ $addon-name }</span> niy ma posłany, bo niydowno bōł posłany inkszy raport.
+abuse-report-messagebar-aborted2 =
+    .message = Raport ô rozszyrzyniu { $addon-name } je pociepany.
+abuse-report-messagebar-submitting2 =
+    .message = Posyłanie raportu ô rozszyrzyniu  { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Dziynkujymy za posłanie raportu. Chcesz skasować rozszyrzynie { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Dziynkujymy za posłanie raportu.
+abuse-report-messagebar-removed-extension2 =
+    .message = Dziynkujymy za posłanie raportu. Rozszyrzynie { $addon-name } je skasowane.
+abuse-report-messagebar-removed-theme2 =
+    .message = Dziynkujymy za posłanie raportu. Motyw { $addon-name } je skasowany.
+abuse-report-messagebar-error2 =
+    .message = Przi posyłaniu raportu ô { $addon-name } pokozoł sie feler.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Raport ô rozszyrzyniu { $addon-name } niy ma posłany, bo niydowno bōł posłany inkszy raport.
 
 ## Message bars actions.
 
