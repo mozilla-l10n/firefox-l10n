@@ -46,6 +46,14 @@ abuse-report-messagebar-removed-sitepermission = Gratias pro le invio de reporto
 abuse-report-messagebar-removed-theme = Gratias pro haber inviate un signalation. Tu ha removite le thema <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Un error occurreva durante le invio del signalation pro <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Le reporto pro <span data-l10n-name="addon-name">{ $addon-name }</span> non esseva inviate perque un altere reporto ha essite inviate recentemente.
+abuse-report-messagebar-aborted2 =
+    .message = Reporto pro { $addon-name } cancellate.
+abuse-report-messagebar-submitting2 =
+    .message = Invio de signalation pro { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Gratias pro le invio de reporto. Tu ha removite le additivo de permissiones de sito { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Le reporto pro { $addon-name } non esseva inviate perque un altere reporto ha essite inviate recentemente.
 
 ## Message bars actions.
 
