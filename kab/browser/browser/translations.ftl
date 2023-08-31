@@ -5,9 +5,42 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Suqel asebter-a
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Suqel asebter-a - Biṭa
+urlbar-translations-button-loading =
+    .tooltiptext = Tasuqqilt tettedduḍ
+translations-panel-settings-button =
+    .aria-label = Sefrek iɣewwaren n usuqqel
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } BETA
 
 ## Options in the Firefox Translations settings.
 
+translations-panel-settings-manage-languages =
+    .label = Sefrek tutlayin
+translations-panel-settings-about = Ɣef tsuqqilin deg { -brand-shorter-name }
+translations-panel-settings-about2 =
+    .label = Ɣef tsuqqilin deg { -brand-shorter-name }
+# Text displayed for the option to always translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-always-translate-language =
+    .label = Suqqel yal tikkelt { $language }
+translations-panel-settings-always-translate-unknown-language =
+    .label = Suqqel yal tikkelt tutlayt-a
+translations-panel-settings-always-offer-translation =
+    .label = Sumer yal tikkelt tasuqqilt
+# Text displayed for the option to never translate a given language
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-settings-never-translate-language =
+    .label = Ur suqqul ara akk isebtar n { $language }
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -22,6 +55,17 @@ translations-panel-translate-cancel =
 translations-panel-learn-more-link = Issin ugar
 translations-panel-error-load-languages-hint-button =
     .label = Ɛreḍ tikelt nniḍen
+translations-panel-error-dismiss-button =
+    .label = Awi-t
+translations-panel-error-change-button =
+    .label = Beddel tutlayt n uɣbalu
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = Nesḥassef, ur nessefrak ara { $language } akka tura.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
@@ -48,12 +92,6 @@ translations-manage-settings-button =
 translations-manage-all-language = Meṛṛa tutlayin
 translations-manage-download-button = Sader
 translations-manage-delete-button = Kkes
-translations-manage-language-download-button =
-    .label = Sader
-    .accesskey = S
-translations-manage-language-delete-button =
-    .label = Kkes
-    .accesskey = e
 translations-manage-language-install-button =
     .label = Sebded
 translations-manage-language-install-all-button =
@@ -64,5 +102,25 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Kkes kullec
     .accesskey = e
+translations-settings-title =
+    .title = Iɣewwaren n tsuqqilin
+    .style = min-width: 36em
+translations-settings-languages-column =
+    .label = Tutlayin
+translations-settings-remove-language-button =
+    .label = Kkes tutlayt
+    .accesskey = K
+translations-settings-remove-all-languages-button =
+    .label = Kkes akk tutlayin
+    .accesskey = e
 translations-settings-sites-column =
     .label = Ismal web
+translations-settings-remove-site-button =
+    .label = Kkes asmel
+    .accesskey = A
+translations-settings-remove-all-sites-button =
+    .label = Kkes akk ismal
+    .accesskey = m
+translations-settings-close-dialog =
+    .buttonlabelaccept = Mdel
+    .buttonaccesskeyaccept = M
