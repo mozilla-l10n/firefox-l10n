@@ -105,9 +105,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode = Tá gach Breiseán díchumasaithe sa Mhód Sábháilteachta.
 extensions-warning-check-compatibility = Tá seiceáil chomhoiriúnacht na mBreiseán díchumasaithe. D'fhéadfadh Breiseáin neamh-chomhoiriúnacha a bheith agat.
+extensions-warning-safe-mode2 =
+    .message = Tá gach Breiseán díchumasaithe sa Mhód Sábháilteachta.
+extensions-warning-check-compatibility2 =
+    .message = Tá seiceáil chomhoiriúnacht na mBreiseán díchumasaithe. D'fhéadfadh Breiseáin neamh-chomhoiriúnacha a bheith agat.
 extensions-warning-check-compatibility-button = Cumasaigh
     .title = Cumasaigh seiceáil chomhoiriúnacht na mbreiseán
 extensions-warning-update-security = Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.
+extensions-warning-update-security2 =
+    .message = Tá seiceáil shlándáil na mbreiseán díchumasaithe. D'fhéadfadh nuashonruithe dochar a dhéanamh.
 extensions-warning-update-security-button = Cumasaigh
     .title = Cumasaigh seiceáil slándála nuashonrú na mbreiseán
 
