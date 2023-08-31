@@ -59,6 +59,9 @@ client-auth-site-description = Tute sydło je požadało, zo wy sam so přezc er
 client-auth-choose-cert = Wubjerće certifikat za identifikaciju:
 client-auth-send-no-certificate =
     .label = Certifikat njesłać
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = „{ $hostname }“ je požadał, zo so z certifikatom identifikujeće:
 client-auth-cert-details = Podrobnosće wubraneho certifikata:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
