@@ -44,6 +44,24 @@ abuse-report-messagebar-removed-sitepermission = 感謝您回報。已移除 <sp
 abuse-report-messagebar-removed-theme = 感謝您回報。已移除 <span data-l10n-name="addon-name">{ $addon-name }</span> 佈景主題。
 abuse-report-messagebar-error = 傳送<span data-l10n-name="addon-name">{ $addon-name }</span> 的報告時，發生錯誤。
 abuse-report-messagebar-error-recent-submit = 由於最近傳送過另一份報告，並未傳送 <span data-l10n-name="addon-name">{ $addon-name }</span> 的報告。
+abuse-report-messagebar-aborted2 =
+    .message = 已取消回報 { $addon-name }。
+abuse-report-messagebar-submitting2 =
+    .message = 正在傳送 { $addon-name } 的報告。
+abuse-report-messagebar-submitted2 =
+    .message = 感謝您回報。您想要移除 { $addon-name } 嗎？
+abuse-report-messagebar-submitted-noremove2 =
+    .message = 感謝您回報。
+abuse-report-messagebar-removed-extension2 =
+    .message = 感謝您回報。已移除 { $addon-name } 擴充套件。
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = 感謝您回報。已移除 { $addon-name } 網站權限附加元件。
+abuse-report-messagebar-removed-theme2 =
+    .message = 感謝您回報。已移除 { $addon-name } 佈景主題。
+abuse-report-messagebar-error2 =
+    .message = 傳送{ $addon-name } 的報告時，發生錯誤。
+abuse-report-messagebar-error-recent-submit2 =
+    .message = 由於最近傳送過另一份報告，並未傳送 { $addon-name } 的報告。
 
 ## Message bars actions.
 
