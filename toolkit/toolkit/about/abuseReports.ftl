@@ -46,6 +46,8 @@ abuse-report-messagebar-removed-sitepermission = ਰਿਪੋਰਟ ਦੇਣ �
 abuse-report-messagebar-removed-theme = ਰਿਪੋਰਟ ਭੇਜਣ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ। ਤੁਸੀਂ ਥੀਮ  <span data-l10n-name="addon-name">{ $addon-name }</span> ਨੂੰ ਹਟਾ ਚੁੱਕੇ ਹੋ।
 abuse-report-messagebar-error = <span data-l10n-name="addon-name">{ $addon-name }</span> ਬਾਰੇ ਰਿਪੋਰਟ ਭੇਜਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।
 abuse-report-messagebar-error-recent-submit = ਹੁਣੇ ਹੁਣੇ ਇੱਕ ਹੋਰ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾਣ ਕਰਕੇ <span data-l10n-name="addon-name">{ $addon-name }</span> ਬਾਰੇ ਰਿਪੋਰਟ ਭੇਜੀ ਨਹੀਂ ਗਈ ਸੀ।
+abuse-report-messagebar-aborted2 =
+    .message = { $addon-name } ਲਈ ਰਿਪੋਰਟ ਰੱਦ ਕੀਤੀ ਹੈ।
 abuse-report-messagebar-submitting2 =
     .message = { $addon-name } ਲਈ ਰਿਪੋਰਟ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ।
 abuse-report-messagebar-submitted2 =
