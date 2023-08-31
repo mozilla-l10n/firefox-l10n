@@ -319,6 +319,9 @@ addon-detail-homepage-label = Hjemmeside
 addon-detail-rating-label = Vurdering
 # Message for add-ons with a staged pending update.
 install-postponed-message = Denne utvidelsen vil bli oppdatert når { -brand-short-name } starter på nytt.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Denne utvidelsen vil bli oppdatert når { -brand-short-name } starter på nytt.
 install-postponed-button = Oppdater nå
 # The average rating that the add-on has received.
 # Variables:
