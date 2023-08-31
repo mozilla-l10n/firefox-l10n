@@ -48,6 +48,22 @@ abuse-report-messagebar-removed-sitepermission = Спасибо за отпра�
 abuse-report-messagebar-removed-theme = Спасибо за отправку жалобы. Вы удалили тему <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Произошла ошибка при отправке жалобы на <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Жалоба на <span data-l10n-name="addon-name">{ $addon-name }</span> не была отправлена, так как другая жалоба уже была недавно отправлена.
+abuse-report-messagebar-aborted2 =
+    .message = Жалоба на { $addon-name } отменена.
+abuse-report-messagebar-submitting2 =
+    .message = Отправка жалобы на { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Спасибо за отправку жалобы. Вы хотите удалить { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Спасибо за отправку жалобы.
+abuse-report-messagebar-removed-extension2 =
+    .message = Спасибо за отправку жалобы. Вы удалили расширение { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Спасибо за отправку жалобы. Вы удалили тему { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Произошла ошибка при отправке жалобы на { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Жалоба на { $addon-name } не была отправлена, так как другая жалоба уже была недавно отправлена.
 
 ## Message bars actions.
 
