@@ -156,9 +156,15 @@ addon-sitepermission-host = Ruya'oj q'ij ruxaq richin { $host }
 
 extensions-warning-safe-mode = Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.
 extensions-warning-check-compatibility = Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.
+extensions-warning-safe-mode2 =
+    .message = Konojel ri taq tz'aqat xechup pa ri ütz rub'eyal.
+extensions-warning-check-compatibility2 =
+    .message = Chupül ri runuk'oxik richin we nikik'äm ki' ri taq tz'aqat. Rik'in jub'a' k'o jujun taq tz'aqat, ri man nikik'äm ta ki'.
 extensions-warning-check-compatibility-button = Titzij
     .title = Titzij ri runik'oxik richin chi nikik'äm ki' ri taq tz'aqat.
 extensions-warning-update-security = Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.
+extensions-warning-update-security2 =
+    .message = Chupül ri runik'oxik chajinïk richin kik'exoj taq tz'aqat. Rik'in jub'a' k'o pa k'ayewal ri awokik'amaya'l kuma ri taq k'exoj.
 extensions-warning-update-security-button = Titzij
     .title = Titzij ri ya'öl retal chajinïk richin nik'ex ri tz'aqat
 
