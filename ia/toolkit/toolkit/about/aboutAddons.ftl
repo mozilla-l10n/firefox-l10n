@@ -151,6 +151,8 @@ addon-sitepermission-host = Permissos de sito pro { $host }
 
 extensions-warning-safe-mode = Tote le additivos ha essite disactivate per le modo secur.
 extensions-warning-check-compatibility = Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.
+extensions-warning-check-compatibility2 =
+    .message = Le verification de compatibilitate de additivos es inactive. Tu pote haber additivos incompatibile.
 extensions-warning-check-compatibility-button = Activar
     .title = Activar le verification de compatibilitate de additivos
 extensions-warning-update-security = Le verification de securitate pro le actualisation del additivos es inactive. Le actualisationes poterea damnificar tu systema.
