@@ -443,13 +443,21 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } er inkompatibel med { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } er inkompatibel med { -brand-short-name } { $version }.
 details-notification-incompatible-link = Mere information
 details-notification-unsigned-and-disabled = { $name } kunne ikke verificeres til brug i { -brand-short-name } og er blevet deaktiveret.
 details-notification-unsigned-and-disabled-link = Læs mere
 details-notification-unsigned = { $name } kunne ikke verificeres til brug i { -brand-short-name }. Fortsæt på eget ansvar.
 details-notification-unsigned-link = Læs mere
 details-notification-blocked = { $name } er blevet deaktiveret af sikkerheds- eller stabilitetsgrunde.
+details-notification-blocked2 =
+    .message = { $name } er blevet deaktiveret af sikkerheds- eller stabilitetsgrunde.
 details-notification-blocked-link = Mere information
 details-notification-softblocked = { $name } har kendte sikkerheds- og/eller stabilitetsproblemer.
+details-notification-softblocked2 =
+    .message = { $name } har kendte sikkerheds- og/eller stabilitetsproblemer.
 details-notification-softblocked-link = Mere information
 details-notification-gmp-pending = { $name } vil snart blive installeret.
