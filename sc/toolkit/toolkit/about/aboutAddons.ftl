@@ -216,6 +216,11 @@ shortcuts-duplicate = Curtzadòrgiu repìtidu
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } est giai impreadu comente curtzadòrgiu in prus de un'ocasione. Is curtzadòrgios repìtidos podent causare unu cumportamentu inabetadu.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } est giai impreadu comente curtzadòrgiu in prus de un'ocasione. Is curtzadòrgios repìtidos podent causare unu cumportamentu inabetadu.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
