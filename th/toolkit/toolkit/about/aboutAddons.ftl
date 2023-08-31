@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = เปิดใช้งาน
     .title = เปิดใช้งานการตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริม
 extensions-warning-imported-addons = โปรดติดตั้งส่วนขยายที่นำเข้าไปยัง { -brand-short-name } ให้เสร็จสิ้น
+extensions-warning-imported-addons2 =
+    .message = โปรดติดตั้งส่วนขยายที่นำเข้าไปยัง { -brand-short-name } ให้เสร็จสิ้น
 extensions-warning-imported-addons-button = ติดตั้งส่วนขยาย
 
 ## Strings connected to add-on updates
