@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך
+do-not-track-description2 =
+    .label = שליחת בקשה של ״נא לא לעקוב״ לאתרים
+    .accesskey = נ
 do-not-track-learn-more = מידע נוסף
 do-not-track-option-default-content-blocking-known =
     .label = רק כאשר { -brand-short-name } מוגדר לחסום רכיבי מעקב מוכרים
 do-not-track-option-always =
     .label = תמיד
+global-privacy-control-description =
+    .label = להורות לאתרים לא למכור או לשתף את הנתונים שלי
+    .accesskey = ס
 settings-page-title = הגדרות
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
