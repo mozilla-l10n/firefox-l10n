@@ -383,3 +383,5 @@ details-notification-blocked-link = වැඩිදුර තොරතුරු
 details-notification-softblocked = { $name } හි ආරක්‍ෂණ හෝ ස්ථායිතා දෝෂ තිබේ.
 details-notification-softblocked-link = වැඩිදුර තොරතුරු
 details-notification-gmp-pending = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
+details-notification-gmp-pending2 =
+    .message = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
