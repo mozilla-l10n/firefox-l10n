@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-page-title = এড-অনসমূহৰ ব্যৱস্থাপক
-
 search-header =
     .placeholder = addons.mozilla.org-ত সন্ধান কৰক
     .searchbuttonlabel = সন্ধান কৰক
@@ -15,80 +14,57 @@ list-empty-get-extensions-message = <a data-l10n-name="get-extensions">{ $domain
 
 ##
 
-
 list-empty-installed =
     .value = ইনস্টল হোৱা এই ধৰণৰ বাবে আপোনাৰ কোনো এড-অন নাই
-
 list-empty-available-updates =
     .value = কোনো আপডেইট পোৱা নগল
-
 list-empty-recent-updates =
     .value = আপুনি শেহতীয়াভাৱে কোনো এড-অন আপডেইট কৰা নাই
-
 list-empty-find-updates =
     .label = আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক
-
 list-empty-button =
     .label = এড-অন সমূহুৰ বিষয়ে অধিক জানক
-
 help-button = এড-অন সমৰ্থন
 sidebar-help-button-title =
     .title = এড-অন সমৰ্থন
-
 addons-settings-button = { -brand-short-name } ছেটিংছ
 sidebar-settings-button-title =
     .title = { -brand-short-name } ছেটিংছ
-
 show-unsigned-extensions-button =
     .label = কিছুমান এক্সটেনশ্যনৰ সত্যাসত্য নিৰূপণ কৰিব পৰা নগ'ল
-
 show-all-extensions-button =
     .label = সকলো এক্সটেনশ্যন দেখুৱাওক
-
 detail-version =
     .label = সংস্কৰণ
-
 detail-last-updated =
     .label = সৰবশেষ আপডেইট কৰা হৈছিল
-
 detail-contributions-description = এই এড-অনৰ উন্নয়কে বিচাৰে যে আপুনি সৰু এটা বৰঙনি আগবঢ়াই ইয়াৰ উন্নয়ন কাৰ্য্য সমৰ্থন কৰে।
-
 detail-contributions-button = অৱদান দিয়ক
     .title = এই এড-অনৰ বিকাশত অৰিহণা যোগাওক
     .accesskey = C
-
 detail-update-type =
     .value = স্বচালিত আপডেইটসমূহ
-
 detail-update-default =
     .label = অবিকল্পিত
     .tooltiptext = আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰিব যদিহে সেইটো অবিকল্পিত হয়
-
 detail-update-automatic =
     .label = অন
     .tooltiptext = আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক
-
 detail-update-manual =
     .label = অফ
     .tooltiptext = আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল নকৰিব
-
 detail-home =
     .label = ঘৰপৃষ্ঠা
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = এড-অন আলেখ্যন
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = আপডেইটসমূহৰ কাৰণে নীৰিক্ষণ কৰক
     .accesskey = f
     .tooltiptext = এই এড-অনৰ কাৰণে আপডেইটসমূহ নীৰিক্ষণ কৰক
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -105,18 +81,13 @@ detail-show-preferences =
             [windows] এই এড-অনৰ বিকল্পসমূহ পৰিৱৰ্তন কৰক
            *[other] এই এড-অনৰ পছন্দসমূহ পৰিৱৰ্তন কৰক
         }
-
 detail-rating =
     .value = হাৰাংক
-
 addon-restart-now =
     .label = এতিয়া পুনৰাম্ভ কৰক
-
 legacy-warning-show-legacy = লিগেচী এক্সটেনশ্যনসমূহ দেখুৱাওক
-
 legacy-extensions =
     .value = লিগেচী এক্সটেনশ্যনসমূহ
-
 addon-category-extension = সম্প্ৰসাৰনসমূহ
 addon-category-extension-title =
     .title = সম্প্ৰসাৰনসমূহ
@@ -194,9 +165,7 @@ addon-open-about-debugging = এড-অন ডিবাগ কৰক
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = এক্সটেনশ্যনৰ চমুপথসমূহ পৰিচালনা কৰক
     .accesskey = S
-
 shortcuts-no-addons = আপোনাৰ কোনো এক্সটেনশ্যন সক্ৰিয় কৰা হোৱা নাই।
-
 shortcuts-modifier-mac = Ctrl, Alt বা ⌘ অন্তৰ্ভুক্ত কৰক
 shortcuts-invalid = অবৈধ সংমিশ্ৰণ
 
@@ -213,27 +182,23 @@ discopane-notice-learn-more = অধিক জানক
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
 
+
 ## Page headings
 
 locale-heading = আপোনাৰ ভাষাসমূহ পৰিচালনা কৰক
 shortcuts-heading = এক্সটেনশ্যনৰ চমুপথসমূহ পৰিচালনা কৰক
-
 default-heading-search-label = অধিক এড-অন বিচাৰক
 addons-heading-search-input =
     .placeholder = addons.mozilla.org-ত সন্ধান কৰক
-
 addon-page-options-button =
     .title = সকলো এড-অনৰ পৰা সঁজুলিসমূহ
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -242,17 +207,16 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } ৰ লগত খাপ খাব নোৱাৰে
-
 details-notification-unsigned-and-disabled = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল আৰু নিষ্ক্ৰিয় কৰা হৈছে।
 details-notification-unsigned-and-disabled-link = অধিক তথ্য
-
 details-notification-unsigned = { -brand-short-name }-ত ব্যৱহাৰ কৰিবলৈ { $name } সত্যাপন কৰিব পৰা নগ'ল। সাৱধানে আগবাঢ়ক।
 details-notification-unsigned-link = অধিক তথ্য
-
 details-notification-blocked = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয়ৰ কাৰণে অসামৰ্থবান কৰা হৈছে।
+details-notification-blocked2 =
+    .message = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয়ৰ কাৰণে অসামৰ্থবান কৰা হৈছে।
 details-notification-blocked-link = অধিক তথ্য
-
 details-notification-softblocked = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয় সৃষ্টি কৰাৰ কাৰণে জনাজাত
+details-notification-softblocked2 =
+    .message = { $name } সুৰক্ষা অথবা স্থিৰতা বিষয় সৃষ্টি কৰাৰ কাৰণে জনাজাত
 details-notification-softblocked-link = অধিক তথ্য
-
 details-notification-gmp-pending = { $name } খন্তেক পাছতে ইনষ্টল কৰা হ'ব।
