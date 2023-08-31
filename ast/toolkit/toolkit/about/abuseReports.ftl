@@ -41,6 +41,22 @@ abuse-report-messagebar-removed-extension = Gracies por unviar un informe. Quite
 abuse-report-messagebar-removed-theme = Gracies por unviar un informe. Quitesti l'estilu <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = hebo un fallu al unviar l'informe de «<span data-l10n-name="addon-name">{ $addon-name }</span>».
 abuse-report-messagebar-error-recent-submit = L'informe de «<span data-l10n-name="addon-name">{ $addon-name }</span>» nun s'unvió porque yá s'unvió otru apocayá.
+abuse-report-messagebar-aborted2 =
+    .message = Encaboxóse l'informe de { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Unviando l'informe de { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Gracies por unviar un informe. ¿Quies quitar { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Gracies por unviar un informe.
+abuse-report-messagebar-removed-extension2 =
+    .message = Gracies por unviar un informe. Quitesti la estensión { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Gracies por unviar un informe. Quitesti l'estilu { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = hebo un fallu al unviar l'informe de «{ $addon-name }».
+abuse-report-messagebar-error-recent-submit2 =
+    .message = L'informe de «{ $addon-name }» nun s'unvió porque yá s'unvió otru apocayá.
 
 ## Message bars actions.
 
