@@ -257,6 +257,11 @@ discopane-intro =
 discopane-notice-recommendations =
     Unas d'aquestas recomandacions son personalizadas. Son basadas sus d'autras
     extensions qu'avètz installadas, las preferéncias del perfil e las estatisticas d'utilizacion.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Unas d'aquestas recomandacions son personalizadas. Son basadas sus d'autras
+        extensions qu'avètz installadas, las preferéncias del perfil e las estatisticas d'utilizacion.
 discopane-notice-learn-more = Ne saber mai
 privacy-policy = Politica de confidencialitat
 # Refers to the author of an add-on, shown below the name of the add-on.
