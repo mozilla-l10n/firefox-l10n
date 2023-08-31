@@ -46,6 +46,24 @@ abuse-report-messagebar-removed-sitepermission = Täname raporti saatmise eest. 
 abuse-report-messagebar-removed-theme = Täname raporti saatmise eest. Teema <span data-l10n-name="addon-name">{ $addon-name }</span> on eemaldatud.
 abuse-report-messagebar-error = Raporti saatmisel lisa <span data-l10n-name="addon-name">{ $addon-name }</span> kohta esines viga.
 abuse-report-messagebar-error-recent-submit = Raportit lisa <span data-l10n-name="addon-name">{ $addon-name }</span> kohta ei saadetud, sest hiljuti saadeti veel üks raport.
+abuse-report-messagebar-aborted2 =
+    .message = Lisast { $addon-name } raporteerimine katkestati.
+abuse-report-messagebar-submitting2 =
+    .message = Raporti saatmine lisa { $addon-name } kohta.
+abuse-report-messagebar-submitted2 =
+    .message = Täname raporti saatmise eest. Kas soovid lisa { $addon-name } eemaldada?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Täname raporti saatmise eest.
+abuse-report-messagebar-removed-extension2 =
+    .message = Täname raporti saatmise eest. Lisa { $addon-name } on eemaldatud.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Täname raporti saatmise eest. Saidi õiguste lisa { $addon-name } on eemaldatud.
+abuse-report-messagebar-removed-theme2 =
+    .message = Täname raporti saatmise eest. Teema { $addon-name } on eemaldatud.
+abuse-report-messagebar-error2 =
+    .message = Raporti saatmisel lisa { $addon-name } kohta esines viga.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Raportit lisa { $addon-name } kohta ei saadetud, sest hiljuti saadeti veel üks raport.
 
 ## Message bars actions.
 
