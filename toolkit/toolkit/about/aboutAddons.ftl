@@ -165,6 +165,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = 启用
     .title = 启用附加组件安全更新检查
 extensions-warning-imported-addons = 请完成安装导入至 { -brand-short-name } 的扩展。
+extensions-warning-imported-addons2 =
+    .message = 请完成安装导入至 { -brand-short-name } 的扩展。
 extensions-warning-imported-addons-button = 安装扩展
 
 ## Strings connected to add-on updates
