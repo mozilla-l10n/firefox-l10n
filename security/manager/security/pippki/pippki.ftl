@@ -8,22 +8,18 @@ password-quality-meter = Valitaziun da la qualitad dal pled-clav
 
 change-device-password-window =
     .title = Midar il pled-clav
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Modul da criptografia: { $tokenName }
 change-password-old = Pled-clav actual:
 change-password-new = Pled-clav nov:
 change-password-reenter = Pled-clav nov (repeter):
-
 pippki-failed-pw-change = Impussibel da midar il pled-clav.
 pippki-incorrect-pw = Ti n'has betg endatà il dretg pled-clav actual. Emprova anc ina giada.
 pippki-pw-change-ok = Midà cun success il pled-clav.
-
 pippki-pw-empty-warning = Tes pleds-clav memorisads e tias clavs privatas na vegnan betg protegids.
 pippki-pw-erased-ok = Ti has stizzà tes pled-clav. { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Attenziun! Ti has decidì da betg utilisar in pled-clav. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Ti es actualmain en il modus FIPS. FIPS pretenda in pled-clav (betg vid).
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Redefinir
 reset-primary-password-text = Sche tes pled-clav universal vegn redefinì, perdas ti tut tes pleds-clav memorisads da web e dad e-mail, tes certificats persunals e tias clavs privatas. Vuls ti propi redefinir tes pled-clav universal?
-
 pippki-reset-password-confirmation-title = Redefinir il pled-clav universal
 pippki-reset-password-confirmation-message = Tes pled-clav universal è vegnì redefinì.
 
@@ -55,11 +50,33 @@ download-cert-view-text = Controllar il certificat CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Dumonda d'identifitgar l'utilisader
 client-auth-site-description = Questa website pretenda che ti t'identifitgeschias cun in certificat:
 client-auth-choose-cert = Tscherna in certificat che vegn mussà sco identificaziun:
 client-auth-cert-details = Detagls dal certificat tschernì:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Emess a: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Numer da seria: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Valaivel dals { $notBefore } enfin ils { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Utilisaziun da la clav: { $keyUsages }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Emess da: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Memorisà sin: { $storedOn }
 
 ## Set password (p12) dialog
 
@@ -71,8 +88,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Pled-clav da segirezza dal certificat (repeter):
 set-password-reminder = Impurtant: sche ti emblidas tes pled-clav da segirezza dal certificat, na pos ti pli tard betg pli restaurar questa copia da segirezza. Al notescha per plaschair en in lieu segir.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
