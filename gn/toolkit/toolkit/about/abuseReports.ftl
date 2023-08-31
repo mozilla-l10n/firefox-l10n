@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Aguyje emondo haguére pe maran
 abuse-report-messagebar-removed-theme = Aguyje emondo haguére marandu. Emboguéma pe téma <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Oiko jejavy emondokuévo marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua.
 abuse-report-messagebar-error-recent-submit = Noñemondói marandu <span data-l10n-name="addon-name">{ $addon-name }</span> rehegua oñemondóma haguére ambue marandu.
+abuse-report-messagebar-aborted2 =
+    .message = Ojehejáma marandu { $addon-name } rehegua.
+abuse-report-messagebar-submitting2 =
+    .message = Emondohína marandu { $addon-name } peg̃uarã.
+abuse-report-messagebar-submitted2 =
+    .message = Aguyje emondo haguére marandu. ¿Emboguesépa { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Aguyje emondo haguére marandu.
+abuse-report-messagebar-removed-extension2 =
+    .message = Aguyje emondo haguére marandu. Emboguéma pe jepysokue { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Aguyje emondo haguére pe marandu’i. Emboguéma pe jepysokue Tenda ñemoneĩ { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Aguyje emondo haguére marandu. Emboguéma pe téma { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Oiko jejavy emondokuévo marandu { $addon-name } rehegua.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Noñemondói marandu { $addon-name } rehegua oñemondóma haguére ambue marandu.
 
 ## Message bars actions.
 
