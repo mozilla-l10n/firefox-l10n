@@ -48,6 +48,24 @@ abuse-report-messagebar-removed-sitepermission = Ευχαριστούμε για
 abuse-report-messagebar-removed-theme = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει το θέμα <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = Προέκυψε σφάλμα κατά την αποστολή της αναφοράς για το <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Η αναφορά για το <span data-l10n-name="addon-name">{ $addon-name }</span> δεν απεστάλη, επειδή μια άλλη αναφορά υπεβλήθη πρόσφατα.
+abuse-report-messagebar-aborted2 =
+    .message = Η αναφορά για το { $addon-name } ακυρώθηκε.
+abuse-report-messagebar-submitting2 =
+    .message = Αποστολή αναφοράς για το { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Ευχαριστούμε για την αναφορά σας. Θέλετε να αφαιρέσετε το { $addon-name };
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Ευχαριστούμε για την αναφορά σας.
+abuse-report-messagebar-removed-extension2 =
+    .message = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει την επέκταση { $addon-name }.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει το πρόσθετο αδειών ιστοτόπων { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Ευχαριστούμε για την αναφορά σας. Έχετε αφαιρέσει το θέμα { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = Προέκυψε σφάλμα κατά την αποστολή της αναφοράς για το { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Η αναφορά για το { $addon-name } δεν απεστάλη, επειδή μια άλλη αναφορά υπεβλήθη πρόσφατα.
 
 ## Message bars actions.
 
