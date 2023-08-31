@@ -151,9 +151,15 @@ addon-sitepermission-host = { $host } үшін сайт рұқсаттары
 
 extensions-warning-safe-mode = Барлық кеңейтулер қауіпсіз режимімен сөндірілген.
 extensions-warning-check-compatibility = Кеңейтулер үйлесімдігін тексеруді сөндіру. Сізде үйлесімсіз кеңейтулер бар болуы мүмкін.
+extensions-warning-safe-mode2 =
+    .message = Барлық кеңейтулер қауіпсіз режимімен сөндірілген.
+extensions-warning-check-compatibility2 =
+    .message = Кеңейтулер үйлесімдігін тексеруді сөндіру. Сізде үйлесімсіз кеңейтулер бар болуы мүмкін.
 extensions-warning-check-compatibility-button = Іске қосу
     .title = Кеңейтулер үйлесімдігін тексеруді іске қосу
 extensions-warning-update-security = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
+extensions-warning-update-security2 =
+    .message = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
 extensions-warning-update-security-button = Іске қосу
     .title = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
 extensions-warning-imported-addons = { -brand-short-name } ішіне импортталған кеңейтулер орнатуын аяқтаңыз.
