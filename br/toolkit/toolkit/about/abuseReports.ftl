@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-extension = Trugarez deoc'h evit bezañ kaset un
 abuse-report-messagebar-removed-theme = Trugarez deoc'h da vezañ kaset un danevell. Dilemet ho peus an neuz <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = C'hoarvezet eo ur fazi evit kas an danevell da <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = An danevell <span data-l10n-name="addon-name">{ $addon-name }</span> n'eo ket bet treuzkaset peogwir eo bet kaset unan all n'eus ket pell.
+abuse-report-messagebar-aborted2 =
+    .message = Disklêriañ { $addon-name } nullet.
+abuse-report-messagebar-submitting2 =
+    .message = O kas an disklêriadenn diwar-benn { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Trugarez deoc'h da vezañ kaset un danevell. Dilemel { $addon-name } a fell deoc'h?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Trugarez deoc'h da vezañ kaset un danevell.
+abuse-report-messagebar-removed-extension2 =
+    .message = Trugarez deoc'h evit bezañ kaset un danevell. Dilemet ho peus an astenn { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Trugarez deoc'h da vezañ kaset un danevell. Dilemet ho peus an neuz { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = C'hoarvezet eo ur fazi evit kas an danevell da { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = An danevell { $addon-name } n'eo ket bet treuzkaset peogwir eo bet kaset unan all n'eus ket pell.
 
 ## Message bars actions.
 
