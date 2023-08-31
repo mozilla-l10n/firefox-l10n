@@ -255,6 +255,9 @@ discopane-intro =
     prestaziun e funcziunalitad maximala.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Tschertas da questas recumandaziuns èn persunalisadas. Ellas sa basan sin autras extensiuns installadas, preferenzas dal profil e statisticas davart l'utilisaziun.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message = Tschertas da questas recumandaziuns èn persunalisadas. Ellas sa basan sin autras extensiuns installadas, preferenzas dal profil e statisticas davart l'utilisaziun.
 discopane-notice-learn-more = Ulteriuras infurmaziuns
 privacy-policy = Directivas per la protecziun da datas
 # Refers to the author of an add-on, shown below the name of the add-on.
