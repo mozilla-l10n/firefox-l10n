@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-extension = Thanks awfie fur submittin a report.
 abuse-report-messagebar-removed-theme = Thanks awfie fur submittin a report. Ye’ve remuived the theme <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error = There was a mishanter sendin the report fur <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = The report fur <span data-l10n-name="addon-name">{ $addon-name }</span> wisnae sent acause anither report wis submittit no lang syne.
+abuse-report-messagebar-aborted2 =
+    .message = Report for { $addon-name } cancelled.
+abuse-report-messagebar-submitting2 =
+    .message = Sendin report fur { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Thanks awfie fur submittin a report. Are ye wantin tae remuive { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Thanks awfie fur submittin a report.
+abuse-report-messagebar-removed-extension2 =
+    .message = Thanks awfie fur submittin a report. Ye’ve remuived the extension { $addon-name }.
+abuse-report-messagebar-removed-theme2 =
+    .message = Thanks awfie fur submittin a report. Ye’ve remuived the theme { $addon-name }.
+abuse-report-messagebar-error2 =
+    .message = There was a mishanter sendin the report fur { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = The report fur { $addon-name } wisnae sent acause anither report wis submittit no lang syne.
 
 ## Message bars actions.
 
