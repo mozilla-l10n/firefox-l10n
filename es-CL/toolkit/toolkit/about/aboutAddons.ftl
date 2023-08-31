@@ -151,12 +151,20 @@ addon-sitepermission-host = Permisos del sitio para { $host }
 
 extensions-warning-safe-mode = Todos los complementos fueron deshabilitados por el modo seguro.
 extensions-warning-check-compatibility = La verificación de compatibilidad de complementos está deshabilitada. Puedes tener complementos incompatibles.
+extensions-warning-safe-mode2 =
+    .message = Todos los complementos fueron deshabilitados por el modo seguro.
+extensions-warning-check-compatibility2 =
+    .message = La verificación de compatibilidad de complementos está deshabilitada. Puedes tener complementos incompatibles.
 extensions-warning-check-compatibility-button = Habilitar
     .title = Habilitar verificación de compatibilidad de complementos
 extensions-warning-update-security = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puedes estar en peligro por las actualizaciones.
+extensions-warning-update-security2 =
+    .message = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puedes estar en peligro por las actualizaciones.
 extensions-warning-update-security-button = Habilitar
     .title = Habilitar la verificación de actualizaciones de seguridad
 extensions-warning-imported-addons = Por favor, finalice la instalación de las extensiones que fueron importadas a { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Por favor, finalice la instalación de las extensiones que fueron importadas a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensiones
 
 ## Strings connected to add-on updates
