@@ -319,6 +319,9 @@ addon-detail-homepage-label = Domača stran
 addon-detail-rating-label = Ocena
 # Message for add-ons with a staged pending update.
 install-postponed-message = Razširitev se bo posodobila ob ponovnem zagonu { -brand-short-name(sklon: "rodilnik") }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Razširitev se bo posodobila ob ponovnem zagonu { -brand-short-name(sklon: "rodilnik") }.
 install-postponed-button = Posodobi zdaj
 # The average rating that the add-on has received.
 # Variables:
