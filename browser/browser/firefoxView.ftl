@@ -124,6 +124,7 @@ firefoxview-opentabs-focus-tab =
 firefoxview-show-more = Tampilkan lebih banyak
 firefoxview-show-less = Tampilkan lebih sedikit
 firefoxview-sort-history-by-date-label = Urut berdasarkan tanggal
+firefoxview-sort-history-by-site-label = Urut berdasarkan situs
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -159,4 +160,7 @@ firefoxview-import-history-header = Impor riwayat dari peramban lainnya
 
 
 ##
+
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
