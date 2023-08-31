@@ -35,11 +35,38 @@ download-cert-view-text = CA সার্টিফিকেট পরীক্�
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = ব্যবহারকারীর পরিচয়প্রমাণের অনুরোধ
 client-auth-site-description = এই সাইটে আপনাকে একটি সার্টিফিকেটের সাহায্যে নিজের পরিচয় প্রমাণ করার অনুরোধ জানানো হয়েছে:
 client-auth-choose-cert = পরিচয় প্রমাণ হিসাবে পেশ করার জন্য একটি সার্টিফিকেট প্রস্তুত করুন:
 client-auth-cert-details = নির্বাচিত সার্টিফিকেটের বিবরণ:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = ইস্যু হয়েছে: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = ক্রমিক নং: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = বৈধ { $notBefore } থেকে { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = মূল ব্যবহারপ্রণালী: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = ইমেইল ঠিকানা: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = ইস্যু করেছেন: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = জমা হয়েছে: { $storedOn }
+client-auth-cert-remember-box =
+    .label = এই সিদ্ধান্ত মনে রাখা হবে
 
 ## Set password (p12) dialog
 
@@ -51,8 +78,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড (পুনরায়):
 set-password-reminder = গুরুত্বপূর্ণ: সার্টিফিকেট ব্যাকআপ পাসওয়ার্ড হারিয়ে গেলে আপনি এই ব্যাকআপ পুনরুদ্ধার করতে সক্ষম হবেন না।  অনুগ্রহ করে এই পাসওয়ার্ডটি কোনো সুরক্ষিত স্থানে সংরক্ষণ করুন।
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
