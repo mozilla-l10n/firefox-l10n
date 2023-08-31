@@ -7,17 +7,13 @@
 
 
 ## Message bars descriptions.
-
-
-## Variables:
-##   $addon-name (string) - Name of the add-on
-
-## Message bars descriptions.
 ##
 ## Variables:
 ##   $addon-name (string) - Name of the add-on
 
 abuse-report-messagebar-aborted = Signalazziuni sfalluta pi <span data-l10n-name="addon-name">{ $addon-name }</span>.
+abuse-report-messagebar-aborted2 =
+    .message = Signalazziuni sfalluta pi { $addon-name }.
 
 ## Message bars actions.
 
