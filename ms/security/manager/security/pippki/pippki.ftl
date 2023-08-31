@@ -35,11 +35,24 @@ download-cert-view-text = Periksa sijil CA
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Permintaan Pengenalan Pengguna
 client-auth-site-description = Laman ini meminta anda memperkenalkan diri menggunakan sijil:
 client-auth-choose-cert = Pilih sijil untuk dijadikan sebagai pengenalan:
 client-auth-cert-details = Butiran sijil yang dipilih:
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Nombor siri: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Sah dari { $notBefore } hingga { $notAfter }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Dikeluarkan oleh: { $issuedBy }
 
 ## Set password (p12) dialog
 
@@ -51,8 +64,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Kata laluan sandaran sijil (lagi):
 set-password-reminder = Penting: Jika anda lupa kata laluan sandaran sijil anda, anda tidak akan dapat pulihkan sandaran ini lagi.  Sila catat di lokasi yang selamat.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
