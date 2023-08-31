@@ -35,11 +35,38 @@ download-cert-view-text = CA sertifikasını kontrol et
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Kullanıcı Belirleme Sorgulaması
 client-auth-site-description = Bu bölge sizin kendi sertifikanızın tanımlamasını istiyor:
 client-auth-choose-cert = Kimlik olaraq ibraz etilecek bir şeadetname saylañız:
 client-auth-cert-details = Seçilen sertifika detayları:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Kimge ihrac etilgeni: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Seri numarası: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = { $notBefore } - { $notAfter } arasında keçerli
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Anahtar qullanımları: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = E-poçta adresleri: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = İhraccı: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Üzerinde mağazlana: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Bu qararnı hatırla
 
 ## Set password (p12) dialog
 
@@ -51,8 +78,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Sertifika yedekleme parolası (tekrar):
 set-password-reminder = Önemli: Eğer sertifika yedekleme parolanızı unutursanız, bu yedeklemeyi daha sonra yeniden oluşturamazsınız. Lütfen bunu güvenli bir ortamda saklayın.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
