@@ -7,64 +7,47 @@ addons-page-title = Nkaho Hwɛsofo
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
-##
 
+##
 
 list-empty-installed =
     .value = Wo nninstɔl nkaho a wɔte sɛ yi.
-
 list-empty-available-updates =
     .value = Ennhu ntoso biara
-
 list-empty-recent-updates =
     .value = Wo nntoo nkaho biara so ndansa yi mu
-
 list-empty-find-updates =
     .label = Hwehwɛ Ntoso
-
 list-empty-button =
     .label = Sua ndeɛma bio fa nkaho ho
-
 detail-version =
     .label = vɛɛhyen
-
 detail-last-updated =
     .label = Ntoso a etwa-to
-
 detail-contributions-description = Sɔftwɛɛ adebɔfo ma kaho yi bisa wo sɛ wo bɛto wo nsa mu aboa no ama wɔetumi akɔ so etu kaho no mpon.
-
 detail-update-type =
     .value = Ntoso otomatik
-
 detail-update-default =
     .label = Difɔlt
     .tooltiptext = Instɔl ntosoɔ no sɛ ɛno ne dadaw noa
-
 detail-update-automatic =
     .label = Asɔ
     .tooltiptext = Instɔl ntoso otomatikmu
-
 detail-update-manual =
     .label = Edum
     .tooltiptext = Mma wo enninstɔl ntoso otomatikmu
-
 detail-home =
     .label = Fie-krataafa
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Kaho ho nsɛm
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Hwehwɛ ntoso
     .accesskey = e
     .tooltiptext = Hwehwɛ ntoso ma kaho yi
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -81,13 +64,10 @@ detail-show-preferences =
             [windows] Sesa kaho yi ne nɔphyɛn
            *[other] Sesa kaho yi ne apɛde
         }
-
 detail-rating =
     .value = Gyina-bea:
-
 addon-restart-now =
     .label = San hyɛ ase seisei ara
-
 addon-category-extension = Ntrɛw
 addon-category-extension-title =
     .title = Ntrɛw
@@ -170,11 +150,13 @@ addon-install-from-file-filter-name = Nkaho
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
 
 ##
+
 
 ## Page headings
 
@@ -183,19 +165,20 @@ addon-page-options-button =
 
 ## Detail notifications
 ## Variables:
-##   $name (String): name of the add-on.
-
-## Detail notifications
-## Variables:
 ##   $name (string) - Name of the add-on.
 
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name } mmfa { -brand-short-name } { $version }.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } mmfa { -brand-short-name } { $version }.
 details-notification-blocked = Wɔedum { $name } ɛnam bambɔ ne faako-gyina ho nsɛm nti.
+details-notification-blocked2 =
+    .message = Wɔedum { $name } ɛnam bambɔ ne faako-gyina ho nsɛm nti.
 details-notification-blocked-link = Infɔmehyɛn Bio
-
 details-notification-softblocked = Yenim sɛ { $name } tumi haw adwen wɔ sikuriti anaaso faako-gyina nsɛm mu.
+details-notification-softblocked2 =
+    .message = Yenim sɛ { $name } tumi haw adwen wɔ sikuriti anaaso faako-gyina nsɛm mu.
 details-notification-softblocked-link = Infɔmehyɛn Bio
-
