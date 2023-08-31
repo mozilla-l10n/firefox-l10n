@@ -168,6 +168,8 @@ extensions-warning-update-security2 =
 extensions-warning-update-security-button = Bật
     .title = Kích hoạt kiểm tra tính bảo mật của cập nhật cho tiện ích
 extensions-warning-imported-addons = Vui lòng hoàn tất việc cài đặt các tiện ích mở rộng đã được nhập vào { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Vui lòng hoàn tất việc cài đặt các tiện ích mở rộng đã được nhập vào { -brand-short-name }.
 extensions-warning-imported-addons-button = Cài đặt tiện ích mở rộng
 
 ## Strings connected to add-on updates
