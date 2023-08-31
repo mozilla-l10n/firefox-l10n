@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Websydłam signal “Njeslědować” pósłać, zo nochceće, zo wone was slěduja
+do-not-track-description2 =
+    .label = Websydłam naprašowanje „Njeslědować“ pósłać
+    .accesskey = s
 do-not-track-learn-more = Dalše informacije
 do-not-track-option-default-content-blocking-known =
     .label = Jenož hdyž w { -brand-short-name } je blokowanje znatych přesćěhowakow  nastajene
 do-not-track-option-always =
     .label = Přeco
+global-privacy-control-description =
+    .label = Websydłam zdźělić, zo nimaja moje daty předać abo dźělić
+    .accesskey = d
 settings-page-title = Nastajenja
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

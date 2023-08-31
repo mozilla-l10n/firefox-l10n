@@ -57,6 +57,8 @@ client-auth-window =
     .title = Požadanje na identifikaciju wužiwarja
 client-auth-site-description = Tute sydło je požadało, zo wy sam so přezc ertifikat identifukujeće:
 client-auth-choose-cert = Wubjerće certifikat za identifikaciju:
+client-auth-send-no-certificate =
+    .label = Certifikat njesłać
 client-auth-cert-details = Podrobnosće wubraneho certifikata:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
