@@ -102,3 +102,4 @@ set-password-reminder = Importante: se si dovesse scordare la password della cop
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
 protected-auth-alert = Effettuare l’autenticazione utilizzando il token “{ $tokenName }”. La modalità precisa dipende dal token, ad esempio potrebbe essere necessario utilizzare un lettore di impronte digitali o inserire un codice con un tastierino numerico.
+

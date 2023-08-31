@@ -251,3 +251,4 @@ firefoxview-recentlyclosed-empty-description-two = Per trovare schede che hai ch
 
 firefoxview-syncedtabs-device-notabs = Nessuna scheda aperta in questo dispositivo
 
+

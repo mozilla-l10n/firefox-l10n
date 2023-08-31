@@ -108,3 +108,4 @@ abuse-report-policy-suggestions =
 abuse-report-unwanted-reason-v2 = Non ho mai chiesto di installare questa estensione e non riesco a rimuoverla
 abuse-report-unwanted-example = Esempio: un’applicazione installata senza consenso
 abuse-report-other-reason = Altro
+
