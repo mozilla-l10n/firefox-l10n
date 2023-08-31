@@ -435,6 +435,10 @@ addon-page-options-button =
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible = { $name } es incompatible con { -brand-short-name } { $version }.
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name } es incompatible con { -brand-short-name } { $version }.
 details-notification-incompatible-link = Más información
 details-notification-unsigned-and-disabled = { $name } no pudo ser verificada para el uso en { -brand-short-name } y fue deshabilitada.
 details-notification-unsigned-and-disabled2 =
@@ -449,5 +453,9 @@ details-notification-blocked2 =
     .message = Se deshabilitó { $name } debido a problemas de seguridad o estabilidad.
 details-notification-blocked-link = Más información
 details-notification-softblocked = Se sabe que { $name } causa problemas de seguridad o estabilidad.
+details-notification-softblocked2 =
+    .message = Se sabe que { $name } causa problemas de seguridad o estabilidad.
 details-notification-softblocked-link = Más información
 details-notification-gmp-pending = { $name } será instalado en breve.
+details-notification-gmp-pending2 =
+    .message = { $name } será instalado en breve.
