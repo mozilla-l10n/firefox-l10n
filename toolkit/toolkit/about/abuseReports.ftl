@@ -46,6 +46,22 @@ abuse-report-messagebar-removed-sitepermission = Þakka þér fyrir að senda in
 abuse-report-messagebar-removed-theme = Þakka þér fyrir að senda inn skýrslu. Þemað <span data-l10n-name="addon-name">{ $addon-name }</span> hefur verið fjarlægt.
 abuse-report-messagebar-error = Villa kom upp þegar reynt var að senda inn skýrslu um <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-error-recent-submit = Skýrslan um <span data-l10n-name="addon-name">{ $addon-name }</span> var ekki send inn því önnur skýrsla var send inn nýlega.
+abuse-report-messagebar-aborted2 =
+    .message = Hætt við skýrslu um { $addon-name }.
+abuse-report-messagebar-submitting2 =
+    .message = Sendi inn skýrslu um { $addon-name }.
+abuse-report-messagebar-submitted2 =
+    .message = Þakka þér fyrir að senda inn skýrslu. Viltu fjarlægja { $addon-name }?
+abuse-report-messagebar-submitted-noremove2 =
+    .message = Þakka þér fyrir að senda inn skýrslu.
+abuse-report-messagebar-removed-extension2 =
+    .message = Þakka þér fyrir að senda inn skýrslu. Viðbótin { $addon-name } hefur verið fjarlægð.
+abuse-report-messagebar-removed-theme2 =
+    .message = Þakka þér fyrir að senda inn skýrslu. Þemað { $addon-name } hefur verið fjarlægt.
+abuse-report-messagebar-error2 =
+    .message = Villa kom upp þegar reynt var að senda inn skýrslu um { $addon-name }.
+abuse-report-messagebar-error-recent-submit2 =
+    .message = Skýrslan um { $addon-name } var ekki send inn því önnur skýrsla var send inn nýlega.
 
 ## Message bars actions.
 
