@@ -2,20 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 
 ##
 
 detail-version =
     .label = Хувилбар
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 addon-category-extension = Өртгөтгөлүүд
 addon-category-extension-title =
     .title = Өртгөтгөлүүд
@@ -24,8 +23,13 @@ addon-category-extension-title =
 
 extensions-warning-safe-mode = Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.
 extensions-warning-check-compatibility = Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.
+extensions-warning-safe-mode2 =
+    .message = Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.
+extensions-warning-check-compatibility2 =
+    .message = Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.
 extensions-warning-update-security = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
-
+extensions-warning-update-security2 =
+    .message = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
 
 ## Strings connected to add-on updates
 
@@ -63,16 +67,16 @@ addon-install-from-file-filter-name = Нэмэгдлүүд
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
