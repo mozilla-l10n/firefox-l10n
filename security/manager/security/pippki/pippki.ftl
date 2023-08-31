@@ -8,22 +8,18 @@ password-quality-meter = Měridło kakosći gronidła
 
 change-device-password-window =
     .title = Gronidło změniś
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wěstotny rěd: { $tokenName }
 change-password-old = Aktualne gronidło:
 change-password-new = Nowe gronidło:
 change-password-reenter = Nowe gronidło (hyšći raz):
-
 pippki-failed-pw-change = Njejo móžno, gronidło změniś.
 pippki-incorrect-pw = Njejsćo pšawe gronidło zapódał. Pšosym wopytajśo hyšći raz.
 pippki-pw-change-ok = Gronidło jo se wuspěšnje změniło.
-
 pippki-pw-empty-warning = Waše skłaźone gronidła a priwatne kluce njebudu se nješćitaś.
 pippki-pw-erased-ok = Sćo swójo wulašował swójo gronidło.  { pippki-pw-empty-warning }
 pippki-pw-not-wanted = Warnowanje! Sćo se rozsuźił, až njeby se gronidło wužywało. { pippki-pw-empty-warning }
-
 pippki-pw-change2empty-in-fips-mode = Sćo tuchylu we FIPS-modusu. FIPS pomina se gronidło.
 
 ## Reset Primary Password dialog
@@ -34,7 +30,6 @@ reset-primary-password-window2 =
 reset-password-button-label =
     .label = Slědk stajiś
 reset-primary-password-text = Jolic stajiśo swójo głowne gronidło slědk, zgubiju se wšykne waše składowane webowe a e-mailowe gronidła, wósobinske certifikaty a priwatne kluce. Cośo napšawdu swój głowne gronidło slědk stajiś?
-
 pippki-reset-password-confirmation-title = Głowne gronidło slědk stajiś
 pippki-reset-password-confirmation-message = Wašo głowne gronidło jo se slědk stajiło.
 
@@ -55,11 +50,38 @@ download-cert-view-text = Certifikat certifikatoweje awtority pśeglědaś
 
 ## Client Authorization Ask dialog
 
+
+## Client Authentication Ask dialog
+
 client-auth-window =
     .title = Napšašowanje wó identifikaciji wužywarja
 client-auth-site-description = Toś to sedło jo pominał, až wy sam identificěrujośo se pśez certifikat:
 client-auth-choose-cert = Wubjeŕśo certifikat za identifikaciju:
 client-auth-cert-details = Drobnostki wubranego certifikata:
+# Variables:
+# $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
+client-auth-cert-details-issued-to = Wudany na: { $issuedTo }
+# Variables:
+# $serialNumber (String) - The serial number of the certificate (hexadecimal of the form "AA:BB:...")
+client-auth-cert-details-serial-number = Serijowy numer: { $serialNumber }
+# Variables:
+# $notBefore (String) - The date before which the certificate is not valid (e.g. Apr 21, 2023, 1:47:53 PM UTC)
+# $notAfter (String) - The date after which the certificate is not valid
+client-auth-cert-details-validity-period = Płaśiwy wót { $notBefore } do { $notAfter }
+# Variables:
+# $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
+client-auth-cert-details-key-usages = Klucowe wužyśa: { $keyUsages }
+# Variables:
+# $emailAddresses (String) - A list of email addresses present in the certificate
+client-auth-cert-details-email-addresses = E-mailowe adrese: { $emailAddresses }
+# Variables:
+# $issuedBy (String) - The issuer common name of the certificate
+client-auth-cert-details-issued-by = Wudany wót: { $issuedBy }
+# Variables:
+# $storedOn (String) - The name of the token holding the certificate (for example, "OS Client Cert Token (Modern)")
+client-auth-cert-details-stored-on = Skłaźony na: { $storedOn }
+client-auth-cert-remember-box =
+    .label = Toś ten rozsud se spomnjeś
 
 ## Set password (p12) dialog
 
@@ -71,8 +93,6 @@ set-password-backup-pw =
 set-password-repeat-backup-pw =
     .value = Gronidło zawěsćenja certifikata (hyšći raz):
 set-password-reminder = Wažny: Jolic zabydnjośo swóje gronidło za zawěsćenje certifikata, njamóžośo toś to zawěsćenje pózdźej wótnowiś. Pšosym wobchowajśo jo na wěstem městnje.
-
-## Protected Auth dialog
 
 ## Protected authentication alert
 
