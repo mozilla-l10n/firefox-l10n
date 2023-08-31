@@ -311,6 +311,9 @@ addon-detail-homepage-label = ਮੁੱਖ ਸਫ਼ਾ
 addon-detail-rating-label = ਦਰਜਾ
 # Message for add-ons with a staged pending update.
 install-postponed-message = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੌਰਾਨ ਇਸ ਇਕਟੈਨਸ਼ਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ।
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = { -brand-short-name } ਮੁੜ-ਚਾਲੂ ਕਰਨ ਦੌਰਾਨ ਇਸ ਇਕਟੈਨਸ਼ਨ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ।
 install-postponed-button = ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ
 # The average rating that the add-on has received.
 # Variables:
