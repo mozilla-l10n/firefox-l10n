@@ -225,6 +225,11 @@ shortcuts-duplicate = Kamulun chojokem
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } man xa xe ta pa jun chojokem nokisäx. Ri kamulun chojokem yetikïr nikib'än jun man oyob'en ta chi b'anikil.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } man xa xe ta pa jun chojokem nokisäx. Ri kamulun chojokem yetikïr nikib'än jun man oyob'en ta chi b'anikil.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
