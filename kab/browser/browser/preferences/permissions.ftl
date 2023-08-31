@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Tisuraf
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Tansa n usmel web
     .accesskey = d
-
 permissions-block =
     .label = Sewḥel
     .accesskey = S
-
 permissions-disable-etp =
     .label = Rnu tasureft
     .accesskey = R
-
 permissions-session =
     .label = Sireg i tɣimit
     .accesskey = S
-
 permissions-allow =
     .label = Sireg
     .accesskey = i
-
 permissions-button-off =
     .label = Sens
     .accesskey = S
-
 permissions-button-off-temporarily =
     .label = Sens i kra n wakud
     .accesskey = S
-
 permissions-site-name =
     .label = Asmel Web
-
 permissions-status =
     .label = Addad
-
 permissions-remove =
     .label = Kkes asmel web
     .accesskey = Z
-
 permissions-remove-all =
     .label = Kkes akk ismal web
     .accesskey = w
-
 permission-dialog =
     .buttonlabelaccept = Sekles asnifel
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = S wudem amezwer i yismal meṛṛa:
-
 permissions-searchbox =
     .placeholder = Nadi asmel web
-
 permissions-capabilities-autoplay-allow =
     .label = Sireg ameslaw d uvidyu
 permissions-capabilities-autoplay-block =
     .label = Sewḥel imesli
 permissions-capabilities-autoplay-blockall =
     .label = Sewḥel imesli d uvidyu
-
 permissions-capabilities-allow =
     .label = Sireg
 permissions-capabilities-block =
     .label = Sewḥel
 permissions-capabilities-prompt =
     .label = Sutur yal tikkelt
-
 permissions-capabilities-listitem-allow =
     .value = Sireg
 permissions-capabilities-listitem-block =
     .value = Sewḥel
 permissions-capabilities-listitem-allow-session =
     .value = Sireg i tɣimit
-
 permissions-capabilities-listitem-off =
     .value = Yensa
 permissions-capabilities-listitem-off-temporarily =
@@ -192,24 +173,22 @@ permissions-site-microphone-disable-desc = Aya ad isewḥel asuter n tsirag n un
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Iɣewwaren - Tisirag n win yettmeslayen
+    .style = { permissions-window2.style }
 permissions-exceptions-doh-window =
     .title = Tisuraf n usmel web i DNS s HTTPS
     .style = { permissions-window2.style }
-
 permissions-doh-entry-field = Sekcem isem n taɣult n usmel web
     .accesskey = t
-
 permissions-doh-add-exception =
     .label = Rnu
     .accesskey = R
-
 permissions-doh-col =
     .label = Taɣult
-
 permissions-doh-remove =
     .label = Kkes
     .accesskey = K
-
 permissions-doh-remove-all =
     .label = Kkes akk
     .accesskey = K

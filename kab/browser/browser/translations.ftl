@@ -102,6 +102,7 @@ translations-manage-description = Sader tutlayin i usuqqel aruqqin.
 translations-manage-all-language = Meṛṛa tutlayin
 translations-manage-download-button = Sader
 translations-manage-delete-button = Kkes
+translations-manage-install-description = Sebded tutlayin i usuqqel aruqqin.
 translations-manage-language-install-button =
     .label = Sebded
 translations-manage-language-install-all-button =

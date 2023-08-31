@@ -33,6 +33,7 @@ firefoxview-tabpickup-synctabs-header = Rmed amtawi n waccaren…
 firefoxview-tabpickup-synctabs-description = Sireg { -brand-short-name } ad yebḍu accaren gar yibenkan.
 firefoxview-tabpickup-synctabs-learn-how = Issin amek
 firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
+firefoxview-syncedtabs-synctabs-checkbox = Sireg accaren yeldin i umtawi
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ur yezmir ara ad yemtawi accaren gar yibenkan acku anedbal-ik·im issens amtawi.
 firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
@@ -62,6 +63,7 @@ firefoxview-closed-tabs-title = Melmi kan i yettwamdal
 firefoxview-closed-tabs-description2 = Ales tawaledyawt n yisebtar i tmedleḍ deg usfaylu-a.
 firefoxview-closed-tabs-placeholder-header = Ulac iccer yettwamedlen melmi kan
 firefoxview-closed-tabs-placeholder-body = Mi ara tmedleḍ iccer deg usfaylu-a, tzemreḍ ad t-id-terreḍ syagi.
+firefoxview-closed-tabs-placeholder-body2 = Mi ara tmedleḍ iccer, tzemreḍ ad t-id-terreḍ syagi.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -160,9 +162,13 @@ firefoxview-view-more-browsing-history = Sken ugar seg uzray n tunigin
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Fren iminig
+    .title = Fren iminig
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Ulac ara d-yettwaskanzn
 
 ##
 
