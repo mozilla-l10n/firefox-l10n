@@ -320,6 +320,9 @@ addon-detail-homepage-label = Pagina d’acuèlh
 addon-detail-rating-label = Apreciacion
 # Message for add-ons with a staged pending update.
 install-postponed-message = Aquesta extension serà mesa a jorn quand { -brand-short-name } reavirà.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Aquesta extension serà mesa a jorn quand { -brand-short-name } reavirà.
 install-postponed-button = Metre a jorn ara
 # The average rating that the add-on has received.
 # Variables:
