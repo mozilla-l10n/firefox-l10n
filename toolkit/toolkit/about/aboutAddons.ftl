@@ -212,6 +212,11 @@ shortcuts-duplicate = Comandă rapidă duplicat
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
 shortcuts-duplicate-warning-message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicat pot produce comportamente neașteptate.
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message2 =
+    .message = { $shortcut } este folosită drept comandă rapidă în mai mult de un caz. Comenzile rapide duplicat pot produce comportamente neașteptate.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
