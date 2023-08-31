@@ -7,80 +7,59 @@ addons-page-title = Qoʻshimcha dasturlar boshqaruvchisi
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
+
 ##
 
 list-empty-installed =
     .value = Ushbu turdagi oʻrnatilgan birorta ham qoʻshimcha dasturingiz yoʻq
-
 list-empty-available-updates =
     .value = Yangilanishlar topilmadi
-
 list-empty-recent-updates =
     .value = Yaqinda birorta ham qoʻshimcha dasturlarni yangilamagansiz
-
 list-empty-find-updates =
     .label = Yangilanishlar uchun tekshirish
-
 list-empty-button =
     .label = Qoʻshimcha dasturlar haqida koʻproq oʻrganish
-
 help-button = Qoʻshimchalar boʻyicha yordam
 sidebar-help-button-title =
     .title = Qoʻshimchalar boʻyicha yordam
-
 show-unsigned-extensions-button =
     .label = Ba’zi kengaytmalar tasdiqlanmadi
-
 show-all-extensions-button =
     .label = Barcha kengaytmalarni ko‘rsatish
-
 detail-version =
     .label = Versiyasi
-
 detail-last-updated =
     .label = Soʻnggi yangilangan
-
 detail-contributions-description = Ushbu qoʻshimcha dastur muallifi sizdan dasturni rivojlantirish uchun ozroq hissangizni qoʻshishni soʻramoqda.
-
 detail-update-type =
     .value = Avtomatik yangilanishlar
-
 detail-update-default =
     .label = Standart
     .tooltiptext = Agar faqat ular standart boʻlsa avtomatik yangilanishlar oʻrnatilsin
-
 detail-update-automatic =
     .label = Yoqilgan
     .tooltiptext = Yangilanishlarni avtomatik oʻrnatish
-
 detail-update-manual =
     .label = Oʻchirilgan
     .tooltiptext = Yangilanishlar avtomatik oʻrnatilmasin
-
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Maxfiy oynalarda taqiqlangan
-
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Maxfiy oynalarga kirishni talab qiladi
-
 detail-home =
     .label = Uy sahifasi
-
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository =
     .label = Qoʻshimcha dastur profili
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 detail-check-for-updates =
     .label = Yangilanishlar uchun tekshirish
     .accesskey = Y
     .tooltiptext = Ushbu qoʻshimcha dastur uchun yangilanishlarni tekshirish
-
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -97,22 +76,15 @@ detail-show-preferences =
             [windows] Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish
            *[other] Ushbu qoʻshimcha dastur moslamalarini oʻzgartirish
         }
-
 detail-rating =
     .value = Reyting
-
 addon-restart-now =
     .label = Hozir qayta ishga tushirish
-
 disabled-unsigned-heading =
     .value = Ba’zi qo‘shimcha dasturlar o‘chirib qo‘yildi
-
 disabled-unsigned-description = Quyidagi qo‘shimcha dasturlar { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmagan. Siz <label data-l10n-name="find-addons">almashtiriladiganlarini topishingiz</label> yoki dasturchidan ularni tasdiqlashini so‘rashingiz mumkin.
-
 disabled-unsigned-learn-more = Onlayn xavfsizligingizni ta’minlash uchun qilayotgan harakatlarimiz haqida batafsil ma’lumot oling.
-
 disabled-unsigned-devinfo = Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga <label data-l10n-name="learn-more">qiziqishadi</label>.
-
 addon-category-discover = Tavsiyalar
 addon-category-discover-title =
     .title = Tavsiyalar
@@ -203,7 +175,6 @@ discopane-intro =
     Bu yerdan mutlaq xavfsizligingiz, samaradorlik va funksionallik uchun { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">tavsiya etiladigan</a> kengaytma
     va mavzular toʻplamini topish mumkin.
-
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
@@ -218,6 +189,7 @@ discopane-notice-recommendations =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
@@ -230,13 +202,8 @@ recommended-themes-heading = Tavsiya etilgan mavzular
 
 theme-heading = Mavzularni boshqarish
 locale-heading = Tillarni boshqarish
-
 addon-page-options-button =
     .title = Barcha qoʻshimcha dasturlar uchun asboblar
-
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
@@ -245,17 +212,20 @@ addon-page-options-button =
 # Variables:
 #   $version (String): application version.
 details-notification-incompatible = { $name }  - { -brand-short-name } { $version } bilan mos emas.
-
+# Variables:
+#   $version (string) - Application version.
+details-notification-incompatible2 =
+    .message = { $name }  - { -brand-short-name } { $version } bilan mos emas.
 details-notification-unsigned-and-disabled = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi, shuning uchun u o‘chirib qo‘yildi.
 details-notification-unsigned-and-disabled-link = Batafsil ma’lumot
-
 details-notification-unsigned = { $name } qo‘shimcha dasturi { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmadi. Jarayonni ehtiyotkorlik bilan davom ettiring.
 details-notification-unsigned-link = Batafsil ma’lumot
-
 details-notification-blocked = { $name } xavfsizlik va ishonchlilik sabablariga koʻra oʻchirib qoʻyildi.
+details-notification-blocked2 =
+    .message = { $name } xavfsizlik va ishonchlilik sabablariga koʻra oʻchirib qoʻyildi.
 details-notification-blocked-link = Koʻproq ma`lumot
-
 details-notification-softblocked = { $name } xavfsizlik va mustahkamlikka ta`sir qilishi aniqlangan.
+details-notification-softblocked2 =
+    .message = { $name } xavfsizlik va mustahkamlikka ta`sir qilishi aniqlangan.
 details-notification-softblocked-link = Koʻproq ma`lumot
-
 details-notification-gmp-pending = { $name } tezda o‘rnatiladi.
