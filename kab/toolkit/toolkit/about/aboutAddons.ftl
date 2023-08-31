@@ -249,6 +249,11 @@ discopane-intro = Isiɣzaf akked isental am yisnasen i  yiminig-ik ara k-yeǧǧe
 discopane-notice-recommendations =
     Kra seg yiwellihen-a d udmawanen. Tagrumma-a tebna ɣef yisiɣzaf-nniḍen
     i tesbeddeḍ, iɣewwaren n umaɣnu-ik akked tiddadanin n useqdec.
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations2 =
+    .message =
+        Kra seg yiwellihen-a d udmawanen. Tagrumma-a tebna ɣef yisiɣzaf-nniḍen
+        i tesbeddeḍ, iɣewwaren n umaɣnu-ik akked tiddadanin n useqdec.
 discopane-notice-learn-more = Lmed ugar
 privacy-policy = Tasertit n tbaḍnit
 # Refers to the author of an add-on, shown below the name of the add-on.
