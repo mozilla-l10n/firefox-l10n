@@ -300,6 +300,9 @@ addon-detail-homepage-label = דף הבית
 addon-detail-rating-label = דירוג
 # Message for add-ons with a staged pending update.
 install-postponed-message = הרחבה זו תתעדכן כש־{ -brand-short-name } יופעל מחדש.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = הרחבה זו תתעדכן כש־{ -brand-short-name } יופעל מחדש.
 install-postponed-button = עדכון כעת
 # The average rating that the add-on has received.
 # Variables:
