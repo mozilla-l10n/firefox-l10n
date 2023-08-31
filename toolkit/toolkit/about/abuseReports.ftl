@@ -48,6 +48,12 @@ abuse-report-messagebar-removed-sitepermission = Hvala, ker ste nam poslali prij
 abuse-report-messagebar-removed-theme = Hvala za prijavo. Temo <span data-l10n-name="addon-name">{ $addon-name }</span> ste odstranili.
 abuse-report-messagebar-error = Pri pošiljanju poročila za <span data-l10n-name="addon-name">{ $addon-name }</span> je prišlo do napake.
 abuse-report-messagebar-error-recent-submit = Poročilo za <span data-l10n-name="addon-name">{ $addon-name }</span> ni bilo poslano, ker je bilo pred kratkim poslano drugo poročilo.
+abuse-report-messagebar-removed-extension2 =
+    .message = Hvala, ker ste nam poslali prijavo. Razširitev { $addon-name } ste odstranili.
+abuse-report-messagebar-removed-sitepermission2 =
+    .message = Hvala, ker ste nam poslali prijavo. Dodatek za dovoljenja strani { $addon-name } ste odstranili.
+abuse-report-messagebar-removed-theme2 =
+    .message = Hvala za prijavo. Temo { $addon-name } ste odstranili.
 
 ## Message bars actions.
 
