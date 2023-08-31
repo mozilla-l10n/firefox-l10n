@@ -317,6 +317,9 @@ addon-detail-homepage-label = Αρχική σελίδα
 addon-detail-rating-label = Βαθμολογία
 # Message for add-ons with a staged pending update.
 install-postponed-message = Αυτή η επέκταση θα ενημερωθεί όταν επανεκκινηθεί το { -brand-short-name }.
+# Message for add-ons with a staged pending update.
+install-postponed-message2 =
+    .message = Αυτή η επέκταση θα ενημερωθεί όταν επανεκκινηθεί το { -brand-short-name }.
 install-postponed-button = Ενημέρωση τώρα
 # The average rating that the add-on has received.
 # Variables:
