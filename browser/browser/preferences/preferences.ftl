@@ -2,7 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-do-not-track-description = Send nettsider et «Ikke spor»-signal om at du ikke vil bli sporet
+do-not-track-description = Send nettsteder et «Ikke spor»-signal om at du ikke vil bli sporet
+do-not-track-description2 =
+    .label = Send nettsteder en «Ikke spor»-forespørsel
+    .accesskey = d
 do-not-track-learn-more = Les mer
 do-not-track-option-default-content-blocking-known =
     .label = Bare når { -brand-short-name } er satt til å blokkere kjente sporere
@@ -1070,12 +1073,12 @@ content-blocking-fingerprinters-label =
 #
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
 content-blocking-known-fingerprinters-label =
-    .label = Kjente nettlesaravtrykksporere
+    .label = Kjente nettleseravtrykksporere
     .accesskey = K
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = Mistenkt nettlesaravtrykksporere
+    .label = Mistenkt nettleseravtrykksporere
     .accesskey = M
 
 ## Privacy Section - Tracking
