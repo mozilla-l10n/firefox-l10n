@@ -5,7 +5,7 @@
 panic-button-open-new-window = Eipe’a ovetã pyahu nandíva
 panic-button-undo-warning = Ko tembiapo ndaikatúi emboguevi.
 panic-button-forget-button =
-    .label = Eguereko hag̃ua!
+    .label = ¡Ereko hag̃ua!
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-main-timeframe-desc. For example: "Forget the last: Five minutes".

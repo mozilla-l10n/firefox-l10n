@@ -34,7 +34,7 @@ xpinstall-prompt-install =
 
 # These messages are shown when a website invokes navigator.requestMIDIAccess.
 
-site-permission-install-first-prompt-midi-header = Ko tenda oikese ne MIDI (Interfaz Digital de Instrumentos Musicales) mba’e’okápe. Pe mba’e’okápe jeike eguerekokuaa emohendávo tembiporu’i.
+site-permission-install-first-prompt-midi-header = Ko tenda oikese ne MIDI (Interfaz Digital de Instrumentos Musicales) mba’e’okápe. Pe mba’e’okápe jeike eguerekokuaa emohendávo pe tembiporu’i.
 site-permission-install-first-prompt-midi-message = Ndoje’ekuaái ndéve ko jeike hekorosãtaha. Eku’ejey ejeroviáramo ko tendáre.
 
 ##

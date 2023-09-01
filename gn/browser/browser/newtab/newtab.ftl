@@ -141,7 +141,7 @@ newtab-menu-remove-download = Emboguepa tembiasakuégui
 newtab-menu-show-file =
     { PLATFORM() ->
         [macos] Ehechauka Finder-pe
-       *[other] Embojuruja ñongatuha guerekopýva
+       *[other] Embojuruja ñongatuha guerekopy
     }
 newtab-menu-open-file = Embojuruja marandurenda
 
