@@ -42,6 +42,8 @@ about-logging-preset-media-playback-label = Medieavspilling
 about-logging-preset-media-playback-description = Loggmoduler for å diagnostisere problemer med medieavspilling (ikke for problemer med videokonferanser)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Loggmoduler for å diagnostisere WebRTC-anrop
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Loggmoduler for å diagnostisere WebGPU-problemer
 about-logging-preset-custom-label = Tilpasset
 about-logging-preset-custom-description = Loggmoduler valgt manuelt
 # Error handling

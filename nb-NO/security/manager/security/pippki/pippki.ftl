@@ -57,6 +57,8 @@ client-auth-window =
     .title = Forespørsel om brukeridentifikasjon
 client-auth-site-description = Dette nettstedet ønsker at du identifiserer deg selv med et sertifikat:
 client-auth-choose-cert = Velg sertifikat som du vil bruke som identifikasjon:
+client-auth-send-no-certificate =
+    .label = Ikke send et sertifikat
 client-auth-cert-details = Detaljer om valgt sertifikat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
