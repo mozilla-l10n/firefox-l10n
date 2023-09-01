@@ -55,8 +55,13 @@ download-cert-view-text = A CA tanúsítványának megvizsgálása
 
 client-auth-window =
     .title = Felhasználóazonosítási kérelem
-client-auth-site-description = A webhely azt kívánja, hogy Ön igazolja magát egy tanúsítvánnyal:
+client-auth-site-description = A webhely azt kéri, hogy igazolja magát egy tanúsítvánnyal:
 client-auth-choose-cert = Válassza ki az azonosításhoz használandó tanúsítványt:
+client-auth-send-no-certificate =
+    .label = Ne küldjön tanúsítványt
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = A(z) „{ $hostname }” azt kéri, hogy igazolja magát egy tanúsítvánnyal:
 client-auth-cert-details = A kijelölt tanúsítvány részletei:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
