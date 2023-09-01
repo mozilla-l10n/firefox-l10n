@@ -57,6 +57,11 @@ client-auth-window =
     .title = Gebruikersidentificatieverzoek
 client-auth-site-description = Deze website vraagt u zich te identificeren met een beveiligingscertificaat:
 client-auth-choose-cert = Kies een certificaat om als identificatie aan te bieden:
+client-auth-send-no-certificate =
+    .label = Stuur geen certificaat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = ‘{ $hostname }’ vraagt u zich te identificeren met een beveiligingscertificaat:
 client-auth-cert-details = Details van geselecteerde certificaat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
