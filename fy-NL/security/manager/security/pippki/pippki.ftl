@@ -57,6 +57,11 @@ client-auth-window =
     .title = Brûkersidentifikaasjefersyk
 client-auth-site-description = Dizze website fersiket jo om josels te identifisearjen mei in befeiligingssertifikaat:
 client-auth-choose-cert = Kies in sertifikaat om as identifikaasje te presintearjen:
+client-auth-send-no-certificate =
+    .label = Stjoer gjin sertifikaat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = ‘{ $hostname }’ freget jo om jo te identifisearjen mei in befeiligingssertifikaat:
 client-auth-cert-details = Details fan it selektearre sertifikaat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
