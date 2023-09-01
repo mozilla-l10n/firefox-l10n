@@ -57,6 +57,11 @@ client-auth-window =
     .title = მომხმარებლის ამოცნობის მოთხოვნა
 client-auth-site-description = საიტი თქვენი ვინაობის დასადგენად, სერტიფიკატის წარდგენას ითხოვს:
 client-auth-choose-cert = წარსადგენი სერტიფიკატის არჩევა:
+client-auth-send-no-certificate =
+    .label = არ გაიგზავნოს სერტიფიკატი
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = „{ $hostname }“ ითხოვს, ვინაობის დასადგენად წარადგინოთ სერტიფიკატი:
 client-auth-cert-details = არჩეული სერტიფიკატის მონაცემები:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
