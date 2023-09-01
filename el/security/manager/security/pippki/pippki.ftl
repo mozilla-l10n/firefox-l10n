@@ -57,6 +57,9 @@ client-auth-window =
     .title = Ειδοποίηση Αναγνώρισης Χρήστη
 client-auth-site-description = Ο ιστότοπος ζήτησε να ταυτοποιήσετε τον εαυτό σας με ένα πιστοποιητικό:
 client-auth-choose-cert = Επιλέξτε ένα πιστοποιητικό για να το παρουσιάσετε ως ταυτότητα:
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = Το «{ $hostname }» ζήτησε να ταυτοποιηθείτε με ένα πιστοποιητικό:
 client-auth-cert-details = Λεπτομέρειες επιλεγμένου πιστοποιητικού:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
