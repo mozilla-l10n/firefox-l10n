@@ -44,9 +44,9 @@ about-logging-preset-media-playback-label = Пахши расона
 about-logging-preset-media-playback-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои пахши расона (масъалаҳо ба ғайр аз конфронсҳои видеоӣ)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модулҳои сабти рӯйдодҳо барои ташхиси дархостҳои «WebRTC»
+about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-custom-label = Фармоишӣ
 about-logging-preset-custom-description = Модулҳои сабти рӯйдодҳои интихобшуда ба таври дастӣ
-
 # Error handling
 about-logging-error = Хато:
 
@@ -60,5 +60,4 @@ about-logging-unknown-profiler-preset = Танзими пешфарз барои
 about-logging-unknown-option = Имкони about:logging барои «{ $k }» номаълум аст
 about-logging-configuration-url-ignored = Нишонии URL-и танзимот рад карда шуд
 about-logging-file-and-profiler-override = Дар як вақт ба таври маҷбурӣ баровардани сабт ба файл ва аз нав танзим кардани имконоти профилсоз ғайриимкон аст
-
 about-logging-configured-via-url = Имкон тавассути нишонии URL танзим шуд
