@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Besjoch jo resinte navigaasje fan finsters en apparaten
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F

@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wolle
+do-not-track-description2 =
+    .label = Stjoer websites in ‘Net-folgje’-fersyk.
+    .accesskey = f
 do-not-track-learn-more = Mear ynfo
 do-not-track-option-default-content-blocking-known =
     .label = Allinnich wannear’t { -brand-short-name } ynsteld is om bekende trackers te blokkearjen
 do-not-track-option-always =
     .label = Altyd
+global-privacy-control-description =
+    .label = Fertel websites dat se myn gegevens net ferkeapje of diele meie
+    .accesskey = s
 settings-page-title = Ynstellingen
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
