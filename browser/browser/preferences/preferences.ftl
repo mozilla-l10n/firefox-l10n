@@ -11,6 +11,9 @@ do-not-track-option-default-content-blocking-known =
     .label = Bare når { -brand-short-name } er satt til å blokkere kjente sporere
 do-not-track-option-always =
     .label = Alltid
+global-privacy-control-description =
+    .label = Fortell nettsteder om ikke å selge eller dele mine data
+    .accesskey = o
 settings-page-title = Innstillinger
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
