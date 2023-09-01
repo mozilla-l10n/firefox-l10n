@@ -43,6 +43,7 @@ about-logging-preset-media-playback-description = 用來診斷媒體播放問題
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = 用來診斷 WebRTC 問題的記錄模組
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = 用來診斷 WebGPU 問題的記錄模組
 about-logging-preset-custom-label = 自訂
 about-logging-preset-custom-description = 手動選擇的記錄模組
 # Error handling
