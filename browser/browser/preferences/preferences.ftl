@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Αποστολή σήματος «Αποτροπή καταγραφής», ώστε να μην καταγράφεστε από ιστοτόπους
+do-not-track-description2 =
+    .label = Αποστολή αιτήματος «Αποτροπή καταγραφής» στους ιστοτόπους
+    .accesskey = τ
 do-not-track-learn-more = Μάθετε περισσότερα
 do-not-track-option-default-content-blocking-known =
     .label = Μόνο όταν το { -brand-short-name } έχει ρυθμιστεί για φραγή γνωστών ιχνηλατών
