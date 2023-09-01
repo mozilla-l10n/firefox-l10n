@@ -88,7 +88,7 @@ urlbar-indexed-db-notification-anchor =
 urlbar-password-notification-anchor =
     .tooltiptext = Abrir painel de mensagem de senha salva
 urlbar-plugins-notification-anchor =
-    .tooltiptext = Gerenciar plugin em uso
+    .tooltiptext = Gerenciar uso de plugins
 urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Gerenciar o compartilhamento da sua câmera e/ou microfone com o site
 # "Speakers" is used in a general sense that might include headphones or
