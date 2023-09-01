@@ -45,8 +45,8 @@ cookie-tab-title = Sporingsinfokapsler på tvers av nettsteder
 cookie-tab-content = Disse infokapslene følger deg fra nettsted til nettsted for å samle inn data om hva du gjør på nettet. De er satt av tredjeparter som annonsører og analyseselskaper. Blokkering av sporingsinfokapsler på tvers av nettsteder reduserer antall annonser som følger deg. <a data-l10n-name="learn-more-link">Les mer</a>
 tracker-tab-title = Sporings-innhold
 tracker-tab-description = Nettsteder kan laste inn eksterne annonser, videoer og annet innhold med sporingskode. Blokkering av sporingsinnhold kan hjelpe nettsteder å laste raskere, men noen knapper, skjemaer og innloggingsfelt fungerer kanskje ikke. <a data-l10n-name="learn-more-link">Les mer</a>
-fingerprinter-tab-title = Nettlesaravtrykksporere
-fingerprinter-tab-content = Nettlesaravtrykksporere samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
+fingerprinter-tab-title = Nettleseravtrykksporere
+fingerprinter-tab-content = Nettleseravtrykksporere samler innstillinger fra nettleseren din og datamaskinen for å opprette en profil av deg. Ved hjelp av dette digitale fingeravtrykket kan de spore deg på forskjellige nettsteder. <a data-l10n-name="learn-more-link">Les mer</a>
 cryptominer-tab-title = Kryptoutvinnere
 cryptominer-tab-content = Kryptoutvinnere bruker systemets datakraft for å utvinne digitale penger. Kryptoutvinningsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
 protections-close-button2 =
