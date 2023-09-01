@@ -57,6 +57,11 @@ client-auth-window =
     .title = Zahteva po identifikaciji uporabnika
 client-auth-site-description = Ta stran zahteva, da se predstavite z digitalnim potrdilom:
 client-auth-choose-cert = Izberite digitalno potrdilo, ki vas predstavlja:
+client-auth-send-no-certificate =
+    .label = Ne pošiljaj digitalnega potrdila
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = "{ $hostname }" zahteva, da se predstavite z digitalnim potrdilom:
 client-auth-cert-details = Podrobnosti o izbranem digitalnem potrdilu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

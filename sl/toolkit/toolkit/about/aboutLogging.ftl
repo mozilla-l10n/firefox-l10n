@@ -39,6 +39,8 @@ about-logging-preset-media-playback-label = Predvajanje predstavnosti
 about-logging-preset-media-playback-description = Beleženje modulov za diagnosticiranje težav s predvajanjem predstavnosti (ne težav z videokonferencami)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Beleženje modulov za diagnosticiranje klicev z WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Beleženje modulov za diagnosticiranje težav z WebGPU
 about-logging-preset-custom-label = Po meri
 about-logging-preset-custom-description = Beleženje modulov po lastni izbiri
 # Error handling

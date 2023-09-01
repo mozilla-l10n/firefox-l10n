@@ -141,6 +141,10 @@ firefoxview-show-more = Prikaži več
 firefoxview-show-less = Prikaži manj
 firefoxview-sort-history-by-date-label = Razvrsti po datumu
 firefoxview-sort-history-by-site-label = Razvrsti po spletnem mestu
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Preklopi na { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale

@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Shrani v { -pocket-brand-name }
     .accesskey = S
 fxviewtabrow-copy-link = Kopiraj povezavo
     .accesskey = K
+fxviewtabrow-close-tab = Zapri zavihek
+    .accesskey = Z
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
