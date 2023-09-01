@@ -42,6 +42,8 @@ about-logging-preset-media-playback-label = ფაილის გაშვე�
 about-logging-preset-media-playback-description = აღრიცხვის მოდულები ფაილთა გაშვებისას ხარვეზების გამოსავლენად (არ მოიცავს ვიდეოთათბირების ხარვეზებს)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = მოდულების აღრიცხვა WebRTC-გამოძახების ხარვეზების გამოსავლენად
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = მოდულების აღრიცხვა WebGPU-ის ხარვეზების გამოსავლენად
 about-logging-preset-custom-label = მითითებული
 about-logging-preset-custom-description = აღრიცხვის მოდულები ხელითაა შერჩეული
 # Error handling
