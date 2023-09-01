@@ -59,6 +59,9 @@ client-auth-site-description = Dette nettstedet ønsker at du identifiserer deg 
 client-auth-choose-cert = Velg sertifikat som du vil bruke som identifikasjon:
 client-auth-send-no-certificate =
     .label = Ikke send et sertifikat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = «{ $hostname }» ber om at du identifiserer deg med et sertifikat:
 client-auth-cert-details = Detaljer om valgt sertifikat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
