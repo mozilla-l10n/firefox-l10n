@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Sarva in { -pocket-brand-name }
     .accesskey = s
 fxviewtabrow-copy-link = Còpia ligòngiu
     .accesskey = C
+fxviewtabrow-close-tab = Serra s'ischeda
+    .accesskey = S
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

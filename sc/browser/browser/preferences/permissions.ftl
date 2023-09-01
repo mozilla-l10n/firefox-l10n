@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Etzetziones
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Indiritzu de su situ web
     .accesskey = n
-
 permissions-block =
     .label = Bloca
     .accesskey = B
-
 permissions-disable-etp =
     .label = Agiunghe un'etzetzione
     .accesskey = e
-
 permissions-session =
     .label = Permite in sa sessione
     .accesskey = s
-
 permissions-allow =
     .label = Permite
     .accesskey = P
-
 permissions-button-off =
     .label = Istuda
     .accesskey = I
-
 permissions-button-off-temporarily =
     .label = Istuda pro immoe
     .accesskey = m
-
 permissions-site-name =
     .label = Situ web
-
 permissions-status =
     .label = Istadu
-
 permissions-remove =
     .label = Boga su situ web
     .accesskey = B
-
 permissions-remove-all =
     .label = Boga totu is sitos web
     .accesskey = t
-
 permission-dialog =
     .buttonlabelaccept = Sarva is modìficas
     .buttonaccesskeyaccept = S
-
 permissions-autoplay-menu = Predefinidu pro totu is sitos web:
-
 permissions-searchbox =
     .placeholder = Chirca unu situ web
-
 permissions-capabilities-autoplay-allow =
     .label = Permite àudio e vìdeu
 permissions-capabilities-autoplay-block =
     .label = Bloca s'àudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloca àudio e vìdeu
-
 permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Bloca
 permissions-capabilities-prompt =
     .label = Pregunta·mi·ddu semper
-
 permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
     .value = Bloca
 permissions-capabilities-listitem-allow-session =
     .value = Permite in sa sessione
-
 permissions-capabilities-listitem-off =
     .value = Disativadu
 permissions-capabilities-listitem-off-temporarily =
@@ -193,20 +174,19 @@ permissions-site-microphone-disable-desc = Custu at a evitare chi is sitos web c
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-site-speaker-window =
+    .title = Cunfiguratzione - Permissos de s’altoparlante
+    .style = { permissions-window2.style }
 permissions-doh-entry-field = Inserta su nòmine de domìniu de su situ
     .accesskey = I
-
 permissions-doh-add-exception =
     .label = Agiunghe
     .accesskey = A
-
 permissions-doh-col =
     .label = Domìniu
-
 permissions-doh-remove =
     .label = Boga
     .accesskey = B
-
 permissions-doh-remove-all =
     .label = Boga totu
     .accesskey = t

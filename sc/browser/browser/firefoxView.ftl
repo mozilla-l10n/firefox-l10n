@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Serra
     .aria-label = Serra
@@ -138,6 +140,10 @@ firefoxview-show-more = Ammustra àteru
 firefoxview-show-less = Ammustra prus pagu
 firefoxview-sort-history-by-date-label = Assenta dae sa data
 firefoxview-sort-history-by-site-label = Assenta dae su situ
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Càmbia a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
