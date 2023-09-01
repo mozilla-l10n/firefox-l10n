@@ -8,6 +8,9 @@ do-not-track-option-default-content-blocking-known =
     .label = Seulement quand { -brand-short-name } est paramétré pour bloquer les traqueurs connus
 do-not-track-option-always =
     .label = Toujours
+global-privacy-control-description =
+    .label = Demander aux sites web de ne pas vendre ni partager mes données
+    .accesskey = D
 settings-page-title = Paramètres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
