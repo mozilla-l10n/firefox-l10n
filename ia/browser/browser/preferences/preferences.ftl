@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Inviar al sitos web un signal “Non traciar” indicante que tu non vole esser traciate
+do-not-track-description2 =
+    .label = Inviar requesta de “Non tracia" a sitos web
+    .accesskey = N
 do-not-track-learn-more = Saper plus
 do-not-track-option-default-content-blocking-known =
     .label = Solmente quando { -brand-short-name } es adjustate pro blocar traciatores cognoscite.
 do-not-track-option-always =
     .label = Sempre
+global-privacy-control-description =
+    .label = Demandar al sitos web de non vender ni compartir mi datos
+    .accesskey = v
 settings-page-title = Parametros
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

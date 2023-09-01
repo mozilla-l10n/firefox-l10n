@@ -42,9 +42,10 @@ about-logging-preset-media-playback-label = Reproduction de medios
 about-logging-preset-media-playback-description = Modulos de registro pro diagnosticar problemas de reproduction de medios (non problemas de video-conferentias)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Modulos de registration pro diagnosticar appellos WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Modulos de registration pro diagnosticar problemas de WebGPU
 about-logging-preset-custom-label = Personalisate
 about-logging-preset-custom-description = Modulos de registro seligite manualmente
-
 # Error handling
 about-logging-error = Error:
 
@@ -58,5 +59,4 @@ about-logging-unknown-profiler-preset = Pre-configuration del profilator “{ $v
 about-logging-unknown-option = Option de about:logging “{ $k }“ incognite
 about-logging-configuration-url-ignored = Configuration URL ignorate
 about-logging-file-and-profiler-override = Impossibile fortiar un file de exito e al mesme tempore supplantar le optiones del profilator
-
 about-logging-configured-via-url = Option configurate per URL
