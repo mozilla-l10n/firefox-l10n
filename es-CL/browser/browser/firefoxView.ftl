@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Revisa la navegación reciente entre ventanas y dispositivos
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -33,7 +36,7 @@ firefoxview-tabpickup-adddevice-description = Descarga { -brand-product-name } p
 firefoxview-tabpickup-adddevice-learn-how = Aprender cómo
 firefoxview-tabpickup-adddevice-primarybutton = Obtén { -brand-product-name } para dispositivos móviles
 firefoxview-syncedtabs-adddevice-header = Conéctate a { -brand-product-name } en tus otros dispositivos
-firefoxview-syncedtabs-adddevice-description = Para ver sts pestañas desde cualquier lugar donde uses { -brand-product-name }, conéctate en todos tus dispositivos. Obtén información sobre cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
+firefoxview-syncedtabs-adddevice-description = Para ver tus pestañas desde cualquier lugar donde uses { -brand-product-name }, conéctate en todos tus dispositivos. Obtén información sobre cómo <a data-l10n-name="url">conectar dispositivos adicionales</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Prueba { -brand-product-name } para dispositivos móviles
 firefoxview-tabpickup-synctabs-header = Activar sincronización de pestañas
 firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } comparta pestañas entre dispositivos.
