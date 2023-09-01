@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Požiadať webové stránky pomocou príznaku “Do Not Track”, aby vás nesledovali
+do-not-track-description2 =
+    .label = Odosielať webovým stránkam požiadavku “Nesledovať” (Do Not Track).
+    .accesskey = w
 do-not-track-learn-more = Ďalšie informácie
 do-not-track-option-default-content-blocking-known =
     .label = Len ak je zapnuté blokovanie známych sledovacích prvkov
 do-not-track-option-always =
     .label = Vždy
+global-privacy-control-description =
+    .label = Požiadať webové stránky, aby nepredávali ani nezdieľali moje údaje
+    .accesskey = i
 settings-page-title = Nastavenia
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

@@ -57,6 +57,11 @@ client-auth-window =
     .title = Požiadavka na identifikáciu používateľa
 client-auth-site-description = Tento server požaduje, aby ste sa identifikovali certifikátom:
 client-auth-choose-cert = Vyberte certifikát, ktorý sa použije ako identifikácia:
+client-auth-send-no-certificate =
+    .label = Neodosielať certifikát
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = Server “{ $hostname }” požaduje, aby ste sa identifikovali certifikátom:
 client-auth-cert-details = Podrobnosti vybraného certifikátu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -70,7 +75,7 @@ client-auth-cert-details-serial-number = Sériové číslo: { $serialNumber }
 client-auth-cert-details-validity-period = Platnosť od { $notBefore } do { $notAfter }
 # Variables:
 # $keyUsages (String) - A list of already-localized key usages for which the certificate may be used
-client-auth-cert-details-key-usages = Kľúčové využitie: { $keyUsages }
+client-auth-cert-details-key-usages = Použitie kľúča: { $keyUsages }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
 client-auth-cert-details-email-addresses = E-mailové adresy: { $emailAddresses }
