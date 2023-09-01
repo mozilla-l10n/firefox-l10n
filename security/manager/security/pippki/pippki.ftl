@@ -57,6 +57,11 @@ client-auth-window =
     .title = 使用确认请求
 client-auth-site-description = 此站点请求您用证书来标识您自己：
 client-auth-choose-cert = 选择一个证书作为标识：
+client-auth-send-no-certificate =
+    .label = 不发送证书
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }”请求您用证书来标识您自己：
 client-auth-cert-details = 所选证书细节：
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

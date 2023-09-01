@@ -42,6 +42,8 @@ about-logging-preset-media-playback-label = 媒体播放
 about-logging-preset-media-playback-description = 用于诊断媒体播放（非视频会议）问题的日志模块
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = 用于诊断 WebRTC 调用的日志模块
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = 用于诊断 WebGPU 问题的日志模块
 about-logging-preset-custom-label = 自定义
 about-logging-preset-custom-description = 手动选择的日志模块
 # Error handling
