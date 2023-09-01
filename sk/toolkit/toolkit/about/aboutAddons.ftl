@@ -113,7 +113,7 @@ plugin-deprecation-description = Chýba vám tu niečo? Niektoré zásuvné modu
 legacy-warning-show-legacy = Zobraziť zastarané rozšírenia
 legacy-extensions =
     .value = Zastarané rozšírenia
-legacy-extensions-description = Tieto rozšírenia nespĺňajú súčasné kritériá prehliadača { -brand-short-name } a boli preto deaktivované. <label data-l10n-name="legacy-learn-more">Ďalšie informácie o zmenách ohľadom doplnkov</label>
+legacy-extensions-description = Tieto rozšírenia nespĺňajú súčasné kritériá aplikácie { -brand-short-name } a boli preto deaktivované. <label data-l10n-name="legacy-learn-more">Ďalšie informácie o zmenách ohľadom doplnkov</label>
 private-browsing-description2 =
     Fungovanie rozšírení v aplikácii { -brand-short-name } v súkromnom prehliadaní sa mení. Všetky novo nainštalované 
     rozšírenia do aplikácie { -brand-short-name } nebudú fungovať v súkromných oknách, pokiaľ im to nepovolíte.
