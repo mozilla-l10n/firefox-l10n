@@ -144,4 +144,4 @@ certerror-mitm-what-can-you-do-about-it-attack = Ak <b>{ $mitm }</b> nepoznáte,
 certerror-mitm-what-can-you-do-about-it-attack-sts = Ak <b>{ $mitm }</b> nepoznáte, môže ísť o útok a bohužiaľ nie je možné urobiť nič, aby ste sa mohli pripojiť k tejto stránke.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-what-should-i-do-bad-sts-cert-explanation = Server <b>{ $hostname }</b> má nastavené bezpečnostné pravidlo HTTP Strict Transport Security (HSTS), ktoré vynucuje používanie len zabezpečeného spojenia. Pre pripojenie k tejto stránke nie je možné pridať výnimku.
+certerror-what-should-i-do-bad-sts-cert-explanation = Server <b>{ $hostname }</b> má bezpečnostnú politiku HTTP Strict Transport Security (HSTS), čo znamená, že { -brand-short-name } sa k nemu môže pripojiť iba pomocou zabezpečeného spojenia. Na návštevu tohto webu nemôžete pridať výnimku.
