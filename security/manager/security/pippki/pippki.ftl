@@ -57,6 +57,11 @@ client-auth-window =
     .title = Begäran om användaridentifikation
 client-auth-site-description = Denna plats har begärt att du identifierar dig med ett certifikat:
 client-auth-choose-cert = Välj ett certifikat att ange som identifikation:
+client-auth-send-no-certificate =
+    .label = Skicka inte ett certifikat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = "{ $hostname }" har begärt att du ska identifiera dig med ett certifikat:
 client-auth-cert-details = Detaljer om valt certifikat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

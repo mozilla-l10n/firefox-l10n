@@ -42,9 +42,10 @@ about-logging-preset-media-playback-label = Uppspelning av media
 about-logging-preset-media-playback-description = Logga moduler för att diagnostisera uppspelningsproblem av media (inte videokonferensproblem)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Logga moduler för att diagnostisera WebRTC-anrop
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Logga moduler för att diagnostisera WebGPU-problem
 about-logging-preset-custom-label = Anpassad
 about-logging-preset-custom-description = Loggmoduler manuellt valda
-
 # Error handling
 about-logging-error = Fel:
 
@@ -58,5 +59,4 @@ about-logging-unknown-profiler-preset = Okänd förinställning av profilering "
 about-logging-unknown-option = Okänt alternativ för about:logging "{ $k }"
 about-logging-configuration-url-ignored = Konfigurations-URL ignoreras
 about-logging-file-and-profiler-override = Det går inte att tvinga fram filutmatning och åsidosätta profileringsalternativ samtidigt
-
 about-logging-configured-via-url = Alternativ konfigurerat via URL
