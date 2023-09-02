@@ -42,9 +42,9 @@ about-logging-preset-media-playback-label = Відтворення медіа
 about-logging-preset-media-playback-description = Модулі журналу для діагностики проблем із відтворенням медіа (не проблем із відеоконференціями)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модулі журналу для діагностики викликів WebRTC
+about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-custom-label = Власне
 about-logging-preset-custom-description = Модулі журналу вибрані вручну
-
 # Error handling
 about-logging-error = Помилка:
 
@@ -58,5 +58,4 @@ about-logging-unknown-profiler-preset = Невідоме попереднє на
 about-logging-unknown-option = Невідомий параметр about:logging “{ $k }“
 about-logging-configuration-url-ignored = URL конфігурації проігноровано
 about-logging-file-and-profiler-override = Не можна примусово виводити файл і одночасно перевизначати параметри профайлера
-
 about-logging-configured-via-url = Параметр налаштовано через URL
