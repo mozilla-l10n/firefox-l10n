@@ -57,6 +57,8 @@ client-auth-window =
     .title = Запит ідентифікації користувача
 client-auth-site-description = Сайт питає, з яким сертифікатом вас асоціювати:
 client-auth-choose-cert = Виберіть сертифікат для ідентифікації:
+client-auth-send-no-certificate =
+    .label = Не надсилати сертифікат
 client-auth-cert-details = Подробиці про вибраний сертифікат:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
