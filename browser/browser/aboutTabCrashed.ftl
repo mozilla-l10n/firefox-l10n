@@ -5,7 +5,7 @@
 crashed-title = Absturzmelder für Tabs
 crashed-close-tab-button = Tab schließen
 crashed-restore-tab-button = Diesen Tab wiederherstellen
-crashed-restore-all-button = Alle abgestürzte Tabs wiederherstellen
+crashed-restore-all-button = Alle abgestürzten Tabs wiederherstellen
 crashed-header = Der Tab ist gerade abgestürzt.
 crashed-offer-help = So können wir Ihnen helfen:
 crashed-single-offer-help-message = Wählen Sie "{ crashed-restore-tab-button }", um die Seite neu zu laden.
