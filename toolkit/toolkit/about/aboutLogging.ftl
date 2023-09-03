@@ -42,9 +42,10 @@ about-logging-preset-media-playback-label = Reproducción multimedia
 about-logging-preset-media-playback-description = Módulos de registro para diagnosticar problemas de reproducción de medios (no problemas de videoconferencia)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de registro para diagnosticar problemas de WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Módulos de registro para diagnosticar problemas de WebGPU
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de registro seleccionados manualmente
-
 # Error handling
 about-logging-error = Error:
 
@@ -58,5 +59,4 @@ about-logging-unknown-profiler-preset = Analizador predeterminado desconocido �
 about-logging-unknown-option = Opción about:logging desconocida “{ $k }“
 about-logging-configuration-url-ignored = URL de configuración ignorada
 about-logging-file-and-profiler-override = No se puede forzar la salida a un archivo y anular las opciones del analizador al mismo tiempo
-
 about-logging-configured-via-url = Opción configurada a través de URL

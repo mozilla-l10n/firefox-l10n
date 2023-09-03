@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Iniciar registro AEC
 about-webrtc-aec-logging-on-state-label = Detener registro AEC
 about-webrtc-aec-logging-on-state-msg = Registro AEC activo (hable con el interlocutor durante unos minutos y luego detenga la captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Registro AEC activo (hable con el interlocutor durante unos minutos y luego detenga la captura)
+about-webrtc-aec-logging-unavailable-sandbox = Se requiere la variable de entorno MOZ_DISABLE_CONTENT_SANDBOX=1 para exportar registros AEC. Establezca esta variable solo si comprende los posibles riesgos.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Los archivos de registro se pueden encontrar en: { $path }
@@ -228,8 +229,6 @@ about-webrtc-aec-logging-off-state-msg = los archivos de registro se pueden enco
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Página guardada como: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = El registro de traza se puede encontrar en: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuración activo, registro de traza en: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -302,6 +301,9 @@ about-webrtc-sdp-set-timestamp = Marca de tiempo { NUMBER($timestamp, useGroupin
 about-webrtc-show-msg-sdp = Mostrar SDP
 about-webrtc-hide-msg-sdp = Ocultar SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -309,9 +311,6 @@ about-webrtc-hide-msg-sdp = Ocultar SDP
 about-webrtc-media-context-show-msg = Mostrar contexto de medios
 about-webrtc-media-context-hide-msg = Ocultar contexto de medios
 about-webrtc-media-context-heading = Contexto de medios
-
-##
-
 
 ##
 
