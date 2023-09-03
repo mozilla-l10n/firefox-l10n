@@ -5,6 +5,15 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = Traducir esta página
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = Traducir esta página - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Probar traducciones privadas en { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -38,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Siempre traducir del { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Siempre traducir este idioma
+translations-panel-settings-always-offer-translation =
+    .label = Siempre ofrecer la traducción
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -59,6 +70,9 @@ translations-panel-translate-button-loading =
     .label = Espere…
 translations-panel-translate-cancel =
     .label = Cancelar
+translations-panel-learn-more-link = Saber más
+translations-panel-intro-header = Probar traducciones privadas en { -brand-shorter-name }
+translations-panel-intro-description = Para su privacidad, las traducciones nunca salen de su dispositivo. ¡Nuevos idiomas y mejoras próximamente!
 translations-panel-error-translating = Ha surgido un problema al traducir. Por favor inténtelo de nuevo.
 translations-panel-error-load-languages = No se han podido cargar los idiomas
 translations-panel-error-load-languages-hint = Compruebe su conexión a Internet e inténtelo de nuevo.
@@ -112,14 +126,20 @@ translations-manage-description = Descargar idiomas para traducción sin conexi�
 translations-manage-all-language = Todos los idiomas
 translations-manage-download-button = Descargar
 translations-manage-delete-button = Eliminar
-translations-manage-language-download-button =
-    .label = Descargar
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = Eliminar
-    .accesskey = E
 translations-manage-error-download = Ha habido un problema al descargar los archivos de idioma. Por favor, vuelva a intentarlo.
 translations-manage-error-delete = Ha habido un error al eliminar los archivos de idioma. Por favor, vuelva a intentarlo.
+translations-manage-intro = Establecer preferencias de idioma y traducción del sitio y administrar los idiomas instalados para traducción sin conexión.
+translations-manage-install-description = Instalar idiomas para traducción sin conexión
+translations-manage-language-install-button =
+    .label = Instalar
+translations-manage-language-install-all-button =
+    .label = Instalar todo
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = Eliminar
+translations-manage-language-remove-all-button =
+    .label = Eliminar todo
+    .accesskey = E
 translations-manage-error-list = No se ha podido obtener la lista de idiomas disponibles para la traducción. Actualice la página para volver a intentarlo.
 translations-settings-title =
     .title = Ajustes de traducción
