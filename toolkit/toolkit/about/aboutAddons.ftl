@@ -393,6 +393,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = Køyr på nettstadar med restriksjonar
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Når tillate, vil utvidinga ha tilgang til nettstadar avgrensa av { -vendor-short-name }. Tillat berre dersom du stolar på denne utvidinga.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Tillat
 addon-detail-quarantined-domains-disallow = Ikkje tillat
