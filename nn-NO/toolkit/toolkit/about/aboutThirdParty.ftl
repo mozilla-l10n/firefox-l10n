@@ -71,7 +71,7 @@ third-party-button-to-unblock-module-disabled = Fjern blokkering av denne module
         køyringa av { -brand-short-name }. Trykk for å oppheve blokkeringa.
     .aria-label =
         For tida markert som blokkert, sjølv om blokkeringslista er deaktivert for denne 
-        of { -brand-short-name }. Click to unblock it.
+        køyringa av { -brand-short-name }. Trykk for å oppheve blokkeringa.
 third-party-button-expand =
     .title = Vis detaljert informasjon
 third-party-button-collapse =
