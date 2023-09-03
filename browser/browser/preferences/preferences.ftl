@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Сайттарға "Мені бақыламау" сигналын жіберу арқылы сіз өзіңізді бақыламауды қалайтыныңыз туралы хабарлау
+do-not-track-description2 =
+    .label = Веб-сайттарға "Мені бақыламау" сұранымын жіберу
+    .accesskey = л
 do-not-track-learn-more = Көбірек білу
 do-not-track-option-default-content-blocking-known =
     .label = Тек { -brand-short-name } белгілі трекерлерді бұғаттауға бапталғанда
 do-not-track-option-always =
     .label = Әрқашан
+global-privacy-control-description =
+    .label = Веб-сайттарға менің деректерімді сатпауды немесе олармен бөліспеуді айту
+    .accesskey = с
 settings-page-title = Баптаулар
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
