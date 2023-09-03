@@ -110,7 +110,7 @@ translations-panel-to-label = ნათარგმნი
 # Variables:
 #   $fromLanguage (string) - The original language of the document.
 #   $toLanguage (string) - The target language of the translation.
-translations-panel-revisit-header = გვერდის ენა იყო { $fromLanguage }, ნათარგმნი კი { $toLanguage }
+translations-panel-revisit-header = გვერდის ენა იყო { $fromLanguage }, ნათარგმნი კი არის { $toLanguage }
 translations-panel-choose-language =
     .label = ენის შერჩევა
 translations-panel-restore-button =
