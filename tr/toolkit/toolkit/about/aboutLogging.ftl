@@ -38,6 +38,7 @@ about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Medya oynatma
 about-logging-preset-media-playback-description = Medya oynatma sorunlarını teşhis etmeye yönelik log modülleri (video konferans sorunları hariç)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-custom-label = Özel
 about-logging-preset-custom-description = Log modüllerini kendim seçeceğim
 # Error handling
