@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar a los sitios web una señal “No rastrear” indicando que no quiere ser rastreado
+do-not-track-description2 =
+    .label = Enviar a los sitios web una solicitud de “No rastrear”
+    .accesskey = d
 do-not-track-learn-more = Más información
 do-not-track-option-default-content-blocking-known =
     .label = Solo cuando { -brand-short-name } está configurado para bloquear los rastreadores conocidos
 do-not-track-option-always =
     .label = Siempre
+global-privacy-control-description =
+    .label = Decir a los sitios web que no vendan ni compartan mis datos
+    .accesskey = s
 settings-page-title = Ajustes
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -1065,6 +1071,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Fingerprinters
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Detectores de huellas digitales conocidos
+    .accesskey = c
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Presuntos detectores de huellas digitales
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
