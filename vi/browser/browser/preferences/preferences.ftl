@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Gửi tín hiệu “Không theo dõi” tới trang web để cho biết bạn không muốn bị theo dõi
+do-not-track-description2 =
+    .label = Gửi yêu cầu “không theo dõi” đến trang web
+    .accesskey = d
 do-not-track-learn-more = Tìm hiểu thêm
 do-not-track-option-default-content-blocking-known =
     .label = Chỉ khi { -brand-short-name } được đặt để chặn trình theo dõi đã biết
 do-not-track-option-always =
     .label = Luôn luôn
+global-privacy-control-description =
+    .label = Yêu cầu trang web không bán hoặc chia sẻ dữ liệu của tôi
+    .accesskey = s
 settings-page-title = Cài đặt
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

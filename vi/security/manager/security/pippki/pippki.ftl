@@ -57,6 +57,8 @@ client-auth-window =
     .title = Yêu cầu Nhận diện Người dùng
 client-auth-site-description = Trang này yêu cầu bạn tự nhận diện chính mình với một chứng chỉ:
 client-auth-choose-cert = Chọn một chứng chỉ để thực hiện việc nhận diện này:
+client-auth-send-no-certificate =
+    .label = Không gửi chứng chỉ
 client-auth-cert-details = Thông tin chi tiết của chứng chỉ được chọn:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
