@@ -57,6 +57,11 @@ client-auth-window =
     .title = Пайдаланушыны идентификациялаұ сұранымы
 client-auth-site-description = Сайт сізден өзіңізді сертификат арқылы анықтауды сұрап тұр:
 client-auth-choose-cert = Өзіңізді анықтайтын сертификатты таңдаңыз:
+client-auth-send-no-certificate =
+    .label = Сертификат жібермеу
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = "{ $hostname }" сайты сізден өзіңізді сертификат арқылы анықтауды сұрап тұр:
 client-auth-cert-details = Таңдалған сертификат ақпараты:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

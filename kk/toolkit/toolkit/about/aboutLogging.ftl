@@ -42,6 +42,8 @@ about-logging-preset-media-playback-label = Медианы ойнату
 about-logging-preset-media-playback-description = Медиа ойнату мәселелерін диагностикалау үшін журналдау модульдері (видео конференция мәселелері емес)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC қоңырауларын диагностикалау үшін журналдау модульдері
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = WebGPU мәселелерін диагностикалау үшін журналдау модульдері
 about-logging-preset-custom-label = Таңдауыңызша
 about-logging-preset-custom-description = Журналдау модульдері қолмен таңдалған
 # Error handling
