@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Send nettsider eit «Ikkje spor»-signal om at du ikkje vil bli spora
+do-not-track-description2 =
+    .label = Send nettstadar ein «Ikkje spor»-førespurnad
+    .accesskey = d
 do-not-track-learn-more = Les meir
 do-not-track-option-default-content-blocking-known =
     .label = Berre når { -brand-short-name } er innstilt for å blokkere kjende sporarar
 do-not-track-option-always =
     .label = Alltid
+global-privacy-control-description =
+    .label = Fortel nettstadar om å ikkje selje eller dele mine data
+    .accesskey = o
 settings-page-title = Innstillingar
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible

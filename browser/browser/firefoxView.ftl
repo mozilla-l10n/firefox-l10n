@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Sjå nyleg nettlesing på tvers av vindauge og einingar
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
