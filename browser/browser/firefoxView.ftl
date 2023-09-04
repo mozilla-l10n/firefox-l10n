@@ -112,21 +112,21 @@ firefoxview-history-context-delete = 从历史记录中删除
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-nav = 打开的标签页
-    .title = 打开的标签页
-firefoxview-opentabs-header = 打开的标签页
+firefoxview-opentabs-nav = 目前打开
+    .title = 目前打开
+firefoxview-opentabs-header = 目前打开
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
-firefoxview-recently-closed-nav = 最近关闭的标签页
-    .title = 最近关闭的标签页
-firefoxview-recently-closed-header = 最近关闭的标签页
+firefoxview-recently-closed-nav = 最近关闭
+    .title = 最近关闭
+firefoxview-recently-closed-header = 最近关闭
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
-firefoxview-synced-tabs-nav = 来自其他设备的标签页
-    .title = 来自其他设备的标签页
-firefoxview-synced-tabs-header = 来自其他设备的标签页
+firefoxview-synced-tabs-nav = 其他设备
+    .title = 其他设备
+firefoxview-synced-tabs-header = 其他设备
 
 ##
 
