@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = แปลหน้านี้
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = แปลหน้านี้ - เบตา
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -60,6 +65,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = ยกเลิก
 translations-panel-learn-more-link = เรียนรู้เพิ่มเติม
+translations-panel-intro-description = เพื่อความเป็นส่วนตัวของคุณ ข้อมูลการแปลจะไม่ออกไปนอกอุปกรณ์ของคุณ ภาษาและการปรับปรุงใหม่ๆ จะมาในเร็วๆ นี้!
 translations-panel-error-translating = เกิดปัญหาในการแปล โปรดลองอีกครั้ง
 translations-panel-error-load-languages = ไม่สามารถโหลดภาษา
 translations-panel-error-load-languages-hint = ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วลองอีกครั้ง
@@ -113,12 +119,6 @@ translations-manage-description = ดาวน์โหลดภาษาสำ�
 translations-manage-all-language = ภาษาทั้งหมด
 translations-manage-download-button = ดาวน์โหลด
 translations-manage-delete-button = ลบ
-translations-manage-language-download-button =
-    .label = ดาวน์โหลด
-    .accesskey = ด
-translations-manage-language-delete-button =
-    .label = ลบ
-    .accesskey = ล
 translations-manage-error-download = เกิดปัญหาในการดาวน์โหลดไฟล์ภาษา โปรดลองอีกครั้ง
 translations-manage-error-delete = เกิดข้อผิดพลาดในการลบไฟล์ภาษา โปรดลองอีกครั้ง
 translations-manage-install-description = ติดตั้งภาษาสำหรับการแปลแบบออฟไลน์

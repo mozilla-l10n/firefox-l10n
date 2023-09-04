@@ -556,6 +556,8 @@ urlbar-result-action-search-w-engine = ค้นหาด้วย { $engine }
 urlbar-result-action-sponsored = ได้รับการสนับสนุน
 urlbar-result-action-switch-tab = สลับไปยังแท็บ
 urlbar-result-action-visit = เยี่ยมชม
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = เยี่ยมชมจากคลิปบอร์ดของคุณ
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
