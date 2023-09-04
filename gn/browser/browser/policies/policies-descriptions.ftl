@@ -70,6 +70,7 @@ policy-Extensions = Emboguejy, eipe’a térã ejoko jepysokue. Pe poravopyrã �
 policy-ExtensionSettings = Eñangareko opaite mba’e jepysokue ñemohendáre.
 policy-ExtensionUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokue rehegua.
 policy-FirefoxHome2 = Emboheko { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Emboheko { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Emohembiapo ñeikundahatee ñanduti rendápe ehekarangue jeikeha peteĩ ñe’ẽmente ojehaíva kundaharape rendápe.
 policy-Handlers = Emboheko tembiporu’i ñangarekoha ypykuegua.
 policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.

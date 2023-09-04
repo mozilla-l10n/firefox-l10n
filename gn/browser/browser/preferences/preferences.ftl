@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Emondo ñanduti rendápe kuaaharã “Jehapykueho’ỹ” ipota’ỹva ojehapykueho
+do-not-track-description2 =
+    .label = Emondo ñanduti rendápe mba’ejeure “Jehapykueho’ỹ”
+    .accesskey = d
 do-not-track-learn-more = Kuaave
 do-not-track-option-default-content-blocking-known =
     .label = { -brand-short-name } oñemboheko jave ojoko hag̃ua tapykuehohápe añoite
 do-not-track-option-always =
     .label = Katui
+global-privacy-control-description =
+    .label = Ejerure ñanduti rendápe ani ovende ha omoherakuã che mba’ekuaarã
+    .accesskey = s
 settings-page-title = Ñemboheko
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
