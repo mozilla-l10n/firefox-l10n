@@ -7,7 +7,7 @@ rights-intro =
     { -brand-full-name } ha’e software reigua ha heko jurujáva tekove aty oĩhápe heta pytyvõhára arapy tuichakuépe. Oĩ hetaiterei mba’e eikuaaséramo
     g̃uarã:
 rights-intro-point-1 =
-    { -brand-short-name } eipurukuaa ko’ã jeguataha ehapykuehórõ
+    { -brand-short-name } eiporukuaa ko’ã jeguataha ehapykuehórõ
     <a data-l10n-name="mozilla-public-license-link">Mozilla mba’eteéva</a>.
     Kóva he’ise ikatuha eiporu, emboheta ha emyasãi { -brand-short-name } ambuépe. Ikatu avei emoambue pe ayvu reñoiha embojuehe { -brand-short-name } hag̃ua neremikotevẽ rehe. Pe Mozilla Public
     License ñemoneĩ opavaveguáva, ome’ẽ derécho emyasãivo pe hembiapokue ñemoambuepyréva.

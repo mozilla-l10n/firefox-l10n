@@ -42,6 +42,7 @@ about-logging-preset-media-playback-label = Hekoetáva mboheta
 about-logging-preset-media-playback-description = Teraguapy ra’ãha ojehechakuaa hag̃ua apañuãi ñembohetaha (ha’e’ỹva videoconferencia apañuãi)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua WebRTC apañuãi
+about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
 # Error handling
