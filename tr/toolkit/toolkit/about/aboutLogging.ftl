@@ -33,12 +33,17 @@ about-logging-with-profiler-stacks-checkbox = Log mesajları için yığın izin
 about-logging-preset-networking-label = Ağ
 about-logging-preset-networking-description = Ağ sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-networking-cookie-label = Çerezler
+about-logging-preset-networking-cookie-description = Çerez sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-networking-websocket-label = WebSockets
+about-logging-preset-networking-websocket-description = WebSocket sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-networking-http3-label = HTTP/3
+about-logging-preset-networking-http3-description = HTTP/3 ve QUIC sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-media-playback-label = Medya oynatma
 about-logging-preset-media-playback-description = Medya oynatma sorunlarını teşhis etmeye yönelik log modülleri (video konferans sorunları hariç)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webrtc-description = WebRTC çağrılarını teşhis etmeye yönelik log modülleri
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = WebGPU sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-custom-label = Özel
 about-logging-preset-custom-description = Log modüllerini kendim seçeceğim
 # Error handling
