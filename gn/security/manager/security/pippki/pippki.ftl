@@ -57,6 +57,8 @@ client-auth-window =
     .title = Mba’ejerure poruhára jehechaukaite
 client-auth-site-description = Pe tenda upeigua ojerurékuri ndéve rejehechauka hag̃ua peteĩ mboajepyréva ndive:
 client-auth-choose-cert = Eiporavo peteĩ mboapyréva emoapysẽ hag̃ua jehechaukaháramo:
+client-auth-send-no-certificate =
+    .label = Ani emondo mboajepyre
 client-auth-cert-details = Mboajepyréva poravopyre mba’emimi:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
