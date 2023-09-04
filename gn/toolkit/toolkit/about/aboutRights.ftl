@@ -9,7 +9,7 @@ rights-intro =
 rights-intro-point-1 =
     { -brand-short-name } eipurukuaa ko’ã jeguataha ehapykuehórõ
     <a data-l10n-name="mozilla-public-license-link">Mozilla mba’eteéva</a>.
-    Kóva he’ise ikatuha eipuru, emboheta ha emyasãi { -brand-short-name } ambuépe. Ikatu avei emoambue pe ayvu reñoiha embojuehe { -brand-short-name } hag̃ua neremikotevẽ rehe. Pe Mozilla Public
+    Kóva he’ise ikatuha eiporu, emboheta ha emyasãi { -brand-short-name } ambuépe. Ikatu avei emoambue pe ayvu reñoiha embojuehe { -brand-short-name } hag̃ua neremikotevẽ rehe. Pe Mozilla Public
     License ñemoneĩ opavaveguáva, ome’ẽ derécho emyasãivo pe hembiapokue ñemoambuepyréva.
 rights-intro-point-2 = Mozilla Foundation ha heseguáva noñeme’ẽi mba’evéichagua derécho térã ñe’ẽme’ẽ ñemurã rehegua, oike avei ápe Firefox réra ha ha’ãnga’i. Ikatu ojejuhu marandu pe ñemurã reheguáva <a data-l10n-name="mozilla-trademarks-link">ápe</a>.
 rights-intro-point-3 = Mbovy mba’e { -brand-short-name }-pe, jejavy mombe’uháraicha, omomarandukuaa { -vendor-short-name }-pe. Oñemondóta jave pe marandu, ome’ẽ { -vendor-short-name }-pe juruja ojepuru porã hag̃ua pe marandu omoporãverekávo imba’erepy, oñemoherakuã hag̃ua pe marandu iñanduti rendápe ha oñemyasãi hag̃ua.
