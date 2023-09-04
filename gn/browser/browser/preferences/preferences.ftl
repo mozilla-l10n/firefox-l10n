@@ -193,7 +193,7 @@ containers-remove-cancel-button = Aníke eipe’a ko guerekoha
 
 language-and-appearance-header = Ñe’ẽ ha Mba’ejeguarã
 preferences-web-appearance-header = Mba’éicha ojehecha ñanduti renda
-preferences-web-appearance-description = Heta ñanduti renda omohenda isa’y jepurukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jepurukuaa reipotáva umi tendápe g̃uarã.
+preferences-web-appearance-description = Heta ñanduti renda omohenda isa’y jeporukuaa umi ojeguerohoryvévaicha. Eiporavo sa’y jeporukuaa reipotáva umi tendápe g̃uarã.
 preferences-web-appearance-choice-auto = ijeheguietéva
 preferences-web-appearance-choice-light = Tesakã
 preferences-web-appearance-choice-dark = Ypytũ

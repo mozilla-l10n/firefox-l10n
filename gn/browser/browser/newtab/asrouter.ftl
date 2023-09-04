@@ -122,7 +122,7 @@ cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Eipurúvaicha peteĩ Wi-Fi opavaveguáva
-spotlight-public-wifi-vpn-body = Eñomi hag̃ua ne rendaite ha kundahára rembiapo, eipurukuaa red privada virtual. Ñepytyvõta eime hag̃ua ñemo’ãme eikundahakuévo tenda opavave oipurukuaáva ikatúva pepoatãguejyha ha taperyva’uha.
+spotlight-public-wifi-vpn-body = Eñomi hag̃ua ne rendaite ha kundahára rembiapo, eiporukuaa red privada virtual. Ñepytyvõta eñemo’ã hag̃ua eikundahávo tenda opavave oipurukuaáva ikatúva pepoatãguejyha ha taperyva’uha.
 spotlight-public-wifi-vpn-primary-button = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ani ko’ág̃a
@@ -190,10 +190,10 @@ colorways-cfr-primarybutton = Eiporaro sa’y ojueheguáva
     .accesskey = C
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Embosa’y kundahára eipotavévape { -brand-short-name } ndive ohechakuaáva umi ñe’ẽ omoambuéva mba’ekuaa.
-colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama 16 jasyteĩ guive
-colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojepurukuaavéitama mokõi arapokõindýpe
-colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko arapokõindýpe
-colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojepurukuaavéitama ko árape
+colorways-cfr-header-28days = Umi sa’y ojuehegua Independent Voices ndojeporukuaavéitama 16 jasyteĩ guive
+colorways-cfr-header-14days = Sa’y ojuehegua Independent Voices ndojeporukuaavéitama mokõi arapokõindýpe
+colorways-cfr-header-7days = Umi sa’y ojuehegua Independent Voices ndojeporukuaavéitama ko arapokõindýpe
+colorways-cfr-header-today = Umi sa’y ojuehegua Independent Voices ndojeporukuaavéitama ko árape
 
 ## Cookie Banner Handling CFR
 

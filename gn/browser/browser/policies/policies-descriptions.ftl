@@ -109,7 +109,7 @@ policy-Proxy = Emboheko proxy mohendahavusu.
 policy-RequestedLocales = Emopyenda tenda jerurepyre rusýi emomba’apo hag̃ua hekoitépe.
 policy-SanitizeOnShutdown2 = Emboguete kundaha mba’ekuaarã esẽnguévo.
 policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe poruhára ikatu gueteri oñemomba’e hese.
-policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eipurukuaa pe Extended Support Release (ESR) rupive.
+policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eiporukuaa pe Extended Support Release (ESR) rupive.
 policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Embojuaju térã eipe’a PKCS #11 ta’ãha.
