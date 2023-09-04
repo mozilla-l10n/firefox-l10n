@@ -56,7 +56,7 @@ protections-panel-no-trackers-found = Prehliadač { -brand-short-name } nenašie
 protections-panel-content-blocking-tracking-protection = Sledovací obsah
 protections-panel-content-blocking-socialblock = Sledovacie prvky sociálnych sietí
 protections-panel-content-blocking-cryptominers-label = Ťažba kryptomien
-protections-panel-content-blocking-fingerprinters-label = Odtlačok prehliadača
+protections-panel-content-blocking-fingerprinters-label = Snímanie digitálneho odtlačku
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
