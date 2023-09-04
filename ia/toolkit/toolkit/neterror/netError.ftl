@@ -90,11 +90,11 @@ neterror-proxy-resolve-failure-settings = Controla que sia correcte le parametro
 neterror-proxy-resolve-failure-connection = Controla que tu computator ha un connexion de rete functionante.
 neterror-proxy-resolve-failure-firewall = Assecurate, si tu computator o rete es protegite per un firewall o proxy, que  { -brand-short-name } pote acceder le Web.
 neterror-proxy-connect-failure-settings = Controla que le parametros del proxy es correcte.
-neterror-proxy-connect-failure-contact-admin = Continge tu administrator de rete pro saper si le servitor del proxy functiona.
-neterror-content-encoding-error = Continge le proprietarios del sito web pro informar les de iste problema.
-neterror-unsafe-content-type = Continge le proprietarios del sito web pro informar les de iste problema.
+neterror-proxy-connect-failure-contact-admin = Contacta tu administrator de rete pro saper si le servitor del proxy functiona.
+neterror-content-encoding-error = Contacta le proprietarios del sito web pro informar les de iste problema.
+neterror-unsafe-content-type = Contacta le proprietarios del sito web pro informar les de iste problema.
 neterror-nss-failure-not-verified = Le pagina que tu tenta vider non pote esser monstrate perque le authenticitate del datos recipite non poteva esser verificate.
-neterror-nss-failure-contact-website = Continge le proprietarios del sito web pro informar les de iste problema.
+neterror-nss-failure-contact-website = Contacta le proprietarios del sito web pro informar les de iste problema.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-intro = { -brand-short-name } ha detegite un potential menacia de securitate e non ha continuate a <b>{ $hostname }</b>. Si tu visita iste sito, attaccantes poterea tentar robar informationes como tu contrasignos, adresses de e-mail o detalios de carta de credito.
@@ -109,7 +109,7 @@ certerror-expired-cert-intro = { -brand-short-name } ha detegite un problema e n
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> es probabilemente un sito secur, ma un connexion secur non poteva esser establite. Iste problema es causate per <b>{ $mitm }</b>, que es o un software in tu computator o tu rete.
 neterror-corrupted-content-intro = Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le transmission de datos.
-neterror-corrupted-content-contact-website = Continge le proprietarios del sito web pro informar les de iste problema.
+neterror-corrupted-content-contact-website = Contacta le proprietarios del sito web pro informar les de iste problema.
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = Informationes avantiate: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -122,12 +122,12 @@ neterror-inadequate-security-code = Codice de error: NS_ERROR_NET_INADEQUATE_SEC
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = Tu computator signa que es { DATETIME($now, dateStyle: "medium") }. isto impedi a { -brand-short-name } de connecter se con securitate. Pro visitar <b>{ $hostname }</b>, actualisa le horologio de tu computator al data, tempore e fuso horari currente. Pois refresca <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Le pagina que tu tenta vider non pote esser monstrate perque un error ha essite detegite in le protocollo de rete.
-neterror-network-protocol-error-contact-website = Continge le proprietarios del sito web pro informar les de iste problema.
+neterror-network-protocol-error-contact-website = Contacta le proprietarios del sito web pro informar les de iste problema.
 certerror-expired-cert-second-para = Il pare que le certificato del sito es expirate, isto impedi a { -brand-short-name } de connecter se in modo secur. Si tu visita iste sito, alicuno pote attaccar e tentar de robar informationes como tu contrasignos, emails, o detalios de cartas de credito.
 certerror-expired-cert-sts-second-para = Il pare que le certificato del sito es expirate, isto impedi a { -brand-short-name } de connecter se in modo secur.
 certerror-what-can-you-do-about-it-title = Que pote tu facer concernente a isto?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Le problema es probabilemente in le sito web, e il ha nihil que tu pote facer pro resolver lo.
-certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si tu es in un rete de interprisa o usa un programma anti-virus, tu pote continger le respective equipas de assistentia technic. Tu pote tamben signalar le problema al administrator del sito.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Si tu es in un rete de interprisa o usa un programma anti-virus, tu pote contactar le respective equipas de assistentia technic. Tu pote tamben signalar le problema al administrator del sito.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
@@ -135,7 +135,7 @@ certerror-expired-cert-what-can-you-do-about-it-clock = Le horologio de tu compu
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Si le hora es jam correcte, le sito web es probabilemente mal configurate, e il ha nihil que tu pote facer pro resolver iste problema. Tu pote solo signalar iste problema al administrator del sito.
 certerror-bad-cert-domain-what-can-you-do-about-it = Le problema es probabilemente in le sito web, e il ha nihil que tu pote facer pro resolver lo. Tu pote signalar le problema al administrator del sito.
 certerror-mitm-what-can-you-do-about-it-antivirus = Si tu programma antivirus ha un function que controla connexiones cryptate (generalmente appellate “scan web” o “scan https”), tenta disactivar iste function. Si isto non resolve le problema, tenta remover e reinstallar le software antivirus.
-certerror-mitm-what-can-you-do-about-it-corporate = Si tu es in un rete corporative, tu pote continger tu assistentia technic.
+certerror-mitm-what-can-you-do-about-it-corporate = Si tu es in un rete corporative, tu pote contactar tu assistentia technic.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm-what-can-you-do-about-it-attack = Si tu non cognosce <b>{ $mitm }</b>, isto pote esser un attacco e tu non deberea continuar al sito.

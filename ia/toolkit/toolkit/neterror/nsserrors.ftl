@@ -12,10 +12,9 @@ psmerr-ssl-disabled = Connexion secur impossibile perque le protocollo SSL ha es
 psmerr-ssl2-disabled = On non pote connecter se securmente perque le sito usa un version plus vetule e insecur del protocollo SSL.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Tu ha recipite un certificato invalide.  Continge le administrator del servitor o le correspondente de email e da les le sequente information:
+    Tu ha recipite un certificato invalide. Contacta le administrator del servitor o le correspondente de email forniente le sequente information:
     
-    Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification.  Per favor obtene un nove certificato continente un numero serial unic.
-
+    Tu certificato contine le mesme numero serial que un altere certificato emittite per le autoritate de certification. Per favor obtene un nove certificato continente un numero serial unic.
 ssl-error-export-only-server = Impossibile communicar in maniera secur. Le par non supporta cryptographia de alte nivello.
 ssl-error-us-only-server = Impossibile communicar in maniera secur. Le par require cryptographia de un alte nivello que non es supportate.
 ssl-error-no-cypher-overlap = Impossibile communicar in maniera secur con le par: nulle algorithmo cryptographic in commun.
@@ -152,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nulle algorithmo de signatura TLS s
 ssl-error-unsupported-signature-algorithm = Le par usava un combination non supportate de signatura e de algorithmo de hash.
 ssl-error-missing-extended-master-secret = Le par ha tentate reprender sin un extension extended_master_secret correcte.
 ssl-error-unexpected-extended-master-secret = Le par ha tentate reprender con un extension extended_master_secret correcte.
-
 sec-error-io = Un error de I/O occurreva durante le autorisation de securitate.
 sec-error-library-failure = falta de bibliotheca de securitate.
 sec-error-bad-data = bibliotheca de securitate: recipite mal datos.
@@ -319,7 +317,6 @@ sec-error-locked-password = Contrasigno blocate.
 sec-error-unknown-pkcs11-error = Error incognite PKCS #11.
 sec-error-bad-crl-dp-url = URL non valide o non gerite in un puncto de distribution CRL.
 sec-error-cert-signature-algorithm-disabled = Le certificato era signate per un algorithmo de signatura disactivate perque non secur.
-
 mozilla-pkix-error-key-pinning-failure = Le servitor usa fixation de claves (HPKP) ma nulle catena de certificatos digne de fide que corresponde le insimul de claves fixe ha potite esser construite. Violationes de fixation de clave non pote esser supplantate.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Le servitor usa un certificato con un extension de restrictiones basic que lo identifica como un autoritate de certification. Pro un certificato installate correctemente, isto non deberea esser le caso.
 mozilla-pkix-error-inadequate-key-size = Le servitor ha presentate un certificato con un dimension de clave que es troppo parve pro establir un connexion secur.
@@ -334,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Le servitor presentava un certific
 mozilla-pkix-error-empty-issuer-name = Le servitor presentava un certificato con un nomine distincte del emittitor vacue.
 mozilla-pkix-error-additional-policy-constraint-failed = Un altere coercition de regulamento falleva durante le validation de iste certificato.
 mozilla-pkix-error-self-signed-cert = Le certificato non es fidite per que illo es auto-signate.
-
 xp-java-remove-principal-error = Il non se poteva remover le principal
 xp-java-delete-privilege-error = Il non se poteva deler le privilegio
 xp-java-cert-not-exists-error = Iste principal non ha un certificato
-
 xp-sec-fortezza-bad-card = Le carta Fortezza non ha essite initialisate correctemente. Per favor remove lo e retorna lo a su emissor.
 xp-sec-fortezza-no-card = Nulle cartas de Fortezza trovate
 xp-sec-fortezza-none-selected = Nulle carta de Fortezza seligite
