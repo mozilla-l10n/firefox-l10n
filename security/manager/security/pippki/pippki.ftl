@@ -57,6 +57,11 @@ client-auth-window =
     .title = Kullanıcı Tanımlama İsteği
 client-auth-site-description = Bu site, kendinizi bir sertifikayla tanıtmanızı istiyor:
 client-auth-choose-cert = Sizi tanıtmak için gösterilecek sertifikayı seçin:
+client-auth-send-no-certificate =
+    .label = Sertifika gönderme
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” kendinizi bir sertifikayla tanıtmanızı istiyor:
 client-auth-cert-details = Seçilen sertifikanın ayrıntıları:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
