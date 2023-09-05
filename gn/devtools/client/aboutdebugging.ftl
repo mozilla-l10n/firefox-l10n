@@ -13,7 +13,7 @@ about-debugging-page-title-setup-page = Ñemopotĩ - Ñemboheko
 # Page title (ie tab title) for the Runtime page
 # Variables:
 #   $selectedRuntimeId - ID of the current runtime, such as "this-firefox", "localhost:6080", etc.
-about-debugging-page-title-runtime-page = Ñemopotĩ - Mboy aravópa oipuru / { $selectedRuntimeId }
+about-debugging-page-title-runtime-page = Ñemopotĩ - Mboy aravópa oiporu / { $selectedRuntimeId }
 
 # Sidebar strings
 

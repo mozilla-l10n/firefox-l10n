@@ -48,7 +48,7 @@ tracker-tab-description = Ñandutikuéra renda ikatu omyanyhẽ marandu ñemurã
 fingerprinter-tab-title = Ñemokuãhũ
 fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
 cryptominer-tab-title = Criptomineros
-cryptominer-tab-content = Umi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy. <a data-l10n-name="learn-more-link">Kuaave</a>
+cryptominer-tab-content = Umi criptominero oiporúva nde apopyvusu rembiporupyahu onohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oiporupa ibatería, omombegue ne mohendaha ha ikatu ohupi tendyry repy. <a data-l10n-name="learn-more-link">Kuaave</a>
 protections-close-button2 =
     .aria-label = Mboty
     .title = Mboty
