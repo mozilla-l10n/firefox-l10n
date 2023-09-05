@@ -122,7 +122,7 @@ cfr-doorhanger-video-support-primary-button = Embohekopyahu ko’ág̃a
 
 # This header text can be explicitly wrapped.
 spotlight-public-wifi-vpn-header = Eipurúvaicha peteĩ Wi-Fi opavaveguáva
-spotlight-public-wifi-vpn-body = Eñomi hag̃ua ne rendaite ha kundahára rembiapo, eiporukuaa red privada virtual. Ñepytyvõta eñemo’ã hag̃ua eikundahávo tenda opavave oipurukuaáva ikatúva pepoatãguejyha ha taperyva’uha.
+spotlight-public-wifi-vpn-body = Eñomi hag̃ua ne rendaite ha kundahára rembiapo, eiporukuaa red privada virtual. Ñepytyvõta eñemo’ã hag̃ua eikundahávo tenda opavave oiporukuaáva ikatúva pepoatãguejyha ha taperyva’uha.
 spotlight-public-wifi-vpn-primary-button = Eiko tekoñemíme { -mozilla-vpn-brand-name } ndive
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ani ko’ág̃a

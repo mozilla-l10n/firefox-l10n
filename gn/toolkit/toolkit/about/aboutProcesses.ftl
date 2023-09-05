@@ -119,7 +119,7 @@ about-processes-frame-name-many = Kora’ive ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 
-about-processes-utility-actor-unknown = Poruha ojekuaa’ỹva
+about-processes-utility-actor-unknown = Moha’ãngahára ojekuaa’ỹva
 about-processes-utility-actor-audio-decoder-generic = Mba’epu papapy’oha ha’ete’ỹva
 about-processes-utility-actor-audio-decoder-applemedia = Apple mba’epu papapy’oha
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework mba’epu mbopapapy’oha

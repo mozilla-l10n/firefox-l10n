@@ -83,7 +83,7 @@ permissions-exceptions-manage-etp-desc = Ikatu ehechauka mba’ete ñanduti rend
 permissions-exceptions-cookie-window2 =
     .title = Ijykepeguáva: Kookie ha tenda mba’ekuaarã
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oipuru térã araka’eve ndoipurúiva kookie ha mba’ekuaarã tendagua. Ehai ñandutirape tenda reisãmbyhyséva ha upéi ehesakutu Joko, emoneĩ tembiapo térã Emoneĩ.
+permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oiporu térã araka’eve ndoipurúiva kookie ha mba’ekuaarã tendagua. Ehai ñandutirape tenda reisãmbyhyséva ha upéi ehesakutu Joko, emoneĩ tembiapo térã Emoneĩ.
 
 ## Exceptions - HTTPS-Only Mode
 
@@ -182,7 +182,7 @@ permissions-site-speaker-desc = Ko’ã ñanduti renda ojerure peteĩ mba’e’
 permissions-exceptions-doh-window =
     .title = Ñanduti renda ykepeguáva DNS mba’erã HTTPS rehegua
     .style = { permissions-window2.style }
-permissions-exceptions-manage-doh-desc = { -brand-short-name } ndoipurumo’ãi DNS hekorosãva ko’ã tenda ha tendatee’ípe.
+permissions-exceptions-manage-doh-desc = { -brand-short-name } ndoiporumo’ãi DNS hekorosãva ko’ã tenda ha tendatee’ípe.
 permissions-doh-entry-field = Ehai ñanduti renda rendatee réra
     .accesskey = d
 permissions-doh-add-exception =
