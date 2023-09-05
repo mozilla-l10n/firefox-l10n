@@ -77,17 +77,44 @@ translations-panel-error-dismiss-button =
 ## translate them as `Source language:` and `Target language:`
 
 translations-panel-from-label = Treiñ diwar
+translations-panel-to-label = Treiñ e
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+translations-panel-choose-language =
+    .label = Dibab ur yezh
+translations-panel-restore-button =
+    .label = Diskouez an destenn orin
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = Troidigezhioù
 translations-manage-settings-button =
     .label = Arventennoù…
     .accesskey = t
+translations-manage-description = Pellgargañ yezhoù evit treiñ digevreet.
+translations-manage-all-language = An holl yezhoù
+translations-manage-download-button = Pellgargañ
+translations-manage-delete-button = Dilemel
+translations-manage-language-install-button =
+    .label = Staliañ
+translations-manage-language-install-all-button =
+    .label = Staliañ pep tra
+    .accesskey = S
+translations-manage-language-remove-button =
+    .label = Dilemel
+translations-manage-language-remove-all-button =
+    .label = Dilemel pep tra
+    .accesskey = D
+translations-manage-error-install = C'hoarvezet ez eus bet ur gudenn en ur staliañ ar restroù yezh. Klaskit adarre mar plij.
+translations-manage-error-remove = C'hoarvezet ez eus bet ur fazi en ur dilemel ar restroù yezh. Klaskit adarre mar plij.
+translations-settings-title =
+    .title = Arventennoù an treiñ
+    .style = min-width: 36em
+translations-settings-close-key =
+    .key = w
 translations-settings-languages-column =
     .label = Yezhoù
 translations-settings-remove-language-button =
