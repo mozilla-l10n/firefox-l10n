@@ -13,7 +13,7 @@ do-not-track-option-always =
     .label = תמיד
 global-privacy-control-description =
     .label = להורות לאתרים לא למכור או לשתף את הנתונים שלי
-    .accesskey = ס
+    .accesskey = מ
 settings-page-title = הגדרות
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -968,6 +968,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = סימניות
     .accesskey = ס
+addressbar-locbar-clipboard-option =
+    .label = לוח העריכה
+    .accesskey = ל
 addressbar-locbar-openpage-option =
     .label = לשוניות פתוחות
     .accesskey = ל
