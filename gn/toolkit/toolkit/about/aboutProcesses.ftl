@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Tapereko Mboguatahára
-
 # The Actions column
 about-processes-column-action =
     .title = Ñemongu’e
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = Emboguejy tendayke ha ejapopa tapereko
 about-processes-shutdown-tab =
     .title = Emboty tendayke
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -53,7 +51,6 @@ about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Ñeme’ẽmby ({ $pid })
 about-processes-utility-process = Jepururã ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -88,7 +85,6 @@ about-processes-active-threads =
         [one] { $active } inimbo hendýva { $number }: { $list } mba’e
        *[other] { $active } inimbokuéra hendýva { $number }: { $list } mba’e
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -100,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } inimbo ndoikóiva
        *[other] { $number } inimbokuéra ndoikóiva
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = Id inimbo: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Tendayke: { $name }
 about-processes-preloaded-tab = Tendayke pyahu henyhẽmava
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Kora’ive: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -127,7 +119,7 @@ about-processes-frame-name-many = Kora’ive ({ $number }): { $shortUrl }
 
 ## Utility process actor names
 
-about-processes-utility-actor-unknown = Puruha ojekuaa’ỹva
+about-processes-utility-actor-unknown = Poruha ojekuaa’ỹva
 about-processes-utility-actor-audio-decoder-generic = Mba’epu papapy’oha ha’ete’ỹva
 about-processes-utility-actor-audio-decoder-applemedia = Apple mba’epu papapy’oha
 about-processes-utility-actor-audio-decoder-wmf = Windows Media Framework mba’epu mbopapapy’oha
@@ -148,15 +140,12 @@ about-processes-utility-actor-windows-utils = Windows kuave’ẽmby
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = CPU aravo: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (ta’ãha)
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = CPU aravo oipurúva { NUMBER($total, maximumFractionDigits: 0) } { $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = Oĩreíva
     .title = CPU aravo oipurúva { NUMBER($total, maximumFractionDigits: 0) } { $unit }
@@ -175,7 +164,6 @@ about-processes-cpu-fully-idle = Oĩreíva
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Mongakuaa: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
