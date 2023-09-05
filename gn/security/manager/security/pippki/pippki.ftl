@@ -59,6 +59,9 @@ client-auth-site-description = Pe tenda upeigua ojerurékuri ndéve rejehechauka
 client-auth-choose-cert = Eiporavo peteĩ mboapyréva emoapysẽ hag̃ua jehechaukaháramo:
 client-auth-send-no-certificate =
     .label = Ani emondo mboajepyre
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” ojerure ndéve rejehechauka hag̃ua peteĩ mboajepyréva ndive:
 client-auth-cert-details = Mboajepyréva poravopyre mba’emimi:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
