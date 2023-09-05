@@ -90,8 +90,8 @@ protections-panel-site-not-working-view-send-report = Emondo marandu’i
 ##
 
 protections-panel-cross-site-tracking-cookies = Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha.
-protections-panel-cryptominers = Ymi criptominero oipurúva nde apopyvusu rembiporupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oiporupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy.
-protections-panel-fingerprinters = Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oipurúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.
+protections-panel-cryptominers = Ymi criptominero oiporúva nde apopyvusu rembiporupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oiporupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy.
+protections-panel-fingerprinters = Umi Kuãhũ kuaaukaha ombyaty ne kundaha ha mohendaha ñemboheko omoheñói hag̃ua imba’eterã. Oiporúva ko kuãhũ ikatu ohapykueho heta ñanduti renda rupive.
 protections-panel-tracking-content = Tendakuéra ikatu ohupi maranduñemurã okaygua, ta’ãngamýi ha ambue tetepy orekóva tapykuehoha ayvu. Tetepy rapykuehoha jejoko ikatu oipytyvõ tendakuérape henyhẽ pya’eve hag̃ua hákatu heta votõ, myanyhẽha ha jeikeha kora ikatu ndoikovéi.
 protections-panel-social-media-trackers = Umi ava ñandutieta ohechakuaa tapykuehoha ambue ñanduti rendápe ohapykueho hag̃ua hembiapo, ohecha tapia ñandutípe. Kóva omoneĩ mba’apohaguasu ava ñandutietápe oikuaavévo ndehegui umi emoherakuãvagui ava ñandutietápe.
 protections-panel-description-shim-allowed = Oĩ tapykuehoha ikurusúva yvy gotyo oñemosãso’imíva ko kuatiaroguépe oñemongu’e rupi hendivekuéra.

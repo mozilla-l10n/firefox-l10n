@@ -1168,7 +1168,7 @@ collection-health-report-disabled = Pe mba’ekuaarã momarandu oñemboguéma ko
 collection-backlogged-crash-reports-with-link = Emoneĩ { -brand-short-name } omomarandúvo jejavymeme nde rérape <a data-l10n-name="crash-reports-link">Eikuaave</a>
     .accesskey = c
 privacy-segmentation-section-header = Tembiapoite pyahu ombopya’evéva ne ñeikundaha
-privacy-segmentation-section-description = Roikuave’ẽ vove tembiapoite oipurúva mba’ekuaarã ome’ẽségui jehasakue nemba’erãva:
+privacy-segmentation-section-description = Roikuave’ẽ vove tembiapoite oiporúva mba’ekuaarã ome’ẽségui jehasakue nemba’erãva:
 privacy-segmentation-radio-off =
     .label = Eipuru he’iháicha { -brand-product-name }
 privacy-segmentation-radio-on =

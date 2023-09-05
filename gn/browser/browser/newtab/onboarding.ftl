@@ -287,7 +287,7 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 
 mr2022-onboarding-privacy-segmentation-title = Opa ára romomba’e nde rekoñemi
 mr2022-onboarding-privacy-segmentation-subtitle = Ñemoñe’ẽ ha’evéva guive jehekakuaa porã peve, romba’apo tapiaite romoheñói hag̃ua { -brand-product-name } iporã ha nemba’erãitéva.
-mr2022-onboarding-privacy-segmentation-text-cta = ¿Mba’e ehechase rome’ẽta vove tembiapoite pyahu oipurúva mba’ekuaarã oiko porãve hag̃ua ñeikundaha?
+mr2022-onboarding-privacy-segmentation-text-cta = ¿Mba’e ehechase rome’ẽta vove tembiapoite pyahu oiporúva mba’ekuaarã oiko porãve hag̃ua ñeikundaha?
 mr2022-onboarding-privacy-segmentation-button-primary-label = Eipuru he’iháicha { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Ehechauka marandu oĩháicha
 
