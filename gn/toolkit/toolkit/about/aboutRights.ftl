@@ -18,7 +18,7 @@ rights-intro-point-4 =
     { -vendor-short-name }-pe { -brand-short-name } rupive oñemoha’ãnga amo <a data-l10n-name="mozilla-privacy-policy-link">{ -brand-short-name }
     Temiñemi Purureko</a>.
 rights-intro-point-4-unbranded = Oimeraẽva temiñemi purureko ko japopyrépe g̃uarãva oñembohysyiva’erã ko’ápe.
-rights-intro-point-5 = Heta mba’e { -brand-short-name } rehegua oipuru marandu ñanduti pegua, péicharamo jepe, ndaikatúi romoañetévo oĩporãmbaiteha. Ikatu ejuhu mba’emimi, oikekuaahápe marandu he’íva mba’éichapa ikatu eipe’aite umi mba’e oipurúva ko’ã mba’epururã, amo <a data-l10n-name="mozilla-service-terms-link">mba’epytyvõrã ñemboguata</a>.
+rights-intro-point-5 = Heta mba’e { -brand-short-name } rehegua oipuru marandu ñanduti pegua, péicharamo jepe, ndaikatúi romoañetévo oĩporãmbaiteha. Ikatu ejuhu mba’emimi, oikekuaahápe marandu he’íva mba’éichapa ikatu eipe’aite umi mba’e oiporúva ko’ã mba’epururã, amo <a data-l10n-name="mozilla-service-terms-link">mba’epytyvõrã ñemboguata</a>.
 rights-intro-point-5-unbranded = Ko japopyre oikéramo ñanduti mba’epytyvõrãme, oimeraẽva mba’epytyvõrã ojogueraháva umi mba’epytyvõrã ndive oikeva’erã ojokuápe amo <a data-l10n-name="mozilla-website-services-link">Ñanduti renda mba’epytyvõrã</a> pehẽ’i.
 rights-intro-point-6 = Embohetaseve rupi hetaichagua ta’ãngamýi tretepy, { -brand-short-name } omboguejy heta mbopapapy ra’ãha tetepy mbohapyguáva rehegua.
 rights-webservices-header = Mba’epytyvõrã { -brand-full-name } marandu ñanduti pegua
