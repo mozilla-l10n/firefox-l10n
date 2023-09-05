@@ -143,6 +143,10 @@ firefoxview-show-more = Паказаць больш
 firefoxview-show-less = Паказаць менш
 firefoxview-sort-history-by-date-label = Сартаваць па даце
 firefoxview-sort-history-by-site-label = Сартаваць па сайтах
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Пераключыцца на { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
