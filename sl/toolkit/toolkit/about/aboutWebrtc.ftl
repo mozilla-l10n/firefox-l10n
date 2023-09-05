@@ -106,6 +106,7 @@ about-webrtc-log-section-show-msg = Prikaži dnevnik
 about-webrtc-log-section-hide-msg = Skrij dnevnik
     .title = Kliknite za strnjanje tega razdelka
 about-webrtc-copy-report-button = Kopiraj poročilo
+about-webrtc-copy-report-history-button = Kopiraj zgodovino poročil
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -121,6 +122,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (prekinj
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Pošiljanje/prejemanje: { $codecs }
+about-webrtc-short-send-direction = Pošiljanje: { $codecs }
+about-webrtc-short-receive-direction = Prejemanje: { $codecs }
 
 ##
 
@@ -203,12 +207,11 @@ about-webrtc-save-page-msg = stran shranjena na: { $path }
 about-webrtc-debug-mode-off-state-msg = dnevnik sledenja lahko najdete na: { $path }
 about-webrtc-debug-mode-on-state-msg = razhroščevanje vključeno, dnevnik sledenja na: { $path }
 about-webrtc-aec-logging-off-state-msg = dnevniške datoteke zajema lahko najdete na: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Stran shranjena na: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Dnevnik sledenja lahko najdete na: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Razhroščevanje vključeno, dnevnik sledenja na: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -290,6 +293,9 @@ about-webrtc-sdp-set-timestamp = Časovni žig { NUMBER($timestamp, useGrouping:
 
 about-webrtc-show-msg-sdp = Prikaži SDP
 about-webrtc-hide-msg-sdp = Skrij SDP
+
+##
+
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
