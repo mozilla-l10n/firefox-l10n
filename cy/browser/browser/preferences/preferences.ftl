@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Anfon neges “Dim Tracio” at wefannau nad ydych am gael eich tracio
+do-not-track-description2 =
+    .label = Anfon  cais “Peidio Tracio” i wefannau
+    .accesskey = P
 do-not-track-learn-more = Dysgu rhagor
 do-not-track-option-default-content-blocking-known =
     .label = Dim ond pan mae { -brand-short-name } wedi ei osod i rwystro tracwyr hysbys.
 do-not-track-option-always =
     .label = Bob tro
+global-privacy-control-description =
+    .label = Dweud wrth wefannau i beidio â gwerthu neu rannu fy nata
+    .accesskey = g
 settings-page-title = Gosodiadau
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -985,6 +991,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Nodau Tudalen
     .accesskey = N
+addressbar-locbar-clipboard-option =
+    .label = Clipfwrdd
+    .accesskey = C
 addressbar-locbar-openpage-option =
     .label = Tabiau ar agor
     .accesskey = T
