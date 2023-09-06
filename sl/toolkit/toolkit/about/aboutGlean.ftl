@@ -48,3 +48,6 @@ about-glean-about-testing-header = O preizkušanju
 about-glean-no-ping-label = (ne pošiljaj nobenega pinga)
 controls-button-label-verbose = Uporabi nastavitve in pošlji ping
 about-glean-about-data-header = O podatkih
+about-glean-about-data-explanation =
+    Za brskanje po seznamu zbranih podatkov si oglejte
+    <a data-l10n-name="glean-dictionary-link">slovar { -glean-brand-name(sklon: "rodilnik") }</a>.

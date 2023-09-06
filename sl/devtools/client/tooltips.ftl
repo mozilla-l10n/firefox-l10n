@@ -16,6 +16,7 @@ learn-more = <span data-l10n-name="link">Več o tem</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni niti vsebnik flex niti vsebnik grid.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex, vsebnik grid ali vsebnik z več stolpci.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik z več stolpci.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik grid ali flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> ne vpliva na ta element, ker ni element grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik grid.
@@ -42,6 +43,7 @@ inactive-css-ruby-element = <strong>{ $property }</strong> nima vpliva na ta ele
 
 inactive-css-not-grid-or-flex-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Poskusite dodati <strong>display:grid</strong>, <strong>display:flex</strong> ali <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Poskusite dodati bodisi <strong>column-count</strong> bodisi <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Poskusite starševskemu elementu dodati <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> ali <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-grid-item-fix-2 = Nadrejenemu elementu poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
 inactive-css-not-grid-container-fix = Poskusite dodati <strong>display:grid</strong> ali <strong>display:inline-grid</strong>. { learn-more }
@@ -56,6 +58,7 @@ inactive-text-overflow-when-no-overflow-fix = Poskusite dodati <strong>overflow:
 inactive-css-not-for-internal-table-elements-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Poskusite nastaviti njeno lastnost <strong>display</strong> na nekaj drugega kot <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ali <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Poskusite dodati <strong>display:table</strong> ali <strong>display:inline-table</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Poskusite dodati <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Poskusite dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ali <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = V nadrejenem elementu "table" odstranite lastnost ali pa ji spremenite <strong>border-collapse</strong> v vrednost, drugačno od <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Poskusite spremeniti lastnost <strong>font-size</strong> besedila ruby. { learn-more }
