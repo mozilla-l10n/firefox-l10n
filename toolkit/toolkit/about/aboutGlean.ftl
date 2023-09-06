@@ -16,6 +16,7 @@
        *[imenovalnik] Glean
     }
 glean-sdk-brand-name = SDK { -glean-brand-name }
+glean-debug-ping-viewer-brand-name = Pregledovalnik razhroščevalnih pingov { -glean-brand-name }
 about-glean-page-title2 = O { -glean-brand-name(sklon: "mestnik") }
 about-glean-header = O { -glean-brand-name(sklon: "mestnik") }
 about-glean-upload-enabled = Pošiljanje podatkov je omogočeno.
