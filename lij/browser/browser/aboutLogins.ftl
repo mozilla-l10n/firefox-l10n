@@ -77,6 +77,7 @@ about-logins-list-section-week = Urtimi 7 giorni
 
 ## Introduction screen
 
+about-logins-login-intro-heading-logged-in = Nisciun bagon scincronizou trovou.
 
 ## Login
 
@@ -121,6 +122,9 @@ about-logins-edit-login-os-auth-dialog-message-macosx = cangia l'acesso sarvou
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segrete
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = còpia a poula segretta sarvâ
 
 ## Primary Password notification
 
