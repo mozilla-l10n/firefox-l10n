@@ -980,6 +980,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = zaznamke
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = odložišče
+    .accesskey = l
 addressbar-locbar-openpage-option =
     .label = odprte zavihke
     .accesskey = O
@@ -1076,6 +1079,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Sledilce prstnih odtisov
     .accesskey = p
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Znane sledilce prstnih odtisov
+    .accesskey = Z
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Morebitne sledilce prstnih odtisov
+    .accesskey = b
 
 ## Privacy Section - Tracking
 
