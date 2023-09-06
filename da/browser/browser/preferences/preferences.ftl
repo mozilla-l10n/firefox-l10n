@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Send websteder signalet 'Spor mig ikke' ('Do not track') for at fortælle, at du ikke vil spores
+do-not-track-description2 =
+    .label = Send websteder en "Spor mig ikke"-forespørgsel
+    .accesskey = d
 do-not-track-learn-more = Læs mere
 do-not-track-option-default-content-blocking-known =
     .label = Kun når { -brand-short-name } er indstillet til at blokere kendte sporings-teknologier
 do-not-track-option-always =
     .label = Altid
+global-privacy-control-description =
+    .label = Fortæl websteder, at de ikke skal sælge eller dele mine data
+    .accesskey = s
 settings-page-title = Indstillinger
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -969,6 +975,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Bogmærker
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = Udklipsholder
+    .accesskey = U
 addressbar-locbar-openpage-option =
     .label = Åbne faneblade
     .accesskey = f
@@ -1064,6 +1073,18 @@ content-blocking-cryptominers-label =
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
     .label = Fingerprinters
+    .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Kendte fingerprinters
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Formodede fingerprinters
     .accesskey = F
 
 ## Privacy Section - Tracking

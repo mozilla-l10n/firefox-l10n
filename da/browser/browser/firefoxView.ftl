@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Se seneste aktivitet på tværs af vinduer og enheder
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = r
