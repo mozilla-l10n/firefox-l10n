@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Vedno prevedi jezik { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Vedno prevedi ta jezik
+translations-panel-settings-always-offer-translation =
+    .label = Vedno ponudi prevod
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Prenesite jezike za prevajanje brez povezave.
 translations-manage-all-language = Vsi jeziki
 translations-manage-download-button = Prenesi
 translations-manage-delete-button = Izbriši
-translations-manage-language-download-button =
-    .label = Prenesi
-    .accesskey = P
-translations-manage-language-delete-button =
-    .label = Izbriši
-    .accesskey = I
 translations-manage-error-download = Pri prenašanju datoteke z jezikom je prišlo do težave. Poskusite znova.
 translations-manage-error-delete = Pri brisanju datoteke z jezikom je prišlo do napake. Poskusite znova.
 translations-manage-intro = Upravljajte nastavitve prevajanja spletnih strani in jezike, nameščene za prevajanje brez povezave.

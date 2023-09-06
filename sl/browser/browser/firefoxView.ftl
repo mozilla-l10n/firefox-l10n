@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ogled nedavnega brskanja v drugih oknih in napravah
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -175,6 +178,7 @@ firefoxview-choose-browser-button = Izberite brskalnik
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-description = Varstvo vaše zasebnosti je srž našega delovanja. Zato lahko odločate, katero dejavnost naj si { -brand-short-name } zapomni.
 firefoxview-dont-remember-history-empty-description-two = Pri trenutnih nastavitvah si { -brand-short-name } ne zapomni vašega brskanja. Če želite to spremeniti, <a data-l10n-name="history-settings-url-two">v nastavitvah izberite shranjevanje zgodovine</a>.
 
 ##
