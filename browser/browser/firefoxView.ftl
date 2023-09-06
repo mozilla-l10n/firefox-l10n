@@ -169,6 +169,7 @@ firefoxview-view-more-browsing-history = Prikaži več zgodovine brskanja
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Vrnite se tja, kjer ste bili
+firefoxview-history-empty-description-two = Varstvo vaše zasebnosti je v središču našega delovanja. Zato lahko v <a data-l10n-name="history-settings-url">nastavitvah zgodovine</a> odločate, katero dejavnost naj si { -brand-short-name } zapomni.
 
 ##
 
