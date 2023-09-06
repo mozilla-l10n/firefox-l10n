@@ -57,6 +57,11 @@ client-auth-window =
     .title = Cais am Adnabod Defnyddiwr
 client-auth-site-description = Mae'r wefan yn gofyn i chi ddweud pwy ydych gyda thystysgrif diogelwch:
 client-auth-choose-cert = Dewiswch dystysgrif i'w chyflwyno fel adnabyddiaeth:
+client-auth-send-no-certificate =
+    .label = Peidio ag anfon tystysgrif
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = Mae “{ $hostname }” wedi gofyn i chi adnabod eich hun gyda thystysgrif:
 client-auth-cert-details = Manylion y dystysgrif hon:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
