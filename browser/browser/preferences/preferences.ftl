@@ -994,8 +994,8 @@ addressbar-locbar-engines-option =
     .label = iskalnike
     .accesskey = i
 addressbar-locbar-quickactions-option =
-    .label = Hitra dejanja
-    .accesskey = H
+    .label = hitra dejanja
+    .accesskey = h
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 addressbar-quickactions-learn-more = Več o tem
 
