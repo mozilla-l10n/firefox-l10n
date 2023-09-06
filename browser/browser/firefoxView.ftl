@@ -34,7 +34,7 @@ firefoxview-tabpickup-adddevice-learn-how = Даведацца, як
 firefoxview-tabpickup-adddevice-primarybutton = Атрымаць { -brand-product-name } для мабільнага
 firefoxview-syncedtabs-adddevice-header = Увайдзіце ў { -brand-product-name } на іншых сваіх прыладах
 firefoxview-syncedtabs-adddevice-description = Каб бачыць свае карткі ўсюды, дзе вы карыстаецеся { -brand-product-name }, увайдзіце ва ўліковы запіс на ўсіх сваіх прыладах. Даведайцеся, як <a data-l10n-name="url">падключыць дадатковыя прылады</a>.
-firefoxview-syncedtabs-adddevice-primarybutton = Паспрабуйце { -brand-product-name } для мабільных прылад
+firefoxview-syncedtabs-adddevice-primarybutton = Паспрабаваць { -brand-product-name } для мабільных прылад
 firefoxview-tabpickup-synctabs-header = Уключыць сінхранізацыю картак
 firefoxview-tabpickup-synctabs-description = Дазволіць { -brand-short-name } дзяліцца карткамі паміж прыладамі.
 firefoxview-tabpickup-synctabs-learn-how = Даведацца, як
