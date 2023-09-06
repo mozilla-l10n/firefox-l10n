@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Oversæt altid { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Oversæt altid dette sprog
+translations-panel-settings-always-offer-translation =
+    .label = Tilbyd altid at oversætte
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Hent sprog til oversættelse offline.
 translations-manage-all-language = Alle sprog
 translations-manage-download-button = Hent
 translations-manage-delete-button = Slet
-translations-manage-language-download-button =
-    .label = Hent
-    .accesskey = H
-translations-manage-language-delete-button =
-    .label = Slet
-    .accesskey = e
 translations-manage-error-download = Der opstod et problem med at hente sprogfilerne. Prøv igen.
 translations-manage-error-delete = Der opstod en fejl under sletningen af sprogfilerne. Prøv igen.
 translations-manage-intro = Vælg dit sprog, indstillinger for oversættelser af websteder og håndter sprog installeret til brug for oversættelse offline.
