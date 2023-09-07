@@ -42,6 +42,7 @@ about-logging-preset-media-playback-label = การเล่นสื่อ
 about-logging-preset-media-playback-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหาการเล่นสื่อ (ไม่ใช่ปัญหาการประชุมทางวิดีโอ)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = โมดูลบันทึกสำหรับวินิจฉัยการเรียก WebRTC
+about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-custom-label = กำหนดเอง
 about-logging-preset-custom-description = โมดูลบันทึกที่เลือกด้วยตนเอง
 # Error handling

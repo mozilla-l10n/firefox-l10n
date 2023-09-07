@@ -43,6 +43,8 @@ translations-panel-settings-always-translate-language =
     .label = แปล { $language } เสมอ
 translations-panel-settings-always-translate-unknown-language =
     .label = แปลภาษานี้เสมอ
+translations-panel-settings-always-offer-translation =
+    .label = เสนอให้แปลอยู่เสมอ
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
