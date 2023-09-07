@@ -43,6 +43,8 @@ translations-panel-settings-always-translate-language =
     .label = Totjorn traduire lo { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Totjorn traduire aquesta lenga
+translations-panel-settings-always-offer-translation =
+    .label = Totjorn prepausar de traduire
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -118,12 +120,6 @@ translations-manage-description = Telecargar de lengas per la traduccion fòra l
 translations-manage-all-language = Totas les lengas
 translations-manage-download-button = Telecargar
 translations-manage-delete-button = Suprimir
-translations-manage-language-download-button =
-    .label = Telecargar
-    .accesskey = T
-translations-manage-language-delete-button =
-    .label = Suprimir
-    .accesskey = S
 translations-manage-error-download = I a agut un problèma al moment de telecargar los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-error-delete = I a agut un problèma al moment de suprimir los fichièrs de lenga. Ensajatz tornamai.
 translations-manage-install-description = Installar de lengas per la traduccion fòra linha
