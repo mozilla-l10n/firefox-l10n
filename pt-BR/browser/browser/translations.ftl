@@ -72,7 +72,7 @@ translations-panel-translate-cancel =
     .label = Cancelar
 translations-panel-learn-more-link = Saiba mais
 translations-panel-intro-header = Experimente o sistema de tradução que respeita sua privacidade no { -brand-shorter-name }
-translations-panel-intro-description = Para sua privacidade, as traduções nunca saem do seu dispositivo. Novos idiomas e melhorias em breve!
+translations-panel-intro-description = Para sua privacidade, o texto de tradução nunca sai do seu dispositivo. Novos idiomas e melhorias em breve!
 translations-panel-error-translating = Houve um problema ao traduzir. Tente novamente.
 translations-panel-error-load-languages = Não foi possível carregar idiomas
 translations-panel-error-load-languages-hint = Verifique sua conexão com a internet e tente novamente.
@@ -118,7 +118,7 @@ translations-panel-restore-button =
 
 ## Firefox Translations language management in about:preferences.
 
-translations-manage-header = Traduções
+translations-manage-header = Tradução
 translations-manage-settings-button =
     .label = Configurações…
     .accesskey = C
