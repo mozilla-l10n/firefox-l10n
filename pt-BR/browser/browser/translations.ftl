@@ -13,7 +13,7 @@ urlbar-translations-button2 =
 # Note that here "Beta" should not be translated, as it is a reflection of the
 # un-localized BETA icon that is in the panel.
 urlbar-translations-button-intro =
-    .tooltiptext = Experimente traduções privativas no { -brand-shorter-name } - Beta
+    .tooltiptext = Experimente o sistema de tradução que respeita sua privacidade no { -brand-shorter-name } - Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -37,9 +37,9 @@ translations-panel-displayname-beta =
 
 translations-panel-settings-manage-languages =
     .label = Gerenciar idiomas
-translations-panel-settings-about = Sobre traduções no { -brand-shorter-name }
+translations-panel-settings-about = Sobre tradução no { -brand-shorter-name }
 translations-panel-settings-about2 =
-    .label = Sobre traduções no { -brand-shorter-name }
+    .label = Sobre tradução no { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -71,7 +71,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Cancelar
 translations-panel-learn-more-link = Saiba mais
-translations-panel-intro-header = Experimente traduções privativas no { -brand-shorter-name }
+translations-panel-intro-header = Experimente o sistema de tradução que respeita sua privacidade no { -brand-shorter-name }
 translations-panel-intro-description = Para sua privacidade, as traduções nunca saem do seu dispositivo. Novos idiomas e melhorias em breve!
 translations-panel-error-translating = Houve um problema ao traduzir. Tente novamente.
 translations-panel-error-load-languages = Não foi possível carregar idiomas
