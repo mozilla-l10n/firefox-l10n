@@ -57,6 +57,8 @@ client-auth-window =
     .title = คำขออัตลักษณ์ผู้ใช้
 client-auth-site-description = ไซต์นี้ได้ขอให้คุณระบุตัวคุณเองด้วยใบรับรอง:
 client-auth-choose-cert = เลือกใบรับรองเพื่อระบุตัวตน:
+client-auth-send-no-certificate =
+    .label = อย่าส่งใบรับรอง
 client-auth-cert-details = รายละเอียดของใบรับรองที่เลือก:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
