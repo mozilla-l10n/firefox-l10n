@@ -140,6 +140,10 @@ firefoxview-show-more = Ne veire mai
 firefoxview-show-less = Ne veire mens
 firefoxview-sort-history-by-date-label = Triar per data
 firefoxview-sort-history-by-site-label = Triar per site
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Anar a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -190,3 +194,7 @@ firefoxview-recentlyclosed-empty-header = Avètz tampat los onglets per inatenci
 
 ##
 
+
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
+
+firefoxview-syncedtabs-device-notabs = Cap d’onglet pas dobèrt sus aqueste aparelh
