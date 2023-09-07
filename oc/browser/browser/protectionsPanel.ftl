@@ -29,6 +29,14 @@ protections-panel-etp-off-header = La proteccion renfortida contra lo seguiment 
 ## custom element code.
 ##   $host (String): the hostname of the site that is being displayed.
 
+protections-panel-etp-on-toggle =
+    .label = Proteccion renfortida contra lo seguiment
+    .description = activada per aqueste site
+    .aria-label = Desactivar las proteccion per { $host }
+protections-panel-etp-off-toggle =
+    .label = Proteccion renfortida contra lo seguiment
+    .description = desactivada per aqueste site
+    .aria-label = Activar las proteccion per { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Lo site fonciona pas ?
 # The heading/title of the sub-panel view
