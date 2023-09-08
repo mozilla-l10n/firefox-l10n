@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Compras no { -brand-product-name }
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Verificador de avaliações
 shopping-close-button =
     .title = Fechar
 # This string is for notifying screen reader users that the
@@ -28,8 +32,17 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
+shopping-message-bar-warning-stale-analysis-message = Inicie o analisador do { -fakespot-brand-full-name } para obter informações atualizadas em cerca de 60 segundos.
 shopping-message-bar-generic-error-title = Análise não disponível no momento
+shopping-message-bar-generic-error-message = Estamos trabalhando para resolver o problema. Tente novamente depois.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
+shopping-message-bar-warning-not-enough-reviews-message = Quando este produto tiver mais avaliações, poderemos analisar.
+shopping-message-bar-warning-product-not-available-title = O produto não está disponível
+shopping-message-bar-warning-product-not-available-button = Informar que tem este produto em estoque novamente
+shopping-message-bar-thanks-for-reporting-title = Obrigado por informar!
+shopping-message-bar-warning-product-not-available-reported-title = Análise em breve
+shopping-message-bar-warning-offline-title = Sem conexão de rede
+shopping-message-bar-analysis-in-progress-title = Análise em breve
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -40,12 +53,23 @@ shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliaç�
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Preço
+shopping-highlight-quality = Qualidade
+shopping-highlight-shipping = Envio
+shopping-highlight-competitiveness = Competitividade
+shopping-highlight-packaging = Embalagem
 
 ## Strings for show more card
 
+shopping-show-more-button = Mostrar mais
+shopping-show-less-button = Mostrar menos
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Configurações
+shopping-settings-recommendations-toggle =
+    .label = Mostrar anúncios no verificador de avaliações
 
 ## Strings for the adjusted rating component
 
