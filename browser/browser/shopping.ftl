@@ -84,6 +84,8 @@ powered-by-fakespot = O verificador de avaliações é desenvolvido por <a data-
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Classificação ajustada
 shopping-adjusted-rating-unreliable-reviews = Avaliações não confiáveis removidas
 
 ## Strings for the review reliability component
@@ -111,6 +113,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Avaliações não 
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Abrir barra lateral de compras
+shopping-sidebar-close-button =
+    .tooltiptext = Fechar barra lateral de compras
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -125,3 +131,6 @@ shopping-unanalyzed-product-analyze-link = Inicie o analisador no { -fakespot-we
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Mais a considerar
+ad-by-fakespot = Anúncio do { -fakespot-brand-name }
