@@ -95,6 +95,19 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Como determinamos a qualidade da avaliação
+shopping-analysis-explainer-intro =
+    Usamos a tecnologia de inteligência artificial do { -fakespot-brand-full-name } para analisar a confiabilidade das avaliações de produtos.
+    Esta análise só ajuda a estimar a qualidade da avaliação, não a qualidade do produto.
+shopping-analysis-explainer-grades-intro = Atribuímos às avaliações de cada produto uma <strong>nota com letra</strong> de A a F.
+shopping-analysis-explainer-adjusted-rating-description = A <strong>classificação ajustada</strong> é baseada apenas em avaliações que acreditamos ser confiáveis.
+shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como o { -fakespot-brand-full-name } determina a qualidade da avaliação</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Os <strong>destaques</strong> são provenientes de avaliações de { $retailer } feitas nos últimos 80 dias e que acreditamos ser confiáveis.
+shopping-analysis-explainer-review-grading-scale-reliable = Avaliações confiáveis. Acreditamos que as avaliações provavelmente são de consumidores reais que deixaram avaliações honestas e imparciais.
+shopping-analysis-explainer-review-grading-scale-mixed = Acreditamos que há uma mistura de avaliações confiáveis e não confiáveis.
+shopping-analysis-explainer-review-grading-scale-unreliable = Avaliações não confiáveis. Acreditamos que as avaliações provavelmente são falsas ou de avaliadores tendenciosos.
 
 ## Strings for UrlBar button
 
@@ -107,6 +120,7 @@ shopping-analysis-explainer-label =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Nenhuma análise dessas avaliações ainda
+shopping-unanalyzed-product-message = Inicie o analisador do { -fakespot-brand-full-name } e você saberá em cerca de 60 segundos se as avaliações deste produto são confiáveis.
 shopping-unanalyzed-product-analyze-link = Inicie o analisador no { -fakespot-website-name }
 
 ## Strings for the advertisement
