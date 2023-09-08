@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = 同步開啟的分頁
 firefoxview-syncedtabs-synctabs-header = 更新同步設定
 firefoxview-syncedtabs-synctabs-description = 需要同步開啟的分頁，才能看到您其他裝置上的分頁。
 firefoxview-syncedtabs-synctabs-checkbox = 允許同步開啟的分頁
+firefoxview-syncedtabs-loading-header = 正在同步
+firefoxview-syncedtabs-loading-description = 同步完成後就會看到您其他裝置上開啟的分頁，請稍後再回來。
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的組織已停用同步功能
 firefoxview-tabpickup-fxa-admin-disabled-description = 由於您的管理員已停用同步功能，{ -brand-short-name } 無法在裝置間同步分頁。
 firefoxview-tabpickup-network-offline-header = 請檢查您的網際網路連線是否正常
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = 要尋找更久之前的分�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = 未於此裝置開啟分頁
+firefoxview-syncedtabs-connect-another-device = 連結另一部裝置
