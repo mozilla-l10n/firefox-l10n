@@ -46,6 +46,8 @@ shopping-message-bar-warning-product-not-available-reported-title = 即將提供
 shopping-message-bar-warning-product-not-available-reported-message = 將在約 24 小時候提供更新過的分析資訊，請稍後再回來。
 shopping-message-bar-warning-offline-title = 沒有網路連線
 shopping-message-bar-warning-offline-message = 請檢查您的網路連線是否正常，然後嘗試重新載入頁面。
+shopping-message-bar-analysis-in-progress-title = 即將提供分析資訊
+shopping-message-bar-analysis-in-progress-message = 完成後，我們會自動在此顯示更新過的資訊。
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -57,9 +59,12 @@ shopping-message-bar-warning-stale-analysis-link = 到 { -fakespot-website-name 
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = 近期評論的重點資訊
 shopping-highlight-price = 價格
 shopping-highlight-quality = 品質
 shopping-highlight-shipping = 出貨
+shopping-highlight-competitiveness = 商品競爭力
 shopping-highlight-packaging = 包裝
 
 ## Strings for show more card
@@ -96,6 +101,10 @@ shopping-analysis-explainer-intro = 我們使用來自 { -fakespot-brand-full-na
 shopping-analysis-explainer-grades-intro = 我們會替每筆商品評論標上 A（優良）到 F（不佳）的<strong>評分</strong>。
 shopping-analysis-explainer-adjusted-rating-description = 會依照我們認為可靠的評論，重新計算<strong>調整後評分</strong>。
 shopping-analysis-explainer-learn-more = 了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 如何判斷商品評論品質</a>的更多資訊。
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>重點資訊</strong>是根據過去 80 天中，我們相信是可靠的 { $retailer } 評論所整理出的資訊。
 shopping-analysis-explainer-review-grading-scale-reliable = 評論可靠。我們相信此商品的評論內容很可能是來自實際客戶所留下真實而中立的評論。
 shopping-analysis-explainer-review-grading-scale-mixed = 我們相信此商品評論混和了可靠與不可靠的評論。
 shopping-analysis-explainer-review-grading-scale-unreliable = 評論不可靠。我們相信此商品的評論內容很可能是由虛假或偏頗的評論者所留下。
