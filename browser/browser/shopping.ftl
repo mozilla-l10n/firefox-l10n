@@ -32,6 +32,20 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = 已推出更新
+shopping-message-bar-warning-stale-analysis-message = 啟動 { -fakespot-brand-full-name } 分析器，即可在 60 秒內獲得更新資訊。
+shopping-message-bar-generic-error-title = 暫時無法提供分析資料
+shopping-message-bar-generic-error-message = 我們正在努力解決此問題，請稍後再回來。
+shopping-message-bar-warning-not-enough-reviews-title = 還沒有足夠的評論數
+shopping-message-bar-warning-not-enough-reviews-message = 當此商品有足夠的評論後，即可進行分析。
+shopping-message-bar-warning-product-not-available-title = 商品已下架
+shopping-message-bar-warning-product-not-available-message = 若您發現此產品又上架了，請回報給我們，我們將盡快更新分析結果。
+shopping-message-bar-warning-product-not-available-button = 回報此商品已重新上架
+shopping-message-bar-thanks-for-reporting-title = 感謝您回報！
+shopping-message-bar-thanks-for-reporting-message = 我們將在約 24 小時候提供更新過的分析資訊，請稍後再回來。
+shopping-message-bar-warning-product-not-available-reported-title = 即將提供分析資訊
+shopping-message-bar-warning-product-not-available-reported-message = 將在約 24 小時候提供更新過的分析資訊，請稍後再回來。
+shopping-message-bar-warning-offline-title = 沒有網路連線
+shopping-message-bar-warning-offline-message = 請檢查您的網路連線是否正常，然後嘗試重新載入頁面。
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -39,6 +53,7 @@ shopping-message-bar-warning-stale-analysis-title = 已推出更新
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = 到 { -fakespot-website-name } 啟動分析器
 
 ## Strings for the product review snippets card
 
@@ -83,6 +98,7 @@ shopping-analysis-explainer-adjusted-rating-description = 會依照我們認為�
 shopping-analysis-explainer-learn-more = 了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 如何判斷商品評論品質</a>的更多資訊。
 shopping-analysis-explainer-review-grading-scale-reliable = 評論可靠。我們相信此商品的評論內容很可能是來自實際客戶所留下真實而中立的評論。
 shopping-analysis-explainer-review-grading-scale-mixed = 我們相信此商品評論混和了可靠與不可靠的評論。
+shopping-analysis-explainer-review-grading-scale-unreliable = 評論不可靠。我們相信此商品的評論內容很可能是由虛假或偏頗的評論者所留下。
 
 ## Strings for UrlBar button
 
