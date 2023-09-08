@@ -90,12 +90,33 @@ shopping-adjusted-rating-unreliable-reviews = Unreliable reviews removed
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = How reliable are these reviews?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = How we determine review quality
+shopping-analysis-explainer-intro =
+    We use AI technology from { -fakespot-brand-full-name } to analyze the reliability of product reviews.
+    This analysis will only help you assess review quality, not product quality.
+shopping-analysis-explainer-grades-intro = We assign each product’s reviews a <strong>letter grade</strong> from A to F.
+shopping-analysis-explainer-adjusted-rating-description = The <strong>adjusted rating</strong> is based only on reviews we believe to be reliable.
+shopping-analysis-explainer-learn-more = Learn more about <a data-l10n-name="review-quality-url">how { -fakespot-brand-full-name } determines review quality</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Highlights</strong> are from { $retailer } reviews within the last 80 days that we believe to be reliable.
+shopping-analysis-explainer-review-grading-scale-reliable = Reliable reviews. We believe the reviews are likely from real customers who left honest, unbiased reviews.
+shopping-analysis-explainer-review-grading-scale-mixed = We believe there’s a mix of reliable and unreliable reviews.
+shopping-analysis-explainer-review-grading-scale-unreliable = Unreliable reviews. We believe the reviews are likely fake or from biased reviewers.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Open shopping sidebar
+shopping-sidebar-close-button =
+    .tooltiptext = Close shopping sidebar
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -104,6 +125,12 @@ shopping-adjusted-rating-unreliable-reviews = Unreliable reviews removed
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = No analysis for these reviews yet
+shopping-unanalyzed-product-message = Launch the { -fakespot-brand-full-name } analyser and you’ll know in about 60 seconds whether this product’s reviews are reliable.
+shopping-unanalyzed-product-analyze-link = Launch analyser on { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = More to consider
+ad-by-fakespot = Ad by { -fakespot-brand-name }
