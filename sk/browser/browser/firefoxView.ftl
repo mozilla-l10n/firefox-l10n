@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Zapnúť synchronizáciu kariet
 firefoxview-syncedtabs-synctabs-header = Aktualizujte nastavenia synchronizácie
 firefoxview-syncedtabs-synctabs-description = Ak chcete zobraziť karty z iných zariadení, musíte svoje otvorené karty synchronizovať.
 firefoxview-syncedtabs-synctabs-checkbox = Povoliť synchronizáciu otvorených kariet
+firefoxview-syncedtabs-loading-header = Prebieha synchronizácia
+firefoxview-syncedtabs-loading-description = Po dokončení uvidíte všetky karty, ktoré máte otvorené na iných zariadeniach. Už o chvíľu.
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizácia zakázala synchronizáciu
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemôže synchronizovať karty medzi zariadeniami, pretože váš správca zakázal synchronizáciu.
 firefoxview-tabpickup-network-offline-header = Skontrolujte svoje internetové pripojenie
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Ak chcete nájsť karty z min
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Na tomto zariadení nie sú otvorené žiadne karty
+firefoxview-syncedtabs-connect-another-device = Pripojiť ďalšie zariadenie

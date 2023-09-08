@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na 
 inactive-css-not-flex-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex.
 inactive-css-not-inline-or-tablecell = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o vložený prvok ani prvok tabuľky.
 inactive-css-first-line-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::first-line.
+inactive-css-placeholder-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::placeholder.
 inactive-css-property-because-of-display = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože tento má nastavenú vlastnosť display na hodnotu <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Hodnota vlastnosti <strong>display</strong> bola vykresľovačom zmenená na <strong>block</strong>, pretože prvok je má nastavený <strong>float</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Nie je možné prepísať vlastnosť <strong>{ $property }</strong> z dôvodu obmedzenia selektorom <strong>:visited</strong>.
