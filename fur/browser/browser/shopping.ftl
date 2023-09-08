@@ -38,6 +38,16 @@ shopping-message-bar-generic-error-message = O stin lavorant par risolvi il prob
 shopping-message-bar-warning-not-enough-reviews-title = No son ancjemò vonde recensions
 shopping-message-bar-warning-not-enough-reviews-message = A pene che chest prodot al varà plui recensions, o rivarìn a analizâlis.
 shopping-message-bar-warning-product-not-available-title = Il prodot nol è disponibil
+shopping-message-bar-warning-product-not-available-message = Se tu viodis che chest prodot al è di gnûf disponibil, visinus cuntune segnalazion e o lavorarìn par inzornâ la analisi.
+shopping-message-bar-warning-product-not-available-button = Segnale che chest prodot al è di gnûf disponibil
+shopping-message-bar-thanks-for-reporting-title = Graciis pe segnalazion!
+shopping-message-bar-thanks-for-reporting-message = O varessin di vê une analisi inzornade dentri di 24 oris. Controle plui tart.
+shopping-message-bar-warning-product-not-available-reported-title = Analisi disponibile ca di pôc
+shopping-message-bar-warning-product-not-available-reported-message = Une analisi inzornade e varès di sei pronte dentri di 24 oris. Torne controle plui tart.
+shopping-message-bar-warning-offline-title = Nissune conession di rêt
+shopping-message-bar-warning-offline-message = Controle la tô conession di rêt e prove a tornâ a cjariâ la pagjine.
+shopping-message-bar-analysis-in-progress-title = Analisi disponibile ca di pôc
+shopping-message-bar-analysis-in-progress-message = Al completament, o mostrarìn achì in automatic lis informazions inzornadis.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -45,15 +55,29 @@ shopping-message-bar-warning-product-not-available-title = Il prodot nol è disp
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Invie il strument di analisi su { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = In evidence da lis recensions resintis
+shopping-highlight-price = Presit
+shopping-highlight-quality = Cualitât
+shopping-highlight-shipping = Spedizion
+shopping-highlight-competitiveness = Competitivitât
+shopping-highlight-packaging = Imbaladure
 
 ## Strings for show more card
 
+shopping-show-more-button = Mostre di plui
+shopping-show-less-button = Mostre di mancul
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Impostazions
+shopping-settings-recommendations-toggle =
+    .label = Mostre anunzis te verifiche recensions
 
 ## Strings for the adjusted rating component
 
