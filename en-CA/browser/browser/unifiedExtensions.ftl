@@ -20,22 +20,25 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Open menu for { $extensionName }
-
 unified-extensions-item-message-manage = Manage extension
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Pin to Toolbar
-
 unified-extensions-context-menu-manage-extension =
     .label = Manage Extension
-
 unified-extensions-context-menu-remove-extension =
     .label = Remove Extension
-
 unified-extensions-context-menu-report-extension =
     .label = Report Extension
+unified-extensions-context-menu-move-widget-up =
+    .label = Move Up
+unified-extensions-context-menu-move-widget-down =
+    .label = Move Down
 
 ## Notifications
 
+unified-extensions-mb-quarantined-domain-title = Some extensions are not allowed
+unified-extensions-mb-quarantined-domain-message = Only some extensions monitored by { -vendor-short-name } are allowed on this site to protect your data.
+unified-extensions-mb-quarantined-domain-message-2 = To protect your data, some extensions can’t read or change data on this site. Use the extension’s settings to allow on sites restricted by { -vendor-short-name }.

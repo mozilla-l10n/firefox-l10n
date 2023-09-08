@@ -4,18 +4,15 @@
 
 tabbrowser-empty-tab-title = New Tab
 tabbrowser-empty-private-tab-title = New Private Tab
-
 tabbrowser-menuitem-close-tab =
     .label = Close Tab
 tabbrowser-menuitem-close =
     .label = Close
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } — { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -120,7 +117,6 @@ tabbrowser-confirm-caretbrowsing-checkbox = Do not show me this dialog box again
 #   $domain (String): URL of the page that is trying to steal focus.
 tabbrowser-allow-dialogs-to-get-focus =
     .label = Allow notifications like this from { $domain } to take you to their tab
-
 tabbrowser-customizemode-tab-title = Customize { -brand-short-name }
 
 ## Context menu buttons, of which only one will be visible at a time
@@ -139,6 +135,8 @@ tabbrowser-context-mute-selected-tabs =
 tabbrowser-context-unmute-selected-tabs =
     .label = Unmute Tabs
     .accesskey = m
+# This string is used as an additional tooltip and accessibility description for tabs playing audio
+tabbrowser-tab-audio-playing-description = Playing audio
 
 ## Ctrl-Tab dialog
 
@@ -149,3 +147,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Mute tab
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Unmute tab
+tabbrowser-manager-close-tab =
+    .tooltiptext = Close tab
