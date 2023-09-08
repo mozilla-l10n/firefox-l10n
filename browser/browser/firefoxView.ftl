@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronizar abas abertas
 firefoxview-syncedtabs-synctabs-header = Atualize suas configurações de sincronização
 firefoxview-syncedtabs-synctabs-description = Para acessar suas abas de outros dispositivos, você precisa sincronizar suas abas abertas.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir sincronizar abas abertas
+firefoxview-syncedtabs-loading-header = Sincronização em andamento
 firefoxview-tabpickup-fxa-admin-disabled-header = Sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar abas entre dispositivos porque seu administrador desativou a sincronização.
 firefoxview-tabpickup-network-offline-header = Verifique sua conexão com a internet
@@ -210,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Para encontrar abas fechadas 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nenhuma aba aberta neste dispositivo
+firefoxview-syncedtabs-connect-another-device = Conecte outro dispositivo
