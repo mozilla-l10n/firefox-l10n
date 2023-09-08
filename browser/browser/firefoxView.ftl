@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Uppfærðu stillingarnar þínar fyrir 
 firefoxview-syncedtabs-synctabs-description = Til að sjá flipa frá öðrum tækjum þarftu að samstilla opna flipa.
 firefoxview-syncedtabs-synctabs-checkbox = Leyfa opnum flipum að samstillast
 firefoxview-syncedtabs-loading-header = Samstilling í gangi
+firefoxview-syncedtabs-loading-description = Þegar því er lokið sérðu alla flipa sem þú hefur opna á öðrum tækjum. Komdu hingað aftur fljótlega.
 firefoxview-tabpickup-fxa-admin-disabled-header = Kerfisstjórarnir þínir hafa gert samstillingu óvirka
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } getur ekki samstillt flipa á milli tækja vegna þess að kerfisstjórarnir þínir hafa slökkt á samstillingu.
 firefoxview-tabpickup-network-offline-header = Athugaðu internettenginguna þína
