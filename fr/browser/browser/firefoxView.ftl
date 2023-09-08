@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Synchroniser les onglets ouverts
 firefoxview-syncedtabs-synctabs-header = Mettez à jour vos paramètres de synchronisation
 firefoxview-syncedtabs-synctabs-description = Pour consulter les onglets d’autres appareils, vous devez synchroniser vos onglets ouverts.
 firefoxview-syncedtabs-synctabs-checkbox = Autoriser la synchronisation des onglets ouverts
+firefoxview-syncedtabs-loading-header = Synchronisation en cours
 firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre administrateur·trice a désactivé la synchronisation.
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
