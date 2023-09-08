@@ -5,7 +5,7 @@
 shopping-page-title = { -brand-product-name } verslun
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = Yfirferð útgáfu
+shopping-main-container-title = Umsagnaskoðun
 shopping-close-button =
     .title = Loka
 # This string is for notifying screen reader users that the
@@ -35,7 +35,9 @@ shopping-message-bar-warning-stale-analysis-title = Uppfærslur í boði
 shopping-message-bar-generic-error-title = Greining ekki tiltæk í augnablikinu
 shopping-message-bar-generic-error-message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
 shopping-message-bar-warning-not-enough-reviews-title = Ekki nægar umsagnir ennþá
+shopping-message-bar-warning-product-not-available-title = Vara er ekki fáanleg
 shopping-message-bar-thanks-for-reporting-title = Takk fyrir að tilkynna þetta!
+shopping-message-bar-warning-product-not-available-reported-title = Greining kemur fljótlega
 shopping-message-bar-warning-offline-title = Engin nettenging
 shopping-message-bar-warning-offline-message = Athugaðu nettenginguna þína. Prófaðu síðan að endurlesa síðuna.
 shopping-message-bar-analysis-in-progress-title = Greining kemur fljótlega
@@ -46,6 +48,7 @@ shopping-message-bar-analysis-in-progress-title = Greining kemur fljótlega
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Keyra greiningu á { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -66,6 +69,9 @@ shopping-show-less-button = Sýna minna
 
 shopping-settings-label =
     .label = Stillingar
+shopping-settings-recommendations-toggle =
+    .label = Birta auglýsingar í umsagnaskoðun
+shopping-settings-opt-out-button = Slökkva á umsagnaskoðun
 powered-by-fakespot = Umsagnaskoðunin er knúin áfram af <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
@@ -87,6 +93,11 @@ powered-by-fakespot = Umsagnaskoðunin er knúin áfram af <a data-l10n-name="fa
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Engin greining fyrir þessar umsagnir ennþá
+shopping-unanalyzed-product-analyze-link = Keyra greiningu á { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Fleira sem mætti skoða
+ad-by-fakespot = Auglýsing frá { -fakespot-brand-name }
