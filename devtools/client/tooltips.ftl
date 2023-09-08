@@ -24,6 +24,7 @@ inactive-css-not-flex-item = 由於不是 Flex 項目，<strong>{ $property }</s
 inactive-css-not-flex-container = 由於不是 Flex 容器，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-inline-or-tablecell = 由於不是行內或表格欄位元素，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-first-line-pseudo-element-not-supported = ::first-line 偽元素不支援 <strong>{ $property }</strong>。
+inactive-css-placeholder-pseudo-element-not-supported = ::placeholder 偽元素不支援 <strong>{ $property }</strong>。
 inactive-css-property-because-of-display = 由於此元素的 display 屬性值為 <strong>{ $display }</strong>，<strong>{ $property }</strong> 對此元素沒有影響。
 inactive-css-not-display-block-on-floated = 由於是 <strong>floated</strong> 元素，繪圖引擎已將 <strong>display</strong> 值更改為 <strong>block</strong>。
 inactive-css-property-is-impossible-to-override-in-visited = 由於 <strong>:visited</strong> 的限制，無法蓋過 <strong>{ $property }</strong>。
