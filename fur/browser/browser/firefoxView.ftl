@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Viôt la navigazion resinte sui barcons e sui dispositîfs
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -42,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronize lis schedis viertis
 firefoxview-syncedtabs-synctabs-header = Inzorne lis impostazions di sincronizazion
 firefoxview-syncedtabs-synctabs-description = Par viodi lis schedis di altris dispositîfs tu âs di ativâ la sincronizazion des schedis viertis.
 firefoxview-syncedtabs-synctabs-checkbox = Permet la sincronizazion des schedi viertis
+firefoxview-syncedtabs-loading-header = Sincronizazion in cors
+firefoxview-syncedtabs-loading-description = Une volte completade, lis schedis viertis in cualsisei altri dispositîf a vignaran visualizadis achì. Controle plui indevant.
 firefoxview-tabpickup-fxa-admin-disabled-header = La tô organizazion e à disativât la sincronizazion
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nol rive a sincronizâ lis schedis tra i dispositîfs parcè che il to aministradôr al à disabilitât la sincronizazion.
 firefoxview-tabpickup-network-offline-header = Controle la tô conession a internet
@@ -207,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Par cjatâ schedis sieradis d
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nissune schede vierte in chest dispositîf
+firefoxview-syncedtabs-connect-another-device = Conet un altri dispositîf

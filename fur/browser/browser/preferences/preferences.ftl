@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Mande ai sîts web un segnâl “Do Not Track” che al indiche che no tu vuelis vignî spiât
+do-not-track-description2 =
+    .label = Mande ai sîts web une richieste “Do Not Track” (no sta spiâ)
+    .accesskey = d
 do-not-track-learn-more = Plui informazions
 do-not-track-option-default-content-blocking-known =
     .label = Dome cuant che { -brand-short-name } al è configurât par blocâ lis spiis (trackers) cognossudis
 do-not-track-option-always =
     .label = Simpri
+global-privacy-control-description =
+    .label = Dîs ai sîts web di no sta vendi o condividi i miei dâts
+    .accesskey = s
 settings-page-title = Impostazions
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -969,6 +975,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Segnelibris
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = Notis
+    .accesskey = N
 addressbar-locbar-openpage-option =
     .label = Schedis viertis
     .accesskey = v
@@ -1027,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Contignûts che a spiin in ducj 
 content-blocking-all-cross-site-cookies = Ducj i cookies inter-sît
 content-blocking-cryptominers = Minadôrs di criptomonede
 content-blocking-fingerprinters = Rilevadôrs di stamp numeric (fingerprinters)
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Rilevadôrs di stamp numeric cognossûts o suspiets
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
