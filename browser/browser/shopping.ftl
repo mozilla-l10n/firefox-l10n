@@ -31,6 +31,11 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
+shopping-message-bar-warning-product-not-available-title = Produkt k dispoziciji njeje
+shopping-message-bar-thanks-for-reporting-title = Wulki dźak za zdźělenku!
+shopping-message-bar-warning-product-not-available-reported-title = Analyza bórze přińdźe
+shopping-message-bar-warning-offline-title = Žadyn syćowy zwisk
+shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -41,21 +46,36 @@ shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Płaćizna
+shopping-highlight-quality = Kwalita
 
 ## Strings for show more card
 
+shopping-show-more-button = Wjace pokazać
+shopping-show-less-button = Mjenje pokazać
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Nastajenja
+shopping-settings-recommendations-toggle =
+    .label = Wabjenje w kontroli pohódnoćenjow pokazać
+shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-unreliable-reviews = Njespušćomne pohódnoćenja wotstronjene
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Kak spušćomne tute pohódnoćenja su?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Kak kwalitu pohódnoćenja postajamy
+shopping-analysis-explainer-learn-more = Zhońće wjace wo tym, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pohódnoćenja postaja</a>.
 
 ## Strings for UrlBar button
 
@@ -67,6 +87,7 @@ shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Hišće žana analyza za tute pohódnoćenja
 
 ## Strings for the advertisement
 
