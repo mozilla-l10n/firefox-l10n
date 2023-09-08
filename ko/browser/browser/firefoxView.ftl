@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = 열린 탭 동기화
 firefoxview-syncedtabs-synctabs-header = 동기화 설정 업데이트
 firefoxview-syncedtabs-synctabs-description = 다른 기기의 탭을 보려면 열려 있는 탭을 동기화해야 합니다.
 firefoxview-syncedtabs-synctabs-checkbox = 열린 탭이 동기화되도록 허용
+firefoxview-syncedtabs-loading-header = 동기화 진행 중
+firefoxview-syncedtabs-loading-description = 완료되면, 다른 기기에서 열려 있는 탭이 모두 표시됩니다. 곧 다시 확인해 보세요.
 firefoxview-tabpickup-fxa-admin-disabled-header = 조직에서 동기화를 사용하지 않도록 설정함
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }는 관리자가 동기화를 비활성화했기 때문에 기기 간에 탭을 동기화할 수 없습니다.
 firefoxview-tabpickup-network-offline-header = 인터넷 연결 확인
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = 오래 전 탭을 찾으려�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = 이 기기에 열린 탭 없음
+firefoxview-syncedtabs-connect-another-device = 다른 기기 연결

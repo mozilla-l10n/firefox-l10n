@@ -24,6 +24,7 @@ inactive-css-not-flex-item = 플렉스 항목이 아니기 때문에 <strong>{ $
 inactive-css-not-flex-container = 플렉스 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong>는 inline 또는 table-cell 요소가 아니기 때문에 이 요소에 아무런 영향을 미치지 않습니다.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::first-line 가상 요소에서 지원되지 않습니다.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::placeholder 가상 요소에서 지원되지 않습니다.
 inactive-css-property-because-of-display = <strong>{ $display }</strong>의 표시가 있으므로 <strong>{ $property }</strong>은 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-display-block-on-floated = 요소가 <strong>floated</strong>이므로 <strong>display</strong> 값이 엔진에 의해 <strong>block</strong>으로 변경되었습니다.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>:visited</strong> 제한으로 인해 <strong>{ $property }</strong>를 재정의 할 수 없습니다.
