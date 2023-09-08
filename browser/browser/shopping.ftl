@@ -36,6 +36,9 @@ shopping-message-bar-generic-error-title = Greining ekki tiltæk í augnablikinu
 shopping-message-bar-generic-error-message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
 shopping-message-bar-warning-not-enough-reviews-title = Ekki nægar umsagnir ennþá
 shopping-message-bar-thanks-for-reporting-title = Takk fyrir að tilkynna þetta!
+shopping-message-bar-warning-offline-title = Engin nettenging
+shopping-message-bar-warning-offline-message = Athugaðu nettenginguna þína. Prófaðu síðan að endurlesa síðuna.
+shopping-message-bar-analysis-in-progress-title = Greining kemur fljótlega
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -46,12 +49,24 @@ shopping-message-bar-thanks-for-reporting-title = Takk fyrir að tilkynna þetta
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Hápunktar úr nýlegum umsögnum
+shopping-highlight-price = Verð
+shopping-highlight-quality = Gæði
+shopping-highlight-shipping = Sending
+shopping-highlight-competitiveness = Samkeppnishæfni
+shopping-highlight-packaging = Umbúðir
 
 ## Strings for show more card
 
+shopping-show-more-button = Sýna meira
+shopping-show-less-button = Sýna minna
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Stillingar
+powered-by-fakespot = Umsagnaskoðunin er knúin áfram af <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
