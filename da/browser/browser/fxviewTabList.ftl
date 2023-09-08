@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Gem til { -pocket-brand-name }
     .accesskey = e
 fxviewtabrow-copy-link = Kopier link
     .accesskey = K
+fxviewtabrow-close-tab = Luk faneblad
+    .accesskey = L
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
