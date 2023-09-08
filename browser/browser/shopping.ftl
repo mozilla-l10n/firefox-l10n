@@ -34,15 +34,20 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
 shopping-message-bar-warning-stale-analysis-message = Inicie o analisador do { -fakespot-brand-full-name } para obter informações atualizadas em cerca de 60 segundos.
 shopping-message-bar-generic-error-title = Análise não disponível no momento
-shopping-message-bar-generic-error-message = Estamos trabalhando para resolver o problema. Tente novamente depois.
+shopping-message-bar-generic-error-message = Estamos trabalhando para resolver o problema. Verifique novamente mais tarde.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
 shopping-message-bar-warning-not-enough-reviews-message = Quando este produto tiver mais avaliações, poderemos analisar.
 shopping-message-bar-warning-product-not-available-title = O produto não está disponível
+shopping-message-bar-warning-product-not-available-message = Se você perceber que tem este produto novamente em estoque, informe para nós e trabalharemos na atualização da análise.
 shopping-message-bar-warning-product-not-available-button = Informar que tem este produto em estoque novamente
 shopping-message-bar-thanks-for-reporting-title = Obrigado por informar!
+shopping-message-bar-thanks-for-reporting-message = Devemos ter uma análise atualizada em até 24 horas. Verifique novamente.
 shopping-message-bar-warning-product-not-available-reported-title = Análise em breve
+shopping-message-bar-warning-product-not-available-reported-message = Uma análise atualizada deve estar pronta em até 24 horas. Verifique novamente.
 shopping-message-bar-warning-offline-title = Sem conexão de rede
+shopping-message-bar-warning-offline-message = Verifique sua conexão de rede. Depois tente recarregar a página.
 shopping-message-bar-analysis-in-progress-title = Análise em breve
+shopping-message-bar-analysis-in-progress-message = Quando estiver pronta, mostraremos aqui automaticamente as informações atualizadas.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -50,9 +55,12 @@ shopping-message-bar-analysis-in-progress-title = Análise em breve
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Inicie o analisador no { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Destaques de avaliações recentes
 shopping-highlight-price = Preço
 shopping-highlight-quality = Qualidade
 shopping-highlight-shipping = Envio
@@ -70,15 +78,23 @@ shopping-settings-label =
     .label = Configurações
 shopping-settings-recommendations-toggle =
     .label = Mostrar anúncios no verificador de avaliações
+shopping-settings-recommendations-learn-more = Aparecerão anúncios ocasionais de produtos relevantes. Todos os anúncios devem atender aos nossos padrões de qualidade de avaliação. <a data-l10n-name="review-quality-url">Saiba mais</a>
+shopping-settings-opt-out-button = Desativar o verificador de avaliações
+powered-by-fakespot = O verificador de avaliações é desenvolvido por <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-unreliable-reviews = Avaliações não confiáveis removidas
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Quão confiáveis são essas avaliações?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Como determinamos a qualidade da avaliação
 
 ## Strings for UrlBar button
 
@@ -90,6 +106,8 @@ shopping-settings-recommendations-toggle =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Nenhuma análise dessas avaliações ainda
+shopping-unanalyzed-product-analyze-link = Inicie o analisador no { -fakespot-website-name }
 
 ## Strings for the advertisement
 
