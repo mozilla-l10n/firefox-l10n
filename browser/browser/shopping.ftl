@@ -107,9 +107,16 @@ shopping-analysis-explainer-learn-more = <a data-l10n-name="review-quality-url">
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>하이라이트</strong>는 지난 80일 동안 신뢰할 수 있는 { $retailer } 리뷰에서 나온 것입니다.
+shopping-analysis-explainer-review-grading-scale-reliable = 신뢰할 수 있는 리뷰. 솔직하고 공정한 리뷰를 남긴 실제 고객의 리뷰일 가능성이 높다고 생각합니다.
+shopping-analysis-explainer-review-grading-scale-mixed = 신뢰할 수 있는 리뷰와 신뢰할 수 없는 리뷰가 혼합되어 있다고 생각합니다.
+shopping-analysis-explainer-review-grading-scale-unreliable = 신뢰할 수 없는 리뷰. 리뷰가 가짜이거나 편향된 리뷰어의 리뷰일 가능성이 있다고 생각합니다.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = 쇼핑 사이드바 열기
+shopping-sidebar-close-button =
+    .tooltiptext = 쇼핑 사이드바 닫기
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -118,6 +125,9 @@ shopping-analysis-explainer-highlights-description = <strong>하이라이트</st
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = 이 리뷰에 대한 분석은 아직 없음
+shopping-unanalyzed-product-message = { -fakespot-brand-full-name } 분석기를 실행하면 약 60초 안에 이 제품의 리뷰가 신뢰할 수 있는지 알 수 있습니다.
+shopping-unanalyzed-product-analyze-link = { -fakespot-website-name }에서 분석기 실행
 
 ## Strings for the advertisement
 
