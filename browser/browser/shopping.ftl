@@ -32,7 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Aggiornamenti disponibili
-shopping-message-bar-warning-stale-analysis-message = Avvia lo strumento di analisi { -fakespot-brand-full-name } per ottenere informazioni aggiornate in circa 60 secondi.
+shopping-message-bar-warning-stale-analysis-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } per ottenere informazioni aggiornate in circa 60 secondi.
 shopping-message-bar-generic-error-title = Analisi non disponibile al momento
 shopping-message-bar-generic-error-message = Stiamo lavorando per risolvere il problema. Ricontrolla a breve.
 shopping-message-bar-warning-not-enough-reviews-title = Non ci sono ancora abbastanza recensioni
@@ -109,9 +109,14 @@ shopping-analysis-explainer-learn-more = Scopri ulteriori informazioni su <a dat
 shopping-analysis-explainer-highlights-description = Gli elementi <strong>in evidenza</strong> provengono dalle recensioni su { $retailer } degli ultimi 80 giorni che riteniamo affidabili.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensioni affidabili. Riteniamo che le recensioni provengano con buona probabilità da clienti reali che hanno lasciato recensioni oneste e imparziali.
 shopping-analysis-explainer-review-grading-scale-mixed = Crediamo che ci sia un misto di recensioni affidabili e inaffidabili.
+shopping-analysis-explainer-review-grading-scale-unreliable = Recensioni inaffidabili. Riteniamo che le recensioni siano false o provenienti da revisori di parte.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Apri la barra laterale per lo shopping
+shopping-sidebar-close-button =
+    .tooltiptext = Chiudi la barra laterale per lo shopping
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -120,6 +125,12 @@ shopping-analysis-explainer-review-grading-scale-mixed = Crediamo che ci sia un 
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Non ci sono ancora analisi per queste recensioni
+shopping-unanalyzed-product-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } e in circa 60 secondi saprai se le recensioni di questo prodotto sono affidabili.
+shopping-unanalyzed-product-analyze-link = Avvia lo strumento di analisi su { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Altri prodotti da valutare
+ad-by-fakespot = Annuncio di { -fakespot-brand-name }
