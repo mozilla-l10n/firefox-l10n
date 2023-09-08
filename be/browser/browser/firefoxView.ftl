@@ -42,6 +42,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Сінхранізаваць ад
 firefoxview-syncedtabs-synctabs-header = Абнавіце налады сінхранізацыі
 firefoxview-syncedtabs-synctabs-description = Каб бачыць карткі з іншых прылад, трэба сінхранізаваць адкрытыя карткі.
 firefoxview-syncedtabs-synctabs-checkbox = Дазволіць сінхранізацыю адкрытых картак
+firefoxview-syncedtabs-loading-header = Ідзе сінхранізацыя
 firefoxview-tabpickup-fxa-admin-disabled-header = У ваша арганізацыі сінхранізацыя адключана
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваш адміністратар адключыў сінхранізацыю.
 firefoxview-tabpickup-network-offline-header = Праверце падлучэнне да Інтэрнэту
@@ -207,3 +208,4 @@ firefoxview-recentlyclosed-empty-description-two = Каб знайсці даў�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = На гэтай прыладзе няма адкрытых картак
+firefoxview-syncedtabs-connect-another-device = Злучыць іншую прыладу
