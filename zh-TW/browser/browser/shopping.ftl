@@ -77,8 +77,12 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = 我們如何判斷評論品質
+shopping-analysis-explainer-intro = 我們使用來自 { -fakespot-brand-full-name } 的 AI 技術來分析商品評論的可靠程度。此分析僅協助您判斷商品評論品質，而非商品本身的品質。
 shopping-analysis-explainer-grades-intro = 我們會替每筆商品評論標上 A（優良）到 F（不佳）的<strong>評分</strong>。
 shopping-analysis-explainer-adjusted-rating-description = 會依照我們認為可靠的評論，重新計算<strong>調整後評分</strong>。
+shopping-analysis-explainer-learn-more = 了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 如何判斷商品評論品質</a>的更多資訊。
+shopping-analysis-explainer-review-grading-scale-reliable = 評論可靠。我們相信此商品的評論內容很可能是來自實際客戶所留下真實而中立的評論。
+shopping-analysis-explainer-review-grading-scale-mixed = 我們相信此商品評論混和了可靠與不可靠的評論。
 
 ## Strings for UrlBar button
 
@@ -95,6 +99,11 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = 尚未分析這些評論
+shopping-unanalyzed-product-message = 啟動 { -fakespot-brand-full-name } 分析器，即可在 60 秒內了解網購商品的評論是否可靠。
+shopping-unanalyzed-product-analyze-link = 到 { -fakespot-website-name } 啟動分析器
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = 可參考其他產品
+ad-by-fakespot = { -fakespot-brand-name } 提供的商品廣告
