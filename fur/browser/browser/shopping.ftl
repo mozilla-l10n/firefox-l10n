@@ -78,15 +78,37 @@ shopping-settings-label =
     .label = Impostazions
 shopping-settings-recommendations-toggle =
     .label = Mostre anunzis te verifiche recensions
+shopping-settings-recommendations-learn-more = A vignaran mostrâts anunzis ocasionâi pai prodots pertinents. Ducj i anunzis a scugnin sodifâ i nestris standards di cualitât. <a data-l10n-name="review-quality-url">Plui informazions</a>
+shopping-settings-opt-out-button = Disative la verifiche recensions
+powered-by-fakespot = Verifiche recensions al è basât su tecnologjie <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Valutazion retificade
+shopping-adjusted-rating-unreliable-reviews = Recensions inafidabilis gjavadis
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Trop afidabilis sono chestis recensions?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Cemût che o determinìn la cualitât des recensions
+shopping-analysis-explainer-intro =
+    O doprìs la tecnologjie IA di { -fakespot-brand-full-name } par analizâ la afidabilitât des recensions sui prodots.
+    Cheste analisi ti judarà dome a valutâ la cualitât des recensions, no la cualitât dal prodot.
+shopping-analysis-explainer-grades-intro = O assegnìn aes recensions di ogni prodot un <strong>vôt in letaris</strong> de A ae F.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazion retificade</strong> si base dome su lis recensions che o calcolìn afidabilis.
+shopping-analysis-explainer-learn-more = Scuvierç altris informazions su <a data-l10n-name="review-quality-url">cemût che { -fakespot-brand-full-name } al determine la cualitât des recensions</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = I elements <strong>in evidence</strong> a rivin des recensions su { $retailer } dai ultins 80 dîs che o ritignìn afidabilis.
+shopping-analysis-explainer-review-grading-scale-reliable = Recensions afidabilis. O crodìn che lis recensions a rivedin cun buine probabilitât di clients reâi che a àn lassât recensions onestis e imparziâls.
+shopping-analysis-explainer-review-grading-scale-mixed = O crodìn che e sedi une misture di recensions afidabilis e inafidabilis.
 
 ## Strings for UrlBar button
 
