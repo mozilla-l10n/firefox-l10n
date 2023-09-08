@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Import Wizard
-
 import-from =
     { PLATFORM() ->
         [windows] Import Options, Bookmarks, History, Passwords and other data from:
        *[other] Import Preferences, Bookmarks, History, Passwords and other data from:
     }
-
 import-from-bookmarks = Import Bookmarks from:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -63,37 +61,23 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
-
 no-migration-sources = No programs that contain bookmarks, history or password data could be found.
-
 import-source-page-title = Import Settings and Data
 import-items-page-title = Items to Import
-
 import-items-description = Select which items to import:
-
 import-permissions-page-title = Please give { -brand-short-name } permissions
-
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS requires you to explicitly allow { -brand-short-name } to access Safari’s data. Click “Continue”, select the “Safari“ folder in the Finder dialog that appears and then click “Open”.
-
 import-migrating-page-title = Importing…
-
 import-migrating-description = The following items are currently being imported…
-
 import-select-profile-page-title = Select Profile
-
 import-select-profile-description = The following profiles are available to import from:
-
 import-done-page-title = Import Complete
-
 import-done-description = The following items were successfully imported:
-
 import-close-source-browser = Please ensure the selected browser is closed before continuing.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Reading List (From Safari)
 imported-edge-reading-list = Reading List (From Edge)
 
@@ -115,7 +99,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -128,12 +111,10 @@ browser-data-history-label =
             [firefox] Browsing History and Bookmarks
            *[other] Browsing History
         }
-
 browser-data-formdata-checkbox =
     .label = Saved Form History
 browser-data-formdata-label =
     .value = Saved Form History
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -142,7 +123,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Saved Logins and Passwords
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -157,14 +137,15 @@ browser-data-bookmarks-label =
             [edge] Favourites
            *[other] Bookmarks
         }
-
 browser-data-otherdata-checkbox =
     .label = Other Data
 browser-data-otherdata-label =
     .label = Other Data
-
 browser-data-session-checkbox =
     .label = Windows and Tabs
 browser-data-session-label =
     .value = Windows and Tabs
-
+browser-data-payment-methods-checkbox =
+    .label = Payment methods
+browser-data-payment-methods-label =
+    .value = Payment methods
