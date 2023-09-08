@@ -1036,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Rakningu efnis í öllum gluggum
 content-blocking-all-cross-site-cookies = Allar milli-vefja vefkökur
 content-blocking-cryptominers = Rafmynt grafarar
 content-blocking-fingerprinters = Fingraför
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Þekkt og grunur um fingrafarasöfnun
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
