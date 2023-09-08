@@ -9,7 +9,7 @@
 # refactoring them in some way, the script will need updating.
 
 psmerr-ssl-disabled = Ndaikatúi eike jeroviápe pe mba’ete oñemongéma rupi.
-psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oipuru rupi peteĩchagua itujáva ha nahekorosãiva SSL reheguáva.
+psmerr-ssl2-disabled = Ndaikatúi eikekatu pe tenda oiporu rupi peteĩchagua itujáva ha nahekorosãiva SSL reheguáva.
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Og̃uahẽ ndéve peteĩ mboajepyre ndoikóiva. Eñe’ẽ pe me’ẽhára ndive térã ñanduti veve kundaharape mohendahavusu rehegua ha embohasa chupe marandu:
@@ -23,7 +23,7 @@ ssl-error-bad-certificate = Ndaikatúi eñomongeta jeroviápe ambue apýra pegu�
 ssl-error-bad-client = Mohendavusu ojuhu mba’ekuaarã ñemuhára mba’e ndoikóiva.
 ssl-error-bad-server = Ñemuhára ojuhu mba’ekuaarã mohendavusu mba’e ndoikóiva.
 ssl-error-unsupported-certificate-type = Peteĩchagua mboajepyre noñemoeĩriva.
-ssl-error-unsupported-version = Ambue tendaguáva oipuruhína taperekoite rekorosãrã peteĩchagua noñemoneĩriva.
+ssl-error-unsupported-version = Ambue tendaguáva oiporuhína taperekoite rekorosãrã peteĩchagua noñemoneĩriva.
 ssl-error-wrong-certificate = Ñemuhára reraite oiko’ỹva: ñe’ẽ ñemiguáva mba’ekuaarã ñemíva ndojueheguái ñe’ẽ opavavegua ndive mba’ekuaarã mboajepyréva ryepýpe.
 ssl-error-bad-cert-domain = Ndaikatúi eñemomarandu jeroviápe ambue jeikekatu apyraguáva ndive pe tendatee réra ejerurepyréva ndojueheguái pe mohendahavusu mboajepyréva ndive.
 ssl-error-post-warning = Ayvu jejavy SSL ojekuaa’ỹva.
@@ -91,7 +91,7 @@ ssl-error-sha-digest-failure = Tembiapoite mombyky SHA-1 rehegua javypyre.
 ssl-error-mac-computation-failure = Ñeakãngeta MAC rehegua javypyre.
 ssl-error-sym-key-context-failure = Ndaikatúi emoheñói peteĩ ñemigua ojuehetegua jereguáva.
 ssl-error-sym-key-unwrap-failure = Ndaikatúikuri eipe’a hyrúgui ñemigua ojueheteguáva pe ñe’ẽmondo ñome’ẽ ñemuhára ñemiguávape.
-ssl-error-pub-key-size-limit-exceeded = SSL mohendahavusu oñeha’ã oipuru ñemigua opavaveguáva óga pegua peteĩ tembiaporape’aty mbopapapypyre okayguápe g̃uarãva.
+ssl-error-pub-key-size-limit-exceeded = SSL mohendahavusu oñeha’ã oiporu ñemigua opavaveguáva óga pegua peteĩ tembiaporape’aty mbopapapypyre okayguápe g̃uarãva.
 ssl-error-iv-param-failure = Ayvu PKCS11 nomoneĩri emoñe’ẽasávo peteĩ IV mba’aporãme.
 ssl-error-init-cipher-suite-failure = Ndaikatúikuri emoñepyrũjey papapy kotygua ojeporavopyréva.
 ssl-error-session-key-gen-failure = Pe ñemuhára ndaikatúikuri omoheñói tembiapo ñemigua SSL rembiapópe g̃uarã.
@@ -148,7 +148,7 @@ ssl-error-inappropriate-fallback-alert = Pe mohendahavusu ombotove jepojopy oipo
 ssl-error-weak-server-cert-key = Pe mohendahavusu mboajepyréva omoinge ñemigua opavaveguáva ikangyetereíva.
 ssl-error-rx-short-dtls-read = Ndaipóri pa’ũ tuicháva mandu’arenda mbyteguáva DTLS peg̃uarã.
 ssl-error-no-supported-signature-algorithm = Algoritmo ñepytyvõ’ỹre TLS teraguapy oñembohekóma.
-ssl-error-unsupported-signature-algorithm = Ñomongetaha oipuru ñembojopyru ipu’aka’ỹva teraguapygua ha algoritmo mba’eku’i.
+ssl-error-unsupported-signature-algorithm = Ñomongetaha oiporu ñembojopyru ipu’aka’ỹva teraguapygua ha algoritmo mba’eku’i.
 ssl-error-missing-extended-master-secret = Pe mokõiguáva okuesejey extended_master_secret jepysokue’ỹre.
 ssl-error-unexpected-extended-master-secret = Pe mokõiguáva okuesejey extended_master_secret jepysokue ñeha’ãrõ’ỹva ndive.
 sec-error-io = Oiko peteĩ jejavy E/S mba’éva pe tekorosãrã ñemoneĩte aja.
@@ -317,12 +317,12 @@ sec-error-locked-password = Pe ñe’ẽñemi ojejokóma.
 sec-error-unknown-pkcs11-error = PKCS #11 ojekuaa’ỹva jejavy.
 sec-error-bad-crl-dp-url = URL ndoikói térã noñemoneĩriva kyta réra CRL ñemyasãihápe.
 sec-error-cert-signature-algorithm-disabled = Pe mboajepyréva oñemboheraguapy oipurúkuévo peteĩ algoritmo mboheraguapýva oñemongepyréva nahekorosãi rupi.
-mozilla-pkix-error-key-pinning-failure = Mohendahavusu oipuru kutuha (HPKP), hákatu mba’evéichagua mboajepyre joajuha jeroviaháva ikatu ojejapo oñembojuehe hag̃ua pinset ndive. Kutuha añetéva ndaikatúi oñemyengovia.
-mozilla-pkix-error-ca-cert-used-as-end-entity = Pe mohendahavusu oipuru mboajepyre jepysokue jejokopyréva ndive ome’ẽva chupe peteí mboajepyréva mburuvicháramo. Peteĩ mboajepyréva oñeme’ẽ porãvape g̃uarã, kóva ndaikatúi péicha oiko.
+mozilla-pkix-error-key-pinning-failure = Mohendahavusu oiporu kutuha (HPKP), hákatu mba’evéichagua mboajepyre joajuha jeroviaháva ikatu ojejapo oñembojuehe hag̃ua pinset ndive. Kutuha añetéva ndaikatúi oñemyengovia.
+mozilla-pkix-error-ca-cert-used-as-end-entity = Pe mohendahavusu oiporu mboajepyre jepysokue jejokopyréva ndive ome’ẽva chupe peteí mboajepyréva mburuvicháramo. Peteĩ mboajepyréva oñeme’ẽ porãvape g̃uarã, kóva ndaikatúi péicha oiko.
 mozilla-pkix-error-inadequate-key-size = Pe mohendahavusu ohechauka peteĩ mboajepyréva ñemigua tuichakue ndive michĩetereíva oikekatu hag̃ua.
 mozilla-pkix-error-v1-cert-used-as-ca = Ojepuru mboajepyre X.509 peteĩháva ndojeroviáiva omboaje hag̃ua mohendahavusu mboajepyréva. Mboajepyre X.509 peteĩháva ndoikovéima ha ndojepuruvéima va’erã emboheguapy hag̃ua ambuéva mboajepyre.
 mozilla-pkix-error-not-yet-valid-certificate = Mohendahavusu ohechauka peteĩ mboajepyre oiko’ỹva gueteri.
-mozilla-pkix-error-not-yet-valid-issuer-certificate = Peteĩ mboajepyre oiko’ỹva oipuru oguenohẽ hag̃ua mohendahavusu mboajepyréva.
+mozilla-pkix-error-not-yet-valid-issuer-certificate = Peteĩ mboajepyre oiko’ỹva oiporu oguenohẽ hag̃ua mohendahavusu mboajepyréva.
 mozilla-pkix-error-signature-algorithm-mismatch = Pe algoritmo mboheraguapy rehegua mboajepyréva mboheraguapy rendaguápe ndojoguerahái pe algoritmo signatureAlgorithm ndive.
 mozilla-pkix-error-ocsp-response-for-cert-missing = OCSP mbohovái ndogueroikéi peteĩ tekotee mboajepyrévape g̃uarãva ojehechajeýta mba’érõ.
 mozilla-pkix-error-validity-too-long = Pe mohendahavusu ohechauka peteĩ mboajepyréva oikóva hetaiterei ára.

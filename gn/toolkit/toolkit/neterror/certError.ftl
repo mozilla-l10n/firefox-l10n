@@ -4,10 +4,10 @@
 
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } oipuru mboajepyre rekorosã oiko’ỹva.
+cert-error-intro = { $hostname } oiporu mboajepyre rekorosã oiko’ỹva.
 cert-error-mitm-intro = Ko’ã ñanduti renda ohechauka heratee mboajepyre rupi oguenohẽva mboajepyre umi mburuvicha.
 cert-error-mitm-mozilla = { -brand-short-name } oykeko Mozilla, atyguasu viru’ỹgua oñangarekóva tendaguasu mboajepyre myakãha ijurujáva. Ko mboajepyre myakãha oipytyvõ oñemoañete hag̃ua mboajepyre myakãha rembiapo potĩ poruhára rekorosãrã rekávo.
-cert-error-mitm-connection = { -brand-short-name } oipuru Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva poruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba’echu’i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
+cert-error-mitm-connection = { -brand-short-name } oiporu Mozilla ñemuha CA ohecha hag̃ua hekorosãpa jeike, mboajepyre ome’ẽva poruhára apopyvusu rendaguépe. Upéicha rupi, pe tembiaporape mba’echu’i jukaha térã ñanduti ohapejokórõ jeike mboajepyre hekorosãva ndive ome’ẽva peteĩ CA oĩ’ỹva Mozilla ñemuhápe, pe jeike nahekorosãmo’ãi.
 cert-error-trust-unknown-issuer-intro = Ikatu hína peteĩva oha’ãnga tendápe ha nde repytamava’erã.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
@@ -21,19 +21,19 @@ cert-error-trust-symantec = Umi mboajepyre oguenohẽva GeoTrust, RapidSSL, Syma
 cert-error-untrusted-default = Pe mboajepyre ndoúi peteĩ teñoiha ijeroviahávagui.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oipuru rupi mboajepyre ndoikóiva { $hostname } peg̃uarã.
+cert-error-domain-mismatch = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oiporu rupi mboajepyre ndoikóiva { $hostname } peg̃uarã.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oipuru rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Ko mboajepyre oiko <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> peg̃uarã año.
+cert-error-domain-mismatch-single = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oiporu rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Ko mboajepyre oiko <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a> peg̃uarã año.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $alt-name (string) - Alternate domain name for which the cert is valid.
-cert-error-domain-mismatch-single-nolink = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oipuru rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Ko mboajepyre oiko { $alt-name } peg̃uarã año.
+cert-error-domain-mismatch-single-nolink = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oiporu rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Ko mboajepyre oiko { $alt-name } peg̃uarã año.
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $subject-alt-names (string) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oipuru rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Pe mboajepyre oiko ko’ã térape g̃uarã añónte. { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Umi ñanduti renda ohechauka heratee mboajepyre rupive. { -brand-short-name } ndojeroviái ko tendáre oiporu rupi mboajepyre ndoikóiva { $hostname } peg̃uarã. Pe mboajepyre oiko ko’ã térape g̃uarã añónte. { $subject-alt-names }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
 #   $not-after-local-time (Date) - Certificate is not valid after this time.
@@ -54,7 +54,7 @@ cert-error-code-prefix-link = Ayvu jejavy; <a data-l10n-name="error-code-link">{
 cert-error-ssl-connection-error = Oiko jejavy eikévo { $hostname }. { $errorMessage }
 # Variables:
 #   $hostname (string) - Hostname of the website with cert error.
-cert-error-symantec-distrust-description = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oguenohẽva mboajepyre myakãharakuéra. Hetave umi kundaha ndojeroviái oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } oipuru peteĩ mboajepyre peteĩva ko’ã myakãhárava ha, upéicha rupi, ndaikatúi eikua pe ñanduti renda réra.
+cert-error-symantec-distrust-description = Umi ñanduti renda ohechauka heratee mboajepyre rupive, oguenohẽva mboajepyre myakãharakuéra. Hetave umi kundaha ndojeroviái oguenohẽva GeoTrust, RapidSSL, Symantec, Thawte y VeriSign. { $hostname } oiporu peteĩ mboajepyre peteĩva ko’ã myakãhárava ha, upéicha rupi, ndaikatúi eikua pe ñanduti renda réra.
 cert-error-symantec-distrust-admin = Ikatu emomarandu ñanduti renda ñangarekohárape ko apañuãi rehegua.
 cert-error-old-tls-version = Ikatu ko ñanduti renda nomoneĩri pe taperekoite TLS 1.2, ha’éva tembiapokue michĩve omoneĩva { -brand-short-name }.
 # Variables:

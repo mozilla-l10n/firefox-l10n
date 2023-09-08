@@ -114,7 +114,7 @@ neterror-corrupted-content-contact-website = Eñe’ẽ ko ñanduti renda jaraku
 neterror-sslv3-used = Marandu opapotaitéva: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-neterror-inadequate-security-intro = <b>{ $hostname }</b> oipuru tembiporu pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua’u. Pe ñanduti renda ñangarekohára omyatãraẽva’erã pe mohendahavusu oike mboyve tendápe.
+neterror-inadequate-security-intro = <b>{ $hostname }</b> oiporu tembiporu pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua’u. Pe ñanduti renda ñangarekohára omyatãraẽva’erã pe mohendahavusu oike mboyve tendápe.
 # Do not translate "NS_ERROR_NET_INADEQUATE_SECURITY".
 neterror-inadequate-security-code = Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY
 # Variables:
