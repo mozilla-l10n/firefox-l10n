@@ -60,7 +60,7 @@ shopping-message-bar-warning-stale-analysis-link = { -fakespot-website-name }에
 ## Strings for the product review snippets card
 
 shopping-highlights-label =
-    .label = 최근 리뷰의 주요 내용
+    .label = 최근 리뷰의 하이라이트
 shopping-highlight-price = 가격
 shopping-highlight-quality = 품질
 shopping-highlight-shipping = 배송
@@ -78,17 +78,35 @@ shopping-settings-label =
     .label = 설정
 shopping-settings-recommendations-toggle =
     .label = 리뷰 검사기에 광고 표시
-shopping-settings-recommendations-learn-more = 관련 제품에 대한 광고가 가끔 표시됩니다. 모든 광고는 검토 품질 기준을 충족합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
+shopping-settings-recommendations-learn-more = 관련 제품에 대한 광고가 가끔 표시됩니다. 모든 광고는 리뷰 품질 기준을 충족합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
 shopping-settings-opt-out-button = 리뷰 검사기 끄기
+powered-by-fakespot = 리뷰 검사기는 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>을 통해 제공됩니다.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = 조정된 평점
+shopping-adjusted-rating-unreliable-reviews = 신뢰할 수 없는 리뷰는 삭제됨
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = 이 리뷰는 얼마나 신뢰할 수 있나요?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = 리뷰 품질을 결정하는 방법
+shopping-analysis-explainer-intro =
+    { -fakespot-brand-full-name }의 AI 기술을 사용하여 제품 리뷰의 신뢰성을 분석합니다.
+    이 분석은 제품 품질이 아닌 리뷰 품질을 평가하는 데에만 도움이 됩니다.
+shopping-analysis-explainer-grades-intro = 각 제품의 리뷰에는 A부터 F까지 <strong>문자 등급</strong>이 부여됩니다.
+shopping-analysis-explainer-adjusted-rating-description = <strong>조정된 평점</strong>은 신뢰할 수 있다고 믿는 리뷰만을 기반으로 합니다.
+shopping-analysis-explainer-learn-more = <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name }이 리뷰 품질을 결정하는 방법</a>에 대해 더 알아보세요.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>하이라이트</strong>는 지난 80일 동안 신뢰할 수 있는 { $retailer } 리뷰에서 나온 것입니다.
 
 ## Strings for UrlBar button
 
