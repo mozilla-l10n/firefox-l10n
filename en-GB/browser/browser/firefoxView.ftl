@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Synchronise open tabs
 firefoxview-syncedtabs-synctabs-header = Update your synchronisation settings
 firefoxview-syncedtabs-synctabs-description = To see tabs from other devices, you need to synchronise your open tabs.
 firefoxview-syncedtabs-synctabs-checkbox = Allow open tabs to synchronise
+firefoxview-syncedtabs-loading-header = Synchronisation in progress...
+firefoxview-syncedtabs-loading-description = When it’s done, you’ll see any tabs you have open on other devices. Check back soon.
 firefoxview-tabpickup-fxa-admin-disabled-header = Your organisation has disabled synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is not able to synchronise tabs between devices because your administrator has disabled synchronisation.
 firefoxview-tabpickup-network-offline-header = Check your internet connection
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = To find tabs from longer ago,
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = No tabs open on this device
+firefoxview-syncedtabs-connect-another-device = Connect another device

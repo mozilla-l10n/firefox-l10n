@@ -975,6 +975,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Bookmarks
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = Clipboard
+    .accesskey = C
 addressbar-locbar-openpage-option =
     .label = Open tabs
     .accesskey = O
@@ -1033,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Tracking content in all windows
 content-blocking-all-cross-site-cookies = All cross-site cookies
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Known and suspected fingerprinters
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
