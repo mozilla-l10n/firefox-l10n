@@ -41,6 +41,7 @@ firefoxview-tabpickup-synctabs-primarybutton = סנכרון לשוניות פת�
 firefoxview-syncedtabs-synctabs-header = עדכון הגדרות הסנכרון שלך
 firefoxview-syncedtabs-synctabs-description = כדי לראות לשוניות ממכשירים אחרים, יש לסנכרן את הלשוניות הפתוחות שלך.
 firefoxview-syncedtabs-synctabs-checkbox = יש לאפשר ללשוניות פתוחות להסתנכרן
+firefoxview-syncedtabs-loading-header = סנכרון בתהליך
 firefoxview-tabpickup-fxa-admin-disabled-header = הארגון שלך השבית את הסנכרון
 firefoxview-tabpickup-fxa-admin-disabled-description = אין באפשרות { -brand-short-name } לסנכרן לשוניות בין מכשירים מכיוון שמנהל המערכת שלך השבית את האפשרות לסנכרון.
 firefoxview-tabpickup-network-offline-header = יש לבדוק את חיבור האינטרנט שלך
