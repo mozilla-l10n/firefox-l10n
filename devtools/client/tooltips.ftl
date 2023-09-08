@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ne vpliva na ta elem
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vrstični element ali element celice tabele.
 inactive-css-first-line-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::first-line.
+inactive-css-placeholder-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne vpliva na ta element, ker prikazuje <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pogon je spremenil vrednost <strong>display</strong> v <strong>block</strong>, ker je element nastavljen na <strong>float</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> ni mogoče preglasiti zaradi omejitve <strong>:visited</strong>.

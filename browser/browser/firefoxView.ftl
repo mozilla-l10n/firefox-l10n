@@ -43,6 +43,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Sinhroniziraj odprte zavihke
 firefoxview-syncedtabs-synctabs-header = Spremeni nastavitve sinhronizacije
 firefoxview-syncedtabs-synctabs-description = Za ogled zavihkov z drugih naprav se morajo odprti zavihki sinhronizirati.
 firefoxview-syncedtabs-synctabs-checkbox = Dovoli sinhronizacijo odprtih zavihkov
+firefoxview-syncedtabs-loading-header = Sinhronizacija v teku
 firefoxview-tabpickup-fxa-admin-disabled-header = Vaša organizacija je onemogočila sinhronizacijo
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne more sinhronizirati zavihkov med napravami, ker je skrbnik onemogočil sinhronizacijo.
 firefoxview-tabpickup-network-offline-header = Preverite svojo povezavo z internetom
