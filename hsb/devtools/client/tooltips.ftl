@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> na tutón element ef
 inactive-css-not-flex-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž kontejner flex njeje.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž element element inline abo element tabeloweje cele njeje.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudoelementy ::first-line njepodpěruje.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudo-elementy ::placeholder njepodpěruje.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nima wuskutk na tutón element, dokelž ma zwobraznjenje <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Hódnota <strong>display</strong> je so přez engine do <strong>block</strong> změnił, dokelž element je <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Wobmjezowanja <strong>:visited</strong> dla je njemóžno, <strong>{ $property }</strong> přepisać.
