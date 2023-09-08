@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Samstilla opna flipa
 firefoxview-syncedtabs-synctabs-header = Uppfærðu stillingarnar þínar fyrir samstillingu
 firefoxview-syncedtabs-synctabs-description = Til að sjá flipa frá öðrum tækjum þarftu að samstilla opna flipa.
 firefoxview-syncedtabs-synctabs-checkbox = Leyfa opnum flipum að samstillast
+firefoxview-syncedtabs-loading-header = Samstilling í gangi
 firefoxview-tabpickup-fxa-admin-disabled-header = Kerfisstjórarnir þínir hafa gert samstillingu óvirka
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } getur ekki samstillt flipa á milli tækja vegna þess að kerfisstjórarnir þínir hafa slökkt á samstillingu.
 firefoxview-tabpickup-network-offline-header = Athugaðu internettenginguna þína
@@ -210,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Til að finna flipa sem lengr
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Engir flipar opnir á þessu tæki
+firefoxview-syncedtabs-connect-another-device = Tengja annað tæki
