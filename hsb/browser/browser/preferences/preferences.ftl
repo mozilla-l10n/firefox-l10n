@@ -1044,6 +1044,10 @@ content-blocking-all-windows-tracking-content = Slědowacy wobsah we wšěch wok
 content-blocking-all-cross-site-cookies = Wšě sydła přesahowace placki
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Porstowe wotćišće
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Znate a podhladne porstowe wotćišće
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 

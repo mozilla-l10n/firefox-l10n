@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Wočinjene rajtarki synchronizowa
 firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Zo byšće rajtarki z druhich gratow widźał, dyrbiće swoje wočinjene rajtarki synchronizować.
 firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wočinjenych rajtarkow dowolić
+firefoxview-syncedtabs-loading-header = Synchronizuje so
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
 firefoxview-tabpickup-network-offline-header = Přepruwujće swój internetny zwisk
@@ -210,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Zo byšće starše rajtarki n
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Žane rajtarki na tutym graće wočinjene
+firefoxview-syncedtabs-connect-another-device = Z druhim gratom zwjazać
