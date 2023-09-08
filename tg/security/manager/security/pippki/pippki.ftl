@@ -57,6 +57,8 @@ client-auth-window =
     .title = Дархости муайянкунии корбар
 client-auth-site-description = Ин сомона дархост кард, ки шумо худро ба воситаи гувоҳнома муайян кунед:
 client-auth-choose-cert = Гувоҳномаеро, ки ҳамчун муайянкунӣ пешниҳод мекунед, интихоб кунед:
+client-auth-send-no-certificate =
+    .label = Гувоҳинома фиристода нашавад
 client-auth-cert-details = Тафсилоти гувоҳномаи интихобшуда:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
