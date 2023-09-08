@@ -57,6 +57,11 @@ client-auth-window =
     .title = User Identification Request
 client-auth-site-description = This site has requested that you identify yourself with a certificate:
 client-auth-choose-cert = Choose a certificate to present as identification:
+client-auth-send-no-certificate =
+    .label = Don’t send a certificate
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” has requested that you identify yourself with a certificate:
 client-auth-cert-details = Details of selected certificate:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
@@ -96,3 +101,6 @@ set-password-reminder = Important: If you forget your certificate backup passwor
 
 ## Protected authentication alert
 
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Please authenticate to the token “{ $tokenName }”. How to do so depends on the token (for example, using a fingerprint reader or entering a code with a keypad).
