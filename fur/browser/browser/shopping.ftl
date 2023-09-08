@@ -109,9 +109,14 @@ shopping-analysis-explainer-learn-more = Scuvierç altris informazions su <a dat
 shopping-analysis-explainer-highlights-description = I elements <strong>in evidence</strong> a rivin des recensions su { $retailer } dai ultins 80 dîs che o ritignìn afidabilis.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensions afidabilis. O crodìn che lis recensions a rivedin cun buine probabilitât di clients reâi che a àn lassât recensions onestis e imparziâls.
 shopping-analysis-explainer-review-grading-scale-mixed = O crodìn che e sedi une misture di recensions afidabilis e inafidabilis.
+shopping-analysis-explainer-review-grading-scale-unreliable = Recensions inafidabilis. O crodìn che lis recensions a sedin falsis o che a rivedin di recensôrs di part.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Vierç la sbare laterâl pes compris
+shopping-sidebar-close-button =
+    .tooltiptext = Siere la sbare laterâl pes compris
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -120,6 +125,12 @@ shopping-analysis-explainer-review-grading-scale-mixed = O crodìn che e sedi un
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = No son stadis ancjemò fatis analisis par chestis recensions
+shopping-unanalyzed-product-message = Invie il strument di analisi di { -fakespot-brand-full-name } e in cirche 60 seconts tu savarâs se lis recensions di chest prodot a son afidabilis.
+shopping-unanalyzed-product-analyze-link = Invie il strument di analisi su { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Altris prodots di valutâ
+ad-by-fakespot = Anunzi di { -fakespot-brand-name }

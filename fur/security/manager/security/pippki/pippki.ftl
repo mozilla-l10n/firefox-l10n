@@ -57,6 +57,11 @@ client-auth-window =
     .title = Domande di identificâ utent
 client-auth-site-description = Chest sît al domande che tu ti identifichis cuntune certificât:
 client-auth-choose-cert = Sielç une certificât par presentâ come identificazion:
+client-auth-send-no-certificate =
+    .label = No sta inviâ un certificât
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” al domande di identificâti midiant un certificât:
 client-auth-cert-details = Detais dal certificât selezionât:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

@@ -42,6 +42,8 @@ about-logging-preset-media-playback-label = Riproduzion multimediâl
 about-logging-preset-media-playback-description = Modui di regjistrazion par diagnosticâ i problemis di riproduzion multimediâl (no relatîfs a video-conferencis)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Modui di regjistrazion par diagnosticâ lis clamadis WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Modui di regjistrazion par diagnosticâ i problemis cun WebGPU
 about-logging-preset-custom-label = Personalizadis
 about-logging-preset-custom-description = Modui di regjistrazion selezionâts a man
 # Error handling
