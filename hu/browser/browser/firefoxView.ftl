@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Nyitott lapok szinkronizálása
 firefoxview-syncedtabs-synctabs-header = Frissítse a szinkronizálási beállításait
 firefoxview-syncedtabs-synctabs-description = A más eszközökről származó lapok megtekintéséhez szinkronizálnia kell a nyitott lapjait.
 firefoxview-syncedtabs-synctabs-checkbox = A megnyitott lapok szinkronizálásának engedélyezése
+firefoxview-syncedtabs-loading-header = Szinkronizáció folyamatban
+firefoxview-syncedtabs-loading-description = Ha elkészül, akkor látni fogja a más eszközökön megnyitott lapokat. Nézzen vissza később.
 firefoxview-tabpickup-fxa-admin-disabled-header = A szervezete letiltotta a szinkronizálást
 firefoxview-tabpickup-fxa-admin-disabled-description = A { -brand-short-name } nem tudja szinkronizálni a lapokat az eszközök között, mert a rendszergazda letiltotta a szinkronizálást.
 firefoxview-tabpickup-network-offline-header = Ellenőrizze internetkapcsolatát
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Ha régebbi lapokat szeretne 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nincsenek nyitott lapok ezen az eszközön
+firefoxview-syncedtabs-connect-another-device = Másik eszköz csatlakoztatása
