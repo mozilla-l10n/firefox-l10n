@@ -24,6 +24,7 @@ inactive-css-not-flex-item = A(z) <strong>{ $property }</strong> nem befolyásol
 inactive-css-not-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis tároló.
 inactive-css-not-inline-or-tablecell = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem „inline” vagy „table-cell” elem.
 inactive-css-first-line-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::first-line pszeudoelemeken.
+inactive-css-placeholder-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::placeholder pszeudoelemeken.
 inactive-css-property-because-of-display = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel a „display” értéke <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = A <strong>display</strong> értéket <strong>blokkolásra</strong> változtatta a motor, mert az elem <strong>lebegő</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $property }</strong> felülbírálása a <strong>:visited</strong> korlátozás miatt lehetetlen.
