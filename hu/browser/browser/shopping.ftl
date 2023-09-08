@@ -109,9 +109,14 @@ shopping-analysis-explainer-learn-more = Tudjon meg többet arról, <a data-l10n
 shopping-analysis-explainer-highlights-description = A <strong>kiemelések</strong> a(z) { $retailer } értékeléseinek az elmúlt 80 napból származó és megbízhatónak ítélt elemei.
 shopping-analysis-explainer-review-grading-scale-reliable = Megbízható értékelések. Úgy gondoljuk, hogy az értékelések valószínűleg valódi vásárlóktól származnak, akik őszinte, elfogulatlan értékelést írtak.
 shopping-analysis-explainer-review-grading-scale-mixed = Úgy gondoljuk, hogy vegyesen vannak megbízható és nem megbízható értékelések.
+shopping-analysis-explainer-review-grading-scale-unreliable = Nem megbízható értékelések. Úgy gondoljuk, hogy az értékelések hamisak vagy elfogult értékelőktől származnak.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Vásárlási oldalsáv megnyitása
+shopping-sidebar-close-button =
+    .tooltiptext = Vásárlási oldalsáv bezárása
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -120,6 +125,12 @@ shopping-analysis-explainer-review-grading-scale-mixed = Úgy gondoljuk, hogy ve
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Még nincs elemzés ezekhez az értékelésekhez
+shopping-unanalyzed-product-message = Indítsa el a { -fakespot-brand-full-name } elemzőt, és körülbelül 60 másodperc alatt tudni fogja, hogy az értékelések megbízhatók-e.
+shopping-unanalyzed-product-analyze-link = Elemző indítása ezen: { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = További megfontolandó információk
+ad-by-fakespot = A { -fakespot-brand-name } hirdetése
