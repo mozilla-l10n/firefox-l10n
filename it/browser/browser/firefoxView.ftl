@@ -60,6 +60,9 @@ firefoxview-syncedtabs-synctabs-header = Aggiorna le impostazioni di sincronizza
 firefoxview-syncedtabs-synctabs-description = Per visualizzare le schede da altri dispositivi è necessario attivare la sincronizzazione delle schede aperte.
 firefoxview-syncedtabs-synctabs-checkbox = Permetti la sincronizzazione delle schede aperte
 
+firefoxview-syncedtabs-loading-header = Sincronizzazione in corso
+firefoxview-syncedtabs-loading-description = Una volta completata, le schede aperte in qualsiasi altro dispositivo verranno visualizzate qui. Controlla più tardi.
+
 firefoxview-tabpickup-fxa-admin-disabled-header = La tua azienda ha disattivato la sincronizzazione
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non è in grado di sincronizzare le schede tra i tuoi dispositivi in quanto un amministratore ha disattivato la sincronizzazione.
 
