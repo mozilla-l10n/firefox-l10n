@@ -1038,6 +1038,7 @@ content-blocking-all-windows-tracking-content = Contenuti traccianti in qualunqu
 content-blocking-all-cross-site-cookies = Tutti i cookie intersito
 content-blocking-cryptominers = Cryptominer
 content-blocking-fingerprinters = Fingerprinter
+content-blocking-known-and-suspected-fingerprinters = Fingerprinter conosciuti e sospetti
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
