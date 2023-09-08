@@ -32,7 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = עדכונים זמינים
-shopping-message-bar-warning-stale-analysis-message = ניתן להפעיל את המנתח של { -fakespot-brand-full-name } כדי לקבל מידע מעודכן תוך כ־60 שניות.
+shopping-message-bar-warning-stale-analysis-message = ניתן להפעיל את הכלי המנתח של { -fakespot-brand-full-name } כדי לקבל מידע מעודכן תוך כ־60 שניות.
 shopping-message-bar-generic-error-title = ניתוח אינו זמין כעת
 shopping-message-bar-generic-error-message = אנחנו עובדים על פתרון הבעיה. נא לבדוק שוב בקרוב.
 shopping-message-bar-warning-not-enough-reviews-title = אין מספיק סקירות עדיין
@@ -59,24 +59,64 @@ shopping-message-bar-warning-stale-analysis-link = פתיחת הכלי המנת�
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = דגשים מהסקירות האחרונות
+shopping-highlight-price = מחיר
+shopping-highlight-quality = איכות
+shopping-highlight-shipping = משלוח
+shopping-highlight-competitiveness = תחרותיות
+shopping-highlight-packaging = אריזה
 
 ## Strings for show more card
 
+shopping-show-more-button = להציג יותר
+shopping-show-less-button = להציג פחות
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = הגדרות
+shopping-settings-recommendations-toggle =
+    .label = הצגת פרסומות בבודק הסקירות
+shopping-settings-recommendations-learn-more = מדי פעם יוצגו פרסומות עבור מוצרים רלוונטיים. כל הפרסומות חייבות לעמוד בתקני איכות הסקירות שלנו. <a data-l10n-name="review-quality-url">מידע נוסף</a>
+shopping-settings-opt-out-button = כיבוי בודק הסקירות
+powered-by-fakespot = בודק הסקירות מופעל על־ידי <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = דירוג מותאם
+shopping-adjusted-rating-unreliable-reviews = סקירות בלתי אמינות הוסרו
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = עד כמה הסקירות האלו אמינות?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = כיצד אנו קובעים את איכות הסקירות
+shopping-analysis-explainer-intro =
+    אנו משתמשים בטכנולוגיית AI של { -fakespot-brand-full-name } כדי לנתח את המהימנות של סקירות מוצרים.
+    ניתוח זה רק יעזור לך להעריך את איכות הסקירות, לא את איכות המוצר.
+shopping-analysis-explainer-grades-intro = אנו מקצים לסקירות של כל מוצר <strong>ציון אות</strong> מ־A עד F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>הדירוג המותאם</strong> מבוסס רק על סקירות שאנו מאמינים שהן אמינות.
+shopping-analysis-explainer-learn-more = מידע נוסף על <a data-l10n-name="review-quality-url">כיצד { -fakespot-brand-full-name } קובע את איכות הסקירות</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>הדגשים</strong> הם מסקירות של { $retailer } במהלך 80 הימים האחרונים, שאנו מאמינים שהן אמינות.
+shopping-analysis-explainer-review-grading-scale-reliable = סקירות אמינות. אנו מאמינים שהסקירות הן ככל הנראה מלקוחות אמיתיים שהשאירו סקירות כנות ושאינן משוחדות.
+shopping-analysis-explainer-review-grading-scale-mixed = אנו מאמינים שיש שילוב של סקירות אמינות ובלתי אמינות.
+shopping-analysis-explainer-review-grading-scale-unreliable = סקירות בלתי אמינות. אנו מאמינים שהסקירות כנראה מזויפות או של סוקרים מוטים או משוחדים.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = פתיחת סרגל הקניות הצדדי
+shopping-sidebar-close-button =
+    .tooltiptext = סגירת סרגל הקניות הצדדי
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -85,6 +125,10 @@ shopping-message-bar-warning-stale-analysis-link = פתיחת הכלי המנת�
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = אין עדיין ניתוח עבור סקירות אלה
+shopping-unanalyzed-product-message = ניתן להפעיל את הכלי המנתח של { -fakespot-brand-full-name } ולדעת תוך כ־60 שניות אם הסקירות של מוצר זה אמינות.
+shopping-unanalyzed-product-analyze-link = פתיחת הכלי המנתח ב־{ -fakespot-website-name }
 
 ## Strings for the advertisement
 
+ad-by-fakespot = פרסומת מאת { -fakespot-brand-name }
