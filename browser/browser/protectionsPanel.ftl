@@ -62,6 +62,7 @@ protections-panel-content-blocking-tracking-protection = Contenuti traccianti
 protections-panel-content-blocking-socialblock = Traccianti dei social media
 protections-panel-content-blocking-cryptominers-label = Cryptominer
 protections-panel-content-blocking-fingerprinters-label = Fingerprinter
+content-blocking-known-and-suspected-fingerprinters = Fingerprinter conosciuti e sospetti
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
