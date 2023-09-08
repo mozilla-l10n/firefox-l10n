@@ -2,11 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-## The following feature names must be treated as a brand, and kept in English.
-## They cannot be:
-## - Declined to adapt to grammatical case.
-## - Transliterated.
-## - Translated.
 
 ## The following feature names must be treated as a brand.
 ##
@@ -35,15 +30,16 @@
 -relay-brand-name = Firefox Relay
 -relay-brand-short-name = Relay
 -fakespot-brand-name = Fakespot
-
+# Note the name of the website is capitalized.
+-fakespot-website-name = Fakespot.com
+# The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
+-fakespot-brand-full-name = Fakespot by Mozilla
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox Suggest
-
 # ”Home" can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-home-brand-name = Firefox Home
-
+# View" can be localized, “Firefox” must be treated as a brand
+# and kept in English.
 -firefoxview-brand-name = Firefox View
-
-
