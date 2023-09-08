@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Verificator de recension
 shopping-close-button =
     .title = Clauder
 # This string is for notifying screen reader users that the
@@ -14,10 +17,18 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+# This string is displayed in a tooltip that appears when the user hovers
+# over the letter grade component without a visible description.
+# It is also used for screen readers.
+#  $letter (String) - The letter grade as A, B, C, D or F (hardcoded).
+#  $description (String) - The localized letter grade description. See shopping-letter-grade-description-* strings above.
+shopping-letter-grade-tooltip =
+    .title = { $letter } - { $description }
 
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Actualisationes disponibile
+shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
 shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
 shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
 shopping-message-bar-warning-offline-title = Nulle connexion de rete

@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Synchronisar le schedas aperte
 firefoxview-syncedtabs-synctabs-header = Actualisa tu parametros de synchronisation
 firefoxview-syncedtabs-synctabs-description = Pro vider schedas ab un altere apparato tu debe synchronisar le schedas aperte.
 firefoxview-syncedtabs-synctabs-checkbox = Permitter le synchronisation del schedas aperte
+firefoxview-syncedtabs-loading-header = Synchronisation in curso
+firefoxview-syncedtabs-loading-description = Quando illo es facite, tu videra ulle schedas que tu ha aperite sur altere apparatos.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organisation ha disactivate le synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pote synchronisar schedas inter apparatos perque tu administrator ha disactivate le synchronisation.
 firefoxview-tabpickup-network-offline-header = Controla tu connexion a internet
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Pro trovar schedas de plus lo
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nulle schedas aperte sur iste apparato
+firefoxview-syncedtabs-connect-another-device = Connecter un altere apparato
