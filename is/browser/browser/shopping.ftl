@@ -103,6 +103,10 @@ shopping-analysis-explainer-intro =
 shopping-analysis-explainer-grades-intro = Við gefum umsögnum hverrar vöru <strong>einkunnir í bókstöfum</strong> frá A til F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Aðlöguð einkunn</strong> er eingöngu byggð á umsögnum sem við teljum vera áreiðanlegar.
 shopping-analysis-explainer-learn-more = Frekari upplýsingar um <a data-l10n-name="review-quality-url">hvernig { -fakespot-brand-full-name } ákvarðar gæði umsagna</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Hápunktar</strong> eru úr umsögnum um { $retailer } frá síðustu 80 dögum sem við teljum vera áreiðanlegar.
 shopping-analysis-explainer-review-grading-scale-reliable = Áreiðanlegar umsagnir. Við teljum að umsagnirnar séu líklega frá raunverulegum viðskiptavinum sem hafa skilið eftir heiðarlegar og óhlutdrægar umsagnir.
 shopping-analysis-explainer-review-grading-scale-mixed = Við teljum að þarna sé blanda af áreiðanlegum og óáreiðanlegum umsögnum.
 shopping-analysis-explainer-review-grading-scale-unreliable = Óáreiðanlegar umsagnir. Við teljum að umsagnirnar séu líklega falsaðar eða frá hlutdrægum þátttakendum.
