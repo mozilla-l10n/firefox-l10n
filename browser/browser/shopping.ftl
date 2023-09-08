@@ -5,7 +5,7 @@
 shopping-page-title = { -brand-product-name } 쇼핑
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = 리뷰 확인자
+shopping-main-container-title = 리뷰 검사기
 shopping-close-button =
     .title = 닫기
 # This string is for notifying screen reader users that the
@@ -45,6 +45,9 @@ shopping-message-bar-thanks-for-reporting-message = 24시간 이내에 분석을
 shopping-message-bar-warning-product-not-available-reported-title = 분석이 곧 제공될 예정
 shopping-message-bar-warning-product-not-available-reported-message = 업데이트된 분석이 24시간 이내에 준비됩니다. 다시 확인해 주세요.
 shopping-message-bar-warning-offline-title = 네트워크 연결 없음
+shopping-message-bar-warning-offline-message = 네트워크 연결을 확인하세요. 그리고, 페이지를 새로 고침해 보세요.
+shopping-message-bar-analysis-in-progress-title = 분석이 곧 제공될 예정
+shopping-message-bar-analysis-in-progress-message = 완료되면 여기에 업데이트된 정보가 자동으로 표시됩니다.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -52,9 +55,17 @@ shopping-message-bar-warning-offline-title = 네트워크 연결 없음
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = { -fakespot-website-name }에서 분석기 실행
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = 최근 리뷰의 주요 내용
+shopping-highlight-price = 가격
+shopping-highlight-quality = 품질
+shopping-highlight-shipping = 배송
+shopping-highlight-competitiveness = 경쟁력
+shopping-highlight-packaging = 포장
 
 ## Strings for show more card
 
@@ -63,6 +74,12 @@ shopping-show-less-button = 간단히 보기
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = 설정
+shopping-settings-recommendations-toggle =
+    .label = 리뷰 검사기에 광고 표시
+shopping-settings-recommendations-learn-more = 관련 제품에 대한 광고가 가끔 표시됩니다. 모든 광고는 검토 품질 기준을 충족합니다. <a data-l10n-name="review-quality-url">더 알아보기</a>
+shopping-settings-opt-out-button = 리뷰 검사기 끄기
 
 ## Strings for the adjusted rating component
 
