@@ -41,6 +41,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Açık sekmeleri eşitle
 firefoxview-syncedtabs-synctabs-header = Eşitleme ayarlarınızı güncelleyin
 firefoxview-syncedtabs-synctabs-description = Diğer cihazlardaki sekmelerinizi görmek için açık sekmelerinizi eşitlemelisiniz.
 firefoxview-syncedtabs-synctabs-checkbox = Açık sekmelerin eşitlenmesine izin ver
+firefoxview-syncedtabs-loading-header = Eşitleme devam ediyor
+firefoxview-syncedtabs-loading-description = İşlem tamamlandığında diğer cihazlarda açtığınız sekmeleri burada göreceksiniz. Daha sonra tekrar kontrol edin.
 firefoxview-tabpickup-fxa-admin-disabled-header = Kuruluşunuz eşitlemeyi devre dışı bırakmış
 firefoxview-tabpickup-fxa-admin-disabled-description = Yöneticiniz eşitlemeyi devre dışı bıraktığı için { -brand-short-name } sekmeleri cihazlar arasında eşitleyemiyor.
 firefoxview-tabpickup-network-offline-header = İnternet bağlantınızı kontrol edin
@@ -203,3 +205,4 @@ firefoxview-recentlyclosed-empty-description-two = Daha önceden kapattığını
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Bu cihazda açık sekme yok
+firefoxview-syncedtabs-connect-another-device = Başka bir cihaz bağlayın
