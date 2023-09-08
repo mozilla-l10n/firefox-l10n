@@ -131,4 +131,6 @@ shopping-unanalyzed-product-analyze-link = { -fakespot-website-name }에서 분�
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = 더 보기
 ad-by-fakespot = { -fakespot-brand-name }의 광고
