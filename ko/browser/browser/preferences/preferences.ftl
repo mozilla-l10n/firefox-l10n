@@ -1020,6 +1020,10 @@ content-blocking-all-windows-tracking-content = 모든 창의 추적 콘텐츠
 content-blocking-all-cross-site-cookies = 모든 교차 사이트 쿠키
 content-blocking-cryptominers = 암호화폐 채굴기
 content-blocking-fingerprinters = 디지털 지문
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = 알려지거나 의심되는 디지털 지문
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
