@@ -41,6 +41,13 @@ shopping-message-bar-warning-product-not-available-title = Produkt is net beskik
 shopping-message-bar-warning-product-not-available-message = As jo sjogge dat dit produkt wer op foarried is, rapportearje it dan oan ús en wy sille wurkje oan it bywurkjen fan de analyze.
 shopping-message-bar-warning-product-not-available-button = Melde dat dit produkt wer op foarried is
 shopping-message-bar-thanks-for-reporting-title = Tank foar it melden!
+shopping-message-bar-thanks-for-reporting-message = Wy soene binnen 24 oeren in bywurke analyze hawwe moatte. Kom letter noch ris werom.
+shopping-message-bar-warning-product-not-available-reported-title = Analyze folget ynkoarten
+shopping-message-bar-warning-product-not-available-reported-message = In bywurke analyze soe binnen 24 oeren klear wêze moatte. Ko m letter noch ris werom.
+shopping-message-bar-warning-offline-title = Gjin netwurkferbining
+shopping-message-bar-warning-offline-message = Kontrolearje jo netwurkferbining. Probearje dan de side opnij te laden.
+shopping-message-bar-analysis-in-progress-title = Analyze folget ynkoarten
+shopping-message-bar-analysis-in-progress-message = As it klear is, sille wy hjir automatysk de bywurke ynformaasje sjen litte.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -48,24 +55,48 @@ shopping-message-bar-thanks-for-reporting-title = Tank foar it melden!
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = De analyzator starte op { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Hichtepunten út resinte beoardielingen
+shopping-highlight-price = Priis
+shopping-highlight-quality = Kwaliteit
+shopping-highlight-shipping = Ferstjoeren
+shopping-highlight-competitiveness = Konkurrinsjefermogen
+shopping-highlight-packaging = Ferpakking
 
 ## Strings for show more card
 
+shopping-show-more-button = Mear toane
+shopping-show-less-button = Minder toane
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Ynstellingen
+shopping-settings-recommendations-toggle =
+    .label = Advertinsjes toane yn beoardielingskontrôle
+shopping-settings-recommendations-learn-more = Jo sille sa no en dan advertinsjes sjen foar relevante produkten. Alle advertinsjes moatte foldwaan oan ús kwaliteitsnoarmen foar beoardielingen. <a data-l10n-name="review-quality-url">Mear ynfo</a>
+shopping-settings-opt-out-button = Beoardielingskontrôle útskeakelje
+powered-by-fakespot = Beoardielingskontrôle wurdt mooglik makke troch <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Oanpaste wurdearring
+shopping-adjusted-rating-unreliable-reviews = Unbetroubere beoardielingen fuortsmiten
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Hoe betrouber binne dizze beoardielingen?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Hoe wy de kwaliteit fan beoardielingen bepale
 
 ## Strings for UrlBar button
 
