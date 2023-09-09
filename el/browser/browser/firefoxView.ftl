@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Συγχρονισμός ανοι
 firefoxview-syncedtabs-synctabs-header = Ενημερώστε τις ρυθμίσεις συγχρονισμού σας
 firefoxview-syncedtabs-synctabs-description = Για να δείτε καρτέλες από άλλες συσκευές, πρέπει να συγχρονίσετε τις ανοικτές καρτέλες σας.
 firefoxview-syncedtabs-synctabs-checkbox = Επιτρέψτε τον συγχρονισμό ανοικτών καρτελών
+firefoxview-syncedtabs-loading-header = Συγχρονισμός σε εξέλιξη
+firefoxview-syncedtabs-loading-description = Μόλις ολοκληρωθεί, θα δείτε όλες τις ανοικτές καρτέλες από άλλες συσκευές. Επιστρέψτε σε λίγο.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ο οργανισμός σας έχει απενεργοποιήσει τον συγχρονισμό
 firefoxview-tabpickup-fxa-admin-disabled-description = Το { -brand-short-name } δεν μπορεί να συγχρονίσει τις καρτέλες μεταξύ συσκευών, επειδή ο διαχειριστής σας έχει απενεργοποιήσει τον συγχρονισμό.
 firefoxview-tabpickup-network-offline-header = Ελέγξτε τη σύνδεσή σας στο διαδίκτυο
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Για να βρείτε πα
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Καμία ανοικτή καρτέλα σε αυτήν τη συσκευή
+firefoxview-syncedtabs-connect-another-device = Σύνδεση άλλης συσκευής
