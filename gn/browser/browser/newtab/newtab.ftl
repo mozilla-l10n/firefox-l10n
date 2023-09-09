@@ -54,7 +54,7 @@ newtab-topsites-url-input =
 newtab-topsites-url-validation = Oñeikotevẽ URL oiko porãva
 newtab-topsites-image-url-label = URL ra’anga ñemomba’etepyre
 newtab-topsites-use-image-link = Ta’anga ñemomba’etepyre…
-newtab-topsites-image-validation = Ta’anga nehenyhẽkuái. Eipuru peteĩ URL iñambuéva.
+newtab-topsites-image-validation = Ta’anga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

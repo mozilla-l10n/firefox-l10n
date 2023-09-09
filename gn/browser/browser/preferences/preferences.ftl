@@ -133,7 +133,7 @@ preferences-data-migration-button =
     .accesskey = m
 tabs-group-header = Tendayke
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab cycles tendayke rupive eipuru ramovévape
+    .label = Ctrl+Tab cycles tendayke rupive eiporu ramovévape
     .accesskey = T
 open-new-link-as-tabs =
     .label = Eike tendayke joajuhápe ovetã pyahu rendaguépe
@@ -206,9 +206,9 @@ preferences-web-appearance-choice-dark = Ypytũ
 preferences-web-appearance-choice-tooltip-auto =
     .title = Iñambue ijehegui pe ñanduti renda rugua ha hetepy oĩháicha apopyvusu ñemboheko ha { -brand-short-name } téma.
 preferences-web-appearance-choice-tooltip-light =
-    .title = Eipuru jehecharã sakã tugua ha tetepy ñanduti renda pegua.
+    .title = Eiporu jehecharã sakã tugua ha tetepy ñanduti renda pegua.
 preferences-web-appearance-choice-tooltip-dark =
-    .title = Eipuru jehecharã pytũva tugua ha tetepy ñanduti renda pegua.
+    .title = Eiporu jehecharã pytũva tugua ha tetepy ñanduti renda pegua.
 preferences-web-appearance-choice-input-auto =
     .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
 preferences-web-appearance-choice-input-light =
@@ -269,7 +269,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Eipuru ñemboheko nde apopyvusu oku’éva pegua “{ $localeName }” emonandi hag̃ua ára, aravo, papapy ha ha’ãha.
+    .label = Eiporu ñemboheko nde apopyvusu oku’éva pegua “{ $localeName }” emonandi hag̃ua ára, aravo, papapy ha ha’ãha.
 check-user-spelling =
     .label = Haingatu jehaikuévo jehechajey
     .accesskey = t
@@ -295,7 +295,7 @@ download-always-ask-where =
     .label = Eporandumeméke chéve moõpa añongatúta marandurenda
     .accesskey = A
 applications-header = Tembiporu’i
-applications-description = Eiporavo { -brand-short-name } eipuru marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eipurúva eikundaha aja.
+applications-description = Eiporavo { -brand-short-name } eiporu marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eipurúva eikundaha aja.
 applications-filter =
     .placeholder = Eheka marandurenda peteĩchagua térã tembiporu’i
 applications-type-column =
@@ -320,9 +320,9 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Eipuru tembiporu’i macOS ijypykuéva
-            [windows] Eipuru tembiporu’i Windows ijypykuéva
-           *[other] Eipuru tembiporu’i apopyvusugua ijypykuéva
+            [macos] Eiporu tembiporu’i macOS ijypykuéva
+            [windows] Eiporu tembiporu’i Windows ijypykuéva
+           *[other] Eiporu tembiporu’i apopyvusugua ijypykuéva
         }
 applications-use-other =
     .label = Ambuéva jepuru…
@@ -404,7 +404,7 @@ update-application-background-enabled =
     .accesskey = W
 update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oipurúvo ko { -brand-short-name } ñemohenda.
 update-application-use-service =
-    .label = Eipuru peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
+    .label = Eiporu peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
     .accesskey = b
 update-application-suppress-prompts =
     .label = Ehechauka’ive marandu’i ñembohekopyahu rehegua
@@ -429,7 +429,7 @@ update-in-progress-cancel-button = &Ku’ejey
 
 performance-title = Mba’eaporã
 performance-use-recommended-settings-checkbox =
-    .label = Eipuru ñemboheko tembiapokue oje’epyréva
+    .label = Eiporu ñemboheko tembiapokue oje’epyréva
     .accesskey = U
 performance-use-recommended-settings-desc = Ko’ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.
 performance-settings-learn-more = Kuaave
@@ -461,10 +461,10 @@ browsing-use-onscreen-keyboard =
     .label = Ehechauka peteĩ tairenda jepokokuaáva oñeikotevẽ jave
     .accesskey = k
 browsing-use-cursor-navigation =
-    .label = Eipuru tapia tairenda hu’ykuéra aikundaha kuatiaroguépe
+    .label = Eiporu tapia tairenda hu’ykuéra aikundaha kuatiaroguépe
     .accesskey = k
 browsing-use-full-keyboard-navigation =
-    .label = Eipuru jetavulaha emongu’e hag̃ua mba’e myanyhẽha ha juajuha pa’ũme
+    .label = Eiporu jetavulaha emongu’e hag̃ua mba’e myanyhẽha ha juajuha pa’ũme
     .accesskey = t
 browsing-search-on-start-typing =
     .label = Eheka moñe’ẽrã ehaikuévo
@@ -586,14 +586,14 @@ home-prefs-sections-rows-option =
 
 search-bar-header = Jeheka Renda
 search-bar-hidden =
-    .label = Eipuru kundaharape renda oñeikundaha ha ojeheka hag̃ua
+    .label = Eiporu kundaharape renda oñeikundaha ha ojeheka hag̃ua
 search-bar-shown =
     .label = Toñembojoaju jeheka renda tembiporu rendápe
 search-engine-default-header = Hekaha ypykuéva
 search-engine-default-desc-2 = Kóva nde jeheka mongu’eha ypyguáva kundaharape renda ha jehekeha rendápe.
 search-engine-default-private-desc-2 = Emoĩ jeheka mongu’eha ypyguáramo ovetã ñemíme g̃uarã
 search-separate-default-engine =
-    .label = Eipuru ko jehekaha mongu’eha ovetã ñemíme.
+    .label = Eiporu ko jehekaha mongu’eha ovetã ñemíme.
     .accesskey = U
 search-suggestions-header = Ñe’ẽporã jehekarã
 search-suggestions-desc = Eiporavo mba’éichapa osẽta ñe’ẽporã jehekaha mongu’eha.
@@ -837,7 +837,7 @@ forms-saved-logins =
     .label = Emoñepyrũ tembiapo ñongatupyre…
     .accesskey = L
 forms-primary-pw-use =
-    .label = Eipuru ñe’ẽñemi ñepyrũgua
+    .label = Eiporu ñe’ẽñemi ñepyrũgua
     .accesskey = U
 forms-primary-pw-learn-more-link = Eikuaave
 # This string uses the former name of the Primary Password feature
@@ -1002,7 +1002,7 @@ addressbar-quickactions-learn-more = Kuaave
 content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 content-blocking-section-top-level-description = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 content-blocking-learn-more = Eikuaave
-content-blocking-fpi-incompatibility-warning = Eipuruhína First Party Isolation (FPI), oipe’áva ndahetái kookie ñemboheko { -brand-short-name } mba’éva.
+content-blocking-fpi-incompatibility-warning = Eiporuhína First Party Isolation (FPI), oipe’áva ndahetái kookie ñemboheko { -brand-short-name } mba’éva.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1174,7 +1174,7 @@ collection-backlogged-crash-reports-with-link = Emoneĩ { -brand-short-name } om
 privacy-segmentation-section-header = Tembiapoite pyahu ombopya’evéva ne ñeikundaha
 privacy-segmentation-section-description = Roikuave’ẽ vove tembiapoite oiporúva mba’ekuaarã ome’ẽségui jehasakue nemba’erãva:
 privacy-segmentation-radio-off =
-    .label = Eipuru he’iháicha { -brand-product-name }
+    .label = Eiporu he’iháicha { -brand-product-name }
 privacy-segmentation-radio-on =
     .label = Eike marandurenda hesa’ỹijopyrévape
 
@@ -1212,7 +1212,7 @@ space-alert-over-5gb-settings-button =
     .label = Embojuruja ñemboheko
     .accesskey = O
 space-alert-over-5gb-message2 = <strong>{ -brand-short-name } henyhẽma idísco.</strong> Umi tetepy ñanduti rendagua ikatu ndojehechaporãi. Omopotĩkuaa mba’ekuaarã tenda ñongatupyre Ñemoĩporãme > Tekoñemi ha Tekorosã > Kookie ha tenda mba’ekuaarã.
-space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’ũ’ỹre.</strong> Ikatu ñanduti renda retepy ndojehechaukaporãi. Eike “Kuaavépe” eipuru porã hag̃ua nde disco ne kundaha hekoresãi hag̃ua avei.
+space-alert-under-5gb-message2 = <strong>{ -brand-short-name } opyta disco pa’ũ’ỹre.</strong> Ikatu ñanduti renda retepy ndojehechaukaporãi. Eike “Kuaavépe” eiporu porã hag̃ua nde disco ne kundaha hekoresãi hag̃ua avei.
 
 ## Privacy Section - HTTPS-Only
 
@@ -1252,28 +1252,28 @@ preferences-doh-setting-default =
     .label = Ñemoã ijypyguáva
     .accesskey = D
 preferences-doh-default-desc = { -brand-short-name } oikuaa oipurúta vove DNS hekorosãva omo’ã hag̃ua nde rekoñemi.
-preferences-doh-default-detailed-desc-1 = Eipuru DNS hekorosãva tendaguasu ikatuhápe
-preferences-doh-default-detailed-desc-2 = Eipuru DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
-preferences-doh-default-detailed-desc-3 = Eipuru me’ẽhara ag̃uigua ikatúramo
+preferences-doh-default-detailed-desc-1 = Eiporu DNS hekorosãva tendaguasu ikatuhápe
+preferences-doh-default-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
+preferences-doh-default-detailed-desc-3 = Eiporu me’ẽhara ag̃uigua ikatúramo
 preferences-doh-default-detailed-desc-4 = Eipe’a pe VPN, pehẽngue jehecharã térã mba’apohaguasu oñemyandývo
 preferences-doh-default-detailed-desc-5 = Eipe’a pe pyha he’ívo { -brand-short-name }-pe ani hag̃ua oiporu DNS hekorosãva
 preferences-doh-setting-enabled =
     .label = Ñemo’ã Tuichavéva
     .accesskey = I
 preferences-doh-enabled-desc = Nde eikuaáta araka’e eipurúta DNS hekorosãva ha eiporavo me’ẽhára.
-preferences-doh-enabled-detailed-desc-1 = Eipuru me’ẽhára poravopyre
-preferences-doh-enabled-detailed-desc-2 = Eipuru DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
+preferences-doh-enabled-detailed-desc-1 = Eiporu me’ẽhára poravopyre
+preferences-doh-enabled-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
 preferences-doh-setting-strict =
     .label = Ñemo’ã tuichavéva
     .accesskey = M
 preferences-doh-strict-desc = { -brand-short-name } oiporumeméta DNS hekorosãva. Ojehecháta kyhyjerã tekorosã marãkuaáva roiporu mboyve DNS apopyvusugua.
-preferences-doh-strict-detailed-desc-1 = Eipuru me’ẽhára poravopyre añoite
+preferences-doh-strict-detailed-desc-1 = Eiporu me’ẽhára poravopyre añoite
 preferences-doh-strict-detailed-desc-2 = Emombe’úke pe DNS hekorosãva ndoikóiramo
 preferences-doh-strict-detailed-desc-3 = Pe DNS hekorosãva ndojepurukuaáiramo tenda nahenyhẽi ha ndoikoporãmo’ãi.
 preferences-doh-setting-off =
     .label = Mboguepyre
     .accesskey = O
-preferences-doh-off-desc = Eipuru DNS rekochaukaha ijypykuéva
+preferences-doh-off-desc = Eiporu DNS rekochaukaha ijypykuéva
 preferences-doh-checkbox-warn =
     .label = Ehecháke ambuéva ojokoséramo DNS hekorosãva
     .accesskey = W

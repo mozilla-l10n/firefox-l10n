@@ -30,7 +30,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eipurukuaáva
+shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eiporukuaáva
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

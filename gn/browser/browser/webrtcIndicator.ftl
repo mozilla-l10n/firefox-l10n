@@ -86,7 +86,7 @@ webrtc-indicator-menuitem-control-sharing =
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Ñangarekoha ñemoambue "{ $streamTitle }"-pe
 webrtc-indicator-menuitem-sharing-camera-with =
-    .label = Eipuruhína Ta’ãngamýi “{ $streamTitle }” ndive
+    .label = Eiporuhína Ta’ãngamýi “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
     .label =
         { $tabCount ->
@@ -94,7 +94,7 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
            *[other] Emoherakuãhína Ta’ãngamýi peteĩ { $tabCount } tendayke ndive
         }
 webrtc-indicator-menuitem-sharing-microphone-with =
-    .label = Eipuruhína Ñe’ẽatãha “{ $streamTitle }” ndive
+    .label = Eiporuhína Ñe’ẽatãha “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
     .label =
         { $tabCount ->
@@ -102,7 +102,7 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
            *[other] Emoherakuãhína Ñe’ẽatãha peteĩ { $tabCount } tendayke ndive
         }
 webrtc-indicator-menuitem-sharing-application-with =
-    .label = Eipuruhína Tembiporu’i “{ $streamTitle }” ndive
+    .label = Eiporuhína Tembiporu’i “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
     .label =
         { $tabCount ->
@@ -110,7 +110,7 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
            *[other] Emoherakuãhína Tembiporu’i peteĩ { $tabCount } tendayke ndive
         }
 webrtc-indicator-menuitem-sharing-screen-with =
-    .label = Eipuruhína Mba’erechaha “{ $streamTitle }” ndive
+    .label = Eiporuhína Mba’erechaha “{ $streamTitle }” ndive
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
     .label =
         { $tabCount ->
@@ -118,7 +118,7 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
            *[other] Emoherakuãhína Mba’erechaha peteĩ { $tabCount } tendayke ndive
         }
 webrtc-indicator-menuitem-sharing-window-with =
-    .label = Eipuruhína Ovetã "{ $streamTitle }" ndive
+    .label = Eiporuhína Ovetã "{ $streamTitle }" ndive
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
     .label =
         { $tabCount ->
@@ -126,7 +126,7 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
            *[other] Emoherakuãhína Ovetã peteĩ { $tabCount } tendayke ndive
         }
 webrtc-indicator-menuitem-sharing-browser-with =
-    .label = Eipuruhína Tendayke "{ $streamTitle }" ndive
+    .label = Eiporuhína Tendayke "{ $streamTitle }" ndive
 # This message is shown when the contents of a tab is shared during a WebRTC
 # session, which currently is only possible with Loop/Hello.
 webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
@@ -174,7 +174,7 @@ webrtc-share-browser-warning = Emoherakuã { -brand-short-name } rendakuéra eje
 webrtc-share-screen-learn-more = Jekuaave
 webrtc-pick-window-or-screen = Eiporavo ovetã térã mba’erechaha
 webrtc-share-entire-screen = Mba’erechaha tuichakue
-webrtc-share-pipe-wire-portal = Eipuru apopyvusu oku’éva ñemboheko
+webrtc-share-pipe-wire-portal = Eiporu apopyvusu oku’éva ñemboheko
 # Variables:
 #   $monitorIndex (String): screen number (digits 1, 2, etc).
 webrtc-share-monitor = Mba’erechaha { $monitorIndex }

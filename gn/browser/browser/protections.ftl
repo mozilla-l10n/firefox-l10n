@@ -53,7 +53,7 @@ protections-close-button2 =
     .aria-label = Mboty
     .title = Mboty
 mobile-app-title = Ejoko ñemurã rapykuehoha hetave mba’e’okápe
-mobile-app-card-content = Eipuru kundahára oku’éva ñemo’ã ijeheguáva ndive ñemurã rapykuehoha rovake.
+mobile-app-card-content = Eiporu kundahára oku’éva ñemo’ã ijeheguáva ndive ñemurã rapykuehoha rovake.
 mobile-app-links = Pe kundahára { -brand-product-name } <a data-l10n-name="android-mobile-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 passwords-title-logged-in = Eñangareko ne ñe’ẽñemíre

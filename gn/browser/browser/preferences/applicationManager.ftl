@@ -18,5 +18,5 @@ app-manager-handle-file = Ko’ã tembiporu’i ikatu ojepuru oñembohape hag̃u
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.
 
-app-manager-web-app-info = Ko ñanduti rembipuru’i oĩhína amo:
-app-manager-local-app-info = Ko ñanduti rembipuru’i jajuhúta amo:
+app-manager-web-app-info = Ko ñanduti rembiporu’i oĩhína amo:
+app-manager-local-app-info = Ko ñanduti rembiporu’i jajuhúta amo:

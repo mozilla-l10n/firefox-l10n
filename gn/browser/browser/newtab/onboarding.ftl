@@ -79,32 +79,32 @@ mr1-onboarding-theme-description-system =
 # Tooltip displayed on hover of light theme
 mr1-onboarding-theme-tooltip-light =
     .title =
-        Eipuru ojehechaporãva votõ,
+        Eiporu ojehechaporãva votõ,
         poravorã ha ovetã.
 # Input description for light theme
 mr1-onboarding-theme-description-light =
     .aria-description =
-        Eipuru ojehechaporãva votõ,
+        Eiporu ojehechaporãva votõ,
         poravorã ha ovetã.
 # Tooltip displayed on hover of dark theme
 mr1-onboarding-theme-tooltip-dark =
     .title =
-        Eipuru téma ypytũ votõ,
+        Eiporu téma ypytũ votõ,
         poravorã ha ovetãme g̃uarã.
 # Input description for dark theme
 mr1-onboarding-theme-description-dark =
     .aria-description =
-        Eipuru téma ypytũ votõ,
+        Eiporu téma ypytũ votõ,
         poravorã ha ovetãme g̃uarã.
 # Tooltip displayed on hover of Alpenglow theme
 mr1-onboarding-theme-tooltip-alpenglow =
     .title =
-        Eipuru téma hetia’e ha isa’ýva votõ,
+        Eiporu téma hetia’e ha isa’ýva votõ,
         poravorã ha ovetãme g̃uarã.
 # Input description for Alpenglow theme
 mr1-onboarding-theme-description-alpenglow =
     .aria-description =
-        Eipuru téma hetia’e ha isa’ýva votõ,
+        Eiporu téma hetia’e ha isa’ýva votõ,
         poravorã ha ovetãme g̃uarã.
 # Selector description for default themes
 mr2-onboarding-default-theme-label = Ehapereka téma ypyguáva.
@@ -128,7 +128,7 @@ onboarding-live-language-header = Eiporavo ne ñe’ẽte
 mr2022-onboarding-live-language-text = { -brand-short-name } omboayvu ne ñe’ẽ
 mr2022-language-mismatch-subtitle = Ore rekoha rupive, { -brand-short-name } oñemoñe’ẽasa hetave 90 ñe’ẽmegui. Hi’ã chéve nde apopyvusu oiporu { $systemLanguage } ha { -brand-short-name } oiporuhína { $appLanguage }.
 onboarding-live-language-button-label-downloading = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
-onboarding-live-language-waiting-button = Egueru ñe’ẽ eipurukuaáva…
+onboarding-live-language-waiting-button = Egueru ñe’ẽ eiporukuaáva…
 onboarding-live-language-installing = Amohendahína ñe’ẽ rysýi { $negotiatedLanguage } peg̃uarã…
 mr2022-onboarding-live-language-switch-to = Emoambue { $negotiatedLanguage }-pe
 mr2022-onboarding-live-language-continue-in = Eku’ejey { $appLanguage } ndive
@@ -179,7 +179,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = Emba’egueru kundahára it
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = Embojuruja ñanduti oikoitéva
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = Eipuru { -brand-short-name } eimehaite guive peteĩ jekutúpe. Ejapo vove péicha, eiporavohína peteĩ ñanduti ijuruja ha hekosãsóva.
+mr2022-onboarding-welcome-pin-subtitle = Eiporu { -brand-short-name } eimehaite guive peteĩ jekutúpe. Ejapo vove péicha, eiporavohína peteĩ ñanduti ijuruja ha hekosãsóva.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
@@ -190,17 +190,17 @@ mr2022-onboarding-pin-primary-button-label =
 # has not set it as their default browser.
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-only-subtitle = Eipuru peteĩ kundahára atyguasu viru’ỹgua oykekóva. Romomba’e nde rekoñemi eikundakuévo ñandutípe.
+mr2022-onboarding-set-default-only-subtitle = Eiporu peteĩ kundahára atyguasu viru’ỹgua oykekóva. Romomba’e nde rekoñemi eikundakuévo ñandutípe.
 
 ## MR2022 Existing User Pin Firefox Screen Strings
 
 # Title used on multistage onboarding page for existing users when Firefox is not pinned
 mr2022-onboarding-existing-pin-header = Aguyje ehayhúre { -brand-product-name }
 # Subtitle is used on onboarding page for existing users when Firefox is not pinned
-mr2022-onboarding-existing-pin-subtitle = Eipuru ñanduti hesãivéva eimehaite guive peteĩ jekutúpe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva katuete rehayhutaha.
+mr2022-onboarding-existing-pin-subtitle = Eiporu ñanduti hesãivéva eimehaite guive peteĩ jekutúpe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva katuete rehayhutaha.
 # Subtitle will be used on the welcome screen for existing users
 # when they already have Firefox pinned but not set as default
-mr2022-onboarding-existing-set-default-only-subtitle = Eipuru kundahára omomba’éva nde rekoñemi eikundaha aja ñandutípe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva rehayhutaha.
+mr2022-onboarding-existing-set-default-only-subtitle = Eiporu kundahára omomba’éva nde rekoñemi eikundaha aja ñandutípe. Ore ñembohekopyahu henyhẽ mba’e pyahúgui roikuaáva rehayhutaha.
 mr2022-onboarding-existing-pin-checkbox-label = Embojuaju kundaha ñemigua { -brand-short-name } mba’éva
 
 ## MR2022 New User Set Default screen strings
@@ -210,7 +210,7 @@ mr2022-onboarding-set-default-title = Ejapo { -brand-short-name }-gui ne kundaha
 mr2022-onboarding-set-default-primary-button-label = Ajapo { -brand-short-name }-gui kundahára ypyguávarõ
 # When translating "zip", please feel free to pick a verb that signifies movement and/or exploration
 # and makes sense in the context of navigating the web.
-mr2022-onboarding-set-default-subtitle = Eipuru peteĩ kundahára atyguasu viru’ỹgua oykekóva. Romomba’e nde rekoñemi eikundakuévo ñandutípe.
+mr2022-onboarding-set-default-subtitle = Eiporu peteĩ kundahára atyguasu viru’ỹgua oykekóva. Romomba’e nde rekoñemi eikundakuévo ñandutípe.
 
 ## MR2022 Get Started screen strings.
 ## These strings will be used on the welcome page
@@ -239,7 +239,7 @@ mr2022-onboarding-existing-colorway-checkbox-label = Ejapo { -firefox-home-brand
 mr2022-onboarding-colorway-label-default = Ijypykue
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = Sa’y ag̃agua { -brand-short-name } mba’e
-mr2022-onboarding-colorway-description-default = <b>Eipuru sa’y ag̃agua { -brand-short-name } mba’éva.</b>
+mr2022-onboarding-colorway-description-default = <b>Eiporu sa’y ag̃agua { -brand-short-name } mba’éva.</b>
 mr2022-onboarding-colorway-label-playmaker = Ñembosarái moheñoiha
 mr2022-onboarding-colorway-tooltip-playmaker2 =
     .title = Ñembosarái moheñoiha (pytã)
@@ -268,7 +268,7 @@ mr2022-onboarding-colorway-description-innovator = <b>Ombopyahu tapiáva.</b> Oh
 ## MR2022 Multistage Mobile Download screen strings
 
 mr2022-onboarding-mobile-download-title = Emoambue mohendahágui pumbyrýpe ha jevýpe
-mr2022-onboarding-mobile-download-subtitle = Erujey umi tendayke mba’e’okágui ha eku’ejey ehejahaguégui. Avei, embojuehe ne ñe’ẽñemi ha techaukaha tenda eipurusehápe { -brand-product-name }.
+mr2022-onboarding-mobile-download-subtitle = Erujey umi tendayke mba’e’okágui ha eku’ejey ehejahaguégui. Avei, embojuehe ne ñe’ẽñemi ha techaukaha tenda eiporusehápe { -brand-product-name }.
 mr2022-onboarding-mobile-download-cta-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-product-name } pumbyrýpe g̃uarã térã <a data-l10n-name="download-label">erahauka mboguejyrã juajuha.</a>
 mr2022-onboarding-no-mobile-download-cta-text = Emoha’ãnga QR ayvu ereko hag̃ua { -brand-product-name } ne pumbyrýpe.
 
@@ -288,13 +288,13 @@ mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
 mr2022-onboarding-privacy-segmentation-title = Opa ára romomba’e nde rekoñemi
 mr2022-onboarding-privacy-segmentation-subtitle = Ñemoñe’ẽ ha’evéva guive jehekakuaa porã peve, romba’apo tapiaite romoheñói hag̃ua { -brand-product-name } iporã ha nemba’erãitéva.
 mr2022-onboarding-privacy-segmentation-text-cta = ¿Mba’e ehechase rome’ẽta vove tembiapoite pyahu oiporúva mba’ekuaarã oiko porãve hag̃ua ñeikundaha?
-mr2022-onboarding-privacy-segmentation-button-primary-label = Eipuru he’iháicha { -brand-product-name }
+mr2022-onboarding-privacy-segmentation-button-primary-label = Eiporu he’iháicha { -brand-product-name }
 mr2022-onboarding-privacy-segmentation-button-secondary-label = Ehechauka marandu oĩháicha
 
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Nereipytyvõi oiko hag̃ua ñanduti iporãvéva.
-mr2022-onboarding-gratitude-subtitle = Aguyje eipuru haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo ñanduti ijuruja hag̃ua, ojepurukuaáva ha iporãvéva opavavépe g̃uarã.
+mr2022-onboarding-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo ñanduti ijuruja hag̃ua, ojepurukuaáva ha iporãvéva opavavépe g̃uarã.
 mr2022-onboarding-gratitude-primary-button-label = Ehecha mba’epyahu
 mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
 
