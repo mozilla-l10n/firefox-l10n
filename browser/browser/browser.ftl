@@ -844,7 +844,7 @@ navbar-accessible =
 navbar-downloads =
     .label = Tải xuống
 navbar-overflow =
-    .tooltiptext = Thêm công cụ...
+    .tooltiptext = Công cụ khác...
 # Variables:
 #   $shortcut (String): keyboard shortcut to print the page
 navbar-print =
