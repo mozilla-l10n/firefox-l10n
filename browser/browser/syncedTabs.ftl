@@ -25,6 +25,9 @@ synced-tabs-context-open =
 synced-tabs-context-open-in-tab =
     .label = Otvori u novoj kartici
     .accesskey = t
+synced-tabs-context-open-in-private-window =
+    .label = Otvori u novom privatnom prozoru
+    .accesskey = p
 
 ##
 

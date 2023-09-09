@@ -68,6 +68,21 @@ translations-panel-to-label = Prevedi na
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = Ova je stranica prevedena iz jezika { $fromLanguage } u { $toLanguage }
+translations-panel-choose-language =
+    .label = Odaberi jezik
+translations-panel-restore-button =
+    .label = Prikaži izvornu stranicu
 
 ## Firefox Translations language management in about:preferences.
 
+translations-settings-always-translate-langs-description = Ovi jezici automatski će se prevoditi
+translations-settings-never-translate-langs-description = Prijevod neće biti ponuđen za sljedeće jezike
+translations-settings-never-translate-sites-description = Prijevod neće biti nuđen za sljedeće stranice
