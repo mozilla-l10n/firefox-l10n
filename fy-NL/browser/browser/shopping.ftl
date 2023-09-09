@@ -107,9 +107,16 @@ shopping-analysis-explainer-learn-more = Mear ynfo oer <a data-l10n-name="review
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Hichtepunten</strong> binne ôfkomstich fan beoardielingen fan { $retailer } yn de ôfrûne 80 dagen dy’t neffens ús betrouber binne.
+shopping-analysis-explainer-review-grading-scale-reliable = Betroubere beoardielingen. Wy leauwe dat de beoardielingen wierskynlik ôfkomstich binne fan echte klanten dy’t earlike, ûnpartidige beoardielingen efterlitten hawwe.
+shopping-analysis-explainer-review-grading-scale-mixed = Wy leauwe dat der in miks is fan betroubere en ûnbetroubere beoardielingen.
+shopping-analysis-explainer-review-grading-scale-unreliable = Unbetroubere beoardielingen. Wy leauwe dat de beoardielingen wierskynlik nep binne of fan befoaroardiele beoardielers.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Winkelsydbalke iepenje
+shopping-sidebar-close-button =
+    .tooltiptext = Winkelsydbalke slute
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -118,6 +125,12 @@ shopping-analysis-explainer-highlights-description = <strong>Hichtepunten</stron
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Der is noch gjin analyze foar dizze beoardielingen
+shopping-unanalyzed-product-message = Start de { -fakespot-brand-full-name }-analyzator en jo witte binnen ûngefear 60 sekonden of de beoardielingen fan dit produkt betrouber binne.
+shopping-unanalyzed-product-analyze-link = De analyzator starte op { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Mear oerwagingen
+ad-by-fakespot = Advertinsje fan { -fakespot-brand-name }
