@@ -35,6 +35,8 @@ shopping-message-bar-warning-stale-analysis-title = Διαθέσιμες ενη�
 shopping-message-bar-generic-error-title = Η ανάλυση δεν είναι διαθέσιμη αυτήν τη στιγμή
 shopping-message-bar-warning-not-enough-reviews-title = Δεν υπάρχουν ακόμα αρκετές κριτικές
 shopping-message-bar-warning-product-not-available-title = Το προϊόν δεν είναι διαθέσιμο
+shopping-message-bar-thanks-for-reporting-title = Ευχαριστώ για την αναφορά!
+shopping-message-bar-warning-product-not-available-reported-message = Μια ενημερωμένη ανάλυση θα είναι έτοιμη εντός 24 ωρών. Παρακαλώ ελέγξτε ξανά.
 shopping-message-bar-warning-offline-title = Δεν υπάρχει σύνδεση στο δίκτυο
 
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -65,6 +67,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Εμφάνιση διαφημίσεων στον έλεγχο κριτικών
 shopping-settings-opt-out-button = Απενεργοποίηση ελέγχου κριτικών
+powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται από το <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -89,8 +92,11 @@ shopping-review-reliability-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Δεν υπάρχει ακόμα ανάλυση για αυτές τις κριτικές
 shopping-unanalyzed-product-analyze-link = Εκκίνηση ανάλυσης στο { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Περισσότερες εναλλακτικές
 ad-by-fakespot = Διαφήμιση από το { -fakespot-brand-name }
