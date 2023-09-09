@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Iepen ljepblêden syngronisearje
 firefoxview-syncedtabs-synctabs-header = Wurkje jo syngronisaasje-ynstellingen by
 firefoxview-syncedtabs-synctabs-description = Om ljepblêden fan oare apparaten te sjen, moatte jo jo iepen ljepblêden syngronisearje.
 firefoxview-syncedtabs-synctabs-checkbox = Tastean dat iepen ljepblêden syngronisearre wurde
+firefoxview-syncedtabs-loading-header = Syngronisearje
+firefoxview-syncedtabs-loading-description = As dit dien is, sjogge jo alle ljepblêden dy’t jo op oare apparaten iepene hawwe. Kom gau werom.
 firefoxview-tabpickup-fxa-admin-disabled-header = Jo organisaasje hat syngronisaasje útskeakele
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } is net yn steat om ljepblêden tusken apparaten te syngronisearjen, omdat jo behearder syngronisaasje útskeakele hat.
 firefoxview-tabpickup-network-offline-header = Kontrolearje jo ynternetferbining
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Besjoch jo <a data-l10n-name=
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Der binne gjin ljepblêden iepene op dit apparaat
+firefoxview-syncedtabs-connect-another-device = In oar apparaat ferbine
