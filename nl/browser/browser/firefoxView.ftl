@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Open tabbladen synchroniseren
 firefoxview-syncedtabs-synctabs-header = Werk uw synchronisatie-instellingen bij
 firefoxview-syncedtabs-synctabs-description = Om tabbladen van andere apparaten te zien, moet u uw open tabbladen synchroniseren.
 firefoxview-syncedtabs-synctabs-checkbox = Toestaan dat open tabbladen worden gesynchroniseerd
+firefoxview-syncedtabs-loading-header = Synchroniseren
+firefoxview-syncedtabs-loading-description = Als dit is afgerond, ziet u alle tabbladen die u op andere apparaten hebt geopend. Kom snel terug.
 firefoxview-tabpickup-fxa-admin-disabled-header = Uw organisatie heeft synchronisatie uitgeschakeld
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan geen tabbladen synchroniseren tussen apparaten, omdat uw beheerder synchronisatie heeft uitgeschakeld.
 firefoxview-tabpickup-network-offline-header = Controleer uw internetverbinding
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Bekijk uw <a data-l10n-name="
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Er zijn geen tabbladen geopend op dit apparaat
+firefoxview-syncedtabs-connect-another-device = Een ander apparaat verbinden
