@@ -73,6 +73,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Synchronizovat otevřené panely
 firefoxview-syncedtabs-synctabs-header = Aktualizace nastavení synchronizace
 firefoxview-syncedtabs-synctabs-description = Chcete-li zobrazit panely z jiných zařízení, musíte své otevřené panely synchronizovat.
 firefoxview-syncedtabs-synctabs-checkbox = Povolit synchronizaci otevřených panelů
+firefoxview-syncedtabs-loading-header = Probíhá synchronizace
+firefoxview-syncedtabs-loading-description = Po dokončení se zobrazí všechny panely otevřené na jiných zařízeních. Už za chvíli.
 firefoxview-tabpickup-fxa-admin-disabled-header = Synchronizace je zakázána vaší organizací
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nemůže synchronizovat panely mezi zařízeními, protože je to synchronizace zakázána vaším správcem.
 firefoxview-tabpickup-network-offline-header = Zkontrolujte své připojení k Internetu
@@ -266,3 +268,4 @@ firefoxview-recentlyclosed-empty-description-two = Pokud chcete najít panely z 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Na tomto zařízení nejsou otevřeny žádné panely
+firefoxview-syncedtabs-connect-another-device = Připojit další zařízení
