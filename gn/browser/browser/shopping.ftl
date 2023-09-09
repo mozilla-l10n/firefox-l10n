@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = { -brand-product-name } Ñemuhaguasu
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Hechaha japojeyha
 shopping-close-button =
     .title = Mboty
 # This string is for notifying screen reader users that the
@@ -14,6 +18,7 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Hechaha jeroviaha
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
