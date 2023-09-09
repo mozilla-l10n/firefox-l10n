@@ -211,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Одан да бұрыңғы 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Бұл құрылғыда ашық беттер жоқ
+firefoxview-syncedtabs-connect-another-device = Басқа құрылғыны байланыстыру
