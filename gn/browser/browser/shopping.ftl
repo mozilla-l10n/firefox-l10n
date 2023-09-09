@@ -19,6 +19,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Hechaha jeroviaha
+shopping-letter-grade-description-df = Hechaha jerovia’ỹha
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -29,6 +30,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eipurukuaáva
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -41,6 +43,7 @@ shopping-letter-grade-tooltip =
 
 shopping-highlight-price = Tepy
 shopping-highlight-shipping = Ñemuhaguasu
+shopping-highlight-packaging = Mbohyruha
 
 ## Strings for show more card
 

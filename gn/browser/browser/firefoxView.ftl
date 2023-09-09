@@ -29,7 +29,7 @@ firefoxview-tabpickup-step-signin-header = Emoambue mba’e’oka pa’ũme ñek
 firefoxview-tabpickup-step-signin-description = Ehecha hag̃ua ne pumbyry rendayke, emoñepyrũraẽ tembiapo térã emoheñói mba’ete.
 firefoxview-tabpickup-step-signin-primarybutton = Ku’ejey
 firefoxview-syncedtabs-signin-header = Ejapyhy tendayke oimeha guive
-firefoxview-syncedtabs-signin-description = Ehecha hag̃ua ne rendayke oimeraẽva mba’e’oka guive eipuruhápe { -brand-product-name }, eike ne ma’etépe. Ndereguerekóiramo, rombohapéta emoheñoikuaa hag̃ua.
+firefoxview-syncedtabs-signin-description = Ehecha hag̃ua ne rendayke oimeraẽva mba’e’oka guive eiporuhápe { -brand-product-name }, eike ne ma’etépe. Ndereguerekóiramo, rombohapéta emoheñoikuaa hag̃ua.
 firefoxview-syncedtabs-signin-primarybutton = Eike térã eñemboheraguapy
 firefoxview-tabpickup-adddevice-header = Embojuehe { -brand-product-name } ne pumbyry ha tablétape
 firefoxview-tabpickup-adddevice-description = Emboguejy { -brand-product-name } pumbyrýpe ha eñepyrũ tembiapo upépe.
@@ -86,7 +86,7 @@ firefoxview-pickup-tabs-badge = Hendyramovéva
 #   $targetURI (string) - URL that will be opened in the new tab
 firefoxview-tabs-list-tab-button =
     .title = Embojuruja { $targetURI } tendayke pyahúpe
-firefoxview-try-colorways-button = Eipuru sa’y ojueheguáva
+firefoxview-try-colorways-button = Eiporu sa’y ojueheguáva
 firefoxview-change-colorway-button = Emoambue sa’y ojueheguáva
 # Variables:
 #  $intensity (String): Colorway intensity
@@ -197,7 +197,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Egueru tembiasakue ambue kundaháragui
-firefoxview-import-history-description = Ejapo { -brand-short-name } ha’évo ne kundahára eipuruvévarõ. Egueru kundahára rembiasakue, techaukaha ha hetave.
+firefoxview-import-history-description = Ejapo { -brand-short-name } ha’évo ne kundahára eiporuvévarõ. Egueru kundahára rembiasakue, techaukaha ha hetave.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 

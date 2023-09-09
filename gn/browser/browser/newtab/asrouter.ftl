@@ -155,7 +155,7 @@ spotlight-pin-secondary-button = Ani ko’ág̃a
 ## Windows and therefore must be as narrow as possible.
 
 mr2022-background-update-toast-title = { -brand-short-name } pyahu. Hekoñemive. Ojehapykueho’ive. Jejokua’ỹre.
-mr2022-background-update-toast-text = Eipuru { -brand-short-name } ipyahuve, hekopyahúva romo’ãva tapykuehoha rovake imbaretevéva ag̃aite peve.
+mr2022-background-update-toast-text = Eiporu { -brand-short-name } ipyahuve, hekopyahúva romo’ãva tapykuehoha rovake imbaretevéva ag̃aite peve.
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
@@ -232,7 +232,7 @@ fxa-sync-cfr-secondary = Chemomandu’a ag̃ave
 
 ## Device Migration FxA Spotlight
 
-device-migration-fxa-spotlight-header = ¿Eipuruhína mba’e’oka itujavéva?
-device-migration-fxa-spotlight-body = Eñongatu ne mba’ekuaarã ambue hendápe ani hag̃ua okañy marandu takate’ỹha ikatúva techaukaha ha ñe’ẽñemi — eipuru mba’éramo ambue mba’e’oka.
+device-migration-fxa-spotlight-header = ¿Eiporuhína mba’e’oka itujavéva?
+device-migration-fxa-spotlight-body = Eñongatu ne mba’ekuaarã ambue hendápe ani hag̃ua okañy marandu takate’ỹha ikatúva techaukaha ha ñe’ẽñemi — eiporu mba’éramo ambue mba’e’oka.
 device-migration-fxa-spotlight-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
 device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave

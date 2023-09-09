@@ -45,7 +45,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
-migration-all-available-data-label = Emba’eguerupaite mba’ekuaarã eipurukuaáva
+migration-all-available-data-label = Emba’eguerupaite mba’ekuaarã eiporukuaáva
 migration-no-selected-data-label = Ndaipóri mba’ekuaarã poravopyre eguerukuaáva
 migration-selected-data-label = Emba’egueru mba’ekuaarã poravopyre
 
@@ -173,9 +173,9 @@ migration-wizard-progress-icon-completed =
 migration-safari-password-import-header = Emba’egueru Safari ñe’ẽñemi
 migration-safari-password-import-steps-header = Emba’egueru hag̃ua Safari ñe’ẽñemi:
 migration-safari-password-import-step1 = Safari ndive, embojuruja “Safari” poravorã ha eho Guerohoryvévape > Ñe’ẽñemi
-migration-safari-password-import-step2 = Eipuru votõ <img data-l10n-name="safari-icon-3dots"/> ha eiporavo “Ñe’ẽñemi Jeguerupaite”
+migration-safari-password-import-step2 = Eiporu votõ <img data-l10n-name="safari-icon-3dots"/> ha eiporavo “Ñe’ẽñemi Jeguerupaite”
 migration-safari-password-import-step3 = Eñongatu ñe’ẽñemi marandurenda
-migration-safari-password-import-step4 = Eipuru “Marandurenda jeporavo” ehecha hag̃ua ñe’ẽñemi eñongatuséva
+migration-safari-password-import-step4 = Eiporu “Marandurenda jeporavo” ehecha hag̃ua ñe’ẽñemi eñongatuséva
 migration-safari-password-import-skip-button = Jepo
 migration-safari-password-import-select-button = Eiporavo Marandurenda
 # Shown in the migration wizard after importing bookmarks from another
@@ -247,8 +247,8 @@ migration-wizard-progress-success-passwords =
 #  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
 migration-wizard-progress-success-history =
     { $maxAgeInDays ->
-        [one] Ára eipururamovehague
-       *[other] Ára eipururamovehague { $maxAgeInDays }
+        [one] Ára eiporuramovehague
+       *[other] Ára eiporuramovehague { $maxAgeInDays }
     }
 migration-wizard-progress-success-formdata = Myanyhẽha rembiasakue
 # Shown in the migration wizard after importing payment methods from another
