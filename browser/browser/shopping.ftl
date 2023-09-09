@@ -103,9 +103,20 @@ shopping-analysis-explainer-intro =
 shopping-analysis-explainer-grades-intro = We kennen aan de beoordelingen van elk product een <strong>letterwaarde</strong> toe, van A tot F.
 shopping-analysis-explainer-adjusted-rating-description = De <strong>aangepaste waardering</strong> is alleen gebaseerd op beoordelingen die wij betrouwbaar achten.
 shopping-analysis-explainer-learn-more = Meer info over <a data-l10n-name="review-quality-url">hoe { -fakespot-brand-full-name } de kwaliteit van beoordelingen bepaalt</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Hoogtepunten</strong> zijn afkomstig van beoordelingen van { $retailer } in de afgelopen 80 dagen die volgens ons betrouwbaar zijn.
+shopping-analysis-explainer-review-grading-scale-reliable = Betrouwbare beoordelingen. Wij zijn van mening dat de beoordelingen waarschijnlijk afkomstig zijn van echte klanten die eerlijke, onpartijdige beoordelingen hebben achtergelaten.
+shopping-analysis-explainer-review-grading-scale-mixed = Wij geloven dat er een mix is van betrouwbare en onbetrouwbare beoordelingen.
+shopping-analysis-explainer-review-grading-scale-unreliable = Onbetrouwbare beoordelingen. Wij zijn van mening dat de beoordelingen waarschijnlijk nep zijn of afkomstig zijn van bevooroordeelde beoordelaars.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Winkelzijbalk openen
+shopping-sidebar-close-button =
+    .tooltiptext = Winkelzijbalk sluiten
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -114,6 +125,12 @@ shopping-analysis-explainer-learn-more = Meer info over <a data-l10n-name="revie
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Er is nog geen analyse voor deze beoordelingen
+shopping-unanalyzed-product-message = Start de { -fakespot-brand-full-name }-analysator en u weet binnen ongeveer 60 seconden of de beoordelingen van dit product betrouwbaar zijn.
+shopping-unanalyzed-product-analyze-link = De analysator starten op { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Meer overwegingen
+ad-by-fakespot = Advertentie van { -fakespot-brand-name }
