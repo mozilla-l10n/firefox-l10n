@@ -24,6 +24,7 @@ addon-post-install-message = { $addonName } eklendi.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = { $addonName } kısıtlı sitelerde çalıştırılsın mı?
 webext-quarantine-confirmation-line-1 = Verilerinizi korumak için bu sitede bu uzantıya izin verilmiyor.
+webext-quarantine-confirmation-line-2 = Bu uzantının { -vendor-short-name } tarafından kısıtlanan sitelerdeki verilerinizi okuyup değiştirmesini onaylıyorsanız uzantıya izin verebilirsiniz.
 webext-quarantine-confirmation-allow =
     .label = İzin ver
     .accesskey = z
