@@ -1036,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Tetepy rapykuehoha opaite ovetã
 content-blocking-all-cross-site-cookies = Opaite kookie tenda pa’ũgua
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Kuãhũ japyhyha ojekuaáva ha ivaikuaáva
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 

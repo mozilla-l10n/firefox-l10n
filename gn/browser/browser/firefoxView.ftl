@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Embojuehe tendayke ijurujáva
 firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
 firefoxview-syncedtabs-synctabs-description = Ehecha hag̃ua tendayke ambue mba’e’okagua, embojuehe tendayke ijurujáva.
 firefoxview-syncedtabs-synctabs-checkbox = Emoneĩ tendayke ijurujáva tojuehekuaa
+firefoxview-syncedtabs-loading-header = Ñemboheko oku’éma
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboykégui ñembojuehe.
 firefoxview-tabpickup-network-offline-header = Ehecha og̃uahẽ porãpa ñanduti
@@ -210,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Eheka hag̃ua tendayke embot�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Ndaipóri tendayke ijurujáva ko mba’e’okápe
+firefoxview-syncedtabs-connect-another-device = Embojuaju ambue mba’e’oka
