@@ -131,7 +131,7 @@ perftools-onboarding-close-button =
 perftools-presets-web-developer-label = Ñanduti Mboguatahára
 perftools-presets-web-developer-description = Ñemboheko iporãva emopotĩ hag̃ua ñanduti tembiporu’i, nahenyhẽrasáiva.
 perftools-presets-firefox-label = { -brand-shorter-name }
-perftools-presets-firefox-description = Ñemboheko ypykue eipurukuaáva emoheñói hag̃ua mba’ete { -brand-shorter-name }.
+perftools-presets-firefox-description = Ñemboheko ypykue eiporukuaáva emoheñói hag̃ua mba’ete { -brand-shorter-name }.
 perftools-presets-graphics-label = Ta’ãnga
 perftools-presets-graphics-description = Oñemoĩva ohapykuerereka hag̃ua mba’epu ha ta’ãngamýi { -brand-shorter-name }.
 perftools-presets-media-label = Momaranduha
@@ -140,7 +140,7 @@ perftools-presets-networking-label = Pyha
 perftools-presets-networking-description = Oñemoĩva ohapykuereka hag̃ua pyha apañuãi { -brand-shorter-name }-pe.
 # "Power" is used in the sense of energy (electricity used by the computer).
 perftools-presets-power-label = Tendyry
-perftools-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry ndoikóirõ eipurukuévo { -brand-shorter-name }.
+perftools-presets-power-description = Oñemoĩva ohapykuerereka hag̃ua tendyry ndoikóirõ eiporukuévo { -brand-shorter-name }.
 perftools-presets-custom-label = Mboavapyre
 
 ##

@@ -40,7 +40,7 @@ options-inspector-draggable-properties-tooltip =
     .title = Eikutu ha embosyryry rehaijey hag̃ua tuichakue térã michĩngue moambuekuaáva renondépe
 # The label for the checkbox option to enable simplified highlighting on page elements
 # within the inspector for users who enabled prefers-reduced-motion = reduce
-options-inspector-simplified-highlighters-label = Eipuru jehechaukaha’i prefers-reduced-motion ndive
+options-inspector-simplified-highlighters-label = Eiporu jehechaukaha’i prefers-reduced-motion ndive
 options-inspector-simplified-highlighters-tooltip =
     .title = Emyandy mba’erechaukaha momichĩmbyre oñembojurujávo prefers-reduced-motion. Ehai línea rectángulo henyhẽmbyréva rendaguépe mba’epuru jerére ani hag̃ua ikangy.
 
@@ -87,8 +87,8 @@ options-sourceeditor-autoclosebrackets-tooltip =
     .title = Emoinge ijehegui ñemboty jokoha
 options-sourceeditor-autoclosebrackets-label = Autoclose jokoha
 options-sourceeditor-expandtab-tooltip =
-    .title = Eipuru pa’ũ pe pa’ũjepo rendaguépe
-options-sourceeditor-expandtab-label = Eipuruhína pa’ũ guasu
+    .title = Eiporu pa’ũ pe pa’ũjepo rendaguépe
+options-sourceeditor-expandtab-label = Eiporuhína pa’ũ guasu
 options-sourceeditor-tabsize-label = Tendayke tuichakue
 options-sourceeditor-keybinding-label = Jehaiha mbojopyru
 options-sourceeditor-keybinding-default-label = Jepokokuaa’ỹha
@@ -108,13 +108,13 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Emoapysẽ kundaha chrome ha embojuapy tembiporu ryru mopotĩha
 options-enable-chrome-tooltip =
-    .title = Emyandývo ko poravorã eipurukuaáta hetaiterei tembiporu mboguataháva pe kundaha jereguáva (tembiporu rupi > Web Developer > Browser Toolbox) ha moĩmbaha mopotĩhápe moĩmbaha Ñangarekoha guive
+    .title = Emyandývo ko poravorã eiporukuaáta hetaiterei tembiporu mboguataháva pe kundaha jereguáva (tembiporu rupi > Web Developer > Browser Toolbox) ha moĩmbaha mopotĩhápe moĩmbaha Ñangarekoha guive
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = Ñemopotĩ okayguáva myandy
 options-enable-remote-tooltip2 =
     .title = Emyandývo ko poravorã omoneĩta ndéve emopotĩvo ko kundahára reko oka guive
 # The label for checkbox that enables F12 as a shortcut to open DevTools
-options-enable-f12-label = Eipuru F12 embojuruja térã embogue hag̃ua DevTools
+options-enable-f12-label = Eiporu F12 embojuruja térã embogue hag̃ua DevTools
 options-enable-f12-tooltip =
     .title = Ko teñoiha oĩ tysýi ojehejareívape. Eipe’a pe `Ehejarei scripts mbohapyháva kuaapyréva` embojuruja hag̃ua.
 # The label for checkbox that toggles custom formatters for objects
