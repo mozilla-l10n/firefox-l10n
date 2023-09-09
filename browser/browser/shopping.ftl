@@ -36,6 +36,16 @@ shopping-message-bar-warning-stale-analysis-message = Inicie el analizador { -fa
 shopping-message-bar-generic-error-title = Análisis no disponible en este momento.
 shopping-message-bar-generic-error-message = Estamos trabajando para resolver este problema. Vuelva pronto.
 shopping-message-bar-warning-not-enough-reviews-title = Aún no hay suficientes revisiones
+shopping-message-bar-warning-not-enough-reviews-message = Cuando este producto tenga más revisiones, podremos analizarlas.
+shopping-message-bar-warning-product-not-available-title = Producto no disponible
+shopping-message-bar-warning-product-not-available-message = Si ve que este producto vuelve a estar en stock, infórmenos y trabajaremos para actualizar el análisis.
+shopping-message-bar-warning-product-not-available-button = Informar que este producto vuelve a estar en stock.
+shopping-message-bar-thanks-for-reporting-title = ¡Gracias por informarnos!
+shopping-message-bar-thanks-for-reporting-message = Deberíamos tener un análisis actualizado dentro de las 24 horas. Vuelva a chequear.
+shopping-message-bar-warning-product-not-available-reported-message = Un análisis actualizado debería estar listo dentro de las 24 horas. Vuelva a chequear.
+shopping-message-bar-warning-offline-title = No hay conexion de red
+shopping-message-bar-warning-offline-message = Verifique la conexión de red y luego vuelva a cargar la página.
+shopping-message-bar-analysis-in-progress-message = Cuando termine, mostraremos automáticamente la información actualizada aquí.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -43,15 +53,27 @@ shopping-message-bar-warning-not-enough-reviews-title = Aún no hay suficientes 
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Iniciar el analizador en { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Precio
+shopping-highlight-quality = Calidad
+shopping-highlight-shipping = Envío
+shopping-highlight-competitiveness = Competitividad
+shopping-highlight-packaging = Packaging
 
 ## Strings for show more card
 
+shopping-show-more-button = Mostrar más
+shopping-show-less-button = Mostrar menos
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Configuración
+shopping-settings-recommendations-toggle =
+    .label = Mostrar publicidad en el verificador de revisiones
 
 ## Strings for the adjusted rating component
 
