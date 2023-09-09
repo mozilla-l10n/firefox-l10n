@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Ашық беттерді син�
 firefoxview-syncedtabs-synctabs-header = Синхрондау баптауларын жаңартыңыз
 firefoxview-syncedtabs-synctabs-description = Басқа құрылғылардан беттерді көру үшін ашық беттерді синхрондау керек.
 firefoxview-syncedtabs-synctabs-checkbox = Ашық беттерді синхрондауға рұқсат ету
+firefoxview-syncedtabs-loading-header = Синхрондау орындалуда
 firefoxview-tabpickup-fxa-admin-disabled-header = Сізідң ұйымыңыз синхрондауды сөндірген
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } құрылғылар арасында беттерді синхрондай алмайды, себебі әкімшіңіз синхрондауды сөндірген.
 firefoxview-tabpickup-network-offline-header = Интернет байланысын тексеріңіз
