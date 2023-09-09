@@ -97,6 +97,16 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Hoe wy de kwaliteit fan beoardielingen bepale
+shopping-analysis-explainer-intro =
+    Wy brûke AI-technology fan { -fakespot-brand-full-name } om de betrouberens fan produktbeoardielingen te analysearjen.
+    Dizze analyze sil jo allinnich helpe om de beoardielingskwaliteit te beoardielen, net de produktkwaliteit.
+shopping-analysis-explainer-grades-intro = Wy jouwe oan de beoardielingen fan elk produkt in <strong>letterwearde</strong> fan A oant F.
+shopping-analysis-explainer-adjusted-rating-description = De <strong>oanpaste wurdearring</strong> is allinnich basearre op beoardielingen wêrfan wy tinke dat se betrouber binne.
+shopping-analysis-explainer-learn-more = Mear ynfo oer <a data-l10n-name="review-quality-url">hoe’t { -fakespot-brand-full-name } de kwaliteit fan beoardielingen bepaalt</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Hichtepunten</strong> binne ôfkomstich fan beoardielingen fan { $retailer } yn de ôfrûne 80 dagen dy’t neffens ús betrouber binne.
 
 ## Strings for UrlBar button
 
