@@ -58,7 +58,7 @@ detail-update-manual =
     .label = Mongepyre
     .tooltiptext = Aníke emohenda ñembohekopyahu ijeheguíva
 # Used as a description for the option to allow or block an add-on in private windows.
-detail-private-browsing-label = Eipuru ovetã ñemíme
+detail-private-browsing-label = Eiporu ovetã ñemíme
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Noñemoneĩri ovetã ñemíme
@@ -137,9 +137,9 @@ addon-category-dictionary-title =
 addon-category-locale = Ñe’ẽita
 addon-category-locale-title =
     .title = Ñe’ẽita
-addon-category-available-updates = Ñembohekopyahu eipurukuaáva
+addon-category-available-updates = Ñembohekopyahu eiporukuaáva
 addon-category-available-updates-title =
-    .title = Ñembohekopyahu eipurukuaáva
+    .title = Ñembohekopyahu eiporukuaáva
 addon-category-recent-updates = Ñembohekopyahu ramovéva
 addon-category-recent-updates-title =
     .title = Ñembohekopyahu ramovéva
@@ -200,7 +200,7 @@ addon-updates-reset-updates-to-manual = Emboheko opaite moĩmbaha oñembohekopya
 addon-updates-updating = Moĩmbaha hekopyahuhína
 addon-updates-installed = Oñembohekopyahúma nemoĩmbaha.
 addon-updates-none-found = Ndojejuhúi ñembohekopyahu
-addon-updates-manual-updates-found = Ehecha ñembohekopyahu eipurukuaáva
+addon-updates-manual-updates-found = Ehecha ñembohekopyahu eiporukuaáva
 
 ## Add-on install/debug strings for page options menu
 
@@ -409,7 +409,7 @@ addon-badge-verified2 =
 
 ##
 
-available-updates-heading = Ñembohekopyahu eipurukuaáva
+available-updates-heading = Ñembohekopyahu eiporukuaáva
 recent-updates-heading = Mohekopyahu ramoveguáva
 release-notes-loading = Henyhẽhína…
 release-notes-error = Rombyasy, hákatu oiko jejavy henyhẽnguévo jehaipy rehegua.

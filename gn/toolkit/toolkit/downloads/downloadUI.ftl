@@ -22,21 +22,18 @@ download-ui-dont-quit-button =
         [mac] Ani Emboty
        *[other] Ani Esẽ
     }
-
 download-ui-confirm-offline-cancel-downloads =
     { $downloadsCount ->
         [1] Ehasátaramo jeikekatu’ỹme ko’ág̃a, ohejáta pe ñemboguejy. Añetetépa rehasase jeikekatu’ỹ peguápe?
        *[other] Ehasátaramo jeikekatu’ỹme ko’ág̃a, ohejáta { $downloadsCount } oñemboguejýva. Añetépa rehejase jeikekatu’ỹ?
     }
 download-ui-dont-go-offline-button = Epytaite jeiképe
-
 download-ui-confirm-leave-private-browsing-windows-cancel-downloads =
     { $downloadsCount ->
         [1] Embotýramo opaite kundaha ñemi rovetã ko’ág̃a, ojehejáta peteĩ ñemboguejy. ¿Añetépa rehejase ne kundaha ñemi?
        *[other] Embotýramo opaite kundaha ñemi rovetã ko’ág̃a, ojehejáta { $downloadsCount } ñemboguejy. ¿Añetetépa ehejase ne kundaha ñemi?
     }
 download-ui-dont-leave-private-browsing-button = Reimehína kundaha ñemíme
-
 download-ui-cancel-downloads-ok =
     { $downloadsCount ->
         [1] Peteĩ Ñemboguejy jeheja
@@ -48,4 +45,4 @@ download-ui-cancel-downloads-ok =
 download-ui-file-executable-security-warning-title = ¿Marandurenda ojepurukuaávape jeike?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = “{ $executable }” ha’e marandurenda ojepurukuaáva. marandurenda ojepurukuaáva oguereko mba’echu’i térã ambue ayvu iñañáva ombikuaáva ne mohendaha. Eñangarekóke eikévo marandurendápe. ¿Añetetépa eipuruse “{ $executable }”?
+download-ui-file-executable-security-warning = “{ $executable }” ha’e marandurenda ojepurukuaáva. marandurenda ojepurukuaáva oguereko mba’echu’i térã ambue ayvu iñañáva ombikuaáva ne mohendaha. Eñangarekóke eikévo marandurendápe. ¿Añetetépa eiporuse “{ $executable }”?

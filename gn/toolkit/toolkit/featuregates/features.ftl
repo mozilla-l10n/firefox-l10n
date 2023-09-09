@@ -18,7 +18,7 @@ experimental-features-media-jxl =
     .label = Media: JPEG XL
 experimental-features-media-jxl-description = Ko tembiapoite hendýva ndive, { -brand-short-name } omoneĩ pe JPEG XL (JXL) ysaja. Kóva ha’e ta’ãnga marandurenda iporãvéva ysaja omoneĩva jeku’e okañy’ỹre marandurenda JPEG guive. Eikuaave hag̃ua, eporandu <a data-l10n-name="bugzilla">bug 1539075</a>-pe.
 experimental-features-devtools-compatibility-panel =
-    .label = Mboguatahára rembipuru: Ojokupytyva Rupa
+    .label = Mboguatahára rembiporu: Ojokupytyva Rupa
 experimental-features-devtools-compatibility-panel-description = Ta’ãngarupa yke kuatiarogue Moambuekuaaha ohechaukáva marandu omyesakãva jokupyty reko tembiporu’i kundahára pa’ũme. Eporandu <a data-l10n-name="bugzilla">bug 1584464</a> erekove hag̃ua mba’emimi.
 # Do not translate 'SameSite', 'Lax' and 'None'.
 experimental-features-cookie-samesite-none-requires-secure2 =
@@ -31,7 +31,7 @@ experimental-features-abouthome-startup-cache =
 experimental-features-abouthome-startup-cache-description = Kache kuatia ñepyrũguápe g̃uarã about:home henyhẽva ijehegui oñepyrũnguévo. Ko kache rembiaporã ha’e oikoporãve hag̃ua oñepyrũvo.
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support =
-    .label = Mboguatahára rembipuru: Service Worker mopotĩha
+    .label = Mboguatahára rembiporu: Service Worker mopotĩha
 # "Service Worker" is an API name and is usually not translated.
 experimental-features-devtools-serviceworker-debugger-support-description = Embojuruja pytyvõha ipyahúva Service Workers peg̃uarã Mopotĩha rupápe. Ko tembiapoite ikatu omombegue umi Tembiporu ñemboguataha ha oiporuve mandu’arenda.
 # WebRTC global mute toggle controls
@@ -45,4 +45,4 @@ experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha oj
 # Search during IME
 experimental-features-ime-search =
     .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
-experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembiporu omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eipuru hag̃ua erohoryvéva IME ndoipurúirõ koichagua tupa.
+experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembiporu omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eiporu hag̃ua erohoryvéva IME ndoiporúirõ koichagua tupa.

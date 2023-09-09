@@ -53,7 +53,7 @@ chooser-dialog =
     .buttonaccesskeyaccept = O
 chooser-dialog-description = Eiporavo tembiporu’i embojuruja hag̃ua juajuha { $scheme }.
 # Please keep the emphasis around the scheme (ie the `<strong>` HTML tags).
-chooser-dialog-remember = Eipuru tapia ko tembiporu’i embojuruja hag̃ua juajuha <strong>{ $scheme }</strong>
+chooser-dialog-remember = Eiporu tapia ko tembiporu’i embojuruja hag̃ua juajuha <strong>{ $scheme }</strong>
 chooser-dialog-remember-extra =
     { PLATFORM() ->
         [windows] Kóva ikatu iñambue jeporavorã { -brand-short-name }-pe.

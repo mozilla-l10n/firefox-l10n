@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 page-title = Marandu apañuãi oñemyatyrõ hag̃ua
-page-subtitle = Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eipuru emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  { -brand-short-name } rehegua, eike <a data-l10n-name="support-link">tenda eikekuaaha</a>.
+page-subtitle = Ko kuatiarogue oguereko marandu aporekoguáva ikatúva eiporu emyatyrõse jave peteĩ apañuãi. Ehekáramo mbohovái umi porandu oikovéva  { -brand-short-name } rehegua, eike <a data-l10n-name="support-link">tenda eikekuaaha</a>.
 crashes-title = Marandu jejavyguáva
 crashes-id = ID momarandu
 crashes-send-date = Mondopyre
@@ -132,7 +132,7 @@ place-database-verify-integrity = Tekoporã Jehechajey
 a11y-title = Jeikekuaa
 a11y-activated = Myandypyre
 a11y-force-disabled = Jeikekuaa jejoko
-a11y-handler-used = Handler ipurupyréva
+a11y-handler-used = Handler iporupyréva
 a11y-instantiator = Techapyrã jeikekuaa rehegua
 library-version-title = Arandukaty peteĩchagua
 copy-text-to-clipboard-label = Moñe’ẽrã mbohasa kuatiajokohápe
@@ -314,8 +314,8 @@ reset-on-next-restart = Embojevy moñepyrũjey uperire
 gpu-process-kill-button = GPU raperekogua mohu’ã
 gpu-device-reset = Emoñepyrũjey mba’e’oka
 gpu-device-reset-button = Mba’e’oka reko moñepyrũjey
-uses-tiling = Eipuru mosáiko
-content-uses-tiling = Eipuru mosáiko (tetepy)
+uses-tiling = Eiporu mosáiko
+content-uses-tiling = Eiporu mosáiko (tetepy)
 off-main-thread-paint-enabled = Opyta okápe inimbo tuichavéva mbosa’yha ijurujáva
 off-main-thread-paint-worker-count = Ñemoha’anga resa’ỹijo téma tuichavéva opyta okápe
 target-frame-rate = Ta’anga py’ỹi hupytyrã

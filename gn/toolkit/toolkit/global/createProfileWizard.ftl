@@ -29,7 +29,7 @@ create-profile-last-page-header2 =
         [macos] Mohu’ã
        *[other] Emoĩmba { create-profile-window2.title }
     }
-profile-creation-intro = Emoheñoirõ heta mba’ete ikatu eikuaa héra rupi. Ikatu eipuru pe téra ome’ẽva kóva térã eiporavo ndete voi.
+profile-creation-intro = Emoheñoirõ heta mba’ete ikatu eikuaa héra rupi. Ikatu eiporu pe téra ome’ẽva kóva térã eiporavo ndete voi.
 profile-prompt = Emoinge mba’etee pyahu réra:
     .accesskey = E
 profile-default-name =

@@ -72,7 +72,7 @@ csp-xfo-blocked-long-desc = Emo’ã hag̃ua ne rekorosã, { $hostname } nomone�
 ## Messages used for certificate error titles
 
 connectionFailure-title = Ndaikatúi eike
-deniedPortAccess-title = Ko kundaharenda ndaikatúi eipuru
+deniedPortAccess-title = Ko kundaharenda ndaikatúi eiporu
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.

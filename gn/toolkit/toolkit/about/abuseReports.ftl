@@ -101,7 +101,7 @@ abuse-report-broken-suggestions-sitepermission =
     <a data-l10n-name="support-link">Eike ñanduti rendápe</a> eñemomarandu hag̃ua ñangarekoharaite ndive.
 abuse-report-broken-suggestions-theme = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike téma ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
 abuse-report-policy-reason-v2 = Tetepy iñaña, imbarete térã léigui osẽva
-abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eipuru ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
+abuse-report-policy-suggestions = Kuaarã: Umi apañuãi ojojoguáva apohare derécho ha marca registrada oñemomaranduva’erã ha’eño peteĩteĩva. <a data-l10n-name="report-infringement-link">Eiporu ko’ã je’epyre</a> emomarandu hag̃ua apañuãi.
 abuse-report-unwanted-reason-v2 = Ndaipotái ha ndaikuaái mba’éichapa ajeíta chugui
 abuse-report-unwanted-example = Techapyrã: Peteĩ tembiporu’i oñemohendáva amoneĩ’ỹre
 abuse-report-other-reason = Ambue mba’e

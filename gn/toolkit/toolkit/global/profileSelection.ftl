@@ -26,5 +26,5 @@ profile-manager-work-offline =
     .label = Jeikekatu’ỹme mba’apo
     .accesskey = o
 profile-manager-use-selected =
-    .label = Eipuru mba’ete poravopyre ejerure’ỹre ñepyrũha
+    .label = Eiporu mba’ete poravopyre ejerure’ỹre ñepyrũha
     .accesskey = s

@@ -123,7 +123,7 @@ edit-trust-ca = Pe mboajepyréva “{ $certName }” moakãhára omboajéva rér
 delete-user-cert-title =
     .title = Nemboajepyréva mboguete
 delete-user-cert-confirm = ¿Añetehápepa emboguetese ko’ã mboajepyréva?
-delete-user-cert-impact = Emboguetéramo peteĩva umi nemboajepyréva, ndaikatumo’ãi eipuru ejehechauka hag̃ua ndete voi.
+delete-user-cert-impact = Emboguetéramo peteĩva umi nemboajepyréva, ndaikatumo’ãi eiporu ejehechauka hag̃ua ndete voi.
 delete-ssl-override-title =
     .title = Eliminar mohendahavusu mboajepyréva ykepegua
 delete-ssl-override-confirm = ¿Añetehápe emboguesete ko mohendahavusu ykepeguáva?
@@ -168,7 +168,7 @@ add-exception-valid-short = Mboajepyre oikóva
 add-exception-valid-long = Ko tenda ome’ẽ jogueraha oikóva ha ojehechajeypyréva. Nereikotevẽi embojuapy peteĩ oĩ’ỹva.
 add-exception-checking-short = Marandu jehechajey
 add-exception-checking-long = Oñeha’ã ohechakuaa ko tendápe…
-add-exception-no-cert-short = Ndaipóri marandu eipurukuaáva
+add-exception-no-cert-short = Ndaipóri marandu eiporukuaáva
 add-exception-no-cert-long = Ndaikatúi eguereko jehechakuaa reko ko tendápe g̃uarã.
 
 ## Certificate export "Save as" and error dialogs
