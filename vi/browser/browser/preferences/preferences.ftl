@@ -1020,6 +1020,10 @@ content-blocking-all-windows-tracking-content = Trình theo dõi nội dung tron
 content-blocking-all-cross-site-cookies = Tất cả cookie trên nhiều trang web
 content-blocking-cryptominers = Tiền điện tử
 content-blocking-fingerprinters = Dấu vết (Fingerprintng)
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Dấu vết đã biết và đáng ngờ
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 

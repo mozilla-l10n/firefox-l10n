@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Đồng bộ hóa các thẻ đan
 firefoxview-syncedtabs-synctabs-header = Cập nhật cài đặt đồng bộ hóa của bạn
 firefoxview-syncedtabs-synctabs-description = Để xem các thẻ từ các thiết bị khác, bạn cần đồng bộ hóa các thẻ đang mở của mình.
 firefoxview-syncedtabs-synctabs-checkbox = Cho phép đồng bộ hóa các thẻ đang mở
+firefoxview-syncedtabs-loading-header = Đang đồng bộ hóa
+firefoxview-syncedtabs-loading-description = Khi hoàn tất, bạn sẽ thấy mọi thẻ bạn đã mở trên các thiết bị khác. Hãy kiểm tra lại sau.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tổ chức của bạn đã tắt đồng bộ hóa
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } không thể đồng bộ hóa các thẻ giữa các thiết bị vì quản trị viên của bạn đã tắt đồng bộ hóa.
 firefoxview-tabpickup-network-offline-header = Kiểm tra kết nối Internet của bạn
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Để tìm các thẻ từ th
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Không có thẻ đang mở trên thiết bị này
+firefoxview-syncedtabs-connect-another-device = Kết nối thiết bị khác
