@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Το <strong>{ $property }</strong> δεν έχει
 inactive-css-not-flex-container = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι περιέκτης flex.
 inactive-css-not-inline-or-tablecell = Η ιδιότητα <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν είναι στοιχείο εντός της γραμμής ή κελιού πίνακα.
 inactive-css-first-line-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::first-line.
+inactive-css-placeholder-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::placeholder.
 inactive-css-property-because-of-display = Το <strong>{ $property }</strong> δεν έχει επίδραση σε αυτό το στοιχείο, αφού δεν έχει προβολή του <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Η τιμή <strong>display</strong> έχει αλλάξει από τη μηχανή σε <strong>block</strong> επειδή το στοιχείο είναι <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Είναι αδύνατο να παρακάμψετε το <strong>{ $property }</strong> λόγω του περιορισμού <strong>:visited</strong>.
