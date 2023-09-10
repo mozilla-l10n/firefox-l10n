@@ -90,12 +90,33 @@ shopping-adjusted-rating-unreliable-reviews = Se han eliminado las reseñas no f
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = ¿Son fiables estas reseñas?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Cómo determinamos la calidad de las reseñas
+shopping-analysis-explainer-intro =
+    Utilizamos tecnología de IA de { -fakespot-brand-full-name } para analizar la fiabilidad de las reseñas de productos.
+    Este análisis solo ayudará a evaluar la calidad de las reseñas, no la calidad del producto.
+shopping-analysis-explainer-grades-intro = Asignamos a las reseñas de cada producto una <strong>calificación con letras</strong> de la A a la F.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en reseñas que consideramos fiables.
+shopping-analysis-explainer-learn-more = Saber más acerca de <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de las reseñas</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Los <strong>puntos destacados</strong> provienen de reseñas de { $retailer } de los últimos 80 días que creemos que son fiables.
+shopping-analysis-explainer-review-grading-scale-reliable = Revisiones fiables. Creemos que las reseñas probablemente provienen de clientes reales que dejaron reseñas honestas e imparciales.
+shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una combinación de reseñas fiables y no fiables.
+shopping-analysis-explainer-review-grading-scale-unreliable = Reseñas poco fiables. Creemos que las reseñas probablemente son falsas o provienen de revisores sesgados.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Abrir barra lateral de compras
+shopping-sidebar-close-button =
+    .tooltiptext = Cerrar barra lateral de compras
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -104,6 +125,12 @@ shopping-adjusted-rating-unreliable-reviews = Se han eliminado las reseñas no f
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Aún no hay análisis para estas reseñas
+shopping-unanalyzed-product-message = Inicie el analizador de { -fakespot-brand-full-name } y sabrá en unos 60 segundos si las reseñas de este producto son fiables.
+shopping-unanalyzed-product-analyze-link = Iniciar el analizador en { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Más para considerar
+ad-by-fakespot = Anuncio de { -fakespot-brand-name }
