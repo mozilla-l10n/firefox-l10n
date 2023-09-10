@@ -18,6 +18,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Recensiones fidabile
+shopping-letter-grade-description-c = Mixtura de recensiones fidabile e non fidabile
 shopping-letter-grade-description-df = Recensiones non fidabile
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
@@ -31,6 +32,7 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Actualisationes disponibile
 shopping-message-bar-generic-error-title = Analysis non dum disponibile
+shopping-message-bar-generic-error-message = Nos labora pro resolver le problema. Retenta tosto.
 shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
 shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
 shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
