@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Synkroniser opne faner
 firefoxview-syncedtabs-synctabs-header = Oppdater synkroniseringsinnstillingane dine
 firefoxview-syncedtabs-synctabs-description = For å sjå faner frå andre einingar må du synkronisere dei opne fanene dine.
 firefoxview-syncedtabs-synctabs-checkbox = Tillat opne faner å synkronisere
+firefoxview-syncedtabs-loading-header = Synkronisering i framdrift
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikkje synkronisere faner mellom einingar fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-network-offline-header = Sjekk internettilkoplinga di
@@ -210,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Sjå <a data-l10n-name="histo
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Ingen opne faner på denne eininga
+firefoxview-syncedtabs-connect-another-device = Kople til ei anna eining
