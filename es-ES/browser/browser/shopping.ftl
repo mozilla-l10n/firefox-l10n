@@ -34,11 +34,20 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-title = Actualizaciones disponibles
 shopping-message-bar-warning-stale-analysis-message = Inicie el analizador { -fakespot-brand-full-name } para obtener información actualizada en aproximadamente 60 segundos.
 shopping-message-bar-generic-error-title = Análisis no disponible en este momento
-shopping-message-bar-generic-error-message = Estamos trabajando para resolver el problema. Por favor, vuelve a comprobarlo en breve.
+shopping-message-bar-generic-error-message = Estamos trabajando para resolver el problema. Por favor, vuelva a comprobarlo en breve.
 shopping-message-bar-warning-not-enough-reviews-title = Aún no hay suficientes reseñas
 shopping-message-bar-warning-not-enough-reviews-message = Cuando este producto tenga más reseñas, podremos analizarlas.
 shopping-message-bar-warning-product-not-available-title = El producto no está disponible
 shopping-message-bar-warning-product-not-available-message = Si ve que este producto vuelve a estar disponible, infórmenos y trabajaremos para actualizar el análisis.
+shopping-message-bar-warning-product-not-available-button = Informar que este producto vuelve a estar disponible
+shopping-message-bar-thanks-for-reporting-title = ¡Gracias por informar!
+shopping-message-bar-thanks-for-reporting-message = Deberíamos tener un análisis actualizado en 24 horas. Por favor, vuelva a comprobarlo más tarde.
+shopping-message-bar-warning-product-not-available-reported-title = Análisis disponible próximamente
+shopping-message-bar-warning-product-not-available-reported-message = En 24 horas debería estar listo un análisis actualizado. Por favor, vuelva a comprobarlo más tarde.
+shopping-message-bar-warning-offline-title = No hay conexión de red
+shopping-message-bar-warning-offline-message = Verifique su conexión de red y pruebe a recargar la página.
+shopping-message-bar-analysis-in-progress-title = Análisis disponible próximamente
+shopping-message-bar-analysis-in-progress-message = Cuando termine, mostraremos automáticamente la información actualizada aquí.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -46,18 +55,38 @@ shopping-message-bar-warning-product-not-available-message = Si ve que este prod
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Iniciar el analizador en { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Aspectos destacados de reseñas recientes
+shopping-highlight-price = Precio
+shopping-highlight-quality = Calidad
+shopping-highlight-shipping = Envío
+shopping-highlight-competitiveness = Competitividad
+shopping-highlight-packaging = Embalaje
 
 ## Strings for show more card
 
+shopping-show-more-button = Mostrar más
+shopping-show-less-button = Mostrar menos
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Ajustes
+shopping-settings-recommendations-toggle =
+    .label = Mostrar anuncios en el verificador de reseñas
+shopping-settings-recommendations-learn-more = Verá anuncios ocasionales de productos relevantes. Todos los anuncios deben cumplir con nuestros estándares de calidad. <a data-l10n-name="review-quality-url">Saber más</a>
+shopping-settings-opt-out-button = Desactivar el verificador de reseñas
+powered-by-fakespot = El verificador de reseñas funciona con <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Calificación ajustada
+shopping-adjusted-rating-unreliable-reviews = Se han eliminado las reseñas no fiables
 
 ## Strings for the review reliability component
 
