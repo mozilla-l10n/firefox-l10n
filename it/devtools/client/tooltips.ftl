@@ -39,6 +39,8 @@ inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> non ha eff
 
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::first-line”.
 
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::first-letter”.
+
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::placeholder”.
 
 inactive-css-property-because-of-display = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto il valore di “display” è <strong>{ $display }</strong>.
