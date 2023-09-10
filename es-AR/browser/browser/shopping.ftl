@@ -74,6 +74,7 @@ shopping-settings-label =
     .label = Configuración
 shopping-settings-recommendations-toggle =
     .label = Mostrar publicidad en el verificador de revisiones
+shopping-settings-recommendations-learn-more = Verá publicidades ocasionales de productos relevantes. Todas las publicidades deben cumplir con nuestros estándares de calidad de revisión. <a data-l10n-name="review-quality-url">Conocer más</a>
 shopping-settings-opt-out-button = Desactivar el verificador de revisiones
 
 ## Strings for the adjusted rating component
@@ -91,9 +92,22 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Cómo determinamos la calidad de las revisiones
+shopping-analysis-explainer-intro =
+    Utilizamos tecnología de IA de { -fakespot-brand-full-name } para analizar la confiabilidad de las revisiones de productos.
+    Este análisis sólo ayudará a evaluar la calidad de las revisiones, no la calidad del producto.
+shopping-analysis-explainer-grades-intro = Asignamos a las revisiones de cada producto una <strong>calificación con letras</strong> de la A a la F.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en revisiones que consideramos confiables.
+shopping-analysis-explainer-learn-more = Conocer más sobre <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de la revisión</a>.
+shopping-analysis-explainer-review-grading-scale-reliable = Revisiones confiables. Creemos que las revisiones probablemente provengan de clientes reales que dejaron revisiones honestas e imparciales.
+shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una mezcla de revisiones confiables y no confiables.
+shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones poco fiables. Creemos que las revisiones probablemente sean falsas o provengan de revisores sesgados.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Abrir barra lateral de compras
+shopping-sidebar-close-button =
+    .tooltiptext = Cerrar barra lateral de compras
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -102,6 +116,12 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Aún no hay análisis para estas revisiones
+shopping-unanalyzed-product-message = Inicie el analizador { -fakespot-brand-full-name } y sabrá en unos 60 segundos si las revisiones de este producto son confiables.
+shopping-unanalyzed-product-analyze-link = Iniciar el analizador en { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Más para considerar
+ad-by-fakespot = Publicidad de { -fakespot-brand-name }
