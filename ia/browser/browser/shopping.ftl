@@ -17,6 +17,8 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Recensiones fidabile
+shopping-letter-grade-description-df = Recensiones non fidabile
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
