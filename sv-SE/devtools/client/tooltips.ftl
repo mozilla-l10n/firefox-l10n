@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> har ingen effekt på
 inactive-css-not-flex-container = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är en flexbehållare.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är ett inline- eller table-cellelement.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte i ::first-line pseudoelement.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte i ::placeholder pseudoelement.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom den har en visning av <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Värdet <strong>display</strong> har ändrats av motorn till <strong>block</strong> eftersom elementet är <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Det är omöjligt att skriva över <strong>{ $property }</strong> på grund av begränsningen <strong>:visited</strong>.
