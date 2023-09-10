@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Synkronisera öppna flikar
 firefoxview-syncedtabs-synctabs-header = Uppdatera dina synkroniseringsinställningar
 firefoxview-syncedtabs-synctabs-description = För att se flikar från andra enheter måste du synkronisera dina öppna flikar.
 firefoxview-syncedtabs-synctabs-checkbox = Tillåt öppna flikar att synkronisera
+firefoxview-syncedtabs-loading-header = Synkronisering pågår
+firefoxview-syncedtabs-loading-description = När det är klart ser du alla flikar som du har öppna på andra enheter. Kom snart tillbaka.
 firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har inaktiverat synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan inte synkronisera flikar mellan enheter eftersom din administratör har inaktiverat synkronisering.
 firefoxview-tabpickup-network-offline-header = Kontrollera din internetanslutning
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Visa din <a data-l10n-name="h
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Inga flikar öppna på den här enheten
+firefoxview-syncedtabs-connect-another-device = Anslut en annan enhet
