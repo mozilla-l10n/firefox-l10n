@@ -16,12 +16,14 @@ learn-more = <span data-l10n-name="link">Daha fazla bilgi al</span>
 
 inactive-css-not-grid-or-flex-container = Bu eleman flex kapsayıcı veya grid kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-grid-or-flex-container-or-multicol-container = Bu eleman flex kapsayıcı, grid kapsayıcı veya çok sütunlu kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-not-multicol-container = Bu eleman bir çok sütunlu kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-grid-or-flex-item = Bu eleman bir flex veya grid öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-grid-item = Bu eleman bir grid öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-grid-container = Bu eleman bir grid kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-flex-item = Bu eleman bir flex öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-flex-container = Bu eleman bir flex kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-inline-or-tablecell = Bu eleman bir inline veya table-cell öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-line pseudo elemanlarında desteklenmez.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::placeholder pseudo elemanlarında desteklenmez.
 inactive-css-property-because-of-display = Bu eleman <strong>{ $display }</strong> olarak görüntülendiği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-display-block-on-floated = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>block</strong> olarak değiştirildi.

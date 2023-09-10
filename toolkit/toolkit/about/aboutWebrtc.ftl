@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Sayfayı kaydet
 about-webrtc-debug-mode-msg-label = Hata ayıklama modu
 about-webrtc-debug-mode-off-state-label = Hata ayıklama modunu başlat
 about-webrtc-debug-mode-on-state-label = Hata ayıklama modunu durdur
+about-webrtc-enable-logging-label = WebRTC log ön ayarını etkinleştir
 about-webrtc-stats-heading = Oturum istatistikleri
 about-webrtc-stats-clear = Geçmişi temizle
 about-webrtc-log-heading = Bağlantı günlüğü
@@ -222,12 +223,11 @@ about-webrtc-save-page-msg = sayfa { $path } konumuna kaydedildi
 about-webrtc-debug-mode-off-state-msg = izleme günlüğü { $path } konumunda bulunabilir
 about-webrtc-debug-mode-on-state-msg = hata ayıklama modu etkin, izleme günlük konumu: { $path }
 about-webrtc-aec-logging-off-state-msg = yakalanan günlük dosyaları şurada bulunabilir: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Sayfa { $path } konumuna kaydedildi
-about-webrtc-debug-mode-toggled-off-state-msg = Izleme günlüğü { $path } konumunda bulunabilir
-about-webrtc-debug-mode-toggled-on-state-msg = Hata ayıklama modu etkin, izleme günlük konumu: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -299,6 +299,9 @@ about-webrtc-sdp-set-timestamp = Zaman damgası { NUMBER($timestamp, useGrouping
 
 about-webrtc-show-msg-sdp = SDP’yi göster
 about-webrtc-hide-msg-sdp = SDP’yi gizle
+
+##
+
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
