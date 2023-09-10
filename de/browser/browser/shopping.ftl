@@ -20,6 +20,7 @@ shopping-a11y-loading =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-title = Updates verfügbar
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -30,12 +31,22 @@ shopping-a11y-loading =
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Highlights aus den neuesten Bewertungen
+shopping-highlight-price = Preis
+shopping-highlight-quality = Qualität
+shopping-highlight-shipping = Versand
+shopping-highlight-packaging = Verpackung
 
 ## Strings for show more card
 
+shopping-show-more-button = Mehr anzeigen
+shopping-show-less-button = Weniger anzeigen
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Einstellungen
 
 ## Strings for the adjusted rating component
 
