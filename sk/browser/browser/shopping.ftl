@@ -100,9 +100,23 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro =
     Na analýzu spoľahlivosti recenzií produktov používame AI technológiu od { -fakespot-brand-full-name }.
     Táto analýza vám pomôže posúdiť iba kvalitu recenzie, nie kvalitu produktu.
+shopping-analysis-explainer-grades-intro = Každej recenzii produktu prideľujeme <strong>známku</strong> od A po F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnotenie</strong> je založené iba na recenziách, ktoré považujeme za spoľahlivé.
+shopping-analysis-explainer-learn-more = Ďalšie informácie o tom, <a data-l10n-name="review-quality-url">ako { -fakespot-brand-full-name } určuje kvalitu recenzie</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Najdôležitejšie informácie</strong> pochádzajú z recenzií v obchode { $retailer } uverejnených za posledných 80 dní, ktoré považujeme za spoľahlivé.
+shopping-analysis-explainer-review-grading-scale-reliable = Spoľahlivé recenzie. Veríme, že recenzie sú pravdepodobne od skutočných zákazníkov, ktorí zanechali úprimné a nezaujaté recenzie.
+shopping-analysis-explainer-review-grading-scale-mixed = Myslíme si, že je tu mix spoľahlivých a nespoľahlivých recenzií.
+shopping-analysis-explainer-review-grading-scale-unreliable = Nespoľahlivé recenzie. Sme presvedčení, že recenzie sú pravdepodobne falošné alebo od zaujatých recenzentov.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Otvoriť bočný panel Nákupy
+shopping-sidebar-close-button =
+    .tooltiptext = Zavrieť bočný panel Nákupy
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -111,8 +125,12 @@ shopping-analysis-explainer-intro =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Pre tieto recenzie nie je zatiaľ dostupná žiadna recenzia
+shopping-unanalyzed-product-message = Spustite analyzátor { -fakespot-brand-full-name } a približne za 60 sekúnd budete vedieť, či sú recenzie tohto produktu spoľahlivé.
 shopping-unanalyzed-product-analyze-link = Spustiť analyzátor na { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Ďalšie na zváženie
 ad-by-fakespot = Reklama od { -fakespot-brand-name }
