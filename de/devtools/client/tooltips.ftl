@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> hat bei diesem Eleme
 inactive-css-not-flex-container = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es kein Flex-Container ist.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil es weder ein inline- noch ein table-cell-Element ist.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> wird bei ::first-line-Pseudo-Elementen nicht unterstützt.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> wird bei ::placeholder-Pseudo-Elementen nicht unterstützt.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> hat bei diesem Element keine Wirkung, weil sein display-Wert <strong>{ $display }</strong> ist.
 inactive-css-not-display-block-on-floated = Der Wert <strong>display</strong> wurde automatisch auf den Wert <strong>block</strong> geändert, weil das Element auf <strong>float</strong> gesetzt wurde.
 inactive-css-property-is-impossible-to-override-in-visited = <strong>{ $property }</strong> kann aufgrund der Einschränkung durch <strong>:visited</strong> nicht überschrieben werden.

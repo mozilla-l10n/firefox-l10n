@@ -1036,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Inhalte zur Aktivitätenverfolgu
 content-blocking-all-cross-site-cookies = Alle seitenübergreifenden Cookies
 content-blocking-cryptominers = Heimliche Digitalwährungsberechner (Krypto-Miner)
 content-blocking-fingerprinters = Identifizierer (Fingerprinter)
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Bekannte und vermutete Identifizierer (Fingerprinter)
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
