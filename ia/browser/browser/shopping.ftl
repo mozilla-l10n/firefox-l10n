@@ -30,10 +30,13 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Actualisationes disponibile
+shopping-message-bar-generic-error-title = Analysis non dum disponibile
 shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
 shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
 shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
+shopping-message-bar-warning-product-not-available-reported-title = Analysis in arrivata
 shopping-message-bar-warning-offline-title = Nulle connexion de rete
+shopping-message-bar-analysis-in-progress-title = Analysis in arrivata
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
