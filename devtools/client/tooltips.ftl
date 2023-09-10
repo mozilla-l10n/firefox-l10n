@@ -67,7 +67,9 @@ inactive-css-border-image = <strong>{ $property }</strong> non ha effetto su que
 
 inactive-css-ruby-element = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto è un elemento per la trascrizione fonetica (ruby). La sua dimensione è determinata dalla dimensione del carattere.
 
-inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non è supportata in pseudo-elementi della categoria “highlight”.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi della categoria “highlight”.
+
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::cue”.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
