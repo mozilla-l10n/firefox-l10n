@@ -31,6 +31,23 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-title = Sú dostupné aktualizácie
+shopping-message-bar-warning-stale-analysis-message = Spustite analyzátor { -fakespot-brand-full-name } a získajte aktualizované informácie za približne 60 sekúnd.
+shopping-message-bar-generic-error-title = Analýza momentálne nie je k dispozícii
+shopping-message-bar-generic-error-message = Pracujeme na vyriešení problému. Skúste sa vrátiť o trochu neskôr.
+shopping-message-bar-warning-not-enough-reviews-title = Zatiaľ nie je dostatok recenzií
+shopping-message-bar-warning-not-enough-reviews-message = Keď bude mať tento produkt viac recenzií, budeme ich môcť analyzovať.
+shopping-message-bar-warning-product-not-available-title = Produkt nie je dostupný
+shopping-message-bar-warning-product-not-available-message = Ak zistíte, že tento produkt je opäť na sklade, nahláste nám to a my budeme pracovať na aktualizácii analýzy.
+shopping-message-bar-warning-product-not-available-button = Oznámiť, že tento produkt je opäť na sklade
+shopping-message-bar-thanks-for-reporting-title = Ďakujeme za nahlásenie!
+shopping-message-bar-thanks-for-reporting-message = Aktualizovanú analýzu by sme mali mať do 24 hodín. Príďte sa pozrieť.
+shopping-message-bar-warning-product-not-available-reported-title = Analýza už čoskoro
+shopping-message-bar-warning-product-not-available-reported-message = Aktualizovaná analýza by mala byť hotová do 24 hodín. Príďte sa pozrieť.
+shopping-message-bar-warning-offline-title = Bez pripojenia k sieti
+shopping-message-bar-warning-offline-message = Skontrolujte pripojenie k sieti. Potom skúste stránku znova načítať.
+shopping-message-bar-analysis-in-progress-title = Analýza už čoskoro
+shopping-message-bar-analysis-in-progress-message = Po dokončení sa tu automaticky zobrazia aktualizované informácie.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -38,27 +55,51 @@ shopping-letter-grade-tooltip =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Spustiť analyzátor na { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = To najlepšie z nedávnych recenzií
 shopping-highlight-price = Cena
 shopping-highlight-quality = Kvalita
 shopping-highlight-shipping = Doprava
+shopping-highlight-competitiveness = Konkurencieschopnosť
+shopping-highlight-packaging = Balenie
 
 ## Strings for show more card
 
+shopping-show-more-button = Zobraziť viac
+shopping-show-less-button = Zobraziť menej
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Nastavenia
+shopping-settings-recommendations-toggle =
+    .label = Zobrazovať reklamy v nástroji Kontrola recenzií
+shopping-settings-recommendations-learn-more = Príležitostne sa vám budú zobrazovať reklamy na relevantné produkty. Všetky reklamy musia spĺňať naše štandardy kvality recenzií. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
+shopping-settings-opt-out-button = Vypnúť Kontrolu recenzií
+powered-by-fakespot = Nástroj Kontrola recenzií využíva technológiu <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Upravené hodnotenie
+shopping-adjusted-rating-unreliable-reviews = Nespoľahlivé recenzie boli odstránené
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Ako spoľahlivé sú tieto recenzie?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Ako určujeme kvalitu recenzie
+shopping-analysis-explainer-intro =
+    Na analýzu spoľahlivosti recenzií produktov používame AI technológiu od { -fakespot-brand-full-name }.
+    Táto analýza vám pomôže posúdiť iba kvalitu recenzie, nie kvalitu produktu.
 
 ## Strings for UrlBar button
 
@@ -70,6 +111,8 @@ shopping-highlight-shipping = Doprava
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-analyze-link = Spustiť analyzátor na { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+ad-by-fakespot = Reklama od { -fakespot-brand-name }
