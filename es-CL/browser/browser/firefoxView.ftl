@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Actualiza tus ajustes de sincronizació
 firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debes sincronizar tus pestañas abiertas.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que las pestañas abiertas sean sincronizadas
 firefoxview-syncedtabs-loading-header = Sincronización en proceso
+firefoxview-syncedtabs-loading-description = Cuando esté listo, verás las pestañas que tengas abiertas en otros dispositivos. Vuelve a consultar pronto.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tu organización ha deshabilitado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar pestañas entre dispositivos porque tu administrador ha deshabilitado la sincronización.
 firefoxview-tabpickup-network-offline-header = Revisa tu conexión a Internet
