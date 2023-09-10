@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronizar pestañas abiertas
 firefoxview-syncedtabs-synctabs-header = Actualice la configuración de sincronización
 firefoxview-syncedtabs-synctabs-description = Para ver pestañas de otros dispositivos, debe sincronizar sus pestañas abiertas.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que las pestañas abiertas se sincronicen
+firefoxview-syncedtabs-loading-header = Sincronización en curso
+firefoxview-syncedtabs-loading-description = Una vez completada, verás las pestañas que tengas abiertas en otros dispositivos. Vuelve a consultarlo más tarde.
 firefoxview-tabpickup-fxa-admin-disabled-header = Su organización ha desactivado la sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } no puede sincronizar las pestañas entre dispositivos porque su administrador desactivó la sincronización.
 firefoxview-tabpickup-network-offline-header = Compruebe su conexión a internet
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Para buscar pestañas cerrada
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = No hay pestañas abiertas en este dispositivo
+firefoxview-syncedtabs-connect-another-device = Conectar otro dispositivo
