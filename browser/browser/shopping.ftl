@@ -74,15 +74,23 @@ shopping-settings-label =
     .label = Configuración
 shopping-settings-recommendations-toggle =
     .label = Mostrar publicidad en el verificador de revisiones
+shopping-settings-opt-out-button = Desactivar el verificador de revisiones
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Calificación ajustada
+shopping-adjusted-rating-unreliable-reviews = Revisiones no confiables eliminadas
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = ¿Qué tan confiables son estas revisiones?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Cómo determinamos la calidad de las revisiones
 
 ## Strings for UrlBar button
 
