@@ -15,6 +15,7 @@ support-addons-type = Tür
 support-addons-enabled = Etkin
 support-addons-version = Sürüm
 support-addons-id = Kimlik
+legacy-user-stylesheets-title = Eski kullanıcı stil sayfaları
 legacy-user-stylesheets-enabled = Etkin
 legacy-user-stylesheets-stylesheet-types = Stil sayfaları
 legacy-user-stylesheets-no-stylesheets-found = Stil sayfası bulunamadı
