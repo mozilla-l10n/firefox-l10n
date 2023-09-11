@@ -130,4 +130,6 @@ shopping-unanalyzed-product-analyze-link = Starta analysator på { -fakespot-web
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Mer att tänka på
 ad-by-fakespot = Annons av { -fakespot-brand-name }
