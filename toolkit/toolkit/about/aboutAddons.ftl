@@ -461,11 +461,11 @@ addon-page-options-button =
 
 # Variables:
 #   $version (string) - Application version.
-details-notification-incompatible = Doplnok { $name } nie je kompatibilný s verziou { $version } aplikácie { -brand-short-name }.
+details-notification-incompatible = Doplnok { $name } nie je kompatibilný s { -brand-short-name(case: "ins") } verzie { $version }.
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
-    .message = Doplnok { $name } nie je kompatibilný s verziou { $version } aplikácie { -brand-short-name }.
+    .message = Doplnok { $name } nie je kompatibilný s { -brand-short-name(case: "ins") } verzie { $version }.
 details-notification-incompatible-link = Ďalšie informácie
 details-notification-unsigned-and-disabled = Doplnok { $name } nemohol byť overený pre použitie v aplikácii { -brand-short-name } a bol preto zakázaný.
 details-notification-unsigned-and-disabled2 =
