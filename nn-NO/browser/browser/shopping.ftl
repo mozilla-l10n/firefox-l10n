@@ -17,6 +17,10 @@ shopping-a11y-loading =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
+shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
+shopping-message-bar-warning-product-not-available-reported-title = Analysar kjem snart
+shopping-message-bar-analysis-in-progress-title = Analysar kjem snart
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
