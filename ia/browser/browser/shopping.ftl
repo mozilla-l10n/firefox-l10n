@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Compras in { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificator de recension
@@ -35,6 +36,7 @@ shopping-message-bar-generic-error-title = Analysis non dum disponibile
 shopping-message-bar-generic-error-message = Nos labora pro resolver le problema. Retenta tosto.
 shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
 shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
+shopping-message-bar-warning-product-not-available-message = Si tu vide que iste producto es retro in stock, reporta lo a nos e nos laborara sur le actualisation del analyse.
 shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
 shopping-message-bar-warning-product-not-available-reported-title = Analysis in arrivata
 shopping-message-bar-warning-offline-title = Nulle connexion de rete
