@@ -36,6 +36,7 @@ shopping-message-bar-warning-product-not-available-title = Apopyre ndojepurukua�
 shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojepurukuaajeymaha
 shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
 shopping-message-bar-warning-product-not-available-reported-title = Ñehesa’ỹijo ojepurukuaapotáva
+shopping-message-bar-warning-offline-title = Ndaikatúi eike ñandutípe
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
