@@ -42,6 +42,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronizar separadores abertos
 firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincronização
 firefoxview-syncedtabs-synctabs-description = Para ver os separadores de outros dispositivos, precisa de sincronizar os seus separadores abertos.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que separadores abertos sejam sincronizados
+firefoxview-syncedtabs-loading-header = Sincronização em progresso
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar separadores entre dispositivos porque o seu administrador desativou a sincronização.
 firefoxview-tabpickup-network-offline-header = Verifique a sua ligação à Internet
