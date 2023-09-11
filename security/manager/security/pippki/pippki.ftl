@@ -57,6 +57,11 @@ client-auth-window =
     .title = Požadavek na identifikaci uživatele
 client-auth-site-description = Tato stránka vyžaduje vaši identifikaci certifikátem:
 client-auth-choose-cert = Vyberte certifikát, který vás identifikuje:
+client-auth-send-no-certificate =
+    .label = Neodesílat certifikát
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = Server “{ $hostname }” požaduje, abyste se identifikovali certifikátem:
 client-auth-cert-details = Podrobnosti o vybraném certifikátu:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
