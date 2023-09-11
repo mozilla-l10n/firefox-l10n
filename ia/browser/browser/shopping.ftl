@@ -55,13 +55,17 @@ shopping-message-bar-analysis-in-progress-message = Quando isto sera facite, nos
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Lancear analysator sur { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Aspectos notabile ab recensiones recente
 shopping-highlight-price = Precio
 shopping-highlight-quality = Qualitate
 shopping-highlight-shipping = Expedition
 shopping-highlight-competitiveness = Competitivitate
+shopping-highlight-packaging = Imballage
 
 ## Strings for show more card
 
