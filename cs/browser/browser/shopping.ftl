@@ -32,6 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Dostupné aktualizace
+shopping-message-bar-warning-stale-analysis-message = Spusťte analýzu { -fakespot-brand-full-name } pro načtení aktuálních informací za přibližně 60 sekund.
 shopping-message-bar-generic-error-title = Analýza není v tuto chvíli k dispozici
 shopping-message-bar-generic-error-message = Pracujeme na vyřešení problému. Zkuste to prosím později.
 shopping-message-bar-warning-not-enough-reviews-title = Zatím nemá dostatek recenzí
@@ -125,6 +126,11 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Analýza těchto recenzí ještě neexistuje
+shopping-unanalyzed-product-message = Spusťte analýzu { -fakespot-brand-full-name } a přibližně za 60 sekund budete vědět, zda jsou recenze tohoto produktu spolehlivé.
+shopping-unanalyzed-product-analyze-link = Spustit analýzu na { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Další ke zvážení
+ad-by-fakespot = Reklama od { -fakespot-brand-name }
