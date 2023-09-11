@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Embohekopyahu mbojueheha ñemboheko
 firefoxview-syncedtabs-synctabs-description = Ehecha hag̃ua tendayke ambue mba’e’okagua, embojuehe tendayke ijurujáva.
 firefoxview-syncedtabs-synctabs-checkbox = Emoneĩ tendayke ijurujáva tojuehekuaa
 firefoxview-syncedtabs-loading-header = Ñemboheko oku’éma
+firefoxview-syncedtabs-loading-description = Emoĩmbávo, ehecháta umi tendayke ijurujáva ambue mba’e’okápe. Eporandujey ag̃ave.
 firefoxview-tabpickup-fxa-admin-disabled-header = Nde atyguasu omboyke pe ñembojuehe
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nombojuehekuaái tendayke mba’e’okakuéra pa’ũme ne ñangarekohára omboykégui ñembojuehe.
 firefoxview-tabpickup-network-offline-header = Ehecha og̃uahẽ porãpa ñanduti

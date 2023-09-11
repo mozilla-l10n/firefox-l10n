@@ -31,6 +31,11 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eiporukuaáva
+shopping-message-bar-generic-error-title = Ñehesa’ỹijo ojepurukuaa’ỹva ko’ág̃a
+shopping-message-bar-warning-product-not-available-title = Apopyre ndojepurukuaái
+shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojepurukuaajeymaha
+shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
+shopping-message-bar-warning-product-not-available-reported-title = Ñehesa’ỹijo ojepurukuaapotáva
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
