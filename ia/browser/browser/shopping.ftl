@@ -76,15 +76,27 @@ shopping-show-less-button = Monstrar minus
 
 shopping-settings-label =
     .label = Parametros
+shopping-settings-recommendations-toggle =
+    .label = Monstrar avisos publicitari in verificator de recension
+shopping-settings-recommendations-learn-more = Tu videra occasional avisos publicitari pro productos pertinente. Tote le avisos publicitari debe satisfacer nostre standardos de revision de qualitate. <a data-l10n-name="review-quality-url">Pro saper plus</a>
+shopping-settings-opt-out-button = Disactivar verificator de recension
+powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Classification adjustate
+shopping-adjusted-rating-unreliable-reviews = Recensiones non fidabile removite
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Quanto fidabile es iste recensiones?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Nostre modo de definir le qualitate de revision
 
 ## Strings for UrlBar button
 
@@ -96,6 +108,9 @@ shopping-settings-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-analyze-link = Lancear analysator sur { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Altero a considerar
