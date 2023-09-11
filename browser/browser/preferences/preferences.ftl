@@ -11,6 +11,9 @@ do-not-track-option-default-content-blocking-known =
     .label = Jen pokud je zapnuto blokování nalezených sledovacích prvků
 do-not-track-option-always =
     .label = Vždy
+global-privacy-control-description =
+    .label = Říkat stránkám, aby neprodávaly a nesdílely vaše data
+    .accesskey = s
 settings-page-title = Nastavení
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
