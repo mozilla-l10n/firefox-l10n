@@ -48,8 +48,6 @@ shopping-message-bar-warning-offline-title = Nessuna connessione a Internet
 shopping-message-bar-warning-offline-message = Controlla la connessione di rete e prova a ricaricare la pagina.
 shopping-message-bar-analysis-in-progress-title = Analisi disponibile a breve
 shopping-message-bar-analysis-in-progress-message = Al termine, mostreremo automaticamente le informazioni aggiornate qui.
-shopping-message-bar-page-not-supported-title = Impossibile verificare queste recensioni
-shopping-message-bar-page-not-supported-message = Purtroppo non è possibile verificare la qualità delle recensioni per alcuni tipi di prodotto come carte regalo, video in streaming e giochi.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -82,7 +80,7 @@ shopping-settings-recommendations-toggle =
     .label = Mostra annunci nella verifica recensioni
 shopping-settings-recommendations-learn-more = Verranno visualizzati annunci occasionali per prodotti pertinenti. Tutti gli annunci devono soddisfare i nostri standard di qualità per le recensioni. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
 shopping-settings-opt-out-button = Disattiva la verifica recensioni
-powered-by-fakespot = Verifica recensioni è basato su tecnologia <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+powered-by-fakespot = Verifica recensioni con tecnologia <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
