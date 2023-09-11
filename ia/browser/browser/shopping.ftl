@@ -97,6 +97,15 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Nostre modo de definir le qualitate de revision
+shopping-analysis-explainer-intro = Nos usa le technologia de intelligentia artificial de { -fakespot-brand-full-name } pro analysar le fidabilitate del recensiones de producto. Iste analyse solo te adjutara evalutar le qualitate de revision, non le qualitate de producto.
+shopping-analysis-explainer-grades-intro = Nos assigna a cata recensiones de producto un <strong>littera de classification</strong> ab A a F.
+shopping-analysis-explainer-adjusted-rating-description = Le <strong>classification adjustate</strong> es basate solo sur recensiones que nos crede esser fidabile.
+shopping-analysis-explainer-learn-more = Pro saper plus re <a data-l10n-name="review-quality-url">como { -fakespot-brand-full-name } determina le qualitate de revision</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Aspectos notabile</strong> es ab le recensiones de { $retailer } in le ultime 80 dies que nos crede esser fidabile.
+shopping-analysis-explainer-review-grading-scale-reliable = Recensiones fidabile. Nos crede probabile que le recensiones es de clientes real qui lassava honeste, recensiones sin prejudicios. Nos crede que il ha un mixtura de recensiones fidabile e non fidabile.
 
 ## Strings for UrlBar button
 
