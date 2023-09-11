@@ -22,8 +22,12 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Даступныя абнаўленні
+shopping-message-bar-generic-error-title = Аналіз зараз недаступны
 shopping-message-bar-warning-product-not-available-title = Прадукт недаступны
 shopping-message-bar-thanks-for-reporting-title = Дзякуй за паведамленне!
+shopping-message-bar-warning-product-not-available-reported-title = Аналіз хутка будзе
+shopping-message-bar-warning-offline-title = Няма падключэння да сеткі
+shopping-message-bar-analysis-in-progress-title = Аналіз хутка будзе
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
