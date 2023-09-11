@@ -69,21 +69,53 @@ shopping-highlight-packaging = Förpackning
 ## Strings for show more card
 
 shopping-show-more-button = Visa mer
+shopping-show-less-button = Visa mindre
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Inställningar
+shopping-settings-recommendations-toggle =
+    .label = Visa annonser i recensionsgranskaren
+shopping-settings-recommendations-learn-more = Du ser då och då annonser för relevanta produkter. Alla annonser måste uppfylla våra kvalitetsstandarder för recensioner. <a data-l10n-name="review-quality-url">Läs mer</a>
+shopping-settings-opt-out-button = Stäng av recensionsgranskaren
+powered-by-fakespot = Recensionsgranskaren drivs av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Justerat betyg
+shopping-adjusted-rating-unreliable-reviews = Opålitliga recensioner har tagits bort
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Hur pålitliga är dessa recensioner?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Hur bestäms recensionens kvalitet
+shopping-analysis-explainer-intro =
+    Vi använder AI-teknik från { -fakespot-brand-full-name } för att analysera pålitligheten av produktrecensioner.
+    Denna analys hjälper dig bara att bedöma recensionens kvalitet, inte produktkvaliteten.
+shopping-analysis-explainer-grades-intro = Vi tilldelar varje produkts recensioner ett <strong>bokstavsbetyg</strong> från A till F.
+shopping-analysis-explainer-adjusted-rating-description = Det <strong>justerade betyget</strong> baseras endast på recensioner som vi anser vara pålitliga.
+shopping-analysis-explainer-learn-more = Läs mer om <a data-l10n-name="review-quality-url">hur { -fakespot-brand-full-name } avgör recensionens kvalitet</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Höjdpunkter</strong> kommer från { $retailer }-recensioner inom de senaste 80 dagarna som vi anser vara pålitliga.
+shopping-analysis-explainer-review-grading-scale-reliable = Pålitliga recensioner. Vi tror att recensionerna troligen kommer från riktiga kunder som lämnat ärliga, opartiska recensioner.
+shopping-analysis-explainer-review-grading-scale-mixed = Vi tror att det finns en blandning av pålitliga och opålitliga recensioner.
+shopping-analysis-explainer-review-grading-scale-unreliable = Opålitliga recensioner. Vi tror att recensionerna sannolikt är falska eller från partiska granskare.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Öppna sidofältet för shopping
+shopping-sidebar-close-button =
+    .tooltiptext = Stäng sidofältet för shopping
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -92,6 +124,10 @@ shopping-show-more-button = Visa mer
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Ingen analys för dessa recensioner ännu
+shopping-unanalyzed-product-message = Starta analysatorn { -fakespot-brand-full-name } så vet du inom cirka 60 sekunder om den här produktens recensioner är pålitliga.
+shopping-unanalyzed-product-analyze-link = Starta analysator på { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+ad-by-fakespot = Annons av { -fakespot-brand-name }
