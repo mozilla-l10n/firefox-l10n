@@ -107,9 +107,12 @@ shopping-analysis-explainer-learn-more = Pro saper plus re <a data-l10n-name="re
 shopping-analysis-explainer-highlights-description = <strong>Aspectos notabile</strong> es ab le recensiones de { $retailer } in le ultime 80 dies que nos crede esser fidabile.
 shopping-analysis-explainer-review-grading-scale-reliable = Recensiones fidabile. Nos crede probabile que le recensiones es de clientes real qui lassava honeste, recensiones sin prejudicios. Nos crede que il ha un mixtura de recensiones fidabile e non fidabile.
 shopping-analysis-explainer-review-grading-scale-mixed = Nos crede que il ha un mixtura de recensiones fidabile e non fidabile.
+shopping-analysis-explainer-review-grading-scale-unreliable = Recensiones non fidabile. Nos crede probabile que le recensiones es false o de revisores prevenite.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Aperir barra lateral de compras
 shopping-sidebar-close-button =
     .tooltiptext = Clauder barra lateral de compras
 
@@ -120,9 +123,12 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Ancora nulle analyse pro iste recensiones
+shopping-unanalyzed-product-message = Lancea le analysator { -fakespot-brand-full-name } e tu sapera in circa 60 secundas si iste recensiones de producto es fidabile.
 shopping-unanalyzed-product-analyze-link = Lancear analysator sur { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Altero a considerar
+ad-by-fakespot = Aviso publicitari per { -fakespot-brand-name }
