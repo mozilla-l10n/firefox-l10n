@@ -93,7 +93,7 @@ abuse-report-deceptive-example = Techapyrã: Ñemoha’ãnga térã ta’ãnga j
 abuse-report-broken-reason-extension-v2 = Ndoikói, omopẽ ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-sitepermission-v2 = Ndoikói, omopẽ ñanduti renda térã omombegue { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = Ndoikói térã oipe’a ohechaukáva kundahára
-abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijepuru térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
+abuse-report-broken-example = Techapyrã: umi tembiapoite imbegue, hasy ijeporu térã ndoikói; oĩ ñanduti renda vore noñemyanyhẽi térã ojehechauka vaíva
 abuse-report-broken-suggestions-extension = Hi’ã jéve ojuhúma apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo apañuãi tembiapoite rehegua eñe’ẽ jepysokue ñangarekohára ndive. <a data-l10n-name="support-link">Eike jepysokue ñanduti rendápe</a> eguereko hag̃ua ñangarekoha mba’ekuaarã eñe’ẽ hag̃ua hendive.
 abuse-report-broken-suggestions-sitepermission =
     Hi’ã jéve ojuhúma pe apañuãi. Avei omondóma marandu’i ko’árupi, emoĩporãséramo

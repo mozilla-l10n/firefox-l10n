@@ -260,10 +260,10 @@ header-back-button =
 # ("recommends") in the final sentence is a link to external documentation.
 discopane-intro = Umi jepysokue ha téma ha’e tembiporu’i kundahápe g̃uarã ha omo’ã ñe’ẽñemi, ta’ãngamýi ñemboguejy, joguarã jejuhu, maranduñemurã jejoko, kundahára rova ñemoambue ha hetave mba’e. Mbohapyhaguáva hetave jey umi omoheñóiva software. Rome’ẽ jeporavorã { -brand-product-name } <a data-l10n-name="learn-more-trigger">je’eporãpy</a> tekorosãme, apopyre ha tembiaporape ijojaha’ỹva.
 # Notice to make user aware that the recommendations are personalized.
-discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijepurukue.
+discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations2 =
-    .message = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijepurukue.
+    .message = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
 discopane-notice-learn-more = Kuaave
 privacy-policy = Temiñemi purureko
 # Refers to the author of an add-on, shown below the name of the add-on.

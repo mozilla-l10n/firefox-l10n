@@ -52,11 +52,11 @@ webrtc-minimize =
 ## on macOS, as global menu bar items do not have native tooltips.
 
 webrtc-camera-system-menu =
-    .label = Emoherakuãhína ta’ãngamýi. Eikutu ha ehecha ijepuru ambue ndive.
+    .label = Emoherakuãhína ta’ãngamýi. Eikutu ha ehecha ijeporu ambue ndive.
 webrtc-microphone-system-menu =
-    .label = Emoherakuãhína ñe’ẽatãha. Eikutu ha ehecha ijepuru ambue ndive.
+    .label = Emoherakuãhína ñe’ẽatãha. Eikutu ha ehecha ijeporu ambue ndive.
 webrtc-screen-system-menu =
-    .label = Emoherakuãhína tendayke térã mba’erechaha. Eikutu ha ehecha ijepuru ambue ndive.
+    .label = Emoherakuãhína tendayke térã mba’erechaha. Eikutu ha ehecha ijeporu ambue ndive.
 
 ## Tooltips used by the legacy global sharing indicator
 
