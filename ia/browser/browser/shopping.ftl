@@ -32,15 +32,22 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Actualisationes disponibile
+shopping-message-bar-warning-stale-analysis-message = Lancea le analysator { -fakespot-brand-full-name } pro obtener info in circa 60 secundas.
 shopping-message-bar-generic-error-title = Analysis non dum disponibile
 shopping-message-bar-generic-error-message = Nos labora pro resolver le problema. Retenta tosto.
 shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
+shopping-message-bar-warning-not-enough-reviews-message = Quando iste producto habera plus de recensiones, nos potera analysar los.
 shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
 shopping-message-bar-warning-product-not-available-message = Si tu vide que iste producto es retro in stock, reporta lo a nos e nos laborara sur le actualisation del analyse.
+shopping-message-bar-warning-product-not-available-button = Reporta que iste producto es retro in stock
 shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
+shopping-message-bar-thanks-for-reporting-message = Nos deberea haber un analyse actualisate in 24 horas. Retenta.
 shopping-message-bar-warning-product-not-available-reported-title = Analysis in arrivata
+shopping-message-bar-warning-product-not-available-reported-message = Un analyse actualisate deberea esser preste intra 24 horas. Retenta.
 shopping-message-bar-warning-offline-title = Nulle connexion de rete
+shopping-message-bar-warning-offline-message = Verifica tu connexion de rete. Pois, tenta recargar le pagina.
 shopping-message-bar-analysis-in-progress-title = Analysis in arrivata
+shopping-message-bar-analysis-in-progress-message = Quando isto sera facite, nos automaticamente monstrara le info actualisate ci.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
