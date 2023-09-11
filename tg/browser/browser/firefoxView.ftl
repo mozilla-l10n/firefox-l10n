@@ -42,6 +42,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Ҳамоҳангсозии вар
 firefoxview-syncedtabs-synctabs-header = Танзимоти ҳамоҳангсозиро навсозӣ кунед
 firefoxview-syncedtabs-synctabs-description = Барои дидани варақаҳои худ аз дастгоҳҳои дигар, шумо бояд варақаҳои кушодаи худро ҳамоҳанг созед.
 firefoxview-syncedtabs-synctabs-checkbox = Иҷозат додан барои ҳамоҳангсозии варақаҳои кушода
+firefoxview-syncedtabs-loading-header = Дар ҳоли ҳамоҳангсозӣ
 firefoxview-tabpickup-fxa-admin-disabled-header = Ташкилоти шумо имкони ҳамоҳангсозиро ғайрифаъол кард
 firefoxview-tabpickup-fxa-admin-disabled-description = «{ -brand-short-name }» наметавонад, ки варақаҳоро байни дастгоҳҳо ҳамоҳанг кунад, зеро ки маъмури шумо имкони ҳамоҳангсозиро ғайрифаъол кард.
 firefoxview-tabpickup-network-offline-header = Пайвастшавии Интернети худро тафтиш кунед
@@ -207,3 +208,4 @@ firefoxview-recentlyclosed-empty-description-two = Барои дидани ва�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Дар ин дастгоҳ ягон варақаи кушода нест
+firefoxview-syncedtabs-connect-another-device = Пайваст кардани дастгоҳи дигар
