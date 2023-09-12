@@ -57,6 +57,8 @@ shopping-message-bar-warning-stale-analysis-link = Iniciar el analizador en { -f
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Destacados de revisiones recientes
 shopping-highlight-price = Precio
 shopping-highlight-quality = Calidad
 shopping-highlight-shipping = Envío
@@ -76,6 +78,7 @@ shopping-settings-recommendations-toggle =
     .label = Mostrar publicidad en el verificador de revisiones
 shopping-settings-recommendations-learn-more = Verá publicidades ocasionales de productos relevantes. Todas las publicidades deben cumplir con nuestros estándares de calidad de revisión. <a data-l10n-name="review-quality-url">Conocer más</a>
 shopping-settings-opt-out-button = Desactivar el verificador de revisiones
+powered-by-fakespot = Verificador de revisiones con tecnología de <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -98,6 +101,10 @@ shopping-analysis-explainer-intro =
 shopping-analysis-explainer-grades-intro = Asignamos a las revisiones de cada producto una <strong>calificación con letras</strong> de la A a la F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en revisiones que consideramos confiables.
 shopping-analysis-explainer-learn-more = Conocer más sobre <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de la revisión</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Los <strong>destacados</strong> provienen de revisiones de { $retailer } de los últimos 80 días que creemos que son confiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Revisiones confiables. Creemos que las revisiones probablemente provengan de clientes reales que dejaron revisiones honestas e imparciales.
 shopping-analysis-explainer-review-grading-scale-mixed = Creemos que hay una mezcla de revisiones confiables y no confiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones poco fiables. Creemos que las revisiones probablemente sean falsas o provengan de revisores sesgados.
