@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = სინქრონიზაციი
 firefoxview-syncedtabs-synctabs-description = სხვა მოწყობილობების ჩანართების სანახავად საჭიროა გახსნილი ჩანართების დასინქრონება.
 firefoxview-syncedtabs-synctabs-checkbox = გახსნილი ჩანართების დასინქრონების ნებართვა
 firefoxview-syncedtabs-loading-header = სინქრონიზდება
+firefoxview-syncedtabs-loading-description = როგორც კი დასრულდება, იხილავთ გახსნილ ჩანართებს სხვა მოწყობილობებიდან. შეამოწმეთ ცოტა ხანში.
 firefoxview-tabpickup-fxa-admin-disabled-header = თქვენი დაწესებულების დებულებებით გათიშულია დასინქრონება
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ვერ ახერხებს ჩანართების გაზიარებას, ვინაიდან დებულებების მეშვეობითაა გათიშული აღნიშნული შესაძლებლობა.
 firefoxview-tabpickup-network-offline-header = შეამოწმეთ ქსელთან კავშირი
@@ -211,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = უფრო ადრინ�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = ამ მოწყობილობაზე გახსნილი ჩანართები არაა
+firefoxview-syncedtabs-connect-another-device = სხვა მოწყობილობის დაკავშირება
