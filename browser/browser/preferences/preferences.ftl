@@ -1070,13 +1070,32 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS՝ HTTPS-ի միջոցով
+preferences-doh-description = Տիրույթի անվան համակարգը (DNS) HTTPS-ի միջոցով ուղարկում է ձեր հարցումները տիրույթի անվան համար գաղտնագրված կապակցմամբ՝ ստեղծելով անվտանգ DNS և ուրիշների համար դժավացնելով տեսնել այն կայքը, որը դուք ցանկանում եք բացել:
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Վիճակը՝ { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Մատակարար՝ { $name }
 preferences-doh-status-active = Ակտիվ
 preferences-doh-status-disabled = Անջ.
 preferences-doh-group-message = Միացնել անվտանգ DNS-ն օգտագործելով՝
+preferences-doh-setting-default =
+    .label = Սկզբնադիր պաշտպանություն
+    .accesskey = D
 preferences-doh-default-desc = { -brand-short-name }-ն է որոշում, թե երբ օգտագործել անվտանգ DNS՝ ձեր գաղտնիությունը պաշտպանելու համար:
+preferences-doh-default-detailed-desc-1 = Օգտագործել անվտանգ DNS  այն տարածքներում, որտեղ դա մաստելի է
+preferences-doh-default-detailed-desc-2 = Օգտագործել ձեր սկզբնադիր DNS լուծումը, եթե առկա է խնդիր անվտանգ DNS մատակարարի հետ
+preferences-doh-default-detailed-desc-3 = Օգտագործել տեղային մատակարարի, եթե հնարավոր է
+preferences-doh-default-detailed-desc-4 = Անջատել, երբ VPN-ը, ծնողական հսկումը կամ ձեռնարկության քաղաքականությունը ակտիվ են
+preferences-doh-default-detailed-desc-5 = Անջատել, երբ ցանցը { -brand-short-name }-ին ասում է, որ չպետք է օգտագործվի անվտանգ DNS
+preferences-doh-setting-enabled =
+    .label = Ուժեղացված պաշտպանություն
+    .accesskey = I
+preferences-doh-enabled-desc = Դուք կառավարում եք, թե երբ օգտագործել անվտանգ DNS և ընտրում եք ձեր մատակարարին:
+preferences-doh-enabled-detailed-desc-1 = Օգտագործել ձեր ընտրած մատակարարին
+preferences-doh-enabled-detailed-desc-2 = Օգտագործել միայն ձեր սկզբնադիր DNS լուծումը, եթե առկա է խնդիր անվտանգ DNS-ի հետ
+preferences-doh-strict-detailed-desc-1 = Օգտագործել միայն ձեր ընտրած մատակարարին
 preferences-doh-exceptions-description = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում
 
 ## The following strings are used in the Download section of settings
