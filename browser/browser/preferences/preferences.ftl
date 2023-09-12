@@ -1036,6 +1036,10 @@ content-blocking-all-windows-tracking-content = მეთვალყურე �
 content-blocking-all-cross-site-cookies = ყველა საიტთაშორისი ფუნთუშა
 content-blocking-cryptominers = კრიპტოვალუტის გამომმუშავებელი
 content-blocking-fingerprinters = მომხმარებლის ამომცნობი
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = ცნობილი და სავარაუდო ამომცნობები
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1084,7 +1088,7 @@ content-blocking-known-fingerprinters-label =
 # The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
-    .label = შემჩნეული ამომცნობები
+    .label = სავარაუდო ამომცნობები
     .accesskey = ჩ
 
 ## Privacy Section - Tracking
