@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Nid yw <strong>{ $property }</strong> yn cael unrhy
 inactive-css-not-flex-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd flex.
 inactive-css-not-inline-or-tablecell = Nid yw <strong> { $property } </strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n elfen mewnlin neu gell tabl.
 inactive-css-first-line-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::first-line pseudo-elements.
+inactive-css-placeholder-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = Nid oes gan <strong>{ $property }</strong> unrhyw effaith ar yr elfen hon gan ei bod yn dangos  <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Mae'r peiriant wedi newid y gwerth <strong>display</strong> i <strong>block</strong> oherwydd bod yr elfen yn <strong>arnofio</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Mae'n amhosib diystyru <strong>{ $property }</strong> oherwydd cyfyngiadau <strong>:visited</strong>.

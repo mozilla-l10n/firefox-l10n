@@ -5,7 +5,7 @@
 shopping-page-title = Siopa { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = Gwiriwr adolygu
+shopping-main-container-title = Gwiriwr adolygiadau
 shopping-close-button =
     .title = Cau
 # This string is for notifying screen reader users that the
@@ -32,7 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Mae diweddariadau ar gael
-shopping-message-bar-warning-stale-analysis-message = Agorwch y dadansoddwr{ -fakespot-brand-full-name } i gael y manylion diweddaraf o fewn tua 60 eiliad.
+shopping-message-bar-warning-stale-analysis-message = Agorwch ddadansoddwr{ -fakespot-brand-full-name } i gael y manylion diweddaraf o fewn tua 60 eiliad.
 shopping-message-bar-generic-error-title = Nid oes dadansoddiad ar gael ar hyn o bryd
 shopping-message-bar-generic-error-message = Rydym yn gweithio i ddatrys y mater. Dewch nôl cyn bo hir.
 shopping-message-bar-warning-not-enough-reviews-title = Dim digon o adolygiadau eto
@@ -46,7 +46,7 @@ shopping-message-bar-warning-product-not-available-reported-title = Mae ddadanso
 shopping-message-bar-warning-product-not-available-reported-message = Dylai dadansoddiad wedi'i ddiweddaru fod yn barod o fewn 24 awr. Dewch nôl i weld.
 shopping-message-bar-warning-offline-title = Dim cysylltiad rhwydwaith
 shopping-message-bar-warning-offline-message = Gwiriwch eich cysylltiad rhwydwaith. Yna, ceisiwch ail-lwytho'r dudalen.
-shopping-message-bar-analysis-in-progress-title = Mae ddadansoddiad ar ei ffordd
+shopping-message-bar-analysis-in-progress-title = Mae'r dadansoddiad ar ei ffordd
 shopping-message-bar-analysis-in-progress-message = Pan fydd yn barod, byddwn yn dangos y wybodaeth ddiweddaraf yn awtomatig yma.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -99,10 +99,10 @@ shopping-analysis-explainer-label =
     .label = Sut rydym yn mesur ansawdd adolygiadau
 shopping-analysis-explainer-intro =
     Rydym yn defnyddio technoleg AI { -fakespot-brand-full-name } i ddadansoddi dibynadwyedd adolygiadau cynnyrch.
-    Bydd y dadansoddiad hwn ond yn eich helpu i asesu ansawdd adolygu, nid ansawdd y cynnyrch.
+    Bydd y dadansoddiad hwn dim ond yn eich helpu i asesu ansawdd adolygiad, nid ansawdd y cynnyrch.
 shopping-analysis-explainer-grades-intro = Rydym yn gosod <strong>gradd llythyren</strong> o A i F i adolygiad pob cynnyrch.
 shopping-analysis-explainer-adjusted-rating-description = Mae'r <strong>sgôr wedi'i haddasu</strong> yn seiliedig ar ddim ond adolygiadau rydym yn credu eu bod yn ddibynadwy.
-shopping-analysis-explainer-learn-more = Dysgwch ragor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-full-name } yn pennu ansawdd adolygu</a>.
+shopping-analysis-explainer-learn-more = Dysgwch ragor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-full-name } yn pennu ansawdd yr adolygu</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -132,5 +132,5 @@ shopping-unanalyzed-product-analyze-link = Agor y dadansoddwr ar { -fakespot-web
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
-    .label = Rhagor i'w ystyried
+    .label = Rhagor i feddwl amdano
 ad-by-fakespot = Hysbyseb gan { -fakespot-brand-name }
