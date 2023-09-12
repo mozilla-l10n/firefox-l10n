@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = გახსნილი ჩა�
 firefoxview-syncedtabs-synctabs-header = სინქრონიზაციის პარამეტრების განახლება
 firefoxview-syncedtabs-synctabs-description = სხვა მოწყობილობების ჩანართების სანახავად საჭიროა გახსნილი ჩანართების დასინქრონება.
 firefoxview-syncedtabs-synctabs-checkbox = გახსნილი ჩანართების დასინქრონების ნებართვა
+firefoxview-syncedtabs-loading-header = სინქრონიზდება
 firefoxview-tabpickup-fxa-admin-disabled-header = თქვენი დაწესებულების დებულებებით გათიშულია დასინქრონება
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ვერ ახერხებს ჩანართების გაზიარებას, ვინაიდან დებულებების მეშვეობითაა გათიშული აღნიშნული შესაძლებლობა.
 firefoxview-tabpickup-network-offline-header = შეამოწმეთ ქსელთან კავშირი
