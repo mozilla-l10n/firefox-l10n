@@ -5,62 +5,47 @@
 permissions-window2 =
     .title = Բացառումներ
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Կայքի հասցեն
     .accesskey = d
-
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
-
 permissions-session =
     .label = Թույլատրել աշխատաշրջանում
     .accesskey = ա
-
 permissions-allow =
     .label = Թույլատրել
     .accesskey = Թ
-
 permissions-site-name =
     .label = Կայք
-
 permissions-status =
     .label = Կարգավիճակը
-
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
-
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Պահել փոփոխությունները
     .buttonaccesskeyaccept = Պ
-
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
-
 permissions-searchbox =
     .placeholder = Որոնել կայք
-
 permissions-capabilities-autoplay-allow =
     .label = Թույլատրել Ձայն և Տեսանյութ
 permissions-capabilities-autoplay-block =
     .label = Արգելափակել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Արգելափակել ձայնը և տեսանյութը
-
 permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
-
 permissions-capabilities-listitem-allow =
     .value = Թույլատրել
 permissions-capabilities-listitem-block =
@@ -174,3 +159,7 @@ permissions-site-microphone-disable-desc = Սա կկանխի ցանկում չն
 ##
 ## "Speaker" refers to an audio output device.
 
+permissions-exceptions-doh-window =
+    .title = Կայքի բացառություններ DNS՝ HTTPS-ի միջոցով
+    .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում և դրա ենթատիրույթներում:
