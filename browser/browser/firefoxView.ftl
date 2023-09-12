@@ -45,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Cydweddu tabiau agored
 firefoxview-syncedtabs-synctabs-header = Diweddarwch eich gosodiadau cydweddu
 firefoxview-syncedtabs-synctabs-description = I weld tabiau o ddyfeisiau eraill, mae angen i chi gydweddu'ch tabiau agored.
 firefoxview-syncedtabs-synctabs-checkbox = Caniatáu i dabiau agored gydweddu
+firefoxview-syncedtabs-loading-header = Wrthi'n cysoni
+firefoxview-syncedtabs-loading-description = Pan fydd wedi'i wneud, byddwch yn gweld unrhyw dabiau sydd gennych ar agor ar ddyfeisiau eraill. Dewch nôl cyn bo hir.
 firefoxview-tabpickup-fxa-admin-disabled-header = Mae eich sefydliad wedi analluogi cydweddu
 firefoxview-tabpickup-fxa-admin-disabled-description = Nid yw { -brand-short-name } yn gallu cydweddu tabiau rhwng dyfeisiau oherwydd bod eich gweinyddwr wedi analluogi cydweddu.
 firefoxview-tabpickup-network-offline-header = Gwiriwch eich cysylltiad rhwydwaith
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = I ddod o hyd i dabiau ers pet
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Dim tabiau ar agor ar y ddyfais hon
+firefoxview-syncedtabs-connect-another-device = Cysylltu dyfais arall
