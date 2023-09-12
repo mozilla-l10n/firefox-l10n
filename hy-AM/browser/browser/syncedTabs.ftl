@@ -22,6 +22,18 @@ synced-tabs-sidebar-search =
 synced-tabs-context-open =
     .label = Բացել
     .accesskey = Բ
+synced-tabs-context-open-in-tab =
+    .label = Բացել նոր ներդիրում
+    .accesskey = w
+synced-tabs-context-open-in-container-tab =
+    .label = Բացել Նոր Պարունակ Ներդիրում
+    .accesskey = i
+synced-tabs-context-open-in-window =
+    .label = Բացել նոր պատուհանում
+    .accesskey = N
+synced-tabs-context-open-in-private-window =
+    .label = Բացել Նոր Գաղտնի դիտարկմամբ
+    .accesskey = P
 
 ##
 

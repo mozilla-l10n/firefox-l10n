@@ -838,6 +838,8 @@ sitedata-block-desc = Տեսակը արգելափակված է
     .accesskey = T
 sitedata-option-block-cross-site-trackers =
     .label = Միջակայքային հետևումներ
+sitedata-option-block-cross-site-tracking-cookies =
+    .label = Միջակայքային հետևող թխուկներ
 sitedata-option-block-unvisited =
     .label = Նշոցիկներ չայցելած վեբ կայքերից
 sitedata-option-block-all =
@@ -915,6 +917,7 @@ content-blocking-social-media-trackers = Սոցիալական մեդիայի հ�
 content-blocking-all-cookies = Բոլոր նշոցիկները
 content-blocking-unvisited-cookies = Նշոցիկներ չստուգված կայքերից
 content-blocking-all-windows-tracking-content = Հետևում են բովանդակությանը բոլոր պատուհաններում
+content-blocking-all-cross-site-cookies = Բոլոր միջկայքային թխուկները
 content-blocking-cryptominers = Գաղտնազերծիչներ
 content-blocking-fingerprinters = Մատնահետքեր
 
@@ -1095,8 +1098,17 @@ preferences-doh-setting-enabled =
 preferences-doh-enabled-desc = Դուք կառավարում եք, թե երբ օգտագործել անվտանգ DNS և ընտրում եք ձեր մատակարարին:
 preferences-doh-enabled-detailed-desc-1 = Օգտագործել ձեր ընտրած մատակարարին
 preferences-doh-enabled-detailed-desc-2 = Օգտագործել միայն ձեր սկզբնադիր DNS լուծումը, եթե առկա է խնդիր անվտանգ DNS-ի հետ
+preferences-doh-setting-strict =
+    .label = Առավելագույն պաշտպանություն
+    .accesskey = M
+preferences-doh-strict-desc = { -brand-short-name }-ը միշտ կօգտագործի անվտանգ DNS: Դուք կտեսնեք անվտանգության վտանգի զգուշացում մինչև մենք կօգտագործենք ձեր համակարգային DNS-ը:
 preferences-doh-strict-detailed-desc-1 = Օգտագործել միայն ձեր ընտրած մատակարարին
+preferences-doh-off-desc = Օգտագործել ձեր սկզբնադիր DNS լուծումը
+preferences-doh-select-resolver = Ընտրել մատակարարին՝
 preferences-doh-exceptions-description = { -brand-short-name }-ը չի օգտագործում անվտանգ DNS այս կայքերում
+preferences-doh-manage-exceptions =
+    .label = Կառավարել բացառությունները...
+    .accesskey = x
 
 ## The following strings are used in the Download section of settings
 

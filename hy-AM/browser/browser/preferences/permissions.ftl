@@ -18,6 +18,9 @@ permissions-session =
 permissions-allow =
     .label = Թույլատրել
     .accesskey = Թ
+permissions-button-off =
+    .label = Անջատել
+    .accesskey = O
 permissions-site-name =
     .label = Կայք
 permissions-status =
@@ -52,6 +55,8 @@ permissions-capabilities-listitem-block =
     .value = Արգելել
 permissions-capabilities-listitem-allow-session =
     .value = Թույլատրել աշխատաշրջանում
+permissions-capabilities-listitem-off =
+    .value = Անջ.
 
 ## Invalid Hostname Dialog
 
