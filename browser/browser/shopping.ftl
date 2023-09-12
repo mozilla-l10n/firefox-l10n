@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Verificering af anmeldelser
 shopping-close-button =
     .title = Luk
 # This string is for notifying screen reader users that the
