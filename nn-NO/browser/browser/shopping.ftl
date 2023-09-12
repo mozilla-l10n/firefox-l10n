@@ -18,6 +18,7 @@ shopping-a11y-loading =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
+shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
 shopping-message-bar-warning-product-not-available-reported-title = Analysar kjem snart
 shopping-message-bar-analysis-in-progress-title = Analysar kjem snart
@@ -66,3 +67,5 @@ shopping-settings-label =
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Meir å vurdere
