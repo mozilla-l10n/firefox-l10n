@@ -3,18 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 tabbrowser-empty-tab-title = Նոր ներդիր
-
 tabbrowser-menuitem-close-tab =
     .label = Փակել ներդիրը
 tabbrowser-menuitem-close =
     .label = Փակել
-
 # Displayed as a tooltip on container tabs
 # Variables:
 #   $title (String): the title of the current tab.
 #   $containerName (String): the name of the current container.
 tabbrowser-container-tab-title = { $title } - { $containerName }
-
 # Variables:
 #   $tabCount (Number): The number of tabs that will be closed.
 tabbrowser-close-tabs-tooltip =
@@ -134,3 +131,9 @@ tabbrowser-ctrl-tab-list-all-tabs =
 
 ## Tab manager menu buttons
 
+tabbrowser-manager-mute-tab =
+    .tooltiptext = Լռեցնել ներդիրը
+tabbrowser-manager-unmute-tab =
+    .tooltiptext = Միացնել ձայնը
+tabbrowser-manager-close-tab =
+    .tooltiptext = Փակել ներդիրը
