@@ -206,3 +206,4 @@ firefoxview-recentlyclosed-empty-description-two = Pro agatare ischedas prus bet
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nissuna ischeda aberta in custu dispositivu
+firefoxview-syncedtabs-connect-another-device = Connete un'àteru dispositivu

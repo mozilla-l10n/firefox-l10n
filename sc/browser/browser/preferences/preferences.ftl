@@ -971,6 +971,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = sinnalibros
     .accesskey = s
+addressbar-locbar-clipboard-option =
+    .label = Punta de billete
+    .accesskey = P
 addressbar-locbar-openpage-option =
     .label = ischedas abertas
     .accesskey = i
@@ -1066,6 +1069,13 @@ content-blocking-cryptominers-label =
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
     .label = Generadores de imprentas digitales
+    .accesskey = G
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Generadores de imprentas digitales connotos
     .accesskey = G
 
 ## Privacy Section - Tracking
