@@ -1052,6 +1052,10 @@ content-blocking-all-windows-tracking-content = Tracio cynnwys ym mhob ffenestr
 content-blocking-all-cross-site-cookies = Pob cwci traws-gwefan
 content-blocking-cryptominers = Cryptogloddwyr
 content-blocking-fingerprinters = Bysbrintwyr
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Bysbrintwyr hysbys ac amheus
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
