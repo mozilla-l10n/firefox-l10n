@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Mettez à jour vos paramètres de synch
 firefoxview-syncedtabs-synctabs-description = Pour consulter les onglets d’autres appareils, vous devez synchroniser vos onglets ouverts.
 firefoxview-syncedtabs-synctabs-checkbox = Autoriser la synchronisation des onglets ouverts
 firefoxview-syncedtabs-loading-header = Synchronisation en cours
+firefoxview-syncedtabs-loading-description = Une fois terminée, vous verrez ici tous les onglets ouverts sur vos autres appareils. Revenez vite.
 firefoxview-tabpickup-fxa-admin-disabled-header = Votre organisation a désactivé la synchronisation
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne peut pas synchroniser d’onglets entre appareils car votre administrateur·trice a désactivé la synchronisation.
 firefoxview-tabpickup-network-offline-header = Vérifiez votre connexion à Internet
@@ -211,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Pour retrouver des onglets pl
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Aucun onglet ouvert sur cet appareil
+firefoxview-syncedtabs-connect-another-device = Connecter un autre appareil
