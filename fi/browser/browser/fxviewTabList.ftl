@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = Tallenna { -pocket-brand-name }iin
     .accesskey = T
 fxviewtabrow-copy-link = Kopioi linkki
     .accesskey = L
+fxviewtabrow-close-tab = Sulje välilehti
+    .accesskey = S
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
