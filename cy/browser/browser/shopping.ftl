@@ -97,9 +97,26 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Sut rydym yn mesur ansawdd adolygiadau
+shopping-analysis-explainer-intro =
+    Rydym yn defnyddio technoleg AI { -fakespot-brand-full-name } i ddadansoddi dibynadwyedd adolygiadau cynnyrch.
+    Bydd y dadansoddiad hwn ond yn eich helpu i asesu ansawdd adolygu, nid ansawdd y cynnyrch.
+shopping-analysis-explainer-grades-intro = Rydym yn gosod <strong>gradd llythyren</strong> o A i F i adolygiad pob cynnyrch.
+shopping-analysis-explainer-adjusted-rating-description = Mae'r <strong>sgôr wedi'i haddasu</strong> yn seiliedig ar ddim ond adolygiadau rydym yn credu eu bod yn ddibynadwy.
+shopping-analysis-explainer-learn-more = Dysgwch ragor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-full-name } yn pennu ansawdd adolygu</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Daw <strong>Uchafbwyntiau</strong> o adolygiadau { $retailer } o fewn yr 80 diwrnod diwethaf rydym yn credu eu bod yn ddibynadwy.
+shopping-analysis-explainer-review-grading-scale-reliable = Adolygiadau dibynadwy. Rydym yn credu fod yr adolygiadau'n debygol o fod gan gwsmeriaid go iawn sydd wedi gadael adolygiadau gonest, diduedd.
+shopping-analysis-explainer-review-grading-scale-mixed = Rydym yn credu fod yna gymysgedd o adolygiadau dibynadwy ac annibynadwy.
+shopping-analysis-explainer-review-grading-scale-unreliable = Adolygiadau annibynadwy. Rydym yn credu fod yr adolygiadau yn debygol o fod yn rhai ffug neu gan adolygwyr rhagfarnllyd.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Agor y bar ochr siopa
+shopping-sidebar-close-button =
+    .tooltiptext = Cau'r bar ochr siopa
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -108,6 +125,12 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Does dim dadansoddiad ar gyfer yr adolygiadau hyn eto
+shopping-unanalyzed-product-message = Agorwch ddadansoddwr{ -fakespot-brand-full-name } a byddwch yn gwybod o fewn tua 60 eiliad a yw adolygiadau'r cynnyrch hwn yn ddibynadwy.
+shopping-unanalyzed-product-analyze-link = Agor y dadansoddwr ar { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Rhagor i'w ystyried
+ad-by-fakespot = Hysbyseb gan { -fakespot-brand-name }
