@@ -33,6 +33,10 @@ shopping-letter-grade-description-df = Avis non fiables
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Prix
+shopping-highlight-quality = Qualité
+shopping-highlight-shipping = Expédition
+shopping-highlight-packaging = Emballage
 
 ## Strings for show more card
 
