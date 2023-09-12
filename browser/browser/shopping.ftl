@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = { -brand-product-name }-ostokset
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Arvostelun tarkistin
 shopping-close-button =
     .title = Sulje
 # This string is for notifying screen reader users that the
@@ -14,6 +18,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Luotettavat arvostelut
+shopping-letter-grade-description-c = Sekoitus luotettavia ja epäluotettavia arvosteluja
+shopping-letter-grade-description-df = Epäluotettavat arvostelut
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -25,8 +32,16 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Päivityksiä saatavilla
+shopping-message-bar-generic-error-title = Analyysi ei ole saatavilla juuri nyt
+shopping-message-bar-generic-error-message = Pyrimme ratkaisemaan ongelman. Tarkista tilanne pian uudelleen.
+shopping-message-bar-warning-not-enough-reviews-title = Ei vielä tarpeeksi arvosteluja
+shopping-message-bar-warning-not-enough-reviews-message = Kun tästä tuotteesta on enemmän arvosteluja, voimme analysoida ne.
 shopping-message-bar-warning-product-not-available-title = Tuote ei ole saatavilla
+shopping-message-bar-warning-product-not-available-reported-title = Analyysi tulossa pian
 shopping-message-bar-warning-offline-title = Ei verkkoyhteyttä
+shopping-message-bar-warning-offline-message = Tarkista verkkoyhteytesi. Yritä sitten ladata sivu uudelleen.
+shopping-message-bar-analysis-in-progress-title = Analyysi tulossa pian
+shopping-message-bar-analysis-in-progress-message = Kun se on valmis, näytämme päivitetyt tiedot automaattisesti täällä.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -34,12 +49,17 @@ shopping-message-bar-warning-offline-title = Ei verkkoyhteyttä
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Käynnistä analysaattori osoitteessa { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Kohokohdat viimeaikaisista arvosteluista
 shopping-highlight-price = Hinta
 shopping-highlight-quality = Laatu
 shopping-highlight-shipping = Toimitus
+shopping-highlight-competitiveness = Kilpailukyky
+shopping-highlight-packaging = Paketointi
 
 ## Strings for show more card
 
@@ -50,9 +70,13 @@ shopping-show-less-button = Näytä vähemmän
 
 shopping-settings-label =
     .label = Asetukset
+shopping-settings-recommendations-toggle =
+    .label = Näytä mainoksia arvostelujen tarkistimessa
+shopping-settings-opt-out-button = Poista arvostelujen tarkistus käytöstä
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-unreliable-reviews = Epäluotettavat arvostelut poistettu
 
 ## Strings for the review reliability component
 
@@ -61,9 +85,15 @@ shopping-review-reliability-label =
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Kuinka määritämme arvostelun laadun
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Avaa ostosten sivupalkki
+shopping-sidebar-close-button =
+    .tooltiptext = Sulje ostosten sivupalkki
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -72,6 +102,10 @@ shopping-review-reliability-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Näitä arvosteluja ei ole vielä analysoitu
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Lisää harkittavaa
+ad-by-fakespot = Mainostaja { -fakespot-brand-name }

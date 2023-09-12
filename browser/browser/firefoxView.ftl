@@ -5,10 +5,15 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Näytä äskettäinen selailu eri ikkunoissa ja laitteilla
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Sulje
     .aria-label = Sulje
@@ -40,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Synkronoi avoimet välilehdet
 firefoxview-syncedtabs-synctabs-header = Päivitä synkronointiasetukset
 firefoxview-syncedtabs-synctabs-description = Jos haluat nähdä muiden laitteiden välilehdet, sinun on synkronoitava avoimet välilehdet.
 firefoxview-syncedtabs-synctabs-checkbox = Salli avointen välilehtien synkronointi
+firefoxview-syncedtabs-loading-header = Synkronointi käynnissä
+firefoxview-syncedtabs-loading-description = Kun se valmistuu, näet kaikki muilla laitteilla avoinna olevat välilehdet. Tarkista pian uudelleen.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisaatiosi on poistanut synkronoinnin käytöstä
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ei voi synkronoida välilehtiä laitteiden välillä, koska laitteesi järjestelmänvalvoja on poistanut synkronoinnin käytöstä.
 firefoxview-tabpickup-network-offline-header = Tarkista Internet-yhteytesi
@@ -141,6 +148,10 @@ firefoxview-show-more = Näytä lisää
 firefoxview-show-less = Näytä vähemmän
 firefoxview-sort-history-by-date-label = Järjestä päiväyksen mukaan
 firefoxview-sort-history-by-site-label = Järjestä sivuston mukaan
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Vaihda osoitteeseen { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -201,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Jos haluat etsiä välilehti�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Ei avoimia välilehtiä tällä laitteella
+firefoxview-syncedtabs-connect-another-device = Yhdistä toinen laite

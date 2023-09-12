@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan
+do-not-track-description2 =
+    .label = Lähetä verkkosivustoille "Älä seuraa"-pyyntö
+    .accesskey = ä
 do-not-track-learn-more = Lue lisää
 do-not-track-option-default-content-blocking-known =
     .label = Vain, kun { -brand-short-name } on asetettu estämään tunnetut seuraimet
 do-not-track-option-always =
     .label = Aina
+global-privacy-control-description =
+    .label = Pyydä verkkosivustoja olemaan myymättä tai jakamatta tietojani
+    .accesskey = s
 settings-page-title = Asetukset
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -969,6 +975,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = kirjanmerkeistä
     .accesskey = k
+addressbar-locbar-clipboard-option =
+    .label = Leikepöytä
+    .accesskey = L
 addressbar-locbar-openpage-option =
     .label = avoimista välilehdistä
     .accesskey = a
@@ -1027,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Seurantaan tarkoitettu sisältö
 content-blocking-all-cross-site-cookies = Kaikki sivustorajat ylittävät evästeet
 content-blocking-cryptominers = Kryptolouhijat
 content-blocking-fingerprinters = Yksilöijät
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Tunnetut ja epäillyt yksilöijät
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1065,6 +1078,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Yksilöijät
     .accesskey = s
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Tunnetut yksilöijät
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Epäillyt yksilöijät
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
