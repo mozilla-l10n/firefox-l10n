@@ -53,6 +53,7 @@ neterror-dns-not-found-hint-firewall = Ստուգեք, որ { -brand-short-name 
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-heuristic = DNS՝ HTTPS-ի միջոցովը անջատված է ձեր  ցանցում:
 
 ##
 
