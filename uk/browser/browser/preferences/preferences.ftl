@@ -979,6 +979,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Закладки
     .accesskey = а
+addressbar-locbar-clipboard-option =
+    .label = Буфер обміну
+    .accesskey = Б
 addressbar-locbar-openpage-option =
     .label = Відкриті вкладки
     .accesskey = в
@@ -1037,6 +1040,10 @@ content-blocking-all-windows-tracking-content = Стеження у всіх в�
 content-blocking-all-cross-site-cookies = Усі міжсайтові куки
 content-blocking-cryptominers = Криптомайнери
 content-blocking-fingerprinters = Зчитування цифрового відбитка
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Відомі й підозрювані зчитувачі цифрового відбитка
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
