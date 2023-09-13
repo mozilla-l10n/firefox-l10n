@@ -37,6 +37,17 @@ shopping-message-bar-generic-error-title = Сейчас анализ недос�
 shopping-message-bar-generic-error-message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
 shopping-message-bar-warning-not-enough-reviews-title = Пока недостаточно отзывов
 shopping-message-bar-warning-not-enough-reviews-message = Когда у этого товара будет больше отзывов, мы сможем их проанализировать.
+shopping-message-bar-warning-product-not-available-title = Товар недоступен
+shopping-message-bar-warning-product-not-available-message = Если вы увидите, что этот товар снова в наличии, сообщите нам об этом, и мы обновим анализ.
+shopping-message-bar-warning-product-not-available-button = Сообщить, что этот товар снова в наличии
+shopping-message-bar-thanks-for-reporting-title = Спасибо за сообщение!
+shopping-message-bar-thanks-for-reporting-message = Мы должны получить обновленный анализ в течение 24 часов. Пожалуйста, зайдите позже.
+shopping-message-bar-warning-product-not-available-reported-title = Анализ скоро будет доступен
+shopping-message-bar-warning-product-not-available-reported-message = Обновленный анализ должен быть готов в течение 24 часов. Пожалуйста, зайдите позже.
+shopping-message-bar-warning-offline-title = Нет подключения к сети
+shopping-message-bar-warning-offline-message = Проверьте сетевое соединение. Затем попробуйте перезагрузить страницу.
+shopping-message-bar-analysis-in-progress-title = Анализ скоро будет доступен
+shopping-message-bar-analysis-in-progress-message = Когда процесс завершится, мы автоматически покажем здесь обновленную информацию.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -44,24 +55,53 @@ shopping-message-bar-warning-not-enough-reviews-message = Когда у этог
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Запустите анализатор на { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Основные моменты из недавних обзоров
+shopping-highlight-price = Цена
+shopping-highlight-quality = Качество
+shopping-highlight-shipping = Доставка
+shopping-highlight-competitiveness = Конкурентоспособность
+shopping-highlight-packaging = Упаковка
 
 ## Strings for show more card
 
+shopping-show-more-button = Показать больше
+shopping-show-less-button = Показать меньше
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Настройки
+shopping-settings-recommendations-toggle =
+    .label = Показывать рекламу в инструменте проверки отзывов
+shopping-settings-recommendations-learn-more = Время от времени вы будете видеть рекламу похожих продуктов. Все объявления должны соответствовать нашим стандартам качества проверки. <a data-l10n-name="review-quality-url">Подробнее</a>
+shopping-settings-opt-out-button = Отключить инструмент проверки отзывов
+powered-by-fakespot = Инструмент проверки отзывов работает на основе <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Скорректированный рейтинг
+shopping-adjusted-rating-unreliable-reviews = Недостоверные отзывы удалены
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Насколько достоверны эти отзывы?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Как мы определяем качество отзывов
+shopping-analysis-explainer-intro =
+    Мы используем технологию ИИ от { -fakespot-brand-full-name } для анализа достоверности обзоров продуктов.
+    Этот анализ поможет вам оценить только качество отзывов, а не качество продукта.
+shopping-analysis-explainer-grades-intro = Мы присваиваем отзывам каждого продукта <strong>буквенную оценку</strong> от A до F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Скорректированная оценка</strong> основана только на отзывах, которые мы считаем достоверными.
 
 ## Strings for UrlBar button
 
