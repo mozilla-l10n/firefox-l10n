@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Synchronisationseinstellungen aktualisi
 firefoxview-syncedtabs-synctabs-description = Um Tabs von anderen Geräten zu sehen, müssen Sie Ihre offenen Tabs synchronisieren.
 firefoxview-syncedtabs-synctabs-checkbox = Synchronisierung offener Tabs erlauben
 firefoxview-syncedtabs-loading-header = Synchronisierung läuft
+firefoxview-syncedtabs-loading-description = Wenn es abgeschlossen ist, sehen Sie alle Tabs, die Sie auf anderen Geräten geöffnet haben. Schauen Sie bald wieder vorbei.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ihre Organisation hat das Synchronisieren deaktiviert
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kann Tabs nicht zwischen Geräten synchronisieren, da Ihr Administrator das Synchronisieren deaktiviert hat.
 firefoxview-tabpickup-network-offline-header = Überprüfen Sie Ihre Internetverbindung
