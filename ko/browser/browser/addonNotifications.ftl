@@ -14,7 +14,6 @@ xpinstall-prompt-message = { $host }에서 부가 기능을 설치하려고 합�
 
 xpinstall-prompt-header-unknown = 알 수 없는 사이트에서 부가 기능을 설치할 수 있도록 허용하시겠습니까?
 xpinstall-prompt-message-unknown = 알 수 없는 사이트에서 부가 기능을 설치하려고 합니다. 계속하기 전에 이 사이트를 신뢰하는지 확인하세요.
-
 xpinstall-prompt-dont-allow =
     .label = 허용 안 함
     .accesskey = D
@@ -45,7 +44,6 @@ xpinstall-disabled = 소프트웨어 설치 기능을 사용할 수 없습니다
 xpinstall-disabled-button =
     .label = 사용함
     .accesskey = n
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,14 +52,12 @@ addon-install-blocked-by-policy = { $addonName }({ $addonId }) 부가 기능이 
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = 시스템 관리자가 이 사이트에서 컴퓨터에 소프트웨어를 설치하도록 요청하는 것을 차단했습니다.
 addon-install-full-screen-blocked = 전체 화면 모드에서 또는 전체 화면 모드로 전환 중에는 부가 기능을 설치할 수 없습니다.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { -brand-short-name }에 { $addonName } 부가 기능이 추가됨
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } 확장 기능에 새 권한이 필요함
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,12 +73,10 @@ addon-removal-title = { $name } 부가 기능을 제거하시겠습니까?
 addon-removal-message = { -brand-shorter-name }에서 { $name } 확장 기능을 제거하시겠습니까?
 addon-removal-button = 제거
 addon-removal-abuse-report-checkbox = 이 확장 기능을 { -vendor-short-name }에 신고
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying = 부가 기능 { $addonCount }개 다운로드 및 검사 중…
 addon-download-verifying = 검사하는 중
-
 addon-install-cancel-button =
     .label = 취소
     .accesskey = C
@@ -94,10 +88,10 @@ addon-install-accept-button =
 ##   $addonCount (Number): the number of add-ons being installed
 
 addon-confirm-install-message = 이 사이트에서 { -brand-short-name }에 부가 기능 { $addonCount }개를 설치하려고 합니다:
-addon-confirm-install-unsigned-message = 주의: 이 사이트에서 { -brand-short-name }에 검사를 받지 않은 부가 기능 { $addonCount }개를 설치하려고 합니다. 진행으로 인한 위험의 책임은 본인에게 있습니다.
+addon-confirm-install-unsigned-message = 주의: 이 사이트에서 { -brand-short-name }에 확인되지 않은 부가 기능 { $addonCount }개를 설치하려고 합니다. 진행으로 인한 위험의 책임은 본인에게 있습니다.
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
-addon-confirm-install-some-unsigned-message = 경고: 이 사이트에서 { -brand-short-name }에 부가 기능 { $addonCount }개를 설치하려고 합니다. 이 중 일부는 검사를 받지 않았습니다. 진행으로 인한 위험의 책임은 본인에게 있습니다.
+addon-confirm-install-some-unsigned-message = 경고: 이 사이트에서 { -brand-short-name }에 부가 기능 { $addonCount }개를 설치하려고 합니다. 이 중 일부는 확인되지 않았습니다. 진행으로 인한 위험의 책임은 본인에게 있습니다.
 
 ## Add-on install errors
 ## Variables:
@@ -107,13 +101,13 @@ addon-install-error-network-failure = 연결 실패로 부가 기능을 내려�
 addon-install-error-incorrect-hash = 이 부가 기능은 { -brand-short-name }가 찾고 있던 부가 기능과 달라 설치할 수 없습니다.
 addon-install-error-corrupt-file = 이 사이트에서 다운로드한 부가 기능은 손상된 것 같아서 설치할 수 없습니다.
 addon-install-error-file-access = { -brand-short-name }가 필요한 파일을 고칠 수 없어 { $addonName }를 설치할 수 없습니다.
-addon-install-error-not-signed = { -brand-short-name }가 이 사이트에서 검사받지 않은 부가 기능을 설치하지 못하게 막았습니다.
+addon-install-error-not-signed = { -brand-short-name }가 이 사이트에서 확인되지 않은 부가 기능을 설치하지 못하게 막았습니다.
 addon-install-error-invalid-domain = { $addonName } 부가기능은 이 위치에서 설치할 수 없습니다.
 addon-local-install-error-network-failure = 이 부가 기능은 파일 시스템에서 잘못되어 설치할 수 없습니다.
 addon-local-install-error-incorrect-hash = 이 부가 기능은 { -brand-short-name }가 찾고 있던 것과 다므르로 설치할 수 없습니다.
 addon-local-install-error-corrupt-file = 이 부가 기능은 손상된 것 같아서 설치할 수 없습니다.
 addon-local-install-error-file-access = { -brand-short-name }가 필요한 파일을 고칠 수 없어 { $addonName }를 설치할 수 없습니다.
-addon-local-install-error-not-signed = 이 부가 기능은 검사를 받지 않았으므로 설치할 수 없습니다.
+addon-local-install-error-not-signed = 이 부가 기능은 확인되지 않았으므로 설치할 수 없습니다.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = { $addonName }는 { -brand-short-name } { $appVersion }에서 돌아가지 않으므로 설치할 수 없습니다.

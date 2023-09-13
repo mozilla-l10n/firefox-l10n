@@ -927,7 +927,7 @@ firefox-relay-offer-legal-notice = "이메일 마스크 사용"을 클릭하면,
 ## Add-on Pop-up Notifications
 
 popup-notification-addon-install-unsigned =
-    .value = (검사하지 않았음)
+    .value = (확인되지 않음)
 popup-notification-xpinstall-prompt-learn-more = 부가 기능을 안전하게 설치하는 방법에 대해 더 알아보기
 
 ## Pop-up warning
