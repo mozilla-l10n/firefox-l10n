@@ -102,9 +102,21 @@ shopping-analysis-explainer-intro =
     Этот анализ поможет вам оценить только качество отзывов, а не качество продукта.
 shopping-analysis-explainer-grades-intro = Мы присваиваем отзывам каждого продукта <strong>буквенную оценку</strong> от A до F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скорректированная оценка</strong> основана только на отзывах, которые мы считаем достоверными.
+shopping-analysis-explainer-learn-more = Узнайте больше о том, <a data-l10n-name="review-quality-url">как { -fakespot-brand-full-name } определяет качество отзывов</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Основные сведения</strong> взяты из отзывов { $retailer } за последние 80 дней, которые мы считаем надежными.
+shopping-analysis-explainer-review-grading-scale-reliable = Достоверные отзывы. Мы считаем, что эти отзывы, скорее всего, написаны реальными клиентами, которые оставили честные и объективные отзывы.
+shopping-analysis-explainer-review-grading-scale-mixed = Мы считаем, что здесь находится смесь достоверных и недостоверных отзывов.
+shopping-analysis-explainer-review-grading-scale-unreliable = Недостоверные отзывы. Мы считаем, что эти отзывы, скорее всего, фейковые или написаны предвзятыми рецензентами.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Открыть боковую панель покупок
+shopping-sidebar-close-button =
+    .tooltiptext = Закрыть боковую панель покупок
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -113,6 +125,9 @@ shopping-analysis-explainer-adjusted-rating-description = <strong>Скоррек
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Анализа этих отзывов пока нет
+shopping-unanalyzed-product-message = Запустите анализатор { -fakespot-brand-full-name }, и примерно через 60 секунд вы узнаете, достоверны ли отзывы об этом продукте.
+shopping-unanalyzed-product-analyze-link = Запустить анализатор на { -fakespot-website-name }
 
 ## Strings for the advertisement
 
