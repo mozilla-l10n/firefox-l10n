@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Оновіть налаштування
 firefoxview-syncedtabs-synctabs-description = Щоб мати доступ до вкладок з інших пристроїв, потрібно синхронізувати відкриті вкладки.
 firefoxview-syncedtabs-synctabs-checkbox = Дозволити синхронізацію відкритих вкладок
 firefoxview-syncedtabs-loading-header = Виконується синхронізація
+firefoxview-syncedtabs-loading-description = По її завершенню ви побачите всі вкладки, відкриті на інших пристроях. Перевірте це незабаром.
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша організація вимкнула синхронізацію
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може синхронізувати вкладки між пристроями, тому що ваш адміністратор вимкнув синхронізацію.
 firefoxview-tabpickup-network-offline-header = Перевірте своє з'єднання з інтернетом
