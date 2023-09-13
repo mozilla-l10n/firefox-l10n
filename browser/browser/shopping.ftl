@@ -52,28 +52,45 @@ shopping-message-bar-analysis-in-progress-title = Analyse à venir
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Lancer l’analyseur sur { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
 shopping-highlight-price = Prix
 shopping-highlight-quality = Qualité
 shopping-highlight-shipping = Expédition
+shopping-highlight-competitiveness = Compétitivité
 shopping-highlight-packaging = Emballage
 
 ## Strings for show more card
 
+shopping-show-more-button = Plus de détails
+shopping-show-less-button = Moins de détails
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Paramètres
+shopping-settings-recommendations-toggle =
+    .label = Afficher des publicités dans le vérificateur d’avis
+shopping-settings-opt-out-button = Désactiver le vérificateur d’avis
+powered-by-fakespot = Le vérificateur d’avis fonctionne grâce à <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Note ajustée
+shopping-adjusted-rating-unreliable-reviews = Avis non fiables supprimés
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Quelle est la fiabilité de ces avis ?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Comment nous déterminons la qualité d’un avis
 
 ## Strings for UrlBar button
 
