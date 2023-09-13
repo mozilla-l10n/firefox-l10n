@@ -39,7 +39,7 @@ shopping-message-bar-warning-offline-title = Пайвастшавӣ ба шаб�
 ## Strings for the product review snippets card
 
 shopping-highlight-price = Нарх
-shopping-highlight-quality = Миқдор
+shopping-highlight-quality = Сифат
 shopping-highlight-shipping = Бурдарасонӣ
 shopping-highlight-packaging = Бастабандӣ
 
