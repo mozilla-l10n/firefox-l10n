@@ -105,7 +105,7 @@ shopping-analysis-explainer-learn-more = Pro saper plus re <a data-l10n-name="re
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Aspectos notabile</strong> es ab le recensiones de { $retailer } in le ultime 80 dies que nos crede esser fidabile.
-shopping-analysis-explainer-review-grading-scale-reliable = Recensiones fidabile. Nos crede probabile que le recensiones es de clientes real qui lassava honeste, recensiones sin prejudicios. Nos crede que il ha un mixtura de recensiones fidabile e non fidabile.
+shopping-analysis-explainer-review-grading-scale-reliable = Recensiones fidabile. Nos crede probabile que le recensiones es de clientes real qui lassava honeste, recensiones sin prejudicios.
 shopping-analysis-explainer-review-grading-scale-mixed = Nos crede que il ha un mixtura de recensiones fidabile e non fidabile.
 shopping-analysis-explainer-review-grading-scale-unreliable = Recensiones non fidabile. Nos crede probabile que le recensiones es false o de revisores prevenite.
 
