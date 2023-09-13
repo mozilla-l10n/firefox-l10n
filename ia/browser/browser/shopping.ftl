@@ -78,7 +78,7 @@ shopping-settings-label =
     .label = Parametros
 shopping-settings-recommendations-toggle =
     .label = Monstrar avisos publicitari in verificator de recension
-shopping-settings-recommendations-learn-more = Tu videra occasional avisos publicitari pro productos pertinente. Tote le avisos publicitari debe satisfacer nostre standardos de revision de qualitate. <a data-l10n-name="review-quality-url">Pro saper plus</a>
+shopping-settings-recommendations-learn-more = Tu videra occasional avisos publicitari pro productos pertinente. Tote le avisos publicitari debe satisfacer nostre standards de revision de qualitate. <a data-l10n-name="review-quality-url">Pro saper plus</a>
 shopping-settings-opt-out-button = Disactivar verificator de recension
 powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
