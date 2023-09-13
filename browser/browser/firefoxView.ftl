@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Opdater dine indstillinger for synkroni
 firefoxview-syncedtabs-synctabs-description = For at se faneblade på dine andre enheder skal du synkronisere dine åbne faneblade.
 firefoxview-syncedtabs-synctabs-checkbox = Tillad at åbne faneblade synkroniseres
 firefoxview-syncedtabs-loading-header = Synkronisering er i gang
+firefoxview-syncedtabs-loading-description = Når processen er færdig, kan du se åbne faneblade fra dine andre enheder. Prøv at tjekke igen senere.
 firefoxview-tabpickup-fxa-admin-disabled-header = Din organisation har deaktiveret synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faneblade mellem enheder, fordi din administrator har deaktiveret synkronisering.
 firefoxview-tabpickup-network-offline-header = Kontroller din internetforbindelse
