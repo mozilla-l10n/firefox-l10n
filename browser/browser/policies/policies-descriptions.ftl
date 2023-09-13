@@ -45,6 +45,8 @@ policy-Cookies = Consenti o nega ai siti web di impostare cookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Imposta criteri relativi alle schede contenitore.
 
+policy-DisableAccounts = Disattiva servizi che richiedono un account, sincronizzazione inclusa.
+
 policy-DisabledCiphers = Disattiva cifrature.
 
 policy-DefaultDownloadDirectory = Imposta la cartella predefinita per i download.
