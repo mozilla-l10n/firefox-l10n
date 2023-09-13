@@ -32,12 +32,19 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Mises à jour disponibles
+shopping-message-bar-warning-stale-analysis-message = Lancez l’analyseur { -fakespot-brand-full-name } pour obtenir des informations à jour dans environ 60 secondes.
 shopping-message-bar-generic-error-title = Analyse non disponible actuellement
 shopping-message-bar-generic-error-message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
+shopping-message-bar-warning-not-enough-reviews-title = Pas encore assez d’avis
+shopping-message-bar-warning-not-enough-reviews-message = Lorsque ce produit aura reçu plus d’avis, nous pourrons les analyser.
 shopping-message-bar-warning-product-not-available-title = Le produit n’est pas disponible
 shopping-message-bar-warning-product-not-available-message = Si vous constatez que ce produit est de retour en stock, signalez-le-nous et nous mettrons à jour l’analyse.
 shopping-message-bar-warning-product-not-available-button = Signaler que ce produit est de retour en stock
 shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
+shopping-message-bar-warning-product-not-available-reported-title = Analyse à venir
+shopping-message-bar-warning-offline-title = Aucune connexion réseau
+shopping-message-bar-warning-offline-message = Veuillez vérifier votre connexion réseau. Essayez ensuite d’actualiser la page.
+shopping-message-bar-analysis-in-progress-title = Analyse à venir
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
