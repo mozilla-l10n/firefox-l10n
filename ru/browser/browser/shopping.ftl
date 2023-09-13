@@ -131,3 +131,6 @@ shopping-unanalyzed-product-analyze-link = Запустить анализато
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = На что ещё обратить внимание
+ad-by-fakespot = Реклама от { -fakespot-brand-name }

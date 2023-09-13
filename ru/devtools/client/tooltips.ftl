@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> не сработа�
 inactive-css-not-flex-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-контейнером.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> не сработает для элемента, так как он не является inline или table-cell элементом.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается на ::first-line псевдоэлементах.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается в псевдоэлементах ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> не сработает для элемента, так как его свойство display задано как <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Значение свойства <strong>display</strong> было изменено движком на <strong>block</strong>, так как элемент <strong>плавающий</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Нельзя переопределить <strong>{ $property }</strong> из-за ограничений псевдокласса <strong>:visited</strong>.
