@@ -26,6 +26,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
+shopping-message-bar-generic-error-title = Analysen er ikkje tilgjengeleg akkurat no
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
 shopping-message-bar-warning-product-not-available-reported-title = Analysar kjem snart
