@@ -106,9 +106,14 @@ shopping-analysis-explainer-learn-more = Læs mere om, <a data-l10n-name="review
 shopping-analysis-explainer-highlights-description = <strong>Højdepunkter</strong> stammer fra { $retailer }-anmeldelser fra de seneste 80 dage, som vi vurderer er pålidelige.
 shopping-analysis-explainer-review-grading-scale-reliable = Pålidelige anmeldelser. Vi vurderer, at anmeldelserne sandsynligvis stammer fra rigtige kunder, der har givet ærlige og upartiske anmeldelser.
 shopping-analysis-explainer-review-grading-scale-mixed = Vi vurderer, at der findes en blanding af pålidelige og upålidelige anmeldelser.
+shopping-analysis-explainer-review-grading-scale-unreliable = Upålidelige anmeldelser. Vi vurderer, at anmeldelserne sandsynligvis er forfalskede eller stammer fra partiske anmeldere.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Vis sidepanelet Shopping
+shopping-sidebar-close-button =
+    .tooltiptext = Luk sidepanelet Shopping
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -117,6 +122,12 @@ shopping-analysis-explainer-review-grading-scale-mixed = Vi vurderer, at der fin
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Ingen analyse af disse anmeldelser endnu
+shopping-unanalyzed-product-message = Start { -fakespot-brand-full-name }-analysen og få om cirka 60 sekunder at vide, om anmeldelser af dette produkter er pålidelige.
+shopping-unanalyzed-product-analyze-link = Start analyse på { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Mere at overveje
+ad-by-fakespot = Reklame fra { -fakespot-brand-name }
