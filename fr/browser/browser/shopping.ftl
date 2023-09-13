@@ -102,6 +102,8 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-message = Lancez l’analyseur { -fakespot-brand-full-name } et vous saurez en 60 secondes environ si les avis sur ce produit sont fiables.
+shopping-unanalyzed-product-analyze-link = Lancer l’analyseur sur { -fakespot-website-name }
 
 ## Strings for the advertisement
 
