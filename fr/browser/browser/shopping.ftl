@@ -91,6 +91,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Comment nous déterminons la qualité d’un avis
+shopping-analysis-explainer-review-grading-scale-reliable = Avis fiables. Nous pensons que les avis proviennent probablement de véritables client·e·s qui ont laissé des avis sincères et objectifs.
 
 ## Strings for UrlBar button
 
