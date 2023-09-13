@@ -35,7 +35,7 @@ shopping-message-bar-warning-stale-analysis-title = Διαθέσιμες ενη�
 shopping-message-bar-generic-error-title = Η ανάλυση δεν είναι διαθέσιμη αυτήν τη στιγμή
 shopping-message-bar-warning-not-enough-reviews-title = Δεν υπάρχουν ακόμα αρκετές κριτικές
 shopping-message-bar-warning-product-not-available-title = Το προϊόν δεν είναι διαθέσιμο
-shopping-message-bar-thanks-for-reporting-title = Ευχαριστώ για την αναφορά!
+shopping-message-bar-thanks-for-reporting-title = Ευχαριστούμε για την αναφορά!
 shopping-message-bar-warning-product-not-available-reported-message = Μια ενημερωμένη ανάλυση θα είναι έτοιμη εντός 24 ωρών. Παρακαλώ ελέγξτε ξανά.
 shopping-message-bar-warning-offline-title = Δεν υπάρχει σύνδεση στο δίκτυο
 
