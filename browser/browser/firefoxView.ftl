@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Синхронізувати ві
 firefoxview-syncedtabs-synctabs-header = Оновіть налаштування синхронізації
 firefoxview-syncedtabs-synctabs-description = Щоб мати доступ до вкладок з інших пристроїв, потрібно синхронізувати відкриті вкладки.
 firefoxview-syncedtabs-synctabs-checkbox = Дозволити синхронізацію відкритих вкладок
+firefoxview-syncedtabs-loading-header = Виконується синхронізація
 firefoxview-tabpickup-fxa-admin-disabled-header = Ваша організація вимкнула синхронізацію
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не може синхронізувати вкладки між пристроями, тому що ваш адміністратор вимкнув синхронізацію.
 firefoxview-tabpickup-network-offline-header = Перевірте своє з'єднання з інтернетом
@@ -210,3 +211,4 @@ firefoxview-recentlyclosed-empty-description-two = Щоб знайти давн�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = На цьому пристрої немає відкритих вкладок
+firefoxview-syncedtabs-connect-another-device = Під'єднати інший пристрій
