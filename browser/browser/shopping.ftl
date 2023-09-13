@@ -14,6 +14,14 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-df = Upålitelege vurderingar
+# This string is displayed in a tooltip that appears when the user hovers
+# over the letter grade component without a visible description.
+# It is also used for screen readers.
+#  $letter (String) - The letter grade as A, B, C, D or F (hardcoded).
+#  $description (String) - The localized letter grade description. See shopping-letter-grade-description-* strings above.
+shopping-letter-grade-tooltip =
+    .title = { $letter } - { $description }
 
 ## Strings for the shopping message-bar
 
