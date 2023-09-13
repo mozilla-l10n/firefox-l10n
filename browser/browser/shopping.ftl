@@ -42,9 +42,11 @@ shopping-message-bar-warning-product-not-available-message = Si ve que este prod
 shopping-message-bar-warning-product-not-available-button = Informar que este producto vuelve a estar en stock.
 shopping-message-bar-thanks-for-reporting-title = ¡Gracias por informarnos!
 shopping-message-bar-thanks-for-reporting-message = Deberíamos tener un análisis actualizado dentro de las 24 horas. Vuelva a chequear.
+shopping-message-bar-warning-product-not-available-reported-title = El análisis llegará pronto
 shopping-message-bar-warning-product-not-available-reported-message = Un análisis actualizado debería estar listo dentro de las 24 horas. Vuelva a chequear.
 shopping-message-bar-warning-offline-title = No hay conexion de red
 shopping-message-bar-warning-offline-message = Verifique la conexión de red y luego vuelva a cargar la página.
+shopping-message-bar-analysis-in-progress-title = El análisis llegará pronto
 shopping-message-bar-analysis-in-progress-message = Cuando termine, mostraremos automáticamente la información actualizada aquí.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
