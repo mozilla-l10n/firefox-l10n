@@ -77,10 +77,10 @@ shopping-show-less-button = Dangos llai
 shopping-settings-label =
     .label = Gosodiadau
 shopping-settings-recommendations-toggle =
-    .label = Dangos hysbysebion yn y gwiriwr adolygu
-shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygu. <a data-l10n-name="review-quality-url">Dysgu rhagor</a>
-shopping-settings-opt-out-button = Diffodd y gwiriwr adolygu
-powered-by-fakespot = Mae'r gwiriwr adolygu yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+    .label = Dangos hysbysebion yn y gwiriwr adolygiadau
+shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Dysgu rhagor</a>
+shopping-settings-opt-out-button = Diffodd y gwiriwr adolygiadau
+powered-by-fakespot = Mae'r gwiriwr adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -102,7 +102,7 @@ shopping-analysis-explainer-intro =
     Bydd y dadansoddiad hwn dim ond yn eich helpu i asesu ansawdd adolygiad, nid ansawdd y cynnyrch.
 shopping-analysis-explainer-grades-intro = Rydym yn gosod <strong>gradd llythyren</strong> o A i F i adolygiad pob cynnyrch.
 shopping-analysis-explainer-adjusted-rating-description = Mae'r <strong>sgôr wedi'i haddasu</strong> yn seiliedig ar ddim ond adolygiadau rydym yn credu eu bod yn ddibynadwy.
-shopping-analysis-explainer-learn-more = Dysgwch ragor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-full-name } yn pennu ansawdd yr adolygu</a>.
+shopping-analysis-explainer-learn-more = Dysgwch ragor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-full-name } yn pennu ansawdd adolygiadau</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
