@@ -64,7 +64,7 @@ shopping-highlights-label =
 shopping-highlight-price = Pris
 shopping-highlight-quality = Kvalitet
 shopping-highlight-shipping = Forsendelse
-shopping-highlight-competitiveness = konkurrencedygtighed
+shopping-highlight-competitiveness = Konkurrencedygtighed
 shopping-highlight-packaging = Emballage
 
 ## Strings for show more card
