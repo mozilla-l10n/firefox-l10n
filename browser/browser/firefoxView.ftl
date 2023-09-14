@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Rhowch Gyfrinair Cynradd
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dysgu rhagor</a>
 firefoxview-tabpickup-signed-out-header = Mewngofnodi i ailgysylltu
 firefoxview-tabpickup-signed-out-description = I ailgysylltu a chipio eich tabiau, mewngofnodwch i'ch { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = I ailgysylltu a chipio'ch tabiau, mewngofnodwch i'ch cyfrif
 firefoxview-tabpickup-signed-out-primarybutton = Mewngofnodi
 firefoxview-tabpickup-syncing = Arhoswch tra bod eich tabiau'n cydweddu. Fydd hi ddim yn hir.
 firefoxview-mobile-promo-header = Cydiwch mewn tabiau o'ch ffôn neu dabled

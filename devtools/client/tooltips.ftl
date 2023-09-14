@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Nid yw <strong>{ $property }</strong> yn cael unrhy
 inactive-css-not-flex-container = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan nad yw'n gynhwysydd flex.
 inactive-css-not-inline-or-tablecell = Nid yw <strong> { $property } </strong> yn cael unrhyw effaith ar yr elfen hon gan nad yw'n elfen mewnlin neu gell tabl.
 inactive-css-first-line-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::first-line pseudo-elements.
+inactive-css-first-letter-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::first-line pseudo-elements.
 inactive-css-placeholder-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = Nid oes gan <strong>{ $property }</strong> unrhyw effaith ar yr elfen hon gan ei bod yn dangos  <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Mae'r peiriant wedi newid y gwerth <strong>display</strong> i <strong>block</strong> oherwydd bod yr elfen yn <strong>arnofio</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = Nid yw <strong>{ $property }
 inactive-css-border-image = Nid yw <strong>{ $property }</strong> yn cael unrhyw effaith ar yr elfen hon gan nad oes modd ei gymhwyso i elfennau tabl mewnol lle mae <strong>cwymp-ffiniol</strong> wedi'i osod i <strong>gwympo</strong> ar y elfen tabl rhiant.
 inactive-css-ruby-element = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan ei bod yn elfen ruby. Mae ei faint yn cael ei bennu gan faint ffont y testun ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar amlygu ffug-elfennau.
+inactive-css-cue-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar  ::cue pseudo-elements.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

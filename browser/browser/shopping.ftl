@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Dim cysylltiad rhwydwaith
 shopping-message-bar-warning-offline-message = Gwiriwch eich cysylltiad rhwydwaith. Yna, ceisiwch ail-lwytho'r dudalen.
 shopping-message-bar-analysis-in-progress-title = Mae'r dadansoddiad ar ei ffordd
 shopping-message-bar-analysis-in-progress-message = Pan fydd yn barod, byddwn yn dangos y wybodaeth ddiweddaraf yn awtomatig yma.
+shopping-message-bar-page-not-supported-title = Methu gwirio’r adolygiadau hyn
+shopping-message-bar-page-not-supported-message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

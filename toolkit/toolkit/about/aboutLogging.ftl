@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Cofnodi modiwlau er mwyn datrys materion galwadau WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modiwlau cofnodi i wneud diagnosis o faterion WebGPU
+about-logging-preset-gfx-label = Graffigau
+about-logging-preset-gfx-description = Modiwlau cofnodi i wneud diagnosis o broblemau graffigau
 about-logging-preset-custom-label = Cyfaddas
 about-logging-preset-custom-description = Modiwlau cofnodion wedi'u dewis â llaw
 # Error handling
