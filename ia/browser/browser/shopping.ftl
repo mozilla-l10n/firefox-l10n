@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Nulle connexion de rete
 shopping-message-bar-warning-offline-message = Verifica tu connexion de rete. Pois, tenta recargar le pagina.
 shopping-message-bar-analysis-in-progress-title = Analysis in arrivata
 shopping-message-bar-analysis-in-progress-message = Quando isto sera facite, nos automaticamente monstrara le info actualisate ci.
+shopping-message-bar-page-not-supported-title = Nos non pote controlar iste recensiones
+shopping-message-bar-page-not-supported-message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

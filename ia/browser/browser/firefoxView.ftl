@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Insere le contrasigno prim
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pro saper plus</a>
 firefoxview-tabpickup-signed-out-header = Accede pro reconnecter te
 firefoxview-tabpickup-signed-out-description = Pro reconnecter te e recuperar tu schedas, accede a tu { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Pro reconnecter te e recuperar tu schedas, accede a tu conto.
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
 firefoxview-tabpickup-syncing = Sta sedite dum tu schedas se synchronisa. Il essera solo un momento.
 firefoxview-mobile-promo-header = Accede al schedas aperte ab tu telephono o tabletta

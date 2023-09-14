@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ha nulle effecto sur
 inactive-css-not-flex-container = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un contentor Flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> non ha effecto sur iste elemento perque non es un elemento “inline” o “table-cell”.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ha nulle effecto sur iste elemento perque illo ha un schermo de <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Le motor ha cambiate le valor de <strong>display</strong> a <strong>block</strong> perque le elemento es <strong>floated</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> ha nulle effecto sur iste elemento nam illo non pote esser applicate a elementos de tabella interne ubi sur le elemento de tabella parente <strong>border-collapse</strong> es definite a <strong>collapse</strong>.
 inactive-css-ruby-element = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que il es un elemento ruby. Su dimension es determinate per le dimension del characteres del texto ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos evidentiate.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
