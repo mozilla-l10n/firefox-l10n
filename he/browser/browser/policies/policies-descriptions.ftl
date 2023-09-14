@@ -28,6 +28,7 @@ policy-CertificatesDescription = הוספת אישורים או שימוש בא�
 policy-Cookies = לאשר או לסרב להגדרת עוגיות מאתרים.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = הגדרת מדיניות הקשורה למגירות לשוניות.
+policy-DisableAccounts = השבתת שירותים מבוססי חשבון, כולל סנכרון.
 policy-DisabledCiphers = השבתת צפנים.
 policy-DefaultDownloadDirectory = הגדרת תיקיית ההורדות ברירת המחדל.
 policy-DisableAppUpdate = מניעת עדכון הדפדפן.
