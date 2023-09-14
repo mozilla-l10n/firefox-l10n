@@ -158,6 +158,7 @@ language-name-ro = Rumeno
 language-name-ru = Russo
 language-name-rw = Kinyarwanda
 language-name-sa = Sanscrito
+language-name-sat = Santali
 language-name-sc = Sardo
 language-name-sco = Scots
 language-name-sd = Sindhi
@@ -212,4 +213,3 @@ language-name-za = Zhuang
 language-name-zam = Zapoteco di Miahuatlán
 language-name-zh = Cinese
 language-name-zu = Zulu
-
