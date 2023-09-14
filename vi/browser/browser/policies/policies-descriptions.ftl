@@ -28,6 +28,7 @@ policy-CertificatesDescription = Thêm chứng chỉ hoặc sử dụng chứng 
 policy-Cookies = Cho phép hoặc từ chối các trang web lưu cookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Đặt các chính sách liên quan đến ngăn chứa.
+policy-DisableAccounts = Vô hiệu hóa các dịch vụ dựa trên tài khoản, bao gồm cả đồng bộ hóa.
 policy-DisabledCiphers = Vô hiệu hóa thuật toán mã hóa.
 policy-DefaultDownloadDirectory = Đặt thư mục tải xuống mặc định.
 policy-DisableAppUpdate = Chặn việc cập nhật trình duyệt.
