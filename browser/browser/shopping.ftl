@@ -115,6 +115,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Unzuverlässige Be
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Einkaufen-Sidebar öffnen
+shopping-sidebar-close-button =
+    .tooltiptext = Einkaufen-Sidebar schließen
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -129,3 +133,6 @@ shopping-unanalyzed-product-analyze-link = Analysierer auf { -fakespot-website-n
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Weitere Möglichkeiten
+ad-by-fakespot = Anzeige von { -fakespot-brand-name }
