@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Ange primärt lösenord
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Läs mer</a>
 firefoxview-tabpickup-signed-out-header = Logga in för att återansluta
 firefoxview-tabpickup-signed-out-description = För att återansluta och hämta dina flikar, logga in på ditt { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = För att återansluta och hämta dina flikar, logga in på ditt konto.
 firefoxview-tabpickup-signed-out-primarybutton = Logga in
 firefoxview-tabpickup-syncing = Vi synkroniserar dina flikar, det tar bara ett ögonblick.
 firefoxview-mobile-promo-header = Öppna flikar från din telefon eller surfplatta

@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> har ingen effekt på
 inactive-css-not-flex-container = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är en flexbehållare.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte är ett inline- eller table-cellelement.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte i ::first-line pseudoelement.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte på ::first-letter pseudoelement.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte i ::placeholder pseudoelement.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> har ingen effekt på det här elementet eftersom den har en visning av <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Värdet <strong>display</strong> har ändrats av motorn till <strong>block</strong> eftersom elementet är <strong>floated</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det inte kan tillämpas på interna tabellelement där <strong>border-collapse</strong> är inställt på <strong>collapse</strong> på överordnat tabellelement.
 inactive-css-ruby-element = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det är ett ruby-element. Dess storlek bestäms av teckenstorleken på ruby-texten.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> stöds inte på highlight-pseudoelement.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte på ::cue pseudoelement.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
