@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Властивість <strong>{ $property }</stron
 inactive-css-not-flex-container = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є контейнером flex.
 inactive-css-not-inline-or-tablecell = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він не є inline чи table-cell елементом.
 inactive-css-first-line-pseudo-element-not-supported = Властивість <strong>{ $property }</strong> не підтримується в псевдо-елементах ::first-line.
+inactive-css-placeholder-pseudo-element-not-supported = Властивість <strong>{ $property }</strong> не підтримується у псевдоелементах ::placeholder.
 inactive-css-property-because-of-display = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він має відображення <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Значення <strong>display</strong> було замінено рушієм на <strong>block</strong>, тому що цей елемент <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Неможливо перевизначити властивість <strong>{ $property }</strong>, у зв'язку з обмеженням <strong>:visited</strong>.
