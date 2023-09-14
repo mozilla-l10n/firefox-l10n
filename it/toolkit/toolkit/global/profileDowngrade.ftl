@@ -14,3 +14,4 @@ profiledowngrade-nosync = L’utilizzo di una versione più vecchia di { -brand-
 
 profiledowngrade-quit =
     .label = Esci
+
