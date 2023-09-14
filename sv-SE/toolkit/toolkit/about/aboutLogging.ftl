@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Logga moduler för att diagnostisera WebRTC-anrop
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logga moduler för att diagnostisera WebGPU-problem
+about-logging-preset-gfx-label = Grafik
+about-logging-preset-gfx-description = Logga moduler för att diagnostisera grafikproblem
 about-logging-preset-custom-label = Anpassad
 about-logging-preset-custom-description = Loggmoduler manuellt valda
 # Error handling
