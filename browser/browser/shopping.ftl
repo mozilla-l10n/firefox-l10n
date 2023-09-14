@@ -58,21 +58,41 @@ shopping-highlights-label =
     .label = Обране з недавніх відгуків
 shopping-highlight-price = Ціна
 shopping-highlight-quality = Якість
+shopping-highlight-shipping = Доставлення
+shopping-highlight-competitiveness = Конкурентоспроможність
+shopping-highlight-packaging = Пакування
 
 ## Strings for show more card
 
+shopping-show-more-button = Показати більше
+shopping-show-less-button = Показати менше
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Налаштування
+shopping-settings-recommendations-toggle =
+    .label = Показувати рекламу в засобі перевірки відгуків
+shopping-settings-recommendations-learn-more = Ви періодично бачитимете рекламу схожих товарів. Усі оголошення мають відповідати нашим стандартам якості відгуків. <a data-l10n-name="review-quality-url">Докладніше</a>
+shopping-settings-opt-out-button = Вимкнути засіб перевірки відгуків
+powered-by-fakespot = Засіб перевірки відгуків розроблено на базі <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Скоригований рейтинг
+shopping-adjusted-rating-unreliable-reviews = Сумнівні відгуки прибрано
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Наскільки надійні ці відгуки?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Як ми визначаємо якість відгуку
+shopping-analysis-explainer-grades-intro = Кожному відгуку про товар ми присвоюємо <strong>буквену оцінку</strong> від A до F.
 
 ## Strings for UrlBar button
 
