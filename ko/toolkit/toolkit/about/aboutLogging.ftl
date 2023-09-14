@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC 호출을 진단하기 위한 로그 모듈
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU 문제를 진단하기 위한 로그 모듈
+about-logging-preset-gfx-label = 그래픽
+about-logging-preset-gfx-description = 그래픽 문제를 진단하기 위한 로그 모듈
 about-logging-preset-custom-label = 사용자 지정
 about-logging-preset-custom-description = 수동으로 선택한 로그 모듈
 # Error handling

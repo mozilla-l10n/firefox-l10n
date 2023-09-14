@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = 기본 비밀번호 입력
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">더 알아보기</a>
 firefoxview-tabpickup-signed-out-header = 다시 연결하려면 로그인하세요
 firefoxview-tabpickup-signed-out-description = 다시 연결하고 탭을 가져오려면 { -fxaccount-brand-name }에 로그인하세요.
+firefoxview-tabpickup-signed-out-description2 = 다시 연결하고 탭을 가져오려면 계정에 로그인하세요.
 firefoxview-tabpickup-signed-out-primarybutton = 로그인
 firefoxview-tabpickup-syncing = 잠깐이면 탭이 동기화됩니다.
 firefoxview-mobile-promo-header = 휴대폰 또는 태블릿에서 탭 가져오기

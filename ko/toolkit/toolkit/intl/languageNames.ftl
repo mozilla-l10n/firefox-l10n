@@ -158,6 +158,7 @@ language-name-ro = 루마니아어
 language-name-ru = 러시아어
 language-name-rw = 킨야완다어
 language-name-sa = 산스크리트
+language-name-sat = 산탈리어
 language-name-sc = 사르디니아어
 language-name-sco = 스코트어
 language-name-sd = 신다이어

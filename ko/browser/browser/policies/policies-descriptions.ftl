@@ -28,6 +28,7 @@ policy-CertificatesDescription = 인증서를 추가하거나 기본 제공 인�
 policy-Cookies = 웹 사이트의 쿠키 설정을 허용하거나 거부합니다.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = 컨테이너와 관련된 정책을 설정합니다.
+policy-DisableAccounts = 동기화를 포함한 계정 기반 서비스를 사용 안 합니다.
 policy-DisabledCiphers = 암호화를 사용 안 합니다.
 policy-DefaultDownloadDirectory = 기본 다운로드 디렉터리를 설정합니다.
 policy-DisableAppUpdate = 브라우저가 업데이트 되지 않도록 합니다.

@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = 네트워크 연결 없음
 shopping-message-bar-warning-offline-message = 네트워크 연결을 확인하세요. 그리고, 페이지를 새로 고침해 보세요.
 shopping-message-bar-analysis-in-progress-title = 분석이 곧 제공될 예정
 shopping-message-bar-analysis-in-progress-message = 완료되면 여기에 업데이트된 정보가 자동으로 표시됩니다.
+shopping-message-bar-page-not-supported-title = 리뷰를 확인할 수 없음
+shopping-message-bar-page-not-supported-message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
