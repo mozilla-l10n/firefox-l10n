@@ -24,6 +24,7 @@ inactive-css-not-flex-item = 플렉스 항목이 아니기 때문에 <strong>{ $
 inactive-css-not-flex-container = 플렉스 컨테이너가 아니기 때문에 <strong>{ $property }</strong> 속성이 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong>는 inline 또는 table-cell 요소가 아니기 때문에 이 요소에 아무런 영향을 미치지 않습니다.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::first-line 가상 요소에서 지원되지 않습니다.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::first-letter 가상 요소에서 지원되지 않습니다.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::placeholder 가상 요소에서 지원되지 않습니다.
 inactive-css-property-because-of-display = <strong>{ $display }</strong>의 표시가 있으므로 <strong>{ $property }</strong>은 이 요소에 영향을 미치지 않습니다.
 inactive-css-not-display-block-on-floated = 요소가 <strong>floated</strong>이므로 <strong>display</strong> 값이 엔진에 의해 <strong>block</strong>으로 변경되었습니다.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = 스크롤하지 않으므로
 inactive-css-border-image = <strong>{ $property }</strong>는 부모 테이블 요소에서 <strong>border-collapse</strong>가 <strong>collapse</strong>로 설정된 내부 테이블 요소에 적용할 수 없으므로 이 요소에 영향을 미치지 않습니다.
 inactive-css-ruby-element = <strong>{ $property }</strong>는 윗주 요소이므로 이 요소에 영향을 미치지 않습니다. 크기는 윗주 텍스트의 글꼴 크기에 따라 결정됩니다.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong>는 하이라이트 가상 요소에서 지원되지 않습니다.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::cue 가상 요소에서 지원되지 않습니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
