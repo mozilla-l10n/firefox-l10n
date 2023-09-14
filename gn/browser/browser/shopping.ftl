@@ -86,7 +86,10 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Noñehesa’ỹijói gueteri ko’ã marandu’i
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Ehecha emomba’e hag̃ua
 ad-by-fakespot = { -fakespot-brand-name } moñemurã
