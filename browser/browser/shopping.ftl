@@ -37,11 +37,15 @@ shopping-message-bar-generic-error-message = Pyrimme ratkaisemaan ongelman. Tark
 shopping-message-bar-warning-not-enough-reviews-title = Ei vielä tarpeeksi arvosteluja
 shopping-message-bar-warning-not-enough-reviews-message = Kun tästä tuotteesta on enemmän arvosteluja, voimme analysoida ne.
 shopping-message-bar-warning-product-not-available-title = Tuote ei ole saatavilla
+shopping-message-bar-thanks-for-reporting-message = Meidän pitäisi saada päivitetty analyysi 24 tunnin sisällä. Tarkista tilanne uudelleen.
 shopping-message-bar-warning-product-not-available-reported-title = Analyysi tulossa pian
+shopping-message-bar-warning-product-not-available-reported-message = Päivitetyn analyysin pitäisi olla valmis 24 tunnin kuluessa. Tarkista tilanne uudelleen.
 shopping-message-bar-warning-offline-title = Ei verkkoyhteyttä
 shopping-message-bar-warning-offline-message = Tarkista verkkoyhteytesi. Yritä sitten ladata sivu uudelleen.
 shopping-message-bar-analysis-in-progress-title = Analyysi tulossa pian
 shopping-message-bar-analysis-in-progress-message = Kun se on valmis, näytämme päivitetyt tiedot automaattisesti täällä.
+shopping-message-bar-page-not-supported-title = Emme voi tarkistaa näitä arvosteluja
+shopping-message-bar-page-not-supported-message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -73,9 +77,12 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Näytä mainoksia arvostelujen tarkistimessa
 shopping-settings-opt-out-button = Poista arvostelujen tarkistus käytöstä
+powered-by-fakespot = Arvostelujen tarkistuksen mahdollistaa <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Oikaistu arvosana
 shopping-adjusted-rating-unreliable-reviews = Epäluotettavat arvostelut poistettu
 
 ## Strings for the review reliability component
@@ -87,6 +94,8 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Kuinka määritämme arvostelun laadun
+shopping-analysis-explainer-grades-intro = Annamme kunkin tuotteen arvosteluille <strong>kirjainarvosanan</strong> A:sta F:ään.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Oikaistu arvosana</strong> perustuu vain niihin arvosteluihin, jotka koemme luotettaviksi.
 
 ## Strings for UrlBar button
 
