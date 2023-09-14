@@ -158,6 +158,7 @@ language-name-ro = Rumunšćina
 language-name-ru = Rušćina
 language-name-rw = Kinjarwanda
 language-name-sa = Sanskrit
+language-name-sat = Santališćina
 language-name-sc = Sardinšćina
 language-name-sco = Šotiska jendźelšćina
 language-name-sd = Sindišćina, Sindhi
