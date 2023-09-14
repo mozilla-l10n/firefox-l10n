@@ -28,6 +28,7 @@ policy-CertificatesDescription = 新增憑證，或使用內建憑證。
 policy-Cookies = 允許或拒絕網站設定 Cookie。
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = 設定容器分頁相關政策。
+policy-DisableAccounts = 停用需要帳號才可使用的服務，包含 Sync。
 policy-DisabledCiphers = 停用加密演算法。
 policy-DefaultDownloadDirectory = 設定預設下載資料夾。
 policy-DisableAppUpdate = 防止瀏覽器更新。
