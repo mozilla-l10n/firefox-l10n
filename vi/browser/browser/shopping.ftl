@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Không có kết nối mạng
 shopping-message-bar-warning-offline-message = Kiểm tra kết nối mạng của bạn. Sau đó, hãy thử tải lại trang.
 shopping-message-bar-analysis-in-progress-title = Phân tích sắp ra mắt
 shopping-message-bar-analysis-in-progress-message = Khi hoàn tất, chúng tôi sẽ tự động hiển thị thông tin cập nhật tại đây.
+shopping-message-bar-page-not-supported-title = Chúng tôi không thể kiểm tra những đánh giá này
+shopping-message-bar-page-not-supported-message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
