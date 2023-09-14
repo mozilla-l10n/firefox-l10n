@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Ingen nätverksanslutning
 shopping-message-bar-warning-offline-message = Kontrollera din nätverksanslutning. Testa sedan att ladda om sidan.
 shopping-message-bar-analysis-in-progress-title = Analys kommer snart
 shopping-message-bar-analysis-in-progress-message = När det är klart visar vi automatiskt den uppdaterade informationen här.
+shopping-message-bar-page-not-supported-title = Vi kan inte kontrollera dessa recensioner
+shopping-message-bar-page-not-supported-message = Tyvärr kan vi inte kontrollera recensionskvaliteten för vissa typer av produkter. Till exempel presentkort och strömmande video, musik och spel.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

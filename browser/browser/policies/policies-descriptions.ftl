@@ -28,6 +28,7 @@ policy-CertificatesDescription = Lägg till certifikat eller använd inbyggda ce
 policy-Cookies = Tillåt eller neka webbplatser att lagra kakor
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ange policyer relaterade till behållare.
+policy-DisableAccounts = Inaktivera kontobaserade tjänster, inklusive synkronisering.
 policy-DisabledCiphers = Inaktivera chiffer.
 policy-DefaultDownloadDirectory = Ange standard för nedladdningskatalog.
 policy-DisableAppUpdate = Förhindra att webbläsaren uppdateras.
