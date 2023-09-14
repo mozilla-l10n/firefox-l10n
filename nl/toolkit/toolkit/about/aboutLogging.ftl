@@ -46,6 +46,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Logboekmodules om WebRTC-aanroepen te diagnosticeren
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Logboekmodules om WebGPU te diagnosticeren
+about-logging-preset-gfx-label = Grafisch
+about-logging-preset-gfx-description = Logboekmodules om grafische problemen te diagnosticeren
 about-logging-preset-custom-label = Aangepast
 about-logging-preset-custom-description = Logboekmodules handmatig geselecteerd
 # Error handling
