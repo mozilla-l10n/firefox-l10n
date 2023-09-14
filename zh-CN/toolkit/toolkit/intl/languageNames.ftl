@@ -158,6 +158,7 @@ language-name-ro = 罗马尼亚语
 language-name-ru = 俄语
 language-name-rw = 卢旺达语
 language-name-sa = 梵语
+language-name-sat = 桑塔利语
 language-name-sc = 萨丁尼亚语
 language-name-sco = 低地苏格兰语
 language-name-sd = 信德语

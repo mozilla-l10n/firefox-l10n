@@ -105,9 +105,20 @@ shopping-analysis-explainer-intro =
 shopping-analysis-explainer-grades-intro = 我们会以<strong>字母等级</strong>（从 A 到 F）给商品评价打分。
 shopping-analysis-explainer-adjusted-rating-description = <strong>调整后的评分</strong>仅基于我们认为可信的评价作出。
 shopping-analysis-explainer-learn-more = 详细了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 判断评价质量的流程</a>。
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>最有帮助的评价</strong>选自我们认为可信的最近 80 天内的 { $retailer } 评价。
+shopping-analysis-explainer-review-grading-scale-reliable = 评价可信。分析认为这些评价大概率是由真实消费者作出的诚实公正的评价。
+shopping-analysis-explainer-review-grading-scale-mixed = 分析认为对此商品的评价鱼龙混杂。
+shopping-analysis-explainer-review-grading-scale-unreliable = 评价不可信。分析认为这些评价大概率不实，或是由“水军”所作出。
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = 打开购物侧栏
+shopping-sidebar-close-button =
+    .tooltiptext = 关闭购物侧栏
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -116,6 +127,12 @@ shopping-analysis-explainer-learn-more = 详细了解<a data-l10n-name="review-q
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = 尚无对于这些评价的分析
+shopping-unanalyzed-product-message = 启动 { -fakespot-brand-full-name } 分析工具，只需 60 秒即可获知对此商品的评价是否可信。
+shopping-unanalyzed-product-analyze-link = 在 { -fakespot-website-name } 上启动分析工具
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = 可参考其他商品
+ad-by-fakespot = { -fakespot-brand-name } 提供的广告
