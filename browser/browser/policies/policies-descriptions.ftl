@@ -28,6 +28,7 @@ policy-CertificatesDescription = Ajouter des certificats ou utiliser des certifi
 policy-Cookies = Permettre ou interdire aux sites de définir des cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Définir des politiques relatives aux conteneurs.
+policy-DisableAccounts = Désactiver les services qui demandent un compte, y compris la synchronisation.
 policy-DisabledCiphers = Désactiver les chiffrements.
 policy-DefaultDownloadDirectory = Définir le répertoire de téléchargement par défaut.
 policy-DisableAppUpdate = Empêcher le navigateur de se mettre à jour.

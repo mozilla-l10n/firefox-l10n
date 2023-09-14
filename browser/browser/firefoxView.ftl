@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Saisir le mot de passe pri
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">En savoir plus</a>
 firefoxview-tabpickup-signed-out-header = Identifiez-vous pour vous reconnecter
 firefoxview-tabpickup-signed-out-description = Pour vous reconnecter et récupérer vos onglets, connectez-vous à votre { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Pour vous reconnecter et récupérer vos onglets, connectez-vous à votre compte.
 firefoxview-tabpickup-signed-out-primarybutton = Se connecter
 firefoxview-tabpickup-syncing = Veuillez patienter pendant la synchronisation de vos onglets. Ce ne sera pas long.
 firefoxview-mobile-promo-header = Récupérez les onglets de votre téléphone ou de votre tablette
