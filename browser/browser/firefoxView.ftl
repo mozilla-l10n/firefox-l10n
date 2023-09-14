@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Hauptpasswort eingeben
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Weitere Informationen</a>
 firefoxview-tabpickup-signed-out-header = Melden Sie sich an, um die Verbindung wiederherzustellen
 firefoxview-tabpickup-signed-out-description = Um die Verbindung wiederherzustellen und Ihre Tabs abzurufen, melden Sie sich bei Ihrem { -fxaccount-brand-name } an.
+firefoxview-tabpickup-signed-out-description2 = Um die Verbindung wiederherzustellen und Ihre Tabs abzurufen, melden Sie sich bei Ihrem Konto an.
 firefoxview-tabpickup-signed-out-primarybutton = Anmelden
 firefoxview-tabpickup-syncing = Warten Sie, während Ihre Tabs synchronisiert werden. Es wird nur einen Moment dauern.
 firefoxview-mobile-promo-header = Holen Sie sich Tabs von Ihrem Telefon oder Tablet
