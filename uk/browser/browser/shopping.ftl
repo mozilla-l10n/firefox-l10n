@@ -93,6 +93,12 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Як ми визначаємо якість відгуку
 shopping-analysis-explainer-grades-intro = Кожному відгуку про товар ми присвоюємо <strong>буквену оцінку</strong> від A до F.
+shopping-analysis-explainer-learn-more = Дізнайтеся, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } визначає якість відгуків</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Обрані</strong> беруться з відгуків { $retailer } за останні 80 днів, які ми вважаємо надійними.
+shopping-analysis-explainer-review-grading-scale-mixed = Ми вважаємо, що тут поєднано надійні та сумнівні відгуки.
 
 ## Strings for UrlBar button
 
