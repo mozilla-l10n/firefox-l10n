@@ -38,6 +38,11 @@ shopping-message-bar-warning-not-enough-reviews-message = Коли на цей �
 shopping-message-bar-warning-product-not-available-title = Товар відсутній
 shopping-message-bar-warning-product-not-available-button = Повідомити, що цей товар знову в наявності
 shopping-message-bar-thanks-for-reporting-title = Дякуємо за повідомлення!
+shopping-message-bar-warning-product-not-available-reported-title = Незабаром проаналізується
+shopping-message-bar-warning-offline-title = Немає з'єднання з мережею
+shopping-message-bar-warning-offline-message = Перевірте з'єднання з мережею. Потім спробуйте перезавантажити сторінку.
+shopping-message-bar-analysis-in-progress-title = Незабаром проаналізується
+shopping-message-bar-analysis-in-progress-message = Коли все буде готово, ми автоматично покажемо тут оновлену інформацію.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -45,9 +50,14 @@ shopping-message-bar-thanks-for-reporting-title = Дякуємо за повід
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Запустити аналізатор на { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Обране з недавніх відгуків
+shopping-highlight-price = Ціна
+shopping-highlight-quality = Якість
 
 ## Strings for show more card
 
