@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> não tem efeito nest
 inactive-css-not-flex-container = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um flex container.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> não tem efeito neste elemento, pois não é um elemento inline nem de table-cell.
 inactive-css-first-line-pseudo-element-not-supported = Não há suporte para <strong>{ $property }</strong> em pseudo-elementos ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = Não há suporte para<strong>{ $property }</strong> em pseudo-elementos ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = Não há suporte para<strong>{ $property }</strong> em pseudo-elementos ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> não tem efeito neste elemento, pois tem um display de <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = O valor de <strong>display</strong> foi alterado pelo mecanismo para <strong>block</strong> porque o elemento é <strong>floated</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois não pode ser aplicado a elementos internos de tabela em que <strong>border-collapse</strong> esteja definido como <strong>collapse</strong> no elemento superior da tabela.
 inactive-css-ruby-element = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois é um elemento ruby. Seu tamanho é determinado pelo tamanho da fonte do texto ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Não há suporte para <strong>{ $property }</strong> em pseudo-elementos de destaque.
+inactive-css-cue-pseudo-element-not-supported = Não há suporte para<strong>{ $property }</strong> em pseudo-elementos ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Digite a senha principal
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saiba mais</a>
 firefoxview-tabpickup-signed-out-header = Entre na conta para reconectar
 firefoxview-tabpickup-signed-out-description = Para reconectar e acessar suas abas, entre na sua conta { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Para se reconectar e recuperar suas abas, entre na sua conta.
 firefoxview-tabpickup-signed-out-primarybutton = Entrar
 firefoxview-tabpickup-syncing = Aguarde a sincronização de abas. É rápido.
 firefoxview-mobile-promo-header = Abra abas do seu celular ou tablet
