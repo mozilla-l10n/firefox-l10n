@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> nol à efiets su che
 inactive-css-not-flex-container = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un contignidôr flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è un element “inline” o un element  “table-cell”.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât in pseudo-elements “::first-line”.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât tai pseudo-elements “::first-letter”.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât tai pseudo-elements “::placeholder”.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nol à efiets su chest element viodût che il valôr de proprietât “display” al è <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Il valôr di <strong>display</strong> al è stât cambiât a <strong>block</strong> dal motôr, parcè che l'element al è <strong>floated</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> nol à efiets su chest element viodût che nol è pussibil aplicâlu ai elements de tabele interne dulà che <strong>border-collapse</strong> al è metût come <strong>collapse</strong> sul element de tabele dal gjenitôr.
 inactive-css-ruby-element = <strong>{ $property }</strong> nol à efiets su chest element viodût che al è un element pe trascrizion fonetiche (ruby). La sô dimension e je determinade de grandece dal caratar dal test ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nol è supuartât su pseudo-elements de categorie “highlight”.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât tai pseudo-elements “::cue”.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
