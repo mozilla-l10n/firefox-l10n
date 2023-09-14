@@ -385,6 +385,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Suorita sivustoilla, joilla on rajoituksia
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Kun sallittu, laajennuksella on pääsy sivustoille, joita { -vendor-short-name } rajoittaa. Salli vain, jos luotat tähän laajennukseen.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Salli
 addon-detail-quarantined-domains-disallow = Älä salli
