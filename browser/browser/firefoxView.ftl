@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = 更新您的同步设置
 firefoxview-syncedtabs-synctabs-description = 要查看来自其他设备的标签页，您需要同步打开的标签页。
 firefoxview-syncedtabs-synctabs-checkbox = 允许同步打开的标签页
 firefoxview-syncedtabs-loading-header = 正在同步
+firefoxview-syncedtabs-loading-description = 完成后即可看到其他设备上打开的标签页，请稍后回来查看。
 firefoxview-tabpickup-fxa-admin-disabled-header = 您的组织已禁用同步服务
 firefoxview-tabpickup-fxa-admin-disabled-description = 由于您的管理员已禁用同步服务，{ -brand-short-name } 无法跨设备同步标签页。
 firefoxview-tabpickup-network-offline-header = 请检查您的互联网连接
