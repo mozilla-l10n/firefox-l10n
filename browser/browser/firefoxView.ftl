@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Nhập mật khẩu chính
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Tìm hiểu thêm</a>
 firefoxview-tabpickup-signed-out-header = Đăng nhập để kết nối lại
 firefoxview-tabpickup-signed-out-description = Để kết nối lại và lấy các thẻ của bạn, hãy đăng nhập vào { -fxaccount-brand-name } của bạn.
+firefoxview-tabpickup-signed-out-description2 = Để kết nối lại và lấy các thẻ của bạn, hãy đăng nhập vào tài khoản của bạn.
 firefoxview-tabpickup-signed-out-primarybutton = Đăng nhập
 firefoxview-tabpickup-syncing = Thoải mái ngồi yên trong khi các thẻ của bạn đồng bộ hóa. Thông thường nó sẽ chỉ mất vài phút.
 firefoxview-mobile-promo-header = Nhận các thẻ từ điện thoại hoặc máy tính bảng của bạn

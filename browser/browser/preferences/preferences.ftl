@@ -1136,6 +1136,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Thu thập và sử dụng dữ liệu { -brand-short-name }
+collection-header2 = Thu thập và sử dụng dữ liệu { -brand-short-name }
+    .searchkeywords = thu thập
 collection-description = Chúng tôi cố gắng cung cấp cho bạn sự lựa chọn và chỉ thu thập những gì chúng tôi cần để cung cấp và cải thiện { -brand-short-name } cho tất cả mọi người. Chúng tôi luôn xin phép trước khi thu thập thông tin cá nhân.
 collection-privacy-notice = Thông báo bảo mật
 collection-health-report-telemetry-disabled = Bạn không còn cho phép { -vendor-short-name } thu thập dữ liệu kỹ thuật và tương tác. Tất cả dữ liệu trong quá khứ sẽ bị xóa trong vòng 30 ngày.
