@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = 輸入主控密碼
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">了解更多</a>
 firefoxview-tabpickup-signed-out-header = 登入即可重新連線
 firefoxview-tabpickup-signed-out-description = 登入 { -fxaccount-brand-name } 即可重新連線並取回分頁。
+firefoxview-tabpickup-signed-out-description2 = 登入帳號即可重新連線並取回分頁。
 firefoxview-tabpickup-signed-out-primarybutton = 登入
 firefoxview-tabpickup-syncing = 稍等分頁進行同步，只要一下下即可。
 firefoxview-mobile-promo-header = 在手機或平板電腦接收分頁

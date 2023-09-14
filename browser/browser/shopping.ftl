@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = 沒有網路連線
 shopping-message-bar-warning-offline-message = 請檢查您的網路連線是否正常，然後嘗試重新載入頁面。
 shopping-message-bar-analysis-in-progress-title = 即將提供分析資訊
 shopping-message-bar-analysis-in-progress-message = 完成後，我們會自動在此顯示更新過的資訊。
+shopping-message-bar-page-not-supported-title = 我們無法檢查這些評論
+shopping-message-bar-page-not-supported-message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
