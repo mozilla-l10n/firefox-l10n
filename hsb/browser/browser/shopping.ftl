@@ -49,6 +49,8 @@ shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
 shopping-highlight-price = Płaćizna
 shopping-highlight-quality = Kwalita
 shopping-highlight-shipping = Rozpósłanje
+shopping-highlight-competitiveness = Wubědźowanjakmanosć
+shopping-highlight-packaging = Pakowanje
 
 ## Strings for show more card
 
@@ -65,6 +67,8 @@ shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Přiměrjene hódnoćenje
 shopping-adjusted-rating-unreliable-reviews = Njespušćomne pohódnoćenja wotstronjene
 
 ## Strings for the review reliability component
@@ -80,6 +84,10 @@ shopping-analysis-explainer-learn-more = Zhońće wjace wo tym, <a data-l10n-nam
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Nakupowansku bóčnicu wočinić
+shopping-sidebar-close-button =
+    .tooltiptext = Nakupowansku bóčnicu začinić
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -92,3 +100,4 @@ shopping-unanalyzed-product-header = Hišće žana analyza za tute pohódnoćenj
 
 ## Strings for the advertisement
 
+ad-by-fakespot = Wabjenje wot { -fakespot-brand-name }

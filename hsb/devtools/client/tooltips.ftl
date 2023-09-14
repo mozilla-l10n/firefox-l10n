@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> na tutón element ef
 inactive-css-not-flex-container = <strong>{ $property }</strong> na tutón element efekt nima, dokelž kontejner flex njeje.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž element element inline abo element tabeloweje cele njeje.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudoelementy ::first-line njepodpěruje.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudoelementy ::first-letter njepodpěruje.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudo-elementy ::placeholder njepodpěruje.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> nima wuskutk na tutón element, dokelž ma zwobraznjenje <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Hódnota <strong>display</strong> je so přez engine do <strong>block</strong> změnił, dokelž element je <strong>floated</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> na tutón element wuskutk nima, dokelž njeda so na nutřkowne tabelowe elementy nałožić, hdźež <strong>border-collapse</strong> je na <strong>collapse</strong> na nadrjadowanym elemenće tabele stajeny.
 inactive-css-ruby-element = <strong>{ $property }</strong> wuskutk na tutón element nima, dokelž je element ruby. Jeje wulkosć so přez wulkosć pisma teksta ruby postaja.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> so za pseudoelementy wuzběhnjenja njepodpěruje.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudo-elementy ::cue njepodpěruje.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
