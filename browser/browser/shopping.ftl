@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = אין חיבור לרשת
 shopping-message-bar-warning-offline-message = נא לבדוק את החיבור שלך לרשת. לאחר מכן, נא לנסות לטעון מחדש את הדף.
 shopping-message-bar-analysis-in-progress-title = ניתוח יבוא בקרוב
 shopping-message-bar-analysis-in-progress-message = כשזה יסתיים, נציג כאן באופן אוטומטי את המידע המעודכן.
+shopping-message-bar-page-not-supported-title = אין באפשרותנו לבדוק סקירות אלה
+shopping-message-bar-page-not-supported-message = למרבה הצער, איננו יכולים לבדוק את איכות הסקירות עבור סוגים מסויימים של מוצרים. למשל, כרטיסי מתנה והזרמת וידאו, מוזיקה ומשחקים.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

@@ -1145,6 +1145,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = איסוף המידע של { -brand-short-name }
+collection-header2 = איסוף המידע של { -brand-short-name }
+    .searchkeywords = טלמטריה
 collection-description = אנו חותרים לספק לך זכות בחירה ולאסוף רק מה שנדרש לנו כדי לספק ולשפר את { -brand-short-name } לטובת הכלל. אנו תמיד נבקש את רשותך לפני קבלת פרטים אישיים.
 collection-privacy-notice = הצהרת פרטיות
 collection-health-report-telemetry-disabled-link = מידע נוסף
