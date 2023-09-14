@@ -45,6 +45,7 @@ shopping-message-bar-warning-product-not-available-reported-title = Analyse à v
 shopping-message-bar-warning-offline-title = Aucune connexion réseau
 shopping-message-bar-warning-offline-message = Veuillez vérifier votre connexion réseau. Essayez ensuite d’actualiser la page.
 shopping-message-bar-analysis-in-progress-title = Analyse à venir
+shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ces avis
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
