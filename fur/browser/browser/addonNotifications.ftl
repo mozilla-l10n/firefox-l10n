@@ -7,14 +7,13 @@ xpinstall-prompt = { -brand-short-name } al à impedît a chest sît di domandâ
 ## Variables:
 ##   $host (String): The hostname of the site the add-on is being installed from.
 
-xpinstall-prompt-header = Permeti a { $host } di instalâ une zonte?
-xpinstall-prompt-message = Tu stâs cirint di instalâ une zonte di { $host }. Siguriti che chest sît al sedi afidabil prime di continuâ.
+xpinstall-prompt-header = Permeti a { $host } di instalâ un component adizionâl?
+xpinstall-prompt-message = Tu stâs cirint di instalâ un component adizionâl di { $host }. Siguriti che chest sît al sedi afidabil prime di continuâ.
 
 ##
 
-xpinstall-prompt-header-unknown = Permeti a un sît no cognossût di instalâ une zonte?
-xpinstall-prompt-message-unknown = Tu stâs cirint di instalâ une zonte di un sît no cognossût. Siguriti che chest sît al sedi afidabil prime di continuâ.
-
+xpinstall-prompt-header-unknown = Permeti a un sît no cognossût di instalâ un component adizionâl?
+xpinstall-prompt-message-unknown = Tu stâs cirint di instalâ un component adizionâl di un sît no cognossût. Siguriti che chest sît al sedi afidabil prime di continuâ.
 xpinstall-prompt-dont-allow =
     .label = No sta permeti
     .accesskey = D
@@ -45,7 +44,6 @@ xpinstall-disabled = In chest moment la instalazion di software e je disativade.
 xpinstall-disabled-button =
     .label = Ative
     .accesskey = a
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
@@ -54,14 +52,12 @@ addon-install-blocked-by-policy = { $addonName } ({ $addonId }) al è stât bloc
 # This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
 addon-domain-blocked-by-policy = L'aministradôr dal to sisteme al à impedît a chest sît di domandâti di instalâ software sul computer.
 addon-install-full-screen-blocked = La instalazion di zontis no je ametude cuant che si è o prime di jentrâ in modalitât plen visôr.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = { $addonName } zontât a { -brand-short-name }
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = { $addonName } al à bisugne di gnûfs permès
-
 # This message is shown when one or more extensions have been imported from a
 # different browser into Firefox, and the user needs to complete the import to
 # start these extensions. This message is shown in the appmenu.
@@ -77,7 +73,6 @@ addon-removal-title = Gjavâ { $name }?
 addon-removal-message = Gjavâ { $name } di { -brand-shorter-name }?
 addon-removal-button = Gjave
 addon-removal-abuse-report-checkbox = Segnale cheste estension a { -vendor-short-name }
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -86,7 +81,6 @@ addon-downloading-and-verifying =
        *[other] Daûr a discjariâ e verificâ { $addonCount } components adizionâi…
     }
 addon-download-verifying = Daûr a verificâ
-
 addon-install-cancel-button =
     .label = Anule
     .accesskey = A
@@ -115,17 +109,17 @@ addon-confirm-install-some-unsigned-message = Atenzion: chest sît al desidere i
 ## Variables:
 ##   $addonName (String): the add-on name.
 
-addon-install-error-network-failure = Nol è stât pussibil discjariâ la zonte par vie di un probleme di conession.
-addon-install-error-incorrect-hash = Nol è stât pussibil instalâ la zonte par vie che no corispuint la zonte { -brand-short-name } spietade.
-addon-install-error-corrupt-file = No si pues instalâ la zonte discjariade di chest sît par vie che e somee ruvinade.
+addon-install-error-network-failure = Nol è stât pussibil discjariâ il component adizionâl par vie di un probleme di conession.
+addon-install-error-incorrect-hash = Nol è stât pussibil instalâ il component adizionâl par vie che nol corispuint al component adizionâl { -brand-short-name } spietât.
+addon-install-error-corrupt-file = Impussibil instalâ il component adizionâl discjariât di chest sît par vie che al somee ruvinât.
 addon-install-error-file-access = No si à podût instalâ { $addonName } parcè che { -brand-short-name } nol pues modificâ il file necessari.
-addon-install-error-not-signed = { -brand-short-name } al à impedît a chest sît di instalâ une zonte no verificade.
-addon-install-error-invalid-domain = Nol è pussibil instalâ la zonte { $addonName } di cheste posizion.
-addon-local-install-error-network-failure = No si à podût instalâ cheste zonte par vie di un erôr tal filesystem.
-addon-local-install-error-incorrect-hash = No si à podût instalâ cheste zonte parcè che no corispuint ae zonte { -brand-short-name } spietade.
-addon-local-install-error-corrupt-file = No si à podût instalâ cheste zonte parcè che e somee ruvinade.
+addon-install-error-not-signed = { -brand-short-name } al à impedît a chest sît di instalâ un component adizionâl no verificât.
+addon-install-error-invalid-domain = Nol è pussibil instalâ il component adizionâl { $addonName } di cheste direzion.
+addon-local-install-error-network-failure = Impussibil instalâ chest component adizionâl par vie di un erôr tal filesystem.
+addon-local-install-error-incorrect-hash = Impussibil instalâ chest component adizionâl parcè che nol corispuint al component adizionâl { -brand-short-name } spietât.
+addon-local-install-error-corrupt-file = Impussibil instalâ chest component adizionâl parcè che al somee ruvinât.
 addon-local-install-error-file-access = No si à podût instalâ { $addonName } parcè che { -brand-short-name } nol pues modificâ il file necessari.
-addon-local-install-error-not-signed = No si à podût instalâ cheste zonte parcè che no je stade verificade.
+addon-local-install-error-not-signed = Impussibil instalâ chest component adizionâl parcè che nol è stât verificât.
 # Variables:
 #   $appVersion (String): the application version.
 addon-install-error-incompatible = Nol è stât pussibil instalâ { $addonName } parcè che no je compatibile cun { -brand-short-name } { $appVersion }.
