@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Haadwachtwurd ynfiere
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Mear ynfo</a>
 firefoxview-tabpickup-signed-out-header = Oanmelde om opnij te ferbinen
 firefoxview-tabpickup-signed-out-description = Meld jo oan by jo { -fxaccount-brand-name } om opnij te ferbinen en jo ljepblêden op te pakken.
+firefoxview-tabpickup-signed-out-description2 = Meld jo oan by jo account om opnij te ferbinen en jo ljepblêden op te heljen.
 firefoxview-tabpickup-signed-out-primarybutton = Oanmelde
 firefoxview-tabpickup-syncing = Bliuw sitten wylst jo ljepblêden syngronisearje. It duorret mar in amerijke.
 firefoxview-mobile-promo-header = Iepenje ljepblêden fan jo telefoan of tablet

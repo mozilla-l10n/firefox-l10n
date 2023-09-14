@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Gjin netwurkferbining
 shopping-message-bar-warning-offline-message = Kontrolearje jo netwurkferbining. Probearje dan de side opnij te laden.
 shopping-message-bar-analysis-in-progress-title = Analyze folget ynkoarten
 shopping-message-bar-analysis-in-progress-message = As it klear is, sille wy hjir automatysk de bywurke ynformaasje sjen litte.
+shopping-message-bar-page-not-supported-title = Wy kinne dizze beoardieling net kontrolearje
+shopping-message-bar-page-not-supported-message = Spitigernôch kinne wy de beoardielingskwaliteit net kontrolearje foar bepaalde soarten produkten. Bygelyks kadokaarten en streaming fideo, muzyk en spultsjes.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
