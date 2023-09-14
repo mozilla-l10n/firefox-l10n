@@ -17,6 +17,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Надійні відгуки
+shopping-letter-grade-description-c = Поєднання надійних і сумнівних відгуків
+shopping-letter-grade-description-df = Сумнівні відгуки
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -28,6 +31,13 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Доступні оновлення
+shopping-message-bar-warning-stale-analysis-message = Запустіть аналізатор { -fakespot-brand-full-name }, щоб отримати оновлену інформацію приблизно за 60 секунд.
+shopping-message-bar-generic-error-message = Ми працюємо над усуненням проблеми. Поверніться згодом.
+shopping-message-bar-warning-not-enough-reviews-title = Ще недостатньо відгуків
+shopping-message-bar-warning-not-enough-reviews-message = Коли на цей продукт буде більше відгуків, ми зможемо їх проаналізувати.
+shopping-message-bar-warning-product-not-available-title = Товар відсутній
+shopping-message-bar-warning-product-not-available-button = Повідомити, що цей товар знову в наявності
+shopping-message-bar-thanks-for-reporting-title = Дякуємо за повідомлення!
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
