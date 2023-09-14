@@ -1152,6 +1152,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Racuelte e ûs dai dâts di { -brand-short-name }
+collection-header2 = Racuelte e utilizazion dâts di { -brand-short-name }
+    .searchkeywords = telemetrie
 collection-description = O cirìn di dâ ai utents la pussibilitât si sielzi e tirâ dongje dome i dâts necessaris par realizâ e miorâ { -brand-short-name } par ducj. O domandìn simpri il permès prime di ricevi informazions personâls.
 collection-privacy-notice = Informative su la riservatece
 collection-health-report-telemetry-disabled = No tu stâs plui permetint a { -vendor-short-name } di caturâ dâts tecnics e di interazion. Ducj i dâts esistents a vignaran eliminâts chi di 30 dîs.

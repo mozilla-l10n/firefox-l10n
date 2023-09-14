@@ -48,6 +48,7 @@ shopping-message-bar-warning-offline-title = Nissune conession di rêt
 shopping-message-bar-warning-offline-message = Controle la tô conession di rêt e prove a tornâ a cjariâ la pagjine.
 shopping-message-bar-analysis-in-progress-title = Analisi disponibile ca di pôc
 shopping-message-bar-analysis-in-progress-message = Al completament, o mostrarìn achì in automatic lis informazions inzornadis.
+shopping-message-bar-page-not-supported-title = Impussibil verificâ chestis recensions
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

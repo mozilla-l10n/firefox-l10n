@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Inserìs la password prima
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Altris informazions</a>
 firefoxview-tabpickup-signed-out-header = Jentre par tornâ a conetiti
 firefoxview-tabpickup-signed-out-description = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre tal to { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Par tornâ a conetiti e recuperâ lis tôs schedis, jentre sul to account.
 firefoxview-tabpickup-signed-out-primarybutton = Jentre
 firefoxview-tabpickup-syncing = Sentiti cuiet intant che a vegnin sincronizadis lis tôs schedis. Al bastarà un moment.
 firefoxview-mobile-promo-header = Recupere lis schedis viertis sul to telefon o taulete

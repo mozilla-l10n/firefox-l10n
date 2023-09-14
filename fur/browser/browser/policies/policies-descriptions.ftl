@@ -28,6 +28,7 @@ policy-CertificatesDescription = Zonte certificâts o dopre i certificâts integ
 policy-Cookies = Permet o dinee ai sîts web di definî cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Stabilìs lis politichis relativis ai contignidôrs.
+policy-DisableAccounts = Disative i servizis basâts su accounts, sincronizazion includude.
 policy-DisabledCiphers = Disative cifris.
 policy-DefaultDownloadDirectory = Stabilìs la cartele predefinide pai file discjariâts.
 policy-DisableAppUpdate = Impedìs al navigadôr di inzornâsi.
