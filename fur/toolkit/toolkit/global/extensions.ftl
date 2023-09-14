@@ -25,23 +25,20 @@ webext-perms-add =
 webext-perms-cancel =
     .label = Anule
     .accesskey = A
-
-webext-perms-sideload-text = Un altri program sul to computer al à zontât une zonte che e podarès lâ a tocjâ il funzionament dal navigadôr. Verifiche i permès domandâts di cheste zonte e sielç se Ativâ o Anulâ (par tegnîle disativade).
-webext-perms-sideload-text-no-perms = Un altri program sul to computer al à instalât une zonte che e podarès lâ a tocjâ il funzionament dal navigadôr. Sielç se Ativâ o Anulâ (par lassâle disativade).
+webext-perms-sideload-text = Un altri program sul to computer al à zontât un component adizionâl che al podarès lâ a tocjâ il funzionament dal navigadôr. Verifiche i permès domandâts di chest component adizionâl e sielç se Ativâ o Anulâ (par tignîlu disativât).
+webext-perms-sideload-text-no-perms = Un altri program sul to computer al à instalât un component adizionâl che al podarès lâ a tocjâ il funzionament dal navigadôr. Sielç se Ativâ o Anulâ (par lassâlu disativât).
 webext-perms-sideload-enable =
     .label = Ative
     .accesskey = E
 webext-perms-sideload-cancel =
     .label = Anule
     .accesskey = A
-
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
 webext-perms-update-text = { $extension } al è stât inzornât. Tu scugnis aprovâ i gnûfs permès prime di instalâ la gnove version. Selezionant “Anule” tu tignarâs la version corinte de estension. Cheste estension e varà i permès par:
 webext-perms-update-accept =
     .label = Inzorne
     .accesskey = I
-
 webext-perms-optional-perms-list-intro = Al desidere:
 webext-perms-optional-perms-allow =
     .label = Permet
@@ -49,13 +46,10 @@ webext-perms-optional-perms-allow =
 webext-perms-optional-perms-deny =
     .label = Dinee
     .accesskey = D
-
 webext-perms-host-description-all-urls = Acedi ai tiei dâts di ducj i sîts web
-
 # Variables:
 #   $domain (String): will be replaced by the DNS domain for which a webextension is requesting access (e.g., mozilla.org)
 webext-perms-host-description-wildcard = Acedi ai tiei dâts dai sîts tal domini { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.
@@ -67,7 +61,6 @@ webext-perms-host-description-too-many-wildcards =
 # Variables:
 #   $domain (String): will be replaced by the DNS host name for which a webextension is requesting access (e.g., www.mozilla.org)
 webext-perms-host-description-one-site = Acedi ai tiei dâts par { $domain }
-
 # Variables:
 #   $domainCount (Number): Integer indicating the number of additional
 #     hosts for which this webextension is requesting permission.

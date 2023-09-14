@@ -211,7 +211,7 @@ addon-updates-manual-updates-found = Viôt i inzornaments disponibii
 
 addon-install-from-file = Instale component adizionâl di file…
     .accesskey = I
-addon-install-from-file-dialog-title = Sielç une zonte di instalâ
+addon-install-from-file-dialog-title = Sielç i components adizionâi di instalâ
 addon-install-from-file-filter-name = Components adizionâi
 addon-open-about-debugging = Debug components adizionâi
     .accesskey = b
