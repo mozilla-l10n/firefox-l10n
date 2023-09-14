@@ -1160,6 +1160,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Hromadźenje a wužiwanje datow { -brand-short-name }
+collection-header2 = Hromadźenje a wužiwanje datow { -brand-short-name }
+    .searchkeywords = telemetrija
 collection-description = Chcemy was z wuběrami wobstarać a jenož to zběrać, štož dyrbimy poskićić, zo bychmy { -brand-short-name } za kóždeho polěpšili. Prosymy přeco wo dowolnosć, prjedy hač wosobinske daty dóstanjemy.
 collection-privacy-notice = Zdźělenka priwatnosće
 collection-health-report-telemetry-disabled = Sće { -vendor-short-name } dowolnosć zebrał, techniske a interakciske daty hromadźić. Wšě dotal zhromadźene daty so w běhu 30 dnjow zhašeja.
