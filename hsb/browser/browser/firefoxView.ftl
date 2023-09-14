@@ -64,6 +64,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Hłowne hesło zapodać
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dalše informacije</a>
 firefoxview-tabpickup-signed-out-header = Přizjewće so, zo byšće zaso zwjazał
 firefoxview-tabpickup-signed-out-description = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Zo byšće so zaso zwjazował a přistup k swojim rajtarkam měł, přizjewće so pola swojeho konta.
 firefoxview-tabpickup-signed-out-primarybutton = Přizjewić
 firefoxview-tabpickup-syncing = Wočakajće, mjeztym zo so waše rajtarki synchronizuja. Budźe jenož wokomik trać.
 firefoxview-mobile-promo-header = Wobstarajće sej rajtarki ze swojeho šmóratka abo tableta

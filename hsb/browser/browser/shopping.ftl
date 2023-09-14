@@ -48,6 +48,7 @@ shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
 
 shopping-highlight-price = Płaćizna
 shopping-highlight-quality = Kwalita
+shopping-highlight-shipping = Rozpósłanje
 
 ## Strings for show more card
 
