@@ -38,6 +38,8 @@ translations-panel-settings-always-translate-language =
     .label = Käännä { $language } aina
 translations-panel-settings-always-translate-unknown-language =
     .label = Käännä tämä kieli aina
+translations-panel-settings-always-offer-translation =
+    .label = Tarjoa aina käännöstä
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -114,12 +116,6 @@ translations-manage-description = Lataa kieliä yhteydettömän tilan käännök
 translations-manage-all-language = Kaikki kielet
 translations-manage-download-button = Lataa
 translations-manage-delete-button = Poista
-translations-manage-language-download-button =
-    .label = Lataa
-    .accesskey = L
-translations-manage-language-delete-button =
-    .label = Poista
-    .accesskey = P
 translations-manage-error-download = Kielitiedostoja ladattaessa ilmeni ongelma. Yritä uudelleen.
 translations-manage-error-delete = Kielitiedostoja poistettaessa tapahtui virhe. Yritä uudelleen.
 translations-manage-intro = Aseta kieli- ja sivustokäännösasetukset ja hallitse yhteydettömän tilan käännöksiä varten asennettuja kieliä.

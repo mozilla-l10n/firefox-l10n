@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Kirjoita pääsalasana
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Lisätietoja</a>
 firefoxview-tabpickup-signed-out-header = Kirjaudu yhdistääksesi uudelleen
 firefoxview-tabpickup-signed-out-description = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään { -fxaccount-brand-name }llesi.
+firefoxview-tabpickup-signed-out-description2 = Muodosta yhteys uudelleen ja nouda välilehdet kirjautumalla sisään tilillesi.
 firefoxview-tabpickup-signed-out-primarybutton = Kirjaudu sisään
 firefoxview-tabpickup-syncing = Odota, kun välilehdet synkronoidaan. Siinä kestää vain hetki.
 firefoxview-mobile-promo-header = Nappaa välilehtiä puhelimestasi tai tabletistasi

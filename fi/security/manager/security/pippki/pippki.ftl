@@ -57,6 +57,11 @@ client-auth-window =
     .title = Käyttäjän todentamispyyntö
 client-auth-site-description = Sivusto pyytää sinua todentamaan itsesi varmenteella:
 client-auth-choose-cert = Valitse todentavana esitettävä varmenne:
+client-auth-send-no-certificate =
+    .label = Älä lähetä varmennetta
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = "{ $hostname }" on pyytänyt sinua tunnistamaan itsesi varmenteella:
 client-auth-cert-details = Valitun varmenteen yksityiskohdat:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
