@@ -136,3 +136,4 @@ shopping-unanalyzed-product-analyze-link = Avvia lo strumento di analisi su { -f
 more-to-consider-ad-label =
     .label = Altri prodotti da valutare
 ad-by-fakespot = Annuncio di { -fakespot-brand-name }
+

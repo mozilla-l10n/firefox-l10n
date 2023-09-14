@@ -256,3 +256,4 @@ firefoxview-syncedtabs-device-notabs = Nessuna scheda aperta in questo dispositi
 
 firefoxview-syncedtabs-connect-another-device = Connetti un altro dispositivo
 
+
