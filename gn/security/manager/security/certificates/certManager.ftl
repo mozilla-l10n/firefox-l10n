@@ -15,7 +15,7 @@ certmgr-tab-servers =
 certmgr-tab-ca =
     .label = Moakãhára
 certmgr-mine = Oguereko mboajepyréva ko’ã atyguasúpe omoha’eñóva
-certmgr-remembered = Ko’ã mboajepyréva ojepuru ojehecha hag̃ua ñanduti rendápe
+certmgr-remembered = Ko’ã mboajepyréva ojeporu ojehecha hag̃ua ñanduti rendápe
 certmgr-people = Eguereko mboajepyréva marandurendápe oikuaaporãva ko’ã tapicha
 certmgr-server = Ko’ã jeikeha ohechakuaa jejavy mohendahavusu mboajepyréva rehegua
 certmgr-ca = Oreko mboajepyréva marandurendápe omoha’eñóva ko’ã moakãhára mboajehára
@@ -147,7 +147,7 @@ send-no-client-certificate = Ani emondo ñemuhára mboajepyréva
 # Used when no cert is stored for an override
 no-cert-stored-for-override = (Oñeñongatu’ỹva)
 # When a certificate is unavailable (for example, it has been deleted or the token it exists on has been removed).
-certificate-not-available = (Ndojepurukuaáiva)
+certificate-not-available = (Ndojeporukuaáiva)
 
 ## Used to show whether an override is temporary or permanent
 

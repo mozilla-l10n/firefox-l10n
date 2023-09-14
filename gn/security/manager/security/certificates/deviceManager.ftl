@@ -94,7 +94,7 @@ load-module-help-empty-module-name =
     .value = Ha’ãha réra ndaikatúi opyta nandi.
 # Do not translate 'Root Certs'
 load-module-help-root-certs-module-name =
-    .value = ‘Root Certs‘ oñeñongatúma ha ndojepurukuaái ta’ãha réra rupi.
+    .value = ‘Root Certs‘ oñeñongatúma ha ndojeporukuaái ta’ãha réra rupi.
 add-module-failure = Ndaikatúi embojuapy pe ha’ãha
 del-module-warning = Añetehápepa remboguese ko tekorosãrã ra’ãha?
 del-module-error = Ndaikatúi emboguete pe ha’ãha
