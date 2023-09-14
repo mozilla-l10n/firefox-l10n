@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Hoofdwachtwoord invoeren
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Meer info</a>
 firefoxview-tabpickup-signed-out-header = Aanmelden om opnieuw te verbinden
 firefoxview-tabpickup-signed-out-description = Meld u aan bij uw { -fxaccount-brand-name } om opnieuw te verbinden en uw tabbladen op te halen.
+firefoxview-tabpickup-signed-out-description2 = Meld u aan bij uw account om opnieuw te verbinden en uw tabbladen op te halen.
 firefoxview-tabpickup-signed-out-primarybutton = Aanmelden
 firefoxview-tabpickup-syncing = Een ogenblik, uw tabbladen worden gesynchroniseerd.
 firefoxview-mobile-promo-header = Haal tabbladen op van uw telefoon of tablet

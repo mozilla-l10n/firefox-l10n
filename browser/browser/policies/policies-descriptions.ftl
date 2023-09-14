@@ -28,6 +28,7 @@ policy-CertificatesDescription = Certificaten toevoegen of ingebouwde certificat
 policy-Cookies = Toestaan of weigeren dat websites cookies instellen.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Beleid met betrekking tot containers instellen.
+policy-DisableAccounts = Accountgebaseerde services uitschakelen, waaronder synchronisatie.
 policy-DisabledCiphers = Coderingssuites uitschakelen.
 policy-DefaultDownloadDirectory = Standaard downloadmap instellen.
 policy-DisableAppUpdate = Voorkomen dat de browser wordt bijgewerkt.
