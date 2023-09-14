@@ -37,6 +37,7 @@ shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyr
 shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
 shopping-message-bar-warning-product-not-available-reported-title = Ñehesa’ỹijo ojepurukuaapotáva
 shopping-message-bar-warning-offline-title = Ndaikatúi eike ñandutípe
+shopping-message-bar-analysis-in-progress-title = Ñehesa’ỹijo ojepurukuaapotáva
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -48,6 +49,7 @@ shopping-message-bar-warning-offline-title = Ndaikatúi eike ñandutípe
 ## Strings for the product review snippets card
 
 shopping-highlight-price = Tepy
+shopping-highlight-quality = Mba’eporã
 shopping-highlight-shipping = Ñemuhaguasu
 shopping-highlight-packaging = Mbohyruha
 
@@ -72,6 +74,10 @@ shopping-settings-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Embojuruja tenda yke jejoguaha
+shopping-sidebar-close-button =
+    .tooltiptext = Emboty tenda yke jejoguaha
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on

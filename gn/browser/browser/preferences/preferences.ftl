@@ -1152,6 +1152,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jepuru
+collection-header2 = { -brand-short-name } Ñembyaty ha mba’ekuaarã jepuru
+    .searchkeywords = telemetría
 collection-description = Roñeha’ãmbaite rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure tapia ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
 collection-health-report-telemetry-disabled = Nomoneĩvéima { -vendor-short-name } ojapyhývo mba’ekuaarã aporekogua ha oñondiveguáva. Opaite mba’ekuaarã itujavéva oguéta 30 ára ohasávo.

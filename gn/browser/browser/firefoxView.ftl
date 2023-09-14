@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Ehai Ñe’ẽñemi Ha’e
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Eikuaave</a>
 firefoxview-tabpickup-signed-out-header = Eñepyrũ tembiapo eikejey hag̃ua
 firefoxview-tabpickup-signed-out-description = Eikejey ha ereko hag̃ua ne rendayke, emoñepyrũ tembiapo nde { -fxaccount-brand-name }-pe.
+firefoxview-tabpickup-signed-out-description2 = Eikejey ha ereko hag̃ua ne rendayke, emoñepyrũ tembiapo ne mba’etépe.
 firefoxview-tabpickup-signed-out-primarybutton = Eñepyrũ tembiapo
 firefoxview-tabpickup-syncing = Eha’arõ tendayke toñembojuehe. Ndahi’aremo’ãi.
 firefoxview-mobile-promo-header = Ehecha tendayke ne pumbyry térã tabléta rupive
