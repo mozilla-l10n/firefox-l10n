@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduly protokolovania na diagnostiku problémov volaní WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduly protokolovania na diagnostiku problémov s WebGPU
+about-logging-preset-gfx-label = Grafika
+about-logging-preset-gfx-description = Moduly protokolovania na diagnostiku problémov s grafikou
 about-logging-preset-custom-label = Vlastná
 about-logging-preset-custom-description = Moduly protokolovania zvolené manuálne
 # Error handling

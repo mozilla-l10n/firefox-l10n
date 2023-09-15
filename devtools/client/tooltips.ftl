@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Vlastnosť <strong>{ $property }</strong> nemá na 
 inactive-css-not-flex-container = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o kontajner typu flex.
 inactive-css-not-inline-or-tablecell = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože nejde o vložený prvok ani prvok tabuľky.
 inactive-css-first-line-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::placeholder.
 inactive-css-property-because-of-display = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože tento má nastavenú vlastnosť display na hodnotu <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Hodnota vlastnosti <strong>display</strong> bola vykresľovačom zmenená na <strong>block</strong>, pretože prvok je má nastavený <strong>float</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = Vlastnosť <strong>{ $proper
 inactive-css-border-image = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože ju nemožno použiť na interné prvky tabuľky, kde je vlastnosť <strong>border-collapse</strong> na nadradenom prvku tabuľky nastavená na hodnotu <strong>collapse</strong>.
 inactive-css-ruby-element = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože je to prvok ruby. Jeho veľkosť je určená veľkosťou písma textu prvku ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie je podporované na zvýraznených pseudoprvkoch.
+inactive-css-cue-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
