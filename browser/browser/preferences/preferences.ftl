@@ -1004,7 +1004,8 @@ addressbar-quickactions-learn-more = Ulteriori informazioni
 content-blocking-enhanced-tracking-protection = Protezione antitracciamento avanzata
 content-blocking-section-top-level-description = Gli elementi traccianti ti seguono online al fine di raccogliere informazioni sui tuoi interessi e le tue abitudini di navigazione. { -brand-short-name } blocca molti di questi traccianti e altri script dannosi.
 content-blocking-learn-more = Ulteriori informazioni
-content-blocking-fpi-incompatibility-warning = La funzione First Party Isolation (FPI) è attualmente attiva e sostituisce alcune impostazioni di { -brand-short-name } relative ai cookie.
+content-blocking-fpi-incompatibility-warning = La funzione First Party Isolation (FPI) è al momento attiva e sostituisce alcune impostazioni di { -brand-short-name } relative ai cookie.
+content-blocking-rfp-incompatibility-warning = La funzione Resist Fingerprinting (RFP) è al momento attiva e sostituisce alcune impostazioni di { -brand-short-name } relative alla protezione dai fingerprinter. Questo potrebbe causare il malfunzionamento di alcuni siti.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
