@@ -13,6 +13,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } non ha trovato a
 ##
 
 firefox-relay-must-login-to-fxa = È necessario accedere all’{ -fxaccount-brand-name } per utilizzare { -relay-brand-name }.
+firefox-relay-must-login-to-account = È necessario accedere al tuo account per utilizzare gli alias email di { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Gestisci alias
     .accesskey = G
