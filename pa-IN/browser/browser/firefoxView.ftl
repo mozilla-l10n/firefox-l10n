@@ -39,6 +39,7 @@ firefoxview-tabpickup-synctabs-primarybutton = ਖੁੱਲ੍ਹੀਆਂ ਟ�
 firefoxview-syncedtabs-synctabs-header = ਆਪਣੀਆਂ ਸਿੰਕ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ
 firefoxview-syncedtabs-synctabs-description = ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਵੇਖਣ ਵਾਸਤੇ ਤੁਹਾਨੂੰ ਆਪਣੀਆਂ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨਾ ਪਵੇਗਾ।
 firefoxview-syncedtabs-synctabs-checkbox = ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ
+firefoxview-syncedtabs-loading-header = ਸਿੰਕ ਜਾਰੀ ਹੈ
 firefoxview-tabpickup-fxa-admin-disabled-header = ਤੁਹਾਡੇ ਸੰਗਠਨ ਨੇ ਲਿੰਕ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੈ
 firefoxview-tabpickup-fxa-admin-disabled-description = ਤੁਹਾਡੇ ਪਰਸ਼ਾਸ਼ਕ ਵਲੋਂ ਸਿੰਕ ਕਰਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਹੋਇਆ ਹੋਣ ਕਰਕੇ { -brand-short-name } ਟੈਬਾਂ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸਿੰਕ ਕਰਨ ਦੇ ਸਮਰੱਥ ਨਹੀਂ ਹੈ।
 firefoxview-tabpickup-network-offline-header = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਦੀ ਜਾਂਚ ਕਰੋ
@@ -194,3 +195,4 @@ firefoxview-recentlyclosed-empty-header = ਟੈਬ ਬਹੁਤ ਕਾਹਲੀ
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = ਇਸ ਡਿਵਾਈਸ ਉੱਤੇ ਕੋਈ ਟੈਬ ਨਹੀਂ ਖੁੱਲ੍ਹੀ ਹੈ
+firefoxview-syncedtabs-connect-another-device = ਹੋਰ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ

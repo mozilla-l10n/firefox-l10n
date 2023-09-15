@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = ਇਹ ਸੂਚਨਾ ਬੰਦ ਕਰੋ
 alert-settings-title =
     .tooltiptext = ਸੈਟਿੰਗਾਂ
+
+## Reminder Notifications
+
+notification-default-dismiss = ਖ਼ਾਰਜ ਕਰੋ
