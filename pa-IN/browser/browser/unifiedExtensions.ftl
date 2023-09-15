@@ -41,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਹੈ
 unified-extensions-mb-quarantined-domain-message = ਤੁਹਾਡੇ ਡਾਟੇ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਇਸ ਸਾਈਟ ਉੱਤੇ { -vendor-short-name } ਵਲੋਂ ਨਿਗਰਾਨੀ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਮਨਜ਼ੂਰੀ ਹੈ।
+unified-extensions-mb-quarantined-domain-message-2 = ਤੁਹਾਡੇ ਡਾਟੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਲਈ ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਇਸ ਸਾਈਟ ਉੱਤੇ ਡਾਟਾ ਪੜ੍ਹ ਜਾਂ ਬਦਲ ਨਹੀਂ ਸਕਦੀਆਂ ਹਨ। ਇਕਸਟੈਨਸ਼ਨ ਦੀ ਸੈਟਿੰਗਾਂ ਨੂੰ { -vendor-short-name } ਵਲੋਂ ਪਾਬੰਦੀ ਲਾਈਆਂ ਸਾਈਟਾਂ ਉੱਤੇ ਮਨਜ਼ੂਰੀ ਦੇਣ ਲਈ ਵਰਤੋਂ।

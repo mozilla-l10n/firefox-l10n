@@ -31,6 +31,8 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
 shopping-message-bar-warning-offline-title = ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ
+shopping-message-bar-warning-offline-message = ਆਪਣੇ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ। ਫ਼ੇਰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+shopping-message-bar-analysis-in-progress-title = ਵਿਸ਼ਲੇਸ਼ਣ ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
