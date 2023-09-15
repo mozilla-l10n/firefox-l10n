@@ -158,6 +158,7 @@ language-name-ro = რუმინული
 language-name-ru = რუსული
 language-name-rw = კინიარუანდა
 language-name-sa = სანსკრიტი
+language-name-sat = სანტალი
 language-name-sc = სარდინიული
 language-name-sco = შოტლანდიური
 language-name-sd = სინდი

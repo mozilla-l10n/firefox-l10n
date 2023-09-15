@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = მოდულების აღრიცხვა WebRTC-გამოძახების ხარვეზების გამოსავლენად
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = მოდულების აღრიცხვა WebGPU-ის ხარვეზების გამოსავლენად
+about-logging-preset-gfx-label = გრაფიკა
+about-logging-preset-gfx-description = მოდულების აღრიცხვა გრაფიკის ხარვეზების გამოსავლენად
 about-logging-preset-custom-label = მითითებული
 about-logging-preset-custom-description = აღრიცხვის მოდულები ხელითაა შერჩეული
 # Error handling
