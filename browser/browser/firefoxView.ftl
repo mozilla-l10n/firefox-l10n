@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Введіть голов�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Докладніше</a>
 firefoxview-tabpickup-signed-out-header = Увійдіть, щоб відновити з'єднання
 firefoxview-tabpickup-signed-out-description = Щоб відновити з'єднання та отримати вкладки, увійдіть у свій { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Щоб відновити з'єднання та побачити вкладки, увійдіть у свій обліковий запис.
 firefoxview-tabpickup-signed-out-primarybutton = Увійти
 firefoxview-tabpickup-syncing = Заждіть, доки синхронізуються вкладки. Це триватиме лише мить.
 firefoxview-mobile-promo-header = Отримайте вкладки зі свого телефона чи планшета
