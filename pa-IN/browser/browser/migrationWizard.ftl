@@ -222,6 +222,7 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $quantity } ਇਕਸਟੈਨਸ਼ਨਾਂ ਵਿੱਚੋਂ { $matched }
+migration-wizard-progress-extensions-support-link = ਜਾਣੋ ਕਿ { -brand-product-name } ਕਿਵੇਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਨੂੰ ਮਿਲਾਉਂਦਾ ਹੈ
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = ਕੋਈ ਵੀ ਮਿਲਦੀ ਇਕਸਟੈਨਸ਼ਨ ਨਹੀਂ ਹੈ
