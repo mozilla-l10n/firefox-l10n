@@ -14,6 +14,7 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Pålitelege vurderingar
 shopping-letter-grade-description-df = Upålitelege vurderingar
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
@@ -29,8 +30,12 @@ shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
 shopping-message-bar-generic-error-title = Analysen er ikkje tilgjengeleg akkurat no
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
+shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
 shopping-message-bar-warning-product-not-available-reported-title = Analysar kjem snart
+shopping-message-bar-warning-offline-title = Inga nettverkstilkopling
+shopping-message-bar-warning-offline-message = Kontroller nettverkstilkoplinga di. Oppdater deretter sida.
 shopping-message-bar-analysis-in-progress-title = Analysar kjem snart
+shopping-message-bar-page-not-supported-title = Vi klarer ikkje å kontrollere desse vurderingane
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -38,11 +43,16 @@ shopping-message-bar-analysis-in-progress-title = Analysar kjem snart
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Start analysator på { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Høgdepunkt frå nylege vurderingar
 shopping-highlight-price = Pris
 shopping-highlight-quality = Kvalitet
+shopping-highlight-competitiveness = Konkurranseevne
+shopping-highlight-packaging = Innpakking
 
 ## Strings for show more card
 
@@ -65,6 +75,10 @@ shopping-settings-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Opne sidestolpen Shopping
+shopping-sidebar-close-button =
+    .tooltiptext = Lat att sidestolpen Shopping
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
