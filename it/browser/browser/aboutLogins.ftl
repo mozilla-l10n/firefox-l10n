@@ -84,6 +84,7 @@ about-logins-login-intro-heading-logged-out2 = Stai cercando le credenziali che 
 about-logins-login-intro-heading-logged-in = Credenziali sincronizzate non trovate.
 login-intro-description = Se le credenziali sono salvate in { -brand-product-name } su un altro dispositivo, ecco come renderle disponibili qui:
 login-intro-instructions-fxa = Accedi o crea un { -fxaccount-brand-name } sul dispositivo dove sono salvate le credenziali.
+login-intro-instructions-fxa2 = Accedi al tuo account o creane uno nuovo sul dispositivo dove sono salvate le credenziali.
 login-intro-instructions-fxa-settings = Apri Impostazioni > Sincronizzazione > Attiva sincronizzazione… e seleziona la casella Credenziali e password.
 
 login-intro-instructions-fxa-passwords-help = Visita la pagina di <a data-l10n-name="passwords-help-link">supporto per le password</a> per ottenere aiuto.
@@ -202,6 +203,7 @@ about-logins-confirm-remove-all-sync-dialog-title =
   }
 
 about-logins-confirm-remove-all-sync-dialog-message = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con l’{ -fxaccount-brand-name }. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
+about-logins-confirm-remove-all-sync-dialog-message2 = Questa operazione rimuoverà le credenziali salvate in { -brand-short-name } su tutti i dispositivi sincronizzati con il tuo account. Anche i relativi avvisi sulle violazioni verranno rimossi. Non sarà possibile annullare questa operazione.
 
 ##
 
