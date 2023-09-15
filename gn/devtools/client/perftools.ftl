@@ -32,7 +32,7 @@ perftools-description-intro =
 perftools-description-local-build =
     Ojehechahína peteĩ ñembyaty ejapova’ekue ndete ko
     mohendahápe, embojuaju pe objdir hesegua tysýi oĩva yvy gotyo ikatu hag̃ua
-    ojepuru ojeheka hag̃ua marandu ta’ãnga’i rehegua.
+    ojeporu ojeheka hag̃ua marandu ta’ãnga’i rehegua.
 
 ## The controls for the interval at which the profiler samples the code.
 

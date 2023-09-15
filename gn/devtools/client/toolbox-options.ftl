@@ -18,7 +18,7 @@ options-tool-not-supported-label = * Ndojokupytýi mba’epuru ag̃agua tembipor
 options-select-additional-tools-label = Tembiporu Mboguatahára moĩmbaha omohendapyréra
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
-options-select-enabled-toolbox-buttons-label = Tembiporu Ryru ojepurukuaáva
+options-select-enabled-toolbox-buttons-label = Tembiporu Ryru ojeporukuaáva
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = Mbojeguaha
 

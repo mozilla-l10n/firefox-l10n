@@ -169,8 +169,8 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = ¿Emoneĩ { $ori
 
 ##
 
-webrtc-share-screen-warning = Emoherakuã mba’erechaha tenda ejeroviahápe. Jepuru oñondivegua omoneĩkuaa tenda imarãva oipykúivo ndéramo ha omonda ne mba’ekuaarã ñemigua.
-webrtc-share-browser-warning = Emoherakuã { -brand-short-name } rendakuéra ejeroviahápe añoite. Jepuru oñondivegua omoneĩkuaa tenda imarãva nemyendaguévo ha omonda ne mba’ekuaarã ñemigua.
+webrtc-share-screen-warning = Emoherakuã mba’erechaha tenda ejeroviahápe. Jeporu oñondivegua omoneĩkuaa tenda imarãva oipykúivo ndéramo ha omonda ne mba’ekuaarã ñemigua.
+webrtc-share-browser-warning = Emoherakuã { -brand-short-name } rendakuéra ejeroviahápe añoite. Jeporu oñondivegua omoneĩkuaa tenda imarãva nemyendaguévo ha omonda ne mba’ekuaarã ñemigua.
 webrtc-share-screen-learn-more = Jekuaave
 webrtc-pick-window-or-screen = Eiporavo ovetã térã mba’erechaha
 webrtc-share-entire-screen = Mba’erechaha tuichakue
