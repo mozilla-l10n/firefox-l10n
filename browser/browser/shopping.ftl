@@ -68,15 +68,27 @@ shopping-settings-opt-out-button = Kontrolu pógódnośenjow znjemóžniś
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Pśměrjone pógódnośowanje
+shopping-adjusted-rating-unreliable-reviews = Njespušćobne pógódnośenja wótwónoźone
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Kak spušćobne toś te pógódnośenja su?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Kak kwalitu pógódnośenja póstajamy
+shopping-analysis-explainer-learn-more = Zgóńśo wěcej wó tom, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pógódnośenja póstaja</a>.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Nakupowańsku bocnicu wócyniś
+shopping-sidebar-close-button =
+    .tooltiptext = Nakupowańsku bocnicu zacyniś
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -85,6 +97,10 @@ shopping-settings-opt-out-button = Kontrolu pógódnośenjow znjemóžniś
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Hyšći žedna analyza za toś te pógódnośenja
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Dalšne móžnosći
+ad-by-fakespot = Wabjenje wót { -fakespot-brand-name }
