@@ -157,6 +157,17 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ## Variables:
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
+webrtc-allow-share-audio-capture = Aotren { $origin } da selaou ouzh aodio an ivinell?
+webrtc-allow-share-camera = Aotren { $origin } da arverañ ho kamera?
+webrtc-allow-share-microphone = Aotren { $origin } da arverañ ho klevell?
+webrtc-allow-share-screen = Aotren  { $origin } da welet ho skramm?
+# "Speakers" is used in a general sense that might include headphones or
+# another audio output connection.
+webrtc-allow-share-speaker = Aotren { $origin } da implij uhelgomzerioù all?
+webrtc-allow-share-camera-and-microphone = Aotren { $origin } da arverañ ho kamera hag ho klevell?
+webrtc-allow-share-camera-and-audio-capture = Aotren { $origin } da arverañ ho kamera ha da selaou ouzh aodio an ivinell?
+webrtc-allow-share-screen-and-microphone = Aotren { $origin } da arveran ho mikro ha da welet ho skramm?
+webrtc-allow-share-screen-and-audio-capture = Aotren { $origin } da selaou ouzh aodio an ivinell ha da welet ho skramm?
 
 ## Variables:
 ##   $origin (String): the first party origin.

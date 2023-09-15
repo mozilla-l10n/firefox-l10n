@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Klask
     .aria-label = Klask
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Klask gant { $engine } pe skrivañ ur chomlecʼh
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Klask pe skrivañ ur chomlecʼh
     .title = Klask pe skrivañ ur chomlecʼh
     .aria-label = Klask pe skrivañ ur chomlecʼh
-
 newtab-search-box-text = Klask er web
 newtab-search-box-input =
     .placeholder = Klask er web
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Kemmañ ar verradenn
 newtab-topsites-title-label = Titl
 newtab-topsites-title-input =
     .placeholder = Enankañ un titl
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skrivit pe pegit un URL
 newtab-topsites-url-validation = URL talvoudek azgoulennet
-
 newtab-topsites-image-url-label = URL ar skeudenn personelaet
 newtab-topsites-use-image-link = Ober gant ur skeudenn personelaet…
 newtab-topsites-image-validation = N'haller ket kargan ar skeudenn. Klaskit gant un URL disheñvel.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Paeroniet
 newtab-menu-section-tooltip =
     .title = Digeriñ al lañser
     .aria-label = Digeriñ al lañser
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Dilemel
     .aria-label = Dilemel
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -113,7 +107,7 @@ newtab-menu-delete-history = Dilemel eus ar roll istor
 newtab-menu-save-to-pocket = Enrollañ etrezek { -pocket-brand-name }
 newtab-menu-delete-pocket = Dilemel eus { -pocket-brand-name }
 newtab-menu-archive-pocket = Diellaouiñ e { -pocket-brand-name }
-newtab-menu-show-privacy-info = Hor c'hevelerien hag ho puhez prevez
+newtab-menu-show-privacy-info = Hor c’hevelerien hag ho puhez prevez
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
@@ -158,17 +152,14 @@ newtab-label-removed-bookmark = Sined dilamet
 newtab-label-recommended = Brudet
 newtab-label-saved = Enrollet e { -pocket-brand-name }
 newtab-label-download = Pellgarget
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · paeroniet
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Paeroniet gant { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -207,7 +198,6 @@ newtab-section-header-pocket = Erbedet gant { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Krogit da verdeiñ hag e tiskouezimp deoc’h pennadoù, videoioù ha pajennoù all gweladennet pe lakaet er sinedoù nevez ’zo.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -232,10 +222,6 @@ newtab-pocket-learn-more = Gouzout hiroc'h
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } a zo ul lodenn eus familh { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Enrollañ
 newtab-pocket-saved = Enrollet

@@ -57,6 +57,11 @@ toolbar-context-menu-remove-from-toolbar =
 toolbar-context-menu-view-customize-toolbar =
     .label = Personelaat…
     .accesskey = P
+# This is only ever shown when toolbar-context-menu-pin-to-overflow-menu
+# is hidden, so they can share access keys.
+toolbar-context-menu-pin-to-toolbar =
+    .label = Spilhennañ d'ar varrenn-ostilhoù
+    .accesskey = S
 toolbar-context-menu-bookmarks-toolbar-always-show-2 =
     .label = Diskouez atav
     .accesskey = a
