@@ -146,7 +146,7 @@ addon-category-sitepermission-title =
     .title = ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = { $host } ਲਈ ਸਾਈਟ ਇਜਾਜ਼ਤਾਂ
 
 ## These are global warnings
@@ -164,6 +164,10 @@ extensions-warning-update-security2 =
     .message = ਐਡ-ਆਨ ਅੱਪਡੇਟ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕਰਨਾ ਬੰਦ ਹੈ। ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਰਾਹੀਂ ਖਤਰਾ ਹੋ ਸਕਦਾ ਹੈ।
 extensions-warning-update-security-button = ਚਾਲੂ
     .title = ਐਡ-ਆਨ ਉੱਤੇ ਸੁਰੱਖਿਆ ਚੈੱਕ ਕੀਤਾ ਜਾਂਦਾ ਹੈ
+extensions-warning-imported-addons = { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰੋ।
+extensions-warning-imported-addons2 =
+    .message = { -brand-short-name } ਲਈ ਦਰਾਮਦ ਕੀਤੀਆਂ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇੰਸਟਾਲੇਸ਼ਨ ਪੂਰੀ ਕਰੋ।
+extensions-warning-imported-addons-button = ਇਕਸਟੈਨਸ਼ਨਾਂ ਇੰਸਟਾਲ ਕਰੋ
 
 ## Strings connected to add-on updates
 
@@ -237,6 +241,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = { $addon } ਵਲੋਂ ਪਹਿਲਾਂ ਹੀ ਵਰਤਿਆ
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
        *[other] { $numberToShow } ਹੋਰ ਵੇਖੋ
@@ -361,6 +367,10 @@ addon-detail-updates-radio-on = ਚਾਲੂ
 addon-detail-updates-radio-off = ਬੰਦ
 addon-detail-update-check-label = ਅੱਪਡੇਟ ਲਈ ਚੈੱਕ ਕਰੋ
 install-update-button = ਅੱਪਡੇਟ ਕਰੋ
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -369,10 +379,22 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = ਜਦੋਂ ਮਨਜ਼ੂਰੀ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ ਕਰਨ ਦੌਰਾਨ ਵੀ ਤੁਹਾਡੀਆਂ ਆਨਲਾਈਨ ਸਰਗਰਮੀਆਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। <a data-l10n-name="learn-more">ਹੋਰ ਜਾਣੋ</a>
 addon-detail-private-browsing-allow = ਮਨਜ਼ੂਰ
 addon-detail-private-browsing-disallow = ਮਨਜ਼ੂਰ ਨਾ ਕਰੋ
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = ਪਾਬੰਦੀਆਂ ਨਾਲ ਸਾਈਟਾਂ ਉੱਤੇ ਚਲਾਓ
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = ਮਨਜ਼ੂਰ
+addon-detail-quarantined-domains-disallow = ਨਾ-ਮਨਜ਼ੂਰ ਕਰੋ
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -401,6 +423,8 @@ addon-permissions-optional = ਵਾਧੂ ਕੰਮਾਂ ਲਈ ਚੋਣਵੀ
 addon-permissions-learnmore = ਇਜਾਜ਼ਤਾਂ ਬਾਰੇ ਹੋਰ ਸਿੱਖੋ
 recommended-extensions-heading = ਸਿਫਾਰਸ਼ੀ ਇਕਟੈਨਸ਼ਨਾਂ
 recommended-themes-heading = ਸਿਫਾਰਸ਼ੀ ਥੀਮ
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = <span data-l10n-name="hostname">{ $hostname }</span> ਨੂੰ ਅੱਗੇ ਦਿੱਤੀਆਂ ਸਮਰੱਥਾਵਾਂ ਦੀ ਇਜਾਜ਼ਤ ਦਿੱਤੀ ਹੈ
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -428,7 +452,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } { -brand-short-name } { $version } ਦੇ ਲਈ ਢੁੱਕਵੀਂ ਨਹੀਂ ਹੈ।
 # Variables:
 #   $version (string) - Application version.
