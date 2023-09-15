@@ -39,6 +39,8 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾ�
     .accesskey = o
 fxviewtabrow-copy-link = ਲਿੰਕ ਕਾਪੀ ਕਰੋ
     .accesskey = L
+fxviewtabrow-close-tab = ਟੈਬ ਬੰਦ ਕਰੋ
+    .accesskey = C
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
