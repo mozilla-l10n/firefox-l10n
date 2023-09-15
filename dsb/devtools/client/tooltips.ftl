@@ -24,6 +24,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> njama efekt na toś 
 inactive-css-not-flex-container = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njejo kontejner flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> njama na toś to wustatkowanje, dokulaž element njejo element inline abo element tabeloweje cele.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::first-line njepódpěra.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::first-letter njepódpěra.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::placeholder njepódpěra.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž ma zwobraznjenje <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Gódnota <strong>display</strong> jo se změnił pśez engine do <strong>block</strong>, dokulaž element jo <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Wobgranicowanja <strong>:visited</strong> dla jo njemóžno, <strong>{ $property }</strong> pśepisaś.
@@ -37,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž njedajo se na nutśikowne tabelowe elementy nałožyś, źož <strong>border-collapse</strong> jo na <strong>collapse</strong> na nadrědowanem elemenśe tabele stajony.
 inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> se za pseudoelementy wuzwignjenja njepódpěra.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::cue njepódpěra.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
