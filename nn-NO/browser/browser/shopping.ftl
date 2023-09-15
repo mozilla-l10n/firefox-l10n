@@ -87,6 +87,8 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Ingen analysar av desse vurderingane enno
+shopping-unanalyzed-product-analyze-link = Start analysator på { -fakespot-website-name }
 
 ## Strings for the advertisement
 
