@@ -44,6 +44,7 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Registrar módulos para diagnosticar llamadas WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Registrar módulos para diagnosticar problemas de WebGPU
+about-logging-preset-gfx-label = Gráficos
 about-logging-preset-custom-label = Personalizado
 about-logging-preset-custom-description = Módulos de registro seleccionados manualmente
 # Error handling
