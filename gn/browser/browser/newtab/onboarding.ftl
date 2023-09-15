@@ -294,7 +294,7 @@ mr2022-onboarding-privacy-segmentation-button-secondary-label = Ehechauka marand
 ## MR2022 Multistage Gratitude screen strings
 
 mr2022-onboarding-gratitude-title = Nereipytyvõi oiko hag̃ua ñanduti iporãvéva.
-mr2022-onboarding-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo ñanduti ijuruja hag̃ua, ojepurukuaáva ha iporãvéva opavavépe g̃uarã.
+mr2022-onboarding-gratitude-subtitle = Aguyje eiporu haguére { -brand-short-name }, oykekóva Fundación Mozilla. Nepytyvõ rupive, romba’apo ñanduti ijuruja hag̃ua, ojeporukuaáva ha iporãvéva opavavépe g̃uarã.
 mr2022-onboarding-gratitude-primary-button-label = Ehecha mba’epyahu
 mr2022-onboarding-gratitude-secondary-button-label = Eñepyrũ eikundaha
 

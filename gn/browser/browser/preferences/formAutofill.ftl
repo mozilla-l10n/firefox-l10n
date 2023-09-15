@@ -7,10 +7,8 @@
 
 autofill-manage-addresses-title = Kundaharape ñongatupyre
 autofill-manage-addresses-list-header = Kundaharape
-
 autofill-manage-credit-cards-title = Kuatia’atã ñemurã ñongatupyre
 autofill-manage-credit-cards-list-header = Kuatia’atã ñemurã
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Mboguete
@@ -23,7 +21,6 @@ autofill-manage-edit-button = Mbosako’i…
 autofill-add-new-address-title = Embojuaju kundaharape pyahu
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Embosako’i kundaharape
-
 autofill-address-given-name = Téra ñepyrũ
 autofill-address-additional-name = Téra mokõiha
 autofill-address-family-name = Terajoapy
@@ -84,16 +81,13 @@ autofill-address-eircode = Eircode
 autofill-address-country = Tetã térã tendaguasu
 autofill-address-tel = Pumbyry
 autofill-address-email = Ñandutiveve
-
 autofill-cancel-button = Heja
 autofill-save-button = Ñongatu
-autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojepuru ndahetái tetãme.
-
+autofill-country-warning-message = Pe myanyhẽha ijeheguíva ko’ág̃a ikatu ojeporu ndahetái tetãme.
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Embojoaju kuatia’atã ñemurã pyahu
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Embosako’i kuatia’atã ñemurã
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +96,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ohechaukase marandu kuatia’atã ñemurã rehegua. Emoneĩ ko’ág̃a ko Windows mba’etépe jeike.
        *[other] { -brand-short-name } ohechaukase marandu kuatia’atã ñemurãva.
     }
-
 autofill-card-number = Kuatia’atã papapy
 autofill-card-invalid-number = Ikatúpa emoinge kuatia’atã papapy oikóva
 autofill-card-name-on-card = Kuatia’atã réra

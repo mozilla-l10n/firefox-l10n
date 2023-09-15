@@ -10,10 +10,10 @@ app-manager-remove =
     .accesskey = R
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
-app-manager-handle-protocol = Ko’ã tembiporu’i ikatu ojepuru oñembohape hag̃ua { $type } juajuha.
+app-manager-handle-protocol = Ko’ã tembiporu’i ikatu ojeporu oñembohape hag̃ua { $type } juajuha.
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
-app-manager-handle-file = Ko’ã tembiporu’i ikatu ojepuru oñembohape hag̃ua { $type } hechapyrã.
+app-manager-handle-file = Ko’ã tembiporu’i ikatu ojeporu oñembohape hag̃ua { $type } hechapyrã.
 
 ## These strings are followed, on a new line,
 ## by the URL or path of the application.

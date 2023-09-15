@@ -312,7 +312,7 @@ applications-action-save =
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
-    .label = { $app-name } jepuru
+    .label = { $app-name } jeporu
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
@@ -325,7 +325,7 @@ applications-use-os-default =
            *[other] Eiporu tembiporu’i apopyvusugua ijypykuéva
         }
 applications-use-other =
-    .label = Ambuéva jepuru…
+    .label = Ambuéva jeporu…
 applications-select-helper = Eiporavo tembiporu’i pytyvõrãva
 applications-manage-app =
     .label = Tembiporu’i mba’emimi…
@@ -342,7 +342,7 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (string) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = { $plugin-name } jepuru ({ -brand-short-name }-pe)
+    .label = { $plugin-name } jeporu ({ -brand-short-name }-pe)
 applications-open-inapp =
     .label = Ijurujáva { -brand-short-name }-pe
 
@@ -434,7 +434,7 @@ performance-use-recommended-settings-checkbox =
 performance-use-recommended-settings-desc = Ko’ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.
 performance-settings-learn-more = Kuaave
 performance-allow-hw-accel =
-    .label = Hardware mbopya’eha oĩmba vove jepuru
+    .label = Hardware mbopya’eha oĩmba vove jeporu
     .accesskey = r
 performance-limit-content-process-option = Tetepy ha tembe’y mba’eapo
     .accesskey = l
@@ -449,10 +449,10 @@ performance-default-content-process-count =
 
 browsing-title = Kundaha
 browsing-use-autoscroll =
-    .label = Oku’éva ijehegui jepuru
+    .label = Oku’éva ijehegui jeporu
     .accesskey = a
 browsing-use-smooth-scrolling =
-    .label = Oku’éva mbeguemi jepuru
+    .label = Oku’éva mbeguemi jeporu
     .accesskey = m
 browsing-gtk-use-non-overlay-scrollbars =
     .label = Ehechauka meme ñemongu’eha renda
@@ -521,8 +521,8 @@ home-homepage-custom-url =
 use-current-pages =
     .label =
         { $tabCount ->
-            [1] Kuatiarogue Ag̃agua jepuru
-           *[other] Kuatiarogue ag̃agua jepuru
+            [1] Kuatiarogue Ag̃agua jeporu
+           *[other] Kuatiarogue ag̃agua jeporu
         }
     .accesskey = C
 choose-bookmark =
@@ -894,7 +894,7 @@ history-remember-option-custom =
 history-remember-description = { -brand-short-name } imandu’áta ne kundaha, ñamboguejy, myanyhẽha ha jeheka rembiasakue rehe.
 history-dontremember-description = { -brand-short-name } oiporujeýta ñemboheko kundaha ñemiguáva, ha noñongatumo’ãi mba’ekuaarã tembiasakuéva oikundahávo ñandutípe.
 history-private-browsing-permanent =
-    .label = Kundaha ñemi jepuru tapia
+    .label = Kundaha ñemi jeporu tapia
     .accesskey = p
 history-remember-browser-option =
     .label = Kundaha rembiasakue ha ñemboguejy mandu’a
@@ -1044,7 +1044,7 @@ content-blocking-known-and-suspected-fingerprinters = Kuãhũ japyhyha ojekuaáv
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Ñemo’ãmbaite kookie rovake oreko kookie tenda reimehápe g̃uarã, avei tapykuehoha ndojepurukuaái ohapykueho hag̃ua tendakuéra pa’ũme.
+content-blocking-etp-standard-tcp-rollout-description = Ñemo’ãmbaite kookie rovake oreko kookie tenda reimehápe g̃uarã, avei tapykuehoha ndojeporukuaái ohapykueho hag̃ua tendakuéra pa’ũme.
 content-blocking-etp-standard-tcp-rollout-learn-more = Kuaave
 content-blocking-etp-standard-tcp-title = Oikehápe Total Cookie Protection, ore ñemigua rembiapoite imbaretevéva ko’ag̃aite peve
 content-blocking-warning-title = ¡Ema’ẽmi!
@@ -1151,8 +1151,8 @@ permissions-addon-exceptions =
 
 ## Privacy Section - Data Collection
 
-collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jepuru
-collection-header2 = { -brand-short-name } Ñembyaty ha mba’ekuaarã jepuru
+collection-header = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
+collection-header2 = { -brand-short-name } Ñembyaty ha mba’ekuaarã jeporu
     .searchkeywords = telemetría
 collection-description = Roñeha’ãmbaite rome’ẽ hag̃ua jeporavorã ha rombyaty roikotevẽva rome’ẽ añoite ha romoĩporãve { -brand-short-name } arapy tuichakue javépe g̃uarã. Rojerure tapia ñemoneĩ marandu og̃uahẽ mboyve oréve.
 collection-privacy-notice = Marandu Ñemigua
@@ -1271,7 +1271,7 @@ preferences-doh-setting-strict =
 preferences-doh-strict-desc = { -brand-short-name } oiporumeméta DNS hekorosãva. Ojehecháta kyhyjerã tekorosã marãkuaáva roiporu mboyve DNS apopyvusugua.
 preferences-doh-strict-detailed-desc-1 = Eiporu me’ẽhára poravopyre añoite
 preferences-doh-strict-detailed-desc-2 = Emombe’úke pe DNS hekorosãva ndoikóiramo
-preferences-doh-strict-detailed-desc-3 = Pe DNS hekorosãva ndojepurukuaáiramo tenda nahenyhẽi ha ndoikoporãmo’ãi.
+preferences-doh-strict-detailed-desc-3 = Pe DNS hekorosãva ndojeporukuaáiramo tenda nahenyhẽi ha ndoikoporãmo’ãi.
 preferences-doh-setting-off =
     .label = Mboguepyre
     .accesskey = O
