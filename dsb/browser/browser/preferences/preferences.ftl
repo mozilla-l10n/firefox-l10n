@@ -1044,6 +1044,10 @@ content-blocking-all-windows-tracking-content = Slědujuce wopśimjeśe we wšyc
 content-blocking-all-cross-site-cookies = Wšykne sedła pśesegajuce cookieje
 content-blocking-cryptominers = Kryptokopanje
 content-blocking-fingerprinters = Palcowe wótśišće
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Znate a suspektne palcowe wótśišće
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1156,6 +1160,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Gromaźenje a wužywanje datow { -brand-short-name }
+collection-header2 = Gromaźenje a wužywanje datow { -brand-short-name }
+    .searchkeywords = telemetrija
 collection-description = Comy was z wuběrkami wobstaraś a janož to zběraś, což musymy póbitowaś, aby my { -brand-short-name } za kuždego pólěpšili. Pšosymy pśecej wó dowólnosć, nježli až wósobinske daty dostanjomy.
 collection-privacy-notice = Powěźeńka priwatnosći
 collection-health-report-telemetry-disabled = Sćo zajmjeł { -vendor-short-name } dowólnosć, techniske a interakciske daty gromaźiś. Wšykne dotychměst zgromaźone daty se w běgu 30 dnjow wulašuju.

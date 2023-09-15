@@ -45,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Wócynjone rejtariki synchronizě
 firefoxview-syncedtabs-synctabs-header = Aktualizěrujśo swóje synchronizaciske nastajenja
 firefoxview-syncedtabs-synctabs-description = Aby rejtariki z drugich rědow wiźeł, musyśo swóje wócynjone rejtariki synchronizěrowaś.
 firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wócynjonych rejtarikow dowoliś
+firefoxview-syncedtabs-loading-header = Synchronizěrujo se
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waš administrator jo znjemóžnił synchronizěrowanje.
 firefoxview-tabpickup-network-offline-header = Pśeglědujśo swój internetny zwisk
@@ -63,6 +64,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Głowne gronidło zapóda�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Dalšne informacije</a>
 firefoxview-tabpickup-signed-out-header = Pśizjawśo se, aby zasej zwězał
 firefoxview-tabpickup-signed-out-description = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Aby se zasej zwězował a pśistup k swójim rejtarikam měł, pśizjawśo se pla swójogo konta.
 firefoxview-tabpickup-signed-out-primarybutton = Pśizjawiś
 firefoxview-tabpickup-syncing = Wobcakajśo, mjaztym až se waše rejtariki synchronizěruju. Buźo jano wokognuśe traś.
 firefoxview-mobile-promo-header = Wobstarajśo se rejtariki ze swójogo telefona abo tableta
@@ -210,3 +212,4 @@ firefoxview-recentlyclosed-empty-description-two = Aby starše rejtariki namaka�
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Žedne rejtariki na toś tom rěźe wócynjone
+firefoxview-syncedtabs-connect-another-device = Z drugim rědom zwězaś
