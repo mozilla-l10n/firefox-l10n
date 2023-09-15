@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> не сработа�
 inactive-css-not-flex-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-контейнером.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> не сработает для элемента, так как он не является inline или table-cell элементом.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается на ::first-line псевдоэлементах.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается на псевдоэлементах ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается в псевдоэлементах ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> не сработает для элемента, так как его свойство display задано как <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Значение свойства <strong>display</strong> было изменено движком на <strong>block</strong>, так как элемент <strong>плавающий</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> не сработает для элемента, так как его нельзя применить к внутренним элементам таблицы, где для <strong>border-collapse</strong> задано значение <strong>collapse</strong> на элементе родительской таблицы.
 inactive-css-ruby-element = <strong>{ $property }</strong> не влияет на этот элемент, так как это элемент ruby. Его размер определяется размером шрифта текста ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Выделение псевдоэлементов для <strong>{ $property }</strong> не поддерживается.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> не поддерживается в псевдоэлементах ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

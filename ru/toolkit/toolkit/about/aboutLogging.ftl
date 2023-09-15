@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модули журнала для диагностики вызовов WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули журнала для диагностики проблем WebGPU
+about-logging-preset-gfx-label = Графика
+about-logging-preset-gfx-description = Модули журналирования для диагностики проблем с графикой
 about-logging-preset-custom-label = Персональная
 about-logging-preset-custom-description = Вручную выбранные модули журнала
 # Error handling
