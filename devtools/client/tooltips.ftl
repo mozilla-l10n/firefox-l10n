@@ -24,6 +24,7 @@ inactive-css-not-flex-item = Bu eleman bir flex öğesi olmadığı için <stron
 inactive-css-not-flex-container = Bu eleman bir flex kapsayıcı olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-inline-or-tablecell = Bu eleman bir inline veya table-cell öğesi olmadığı için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-line pseudo elemanlarında desteklenmez.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::first-letter pseudo elemanlarında desteklenmez.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::placeholder pseudo elemanlarında desteklenmez.
 inactive-css-property-because-of-display = Bu eleman <strong>{ $display }</strong> olarak görüntülendiği için <strong>{ $property }</strong> özelliğinin bu eleman üzerinde etkisi yoktur.
 inactive-css-not-display-block-on-floated = Bu eleman <strong>floated</strong> olduğu için <strong>display</strong> değeri motor tarafından <strong>block</strong> olarak değiştirildi.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = Bu eleman scroll edilemediğ
 inactive-css-border-image = <strong>border-collapse</strong> özelliğinin ana tablo elemanında <strong>collapse</strong> olarak ayarlandığı dahili tablo elemanlarına <strong>{ $property }</strong> özelliği uygulanamayacağı için bu özellik bu eleman üzerinde hiçbir etkiye sahip değildir.
 inactive-css-ruby-element = <strong>{ $property }</strong> bir ruby elemanı olduğundan bu eleman üzerinde hiçbir etkisi yoktur. Boyutu ruby metninin yazı tipi boyutuna göre belirlenir.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> özelliği, vurgulanmış pseudo elemanlarında desteklenmez.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> özelliği ::cue pseudo elemanlarında desteklenmez.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
