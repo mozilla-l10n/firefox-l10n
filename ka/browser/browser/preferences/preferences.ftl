@@ -1152,6 +1152,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } – მონაცემთა აღრიცხვა და გამოყენება
+collection-header2 = { -brand-short-name } მონაცემთა აღრიცხვა და გამოყენება
+    .searchkeywords = telemetry
 collection-description = ჩვენ ვცდილობთ მოგცეთ არჩევანის უფლება და აღვრიცხოთ მხოლოდ ის მონაცემები, რომლებიც დაგვეხმარება, გავაუმჯობესოთ { -brand-short-name }. ყოველთვის დაგეკითხებით პირადი ინფორმაციის მიღებამდე.
 collection-privacy-notice = პირადი მონაცემების დაცვის განაცხადი
 collection-health-report-telemetry-disabled = თქვენ გააუქმეთ ნებართვა და შედეგად { -vendor-short-name } ვეღარ შეძლებს ტექნიკური და გამოყენების მონაცემების აღრიცხვას. აქამდე შეგროვებული ყველა მონაცემი წაიშლება 30 დღეში.
