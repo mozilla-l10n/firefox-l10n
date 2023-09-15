@@ -32,13 +32,17 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Доступні оновлення
 shopping-message-bar-warning-stale-analysis-message = Запустіть аналізатор { -fakespot-brand-full-name }, щоб отримати оновлену інформацію приблизно за 60 секунд.
+shopping-message-bar-generic-error-title = Аналізатор зараз недоступний
 shopping-message-bar-generic-error-message = Ми працюємо над усуненням проблеми. Поверніться згодом.
 shopping-message-bar-warning-not-enough-reviews-title = Ще недостатньо відгуків
 shopping-message-bar-warning-not-enough-reviews-message = Коли на цей продукт буде більше відгуків, ми зможемо їх проаналізувати.
 shopping-message-bar-warning-product-not-available-title = Товар відсутній
+shopping-message-bar-warning-product-not-available-message = Якщо цей товар знову з'явиться, повідомте про це нам, і ми його проаналізуємо.
 shopping-message-bar-warning-product-not-available-button = Повідомити, що цей товар знову в наявності
 shopping-message-bar-thanks-for-reporting-title = Дякуємо за повідомлення!
+shopping-message-bar-thanks-for-reporting-message = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
 shopping-message-bar-warning-product-not-available-reported-title = Незабаром проаналізується
+shopping-message-bar-warning-product-not-available-reported-message = Оновлені результати мають бути готові впродовж 24 годин. Перевірте знову згодом.
 shopping-message-bar-warning-offline-title = Немає з'єднання з мережею
 shopping-message-bar-warning-offline-message = Перевірте з'єднання з мережею. Потім спробуйте перезавантажити сторінку.
 shopping-message-bar-analysis-in-progress-title = Незабаром проаналізується
@@ -92,13 +96,19 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Як ми визначаємо якість відгуку
+shopping-analysis-explainer-intro =
+    Ми використовуємо технологію ШІ від { -fakespot-brand-full-name }, щоб аналізувати надійність відгуків про товар.
+    Цей аналіз допоможе вам оцінити лише якість відгуку, а не якість товару.
 shopping-analysis-explainer-grades-intro = Кожному відгуку про товар ми присвоюємо <strong>буквену оцінку</strong> від A до F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Скоригований рейтинг</strong> на основі лише відгуків, які ми вважаємо надійними.
 shopping-analysis-explainer-learn-more = Дізнайтеся, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } визначає якість відгуків</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Обрані</strong> беруться з відгуків { $retailer } за останні 80 днів, які ми вважаємо надійними.
+shopping-analysis-explainer-review-grading-scale-reliable = Надійні – чесні, неупереджені відгуки, найімовірніше від справжніх замовників.
 shopping-analysis-explainer-review-grading-scale-mixed = Ми вважаємо, що тут поєднано надійні та сумнівні відгуки.
+shopping-analysis-explainer-review-grading-scale-unreliable = Сумнівні – нечесні відгуки, найімовірніше від упереджених оглядачів.
 
 ## Strings for UrlBar button
 
@@ -111,6 +121,7 @@ shopping-analysis-explainer-review-grading-scale-mixed = Ми вважаємо, 
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Ці відгуки ще не проаналізовано
+shopping-unanalyzed-product-message = Запустіть аналізатор { -fakespot-brand-full-name }, і приблизно за 60 секунд ви дізнаєтеся, чи відгукам про цей товар варто довіряти.
 shopping-unanalyzed-product-analyze-link = Запустити аналізатор на { -fakespot-website-name }
 
 ## Strings for the advertisement
