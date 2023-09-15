@@ -47,6 +47,7 @@ shopping-message-bar-warning-offline-title = Немає з'єднання з м�
 shopping-message-bar-warning-offline-message = Перевірте з'єднання з мережею. Потім спробуйте перезавантажити сторінку.
 shopping-message-bar-analysis-in-progress-title = Незабаром проаналізується
 shopping-message-bar-analysis-in-progress-message = Коли все буде готово, ми автоматично покажемо тут оновлену інформацію.
+shopping-message-bar-page-not-supported-title = Ми не можемо перевірити ці відгуки
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

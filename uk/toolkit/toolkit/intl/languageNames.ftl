@@ -158,6 +158,7 @@ language-name-ro = Румунська
 language-name-ru = Російська
 language-name-rw = Кинярвандська
 language-name-sa = Санскрит
+language-name-sat = Санталі
 language-name-sc = Сардинська
 language-name-sco = Шотландська
 language-name-sd = Синдхи
