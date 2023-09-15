@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Írja be az elsődleges je
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">További tudnivalók</a>
 firefoxview-tabpickup-signed-out-header = Jelentkezzen be az újrakapcsolódáshoz
 firefoxview-tabpickup-signed-out-description = Az újbóli csatlakozáshoz és a lapok megszerzéséhez jelentkezzen be a { -fxaccount-brand-name } fiókjába.
+firefoxview-tabpickup-signed-out-description2 = Az újbóli csatlakozáshoz és a lapok megszerzéséhez jelentkezzen be a fiókjába.
 firefoxview-tabpickup-signed-out-primarybutton = Bejelentkezés
 firefoxview-tabpickup-syncing = Várjon amíg a lapjai szinkronizálódnak. Csak egy pillanat lesz.
 firefoxview-mobile-promo-header = Vegye át a lapjait a telefonjáról vagy táblagépéről
