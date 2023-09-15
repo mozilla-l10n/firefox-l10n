@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Zadajte hlavné heslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ďalšie informácie</a>
 firefoxview-tabpickup-signed-out-header = Pre opätovné pripojenie sa prihláste
 firefoxview-tabpickup-signed-out-description = Ak sa chcete znova pripojiť a prevziať svoje karty, prihláste sa do svojho { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
+firefoxview-tabpickup-signed-out-description2 = Ak sa chcete znova pripojiť a získať svoje karty, prihláste sa do svojho účtu.
 firefoxview-tabpickup-signed-out-primarybutton = Prihlásiť sa
 firefoxview-tabpickup-syncing = Posaďte sa, kým sa vaše karty synchronizujú. Bude to len chvíľa.
 firefoxview-mobile-promo-header = Získajte karty z telefónu alebo tabletu

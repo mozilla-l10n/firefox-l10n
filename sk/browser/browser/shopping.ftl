@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Bez pripojenia k sieti
 shopping-message-bar-warning-offline-message = Skontrolujte pripojenie k sieti. Potom skúste stránku znova načítať.
 shopping-message-bar-analysis-in-progress-title = Analýza už čoskoro
 shopping-message-bar-analysis-in-progress-message = Po dokončení sa tu automaticky zobrazia aktualizované informácie.
+shopping-message-bar-page-not-supported-title = Tieto recenzie nemôžeme skontrolovať
+shopping-message-bar-page-not-supported-message = Bohužiaľ nemôžeme skontrolovať kvalitu recenzií určitých typov produktov. Napríklad darčekové karty alebo streamovanie videa, hudby a hier.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
