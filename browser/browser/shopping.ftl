@@ -82,7 +82,7 @@ shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pógódnośenjow pokazaś
 shopping-settings-recommendations-learn-more = Buźośo wótergi wabjenje za relewantne produkty wiźeś. Wšykne wabjeńske anonse našym standardam za kwalitu pógódnośenjow wótpowěduju. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
 shopping-settings-opt-out-button = Kontrolu pógódnośenjow znjemóžniś
-powered-by-fakespot = Kontrola pógódnośenjow se wót <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchujo.
+powered-by-fakespot = Kontrola pógódnośenjow se wót <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchujo</a>.
 
 ## Strings for the adjusted rating component
 
