@@ -19,6 +19,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Spušćobne pógódnośenja
+shopping-letter-grade-description-c = Měšańca ze spušćobnych a njespušćobnych pógódnośenjow
 shopping-letter-grade-description-df = Njespušćobne pógódnośenja
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
@@ -31,10 +32,18 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
+shopping-message-bar-warning-stale-analysis-message = Startujśo analyzator { -fakespot-brand-full-name }. aby za pśibližnje 60 sekundow aktualne informacije dostał.
 shopping-message-bar-generic-error-title = Analyza njejo tuchylu k dispoziciji
+shopping-message-bar-generic-error-message = Źěłamy na rozwězanju toś togo problema. Pśiźćo pšosym skóro zasej mimo.
+shopping-message-bar-warning-not-enough-reviews-title = Hyšći njejo dosć pógódnośenjow
+shopping-message-bar-warning-not-enough-reviews-message = Gaž toś ten produkt ma wěcej pógódnośenjow, móžomy je analyzěrowaś.
 shopping-message-bar-warning-product-not-available-title = Produkt njejo k dispoziciji
+shopping-message-bar-warning-product-not-available-message = Jolic wiźiśo, až toś ten produkt jo zasej na skłaźe, dajśo nam to k wěsći a buźomy na aktualizaciji analyze źěłaś.
+shopping-message-bar-warning-product-not-available-button = K wěsći daś, až toś ten produkt jo zasej na skłaźe
 shopping-message-bar-thanks-for-reporting-title = Wjeliki źěk za powěźeńku!
+shopping-message-bar-thanks-for-reporting-message = My dejali w běgu 24 góźin zaktualizěrowanu analyzu měś. Pśiźćo pšosym zasej mimo.
 shopping-message-bar-warning-product-not-available-reported-title = Analyza skóro pśiźo
+shopping-message-bar-warning-product-not-available-reported-message = Zaktualizěrowana analyza měła w běgu 24 góźin gótowa byś. Pśiźćo pšosym zasej mimo.
 shopping-message-bar-warning-offline-title = Žeden seśowy zwisk
 shopping-message-bar-analysis-in-progress-title = Analyza skóro pśiźo
 

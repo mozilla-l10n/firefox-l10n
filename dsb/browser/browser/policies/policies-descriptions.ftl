@@ -28,6 +28,7 @@ policy-CertificatesDescription = Certifikaty pśidaś abo zatwarjone certifikaty
 policy-Cookies = Websedłam dowóliś abo zakazaś, cookieje składowaś.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Pšawidła nastupajucy kontejnery póstajiś
+policy-DisableAccounts = Słužby znjemóžniś, kótarež na konśe bazěruju, mjazy nimi synchronizaciju.
 policy-DisabledCiphers = Šyfry znjemóžniś.
 policy-DefaultDownloadDirectory = Nastajśo standardny ześěgnjeński zarědnik.
 policy-DisableAppUpdate = Wobglědowakoju aktualizěrowanje zakazaś.
