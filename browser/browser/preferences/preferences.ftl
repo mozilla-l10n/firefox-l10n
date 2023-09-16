@@ -1156,6 +1156,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Збор і выкарыстанне звестак { -brand-short-name }
+collection-header2 = Збор і выкарыстанне звестак { -brand-short-name }
+    .searchkeywords = тэлеметрыя
 collection-description = Мы імкнёмся даць вам выбар і збіраць толькі тое, што патрэбна для ўсіх для выпуску і паляпшэння { -brand-short-name }. Мы заўсёды пытаемся дазволу, перш чым атрымаць асабістую інфармацыю.
 collection-privacy-notice = Паведамленне аб прыватнасці
 collection-health-report-telemetry-disabled = Вы больш не дазваляеце { -vendor-short-name } захоўваць тэхнічныя дадзеныя і звесткі аб узаемадзеянні. Усе мінулыя дадзеныя будуць выдалены на працягу 30 дзён.

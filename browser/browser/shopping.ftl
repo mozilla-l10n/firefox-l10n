@@ -2,15 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Пакупкі ў { -brand-product-name }
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Праверка водгукаў
 shopping-close-button =
     .title = Закрыць
+# This string is for notifying screen reader users that the
+# sidebar is still loading data.
+shopping-a11y-loading =
+    .aria-label = Загрузка…
 
 ## Strings for the letter grade component.
 ## For now, we only support letter grades A, B, C, D and F.
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
-shopping-letter-grade-description-ab = Надзейныя агляды
+shopping-letter-grade-description-ab = Надзейныя водгукі
+shopping-letter-grade-description-c = Сумесь надзейных і ненадзейных водгукаў
+shopping-letter-grade-description-df = Ненадзейныя водгукі
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -22,6 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Даступныя абнаўленні
+shopping-message-bar-warning-stale-analysis-message = Запусціце аналізатар { -fakespot-brand-full-name }, каб атрымаць абноўленую інфармацыю прыкладна праз 60 секунд.
 shopping-message-bar-generic-error-title = Аналіз зараз недаступны
 shopping-message-bar-warning-product-not-available-title = Прадукт недаступны
 shopping-message-bar-thanks-for-reporting-title = Дзякуй за паведамленне!

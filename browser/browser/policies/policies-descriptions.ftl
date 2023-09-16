@@ -28,6 +28,7 @@ policy-CertificatesDescription = Дадаць сертыфікаты або вы
 policy-Cookies = Дазволіць або забараніць вэб-сайтам устанаўліваць кукі.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Устанавіць палітыку ў дачыненні да кантэйнераў.
+policy-DisableAccounts = Адключыць службы на аснове ўліковага запісу, уключаючы сінхранізацыю.
 policy-DisabledCiphers = Адключыць шыфраванне.
 policy-DefaultDownloadDirectory = Устанавіць прадвызначаны каталог сцягванняў.
 policy-DisableAppUpdate = Забараніць абнаўленне браўзера.

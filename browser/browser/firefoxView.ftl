@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Пабачыць нядаўняе агляданне з усіх акон і прылад
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = А
@@ -43,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Абнавіце налады сінх�
 firefoxview-syncedtabs-synctabs-description = Каб бачыць карткі з іншых прылад, трэба сінхранізаваць адкрытыя карткі.
 firefoxview-syncedtabs-synctabs-checkbox = Дазволіць сінхранізацыю адкрытых картак
 firefoxview-syncedtabs-loading-header = Ідзе сінхранізацыя
+firefoxview-syncedtabs-loading-description = Па заканчэнні вы ўбачыце ўсе карткі, адкрытыя на іншых прыладах. Праверце пазней.
 firefoxview-tabpickup-fxa-admin-disabled-header = У ваша арганізацыі сінхранізацыя адключана
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } не можа сінхранізаваць карткі паміж прыладамі, таму што ваш адміністратар адключыў сінхранізацыю.
 firefoxview-tabpickup-network-offline-header = Праверце падлучэнне да Інтэрнэту
@@ -61,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Увядзіце гало�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Падрабязней</a>
 firefoxview-tabpickup-signed-out-header = Увайдзіце, каб злучыцца зноў
 firefoxview-tabpickup-signed-out-description = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Каб аднавіць падключэнне і атрымаць карткі, увайдзіце ў свой уліковы запіс.
 firefoxview-tabpickup-signed-out-primarybutton = Увайсці
 firefoxview-tabpickup-syncing = Пачакайце, пакуль вашы карткі сінхранізуюцца. Гэта толькі на імгненне.
 firefoxview-mobile-promo-header = Атрымайце карткі з тэлефона або планшэта
