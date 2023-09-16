@@ -49,7 +49,7 @@ shopping-message-bar-warning-offline-message = Проверьте сетевое
 shopping-message-bar-analysis-in-progress-title = Анализ скоро будет доступен
 shopping-message-bar-analysis-in-progress-message = Когда процесс завершится, мы автоматически покажем здесь обновленную информацию.
 shopping-message-bar-page-not-supported-title = Мы не можем проверить эти отзывы
-shopping-message-bar-page-not-supported-message = К сожалению, мы не можем проверить качество отзывов по некоторым видам товаров. Например, подарочные карты и потоковое видео, музыку и игры.
+shopping-message-bar-page-not-supported-message = К сожалению, мы не можем проверить качество отзывов на некоторые виды товаров. Например, подарочные карты и потоковое видео, музыку и игры.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -100,7 +100,7 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Как мы определяем качество отзывов
 shopping-analysis-explainer-intro =
-    Мы используем технологию ИИ от { -fakespot-brand-full-name } для анализа достоверности обзоров продуктов.
+    Мы используем технологию ИИ от { -fakespot-brand-full-name } для анализа достоверности отзывов на продукты.
     Этот анализ поможет вам оценить только качество отзывов, а не качество продукта.
 shopping-analysis-explainer-grades-intro = Мы присваиваем отзывам каждого продукта <strong>буквенную оценку</strong> от A до F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скорректированная оценка</strong> основана только на отзывах, которые мы считаем достоверными.
@@ -108,7 +108,7 @@ shopping-analysis-explainer-learn-more = Узнайте больше о том, 
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
-shopping-analysis-explainer-highlights-description = <strong>Основные сведения</strong> взяты из отзывов { $retailer } за последние 80 дней, которые мы считаем надежными.
+shopping-analysis-explainer-highlights-description = <strong>Основные сведения</strong> взяты из отзывов на { $retailer } за последние 80 дней, которые мы считаем надежными.
 shopping-analysis-explainer-review-grading-scale-reliable = Достоверные отзывы. Мы считаем, что эти отзывы, скорее всего, написаны реальными клиентами, которые оставили честные и объективные отзывы.
 shopping-analysis-explainer-review-grading-scale-mixed = Мы считаем, что здесь находится смесь достоверных и недостоверных отзывов.
 shopping-analysis-explainer-review-grading-scale-unreliable = Недостоверные отзывы. Мы считаем, что эти отзывы, скорее всего, фейковые или написаны предвзятыми рецензентами.
