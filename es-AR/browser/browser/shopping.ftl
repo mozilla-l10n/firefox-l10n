@@ -48,6 +48,7 @@ shopping-message-bar-warning-offline-title = No hay conexion de red
 shopping-message-bar-warning-offline-message = Verifique la conexión de red y luego vuelva a cargar la página.
 shopping-message-bar-analysis-in-progress-title = El análisis llegará pronto
 shopping-message-bar-analysis-in-progress-message = Cuando termine, mostraremos automáticamente la información actualizada aquí.
+shopping-message-bar-page-not-supported-title = No podemos comprobar estas revisiones
 shopping-message-bar-page-not-supported-message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
