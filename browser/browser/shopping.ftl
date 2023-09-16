@@ -5,7 +5,7 @@
 shopping-page-title = { -brand-product-name } ਖਰੀਦਦਾਰੀ
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = ਪੜਤਾਲ ਜਾਂਚਕਰਤਾ
+shopping-main-container-title = ਰੀਵਿਊ ਚੈਕਰ
 shopping-close-button =
     .title = ਬੰਦ ਕਰੋ
 # This string is for notifying screen reader users that the
@@ -18,7 +18,7 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
-shopping-letter-grade-description-ab = ਭਰੋਸੇਯੋਗ ਪੜਤਾਲਾਂ
+shopping-letter-grade-description-ab = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ
 shopping-letter-grade-description-c = ਭਰੋਸੇਯੋਗ ਅਤੇ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰਲਵੇਂ ਰੀਵਿਊ
 shopping-letter-grade-description-df = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ
 # This string is displayed in a tooltip that appears when the user hovers
@@ -62,7 +62,7 @@ shopping-message-bar-warning-stale-analysis-link = { -fakespot-website-name } �
 ## Strings for the product review snippets card
 
 shopping-highlights-label =
-    .label = ਸੱਜਰੀਆਂ ਪੜਤਾਲਾਂ ਤੋਂ ਉਘਾੜੇ
+    .label = ਸੱਜਰੇ ਰੀਵਿਊ ਤੋਂ ਹਾਈਲਾਈਟ
 shopping-highlight-price = ਮੁੱਲ
 shopping-highlight-quality = ਕੁਆਲਟੀ
 shopping-highlight-shipping = ਆਵਾਜਾਈ
@@ -79,25 +79,30 @@ shopping-show-less-button = ਘੱਟ ਵੇਖਾਓ
 shopping-settings-label =
     .label = ਸੈਟਿੰਗਾਂ
 shopping-settings-recommendations-toggle =
-    .label = ਪੜਤਾਲ ਜਾਂਚਕਰਤਾ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਓ
+    .label = ਰੀਵਿਊ ਚੈਕਰ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਓ
 shopping-settings-recommendations-learn-more = ਤੁਸੀਂ ਕਦੇ ਕਦਾਈ ਸੰਬੰਧਿਤ ਉਤਪਾਦਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਵੇਖੋਗੇ। ਸਾਰੇ ਇਸ਼ਤਿਹਾਰ ਸਾਡੇ ਰੀਵਿਊ ਕੁਆਲਟੀ ਮਿਆਰ ਮੁਤਾਬਕ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। <a data-l10n-name="review-quality-url">ਹੋਰ ਜਾਣੋ</a>
-shopping-settings-opt-out-button = ਪੜਤਾਲ ਜਾਂਚਕਰਤਾ ਬੰਦ ਕਰੋ
+shopping-settings-opt-out-button = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਕਰੋ
+powered-by-fakespot = <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ਵਲੋਂ ਰੀਵਿਊ ਚੈਕਰ ਹੈ।
 
 ## Strings for the adjusted rating component
 
 shopping-adjusted-rating-label =
     .label = ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ
-shopping-adjusted-rating-unreliable-reviews = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਪੜਤਾਲਾਂ ਹਟਾਈਆਂ
+shopping-adjusted-rating-unreliable-reviews = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਹਟਾਏ
 
 ## Strings for the review reliability component
 
 shopping-review-reliability-label =
-    .label = ਇਹ ਪੜਤਾਲਾਂ ਕਿੰਨੀਆਂ ਭਰੋਸੇਯੋਗ ਹਨ?
+    .label = ਇਹ ਰੀਵਿਊ ਕਿੰਨੇ ਭਰੋਸੇਯੋਗ ਹਨ?
 
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
-    .label = ਅਸੀਂ ਪੜਤਾਲ ਦੀ ਕੁਆਲਟੀ ਕਿਵੇਂ ਪਤਾ ਕਰਦੇ ਹਾਂ
+    .label = ਅਸੀਂ ਰੀਵਿਊ ਦੀ ਕੁਆਲਟੀ ਕਿਵੇਂ ਪਤਾ ਕਰਦੇ ਹਾਂ
+shopping-analysis-explainer-intro = ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੇ ਰੀਵਿਊ ਦੀ ਭਰੋਸੇਯੋਗਤਾ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ { -fakespot-brand-full-name } ਦੀ ਮਨਸੂਈ ਬੁੱਧੀ (AI) ਤਕਨੀਕ ਵਰਤ ਰਹੇ ਹਾਂ। ਇਹ ਵਿਸ਼ਲੇਸ਼ਣ ਤੁਹਾਨੂੰ ਸਿਰਫ਼ ਰੀਵਿਊ ਦੀ ਕੁਆਲਟੀ ਲਈ ਮਦਦ ਕਰੇਗਾ, ਉਤਪਾਦ ਦੀ ਕੁਆਲਟੀ ਲਈ ਨਹੀਂ।
+shopping-analysis-explainer-grades-intro = ਅਸੀਂ ਹਰ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ ਲਈ A ਤੋਂ F ਤੱਕ <strong>ਅੱਖਰ ਅਧਾਰਿਤ ਦਰਜਾ</strong> ਦਿੱਤਾ ਹੈ।
+shopping-analysis-explainer-review-grading-scale-mixed = ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਭਰੋਸੇਯੋਗ ਅਤੇ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਰਲਵੇਂ ਰੂਪ ਵਿੱਚ ਹੁੰਦੇ ਹਨ।
+shopping-analysis-explainer-review-grading-scale-unreliable = ਗ਼ੈਰਭਰੋਸੇਯੋਗ ਰੀਵਿਊ। ਅਸੀਂ ਮੰਨਦੇ ਹਾਂ ਕਿ ਰੀਵਿਊ ਨਕਲੀ, ਫ਼ਰਜ਼ੀ ਹੋਣ ਜਾਂ ਪੱਖਪਾਤੀ ਰੀਵਿਊ ਦੇਣ ਵਾਲਿਆਂ ਵਲੋਂ ਹੋਣ ਸਕਦੇ ਹਨ।
 
 ## Strings for UrlBar button
 
@@ -114,7 +119,8 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = ਇਹਨਾਂ ਪੜਤਾਲਾਂ ਲਈ ਹਾਲੇ ਕੋਈ ਵੀ ਵਿਸ਼ਲੇਸ਼ਣ ਨਹੀਂ ਹੈ
-shopping-unanalyzed-product-analyze-link = { -fakespot-website-name } ਲਈ ਵਿਸ਼ਲੇਸ਼ਣ ਚਲਾਓ
+shopping-unanalyzed-product-message = { -fakespot-brand-full-name } ਵਿਸ਼ਲੇਸ਼ਕ ਚਲਾਓ ਅਤੇ ਤੁਹਾਨੂੰ 60 ਸਕਿੰਟਾਂ ਵਿੱਚ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ ਕਿ ਕੀ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ ਭਰੋਸੇਯੋਗ ਹਨ।
+shopping-unanalyzed-product-analyze-link = { -fakespot-website-name } ਲਈ ਵਿਸ਼ਲੇਸ਼ਕ ਚਲਾਓ
 
 ## Strings for the advertisement
 
