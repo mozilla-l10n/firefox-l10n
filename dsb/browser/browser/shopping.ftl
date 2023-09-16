@@ -45,7 +45,11 @@ shopping-message-bar-thanks-for-reporting-message = My dejali w běgu 24 góźin
 shopping-message-bar-warning-product-not-available-reported-title = Analyza skóro pśiźo
 shopping-message-bar-warning-product-not-available-reported-message = Zaktualizěrowana analyza měła w běgu 24 góźin gótowa byś. Pśiźćo pšosym zasej mimo.
 shopping-message-bar-warning-offline-title = Žeden seśowy zwisk
+shopping-message-bar-warning-offline-message = Pśeglědajśo swój seśowy zwisk. Wopytajśo pón bok znowego zacytaś.
 shopping-message-bar-analysis-in-progress-title = Analyza skóro pśiźo
+shopping-message-bar-analysis-in-progress-message = Gaž jo dokóńcone, buźomy how zaktualizěrowane informacije awtomatiski pokazowaś.
+shopping-message-bar-page-not-supported-title = Njamóžomy toś te pógódnośenja pśeglědowaś
+shopping-message-bar-page-not-supported-message = Bóžko  njamóžomy kwalitu pógódnośenja za wěste produktowe typy kontrolěrowaś. Na pśikład za darjeńske kórty a tšugajuce wideo, muziku a graśa.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -53,9 +57,12 @@ shopping-message-bar-analysis-in-progress-title = Analyza skóro pśiźo
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Analyzator na { -fakespot-website-name } startowaś
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Wjerški z nejnowšych pógódnośenjow
 shopping-highlight-price = Płaśizna
 shopping-highlight-quality = Kwalita
 shopping-highlight-shipping = Rozpósłanje
@@ -73,7 +80,9 @@ shopping-settings-label =
     .label = Nastajenja
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pógódnośenjow pokazaś
+shopping-settings-recommendations-learn-more = Buźośo wótergi wabjenje za relewantne produkty wiźeś. Wšykne wabjeńske anonse našym standardam za kwalitu pógódnośenjow wótpowěduju. <a data-l10n-name="review-quality-url">Dalšne informacije</a>
 shopping-settings-opt-out-button = Kontrolu pógódnośenjow znjemóžniś
+powered-by-fakespot = Kontrola pógódnośenjow se wót <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchujo.
 
 ## Strings for the adjusted rating component
 
@@ -90,6 +99,10 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Kak kwalitu pógódnośenja póstajamy
+shopping-analysis-explainer-intro =
+    Wužywamy technologiju KI z { -fakespot-brand-full-name }, aby my spušćobnosć produktowych pógódnośenjow analyzěrowali.
+    Toś ta analyza buźo jano pomagaś, kwalitu pógódnośenjow pósuźiś, nic kwalitu produktow.
+shopping-analysis-explainer-grades-intro = Pśirědujomy pógódnośenjam kuždego produkta <strong>pismikowu cenzuru</strong> wót A do F.
 shopping-analysis-explainer-learn-more = Zgóńśo wěcej wó tom, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pógódnośenja póstaja</a>.
 
 ## Strings for UrlBar button
