@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = { -brand-product-name }-shopping
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Vurderingskontrollør
 shopping-close-button =
     .title = Lat att
 # This string is for notifying screen reader users that the
@@ -32,6 +36,7 @@ shopping-message-bar-warning-stale-analysis-message = Start analysatoren { -fake
 shopping-message-bar-generic-error-title = Analysen er ikkje tilgjengeleg akkurat no
 shopping-message-bar-generic-error-message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
+shopping-message-bar-warning-not-enough-reviews-message = Når dette produktet har fleire vurderingar, vil vi kunne analysere dei.
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
 shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
 shopping-message-bar-warning-product-not-available-reported-title = Analysar kjem snart
@@ -67,6 +72,7 @@ shopping-show-less-button = Vis mindre
 
 shopping-settings-label =
     .label = Innstillingar
+shopping-settings-opt-out-button = Slå av vurderingskontrolløren
 
 ## Strings for the adjusted rating component
 
@@ -76,6 +82,8 @@ shopping-adjusted-rating-unreliable-reviews = Upålitelege vurderingar er fjerna
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Kor pålitelege er vurderingane?
 
 ## Strings for the analysis explainer component
 
@@ -102,3 +110,4 @@ shopping-unanalyzed-product-analyze-link = Start analysator på { -fakespot-webs
 
 more-to-consider-ad-label =
     .label = Meir å vurdere
+ad-by-fakespot = Reklame frå { -fakespot-brand-name }
