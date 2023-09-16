@@ -49,6 +49,7 @@ shopping-message-bar-warning-offline-message = Праверце падключэ
 shopping-message-bar-analysis-in-progress-title = Аналіз хутка будзе
 shopping-message-bar-analysis-in-progress-message = Калі будзе гатова, мы аўтаматычна пакажам тут абноўленую інфармацыю.
 shopping-message-bar-page-not-supported-title = Мы не можам праверыць гэтыя водгукі
+shopping-message-bar-page-not-supported-message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -56,12 +57,17 @@ shopping-message-bar-page-not-supported-title = Мы не можам праве�
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Запусціць аналізатар на { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Асноўныя моманты з апошніх водгукаў
+shopping-highlight-price = Кошт
 shopping-highlight-quality = Якасць
 shopping-highlight-shipping = Дастаўка
 shopping-highlight-competitiveness = Канкурэнтаздольнасць
+shopping-highlight-packaging = Упакоўка
 
 ## Strings for show more card
 
@@ -72,6 +78,11 @@ shopping-show-less-button = Паказаць менш
 
 shopping-settings-label =
     .label = Налады
+shopping-settings-recommendations-toggle =
+    .label = Паказваць рэкламу ў сродку праверкі водгукаў
+shopping-settings-recommendations-learn-more = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Усе аб'явы павінны адпавядаць нашым стандартам якасці водгукаў. <a data-l10n-name="review-quality-url">Падрабязней</a>
+shopping-settings-opt-out-button = Адключыць сродак праверкі водгукаў
+powered-by-fakespot = Сродак праверкі водгукаў працуе на аснове  <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -88,6 +99,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Як мы вызначаем якасць агляду
+shopping-analysis-explainer-intro =
+    Мы выкарыстоўваем тэхналогію штучнага інтэлекту ад { -fakespot-brand-full-name } для аналізу надзейнасці водгукаў на прадукцыю.
+    Гэты аналіз дапаможа вам ацаніць толькі якасць водгуку, а не якасць прадукту.
 
 ## Strings for UrlBar button
 
