@@ -43,6 +43,9 @@ about-logging-preset-media-playback-description = Модулі журнала д
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модулі журнала для дыягностыкі выклікаў WebRTC
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Модулі журнала для дыягностыкі праблем з WebGPU
+about-logging-preset-gfx-label = Графіка
+about-logging-preset-gfx-description = Модулі журнала для дыягностыкі праблем з графікай
 about-logging-preset-custom-label = Уласная
 about-logging-preset-custom-description = Выбраныя ўручную модулі журнала
 # Error handling

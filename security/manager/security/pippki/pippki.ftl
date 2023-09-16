@@ -57,6 +57,11 @@ client-auth-window =
     .title = Запыт вызначэння карыстальніка
 client-auth-site-description = Гэты сайт патрабуе, каб вы ідэнтыфікавалі сябе сертыфікатам:
 client-auth-choose-cert = Вылучыце сертыфікат, каб падаць як вызначэнне:
+client-auth-send-no-certificate =
+    .label = Не адпраўляць сертыфікат
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = «{ $hostname }» патрабуе, каб вы ідэнтыфікавалі сябе сертыфікатам:
 client-auth-cert-details = Падрабязнасці вылучанага сертыфіката:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
