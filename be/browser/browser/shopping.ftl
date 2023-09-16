@@ -102,9 +102,23 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro =
     Мы выкарыстоўваем тэхналогію штучнага інтэлекту ад { -fakespot-brand-full-name } для аналізу надзейнасці водгукаў на прадукцыю.
     Гэты аналіз дапаможа вам ацаніць толькі якасць водгуку, а не якасць прадукту.
+shopping-analysis-explainer-grades-intro = Кожнаму водгуку на прадукт мы прысвойваем <strong>літарную адзнаку</strong> ад A да F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Скарэкціраваны рэйтынг</strong> заснаваны толькі на водгуках, якія мы лічым надзейнымі.
+shopping-analysis-explainer-learn-more = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } вызначае якасць водгукаў</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Асноўныя моманты</strong> з водгукаў пра { $retailer } за апошнія 80 дзён, якія мы лічым надзейнымі.
+shopping-analysis-explainer-review-grading-scale-reliable = Надзейныя водгукі. Мы лічым, што водгукі, хутчэй за ўсё, ад сапраўдных кліентаў, якія пакінулі сумленныя, непрадузятыя водгукі.
+shopping-analysis-explainer-review-grading-scale-mixed = Мы лічым, што тут ёсць сумесь надзейных і ненадзейных водгукаў.
+shopping-analysis-explainer-review-grading-scale-unreliable = Ненадзейныя водгукі. Мы лічым, што агляды, хутчэй за ўсё, падробленыя або ад неаб'ектыўных аглядальнікаў.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Адкрыць бакавую панэль пакупак
+shopping-sidebar-close-button =
+    .tooltiptext = Закрыць бакавую панэль пакупак
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -113,6 +127,12 @@ shopping-analysis-explainer-intro =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = Пакуль няма аналізу гэтых водгукаў
+shopping-unanalyzed-product-message = Запусціце аналізатар { -fakespot-brand-full-name }, і прыкладна праз 60 секунд вы даведаецеся, ці надзейныя водгукі аб гэтым прадукце.
+shopping-unanalyzed-product-analyze-link = Запусціць аналізатар на { -fakespot-website-name }
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Што яшчэ варта разгледзець
+ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
