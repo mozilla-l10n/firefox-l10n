@@ -175,6 +175,7 @@ firefoxview-view-more-browsing-history = ਹੋਰ ਬਰਾਊਜ਼ ਕਰਨ ਦ
 
 firefoxview-history-empty-header = ਜਿੱਥੇ ਤੁਸੀਂ ਸੀ, ਉੱਤੇ ਵਾਪਸ ਜਾਓ
 firefoxview-history-empty-description = ਜਿਵੇਂ ਤੁਸੀਂ ਬਰਾਊਜ਼ ਕਰਦੇ ਹੋ ਤਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੇ ਗਏ ਸਫ਼਼ਿਆਂ ਨੂੰ ਇੱਥੇ ਦਿਕਾਇਆ ਜਾਵੇਗਾ।
+firefoxview-history-empty-description-two = ਅਸੀਂ ਜੋ ਵੀ ਕਰਦੇ ਹਾਂ, ਉਸ ਵਿੱਚ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਸਾਹਮਣੇ ਰੱਖਦੇ ਹਾਂ। ਇਸੇ ਕਰਕੇ ਤੁਸੀਂ <a data-l10n-name="history-settings-url">ਅਤੀਤ ਸੈਟਿੰਗਾਂ</a> ਵਿੱਚ  { -brand-short-name } ਸਰਗਰਮੀ ਯਾਦ ਰੱਖਣ ਨੂੰ ਕੰਟਰੋਲ ਕਰ ਸਕਦੇ ਹੋ।
 
 ##
 
@@ -185,6 +186,8 @@ firefoxview-choose-browser-button = ਬਰਾਊਜ਼ਰ ਚੁਣੋ
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = ਵੇਖਾਉਣ ਲਈ ਕੁਝ ਵੀ ਨਹੀਂ ਹੈ
+firefoxview-dont-remember-history-empty-description = ਅਸੀਂ ਜੋ ਵੀ ਕਰਦੇ ਹਾਂ, ਉਸ ਲਈ ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਹਮੇਸ਼ਾਂ ਸਾਹਮਣੇ ਰੱਖਦੇ ਹਾਂ। ਇਸੇ ਕਰਕੇ ਤੁਸੀਂ { -brand-short-name } ਵਲੋਂ ਯਾਦ ਰੱਖਣ ਦੀ ਸਰਗਰਮੀ ਉੱਤੇ ਕੰਟਰੋਲ ਰੱਖ ਸਕਦੇ ਹੋ।
+firefoxview-dont-remember-history-empty-description-two = ਤੁਹਾਡੀਆਂ ਸੈਟਿੰਗਾਂ ਦੇ ਮੁਤਾਬਕ { -brand-short-name } ਬਰਾਊਜ਼ਰ ਕਰਨ ਦੌਰਾਨ ਤੁਹਾਡੀ ਸਰਗਰਮੀ ਨੂੰ ਯਾਦ ਨਹੀਂ ਰੱਖੇਗਾ। ਉਸ ਨੂੰ ਬਦਲਣ ਲਈ <a data-l10n-name="history-settings-url-two">ਆਪਣੀਆਂ ਅਤੀਤ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਅਤੀਤ ਨੂੰ ਯਾਦ ਰੱਖਣ ਲਈ ਬਦਲੋ</a>।
 
 ##
 
@@ -196,6 +199,7 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਅਤੀਤ ਇੰਪੋਰਟ ਕਰੋ
+firefoxview-import-history-description = { -brand-short-name } ਨੂੰ ਆਪਣਾ ਨਾਲ ਰੱਖਣ ਵਾਲਾ ਬਰਾਊਜ਼ਰ ਬਣਾਓ। ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ, ਬੁੱਕਮਾਰਕ ਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਦਰਾਮਦ ਕਰੋ।
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
