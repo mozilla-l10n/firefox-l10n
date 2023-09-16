@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ਜੇ ਤੁਸੀਂ ਟਰੈਕ ਨਹੀਂ ਕੀਤੇ ਜਾਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ ਵੈੱਬਸਾਈਟ ਨੂੰ “ਟਰੈਕ ਨਾ ਕਰੋ” ਸੰਕੇਤ ਭੇਜੋ
+do-not-track-description2 =
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂ “ਟਰੈਕ ਨਾ ਕਰੋ” ਬੇਨਤੀ ਭੇਜੋ
+    .accesskey = d
 do-not-track-learn-more = ਹੋਰ ਸਿੱਖੋ
 do-not-track-option-default-content-blocking-known =
     .label = ਸਿਰਫ਼ ਜਦੋਂ { -brand-short-name } ਨੂੰ ਜਾਣ-ਪਛਾਣੇ ਟਰੈਕਰਾਂ ਤੇ ਪਾਬੰਦੀ ਲਗਾਉਣ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ
 do-not-track-option-always =
     .label = ਹਮੇਸ਼ਾ
+global-privacy-control-description =
+    .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਮੇਰਾ ਡਾਟਾ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਨਾ ਕਰਨ ਲਈ ਦੱਸੋ
+    .accesskey = s
 settings-page-title = ਸੈਟਿੰਗਾਂ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -1032,6 +1038,10 @@ content-blocking-all-windows-tracking-content = ਸਾਰੀਆਂ ਵਿੰਡ�
 content-blocking-all-cross-site-cookies = ਸਭ ਅੰਤਰ-ਸਾਈਟ ਕੂਕੀਜ਼
 content-blocking-cryptominers = ਕ੍ਰਿਪਟੋ-ਮਾਈਨਰ
 content-blocking-fingerprinters = ਫਿੰਗਰਪਰਿੰਟਰ
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = ਜਾਣੇ-ਪਛਾਣੇ ਅਤੇ ਸ਼ੱਕੀ ਫਿੰਗਰ-ਪਰਿੰਟਰ
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1073,6 +1083,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = ਫਿੰਗਰਪਰਿੰਟਰ
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = ਜਾਣੇ-ਪਛਾਣੇ ਫਿੰਗਰ-ਪਰਿੰਟਰ
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = ਸ਼ੱਕੀ ਫਿੰਗਰ-ਪਰਿੰਟਰ
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
@@ -1135,6 +1157,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਕਰਨਾ ਅਤੇ ਵਰਤੋ
+collection-header2 = { -brand-short-name } ਡਾਟਾ ਇਕੱਤਰ ਅਤੇ ਵਰਤੋਂ
+    .searchkeywords = ਟੈਲੀਮੈਂਟਰੀ
 collection-description = ਅਸੀਂ ਤੁਹਾਨੂੰ ਚੋਣ ਕਰਨ ਦਾ ਮੌਕਾ ਲਈ ਤਰਸਦੇ ਹਾਂ ਅਤੇ ਸਿਰਫ਼ ਉਹੀ ਇਕੱਤਰ ਕਰਦੇ ਹਾਂ, ਜੋ ਕਿ ਹਰੇਕ ਲਈ { -brand-short-name } ਦੇਣ ਅਤੇ ਸੁਧਾਰਨ ਲਈ ਚਾਹੀਦਾ ਹੈ। ਨਿੱਜੀ ਜਾਣਕਾਰੀ ਪ੍ਰਾਪਤ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਅਸੀਂ ਹਮੇਸ਼ਾਂ ਇਜਾਜ਼ਤ ਲੈਂਦੇ ਹਾਂ
 collection-privacy-notice = ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ
 collection-health-report-telemetry-disabled = ਤੁਸੀਂ ਹੁਣ { -vendor-short-name } ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਫੜਨ ਲਈ ਸਹਿਮਤੀ ਹਟਾ ਦਿੱਤੀ ਹੈ। ਸਾਰੇ ਪਿਛਲੇ ਡਾਟੇ ਨੂੰ 30 ਦਿਨਾਂ ਵਿੱਚ ਹਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ।
