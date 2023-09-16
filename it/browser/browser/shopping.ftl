@@ -137,3 +137,24 @@ more-to-consider-ad-label =
     .label = Altri prodotti da valutare
 ad-by-fakespot = Annuncio di { -fakespot-brand-name }
 
+## Shopping survey strings.
+
+shopping-survey-headline = Aiutaci a migliorare { -brand-product-name }
+shopping-survey-question-one = Quanto sei soddisfatto della tua esperienza con la verifica recensioni di { -brand-product-name }?
+
+shopping-survey-q1-radio-1-label = Molto soddisfatto
+shopping-survey-q1-radio-2-label = Soddisfatto
+shopping-survey-q1-radio-3-label = Indifferente
+shopping-survey-q1-radio-4-label = Insoddisfatto
+shopping-survey-q1-radio-5-label = Molto insoddisfatto
+
+shopping-survey-question-two = La verifica recensioni ti ha aiutato a prendere decisioni prima dell’acquisto?
+
+shopping-survey-q2-radio-1-label = Sì
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = Non so
+
+shopping-survey-next-button-label = Successivo
+shopping-survey-submit-button-label = Invia
+shopping-survey-terms-link = Condizioni di utilizzo del servizio
+shopping-survey-thanks-message = Grazie per aver condiviso la tua opinione.
