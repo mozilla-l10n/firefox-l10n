@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Шопінг { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Засіб перевірки відгуків
@@ -114,6 +115,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Сумнівні �
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Відкрити бічну панель шопінгу
+shopping-sidebar-close-button =
+    .tooltiptext = Закрити бічну панель шопінгу
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
