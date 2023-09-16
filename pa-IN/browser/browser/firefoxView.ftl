@@ -5,10 +5,15 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = ਵਿੰਡੋਆਂ ਅਤੇ ਡਿਵਾਈਸਾਂ ਵਿਚਾਲੇ ਸੱਜਰੀ ਬਰਾਊਜ਼ਿੰਗ ਵੇਖੋ
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = ਬੰਦ ਕਰੋ
     .aria-label = ਬੰਦ ਕਰੋ
@@ -141,6 +146,10 @@ firefoxview-show-more = ਹੋਰ ਵੇਖਾਓ
 firefoxview-show-less = ਘੱਟ ਵੇਖਾਓ
 firefoxview-sort-history-by-date-label = ਤਾਰੀਖ ਰਾਹੀਂ ਲੜੀਬੱਧ
 firefoxview-sort-history-by-site-label = ਸਾਈਟ ਰਾਹੀਂ ਲੜੀਬੱਧ
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url } ਉੱਤੇ ਜਾਓ
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
