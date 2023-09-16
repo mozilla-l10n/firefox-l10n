@@ -158,6 +158,7 @@ language-name-ro = román
 language-name-ru = orosz
 language-name-rw = kinyarwanda
 language-name-sa = szanszkrit
+language-name-sat = Szantháli
 language-name-sc = szárd
 language-name-sco = scots
 language-name-sd = sindhi
