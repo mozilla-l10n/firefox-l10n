@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Aktualizěrujśo swóje synchronizacisk
 firefoxview-syncedtabs-synctabs-description = Aby rejtariki z drugich rědow wiźeł, musyśo swóje wócynjone rejtariki synchronizěrowaś.
 firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wócynjonych rejtarikow dowoliś
 firefoxview-syncedtabs-loading-header = Synchronizěrujo se
+firefoxview-syncedtabs-loading-description = Gaž to jo dokóńcone, buźośo rejtariki wiźeś, kótarež su na drugich rědach wócynjone. Pśiźćo skóro mimo.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija jo znjemóžniła synchronizaciju
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njamóžo rejtariki mjazy rědami synchronizěrowaś, dokulaž waš administrator jo znjemóžnił synchronizěrowanje.
 firefoxview-tabpickup-network-offline-header = Pśeglědujśo swój internetny zwisk
