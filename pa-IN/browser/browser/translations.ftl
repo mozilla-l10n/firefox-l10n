@@ -5,6 +5,26 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = ਇਹ ਸਫ਼ੇ ਦਾ ਅਨੁਵਾਦ ਕਰੋ - ਬੀਟਾ
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = { -brand-shorter-name } ਵਿੱਚ ਪ੍ਰਾਈਵੇਟ ਅਨੁਵਾਦ ਅਜ਼ਮਾਓ - ਬੀਟਾ
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = ਸਫ਼ੇ ਦਾ { $fromLanguage } ਤੋਂ { $toLanguage } ਵਿੱਚ ਅਨੁਵਾਦ ਕੀਤਾ
+urlbar-translations-button-loading =
+    .tooltiptext = ਅਨੁਵਾਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 translations-panel-settings-button =
     .aria-label = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 # Text displayed on a language dropdown when the language is in beta
@@ -27,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = ਹਮੇਸ਼ਾਂ { $language } ਦਾ ਅਨੁਵਾਦ ਕਰੋ
 translations-panel-settings-always-translate-unknown-language =
     .label = ਇਸ ਭਾਸ਼ਾ ਵਿੱਚ ਅਨੁਵਾਦ ਕਰੋ
+translations-panel-settings-always-offer-translation =
+    .label = ਹਮੇਸ਼ਾਂ ਅਨੁਵਾਦ ਲਈ ਪੁੱਛੋ
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -48,6 +70,9 @@ translations-panel-translate-button-loading =
     .label = …ਠਹਿਰੋ ਜੀ
 translations-panel-translate-cancel =
     .label = ਰੱਦ ਕਰੋ
+translations-panel-learn-more-link = ਹੋਰ ਜਾਣੋ
+translations-panel-intro-header = { -brand-shorter-name } ਵਿੱਚ ਪ੍ਰਾਈਵੇਟ ਅਨੁਵਾਦ ਅਜ਼ਮਾਓ
+translations-panel-intro-description = ਤੁਹਾਡੀ ਪਰਦੇਦਾਰੀ ਲਈ, ਅਨੁਵਾਦ ਕਦੇ ਵੀ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਤੋਂ ਬਾਹਰ ਨਹੀਂ ਜਾਦੇ ਹਨ। ਨਵੀਆਂ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਸੁਧਾਰ ਛੇਤੀ ਹੀ ਆ ਰਹੇ ਹਨ!
 translations-panel-error-translating = ਅਨੁਵਾਦ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਬਾਅਦ ਵਿੱਚ ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-panel-error-load-languages = ਭਾਸ਼ਾਵਾਂ ਲੋਡ ਨਹੀਂ ਕੀਤੀਆਂ ਜਾ ਸਕੀਆਂ
 translations-panel-error-load-languages-hint = ਆਪਣੇ ਇੰਟਰਨੈੱਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ ਤੇ ਫ਼ੇਰ ਕੋਸ਼ਸ਼ ਕਰੋ।
@@ -101,14 +126,19 @@ translations-manage-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ �
 translations-manage-all-language = ਸਭ ਭਾਸ਼ਾਵਾਂ
 translations-manage-download-button = ਡਾਊਨਲੋਡ
 translations-manage-delete-button = ਹਟਾਓ
-translations-manage-language-download-button =
-    .label = ਡਾਊਨਲੋਡ
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = ਹਟਾਓ
-    .accesskey = e
 translations-manage-error-download = ਭਾਸ਼ਾ ਫ਼ਾਈਲਾਂ ਡਾਊਨਲੋਡ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਹੈ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-manage-error-delete = ਭਾਸ਼ਾ ਫ਼ਾਈਲ ਹਟਾਉਣ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ ਸੀ। ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+translations-manage-install-description = ਆਫ਼ਲਾਈਨ ਅਨੁਵਾਦ ਲਈ ਭਾਸ਼ਾਵਾਂ ਇੰਸਟਾਲ ਕਰੋ
+translations-manage-language-install-button =
+    .label = ਇੰਸਟਾਲ ਕਰੋ
+translations-manage-language-install-all-button =
+    .label = ਸਭ ਇੰਸਟਾਲ
+    .accesskey = I
+translations-manage-language-remove-button =
+    .label = ਹਟਾਓ
+translations-manage-language-remove-all-button =
+    .label = ਸਭ ਹਟਾਓ
+    .accesskey = e
 translations-manage-error-list = ਅਨੁਵਾਦ ਲਈ ਮੌਜੂਦ ਭਾਸ਼ਾਵਾਂ ਦੀ ਸੂਚੀ ਲੈਣ ਲਈ ਅਸਫ਼ਲ ਹੈ। ਸਫ਼ੇ ਨੂੰ ਤਾਜ਼ਾ ਕਰਕੇ ਫ਼ੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 translations-settings-title =
     .title = ਅਨੁਵਾਦ ਸੈਟਿੰਗਾਂ
