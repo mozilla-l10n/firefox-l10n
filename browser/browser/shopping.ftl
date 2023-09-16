@@ -19,6 +19,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Spušćomne pohódnoćenja
+shopping-letter-grade-description-c = Měšeńca ze spušćomnych a njespušćomnych pohódnoćenjow
 shopping-letter-grade-description-df = Njespušćomne pohódnoćenja
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
@@ -31,11 +32,17 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
+shopping-message-bar-warning-stale-analysis-message = Startujće analyzator { -fakespot-brand-full-name }. zo byšće za přibližnje 60 sekundow aktualne informacije dóstał.
+shopping-message-bar-generic-error-title = Analyza tuchwilu k dispoziciji njeje
+shopping-message-bar-generic-error-message = Dźěłamy na rozrisanju tutoho problema. Hladajće prošu bórze zaso za tym.
+shopping-message-bar-warning-not-enough-reviews-title = Hišće dosć pohódnoćenjow njeje
+shopping-message-bar-warning-not-enough-reviews-message = Hdyž tutón produkt ma wjace pohódnoćenjow, móžemy je analyzować.
 shopping-message-bar-warning-product-not-available-title = Produkt k dispoziciji njeje
 shopping-message-bar-thanks-for-reporting-title = Wulki dźak za zdźělenku!
 shopping-message-bar-warning-product-not-available-reported-title = Analyza bórze přińdźe
 shopping-message-bar-warning-offline-title = Žadyn syćowy zwisk
 shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
+shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -100,4 +107,6 @@ shopping-unanalyzed-product-header = Hišće žana analyza za tute pohódnoćenj
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Dalše móžnosće
 ad-by-fakespot = Wabjenje wot { -fakespot-brand-name }
