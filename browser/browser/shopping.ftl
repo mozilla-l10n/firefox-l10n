@@ -103,7 +103,12 @@ shopping-analysis-explainer-intro =
     Wužywamy technologiju KI z { -fakespot-brand-full-name }, aby my spušćobnosć produktowych pógódnośenjow analyzěrowali.
     Toś ta analyza buźo jano pomagaś, kwalitu pógódnośenjow pósuźiś, nic kwalitu produktow.
 shopping-analysis-explainer-grades-intro = Pśirědujomy pógódnośenjam kuždego produkta <strong>pismikowu cenzuru</strong> wót A do F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Pśiměrjone pógódnośowanje</strong> jano na pógódnośenjach bazěrujo, kótarež mamy za spušćobne.
 shopping-analysis-explainer-learn-more = Zgóńśo wěcej wó tom, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pógódnośenja póstaja</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Wjerški</strong> su z pógódnośenjow { $retailer } w běgu slědnych 80 dnjow, kótarež mamy za spušćobne.
 
 ## Strings for UrlBar button
 
