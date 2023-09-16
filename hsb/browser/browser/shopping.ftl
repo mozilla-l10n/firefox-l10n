@@ -47,6 +47,7 @@ shopping-message-bar-warning-product-not-available-reported-message = Zaktualizo
 shopping-message-bar-warning-offline-title = Žadyn syćowy zwisk
 shopping-message-bar-warning-offline-message = Přepruwujće swój syćowy zwisk. Spytajće potom stronu znowa začitać.
 shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
+shopping-message-bar-analysis-in-progress-message = Hdyž je dokónčene, budźemy tu zaktualizowane informacije awtomatisce pokazować.
 shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
 
 ## The word 'analyzer' when used here reflects what this tool is called on
