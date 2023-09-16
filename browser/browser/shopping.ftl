@@ -69,12 +69,14 @@ shopping-settings-label =
 
 shopping-adjusted-rating-label =
     .label = Juster vurdering
+shopping-adjusted-rating-unreliable-reviews = Upålitelege vurderingar er fjerna
 
 ## Strings for the review reliability component
 
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderinga</strong> er berre basert på vurderingar som vi meinar er pålitelege.
 
 ## Strings for UrlBar button
 
