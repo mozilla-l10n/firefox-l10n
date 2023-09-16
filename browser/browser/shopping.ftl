@@ -109,6 +109,9 @@ shopping-analysis-explainer-learn-more = Zhońće wjace wo tym, <a data-l10n-nam
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Wjerški</strong> su z pohódnoćenjow { $retailer } w běhu poslednich 80 dnjow, kotrež mamy za spušćomne.
+shopping-analysis-explainer-review-grading-scale-reliable = Spušćomne pohódnoćenja. Myslimy sej, zo pohódnoćenja su najskerje wot woprawdźitych kupcow, kotřiž su sprawne, bjezpředsudne pohódnoćenja zawostajili.
+shopping-analysis-explainer-review-grading-scale-mixed = Wěrimy, zo je měšeńca spušćomnych a njespušćomnych pohódnoćenjow.
+shopping-analysis-explainer-review-grading-scale-unreliable = Njespušćomne pohódnoćenja. Myslimy sej, zo pohódnoćenja su najskerje sfalšowane abo wot pohódnoćowacych z předsudkami.
 
 ## Strings for UrlBar button
 
@@ -125,6 +128,7 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Hišće žana analyza za tute pohódnoćenja
+shopping-unanalyzed-product-message = Startujće analyzator { -fakespot-brand-full-name } a zhoniće za přibližnje 60 sekundow, hač pohódnoćenja tutoho produkta su spušćomne.
 shopping-unanalyzed-product-analyze-link = Analyzator na { -fakespot-website-name } startować
 
 ## Strings for the advertisement
