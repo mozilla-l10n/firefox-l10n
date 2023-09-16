@@ -14,6 +14,7 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-df = Avaliações não confiáveis
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -25,6 +26,8 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
+shopping-message-bar-thanks-for-reporting-title = Obrigado por reportar!
+shopping-message-bar-analysis-in-progress-title = Análise em breve
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -53,6 +56,8 @@ shopping-settings-label =
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Classificação ajustada
 
 ## Strings for the review reliability component
 
