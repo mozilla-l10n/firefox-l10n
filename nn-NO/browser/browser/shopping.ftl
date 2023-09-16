@@ -15,6 +15,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Pålitelege vurderingar
+shopping-letter-grade-description-c = Blanding av pålitelege og upålitelege vurderingar
 shopping-letter-grade-description-df = Upålitelege vurderingar
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.

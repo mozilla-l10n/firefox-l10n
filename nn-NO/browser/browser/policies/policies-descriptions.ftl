@@ -28,6 +28,7 @@ policy-CertificatesDescription = Legg til sertifikat eller bruk innebygde sertif
 policy-Cookies = Tillat eller nekt nettstadar å lagre infokapslar.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Angi policyar relatert til behaldarar.
+policy-DisableAccounts = Slå av kontobaserte tenester, inkludert synkronisering.
 policy-DisabledCiphers = Deaktiver krypteringsmetodar.
 policy-DefaultDownloadDirectory = Vel standardmappe for nedlastingar.
 policy-DisableAppUpdate = Hindre oppdatering av nettlesaren.
