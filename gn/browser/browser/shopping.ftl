@@ -62,12 +62,16 @@ shopping-show-less-button = Ehechauka’ive
 
 shopping-settings-label =
     .label = Ñemboheko
+shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-unreliable-reviews = Oñemboguéta marandu’i jerovia’ỹha
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Ejerovia añetépa ko’ã hechajeýre
 
 ## Strings for the analysis explainer component
 
