@@ -19,8 +19,8 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = ਭਰੋਸੇਯੋਗ ਪੜਤਾਲਾਂ
-shopping-letter-grade-description-c = ਭਰੋਸੇਯੋਗ ਅਤੇ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰਲਵੀਆਂ ਪੜਤਾਲਾਂ
-shopping-letter-grade-description-df = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਪੜਤਾਲਾਂ
+shopping-letter-grade-description-c = ਭਰੋਸੇਯੋਗ ਅਤੇ ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰਲਵੇਂ ਰੀਵਿਊ
+shopping-letter-grade-description-df = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -32,6 +32,18 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
+shopping-message-bar-warning-stale-analysis-message = 60 ਸਕਿੰਟਾਂ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ { -fakespot-brand-full-name } ਵਿਸ਼ਲੇਸ਼ਣ ਚਲਾਓ।
+shopping-message-bar-generic-error-title = ਵਿਸ਼ਲੇਸ਼ਣ ਹਾਲੇ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+shopping-message-bar-generic-error-message = ਅਸੀਂ ਮਸਲਾ ਠੀਕ ਕਰਨ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ। ਫ਼ੇਰ ਵਾਪਸ ਦੇਖਿਓ।
+shopping-message-bar-warning-not-enough-reviews-title = ਹਾਲੇ ਚੋਖੇ ਰੀਵਿਊ ਨਹੀਂ ਹਨ
+shopping-message-bar-warning-not-enough-reviews-message = ਜਦੋਂ ਉਪਤਾਦ ਲਈ ਹੋਰ ਰੀਵਿਊ ਹੁੰਦੇ ਹਨ ਤਾਂ ਅਸੀਂ ਉਹਨਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰ ਸਕਦੇ ਹਾਂ
+shopping-message-bar-warning-product-not-available-title = ਉਤਪਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+shopping-message-bar-warning-product-not-available-message = ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਉਤਪਾਦ ਵਾਪਸ ਸਟਾਕ ਵਿੱਚ ਮਿਲੇ ਤਾਂ ਸਾਨੂੰ ਇਸ ਬਾਰੇ ਦੱਸਿਓ ਅਤੇ ਅਸੀਂ ਵਿਸ਼ਲੇਸ਼ਨ ਅੱਪਡੇਟ ਕਰਾਂਗੇ।
+shopping-message-bar-warning-product-not-available-button = ਇਸ ਉਤਪਾਦ ਦੇ ਸਟਾਕ ਵਿੱਚ ਵਾਪਸ ਹੋਣ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
+shopping-message-bar-thanks-for-reporting-title = ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਧੰਨਵਾਦ!
+shopping-message-bar-thanks-for-reporting-message = ਸਾਡੇ ਕੋਲ ਵਿਸ਼ਲੇਸ਼ਣ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
+shopping-message-bar-warning-product-not-available-reported-title = ਵਿਸ਼ਲੇਸ਼ਣ ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ
+shopping-message-bar-warning-product-not-available-reported-message = ਅੱਪਡੇਟ ਕੀਤਾ ਵਿਸ਼ਲੇਸ਼ਣ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਤਿਆਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
 shopping-message-bar-warning-offline-title = ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ
 shopping-message-bar-warning-offline-message = ਆਪਣੇ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ। ਫ਼ੇਰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 shopping-message-bar-analysis-in-progress-title = ਵਿਸ਼ਲੇਸ਼ਣ ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ
@@ -68,6 +80,7 @@ shopping-settings-label =
     .label = ਸੈਟਿੰਗਾਂ
 shopping-settings-recommendations-toggle =
     .label = ਪੜਤਾਲ ਜਾਂਚਕਰਤਾ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਵੇਖਾਓ
+shopping-settings-recommendations-learn-more = ਤੁਸੀਂ ਕਦੇ ਕਦਾਈ ਸੰਬੰਧਿਤ ਉਤਪਾਦਾਂ ਲਈ ਇਸ਼ਤਿਹਾਰ ਵੇਖੋਗੇ। ਸਾਰੇ ਇਸ਼ਤਿਹਾਰ ਸਾਡੇ ਰੀਵਿਊ ਕੁਆਲਟੀ ਮਿਆਰ ਮੁਤਾਬਕ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। <a data-l10n-name="review-quality-url">ਹੋਰ ਜਾਣੋ</a>
 shopping-settings-opt-out-button = ਪੜਤਾਲ ਜਾਂਚਕਰਤਾ ਬੰਦ ਕਰੋ
 
 ## Strings for the adjusted rating component
