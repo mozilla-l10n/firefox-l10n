@@ -40,16 +40,22 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-title = Aggiornamenti disponibili
 shopping-message-bar-warning-stale-analysis-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } per ottenere informazioni aggiornate in circa 60 secondi.
 shopping-message-bar-generic-error-title = Analisi non disponibile al momento
+shopping-message-bar-generic-error-title2 = Nessuna informazione disponibile al momento
 shopping-message-bar-generic-error-message = Stiamo lavorando per risolvere il problema. Ricontrolla a breve.
 shopping-message-bar-warning-not-enough-reviews-title = Non ci sono ancora abbastanza recensioni
 shopping-message-bar-warning-not-enough-reviews-message = Non appena questo prodotto avrà più recensioni, saremo in grado di analizzarle.
+shopping-message-bar-warning-not-enough-reviews-message2 = Non appena questo prodotto avrà più recensioni, saremo in grado di verificarne la qualità.
 shopping-message-bar-warning-product-not-available-title = Il prodotto non è disponibile
 shopping-message-bar-warning-product-not-available-message = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per aggiornare l’analisi.
+shopping-message-bar-warning-product-not-available-message2 = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per verificarne le recensioni.
 shopping-message-bar-warning-product-not-available-button = Segnala che questo prodotto è di nuovo disponibile
 shopping-message-bar-thanks-for-reporting-title = Grazie per la segnalazione!
 shopping-message-bar-thanks-for-reporting-message = Dovremmo avere un’analisi aggiornata entro 24 ore. Ricontrolla più tardi.
+shopping-message-bar-thanks-for-reporting-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-warning-product-not-available-reported-title = Analisi disponibile a breve
 shopping-message-bar-warning-product-not-available-reported-message = Un’analisi aggiornata dovrebbe essere pronta entro 24 ore. Ricontrolla più tardi.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informazioni disponibili a breve
+shopping-message-bar-warning-product-not-available-reported-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-analysis-in-progress-title = Analisi disponibile a breve
 shopping-message-bar-analysis-in-progress-message = Al termine, mostreremo automaticamente le informazioni aggiornate qui.
 shopping-message-bar-page-not-supported-title = Impossibile verificare queste recensioni
@@ -105,7 +111,9 @@ shopping-analysis-explainer-label =
     .label = Come determiniamo la qualità delle recensioni
 shopping-analysis-explainer-intro =
     Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti.
-    Questa analisi ti aiuterà solo a valutare la qualità delle recensioni, non la qualità del prodotto.
+    Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
+shopping-analysis-explainer-intro2 =
+    Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
 shopping-analysis-explainer-grades-intro = Assegniamo alle recensioni di ogni prodotto un <strong>voto in lettere</strong> dalla A alla F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazione rettificata</strong> si basa esclusivamente su recensioni che riteniamo affidabili.
 shopping-analysis-explainer-learn-more = Scopri ulteriori informazioni su <a data-l10n-name="review-quality-url">come { -fakespot-brand-full-name } determina la qualità delle recensioni</a>.
