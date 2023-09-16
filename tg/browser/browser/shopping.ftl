@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Абзори тафтиши тақризҳо
 shopping-close-button =
     .title = Пӯшидан
 # This string is for notifying screen reader users that the
@@ -14,6 +17,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Тақризҳои боэътимод
+shopping-letter-grade-description-c = Маҷмӯи тақризҳои боэътимод ва беэътимод
+shopping-letter-grade-description-df = Тақризҳои беэътимод
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -28,6 +34,7 @@ shopping-message-bar-warning-stale-analysis-title = Навсозиҳо даст�
 shopping-message-bar-warning-product-not-available-title = Маҳсул дастнорас аст
 shopping-message-bar-thanks-for-reporting-title = Ташаккур барои гузориш!
 shopping-message-bar-warning-offline-title = Пайвастшавӣ ба шабака нест
+shopping-message-bar-page-not-supported-title = Мо ин тақризҳоро тафтиш карда наметавонем
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -38,9 +45,12 @@ shopping-message-bar-warning-offline-title = Пайвастшавӣ ба шаб�
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Нуқтаҳои асосӣ аз тақризҳои охирин
 shopping-highlight-price = Нарх
 shopping-highlight-quality = Сифат
 shopping-highlight-shipping = Бурдарасонӣ
+shopping-highlight-competitiveness = Рақобатпазирӣ
 shopping-highlight-packaging = Бастабандӣ
 
 ## Strings for show more card
@@ -52,18 +62,32 @@ shopping-show-less-button = Камтар нишон диҳед
 
 shopping-settings-label =
     .label = Танзимот
+shopping-settings-recommendations-toggle =
+    .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
+shopping-settings-opt-out-button = Ғайрифаъол кардани абзори тафтиши тақризҳо
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Баҳодиҳии санҷида дурустшуда
+shopping-adjusted-rating-unreliable-reviews = Тақризҳои беэътимод тоза карда шудаанд
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Ин тақризҳо то чӣ андоза боэътмод мебошанд?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Мо чӣ тавр сифати тақризҳоро муайян мекунем
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = Кушодани навори ҷонибӣ барои харидорӣ
+shopping-sidebar-close-button =
+    .tooltiptext = Пӯшидани навори ҷонибӣ барои харидорӣ
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -75,3 +99,6 @@ shopping-settings-label =
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Боз чӣ бояд ба назар гирифта шавад
+ad-by-fakespot = Реклама аз ҷониби «{ -fakespot-brand-name }»
