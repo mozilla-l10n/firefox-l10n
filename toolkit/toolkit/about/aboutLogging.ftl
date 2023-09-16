@@ -46,6 +46,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Naplómodulok a WebRTC hívások diagnosztizálásához
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Naplómodulok a WebGPU problémák diagnosztizálásához
+about-logging-preset-gfx-label = Grafika
+about-logging-preset-gfx-description = Naplómodulok a grafikai problémák diagnosztizálásához
 about-logging-preset-custom-label = Egyéni
 about-logging-preset-custom-description = Kézzel kiválasztott naplómodulok
 # Error handling

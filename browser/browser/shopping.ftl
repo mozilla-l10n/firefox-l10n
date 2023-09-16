@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Nincs hálózati kapcsolat
 shopping-message-bar-warning-offline-message = Ellenőrizze a hálózati kapcsolatot. Ezután próbálja meg újratölteni az oldalt.
 shopping-message-bar-analysis-in-progress-title = Az elemzés hamarosan elkészül
 shopping-message-bar-analysis-in-progress-message = Ha elkészül, akkor automatikusan a frissített információkat jelenítjük meg itt.
+shopping-message-bar-page-not-supported-title = Nem tudjuk ellenőrizni ezeket az értékeléseket
+shopping-message-bar-page-not-supported-message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

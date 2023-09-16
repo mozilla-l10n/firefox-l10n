@@ -24,6 +24,7 @@ inactive-css-not-flex-item = A(z) <strong>{ $property }</strong> nem befolyásol
 inactive-css-not-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis tároló.
 inactive-css-not-inline-or-tablecell = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem „inline” vagy „table-cell” elem.
 inactive-css-first-line-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::first-line pszeudoelemeken.
+inactive-css-first-letter-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::first-letter pszeudoelemeken.
 inactive-css-placeholder-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::placeholder pszeudoelemeken.
 inactive-css-property-because-of-display = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel a „display” értéke <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = A <strong>display</strong> értéket <strong>blokkolásra</strong> változtatta a motor, mert az elem <strong>lebegő</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = A(z) <strong>{ $property }</
 inactive-css-border-image = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem alkalmazható olyan belső táblázatelemekre, ahol a <strong>border-collapse</strong> <strong>collapse</strong> értékre van állítva szülő táblázatelem.
 inactive-css-ruby-element = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert ez egy rubi elem. A méretét a rubi szöveg mérete határozza meg.
 inactive-css-highlight-pseudo-elements-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a kiemelt pszeudoelemeken.
+inactive-css-cue-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::cue pszeudoelemeken.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
