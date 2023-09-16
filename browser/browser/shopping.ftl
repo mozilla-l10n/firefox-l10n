@@ -49,6 +49,7 @@ shopping-message-bar-warning-offline-message = Přepruwujće swój syćowy zwisk
 shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
 shopping-message-bar-analysis-in-progress-message = Hdyž je dokónčene, budźemy tu zaktualizowane informacije awtomatisce pokazować.
 shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
+shopping-message-bar-page-not-supported-message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -56,9 +57,12 @@ shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja 
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Analyzator na { -fakespot-website-name } startować
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Wjerški z najnowšich pohódnoćenjow
 shopping-highlight-price = Płaćizna
 shopping-highlight-quality = Kwalita
 shopping-highlight-shipping = Rozpósłanje
@@ -76,7 +80,9 @@ shopping-settings-label =
     .label = Nastajenja
 shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pohódnoćenjow pokazać
+shopping-settings-recommendations-learn-more = Budźeće hdys a hdys wabjenje za relewantne produkty widźeć. Wšě wabjenske anonsy našim standardam za kwalitu pohódnoćenjow wotpowěduja. <a data-l10n-name="review-quality-url">Dalše informacije</a>
 shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
+powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchuje.
 
 ## Strings for the adjusted rating component
 
@@ -93,7 +99,16 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Kak kwalitu pohódnoćenja postajamy
+shopping-analysis-explainer-intro =
+    Wužiwamy technologiju KI z { -fakespot-brand-full-name }, zo bychmy spušćomnosć produktowych pohódnoćenjow analyzowali.
+    Tuta analyza budźe jenož pomhać, kwalitu pohódnoćenjow posudźić, nic kwalitu produktow.
+shopping-analysis-explainer-grades-intro = Přirjadujemy pohódnoćenjam kóždeho produkta <strong>pismikowu znamku</strong> wot A do F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Přiměrjene hódnoćenje</strong> jenož na pohódnoćenjach bazuje, kotrež mamy za spušćomne.
 shopping-analysis-explainer-learn-more = Zhońće wjace wo tym, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pohódnoćenja postaja</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Wjerški</strong> su z pohódnoćenjow { $retailer } w běhu poslednich 80 dnjow, kotrež mamy za spušćomne.
 
 ## Strings for UrlBar button
 
@@ -110,6 +125,7 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Hišće žana analyza za tute pohódnoćenja
+shopping-unanalyzed-product-analyze-link = Analyzator na { -fakespot-website-name } startować
 
 ## Strings for the advertisement
 
