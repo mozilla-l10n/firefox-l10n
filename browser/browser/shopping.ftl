@@ -51,6 +51,7 @@ shopping-highlights-label =
     .label = Høgdepunkt frå nylege vurderingar
 shopping-highlight-price = Pris
 shopping-highlight-quality = Kvalitet
+shopping-highlight-shipping = Frakt
 shopping-highlight-competitiveness = Konkurranseevne
 shopping-highlight-packaging = Innpakking
 
@@ -66,6 +67,8 @@ shopping-settings-label =
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Juster vurdering
 
 ## Strings for the review reliability component
 
