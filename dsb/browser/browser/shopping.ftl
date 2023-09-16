@@ -109,6 +109,9 @@ shopping-analysis-explainer-learn-more = Zgóńśo wěcej wó tom, <a data-l10n-
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Wjerški</strong> su z pógódnośenjow { $retailer } w běgu slědnych 80 dnjow, kótarež mamy za spušćobne.
+shopping-analysis-explainer-review-grading-scale-reliable = Spušćobne pógódnośenja. Myslimy se, až pógódnośenja su nejskerjej wót wopšawdnych kupcow, kótarež su zawóstajili spšawne, bźezpśedsudkowe pógódnośenja.
+shopping-analysis-explainer-review-grading-scale-mixed = Wěrimy, až dajo měšańcu spušćobnych a njespušćobnych pógódnośenjow.
+shopping-analysis-explainer-review-grading-scale-unreliable = Njespušćobne pógódnośenja. Myslimy se, až pógódnośenja su nejskerjej sfalšowane abo wót pógódnośujucych z pśedsudkami.
 
 ## Strings for UrlBar button
 
@@ -125,6 +128,8 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Hyšći žedna analyza za toś te pógódnośenja
+shopping-unanalyzed-product-message = Startujśo analyzator { -fakespot-brand-full-name } a zgónijośo za pśibližnje 60 sekundow, lěc pógódnośenja toś togo produkta su spušćobne.
+shopping-unanalyzed-product-analyze-link = Analyzator na { -fakespot-website-name } startowaś
 
 ## Strings for the advertisement
 
