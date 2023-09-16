@@ -351,8 +351,8 @@ addon-name-disabled = { $name } (ਅਸਮਰੱਥ ਹੈ)
 #   $numberOfReviews (number) - The number of reviews received
 addon-detail-reviews-link =
     { $numberOfReviews ->
-        [one] { $numberOfReviews } ਪੜਤਾਲ
-       *[other] { $numberOfReviews } ਪੜਤਾਲਾਂ
+        [one] { $numberOfReviews } ਰੀਵਿਊ
+       *[other] { $numberOfReviews } ਰੀਵਿਊ
     }
 
 ## Pending uninstall message bar
@@ -389,6 +389,8 @@ addon-detail-group-label-private-browsing =
 
 # Used as a description for the option to allow or block an add-on on quarantined domains.
 addon-detail-quarantined-domains-label = ਪਾਬੰਦੀਆਂ ਨਾਲ ਸਾਈਟਾਂ ਉੱਤੇ ਚਲਾਓ
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = ਜਦ ਮਨਜ਼ੂਰ ਦਿੱਤੀ ਤਾਂ ਇਕਸਟੈਨਸ਼ਨ ਕੋਲ { -vendor-short-name } ਵਲੋਂ ਪਾਬੰਦੀਆਂ ਲਾਈਆਂ ਸਾਈਟਾਂ ਲਈ ਪਹੁੰਚ ਹੋਵੇਗੀ। ਜੇ ਤੁਸੀਂ ਇਸ ਇਕਸਟੈਨਸ਼ਨ  ਉੱਤੇ ਭਰੋਸਾ ਕਰ ਸਕਦੇ ਹੋ ਸਿਰਫ਼ ਤਾਂ ਹੀ ਮਨਜ਼ੂਰੀ ਦਿਓ।
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = ਮਨਜ਼ੂਰ
 addon-detail-quarantined-domains-disallow = ਨਾ-ਮਨਜ਼ੂਰ ਕਰੋ
