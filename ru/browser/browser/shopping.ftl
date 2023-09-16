@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-shopping-page-title = Покупки { -brand-product-name }
+shopping-page-title = Покупки в { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Проверка отзывов
@@ -31,7 +31,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Доступно обновление
+shopping-message-bar-warning-stale-analysis-title = Доступны обновления
 shopping-message-bar-warning-stale-analysis-message = Запустите анализатор { -fakespot-brand-full-name }, чтобы получить обновленную информацию примерно через 60 секунд.
 shopping-message-bar-generic-error-title = Сейчас анализ недоступен
 shopping-message-bar-generic-error-message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
