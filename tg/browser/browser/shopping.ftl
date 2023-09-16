@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Харидори тавассути «{ -brand-product-name }»
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Абзори тафтиши тақризҳо
@@ -33,7 +34,9 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-title = Навсозиҳо дастрасанд
 shopping-message-bar-warning-product-not-available-title = Маҳсул дастнорас аст
 shopping-message-bar-thanks-for-reporting-title = Ташаккур барои гузориш!
+shopping-message-bar-warning-product-not-available-reported-title = Таҳлил ба наздикӣ дастрас мешавад
 shopping-message-bar-warning-offline-title = Пайвастшавӣ ба шабака нест
+shopping-message-bar-analysis-in-progress-title = Таҳлил ба наздикӣ дастрас мешавад
 shopping-message-bar-page-not-supported-title = Мо ин тақризҳоро тафтиш карда наметавонем
 
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -81,6 +84,8 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Мо чӣ тавр сифати тақризҳоро муайян мекунем
+shopping-analysis-explainer-intro = Барои тафтиши эътимоднокии тақризҳои маҳсулот мо аз технологияи зеҳни сунъӣ (AI) тавассути { -fakespot-brand-full-name } истифода мебарем. Ин ба шумо танҳо барои баҳодиҳии сифати тақризҳо кумак мерасонад, сифати маҳсулот тафтиш карда намешавад.
+shopping-analysis-explainer-grades-intro = Мо ба тақризҳои ҳар як маҳсул <strong>баҳои ҳарфиро</strong> аз A то F таъин мекунем.
 
 ## Strings for UrlBar button
 

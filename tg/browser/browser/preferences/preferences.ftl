@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Ба сомонаҳо сигнали «Пайгирӣ карда нашавад»-ро фиристонед, то ки шуморо пайгирӣ накунанд
+do-not-track-description2 =
+    .label = Фиристодани ба сомонаҳо дархости «Пайгирӣ карда нашавад»
+    .accesskey = Ф
 do-not-track-learn-more = Маълумоти бештар
 do-not-track-option-default-content-blocking-known =
     .label = Танҳо вақте ки «{ -brand-short-name }» барои манъ кардани васоити пайгирии маълум танзим шудааст
