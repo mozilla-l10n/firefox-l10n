@@ -65,6 +65,9 @@ shopping-highlights-label =
     .label = Điểm nổi bật từ các đánh giá gần đây
 shopping-highlight-price = Giá
 shopping-highlight-quality = Chất lượng
+shopping-highlight-shipping = Phương thức giao hàng
+shopping-highlight-competitiveness = Tính cạnh tranh
+shopping-highlight-packaging = Đóng gói
 
 ## Strings for show more card
 
