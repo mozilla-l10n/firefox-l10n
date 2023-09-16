@@ -38,9 +38,14 @@ shopping-message-bar-generic-error-message = Dźěłamy na rozrisanju tutoho pro
 shopping-message-bar-warning-not-enough-reviews-title = Hišće dosć pohódnoćenjow njeje
 shopping-message-bar-warning-not-enough-reviews-message = Hdyž tutón produkt ma wjace pohódnoćenjow, móžemy je analyzować.
 shopping-message-bar-warning-product-not-available-title = Produkt k dispoziciji njeje
+shopping-message-bar-warning-product-not-available-message = Jeli widźiće, zo tutón produkt je zaso na składźe, zdźělće nam to a budźemy na aktualizaciji analyzy dźěłać.
+shopping-message-bar-warning-product-not-available-button = Zdźělić, zo tutón produkt je zaso na składźe
 shopping-message-bar-thanks-for-reporting-title = Wulki dźak za zdźělenku!
+shopping-message-bar-thanks-for-reporting-message = My dyrbjeli w běhu 24 hodźin zaktualizowanu analyzu měć. Hladajće prošu za tym.
 shopping-message-bar-warning-product-not-available-reported-title = Analyza bórze přińdźe
+shopping-message-bar-warning-product-not-available-reported-message = Zaktualizowana analyza měła w běhu 24 hodźin hotowa być. Hladajće prošu za tym.
 shopping-message-bar-warning-offline-title = Žadyn syćowy zwisk
+shopping-message-bar-warning-offline-message = Přepruwujće swój syćowy zwisk. Spytajće potom stronu znowa začitać.
 shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
 shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
 
