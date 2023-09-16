@@ -32,6 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Навсозиҳо дастрасанд
+shopping-message-bar-generic-error-title = Дар айни ҳол ягон таҳлил дастрас нест
 shopping-message-bar-warning-product-not-available-title = Маҳсул дастнорас аст
 shopping-message-bar-thanks-for-reporting-title = Ташаккур барои гузориш!
 shopping-message-bar-warning-product-not-available-reported-title = Таҳлил ба наздикӣ дастрас мешавад
@@ -68,6 +69,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
 shopping-settings-opt-out-button = Ғайрифаъол кардани абзори тафтиши тақризҳо
+powered-by-fakespot = Абзори тафтиши тақризҳо аз ҷониби «<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>» таҳия карда шудааст
 
 ## Strings for the adjusted rating component
 
@@ -86,6 +88,9 @@ shopping-analysis-explainer-label =
     .label = Мо чӣ тавр сифати тақризҳоро муайян мекунем
 shopping-analysis-explainer-intro = Барои тафтиши эътимоднокии тақризҳои маҳсулот мо аз технологияи зеҳни сунъӣ (AI) тавассути { -fakespot-brand-full-name } истифода мебарем. Ин ба шумо танҳо барои баҳодиҳии сифати тақризҳо кумак мерасонад, сифати маҳсулот тафтиш карда намешавад.
 shopping-analysis-explainer-grades-intro = Мо ба тақризҳои ҳар як маҳсул <strong>баҳои ҳарфиро</strong> аз A то F таъин мекунем.
+shopping-analysis-explainer-review-grading-scale-reliable = Тақризҳои боэътимод. Мо боварӣ дорем, ки тақризҳо аз муштариёни ҳақиқӣ ба таври ростқавл ва беғаразона пешниҳод карда шудаанд.
+shopping-analysis-explainer-review-grading-scale-mixed = Мо боварӣ дорем, ки ҳозир будани маҷмӯи тақризҳои боэътимод ва беэътимод имконпазир аст.
+shopping-analysis-explainer-review-grading-scale-unreliable = Тақризҳои беэътимод. Мо боварӣ дорем, ки чунин тақризҳо аз тақризгарони қалбақӣ ва боғараз ворид карда шудаанд.
 
 ## Strings for UrlBar button
 
