@@ -47,6 +47,7 @@ inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> �
 
 inactive-css-not-grid-or-flex-container-fix = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong>, або <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Паспрабуйце дадаць <strong>column-count</strong> або <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Паспрабуйце дадаць <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> цi <strong>display:inline-flex</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-item-fix-2 = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong> да бацькоўскага элемента. { learn-more }
 inactive-css-not-grid-container-fix = Паспрабуйце дадаць <strong>display:grid</strong> ці <strong>display:inline-grid</strong>. { learn-more }
@@ -61,6 +62,7 @@ inactive-text-overflow-when-no-overflow-fix = Паспрабуйце дадац�
 inactive-css-not-for-internal-table-elements-fix = Паспрабуйце ўстанавіць для ўласцівасці <strong>display</strong> нешта іншае, ніж <strong>table-cell </strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ці <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Паспрабуйце ўстанавіць для ўласцівасці <strong>display</strong> нешта іншае, ніж <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong> ці <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Паспрабуйце дадаць <strong>display:table</strong> альбо <strong>display:inline-table</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Паспрабуйце дадаць <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Паспрабуйце дадаць <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> альбо <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = У элеменце бацькоўскай табліцы выдаліце ўласцівасць або змяніце значэнне <strong>border-collapse</strong> на іншае, ніж <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Паспрабуйце змяніць <strong>font-size</strong> тэксту ruby. { learn-more }
