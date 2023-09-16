@@ -70,7 +70,7 @@ third-party-button-to-unblock-module-disabled = Fjern blokkering av denne module
         For øyeblikket merket som blokkert, selv om blokkeringslisten er deaktivert for denne
         kjøringen av { -brand-short-name }. Klikk for å oppheve blokkeringen.
     .aria-label =
-        For øyeblikket merket som blokkert, selv om blokkeringslisten er deaktivert for denne kjøringen
+        For øyeblikket merket som blokkert, selv om blokkeringslisten er deaktivert for denne
         kjøringen av { -brand-short-name }. Klikk for å oppheve blokkeringen.
 third-party-button-expand =
     .title = Vis detaljert informasjon
