@@ -30,6 +30,7 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
 shopping-message-bar-warning-stale-analysis-message = Start analysatoren { -fakespot-brand-full-name } for å få uppdatert informasjon om ca. 60 sekund.
 shopping-message-bar-generic-error-title = Analysen er ikkje tilgjengeleg akkurat no
+shopping-message-bar-generic-error-message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
 shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
