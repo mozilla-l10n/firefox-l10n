@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Aktualizujće swoje synchronizaciske na
 firefoxview-syncedtabs-synctabs-description = Zo byšće rajtarki z druhich gratow widźał, dyrbiće swoje wočinjene rajtarki synchronizować.
 firefoxview-syncedtabs-synctabs-checkbox = Synchronizaciju wočinjenych rajtarkow dowolić
 firefoxview-syncedtabs-loading-header = Synchronizuje so
+firefoxview-syncedtabs-loading-description = Hdyž to je dokónčene, budźeće rajtarki widźeć, kotrež su na druhich gratach wočinjene. Hladajće bórze za tym.
 firefoxview-tabpickup-fxa-admin-disabled-header = Waša organizacija je synchronizaciju znjemóžniła
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } njemóže rajtarki mjez gratami synchronizować, dokelž waš administrator je synchronizowanje znjemóžnił.
 firefoxview-tabpickup-network-offline-header = Přepruwujće swój internetny zwisk
