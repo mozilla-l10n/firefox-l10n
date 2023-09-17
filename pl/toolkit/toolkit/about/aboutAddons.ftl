@@ -106,17 +106,17 @@ addon-restart-now =
     .label = Uruchom ponownie
 disabled-unsigned-heading =
     .value = Niektóre dodatki zostały wyłączone
-disabled-unsigned-description = Następujące dodatki nie zostały zweryfikowane do użytku w programie { -brand-short-name }. Możesz <label data-l10n-name="find-addons">poszukać zamienników</label> lub poprosić ich dostawcę o weryfikację.
+disabled-unsigned-description = Następujące dodatki nie zostały zweryfikowane do użytku w { -brand-short-name(case: "loc") }. Możesz <label data-l10n-name="find-addons">poszukać zamienników</label> lub poprosić ich dostawcę o weryfikację.
 disabled-unsigned-learn-more = Więcej informacji o naszych wysiłkach na rzecz Twojego bezpieczeństwa w sieci.
 disabled-unsigned-devinfo = Programiści zainteresowani weryfikacją swoich dodatków mogą skorzystać z <label data-l10n-name="learn-more">dokumentacji</label>.
-plugin-deprecation-description = Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w programie { -brand-short-name }. <label data-l10n-name="learn-more">Więcej informacji</label>.
+plugin-deprecation-description = Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w { -brand-short-name(case: "loc") }. <label data-l10n-name="learn-more">Więcej informacji</label>.
 legacy-warning-show-legacy = Wyświetl przestarzałe rozszerzenia
 legacy-extensions =
     .value = Przestarzałe rozszerzenia
-legacy-extensions-description = Te rozszerzenia nie spełniają obecnych standardów programu { -brand-short-name } i z tego powodu zostały wyłączone. <label data-l10n-name="legacy-learn-more">Więcej informacji o zmianach w dodatkach</label>.
+legacy-extensions-description = Te rozszerzenia nie spełniają obecnych standardów { -brand-short-name(case: "gen") } i z tego powodu zostały wyłączone. <label data-l10n-name="legacy-learn-more">Więcej informacji o zmianach w dodatkach</label>.
 private-browsing-description2 =
     { -brand-short-name } zmienia sposób działania rozszerzeń w trybie prywatnym. Rozszerzenia dodane
-    do programu domyślnie nie będą działały w oknach prywatnych. Jeśli nie zostanie to zmienione
+    do { -brand-short-name(case: "gen") } domyślnie nie będą działały w oknach prywatnych. Jeśli nie zostanie to zmienione
     w ustawieniach, rozszerzenie nie będzie działało w trybie prywatnym i nie będzie miało dostępu
     do działań użytkownika. Wprowadziliśmy tę zmianę, aby prywatne przeglądanie zawsze było prywatne.
     <label data-l10n-name="private-browsing-learn-more">Więcej informacji o zarządzaniu ustawieniami rozszerzeń.</label>
@@ -228,7 +228,7 @@ shortcuts-modifier-mac = Uwzględnij Ctrl, Alt lub ⌘
 shortcuts-modifier-other = Uwzględnij Ctrl lub Alt
 shortcuts-invalid = Nieprawidłowe połączenie
 shortcuts-letter = Wpisz literę
-shortcuts-system = Nie można zastąpić skrótu programu { -brand-short-name }
+shortcuts-system = Nie można zastąpić skrótu { -brand-short-name(case: "gen") }
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Podwójny skrót
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
@@ -266,7 +266,7 @@ discopane-intro =
     irytujących reklam, zmienianie wyglądu przeglądarki i wiele więcej.
     Te małe programy są często tworzone przez osoby trzecie. Poniżej
     znajduje się wybór wyjątkowo bezpiecznych, wydajnych i funkcjonalnych
-    dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez przeglądarkę { -brand-product-name }.
+    dodatków <a data-l10n-name="learn-more-trigger">polecanych</a> przez { -brand-product-name(case: "acc") }.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations = Część tych poleceń jest spersonalizowanych na podstawie pozostałych zainstalowanych rozszerzeń, preferencji profilu i statystyk użytkowania.
 # Notice to make user aware that the recommendations are personalized.
@@ -334,10 +334,10 @@ addon-detail-last-updated-label = Ostatnia aktualizacja
 addon-detail-homepage-label = Strona domowa
 addon-detail-rating-label = Ocena
 # Message for add-ons with a staged pending update.
-install-postponed-message = To rozszerzenie zostanie zaktualizowane po ponownym uruchomieniu programu { -brand-short-name }.
+install-postponed-message = To rozszerzenie zostanie zaktualizowane po ponownym uruchomieniu { -brand-short-name(case: "gen") }.
 # Message for add-ons with a staged pending update.
 install-postponed-message2 =
-    .message = To rozszerzenie zostanie zaktualizowane po ponownym uruchomieniu programu { -brand-short-name }.
+    .message = To rozszerzenie zostanie zaktualizowane po ponownym uruchomieniu { -brand-short-name(case: "gen") }.
 install-postponed-button = Zaktualizuj teraz
 # The average rating that the add-on has received.
 # Variables:
