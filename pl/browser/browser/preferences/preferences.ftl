@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Informowanie witryn o preferencjach względem śledzenia (wysyłanie nagłówka „Do Not Track”):
+do-not-track-description2 =
+    .label = Wysyłanie witrynom prośby o nieśledzenie (nagłówka „Do Not Track”).
+    .accesskey = D
 do-not-track-learn-more = Więcej informacji
 do-not-track-option-default-content-blocking-known =
     .label = gdy { -brand-short-name } blokuje znane elementy śledzące
 do-not-track-option-always =
     .label = zawsze
+global-privacy-control-description =
+    .label = Informowanie witryn, że mają nie sprzedawać ani nie udostępniać moich danych.
+    .accesskey = n
 settings-page-title = Ustawienia
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
