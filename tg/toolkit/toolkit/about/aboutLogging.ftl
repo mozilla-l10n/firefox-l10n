@@ -45,7 +45,9 @@ about-logging-preset-media-playback-description = Модулҳои сабти р
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Модулҳои сабти рӯйдодҳо барои ташхиси дархостҳои «WebRTC»
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои «WebGPU»
 about-logging-preset-gfx-label = Графика
+about-logging-preset-gfx-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои графикӣ
 about-logging-preset-custom-label = Фармоишӣ
 about-logging-preset-custom-description = Модулҳои сабти рӯйдодҳои интихобшуда ба таври дастӣ
 # Error handling
