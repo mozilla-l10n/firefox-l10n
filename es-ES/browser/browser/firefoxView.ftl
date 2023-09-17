@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Escriba la contraseña mae
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saber más</a>
 firefoxview-tabpickup-signed-out-header = Inicie sesión para reconectar
 firefoxview-tabpickup-signed-out-description = Para volver a conectar y recuperar sus pestañas, inicie sesión en su { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Para volver a conectarse y recuperar sus pestañas, inicie sesión en su cuenta.
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sesión
 firefoxview-tabpickup-syncing = Espere mientras sus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Recuperar las pestañas desde su teléfono o tableta
