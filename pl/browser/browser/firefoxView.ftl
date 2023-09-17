@@ -5,10 +5,15 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ostatnio przeglądane ze wszystkich okien i urządzeń
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Zamknij
     .aria-label = Zamknij
@@ -40,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Synchronizuj otwarte karty
 firefoxview-syncedtabs-synctabs-header = Zaktualizuj ustawienia synchronizacji
 firefoxview-syncedtabs-synctabs-description = Musisz synchronizować otwarte karty, aby widzieć karty z innych urządzeń.
 firefoxview-syncedtabs-synctabs-checkbox = Zezwól na synchronizację otwartych kart
+firefoxview-syncedtabs-loading-header = Trwa synchronizacja
+firefoxview-syncedtabs-loading-description = Po ukończeniu zobaczysz tutaj wszystkie karty otwarte na innych urządzeniach. Wróć niedługo.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organizacja wyłączyła synchronizację
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } nie może synchronizować kart między urządzeniami, ponieważ administrator komputera wyłączył synchronizację.
 firefoxview-tabpickup-network-offline-header = Sprawdź połączenie z Internetem
@@ -58,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Wprowadź hasło główne
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Więcej informacji</a>
 firefoxview-tabpickup-signed-out-header = Zaloguj się, aby połączyć ponownie
 firefoxview-tabpickup-signed-out-description = Zaloguj się na { -fxaccount-brand-name(case: "loc", capitalization: "lower") }, aby połączyć się ponownie i odbierać karty.
+firefoxview-tabpickup-signed-out-description2 = Zaloguj się na swoje konto, aby połączyć się ponownie i odbierać karty.
 firefoxview-tabpickup-signed-out-primarybutton = Zaloguj się
 firefoxview-tabpickup-syncing = Poczekaj chwilę, karty są synchronizowane.
 firefoxview-mobile-promo-header = Otwieraj karty z telefonu lub tabletu
@@ -141,6 +149,10 @@ firefoxview-show-more = Więcej
 firefoxview-show-less = Mniej
 firefoxview-sort-history-by-date-label = Sortuj według dat
 firefoxview-sort-history-by-site-label = Sortuj według witryn
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Przejdź do witryny { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -201,3 +213,4 @@ firefoxview-recentlyclosed-empty-description-two = Karty sprzed dłuższego czas
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nie ma kart otwartych na tym urządzeniu
+firefoxview-syncedtabs-connect-another-device = Połącz inne urządzenie
