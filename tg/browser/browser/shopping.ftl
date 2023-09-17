@@ -33,12 +33,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Навсозиҳо дастрасанд
 shopping-message-bar-generic-error-title = Дар айни ҳол ягон таҳлил дастрас нест
+shopping-message-bar-generic-error-message = Мо барои ҳал кардани ин масъала кор карда истодаем. Лутфан, дертар аз нав тафтиш кунед.
+shopping-message-bar-warning-not-enough-reviews-title = Ҳоло шумораи тақризҳо кофӣ намебошад
+shopping-message-bar-warning-not-enough-reviews-message = Вақте ки ин маҳсул дорои тақризҳои сершумор мебошад, мо метавонем онҳоро таҳлил намоем.
 shopping-message-bar-warning-product-not-available-title = Маҳсул дастнорас аст
+shopping-message-bar-warning-product-not-available-message = Агар шумо бинед, ки ин маҳсул аз нав дастрас бошад, гузориш диҳед ва мо таҳлили онро аз нав иҷро мекунем.
+shopping-message-bar-warning-product-not-available-button = Гузориш диҳед, ки ин маҳсул аз нав дастрас аст
 shopping-message-bar-thanks-for-reporting-title = Ташаккур барои гузориш!
 shopping-message-bar-warning-product-not-available-reported-title = Таҳлил ба наздикӣ дастрас мешавад
 shopping-message-bar-warning-offline-title = Пайвастшавӣ ба шабака нест
+shopping-message-bar-warning-offline-message = Пайвасти Интернетро санҷед. Пас саҳифаро аз нав бор кунед.
 shopping-message-bar-analysis-in-progress-title = Таҳлил ба наздикӣ дастрас мешавад
 shopping-message-bar-page-not-supported-title = Мо ин тақризҳоро тафтиш карда наметавонем
+shopping-message-bar-page-not-supported-message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -68,6 +75,7 @@ shopping-settings-label =
     .label = Танзимот
 shopping-settings-recommendations-toggle =
     .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
+shopping-settings-recommendations-learn-more = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Тамоми реклама бояд ба стандартҳои сифати тақризҳои мо ҷавобгӯ бошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
 shopping-settings-opt-out-button = Ғайрифаъол кардани абзори тафтиши тақризҳо
 powered-by-fakespot = Абзори тафтиши тақризҳо аз ҷониби «<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>» таҳия карда шудааст
 
@@ -88,6 +96,12 @@ shopping-analysis-explainer-label =
     .label = Мо чӣ тавр сифати тақризҳоро муайян мекунем
 shopping-analysis-explainer-intro = Барои тафтиши эътимоднокии тақризҳои маҳсулот мо аз технологияи зеҳни сунъӣ (AI) тавассути { -fakespot-brand-full-name } истифода мебарем. Ин ба шумо танҳо барои баҳодиҳии сифати тақризҳо кумак мерасонад, сифати маҳсулот тафтиш карда намешавад.
 shopping-analysis-explainer-grades-intro = Мо ба тақризҳои ҳар як маҳсул <strong>баҳои ҳарфиро</strong> аз A то F таъин мекунем.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Баҳодиҳии санҷида дурустшуда</strong> танҳо дар он тақризҳое асос меёбад, ки ба умеди мо боэътимод мебошанд.
+shopping-analysis-explainer-learn-more = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр { -fakespot-brand-full-name } сифати тақризҳоро муайян мекунад</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Нуқтаҳои асосӣ</strong> аз тақризҳои «{ $retailer }» ба хулоса омаданд, ки дар давоми 80 рӯзи охир ҷамъ карда шудаанд ва онҳо ба умеди мо боэътимод мебошанд.
 shopping-analysis-explainer-review-grading-scale-reliable = Тақризҳои боэътимод. Мо боварӣ дорем, ки тақризҳо аз муштариёни ҳақиқӣ ба таври ростқавл ва беғаразона пешниҳод карда шудаанд.
 shopping-analysis-explainer-review-grading-scale-mixed = Мо боварӣ дорем, ки ҳозир будани маҷмӯи тақризҳои боэътимод ва беэътимод имконпазир аст.
 shopping-analysis-explainer-review-grading-scale-unreliable = Тақризҳои беэътимод. Мо боварӣ дорем, ки чунин тақризҳо аз тақризгарони қалбақӣ ва боғараз ворид карда шудаанд.
@@ -106,6 +120,7 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header = То ҳол дар бораи ин тақризҳо ягон таҳлил нест
 
 ## Strings for the advertisement
 
