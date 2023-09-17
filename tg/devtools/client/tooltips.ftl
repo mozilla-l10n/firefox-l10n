@@ -24,6 +24,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ба ин унсур
 inactive-css-not-flex-container = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дарбаргирандаи чандир намебошад.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он унсури «inline» ё «table-cell» намебошад.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::first-line» дастгирӣ карда намешавад.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::first-letter» дастгирӣ карда намешавад.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::placeholder» дастгирӣ карда намешавад.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он дорои намоиши <strong>{ $display }</strong> мебошад.
 inactive-css-not-display-block-on-floated = Қимати хусусияти <strong>display</strong> аз тарафи низом ба <strong>block</strong> иваз карда шуд, зеро ки унсур дорои қимати <strong>floated</strong> мебошад.
 inactive-css-property-is-impossible-to-override-in-visited = Хусусияти <strong>{ $property }</strong> ба сабаби маҳдудияти <strong>:visited</strong> иваз карда намешавад.
@@ -37,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = Хусусияти <strong>{
 inactive-css-border-image = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он ба унсурҳои дохили ҷадвале, ки дар он хусусияти <strong>border-collapse</strong> ба <strong>collapse</strong> дар унсури ҷадвали аслӣ танзим шудааст, татбиқ карда намешавад.
 inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «ruby» мебошад. Андозаи он аз тарафи андозаи шрифти матни «ruby» муайян карда мешавад.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> барои ҷудокунии фарзунсурҳо дастгирӣ карда намешавад.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::cue» дастгирӣ карда намешавад.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

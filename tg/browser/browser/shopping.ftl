@@ -56,6 +56,7 @@ shopping-message-bar-page-not-supported-message = Мутаассифона, мо
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Оғоз кардани таҳлилгар дар «{ -fakespot-website-name }»
 
 ## Strings for the product review snippets card
 
@@ -124,6 +125,7 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = То ҳол дар бораи ин тақризҳо ягон таҳлил нест
+shopping-unanalyzed-product-analyze-link = Оғоз кардани таҳлилгар дар «{ -fakespot-website-name }»
 
 ## Strings for the advertisement
 

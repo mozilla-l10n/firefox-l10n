@@ -11,6 +11,9 @@ do-not-track-option-default-content-blocking-known =
     .label = Танҳо вақте ки «{ -brand-short-name }» барои манъ кардани васоити пайгирии маълум танзим шудааст
 do-not-track-option-always =
     .label = Ҳамеша
+global-privacy-control-description =
+    .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
+    .accesskey = Б
 settings-page-title = Танзимот
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -1148,6 +1151,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Ҷамъоварӣ ва истифодаи маълумот аз ҷониби «{ -brand-short-name }»
+collection-header2 = Ҷамъоварӣ ва истифодабарии маълумоти «{ -brand-short-name }»
+    .searchkeywords = телеметрия
 collection-description = Мо мекӯшем, ки ба шумо имконотро пешниҳод намоем ва танҳо он чизеро ҷамъ кунем, ки барои таъмин ва такмил додани «{ -brand-short-name }» барои ҳамаи мо лозим мебошад. Мо ҳамеша пеш аз гирифтани маълумоти шахсӣ иҷозат мепурсем.
 collection-privacy-notice = Огоҳномаи махфият
 collection-health-report-telemetry-disabled = Шумо дигар ба { -vendor-short-name } барои ҷамъ кардани маълумоти техникӣ ва якҷояамалкунӣ иҷозат намедиҳед. Ҳамаи маълумот дар ҳудуди 30 рӯзи охир нест карда мешавад.
