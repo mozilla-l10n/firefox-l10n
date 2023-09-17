@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Avaa laajennuksen { $extensionName } valikko
-
 unified-extensions-item-message-manage = Hallitse laajennusta
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Kiinnitä työkalupalkkiin
-
 unified-extensions-context-menu-manage-extension =
     .label = Hallitse laajennusta
-
 unified-extensions-context-menu-remove-extension =
     .label = Poista laajennus
-
 unified-extensions-context-menu-report-extension =
     .label = Ilmoita laajennuksesta
-
 unified-extensions-context-menu-move-widget-up =
     .label = Siirrä ylös
-
 unified-extensions-context-menu-move-widget-down =
     .label = Siirrä alas
 
@@ -47,3 +41,4 @@ unified-extensions-context-menu-move-widget-down =
 
 unified-extensions-mb-quarantined-domain-title = Jotkin laajennukset eivät ole sallittuja
 unified-extensions-mb-quarantined-domain-message = Vain jotkin laajennukset, joita { -vendor-short-name } valvoo, ovat sallittuja tällä sivustolla tietojesi suojaamiseksi.
+unified-extensions-mb-quarantined-domain-message-2 = Tietojesi suojaamiseksi jotkin laajennukset eivät voi lukea tai muuttaa tämän sivuston tietoja. Käytä laajennuksen asetuksia salliaksesi sivustot, joita { -vendor-short-name } rajoittaa.

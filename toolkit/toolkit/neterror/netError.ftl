@@ -56,9 +56,11 @@ neterror-dns-not-found-hint-firewall = Tarkistaa, että { -brand-short-name }ill
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name } ei voi suojata tämän sivuston osoitepyyntöäsi luotettavan DNS-selvittäjän kautta. Tässä syy:
+neterror-dns-not-found-trr-third-party-warning2 = Voit jatkaa oletusarvoisella DNS-selvittimellä. Kolmas osapuoli saattaa kuitenkin nähdä, millä verkkosivustoilla vierailet.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name } ei voinut muodostaa yhteyttä verkkotunnukseen { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Yhteys verkkotunnukseen { $trrDomain } kesti odotettua kauemmin.
 neterror-dns-not-found-trr-offline = Et ole yhteydessä Internetiin.
+neterror-dns-not-found-trr-unknown-host2 = { $trrDomain } ei löytänyt tätä verkkosivustoa.
 neterror-dns-not-found-trr-server-problem = Verkkotunnuksen { $trrDomain } kanssa ilmeni ongelma.
 neterror-dns-not-found-bad-trr-url = Virheellinen osoite.
 neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
@@ -67,6 +69,7 @@ neterror-dns-not-found-trr-unknown-problem = Odottamaton ongelma.
 ## Variables:
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
+neterror-dns-not-found-native-fallback-reason = { -brand-short-name } ei voi suojata pyyntöäsi tämän sivuston osoitteelle luotettavan DNS-selvittimen kautta. Tässä syy:
 neterror-dns-not-found-native-fallback-heuristic = DNS HTTPS:n välityksellä on poistettu käytöstä verkossasi.
 neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } ei voinut muodostaa yhteyttä verkkotunnukseen { $trrDomain }.
 
