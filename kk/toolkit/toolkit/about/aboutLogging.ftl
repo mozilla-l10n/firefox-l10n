@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC қоңырауларын диагностикалау үшін журналдау модульдері
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU мәселелерін диагностикалау үшін журналдау модульдері
+about-logging-preset-gfx-label = Графика
+about-logging-preset-gfx-description = Графикалық мәселелерді диагностикалау үшін журнал модульдері
 about-logging-preset-custom-label = Таңдауыңызша
 about-logging-preset-custom-description = Журналдау модульдері қолмен таңдалған
 # Error handling
