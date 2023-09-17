@@ -37,6 +37,7 @@ shopping-message-bar-generic-error-message = Pyrimme ratkaisemaan ongelman. Tark
 shopping-message-bar-warning-not-enough-reviews-title = Ei vielä tarpeeksi arvosteluja
 shopping-message-bar-warning-not-enough-reviews-message = Kun tästä tuotteesta on enemmän arvosteluja, voimme analysoida ne.
 shopping-message-bar-warning-product-not-available-title = Tuote ei ole saatavilla
+shopping-message-bar-thanks-for-reporting-title = Kiitos ilmoituksesta!
 shopping-message-bar-thanks-for-reporting-message = Meidän pitäisi saada päivitetty analyysi 24 tunnin sisällä. Tarkista tilanne uudelleen.
 shopping-message-bar-warning-product-not-available-reported-title = Analyysi tulossa pian
 shopping-message-bar-warning-product-not-available-reported-message = Päivitetyn analyysin pitäisi olla valmis 24 tunnin kuluessa. Tarkista tilanne uudelleen.
@@ -96,6 +97,9 @@ shopping-analysis-explainer-label =
     .label = Kuinka määritämme arvostelun laadun
 shopping-analysis-explainer-grades-intro = Annamme kunkin tuotteen arvosteluille <strong>kirjainarvosanan</strong> A:sta F:ään.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Oikaistu arvosana</strong> perustuu vain niihin arvosteluihin, jotka koemme luotettaviksi.
+shopping-analysis-explainer-review-grading-scale-reliable = Luotettavat arvostelut. Uskomme, että arvostelut ovat todennäköisesti todellisilta asiakkailta, jotka ovat jättäneet rehellisiä, puolueettomia arvosteluja.
+shopping-analysis-explainer-review-grading-scale-mixed = Uskomme, että kyseessä on sekä luotettavia että epäluotettavia arvosteluja.
+shopping-analysis-explainer-review-grading-scale-unreliable = Epäluotettavat arvostelut. Uskomme, että arvostelut ovat todennäköisesti vääriä tai puolueellisia.
 
 ## Strings for UrlBar button
 
