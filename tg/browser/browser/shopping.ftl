@@ -32,6 +32,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Навсозиҳо дастрасанд
+shopping-message-bar-warning-stale-analysis-message = Барои гирифтани маълумоти навшуда дар муддати 60 сония, таҳлилгари «{ -fakespot-brand-full-name }»-ро оғоз намоед.
 shopping-message-bar-generic-error-title = Дар айни ҳол ягон таҳлил дастрас нест
 shopping-message-bar-generic-error-message = Мо барои ҳал кардани ин масъала кор карда истодаем. Лутфан, дертар аз нав тафтиш кунед.
 shopping-message-bar-warning-not-enough-reviews-title = Ҳоло шумораи тақризҳо кофӣ намебошад
@@ -125,6 +126,7 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = То ҳол дар бораи ин тақризҳо ягон таҳлил нест
+shopping-unanalyzed-product-message = Таҳлилгари «{ -fakespot-brand-full-name }»-ро оғоз намоед ва шумо дар муддати 60 сония хоҳед донист, ки оё тақризҳои ин маҳсул боэътимоданд.
 shopping-unanalyzed-product-analyze-link = Оғоз кардани таҳлилгар дар «{ -fakespot-website-name }»
 
 ## Strings for the advertisement
