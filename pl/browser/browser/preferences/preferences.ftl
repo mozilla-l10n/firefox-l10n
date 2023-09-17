@@ -973,6 +973,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = zakładkach
     .accesskey = z
+addressbar-locbar-clipboard-option =
+    .label = schowku
+    .accesskey = c
 addressbar-locbar-openpage-option =
     .label = otwartych kartach
     .accesskey = k
@@ -1031,6 +1034,10 @@ content-blocking-all-windows-tracking-content = treści z elementami śledzący
 content-blocking-all-cross-site-cookies = wszystkie ciasteczka między witrynami
 content-blocking-cryptominers = elementy używające komputera użytkownika do generowania kryptowalut
 content-blocking-fingerprinters = elementy śledzące przez zbieranie informacji o konfiguracji
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = znane i podejrzewane elementy śledzące przez zbieranie informacji o konfiguracji
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1069,6 +1076,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = elementy śledzące przez zbieranie informacji o konfiguracji
     .accesskey = k
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = znane elementy śledzące przez zbieranie informacji o konfiguracji
+    .accesskey = z
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = podejrzewane elementy śledzące przez zbieranie informacji o konfiguracji
+    .accesskey = d
 
 ## Privacy Section - Tracking
 
@@ -1131,6 +1150,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Dane zbierane przez program { -brand-short-name }
+collection-header2 = Dane zbierane przez program { -brand-short-name }
+    .searchkeywords = telemetria
 collection-description = Dążymy do zapewnienia odpowiedniego wyboru i zbierania wyłącznie niezbędnych danych, aby dostarczać i doskonalić program { -brand-short-name } dla nas wszystkich. Zawsze prosimy o pozwolenie przed przesłaniem danych osobistych.
 collection-privacy-notice = Prywatność
 collection-health-report-telemetry-disabled = { -vendor-short-name } nie ma już zezwolenia na zbieranie danych technicznych i o interakcjach z przeglądarką. Wszystkie wcześniej zebrane dane zostaną usunięte w ciągu 30 dni.
