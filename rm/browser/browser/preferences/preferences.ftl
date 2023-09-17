@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Trametter a websites il signal «Do Not Track» per inditgar che ti na vuls betg vegnir fastizà
+do-not-track-description2 =
+    .label = Trametter a websites la dumonda da «Betg ma fastizar»
+    .accesskey = d
 do-not-track-learn-more = Ulteriuras infurmaziuns
 do-not-track-option-default-content-blocking-known =
     .label = Mo sche { -brand-short-name } è configurà uschia che fastizaders enconuschents vegnan bloccads
 do-not-track-option-always =
     .label = Adina
+global-privacy-control-description =
+    .label = Dir a websites da betg vender u cundivider mias datas
+    .accesskey = s
 settings-page-title = Parameters
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -969,6 +975,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Segnapaginas
     .accesskey = g
+addressbar-locbar-clipboard-option =
+    .label = Archiv provisoric
+    .accesskey = A
 addressbar-locbar-openpage-option =
     .label = Tabs averts
     .accesskey = b
@@ -1027,6 +1036,10 @@ content-blocking-all-windows-tracking-content = Cuntegn che fastizescha en tut l
 content-blocking-all-cross-site-cookies = Tut ils cookies interpaginals
 content-blocking-cryptominers = Criptominiers
 content-blocking-fingerprinters = Improntaders dal det
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Improntaders enconuschents e suspectads
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1065,6 +1078,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Fingerprinters
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Improntaders enconuschents
+    .accesskey = I
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Improntaders potenzials
+    .accesskey = z
 
 ## Privacy Section - Tracking
 
@@ -1127,6 +1152,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = { -brand-short-name }: Collecziun ed utilisaziun da datas
+collection-header2 = Rimnada da datas da { -brand-short-name } e lur utilisaziun
+    .searchkeywords = telemetria
 collection-description = Nus ta laschain la tscherna e ramassain mo las infurmaziuns che nus duvrain per porscher e meglierar { -brand-short-name } per tuts. Nus ta dumandain adina avant che rimnar datas persunalas.
 collection-privacy-notice = Infurmaziuns davart la protecziun da datas
 collection-health-report-telemetry-disabled = Ti na permettas betg pli a { -vendor-short-name } da registrar datas davart la tecnica e l'interacziun. Tut las datas dal passà vegnan stizzadas entaifer 30 dis.
