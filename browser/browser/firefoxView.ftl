@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Басты парольд�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Көбірек білу</a>
 firefoxview-tabpickup-signed-out-header = Қайта байланысу үшін кіру
 firefoxview-tabpickup-signed-out-description = Қайта байланысу және беттерді алу үшін { -fxaccount-brand-name } ішіне кіріңіз.
+firefoxview-tabpickup-signed-out-description2 = Қайта байланысу және беттерді алу үшін тіркелгіңізге кіріңіз.
 firefoxview-tabpickup-signed-out-primarybutton = Кіру
 firefoxview-tabpickup-syncing = Беттер синхрондалғанын күте тұрыңыз. Бұл жылдам болады.
 firefoxview-mobile-promo-header = Телефоннан немесе планшеттен беттерді алыңыз
