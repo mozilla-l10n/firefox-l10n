@@ -40,10 +40,13 @@ shopping-message-bar-warning-product-not-available-title = Маҳсул даст
 shopping-message-bar-warning-product-not-available-message = Агар шумо бинед, ки ин маҳсул аз нав дастрас бошад, гузориш диҳед ва мо таҳлили онро аз нав иҷро мекунем.
 shopping-message-bar-warning-product-not-available-button = Гузориш диҳед, ки ин маҳсул аз нав дастрас аст
 shopping-message-bar-thanks-for-reporting-title = Ташаккур барои гузориш!
+shopping-message-bar-thanks-for-reporting-message = Мо бояд дар муддати 24 соат таҳлили навшударо ба даст орем. Лутфан, аз нав дертар тафтиш кунед.
 shopping-message-bar-warning-product-not-available-reported-title = Таҳлил ба наздикӣ дастрас мешавад
+shopping-message-bar-warning-product-not-available-reported-message = Таҳлили навшуда бояд дар муддати 24 соат омода шавад. Лутфан, аз нав дертар тафтиш кунед.
 shopping-message-bar-warning-offline-title = Пайвастшавӣ ба шабака нест
 shopping-message-bar-warning-offline-message = Пайвасти Интернетро санҷед. Пас саҳифаро аз нав бор кунед.
 shopping-message-bar-analysis-in-progress-title = Таҳлил ба наздикӣ дастрас мешавад
+shopping-message-bar-analysis-in-progress-message = Вақте ки он омода мешавад, мо маълумоти навшударо дар ин ҷой ба таври худкор нишон медиҳем.
 shopping-message-bar-page-not-supported-title = Мо ин тақризҳоро тафтиш карда наметавонем
 shopping-message-bar-page-not-supported-message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
 
