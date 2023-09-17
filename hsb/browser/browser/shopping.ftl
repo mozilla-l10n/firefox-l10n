@@ -82,7 +82,7 @@ shopping-settings-recommendations-toggle =
     .label = Wabjenje w kontroli pohódnoćenjow pokazać
 shopping-settings-recommendations-learn-more = Budźeće hdys a hdys wabjenje za relewantne produkty widźeć. Wšě wabjenske anonsy našim standardam za kwalitu pohódnoćenjow wotpowěduja. <a data-l10n-name="review-quality-url">Dalše informacije</a>
 shopping-settings-opt-out-button = Kontrolu pohódnoćenjow znjemóžnić
-powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchuje.
+powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name } spěchuje</a>.
 
 ## Strings for the adjusted rating component
 
