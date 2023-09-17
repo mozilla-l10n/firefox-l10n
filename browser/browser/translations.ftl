@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Adina translatar { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Adina translatar questa lingua
+translations-panel-settings-always-offer-translation =
+    .label = Adina offrir la translaziun
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -124,12 +126,6 @@ translations-manage-description = Telechargia las linguas per la translaziun sen
 translations-manage-all-language = Tut las linguas
 translations-manage-download-button = Telechargiar
 translations-manage-delete-button = Stizzar
-translations-manage-language-download-button =
-    .label = Telechargiar
-    .accesskey = T
-translations-manage-language-delete-button =
-    .label = Stizzar
-    .accesskey = t
 translations-manage-error-download = Igl ha dà in problem cun telechargiar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-error-delete = Igl ha dà in problem cun stizzar las datotecas da lingua. Emprova per plaschair anc ina giada.
 translations-manage-intro = Definescha las preferenzas areguard la lingua e la translaziun da websites ed administrescha las linguas installadas per la translaziun senza connexiun.

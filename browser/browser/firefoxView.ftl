@@ -5,10 +5,15 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Consultescha las ultimas paginas visitadas en tut las fanestras e tut ils apparats
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Serrar
     .aria-label = Serrar
@@ -40,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronisar tabs averts
 firefoxview-syncedtabs-synctabs-header = Actualisescha tes parameters da sincronisaziun
 firefoxview-syncedtabs-synctabs-description = Per vesair tabs dad auters apparats, stos ti sincronisar tes tabs averts.
 firefoxview-syncedtabs-synctabs-checkbox = Permetter la sincronisaziun da tabs averts
+firefoxview-syncedtabs-loading-header = Sincronisaziun en lavur
+firefoxview-syncedtabs-loading-description = Uschespert che quai e fatg, vesas ti tut tes tabs averts sin auters apparats. Dà prest puspè in'egliada.
 firefoxview-tabpickup-fxa-admin-disabled-header = Tia organisaziun ha deactivà la sincronisaziun
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } n'è betg abel da sincronisar tabs tranter apparats perquai che tes administratur ha deactivà la sincronisaziun.
 firefoxview-tabpickup-network-offline-header = Controllescha tia connexiun cun l'internet
@@ -58,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Endatar il pled-clav unive
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Ulteriuras infurmaziuns</a>
 firefoxview-tabpickup-signed-out-header = T\'annunzia per reconnectar
 firefoxview-tabpickup-signed-out-description = Per reconnectar ed ir per tes tabs, t'annunzia en tes { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Per reconnectar ed ir per tes tabs, t'annunzia en tes conto.
 firefoxview-tabpickup-signed-out-primarybutton = S'annunziar
 firefoxview-tabpickup-syncing = Spetga per plaschair durant che tes tabs vegnan sincronisads. I cuzza be in amen.
 firefoxview-mobile-promo-header = Va per tabs da tes telefonin u tablet
@@ -141,6 +149,10 @@ firefoxview-show-more = Mussar dapli
 firefoxview-show-less = Mussar damain
 firefoxview-sort-history-by-date-label = Zavrar tenor data
 firefoxview-sort-history-by-site-label = Zavrar tenor website
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Midar a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -201,3 +213,4 @@ firefoxview-recentlyclosed-empty-description-two = Per chattar tabs serrads gia 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nagins tabs averts sin quest apparat
+firefoxview-syncedtabs-connect-another-device = Connectar in auter apparat

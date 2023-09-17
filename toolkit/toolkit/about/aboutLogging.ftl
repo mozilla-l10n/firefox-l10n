@@ -42,6 +42,10 @@ about-logging-preset-media-playback-label = Reproducziun multimedia
 about-logging-preset-media-playback-description = Moduls da protocollaziun per diagnostitgar problems da reproducziun da multimedia (senza problems da videoconferenza)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Moduls da protocollaziun per diagnostitgar problems cun cloms WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Moduls da protocollaziun per diagnostitgar problems cun WebGPU
+about-logging-preset-gfx-label = Grafica
+about-logging-preset-gfx-description = Moduls da protocollaziun per diagnostitgar problems da grafica
 about-logging-preset-custom-label = Persunalisà
 about-logging-preset-custom-description = Moduls da protocollaziun tschernids manualmain
 # Error handling

@@ -57,6 +57,11 @@ client-auth-window =
     .title = Dumonda d'identifitgar l'utilisader
 client-auth-site-description = Questa website pretenda che ti t'identifitgeschias cun in certificat:
 client-auth-choose-cert = Tscherna in certificat che vegn mussà sco identificaziun:
+client-auth-send-no-certificate =
+    .label = Betg trametter in certificat
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = «{ $hostname }» pretenda che ti t'identifitgeschias cun in certificat:
 client-auth-cert-details = Detagls dal certificat tschernì:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
