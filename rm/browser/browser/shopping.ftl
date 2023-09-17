@@ -103,7 +103,7 @@ shopping-analysis-explainer-intro =
     Nus utilisain tecnologia dad intelligenza artifiziala da { -fakespot-brand-full-name } per analisar quant fidablas che las recensiuns da products èn.
     Questa analisa gida mo a giuditgar la qualitad da las recensiuns, betg la qualitad dals products.
 shopping-analysis-explainer-grades-intro = Nus attribuin a mintga recensiun dad in product ina <strong>nota en letras</strong> dad A enfin F.
-shopping-analysis-explainer-adjusted-rating-description = La <strong>valitaziun rectifitgada</strong> sa basa mo sin revistas da las qualas nus cartain ch'ellas sajan fidablas.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>valitaziun rectifitgada</strong> sa basa mo sin recensiuns da las qualas nus cartain ch'ellas sajan fidablas.
 shopping-analysis-explainer-learn-more = Ve a savair pli detagliadamain <a data-l10n-name="review-quality-url">co { -fakespot-brand-full-name } determinescha la qualitad da recensiuns</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
