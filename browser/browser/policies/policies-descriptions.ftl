@@ -32,6 +32,7 @@ policy-CertificatesDescription = Přidat certifikáty nebo použít vestavěné 
 policy-Cookies = Pravidla pro ukládání nebo blokování cookies.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Nastavení pravidel souvisejících s kontejnery.
+policy-DisableAccounts = Zakáže služby vyžadující účty, včetně synchronizace.
 policy-DisabledCiphers = Zakázané metody šifrování.
 policy-DefaultDownloadDirectory = Nastavení výchozího adresáře pro stahování souborů.
 policy-DisableAppUpdate = Blokování aktualizací prohlížeče.

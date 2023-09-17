@@ -1280,6 +1280,8 @@ collection-header =
         [with-cases] Sběr a používání dat o { -brand-short-name(case: "loc") }
        *[no-cases] Sběr a používání dat o aplikaci { -brand-short-name }
     }
+collection-header2 = Sběr a používání dat o aplikaci { -brand-short-name }
+    .searchkeywords = telemetrie
 collection-description =
     { -brand-short-name.case-status ->
         [with-cases] S daty vám dáváme vždy na výběr a sbíráme jen data potřebná pro vylepšování { -brand-short-name(case: "gen") }. Před odesíláním osobních dat vždy žádáme o váš souhlas.

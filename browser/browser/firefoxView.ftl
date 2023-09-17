@@ -101,6 +101,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Zadat hlavní heslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Zjistit více</a>
 firefoxview-tabpickup-signed-out-header = Pro opětovné připojení se přihlaste
 firefoxview-tabpickup-signed-out-description = Chcete-li se znovu připojit a získat své panely, přihlaste se ke svému { -fxaccount-brand-name(case: "dat", capitalization: "lower") }.
+firefoxview-tabpickup-signed-out-description2 = Chcete-li se znovu připojit a získat své panely, přihlaste se ke svému účtu.
 firefoxview-tabpickup-signed-out-primarybutton = Přihlásit se
 firefoxview-tabpickup-syncing = Posaďte se, zatímco se vaše panely synchronizují. Bude to jen chvilka.
 firefoxview-mobile-promo-header = Vezměte si sem panely z telefonu nebo tabletu
