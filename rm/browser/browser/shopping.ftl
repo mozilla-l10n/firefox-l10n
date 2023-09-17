@@ -93,7 +93,7 @@ shopping-adjusted-rating-unreliable-reviews = Allontanà recensiuns dubiusas
 ## Strings for the review reliability component
 
 shopping-review-reliability-label =
-    .label = Con fidablas èn questas recensiuns?
+    .label = Quant fidablas èn questas recensiuns?
 
 ## Strings for the analysis explainer component
 
