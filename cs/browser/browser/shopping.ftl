@@ -2,7 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-shopping-page-title = Nákupy { -brand-product-name(case: "gen") }
+shopping-page-title =
+    { -brand-product-name.case-status ->
+        [with-cases] Nákupy { -brand-product-name(case: "gen") }
+       *[no-cases] Nákupy aplikace { -brand-product-name }
+    }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Kontrola recenzí
@@ -57,7 +61,7 @@ shopping-message-bar-page-not-supported-message = Kvalitu recenzí některých t
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-message-bar-warning-stale-analysis-link = Spustit analýzu na { -fakespot-website-name }
+shopping-message-bar-warning-stale-analysis-link = Spustit analýzu na { -fakespot-website-name(case: "loc") }
 
 ## Strings for the product review snippets card
 
@@ -100,7 +104,7 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Jak určujeme kvalitu recenze
 shopping-analysis-explainer-intro =
-    K analýze spolehlivosti recenzí produktů používáme technologii AI od { -fakespot-brand-full-name }.
+    K analýze spolehlivosti recenzí produktů používáme technologii AI od { -fakespot-brand-full-name(case: "gen") }.
     Tato analýza vám pomůže posoudit pouze kvalitu recenze, nikoli kvalitu produktu.
 shopping-analysis-explainer-grades-intro = Recenzím každého produktu přidělujeme <strong>známku písmenem</strong> od A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnocení</strong> je založeno pouze na recenzích, které považujeme za spolehlivé.
@@ -128,11 +132,11 @@ shopping-sidebar-close-button =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header = Analýza těchto recenzí ještě neexistuje
-shopping-unanalyzed-product-message = Spusťte analýzu { -fakespot-brand-full-name } a přibližně za 60 sekund budete vědět, zda jsou recenze tohoto produktu spolehlivé.
-shopping-unanalyzed-product-analyze-link = Spustit analýzu na { -fakespot-website-name }
+shopping-unanalyzed-product-message = Spusťte analýzu pomocí { -fakespot-brand-full-name(case: "gen") } a přibližně za 60 sekund budete vědět, zda jsou recenze tohoto produktu spolehlivé.
+shopping-unanalyzed-product-analyze-link = Spustit analýzu na { -fakespot-website-name(case: "loc") }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Další ke zvážení
-ad-by-fakespot = Reklama od { -fakespot-brand-name }
+ad-by-fakespot = Reklama od { -fakespot-brand-name(case: "gen") }
