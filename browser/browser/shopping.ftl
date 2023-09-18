@@ -94,6 +94,8 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Korleis vi bestemmer kvaliteten på ei vurdering
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderinga</strong> er berre basert på vurderingar som vi meinar er pålitelege.
+shopping-analysis-explainer-review-grading-scale-reliable = Pålitelege vurderingar. Vi meinar at vureringane truleg kjem frå ekte kundar som har lagt att ærlege, upartiske vurderingar.
+shopping-analysis-explainer-review-grading-scale-mixed = Vi meinar at det finst ei blanding av pålitelege og upålitelege vurderingar.
 shopping-analysis-explainer-review-grading-scale-unreliable = Upålitelege vurderingar. Vi meinar at vurderingane sannsynlegvis er falske eller frå partiske vurderarar.
 
 ## Strings for UrlBar button
