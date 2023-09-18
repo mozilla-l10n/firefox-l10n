@@ -45,6 +45,7 @@ about-logging-preset-webrtc-description = Mboheraguapy ra’ãha ehecha hag̃ua 
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Mboheraguapy ra’ãha ehecha hag̃ua WebGPU apañuãi
 about-logging-preset-gfx-label = Ta’ãnga
+about-logging-preset-gfx-description = Mboheraguapy ra’ãha ehecha hag̃ua kookie apañuãi
 about-logging-preset-custom-label = Ñemomba’epyre
 about-logging-preset-custom-description = Mboheraguapy ra’ãha pópe poravopyre
 # Error handling

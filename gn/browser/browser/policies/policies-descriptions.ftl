@@ -28,6 +28,7 @@ policy-CertificatesDescription = Embojuaju mboajepyre térã eiporu mboajepyre m
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Eheka purureko ojokupytýva mba’eryru ndive.
+policy-DisableAccounts = Eipe’a umi mba’epuru mba’etegua, oikehápe ñembojuehe.
 policy-DisabledCiphers = Embogue papapy.
 policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.

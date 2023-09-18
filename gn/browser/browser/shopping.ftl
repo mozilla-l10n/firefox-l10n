@@ -19,6 +19,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Hechaha jeroviaha
+shopping-letter-grade-description-c = Ojehe’a hechajey jerovia ha jerovia’ỹva
 shopping-letter-grade-description-df = Hechaha jerovia’ỹha
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
@@ -32,12 +33,15 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eiporukuaáva
 shopping-message-bar-generic-error-title = Ñehesa’ỹijo ojeporukuaa’ỹva ko’ág̃a
+shopping-message-bar-warning-not-enough-reviews-title = Noĩri gueteri heta marandu’i
+shopping-message-bar-warning-not-enough-reviews-message = Ko apopyre imarandu’i heta vove, ikatúma rohesa’ỹijo.
 shopping-message-bar-warning-product-not-available-title = Apopyre ndojeporukuaái
 shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojeporukuaajeymaha
 shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
 shopping-message-bar-warning-product-not-available-reported-title = Ñehesa’ỹijo ojeporukuaapotáva
 shopping-message-bar-warning-offline-title = Ndaikatúi eike ñandutípe
 shopping-message-bar-analysis-in-progress-title = Ñehesa’ỹijo ojeporukuaapotáva
+shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -45,12 +49,16 @@ shopping-message-bar-analysis-in-progress-title = Ñehesa’ỹijo ojeporukuaapo
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-message-bar-warning-stale-analysis-link = Emoñepyrũ jehechajeyha { -fakespot-website-name }-pe
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Mba’e iporãva marandu’i osẽramóvare
 shopping-highlight-price = Tepy
 shopping-highlight-quality = Mba’eporã
 shopping-highlight-shipping = Ñemuhaguasu
+shopping-highlight-competitiveness = Katupyryrasa
 shopping-highlight-packaging = Mbohyruha
 
 ## Strings for show more card
@@ -62,10 +70,14 @@ shopping-show-less-button = Ehechauka’ive
 
 shopping-settings-label =
     .label = Ñemboheko
+shopping-settings-recommendations-toggle =
+    .label = Ehechauka ñemurã marandu’i rechajeyhápe
 shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-label =
+    .label = Ñeha’ãmby ha’etéva
 shopping-adjusted-rating-unreliable-reviews = Oñemboguéta marandu’i jerovia’ỹha
 
 ## Strings for the review reliability component
@@ -75,6 +87,8 @@ shopping-review-reliability-label =
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Mba’éichapa jaikuaáta marandu’i iporãha
 
 ## Strings for UrlBar button
 
