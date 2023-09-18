@@ -5,7 +5,11 @@
 url-classifier-title = Upplýsingar um URL flokkara
 url-classifier-search-title = Leita
 url-classifier-search-result-title = Niðurstöður
+# Variables:
+#   $uri (string) - URI of blocked page
 url-classifier-search-result-uri = URI: { $uri }
+# Variables:
+#   $list (string) - List of tables where the page is blocked
 url-classifier-search-result-list = Listi yfir töflur: { $list }
 url-classifier-search-input = Slóð
 url-classifier-search-error-invalid-url = Ógild slóð (URL)
@@ -38,9 +42,8 @@ url-classifier-debug-file-btn = Setja atvikaskrá
 url-classifier-debug-js-log-chk = Setja JS-atvikaskráningu
 url-classifier-debug-sb-modules = Skráningareiningar fyrir örugga vöfrun
 url-classifier-debug-modules = Núverandi skráningareiningar
-url-classifier-debug-sbjs-modules = JS skráning fyrir örugga vöfrun
+url-classifier-debug-sbjs-modules = JS-skráning fyrir örugga vöfrun
 url-classifier-debug-file = Fyrirliggjandi atvikaskrá
-
 url-classifier-trigger-update = Hefja uppfærslu
 url-classifier-not-available = Ekki tiltækt
 url-classifier-disable-sbjs-log = Stöðva JS skráningu fyrir örugga vöfrun

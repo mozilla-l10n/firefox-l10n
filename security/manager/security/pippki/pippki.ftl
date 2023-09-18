@@ -57,6 +57,11 @@ client-auth-window =
     .title = Beiðni um auðkenni notanda
 client-auth-site-description = Þetta vefsvæði bað um að þú auðkennir þig með skilríki:
 client-auth-choose-cert = Veldu skilríki til að sýna sem auðkenni:
+client-auth-send-no-certificate =
+    .label = Ekki senda skilríki
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” hefur beðið um að þú auðkennir þig með skilríki:
 client-auth-cert-details = Upplýsingar um valið skilríki:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
