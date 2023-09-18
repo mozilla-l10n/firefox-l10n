@@ -44,6 +44,7 @@ about-logging-preset-webgpu-description = Atvikaskráningareiningar til að grei
 about-logging-preset-gfx-label = Myndefni
 about-logging-preset-gfx-description = Atvikaskráningareiningar til að greina vandamál með skjá/myndgerð
 about-logging-preset-custom-label = Sérsniðið
+about-logging-preset-custom-description = Handvirkt valdar atvikaskráningareiningar
 # Error handling
 about-logging-error = Villa:
 
@@ -51,5 +52,7 @@ about-logging-error = Villa:
 ##   $k (String) - Variable name
 ##   $v (String) - Variable value
 
+about-logging-invalid-output = Ógilt gildi „{ $v }“ fyrir lykil „{ $k }“
+about-logging-unknown-logging-preset = Óþekkt skráningarforstilling „{ $v }“
 about-logging-configuration-url-ignored = Stillingaslóð hunsuð
 about-logging-configured-via-url = Valkostur stilltur í gegnum slóð
