@@ -80,7 +80,7 @@ shopping-settings-label =
     .label = Parameters
 shopping-settings-recommendations-toggle =
     .label = Mussar reclamas en la verificaziun da recensiuns
-shopping-settings-recommendations-learn-more = I vegnan mussadas reclamas occasiunalas per products relevants. Tut las reclamas ston resguardar noss standards da qualitad. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
+shopping-settings-recommendations-learn-more = I vegnan mussadas reclamas occasiunalas per products relevants. Tut las reclamas ston resguardar noss standards da qualitad per recensiuns. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-opt-out-button = Deactivar la verificaziun da recensiuns
 powered-by-fakespot = La verificaziun da recensiuns sa basa sin tecnologia da <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
