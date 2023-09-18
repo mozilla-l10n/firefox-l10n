@@ -100,7 +100,7 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Cemût che o determinìn la cualitât des recensions
 shopping-analysis-explainer-intro =
-    O doprìs la tecnologjie IA di { -fakespot-brand-full-name } par analizâ la afidabilitât des recensions sui prodots.
+    O doprìn la tecnologjie IA di { -fakespot-brand-full-name } par analizâ la afidabilitât des recensions sui prodots.
     Cheste analisi ti judarà dome a valutâ la cualitât des recensions, no la cualitât dal prodot.
 shopping-analysis-explainer-grades-intro = O assegnìn aes recensions di ogni prodot un <strong>vôt in letaris</strong> de A ae F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazion retificade</strong> si base dome su lis recensions che o calcolìn afidabilis.
