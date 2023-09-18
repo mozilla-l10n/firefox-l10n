@@ -39,5 +39,5 @@ create-profile-choose-folder =
     .label = Ñongatuha poravo…
     .accesskey = C
 create-profile-use-default =
-    .label = Ñongatuha ijypykuéva jepuru
+    .label = Ñongatuha ijypykuéva jeporu
     .accesskey = U

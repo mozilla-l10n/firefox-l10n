@@ -41,8 +41,8 @@ experimental-features-webrtc-global-mute-toggles-description = Embojuaju moambue
 # JS JIT Warp project
 experimental-features-js-warp =
     .label = JavaScript JIT: Warp
-experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha ojepuruporãve hag̃ua JavaScript mandu’arenda.
+experimental-features-js-warp-description = Embojuruja Warp, apopyrã oiko ha ojeporuporãve hag̃ua JavaScript mandu’arenda.
 # Search during IME
 experimental-features-ime-search =
     .label = Kundaharape renda: ehechauka jejapopyre IME ñemyeñói aja
-experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembiporu omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojepurúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oipurúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojepuru aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eiporu hag̃ua erohoryvéva IME ndoiporúirõ koichagua tupa.
+experimental-features-ime-search-description = Peteĩ IME (Input Method Editor) ha’e tembiporu omoneĩva ejapóvo ta’ãnga’i hasýva ijapo, ojeporúva ñe’ẽnguéra ojehaíva índico térã Asia oriental gotyo, oiporúvo tairenda ypykuéva. Emyandy tembiapopyahu ombojurujáta kundaharape renda rupa, ohechaukávo jehekaha rembiapokue ha je’eporã, ojeporu aja IME emboguapy hag̃ua moñe’ẽrã. Ehecháke IME ikatuha ohechauka tupa omo’ãva kundaharape renda rapykuere, upévare he’i eiporu hag̃ua erohoryvéva IME ndoiporúirõ koichagua tupa.

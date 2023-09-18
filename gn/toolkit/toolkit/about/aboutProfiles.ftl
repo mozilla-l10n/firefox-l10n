@@ -26,7 +26,7 @@ profiles-rootdir = Tapo Marandurenda’aty
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Marandurenda’aty pypeguáva
 profiles-current-profile = Kóva mba’ete ojepurúva ha upévare ndaikatumo’ãi oñemboguete.
-profiles-in-use-profile = Ko mba’ete ojepuruhína ambue tembiporu’ípe ha ndaikatúi oñembogue.
+profiles-in-use-profile = Ko mba’ete ojeporuhína ambue tembiporu’ípe ha ndaikatúi oñembogue.
 profiles-rename = Ñemboherajey
 profiles-remove = Ñemboguete
 profiles-set-as-default = Ejapo chugui mba’ete ijypykuéva
@@ -47,7 +47,7 @@ profiles-delete-profile-title = Mba’ete Mboguete
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Emboguetérõ peteĩ mba’ete, ojepe’áta mba’ete ojepurukuaáva rysýigui ha ndaikatumo’ãi embojevyjey upe rire.
+    Emboguetérõ peteĩ mba’ete, ojepe’áta mba’ete ojeporukuaáva rysýigui ha ndaikatumo’ãi embojevyjey upe rire.
     Ikatu avei eiporavo emboguete hag̃ua marandurenda mba’ete mba’ekuaarã, oikehápe iñembohekopyahu, mboajepyre ha ambue mba’ekuaarã poruhára rehegua. Ko poravopyrã omboguetéta ñongatuha “{ $dir }” ha ndaikatumo’ãi oñembojevyjey.
     Emboguesetépa marandurenda mba’ete mba’ekuaarã rehegua?
 profiles-delete-files = Marandurenda Mboguete

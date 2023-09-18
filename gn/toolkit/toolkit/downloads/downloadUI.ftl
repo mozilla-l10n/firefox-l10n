@@ -42,7 +42,7 @@ download-ui-cancel-downloads-ok =
 
 ##
 
-download-ui-file-executable-security-warning-title = ¿Marandurenda ojepurukuaávape jeike?
+download-ui-file-executable-security-warning-title = ¿Marandurenda ojeporukuaávape jeike?
 # Variables:
 #   $executable (String): The executable file to be opened.
-download-ui-file-executable-security-warning = “{ $executable }” ha’e marandurenda ojepurukuaáva. marandurenda ojepurukuaáva oguereko mba’echu’i térã ambue ayvu iñañáva ombikuaáva ne mohendaha. Eñangarekóke eikévo marandurendápe. ¿Añetetépa eiporuse “{ $executable }”?
+download-ui-file-executable-security-warning = “{ $executable }” ha’e marandurenda ojeporukuaáva. marandurenda ojeporukuaáva oguereko mba’echu’i térã ambue ayvu iñañáva ombikuaáva ne mohendaha. Eñangarekóke eikévo marandurendápe. ¿Añetetépa eiporuse “{ $executable }”?

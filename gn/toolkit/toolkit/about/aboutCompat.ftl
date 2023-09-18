@@ -10,7 +10,7 @@ label-interventions = Jeikepaha
 label-more-information = Maranduve: javy { $bug }
 label-overrides = Poruhára rehegua jepe’aite
 text-disabled-in-about-config = Ojepe’áma ko tembiapoite about:config rupi
-text-no-interventions = Ndojepuruihína jeikepaha
+text-no-interventions = Ndojeporuihína jeikepaha
 text-no-overrides = Ndojepurúi AU pe’aha
 text-title = about:compat
 

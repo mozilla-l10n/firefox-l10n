@@ -38,7 +38,7 @@ neterror-error-reporting-automatic = Emomarandu koichagua jejavy eipytyvõ hag̃
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba’érepa.
-neterror-load-error-try-again = Pe tenda ikatu hína ndojepurukuaái sapy’aitemi térã ojepuruetereihína. Eha’ãjey ag̃amieve.
+neterror-load-error-try-again = Pe tenda ikatu hína ndojeporukuaái sapy’aitemi térã ojeporuetereihína. Eha’ãjey ag̃amieve.
 neterror-load-error-connection = Ndaikatúiramo emyanyhẽ mba’eveichagua kuatiarogue, ehechajey ijeikekatu nemohendaha ñanduti peguápe.
 neterror-load-error-firewall = Nemohendaha térã ñanduti omo’ã chupe tatakytĩha térã proxy, ehecháke { -brand-short-name } oguerekópa moneĩ oike hag̃ua ñandutípe.
 neterror-captive-portal = Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñandutípe.
@@ -75,19 +75,19 @@ neterror-dns-not-found-native-fallback-not-confirmed2 = { -brand-short-name } nd
 
 ##
 
-neterror-file-not-found-filename = Ehechajey marandurenda réra ndoguerekoiha jejavy ijehaípe, avei taiguasu ojepurukuévo.
+neterror-file-not-found-filename = Ehechajey marandurenda réra ndoguerekoiha jejavy ijehaípe, avei taiguasu ojeporukuévo.
 neterror-file-not-found-moved = Ehechajey pe marandurenda noñemongu’éipa, oñembohéra ambue térã ñemboguepyréva.
 neterror-access-denied = Ikatúmakuri oñemboguete, oñemongu’e térã marandurenda ñemoneĩ ikatu omboyke pe jeike.
 neterror-unknown-protocol = Ikatu eikotevẽ emohenda ambue software eike hag̃ua ko kundaharapépe.
 neterror-redirect-loop = Ko apañuãi oikokuaa reipe’a térã neremoneĩriramo kookie ñeg̃uahẽ.
 neterror-unknown-socket-type-psm-installed = Ehechajey nde apopyvusu oguerekópa ñangarekoha imba’eteéva tekorosãrã mohendapyréva.
 neterror-unknown-socket-type-server-config = Kóva ikatu ojehuhína peteĩ ñemboheko oiko porã’ỹva mohendahavusúpe rupi.
-neterror-not-cached-intro = Kuatia jerurepyre noĩvéima ojepuru hag̃uáicha kache { -brand-short-name }-pe.
+neterror-not-cached-intro = Kuatia jerurepyre noĩvéima ojeporu hag̃uáicha kache { -brand-short-name }-pe.
 neterror-not-cached-sensitive = Kyhyje tekorosãrãramo, { -brand-short-name } ndojeruremo’ãvéima ijehegui kuatiakuéra takate’ỹha.
 neterror-not-cached-try-again = Eikutu Ñeha’ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.
 neterror-net-offline = Ejopy “Ha’ã jey” remoambue hag̃ua jeikekatúpe ha kuatiarogue myenyhẽjey.
 neterror-proxy-resolve-failure-settings = Ehechajey proxy ñemboheko eikuaa porã hag̃ua oikoitetaha.
-neterror-proxy-resolve-failure-connection = Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu ojepurukuaáva.
+neterror-proxy-resolve-failure-connection = Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu ojeporukuaáva.
 neterror-proxy-resolve-failure-firewall = Nemohendaha térã ñanduti omo’ã chupe peteĩ tatakytĩha térã proxy,  ehechajeýke { -brand-short-name } oguerekópa ñemoneĩ oike hag̃ua ñandutípe.
 neterror-proxy-connect-failure-settings = Ehechajey proxy ñemboheko eikuaaite hag̃ua oĩ porãpa.
 neterror-proxy-connect-failure-contact-admin = Eñe’ẽ ñanduti ñangarekohára ndive eikuaaite hag̃ua mohendahavusu proxy oiko porãiteha.

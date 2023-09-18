@@ -88,7 +88,7 @@ webext-site-perms-header-with-gated-perms-midi-sysex = Ko moĩmbaha ome’ẽ { 
 webext-site-perms-description-gated-perms-midi =
     Tuichaháicha, ha’ehína mba’e’oka mba’epu sintetizadores, hákatu avei ojuaju ne mohendaháre.
     
-    Hetajey, umi ñanduti renda ndoikekuaái MIDI mba’e’okápe. Ndojepuruporãiramo ikatu ombyai térã omohekochi’ĩ tekorosã.
+    Hetajey, umi ñanduti renda ndoikekuaái MIDI mba’e’okápe. Ndojeporuporãiramo ikatu ombyai térã omohekochi’ĩ tekorosã.
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &

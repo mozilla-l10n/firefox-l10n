@@ -62,12 +62,12 @@ app-basics-os-theme = OS Téma
 # Rosetta is Apple's translation process to run apps containing x86_64
 # instructions on Apple Silicon. This should remain in English.
 app-basics-rosetta = Rosetta omoñe’ẽasapyre
-app-basics-memory-use = Mandu’arenda jepuru
+app-basics-memory-use = Mandu’arenda jeporu
 app-basics-performance = Mba’eaporã
 app-basics-service-workers = Mba’apohára mba’epytyvõrã mboguapyréva
 app-basics-third-party = Mbohapyháva Ra’ãha
 app-basics-profiles = Mba’etekuéra
-app-basics-launcher-process-status = Momboha jepuru
+app-basics-launcher-process-status = Momboha jeporu
 app-basics-multi-process-support = Windows rembiapoita
 app-basics-fission-support = Fission Rovetã
 app-basics-remote-processes-count = Tapereko okayguáva
@@ -184,14 +184,14 @@ media-codec-support-hw-decoding = Hardware Jepapapy’o
 media-codec-support-codec-name = Codec Réra
 media-codec-support-supported = Pytyvõpyre
 media-codec-support-unsupported = Oñepytyvõ’ỹva
-media-codec-support-error = Pe marandu códec jokupyty ndojepurukuaái. Eha’ãjey ehecha rire marandurenda ñongatuha.
+media-codec-support-error = Pe marandu códec jokupyty ndojeporukuaái. Eha’ãjey ehecha rire marandurenda ñongatuha.
 
 ##
 
 intl-title = Mongakuaa & ñemohenda
 intl-app-title = Tembiporu’i ñemboheko
 intl-locales-requested = Ñe’ẽnguéra jerurepyre
-intl-locales-available = Ñe’ẽnguéra ojepurukuaáva
+intl-locales-available = Ñe’ẽnguéra ojeporukuaáva
 intl-locales-supported = Ñe’ẽnguéra tembiporu’i rehegua
 intl-locales-default = Ñe’ẽnguéra ijypykuéva
 intl-os-title = Apopyvusu oku’éva
