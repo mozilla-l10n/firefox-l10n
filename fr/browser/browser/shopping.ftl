@@ -92,7 +92,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Comment nous déterminons la qualité d’un avis
+shopping-analysis-explainer-grades-intro = Nous attribuons une <strong>notation alphabétique</strong> aux avis sur chaque produit, allant de A à F.
 shopping-analysis-explainer-review-grading-scale-reliable = Avis fiables. Nous pensons que les avis proviennent probablement de véritables client·e·s qui ont laissé des avis sincères et objectifs.
+shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. Nous pensons que les avis sont probablement contrefaits ou proviennent d’utilisateurs partiaux.
 
 ## Strings for UrlBar button
 
