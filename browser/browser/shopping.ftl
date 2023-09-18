@@ -74,6 +74,8 @@ shopping-show-less-button = Vis mindre
 
 shopping-settings-label =
     .label = Innstillingar
+shopping-settings-recommendations-toggle =
+    .label = Vis annonsar i vurderingskontrolløren
 shopping-settings-opt-out-button = Slå av vurderingskontrolløren
 
 ## Strings for the adjusted rating component
@@ -89,6 +91,8 @@ shopping-review-reliability-label =
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Korleis vi bestemmer kvaliteten på ei vurdering
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerte vurderinga</strong> er berre basert på vurderingar som vi meinar er pålitelege.
 shopping-analysis-explainer-review-grading-scale-unreliable = Upålitelege vurderingar. Vi meinar at vurderingane sannsynlegvis er falske eller frå partiske vurderarar.
 
