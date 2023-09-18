@@ -139,7 +139,18 @@
     }
     .gender = masculine
 -relay-brand-short-name = Relay
--fakespot-brand-name = Fakespot
+-fakespot-brand-name =
+    { $case ->
+        [gen] Fakespotu
+        [dat] Fakespotu
+        [acc] Fakespot
+        [voc] Fakespote
+        [loc] Fakespotu
+        [ins] Fakespotem
+       *[nom] Fakespot
+    }
+    .gender = masculine
+    .case-status = with-cases
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
