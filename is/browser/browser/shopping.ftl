@@ -48,6 +48,8 @@ shopping-message-bar-warning-offline-title = Engin nettenging
 shopping-message-bar-warning-offline-message = Athugaðu nettenginguna þína. Prófaðu síðan að endurlesa síðuna.
 shopping-message-bar-analysis-in-progress-title = Greining kemur fljótlega
 shopping-message-bar-analysis-in-progress-message = Þegar henni er lokið munum við sjálfkrafa birta uppfærðar upplýsingar hér.
+shopping-message-bar-page-not-supported-title = Við getum ekki athugað þessar umsagnir
+shopping-message-bar-page-not-supported-message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot

@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Settu inn aðallykilorð
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Frekari upplýsingar</a>
 firefoxview-tabpickup-signed-out-header = Skráðu þig inn til að tengjast aftur
 firefoxview-tabpickup-signed-out-description = Skráðu þig inn á { -fxaccount-brand-name } til að tengjast aftur og ná í flipana þína.
+firefoxview-tabpickup-signed-out-description2 = Skráðu þig inn til að tengjast aftur og ná í flipana þína.
 firefoxview-tabpickup-signed-out-primarybutton = Skrá inn
 firefoxview-tabpickup-syncing = Ekki fara neitt meðan fliparnir þínir samstillast. Þetta tekur bara augnablik.
 firefoxview-mobile-promo-header = Náðu í flipa úr símanum þínum eða spjaldtölvunni

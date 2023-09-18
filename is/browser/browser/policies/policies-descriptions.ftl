@@ -28,6 +28,7 @@ policy-CertificatesDescription = Bæta við skilríki eða nota innbyggða skilr
 policy-Cookies = Leyfa eða neita vefsvæðum um að setja vefkökur.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Stilltu reglur sem tengjast gagnagámum.
+policy-DisableAccounts = Slökkva á reikningstengdum þjónustum, þar með talið samstillingu.
 policy-DisabledCiphers = Gera dulritun óvirka.
 policy-DefaultDownloadDirectory = Stilltu sjálfgefna möppu fyrir niðurhal.
 policy-DisableAppUpdate = Koma í veg fyrir að vafrinn uppfærist.
