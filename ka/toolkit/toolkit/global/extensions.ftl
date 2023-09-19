@@ -35,7 +35,7 @@ webext-perms-sideload-cancel =
     .accesskey = გ
 # Variables:
 #   $extension (String): replaced with the localized name of the extension.
-webext-perms-update-text = { $extension } განახლდა. განახლების დაყენებამდე, საჭიროებს ახალ ნებართვებს. აირჩიეთ „გაუქმება“ არსებული ვერსიის დასატოვებლად. ამ გაფართოებას შეეძლება:
+webext-perms-update-text = { $extension } განახლდა. განახლების დაყენებამდე საჭიროებს ახალ ნებართვებს. მიუთითეთ „გაუქმება“ არსებული ვერსიის დასატოვებლად. მოთხოვნილი ნებართვები:
 webext-perms-update-accept =
     .label = განახლება
     .accesskey = ა
@@ -66,8 +66,8 @@ webext-perms-host-description-one-site = თქვენს მონაცე�
 #     hosts for which this webextension is requesting permission.
 webext-perms-host-description-too-many-sites =
     { $domainCount ->
-        [one] თქვენს მონაცემებთან წვდომა, სხვა საიტზე
-       *[other] თქვენს მონაცემებთან წვდომა, სხვა { $domainCount } საიტზე
+        [one] თქვენს მონაცემებთან წვდომა სხვა საიტზე
+       *[other] თქვენს მონაცემებთან წვდომა სხვა { $domainCount } საიტზე
     }
 
 ## Headers used in the webextension permissions dialog for synthetic add-ons.
