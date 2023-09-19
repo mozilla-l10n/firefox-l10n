@@ -145,6 +145,10 @@ shopping-unanalyzed-product-header = Non ci sono ancora analisi per queste recen
 shopping-unanalyzed-product-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } e in circa 60 secondi saprai se le recensioni di questo prodotto sono affidabili.
 shopping-unanalyzed-product-analyze-link = Avvia lo strumento di analisi su { -fakespot-website-name }
 
+shopping-unanalyzed-product-header2 = Non ci sono ancora informazioni su queste recensioni
+shopping-unanalyzed-product-message2 = Per sapere se le recensioni di questo prodotto sono affidabili, verificane la qualità. Ci vogliono solo circa 60 secondi.
+shopping-unanalyzed-product-analyze-link2 = Verifica qualità recensioni
+
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
