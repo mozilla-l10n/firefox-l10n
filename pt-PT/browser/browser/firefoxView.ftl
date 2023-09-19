@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ver a navegação recente entre janelas e dispositivos
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -43,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Atualize as suas definições de sincro
 firefoxview-syncedtabs-synctabs-description = Para ver os separadores de outros dispositivos, precisa de sincronizar os seus separadores abertos.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que separadores abertos sejam sincronizados
 firefoxview-syncedtabs-loading-header = Sincronização em progresso
+firefoxview-syncedtabs-loading-description = Quando terminar, irá ver todos os separadores abertos nos outros dispositivos. Volte em breve.
 firefoxview-tabpickup-fxa-admin-disabled-header = A sua organização desativou a sincronização
 firefoxview-tabpickup-fxa-admin-disabled-description = O { -brand-short-name } não consegue sincronizar separadores entre dispositivos porque o seu administrador desativou a sincronização.
 firefoxview-tabpickup-network-offline-header = Verifique a sua ligação à Internet
@@ -61,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Inserir a Palavra-passe pr
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Saber mais</a>
 firefoxview-tabpickup-signed-out-header = Iniciar sessão para restabelecer a ligação
 firefoxview-tabpickup-signed-out-description = Para reassociar e aceder aos seus separadores, inicie sessão na { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Para reassociar e obter aos seus separadores, inicie sessão na sua conta
 firefoxview-tabpickup-signed-out-primarybutton = Iniciar sessão
 firefoxview-tabpickup-syncing = Aguarde enquanto os seus separadores estão a ser sincronizados. Será apenas um momento.
 firefoxview-mobile-promo-header = Obter separadores do seu telemóvel ou tablet
