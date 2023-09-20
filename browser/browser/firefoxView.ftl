@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Oppdater dine synkroniseringsinnstillin
 firefoxview-syncedtabs-synctabs-description = For å se faner fra andre enheter, må du synkronisere dine åpne faner.
 firefoxview-syncedtabs-synctabs-checkbox = Tillat åpne faner å synkronisere
 firefoxview-syncedtabs-loading-header = Synkronisering pågår
+firefoxview-syncedtabs-loading-description = Når det er gjort, vil du se alle faner du har åpne på andre enheter. Prøv å sjekke igjen senere.
 firefoxview-tabpickup-fxa-admin-disabled-header = Organisasjonen din har deaktivert synkronisering
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } kan ikke synkronisere faner mellom enheter fordi administratoren din har deaktivert synkronisering.
 firefoxview-tabpickup-network-offline-header = Sjekk internettilkoblingen din
@@ -205,9 +206,7 @@ firefoxview-recentlyclosed-empty-header = Lukket en fane for tidlig?
 firefoxview-recentlyclosed-empty-description = Her finner du fanene du nylig lukket, slik at du raskt kan åpne hvilken som helst av dem igjen.
 firefoxview-recentlyclosed-empty-description-two = For å finne faner fra for lenge siden, se <a data-l10n-name="history-url">nettleserhistorikken din</a>.
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Ingen faner åpne på denne enheten
+firefoxview-syncedtabs-connect-another-device = Koble til en annen enhet
