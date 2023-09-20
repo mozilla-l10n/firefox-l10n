@@ -161,3 +161,13 @@ shopping-survey-next-button-label = Volgende
 shopping-survey-submit-button-label = Verzenden
 shopping-survey-terms-link = Gebruiksvoorwaarden
 shopping-survey-thanks-message = Bedankt voor uw feedback!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+shopping-callout-closed-opted-in-subtitle = Ga terug naar de <strong>beoordelingscontrole</strong> wanneer u het prijskaartje ziet.
+shopping-callout-pdp-opted-in-title = Zijn deze beoordelingen betrouwbaar? Ontdek het snel.
+shopping-callout-pdp-opted-in-subtitle = Open de beoordelingscontrole om een aangepaste waardering te zien waaruit onbetrouwbare beoordelingen zijn verwijderd. Plus, bekijk hoogtepunten uit recente authentieke beoordelingen.
+shopping-callout-closed-not-opted-in-title = Eén klik naar betrouwbare beoordelingen
+shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole eens uit wanneer u het prijskaartje ziet. Krijg snel inzichten van echte klanten — voordat u iets koopt.
