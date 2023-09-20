@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name } verslun
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Umsagnaskoðun
+shopping-beta-marker = Beta-prófunarútgáfa
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Umsagnaskoðun - Prófunarútgáfa
 shopping-close-button =
     .title = Loka
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Uppfærslur í boði
 shopping-message-bar-warning-stale-analysis-message = Ræstu { -fakespot-brand-full-name } greininguna til að fá uppfærðar upplýsingar á um 60 sekúndum.
-shopping-message-bar-generic-error-title = Greining ekki tiltæk í augnablikinu
+shopping-message-bar-generic-error-title2 = Engar upplýsingar tiltækar í augnablikinu
 shopping-message-bar-generic-error-message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
 shopping-message-bar-warning-not-enough-reviews-title = Ekki nægar umsagnir ennþá
-shopping-message-bar-warning-not-enough-reviews-message = Þegar þessi vara fær fleiri umsagnir getum við greint þær.
+shopping-message-bar-warning-not-enough-reviews-message2 = Þegar þessi vara hefur fleiri umsagnir getum við athugað gæði þeirra.
 shopping-message-bar-warning-product-not-available-title = Vara er ekki fáanleg
-shopping-message-bar-warning-product-not-available-message = Ef þú sérð að þessi vara er aftur komin á lager skaltu tilkynna það til okkar og við munum vinna að því að uppfæra greininguna.
+shopping-message-bar-warning-product-not-available-message2 = Ef þú sérð að þessi vara er aftur komin á lager skaltu tilkynna það til okkar og við munum vinna að því að uppfæra greininguna.
 shopping-message-bar-warning-product-not-available-button = Tilkynna að þessi vara sé aftur á lager
 shopping-message-bar-thanks-for-reporting-title = Takk fyrir að tilkynna þetta!
-shopping-message-bar-thanks-for-reporting-message = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
-shopping-message-bar-warning-product-not-available-reported-title = Greining kemur fljótlega
-shopping-message-bar-warning-product-not-available-reported-message = Uppfærð greining ætti að vera tilbúin innan 24 klukkustunda. Komdu aftur síðar.
-shopping-message-bar-warning-offline-title = Engin nettenging
-shopping-message-bar-warning-offline-message = Athugaðu nettenginguna þína. Prófaðu síðan að endurlesa síðuna.
-shopping-message-bar-analysis-in-progress-title = Greining kemur fljótlega
-shopping-message-bar-analysis-in-progress-message = Þegar henni er lokið munum við sjálfkrafa birta uppfærðar upplýsingar hér.
+shopping-message-bar-thanks-for-reporting-message2 = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
+shopping-message-bar-warning-product-not-available-reported-title2 = Upplýsingar koma fljótlega
+shopping-message-bar-warning-product-not-available-reported-message2 = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
+shopping-message-bar-analysis-in-progress-title2 = Athugar gæði umsagna
+shopping-message-bar-analysis-in-progress-message2 = Þetta gæti tekið um 60 sekúndur.
 shopping-message-bar-page-not-supported-title = Við getum ekki athugað þessar umsagnir
 shopping-message-bar-page-not-supported-message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Umsagnaskoðunin er knúin áfram af <a data-l10n-name="fa
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Aðlöguð einkunn
 shopping-adjusted-rating-unreliable-reviews = Óáreiðanlegar umsagnir fjarlægðar
@@ -99,9 +106,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Hvernig við ákvörðum gæði umsagna
-shopping-analysis-explainer-intro =
+shopping-analysis-explainer-intro2 =
     Við notum gervigreindartækni frá { -fakespot-brand-full-name } til að greina áreiðanleika vöruumsagna.
-    Þessi greining mun aðeins hjálpa þér að meta gæði umsagna um vörur, ekki gæði vöru.
+    Þetta mun aðeins hjálpa þér að meta gæði umsagna um vörur, ekki gæði vöru.
 shopping-analysis-explainer-grades-intro = Við gefum umsögnum hverrar vöru <strong>einkunnir í bókstöfum</strong> frá A til F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Aðlöguð einkunn</strong> er eingöngu byggð á umsögnum sem við teljum vera áreiðanlegar.
 shopping-analysis-explainer-learn-more = Frekari upplýsingar um <a data-l10n-name="review-quality-url">hvernig { -fakespot-brand-full-name } ákvarðar gæði umsagna</a>.
@@ -127,12 +134,35 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Engin greining fyrir þessar umsagnir ennþá
-shopping-unanalyzed-product-message = Ræstu { -fakespot-brand-full-name } greininguna og þú munt vita eftir um það bil 60 sekúndur hvort umsagnir þessarar vöru séu áreiðanlegar.
-shopping-unanalyzed-product-analyze-link = Keyra greiningu á { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Engar upplýsingar ennþá um þessar umsagnir
+shopping-unanalyzed-product-message-2 = Til að vita hvort umsagnir þessarar vöru séu áreiðanlegar skaltu athuga gæði umsagna. Það tekur aðeins um 60 sekúndur.
+shopping-unanalyzed-product-analyze-button = Athugaðu gæði umsagna
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Fleira sem mætti skoða
 ad-by-fakespot = Auglýsing frá { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Hjálpaðu til við að bæta { -brand-product-name }
+shopping-survey-q1-radio-1-label = Mjög ánægð/ur
+shopping-survey-q1-radio-2-label = Ánægð/ur
+shopping-survey-q1-radio-3-label = Hlutlaus
+shopping-survey-q1-radio-4-label = Óánægð/ur
+shopping-survey-q1-radio-5-label = Mjög óánægð/ur
+shopping-survey-q2-radio-1-label = Já
+shopping-survey-q2-radio-2-label = Nei
+shopping-survey-q2-radio-3-label = Veit ekki
+shopping-survey-next-button-label = Næsta
+shopping-survey-submit-button-label = Senda inn
+shopping-survey-terms-link = Notkunarskilmálar
+shopping-survey-thanks-message = Takk fyrir álit þitt!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+shopping-callout-pdp-opted-in-title = Eru þessar umsagnir áreiðanlegar? Finndu fljótt út úr því.
+shopping-callout-closed-not-opted-in-title = Einn smellur til að fá áreiðanlegar umsagnir
