@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name } Shopping
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = בודק הסקירות
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = בודק הסקירות - Beta
 shopping-close-button =
     .title = סגירה
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = עדכונים זמינים
 shopping-message-bar-warning-stale-analysis-message = ניתן להפעיל את הכלי המנתח של { -fakespot-brand-full-name } כדי לקבל מידע מעודכן תוך כ־60 שניות.
-shopping-message-bar-generic-error-title = ניתוח אינו זמין כעת
+shopping-message-bar-generic-error-title2 = אין מידע זמין כרגע
 shopping-message-bar-generic-error-message = אנחנו עובדים על פתרון הבעיה. נא לבדוק שוב בקרוב.
 shopping-message-bar-warning-not-enough-reviews-title = אין מספיק סקירות עדיין
-shopping-message-bar-warning-not-enough-reviews-message = כאשר למוצר זה יהיו סקירות נוספות, נוכל לנתח אותן.
+shopping-message-bar-warning-not-enough-reviews-message2 = כאשר למוצר זה יהיו סקירות נוספות, נוכל לבדוק את האיכות שלהן.
 shopping-message-bar-warning-product-not-available-title = המוצר אינו זמין
-shopping-message-bar-warning-product-not-available-message = אם מוצר זה חזר למלאי, נא לדווח לנו על כך ואנו נעבוד על עדכון הניתוח.
+shopping-message-bar-warning-product-not-available-message2 = אם מוצר זה חזר למלאי, נא לדווח על כך ואנו נעבוד על בדיקת הסקירות.
 shopping-message-bar-warning-product-not-available-button = שליחת דיווח שמוצר זה חזר למלאי
 shopping-message-bar-thanks-for-reporting-title = תודה על הדיווח!
-shopping-message-bar-thanks-for-reporting-message = אמור להיות לנו ניתוח מעודכן תוך 24 שעות. נא לבדוק שוב אז.
-shopping-message-bar-warning-product-not-available-reported-title = ניתוח יבוא בקרוב
-shopping-message-bar-warning-product-not-available-reported-message = ניתוח מעודכן אמור להיות מוכן תוך 24 שעות. נא לבדוק שוב אז.
-shopping-message-bar-warning-offline-title = אין חיבור לרשת
-shopping-message-bar-warning-offline-message = נא לבדוק את החיבור שלך לרשת. לאחר מכן, נא לנסות לטעון מחדש את הדף.
-shopping-message-bar-analysis-in-progress-title = ניתוח יבוא בקרוב
-shopping-message-bar-analysis-in-progress-message = כשזה יסתיים, נציג כאן באופן אוטומטי את המידע המעודכן.
+shopping-message-bar-thanks-for-reporting-message2 = אמור להיות לנו מידע על הסקירות של מוצר זה תוך 24 שעות. נא לבדוק שוב אז.
+shopping-message-bar-warning-product-not-available-reported-title2 = מידע יבוא בקרוב
+shopping-message-bar-warning-product-not-available-reported-message2 = אמור להיות לנו מידע על הסקירות של מוצר זה תוך 24 שעות. נא לבדוק שוב אז.
+shopping-message-bar-analysis-in-progress-title2 = בתהליך בדיקת איכות הסקירות
+shopping-message-bar-analysis-in-progress-message2 = פעולה זו יכולה להימשך כ־60 שניות.
 shopping-message-bar-page-not-supported-title = אין באפשרותנו לבדוק סקירות אלה
 shopping-message-bar-page-not-supported-message = למרבה הצער, איננו יכולים לבדוק את איכות הסקירות עבור סוגים מסויימים של מוצרים. למשל, כרטיסי מתנה והזרמת וידאו, מוזיקה ומשחקים.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = בודק הסקירות מופעל על־ידי <a data-l1
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = דירוג מותאם
 shopping-adjusted-rating-unreliable-reviews = סקירות בלתי אמינות הוסרו
@@ -99,9 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = כיצד אנו קובעים את איכות הסקירות
-shopping-analysis-explainer-intro =
-    אנו משתמשים בטכנולוגיית AI של { -fakespot-brand-full-name } כדי לנתח את המהימנות של סקירות מוצרים.
-    ניתוח זה רק יעזור לך להעריך את איכות הסקירות, לא את איכות המוצר.
+shopping-analysis-explainer-intro2 = אנו משתמשים בטכנולוגיית AI של { -fakespot-brand-full-name } כדי לבדוק את המהימנות של סקירות מוצרים. בדיקה זו תעזור לך להעריך רק את איכות הסקירות, לא את איכות המוצר.
 shopping-analysis-explainer-grades-intro = אנו מקצים לסקירות של כל מוצר <strong>ציון אות</strong> מ־A עד F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>הדירוג המותאם</strong> מבוסס רק על סקירות שאנו מאמינים שהן אמינות.
 shopping-analysis-explainer-learn-more = מידע נוסף על <a data-l10n-name="review-quality-url">כיצד { -fakespot-brand-full-name } קובע את איכות הסקירות</a>.
@@ -127,10 +132,38 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = אין עדיין ניתוח עבור סקירות אלה
-shopping-unanalyzed-product-message = ניתן להפעיל את הכלי המנתח של { -fakespot-brand-full-name } ולדעת תוך כ־60 שניות אם הסקירות של מוצר זה אמינות.
-shopping-unanalyzed-product-analyze-link = פתיחת הכלי המנתח ב־{ -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = אין עדיין מידע על סקירות אלה
+shopping-unanalyzed-product-message-2 = כדי לדעת האם הסקירות של מוצר זה אמינות, יש לבדוק את איכות הסקירות. פעולה זו נמשכת כ־60 שניות.
+shopping-unanalyzed-product-analyze-button = בדיקת איכות הסקירות
 
 ## Strings for the advertisement
 
 ad-by-fakespot = פרסומת מאת { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = עזרה בשיפור { -brand-product-name }
+shopping-survey-question-one = עד כמה היית מרוצה מחויית בודק הסקירות ב־{ -brand-product-name }?
+shopping-survey-q1-radio-1-label = מאוד מרוצה
+shopping-survey-q1-radio-2-label = מרוצה
+shopping-survey-q1-radio-3-label = נטרלי
+shopping-survey-q1-radio-4-label = לא מרוצה
+shopping-survey-q1-radio-5-label = מאוד לא מרוצה
+shopping-survey-question-two = האם בודק הסקירות מקל עליך בקבלת החלטות רכישה?
+shopping-survey-q2-radio-1-label = כן
+shopping-survey-q2-radio-2-label = לא
+shopping-survey-q2-radio-3-label = לא יודע/ת
+shopping-survey-next-button-label = הבא
+shopping-survey-submit-button-label = שליחה
+shopping-survey-terms-link = תנאי שימוש
+shopping-survey-thanks-message = תודה על המשוב שלך!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+shopping-callout-closed-opted-in-subtitle = יש לחזור בחזרה ל<strong>בודק הסקירות</strong> בכל פעם שיופיע תג המחיר.
+shopping-callout-pdp-opted-in-title = האם הסקירות האלו אמינות? בדיקה זריזה.
+shopping-callout-pdp-opted-in-subtitle = ניתן לפתוח את בודק הסקירות כדי לראות דירוג מותאם עם סקירות לא אמינות שהוסרו. בנוסף, ניתן לראות דגשים מסקירות אותנטיות אחרונות.
+shopping-callout-closed-not-opted-in-title = לחיצה אחת לסקירות אמינות
+shopping-callout-closed-not-opted-in-subtitle = נסו את בודק הסקירות בכל פעם שיוצג תג המחיר. קבלו תובנות מקונים אמיתיים במהירות - לפני הרכישה.
