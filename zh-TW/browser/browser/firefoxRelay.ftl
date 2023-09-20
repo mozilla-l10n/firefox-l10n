@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } 無法找到可�
 ##
 
 firefox-relay-must-login-to-fxa = 必須登入 { -fxaccount-brand-name } 才可以使用 { -relay-brand-name }。
+firefox-relay-must-login-to-account = 登入帳號即可使用您的 { -relay-brand-name } 轉寄信箱。
 firefox-relay-get-unlimited-masks =
     .label = 管理轉寄信箱
     .accesskey = M

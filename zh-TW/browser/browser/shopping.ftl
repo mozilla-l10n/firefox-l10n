@@ -159,3 +159,8 @@ shopping-survey-next-button-label = 下一題
 shopping-survey-submit-button-label = 送出
 shopping-survey-terms-link = 使用條款
 shopping-survey-thanks-message = 感謝您的意見回饋！
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
