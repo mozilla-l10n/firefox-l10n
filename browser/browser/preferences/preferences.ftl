@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = ส่งสัญญาณ “ไม่ติดตาม” ให้กับเว็บไซต์ว่าคุณไม่ต้องการถูกติดตาม
+do-not-track-description2 =
+    .label = ส่งคำขอ “ไม่ติดตาม” ให้กับเว็บไซต์
+    .accesskey = ม
 do-not-track-learn-more = เรียนรู้เพิ่มเติม
 do-not-track-option-default-content-blocking-known =
     .label = เฉพาะเมื่อ { -brand-short-name } ถูกตั้งให้ปิดกั้นตัวติดตามที่รู้จัก
 do-not-track-option-always =
     .label = เสมอ
+global-privacy-control-description =
+    .label = บอกเว็บไซต์ไม่ให้ขายหรือแบ่งปันข้อมูลของฉัน
+    .accesskey = บ
 settings-page-title = การตั้งค่า
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
