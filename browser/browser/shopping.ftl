@@ -170,3 +170,4 @@ shopping-callout-closed-opted-in-subtitle = Wróćće so ke <strong>kontroli poh
 shopping-callout-pdp-opted-in-title = Su tute pohódnoćenja spušćomne? Wuslědźće to spěšnje.
 shopping-callout-pdp-opted-in-subtitle = Wočińće kontrolu pohódnoćenjow, zo byšće přiměrjenje hódnoćenje z wotstronjenymi njespušćomnymi pohódnoćenjemi. Wobhladajće sej nimo toho  wjerški z najnowšich awtentiskich pohódnoćenjow.
 shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych pohódnoćenjow
+shopping-callout-closed-not-opted-in-subtitle = Dajće kontroli pohódnoćenjow šansu, hdyžkuli płaćiznowu tafličku widźiće. Dóstańće spěšnje dohlady wot woprawdźitych nakupowarjow – prjedy hač kupujeće.
