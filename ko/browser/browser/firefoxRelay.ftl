@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name }가 재사용 가
 ##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name }를 사용하려면 { -fxaccount-brand-name }에 로그인해야 합니다.
+firefox-relay-must-login-to-account = { -relay-brand-name } 이메일 마스크를 사용하려면 계정에 로그인하세요.
 firefox-relay-get-unlimited-masks =
     .label = 마스크 관리
     .accesskey = M

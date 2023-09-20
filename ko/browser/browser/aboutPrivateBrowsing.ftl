@@ -72,3 +72,5 @@ about-private-browsing-cookie-banners-promo-message = { -brand-short-name }가 �
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = 이 기기에 흔적을 남기지 마세요
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name }는 모든 사생활 보호 창을 닫을 때 쿠키, 기록 및 사이트 데이터를 삭제합니다.
+about-private-browsing-felt-privacy-v1-info-link = 누가 내 활동을 볼 수 있나요?
