@@ -132,6 +132,9 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Информации об этих отзывах пока нет
+shopping-unanalyzed-product-message-2 = Чтобы узнать, достоверны ли отзывы на этот продукт, проверьте качество отзывов. Это займет всего около 60 секунд.
+shopping-unanalyzed-product-analyze-button = Проверить качество отзывов
 
 ## Strings for the advertisement
 
@@ -141,8 +144,28 @@ ad-by-fakespot = Реклама от { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Помогите улучшить { -brand-product-name }
+shopping-survey-question-one = Насколько вы удовлетворены функцией проверки отзывов в { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Очень доволен
+shopping-survey-q1-radio-2-label = Удовлетворен
+shopping-survey-q1-radio-3-label = Нейтрален
+shopping-survey-q1-radio-4-label = Недоволен
+shopping-survey-q1-radio-5-label = Очень недоволен
+shopping-survey-question-two = Облегчает ли вам средство проверки отзывов принятие решения о покупке?
+shopping-survey-q2-radio-1-label = Да
+shopping-survey-q2-radio-2-label = Нет
+shopping-survey-q2-radio-3-label = Я не знаю
+shopping-survey-next-button-label = Далее
+shopping-survey-submit-button-label = Отправить
+shopping-survey-terms-link = Условия использования
+shopping-survey-thanks-message = Спасибо за ваш отзыв!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Возвращайтесь к <strong>проверке отзывов</strong> всякий раз, когда увидите ценник.
+shopping-callout-pdp-opted-in-title = Эти отзывы заслуживают доверия? Узнайте это быстро.
+shopping-callout-pdp-opted-in-subtitle = Откройте инструмент проверки отзывов, чтобы увидеть скорректированную оценку и удалить ненадежные отзывы. Кроме того, посмотрите основные моменты из недавних достоверных обзоров.
+shopping-callout-closed-not-opted-in-title = Одно нажатие для надежных отзывов
+shopping-callout-closed-not-opted-in-subtitle = Используйте инструмент проверки отзывов каждый раз, когда увидите цену. Быстро получите информацию от реальных покупателей — прежде чем совершить покупку.
