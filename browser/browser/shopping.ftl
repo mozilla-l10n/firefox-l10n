@@ -166,3 +166,8 @@ shopping-survey-thanks-message = Tank foar jo kommentaar!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Gean werom nei de <strong>beoardielingskontrôle</strong> wannear’t jo it priiskaartsje sjogge.
+shopping-callout-pdp-opted-in-title = Binne dizze beoardielingen betrouber? Untdek it gau!
+shopping-callout-pdp-opted-in-subtitle = Iepenje de beoardielingskontrôle om in oanpaste wurdearring te sjen wêrút ûnbetroubere beoardielingen fuortsmiten binne. Plus, sjoch hichtepunten út resinte autentike resinsjes.
+shopping-callout-closed-not-opted-in-title = Ien klik nei betroubere beoardielingen
+shopping-callout-closed-not-opted-in-subtitle = Probearje beoardielingskontrôle ris wannear’t jo it priiskaartsje sjogge. Krij fluch ynsjoch fan echte klanten — eardat jo wat keapje.
