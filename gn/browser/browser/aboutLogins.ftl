@@ -82,6 +82,7 @@ about-logins-login-intro-heading-logged-out2 = ¿Eheka ne rembiapo ñepyrũ ñon
 about-logins-login-intro-heading-logged-in = Ndaipóri tembiapo ñepyrũ mbojuehepyre.
 login-intro-description = Eñongatúvo nde jeike { -brand-product-name }-pe ambue mba’e’okápe.
 login-intro-instructions-fxa = Emoheñói térã eike nde { -fxaccount-brand-name }-pe mba’e’oka eñongatuhápe ne rembiapo ñepyrũ.
+login-intro-instructions-fxa2 = Emoheñói térã eike ne mba’etépe mba’e’oka eñongatuhápe eikehague.
 login-intro-instructions-fxa-settings = Eho Ñemoĩporãme > Sync > Emyandy ñembojuehe… Eiporavo Tembiapo ñepyrũ kora ha ñe’ẽñemi.
 login-intro-instructions-fxa-passwords-help = Eike <a data-l10n-name="passwords-help-link">ñe’ẽñemi pytyvõrã</a> kuatiaroguépe ejeykeko hag̃ua.
 about-logins-intro-browser-only-import = Ne rembiapo ñepyrũ oñeñongatúramo ambue kundahárape, ikatu <a data-l10n-name="import-link">ogueru { -brand-product-name }-pe</a>

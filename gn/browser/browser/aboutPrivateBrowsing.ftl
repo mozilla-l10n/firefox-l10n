@@ -68,3 +68,9 @@ about-private-browsing-pin-promo-title = Kookie nongatupyre ha tembiasakue’ỹ
 about-private-browsing-cookie-banners-promo-header = ¡Opáma kookie maranduñemurã!
 about-private-browsing-cookie-banners-promo-button = Emomichĩ kookie maranduñemurã
 about-private-browsing-cookie-banners-promo-message = Eheja { -brand-short-name } tombohovái ijehegui umi kookie rovetã iñapysẽva ikatu hag̃uáicha eikundaha apañuãi’ỹre. { -brand-short-name } omboykéta opaite mba’ejerure ikatúramo.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Ani eheja ko mba’e’oka rapykuere
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } ombogue kookie, tembiasakue ha mba’ekuaarã tendápe embotypávo ne rovetã ñemiguáva.
+about-private-browsing-felt-privacy-v1-info-link = Mávapa ohechakuaa che rembiapo

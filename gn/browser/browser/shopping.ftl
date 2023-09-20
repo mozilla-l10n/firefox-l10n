@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name } Ñemuhaguasu
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Hechaha japojeyha
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Marandu’i rechajeyha - beta
 shopping-close-button =
     .title = Mboty
 # This string is for notifying screen reader users that the
@@ -32,15 +39,12 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eiporukuaáva
-shopping-message-bar-generic-error-title = Ñehesa’ỹijo ojeporukuaa’ỹva ko’ág̃a
+shopping-message-bar-warning-stale-analysis-message = Emoñepyrũ { -fakespot-brand-full-name } resa’ỹijoha ereko hag̃ua marandu hekopyahúva 60 aravo’ivépe.
+shopping-message-bar-generic-error-title2 = Ndaipóri marandu ko’ág̃aite
 shopping-message-bar-warning-not-enough-reviews-title = Noĩri gueteri heta marandu’i
-shopping-message-bar-warning-not-enough-reviews-message = Ko apopyre imarandu’i heta vove, ikatúma rohesa’ỹijo.
 shopping-message-bar-warning-product-not-available-title = Apopyre ndojeporukuaái
 shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojeporukuaajeymaha
 shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
-shopping-message-bar-warning-product-not-available-reported-title = Ñehesa’ỹijo ojeporukuaapotáva
-shopping-message-bar-warning-offline-title = Ndaikatúi eike ñandutípe
-shopping-message-bar-analysis-in-progress-title = Ñehesa’ỹijo ojeporukuaapotáva
 shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -76,6 +80,8 @@ shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Ñeha’ãmby ha’etéva
 shopping-adjusted-rating-unreliable-reviews = Oñemboguéta marandu’i jerovia’ỹha
@@ -104,10 +110,17 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Noñehesa’ỹijói gueteri ko’ã marandu’i
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Ehecha emomba’e hag̃ua
 ad-by-fakespot = { -fakespot-brand-name } moñemurã
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
