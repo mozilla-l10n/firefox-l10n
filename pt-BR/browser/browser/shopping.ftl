@@ -151,6 +151,7 @@ shopping-survey-q1-radio-2-label = Satisfeito
 shopping-survey-q1-radio-3-label = Neutro
 shopping-survey-q1-radio-4-label = Insatisfeito
 shopping-survey-q1-radio-5-label = Muito insatisfeito
+shopping-survey-question-two = O verificador de avaliações facilita a tomada de decisões de compras?
 shopping-survey-q2-radio-1-label = Sim
 shopping-survey-q2-radio-2-label = Não
 shopping-survey-q2-radio-3-label = Não sei
@@ -163,4 +164,6 @@ shopping-survey-thanks-message = Obrigado por sua opinião!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Volte ao <strong>verificador de avaliações</strong> sempre que aparecer a etiqueta de preço.
 shopping-callout-pdp-opted-in-title = Essas avaliações são confiáveis? Descubra rápido.
+shopping-callout-closed-not-opted-in-title = Um clique para avaliações confiáveis
