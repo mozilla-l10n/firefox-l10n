@@ -5,10 +5,15 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ver a navegación recente en todas as fiestras e dispositivos
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Pechar
     .aria-label = Pechar
@@ -36,7 +41,9 @@ firefoxview-tabpickup-synctabs-description = Permitir que { -brand-short-name } 
 firefoxview-tabpickup-synctabs-learn-how = Aprender como
 firefoxview-tabpickup-synctabs-primarybutton = Sincronizar as lapelas abertas
 firefoxview-syncedtabs-synctabs-header = Actualizar a súa configuración de sincronización
+firefoxview-syncedtabs-synctabs-description = Para ver as lapelas doutros dispositivos, cómpre sincronizar as lapelas abertas.
 firefoxview-syncedtabs-synctabs-checkbox = Permitir que se sincronicen as pestanas abertas
+firefoxview-syncedtabs-loading-header = Sincronización en curso
 firefoxview-tabpickup-fxa-admin-disabled-header = A súa organización desactivou a sincronización
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } non pode sincronizar lapelas entre dispositivos porque a persoa administradora do seu sistema desactivou a sincronización.
 firefoxview-tabpickup-network-offline-header = Comprobe a súa conexión a internet
@@ -138,6 +145,10 @@ firefoxview-show-more = Amosar máis
 firefoxview-show-less = Amosar menos
 firefoxview-sort-history-by-date-label = Ordenar pola data
 firefoxview-sort-history-by-site-label = Ordenar polo sitio
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Cambiar a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -185,5 +196,7 @@ firefoxview-import-history-header = Importar o historial desde outro navegador
 
 firefoxview-recentlyclosed-empty-header = Pechou unha pestana demasiado pronto?
 
-##
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Non hai lapelas abertas neste dispositivo
+firefoxview-syncedtabs-connect-another-device = Conectar outro dispositivo
