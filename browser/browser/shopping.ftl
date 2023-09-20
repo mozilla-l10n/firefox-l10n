@@ -110,9 +110,15 @@ shopping-analysis-explainer-intro2 = ჩვენ ვიყენებთ ხ�
 shopping-analysis-explainer-grades-intro = ნაწარმზე თითოეულ მიმოხილვას ეწერება <strong>ნიშნები</strong> A-დან F-მდე.
 shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ მიმოხილვებს, რომლებიც სანდოდ მიგვაჩნია.
 shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-full-name } მიმოხილვის ხარისხს</a>.
+shopping-analysis-explainer-review-grading-scale-mixed = მიგვაჩნია, რომ შერეულადაა სანდო და არასანდო მიმოხილვები.
+shopping-analysis-explainer-review-grading-scale-unreliable = არასანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები, სავარაუდოდ, ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button =
+    .tooltiptext = საყიდლების გვერდითი ზოლის გახსნა
+shopping-sidebar-close-button =
+    .tooltiptext = საყიდლების გვერდითი ზოლის დახურვა
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
