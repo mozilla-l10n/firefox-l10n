@@ -219,6 +219,14 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
        *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował a kotrež su z wašim kontom { -fxaccount-brand-name } synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [one] To přizjewjenje wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [two] To přizjewjeni wotstroni, kotrejž sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+        [few] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+       *[other] To přizjewjenja wotstroni, kotrež sće w { -brand-short-name } na wšěch gratach składował, kotrež su z wašim kontom synchronizowane. To tež warnowanja wo datowych dźěrach wotstroni, kotrež so tu pokazuja. Njemóžeće tutu akciju cofnyć.
+    }
 
 ##
 

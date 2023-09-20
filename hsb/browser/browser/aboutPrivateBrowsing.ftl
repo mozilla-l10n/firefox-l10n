@@ -22,12 +22,10 @@ about-private-browsing-not-private = Tuchwilu njejsće w priwatnym woknje.
 about-private-browsing-info-description-private-window = Priwatne wokno: { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće.  Přez to njebudźeće anonymny.
 about-private-browsing-info-description-simplified = { -brand-short-name } wašu pytansku a přehladowansku historiju zhaša, hdyž wšě priwatne wokna začinjeće, ale přez to njebudźeće anonymny.
 about-private-browsing-learn-more-link = Dalše informacije
-
 about-private-browsing-hide-activity = Schowajće swoju aktiwitu a stejnišćo, hdźežkuli wobhladowak wužiwaće
 about-private-browsing-get-privacy = Wobstarajće sej škit priwatnosće wšudźe, hdźež přehladujeće
 about-private-browsing-hide-activity-1 = Schowajće přehladowansku aktiwitu a stejnišćo z { -mozilla-vpn-brand-name }. Z jednym kliknjenjom wutworiće zwisk, samo w zjawnym WLAN:
 about-private-browsing-prominent-cta = Škitajće swoju priwatnosć z { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = { -focus-brand-name } sćahnyć
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Priwatny modus po puću
 about-private-browsing-focus-promo-text = Naše mobilne, za priwatny modus myslene nałoženje wašu historiju a placki kóždy čas prózdni.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Přinjesće priwatne přehladowanj
 about-private-browsing-focus-promo-text-b = Wužiwajće { -focus-brand-name } za te priwatne pytanja, kotrež nima waš hłowny mobilny wobhladowak widźeć.
 about-private-browsing-focus-promo-header-c = Priwatnosć přichodneho schodźenka za mobilne graty
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wašu historiju kóždy raz zhaša, hdyž wabjenje a přesćěhowaki blokujeće.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Začinić
-
 about-private-browsing-promo-close-button =
     .title = Začinić
 
@@ -72,3 +68,9 @@ about-private-browsing-pin-promo-title = Žane składowane placki abo žana hist
 about-private-browsing-cookie-banners-promo-header = Preč z plackowymi chorhojemi!
 about-private-browsing-cookie-banners-promo-button = Plackowe chorhoje redukować
 about-private-browsing-cookie-banners-promo-message = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Na tutym graće žane slědy njezawostajić
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } waše placki, historiju a sydłowe daty zhaša, hdyž wšě swoje priwatne wokna začinjeće.
+about-private-browsing-felt-privacy-v1-info-link = Štó móhł moju aktiwitu widźeć?
