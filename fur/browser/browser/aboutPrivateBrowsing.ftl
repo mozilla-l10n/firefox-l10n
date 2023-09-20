@@ -72,3 +72,4 @@ about-private-browsing-cookie-banners-promo-message = Permet a { -brand-short-na
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = No sta lassâ segns su chest dispositîf
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } al elimine i cookies, la cronologjie e i dâts dai sîts cuant che tu sieris ducj i barcons privâts.
