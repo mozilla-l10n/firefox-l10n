@@ -1019,6 +1019,10 @@ content-blocking-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 content-blocking-section-top-level-description = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
 content-blocking-learn-more = Dysgu rhagor
 content-blocking-fpi-incompatibility-warning = Rydych yn defnyddio Ynysu Parti Cyntaf (FPI), sy’n gwrthwneud rhai o osodiadau cwci { -brand-short-name } ’.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Rydych chi'n defnyddio Resist Fingerprinting (RFP), sy'n disodli rhai o osodiadau diogelu bysbrintio { -brand-short-name }. Gall hyn achosi i rai gwefannau dorri.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

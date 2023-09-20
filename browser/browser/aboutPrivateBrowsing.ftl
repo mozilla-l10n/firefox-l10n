@@ -71,6 +71,6 @@ about-private-browsing-cookie-banners-promo-message = Gadael i { -brand-short-na
 
 ## Strings for Felt Privacy v1 experiments in 119
 
-about-private-browsing-felt-privacy-v1-info-header = Peidiwch â gadael unrhyw olion ar y ddyfais hon
+about-private-browsing-felt-privacy-v1-info-header = Peidio â gadael unrhyw olion ar y ddyfais hon
 about-private-browsing-felt-privacy-v1-info-body = Mae { -brand-short-name } yn dileu eich cwcis, hanes, a data gwefan pan fyddwch yn cau eich holl ffenestri preifat.
-about-private-browsing-felt-privacy-v1-info-link = Pwy allai weld fy ngweithgarwch?
+about-private-browsing-felt-privacy-v1-info-link = Pwy all weld fy ngweithgarwch?
