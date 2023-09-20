@@ -106,9 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Hoe wij de kwaliteit van beoordelingen bepalen
-shopping-analysis-explainer-intro2 =
-    We gebruiken AI-technologie van { -fakespot-brand-full-name } om de betrouwbaarheid van productbeoordelingen te controleren.
-    Met deze analyse kunt u alleen de kwaliteit van beoordelingen beoordelen, niet de productkwaliteit.
+shopping-analysis-explainer-intro2 = We gebruiken AI-technologie van { -fakespot-brand-full-name } om de betrouwbaarheid van productbeoordelingen te controleren. Hiermee kunt u alleen de kwaliteit van beoordelingen beoordelen, niet de productkwaliteit.
 shopping-analysis-explainer-grades-intro = We kennen aan de beoordelingen van elk product een <strong>letterwaarde</strong> toe, van A tot F.
 shopping-analysis-explainer-adjusted-rating-description = De <strong>aangepaste waardering</strong> is alleen gebaseerd op beoordelingen die wij betrouwbaar achten.
 shopping-analysis-explainer-learn-more = Meer info over <a data-l10n-name="review-quality-url">hoe { -fakespot-brand-full-name } de kwaliteit van beoordelingen bepaalt</a>.
@@ -170,4 +168,4 @@ shopping-callout-closed-opted-in-subtitle = Ga terug naar de <strong>beoordeling
 shopping-callout-pdp-opted-in-title = Zijn deze beoordelingen betrouwbaar? Ontdek het snel.
 shopping-callout-pdp-opted-in-subtitle = Open de beoordelingscontrole om een aangepaste waardering te zien waaruit onbetrouwbare beoordelingen zijn verwijderd. Plus, bekijk hoogtepunten uit recente authentieke beoordelingen.
 shopping-callout-closed-not-opted-in-title = Eén klik naar betrouwbare beoordelingen
-shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole eens uit wanneer u het prijskaartje ziet. Krijg snel inzichten van echte klanten — voordat u iets koopt.
+shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole eens uit wanneer u het prijskaartje ziet. Krijg snel inzichten van echte klanten – voordat u iets koopt.
