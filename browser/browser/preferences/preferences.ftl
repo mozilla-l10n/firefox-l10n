@@ -1007,6 +1007,10 @@ content-blocking-enhanced-tracking-protection = Rozšírená ochrana pred sledov
 content-blocking-section-top-level-description = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
 content-blocking-learn-more = Ďalšie informácie
 content-blocking-fpi-incompatibility-warning = Používate izoláciu prvej strany (FPI), ktorá potlačí niektoré nastavenia cookies prehliadača { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Používate funkciu RFP (Resist Fingerprinting), ktorá nahrádza niektoré nastavenia ochrany { -brand-short-name(case: "gen") } pred snímaním digitálnych odtlačkov. To môže spôsobiť zlyhanie niektorých stránok.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
