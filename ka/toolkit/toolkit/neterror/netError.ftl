@@ -38,7 +38,7 @@ neterror-error-reporting-automatic = აცნობეთ { -vendor-short-name 
 ## Specific error messages
 
 neterror-generic-error = { -brand-short-name } ვერ ახერხებს ამ გვერდის ჩატვირთვას გაურკვეველი მიზეზით.
-neterror-load-error-try-again = საიტი დროებით მიუწვდომელი ან გადატვირთულია. სცადეთ ხელახლა, რამდენიმე წამში.
+neterror-load-error-try-again = საიტი დროებით მიუწვდომელი ან გადატვირთულია. სცადეთ ხელახლა რამდენიმე წამში.
 neterror-load-error-connection = თუ სხვა გვერდების ჩატვირთვასაც ვერ ახერხებთ, შეამოწმეთ კომპიუტერის ქსელთან კავშირი.
 neterror-load-error-firewall = თუ თქვენი ქსელი ან კომპიუტერი ფარით ან პროქსითაა დაცული, გადაამოწმეთ არის თუ არა { -brand-short-name } ინტერნეტთან წვდომის უფლების მქონე.
 neterror-captive-portal = ინტერნეტთან დასაკავშირებლად, საჭიროა ამ ქსელში შესვლა.
