@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } kin gjin nij opn
 ##
 
 firefox-relay-must-login-to-fxa = Jo moatte jo oanmelde by { -fxaccount-brand-name } om { -relay-brand-name } te brûke te kinnen.
+firefox-relay-must-login-to-account = Meld jo oan by jo account om jo { -relay-brand-name }-e-mailmaskers te brûken.
 firefox-relay-get-unlimited-masks =
     .label = Maskers beheare
     .accesskey = b

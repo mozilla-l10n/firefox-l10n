@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Ferbettere beskerming tsjin folg
 content-blocking-section-top-level-description = Trackers folgje jo online om gegevens oer jo sneupgedrach en ynteresses te sammeljen. { -brand-short-name } blokkearret in protte fan dizze trackers en oare kweawollende skripts.
 content-blocking-learn-more = Mear ynfo
 content-blocking-fpi-incompatibility-warning = Jo brûke First Party Isolation (FPI), dat in oantal cookie-ynstellingen fan { -brand-short-name } oerskriuwt.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Jo brûke Resist Fingerprinting (RFP), dy’t in oantal fan de { -brand-short-name }-ynstellingen foar beskerming tsjin fingerprinting ferfangt. Dit kin derfoar soargje dat guon websites net goed wurkje.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
