@@ -166,4 +166,6 @@ shopping-survey-thanks-message = Gratias pro tu commentario!
 
 shopping-callout-closed-opted-in-subtitle = Retorna al <strong>verificator de recension</strong> quando tu vide le icone con le etiquetta del precio.
 shopping-callout-pdp-opted-in-title = Es fidabile iste recensiones? Discoperi lo tosto.
+shopping-callout-pdp-opted-in-subtitle = Aperi le verificator de recension pro vider un classification adjustate con le recensiones non fidabile removite. In ultra, vide le evidentias de recente recensiones authentic.
 shopping-callout-closed-not-opted-in-title = Un clic pro recensiones fidabile
+shopping-callout-closed-not-opted-in-subtitle = Prova le verificator de recension quandocunque tu vide le etiquetta del precio. Obtene discernimentos ab real compratores facilemente, ante que tu compra.
