@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } njemóžeše zas
 ##
 
 firefox-relay-must-login-to-fxa = Dyrbiće so pola { -fxaccount-brand-name } přizjewić, zo byšće { -relay-brand-name } wužiwał.
+firefox-relay-must-login-to-account = Přizjewće so pola swojeho konta, zo byšće swoje e-mejlowe maski { -relay-brand-name } wužiwał.
 firefox-relay-get-unlimited-masks =
     .label = Maski rjadować
     .accesskey = M
