@@ -72,3 +72,4 @@ about-private-browsing-cookie-banners-promo-message = La { -brand-short-name } a
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } sletter infokapsler, historikk og nettstedsdata når du lukker alle dine private vinduer.
+about-private-browsing-felt-privacy-v1-info-link = Hvem kan ha mulighet til å se aktiviteten min?
