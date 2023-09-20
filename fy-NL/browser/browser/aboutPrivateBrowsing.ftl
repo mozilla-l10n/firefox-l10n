@@ -22,12 +22,10 @@ about-private-browsing-not-private = Jo binne op dit stuit net yn in priveefinst
 about-private-browsing-info-description-private-window = Priveefinster: { -brand-short-name } wisket jo syk- en navigaasjeskiednis wannear’t jo alle priveefinsters slute. Dit makket jo net anonym.
 about-private-browsing-info-description-simplified = { -brand-short-name } wisket jo syk- en navigaasjeskiednis wannear’t jo alle priveefinsters slute, mar dit makket jo net anonym.
 about-private-browsing-learn-more-link = Mear ynfo
-
 about-private-browsing-hide-activity = Ferbergje jo aktiviteit en lokaasje, oeral wêr’t jo sneupe
 about-private-browsing-get-privacy = Untfang privacybeskerming oeral wêr’t jo sneupe
 about-private-browsing-hide-activity-1 = Ferbergje jo sneupaktiviteiten en lokaasje mei { -mozilla-vpn-brand-name }. Mei ien klik meitsje jo in feilige ferbining, sels op iepenbiere wifi.
 about-private-browsing-prominent-cta = Bliuw privee mei { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = { -focus-brand-name } downloade
 about-private-browsing-focus-promo-header = { -focus-brand-name }: priveenavigaasje ûnderweis
 about-private-browsing-focus-promo-text = Us spesjale mobile app foar priveenavigaasje wisket elke kear jo skiednis en cookies.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Bring priveenavigaasje nei jo tele
 about-private-browsing-focus-promo-text-b = Brûk { -focus-brand-name } foar dy priveesykopdrachten wêrfan jo net wolle dat jo mobile standertbrowser se sjocht.
 about-private-browsing-focus-promo-header-c = Privacy op mobyl op it folgjende nivo
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } wisket elke kear jo skiednis, wylst advertinsjes en trackers blokkearre wurde.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Slute
-
 about-private-browsing-promo-close-button =
     .title = Slute
 
@@ -72,3 +68,9 @@ about-private-browsing-pin-promo-title = Gjin bewarre cookies of skiednis, direk
 about-private-browsing-cookie-banners-promo-header = Farwel cookiebanners!
 about-private-browsing-cookie-banners-promo-button = Cookiebanners redusearje
 about-private-browsing-cookie-banners-promo-message = Lit { -brand-short-name } cookie-pop-ups automatysk foar jo beäntwurdzje, sadat jo wer sneupe kinne sûnder ôflieding. { -brand-short-name } wiist alle fersiken ôf as it mooglik is.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Lit gjin spoaren efter op dit apparaat
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } wisket jo cookies, skiednis en websitegegevens as jo al jo priveefinsters slute.
+about-private-browsing-felt-privacy-v1-info-link = Wa kin myn aktiviteit sjen?
