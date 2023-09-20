@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name }-shopping
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Vurderingskontrollør
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = vurderingskontrollør - beta
 shopping-close-button =
     .title = Lat att
 # This string is for notifying screen reader users that the
@@ -33,18 +40,15 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
 shopping-message-bar-warning-stale-analysis-message = Start analysatoren { -fakespot-brand-full-name } for å få uppdatert informasjon om ca. 60 sekund.
-shopping-message-bar-generic-error-title = Analysen er ikkje tilgjengeleg akkurat no
+shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengeleg akkurat no
 shopping-message-bar-generic-error-message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
-shopping-message-bar-warning-not-enough-reviews-message = Når dette produktet har fleire vurderingar, vil vi kunne analysere dei.
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
-shopping-message-bar-warning-product-not-available-message = Om du ser at dette produktet er på lager igjen, rapporter det til oss, så vil vi jobbe med å oppdatere analysen.
 shopping-message-bar-warning-product-not-available-button = Rapporter at dette produktet er på lager igjen
 shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
-shopping-message-bar-warning-product-not-available-reported-title = Analysar kjem snart
-shopping-message-bar-warning-offline-title = Inga nettverkstilkopling
-shopping-message-bar-warning-offline-message = Kontroller nettverkstilkoplinga di. Oppdater deretter sida.
-shopping-message-bar-analysis-in-progress-title = Analysar kjem snart
+shopping-message-bar-warning-product-not-available-reported-title2 = Info kjem snart
+shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
+shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
 shopping-message-bar-page-not-supported-title = Vi klarer ikkje å kontrollere desse vurderingane
 
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -80,6 +84,8 @@ shopping-settings-opt-out-button = Slå av vurderingskontrolløren
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Juster vurdering
 shopping-adjusted-rating-unreliable-reviews = Upålitelege vurderingar er fjerna
@@ -112,11 +118,31 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Ingen analysar av desse vurderingane enno
-shopping-unanalyzed-product-analyze-link = Start analysator på { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Ingen informasjon om desse vurderingane enno
+shopping-unanalyzed-product-analyze-button = Kontroller kvaliteten på vurderinga
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Meir å vurdere
 ad-by-fakespot = Reklame frå { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Hjelp til med å forbetre { -brand-product-name }
+shopping-survey-q1-radio-1-label = Svært fornøgd
+shopping-survey-q1-radio-2-label = Fornøgd
+shopping-survey-q1-radio-3-label = Nøytral
+shopping-survey-q1-radio-4-label = Misfornøgd
+shopping-survey-q1-radio-5-label = Veldig misfornøgd
+shopping-survey-q2-radio-1-label = Ja
+shopping-survey-q2-radio-2-label = Nei
+shopping-survey-q2-radio-3-label = Eg veit ikkje
+shopping-survey-next-button-label = Neste
+shopping-survey-submit-button-label = Send inn
+shopping-survey-terms-link = Brukarvilkår
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
