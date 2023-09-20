@@ -22,12 +22,10 @@ about-private-browsing-not-private = אינך כעת בחלון גלישה פר�
 about-private-browsing-info-description-private-window = חלון פרטי: { -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך בעת סגירת כל החלונות הפרטיים. פעולה זו לא הופכת אותך לאנונימי.
 about-private-browsing-info-description-simplified = ‏{ -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך בעת סגירת כל החלונות הפרטיים, אך פעולה זו לא הופכת אותך לאנונימי.
 about-private-browsing-learn-more-link = מידע נוסף
-
 about-private-browsing-hide-activity = הסתרת הפעילות והמיקום שלך בכל מקום בו גולשים ברשת
 about-private-browsing-get-privacy = קבלת הגנות על הפרטיות בכל מקום שבו גולשים
 about-private-browsing-hide-activity-1 = הסתרת פעילות הגלישה והמיקום שלך עם { -mozilla-vpn-brand-name }. לחיצה אחת יוצרת חיבור מאובטח, אפילו בגלישה ב-Wi-Fi ציבורי.
 about-private-browsing-prominent-cta = להישאר אנונימי עם { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = הורדת { -focus-brand-name }
 about-private-browsing-focus-promo-header = ‏{ -focus-brand-name }: גלישה פרטית בדרכים
 about-private-browsing-focus-promo-text = יישומון הגלישה הפרטית הייעודי שלנו לנייד מנקה את ההיסטוריה והעוגיות שלך בכל פעם.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = לקחת את הגלישה הפר�
 about-private-browsing-focus-promo-text-b = ניתן להשתמש ב־{ -focus-brand-name } עבור החיפושים הפרטיים שאין ברצונך שיופיעו בדפדפן הראשי שלך בנייד.
 about-private-browsing-focus-promo-header-c = פרטיות מרחיקת לכת במכשיר הנייד
 about-private-browsing-focus-promo-text-c = ‏{ -focus-brand-name } מנקה את ההיסטוריה שלך בכל פעם, תוך חסימת פרסומות ורכיבי מעקב.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = סגירה
-
 about-private-browsing-promo-close-button =
     .title = סגירה
 
@@ -67,3 +63,9 @@ about-private-browsing-pin-promo-title = ללא עוגיות או היסטורי
 
 ## Strings used in a promotion message for cookie banner reduction
 
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = לא להשאיר עקבות במכשיר זה
+about-private-browsing-felt-privacy-v1-info-body = ‏{ -brand-short-name } מוחק את העוגיות, ההיסטוריה ונתוני האתר שלך כאשר כל החלונות הפרטיים שלך נסגרים.
+about-private-browsing-felt-privacy-v1-info-link = מי יכול לראות את הפעילות שלי?

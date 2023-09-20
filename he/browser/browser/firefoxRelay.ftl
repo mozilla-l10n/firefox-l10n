@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = ‏{ -relay-brand-name } לא הצלי
 ##
 
 firefox-relay-must-login-to-fxa = עליך להתחבר אל { -fxaccount-brand-name } כדי להשתמש ב־{ -relay-brand-name }.
+firefox-relay-must-login-to-account = יש להיכנס לחשבון שלך כדי להשתמש במסיכות הדוא״ל שלך ב־{ -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = ניהול מסיכות
     .accesskey = מ
