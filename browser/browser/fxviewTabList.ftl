@@ -40,7 +40,7 @@ fxviewtabrow-save-to-pocket = { -pocket-brand-name } වෙත සුරකි�
 fxviewtabrow-copy-link = සබැඳියේ පිටපතක්
     .accesskey = L
 fxviewtabrow-close-tab = පටිත්ත වසන්න
-    .accesskey = { "" }
+    .accesskey = C
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
