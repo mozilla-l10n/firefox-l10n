@@ -141,6 +141,7 @@ shopping-survey-q2-radio-3-label = Eg veit ikkje
 shopping-survey-next-button-label = Neste
 shopping-survey-submit-button-label = Send inn
 shopping-survey-terms-link = Brukarvilkår
+shopping-survey-thanks-message = Takk for tilbakemeldinga di!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
