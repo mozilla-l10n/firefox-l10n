@@ -203,6 +203,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Detta tar bort inloggningen som du har sparat i { -brand-short-name } på alla enheter som synkroniserats med ditt { -fxaccount-brand-name }. Detta tar också bort varningar om intrång som visas här. Du kan inte ångra den här åtgärden.
        *[other] Detta tar bort alla inloggningar som du har sparat i { -brand-short-name } på alla enheter som synkroniserats med ditt { -fxaccount-brand-name }. Detta tar också bort varningar om intrång som visas här. Du kan inte ångra den här åtgärden.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Detta tar bort inloggningen som du har sparat till { -brand-short-name } på alla enheter som synkroniseras med ditt konto. Detta tar också bort intrångsvarningar som visas här. Du kommer inte att kunna ångra den här åtgärden.
+       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
 
 ##
 
