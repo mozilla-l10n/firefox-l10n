@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = O { -relay-brand-name } não encontrou
 ##
 
 firefox-relay-must-login-to-fxa = Você precisa entrar na { -fxaccount-brand-name } para usar o { -relay-brand-name }.
+firefox-relay-must-login-to-account = Entre na sua conta para usar suas máscaras de email do { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Gerenciar máscaras
     .accesskey = G

@@ -6,6 +6,7 @@ shopping-page-title = Compras no { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de avaliações
+shopping-beta-marker = Beta
 shopping-close-button =
     .title = Fechar
 # This string is for notifying screen reader users that the
@@ -33,21 +34,11 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
 shopping-message-bar-warning-stale-analysis-message = Inicie o analisador do { -fakespot-brand-full-name } para obter informações atualizadas em cerca de 60 segundos.
-shopping-message-bar-generic-error-title = Análise não disponível no momento
 shopping-message-bar-generic-error-message = Estamos trabalhando para resolver o problema. Verifique novamente mais tarde.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
-shopping-message-bar-warning-not-enough-reviews-message = Quando este produto tiver mais avaliações, poderemos analisar.
 shopping-message-bar-warning-product-not-available-title = O produto não está disponível
-shopping-message-bar-warning-product-not-available-message = Se você perceber que tem este produto novamente em estoque, informe para nós e trabalharemos na atualização da análise.
 shopping-message-bar-warning-product-not-available-button = Informar que tem este produto em estoque novamente
 shopping-message-bar-thanks-for-reporting-title = Obrigado por informar!
-shopping-message-bar-thanks-for-reporting-message = Devemos ter uma análise atualizada em até 24 horas. Verifique novamente.
-shopping-message-bar-warning-product-not-available-reported-title = Análise em breve
-shopping-message-bar-warning-product-not-available-reported-message = Uma análise atualizada deve estar pronta em até 24 horas. Verifique novamente.
-shopping-message-bar-warning-offline-title = Sem conexão de rede
-shopping-message-bar-warning-offline-message = Verifique sua conexão de rede. Depois tente recarregar a página.
-shopping-message-bar-analysis-in-progress-title = Análise em breve
-shopping-message-bar-analysis-in-progress-message = Quando estiver pronta, mostraremos aqui automaticamente as informações atualizadas.
 shopping-message-bar-page-not-supported-title = Não podemos verificar essas avaliações
 shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade das avaliações de determinados tipos de produtos. Por exemplo, cartões-presente e transmissão de vídeo, música e jogos.
 
@@ -86,6 +77,8 @@ powered-by-fakespot = O verificador de avaliações é desenvolvido por <a data-
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Classificação ajustada
 shopping-adjusted-rating-unreliable-reviews = Avaliações não confiáveis removidas
@@ -99,9 +92,6 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Como determinamos a qualidade da avaliação
-shopping-analysis-explainer-intro =
-    Usamos a tecnologia de inteligência artificial do { -fakespot-brand-full-name } para analisar a confiabilidade das avaliações de produtos.
-    Esta análise só ajuda a estimar a qualidade da avaliação, não a qualidade do produto.
 shopping-analysis-explainer-grades-intro = Atribuímos às avaliações de cada produto uma <strong>nota com letra</strong> de A a F.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>classificação ajustada</strong> é baseada apenas em avaliações que acreditamos ser confiáveis.
 shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como o { -fakespot-brand-full-name } determina a qualidade da avaliação</a>.
@@ -127,12 +117,17 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Nenhuma análise dessas avaliações ainda
-shopping-unanalyzed-product-message = Inicie o analisador do { -fakespot-brand-full-name } e você saberá em cerca de 60 segundos se as avaliações deste produto são confiáveis.
-shopping-unanalyzed-product-analyze-link = Inicie o analisador no { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Mais a considerar
 ad-by-fakespot = Anúncio do { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
