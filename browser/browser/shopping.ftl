@@ -176,3 +176,4 @@ shopping-survey-next-button-label = Successivo
 shopping-survey-submit-button-label = Invia
 shopping-survey-terms-link = Condizioni di utilizzo del servizio
 shopping-survey-thanks-message = Grazie per aver condiviso la tua opinione.
+

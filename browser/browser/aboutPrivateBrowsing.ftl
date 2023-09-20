@@ -77,3 +77,4 @@ about-private-browsing-cookie-banners-promo-message = Consenti a { -brand-short-
 about-private-browsing-felt-privacy-v1-info-header = Non lasciare tracce su questo dispositivo
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name} elimina i cookie, la cronologia e i dati dei siti web quando chiudi tutte le finestre anonime.
 about-private-browsing-felt-privacy-v1-info-link = Chi potrebbe vedere la mia attività?
+

@@ -384,3 +384,4 @@ onboarding-device-migration-subtitle = Accedi al tuo { -fxaccount-brand-name } p
 onboarding-device-migration-subtitle2 = Accedi al tuo account per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
 onboarding-device-migration-primary-button-label = Accedi
 
+
