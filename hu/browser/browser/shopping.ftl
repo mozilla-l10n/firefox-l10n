@@ -153,6 +153,12 @@ shopping-survey-q1-radio-2-label = Elégedett
 shopping-survey-q1-radio-3-label = Semleges
 shopping-survey-q1-radio-4-label = Elégedetlen
 shopping-survey-q1-radio-5-label = Nagyon elégedetlen
+shopping-survey-question-two = Az értékelés-ellenőrző megkönnyíti a vásárlási döntéseket?
+shopping-survey-q2-radio-1-label = Igen
+shopping-survey-q2-radio-2-label = Nem
+shopping-survey-q2-radio-3-label = Nem tudom
+shopping-survey-next-button-label = Következő
+shopping-survey-submit-button-label = Elküldés
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
