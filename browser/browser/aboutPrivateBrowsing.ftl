@@ -22,12 +22,10 @@ about-private-browsing-not-private = Сейчас вы не в приватно�
 about-private-browsing-info-description-private-window = Приватное окно: { -brand-short-name } удаляет историю поиска и просмотра при закрытии всех приватных окон. Это не делает вас анонимными.
 about-private-browsing-info-description-simplified = { -brand-short-name } удаляет историю поиска и просмотра при закрытии всех приватных окон, но это не делает вас анонимными.
 about-private-browsing-learn-more-link = Подробнее
-
 about-private-browsing-hide-activity = Скрывайте свою активность и местоположение в любой части Интернета
 about-private-browsing-get-privacy = Получите защиту приватности в любой части Интернета
 about-private-browsing-hide-activity-1 = Скрывайте активность и местоположение в любой части Интернета с помощью { -mozilla-vpn-brand-name }. Одним щелчком мыши создавайте безопасное соединение даже при использовании общедоступной сети Wi-Fi.
 about-private-browsing-prominent-cta = Сохраняйте приватность с { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Загрузить { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Приватный просмотр сети на лету
 about-private-browsing-focus-promo-text = Наше специальное мобильное приложение для приватного просмотра каждый раз удаляет вашу историю и куки.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Приватный просмот�
 about-private-browsing-focus-promo-text-b = Используйте { -focus-brand-name }, когда не хотите сохранять свой поиск в основном мобильном браузере.
 about-private-browsing-focus-promo-header-c = Новый уровень приватности на мобильных устройствах
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } каждый раз стирает вашу историю, блокируя при этом рекламу и трекеры.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Закрыть
-
 about-private-browsing-promo-close-button =
     .title = Закрыть
 
@@ -72,3 +68,9 @@ about-private-browsing-pin-promo-title = Никаких сохранённых �
 about-private-browsing-cookie-banners-promo-header = Уберите уведомления о куках!
 about-private-browsing-cookie-banners-promo-button = Уменьшить число уведомлений о куках
 about-private-browsing-cookie-banners-promo-message = Разрешите { -brand-short-name } автоматически отвечать на уведомления о куках, чтобы не отвлекаться на них при просмотре сети. { -brand-short-name } будет отклонять все запросы, если это возможно.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Не оставлять следов на этом устройстве
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } удаляет ваши куки, историю и данные сайтов, когда вы закрываете все свои приватные окна.
+about-private-browsing-felt-privacy-v1-info-link = Кто может видеть мою активность?

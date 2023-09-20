@@ -6,6 +6,13 @@ shopping-page-title = Покупки в { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Проверка отзывов
+shopping-beta-marker = Бета
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Проверка отзывов – бета
 shopping-close-button =
     .title = Закрыть
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Доступны обновления
 shopping-message-bar-warning-stale-analysis-message = Запустите анализатор { -fakespot-brand-full-name }, чтобы получить обновленную информацию примерно через 60 секунд.
-shopping-message-bar-generic-error-title = Сейчас анализ недоступен
+shopping-message-bar-generic-error-title2 = На данный момент нет доступной информации
 shopping-message-bar-generic-error-message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
 shopping-message-bar-warning-not-enough-reviews-title = Пока недостаточно отзывов
-shopping-message-bar-warning-not-enough-reviews-message = Когда у этого товара будет больше отзывов, мы сможем их проанализировать.
+shopping-message-bar-warning-not-enough-reviews-message2 = Когда у этого товара будет больше отзывов, мы сможем проверить его качество.
 shopping-message-bar-warning-product-not-available-title = Товар недоступен
-shopping-message-bar-warning-product-not-available-message = Если вы увидите, что этот товар снова в наличии, сообщите нам об этом, и мы обновим анализ.
+shopping-message-bar-warning-product-not-available-message2 = Если вы увидите, что этот товар снова в наличии, сообщите об этом, и мы проверим отзывы.
 shopping-message-bar-warning-product-not-available-button = Сообщить, что этот товар снова в наличии
 shopping-message-bar-thanks-for-reporting-title = Спасибо за сообщение!
-shopping-message-bar-thanks-for-reporting-message = Мы должны получить обновленный анализ в течение 24 часов. Пожалуйста, зайдите позже.
-shopping-message-bar-warning-product-not-available-reported-title = Анализ скоро будет доступен
-shopping-message-bar-warning-product-not-available-reported-message = Обновленный анализ должен быть готов в течение 24 часов. Пожалуйста, зайдите позже.
-shopping-message-bar-warning-offline-title = Нет подключения к сети
-shopping-message-bar-warning-offline-message = Проверьте сетевое соединение. Затем попробуйте перезагрузить страницу.
-shopping-message-bar-analysis-in-progress-title = Анализ скоро будет доступен
-shopping-message-bar-analysis-in-progress-message = Когда процесс завершится, мы автоматически покажем здесь обновленную информацию.
+shopping-message-bar-thanks-for-reporting-message2 = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
+shopping-message-bar-warning-product-not-available-reported-title2 = Информация скоро появится
+shopping-message-bar-warning-product-not-available-reported-message2 = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
+shopping-message-bar-analysis-in-progress-title2 = Проверяем качество отзывов
+shopping-message-bar-analysis-in-progress-message2 = Это может занять около 60 секунд.
 shopping-message-bar-page-not-supported-title = Мы не можем проверить эти отзывы
 shopping-message-bar-page-not-supported-message = К сожалению, мы не можем проверить качество отзывов на некоторые виды товаров. Например, подарочные карты и потоковое видео, музыку и игры.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Инструмент проверки отзывов ра�
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Скорректированный рейтинг
 shopping-adjusted-rating-unreliable-reviews = Недостоверные отзывы удалены
@@ -99,9 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Как мы определяем качество отзывов
-shopping-analysis-explainer-intro =
-    Мы используем технологию ИИ от { -fakespot-brand-full-name } для анализа достоверности отзывов на продукты.
-    Этот анализ поможет вам оценить только качество отзывов, а не качество продукта.
+shopping-analysis-explainer-intro2 = Мы используем технологию ИИ от { -fakespot-brand-full-name } для проверки достоверности обзоров продуктов. Это поможет вам оценить только качество отзывов, а не качество продукта.
 shopping-analysis-explainer-grades-intro = Мы присваиваем отзывам каждого продукта <strong>буквенную оценку</strong> от A до F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скорректированная оценка</strong> основана только на отзывах, которые мы считаем достоверными.
 shopping-analysis-explainer-learn-more = Узнайте больше о том, <a data-l10n-name="review-quality-url">как { -fakespot-brand-full-name } определяет качество отзывов</a>.
@@ -127,12 +132,17 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Анализа этих отзывов пока нет
-shopping-unanalyzed-product-message = Запустите анализатор { -fakespot-brand-full-name }, и примерно через 60 секунд вы узнаете, достоверны ли отзывы об этом продукте.
-shopping-unanalyzed-product-analyze-link = Запустить анализатор на { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = На что ещё обратить внимание
 ad-by-fakespot = Реклама от { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
