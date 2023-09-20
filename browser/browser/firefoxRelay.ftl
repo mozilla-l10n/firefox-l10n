@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nenašiel opakov
 ##
 
 firefox-relay-must-login-to-fxa = Ak chcete používať { -relay-brand-name }, musíte sa prihlásiť do { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
+firefox-relay-must-login-to-account = Ak chcete používať svoje e-mailové masky služby { -relay-brand-name }, prihláste sa do svojho účtu.
 firefox-relay-get-unlimited-masks =
     .label = Spravovať masky
     .accesskey = m
