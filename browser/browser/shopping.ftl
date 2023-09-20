@@ -113,7 +113,7 @@ shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, 
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
-shopping-analysis-explainer-highlights-description = <strong>გამოსარჩევი</strong> შედეგები ბოლო 80 დღეში { $retailer }-ის მიმოხილვებიდან, რომელთაც სანდოდ მივიჩნევთ.
+shopping-analysis-explainer-highlights-description = <strong>გამოსარჩევი</strong> ბოლო 80 დღეში { $retailer }-ის მიმოხილვებიდან, რომლებიც სანდოდ მიგვაჩნია.
 shopping-analysis-explainer-review-grading-scale-reliable = სანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები, სავარაუდოდ, ნამდვილი მომხმარებლებისგანაა დატოვებული პატიოსნად და მიუკერძოებლად.
 shopping-analysis-explainer-review-grading-scale-mixed = მიგვაჩნია, რომ შერეულადაა სანდო და არასანდო მიმოხილვები.
 shopping-analysis-explainer-review-grading-scale-unreliable = არასანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები, სავარაუდოდ, ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
@@ -138,9 +138,13 @@ shopping-unanalyzed-product-analyze-button = მიმოხილვის ხ�
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = სხვა მსგავსი
+ad-by-fakespot = რეკლამა – { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = დაგვეხმარეთ, გავაუმჯობესოთ { -brand-product-name }
 shopping-survey-question-one = რამდენად კმაყოფილი დარჩით მიმოხილვის შემმოწმებლით, რომელსაც იყენებს { -brand-product-name }?
 shopping-survey-q1-radio-1-label = მეტად კმაყოფილი
 shopping-survey-q1-radio-2-label = კმაყოფილი
@@ -160,5 +164,8 @@ shopping-survey-thanks-message = გმადლობთ გამოხმა�
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = დაუბრუნდით <strong>მიმოხილვის შემმოწმებელს</strong>, როგორც კი დადებულ ფასს იხილავთ.
+shopping-callout-closed-opted-in-subtitle = დაუბრუნდით <strong>მიმოხილვის შემმოწმებელს</strong>, როგორც კი დაკრულ ფასს დაინახავთ.
 shopping-callout-pdp-opted-in-title = სანდოა ეს მიმოხილვები? სწრაფად გაარკვიეთ.
+shopping-callout-pdp-opted-in-subtitle = გახსენით მიმოხილვის შემმოწმებელი და იხილეთ შესწორებული შეფასება არასანდო მიმოხილვების მოცილებით. გარდა ამისა, იხილეთ ბოლოდროინდელი გამორჩეული სანდო მიმოხილვები.
+shopping-callout-closed-not-opted-in-title = ერთი წკაპი სანდო მიმოხილვებამდე
+shopping-callout-closed-not-opted-in-subtitle = გამოცადეთ მიმოხილვის შემმოწმებელი, როგორც კი დაკრულ ფასს დაინახავთ. გაეცანით მოსაზრებებს ნამდვილი მყიდველებისგან სწრაფადვე — შეძენამდე.
