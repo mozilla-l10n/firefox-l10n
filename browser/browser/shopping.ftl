@@ -106,6 +106,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = 리뷰 품질을 결정하는 방법
+shopping-analysis-explainer-intro2 =
+    { -fakespot-brand-full-name }의 AI 기술을 사용하여 제품 리뷰의 신뢰성을 확인합니다.
+    이는 제품 품질이 아닌 리뷰 품질을 평가하는 데에만 도움이 됩니다.
 shopping-analysis-explainer-grades-intro = 각 제품의 리뷰에는 A부터 F까지 <strong>문자 등급</strong>이 부여됩니다.
 shopping-analysis-explainer-adjusted-rating-description = <strong>조정된 평점</strong>은 신뢰할 수 있다고 믿는 리뷰만을 기반으로 합니다.
 shopping-analysis-explainer-learn-more = <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name }이 리뷰 품질을 결정하는 방법</a>에 대해 더 알아보세요.
@@ -163,3 +166,8 @@ shopping-survey-thanks-message = 피드백 주셔서 감사합니다!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = 가격표를 볼 때마다 <strong>리뷰 검사기</strong>로 돌아가세요.
+shopping-callout-pdp-opted-in-title = 이 리뷰는 신뢰할 수 있나요? 빨리 알아보세요.
+shopping-callout-pdp-opted-in-subtitle = 신뢰할 수 없는 리뷰가 제거된 조정된 평점을 보려면 리뷰 검사기를 여세요. 또한 최근 실제 리뷰의 하이라이트를 확인하세요.
+shopping-callout-closed-not-opted-in-title = 클릭 한 번으로 신뢰할 수 있는 리뷰를 얻을 수 있습니다.
+shopping-callout-closed-not-opted-in-subtitle = 가격표를 볼 때마다 리뷰 검사기를 사용해 보세요. 구매하기 전에 실제 쇼핑객으로부터 빠르게 통찰력을 얻으세요.
