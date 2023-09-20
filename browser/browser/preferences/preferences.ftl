@@ -1014,7 +1014,7 @@ content-blocking-fpi-incompatibility-warning = Wužiwaće rozšěrjenje First Pa
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Wužiwaće Resist Fingerprinting (RFP), kotrež někajke nastajenja za škit přećiwo porstowym ćišćam { -brand-short-name } wuměnja.
+content-blocking-rfp-incompatibility-warning = Wužiwaće Resist Fingerprinting (RFP), kotrež někajke nastajenja za škit přećiwo porstowym ćišćam { -brand-short-name } wuměnja.  To móhło zawinować, zo někotre sydła hižo njefunguja.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
