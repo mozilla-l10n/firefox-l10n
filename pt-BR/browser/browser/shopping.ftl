@@ -7,6 +7,12 @@ shopping-page-title = Compras no { -brand-product-name }
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de avaliações
 shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Verificador de avaliações - beta
 shopping-close-button =
     .title = Fechar
 # This string is for notifying screen reader users that the
@@ -100,6 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Como determinamos a qualidade da avaliação
+shopping-analysis-explainer-intro2 = Usamos tecnologia de inteligência artificial do { -fakespot-brand-full-name } para analisar a confiabilidade das avaliações de produtos. Isso só ajuda a estimar a qualidade das avaliações, não a qualidade dos produtos.
 shopping-analysis-explainer-grades-intro = Atribuímos às avaliações de cada produto uma <strong>nota com letra</strong> de A a F.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>classificação ajustada</strong> é baseada apenas em avaliações que acreditamos ser confiáveis.
 shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como o { -fakespot-brand-full-name } determina a qualidade da avaliação</a>.
@@ -138,6 +145,7 @@ ad-by-fakespot = Anúncio do { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Ajude a melhorar o { -brand-product-name }
+shopping-survey-question-one = Qual é seu nível de satisfação com a experiência de uso do verificador de avaliações no { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Muito satisfeito
 shopping-survey-q1-radio-2-label = Satisfeito
 shopping-survey-q1-radio-3-label = Neutro
