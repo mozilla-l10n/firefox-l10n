@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name } vásárlás
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Értékelés-ellenőrző
+shopping-beta-marker = Béta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Értékelés-ellenőrző – béta
 shopping-close-button =
     .title = Bezárás
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Frissítések érhetők el
 shopping-message-bar-warning-stale-analysis-message = Indítsa el a { -fakespot-brand-full-name } elemzőt, hogy friss információkat kapjon körülbelül 60 másodperc alatt.
-shopping-message-bar-generic-error-title = Az elemzés most nem érhető el
+shopping-message-bar-generic-error-title2 = Jelenleg nem érhető el információ
 shopping-message-bar-generic-error-message = Dolgozunk a probléma megoldásán. Nézzen vissza később.
 shopping-message-bar-warning-not-enough-reviews-title = Még nincs elég értékelés
-shopping-message-bar-warning-not-enough-reviews-message = Ha több értékelése lesz a terméknek, akkor fogjuk tudni elemezni őket.
+shopping-message-bar-warning-not-enough-reviews-message2 = Ha több értékelése lesz a terméknek, akkor fogjuk tudni ellenőrizni a minőségüket.
 shopping-message-bar-warning-product-not-available-title = A termék nem érhető el
-shopping-message-bar-warning-product-not-available-message = Ha úgy látja, hogy a termék újra raktáron van, akkor jelentse nekünk, és akkor dolgozni fogunk az elemzés frissítésén.
+shopping-message-bar-warning-product-not-available-message2 = Ha úgy látja, hogy a termék újra raktáron van, akkor jelentse, és akkor dolgozni fogunk az értékelések ellenőrzésén.
 shopping-message-bar-warning-product-not-available-button = Jelentés, hogy a termék újra raktáron van
 shopping-message-bar-thanks-for-reporting-title = Köszönjük, hogy jelentette!
-shopping-message-bar-thanks-for-reporting-message = 24 órán belül naprakész lesz az elemzés. Nézzen vissza később.
-shopping-message-bar-warning-product-not-available-reported-title = Az elemzés hamarosan elkészül
-shopping-message-bar-warning-product-not-available-reported-message = A frissített elemzés 24 órán belül elkészül. Nézzen vissza később.
-shopping-message-bar-warning-offline-title = Nincs hálózati kapcsolat
-shopping-message-bar-warning-offline-message = Ellenőrizze a hálózati kapcsolatot. Ezután próbálja meg újratölteni az oldalt.
-shopping-message-bar-analysis-in-progress-title = Az elemzés hamarosan elkészül
-shopping-message-bar-analysis-in-progress-message = Ha elkészül, akkor automatikusan a frissített információkat jelenítjük meg itt.
+shopping-message-bar-thanks-for-reporting-message2 = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
+shopping-message-bar-warning-product-not-available-reported-title2 = Az információk hamarosan érkeznek
+shopping-message-bar-warning-product-not-available-reported-message2 = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
+shopping-message-bar-analysis-in-progress-title2 = Értékelési minőség ellenőrzése
+shopping-message-bar-analysis-in-progress-message2 = Ez körülbelül 60 másodpercig tarthat.
 shopping-message-bar-page-not-supported-title = Nem tudjuk ellenőrizni ezeket az értékeléseket
 shopping-message-bar-page-not-supported-message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Az értékelés-ellenőrzőt a <a data-l10n-name="fakespot
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Módosított értékelés
 shopping-adjusted-rating-unreliable-reviews = A nem megbízható értékelések eltávolítva
@@ -99,9 +106,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Hogyan határozzuk meg az értékelések minőségét
-shopping-analysis-explainer-intro =
+shopping-analysis-explainer-intro2 =
     A { -fakespot-brand-full-name } MI technológiáját használjuk a termékértékelések megbízhatóságának elemezéséhez.
-    Ez az elemzés csak az értékelések minőségének felmérésében segít, a termék minőségében nem.
+    Ez csak az értékelések minőségének felmérésében segít, a termék minőségében nem.
 shopping-analysis-explainer-grades-intro = Minden termékértékeléshez egy <strong>betűvel megadott osztályzatot</strong> rendelünk, A-tól F-ig.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>módosított értékelés</strong> az általunk megbízhatónak gondolt értékelések alapján van számítva.
 shopping-analysis-explainer-learn-more = Tudjon meg többet arról, <a data-l10n-name="review-quality-url">hogy a { -fakespot-brand-full-name } hogyan határozza meg az értékelések minőségét</a>.
@@ -127,12 +134,27 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Még nincs elemzés ezekhez az értékelésekhez
-shopping-unanalyzed-product-message = Indítsa el a { -fakespot-brand-full-name } elemzőt, és körülbelül 60 másodperc alatt tudni fogja, hogy az értékelések megbízhatók-e.
-shopping-unanalyzed-product-analyze-link = Elemző indítása ezen: { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Ezekről az értékelésekről még nincs információ
+shopping-unanalyzed-product-message-2 = Hogy megtudja, hogy ennek a terméknek az értékelései megbízhatóak-e, ellenőrizze az értékelés minőségét. Körülbelül 60 másodpercet vesz igénybe.
+shopping-unanalyzed-product-analyze-button = Értékelési minőség ellenőrzése
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = További megfontolandó információk
 ad-by-fakespot = A { -fakespot-brand-name } hirdetése
+
+## Shopping survey strings.
+
+shopping-survey-headline = Segítsen a { -brand-product-name } fejlesztésében
+shopping-survey-question-one = Mennyire elégedett az értékelés-ellenőrzővel kapcsolatos tapasztalatával a { -brand-product-name }ban?
+shopping-survey-q1-radio-1-label = Nagyon elégedett
+shopping-survey-q1-radio-2-label = Elégedett
+shopping-survey-q1-radio-3-label = Semleges
+shopping-survey-q1-radio-4-label = Elégedetlen
+shopping-survey-q1-radio-5-label = Nagyon elégedetlen
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
