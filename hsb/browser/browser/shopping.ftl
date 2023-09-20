@@ -147,11 +147,22 @@ ad-by-fakespot = Wabjenje wot { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Pomhajće { -brand-product-name } polěpšować
+shopping-survey-question-one = Kak spokojny sće z kontrolu pohódnoćenjow w { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Jara spokojny
+shopping-survey-q1-radio-2-label = Spokojny
 shopping-survey-q1-radio-3-label = Neutralny
+shopping-survey-q1-radio-4-label = Njespokojny
+shopping-survey-q1-radio-5-label = Jara njespokojny
 shopping-survey-q2-radio-1-label = Haj
 shopping-survey-q2-radio-2-label = Ně
+shopping-survey-q2-radio-3-label = Njewěm
+shopping-survey-next-button-label = Dale
+shopping-survey-submit-button-label = Wotpósłać
+shopping-survey-terms-link = Wužiwanske wuměnjenja
+shopping-survey-thanks-message = Dźakujemy so za waš komentar!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych pohódnoćenjow
