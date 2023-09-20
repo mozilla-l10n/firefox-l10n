@@ -72,4 +72,5 @@ about-private-browsing-cookie-banners-promo-message = La { -brand-short-name } a
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Etterlèt ingen spor på denne eininga
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } slettar infokapslar, historikk og nettstad-data, når du lèt att alle nettlesarvindauga.
 about-private-browsing-felt-privacy-v1-info-link = Kven kan kanskje sjå aktiviteten min?
