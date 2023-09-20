@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nol è rivât a 
 ##
 
 firefox-relay-must-login-to-fxa = Tu scugnis jentrâ in { -fxaccount-brand-name } par podê doprâ { -relay-brand-name }.
+firefox-relay-must-login-to-account = Jentre tal to account par doprâ lis mascaris e-mail di { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Gjestìs mascaris
     .accesskey = M
