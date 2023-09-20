@@ -381,5 +381,6 @@ onboarding-device-migration-image-alt =
   .aria-label = Una volpe che saluta dallo schermo di un computer portatile. Il computer ha un mouse collegato.
 onboarding-device-migration-title = Bentornato
 onboarding-device-migration-subtitle = Accedi al tuo { -fxaccount-brand-name } per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
+onboarding-device-migration-subtitle2 = Accedi al tuo account per portare con te segnalibri, password e cronologia di navigazione su un nuovo dispositivo.
 onboarding-device-migration-primary-button-label = Accedi
 
