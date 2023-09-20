@@ -170,3 +170,4 @@ shopping-callout-closed-opted-in-subtitle = Torna alla <strong>verifica recensio
 shopping-callout-pdp-opted-in-title = Queste recensioni sono affidabili? Scoprilo velocemente.
 shopping-callout-pdp-opted-in-subtitle = Apri verifica recensioni per visualizzare la valutazione rettificata dopo aver rimosso le recensioni inaffidabili. Inoltre, scopri i punti salienti estratti da recensioni autentiche inserite di recente.
 shopping-callout-closed-not-opted-in-title = Recensioni affidabili in un clic
+shopping-callout-closed-not-opted-in-subtitle = Prova verifica recensioni ogni volta che vedi l’icona con il cartellino del prezzo. Ottieni rapidamente informazioni dettagliate da veri acquirenti, prima di acquistare.
