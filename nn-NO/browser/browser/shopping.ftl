@@ -147,3 +147,5 @@ shopping-survey-thanks-message = Takk for tilbakemeldinga di!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-title = Er desse vurderingane pålitelege? Finn raskt ut av det.
+shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderingar
