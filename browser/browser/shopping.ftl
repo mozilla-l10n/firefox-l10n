@@ -7,6 +7,12 @@ shopping-page-title = { -brand-product-name } Shopping
 # review quality of online shopping product reviews
 shopping-main-container-title = Recensionsgranskare
 shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Recesionsgranskaren - beta
 shopping-close-button =
     .title = Stäng
 # This string is for notifying screen reader users that the
@@ -145,6 +151,7 @@ shopping-survey-q1-radio-2-label = Nöjd
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Missnöjd
 shopping-survey-q1-radio-5-label = Väldigt missnöjd
+shopping-survey-question-two = Gör recensionskontrollen det lättare för dig att fatta köpbeslut?
 shopping-survey-q2-radio-1-label = Ja
 shopping-survey-q2-radio-2-label = Nej
 shopping-survey-q2-radio-3-label = Jag vet inte
@@ -157,3 +164,8 @@ shopping-survey-thanks-message = Tack för din feedback!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Gå tillbaka till <strong>recensionskontrollen</strong> när du ser prislappen.
+shopping-callout-pdp-opted-in-title = Är dessa recensioner tillförlitliga? Ta reda på det snabbt.
+shopping-callout-pdp-opted-in-subtitle = Öppna recensionskontrollen för att se ett justerat betyg med otillförlitliga recensioner borttagna. Se dessutom höjdpunkter från de senaste autentiska recensionerna.
+shopping-callout-closed-not-opted-in-title = Ett klick till pålitliga recensioner
+shopping-callout-closed-not-opted-in-subtitle = Ge recensionskontrollen ett försök när du ser prislappen. Få insikter från riktiga shoppare snabbt — innan du köper.
