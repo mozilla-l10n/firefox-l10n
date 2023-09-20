@@ -1011,6 +1011,10 @@ content-blocking-enhanced-tracking-protection = Pólěpšony slědowański šći
 content-blocking-section-top-level-description = Pśeslědowaki wam online slěduju, aby informacije wó wašych pśeglědowańskich zwuconosćach a zajmach gromaźili. { -brand-short-name } wjele z toś tych pśeslědowakow a druge złosne skripty blokěrujo.
 content-blocking-learn-more = Dalšne informacije
 content-blocking-fpi-incompatibility-warning = Wužywaśo rozšyrjenje First Party Isolation (FIP), kótarež někotare cookiejowe nastajenja { -brand-short-name } pśepisujo.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Wužywaśo Resist Fingerprinting (RFP), kótarež někake nastajenja za šćit pśeśiwo palcowym śišćam { -brand-short-name } wuměnja. To mógło zawinowaś, až někotare sedła wěcej njefunkcioněruju.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
