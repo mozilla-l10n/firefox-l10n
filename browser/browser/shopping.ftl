@@ -6,6 +6,13 @@ shopping-page-title = Αγορές { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Έλεγχος κριτικών
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Έλεγχος κριτικών - beta
 shopping-close-button =
     .title = Κλείσιμο
 # This string is for notifying screen reader users that the
@@ -32,12 +39,9 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Διαθέσιμες ενημερώσεις
-shopping-message-bar-generic-error-title = Η ανάλυση δεν είναι διαθέσιμη αυτήν τη στιγμή
 shopping-message-bar-warning-not-enough-reviews-title = Δεν υπάρχουν ακόμα αρκετές κριτικές
 shopping-message-bar-warning-product-not-available-title = Το προϊόν δεν είναι διαθέσιμο
 shopping-message-bar-thanks-for-reporting-title = Ευχαριστούμε για την αναφορά!
-shopping-message-bar-warning-product-not-available-reported-message = Μια ενημερωμένη ανάλυση θα είναι έτοιμη εντός 24 ωρών. Παρακαλώ ελέγξτε ξανά.
-shopping-message-bar-warning-offline-title = Δεν υπάρχει σύνδεση στο δίκτυο
 
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
@@ -71,6 +75,8 @@ powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται απ
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Προσαρμοσμένη βαθμολογία
 
@@ -92,11 +98,22 @@ shopping-review-reliability-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Δεν υπάρχει ακόμα ανάλυση για αυτές τις κριτικές
-shopping-unanalyzed-product-analyze-link = Εκκίνηση ανάλυσης στο { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Περισσότερες εναλλακτικές
 ad-by-fakespot = Διαφήμιση από το { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-q2-radio-1-label = Ναι
+shopping-survey-q2-radio-2-label = Όχι
+shopping-survey-q2-radio-3-label = Δεν γνωρίζω
+shopping-survey-next-button-label = Επόμενο
+shopping-survey-submit-button-label = Υποβολή
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+

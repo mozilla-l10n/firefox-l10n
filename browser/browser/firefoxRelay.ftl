@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = Το { -relay-brand-name } δεν μπ
 ##
 
 firefox-relay-must-login-to-fxa = Πρέπει να συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας για να χρησιμοποιήσετε το { -relay-brand-name }.
+firefox-relay-must-login-to-account = Συνδεθείτε στον λογαριασμό σας για να χρησιμοποιήσετε τις μάσκες email του { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Διαχείριση μασκών
     .accesskey = Δ

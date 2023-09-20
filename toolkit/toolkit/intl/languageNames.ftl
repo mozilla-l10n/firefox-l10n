@@ -158,6 +158,7 @@ language-name-ro = Ρουμανικά
 language-name-ru = Ρωσικά
 language-name-rw = Κινιαρουάντα
 language-name-sa = Σανσκριτικά
+language-name-sat = Σαντάλι
 language-name-sc = Σαρδηνικά
 language-name-sco = Σκωτικά
 language-name-sd = Σίντι
