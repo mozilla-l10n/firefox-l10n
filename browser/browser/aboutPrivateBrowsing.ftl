@@ -73,4 +73,4 @@ about-private-browsing-cookie-banners-promo-message = დართეთ ნე�
 
 about-private-browsing-felt-privacy-v1-info-header = გამოიყენეთ მოწყობილობა კვალის დაუტოვებლად
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } წაშლის თქვენს ფუნთუშებს, ისტორიასა და საიტის მონაცემებს ყველა პირადი ფანჯრის დახურვისას.
-about-private-browsing-felt-privacy-v1-info-link = ვისთვის შეიძლება იყოს ხილული ჩემი საქმინაობა?
+about-private-browsing-felt-privacy-v1-info-link = ვისთვის შეიძლება იყოს ხილული ჩემი საქმიანობა?
