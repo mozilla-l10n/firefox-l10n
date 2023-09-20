@@ -43,9 +43,16 @@ shopping-message-bar-warning-stale-analysis-message = { -fakespot-brand-full-nam
 shopping-message-bar-generic-error-title2 = 현재 사용 가능한 정보가 없음
 shopping-message-bar-generic-error-message = 문제를 해결하기 위해 노력하고 있습니다. 곧 다시 확인하시기 바랍니다.
 shopping-message-bar-warning-not-enough-reviews-title = 아직 리뷰가 충분하지 않음
+shopping-message-bar-warning-not-enough-reviews-message2 = 이 제품에 대한 리뷰가 더 많아지면 품질을 확인할 수 있을 것입니다.
 shopping-message-bar-warning-product-not-available-title = 제품을 사용할 수 없음
+shopping-message-bar-warning-product-not-available-message2 = 이 제품이 재입고된 것을 확인하시면, 보고해 주시면 리뷰를 확인하도록 하겠습니다.
 shopping-message-bar-warning-product-not-available-button = 이 제품이 재입고되었다고 보고
 shopping-message-bar-thanks-for-reporting-title = 보고해 주셔서 감사합니다!
+shopping-message-bar-thanks-for-reporting-message2 = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
+shopping-message-bar-warning-product-not-available-reported-title2 = 곧 정보 제공 예정
+shopping-message-bar-warning-product-not-available-reported-message2 = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
+shopping-message-bar-analysis-in-progress-title2 = 리뷰 품질 확인 중
+shopping-message-bar-analysis-in-progress-message2 = 이 작업은 약 60초 정도 걸릴 수 있습니다.
 shopping-message-bar-page-not-supported-title = 리뷰를 확인할 수 없음
 shopping-message-bar-page-not-supported-message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
 
@@ -124,6 +131,9 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = 이 리뷰에 대한 정보가 아직 없음
+shopping-unanalyzed-product-message-2 = 이 제품의 리뷰가 신뢰할 수 있는지 확인하려면 리뷰 품질을 확인하세요. 약 60초밖에 걸리지 않습니다.
+shopping-unanalyzed-product-analyze-button = 리뷰 품질 확인
 
 ## Strings for the advertisement
 
@@ -133,6 +143,21 @@ ad-by-fakespot = { -fakespot-brand-name }의 광고
 
 ## Shopping survey strings.
 
+shopping-survey-headline = { -brand-product-name } 개선에 참여해 주세요.
+shopping-survey-question-one = { -brand-product-name }의 리뷰 검사기 경험에 얼마나 만족하시나요?
+shopping-survey-q1-radio-1-label = 매우 만족
+shopping-survey-q1-radio-2-label = 만족
+shopping-survey-q1-radio-3-label = 보통
+shopping-survey-q1-radio-4-label = 불만족
+shopping-survey-q1-radio-5-label = 매우 불만족
+shopping-survey-question-two = 리뷰 검사기를 사용하면 구매 결정을 더 쉽게 내리실 수 있나요?
+shopping-survey-q2-radio-1-label = 예
+shopping-survey-q2-radio-2-label = 아니오
+shopping-survey-q2-radio-3-label = 모름
+shopping-survey-next-button-label = 다음
+shopping-survey-submit-button-label = 제출
+shopping-survey-terms-link = 사용 약관
+shopping-survey-thanks-message = 피드백 주셔서 감사합니다!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
