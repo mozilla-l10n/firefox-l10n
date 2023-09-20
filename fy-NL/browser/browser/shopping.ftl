@@ -160,7 +160,7 @@ shopping-survey-q2-radio-3-label = Ik wit it net
 shopping-survey-next-button-label = Folgjende
 shopping-survey-submit-button-label = Ferstjoere
 shopping-survey-terms-link = Brûkersbetingsten
-shopping-survey-thanks-message = Tank foar jo feedback!
+shopping-survey-thanks-message = Tank foar jo kommentaar!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
