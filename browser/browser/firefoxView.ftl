@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Ingresar contraseña prima
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Aprender más</a>
 firefoxview-tabpickup-signed-out-header = Conectarse para continuar
 firefoxview-tabpickup-signed-out-description = Para volver a sincronizar y obtener tus pestañas, conéctate a tu { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Para volver a sincronizar y obtener tus pestañas, conéctate a tu cuenta.
 firefoxview-tabpickup-signed-out-primarybutton = Conectarse
 firefoxview-tabpickup-syncing = Siéntate tranquilo mientras tus pestañas se sincronizan. Será solo un momento.
 firefoxview-mobile-promo-header = Mira las pestañas desde tu teléfono o tablet
@@ -205,9 +206,6 @@ firefoxview-import-history-description = Haz de { -brand-short-name } tu navegad
 firefoxview-recentlyclosed-empty-header = ¿Cerraste una pestaña demasiado pronto?
 firefoxview-recentlyclosed-empty-description = Aquí encontrarás las pestañas que cerraste recientemente, para que puedas volver a abrir cualquiera de ellas rápidamente.
 firefoxview-recentlyclosed-empty-description-two = Para buscar pestañas de hace más tiempo, consulta tu <a data-l10n-name="history-url">historial de navegación</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
