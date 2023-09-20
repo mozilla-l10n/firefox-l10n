@@ -119,6 +119,17 @@ ad-by-fakespot = { -fakespot-brand-name } moñemurã
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = Avy’aiterei
+shopping-survey-q1-radio-2-label = Chembovy’a
+shopping-survey-q1-radio-3-label = Mbytegua
+shopping-survey-q1-radio-4-label = Nahembovy’ái
+shopping-survey-q1-radio-5-label = Nachembovy’ái
+shopping-survey-q2-radio-1-label = Héẽ
+shopping-survey-q2-radio-2-label = Nahániri
+shopping-survey-q2-radio-3-label = Ndaikuaái
+shopping-survey-next-button-label = Upeigua
+shopping-survey-submit-button-label = Emondo
+shopping-survey-terms-link = Jeporurã reko
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
