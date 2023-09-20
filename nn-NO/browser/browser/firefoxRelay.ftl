@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } klarte ikkje å 
 ##
 
 firefox-relay-must-login-to-fxa = Du må logge på { -fxaccount-brand-name } for å bruke { -relay-brand-name }.
+firefox-relay-must-login-to-account = Logg inn på kontoen din for å bruke { -relay-brand-name } e-postmaskene dine.
 firefox-relay-get-unlimited-masks =
     .label = Handsam masker
     .accesskey = H
