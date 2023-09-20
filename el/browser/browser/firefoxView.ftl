@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Εισαγωγή κύρι�
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Μάθετε περισσότερα</a>
 firefoxview-tabpickup-signed-out-header = Συνδεθείτε για επανασύνδεση
 firefoxview-tabpickup-signed-out-description = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
+firefoxview-tabpickup-signed-out-description2 = Για να επανασυνδεθείτε και να λάβετε τις καρτέλες σας, συνδεθείτε στον λογαριασμό σας.
 firefoxview-tabpickup-signed-out-primarybutton = Σύνδεση
 firefoxview-tabpickup-syncing = Περιμένετε μέχρι να συγχρονιστούν οι καρτέλες σας. Θα χρειαστεί μόνο μια στιγμή.
 firefoxview-mobile-promo-header = Λάβετε καρτέλες από το τηλέφωνο ή το tablet σας
@@ -205,9 +206,6 @@ firefoxview-import-history-description = Κάντε το { -brand-short-name } �
 firefoxview-recentlyclosed-empty-header = Κλείσατε κάποια καρτέλα πολύ νωρίς;
 firefoxview-recentlyclosed-empty-description = Εδώ θα βρείτε τις καρτέλες που κλείσατε πρόσφατα, ώστε να μπορέσετε να τις ανοίξετε ξανά πιο γρήγορα.
 firefoxview-recentlyclosed-empty-description-two = Για να βρείτε παλαιότερες καρτέλες, δείτε το <a data-l10n-name="history-url">ιστορικό περιήγησής</a> σας.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
