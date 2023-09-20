@@ -164,8 +164,8 @@ shopping-survey-thanks-message = გმადლობთ გამოხმა�
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = დაუბრუნდით <strong>მიმოხილვის შემმოწმებელს</strong>, როგორც კი დაკრულ ფასს დაინახავთ.
+shopping-callout-closed-opted-in-subtitle = დაუბრუნდით <strong>მიმოხილვის შემმოწმებელს</strong>, როგორც კი რაიმეს ფასს დაინახავთ.
 shopping-callout-pdp-opted-in-title = სანდოა ეს მიმოხილვები? სწრაფად გაარკვიეთ.
 shopping-callout-pdp-opted-in-subtitle = გახსენით მიმოხილვის შემმოწმებელი და იხილეთ შესწორებული შეფასება არასანდო მიმოხილვების მოცილებით. გარდა ამისა, იხილეთ ბოლოდროინდელი გამორჩეული სანდო მიმოხილვები.
 shopping-callout-closed-not-opted-in-title = ერთი წკაპი სანდო მიმოხილვებამდე
-shopping-callout-closed-not-opted-in-subtitle = გამოცადეთ მიმოხილვის შემმოწმებელი, როგორც კი დაკრულ ფასს დაინახავთ. გაეცანით მოსაზრებებს ნამდვილი მყიდველებისგან სწრაფადვე — შეძენამდე.
+shopping-callout-closed-not-opted-in-subtitle = გამოცადეთ მიმოხილვის შემმოწმებელი, როგორც კი რაიმეს ფასს დაინახავთ. გაეცანით მოსაზრებებს ნამდვილი მყიდველებისგან სწრაფადვე — შეძენამდე.
