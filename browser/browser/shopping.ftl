@@ -40,6 +40,8 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Aggiornamenti disponibili
 shopping-message-bar-warning-stale-analysis-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } per ottenere informazioni aggiornate in circa 60 secondi.
+shopping-message-bar-warning-stale-analysis-message-2 = Nuove informazioni da controllare
+shopping-message-bar-warning-stale-analysis-button = Controlla adesso
 shopping-message-bar-generic-error-title2 = Nessuna informazione disponibile al momento
 shopping-message-bar-generic-error-message = Stiamo lavorando per risolvere il problema. Ricontrolla a breve.
 shopping-message-bar-warning-not-enough-reviews-title = Non ci sono ancora abbastanza recensioni
