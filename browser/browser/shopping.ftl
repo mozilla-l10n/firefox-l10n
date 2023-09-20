@@ -108,8 +108,13 @@ shopping-analysis-explainer-label =
     .label = როგორ განისაზღვრება მიმოხილვის ხარისხი
 shopping-analysis-explainer-intro2 = ჩვენ ვიყენებთ ხელოვნური ინტელექტის შესაძლებლობებს საიტიდან { -fakespot-brand-full-name } მიმოხილვების სანდოობის გადასამოწმებლად. ეს მხოლოდ მიმოხილვის ხარისხის შეფასებაში დაგეხმარებათ და არა – ნაწარმის ხარისხის.
 shopping-analysis-explainer-grades-intro = ნაწარმზე თითოეულ მიმოხილვას ეწერება <strong>ნიშნები</strong> A-დან F-მდე.
-shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ მიმოხილვებს, რომლებიც სანდოდ მიგვაჩნია.
+shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ იმ მიმოხილვებს, რომლებიც სანდოდ მიგვაჩნია.
 shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-full-name } მიმოხილვის ხარისხს</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>გამოსარჩევი</strong> შედეგები ბოლო 80 დღეში { $retailer }-ის მიმოხილვებიდან, რომელთაც სანდოდ მივიჩნევთ.
+shopping-analysis-explainer-review-grading-scale-reliable = სანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები, სავარაუდოდ, ნამდვილი მომხმარებლებისგანაა დატოვებული პატიოსნად და მიუკერძოებლად.
 shopping-analysis-explainer-review-grading-scale-mixed = მიგვაჩნია, რომ შერეულადაა სანდო და არასანდო მიმოხილვები.
 shopping-analysis-explainer-review-grading-scale-unreliable = არასანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები, სავარაუდოდ, ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
 
@@ -137,10 +142,23 @@ shopping-unanalyzed-product-analyze-button = მიმოხილვის ხ�
 ## Shopping survey strings.
 
 shopping-survey-question-one = რამდენად კმაყოფილი დარჩით მიმოხილვის შემმოწმებლით, რომელსაც იყენებს { -brand-product-name }?
+shopping-survey-q1-radio-1-label = მეტად კმაყოფილი
+shopping-survey-q1-radio-2-label = კმაყოფილი
+shopping-survey-q1-radio-3-label = საშუალო
+shopping-survey-q1-radio-4-label = უკმაყოფილო
+shopping-survey-q1-radio-5-label = მეტად უკმაყოფილო
 shopping-survey-question-two = გაგიადვილათ მიმოხილვის შემმოწმებელმა შეძენისას გადაწყვეტილებეების მიღება?
+shopping-survey-q2-radio-1-label = დიახ
+shopping-survey-q2-radio-2-label = არა
+shopping-survey-q2-radio-3-label = არ ვიცი
+shopping-survey-next-button-label = შემდეგი
+shopping-survey-submit-button-label = გაგზავნა
+shopping-survey-terms-link = გამოყენების პირობები
+shopping-survey-thanks-message = გმადლობთ გამოხმაურებისთვის!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
 shopping-callout-closed-opted-in-subtitle = დაუბრუნდით <strong>მიმოხილვის შემმოწმებელს</strong>, როგორც კი დადებულ ფასს იხილავთ.
+shopping-callout-pdp-opted-in-title = სანდოა ეს მიმოხილვები? სწრაფად გაარკვიეთ.
