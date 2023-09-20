@@ -130,6 +130,7 @@ shopping-survey-q2-radio-3-label = Ndaikuaái
 shopping-survey-next-button-label = Upeigua
 shopping-survey-submit-button-label = Emondo
 shopping-survey-terms-link = Jeporurã reko
+shopping-survey-thanks-message = ¡Aguyje nde jehaipyrére!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
