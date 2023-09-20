@@ -6,6 +6,13 @@ shopping-page-title = Compras in { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificator de recension
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Verificator de recension, beta
 shopping-close-button =
     .title = Clauder
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Actualisationes disponibile
 shopping-message-bar-warning-stale-analysis-message = Lancea le analysator { -fakespot-brand-full-name } pro obtener info in circa 60 secundas.
-shopping-message-bar-generic-error-title = Analysis non dum disponibile
+shopping-message-bar-generic-error-title2 = Nulle info disponibile al momento
 shopping-message-bar-generic-error-message = Nos labora pro resolver le problema. Retenta tosto.
 shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
-shopping-message-bar-warning-not-enough-reviews-message = Quando iste producto habera plus de recensiones, nos potera analysar los.
+shopping-message-bar-warning-not-enough-reviews-message2 = Quando iste producto habera plus de recensiones, nos potera controlar su qualitate.
 shopping-message-bar-warning-product-not-available-title = Le producto non es disponibile
-shopping-message-bar-warning-product-not-available-message = Si tu vide que iste producto es retro in stock, reporta lo a nos e nos laborara sur le actualisation del analyse.
+shopping-message-bar-warning-product-not-available-message2 = Si tu videra que iste producto es retro in stock, reporta lo e nos laborara pro controlar le recensiones.
 shopping-message-bar-warning-product-not-available-button = Reporta que iste producto es retro in stock
 shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
-shopping-message-bar-thanks-for-reporting-message = Nos deberea haber un analyse actualisate in 24 horas. Retenta.
-shopping-message-bar-warning-product-not-available-reported-title = Analysis in arrivata
-shopping-message-bar-warning-product-not-available-reported-message = Un analyse actualisate deberea esser preste intra 24 horas. Retenta.
-shopping-message-bar-warning-offline-title = Nulle connexion de rete
-shopping-message-bar-warning-offline-message = Verifica tu connexion de rete. Pois, tenta recargar le pagina.
-shopping-message-bar-analysis-in-progress-title = Analysis in arrivata
-shopping-message-bar-analysis-in-progress-message = Quando isto sera facite, nos automaticamente monstrara le info actualisate ci.
+shopping-message-bar-thanks-for-reporting-message2 = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
+shopping-message-bar-warning-product-not-available-reported-title2 = Info a venir tosto
+shopping-message-bar-warning-product-not-available-reported-message2 = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
+shopping-message-bar-analysis-in-progress-title2 = Controlante qualitate de recension
+shopping-message-bar-analysis-in-progress-message2 = Isto pote prender circa 60 secundas.
 shopping-message-bar-page-not-supported-title = Nos non pote controlar iste recensiones
 shopping-message-bar-page-not-supported-message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Verificator de recension es supportate per <a data-l10n-na
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Classification adjustate
 shopping-adjusted-rating-unreliable-reviews = Recensiones non fidabile removite
@@ -99,7 +106,6 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Nostre modo de definir le qualitate de revision
-shopping-analysis-explainer-intro = Nos usa le technologia de intelligentia artificial de { -fakespot-brand-full-name } pro analysar le fidabilitate del recensiones de producto. Iste analyse solo te adjutara evalutar le qualitate de revision, non le qualitate de producto.
 shopping-analysis-explainer-grades-intro = Nos assigna a cata recensiones de producto un <strong>littera de classification</strong> ab A a F.
 shopping-analysis-explainer-adjusted-rating-description = Le <strong>classification adjustate</strong> es basate solo sur recensiones que nos crede esser fidabile.
 shopping-analysis-explainer-learn-more = Pro saper plus re <a data-l10n-name="review-quality-url">como { -fakespot-brand-full-name } determina le qualitate de revision</a>.
@@ -125,12 +131,32 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Ancora nulle analyse pro iste recensiones
-shopping-unanalyzed-product-message = Lancea le analysator { -fakespot-brand-full-name } e tu sapera in circa 60 secundas si iste recensiones de producto es fidabile.
-shopping-unanalyzed-product-analyze-link = Lancear analysator sur { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Nulle info ancora re iste recensiones
+shopping-unanalyzed-product-message-2 = Pro saper si iste recensiones de producto es fidabile, controla le qualitate de recension. Illo emplea solo circa 60 secundas.
+shopping-unanalyzed-product-analyze-button = Controlar qualitate de recension
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Altero a considerar
 ad-by-fakespot = Aviso publicitari per { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-q1-radio-1-label = Absolutemente satisfacite
+shopping-survey-q1-radio-2-label = Satisfacite
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Non satisfacite
+shopping-survey-q1-radio-5-label = Absolutemente non satisfacite
+shopping-survey-q2-radio-1-label = Si
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = Io non sape
+shopping-survey-next-button-label = Sequente
+shopping-survey-submit-button-label = Inviar
+shopping-survey-terms-link = Terminos de uso
+shopping-survey-thanks-message = Gratias pro tu commentario!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
