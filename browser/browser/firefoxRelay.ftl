@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ვერ ახ
 ##
 
 firefox-relay-must-login-to-fxa = უნდა შეხვიდეთ { -fxaccount-brand-name(case: "ins") }, რომ გამოიყენოთ { -relay-brand-name }.
+firefox-relay-must-login-to-account = შედით ანგარიშზე, რომ გამოიყენოთ { -relay-brand-name } თქვენი ელფოსტის შესანიღბად.
 firefox-relay-get-unlimited-masks =
     .label = ნიღბების მართვა
     .accesskey = მ
