@@ -34,11 +34,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
 shopping-message-bar-warning-stale-analysis-message = Inicie o analisador do { -fakespot-brand-full-name } para obter informações atualizadas em cerca de 60 segundos.
+shopping-message-bar-generic-error-title2 = Nenhuma informação disponível no momento
 shopping-message-bar-generic-error-message = Estamos trabalhando para resolver o problema. Verifique novamente mais tarde.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
+shopping-message-bar-warning-not-enough-reviews-message2 = Quando este produto tiver mais avaliações, poderemos verificar sua qualidade.
 shopping-message-bar-warning-product-not-available-title = O produto não está disponível
+shopping-message-bar-warning-product-not-available-message2 = Se você perceber que tem este produto novamente em estoque, informe para nós e trabalharemos na verificação de avaliações.
 shopping-message-bar-warning-product-not-available-button = Informar que tem este produto em estoque novamente
 shopping-message-bar-thanks-for-reporting-title = Obrigado por informar!
+shopping-message-bar-thanks-for-reporting-message2 = Devemos ter informações sobre as avaliações deste produto em até 24 horas. Verifique novamente mais tarde.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informações em breve
+shopping-message-bar-warning-product-not-available-reported-message2 = Devemos ter informações sobre as avaliações deste produto em até 24 horas. Verifique novamente mais tarde.
+shopping-message-bar-analysis-in-progress-title2 = Verificando a qualidade das avaliações
+shopping-message-bar-analysis-in-progress-message2 = Isso pode demorar cerca de 60 segundos.
 shopping-message-bar-page-not-supported-title = Não podemos verificar essas avaliações
 shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade das avaliações de determinados tipos de produtos. Por exemplo, cartões-presente e transmissão de vídeo, música e jogos.
 
@@ -117,6 +125,9 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ainda não há informações sobre estas avaliações
+shopping-unanalyzed-product-message-2 = Para saber se as avaliações deste produto são confiáveis, verifique a qualidade das avaliações. Demora apenas cerca de 60 segundos.
+shopping-unanalyzed-product-analyze-button = Verificar qualidade das avaliações
 
 ## Strings for the advertisement
 
@@ -126,6 +137,12 @@ ad-by-fakespot = Anúncio do { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ajude a melhorar o { -brand-product-name }
+shopping-survey-q1-radio-1-label = Muito satisfeito
+shopping-survey-q1-radio-2-label = Satisfeito
+shopping-survey-q1-radio-3-label = Neutro
+shopping-survey-q1-radio-4-label = Insatisfeito
+shopping-survey-q1-radio-5-label = Muito insatisfeito
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
