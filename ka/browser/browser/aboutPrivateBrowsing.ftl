@@ -68,3 +68,9 @@ about-private-browsing-pin-promo-title = არანაირი კვალ�
 about-private-browsing-cookie-banners-promo-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
 about-private-browsing-cookie-banners-promo-button = შეამცირეთ ფუნთუშის მოთხოვნები
 about-private-browsing-cookie-banners-promo-message = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = გამოიყენეთ მოწყობილობა კვალის დაუტოვებლად
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } წაშლის თქვენს ფუნთუშებს, ისტორიასა და საიტის მონაცემებს ყველა პირადი ფანჯრის დახურვისას.
+about-private-browsing-felt-privacy-v1-info-link = ვისთვის შეიძლება იყოს ხილული ჩემი საქმინაობა?
