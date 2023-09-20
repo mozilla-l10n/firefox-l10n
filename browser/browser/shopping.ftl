@@ -6,6 +6,13 @@ shopping-page-title = Nakupowanje z { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Kontrola pohódnoćenjow
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Kontrola pohódnoćenjow – beta
 shopping-close-button =
     .title = Začinić
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
 shopping-message-bar-warning-stale-analysis-message = Startujće analyzator { -fakespot-brand-full-name }. zo byšće za přibližnje 60 sekundow aktualne informacije dóstał.
-shopping-message-bar-generic-error-title = Analyza tuchwilu k dispoziciji njeje
+shopping-message-bar-generic-error-title2 = Tuchwilu informacije k dispoziciji njejsu
 shopping-message-bar-generic-error-message = Dźěłamy na rozrisanju tutoho problema. Hladajće prošu bórze zaso za tym.
 shopping-message-bar-warning-not-enough-reviews-title = Hišće dosć pohódnoćenjow njeje
-shopping-message-bar-warning-not-enough-reviews-message = Hdyž tutón produkt ma wjace pohódnoćenjow, móžemy je analyzować.
+shopping-message-bar-warning-not-enough-reviews-message2 = Hdyž tutón produkt ma wjace pohódnoćenjow, móžemy jich kwalitu kontrolować.
 shopping-message-bar-warning-product-not-available-title = Produkt k dispoziciji njeje
-shopping-message-bar-warning-product-not-available-message = Jeli widźiće, zo tutón produkt je zaso na składźe, zdźělće nam to a budźemy na aktualizaciji analyzy dźěłać.
+shopping-message-bar-warning-product-not-available-message2 = Jeli widźiće, zo tutón produkt je zaso na składźe, zdźělće to a budźemy na kontrolowanju pohódnoćenjow dźěłać.
 shopping-message-bar-warning-product-not-available-button = Zdźělić, zo tutón produkt je zaso na składźe
 shopping-message-bar-thanks-for-reporting-title = Wulki dźak za zdźělenku!
-shopping-message-bar-thanks-for-reporting-message = My dyrbjeli w běhu 24 hodźin zaktualizowanu analyzu měć. Hladajće prošu za tym.
-shopping-message-bar-warning-product-not-available-reported-title = Analyza bórze přińdźe
-shopping-message-bar-warning-product-not-available-reported-message = Zaktualizowana analyza měła w běhu 24 hodźin hotowa być. Hladajće prošu za tym.
-shopping-message-bar-warning-offline-title = Žadyn syćowy zwisk
-shopping-message-bar-warning-offline-message = Přepruwujće swój syćowy zwisk. Spytajće potom stronu znowa začitać.
-shopping-message-bar-analysis-in-progress-title = Analyza bórze přińdźe
-shopping-message-bar-analysis-in-progress-message = Hdyž je dokónčene, budźemy tu zaktualizowane informacije awtomatisce pokazować.
+shopping-message-bar-thanks-for-reporting-message2 = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informacije bórze přińdu
+shopping-message-bar-warning-product-not-available-reported-message2 = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
+shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pohódnoćenjow
+shopping-message-bar-analysis-in-progress-message2 = To móhło na 60 sekundow trać.
 shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
 shopping-message-bar-page-not-supported-message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Kontrola pohódnoćenjow so wot <a data-l10n-name="fakespo
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Přiměrjene hódnoćenje
 shopping-adjusted-rating-unreliable-reviews = Njespušćomne pohódnoćenja wotstronjene
@@ -99,9 +106,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Kak kwalitu pohódnoćenja postajamy
-shopping-analysis-explainer-intro =
-    Wužiwamy technologiju KI z { -fakespot-brand-full-name }, zo bychmy spušćomnosć produktowych pohódnoćenjow analyzowali.
-    Tuta analyza budźe jenož pomhać, kwalitu pohódnoćenjow posudźić, nic kwalitu produktow.
+shopping-analysis-explainer-intro2 =
+    Wužiwamy technologiju KI z { -fakespot-brand-full-name }, zo bychmy spušćomnosć produktowych pohódnoćenjow kontrolowali.
+    To budźe jenož pomhać, kwalitu pohódnoćenjow posudźić, nic kwalitu produktow.
 shopping-analysis-explainer-grades-intro = Přirjadujemy pohódnoćenjam kóždeho produkta <strong>pismikowu znamku</strong> wot A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Přiměrjene hódnoćenje</strong> jenož na pohódnoćenjach bazuje, kotrež mamy za spušćomne.
 shopping-analysis-explainer-learn-more = Zhońće wjace wo tym, <a data-l10n-name="review-quality-url">kak { -fakespot-brand-full-name } kwalitu pohódnoćenja postaja</a>.
@@ -127,12 +134,24 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Hišće žana analyza za tute pohódnoćenja
-shopping-unanalyzed-product-message = Startujće analyzator { -fakespot-brand-full-name } a zhoniće za přibližnje 60 sekundow, hač pohódnoćenja tutoho produkta su spušćomne.
-shopping-unanalyzed-product-analyze-link = Analyzator na { -fakespot-website-name } startować
+shopping-unanalyzed-product-header-2 = Hišće žane informacije wo tutych pohódnoćenjach
+shopping-unanalyzed-product-message-2 = Zo byšće zhonił, hač pohódnoćenja tutoho produkta su spušćomne, kontrolujće kwalitu pohódnoćenjow. Traje jenož na 60 sekundow.
+shopping-unanalyzed-product-analyze-button = Kwalitu pohódnoćenjow kontrolować
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Dalše móžnosće
 ad-by-fakespot = Wabjenje wot { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Pomhajće { -brand-product-name } polěpšować
+shopping-survey-q1-radio-3-label = Neutralny
+shopping-survey-q2-radio-1-label = Haj
+shopping-survey-q2-radio-2-label = Ně
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
