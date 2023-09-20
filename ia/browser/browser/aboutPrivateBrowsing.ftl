@@ -72,5 +72,5 @@ about-private-browsing-cookie-banners-promo-message = Lassa que { -brand-short-n
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Non lassa tracias sur iste apparato
-about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } dele tu cookies, chronologia e le datos del sitos web quando tu claude tote le fenestras private. %2$s
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } dele tu cookies, chronologia e le datos del sitos web quando tu claude tote le fenestras private.
 about-private-browsing-felt-privacy-v1-info-link = Qui pote vider mi activitate?
