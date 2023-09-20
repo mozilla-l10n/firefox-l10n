@@ -9,9 +9,10 @@ shopping-main-container-title = Verifica recensioni
 shopping-beta-marker = Beta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
-# Any changes to shopping-beta-marker should also be reflected here.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-  .aria-label = Verifica recensioni - beta
+    .aria-label = Verifica recensioni - beta
 shopping-close-button =
     .title = Chiudi
 # This string is for notifying screen reader users that the
@@ -39,25 +40,17 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Aggiornamenti disponibili
 shopping-message-bar-warning-stale-analysis-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } per ottenere informazioni aggiornate in circa 60 secondi.
-shopping-message-bar-generic-error-title = Analisi non disponibile al momento
 shopping-message-bar-generic-error-title2 = Nessuna informazione disponibile al momento
 shopping-message-bar-generic-error-message = Stiamo lavorando per risolvere il problema. Ricontrolla a breve.
 shopping-message-bar-warning-not-enough-reviews-title = Non ci sono ancora abbastanza recensioni
-shopping-message-bar-warning-not-enough-reviews-message = Non appena questo prodotto avrà più recensioni, saremo in grado di analizzarle.
 shopping-message-bar-warning-not-enough-reviews-message2 = Non appena questo prodotto avrà più recensioni, saremo in grado di verificarne la qualità.
 shopping-message-bar-warning-product-not-available-title = Il prodotto non è disponibile
-shopping-message-bar-warning-product-not-available-message = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per aggiornare l’analisi.
 shopping-message-bar-warning-product-not-available-message2 = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per verificarne le recensioni.
 shopping-message-bar-warning-product-not-available-button = Segnala che questo prodotto è di nuovo disponibile
 shopping-message-bar-thanks-for-reporting-title = Grazie per la segnalazione!
-shopping-message-bar-thanks-for-reporting-message = Dovremmo avere un’analisi aggiornata entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-thanks-for-reporting-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
-shopping-message-bar-warning-product-not-available-reported-title = Analisi disponibile a breve
-shopping-message-bar-warning-product-not-available-reported-message = Un’analisi aggiornata dovrebbe essere pronta entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informazioni disponibili a breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
-shopping-message-bar-analysis-in-progress-title = Analisi disponibile a breve
-shopping-message-bar-analysis-in-progress-message = Al termine, mostreremo automaticamente le informazioni aggiornate qui.
 shopping-message-bar-analysis-in-progress-title2 = Verifica qualità recensioni
 shopping-message-bar-analysis-in-progress-message2 = Questa operazione potrebbe richiedere circa 60 secondi.
 shopping-message-bar-page-not-supported-title = Impossibile verificare queste recensioni
@@ -98,6 +91,8 @@ powered-by-fakespot = Verifica recensioni con tecnologia <a data-l10n-name="fake
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Valutazione rettificata
 shopping-adjusted-rating-unreliable-reviews = Recensioni inaffidabili rimosse
@@ -111,11 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Come determiniamo la qualità delle recensioni
-shopping-analysis-explainer-intro =
-    Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti.
-    Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
-shopping-analysis-explainer-intro2 =
-    Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
+shopping-analysis-explainer-intro2 = Utilizziamo la tecnologia IA di { -fakespot-brand-full-name } per analizzare l’affidabilità delle recensioni sui prodotti. Questa analisi ti aiuterà a valutare solo la qualità delle recensioni, non quella del prodotto.
 shopping-analysis-explainer-grades-intro = Assegniamo alle recensioni di ogni prodotto un <strong>voto in lettere</strong> dalla A alla F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>valutazione rettificata</strong> si basa esclusivamente su recensioni che riteniamo affidabili.
 shopping-analysis-explainer-learn-more = Scopri ulteriori informazioni su <a data-l10n-name="review-quality-url">come { -fakespot-brand-full-name } determina la qualità delle recensioni</a>.
@@ -141,10 +132,6 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Non ci sono ancora analisi per queste recensioni
-shopping-unanalyzed-product-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } e in circa 60 secondi saprai se le recensioni di questo prodotto sono affidabili.
-shopping-unanalyzed-product-analyze-link = Avvia lo strumento di analisi su { -fakespot-website-name }
-
 shopping-unanalyzed-product-header-2 = Non ci sono ancora informazioni su queste recensioni
 shopping-unanalyzed-product-message-2 = Per sapere se le recensioni di questo prodotto sono affidabili, verificane la qualità. Ci vogliono solo circa 60 secondi.
 shopping-unanalyzed-product-analyze-button = Verifica qualità recensioni
@@ -159,21 +146,25 @@ ad-by-fakespot = Annuncio di { -fakespot-brand-name }
 
 shopping-survey-headline = Aiutaci a migliorare { -brand-product-name }
 shopping-survey-question-one = Quanto sei soddisfatto della tua esperienza con la verifica recensioni di { -brand-product-name }?
-
 shopping-survey-q1-radio-1-label = Molto soddisfatto
 shopping-survey-q1-radio-2-label = Soddisfatto
 shopping-survey-q1-radio-3-label = Indifferente
 shopping-survey-q1-radio-4-label = Insoddisfatto
 shopping-survey-q1-radio-5-label = Molto insoddisfatto
-
 shopping-survey-question-two = La verifica recensioni ti ha aiutato a prendere decisioni prima dell’acquisto?
-
 shopping-survey-q2-radio-1-label = Sì
 shopping-survey-q2-radio-2-label = No
 shopping-survey-q2-radio-3-label = Non so
-
 shopping-survey-next-button-label = Successivo
 shopping-survey-submit-button-label = Invia
 shopping-survey-terms-link = Condizioni di utilizzo del servizio
 shopping-survey-thanks-message = Grazie per aver condiviso la tua opinione.
 
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+shopping-callout-closed-opted-in-subtitle = Torna alla <strong>verifica recensioni</strong> quando vedi l’icona con il cartellino del prezzo.
+shopping-callout-pdp-opted-in-title = Queste recensioni sono affidabili? Scoprilo velocemente.
+shopping-callout-pdp-opted-in-subtitle = Apri verifica recensioni per visualizzare la valutazione rettificata dopo aver rimosso le recensioni inaffidabili. Inoltre, scopri i punti salienti estratti da recensioni autentiche inserite di recente.
+shopping-callout-closed-not-opted-in-title = Recensioni affidabili in un clic
