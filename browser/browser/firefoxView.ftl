@@ -129,6 +129,10 @@ firefoxview-show-more = තව පෙන්වන්න
 firefoxview-show-less = අඩුවෙන් පෙන්වන්න
 firefoxview-sort-history-by-date-label = දිනය අනුව පිළිවෙළට
 firefoxview-sort-history-by-site-label = අඩවිය අනුව පිළිවෙළට
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url } වෙත මාරු වන්න
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -175,9 +179,6 @@ firefoxview-import-history-header = වෙනත් අතිරික්සු�
 firefoxview-import-history-description = { -brand-short-name } ඔබගේ දෛනික අතිරික්සුව කරගන්න. පිරික්සුම් ඉතිහාසය, පොත්යොමු සහ අනෙකුත් දෑ ආයාත කරන්න.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
-
-
-##
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
