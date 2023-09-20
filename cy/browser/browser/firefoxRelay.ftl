@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = Nid oedd modd i { -relay-brand-name } 
 ##
 
 firefox-relay-must-login-to-fxa = Rhaid mewngofnodi i { -fxaccount-brand-name } er mwyn defnyddio { -relay-brand-name }.
+firefox-relay-must-login-to-account = Mewngofnodwch i'ch cyfrif i ddefnyddio'ch arallenwau e-bost { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Rheoli arallenwau
     .accesskey = R
