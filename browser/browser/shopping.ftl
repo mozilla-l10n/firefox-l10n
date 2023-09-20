@@ -168,3 +168,6 @@ shopping-survey-thanks-message = Źěkujomy se za waš komentar!
 
 shopping-callout-closed-opted-in-subtitle = Wrośćo se ku <strong>kontroli pógódnośenjow</strong>, gažkuli płaśiznowu toflicku wiźiśo.
 shopping-callout-pdp-opted-in-title = Su toś te pógódnośenja spušćobne? Wuslěźćo to malsnje.
+shopping-callout-pdp-opted-in-subtitle = Wócyńśo kontrolu pógódnośenjow, aby pśiměrjone gódnośenje z wótwónoźonymi njespušćobnymi pógódnośenjami. Woglědajśo se mimo togo  wjerški z nejnowšych awtentiskich pógódnośenjow.
+shopping-callout-closed-not-opted-in-title = Jadno kliknjenje do spušćobnych pógódnośenjow
+shopping-callout-closed-not-opted-in-subtitle = Dajśo kontroli pógódnośenjow šansu, gažkuli płaśiznowu toflicku wiźiśo. Dostańśo malsnje doglědy wót wopšawdnych nakupowarjow – nježli až kupujośo.
