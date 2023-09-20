@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Μονάδες καταγραφής για τη διάγνωση κλήσεων WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων WebGPU
+about-logging-preset-gfx-label = Γραφικά
+about-logging-preset-gfx-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων γραφικών
 about-logging-preset-custom-label = Προσαρμοσμένο
 about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
 # Error handling
