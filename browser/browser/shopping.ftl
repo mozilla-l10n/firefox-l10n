@@ -5,14 +5,14 @@
 shopping-page-title = { -brand-product-name } – საყიდლები
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = მიმოხილვების შემმოწმებელი
+shopping-main-container-title = მიმოხილვის შემმოწმებელი
 shopping-beta-marker = საცდელი Beta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = მიმოხილვების შემმოწმებელი – საცდელი
+    .aria-label = მიმოხილვის შემმოწმებელი – საცდელი
 shopping-close-button =
     .title = დახურვა
 # This string is for notifying screen reader users that the
@@ -84,16 +84,32 @@ shopping-show-less-button = მოკლედ
 shopping-settings-label =
     .label = პარამეტრები
 shopping-settings-recommendations-toggle =
-    .label = რეკლამების ჩვენება მიმოხილვების შემმოწმებელში
+    .label = რეკლამების ჩვენება მიმოხილვის შემმოწმებელში
+shopping-settings-recommendations-learn-more = დროდადრო იხილავთ რეკლამებს ნაწარმის შესაბამისად. ყველა რეკლამა უნდა აკმაყოფილებდეს მიმოხილვის ხარისხის ჩვენს მოთხოვნებს. <a data-l10n-name="review-quality-url">ვრცლად</a>
+shopping-settings-opt-out-button = მიმოხილვის შემმოწმებლის გამორთვა
+powered-by-fakespot = მიმოხილვის შემმოწმებელს უზრუნველყოფს <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = შესწორებული შეფასება
+shopping-adjusted-rating-unreliable-reviews = არასანდო მიმოხილვები მოცილებულია
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = რამდენად სანდოა ეს მიმოხილვები?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = როგორ განისაზღვრება მიმოხილვის ხარისხი
+shopping-analysis-explainer-intro2 = ჩვენ ვიყენებთ ხელოვნური ინტელექტის შესაძლებლობებს საიტიდან { -fakespot-brand-full-name } მიმოხილვების სანდოობის გადასამოწმებლად. ეს მხოლოდ მიმოხილვის ხარისხის შეფასებაში დაგეხმარებათ და არა – ნაწარმის ხარისხის.
+shopping-analysis-explainer-grades-intro = ნაწარმზე თითოეულ მიმოხილვას ეწერება <strong>ნიშნები</strong> A-დან F-მდე.
+shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ მიმოხილვებს, რომლებიც სანდოდ მიგვაჩნია.
+shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-full-name } მიმოხილვის ხარისხს</a>.
 
 ## Strings for UrlBar button
 
@@ -105,14 +121,20 @@ shopping-settings-recommendations-toggle =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = ამ მიმოხილვების შესახებ მონაცემები ჯერ არაა
+shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, გადაამოწმეთ მიმოხილვის ხარისხი. მხოლოდ მიახლოებით 60 წამს გასტანს.
+shopping-unanalyzed-product-analyze-button = მიმოხილვის ხარისხის შემოწმება
 
 ## Strings for the advertisement
 
 
 ## Shopping survey strings.
 
+shopping-survey-question-one = რამდენად კმაყოფილი დარჩით მიმოხილვის შემმოწმებლით, რომელსაც იყენებს { -brand-product-name }?
+shopping-survey-question-two = გაგიადვილათ მიმოხილვის შემმოწმებელმა შეძენისას გადაწყვეტილებეების მიღება?
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = დაუბრუნდით <strong>მიმოხილვის შემმოწმებელს</strong>, როგორც კი დადებულ ფასს იხილავთ.
