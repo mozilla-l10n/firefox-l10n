@@ -6,6 +6,13 @@ shopping-page-title = Nákupy { -brand-product-name(case: "gen") }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Kontrola recenzií
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Kontrola recenzií – beta
 shopping-close-button =
     .title = Zavrieť
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Sú dostupné aktualizácie
 shopping-message-bar-warning-stale-analysis-message = Spustite analyzátor { -fakespot-brand-full-name } a získajte aktualizované informácie za približne 60 sekúnd.
-shopping-message-bar-generic-error-title = Analýza momentálne nie je k dispozícii
+shopping-message-bar-generic-error-title2 = Momentálne nie sú dostupné žiadne informácie
 shopping-message-bar-generic-error-message = Pracujeme na vyriešení problému. Skúste sa vrátiť o trochu neskôr.
 shopping-message-bar-warning-not-enough-reviews-title = Zatiaľ nie je dostatok recenzií
-shopping-message-bar-warning-not-enough-reviews-message = Keď bude mať tento produkt viac recenzií, budeme ich môcť analyzovať.
+shopping-message-bar-warning-not-enough-reviews-message2 = Keď bude mať tento produkt viac recenzií, budeme môcť skontrolovať ich kvalitu.
 shopping-message-bar-warning-product-not-available-title = Produkt nie je dostupný
-shopping-message-bar-warning-product-not-available-message = Ak zistíte, že tento produkt je opäť na sklade, nahláste nám to a my budeme pracovať na aktualizácii analýzy.
+shopping-message-bar-warning-product-not-available-message2 = Ak zistíte, že tento produkt je opäť na sklade, nahláste to a my budeme pracovať na kontrole recenzií.
 shopping-message-bar-warning-product-not-available-button = Oznámiť, že tento produkt je opäť na sklade
 shopping-message-bar-thanks-for-reporting-title = Ďakujeme za nahlásenie!
-shopping-message-bar-thanks-for-reporting-message = Aktualizovanú analýzu by sme mali mať do 24 hodín. Príďte sa pozrieť.
-shopping-message-bar-warning-product-not-available-reported-title = Analýza už čoskoro
-shopping-message-bar-warning-product-not-available-reported-message = Aktualizovaná analýza by mala byť hotová do 24 hodín. Príďte sa pozrieť.
-shopping-message-bar-warning-offline-title = Bez pripojenia k sieti
-shopping-message-bar-warning-offline-message = Skontrolujte pripojenie k sieti. Potom skúste stránku znova načítať.
-shopping-message-bar-analysis-in-progress-title = Analýza už čoskoro
-shopping-message-bar-analysis-in-progress-message = Po dokončení sa tu automaticky zobrazia aktualizované informácie.
+shopping-message-bar-thanks-for-reporting-message2 = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informácie už čoskoro
+shopping-message-bar-warning-product-not-available-reported-message2 = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
+shopping-message-bar-analysis-in-progress-title2 = Kontroluje sa kvalita recenzií
+shopping-message-bar-analysis-in-progress-message2 = Môže to trvať asi 60 sekúnd.
 shopping-message-bar-page-not-supported-title = Tieto recenzie nemôžeme skontrolovať
 shopping-message-bar-page-not-supported-message = Bohužiaľ nemôžeme skontrolovať kvalitu recenzií určitých typov produktov. Napríklad darčekové karty alebo streamovanie videa, hudby a hier.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Nástroj Kontrola recenzií využíva technológiu <a data
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Upravené hodnotenie
 shopping-adjusted-rating-unreliable-reviews = Nespoľahlivé recenzie boli odstránené
@@ -99,9 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Ako určujeme kvalitu recenzie
-shopping-analysis-explainer-intro =
-    Na analýzu spoľahlivosti recenzií produktov používame AI technológiu od { -fakespot-brand-full-name }.
-    Táto analýza vám pomôže posúdiť iba kvalitu recenzie, nie kvalitu produktu.
+shopping-analysis-explainer-intro2 = Na kontrolu spoľahlivosti recenzií produktov používame AI technológiu { -fakespot-brand-full-name }. Táto analýza vám pomôže posúdiť kvalitu recenzie, nie kvalitu produktu.
 shopping-analysis-explainer-grades-intro = Každej recenzii produktu prideľujeme <strong>známku</strong> od A po F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnotenie</strong> je založené iba na recenziách, ktoré považujeme za spoľahlivé.
 shopping-analysis-explainer-learn-more = Ďalšie informácie o tom, <a data-l10n-name="review-quality-url">ako { -fakespot-brand-full-name } určuje kvalitu recenzie</a>.
@@ -127,12 +132,40 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Pre tieto recenzie nie je zatiaľ dostupná žiadna recenzia
-shopping-unanalyzed-product-message = Spustite analyzátor { -fakespot-brand-full-name } a približne za 60 sekúnd budete vedieť, či sú recenzie tohto produktu spoľahlivé.
-shopping-unanalyzed-product-analyze-link = Spustiť analyzátor na { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Zatiaľ žiadne informácie o týchto recenziách
+shopping-unanalyzed-product-message-2 = Ak chcete vedieť, či sú recenzie tohto produktu spoľahlivé, skontrolujte kvalitu recenzií. Trvá to len asi 60 sekúnd.
+shopping-unanalyzed-product-analyze-button = Skontrolovať kvalitu recenzií
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Ďalšie na zváženie
 ad-by-fakespot = Reklama od { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Pomôžte nám zlepšiť nástroj { -brand-product-name }
+shopping-survey-question-one = Ako ste spokojný s nástrojom Kontrola recenzií vo { -brand-product-name(case: "loc") }?
+shopping-survey-q1-radio-1-label = Veľmi spokojný
+shopping-survey-q1-radio-2-label = Spokojný
+shopping-survey-q1-radio-3-label = Neutrálny
+shopping-survey-q1-radio-4-label = Nespokojný
+shopping-survey-q1-radio-5-label = Veľmi nespokojný
+shopping-survey-question-two = Uľahčuje vám nástroj Kontrola recenzií rozhodovanie pri nákupe?
+shopping-survey-q2-radio-1-label = Áno
+shopping-survey-q2-radio-2-label = Nie
+shopping-survey-q2-radio-3-label = Neviem
+shopping-survey-next-button-label = Ďalej
+shopping-survey-submit-button-label = Odoslať
+shopping-survey-terms-link = Podmienky používania
+shopping-survey-thanks-message = Ďakujeme za vašu spätnú väzbu.
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+shopping-callout-closed-opted-in-subtitle = Vráťte sa na <strong>Kontrolu recenzií</strong> vždy, keď uvidíte cenovku.
+shopping-callout-pdp-opted-in-title = Sú tieto recenzie spoľahlivé? Zistite to rýchlo.
+shopping-callout-pdp-opted-in-subtitle = Ak chcete zobraziť upravené hodnotenie s odstránenými nespoľahlivými recenziami, otvorte nástroj na kontrolu recenzií. Navyše si pozrite najdôležitejšie momenty z nedávnych autentických recenzií.
+shopping-callout-closed-not-opted-in-title = Spoľahlivé recenzie na jedno kliknutie
+shopping-callout-closed-not-opted-in-subtitle = Vyskúšajte Kontrolu recenzií vždy, keď uvidíte cenovku. Jednoducho získate štatistiky od skutočných kupujúcich – ešte pred nákupom.
