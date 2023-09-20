@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Protection antitraciamento reinf
 content-blocking-section-top-level-description = Le traciatores te seque per tote le rete pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 content-blocking-learn-more = Saper plus
 content-blocking-fpi-incompatibility-warning = Tu usa First Party Isolation (FPI) que supplanta alcunes del parametros de cookies de { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Tu sta usar Resist Fingerprinting (RFP), que replacia alcunos del parametros de protection detection de dactylogrammas de { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

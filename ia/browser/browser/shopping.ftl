@@ -106,6 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Nostre modo de definir le qualitate de revision
+shopping-analysis-explainer-intro2 = Nos usa le technologia de intelligentia artificial de { -fakespot-brand-full-name } pro controlar le fidabilitate del recensiones de producto. Isto solo te adjutara evalutar le qualitate de revision, non le qualitate de producto.
 shopping-analysis-explainer-grades-intro = Nos assigna a cata recensiones de producto un <strong>littera de classification</strong> ab A a F.
 shopping-analysis-explainer-adjusted-rating-description = Le <strong>classification adjustate</strong> es basate solo sur recensiones que nos crede esser fidabile.
 shopping-analysis-explainer-learn-more = Pro saper plus re <a data-l10n-name="review-quality-url">como { -fakespot-brand-full-name } determina le qualitate de revision</a>.
@@ -143,11 +144,14 @@ ad-by-fakespot = Aviso publicitari per { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Adjuta nos a meliorar { -brand-product-name }
+shopping-survey-question-one = Quanto es tu satisfacite de tu experientia con le verificator de recension de { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Absolutemente satisfacite
 shopping-survey-q1-radio-2-label = Satisfacite
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Non satisfacite
 shopping-survey-q1-radio-5-label = Absolutemente non satisfacite
+shopping-survey-question-two = An le verificator de recension te facilitava prender decisiones de compras.
 shopping-survey-q2-radio-1-label = Si
 shopping-survey-q2-radio-2-label = No
 shopping-survey-q2-radio-3-label = Io non sape
@@ -160,3 +164,6 @@ shopping-survey-thanks-message = Gratias pro tu commentario!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Retorna al <strong>verificator de recension</strong> quando tu vide le icone con le etiquetta del precio.
+shopping-callout-pdp-opted-in-title = Es fidabile iste recensiones? Discoperi lo tosto.
+shopping-callout-closed-not-opted-in-title = Un clic pro recensiones fidabile
