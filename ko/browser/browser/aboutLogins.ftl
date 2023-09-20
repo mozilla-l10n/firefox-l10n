@@ -76,6 +76,7 @@ about-logins-login-intro-heading-logged-out2 = 저장된 로그인을 찾으십�
 about-logins-login-intro-heading-logged-in = 동기화된 로그인을 찾을 수 없습니다.
 login-intro-description = 다른 기기에 { -brand-product-name }의 로그인을 저장한 경우, 다음 방법을 참조하세요:
 login-intro-instructions-fxa = 로그인이 저장된 기기에서 { -fxaccount-brand-name }을 만들거나 로그인하세요.
+login-intro-instructions-fxa2 = 로그인이 저장된 기기에서 계정을 만들거나 로그인하세요.
 login-intro-instructions-fxa-settings = 설정> Sync > 동기화 켜기…로 이동해서, 로그인 및 비밀번호 확인란을 선택하세요.
 login-intro-instructions-fxa-passwords-help = 더 많은 도움이 필요하면 <a data-l10n-name="passwords-help-link">비밀번호 지원</a>을 방문하세요.
 about-logins-intro-browser-only-import = 로그인이 다른 브라우저에 저장된 경우, <a data-l10n-name="import-link">{ -brand-product-name }로 가져오기</a>를 할 수 있음
@@ -190,6 +191,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
     { $count ->
         [1] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 로그인이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
        *[other] { -fxaccount-brand-name }에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인들이 삭제됩니다. 또한, 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
+    }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] 계정에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인 정보가 제거됩니다. 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
+       *[other] 계정에 동기화된 모든 기기에서 { -brand-short-name }에 저장한 모든 로그인 정보가 제거됩니다. 여기에 표시되는 유출 알림도 삭제됩니다. 이 작업은 취소할 수 없습니다.
     }
 
 ##
