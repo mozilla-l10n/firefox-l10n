@@ -153,6 +153,7 @@ shopping-survey-q1-radio-2-label = Spokojny
 shopping-survey-q1-radio-3-label = Neutralny
 shopping-survey-q1-radio-4-label = Njespokojny
 shopping-survey-q1-radio-5-label = Jara njespokojny
+shopping-survey-question-two = Wosnadnja wam kontrola pohódnoćenjow kupne rozsudy činić?
 shopping-survey-q2-radio-1-label = Haj
 shopping-survey-q2-radio-2-label = Ně
 shopping-survey-q2-radio-3-label = Njewěm
@@ -165,4 +166,7 @@ shopping-survey-thanks-message = Dźakujemy so za waš komentar!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Wróćće so ke <strong>kontroli pohódnoćenjow</strong>, hdyžkuli płaćiznowu tafličku widźiće.
+shopping-callout-pdp-opted-in-title = Su tute pohódnoćenja spušćomne? Wuslědźće to spěšnje.
+shopping-callout-pdp-opted-in-subtitle = Wočińće kontrolu pohódnoćenjow, zo byšće přiměrjenje hódnoćenje z wotstronjenymi njespušćomnymi pohódnoćenjemi. Wobhladajće sej nimo toho  wjerški z najnowšich awtentiskich pohódnoćenjow.
 shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych pohódnoćenjow
