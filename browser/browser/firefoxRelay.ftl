@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } không thể tì
 ##
 
 firefox-relay-must-login-to-fxa = Bạn phải đăng nhập vào { -fxaccount-brand-name } để sử dụng { -relay-brand-name }.
+firefox-relay-must-login-to-account = Đăng nhập vào tài khoản của bạn để sử dụng mặt nạ email { -relay-brand-name } của bạn.
 firefox-relay-get-unlimited-masks =
     .label = Muản lý mặt nạ
     .accesskey = M
