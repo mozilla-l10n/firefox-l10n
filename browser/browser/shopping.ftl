@@ -107,6 +107,11 @@ ad-by-fakespot = Διαφήμιση από το { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = Πολύ ικανοποιημένος/-η
+shopping-survey-q1-radio-2-label = Ικανοποιημένος/-η
+shopping-survey-q1-radio-3-label = Ουδέτερος/-η
+shopping-survey-q1-radio-4-label = Δυσαρεστημένος/-η
+shopping-survey-q1-radio-5-label = Πολύ δυσαρεστημένος/-η
 shopping-survey-q2-radio-1-label = Ναι
 shopping-survey-q2-radio-2-label = Όχι
 shopping-survey-q2-radio-3-label = Δεν γνωρίζω
