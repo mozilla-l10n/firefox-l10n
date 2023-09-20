@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Fokozott követés elleni védel
 content-blocking-section-top-level-description = A nyomkövetők követik Önt online, és információkat gyűjtenek a böngészési szokásairól és érdeklődési köreiről. A { -brand-short-name } számos ilyen követőt és rosszindulatú parancsfájlt blokkol.
 content-blocking-learn-more = További tudnivalók
 content-blocking-fpi-incompatibility-warning = A First Party Isolation (FPI) funkciót használja, amely felülírja a { -brand-short-name } sütibeállításainak egy részét.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Az ujjlenyomat-készítés megakadályozása (RFP) funkciót használja, amely lecseréli a { -brand-short-name } ujjlenyomat-készítési védelmének egyes részeit. Ez egyes webhelyek működésképtelenségét okozhatja.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
