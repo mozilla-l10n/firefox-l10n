@@ -164,3 +164,8 @@ shopping-survey-thanks-message = 感謝您的意見回饋！
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = 當您看到標價的時候即可回到商品評論檢查器。
+shopping-callout-pdp-opted-in-title = 這些商品評論可靠嗎？快速確認。
+shopping-callout-pdp-opted-in-subtitle = 開啟商品評論檢查器來確認移除不可靠的評論後的校正評分，以及根據近期的可靠評論所整理的重點。
+shopping-callout-closed-not-opted-in-title = 點一下即可看到可靠的商品評論
+shopping-callout-closed-not-opted-in-subtitle = 看到標價的時候，就可以試用看看商品評論檢查器。在購買之前快速確認實際購買商品的顧客評論。
