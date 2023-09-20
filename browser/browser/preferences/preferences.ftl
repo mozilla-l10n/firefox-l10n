@@ -987,6 +987,10 @@ content-blocking-enhanced-tracking-protection = 加強型追蹤保護
 content-blocking-section-top-level-description = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
 content-blocking-learn-more = 了解更多
 content-blocking-fpi-incompatibility-warning = 您已開啟第一方隔離（FPI）功能，會蓋掉 { -brand-short-name } 的某些 Cookie 設定。
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = 您開啟了 Resist Fingerprinting (RFP) 功能，將蓋過 { -brand-short-name } 的部分數位指紋追蹤保護設定。此功能可能造成某些網站運作不正常。
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
