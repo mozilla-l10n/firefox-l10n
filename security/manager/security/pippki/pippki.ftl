@@ -57,6 +57,8 @@ client-auth-window =
     .title = Solicitude de identificación de usuario
 client-auth-site-description = Este sitio solicitou que se identifique cun certificado:
 client-auth-choose-cert = Escolla un certificado para presentar como identificación:
+client-auth-send-no-certificate =
+    .label = Non enviar un certificado
 client-auth-cert-details = Detalles do certificado seleccionado:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

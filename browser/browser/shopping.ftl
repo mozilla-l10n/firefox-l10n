@@ -137,8 +137,24 @@ ad-by-fakespot = Anuncio de { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Axudar a mellorar { -brand-product-name }
+shopping-survey-question-one = Como está de satisfeito coa experiencia de verificación das recensións en { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Moi satisfeito
+shopping-survey-q1-radio-2-label = Satisfeito
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Insatisfeito
+shopping-survey-q1-radio-5-label = Moi insatisfeito
+shopping-survey-question-two = O verificador de recensións facilita a toma de decisións de compra?
+shopping-survey-q2-radio-1-label = Si
+shopping-survey-q2-radio-2-label = Non
+shopping-survey-q2-radio-3-label = Non sei
+shopping-survey-next-button-label = Seguinte
+shopping-survey-submit-button-label = Enviar
+shopping-survey-terms-link = Temos de uso
+shopping-survey-thanks-message = Grazas pola súa opinión
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Volver ao <strong>verificador de recensión</strong> sempre que vexa a etiqueta de prezo.
+shopping-callout-pdp-opted-in-title = Son fiables estas recensións? Descúbrao rápido.
