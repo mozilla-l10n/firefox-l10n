@@ -34,11 +34,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Uppdateringar tillgängliga
 shopping-message-bar-warning-stale-analysis-message = Starta analysatorn { -fakespot-brand-full-name } för att få uppdaterad information inom 60 sekunder.
+shopping-message-bar-generic-error-title2 = Ingen information tillgänglig just nu
 shopping-message-bar-generic-error-message = Vi jobbar på att lösa problemet. Kom tillbaka snart.
 shopping-message-bar-warning-not-enough-reviews-title = Inte tillräckligt med recensioner ännu
+shopping-message-bar-warning-not-enough-reviews-message2 = När den här produkten har fler recensioner kan vi kontrollera deras kvalitet.
 shopping-message-bar-warning-product-not-available-title = Produkten är inte tillgänglig
+shopping-message-bar-warning-product-not-available-message2 = Om du ser att den här produkten finns i lager igen, rapportera det så jobbar vi med att kontrollera recensionerna.
 shopping-message-bar-warning-product-not-available-button = Rapportera att denna produkt finns i lager igen
 shopping-message-bar-thanks-for-reporting-title = Tack för att du rapporterade!
+shopping-message-bar-thanks-for-reporting-message2 = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
+shopping-message-bar-warning-product-not-available-reported-title2 = Info kommer snart
+shopping-message-bar-warning-product-not-available-reported-message2 = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
+shopping-message-bar-analysis-in-progress-title2 = Kontrollerar recensionens kvalitet
+shopping-message-bar-analysis-in-progress-message2 = Detta kan ta uppåt 60 sekunder.
 shopping-message-bar-page-not-supported-title = Vi kan inte kontrollera dessa recensioner
 shopping-message-bar-page-not-supported-message = Tyvärr kan vi inte kontrollera recensionskvaliteten för vissa typer av produkter. Till exempel presentkort och strömmande video, musik och spel.
 
@@ -92,6 +100,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Hur bestäms recensionens kvalitet
+shopping-analysis-explainer-intro2 = Vi använder AI-teknik från { -fakespot-brand-full-name } för att kontrollera tillförlitligheten av produktrecensioner. Detta hjälper dig bara att bedöma recensionens kvalitet, inte produktkvaliteten.
 shopping-analysis-explainer-grades-intro = Vi tilldelar varje produkts recensioner ett <strong>bokstavsbetyg</strong> från A till F.
 shopping-analysis-explainer-adjusted-rating-description = Det <strong>justerade betyget</strong> baseras endast på recensioner som vi anser vara pålitliga.
 shopping-analysis-explainer-learn-more = Läs mer om <a data-l10n-name="review-quality-url">hur { -fakespot-brand-full-name } avgör recensionens kvalitet</a>.
@@ -117,6 +126,9 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ingen information om dessa recensioner ännu
+shopping-unanalyzed-product-message-2 = För att veta om denna produkts recensioner är tillförlitliga, kontrollera recensionens kvalitet. Det tar bara cirka 60 sekunder.
+shopping-unanalyzed-product-analyze-button = Kontrollera recensionens kvalitet
 
 ## Strings for the advertisement
 
@@ -126,6 +138,13 @@ ad-by-fakespot = Annons av { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Hjälp till att förbättra { -brand-product-name }
+shopping-survey-question-one = Hur nöjd är du med recensionskontrollen i { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Väldigt nöjd
+shopping-survey-q1-radio-2-label = Nöjd
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Missnöjd
+shopping-survey-q1-radio-5-label = Väldigt missnöjd
 shopping-survey-q2-radio-1-label = Ja
 shopping-survey-q2-radio-2-label = Nej
 shopping-survey-q2-radio-3-label = Jag vet inte
