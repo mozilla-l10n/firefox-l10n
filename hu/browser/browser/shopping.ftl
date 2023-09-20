@@ -159,8 +159,15 @@ shopping-survey-q2-radio-2-label = Nem
 shopping-survey-q2-radio-3-label = Nem tudom
 shopping-survey-next-button-label = Következő
 shopping-survey-submit-button-label = Elküldés
+shopping-survey-terms-link = Használati feltételek
+shopping-survey-thanks-message = Köszönjük visszajelzését!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Térjen vissza az <strong>értékelés-ellenőrzőhöz</strong>, ha látja az árat.
+shopping-callout-pdp-opted-in-title = Megbízhatók ezek az értékelések? Tudja meg gyorsan.
+shopping-callout-pdp-opted-in-subtitle = Nyissa meg az értékelés-ellenőrzőt a módosított értékelés megtekintéséhez, amelyből el lettek távolítva a megbízhatatlan értékelések. Továbbá, nézze meg a legutóbbi hiteles értékelések legfontosabb elemeit.
+shopping-callout-closed-not-opted-in-title = Egy kattintás a megbízható értékelésekhez
+shopping-callout-closed-not-opted-in-subtitle = Próbálja ki az értékelés-ellenőrzőt, ha látja az árat. Kapjon gyorsan betekintést a valódi vevőktől – még a vásárlás előtt.
