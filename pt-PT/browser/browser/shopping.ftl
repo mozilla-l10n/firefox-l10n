@@ -31,19 +31,19 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
-shopping-message-bar-generic-error-title = Análise atualmente indisponível
+shopping-message-bar-generic-error-title2 = Nenhuma informação disponível neste momento
 shopping-message-bar-generic-error-message = Estamos a trabalhar para resolver o problema. Por favor, volte em breve.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
-shopping-message-bar-warning-not-enough-reviews-message = Quando este produto tiver mais avaliações, poderemos analisar as mesmas.
+shopping-message-bar-warning-not-enough-reviews-message2 = Quando este produto tiver mais avaliações, poderemos verificar a sua qualidade.
 shopping-message-bar-warning-product-not-available-title = O produto não está disponível
+shopping-message-bar-warning-product-not-available-message2 = Se perceber que este produto está novamente em stock, reporte e iremos verificar as avaliações.
 shopping-message-bar-warning-product-not-available-button = Informar que este produto está novamente em stock
 shopping-message-bar-thanks-for-reporting-title = Obrigado por reportar!
-shopping-message-bar-thanks-for-reporting-message = Devemos ter uma análise atualizada dentro de 24 horas. Volte mais tarde.
-shopping-message-bar-warning-product-not-available-reported-title = Análise em breve
-shopping-message-bar-warning-product-not-available-reported-message = Uma análise atualizada deve estar pronta em 24 horas. Volte mais tarde.
-shopping-message-bar-warning-offline-title = Sem ligação à rede
-shopping-message-bar-warning-offline-message = Verifique a sua ligação à rede e tente recarregar a página.
-shopping-message-bar-analysis-in-progress-title = Análise em breve
+shopping-message-bar-thanks-for-reporting-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informações em breve
+shopping-message-bar-warning-product-not-available-reported-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
+shopping-message-bar-analysis-in-progress-title2 = A verificar a qualidade da avaliação
+shopping-message-bar-analysis-in-progress-message2 = Isto pode demorar cerca de 60 segundos.
 shopping-message-bar-page-not-supported-title = Não podemos verificar estas avaliações
 shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
 
@@ -81,6 +81,8 @@ powered-by-fakespot = O verificador de avaliações é suportado por <a data-l10
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Classificação ajustada
 shopping-adjusted-rating-unreliable-reviews = Avaliações não confiáveis removidas
@@ -114,11 +116,22 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Ainda sem análises para estas avaliações
-shopping-unanalyzed-product-analyze-link = Executar o analisador em { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Mais a considerar
 ad-by-fakespot = Anúncio por { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-q1-radio-1-label = Muito satisfeito
+shopping-survey-q1-radio-2-label = Satisfeito
+shopping-survey-q1-radio-3-label = Neutro
+shopping-survey-q1-radio-4-label = Insatisfeito
+shopping-survey-q1-radio-5-label = Muito insatisfeito
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
