@@ -66,14 +66,25 @@ shopping-message-bar-warning-stale-analysis-link = გაუშვით და�
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = გამოსარჩევი ბოლო მიმოხილვებიდან
 shopping-highlight-price = ფასი
 shopping-highlight-quality = ხარისხი
+shopping-highlight-shipping = მიწოდება
+shopping-highlight-competitiveness = მეტოქეებთან შედარებით
+shopping-highlight-packaging = შეფუთვა
 
 ## Strings for show more card
 
+shopping-show-more-button = ვრცლად
+shopping-show-less-button = მოკლედ
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = პარამეტრები
+shopping-settings-recommendations-toggle =
+    .label = რეკლამების ჩვენება მიმოხილვების შემმოწმებელში
 
 ## Strings for the adjusted rating component
 
