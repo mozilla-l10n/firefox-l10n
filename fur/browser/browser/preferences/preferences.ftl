@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Protezion miorade da lis spiis
 content-blocking-section-top-level-description = Lis spiis (trackers) ti stan daûr ator pe rêt par colezionâ informazions su lis tôs abitudinis di navigazion e su ce che ti interesse. { -brand-short-name } al bloche tancj di chestis spiis e altris scripts malevui.
 content-blocking-learn-more = Plui informazions
 content-blocking-fpi-incompatibility-warning = Tu stâs doprant First Party Isolation (FPI), che al passe parsore di cualchidune des impostazions di { -brand-short-name } sui cookies.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = O stin doprant “Resist al rilevament di stamp numeric” (Resist Fingerprinting - RFP), che al sostituìs cualchi impostazion di { -brand-short-name } relative ae protezion dal rilevament di stamp numeric. Chest al podarès causâ il malfunzionament di cualchi sît.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
