@@ -4,14 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Přihlašovací údaje
-
 about-logins-login-filter =
     .placeholder = Hledat přihlašovací údaje
     .key = F
-
 create-new-login-button =
     .title = Nové přihlašovací údaje
-
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-sync-button = Přihlásit se k synchronizaci
 fxaccounts-avatar-button =
@@ -101,6 +98,7 @@ login-intro-description =
        *[no-cases] Pokud jste si přihlašovací údaje uložili do aplikace { -brand-product-name }, ale na jiném zařízení, můžete je zde získat takto:
     }
 login-intro-instructions-fxa = Vytvořte nebo se přihlaste k { -fxaccount-brand-name(case: "dat", capitalization: "lower") } na zařízení, kde máte přihlašovací údaje uložené.
+login-intro-instructions-fxa2 = Vytvořte nebo se přihlaste ke svému účtu na zařízení, kde máte přihlašovací údaje uložené.
 login-intro-instructions-fxa-settings = Otevřete Nastavení > Synchronizace > Zapnout synchronizaci… a vyberte položku Přihlašovací údaje.
 login-intro-instructions-fxa-passwords-help = Navštivte <a data-l10n-name="passwords-help-link">nápovědu pro hesla</a>.
 about-logins-intro-browser-only-import =
@@ -161,19 +159,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Pro úpravu přihlašovací
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upravit uložené přihlašovací údaje
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pro zobrazení hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = zobrazit uložené heslo
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pro zkopírování hesla prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = zkopírovat uložené heslo
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Pro export přihlašovacích údajů prosím zadejte své přihlašovací údaje k systému Windows. Toto opatření pomáhá v zabezpečení vašich účtů.
 # This message can be seen when attempting to export a password in about:logins
@@ -192,7 +187,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Zrušit
 confirmation-dialog-dismiss-button =
     .title = Zrušit
-
 about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
@@ -207,9 +201,7 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [few] Odstranit vše
        *[other] Odstranit vše
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label = Ano, odstranit tyto přihlašovací údaje
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] Odstranit jedny přihlašovací údaje
@@ -221,7 +213,6 @@ about-logins-confirm-remove-all-dialog-message =
         [with-cases] Tímto odstraníte všechny přihlašovací údaje uložené ve { -brand-short-name(case: "loc") } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
        *[no-cases] Tímto odstraníte všechny přihlašovací údaje uložené v aplikaci { -brand-short-name } a také všechna zde zobrazovaná hlášení o únicích. Tuto akci nelze vzít zpět.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] Odstranit jedny přihlašovací údaje ze všech zařízení
@@ -239,10 +230,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Export přihlašovacích údajů
 about-logins-confirm-export-dialog-message = Vaše hesla budou uložena v čitelné podobě (např. Šp4tnéH3sl0) a kdokoliv otevře exportovaný soubor, bude si je moci přečíst.
 about-logins-confirm-export-dialog-confirm-button = Exportovat…
-
 about-logins-alert-import-title = Import byl dokončen
 about-logins-alert-import-message = Zobrazit podrobné shrnutí importu
-
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
 confirm-discard-changes-dialog-confirm-button = Zahodit
@@ -272,7 +261,6 @@ about-logins-vulnerable-alert-learn-more-link = Zjistit více
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují. <a data-l10n-name="duplicate-link">Chcete zobrazit stávající údaje?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Při ukládání hesla nastala chyba.
 
@@ -318,13 +306,10 @@ about-logins-import-file-picker-tsv-filter-title =
 
 about-logins-import-dialog-title = Import byl dokončen
 about-logins-import-dialog-items-added = <span>Nově přidané přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
-
 about-logins-import-dialog-items-modified = <span>Aktualizované přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span>
-
 about-logins-import-dialog-items-no-change = <span>Duplicitní přihlašovací údaje:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
 about-logins-import-dialog-items-error = <span>Chyby:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(neimportováno)</span>
 about-logins-import-dialog-done = Hotovo
-
 about-logins-import-dialog-error-title = Chyba při importu
 about-logins-import-dialog-error-conflicting-values-title = Více konfliktních hodnot pro jedno přihlášení
 about-logins-import-dialog-error-conflicting-values-description = Například: více uživatelských jmen, hesel, adres atd. pro jedno přihlášení.
@@ -338,14 +323,12 @@ about-logins-import-dialog-error-no-logins-imported = Nebyly naimportovány žá
 about-logins-import-dialog-error-learn-more = Zjistit více
 about-logins-import-dialog-error-try-import-again = Zkusit importovat znovu…
 about-logins-import-dialog-error-cancel = Zrušit
-
 about-logins-import-report-title = Souhrn
 about-logins-import-report-description =
     { -brand-short-name.case-status ->
         [with-cases] Přihlašovací údaje importované do { -brand-short-name(case: "gen") }.
        *[no-cases] Přihlašovací údaje importované do aplikace { -brand-short-name }.
     }
-
 #
 # Variables:
 #  $number (number) - The number of the row
