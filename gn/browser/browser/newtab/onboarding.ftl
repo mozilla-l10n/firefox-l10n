@@ -330,4 +330,5 @@ onboarding-device-migration-image-alt =
     .aria-label = Peteĩ aguara mohendaha’i mba’erechahápe, omomaitei. Pe mohendaha’i oreko ijehe anguja.
 onboarding-device-migration-title = ¡Eg̃uahẽporã jey!
 onboarding-device-migration-subtitle = Emoñepyrũ tembiapo { -fxaccount-brand-name(capitalization: "sentence") } eguerujey hag̃ua techaukaha, ñe’ẽñemi ha tembiasakue mba’e’oka pyahúpe.
+onboarding-device-migration-subtitle2 = Eñepyrũ tembiapo ne mba’etépe eru hag̃ua nde rechaukaha, ñe’ẽñemi ha tembiasakue ne mba’e’oka pyahúpe.
 onboarding-device-migration-primary-button-label = Eñepyrũ tembiapo
