@@ -45,6 +45,7 @@ shopping-message-bar-generic-error-message = Romba’apo opa hag̃ua apañuãi. 
 shopping-message-bar-warning-not-enough-reviews-title = Noĩri gueteri heta marandu’i
 shopping-message-bar-warning-not-enough-reviews-message2 = Ko apopyre ojehecha hetajey rire, rohesa’ỹijóta iporãngue.
 shopping-message-bar-warning-product-not-available-title = Apopyre ndojeporukuaái
+shopping-message-bar-warning-product-not-available-message2 = Ehechárõ ko apopyre ojejoguakuaajeyma, oremomarandu ha romba’apóta ijehechajey ñehesa’ijópe.
 shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojeporukuaajeymaha
 shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
 shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
