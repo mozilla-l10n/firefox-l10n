@@ -103,6 +103,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sincronizza adesso
 appmenuitem-fxa-sign-in = Accedi a { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestisci account
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "uppercase") }
+appmenu-account-header = Account
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
