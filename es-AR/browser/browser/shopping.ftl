@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name } Shopping
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de revisiones
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Verificador de revisiones - beta
 shopping-close-button =
     .title = Cerrar
 # This string is for notifying screen reader users that the
@@ -33,21 +40,19 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Actualizaciones disponibles
 shopping-message-bar-warning-stale-analysis-message = Inicie el analizador { -fakespot-brand-full-name } para obtener información actualizada en aproximadamente 60 segundos.
-shopping-message-bar-generic-error-title = Análisis no disponible en este momento.
+shopping-message-bar-generic-error-title2 = No hay información disponible en este momento
 shopping-message-bar-generic-error-message = Estamos trabajando para resolver este problema. Vuelva pronto.
 shopping-message-bar-warning-not-enough-reviews-title = Aún no hay suficientes revisiones
-shopping-message-bar-warning-not-enough-reviews-message = Cuando este producto tenga más revisiones, podremos analizarlas.
+shopping-message-bar-warning-not-enough-reviews-message2 = Cuando este producto tenga más revisiones, podremos verificar su calidad.
 shopping-message-bar-warning-product-not-available-title = Producto no disponible
-shopping-message-bar-warning-product-not-available-message = Si ve que este producto vuelve a estar en stock, infórmenos y trabajaremos para actualizar el análisis.
+shopping-message-bar-warning-product-not-available-message2 = Si ve que este producto está nuevamente en stock, infórmenos y trabajaremos en verificar las revisiones.
 shopping-message-bar-warning-product-not-available-button = Informar que este producto vuelve a estar en stock
 shopping-message-bar-thanks-for-reporting-title = ¡Gracias por informarnos!
-shopping-message-bar-thanks-for-reporting-message = Deberíamos tener un análisis actualizado dentro de las 24 horas. Vuelva a chequear.
-shopping-message-bar-warning-product-not-available-reported-title = El análisis llegará pronto
-shopping-message-bar-warning-product-not-available-reported-message = Un análisis actualizado debería estar listo dentro de las 24 horas. Vuelva a chequear.
-shopping-message-bar-warning-offline-title = No hay conexion de red
-shopping-message-bar-warning-offline-message = Verifique la conexión de red y luego vuelva a cargar la página.
-shopping-message-bar-analysis-in-progress-title = El análisis llegará pronto
-shopping-message-bar-analysis-in-progress-message = Cuando termine, mostraremos automáticamente la información actualizada aquí.
+shopping-message-bar-thanks-for-reporting-message2 = Deberíamos tener información sobre las revisiones de este producto en las próximas 24 horas. Vuelva a chequear.
+shopping-message-bar-warning-product-not-available-reported-title2 = La información llegará pronto
+shopping-message-bar-warning-product-not-available-reported-message2 = Deberíamos tener información sobre las revisiones de este producto en las próximas 24 horas. Vuelva a chequear.
+shopping-message-bar-analysis-in-progress-title2 = Verificando la calidad de la revisión
+shopping-message-bar-analysis-in-progress-message2 = Esto puede tardar unos 60 segundos.
 shopping-message-bar-page-not-supported-title = No podemos comprobar estas revisiones
 shopping-message-bar-page-not-supported-message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
 
@@ -86,6 +91,8 @@ powered-by-fakespot = Verificador de revisiones con tecnología de <a data-l10n-
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Calificación ajustada
 shopping-adjusted-rating-unreliable-reviews = Revisiones no confiables eliminadas
@@ -99,9 +106,6 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Cómo determinamos la calidad de las revisiones
-shopping-analysis-explainer-intro =
-    Utilizamos tecnología de IA de { -fakespot-brand-full-name } para analizar la confiabilidad de las revisiones de productos.
-    Este análisis sólo ayudará a evaluar la calidad de las revisiones, no la calidad del producto.
 shopping-analysis-explainer-grades-intro = Asignamos a las revisiones de cada producto una <strong>calificación con letras</strong> de la A a la F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en revisiones que consideramos confiables.
 shopping-analysis-explainer-learn-more = Conocer más sobre <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de la revisión</a>.
@@ -127,12 +131,17 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Aún no hay análisis para estas revisiones
-shopping-unanalyzed-product-message = Inicie el analizador { -fakespot-brand-full-name } y sabrá en unos 60 segundos si las revisiones de este producto son confiables.
-shopping-unanalyzed-product-analyze-link = Iniciar el analizador en { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Más para considerar
 ad-by-fakespot = Publicidad de { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
