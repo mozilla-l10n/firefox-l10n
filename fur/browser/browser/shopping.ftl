@@ -168,3 +168,4 @@ shopping-callout-closed-opted-in-subtitle = Torne ae <strong>verifiche recension
 shopping-callout-pdp-opted-in-title = Sono afidabilis chestis recensions? Scuvierzilu di buride.
 shopping-callout-pdp-opted-in-subtitle = Vierç verifiche recensions par viodi la valutazion retificade dopo vê gjavadis lis recensions inafidabilis. In plui, viôt i ponts in risalt des recensions autentichis inseridis di resint.
 shopping-callout-closed-not-opted-in-title = Recensions afidabilis intun clic
+shopping-callout-closed-not-opted-in-subtitle = Prove “verifiche recensions” ogni volte che tu viodis la icone cul cartelin dal presit. Oten subite informazions detaiadis dai vêrs acuirents, prime di comprâ.
