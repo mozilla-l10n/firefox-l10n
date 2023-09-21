@@ -6,6 +6,13 @@ shopping-page-title = Шопінг { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Засіб перевірки відгуків
+shopping-beta-marker = Бета
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Засіб перевірки відгуків - бета
 shopping-close-button =
     .title = Закрити
 # This string is for notifying screen reader users that the
@@ -33,21 +40,18 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-title = Доступні оновлення
 shopping-message-bar-warning-stale-analysis-message = Запустіть аналізатор { -fakespot-brand-full-name }, щоб отримати оновлену інформацію приблизно за 60 секунд.
-shopping-message-bar-generic-error-title = Аналізатор зараз недоступний
+shopping-message-bar-generic-error-title2 = Наразі інформація недоступна
 shopping-message-bar-generic-error-message = Ми працюємо над усуненням проблеми. Поверніться згодом.
 shopping-message-bar-warning-not-enough-reviews-title = Ще недостатньо відгуків
-shopping-message-bar-warning-not-enough-reviews-message = Коли на цей продукт буде більше відгуків, ми зможемо їх проаналізувати.
+shopping-message-bar-warning-not-enough-reviews-message2 = Коли на цей продукт буде більше відгуків, ми зможемо їх проаналізувати.
 shopping-message-bar-warning-product-not-available-title = Товар відсутній
-shopping-message-bar-warning-product-not-available-message = Якщо цей товар знову з'явиться, повідомте про це нам, і ми його проаналізуємо.
+shopping-message-bar-warning-product-not-available-message2 = Якщо цей товар знову з'явиться, повідомте про це нам, і ми його проаналізуємо.
 shopping-message-bar-warning-product-not-available-button = Повідомити, що цей товар знову в наявності
 shopping-message-bar-thanks-for-reporting-title = Дякуємо за повідомлення!
-shopping-message-bar-thanks-for-reporting-message = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
-shopping-message-bar-warning-product-not-available-reported-title = Незабаром проаналізується
-shopping-message-bar-warning-product-not-available-reported-message = Оновлені результати мають бути готові впродовж 24 годин. Перевірте знову згодом.
-shopping-message-bar-warning-offline-title = Немає з'єднання з мережею
-shopping-message-bar-warning-offline-message = Перевірте з'єднання з мережею. Потім спробуйте перезавантажити сторінку.
-shopping-message-bar-analysis-in-progress-title = Незабаром проаналізується
-shopping-message-bar-analysis-in-progress-message = Коли все буде готово, ми автоматично покажемо тут оновлену інформацію.
+shopping-message-bar-thanks-for-reporting-message2 = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
+shopping-message-bar-warning-product-not-available-reported-title2 = Інформація незабаром надійде
+shopping-message-bar-analysis-in-progress-title2 = Перевірка якості відгуку
+shopping-message-bar-analysis-in-progress-message2 = Це може тривати близько 60 секунд.
 shopping-message-bar-page-not-supported-title = Ми не можемо перевірити ці відгуки
 shopping-message-bar-page-not-supported-message = На жаль, ми не можемо перевірити якість відгуків для певних типів товарів, як-от: подарункових карток, стримінгових відео, музики й ігор.
 
@@ -86,6 +90,8 @@ powered-by-fakespot = Засіб перевірки відгуків розро�
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Скоригований рейтинг
 shopping-adjusted-rating-unreliable-reviews = Сумнівні відгуки прибрано
@@ -99,9 +105,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Як ми визначаємо якість відгуку
-shopping-analysis-explainer-intro =
-    Ми використовуємо технологію ШІ від { -fakespot-brand-full-name }, щоб аналізувати надійність відгуків про товар.
-    Цей аналіз допоможе вам оцінити лише якість відгуку, а не якість товару.
+shopping-analysis-explainer-intro2 = Ми використовуємо технологію ШІ від { -fakespot-brand-full-name }, щоб перевірити надійність відгуків про товар. Це допоможе вам оцінити лише якість відгуку, а не якість товару.
 shopping-analysis-explainer-grades-intro = Кожному відгуку про товар ми присвоюємо <strong>буквену оцінку</strong> від A до F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скоригований рейтинг</strong> на основі лише відгуків, які ми вважаємо надійними.
 shopping-analysis-explainer-learn-more = Дізнайтеся, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } визначає якість відгуків</a>.
@@ -127,12 +131,21 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Ці відгуки ще не проаналізовано
-shopping-unanalyzed-product-message = Запустіть аналізатор { -fakespot-brand-full-name }, і приблизно за 60 секунд ви дізнаєтеся, чи відгукам про цей товар варто довіряти.
-shopping-unanalyzed-product-analyze-link = Запустити аналізатор на { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Ще немає інформації про ці відгуки
+shopping-unanalyzed-product-message-2 = Щоб дізнатися, чи надійні відгуки про цей товар, перевірте їхню якість. Це триватиме лише близько 60 секунд.
+shopping-unanalyzed-product-analyze-button = Перевірити якість відгуку
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Більше товарів
 ad-by-fakespot = Реклама від { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Допоможіть удосконалити { -brand-product-name }
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+

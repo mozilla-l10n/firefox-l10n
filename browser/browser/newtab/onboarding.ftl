@@ -330,4 +330,5 @@ onboarding-device-migration-image-alt =
     .aria-label = Лисиця на екрані ноутбука махає вітаючись. До ноутбука підключена мишка.
 onboarding-device-migration-title = З поверненням!
 onboarding-device-migration-subtitle = Увійдіть у свій { -fxaccount-brand-name(capitalization: "sentence") }, щоб перенести свої закладки, паролі та історію на новий пристрій.
+onboarding-device-migration-subtitle2 = Увійдіть в обліковий запис, щоб перенести свої закладки, паролі та історію на новий пристрій.
 onboarding-device-migration-primary-button-label = Увійти
