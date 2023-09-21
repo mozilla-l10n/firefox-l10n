@@ -170,4 +170,4 @@ shopping-callout-closed-opted-in-subtitle = Gean werom nei de <strong>beoardieli
 shopping-callout-pdp-opted-in-title = Binne dizze beoardielingen betrouber? Untdek it gau!
 shopping-callout-pdp-opted-in-subtitle = Iepenje de beoardielingskontrôle om in oanpaste wurdearring te sjen wêrút ûnbetroubere beoardielingen fuortsmiten binne. Plus, sjoch hichtepunten út resinte autentike resinsjes.
 shopping-callout-closed-not-opted-in-title = Ien klik nei betroubere beoardielingen
-shopping-callout-closed-not-opted-in-subtitle = Probearje beoardielingskontrôle ris wannear’t jo it priiskaartsje sjogge. Krij fluch ynsjoch fan echte klanten — eardat jo wat keapje.
+shopping-callout-closed-not-opted-in-subtitle = Probearje beoardielingskontrôle ris wannear’t jo it priiskaartsje sjogge. Krij fluch ynsjoch fan echte klanten – eardat jo wat keapje.
