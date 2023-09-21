@@ -171,6 +171,7 @@ confirm-discard-changes-dialog-confirm-button = Ignòra
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Violaçion de scito web
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Vànni a { $hostname }
