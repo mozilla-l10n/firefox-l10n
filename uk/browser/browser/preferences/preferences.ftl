@@ -1007,6 +1007,10 @@ content-blocking-enhanced-tracking-protection = Розширений захис�
 content-blocking-section-top-level-description = Елементи стеження переслідують вас в мережі з метою збору інформації про ваші звички та інтереси. { -brand-short-name } блокує багато такого стеження, а також інші підозрілі скрипти.
 content-blocking-learn-more = Докладніше
 content-blocking-fpi-incompatibility-warning = Ви використовуєте First Party Isolation (FPI), що замінює деякі налаштування кук користувача { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Ви використовуєте Захист від збору цифрових відбитків (RFP), який замінює деякі налаштування захисту від збору цифрових відбитків { -brand-short-name }. Це може призвести до проблем з деякими сайтами.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

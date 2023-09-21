@@ -84,6 +84,7 @@ about-logins-login-intro-heading-logged-out2 = Шукаєте збережені
 about-logins-login-intro-heading-logged-in = Не знайдено синхронізованих паролів.
 login-intro-description = Якщо ви зберегли паролі в { -brand-product-name } на іншому пристрої, ось як отримати їх тут:
 login-intro-instructions-fxa = Зареєструйтеся чи увійдіть до свого { -fxaccount-brand-name(case: "gen") } на пристрої, де збережено ваші паролі
+login-intro-instructions-fxa2 = Зареєструйтеся чи ввійдіть до облікового запису на пристрої, де збережено паролі.
 login-intro-instructions-fxa-settings = Перейдіть до Налаштування > Синхронізація > Увімкнути синхронізацію… Позначте паролі.
 login-intro-instructions-fxa-passwords-help = Перейдіть до <a data-l10n-name="passwords-help-link">підтримки щодо паролів</a>, щоб отримати допомогу.
 about-logins-intro-browser-only-import = Якщо ваші паролі збережено в іншому браузері, ви можете <a data-l10n-name="import-link">імпортувати їх у { -brand-product-name }</a>

@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } не вдало�
 ##
 
 firefox-relay-must-login-to-fxa = Ви повинні увійти в { -fxaccount-brand-name }, щоб використовувати { -relay-brand-name }.
+firefox-relay-must-login-to-account = Увійдіть в обліковий запис, щоб використовувати маски електронної пошти { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Керувати масками
     .accesskey = К
