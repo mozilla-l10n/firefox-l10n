@@ -151,8 +151,17 @@ shopping-survey-q1-radio-2-label = Sodisfat(e)
 shopping-survey-q1-radio-3-label = Indiferent(e)
 shopping-survey-q1-radio-4-label = Insodisfat(e)
 shopping-survey-q1-radio-5-label = Une vore insodisfat(e)
+shopping-survey-question-two = La verifiche recensions ti aje judât a cjapâ decisions prime dal acuist?
+shopping-survey-q2-radio-1-label = Sì
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = No sai
+shopping-survey-next-button-label = Sucessîf
+shopping-survey-submit-button-label = Invie
+shopping-survey-terms-link = Cundizions di utilizazion dal servizi
+shopping-survey-thanks-message = Graciis di vê condividude la tô opinion.
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Torne ae <strong>verifiche recensions</strong> cuant che tu viodis la icone cul cartelin dal presit.
