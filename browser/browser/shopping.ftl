@@ -106,6 +106,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Cómo determinamos la calidad de las revisiones
+shopping-analysis-explainer-intro2 = Utilizamos tecnología de IA de { -fakespot-brand-full-name } para verificar la confiabilidad de las revisiones de productos. Esto sólo ayudará a evaluar la calidad de las revisiones, no la calidad del producto.
 shopping-analysis-explainer-grades-intro = Asignamos a las revisiones de cada producto una <strong>calificación con letras</strong> de la A a la F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en revisiones que consideramos confiables.
 shopping-analysis-explainer-learn-more = Conocer más sobre <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de la revisión</a>.
@@ -131,6 +132,9 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Aún no hay información sobre estas revisiones
+shopping-unanalyzed-product-message-2 = Para saber si las revisiones de este producto son fiables, verifique la calidad de las revisiones. Solo toma unos 60 segundos.
+shopping-unanalyzed-product-analyze-button = Verificar la calidad de la revisión
 
 ## Strings for the advertisement
 
@@ -140,8 +144,28 @@ ad-by-fakespot = Publicidad de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ayude a mejorar { -brand-product-name }
+shopping-survey-question-one = ¿Qué tan satisfecho está con la experiencia del verificador de revisiones en { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Muy Satisfecho
+shopping-survey-q1-radio-2-label = Satisfecho
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Insatisfecho
+shopping-survey-q1-radio-5-label = Muy insatisfecho
+shopping-survey-question-two = ¿El verificador de revisiones facilita la toma de decisiones de compra?
+shopping-survey-q2-radio-1-label = Sí
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = No sé
+shopping-survey-next-button-label = Siguiente
+shopping-survey-submit-button-label = Enviar
+shopping-survey-terms-link = Términos de uso
+shopping-survey-thanks-message = ¡Gracias por sus comentarios!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vuelva al <strong>comprobador de revisiones</strong> cada vez que vea la etiqueta de precio.
+shopping-callout-pdp-opted-in-title = ¿Son confiables estas revisiones? Descúbralo rápido.
+shopping-callout-pdp-opted-in-subtitle = Abra el verificador de reseñas para ver una calificación ajustada con las revisiones no confiables eliminadas. Además, vea los aspectos más destacados de revisiones auténticas recientes.
+shopping-callout-closed-not-opted-in-title = Un clic para obtener revisiones confiables
+shopping-callout-closed-not-opted-in-subtitle = Pruebe el verificador de revisiones cada vez que vea la etiqueta de precio. Obtenga rápidamente información de compradores reales, antes de comprar.
