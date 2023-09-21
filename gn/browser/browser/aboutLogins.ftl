@@ -204,6 +204,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka oñondivéva { -fxaccount-brand-name } rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
        *[other] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka oñondivéva { -fxaccount-brand-name } rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka ojuehéva ne mba’ete rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+        [one] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka ojuehéva ne mba’ete rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+       *[other] Kóva omboguéta tembiapo ñepyrũ eñongatúva { -brand-short-name }-pe opaite mba’e’oka ojuehéva ne mba’ete rehe. Kóva avei omboguéta umi ñembogua kyhyjerã asẽva ko’ápe. Ndaikatumo’ãi emboguevi ko tembiapo.
+    }
 
 ##
 
