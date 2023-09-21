@@ -48,6 +48,11 @@ shopping-message-bar-warning-product-not-available-title = Apopyre ndojeporukua�
 shopping-message-bar-warning-product-not-available-message2 = Ehechárõ ko apopyre ojejoguakuaajeyma, oremomarandu ha romba’apóta ijehechajey ñehesa’ijópe.
 shopping-message-bar-warning-product-not-available-button = Emombe’u ko apopyre ojeporukuaajeymaha
 shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
+shopping-message-bar-thanks-for-reporting-message2 = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
+shopping-message-bar-warning-product-not-available-reported-title2 = Marandu og̃uahẽtáma
+shopping-message-bar-warning-product-not-available-reported-message2 = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
+shopping-message-bar-analysis-in-progress-title2 = Ehechajey marandu’i porãngue
+shopping-message-bar-analysis-in-progress-message2 = Kóva ipukukuaa 60 aravo’ive rupi.
 shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
 
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -80,6 +85,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Ehechauka ñemurã marandu’i rechajeyhápe
 shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
+powered-by-fakespot = Pe marandu’i jehechajey oioo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ndive.
 
 ## Strings for the adjusted rating component
 
@@ -98,6 +104,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Mba’éichapa jaikuaáta marandu’i iporãha
+shopping-analysis-explainer-grades-intro = Rome’ẽ marandu’i peteĩteĩva apopyrépe <strong>papapy tai ndive</strong> A guive F peve.
 
 ## Strings for UrlBar button
 
