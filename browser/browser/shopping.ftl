@@ -144,8 +144,19 @@ ad-by-fakespot = Реклама від { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Допоможіть удосконалити { -brand-product-name }
+shopping-survey-q2-radio-1-label = Так
+shopping-survey-q2-radio-2-label = Ні
+shopping-survey-q2-radio-3-label = Не знаю
+shopping-survey-next-button-label = Далі
+shopping-survey-submit-button-label = Надіслати
+shopping-survey-terms-link = Умови користування
+shopping-survey-thanks-message = Дякуємо за ваш відгук!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Повертайтеся до <strong>засобу перевірки відгуків</strong> щоразу, коли бачите цінник.
+shopping-callout-pdp-opted-in-title = Чи надійні ці відгуки? Дізнайтеся про це швидко.
+shopping-callout-pdp-opted-in-subtitle = Відкрийте засіб перевірки відгуків, щоб переглянути скоригований рейтинг із вилученими ненадійними відгуками. Крім того, перегляньте основні моменти з останніх автентичних відгуків.
+shopping-callout-closed-not-opted-in-subtitle = Користуйтесь засобом перевірки відгуків щоразу, коли побачите цінник. Швидко отримуйте інформацію від реальних покупців перед купівлею.
