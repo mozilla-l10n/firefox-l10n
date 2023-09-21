@@ -5,6 +5,7 @@
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de avaliações
+shopping-beta-marker = Beta
 shopping-close-button =
     .title = Fechar
 # This string is for notifying screen reader users that the
@@ -130,6 +131,13 @@ shopping-survey-q1-radio-2-label = Satisfeito
 shopping-survey-q1-radio-3-label = Neutro
 shopping-survey-q1-radio-4-label = Insatisfeito
 shopping-survey-q1-radio-5-label = Muito insatisfeito
+shopping-survey-q2-radio-1-label = Sim
+shopping-survey-q2-radio-2-label = Não
+shopping-survey-q2-radio-3-label = Não sei
+shopping-survey-next-button-label = Próximo
+shopping-survey-submit-button-label = Submeter
+shopping-survey-terms-link = Termos de utilização
+shopping-survey-thanks-message = Obrigado pela sua opinião!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
