@@ -28,7 +28,7 @@ policy-CertificatesDescription = Embojuaju mboajepyre térã eiporu mboajepyre m
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Eheka purureko ojokupytýva mba’eryru ndive.
-policy-DisableAccounts = Eipe’a umi mba’epuru mba’etegua, oikehápe ñembojuehe.
+policy-DisableAccounts = Eipe’a umi mba’eporu mba’etegua, oikehápe ñembojuehe.
 policy-DisabledCiphers = Embogue papapy.
 policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
 policy-DisableAppUpdate = Ani eheja oñembohekopyahu kundahára.
@@ -119,7 +119,7 @@ policy-ShowHomeButton = Ehechauka ñepyrũha votõ tembiporu rendápe.
 policy-SSLVersionMax = Emboheko SSL rembiapokue ipyahuvéva.
 policy-SSLVersionMin = Emboheko SSL rembiapokue oiko’ivéva.
 policy-StartDownloadsInTempDirectory = Embojere umi ñemboguejy oñepyrũ hag̃ua peteĩ tenda sapy’agua tendápe, tenda’i ñemboguejyrã ñepyrũrã rangue.
-policy-SupportMenu = Embojuaju mba’epuru poravorãgua ñemomba’epyréva pytyvõha poravorãme.
+policy-SupportMenu = Embojuaju mba’eporu poravorãgua ñemomba’epyréva pytyvõha poravorãme.
 policy-UserMessaging = Ani ehechauka heta ñe’ẽmondo poruhárape.
 policy-UseSystemPrintDialog = Eguenohẽ kuatiáre eiporuhápe apopyvusúpe ñe’ẽñemi kuatiáre ñeguenohẽ rehegua.
 # “format” refers to the format used for the value of this policy.

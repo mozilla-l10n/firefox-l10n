@@ -5,7 +5,7 @@
 
 ## Messages used as headers in the main pane
 
-compatibility-selected-element-header = Mba’epuru poravopyre
+compatibility-selected-element-header = Mba’eporu poravopyre
 compatibility-all-elements-header = Opaite apañuãi
 
 ## Message used as labels for the type of issue
@@ -39,11 +39,9 @@ compatibility-issue-occurrences =
         [one] { $number } ñesẽrei
        *[other] { $number } ñesẽreikuéra
     }
-
 compatibility-no-issues-found = Ndaipóri apañuãi jokupytygua.
 compatibility-close-settings-button =
     .title = Embogue ñemboheko
-
 # Text used in the element containing the browser icons for a given compatibility issue.
 # Line breaks are significant.
 # Variables:

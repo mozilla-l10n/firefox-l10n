@@ -12,7 +12,7 @@
 options-select-default-tools-label = Tembiporu mboguatahára ijypyguáva
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
-options-tool-not-supported-label = * Ndojokupytýi mba’epuru ag̃agua tembiporu ryru rehegua
+options-tool-not-supported-label = * Ndojokupytýi mba’eporu ag̃agua tembiporu ryru rehegua
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = Tembiporu Mboguatahára moĩmbaha omohendapyréra
@@ -42,7 +42,7 @@ options-inspector-draggable-properties-tooltip =
 # within the inspector for users who enabled prefers-reduced-motion = reduce
 options-inspector-simplified-highlighters-label = Eiporu jehechaukaha’i prefers-reduced-motion ndive
 options-inspector-simplified-highlighters-tooltip =
-    .title = Emyandy mba’erechaukaha momichĩmbyre oñembojurujávo prefers-reduced-motion. Ehai línea rectángulo henyhẽmbyréva rendaguépe mba’epuru jerére ani hag̃ua ikangy.
+    .title = Emyandy mba’erechaukaha momichĩmbyre oñembojurujávo prefers-reduced-motion. Ehai línea rectángulo henyhẽmbyréva rendaguépe mba’eporu jerére ani hag̃ua ikangy.
 
 ## "Default Color Unit" options for the Inspector
 

@@ -17,27 +17,27 @@ learn-more = <span data-l10n-name="link">Kuaave</span>
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha osẽtava renda.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva, peteĩ mbyatyha ikora’ietáva, avei ndaha’éi mbyatyha hi’ytaetáva.
 inactive-css-not-multicol-container = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha heta ytapegua.
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi osẽtava renda ha avei mba’epuru hu’ũva.
-inactive-css-not-grid-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’epuru osẽtava renda.
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi osẽtava renda ha avei mba’eporu hu’ũva.
+inactive-css-not-grid-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-css-not-grid-container = <strong>{ $property }</strong> ndoguerekói  mba’evai ko mba’epurúpe ndaha’éi rupi mbyatyha osẽtava renda.
-inactive-css-not-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’epuru hu’ũva.
+inactive-css-not-flex-item = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’eporu hu’ũva.
 inactive-css-not-flex-container = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mbyatyha hu’ũva.
-inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’epuru eikundahakuévo térã tenda’iete.
-inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> noñemoneĩri ::mba’epurugua’u tairenda ñepyrũguápe.
-inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’epurugua’u ndive ::first-letter.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’eporu eikundahakuévo térã tenda’iete.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> noñemoneĩri ::mba’eporugua’u tairenda ñepyrũguápe.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u ndive ::first-letter.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe, oguereko rupi jehechaha <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mab’epuru oĩgui <strong>vevuihápe</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
-inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’epuru osẽtava renda.
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe ndaha’éi rupi mba’eporu osẽtava renda.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe <strong>overflow:hidden</strong> ndahekói rupi.
-inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre.
-inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ndojapói mba’eve mba’epuru tabla ryepyguáre oiko’ỹva tabla kora’ípe.
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ndojapói mba’eve mba’eporu tabla ryepyguáre.
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ndojapói mba’eve mba’eporu tabla ryepyguáre oiko’ỹva tabla kora’ípe.
 inactive-css-not-table = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndaha’éire tabla.
 inactive-css-not-table-cell = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndaha’éire tabla pa’ũgua.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ndojapói mba’eve ko mba’epurúpe ndoku’éi rupi.
-inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe ndaikatúi rupi oñemohembiapo mba’epuruita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’epuru mba’ekuaarã’aty tuichavévape.
-inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’epurúpe ha’e rupi mba’epuru ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
-inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’epurugua’u mbosa’ypyrére.
+inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe ndaikatúi rupi oñemohembiapo mba’eporuita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’eporu mba’ekuaarã’aty tuichavévape.
+inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’epurúpe ha’e rupi mba’eporu ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u mbosa’ypyrére.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -46,10 +46,10 @@ inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</st
 inactive-css-not-grid-or-flex-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong> térã <strong>yta:2</strong>. { learn-more }
 inactive-css-not-multicol-container-fix = Eñeha’ã embojuaju <strong>column-count</strong> térã <strong>column-width</strong>. { learn-more }
-inactive-css-not-grid-or-flex-item-fix-3 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong> pe mba’epuru túvape. { learn-more }
+inactive-css-not-grid-or-flex-item-fix-3 = Embojuaju <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> térã <strong>display:inline-flex</strong> pe mba’eporu túvape. { learn-more }
 inactive-css-not-grid-item-fix-2 = Embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong> ítem rúpe. { learn-more }
 inactive-css-not-grid-container-fix = Eñeha’ã embojuaju <strong>display:grid</strong> térã <strong>display:inline-grid</strong>. { learn-more }
-inactive-css-not-flex-item-fix-2 = Embojuaju <strong>display:flex</strong> térã <strong>display:inline-flex</strong> mba’epuru rúpe. { learn-more }
+inactive-css-not-flex-item-fix-2 = Embojuaju <strong>display:flex</strong> térã <strong>display:inline-flex</strong> mba’eporu rúpe. { learn-more }
 inactive-css-not-flex-container-fix = Eñeha’ã embojuaju <strong>display:flex</strong> térã <strong>display:inline-flex</strong>. { learn-more }
 inactive-css-not-inline-or-tablecell-fix = Eñeha’ã embojuaju <strong>display:inline</strong> térã <strong>display:table-cell</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Eñaha’ã embojuaju <strong>display:inline-block</strong> térã <strong>display:block</strong>. { learn-more }
@@ -62,7 +62,7 @@ inactive-css-not-for-internal-table-elements-except-table-cells-fix = Ikatúma e
 inactive-css-not-table-fix = Eñeha’ã embojuaju <strong>display:table</strong> térã <strong>display:inline-table</strong>. { learn-more }
 inactive-css-not-table-cell-fix = Eñeha’ã embojuaju <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Ehecha embojuaju <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, térã <strong>overflow:hidden</strong>. { learn-more }
-inactive-css-border-image-fix = Pe mba’epuru tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>. { learn-more }
+inactive-css-border-image-fix = Pe mba’eporu tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers

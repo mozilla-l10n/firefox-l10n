@@ -240,16 +240,16 @@ places-back-button =
     .tooltiptext = Tapykuévo jeho
 places-forward-button =
     .tooltiptext = Tenonde jeho
-places-details-pane-select-an-item-description = Eiporavo peteĩ mba’epuru ehecha ha embosako’i hag̃ua imba’etee
+places-details-pane-select-an-item-description = Eiporavo peteĩ mba’eporu ehecha ha embosako’i hag̃ua imba’etee
 places-details-pane-no-items =
-    .value = Mba’epururã’ỹ
+    .value = Mba’eporurã’ỹ
 # Variables:
 #   $count (Number): number of items
 places-details-pane-items-count =
     .value =
         { $count ->
-            [one] Peteĩ mba’epuru
-           *[other] { $count } mba’epurukuéra
+            [one] Peteĩ mba’eporu
+           *[other] { $count } mba’eporukuéra
         }
 
 ## Strings used as a placeholder in the Library search field. For example,

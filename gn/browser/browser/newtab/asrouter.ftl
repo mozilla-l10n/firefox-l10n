@@ -100,7 +100,7 @@ cfr-doorhanger-milestone-close-button = Mboty
 
 ## DOH Message
 
-cfr-doorhanger-doh-body = Ne ñemigua tuichamba’e. { -brand-short-name } ombohape tekorosãme umi ne mba’ejerure DNS ikatu vove peteĩ mba’epuru oñembyatýva nemo’ã hag̃ua eikundaha aja.
+cfr-doorhanger-doh-body = Ne ñemigua tuichamba’e. { -brand-short-name } ombohape tekorosãme umi ne mba’ejerure DNS ikatu vove peteĩ mba’eporu oñembyatýva nemo’ã hag̃ua eikundaha aja.
 cfr-doorhanger-doh-header = Jehekapy DNS hekorosã ha ipapapýva
 cfr-doorhanger-doh-primary-button-2 = Moneĩ
     .accesskey = O
