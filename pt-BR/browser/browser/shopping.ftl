@@ -168,3 +168,4 @@ shopping-callout-closed-opted-in-subtitle = Volte ao <strong>verificador de aval
 shopping-callout-pdp-opted-in-title = Essas avaliações são confiáveis? Descubra rápido.
 shopping-callout-pdp-opted-in-subtitle = Abra o verificador de avaliações para ver uma classificação ajustada com avaliações não confiáveis removidas. Além disso, veja destaques de avaliações autênticas recentes.
 shopping-callout-closed-not-opted-in-title = Um clique para avaliações confiáveis
+shopping-callout-closed-not-opted-in-subtitle = Experimente o verificador de avaliações sempre que aparecer a etiqueta de preço. Obtenha percepções de compradores reais rapidamente, antes de comprar.

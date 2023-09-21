@@ -203,6 +203,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
        *[other] Serão removidas todos as contas que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua { -fxaccount-brand-name }. Também serão removidos alertas de vazamento que aparecem aqui. Você não pode desfazer esta ação.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Será removida a conta que você salvou no { -brand-short-name } em todos os dispositivos sincronizados com sua conta. Também serão removidos alertas de vazamentos que aparecem aqui. Você não pode desfazer esta ação.
+       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+    }
 
 ##
 
