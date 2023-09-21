@@ -18,7 +18,7 @@ grid-row-column-positions = Tysýi { $row } / Yta { $column }
 gridtype-container = Mbyatyha ikora’ietáva
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a grid item.
-gridtype-item = Mba’epuru ikora’ietáva
+gridtype-item = Mba’eporu ikora’ietáva
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a grid container and a grid item.
 gridtype-dual = Mbyatyha ikora’ietáva/Item
@@ -27,7 +27,7 @@ gridtype-dual = Mbyatyha ikora’ietáva/Item
 flextype-container = Mbyatyha hu’ũva
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is a flex item.
-flextype-item = Mba’epuru hu’ũva
+flextype-item = Mba’eporu hu’ũva
 # The layout type of an element shown in the infobar when hovering over a DOM element and
 # it is both a flex container and a flex item.
 flextype-dual = Mbyatyha hu’ũva/Item
@@ -39,9 +39,9 @@ flextype-dual = Mbyatyha hu’ũva/Item
 #                    remote-node-picker-notice-action-touch
 remote-node-picker-notice = Mohendaha poravoha DevTools myandypyre. { $action }
 # Text displayed in `remote-node-picker-notice`, when the remote page is on desktop
-remote-node-picker-notice-action-desktop = Eikutu mba’epuru eiporavo hag̃ua moambuekuaahápe
+remote-node-picker-notice-action-desktop = Eikutu mba’eporu eiporavo hag̃ua moambuekuaahápe
 # Text displayed in `remote-node-picker-notice`, when the remote page is on Android
-remote-node-picker-notice-action-touch = Eikutu mba’epuru eiporavo hag̃ua moambuekuaahápe
+remote-node-picker-notice-action-touch = Eikutu mba’eporu eiporavo hag̃ua moambuekuaahápe
 # The text displayed in the button that is in the notice in the content page when the user
 # clicks on the "Pick an element from the page" in about:devtools-toolbox inspector panel,
 # when debugging a remote page.
