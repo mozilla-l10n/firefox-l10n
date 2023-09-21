@@ -206,9 +206,7 @@ firefoxview-import-history-description = Faça do { -brand-short-name } o seu na
 firefoxview-recentlyclosed-empty-header = Fechou um separador por engano?
 firefoxview-recentlyclosed-empty-description = Aqui poderá encontrar os separadores que fechou recentemente, para que possa reabrir qualquer um dos mesmos rapidamente.
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nenhum separador aberto neste dispositivo
+firefoxview-syncedtabs-connect-another-device = Ligar outro dispositivo
