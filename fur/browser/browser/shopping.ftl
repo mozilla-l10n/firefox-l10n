@@ -166,3 +166,5 @@ shopping-survey-thanks-message = Graciis di vê condividude la tô opinion.
 
 shopping-callout-closed-opted-in-subtitle = Torne ae <strong>verifiche recensions</strong> cuant che tu viodis la icone cul cartelin dal presit.
 shopping-callout-pdp-opted-in-title = Sono afidabilis chestis recensions? Scuvierzilu di buride.
+shopping-callout-pdp-opted-in-subtitle = Vierç verifiche recensions par viodi la valutazion retificade dopo vê gjavadis lis recensions inafidabilis. In plui, viôt i ponts in risalt des recensions autentichis inseridis di resint.
+shopping-callout-closed-not-opted-in-title = Recensions afidabilis intun clic
