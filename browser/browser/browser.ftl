@@ -475,7 +475,7 @@ sharing-warning-disable-for-session =
 # This placeholder is used when not in search mode and the user's default search
 # engine is unknown.
 urlbar-placeholder =
-    .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
+    .placeholder = සොයන්න හෝ ලිපිනය ලියන්න
 # This placeholder is used in search mode with search engines that search the
 # entire web.
 # Variables
@@ -511,7 +511,7 @@ urlbar-placeholder-search-mode-other-actions =
 # Variables
 #  $name (String): the name of the user's default search engine
 urlbar-placeholder-with-name =
-    .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය යොදන්න
+    .placeholder = { $name } සමග සොයන්න හෝ ලිපිනය ලියන්න
 # Variables
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".

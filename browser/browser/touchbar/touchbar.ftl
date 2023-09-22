@@ -15,11 +15,10 @@ new-tab = නව පටිත්ත
 add-bookmark = පොත්යොමුවක් යොදන්න
 reader-view = කියවීමේ දැක්ම
 # Meant to match the string displayed in an empty URL bar.
-open-location = සොයන්න හෝ ලිපිනය යොදන්න
+open-location = සොයන්න හෝ ලිපිනය ලියන්න
 share = බෙදාගන්න
 close-window = කවුළුව වසන්න
 open-sidebar = පැති තීරු
-
 # This string describes shortcuts for search.
 search-popover = කෙටිමං සොයන්න
 # Describes searches limited to a specific scope

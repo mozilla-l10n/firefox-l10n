@@ -186,8 +186,8 @@ about-logins-confirm-remove-all-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
-        [one] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
-       *[other] සියළුම උපාංගවලින් පිවිසුම් { $count } ඉවත් කරන්නද?
+        [one] සියළුම උපාංග වලින් පිවිසුම් { $count } ඉවත් කරන්නද?
+       *[other] සියළුම උපාංග වලින් පිවිසුම් { $count } ඉවත් කරන්නද?
     }
 
 ##
