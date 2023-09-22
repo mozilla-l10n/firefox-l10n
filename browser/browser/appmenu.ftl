@@ -85,7 +85,7 @@ appmenu-remote-tabs-opensettings =
     .label = සැකසුම්
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = ඔබගේ වෙනත් උපාංගවල පටිති බැලීමට වුවමනාද?
+appmenu-remote-tabs-noclients = ඔබගේ අනෙකුත් උපාංගවල පටිති බැලීමට වුවමනාද?
 appmenu-remote-tabs-connectdevice =
     .label = අන් උපාංගයක් සබඳින්න
 appmenu-remote-tabs-welcome = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනයක් බලන්න.

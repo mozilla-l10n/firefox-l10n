@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 synced-tabs-sidebar-title = සමමුහූර්ත පටිති
-synced-tabs-sidebar-noclients-subtitle = ඔබගේ වෙනත් උපාංගවල පටිති බැලීමට වුවමනාද?
+synced-tabs-sidebar-noclients-subtitle = ඔබගේ අනෙකුත් උපාංගවල පටිති බැලීමට වුවමනාද?
 synced-tabs-sidebar-intro = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනය බලන්න.
 synced-tabs-sidebar-unverified = ඔබගේ ගිණුම සත්‍යාපනය කළ යුතුයි.
 synced-tabs-sidebar-notabs = විවෘත පටිති නැත.
