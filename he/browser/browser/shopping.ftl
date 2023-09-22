@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = עדכונים זמינים
-shopping-message-bar-warning-stale-analysis-message = ניתן להפעיל את הכלי המנתח של { -fakespot-brand-full-name } כדי לקבל מידע מעודכן תוך כ־60 שניות.
+shopping-message-bar-warning-stale-analysis-message-2 = מידע חדש לבדיקה
+shopping-message-bar-warning-stale-analysis-button = ביצוע בדיקה כעת
 shopping-message-bar-generic-error-title2 = אין מידע זמין כרגע
 shopping-message-bar-generic-error-message = אנחנו עובדים על פתרון הבעיה. נא לבדוק שוב בקרוב.
 shopping-message-bar-warning-not-enough-reviews-title = אין מספיק סקירות עדיין
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = בתהליך בדיקת אי�
 shopping-message-bar-analysis-in-progress-message2 = פעולה זו יכולה להימשך כ־60 שניות.
 shopping-message-bar-page-not-supported-title = אין באפשרותנו לבדוק סקירות אלה
 shopping-message-bar-page-not-supported-message = למרבה הצער, איננו יכולים לבדוק את איכות הסקירות עבור סוגים מסויימים של מוצרים. למשל, כרטיסי מתנה והזרמת וידאו, מוזיקה ומשחקים.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = פתיחת הכלי המנתח ב־{ -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = סקירות בל�
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = פתיחת סרגל הקניות הצדדי
-shopping-sidebar-close-button =
-    .tooltiptext = סגירת סרגל הקניות הצדדי
+shopping-sidebar-open-button2 =
+    .tooltiptext = פתיחת בודק הסקירות
+shopping-sidebar-close-button2 =
+    .tooltiptext = סגירת בודק הסקירות
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -167,3 +159,25 @@ shopping-callout-pdp-opted-in-title = האם הסקירות האלו אמינו�
 shopping-callout-pdp-opted-in-subtitle = ניתן לפתוח את בודק הסקירות כדי לראות דירוג מותאם עם סקירות לא אמינות שהוסרו. בנוסף, ניתן לראות דגשים מסקירות אותנטיות אחרונות.
 shopping-callout-closed-not-opted-in-title = לחיצה אחת לסקירות אמינות
 shopping-callout-closed-not-opted-in-subtitle = נסו את בודק הסקירות בכל פעם שיוצג תג המחיר. קבלו תובנות מקונים אמיתיים במהירות - לפני הרכישה.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = נסו את המדריך המהימן שלנו לסקירות מוצרים
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = ניתן לבדוק עד כמה ביקורות מוצר אמינות ב־<b>{ $currentSite }</b> לפני הקנייה. בודק הסקירות, תכונה ניסיונית מאת { -vendor-short-name }, מובנה ישירות ב־{ -brand-product-name } - והוא עובד גם על <b>{ $secondSite }</b> ו־<b>{ $thirdSite }</b>.
+shopping-onboarding-body = באמצעות הכוח של { -fakespot-brand-full-name }, אנו עוזרים לך להימנע מסקירות מוטות ולא אותנטיות. מודל הבינה המלאכותית שלנו משתפר תמיד כדי להגן עליך בזמן הקנייה. <a data-l10n-name="learn_more">מידע נוסף</a>
+shopping-onboarding-opt-in-button = כן, ארצה לנסות
+shopping-onboarding-not-now-button = לא כעת
+shopping-onboarding-dialog-close-button =
+    .title = סגירה
+    .aria-label = סגירה
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = התקדמות: שלב { $current } מתוך { $total }
