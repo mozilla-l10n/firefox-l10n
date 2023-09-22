@@ -165,3 +165,14 @@ shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole een
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Probeer onze vertrouwde gids voor productbeoordelingen
+shopping-onboarding-opt-in-button = Ja, proberen
+shopping-onboarding-not-now-button = Niet nu
+shopping-onboarding-dialog-close-button =
+    .title = Sluiten
+    .aria-label = Sluiten
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Voortgang: stap { $current } van { $total }
