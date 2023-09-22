@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Frissítések érhetők el
-shopping-message-bar-warning-stale-analysis-message = Indítsa el a { -fakespot-brand-full-name } elemzőt, hogy friss információkat kapjon körülbelül 60 másodperc alatt.
+shopping-message-bar-warning-stale-analysis-message-2 = Új ellenőrizendő információk
+shopping-message-bar-warning-stale-analysis-button = Ellenőrzés most
 shopping-message-bar-generic-error-title2 = Jelenleg nem érhető el információ
 shopping-message-bar-generic-error-message = Dolgozunk a probléma megoldásán. Nézzen vissza később.
 shopping-message-bar-warning-not-enough-reviews-title = Még nincs elég értékelés
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Értékelési minőség ellen
 shopping-message-bar-analysis-in-progress-message2 = Ez körülbelül 60 másodpercig tarthat.
 shopping-message-bar-page-not-supported-title = Nem tudjuk ellenőrizni ezeket az értékeléseket
 shopping-message-bar-page-not-supported-message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Elemző indítása ezen: { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Nem megbízható �
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Vásárlási oldalsáv megnyitása
-shopping-sidebar-close-button =
-    .tooltiptext = Vásárlási oldalsáv bezárása
+shopping-sidebar-open-button2 =
+    .tooltiptext = Értékelés-ellenőrző megnyitása
+shopping-sidebar-close-button2 =
+    .tooltiptext = Értékelés-ellenőrző bezárása
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -171,3 +163,14 @@ shopping-callout-pdp-opted-in-title = Megbízhatók ezek az értékelések? Tudj
 shopping-callout-pdp-opted-in-subtitle = Nyissa meg az értékelés-ellenőrzőt a módosított értékelés megtekintéséhez, amelyből el lettek távolítva a megbízhatatlan értékelések. Továbbá, nézze meg a legutóbbi hiteles értékelések legfontosabb elemeit.
 shopping-callout-closed-not-opted-in-title = Egy kattintás a megbízható értékelésekhez
 shopping-callout-closed-not-opted-in-subtitle = Próbálja ki az értékelés-ellenőrzőt, ha látja az árat. Kapjon gyorsan betekintést a valódi vevőktől – még a vásárlás előtt.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Próbálja ki megbízható termékértékelési útmutatónkat
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a termékértékelések a(z) <b>{ $currentSite }</b> oldalon. Az értékelés-ellenőrző, a { -vendor-short-name } kísérleti funkciója, közvetlenül a { -brand-product-name }ba van építve – és működik a következő oldalakon is: <b>{ $secondSite }</b> és <b>{ $thirdSite }</b>.
+shopping-onboarding-body = A { -fakespot-brand-full-name } erejét használva segítünk elkerülni az elfogult és a nem hiteles értékeléseket. Az MI modellünket folyamatosan fejlesztjük, hogy megvédjük Önt vásárlás közben. <a data-l10n-name="learn_more">További tudnivalók</a>

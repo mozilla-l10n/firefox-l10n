@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Hivatkozás másolása
     .accesskey = H
 fxviewtabrow-close-tab = Lap bezárása
     .accesskey = b
+fxviewtabrow-move-tab = Lap áthelyezése
+    .accesskey = h
+fxviewtabrow-move-tab-start = Áthelyezés az elejére
+    .accesskey = e
+fxviewtabrow-move-tab-end = Áthelyezés a végére
+    .accesskey = v
+fxviewtabrow-move-tab-window = Áthelyezés új ablakba
+    .accesskey = a
+fxviewtabrow-send-tab = Lap küldése eszközre
+    .accesskey = k
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
