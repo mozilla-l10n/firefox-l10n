@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Updates beschikbaar
-shopping-message-bar-warning-stale-analysis-message = Start de { -fakespot-brand-full-name }-analysator om binnen ongeveer 60 seconden bijgewerkte informatie te krijgen.
+shopping-message-bar-warning-stale-analysis-message-2 = Nieuwe te controleren informatie
+shopping-message-bar-warning-stale-analysis-button = Nu controleren
 shopping-message-bar-generic-error-title2 = Er is momenteel geen info beschikbaar
 shopping-message-bar-generic-error-message = We werken eraan om het probleem op te lossen. Kom binnenkort nog eens terug.
 shopping-message-bar-warning-not-enough-reviews-title = Nog niet genoeg beoordelingen
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Beoordelingskwaliteit control
 shopping-message-bar-analysis-in-progress-message2 = Dit kan ongeveer 60 seconden duren.
 shopping-message-bar-page-not-supported-title = We kunnen deze beoordelingen niet controleren
 shopping-message-bar-page-not-supported-message = Helaas kunnen we de beoordelingskwaliteit voor bepaalde soorten producten niet controleren. Dit betreft bijvoorbeeld cadeaubonnen en streaming video, muziek en games.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = De analysator starten op { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Onbetrouwbare beoo
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Winkelzijbalk openen
-shopping-sidebar-close-button =
-    .tooltiptext = Winkelzijbalk sluiten
+shopping-sidebar-open-button2 =
+    .tooltiptext = Beoordelingscontrole openen
+shopping-sidebar-close-button2 =
+    .tooltiptext = Beoordelingscontrole sluiten
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,7 @@ shopping-callout-pdp-opted-in-title = Zijn deze beoordelingen betrouwbaar? Ontde
 shopping-callout-pdp-opted-in-subtitle = Open de beoordelingscontrole om een aangepaste waardering te zien waaruit onbetrouwbare beoordelingen zijn verwijderd. Plus, bekijk hoogtepunten uit recente authentieke beoordelingen.
 shopping-callout-closed-not-opted-in-title = Eén klik naar betrouwbare beoordelingen
 shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole eens uit wanneer u het prijskaartje ziet. Krijg snel inzichten van echte klanten – voordat u iets koopt.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Probeer onze vertrouwde gids voor productbeoordelingen
