@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Actualizaciones disponibles
-shopping-message-bar-warning-stale-analysis-message = Inicie el analizador { -fakespot-brand-full-name } para obtener información actualizada en aproximadamente 60 segundos.
+shopping-message-bar-warning-stale-analysis-message-2 = Nueva información para verificar
+shopping-message-bar-warning-stale-analysis-button = Verificar ahora
 shopping-message-bar-generic-error-title2 = No hay información disponible en este momento
 shopping-message-bar-generic-error-message = Estamos trabajando para resolver este problema. Vuelva pronto.
 shopping-message-bar-warning-not-enough-reviews-title = Aún no hay suficientes revisiones
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Verificando la calidad de la 
 shopping-message-bar-analysis-in-progress-message2 = Esto puede tardar unos 60 segundos.
 shopping-message-bar-page-not-supported-title = No podemos comprobar estas revisiones
 shopping-message-bar-page-not-supported-message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Iniciar el analizador en { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Revisiones poco fi
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Abrir barra lateral de compras
-shopping-sidebar-close-button =
-    .tooltiptext = Cerrar barra lateral de compras
+shopping-sidebar-open-button2 =
+    .tooltiptext = Abrir el verificador de reseñas
+shopping-sidebar-close-button2 =
+    .tooltiptext = Cerrar el verificador de reseñas
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,7 @@ shopping-callout-pdp-opted-in-title = ¿Son confiables estas revisiones? Descúb
 shopping-callout-pdp-opted-in-subtitle = Abra el verificador de reseñas para ver una calificación ajustada con las revisiones no confiables eliminadas. Además, vea los aspectos más destacados de revisiones auténticas recientes.
 shopping-callout-closed-not-opted-in-title = Un clic para obtener revisiones confiables
 shopping-callout-closed-not-opted-in-subtitle = Pruebe el verificador de revisiones cada vez que vea la etiqueta de precio. Obtenga rápidamente información de compradores reales, antes de comprar.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Pruebe nuestra guía confiable de reseñas de productos
