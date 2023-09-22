@@ -67,7 +67,7 @@ move-to-end =
     .label = 移動至結尾
     .accesskey = E
 move-to-new-window =
-    .label = 移動到新視窗
+    .label = 移動至新視窗
     .accesskey = W
 tab-context-close-multiple-tabs =
     .label = 關閉多個分頁
@@ -99,7 +99,6 @@ tab-context-move-tabs =
            *[other] 移動分頁
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->

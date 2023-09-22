@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = 已推出更新
-shopping-message-bar-warning-stale-analysis-message = 啟動 { -fakespot-brand-full-name } 分析器，即可在 60 秒內獲得更新資訊。
+shopping-message-bar-warning-stale-analysis-message-2 = 要檢查的新資訊
+shopping-message-bar-warning-stale-analysis-button = 立刻檢查
 shopping-message-bar-generic-error-title2 = 目前沒有可用資訊
 shopping-message-bar-generic-error-message = 我們正在努力解決此問題，請稍候再回來。
 shopping-message-bar-warning-not-enough-reviews-title = 還沒有足夠的評論數
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = 正在檢查評論品質
 shopping-message-bar-analysis-in-progress-message2 = 可能需要 60 秒左右的時間。
 shopping-message-bar-page-not-supported-title = 我們無法檢查這些評論
 shopping-message-bar-page-not-supported-message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = 到 { -fakespot-website-name } 啟動分析器
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = 評論不可靠。
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = 開啟購物側邊欄
-shopping-sidebar-close-button =
-    .tooltiptext = 關閉購物側邊欄
+shopping-sidebar-open-button2 =
+    .tooltiptext = 開啟商品評論檢查器
+shopping-sidebar-close-button2 =
+    .tooltiptext = 關閉商品評論檢查器
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,18 @@ shopping-callout-pdp-opted-in-title = 這些商品評論可靠嗎？快速確認
 shopping-callout-pdp-opted-in-subtitle = 開啟商品評論檢查器來確認移除不可靠的評論後的校正評分，以及根據近期的可靠評論所整理的重點。
 shopping-callout-closed-not-opted-in-title = 點一下即可看到可靠的商品評論
 shopping-callout-closed-not-opted-in-subtitle = 看到標價的時候，就可以試用看看商品評論檢查器。在購買之前快速確認實際購買商品的顧客評論。
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = 試用我們可信任的商品評論
+shopping-onboarding-opt-in-button = 好，試用看看
+shopping-onboarding-not-now-button = 現在不要
+shopping-onboarding-dialog-close-button =
+    .title = 關閉
+    .aria-label = 關閉
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = 進度：第 { $current } 步，共 { $total } 步
