@@ -174,7 +174,7 @@ shopping-onboarding-headline = Próbálja ki megbízható termékértékelési �
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a termékértékelések a(z) <b>{ $currentSite }</b> oldalon. Az értékelés-ellenőrző, a { -vendor-short-name } kísérleti funkciója, közvetlenül a { -brand-product-name }ba van építve – és működik a következő oldalakon is: <b>{ $secondSite }</b> és <b>{ $thirdSite }</b>.
 shopping-onboarding-body = A { -fakespot-brand-full-name } erejét használva segítünk elkerülni az elfogult és a nem hiteles értékeléseket. Az MI modellünket folyamatosan fejlesztjük, hogy megvédjük Önt vásárlás közben. <a data-l10n-name="learn_more">További tudnivalók</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-full-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-full-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-onboarding-opt-in-button = Igen, kipróbálom
 shopping-onboarding-not-now-button = Most nem
 shopping-onboarding-dialog-close-button =
