@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = העתקת קישור
     .accesskey = ע
 fxviewtabrow-close-tab = סגירת לשונית
     .accesskey = ס
+fxviewtabrow-move-tab = העברת לשונית
+    .accesskey = ה
+fxviewtabrow-move-tab-start = העברה להתחלה
+    .accesskey = ת
+fxviewtabrow-move-tab-end = העברה לסוף
+    .accesskey = ס
+fxviewtabrow-move-tab-window = העברה לחלון חדש
+    .accesskey = ח
+fxviewtabrow-send-tab = שליחת לשונית למכשיר
+    .accesskey = ש
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
