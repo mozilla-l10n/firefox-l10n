@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } fann ekki neinar
 ##
 
 firefox-relay-must-login-to-fxa = Þú verður að skrá þig inn á { -fxaccount-brand-name } til að nota { -relay-brand-name }.
+firefox-relay-must-login-to-account = Skráðu þig inn á reikninginn þinn til að nota { -relay-brand-name } tölvupósthulurnar þínar.
 firefox-relay-get-unlimited-masks =
     .label = Sýsla með tölvupósthulur
     .accesskey = m
