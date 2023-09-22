@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Wotkaz kopěrować
     .accesskey = o
 fxviewtabrow-close-tab = Rajtark začinić
     .accesskey = z
+fxviewtabrow-move-tab = Rajtark přesunyć
+    .accesskey = R
+fxviewtabrow-move-tab-start = K spočatkej přesunyć
+    .accesskey = s
+fxviewtabrow-move-tab-end = Ke kóncej přesunyć
+    .accesskey = n
+fxviewtabrow-move-tab-window = Do noweho wokna přesunyć
+    .accesskey = w
+fxviewtabrow-send-tab = Rajtark na grat pósłać
+    .accesskey = t
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
-shopping-message-bar-warning-stale-analysis-message = Startujće analyzator { -fakespot-brand-full-name }. zo byšće za přibližnje 60 sekundow aktualne informacije dóstał.
+shopping-message-bar-warning-stale-analysis-message-2 = Nowe informacije, kotrež so maja přepruwować
+shopping-message-bar-warning-stale-analysis-button = Nětko kontrolować
 shopping-message-bar-generic-error-title2 = Tuchwilu informacije k dispoziciji njejsu
 shopping-message-bar-generic-error-message = Dźěłamy na rozrisanju tutoho problema. Hladajće prošu bórze zaso za tym.
 shopping-message-bar-warning-not-enough-reviews-title = Hišće dosć pohódnoćenjow njeje
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pohódnoćen
 shopping-message-bar-analysis-in-progress-message2 = To móhło na 60 sekundow trać.
 shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
 shopping-message-bar-page-not-supported-message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Analyzator na { -fakespot-website-name } startować
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Njespušćomne poh
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Nakupowansku bóčnicu wočinić
-shopping-sidebar-close-button =
-    .tooltiptext = Nakupowansku bóčnicu začinić
+shopping-sidebar-open-button2 =
+    .tooltiptext = Kontrolu pohódnoćenjow wočinić
+shopping-sidebar-close-button2 =
+    .tooltiptext = Kontrolu pohódnoćenjow začinić
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -171,3 +163,19 @@ shopping-callout-pdp-opted-in-title = Su tute pohódnoćenja spušćomne? Wuslě
 shopping-callout-pdp-opted-in-subtitle = Wočińće kontrolu pohódnoćenjow, zo byšće přiměrjene hódnoćenje z wotstronjenymi njespušćomnymi pohódnoćenjemi. Wobhladajće sej nimo toho  wjerški z najnowšich awtentiskich pohódnoćenjow.
 shopping-callout-closed-not-opted-in-title = Jedne kliknjenje do spušćomnych pohódnoćenjow
 shopping-callout-closed-not-opted-in-subtitle = Dajće kontroli pohódnoćenjow šansu, hdyžkuli płaćiznowu tafličku widźiće. Dóstańće spěšnje dohlady wot woprawdźitych nakupowarjow – prjedy hač kupujeće.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Čitajće naš dowěry hódny přewodnik wo pohódnoćenjach produktow
+shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomhamy wam, předzajate a njeawtentiske pohódnoćenja wobeńć. Naš model KI so stajnje polěpšuje, zo by was škitał, hdyž nakupujeće. <a data-l10n-name="learn_more">Dalše informacije</a>
+shopping-onboarding-opt-in-button = Haj, wupruwować
+shopping-onboarding-not-now-button = Nic nětko
+shopping-onboarding-dialog-close-button =
+    .title = Začinić
+    .aria-label = Začinić
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Postup: krok { $current } z { $total }
