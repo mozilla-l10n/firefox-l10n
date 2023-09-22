@@ -98,6 +98,7 @@ appmenuitem-fxa-sign-in =
     }
 appmenuitem-fxa-manage-account = Správa účtu
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Účet
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
