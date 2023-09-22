@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Uppfærslur í boði
-shopping-message-bar-warning-stale-analysis-message = Ræstu { -fakespot-brand-full-name } greininguna til að fá uppfærðar upplýsingar á um 60 sekúndum.
+shopping-message-bar-warning-stale-analysis-message-2 = Nýjar upplýsingar til að skoða
+shopping-message-bar-warning-stale-analysis-button = Athuga núna
 shopping-message-bar-generic-error-title2 = Engar upplýsingar tiltækar í augnablikinu
 shopping-message-bar-generic-error-message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
 shopping-message-bar-warning-not-enough-reviews-title = Ekki nægar umsagnir ennþá
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Athugar gæði umsagna
 shopping-message-bar-analysis-in-progress-message2 = Þetta gæti tekið um 60 sekúndur.
 shopping-message-bar-page-not-supported-title = Við getum ekki athugað þessar umsagnir
 shopping-message-bar-page-not-supported-message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Keyra greiningu á { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Óáreiðanlegar u
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Opna verslunarhliðarstiku
-shopping-sidebar-close-button =
-    .tooltiptext = Loka verslunarhliðarstiku
+shopping-sidebar-open-button2 =
+    .tooltiptext = Opna umsagnaskoðun
+shopping-sidebar-close-button2 =
+    .tooltiptext = Loka umsagnaskoðun
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -166,3 +158,20 @@ shopping-survey-thanks-message = Takk fyrir álit þitt!
 
 shopping-callout-pdp-opted-in-title = Eru þessar umsagnir áreiðanlegar? Finndu fljótt út úr því.
 shopping-callout-closed-not-opted-in-title = Einn smellur til að fá áreiðanlegar umsagnir
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Prófaðu traustar leiðbeiningar okkar um vöruumsagnir
+shopping-onboarding-body = Með hjálp { -fakespot-brand-full-name } frá Mozilla, gerum við þér kleift að forðast hlutdrægar og ósannar umsagnir. Gervigreindarlíkanið okkar er alltaf að batna til að vernda þig sem best þegar þú verslar. <a data-l10n-name="learn_more">Frekari upplýsingar</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-button = Já, prófum það
+shopping-onboarding-not-now-button = Ekki núna
+shopping-onboarding-dialog-close-button =
+    .title = Loka
+    .aria-label = Loka
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Framvinda: skref { $current } af { $total }
