@@ -43,6 +43,7 @@ about-logging-preset-media-playback-description = โมดูลบันทึ
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = โมดูลบันทึกสำหรับวินิจฉัยการเรียก WebRTC
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = โมดูลบันทึกสำหรับวินิจฉัยปัญหา WebGPU
 about-logging-preset-custom-label = กำหนดเอง
 about-logging-preset-custom-description = โมดูลบันทึกที่เลือกด้วยตนเอง
 # Error handling
