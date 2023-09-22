@@ -220,7 +220,7 @@ set-default-pdf-handler-primary = තේරුණා
 ## FxA sync CFR
 
 fxa-sync-cfr-header = අනාගතයේදී අළුත් උපාංගයක්?
-fxa-sync-cfr-body = නව { -brand-product-name } අතිරික්සුවක් විවෘත කරන ඕනෑම වේලාවක ඔබගේ පොත්යොමු, මුරපද සහ පටිති ලැබෙන බවට වග බලා ගන්න.
+fxa-sync-cfr-body = නව { -brand-product-name } අතිරික්සුවක් විවෘත කරන සැමවිට ඔබගේ පොත්යොමු, මුරපද සහ පටිති ලැබෙන බවට වග බලා ගන්න.
 fxa-sync-cfr-primary = තව දැනගන්න
     .accesskey = L
 fxa-sync-cfr-secondary = පසුව මතක් කරන්න

@@ -80,15 +80,15 @@ appmenu-remote-tabs-showmore =
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = විවෘත පටිති නැත.
 # This is shown when Sync is configured but syncing tabs is disabled.
-appmenu-remote-tabs-tabsnotsyncing = ඔබගේ අන් උපාංගවල පටිති ලේඛනයක් දැකීමට සමමුහූර්තය සක්‍රිය කරන්න.
+appmenu-remote-tabs-tabsnotsyncing = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනයක් දැකීමට සමමුහූර්තය සක්‍රිය කරන්න.
 appmenu-remote-tabs-opensettings =
     .label = සැකසුම්
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
-appmenu-remote-tabs-noclients = වෙනත් උපාංගයකින් ඔබගේ පටිති බැලීමට අවශ්‍යද?
+appmenu-remote-tabs-noclients = ඔබගේ වෙනත් උපාංගවල පටිති බැලීමට වුවමනාද?
 appmenu-remote-tabs-connectdevice =
     .label = අන් උපාංගයක් සබඳින්න
-appmenu-remote-tabs-welcome = ඔබගේ අනෙකුත් උපාංග වලින් පටිති ලේඛනයක් බලන්න.
+appmenu-remote-tabs-welcome = ඔබගේ අනෙකුත් උපාංගවල පටිති ලේඛනයක් බලන්න.
 appmenu-remote-tabs-unverified = ඔබගේ ගිණුම සත්‍යාපනය කළ යුතුයි.
 appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
