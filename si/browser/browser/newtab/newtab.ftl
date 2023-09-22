@@ -22,18 +22,18 @@ newtab-search-box-search-button =
     .aria-label = සොයන්න
 # Variables:
 #   $engine (string) - The name of the user's default search engine
-newtab-search-box-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
-newtab-search-box-handoff-text-no-engine = සොයන්න හෝ ලිපිනය යොදන්න
+newtab-search-box-handoff-text = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
+newtab-search-box-handoff-text-no-engine = සොයන්න හෝ ලිපිනය ලියන්න
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
-    .placeholder = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
-    .title = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
-    .aria-label = { $engine } සමඟ සොයන්න හෝ ලිපිනය යොදන්න
+    .placeholder = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
+    .title = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
+    .aria-label = { $engine } සමඟ සොයන්න හෝ ලිපිනය ලියන්න
 newtab-search-box-handoff-input-no-engine =
-    .placeholder = සොයන්න හෝ ලිපිනය යොදන්න
-    .title = සොයන්න හෝ ලිපිනය යොදන්න
-    .aria-label = සොයන්න හෝ ලිපිනය යොදන්න
+    .placeholder = සොයන්න හෝ ලිපිනය ලියන්න
+    .title = සොයන්න හෝ ලිපිනය ලියන්න
+    .aria-label = සොයන්න හෝ ලිපිනය ලියන්න
 newtab-search-box-text = සොයන්න
 newtab-search-box-input =
     .placeholder = සොයන්න
