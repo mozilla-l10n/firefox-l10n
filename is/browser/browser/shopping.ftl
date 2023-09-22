@@ -139,11 +139,13 @@ ad-by-fakespot = Auglýsing frá { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Hjálpaðu til við að bæta { -brand-product-name }
+shopping-survey-question-one = Hversu ánægður ertu með upplifunina af umsagnaskoðuninni í { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Mjög ánægð/ur
 shopping-survey-q1-radio-2-label = Ánægð/ur
 shopping-survey-q1-radio-3-label = Hlutlaus
 shopping-survey-q1-radio-4-label = Óánægð/ur
 shopping-survey-q1-radio-5-label = Mjög óánægð/ur
+shopping-survey-question-two = Auðveldar umsagnaskoðunin þér að taka ákvarðanir um innkaup?
 shopping-survey-q2-radio-1-label = Já
 shopping-survey-q2-radio-2-label = Nei
 shopping-survey-q2-radio-3-label = Veit ekki
@@ -156,6 +158,7 @@ shopping-survey-thanks-message = Takk fyrir álit þitt!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Farðu aftur í <strong>umsagnaskoðun</strong> þegar þú sérð verðmiða.
 shopping-callout-pdp-opted-in-title = Eru þessar umsagnir áreiðanlegar? Finndu fljótt út úr því.
 shopping-callout-closed-not-opted-in-title = Einn smellur til að fá áreiðanlegar umsagnir
 

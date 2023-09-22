@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Aukin rakningarvörn
 content-blocking-section-top-level-description = Rekjarar fylgjast með þér á netinu til að safna upplýsingum um vafurvenjur þínar og áhugamál. { -brand-short-name } hindrar marga af þessum rekjurum og auk annarra skaðlegra skrifta.
 content-blocking-learn-more = Frekari upplýsingar
 content-blocking-fpi-incompatibility-warning = Þú ert að nota First Party Isolation (FPI), sem er æðra en sumar af vefkökustillingum { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Þú ert að nota 'Resist Fingerprinting' (RFP), sem kemur í stað sumra stillinga á vörnum gegnfingrafarasöfnun í { -brand-short-name }. Þetta gæti valdið því að sumar síður virki ekki.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
