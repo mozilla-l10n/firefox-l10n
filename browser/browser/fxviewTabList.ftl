@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Afrita tengil
     .accesskey = l
 fxviewtabrow-close-tab = Loka flipa
     .accesskey = k
+fxviewtabrow-move-tab = Færa flipa
+    .accesskey = p
+fxviewtabrow-move-tab-start = Færa á byrjun
+    .accesskey = b
+fxviewtabrow-move-tab-end = Færa á enda
+    .accesskey = e
+fxviewtabrow-move-tab-window = Færa yfir í nýjan glugga
+    .accesskey = g
+fxviewtabrow-send-tab = Senda flipa á tæki
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
