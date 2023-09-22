@@ -10,6 +10,13 @@ shopping-page-title =
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Kontrola recenzí
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Kontrola recenzí - beta
 shopping-close-button =
     .title = Zavřít
 # This string is for notifying screen reader users that the
@@ -35,33 +42,23 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Dostupné aktualizace
-shopping-message-bar-warning-stale-analysis-message = Spusťte analýzu { -fakespot-brand-full-name } pro načtení aktuálních informací za přibližně 60 sekund.
-shopping-message-bar-generic-error-title = Analýza není v tuto chvíli k dispozici
+shopping-message-bar-warning-stale-analysis-message-2 = Nové informace ke zkontrolování
+shopping-message-bar-warning-stale-analysis-button = Zkontrolovat
+shopping-message-bar-generic-error-title2 = V tuto chvíli nejsou k dispozici žádné informace
 shopping-message-bar-generic-error-message = Pracujeme na vyřešení problému. Zkuste to prosím později.
 shopping-message-bar-warning-not-enough-reviews-title = Zatím nemá dostatek recenzí
-shopping-message-bar-warning-not-enough-reviews-message = Až bude mít tento produkt více recenzí, budeme je moci analyzovat.
+shopping-message-bar-warning-not-enough-reviews-message2 = Až bude mít tento produkt více recenzí, budeme moci zkontrolovat jejich kvalitu.
 shopping-message-bar-warning-product-not-available-title = Produkt není k dispozici
-shopping-message-bar-warning-product-not-available-message = Pokud zjistíte, že je tento produkt opět skladem, nahlaste nám to a my se pokusíme analýzu aktualizovat.
+shopping-message-bar-warning-product-not-available-message2 = Pokud zjistíte, že je tento produkt opět skladem, nahlaste to a my se pokusíme recenze zkontrolovat.
 shopping-message-bar-warning-product-not-available-button = Nahlaste, že je tento produkt opět skladem
 shopping-message-bar-thanks-for-reporting-title = Děkujeme za nahlášení!
-shopping-message-bar-thanks-for-reporting-message = Aktualizovanou analýzu bychom měli mít k dispozici během 24 hodin. Zkuste to prosím později.
-shopping-message-bar-warning-product-not-available-reported-title = Analýza bude brzy k dispozici
-shopping-message-bar-warning-product-not-available-reported-message = Aktualizovaná analýza by měla být připravena během 24 hodin. Zkuste to prosím později.
-shopping-message-bar-warning-offline-title = Žádné připojení k síti
-shopping-message-bar-warning-offline-message = Zkontrolujte své připojení k síti. Potom zkuste obnovit stránku.
-shopping-message-bar-analysis-in-progress-title = Analýza bude brzy k dispozici
-shopping-message-bar-analysis-in-progress-message = Po dokončení se zde automaticky zobrazí aktualizované informace.
+shopping-message-bar-thanks-for-reporting-message2 = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informace již brzy
+shopping-message-bar-warning-product-not-available-reported-message2 = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
+shopping-message-bar-analysis-in-progress-title2 = Kontroluje se kvalita recenzí
+shopping-message-bar-analysis-in-progress-message2 = Může to trvat asi 60 sekund.
 shopping-message-bar-page-not-supported-title = Tyto recenze nemůžeme zkontrolovat
 shopping-message-bar-page-not-supported-message = Kvalitu recenzí některých typů produktů bohužel nemůžeme kontrolovat. Například dárkové karty a streamovaná videa, hudbu a hry.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Spustit analýzu na { -fakespot-website-name(case: "loc") }
 
 ## Strings for the product review snippets card
 
@@ -90,6 +87,8 @@ powered-by-fakespot = Kontrolu recenzí zajišťuje <a data-l10n-name="fakespot-
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Upravené hodnocení
 shopping-adjusted-rating-unreliable-reviews = Nespolehlivé recenze odebrány
@@ -103,9 +102,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Jak určujeme kvalitu recenze
-shopping-analysis-explainer-intro =
-    K analýze spolehlivosti recenzí produktů používáme technologii AI od { -fakespot-brand-full-name(case: "gen") }.
-    Tato analýza vám pomůže posoudit pouze kvalitu recenze, nikoli kvalitu produktu.
+shopping-analysis-explainer-intro2 = Ke kontrole spolehlivosti recenzí produktů používáme technologii AI od { -fakespot-brand-full-name }. To vám pomůže posoudit pouze kvalitu recenzí, nikoli kvalitu produktu.
 shopping-analysis-explainer-grades-intro = Recenzím každého produktu přidělujeme <strong>známku písmenem</strong> od A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnocení</strong> je založeno pouze na recenzích, které považujeme za spolehlivé.
 shopping-analysis-explainer-learn-more = Přečtěte si další informace o tom, <a data-l10n-name="review-quality-url">jak { -fakespot-brand-full-name } určuje kvalitu recenze</a>.
@@ -119,10 +116,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Nespolehlivé rece
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Otevřít postranní lištu nakupování
-shopping-sidebar-close-button =
-    .tooltiptext = Zavřít postranní lištu nakupování
+shopping-sidebar-open-button2 =
+    .tooltiptext = Otevřít kontrolu recenzí
+shopping-sidebar-close-button2 =
+    .tooltiptext = Zavřít kontrolu recenzí
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -131,12 +128,35 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Analýza těchto recenzí ještě neexistuje
-shopping-unanalyzed-product-message = Spusťte analýzu pomocí { -fakespot-brand-full-name(case: "gen") } a přibližně za 60 sekund budete vědět, zda jsou recenze tohoto produktu spolehlivé.
-shopping-unanalyzed-product-analyze-link = Spustit analýzu na { -fakespot-website-name(case: "loc") }
+shopping-unanalyzed-product-header-2 = Zatím žádné informace o těchto recenzích
+shopping-unanalyzed-product-message-2 = Chcete-li zjistit, zda jsou recenze tohoto produktu spolehlivé, zkontrolujte kvalitu recenzí. Zabere to jen asi 60 sekund.
+shopping-unanalyzed-product-analyze-button = Zkontrolovat kvalitu recenzí
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Další ke zvážení
 ad-by-fakespot = Reklama od { -fakespot-brand-name(case: "gen") }
+
+## Shopping survey strings.
+
+shopping-survey-q1-radio-1-label = Velmi spokojený
+shopping-survey-q1-radio-2-label = Spokojený
+shopping-survey-q1-radio-3-label = Neutrální
+shopping-survey-q1-radio-4-label = Nespokojený
+shopping-survey-q1-radio-5-label = Velmi nespokojený
+shopping-survey-q2-radio-1-label = Ano
+shopping-survey-q2-radio-2-label = Ne
+shopping-survey-q2-radio-3-label = Nevím
+shopping-survey-next-button-label = Další
+shopping-survey-submit-button-label = Odeslat
+shopping-survey-terms-link = Zásady používání
+shopping-survey-thanks-message = Děkujeme za vaši zpětnou vazbu!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+
