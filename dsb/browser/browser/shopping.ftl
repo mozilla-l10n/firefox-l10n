@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Aktualizacije k dispoziciji
-shopping-message-bar-warning-stale-analysis-message = Startujśo analyzator { -fakespot-brand-full-name }. aby za pśibližnje 60 sekundow aktualne informacije dostał.
+shopping-message-bar-warning-stale-analysis-message-2 = Nowe informacije, kótarež se maju pśeglědowaś
+shopping-message-bar-warning-stale-analysis-button = Něnto kontrolěrowaś
 shopping-message-bar-generic-error-title2 = Tuchylu informacije njejsu k dispoziciji
 shopping-message-bar-generic-error-message = Źěłamy na rozwězanju toś togo problema. Pśiźćo pšosym skóro zasej mimo.
 shopping-message-bar-warning-not-enough-reviews-title = Hyšći njejo dosć pógódnośenjow
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pógódnośe
 shopping-message-bar-analysis-in-progress-message2 = To mógło na 60 sekundow traś.
 shopping-message-bar-page-not-supported-title = Njamóžomy toś te pógódnośenja pśeglědowaś
 shopping-message-bar-page-not-supported-message = Bóžko  njamóžomy kwalitu pógódnośenja za wěste produktowe typy kontrolěrowaś. Na pśikład za darjeńske kórty a tšugajuce wideo, muziku a graśa.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Analyzator na { -fakespot-website-name } startowaś
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Njespušćobne pó
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Nakupowańsku bocnicu wócyniś
-shopping-sidebar-close-button =
-    .tooltiptext = Nakupowańsku bocnicu zacyniś
+shopping-sidebar-open-button2 =
+    .tooltiptext = Kontrolu pógódnośenjow wócyniś
+shopping-sidebar-close-button2 =
+    .tooltiptext = Kontrolu pógódnośenjow zacyniś
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -171,3 +163,17 @@ shopping-callout-pdp-opted-in-title = Su toś te pógódnośenja spušćobne? Wu
 shopping-callout-pdp-opted-in-subtitle = Wócyńśo kontrolu pógódnośenjow, aby pśiměrjone gódnośenje z wótwónoźonymi njespušćobnymi pógódnośenjami. Woglědajśo se mimo togo  wjerški z nejnowšych awtentiskich pógódnośenjow.
 shopping-callout-closed-not-opted-in-title = Jadno kliknjenje do spušćobnych pógódnośenjow
 shopping-callout-closed-not-opted-in-subtitle = Dajśo kontroli pógódnośenjow šansu, gažkuli płaśiznowu toflicku wiźiśo. Dostańśo malsnje doglědy wót wopšawdnych nakupowarjow – nježli až kupujośo.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Cytajśo naš dowěry gódny pśewodnik wó pógódnośenjach produktow
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Glědajśo, kak spušćobne produktowe pógódnośenja su na <b>{ $currentSite }</b>, nježli až kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija wót { -vendor-short-name }, jo w { -brand-product-name } zatwarjona – a funkcioněrujo teke na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomagamy wam, se njeawtentiskich pógódnośenjow a pógódnośenjow połnych pśedsudkow wobinuś. Naš model KI se stawnje pólěpšujo, aby was šćitał, gaž nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-button = Jo, wopytaś
+shopping-onboarding-not-now-button = Nic něnto
