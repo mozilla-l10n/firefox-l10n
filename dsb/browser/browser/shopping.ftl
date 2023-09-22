@@ -177,3 +177,12 @@ shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, po
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Jo, wopytaś
 shopping-onboarding-not-now-button = Nic něnto
+shopping-onboarding-dialog-close-button =
+    .title = Zacyniś
+    .aria-label = Zacyniś
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Póstup: kšac { $current } z { $total }
