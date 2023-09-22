@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = 업데이트 사용 가능
-shopping-message-bar-warning-stale-analysis-message = { -fakespot-brand-full-name } 분석기를 실행하면 약 60초 안에 업데이트된 정보를 얻을 수 있습니다.
+shopping-message-bar-warning-stale-analysis-message-2 = 확인해야 할 새로운 정보
+shopping-message-bar-warning-stale-analysis-button = 지금 확인
 shopping-message-bar-generic-error-title2 = 현재 사용 가능한 정보가 없음
 shopping-message-bar-generic-error-message = 문제를 해결하기 위해 노력하고 있습니다. 곧 다시 확인하시기 바랍니다.
 shopping-message-bar-warning-not-enough-reviews-title = 아직 리뷰가 충분하지 않음
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = 리뷰 품질 확인 중
 shopping-message-bar-analysis-in-progress-message2 = 이 작업은 약 60초 정도 걸릴 수 있습니다.
 shopping-message-bar-page-not-supported-title = 리뷰를 확인할 수 없음
 shopping-message-bar-page-not-supported-message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = { -fakespot-website-name }에서 분석기 실행
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = 신뢰할 수 없�
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = 쇼핑 사이드바 열기
-shopping-sidebar-close-button =
-    .tooltiptext = 쇼핑 사이드바 닫기
+shopping-sidebar-open-button2 =
+    .tooltiptext = 리뷰 검사기 열기
+shopping-sidebar-close-button2 =
+    .tooltiptext = 리뷰 검사기 닫기
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -171,3 +163,6 @@ shopping-callout-pdp-opted-in-title = 이 리뷰는 신뢰할 수 있나요? 빨
 shopping-callout-pdp-opted-in-subtitle = 신뢰할 수 없는 리뷰가 제거된 조정된 평점을 보려면 리뷰 검사기를 여세요. 또한 최근 실제 리뷰의 하이라이트를 확인하세요.
 shopping-callout-closed-not-opted-in-title = 클릭 한 번으로 신뢰할 수 있는 리뷰를 얻을 수 있습니다.
 shopping-callout-closed-not-opted-in-subtitle = 가격표를 볼 때마다 리뷰 검사기를 사용해 보세요. 구매하기 전에 실제 쇼핑객으로부터 빠르게 통찰력을 얻으세요.
+
+## Onboarding message strings.
+

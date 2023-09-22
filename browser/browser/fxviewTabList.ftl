@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = 링크 복사
     .accesskey = L
 fxviewtabrow-close-tab = 탭 닫기
     .accesskey = C
+fxviewtabrow-move-tab = 탭 이동
+    .accesskey = v
+fxviewtabrow-move-tab-start = 처음으로 이동
+    .accesskey = s
+fxviewtabrow-move-tab-end = 끝으로 이동
+    .accesskey = E
+fxviewtabrow-move-tab-window = 새 창으로 이동
+    .accesskey = W
+fxviewtabrow-send-tab = 탭을 기기로 보내기
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
