@@ -31,33 +31,14 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = 有可用更新
-shopping-message-bar-warning-stale-analysis-message = 启动 { -fakespot-brand-full-name } 分析工具约 60 秒可获得更新后的信息。
-shopping-message-bar-generic-error-title = 暂时无法分析
 shopping-message-bar-generic-error-message = 我们正努力解决此问题，请稍后再试。
 shopping-message-bar-warning-not-enough-reviews-title = 还没有足够数量的评价
-shopping-message-bar-warning-not-enough-reviews-message = 此商品获得更多评价后，我们就能开始分析。
 shopping-message-bar-warning-product-not-available-title = 商品无货
-shopping-message-bar-warning-product-not-available-message = 若您发现此商品已有货，请向我们反馈，以便更新分析结果。
 shopping-message-bar-warning-product-not-available-button = 反馈此商品已有货
 shopping-message-bar-thanks-for-reporting-title = 感谢反馈！
-shopping-message-bar-thanks-for-reporting-message = 我们会在 24 小时内更新分析结果，请记得回来查看。
-shopping-message-bar-warning-product-not-available-reported-title = 分析结果即将就绪
-shopping-message-bar-warning-product-not-available-reported-message = 更新后的分析结果将在 24 小时内提供，请记得回来查看。
-shopping-message-bar-warning-offline-title = 无网络连接
-shopping-message-bar-warning-offline-message = 请检查网络连接，然后尝试重新加载此页面。
-shopping-message-bar-analysis-in-progress-title = 分析结果即将就绪
-shopping-message-bar-analysis-in-progress-message = 完成后，我们会自动将更新后的信息显示在此处。
+shopping-message-bar-warning-product-not-available-reported-title2 = 分析信息即将就绪
 shopping-message-bar-page-not-supported-title = 无法核查这些评价
 shopping-message-bar-page-not-supported-message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = 在 { -fakespot-website-name } 上启动分析工具
 
 ## Strings for the product review snippets card
 
@@ -86,6 +67,8 @@ powered-by-fakespot = 核查评价由<a data-l10n-name="fakespot-link">{ -fakesp
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = 调整后的评分
 shopping-adjusted-rating-unreliable-reviews = 已移除不可信的评价
@@ -99,9 +82,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = 我们判断评价质量的流程
-shopping-analysis-explainer-intro =
-    我们使用 { -fakespot-brand-full-name } 的人工智能技术来分析商品评价的可信度。
-    分析结果只能辅助您评估评价的质量，不能反映商品质量。
+shopping-analysis-explainer-intro2 =
+    我们使用 { -fakespot-brand-full-name } 的人工智能技术来核查商品评价的可信度。
+    核查结果只能辅助您评估评价的质量，不能反映商品质量。
 shopping-analysis-explainer-grades-intro = 我们会以<strong>字母等级</strong>（从 A 到 F）给商品评价打分。
 shopping-analysis-explainer-adjusted-rating-description = <strong>调整后的评分</strong>仅基于我们认为可信的评价作出。
 shopping-analysis-explainer-learn-more = 详细了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 判断评价质量的流程</a>。
@@ -115,10 +98,6 @@ shopping-analysis-explainer-review-grading-scale-unreliable = 评价不可信。
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = 打开购物侧栏
-shopping-sidebar-close-button =
-    .tooltiptext = 关闭购物侧栏
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -127,12 +106,20 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = 尚无对于这些评价的分析
-shopping-unanalyzed-product-message = 启动 { -fakespot-brand-full-name } 分析工具，只需 60 秒即可获知对此商品的评价是否可信。
-shopping-unanalyzed-product-analyze-link = 在 { -fakespot-website-name } 上启动分析工具
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = 可参考其他商品
 ad-by-fakespot = { -fakespot-brand-name } 提供的广告
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+

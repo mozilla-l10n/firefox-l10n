@@ -33,7 +33,7 @@ firefoxview-syncedtabs-signin-description = 登录账户即可查看您在其他
 firefoxview-syncedtabs-signin-primarybutton = 登录或注册
 firefoxview-tabpickup-adddevice-header = 与您的手机或平板电脑同步 { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = 下载移动版 { -brand-product-name } 并登录。
-firefoxview-tabpickup-adddevice-learn-how = 了解如何操作
+firefoxview-tabpickup-adddevice-learn-how = 了解要如何做
 firefoxview-tabpickup-adddevice-primarybutton = 下载 { -brand-product-name } 移动版
 firefoxview-syncedtabs-adddevice-header = 在您的其他设备上登录 { -brand-product-name }
 firefoxview-syncedtabs-adddevice-description = 为您在各设备上使用的 { -brand-product-name } 登录账户，即可查看您在其他设备上打开的标签页。详细了解<a data-l10n-name="url">连接其他设备的方法</a>。
