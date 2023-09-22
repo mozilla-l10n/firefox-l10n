@@ -4,25 +4,20 @@
 
 fxviewtabrow-open-menu-button =
     .title = Apri menu
-
 # Variables:
 #   $date (string) - Date to be formatted based on locale
 fxviewtabrow-date = { DATETIME($date, dateStyle: "short") }
-
 # Variables:
 #   $time (string) - Time to be formatted based on locale
 fxviewtabrow-time = { DATETIME($time, timeStyle: "short") }
-
 # Variables:
 #   $targetURI (string) - URL of tab that will be opened in the new tab
 fxviewtabrow-tabs-list-tab =
     .title = Apri { $targetURI } in una nuova scheda
-
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 fxviewtabrow-dismiss-tab-button =
     .title = Rimuovi { $tabTitle }
-
 # Used instead of the localized relative time when a timestamp is within a minute or so of now
 fxviewtabrow-just-now-timestamp = adesso
 
@@ -46,11 +41,13 @@ fxviewtabrow-copy-link = Copia link
     .accesskey = k
 fxviewtabrow-close-tab = Chiudi scheda
     .accesskey = C
-
+fxviewtabrow-move-tab = Sposta scheda
+    .accesskey = h
+fxviewtabrow-move-tab-start = Sposta all’inizio
+    .accesskey = z
+fxviewtabrow-move-tab-end = Sposta alla fine
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
-  .title = Opzioni per { $tabTitle }
-
-
-
+    .title = Opzioni per { $tabTitle }
