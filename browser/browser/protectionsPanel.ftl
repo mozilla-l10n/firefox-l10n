@@ -103,8 +103,8 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = 反馈网站问题
-protections-panel-content-blocking-breakage-report-view-description = 拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 { -brand-short-name } 为所有人提供更好的体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。 <label data-l10n-name="learn-more">详细了解</label>
-protections-panel-content-blocking-breakage-report-view-description2 = 拦截某些跟踪器可能导致部分网站出现问题。在您反馈故障时，您得以帮助 { -brand-short-name } 为所有人提供更好的体验。发送反馈将会向 { -vendor-short-name } 发送网页的地址及浏览器的有关信息。
+protections-panel-content-blocking-breakage-report-view-description = 拦截某些跟踪器可能导致部分网站出现问题，反馈问题可以帮助改进所有用户的 { -brand-short-name } 使用体验。发送反馈将会向 Mozilla 发送网页的地址及浏览器的有关信息。<label data-l10n-name="learn-more">详细了解</label>
+protections-panel-content-blocking-breakage-report-view-description2 = 拦截某些跟踪器可能导致部分网站出现问题。反馈问题可以帮助 { -brand-short-name } 改善所有用户的体验。发送反馈将会向 { -vendor-short-name } 发送网页的地址及浏览器的有关信息。
 protections-panel-content-blocking-breakage-report-view-collection-url = 网址
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = 网址
