@@ -160,3 +160,15 @@ shopping-survey-thanks-message = Děkujeme za vaši zpětnou vazbu!
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Vyzkoušejte našeho důvěryhodného průvodce recenzemi produktů
+shopping-onboarding-opt-in-button = Ano, vyzkoušet
+shopping-onboarding-not-now-button = Teď ne
+shopping-onboarding-dialog-close-button =
+    .title = Zavřít
+    .aria-label = Zavřít
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Postup: krok { $current } z { $total }
