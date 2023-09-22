@@ -189,3 +189,4 @@ shopping-onboarding-not-now-button = Non adesso
 shopping-onboarding-dialog-close-button =
     .title = Chiudi
     .aria-label = Chiudi
+

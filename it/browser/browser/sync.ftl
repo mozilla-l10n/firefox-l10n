@@ -41,3 +41,4 @@ fxa-menu-send-tab-to-device-description = Invia immediatamente una scheda a qual
 
 fxa-menu-sign-out =
     .label = Disconnetti…
+
