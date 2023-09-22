@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Actualisationes disponibile
-shopping-message-bar-warning-stale-analysis-message = Lancea le analysator { -fakespot-brand-full-name } pro obtener info in circa 60 secundas.
+shopping-message-bar-warning-stale-analysis-message-2 = Nove info a controlar
+shopping-message-bar-warning-stale-analysis-button = Controlar ora
 shopping-message-bar-generic-error-title2 = Nulle info disponibile al momento
 shopping-message-bar-generic-error-message = Nos labora pro resolver le problema. Retenta tosto.
 shopping-message-bar-warning-not-enough-reviews-title = Revisiones ancora non bastante
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Controlante qualitate de rece
 shopping-message-bar-analysis-in-progress-message2 = Isto pote prender circa 60 secundas.
 shopping-message-bar-page-not-supported-title = Nos non pote controlar iste recensiones
 shopping-message-bar-page-not-supported-message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Lancear analysator sur { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recensiones non fi
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Aperir barra lateral de compras
-shopping-sidebar-close-button =
-    .tooltiptext = Clauder barra lateral de compras
+shopping-sidebar-open-button2 =
+    .tooltiptext = Aperir verificator de recension
+shopping-sidebar-close-button2 =
+    .tooltiptext = Clauder verificator de recension
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,18 @@ shopping-callout-pdp-opted-in-title = Es fidabile iste recensiones? Discoperi lo
 shopping-callout-pdp-opted-in-subtitle = Aperi le verificator de recension pro vider un classification adjustate con le recensiones non fidabile removite. In ultra, vide le evidentias de recente recensiones authentic.
 shopping-callout-closed-not-opted-in-title = Un clic pro recensiones fidabile
 shopping-callout-closed-not-opted-in-subtitle = Prova le verificator de recension quandocunque tu vide le etiquetta del precio. Obtene discernimentos ab real compratores facilemente, ante que tu compra.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Prova nostre guida digne de fide pro recensiones de producto
+shopping-onboarding-opt-in-button = Si, essaya lo
+shopping-onboarding-not-now-button = Non ora
+shopping-onboarding-dialog-close-button =
+    .title = Clauder
+    .aria-label = Clauder
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progresso: passo { $current } de { $total }

@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Copiar ligamine
     .accesskey = l
 fxviewtabrow-close-tab = Clauder scheda
     .accesskey = C
+fxviewtabrow-move-tab = Mover scheda
+    .accesskey = v
+fxviewtabrow-move-tab-start = Mover al initio
+    .accesskey = i
+fxviewtabrow-move-tab-end = Mover al fin
+    .accesskey = f
+fxviewtabrow-move-tab-window = Displaciar a nove fenestra
+    .accesskey = f
+fxviewtabrow-send-tab = Inviar scheda a un apparato
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
