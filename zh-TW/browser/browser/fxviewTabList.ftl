@@ -43,6 +43,14 @@ fxviewtabrow-close-tab = 關閉分頁
     .accesskey = C
 fxviewtabrow-move-tab = 移動分頁
     .accesskey = v
+fxviewtabrow-move-tab-start = 移動至開頭
+    .accesskey = S
+fxviewtabrow-move-tab-end = 移動至結尾
+    .accesskey = E
+fxviewtabrow-move-tab-window = 移動至新視窗
+    .accesskey = W
+fxviewtabrow-send-tab = 將分頁傳送至裝置
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
