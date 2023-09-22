@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Emonguatia juajuha
     .accesskey = L
 fxviewtabrow-close-tab = Emboty tendayke
     .accesskey = C
+fxviewtabrow-move-tab = Eguerova tendayke
+    .accesskey = v
+fxviewtabrow-move-tab-start = Eguerova Ñepyrũme
+    .accesskey = S
+fxviewtabrow-move-tab-end = Eguerova ipahápe
+    .accesskey = E
+fxviewtabrow-move-tab-window = Eguerova ovetã pyahúpe
+    .accesskey = W
+fxviewtabrow-send-tab = Emondo Tendayke Mba’e’okápe
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
