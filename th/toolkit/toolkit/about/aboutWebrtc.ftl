@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = เริ่มการบันท�
 about-webrtc-aec-logging-on-state-label = หยุดการบันทึก AEC
 about-webrtc-aec-logging-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
 about-webrtc-aec-logging-toggled-on-state-msg = การบันทึก AEC ทำงานอยู่ (พูดกับผู้โทรไม่กี่นาทีแล้วหยุดการจับ)
+about-webrtc-aec-logging-unavailable-sandbox = ตัวแปรสภาพแวดล้อม MOZ_DISABLE_CONTENT_SANDBOX=1 จำเป็นสำหรับการส่งออกปูม AEC ให้ตั้งค่าตัวแปรนี้ก็ต่อเมื่อคุณเข้าใจความเสี่ยงที่อาจเกิดขึ้นเท่านั้น
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = ไฟล์บันทึกที่จับสามารถพบได้ใน: { $path }
@@ -228,8 +229,6 @@ about-webrtc-aec-logging-off-state-msg = ไฟล์บันทึกที่
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = ได้บันทึกหน้าลงใน: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = บันทึกร่องรอยสามารถพบได้ที่: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = โหมดดีบั๊กทำงานอยู่ บันทึกการติดตามอยู่ที่: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -297,6 +296,9 @@ about-webrtc-sdp-set-timestamp = ประทับเวลา { NUMBER($timest
 about-webrtc-show-msg-sdp = แสดง SDP
 about-webrtc-hide-msg-sdp = ซ่อน SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -304,9 +306,6 @@ about-webrtc-hide-msg-sdp = ซ่อน SDP
 about-webrtc-media-context-show-msg = แสดงบริบทสื่อ
 about-webrtc-media-context-hide-msg = ซ่อนบริบทสื่อ
 about-webrtc-media-context-heading = บริบทสื่อ
-
-##
-
 
 ##
 
