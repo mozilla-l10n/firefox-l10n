@@ -160,11 +160,19 @@ shopping-survey-thanks-message = Takk fyrir álit þitt!
 
 shopping-callout-closed-opted-in-subtitle = Farðu aftur í <strong>umsagnaskoðun</strong> þegar þú sérð verðmiða.
 shopping-callout-pdp-opted-in-title = Eru þessar umsagnir áreiðanlegar? Finndu fljótt út úr því.
+shopping-callout-pdp-opted-in-subtitle = Opnaðu umsagnaskoðun til að sjá aðlagaða einkunn þar sem óáreiðanlegar umsagnir hafa verið fjarlægðar. Að auki geturðu séð útdrátt úr nýlegum ekta umsögnum.
 shopping-callout-closed-not-opted-in-title = Einn smellur til að fá áreiðanlegar umsagnir
+shopping-callout-closed-not-opted-in-subtitle = Prófaðu umsagnaskoðun í hvert skipti sem þú sérð verðmiða. Fáðu álit frá öðrum raunverulegum kaupendum á  fljótlegan máta - áður en þú verslar.
 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prófaðu traustar leiðbeiningar okkar um vöruumsagnir
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú verslar. Umsagnaskoðun, tilraunaeiginleiki frá { -vendor-short-name }, er innbyggður beint í { -brand-product-name } - og þetta virkar líka á <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Með hjálp { -fakespot-brand-full-name } frá Mozilla, gerum við þér kleift að forðast hlutdrægar og ósannar umsagnir. Gervigreindarlíkanið okkar er alltaf að batna til að vernda þig sem best þegar þú verslar. <a data-l10n-name="learn_more">Frekari upplýsingar</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Já, prófum það
