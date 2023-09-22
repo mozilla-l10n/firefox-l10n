@@ -5,6 +5,6 @@
 app-picker-browse-button =
     .buttonlabelextra2 = Poravo…
 app-picker-send-msg =
-    .value = Emondo ko mba’epuru amo:
+    .value = Emondo ko mba’eporu amo:
 app-picker-no-app-found =
     .value = Ndojejuhúi tembiporu’i koichagua marandurenda’atýpe g̃uarã.
