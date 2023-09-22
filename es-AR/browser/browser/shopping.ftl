@@ -165,3 +165,16 @@ shopping-callout-closed-not-opted-in-subtitle = Pruebe el verificador de revisio
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Pruebe nuestra guía confiable de reseñas de productos
+shopping-onboarding-body = Usando el poder de { -fakespot-brand-full-name }, lo ayudamos a evitar revisiones sesgadas y no auténticas. Nuestro modelo de IA siempre está mejorando para protegerlo mientras compra. Conocer más</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Al seleccionar "{ shopping-onboarding-opt-in-button }", acepta la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -fakespot-brand-full-name } y < a data-l10n-name="terms_of_use">los términos de uso.</a>
+shopping-onboarding-opt-in-button = Sí, probarlo
+shopping-onboarding-not-now-button = Ahora no
+shopping-onboarding-dialog-close-button =
+    .title = Cerrar
+    .aria-label = Cerrar
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paso { $current } de { $total }
