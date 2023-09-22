@@ -1020,6 +1020,10 @@ content-blocking-all-windows-tracking-content = ตัวติดตามเ�
 content-blocking-all-cross-site-cookies = คุกกี้ข้ามไซต์ทั้งหมด
 content-blocking-cryptominers = ตัวขุดเหรียญดิจิทัล
 content-blocking-fingerprinters = ลายนิ้วมือดิจิทัล
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = ลายนิ้วมือดิจิทัลที่รู้จักและต้องสงสัย
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1058,6 +1062,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = ลายนิ้วมือดิจิทัล
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = ลายนิ้วมือดิจิทัลที่รู้จัก
+    .accesskey = ร
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = ลายนิ้วมือดิจิทัลที่ต้องสงสัย
+    .accesskey = ส
 
 ## Privacy Section - Tracking
 

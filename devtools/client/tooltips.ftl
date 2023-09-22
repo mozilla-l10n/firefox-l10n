@@ -14,24 +14,25 @@ learn-more = <span data-l10n-name="link">เรียนรู้เพิ่ม
 ##   $property (string) - A CSS property name e.g. "color".
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
-inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่ทั้งส่วนแยกข้อมูลแบบยืดหยุ่นหรือส่วนแยกข้อมูลแบบเส้นตาราง
-inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่ทั้งส่วนแยกข้อมูลแบบยืดหยุ่น, ส่วนแยกข้อมูลแบบเส้นตาราง, หรือส่วนแยกข้อมูลแบบหลายคอลัมน์
-inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่รายการแบบเส้นตารางหรือแบบยืดหยุ่น
-inactive-css-not-grid-item = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่รายการแบบเส้นตาราง
-inactive-css-not-grid-container = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่ส่วนแยกข้อมูลแบบเส้นตาราง
-inactive-css-not-flex-item = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่รายการแบบยืดหยุ่น
-inactive-css-not-flex-container = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่ส่วนแยกข้อมูลแบบยืดหยุ่น
-inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่องค์ประกอบแบบอินไลน์หรือแบบเซลล์ตาราง
-inactive-css-property-because-of-display = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากมีการแสดงผลแบบ <strong>{ $display }</strong>
-inactive-css-not-display-block-on-floated = ค่า <strong>display</strong> ได้ถูกเปลี่ยนโดยเอนจินเป็น <strong>block</strong> เนื่องจากมีองค์ประกอบแบบ <strong>floated</strong>
+inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ทั้งคอนเทนเนอร์แบบยืดหยุ่นหรือคอนเทนเนอร์แบบเส้นตาราง
+inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ทั้งคอนเทนเนอร์แบบยืดหยุ่น คอนเทนเนอร์แบบเส้นตาราง หรือคอนเทนเนอร์แบบหลายคอลัมน์
+inactive-css-not-multicol-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบหลายคอลัมน์
+inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบเส้นตารางหรือแบบยืดหยุ่น
+inactive-css-not-grid-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบเส้นตาราง
+inactive-css-not-grid-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบเส้นตาราง
+inactive-css-not-flex-item = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่รายการแบบยืดหยุ่น
+inactive-css-not-flex-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่คอนเทนเนอร์แบบยืดหยุ่น
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่อิลิเมนต์แบบอินไลน์หรือแบบเซลล์ตาราง
+inactive-css-property-because-of-display = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากมีค่าคุณสมบัติ display เป็น <strong>{ $display }</strong>
+inactive-css-not-display-block-on-floated = ค่า <strong>display</strong> ได้ถูกเปลี่ยนโดยเอนจินเป็น <strong>block</strong> เนื่องจากมีอิลิเมนต์แบบ <strong>floated</strong>
 inactive-css-property-is-impossible-to-override-in-visited = ไม่สามารถเขียนทับ <strong>{ $property }</strong> เนื่องจากข้อจำกัดของ <strong>:visited</strong>
-inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ใช่องค์ประกอบที่ถูกจัดตำแหน่ง
-inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ไม่มีผลต่อองค์ประกอบนี้เนื่องจากไม่ได้ตั้งค่า <strong>overflow:hidden</strong>
-inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบตารางภายใน
-inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบตารางภายในยกเว้นเซลล์ตาราง
-inactive-css-not-table = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่ใช่ตาราง
-inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้เนื่องจากไม่มีการเลื่อน
-inactive-css-border-image = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้ เนื่องจากไม่สามารถใช้กับองค์ประกอบตารางภายในที่ตั้งค่า <strong>border-collapse</strong> เป็น <strong>collapse</strong> บนองค์ประกอบตารางแม่ได้
+inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> ไม่มีผลต่ออิลิเมนต์นี้เนื่องจากไม่ใช่อิลิเมนต์ที่ถูกจัดตำแหน่ง
+inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> ไม่มีผลต่ออิลิเมนต์นี้เนื่องจากไม่ได้ตั้งค่า <strong>overflow:hidden</strong>
+inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์ตารางภายใน
+inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์ตารางภายในยกเว้นเซลล์ตาราง
+inactive-css-not-table = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่ใช่ตาราง
+inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้เนื่องจากไม่มีการเลื่อน
+inactive-css-border-image = <strong>{ $property }</strong> ไม่มีผลกับอิลิเมนต์นี้ เนื่องจากไม่สามารถใช้กับอิลิเมนต์ตารางภายในที่ตั้งค่า <strong>border-collapse</strong> เป็น <strong>collapse</strong> บนอิลิเมนต์ตารางแม่ได้
 inactive-css-ruby-element = <strong>{ $property }</strong> ไม่มีผลกับองค์ประกอบนี้ เนื่องจากเป็นองค์ประกอบ ruby ขนาดขององค์ประกอบนี้ถูกกำหนดโดยขนาดตัวอักษรของข้อความ ruby
 inactive-css-highlight-pseudo-elements-not-supported = ไม่รองรับ <strong>{ $property }</strong> บน highlight pseudo-elements
 

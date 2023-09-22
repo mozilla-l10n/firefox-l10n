@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = แปลหน้านี้ - เบตา
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = ลองใช้การแปลแบบส่วนตัวใน { -brand-shorter-name } - เบต้า
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -67,6 +71,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = ยกเลิก
 translations-panel-learn-more-link = เรียนรู้เพิ่มเติม
+translations-panel-intro-header = ลองใช้การแปลแบบส่วนตัวใน { -brand-shorter-name }
 translations-panel-intro-description = เพื่อความเป็นส่วนตัวของคุณ ข้อมูลการแปลจะไม่ออกไปนอกอุปกรณ์ของคุณ ภาษาและการปรับปรุงใหม่ๆ จะมาในเร็วๆ นี้!
 translations-panel-error-translating = เกิดปัญหาในการแปล โปรดลองอีกครั้ง
 translations-panel-error-load-languages = ไม่สามารถโหลดภาษา
