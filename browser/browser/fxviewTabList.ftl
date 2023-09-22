@@ -46,7 +46,11 @@ fxviewtabrow-move-tab = Sposta scheda
 fxviewtabrow-move-tab-start = Sposta all’inizio
     .accesskey = z
 fxviewtabrow-move-tab-end = Sposta alla fine
-    .accesskey = n
+    .accesskey = a
+fxviewtabrow-move-tab-window = Sposta in una nuova finestra
+    .accesskey = u
+fxviewtabrow-send-tab = Invia scheda a dispositivo
+    .accesskey = v
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
