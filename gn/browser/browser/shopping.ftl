@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Ñembohekopyahu eiporukuaáva
-shopping-message-bar-warning-stale-analysis-message = Emoñepyrũ { -fakespot-brand-full-name } resa’ỹijoha ereko hag̃ua marandu hekopyahúva 60 aravo’ivépe.
+shopping-message-bar-warning-stale-analysis-message-2 = Marandu pyahu ehechajey hag̃ua
+shopping-message-bar-warning-stale-analysis-button = Ehechajey ko’ág̃a
 shopping-message-bar-generic-error-title2 = Ndaipóri marandu ko’ág̃aite
 shopping-message-bar-generic-error-message = Romba’apo opa hag̃ua apañuãi. IKatúpiko, eha’ãjey ag̃ave.
 shopping-message-bar-warning-not-enough-reviews-title = Noĩri gueteri heta marandu’i
@@ -54,14 +54,6 @@ shopping-message-bar-warning-product-not-available-reported-message2 = Oĩva’e
 shopping-message-bar-analysis-in-progress-title2 = Ehechajey marandu’i porãngue
 shopping-message-bar-analysis-in-progress-message2 = Kóva ipukukuaa 60 aravo’ive rupi.
 shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Emoñepyrũ jehechajeyha { -fakespot-website-name }-pe
 
 ## Strings for the product review snippets card
 
@@ -109,10 +101,10 @@ shopping-analysis-explainer-learn-more = Eikuaave <a data-l10n-name="review-qual
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Embojuruja tenda yke jejoguaha
-shopping-sidebar-close-button =
-    .tooltiptext = Emboty tenda yke jejoguaha
+shopping-sidebar-open-button2 =
+    .tooltiptext = Embojuruja marandu’i rechajeyha
+shopping-sidebar-close-button2 =
+    .tooltiptext = Emboty marandu’i rechajeyha
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -152,3 +144,17 @@ shopping-survey-thanks-message = ¡Aguyje nde jehaipyrére!
 
 shopping-callout-pdp-opted-in-title = Ejeroviápa ko’ã jehechajeýre. Eikuaa pya’e.
 shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jeroviaha
+
+## Onboarding message strings.
+
+shopping-onboarding-opt-in-button = Héẽ, eipuru
+shopping-onboarding-not-now-button = Ani ko’ág̃a
+shopping-onboarding-dialog-close-button =
+    .title = Mboty
+    .aria-label = Mboty
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Jeku’e: jeguata { $current } { $total } rehegua
