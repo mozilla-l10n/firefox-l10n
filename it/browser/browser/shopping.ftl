@@ -38,8 +38,6 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Aggiornamenti disponibili
-shopping-message-bar-warning-stale-analysis-message = Avvia lo strumento di analisi di { -fakespot-brand-full-name } per ottenere informazioni aggiornate in circa 60 secondi.
 shopping-message-bar-warning-stale-analysis-message-2 = Nuove informazioni da controllare
 shopping-message-bar-warning-stale-analysis-button = Controlla adesso
 shopping-message-bar-generic-error-title2 = Nessuna informazione disponibile al momento
@@ -57,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Verifica qualità recensioni
 shopping-message-bar-analysis-in-progress-message2 = Questa operazione potrebbe richiedere circa 60 secondi.
 shopping-message-bar-page-not-supported-title = Impossibile verificare queste recensioni
 shopping-message-bar-page-not-supported-message = Purtroppo non è possibile verificare la qualità delle recensioni per alcuni tipi di prodotto come carte regalo, video in streaming e giochi.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Avvia lo strumento di analisi su { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -122,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recensioni inaffid
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Apri la barra laterale per lo shopping
-shopping-sidebar-close-button =
-    .tooltiptext = Chiudi la barra laterale per lo shopping
+shopping-sidebar-open-button2 =
+    .tooltiptext = Apri verifica recensioni
+shopping-sidebar-close-button2 =
+    .tooltiptext = Chiudi verifica recensioni
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -175,7 +165,6 @@ shopping-callout-closed-not-opted-in-subtitle = Prova verifica recensioni ogni v
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prova la nostra guida alle recensioni di prodotti
-
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
@@ -189,4 +178,9 @@ shopping-onboarding-not-now-button = Non adesso
 shopping-onboarding-dialog-close-button =
     .title = Chiudi
     .aria-label = Chiudi
-
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Avanzamento: passo { $current } di { $total }
