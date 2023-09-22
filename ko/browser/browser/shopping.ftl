@@ -166,3 +166,15 @@ shopping-callout-closed-not-opted-in-subtitle = 가격표를 볼 때마다 리�
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = 제품 리뷰에 대한 신뢰할 수 있는 가이드를 사용해 보세요
+shopping-onboarding-opt-in-button = 사용해보기
+shopping-onboarding-not-now-button = 나중에
+shopping-onboarding-dialog-close-button =
+    .title = 닫기
+    .aria-label = 닫기
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = 진행률: { $current } / { $total } 단계
