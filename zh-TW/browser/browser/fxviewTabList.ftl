@@ -41,6 +41,8 @@ fxviewtabrow-copy-link = 複製鏈結
     .accesskey = L
 fxviewtabrow-close-tab = 關閉分頁
     .accesskey = C
+fxviewtabrow-move-tab = 移動分頁
+    .accesskey = v
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
