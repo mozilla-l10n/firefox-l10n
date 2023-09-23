@@ -313,4 +313,5 @@ onboarding-device-migration-image-alt =
     .aria-label = 一台连接着鼠标的笔记本电脑，屏幕上有一只狐狸正在挥手。
 onboarding-device-migration-title = 欢迎回来！
 onboarding-device-migration-subtitle = 登录 { -fxaccount-brand-name(capitalization: "sentence") }，把书签、密码、历史记录同步到新设备上。
+onboarding-device-migration-subtitle2 = 登录账户即可将您的书签、密码、历史记录同步到新设备。
 onboarding-device-migration-primary-button-label = 登录
