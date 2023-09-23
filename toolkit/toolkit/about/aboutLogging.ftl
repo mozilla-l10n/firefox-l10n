@@ -42,6 +42,10 @@ about-logging-preset-media-playback-label = Multimedia erreproduzitzea
 about-logging-preset-media-playback-description = Multimediaren erreprodukzio-arazoak (ez bideo-deien arazoak) diagnostikatzeko erregistro-moduluak
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC deiak diagnostikatzeko erregistro-moduluak
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = WebGPU arazoak diagnostikatzeko erregistro-moduluak
+about-logging-preset-gfx-label = Grafikoak
+about-logging-preset-gfx-description = Grafikoen arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-custom-label = Pertsonalizatua
 about-logging-preset-custom-description = Erregistratu eskuz hautatutako moduluak
 # Error handling
