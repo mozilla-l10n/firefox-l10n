@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Kopiatu lotura
     .accesskey = o
 fxviewtabrow-close-tab = Itxi fitxa
     .accesskey = x
+fxviewtabrow-move-tab = Eraman fitxa
+    .accesskey = M
+fxviewtabrow-move-tab-start = Eraman hasierara
+    .accesskey = h
+fxviewtabrow-move-tab-end = Eraman amaierara
+    .accesskey = a
+fxviewtabrow-move-tab-window = Eraman leiho berrira
+    .accesskey = b
+fxviewtabrow-send-tab = Bidali fitxa gailura
+    .accesskey = B
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

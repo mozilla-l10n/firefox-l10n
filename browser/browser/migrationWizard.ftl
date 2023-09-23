@@ -35,6 +35,8 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge legatua
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Pasahitzak CSV fitxategitik
+migration-wizard-migrator-display-name-file-bookmarks = Laster-markak HTML fitxategitik
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -67,6 +69,7 @@ migration-passwords-from-file-success-header = Pasahitzak ondo inportatu dira
 migration-passwords-from-file = Fitxategia pasahitzen bila egiaztatzen
 migration-passwords-new = Pasahitz berriak
 migration-passwords-updated = Lehendik dauden pasahitzak
+migration-passwords-from-file-no-valid-data = Fitxategiak ez du baliozko pasahitz-daturik. Hautatu beste fitxategi bat.
 migration-passwords-from-file-picker-title = Inportatu pasahitzen fitxategia
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -106,6 +109,7 @@ migration-bookmarks-from-file-picker-title = Inportatu laster-marken fitxategia
 migration-bookmarks-from-file-progress-header = Laster-markak inportatzen
 migration-bookmarks-from-file = Laster-markak
 migration-bookmarks-from-file-success-header = Laster-markak ondo inportatu dira
+migration-bookmarks-from-file-no-valid-data = Fitxategiak ez du baliozko laster-marken daturik. Hautatu beste fitxategi bat.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =

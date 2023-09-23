@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Salbuespenak
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Webgunearen helbidea
     .accesskey = h
-
 permissions-block =
     .label = Blokeatu
     .accesskey = B
-
 permissions-disable-etp =
     .label = Gehitu salbuespena
     .accesskey = G
-
 permissions-session =
     .label = Baimendu saiorako
     .accesskey = s
-
 permissions-allow =
     .label = Baimendu
     .accesskey = B
-
 permissions-button-off =
     .label = Desaktibatu
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desaktibatu behin-behinean
     .accesskey = b
-
 permissions-site-name =
     .label = Webgunea
-
 permissions-status =
     .label = Egoera
-
 permissions-remove =
     .label = Kendu webgunea
     .accesskey = K
-
 permissions-remove-all =
     .label = Kendu webgune guztiak
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Gorde aldaketak
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Webgune guztietarako lehenetsia:
-
 permissions-searchbox =
     .placeholder = Bilatu webgunea
-
 permissions-capabilities-autoplay-allow =
     .label = Baimendu audioa eta bideoa
 permissions-capabilities-autoplay-block =
     .label = Blokeatu audioa
 permissions-capabilities-autoplay-blockall =
     .label = Blokeatu audioa eta bideoa
-
 permissions-capabilities-allow =
     .label = Baimendu
 permissions-capabilities-block =
     .label = Blokeatu
 permissions-capabilities-prompt =
     .label = Galdetu beti
-
 permissions-capabilities-listitem-allow =
     .value = Baimendu
 permissions-capabilities-listitem-block =
     .value = Blokeatu
 permissions-capabilities-listitem-allow-session =
     .value = Baimendu saiorako
-
 permissions-capabilities-listitem-off =
     .value = Desaktibatuta
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Salbuespenak - HTTPS-Only modua
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = HTTPS-Only modua desgai dezakezu gune zehatzetarako. { -brand-short-name } ez da saiatuko konexioa HTTPS segurura bihurtzen gune horietarako. Salbuespenek ez dute eraginik leiho pribatuetan.
+permissions-exceptions-https-only-desc2 = HTTPS-Only modua desgai dezakezu gune zehatzetarako. { -brand-short-name } ez da saiatuko konexioa HTTPS segurura bihurtzen gune horietarako.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Ezarpenak - Bozgorailuen baimenak
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Ondorengo webguneek audio irteera-gailu bat hautatzea eskatu dute. Audio irteera-gailua hautatzeko baimenduta dauden webguneak zehatz ditzakezu.
-
 permissions-exceptions-doh-window =
     .title = Webguneen salbuespenak HTTPS gaineko DNSrako
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }(e)k ez du DNS segurua erabiliko gune hauetan eta beraien azpidomeinuetan.
-
 permissions-doh-entry-field = Idatzi webgunearen domeinu-izena
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Gehitu
     .accesskey = G
-
 permissions-doh-col =
     .label = Domeinua
-
 permissions-doh-remove =
     .label = Kendu
     .accesskey = K
-
 permissions-doh-remove-all =
     .label = Kendu denak
     .accesskey = d

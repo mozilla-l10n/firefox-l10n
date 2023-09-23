@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sinkronizatu orain
 appmenuitem-fxa-sign-in = Hasi saioa { -brand-product-name }(e)n
 appmenuitem-fxa-manage-account = Kudeatu kontua
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Kontua
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)

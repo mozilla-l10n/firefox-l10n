@@ -3,11 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Bidali webguneei "Do Not Track" seinalea zure jarraipena ez egitea adierazteko
+do-not-track-description2 =
+    .label = Bidali webguneei "Do Not Track" eskaera
+    .accesskey = D
 do-not-track-learn-more = Argibide gehiago
 do-not-track-option-default-content-blocking-known =
     .label = Bakarrik { -brand-short-name } jarraipen-elementu ezagunak blokeatzeko ezarrita dagoenean
 do-not-track-option-always =
     .label = Beti
+global-privacy-control-description =
+    .label = Esan webguneei nire datuak ez saltzeko edo partekatzeko
+    .accesskey = s
 settings-page-title = Ezarpenak
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -457,6 +463,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Erabili beti kurtsore-teklak orriak nabigatzeko
     .accesskey = k
+browsing-use-full-keyboard-navigation =
+    .label = Erabili tabulazio-tekla fokua aldatzeko inprimakien kontrolen eta loturen artean
+    .accesskey = t
 browsing-search-on-start-typing =
     .label = Bilatu testua idazten hasi bezain laster
     .accesskey = B
@@ -964,6 +973,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Laster-markak
     .accesskey = L
+addressbar-locbar-clipboard-option =
+    .label = Arbela
+    .accesskey = A
 addressbar-locbar-openpage-option =
     .label = Irekitako fitxak
     .accesskey = I
