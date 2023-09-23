@@ -158,6 +158,7 @@ language-name-ro = Errumaniera
 language-name-ru = Errusiera
 language-name-rw = Kinyarwandaera
 language-name-sa = Sanskritoa
+language-name-sat = Santali
 language-name-sc = Sardiera
 language-name-sco = Eskoziera
 language-name-sd = Sindiera
