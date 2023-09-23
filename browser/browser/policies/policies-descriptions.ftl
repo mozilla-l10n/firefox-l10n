@@ -28,6 +28,7 @@ policy-CertificatesDescription = Dodaj digitalna potrdila ali uporabi vgrajena p
 policy-Cookies = Spletnim mestom dovoli ali prepovej nastavljanje piškotkov.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Nastavi pravilnike, povezane z vsebniki.
+policy-DisableAccounts = Onemogoči storitve na osnovi računov, na primer sinhronizacijo.
 policy-DisabledCiphers = Onemogoči šifre.
 policy-DefaultDownloadDirectory = Nastavi privzeto mapo za prenose.
 policy-DisableAppUpdate = Prepreči posodabljanje brskalnika.
