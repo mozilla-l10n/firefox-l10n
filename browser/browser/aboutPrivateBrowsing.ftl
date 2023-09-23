@@ -71,4 +71,6 @@ about-private-browsing-cookie-banners-promo-message = Dikkatiniz dağılmadan ge
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Bu cihazda iz bırakmayın
+about-private-browsing-felt-privacy-v1-info-body = Tüm gizli pencerelerinizi kapattığınızda { -brand-short-name } çerezlerinizi, gezinti geçmişinizi ve site verilerinizi siler.
 about-private-browsing-felt-privacy-v1-info-link = Etkinliğimi kimler görebilir?

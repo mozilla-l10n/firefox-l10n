@@ -7,6 +7,12 @@ shopping-page-title = { -brand-product-name } Alışveriş
 # review quality of online shopping product reviews
 shopping-main-container-title = Değerlendirme kontrolcüsü
 shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Değerlendirme kontrolcüsü - beta
 shopping-close-button =
     .title = Kapat
 # This string is for notifying screen reader users that the
@@ -61,6 +67,8 @@ powered-by-fakespot = Değerlendirme kontrolcüsü <a data-l10n-name="fakespot-l
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Bu değerlendirmeler ne kadar güvenilir?
 
 ## Strings for the analysis explainer component
 
@@ -69,6 +77,10 @@ shopping-analysis-explainer-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Değerlendirme kontrolcüsünü aç
+shopping-sidebar-close-button2 =
+    .tooltiptext = Değerlendirme kontrolcüsünü kapat
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -77,6 +89,8 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Bu değerlendirmeler hakkında henüz bilgi yok
+shopping-unanalyzed-product-analyze-button = Değerlendirme kalitesini kontrol et
 
 ## Strings for the advertisement
 
@@ -84,6 +98,12 @@ ad-by-fakespot = { -fakespot-brand-name } reklamı
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = Çok memnunum
+shopping-survey-q1-radio-2-label = Memnunum
+shopping-survey-q1-radio-3-label = Normal
+shopping-survey-q1-radio-4-label = Memnun değilim
+shopping-survey-q1-radio-5-label = Hiç memnun değilim
+shopping-survey-question-two = Değerlendirme kontrolcüsü satın alma kararları vermenizi kolaylaştırıyor mu?
 shopping-survey-q2-radio-1-label = Evet
 shopping-survey-q2-radio-2-label = Hayır
 shopping-survey-q2-radio-3-label = Bilmiyorum
@@ -96,6 +116,7 @@ shopping-survey-thanks-message = Geri bildiriminiz için teşekkürler!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-title = Bu değerlendirmeler güvenilir mi? Hızlıca öğrenin.
 
 ## Onboarding message strings.
 
