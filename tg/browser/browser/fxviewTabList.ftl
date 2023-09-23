@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Нусха бардоштани пайванд
     .accesskey = Н
 fxviewtabrow-close-tab = Пӯшидани варақа
     .accesskey = П
+fxviewtabrow-move-tab = Ҷойгиркунии варақа
+    .accesskey = Ҷ
+fxviewtabrow-move-tab-start = Гузоштан ба оғоз
+    .accesskey = Г
+fxviewtabrow-move-tab-end = Гузоштан ба поён
+    .accesskey = П
+fxviewtabrow-move-tab-window = Гузоштан ба равзанаи нав
+    .accesskey = Р
+fxviewtabrow-send-tab = Фиристодани варақа ба дастгоҳ
+    .accesskey = Ф
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

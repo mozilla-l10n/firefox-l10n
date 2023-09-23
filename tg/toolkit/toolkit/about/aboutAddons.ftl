@@ -287,7 +287,7 @@ install-theme-button = Насб кардани мавзуъ
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Идоракунӣ
-find-more-addons = Гирифтани ҷузъҳои иловагии бештар
+find-more-addons = Ёфтани ҷузъҳои иловагии бештар
 find-more-themes = Гирифтани мавзуъҳои бештар
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
@@ -445,7 +445,7 @@ updates-heading = Идоракунии навсозиҳои худ
 sitepermission-heading = Идоракунии иҷозатҳои сомонаи худ
 discover-heading = Браузери «{ -brand-short-name }»-и худро шахсӣ кунед
 shortcuts-heading = Идоракунии миёнбурҳои васеъшавӣ
-default-heading-search-label = Гирифтани ҷузъҳои иловагии бештар
+default-heading-search-label = Ёфтани ҷузъҳои иловагии бештар
 addons-heading-search-input =
     .placeholder = Ҷустуҷӯ дар addons.mozilla.org
 addon-page-options-button =
