@@ -28,6 +28,7 @@ policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları ku
 policy-Cookies = Web sitelerinin çerez ayarlamasına izin ver veya verme.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Kapsayıcılarla ilgili ilkeleri ayarla.
+policy-DisableAccounts = Hesap tabanlı hizmetleri devre dışı bırak (eşitleme dahil).
 policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = Tarayıcının güncellenmesini engelle.
