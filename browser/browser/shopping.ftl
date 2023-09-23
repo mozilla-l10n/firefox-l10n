@@ -170,5 +170,17 @@ shopping-onboarding-headline = გამოცადეთ ჩვენი ს�
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = იხილეთ, რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები საიტზე <b>{ $currentSite }</b> მის შეძენამდე. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა { -vendor-short-name }-ისგან, რომელსაც ჩაშენებულად შეიცავს { -brand-product-name } — მხარდაჭერილია <b>{ $secondSite }</b> და აგრეთვე <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle = იხილეთ, რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები <b>{ $currentSite }</b> საიტზე მის შეძენამდე. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა { -vendor-short-name }-ისგან, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name } — და მხარდაჭერილია <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
 shopping-onboarding-body = { -fakespot-brand-full-name }-ის ძლევამოსილებით ჩვენ დაგეხმარებით მიკერძოებული და ყალბი მიმოხილვების თავიდან აცილებაში. ჩვენი AI-მოდელი მუდმივად იხვეწება საყიდლების შეძენისას თქვენს დასაცავად. <a data-l10n-name="learn_more">ვრცლად</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკის არჩევით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
+shopping-onboarding-opt-in-button = დიახ, მსურს ვცადო
+shopping-onboarding-not-now-button = ახლა არა
+shopping-onboarding-dialog-close-button =
+    .title = დახურვა
+    .aria-label = დახურვა
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = წინსვლა: ნაბიჯი { $current }, სულ { $total }
