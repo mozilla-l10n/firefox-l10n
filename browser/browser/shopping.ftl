@@ -98,6 +98,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = 评价不可信。
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = 打开核查评价
+shopping-sidebar-close-button2 =
+    .tooltiptext = 关闭核查评价
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -106,6 +110,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = 评价不可信。
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = 还没有关于这些评价的信息
+shopping-unanalyzed-product-message-2 = 如需了解对此商品的评价是否可信，请检查评价质量。只需约 60 秒即可得出结果。
+shopping-unanalyzed-product-analyze-button = 核查评价质量
 
 ## Strings for the advertisement
 
@@ -115,11 +122,14 @@ ad-by-fakespot = { -fakespot-brand-name } 提供的广告
 
 ## Shopping survey strings.
 
+shopping-survey-question-one = 您满意 { -brand-product-name } 核查评价的使用体验吗？
+shopping-survey-question-two = 核查评价是否能让您更轻松做出购买决定？
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = 点击“价签”图标即可打开核查评价
 
 ## Onboarding message strings.
 
