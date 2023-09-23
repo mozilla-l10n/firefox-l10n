@@ -44,6 +44,8 @@ about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = WebRTC çağrılarını teşhis etmeye yönelik log modülleri
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU sorunlarını teşhis etmeye yönelik log modülleri
+about-logging-preset-gfx-label = Grafik
+about-logging-preset-gfx-description = Grafik sorunlarını teşhis etmeye yönelik log modülleri
 about-logging-preset-custom-label = Özel
 about-logging-preset-custom-description = Log modüllerini kendim seçeceğim
 # Error handling
