@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = ბმულის ასლი
     .accesskey = ბ
 fxviewtabrow-close-tab = ჩანართის დახურვა
     .accesskey = უ
+fxviewtabrow-move-tab = ჩანართის გადატანა
+    .accesskey = ტ
+fxviewtabrow-move-tab-start = თავში გადატანა
+    .accesskey = ვ
+fxviewtabrow-move-tab-end = ბოლოში გადატანა
+    .accesskey = ო
+fxviewtabrow-move-tab-window = ახალ ფანჯარაში გადატანა
+    .accesskey = ფ
+fxviewtabrow-send-tab = ჩანართის გაგზავნა მოწყობილობაზე
+    .accesskey = წ
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
