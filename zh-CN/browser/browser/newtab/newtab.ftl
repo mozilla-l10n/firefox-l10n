@@ -68,7 +68,7 @@ newtab-topsites-add-button = 添加
 
 newtab-confirm-delete-history-p1 = 确定删除此页面在您的历史记录中的所有记录？
 # "This action" refers to deleting a page from history.
-newtab-confirm-delete-history-p2 = 此操作不能撤销。
+newtab-confirm-delete-history-p2 = 此操作无法撤销。
 
 ## Top Sites - Sponsored label
 

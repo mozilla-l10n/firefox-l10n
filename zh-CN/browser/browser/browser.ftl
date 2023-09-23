@@ -919,7 +919,7 @@ refresh-blocked-allow =
 firefox-relay-offer-why-to-use-relay = 我们安全易用的马甲邮箱可隐藏您的邮件地址，帮助您保护身份信息、防止垃圾邮件侵扰。
 # Variables:
 #  $useremail (String): user email that will receive messages
-firefox-relay-offer-what-relay-provides = 发送到马甲邮箱的所有电子邮件都将转发到 <strong>{ $useremail }</strong>（除非您决定阻止它们）。
+firefox-relay-offer-what-relay-provides = 发送到马甲邮箱的所有电子邮件都将转发到 <strong>{ $useremail }</strong>（除非您选择拦截）。
 firefox-relay-offer-legal-notice = 点击“使用马甲邮箱”，即表示您同意<label data-l10n-name="tos-url">服务条款</label>和<label data-l10n-name="privacy-url">隐私声明</label>。
 
 ## Add-on Pop-up Notifications
