@@ -6,6 +6,12 @@ shopping-page-title = { -brand-product-name } 购物
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = 核查评价
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = 核查评价 - 测试版
 shopping-close-button =
     .title = 关闭
 # This string is for notifying screen reader users that the
@@ -31,12 +37,19 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = 了解新信息
+shopping-message-bar-warning-stale-analysis-button = 立即了解
 shopping-message-bar-generic-error-message = 我们正努力解决此问题，请稍后再试。
 shopping-message-bar-warning-not-enough-reviews-title = 还没有足够数量的评价
+shopping-message-bar-warning-not-enough-reviews-message2 = 此商品获得更多评价后，我们就能开始分析其评价的质量。
 shopping-message-bar-warning-product-not-available-title = 商品无货
+shopping-message-bar-warning-product-not-available-message2 = 若您发现此商品已有货，请向我们反馈，以便我们核查评论。
 shopping-message-bar-warning-product-not-available-button = 反馈此商品已有货
 shopping-message-bar-thanks-for-reporting-title = 感谢反馈！
+shopping-message-bar-thanks-for-reporting-message2 = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
 shopping-message-bar-warning-product-not-available-reported-title2 = 分析信息即将就绪
+shopping-message-bar-warning-product-not-available-reported-message2 = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
+shopping-message-bar-analysis-in-progress-title2 = 正在核查评价质量
 shopping-message-bar-page-not-supported-title = 无法核查这些评价
 shopping-message-bar-page-not-supported-message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
 
@@ -129,9 +142,15 @@ shopping-survey-question-two = 核查评价是否能让您更轻松做出购买�
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = 点击“价签”图标即可打开核查评价
+shopping-callout-closed-opted-in-subtitle = 点击“价签”图标即可打开<strong>核查评价</strong>
 shopping-callout-pdp-opted-in-subtitle = 打开核查评价，查看基于可信评价调整后的评分，另外还可查看近期最有帮助的评价。
-shopping-callout-closed-not-opted-in-subtitle = 点击“价签”图标即可打开核查评价，在购买前一览其他买家的真实反馈。
+shopping-callout-closed-not-opted-in-subtitle = 点击“价签”图标即可打开核查评价，在购买前一览真实买家的反馈。
 
 ## Onboarding message strings.
 
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = 在购买前先看看 <b>{ $currentSite }</b> 上商品评价的可信度如何。核查评价是 { -vendor-short-name } 的一项实验性功能，内置于 { -brand-product-name } 中，在 <b>{ $secondSite }</b> 和 <b>{ $thirdSite }</b> 网站上同样可用。
