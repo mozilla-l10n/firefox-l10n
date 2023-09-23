@@ -131,6 +131,7 @@ shopping-survey-question-two = 核查评价是否能让您更轻松做出购买�
 
 shopping-callout-closed-opted-in-subtitle = 点击“价签”图标即可打开核查评价
 shopping-callout-pdp-opted-in-subtitle = 打开核查评价，查看基于可信评价调整后的评分，另外还可查看近期最有帮助的评价。
+shopping-callout-closed-not-opted-in-subtitle = 点击“价签”图标即可打开核查评价，在购买前一览其他买家的真实反馈。
 
 ## Onboarding message strings.
 
