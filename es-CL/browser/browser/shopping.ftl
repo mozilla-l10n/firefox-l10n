@@ -38,22 +38,23 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Actualizaciones disponibles
-shopping-message-bar-warning-stale-analysis-message = Inicia el analizador { -fakespot-brand-full-name } para obtener información actualizada en aproximadamente 60 segundos.
+shopping-message-bar-warning-stale-analysis-message-2 = Nueva información para comprobar
+shopping-message-bar-warning-stale-analysis-button = Comprobar ahora
 shopping-message-bar-generic-error-title2 = No hay información disponible en este momento
 shopping-message-bar-generic-error-message = Estamos trabajando para resolver el problema. Por favor, vuelve a revisar en un rato.
 shopping-message-bar-warning-not-enough-reviews-title = Aún no hay suficientes reseñas
+shopping-message-bar-warning-not-enough-reviews-message2 = Cuando este producto tenga más reseñas, podremos revisar su calidad.
 shopping-message-bar-warning-product-not-available-title = El producto no está disponible
+shopping-message-bar-warning-product-not-available-message2 = Si ves que este producto vuelve a estar disponible, infórmalo y trabajaremos para verificar las reseñas.
 shopping-message-bar-warning-product-not-available-button = Informar que este producto volvió a estar disponible
 shopping-message-bar-thanks-for-reporting-title = ¡Gracias por informar!
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Inicia el analizador en { -fakespot-website-name }
+shopping-message-bar-thanks-for-reporting-message2 = Deberíamos tener información sobre las reseñas de este producto dentro de 24 horas. Por favor, vuelve a revisar más tarde.
+shopping-message-bar-warning-product-not-available-reported-title2 = La información llegará pronto
+shopping-message-bar-warning-product-not-available-reported-message2 = Deberíamos tener información sobre las reseñas de este producto dentro de 24 horas. Por favor, vuelve a revisar más tarde.
+shopping-message-bar-analysis-in-progress-title2 = Comprobando la calidad de la reseña
+shopping-message-bar-analysis-in-progress-message2 = Esto podría tardar unos 60 segundos.
+shopping-message-bar-page-not-supported-title = No podemos comprobar estas reseñas
+shopping-message-bar-page-not-supported-message = Lamentablemente, no podemos verificar la calidad de las reseñas para ciertos tipos de productos. Por ejemplo, tarjetas de regalo y transmisión de vídeo, música y juegos.
 
 ## Strings for the product review snippets card
 
@@ -97,6 +98,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Cómo determinamos la calidad de las reseñas
+shopping-analysis-explainer-intro2 =
+    Utilizamos tecnología de inteligencia artificial de { -fakespot-brand-full-name } para revisar la confiabilidad de las reseñas de productos.
+    Esto sólo te ayudará a evaluar la calidad de las reseñas, no la calidad del producto.
 shopping-analysis-explainer-grades-intro = Asignamos a las reseñas de cada producto una <strong>calificación con letras</strong> de la A a la F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en reseñas que consideramos confiables.
 shopping-analysis-explainer-learn-more = Obtén más información acerca de <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de las reseñas</a>.
@@ -110,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Reseñas poco fiab
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Abrir barra lateral de compras
-shopping-sidebar-close-button =
-    .tooltiptext = Cerrar barra lateral de compras
+shopping-sidebar-open-button2 =
+    .tooltiptext = Abrir verificador de reseñas
+shopping-sidebar-close-button2 =
+    .tooltiptext = Cerrar verificador de reseñas
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -122,6 +126,9 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Aún no hay información sobre estas reseñas
+shopping-unanalyzed-product-message-2 = Para saber si las reseñas de este producto son fiables, verifica la calidad de las reseñas. Sólo toma unos 60 segundos.
+shopping-unanalyzed-product-analyze-button = Comprobar la calidad de la reseña
 
 ## Strings for the advertisement
 
@@ -131,8 +138,18 @@ ad-by-fakespot = Anuncio de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ayuda a mejorar { -brand-product-name }
+shopping-survey-question-one = ¿Qué tan satisfecho estás con la experiencia del verificador de reseñas en { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Muy satisfecho
+shopping-survey-q1-radio-2-label = Satisfecho
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Insatisfecho
+shopping-survey-q1-radio-5-label = Muy insatisfecho
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
+
+
+## Onboarding message strings.
 

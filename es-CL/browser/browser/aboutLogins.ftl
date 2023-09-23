@@ -204,6 +204,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [one] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
        *[other] Esto eliminará todas las credenciales que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu { -fxaccount-brand-name }. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+        [one] Esto eliminará la credencial que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+       *[other] Esto eliminará todas las credenciales que has guardado en { -brand-short-name } en todos los dispositivos sincronizados con tu cuenta. Esto también eliminará las alertas de filtraciones que aparecen aquí. No podrás deshacer esta acción.
+    }
 
 ##
 
