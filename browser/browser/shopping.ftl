@@ -145,11 +145,42 @@ shopping-survey-q1-radio-2-label = Satisfecho
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Insatisfecho
 shopping-survey-q1-radio-5-label = Muy insatisfecho
+shopping-survey-question-two = ¿El verificador de reseñas te facilita la toma de decisiones de compra?
+shopping-survey-q2-radio-1-label = Sí
+shopping-survey-q2-radio-2-label = No
+shopping-survey-q2-radio-3-label = No lo se
+shopping-survey-next-button-label = Siguiente
+shopping-survey-submit-button-label = Enviar
+shopping-survey-terms-link = Términos de uso
+shopping-survey-thanks-message = ¡Gracias por tus comentarios!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vuelve al <strong>verificador de reseñas</strong> cada vez que veas la etiqueta de precio.
+shopping-callout-pdp-opted-in-title = ¿Son confiables estas reseñas? Descúbrelo rápido.
+shopping-callout-pdp-opted-in-subtitle = Abre el verificador de reseñas para ver una calificación ajustada, eliminando las reseñas no confiables. Además, mira los aspectos más destacados de las reseñas auténticas recientes.
+shopping-callout-closed-not-opted-in-title = Un clic para obtener reseñas confiables
+shopping-callout-closed-not-opted-in-subtitle = Prueba el verificador de reseñas cada vez que veas la etiqueta de precio. Obtén rápidamente información de compradores reales, antes de comprar.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Prueba nuestra guía confiable de reseñas de productos
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Revisa qué tan confiables son las reseñas de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de reseñas, una función experimental de { -vendor-short-name }, está integrado en { -brand-product-name } y también funciona en <b>{ $secondSite }</b> y en <b>{ $thirdSite }</b>.
+shopping-onboarding-opt-in-button = Si, probarlo
+shopping-onboarding-not-now-button = Ahora no
+shopping-onboarding-dialog-close-button =
+    .title = Cerrar
+    .aria-label = Cerrar
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paso { $current } de { $total }
