@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Uppdateringar tillgängliga
-shopping-message-bar-warning-stale-analysis-message = Starta analysatorn { -fakespot-brand-full-name } för att få uppdaterad information inom 60 sekunder.
+shopping-message-bar-warning-stale-analysis-message-2 = Ny info att kontrollera
+shopping-message-bar-warning-stale-analysis-button = Kontrollera nu
 shopping-message-bar-generic-error-title2 = Ingen information tillgänglig just nu
 shopping-message-bar-generic-error-message = Vi jobbar på att lösa problemet. Kom tillbaka snart.
 shopping-message-bar-warning-not-enough-reviews-title = Inte tillräckligt med recensioner ännu
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Kontrollerar recensionens kva
 shopping-message-bar-analysis-in-progress-message2 = Detta kan ta uppåt 60 sekunder.
 shopping-message-bar-page-not-supported-title = Vi kan inte kontrollera dessa recensioner
 shopping-message-bar-page-not-supported-message = Tyvärr kan vi inte kontrollera recensionskvaliteten för vissa typer av produkter. Till exempel presentkort och strömmande video, musik och spel.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Starta analysator på { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Opålitliga recens
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Öppna sidofältet för shopping
-shopping-sidebar-close-button =
-    .tooltiptext = Stäng sidofältet för shopping
+shopping-sidebar-open-button2 =
+    .tooltiptext = Öppna recensionsgranskaren
+shopping-sidebar-close-button2 =
+    .tooltiptext = Stäng recensionsgranskaren
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,26 @@ shopping-callout-pdp-opted-in-title = Är dessa recensioner tillförlitliga? Ta 
 shopping-callout-pdp-opted-in-subtitle = Öppna recensionsgranskaren för att se ett justerat betyg med opålitliga recensioner borttagna. Se dessutom höjdpunkter från de senaste autentiska recensionerna.
 shopping-callout-closed-not-opted-in-title = Ett klick till pålitliga recensioner
 shopping-callout-closed-not-opted-in-subtitle = Ge recensionsgranskaren ett försök när du ser prislappen. Få insikter från riktiga shoppare snabbt — innan du köper.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Prova vår pålitliga guide till produktrecensioner
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du gör ett köp. Recensionsgranskaren, en experimentell funktion från { -vendor-short-name }, är inbyggd direkt i { -brand-product-name } — och den fungerar på <b>{ $secondSite }</b> och <b>{ $thirdSite }</b> också.
+shopping-onboarding-body = Genom att använda kraften i { -fakespot-brand-full-name } hjälper vi dig att undvika partiska och oäkta recensioner. Vår AI-modell förbättras alltid för att skydda dig när du handlar. <a data-l10n-name="learn_more">Läs mer</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-full-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och < a data-l10n-name="terms_of_use">användarvillkor.</a>
+shopping-onboarding-opt-in-button = Ja, prova den
+shopping-onboarding-not-now-button = Inte nu
+shopping-onboarding-dialog-close-button =
+    .title = Stäng
+    .aria-label = Stäng
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Framsteg: steg { $current } av { $total }
