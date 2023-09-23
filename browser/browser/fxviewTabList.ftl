@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Bağlantıyı kopyala
     .accesskey = B
 fxviewtabrow-close-tab = Sekmeyi kapat
     .accesskey = S
+fxviewtabrow-move-tab = Sekmeyi taşı
+    .accesskey = t
+fxviewtabrow-move-tab-start = En başa taşı
+    .accesskey = b
+fxviewtabrow-move-tab-end = En sona taşı
+    .accesskey = s
+fxviewtabrow-move-tab-window = Yeni pencereye taşı
+    .accesskey = Y
+fxviewtabrow-send-tab = Sekmeyi cihaza gönder
+    .accesskey = c
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
