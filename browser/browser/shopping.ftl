@@ -172,7 +172,7 @@ shopping-onboarding-headline = Prova vår pålitliga guide till produktrecension
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du gör ett köp. Recensionsgranskaren, en experimentell funktion från { -vendor-short-name }, är inbyggd direkt i { -brand-product-name } — och den fungerar på <b>{ $secondSite }</b> och <b>{ $thirdSite }</b> också.
 shopping-onboarding-body = Genom att använda kraften i { -fakespot-brand-full-name } hjälper vi dig att undvika partiska och oäkta recensioner. Vår AI-modell förbättras alltid för att skydda dig när du handlar. <a data-l10n-name="learn_more">Läs mer</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-full-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och < a data-l10n-name="terms_of_use">användarvillkor.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-full-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-button = Ja, prova den
 shopping-onboarding-not-now-button = Inte nu
 shopping-onboarding-dialog-close-button =
