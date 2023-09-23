@@ -1153,6 +1153,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Zbiranje in uporaba podatkov { -brand-short-name(sklon: "rodilnik") }
+collection-header2 = Zbiranje in uporaba podatkov v { -brand-short-name(sklon: "mestnik") }
+    .searchkeywords = telemetrija
 collection-description = Trudimo se, da vam ponudimo izbiro in da zbiramo samo tisto, kar potrebujemo za razvoj in izboljšave { -brand-short-name(sklon: "rodilnik") } za vse uporabnike. Pred sprejemanjem osebnih podatkov vas vedno vprašamo za dovoljenje.
 collection-privacy-notice = Obvestilo o zasebnosti
 collection-health-report-telemetry-disabled = Organizaciji { -vendor-short-name } ne dovoljujete več zajemanja tehničnih podatkov in podatkov o uporabi. Vsi pretekli podatki bodo izbrisani v 30 dneh.

@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Kopiraj povezavo
     .accesskey = K
 fxviewtabrow-close-tab = Zapri zavihek
     .accesskey = Z
+fxviewtabrow-move-tab = Premakni zavihek
+    .accesskey = m
+fxviewtabrow-move-tab-start = Premakni na začetek
+    .accesskey = č
+fxviewtabrow-move-tab-end = Premakni na konec
+    .accesskey = k
+fxviewtabrow-move-tab-window = Premakni v novo okno
+    .accesskey = o
+fxviewtabrow-send-tab = Pošlji zavihek na napravo
+    .accesskey = P
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
