@@ -4,14 +4,11 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = Hesaplar ve Parolalar
-
 about-logins-login-filter =
     .placeholder = Hesaplarda ara
     .key = F
-
 create-new-login-button =
     .title = Yeni hesap oluştur
-
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
 fxaccounts-sign-in-sync-button = Eşitlemek için giriş yap
 fxaccounts-avatar-button =
@@ -84,6 +81,7 @@ about-logins-login-intro-heading-logged-out2 = Kayıtlı hesaplarınızı mı ar
 about-logins-login-intro-heading-logged-in = Eşitlenmiş hesap bulunamadı.
 login-intro-description = Hesaplarınızı farklı bir cihazdaki { -brand-product-name } tarayıcınıza kaydettiyseniz onları buraya aktarabilirsiniz:
 login-intro-instructions-fxa = Hesaplarınızın kayıtlı olduğu cihazda { -fxaccount-brand-name } açın veya hesabınıza giriş yapın.
+login-intro-instructions-fxa2 = Hesaplarınızın kayıtlı olduğu cihazda hesap açın veya hesabınıza giriş yapın.
 login-intro-instructions-fxa-settings = Ayarlar > Eşitleme > “Eşitlemeyi başlat…” kısmına gidip “Hesaplar ve parolalar”ı işaretleyin.
 login-intro-instructions-fxa-passwords-help = Yardıma ihtiyacınız varsa <a data-l10n-name="passwords-help-link">parola desteğini</a> ziyaret edebilirsiniz.
 about-logins-intro-browser-only-import = Hesaplarınız başka bir tarayıcıda kayıtlıysa onları <a data-l10n-name="import-link">{ -brand-product-name }’a aktarabilirsiniz</a>
@@ -136,19 +134,16 @@ about-logins-edit-login-os-auth-dialog-message-win = Hesabınızı düzenlemek i
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = kayıtlı hesabı düzenleme
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parolanızı görmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kayıtlı parolayı gösterme
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Parolanızı kopyalamak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kayıtlı parolayı kopyalama
-
 # This message can be seen when attempting to export a password in about:logins on Windows.
 about-logins-export-password-os-auth-dialog-message-win = Hesaplarınızı dışa aktarmak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to export a password in about:logins
@@ -167,7 +162,6 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = İptal
 confirmation-dialog-dismiss-button =
     .title = İptal
-
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
@@ -181,14 +175,12 @@ about-logins-confirm-remove-all-dialog-confirm-button-label =
         [one] Kaldır
        *[other] Tümünü kaldır
     }
-
 about-logins-confirm-remove-all-dialog-checkbox-label =
     { $count ->
         [1] Evet, bu hesabı kaldır
         [one] Evet, bu hesabı kaldır
        *[other] Evet, bu hesapları kaldır
     }
-
 about-logins-confirm-remove-all-dialog-title =
     { $count ->
         [one] { $count } hesap kaldırılsın mı?
@@ -200,7 +192,6 @@ about-logins-confirm-remove-all-dialog-message =
         [one] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesabı ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
        *[other] Bu işlem { -brand-short-name } tarayıcısına kaydettiğiniz hesapları ve burada görünen ihlal uyarılarını kaldıracaktır. Bu işlemi geri alamazsınız.
     }
-
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
         [one] { $count } hesap hepsi tüm cihazlardan kaldırılsın mı?
@@ -218,10 +209,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-export-dialog-title = Hesapları ve parolaları dışa aktarma
 about-logins-confirm-export-dialog-message = Parolalarınız okunabilir metin olarak kaydedilecek (örn. KotuP@r0la), yani dışa aktarılan dosyayı açabilen herkes parolalarınızı görebilecektir.
 about-logins-confirm-export-dialog-confirm-button = Dışa aktar…
-
 about-logins-alert-import-title = İçe aktarma tamamlandı
 about-logins-alert-import-message = Ayrıntılı içe aktarma özetini görüntüle
-
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
 confirm-discard-changes-dialog-confirm-button = Vazgeç
@@ -251,7 +240,6 @@ about-logins-vulnerable-alert-learn-more-link = Daha fazla bilgi al
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } için bu kullanıcı adına sahip bir kayıt zaten var. <a data-l10n-name="duplicate-link">Mevcut kayda gitmek ister misiniz?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Bu parola kaydedilirken bir hata oluştu.
 
@@ -301,13 +289,11 @@ about-logins-import-dialog-items-added =
         [one] <span>Eklenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Eklenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-modified =
     { $count ->
         [one] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
        *[other] <span>Güncellenen hesap sayısı:</span> <span data-l10n-name="count">{ $count }</span>
     }
-
 about-logins-import-dialog-items-no-change =
     { $count ->
        *[other] <span>Bulunan mükerrer hesap:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılmadı)</span>
@@ -318,7 +304,6 @@ about-logins-import-dialog-items-error =
        *[other] <span>Hata:</span> <span data-l10n-name="count">{ $count }</span> <span data-l10n-name="meta">(içe aktarılamadı)</span>
     }
 about-logins-import-dialog-done = Tamam
-
 about-logins-import-dialog-error-title = İçe Aktarma Hatası
 about-logins-import-dialog-error-conflicting-values-title = Bir Hesap için Çakışan Değerler
 about-logins-import-dialog-error-conflicting-values-description = Örnek: bir hesap için birden çok kullanıcı adı, parola, URL vb.
@@ -332,10 +317,8 @@ about-logins-import-dialog-error-no-logins-imported = Hiçbir hesap içe aktarı
 about-logins-import-dialog-error-learn-more = Daha fazla bilgi al
 about-logins-import-dialog-error-try-import-again = Tekrar içe aktarmayı dene…
 about-logins-import-dialog-error-cancel = Vazgeç
-
 about-logins-import-report-title = İçe Aktarma Özeti
 about-logins-import-report-description = { -brand-short-name } tarayıcınıza aktarılan hesap ve parolalar.
-
 #
 # Variables:
 #  $number (number) - The number of the row

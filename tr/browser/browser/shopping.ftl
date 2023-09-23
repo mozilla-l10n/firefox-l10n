@@ -6,6 +6,7 @@ shopping-page-title = { -brand-product-name } Alışveriş
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Değerlendirme kontrolcüsü
+shopping-beta-marker = Beta
 shopping-close-button =
     .title = Kapat
 # This string is for notifying screen reader users that the
@@ -29,25 +30,11 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Güncelleme var
-shopping-message-bar-generic-error-title = Analiz şu anda kullanılamıyor
 shopping-message-bar-generic-error-message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
 shopping-message-bar-warning-not-enough-reviews-title = Henüz yeterli değerlendirme yok
-shopping-message-bar-warning-not-enough-reviews-message = Bu ürüne daha fazla değerlendirme geldiğinde bunları analiz edebileceğiz.
 shopping-message-bar-warning-product-not-available-title = Ürün mevcut değil
-shopping-message-bar-warning-product-not-available-message = Bu ürünün yeniden stoğa girdiğini görürseniz bize bildirin, biz de analizi güncellemeye çalışalım.
 shopping-message-bar-thanks-for-reporting-title = Bildirdiğiniz için teşekkürler!
-shopping-message-bar-warning-product-not-available-reported-title = Analiz yakında geliyor
-shopping-message-bar-warning-offline-title = Ağ bağlantısı yok
-shopping-message-bar-analysis-in-progress-title = Analiz yakında geliyor
 shopping-message-bar-page-not-supported-title = Bu değerlendirmeleri kontrol edemiyoruz
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the product review snippets card
 
@@ -82,10 +69,6 @@ shopping-analysis-explainer-label =
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Alışveriş kenar çubuğunu aç
-shopping-sidebar-close-button =
-    .tooltiptext = Alışveriş kenar çubuğunu kapat
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -94,8 +77,35 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Bu değerlendirmeler için henüz analiz yok
 
 ## Strings for the advertisement
 
 ad-by-fakespot = { -fakespot-brand-name } reklamı
+
+## Shopping survey strings.
+
+shopping-survey-q2-radio-1-label = Evet
+shopping-survey-q2-radio-2-label = Hayır
+shopping-survey-q2-radio-3-label = Bilmiyorum
+shopping-survey-next-button-label = İleri
+shopping-survey-submit-button-label = Gönder
+shopping-survey-terms-link = Kullanım koşulları
+shopping-survey-thanks-message = Geri bildiriminiz için teşekkürler!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+
+shopping-onboarding-not-now-button = Şimdi değil
+shopping-onboarding-dialog-close-button =
+    .title = Kapat
+    .aria-label = Kapat
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = İlerleme: adım { $current } / { $total }
