@@ -41,7 +41,7 @@ mr1-return-to-amo-add-extension-label = 添加 { $addon-name }
 #   $total (Int) - Total number of pages
 
 onboarding-welcome-steps-indicator-label =
-    .aria-label = 进度：步骤 { $current } / { $total }
+    .aria-label = 进度：第 { $current } 步，共 { $total } 步
 # This button will open system settings to turn on prefers-reduced-motion
 mr1-onboarding-reduce-motion-button-label = 关闭动画
 # String for the Firefox Accounts button
