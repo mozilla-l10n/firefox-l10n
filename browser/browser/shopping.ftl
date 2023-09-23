@@ -140,11 +140,14 @@ ad-by-fakespot = Reklama od { -fakespot-brand-name(case: "gen") }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Pomozte nám zlepšit nástroj { -brand-product-name }
+shopping-survey-question-one = Jak jste spokojení s nástrojem kontroly recenzí ve { -brand-product-name(case: "loc") }?
 shopping-survey-q1-radio-1-label = Velmi spokojený
 shopping-survey-q1-radio-2-label = Spokojený
 shopping-survey-q1-radio-3-label = Neutrální
 shopping-survey-q1-radio-4-label = Nespokojený
 shopping-survey-q1-radio-5-label = Velmi nespokojený
+shopping-survey-question-two = Usnadňuje vám nástroj pro kontrolu recenzí rozhodování o nákupu?
 shopping-survey-q2-radio-1-label = Ano
 shopping-survey-q2-radio-2-label = Ne
 shopping-survey-q2-radio-3-label = Nevím
@@ -157,10 +160,22 @@ shopping-survey-thanks-message = Děkujeme za vaši zpětnou vazbu!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vraťte se ke <strong>kontrole recenzí</strong>, kdykoli uvidíte cenovku.
+shopping-callout-pdp-opted-in-title = Jsou tyto recenze spolehlivé? Zjistěte to rychle.
+shopping-callout-pdp-opted-in-subtitle = Otevřete nástroj pro kontrolu recenzí a zobrazte upravené hodnocení s odstraněnými nespolehlivými recenzemi. Navíc si můžete prohlédnout hlavní body z nedávných autentických recenzí.
+shopping-callout-closed-not-opted-in-title = Jedním klepnutím na spolehlivé recenze
+shopping-callout-closed-not-opted-in-subtitle = Vyzkoušejte nástroj pro kontrolu recenzí, kdykoli uvidíte cenovku. Získejte rychle informace od skutečných zákazníků — ještě před nákupem.
 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Vyzkoušejte našeho důvěryhodného průvodce recenzemi produktů
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -vendor-short-name }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Pomocí funkce { -fakespot-brand-full-name } vám pomůžeme vyhnout se neobjektivním a neautentickým recenzím. Náš model umělé inteligence se neustále zdokonaluje, aby vás při nakupování chránil. <a data-l10n-name="learn_more">Dozvědět se více</a>
 shopping-onboarding-opt-in-button = Ano, vyzkoušet
 shopping-onboarding-not-now-button = Teď ne
 shopping-onboarding-dialog-close-button =
