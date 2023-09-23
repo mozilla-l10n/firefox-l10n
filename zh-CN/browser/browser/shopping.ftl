@@ -6,6 +6,7 @@ shopping-page-title = { -brand-product-name } 购物
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = 核查评价
+shopping-beta-marker = 测试版
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
 # Any changes to shopping-main-container-title and
@@ -39,6 +40,7 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = 了解新信息
 shopping-message-bar-warning-stale-analysis-button = 立即了解
+shopping-message-bar-generic-error-title2 = 目前没有可提供的信息
 shopping-message-bar-generic-error-message = 我们正努力解决此问题，请稍后再试。
 shopping-message-bar-warning-not-enough-reviews-title = 还没有足够数量的评价
 shopping-message-bar-warning-not-enough-reviews-message2 = 此商品获得更多评价后，我们就能开始分析其评价的质量。
@@ -50,6 +52,7 @@ shopping-message-bar-thanks-for-reporting-message2 = 我们会在 24 小时内�
 shopping-message-bar-warning-product-not-available-reported-title2 = 分析信息即将就绪
 shopping-message-bar-warning-product-not-available-reported-message2 = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
 shopping-message-bar-analysis-in-progress-title2 = 正在核查评价质量
+shopping-message-bar-analysis-in-progress-message2 = 这可能需要大约 60 秒。
 shopping-message-bar-page-not-supported-title = 无法核查这些评价
 shopping-message-bar-page-not-supported-message = 很抱歉，我们无法核查某些类型商品的评价质量，例如礼品卡、流媒体视频、音乐、游戏。
 
@@ -135,8 +138,19 @@ ad-by-fakespot = { -fakespot-brand-name } 提供的广告
 
 ## Shopping survey strings.
 
+shopping-survey-headline = 帮助改进 { -brand-product-name }
 shopping-survey-question-one = 您满意 { -brand-product-name } 核查评价的使用体验吗？
+shopping-survey-q1-radio-1-label = 非常满意
+shopping-survey-q1-radio-2-label = 满意
+shopping-survey-q1-radio-3-label = 无感
+shopping-survey-q1-radio-4-label = 不满意
+shopping-survey-q1-radio-5-label = 非常不满意
 shopping-survey-question-two = 核查评价是否能让您更轻松做出购买决定？
+shopping-survey-q2-radio-1-label = 有
+shopping-survey-q2-radio-2-label = 无
+shopping-survey-q2-radio-3-label = 说不准
+shopping-survey-next-button-label = 下一步
+shopping-survey-submit-button-label = 提交
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to

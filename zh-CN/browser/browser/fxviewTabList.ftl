@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = 复制链接
     .accesskey = L
 fxviewtabrow-close-tab = 关闭标签页
     .accesskey = C
+fxviewtabrow-move-tab = 移动标签页
+    .accesskey = v
+fxviewtabrow-move-tab-start = 移动到开头
+    .accesskey = S
+fxviewtabrow-move-tab-end = 移动到末尾
+    .accesskey = E
+fxviewtabrow-move-tab-window = 移动到新窗口
+    .accesskey = W
+fxviewtabrow-send-tab = 发送标签页到设备
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
