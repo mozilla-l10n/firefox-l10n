@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Copiar lo ligam
     .accesskey = l
 fxviewtabrow-close-tab = Tampar l’onglet
     .accesskey = T
+fxviewtabrow-move-tab = Desplaçar l’onglet
+    .accesskey = e
+fxviewtabrow-move-tab-start = Desplaçar a la debuta
+    .accesskey = d
+fxviewtabrow-move-tab-end = Desplaçar a la fin
+    .accesskey = f
+fxviewtabrow-move-tab-window = Desplaçar cap a una fenèstra novèla
+    .accesskey = n
+fxviewtabrow-send-tab = Enviar l'onglet al periferic
+    .accesskey = a
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

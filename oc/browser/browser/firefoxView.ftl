@@ -39,6 +39,7 @@ firefoxview-tabpickup-synctabs-primarybutton = Sincronizar los onglets dobèrts
 firefoxview-syncedtabs-synctabs-header = Actualizatz vòstres paramètres de sincronizacion
 firefoxview-syncedtabs-synctabs-description = Per consultar los onglets d’autres aparelhs, devètz sincronizar vòstres onglets dobèrts.
 firefoxview-syncedtabs-synctabs-checkbox = Autorizar la sincronizacion dels onglets dobèrts
+firefoxview-syncedtabs-loading-header = Sincronizacion en cors
 firefoxview-tabpickup-fxa-admin-disabled-header = Vòstra organizacion a desactivat la sincronizacion
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } pòt pas sincronizar d’onglets entre aparelhs pr’amor que vòstre administrator a desactivat la sincronizacion.
 firefoxview-tabpickup-network-offline-header = Verificatz la connexion Internet
@@ -191,9 +192,6 @@ firefoxview-import-history-header = Importar l’istoric d'un autre navegador
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 firefoxview-recentlyclosed-empty-header = Avètz tampat los onglets per inatencion ?
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
