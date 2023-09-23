@@ -625,9 +625,9 @@ reader-view-close-button =
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
 picture-in-picture-urlbar-button-open =
-    .tooltiptext = 打开画中画（{ $shortcut }）
+    .tooltiptext = 打开画中画 ({ $shortcut })
 picture-in-picture-urlbar-button-close =
-    .tooltiptext = 关闭画中画（{ $shortcut }）
+    .tooltiptext = 关闭画中画 ({ $shortcut })
 picture-in-picture-panel-header = 画中画
 picture-in-picture-panel-headline = 不推荐在此网站使用画中画
 picture-in-picture-panel-body = 开启画中画后，视频可能会不按开发者预期的效果显示。
@@ -916,7 +916,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
-firefox-relay-offer-why-to-use-relay = 我们安全且易用的邮箱马甲通过隐藏您的电子邮件地址来保护您的身份并防止垃圾邮件。
+firefox-relay-offer-why-to-use-relay = 我们安全易用的马甲邮箱可隐藏您的邮件地址，帮助您保护身份信息、防止垃圾邮件侵扰。
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = 发送到马甲邮箱的所有电子邮件都将转发到 <strong>{ $useremail }</strong>（除非您决定阻止它们）。
