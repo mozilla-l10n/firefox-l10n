@@ -57,6 +57,11 @@ client-auth-window =
     .title = Erabiltzaile identifikazioaren eskaera
 client-auth-site-description = Gune honek zeure burua ziurtagiri batez identifikatzeko eskatu dizu:
 client-auth-choose-cert = Aukeratu ziurtagiri bat identifikazio gisa aurkezteko:
+client-auth-send-no-certificate =
+    .label = Ez bidali ziurtagiria
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = "{ $hostname }" ostalariak zure burua ziurtagiri bidez identifikatzeko eskatu dizu:
 client-auth-cert-details = Hautatutako ziurtagiriaren xehetasunak:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
