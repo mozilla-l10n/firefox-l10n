@@ -28,6 +28,7 @@ policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtag
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ezarri edukiontziei lotutako politikak.
+policy-DisableAccounts = Desgaitu kontuetan oinarritutako zerbitzuak, sinkronizazioa barne.
 policy-DisabledCiphers = Desgaitu zifratzeak.
 policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
 policy-DisableAppUpdate = Eragotzi nabigatzailea eguneratzea.
@@ -70,6 +71,7 @@ policy-Extensions = Instalatu, desinstalatu edo blokeatu hedapenak. Instalatzeko
 policy-ExtensionSettings = Kudeatu hedapenen instalazioko arlo guztiak.
 policy-ExtensionUpdate = Gaitu edo desgaitu hedapenen eguneraketa automatikoa.
 policy-FirefoxHome2 = Konfiguratu { -firefox-home-brand-name }.
+policy-FirefoxSuggest = Konfiguratu { -firefox-suggest-brand-name }.
 policy-GoToIntranetSiteForSingleWordEntryInAddressBar = Hitz bakarreko sarrerak helbide-barran idaztean, behartu intranet gunerako nabigazio zuzena bilaketa egin ordez.
 policy-Handlers = Konfiguratu aplikazio-maneiatzaile lehenetsiak.
 policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituko da.
