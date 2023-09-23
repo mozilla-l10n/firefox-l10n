@@ -52,10 +52,12 @@ perftools-status-restart-required = Pro povolení této funkce je potřeba prohl
 ## These are shown briefly when the user is waiting for the profiler to respond.
 
 perftools-request-to-stop-profiler = Ukončuje se nahrávání
+perftools-request-to-get-profile-and-stop-profiler = Zachytává se profil
 
 ##
 
 perftools-button-start-recording = Spustit nahrávání
+perftools-button-capture-recording = Zachytit záznam
 perftools-button-cancel-recording = Zrušit nahrávání
 perftools-button-save-settings = Uložit nastavení a přejít zpět
 perftools-button-restart = Restartovat

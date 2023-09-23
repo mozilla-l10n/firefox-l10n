@@ -30,8 +30,12 @@ toolbox-meatball-menu-pseudo-locale-bidi = Zapnout “bidi” jazyk
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
 toolbox-mode-everything-sub-label = (pomalejší)
+toolbox-mode-everything-container =
+    .title = Ladit vše ve všech procesech
 toolbox-mode-parent-process-label = Pouze nadřazený proces
 toolbox-mode-parent-process-sub-label = (rychlejší)
+toolbox-mode-parent-process-container =
+    .title = Zaměřit se pouze na zdroje z nadřazeného procesu.
 toolbox-always-on-top-enabled2 = Zakázat vždy navrchu
     .title = Způsobí restart Nástrojů pro vývojáře
 toolbox-always-on-top-disabled2 = Povolit vždy navrchu
