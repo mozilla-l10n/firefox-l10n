@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = «{ -relay-brand-name }» ниқобҳ
 ##
 
 firefox-relay-must-login-to-fxa = Барои истифода бурдани «{ -relay-brand-name }» шумо бояд ба «{ -fxaccount-brand-name }» ворид шавед.
+firefox-relay-must-login-to-account = Барои истифода кардани ниқобҳои почтаи электронии «{ -relay-brand-name }» ба ҳисоби худ ворид шавед.
 firefox-relay-get-unlimited-masks =
     .label = Идоракунии ниқобҳо
     .accesskey = И
