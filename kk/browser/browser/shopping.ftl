@@ -5,6 +5,7 @@
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Пікірлерді тексеру
+shopping-beta-marker = Бета
 shopping-close-button =
     .title = Жабу
 # This string is for notifying screen reader users that the
@@ -30,14 +31,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Жаңартулар қолжетімді
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
+shopping-message-bar-warning-stale-analysis-button = Қазір тексеру
 
 ## Strings for the product review snippets card
 
@@ -77,3 +71,32 @@ shopping-settings-label =
 
 ## Strings for the advertisement
 
+
+## Shopping survey strings.
+
+shopping-survey-q2-radio-1-label = Иә
+shopping-survey-q2-radio-2-label = Жоқ
+shopping-survey-q2-radio-3-label = Мен білмеймін
+shopping-survey-next-button-label = Келесі
+shopping-survey-submit-button-label = Жіберу
+shopping-survey-terms-link = Қолдану шарттары
+shopping-survey-thanks-message = Пікіріңізге рахмет!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+
+shopping-onboarding-opt-in-button = Иә, қолданып көру
+shopping-onboarding-not-now-button = Қазір емес
+shopping-onboarding-dialog-close-button =
+    .title = Жабу
+    .aria-label = Жабу
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Орындалу барысы: қадам { $current }, { $total } ішінен
