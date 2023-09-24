@@ -367,6 +367,7 @@ identity-https-only-dropdown-off-temporarily =
 identity-https-only-info-turn-on2 = Active o modo con só HTTPS para este sitio se desexa que o { -brand-short-name } anove a conexión se for posíbel.
 identity-https-only-info-turn-off2 = Se a páxina semella estar estragada, probe a desactivar o modo con só HTTPS para este sitio e a cargala de novo empregando o inseguro HTTP.
 identity-https-only-info-turn-on3 = Activar as actualizacións HTTPS para este sitio se quere que { -brand-short-name } actualice a conexión cando sexa posible.
+identity-https-only-info-turn-off3 = Se a páxina parece rota, pode desactivar as actualizacións de HTTPS para que este sitio volva cargar usando HTTP inseguro.
 identity-https-only-info-no-upgrade = Non foi posíbel anovar a conexión desde HTTP.
 identity-permissions-storage-access-header = Rastrexadores entre sitios
 identity-permissions-storage-access-hint = Estas partes poden usar cookies e datos de sitios entre sitios mentres estea neste sitio.

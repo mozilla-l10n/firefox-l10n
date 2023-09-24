@@ -23,6 +23,7 @@ addon-post-install-message = Engadiuse { $addonName }.
 # Variables:
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Executar { $addonName } en sitios restrinxidos?
+webext-quarantine-confirmation-line-1 = Para protexer os seus datos, esta extensión non está permitida neste sitio.
 webext-quarantine-confirmation-allow =
     .label = Permitir
     .accesskey = P
