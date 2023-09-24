@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } қайта па�
 ##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } пайдалану үшін сізге { -fxaccount-brand-name } жүйесіне кіру керек.
+firefox-relay-must-login-to-account = { -relay-brand-name } электрондық пошта маскаларын пайдалану үшін тіркелгіңізге кіріңіз.
 firefox-relay-get-unlimited-masks =
     .label = Маскаларды басқару
     .accesskey = М
