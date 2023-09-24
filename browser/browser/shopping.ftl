@@ -172,7 +172,7 @@ shopping-onboarding-headline = Оцените наше руководство п
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Прежде чем совершить покупку, проверьте, насколько надежны отзывы о продуктах на <b>{ $currentSite }</b>. Проверка отзывов, экспериментальная функция от { -vendor-short-name }, встроена прямо в { -brand-product-name } и работает на <b>{ $secondSite }</b>, а также <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Используя возможности { -fakespot-brand-full-name }, мы помогаем вам избежать предвзятых и недостоверных отзывов. Наша модель искусственного интеллекта постоянно совершенствуется, чтобы защитить вас во время покупок. <a data-l10n-name="learn_more">Подробнее</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Да, попробовать
 shopping-onboarding-not-now-button = Не сейчас
 shopping-onboarding-dialog-close-button =
