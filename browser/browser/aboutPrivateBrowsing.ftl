@@ -72,3 +72,5 @@ about-private-browsing-cookie-banners-promo-message = Мазасыз шолуғ�
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Бұл құрылғыда із қалдырмау
+about-private-browsing-felt-privacy-v1-info-body = Барлық жеке терезелерді жапқанда, { -brand-short-name } сіздің cookie файлдарын, тарихты және сайт деректерін өшіреді.
+about-private-browsing-felt-privacy-v1-info-link = Менің белсенділігімді кім көре алады?
