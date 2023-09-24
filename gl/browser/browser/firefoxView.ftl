@@ -62,6 +62,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Introduza o contrasinal pr
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Máis información</a>
 firefoxview-tabpickup-signed-out-header = Identifíquese para reconectar
 firefoxview-tabpickup-signed-out-description = Para conectar de novo e coller as súas lapelas, inicie sesión no teu { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Para volver conectar e coller as túas pestanas, inicie sesión na súa conta.
 firefoxview-tabpickup-signed-out-primarybutton = Acceder
 firefoxview-tabpickup-syncing = Agarde mentres se sincronizan as lapelas. Será só un momento.
 firefoxview-mobile-promo-header = Colla lapelas do seu teléfono ou tableta
