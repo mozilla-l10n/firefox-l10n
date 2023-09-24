@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Sú dostupné aktualizácie
-shopping-message-bar-warning-stale-analysis-message = Spustite analyzátor { -fakespot-brand-full-name } a získajte aktualizované informácie za približne 60 sekúnd.
+shopping-message-bar-warning-stale-analysis-message-2 = Nové informácie na skontrolovanie
+shopping-message-bar-warning-stale-analysis-button = Skontrolovať teraz
 shopping-message-bar-generic-error-title2 = Momentálne nie sú dostupné žiadne informácie
 shopping-message-bar-generic-error-message = Pracujeme na vyriešení problému. Skúste sa vrátiť o trochu neskôr.
 shopping-message-bar-warning-not-enough-reviews-title = Zatiaľ nie je dostatok recenzií
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Kontroluje sa kvalita recenzi
 shopping-message-bar-analysis-in-progress-message2 = Môže to trvať asi 60 sekúnd.
 shopping-message-bar-page-not-supported-title = Tieto recenzie nemôžeme skontrolovať
 shopping-message-bar-page-not-supported-message = Bohužiaľ nemôžeme skontrolovať kvalitu recenzií určitých typov produktov. Napríklad darčekové karty alebo streamovanie videa, hudby a hier.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Spustiť analyzátor na { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Nespoľahlivé rec
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Otvoriť bočný panel Nákupy
-shopping-sidebar-close-button =
-    .tooltiptext = Zavrieť bočný panel Nákupy
+shopping-sidebar-open-button2 =
+    .tooltiptext = Otvoriť Kontrolu recenzií
+shopping-sidebar-close-button2 =
+    .tooltiptext = Zavrieť Kontrolu recenzií
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,18 @@ shopping-callout-pdp-opted-in-title = Sú tieto recenzie spoľahlivé? Zistite t
 shopping-callout-pdp-opted-in-subtitle = Ak chcete zobraziť upravené hodnotenie s odstránenými nespoľahlivými recenziami, otvorte nástroj na kontrolu recenzií. Navyše si pozrite najdôležitejšie momenty z nedávnych autentických recenzií.
 shopping-callout-closed-not-opted-in-title = Spoľahlivé recenzie na jedno kliknutie
 shopping-callout-closed-not-opted-in-subtitle = Vyskúšajte Kontrolu recenzií vždy, keď uvidíte cenovku. Jednoducho získate štatistiky od skutočných kupujúcich – ešte pred nákupom.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Vyskúšajte nášho dôveryhodného sprievodcu recenziami produktov
+shopping-onboarding-opt-in-button = Áno, vyskúšať
+shopping-onboarding-not-now-button = Teraz nie
+shopping-onboarding-dialog-close-button =
+    .title = Zavrieť
+    .aria-label = Zavrieť
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Priebeh: krok { $current } z { $total }
