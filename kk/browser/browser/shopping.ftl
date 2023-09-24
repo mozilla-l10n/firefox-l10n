@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = { -brand-product-name } көмегімен сатып алулар
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Пікірлерді тексеру
@@ -142,6 +143,7 @@ shopping-survey-q1-radio-2-label = Жақсы
 shopping-survey-q1-radio-3-label = Бейтарап
 shopping-survey-q1-radio-4-label = Нашар
 shopping-survey-q1-radio-5-label = Өте нашар
+shopping-survey-question-two = Пікірлер сапасын тексеру құралы сатып алу туралы шешім қабылдауды жеңілдетеді ме?
 shopping-survey-q2-radio-1-label = Иә
 shopping-survey-q2-radio-2-label = Жоқ
 shopping-survey-q2-radio-3-label = Мен білмеймін
@@ -154,9 +156,15 @@ shopping-survey-thanks-message = Пікіріңізге рахмет!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Бағаны көрген сайын <strong>пікірлерді тексеру құралына</strong> оралыңыз.
+shopping-callout-pdp-opted-in-title = Бұл пікірлер сенімді ме? Жылдам түрде біліңіз.
+shopping-callout-pdp-opted-in-subtitle = Сенімсіз пікірлер өшіріліп, түзетілген рейтингті көру үшін пікірлерді тексеру құралын ашыңыз. Сонымен қатар, соңғы шынайы пікірлерден маңызды сәттерді қараңыз.
+shopping-callout-closed-not-opted-in-title = Сенімді пікірлерге үшін бір рет шерту
+shopping-callout-closed-not-opted-in-subtitle = Бағаны көрген кезде пікірлерді қолдану құралын қолданып көріңіз. Сатып алуға дейін нақты сатып алушылардан ақпаратты жылдам алыңыз.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Өнім пікірлерінің сенімділігі туралы біздің нұсқаулықты қолданып көріңіз
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
@@ -164,6 +172,7 @@ shopping-survey-thanks-message = Пікіріңізге рахмет!
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Сатып алғанға дейін <b>{ $currentSite }</b> сайтындағы өнім пікірлері қаншалықты сенімді екенін қараңыз. Пікірлерді тексеру құралын { -vendor-short-name } сынамалы түрде ұсынады, ол тура { -brand-product-name } ішінде қолжетімді — сонымен қатар, ол <b>{ $secondSite }</b> және <b>{ $thirdSite }</b> сайттарында да істейді.
 shopping-onboarding-body = { -fakespot-brand-full-name } мүмкіндігін пайдалана отырып, біз сізге біржақты және шынайы емес пікірлерден аулақ болуға көмектесеміз. Сатып алу кезінде сізді қорғау үшін біздің AI моделіміз үнемі жетілдіріліп отырады. <a data-l10n-name="learn_more">Көбірек білу</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = "{ shopping-onboarding-opt-in-button }" опциясын таңдау арқылы сіз { -fakespot-brand-full-name } қолданбасының <a data-l10n-name="privacy_policy">жекелік саясаты</a> және <a data-l10n-name="terms_of_use">қолдану шарттарымен</a>  келісесіз.
 shopping-onboarding-opt-in-button = Иә, қолданып көру
 shopping-onboarding-not-now-button = Қазір емес
 shopping-onboarding-dialog-close-button =
