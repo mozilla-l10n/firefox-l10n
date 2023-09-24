@@ -158,6 +158,7 @@ language-name-ro = Rumence
 language-name-ru = Rusça
 language-name-rw = Kinyarwanda Dili
 language-name-sa = Sanskritçe
+language-name-sat = Santalice
 language-name-sc = Sardinya Dili
 language-name-sco = İskoçça
 language-name-sd = Sind Dili
