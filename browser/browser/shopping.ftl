@@ -47,11 +47,22 @@ shopping-message-bar-warning-product-not-available-title = Өнім қолжет
 shopping-message-bar-warning-product-not-available-message2 = Бұл өнімнің қоймаға қайта оралғанын көрсеңіз, оны бізге хабарлаңыз, біз пікірлерді тексереміз.
 shopping-message-bar-warning-product-not-available-button = Бұл өнімнің қоймаға оралғанын хабарлау
 shopping-message-bar-thanks-for-reporting-title = Хабарламаңыз үшін рахмет!
+shopping-message-bar-thanks-for-reporting-message2 = Бізде осы өнімнің пікірлері туралы ақпарат 24 сағат ішінде болуы керек. Кейінірек қайта тексеріңіз.
+shopping-message-bar-warning-product-not-available-reported-title2 = Ақпарат жақында болады
+shopping-message-bar-warning-product-not-available-reported-message2 = Бізде осы өнімнің пікірлері туралы ақпарат 24 сағат ішінде болуы керек. Кейінірек қайта тексеріңіз.
+shopping-message-bar-analysis-in-progress-title2 = Пікір сапасын тексеру
+shopping-message-bar-analysis-in-progress-message2 = Бұл шамамен 60 секундқа созылуы мүмкін.
+shopping-message-bar-page-not-supported-title = Біз бұл пікірлерді тексере алмаймыз
+shopping-message-bar-page-not-supported-message = Өкінішке орай, біз белгілі бір өнім түрлерінің пікірлер сапасын тексере алмаймыз. Мысалы, сыйлық карталары және ағынды видео, музыка және ойындар.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Соңғы пікірлердің маңызды сәттері
 shopping-highlight-price = Бағасы
 shopping-highlight-quality = Сапасы
+shopping-highlight-shipping = Жеткізілім
+shopping-highlight-competitiveness = Бәсекеге қабілеттілік
 shopping-highlight-packaging = Қаптама
 
 ## Strings for show more card
@@ -63,6 +74,9 @@ shopping-show-less-button = Азырақ көрсету
 
 shopping-settings-label =
     .label = Баптаулар
+shopping-settings-recommendations-toggle =
+    .label = Пікірлерді тексеру құралында жарнаманы көрсету
+shopping-settings-opt-out-button = Пікірлерді тексеру құралын сөндіру
 
 ## Strings for the adjusted rating component
 
@@ -75,6 +89,10 @@ shopping-settings-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Пікірлерді тексеру құралын ашу
+shopping-sidebar-close-button2 =
+    .tooltiptext = Пікірлерді тексеру құралын жабу
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -83,9 +101,13 @@ shopping-settings-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Бұл пікірлер туралы ақпарат әлі жоқ
+shopping-unanalyzed-product-analyze-button = Пікір сапасын тексеру
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Көбірек қарастыру үшін
 
 ## Shopping survey strings.
 
