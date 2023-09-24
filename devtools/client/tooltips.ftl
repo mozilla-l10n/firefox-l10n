@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> бұл элемен�
 inactive-css-not-flex-container = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол flex контейнері емес.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені ол inline немесе кесте ұяшығы элементі емес.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> үшін түспен ерекшелеу ::first-line псевдо-элементтерде қолдау жоқ.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> қасиеті үшін ::first-letter псевдо-элементтерде қолдау жоқ.
 inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> қасиеті үшін ::placeholder псевдо-элементтерде қолдау жоқ.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> бұл элементке әсер етпейді, өйткені оның display қасиеті <strong>{ $display }</strong> етіп берілген.
 inactive-css-not-display-block-on-floated = <strong>display</strong> қасиетінің мәні қозғалтқышпен <strong>block</strong> етіп өзгертілді, өйткені элемент <strong>қалқымалы</strong>.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> бұл элементке әсер етпейді, себебі оны аталық кесте элементінде <strong>border-collapse</strong> үшін <strong>collapse</strong> мәні орнатылған ішкі кесте элементтері үшін іске асыру мүмкін емес.
 inactive-css-ruby-element = <strong>{ $property }</strong> бұл элементке әсер етпейді, себебі ол ruby элементі. Оның өлшемі ruby мәтінінің қаріп өлшемімен анықталады.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> үшін түспен ерекшелеу псевдо-элементтерде қолдау жоқ.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> қасиеті үшін ::cue псевдо-элементтерде қолдау жоқ.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
