@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Доступны обновления
-shopping-message-bar-warning-stale-analysis-message = Запустите анализатор { -fakespot-brand-full-name }, чтобы получить обновленную информацию примерно через 60 секунд.
+shopping-message-bar-warning-stale-analysis-message-2 = Новая информация для проверки
+shopping-message-bar-warning-stale-analysis-button = Проверить сейчас
 shopping-message-bar-generic-error-title2 = На данный момент нет доступной информации
 shopping-message-bar-generic-error-message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
 shopping-message-bar-warning-not-enough-reviews-title = Пока недостаточно отзывов
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Проверяем качес
 shopping-message-bar-analysis-in-progress-message2 = Это может занять около 60 секунд.
 shopping-message-bar-page-not-supported-title = Мы не можем проверить эти отзывы
 shopping-message-bar-page-not-supported-message = К сожалению, мы не можем проверить качество отзывов на некоторые виды товаров. Например, подарочные карты и потоковое видео, музыку и игры.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Запустите анализатор на { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Недостове
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Открыть боковую панель покупок
-shopping-sidebar-close-button =
-    .tooltiptext = Закрыть боковую панель покупок
+shopping-sidebar-open-button2 =
+    .tooltiptext = Открыть проверку отзывов
+shopping-sidebar-close-button2 =
+    .tooltiptext = Закрыть проверку отзывов
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,26 @@ shopping-callout-pdp-opted-in-title = Эти отзывы заслуживают
 shopping-callout-pdp-opted-in-subtitle = Откройте инструмент проверки отзывов, чтобы увидеть скорректированную оценку и удалить ненадежные отзывы. Кроме того, посмотрите основные моменты из недавних достоверных обзоров.
 shopping-callout-closed-not-opted-in-title = Одно нажатие для надежных отзывов
 shopping-callout-closed-not-opted-in-subtitle = Используйте инструмент проверки отзывов каждый раз, когда увидите цену. Быстро получите информацию от реальных покупателей — прежде чем совершить покупку.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Оцените наше руководство по достоверности отзывов на продукты
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Прежде чем совершить покупку, проверьте, насколько надежны отзывы о продуктах на <b>{ $currentSite }</b>. Проверка отзывов, экспериментальная функция от { -vendor-short-name }, встроена прямо в { -brand-product-name } и работает на <b>{ $secondSite }</b>, а также <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Используя возможности { -fakespot-brand-full-name }, мы помогаем вам избежать предвзятых и недостоверных отзывов. Наша модель искусственного интеллекта постоянно совершенствуется, чтобы защитить вас во время покупок. <a data-l10n-name="learn_more">Подробнее</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования.</a>
+shopping-onboarding-opt-in-button = Да, попробовать
+shopping-onboarding-not-now-button = Не сейчас
+shopping-onboarding-dialog-close-button =
+    .title = Закрыть
+    .aria-label = Закрыть
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Прогресс: шаг { $current } из { $total }
