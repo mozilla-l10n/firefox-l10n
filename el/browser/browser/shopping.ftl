@@ -38,18 +38,14 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Διαθέσιμες ενημερώσεις
+shopping-message-bar-warning-stale-analysis-message-2 = Νέες πληροφορίες προς έλεγχο
+shopping-message-bar-warning-stale-analysis-button = Έλεγχος τώρα
 shopping-message-bar-warning-not-enough-reviews-title = Δεν υπάρχουν ακόμα αρκετές κριτικές
 shopping-message-bar-warning-product-not-available-title = Το προϊόν δεν είναι διαθέσιμο
 shopping-message-bar-thanks-for-reporting-title = Ευχαριστούμε για την αναφορά!
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Εκκίνηση ανάλυσης στο { -fakespot-website-name }
+shopping-message-bar-analysis-in-progress-title2 = Έλεγχος ποιότητας κριτικής
+shopping-message-bar-analysis-in-progress-message2 = Αυτό μπορεί να διαρκέσει περίπου 60 δευτερόλεπτα.
+shopping-message-bar-page-not-supported-title = Δεν μπορούμε να ελέγξουμε αυτές τις κριτικές
 
 ## Strings for the product review snippets card
 
@@ -90,6 +86,10 @@ shopping-review-reliability-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Άνοιγμα ελέγχου κριτικών
+shopping-sidebar-close-button2 =
+    .tooltiptext = Κλείσιμο ελέγχου κριτικών
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -98,6 +98,7 @@ shopping-review-reliability-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-analyze-button = Έλεγχος ποιότητας κριτικής
 
 ## Strings for the advertisement
 
@@ -117,8 +118,25 @@ shopping-survey-q2-radio-2-label = Όχι
 shopping-survey-q2-radio-3-label = Δεν γνωρίζω
 shopping-survey-next-button-label = Επόμενο
 shopping-survey-submit-button-label = Υποβολή
+shopping-survey-terms-link = Όροι χρήσης
+shopping-survey-thanks-message = Ευχαριστούμε για τα σχόλιά σας!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-not-opted-in-title = Αξιόπιστες κριτικές με ένα κλικ
+
+## Onboarding message strings.
+
+shopping-onboarding-opt-in-button = Έναρξη δοκιμής
+shopping-onboarding-not-now-button = Όχι τώρα
+shopping-onboarding-dialog-close-button =
+    .title = Κλείσιμο
+    .aria-label = Κλείσιμο
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Πρόοδος: βήμα { $current } από { $total }
