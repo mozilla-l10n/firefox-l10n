@@ -43,6 +43,10 @@ shopping-message-bar-generic-error-title2 = Дәл қазір ақпарат ж�
 shopping-message-bar-generic-error-message = Біз мәселені шешу үшін жұмыс істеп жатырмыз. Жақында қайта тексеріңіз.
 shopping-message-bar-warning-not-enough-reviews-title = Пікірлер саны әлі жеткіліксіз
 shopping-message-bar-warning-not-enough-reviews-message2 = Бұл өнімде көбірек пікірлер болған кезде, біз олардың сапасын тексере аламыз.
+shopping-message-bar-warning-product-not-available-title = Өнім қолжетімді емес
+shopping-message-bar-warning-product-not-available-message2 = Бұл өнімнің қоймаға қайта оралғанын көрсеңіз, оны бізге хабарлаңыз, біз пікірлерді тексереміз.
+shopping-message-bar-warning-product-not-available-button = Бұл өнімнің қоймаға оралғанын хабарлау
+shopping-message-bar-thanks-for-reporting-title = Хабарламаңыз үшін рахмет!
 
 ## Strings for the product review snippets card
 
