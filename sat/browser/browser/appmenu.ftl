@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = ᱱᱤᱛᱚᱜ ᱥᱤᱸᱝᱠ ᱢᱮ
 appmenuitem-fxa-sign-in = { -brand-product-name } ᱨᱮ ᱥᱩᱦᱤ ᱮᱢ ᱢᱮ
 appmenuitem-fxa-manage-account = ᱠᱷᱟᱛᱟ ᱢᱮᱱᱮᱡᱽ ᱢᱮ
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-account-header = ᱠᱷᱟᱛᱟ
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
