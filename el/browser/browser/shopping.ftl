@@ -83,6 +83,7 @@ shopping-review-reliability-label =
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-review-grading-scale-reliable = Αξιόπιστες κριτικές. Πιστεύουμε ότι οι κριτικές είναι πιθανό να προέρχονται από πραγματικούς πελάτες που άφησαν ειλικρινείς, αμερόληπτες κριτικές.
 
 ## Strings for UrlBar button
 
