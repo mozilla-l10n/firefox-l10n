@@ -1063,6 +1063,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Generadors d’emprentas numericas
     .accesskey = G
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Generadors d’emprentas numericas coneguts
+    .accesskey = G
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Generadors d’emprentas numericas suspècte
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
@@ -1125,6 +1137,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Recuèlh de donadas e utilizacion per { -brand-short-name }
+collection-header2 = Collècta de donadas per { -brand-short-name } e utilizacion
+    .searchkeywords = telemetria
 collection-description = Nos esforçam de vos daissar causir e reculhir sonque las informacions qu'avèm besonh per provesir e melhorar { -brand-short-name } per tot lo mond. Sempre demandam vòstra permission abans de recebre de donadas personalas.
 collection-privacy-notice = Politica de confidencialitat
 collection-health-report-telemetry-disabled = Autorizatz pas mai { -vendor-short-name } a capturar de donadas tecnicas e d’interaccion. Totas las donadas passadas seràn suprimidas d’aquí 30 jorns.

@@ -196,3 +196,4 @@ firefoxview-recentlyclosed-empty-header = Avètz tampat los onglets per inatenci
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Cap d’onglet pas dobèrt sus aqueste aparelh
+firefoxview-syncedtabs-connect-another-device = Connectar un autre periferic
