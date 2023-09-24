@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Kopírovať odkaz
     .accesskey = K
 fxviewtabrow-close-tab = Zavrieť kartu
     .accesskey = Z
+fxviewtabrow-move-tab = Presunúť kartu
+    .accesskey = P
+fxviewtabrow-move-tab-start = Presunúť na začiatok
+    .accesskey = z
+fxviewtabrow-move-tab-end = Presunúť na koniec
+    .accesskey = k
+fxviewtabrow-move-tab-window = Presunúť do nového okna
+    .accesskey = r
+fxviewtabrow-send-tab = Odoslať kartu do zariadenia
+    .accesskey = O
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
