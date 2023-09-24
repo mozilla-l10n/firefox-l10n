@@ -77,15 +77,28 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Пікірлерді тексеру құралында жарнаманы көрсету
 shopping-settings-opt-out-button = Пікірлерді тексеру құралын сөндіру
+powered-by-fakespot = Пікірлерді тексеру құралы <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> негізінде жұмыс істейді.
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Түзетілген рейтинг
+shopping-adjusted-rating-unreliable-reviews = Сенімсіз пікірлер өшірілді
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Бұл пікірлер қаншалықты сенімді?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Біз пікірлер сапасын қалай анықтаймыз
+shopping-analysis-explainer-intro2 = Біз өнім пікірлерінің сенімділігін тексеру үшін { -fakespot-brand-full-name } ұсынған AI технологиясын қолданамыз. Бұл өнім сапасын емес, пікір сапасын бағалауға көмектеседі.
+shopping-analysis-explainer-grades-intro = Әрбір өнім пікіріне біз A мен F арасындағы <strong>әріптік баға</strong> береміз.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Түзетілген рейтинг</strong> тек біз сенімді деп есептейтін пікірлерге негізделген.
 
 ## Strings for UrlBar button
 
