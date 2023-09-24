@@ -44,11 +44,11 @@ fxviewtabrow-close-tab = Cerrar la pestaña
 fxviewtabrow-move-tab = Mover pestaña
     .accesskey = v
 fxviewtabrow-move-tab-start = Mover al inicio
-    .accesskey = S
+    .accesskey = i
 fxviewtabrow-move-tab-end = Mover al final
     .accesskey = E
 fxviewtabrow-move-tab-window = Mover a una nueva ventana
-    .accesskey = W
+    .accesskey = u
 fxviewtabrow-send-tab = Enviar la pestaña a un dispositivo
     .accesskey = n
 # Variables:
