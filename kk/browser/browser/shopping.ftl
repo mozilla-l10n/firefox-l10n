@@ -6,6 +6,12 @@
 # review quality of online shopping product reviews
 shopping-main-container-title = Пікірлерді тексеру
 shopping-beta-marker = Бета
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Пікірлерді тексеру - бета
 shopping-close-button =
     .title = Жабу
 # This string is for notifying screen reader users that the
@@ -31,7 +37,12 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Тексеру үшін жаңа ақпарат
 shopping-message-bar-warning-stale-analysis-button = Қазір тексеру
+shopping-message-bar-generic-error-title2 = Дәл қазір ақпарат жоқ
+shopping-message-bar-generic-error-message = Біз мәселені шешу үшін жұмыс істеп жатырмыз. Жақында қайта тексеріңіз.
+shopping-message-bar-warning-not-enough-reviews-title = Пікірлер саны әлі жеткіліксіз
+shopping-message-bar-warning-not-enough-reviews-message2 = Бұл өнімде көбірек пікірлер болған кезде, біз олардың сапасын тексере аламыз.
 
 ## Strings for the product review snippets card
 
