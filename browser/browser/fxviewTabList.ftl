@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Αντιγραφή συνδέσμου
     .accesskey = σ
 fxviewtabrow-close-tab = Κλείσιμο καρτέλας
     .accesskey = Κ
+fxviewtabrow-move-tab = Μετακίνηση καρτέλας
+    .accesskey = τ
+fxviewtabrow-move-tab-start = Μετακίνηση στην αρχή
+    .accesskey = χ
+fxviewtabrow-move-tab-end = Μετακίνηση στο τέλος
+    .accesskey = α
+fxviewtabrow-move-tab-window = Μετακίνηση σε νέο παράθυρο
+    .accesskey = π
+fxviewtabrow-send-tab = Αποστολή καρτέλας σε συσκευή
+    .accesskey = λ
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
