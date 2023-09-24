@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Сілтемені көшіріп алу
     .accesskey = л
 fxviewtabrow-close-tab = Бетті жабу
     .accesskey = ж
+fxviewtabrow-move-tab = Бетті жылжыту
+    .accesskey = ж
+fxviewtabrow-move-tab-start = Басына жылжыту
+    .accesskey = с
+fxviewtabrow-move-tab-end = Соңына жылжыту
+    .accesskey = о
+fxviewtabrow-move-tab-window = Жаңа терезеге жылжыту
+    .accesskey = т
+fxviewtabrow-send-tab = Бетті құрылғыға жіберу
+    .accesskey = л
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
