@@ -76,6 +76,7 @@ shopping-settings-label =
     .label = Баптаулар
 shopping-settings-recommendations-toggle =
     .label = Пікірлерді тексеру құралында жарнаманы көрсету
+shopping-settings-recommendations-learn-more = Сәйкес өнімдерге арналған  жарнамаларды анда-санда көретін боласыз. Барлық жарнамалар біздің пікірлер сапа стандарттарына сай болуы керек. <a data-l10n-name="review-quality-url">Көбірек білу</a>
 shopping-settings-opt-out-button = Пікірлерді тексеру құралын сөндіру
 powered-by-fakespot = Пікірлерді тексеру құралы <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> негізінде жұмыс істейді.
 
@@ -99,6 +100,9 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Біз өнім пікірлерінің сенімділігін тексеру үшін { -fakespot-brand-full-name } ұсынған AI технологиясын қолданамыз. Бұл өнім сапасын емес, пікір сапасын бағалауға көмектеседі.
 shopping-analysis-explainer-grades-intro = Әрбір өнім пікіріне біз A мен F арасындағы <strong>әріптік баға</strong> береміз.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Түзетілген рейтинг</strong> тек біз сенімді деп есептейтін пікірлерге негізделген.
+shopping-analysis-explainer-review-grading-scale-reliable = Сенімді пікірлер. Бұл пікірлерді шын, бейтарап пікірлер қалдырған шынайы тұтынушылар жазған деп санаймыз.
+shopping-analysis-explainer-review-grading-scale-mixed = Осында сенімді және сенімсіз пікірлер араласқан деп санаймыз.
+shopping-analysis-explainer-review-grading-scale-unreliable = Сенімсіз пікірлер. Бұл пікірлер жалған немесе біржақты шолушылар қалдырды деп санаймыз.
 
 ## Strings for UrlBar button
 
@@ -115,15 +119,24 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Бұл пікірлер туралы ақпарат әлі жоқ
+shopping-unanalyzed-product-message-2 = Бұл өнім туралы пікірлер сенімді екенін білу үшін пікірлер сапасын тексеріңіз. Ол небәрі 60 секундты алады.
 shopping-unanalyzed-product-analyze-button = Пікір сапасын тексеру
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Көбірек қарастыру үшін
+ad-by-fakespot = { -fakespot-brand-name } ұсынған жарнама
 
 ## Shopping survey strings.
 
+shopping-survey-headline = { -brand-product-name } жақсартуға көмектесіңіз
+shopping-survey-question-one = { -brand-product-name } ішіндегі пікірлерді тексеру құралын қолдану тәжірибесін қалай бағалайсыз?
+shopping-survey-q1-radio-1-label = Өте жақсы
+shopping-survey-q1-radio-2-label = Жақсы
+shopping-survey-q1-radio-3-label = Бейтарап
+shopping-survey-q1-radio-4-label = Нашар
+shopping-survey-q1-radio-5-label = Өте нашар
 shopping-survey-q2-radio-1-label = Иә
 shopping-survey-q2-radio-2-label = Жоқ
 shopping-survey-q2-radio-3-label = Мен білмеймін
