@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = ᱣᱤᱱᱰᱚ ᱟᱨ ᱥᱟᱫᱷᱚᱱ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱱᱤᱛᱚᱜᱟᱜ ᱵᱽᱨᱟᱣᱡᱤᱝ ᱧᱮᱞ
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -42,6 +45,7 @@ firefoxview-tabpickup-synctabs-primarybutton = ᱠᱷᱩᱞᱟᱹ ᱠᱟᱱ ᱴ�
 firefoxview-syncedtabs-synctabs-header = ᱟᱢᱟᱜ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱥᱟᱡᱟᱣᱠᱚ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱢᱮ
 firefoxview-syncedtabs-synctabs-description = ᱮᱴᱟᱜ ᱥᱟᱫᱷᱟᱱ ᱠᱷᱚᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱮᱞ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢ ᱫᱚ ᱟᱢᱟᱜ ᱠᱷᱩᱞᱟᱹ ᱴᱮᱵᱽ ᱠᱷᱚᱱ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾
 firefoxview-syncedtabs-synctabs-checkbox = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱞᱟᱹᱜᱤᱫ ᱛᱮ ᱴᱮᱵᱽ ᱠᱚ ᱠᱷᱩᱞᱟᱹ ᱪᱷᱚᱭ ᱢᱮ
+firefoxview-syncedtabs-loading-header = ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱪᱟᱹᱞᱩ ᱠᱟᱱᱟ
 firefoxview-tabpickup-fxa-admin-disabled-header = ᱟᱢᱟᱜ ᱜᱟᱶᱛᱟ ᱟᱹᱭᱩᱨ ᱢᱤᱫ ᱵᱚᱱᱫ ᱠᱟᱫᱟᱭ
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ᱫᱚ ᱥᱟᱫᱷᱚᱱ ᱵᱷᱤᱛᱨᱤ ᱨᱮ ᱴᱮᱵᱽ ᱠᱚ ᱵᱟᱝ ᱥᱤᱝᱠ ᱫᱟᱲᱮᱭᱟᱜ ᱠᱟᱱᱟᱭ ᱪᱮᱫᱟᱜ ᱥᱮ ᱟᱢᱤᱡ ᱮᱰᱢᱤᱱ ᱫᱚ ᱥᱤᱝᱠ ᱵᱚᱸᱫ ᱠᱟᱫᱟᱭ ᱾
 firefoxview-tabpickup-network-offline-header = ᱟᱢᱟᱜ ᱤᱱᱴᱟᱹᱨᱱᱮᱴ ᱡᱚᱱᱚᱲᱟᱣ ᱧᱮᱞ ᱵᱤᱲᱟᱣ ᱢᱮ
@@ -200,9 +204,6 @@ firefoxview-import-history-description = { -brand-short-name } ᱫᱚ ᱟᱢᱟ�
 firefoxview-recentlyclosed-empty-header = ᱴᱮᱵᱽ ᱞᱚᱜᱚᱱ ᱮᱢ ᱵᱚᱸᱫᱚᱭ ᱠᱮᱜᱼᱟ ?
 firefoxview-recentlyclosed-empty-description = ᱱᱚᱰᱮ ᱟᱢ ᱫᱚ ᱱᱮᱱᱮ ᱵᱚᱸᱫ ᱠᱟᱱ ᱴᱮᱵᱽᱠᱚ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ, ᱢᱮᱱᱠᱷᱟᱱ ᱟᱢ ᱫᱚ ᱡᱟᱦᱟᱱᱟᱜ ᱜᱮ ᱞᱚᱜᱚᱱ ᱠᱷᱩᱞᱟᱹ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ ᱾
 firefoxview-recentlyclosed-empty-description-two = ᱡᱟᱦᱱᱟᱜ ᱢᱟᱨᱮ ᱴᱮᱵᱽᱠᱚ ᱯᱟᱱᱛᱮ ᱞᱟᱹᱜᱤᱫ ᱛᱮ, ᱟᱢᱟᱜ <a data-l10n-name="history-url">ᱵᱽᱨᱟᱣᱡᱤᱝ ᱦᱤᱛᱟᱹᱞ</a> ᱧᱮᱞ ᱛᱟᱢ ᱾
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
