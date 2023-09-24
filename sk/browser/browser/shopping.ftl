@@ -165,6 +165,14 @@ shopping-callout-closed-not-opted-in-subtitle = Vyskúšajte Kontrolu recenzií 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Vyskúšajte nášho dôveryhodného sprievodcu recenziami produktov
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov v obchode <b>{ $currentSite }</b>. Kontrola recenzií, experimentálna funkcia od spoločnosti { -vendor-short-name(case: "gen") }, je zabudovaná priamo do { -brand-product-name(case: "gen") } – a funguje aj v obchodoch <b>{ $secondSite }</b> či <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Využitím sily { -fakespot-brand-full-name } vám pomôžeme vyhnúť sa neobjektívnym a neautentickým recenziám. Náš model AI sa neustále zlepšuje, aby vás chránil pri nakupovaní. <a data-l10n-name="learn_more">Ďalšie informácie</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a < data-l10n-name="terms_of_use">Podmienky používania</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Áno, vyskúšať
 shopping-onboarding-not-now-button = Teraz nie
 shopping-onboarding-dialog-close-button =
