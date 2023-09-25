@@ -183,3 +183,5 @@ firefoxview-import-history-description = { -brand-short-name } ඔබගේ ද�
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = මෙම උපාංගයේ විවෘත පටිති නැත
+firefoxview-syncedtabs-connect-another-device = වෙනත් උපාංගයක් සබඳින්න
