@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Keppeling kopiearje
     .accesskey = K
 fxviewtabrow-close-tab = Ljepblêd slute
     .accesskey = s
+fxviewtabrow-move-tab = Ljepblêd ferpleatse
+    .accesskey = f
+fxviewtabrow-move-tab-start = Ferpleatse nei Start
+    .accesskey = S
+fxviewtabrow-move-tab-end = Ferpleatse nei Ein
+    .accesskey = E
+fxviewtabrow-move-tab-window = Ferpleatse nei nij finster
+    .accesskey = j
+fxviewtabrow-send-tab = Ljepblêd nei apparaat ferstjoere
+    .accesskey = a
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
