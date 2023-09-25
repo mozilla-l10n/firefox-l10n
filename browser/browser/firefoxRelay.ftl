@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ni mogel najti m
 ##
 
 firefox-relay-must-login-to-fxa = Za uporabo { -relay-brand-name(sklon: "rodilnik") } se morate prijaviti v { -fxaccount-brand-name(sklon: "tozilnik") }.
+firefox-relay-must-login-to-account = Za uporabo e-poštnih mask { -relay-brand-name } se prijavite v račun.
 firefox-relay-get-unlimited-masks =
     .label = Upravljanje mask
     .accesskey = U
