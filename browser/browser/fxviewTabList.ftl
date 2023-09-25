@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Koppeling kopiëren
     .accesskey = K
 fxviewtabrow-close-tab = Tabblad sluiten
     .accesskey = s
+fxviewtabrow-move-tab = Tabblad verplaatsen
+    .accesskey = v
+fxviewtabrow-move-tab-start = Verplaatsen naar Start
+    .accesskey = S
+fxviewtabrow-move-tab-end = Verplaatsen naar Einde
+    .accesskey = E
+fxviewtabrow-move-tab-window = Verplaatsen naar nieuw venster
+    .accesskey = w
+fxviewtabrow-send-tab = Tabblad naar apparaat verzenden
+    .accesskey = z
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
