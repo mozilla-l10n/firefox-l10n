@@ -165,6 +165,14 @@ shopping-callout-closed-not-opted-in-subtitle = Probeer beoordelingscontrole een
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Probeer onze vertrouwde gids voor productbeoordelingen
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Bekijk hoe betrouwbaar productbeoordelingen op <b>{ $currentSite }</b> zijn, voordat u een aankoop doet. Beoordelingscontrole, een experimentele functie van { -vendor-short-name }, is rechtstreeks in { -brand-product-name } ingebouwd – en het werkt in <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Met behulp van de kracht van { -fakespot-brand-full-name } helpen we u bevooroordeelde en niet-authentieke beoordelingen te voorkomen. Ons AI-model wordt voortdurend verbeterd om u te beschermen terwijl u winkelt. <a data-l10n-name="learn_more">Meer info</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Ja, proberen
 shopping-onboarding-not-now-button = Niet nu
 shopping-onboarding-dialog-close-button =
