@@ -31,12 +31,12 @@ protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 기�
 
 protections-panel-etp-on-toggle =
     .label = 향상된 추적 방지 기능
-    .description = 이 사이트에 대해 켜짐
-    .aria-label = { $host }에 대해 방지 사용 안 함
+    .description = 이 사이트에 켜짐
+    .aria-label = { $host }에 방지 사용 안 함
 protections-panel-etp-off-toggle =
     .label = 향상된 추적 방지 기능
-    .description = 이 사이트에 대해 꺼짐
-    .aria-label = { $host }에 대해 방지 사용함
+    .description = 이 사이트에 꺼짐
+    .aria-label = { $host }에 방지 사용함
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 사이트가 작동하지 않습니까?
 # The heading/title of the sub-panel view
@@ -127,7 +127,7 @@ protections-panel-cookie-banner-view-title =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host }에 대해 쿠키 배너 감소를 끄시겠습니까?
-protections-panel-cookie-banner-view-turn-on-for-site = 이 사이트에 대해 쿠키 배너 감소를 켜시겠습니까?
+protections-panel-cookie-banner-view-turn-on-for-site = 이 사이트에 쿠키 배너 감소를 켜시겠습니까?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }는 이 사이트의 쿠키를 지우고 페이지를 새로 고침합니다. 모든 쿠키를 삭제하면 로그아웃되거나 장바구니가 비워질 수 있습니다.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }는 지원되는 사이트에서 모든 쿠키 요청을 자동으로 거부하려고 시도합니다.
 protections-panel-cookie-banner-view-cancel = 취소
