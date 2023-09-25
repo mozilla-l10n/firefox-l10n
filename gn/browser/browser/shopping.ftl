@@ -135,6 +135,7 @@ shopping-survey-q1-radio-2-label = Chembovy’a
 shopping-survey-q1-radio-3-label = Mbytegua
 shopping-survey-q1-radio-4-label = Nahembovy’ái
 shopping-survey-q1-radio-5-label = Nachembovy’ái
+shopping-survey-question-two = ¿Pe jehechajey apohára nombohasýi emba’ejogua hag̃ua?
 shopping-survey-q2-radio-1-label = Héẽ
 shopping-survey-q2-radio-2-label = Nahániri
 shopping-survey-q2-radio-3-label = Ndaikuaái
@@ -147,11 +148,13 @@ shopping-survey-thanks-message = ¡Aguyje nde jehaipyrére!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Ejevy <strong>hechajey moneĩhápe</strong> ehechajey vove tepykue kuaaukaha.
 shopping-callout-pdp-opted-in-title = Ejeroviápa ko’ã jehechajeýre. Eikuaa pya’e.
 shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jeroviaha
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Eipuru ore apopyre guataha rechajey jeroviahápe
 shopping-onboarding-opt-in-button = Héẽ, eipuru
 shopping-onboarding-not-now-button = Ani ko’ág̃a
 shopping-onboarding-dialog-close-button =
