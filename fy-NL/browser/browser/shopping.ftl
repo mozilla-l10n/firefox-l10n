@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Fernijingen beskikber
-shopping-message-bar-warning-stale-analysis-message = Start de { -fakespot-brand-full-name }-analyzator om binnen ûngefear 60 sekonden bywurke ynformaasje te krijen.
+shopping-message-bar-warning-stale-analysis-message-2 = Nije te kontrolearjen ynformaasje
+shopping-message-bar-warning-stale-analysis-button = No kontrolearje
 shopping-message-bar-generic-error-title2 = Der is op dit stuit gjin ynfo beskikber
 shopping-message-bar-generic-error-message = Wy wurkje deroan om it probleem op te lossen. Kom ynkoarten gau werom.
 shopping-message-bar-warning-not-enough-reviews-title = Noch net genôch beoardielingen
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Beoardielingskwaliteit kontro
 shopping-message-bar-analysis-in-progress-message2 = Dit kin ûngefear 60 sekonden duorje.
 shopping-message-bar-page-not-supported-title = Wy kinne dizze beoardieling net kontrolearje
 shopping-message-bar-page-not-supported-message = Spitigernôch kinne wy de beoardielingskwaliteit net kontrolearje foar bepaalde soarten produkten. Bygelyks kadokaarten en streaming fideo, muzyk en spultsjes.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = De analyzator starte op { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Unbetroubere beoar
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Winkelsydbalke iepenje
-shopping-sidebar-close-button =
-    .tooltiptext = Winkelsydbalke slute
+shopping-sidebar-open-button2 =
+    .tooltiptext = Beoardielingskontrôle iepenje
+shopping-sidebar-close-button2 =
+    .tooltiptext = Beoardielingskontrôle slute
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -171,3 +163,26 @@ shopping-callout-pdp-opted-in-title = Binne dizze beoardielingen betrouber? Untd
 shopping-callout-pdp-opted-in-subtitle = Iepenje de beoardielingskontrôle om in oanpaste wurdearring te sjen wêrút ûnbetroubere beoardielingen fuortsmiten binne. Plus, sjoch hichtepunten út resinte autentike resinsjes.
 shopping-callout-closed-not-opted-in-title = Ien klik nei betroubere beoardielingen
 shopping-callout-closed-not-opted-in-subtitle = Probearje beoardielingskontrôle ris wannear’t jo it priiskaartsje sjogge. Krij fluch ynsjoch fan echte klanten – eardat jo wat keapje.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Probearje ús fertroude gids foar produktbeoardielingen
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -vendor-short-name }, is streekrjocht yn { -brand-product-name } ynboud – en it wurket yn <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Mei help fan de krêft fan { -fakespot-brand-full-name } helpe wy jo befoaroardiele en net-autentike beoardielingen foar te kommen. Us AI-model wurdt hieltyd ferbettere om jo te beskermjen wylst jo winkelje. <a data-l10n-name="learn_more">Mear ynfo</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Troch ‘{ shopping-onboarding-opt-in-button }’ te selektearjen, geane jo akkoard mei it <a data-l10n-name="privacy_policy">privacybelied</a> en  de <a data-l10n-name="terms_of_use">brûksbetingsten</a> fan { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-button = Ja, probearje
+shopping-onboarding-not-now-button = No net
+shopping-onboarding-dialog-close-button =
+    .title = Slute
+    .aria-label = Slute
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Fuortgong: stap { $current } fan { $total }
