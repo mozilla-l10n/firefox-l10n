@@ -1008,6 +1008,10 @@ content-blocking-enhanced-tracking-protection = Izboljšana zaščita pred slede
 content-blocking-section-top-level-description = Sledilci vas spremljajo po spletu ter zbirajo podatke o vaših navadah in zanimanjih. { -brand-short-name } zavrača veliko teh sledilcev in drugih zlonamernih skriptov.
 content-blocking-learn-more = Več o tem
 content-blocking-fpi-incompatibility-warning = Uporabljate First Party Isolation (FPI), ki preglasi nekatere nastavitve piškotkov { -brand-short-name(sklon: "rodilnik") }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Uporabljate Resist Fingerprinting (RFP), ki je nadomestil nekatere { -brand-short-name }ove nastavitve zaščite pred sledilci prstnih odtisov. To lahko povzroči nedelovanje nekaterih spletnih mest.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1041,6 +1045,10 @@ content-blocking-all-windows-tracking-content = Sledilno vsebino v vseh oknih
 content-blocking-all-cross-site-cookies = Vse medspletne piškotke
 content-blocking-cryptominers = Kriptorudarje
 content-blocking-fingerprinters = Sledilce prstnih odtisov
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Znane in morebitne sledilce prstnih odtisov
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 

@@ -62,6 +62,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Vnesite glavno geslo
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Več o tem</a>
 firefoxview-tabpickup-signed-out-header = Prijavite se, da se ponovno povežete
 firefoxview-tabpickup-signed-out-description = Za ponovno vzpostavitev povezave in zajem zavihkov se prijavite v { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Za ponovno vzpostavitev povezave in zajem zavihkov se prijavite v račun.
 firefoxview-tabpickup-signed-out-primarybutton = Prijava
 firefoxview-tabpickup-syncing = Počakajte, da se zavihki sinhronizirajo. Trajalo bo samo trenutek.
 firefoxview-mobile-promo-header = Zajemite zavihke s telefona ali tablice
@@ -201,9 +202,7 @@ firefoxview-recentlyclosed-empty-header = Ste prehitro zaprli zavihek?
 firefoxview-recentlyclosed-empty-description = Tu najdete zavihke, ki ste jih pred kratkim zaprli, in jih lahko hitro znova odprete.
 firefoxview-recentlyclosed-empty-description-two = Starejše zavihke poiščite v <a data-l10n-name="history-url">zgodovini brskanja</a>.
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Na tej napravi ni odprtih zavihkov
+firefoxview-syncedtabs-connect-another-device = Poveži drugo napravo
