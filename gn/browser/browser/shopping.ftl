@@ -96,8 +96,10 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Mba’éichapa jaikuaáta marandu’i iporãha
+shopping-analysis-explainer-intro2 = Roipuru tembipurupyahu IA { -fakespot-brand-full-name } mba’e rohesa’ỹijo hag̃ua iporãpa apopyre rechajeyha. Ñehesa’ỹijo oipytyvõta roha’ã hag̃ua hechajey porãngue, ndaha’éi apopyre porãngue.
 shopping-analysis-explainer-grades-intro = Rome’ẽ marandu’i peteĩteĩva apopyrépe <strong>papapy tai ndive</strong> A guive F peve.
 shopping-analysis-explainer-learn-more = Eikuaave <a data-l10n-name="review-quality-url">mba’éichapa { -fakespot-brand-full-name } oikuaa marandu’i porãngue</a>.
+shopping-analysis-explainer-review-grading-scale-reliable = Hechajey jeroviaha. Roguerovia marandu’i ouha joguaháragui ohejáva umi marandu’i oñanduháicha ha ñaña’ỹre.
 
 ## Strings for UrlBar button
 
