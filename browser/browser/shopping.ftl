@@ -6,6 +6,7 @@ shopping-page-title = { -brand-product-name } Shopping
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = ตัวตรวจสอบบทวิจารณ์
+shopping-beta-marker = Beta
 shopping-close-button =
     .title = ปิด
 # This string is for notifying screen reader users that the
@@ -31,14 +32,10 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = มีการอัปเดต
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
+shopping-message-bar-warning-stale-analysis-button = ตรวจสอบตอนนี้
+shopping-message-bar-generic-error-title2 = ไม่มีข้อมูลในขณะนี้
+shopping-message-bar-thanks-for-reporting-title = ขอบคุณสำหรับการรายงาน!
+shopping-message-bar-warning-product-not-available-reported-title2 = ข้อมูลจะมาเร็ว ๆ นี้
 
 ## Strings for the product review snippets card
 
@@ -99,4 +96,7 @@ shopping-analysis-explainer-label =
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
+
+
+## Onboarding message strings.
 
