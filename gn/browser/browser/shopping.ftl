@@ -100,6 +100,8 @@ shopping-analysis-explainer-intro2 = Roipuru tembipurupyahu IA { -fakespot-brand
 shopping-analysis-explainer-grades-intro = Rome’ẽ marandu’i peteĩteĩva apopyrépe <strong>papapy tai ndive</strong> A guive F peve.
 shopping-analysis-explainer-learn-more = Eikuaave <a data-l10n-name="review-quality-url">mba’éichapa { -fakespot-brand-full-name } oikuaa marandu’i porãngue</a>.
 shopping-analysis-explainer-review-grading-scale-reliable = Hechajey jeroviaha. Roguerovia marandu’i ouha joguaháragui ohejáva umi marandu’i oñanduháicha ha ñaña’ỹre.
+shopping-analysis-explainer-review-grading-scale-mixed = Roikuaa oĩha marandu’i jeroviaha ha jerovia’ỹha.
+shopping-analysis-explainer-review-grading-scale-unreliable = Marandu’i jerovia’iveha. Roikuaa marandu’i ikatuha japu térã ou hechajeyhára iñañávagui.
 
 ## Strings for UrlBar button
 
@@ -127,6 +129,7 @@ ad-by-fakespot = { -fakespot-brand-name } moñemurã
 ## Shopping survey strings.
 
 shopping-survey-headline = Eipytyvõ { -brand-product-name } iporãve hag̃ua
+shopping-survey-question-one = Evy’ápa añetehápe hechajey apohára ndive { -brand-product-name } reheguápe
 shopping-survey-q1-radio-1-label = Avy’aiterei
 shopping-survey-q1-radio-2-label = Chembovy’a
 shopping-survey-q1-radio-3-label = Mbytegua
