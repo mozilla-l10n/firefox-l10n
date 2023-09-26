@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Kopioi linkki
     .accesskey = L
 fxviewtabrow-close-tab = Sulje välilehti
     .accesskey = S
+fxviewtabrow-move-tab = Siirrä välilehti
+    .accesskey = v
+fxviewtabrow-move-tab-start = Siirrä alkuun
+    .accesskey = S
+fxviewtabrow-move-tab-end = Siirrä loppuun
+    .accesskey = u
+fxviewtabrow-move-tab-window = Siirrä uuteen ikkunaan
+    .accesskey = i
+fxviewtabrow-send-tab = Lähetä välilehti laitteeseen
+    .accesskey = h
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
