@@ -109,6 +109,6 @@ abuse-report-policy-suggestions =
     შენიშვნა: საავტორო უფლებებისა და სავაჭრო ნიშნების დარღვევების შესახებ, მოხსენებები ცალკე უნდა გამოიგზავნოს.
     <a data-l10n-name="report-infringement-link">ისარგებლეთ ამ მითითებებით</a>
     ხარვეზის მოხსენებისთვის.
-abuse-report-unwanted-reason-v2 = არასოდეს მდომებია და არ ვიცი როგორ მოვიცილო
+abuse-report-unwanted-reason-v2 = არასოდეს მნდომებია და არ ვიცი როგორ მოვიცილო
 abuse-report-unwanted-example = მაგალითად: პროგრამა თავისით ჩაიდგა უნებართვოდ
 abuse-report-other-reason = სხვა

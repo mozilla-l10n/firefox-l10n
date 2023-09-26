@@ -30,4 +30,4 @@ webext-perms-description-sessions = ბოლოს დახურულ ჩა
 webext-perms-description-tabs = ბრაუზერის ჩანართებთან წვდომა
 webext-perms-description-tabHide = ბრაუზერის ჩანართების დამალვა და გამოჩენა
 webext-perms-description-topSites = მონახულებული გვერდების ისტორიასთან წვდომა
-webext-perms-description-webNavigation = გვერდებზე გადაადგილებისას, ბრაუზერის მოქმედებებთან წვდომა
+webext-perms-description-webNavigation = გვერდებზე გადაადგილებისას ბრაუზერის მოქმედებებთან წვდომა

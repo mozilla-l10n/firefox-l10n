@@ -78,7 +78,7 @@ policy-HardwareAcceleration = თუ უარყოფილია, აპა�
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = დაყენება და დამატებით მთავარი გვერდის ჩაკეტვა.
 policy-InstallAddonsPermission = ცალკეული ვებსაიტებისთვის დამატებების ჩადგმის დაშვება.
-policy-LegacyProfiles = თითოეული დაყენებისას, ცალ-ცალკე პროფილების იძულებითი შექმნის გამორთვა.
+policy-LegacyProfiles = თითოეული დაყენებისას ცალ-ცალკე პროფილების იძულებითი შექმნის გამორთვა.
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
@@ -106,7 +106,7 @@ policy-Permissions2 = ნებართვების გამართვა
 policy-PictureInPicture = ჩაირთოს ან გამოირთოს ეკრანი-ეკრანში
 policy-PopupBlocking = ცალკეული ვებსაიტებისთვის ამომხტომი ფანჯრების დაშვება ნაგულისხმევად.
 policy-Preferences = მნიშვნელობების შერჩევა და ჩაკეტვა, პარამეტრების ნაწილისთვის.
-policy-PromptForDownloadLocation = ფაილების ჩამოტვირთვისას, ადგილმდებარეობის მითითება.
+policy-PromptForDownloadLocation = ფაილების ჩამოტვირთვისას ადგილმდებარეობის მითითება.
 policy-Proxy = პროქსის პარამეტრების გამართვა.
 policy-RequestedLocales = მიუთითეთ მოთხოვნილი ენების ჩამონათვალი პროგრამისთვის, პარამეტრების მიხედვით.
 policy-SanitizeOnShutdown2 = მონახულებული გვერდების გასუფთავება გათიშვისას.
