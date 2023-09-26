@@ -26,6 +26,8 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Güvenilir değerlendirmeler
+shopping-letter-grade-description-c = Güvenilir ve güvenilmez değerlendirmelerin karışımı
+shopping-letter-grade-description-df = Güvenilmez değerlendirmeler
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -36,14 +38,25 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-button = Şimdi kontrol et
+shopping-message-bar-generic-error-title2 = Şu anda bilgi yok
 shopping-message-bar-generic-error-message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
 shopping-message-bar-warning-not-enough-reviews-title = Henüz yeterli değerlendirme yok
+shopping-message-bar-warning-not-enough-reviews-message2 = Bu ürüne daha fazla değerlendirme geldiğinde değerlendirmelerin kalitelerini kontrol edebileceğiz.
 shopping-message-bar-warning-product-not-available-title = Ürün mevcut değil
+shopping-message-bar-warning-product-not-available-message2 = Bu ürünün yeniden stoğa girdiğini görürseniz bize bildirin, biz de değerlendirmeleri kontrol etmeye çalışalım.
+shopping-message-bar-warning-product-not-available-button = Bu ürünün tekrar stokta olduğunu bildir
 shopping-message-bar-thanks-for-reporting-title = Bildirdiğiniz için teşekkürler!
+shopping-message-bar-warning-product-not-available-reported-title2 = Bilgiler yakında gelecek
+shopping-message-bar-analysis-in-progress-title2 = Değerlendirme kalitesi kontrol ediliyor
+shopping-message-bar-analysis-in-progress-message2 = Yaklaşık 60 saniye sürebilir.
 shopping-message-bar-page-not-supported-title = Bu değerlendirmeleri kontrol edemiyoruz
+shopping-message-bar-page-not-supported-message = Maalesef bazı ürün türlerinin değerlendirme kalitelerini kontrol edemiyoruz. Örneğin, hediye kartları ve video, müzik ve oyun akışı.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Öne çıkan son değerlendirmeler
 shopping-highlight-price = Fiyat
 shopping-highlight-quality = Kalite
 shopping-highlight-shipping = Kargo
@@ -64,6 +77,7 @@ powered-by-fakespot = Değerlendirme kontrolcüsü <a data-l10n-name="fakespot-l
 
 ## Strings for the adjusted rating component
 
+shopping-adjusted-rating-unreliable-reviews = Güvenilmez değerlendirmeler kaldırıldı
 
 ## Strings for the review reliability component
 
