@@ -1210,6 +1210,10 @@ certs-view =
 certs-devices =
     .label = Dispositivi di sicurezza…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Considera automaticamente affidabili i certificati radice installati dall’utente in { -brand-short-name }
+    .accesskey = t
+
 space-alert-over-5gb-settings-button =
     .label = Apri impostazioni
     .accesskey = A
