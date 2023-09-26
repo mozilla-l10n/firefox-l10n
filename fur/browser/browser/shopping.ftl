@@ -165,6 +165,14 @@ shopping-callout-closed-not-opted-in-subtitle = Prove “verifiche recensions”
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prove la nestre vuide pes recensions dai prodots
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Scuvierç trop che lis recensions dai prodots a son afidabilis su <b>{ $currentSite }</b> prime di comprâju. Verifiche recensions, une funzion sperimentâl di { -vendor-short-name }, e je integrade dret in { -brand-product-name } — e funzione ancje su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Doprant la tecnologjie di { -fakespot-brand-full-name }, ti judìn a evitâ recensions di part e falsis. Il nestri model di inteligjence artificiâl al miore di un continui, par proteziti intant che tu fasis compris. <a data-l10n-name="learn_more">Altris informazions</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Selezionant “{ shopping-onboarding-opt-in-button }“ tu acetis la <a data-l10n-name="privacy_policy">informative su la riservatece</a> e lis <a data-l10n-name="terms_of_use">cundizions di utilizazion dal servizi</a> di { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Sì, provile
 shopping-onboarding-not-now-button = No cumò
 shopping-onboarding-dialog-close-button =
