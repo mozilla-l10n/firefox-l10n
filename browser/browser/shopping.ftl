@@ -165,6 +165,14 @@ shopping-callout-closed-not-opted-in-subtitle = Experimente o verificador de ava
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Experimente nosso guia confiável de avaliações de produtos
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Veja a confiabilidade de avaliações de produtos em <b>{ $currentSite }</b> antes de comprar. O verificador de avaliações, um recurso experimental da { -vendor-short-name }, está integrado no { -brand-product-name } e também funciona em <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Usando o poder do { -fakespot-brand-full-name }, ajudamos você a evitar avaliações tendenciosas e não autênticas. Nosso modelo de inteligência artificial está sempre melhorando para te proteger enquanto faz compras. <a data-l10n-name="learn_more">Saiba mais</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ao selecionar “{ shopping-onboarding-opt-in-button }“ você indica que concorda com a <a data-l10n-name="privacy_policy">política de privacidade</a> e os <a data-l10n-name="terms_of_use">termos de uso</a> do { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Sim, experimentar
 shopping-onboarding-not-now-button = Agora não
 shopping-onboarding-dialog-close-button =
