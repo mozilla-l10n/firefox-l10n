@@ -6,6 +6,12 @@ shopping-page-title = { -brand-product-name }-ostokset
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Arvostelun tarkistin
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Arvostelujen tarkistus - beeta
 shopping-close-button =
     .title = Sulje
 # This string is for notifying screen reader users that the
@@ -31,30 +37,15 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Päivityksiä saatavilla
-shopping-message-bar-generic-error-title = Analyysi ei ole saatavilla juuri nyt
+shopping-message-bar-warning-stale-analysis-button = Tarkista nyt
 shopping-message-bar-generic-error-message = Pyrimme ratkaisemaan ongelman. Tarkista tilanne pian uudelleen.
 shopping-message-bar-warning-not-enough-reviews-title = Ei vielä tarpeeksi arvosteluja
-shopping-message-bar-warning-not-enough-reviews-message = Kun tästä tuotteesta on enemmän arvosteluja, voimme analysoida ne.
 shopping-message-bar-warning-product-not-available-title = Tuote ei ole saatavilla
 shopping-message-bar-thanks-for-reporting-title = Kiitos ilmoituksesta!
-shopping-message-bar-thanks-for-reporting-message = Meidän pitäisi saada päivitetty analyysi 24 tunnin sisällä. Tarkista tilanne uudelleen.
-shopping-message-bar-warning-product-not-available-reported-title = Analyysi tulossa pian
-shopping-message-bar-warning-product-not-available-reported-message = Päivitetyn analyysin pitäisi olla valmis 24 tunnin kuluessa. Tarkista tilanne uudelleen.
-shopping-message-bar-warning-offline-title = Ei verkkoyhteyttä
-shopping-message-bar-warning-offline-message = Tarkista verkkoyhteytesi. Yritä sitten ladata sivu uudelleen.
-shopping-message-bar-analysis-in-progress-title = Analyysi tulossa pian
-shopping-message-bar-analysis-in-progress-message = Kun se on valmis, näytämme päivitetyt tiedot automaattisesti täällä.
+shopping-message-bar-analysis-in-progress-title2 = Tarkistetaan arvostelun laatua
+shopping-message-bar-analysis-in-progress-message2 = Tämä voi kestää noin 60 sekuntia.
 shopping-message-bar-page-not-supported-title = Emme voi tarkistaa näitä arvosteluja
 shopping-message-bar-page-not-supported-message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Käynnistä analysaattori osoitteessa { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -82,6 +73,8 @@ powered-by-fakespot = Arvostelujen tarkistuksen mahdollistaa <a data-l10n-name="
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Oikaistu arvosana
 shopping-adjusted-rating-unreliable-reviews = Epäluotettavat arvostelut poistettu
@@ -103,10 +96,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Epäluotettavat ar
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Avaa ostosten sivupalkki
-shopping-sidebar-close-button =
-    .tooltiptext = Sulje ostosten sivupalkki
+shopping-sidebar-open-button2 =
+    .tooltiptext = Avaa arvostelujen tarkistus
+shopping-sidebar-close-button2 =
+    .tooltiptext = Sulje arvostelujen tarkistus
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -115,10 +108,49 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Näitä arvosteluja ei ole vielä analysoitu
+shopping-unanalyzed-product-header-2 = Näistä arvosteluista ei ole vielä tietoa
+shopping-unanalyzed-product-analyze-button = Tarkista arvostelun laatu
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Lisää harkittavaa
 ad-by-fakespot = Mainostaja { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Auta parantamaan { -brand-product-name }ia
+shopping-survey-question-one = Kuinka tyytyväinen olet arvostelujen tarkistuksen kokemukseen { -brand-product-name }issa?
+shopping-survey-q1-radio-1-label = Hyvin tyytyväinen
+shopping-survey-q1-radio-2-label = Tyytyväinen
+shopping-survey-q1-radio-3-label = Neutraali
+shopping-survey-q1-radio-4-label = Tyytymätön
+shopping-survey-q1-radio-5-label = Hyvin tyytymätön
+shopping-survey-question-two = Helpottaako arvostelujen tarkistus ostopäätösten tekemistä?
+shopping-survey-q2-radio-1-label = Kyllä
+shopping-survey-q2-radio-2-label = Ei
+shopping-survey-q2-radio-3-label = En tiedä
+shopping-survey-next-button-label = Seuraava
+shopping-survey-submit-button-label = Lähetä
+shopping-survey-terms-link = Käyttöehdot
+shopping-survey-thanks-message = Kiitos palautteestasi!
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+shopping-callout-pdp-opted-in-title = Ovatko nämä arvostelut luotettavia? Ota selvää nopeasti.
+
+## Onboarding message strings.
+
+shopping-onboarding-opt-in-button = Kyllä, kokeile
+shopping-onboarding-not-now-button = Ei nyt
+shopping-onboarding-dialog-close-button =
+    .title = Sulje
+    .aria-label = Sulje
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Edistyminen: vaihe { $current }/{ $total }
