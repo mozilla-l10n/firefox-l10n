@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ਨੂੰ ਮੁ
 ##
 
 firefox-relay-must-login-to-fxa = { -relay-brand-name } ਵਰਤਣ ਲਈ ਤੁਹਾਨੂੰ { -fxaccount-brand-name } ਵਿੱਚ ਲਾਗਇਨ ਕਰਨਾ ਪਵੇਗਾ।
+firefox-relay-must-login-to-account = ਆਪਣੇ { -relay-brand-name } ਈਮੇਲ ਮਾਸਕਾਂ ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 firefox-relay-get-unlimited-masks =
     .label = ਮਾਸਕਾਂ ਦਾ ਇੰਤਜ਼ਾਮ
     .accesskey = M

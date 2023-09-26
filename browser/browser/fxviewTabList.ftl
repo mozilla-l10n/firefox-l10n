@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = ਲਿੰਕ ਕਾਪੀ ਕਰੋ
     .accesskey = L
 fxviewtabrow-close-tab = ਟੈਬ ਬੰਦ ਕਰੋ
     .accesskey = C
+fxviewtabrow-move-tab = ਟੈਬ ਭੇਜੋ
+    .accesskey = v
+fxviewtabrow-move-tab-start = ਸ਼ੁਰੂ 'ਤੇ ਭੇਜੋ
+    .accesskey = S
+fxviewtabrow-move-tab-end = ਅੰਤ 'ਤੇ ਭੇਜੋ
+    .accesskey = E
+fxviewtabrow-move-tab-window = ਨਵੀਂ ਵਿੰਡੋ 'ਚ ਭੇਜੋ
+    .accesskey = W
+fxviewtabrow-send-tab = ਟੈਬ ਨੂੰ ਡਿਵਾਈਸ ਉੱਤੇ ਭੇਜੋ
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
