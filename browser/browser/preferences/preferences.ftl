@@ -438,7 +438,7 @@ performance-allow-hw-accel =
     .accesskey = მ
 performance-limit-content-process-option = შიგთავსის პროცესების შეზღუდვა
     .accesskey = ზ
-performance-limit-content-process-enabled-desc = შიგთავსის დამატებით პროცესებს, ბევრი ჩანართით სარგებლობისას, შეუძლია წარმადობის გაუმჯობესება, მაგრამ ასევე გამოიყენებს მეტ მეხსიერებას.
+performance-limit-content-process-enabled-desc = შიგთავსის დამატებით პროცესებს ბევრი ჩანართით სარგებლობისას შეუძლია წარმადობის გაუმჯობესება, მაგრამ ასევე გამოიყენებს მეტ მეხსიერებას.
 performance-limit-content-process-blocked-desc = შიგთავსის პროცესების რაოდენობის შეცვლის შესაძლებლობას, მხოლოდ მრავალპროცესიანი { -brand-short-name } იძლევა. <a data-l10n-name="learn-more">იხილეთ, თუ როგორ უნდა შემოწმდეს ჩართულია თუ არა მრავალპროცესიანობა</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
