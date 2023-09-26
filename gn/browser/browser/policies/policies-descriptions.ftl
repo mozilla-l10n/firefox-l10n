@@ -10,7 +10,7 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
-policy-3rdparty = Emboheko purureko WebExtensions oikekuaa hag̃ua chrome.storage.managed rupive.
+policy-3rdparty = Emboheko porureko WebExtensions oikekuaa hag̃ua chrome.storage.managed rupive.
 policy-AllowedDomainsForApps = Emboaty umi mba’éva oñemoneĩva oike hag̃ua Google Workspace-pe.
 policy-AppAutoUpdate = Embojuruja térã eipe’a ñembohekopyahu ijeheguíva jepysokuégui.
 policy-AppUpdatePin = Aníkena rembopyahu { -brand-short-name } ohasávo pe versión oje’éva.
@@ -27,7 +27,7 @@ policy-CaptivePortal = Embojuruja térã eipe’a pe pytyvõha ñapytĩmbýva.
 policy-CertificatesDescription = Embojuaju mboajepyre térã eiporu mboajepyre moingepyre.
 policy-Cookies = Emoneĩ térã embotove ani ñanduti renda omoinge kookie.
 # Containers in this context is referring to container tabs in Firefox.
-policy-Containers = Eheka purureko ojokupytýva mba’eryru ndive.
+policy-Containers = Eheka porureko ojokupytýva mba’eryru ndive.
 policy-DisableAccounts = Eipe’a umi mba’eporu mba’etegua, oikehápe ñembojuehe.
 policy-DisabledCiphers = Embogue papapy.
 policy-DefaultDownloadDirectory = Emoha’eño marandurenda mboguejerã ijypykuéva.
@@ -48,7 +48,7 @@ policy-DisablePocket2 = Eipe’a ñanduti renda ñeñongatu rembiapoite { -pocke
 policy-DisablePrivateBrowsing = Eipe’a kundaha ñemigua.
 policy-DisableProfileImport = Eipe’a poravorã mbohapeha egueru hag̃ua mba’ekuaarã ambue kundaháragui.
 policy-DisableProfileRefresh = Eipe’a votõ Myanyhẽjey { -brand-short-name } about:support kuatyaroguépe.
-policy-DisableSafeMode = Eipe’a tembiapoite emoñepyrũ hag̃ua tekorosã rekópe. Kuaarã: haiha taiguasúva eike hag̃ua tekorosã rekópe ikatu eipe’a Windows rupive añoite eipurúvo aty purureko.
+policy-DisableSafeMode = Eipe’a tembiapoite emoñepyrũ hag̃ua tekorosã rekópe. Kuaarã: haiha taiguasúva eike hag̃ua tekorosã rekópe ikatu eipe’a Windows rupive añoite eipurúvo aty porureko.
 policy-DisableSecurityBypass = Ani eheja poruhárape ohejareívo tekorosã rehegua.
 policy-DisableSetAsDesktopBackground = Eipe’a pe poravorã mbohekopyréva mba’erechaha ruguarã ta’angápe g̃uarãva.
 policy-DisableSystemAddonUpdate = Ani eheja kundahárape omohenda ha ombohekopyahu apopyvusu moĩmbaha.
@@ -93,11 +93,11 @@ policy-ManualAppUpdateOnly = Emoneĩ ñembohekopyahu po rupigua añoite ha ani e
 policy-PrimaryPassword = Ejerure térã emboyke ñe’ẽñemi ñepyrũgua jeporu.
 policy-NetworkPrediction = Embojuruja térã eipe’a ñanduti kuaapy (DNS oheka mboyve).
 policy-NewTabPage = Emyandy ha embogue kuatiarogue Tendayke Pyahu.
-policy-NoDefaultBookmarks = Eipe’a techaukaha ijypyguáva ñemoheñói oikehápe { -brand-short-name }, ha umi techaukaha ha’evéva (teramoĩ ojehecha ha ojehupiramovéva). Kuaarã: ko purureko oiko eipurúvo mba’ete tembiapo ñepyrũgua mboyve añoite.
+policy-NoDefaultBookmarks = Eipe’a techaukaha ijypyguáva ñemoheñói oikehápe { -brand-short-name }, ha umi techaukaha ha’evéva (teramoĩ ojehecha ha ojehupiramovéva). Kuaarã: ko porureko oiko eipurúvo mba’ete tembiapo ñepyrũgua mboyve añoite.
 policy-OfferToSaveLogins = Emboheko emoneĩ hag̃ua { -brand-short-name }-pe omomandu’ávo emoñepyrũvo tembiapo ha ñe’ẽñemi ñongatupyre. Oñemoneĩ añetegua ha japúva.
 policy-OfferToSaveLoginsDefault = Emopyenda tepykue ypyguáva omoneĩ hag̃ua { -brand-short-name } nemomandu’ávo tembiapo ñepyrũ ha ñe’ẽñemi ñongatupyre. Oñemoneĩ tepykue añete ha japúva.
-policy-OverrideFirstRunPage = Emboyke kuatiarogue tembiapo ñepyrũguáva. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue tembiapo ñepyrũguáva.
-policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekopyahu rire. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue embohekopyahu rire.
+policy-OverrideFirstRunPage = Emboyke kuatiarogue tembiapo ñepyrũguáva. Emboaje ko porureko mba’eve’ỹre eipe’aséramo kuatiarogue tembiapo ñepyrũguáva.
+policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekopyahu rire. Emboaje ko porureko mba’eve’ỹre eipe’aséramo kuatiarogue embohekopyahu rire.
 policy-PasswordManagerEnabled = Embojuruja ñe’ẽñemi ñongatu ñe’ẽñemi ñangarekohápe.
 policy-PasswordManagerExceptions = Eñeha’ã { -brand-short-name } ani eñongatu pe’aha tenda ha’etévape.
 # PDF.js and PDF should not be translated
@@ -111,7 +111,7 @@ policy-Proxy = Emboheko proxy mohendahavusu.
 policy-RequestedLocales = Emopyenda tenda jerurepyre rusýi emomba’apo hag̃ua hekoitépe.
 policy-SanitizeOnShutdown2 = Emboguete kundaha mba’ekuaarã esẽnguévo.
 policy-SearchBar = Emboheko jehekaha rendaite ijypykue rupi. Pe poruhára ikatu gueteri oñemomba’e hese.
-policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko purureko eiporukuaa pe Extended Support Release (ESR) rupive.
+policy-SearchEngines = Emboheko jehekaha ñemoĩporã. Ko porureko eiporukuaa pe Extended Support Release (ESR) rupive.
 policy-SearchSuggestEnabled = Emyandy térã embogue jeheka rehegua.
 # For more information, see https://wikipedia.org/wiki/PKCS_11
 policy-SecurityDevices2 = Embojuaju térã eipe’a PKCS #11 ta’ãha.

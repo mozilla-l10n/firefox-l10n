@@ -44,7 +44,7 @@ certificate-viewer-not-after = Ani uperire
 certificate-viewer-not-before = Ani upemboyve
 certificate-viewer-organization = Atyguasu
 certificate-viewer-organizational-unit = Joaju Atyguasugua
-certificate-viewer-policy = Purureko
+certificate-viewer-policy = Porureko
 certificate-viewer-protocol = Taperekoite
 certificate-viewer-public-value = Opavavemba’éva repykue
 certificate-viewer-purposes = Japose
@@ -78,7 +78,7 @@ certificate-viewer-ocsp-stapling = OCSP Tuichavéva
 certificate-viewer-subject-key-id = Téma ñemigua ID
 certificate-viewer-authority-key-id = Mburuvicha ñemigua ID
 certificate-viewer-authority-info-aia = Mburuvicha marandu (AIA)
-certificate-viewer-certificate-policies = Jerohoryvéva purureko
+certificate-viewer-certificate-policies = Jerohoryvéva porureko
 certificate-viewer-embedded-scts = Ojehe’áva SCTs
 certificate-viewer-crl-endpoints = CRL kyta paha
 # This message is used as a row header in the Miscellaneous section.

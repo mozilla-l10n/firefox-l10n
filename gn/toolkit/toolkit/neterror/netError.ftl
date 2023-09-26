@@ -144,4 +144,4 @@ certerror-mitm-what-can-you-do-about-it-attack = Ndereikuaa porãiramo ko <b>{ $
 certerror-mitm-what-can-you-do-about-it-attack-sts = Ndereikuaa porãiramo ko <b>{ $mitm }</b>, upéicharõ kóva ikatu mba’evai ha ani ejapo mba’eve eike hag̃ua tendápe.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> oguereko tekorosã purureko hérava HTTP Strict transporte Security (HSTS), he’iséva { -brand-short-name } oiketaha hendive tekorosãme. Ndaikatúi embojuaju oĩ’ỹva eike hag̃ua ko tendápe.
+certerror-what-should-i-do-bad-sts-cert-explanation = <b>{ $hostname }</b> oguereko tekorosã porureko hérava HTTP Strict transporte Security (HSTS), he’iséva { -brand-short-name } oiketaha hendive tekorosãme. Ndaikatúi embojuaju oĩ’ỹva eike hag̃ua ko tendápe.

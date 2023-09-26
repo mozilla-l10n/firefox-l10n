@@ -265,7 +265,7 @@ discopane-notice-recommendations = Heta ko’ã ñe’ẽporã ha’e ñemomba�
 discopane-notice-recommendations2 =
     .message = Heta ko’ã ñe’ẽporã ha’e ñemomba’epyre. Ojehecha ambue jepysokue ñemohendapyre, ne mba’ete erohoryvéva ha ijeporukue.
 discopane-notice-learn-more = Kuaave
-privacy-policy = Temiñemi purureko
+privacy-policy = Temiñemi porureko
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
 #   $author (string) - The name of the add-on developer.

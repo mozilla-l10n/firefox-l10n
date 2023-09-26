@@ -26,4 +26,4 @@ identity-credential-sign-in-button =
     .label = Eñepyrũ tembiapo
     .accesskey = S
 identity-credential-policy-title = Eiporu { $provider } tembiapo ñepyrũ me’ẽháramo
-identity-credential-policy-description = Eñepyrũ tembiapo { $host } mba’ete { $provider } peguándi ojogueraha <label data-l10n-name="privacy-url">Ñemigua purureko</label> ha <label data-l10n-name="tos-url">Mba’epytyvõrã ñemboguata</label>.
+identity-credential-policy-description = Eñepyrũ tembiapo { $host } mba’ete { $provider } peguándi ojogueraha <label data-l10n-name="privacy-url">Ñemigua porureko</label> ha <label data-l10n-name="tos-url">Mba’epytyvõrã ñemboguata</label>.
