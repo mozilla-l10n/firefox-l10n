@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Copie colegament
     .accesskey = l
 fxviewtabrow-close-tab = Siere schede
     .accesskey = c
+fxviewtabrow-move-tab = Sposte schede
+    .accesskey = h
+fxviewtabrow-move-tab-start = Sposte al inizi
+    .accesskey = S
+fxviewtabrow-move-tab-end = Sposte ae fin
+    .accesskey = e
+fxviewtabrow-move-tab-window = Sposte suntun gnûf barcon
+    .accesskey = u
+fxviewtabrow-send-tab = Invie schede a dispositîf
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =

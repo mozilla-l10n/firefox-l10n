@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Inzornaments disponibii
-shopping-message-bar-warning-stale-analysis-message = Invie il strument di analisi di { -fakespot-brand-full-name } par otignî informazions inzornadis in cirche 60 seconts.
+shopping-message-bar-warning-stale-analysis-message-2 = Gnovis informazions di controlâ
+shopping-message-bar-warning-stale-analysis-button = Controle cumò
 shopping-message-bar-generic-error-title2 = Nissune informazion disponibile in chest moment
 shopping-message-bar-generic-error-message = O stin lavorant par risolvi il probleme. Torne controle ca di pôc.
 shopping-message-bar-warning-not-enough-reviews-title = No son ancjemò vonde recensions
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Daûr a verificâ la cualitâ
 shopping-message-bar-analysis-in-progress-message2 = Cheste operazion e podarès puartâ vie cirche 60 seconts.
 shopping-message-bar-page-not-supported-title = Impussibil verificâ chestis recensions
 shopping-message-bar-page-not-supported-message = Magari cussì no, ma nol è pussibil verificâ la cualitât des recensions par cualchi gjenar di prodot, come par esempli lis cjartis regâl, trasmissions video, musiche e zûcs.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Invie il strument di analisi su { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recensions inafida
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Vierç la sbare laterâl pes compris
-shopping-sidebar-close-button =
-    .tooltiptext = Siere la sbare laterâl pes compris
+shopping-sidebar-open-button2 =
+    .tooltiptext = Vierç verifiche recensions
+shopping-sidebar-close-button2 =
+    .tooltiptext = Siere verifiche recensions
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,18 @@ shopping-callout-pdp-opted-in-title = Sono afidabilis chestis recensions? Scuvie
 shopping-callout-pdp-opted-in-subtitle = Vierç verifiche recensions par viodi la valutazion retificade dopo vê gjavadis lis recensions inafidabilis. In plui, viôt i ponts in risalt des recensions autentichis inseridis di resint.
 shopping-callout-closed-not-opted-in-title = Recensions afidabilis intun clic
 shopping-callout-closed-not-opted-in-subtitle = Prove “verifiche recensions” ogni volte che tu viodis la icone cul cartelin dal presit. Oten subite informazions detaiadis dai vêrs acuirents, prime di comprâ.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Prove la nestre vuide pes recensions dai prodots
+shopping-onboarding-opt-in-button = Sì, provile
+shopping-onboarding-not-now-button = No cumò
+shopping-onboarding-dialog-close-button =
+    .title = Siere
+    .aria-label = Siere
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Avanzament: pas { $current } di { $total }
