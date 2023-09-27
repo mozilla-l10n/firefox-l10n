@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Laster ned { -brand-shorter-name }-oppdatering
-
 appmenuitem-banner-update-available =
     .label = Oppdatering tilgjengelig — last ned nå
-
 appmenuitem-banner-update-manual =
     .label = Oppdatering tilgjengelig — last ned nå
-
 appmenuitem-banner-update-unsupported =
     .label = Kan ikke oppdatere — systemet er inkompatibelt
-
 appmenuitem-banner-update-restart =
     .label = Oppdatering tilgjengelig — start på nytt
-
 appmenuitem-new-tab =
     .label = Ny fane
 appmenuitem-new-window =
@@ -58,7 +53,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Lukk program-meny
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -79,34 +73,28 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Logg inn for å synkronisere …
 appmenu-remote-tabs-turn-on-sync =
     .label = Slå på synkronisering …
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Vis flere faner
     .tooltiptext = Vis flere faner fra denne enheten
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Ingen åpne faner
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Skru på fane-synkronisering for å se en liste over faner fra de andre enhetene dine.
-
 appmenu-remote-tabs-opensettings =
     .label = Innstillinger
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vil du se faner fra de andre enhetene dine her?
-
 appmenu-remote-tabs-connectdevice =
     .label = Koble til en annen enhet
 appmenu-remote-tabs-welcome = Vis en liste over faner fra andre enheter.
 appmenu-remote-tabs-unverified = Kontoen din må bekrefts.
-
 appmenuitem-fxa-toolbar-sync-now2 = Synkroniser nå
 appmenuitem-fxa-sign-in = Logg inn på { -brand-product-name }
 appmenuitem-fxa-manage-account = Behandle konto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -116,14 +104,12 @@ appmenu-fxa-sync-and-save-data2 = Synkroniser og lagre data
 appmenu-fxa-signed-in-label = Logg inn
 appmenu-fxa-setup-sync =
     .label = Slå på synkronisering …
-
 appmenuitem-save-page =
     .label = Lagre side som …
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Hva er nytt
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -137,52 +123,37 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Profiler
     .tooltiptext = Ta opp en ytelses-profil
-
 profiler-popup-button-recording =
     .label = Profiler
     .tooltiptext = Profileren registrerer en profil
-
 profiler-popup-button-capturing =
     .label = Profiler
     .tooltiptext = Profileren tar opp en profil
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Avslør mer informasjon
-
 profiler-popup-description-title =
     .value = Registrer, analyser, del
-
 profiler-popup-description = Samarbeid om ytelsesproblemer ved å publisere profiler for å dele med teamet ditt.
-
 profiler-popup-learn-more-button =
     .label = Les mer
-
 profiler-popup-settings =
     .value = Innstillinger
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Rediger innstillinger …
-
 profiler-popup-recording-screen = Registrerer …
-
 profiler-popup-start-recording-button =
     .label = Start registrering
-
 profiler-popup-discard-button =
     .label = Forkast
-
 profiler-popup-capture-button =
     .label = Fang
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -194,39 +165,28 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Anbefalt forhåndsinnstilling for de fleste feilsøkinger i nettapper, med lite tillegg.
 profiler-popup-presets-web-developer-label =
     .label = Nettsideutvikling
-
 profiler-popup-presets-firefox-description = Anbefalt forhåndsinnstilling for profilering { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Forhåndsinnstilt for å undersøke grafikk-problemer i { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafikk
-
 profiler-popup-presets-media-description2 = Forhåndsinnstilt for å undersøke lyd- og videoproblemer i { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Media
-
 profiler-popup-presets-networking-description = Forhåndsinnstilt for å undersøke nettverksfeil i { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Nettverk
-
 profiler-popup-presets-power-description = Forhåndsinnstilt for å undersøke strømforbruksfeil i { -brand-shorter-name }, med lav overhead.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energi
-
 profiler-popup-presets-custom-label =
     .label = Tilpasset
 
@@ -292,7 +252,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Tilpass verktøylinje …
-
 appmenu-developer-tools-subheader = Nettleserverktøy
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers
