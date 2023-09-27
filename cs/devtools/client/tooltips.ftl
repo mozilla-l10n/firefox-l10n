@@ -16,6 +16,7 @@ learn-more = <span data-l10n-name="link">Zjistit více</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid ani flex.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid ani flex, ani není kontejnerem s více sloupci.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro více sloupců.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem zobrazení grid ani flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není prvkem zobrazení grid.
 inactive-css-not-grid-container = <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože není kontejnerem pro zobrazení grid.
@@ -35,6 +36,8 @@ inactive-css-not-for-internal-table-elements-except-table-cells = Vlastnost <str
 inactive-css-not-table = Vlatnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože se nejedná o tabulku.
 inactive-css-not-table-cell = Vlastnost <strong>{ $property }</strong> nemá žádný efekt na tento prvek, protože se nejedná o buňku tabulky.
 inactive-scroll-padding-when-not-scroll-container = Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože není rolovatelný.
+inactive-css-border-image = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože jej nelze použít na vnitřní prvky tabulky, kde je <strong>border-collapse</strong> nastaven na <strong>collapse</strong> na nadřazeném prvku tabulky.
+inactive-css-ruby-element = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se jedná o prvek ruby. Jeho velikost je určena velikostí písma textu ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na zvýrazněných pseudoprvcích.
 inactive-css-cue-pseudo-element-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na pseudoprvcích ::cue.
 
