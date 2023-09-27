@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Mae diweddariadau ar gael
-shopping-message-bar-warning-stale-analysis-message = Agorwch ddadansoddwr{ -fakespot-brand-full-name } i gael y manylion diweddaraf o fewn tua 60 eiliad.
+shopping-message-bar-warning-stale-analysis-message-2 = Gwybodaeth newydd i’w wirio
+shopping-message-bar-warning-stale-analysis-button = Gwirio nawr
 shopping-message-bar-generic-error-title2 = Dim gwybodaeth ar gael ar hyn o bryd
 shopping-message-bar-generic-error-message = Rydym yn gweithio i ddatrys y mater. Dewch nôl cyn bo hir.
 shopping-message-bar-warning-not-enough-reviews-title = Dim digon o adolygiadau eto
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Gwirio ansawdd adolygiadau
 shopping-message-bar-analysis-in-progress-message2 = Gall hyn gymryd tua 60 eiliad.
 shopping-message-bar-page-not-supported-title = Methu gwirio’r adolygiadau hyn
 shopping-message-bar-page-not-supported-message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Agor y dadansoddwr ar { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -122,10 +114,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Adolygiadau anniby
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Agor y bar ochr siopa
-shopping-sidebar-close-button =
-    .tooltiptext = Cau'r bar ochr siopa
+shopping-sidebar-open-button2 =
+    .tooltiptext = Agor y gwiriwr adolygiadau
+shopping-sidebar-close-button2 =
+    .tooltiptext = Cau’r gwiriwr adolygiadau
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -171,3 +163,26 @@ shopping-callout-pdp-opted-in-title = A yw'r adolygiadau hyn yn ddibynadwy? Gwel
 shopping-callout-pdp-opted-in-subtitle = Agorwch y gwiriwr adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
 shopping-callout-closed-not-opted-in-title = Un clic i adolygiadau dibynadwy
 shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y gwiriwr adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Rhowch gynnig ar ein canllaw dibynadwy i adolygiadau cynnyrch
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwiriwr adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
+shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd { -fakespot-brand-full-name } a'u < a data-l10n-name="terms_of_use">hamodau defnydd.</a>
+shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
+shopping-onboarding-not-now-button = Nid nawr
+shopping-onboarding-dialog-close-button =
+    .title = Cau
+    .aria-label = Cau
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Cynnydd: cam { $current } o { $total }
