@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Copïo'r Ddolen
     .accesskey = D
 fxviewtabrow-close-tab = Cau Tab
     .accesskey = C
+fxviewtabrow-move-tab = Symud Tab
+    .accesskey = S
+fxviewtabrow-move-tab-start = Symud i'r Cychwyn
+    .accesskey = C
+fxviewtabrow-move-tab-end = Symud i'r Diwedd
+    .accesskey = D
+fxviewtabrow-move-tab-window = Symud i Ffenestr Newydd
+    .accesskey = N
+fxviewtabrow-send-tab = Anfon Tab i Ddyfais
+    .accesskey = D
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
