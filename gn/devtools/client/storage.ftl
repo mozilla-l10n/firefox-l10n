@@ -29,13 +29,13 @@ storage-table-type-cache-hint = Ehecha ha embogue ñembyatyha jeikekue eiporavó
 storage-table-type-extensionstorage-hint = Ehecha ha embosako’i ñembyatyha jepysokue eiporavóvo mohendahavusu. <a data-l10n-name="learn-more-link">Kuaave</a>
 # Placeholder for the searchbox that allows you to filter the table items
 storage-search-box =
-    .placeholder = Pururã mbogua
+    .placeholder = Porurã mbogua
 # Placeholder text in the sidebar search box
 storage-variable-view-search-box =
     .placeholder = Mboguaha repykue
 # Add Item button title
 storage-add-button =
-    .title = Embojuaju pururã
+    .title = Embojuaju porurã
 # Refresh button title
 storage-refresh-button =
     .title = Mba’eporu mbohekopyahu
@@ -55,7 +55,7 @@ storage-context-menu-delete =
     .label = Mboguete “{ $itemName }”
 # Context menu action to add an item
 storage-context-menu-add-item =
-    .label = Embojuaju pururã
+    .label = Embojuaju porurã
 # Context menu action to delete all storage items from a given host
 # Variables:
 #   $host (String) - Host for which we want to delete the items

@@ -6,9 +6,9 @@
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
-webrtc-indicator-title = { -brand-short-name } - Purujovái jehechaukaha
+webrtc-indicator-title = { -brand-short-name } - Porujovái jehechaukaha
 webrtc-indicator-window =
-    .title = { -brand-short-name } - Purujovái jehechaukaha
+    .title = { -brand-short-name } - Porujovái jehechaukaha
 
 ## Used as list items in sharing menu
 
