@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Sao chép liên kết
     .accesskey = L
 fxviewtabrow-close-tab = Đóng thẻ
     .accesskey = C
+fxviewtabrow-move-tab = Di chuyển thẻ
+    .accesskey = v
+fxviewtabrow-move-tab-start = Di chuyển lên đầu
+    .accesskey = S
+fxviewtabrow-move-tab-end = Di chuyển xuống cuối
+    .accesskey = E
+fxviewtabrow-move-tab-window = Di chuyển sang cửa sổ mới
+    .accesskey = W
+fxviewtabrow-send-tab = Gửi thẻ đến thiết bị
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
