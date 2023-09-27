@@ -38,6 +38,9 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Ny info å sjekke
+shopping-message-bar-warning-stale-analysis-button = Sjekk nå
+shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengelig akkurat nå
 
 ## Strings for the product review snippets card
 
