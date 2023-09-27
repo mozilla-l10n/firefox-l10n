@@ -93,8 +93,8 @@ autofill-edit-card-title = Rediger betalingskort
 autofill-edit-card-password-prompt =
     { PLATFORM() ->
         [macos] vis betalingskortinformasjon
-        [windows] { -brand-short-name } prøver å vise kredittkortinformasjon. Bekreft tilgang til denne Windows-kontoen nedenfor.
-       *[other] { -brand-short-name } prøver å vise kredittkortinformasjon.
+        [windows] { -brand-short-name } prøver å vise betalingskortinformasjon. Bekreft tilgang til denne Windows-kontoen nedenfor.
+       *[other] { -brand-short-name } prøver å vise betalingskortinformasjon.
     }
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Skriv inn et gyldig kortnummer
