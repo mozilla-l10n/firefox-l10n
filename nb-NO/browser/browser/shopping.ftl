@@ -44,15 +44,32 @@ shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengelig akkur
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Pris
+shopping-highlight-quality = Kvalitet
+shopping-highlight-shipping = Frakt
+shopping-highlight-competitiveness = Konkurranseevne
+shopping-highlight-packaging = Emballasje
 
 ## Strings for show more card
 
+shopping-show-more-button = Vis mer
+shopping-show-less-button = Vis mindre
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Innstillinger
+shopping-settings-recommendations-toggle =
+    .label = Vis annonser i vurderingskontrollen
+shopping-settings-opt-out-button = Slå av vurderingskontrolløren
+powered-by-fakespot = Vurderingskontrolløren drives av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Justert vurdering
 
 ## Strings for the review reliability component
 
@@ -76,6 +93,20 @@ shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengelig akkur
 
 ## Shopping survey strings.
 
+shopping-survey-question-one = Hvor fornøyd er du med vurderingskontrollen i { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Veldig fornøyd
+shopping-survey-q1-radio-2-label = Fornøyd
+shopping-survey-q1-radio-3-label = Nøytral
+shopping-survey-q1-radio-4-label = Misfornøyd
+shopping-survey-q1-radio-5-label = Veldig misfornøyd
+shopping-survey-question-two = Gjør vurderingskontrollen det lettere for deg å ta kjøpsbeslutninger?
+shopping-survey-q2-radio-1-label = Ja
+shopping-survey-q2-radio-2-label = Nei
+shopping-survey-q2-radio-3-label = Jeg vet ikke
+shopping-survey-next-button-label = Neste
+shopping-survey-submit-button-label = Send inn
+shopping-survey-terms-link = Brukervilkår
+shopping-survey-thanks-message = Takk for tilbakemeldingen!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -84,3 +115,14 @@ shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengelig akkur
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Ja, prøv det
+shopping-onboarding-not-now-button = Ikke nå
+shopping-onboarding-dialog-close-button =
+    .title = Lukk
+    .aria-label = Lukk
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Fremdrift: trinn { $current } av { $total }
