@@ -99,7 +99,7 @@ addon-install-error-not-signed = { -brand-short-name } විසින් මෙ
 addon-install-error-invalid-domain = { $addonName } එක්කහුව මෙම ස්ථානයෙන් ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-network-failure = ගොනු පද්ධතියේ දෝෂයක් නිසා මෙම එක්කහුව ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-incorrect-hash = { -brand-short-name } එක්කහුව සමඟ නොගැළපෙන නිසා මෙම එක්කහුව ස්ථාපනය කළ නොහැකිය.
-addon-local-install-error-corrupt-file = හානි වූ බව පෙනෙන නිසා මෙම එක්කහුව ස්ථාපනය කළ නොහැකිය.
+addon-local-install-error-corrupt-file = හානි වූ බව පෙනෙන නිසා මෙම එක්කහුව ස්ථාපනයට නොහැකිය.
 addon-local-install-error-file-access = { -brand-short-name } සඳහා අවශ්‍ය ගොනුව වෙනස් කළ නොහැකි නිසා { $addonName } ස්ථාපනය කළ නොහැකිය.
 addon-local-install-error-not-signed = සත්‍යාපනය නොකළ එක්කහුවක් බැවින් ස්ථාපනය කිරීමට නොහැකිය.
 # Variables:
