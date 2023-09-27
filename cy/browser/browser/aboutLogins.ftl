@@ -273,7 +273,7 @@ about-logins-vulnerable-alert-text2 = Defnyddiwyd y cyfrinair hwn ar gyfrif aral
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mynd i { $hostname }
-about-logins-vulnerable-alert-learn-more-link = Dysgu rhagor
+about-logins-vulnerable-alert-learn-more-link = Darllen rhagor
 
 ## Error Messages
 
@@ -373,7 +373,7 @@ about-logins-import-dialog-error-file-permission-description = Nid oes gan { -br
 about-logins-import-dialog-error-unable-to-read-title = Methu Didoli'r Ffeil
 about-logins-import-dialog-error-unable-to-read-description = Gwnewch yn siŵr eich bod wedi dewis ffeil CSV neu TSV.
 about-logins-import-dialog-error-no-logins-imported = Heb fewnforio unrhyw fewngofnodion
-about-logins-import-dialog-error-learn-more = Dysgu rhagor
+about-logins-import-dialog-error-learn-more = Darllen rhagor
 about-logins-import-dialog-error-try-import-again = Ceisiwch Fewnforio Eto…
 about-logins-import-dialog-error-cancel = Diddymu
 about-logins-import-report-title = Crynodeb Mewnforio

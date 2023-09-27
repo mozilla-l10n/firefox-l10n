@@ -369,7 +369,7 @@ main-context-menu-inspect =
 main-context-menu-inspect-a11y-properties =
     .label = Archwilio'r Priodoleddau Hygyrchedd
 main-context-menu-eme-learn-more =
-    .label = Dysgu rhagor am DRM…
+    .label = Darllen rhagor am DRM…
     .accesskey = D
 # Variables
 #   $containerName (String): The name of the current container
