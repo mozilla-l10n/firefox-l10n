@@ -29,6 +29,7 @@ perftools-heading-local-build = Místní sestavení
 perftools-description-intro =
     Nahrávání spustí v novém panelu <a>profiler.firefox.com</a>. Všechna data jsou
     ukládána lokálně na vašem počítači, ale můžete se rozhodnout je sdílet.
+perftools-description-local-build = Pokud profilujete sestavení, které jste si sami zkompilovali na tomto zařízení, přidejte prosím objdir vašeho sestavení do níže uvedeného seznamu, abyste mohli použít vyhledávání informací o symbolech.
 
 ## The controls for the interval at which the profiler samples the code.
 
@@ -71,6 +72,8 @@ perftools-thread-gecko-main =
     .title = Hlavní procesy pro nadřazený proces a procesy obsahu
 perftools-thread-compositor =
     .title = Skládá dohromady různé vykreslené prvky na stránce
+perftools-thread-dom-worker =
+    .title = Toto zahrnuje skripty typu worker pro web a service.
 perftools-thread-renderer =
     .title = Pokud je WebRender povolen, jde o vlákno, které vykonává volání OpenGL
 perftools-thread-render-backend =
@@ -81,6 +84,8 @@ perftools-thread-style-thread =
     .title = Výpočty pro styly jsou rozdělené do více vláken
 pref-thread-stream-trans =
     .title = Přenos síťového toku
+perftools-thread-socket-thread =
+    .title = Vlákno, v kterém síťový kód spouští jakékoliv volání blokování soketů.
 perftools-thread-img-decoder =
     .title = Vlákna pro dekódování obrázků
 perftools-thread-dns-resolver =
@@ -91,8 +96,14 @@ perftools-thread-jvm-gecko =
     .title = Hlavní vlákno Gecko JVM
 perftools-thread-jvm-nimbus =
     .title = Hlavní vlákna pro experimentální sadu SDK Nimbus
+perftools-thread-jvm-default-dispatcher =
+    .title = Výchozí dispečer pro knihovnu Kotlin coroutines
 perftools-thread-jvm-glean =
     .title = Hlavní vlákna pro Glean telemetry SDK
+perftools-thread-jvm-arch-disk-io =
+    .title = Dispečer IO pro knihovnu Kotlin coroutines
+perftools-thread-jvm-pool =
+    .title = Vlákna vytvořená v nepojmenovaném fondu vláken
 
 ##
 
