@@ -14,7 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ndojuhúi tovamo
 ##
 
 firefox-relay-must-login-to-fxa = Emoñepyrũ tembiapo { -fxaccount-brand-name }-pe eiporu hag̃ua { -relay-brand-name }.
-firefox-relay-must-login-to-account = Eñepyrũ tembiapo ne mba’etépe eipuru hag̃ua ne ñanduti veve rovamo’ãha { -relay-brand-name }.
+firefox-relay-must-login-to-account = Eñepyrũ tembiapo ne mba’etépe eiporu hag̃ua ne ñanduti veve rovamo’ãha { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Eñangareko tovamo’ãháre
     .accesskey = M

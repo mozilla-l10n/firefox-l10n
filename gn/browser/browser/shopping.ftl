@@ -154,8 +154,8 @@ shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jerov
 
 ## Onboarding message strings.
 
-shopping-onboarding-headline = Eipuru ore apopyre guataha rechajey jeroviahápe
-shopping-onboarding-opt-in-button = Héẽ, eipuru
+shopping-onboarding-headline = Eiporu ore apopyre guataha rechajey jeroviahápe
+shopping-onboarding-opt-in-button = Héẽ, eiporu
 shopping-onboarding-not-now-button = Ani ko’ág̃a
 shopping-onboarding-dialog-close-button =
     .title = Mboty
