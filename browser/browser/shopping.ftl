@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Đã có bản cập nhật
-shopping-message-bar-warning-stale-analysis-message = Khởi chạy trình phân tích { -fakespot-brand-full-name } để nhận thông tin cập nhật sau khoảng 60 giây.
+shopping-message-bar-warning-stale-analysis-message-2 = Thông tin mới cần kiểm tra
+shopping-message-bar-warning-stale-analysis-button = Kiểm tra ngay
 shopping-message-bar-generic-error-title2 = Hiện không có thông tin nào
 shopping-message-bar-generic-error-message = Chúng tôi đang làm việc để giải quyết sự cố. Hãy kiểm tra lại sau.
 shopping-message-bar-warning-not-enough-reviews-title = Chưa đủ đánh giá
@@ -55,14 +55,6 @@ shopping-message-bar-analysis-in-progress-title2 = Đang kiểm tra chất lư�
 shopping-message-bar-analysis-in-progress-message2 = Quá trình này có thể mất khoảng 60 giây.
 shopping-message-bar-page-not-supported-title = Chúng tôi không thể kiểm tra những đánh giá này
 shopping-message-bar-page-not-supported-message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Khởi chạy trình phân tích trên { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -120,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Đánh giá không
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Mở thanh lề mua sắm
-shopping-sidebar-close-button =
-    .tooltiptext = Đóng thanh lề mua sắm
+shopping-sidebar-open-button2 =
+    .tooltiptext = Mở trình kiểm tra đánh giá
+shopping-sidebar-close-button2 =
+    .tooltiptext = Đóng trình kiểm tra đánh giá
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -169,3 +161,26 @@ shopping-callout-pdp-opted-in-title = Những đánh giá này có đáng tin c�
 shopping-callout-pdp-opted-in-subtitle = Mở trình kiểm tra đánh giá để xem xếp hạng đã điều chỉnh và đã xóa các đánh giá không đáng tin cậy. Ngoài ra, hãy xem những điểm nổi bật từ các đánh giá xác thực gần đây.
 shopping-callout-closed-not-opted-in-title = Một cú nhấp chuột để đánh giá đáng tin cậy
 shopping-callout-closed-not-opted-in-subtitle = Hãy dùng thử trình kiểm tra đánh giá bất cứ khi nào bạn nhìn thấy tag giá. Nhận thông tin chi tiết từ những người mua sắm thực sự một cách nhanh chóng — trước khi bạn mua.
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Hãy thử hướng dẫn đáng tin cậy của chúng tôi để đánh giá sản phẩm
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Xem mức độ tin cậy của các đánh giá sản phẩm trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm của { -vendor-short-name }, được tích hợp ngay vào { -brand-product-name } — và nó cũng hoạt động trên <b>{ $secondSite }</b> và <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Sử dụng { -fakespot-brand-full-name }, chúng tôi giúp bạn tránh những đánh giá thiên vị và không xác thực. Mô hình AI của chúng tôi luôn cải tiến để bảo vệ bạn khi bạn mua sắm. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Bằng việc chọn “{ shopping-onboarding-opt-in-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-button = Có, hãy thử nó
+shopping-onboarding-not-now-button = Không phải bây giờ
+shopping-onboarding-dialog-close-button =
+    .title = Đóng
+    .aria-label = Đóng
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Tiến trình: bước { $current } của { $total }
