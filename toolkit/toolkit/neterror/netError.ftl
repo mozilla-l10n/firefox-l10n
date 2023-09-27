@@ -97,7 +97,7 @@ neterror-nss-failure-not-verified = Siden du forsøker åpne kan ikke vises ford
 neterror-nss-failure-contact-website = Kontakt nettstedseieren og informer om problemet.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = { -brand-short-name } oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <b>{ $hostname }</b>. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller kredittkortdetaljer.
+certerror-intro = { -brand-short-name } oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <b>{ $hostname }</b>. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller betalingskortdetaljer.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = { -brand-short-name } oppdaget en potensiell sikkerhetstrussel og fortsatte ikke til <b>{ $hostname }</b> fordi dette nettstedet krever en sikker tilkobling.
@@ -123,7 +123,7 @@ neterror-inadequate-security-code = Feilkode: NS_ERROR_NET_INADEQUATE_SECURITY
 neterror-clock-skew-error = Datamaskinen din tror det er { DATETIME($now, dateStyle: "medium") }, som hindrer { -brand-short-name } fra å koble til sikkert. For å besøke <b>{ $hostname }</b>, oppdater datamaskinens klokke i systeminnstillingene til gjeldende dato, klokkeslett og tidssone, og oppdater deretter <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Siden du forsøker å vise kan ikke åpnes fordi en feil i nettverksprotokollen ble oppdaget.
 neterror-network-protocol-error-contact-website = Kontakt nettstedseierne og informer dem om dette problemet.
-certerror-expired-cert-second-para = Det er sannsynligvis at nettstedets sertifikat er utløpt, noe som forhindrer { -brand-short-name } fra å koble til sikkert. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller kredittkortdetaljer.
+certerror-expired-cert-second-para = Det er sannsynligvis at nettstedets sertifikat er utløpt, noe som forhindrer { -brand-short-name } fra å koble til sikkert. Hvis du besøker dette nettstedet, kan angriperne prøve å stjele informasjon som passord, e-post eller betalingskortdetaljer.
 certerror-expired-cert-sts-second-para = Nettstedets sertifikat er sannsynligvis utløpt, noe som forhindrer { -brand-short-name } fra å opprette en sikker forbindelse.
 certerror-what-can-you-do-about-it-title = Hva kan du gjøre med det?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Problemet er mest sannsynlig med nettstedet, og det er ingenting du kan gjøre for å løse det.
