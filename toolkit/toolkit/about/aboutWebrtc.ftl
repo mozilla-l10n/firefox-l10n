@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Začni Beleženje AEC
 about-webrtc-aec-logging-on-state-label = Končaj Beleženje AEC
 about-webrtc-aec-logging-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
 about-webrtc-aec-logging-toggled-on-state-msg = Beleženje AEC vključeno (nekaj minut govorite s klicateljem in nato končajte zajem)
+about-webrtc-aec-logging-unavailable-sandbox = Za izvoz dnevnikov AEC je potrebna spremenljivka okolja MOZ_DISABLE_CONTENT_SANDBOX=1. To spremenljivko nastavite samo v primeru, da razumete možna tveganja.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Dnevniške datoteke zajema lahko najdete na: { $path }
@@ -40,6 +41,10 @@ about-webrtc-force-refresh-button = Osveži
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Odprti podatkovni kanali:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Zaprti podatkovni kanali:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol

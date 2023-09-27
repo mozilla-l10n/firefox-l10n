@@ -24,6 +24,7 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ne vpliva na ta elem
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vsebnik flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ne vpliva na ta element, ker ni vrstični element ali element celice tabele.
 inactive-css-first-line-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::first-letter.
 inactive-css-placeholder-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne vpliva na ta element, ker prikazuje <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pogon je spremenil vrednost <strong>display</strong> v <strong>block</strong>, ker je element nastavljen na <strong>float</strong>.
@@ -37,6 +38,8 @@ inactive-css-not-table-cell = Lastnost <strong>{ $property }</strong> ne vpliva 
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> ne vpliva na ta element, ker ne drsi.
 inactive-css-border-image = <strong>{ $property }</strong> nima vpliva na ta element, ker te lastnosti ni mogoče uporabiti za notranje elemente tabele, kjer je v elementu starševske tabele <strong>border-collapse</strong> nastavljen na <strong>collapse</strong>.
 inactive-css-ruby-element = <strong>{ $property }</strong> nima vpliva na ta element, ker je to element ruby. Njegovo velikost določa velikost pisave besedila ruby.
+inactive-css-highlight-pseudo-elements-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih highlight.
+inactive-css-cue-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
