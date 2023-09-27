@@ -108,6 +108,8 @@ perftools-thread-jvm-pool =
 ##
 
 perftools-record-all-registered-threads = Neuvažovat výše uvedené výběry a zaznamenávat všechna registrovaná vlákna
+perftools-tools-threads-input-label =
+    .title = Tyto názvy vláken jsou seznamem odděleným čárkou, který se používá k povolení profilování vláken v profilovači. Název musí být pouze částečnou shodou s názvem vlákna, které má být zahrnuto. Je citlivý na bílé znaky.
 
 ## Onboarding UI labels. These labels are displayed in the new performance panel UI, when
 ## devtools.performance.new-panel-onboarding preference is true.
