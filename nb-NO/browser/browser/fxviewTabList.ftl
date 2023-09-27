@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Kopier lenke
     .accesskey = K
 fxviewtabrow-close-tab = Lukk fane
     .accesskey = L
+fxviewtabrow-move-tab = Flytt fane
+    .accesskey = y
+fxviewtabrow-move-tab-start = Flytt til begynnelsen
+    .accesskey = t
+fxviewtabrow-move-tab-end = Flytt til slutten
+    .accesskey = s
+fxviewtabrow-move-tab-window = Flytt til nytt vindu
+    .accesskey = v
+fxviewtabrow-send-tab = Send fane til enhet
+    .accesskey = a
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
