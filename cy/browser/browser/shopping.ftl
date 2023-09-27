@@ -174,7 +174,6 @@ shopping-onboarding-headline = Rhowch gynnig ar ein canllaw dibynadwy i adolygia
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwiriwr adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd { -fakespot-brand-full-name } a'u < a data-l10n-name="terms_of_use">hamodau defnydd.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
 shopping-onboarding-not-now-button = Nid nawr
 shopping-onboarding-dialog-close-button =
