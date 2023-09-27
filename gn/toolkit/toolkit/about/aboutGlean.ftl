@@ -80,7 +80,7 @@ about-glean-li-for-visit-gdpv =
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Eha’ãve hag̃ua <i>ad hoc</i>,
-    avei ehechakuaa purupyrã repy ag̃aguáva
+    avei ehechakuaa porupyrã repy ag̃aguáva
     embojurujávo peteĩ tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>
     ha eipurúvo pe API <code>testGetValue()</code> ko
     <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
