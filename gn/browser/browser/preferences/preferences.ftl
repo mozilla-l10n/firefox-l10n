@@ -526,7 +526,7 @@ use-current-pages =
         }
     .accesskey = C
 choose-bookmark =
-    .label = Techaukaha puru…
+    .label = Techaukaha poru…
     .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
