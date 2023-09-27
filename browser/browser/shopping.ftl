@@ -6,6 +6,7 @@ shopping-page-title = Achats dans { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Vérificateur d’avis
+shopping-beta-marker = Bêta
 shopping-close-button =
     .title = Fermer
 # This string is for notifying screen reader users that the
@@ -31,29 +32,14 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Mises à jour disponibles
-shopping-message-bar-warning-stale-analysis-message = Lancez l’analyseur { -fakespot-brand-full-name } pour obtenir des informations à jour dans environ 60 secondes.
-shopping-message-bar-generic-error-title = Analyse non disponible actuellement
+shopping-message-bar-generic-error-title2 = Aucune information disponible actuellement
 shopping-message-bar-generic-error-message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
 shopping-message-bar-warning-not-enough-reviews-title = Pas encore assez d’avis
-shopping-message-bar-warning-not-enough-reviews-message = Lorsque ce produit aura reçu plus d’avis, nous pourrons les analyser.
 shopping-message-bar-warning-product-not-available-title = Le produit n’est pas disponible
-shopping-message-bar-warning-product-not-available-message = Si vous constatez que ce produit est de retour en stock, signalez-le-nous et nous mettrons à jour l’analyse.
 shopping-message-bar-warning-product-not-available-button = Signaler que ce produit est de retour en stock
 shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
-shopping-message-bar-warning-product-not-available-reported-title = Analyse à venir
-shopping-message-bar-warning-offline-title = Aucune connexion réseau
-shopping-message-bar-warning-offline-message = Veuillez vérifier votre connexion réseau. Essayez ensuite d’actualiser la page.
-shopping-message-bar-analysis-in-progress-title = Analyse à venir
+shopping-message-bar-warning-product-not-available-reported-title2 = Plus d’informations prochainement
 shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ces avis
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Lancer l’analyseur sur { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -79,6 +65,8 @@ powered-by-fakespot = Le vérificateur d’avis fonctionne grâce à <a data-l10
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Note ajustée
 shopping-adjusted-rating-unreliable-reviews = Avis non fiables supprimés
@@ -106,9 +94,42 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. 
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-message = Lancez l’analyseur { -fakespot-brand-full-name } et vous saurez en 60 secondes environ si les avis sur ce produit sont fiables.
-shopping-unanalyzed-product-analyze-link = Lancer l’analyseur sur { -fakespot-website-name }
+shopping-unanalyzed-product-header-2 = Aucune information sur ces avis pour le moment
 
 ## Strings for the advertisement
 
 ad-by-fakespot = Publicité de { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-headline = Aidez à améliorer { -brand-product-name }
+shopping-survey-q1-radio-1-label = Très satisfait·e
+shopping-survey-q1-radio-2-label = Satisfait·e
+shopping-survey-q1-radio-3-label = Sans opinion
+shopping-survey-q1-radio-4-label = Insatisfait·e
+shopping-survey-q1-radio-5-label = Très insatisfait·e
+shopping-survey-q2-radio-1-label = Oui
+shopping-survey-q2-radio-2-label = Non
+shopping-survey-q2-radio-3-label = Je ne sais pas
+shopping-survey-next-button-label = Suivant
+shopping-survey-submit-button-label = Envoyer
+shopping-survey-terms-link = Conditions d’utilisation
+shopping-survey-thanks-message = Merci de votre retour !
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+
+shopping-onboarding-not-now-button = Plus tard
+shopping-onboarding-dialog-close-button =
+    .title = Fermer
+    .aria-label = Fermer
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progression : étape { $current } sur { $total }
