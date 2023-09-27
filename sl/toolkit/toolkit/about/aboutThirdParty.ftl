@@ -9,10 +9,13 @@ third-party-intro =
     { -brand-short-name }. Za modul tretjega ponudnika velja vsak modul,
     ki ga ni podpisal Microsoft ali { -vendor-short-name }.
 third-party-message-empty = Ni zaznanih modulov drugih ponudnikov.
+third-party-message-no-duration = Ni zabeleženo
 third-party-detail-version = Različica datoteke
 third-party-detail-vendor = Podatki o izdelovalcu
 third-party-detail-occurrences = Ponovitve
     .title = Kolikokrat je bil ta modul naložen.
+third-party-detail-duration = Povpr. čas blokade (ms)
+    .title = Kako dolgo je ta modul blokiral aplikacijo.
 third-party-detail-app = Program
 third-party-detail-publisher = Izdajatelj
 third-party-th-process = Proces
@@ -22,6 +25,8 @@ third-party-tag-ime = IME
     .title = Ta vrsta modula se naloži, kadar uporabite urejevalnik vnosne metode tretjega ponudnika.
 third-party-tag-shellex = Razširitev lupine
     .title = Ta vrsta modula se naloži, ko odprete sistemsko pogovorno okno za datoteke.
+third-party-tag-background = V ozadju
+    .title = Ta modul ni blokiral aplikacije, ker se je naložil v ozadju.
 third-party-icon-unsigned =
     .title = Ta modul ni podpisan
     .alt = Ta modul ni podpisan
