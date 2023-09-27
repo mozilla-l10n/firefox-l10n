@@ -8,23 +8,17 @@
 more-from-moz-title = Rhagor gan { -vendor-short-name }
 more-from-moz-category =
     .tooltiptext = Rhagor gan { -vendor-short-name }
-
 more-from-moz-subtitle = Edrychwch ar gynnyrch eraill { -vendor-short-name } sy'n gweithio i gefnogi rhyngrwyd iach.
-
 more-from-moz-firefox-mobile-title = { -brand-product-name } Symudol
 more-from-moz-firefox-mobile-description = Y porwr symudol sy'n rhoi eich preifatrwydd yn gyntaf.
-
 more-from-moz-mozilla-vpn-title = { -mozilla-vpn-brand-name }
 more-from-moz-mozilla-vpn-description = Darganfyddwch haen ychwanegol o bori ac diogelwch dienw.
-
 more-from-moz-qr-code-box-firefox-mobile-title = Llwythwch i lawr gan ddefnyddio'ch dyfais symudol. Pwyntiwch eich camera at y cod QR. Pan fydd dolen yn ymddangos, tapiwch ef.
 more-from-moz-qr-code-box-firefox-mobile-button = Anfon e-bost at eich ffôn yn lle hynny
 more-from-moz-qr-code-firefox-mobile-img =
     .alt = Y cod QR i'w lwytho { -brand-product-name } Symudol i lawr
-
 more-from-moz-button-mozilla-vpn-2 = Cael VPN
-
-more-from-moz-learn-more-link = Dysgu rhagor
+more-from-moz-learn-more-link = Darllen rhagor
 
 ## These strings are for the Firefox Relay card in about:preferences moreFromMozilla page
 

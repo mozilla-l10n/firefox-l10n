@@ -8,8 +8,7 @@ refresh-profile-dialog-button =
 refresh-profile-dialog-description = Ail gychwynnwch o'r newydd i ddatrys problemau perfformiad. Bydd hyn yn dileu eich estyniadau a'ch cyfaddasiadau. Fyddwch chi ddim yn colli gwybodaeth hanfodol fel nodau tudalen a chyfrineiriau.
 refresh-profile = Rhoi bywyd newydd i { -brand-short-name }
 refresh-profile-button = Adnewyddu { -brand-short-name }…
-refresh-profile-learn-more = Dysgu rhagor
-
+refresh-profile-learn-more = Darllen rhagor
 refresh-profile-progress =
     .title = Adnewyddu { -brand-short-name }
 refresh-profile-progress-description = Bron â gorffen…

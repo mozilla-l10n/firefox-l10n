@@ -5,7 +5,7 @@
 
 ### Localization for Developer Tools tooltips.
 
-learn-more = <span data-l10n-name ="link">Dysgu rhagor</span>
+learn-more = <span data-l10n-name ="link">Darllen rhagor</span>
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain why
@@ -81,4 +81,4 @@ css-compatibility-deprecated-message = Mae <strong>{ $property }</strong> yn cae
 css-compatibility-deprecated-supported-message = Mae <strong>{ $property }</strong> yn cael ei anghymeradwyo gan safonau'r W3C.
 css-compatibility-experimental-message = Mae <strong>{ $property }</strong> yn briodwedd arbrofol. Nid yw'n cael ei gefnogi gan y porwyr canlynol:
 css-compatibility-experimental-supported-message = Mae <strong>{ $property }</strong> yn briodwedd arbrofol.
-css-compatibility-learn-more-message = <span data-l10n-name="link">Dysgu rhagor</span> am <strong>{ $rootProperty }</strong>
+css-compatibility-learn-more-message = <span data-l10n-name="link">Darllen rhagor</span> am <strong>{ $rootProperty }</strong>
