@@ -16,12 +16,16 @@ learn-more = <span data-l10n-name="link">Tìm hiểu thêm</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa flex hay ngăn chứa lưới.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa flex, ngăn chứa lưới hoặc ngăn chứa nhiều cột.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> không có tác dụng trên phần tử này vì nó không phải là một ngăn chứa nhiều cột.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là một mục lưới hoặc flex.
 inactive-css-not-grid-item = <strong>{ $property }</strong> không có tác dụng đối với thành phần này vì nó không phải là một mục lưới.
 inactive-css-not-grid-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa lưới.
 inactive-css-not-flex-item = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là một mục flex.
 inactive-css-not-flex-container = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là ngăn chứa flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> không có tác dụng đối với phần tử này vì nó không phải là phần tử nội tuyến hoặc ô bảng.
+inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::first-line pseudo-elements.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::first-letter pseudo-elements.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::placeholder pseudo-elements.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> không ảnh hưởng đến yếu tố này vì nó có hiển thị của <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Giá trị <strong>display</strong> đã được thay đổi bởi máy thành <strong>block</strong> vì phần tử là <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Nó không thể ghi đè <strong>{ $property }</strong> do hạn chế <strong>:visited</strong>.
@@ -30,10 +34,12 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> không 
 inactive-css-not-for-internal-table-elements = <strong>{ $property }</strong> không ảnh hưởng đến các phần tử nội bộ của bảng.
 inactive-css-not-for-internal-table-elements-except-table-cells = <strong>{ $property }</strong> không có ảnh hưởng đến các phần tử bên trong bảng ngoại trừ các ô trong bảng.
 inactive-css-not-table = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không phải là một bảng.
+inactive-css-not-table-cell = <strong>{ $property }</strong> không có tác dụng trên phần tử này vì nó không phải là ô của bảng.
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không cuộn.
 inactive-css-border-image = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó không thể được áp dụng cho phần tử bảng nội bộ khi <strong>border-collapse</strong> được đặt thành <strong>collapse</strong> trên bảng phần tử mẹ.
 inactive-css-ruby-element = <strong>{ $property }</strong> không ảnh hưởng đến phần tử này vì nó là phần tử ruby. Kích thước của nó được xác định bởi kích thước phông chữ của văn bản ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên pseudo-elements được tô sáng.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> không được hỗ trợ trên ::cue pseudo-elements.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -41,6 +47,7 @@ inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</st
 
 inactive-css-not-grid-or-flex-container-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong> hoặc <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Hãy thử thêm <strong>column-count</strong> hoặc <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Hãy thử thêm <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, hoặc <strong>display:inline-flex</strong> vào parent của phần tử. { learn-more }
 inactive-css-not-grid-item-fix-2 = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong> vào phần tử mẹ. { learn-more }
 inactive-css-not-grid-container-fix = Hãy thử thêm <strong>display:grid</strong> hoặc <strong>display:inline-grid</strong>. { learn-more }
@@ -55,6 +62,7 @@ inactive-text-overflow-when-no-overflow-fix = Hãy thử thêm <strong>overflow:
 inactive-css-not-for-internal-table-elements-fix = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Hãy thử đặt thuộc tính <strong>display</strong> của nó thành thứ khác ngoài <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, hoặc <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Hãy thử thêm <strong>display:table</strong> hoặc <strong>display:inline-table</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Hãy thử thêm <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Hãy thử thêm <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, hoặc <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Trên bảng phần tử mẹ, hãy xóa thuộc tính hoặc thay đổi giá trị của <strong>border-collapse</strong> sang một giá trị khác <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Hãy thử thay đổi <strong>font-size</strong> của văn bản ruby. { learn-more }
