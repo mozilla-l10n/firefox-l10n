@@ -14,6 +14,8 @@ printui-sheets-count =
     }
 printui-page-range-all = সকলো
 printui-page-range-current = বৰ্তমানৰ
+printui-page-range-odd = অযুগ্ম
+printui-page-range-even = যুগ্ম
 printui-page-range-custom = ইচ্ছা অনুসৰি
 printui-page-range-label = পৃষ্ঠা
 printui-page-range-picker =
