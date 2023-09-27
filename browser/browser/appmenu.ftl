@@ -136,7 +136,7 @@ profiler-popup-description-title =
     .value = Cofnodi, dadansoddi, rhannu
 profiler-popup-description = Cydweithiwch ar faterion perfformiad trwy gyhoeddi proffiliau i'w rhannu â'ch tîm.
 profiler-popup-learn-more-button =
-    .label = Dysgu rhagor
+    .label = Darllen rhagor
 profiler-popup-settings =
     .value = Gosod­iadau
 # This link takes the user to about:profiling, and is only visible with the Custom preset.

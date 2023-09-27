@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = Ychwanegu Tagiau
-
 pocket-panel-saved-error-generic = Bu gwall wrth geisio cadw i { -pocket-brand-name }.
 pocket-panel-saved-error-tag-length = Mae tagiau wedi eu cyfyngu i 25 nod
 pocket-panel-saved-error-only-links = Dim ond dolenni y mae modd eu cadw
@@ -29,14 +28,13 @@ pocket-panel-saved-save-tags = Cadw
 pocket-panel-saved-saving-tags = Yn cadw…
 pocket-panel-saved-suggested-tags = Awgrymiadau o Dagiau
 pocket-panel-saved-tags-saved = Ychwanegwyd Tagiau
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = Ychwanegu Tagiau:
 
 ## about:pocket-signup panel
 
 pocket-panel-signup-already-have = Eisoes yn ddefnyddiwr { -pocket-brand-name }?
-pocket-panel-signup-learn-more = Dysgu rhagor
+pocket-panel-signup-learn-more = Darllen rhagor
 pocket-panel-signup-login = Mewngofnodi
 pocket-panel-signup-signup-email = Ymunwch drwy e-bost
 pocket-panel-signup-signup-cta = Ymunwch â { -pocket-brand-name }. Mae am ddim.
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = Ymuno drwy { -brand-product-name }
 pocket-panel-signup-tagline = Cadw erthyglau a fideos o { -brand-product-name } i'w gweld yn { -pocket-brand-name } ar unrhyw ddyfais, ar unrhyw adeg.
 pocket-panel-signup-tagline-story-one = Cliciwch Fotwm { -pocket-brand-name } i gadw unrhyw erthygl, fideo neu dudalen o { -brand-product-name }.
 pocket-panel-signup-tagline-story-two = Gweld yn { -pocket-brand-name } ar unrhyw ddyfais, ar unrhyw adeg.
-
 pocket-panel-signup-cta-a-fix = Eich botwm cadw ar gyfer y rhyngrwyd.
 pocket-panel-signup-cta-b-updated = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni. Gallwch weld eich cadw ar unrhyw ddyfais, unrhyw bryd.
 pocket-panel-signup-cta-b-short = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni.
@@ -57,7 +54,6 @@ pocket-panel-home-paragraph = Gallwch ddefnyddio { -pocket-brand-name } i archwi
 pocket-panel-home-explore-popular-topics = Archwilio Pynciau Poblogaidd
 pocket-panel-home-discover-more = Darganfod Rhagor
 pocket-panel-home-explore-more = Archwilio
-
 pocket-panel-home-most-recent-saves = Dyma beth rydych wedi eu cadw'n ddiweddar:
 pocket-panel-home-most-recent-saves-loading = Yn llwytho erthyglau diweddar wedi'u cadw …
 pocket-panel-home-new-user-cta = Cliciwch y botwm { -pocket-brand-name } i gadw erthyglau, fideos a dolenni.

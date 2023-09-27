@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Nodwedd Cymeradwy
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pam ydw i'n gweld hyn
-
 cfr-doorhanger-extension-cancel-button = Nid Nawr
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Ychwanegu Nawr
     .accesskey = Y
-
 cfr-doorhanger-extension-manage-settings-button = Gosodiadau Argymell Rheoli
     .accesskey = R
-
 cfr-doorhanger-extension-never-show-recommendation = Peidio Dangos yr Argymhelliad i Mi
     .accesskey = P
-
-cfr-doorhanger-extension-learn-more-link = Dysgu rhagor
-
+cfr-doorhanger-extension-learn-more-link = Darllen rhagor
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = gan { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Argymhelliad
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Argymhelliad
     .tooltiptext = Argymhelliad Estyniad
     .a11y-announcement = Mae argymhelliad estyniad ar gael
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Argymhelliad
     .tooltiptext = Argymhelliad Nodwedd
     .a11y-announcement = Mae argymhelliad nodwedd ar gael
@@ -86,18 +80,16 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 cfr-protections-panel-header = Pori heb gael eich dilyn
 cfr-protections-panel-body = Cadwch eich data i chi'ch hun. Mae { -brand-short-name } yn eich diogelu rhag llawer o'r tracwyr mwyaf cyffredin sy'n eich dilyn ar-lein.
-cfr-protections-panel-link-text = Dysgu rhagor
+cfr-protections-panel-link-text = Darllen rhagor
 
 ## What's New toolbar button and panel
 
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nodwedd newydd:
-
 cfr-whatsnew-button =
     .label = Beth sy'n Newydd
     .tooltiptext = Beth sy'n Newydd
-
 cfr-whatsnew-release-notes-link-text = Darllenwch y nodiadau rhyddhau
 
 ## Enhanced Tracking Protection Milestones
@@ -128,16 +120,12 @@ cfr-doorhanger-doh-primary-button-2 = Iawn
 cfr-doorhanger-doh-secondary-button = Analluogi
     .accesskey = A
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Efallai na fydd fideos ar y wefan hon yn chwarae'n gywir ar y fersiwn hon o { -brand-short-name }. I gael cefnogaeth fideo lawn, diweddarwch { -brand-short-name } nawr.
 cfr-doorhanger-video-support-header = Diweddarwch { -brand-short-name } i chwarae fideo
 cfr-doorhanger-video-support-primary-button = Diweddarwch Nawr
     .accesskey = D
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -152,8 +140,6 @@ spotlight-public-wifi-vpn-primary-button = Cadwch yn breifat gyda { -mozilla-vpn
     .accesskey = b
 spotlight-public-wifi-vpn-link = Nid Nawr
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -183,13 +169,11 @@ spotlight-pin-secondary-button = Nid nawr
 
 mr2022-background-update-toast-title = { -brand-short-name } newydd. Yn fwy preifat. Llai o dracwyr. Dim cyfaddawdu.
 mr2022-background-update-toast-text = Rhowch gynnig ar y { -brand-short-name } mwyaf newydd nawr, wedi'i uwchraddio gyda'n diogelwch gwrth-dracio cryfaf eto.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Agorwch { -brand-shorter-name } Nawr
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -208,7 +192,6 @@ firefoxview-cfr-body-v2 = Cael tabiau sydd wedi'u cau'n ddiweddar nôl, a symud 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Dywedwch helo wrth { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Eisiau'r tab agored hwnnw ar eich ffôn? Gafaelwch ynddo. Oes angen y wefan hon rydych newydd ymweld â hi? Pwff, mae'n ôl gyda { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Dyma sut mae'n gweithio...
@@ -218,7 +201,6 @@ firefoxview-spotlight-promo-secondarybutton = Hepgor
 
 colorways-cfr-primarybutton = Dewis cyfuniad lliw
     .accesskey = D
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Lliwiwch eich porwr gyda lliwiau unigryw { -brand-short-name } wedi'u hysbrydoli gan leisiau a newidiodd ddiwylliant.
 colorways-cfr-header-28days = Mae cyfuniadau lliw Lleisiau Annibynnol yn dod i ben Ionawr 16
@@ -241,7 +223,6 @@ july-jam-headline = Rydyn ni yn eich cefnogi chi
 july-jam-body = Bob mis, mae { -brand-short-name } yn rhwystro 3,000+ o dracwyr fesul defnyddiwr ar gyfartaledd, gan roi mynediad diogel a chyflym i'r rhyngrwyd da i chi.
 july-jam-set-default-primary = Agor fy nolenni gyda { -brand-short-name }
 fox-doodle-pin-headline = Croeso nôl
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Dyma neges atgoffa cyflym y gallwch chi gadw'ch hoff borwr annibynnol un clic yn unig i ffwrdd.
@@ -257,7 +238,7 @@ set-default-pdf-handler-primary = Iawn
 
 fxa-sync-cfr-header = Dyfais newydd yn eich dyfodol?
 fxa-sync-cfr-body = Gwnewch yn siŵr fod eich nodau tudalen, cyfrineiriau a thabiau diweddaraf yn dod gyda chi unrhyw bryd y byddwch yn agor porwr { -brand-product-name } newydd.
-fxa-sync-cfr-primary = Dysgu rhagor
+fxa-sync-cfr-primary = Darllen rhagor
     .accesskey = D
 fxa-sync-cfr-secondary = Atgoffwch fi yn nes ymlaen
     .accesskey = A

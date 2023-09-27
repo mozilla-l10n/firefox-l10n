@@ -115,7 +115,7 @@ urlbar-result-menu-button =
 urlbar-result-menu-button-feedback = Adborth
     .title = Agor dewislen
 urlbar-result-menu-learn-more =
-    .label = Dysgu rhagor
+    .label = Darllen rhagor
     .accesskey = D
 urlbar-result-menu-remove-from-history =
     .label = Tynnu o'r hanes
@@ -305,7 +305,7 @@ quickactions-viewsource2 = Darllen Cod Gwreiddiol y Dudalen
 quickactions-cmd-viewsource = gweld ffynhonnell, ffynhonnell
 # Tooltip text for the help button shown in the result.
 quickactions-learn-more =
-    .title = Dysgu rhagor am weithredoedd Cyflym
+    .title = Darllen rhagor am weithredoedd Cyflym
 
 ## Bookmark Panel
 
@@ -375,7 +375,7 @@ identity-https-only-info-turn-off3 = Os yw'r wefan yn ymddangos wedi torri, efal
 identity-https-only-info-no-upgrade = Methu uwchraddio'r cysylltiad o HTTP.
 identity-permissions-storage-access-header = Cwcis traws-gwefan
 identity-permissions-storage-access-hint = Gall y partïon hyn ddefnyddio cwcis traws-gwefan a data gwefan tra'ch bod chi ar y wefan hon.
-identity-permissions-storage-access-learn-more = Dysgu rhagor
+identity-permissions-storage-access-learn-more = Darllen rhagor
 identity-permissions-reload-hint = Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.
 identity-clear-site-data =
     .label = Clirio Data Cwcis a Gwefan…

@@ -276,7 +276,7 @@ mr2022-onboarding-no-mobile-download-cta-text = Sganiwch y cod QR i gael { -bran
 ## Pin private window screen shown only for users who don't have Firefox private pinned
 
 mr2022-upgrade-onboarding-pin-private-window-header = Cael rhyddid pori preifat gydag un clic
-mr2022-upgrade-onboarding-pin-private-window-subtitle = Dim cwcis na hanes wedi'u cadw, o'ch bwrdd gwaith. Porwch fel nad oes neb yn gwylio.
+mr2022-upgrade-onboarding-pin-private-window-subtitle = Dim cwcis na hanes wedi'u cadw, o'ch bwrdd gwaith. Porwch fel petai neb yn gwylio.
 mr2022-upgrade-onboarding-pin-private-window-primary-button-label =
     { PLATFORM() ->
         [macos] Cadw bori preifat { -brand-short-name } yn y Doc
