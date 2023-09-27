@@ -3,14 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 notification-learnmore-default-label =
-    .value = Dysgu rhagor
-
+    .value = Darllen rhagor
 # This label is read by screen readers when focusing the close button for an
 # "infobar" (message shown when for example a popup is blocked),
 # and shown when hovering over the button
 notification-close-button =
     .aria-label = Cau
     .title = Cau
-
 close-notification-message =
     .tooltiptext = Cau'r neges hon

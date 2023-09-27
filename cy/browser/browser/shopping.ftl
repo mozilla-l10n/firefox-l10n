@@ -77,7 +77,7 @@ shopping-settings-label =
     .label = Gosodiadau
 shopping-settings-recommendations-toggle =
     .label = Dangos hysbysebion yn y gwiriwr adolygiadau
-shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Dysgu rhagor</a>
+shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
 shopping-settings-opt-out-button = Diffodd y gwiriwr adolygiadau
 powered-by-fakespot = Mae'r gwiriwr adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

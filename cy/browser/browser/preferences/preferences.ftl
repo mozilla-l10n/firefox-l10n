@@ -6,7 +6,7 @@ do-not-track-description = Anfon neges “Dim Tracio” at wefannau nad ydych am
 do-not-track-description2 =
     .label = Anfon  cais “Peidio Tracio” i wefannau
     .accesskey = P
-do-not-track-learn-more = Dysgu rhagor
+do-not-track-learn-more = Darllen rhagor
 do-not-track-option-default-content-blocking-known =
     .label = Dim ond pan mae { -brand-short-name } wedi ei osod i rwystro tracwyr hysbys.
 do-not-track-option-always =
@@ -161,7 +161,7 @@ show-tabs-in-taskbar =
 browser-containers-enabled =
     .label = Galluogi Tabiau Cynwysyddion
     .accesskey = G
-browser-containers-learn-more = Dysgu rhagor
+browser-containers-learn-more = Darllen rhagor
 browser-containers-settings =
     .label = Gosodiadau…
     .accesskey = G
@@ -392,7 +392,7 @@ drm-content-header = Cynnwys Rheoli Hawliau Digidol (DRM)
 play-drm-content =
     .label = Chwarae cynnwys wedi ei reoli gan DRM
     .accesskey = C
-play-drm-content-learn-more = Dysgu rhagor
+play-drm-content-learn-more = Darllen rhagor
 update-application-title = Diweddariadau { -brand-short-name }
 update-application-description = Cadwch { -brand-short-name } yn gyfredol am y perfformiad, y sefydlogrwydd a'r diogelwch gorau.
 # Variables:
@@ -444,7 +444,7 @@ performance-use-recommended-settings-checkbox =
     .label = Defnyddio'r gosodiadau perfformiad sy'n cael eu hargymell
     .accesskey = D
 performance-use-recommended-settings-desc = Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.
-performance-settings-learn-more = Dysgu rhagor
+performance-settings-learn-more = Darllen rhagor
 performance-allow-hw-accel =
     .label = Defnyddio cyflymu caledwedd pan fydd ar gael
     .accesskey = e
@@ -484,24 +484,24 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = Galluogi rheolyddion fideo Llun mewn Llun
     .accesskey = G
-browsing-picture-in-picture-learn-more = Dysgu rhagor
+browsing-picture-in-picture-learn-more = Darllen rhagor
 browsing-media-control =
     .label = Rheoli cyfryngau trwy fysellfwrdd, penset neu ryngwyneb rhithwir
     .accesskey = t
-browsing-media-control-learn-more = Dysgu rhagor
+browsing-media-control-learn-more = Darllen rhagor
 browsing-cfr-recommendations =
     .label = Argymell estyniadau wrth i chi bori
     .accesskey = A
 browsing-cfr-features =
     .label = Argymell nodweddion wrth bori
     .accesskey = A
-browsing-cfr-recommendations-learn-more = Dysgu rhagor
+browsing-cfr-recommendations-learn-more = Darllen rhagor
 
 ## General Section - Proxy
 
 network-settings-title = Gosodiadau Rhwydwaith
 network-proxy-connection-description = Ffurfweddwch sut mae { -brand-short-name } yn cysylltu â'r rhyngrwyd.
-network-proxy-connection-learn-more = Dysgu rhagor
+network-proxy-connection-learn-more = Darllen rhagor
 network-proxy-connection-settings =
     .label = Gosodiadau…
     .accesskey = G
@@ -841,10 +841,10 @@ forms-generate-passwords =
 forms-breach-alerts =
     .label = Dangos rhybuddion am gyfrineiriau ar gyfer gwefannau sydd wedi' cael tor-data
     .accesskey = r
-forms-breach-alerts-learn-more-link = Dysgu rhagor
+forms-breach-alerts-learn-more-link = Darllen rhagor
 preferences-relay-integration-checkbox =
     .label = Awgrymu arallewnau e-byst { -relay-brand-name } i ddiogelu eich cyfeiriad e-bost
-relay-integration-learn-more-link = Dysgu rhagor
+relay-integration-learn-more-link = Darllen rhagor
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
     .label = Awtolanw mewngofnodion a chyfrineiriau
@@ -855,7 +855,7 @@ forms-saved-logins =
 forms-primary-pw-use =
     .label = Defnyddio Prif Gyfrinair
     .accesskey = P
-forms-primary-pw-learn-more-link = Dysgu rhagor
+forms-primary-pw-learn-more-link = Darllen rhagor
 # This string uses the former name of the Primary Password feature
 # ("Master Password" in English) so that the preferences can be found
 # when searching for the old name. The accesskey is unused.
@@ -873,7 +873,7 @@ forms-primary-pw-fips-title = Rydych ym modd FIPS. Mae FIPS angen Prif Gyfrinair
 forms-master-pw-fips-desc = Methu Newid eich Cyfrinair
 forms-windows-sso =
     .label = Caniatáu mewngofnodiad unigol cyfrifon Microsoft, gwaith ac ysgol.
-forms-windows-sso-learn-more-link = Dysgu rhagor
+forms-windows-sso-learn-more-link = Darllen rhagor
 forms-windows-sso-desc = Rheoli cyfrifon yn eich gosodiadau dyfais
 
 ## OS Authentication dialog
@@ -936,7 +936,7 @@ sitedata-total-size-calculating = Cyfrifo maint data gwefan a storfa dros dro…
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
 sitedata-total-size = Mae'r cwcis, data gwefan a storfa dros dro yn defnyddio { $value } { $unit } o le ar ddisg ar hyn o bryd.
-sitedata-learn-more = Dysgu rhagor
+sitedata-learn-more = Darllen rhagor
 sitedata-delete-on-close =
     .label = Dileu cwcis a data'r wefan pan fydd { -brand-short-name } yn cau
     .accesskey = D
@@ -977,7 +977,7 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Cyfyngu Baneri Cwcis
 cookie-banner-handling-description = Mae { -brand-short-name } yn ceisio gwrthod yn awtomatig pob cais cwci ar wefannau sy’n cael eu cefnogi.
-cookie-banner-learn-more = Dysgu Rhagor
+cookie-banner-learn-more = Darllen Rhagor
 forms-handle-cookie-banners =
     .label = Cyfyngu Baneri Cwcis
 
@@ -1011,13 +1011,13 @@ addressbar-locbar-quickactions-option =
     .label = Gweithredoedd cyflym
     .accesskey = c
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
-addressbar-quickactions-learn-more = Dysgu rhagor
+addressbar-quickactions-learn-more = Darllen rhagor
 
 ## Privacy Section - Content Blocking
 
 content-blocking-enhanced-tracking-protection = Diogelwch Uwch Rhag Tracio
 content-blocking-section-top-level-description = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
-content-blocking-learn-more = Dysgu rhagor
+content-blocking-learn-more = Darllen rhagor
 content-blocking-fpi-incompatibility-warning = Rydych yn defnyddio Ynysu Parti Cyntaf (FPI), sy’n gwrthwneud rhai o osodiadau cwci { -brand-short-name } ’.
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
@@ -1065,7 +1065,7 @@ content-blocking-known-and-suspected-fingerprinters = Bysbrintwyr hysbys ac amhe
 
 # "Contains" here means "isolates", "limits".
 content-blocking-etp-standard-tcp-rollout-description = Mae Diogelwch Cwcis Llwyr yn cyfyngu cwcis i'r wefan rydych chi arni, felly nid yw tracwyr yn gallu eu defnyddio i'ch dilyn rhwng gwefannau.
-content-blocking-etp-standard-tcp-rollout-learn-more = Dysgu rhagor
+content-blocking-etp-standard-tcp-rollout-learn-more = Darllen rhagor
 content-blocking-etp-standard-tcp-title = Yn cynnwys Diogelwch Cwcis Llwyr, ein nodwedd preifatrwydd mwyaf pwerus erioed
 content-blocking-warning-title = Rhybudd!
 content-blocking-and-isolating-etp-warning-description-2 = Gall y gosodiad hwn beri i rai gwefannau beidio a dangos cynnwys na gweithio'n iawn. Os yw gwefan yn ymddangos wedi torri, efallai yr hoffech chi ddiffodd diogelu rhag tracio i'r wefan honno lwytho'r holl gynnwys.
@@ -1145,7 +1145,7 @@ permissions-notification = Hysbysiadau
 permissions-notification-settings =
     .label = Gosodiadau…
     .accesskey = G
-permissions-notification-link = Dysgu rhagor
+permissions-notification-link = Darllen rhagor
 permissions-notification-pause =
     .label = Oedi fy hysbysiadau tan { -brand-short-name } ailgychwyn
     .accesskey = O
@@ -1177,21 +1177,21 @@ collection-header2 = Casglu Data { -brand-short-name } a'i Ddefnydd
 collection-description = Rydym yn ceisio darparu dewisiadau i chi a chasglu dim ond beth sydd ei angen arnom i ddarparu a gwella { -brand-short-name } ar gyfer pawb. Rydym yn gofyn caniatâd bob tro cyn derbyn manylion personol.
 collection-privacy-notice = Hysbysiad Preifatrwydd
 collection-health-report-telemetry-disabled = Nid ydych bellach yn caniatáu i { -vendor-short-name } ddal data technegol a rhyngweithiol. Bydd holl ddata'r gorffennol yn cael ei ddileu cyn pen 30 diwrnod.
-collection-health-report-telemetry-disabled-link = Dysgu rhagor
+collection-health-report-telemetry-disabled-link = Darllen rhagor
 collection-health-report =
     .label = Caniatáu i { -brand-short-name } anfon data technegol a rhyngweithio i { -vendor-short-name }
     .accesskey = r
-collection-health-report-link = Dysgu rhagor
+collection-health-report-link = Darllen rhagor
 collection-studies =
     .label = Caniatáu i { -brand-short-name } osod a rhedeg astudiaethau
 collection-studies-link = Gweld astudiaethau { -brand-short-name }
 addon-recommendations =
     .label = Caniatáu i { -brand-short-name } wneud argymhellion personol am estyniadau
-addon-recommendations-link = Dysgu rhagor
+addon-recommendations-link = Darllen rhagor
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn
-collection-backlogged-crash-reports-with-link = Caniatáu i { -brand-short-name } anfon adroddiadau chwalu sydd wedi'u crynhoi ar eich rhan <a data-l10n-name="crash-reports-link">Dysgu rhagor</a>
+collection-backlogged-crash-reports-with-link = Caniatáu i { -brand-short-name } anfon adroddiadau chwalu sydd wedi'u crynhoi ar eich rhan <a data-l10n-name="crash-reports-link">Darllen rhagor</a>
     .accesskey = C
 privacy-segmentation-section-header = Nodweddion newydd sy'n gwella eich pori
 privacy-segmentation-section-description = Pan fyddwn yn cynnig nodweddion sy'n defnyddio'ch data i roi profiad mwy personol i chi:
@@ -1210,7 +1210,7 @@ security-browsing-protection = Diogelwch rhag Cynnwys Twyllodrus a Meddalwedd Pe
 security-enable-safe-browsing =
     .label = Rhwystro cynnwys peryglus a thwyllodrus
     .accesskey = R
-security-enable-safe-browsing-link = Dysgu rhagor
+security-enable-safe-browsing-link = Darllen rhagor
 security-block-downloads =
     .label = Rhwystro llwytho i lawr peryglus
     .accesskey = p
@@ -1240,7 +1240,7 @@ space-alert-under-5gb-message2 = <strong>Mae { -brand-short-name } yn brin o le 
 
 httpsonly-header = Modd HTTPS-yn-Unig
 httpsonly-description = Mae HTTPS yn darparu cysylltiad diogel, wedi'i amgryptio rhwng  { -brand-short-name } a'r gwefannau rydych chi'n ymweld â nhw. Mae'r mwyafrif o wefannau yn cefnogi HTTPS, ac os yw Modd HTTPS-yn-Unig wedi'i alluogi, yna bydd { -brand-short-name } yn uwchraddio'r holl gysylltiadau â HTTPS.
-httpsonly-learn-more = Dysgu rhagor
+httpsonly-learn-more = Darllen rhagor
 httpsonly-radio-enabled =
     .label = Galluogi Modd HTTPS-yn-Unig ym mhob ffenestr
 httpsonly-radio-enabled-pbm =

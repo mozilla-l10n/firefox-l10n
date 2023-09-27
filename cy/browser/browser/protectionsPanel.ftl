@@ -95,7 +95,7 @@ protections-panel-fingerprinters = Mae bysbrintwyr yn casglu gosodiadau o'ch por
 protections-panel-tracking-content = Gall gwefannau lwytho hysbysebion allanol, fideos a chynnwys eraill sy'n cynnwys cod tracio. Gall rhwystro cynnwys tracio helpu gwefannau i lwytho'n gynt, ond efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.
 protections-panel-social-media-trackers = Mae rhwydweithiau cymdeithasol yn gosod tracwyr ar wefannau eraill i ddilyn yr hyn rydych chi'n ei wneud, ei weld, a'i wylio ar-lein. Mae hyn yn caniatáu i gwmnïau cyfryngau cymdeithasol ddysgu mwy amdanoch chi y tu hwnt i'r hyn rydych chi'n ei rannu ar eich proffiliau cyfryngau cymdeithasol.
 protections-panel-description-shim-allowed = Mae rhai tracwyr sydd wedi'u marcio isod wedi cael eu dad-rwystr'n rhannol ar y dudalen hon oherwydd i chi ryngweithio â nhw.
-protections-panel-description-shim-allowed-learn-more = Dysgu rhagor
+protections-panel-description-shim-allowed-learn-more = Darllen rhagor
 protections-panel-shim-allowed-indicator =
     .tooltiptext = Traciwr wedi'i rhannol ddad-rwystro
 protections-panel-content-blocking-manage-settings =
@@ -103,7 +103,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = R
 protections-panel-content-blocking-breakage-report-view =
     .title = Adrodd ar Wefan wedi Torri
-protections-panel-content-blocking-breakage-report-view-description = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla. <label data-l10n-name="learn-more">Dysgu rhagor</label>
+protections-panel-content-blocking-breakage-report-view-description = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i Mozilla. <label data-l10n-name="learn-more">Darllen rhagor</label>
 protections-panel-content-blocking-breakage-report-view-description2 = Gall rhwystro cynnwys achosi problemau gyda rai gwefannau. Pan fyddwch yn cyflwyno adroddiad ar broblemau, byddwch yn helpu gwneud { -brand-short-name } yn well i bawb. (Bydd hyn yn anfon yr URL yn ogystal â gwybodaeth am osodiadau eich porwr i { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =

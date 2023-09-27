@@ -10,10 +10,8 @@
 
 opensearch-error-duplicate-title = Gwall Gosod
 opensearch-error-duplicate-desc = Methodd { -brand-short-name } â gosod yr ategyn chwilio o "{ $location-url }" gan fod peiriant chwilio sydd â'r un enw yn bodoli'n barod.
-
 opensearch-error-format-title = Fformat Annilys
 opensearch-error-format-desc = Nid yw { -brand-short-name } yn gallu gosod y peiriant chwilio o { $location-url }
-
 opensearch-error-download-title = Gwall llwytho i lawr
 opensearch-error-download-desc = Methodd { -brand-short-name } â llwytho i lawr yr ategyn chwilio o: { $location-url }
 
@@ -21,11 +19,9 @@ opensearch-error-download-desc = Methodd { -brand-short-name } â llwytho i lawr
 
 searchbar-submit =
     .tooltiptext = Cyflwyno'r chwilio
-
 # This string is displayed in the search box when the input field is empty
 searchbar-input =
     .placeholder = Chwilio
-
 searchbar-icon =
     .tooltiptext = Chwilio
 
@@ -34,5 +30,5 @@ searchbar-icon =
 ## $oldEngine (String) - the search engine to be removed.
 ## $newEngine (String) - the search engine to replace the removed search engine.
 
-removed-search-engine-message = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { $oldEngine } ar gael bellach fel peiriant chwilio rhagosodedig yn { -brand-short-name }. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau. <label data-l10n-name="remove-search-engine-article">Dysgu rhagor</label>
+removed-search-engine-message = <strong>Mae eich peiriant chwilio rhagosodedig wedi'i newid.</strong> Nid yw { $oldEngine } ar gael bellach fel peiriant chwilio rhagosodedig yn { -brand-short-name }. { $newEngine } yw eich peiriant chwilio rhagosodedig bellach. I newid i beiriant chwilio rhagosodedig arall, ewch i'r gosodiadau. <label data-l10n-name="remove-search-engine-article">Darllen rhagor</label>
 remove-search-engine-button = Iawn

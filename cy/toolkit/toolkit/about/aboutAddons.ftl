@@ -25,7 +25,7 @@ list-empty-recent-updates =
 list-empty-find-updates =
     .label = Gwirio am Ddiweddariadau
 list-empty-button =
-    .label = Dysgu rhagor am ychwanegion
+    .label = Darllen rhagor am ychwanegion
 help-button = Cefnogaeth Ychwanegion
 sidebar-help-button-title =
     .title = Cefnogaeth Ychwanegion
@@ -62,7 +62,7 @@ detail-private-browsing-label = Rhedeg mewn Ffenestri Preifat
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Heb ei ganiatáu mewn Ffenestri Preifat
-detail-private-disallowed-description2 = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <a data-l10n-name="learn-more">Dysgu rhagor</a>
+detail-private-disallowed-description2 = Nid yw'r estyniad hwn yn rhedeg tra'n pori'n preifat. <a data-l10n-name="learn-more">Darllen rhagor</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Angen Mynediad at Ffenestri Preifat
 detail-private-required-description2 = Mae gan yr estyniad hwn fynediad i'ch gweithgareddau ar-lein wrth bori'n breifat. <a data-l10n-name="learn-more">Dysgu mwy</a>
@@ -107,9 +107,9 @@ addon-restart-now =
 disabled-unsigned-heading =
     .value = Mae rhai ychwanegion wedi eu hanalluogi
 disabled-unsigned-description = Mae'r ychwanegion canlynol wedi eu dilysu i'w defnyddio yn { -brand-short-name }. Gallwch <label data-l10n-name="find-addons">canfod newidiadau</label> neu ofyn i'r datblygwr iddynt gael eu dilysu.
-disabled-unsigned-learn-more = Dysgu rhagor am ein hymdrechion i'ch cadw'n ddiogel ar-lein.
+disabled-unsigned-learn-more = Darllen rhagor am ein hymdrechion i'ch cadw'n ddiogel ar-lein.
 disabled-unsigned-devinfo = Gall ddatblygwyr sydd â diddordeb mewn dilysu eu hychwanegion barhau drwy ddarllen ein <label data-l10n-name="learn-more">canllawiau</label>.
-plugin-deprecation-description = Rhywbeth ar goll? Nid yw rhai ategion yn cael eu cynnal bellach gan { -brand-short-name }. <label data-l10n-name="learn-more">Dysgu Rhagor.</label>
+plugin-deprecation-description = Rhywbeth ar goll? Nid yw rhai ategion yn cael eu cynnal bellach gan { -brand-short-name }. <label data-l10n-name="learn-more">Darllen Rhagor.</label>
 legacy-warning-show-legacy = Dangos hen estyniadau
 legacy-extensions =
     .value = Hen Estyniadau
@@ -274,7 +274,7 @@ discopane-notice-recommendations2 =
     .message =
         Mae rhai o'r argymhellion hyn wedi'u dewis yn benodol ar eich cyfer chi. Maen nhw'n seiliedig ar 
         estyniadau eraill rydych chi wedi'u gosod, eich proffil dewisiadau, a'ch ystadegau defnydd.
-discopane-notice-learn-more = Dysgu rhagor
+discopane-notice-learn-more = Darllen rhagor
 privacy-policy = Polisi Preifatrwydd
 # Refers to the author of an add-on, shown below the name of the add-on.
 # Variables:
@@ -340,7 +340,7 @@ install-postponed-message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd 
 # Message for add-ons with a staged pending update.
 install-postponed-message2 =
     .message = Bydd yr estyniad hwn yn cael ei ddiweddaru pan fydd { -brand-short-name } yn ailgychwyn.
-install-postponed-button = Diweddarwch Nawr
+install-postponed-button = Diweddaru Nawr
 # The average rating that the add-on has received.
 # Variables:
 #   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
@@ -430,7 +430,7 @@ release-notes-error = Ymddiheuriadau ond bu gwall llwytho'r nodiadau ryddhau.
 addon-permissions-empty = Nid oes angen unrhyw ganiatâd ar yr estyniad hwn
 addon-permissions-required = Caniatâd angenrheidiol y swyddogaethau craidd:
 addon-permissions-optional = Caniatâd dewisol ar gyfer y swyddogaethau ychwanegol:
-addon-permissions-learnmore = Dysgu rhagor am ganiatâd
+addon-permissions-learnmore = Darllen rhagor am ganiatâd
 recommended-extensions-heading = Estyniadau Cymeradwy
 recommended-themes-heading = Themâu Cymeradwy
 # Variables:

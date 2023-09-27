@@ -3,12 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-# Note: This is currently placed under browser/base/content so that we can
-# get the strings to appear without having our localization community need
-# to go through and translate everything. Once these strings are ready for
-# translation, we'll move it to the locales folder.
-
-
 ## These strings are used so that the window has a title in tools that
 ## enumerate/look for window titles. It is not normally visible anywhere.
 
@@ -30,7 +24,6 @@ webrtc-item-browser = tab
 
 # This is used for the website origin for the sharing menu if no readable origin could be deduced from the URL.
 webrtc-sharing-menuitem-unknown-host = Tarddiad anhysbys
-
 # Variables:
 #   $origin (String): The website origin (e.g. www.mozilla.org)
 #   $itemList (String): A formatted list of items (e.g. "camera, microphone and tab audio")
@@ -39,7 +32,6 @@ webrtc-sharing-menuitem =
 webrtc-sharing-menu =
     .label = Tabiau dyfeisiau sy'n rhannu
     .accesskey = d
-
 webrtc-sharing-window = Rydych yn rhannu ffenestr rhaglen arall.
 webrtc-sharing-browser-window = Rydych chi'n rhannu { -brand-short-name }.
 webrtc-sharing-screen = Rydych yn rhannu'ch sgrin gyfan.
@@ -93,7 +85,6 @@ webrtc-indicator-menuitem-control-sharing =
     .label = Rhannu Rheoli
 webrtc-indicator-menuitem-control-sharing-on =
     .label = Rheoli Rhannu gyda "{ $streamTitle }"
-
 webrtc-indicator-menuitem-sharing-camera-with =
     .label = Rhannu camera gyda "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
@@ -106,7 +97,6 @@ webrtc-indicator-menuitem-sharing-camera-with-n-tabs =
             [many] Rhannu Camera gyda { $tabCount } thab
            *[other] Rhannu Camera gyda { $tabCount } tab
         }
-
 webrtc-indicator-menuitem-sharing-microphone-with =
     .label = Rhannu Meicroffon gyda "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
@@ -119,7 +109,6 @@ webrtc-indicator-menuitem-sharing-microphone-with-n-tabs =
             [many] Rhannu Meicroffon gyda { $tabCount } thab
            *[other] Rhannu Meicroffon gyda { $tabCount } tab
         }
-
 webrtc-indicator-menuitem-sharing-application-with =
     .label = Rhannu Rhaglen gyda "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-application-with-n-tabs =
@@ -132,7 +121,6 @@ webrtc-indicator-menuitem-sharing-application-with-n-tabs =
             [many] Rhannu Rhaglen gyda { $tabCount } thab
            *[other] Rhannu Rhaglen gyda { $tabCount } tab
         }
-
 webrtc-indicator-menuitem-sharing-screen-with =
     .label = Rhannu Sgrin gyda "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
@@ -145,7 +133,6 @@ webrtc-indicator-menuitem-sharing-screen-with-n-tabs =
             [many] Rhannu'r Sgrin gyda { $tabCount } thab
            *[other] Rhannu'r Sgrin gyda { $tabCount } tab
         }
-
 webrtc-indicator-menuitem-sharing-window-with =
     .label = Rhannu Ffenestr gyda "{ $streamTitle }"
 webrtc-indicator-menuitem-sharing-window-with-n-tabs =
@@ -158,7 +145,6 @@ webrtc-indicator-menuitem-sharing-window-with-n-tabs =
             [many] Rhannu Ffenestr gyda { $tabCount } thab
            *[other] Rhannu Ffenestr gyda { $tabCount } tab
         }
-
 webrtc-indicator-menuitem-sharing-browser-with =
     .label = Rhannu Tab gyda "{ $streamTitle }"
 # This message is shown when the contents of a tab is shared during a WebRTC
@@ -209,8 +195,7 @@ webrtc-allow-share-screen-and-audio-capture-unsafe-delegation = Caniatáu i { $o
 
 webrtc-share-screen-warning = Rhannwch dim ond sgriniau â gwefannau rydych chi'n ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
 webrtc-share-browser-warning = Rhannwch { -brand-short-name } dim ond gyda gwefannau rydych yn ymddiried ynddyn nhw. Gall rhannu ganiatáu i wefannau twyllodrus bori fel taw chi sydd wrthi a dwyn eich data preifat.
-
-webrtc-share-screen-learn-more = Dysgu rhagor
+webrtc-share-screen-learn-more = Darllen rhagor
 webrtc-pick-window-or-screen = Dewiswch Ffenestr neu Sgrin
 webrtc-share-entire-screen = Sgrin gyfan
 webrtc-share-pipe-wire-portal = Defnyddio gosodiadau'r system weithredu
@@ -249,7 +234,6 @@ webrtc-action-not-now =
 
 webrtc-remember-allow-checkbox = Cofio'r penderfyniad yma
 webrtc-mute-notifications-checkbox = Tewi hysbysiadau gwefan tra'n rhannu
-
 webrtc-reason-for-no-permanent-allow-screen = Nid yw { -brand-short-name } yn caniatáu mynediad parhaus i'ch sgrin.
 webrtc-reason-for-no-permanent-allow-audio = Nid yw { -brand-short-name } yn gallu caniatáu mynediad parhaol i sain eich tab heb ofyn pa dab i'w rannu.
 webrtc-reason-for-no-permanent-allow-insecure = Nid yw eich cysylltiad a'r wefan hon y ddiogel. Er mwyn eich diogelu, dim ond ar gyfer y sesiwn yma y bydd { -brand-short-name } yn caniatáu mynediad.

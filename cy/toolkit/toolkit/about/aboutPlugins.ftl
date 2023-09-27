@@ -5,7 +5,7 @@
 title-label = Ynghylch Ategion
 installed-plugins-label = Ategion wedi eu gosod
 no-plugins-are-installed-label = Heb ganfod ategion wedi eu gosod
-deprecation-description = Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal. <a data-l10n-name="deprecation-link">Dysgu Rhagor.</a>
+deprecation-description = Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal. <a data-l10n-name="deprecation-link">Darllen Rhagor.</a>
 deprecation-description2 =
     .message = Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal.
 
@@ -38,6 +38,6 @@ suffixes-label = Rhagosodiad
 plugins-gmp-license-info = Manylion trwyddedu
 plugins-gmp-privacy-info = Manylion Preifatrwydd
 plugins-openh264-name = OpenH264 Video Codec wedi ei ddarparu gan Cisco Systems, Inc.
-plugins-openh264-description = Mae'r ategyn hwn yn cael ei osod yn awtomatig gan Mozilla er mwyn cyd-fynd â manyleb y WebRTC ac i alluogi galwadau WebRTC gyda dyfeisiau sydd angen y codec fideo H.264. Ewch i http://www.openh264.org/ i weld y cod ffynhonnell a dysgu rhagor am ei ddefnyddio.
+plugins-openh264-description = Mae'r ategyn hwn yn cael ei osod yn awtomatig gan Mozilla er mwyn cyd-fynd â manyleb y WebRTC ac i alluogi galwadau WebRTC gyda dyfeisiau sydd angen y codec fideo H.264. Ewch i http://www.openh264.org/ i weld y cod ffynhonnell a darllen rhagor am ei ddefnyddio.
 plugins-widevine-name = Mae'r Widevine Content Decryption Module wedi ei ddarparu gan Google Inc.
 plugins-widevine-description = Mae'r ategyn hwn yn galluogi chwarae cyfryngau amgryptiedig yn unol â manyleb Estyniadau Cyfryngau Amgryptiedig. Fel rheol defnyddir cyfryngau wedi'i amgryptio gan wefannau i ddiogelu rhag copïo cynnwys cyfryngau premiwm. Ewch i https://www.w3.org/TR/encrypted-media/ am fwy o wybodaeth ar Estyniadau Cyfryngau Amgryptiedig.

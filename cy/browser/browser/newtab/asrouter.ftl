@@ -124,7 +124,7 @@ cfr-doorhanger-doh-secondary-button = Analluogi
 
 cfr-doorhanger-video-support-body = Efallai na fydd fideos ar y wefan hon yn chwarae'n gywir ar y fersiwn hon o { -brand-short-name }. I gael cefnogaeth fideo lawn, diweddarwch { -brand-short-name } nawr.
 cfr-doorhanger-video-support-header = Diweddarwch { -brand-short-name } i chwarae fideo
-cfr-doorhanger-video-support-primary-button = Diweddarwch Nawr
+cfr-doorhanger-video-support-primary-button = Diweddaru Nawr
     .accesskey = D
 
 ## VPN promotion dialog for public Wi-Fi users
