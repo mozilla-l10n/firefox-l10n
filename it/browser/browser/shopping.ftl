@@ -78,7 +78,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Mostra annunci nella verifica recensioni
 shopping-settings-recommendations-learn-more = Verranno visualizzati annunci occasionali per prodotti pertinenti. Tutti gli annunci devono soddisfare i nostri standard di qualità per le recensioni. <a data-l10n-name="review-quality-url">Ulteriori informazioni</a>
-shopping-settings-opt-out-button = Disattiva la verifica recensioni
+shopping-settings-opt-out-button = Disattiva verifica recensioni
 powered-by-fakespot = Verifica recensioni con tecnologia <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
