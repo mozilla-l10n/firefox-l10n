@@ -29,6 +29,7 @@ toolbox-meatball-menu-pseudo-locale-bidi = Zapnout “bidi” jazyk
 
 ## These labels are shown in the top-toolbar in the Browser Toolbox and Browser Console
 
+toolbox-mode-browser-toolbox-label = Režim panelu nástrojů prohlížeče
 toolbox-mode-browser-console-label = Režim konzole prohlížeče
 toolbox-mode-everything-label = Víceprocesní
 toolbox-mode-everything-sub-label = (pomalejší)
