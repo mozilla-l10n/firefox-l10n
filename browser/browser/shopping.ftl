@@ -88,6 +88,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Değerlendirme kalitesini nasıl belirliyoruz?
+shopping-analysis-explainer-review-grading-scale-reliable = Güvenilir değerlendirmeler. Değerlendirmelerin büyük olasılıkla dürüst, tarafsız incelemeler yazan gerçek müşterilerden geldiğini düşünüyoruz.
+shopping-analysis-explainer-review-grading-scale-mixed = Güvenilir ve güvenilmez değerlendirmelerin bir karışımı olduğunu düşünüyoruz.
+shopping-analysis-explainer-review-grading-scale-unreliable = Güvenilmez değerlendirmeler. Değerlendirmelerin büyük ihtimalle sahte olduğunu veya önyargılı kişilerden geldiğini düşünüyoruz.
 
 ## Strings for UrlBar button
 
@@ -112,6 +115,7 @@ ad-by-fakespot = { -fakespot-brand-name } reklamı
 
 ## Shopping survey strings.
 
+shopping-survey-headline = { -brand-product-name }’u geliştirmemize yardımcı olun
 shopping-survey-q1-radio-1-label = Çok memnunum
 shopping-survey-q1-radio-2-label = Memnunum
 shopping-survey-q1-radio-3-label = Normal
