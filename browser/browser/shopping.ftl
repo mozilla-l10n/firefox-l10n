@@ -41,6 +41,10 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-message-2 = Ny info å sjekke
 shopping-message-bar-warning-stale-analysis-button = Sjekk nå
 shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengelig akkurat nå
+shopping-message-bar-generic-error-message = Vi jobber med å løse problemet. Prøv på nytt, snart.
+shopping-message-bar-warning-not-enough-reviews-title = Ikke nok vurderinger ennå
+shopping-message-bar-warning-not-enough-reviews-message2 = Når dette produktet har flere vurderinger, kan vi sjekke kvaliteten.
+shopping-message-bar-warning-product-not-available-title = Produktet er ikke tilgjengelig
 
 ## Strings for the product review snippets card
 
