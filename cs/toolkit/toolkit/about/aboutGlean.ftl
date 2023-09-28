@@ -11,9 +11,20 @@ glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Prohlížeč ladění pingu v nástroji { -glean-brand-name }
 about-glean-page-title2 = Co je { -glean-brand-name }
 about-glean-header = Co je { -glean-brand-name }
+about-glean-interface-description =
+    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+    je knihovna pro shromažďování dat, která se používá v projektech { -vendor-short-name }.
+    Toto rozhraní je navržené tak, aby ho vývojáři a testeři mohli používat na ruční
+    <a data-l10n-name="fog-link">instrumentační testování</a>.
 about-glean-upload-enabled = Nahrávání dat je povoleno.
 about-glean-upload-disabled = Nahrávání dat je zakázáno.
 about-glean-upload-enabled-local = Nahrávání dat je povoleno pouze pro odesílání na místní server.
+about-glean-upload-fake-enabled =
+    Nahrávání dat je zakázáno,
+    ale my lžeme a říkáme { glean-sdk-brand-name }, že je povoleno.
+    aby se data stále nahrávala lokálně.
+    Poznámka: Pokud nastavíte značku pro ladění, budou se pingy nahrávat do adresáře
+    <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> bez ohledu na nastavení.
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Relevantní <a data-l10n-name="fog-prefs-and-defines-doc-link">předvolby a definice</a> zahrnuje:
 # Variables:
@@ -33,10 +44,25 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
 about-glean-about-testing-header = O testování
+# This message is followed by a numbered list.
+about-glean-manual-testing =
+    Úplné pokyny jsou uvedeny v dokumentu
+    <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentace { -fog-brand-name } na instrumentační testování</a>
+    a v <a data-l10n-name="glean-sdk-doc-link">dokumentaci { glean-sdk-brand-name }</a>,
+    ale zkrátka, abyste mohli ručně otestovat, zda vaše instrumentace funguje, měli byste:
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodesílat žádný ping)
 # An in-line text input field precedes this string.
 about-glean-label-for-tag-pings = V předchozím poli se ujistěte, že je zde paměťová značka pro ladění, abyste mohli později rozpoznat své pingy.
+# An in-line drop down list precedes this string.
+# Do not translate strings between <code> </code> tags.
+about-glean-label-for-ping-names =
+    Z předchozího seznamu vyberte příkaz ping, ve kterém se nachází vaše instrumentace.
+    Pokud se nachází v <a data-l10n-name="custom-ping-link">vlastním pingu</a>, vyberte ho.
+    V opačném případě je výchozí pro metriky <code>event</code>.
+    ping <code>events</code>.
+    a výchozí pro všechny ostatní metriky je
+    <code>metrics</code> ping.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
     (Volitelně. Zaškrtněte předchozí políčko, pokud chcete, aby se pingy zaznamenávaly i při jejich odeslání.
