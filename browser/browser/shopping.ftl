@@ -6,6 +6,13 @@ shopping-page-title = Einkaufen in { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Rezensionsprüfer
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Rezensionsprüfer – Beta
 shopping-close-button =
     .title = Schließen
 # This string is for notifying screen reader users that the
@@ -31,33 +38,21 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Updates verfügbar
-shopping-message-bar-warning-stale-analysis-message = Starten Sie den { -fakespot-brand-full-name }-Analysierer, um in ca. 60 Sekunden aktuelle Informationen zu erhalten.
-shopping-message-bar-generic-error-title = Analyse derzeit nicht verfügbar
+shopping-message-bar-warning-stale-analysis-message-2 = Neue Informationen zum Überprüfen
+shopping-message-bar-warning-stale-analysis-button = Jetzt prüfen
+shopping-message-bar-generic-error-title2 = Derzeit sind keine Informationen verfügbar
 shopping-message-bar-generic-error-message = Wir arbeiten an einer Lösung des Problems. Bitte schauen Sie bald wieder vorbei.
 shopping-message-bar-warning-not-enough-reviews-title = Noch nicht genügend Bewertungen
-shopping-message-bar-warning-not-enough-reviews-message = Wenn dieses Produkt mehr Bewertungen hat, können wir diese analysieren.
+shopping-message-bar-warning-not-enough-reviews-message2 = Wenn dieses Produkt mehr Bewertungen hat, können wir deren Qualität überprüfen.
 shopping-message-bar-warning-product-not-available-title = Produkt ist nicht verfügbar
-shopping-message-bar-warning-product-not-available-message = Wenn Sie sehen, dass dieses Produkt wieder auf Lager ist, melden Sie es uns und wir arbeiten an der Aktualisierung der Analyse.
+shopping-message-bar-warning-product-not-available-message2 = Wenn Sie sehen, dass dieses Produkt wieder auf Lager ist, melden Sie es und wir arbeiten an der Überprüfung der Bewertungen.
 shopping-message-bar-warning-product-not-available-button = Melden, dass dieses Produkt wieder auf Lager ist
 shopping-message-bar-thanks-for-reporting-title = Danke für die Meldung!
-shopping-message-bar-thanks-for-reporting-message = Wir sollten innerhalb von 24 Stunden eine aktualisierte Analyse haben. Bitte versuchen Sie es später noch einmal.
-shopping-message-bar-warning-product-not-available-reported-title = Die Analyse kommt in Kürze
-shopping-message-bar-warning-product-not-available-reported-message = Eine aktualisierte Analyse sollte innerhalb von 24 Stunden bereit sein. Bitte versuchen Sie es später noch einmal.
-shopping-message-bar-warning-offline-title = Keine Netzwerkverbindung
-shopping-message-bar-warning-offline-message = Überprüfen Sie Ihre Netzwerkverbindung. Versuchen Sie dann, die Seite neu zu laden.
-shopping-message-bar-analysis-in-progress-title = Die Analyse kommt in Kürze
-shopping-message-bar-analysis-in-progress-message = Wenn es fertig ist, zeigen wir hier automatisch die aktualisierten Informationen an.
+shopping-message-bar-thanks-for-reporting-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-warning-product-not-available-reported-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-analysis-in-progress-message2 = Dies kann etwa 60 Sekunden dauern.
 shopping-message-bar-page-not-supported-title = Wir können diese Bewertungen nicht überprüfen
 shopping-message-bar-page-not-supported-message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Analysierer auf { -fakespot-website-name } starten
 
 ## Strings for the product review snippets card
 
@@ -86,6 +81,8 @@ powered-by-fakespot = Der Rezensionsprüfer wird bereitgestellt von <a data-l10n
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Bewertungen angepasst
 shopping-adjusted-rating-unreliable-reviews = Unzuverlässige Bewertungen entfernt
@@ -99,9 +96,6 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Wie wir die Qualität einer Bewertung bestimmen
-shopping-analysis-explainer-intro =
-    Wir verwenden die KI-Technologie von { -fakespot-brand-full-name }, um die Zuverlässigkeit von Produktbewertungen zu analysieren.
-    Diese Analyse hilft Ihnen nur bei der Bewertung der Qualität der Bewertung, nicht der Produktqualität.
 shopping-analysis-explainer-grades-intro = Wir geben den Bewertungen jedes Produkts eine <strong>Bewertung</strong> von A bis F.
 shopping-analysis-explainer-adjusted-rating-description = Die <strong>angepasste Bewertung</strong> basiert nur auf Bewertungen, die wir für zuverlässig halten.
 shopping-analysis-explainer-learn-more = Erfahren Sie mehr darüber, <a data-l10n-name="review-quality-url">wie { -fakespot-brand-full-name } die Qualität von Bewertungen</a> bestimmt.
@@ -115,10 +109,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Unzuverlässige Be
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Einkaufen-Sidebar öffnen
-shopping-sidebar-close-button =
-    .tooltiptext = Einkaufen-Sidebar schließen
+shopping-sidebar-open-button2 =
+    .tooltiptext = Rezensionsprüfer öffnen
+shopping-sidebar-close-button2 =
+    .tooltiptext = Rezensionsprüfer schließen
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -127,12 +121,43 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Noch keine Analyse für diese Bewertungen
-shopping-unanalyzed-product-message = Starten Sie den { -fakespot-brand-full-name }-Analysierer und in etwa 60 Sekunden wissen Sie, ob die Bewertungen dieses Produkts zuverlässig sind.
-shopping-unanalyzed-product-analyze-link = Analysierer auf { -fakespot-website-name } starten
+shopping-unanalyzed-product-header-2 = Noch keine Informationen zu diesen Bewertungen
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Weitere Möglichkeiten
 ad-by-fakespot = Anzeige von { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+shopping-survey-q1-radio-1-label = Sehr zufrieden
+shopping-survey-q1-radio-2-label = Zufrieden
+shopping-survey-q1-radio-3-label = Neutral
+shopping-survey-q1-radio-4-label = Unzufrieden
+shopping-survey-q1-radio-5-label = Sehr unzufrieden
+shopping-survey-q2-radio-1-label = Ja
+shopping-survey-q2-radio-2-label = Nein
+shopping-survey-q2-radio-3-label = Ich weiß nicht
+shopping-survey-next-button-label = Weiter
+shopping-survey-submit-button-label = Absenden
+shopping-survey-terms-link = Nutzungsbedingungen
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+
+shopping-onboarding-opt-in-button = Ja, ausprobieren
+shopping-onboarding-not-now-button = Nicht jetzt
+shopping-onboarding-dialog-close-button =
+    .title = Schließen
+    .aria-label = Schließen
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Fortschritt: Schritt { $current } von { $total }
