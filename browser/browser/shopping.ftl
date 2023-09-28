@@ -38,8 +38,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Tilgjengelege oppdateringar
-shopping-message-bar-warning-stale-analysis-message = Start analysatoren { -fakespot-brand-full-name } for å få uppdatert informasjon om ca. 60 sekund.
+shopping-message-bar-warning-stale-analysis-message-2 = Ny info å kontrollere
+shopping-message-bar-warning-stale-analysis-button = Kontroller no
 shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengeleg akkurat no
 shopping-message-bar-generic-error-message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
@@ -50,14 +50,6 @@ shopping-message-bar-warning-product-not-available-reported-title2 = Info kjem s
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
 shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
 shopping-message-bar-page-not-supported-title = Vi klarer ikkje å kontrollere desse vurderingane
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Start analysator på { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -106,10 +98,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Upålitelege vurde
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Opne sidestolpen Shopping
-shopping-sidebar-close-button =
-    .tooltiptext = Lat att sidestolpen Shopping
+shopping-sidebar-open-button2 =
+    .tooltiptext = Opne vurderingskontrolløren
+shopping-sidebar-close-button2 =
+    .tooltiptext = Lat att vurderingskontrolløren
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -149,3 +141,18 @@ shopping-survey-thanks-message = Takk for tilbakemeldinga di!
 
 shopping-callout-pdp-opted-in-title = Er desse vurderingane pålitelege? Finn raskt ut av det.
 shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderingar
+
+## Onboarding message strings.
+
+shopping-onboarding-headline = Prøv den pålitelege guiden vår for produktvurderingar
+shopping-onboarding-opt-in-button = Ja, prøv det
+shopping-onboarding-not-now-button = Ikkje no
+shopping-onboarding-dialog-close-button =
+    .title = Lat att
+    .aria-label = Lat att
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Framdrift: steg { $current } av { $total }
