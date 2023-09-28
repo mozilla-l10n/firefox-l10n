@@ -160,7 +160,7 @@ shopping-survey-thanks-message = Diolch am eich adborth!
 
 shopping-callout-closed-opted-in-subtitle = Mynd nôl i <strong>gwiriwr adolygiadau</strong> pryd bynnag y gwelwch y tag pris.
 shopping-callout-pdp-opted-in-title = A yw'r adolygiadau hyn yn ddibynadwy? Gweld nawr.
-shopping-callout-pdp-opted-in-subtitle = Agorwch y gwiriwr adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
+shopping-callout-pdp-opted-in-subtitle = Agorwch y gwirydd adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
 shopping-callout-closed-not-opted-in-title = Un clic i adolygiadau dibynadwy
 shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y gwiriwr adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
 
@@ -174,6 +174,7 @@ shopping-onboarding-headline = Rhowch gynnig ar ein canllaw dibynadwy i adolygia
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwiriwr adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> { -fakespot-brand-full-name } a <a data-l10n-name="terms_of_use">amodau defnyddio.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
 shopping-onboarding-not-now-button = Nid nawr
 shopping-onboarding-dialog-close-button =
