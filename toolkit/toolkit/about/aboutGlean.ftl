@@ -41,6 +41,24 @@ about-glean-label-for-tag-pings = V předchozím poli se ujistěte, že je zde p
 about-glean-label-for-log-pings =
     (Volitelně. Zaškrtněte předchozí políčko, pokud chcete, aby se pingy zaznamenávaly i při jejich odeslání.
     Dále budete muset <a data-l10n-name="enable-logging-link">zapnout protokolování</a>.)
+# Variables
+#   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
+# An in-line button labeled "Apply settings and submit ping" precedes this string.
+about-glean-label-for-controls-submit =
+    Stisknutím předchozího tlačítka označíte všechny pingy { -glean-brand-name } svou značkou a odešlete vybraný ping.
+    (Všechny pingy odeslané od té doby až do restartu aplikace budou označeny štítkem
+    <code>{ $debug-tag }</code>.)
+about-glean-li-for-visit-gdpv =
+    <a data-l10n-name="gdpv-tagged-pings-link">Navštivte stránku { glean-debug-ping-viewer-brand-name }, kde najdete pingy s vaší značkou</a>.
+    Od stisknutí tlačítka do příchodu pingu by nemělo uplynout více než několik sekund.
+    Někdy to může trvat několik minut.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-explanation =
+    Pro další <i>ad hoc</i> testování
+    můžete také zjistit aktuální hodnotu určitého prvku instrumentace.
+    otevřením konzole devtools zde na <code>about:glean</code>.
+    a pomocí rozhraní API <code>testGetValue()</code> jako např.
+    <code>Glean.metricCategory.metricName.testGetValue()</code>.
 controls-button-label-verbose = Použít nastavení a odeslat ping
 about-glean-about-data-header = O datech
 about-glean-about-data-explanation =
