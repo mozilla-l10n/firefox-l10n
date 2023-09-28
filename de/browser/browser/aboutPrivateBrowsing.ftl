@@ -71,5 +71,6 @@ about-private-browsing-cookie-banners-promo-message = Lassen Sie { -brand-short-
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = Auf diesem Gerät keine Spuren hinterlassen
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } löscht Ihre Cookies, Chronik und Website-Daten, wenn Sie alle Ihre privaten Fenster schließen.
 about-private-browsing-felt-privacy-v1-info-link = Wer könnte meine Aktivität sehen?
