@@ -35,6 +35,12 @@ about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define
 about-glean-about-testing-header = O testování
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodesílat žádný ping)
+# An in-line text input field precedes this string.
+about-glean-label-for-tag-pings = V předchozím poli se ujistěte, že je zde paměťová značka pro ladění, abyste mohli později rozpoznat své pingy.
+# An in-line check box precedes this string.
+about-glean-label-for-log-pings =
+    (Volitelně. Zaškrtněte předchozí políčko, pokud chcete, aby se pingy zaznamenávaly i při jejich odeslání.
+    Dále budete muset <a data-l10n-name="enable-logging-link">zapnout protokolování</a>.)
 controls-button-label-verbose = Použít nastavení a odeslat ping
 about-glean-about-data-header = O datech
 about-glean-about-data-explanation =
