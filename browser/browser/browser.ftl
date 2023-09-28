@@ -942,6 +942,24 @@ unified-extensions-button-quarantined =
         Estensioni
         Alcune estensioni non sono consentite
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Termina sessione anonima
+    .tooltiptext = Termina sessione anonima
+reset-pbm-panel-heading = Terminare la sessione anonima?
+reset-pbm-panel-description = Chiudi tutte le schede anonime e cancella cronologia, cookie e tutti gli altri dati dei siti web.
+reset-pbm-panel-always-ask-checkbox =
+     .label = Chiedi sempre
+     .accesskey = C
+reset-pbm-panel-cancel-button =
+    .label = Annulla
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Elimina dati della sessione
+    .accesskey = E
+reset-pbm-panel-complete = Dati della sessione anonima eliminati
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedito a questa pagina di ricaricarsi automaticamente.
