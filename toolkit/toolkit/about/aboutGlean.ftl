@@ -37,3 +37,6 @@ about-glean-about-testing-header = O testování
 about-glean-no-ping-label = (neodesílat žádný ping)
 controls-button-label-verbose = Použít nastavení a odeslat ping
 about-glean-about-data-header = O datech
+about-glean-about-data-explanation =
+    Chcete-li si prohlédnout seznam shromážděných údajů, podívejte se na stránku
+    <a data-l10n-name="glean-dictionary-link">slovníku { -glean-brand-name }</a>.
