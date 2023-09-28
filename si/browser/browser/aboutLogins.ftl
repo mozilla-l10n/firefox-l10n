@@ -74,7 +74,7 @@ about-logins-list-section-week = පසුගිය දවස් 7
 
 ## Introduction screen
 
-about-logins-login-intro-heading-logged-out2 = සුරැකි පිවිසුම් සොයනවාද? සමමුහූර්තය සකසන්න හෝ ඒවා ආයාත කරන්න.
+about-logins-login-intro-heading-logged-out2 = සුරැකි පිවිසුම් සොයනවාද? සමමුහූර්ත හෝ ආයාත කරන්න.
 about-logins-login-intro-heading-logged-in = සමමුහූර්ත පිවිසුම් හමු නොවිණි.
 login-intro-description = වෙනත් උපාංගවල { -brand-product-name } හි සුරකින ලද ඔබගේ පිවිසුම් මෙහි ලබා ගන්නා අයුරු පහත දැක්වේ:
 login-intro-instructions-fxa = ඔබගේ පිවිසුම් සුරකින ලද උපාංගයෙන් { -fxaccount-brand-name } වෙත පිවිසෙන්න.
