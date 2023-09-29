@@ -37,9 +37,10 @@ about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Lectura multimèdia
 about-logging-preset-media-playback-description = Moduls de jornalizacion per diagnosticar los problèmas de lectura multimèdia (mas pas los de vidèo-conferéncia)
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-gfx-label = Acceleracion grafica
 about-logging-preset-custom-label = Personalizat
 about-logging-preset-custom-description = Moduls de jornalizacion seleccionats manualament
-
 # Error handling
 about-logging-error = Error :
 
@@ -53,5 +54,4 @@ about-logging-unknown-profiler-preset = Prereglatge del perfilador « { $v } �
 about-logging-unknown-option = Opcion « { $k } » per about:logging desconeguda
 about-logging-configuration-url-ignored = URL de configuracion ignorada
 about-logging-file-and-profiler-override = Impossible de forçar la sortida del fichièr e de remplaçar las opcions del profilador a l’encòp
-
 about-logging-configured-via-url = Opcion configurada via URL

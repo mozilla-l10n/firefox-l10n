@@ -31,6 +31,8 @@ shopping-message-bar-warning-stale-analysis-button = Verificar ara
 shopping-highlight-price = Prètz
 shopping-highlight-quality = Qualitat
 shopping-highlight-shipping = Expedicion
+shopping-highlight-competitiveness = Competitivitat
+shopping-highlight-packaging = Embalatge
 
 ## Strings for show more card
 
@@ -82,6 +84,7 @@ shopping-survey-terms-link = Condicions d’utilizacion
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Òc-ben, ensajar
 shopping-onboarding-not-now-button = Pas ara
 shopping-onboarding-dialog-close-button =
     .title = Tampar
