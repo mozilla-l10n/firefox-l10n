@@ -167,7 +167,7 @@ mr2022-onboarding-easy-setup-import-checkbox-label = කලින් අති�
 # If this translation does not make sense in your language, feel free to use the word "discover."
 mr2022-onboarding-welcome-pin-header = විස්මජනක අන්තර්ජාලය බලන්න
 # Subtitle is used on onboarding page for new users page when Firefox is not pinned
-mr2022-onboarding-welcome-pin-subtitle = තනි එබීමකින් ඕනෑම තැනක සිට { -brand-short-name } දියත් කරන්න. එම සෑම අවස්ථාවකම, ඔබ වඩාත් විවෘත සහ ස්වාධීන වියමනක් තෝරා ගනියි.
+mr2022-onboarding-welcome-pin-subtitle = තනි එබීමකින් ඕනෑම තැනක දී { -brand-short-name } දියත් කරන්න. එම සෑම අවස්ථාවකම, ඔබ වඩාත් විවෘත සහ ස්වාධීන වියමනක් තෝරා ගනියි.
 # Primary button string used on welcome page for when Firefox is not pinned.
 mr2022-onboarding-pin-primary-button-label =
     { PLATFORM() ->
