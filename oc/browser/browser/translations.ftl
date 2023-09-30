@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Traduire aquesta pagina – Bèta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Ensajatz las traduccions privadas dins { -brand-shorter-name } - Bèta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -67,6 +71,7 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Anullar
 translations-panel-learn-more-link = Ne saber mai
+translations-panel-intro-header = Ensajatz las traduccions privadas dins { -brand-shorter-name }
 translations-panel-error-translating = I a agut un problèma al moment de traduire. Ensajatz tornamai.
 translations-panel-error-load-languages = Cargament impossible de las lengas
 translations-panel-error-load-languages-hint = Verificatz la connexion internet e tornatz ensajar.
