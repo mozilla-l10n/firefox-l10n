@@ -154,6 +154,7 @@ extensions-warning-update-security2 =
     .message = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව අබල කර ඇත. යාවත්කාල මගින් බිඳ හෙළීමකට ලක් විය හැකිය.
 extensions-warning-update-security-button = සබල කරන්න
     .title = එක්කහු යාවත්කාල ආරක්‍ෂණ පරීක්‍ෂාව සබල කරන්න
+extensions-warning-imported-addons-button = දිගු ස්ථාපනය කරන්න
 
 ## Strings connected to add-on updates
 
@@ -317,6 +318,10 @@ addon-detail-updates-radio-on = සක්‍රිය
 addon-detail-updates-radio-off = අක්‍රිය
 addon-detail-update-check-label = යාවත්කාල බලන්න
 install-update-button = යාවත්කාල
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -324,10 +329,20 @@ addon-badge-private-browsing-allowed2 =
     .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-allow = ඉඩ දෙන්න
 addon-detail-private-browsing-disallow = ඉඩ නොදෙන්න
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = ඉඩ දෙන්න
+addon-detail-quarantined-domains-disallow = ඉඩ නොදෙන්න
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
