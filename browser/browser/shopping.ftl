@@ -43,6 +43,7 @@ shopping-message-bar-warning-stale-analysis-button = Kontroller no
 shopping-message-bar-generic-error-title2 = Ingen informasjon tilgjengeleg akkurat no
 shopping-message-bar-generic-error-message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
 shopping-message-bar-warning-not-enough-reviews-title = Ikkje nok vurderingar enno
+shopping-message-bar-warning-not-enough-reviews-message2 = Når dette produktet har fleire vurderingar, kan vi sjekke kvaliteten.
 shopping-message-bar-warning-product-not-available-title = Produktet er ikkje tilgjengeleg
 shopping-message-bar-warning-product-not-available-button = Rapporter at dette produktet er på lager igjen
 shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
@@ -73,6 +74,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Vis annonsar i vurderingskontrolløren
 shopping-settings-opt-out-button = Slå av vurderingskontrolløren
+powered-by-fakespot = Vurderingskontrolløren vert driven av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
