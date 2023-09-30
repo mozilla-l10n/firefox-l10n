@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = සමමුහූර්ත කරන්න
 appmenuitem-fxa-sign-in = { -brand-product-name } වෙත පිවිසෙන්න
 appmenuitem-fxa-manage-account = ගිණුම කළමනාකරණය
 appmenu-fxa-header2 = { -fxaccount-brand-name(capitalization: "sentence") }
+appmenu-account-header = ගිණුම
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
