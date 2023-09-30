@@ -21,6 +21,20 @@ protections-panel-etp-more-info =
     .aria-label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය පිළිබඳව වැඩි විස්තර
 protections-panel-etp-on-header = මෙම අඩවියට දියුණු කළ ලුහුබැඳීමේ රැකවරණය සක්‍රියයි
 protections-panel-etp-off-header = මෙම අඩවියට දියුණු කළ ලුහුබැඳීමේ රැකවරණය අක්‍රියයි
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
+protections-panel-etp-on-toggle =
+    .label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
+    .description = මෙම අඩවියට සක්‍රියයි
+    .aria-label = { $host } සඳහා රැකවරණ අබල කරන්න
+protections-panel-etp-off-toggle =
+    .label = දියුණු කළ ලුහුබැඳීමේ රැකවරණය
+    .description = මෙම අඩවියට අක්‍රියයි
+    .aria-label = { $host } සඳහා රැකවරණ සබල කරන්න
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = අඩවිය වැඩ නොකරයිද?
 # The heading/title of the sub-panel view
