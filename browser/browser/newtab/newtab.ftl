@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Іздеу
     .aria-label = Іздеу
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } көмегімен іздеу немесе адрес
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Іздеу немесе адрес
     .title = Іздеу немесе адрес
     .aria-label = Іздеу немесе адрес
-
 newtab-search-box-text = Интернетте іздеу
 newtab-search-box-input =
     .placeholder = Интернетте іздеу
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Жарлықты түзету
 newtab-topsites-title-label = Атауы
 newtab-topsites-title-input =
     .placeholder = Атауын енгізіңіз
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Сілтемені теріңіз немесе кірістіріңіз
 newtab-topsites-url-validation = Жарамды сілтеме керек
-
 newtab-topsites-image-url-label = Өз суреттің URL адресі
 newtab-topsites-use-image-link = Таңдауыңызша суретті қолдану…
 newtab-topsites-image-validation = Суретті жүктеу қатемен аяқталды. Басқа URL адресін қолданып көріңіз.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Демеуленген
 newtab-menu-section-tooltip =
     .title = Мәзірді ашу
     .aria-label = Мәзірді ашу
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Өшіру
     .aria-label = Өшіру
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Бетбелгі өшірілді
 newtab-label-recommended = Әйгілі
 newtab-label-saved = { -pocket-brand-name }-ке сақталған
 newtab-label-download = Жүктеп алынған
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Демеушілік
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor } демеушісінен
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Ұсынушы { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Шолуды бастаңыз, сіз жақында шолған немесе бетбелгілерге қосқан тамаша мақалалар, видеолар немесе басқа парақтардың кейбіреулері осында көрсетіледі.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Көбірек білу
 newtab-pocket-cta-button = { -pocket-brand-name }-ті алу
 newtab-pocket-cta-text = Өзіңіз ұнатқан хикаяларды { -pocket-brand-name } ішіне сақтап, миіңізді тамаша оқумен толықтырыңыз.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } өнімі { -brand-product-name } отбасының мүшесі болып табылады
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Сақтау
 newtab-pocket-saved = Сақталған
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Қайталап көру үшін, бет�
 
 newtab-custom-shortcuts-title = Жарлықтар
 newtab-custom-shortcuts-subtitle = Сіз сақтайтын немесе шолатын сайттар
+newtab-custom-shortcuts-toggle =
+    .label = Жарлықтар
+    .description = Сіз сақтайтын немесе шолатын сайттар
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -268,9 +257,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Демеушілік жарлықтары
 newtab-custom-pocket-title = { -pocket-brand-name } ұсынған
 newtab-custom-pocket-subtitle = { -brand-product-name } отбасының мүшесі болып табылатын, { -pocket-brand-name } жетекшілік ететін тамаша құрама
+newtab-custom-pocket-toggle =
+    .label = { -pocket-brand-name } ұсынған
+    .description = { -brand-product-name } отбасының мүшесі болып табылатын, { -pocket-brand-name } жетекшілік ететін тамаша құрама
 newtab-custom-pocket-sponsored = Демеушілер мақалалары
 newtab-custom-pocket-show-recent-saves = Соңғы сақтауларды көрсету
 newtab-custom-recent-title = Жуырдағы белсенділік
 newtab-custom-recent-subtitle = Жуырдағы сайттар мен құрама таңдауы
+newtab-custom-recent-toggle =
+    .label = Жуырдағы белсенділік
+    .description = Жуырдағы сайттар мен құрама таңдауы
 newtab-custom-close-button = Жабу
 newtab-custom-settings = Көбірек баптауларды басқару
