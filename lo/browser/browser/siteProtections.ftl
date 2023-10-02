@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = ການປົກປ້ອງ { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = ປິດ​ການ​ປົກ​ປ້ອງ​ສໍາ​ລັບ { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = ເປີດໃຊ້ການປົກປ້ອງ { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -86,5 +80,9 @@ protections-not-blocking-social-media-trackers =
 # In its tooltip, we show the date when we started counting this number.
 protections-footer-blocked-tracker-counter = { $trackerCount } ຖືກບລັອກ
     .tooltiptext = ຕັ້ງແຕ່ { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# This text indicates the total number of trackers blocked on all sites.
+# It should be the same as protections-footer-blocked-tracker-counter;
+# this message is used to leave out the tooltip when the date is not available.
+protections-footer-blocked-tracker-counter-no-tooltip = { $trackerCount } ຖືກບລັອກ
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone = { -brand-short-name } ຖືກບລັອກ { $trackerCount } ຕົວຕິດຕາມຕັ້ງແຕ່ { DATETIME($date, year: "numeric", month: "long") }
