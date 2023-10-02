@@ -243,6 +243,9 @@ newtab-error-fallback-refresh-link = Berritu orria berriro saiatzeko.
 
 newtab-custom-shortcuts-title = Lasterbideak
 newtab-custom-shortcuts-subtitle = Gordetzen edo bisitatzen dituzun guneak
+newtab-custom-shortcuts-toggle =
+    .label = Lasterbideak
+    .description = Gordetzen edo bisitatzen dituzun guneak
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
