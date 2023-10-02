@@ -224,6 +224,9 @@ newtab-error-fallback-refresh-link = පිටුව නැවුම් කර �
 
 newtab-custom-shortcuts-title = කෙටිමං
 newtab-custom-shortcuts-subtitle = ඔබ සුරකින හෝ ගොඩවදින අඩවි
+newtab-custom-shortcuts-toggle =
+    .label = කෙටිමං
+    .description = ඔබ සුරකින හෝ ගොඩවදින අඩවි
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -237,5 +240,8 @@ newtab-custom-pocket-sponsored = අනුග්‍රහය ලද කතා
 newtab-custom-pocket-show-recent-saves = මෑත සුරැකීම් පෙන්වන්න
 newtab-custom-recent-title = මෑත ක්‍රියාකාරකම
 newtab-custom-recent-subtitle = මෑත අඩවි සහ අන්තර්ගතවල තේරීමකි
+newtab-custom-recent-toggle =
+    .label = මෑත ක්‍රියාකාරකම
+    .description = මෑත අඩවි සහ අන්තර්ගතවල තේරීමකි
 newtab-custom-close-button = වසන්න
 newtab-custom-settings = වෙනත් සැකසුම් කළමනාකරණය
