@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Rechercher
     .aria-label = Rechercher
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Rechercher avec { $engine } ou saisir une adresse
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Rechercher ou saisir une adresse
     .title = Rechercher ou saisir une adresse
     .aria-label = Rechercher ou saisir une adresse
-
 newtab-search-box-text = Rechercher sur le Web
 newtab-search-box-input =
     .placeholder = Rechercher sur le Web
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Modifier le raccourci
 newtab-topsites-title-label = Titre
 newtab-topsites-title-input =
     .placeholder = Saisir un titre
-
 newtab-topsites-url-label = Adresse web
 newtab-topsites-url-input =
     .placeholder = Saisir ou coller une adresse web
 newtab-topsites-url-validation = Adresse web valide requise
-
 newtab-topsites-image-url-label = URL de l’image personnalisée
 newtab-topsites-use-image-link = Utiliser une image personnalisée…
 newtab-topsites-image-validation = Échec du chargement de l’image. Essayez avec une autre URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Sponsorisé
 newtab-menu-section-tooltip =
     .title = Ouvrir le menu
     .aria-label = Ouvrir le menu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Supprimer
     .aria-label = Supprimer
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,17 +152,14 @@ newtab-label-removed-bookmark = Marque-page supprimé
 newtab-label-recommended = Tendance
 newtab-label-saved = Enregistré dans { -pocket-brand-name }
 newtab-label-download = Téléchargé
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorisé
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorisé par { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -207,7 +198,6 @@ newtab-section-header-pocket = Recommandations par { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Commencez à naviguer puis nous afficherons des articles, des vidéos ou d’autres pages que vous avez récemment visités ou ajoutés aux marque-pages.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -232,10 +222,6 @@ newtab-pocket-learn-more = En savoir plus
 newtab-pocket-cta-button = Installer { -pocket-brand-name }
 newtab-pocket-cta-text = Enregistrez les articles que vous aimez dans { -pocket-brand-name }, et stimulez votre imagination avec des lectures fascinantes.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } fait partie de la famille { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Enregistrer
 newtab-pocket-saved = Enregistrée
@@ -265,9 +251,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Raccourcis sponsorisés
 newtab-custom-pocket-title = Recommandé par { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contenu exceptionnel sélectionné par { -pocket-brand-name }, membre de la famille { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Recommandé par { -pocket-brand-name }
+    .description = Contenu exceptionnel sélectionné par { -pocket-brand-name }, membre de la famille { -brand-product-name }
 newtab-custom-pocket-sponsored = Articles sponsorisés
 newtab-custom-pocket-show-recent-saves = Afficher les éléments enregistrés récemment
 newtab-custom-recent-title = Activité récente
 newtab-custom-recent-subtitle = Une sélection de sites et de contenus récents
+newtab-custom-recent-toggle =
+    .label = Activité récente
+    .description = Une sélection de sites et de contenus récents
 newtab-custom-close-button = Fermer
 newtab-custom-settings = Gérer plus de paramètres
