@@ -241,6 +241,9 @@ newtab-error-fallback-refresh-link = 刷新页面以重试。
 
 newtab-custom-shortcuts-title = 快捷方式
 newtab-custom-shortcuts-subtitle = 您保存或访问过的网站
+newtab-custom-shortcuts-toggle =
+    .label = 快捷方式
+    .description = 您保存或访问过的网站
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -250,9 +253,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = 赞助商网站
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推荐
 newtab-custom-pocket-subtitle = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
+newtab-custom-pocket-toggle =
+    .label = 由 { -pocket-brand-name } 推荐
+    .description = 由 { -brand-product-name } 旗下 { -pocket-brand-name } 策划的特别内容
 newtab-custom-pocket-sponsored = 赞助内容
 newtab-custom-pocket-show-recent-saves = 显示近期保存内容
 newtab-custom-recent-title = 近期动态
 newtab-custom-recent-subtitle = 近期访问的网站与内容精选
+newtab-custom-recent-toggle =
+    .label = 近期动态
+    .description = 近期访问的网站与内容精选
 newtab-custom-close-button = 关闭
 newtab-custom-settings = 管理更多设置
