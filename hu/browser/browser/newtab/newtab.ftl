@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Keresés
     .aria-label = Keresés
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Keressen a(z) { $engine } keresővel vagy adjon meg egy címet
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Keressen, vagy adjon meg címet
     .title = Keressen, vagy adjon meg címet
     .aria-label = Keressen, vagy adjon meg címet
-
 newtab-search-box-text = Keresés a weben
 newtab-search-box-input =
     .placeholder = Keresés a weben
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Gyorskereső szerkesztése
 newtab-topsites-title-label = Cím
 newtab-topsites-title-input =
     .placeholder = Cím megadása
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Írjon vagy illesszen be egy URL-t
 newtab-topsites-url-validation = Érvényes URL szükséges
-
 newtab-topsites-image-url-label = Egyéni kép URL
 newtab-topsites-use-image-link = Egyéni kép használata…
 newtab-topsites-image-validation = A kép betöltése nem sikerült. Próbáljon meg egy másik URL-t.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Szponzorált
 newtab-menu-section-tooltip =
     .title = Menü megnyitása
     .aria-label = Menü megnyitása
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Eltávolítás
     .aria-label = Eltávolítás
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Könyvjelző törölve
 newtab-label-recommended = Népszerű
 newtab-label-saved = Mentve a { -pocket-brand-name }be
 newtab-label-download = Letöltve
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Szponzorált
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Szponzorálta: { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = A(z) { $provider } ajánlásával
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Kezdjen el böngészni, és itt fognak megjelenni azok a nagyszerű cikkek, videók és más lapok, amelyeket nemrég meglátogatott vagy könyvjelzőzött.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = További tudnivalók
 newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
 newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket-brand-name }be, és töltse fel elméjét lebilincselő olvasnivalókkal.
 newtab-pocket-pocket-firefox-family = A { -pocket-brand-name } a { -brand-product-name } család része
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Mentés
 newtab-pocket-saved = Mentve
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Az újrapróbálkozáshoz frissítse az old
 
 newtab-custom-shortcuts-title = Gyorskeresők
 newtab-custom-shortcuts-subtitle = Mentett vagy felkeresett webhelyek
+newtab-custom-shortcuts-toggle =
+    .label = Gyorskeresők
+    .description = Mentett vagy felkeresett webhelyek
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -269,9 +258,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Szponzorált gyorskeresők
 newtab-custom-pocket-title = A { -pocket-brand-name } által ajánlott
 newtab-custom-pocket-subtitle = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
+newtab-custom-pocket-toggle =
+    .label = A { -pocket-brand-name } által ajánlott
+    .description = Kivételes tartalmak a { -pocket-brand-name } válogatásában, amely a { -brand-product-name } család része
 newtab-custom-pocket-sponsored = Szponzorált történetek
 newtab-custom-pocket-show-recent-saves = Legutóbbi mentések megjelenítése
 newtab-custom-recent-title = Legutóbbi tevékenység
 newtab-custom-recent-subtitle = Válogatás a legutóbbi webhelyekből és tartalmakból
+newtab-custom-recent-toggle =
+    .label = Legutóbbi tevékenység
+    .description = Válogatás a legutóbbi webhelyekből és tartalmakból
 newtab-custom-close-button = Bezárás
 newtab-custom-settings = További beállítások kezelése
