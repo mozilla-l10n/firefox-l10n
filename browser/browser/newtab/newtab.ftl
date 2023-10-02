@@ -244,6 +244,9 @@ newtab-error-fallback-refresh-link = Osvežite stran za ponoven poskus.
 
 newtab-custom-shortcuts-title = Bližnjice
 newtab-custom-shortcuts-subtitle = Strani, ki jih shranite ali obiščete
+newtab-custom-shortcuts-toggle =
+    .label = Bližnjice
+    .description = Strani, ki jih shranite ali obiščete
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -256,6 +259,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Bližnjice oglaševalcev
 newtab-custom-pocket-title = Priporoča { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Izjemna vsebina, ki jo pripravlja { -pocket-brand-name }, del družine { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Priporoča { -pocket-brand-name }
+    .description = Izjemna vsebina, ki jo pripravlja { -pocket-brand-name }, del družine { -brand-product-name }
 newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
 newtab-custom-pocket-show-recent-saves = Prikaži nedavno shranjene strani
 newtab-custom-recent-title = Nedavna dejavnost
