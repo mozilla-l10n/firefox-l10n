@@ -240,6 +240,9 @@ newtab-error-fallback-refresh-link = Sali-d aseter akken ad talseḍ aɛraḍ.
 
 newtab-custom-shortcuts-title = Inegzumen
 newtab-custom-shortcuts-subtitle = Ismal i teskelseḍ neɣ wuɣur terziḍ
+newtab-custom-shortcuts-toggle =
+    .label = Inegzumen
+    .description = Ismal i teskelseḍ neɣ wuɣur terziḍ
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
