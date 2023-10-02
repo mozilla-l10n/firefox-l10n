@@ -34,12 +34,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = { $host } के लिए सुरक्षा
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = { $host } के लिए सुरक्षा निष्क्रिय करें
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = { $host } के लिए सुरक्षा सक्रिय करें
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -83,3 +77,11 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } अवरुद्ध
     }
     .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } से
+# This text indicates the total number of trackers blocked on all sites.
+# It should be the same as protections-footer-blocked-tracker-counter;
+# this message is used to leave out the tooltip when the date is not available.
+protections-footer-blocked-tracker-counter-no-tooltip =
+    { $trackerCount ->
+        [one] { $trackerCount } अवरुद्ध
+       *[other] { $trackerCount } अवरुद्ध
+    }
