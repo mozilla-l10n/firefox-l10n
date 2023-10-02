@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Pytać
     .aria-label = Pytać
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Pytajće z { $engine } abo zapodajće adresu
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Pytać abo adresu zapodać
     .title = Pytać abo adresu zapodać
     .aria-label = Pytać abo adresu zapodać
-
 newtab-search-box-text = Web přepytać
 newtab-search-box-input =
     .placeholder = Web přepytać
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Zwjazanje wobdźěłać
 newtab-topsites-title-label = Titul
 newtab-topsites-title-input =
     .placeholder = Titul zapodać
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL zapodać abo zasadźić
 newtab-topsites-url-validation = Płaćiwy URL trěbny
-
 newtab-topsites-image-url-label = URL swójskeho wobraza
 newtab-topsites-use-image-link = Swójski wobraz wužiwać…
 newtab-topsites-image-validation = Wobraz njeda so začitać. Spytajće druhi URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Sponsorowany
 newtab-menu-section-tooltip =
     .title = Meni wočinić
     .aria-label = Meni wočinić
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Wotstronić
     .aria-label = Wotstronić
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Zapołožka je so wotstroniła
 newtab-label-recommended = Popularny
 newtab-label-saved = Do { -pocket-brand-name } składowany
 newtab-label-download = Sćehnjeny
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } - sponsorowane
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorowany wot { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Wot { $provider } doporučeny
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Započńće přehladować, a pokazamy někotre wulkotne nastawki, wideja a druhe strony, kotrež sće njedawno wopytał abo tu jako zapołožki składował.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Dalše informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je dźěl swójby { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Składować
 newtab-pocket-saved = Składowany
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Aktualizujće stronu, zo byšće hišće ra
 
 newtab-custom-shortcuts-title = Zwjazanja
 newtab-custom-shortcuts-subtitle = Sydła, kotrež składujeće abo wopytujeće
+newtab-custom-shortcuts-toggle =
+    .label = Zwjazanja
+    .description = Sydła, kotrež składujeće abo wopytujeće
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -271,9 +260,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsorowane zwjazanja
 newtab-custom-pocket-title = Wot { -pocket-brand-name } doporučene
 newtab-custom-pocket-subtitle = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Wot { -pocket-brand-name } doporučene
+    .description = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
 newtab-custom-pocket-sponsored = Sponsorowane stawizny
 newtab-custom-pocket-show-recent-saves = Najnowše składowanja pokazać
 newtab-custom-recent-title = Najnowša aktiwita
 newtab-custom-recent-subtitle = Wuběr najnowšich sydłow a najnowšeho wobsaha
+newtab-custom-recent-toggle =
+    .label = Najnowša aktiwita
+    .description = Wuběr najnowšich sydłow a najnowšeho wobsaha
 newtab-custom-close-button = Začinić
 newtab-custom-settings = Dalše nastajenja rjadować
