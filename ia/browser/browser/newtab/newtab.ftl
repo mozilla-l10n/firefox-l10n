@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Cercar
     .aria-label = Cercar
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Cercar con { $engine } o inserer un adresse
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Cercar o inserer un adresse
     .title = Cercar o inserer un adresse
     .aria-label = Cercar o inserer un adresse
-
 newtab-search-box-text = Cercar in le Web
 newtab-search-box-input =
     .placeholder = Cercar in le Web
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Modificar accesso directe
 newtab-topsites-title-label = Titulo
 newtab-topsites-title-input =
     .placeholder = Scriber un titulo
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Scriber o collar un URL
 newtab-topsites-url-validation = Es necessari un URL valide
-
 newtab-topsites-image-url-label = URL de imagine personal
 newtab-topsites-use-image-link = Usar un imagine personalisate…
 newtab-topsites-image-validation = Error durante le cargamento del imagine. Prova un altere URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Sponsorisate
 newtab-menu-section-tooltip =
     .title = Aperir le menu
     .aria-label = Aperir le menu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Remover
     .aria-label = Remover
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,17 +152,14 @@ newtab-label-removed-bookmark = Marcapagina removite
 newtab-label-recommended = Tendentias
 newtab-label-saved = Salvate in { -pocket-brand-name }
 newtab-label-download = Discargate
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorisate
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorisate per { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -207,7 +198,6 @@ newtab-section-header-pocket = Recommendate per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comencia a navigar e nos te monstrara hic alcunes del excellente articulos, videos e altere paginas que tu ha recentemente visitate o addite al marcapaginas.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -232,10 +222,6 @@ newtab-pocket-learn-more = Saper plus
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Salva le articulos que tu ama in { -pocket-brand-name }, e alimenta tu mente con lecturas fascinante.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } es parte del familia de { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Salvar
 newtab-pocket-saved = Salvate
@@ -255,6 +241,9 @@ newtab-error-fallback-refresh-link = Refresca le pagina pro tentar de novo.
 
 newtab-custom-shortcuts-title = Accessos directe
 newtab-custom-shortcuts-subtitle = Sitos que tu salva o visita
+newtab-custom-shortcuts-toggle =
+    .label = Accessos directe
+    .description = Sitos que tu salva o visita
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -265,9 +254,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Accessos directe sponsorisate
 newtab-custom-pocket-title = Recommendate per { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Contento exceptional a cura de { -pocket-brand-name }, parte del familia { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Recommendate per { -pocket-brand-name }
+    .description = Contento exceptional a cura de { -pocket-brand-name }, parte del familia { -brand-product-name }
 newtab-custom-pocket-sponsored = Articulos sponsorisate
 newtab-custom-pocket-show-recent-saves = Monstrar salvamentos recente
 newtab-custom-recent-title = Activitate recente
 newtab-custom-recent-subtitle = Un selection de sitos e contento recente
+newtab-custom-recent-toggle =
+    .label = Activitate recente
+    .description = Un selection de sitos e contento recente
 newtab-custom-close-button = Clauder
 newtab-custom-settings = Gerer altere parametros
