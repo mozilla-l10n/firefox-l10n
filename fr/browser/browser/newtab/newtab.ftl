@@ -241,6 +241,9 @@ newtab-error-fallback-refresh-link = Actualisez la page pour réessayer.
 
 newtab-custom-shortcuts-title = Raccourcis
 newtab-custom-shortcuts-subtitle = Sites que vous enregistrez ou visitez
+newtab-custom-shortcuts-toggle =
+    .label = Raccourcis
+    .description = Sites que vous enregistrez ou visitez
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
