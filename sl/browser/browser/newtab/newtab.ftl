@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Iskanje
     .aria-label = Iskanje
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Iščite z iskalnikom { $engine } ali vnesite naslov
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Iskanje ali naslov strani
     .title = Iskanje ali naslov strani
     .aria-label = Iskanje ali naslov strani
-
 newtab-search-box-text = Išči po spletu
 newtab-search-box-input =
     .placeholder = Iskanje po spletu
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Uredi bližnjico
 newtab-topsites-title-label = Naslov
 newtab-topsites-title-input =
     .placeholder = Vnesite ime
-
 newtab-topsites-url-label = Spletni naslov
 newtab-topsites-url-input =
     .placeholder = Vnesite ali prilepite spletni naslov
 newtab-topsites-url-validation = Vnesite veljaven spletni naslov
-
 newtab-topsites-image-url-label = Spletni naslov slike po meri
 newtab-topsites-use-image-link = Uporabi sliko po meri …
 newtab-topsites-image-validation = Slike ni bilo mogoče naložiti. Poskusite drug spletni naslov.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Sponzorirano
 newtab-menu-section-tooltip =
     .title = Odpri meni
     .aria-label = Odpri meni
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Odstrani
     .aria-label = Odstrani
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,17 +155,14 @@ newtab-label-removed-bookmark = Zaznamek odstranjen
 newtab-label-recommended = Najbolj priljubljeno
 newtab-label-saved = Shranjeno v { -pocket-brand-name }
 newtab-label-download = Preneseno
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Oglas
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Pokrovitelj: { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -210,7 +201,6 @@ newtab-section-header-pocket = Priporoča { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Začnite z brskanjem, mi pa vam bomo tu prikazovali odlične članke, videoposnetke ter druge strani, ki ste jih nedavno obiskali ali shranili med zaznamke.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -235,10 +225,6 @@ newtab-pocket-learn-more = Več o tem
 newtab-pocket-cta-button = Prenesi { -pocket-brand-name }
 newtab-pocket-cta-text = Shranite zgodbe, ki jih imate radi, v { -pocket-brand-name }, in napolnite svoje misli z navdušujočim branjem.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je del družine { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Shrani
 newtab-pocket-saved = Shranjeno
@@ -274,5 +260,8 @@ newtab-custom-pocket-sponsored = Zgodbe oglaševalcev
 newtab-custom-pocket-show-recent-saves = Prikaži nedavno shranjene strani
 newtab-custom-recent-title = Nedavna dejavnost
 newtab-custom-recent-subtitle = Izbor nedavnih spletnih mest in vsebin
+newtab-custom-recent-toggle =
+    .label = Nedavna dejavnost
+    .description = Izbor nedavnih spletnih mest in vsebin
 newtab-custom-close-button = Zapri
 newtab-custom-settings = Več nastavitev
