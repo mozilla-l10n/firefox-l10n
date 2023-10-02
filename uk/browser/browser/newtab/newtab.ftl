@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Пошук
     .aria-label = Пошук
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Шукайте за допомогою { $engine } або введіть адресу
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Введіть запит чи адресу
     .title = Введіть запит чи адресу
     .aria-label = Введіть запит чи адресу
-
 newtab-search-box-text = Пошук в Інтернеті
 newtab-search-box-input =
     .placeholder = Пошук в Інтернеті
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Редагувати ярлик
 newtab-topsites-title-label = Заголовок
 newtab-topsites-title-input =
     .placeholder = Введіть назву
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Введіть або вставте URL-адресу
 newtab-topsites-url-validation = Необхідна дійсна адреса URL
-
 newtab-topsites-image-url-label = URL власного зображення
 newtab-topsites-use-image-link = Використати власне зображення…
 newtab-topsites-image-validation = Не вдалося завантажити зображення. Спробуйте інший URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Спонсоровано
 newtab-menu-section-tooltip =
     .title = Відкрити меню
     .aria-label = Відкрити меню
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Вилучити
     .aria-label = Вилучити
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Закладку вилучено
 newtab-label-recommended = Популярне
 newtab-label-saved = Збережено в { -pocket-brand-name }
 newtab-label-download = Завантажено
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спонсоровано
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Від спонсора { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Рекомендації від { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Почніть перегляд, і тут з'являться цікаві статті, відео та інші сторінки, нещодавно відвідані чи збережені вами до закладок.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Докладніше
 newtab-pocket-cta-button = Отримати { -pocket-brand-name }
 newtab-pocket-cta-text = Зберігайте улюблені статті в { -pocket-brand-name } і задовольніть себе захопливим читанням.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } є частиною родини { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Зберегти
 newtab-pocket-saved = Збережено
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Оновіть сторінку, щоб с�
 
 newtab-custom-shortcuts-title = Ярлики
 newtab-custom-shortcuts-subtitle = Сайти, які ви зберігаєте чи відвідуєте
+newtab-custom-shortcuts-toggle =
+    .label = Ярлики
+    .description = Сайти, які ви зберігаєте чи відвідуєте
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -270,9 +259,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонсоровані ярлики
 newtab-custom-pocket-title = Рекомендації від { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Рекомендації від { -pocket-brand-name }
+    .description = Добірні матеріали від { -pocket-brand-name }, що входить до родини { -brand-product-name }
 newtab-custom-pocket-sponsored = Матеріали від спонсорів
 newtab-custom-pocket-show-recent-saves = Показати останні збереження
 newtab-custom-recent-title = Недавня активність
 newtab-custom-recent-subtitle = Добірка недавніх сайтів та вмісту
+newtab-custom-recent-toggle =
+    .label = Недавня активність
+    .description = Добірка недавніх сайтів та вмісту
 newtab-custom-close-button = Закрити
 newtab-custom-settings = Керувати іншими налаштуваннями
