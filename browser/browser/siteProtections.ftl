@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = 保护状态：{ $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = 禁用对 { $host } 的保护
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = 启用对 { $host } 的保护
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
