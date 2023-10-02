@@ -124,11 +124,13 @@ ad-by-fakespot = Reklame frå { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Hjelp til med å forbetre { -brand-product-name }
+shopping-survey-question-one = Kor fornøgd er du med vurderingskontrollen i { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Svært fornøgd
 shopping-survey-q1-radio-2-label = Fornøgd
 shopping-survey-q1-radio-3-label = Nøytral
 shopping-survey-q1-radio-4-label = Misfornøgd
 shopping-survey-q1-radio-5-label = Veldig misfornøgd
+shopping-survey-question-two = Gjer vurderingskontrollen det lettare for deg å ta kjøpsavgjerder?
 shopping-survey-q2-radio-1-label = Ja
 shopping-survey-q2-radio-2-label = Nei
 shopping-survey-q2-radio-3-label = Eg veit ikkje
