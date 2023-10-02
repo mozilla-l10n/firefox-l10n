@@ -246,6 +246,9 @@ newtab-error-fallback-refresh-link = Adnewyddu'r dudalen i geisio eto.
 
 newtab-custom-shortcuts-title = Llwybrau Byr
 newtab-custom-shortcuts-subtitle = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
+newtab-custom-shortcuts-toggle =
+    .label = Llwybrau Byr
+    .description = Gwefannau rydych yn eu cadw neu'n ymweld â nhw
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -260,9 +263,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Llwybrau byr wedi'u noddi
 newtab-custom-pocket-title = Argymhellir gan  { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Argymhellir gan  { -pocket-brand-name }
+    .description = Cynnwys eithriadol wedi'i guradu gan { -pocket-brand-name }, rhan o deulu { -brand-product-name }
 newtab-custom-pocket-sponsored = Straeon wedi'u noddi
 newtab-custom-pocket-show-recent-saves = Dangos pethau gadwyd yn ddiweddar
 newtab-custom-recent-title = Gweithgaredd diweddar
 newtab-custom-recent-subtitle = Detholiad o wefannau a chynnwys diweddar
+newtab-custom-recent-toggle =
+    .label = Gweithgaredd diweddar
+    .description = Detholiad o wefannau a chynnwys diweddar
 newtab-custom-close-button = Cau
 newtab-custom-settings = Rheoli rhagor o osodiadau
