@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Serĉi
     .aria-label = Serĉi
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Serĉi per { $engine } aŭ tajpi adreson
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Serĉi aŭ tajpi adreson
     .title = Serĉi aŭ tajpi adreson
     .aria-label = Serĉi aŭ tajpi adreson
-
 newtab-search-box-text = Serĉi en la reto
 newtab-search-box-input =
     .placeholder = Serĉi en la reto
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Redakti ŝparvojon
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Tajpu titolon
-
 newtab-topsites-url-label = Retadreso
 newtab-topsites-url-input =
     .placeholder = Tajpu aŭ alguu retadreson
 newtab-topsites-url-validation = Valida retadreso estas postulata
-
 newtab-topsites-image-url-label = Personecitiga retadreso de bildo
 newtab-topsites-use-image-link = Uzi personecigitan bildon…
 newtab-topsites-image-validation = Ne eblis ŝargi la bildon. Klopodu alian retadreson.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Patronita
 newtab-menu-section-tooltip =
     .title = Malfermi menuon
     .aria-label = Malfermi menuon
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Forigi
     .aria-label = Forigi
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,17 +152,14 @@ newtab-label-removed-bookmark = Legosigno forigita
 newtab-label-recommended = Tendencoj
 newtab-label-saved = Konservita en { -pocket-brand-name }
 newtab-label-download = Elŝutita
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patronita
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Patronita de { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -207,7 +198,6 @@ newtab-section-header-pocket = Rekomendita de { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Komencu retumi kaj ĉi tie ni montros al vi kelkajn el la plej bonaj artikoloj, filmetoj kaj aliaj paĝoj, kiujn vi antaŭ nelonge vizits aŭ por kiuj vi aldonis legosignon.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -232,10 +222,6 @@ newtab-pocket-learn-more = Pli da informo
 newtab-pocket-cta-button = Instali { -pocket-brand-name }
 newtab-pocket-cta-text = Konservu viajn ŝatatajn artikolojn en { -pocket-brand-name }, kaj stimulu vian menson per ravaj legaĵoj.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } estas parto de la familio { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Konservi
 newtab-pocket-saved = Konservitaj
@@ -255,6 +241,9 @@ newtab-error-fallback-refresh-link = Refreŝigi paĝon por klopodi denove.
 
 newtab-custom-shortcuts-title = Ŝparvojoj
 newtab-custom-shortcuts-subtitle = Retejoj konservitaj aŭ vizititaj de vi
+newtab-custom-shortcuts-toggle =
+    .label = Ŝparvojoj
+    .description = Retejoj konservitaj aŭ vizititaj de vi
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -265,9 +254,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Patronitaj ŝparvojoj
 newtab-custom-pocket-title = Rekomendita de { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Eksterordinara  enhavo reviziita de  { -pocket-brand-name }, parto de la familio { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Rekomendita de { -pocket-brand-name }
+    .description = Eksterordinara  enhavo reviziita de  { -pocket-brand-name }, parto de la familio { -brand-product-name }
 newtab-custom-pocket-sponsored = Patronitaj artikoloj
 newtab-custom-pocket-show-recent-saves = Montri ĵusajn konservojn
 newtab-custom-recent-title = Ĵusa agado
 newtab-custom-recent-subtitle = Elekto de ĵusaj retejoj kaj enhavoj
+newtab-custom-recent-toggle =
+    .label = Ĵusa agado
+    .description = Elekto de ĵusaj retejoj kaj enhavoj
 newtab-custom-close-button = Fermi
 newtab-custom-settings = Administri aliajn agordojn
