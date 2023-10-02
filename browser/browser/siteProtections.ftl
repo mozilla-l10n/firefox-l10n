@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = การป้องกันสำหรับ { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = ปิดใช้งานการป้องกันสำหรับ { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = เปิดใช้งานการป้องกันสำหรับ { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
