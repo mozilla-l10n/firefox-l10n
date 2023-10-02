@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ڳولو
     .aria-label = ڳولو
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = { $engine } نال ڳولو یا پتہ درج کرو
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ڳولو یا پتہ درج کرو
     .title = ڳولو یا پتہ درج کرو
     .aria-label = ڳولو یا پتہ درج کرو
-
 newtab-search-box-text = ویب ڳولو
 newtab-search-box-input =
     .placeholder = ویب تے ڳولو
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = شارٹ کٹ وِچ ترمیم کرو
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ہک عنوان درج کرو
-
 newtab-topsites-url-label = یوآرایل
 newtab-topsites-url-input =
     .placeholder = ٹائپ کرو یا ہک URL چسباں کرو
 newtab-topsites-url-validation = جائز URL درکار ہے
-
 newtab-topsites-image-url-label = مخصوص تصویر دا URL
 newtab-topsites-use-image-link = ہک مخصوص تصویر استعمال کرو …
 newtab-topsites-image-validation = تصویر لوڈ تھیوݨ وِچ ناکام رہی۔ براہ مہربانی ہک مختلف URL کوں آزماؤ۔
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = سپانسر تھئے
 newtab-menu-section-tooltip =
     .title = مینیو کھولو
     .aria-label = مینیو کھولو
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ہٹاؤ
     .aria-label = ہٹاؤ
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = نشانی ہٹا ݙتی ڳئی اے
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } وِچ محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } - تعاون شدہ
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = { $sponsor } توں تعاون شدہ
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = { $provider } دی طرفوں تجویز کردہ
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = برائوزنگ شروع کرو، تے اساں تہاکوں کجھ بہترین عبارتاں، وڈیوز تے حالیہ دورہ شددہ ٻئے صفحات یا بک مارک ݙکھیسوں۔
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = ٻیا سِکھو
 newtab-pocket-cta-button = { -pocket-brand-name } گھنو
 newtab-pocket-cta-text = اپݨیاں من بھاندیاں کہانیاں { -pocket-brand-name } اِچ ہتھیکڑیاں کرو، تے شاندار پڑھݨ نال اپݨے چیتے کوں تکڑا کرو۔
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } حصہ ہے { -brand-product-name } ٹٻر دا
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = محفوظ
 newtab-pocket-saved = محفوظ تھیا
@@ -269,9 +255,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = سپانسر تھئے شارٹ کٹ
 newtab-custom-pocket-title = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
 newtab-custom-pocket-subtitle = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
+newtab-custom-pocket-toggle =
+    .label = { -pocket-brand-name } دی طرفوں سفارش کیتے ڳئے
+    .description = { -pocket-brand-name } دے ذریعے تیار تھئے غیر معمولی مواد، { -brand-product-name } ٹٻر دا حصہ
 newtab-custom-pocket-sponsored = سپانسر تھیاں کہاݨیاں
 newtab-custom-pocket-show-recent-saves = حالیہ ہتھیکڑیاں ظاہر کرو
 newtab-custom-recent-title = حالیہ سرگرمی
 newtab-custom-recent-subtitle = حالیہ سائٹاں تے مواد دی ہک چوݨ
+newtab-custom-recent-toggle =
+    .label = حالیہ سرگرمی
+    .description = حالیہ سائٹاں تے مواد دی ہک چوݨ
 newtab-custom-close-button = بند کرو
 newtab-custom-settings = ودھیک ترتیباں دا بندوبست کرو
