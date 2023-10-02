@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Szukej
     .aria-label = Szukej
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Szukej ze { $engine } abo wkludź adresa
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Szukej abo wkludź adresa
     .title = Szukej abo wkludź adresa
     .aria-label = Szukej abo wkludź adresa
-
 newtab-search-box-text = Szukej w internecie
 newtab-search-box-input =
     .placeholder = Szukej w internecie
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Edytuj skrōt
 newtab-topsites-title-label = Tytuł
 newtab-topsites-title-input =
     .placeholder = Wkludź tytuł
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Wpisz abo wraź adresa URL
 newtab-topsites-url-validation = Potrzebno je dobro adresa URL
-
 newtab-topsites-image-url-label = Adresa URL ôd włosnego ôbrozka
 newtab-topsites-use-image-link = Użyj włosnego ôbrozka…
 newtab-topsites-image-validation = Niy podarziło sie zaladować ôbrozka. Sprōbuj inkszyj adresy URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Spōnsorowane
 newtab-menu-section-tooltip =
     .title = Ôdewrzij myni
     .aria-label = Ôdewrzij myni
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Skasuj
     .aria-label = Skasuj
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,17 +152,14 @@ newtab-label-removed-bookmark = Zokłodka je wyciepano
 newtab-label-recommended = Popularne
 newtab-label-saved = Spamiyntane do { -pocket-brand-name(case: "gen") }
 newtab-label-download = Pobrane
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Spōnsorowane
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Spōnsorowane ôd: { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -207,7 +198,6 @@ newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -233,10 +223,8 @@ newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
 newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } je tajlōm familije { -brand-product-name }
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -248,6 +236,9 @@ newtab-error-fallback-refresh-link = Ôdświyż strōna, coby sprōbować jeszcz
 
 newtab-custom-shortcuts-title = Skrōty
 newtab-custom-shortcuts-subtitle = Spamiyntane i nawiydzane strōny
+newtab-custom-shortcuts-toggle =
+    .label = Skrōty
+    .description = Spamiyntane i nawiydzane strōny
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } raja
@@ -257,8 +248,14 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Spōnsorowane skrōty
 newtab-custom-pocket-title = Doradzōne ôd { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Ekstra zawartość ôbrano ôd { -pocket-brand-name }, co je we familiji { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Doradzōne ôd { -pocket-brand-name }
+    .description = Ekstra zawartość ôbrano ôd { -pocket-brand-name }, co je we familiji { -brand-product-name }
 newtab-custom-pocket-sponsored = Spōnsorowane nowiny
 newtab-custom-recent-title = Niydowno aktywność
 newtab-custom-recent-subtitle = Wybōr z niydownych strōn i zawartości
+newtab-custom-recent-toggle =
+    .label = Niydowno aktywność
+    .description = Wybōr z niydownych strōn i zawartości
 newtab-custom-close-button = Zawrzij
 newtab-custom-settings = Inksze nasztalowania
