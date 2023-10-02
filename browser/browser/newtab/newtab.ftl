@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Søk
     .aria-label = Søk
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Søk med { $engine } eller skriv inn adresse
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Søk eller skriv inn adresse
     .title = Søk eller skriv inn adresse
     .aria-label = Søk eller skriv inn adresse
-
 newtab-search-box-text = Søk på nettet
 newtab-search-box-input =
     .placeholder = Søk på nettet
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Rediger snarvei
 newtab-topsites-title-label = Tittel
 newtab-topsites-title-input =
     .placeholder = Oppgi en tittel
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller lim inn en URL
 newtab-topsites-url-validation = Gyldig URL er nødvendig
-
 newtab-topsites-image-url-label = Egendefinert bilde-URL
 newtab-topsites-use-image-link = Bruk et egendefinert bilde…
 newtab-topsites-image-validation = Kunne ikke lese inn bildet. Prøv en annen URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Sponset
 newtab-menu-section-tooltip =
     .title = Åpne meny
     .aria-label = Åpne meny
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjern
     .aria-label = Fjern
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,17 +155,14 @@ newtab-label-removed-bookmark = Bokmerke fjernet
 newtab-label-recommended = Trender
 newtab-label-saved = Lagret til { -pocket-brand-name }
 newtab-label-download = Lastet ned
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponset
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponset av { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -210,7 +201,6 @@ newtab-section-header-pocket = Anbefalt av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Begynn å surfe, og vi viser noen av de beste artiklene, videoer og andre sider du nylig har besøkt eller bokmerket her.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -235,10 +225,6 @@ newtab-pocket-learn-more = Les mer
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Lagre artiklene du synes er interessante i { -pocket-brand-name }, og stimuler dine tanker med fasinerende lesermateriell.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er en del av { -brand-product-name }-familien.
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Lagre
 newtab-pocket-saved = Lagret
@@ -258,6 +244,9 @@ newtab-error-fallback-refresh-link = Oppdater siden for å prøve igjen.
 
 newtab-custom-shortcuts-title = Snarveier
 newtab-custom-shortcuts-subtitle = Nettsteder du lagrer eller besøker
+newtab-custom-shortcuts-toggle =
+    .label = Snarveier
+    .description = Nettsteder du lagrer eller besøker
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -268,9 +257,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsede snarveier
 newtab-custom-pocket-title = Anbefalt av { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Eksepsjonelt innhold satt sammen av { -pocket-brand-name }, en del av { -brand-product-name }-familien
+newtab-custom-pocket-toggle =
+    .label = Anbefalt av { -pocket-brand-name }
+    .description = Eksepsjonelt innhold satt sammen av { -pocket-brand-name }, en del av { -brand-product-name }-familien
 newtab-custom-pocket-sponsored = Sponsede historier
 newtab-custom-pocket-show-recent-saves = Se sist lagrede
 newtab-custom-recent-title = Nylig aktivitet
 newtab-custom-recent-subtitle = Et utvalg av nylige nettsteder og innhold
+newtab-custom-recent-toggle =
+    .label = Nylig aktivitet
+    .description = Et utvalg av nylige nettsteder og innhold
 newtab-custom-close-button = Lukk
 newtab-custom-settings = Behandle flere innstillinger
