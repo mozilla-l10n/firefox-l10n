@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Chirca
     .aria-label = Chirca
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Chirca cun { $engine } o inserta un'indiritzu
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Chirca o inserta un'indiritzu
     .title = Chirca o inserta un'indiritzu
     .aria-label = Chirca o inserta un'indiritzu
-
 newtab-search-box-text = Chirca in rete
 newtab-search-box-input =
     .placeholder = Chirca in rete
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Modìfica s'incurtzadura
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Inserta unu tìtulu
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Iscrie o incolla un'URL
 newtab-topsites-url-validation = Ddoe est bisòngiu de un'URL vàlidu
-
 newtab-topsites-image-url-label = URL de s'immàgine personalizada
 newtab-topsites-use-image-link = Imprea un'immàgine personalizada…
 newtab-topsites-image-validation = Carrigamentu de s'immàgine fallidu. Proa un'URL diferente.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Patrotzinadu
 newtab-menu-section-tooltip =
     .title = Aberi su menù
     .aria-label = Aberi su menù
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Boga
     .aria-label = Boga
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -161,17 +155,14 @@ newtab-label-removed-bookmark = Sinnalibru bogadu
 newtab-label-recommended = De tendèntzia
 newtab-label-saved = Sarvadu in { -pocket-brand-name }
 newtab-label-download = Iscarrigadu
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrotzinadu
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Patrotzinadu dae { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -210,7 +201,6 @@ newtab-section-header-pocket = Cussigiados dae { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comente cumintzes a navigare, amus a ammustrare inoghe is mègius artìculos, vìdeos, e àteras pàginas chi as bisitadu o agiuntu a is sinnalibros de reghente.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -235,10 +225,6 @@ newtab-pocket-learn-more = Leghe àteru
 newtab-pocket-cta-button = Otene { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva is istòrias tuas preferidas in { -pocket-brand-name }, e ispàssia·ti cun leturas incantadoras.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } est parte de sa famìlia de { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Sarva
 newtab-pocket-saved = Sarvadu
@@ -268,9 +254,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Curtzadòrgios patrotzinados
 newtab-custom-pocket-title = Cussigiadu dae { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Cuntenutos de primore curados dae { -pocket-brand-name }, parte de sa famìlia de { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Cussigiadu dae { -pocket-brand-name }
+    .description = Cuntenutos de primore curados dae { -pocket-brand-name }, parte de sa famìlia de { -brand-product-name }
 newtab-custom-pocket-sponsored = Istòrias patrotzinadas
 newtab-custom-pocket-show-recent-saves = Ammustra is elementos sarvados de reghente
 newtab-custom-recent-title = Atividade reghente
 newtab-custom-recent-subtitle = Una seletzione de sitos e cuntenutos reghentes
+newtab-custom-recent-toggle =
+    .label = Atividade reghente
+    .description = Una seletzione de sitos e cuntenutos reghentes
 newtab-custom-close-button = Serra
 newtab-custom-settings = Gesti prus cunfiguratziones
