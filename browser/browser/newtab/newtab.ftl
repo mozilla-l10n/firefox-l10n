@@ -245,6 +245,9 @@ newtab-error-fallback-refresh-link = Aktualisieren Sie die Seite, um es erneut z
 
 newtab-custom-shortcuts-title = Verknüpfungen
 newtab-custom-shortcuts-subtitle = Websites, die Sie speichern oder besuchen
+newtab-custom-shortcuts-toggle =
+    .label = Verknüpfungen
+    .description = Websites, die Sie speichern oder besuchen
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -255,6 +258,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Gesponserte Verknüpfungen
 newtab-custom-pocket-title = Empfohlen von { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Besondere Inhalte ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
+newtab-custom-pocket-toggle =
+    .label = Empfohlen von { -pocket-brand-name }
+    .description = Besondere Inhalte ausgewählt von { -pocket-brand-name }, Teil der { -brand-product-name }-Familie
 newtab-custom-pocket-sponsored = Gesponserte Inhalte
 newtab-custom-pocket-show-recent-saves = Zuletzt hinzugefügte Einträge anzeigen
 newtab-custom-recent-title = Neueste Aktivität
