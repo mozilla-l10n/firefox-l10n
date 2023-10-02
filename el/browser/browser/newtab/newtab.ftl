@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Αναζήτηση
     .aria-label = Αναζήτηση
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Αναζήτηση με { $engine } ή εισαγωγή διεύθυνσης
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Αναζήτηση ή εισαγωγή διεύθυνσης
     .title = Αναζήτηση ή εισαγωγή διεύθυνσης
     .aria-label = Αναζήτηση ή εισαγωγή διεύθυνσης
-
 newtab-search-box-text = Αναζήτηση στο διαδίκτυο
 newtab-search-box-input =
     .placeholder = Αναζήτηση στο διαδίκτυο
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Επεξεργασία συντόμευσ
 newtab-topsites-title-label = Τίτλος
 newtab-topsites-title-input =
     .placeholder = Εισαγωγή τίτλου
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Εισαγωγή ή επικόλληση URL
 newtab-topsites-url-validation = Απαιτείται έγκυρο URL
-
 newtab-topsites-image-url-label = URL προσαρμοσμένης εικόνας
 newtab-topsites-use-image-link = Χρήση προσαρμοσμένης εικόνας…
 newtab-topsites-image-validation = Αποτυχία φόρτωσης εικόνας. Δοκιμάστε ένα διαφορετικό URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Χορηγία
 newtab-menu-section-tooltip =
     .title = Άνοιγμα μενού
     .aria-label = Άνοιγμα μενού
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Αφαίρεση
     .aria-label = Αφαίρεση
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Ο σελιδοδείκτης αφαιρέθηκ
 newtab-label-recommended = Τάσεις
 newtab-label-saved = Αποθηκεύτηκε στο { -pocket-brand-name }
 newtab-label-download = Λήψεις
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Χορηγία
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Χορηγία από { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Προτάσεις του { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ξεκινήστε την περιήγηση και θα σας δείξουμε μερικά υπέροχα άρθρα, βίντεο και άλλες σελίδες που έχετε επισκεφθεί πρόσφατα ή έχετε προσθέσει στους σελιδοδείκτες σας.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Μάθετε περισσότερα
 newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
 newtab-pocket-cta-text = Αποθηκεύστε τις ιστορίες που αγαπάτε στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.
 newtab-pocket-pocket-firefox-family = Το { -pocket-brand-name } ανήκει στην οικογένεια του { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Αποθήκευση
 newtab-pocket-saved = Αποθηκεύτηκε
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Ανανεώστε τη σελίδα για
 
 newtab-custom-shortcuts-title = Συντομεύσεις
 newtab-custom-shortcuts-subtitle = Ιστότοποι από σελιδοδείκτες ή ιστορικό
+newtab-custom-shortcuts-toggle =
+    .label = Συντομεύσεις
+    .description = Ιστότοποι από σελιδοδείκτες ή ιστορικό
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -269,9 +258,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Χορηγούμενες συντομεύσεις
 newtab-custom-pocket-title = Προτείνεται από το { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Προτείνεται από το { -pocket-brand-name }
+    .description = Εξαιρετικό περιεχόμενο από το { -pocket-brand-name }, μέρος της οικογένειας του { -brand-product-name }
 newtab-custom-pocket-sponsored = Χορηγούμενα άρθρα
 newtab-custom-pocket-show-recent-saves = Εμφάνιση πρόσφατων αποθηκεύσεων
 newtab-custom-recent-title = Πρόσφατη δραστηριότητα
 newtab-custom-recent-subtitle = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
+newtab-custom-recent-toggle =
+    .label = Πρόσφατη δραστηριότητα
+    .description = Συλλογή πρόσφατων ιστοτόπων και περιεχομένου
 newtab-custom-close-button = Κλείσιμο
 newtab-custom-settings = Διαχείριση περισσότερων ρυθμίσεων
