@@ -241,6 +241,9 @@ newtab-error-fallback-refresh-link = Yeniden denemek için sayfayı tazeleyin.
 
 newtab-custom-shortcuts-title = Kısayollar
 newtab-custom-shortcuts-subtitle = Kaydettiğiniz veya ziyaret ettiğiniz siteler
+newtab-custom-shortcuts-toggle =
+    .label = Kısayollar
+    .description = Kaydettiğiniz veya ziyaret ettiğiniz siteler
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -251,6 +254,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsorlu kısayollar
 newtab-custom-pocket-title = { -pocket-brand-name } önerileri
 newtab-custom-pocket-subtitle = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
+newtab-custom-pocket-toggle =
+    .label = { -pocket-brand-name } önerileri
+    .description = { -brand-product-name } ailesinin bir parçası olan { -pocket-brand-name }’ın seçtiği harika içerikler
 newtab-custom-pocket-sponsored = Sponsorlu haberler
 newtab-custom-pocket-show-recent-saves = Son kaydedilenleri göster
 newtab-custom-recent-title = Son etkinlikler
