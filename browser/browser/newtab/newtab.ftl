@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = 搜尋
     .aria-label = 搜尋
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = 使用 { $engine } 搜尋或輸入網址
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = 搜尋或輸入網址
     .title = 搜尋或輸入網址
     .aria-label = 搜尋或輸入網址
-
 newtab-search-box-text = 搜尋 Web
 newtab-search-box-input =
     .placeholder = 搜尋 Web
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = 編輯捷徑
 newtab-topsites-title-label = 標題
 newtab-topsites-title-input =
     .placeholder = 輸入標題
-
 newtab-topsites-url-label = 網址
 newtab-topsites-url-input =
     .placeholder = 輸入或貼上網址
 newtab-topsites-url-validation = 請輸入有效的網址
-
 newtab-topsites-image-url-label = 自訂圖片網址
 newtab-topsites-use-image-link = 使用自訂圖片…
 newtab-topsites-image-validation = 圖片載入失敗，請改用不同網址。
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = 贊助項目
 newtab-menu-section-tooltip =
     .title = 開啟選單
     .aria-label = 開啟選單
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = 移除
     .aria-label = 移除
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -158,17 +152,14 @@ newtab-label-removed-bookmark = 已移除書籤
 newtab-label-recommended = 熱門
 newtab-label-saved = 已儲存至 { -pocket-brand-name }
 newtab-label-download = 已下載
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · 贊助
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = 由 { $sponsor } 贊助
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -207,7 +198,6 @@ newtab-section-header-pocket = { $provider } 推薦
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 開始上網，我們就會把您在網路上發現的好文章、影片、剛加入書籤的頁面顯示於此。
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -232,10 +222,6 @@ newtab-pocket-learn-more = 了解更多
 newtab-pocket-cta-button = 取得 { -pocket-brand-name }
 newtab-pocket-cta-text = 將您喜愛的故事儲存到 { -pocket-brand-name }，閱讀一篇篇好文章。
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } 是 { -brand-product-name } 產品家族的一部份
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = 儲存
 newtab-pocket-saved = 已儲存
@@ -255,6 +241,9 @@ newtab-error-fallback-refresh-link = 請重新整理頁面再試一次。
 
 newtab-custom-shortcuts-title = 捷徑
 newtab-custom-shortcuts-subtitle = 您儲存或造訪過的網站
+newtab-custom-shortcuts-toggle =
+    .label = 捷徑
+    .description = 您儲存或造訪過的網站
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -264,9 +253,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = 贊助捷徑
 newtab-custom-pocket-title = 由 { -pocket-brand-name } 推薦
 newtab-custom-pocket-subtitle = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
+newtab-custom-pocket-toggle =
+    .label = 由 { -pocket-brand-name } 推薦
+    .description = 由 { -brand-product-name } 的姊妹作 { -pocket-brand-name } 精心策展的內容
 newtab-custom-pocket-sponsored = 贊助內容
 newtab-custom-pocket-show-recent-saves = 顯示近期儲存項目
 newtab-custom-recent-title = 近期動態
 newtab-custom-recent-subtitle = 近期造訪過的網站與內容精選
+newtab-custom-recent-toggle =
+    .label = 近期動態
+    .description = 近期造訪過的網站與內容精選
 newtab-custom-close-button = 關閉
 newtab-custom-settings = 管理更多設定
