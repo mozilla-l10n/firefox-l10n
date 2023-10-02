@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ຊອກຫາດ້ວຍ { $engine } ຫຼື ໃສ່ທີ່ຢູ່
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
     .title = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
     .aria-label = ຄົ້ນຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
-
 newtab-search-box-text = ຄົ້ນຫາເວັບໄຊທ
 newtab-search-box-input =
     .placeholder = ຄົ້ນຫາເວັບໄຊທ
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = ແກ້ໄຂທາງລັດ
 newtab-topsites-title-label = ຊື່ເລື່ອງ
 newtab-topsites-title-input =
     .placeholder = ປ້ອນຊື່ເລື່ອງ
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ພິມຫລືວາງ URL
 newtab-topsites-url-validation = ຕ້ອງການ URL ທີ່ຖືກຕ້ອງ
-
 newtab-topsites-image-url-label = URL ຮູບພາບທີ່ກຳນົດເອງ
 newtab-topsites-use-image-link = ໃຊ້ຮູບພາບທີ່ກຳນົດເອງ…
 newtab-topsites-image-validation = ການໂຫລດຮູບພາບລົ້ມເຫລວ. ລອງໃຊ້ URL ອື່ນ.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = ໄດ້ຮັບການສະຫນັບສະ�
 newtab-menu-section-tooltip =
     .title = ເປີດເມນູ
     .aria-label = ເປີດເມນູ
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ລຶບ
     .aria-label = ລຶບ
-
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ແກ້ໄຂເວັບໄຊທ໌ນີ້
@@ -156,17 +150,14 @@ newtab-label-removed-bookmark = ລຶບບຸກມາກອອກແລ້ວ
 newtab-label-recommended = ກຳລັງນິຍົມ
 newtab-label-saved = ບັນທຶກລົງໃນ { -pocket-brand-name } ແລ້ວ
 newtab-label-download = ດາວໂຫຼດແລ້ວ
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ສະປອນເຊີ
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = ສະໜັບສະໜູນໂດຍ { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -205,7 +196,6 @@ newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ເລີ່ມການທ່ອງເວັບ ແລະ ພວກເຮົາຈະສະແດງເນື້ອຫາ, ວິດີໂອ ແລະ ຫນ້າອື່ນໆບາງສ່ວນທີ່ທ່ານຫາກໍເຂົ້າໄປເບິງມາ ຫລື ຫາກໍໄດ້ບຸກມາກໄວ້ທີ່ນີ້.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -230,10 +220,6 @@ newtab-pocket-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 newtab-pocket-cta-button = ຮັບ { -pocket-brand-name }
 newtab-pocket-cta-text = ຊ່ວຍບັນທຶກເລື່ອງທີ່ທ່ານຮັກໃນ { -pocket-brand-name }, ແລະນ້ໍາໃຈຂອງທ່ານກັບອ່ານທີ່ຫນ້າສົນໃຈ.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } ແມ່ນສ່ວນໜຶ່ງຂອງຄອບຄົວ { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ບັນທຶກ
 newtab-pocket-saved = ບັນທຶກແລ້ວ
@@ -253,15 +239,24 @@ newtab-error-fallback-refresh-link = ຟື້ນຟູໜ້າເພື່ອ�
 
 newtab-custom-shortcuts-title = ທາງລັດ
 newtab-custom-shortcuts-subtitle = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
+newtab-custom-shortcuts-toggle =
+    .label = ທາງລັດ
+    .description = ເວັບໄຊທທີ່ທ່ານໄດ້ບັນທຶກໄວ້ ຫລື ເຂົ້າໄປເບິງມາ
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector = { $num } ແຖວ
 newtab-custom-sponsored-sites = ທາງລັດສະປອນເຊີ
 newtab-custom-pocket-title = ແນະນຳໂດຍ { -pocket-brand-name }
 newtab-custom-pocket-subtitle = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = ແນະນຳໂດຍ { -pocket-brand-name }
+    .description = ເນື້ອຫາພິເສດທີ່ຄັດສັນໂດຍ { -pocket-brand-name }, ສ່ວນຫນຶ່ງຂອງຄອບຄົວ { -brand-product-name }
 newtab-custom-pocket-sponsored = ເລື່ອງລາວທີ່ໄດ້ຮັບການສະຫນັບສະຫນູນ
 newtab-custom-pocket-show-recent-saves = ສະແດງບັນທຶກຫຼ້າສຸດ
 newtab-custom-recent-title = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
 newtab-custom-recent-subtitle = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
+newtab-custom-recent-toggle =
+    .label = ກິດ​ຈະ​ກໍາ​ທີ່​ຜ່ານ​ມາ
+    .description = ການເລືອກເວັບໄຊ ແລະເນື້ອຫາຫຼ້າສຸດ
 newtab-custom-close-button = ປິດ
 newtab-custom-settings = ຈັດການການຕັ້ງຄ່າເພີ່ມເຕີມ
