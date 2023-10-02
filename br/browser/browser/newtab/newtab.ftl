@@ -241,6 +241,9 @@ newtab-error-fallback-refresh-link = Adkargit ar bajenn evit klask en-dro.
 
 newtab-custom-shortcuts-title = Berradennoù
 newtab-custom-shortcuts-subtitle = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
+newtab-custom-shortcuts-toggle =
+    .label = Berradennoù
+    .description = Lec'hiennoù bet enrollet pe gweladennet ganeoc'h
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -254,9 +257,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Berradennoù paeroniet
 newtab-custom-pocket-title = Erbedet gant { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Danvezioù dibar dibabet gant { -pocket-brand-name }, ezel familh { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Erbedet gant { -pocket-brand-name }
+    .description = Danvezioù dibar dibabet gant { -pocket-brand-name }, ezel familh { -brand-product-name }
 newtab-custom-pocket-sponsored = Istorioù paeroniet
 newtab-custom-pocket-show-recent-saves = Diskouez an enrolladennoù diwezhañ
 newtab-custom-recent-title = Oberiantiz nevesañ
 newtab-custom-recent-subtitle = Un dibab lec'hiennoù ha danvezioù nevez
+newtab-custom-recent-toggle =
+    .label = Oberiantiz nevesañ
+    .description = Un dibab lec'hiennoù ha danvezioù nevez
 newtab-custom-close-button = Serriñ
 newtab-custom-settings = Merañ muioc'h a arventennoù
