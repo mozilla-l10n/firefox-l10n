@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = جستجو
     .aria-label = جستجو
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = با { $engine } جستجو یا آدرسی وارد کنید
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .title = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
     .aria-label = عبارتی برای جست‌وجو یا یک آدرس وارد کنید
-
 newtab-search-box-text = جست‌وجو در وب
 newtab-search-box-input =
     .placeholder = جستجو در وب
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = ویرایش میانبر
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = عنوان را وارد کنید
-
 newtab-topsites-url-label = نشانی
 newtab-topsites-url-input =
     .placeholder = یک نشانی بنویسید یا بچسبانید
 newtab-topsites-url-validation = نشانی معتبر الزامی است
-
 newtab-topsites-image-url-label = نشانیِ سفارشی عکس
 newtab-topsites-use-image-link = استفاده از یک عکس سفارشی…
 newtab-topsites-image-validation = بارگیری عکس شکست خورد. آدرس دیگری امتحان کنید.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = حمایت شده
 newtab-menu-section-tooltip =
     .title = باز کردن منو
     .aria-label = باز کردن منو
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = حذف
     .aria-label = حذف
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = نشانک حذف شد
 newtab-label-recommended = موضوعات داغ
 newtab-label-saved = در { -pocket-brand-name } ذخیره شد
 newtab-label-download = دریافت شد
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · حمایت مالی شده
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = حمایت شده توسط { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = پیشنهاد شده توسط { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = مرور کردن را شروع کنید و شاهد تعداد زیادی مقاله، فیلم و صفحات خوبی باشید که اخیر مشاهده کرده اید یا نشانگ گذاری کرده اید.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = اطلاعات بیشتر
 newtab-pocket-cta-button = دریافت { -pocket-brand-name }
 newtab-pocket-cta-text = مطالبی که دوست دارید را در { -pocket-brand-name } ذخیره کنید، و به ذهن خود با مطالب فوق‌العاده انرژی بدهید.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } بخشی از خانوادهٔ { -brand-product-name } است
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = ذخیره
 newtab-pocket-saved = ذخیره شد
@@ -258,6 +244,9 @@ newtab-error-fallback-refresh-link = برای تلاش مجدد صفحه را ن
 
 newtab-custom-shortcuts-title = میانبرها
 newtab-custom-shortcuts-subtitle = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید
+newtab-custom-shortcuts-toggle =
+    .label = میانبرها
+    .description = وب‌سایت‌هایی که ذخیره یا بازدید می‌کنید
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -268,9 +257,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = میانبرهای حمایت شده
 newtab-custom-pocket-title = توصیه‌های { -pocket-brand-name }
 newtab-custom-pocket-subtitle = محتوای استثنایی که توسط { -pocket-brand-name }، بخشی از خانواده { -brand-product-name } جمع‌آوری شده‌اند.
+newtab-custom-pocket-toggle =
+    .label = توصیه‌های { -pocket-brand-name }
+    .description = محتوای استثنایی که توسط { -pocket-brand-name }، بخشی از خانواده { -brand-product-name } جمع‌آوری شده‌اند.
 newtab-custom-pocket-sponsored = محتواهایی از حامیان مالی
 newtab-custom-pocket-show-recent-saves = نمایش ذخیره‌های اخیر
 newtab-custom-recent-title = فعالیت‌های اخیر
 newtab-custom-recent-subtitle = منتخبی از سایت‌ها و مطالب اخیر
+newtab-custom-recent-toggle =
+    .label = فعالیت‌های اخیر
+    .description = منتخبی از سایت‌ها و مطالب اخیر
 newtab-custom-close-button = بستن
 newtab-custom-settings = مدیریت تنظیمات بیشتر
