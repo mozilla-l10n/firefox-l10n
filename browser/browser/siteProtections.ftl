@@ -80,5 +80,9 @@ protections-not-blocking-social-media-trackers =
 # In its tooltip, we show the date when we started counting this number.
 protections-footer-blocked-tracker-counter = 已拦截 { $trackerCount } 个
     .tooltiptext = 自{ DATETIME($date, year: "numeric", month: "long", day: "numeric") }起
+# This text indicates the total number of trackers blocked on all sites.
+# It should be the same as protections-footer-blocked-tracker-counter;
+# this message is used to leave out the tooltip when the date is not available.
+protections-footer-blocked-tracker-counter-no-tooltip = 已拦截 { $trackerCount } 个
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone = 自{ DATETIME($date, year: "numeric", month: "long") }起，{ -brand-short-name } 拦截了超过 { $trackerCount } 个跟踪器
