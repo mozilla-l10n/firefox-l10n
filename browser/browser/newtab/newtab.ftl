@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = חיפוש
     .aria-label = חיפוש
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ‏ניתן לחפש עם { $engine } או להקליד כתובת
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = חיפוש או הכנסת כתובת
     .title = חיפוש או הכנסת כתובת
     .aria-label = חיפוש או הכנסת כתובת
-
 newtab-search-box-text = חיפוש ברשת
 newtab-search-box-input =
     .placeholder = חיפוש ברשת
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = עריכת קיצור דרך
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
-
 newtab-topsites-url-label = כתובת
 newtab-topsites-url-input =
     .placeholder = נא להקליד או להזין כתובת
 newtab-topsites-url-validation = נדרשת כתובת תקינה
-
 newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = ממומן
 newtab-menu-section-tooltip =
     .title = פתיחת תפריט
     .aria-label = פתיחת תפריט
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = הסרה
     .aria-label = הסרה
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,17 +150,14 @@ newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · ממומן
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = בחסות { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -209,7 +200,6 @@ newtab-section-header-pocket = מומלץ על־ידי { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ניתן להתחיל בגלישה ואנו נציג בפניך מספר כתבות, סרטונים ועמודים שונים מעולים בהם ביקרת לאחרונה או שהוספת לסימניות.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -230,10 +220,6 @@ newtab-pocket-learn-more = מידע נוסף
 newtab-pocket-cta-button = קבלת { -pocket-brand-name }
 newtab-pocket-cta-text = שמירת הסיפורים שאהבת ב־{ -pocket-brand-name } על מנת למלא את מחשבתך בקריאה מרתקת.
 newtab-pocket-pocket-firefox-family = ‏{ -pocket-brand-name } הוא חלק ממשפחת { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = שמירה
 newtab-pocket-saved = נשמר
@@ -253,6 +239,9 @@ newtab-error-fallback-refresh-link = נא לרענן את הדף כדי לנסו
 
 newtab-custom-shortcuts-title = קיצורי דרך
 newtab-custom-shortcuts-subtitle = אתרים ששמרת או ביקרת בהם
+newtab-custom-shortcuts-toggle =
+    .label = קיצורי דרך
+    .description = אתרים ששמרת או ביקרת בהם
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -263,9 +252,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = קיצורי דרך ממומנים
 newtab-custom-pocket-title = מומלץ על־ידי { -pocket-brand-name }
 newtab-custom-pocket-subtitle = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = מומלץ על־ידי { -pocket-brand-name }
+    .description = תוכן יוצא דופן שנבחר בקפידה על־ידי { -pocket-brand-name }, חלק ממשפחת { -brand-product-name }
 newtab-custom-pocket-sponsored = סיפורים ממומנים
 newtab-custom-pocket-show-recent-saves = הצגת שמירות אחרונות
 newtab-custom-recent-title = פעילות אחרונה
 newtab-custom-recent-subtitle = מבחר של אתרים ותכנים אחרונים
+newtab-custom-recent-toggle =
+    .label = פעילות אחרונה
+    .description = מבחר של אתרים ותכנים אחרונים
 newtab-custom-close-button = סגירה
 newtab-custom-settings = ניהול הגדרות נוספות
