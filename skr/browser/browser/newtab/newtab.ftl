@@ -245,6 +245,9 @@ newtab-error-fallback-refresh-link = ولدا کوشش کرݨ کیتے ورقے 
 
 newtab-custom-shortcuts-title = شارٹ کٹ
 newtab-custom-shortcuts-subtitle = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
+newtab-custom-shortcuts-toggle =
+    .label = شارٹ کٹ
+    .description = سائٹاں جہڑیاں تساں محفوظ کریندے یا ݙیہدے ہو
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
