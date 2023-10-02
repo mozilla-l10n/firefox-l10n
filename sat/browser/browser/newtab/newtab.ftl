@@ -243,6 +243,9 @@ newtab-error-fallback-refresh-link = ᱫᱩᱦᱲᱟᱹ ᱠᱩᱨᱩᱢᱩᱴᱩ
 
 newtab-custom-shortcuts-title = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
 newtab-custom-shortcuts-subtitle = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
+newtab-custom-shortcuts-toggle =
+    .label = ᱠᱷᱟᱴᱚᱢᱟᱪᱷᱟ
+    .description = ᱟᱢ ᱥᱟᱺᱪᱟᱣ ᱠᱟᱫ ᱟᱨ ᱵᱟᱝ ᱪᱟᱞᱟᱜ ᱠᱟᱱ ᱥᱟᱭᱤᱴ ᱠᱚ
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -254,9 +257,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = ᱠᱟᱹᱢᱤᱼᱤᱡ ᱠᱷᱟᱴᱚ ᱢᱟᱪᱷᱟ ᱠᱚ
 newtab-custom-pocket-title = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
 newtab-custom-pocket-subtitle = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
+newtab-custom-pocket-toggle =
+    .label = { -pocket-brand-name } ᱮᱛ ᱵᱟᱛᱟᱣᱟᱜ
+    .description = { -pocket-brand-name } ᱫᱚ { -brand-product-name } ᱜᱷᱟᱨᱚᱸᱡᱽ ᱨᱮᱱᱟᱜ ᱢᱤᱫ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱞᱮᱠᱷᱟᱛᱮ ᱠᱭᱩᱨᱮᱴ ᱠᱟᱱᱟ
 newtab-custom-pocket-sponsored = ᱜᱟᱲᱚ ᱠᱟᱱ ᱠᱟᱹᱦᱱᱤ ᱠᱚ
 newtab-custom-pocket-show-recent-saves = ᱱᱮᱱᱮ ᱥᱟᱧᱪᱟᱣ ᱠᱚ ᱫᱮᱠᱷᱟᱣ ᱢᱮ
 newtab-custom-recent-title = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
 newtab-custom-recent-subtitle = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
+newtab-custom-recent-toggle =
+    .label = ᱱᱤᱛᱚᱜᱟᱜ ᱠᱟᱹᱢᱤ ᱠᱚ
+    .description = ᱱᱚᱱᱮᱛᱚᱜᱟᱜ ᱥᱟᱭᱤᱴ ᱟᱨ ᱡᱤᱱᱤᱥ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱵᱟᱪᱷᱟᱣ
 newtab-custom-close-button = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 newtab-custom-settings = ᱥᱟᱡᱟᱣ ᱠᱚ ᱥᱚᱢᱵᱷᱲᱟᱣ ᱢᱮ
