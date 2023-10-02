@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Търсене
     .aria-label = Търсене
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Търсете с { $engine } или въведете адрес
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Търсете или въведете адрес
     .title = Търсете или въведете адрес
     .aria-label = Търсете или въведете адрес
-
 newtab-search-box-text = Търсене в интернет
 newtab-search-box-input =
     .placeholder = Търсене в мрежата
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Промяна на клавишна ко
 newtab-topsites-title-label = Заглавие
 newtab-topsites-title-input =
     .placeholder = Въведете заглавие
-
 newtab-topsites-url-label = Адрес
 newtab-topsites-url-input =
     .placeholder = Адрес
 newtab-topsites-url-validation = Необходим е валиден URL
-
 newtab-topsites-image-url-label = Адрес на изображение по желание
 newtab-topsites-use-image-link = Използване изображение по желание…
 newtab-topsites-image-validation = Изображението не може да бъде заредено. Опитайте с друг адрес.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Спонсорирано
 newtab-menu-section-tooltip =
     .title = Отваряне на меню
     .aria-label = Отваряне на меню
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Премахване
     .aria-label = Премахване
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -163,17 +157,14 @@ newtab-label-removed-bookmark = Отметката е премахната
 newtab-label-recommended = Тенденции
 newtab-label-saved = Запазено в { -pocket-brand-name }
 newtab-label-download = Изтеглено
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Спонсорирано
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Спонсорирано от { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -212,7 +203,6 @@ newtab-section-header-pocket = Препоръчано от { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Разглеждайте и тук ще ви покажем някои от най-добрите статии, видео и други страници, които сте посетили или отметнали наскоро.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,8 @@ newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -251,6 +239,9 @@ newtab-error-fallback-refresh-link = Презаредете страницата
 
 newtab-custom-shortcuts-title = Препратки
 newtab-custom-shortcuts-subtitle = Страници за преглед по-късно
+newtab-custom-shortcuts-toggle =
+    .label = Препратки
+    .description = Страници за преглед по-късно
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } ред
@@ -259,8 +250,14 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонсорирани препратки
 newtab-custom-pocket-title = Препоръчани от { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Препоръчани от { -pocket-brand-name }
+    .description = Изключително съдържание, подбрано от { -pocket-brand-name }, част от семейството на { -brand-product-name }
 newtab-custom-pocket-sponsored = Платени публикации
 newtab-custom-recent-title = Последна активност
 newtab-custom-recent-subtitle = Избрани страници и съдържание
+newtab-custom-recent-toggle =
+    .label = Последна активност
+    .description = Избрани страници и съдържание
 newtab-custom-close-button = Затваряне
 newtab-custom-settings = Настройки
