@@ -244,6 +244,9 @@ newtab-error-fallback-refresh-link = Agiorna sa pàgina pro torrare a proare.
 
 newtab-custom-shortcuts-title = Curtzadòrgios
 newtab-custom-shortcuts-subtitle = Sitos chi as sarvadu o bisitadu
+newtab-custom-shortcuts-toggle =
+    .label = Curtzadòrgios
+    .description = Sitos chi as sarvadu o bisitadu
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
