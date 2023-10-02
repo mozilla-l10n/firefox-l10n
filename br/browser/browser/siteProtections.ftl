@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Gwarezioù evit { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = Diweredekaat ar gwarez evit { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = Gweredekaat ar gwarez evit { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
