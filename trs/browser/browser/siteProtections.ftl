@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Sa dugûmi guendâ { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = Duna'àj sa dugumî guendâ { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = Nachrūn nej sa dugumî guendâ { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -86,6 +80,14 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } Narán riñanj
     }
     .tooltiptext = Āsij { DATETIME($date, year: "numeric", month: "long", day: "numeric") }
+# This text indicates the total number of trackers blocked on all sites.
+# It should be the same as protections-footer-blocked-tracker-counter;
+# this message is used to leave out the tooltip when the date is not available.
+protections-footer-blocked-tracker-counter-no-tooltip =
+    { $trackerCount ->
+        [one] 1 Narán riñanj
+       *[other] { $trackerCount } Narán riñanj
+    }
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
