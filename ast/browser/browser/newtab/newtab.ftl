@@ -26,12 +26,10 @@ newtab-topsites-edit-shortcut-header = Edición d'un atayu
 newtab-topsites-title-label = Títulu
 newtab-topsites-title-input =
     .placeholder = Introduz un títulu
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Teclexa o apiega una URL
 newtab-topsites-url-validation = Ríquese una URL válida
-
 newtab-topsites-image-url-label = URL d'imaxe personalizada
 newtab-topsites-use-image-link = Usar una imaxe personalizada…
 
@@ -57,12 +55,10 @@ newtab-confirm-delete-history-p2 = Esta aición nun pue desfacese.
 newtab-menu-section-tooltip =
     .title = Abrir el menú
     .aria-label = Abrir el menú
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Quitar
     .aria-label = Quitar
-
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = Editar esti sitiu
@@ -159,10 +155,8 @@ newtab-pocket-read-more = Temes populares:
 newtab-pocket-more-recommendations = Más recomendaciones
 newtab-pocket-learn-more = Lleer más
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -173,6 +167,9 @@ newtab-error-fallback-info = Meca, asocedió daqué malo al cargar esti contení
 
 newtab-custom-shortcuts-title = Atayos
 newtab-custom-shortcuts-subtitle = Sitios que guardes o visites
+newtab-custom-shortcuts-toggle =
+    .label = Atayos
+    .description = Sitios que guardes o visites
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } filera
@@ -181,5 +178,8 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Atayos patrocinaos
 newtab-custom-recent-title = Actividá recién
 newtab-custom-recent-subtitle = Una esbilla de los sitios y del conteníu recién
+newtab-custom-recent-toggle =
+    .label = Actividá recién
+    .description = Una esbilla de los sitios y del conteníu recién
 newtab-custom-close-button = Zarrar
 newtab-custom-settings = Xestionar más axustes
