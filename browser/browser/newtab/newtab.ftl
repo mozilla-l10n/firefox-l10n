@@ -241,6 +241,9 @@ newtab-error-fallback-refresh-link = Освежите страницу да би
 
 newtab-custom-shortcuts-title = Пречице
 newtab-custom-shortcuts-subtitle = Сачувани или посећени сајтови
+newtab-custom-shortcuts-toggle =
+    .label = Пречице
+    .description = Сачувани или посећени сајтови
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -252,6 +255,9 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Спонзорисане пречице
 newtab-custom-pocket-title = Препоруке из { -pocket-brand-name(case: "gen") }
 newtab-custom-pocket-subtitle = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
+newtab-custom-pocket-toggle =
+    .label = Препоруке из { -pocket-brand-name(case: "gen") }
+    .description = Изузетан садржај који уређује { -pocket-brand-name }, део породице { -brand-product-name }
 newtab-custom-pocket-sponsored = Спонзорисане приче
 newtab-custom-pocket-show-recent-saves = Прикажи недавно сачувано
 newtab-custom-recent-title = Недавна активност
