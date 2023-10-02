@@ -14,12 +14,6 @@ tracking-protection-icon-no-trackers-detected-container =
 ## Variables:
 ##   $host (String): the site's hostname
 
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = پارێزگاری ناچالاک بکە بۆ { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = پارێزگاری چالاک بکە بۆ { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
