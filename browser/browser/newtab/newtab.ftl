@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Ieškoti
     .aria-label = Ieškoti
-
 # Variables
 #  $engine (String): the name of the user's default search engine
 newtab-search-box-handoff-text = Įveskite adresą arba ieškokite per „{ $engine }“
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Įveskite adresą arba paieškos žodžius
     .title = Įveskite adresą arba paieškos žodžius
     .aria-label = Įveskite adresą arba paieškos žodžius
-
 newtab-search-box-text = Ieškokite saityne
 newtab-search-box-input =
     .placeholder = Ieškokite saityne
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Keisti leistuką
 newtab-topsites-title-label = Pavadinimas
 newtab-topsites-title-input =
     .placeholder = Įveskite pavadinimą
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Įveskite arba įklijuokite URL
 newtab-topsites-url-validation = Reikalingas tinkamas URL
-
 newtab-topsites-image-url-label = Kitoks paveikslo URL
 newtab-topsites-use-image-link = Naudoti kitą paveikslą…
 newtab-topsites-image-validation = Nepavyko įkelti paveikslo. Pabandykite kitokį URL.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Remiama
 newtab-menu-section-tooltip =
     .title = Atverti meniu
     .aria-label = Atverti meniu
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Pašalinti
     .aria-label = Pašalinti
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Adresyno įrašas pašalintas
 newtab-label-recommended = Populiaru
 newtab-label-saved = Įrašyta į „{ -pocket-brand-name }“
 newtab-label-download = Atsiųsta
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Rėmėjas
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
 newtab-label-sponsored-by = Rėmėjas: „{ $sponsor }“
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #  $source (String): This is the name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Rekomenduoja „{ $provider }“
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Pradėkite naršyti, o mes čia pateiksime puikių straipsnių, vaizdo įrašų bei kitų tinklalapių, kuriuose neseniai lankėtės ar įtraukėte į adresyną.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
@@ -237,10 +227,8 @@ newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
 newtab-pocket-pocket-firefox-family = „{ -pocket-brand-name }“ yra „{ -brand-product-name }“ šeimos dalis
 
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
+
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -252,6 +240,9 @@ newtab-error-fallback-refresh-link = Pabandykite iš naujo įkelti tinklalapį.
 
 newtab-custom-shortcuts-title = Leistukai
 newtab-custom-shortcuts-subtitle = Jūsų įrašytos arba lankomos svetainės
+newtab-custom-shortcuts-toggle =
+    .label = Leistukai
+    .description = Jūsų įrašytos arba lankomos svetainės
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } eilutė
@@ -261,8 +252,14 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Rėmėjų leistukai
 newtab-custom-pocket-title = Rekomenduoja „{ -pocket-brand-name }“
 newtab-custom-pocket-subtitle = Išskirtinis turinys, kuruojamas „{ -pocket-brand-name }“, kuri yra „{ -brand-product-name }“ šeimos dalis
+newtab-custom-pocket-toggle =
+    .label = Rekomenduoja „{ -pocket-brand-name }“
+    .description = Išskirtinis turinys, kuruojamas „{ -pocket-brand-name }“, kuri yra „{ -brand-product-name }“ šeimos dalis
 newtab-custom-pocket-sponsored = Rėmėjų straipsniai
 newtab-custom-recent-title = Paskiausia veikla
 newtab-custom-recent-subtitle = Paskiausiai lankytos svetainės ir žiūrėtas turinys
+newtab-custom-recent-toggle =
+    .label = Paskiausia veikla
+    .description = Paskiausiai lankytos svetainės ir žiūrėtas turinys
 newtab-custom-close-button = Užverti
 newtab-custom-settings = Keisti daugiau nuostatų
