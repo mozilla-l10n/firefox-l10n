@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Leita
     .aria-label = Leita
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Leitaðu með { $engine } eða settu inn vistfang
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Leitaðu eða settu inn vistfang
     .title = Leitaðu eða settu inn vistfang
     .aria-label = Leitaðu eða settu inn vistfang
-
 newtab-search-box-text = Leita á vefnum
 newtab-search-box-input =
     .placeholder = Leita á vefnum
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Breyta flýtilykli
 newtab-topsites-title-label = Titill
 newtab-topsites-title-input =
     .placeholder = Sláðu inn titil
-
 newtab-topsites-url-label = Vefslóð
 newtab-topsites-url-input =
     .placeholder = Slá inn eða líma vefslóð
 newtab-topsites-url-validation = Gildrar vefslóðar krafist
-
 newtab-topsites-image-url-label = Sérsniðin myndslóð
 newtab-topsites-use-image-link = Nota sérsniðna mynd…
 newtab-topsites-image-validation = Ekki tókst að hlaða mynd. Prófið aðra vefslóð.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Kostað
 newtab-menu-section-tooltip =
     .title = Opna valmynd
     .aria-label = Opna valmynd
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Fjarlægja
     .aria-label = Fjarlægja
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Bókamerki fjarlægt
 newtab-label-recommended = Vinsælt
 newtab-label-saved = Vistað í { -pocket-brand-name }
 newtab-label-download = Niðurhalað
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Kostað
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Styrkt af { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Með þessu mælir { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Byrjaðu að vafra og við sýnum þér frábærar greinar, myndbönd og önnur vefsvæði sem þú hefur nýverið heimsótt eða bókarmerkt.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Frekari upplýsingar
 newtab-pocket-cta-button = Sækja { -pocket-brand-name }
 newtab-pocket-cta-text = Vistaðu sögurnar sem þú elskar í { -pocket-brand-name } og fáðu innblástur í huga þinn með heillandi lesningu.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } er hluti af { -brand-product-name } fjölskyldunni
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Vista
 newtab-pocket-saved = Vistað
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Endurlestu síðu til að reyna aftur.
 
 newtab-custom-shortcuts-title = Flýtileiðir
 newtab-custom-shortcuts-subtitle = Vefsvæði sem þú vistar eða heimsækir
+newtab-custom-shortcuts-toggle =
+    .label = Flýtileiðir
+    .description = Vefsvæði sem þú vistar eða heimsækir
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -269,9 +258,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Kostaðar flýtileiðir
 newtab-custom-pocket-title = Mælt með af { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Úrvalsefni í umsjón { -pocket-brand-name }, hluta af { -brand-product-name } fjölskyldunni
+newtab-custom-pocket-toggle =
+    .label = Mælt með af { -pocket-brand-name }
+    .description = Úrvalsefni í umsjón { -pocket-brand-name }, hluta af { -brand-product-name } fjölskyldunni
 newtab-custom-pocket-sponsored = Kostaðar sögur
 newtab-custom-pocket-show-recent-saves = Sýna nýlega vistað
 newtab-custom-recent-title = Nýleg virkni
 newtab-custom-recent-subtitle = Úrval af nýlegum síðum og efni
+newtab-custom-recent-toggle =
+    .label = Nýleg virkni
+    .description = Úrval af nýlegum síðum og efni
 newtab-custom-close-button = Loka
 newtab-custom-settings = Sýsla með fleiri stillingar
