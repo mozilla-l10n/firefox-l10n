@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = Varnir fyrir { $host }
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = Slökkva á vörnum fyrir { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = Virkja varnir fyrir { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
