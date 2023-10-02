@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Tìm kiếm
     .aria-label = Tìm kiếm
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Tìm kiếm với { $engine } hoặc nhập địa chỉ
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Tìm kiếm hoặc nhập địa chỉ
     .title = Tìm kiếm hoặc nhập địa chỉ
     .aria-label = Tìm kiếm hoặc nhập địa chỉ
-
 newtab-search-box-text = Tìm kiếm trên mạng
 newtab-search-box-input =
     .placeholder = Tìm kiếm trên mạng
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Chỉnh sửa lối tắt
 newtab-topsites-title-label = Tiêu đề
 newtab-topsites-title-input =
     .placeholder = Nhập tiêu đề
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Nhập hoặc dán URL
 newtab-topsites-url-validation = Yêu cầu URL hợp lệ
-
 newtab-topsites-image-url-label = Hình ảnh Tuỳ chỉnh URL
 newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
 newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Được tài trợ
 newtab-menu-section-tooltip =
     .title = Mở bảng chọn
     .aria-label = Mở bảng chọn
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Gỡ bỏ
     .aria-label = Gỡ bỏ
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Đã xóa dấu trang
 newtab-label-recommended = Xu hướng
 newtab-label-saved = Đã lưu vào { -pocket-brand-name }
 newtab-label-download = Đã tải xuống
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Được tài trợ
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Được tài trợ bởi { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Được đề xuất bởi { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bắt đầu duyệt web và chúng tôi sẽ hiển thị một số bài báo, video, và các trang khác mà bạn đã xem hoặc đã đánh dấu tại đây.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Tìm hiểu thêm
 newtab-pocket-cta-button = Nhận { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } là một phần của gia đình { -brand-product-name }
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Lưu
 newtab-pocket-saved = Đã lưu
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Thử làm mới lại trang.
 
 newtab-custom-shortcuts-title = Lối tắt
 newtab-custom-shortcuts-subtitle = Các trang web bạn lưu hoặc truy cập
+newtab-custom-shortcuts-toggle =
+    .label = Lối tắt
+    .description = Các trang web bạn lưu hoặc truy cập
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -268,9 +257,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Các lối tắt được tài trợ
 newtab-custom-pocket-title = Được đề xuất bởi { -pocket-brand-name }
 newtab-custom-pocket-subtitle = Nội dung đặc biệt do { -pocket-brand-name }, một phần của { -brand-product-name }, quản lý
+newtab-custom-pocket-toggle =
+    .label = Được đề xuất bởi { -pocket-brand-name }
+    .description = Nội dung đặc biệt do { -pocket-brand-name }, một phần của { -brand-product-name }, quản lý
 newtab-custom-pocket-sponsored = Câu chuyện được tài trợ
 newtab-custom-pocket-show-recent-saves = Hiển thị các lần lưu gần đây
 newtab-custom-recent-title = Hoạt động gần đây
 newtab-custom-recent-subtitle = Tuyển chọn các trang và nội dung gần đây
+newtab-custom-recent-toggle =
+    .label = Hoạt động gần đây
+    .description = Tuyển chọn các trang và nội dung gần đây
 newtab-custom-close-button = Đóng
 newtab-custom-settings = Quản lý các cài đặt khác
