@@ -37,12 +37,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = A(z) { $host } webhelyen használt védelmek
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = Védelem kikapcsolása ennél: { $host }
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = Védelem bekapcsolása ennél: { $host }
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
@@ -90,6 +84,14 @@ protections-footer-blocked-tracker-counter =
        *[other] { $trackerCount } blokkolva
     }
     .tooltiptext = { DATETIME($date, year: "numeric", month: "long", day: "numeric") } óta
+# This text indicates the total number of trackers blocked on all sites.
+# It should be the same as protections-footer-blocked-tracker-counter;
+# this message is used to leave out the tooltip when the date is not available.
+protections-footer-blocked-tracker-counter-no-tooltip =
+    { $trackerCount ->
+        [one] 1 blokkolva
+       *[other] { $trackerCount } blokkolva
+    }
 # In English this looks like "Firefox blocked over 10,000 trackers since October 2019"
 protections-milestone =
     { $trackerCount ->
