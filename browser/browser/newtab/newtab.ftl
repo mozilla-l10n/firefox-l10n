@@ -20,7 +20,6 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Haku
     .aria-label = Haku
-
 # Variables:
 #   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Hae hakukoneella { $engine } tai kirjoita osoite
@@ -35,7 +34,6 @@ newtab-search-box-handoff-input-no-engine =
     .placeholder = Kirjoita osoite tai hakusana
     .title = Kirjoita osoite tai hakusana
     .aria-label = Kirjoita osoite tai hakusana
-
 newtab-search-box-text = Verkkohaku
 newtab-search-box-input =
     .placeholder = Verkkohaku
@@ -50,12 +48,10 @@ newtab-topsites-edit-shortcut-header = Muokkaa oikotietä
 newtab-topsites-title-label = Otsikko
 newtab-topsites-title-input =
     .placeholder = Kirjoita otsikko
-
 newtab-topsites-url-label = Osoite
 newtab-topsites-url-input =
     .placeholder = Kirjoita tai liitä osoite
 newtab-topsites-url-validation = Kelvollinen osoite vaaditaan
-
 newtab-topsites-image-url-label = Oman kuvan osoite
 newtab-topsites-use-image-link = Käytä omaa kuvaa…
 newtab-topsites-image-validation = Kuvan lataaminen epäonnistui. Kokeile toista osoitetta.
@@ -84,12 +80,10 @@ newtab-topsite-sponsored = Sponsoroitu
 newtab-menu-section-tooltip =
     .title = Avaa valikko
     .aria-label = Avaa valikko
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Poista
     .aria-label = Poista
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -162,17 +156,14 @@ newtab-label-removed-bookmark = Kirjanmerkki poistettu
 newtab-label-recommended = Pinnalla
 newtab-label-saved = Tallennettu { -pocket-brand-name }-palveluun
 newtab-label-download = Ladatut
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsoroitu
-
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorina { $sponsor }
-
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -211,7 +202,6 @@ newtab-section-header-pocket = Suositukset lähteestä { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Ala selata, niin tässä alkaa näkyä hyviä juttuja, videoita ja muita sivuja, joilla olet käynyt hiljattain tai jotka olet lisännyt kirjanmerkkeihin.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #   $provider (string) - Name of the content provider for this section, e.g "Pocket".
@@ -236,10 +226,6 @@ newtab-pocket-learn-more = Lue lisää
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
 newtab-pocket-pocket-firefox-family = { -pocket-brand-name } on osa { -brand-product-name }-perhettä
-
-## Pocket Final Card Section.
-## This is for the final card in the Pocket grid.
-
 # A save to Pocket button that shows over the card thumbnail on hover.
 newtab-pocket-save = Tallenna
 newtab-pocket-saved = Tallennettu
@@ -259,6 +245,9 @@ newtab-error-fallback-refresh-link = Yritä uudestaan päivittämällä sivu.
 
 newtab-custom-shortcuts-title = Oikotiet
 newtab-custom-shortcuts-subtitle = Tallentamasi tai vierailemasi sivustot
+newtab-custom-shortcuts-toggle =
+    .label = Oikotiet
+    .description = Tallentamasi tai vierailemasi sivustot
 # Variables
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
@@ -269,9 +258,15 @@ newtab-custom-row-selector =
 newtab-custom-sponsored-sites = Sponsoroidut oikotiet
 newtab-custom-pocket-title = { -pocket-brand-name } suosittelee
 newtab-custom-pocket-subtitle = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
+newtab-custom-pocket-toggle =
+    .label = { -pocket-brand-name } suosittelee
+    .description = Poikkeuksellista, valikoitua sisältöä { -pocket-brand-name }-palvelulta, osana { -brand-product-name }-perhettä
 newtab-custom-pocket-sponsored = Sponsoroidut tarinat
 newtab-custom-pocket-show-recent-saves = Näytä viimeisimmät tallennukset
 newtab-custom-recent-title = Viimeisin toiminta
 newtab-custom-recent-subtitle = Valikoima viimeisimpiä sivustoja ja sisältöä
+newtab-custom-recent-toggle =
+    .label = Viimeisin toiminta
+    .description = Valikoima viimeisimpiä sivustoja ja sisältöä
 newtab-custom-close-button = Sulje
 newtab-custom-settings = Muokkaa lisää asetuksia
