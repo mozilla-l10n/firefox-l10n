@@ -30,12 +30,6 @@ tracking-protection-icon-no-trackers-detected-container =
 
 # Header of the Protections Panel.
 protections-header = { $host } کے لئے حفاظت
-# Text that gets spoken by a screen reader if the button will disable protections.
-protections-disable =
-    .aria-label = { $host } کے لئے تحفظ غیرفعال کریں
-# Text that gets spoken by a screen reader if the button will enable protections.
-protections-enable =
-    .aria-label = { $host } کے لئے تحفظ فعال کریں
 
 ## Blocking and Not Blocking sub-views in the Protections Panel
 
