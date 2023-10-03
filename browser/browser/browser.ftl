@@ -912,6 +912,12 @@ unified-extensions-button-quarantined =
         Utvidelser
         Noen utvidelser er ikke tillatt
 
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = Avbryt
+    .accesskey = A
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } forhindret denne nettsiden fra å automatisk laste inn på nytt.
