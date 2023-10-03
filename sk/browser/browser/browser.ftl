@@ -919,6 +919,24 @@ unified-extensions-button-quarantined =
         Rozšírenia
         Niektoré rozšírenia nie sú povolené
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Ukončiť súkromnú reláciu
+    .tooltiptext = Ukončiť súkromnú reláciu
+reset-pbm-panel-heading = Ukončiť súkromnú reláciu?
+reset-pbm-panel-description = Týmto sa zatvoria všetky súkromné karty a odstráni sa história, súbory cookie a všetky ostatné údaje stránok.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Vždy sa opýtať
+    .accesskey = V
+reset-pbm-panel-cancel-button =
+    .label = Zrušiť
+    .accesskey = Z
+reset-pbm-panel-confirm-button =
+    .label = Odstrániť údaje relácie
+    .accesskey = O
+reset-pbm-panel-complete = Údaje súkromnej relácie boli odstránené
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } neumožnil tejto stránke automatické obnovenie obsahu.
