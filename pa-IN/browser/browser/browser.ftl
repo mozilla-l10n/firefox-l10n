@@ -920,6 +920,20 @@ unified-extensions-button-quarantined =
         ਇਕਸਟੈਨਸ਼ਨਾਂ
         ਕੁਝ ਇਕਸਟੈਨਸ਼ਨਾਂ ਦੀ ਇਜਾਜ਼ਤ ਨਹੀਂ ਹੈ
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸਮਾਪਤ ਕਰੋ
+    .tooltiptext = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸਮਾਪਤ ਕਰੋ
+reset-pbm-panel-heading = ਤੁਹਾਡਾ ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਸਮਾਪਤ ਕਰਨਾ ਹੈ?
+reset-pbm-panel-description = ਸਾਰੀਆਂ ਪ੍ਰਾਈਵੇਟ ਟੈਬਾਂ ਬੰਦ ਕਰੋ ਅਤੇ ਅਤੀਤ, ਕੂਕੀਜ਼ ਅਤੇ ਹੋਰ ਸਾਈਟ ਡਾਟਾ ਹਟਾ ਦਿਓ।
+reset-pbm-panel-always-ask-checkbox =
+    .label = ਹਮੇਸ਼ਾਂ ਮੈਨੂੰ ਪੁੱਛੋ
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = ਰੱਦ ਕਰੋ
+    .accesskey = C
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ਨੇ ਇਸ ਸਫ਼ੇ ਨੂੰ ਆਟੋਮੈਟਿਕ ਹੀ ਮੁੜ-ਲੋਡ ਕਰਨ ਤੋਂ ਰੋਕ ਦਿੱਤਾ ਹੈ।
