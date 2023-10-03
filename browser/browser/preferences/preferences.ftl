@@ -545,7 +545,7 @@ home-prefs-shortcuts-header =
     .label = Zwjazanja
 home-prefs-shortcuts-description = Sydła, kotrež składujeće abo wopytujeće
 home-prefs-shortcuts-by-option-sponsored =
-    .label = Sponsorowane zwjazanja
+    .label = Sponserowane zwjazanja
 
 ## Variables:
 ##  $provider (string) - Name of the corresponding content provider, e.g "Pocket".
@@ -558,7 +558,7 @@ home-prefs-recommended-by-description-new = Wosebite wobsah, wubrany přez { $pr
 
 home-prefs-recommended-by-learn-more = Kak funguje
 home-prefs-recommended-by-option-sponsored-stories =
-    .label = Sponsorowane stawizny
+    .label = Sponserowane stawizny
 home-prefs-recommended-by-option-recent-saves =
     .label = Najnowše składowanja pokazać
 home-prefs-highlights-option-visited-pages =

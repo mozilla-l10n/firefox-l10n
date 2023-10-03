@@ -72,7 +72,7 @@ newtab-confirm-delete-history-p2 = Tuta akcija njeda so cofnyć.
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = Sponsorowany
+newtab-topsite-sponsored = Sponserowany
 
 ## Context Menu - Action Tooltips.
 
@@ -112,7 +112,7 @@ newtab-menu-show-privacy-info = Naši sponsorojo a waša priwatnosć
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Dokónčene
-newtab-privacy-modal-button-manage = Nastajenja sponsorowaneho wobsaha rjadować
+newtab-privacy-modal-button-manage = Nastajenja sponserowaneho wobsaha rjadować
 newtab-privacy-modal-header = Waša priwatnosć je wažna
 newtab-privacy-modal-paragraph-2 =
     Přidatnje k napowědanju putawych powědančkow, pokazujemy wam tež relewantny, 
@@ -159,11 +159,11 @@ newtab-label-download = Sćehnjeny
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } - sponsorowane
+newtab-label-sponsored = { $sponsorOrSource } - sponserowane
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #   $sponsor (string) - The name of a sponsor
-newtab-label-sponsored-by = Sponsorowany wot { $sponsor }
+newtab-label-sponsored-by = Sponserowany wot { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
 #   $source (string) - The name of a company or their domain
@@ -257,13 +257,13 @@ newtab-custom-row-selector =
         [few] { $num } linki
        *[other] { $num } linkow
     }
-newtab-custom-sponsored-sites = Sponsorowane zwjazanja
+newtab-custom-sponsored-sites = Sponserowane zwjazanja
 newtab-custom-pocket-title = Wot { -pocket-brand-name } doporučene
 newtab-custom-pocket-subtitle = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
 newtab-custom-pocket-toggle =
     .label = Wot { -pocket-brand-name } doporučene
     .description = Wosebite wobsah, wubrany přez { -pocket-brand-name }, dźěla swójby { -brand-product-name }
-newtab-custom-pocket-sponsored = Sponsorowane stawizny
+newtab-custom-pocket-sponsored = Sponserowane stawizny
 newtab-custom-pocket-show-recent-saves = Najnowše składowanja pokazać
 newtab-custom-recent-title = Najnowša aktiwita
 newtab-custom-recent-subtitle = Wuběr najnowšich sydłow a najnowšeho wobsaha
