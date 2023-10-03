@@ -915,6 +915,20 @@ unified-extensions-button-quarantined =
         Kiegészítők
         Egyes kiegészítők nem engedélyezettek
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Privát munkamenet lezárása
+    .tooltiptext = Privát munkamenet lezárása
+reset-pbm-panel-heading = Befejezi a privát munkamenetet?
+reset-pbm-panel-description = Az összes privát lap bezárása, valamint az előzmények, sütik és az összes oldaladat törlése.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Rákérdezés mindig
+    .accesskey = R
+reset-pbm-panel-cancel-button =
+    .label = Mégse
+    .accesskey = M
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = A { -brand-short-name } megakadályozta, hogy az oldal automatikusan újratöltődjön.
