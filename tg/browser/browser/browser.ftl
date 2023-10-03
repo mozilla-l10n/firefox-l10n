@@ -912,6 +912,20 @@ unified-extensions-button-quarantined =
         Васеъшавиҳо
         Баъзе васеъшавиҳо иҷозат дода намешаванд
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Анҷом додани ҷаласаи хусусӣ
+    .tooltiptext = Анҷом додани ҷаласаи хусусӣ
+reset-pbm-panel-heading = Ҷаласаи хусусии худро ба анҷом мерасонед?
+reset-pbm-panel-cancel-button =
+    .label = Бекор кардан
+    .accesskey = Б
+reset-pbm-panel-confirm-button =
+    .label = Нест кардани маълумоти ҷаласа
+    .accesskey = Н
+reset-pbm-panel-complete = Маълумоти ҷаласаи хусусӣ нест карда шуд
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ин саҳифаро аз боркунии дубораи худкор манъ кард.
