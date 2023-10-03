@@ -914,9 +914,15 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = Spør meg alltid
+    .accesskey = S
 reset-pbm-panel-cancel-button =
     .label = Avbryt
     .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Slett øktdata
+    .accesskey = S
 
 ## Autorefresh blocker
 
