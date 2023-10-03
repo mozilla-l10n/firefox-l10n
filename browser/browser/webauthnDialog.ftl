@@ -11,7 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Net krekte pinkoade. Probearje it opnij.
 webauthn-pin-required-prompt = Fier de pinkoade foar jo apparaat yn.
-
+webauthn-select-sign-result-unknown-account = Unbekende account
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
