@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         הרחבות
         חלק מההרחבות אינן מורשות
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = סיום הפעלה פרטית
+    .tooltiptext = סיום הפעלה פרטית
+reset-pbm-panel-heading = לסיים את ההפעלה הפרטית שלך?
+reset-pbm-panel-description = סגירת כל הלשוניות הפרטיות ומחיקת היסטוריה, עוגיות וכל שאר נתוני האתרים.
+reset-pbm-panel-always-ask-checkbox =
+    .label = תמיד לשאול אותי
+    .accesskey = ת
+reset-pbm-panel-cancel-button =
+    .label = ביטול
+    .accesskey = ב
+reset-pbm-panel-confirm-button =
+    .label = מחיקת נתוני הפעלה
+    .accesskey = מ
+reset-pbm-panel-complete = נתוני ההפעלה הפרטית נמחקו
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = ‏{ -brand-short-name } מנע מעמוד זה לטעון את עצמו מחדש באופן אוטומטי.
