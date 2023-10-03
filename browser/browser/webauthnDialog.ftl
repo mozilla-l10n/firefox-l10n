@@ -11,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Feil PIN-kode. Prøv igjen.
 webauthn-pin-required-prompt = Skriv inn PIN-kode for denne enheten.
+webauthn-select-sign-result-unknown-account = Ukjent konto
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
