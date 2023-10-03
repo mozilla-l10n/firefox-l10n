@@ -912,6 +912,22 @@ unified-extensions-button-quarantined =
         Utvidingar
         Nokre utvidingar er ikkje tillatne
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Avslutt privat økt
+    .tooltiptext = Avslutt privat økt
+reset-pbm-panel-heading = Avslutte privat økt?
+reset-pbm-panel-always-ask-checkbox =
+    .label = Spør meg alltid
+    .accesskey = S
+reset-pbm-panel-cancel-button =
+    .label = Avbryt
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Slett øktdata
+    .accesskey = S
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } hindra denne nettsida frå å automatisk laste på nytt.
