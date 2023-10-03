@@ -918,6 +918,7 @@ reset-pbm-toolbar-button =
     .label = Clauder session private
     .tooltiptext = Clauder session private
 reset-pbm-panel-heading = Clauder tu session private?
+reset-pbm-panel-description = Clauder tote le schedas private e eliminar le chronologia, le cookies e tote le altere datos del sito.
 reset-pbm-panel-always-ask-checkbox =
     .label = Sempre demandar me
     .accesskey = S
