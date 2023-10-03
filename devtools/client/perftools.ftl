@@ -21,6 +21,7 @@ perftools-heading-features-default = Tính năng (Được khuyến nghị bật
 perftools-heading-features-disabled = Tính năng đã tắt
 perftools-heading-features-experimental = Thử nghiệm
 perftools-heading-threads = Luồng
+perftools-heading-threads-jvm = Luồng JVM
 perftools-heading-local-build = Bản dựng cục bộ
 
 ##
@@ -80,6 +81,12 @@ perftools-thread-img-decoder =
     .title = Luồng giải mã hình ảnh
 perftools-thread-dns-resolver =
     .title = Phân giải DNS xảy ra trên luồng này
+perftools-thread-jvm-gecko =
+    .title = Luồng chính Gecko JVM
+perftools-thread-jvm-nimbus =
+    .title = Luồng chính cho Nimbus experiments SDK
+perftools-thread-jvm-glean =
+    .title = Luồng chính cho Glean telemetry SDK
 
 ##
 
@@ -108,6 +115,9 @@ perftools-presets-media-label = Đa phương tiện
 perftools-presets-media-description2 = Giá trị đặt trước để điều tra lỗi âm thanh và video trong { -brand-shorter-name }.
 perftools-presets-networking-label = Kết nối mạng
 perftools-presets-networking-description = Giá trị đặt trước để điều tra lỗi mạng trong { -brand-shorter-name }.
+# "Power" is used in the sense of energy (electricity used by the computer).
+perftools-presets-power-label = Điện năng
+perftools-presets-power-description = Giá trị đặt trước để điều tra lỗi sử dụng điện năng trong { -brand-shorter-name }, với chi phí thấp.
 perftools-presets-custom-label = Tùy chọn
 
 ##
