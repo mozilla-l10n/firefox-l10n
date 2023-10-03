@@ -11,7 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Helytelen PIN-kód. Próbálja meg újra.
 webauthn-pin-required-prompt = Adja meg az eszköze PIN-kódját.
-
+webauthn-select-sign-result-unknown-account = Ismeretlen fiók
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
