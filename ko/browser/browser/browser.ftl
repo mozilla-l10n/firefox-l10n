@@ -924,6 +924,7 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button =
     .label = 세션 데이터 삭제
     .accesskey = D
+reset-pbm-panel-complete = 사생활 보호 데이터 삭제됨
 
 ## Autorefresh blocker
 
