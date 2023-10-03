@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         გაფართოებები
         ზოგი გაფართოება არაა ნებადართული
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = პირადი სეანსის დასრულება
+    .tooltiptext = პირადი სეანსის დასრულება
+reset-pbm-panel-heading = დასრულდეს პირადი სეანსი?
+reset-pbm-panel-description = დაიხუროს ყველა პირადი ჩანართი და წაიშალოს ისტორია, ფუნთუშები და საიტის სხვა მონაცემები.
+reset-pbm-panel-always-ask-checkbox =
+    .label = შეკითხვა ყოველ ჯერზე
+    .accesskey = ჯ
+reset-pbm-panel-cancel-button =
+    .label = გაუქმება
+    .accesskey = ქ
+reset-pbm-panel-confirm-button =
+    .label = სეანსის მონაცემების წაშლა
+    .accesskey = წ
+reset-pbm-panel-complete = პირადი სეანსის მონაცემები გასუფთავებულია
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ამ გვერდის თვითგანახლებას კრძალავს.
