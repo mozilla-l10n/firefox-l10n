@@ -915,6 +915,24 @@ unified-extensions-button-quarantined =
         Utwreidingen
         Guon útwreidingen binne net tastien
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Priveesesje beëinigje
+    .tooltiptext = Priveesesje beëinigje
+reset-pbm-panel-heading = Jo priveesesje beëinigje?
+reset-pbm-panel-description = Alle priveeljepblêden slute en skiednis, cookies en alle oare websitegegevens fuortsmite.
+reset-pbm-panel-always-ask-checkbox =
+    .label = My altyd freegje
+    .accesskey = M
+reset-pbm-panel-cancel-button =
+    .label = Annulearje
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Sesjegegevens fuortsmite
+    .accesskey = g
+reset-pbm-panel-complete = Priveesesjegegevens fuortsmiten
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } hat opkeard dat dizze side automatysk opnij laden waard.
