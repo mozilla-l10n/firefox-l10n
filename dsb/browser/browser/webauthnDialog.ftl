@@ -13,6 +13,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Wopacny PIN. Wopytajśo hyšći raz.
 webauthn-pin-required-prompt = Pšosym zapódajśo PIN za swój rěd.
+webauthn-select-sign-result-unknown-account = Njeznate konto
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
