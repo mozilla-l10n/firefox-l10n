@@ -11,7 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN incorrecto. Pruebe de nuevo
 webauthn-pin-required-prompt = Ingrese el PIN del dispositivo.
-
+webauthn-select-sign-result-unknown-account = Cuenta desconocida
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
