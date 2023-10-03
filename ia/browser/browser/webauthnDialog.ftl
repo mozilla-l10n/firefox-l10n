@@ -11,7 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN errate. Retenta.
 webauthn-pin-required-prompt = Insere le PIN pro tu apparato.
-
+webauthn-select-sign-result-unknown-account = Conto incognite
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

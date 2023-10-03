@@ -912,6 +912,23 @@ unified-extensions-button-quarantined =
         Extensiones
         Alcun extensiones non es permittite
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Clauder session private
+    .tooltiptext = Clauder session private
+reset-pbm-panel-heading = Clauder tu session private?
+reset-pbm-panel-always-ask-checkbox =
+    .label = Sempre demandar me
+    .accesskey = S
+reset-pbm-panel-cancel-button =
+    .label = Cancellar
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Deler le datos del session
+    .accesskey = D
+reset-pbm-panel-complete = Datos de session private delite
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedite que iste pagina se recarga automaticamente.
