@@ -908,6 +908,24 @@ unified-extensions-button-quarantined =
         Tiện ích mở rộng
         Vài tiện ích mở rộng không được phép
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Kết thúc phiên riêng tư
+    .tooltiptext = Kết thúc phiên riêng tư
+reset-pbm-panel-heading = Kết thúc phiên riêng tư của bạn?
+reset-pbm-panel-description = Đóng tất cả các thẻ riêng tư và xóa lịch sử, cookie cũng như tất cả dữ liệu trang web khác.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Luôn hỏi tôi
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Hủy bỏ
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Xoá dữ liệu phiên
+    .accesskey = D
+reset-pbm-panel-complete = Đã xóa dữ liệu phiên riêng tư
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } đã ngăn trang web này tự động tải lại.

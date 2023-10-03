@@ -7,7 +7,7 @@
 webauthn-pin-invalid-long-prompt = Mã PIN không chính xác. Bạn còn { $retriesLeft } lần thử trước khi vĩnh viễn mất quyền truy cập vào thông tin đăng nhập trên thiết bị này.
 webauthn-pin-invalid-short-prompt = PIN không đúng. Thử lại.
 webauthn-pin-required-prompt = Vui lòng nhập mã PIN cho thiết bị của bạn.
-
+webauthn-select-sign-result-unknown-account = Tài khoản không xác định
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = Xác minh người dùng không thành công. Bạn còn { $retriesLeft } lần thử. Hãy thử lại.
