@@ -65,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Indtast hovedadgangskode
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Læs mere</a>
 firefoxview-tabpickup-signed-out-header = Log ind for at genoprette forbindelse
 firefoxview-tabpickup-signed-out-description = Log ind på din { -fxaccount-brand-name } for at genoprette forbindelsen og hente dine faneblade.
+firefoxview-tabpickup-signed-out-description2 = Log ind på din konto for at genoprette forbindelsen og hente dine faneblade.
 firefoxview-tabpickup-signed-out-primarybutton = Log ind
 firefoxview-tabpickup-syncing = Vent, mens vi synkroniserer dine faneblade. Det tager kun et øjeblik.
 firefoxview-mobile-promo-header = Hent faneblade fra din telefon eller tablet
@@ -205,9 +206,6 @@ firefoxview-import-history-description = Gør { -brand-short-name } til din fore
 firefoxview-recentlyclosed-empty-header = Lukkede du et faneblad for hurtigt?
 firefoxview-recentlyclosed-empty-description = Her kan du finde faneblade, du har lukket for nyligt. Så kan du hurtigt åbne nogen af dem igen.
 firefoxview-recentlyclosed-empty-description-two = Besøg din <a data-l10n-name="history-url">browserhistorik</a> for at se faneblade, du har besøgt for længere tid siden.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
