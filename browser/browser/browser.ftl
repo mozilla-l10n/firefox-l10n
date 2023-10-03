@@ -918,6 +918,7 @@ reset-pbm-toolbar-button =
     .label = Encerrar sessão privativa
     .tooltiptext = Encerrar sessão privativa
 reset-pbm-panel-heading = Encerrar a sessão privativa?
+reset-pbm-panel-description = Fecha todas as abas privativas e apaga histórico, cookies e todos os outros dados de sites.
 reset-pbm-panel-always-ask-checkbox =
     .label = Sempre perguntar
     .accesskey = S
@@ -927,6 +928,7 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button =
     .label = Excluir dados da sessão
     .accesskey = x
+reset-pbm-panel-complete = Dados da sessão privativa excluídos
 
 ## Autorefresh blocker
 
