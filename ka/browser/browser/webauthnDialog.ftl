@@ -11,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = არასწორი PIN. სცადეთ ხელახლა.
 webauthn-pin-required-prompt = შეიყვანეთ PIN თქვენი მოწყობილობისთვის.
+webauthn-select-sign-result-unknown-account = უცნობი ანგარიში
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
