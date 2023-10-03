@@ -908,6 +908,23 @@ unified-extensions-button-quarantined =
         확장 기능
         일부 확장 기능은 허용되지 않음
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = 사생활 보호 세션 종료
+    .tooltiptext = 사생활 보호 세션 종료
+reset-pbm-panel-heading = 사생활 보호 세션을 종료하시겠습니까?
+reset-pbm-panel-description = 모든 사생활 보호 탭을 닫고 기록, 쿠키 및 기타 모든 사이트 데이터를 삭제합니다.
+reset-pbm-panel-always-ask-checkbox =
+    .label = 항상 묻기
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = 취소
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = 세션 데이터 삭제
+    .accesskey = D
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }가 이 페이지를 자동으로 다시 로드하지 못하도록 차단했습니다.
