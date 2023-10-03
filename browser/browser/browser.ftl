@@ -923,6 +923,24 @@ unified-extensions-button-quarantined =
         Rozšyrjenja
         Někotare rozšyrjenja njejsu dowólone
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Priwatne pósejźenje skóńcyś
+    .tooltiptext = Priwatne pósejźenje skóńcyś
+reset-pbm-panel-heading = Priwatne pósejźenje skóńcyś?
+reset-pbm-panel-description = Zacyńśo wšykne priwatne rejtariki a lašujśo historiju, cookieje a wšykne druge sedłowe daty.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Pśecej se pšašaś
+    .accesskey = P
+reset-pbm-panel-cancel-button =
+    .label = Pśetergnuś
+    .accesskey = t
+reset-pbm-panel-confirm-button =
+    .label = Pósejźeńske daty lašowaś
+    .accesskey = l
+reset-pbm-panel-complete = Priwatne pósejźeńske daty su se wulašowali
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } jo toś ten bok pśi awtomatiskem znowegocytanju zajźował.
