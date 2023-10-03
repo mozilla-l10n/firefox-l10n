@@ -928,6 +928,10 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = Mégse
     .accesskey = M
+reset-pbm-panel-confirm-button =
+    .label = Munkamenet-adatok törlése
+    .accesskey = t
+reset-pbm-panel-complete = A privát munkamenet adatai törölve
 
 ## Autorefresh blocker
 
