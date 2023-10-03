@@ -923,6 +923,24 @@ unified-extensions-button-quarantined =
         Razširitve
         Nekatere razširitve niso dovoljene
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Končaj zasebno sejo
+    .tooltiptext = Končaj zasebno sejo
+reset-pbm-panel-heading = Želite končati zasebno sejo?
+reset-pbm-panel-description = Zaprite vse zasebne zavihke ter izbrišite zgodovino, piškotke in druge podatke strani.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Vedno me vprašaj
+    .accesskey = V
+reset-pbm-panel-cancel-button =
+    .label = Prekliči
+    .accesskey = k
+reset-pbm-panel-confirm-button =
+    .label = Izbriši podatke seje
+    .accesskey = I
+reset-pbm-panel-complete = Podatki zasebne seje so izbrisani
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } je preprečil samodejno ponovno nalaganje te strani.

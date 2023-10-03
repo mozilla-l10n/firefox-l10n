@@ -13,7 +13,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Napačen PIN. Poskusite znova.
 webauthn-pin-required-prompt = Vnesite PIN svoje naprave.
-
+webauthn-select-sign-result-unknown-account = Neznan račun
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
