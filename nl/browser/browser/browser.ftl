@@ -915,6 +915,24 @@ unified-extensions-button-quarantined =
         Extensies
         Sommige extensies zijn niet toegestaan
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Privésessie beëindigen
+    .tooltiptext = Privésessie beëindigen
+reset-pbm-panel-heading = Uw privésessie beëindigen?
+reset-pbm-panel-description = Alle privétabbladen sluiten en geschiedenis, cookies en alle andere websitegegevens verwijderen.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Mij altijd vragen
+    .accesskey = M
+reset-pbm-panel-cancel-button =
+    .label = Annuleren
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Sessiegegevens verwijderen
+    .accesskey = w
+reset-pbm-panel-complete = Privésessiegegevens verwijderd
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } heeft voorkomen dat deze pagina automatisch werd herladen.
