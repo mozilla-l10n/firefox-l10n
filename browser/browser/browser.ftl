@@ -906,6 +906,9 @@ unified-extensions-button-quarantined =
         扩展
         已禁用部分扩展
 
+## Private browsing reset button
+
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } 阻止了此页面自动重新加载。
