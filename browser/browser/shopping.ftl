@@ -6,6 +6,13 @@ shopping-page-title = { -brand-product-name } ਖਰੀਦਦਾਰੀ
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = ਰੀਵਿਊ ਚੈਕਰ
+shopping-beta-marker = ਬੀਟਾ
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = ਰੀਵਿਊ ਚੈਕਰ - ਬੀਟਾ
 shopping-close-button =
     .title = ਬੰਦ ਕਰੋ
 # This string is for notifying screen reader users that the
@@ -31,33 +38,23 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
-shopping-message-bar-warning-stale-analysis-message = 60 ਸਕਿੰਟਾਂ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾਣਕਾਰੀ ਲੈਣ ਲਈ { -fakespot-brand-full-name } ਵਿਸ਼ਲੇਸ਼ਣ ਚਲਾਓ।
-shopping-message-bar-generic-error-title = ਵਿਸ਼ਲੇਸ਼ਣ ਹਾਲੇ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
+shopping-message-bar-warning-stale-analysis-message-2 = ਜਾਂਚ ਲਈ ਨਵੀਂ ਜਾਣਕਾਰੀ
+shopping-message-bar-warning-stale-analysis-button = ਹੁਣੇ ਜਾਂਚੋ
+shopping-message-bar-generic-error-title2 = ਹਾਲੇ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ
 shopping-message-bar-generic-error-message = ਅਸੀਂ ਮਸਲਾ ਠੀਕ ਕਰਨ ਲਈ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ। ਫ਼ੇਰ ਵਾਪਸ ਦੇਖਿਓ।
 shopping-message-bar-warning-not-enough-reviews-title = ਹਾਲੇ ਚੋਖੇ ਰੀਵਿਊ ਨਹੀਂ ਹਨ
-shopping-message-bar-warning-not-enough-reviews-message = ਜਦੋਂ ਉਪਤਾਦ ਲਈ ਹੋਰ ਰੀਵਿਊ ਹੁੰਦੇ ਹਨ ਤਾਂ ਅਸੀਂ ਉਹਨਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰ ਸਕਦੇ ਹਾਂ
+shopping-message-bar-warning-not-enough-reviews-message2 = ਜਦੋਂ ਉਪਤਾਦ ਲਈ ਹੋਰ ਰੀਵਿਊ ਹੁੰਦੇ ਹਨ ਤਾਂ ਅਸੀਂ ਉਹਨਾਂ ਦੀ ਕੁਆਲਟੀ ਚੈਕ ਕਰ ਸਕਦੇ ਹਾਂ।
 shopping-message-bar-warning-product-not-available-title = ਉਤਪਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
-shopping-message-bar-warning-product-not-available-message = ਜੇ ਤੁਹਾਨੂੰ ਇਹ ਉਤਪਾਦ ਵਾਪਸ ਸਟਾਕ ਵਿੱਚ ਮਿਲੇ ਤਾਂ ਸਾਨੂੰ ਇਸ ਬਾਰੇ ਦੱਸਿਓ ਅਤੇ ਅਸੀਂ ਵਿਸ਼ਲੇਸ਼ਨ ਅੱਪਡੇਟ ਕਰਾਂਗੇ।
+shopping-message-bar-warning-product-not-available-message2 = ਜੇ ਤੁਹਾਨੂੰ ਉਹ ਉਤਪਾਦ ਵਾਪਸ ਸਟਾਕ ਵਿੱਚ ਮਿਲੇ ਤਾਂ ਸਾਨੂੰ ਇਸ ਬਾਰੇ ਦੱਸਿਓ ਅਤੇ ਅਸੀਂ ਰੀਵਿਊ ਦੀ ਜਾਂਚ ਕਰਾਂਗੇ।
 shopping-message-bar-warning-product-not-available-button = ਇਸ ਉਤਪਾਦ ਦੇ ਸਟਾਕ ਵਿੱਚ ਵਾਪਸ ਹੋਣ ਦੀ ਜਾਣਕਾਰੀ ਦਿਓ
 shopping-message-bar-thanks-for-reporting-title = ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਧੰਨਵਾਦ!
-shopping-message-bar-thanks-for-reporting-message = ਸਾਡੇ ਕੋਲ ਵਿਸ਼ਲੇਸ਼ਣ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
-shopping-message-bar-warning-product-not-available-reported-title = ਵਿਸ਼ਲੇਸ਼ਣ ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ
-shopping-message-bar-warning-product-not-available-reported-message = ਅੱਪਡੇਟ ਕੀਤਾ ਵਿਸ਼ਲੇਸ਼ਣ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਤਿਆਰ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
-shopping-message-bar-warning-offline-title = ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ
-shopping-message-bar-warning-offline-message = ਆਪਣੇ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ। ਫ਼ੇਰ ਸਫ਼ੇ ਨੂੰ ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
-shopping-message-bar-analysis-in-progress-title = ਵਿਸ਼ਲੇਸ਼ਣ ਛੇਤੀ ਆ ਰਿਹਾ ਹੈ
-shopping-message-bar-analysis-in-progress-message = ਜਦ ਇਹ ਹੋ ਗਿਆ ਤਾਂ ਅਸੀਂ ਆਪਣੇ-ਆਪ ਹੀ ਅੱਪਡੇਟ ਕੀਤੀ ਜਾਣਕਾਰੀ ਇੱਥੇ ਦਿਖਾਵਾਂਗੇ।
+shopping-message-bar-thanks-for-reporting-message2 = ਸਾਡੇ ਕੋਲ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
+shopping-message-bar-warning-product-not-available-reported-title2 = ਜਾਣਕਾਰੀ ਛੇਤੀ ਹੀ ਆ ਰਹੀ ਹੈ
+shopping-message-bar-warning-product-not-available-reported-message2 = ਸਾਡੇ ਕੋਲ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
+shopping-message-bar-analysis-in-progress-title2 = ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ
+shopping-message-bar-analysis-in-progress-message2 = ਇਸ ਨੂੰ ਲਗਭਗ 60 ਸਕਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।
 shopping-message-bar-page-not-supported-title = ਅਸੀਂ ਇਹ ਰੀਵਿਊਆਂ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ
 shopping-message-bar-page-not-supported-message = ਅਫ਼ਸੋਸ ਹੈ ਪਰ ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੀਆਂ ਕੁਝ ਕਿਸਮਾਂ ਲਈ ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਨਹੀਂ ਕਰ ਸਕਦੇ ਹਾਂ। ਮਿਸਾਲ ਵਜੋਂ ਗਿਫ਼ਟ ਕਾਰਡ ਅਤੇ ਸਟਰੀਮਿੰਗ ਵੀਡੀਓ, ਸੰਗੀਤ ਤੇ ਖੇਡਾਂ।
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = { -fakespot-website-name } ਲਈ ਵਿਸ਼ਲੇਸ਼ਣ ਚਲਾਓ
 
 ## Strings for the product review snippets card
 
@@ -86,6 +83,8 @@ powered-by-fakespot = <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-n
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ
 shopping-adjusted-rating-unreliable-reviews = ਗ਼ੈਰ-ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਹਟਾਏ
@@ -99,7 +98,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = ਅਸੀਂ ਰੀਵਿਊ ਦੀ ਕੁਆਲਟੀ ਕਿਵੇਂ ਪਤਾ ਕਰਦੇ ਹਾਂ
-shopping-analysis-explainer-intro = ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੇ ਰੀਵਿਊ ਦੀ ਭਰੋਸੇਯੋਗਤਾ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ { -fakespot-brand-full-name } ਦੀ ਮਨਸੂਈ ਬੁੱਧੀ (AI) ਤਕਨੀਕ ਵਰਤ ਰਹੇ ਹਾਂ। ਇਹ ਵਿਸ਼ਲੇਸ਼ਣ ਤੁਹਾਨੂੰ ਸਿਰਫ਼ ਰੀਵਿਊ ਦੀ ਕੁਆਲਟੀ ਲਈ ਮਦਦ ਕਰੇਗਾ, ਉਤਪਾਦ ਦੀ ਕੁਆਲਟੀ ਲਈ ਨਹੀਂ।
+shopping-analysis-explainer-intro2 = ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੇ ਰੀਵਿਊ ਦੀ ਭਰੋਸੇਯੋਗਤਾ ਦੀ ਪੜਤਾਲ ਕਰਨ ਲਈ { -fakespot-brand-full-name } ਦੀ ਮਨਸੂਈ ਬੁੱਧੀ (AI) ਤਕਨੀਕ ਵਰਤ ਰਹੇ ਹਾਂ। ਇਹ ਵਿਸ਼ਲੇਸ਼ਣ ਤੁਹਾਨੂੰ ਸਿਰਫ਼ ਰੀਵਿਊ ਦੀ ਕੁਆਲਟੀ ਲਈ ਮਦਦ ਕਰੇਗਾ, ਉਤਪਾਦ ਦੀ ਕੁਆਲਟੀ ਲਈ ਨਹੀਂ।
 shopping-analysis-explainer-grades-intro = ਅਸੀਂ ਹਰ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ ਲਈ A ਤੋਂ F ਤੱਕ <strong>ਅੱਖਰ ਅਧਾਰਿਤ ਦਰਜਾ</strong> ਦਿੱਤਾ ਹੈ।
 shopping-analysis-explainer-adjusted-rating-description = <strong>ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ</strong> ਸਾਡੇ ਵਲੋਂ ਸਿਰਫ਼ ਭਰੋਸੇਯੋਗ ਮੰਨੇ ਗਏ ਰੀਵਿਊ ਦੇ ਆਧਾਰ ਉੱਤੇ ਹੈ।
 shopping-analysis-explainer-learn-more = ਜਾਣੋ ਕਿ <a data-l10n-name="review-quality-url">ਕਿਵੇਂ { -fakespot-brand-full-name } ਰੀਵਿਊ ਕੁਆਲਟੀ ਦਾ ਪਤਾ ਲਾਉਂਦਾ ਹੈ</a>।
@@ -113,10 +112,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = ਗ਼ੈਰਭਰ
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = ਖਰੀਦਦਾਰੀ ਬਾਹੀ ਖੋਲ੍ਹੋ
-shopping-sidebar-close-button =
-    .tooltiptext = ਖਰੀਦਦਾਰੀ ਬਾਹੀ ਬੰਦ ਕਰੋ
+shopping-sidebar-open-button2 =
+    .tooltiptext = ਰੀਵਿਊ ਚੈਕਰ ਖੋਲ੍ਹੋ
+shopping-sidebar-close-button2 =
+    .tooltiptext = ਰੀਵਿਊ ਚੈਕਰ ਬੰਦ ਕਰੋ
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -125,12 +124,24 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = ਇਹਨਾਂ ਰੀਵਿਊ ਲਈ ਹਾਲੇ ਕੋਈ ਵੀ ਵਿਸ਼ਲੇਸ਼ਣ ਨਹੀਂ ਹੈ
-shopping-unanalyzed-product-message = { -fakespot-brand-full-name } ਵਿਸ਼ਲੇਸ਼ਕ ਚਲਾਓ ਅਤੇ ਤੁਹਾਨੂੰ 60 ਸਕਿੰਟਾਂ ਵਿੱਚ ਪਤਾ ਲੱਗ ਜਾਵੇਗਾ ਕਿ ਕੀ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ ਭਰੋਸੇਯੋਗ ਹਨ।
-shopping-unanalyzed-product-analyze-link = { -fakespot-website-name } ਲਈ ਵਿਸ਼ਲੇਸ਼ਕ ਚਲਾਓ
+shopping-unanalyzed-product-header-2 = ਇਹਨਾਂ ਰੀਵਿਊ ਬਾਰੇ ਹਾਲੇ ਕੋਈ ਜਾਣਕਾਰੀ ਨਹੀਂ ਹੈ
+shopping-unanalyzed-product-message-2 = ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊਆਂ ਦੇ ਭਰੋਸੇਵੋਗ ਹੋਣ ਨੂੰ ਜਾਣਨ ਲਈ, ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਕਰੋ। ਇਸ ਨੂੰ ਲਗਭਗ 60 ਸਕਿੰਟ ਲੱਗ ਸਕਦੇ ਹਨ।
+shopping-unanalyzed-product-analyze-button = ਰੀਵਿਊ ਕੁਆਲਟੀ ਦੀ ਜਾਂਚ ਕਰੋ
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = ਵਿਚਾਰਨ ਲਈ ਹੋਰ
 ad-by-fakespot = { -fakespot-brand-name } ਵਲੋਂ ਇਸ਼ਤਿਹਾਰ
+
+## Shopping survey strings.
+
+shopping-survey-headline = { -brand-product-name } ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਕਰੋ
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+

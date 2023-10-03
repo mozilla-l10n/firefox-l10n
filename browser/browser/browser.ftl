@@ -933,6 +933,10 @@ reset-pbm-panel-always-ask-checkbox =
 reset-pbm-panel-cancel-button =
     .label = ਰੱਦ ਕਰੋ
     .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ
+    .accesskey = D
+reset-pbm-panel-complete = ਪ੍ਰਾਈਵੇਟ ਸ਼ੈਸ਼ਨ ਡਾਟੇ ਨੂੰ ਹਟਾਇਆ
 
 ## Autorefresh blocker
 
