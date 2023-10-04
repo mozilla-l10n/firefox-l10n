@@ -913,6 +913,24 @@ unified-extensions-button-quarantined =
         Estensions
         Cualchi estension no je consintude
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Termine session privade
+    .tooltiptext = Termine session privade
+reset-pbm-panel-heading = Terminâ la session privade?
+reset-pbm-panel-description = Siere dutis lis schedis privade e elimine cronologjie, cookies e ducj i altris dâts dai sîts.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Domande simpri
+    .accesskey = D
+reset-pbm-panel-cancel-button =
+    .label = Anule
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Elimine dâts de session
+    .accesskey = d
+reset-pbm-panel-complete = Dâts de session privade eliminâts
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } al à impedît a cheste pagjine di tornâ a cjamâsi in automatic.
