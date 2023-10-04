@@ -7,6 +7,12 @@ shopping-page-title = Achats dans { -brand-product-name }
 # review quality of online shopping product reviews
 shopping-main-container-title = Vérificateur d’avis
 shopping-beta-marker = Bêta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Vérificateur d’avis - bêta
 shopping-close-button =
     .title = Fermer
 # This string is for notifying screen reader users that the
@@ -32,9 +38,11 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-button = Vérifier maintenant
 shopping-message-bar-generic-error-title2 = Aucune information disponible actuellement
 shopping-message-bar-generic-error-message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
 shopping-message-bar-warning-not-enough-reviews-title = Pas encore assez d’avis
+shopping-message-bar-warning-not-enough-reviews-message2 = Quand ce produit aura reçu suffisamment d’avis, leur qualité pourra être évaluée.
 shopping-message-bar-warning-product-not-available-title = Le produit n’est pas disponible
 shopping-message-bar-warning-product-not-available-button = Signaler que ce produit est de retour en stock
 shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
