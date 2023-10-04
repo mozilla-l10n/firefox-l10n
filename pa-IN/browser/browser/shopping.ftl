@@ -137,6 +137,14 @@ ad-by-fakespot = { -fakespot-brand-name } ਵਲੋਂ ਇਸ਼ਤਿਹਾਰ
 ## Shopping survey strings.
 
 shopping-survey-headline = { -brand-product-name } ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਕਰੋ
+shopping-survey-question-two = ਕੀ ਰੀਵਿਊ ਚੈਕਰ ਨੇ ਤੁਹਾਡੇ ਲਈ ਖਰੀਦਦਾਰੀ ਦੇ ਫ਼ੈਸਲੇ ਲੈਣ ਨੂੰ ਸੌਖਾ ਬਣਾਇਆ ਹੈ?
+shopping-survey-q2-radio-1-label = ਹਾਂ
+shopping-survey-q2-radio-2-label = ਨਹੀਂ
+shopping-survey-q2-radio-3-label = ਮੈਨੂੰ ਨਹੀ ਪਤਾ
+shopping-survey-next-button-label = ਅੱਗੇ
+shopping-survey-submit-button-label = ਭੇਜੋ
+shopping-survey-terms-link = ਵਰਤਣ ਦੀ ਸ਼ਰਤਾਂ
+shopping-survey-thanks-message = ਤੁਹਾਡੀ ਫ਼ੀਡਬੈਕ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
