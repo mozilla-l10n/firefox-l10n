@@ -912,6 +912,18 @@ unified-extensions-button-quarantined =
         Επεκτάσεις
         Ορισμένες επεκτάσεις δεν επιτρέπονται
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Τερματισμός ιδιωτικής συνεδρίας
+    .tooltiptext = Τερματισμός ιδιωτικής συνεδρίας
+reset-pbm-panel-cancel-button =
+    .label = Ακύρωση
+    .accesskey = Α
+reset-pbm-panel-confirm-button =
+    .label = Διαγραφή δεδομένων συνεδρίας
+    .accesskey = Δ
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Το { -brand-short-name } εμπόδισε την αυτόματη ανανέωση της σελίδας.
