@@ -98,6 +98,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Мо чӣ тавр сифати тақризҳоро муайян мекунем
+shopping-analysis-explainer-intro2 = Барои тафтиши эътимоднокии тақризҳои маҳсулот мо аз технологияи зеҳни сунъӣ (AI) тавассути «{ -fakespot-brand-full-name }» истифода мебарем. Ин ба шумо танҳо барои баҳодиҳии сифати тақризҳо кумак мерасонад, сифати маҳсулот тафтиш карда намешавад.
 shopping-analysis-explainer-grades-intro = Мо ба тақризҳои ҳар як маҳсул <strong>баҳои ҳарфиро</strong> аз A то F таъин мекунем.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Баҳодиҳии санҷида дурустшуда</strong> танҳо дар он тақризҳое асос меёбад, ки ба умеди мо боэътимод мебошанд.
 shopping-analysis-explainer-learn-more = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр { -fakespot-brand-full-name } сифати тақризҳоро муайян мекунад</a>.
@@ -158,6 +159,7 @@ shopping-callout-closed-not-opted-in-title = Барои гирифтани та�
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Дастури моро дар бораи эътимоднокӣ нисбат ба тақризҳои маҳсулот озмоед
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -fakespot-brand-full-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифода </a> розӣ мешавед.
 shopping-onboarding-opt-in-button = Ҳа, озмоед
 shopping-onboarding-not-now-button = Ҳоло не
