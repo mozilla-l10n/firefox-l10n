@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Кеңейтулер
         Кейбір кеңейтулер рұқсат етілмеген
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Жекелік сессияны аяқтау
+    .tooltiptext = Жекелік сессияны аяқтау
+reset-pbm-panel-heading = Жекелік сессияңызды аяқтау керек пе?
+reset-pbm-panel-description = Барлық жекелік беттерін жауып, тарихты, cookie файлдарын және басқа сайт деректерін өшіру.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Мені әрқашан сұрау
+    .accesskey = а
+reset-pbm-panel-cancel-button =
+    .label = Болдырмау
+    .accesskey = Б
+reset-pbm-panel-confirm-button =
+    .label = Сессияны деректерін өшіру
+    .accesskey = ш
+reset-pbm-panel-complete = Жекелік шолу деректері өшірілді
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } осы парақтың өзіндік жаңартуын тоқтатты.
