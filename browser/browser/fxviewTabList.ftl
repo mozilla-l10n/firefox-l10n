@@ -42,7 +42,15 @@ fxviewtabrow-copy-link = Copier le lien
 fxviewtabrow-close-tab = Fermer l’onglet
     .accesskey = F
 fxviewtabrow-move-tab = Déplacer l’onglet
-    .accesskey = c
+    .accesskey = D
+fxviewtabrow-move-tab-start = Déplacer vers le début
+    .accesskey = r
+fxviewtabrow-move-tab-end = Déplacer vers la fin
+    .accesskey = f
+fxviewtabrow-move-tab-window = Déplacer vers une nouvelle fenêtre
+    .accesskey = v
+fxviewtabrow-send-tab = Envoyer l’onglet à un appareil
+    .accesskey = E
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
