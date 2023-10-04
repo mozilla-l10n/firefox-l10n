@@ -93,6 +93,7 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Comment nous déterminons la qualité d’un avis
 shopping-analysis-explainer-grades-intro = Nous attribuons une <strong>notation alphabétique</strong> aux avis sur chaque produit, allant de A à F.
+shopping-analysis-explainer-learn-more = En savoir plus sur <a data-l10n-name="review-quality-url">la façon dont { -fakespot-brand-full-name } détermine la qualité d’un avis</a>.
 shopping-analysis-explainer-review-grading-scale-reliable = Avis fiables. Nous pensons que les avis proviennent probablement de véritables client·e·s qui ont laissé des avis sincères et objectifs.
 shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. Nous pensons que les avis sont probablement contrefaits ou proviennent d’utilisateurs partiaux.
 
@@ -107,6 +108,7 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. 
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Aucune information sur ces avis pour le moment
+shopping-unanalyzed-product-analyze-button = Évaluer la qualité des avis
 
 ## Strings for the advertisement
 
