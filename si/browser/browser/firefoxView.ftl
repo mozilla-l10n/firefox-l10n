@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = වසන්න
     .aria-label = වසන්න
@@ -38,6 +40,7 @@ firefoxview-tabpickup-synctabs-learn-how = කෙසේදැයි දැනග
 firefoxview-tabpickup-synctabs-primarybutton = විවෘත පටිති සමමුහූර්තය
 firefoxview-syncedtabs-synctabs-header = සමමුහූර්ත සැකසුම් සකසන්න
 firefoxview-syncedtabs-synctabs-description = වෙනත් උපාංග වලින් පටිති බැලීමට, ඔබගේ විවෘත පටිති සමමුහූර්ත කළ යුතුය.
+firefoxview-syncedtabs-loading-header = සමමුහූර්ත වෙමින්
 firefoxview-tabpickup-fxa-admin-disabled-header = ඔබගේ සංවිධානය සමමුහූර්තය අබල කර ඇත
 firefoxview-tabpickup-fxa-admin-disabled-description = ඔබගේ පරිපාලකයා සමමුහූර්තය අබල කර තිබෙන නිසා { -brand-short-name } මගින් උපාංග අතර පටිති සමමුහූර්ත කිරීමට නොහැකිය.
 firefoxview-tabpickup-network-offline-header = අන්තර්ජාල සම්බන්ධතාවය පරීක්‍ෂා කරන්න
@@ -183,6 +186,7 @@ firefoxview-import-history-description = { -brand-short-name } ඔබගේ ද�
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = වැරදීමකින් පටිත්තක් වැසුවාද?
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
