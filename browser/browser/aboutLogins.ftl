@@ -199,6 +199,11 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Cette action supprimera l’identifiant enregistré pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
        *[other] Cette action supprimera tous les identifiants enregistrés pour { -brand-short-name } de tous vos appareils synchronisés à votre { -fxaccount-brand-name }. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Cette action supprimera l’identifiant enregistré dans { -brand-short-name } de tous vos appareils synchronisés à votre compte. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+       *[other] Cette action supprimera tous les identifiants enregistrés dans { -brand-short-name } de tous vos appareils synchronisés à votre compte. Cela supprimera également les alertes de fuites de données qui apparaissent ici. Cette action est irréversible.
+    }
 
 ##
 
