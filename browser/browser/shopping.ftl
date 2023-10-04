@@ -49,6 +49,7 @@ shopping-message-bar-warning-product-not-available-button = Signaler que ce prod
 shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
 shopping-message-bar-thanks-for-reporting-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-warning-product-not-available-reported-title2 = Plus d’informations prochainement
+shopping-message-bar-warning-product-not-available-reported-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-analysis-in-progress-title2 = Évaluation de la qualité des avis
 shopping-message-bar-analysis-in-progress-message2 = L’opération peut prendre environ 60 secondes.
 shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ces avis
@@ -112,16 +113,20 @@ shopping-unanalyzed-product-analyze-button = Évaluer la qualité des avis
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Produits alternatifs
 ad-by-fakespot = Publicité de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
 shopping-survey-headline = Aidez à améliorer { -brand-product-name }
+shopping-survey-question-one = Quel est votre degré de satisfaction concernant le vérificateur d’avis de { -brand-product-name } ?
 shopping-survey-q1-radio-1-label = Très satisfait·e
 shopping-survey-q1-radio-2-label = Satisfait·e
 shopping-survey-q1-radio-3-label = Sans opinion
 shopping-survey-q1-radio-4-label = Insatisfait·e
 shopping-survey-q1-radio-5-label = Très insatisfait·e
+shopping-survey-question-two = Le vérificateur d’avis facilite-t-il votre prise de décisions lorsque vous effectuez des achats ?
 shopping-survey-q2-radio-1-label = Oui
 shopping-survey-q2-radio-2-label = Non
 shopping-survey-q2-radio-3-label = Je ne sais pas
