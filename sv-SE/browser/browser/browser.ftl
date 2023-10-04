@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Tillägg
         Vissa tillägg är inte tillåtna
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Avsluta privat session
+    .tooltiptext = Avsluta privat session
+reset-pbm-panel-heading = Vill du avsluta din privata session?
+reset-pbm-panel-description = Stäng alla privata flikar och ta bort historik, kakor och all annan webbplatsdata.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Fråga mig alltid
+    .accesskey = F
+reset-pbm-panel-cancel-button =
+    .label = Avbryt
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Ta bort sessionsdata
+    .accesskey = T
+reset-pbm-panel-complete = Privat sessionsdata raderades
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } har förhindrat att den här sidan uppdateras automatiskt.
