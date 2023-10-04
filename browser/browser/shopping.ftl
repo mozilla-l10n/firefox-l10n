@@ -38,6 +38,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Nouvelles informations à évaluer
 shopping-message-bar-warning-stale-analysis-button = Vérifier maintenant
 shopping-message-bar-generic-error-title2 = Aucune information disponible actuellement
 shopping-message-bar-generic-error-message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
@@ -46,7 +47,10 @@ shopping-message-bar-warning-not-enough-reviews-message2 = Quand ce produit aura
 shopping-message-bar-warning-product-not-available-title = Le produit n’est pas disponible
 shopping-message-bar-warning-product-not-available-button = Signaler que ce produit est de retour en stock
 shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
+shopping-message-bar-thanks-for-reporting-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-warning-product-not-available-reported-title2 = Plus d’informations prochainement
+shopping-message-bar-analysis-in-progress-title2 = Évaluation de la qualité des avis
+shopping-message-bar-analysis-in-progress-message2 = L’opération peut prendre environ 60 secondes.
 shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ces avis
 
 ## Strings for the product review snippets card
