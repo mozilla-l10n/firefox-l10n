@@ -915,6 +915,24 @@ unified-extensions-button-quarantined =
         Udvidelser
         Nogle udvidelser er ikke tilladt
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Afslut privat session
+    .tooltiptext = Afslut privat session
+reset-pbm-panel-heading = Vil du afslutte den private session?
+reset-pbm-panel-description = Luk alle private faneblade og slet historik, cookies og alle andre webstedsdata.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Spørg altid
+    .accesskey = a
+reset-pbm-panel-cancel-button =
+    .label = Afbryd
+    .accesskey = f
+reset-pbm-panel-confirm-button =
+    .label = Slet sessions-data
+    .accesskey = S
+reset-pbm-panel-complete = Data fra privat session blev slettet
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } forhindrede denne side i automatisk at foretage genindlæsning.
