@@ -81,7 +81,7 @@ powered-by-fakespot = Le vérificateur d’avis fonctionne grâce à <a data-l10
 # "Adjusted rating" means a star rating that has been adjusted to include only
 # reliable reviews.
 shopping-adjusted-rating-label =
-    .label = Note ajustée
+    .label = Évaluation corrigée
 shopping-adjusted-rating-unreliable-reviews = Avis non fiables supprimés
 
 ## Strings for the review reliability component
@@ -94,12 +94,17 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Comment nous déterminons la qualité d’un avis
 shopping-analysis-explainer-grades-intro = Nous attribuons une <strong>notation alphabétique</strong> aux avis sur chaque produit, allant de A à F.
+shopping-analysis-explainer-adjusted-rating-description = L’<strong>évaluation corrigée</strong> se fonde uniquement sur les avis que nous considérons fiables.
 shopping-analysis-explainer-learn-more = En savoir plus sur <a data-l10n-name="review-quality-url">la façon dont { -fakespot-brand-full-name } détermine la qualité d’un avis</a>.
 shopping-analysis-explainer-review-grading-scale-reliable = Avis fiables. Nous pensons que les avis proviennent probablement de véritables client·e·s qui ont laissé des avis sincères et objectifs.
 shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. Nous pensons que les avis sont probablement contrefaits ou proviennent d’utilisateurs partiaux.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Ouvrir le vérificateur d’avis
+shopping-sidebar-close-button2 =
+    .tooltiptext = Fermer le vérificateur d’avis
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
