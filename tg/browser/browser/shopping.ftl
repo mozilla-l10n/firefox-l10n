@@ -153,6 +153,8 @@ shopping-survey-thanks-message = Ташаккур барои изҳори наз
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-title = Оё ин тақризҳо боэътимод мебошанд? Дарҳол маълумот гиред.
+shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 
 ## Onboarding message strings.
 
