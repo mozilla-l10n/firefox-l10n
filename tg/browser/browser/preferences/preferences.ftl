@@ -1002,6 +1002,10 @@ content-blocking-enhanced-tracking-protection = Муҳофизати такми�
 content-blocking-section-top-level-description = Васоити пайгирӣ барои ҷамъ кардани маълумот дар бораи одатҳои тамошокунӣ ва манфиатҳои шумо дар Интернет шуморо пайгирӣ мекунанд. «{ -brand-short-name }» бисёр аз чунин васоити пайгирӣ ва дигар скриптҳои зарароварро манъ мекунад.
 content-blocking-learn-more = Маълумоти бештар
 content-blocking-fpi-incompatibility-warning = Шумо аз «First Party Isolation (FPI)» истифода мебаред, ки баъзе танзимоти кукиҳои «{ -brand-short-name }»-ро иваз мекунад.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Шумо аз вазифаи муҳофизати бар зидди ҷамъоварии нақши рақамии ангуштон (RFP) истифода мебаред, ки баъзе аз танзимоти муҳофизати бар зидди ҷамъоварии нақши рақамии ангуштони «{ -brand-short-name }»-ро иваз мекунад. Ин амал метавонад боиси вайрон шудани баъзе сомонаҳо гардад.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
