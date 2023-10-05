@@ -96,6 +96,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Comment nous déterminons la qualité d’un avis
+shopping-analysis-explainer-intro2 = Nous utilisons la technologie d’intelligence artificielle { -fakespot-brand-full-name } pour vérifier la fiabilité des avis sur des produits. Ce qui vous aide seulement à évaluer la qualité des avis, mais non la qualité des produits.
 shopping-analysis-explainer-grades-intro = Nous attribuons une <strong>notation alphabétique</strong> aux avis sur chaque produit, allant de A à F.
 shopping-analysis-explainer-adjusted-rating-description = L’<strong>évaluation corrigée</strong> se fonde uniquement sur les avis que nous considérons fiables.
 shopping-analysis-explainer-learn-more = En savoir plus sur <a data-l10n-name="review-quality-url">la façon dont { -fakespot-brand-full-name } détermine la qualité d’un avis</a>.
@@ -122,6 +123,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Aucune information sur ces avis pour le moment
+shopping-unanalyzed-product-message-2 = Pour savoir si les avis sur ce produit sont dignes de confiance, vérifiez leur qualité. Cela ne prend que 60 secondes.
 shopping-unanalyzed-product-analyze-button = Évaluer la qualité des avis
 
 ## Strings for the advertisement
@@ -155,6 +157,8 @@ shopping-survey-thanks-message = Merci de votre retour !
 
 ## Onboarding message strings.
 
+shopping-onboarding-body = En utilisant la puissance de { -fakespot-brand-full-name }, nous vous aidons à éviter les avis partiaux et mensongers. Notre modèle d’intelligence artificielle s’améliore en permanence pour vous protéger pendant vos achats. <a data-l10n-name="learn_more">En savoir plus</a>
+shopping-onboarding-opt-in-button = Oui, l’essayer
 shopping-onboarding-not-now-button = Plus tard
 shopping-onboarding-dialog-close-button =
     .title = Fermer
