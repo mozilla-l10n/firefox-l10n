@@ -11,7 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Väärä PIN-koodi. Yritä uudelleen.
 webauthn-pin-required-prompt = Anna laitteesi PIN-koodi.
-
+webauthn-select-sign-result-unknown-account = Tuntematon tili
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
