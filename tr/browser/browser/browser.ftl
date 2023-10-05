@@ -912,6 +912,21 @@ unified-extensions-button-quarantined =
     .label = Uzantılar
     .tooltiptext = Bazı uzantılara izin verilmiyor
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Gizli oturumu sonlandır
+    .tooltiptext = Gizli oturumu sonlandır
+reset-pbm-panel-heading = Gizli oturum sonlandırılsın mı?
+reset-pbm-panel-description = Tüm özel sekmeleri kapat ve geçmişi, çerezleri ve tüm site verilerini sil.
+reset-pbm-panel-cancel-button =
+    .label = Vazgeç
+    .accesskey = V
+reset-pbm-panel-confirm-button =
+    .label = Oturum verilerini sil
+    .accesskey = O
+reset-pbm-panel-complete = Gizli oturum verileri silindi
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } bu sayfanın kendiliğinden yenilenmesini önledi.
