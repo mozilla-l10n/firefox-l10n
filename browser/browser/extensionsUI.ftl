@@ -24,6 +24,7 @@ addon-post-install-message = { $addonName } lisättiin.
 #   $addonName (String): localized name of the extension.
 webext-quarantine-confirmation-title = Suoritetaanko { $addonName } rajoitetuilla sivustoilla?
 webext-quarantine-confirmation-line-1 = Tietojesi suojaamiseksi tämä laajennus ei ole sallittu tällä sivustolla.
+webext-quarantine-confirmation-line-2 = Salli tämän laajennuksen, jos luotat siihen, lukea ja muuttaa tietojasi sivustoilla, joita { -vendor-short-name } rajoittaa.
 webext-quarantine-confirmation-allow =
     .label = Salli
     .accesskey = A
