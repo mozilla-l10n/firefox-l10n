@@ -49,3 +49,10 @@ styleeditor-stylesheet-rule-count =
        *[other] { $ruleCount } regole.
     }
 
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Formatta foglio di stile
+
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = È possibile formattare solo file CSS
