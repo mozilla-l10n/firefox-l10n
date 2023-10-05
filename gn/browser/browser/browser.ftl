@@ -913,6 +913,22 @@ unified-extensions-button-quarantined =
         Jepysokue
         Oĩ Jepysokue oñemoneĩ’ỹva
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Emohu’ã tembiapo ñemigua
+    .tooltiptext = Emohu’ã tembiapo ñemigua
+reset-pbm-panel-heading = Emohu’ãta tembiapo ñemigua
+reset-pbm-panel-always-ask-checkbox =
+    .label = Eporandu meme
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Heja
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Embogue mba’ekuaarã tembiapógui
+    .accesskey = D
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ndohejái ko kuatiarogue oñemyenyhẽ ha’eñorei.
