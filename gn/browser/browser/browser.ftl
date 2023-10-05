@@ -928,6 +928,7 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button =
     .label = Embogue mba’ekuaarã tembiapógui
     .accesskey = D
+reset-pbm-panel-complete = Oguéma mba’ekuaarã rembiapo ñemi
 
 ## Autorefresh blocker
 
