@@ -252,3 +252,12 @@ device-migration-fxa-spotlight-header = Stai utilizzando un dispositivo meno rec
 device-migration-fxa-spotlight-body = Salva i tuoi dati per non perdere informazioni importanti come segnalibri e password, soprattutto se hai in programma di passare a un nuovo dispositivo.
 device-migration-fxa-spotlight-primary-button = Come posso salvare i miei dati
 device-migration-fxa-spotlight-link = Ricordamelo più tardi
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Impostare { -brand-short-name } come lettore predefinito per i file PDF?</strong> Utilizza { -brand-short-name } per leggere e modificare i PDF salvati sul tuo computer.
+pdf-default-notification-set-default-button =
+    .label = Imposta come predefinito
+pdf-default-notification-decline-button =
+    .label = Non adesso
