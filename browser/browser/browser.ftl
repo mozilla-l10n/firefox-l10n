@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Laajennukset
         Joitain laajennuksia ei sallita
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Lopeta yksityinen istunto
+    .tooltiptext = Lopeta yksityinen istunto
+reset-pbm-panel-heading = Lopetetaanko yksityinen istunto?
+reset-pbm-panel-description = Sulje kaikki yksityiset välilehdet ja poista historia, evästeet ja kaikki muut sivustotiedot.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Kysy aina
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Peruuta
+    .accesskey = P
+reset-pbm-panel-confirm-button =
+    .label = Poista istunnon tiedot
+    .accesskey = o
+reset-pbm-panel-complete = Yksityisen istunnon tiedot poistettu
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } esti sivua päivittymästä.
