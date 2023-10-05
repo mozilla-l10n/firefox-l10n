@@ -45,6 +45,7 @@ shopping-message-bar-generic-error-message = Nous travaillons à résoudre ce pr
 shopping-message-bar-warning-not-enough-reviews-title = Pas encore assez d’avis
 shopping-message-bar-warning-not-enough-reviews-message2 = Quand ce produit aura reçu suffisamment d’avis, leur qualité pourra être évaluée.
 shopping-message-bar-warning-product-not-available-title = Le produit n’est pas disponible
+shopping-message-bar-warning-product-not-available-message2 = Si vous constatez le retour de ce produit en stock, signalez-le et nous travaillerons à évaluer les avis.
 shopping-message-bar-warning-product-not-available-button = Signaler que ce produit est de retour en stock
 shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signalé !
 shopping-message-bar-thanks-for-reporting-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
@@ -103,6 +104,7 @@ shopping-analysis-explainer-learn-more = En savoir plus sur <a data-l10n-name="r
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = Les <strong>points essentiels</strong> proviennent des avis laissés sur { $retailer } au cours des 80 derniers jours que nous estimons fiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Avis fiables. Nous pensons que les avis proviennent probablement de véritables client·e·s qui ont laissé des avis sincères et objectifs.
+shopping-analysis-explainer-review-grading-scale-mixed = Nous pensons que les avis regroupent des avis fiables et non fiables.
 shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. Nous pensons que les avis sont probablement contrefaits ou proviennent d’utilisateurs partiaux.
 
 ## Strings for UrlBar button
