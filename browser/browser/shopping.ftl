@@ -56,6 +56,8 @@ shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ce
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Points essentiels des avis récents
 shopping-highlight-price = Prix
 shopping-highlight-quality = Qualité
 shopping-highlight-shipping = Expédition
@@ -96,6 +98,10 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-grades-intro = Nous attribuons une <strong>notation alphabétique</strong> aux avis sur chaque produit, allant de A à F.
 shopping-analysis-explainer-adjusted-rating-description = L’<strong>évaluation corrigée</strong> se fonde uniquement sur les avis que nous considérons fiables.
 shopping-analysis-explainer-learn-more = En savoir plus sur <a data-l10n-name="review-quality-url">la façon dont { -fakespot-brand-full-name } détermine la qualité d’un avis</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Les <strong>points essentiels</strong> proviennent des avis laissés sur { $retailer } au cours des 80 derniers jours que nous estimons fiables.
 shopping-analysis-explainer-review-grading-scale-reliable = Avis fiables. Nous pensons que les avis proviennent probablement de véritables client·e·s qui ont laissé des avis sincères et objectifs.
 shopping-analysis-explainer-review-grading-scale-unreliable = Avis non fiables. Nous pensons que les avis sont probablement contrefaits ou proviennent d’utilisateurs partiaux.
 
