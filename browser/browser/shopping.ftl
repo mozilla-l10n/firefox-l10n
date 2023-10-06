@@ -47,6 +47,7 @@ shopping-message-bar-warning-not-enough-reviews-message2 = Non appena questo pro
 shopping-message-bar-warning-product-not-available-title = Il prodotto non è disponibile
 shopping-message-bar-warning-product-not-available-message2 = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per verificarne le recensioni.
 shopping-message-bar-warning-product-not-available-button = Segnala che questo prodotto è di nuovo disponibile
+shopping-message-bar-warning-product-not-available-button2 = Segnala che il prodotto è disponibile
 shopping-message-bar-thanks-for-reporting-title = Grazie per la segnalazione!
 shopping-message-bar-thanks-for-reporting-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informazioni disponibili a breve
