@@ -931,6 +931,24 @@ unified-extensions-button-quarantined =
         Estyniadau
         Nid oes caniatâd i rai estyniadau
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Diwedd Sesiwn Breifat
+    .tooltiptext = Diwedd Sesiwn Breifat
+reset-pbm-panel-heading = Gorffen eich sesiwn breifat?
+reset-pbm-panel-description = Caewch bob tab preifat a dileu hanes, cwcis, a'r holl ddata gwefan arall.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Gofyn i mi bob tro
+    .accesskey = G
+reset-pbm-panel-cancel-button =
+    .label = Diddymu
+    .accesskey = D
+reset-pbm-panel-confirm-button =
+    .label = Dileu data sesiwn
+    .accesskey = s
+reset-pbm-panel-complete = Data sesiwn preifat wedi'i ddileu
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = Rhwystrodd { -brand-short-name } y dudalen hon rhag ailagor yn awtomatig.
