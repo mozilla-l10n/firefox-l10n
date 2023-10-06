@@ -934,8 +934,8 @@ unified-extensions-button-quarantined =
 ## Private browsing reset button
 
 reset-pbm-toolbar-button =
-    .label = Diwedd Sesiwn Breifat
-    .tooltiptext = Diwedd Sesiwn Breifat
+    .label = Gorffen y Sesiwn Breifat
+    .tooltiptext = Gorffen y Sesiwn Breifat
 reset-pbm-panel-heading = Gorffen eich sesiwn breifat?
 reset-pbm-panel-description = Caewch bob tab preifat a dileu hanes, cwcis, a'r holl ddata gwefan arall.
 reset-pbm-panel-always-ask-checkbox =
