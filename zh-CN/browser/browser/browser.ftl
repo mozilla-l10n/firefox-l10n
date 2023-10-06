@@ -908,6 +908,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = 结束隐私浏览
+    .tooltiptext = 结束隐私浏览
+reset-pbm-panel-heading = 要结束隐私浏览吗？
+reset-pbm-panel-description = 关闭所有隐私标签页，并删除历史记录和 Cookie 等所有网站数据。
+reset-pbm-panel-always-ask-checkbox =
+    .label = 总是询问
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = 取消
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = 删除本次浏览数据
+    .accesskey = D
+reset-pbm-panel-complete = 隐私浏览数据已删除
 
 ## Autorefresh blocker
 
