@@ -47,15 +47,33 @@ shopping-message-bar-warning-not-enough-reviews-message2 = Non appena questo pro
 shopping-message-bar-warning-product-not-available-title = Il prodotto non è disponibile
 shopping-message-bar-warning-product-not-available-message2 = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per verificarne le recensioni.
 shopping-message-bar-warning-product-not-available-button = Segnala che questo prodotto è di nuovo disponibile
-shopping-message-bar-warning-product-not-available-button2 = Segnala che il prodotto è disponibile
 shopping-message-bar-thanks-for-reporting-title = Grazie per la segnalazione!
 shopping-message-bar-thanks-for-reporting-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informazioni disponibili a breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
+shopping-message-bar-generic-error =
+    .heading = Nessuna informazione disponibile al momento
+    .message = Stiamo lavorando per risolvere il problema. Ricontrolla a breve.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Non ci sono ancora abbastanza recensioni
+    .message = Non appena questo prodotto avrà più recensioni, saremo in grado di verificarne la qualità.
+shopping-message-bar-warning-product-not-available =
+    .heading = Il prodotto non è disponibile
+    .message = Se noti che questo prodotto è di nuovo disponibile, segnalacelo e lavoreremo per verificarne le recensioni.
+shopping-message-bar-warning-product-not-available-button2 = Segnala che il prodotto è disponibile
+shopping-message-bar-thanks-for-reporting =
+    .heading = Grazie per la segnalazione!
+    .message = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informazioni disponibili a breve
+    .message = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-analysis-in-progress-title2 = Verifica qualità recensioni
 shopping-message-bar-analysis-in-progress-message2 = Questa operazione potrebbe richiedere circa 60 secondi.
 shopping-message-bar-page-not-supported-title = Impossibile verificare queste recensioni
 shopping-message-bar-page-not-supported-message = Purtroppo non è possibile verificare la qualità delle recensioni per alcuni tipi di prodotto come carte regalo, video in streaming e giochi.
+shopping-message-bar-page-not-supported =
+    .heading = Impossibile verificare queste recensioni
+    .message = Purtroppo non è possibile verificare la qualità delle recensioni per alcuni tipi di prodotto come carte regalo, video in streaming e giochi.
 
 ## Strings for the product review snippets card
 
@@ -152,6 +170,8 @@ shopping-survey-next-button-label = Successivo
 shopping-survey-submit-button-label = Invia
 shopping-survey-terms-link = Condizioni di utilizzo del servizio
 shopping-survey-thanks-message = Grazie per aver condiviso la tua opinione.
+shopping-survey-thanks =
+    .heading = Grazie per aver condiviso la tua opinione.
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -173,7 +193,6 @@ shopping-onboarding-headline = Prova la nostra guida alle recensioni di prodotti
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -vendor-short-name }, è integrata direttamente in { -brand-product-name }. Funziona anche su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
 shopping-onboarding-dynamic-subtitle-1 = Scopri quanto sono affidabili le recensioni dei prodotti su <b>{ $currentSite }</b> prima di acquistarli. Verifica recensioni, una funzione sperimentale di { -brand-product-name }, è integrata direttamente nel browser. Funziona anche su <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
-
 shopping-onboarding-body = Utilizzando la tecnologia di { -fakespot-brand-full-name }, ti aiutiamo a evitare recensioni di parte e non autentiche. Il nostro modello di intelligenza artificiale migliora costantemente per proteggerti mentre fai acquisti. <a data-l10n-name="learn_more">Ulteriori informazioni</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Selezionando “{ shopping-onboarding-opt-in-button }“ accetti l’<a data-l10n-name="privacy_policy">informativa sulla privacy</a> e le <a data-l10n-name="terms_of_use">condizioni di utilizzo del servizio</a> di { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Sì, provala
