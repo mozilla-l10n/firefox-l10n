@@ -926,13 +926,13 @@ reset-pbm-panel-heading = Завершить приватную сессию?
 reset-pbm-panel-description = Закрыть все приватные вкладки и удалить историю, куки и все другие данные сайтов.
 reset-pbm-panel-always-ask-checkbox =
     .label = Всегда спрашивать меня
-    .accesskey = ф
+    .accesskey = п
 reset-pbm-panel-cancel-button =
     .label = Отменить
-    .accesskey = с
+    .accesskey = м
 reset-pbm-panel-confirm-button =
     .label = Удалить данные сессии
-    .accesskey = в
+    .accesskey = л
 reset-pbm-panel-complete = Данные приватной сессии удалены
 
 ## Autorefresh blocker
