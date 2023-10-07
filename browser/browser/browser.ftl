@@ -989,6 +989,24 @@ unified-extensions-button-quarantined =
         Rozšíření
         Některá rozšíření nejsou povolena.
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Ukončit anonymní relaci
+    .tooltiptext = Ukončí anonymní relaci
+reset-pbm-panel-heading = Ukončit anonymní relaci?
+reset-pbm-panel-description = Zavře všechny anonymní panely a vymažte historii, soubory cookie a všechna další data webu.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Vždy se mě zeptat
+    .accesskey = V
+reset-pbm-panel-cancel-button =
+    .label = Zrušit
+    .accesskey = Z
+reset-pbm-panel-confirm-button =
+    .label = Smazat data relace
+    .accesskey = S
+reset-pbm-panel-complete = Data anonymní relace byla smazána
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label =
