@@ -38,12 +38,22 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Nye oplysninger at kontrollere
+shopping-message-bar-warning-stale-analysis-button = Kontroller nu
+shopping-message-bar-generic-error-title2 = Ingen oplysninger tilgængelige i øjeblikket
 shopping-message-bar-generic-error-message = Vi arbejder på at løse problemet. Prøv igen om lidt.
 shopping-message-bar-warning-not-enough-reviews-title = Ikke nok anmeldelser lige nu
 shopping-message-bar-warning-product-not-available-title = Produktet er ikke tilgængeligt
+shopping-message-bar-warning-product-not-available-message2 = Hvis du har set, at produktet er på lager igen, må du gerne rapportere det. Så kan vi kontrollere anmeldelserne.
 shopping-message-bar-warning-product-not-available-button = Rapporter at produktet er på lager igen
 shopping-message-bar-thanks-for-reporting-title = Tak for hjælpen!
+shopping-message-bar-thanks-for-reporting-message2 = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
+shopping-message-bar-warning-product-not-available-reported-title2 = Oplysninger kommer snart
+shopping-message-bar-warning-product-not-available-reported-message2 = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
+shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvalitet af anmeldelser
+shopping-message-bar-analysis-in-progress-message2 = Dette burde tage omkring 60 sekunder.
 shopping-message-bar-page-not-supported-title = Vi kan ikke kontrollere disse anmeldelser
+shopping-message-bar-page-not-supported-message = Desværre kan vi ikke kontrollere kvaliteten af anmeldelser for visse typer af produkter. For eksempel gavekort og streaming af video, musik og spil.
 
 ## Strings for the product review snippets card
 
@@ -87,6 +97,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Sådan afgør vi kvaliteten af anmeldelser
+shopping-analysis-explainer-intro2 = Vi anvender AI-teknologi fra { -fakespot-brand-full-name } til at kontrollere pålideligheden af produkt-anmeldelser. Dette hjælper dig kun med at vurdere kvaliteten af anmeldelserne, ikke selve produktets kvalitet.
 shopping-analysis-explainer-grades-intro = Vi giver hver produkts anmeldelser en <strong>karakter</strong> fra A til F.
 shopping-analysis-explainer-adjusted-rating-description = Den <strong>justerede bedømmelse</strong> er udelukkende baseret på anmeldelser, som vi vurderer er pålidelige.
 shopping-analysis-explainer-learn-more = Læs mere om, <a data-l10n-name="review-quality-url">hvordan { -fakespot-brand-full-name } afgør kvaliteten af anmeldelser</a>.
@@ -100,6 +111,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Upålidelige anmel
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Åbn verificering af anmeldelser
+shopping-sidebar-close-button2 =
+    .tooltiptext = Luk verificering af anmeldelser
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -108,6 +123,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Upålidelige anmel
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ingen oplysninger om disse anmeldelser endnu
+shopping-unanalyzed-product-message-2 = Kontroller anmeldelserne af produktet for at finde ud af, om de er pålidelige. Det tager kun omkring et minut.
+shopping-unanalyzed-product-analyze-button = Kontroller kvalitet af anmeldelser
 
 ## Strings for the advertisement
 
@@ -117,11 +135,28 @@ ad-by-fakespot = Reklame fra { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Hjælp os med at forbedre { -brand-product-name }
+shopping-survey-question-one = Hvor tilfreds er du med funktionen til at vurdere kvaliteten af anmeldelser i { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Meget tilfreds
+shopping-survey-q1-radio-2-label = Tilfreds
+shopping-survey-q1-radio-3-label = Hverken/eller
+shopping-survey-q1-radio-4-label = Utilfreds
+shopping-survey-q1-radio-5-label = Meget utilfreds
+shopping-survey-question-two = Gør verificering af anmeldelser det nemmere for dig at træffe beslutninger om, hvad du skal købe?
+shopping-survey-q2-radio-1-label = Ja
+shopping-survey-q2-radio-2-label = Nej
+shopping-survey-q2-radio-3-label = Ved ikke
+shopping-survey-next-button-label = Næste
+shopping-survey-submit-button-label = Indsend
+shopping-survey-terms-link = Betingelser for brug
+shopping-survey-thanks-message = Tak for tilbagemeldingen!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vend tilbage til <strong>verificering af anmeldelser</strong>, når du ser prismærket.
+shopping-callout-pdp-opted-in-title = Er de her anmeldelser pålidelige? Find hurtigt ud af det.
 
 ## Onboarding message strings.
 
