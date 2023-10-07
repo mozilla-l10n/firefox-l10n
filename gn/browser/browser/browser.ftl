@@ -919,6 +919,7 @@ reset-pbm-toolbar-button =
     .label = Emohu’ã tembiapo ñemigua
     .tooltiptext = Emohu’ã tembiapo ñemigua
 reset-pbm-panel-heading = Emohu’ãta tembiapo ñemigua
+reset-pbm-panel-description = Embotypaite tendayke ñemiguáva ha embogue tembiasakue, kookie ha opaite tenda mba’ekuaarã.
 reset-pbm-panel-always-ask-checkbox =
     .label = Eporandu meme
     .accesskey = A
