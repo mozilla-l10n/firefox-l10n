@@ -140,15 +140,15 @@ webrtc-indicator-menuitem-sharing-browser-with-n-tabs =
 ##   $origin (String): the website origin (e.g. www.mozilla.org).
 
 webrtc-allow-share-audio-capture = ¿Emoneĩ { $origin } ohendúvo mba’epu ko tendayke pegua?
-webrtc-allow-share-camera = Emoneĩpa { $origin } oipurúvo ta’ãnganohẽha?
-webrtc-allow-share-microphone = ¿Emoneĩ { $origin } oipurúvo ñe’ẽatãha?
+webrtc-allow-share-camera = Emoneĩpa { $origin } oiporúvo ta’ãnganohẽha?
+webrtc-allow-share-microphone = ¿Emoneĩ { $origin } oiporúvo ñe’ẽatãha?
 webrtc-allow-share-screen = ¿Emoneĩ { $origin } ohechávo mba’erechaha?
 # "Speakers" is used in a general sense that might include headphones or
 # another audio output connection.
-webrtc-allow-share-speaker = ¿Emoneĩ { $origin } oipurúvo ambue ta’ãnganohẽha?
-webrtc-allow-share-camera-and-microphone = ¿Emoneĩ { $origin } oipurúvo ta’ãnganohẽha ha ñe’ẽatãha?
-webrtc-allow-share-camera-and-audio-capture = ¿Emoneĩ { $origin } oipurúvo ne ra’ãngamýi ha ohendu mba’epu ko tendayképe?
-webrtc-allow-share-screen-and-microphone = ¿Emoneĩ { $origin } oipurúvo ne ñe’ẽatãha ha ohecha nde mba’erechaha?
+webrtc-allow-share-speaker = ¿Emoneĩ { $origin } oiporúvo ambue ta’ãnganohẽha?
+webrtc-allow-share-camera-and-microphone = ¿Emoneĩ { $origin } oiporúvo ta’ãnganohẽha ha ñe’ẽatãha?
+webrtc-allow-share-camera-and-audio-capture = ¿Emoneĩ { $origin } oiporúvo ne ra’ãngamýi ha ohendu mba’epu ko tendayképe?
+webrtc-allow-share-screen-and-microphone = ¿Emoneĩ { $origin } oiporúvo ne ñe’ẽatãha ha ohecha nde mba’erechaha?
 webrtc-allow-share-screen-and-audio-capture = ¿Emoneĩ { $origin } ohendúvo mba’epu ko tendayképe ha ohecha ne mba’erechaha?
 
 ## Variables:

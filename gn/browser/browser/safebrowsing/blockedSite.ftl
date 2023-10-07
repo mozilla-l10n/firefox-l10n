@@ -9,7 +9,7 @@ safeb-blocked-harmful-page-title = Ko tenda tapykuerigua ikatu oreko malware
 safeb-blocked-phishing-page-short-desc = { -brand-short-name } ojoko kuatiarogue oimo’ãgui nembotavyseha ojapo hag̃ua mba’evai techapyrãrõ omohendakuaa software vai’apoha ýrõ ombohasakuaa ambuépe kuaapy nemba’éva taha’e ñe’ẽñemi térã kuatia’atã ñemurãva.
 safeb-blocked-malware-page-short-desc = { -brand-short-name } ojoko ko ñandutirogue omohendakuaágui mba’evai ne mohendahápe, omondakuaáva mba’ekuaa nde rehegua ýrõ omboguekuaáva reguerekóva.
 safeb-blocked-unwanted-page-short-desc = { -brand-short-name } ojoko togue oimo’ãgui nembotavyse emohenda hag̃ua programa mba’evaiapoha (techapyrãrõ omoambuekuaa ñandutirogue ñepyrũgua ýrõ ohechaukakuaa ta’ãnga omba’evendeseha opaite tenda eikehápe guive).
-safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogue oimo’ãgui kóva oiméne omohendase tembiporu’i ivaíva mohendahápe, umíva rupive omonda térã omboguekuaa nemba’éva (techapyrã ta’ãnga rerekóva, ñe’ẽñemi, marandu ha viru kuatiatã reipurúva).
+safeb-blocked-harmful-page-short-desc = { -brand-short-name } ojoko ñandutirogue oimo’ãgui kóva oiméne omohendase tembiporu’i ivaíva mohendahápe, umíva rupive omonda térã omboguekuaa nemba’éva (techapyrã ta’ãnga rerekóva, ñe’ẽñemi, marandu ha viru kuatiatã reiporúva).
 # Variables:
 #   $advisoryname (string) - Name of the advisory entity
 safeb-palm-advisory-desc = Marandu omog̃uahẽva <a data-l10n-name='advisory_provider'>{ $advisoryname }</a>.

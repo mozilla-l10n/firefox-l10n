@@ -46,7 +46,7 @@ cookie-tab-content = Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua m
 tracker-tab-title = Tetepy mo’ãha
 tracker-tab-description = Ñandutikuéra renda ikatu omyanyhẽ marandu ñemurã okayguáva, ta’ãngamýi ha ambue tetepy orekóva tapykuehoha ayvu. Tetepy rapykuehoha jejoko ikatu oipytyvõ tendakuérape henyhẽ pya’eve hag̃ua, hákatu heta votõ, myanyhẽha ha tembiapo ñepyrũ kora ikatu ndoikovéi. <a data-l10n-name="learn-more-link">Kuaave</a>
 fingerprinter-tab-title = Ñemokuãhũ
-fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
+fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oiporúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Umi criptominero oiporúva nde apopyvusu rembiporupyahu onohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oiporupa ibatería, omombegue ne mohendaha ha ikatu ohupi tendyry repy. <a data-l10n-name="learn-more-link">Kuaave</a>
 protections-close-button2 =
