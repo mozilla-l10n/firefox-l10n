@@ -915,6 +915,24 @@ unified-extensions-button-quarantined =
         Forritsaukar
         Sumir forritsaukar eru ekki leyfðir
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Ljúka huliðslotu
+    .tooltiptext = Ljúka huliðslotu
+reset-pbm-panel-heading = Ljúka huliðslotunni þinni?
+reset-pbm-panel-description = Loka öllum huliðsflipum og eyða vafurferli, vefkökum og öllum öðrum gögnum vefsvæðisins.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Spyrja alltaf
+    .accesskey = a
+reset-pbm-panel-cancel-button =
+    .label = Hætta við
+    .accesskey = H
+reset-pbm-panel-confirm-button =
+    .label = Eyða lotugögnum
+    .accesskey = g
+reset-pbm-panel-complete = Huliðsvafurgögnum eytt
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } kom í veg fyrir að síðan myndi endurnýjast sjálfkrafa.
