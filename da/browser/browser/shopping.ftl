@@ -6,6 +6,13 @@ shopping-page-title = Shopping i { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificering af anmeldelser
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Verificering af anmeldelser - beta
 shopping-close-button =
     .title = Luk
 # This string is for notifying screen reader users that the
