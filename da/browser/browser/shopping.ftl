@@ -157,6 +157,28 @@ shopping-survey-thanks-message = Tak for tilbagemeldingen!
 
 shopping-callout-closed-opted-in-subtitle = Vend tilbage til <strong>verificering af anmeldelser</strong>, når du ser prismærket.
 shopping-callout-pdp-opted-in-title = Er de her anmeldelser pålidelige? Find hurtigt ud af det.
+shopping-callout-closed-not-opted-in-title = Pålidelige anmeldelser med et enkelt klik
+shopping-callout-closed-not-opted-in-subtitle = Prøv verificering af anmeldelser, når du ser prismærket. Hør rigtige menneskers mening før du handler.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Prøv vores guide til pålidelige produktanmeldelser
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Se hvor pålidelige anmeldelserne af produkter er på <b>{ $currentSite }</b> før du køber. Verificering af anmeldelser, en eksperimentel funktion fra { -vendor-short-name } er indbygget i { -brand-product-name } - og virker også på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Ved hjælp af { -fakespot-brand-full-name } kan vi hjælpe dig med at undgå partiske og upålidelige anmeldelser. Vores AI-model forbedres hele tiden for at beskytte dig, når du shopper. <a data-l10n-name="learn_more">Læs mere</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ved at vælge "{ shopping-onboarding-opt-in-button }" godkender du { -fakespot-brand-full-name }s <a data-l10n-name="privacy_policy">privatlivspolitik</a> og <a data-l10n-name="terms_of_use">betingelser for brug.</a>
+shopping-onboarding-opt-in-button = Ja, prøv det
+shopping-onboarding-not-now-button = Ikke nu
+shopping-onboarding-dialog-close-button =
+    .title = Luk
+    .aria-label = Luk
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Status: Skridt { $current } af { $total }
