@@ -103,4 +103,4 @@ set-password-reminder = Mba’eguasúva: nderesaráiramo ñe’ẽñemi pytyvõr
 
 # Variables:
 # $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
-protected-auth-alert = Ejekuaauka eipurúvo token “{ $tokenName }”. Mba’éicha ejapóta odepende pe token rehe (techapyrã, eipurúvo kuãhũ moñe’ẽha térã emoingévo ayvu tairenda ndive).
+protected-auth-alert = Ejekuaauka eiporúvo token “{ $tokenName }”. Mba’éicha ejapóta odepende pe token rehe (techapyrã, eiporúvo kuãhũ moñe’ẽha térã emoingévo ayvu tairenda ndive).

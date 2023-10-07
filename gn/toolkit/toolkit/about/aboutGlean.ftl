@@ -82,7 +82,7 @@ about-glean-adhoc-explanation =
     Eha’ãve hag̃ua <i>ad hoc</i>,
     avei ehechakuaa porupyrã repy ag̃aguáva
     embojurujávo peteĩ tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>
-    ha eipurúvo pe API <code>testGetValue()</code> ko
+    ha eiporúvo pe API <code>testGetValue()</code> ko
     <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
 controls-button-label-verbose = Emboheko ha emondo ping
 about-glean-about-data-header = Mba’ekuaarã rehegua

@@ -127,7 +127,7 @@ certerror-expired-cert-second-para = Ikatu pe tenda pegua ñemboajepyre hi’ár
 certerror-expired-cert-sts-second-para = Ikatu hína pe tenda pegua ñemboajepyre hi’ára g̃uahẽma, omboykéva { -brand-short-name } oike hag̃ua tekorosãme.
 certerror-what-can-you-do-about-it-title = ¿Mba’épa ikatu ejapo upéicharamo?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Ikatu hína oiko peteĩ apañuãi ko ñanduti rendápe ha ndaikatúi mba’eve ejapo emoĩporã hag̃ua.
-certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Eipurúramo ñanduti atyguáva térã software imba’echu’i’ỹva, ikatu emomarandu hína pytyvõha atýpe. Avei ikatu emomarandu ñanduti ñangarekohárape apañuãi rehegua.
+certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Eiporúramo ñanduti atyguáva térã software imba’echu’i’ỹva, ikatu emomarandu hína pytyvõha atýpe. Avei ikatu emomarandu ñanduti ñangarekohárape apañuãi rehegua.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
