@@ -43,6 +43,7 @@ shopping-message-bar-warning-stale-analysis-button = Kontroller nu
 shopping-message-bar-generic-error-title2 = Ingen oplysninger tilgængelige i øjeblikket
 shopping-message-bar-generic-error-message = Vi arbejder på at løse problemet. Prøv igen om lidt.
 shopping-message-bar-warning-not-enough-reviews-title = Ikke nok anmeldelser lige nu
+shopping-message-bar-warning-not-enough-reviews-message2 = Når dette produkt har flere anmeldelser, kan vi kontrollere deres kvalitet.
 shopping-message-bar-warning-product-not-available-title = Produktet er ikke tilgængeligt
 shopping-message-bar-warning-product-not-available-message2 = Hvis du har set, at produktet er på lager igen, må du gerne rapportere det. Så kan vi kontrollere anmeldelserne.
 shopping-message-bar-warning-product-not-available-button = Rapporter at produktet er på lager igen
@@ -157,6 +158,7 @@ shopping-survey-thanks-message = Tak for tilbagemeldingen!
 
 shopping-callout-closed-opted-in-subtitle = Vend tilbage til <strong>verificering af anmeldelser</strong>, når du ser prismærket.
 shopping-callout-pdp-opted-in-title = Er de her anmeldelser pålidelige? Find hurtigt ud af det.
+shopping-callout-pdp-opted-in-subtitle = Åbn verificering af anmeldelser for at se en justeret bedømmelse, hvor upålidelige anmeldelser er fjernet. Og se højdepunkter fra de seneste pålidelige anmeldelser.
 shopping-callout-closed-not-opted-in-title = Pålidelige anmeldelser med et enkelt klik
 shopping-callout-closed-not-opted-in-subtitle = Prøv verificering af anmeldelser, når du ser prismærket. Hør rigtige menneskers mening før du handler.
 
