@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Udvidet beskyttelse mod sporing
 content-blocking-section-top-level-description = Sporings-teknologier følger dig rundt på nettet for at indsamle information om dine vaner og interesser. { -brand-short-name } blokerer mange af disse sporings-teknologier og andre ondsindede scripts.
 content-blocking-learn-more = Læs mere
 content-blocking-fpi-incompatibility-warning = Du bruger First Party Isolation (FPI), som tilsidesætter nogle af indstillingerne for cookies i { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Du bruger Resist Fingerprinting (RFP), der erstatter nogle af indstillingerne for beskyttelse mod fingerprinting i { -brand-short-name }. Dette kan medføre, at nogen websteder ikke fungerer korrekt.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1152,6 +1156,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Indsamling og brug af data i { -brand-short-name }
+collection-header2 = Indsamling og brug af data i { -brand-short-name }
+    .searchkeywords = telemetry
 collection-description = Vi stræber efter at give dig mulighed for selv at vælge og indsamler kun, hvad vi har brug for til at forbedre { -brand-short-name } for alle. Vi spørger altid om din tilladelse, før vi modtager personlig information.
 collection-privacy-notice = Privatlivserklæring
 collection-health-report-telemetry-disabled = Du tillader ikke længere, at { -vendor-short-name } indsamler teknisk data og data om brug. Alle tidligere data vil blive slettet indenfor 30 dage.
