@@ -25,6 +25,7 @@ inactive-css-not-flex-container = <strong>{ $property }</strong> ndoguerekói mb
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ndoguerekói mba’evéichagua mba’evai ko mba’epurúpe, ndaha’éi rupi mba’eporu eikundahakuévo térã tenda’iete.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> noñemoneĩri ::mba’eporugua’u tairenda ñepyrũguápe.
 inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u ndive ::first-letter.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u ndive ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’epurúpe, oguereko rupi jehechaha <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = Pe mongu’eha omoambue <strong>jehecha</strong> repykue <strong>jokoha</strong> pe mba’eporu oĩgui <strong>vevuihápe</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ndakatúi eipe’aite <strong>{ $property }</strong> jejoko <strong>:jehopyre</strong> rupive.
@@ -38,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> ndoguerekói mba’eve ko mba’epurúpe ndaikatúi rupi oñemohembiapo mba’eporuita hyepyguávape <strong>border-collapse</strong>oguereko tepykue<strong>collapse</strong> mba’eporu mba’ekuaarã’aty tuichavévape.
 inactive-css-ruby-element = <strong>{ $property }</strong> nombyaikuaái ko mba’epurúpe ha’e rupi mba’eporu ruby. Tuichakue ojehecha moñe’ẽrã ruby reñoiha tuichakue.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ndojokupytýi mba’eporugua’u mbosa’ypyrére.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ojokupyty mba’eporugua’u ndive ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
