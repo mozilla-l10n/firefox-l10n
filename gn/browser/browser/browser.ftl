@@ -365,9 +365,9 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Jepe’a sapy’agua
 identity-https-only-info-turn-on2 = Emyandy HTTPS ayvu añoite ko tendápe g̃uarã eipotáramo { -brand-short-name } ombohekopyahu nde jeike ikatu vove.
-identity-https-only-info-turn-off2 = Pe tenda ndoikoporãirõ, ikatu emboguese pe HTTPS ayvu añoite emyanyhẽjey hag̃ua eipurúvo HTTP jeike hekorosã’ỹva.
+identity-https-only-info-turn-off2 = Pe tenda ndoikoporãirõ, ikatu emboguese pe HTTPS ayvu añoite emyanyhẽjey hag̃ua eiporúvo HTTP jeike hekorosã’ỹva.
 identity-https-only-info-turn-on3 = Emyandy HTTPS rekopyahurã ko tendápe g̃uarã eipotáramo { -brand-short-name } ombohekopyahu nde jeike ikatu vove.
-identity-https-only-info-turn-off3 = Pe tenda ndoikoporãirõ, ikatu emboguese HTTPS rekopyahurã emyanyhẽjey hag̃ua pe tenda eipurúvo HTTP hekorosã’ỹva.
+identity-https-only-info-turn-off3 = Pe tenda ndoikoporãirõ, ikatu emboguese HTTPS rekopyahurã emyanyhẽjey hag̃ua pe tenda eiporúvo HTTP hekorosã’ỹva.
 identity-https-only-info-no-upgrade = Ndaikatúi embohekopyahu jeike HTTP guive.
 identity-permissions-storage-access-header = Kookie tenda ojuasáva
 identity-permissions-storage-access-hint = Ko’ãva ikatu oiporu kookie ha tenda ojuasáva mba’ekuaarã eime aja ko tendápe.
@@ -483,7 +483,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description2 = Eipurútarõ mbopya’eha F12, embojurujaraẽ DevTools kundahára rembiporu poravorã rupive.
+enable-devtools-popup-description2 = Eiporútarõ mbopya’eha F12, embojurujaraẽ DevTools kundahára rembiporu poravorã rupive.
 
 ## URL Bar
 

@@ -83,14 +83,14 @@ permissions-exceptions-manage-etp-desc = Ikatu ehechauka mba’ete ñanduti rend
 permissions-exceptions-cookie-window2 =
     .title = Ijykepeguáva: Kookie ha tenda mba’ekuaarã
     .style = { permissions-window2.style }
-permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oiporu térã araka’eve ndoipurúiva kookie ha mba’ekuaarã tendagua. Ehai ñandutirape tenda reisãmbyhyséva ha upéi ehesakutu Joko, emoneĩ tembiapo térã Emoneĩ.
+permissions-exceptions-cookie-desc = Ikatu ere máva ñanduti rendápa akóinte oiporu térã araka’eve ndoiporúiva kookie ha mba’ekuaarã tendagua. Ehai ñandutirape tenda reisãmbyhyséva ha upéi ehesakutu Joko, emoneĩ tembiapo térã Emoneĩ.
 
 ## Exceptions - HTTPS-Only Mode
 
 permissions-exceptions-https-only-window2 =
     .title = Ykepegua – HTTPS ayvu añópe
     .style = { permissions-window2.style }
-permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñanduti rendaitépe. { -brand-short-name } nomoambuemo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã. Umi ykepegua ndoipurúi ovetãnguéra ñemiguáva.
+permissions-exceptions-https-only-desc = Ikatu eipe’a HTTPS ayvu añoite ñanduti rendaitépe. { -brand-short-name } nomoambuemo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã. Umi ykepegua ndoiporúi ovetãnguéra ñemiguáva.
 permissions-exceptions-https-only-desc2 = Ikatu eipe’a HTTPS ayvu ñanduti peteĩva pegua. { -brand-short-name } nombohekopyahumo’ãi HTTPS jeike hekorosãva umi tendápe g̃uarã.
 
 ## Exceptions - Pop-ups
@@ -156,7 +156,7 @@ permissions-site-xr-disable-desc = Kóva omboykéta umi ñanduti renda noĩriva 
 permissions-site-camera-window2 =
     .title = Ñangareko - Camara Jeporu
     .style = { permissions-window2.style }
-permissions-site-camera-desc = Ko’ãva ñanduti renda ojejerure oike hag̃ua ta’ãngamýime. Ikatu ehechauka mba’e ñanduti rendápa oreko ñemoneĩ oipurúvo ta’angamýi. Ejokokuaa avei mba’ejerure pyahu oikeséva ta’ãngamýime.
+permissions-site-camera-desc = Ko’ãva ñanduti renda ojejerure oike hag̃ua ta’ãngamýime. Ikatu ehechauka mba’e ñanduti rendápa oreko ñemoneĩ oiporúvo ta’angamýi. Ejokokuaa avei mba’ejerure pyahu oikeséva ta’ãngamýime.
 permissions-site-camera-disable-label =
     .label = Mba’ejerure pyahu joko ani hag̃ua ojeporu ta’ãngamýi
 permissions-site-camera-disable-desc = Kóva omboykéta ñanduti renda noĩriva tysýi yvy gotyoguápe ojerurévo ñemoneĩ oike hag̃ua ta’ãngamýime. Ejokóramo ta’ãngamýime jeike ombyaikuaa ambue ñanduti rendápe.
@@ -166,7 +166,7 @@ permissions-site-camera-disable-desc = Kóva omboykéta ñanduti renda noĩriva 
 permissions-site-microphone-window2 =
     .title = Ñangareko - Ñe’ẽmbotuichaha Jeporu
     .style = { permissions-window2.style }
-permissions-site-microphone-desc = Ko’ã ñanduti renda ojerure ikatúpa oike ñe’ẽ’atãhápe. Ikatu emyesakã mba’e ñanduti rendápa oguereko ñemoneĩ oipurúvo ñe’ẽ’atãha. Avéi ikatu ejoko mba’ejerure pyahu oikeséva ñe’ẽ’atãhápe rehegua.
+permissions-site-microphone-desc = Ko’ã ñanduti renda ojerure ikatúpa oike ñe’ẽ’atãhápe. Ikatu emyesakã mba’e ñanduti rendápa oguereko ñemoneĩ oiporúvo ñe’ẽ’atãha. Avéi ikatu ejoko mba’ejerure pyahu oikeséva ñe’ẽ’atãhápe rehegua.
 permissions-site-microphone-disable-label =
     .label = Mba’ejerure pyahu joko ani hag̃ua ojeporu ne ñe’ẽ’atãha
 permissions-site-microphone-disable-desc = Ko’ãva omboykéta umi ñanduti renda noĩriva omba’ejeruréva ñemoneĩ oike hag̃ua ñe’ẽ’atãhápe. Ejokóramo ñe’ẽ’atãhápe jeike ikatu ombyai ambue ñanduti rendápe.

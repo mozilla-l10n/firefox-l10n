@@ -250,7 +250,7 @@ choose-language-description = Eipoiravo pe ñe’ẽ erohoryvéva ehechauka hag�
 choose-button =
     .label = Poravo…
     .accesskey = o
-choose-browser-language-description = Eiporavo ñe’ẽ ojepurúva ehechauka hag̃ua poravorã, ñe’ẽmondo ha momarandu { -brand-short-name } rehegua.
+choose-browser-language-description = Eiporavo ñe’ẽ ojeporúva ehechauka hag̃ua poravorã, ñe’ẽmondo ha momarandu { -brand-short-name } rehegua.
 manage-browser-languages-button =
     .label = Emopyenda mokõiháva
     .accesskey = l
@@ -295,7 +295,7 @@ download-always-ask-where =
     .label = Eporandumeméke chéve moõpa añongatúta marandurenda
     .accesskey = A
 applications-header = Tembiporu’i
-applications-description = Eiporavo { -brand-short-name } eiporu marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eipurúva eikundaha aja.
+applications-description = Eiporavo { -brand-short-name } eiporu marandurenda ñemboguejy ñanduti guive térã umi tembiporu’i eiporúva eikundaha aja.
 applications-filter =
     .placeholder = Eheka marandurenda peteĩchagua térã tembiporu’i
 applications-type-column =
@@ -402,7 +402,7 @@ update-application-manual =
 update-application-background-enabled =
     .label = { -brand-short-name } nomba’apói jave
     .accesskey = W
-update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oipurúvo ko { -brand-short-name } ñemohenda.
+update-application-warning-cross-user-setting = Ko ñemboheko ojogueraháta opaite Windows mba’ete ndive ha umi teratee { -brand-short-name } rehegua oiporúvo ko { -brand-short-name } ñemohenda.
 update-application-use-service =
     .label = Eiporu peteĩ mba’epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu
     .accesskey = b
@@ -438,7 +438,7 @@ performance-allow-hw-accel =
     .accesskey = r
 performance-limit-content-process-option = Tetepy ha tembe’y mba’eapo
     .accesskey = l
-performance-limit-content-process-enabled-desc = Umi taperekogua tetepy mbohetapy ikatu omopu’ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu’arenda.
+performance-limit-content-process-enabled-desc = Umi taperekogua tetepy mbohetapy ikatu omopu’ã apopyre oiporúvo heta tendayke, hákatu avei oiporúta hetave mandu’arenda.
 performance-limit-content-process-blocked-desc = Pe mba’eapo papapy moambue retepy ikatu oiko mba’eapoita { -brand-short-name } ndive añónte. <a data-l10n-name="learn-more">Eikuaa mba’éichapa ehechajeýta mba’eapoita ijuruja jave</a>
 # Variables:
 #   $num (number) - Default value of the `dom.ipc.processCount` pref.
@@ -640,8 +640,8 @@ search-find-more-link = Ejuhu hetave hekaha mongu’eha
 search-keyword-warning-title = Jehero jo’apyre
 # Variables:
 #   $name (string) - Name of a search engine.
-search-keyword-warning-engine = Eiporavókuri peteĩ jehero oipurúmava "{ $name }". Ikatúpiko eiporavo ambue.
-search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oipurúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
+search-keyword-warning-engine = Eiporavókuri peteĩ jehero oiporúmava "{ $name }". Ikatúpiko eiporavo ambue.
+search-keyword-warning-bookmark = Eiporavókuri peteĩ jehero oiporúmava ambue techaukaha. Ikatúpiko eiporavo ambue.
 
 ## Containers Section
 
@@ -968,7 +968,7 @@ forms-handle-cookie-banners =
 ## Privacy Section - Address Bar
 
 addressbar-header = Kundaharape renda
-addressbar-suggest = Eipurúramo kundaharape renda, eñemoñe’ẽ
+addressbar-suggest = Eiporúramo kundaharape renda, eñemoñe’ẽ
 addressbar-locbar-history-option =
     .label = Kundaha rembiasakue
     .accesskey = h
@@ -1244,19 +1244,19 @@ preferences-doh-resolver = Me’ẽhára: { $name }
 # This is displayed instead of $name in preferences-doh-resolver
 # when the DoH URL is not a valid URL
 preferences-doh-bad-url = URL ndoikóiva
-preferences-doh-steering-status = Eipurúvo me’ẽhára pepeteguáva
+preferences-doh-steering-status = Eiporúvo me’ẽhára pepeteguáva
 preferences-doh-status-active = Myandy
 preferences-doh-status-disabled = Mboguepyre
 # Variables:
 #   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
 preferences-doh-status-not-active = Oku’e’ỹva ({ $reason })
-preferences-doh-group-message = Embojuruja DNS hekorosãva eipurúvo:
+preferences-doh-group-message = Embojuruja DNS hekorosãva eiporúvo:
 preferences-doh-expand-section =
     .tooltiptext = Maranduve
 preferences-doh-setting-default =
     .label = Ñemoã ijypyguáva
     .accesskey = D
-preferences-doh-default-desc = { -brand-short-name } oikuaa oipurúta vove DNS hekorosãva omo’ã hag̃ua nde rekoñemi.
+preferences-doh-default-desc = { -brand-short-name } oikuaa oiporúta vove DNS hekorosãva omo’ã hag̃ua nde rekoñemi.
 preferences-doh-default-detailed-desc-1 = Eiporu DNS hekorosãva tendaguasu ikatuhápe
 preferences-doh-default-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
 preferences-doh-default-detailed-desc-3 = Eiporu me’ẽhara ag̃uigua ikatúramo
@@ -1265,7 +1265,7 @@ preferences-doh-default-detailed-desc-5 = Eipe’a pe pyha he’ívo { -brand-sh
 preferences-doh-setting-enabled =
     .label = Ñemo’ã Tuichavéva
     .accesskey = I
-preferences-doh-enabled-desc = Nde eikuaáta araka’e eipurúta DNS hekorosãva ha eiporavo me’ẽhára.
+preferences-doh-enabled-desc = Nde eikuaáta araka’e eiporúta DNS hekorosãva ha eiporavo me’ẽhára.
 preferences-doh-enabled-detailed-desc-1 = Eiporu me’ẽhára poravopyre
 preferences-doh-enabled-detailed-desc-2 = Eiporu DNS rechaporãha ijypykuéva oĩramo apañuãi DNS hekorosãva me’ẽhára ndive
 preferences-doh-setting-strict =
