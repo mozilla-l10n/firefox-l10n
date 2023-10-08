@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Erweiterungen
         Einige Erweiterungen sind nicht erlaubt
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Private Sitzung beenden
+    .tooltiptext = Private Sitzung beenden
+reset-pbm-panel-heading = Ihre private Sitzung beenden?
+reset-pbm-panel-description = Schließen Sie alle privaten Tabs und löschen Sie Chronik, Cookies und alle anderen Website-Daten.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Immer fragen
+    .accesskey = I
+reset-pbm-panel-cancel-button =
+    .label = Abbrechen
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Sitzungsdaten löschen
+    .accesskey = S
+reset-pbm-panel-complete = Private Sitzungsdaten gelöscht
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } hat diese Webseite daran gehindert automatisch neu zu laden.
