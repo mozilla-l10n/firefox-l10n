@@ -30,6 +30,8 @@ about-logging-preset-networking-label = Verkko
 about-logging-preset-networking-http3-label = HTTP/3
 about-logging-preset-media-playback-label = Median toisto
 about-logging-preset-webrtc-label = WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-gfx-label = Grafiikka
 # Error handling
 about-logging-error = Virhe:
 

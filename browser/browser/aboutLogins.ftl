@@ -195,6 +195,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Tämä poistaa kirjautumistiedon, jonka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu { -fxaccount-brand-name(case: "allative") }. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
        *[other] Tämä poistaa kaikki kirjautumistiedot, jotka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu { -fxaccount-brand-name(case: "allative") }. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Tämä poistaa kirjautumistiedon, jonka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu tilillesi. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
+        [one] Tämä poistaa kirjautumistiedon, jonka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu tilillesi. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
+       *[other] Tämä poistaa kaikki kirjautumistiedot, jotka olet tallentanut { -brand-short-name }iin, kaikilta laitteilta, jotka on synkronoitu tilillesi. Tämä poistaa myös tässä näkyvät vuotohälytykset. Tätä toimintoa ei voi kumota.
+    }
 
 ##
 
