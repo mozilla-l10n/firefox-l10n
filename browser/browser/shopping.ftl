@@ -60,6 +60,8 @@ shopping-highlights-label =
 shopping-highlight-price = Fiyat
 shopping-highlight-quality = Kalite
 shopping-highlight-shipping = Kargo
+shopping-highlight-competitiveness = Rekabet gücü
+shopping-highlight-packaging = Paketleme
 
 ## Strings for show more card
 
@@ -138,6 +140,7 @@ shopping-callout-pdp-opted-in-title = Bu değerlendirmeler güvenilir mi? Hızl�
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Evet, deneyeceğim
 shopping-onboarding-not-now-button = Şimdi değil
 shopping-onboarding-dialog-close-button =
     .title = Kapat
