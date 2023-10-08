@@ -910,6 +910,23 @@ unified-extensions-button-quarantined =
         擴充套件
         不允許某些擴充套件
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = 結束隱私瀏覽階段
+    .tooltiptext = 結束隱私瀏覽階段
+reset-pbm-panel-heading = 要結束隱私瀏覽階段嗎？
+reset-pbm-panel-always-ask-checkbox =
+    .label = 每次都問我
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = 取消
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = 清除瀏覽階段資料
+    .accesskey = D
+reset-pbm-panel-complete = 已刪除瀏覽階段資料
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } 已阻止本頁面自動重新載入。
