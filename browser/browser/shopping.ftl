@@ -49,7 +49,9 @@ shopping-message-bar-warning-product-not-available-message2 = Wenn Sie sehen, da
 shopping-message-bar-warning-product-not-available-button = Melden, dass dieses Produkt wieder auf Lager ist
 shopping-message-bar-thanks-for-reporting-title = Danke für die Meldung!
 shopping-message-bar-thanks-for-reporting-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-warning-product-not-available-reported-title2 = Informationen kommen bald
 shopping-message-bar-warning-product-not-available-reported-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-analysis-in-progress-title2 = Qualität der Bewertung wird überprüft
 shopping-message-bar-analysis-in-progress-message2 = Dies kann etwa 60 Sekunden dauern.
 shopping-message-bar-page-not-supported-title = Wir können diese Bewertungen nicht überprüfen
 shopping-message-bar-page-not-supported-message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
@@ -96,6 +98,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Wie wir die Qualität einer Bewertung bestimmen
+shopping-analysis-explainer-intro2 = Wir verwenden die KI-Technologie von { -fakespot-brand-full-name }, um die Zuverlässigkeit von Produktbewertungen zu analysieren. Diese Analyse hilft Ihnen nur bei der Bewertung der Qualität der Rezensionen, nicht der Produktqualität.
 shopping-analysis-explainer-grades-intro = Wir geben den Bewertungen jedes Produkts eine <strong>Bewertung</strong> von A bis F.
 shopping-analysis-explainer-adjusted-rating-description = Die <strong>angepasste Bewertung</strong> basiert nur auf Bewertungen, die wir für zuverlässig halten.
 shopping-analysis-explainer-learn-more = Erfahren Sie mehr darüber, <a data-l10n-name="review-quality-url">wie { -fakespot-brand-full-name } die Qualität von Bewertungen</a> bestimmt.
@@ -122,6 +125,8 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Noch keine Informationen zu diesen Bewertungen
+shopping-unanalyzed-product-message-2 = Um zu wissen, ob die Bewertungen dieses Produkts zuverlässig sind, überprüfen Sie die Qualität der Bewertungen. Es dauert nur etwa 60 Sekunden.
+shopping-unanalyzed-product-analyze-button = Qualität der Bewertung überprüfen
 
 ## Strings for the advertisement
 
@@ -131,17 +136,21 @@ ad-by-fakespot = Anzeige von { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Helfen Sie bei der Verbesserung von { -brand-product-name }
+shopping-survey-question-one = Wie zufrieden sind Sie mit dem Rezensionsprüfer in { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Sehr zufrieden
 shopping-survey-q1-radio-2-label = Zufrieden
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Unzufrieden
 shopping-survey-q1-radio-5-label = Sehr unzufrieden
+shopping-survey-question-two = Macht der Rezensionsprüfer es für Sie einfacher, Kaufentscheidungen zu treffen?
 shopping-survey-q2-radio-1-label = Ja
 shopping-survey-q2-radio-2-label = Nein
 shopping-survey-q2-radio-3-label = Ich weiß nicht
 shopping-survey-next-button-label = Weiter
 shopping-survey-submit-button-label = Absenden
 shopping-survey-terms-link = Nutzungsbedingungen
+shopping-survey-thanks-message = Danke für Ihr Feedback!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
