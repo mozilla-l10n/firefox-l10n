@@ -261,3 +261,19 @@ pdf-default-notification-set-default-button =
     .label = Imposta come predefinito
 pdf-default-notification-decline-button =
     .label = Non adesso
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Vuoi aprire { -brand-short-name } quando riavvii il computer?</strong> Ora puoi impostare { -brand-short-name } per aprirsi automaticamente quando il dispositivo viene riavviato.
+launch-on-login-learnmore = Ulteriori informazioni
+launch-on-login-infobar-confirm-button = Sì, apri { -brand-short-name }
+  .accesskey = S
+launch-on-login-infobar-reject-button = Non adesso
+  .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Vuoi aprire { -brand-short-name } quando riavvii il computer?</strong> Per gestire le impostazioni di avvio, cerca “avvio” nelle impostazioni.
+launch-on-login-infobar-final-reject-button = No grazie
+  .accesskey = N
