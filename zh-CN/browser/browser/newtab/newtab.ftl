@@ -72,7 +72,7 @@ newtab-confirm-delete-history-p2 = 此操作无法撤销。
 
 ## Top Sites - Sponsored label
 
-newtab-topsite-sponsored = 赞助项目
+newtab-topsite-sponsored = 赞助推广
 
 ## Context Menu - Action Tooltips.
 

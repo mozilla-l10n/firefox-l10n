@@ -553,7 +553,7 @@ urlbar-result-action-search-in-private = 在隐私窗口中搜索
 # Variables
 #  $engine (String): the name of a search engine
 urlbar-result-action-search-w-engine = 使用 { $engine } 搜索
-urlbar-result-action-sponsored = 赞助项目
+urlbar-result-action-sponsored = 赞助推广
 urlbar-result-action-switch-tab = 切换到标签页
 urlbar-result-action-visit = 访问
 # Allows the user to visit a URL that was previously copied to the clipboard.
