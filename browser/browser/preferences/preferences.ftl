@@ -129,6 +129,12 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Apri finestre e schede esistenti
     .accesskey = r
+
+windows-launch-on-login =
+    .label = Apri automaticamente { -brand-short-name } quando si avvia il computer
+    .accesskey = A
+windows-launch-on-login-disabled = Questa opzione è stata disattivata in Windows. Per modificarla, apri <a data-l10n-name="startup-link">App di avvio</a> in Impostazioni.
+
 startup-restore-warn-on-quit =
     .label = Avvisa quando si chiude il browser
 disable-extension =
