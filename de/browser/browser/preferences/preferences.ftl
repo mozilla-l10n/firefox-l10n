@@ -1003,6 +1003,10 @@ content-blocking-enhanced-tracking-protection = Verbesserter Schutz vor Aktivit�
 content-blocking-section-top-level-description = Skripte zur Aktivitätenverfolgung folgen Ihnen und sammeln Informationen über Ihre Internet-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
 content-blocking-learn-more = Weitere Informationen
 content-blocking-fpi-incompatibility-warning = Sie verwenden First Party Isolation (FPI), was einige der Cookie-Einstellungen von { -brand-short-name } überschreibt.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Sie verwenden "Resist Fingerprinting" (RSP), was einige der Einstellungen von { -brand-short-name }  zum Schutz vor Identifizierung (Fingerprinter) ersetzt. Dies kann dazu führen, dass einige Websites nicht funktionieren.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1210,6 +1214,9 @@ certs-view =
 certs-devices =
     .label = Kryptographie-Module…
     .accesskey = K
+certs-thirdparty-toggle =
+    .label = { -brand-short-name } erlauben, Stammzertifikaten von Drittanbietern, die Sie installieren, automatisch zu vertrauen
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Einstellungen öffnen
     .accesskey = E
