@@ -70,6 +70,9 @@ shopping-message-bar-analysis-in-progress-title2 = Verificando la calidad de la 
 shopping-message-bar-analysis-in-progress-message2 = Esto puede tardar unos 60 segundos.
 shopping-message-bar-page-not-supported-title = No podemos comprobar estas revisiones
 shopping-message-bar-page-not-supported-message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
+shopping-message-bar-page-not-supported =
+    .heading = No podemos comprobar estas revisiones
+    .message = Lamentablemente, no podemos verificar la calidad de las revisiones de ciertos tipos de productos. Por ejemplo, tarjetas de regalo y streaming de vídeos, música y juegos.
 
 ## Strings for the product review snippets card
 
