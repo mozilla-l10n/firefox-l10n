@@ -53,12 +53,12 @@ translations-panel-settings-always-offer-translation =
 # Variables:
 #   $language (string) - The localized display name of the detected language
 translations-panel-settings-never-translate-language =
-    .label = Jammais traducer ab { $language }
+    .label = Non traducer jammais ab { $language }
 translations-panel-settings-never-translate-unknown-language =
-    .label = Jammais traducer ab iste lingua
+    .label = Non traducer jammais ab iste lingua
 # Text displayed for the option to never translate this website
 translations-panel-settings-never-translate-site =
-    .label = Jammais traducer iste sito
+    .label = Non traducer jammais iste sito
 
 ## The translation panel appears from the url bar, and this view is the default
 ## translation view.
@@ -72,7 +72,7 @@ translations-panel-translate-cancel =
     .label = Cancellar
 translations-panel-learn-more-link = Pro saper plus
 translations-panel-intro-header = Discoperi le traductiones private in { -brand-shorter-name }
-translations-panel-intro-description = Pro tu confidentialitate le traductiones jammais lassa tu apparato. Nove lingua e meliorationes venira tosto!
+translations-panel-intro-description = Pro respectar tu confidentialiate, le traductiones non lassa jammais tu apparato. Nove linguas e meliorationes venira tosto!
 translations-panel-error-translating = Il habeva un problema traducente. Retenta.
 translations-panel-error-load-languages = Impossibile cargar linguas
 translations-panel-error-load-languages-hint = Verifica tu connexion a internet e retenta.
