@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Diolch am adrodd!
 shopping-message-bar-thanks-for-reporting-message2 = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
 shopping-message-bar-warning-product-not-available-reported-title2 = Gwybodaeth yn dod cyn hir
 shopping-message-bar-warning-product-not-available-reported-message2 = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
+shopping-message-bar-generic-error =
+    .heading = Dim gwybodaeth ar gael ar hyn o bryd
+    .message = Rydym yn gweithio i ddatrys y mater. Dewch nôl cyn bo hir.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Dim digon o adolygiadau eto
+    .message = Pan fydd gan y cynnyrch hwn fwy o adolygiadau, byddwn yn gallu gwirio eu hansawdd.
+shopping-message-bar-warning-product-not-available =
+    .heading = Nid yw'r cynnyrch ar gael
+    .message = Os ydych yn gweld fod y cynnyrch hwn nôl mewn stoc, rhowch wybod i ni ac fe wnawn ni ddiweddaru’r dadansoddiad.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Diolch am adrodd!
+    .message = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Gwybodaeth yn dod cyn hir
+    .message = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
 shopping-message-bar-analysis-in-progress-title2 = Gwirio ansawdd adolygiadau
 shopping-message-bar-analysis-in-progress-message2 = Gall hyn gymryd tua 60 eiliad.
 shopping-message-bar-page-not-supported-title = Methu gwirio’r adolygiadau hyn
 shopping-message-bar-page-not-supported-message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
+shopping-message-bar-page-not-supported =
+    .heading = Methu gwirio’r adolygiadau hyn
+    .message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = Nesaf
 shopping-survey-submit-button-label = Cyflwyno
 shopping-survey-terms-link = Amodau defnydd
 shopping-survey-thanks-message = Diolch am eich adborth!
+shopping-survey-thanks =
+    .heading = Diolch am eich adborth!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
