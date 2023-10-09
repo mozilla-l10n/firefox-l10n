@@ -31,33 +31,16 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Даступныя абнаўленні
-shopping-message-bar-warning-stale-analysis-message = Запусціце аналізатар { -fakespot-brand-full-name }, каб атрымаць абноўленую інфармацыю прыкладна праз 60 секунд.
-shopping-message-bar-generic-error-title = Аналіз зараз недаступны
 shopping-message-bar-generic-error-message = Мы працуем над вырашэннем праблемы. Калі ласка, праверце пазней.
 shopping-message-bar-warning-not-enough-reviews-title = Пакуль недастаткова водгукаў
-shopping-message-bar-warning-not-enough-reviews-message = Калі на гэты прадукт будзе больш водгукаў, мы зможам іх прааналізаваць.
 shopping-message-bar-warning-product-not-available-title = Прадукт недаступны
-shopping-message-bar-warning-product-not-available-message = Калі вы ўбачыце, што гэты прадукт ізноў у наяўнасці, паведаміце нам пра гэта, і мы будзем абнаўляць аналіз.
 shopping-message-bar-warning-product-not-available-button = Паведаміць, што гэты прадукт ізноў у наяўнасці
 shopping-message-bar-thanks-for-reporting-title = Дзякуй за паведамленне!
-shopping-message-bar-thanks-for-reporting-message = Мы павінны атрымаць абноўлены аналіз на працягу 24 гадзін. Праверце зноў пазней.
-shopping-message-bar-warning-product-not-available-reported-title = Аналіз хутка будзе
-shopping-message-bar-warning-product-not-available-reported-message = Абноўлены аналіз павінен быць гатовы на працягу 24 гадзін. Праверце зноў пазней.
-shopping-message-bar-warning-offline-title = Няма падключэння да сеткі
-shopping-message-bar-warning-offline-message = Праверце падключэнне да сеткі. Потым паспрабуйце абнавіць старонку.
-shopping-message-bar-analysis-in-progress-title = Аналіз хутка будзе
-shopping-message-bar-analysis-in-progress-message = Калі будзе гатова, мы аўтаматычна пакажам тут абноўленую інфармацыю.
 shopping-message-bar-page-not-supported-title = Мы не можам праверыць гэтыя водгукі
 shopping-message-bar-page-not-supported-message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Запусціць аналізатар на { -fakespot-website-name }
+shopping-message-bar-page-not-supported =
+    .heading = Мы не можам праверыць гэтыя водгукі
+    .message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
 
 ## Strings for the product review snippets card
 
@@ -99,9 +82,6 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Як мы вызначаем якасць водгукаў
-shopping-analysis-explainer-intro =
-    Мы выкарыстоўваем тэхналогію штучнага інтэлекту ад { -fakespot-brand-full-name } для аналізу надзейнасці водгукаў на прадукцыю.
-    Гэты аналіз дапаможа вам ацаніць толькі якасць водгуку, а не якасць прадукту.
 shopping-analysis-explainer-grades-intro = Кожнаму водгуку на прадукт мы прысвойваем <strong>літарную адзнаку</strong> ад A да F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скарэкціраваны рэйтынг</strong> заснаваны толькі на водгуках, якія мы лічым надзейнымі.
 shopping-analysis-explainer-learn-more = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } вызначае якасць водгукаў</a>.
@@ -115,10 +95,6 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Ненадзейн
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Адкрыць бакавую панэль пакупак
-shopping-sidebar-close-button =
-    .tooltiptext = Закрыць бакавую панэль пакупак
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -127,12 +103,20 @@ shopping-sidebar-close-button =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header = Пакуль няма аналізу гэтых водгукаў
-shopping-unanalyzed-product-message = Запусціце аналізатар { -fakespot-brand-full-name }, і прыкладна праз 60 секунд вы даведаецеся, ці надзейныя водгукі аб гэтым прадукце.
-shopping-unanalyzed-product-analyze-link = Запусціць аналізатар на { -fakespot-website-name }
 
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
     .label = Што яшчэ варта разгледзець
 ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
+
