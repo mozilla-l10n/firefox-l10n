@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Ouvrir le menu de { $extensionName }
-
 unified-extensions-item-message-manage = Gérer l’extension
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Épingler à la barre d’outils
-
 unified-extensions-context-menu-manage-extension =
     .label = Gérer l’extension
-
 unified-extensions-context-menu-remove-extension =
     .label = Supprimer l’extension
-
 unified-extensions-context-menu-report-extension =
     .label = Signaler l’extension
-
 unified-extensions-context-menu-move-widget-up =
     .label = Déplacer vers le haut
-
 unified-extensions-context-menu-move-widget-down =
     .label = Déplacer vers le bas
 
@@ -48,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Certaines extensions ne sont pas autorisées
 unified-extensions-mb-quarantined-domain-message = Afin de protéger vos données, seules certaines extensions surveillées par { -vendor-short-name } sont autorisées sur ce site.
 unified-extensions-mb-quarantined-domain-message-2 = Pour protéger vos données, certaines extensions ne peuvent pas lire ou modifier les données de ce site. Utilisez les paramètres de l’extension pour l’autoriser sur les sites dont l’accès est restreint par { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Certaines extensions ne sont pas autorisées
+    .message = Pour protéger vos données, certaines extensions ne peuvent pas lire ou modifier les données de ce site. Utilisez les paramètres de l’extension pour l’autoriser sur les sites dont l’accès est restreint par { -vendor-short-name }.
