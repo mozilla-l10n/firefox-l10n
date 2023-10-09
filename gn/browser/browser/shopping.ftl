@@ -51,6 +51,21 @@ shopping-message-bar-thanks-for-reporting-title = ¡Aguyje emomarandúre!
 shopping-message-bar-thanks-for-reporting-message2 = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
 shopping-message-bar-warning-product-not-available-reported-title2 = Marandu og̃uahẽtáma
 shopping-message-bar-warning-product-not-available-reported-message2 = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
+shopping-message-bar-generic-error =
+    .heading = Ndaipóri marandu ko’ág̃aite
+    .message = Romba’apo opa hag̃ua apañuãi. Ikatúpiko, eha’ãjey ag̃ave.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Noĩri gueteri heta marandu’i
+    .message = Ko apopyre ojehecha hetajey rire, rohesa’ỹijóta iporãngue.
+shopping-message-bar-warning-product-not-available =
+    .heading = Apopyre ndojeporukuaái
+    .message = Ehechárõ ko apopyre ojejoguakuaajeyma, oremomarandu ha romba’apóta ijehechajey ñehesa’ijópe.
+shopping-message-bar-thanks-for-reporting =
+    .heading = ¡Aguyje emomarandúre!
+    .message = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Marandu og̃uahẽtáma
+    .message = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
 shopping-message-bar-analysis-in-progress-title2 = Ehechajey marandu’i porãngue
 shopping-message-bar-analysis-in-progress-message2 = Kóva ipukukuaa 60 aravo’ive rupi.
 shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
@@ -144,6 +159,8 @@ shopping-survey-next-button-label = Upeigua
 shopping-survey-submit-button-label = Emondo
 shopping-survey-terms-link = Jeporurã reko
 shopping-survey-thanks-message = ¡Aguyje nde jehaipyrére!
+shopping-survey-thanks =
+    .heading = ¡Aguyje nde jehaipyrére!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
