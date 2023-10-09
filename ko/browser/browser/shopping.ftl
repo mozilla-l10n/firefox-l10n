@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = 보고해 주셔서 감사합�
 shopping-message-bar-thanks-for-reporting-message2 = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
 shopping-message-bar-warning-product-not-available-reported-title2 = 곧 정보 제공 예정
 shopping-message-bar-warning-product-not-available-reported-message2 = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
+shopping-message-bar-generic-error =
+    .heading = 현재 사용 가능한 정보가 없음
+    .message = 문제를 해결하기 위해 노력하고 있습니다. 곧 다시 확인하시기 바랍니다.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = 아직 리뷰가 충분하지 않음
+    .message = 이 제품에 대한 리뷰가 더 많아지면 품질을 확인할 수 있을 것입니다.
+shopping-message-bar-warning-product-not-available =
+    .heading = 제품을 사용할 수 없음
+    .message = 이 제품이 재입고된 것을 확인하시면, 보고해 주시면 리뷰를 확인하도록 하겠습니다.
+shopping-message-bar-thanks-for-reporting =
+    .heading = 보고해 주셔서 감사합니다!
+    .message = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = 곧 정보 제공 예정
+    .message = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
 shopping-message-bar-analysis-in-progress-title2 = 리뷰 품질 확인 중
 shopping-message-bar-analysis-in-progress-message2 = 이 작업은 약 60초 정도 걸릴 수 있습니다.
 shopping-message-bar-page-not-supported-title = 리뷰를 확인할 수 없음
 shopping-message-bar-page-not-supported-message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
+shopping-message-bar-page-not-supported =
+    .heading = 리뷰를 확인할 수 없음
+    .message = 안타깝게도 특정 유형의 제품에 대해서는 리뷰 품질을 확인할 수 없습니다. 예를 들어 기프트 카드, 스트리밍 동영상, 음악, 게임 등이 있습니다.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = 다음
 shopping-survey-submit-button-label = 제출
 shopping-survey-terms-link = 사용 약관
 shopping-survey-thanks-message = 피드백 주셔서 감사합니다!
+shopping-survey-thanks =
+    .heading = 피드백 주셔서 감사합니다!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
