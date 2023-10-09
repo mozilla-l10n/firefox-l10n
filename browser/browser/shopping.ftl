@@ -54,6 +54,9 @@ shopping-message-bar-warning-product-not-available-reported-message2 = Vi burde 
 shopping-message-bar-generic-error =
     .heading = Ingen oplysninger tilgængelige i øjeblikket
     .message = Vi arbejder på at løse problemet. Prøv igen om lidt.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ikke nok anmeldelser lige nu
+    .message = Når dette produkt har flere anmeldelser, kan vi kontrollere deres kvalitet.
 shopping-message-bar-warning-product-not-available =
     .heading = Produktet er ikke tilgængeligt
     .message = Hvis du har set, at produktet er på lager igen, må du gerne rapportere det. Så kan vi kontrollere anmeldelserne.
@@ -67,6 +70,9 @@ shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvalitet af anme
 shopping-message-bar-analysis-in-progress-message2 = Dette burde tage omkring 60 sekunder.
 shopping-message-bar-page-not-supported-title = Vi kan ikke kontrollere disse anmeldelser
 shopping-message-bar-page-not-supported-message = Desværre kan vi ikke kontrollere kvaliteten af anmeldelser for visse typer af produkter. For eksempel gavekort og streaming af video, musik og spil.
+shopping-message-bar-page-not-supported =
+    .heading = Vi kan ikke kontrollere disse anmeldelser
+    .message = Desværre kan vi ikke kontrollere kvaliteten af anmeldelser for visse typer af produkter. For eksempel gavekort og streaming af video, musik og spil.
 
 ## Strings for the product review snippets card
 
