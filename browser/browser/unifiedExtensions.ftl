@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = A(z) { $extensionName } menüjének megnyitása
-
 unified-extensions-item-message-manage = Kiegészítő kezelése
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Rögzítés az eszköztárra
-
 unified-extensions-context-menu-manage-extension =
     .label = Kiegészítő kezelése
-
 unified-extensions-context-menu-remove-extension =
     .label = Kiegészítő eltávolítása
-
 unified-extensions-context-menu-report-extension =
     .label = Kiegészítő jelentése
-
 unified-extensions-context-menu-move-widget-up =
     .label = Mozgatás felfelé
-
 unified-extensions-context-menu-move-widget-down =
     .label = Mozgatás lefelé
 
@@ -48,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Egyes kiegészítők nem engedélyezettek
 unified-extensions-mb-quarantined-domain-message = Az adatai védelme érdekében csak néhány, a { -vendor-short-name } által figyelt kiegészítő engedélyezett az oldalon.
 unified-extensions-mb-quarantined-domain-message-2 = Az adatai védelme érdekében egyes kiegészítők nem tudnak adatokat olvasni vagy módosítani ezen az oldalon. Használja a kiegészítő beállításait, hogy engedélyezze a { -vendor-short-name } által korlátozott webhelyeken.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Egyes kiegészítők nem engedélyezettek
+    .message = Az adatai védelme érdekében egyes kiegészítők nem tudnak adatokat olvasni vagy módosítani ezen az oldalon. Használja a kiegészítő beállításait, hogy engedélyezze a { -vendor-short-name } által korlátozott webhelyeken.
