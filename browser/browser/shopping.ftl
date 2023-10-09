@@ -51,8 +51,20 @@ shopping-message-bar-thanks-for-reporting-title = Danke für die Meldung!
 shopping-message-bar-thanks-for-reporting-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informationen kommen bald
 shopping-message-bar-warning-product-not-available-reported-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-generic-error =
+    .heading = Derzeit sind keine Informationen verfügbar
+    .message = Wir arbeiten an einer Lösung des Problems. Bitte schauen Sie bald wieder vorbei.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Noch nicht genügend Bewertungen
+    .message = Wenn dieses Produkt mehr Bewertungen hat, können wir deren Qualität überprüfen.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkt ist nicht verfügbar
+    .message = Wenn Sie sehen, dass dieses Produkt wieder auf Lager ist, melden Sie es und wir arbeiten an der Überprüfung der Bewertungen.
 shopping-message-bar-thanks-for-reporting =
     .heading = Danke für die Meldung!
+    .message = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informationen kommen bald
     .message = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
 shopping-message-bar-analysis-in-progress-title2 = Qualität der Bewertung wird überprüft
 shopping-message-bar-analysis-in-progress-message2 = Dies kann etwa 60 Sekunden dauern.
@@ -157,6 +169,8 @@ shopping-survey-next-button-label = Weiter
 shopping-survey-submit-button-label = Absenden
 shopping-survey-terms-link = Nutzungsbedingungen
 shopping-survey-thanks-message = Danke für Ihr Feedback!
+shopping-survey-thanks =
+    .heading = Danke für Ihr Feedback!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
