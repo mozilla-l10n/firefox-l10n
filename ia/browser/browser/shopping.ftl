@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Gratias pro reportar
 shopping-message-bar-thanks-for-reporting-message2 = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
 shopping-message-bar-warning-product-not-available-reported-title2 = Info a venir tosto
 shopping-message-bar-warning-product-not-available-reported-message2 = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
+shopping-message-bar-generic-error =
+    .heading = Nulle info disponibile al momento
+    .message = Nos labora pro resolver le problema. Retenta tosto.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Revisiones ancora non bastante
+    .message = Quando iste producto habera plus de recensiones, nos potera controlar su qualitate.
+shopping-message-bar-warning-product-not-available =
+    .heading = Le producto non es disponibile
+    .message = Si tu videra que iste producto es retro in stock, reporta lo e nos laborara pro controlar le recensiones.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Gratias pro reportar
+    .message = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Info a venir tosto
+    .message = Nos deberea haber info re iste recensiones de producto in 24 horas. Controla plus tarde.
 shopping-message-bar-analysis-in-progress-title2 = Controlante qualitate de recension
 shopping-message-bar-analysis-in-progress-message2 = Isto pote prender circa 60 secundas.
 shopping-message-bar-page-not-supported-title = Nos non pote controlar iste recensiones
 shopping-message-bar-page-not-supported-message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
+shopping-message-bar-page-not-supported =
+    .heading = Nos non pote controlar iste recensiones
+    .message = Infortunatemente, nos non pote verificar le qualitate de recension pro certe typos de productos. Per exemplo, cartas dono e diffusion multimedial de video, musica, e jocos.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Sequente
 shopping-survey-submit-button-label = Inviar
 shopping-survey-terms-link = Terminos de uso
 shopping-survey-thanks-message = Gratias pro tu commentario!
+shopping-survey-thanks =
+    .heading = Gratias pro tu commentario!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
