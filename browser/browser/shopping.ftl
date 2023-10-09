@@ -38,8 +38,6 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Updates available
-shopping-message-bar-warning-stale-analysis-message = Launch the { -fakespot-brand-full-name } analyzer to get updated info in about 60 seconds.
 shopping-message-bar-generic-error-title2 = No info available right now
 shopping-message-bar-generic-error-message = We’re working to resolve the issue. Please check back soon.
 shopping-message-bar-warning-not-enough-reviews-title = Not enough reviews yet
@@ -51,18 +49,28 @@ shopping-message-bar-thanks-for-reporting-title = Thanks for reporting!
 shopping-message-bar-thanks-for-reporting-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-warning-product-not-available-reported-title2 = Info coming soon
 shopping-message-bar-warning-product-not-available-reported-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
+shopping-message-bar-generic-error =
+    .heading = No info available right now
+    .message = We’re working to resolve the issue. Please check back soon.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Not enough reviews yet
+    .message = When this product has more reviews, we’ll be able to check their quality.
+shopping-message-bar-warning-product-not-available =
+    .heading = Product is not available
+    .message = If you see this product is back in stock, report it and we’ll work on checking the reviews.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Thanks for reporting!
+    .message = We should have info about this product’s reviews within 24 hours. Please check back.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Info coming soon
+    .message = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-analysis-in-progress-title2 = Checking review quality
 shopping-message-bar-analysis-in-progress-message2 = This could take about 60 seconds.
 shopping-message-bar-page-not-supported-title = We can’t check these reviews
 shopping-message-bar-page-not-supported-message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Launch analyzer on { -fakespot-website-name }
+shopping-message-bar-page-not-supported =
+    .heading = We can’t check these reviews
+    .message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
 
 ## Strings for the product review snippets card
 
@@ -120,10 +128,6 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Unreliable reviews
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Open shopping sidebar
-shopping-sidebar-close-button =
-    .tooltiptext = Close shopping sidebar
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -159,6 +163,8 @@ shopping-survey-next-button-label = Next
 shopping-survey-submit-button-label = Submit
 shopping-survey-terms-link = Terms of use
 shopping-survey-thanks-message = Thanks for your feedback!
+shopping-survey-thanks =
+    .heading = Thanks for your feedback!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -169,3 +175,6 @@ shopping-callout-pdp-opted-in-title = Are these reviews reliable? Find out fast.
 shopping-callout-pdp-opted-in-subtitle = Open review checker to see an adjusted rating with unreliable reviews removed. Plus, see highlights from recent authentic reviews.
 shopping-callout-closed-not-opted-in-title = One click to reliable reviews
 shopping-callout-closed-not-opted-in-subtitle = Give review checker a try whenever you see the price tag. Get insights from real shoppers quickly — before you buy.
+
+## Onboarding message strings.
+
