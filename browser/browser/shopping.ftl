@@ -51,11 +51,17 @@ shopping-message-bar-thanks-for-reporting-title = Merci de nous l’avoir signal
 shopping-message-bar-thanks-for-reporting-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-warning-product-not-available-reported-title2 = Plus d’informations prochainement
 shopping-message-bar-warning-product-not-available-reported-message2 = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
+shopping-message-bar-generic-error =
+    .heading = Aucune information disponible actuellement
+    .message = Nous travaillons à résoudre ce problème. Veuillez réessayer ultérieurement.
 shopping-message-bar-warning-not-enough-reviews =
     .heading = Pas encore assez d’avis
     .message = Quand ce produit aura reçu suffisamment d’avis, leur qualité pourra être évaluée.
 shopping-message-bar-thanks-for-reporting =
     .heading = Merci de nous l’avoir signalé !
+    .message = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Plus d’informations prochainement
     .message = Nous devrions avoir des informations au sujet des avis sur ce produit d’ici 24 heures. Revenez plus tard.
 shopping-message-bar-analysis-in-progress-title2 = Évaluation de la qualité des avis
 shopping-message-bar-analysis-in-progress-message2 = L’opération peut prendre environ 60 secondes.
@@ -155,6 +161,8 @@ shopping-survey-next-button-label = Suivant
 shopping-survey-submit-button-label = Envoyer
 shopping-survey-terms-link = Conditions d’utilisation
 shopping-survey-thanks-message = Merci de votre retour !
+shopping-survey-thanks =
+    .heading = Merci de votre retour !
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
