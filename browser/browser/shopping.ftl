@@ -51,6 +51,21 @@ shopping-message-bar-thanks-for-reporting-title = ¡Gracias por informar!
 shopping-message-bar-thanks-for-reporting-message2 = Deberíamos tener información sobre las reseñas de este producto en 24 horas. Por favor, vuelva a comprobarlo más tarde.
 shopping-message-bar-warning-product-not-available-reported-title2 = Información disponible en breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Deberíamos tener información sobre las reseñas de este producto en 24 horas. Por favor, vuelva a comprobarlo más tarde.
+shopping-message-bar-generic-error =
+    .heading = No hay información disponible en este momento
+    .message = Estamos trabajando para resolver el problema. Por favor, vuelva a comprobarlo en breve.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Aún no hay suficientes reseñas
+    .message = Cuando este producto tenga más reseñas, podremos analizar su calidad.
+shopping-message-bar-warning-product-not-available =
+    .heading = El producto no está disponible
+    .message = Si ve que este producto vuelve a estar disponible, infórmenos y trabajaremos para actualizar el análisis.
+shopping-message-bar-thanks-for-reporting =
+    .heading = ¡Gracias por informar!
+    .message = Deberíamos tener información sobre las reseñas de este producto en 24 horas. Por favor, vuelva a comprobarlo más tarde.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Información disponible en breve
+    .message = Deberíamos tener información sobre las reseñas de este producto en 24 horas. Por favor, vuelva a comprobarlo más tarde.
 shopping-message-bar-analysis-in-progress-title2 = Comprobando la calidad de la reseña
 shopping-message-bar-analysis-in-progress-message2 = Esto podría tardar unos 60 segundos.
 shopping-message-bar-page-not-supported-title = No podemos comprobar estas reseñas.
@@ -153,6 +168,8 @@ shopping-survey-next-button-label = Siguiente
 shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Términos de uso
 shopping-survey-thanks-message = ¡Gracias por su opinión!
+shopping-survey-thanks =
+    .heading = ¡Gracias por su opinión!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
