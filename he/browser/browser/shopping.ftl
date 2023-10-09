@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = תודה על הדיווח!
 shopping-message-bar-thanks-for-reporting-message2 = אמור להיות לנו מידע על הסקירות של מוצר זה תוך 24 שעות. נא לבדוק שוב אז.
 shopping-message-bar-warning-product-not-available-reported-title2 = מידע יבוא בקרוב
 shopping-message-bar-warning-product-not-available-reported-message2 = אמור להיות לנו מידע על הסקירות של מוצר זה תוך 24 שעות. נא לבדוק שוב אז.
+shopping-message-bar-generic-error =
+    .heading = אין מידע זמין כרגע
+    .message = אנחנו עובדים על פתרון הבעיה. נא לבדוק שוב בקרוב.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = אין מספיק סקירות עדיין
+    .message = כאשר למוצר זה יהיו סקירות נוספות, נוכל לבדוק את האיכות שלהן.
+shopping-message-bar-warning-product-not-available =
+    .heading = המוצר אינו זמין
+    .message = אם מוצר זה חזר למלאי, נא לדווח על כך ואנו נעבוד על בדיקת הסקירות.
+shopping-message-bar-thanks-for-reporting =
+    .heading = תודה על הדיווח!
+    .message = אמור להיות לנו מידע על הסקירות של מוצר זה תוך 24 שעות. נא לבדוק שוב אז.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = מידע יבוא בקרוב
+    .message = אמור להיות לנו מידע על הסקירות של מוצר זה תוך 24 שעות. נא לבדוק שוב אז.
 shopping-message-bar-analysis-in-progress-title2 = בתהליך בדיקת איכות הסקירות
 shopping-message-bar-analysis-in-progress-message2 = פעולה זו יכולה להימשך כ־60 שניות.
 shopping-message-bar-page-not-supported-title = אין באפשרותנו לבדוק סקירות אלה
 shopping-message-bar-page-not-supported-message = למרבה הצער, איננו יכולים לבדוק את איכות הסקירות עבור סוגים מסויימים של מוצרים. למשל, כרטיסי מתנה והזרמת וידאו, מוזיקה ומשחקים.
+shopping-message-bar-page-not-supported =
+    .heading = אין באפשרותנו לבדוק סקירות אלה
+    .message = למרבה הצער, איננו יכולים לבדוק את איכות הסקירות עבור סוגים מסויימים של מוצרים. למשל, כרטיסי מתנה והזרמת וידאו, מוזיקה ומשחקים.
 
 ## Strings for the product review snippets card
 
@@ -149,6 +167,8 @@ shopping-survey-next-button-label = הבא
 shopping-survey-submit-button-label = שליחה
 shopping-survey-terms-link = תנאי שימוש
 shopping-survey-thanks-message = תודה על המשוב שלך!
+shopping-survey-thanks =
+    .heading = תודה על המשוב שלך!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
