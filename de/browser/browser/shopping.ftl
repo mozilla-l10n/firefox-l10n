@@ -156,6 +156,9 @@ shopping-survey-thanks-message = Danke für Ihr Feedback!
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-title = Sind diese Rezensionen vertrauenswürdig? Finden Sie es schnell heraus.
+shopping-callout-pdp-opted-in-subtitle = Öffnen Sie den Rezensionsprüfer, um eine angepasste Bewertung zu sehen, bei der unzuverlässige Rezensionen entfernt wurden. Sehen Sie sich außerdem Highlights aus den letzten authentischen Rezensionen an.
+shopping-callout-closed-not-opted-in-title = Mit einem Klick zu zuverlässigen Rezensionen
 
 ## Onboarding message strings.
 
