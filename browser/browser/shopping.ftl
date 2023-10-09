@@ -55,10 +55,28 @@ shopping-message-bar-thanks-for-reporting-title = Děkujeme za nahlášení!
 shopping-message-bar-thanks-for-reporting-message2 = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informace již brzy
 shopping-message-bar-warning-product-not-available-reported-message2 = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
+shopping-message-bar-generic-error =
+    .heading = V tuto chvíli nejsou k dispozici žádné informace
+    .message = Pracujeme na vyřešení problému. Zkuste to prosím později.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Zatím nemá dostatek recenzí
+    .message = Až bude mít tento produkt více recenzí, budeme moci zkontrolovat jejich kvalitu.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkt není k dispozici
+    .message = Pokud zjistíte, že je tento produkt opět skladem, nahlaste to a my se pokusíme recenze zkontrolovat.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Děkujeme za nahlášení!
+    .message = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informace již brzy
+    .message = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
 shopping-message-bar-analysis-in-progress-title2 = Kontroluje se kvalita recenzí
 shopping-message-bar-analysis-in-progress-message2 = Může to trvat asi 60 sekund.
 shopping-message-bar-page-not-supported-title = Tyto recenze nemůžeme zkontrolovat
 shopping-message-bar-page-not-supported-message = Kvalitu recenzí některých typů produktů bohužel nemůžeme kontrolovat. Například dárkové karty a streamovaná videa, hudbu a hry.
+shopping-message-bar-page-not-supported =
+    .heading = Tyto recenze nemůžeme zkontrolovat
+    .message = Kvalitu recenzí některých typů produktů bohužel nemůžeme kontrolovat. Například dárkové karty a streamovaná videa, hudbu a hry.
 
 ## Strings for the product review snippets card
 
@@ -155,6 +173,8 @@ shopping-survey-next-button-label = Další
 shopping-survey-submit-button-label = Odeslat
 shopping-survey-terms-link = Zásady používání
 shopping-survey-thanks-message = Děkujeme za vaši zpětnou vazbu!
+shopping-survey-thanks =
+    .heading = Děkujeme za vaši zpětnou vazbu!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
