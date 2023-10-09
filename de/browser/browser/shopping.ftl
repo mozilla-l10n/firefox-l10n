@@ -51,10 +51,16 @@ shopping-message-bar-thanks-for-reporting-title = Danke für die Meldung!
 shopping-message-bar-thanks-for-reporting-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informationen kommen bald
 shopping-message-bar-warning-product-not-available-reported-message2 = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Danke für die Meldung!
+    .message = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
 shopping-message-bar-analysis-in-progress-title2 = Qualität der Bewertung wird überprüft
 shopping-message-bar-analysis-in-progress-message2 = Dies kann etwa 60 Sekunden dauern.
 shopping-message-bar-page-not-supported-title = Wir können diese Bewertungen nicht überprüfen
 shopping-message-bar-page-not-supported-message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
+shopping-message-bar-page-not-supported =
+    .heading = Wir können diese Bewertungen nicht überprüfen
+    .message = Leider können wir die Qualität der Bewertungen für bestimmte Arten von Produkten nicht überprüfen. Zum Beispiel Geschenkkarten und Video-Streaming, Musik und Spiele.
 
 ## Strings for the product review snippets card
 
