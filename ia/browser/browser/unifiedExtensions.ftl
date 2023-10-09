@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Alcun extensiones non es permittite
 unified-extensions-mb-quarantined-domain-message = Solo alcun extensiones surveliate per { -vendor-short-name } es permittite in iste sito pro proteger tu datos.
 unified-extensions-mb-quarantined-domain-message-2 = Pro proteger tu datos, alcun extensiones non pote leger o cambiar datos in iste sito. Usar le parametros de extension pro permitter los sur sitos limitate per { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Alcun extensiones non es permittite
+    .message = Pro proteger tu datos, alcun extensiones non pote leger o cambiar datos in iste sito. Usar le parametros de extension pro permitter los sur sitos limitate per { -vendor-short-name }.
