@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Кейбір кеңейтулер рұқсат етілмеген
 unified-extensions-mb-quarantined-domain-message = Бұл сайтта деректеріңізді қорғау үшін { -vendor-short-name } бақылайтын кейбір кеңейтулер ғана рұқсат етілген.
 unified-extensions-mb-quarantined-domain-message-2 = Деректеріңізді қорғау үшін кейбір кеңейтулер бұл сайттағы деректерді оқи немесе өзгерте алмайды. { -vendor-short-name } арқылы шектелген сайттарға рұқсат беру үшін кеңейту параметрлерін пайдаланыңыз.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Кейбір кеңейтулер рұқсат етілмеген
+    .message = Деректеріңізді қорғау үшін кейбір кеңейтулер бұл сайттағы деректерді оқи немесе өзгерте алмайды. { -vendor-short-name } арқылы шектелген сайттарға рұқсат беру үшін кеңейту параметрлерін пайдаланыңыз.
