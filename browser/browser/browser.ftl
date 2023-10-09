@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Hedapenak
         Zenbait hedapen ez dira onartzen
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Amaitu saio pribatua
+    .tooltiptext = Amaitu saio pribatua
+reset-pbm-panel-heading = Zure saio pribatua amaitu?
+reset-pbm-panel-description = Itxi fitxa pribatu guztiak eta ezabatu historia, cookieak eta guneetako bestelako datu guztiak.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Galdetu beti
+    .accesskey = b
+reset-pbm-panel-cancel-button =
+    .label = Utzi
+    .accesskey = z
+reset-pbm-panel-confirm-button =
+    .label = Ezabatu saioko datuak
+    .accesskey = s
+reset-pbm-panel-complete = Saio pribatuko datuak ezabatuta
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name }(e)k orri hau blokeatu du automatikoki ez berritzeko.
