@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Wulki dźak za zdźělenku!
 shopping-message-bar-thanks-for-reporting-message2 = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informacije bórze přińdu
 shopping-message-bar-warning-product-not-available-reported-message2 = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
+shopping-message-bar-generic-error =
+    .heading = Tuchwilu informacije k dispoziciji njejsu
+    .message = Dźěłamy na rozrisanju tutoho problema. Hladajće prošu bórze zaso za tym.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Hišće dosć pohódnoćenjow njeje
+    .message = Hdyž tutón produkt ma wjace pohódnoćenjow, móžemy jich kwalitu kontrolować.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkt k dispoziciji njeje
+    .message = Jeli widźiće, zo tutón produkt je zaso na składźe, zdźělće to a budźemy na kontrolowanju pohódnoćenjow dźěłać.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Wulki dźak za zdźělenku!
+    .message = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informacije bórze přińdu
+    .message = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
 shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pohódnoćenjow
 shopping-message-bar-analysis-in-progress-message2 = To móhło na 60 sekundow trać.
 shopping-message-bar-page-not-supported-title = Njemóžemy tute pohódnoćenja přepruwować
 shopping-message-bar-page-not-supported-message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
+shopping-message-bar-page-not-supported =
+    .heading = Njemóžemy tute pohódnoćenja přepruwować
+    .message = Bohužel njemóžemy kwalitu pohódnoćenja za wěste produktowe typy kontrolować. Na přikład za darne karty a prudźace widejo, hudźbu a hry.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = Dale
 shopping-survey-submit-button-label = Wotpósłać
 shopping-survey-terms-link = Wužiwanske wuměnjenja
 shopping-survey-thanks-message = Dźakujemy so za waš komentar!
+shopping-survey-thanks =
+    .heading = Dźakujemy so za waš komentar!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
