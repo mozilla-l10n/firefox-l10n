@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Eskerrik asko jakinarazpenagat
 shopping-message-bar-thanks-for-reporting-message2 = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informazioa laster egongo da erabilgarri
 shopping-message-bar-warning-product-not-available-reported-message2 = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
+shopping-message-bar-generic-error =
+    .heading = Ez dago informaziorik erabilgarri
+    .message = Arazoa konpontzen saiatzen ari gara. Itzuli geroago mesedez.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Balorazio nahikorik ez oraindik
+    .message = Produktu honek balorazio gehiago dituenean, hauen kalitatea egiaztatu ahal izango dugu.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produktua ez dago erabilgarri
+    .message = Produktua berriz ere erabilgarri dagoela ikusten baduzu, jakinaraz iezaguzu eta balorazioak egiaztatzeari ekingo diogu.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Eskerrik asko jakinarazpenagatik!
+    .message = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informazioa laster egongo da erabilgarri
+    .message = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
 shopping-message-bar-analysis-in-progress-title2 = Balorazioaren kalitatea egiaztatzen
 shopping-message-bar-analysis-in-progress-message2 = 60 bat segundo har litzake honek.
 shopping-message-bar-page-not-supported-title = Ezin ditugu balorazio hauek egiaztatu
 shopping-message-bar-page-not-supported-message = Tamalez ezin dugu zenbait produktu moten balorazioen kalitatea egiaztatu. Adibidez, opari-txartelenak eta streaming bideo, musika eta bideoenak.
+shopping-message-bar-page-not-supported =
+    .heading = Ezin ditugu balorazio hauek egiaztatu
+    .message = Tamalez ezin dugu zenbait produktu moten balorazioen kalitatea egiaztatu. Adibidez, opari-txartelenak eta streaming bideo, musika eta bideoenak.
 
 ## Strings for the product review snippets card
 
@@ -148,6 +166,8 @@ shopping-survey-next-button-label = Hurrengoa
 shopping-survey-submit-button-label = Bidali
 shopping-survey-terms-link = Erabilera-baldintzak
 shopping-survey-thanks-message = Eskerrik asko zure iritziagatik!
+shopping-survey-thanks =
+    .heading = Eskerrik asko zure iritziagatik!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
