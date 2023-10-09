@@ -52,3 +52,13 @@ unified-extensions-mb-quarantined-domain-message-2 =
         [neuter] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedlo omezení.
        *[no-cases] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých organizace { -vendor-short-name } zavedla omezení.
     }
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Některá rozšíření nejsou povolena
+    .message =
+        { -vendor-short-name.gender ->
+            [masculine] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedl omezení.
+            [feminine] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedla omezení.
+            [neuter] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedlo omezení.
+           *[no-cases] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých organizace { -vendor-short-name } zavedla omezení.
+        }
