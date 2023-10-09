@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Takk fyrir að tilkynna þetta
 shopping-message-bar-thanks-for-reporting-message2 = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
 shopping-message-bar-warning-product-not-available-reported-title2 = Upplýsingar koma fljótlega
 shopping-message-bar-warning-product-not-available-reported-message2 = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
+shopping-message-bar-generic-error =
+    .heading = Engar upplýsingar tiltækar í augnablikinu
+    .message = Við erum að vinna að því að leysa málið. Athugaðu aftur fljótlega.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ekki nægar umsagnir ennþá
+    .message = Þegar þessi vara hefur fleiri umsagnir getum við athugað gæði þeirra.
+shopping-message-bar-warning-product-not-available =
+    .heading = Vara er ekki fáanleg
+    .message = Ef þú sérð að þessi vara er aftur komin á lager skaltu tilkynna það til okkar og við munum vinna að því að uppfæra greininguna.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Takk fyrir að tilkynna þetta!
+    .message = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Upplýsingar koma fljótlega
+    .message = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
 shopping-message-bar-analysis-in-progress-title2 = Athugar gæði umsagna
 shopping-message-bar-analysis-in-progress-message2 = Þetta gæti tekið um 60 sekúndur.
 shopping-message-bar-page-not-supported-title = Við getum ekki athugað þessar umsagnir
 shopping-message-bar-page-not-supported-message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
+shopping-message-bar-page-not-supported =
+    .heading = Við getum ekki athugað þessar umsagnir
+    .message = Því miður getum við ekki athugað gæði umsagna fyrir ákveðnar tegundir af vörum. Til dæmis gjafakort og streymd myndskeið, tónlist og leiki.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = Næsta
 shopping-survey-submit-button-label = Senda inn
 shopping-survey-terms-link = Notkunarskilmálar
 shopping-survey-thanks-message = Takk fyrir álit þitt!
+shopping-survey-thanks =
+    .heading = Takk fyrir álit þitt!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
