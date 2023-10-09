@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = გმადლობთ მ�
 shopping-message-bar-thanks-for-reporting-message2 = ამ ნაწარმის მიმოხილვების შესახებ მონაცემები გვექნება 24 საათში. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
 shopping-message-bar-warning-product-not-available-reported-title2 = მონაცემები მალე იქნება
 shopping-message-bar-warning-product-not-available-reported-message2 = ამ ნაწარმის მიმოხილვების შესახებ მონაცემები გვექნება 24 საათში. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
+shopping-message-bar-generic-error =
+    .heading = მონაცემები ამჟამად მიუწვდომელია
+    .message = ჩვენ ვმუშაობთ საკითხის გადასაწყვეტად. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = საკმარისი მიმოხილვები ჯერ არაა
+    .message = როცა ამ ნაწარმს ექნება მეტი მიმოხილვა, შემდეგ შეგვეძლება მათი ხარისხის შემოწმება.
+shopping-message-bar-warning-product-not-available =
+    .heading = გასაყიდი ნაწარმი მიუწვდომელია
+    .message = თუ ნახავთ, რომ ნაწარმი დააბრუნეს გასაყიდად, მოგვახსენეთ და ვიმუშავებთ მიმოხილვების შესამოწმებლად.
+shopping-message-bar-thanks-for-reporting =
+    .heading = გმადლობთ მოხსენებისთვის!
+    .message = ამ ნაწარმის მიმოხილვების შესახებ მონაცემები გვექნება 24 საათში. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = მონაცემები მალე იქნება
+    .message = ამ ნაწარმის მიმოხილვების შესახებ მონაცემები გვექნება 24 საათში. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
 shopping-message-bar-analysis-in-progress-title2 = მოწმდება მიმოხილვის ხარისხი
 shopping-message-bar-analysis-in-progress-message2 = შეიძლება გასტანოს 60 წამს.
 shopping-message-bar-page-not-supported-title = ვერ მოწმდება ეს მიმოხილვები
 shopping-message-bar-page-not-supported-message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად, სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
+shopping-message-bar-page-not-supported =
+    .heading = ვერ მოწმდება ეს მიმოხილვები
+    .message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად, სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = შემდეგი
 shopping-survey-submit-button-label = გაგზავნა
 shopping-survey-terms-link = გამოყენების პირობები
 shopping-survey-thanks-message = გმადლობთ გამოხმაურებისთვის!
+shopping-survey-thanks =
+    .heading = გმადლობთ გამოხმაურებისთვის!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
