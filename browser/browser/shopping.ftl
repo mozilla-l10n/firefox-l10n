@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Wjeliki źěk za powěźeńku!
 shopping-message-bar-thanks-for-reporting-message2 = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informacije skóro pśidu
 shopping-message-bar-warning-product-not-available-reported-message2 = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
+shopping-message-bar-generic-error =
+    .heading = Tuchylu informacije njejsu k dispoziciji
+    .message = Źěłamy na rozwězanju toś togo problema. Pśiźćo pšosym skóro zasej mimo.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Hyšći njejo dosć pógódnośenjow
+    .message = Gaž toś ten produkt ma wěcej pógódnośenjow, móžomy jich kwalitu kontrolěrowaś.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkt njejo k dispoziciji
+    .message = Jolic wiźiśo, až toś ten produkt jo zasej na skłaźe, dajśo to k wěsći a buźomy na kontrolěrowanju pógódnośenjow źěłaś.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Wjeliki źěk za powěźeńku!
+    .message = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informacije skóro pśidu
+    .message = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
 shopping-message-bar-analysis-in-progress-title2 = Kontrola kwalitu pógódnośenjow
 shopping-message-bar-analysis-in-progress-message2 = To mógło na 60 sekundow traś.
 shopping-message-bar-page-not-supported-title = Njamóžomy toś te pógódnośenja pśeglědowaś
 shopping-message-bar-page-not-supported-message = Bóžko  njamóžomy kwalitu pógódnośenja za wěste produktowe typy kontrolěrowaś. Na pśikład za darjeńske kórty a tšugajuce wideo, muziku a graśa.
+shopping-message-bar-page-not-supported =
+    .heading = Njamóžomy toś te pógódnośenja pśeglědowaś
+    .message = Bóžko  njamóžomy kwalitu pógódnośenja za wěste produktowe typy kontrolěrowaś. Na pśikład za darjeńske kórty a tšugajuce wideo, muziku a graśa.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = Dalej
 shopping-survey-submit-button-label = Wótpósłaś
 shopping-survey-terms-link = Wužywańske wuměnjenja
 shopping-survey-thanks-message = Źěkujomy se za waš komentar!
+shopping-survey-thanks =
+    .heading = Źěkujomy se za waš komentar!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
