@@ -46,6 +46,9 @@ shopping-message-bar-analysis-in-progress-title2 = Tarkistetaan arvostelun laatu
 shopping-message-bar-analysis-in-progress-message2 = Tämä voi kestää noin 60 sekuntia.
 shopping-message-bar-page-not-supported-title = Emme voi tarkistaa näitä arvosteluja
 shopping-message-bar-page-not-supported-message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
+shopping-message-bar-page-not-supported =
+    .heading = Emme voi tarkistaa näitä arvosteluja
+    .message = Valitettavasti emme voi tarkistaa arvostelun laatua tietyntyyppisten tuotteiden osalta. Esimerkiksi lahjakortit ja suoratoistovideot, musiikki ja pelit.
 
 ## Strings for the product review snippets card
 
@@ -134,6 +137,8 @@ shopping-survey-next-button-label = Seuraava
 shopping-survey-submit-button-label = Lähetä
 shopping-survey-terms-link = Käyttöehdot
 shopping-survey-thanks-message = Kiitos palautteestasi!
+shopping-survey-thanks =
+    .heading = Kiitos palautteestasi!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
