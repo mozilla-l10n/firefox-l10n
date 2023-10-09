@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Cualchi estension no je consintude
 unified-extensions-mb-quarantined-domain-message = Dome cualchi estension monitorade di { -vendor-short-name } e je consintude su chest sît par protezi i tiei dâts.
 unified-extensions-mb-quarantined-domain-message-2 = Par protezi i tiei dâts, cualchi estension no pues lei o cambiâ i dâts su chest sît. Dopre lis impostazions de estension par permeti il so funzionament sui sîts cun restrizions identificâts di { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Cualchi estension no je consintude
+    .message = Par protezi i tiei dâts, cualchi estension no pues lei o cambiâ i dâts su chest sît. Dopre lis impostazions de estension par permeti il so funzionament sui sîts cun restrizions identificâts di { -vendor-short-name }.
