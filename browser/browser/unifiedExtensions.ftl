@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Kelkaj etendaĵoj ne estas permesataj
 unified-extensions-mb-quarantined-domain-message = Nur kelkaj etendaĵoj, kontrolitaj de { -vendor-short-name } estas permesataj en tiu ĉi retejo, por protekti viajn datumojn.
 unified-extensions-mb-quarantined-domain-message-2 = Por protekti viajn datumojn, kelkaj etendaĵoj ne povas legi aŭ ŝanĝi datumojn en tiun ĉi retejo. Modifu la agordojn de la etendaĵo por permesi al ĝi tion fari en retejoj limigitaj de { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Kelkaj etendaĵoj ne estas permesataj
+    .message = Por protekti viajn datumojn, kelkaj etendaĵoj ne povas legi aŭ ŝanĝi datumojn en tiun ĉi retejo. Modifu la agordojn de la etendaĵo por permesi al ĝi tion fari en retejoj limigitaj de { -vendor-short-name }.
