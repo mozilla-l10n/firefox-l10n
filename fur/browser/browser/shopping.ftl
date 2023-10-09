@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Graciis pe segnalazion!
 shopping-message-bar-thanks-for-reporting-message2 = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informazions disponibilis ca di pôc
 shopping-message-bar-warning-product-not-available-reported-message2 = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
+shopping-message-bar-generic-error =
+    .heading = Nissune informazion disponibile in chest moment
+    .message = O stin lavorant par risolvi il probleme. Torne controle ca di pôc.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = No son ancjemò vonde recensions
+    .message = A pene che chest prodot al varà plui recensions, o rivarìn a verificâ la lôr cualitât.
+shopping-message-bar-warning-product-not-available =
+    .heading = Il prodot nol è disponibil
+    .message = Se tu viodis che chest prodot al è di gnûf disponibil, visinus cuntune segnalazion e nô o lavorarìn par verificâ lis recensions.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Graciis pe segnalazion!
+    .message = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informazions disponibilis ca di pôc
+    .message = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
 shopping-message-bar-analysis-in-progress-title2 = Daûr a verificâ la cualitât recensions
 shopping-message-bar-analysis-in-progress-message2 = Cheste operazion e podarès puartâ vie cirche 60 seconts.
 shopping-message-bar-page-not-supported-title = Impussibil verificâ chestis recensions
 shopping-message-bar-page-not-supported-message = Magari cussì no, ma nol è pussibil verificâ la cualitât des recensions par cualchi gjenar di prodot, come par esempli lis cjartis regâl, trasmissions video, musiche e zûcs.
+shopping-message-bar-page-not-supported =
+    .heading = Impussibil verificâ chestis recensions
+    .message = Magari cussì no, ma nol è pussibil verificâ la cualitât des recensions par cualchi gjenar di prodot, come par esempli lis cjartis regâl, trasmissions video, musiche e zûcs.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Sucessîf
 shopping-survey-submit-button-label = Invie
 shopping-survey-terms-link = Cundizions di utilizazion dal servizi
 shopping-survey-thanks-message = Graciis di vê condividude la tô opinion.
+shopping-survey-thanks =
+    .heading = Graciis di vê condividude la tô opinion.
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
