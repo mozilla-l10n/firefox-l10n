@@ -51,6 +51,18 @@ shopping-message-bar-thanks-for-reporting-title = Tak for hjælpen!
 shopping-message-bar-thanks-for-reporting-message2 = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
 shopping-message-bar-warning-product-not-available-reported-title2 = Oplysninger kommer snart
 shopping-message-bar-warning-product-not-available-reported-message2 = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
+shopping-message-bar-generic-error =
+    .heading = Ingen oplysninger tilgængelige i øjeblikket
+    .message = Vi arbejder på at løse problemet. Prøv igen om lidt.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produktet er ikke tilgængeligt
+    .message = Hvis du har set, at produktet er på lager igen, må du gerne rapportere det. Så kan vi kontrollere anmeldelserne.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Tak for hjælpen!
+    .message = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Oplysninger kommer snart
+    .message = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvalitet af anmeldelser
 shopping-message-bar-analysis-in-progress-message2 = Dette burde tage omkring 60 sekunder.
 shopping-message-bar-page-not-supported-title = Vi kan ikke kontrollere disse anmeldelser
@@ -151,6 +163,8 @@ shopping-survey-next-button-label = Næste
 shopping-survey-submit-button-label = Indsend
 shopping-survey-terms-link = Betingelser for brug
 shopping-survey-thanks-message = Tak for tilbagemeldingen!
+shopping-survey-thanks =
+    .heading = Tak for tilbagemeldingen!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
