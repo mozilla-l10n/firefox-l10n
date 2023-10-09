@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Некаторыя пашырэнні не дазволены
 unified-extensions-mb-quarantined-domain-message = Для аховы вашых звестак на гэтым сайце дазволены толькі некаторыя пашырэнні, якія кантралююцца { -vendor-short-name }.
 unified-extensions-mb-quarantined-domain-message-2 = Каб абараніць вашы звесткі, некаторыя пашырэнні не могуць чытаць або змяняць дадзеныя на гэтым сайце. Выкарыстайце налады пашырэння, каб дазволіць яго на сайтах, абмежаваных { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Некаторыя пашырэнні не дазволены
+    .message = Каб абараніць вашы звесткі, некаторыя пашырэнні не могуць чытаць або змяняць дадзеныя на гэтым сайце. Выкарыстайце налады пашырэння, каб дазволіць яго на сайтах, абмежаваных { -vendor-short-name }.
