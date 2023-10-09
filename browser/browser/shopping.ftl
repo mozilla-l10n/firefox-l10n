@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Thanks for reporting!
 shopping-message-bar-thanks-for-reporting-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-warning-product-not-available-reported-title2 = Info coming soon
 shopping-message-bar-warning-product-not-available-reported-message2 = We should have info about this product’s reviews within 24 hours. Please check back.
+shopping-message-bar-generic-error =
+    .heading = No info available right now
+    .message = We’re working to resolve the issue. Please check back soon.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Not enough reviews yet
+    .message = When this product has more reviews, we’ll be able to check their quality.
+shopping-message-bar-warning-product-not-available =
+    .heading = Product is not available
+    .message = If you see this product is back in stock, report it and we’ll work on checking the reviews.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Thanks for reporting!
+    .message = We should have info about this product’s reviews within 24 hours. Please check back.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Info coming soon
+    .message = We should have info about this product’s reviews within 24 hours. Please check back.
 shopping-message-bar-analysis-in-progress-title2 = Checking review quality
 shopping-message-bar-analysis-in-progress-message2 = This could take about 60 seconds.
 shopping-message-bar-page-not-supported-title = We can’t check these reviews
 shopping-message-bar-page-not-supported-message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
+shopping-message-bar-page-not-supported =
+    .heading = We can’t check these reviews
+    .message = Unfortunately, we can’t check the review quality for certain types of products. For example, gift cards and streaming video, music, and games.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Next
 shopping-survey-submit-button-label = Submit
 shopping-survey-terms-link = Terms of use
 shopping-survey-thanks-message = Thanks for your feedback!
+shopping-survey-thanks =
+    .heading = Thanks for your feedback!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
