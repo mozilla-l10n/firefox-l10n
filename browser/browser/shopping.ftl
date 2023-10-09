@@ -37,7 +37,6 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Actualizacións dispoñibles
 shopping-message-bar-generic-error-title2 = Non hai información dispoñible neste momento
 shopping-message-bar-generic-error-message = Estamos traballando para resolver o problema. Por favor, volva a comprobalo pronto.
 shopping-message-bar-warning-not-enough-reviews-title = Aínda non hai suficientes recensións
@@ -49,18 +48,28 @@ shopping-message-bar-thanks-for-reporting-title = Grazas por informar!
 shopping-message-bar-thanks-for-reporting-message2 = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Volva a comprobalo máis tarde.
 shopping-message-bar-warning-product-not-available-reported-title2 = Información dispoñible en breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Por favor, volva a comprobalo máis tarde.
+shopping-message-bar-generic-error =
+    .heading = Non hai información dispoñible neste momento
+    .message = Estamos traballando para resolver o problema. Por favor, volva a comprobalo pronto.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Aínda non hai suficientes recensións
+    .message = Cando este produto teña máis recensións, poderemos comprobar a súa calidade.
+shopping-message-bar-warning-product-not-available =
+    .heading = O produto non está dispoñible
+    .message = Se ve que este produto está de novo en stock, infórmeo e traballaremos en comprobar as recensións.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Grazas por informar!
+    .message = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Volva a comprobalo máis tarde.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Información dispoñible en breve
+    .message = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Por favor, volva a comprobalo máis tarde.
 shopping-message-bar-analysis-in-progress-title2 = Comprobando a calidade da recensión
 shopping-message-bar-analysis-in-progress-message2 = Isto pode levar uns 60 segundos.
 shopping-message-bar-page-not-supported-title = Non podemos comprobar estas recensións
 shopping-message-bar-page-not-supported-message = Desafortunadamente, non podemos comprobar a calidade das recensións de determinados tipos de produtos. Por exemplo, tarxetas de agasallo e streaming de vídeo, música e xogos.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Iniciar o analizador en { -fakespot-website-name }
+shopping-message-bar-page-not-supported =
+    .heading = Non podemos comprobar estas recensións
+    .message = Desafortunadamente, non podemos comprobar a calidade das recensións de determinados tipos de produtos. Por exemplo, tarxetas de agasallo e streaming de vídeo, música e xogos.
 
 ## Strings for the product review snippets card
 
@@ -112,10 +121,6 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recensións pouco 
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Abrir a barra lateral de compras
-shopping-sidebar-close-button =
-    .tooltiptext = Pechar a barra lateral de compras
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -151,6 +156,8 @@ shopping-survey-next-button-label = Seguinte
 shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Temos de uso
 shopping-survey-thanks-message = Grazas pola súa opinión
+shopping-survey-thanks =
+    .heading = Grazas pola súa opinión
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -158,3 +165,6 @@ shopping-survey-thanks-message = Grazas pola súa opinión
 
 shopping-callout-closed-opted-in-subtitle = Volver ao <strong>verificador de recensión</strong> sempre que vexa a etiqueta de prezo.
 shopping-callout-pdp-opted-in-title = Son fiables estas recensións? Descúbrao rápido.
+
+## Onboarding message strings.
+
