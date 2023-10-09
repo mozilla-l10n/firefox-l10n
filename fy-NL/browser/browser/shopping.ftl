@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Tank foar it melden!
 shopping-message-bar-thanks-for-reporting-message2 = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
 shopping-message-bar-warning-product-not-available-reported-title2 = Ynkoarten mear
 shopping-message-bar-warning-product-not-available-reported-message2 = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
+shopping-message-bar-generic-error =
+    .heading = Der is op dit stuit gjin ynfo beskikber
+    .message = Wy wurkje deroan om it probleem op te lossen. Kom ynkoarten gau werom.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Noch net genôch beoardielingen
+    .message = As dit produkt mear beoardielingen hat, kinne wy harren kwaliteit beoardiele.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkt is net beskikber
+    .message = As jo sjogge dat dit produkt wer op foarried is, meld it dan oan ús en wy sille wurkje om de beoardielingen te kontrolearjen.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Tank foar it melden!
+    .message = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Ynkoarten mear
+    .message = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
 shopping-message-bar-analysis-in-progress-title2 = Beoardielingskwaliteit kontrolearje
 shopping-message-bar-analysis-in-progress-message2 = Dit kin ûngefear 60 sekonden duorje.
 shopping-message-bar-page-not-supported-title = Wy kinne dizze beoardieling net kontrolearje
 shopping-message-bar-page-not-supported-message = Spitigernôch kinne wy de beoardielingskwaliteit net kontrolearje foar bepaalde soarten produkten. Bygelyks kadokaarten en streaming fideo, muzyk en spultsjes.
+shopping-message-bar-page-not-supported =
+    .heading = Wy kinne dizze beoardieling net kontrolearje
+    .message = Spitigernôch kinne wy de beoardielingskwaliteit net kontrolearje foar bepaalde soarten produkten. Bygelyks kadokaarten en streaming fideo, muzyk en spultsjes.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = Folgjende
 shopping-survey-submit-button-label = Ferstjoere
 shopping-survey-terms-link = Brûkersbetingsten
 shopping-survey-thanks-message = Tank foar jo kommentaar!
+shopping-survey-thanks =
+    .heading = Tank foar jo kommentaar!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
