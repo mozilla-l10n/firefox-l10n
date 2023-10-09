@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Köszönjük, hogy jelentette!
 shopping-message-bar-thanks-for-reporting-message2 = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
 shopping-message-bar-warning-product-not-available-reported-title2 = Az információk hamarosan érkeznek
 shopping-message-bar-warning-product-not-available-reported-message2 = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
+shopping-message-bar-generic-error =
+    .heading = Jelenleg nem érhető el információ
+    .message = Dolgozunk a probléma megoldásán. Nézzen vissza később.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Még nincs elég értékelés
+    .message = Ha több értékelése lesz a terméknek, akkor fogjuk tudni ellenőrizni a minőségüket.
+shopping-message-bar-warning-product-not-available =
+    .heading = A termék nem érhető el
+    .message = Ha úgy látja, hogy a termék újra raktáron van, akkor jelentse, és akkor dolgozni fogunk az értékelések ellenőrzésén.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Köszönjük, hogy jelentette!
+    .message = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Az információk hamarosan érkeznek
+    .message = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
 shopping-message-bar-analysis-in-progress-title2 = Értékelési minőség ellenőrzése
 shopping-message-bar-analysis-in-progress-message2 = Ez körülbelül 60 másodpercig tarthat.
 shopping-message-bar-page-not-supported-title = Nem tudjuk ellenőrizni ezeket az értékeléseket
 shopping-message-bar-page-not-supported-message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
+shopping-message-bar-page-not-supported =
+    .heading = Nem tudjuk ellenőrizni ezeket az értékeléseket
+    .message = Sajnos bizonyos terméktípusok esetén nem tudjuk ellenőrizni az értékelés minőségét. Például az ajándékutalványok, videóközvetítések, zenék és játékok esetén.
 
 ## Strings for the product review snippets card
 
@@ -153,6 +171,8 @@ shopping-survey-next-button-label = Következő
 shopping-survey-submit-button-label = Elküldés
 shopping-survey-terms-link = Használati feltételek
 shopping-survey-thanks-message = Köszönjük visszajelzését!
+shopping-survey-thanks =
+    .heading = Köszönjük visszajelzését!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
