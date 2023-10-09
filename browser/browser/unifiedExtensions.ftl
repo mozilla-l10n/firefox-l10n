@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Guon útwreidingen binne net tastien
 unified-extensions-mb-quarantined-domain-message = Om jo gegevens te beskermjen, binne mar inkelde útwreidingen dy’t kontrolearre wurde troch { -vendor-short-name } tastien op dizze website.
 unified-extensions-mb-quarantined-domain-message-2 = Om jo gegevens te beskermjen, kinne guon útwreidingen gjin gegevens op dizze side lêze of wizigje. Brûk de ynstellingen fan de útwreiding om dit ta te stean op siden dy’t beheind binne troch { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Guon útwreidingen binne net tastien
+    .message = Om jo gegevens te beskermjen, kinne guon útwreidingen gjin gegevens op dizze side lêze of wizigje. Brûk de ynstellingen fan de útwreiding om dit ta te stean op siden dy’t beheind binne troch { -vendor-short-name }.
