@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Jotkin laajennukset eivät ole sallittuja
 unified-extensions-mb-quarantined-domain-message = Vain jotkin laajennukset, joita { -vendor-short-name } valvoo, ovat sallittuja tällä sivustolla tietojesi suojaamiseksi.
 unified-extensions-mb-quarantined-domain-message-2 = Tietojesi suojaamiseksi jotkin laajennukset eivät voi lukea tai muuttaa tämän sivuston tietoja. Käytä laajennuksen asetuksia salliaksesi sivustot, joita { -vendor-short-name } rajoittaa.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Jotkin laajennukset eivät ole sallittuja
+    .message = Tietojesi suojaamiseksi jotkin laajennukset eivät voi lukea tai muuttaa tämän sivuston tietoja. Käytä laajennuksen asetuksia salliaksesi sivustot, joita { -vendor-short-name } rajoittaa.
