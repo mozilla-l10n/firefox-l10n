@@ -149,6 +149,7 @@ shopping-callout-closed-not-opted-in-title = Eitt klikk frå pålitelege vurderi
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Prøv den pålitelege guiden vår for produktvurderingar
+shopping-onboarding-body = Ved å bruke krafta i { -fakespot-brand-full-name } hjelper vi deg med å unngå einsidige og ikkje-truverdige vurderingar. AI-modellen vår vert alltid forbetra for å beskytte deg når du handlar. <a data-l10n-name="learn_more">Les meir</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
 shopping-onboarding-not-now-button = Ikkje no
 shopping-onboarding-dialog-close-button =
