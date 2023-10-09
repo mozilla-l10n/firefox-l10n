@@ -121,6 +121,8 @@ shopping-survey-next-button-label = Επόμενο
 shopping-survey-submit-button-label = Υποβολή
 shopping-survey-terms-link = Όροι χρήσης
 shopping-survey-thanks-message = Ευχαριστούμε για τα σχόλιά σας!
+shopping-survey-thanks =
+    .heading = Ευχαριστούμε για τα σχόλιά σας!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
