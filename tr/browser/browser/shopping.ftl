@@ -48,10 +48,22 @@ shopping-message-bar-warning-product-not-available-message2 = Bu ürünün yenid
 shopping-message-bar-warning-product-not-available-button = Bu ürünün tekrar stokta olduğunu bildir
 shopping-message-bar-thanks-for-reporting-title = Bildirdiğiniz için teşekkürler!
 shopping-message-bar-warning-product-not-available-reported-title2 = Bilgiler yakında gelecek
+shopping-message-bar-generic-error =
+    .heading = Şu anda bilgi yok
+    .message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Henüz yeterli değerlendirme yok
+    .message = Bu ürüne daha fazla değerlendirme geldiğinde değerlendirmelerin kalitelerini kontrol edebileceğiz.
+shopping-message-bar-warning-product-not-available =
+    .heading = Ürün mevcut değil
+    .message = Bu ürünün yeniden stoğa girdiğini görürseniz bize bildirin, biz de değerlendirmeleri kontrol etmeye çalışalım.
 shopping-message-bar-analysis-in-progress-title2 = Değerlendirme kalitesi kontrol ediliyor
 shopping-message-bar-analysis-in-progress-message2 = Yaklaşık 60 saniye sürebilir.
 shopping-message-bar-page-not-supported-title = Bu değerlendirmeleri kontrol edemiyoruz
 shopping-message-bar-page-not-supported-message = Maalesef bazı ürün türlerinin değerlendirme kalitelerini kontrol edemiyoruz. Örneğin, hediye kartları ve video, müzik ve oyun akışı.
+shopping-message-bar-page-not-supported =
+    .heading = Bu değerlendirmeleri kontrol edemiyoruz
+    .message = Maalesef bazı ürün türlerinin değerlendirme kalitelerini kontrol edemiyoruz. Örneğin, hediye kartları ve video, müzik ve oyun akışı.
 
 ## Strings for the product review snippets card
 
@@ -131,6 +143,8 @@ shopping-survey-next-button-label = İleri
 shopping-survey-submit-button-label = Gönder
 shopping-survey-terms-link = Kullanım koşulları
 shopping-survey-thanks-message = Geri bildiriminiz için teşekkürler!
+shopping-survey-thanks =
+    .heading = Geri bildiriminiz için teşekkürler!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
