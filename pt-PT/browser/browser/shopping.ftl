@@ -42,6 +42,15 @@ shopping-message-bar-thanks-for-reporting-title = Obrigado por reportar!
 shopping-message-bar-thanks-for-reporting-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informações em breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
+shopping-message-bar-generic-error =
+    .heading = Nenhuma informação disponível neste momento
+    .message = Estamos a trabalhar para resolver o problema. Por favor, volte em breve.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ainda não há avaliações suficientes
+    .message = Quando este produto tiver mais avaliações, poderemos verificar a sua qualidade.
+shopping-message-bar-warning-product-not-available =
+    .heading = O produto não está disponível
+    .message = Se perceber que este produto está novamente em stock, reporte e iremos verificar as avaliações.
 shopping-message-bar-thanks-for-reporting =
     .heading = Obrigado por reportar!
     .message = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
@@ -52,6 +61,9 @@ shopping-message-bar-analysis-in-progress-title2 = A verificar a qualidade da av
 shopping-message-bar-analysis-in-progress-message2 = Isto pode demorar cerca de 60 segundos.
 shopping-message-bar-page-not-supported-title = Não podemos verificar estas avaliações
 shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
+shopping-message-bar-page-not-supported =
+    .heading = Não podemos verificar estas avaliações
+    .message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
 
 ## Strings for the product review snippets card
 
