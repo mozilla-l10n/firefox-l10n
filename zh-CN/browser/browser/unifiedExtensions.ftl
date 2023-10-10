@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = 不允许使用某些扩展
 unified-extensions-mb-quarantined-domain-message = 为了保护您的数据安全，仅允许在此网站使用某些受 { -vendor-short-name } 监控的扩展。
 unified-extensions-mb-quarantined-domain-message-2 = 为保护您的数据，某些扩展无法读取和更改此网站上的数据。您可调整扩展的设置来允许其访问受 { -vendor-short-name } 限制的网站。
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = 不允许使用某些扩展
+    .message = 为保护您的数据，某些扩展无法读取和更改此网站上的数据。您可调整扩展的设置来允许其访问受 { -vendor-short-name } 限制的网站。
