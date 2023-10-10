@@ -91,6 +91,7 @@ policy-LocalFileLinks = Permitter a sitos web specific de ligar a files local.
 policy-ManagedBookmarks = Configura un lista de marcapaginas, gerite per un administrator, que non pote esser cambiate per le usator.
 policy-ManualAppUpdateOnly = Solo consentir actualisationes manual e non allertar le usator re actualisationes.
 policy-PrimaryPassword = Requirer o impedir usar un contrasigno primari.
+policy-PrintingEnabled = Activar o disactivar le impression.
 policy-NetworkPrediction = Activar o disactivar prediction del rete (prelectura del DNS).
 policy-NewTabPage = Activar o disactivar le pagina Nove scheda.
 policy-NoDefaultBookmarks = Disactivar le creation del marcapaginas predefinite de { -brand-short-name } e del Marcapaginas intelligente (le plus visitate, etiquettas recente). Nota: iste directiva functiona solmente si es usate ante le prime uso del profilo.
