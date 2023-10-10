@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Vài tiện ích mở rộng không được phép
 unified-extensions-mb-quarantined-domain-message = Chỉ một số tiện ích do { -vendor-short-name } giám sát mới được phép trên trang web này để bảo vệ dữ liệu của bạn.
 unified-extensions-mb-quarantined-domain-message-2 = Để bảo vệ dữ liệu của bạn, một số tiện ích mở rộng không thể đọc hoặc thay đổi dữ liệu trên trang web này. Sử dụng cài đặt của tiện ích mở rộng để cho phép trên các trang web bị giới hạn bởi { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Vài tiện ích mở rộng không được phép
+    .message = Để bảo vệ dữ liệu của bạn, một số tiện ích mở rộng không thể đọc hoặc thay đổi dữ liệu trên trang web này. Sử dụng cài đặt của tiện ích mở rộng để cho phép trên các trang web bị giới hạn bởi { -vendor-short-name }.
