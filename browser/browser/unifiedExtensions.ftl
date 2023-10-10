@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Bazı uzantılara izin verilmiyor
 unified-extensions-mb-quarantined-domain-message = Verilerinizi korumak amacıyla, bu sitede yalnızca { -vendor-short-name } onaylı bazı uzantılara izin verilir.
 unified-extensions-mb-quarantined-domain-message-2 = Verilerinizi korumak adına bazı uzantılar bu sitedeki verileri okuyamaz veya değiştiremez. { -vendor-short-name } tarafından kısıtlanan sitelere izin vermek için uzantının ayarlarını kullanabilirsiniz.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Bazı uzantılara izin verilmiyor
+    .message = Verilerinizi korumak adına bazı uzantılar bu sitedeki verileri okuyamaz veya değiştiremez. { -vendor-short-name } tarafından kısıtlanan sitelere izin vermek için uzantının ayarlarını kullanabilirsiniz.
