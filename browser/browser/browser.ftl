@@ -915,6 +915,12 @@ unified-extensions-button-quarantined =
         Extensions
         D’unas son pas premesas
 
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = Anullar
+    .accesskey = A
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } a empachat lo recargament automatic d'aquesta pagina.
