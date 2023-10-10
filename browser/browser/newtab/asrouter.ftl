@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Funcionalidad recomendada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué estoy viendo esto
-
 cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Añadir ahora
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gestionar ajustes de recomendaciones
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = No volver a mostrar esta recomendación
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Aprender más
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recomendación
     .tooltiptext = Recomendación de funcionalidad
     .a11y-announcement = Recomendación de funcionalidad disponible
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Aprender más
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nueva funcionalidad:
-
 cfr-whatsnew-button =
     .label = Qué hay de nuevo
     .tooltiptext = Qué hay de nuevo
-
 cfr-whatsnew-release-notes-link-text = Lee las notas de la versión
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Confirmar
 cfr-doorhanger-doh-secondary-button = Desactivar
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Los videos en este sitio podrían no reproducirse correctamente en esta versión de { -brand-short-name }. Para soporte completo de video, actualiza { -brand-short-name } ahora.
 cfr-doorhanger-video-support-header = Actualiza { -brand-short-name } para reproducir el video
 cfr-doorhanger-video-support-primary-button = Actualizar ahora
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Mantente en privado con { -mozilla-vp
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ahora no
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = Ahora no
 
 mr2022-background-update-toast-title = Nuevo { -brand-short-name }. Mas privado. Menos rastreadores. Sin compromisos.
 mr2022-background-update-toast-text = Prueba el { -brand-short-name } más nuevo a la fecha, actualizado con nuestra protección anti-seguimiento más sólida hasta el momento.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Abrir { -brand-shorter-name } ahora
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Recupera las pestañas cerradas recientemente y salta 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Dí hola a { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = ¿Quieres que esa pestaña abierta esté también en tu teléfono? Tenla ahí. ¿Necesitas ese sitio que acabas de visitar? Puf, ha regresado gracias a { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Mira cómo funciona
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Saltar
 
 colorways-cfr-primarybutton = Elegir combinación de colores
     .accesskey = C
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colorea tu navegador con tonos exclusivos de { -brand-short-name } inspirados en voces que cambiaron la cultura.
 colorways-cfr-header-28days = Las combinaciones de colores de Independent Voices dejarán de estar disponibles el 16 de enero
@@ -229,7 +211,6 @@ july-jam-headline = Nosotros te protegemos
 july-jam-body = Cada mes, { -brand-short-name } bloquea un promedio de más de 3000 rastreadores por usuario, lo que le brinda un acceso rápido y seguro a Internet.
 july-jam-set-default-primary = Abrir mis enlaces con { -brand-short-name }
 fox-doodle-pin-headline = Bienvenido nuevamente
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Aquí hay un recordatorio rápido de que puedes mantener tu navegador independiente favorito a solo un clic de distancia.
@@ -256,3 +237,28 @@ device-migration-fxa-spotlight-header = ¿Usando un dispositivo más antiguo?
 device-migration-fxa-spotlight-body = Realiza una copia de seguridad de tus datos para asegurarte de no perder información importante como marcadores y contraseñas, especialmente si cambias a un nuevo dispositivo.
 device-migration-fxa-spotlight-primary-button = Cómo hacer una copia de seguridad de mis datos
 device-migration-fxa-spotlight-link = Recordarme más tarde
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>¿Configurar { -brand-short-name } como tu lector de PDF predeterminado?</strong> Utiliza { -brand-short-name } para leer y editar archivos PDF guardados en tu computador.
+pdf-default-notification-set-default-button =
+    .label = Establecer como predeterminado
+pdf-default-notification-decline-button =
+    .label = Ahora no
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>¿Abrir { -brand-short-name } cada vez que reinicias tu computador?</strong> Ahora puedes configurar { -brand-short-name } para que se abra automáticamente cuando reinicias tu dispositivo.
+launch-on-login-learnmore = Aprender más
+launch-on-login-infobar-confirm-button = Sí, abrir { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Ahora no
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>¿Abrir { -brand-short-name } cada vez que reinicies tu computador?</strong> Para administrar tus preferencias de inicio, busca "inicio" en los ajustes.
+launch-on-login-infobar-final-reject-button = No, gracias
+    .accesskey = N
