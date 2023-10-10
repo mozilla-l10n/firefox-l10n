@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Odporúčaná funkcia
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Prečo sa mi toto zobrazuje
-
 cfr-doorhanger-extension-cancel-button = Teraz nie
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Pridať
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = Nastavenia odporúčania
     .accesskey = d
-
 cfr-doorhanger-extension-never-show-recommendation = Toto odporúčanie už nezobrazovať
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Ďalšie informácie
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = od vývojára { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Odporúčanie
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Odporúčanie
     .tooltiptext = Odporúčanie rozšírenia
     .a11y-announcement = K dispozícii je odporúčané rozšírenie
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Odporúčanie
     .tooltiptext = Odporúčaná funkcia
     .a11y-announcement = Je k dispozícii odporúčaná funkcia
@@ -87,11 +81,9 @@ cfr-protections-panel-link-text = Ďalšie informácie
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nová funkcia:
-
 cfr-whatsnew-button =
     .label = Čo je nové
     .tooltiptext = Čo je nové
-
 cfr-whatsnew-release-notes-link-text = Prečítajte si poznámky k vydaniu
 
 ## Enhanced Tracking Protection Milestones
@@ -119,16 +111,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Zakázať
     .accesskey = Z
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videá na tejto stránke sa v tejto verzii { -brand-short-name(case: "gen") } nemusia prehrávať správne. Ak chcete získať úplnú podporu videa, aktualizujte prehliadač { -brand-short-name } na novšiu verziu.
 cfr-doorhanger-video-support-header = Ak chcete prehrať video, aktualizujte { -brand-short-name } na novšiu verziu
 cfr-doorhanger-video-support-primary-button = Aktualizovať teraz
     .accesskey = A
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,8 +131,6 @@ spotlight-public-wifi-vpn-primary-button = Ochrániť súkromie pomocou { -mozil
     .accesskey = O
 spotlight-public-wifi-vpn-link = Teraz nie
     .accesskey = T
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -174,13 +160,11 @@ spotlight-pin-secondary-button = Teraz nie
 
 mr2022-background-update-toast-title = Nový { -brand-short-name }. Ešte viac zameraný na súkromie. Menej sledovacích prvkov. Žiadne kompromisy.
 mr2022-background-update-toast-text = Vyskúšajte najnovší { -brand-short-name(case: "acc") }, inovovaný s našou doteraz najsilnejšou ochranou proti sledovaniu.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Spustiť { -brand-shorter-name(case: "acc") }
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -199,7 +183,6 @@ firefoxview-cfr-body-v2 = Získajte späť nedávno zatvorené karty a navyše p
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Pozdravte { -firefoxview-brand-name(case: "acc") }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Chcete získať kartu otvorenú vo vašom telefóne? Vezmite si ju. Potrebujete opäť stránku, ktorú ste práve navštívili? Uf, sú späť vďaka funkcii { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Pozrite sa, ako to funguje
@@ -209,7 +192,6 @@ firefoxview-spotlight-promo-secondarybutton = Preskočiť
 
 colorways-cfr-primarybutton = Zvoľte si farebnú tému
     .accesskey = Z
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Vyfarbite svoj prehliadač { -brand-short-name } exkluzívne odtieňmi inšpirovanými hlasmi, ktoré zmenili kultúru.
 colorways-cfr-header-28days = Farebná téma Nezávislé hlasy je dostupná už len do 16. januára
@@ -232,7 +214,6 @@ july-jam-headline = Kryjeme vás
 july-jam-body = Každý mesiac { -brand-short-name } zablokuje v priemere viac ako 3 000 sledovacích prvkov na používateľa, čo vám poskytuje bezpečný a rýchly prístup k dobrému internetu.
 july-jam-set-default-primary = Otvárať moje odkazy pomocou { -brand-short-name(case: "gen") }
 fox-doodle-pin-headline = Vitajte späť
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Tu je rýchle pripomenutie, že svoj obľúbený nezávislý prehliadač si môžete ponechať jediným kliknutím.
@@ -259,3 +240,25 @@ device-migration-fxa-spotlight-header = Používate staršie zariadenie?
 device-migration-fxa-spotlight-body = Zálohujte si údaje, aby ste nestratili dôležité informácie, ako sú záložky a heslá – najmä ak prejdete na nové zariadenie.
 device-migration-fxa-spotlight-primary-button = Ako zálohovať moje údaje
 device-migration-fxa-spotlight-link = Pripomenúť neskôr
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Nastaviť { -brand-short-name } ako predvolenú čítačku súborov PDF?</strong> Pomocou { -brand-short-name(case: "gen") } môžete čítať a upravovať súbory PDF uložené vo vašom počítači.
+pdf-default-notification-set-default-button =
+    .label = Nastaviť ako predvolenú
+pdf-default-notification-decline-button =
+    .label = Teraz nie
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Otvoriť { -brand-short-name } pri každom reštartovaní počítača?</strong> Teraz môžete nastaviť, aby sa { -brand-short-name } automaticky spustil po reštartovaní zariadenia.
+launch-on-login-learnmore = Ďalšie informácie
+launch-on-login-infobar-confirm-button = Áno, otvárať { -brand-short-name }
+    .accesskey = o
+launch-on-login-infobar-reject-button = Teraz nie
+    .accesskey = T
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
