@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = 開啟 { $extensionName } 的選單
-
 unified-extensions-item-message-manage = 管理擴充套件
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = 釘選至工具列
-
 unified-extensions-context-menu-manage-extension =
     .label = 管理擴充套件
-
 unified-extensions-context-menu-remove-extension =
     .label = 移除擴充套件
-
 unified-extensions-context-menu-report-extension =
     .label = 回報擴充套件
-
 unified-extensions-context-menu-move-widget-up =
     .label = 上移
-
 unified-extensions-context-menu-move-widget-down =
     .label = 下移
 
@@ -48,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = 不允許使用某些擴充套件
 unified-extensions-mb-quarantined-domain-message = 為了保護您的資料安全，僅可在此網站使用某些受 { -vendor-short-name } 監控的擴充套件。
 unified-extensions-mb-quarantined-domain-message-2 = 為了保護您的資料，某些擴充套件無法讀取或更改此網站的資料。您可以到套件設定頁面中允許存取受 { -vendor-short-name } 限制的網站。
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = 不允許使用某些擴充套件
+    .message = 為了保護您的資料，某些擴充套件無法讀取或更改此網站的資料。您可以到套件設定頁面中允許存取受 { -vendor-short-name } 限制的網站。
