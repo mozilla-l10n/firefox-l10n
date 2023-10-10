@@ -51,6 +51,21 @@ shopping-message-bar-thanks-for-reporting-title = Дякуємо за повід
 shopping-message-bar-thanks-for-reporting-message2 = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
 shopping-message-bar-warning-product-not-available-reported-title2 = Інформація незабаром надійде
 shopping-message-bar-warning-product-not-available-reported-message2 = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
+shopping-message-bar-generic-error =
+    .heading = Наразі інформація недоступна
+    .message = Ми працюємо над усуненням проблеми. Поверніться згодом.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ще недостатньо відгуків
+    .message = Коли на цей продукт буде більше відгуків, ми зможемо їх проаналізувати.
+shopping-message-bar-warning-product-not-available =
+    .heading = Товар відсутній
+    .message = Якщо цей товар знову з'явиться, повідомте про це нам, і ми його проаналізуємо.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Дякуємо за повідомлення!
+    .message = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Інформація незабаром надійде
+    .message = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
 shopping-message-bar-analysis-in-progress-title2 = Перевірка якості відгуку
 shopping-message-bar-analysis-in-progress-message2 = Це може тривати близько 60 секунд.
 shopping-message-bar-page-not-supported-title = Ми не можемо перевірити ці відгуки
@@ -151,6 +166,8 @@ shopping-survey-next-button-label = Далі
 shopping-survey-submit-button-label = Надіслати
 shopping-survey-terms-link = Умови користування
 shopping-survey-thanks-message = Дякуємо за ваш відгук!
+shopping-survey-thanks =
+    .heading = Дякуємо за ваш відгук!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
