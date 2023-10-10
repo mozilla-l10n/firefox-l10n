@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Ташаккур барои г
 shopping-message-bar-thanks-for-reporting-message2 = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
 shopping-message-bar-warning-product-not-available-reported-title2 = Маълумот ба наздикӣ дастрас мешавад
 shopping-message-bar-warning-product-not-available-reported-message2 = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
+shopping-message-bar-generic-error =
+    .heading = Ҳоло ягон маълумот дастрас нест
+    .message = Мо барои ҳал кардани ин масъала кор карда истодаем. Лутфан, дертар аз нав тафтиш кунед.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ҳоло шумораи тақризҳо кофӣ намебошад
+    .message = Вақте ки ин маҳсул дорои тақризҳои сершумор мебошад, мо метавонем сифати он тақризҳоро тафтиш намоем.
+shopping-message-bar-warning-product-not-available =
+    .heading = Маҳсул дастнорас аст
+    .message = Агар шумо бинед, ки ин маҳсул аз нав дастрас бошад, гузориш диҳед ва мо тақризҳои онро тафтиш мекунем.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Ташаккур барои гузориш!
+    .message = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Маълумот ба наздикӣ дастрас мешавад
+    .message = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
 shopping-message-bar-analysis-in-progress-title2 = Дар ҳоли санҷиши сифати тақризҳо
 shopping-message-bar-analysis-in-progress-message2 = Ин метавонад тахминан то 60 сония вақт гирад.
 shopping-message-bar-page-not-supported-title = Мо ин тақризҳоро тафтиш карда наметавонем
 shopping-message-bar-page-not-supported-message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
+shopping-message-bar-page-not-supported =
+    .heading = Мо ин тақризҳоро тафтиш карда наметавонем
+    .message = Мутаассифона, мо наметавонем сифати тақризҳоро барои баъзе намудҳои маҳсулот тафтиш кунем. Масалан, барои кортҳои ёдгорӣ, видеоҳои пахши мустақим, мусиқӣ ва бозиҳо.
 
 ## Strings for the product review snippets card
 
@@ -149,6 +167,8 @@ shopping-survey-next-button-label = Навбатӣ
 shopping-survey-submit-button-label = Пешниҳод кардан
 shopping-survey-terms-link = Шартҳои истифода
 shopping-survey-thanks-message = Ташаккур барои изҳори назари шумо!
+shopping-survey-thanks =
+    .heading = Ташаккур барои изҳори назари шумо!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
