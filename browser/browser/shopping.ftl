@@ -70,6 +70,10 @@ shopping-message-bar-warning-product-not-available-reported =
 shopping-message-bar-analysis-in-progress-title2 = Évaluation de la qualité des avis
 shopping-message-bar-analysis-in-progress-message2 = L’opération peut prendre environ 60 secondes.
 shopping-message-bar-page-not-supported-title = Nous ne pouvons pas vérifier ces avis
+shopping-message-bar-page-not-supported-message = Malheureusement, nous ne pouvons pas vérifier la qualité des avis pour certains types de produits. Par exemple, les cartes-cadeau et le streaming vidéo, la musique et les jeux.
+shopping-message-bar-page-not-supported =
+    .heading = Nous ne pouvons pas vérifier ces avis
+    .message = Malheureusement, nous ne pouvons pas vérifier la qualité des avis pour certains types de produits. Par exemple, les cartes-cadeau et le streaming vidéo, la musique et les jeux.
 
 ## Strings for the product review snippets card
 
@@ -172,9 +176,11 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-title = Ces avis sont-ils fiables ? Découvrez-le vite.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Essayez notre guide de confiance pour les avis de produits
 shopping-onboarding-body = En utilisant la puissance de { -fakespot-brand-full-name }, nous vous aidons à éviter les avis partiaux et mensongers. Notre modèle d’intelligence artificielle s’améliore en permanence pour vous protéger pendant vos achats. <a data-l10n-name="learn_more">En savoir plus</a>
 shopping-onboarding-opt-in-button = Oui, l’essayer
 shopping-onboarding-not-now-button = Plus tard
