@@ -12,26 +12,19 @@ cfr-doorhanger-feature-heading = Özellik Önerisi
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Bunu neden görüyorum?
-
 cfr-doorhanger-extension-cancel-button = Şimdi değil
     .accesskey = m
-
 cfr-doorhanger-extension-ok-button = Hemen ekle
     .accesskey = H
-
 cfr-doorhanger-extension-manage-settings-button = Öneri ayarlarını yönet
     .accesskey = Ö
-
 cfr-doorhanger-extension-never-show-recommendation = Bana bu öneriyi gösterme
     .accesskey = B
-
 cfr-doorhanger-extension-learn-more-link = Daha fazla bilgi al
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = geliştiren: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Öneri
@@ -39,7 +32,6 @@ cfr-doorhanger-extension-notification = Öneri
 cfr-doorhanger-extension-notification2 = Öneri
     .tooltiptext = Eklenti önerisi
     .a11y-announcement = Eklenti öneriniz var
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 # .a11y-announcement is extracted in JS and announced via A11y.announce.
@@ -87,11 +79,9 @@ cfr-protections-panel-link-text = Daha fazla bilgi alın
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Yeni özellik:
-
 cfr-whatsnew-button =
     .label = Yeni neler var?
     .tooltiptext = Yeni neler var?
-
 cfr-whatsnew-release-notes-link-text = Sürüm notlarını okuyun
 
 ## Enhanced Tracking Protection Milestones
@@ -118,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Tamam
 cfr-doorhanger-doh-secondary-button = Devre dışı bırak
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Bu sitedeki videolar { -brand-short-name }’un bu sürümünde düzgün oynatılamayabilir. Eksiksiz video desteği için { -brand-short-name } tarayıcınızı güncellemelisiniz.
 cfr-doorhanger-video-support-header = Videoları izlemek için { -brand-short-name }’ güncelleyin
 cfr-doorhanger-video-support-primary-button = Şimdi güncelle
     .accesskey = m
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -142,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name } ile gizli
     .accesskey = k
 spotlight-public-wifi-vpn-link = Şimdi değil
     .accesskey = m
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -173,13 +157,11 @@ spotlight-pin-secondary-button = Şimdi değil
 
 mr2022-background-update-toast-title = Yeni { -brand-short-name }. Daha çok gizlilik. Daha az izleyici.
 mr2022-background-update-toast-text = Bugüne kadarki en güçlü izlenme korumamızla güncellenen en yeni { -brand-short-name }’u şimdi deneyin.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name }’u açın
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -198,7 +180,6 @@ firefoxview-cfr-body-v2 = { -firefoxview-brand-name } ile yakın zamanda kapatt�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name }’a merhaba deyin
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Telefonunuzdan baktığınız sayfayı görmek mi istiyorsunuz? Az önce ziyaret ettiğiniz siteye geri dönmeniz mi gerekiyor? { -firefoxview-brand-name } ile hepsi yanınızda.
 firefoxview-spotlight-promo-primarybutton = Nasıl çalıştığını görün
@@ -208,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Geç
 
 colorways-cfr-primarybutton = Renk kuşağını seç
     .accesskey = R
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Kültürü değiştiren seslerden ilham alan { -brand-short-name } renkleriyle tarayıcınızı renklendirin.
 colorways-cfr-header-28days = Bağımsız Sesler renk kuşakları 16 Ocak’ta kullanımdan kalkıyor
@@ -231,7 +211,6 @@ july-jam-headline = Sizi koruyoruz
 july-jam-body = { -brand-short-name }, her ay kullanıcı başına ortalama 3.000 takip kodunu engelleyerek internete güvenli ve hızlı erişim sağlıyor.
 july-jam-set-default-primary = Bağlantılarımı { -brand-short-name } ile aç
 fox-doodle-pin-headline = Yeniden hoş geldiniz
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Küçük bir hatırlatma: Bağımsız tarayıcınızı bir tık kadar yakınınızda tutabilirsiniz.
@@ -258,3 +237,24 @@ device-migration-fxa-spotlight-header = Eski bir cihaz mı kullanıyorsunuz?
 device-migration-fxa-spotlight-body = Yeni bir cihaza geçiş yaparken yer imleri ve parolalar gibi önemli bilgilerinizin kaybolmaması için için verilerinizi yedekleyin.
 device-migration-fxa-spotlight-primary-button = Verilerimi nasıl yedekleyebilirim?
 device-migration-fxa-spotlight-link = Daha sonra hatırlat
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Varsayılan yap
+pdf-default-notification-decline-button =
+    .label = Şimdi değil
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Daha fazla bilgi alın
+launch-on-login-infobar-confirm-button = Evet, { -brand-short-name } tarayıcısını aç
+    .accesskey = a
+launch-on-login-infobar-reject-button = Şimdi değil
+    .accesskey = d
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Hayır
+    .accesskey = H
