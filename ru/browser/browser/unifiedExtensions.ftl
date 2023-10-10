@@ -20,26 +20,20 @@ unified-extensions-manage-extensions =
 #   $extensionName (String) - Name of the extension
 unified-extensions-item-open-menu =
     .aria-label = Открыть меню для { $extensionName }
-
 unified-extensions-item-message-manage = Управление расширением
 
 ## Extension's context menu
 
 unified-extensions-context-menu-pin-to-toolbar =
     .label = Закрепить на панели инструментов
-
 unified-extensions-context-menu-manage-extension =
     .label = Управление расширением
-
 unified-extensions-context-menu-remove-extension =
     .label = Удалить расширение
-
 unified-extensions-context-menu-report-extension =
     .label = Пожаловаться на расширение
-
 unified-extensions-context-menu-move-widget-up =
     .label = Вверх
-
 unified-extensions-context-menu-move-widget-down =
     .label = Вниз
 
@@ -48,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Некоторые расширения запрещены
 unified-extensions-mb-quarantined-domain-message = Только некоторые расширения, отслеживаемые { -vendor-short-name }, разрешены на этом сайте для защиты ваших данных.
 unified-extensions-mb-quarantined-domain-message-2 = Чтобы защитить ваши данные, некоторые расширения ограничены в чтении или изменении данных на этом сайте. Используйте настройки расширения, чтобы разрешить доступ к сайтам, ограниченным { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Некоторые расширения запрещены
+    .message = Чтобы защитить ваши данные, некоторые расширения ограничены в чтении или изменении данных на этом сайте. Используйте настройки расширения, чтобы разрешить доступ к сайтам, ограниченным { -vendor-short-name }.
