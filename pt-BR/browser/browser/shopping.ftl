@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Obrigado por informar!
 shopping-message-bar-thanks-for-reporting-message2 = Devemos ter informações sobre as avaliações deste produto em até 24 horas. Verifique novamente mais tarde.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informações em breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Devemos ter informações sobre as avaliações deste produto em até 24 horas. Verifique novamente mais tarde.
+shopping-message-bar-generic-error =
+    .heading = Nenhuma informação disponível no momento
+    .message = Estamos trabalhando para resolver o problema. Verifique novamente mais tarde.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ainda não há avaliações suficientes
+    .message = Quando este produto tiver mais avaliações, poderemos verificar sua qualidade.
+shopping-message-bar-warning-product-not-available =
+    .heading = O produto não está disponível
+    .message = Se você perceber que tem este produto novamente em estoque, informe para nós e trabalharemos na verificação de avaliações.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Obrigado por informar!
+    .message = Devemos ter informações sobre as avaliações deste produto em até 24 horas. Verifique novamente mais tarde.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informações em breve
+    .message = Devemos ter informações sobre as avaliações deste produto em até 24 horas. Verifique novamente mais tarde.
 shopping-message-bar-analysis-in-progress-title2 = Verificando a qualidade das avaliações
 shopping-message-bar-analysis-in-progress-message2 = Isso pode demorar cerca de 60 segundos.
 shopping-message-bar-page-not-supported-title = Não podemos verificar essas avaliações
 shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade das avaliações de determinados tipos de produtos. Por exemplo, cartões-presente e transmissão de vídeo, música e jogos.
+shopping-message-bar-page-not-supported =
+    .heading = Não podemos verificar essas avaliações
+    .message = Infelizmente, não podemos verificar a qualidade das avaliações de determinados tipos de produtos. Por exemplo, cartões-presente e transmissão de vídeo, música e jogos.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Avançar
 shopping-survey-submit-button-label = Enviar
 shopping-survey-terms-link = Termos de uso
 shopping-survey-thanks-message = Obrigado por sua opinião!
+shopping-survey-thanks =
+    .heading = Obrigado por sua opinião!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
