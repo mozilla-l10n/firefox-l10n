@@ -91,6 +91,7 @@ policy-LocalFileLinks = Permet a specifics sîts web di colegâsi a files locâi
 policy-ManagedBookmarks = Al configure une liste di segnelibris gjestîts di un aministradôr che l'utent nol pues modificâ.
 policy-ManualAppUpdateOnly = Permet dome i inzornaments manuâi e no sta visâ l'utent se a son disponibii inzornaments.
 policy-PrimaryPassword = Domande o impedìs la utilizazion i une password primarie.
+policy-PrintingEnabled = Ative o disative la stampe.
 policy-NetworkPrediction = Ative o disatie la predizion di rêt (pre-recupar dal DNS).
 policy-NewTabPage = Ative o disative la pagjine Gnove schede.
 policy-NoDefaultBookmarks = Disative la creazion dai segnelibris predefinîts includûts cun { -brand-short-name } e i segnelibris inteligjents (Plui visitâts, Etichetis resintis). Fâs câs: cheste politiche e vâl dome se doprade prime de prime esecuzion dal profîl.
