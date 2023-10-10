@@ -129,7 +129,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Öppna { -brand-short-name } automatiskt när din dator startar
     .accesskey = p
-windows-launch-on-login-disabled = Den här inställningen har inaktiverats i Windows. För att ändra, besök <a data-l10n-name="startup-link">Startappar</a> i Systeminställningar.
+windows-launch-on-login-disabled = Den här inställningen har inaktiverats i Windows. För att ändra, besök <a data-l10n-name="startup-link">Autostart-appar</a> i Systeminställningar.
 startup-restore-warn-on-quit =
     .label = Varna när du avslutar webbläsaren
 disable-extension =
