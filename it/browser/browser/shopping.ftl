@@ -206,3 +206,4 @@ shopping-onboarding-dialog-close-button =
 #   $total (Int) - Total number of pages
 shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Avanzamento: passo { $current } di { $total }
+

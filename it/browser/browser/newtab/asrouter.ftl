@@ -277,3 +277,4 @@ launch-on-login-infobar-reject-button = Non adesso
 launch-on-login-infobar-final-message = <strong>Vuoi aprire { -brand-short-name } quando riavvii il computer?</strong> Per gestire le impostazioni di avvio, cerca “avvio” nelle impostazioni.
 launch-on-login-infobar-final-reject-button = No grazie
   .accesskey = N
+
