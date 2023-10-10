@@ -40,8 +40,13 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = 일치하는 스타일 시트를 찾지 못했습니다.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
 styleeditor-stylesheet-rule-count = 규칙 { $ruleCount }개
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = 예쁜 출력 스타일 시트
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = CSS 파일만 예쁘게 출력할 수 있음

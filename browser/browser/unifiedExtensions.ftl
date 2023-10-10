@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = 데이터를 보호하기 �
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 일부 확장 기능은 허용되지 않음
     .message = 데이터를 보호하기 위해 일부 확장 기능은 이 사이트의 데이터를 읽거나 변경할 수 없습니다. 확장 기능의 설정을 사용하여 { -vendor-short-name }로 제한된 사이트에서 허용합니다.
+unified-extensions-mb-quarantined-domain-learn-more = 더 알아보기
+    .aria-label = 더 알아보기: 일부 확장 기능은 허용되지 않음
