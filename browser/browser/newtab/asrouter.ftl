@@ -249,3 +249,28 @@ device-migration-fxa-spotlight-header = Yn defnyddio dyfais hŷn?
 device-migration-fxa-spotlight-body = Gwnewch gopi wrth gefn o'ch data i wneud yn siŵr nad ydych chi'n colli manylion pwysig fel nodau tudalen a chyfrineiriau — yn enwedig os byddwch chi'n newid i ddyfais newydd.
 device-migration-fxa-spotlight-primary-button = Sut i wneud copi wrth gefn o fy nata
 device-migration-fxa-spotlight-link = Atgoffwch fi yn nes ymlaen
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Gwneud { -brand-short-name } eich darllenydd PDF rhagosodedig?</strong> Defnyddiwch { -brand-short-name } i ddarllen a golygu ffeiliau PDF sydd wedi'u cadw ar eich cyfrifiadur.
+pdf-default-notification-set-default-button =
+    .label = Gosod fel y rhagosodedig
+pdf-default-notification-decline-button =
+    .label = Nid nawr
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Agor { -brand-short-name } bob tro y byddwch yn ailgychwyn eich cyfrifiadur?</strong> Nawr gallwch osod { -brand-short-name } i agor yn awtomatig pan fyddwch yn ailgychwyn eich dyfais.
+launch-on-login-learnmore = Darllen rhagor
+launch-on-login-infobar-confirm-button = Iawn, agor { -brand-short-name }
+    .accesskey = I
+launch-on-login-infobar-reject-button = Nid nawr
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Agor { -brand-short-name } bob tro y byddwch yn ailgychwyn eich cyfrifiadur?</strong> I reoli eich dewisiadau Cychwyn, chwiliwch am “cychwyn neu startup” yn y gosodiadau.
+launch-on-login-infobar-final-reject-button = Dim diolch
+    .accesskey = D

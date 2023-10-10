@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dweud wrth wefannau i beidio â gwerthu neu rannu fy nata
     .accesskey = g
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Rheoli Preifatrwydd Eang (GPC)
 settings-page-title = Gosodiadau
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Agor ffenestri a thabiau blaenorol
     .accesskey = A
+windows-launch-on-login =
+    .label = Agor { -brand-short-name } yn awtomatig pan fydd eich cyfrifiadur yn cychwyn
+    .accesskey = A
+windows-launch-on-login-disabled = Mae'r dewis hwn wedi'i analluogi yn Windows. I'w newid, ewch i <a data-l10n-name="startup-link">Startup Apps</a> yng ngosodiadau System.
 startup-restore-warn-on-quit =
     .label = Rhybuddio wrth adael y porwr
 disable-extension =
