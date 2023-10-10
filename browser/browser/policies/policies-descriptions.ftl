@@ -91,6 +91,7 @@ policy-LocalFileLinks = Spesifike websites tastean te keppeljen nei lokale besta
 policy-ManagedBookmarks = Konfigurearret in list mei blêdwizers dy’t beheard wurde troch in behearder en dy’t net troch de brûker wizige wurde kin.
 policy-ManualAppUpdateOnly = Allinnich hânmjittige fernijingen tastean en de brûker net oer fernijingen ynformearje.
 policy-PrimaryPassword = In haadwachtwurd fereaskje of foarkomme.
+policy-PrintingEnabled = Ofdrukke yn- of útskeakelje.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) ynskeakelje of útskeakelje.
 policy-NewTabPage = De nije-ljepblêdside ynskeakelje of útskeakelje.
 policy-NoDefaultBookmarks = Oanmeitsjen fan de standertblêdwizers dy’t mei { -brand-short-name } mei levere wurde útskeakelje, krekt as de Tûke blêdwizers (Meast besocht, Resinte labels). Noat: dizze beliedsregel is allinnich fan krêft by gebrûk derfan eardat it profyl foar it earst útfierd wurdt.

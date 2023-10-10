@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkt is net beskikber
     .message = As jo sjogge dat dit produkt wer op foarried is, meld it dan oan ús en wy sille wurkje om de beoardielingen te kontrolearjen.
+shopping-message-bar-warning-product-not-available-button2 = Rapportearje produkt op foarried is
 shopping-message-bar-thanks-for-reporting =
     .heading = Tank foar it melden!
     .message = Wy soene binnen 24 oeren ynfo oer de beoardieling fan dit produkt hawwe moatte. Kom letter noch ris werom.
@@ -193,6 +194,12 @@ shopping-onboarding-headline = Probearje ús fertroude gids foar produktbeoardie
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -vendor-short-name }, is streekrjocht yn { -brand-product-name } ynboud – en it wurket yn <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -brand-product-name }, is streekrjocht yn browser ynboud. It wurket ek yn <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Mei help fan de krêft fan { -fakespot-brand-full-name } helpe wy jo befoaroardiele en net-autentike beoardielingen foar te kommen. Us AI-model wurdt hieltyd ferbettere om jo te beskermjen wylst jo winkelje. <a data-l10n-name="learn_more">Mear ynfo</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Troch ‘{ shopping-onboarding-opt-in-button }’ te selektearjen, geane jo akkoard mei it <a data-l10n-name="privacy_policy">privacybelied</a> en  de <a data-l10n-name="terms_of_use">brûksbetingsten</a> fan { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Ja, probearje

@@ -40,7 +40,6 @@ styleeditor-go-to-line =
     .accesskey = L
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Der is gjin oerienkommend stylblêd fûn.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -49,3 +48,9 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } rigel.
        *[other] { $ruleCount } rigels.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Stylesheet Pretty Print
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Kin allinnich CSS-bestannen kreas ôfdrukke
