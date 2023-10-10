@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = För att skydda din data ka
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Vissa tillägg är inte tillåtna
     .message = För att skydda din data kan vissa tillägg inte läsa eller ändra data på den här webbplatsen. Använd tilläggets inställningar för att tillåta på webbplatser som begränsas av { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Läs mer
+    .aria-label = Läs mer: Vissa tillägg är inte tillåtna
