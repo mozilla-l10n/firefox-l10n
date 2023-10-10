@@ -40,7 +40,6 @@ styleeditor-go-to-line =
     .accesskey = е
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Подходящая таблица стилей не найдена.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -50,3 +49,9 @@ styleeditor-stylesheet-rule-count =
         [few] { $ruleCount } правила
        *[many] { $ruleCount } правил
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Красивая таблица стилей для печати
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Можно красиво печатать только CSS-файлы

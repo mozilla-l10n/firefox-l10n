@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Модули журнала для диагностики проблем WebGPU
 about-logging-preset-gfx-label = Графика
 about-logging-preset-gfx-description = Модули журналирования для диагностики проблем с графикой
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Модули журналов для диагностики проблем, характерных для Microsoft Windows
 about-logging-preset-custom-label = Персональная
 about-logging-preset-custom-description = Вручную выбранные модули журнала
 # Error handling
