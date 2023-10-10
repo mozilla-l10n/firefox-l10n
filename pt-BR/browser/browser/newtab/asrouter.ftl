@@ -259,5 +259,6 @@ launch-on-login-infobar-reject-button = Agora não
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Abrir o { -brand-short-name } sempre que reiniciar o computador?</strong> Para gerenciar suas preferências de início, pesquise “iniciar” nas configurações.
 launch-on-login-infobar-final-reject-button = Não, obrigado
     .accesskey = N
