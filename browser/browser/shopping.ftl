@@ -55,6 +55,9 @@ shopping-message-bar-analysis-in-progress-title2 = Beoordelingskwaliteit control
 shopping-message-bar-analysis-in-progress-message2 = Dit kan ongeveer 60 seconden duren.
 shopping-message-bar-page-not-supported-title = We kunnen deze beoordelingen niet controleren
 shopping-message-bar-page-not-supported-message = Helaas kunnen we de beoordelingskwaliteit voor bepaalde soorten producten niet controleren. Dit betreft bijvoorbeeld cadeaubonnen en streaming video, muziek en games.
+shopping-message-bar-page-not-supported =
+    .heading = We kunnen deze beoordelingen niet controleren
+    .message = Helaas kunnen we de beoordelingskwaliteit voor bepaalde soorten producten niet controleren. Dit betreft bijvoorbeeld cadeaubonnen en streaming video, muziek en games.
 
 ## Strings for the product review snippets card
 
