@@ -246,8 +246,16 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>컴퓨터를 다시 시작할 때마다 { -brand-short-name }를 여시겠습니까?</strong> 이제 기기를 다시 시작할 때 자동으로 열리도록 { -brand-short-name }를 설정할 수 있습니다.
 launch-on-login-learnmore = 더 알아보기
+launch-on-login-infobar-confirm-button = 예, { -brand-short-name }를 엽니다
+    .accesskey = Y
+launch-on-login-infobar-reject-button = 나중에
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>컴퓨터를 다시 시작할 때마다 { -brand-short-name }를 여시겠습니까?</strong> 시작 설정을 관리하려면, 설정에서 "시작"을 검색하세요.
+launch-on-login-infobar-final-reject-button = 아니요
+    .accesskey = N
