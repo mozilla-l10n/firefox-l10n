@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Tack för att du rapporterade!
 shopping-message-bar-thanks-for-reporting-message2 = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
 shopping-message-bar-warning-product-not-available-reported-title2 = Info kommer snart
 shopping-message-bar-warning-product-not-available-reported-message2 = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
+shopping-message-bar-generic-error =
+    .heading = Ingen information tillgänglig just nu
+    .message = Vi jobbar på att lösa problemet. Kom tillbaka snart.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Inte tillräckligt med recensioner ännu
+    .message = När den här produkten har fler recensioner kan vi kontrollera deras kvalitet.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkten är inte tillgänglig
+    .message = Om du ser att den här produkten finns i lager igen, rapportera det så jobbar vi med att kontrollera recensionerna.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Tack för att du rapporterade!
+    .message = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Info kommer snart
+    .message = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerar recensionens kvalitet
 shopping-message-bar-analysis-in-progress-message2 = Detta kan ta uppåt 60 sekunder.
 shopping-message-bar-page-not-supported-title = Vi kan inte kontrollera dessa recensioner
 shopping-message-bar-page-not-supported-message = Tyvärr kan vi inte kontrollera recensionskvaliteten för vissa typer av produkter. Till exempel presentkort och strömmande video, musik och spel.
+shopping-message-bar-page-not-supported =
+    .heading = Vi kan inte kontrollera dessa recensioner
+    .message = Tyvärr kan vi inte kontrollera recensionskvaliteten för vissa typer av produkter. Till exempel presentkort och strömmande video, musik och spel.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Nästa
 shopping-survey-submit-button-label = Skicka in
 shopping-survey-terms-link = Användarvillkor
 shopping-survey-thanks-message = Tack för din feedback!
+shopping-survey-thanks =
+    .heading = Tack för din feedback!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
