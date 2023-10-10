@@ -51,6 +51,21 @@ shopping-message-bar-thanks-for-reporting-title = Спасибо за сообщ
 shopping-message-bar-thanks-for-reporting-message2 = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
 shopping-message-bar-warning-product-not-available-reported-title2 = Информация скоро появится
 shopping-message-bar-warning-product-not-available-reported-message2 = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
+shopping-message-bar-generic-error =
+    .heading = На данный момент нет доступной информации
+    .message = Мы работаем над решением проблемы. Пожалуйста, зайдите в ближайшее время.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Пока недостаточно отзывов
+    .message = Когда у этого товара будет больше отзывов, мы сможем проверить его качество.
+shopping-message-bar-warning-product-not-available =
+    .heading = Товар недоступен
+    .message = Если вы увидите, что этот товар снова в наличии, сообщите об этом, и мы проверим отзывы.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Спасибо за сообщение!
+    .message = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Информация скоро появится
+    .message = Мы должны получить информацию об отзывах на этот продукт в течение 24 часов. Пожалуйста, зайдите позже.
 shopping-message-bar-analysis-in-progress-title2 = Проверяем качество отзывов
 shopping-message-bar-analysis-in-progress-message2 = Это может занять около 60 секунд.
 shopping-message-bar-page-not-supported-title = Мы не можем проверить эти отзывы
@@ -151,6 +166,8 @@ shopping-survey-next-button-label = Далее
 shopping-survey-submit-button-label = Отправить
 shopping-survey-terms-link = Условия использования
 shopping-survey-thanks-message = Спасибо за ваш отзыв!
+shopping-survey-thanks =
+    .heading = Спасибо за ваш отзыв!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
