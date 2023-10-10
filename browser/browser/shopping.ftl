@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkt njejo k dispoziciji
     .message = Jolic wiźiśo, až toś ten produkt jo zasej na skłaźe, dajśo to k wěsći a buźomy na kontrolěrowanju pógódnośenjow źěłaś.
+shopping-message-bar-warning-product-not-available-button2 = K wěsći daś, až produkt jo na skłaźe
 shopping-message-bar-thanks-for-reporting =
     .heading = Wjeliki źěk za powěźeńku!
     .message = My dejali w běgu 24 góźin informacije wó pógódnośenjach toś togo produkta měś. Pśiźćo pšosym mimo.
@@ -193,6 +194,12 @@ shopping-onboarding-headline = Cytajśo naš dowěry gódny pśewodnik wó póg�
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Glědajśo, kak spušćobne produktowe pógódnośenja su na <b>{ $currentSite }</b>, nježli až kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija wót { -vendor-short-name }, jo w { -brand-product-name } zatwarjona – a funkcioněrujo teke na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Glědajśo, kak spušćobne produktowe pógódnośenja su na <b>{ $currentSite }</b>, nježli až kupujośo. Kontrola pógódnośenjow, eksperimentalna funkcija wót { -brand-product-name }, jo we wobglědowaku zatwarjona. Funkcioněrujo teke na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomagamy wam, se njeawtentiskich pógódnośenjow a pógódnośenjow połnych pśedsudkow wobinuś. Naš model KI se stawnje pólěpšujo, aby was šćitał, gaž nakupujośo. <a data-l10n-name="learn_more">Dalšne informacije</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Gaž “{ shopping-onboarding-opt-in-button }“ wuběraśo, zwólijośo do<a data-l10n-name="privacy_policy">pšawidłow priwatnosći</a> a <a data-l10n-name="terms_of_use">wužywańskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Jo, wopytaś
