@@ -28,16 +28,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Atualizatziones a disponimentu
 shopping-message-bar-warning-product-not-available-title = Su produtu no est a disponimentu
 shopping-message-bar-thanks-for-reporting-title = Gràtzias de sa sinnalatzione
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
 
 ## Strings for the product review snippets card
 
@@ -69,4 +61,15 @@ shopping-message-bar-thanks-for-reporting-title = Gràtzias de sa sinnalatzione
 
 
 ## Strings for the advertisement
+
+
+## Shopping survey strings.
+
+
+## Shopping Feature Callout strings.
+## "price tag" refers to the price tag icon displayed in the address bar to
+## access the feature.
+
+
+## Onboarding message strings.
 
