@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Il prodot nol è disponibil
     .message = Se tu viodis che chest prodot al è di gnûf disponibil, visinus cuntune segnalazion e nô o lavorarìn par verificâ lis recensions.
+shopping-message-bar-warning-product-not-available-button2 = Segnale che il prodot al è disponibil
 shopping-message-bar-thanks-for-reporting =
     .heading = Graciis pe segnalazion!
     .message = O varessin di vê informazions su lis recensions di chest prodot dentri di 24 oris. Torne controle plui tart.
