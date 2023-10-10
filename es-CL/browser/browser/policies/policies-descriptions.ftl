@@ -91,6 +91,7 @@ policy-LocalFileLinks = Permitir a sitios web específicos enlazar a archivos lo
 policy-ManagedBookmarks = Configura una lista de marcadores administrada por un administrador que el usuario no puede cambiar.
 policy-ManualAppUpdateOnly = Permita solo actualizaciones manuales y no notificar al usuario acerca de actualizaciones.
 policy-PrimaryPassword = Requerir o evitar usando una contraseña primaria.
+policy-PrintingEnabled = Activa o desactiva la impresión.
 policy-NetworkPrediction = Activar o desactivar predicción de red (obtención adelantada de DNS).
 policy-NewTabPage = Activar o desactivar la página Nueva pestaña.
 policy-NoDefaultBookmarks = Desactiva la creación por defecto de marcadores incluidos con { -brand-short-name }, y los marcadores inteligentes (Más visitados, Etiquetas recientes). Nota: esta política solo es efectiva si es usada antes de la primera ejecución del perfil.
