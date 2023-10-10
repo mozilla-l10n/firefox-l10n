@@ -31,7 +31,6 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-title = Atualizações disponíveis
 shopping-message-bar-generic-error-title2 = Nenhuma informação disponível neste momento
 shopping-message-bar-generic-error-message = Estamos a trabalhar para resolver o problema. Por favor, volte em breve.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
@@ -43,18 +42,16 @@ shopping-message-bar-thanks-for-reporting-title = Obrigado por reportar!
 shopping-message-bar-thanks-for-reporting-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informações em breve
 shopping-message-bar-warning-product-not-available-reported-message2 = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Obrigado por reportar!
+    .message = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informações em breve
+    .message = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
 shopping-message-bar-analysis-in-progress-title2 = A verificar a qualidade da avaliação
 shopping-message-bar-analysis-in-progress-message2 = Isto pode demorar cerca de 60 segundos.
 shopping-message-bar-page-not-supported-title = Não podemos verificar estas avaliações
 shopping-message-bar-page-not-supported-message = Infelizmente, não podemos verificar a qualidade da avaliação para determinados tipos de produtos. Por exemplo, cartões-presente e streaming de vídeo, música e jogos.
-
-## The word 'analyzer' when used here reflects what this tool is called on
-## fakespot.com. If possible, a different word should be used for the Fakespot
-## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
-## used in the name of the Firefox feature ('Review checker'). If that is not
-## possible - if these terms are not meaningfully different - that is OK.
-
-shopping-message-bar-warning-stale-analysis-link = Executar o analisador em { -fakespot-website-name }
 
 ## Strings for the product review snippets card
 
@@ -105,10 +102,6 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Avaliações não 
 
 ## Strings for UrlBar button
 
-shopping-sidebar-open-button =
-    .tooltiptext = Abrir barra lateral de compras
-shopping-sidebar-close-button =
-    .tooltiptext = Fechar barra lateral de compras
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -138,8 +131,13 @@ shopping-survey-next-button-label = Próximo
 shopping-survey-submit-button-label = Submeter
 shopping-survey-terms-link = Termos de utilização
 shopping-survey-thanks-message = Obrigado pela sua opinião!
+shopping-survey-thanks =
+    .heading = Obrigado pela sua opinião!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
+
+
+## Onboarding message strings.
 
