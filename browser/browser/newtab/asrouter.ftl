@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Eiginleiki sem mælt er með
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvers vegna er ég að sjá þetta
-
 cfr-doorhanger-extension-cancel-button = Ekki núna
     .accesskey = E
-
 cfr-doorhanger-extension-ok-button = Bæta við núna
     .accesskey = B
-
 cfr-doorhanger-extension-manage-settings-button = Sýsla með ábendingastillingar
     .accesskey = s
-
 cfr-doorhanger-extension-never-show-recommendation = Ekki sýna mér þessar tillögur
     .accesskey = E
-
 cfr-doorhanger-extension-learn-more-link = Fræðast meira
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = eftir { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Tillaga
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Tillaga
     .tooltiptext = Tillaga að viðbót
     .a11y-announcement = Fyrirliggjandi er tillaga að viðbót
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Mælt með
     .tooltiptext = Eiginleiki sem mælt er með
     .a11y-announcement = Meðmæli með eiginleika eru tiltæk
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Frekari upplýsingar
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nýr eiginleiki:
-
 cfr-whatsnew-button =
     .label = Hvað er nýtt
     .tooltiptext = Hvað er nýtt
-
 cfr-whatsnew-release-notes-link-text = Lesa útgáfuskýringarnar
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Allt í lagi
 cfr-doorhanger-doh-secondary-button = Gera óvirkt
     .accesskey = G
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Myndskeið á þessu vefsvæði gætu spilast ekki rétt í þessari útgáfu af { -brand-short-name }. Fyrir fullan stuðning við myndskeið skaltu uppfæra { -brand-short-name } núna.
 cfr-doorhanger-video-support-header = Uppfærðu { -brand-short-name } til að spila myndskeið
 cfr-doorhanger-video-support-primary-button = Uppfæra núna
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Haltu þig til hlés með { -mozilla-
     .accesskey = H
 spotlight-public-wifi-vpn-link = Ekki núna
     .accesskey = E
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = Ekki núna
 
 mr2022-background-update-toast-title = Nýr { -brand-short-name }. Meira einkamál. Færri rekjarar. Engar málamiðlanir.
 mr2022-background-update-toast-text = Prófaðu nýjasta { -brand-short-name } núna, uppfærður með sterkustu rakningarvörn okkar hingað til.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Opna { -brand-shorter-name } núna
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Fáðu nýokaða flipa til baka, auk þess að skipta 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Segðu hæ við { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Viltu þennan opna flipa á símann þinn? Gríptu það. Þarftu þessa vefsíðu sem þú heimsóttir nýlega? Bang, þetta er komið með { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Sjá hvernig þetta virkar
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Sleppa
 
 colorways-cfr-primarybutton = Veldu litasett
     .accesskey = d
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Litaðu vafrann þinn með { -brand-short-name } einstökum tónum innblásnum af röddum sem breyttu menningunni.
 colorways-cfr-header-28days = Litasett Independent Voices rennur út 16. janúar
@@ -229,7 +211,6 @@ july-jam-headline = Við erum með það sem þú þarft
 july-jam-body = Í hverjum mánuði lokar { -brand-short-name } að meðaltali á meira en 3.000 rekjara á hvern notanda, sem tryggir þér öruggan, skjótan aðgang að góðu interneti.
 july-jam-set-default-primary = Opna tenglana mína með { -brand-short-name }
 fox-doodle-pin-headline = Velkomin aftur
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Hér er vinsamleg áminning um að þú getur haldið áfram að nota eftirlætisvafrann þinn með einum smelli.
@@ -256,3 +237,28 @@ device-migration-fxa-spotlight-header = Notarðu eldra tæki?
 device-migration-fxa-spotlight-body = Taktu öryggisafrit af gögnunum þínum til að tryggja að þú glatir ekki mikilvægum upplýsingum, eins og bókamerkjum og lykilorðum - sérstaklega ef þú skiptir yfir í nýtt tæki.
 device-migration-fxa-spotlight-primary-button = Hvernig á að taka öryggisafrit af gögnunum mínum
 device-migration-fxa-spotlight-link = Minna mig á seinna
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Gera { -brand-short-name } að sjálfgefna PDF-lesaranum þínum?</strong> Notaðu { -brand-short-name } til að lesa og breyta PDF-skjölum sem eru vistuð á tölvunni þinni.
+pdf-default-notification-set-default-button =
+    .label = Setja sem sjálfgefið
+pdf-default-notification-decline-button =
+    .label = Ekki núna
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Opna { -brand-short-name } í hvert sinn sem þú endurræsir tölvuna þína?</strong> Nú geturðu stillt { -brand-short-name } til að opnast sjálfkrafa þegar þú endurræsir tækið þitt.
+launch-on-login-learnmore = Frekari upplýsingar
+launch-on-login-infobar-confirm-button = Já, opna { -brand-short-name }
+    .accesskey = J
+launch-on-login-infobar-reject-button = Ekki núna
+    .accesskey = n
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Opna { -brand-short-name } í hvert sinn sem þú endurræsir tölvuna þína?</strong> Til að stjórna ræsingunni hjá þér skaltu leita að „startup“ í stillingunum.
+launch-on-login-infobar-final-reject-button = Nei takk
+    .accesskey = N

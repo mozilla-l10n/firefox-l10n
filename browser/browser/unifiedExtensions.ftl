@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Til að vernda gögnin þí
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Sumir forritsaukar eru ekki leyfðir
     .message = Til að vernda gögnin þín mega sumar viðbætur ekki lesið eða breytt gögnum á þessari síðu. Notaðu stillingar viðbótarinnar til að leyfa það á vefsvæðum sem takmarkast af { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Frekari upplýsingar
+    .aria-label = Frekari upplýsingar: Sumir viðaukar eru ekki leyfðir
