@@ -120,6 +120,10 @@ shopping-analysis-explainer-intro2 = Roiporu tembiporupyahu IA { -fakespot-brand
 shopping-analysis-explainer-grades-intro = Rome’ẽ marandu’i peteĩteĩva apopyrépe <strong>papapy tai ndive</strong> A guive F peve.
 shopping-analysis-explainer-adjusted-rating-description = <strong>ñeha’ã oikóva</strong> oma’ẽ marandu’i rohecháva jeroviaha añoite.
 shopping-analysis-explainer-learn-more = Eikuaave <a data-l10n-name="review-quality-url">mba’éichapa { -fakespot-brand-full-name } oikuaa marandu’i porãngue</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Umi <strong>momba’eguasupyre</strong> ou { $retailer } jehechajeýgui 80 ára ohasaramóvape roikuaáva ejeroviakuaaha.
 shopping-analysis-explainer-review-grading-scale-reliable = Hechajey jeroviaha. Roguerovia marandu’i ouha joguaháragui ohejáva umi marandu’i oñanduháicha ha ñaña’ỹre.
 shopping-analysis-explainer-review-grading-scale-mixed = Roikuaa oĩha marandu’i jeroviaha ha jerovia’ỹha.
 shopping-analysis-explainer-review-grading-scale-unreliable = Marandu’i jerovia’iveha. Roikuaa marandu’i ikatuha japu térã ou hechajeyhára iñañávagui.
@@ -139,6 +143,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ndaipóri mba’eve ko’ã marandu’i rehegua
+shopping-unanalyzed-product-message-2 = Eikuaa hag̃ua ko apopyre marandu’i jeroviahápa, ehechajey iporãpa umi jehechajey. Hi’aréta 60 aravo’ive rupi.
 shopping-unanalyzed-product-analyze-button = Ehechajey marandu’i porãngue
 
 ## Strings for the advertisement
