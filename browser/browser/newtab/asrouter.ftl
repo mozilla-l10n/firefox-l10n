@@ -240,6 +240,8 @@ device-migration-fxa-spotlight-link = Påminn mig senare
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Gör { -brand-short-name } till din standardläsare för PDF?</strong> Använd { -brand-short-name } för att läsa och redigera PDF-filer som sparats på din dator.
 pdf-default-notification-set-default-button =
     .label = Ange som standard
 pdf-default-notification-decline-button =
@@ -247,8 +249,15 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Öppna { -brand-short-name } varje gång du startar om datorn?</strong> Nu kan du ställa in { -brand-short-name } så att den öppnas automatiskt när du startar om enheten.
 launch-on-login-learnmore = Läs mer
+launch-on-login-infobar-confirm-button = Ja, öppna { -brand-short-name }
+    .accesskey = J
+launch-on-login-infobar-reject-button = Inte nu
+    .accesskey = n
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = Nej tack
+    .accesskey = N

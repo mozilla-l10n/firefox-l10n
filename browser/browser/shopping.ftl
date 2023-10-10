@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkten är inte tillgänglig
     .message = Om du ser att den här produkten finns i lager igen, rapportera det så jobbar vi med att kontrollera recensionerna.
+shopping-message-bar-warning-product-not-available-button2 = Rapportera att produkten finns i lager
 shopping-message-bar-thanks-for-reporting =
     .heading = Tack för att du rapporterade!
     .message = Vi bör ha information om denna produkts recensioner inom 24 timmar. Kom tillbaka snart.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Prova vår pålitliga guide till produktrecension
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du gör ett köp. Recensionsgranskaren, en experimentell funktion från { -vendor-short-name }, är inbyggd direkt i { -brand-product-name } — och den fungerar på <b>{ $secondSite }</b> och <b>{ $thirdSite }</b> också.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du köper. Recensionsgranskaren, en experimentell funktion från { -brand-product-name }, är inbyggd direkt i webbläsaren. Det fungerar också på <b>{ $secondSite }</b> och <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Genom att använda kraften i { -fakespot-brand-full-name } hjälper vi dig att undvika partiska och oäkta recensioner. Vår AI-modell förbättras alltid för att skydda dig när du handlar. <a data-l10n-name="learn_more">Läs mer</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-full-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-button = Ja, prova den
