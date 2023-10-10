@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Om jo gegevens te beskermje
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Guon útwreidingen binne net tastien
     .message = Om jo gegevens te beskermjen, kinne guon útwreidingen gjin gegevens op dizze side lêze of wizigje. Brûk de ynstellingen fan de útwreiding om dit ta te stean op siden dy’t beheind binne troch { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Mear ynfo
+    .aria-label = Mear ynfo: guon útwreidingen binne net tastien

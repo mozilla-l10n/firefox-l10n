@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Oanrekommandearre funksje
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Wêrom sjoch ik dit
-
 cfr-doorhanger-extension-cancel-button = No net
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = No tafoegje
     .accesskey = t
-
 cfr-doorhanger-extension-manage-settings-button = Ynstellingen foar oanrekommandaasjes beheare
     .accesskey = o
-
 cfr-doorhanger-extension-never-show-recommendation = Dizze oanrekommandaasje net toane
     .accesskey = D
-
 cfr-doorhanger-extension-learn-more-link = Mear ynfo
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = troch { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Oanrekommandaasje
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Oanrekommandaasje
     .tooltiptext = Oanrekommandaasje foar útwreiding
     .a11y-announcement = Oanrekommandaasje foar útwreiding beskikber
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Oanrekommandaasje
     .tooltiptext = Oanrekommandaasje foar funksje
     .a11y-announcement = Oanrekommandaasje foar funksje beskikber
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Mear ynfo
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nije funksje:
-
 cfr-whatsnew-button =
     .label = Wat is der nij
     .tooltiptext = Wat is der nij
-
 cfr-whatsnew-release-notes-link-text = Utjefteopmerkingen lêze
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Oké
 cfr-doorhanger-doh-secondary-button = Utskeakelje
     .accesskey = U
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Fideo’s op dizze website wurde mooglik yn dizze ferzje fan { -brand-short-name } net korrekt ôfspile. Wurkje { -brand-short-name } no by foar folsleine fideo-stipe.
 cfr-doorhanger-video-support-header = Wurkje { -brand-short-name } by om fideo ôf te spyljen
 cfr-doorhanger-video-support-primary-button = No bywurkje
     .accesskey = w
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Bliuw privee mei { -mozilla-vpn-brand
     .accesskey = B
 spotlight-public-wifi-vpn-link = No net
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = No net
 
 mr2022-background-update-toast-title = Nije { -brand-short-name }. Mear privee. Minder trackers. Gjin kompromissen.
 mr2022-background-update-toast-text = Probearje no de nijste { -brand-short-name }, opwurdearre mei ús krêftichste beskerming tsjin folgjen oant no ta.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } no iepenje
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Untfang koartlyn sluten ljepblêden werom en skeakelje
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Sis hallo tsjin { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Wolle jo dat iepen ljepblêd op jo telefoan? Pak it. Need oan dy side dy’t jo krekt besocht hawwe? Poef, it is werom mei { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Sjen hoe't dit wurket
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Oerslaan
 
 colorways-cfr-primarybutton = Kleurstelling kieze
     .accesskey = k
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Kleur jo browser mei foar { -brand-short-name } eksklusive tinten, ynspirearre troch stimmen dy’t de kultuer wizige hawwe.
 colorways-cfr-header-28days = Independent Voices-kleurstellingen ferrinne op 16 jannewaris
@@ -229,7 +211,6 @@ july-jam-headline = By ús binne jo feilich
 july-jam-body = Elke moanne blokkearret { -brand-short-name } gemiddeld mear as 3.000 trackers per brûker, wêrtroch jo feilich en flugge tagong hawwe ta it goede ynternet.
 july-jam-set-default-primary = Myn keppelingen iepenje mei { -brand-short-name }
 fox-doodle-pin-headline = Wolkom werom
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Dit is in koart omtinken dat jo jo favorite ûnôfhinklike browser op mar ien klik ôfstân hâlde kinne.
@@ -256,3 +237,28 @@ device-migration-fxa-spotlight-header = Brûke jo in âlder apparaat?
 device-migration-fxa-spotlight-body = Meitsje in reservekopy fan jo gegevens om derfoar te soargjen dat jo gjin wichtige ynformaasje, lykas blêdwizers en wachtwurden kwytreitsje, foaral as jo oerskeakelje nei in nij apparaat.
 device-migration-fxa-spotlight-primary-button = Hoe meitsje in reservekopy fan myn gegevens
 device-migration-fxa-spotlight-link = Letter werinnerje
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name } jo standert PDF-lêzer meitsje?</strong> { -brand-short-name } brûke om PDF’s dy’t op jo kompjûter bewarre binne te lêzen en te bewurkjen.
+pdf-default-notification-set-default-button =
+    .label = Ynstelle as standert
+pdf-default-notification-decline-button =
+    .label = No net
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>{ -brand-short-name } iepenje elke kear dat jo jo kompjûter opnij starte?</strong> Jo kinne no { -brand-short-name } ynstelle om automatysk te iepenjen wannear’t jo jo apparaat opnij starte.
+launch-on-login-learnmore = Mear ynfo
+launch-on-login-infobar-confirm-button = Ja, { -brand-short-name } iepenje
+    .accesskey = J
+launch-on-login-infobar-reject-button = No net
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>{ -brand-short-name } iepenje elke kear dat jo jo kompjûter opnij starte?</strong> Sykje nei ‘opstarten’ yn jo ynstellingen om jo opstartfoarkarren te behearen.
+launch-on-login-infobar-final-reject-button = Nee tankewol
+    .accesskey = N
