@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Cảm ơn bạn đã báo cáo
 shopping-message-bar-thanks-for-reporting-message2 = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
 shopping-message-bar-warning-product-not-available-reported-title2 = Thông tin sắp ra mắt
 shopping-message-bar-warning-product-not-available-reported-message2 = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
+shopping-message-bar-generic-error =
+    .heading = Hiện không có thông tin nào
+    .message = Chúng tôi đang làm việc để giải quyết sự cố. Hãy kiểm tra lại sau.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Chưa đủ đánh giá
+    .message = Khi sản phẩm này có nhiều đánh giá hơn, chúng tôi sẽ có thể kiểm tra chất lượng của chúng.
+shopping-message-bar-warning-product-not-available =
+    .heading = Sản phẩm không có sẵn
+    .message = Nếu bạn thấy sản phẩm này đã có hàng trở lại, hãy báo cáo và chúng tôi sẽ kiểm tra đánh giá.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Cảm ơn bạn đã báo cáo!
+    .message = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Thông tin sắp ra mắt
+    .message = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
 shopping-message-bar-analysis-in-progress-title2 = Đang kiểm tra chất lượng đánh giá
 shopping-message-bar-analysis-in-progress-message2 = Quá trình này có thể mất khoảng 60 giây.
 shopping-message-bar-page-not-supported-title = Chúng tôi không thể kiểm tra những đánh giá này
 shopping-message-bar-page-not-supported-message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
+shopping-message-bar-page-not-supported =
+    .heading = Chúng tôi không thể kiểm tra những đánh giá này
+    .message = Rất tiếc, chúng tôi không thể kiểm tra chất lượng đánh giá đối với một số loại sản phẩm nhất định. Ví dụ: thẻ quà tặng và truyền phát video, âm nhạc và trò chơi.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Tiếp
 shopping-survey-submit-button-label = Gửi
 shopping-survey-terms-link = Điều khoản sử dụng
 shopping-survey-thanks-message = Cảm ơn phản hồi của bạn!
+shopping-survey-thanks =
+    .heading = Cảm ơn phản hồi của bạn!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
