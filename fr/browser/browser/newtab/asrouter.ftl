@@ -248,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Vous ouvrez { -brand-short-name } chaque fois que vous redémarrez votre ordinateur ?</strong> Vous pouvez désormais configurer { -brand-short-name } pour qu’il s’ouvre automatiquement au redémarrage de votre appareil.
 launch-on-login-learnmore = En savoir plus
 launch-on-login-infobar-confirm-button = Oui, ouvrir { -brand-short-name }
     .accesskey = O
@@ -257,5 +258,6 @@ launch-on-login-infobar-reject-button = Plus tard
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Vous ouvrez { -brand-short-name } chaque fois que vous redémarrez votre ordinateur ?</strong> Pour gérer vos préférences de démarrage, recherchez « démarrage » dans les paramètres.
 launch-on-login-infobar-final-reject-button = Non merci
     .accesskey = N

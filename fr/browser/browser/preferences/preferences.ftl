@@ -129,6 +129,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Ouvrir { -brand-short-name } automatiquement au démarrage de votre ordinateur
     .accesskey = O
+windows-launch-on-login-disabled = Cette préférence a été désactivée dans Windows. Pour modifier ce paramètre, accédez aux <a data-l10n-name="startup-link">Applications de démarrage</a> dans les paramètres système.
 startup-restore-warn-on-quit =
     .label = Prévenir à la fermeture du navigateur
 disable-extension =
