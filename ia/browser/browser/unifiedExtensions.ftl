@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Pro proteger tu datos, alcu
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Alcun extensiones non es permittite
     .message = Pro proteger tu datos, alcun extensiones non pote leger o cambiar datos in iste sito. Usar le parametros de extension pro permitter los sur sitos limitate per { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Pro saper plus
+    .aria-label = Saper plus: alcun extensiones non es permittite

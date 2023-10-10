@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Function recommendate
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Proque vide io isto?
-
 cfr-doorhanger-extension-cancel-button = Non ora
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Adder ora
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Gerer le configurationes de recommendation
     .accesskey = G
-
 cfr-doorhanger-extension-never-show-recommendation = Non monstrar me iste recommendation
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = Saper plus
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = per { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recommendation
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recommendation
     .tooltiptext = Extension recommendate
     .a11y-announcement = Un recommendation pro un extension es disponibile
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recommendation
     .tooltiptext = Functionalitate recommendate
     .a11y-announcement = Un recommendation de functionalitate es disponibile
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Saper plus
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nove function:
-
 cfr-whatsnew-button =
     .label = Novas
     .tooltiptext = Novas
-
 cfr-whatsnew-release-notes-link-text = Leger le notas de version
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Disactivar
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Le videos sur iste sito pote non esser reproducite correctemente in iste version de { -brand-short-name }. Pro un supporto complete de video, actualisa { -brand-short-name } ora.
 cfr-doorhanger-video-support-header = Actualisa { -brand-short-name } pro reproducer le video
 cfr-doorhanger-video-support-primary-button = Actualisar ora
     .accesskey = A
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Resta private con { -mozilla-vpn-bran
     .accesskey = R
 spotlight-public-wifi-vpn-link = Non ora
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = Non ora
 
 mr2022-background-update-toast-title = Nove { -brand-short-name }. Plus private. Minus traciatores. Sin compromissos.
 mr2022-background-update-toast-text = Prova ora le nove { -brand-short-name }, actualisate con nostre plus forte protection anti-traciamento jammais realisate.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Aperir { -brand-shorter-name } ora
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Reobtene le schedas claudite recentemente, plus salta 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Nos te presenta { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vole tu transferer ille scheda aperte a tu telephono? Prende lo. Ha tu besonio de ille sito que tu ha justo ora visitate? Puf, es de retorno con { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Vider como functiona
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Saltar
 
 colorways-cfr-primarybutton = Elige combination de colores
     .accesskey = E
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colora tu navigator con exclusive tonalitates de { -brand-short-name } inspirate per voces que cambiava le cultura.
 colorways-cfr-header-28days = Le combinationes de colores Independent Voices expira le 16 de januario
@@ -229,7 +211,6 @@ july-jam-headline = Nos te mantene secur
 july-jam-body = Cata mense, { -brand-short-name } bloca un media de plus de 3000 traciatores per usator pro dar te accesso secur e veloce al bon internet.
 july-jam-set-default-primary = Aperir mi ligamines con { -brand-short-name }
 fox-doodle-pin-headline = Benvenite de novo
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Ecce un curte rememoration que tu pote mantener tu favorite navigator independente a portata de un sol clic.
@@ -256,3 +237,18 @@ device-migration-fxa-spotlight-header = Usa tu un apparato plus vetule?
 device-migration-fxa-spotlight-body = Preserva tu datos pro assecurar te que tu non perde importante info como marcapaginas e contrasignos, specialmente si tu passa a un nove apparato.
 device-migration-fxa-spotlight-primary-button = Como reservar mi datos
 device-migration-fxa-spotlight-link = Rememora me plus tarde
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Stabilir como predeterminate
+pdf-default-notification-decline-button =
+    .label = Non ora
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Pro saper plus
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
