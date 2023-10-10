@@ -240,6 +240,8 @@ device-migration-fxa-spotlight-link = Rememora me plus tarde
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Render { -brand-short-name } lector de PDF predefinite?</strong> Usa { -brand-short-name } pro leger e editar files PDF salvate in tu computator.
 pdf-default-notification-set-default-button =
     .label = Stabilir como predeterminate
 pdf-default-notification-decline-button =
@@ -257,5 +259,6 @@ launch-on-login-infobar-reject-button = Non ora
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Aperir { -brand-short-name } quando tu reinitia tu computator?</strong> Pro gerer tu preferentias initial. cerca “initio” in Parametros.
 launch-on-login-infobar-final-reject-button = No, gratias
     .accesskey = N
