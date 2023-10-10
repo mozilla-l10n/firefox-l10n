@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Ajánlott szolgáltatás
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miért látom ezt
-
 cfr-doorhanger-extension-cancel-button = Most nem
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Hozzáadás most
     .accesskey = a
-
 cfr-doorhanger-extension-manage-settings-button = Ajánlási beállítások kezelése
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Ne mutassa ezt az ajánlást
     .accesskey = N
-
 cfr-doorhanger-extension-learn-more-link = További tudnivalók
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = szerző: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Javaslat
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Javaslat
     .tooltiptext = Kiegészítőjavaslat
     .a11y-announcement = Kiegészítőjavaslat érhető el
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Javaslat
     .tooltiptext = Funkciójavaslat
     .a11y-announcement = Funkciójavaslat érhető el
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = További tudnivalók
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Új funkciók:
-
 cfr-whatsnew-button =
     .label = Újdonságok
     .tooltiptext = Újdonságok
-
 cfr-whatsnew-release-notes-link-text = Olvassa el a kiadási megjegyzéseket
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = Rendben
 cfr-doorhanger-doh-secondary-button = Letiltás
     .accesskey = t
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Előfordulhat, hogy az oldalon található videók nem játszhatók le a { -brand-short-name } ezen verziójában. A teljes videótámogatásért frissítse most a { -brand-short-name(case: "accusative") }.
 cfr-doorhanger-video-support-header = A videó lejátszásához frissítse a { -brand-short-name(case: "accusative") }
 cfr-doorhanger-video-support-primary-button = Frissítés most
     .accesskey = F
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Maradjon privát a { -mozilla-vpn-bra
     .accesskey = M
 spotlight-public-wifi-vpn-link = Most nem
     .accesskey = n
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = Most nem
 
 mr2022-background-update-toast-title = Új { -brand-short-name }. Még privátabb. Kevesebb nyomkövető. Kompromisszumok nélkül.
 mr2022-background-update-toast-text = Próbálja ki most a legújabb { -brand-short-name } verziót, amely az eddigi legerősebb nyomkövetés elleni védelmünkkel rendelkezik.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = A { -brand-shorter-name } megnyitása most
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Szerezze vissza a nemrég bezárt lapokat, és zökken
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Köszöntse a { -firefoxview-brand-name }t
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Szeretné ezt a nyitott lapot a telefonján? Vegye át. Szüksége van arra az oldalra, amelyet most látogatott meg? Puff, vissza is jött a { -firefoxview-brand-name }sel.
 firefoxview-spotlight-promo-primarybutton = Nézze meg a működését
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Kihagyás
 
 colorways-cfr-primarybutton = Válasszon színvilágot
     .accesskey = V
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Színezze böngészőjét a { -brand-short-name } exkluzív árnyalataival, amelyeket a kultúrát megváltoztató hangok ihlettek.
 colorways-cfr-header-28days = A „Független hangok” színvilágok január 16-án járnak le
@@ -229,7 +211,6 @@ july-jam-headline = Fedezzük Önt
 july-jam-body = A { -brand-short-name } havonta átlagosan több mint 3000 nyomkövetőt blokkol felhasználónként, így biztonságos és gyors hozzáférést biztosít a jó internethez.
 july-jam-set-default-primary = Saját hivatkozások megnyitása a { -brand-short-name(case: "instrumental") }
 fox-doodle-pin-headline = Üdvözöljük újra
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Itt egy gyors emlékeztető, hogy egyetlen kattintásnyira tudhatja kedvenc független böngészőjét.
@@ -256,3 +237,28 @@ device-migration-fxa-spotlight-header = Régebbi eszközt használ?
 device-migration-fxa-spotlight-body = Készítsen biztonsági mentést az adatairól, hogy ne veszítsen el olyan fontos információkat, mint a könyvjelzők és a jelszavak – különösen, ha új eszközre vált.
 device-migration-fxa-spotlight-primary-button = Hogyan kell biztonsági mentést készíteni az adatokról
 device-migration-fxa-spotlight-link = Figyelmeztetés később
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Legyen a { -brand-short-name } az alapértelmezett PDF-olvasó?</strong> Használja a { -brand-short-name(case: "accusative") } a számítógépére mentett PDF-ek olvasásához és szerkesztéséhez.
+pdf-default-notification-set-default-button =
+    .label = Beállítás alapértelmezettként
+pdf-default-notification-decline-button =
+    .label = Most nem
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Mindig megnyissa a { -brand-short-name(case: "accusative") } a számítógép újraindításakor?</strong> Most már beállíthatja, hogy a { -brand-short-name } automatikusan elinduljon, ha újraindítja az eszközét.
+launch-on-login-learnmore = További tudnivalók
+launch-on-login-infobar-confirm-button = Igen, nyissa meg a { -brand-short-name(case: "accusative") }
+    .accesskey = I
+launch-on-login-infobar-reject-button = Most nem
+    .accesskey = n
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Mindig megnyissa a { -brand-short-name(case: "accusative") } a számítógép újraindításakor?</strong> Az indítási beállítások kezeléséhez keressen rá az „indítás” szóra a beállításokban.
+launch-on-login-infobar-final-reject-button = Köszönöm, nem
+    .accesskey = n
