@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkt nie je dostupný
     .message = Ak zistíte, že tento produkt je opäť na sklade, nahláste to a my budeme pracovať na kontrole recenzií.
+shopping-message-bar-warning-product-not-available-button2 = Oznámiť, že produkt je na sklade
 shopping-message-bar-thanks-for-reporting =
     .heading = Ďakujeme za nahlásenie!
     .message = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Vyskúšajte nášho dôveryhodného sprievodcu r
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov v obchode <b>{ $currentSite }</b>. Kontrola recenzií, experimentálna funkcia od spoločnosti { -vendor-short-name(case: "gen") }, je zabudovaná priamo do { -brand-product-name(case: "gen") } – a funguje aj v obchodoch <b>{ $secondSite }</b> či <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov na stránkach <b>{ $currentSite }</b>. Kontrola recenzií, experimentálna funkcia od { -brand-product-name(case: "gen") }, je zabudovaná priamo do prehliadača. Funguje aj na stránkach <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Využitím sily { -fakespot-brand-full-name } vám pomôžeme vyhnúť sa neobjektívnym a neautentickým recenziám. Náš model AI sa neustále zlepšuje, aby vás chránil pri nakupovaní. <a data-l10n-name="learn_more">Ďalšie informácie</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a <a data-l10n-name="terms_of_use">Podmienkami používania</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Áno, vyskúšať

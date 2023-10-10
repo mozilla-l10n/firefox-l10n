@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = V záujme ochrany vašich �
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Niektoré rozšírenia nie sú povolené
     .message = V záujme ochrany vašich údajov niektoré rozšírenia nemôžu čítať alebo meniť údaje na tejto stránke. V nastaveniach rozšírenia môžete povoliť prístup na stránkach, pri ktorých { -vendor-short-name } zaviedla obmedzenia.
+unified-extensions-mb-quarantined-domain-learn-more = Ďalšie informácie
+    .aria-label = Ďalšie informácie: niektoré rozšírenia nie sú povolené
