@@ -919,6 +919,19 @@ unified-extensions-button-quarantined =
         Пашырэнні
         Некаторыя пашырэнні не дазволены
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Закончыць прыватны сеанс
+    .tooltiptext = Закончыць прыватны сеанс
+reset-pbm-panel-heading = Закончыць ваш прыватны сеанс?
+reset-pbm-panel-cancel-button =
+    .label = Скасаваць
+    .accesskey = С
+reset-pbm-panel-confirm-button =
+    .label = Выдаліць звесткі сеанса
+    .accesskey = В
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } прадухіліў самастойнае абнаўленне старонкі.

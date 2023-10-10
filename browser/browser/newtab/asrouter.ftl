@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Рэкамендаваная функцыя
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаму я гэта бачу
-
 cfr-doorhanger-extension-cancel-button = Не зараз
     .accesskey = Н
-
 cfr-doorhanger-extension-ok-button = Дадаць
     .accesskey = Д
-
 cfr-doorhanger-extension-manage-settings-button = Кіраваць наладамі рэкамендацый
     .accesskey = ь
-
 cfr-doorhanger-extension-never-show-recommendation = Не паказваць мне гэту рэкамендацыю
     .accesskey = ы
-
 cfr-doorhanger-extension-learn-more-link = Даведацца больш
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ад { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рэкамендацыя
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Рэкамендацыя
     .tooltiptext = Рэкамендацыя пашырэння
     .a11y-announcement = Даступна рэкамендацыя пашырэння
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Рэкамендацыя
     .tooltiptext = Рэкамендацыя функцыі
     .a11y-announcement = Даступна рэкамендацыя функцыі
@@ -87,11 +81,9 @@ cfr-protections-panel-link-text = Даведацца больш
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Новая функцыя:
-
 cfr-whatsnew-button =
     .label = Што новага
     .tooltiptext = Што новага
-
 cfr-whatsnew-release-notes-link-text = Прачытаць заўвагі да выпуску
 
 ## Enhanced Tracking Protection Milestones
@@ -119,16 +111,12 @@ cfr-doorhanger-doh-primary-button-2 = Добра
 cfr-doorhanger-doh-secondary-button = Адключыць
     .accesskey = А
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Відэа на гэтым сайце могуць прайгравацца няправільна ў гэтай версіі { -brand-short-name }. Для поўнай падтрымкі відэа абнавіце { -brand-short-name } зараз.
 cfr-doorhanger-video-support-header = Абнавіце { -brand-short-name } для прайгравання відэа
 cfr-doorhanger-video-support-primary-button = Абнавіць зараз
     .accesskey = А
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,8 +131,6 @@ spotlight-public-wifi-vpn-primary-button = Заставайцеся прыват
     .accesskey = ы
 spotlight-public-wifi-vpn-link = Не зараз
     .accesskey = Н
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -174,13 +160,11 @@ spotlight-pin-secondary-button = Не зараз
 
 mr2022-background-update-toast-title = Новы { -brand-short-name }. Больш прыватны. Менш трэкераў. Ніякіх кампрамісаў.
 mr2022-background-update-toast-text = Паспрабуйце найноўшы { -brand-short-name } зараз, абноўлены нашай самай моцнай аховай ад сачэння.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Адкрыць { -brand-shorter-name } зараз
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -199,7 +183,6 @@ firefoxview-cfr-body-v2 = Вяртайце нядаўна закрытыя ка�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Павітайцеся з { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Хочаце гэтую адкрытую картку на тэлефоне? Трымайце. Патрэбен той сайт, які вы толькі што наведалі? Пуф, ён вярнуўся з { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Паглядзець, як гэта працуе
@@ -209,7 +192,6 @@ firefoxview-spotlight-promo-secondarybutton = Прапусціць
 
 colorways-cfr-primarybutton = Выберыце расфарбоўку
     .accesskey = В
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Расфарбуйце свой браўзер эксклюзіўнымі адценнямі { -brand-short-name }, натхнёнымі галасамі, якія змянілі культуру.
 colorways-cfr-header-28days = Расфарбоўкі незалежных галасоў даступныя да 16 студзеня
@@ -232,7 +214,6 @@ july-jam-headline = Можаце разлічваць на нас
 july-jam-body = Кожны месяц { -brand-short-name } блакуе ў сярэднім больш за 3000 трэкераў на карыстальніка, даючы вам бяспечны і хуткі доступ да добрага інтэрнэту.
 july-jam-set-default-primary = Адкрываць мае спасылкі ў { -brand-short-name }
 fox-doodle-pin-headline = З вяртаннем
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Кароткі напамін аб тым, што вы можаце трымаць пад рукой свой любімы незалежны браўзер.
@@ -259,3 +240,22 @@ device-migration-fxa-spotlight-header = Карыстаецеся старой п
 device-migration-fxa-spotlight-body = Зрабіце рэзервовую копію дадзеных, каб упэўніцца, што вы не страціце важную інфармацыю, такую як закладкі і паролі, асабліва калі вы пераходзіце на новую прыладу.
 device-migration-fxa-spotlight-primary-button = Як зрабіць рэзервовую копію маіх дадзеных
 device-migration-fxa-spotlight-link = Нагадаць пазней
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Зрабіць прадвызначаным
+pdf-default-notification-decline-button =
+    .label = Не зараз
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Падрабязней
+launch-on-login-infobar-reject-button = Не зараз
+    .accesskey = е
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Не, дзякуй
+    .accesskey = е
