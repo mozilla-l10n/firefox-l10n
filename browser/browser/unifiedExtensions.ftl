@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = כדי להגן על הנת
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = חלק מההרחבות אינן מורשות לשימוש
     .message = כדי להגן על הנתונים שלך, הרחבות מסויימות אינן יכולות לקרוא או לשנות נתונים באתר זה. יש להשתמש בהגדרות של ההרחבה כדי לאפשר אותה באתרים המוגבלים על־ידי { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = מידע נוסף
+    .aria-label = מידע נוסף: חלק מההרחבות אינן מותרות לשימוש
