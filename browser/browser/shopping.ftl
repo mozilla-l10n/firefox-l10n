@@ -51,6 +51,21 @@ shopping-message-bar-thanks-for-reporting-title = Bedankt voor het melden!
 shopping-message-bar-thanks-for-reporting-message2 = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
 shopping-message-bar-warning-product-not-available-reported-title2 = Binnenkort info
 shopping-message-bar-warning-product-not-available-reported-message2 = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
+shopping-message-bar-generic-error =
+    .heading = Er is momenteel geen info beschikbaar
+    .message = We werken eraan om het probleem op te lossen. Kom binnenkort nog eens terug.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Nog niet genoeg beoordelingen
+    .message = Wanneer dit product meer beoordelingen heeft, kunnen we hun kwaliteit beoordelen.
+shopping-message-bar-warning-product-not-available =
+    .heading = Product is niet beschikbaar
+    .message = Als u ziet dat dit product weer op voorraad is, meld dit dan aan ons en wij zullen eraan werken om de beoordelingen te controleren.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Bedankt voor het melden!
+    .message = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Binnenkort info
+    .message = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
 shopping-message-bar-analysis-in-progress-title2 = Beoordelingskwaliteit controleren
 shopping-message-bar-analysis-in-progress-message2 = Dit kan ongeveer 60 seconden duren.
 shopping-message-bar-page-not-supported-title = We kunnen deze beoordelingen niet controleren
@@ -154,6 +169,8 @@ shopping-survey-next-button-label = Volgende
 shopping-survey-submit-button-label = Verzenden
 shopping-survey-terms-link = Gebruiksvoorwaarden
 shopping-survey-thanks-message = Bedankt voor uw feedback!
+shopping-survey-thanks =
+    .heading = Bedankt voor uw feedback!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
