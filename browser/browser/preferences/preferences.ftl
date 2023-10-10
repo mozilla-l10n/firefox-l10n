@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Požiadať webové stránky, aby nepredávali ani nezdieľali moje údaje
     .accesskey = i
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Nastavenia
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,9 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Načítať naposledy otvorené okná a karty
     .accesskey = o
+windows-launch-on-login =
+    .label = Spustiť { -brand-short-name } automaticky po spustení počítača
+    .accesskey = S
 startup-restore-warn-on-quit =
     .label = Upozorniť pri ukončení prehliadača
 disable-extension =

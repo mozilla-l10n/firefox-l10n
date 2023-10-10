@@ -91,6 +91,7 @@ policy-LocalFileLinks = Povolí určitým webovým stránkam odkazovať na súbo
 policy-ManagedBookmarks = Konfiguruje zoznam záložiek spravovaný správcom, ktoré používateľ nemôže zmeniť.
 policy-ManualAppUpdateOnly = Povolí iba manuálne aktualizácie a neinformuje používateľa o aktualizáciách.
 policy-PrimaryPassword = Vyžadovanie alebo zabránenie používania hlavného hesla.
+policy-PrintingEnabled = Povolí alebo zakáže tlač.
 policy-NetworkPrediction = Povolí alebo zakáže prednačítavanie DNS (prefetching).
 policy-NewTabPage = Povolí alebo zakáže stránku novej karty.
 policy-NoDefaultBookmarks = Vypne vytváranie predvolených a inteligentných záložiek (Najobľúbenejšie, Naposledy použité značky) v prehliadači { -brand-short-name }. Poznámka: toto pravidlo možno efektívne využiť len vtedy, ak bude nastavené pred prvým spustením.
