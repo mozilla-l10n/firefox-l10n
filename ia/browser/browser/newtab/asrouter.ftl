@@ -248,7 +248,13 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = Pro saper plus
+launch-on-login-infobar-confirm-button = Si, aperir in { -brand-short-name }
+    .accesskey = S
+launch-on-login-infobar-reject-button = Non ora
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = No, gratias
+    .accesskey = N

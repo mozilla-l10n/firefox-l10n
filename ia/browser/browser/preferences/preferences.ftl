@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Demandar al sitos web de non vender ni compartir mi datos
     .accesskey = v
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Controlo global del confidentialitate (GPC)
 settings-page-title = Parametros
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Aperir le previe fenestras e schedas
     .accesskey = s
+windows-launch-on-login =
+    .label = Aperir { -brand-short-name } automaticamente quando on accende tu computator
+    .accesskey = A
+windows-launch-on-login-disabled = Iste preferentia ha essite disactivate in Windows. In Parametros, aperi <a data-l10n-name="startup-link">Apps initial</a> pro modificar lo.
 startup-restore-warn-on-quit =
     .label = Advertir te quando tu quita le navigator
 disable-extension =
