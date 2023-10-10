@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Część rozszerzeń jest niedozwolona
 unified-extensions-mb-quarantined-domain-message = Tylko określone rozszerzenia monitorowane przez { -vendor-short-name(case: "acc") } są dozwolone na tej witrynie, aby chronić dane użytkownika.
 unified-extensions-mb-quarantined-domain-message-2 = Aby chronić dane użytkownika, część rozszerzeń nie może odczytywać ani zmieniać danych na tej witrynie. Można zezwolić rozszerzeniu działać na witrynach z ograniczeniami nałożonymi przez { -vendor-short-name(case: "acc") } w jego ustawieniach.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Część rozszerzeń jest niedozwolona
+    .message = Aby chronić dane użytkownika, część rozszerzeń nie może odczytywać ani zmieniać danych na tej witrynie. Można zezwolić rozszerzeniu działać na witrynach z ograniczeniami nałożonymi przez { -vendor-short-name(case: "acc") } w jego ustawieniach.
