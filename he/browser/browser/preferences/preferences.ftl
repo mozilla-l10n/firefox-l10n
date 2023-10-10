@@ -129,6 +129,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = פתיחת { -brand-short-name } באופן אוטומטי כשהמחשב שלך נדלק
     .accesskey = פ
+windows-launch-on-login-disabled = העדפה זו הושבתה ב־Windows. כדי לשנות אותה, יש לבקר ב<a data-l10n-name="startup-link">אפליקציות אתחול</a> בהגדרות המערכת.
 startup-restore-warn-on-quit =
     .label = הצגת אזהרה בעת סגירת הדפדפן
 disable-extension =
@@ -1003,6 +1004,10 @@ content-blocking-enhanced-tracking-protection = הגנת מעקב מתקדמת
 content-blocking-section-top-level-description = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
 content-blocking-learn-more = מידע נוסף
 content-blocking-fpi-incompatibility-warning = ‏First Party Isolation (FPI) נמצא כעת בשימוש, שעוקף חלק מהגדרות העוגיות של { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = ‏Resist Fingerprinting (RFP) נמצא כעת בשימוש, שמחליף חלק מהגדרות ההגנה של { -brand-short-name } מפני מעקב זהות דיגיטלית. זה עלול לשבש פעילות של חלק מהאתרים.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
