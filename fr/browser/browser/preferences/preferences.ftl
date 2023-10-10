@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Demander aux sites web de ne pas vendre ni partager mes données
     .accesskey = D
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Paramètres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -121,6 +125,9 @@ set-as-my-default-browser =
     .accesskey = D
 startup-restore-windows-and-tabs =
     .label = Ouvrir les fenêtres et onglets précédents
+    .accesskey = O
+windows-launch-on-login =
+    .label = Ouvrir { -brand-short-name } automatiquement au démarrage de votre ordinateur
     .accesskey = O
 startup-restore-warn-on-quit =
     .label = Prévenir à la fermeture du navigateur
