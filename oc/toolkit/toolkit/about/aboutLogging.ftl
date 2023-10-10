@@ -39,6 +39,8 @@ about-logging-preset-media-playback-description = Moduls de jornalizacion per di
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-gfx-label = Acceleracion grafica
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Personalizat
 about-logging-preset-custom-description = Moduls de jornalizacion seleccionats manualament
 # Error handling
