@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = 추천 기능
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = 왜 이게 나왔나요
-
 cfr-doorhanger-extension-cancel-button = 나중에
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = 지금 추가
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = 추천 설정 관리
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = 이 추천을 표시하지 않음
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = 더 알아보기
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } 제작
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = 추천
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = 추천
     .tooltiptext = 확장 기능 추천
     .a11y-announcement = 확장 기능 추천 사용 가능
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = 추천
     .tooltiptext = 기능 추천
     .a11y-announcement = 기능 추천 사용 가능
@@ -83,11 +77,9 @@ cfr-protections-panel-link-text = 더 알아보기
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = 새 기능:
-
 cfr-whatsnew-button =
     .label = 새 기능
     .tooltiptext = 새 기능
-
 cfr-whatsnew-release-notes-link-text = 출시 정보 읽기
 
 ## Enhanced Tracking Protection Milestones
@@ -113,16 +105,12 @@ cfr-doorhanger-doh-primary-button-2 = 확인
 cfr-doorhanger-doh-secondary-button = 사용 안 함
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = 이 사이트의 동영상은 이 버전의 { -brand-short-name }에서 제대로 재생되지 않을 수 있습니다. 전체 동영상 지원을 받으려면, 지금 { -brand-short-name }를 업데이트하세요.
 cfr-doorhanger-video-support-header = 동영상을 재생하려면 { -brand-short-name } 업데이트
 cfr-doorhanger-video-support-primary-button = 지금 업데이트
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -137,8 +125,6 @@ spotlight-public-wifi-vpn-primary-button = { -mozilla-vpn-brand-name }으로 사
     .accesskey = S
 spotlight-public-wifi-vpn-link = 나중에
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -168,13 +154,11 @@ spotlight-pin-secondary-button = 나중에
 
 mr2022-background-update-toast-title = 새로운 { -brand-short-name }. 사생활을 더 보호합니다. 추적기가 더 적습니다. 타협이 없습니다.
 mr2022-background-update-toast-text = 가장 강력한 추적 방지 보호 기능으로 업그레이드된 최신 { -brand-short-name }를 지금 사용해 보세요.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = 지금 { -brand-shorter-name } 열기
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -193,7 +177,6 @@ firefoxview-cfr-body-v2 = { -firefoxview-brand-name }를 사용하여 최근에 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = { -firefoxview-brand-name }를 만나보세요
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = 휴대폰에서 열린 탭을 보고 싶으세요? 가져오세요. 방금 방문했던 사이트가 필요하세요? { -firefoxview-brand-name }로 다시 여세요.
 firefoxview-spotlight-promo-primarybutton = 작동 방식 보기
@@ -203,7 +186,6 @@ firefoxview-spotlight-promo-secondarybutton = 건너뛰기
 
 colorways-cfr-primarybutton = 컬러웨이 선택
     .accesskey = C
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = 문화를 바꾼 목소리에서 영감을 받은 { -brand-short-name } 독점 색상으로 브라우저를 색칠하세요.
 colorways-cfr-header-28days = 독립적인 목소리 컬러웨이 1월 16일 만료됨
@@ -226,7 +208,6 @@ july-jam-headline = 저희가 사용자를 보호합니다
 july-jam-body = 매달 { -brand-short-name }는 사용자당 평균 3,000개 이상의 추적기를 차단하여 좋은 인터넷에 안전하고 빠르게 액세스할 수 있도록 합니다.
 july-jam-set-default-primary = { -brand-short-name }로 내 링크 열기
 fox-doodle-pin-headline = 환영합니다
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = 클릭 한 번으로 좋아하는 독립된 브라우저를 계속 사용할 수 있는다는 알림입니다.
@@ -253,3 +234,20 @@ device-migration-fxa-spotlight-header = 오래된 기기를 사용하시나요?
 device-migration-fxa-spotlight-body = 특히 새 기기로 전환하는 경우 북마크 및 비밀번호와 같은 중요한 정보를 잃지 않도록 데이터를 백업하세요.
 device-migration-fxa-spotlight-primary-button = 내 데이터를 백업하는 방법
 device-migration-fxa-spotlight-link = 나중에 알림
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name }를 기본 PDF 리더로 설정하시겠습니까?</strong> { -brand-short-name }를 사용하여 컴퓨터에 저장된 PDF를 읽고 편집하세요.
+pdf-default-notification-set-default-button =
+    .label = 기본으로 설정
+pdf-default-notification-decline-button =
+    .label = 나중에
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = 더 알아보기
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
