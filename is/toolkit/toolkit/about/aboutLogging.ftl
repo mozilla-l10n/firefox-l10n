@@ -43,6 +43,8 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Atvikaskráningareiningar til að greina vandamál með WebGPU
 about-logging-preset-gfx-label = Myndefni
 about-logging-preset-gfx-description = Atvikaskráningareiningar til að greina vandamál með skjá/myndgerð
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Sérsniðið
 about-logging-preset-custom-description = Handvirkt valdar atvikaskráningareiningar
 # Error handling

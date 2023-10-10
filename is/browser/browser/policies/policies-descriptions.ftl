@@ -91,6 +91,7 @@ policy-LocalFileLinks = Leyfa tilteknum vefsvæði að tengja í staðbundnar sk
 policy-ManagedBookmarks = Stillir lista yfir bókamerki sem stjórnandi stýrir en sem notandinn getur ekki breytt.
 policy-ManualAppUpdateOnly = Leyfa einungis handvirkar uppfærslur og ekki láta notanda vita um uppfærslur.
 policy-PrimaryPassword = Krefjast eða koma í veg fyrir notkun aðallykilorðs.
+policy-PrintingEnabled = Virkja eða gera prentun óvirka.
 policy-NetworkPrediction = Virkja eða slökkva forsögn nets (DNS prefetching).
 policy-NewTabPage = Virkja eða slökkva á nýju flipasíðunni.
 policy-NoDefaultBookmarks = Slökkva á stöðluðum bókamerkjum meðfylgjandi { -brand-short-name } og frá greindum bókamerkjum (flestar heimsóknir, nýleg merki) Ath. að þessi stefna hefur aðeins áhrif ef það er notað áður en sniðið er notað fyrst.

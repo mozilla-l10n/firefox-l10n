@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Vara er ekki fáanleg
     .message = Ef þú sérð að þessi vara er aftur komin á lager skaltu tilkynna það til okkar og við munum vinna að því að uppfæra greininguna.
+shopping-message-bar-warning-product-not-available-button2 = Tilkynna þegar vara er til á lager
 shopping-message-bar-thanks-for-reporting =
     .heading = Takk fyrir að tilkynna þetta!
     .message = Við ættum að vera með uppfærða greiningu innan 24 klukkustunda. Komdu aftur síðar.
@@ -193,6 +194,12 @@ shopping-onboarding-headline = Prófaðu traustar leiðbeiningar okkar um vöruu
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú verslar. Umsagnaskoðun, tilraunaeiginleiki frá { -vendor-short-name }, er innbyggður beint í { -brand-product-name } - og þetta virkar líka á <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú verslar. Umsagnaskoðun, tilraunaeiginleiki frá { -brand-product-name }, er innbyggður beint í vafrann. Þetta virkar á <b>{ $secondSite }</b> og einnig <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Með hjálp { -fakespot-brand-full-name } frá Mozilla, gerum við þér kleift að forðast hlutdrægar og ósannar umsagnir. Gervigreindarlíkanið okkar er alltaf að batna til að vernda þig sem best þegar þú verslar. <a data-l10n-name="learn_more">Frekari upplýsingar</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Já, prófum það
