@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Zo byšće swoje daty škit
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Někotre rozšěrjenja dowolene njejsu
     .message = Zo byšće swoje daty škitał, njemóža někotre rozšěrjenja daty na tutym sydle ani čitać ani změnić. Wužiwajće nastajenja rozšěrjenja, zo byšće přistup k sydłam dowolił, kotrež su wot { -vendor-short-name } wobmjezowane.
+unified-extensions-mb-quarantined-domain-learn-more = Dalše informacije
+    .aria-label = Dalše informacije: Někotre rozšěrjenja dowolene njejsu
