@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkt k dispoziciji njeje
     .message = Jeli widźiće, zo tutón produkt je zaso na składźe, zdźělće to a budźemy na kontrolowanju pohódnoćenjow dźěłać.
+shopping-message-bar-warning-product-not-available-button2 = Zdźělić, zo produkt je na składźe
 shopping-message-bar-thanks-for-reporting =
     .heading = Wulki dźak za zdźělenku!
     .message = My dyrbjeli w běhu 24 hodźin informacije wo pohódnoćenjach tutoho produkta měć. Přińdźće prošu nimo.
@@ -193,6 +194,12 @@ shopping-onboarding-headline = Čitajće naš dowěry hódny přewodnik wo pohó
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Hladajće, kak spušćomne produktowe pohódnoćenja su na <b>{ $currentSite }</b>, prjedy hač kupujeće. Kontrola pohódnoćenjow, eksperimentalna funkcija wot { -vendor-short-name }, je w { -brand-product-name } zatwarjena – a funguje tež na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Hladajće, kak spušćomne produktowe pohódnoćenja su na <b>{ $currentSite }</b>, prjedy hač kupujeće. Kontrola pohódnoćenjow, eksperimentalna funkcija wot { -brand-product-name }, je we wobhladowaku zatwarjena. Funguje tež na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Z pomocu potenciala { -fakespot-brand-full-name }, pomhamy wam, předzajate a njeawtentiske pohódnoćenja wobeńć. Naš model KI so stajnje polěpšuje, zo by was škitał, hdyž nakupujeće. <a data-l10n-name="learn_more">Dalše informacije</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Hdyž “{ shopping-onboarding-opt-in-button }“ wuběraće, zwoliće do<a data-l10n-name="privacy_policy">prawidłow priwatnosće</a> a <a data-l10n-name="terms_of_use">wužiwanskich wuměnjenjow</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Haj, wupruwować

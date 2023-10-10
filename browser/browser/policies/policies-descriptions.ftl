@@ -91,6 +91,7 @@ policy-LocalFileLinks = Wěstym websydłam dowolić, na lokalne dataje wotkazać
 policy-ManagedBookmarks = Konfiguruje lisćinu zapołožkow, kotrež administrator rjaduje a kotrež wužiwar njemóže změnić.
 policy-ManualAppUpdateOnly = Jenož manuelne aktualizacije dowolić a wužiwarja wo aktualizacijach njeinformować.
 policy-PrimaryPassword = Hłowne hesło požadać abo jeho wužiwanju zadźěwać
+policy-PrintingEnabled = Ćišćenje zmóžnić abo znjemóžnić.
 policy-NetworkPrediction = Syćowe předzačitanje (DNS-předzačitanje) zmóžnić abo znjemóžnić.
 policy-NewTabPage = Stronu noweho rajtarka zmóžnić abo znjemóžnić.
 policy-NoDefaultBookmarks = Wutworjenje standardnych zapołožkow { -brand-short-name } znjemóžnić, a inteligentnych zapołožkow (najhusćišo wopytane, tuchwilne znački). Kedźbu: Tute prawidło so jenož wuskutkuje, hdyž jo před prěnim startom profila wužiwaće.
