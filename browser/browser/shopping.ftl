@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = A termék nem érhető el
     .message = Ha úgy látja, hogy a termék újra raktáron van, akkor jelentse, és akkor dolgozni fogunk az értékelések ellenőrzésén.
+shopping-message-bar-warning-product-not-available-button2 = Jelentés, hogy a termék raktáron van
 shopping-message-bar-thanks-for-reporting =
     .heading = Köszönjük, hogy jelentette!
     .message = 24 órán belül lesznek információink a termék értékeléseiről. Nézzen vissza később.
@@ -193,6 +194,12 @@ shopping-onboarding-headline = Próbálja ki megbízható termékértékelési �
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a termékértékelések a(z) <b>{ $currentSite }</b> oldalon. Az értékelés-ellenőrző, a { -vendor-short-name } kísérleti funkciója, közvetlenül a { -brand-product-name }ba van építve – és működik a következő oldalakon is: <b>{ $secondSite }</b> és <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a termékértékelések a(z) <b>{ $currentSite }</b> oldalon. Az értékelés-ellenőrző, a { -brand-product-name } kísérleti funkciója, közvetlenül a böngészőbe van építve. Működik a következő oldalakon is: <b>{ $secondSite }</b> és <b>{ $thirdSite }</b>.
 shopping-onboarding-body = A { -fakespot-brand-full-name } erejét használva segítünk elkerülni az elfogult és a nem hiteles értékeléseket. Az MI modellünket folyamatosan fejlesztjük, hogy megvédjük Önt vásárlás közben. <a data-l10n-name="learn_more">További tudnivalók</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-full-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-onboarding-opt-in-button = Igen, kipróbálom

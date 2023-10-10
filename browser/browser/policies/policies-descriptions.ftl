@@ -91,6 +91,7 @@ policy-LocalFileLinks = Lehetővé teszi, hogy bizonyos webhelyek helyi fájlokr
 policy-ManagedBookmarks = Beállítja a rendszergazda által kezelt könyvjelzők listáját, amelyet a felhasználó nem módosíthat.
 policy-ManualAppUpdateOnly = Csak a kézi frissítések engedélyezése, és ne értesítse a felhasználót a frissítésekről.
 policy-PrimaryPassword = Elsődleges jelszó használatának előírása vagy megakadályozása.
+policy-PrintingEnabled = Nyomtatás engedélyezése vagy letiltása.
 policy-NetworkPrediction = Hálózati előrejelzés engedélyezése vagy letiltása (DNS előhívás).
 policy-NewTabPage = Az Új lap oldal engedélyezése vagy letiltása.
 policy-NoDefaultBookmarks = A { -brand-short-name(case: "instrumental") } szállított alapértelmezett könyvjelzők és okos könyvjelzők (Legtöbbet látogatott, Friss címkék) létrehozásának letiltása. Megjegyzés: ez a házirend csak a profil első futtatása előtt van érvényben.
