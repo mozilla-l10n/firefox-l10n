@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modules de journalisation pour diagnostiquer les problèmes de WebGPU
 about-logging-preset-gfx-label = Accélération graphique
 about-logging-preset-gfx-description = Modules de journalisation pour diagnostiquer les problèmes d’accélération graphique
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Modules de journalisation pour diagnostiquer les problèmes spécifiques à Microsoft Windows
 about-logging-preset-custom-label = Personnalisé
 about-logging-preset-custom-description = Modules de journalisation sélectionnés manuellement
 # Error handling
