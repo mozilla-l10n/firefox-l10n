@@ -11,7 +11,7 @@ label-more-information = Maranduve: javy { $bug }
 label-overrides = Poruhára rehegua jepe’aite
 text-disabled-in-about-config = Ojepe’áma ko tembiapoite about:config rupi
 text-no-interventions = Ndojeporuihína jeikepaha
-text-no-overrides = Ndojepurúi AU pe’aha
+text-no-overrides = Ndojeporúi AU pe’aha
 text-title = about:compat
 
 ## Do not translate "SmartBlock". For reference, SmartBlock is a feature
@@ -21,4 +21,4 @@ text-title = about:compat
 ## Firefox's Total Cookie Protection feature.
 
 label-smartblock = SmartBlock Ñemoĩporã
-text-no-smartblock = Ndojepurúi SmartBlock ñemoĩporãha
+text-no-smartblock = Ndojeporúi SmartBlock ñemoĩporãha

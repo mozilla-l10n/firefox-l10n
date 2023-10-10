@@ -25,7 +25,7 @@ profiles-rootdir = Tapo Marandurenda’aty
 # part of a backup scheme.)
 # In case localDir and rootDir are equal, localDir is not shown.
 profiles-localdir = Marandurenda’aty pypeguáva
-profiles-current-profile = Kóva mba’ete ojepurúva ha upévare ndaikatumo’ãi oñemboguete.
+profiles-current-profile = Kóva mba’ete ojeporúva ha upévare ndaikatumo’ãi oñemboguete.
 profiles-in-use-profile = Ko mba’ete ojeporuhína ambue tembiporu’ípe ha ndaikatúi oñembogue.
 profiles-rename = Ñemboherajey
 profiles-remove = Ñemboguete
