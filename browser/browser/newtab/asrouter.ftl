@@ -246,6 +246,8 @@ device-migration-fxa-spotlight-link = Pozdźišo dopomnić
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Chceće  { -brand-short-name } k swojemu standardnemu PDF-čitakej činić</strong> Wužiwajće { -brand-short-name }, zo byšće PDF čitał a wobdźěłał, kotrež su so na wašim ličaku składowali.
 pdf-default-notification-set-default-button =
     .label = Jako standard wužiwać
 pdf-default-notification-decline-button =
