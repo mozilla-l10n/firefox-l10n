@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = 感謝您回報！
 shopping-message-bar-thanks-for-reporting-message2 = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
 shopping-message-bar-warning-product-not-available-reported-title2 = 即將提供資訊
 shopping-message-bar-warning-product-not-available-reported-message2 = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
+shopping-message-bar-generic-error =
+    .heading = 目前沒有可用資訊
+    .message = 我們正在努力解決此問題，請稍候再回來。
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = 還沒有足夠的評論數
+    .message = 當此商品有足夠的評論後，即可檢查其評論品質。
+shopping-message-bar-warning-product-not-available =
+    .heading = 商品已下架
+    .message = 若您發現此產品又上架了，請回報給我們，我們將盡快檢查評論內容。
+shopping-message-bar-thanks-for-reporting =
+    .heading = 感謝您回報！
+    .message = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = 即將提供資訊
+    .message = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。
 shopping-message-bar-analysis-in-progress-title2 = 正在檢查評論品質
 shopping-message-bar-analysis-in-progress-message2 = 可能需要 60 秒左右的時間。
 shopping-message-bar-page-not-supported-title = 我們無法檢查這些評論
 shopping-message-bar-page-not-supported-message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
+shopping-message-bar-page-not-supported =
+    .heading = 我們無法檢查這些評論
+    .message = 很可惜，我們無法確認某些類型產品（例如：儲值卡、影音串流服務、遊戲）的評論品質。
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = 下一題
 shopping-survey-submit-button-label = 送出
 shopping-survey-terms-link = 使用條款
 shopping-survey-thanks-message = 感謝您的意見回饋！
+shopping-survey-thanks =
+    .heading = 感謝您的意見回饋！
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
