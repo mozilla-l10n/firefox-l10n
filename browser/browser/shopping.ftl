@@ -70,6 +70,9 @@ shopping-message-bar-analysis-in-progress-title2 = Перевірка якост
 shopping-message-bar-analysis-in-progress-message2 = Це може тривати близько 60 секунд.
 shopping-message-bar-page-not-supported-title = Ми не можемо перевірити ці відгуки
 shopping-message-bar-page-not-supported-message = На жаль, ми не можемо перевірити якість відгуків для певних типів товарів, як-от: подарункових карток, стримінгових відео, музики й ігор.
+shopping-message-bar-page-not-supported =
+    .heading = Ми не можемо перевірити ці відгуки
+    .message = На жаль, ми не можемо перевірити якість відгуків для певних типів товарів, як-от: подарункових карток, стримінгових відео, музики й ігор.
 
 ## Strings for the product review snippets card
 
