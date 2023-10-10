@@ -330,4 +330,5 @@ onboarding-device-migration-image-alt =
     .aria-label = ਲੈਪਟਾਪ ਕੰਪਿਊਟਰ ਦੀ ਸਕਰੀਨ ਉੱਤੇ ਲੂੰਬੜੀ ਝਾਤੀਆਂ ਮਾਰਦੀ ਹੈ। ਲੈਪਟਾਪ ਨਾਲ ਮਾਊਸ ਦਾ ਪਲੱਗ ਲੱਗਾ ਹੈ।
 onboarding-device-migration-title = ਫਿਰ ਜੀ ਆਇਆਂ ਨੂੰ!
 onboarding-device-migration-subtitle = ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਪਾਸਵਰਡਾਂ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਵਾਸਤੇ ਆਪਣੇ { -fxaccount-brand-name(capitalization: "sentence") } ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
+onboarding-device-migration-subtitle2 = ਆਪਣੇ ਨਵੇਂ ਡਿਵਾਈਸ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਅਤੀਤ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲਿਆਉਣ ਲਈ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।
 onboarding-device-migration-primary-button-label = ਸਾਈਨ ਇਨ

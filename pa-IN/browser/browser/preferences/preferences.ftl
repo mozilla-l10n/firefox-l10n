@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਮੇਰਾ ਡਾਟਾ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਨਾ ਕਰਨ ਲਈ ਦੱਸੋ
     .accesskey = s
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = ਗਲੋਬਲ ਪਰਦੇਦਾਰੀ ਕੰਟਰੋਲ (GPC)
 settings-page-title = ਸੈਟਿੰਗਾਂ
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = ਪਿਛਲੀਆਂ ਵਿੰਡੋਆਂ ਤੇ ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ
     .accesskey = s
+windows-launch-on-login =
+    .label = ਜਦੋਂ ਤੁਹਾਡਾ ਕੰਪਿਊਟਰ ਸ਼ੁਰੂ ਹੋਵੇ ਤਾਂ { -brand-short-name } ਨੂੰ ਆਪਣੇ-ਆਪ ਖੋਲ੍ਹੋ
+    .accesskey = O
+windows-launch-on-login-disabled = ਇਸ ਪਸੰਦ ਨੂੰ Windows ਵਿੱਚ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ ਹੈ। ਬਦਲਣ ਲਈ ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਵਿੱਚ <a data-l10n-name="startup-link">Startup Apps</a> ਨੂੰ ਵੇਖੋ।
 startup-restore-warn-on-quit =
     .label = ਜਦੋਂ ਬਰਾਊਜ਼ਰ ਨੂੰ ਬੰਦ ਕਰੋ ਤਾਂ ਸਾਵਧਾਨ ਕਰੋ
 disable-extension =
@@ -1215,6 +1223,9 @@ certs-view =
 certs-devices =
     .label = …ਸੁਰੱਖਿਆ ਡਿਵਾਈਸ
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਵਲੋਂ ਇੰਸਟਾਲ ਕੀਤੇ ਸੁਤੰਤਰ ਧਿਰ ਦੇ ਰੂਟ ਸਰਟੀਫ਼ਿਕੇਟਾਂ ਉੱਤੇ ਆਪਣੇ-ਆਪ ਭਰੋਸਾ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ
     .accesskey = O
