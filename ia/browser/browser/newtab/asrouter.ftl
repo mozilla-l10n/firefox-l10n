@@ -247,6 +247,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Aperir { -brand-short-name } quando tu reinitia tu computatror?</strong> Ora tu pote predefinir le lanceamento automatic de { -brand-short-name } quando tu apparato es reinitiate.
 launch-on-login-learnmore = Pro saper plus
 launch-on-login-infobar-confirm-button = Si, aperir in { -brand-short-name }
     .accesskey = S
