@@ -45,6 +45,12 @@ shopping-message-bar-generic-error-message = Vi jobber med å løse problemet. P
 shopping-message-bar-warning-not-enough-reviews-title = Ikke nok vurderinger ennå
 shopping-message-bar-warning-not-enough-reviews-message2 = Når dette produktet har flere vurderinger, kan vi sjekke kvaliteten.
 shopping-message-bar-warning-product-not-available-title = Produktet er ikke tilgjengelig
+shopping-message-bar-generic-error =
+    .heading = Ingen informasjon tilgjengelig akkurat nå
+    .message = Vi jobber med å løse problemet. Prøv på nytt, snart.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ikke nok vurderinger ennå
+    .message = Når dette produktet har flere vurderinger, kan vi sjekke kvaliteten.
 
 ## Strings for the product review snippets card
 
@@ -111,6 +117,8 @@ shopping-survey-next-button-label = Neste
 shopping-survey-submit-button-label = Send inn
 shopping-survey-terms-link = Brukervilkår
 shopping-survey-thanks-message = Takk for tilbakemeldingen!
+shopping-survey-thanks =
+    .heading = Takk for tilbakemeldingen!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
