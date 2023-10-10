@@ -1013,6 +1013,10 @@ content-blocking-learn-more = ਹੋਰ ਜਾਣੋ
 content-blocking-fpi-incompatibility-warning =
     ਤੁਸੀਂ ਪਹਿਲੀ ਧਿਰ ਅਲਹਿਦਗੀ (FPI) ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ ਕੁਝ { -brand-short-name }
     ਕੂਕੀਜ਼ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅਣਡਿੱਠਾ ਕਰਦੇ ਹਨ।
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = ਤੁਸੀਂ Resist Fingerprinting (RFP) ਵਰਤ ਰਹੇ ਹੋ, ਜੋ ਕਿ { -brand-short-name } ਦੀਆਂ ਕੁਝ ਫਿੰਗਰ-ਪਰਿੰਟਿੰਗ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਦਾ ਹੈ। ਇਸ ਨਾਲ ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਕੁਝ ਸਾਈਟਾਂ ਠੀਕ ਤਰ੍ਹਾਂ ਕੰਮ ਨਾ ਕਰਨ।
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
