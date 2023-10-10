@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Aby swóje daty šćitał, 
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Někotare rozšyrjenja njejsu dowólone
     .message = Aby swóje daty šćitał, njamógu někotare rozšyrjenja daty na toś tom sedle daniž cytaś daniž změniś. Wužywajśo nastajenja rozšyrjenja, aby pśistup k sedłam dowólił, kótarež su wót { -vendor-short-name } wobgranicowane.
+unified-extensions-mb-quarantined-domain-learn-more = Dalšne informacije
+    .aria-label = Dalšne informacije: Někotare rozšyrjenja njejsu dowólone

@@ -91,6 +91,7 @@ policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkaza
 policy-ManagedBookmarks = Konfigurěrujo lisćinu cytańskich znamjenjow, kótarež administrator zastoj a kótarež wužywaŕ njamóžo změniś.
 policy-ManualAppUpdateOnly = Jano manuelne aktualizacije dowóliś a wužywarja wó aktualizacijach njeinforměrowaś.
 policy-PrimaryPassword = Głowne gronidło pominaś abo jogo wužywanjeju zajźowaś
+policy-PrintingEnabled = Śišćanje zmóžniś abo znjemóžniś.
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
 policy-NewTabPage = Bok nowego rejtarika zmóžniś abo znjemóžniś.
 policy-NoDefaultBookmarks = Napóranje standardnych cytańskich znamjenjow { -brand-short-name } znjemóžniś, a inteligentnych cytańskich znamjenjow (nejcesćej woglědane, tuchylne wobznamjenja). Glědajśo: Toś to pšawidło se jano wustatkujo, gaž jo pśed prědnym startom profila wužywaśo.
