@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Чтобы защитить
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Некоторые расширения запрещены
     .message = Чтобы защитить ваши данные, некоторые расширения ограничены в чтении или изменении данных на этом сайте. Используйте настройки расширения, чтобы разрешить доступ к сайтам, ограниченным { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Узнать больше
+    .aria-label = Узнать больше: некоторые расширения не разрешены
