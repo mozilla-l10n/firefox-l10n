@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Doporučena funkcija
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Čehodla so to pokazuje
-
 cfr-doorhanger-extension-cancel-button = Nic nětko
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Nětko přidać
     .accesskey = d
-
 cfr-doorhanger-extension-manage-settings-button = Doporučenske nastajenja rjadować
     .accesskey = D
-
 cfr-doorhanger-extension-never-show-recommendation = Tute doporučenje njepokazać
     .accesskey = T
-
 cfr-doorhanger-extension-learn-more-link = Dalše informacije
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = wot { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Doporučenje
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Doporučenje
     .tooltiptext = Doporučenje rozšěrjenja
     .a11y-announcement = Doporučenje rozšěrjenja k dispoziciji
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Doporučenje
     .tooltiptext = Doporučenje funkcije
     .a11y-announcement = Doporučenje funkcije k dispoziciji
@@ -89,11 +83,9 @@ cfr-protections-panel-link-text = Dalše informacije
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nowa funkcija:
-
 cfr-whatsnew-button =
     .label = Nowe funkcije a změny
     .tooltiptext = Nowe funkcije a změny
-
 cfr-whatsnew-release-notes-link-text = Wersijowe informacije čitać
 
 ## Enhanced Tracking Protection Milestones
@@ -122,16 +114,12 @@ cfr-doorhanger-doh-primary-button-2 = W porjadku
 cfr-doorhanger-doh-secondary-button = Znjemóžnić
     .accesskey = Z
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Wideja na tutym sydle so snano w tutej wersiji { -brand-short-name } prawje njewothrawaja. Aktualizujće nětko { -brand-short-name } za połnu widejowu podpěru.
 cfr-doorhanger-video-support-header = { -brand-short-name } aktualizować, zo byšće widejo wothrał
 cfr-doorhanger-video-support-primary-button = Nětko aktualizować
     .accesskey = N
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -146,8 +134,6 @@ spotlight-public-wifi-vpn-primary-button = Škitajće swoju priwatnosć z { -moz
     .accesskey = k
 spotlight-public-wifi-vpn-link = Nic nětko
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -177,13 +163,11 @@ spotlight-pin-secondary-button = Nic nětko
 
 mr2022-background-update-toast-title = Nowy { -brand-short-name }. Priwatniši. Mjenje přesćěhowakow. Žane kompromisy.
 mr2022-background-update-toast-text = Spytajće nětko najnowši { -brand-short-name }, nětko z našim dotal najmócnišim škitom přećiwo slědowanju.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = { -brand-shorter-name } nětko wočinić
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -202,7 +186,6 @@ firefoxview-cfr-body-v2 = Wobstarajće sej začinjene rajtarki wróćo a přeńd
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Witajće k { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Chceće tón wočinjeny rajtark na swojim šmóratku měć? Wobstarajće sej jón. Trjebaće sydło, kotrež sće runje wopytał? Simsalabim, je z { -firefoxview-brand-name } wróćo.
 firefoxview-spotlight-promo-primarybutton = Wobhladajće sej, kak to funguje
@@ -212,7 +195,6 @@ firefoxview-spotlight-promo-secondarybutton = Přeskočić
 
 colorways-cfr-primarybutton = Barbowu kombinaciju wubrać
     .accesskey = B
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Zabarbće swój wobhladowak z ekskluziwnymi barbowymi wotsćinami { -brand-short-name }, kotrež su wot hłosow inspirowane, kotrež su kulturu změnili.
 colorways-cfr-header-28days = Barbowe kombinacije „Njewotwisne hłosy“  16. januara spadnu
@@ -235,7 +217,6 @@ july-jam-headline = Smy was zapřijeli
 july-jam-body = Kóždy měsac { -brand-short-name } w přerězku wjace hač 3000 přesćěhowakow na wužiwarja blokuje a dawa wam wěsty, spěšny přistup k dobremu internetej.
 july-jam-set-default-primary = Moje wotkazy z { -brand-short-name } wočinić
 fox-doodle-pin-headline = Witajće wróćo
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Tu je krótke dopomnjeće, zo móžeće swój najlubši njewotwisny wobhladowak jenož kliknjenje preč měć.
@@ -262,3 +243,24 @@ device-migration-fxa-spotlight-header = StaršI grat wužiwać?
 device-migration-fxa-spotlight-body = Zawěsćće swoje daty, zo njebyšće wažne informacije kaž zapołožki a hesła zhubił — předewšěm, jeli k nowemu gratej přeńdźeće.
 device-migration-fxa-spotlight-primary-button = Kak móžu swoje daty zawěsćić
 device-migration-fxa-spotlight-link = Pozdźišo dopomnić
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Jako standard wužiwać
+pdf-default-notification-decline-button =
+    .label = Nic nětko
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Dalše informacije
+launch-on-login-infobar-confirm-button = Haj, { -brand-short-name } wočinić
+    .accesskey = H
+launch-on-login-infobar-reject-button = Nic nětko
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Ně, dźakuju so
+    .accesskey = N
