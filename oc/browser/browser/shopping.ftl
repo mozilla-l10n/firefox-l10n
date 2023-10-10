@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Title for page showing where a user can check the
+# review quality of online shopping product reviews
+shopping-main-container-title = Verificador d’avises
 shopping-beta-marker = Bèta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
@@ -21,6 +24,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Avises fisables
+shopping-letter-grade-description-c = Mescladís d’avises fisables e non fisables
+shopping-letter-grade-description-df = Avises non fisables
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -50,18 +56,32 @@ shopping-show-less-button = Ne veire mens
 
 shopping-settings-label =
     .label = Paramètres
+shopping-settings-opt-out-button = Copar lo verificador d’avises
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Evaluacion corregida
+shopping-adjusted-rating-unreliable-reviews = Avises non fisables suprimits
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Quina es la fisabilitat d’aquestes avises ?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Coma determinam la qualitat d’un avís
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Dobrir lo verificador d’avises
+shopping-sidebar-close-button2 =
+    .tooltiptext = Tampar lo verificador d’avises
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -73,6 +93,8 @@ shopping-settings-label =
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Produits alternatius
 ad-by-fakespot = Publicitat de { -fakespot-brand-name }
 
 ## Shopping survey strings.

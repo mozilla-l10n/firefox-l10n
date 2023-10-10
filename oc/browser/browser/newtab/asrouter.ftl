@@ -237,3 +237,24 @@ device-migration-fxa-spotlight-header = Utilizatz un aparelh mai ancian ?
 device-migration-fxa-spotlight-body = Salvagardatz vòstras donadas per vos assegurar de pèrdre pas d’informacions importantas coma los marcapaginas o los senhals, mai que mai se cambiatz d’aparelh.
 device-migration-fxa-spotlight-primary-button = Cossí salvagardar las donadas
 device-migration-fxa-spotlight-link = Lo me remembrar mai tard
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Definir per defaut
+pdf-default-notification-decline-button =
+    .label = Mai tard
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Ne saber mai
+launch-on-login-infobar-confirm-button = Òc, dobrir { -brand-short-name }
+    .accesskey = c
+launch-on-login-infobar-reject-button = Mai tard
+    .accesskey = M
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Non, mercé
+    .accesskey = N

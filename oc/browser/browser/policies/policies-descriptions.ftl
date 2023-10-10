@@ -90,6 +90,7 @@ policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-ManagedBookmarks = Configura una lista de marcapaginas gerits per l’administrator que pòdon pas èsser modificats per l’utilizaire.
 policy-ManualAppUpdateOnly = Autorizar solament las mesas a jorn manualas e assabentar pas l’utilizaire de la disponibilitat de mesas a jorn.
 policy-PrimaryPassword = Requerir o empachar l’utilizacion d’un senhal principal.
+policy-PrintingEnabled = Activar o desactivar l’impression.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
 policy-NoDefaultBookmarks = Desactivar la creacion automatica dels marcapaginas per defaut integrats de { -brand-short-name }, e tanben los marcapaginas intelligents (sites mai visitats e sites mai recents); Nòta : aquesta politica s’aplica pas que s’es activada al primièr lançament del perfil.
