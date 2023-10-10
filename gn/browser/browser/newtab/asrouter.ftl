@@ -236,3 +236,24 @@ device-migration-fxa-spotlight-header = ¿Eiporuhína mba’e’oka itujavéva?
 device-migration-fxa-spotlight-body = Eñongatu ne mba’ekuaarã ambue hendápe ani hag̃ua okañy marandu takate’ỹha ikatúva techaukaha ha ñe’ẽñemi — eiporu mba’éramo ambue mba’e’oka.
 device-migration-fxa-spotlight-primary-button = Mba’éichapa añongatúta che mba’ekuaarã
 device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Eipuru ijypykuévaramo
+pdf-default-notification-decline-button =
+    .label = Ani ko’ág̃a
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Eikuaave
+launch-on-login-infobar-confirm-button = Héẽ, embojuruja { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Ani ko’ág̃a
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Nahániri, aguyje
+    .accesskey = N

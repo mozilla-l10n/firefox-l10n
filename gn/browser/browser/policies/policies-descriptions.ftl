@@ -91,6 +91,7 @@ policy-LocalFileLinks = Emoneĩ ñanduti renda moha’eñopyrépe ojuajúvo mara
 policy-ManagedBookmarks = Emboheko peteĩ techaukaha rysýi iñangarekohára omoneĩ’ỹva poruhápe ñemoambue.
 policy-ManualAppUpdateOnly = Emoneĩ ñembohekopyahu po rupigua añoite ha ani emomarandu poruhárape ñembohekopyahu rehegua.
 policy-PrimaryPassword = Ejerure térã emboyke ñe’ẽñemi ñepyrũgua jeporu.
+policy-PrintingEnabled = Emyandy térã embogue ñemonguatia.
 policy-NetworkPrediction = Embojuruja térã eipe’a ñanduti kuaapy (DNS oheka mboyve).
 policy-NewTabPage = Emyandy ha embogue kuatiarogue Tendayke Pyahu.
 policy-NoDefaultBookmarks = Eipe’a techaukaha ijypyguáva ñemoheñói oikehápe { -brand-short-name }, ha umi techaukaha ha’evéva (teramoĩ ojehecha ha ojehupiramovéva). Kuaarã: ko porureko oiko eiporúvo mba’ete tembiapo ñepyrũgua mboyve añoite.
