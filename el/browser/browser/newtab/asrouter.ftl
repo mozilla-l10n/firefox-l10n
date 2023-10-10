@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Προτεινόμενη λειτουργία
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
-
 cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
-
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
-
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
-
 cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
     .accesskey = Ν
-
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = από { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Πρόταση
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Πρόταση
     .tooltiptext = Πρόταση επέκτασης
     .a11y-announcement = Διαθέσιμη πρόταση επέκτασης
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Πρόταση
     .tooltiptext = Πρόταση λειτουργίας
     .a11y-announcement = Διαθέσιμη πρόταση λειτουργίας
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Μάθετε περισσότερα
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Νέο χαρακτηριστικό:
-
 cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
-
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = Εντάξει
 cfr-doorhanger-doh-secondary-button = Απενεργοποίηση
     .accesskey = Α
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Τα βίντεο αυτού του ιστοτόπου ενδέχεται να μην αναπαράγονται σωστά σε αυτήν την έκδοση του { -brand-short-name }. Για πλήρη υποστήριξη βίντεο, ενημερώστε το { -brand-short-name } τώρα.
 cfr-doorhanger-video-support-header = Ενημερώστε το { -brand-short-name } για αναπαραγωγή του βίντεο
 cfr-doorhanger-video-support-primary-button = Ενημέρωση τώρα
     .accesskey = Ε
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Προστατέψτε το απόρ�
     .accesskey = Π
 spotlight-public-wifi-vpn-link = Όχι τώρα
     .accesskey = Ό
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Όχι τώρα
 
 mr2022-background-update-toast-title = Νέο { -brand-short-name }. Πιο ιδιωτικό. Λιγότεροι ιχνηλάτες. Χωρίς συμβιβασμούς.
 mr2022-background-update-toast-text = Δοκιμάστε το νεότερο { -brand-short-name } τώρα, αναβαθμισμένο με την ισχυρότερη προστασία κατά της καταγραφής μέχρι σήμερα.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Άνοιγμα του { -brand-shorter-name } τώρα
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Βρείτε ξανά τις καρτέλες που �
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Πείτε «γεια» στην { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Θέλετε αυτήν την ανοικτή καρτέλα στο τηλέφωνό σας; Αρπάξτε την. Χρειάζεστε αυτόν τον ιστότοπο που μόλις επισκεφτήκατε; Πουφ, επέστρεψε με την { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Δείτε πώς λειτουργεί
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Παράλειψη
 
 colorways-cfr-primarybutton = Επιλογή χρωματικού συνδυασμού
     .accesskey = Ε
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Δώστε χρώμα στο πρόγραμμα περιήγησής σας με τις αποκλειστικές αποχρώσεις του { -brand-short-name }, εμπνευσμένες από φωνές που άλλαξαν τον πολιτισμό.
 colorways-cfr-header-28days = Οι χρωματικοί συνδυασμοί «Ανεξάρτητες φωνές» λήγουν στις 16 Ιανουαρίου
@@ -228,7 +210,6 @@ july-jam-headline = Πάντα στο πλευρό σας
 july-jam-body = Κάθε μήνα, το { -brand-short-name } αποκλείει κατά μέσο όρο 3.000+ ιχνηλάτες ανά χρήστη, παρέχοντάς σας ασφαλή και γρήγορη πρόσβαση στο διαδίκτυο.
 july-jam-set-default-primary = Άνοιγμα συνδέσμων με το { -brand-short-name }
 fox-doodle-pin-headline = Καλώς ορίσατε και πάλι
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Ακολουθεί μια γρήγορη υπενθύμιση ότι μπορείτε να έχετε το αγαπημένο σας, ανεξάρτητο πρόγραμμα περιήγησης μόνο ένα κλικ μακριά.
@@ -255,3 +236,20 @@ device-migration-fxa-spotlight-header = Χρησιμοποιείτε παλαι�
 device-migration-fxa-spotlight-body = Δημιουργήστε αντίγραφα ασφαλείας των δεδομένων σας για να βεβαιωθείτε ότι δεν θα χάσετε σημαντικές πληροφορίες, όπως σελιδοδείκτες και κωδικούς πρόσβασης — ειδικά εάν μεταβείτε σε μια νέα συσκευή.
 device-migration-fxa-spotlight-primary-button = Δημιουργία αντιγράφων ασφαλείας δεδομένων
 device-migration-fxa-spotlight-link = Υπενθύμιση αργότερα
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Ορισμός ως προεπιλογή
+pdf-default-notification-decline-button =
+    .label = Όχι τώρα
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Μάθετε περισσότερα
+launch-on-login-infobar-reject-button = Όχι τώρα
+    .accesskey = χ
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
