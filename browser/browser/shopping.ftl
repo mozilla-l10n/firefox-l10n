@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Product is niet beschikbaar
     .message = Als u ziet dat dit product weer op voorraad is, meld dit dan aan ons en wij zullen eraan werken om de beoordelingen te controleren.
+shopping-message-bar-warning-product-not-available-button2 = Rapporteren dat product op voorraad is
 shopping-message-bar-thanks-for-reporting =
     .heading = Bedankt voor het melden!
     .message = We zouden binnen 24 uur info over de beoordelingen van dit product moeten hebben. Kom later nog eens terug.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Probeer onze vertrouwde gids voor productbeoordel
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Bekijk hoe betrouwbaar productbeoordelingen op <b>{ $currentSite }</b> zijn, voordat u een aankoop doet. Beoordelingscontrole, een experimentele functie van { -vendor-short-name }, is rechtstreeks in { -brand-product-name } ingebouwd – en het werkt in <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Bekijk hoe betrouwbaar productbeoordelingen op <b>{ $currentSite }</b> zijn, voordat u een aankoop doet. Beoordelingscontrole, een experimentele functie van { -brand-product-name }, is rechtstreeks in de browser ingebouwd Het werkt ook in <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Met behulp van de kracht van { -fakespot-brand-full-name } helpen we u bevooroordeelde en niet-authentieke beoordelingen te voorkomen. Ons AI-model wordt voortdurend verbeterd om u te beschermen terwijl u winkelt. <a data-l10n-name="learn_more">Meer info</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Door ‘{ shopping-onboarding-opt-in-button }’ te selecteren, gaat u akkoord met het <a data-l10n-name="privacy_policy">privacybeleid</a> en  de <a data-l10n-name="terms_of_use">gebruiksvoorwaarden</a> van { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Ja, proberen
