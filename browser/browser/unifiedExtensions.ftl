@@ -49,3 +49,4 @@ unified-extensions-mb-quarantined-domain-message-3 =
 
 unified-extensions-mb-quarantined-domain-learn-more = Ulteriori informazioni
     .aria-label = Ulteriori informazioni sul motivo per cui alcune estensioni non sono consentite
+
