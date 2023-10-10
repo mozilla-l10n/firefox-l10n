@@ -6,6 +6,7 @@ shopping-page-title = Пакупкі ў { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Праверка водгукаў
+shopping-beta-marker = Бэта
 shopping-close-button =
     .title = Закрыць
 # This string is for notifying screen reader users that the
@@ -31,11 +32,21 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Новая інфармацыя для праверкі
+shopping-message-bar-warning-stale-analysis-button = Праверыць зараз
+shopping-message-bar-generic-error-title2 = Зараз інфармацыя адсутнічае
 shopping-message-bar-generic-error-message = Мы працуем над вырашэннем праблемы. Калі ласка, праверце пазней.
 shopping-message-bar-warning-not-enough-reviews-title = Пакуль недастаткова водгукаў
+shopping-message-bar-warning-not-enough-reviews-message2 = Калі на гэты прадукт будзе больш водгукаў, мы зможам праверыць іх якасць.
 shopping-message-bar-warning-product-not-available-title = Прадукт недаступны
+shopping-message-bar-warning-product-not-available-message2 = Калі вы ўбачыце гэты прадукт ізноў у наяўнасці, паведаміце нам пра гэта, і мы будзем правяраць водгукі.
 shopping-message-bar-warning-product-not-available-button = Паведаміць, што гэты прадукт ізноў у наяўнасці
 shopping-message-bar-thanks-for-reporting-title = Дзякуй за паведамленне!
+shopping-message-bar-thanks-for-reporting-message2 = Мы павінны атрымаць інфармацыю аб водгуках аб гэтым прадукце на працягу 24 гадзін. Праверце зноў пазней.
+shopping-message-bar-warning-product-not-available-reported-title2 = Інфармацыя хутка будзе
+shopping-message-bar-warning-product-not-available-reported-message2 = Мы павінны атрымаць інфармацыю аб водгуках аб гэтым прадукце на працягу 24 гадзін. Праверце зноў пазней.
+shopping-message-bar-analysis-in-progress-title2 = Праверка якасці водгукаў
+shopping-message-bar-analysis-in-progress-message2 = Гэта можа заняць каля 60 секунд.
 shopping-message-bar-page-not-supported-title = Мы не можам праверыць гэтыя водгукі
 shopping-message-bar-page-not-supported-message = На жаль, мы не можам праверыць якасць водгукаў для некаторых відаў прадукцыі. Напрыклад, падарункавыя карты і струменевае відэа, музыка і гульні.
 shopping-message-bar-page-not-supported =
@@ -69,6 +80,8 @@ powered-by-fakespot = Сродак праверкі водгукаў працу�
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
 shopping-adjusted-rating-label =
     .label = Скарэктаваны рэйтынг
 shopping-adjusted-rating-unreliable-reviews = Ненадзейныя агляды выдалены
@@ -95,6 +108,10 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Ненадзейн
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Адкрыць сродак праверкі водгукаў
+shopping-sidebar-close-button2 =
+    .tooltiptext = Закрыць сродак праверкі водгукаў
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -103,6 +120,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Ненадзейн
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Інфармацыі аб гэтых водгуках пакуль няма
+shopping-unanalyzed-product-message-2 = Каб даведацца, ці надзейныя водгукі аб гэтым прадукце, праверце якасць водгукаў. Гэта зойме ўсяго каля 60 секунд.
+shopping-unanalyzed-product-analyze-button = Праверыць якасць водгукаў
 
 ## Strings for the advertisement
 
@@ -112,6 +132,16 @@ ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-2-label = Задаволены
+shopping-survey-q1-radio-3-label = Нейтральны
+shopping-survey-q1-radio-4-label = Незадаволены
+shopping-survey-q1-radio-5-label = Вельмі незадаволены
+shopping-survey-q2-radio-1-label = Так
+shopping-survey-q2-radio-2-label = Не
+shopping-survey-q2-radio-3-label = Не ведаю
+shopping-survey-next-button-label = Далей
+shopping-survey-submit-button-label = Даслаць
+shopping-survey-terms-link = Умовы выкарыстання
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -120,3 +150,15 @@ ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Паспрабуйце наш надзейны даведнік па водгуках на прадукты
+shopping-onboarding-opt-in-button = Так, паспрабаваць
+shopping-onboarding-not-now-button = Не зараз
+shopping-onboarding-dialog-close-button =
+    .title = Закрыць
+    .aria-label = Закрыць
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Прагрэс: крок { $current } з { $total }
