@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Sommige extensies zijn niet toegestaan
 unified-extensions-mb-quarantined-domain-message = Om uw gegevens te beschermen, zijn slechts enkele extensies die worden gecontroleerd door { -vendor-short-name } toegestaan op deze website.
 unified-extensions-mb-quarantined-domain-message-2 = Om uw gegevens te beschermen, kunnen sommige extensies geen gegevens op deze website lezen of wijzigen. Gebruik de instellingen van de extensie om dit toe te staan op websites die zijn beperkt door { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Sommige extensies zijn niet toegestaan
+    .message = Om uw gegevens te beschermen, kunnen sommige extensies geen gegevens op deze website lezen of wijzigen. Gebruik de instellingen van de extensie om dit toe te staan op websites die zijn beperkt door { -vendor-short-name }.
