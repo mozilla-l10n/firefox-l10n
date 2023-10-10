@@ -91,6 +91,7 @@ policy-LocalFileLinks = Permitir que sites específicos tenham links para arquiv
 policy-ManagedBookmarks = Configura uma lista de favoritos controlados por um administrador, que não podem ser alterados pelo usuário.
 policy-ManualAppUpdateOnly = Permitir apenas atualizações manuais e não notificar o usuário sobre atualizações disponíveis.
 policy-PrimaryPassword = Exigir ou impedir usar uma senha principal.
+policy-PrintingEnabled = Ativar ou desativar impressão.
 policy-NetworkPrediction = Ativar ou desativar predição de rede (carregamento antecipado de DNS).
 policy-NewTabPage = Ativar ou desativar a página de nova aba.
 policy-NoDefaultBookmarks = Desativar a criação de favoritos predefinidos empacotados com o { -brand-short-name }, além dos favoritos inteligente (mais visitados e etiquetas recentes). Nota: esta diretiva só é efetiva se usada antes da primeira execução do perfil.
