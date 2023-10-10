@@ -62,6 +62,7 @@ neterror-dns-not-found-trr-only-timeout = { $trrDomain } ਲਈ ਕਨੈਕਸ਼�
 neterror-dns-not-found-trr-offline = ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਨਹੀਂ ਹੋ।
 neterror-dns-not-found-trr-unknown-host2 = ਇਹ ਵੈੱਬਸਾਈਟ { $trrDomain } ਨੂੰ ਨਹੀਂ ਲੱਭੀ ਹੈ।
 neterror-dns-not-found-trr-server-problem = { $trrDomain } ਨਾਲ ਸਮੱਸਿਆ ਸੀ।
+neterror-dns-not-found-bad-trr-url = ਅਢੁੱਕਵਾਂ URL ਹੈ।
 neterror-dns-not-found-trr-unknown-problem = ਅਚਾਨਕ ਗਲਤੀ ਆਈ ਹੈ।
 
 ## Native fallback specific messages

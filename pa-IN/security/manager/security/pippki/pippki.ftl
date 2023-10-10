@@ -57,6 +57,11 @@ client-auth-window =
     .title = ਵਰਤੋਂਕਾਰ ਪਛਾਣ ਦੀ ਬੇਨਤੀ
 client-auth-site-description = ਇਹ ਸਾਇਟ ਨੇ ਤੁਹਾਨੂੰ ਪਛਾਣ ਲਈ ਤੁਹਾਡੇ ਕੋਲੋਂ ਇੱਕ ਸਰਟੀਫਿਕੇਟ ਦੀ ਮੰਗ ਕੀਤੀ ਹੈ:
 client-auth-choose-cert = ਸਰਟੀਫਿਕੇਟ ਨੂੰ ਪਛਾਣ ਵੇਖਾਉਣ ਲਈ ਚੁਣੋ:
+client-auth-send-no-certificate =
+    .label = ਸਰਟੀਫ਼ਿਕੇਟ ਨਾ ਭੇਜੋ
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” ਨੇ ਮੰਗ ਕੀਤੀ ਹੈ ਕਿ ਤੁਸੀਂ ਖੁਦ ਦੀ ਪਛਾਣ ਇੱਕ ਸਰਟੀਫ਼ਿਕੇਟ ਨਾਲ ਦਿਓ:
 client-auth-cert-details = ਚੁਣੇ ਸਰਟੀਫਕੇਟ ਦਾ ਵੇਰਵਾ:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate
