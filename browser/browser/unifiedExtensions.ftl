@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Noen utvidelser er ikke tillatt
 unified-extensions-mb-quarantined-domain-message = For å beskytte dine data er kun utvalgte utvidelser overvåket av { -vendor-short-name } tillatt på dette nettstedet.
 unified-extensions-mb-quarantined-domain-message-2 = For å beskytte dine data kan enkelte utvidelser ikke lese eller endre data på dette nettstedet. Gå til utvidelsens innstillinger for å tillate nettsteder begrenset av { -vendor-short-name }.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Noen utvidelser er ikke tillatt
+    .message = For å beskytte dine data kan enkelte utvidelser ikke lese eller endre data på dette nettstedet. Gå til utvidelsens innstillinger for å tillate nettsteder begrenset av { -vendor-short-name }.
