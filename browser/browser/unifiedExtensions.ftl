@@ -42,3 +42,7 @@ unified-extensions-context-menu-move-widget-down =
 unified-extensions-mb-quarantined-domain-title = Tschertas extensiuns n'èn betg permessas
 unified-extensions-mb-quarantined-domain-message = Mo tschertas extensiuns survegliadas da { -vendor-short-name } èn permessas sin questa website per proteger tias datas.
 unified-extensions-mb-quarantined-domain-message-2 = Per proteger tias datas na pon tschertas extensiuns betg leger u midar datas sin questa website. Utilisescha ils parameters da l'extensiun per permetter l'access a websites che { -vendor-short-name } ha bloccà.
+# .heading is processed by moz-message-bar to be used as a heading attribute
+unified-extensions-mb-quarantined-domain-message-3 =
+    .heading = Tschertas extensiuns n'èn betg permessas
+    .message = Per proteger tias datas na pon tschertas extensiuns betg leger u midar datas sin questa website. Utilisescha ils parameters da l'extensiun per permetter l'access a websites che { -vendor-short-name } ha bloccà.
