@@ -259,5 +259,6 @@ launch-on-login-infobar-reject-button = Inte nu
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Öppna { -brand-short-name } varje gång du startar om datorn?</strong> För att hantera dina startinställningar, sök "start" i inställningarna.
 launch-on-login-infobar-final-reject-button = Nej tack
     .accesskey = N
