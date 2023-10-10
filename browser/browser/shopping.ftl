@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Producto no disponible
     .message = Si ve que este producto está nuevamente en stock, infórmenos y trabajaremos en verificar las revisiones.
+shopping-message-bar-warning-product-not-available-button2 = Informar que el producto está en stock.
 shopping-message-bar-thanks-for-reporting =
     .heading = ¡Gracias por informarnos!
     .message = Deberíamos tener información sobre las revisiones de este producto en las próximas 24 horas. Vuelva a chequear.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Pruebe nuestra guía confiable de revisiones de p
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Vea que tan confiables son las revisiones de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de revisiones, una función experimental de { -vendor-short-name }, está integrado en { -brand-product-name } y funciona también en <b>{ $secondSite }</b> y <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Vea que tan confiables son las revisiones de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de revisiones, una función experimental de { -brand-product-name }, está integrado en el navegador y funciona también en <b>{ $secondSite }</b> y <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Usando el poder de { -fakespot-brand-full-name }, lo ayudamos a evitar revisiones sesgadas y no auténticas. Nuestro modelo de IA siempre está mejorando para protegerlo mientras compra. <a data-l10n-name="learn_more">Conocer más</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Al seleccionar “{ shopping-onboarding-opt-in-button }“, acepta la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -fakespot-brand-full-name } y <a data-l10n-name="terms_of_use">los términos de uso</a>.
 shopping-onboarding-opt-in-button = Sí, probarlo

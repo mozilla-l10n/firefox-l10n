@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Para proteger sus datos, al
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Algunas extensiones no están permitidas
     .message = Para proteger sus datos, algunas extensiones no pueden leer ni cambiar datos en este sitio. Use la configuración de la extensión para permitir en sitios restringidos por { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Conocer más
+    .aria-label = Conocer más: Algunas extensiones no están permitidas
