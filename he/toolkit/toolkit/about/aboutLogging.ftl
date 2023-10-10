@@ -45,6 +45,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = מודולי רישום לאבחון בעיות WebGPU
 about-logging-preset-gfx-label = גרפיקה
 about-logging-preset-gfx-description = מודולי רישום לאבחון בעיות של גרפיקה
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = מודולי רישום לאבחון בעיות הספציפיות ל־Microsoft Windows
 about-logging-preset-custom-label = התאמה אישית
 about-logging-preset-custom-description = מודולי רישום שנבחרים בצורה ידנית
 # Error handling
