@@ -48,6 +48,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Naplómodulok a WebGPU problémák diagnosztizálásához
 about-logging-preset-gfx-label = Grafika
 about-logging-preset-gfx-description = Naplómodulok a grafikai problémák diagnosztizálásához
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Naplómodulok a Microsoft Windowsra jellemző problémák diagnosztizálásához
 about-logging-preset-custom-label = Egyéni
 about-logging-preset-custom-description = Kézzel kiválasztott naplómodulok
 # Error handling

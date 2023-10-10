@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Az adatai védelme érdeké
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Egyes kiegészítők nem engedélyezettek
     .message = Az adatai védelme érdekében egyes kiegészítők nem tudnak adatokat olvasni vagy módosítani ezen az oldalon. Használja a kiegészítő beállításait, hogy engedélyezze a { -vendor-short-name } által korlátozott webhelyeken.
+unified-extensions-mb-quarantined-domain-learn-more = További tudnivalók
+    .aria-label = További tudnivalók: Egyes kiegészítők nem engedélyezettek
