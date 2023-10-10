@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = For å beskytte dataa dine,
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nokre utvidingar er ikkje tillatne
     .message = For å beskytte dataa dine, kan enkelte utvidingar ikkje lese eller endre data på denne nettstaden. Gå til innstillingane for utvidinga for å tillate nettstadar avgrensa av { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Les meir
+    .aria-label = Les meir: Enkelte utvitingar er ikkje tillatne
