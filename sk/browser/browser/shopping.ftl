@@ -51,10 +51,28 @@ shopping-message-bar-thanks-for-reporting-title = Ďakujeme za nahlásenie!
 shopping-message-bar-thanks-for-reporting-message2 = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informácie už čoskoro
 shopping-message-bar-warning-product-not-available-reported-message2 = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
+shopping-message-bar-generic-error =
+    .heading = Momentálne nie sú dostupné žiadne informácie
+    .message = Pracujeme na vyriešení problému. Skúste sa vrátiť o trochu neskôr.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Zatiaľ nie je dostatok recenzií
+    .message = Keď bude mať tento produkt viac recenzií, budeme môcť skontrolovať ich kvalitu.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkt nie je dostupný
+    .message = Ak zistíte, že tento produkt je opäť na sklade, nahláste to a my budeme pracovať na kontrole recenzií.
+shopping-message-bar-thanks-for-reporting =
+    .heading = Ďakujeme za nahlásenie!
+    .message = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Informácie už čoskoro
+    .message = Informácie o recenziách tohto produktu by sme mali mať do 24 hodín. Príďte sa pozrieť.
 shopping-message-bar-analysis-in-progress-title2 = Kontroluje sa kvalita recenzií
 shopping-message-bar-analysis-in-progress-message2 = Môže to trvať asi 60 sekúnd.
 shopping-message-bar-page-not-supported-title = Tieto recenzie nemôžeme skontrolovať
 shopping-message-bar-page-not-supported-message = Bohužiaľ nemôžeme skontrolovať kvalitu recenzií určitých typov produktov. Napríklad darčekové karty alebo streamovanie videa, hudby a hier.
+shopping-message-bar-page-not-supported =
+    .heading = Tieto recenzie nemôžeme skontrolovať
+    .message = Bohužiaľ nemôžeme skontrolovať kvalitu recenzií určitých typov produktov. Napríklad darčekové karty alebo streamovanie videa, hudby a hier.
 
 ## Strings for the product review snippets card
 
@@ -151,6 +169,8 @@ shopping-survey-next-button-label = Ďalej
 shopping-survey-submit-button-label = Odoslať
 shopping-survey-terms-link = Podmienky používania
 shopping-survey-thanks-message = Ďakujeme za vašu spätnú väzbu.
+shopping-survey-thanks =
+    .heading = Ďakujeme za vašu spätnú väzbu.
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
