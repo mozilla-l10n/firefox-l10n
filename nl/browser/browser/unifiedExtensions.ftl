@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Om uw gegevens te bescherme
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Sommige extensies zijn niet toegestaan
     .message = Om uw gegevens te beschermen, kunnen sommige extensies geen gegevens op deze website lezen of wijzigen. Gebruik de instellingen van de extensie om dit toe te staan op websites die zijn beperkt door { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Meer info
+    .aria-label = Meer info: sommige extensies zijn niet toegestaan
