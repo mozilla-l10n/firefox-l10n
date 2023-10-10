@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = 제품을 사용할 수 없음
     .message = 이 제품이 재입고된 것을 확인하시면, 보고해 주시면 리뷰를 확인하도록 하겠습니다.
+shopping-message-bar-warning-product-not-available-button2 = 제품 재고가 있다고 보고
 shopping-message-bar-thanks-for-reporting =
     .heading = 보고해 주셔서 감사합니다!
     .message = 24시간 이내에 이 제품의 리뷰에 대한 정보를 받아야 합니다. 다시 확인해 주세요.
