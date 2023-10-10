@@ -239,6 +239,8 @@ device-migration-fxa-spotlight-link = ਮੈਨੂੰ ਬਾਅਦ ਵਿੱਚ 
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name } ਨੂੰ ਆਪਣਾ ਮੂਲ PDF ਰੀਡਰ ਬਣਾਉਣਾ ਹੈ?</strong> { -brand-short-name } ਨੂੰ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੰਭਾਲੇ PDF ਪੜ੍ਹਨ ਅਤੇ ਸੋਧਣ ਲਈ ਵਰਤੋਂ।
 pdf-default-notification-set-default-button =
     .label = ਮੂਲ ਵਜੋਂ ਸੈੱਟ ਕਰੋ
 pdf-default-notification-decline-button =

@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = ਉਤਪਾਦ ਮੌਜੂਦ ਨਹੀਂ ਹੈ
     .message = ਜੇ ਤੁਹਾਨੂੰ ਉਹ ਉਤਪਾਦ ਵਾਪਸ ਸਟਾਕ ਵਿੱਚ ਮਿਲੇ ਤਾਂ ਸਾਨੂੰ ਇਸ ਬਾਰੇ ਦੱਸਿਓ ਅਤੇ ਅਸੀਂ ਰੀਵਿਊ ਦੀ ਜਾਂਚ ਕਰਾਂਗੇ।
+shopping-message-bar-warning-product-not-available-button2 = ਉਤਪਾਦ ਸਟਾਕ ਵਿੱਚ ਹੋਣ ਦੀ ਰਿਪੋਰਟ ਕਰੋ
 shopping-message-bar-thanks-for-reporting =
     .heading = ਜਾਣਕਾਰੀ ਦੇਣ ਲਈ ਧੰਨਵਾਦ!
     .message = ਸਾਡੇ ਕੋਲ ਇਸ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ 24 ਘੰਟਿਆਂ ਵਿੱਚ ਅੱਪਡੇਟ ਹੋਣੇ ਚਾਹੀਦੇ ਹਨ। ਬਾਅਦ ਵਿੱਚ ਵੇਖਿਓ।
@@ -155,6 +156,7 @@ ad-by-fakespot = { -fakespot-brand-name } ਵਲੋਂ ਇਸ਼ਤਿਹਾਰ
 ## Shopping survey strings.
 
 shopping-survey-headline = { -brand-product-name } ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਕਰੋ
+shopping-survey-question-one = { -brand-product-name } ਵਿੱਚ ਰੀਵਿਊ ਚੈਕਰ ਲਈ ਤੁਸੀਂ ਆਪਣੇ ਤਜਰਬੇ ਨਾਲ ਕਿੰਨੇ ਕੁ ਸੰਤੁਸ਼ਟ ਹੋ?
 shopping-survey-q1-radio-1-label = ਬਹੁਤ ਸੰਤੁਸ਼ਟ
 shopping-survey-q1-radio-2-label = ਸੰਤੁਸ਼ਟ
 shopping-survey-q1-radio-3-label = ਠੀਕ-ਠਾਕ
@@ -175,9 +177,13 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = ਜਦੋਂ ਵੀ ਕੀਮਤ ਲੱਗੀ ਵੇਖੋ ਤਾਂ <strong>ਰੀਵਿਊ ਚੈਕਰ</strong> ਉੱਤੇ ਜਾਓ।
+shopping-callout-pdp-opted-in-title = ਕੀ ਇਹ ਰੀਵਿਊ ਭਰੋਸੇਯੋਗ ਹਨ? ਫ਼ੌਰਨ ਪਤਾ ਕਰੋ।
+shopping-callout-closed-not-opted-in-title = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊਆਂ ਲਈ ਇੱਕ ਕਲਿੱਕ ਕਰੋ
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-full-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-button = ਹਾਂ, ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ
 shopping-onboarding-not-now-button = ਹੁਣੇ ਨਹੀਂ
 shopping-onboarding-dialog-close-button =
