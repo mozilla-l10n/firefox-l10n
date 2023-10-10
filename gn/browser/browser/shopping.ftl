@@ -60,7 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Apopyre ndojeporukuaái
     .message = Ehechárõ ko apopyre ojejoguakuaajeyma, oremomarandu ha romba’apóta ijehechajey ñehesa’ijópe.
-shopping-message-bar-warning-product-not-available-button2 = Marandu apopyre ojepurukuaaha
+shopping-message-bar-warning-product-not-available-button2 = Marandu apopyre ojeporukuaaha
 shopping-message-bar-thanks-for-reporting =
     .heading = ¡Aguyje emomarandúre!
     .message = Oĩva’erã marandu ko apopyre jehechajey rehegua 24 aravo oútavape. Ehechajey upéi.
@@ -71,6 +71,9 @@ shopping-message-bar-analysis-in-progress-title2 = Ehechajey marandu’i porãng
 shopping-message-bar-analysis-in-progress-message2 = Kóva ipukukuaa 60 aravo’ive rupi.
 shopping-message-bar-page-not-supported-title = Ndorohechajeykuaái ko marandu’i.
 shopping-message-bar-page-not-supported-message = Rombyasy, ndorohechajeykuaái marandu’i porãngue peteĩchagua apopyrépe. Techapyrã, jopói kuatia’atã ha ta’ãngamýi ñemyasãi, purahéi ha ñembosarái.
+shopping-message-bar-page-not-supported =
+    .heading = Ndorohechajeykuaái ko marandu’i.
+    .message = Rombyasy, ndorohechajeykuaái marandu’i porãngue peteĩchagua apopyrépe. Techapyrã, jopói kuatia’atã ha ta’ãngamýi ñemyasãi, purahéi ha ñembosarái.
 
 ## Strings for the product review snippets card
 

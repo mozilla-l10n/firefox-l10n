@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Emo’ã hag̃ua mba’ekua
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Oĩ jepysokue ñoñemoneĩriva
     .message = Emo’ã hag̃ua mba’ekuaarã, ndahetái jepysokue omoñe’ẽ ha omoambuekuaa mba’ekuaarã ko tendápe. Eiporu jepysokue ñemboheko emoneĩ hag̃ua tenda omochi’ĩva { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Eikuaave
+    .aria-label = Eikuaave: Oĩ jepysokue ojepurukuaa’ỹva

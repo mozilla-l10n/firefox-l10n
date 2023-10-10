@@ -240,7 +240,7 @@ device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave
 ## Set as Default PDF Reader Infobar
 
 pdf-default-notification-set-default-button =
-    .label = Eipuru ijypykuévaramo
+    .label = Eiporu ijypykuévaramo
 pdf-default-notification-decline-button =
     .label = Ani ko’ág̃a
 
