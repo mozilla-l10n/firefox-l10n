@@ -182,6 +182,7 @@ shopping-callout-pdp-opted-in-title = Ces avis sont-ils fiables ? Découvrez-le
 
 shopping-onboarding-headline = Essayez notre guide de confiance pour les avis de produits
 shopping-onboarding-body = En utilisant la puissance de { -fakespot-brand-full-name }, nous vous aidons à éviter les avis partiaux et mensongers. Notre modèle d’intelligence artificielle s’améliore en permanence pour vous protéger pendant vos achats. <a data-l10n-name="learn_more">En savoir plus</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = En sélectionnant « { shopping-onboarding-opt-in-button } », vous acceptez la <a data-l10n-name="privacy_policy">politique de confidentialité</a> et les <a data-l10n-name="terms_of_use">conditions d’utilisation</a> de { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Oui, l’essayer
 shopping-onboarding-not-now-button = Plus tard
 shopping-onboarding-dialog-close-button =
