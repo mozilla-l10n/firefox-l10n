@@ -155,6 +155,11 @@ ad-by-fakespot = { -fakespot-brand-name } ਵਲੋਂ ਇਸ਼ਤਿਹਾਰ
 ## Shopping survey strings.
 
 shopping-survey-headline = { -brand-product-name } ਸੁਧਾਰਨ ਲਈ ਮਦਦ ਕਰੋ
+shopping-survey-q1-radio-1-label = ਬਹੁਤ ਸੰਤੁਸ਼ਟ
+shopping-survey-q1-radio-2-label = ਸੰਤੁਸ਼ਟ
+shopping-survey-q1-radio-3-label = ਠੀਕ-ਠਾਕ
+shopping-survey-q1-radio-4-label = ਅਸੰਤੁਸ਼ਟ
+shopping-survey-q1-radio-5-label = ਬਹੁਤ ਅਸੰਤੁਸ਼ਟ
 shopping-survey-question-two = ਕੀ ਰੀਵਿਊ ਚੈਕਰ ਨੇ ਤੁਹਾਡੇ ਲਈ ਖਰੀਦਦਾਰੀ ਦੇ ਫ਼ੈਸਲੇ ਲੈਣ ਨੂੰ ਸੌਖਾ ਬਣਾਇਆ ਹੈ?
 shopping-survey-q2-radio-1-label = ਹਾਂ
 shopping-survey-q2-radio-2-label = ਨਹੀਂ
@@ -173,3 +178,14 @@ shopping-survey-thanks =
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = ਹਾਂ, ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ
+shopping-onboarding-not-now-button = ਹੁਣੇ ਨਹੀਂ
+shopping-onboarding-dialog-close-button =
+    .title = ਬੰਦ ਕਰੋ
+    .aria-label = ਬੰਦ ਕਰੋ
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = ਤਰੱਕੀ: { $total } ਵਿੱਚੋਂ { $current } ਪੜਾਅ
