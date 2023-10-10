@@ -48,6 +48,12 @@ shopping-message-bar-warning-product-not-available-title = Produktet er ikkje ti
 shopping-message-bar-warning-product-not-available-button = Rapporter at dette produktet er på lager igjen
 shopping-message-bar-thanks-for-reporting-title = Takk for at du rapporterer!
 shopping-message-bar-warning-product-not-available-reported-title2 = Info kjem snart
+shopping-message-bar-generic-error =
+    .heading = Ingen informasjon tilgjengeleg akkurat no
+    .message = Vi jobbar med å løyse problemet. Prøv på nytt, snart.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ikkje nok vurderingar enno
+    .message = Når dette produktet har fleire vurderingar, kan vi sjekke kvaliteten.
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
 shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
 shopping-message-bar-page-not-supported-title = Vi klarer ikkje å kontrollere desse vurderingane
@@ -138,6 +144,8 @@ shopping-survey-next-button-label = Neste
 shopping-survey-submit-button-label = Send inn
 shopping-survey-terms-link = Brukarvilkår
 shopping-survey-thanks-message = Takk for tilbakemeldinga di!
+shopping-survey-thanks =
+    .heading = Takk for tilbakemeldinga di!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
