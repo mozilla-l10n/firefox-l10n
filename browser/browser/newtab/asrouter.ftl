@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Рекомендуемая функция
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Почему я это вижу
-
 cfr-doorhanger-extension-cancel-button = Не сейчас
     .accesskey = е
-
 cfr-doorhanger-extension-ok-button = Добавить
     .accesskey = а
-
 cfr-doorhanger-extension-manage-settings-button = Управление настройками рекомендаций
     .accesskey = п
-
 cfr-doorhanger-extension-never-show-recommendation = Не показывать мне эту рекомендацию
     .accesskey = е
-
 cfr-doorhanger-extension-learn-more-link = Подробнее
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = от { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Рекомендация
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Рекомендация
     .tooltiptext = Рекомендация расширения
     .a11y-announcement = Доступна рекомендация расширения
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Рекомендация
     .tooltiptext = Рекомендация функции
     .a11y-announcement = Доступна рекомендация функции
@@ -87,11 +81,9 @@ cfr-protections-panel-link-text = Подробнее
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Новая функция:
-
 cfr-whatsnew-button =
     .label = Что нового
     .tooltiptext = Что нового
-
 cfr-whatsnew-release-notes-link-text = Прочитать примечания к выпуску
 
 ## Enhanced Tracking Protection Milestones
@@ -119,16 +111,12 @@ cfr-doorhanger-doh-primary-button-2 = Хорошо
 cfr-doorhanger-doh-secondary-button = Отключить
     .accesskey = ю
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = В этой версии { -brand-short-name } видео на этом сайте может воспроизводиться некорректно. Для полноценной поддержки видео обновите { -brand-short-name }.
 cfr-doorhanger-video-support-header = Для воспроизведения видео обновите { -brand-short-name }
 cfr-doorhanger-video-support-primary-button = Обновить сейчас
     .accesskey = с
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -143,8 +131,6 @@ spotlight-public-wifi-vpn-primary-button = Сохраняйте приватно
     .accesskey = п
 spotlight-public-wifi-vpn-link = Не сейчас
     .accesskey = е
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -174,13 +160,11 @@ spotlight-pin-secondary-button = Не сейчас
 
 mr2022-background-update-toast-title = Новый { -brand-short-name }. Более приватный. Меньше трекеров. Никаких компромиссов.
 mr2022-background-update-toast-text = Попробуйте новейшую версию { -brand-short-name } прямо сейчас с нашей самой надежной защитой от отслеживания.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Открыть { -brand-shorter-name } сейчас
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -199,7 +183,6 @@ firefoxview-cfr-body-v2 = Верните недавно закрытые вкл�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Поздоровайтесь с { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Хотите вкладку открытую на своем телефоне? Возьмите её. Нужен сайт, который вы только что посетили? Пуф, и он вернулся через { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Посмотреть, как это работает
@@ -209,7 +192,6 @@ firefoxview-spotlight-promo-secondarybutton = Пропустить
 
 colorways-cfr-primarybutton = Выберите расцветку
     .accesskey = ы
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Раскрасьте свой браузер исключительными оттенками { -brand-short-name }, вдохновлёнными голосами, изменившими культуру.
 colorways-cfr-header-28days = Срок действия расцветок независимых голосов истекает 16 января
@@ -232,7 +214,6 @@ july-jam-headline = Мы заботимся о вас
 july-jam-body = Каждый месяц { -brand-short-name } блокирует в среднем более 3000 трекеров для каждого пользователя, предоставляя вам безопасный и быстрый доступ к хорошему Интернету.
 july-jam-set-default-primary = Открывать мои ссылки с помощью { -brand-short-name }
 fox-doodle-pin-headline = С возвращением
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Небольшое напоминание о том, что вы всегда можете держать под рукой свой любимый независимый браузер.
@@ -259,3 +240,28 @@ device-migration-fxa-spotlight-header = Используете старое ус
 device-migration-fxa-spotlight-body = Сделайте резервную копию своих данных, чтобы не потерять важную информацию, такую как закладки и пароли, особенно при переходе на новое устройство.
 device-migration-fxa-spotlight-primary-button = Как сделать резервную копию моих данных
 device-migration-fxa-spotlight-link = Напомнить позже
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Сделать { -brand-short-name } программой чтения PDF-файлов по умолчанию?</strong> Используйте { -brand-short-name } для чтения и редактирования PDF-файлов, сохраненных на вашем компьютере.
+pdf-default-notification-set-default-button =
+    .label = Установить по умолчанию
+pdf-default-notification-decline-button =
+    .label = Не сейчас
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Открывать { -brand-short-name } каждый раз при перезагрузке компьютера?</strong> Теперь вы можете настроить автоматическое открытие { -brand-short-name } при перезагрузке устройства.
+launch-on-login-learnmore = Узнать больше
+launch-on-login-infobar-confirm-button = Да, открывать { -brand-short-name }
+    .accesskey = н
+launch-on-login-infobar-reject-button = Не сейчас
+    .accesskey = т
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Открывать { -brand-short-name } каждый раз при перезагрузке компьютера?</strong> Чтобы управлять настройками запуска, выполните поиск «запуск» в настройках.
+launch-on-login-infobar-final-reject-button = Нет, спасибо
+    .accesskey = т
