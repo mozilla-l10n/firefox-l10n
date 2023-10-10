@@ -11,7 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = Εσφαλμένο PIN. Δοκιμάστε ξανά.
 webauthn-pin-required-prompt = Παρακαλώ εισαγάγετε το PIN της συσκευής σας.
-
+webauthn-select-sign-result-unknown-account = Άγνωστος λογαριασμός
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =
