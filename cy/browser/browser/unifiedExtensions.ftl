@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Er mwyn diogelu eich data, 
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nid oes caniatâd i rai estyniadau
     .message = Er mwyn diogelu eich data, ni all rhai estyniadau ddarllen na newid data ar y wefan hon. Defnyddiwch osodiadau'r estyniad i'w ganiatáu ar wefannau sydd wedi'u cyfyngu gan { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Darllen rhagor
+    .aria-label = Darllen rhagor: Nid yw rhai estyniadau'n cael eu caniatáu

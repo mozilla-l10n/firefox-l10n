@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Nid yw'r cynnyrch ar gael
     .message = Os ydych yn gweld fod y cynnyrch hwn nôl mewn stoc, rhowch wybod i ni ac fe wnawn ni ddiweddaru’r dadansoddiad.
+shopping-message-bar-warning-product-not-available-button2 = Adrodd fod cynnyrch mewn stoc
 shopping-message-bar-thanks-for-reporting =
     .heading = Diolch am adrodd!
     .message = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
@@ -193,6 +194,12 @@ shopping-onboarding-headline = Rhowch gynnig ar ein canllaw dibynadwy i adolygia
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwiriwr adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae gwiriwr adolygu, nodwedd arbrofol o { -brand-product-name }, wedi'i gynnwys yn y porwr. Mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> { -fakespot-brand-full-name } a <a data-l10n-name="terms_of_use">amodau defnyddio.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
