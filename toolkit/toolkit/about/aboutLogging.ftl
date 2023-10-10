@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Modiwlau cofnodi i wneud diagnosis o faterion WebGPU
 about-logging-preset-gfx-label = Graffigau
 about-logging-preset-gfx-description = Modiwlau cofnodi i wneud diagnosis o broblemau graffigau
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Cofnodi modiwlau i wneud diagnosis o faterion sy'n benodol i Microsoft Windows
 about-logging-preset-custom-label = Cyfaddas
 about-logging-preset-custom-description = Modiwlau cofnodion wedi'u dewis â llaw
 # Error handling
