@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Anbefalt funksjon
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor ser jeg dette
-
 cfr-doorhanger-extension-cancel-button = Ikke nå
     .accesskey = n
-
 cfr-doorhanger-extension-ok-button = Legg til nå
     .accesskey = e
-
 cfr-doorhanger-extension-manage-settings-button = Behandle anbefalingsinnstillinger
     .accesskey = B
-
 cfr-doorhanger-extension-never-show-recommendation = Ikke vis meg denne anbefalingen
     .accesskey = s
-
 cfr-doorhanger-extension-learn-more-link = Les mer
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = av { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Anbefaling
     .tooltiptext = Utvidelsesanbefaling
     .a11y-announcement = Utvidelsesanbefaling tilgjengelig
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Anbefaling
     .tooltiptext = Funksjonsanbefaling
     .a11y-announcement = Funksjonsanbefaling tilgjengelig
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Les mer
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funksjon:
-
 cfr-whatsnew-button =
     .label = Hva er nytt
     .tooltiptext = Hva er nytt
-
 cfr-whatsnew-release-notes-link-text = Les utgivelsesnotatene
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Slå av
     .accesskey = S
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videoer på dette nettstedet kan ikke spilles av riktig på denne versjonen av { -brand-short-name }. For full videostøtte, oppdater { -brand-short-name } nå.
 cfr-doorhanger-video-support-header = Oppdater { -brand-short-name } for å spille av video
 cfr-doorhanger-video-support-primary-button = Oppdater nå
     .accesskey = O
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Hold deg privat med { -mozilla-vpn-br
     .accesskey = H
 spotlight-public-wifi-vpn-link = Ikke nå
     .accesskey = I
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Ikke nå
 
 mr2022-background-update-toast-title = Ny { -brand-short-name }. Mer privat. Færre sporere. Ingen kompromisser.
 mr2022-background-update-toast-text = Prøv den nyeste { -brand-short-name } nå, oppgradert med vår sterkeste anti-sporingsbeskyttelse hittil.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Åpne { -brand-shorter-name } nå
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Få tilbake nylig lukkede faner, pluss sømløst bytti
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Si hei til { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vil du ha den åpne fanen på telefonen din? Hent den. Trenger du siden du nettopp har besøkt? Hent den tilbake med { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Se hvordan det virker
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Hopp over
 
 colorways-cfr-primarybutton = Velg fargesammensetting
     .accesskey = V
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Farg nettleseren din med eksklusive { -brand-short-name }-fargenyanser inspirert av stemmer som endret kulturen.
 colorways-cfr-header-28days = Fargesammensettingen «Uavhengige stemmer» utløper den 16. januar
@@ -228,7 +210,6 @@ july-jam-headline = Vi beskytter deg
 july-jam-body = Hver måned blokkerer { -brand-short-name } i gjennomsnitt over 3000 sporere per bruker, noe som gir deg trygg og rask tilgang til et bra internett.
 july-jam-set-default-primary = Åpne lenkene mine med { -brand-short-name }
 fox-doodle-pin-headline = Velkommen tilbake
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Her er en rask påminnelse om at du kan ha din uavhengige favoritt-nettleser bare ett klikk unna.
@@ -255,3 +236,28 @@ device-migration-fxa-spotlight-header = Bruker du en eldre enhet?
 device-migration-fxa-spotlight-body = Sikkerhetskopier dine data for å sikre at du ikke mister viktig informasjon som bokmerker og passord — spesielt hvis du bytter til en ny enhet.
 device-migration-fxa-spotlight-primary-button = Hvordan sikkerhetskopiere mine data
 device-migration-fxa-spotlight-link = Påminn senere
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Vil du gjøre { -brand-short-name } til din standard PDF-leser?</strong> Bruk { -brand-short-name } for å lese og redigere PDF-filer som er lagret på datamaskinen din.
+pdf-default-notification-set-default-button =
+    .label = Bruk som standard
+pdf-default-notification-decline-button =
+    .label = Ikke nå
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Åpne { -brand-short-name } hver gang du starter datamaskinen på nytt?</strong> Nå kan du angi at { -brand-short-name } skal åpnes automatisk når du starter enheten på nytt.
+launch-on-login-learnmore = Les mer
+launch-on-login-infobar-confirm-button = Ja, åpne { -brand-short-name }
+    .accesskey = J
+launch-on-login-infobar-reject-button = Ikke nå
+    .accesskey = k
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Åpne { -brand-short-name } hver gang du starter datamaskinen på nytt?</strong> For å behandle oppstartsinnstillingene dine, søk etter «oppstart» i innstillingene.
+launch-on-login-infobar-final-reject-button = Nei takk
+    .accesskey = N
