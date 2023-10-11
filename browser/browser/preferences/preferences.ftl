@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Říkat stránkám, aby neprodávaly a nesdílely vaše data
     .accesskey = s
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Nastavení
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
