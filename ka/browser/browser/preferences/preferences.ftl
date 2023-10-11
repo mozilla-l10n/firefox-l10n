@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ეცნობოს ვებსაიტებს, რომ არ მსურს გაყიდონ ან გააზიარონ ჩემი მონაცემები
     .accesskey = ყ
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = პარამეტრები
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = წინა ფანჯრებისა და ჩანართების გახსნა
     .accesskey = გ
+windows-launch-on-login =
+    .label = გაეშვას { -brand-short-name } თავისით კომპიუტერის ჩართვისთანავე
+    .accesskey = ე
+windows-launch-on-login-disabled = ეს შესაძლებლობა გათიშულია Windows-ში. შესაცვლელად იხილეთ <a data-l10n-name="startup-link">Startup Apps</a> სისტემის პარამეტრებში.
 startup-restore-warn-on-quit =
     .label = გაფრთხილება ბრაუზერის დახურვისას
 disable-extension =
