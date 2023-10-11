@@ -91,6 +91,7 @@ policy-LocalFileLinks = Allow specific web sites to link to local files.
 policy-ManagedBookmarks = Configures a list of bookmarks managed by an administrator that cannot be changed by the user.
 policy-ManualAppUpdateOnly = Allow manual updates only and do not notify the user about updates.
 policy-PrimaryPassword = Require or prevent using a Primary Password.
+policy-PrintingEnabled = Enable or disable printing.
 policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
 policy-NewTabPage = Enable or disable the New Tab page.
 policy-NoDefaultBookmarks = Disable creation of the default bookmarks bundled with { -brand-short-name }, and the Smart Bookmarks (Most Visited, Recent Tags). Note: this policy is only effective if used before the first run of the profile.
