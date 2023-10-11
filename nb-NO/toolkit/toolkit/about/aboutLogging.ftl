@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Loggmoduler for å diagnostisere WebGPU-problemer
 about-logging-preset-gfx-label = Grafikk
 about-logging-preset-gfx-description = Loggmoduler for å diagnostisere grafikkproblemer
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Loggmoduler for å diagnostisere problemer som er spesifikke for Microsoft Windows
 about-logging-preset-custom-label = Tilpasset
 about-logging-preset-custom-description = Loggmoduler valgt manuelt
 # Error handling
