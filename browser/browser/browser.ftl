@@ -914,6 +914,11 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Avslutt privat økt
+    .tooltiptext = Avslutt privat økt
+reset-pbm-panel-heading = Avslutte privat økt?
+reset-pbm-panel-description = Lukk alle private faner og slett historikk, infokapsler og all annen nettstedsdata.
 reset-pbm-panel-always-ask-checkbox =
     .label = Spør meg alltid
     .accesskey = S
@@ -923,6 +928,7 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button =
     .label = Slett øktdata
     .accesskey = S
+reset-pbm-panel-complete = Private øktdata slettet
 
 ## Autorefresh blocker
 
