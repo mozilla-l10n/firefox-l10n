@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Để bảo vệ dữ liệ
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Vài tiện ích mở rộng không được phép
     .message = Để bảo vệ dữ liệu của bạn, một số tiện ích mở rộng không thể đọc hoặc thay đổi dữ liệu trên trang web này. Sử dụng cài đặt của tiện ích mở rộng để cho phép trên các trang web bị giới hạn bởi { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Tìm hiểu thêm
+    .aria-label = Tìm hiểu thêm: Một số tiện ích mở rộng không được phép

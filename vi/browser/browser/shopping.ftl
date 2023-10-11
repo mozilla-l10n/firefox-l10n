@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Sản phẩm không có sẵn
     .message = Nếu bạn thấy sản phẩm này đã có hàng trở lại, hãy báo cáo và chúng tôi sẽ kiểm tra đánh giá.
+shopping-message-bar-warning-product-not-available-button2 = Báo sản phẩm còn hàng
 shopping-message-bar-thanks-for-reporting =
     .heading = Cảm ơn bạn đã báo cáo!
     .message = Chúng tôi sẽ có thông tin về đánh giá của sản phẩm này trong vòng 24 giờ. Hãy kiểm tra lại sau.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Hãy thử hướng dẫn đáng tin cậy của 
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Xem mức độ tin cậy của các đánh giá sản phẩm trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm của { -vendor-short-name }, được tích hợp ngay vào { -brand-product-name } — và nó cũng hoạt động trên <b>{ $secondSite }</b> và <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Xem đánh giá sản phẩm đáng tin cậy như thế nào trên <b>{ $currentSite }</b> trước khi bạn mua. Trình kiểm tra đánh giá, một tính năng thử nghiệm từ { -brand-product-name }, được tích hợp ngay vào trình duyệt. Nó cũng hoạt động trên <b>{ $secondSite }</b> và <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Sử dụng { -fakespot-brand-full-name }, chúng tôi giúp bạn tránh những đánh giá thiên vị và không xác thực. Mô hình AI của chúng tôi luôn cải tiến để bảo vệ bạn khi bạn mua sắm. <a data-l10n-name="learn_more">Tìm hiểu thêm</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Bằng việc chọn “{ shopping-onboarding-opt-in-button }“ bạn đồng ý với <a data-l10n-name="privacy_policy">chính sách riêng tư</a> và <a data-l10n-name="terms_of_use">điều khoản sử dụng</a> của { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Có, hãy thử nó
