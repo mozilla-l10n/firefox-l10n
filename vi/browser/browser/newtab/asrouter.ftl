@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Tính năng được đề xuất
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Tại sao tôi thấy cái này
-
 cfr-doorhanger-extension-cancel-button = Không phải bây giờ
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = Thêm vào ngay
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Quản lý các thiết lập được đề xuất
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = Không hiển thị cho tôi đề xuất này
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = Tìm hiểu thêm
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = bởi { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Đề xuất
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Đề xuất
     .tooltiptext = Tiện ích được đề xuất
     .a11y-announcement = Tiện ích được đề xuất có sẵn
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Đề xuất
     .tooltiptext = Tính năng được đề xuất
     .a11y-announcement = Tính năng được đề xuất có sẵn
@@ -83,11 +77,9 @@ cfr-protections-panel-link-text = Tìm hiểu thêm
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Tính năng mới:
-
 cfr-whatsnew-button =
     .label = Có gì mới
     .tooltiptext = Có gì mới
-
 cfr-whatsnew-release-notes-link-text = Đọc ghi chú phát hành
 
 ## Enhanced Tracking Protection Milestones
@@ -113,16 +105,12 @@ cfr-doorhanger-doh-primary-button-2 = Okey
 cfr-doorhanger-doh-secondary-button = Vô hiệu hóa
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Các video trên trang web này có thể phát không đúng trên phiên bản { -brand-short-name } này. Để được hỗ trợ đầy đủ về video, hãy cập nhật { -brand-short-name } ngay bây giờ.
 cfr-doorhanger-video-support-header = Cập nhật { -brand-short-name } để phát video
 cfr-doorhanger-video-support-primary-button = Cập nhật bây giờ
     .accesskey = U
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -137,8 +125,6 @@ spotlight-public-wifi-vpn-primary-button = Giữ riêng tư với { -mozilla-vpn
     .accesskey = S
 spotlight-public-wifi-vpn-link = Không phải bây giờ
     .accesskey = N
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -168,13 +154,11 @@ spotlight-pin-secondary-button = Không phải bây giờ
 
 mr2022-background-update-toast-title = { -brand-short-name } mới. Riêng tư hơn. Ít trình theo dõi hơn. Không có thỏa hiệp.
 mr2022-background-update-toast-text = Hãy thử { -brand-short-name } mới nhất ngay bây giờ, được nâng cấp với trình chống theo dõi mạnh nhất của chúng tôi.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Mở { -brand-shorter-name } ngay
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -193,7 +177,6 @@ firefoxview-cfr-body-v2 = Lấy lại các thẻ đã đóng gần đây, cộng
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Xin chào với { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Muốn thẻ đang mở nằm trên điện thoại của bạn? Lấy nó. Cần trang web mà bạn vừa truy cập? Nó đã trở lại với { -firefoxview-brand-name }
 firefoxview-spotlight-promo-primarybutton = Xem cách hoạt động
@@ -203,7 +186,6 @@ firefoxview-spotlight-promo-secondarybutton = Bỏ qua
 
 colorways-cfr-primarybutton = Chọn đường màu
     .accesskey = C
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Tô màu trình duyệt của bạn với các sắc thái độc quyền của { -brand-short-name } lấy cảm hứng từ những tiếng nói thay đổi văn hóa.
 colorways-cfr-header-28days = Các màu cho giọng nói độc lập sẽ hết hạn vào ngày 16 tháng 1
@@ -226,7 +208,6 @@ july-jam-headline = Chúng tôi đã giúp bạn được bảo vệ
 july-jam-body = Mỗi tháng, { -brand-short-name } chặn trung bình hơn 3.000 trình theo dõi trên mỗi người dùng, giúp bạn truy cập Internet tốt một cách an toàn, nhanh chóng.
 july-jam-set-default-primary = Mở liên kết của tôi bằng { -brand-short-name }
 fox-doodle-pin-headline = Chào mừng trở lại
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Đây là lời nhắc nhanh rằng bạn có thể giữ trình duyệt độc lập yêu thích của mình chỉ bằng một cú nhấp chuột.
@@ -253,3 +234,28 @@ device-migration-fxa-spotlight-header = Sử dụng thiết bị cũ hơn?
 device-migration-fxa-spotlight-body = Sao lưu dữ liệu của bạn để đảm bảo bạn không bị mất thông tin quan trọng như dấu trang và mật khẩu — đặc biệt nếu bạn chuyển sang một thiết bị mới.
 device-migration-fxa-spotlight-primary-button = Cách sao lưu dữ liệu của tôi
 device-migration-fxa-spotlight-link = Nhắc tôi sau
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Đặt { -brand-short-name } làm trình đọc PDF mặc định của bạn?</strong> Sử dụng { -brand-short-name } để đọc và chỉnh sửa các tệp PDF được lưu vào máy tính của bạn.
+pdf-default-notification-set-default-button =
+    .label = Đặt làm mặc định
+pdf-default-notification-decline-button =
+    .label = Không phải bây giờ
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Mở { -brand-short-name } mỗi khi bạn khởi động lại máy tính?</strong> Bây giờ bạn có thể thiết lập { -brand-short-name } để tự động mở khi bạn khởi động lại thiết bị của mình.
+launch-on-login-learnmore = Tìm hiểu thêm
+launch-on-login-infobar-confirm-button = Có, mở { -brand-short-name }
+    .accesskey = Y
+launch-on-login-infobar-reject-button = Không phải bây giờ
+    .accesskey = N
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Mở { -brand-short-name } mỗi khi bạn khởi động lại máy tính?</strong> Để quản lý tùy chọn khởi động của bạn, hãy tìm kiếm “khởi động” trong cài đặt.
+launch-on-login-infobar-final-reject-button = Không phải bây giờ
+    .accesskey = N
