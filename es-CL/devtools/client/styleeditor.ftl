@@ -40,7 +40,6 @@ styleeditor-go-to-line =
     .accesskey = I
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = No se encontró ninguna hoja de estilo.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -49,3 +48,9 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } regla.
        *[other] { $ruleCount } reglas.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Imprimir hoja de estilos embellecida
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Solo se pueden imprimir archivos CSS embellecidos
