@@ -307,6 +307,8 @@ device-migration-fxa-spotlight-link = Upozornit mě později
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Nastavit { -brand-short-name } jako výchozí čtečku souborů PDF?</strong> Pomocí { -brand-short-name(case: "gen") } můžete číst a upravovat soubory PDF uložené v počítači.
 pdf-default-notification-set-default-button =
     .label = Nastavit jako výchozí
 pdf-default-notification-decline-button =
@@ -314,7 +316,12 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Spustit { -brand-short-name } po každém restartu počítače?</strong> Nyní můžete nastavit, aby se { -brand-short-name } otevíral automaticky po restartu zařízení.
 launch-on-login-learnmore = Zjistit více
+launch-on-login-infobar-confirm-button = Ano, otevírat { -brand-short-name }
+    .accesskey = A
+launch-on-login-infobar-reject-button = Nyní ne
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
