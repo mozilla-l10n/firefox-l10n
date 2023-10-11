@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # This is the title of the page
-about-logging-title = Giới thiệu về ghi nhật ký
+about-logging-title = Về ghi nhật ký
 about-logging-page-title = Trình quản lý ghi nhật ký
 about-logging-current-log-file = Tập tin nhật ký hiện tại:
 about-logging-new-log-file = Tập tin nhật ký mới:
