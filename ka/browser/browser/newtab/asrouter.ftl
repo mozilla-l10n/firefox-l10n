@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = შემოთავაზებული შ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = რატომ ვხედავ ამას
-
 cfr-doorhanger-extension-cancel-button = ახლა არა
     .accesskey = რ
-
 cfr-doorhanger-extension-ok-button = დამატება ახლავე
     .accesskey = ხ
-
 cfr-doorhanger-extension-manage-settings-button = შემოთავაზებების პარამეტრების მართვა
     .accesskey = შ
-
 cfr-doorhanger-extension-never-show-recommendation = ამ შემოთავაზების ჩვენების შეწყვეტა
     .accesskey = წ
-
 cfr-doorhanger-extension-learn-more-link = იხილეთ ვრცლად
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = შემქმნელი: { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = შემოთავაზება
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = შემოთავაზება
     .tooltiptext = გაფართოების შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია გაფართოების შემოთავაზება
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = შემოთავაზება
     .tooltiptext = შესაძლებლობის შემოთავაზება
     .a11y-announcement = ხელმისაწვდომია შესაძლებლობის შემოთავაზება
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = ვრცლად
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ახალი შესაძლებლობა:
-
 cfr-whatsnew-button =
     .label = რა სიახლეებია
     .tooltiptext = რა სიახლეებია
-
 cfr-whatsnew-release-notes-link-text = იხილეთ გამოშვების შენიშვნები
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = კარგი
 cfr-doorhanger-doh-secondary-button = გამორთვა
     .accesskey = გ
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = ვიდეოებს ამ საიტზე, სათანადოდ ვერ უშვებს ამ ვერსიის { -brand-short-name }. ვიდეოების სრული მხარდაჭერისთვის, განაახლეთ { -brand-short-name } ახლავე.
 cfr-doorhanger-video-support-header = განაახლეთ { -brand-short-name } ვიდეოს გასაშვებად
 cfr-doorhanger-video-support-primary-button = განახლება ახლავე
     .accesskey = გ
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = დაიცავით პირა
     .accesskey = ც
 spotlight-public-wifi-vpn-link = ახლა არა
     .accesskey = ა
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = ახლა არა
 
 mr2022-background-update-toast-title = ახალი { -brand-short-name }. მეტად პირადი. ნაკლები მეთვალყურეები. არანაირი დათმობა.
 mr2022-background-update-toast-text = მოსინჯეთ უახლესი { -brand-short-name } დაუყოვნებლივ, თვალთვალისგან არნახულად მძლავრი დაცვით აღჭურვილი.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = გახსენით { -brand-shorter-name } ახლავე
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = დაიბრუნეთ ახლახან დ�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = გაიცანით { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = გსურთ ამ ჩანართის ტელეფონზე ხილვა? წაიყოლეთ თან. დაგჭირდათ ადრე მონახულებული გვერდი? ბუფ და უცებ გაჩნდება { -firefoxview-brand-name(case: "ins") }.
 firefoxview-spotlight-promo-primarybutton = ნახეთ, როგორ მუშაობს
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = გამოტოვება
 
 colorways-cfr-primarybutton = აირჩიეთ შეფერილობა
     .accesskey = ფ
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = გააფერადეთ { -brand-short-name } გამორჩეული შეფერილობებით, შთაგონებული ხალხის ხმებით, რომელთაც შეცვალეს ღირებულებები.
 colorways-cfr-header-28days = დამოუკიდებელი ხმების შეფერილობათა ბოლო ვადაა 16 იანვარი
@@ -229,7 +211,6 @@ july-jam-headline = ჩვენ გიცავთ
 july-jam-body = ყოველთვიურად, { -brand-short-name } ზღუდავს საშუალოდ 3000+ მეთვალყურეს თითოეულ მომხმარებელზე, შედეგად იღებთ უსაფრთხო, სწრაფ წვდომას ჯანსაღ ინტერნეტსივრცესთან.
 july-jam-set-default-primary = ბმულებს გახსნის { -brand-short-name }
 fox-doodle-pin-headline = კეთილი იყოს თქვენი დაბრუნება
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = აქვე მოკლე შეხსენება, რომ თქვენი საყვარელი დამოუკიდებელი ბრაუზერი შეგიძლიათ იქონიოთ თითის ერთ გაწვდენაზე.
@@ -256,3 +237,26 @@ device-migration-fxa-spotlight-header = ძველ მოწყობილო
 device-migration-fxa-spotlight-body = გადაინახეთ მონაცემები, რომ არ დაგეკარგოთ მნიშვნელოვანი ინფორმაცია, მათ შორის სანიშნები და პაროლები — მით უფრო, თუ ახალ მოწყობილობაზე აპირებთ გადასვლას.
 device-migration-fxa-spotlight-primary-button = როგორაა შესაძლებელი დამარქაფება
 device-migration-fxa-spotlight-link = მოგვიანებით შეხსენება
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>გსურთ { -brand-short-name } ნაგულისხმევი PDF-წამკითხველი გახდეს?</strong> გამოიყენეთ { -brand-short-name } კომპიუტერში შენახული PDF-ების წასაკითხად და ჩასასწორებლად.
+pdf-default-notification-set-default-button =
+    .label = ნაგულისხმევად დაყენება
+pdf-default-notification-decline-button =
+    .label = ახლა არა
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = ვრცლად
+launch-on-login-infobar-confirm-button = დიახ, გაეშვას { -brand-short-name }
+    .accesskey = დ
+launch-on-login-infobar-reject-button = ახლა არა
+    .accesskey = ა
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = არა, გმადლობთ
+    .accesskey = რ
