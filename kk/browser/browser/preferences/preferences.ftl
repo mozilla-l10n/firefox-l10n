@@ -129,6 +129,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Компьютеріңіз іске қосылғанда { -brand-short-name } қолданбасын автоматты түрде іске қосу
     .accesskey = о
+windows-launch-on-login-disabled = Бұл баптау Windows жүйесінде сөндірілген. Оны өзгерту үшін, Жүйе баптауларынан <a data-l10n-name="startup-link">Қолданбалардың автоматты іске қосылуы</a> қараңыз.
 startup-restore-warn-on-quit =
     .label = Браузерден шыққан кезде ескерту
 disable-extension =

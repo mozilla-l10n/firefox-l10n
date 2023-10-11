@@ -48,6 +48,7 @@ about-logging-preset-gfx-label = Графика
 about-logging-preset-gfx-description = Графикалық мәселелерді диагностикалау үшін журнал модульдері
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Microsoft Windows жүйесіне тән мәселелерді диагностикалау үшін журнал модульдері
 about-logging-preset-custom-label = Таңдауыңызша
 about-logging-preset-custom-description = Журналдау модульдері қолмен таңдалған
 # Error handling
