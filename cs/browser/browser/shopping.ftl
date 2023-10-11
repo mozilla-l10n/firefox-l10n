@@ -64,6 +64,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkt není k dispozici
     .message = Pokud zjistíte, že je tento produkt opět skladem, nahlaste to a my se pokusíme recenze zkontrolovat.
+shopping-message-bar-warning-product-not-available-button2 = Oznámit, že produkt je skladem
 shopping-message-bar-thanks-for-reporting =
     .heading = Děkujeme za nahlášení!
     .message = Informace o hodnocení tohoto produktu bychom měli mít k dispozici do 24 hodin. Prosím, zkontrolujte to znovu.
@@ -195,6 +196,12 @@ shopping-onboarding-headline = Vyzkoušejte našeho důvěryhodného průvodce r
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -vendor-short-name }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na stránkách <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -brand-product-name(case: "gen") }, je zabudována přímo do prohlížeče. Funguje také na stránkách <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Pomocí funkce { -fakespot-brand-full-name } vám pomůžeme vyhnout se neobjektivním a neautentickým recenzím. Náš model umělé inteligence se neustále zdokonaluje, aby vás při nakupování chránil. <a data-l10n-name="learn_more">Dozvědět se více</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů { -fakespot-brand-full-name(case: "gen") }</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
 shopping-onboarding-opt-in-button = Ano, vyzkoušet
