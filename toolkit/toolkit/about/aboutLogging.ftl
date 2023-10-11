@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = მოდულების აღრიცხვა WebGPU-ის ხარვეზების გამოსავლენად
 about-logging-preset-gfx-label = გრაფიკა
 about-logging-preset-gfx-description = მოდულების აღრიცხვა გრაფიკის ხარვეზების გამოსავლენად
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = მოდულების აღრიცხვები Microsoft Windows სისტემასთან დაკავშირებული ხარვეზების გამოსავლენად
 about-logging-preset-custom-label = მითითებული
 about-logging-preset-custom-description = აღრიცხვის მოდულები ხელითაა შერჩეული
 # Error handling

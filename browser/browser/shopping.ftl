@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = გასაყიდი ნაწარმი მიუწვდომელია
     .message = თუ ნახავთ, რომ ნაწარმი დააბრუნეს გასაყიდად, მოგვახსენეთ და ვიმუშავებთ მიმოხილვების შესამოწმებლად.
+shopping-message-bar-warning-product-not-available-button2 = მოხსენება გასაყიდი პროდუქტისა
 shopping-message-bar-thanks-for-reporting =
     .heading = გმადლობთ მოხსენებისთვის!
     .message = ამ ნაწარმის მიმოხილვების შესახებ მონაცემები გვექნება 24 საათში. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = გამოცადეთ ჩვენი ს�
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = იხილეთ, რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები <b>{ $currentSite }</b> საიტზე მის შეძენამდე. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა { -vendor-short-name }-ისგან, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name } — და მხარდაჭერილია <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = იხილეთ, რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები <b>{ $currentSite }</b> საიტზე მის შეძენამდე. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობაა, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name }. მხარდაჭერილია როგორც <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
 shopping-onboarding-body = { -fakespot-brand-full-name }-ის ძლევამოსილებით ჩვენ დაგეხმარებით მიკერძოებული და ყალბი მიმოხილვების თავიდან აცილებაში. ჩვენი AI-მოდელი მუდმივად იხვეწება საყიდლების შეძენისას თქვენს დასაცავად. <a data-l10n-name="learn_more">ვრცლად</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკის არჩევით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-button = დიახ, მსურს ვცადო
