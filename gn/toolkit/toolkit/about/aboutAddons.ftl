@@ -242,7 +242,7 @@ shortcuts-duplicate-warning-message2 =
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
-shortcuts-exists = Oipurúma { $addon }
+shortcuts-exists = Oiporúma { $addon }
 # Variables:
 #   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
