@@ -249,7 +249,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>კომპიუტერის ყოველი ჩართვისას გიწევთ გაუშვათ { -brand-short-name }?</strong> ახლა უკვე შეგიძლიათ მიუთითოთ, რომ { -brand-short-name } თავისით გაეშვას მოწყობილობის ხელახლა ჩართვისას.
+launch-on-login-infobar-message = <strong>კომპიუტერის ყოველი ჩართვისას გიწევთ გახსნათ { -brand-short-name }?</strong> ახლა უკვე შეგიძლიათ მიუთითოთ, რომ { -brand-short-name } თავისით გაეშვას მოწყობილობის ხელახლა ჩართვისას.
 launch-on-login-learnmore = ვრცლად
 launch-on-login-infobar-confirm-button = დიახ, გაეშვას { -brand-short-name }
     .accesskey = დ
@@ -259,6 +259,6 @@ launch-on-login-infobar-reject-button = ახლა არა
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>გაეშვას { -brand-short-name } კომპიუტერის ყოველი ჩართვისას?</strong> ჩართვისას გაშვების გასამართად პარამეტრებში მოიძიეთ „startup“.
+launch-on-login-infobar-final-message = <strong>გაიხსნას { -brand-short-name } კომპიუტერის ყოველი ჩართვისას?</strong> ჩართვისას გაშვების გასამართად პარამეტრებში მოიძიეთ „startup“.
 launch-on-login-infobar-final-reject-button = არა, გმადლობთ
     .accesskey = რ
