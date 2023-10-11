@@ -237,6 +237,8 @@ device-migration-fxa-spotlight-link = Кейінірек еске салу
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name } қолданбасын үнсіз келісім бойынша PDF файлдарын оқу қолданбасы ретінде орнату керек пе?</strong>Компьютеріңізде сақталған PDF файлдарын оқу және түзету үшін { -brand-short-name } қолданыңыз.
 pdf-default-notification-set-default-button =
     .label = Үнсіз келісім ретінде орнату
 pdf-default-notification-decline-button =
@@ -244,6 +246,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Компьютеріңізді әр рет қайта іске қосқан сайын { -brand-short-name } қолданбасын ашу керек пе?</strong>Құрылғы қайта іске қосылған кезде { -brand-short-name } қолданбасын автоматты түрде іске қосылатындай етіп енді баптауға болады.
 launch-on-login-learnmore = Көбірек білу
 launch-on-login-infobar-confirm-button = Иә, { -brand-short-name } ашу
     .accesskey = и
@@ -253,5 +256,6 @@ launch-on-login-infobar-reject-button = Қазір емес
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Компьютеріңізді әр рет қайта іске қосқан сайын { -brand-short-name } қолданбасын ашу керек пе?</strong>Іске қосылу баптауларын басқару үшін, баптаулардан "іске қосу" іздеңіз.
 launch-on-login-infobar-final-reject-button = Жоқ, рахмет
     .accesskey = Ж

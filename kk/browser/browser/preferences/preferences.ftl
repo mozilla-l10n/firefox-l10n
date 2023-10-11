@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Веб-сайттарға менің деректерімді сатпауды немесе олармен бөліспеуді айту
     .accesskey = с
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Баптаулар
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,9 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Алдыңғы терезелер мен беттерді ашу
     .accesskey = д
+windows-launch-on-login =
+    .label = Компьютеріңіз іске қосылғанда { -brand-short-name } қолданбасын автоматты түрде іске қосу
+    .accesskey = о
 startup-restore-warn-on-quit =
     .label = Браузерден шыққан кезде ескерту
 disable-extension =
