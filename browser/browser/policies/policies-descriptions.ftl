@@ -91,6 +91,7 @@ policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đ
 policy-ManagedBookmarks = Định cấu hình danh sách các dấu trang do quản trị viên quản lý mà người dùng không thể thay đổi.
 policy-ManualAppUpdateOnly = Chỉ cho phép cập nhật thủ công và không thông báo cho người dùng về các bản cập nhật.
 policy-PrimaryPassword = Yêu cầu hoặc ngăn không sử dụng mật khẩu chính.
+policy-PrintingEnabled = Bật hoặc tắt tính năng in.
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).
 policy-NewTabPage = Kích hoạt hoặc vô hiệu hóa trang Thẻ mới.
 policy-NoDefaultBookmarks = Vô hiệu hóa việc tạo dấu trang mặc định đi kèm với { -brand-short-name } và dấu trang thông minh (được truy cập nhiều nhất, thẻ gần đây). Lưu ý: chính sách này chỉ có hiệu lực nếu được sử dụng trước lần chạy đầu tiên của hồ sơ.
