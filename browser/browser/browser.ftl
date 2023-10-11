@@ -614,6 +614,12 @@ urlbar-group-search-suggestions =
 urlbar-group-quickactions =
     .label = Azioni rapide
 
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+  .label = Ricerche recenti
+
 ## Reader View toolbar buttons
 
 # This should match menu-view-enter-readerview in menubar.ftl
