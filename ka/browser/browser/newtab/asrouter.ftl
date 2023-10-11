@@ -174,7 +174,7 @@ firefoxview-cfr-primarybutton = მოსინჯვა
     .accesskey = ჯ
 firefoxview-cfr-secondarybutton = ახლა არა
     .accesskey = ა
-firefoxview-cfr-header-v2 = სწრაფადვე განაგრძეთ იქიდან, სადაც გაჩერდით
+firefoxview-cfr-header-v2 = სწრაფადვე განაგრძეთ იქიდან, სადაც შეჩერდით
 firefoxview-cfr-body-v2 = დაიბრუნეთ ახლახან დახურული ჩანართები და ამასთანავე, შეუფერხებლად გადაერთეთ მოწყობილობებს შორის { -firefoxview-brand-name(case: "ins") }.
 
 ## Firefox View Spotlight
