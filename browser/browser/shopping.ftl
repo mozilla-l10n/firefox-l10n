@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Өнім қолжетімді емес
     .message = Бұл өнімнің қоймаға қайта оралғанын көрсеңіз, оны бізге хабарлаңыз, біз пікірлерді тексереміз.
+shopping-message-bar-warning-product-not-available-button2 = Өнімнің қоймада бар болғанын хабарлау
 shopping-message-bar-thanks-for-reporting =
     .heading = Хабарламаңыз үшін рахмет!
     .message = Бізде осы өнімнің пікірлері туралы ақпарат 24 сағат ішінде болуы керек. Кейінірек қайта тексеріңіз.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Өнім пікірлерінің сенімді�
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Сатып алғанға дейін <b>{ $currentSite }</b> сайтындағы өнім пікірлері қаншалықты сенімді екенін қараңыз. Пікірлерді тексеру құралын { -vendor-short-name } сынамалы түрде ұсынады, ол тура { -brand-product-name } ішінде қолжетімді — сонымен қатар, ол <b>{ $secondSite }</b> және <b>{ $thirdSite }</b> сайттарында да істейді.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Сатып алғанға дейін <b>{ $currentSite }</b> сайтындағы өнім пікірлері қаншалықты сенімді екенін қараңыз. Пікірлерді тексеру құралын { -brand-product-name } сынамалы түрде ұсынады, ол тура браузер ішінде қолжетімді. Ол <b>{ $secondSite }</b> және <b>{ $thirdSite }</b> сайттарында да істейді.
 shopping-onboarding-body = { -fakespot-brand-full-name } мүмкіндігін пайдалана отырып, біз сізге біржақты және шынайы емес пікірлерден аулақ болуға көмектесеміз. Сатып алу кезінде сізді қорғау үшін біздің AI моделіміз үнемі жетілдіріліп отырады. <a data-l10n-name="learn_more">Көбірек білу</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = "{ shopping-onboarding-opt-in-button }" опциясын таңдау арқылы сіз { -fakespot-brand-full-name } қолданбасының <a data-l10n-name="privacy_policy">жекелік саясаты</a> және <a data-l10n-name="terms_of_use">қолдану шарттарымен</a>  келісесіз.
 shopping-onboarding-opt-in-button = Иә, қолданып көру
