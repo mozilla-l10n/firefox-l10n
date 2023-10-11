@@ -11,7 +11,6 @@
 # Placeholder text for tag input
 pocket-panel-saved-add-tags =
     .placeholder = ჭდეების დამატება
-
 pocket-panel-saved-error-generic = { -pocket-brand-name }-ში შენახვისას დაფიქსირდა შეცდომა.
 pocket-panel-saved-error-tag-length = ჭდე უნდა შედგებოდეს არაუმეტეს 25 სიმბოლოსგან
 pocket-panel-saved-error-only-links = შესაძლებელია მხოლოდ ბმულების შენახვა
@@ -29,7 +28,6 @@ pocket-panel-saved-save-tags = შენახვა
 pocket-panel-saved-saving-tags = ინახება…
 pocket-panel-saved-suggested-tags = შემოთავაზებული ჭდეები
 pocket-panel-saved-tags-saved = ჭდეები დამატებულია
-
 # This is displayed above a field where the user can add tags
 pocket-panel-signup-add-tags = ჭდეების დამატება:
 
@@ -44,7 +42,6 @@ pocket-panel-signup-signup-firefox = ანგარიში { -brand-product-n
 pocket-panel-signup-tagline = შეინახეთ სტატიები და ვიდეოები { -brand-product-name }-იდან მათ { -pocket-brand-name }-ში სანახავად ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
 pocket-panel-signup-tagline-story-one = { -brand-product-name }-იდან ნებისმიერი სტატიის, ვიდეოს ან გვერდის შესანახად დააწკაპეთ { -pocket-brand-name } ღილაკს.
 pocket-panel-signup-tagline-story-two = დაათვალიერეთ { -pocket-brand-name }-ში ნებისმიერ მოწყობილობაზე, ნებისმიერ დროს.
-
 pocket-panel-signup-cta-a-fix = გადასანახი ღილაკი ინტერნეტისთვის.
 pocket-panel-signup-cta-b-updated = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოებისა და ბმულების გადასანახად. შენახული კი იხილეთ ნებისმიერ მოწყობილობაზე სასურველ დროს.
 pocket-panel-signup-cta-b-short = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოების და ბმულების შესანახად.
@@ -53,11 +50,10 @@ pocket-panel-signup-cta-c-updated = თქვენ მიერ შენახ
 ## about:pocket-home panel
 
 pocket-panel-home-welcome-back = კეთილი იყოს თქვენი დაბრუნება
-pocket-panel-home-paragraph = შეგიძლიათ გამოიყენოთ { -pocket-brand-name } აღმოსაჩენად და შესანახად ვებგვერდების, სტატიების, ვიდეოების, პოდკასტების, ან განაგრძოთ კითხვა იქიდან, სადაც გაჩერდით.
+pocket-panel-home-paragraph = შეგიძლიათ გამოიყენოთ { -pocket-brand-name } აღმოსაჩენად და შესანახად ვებგვერდების, სტატიების, ვიდეოების, პოდკასტების, ან განაგრძოთ კითხვა იქიდან, სადაც შეჩერდით.
 pocket-panel-home-explore-popular-topics = გაეცანით ცნობილ თემებს
 pocket-panel-home-discover-more = აღმოაჩინეთ მეტი
 pocket-panel-home-explore-more = დათვალიერება
-
 pocket-panel-home-most-recent-saves = აქ იხილავთ ბოლოს შენახულს:
 pocket-panel-home-most-recent-saves-loading = ბოლოს შენახული იტვირთება…
 pocket-panel-home-new-user-cta = დაწკაპეთ { -pocket-brand-name }-ღილაკზე სტატიების, ვიდეოების და ბმულების შესანახად.
