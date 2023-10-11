@@ -62,3 +62,5 @@ unified-extensions-mb-quarantined-domain-message-3 =
             [neuter] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých { -vendor-short-name } zavedlo omezení.
            *[no-cases] V zájmu ochrany vašich údajů nemohou některá rozšíření číst nebo měnit údaje na této stránce. V nastavení rozšíření můžete povolit přístup na stránkách, na kterých organizace { -vendor-short-name } zavedla omezení.
         }
+unified-extensions-mb-quarantined-domain-learn-more = Zjistit více
+    .aria-label = Zjistit více: Některá rozšíření nejsou povolena
