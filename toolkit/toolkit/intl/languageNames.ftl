@@ -158,6 +158,7 @@ language-name-ro = ਰੋਮਾਨੀਆਈ
 language-name-ru = ਰੂਸੀ
 language-name-rw = ਕਿੰਯਾਰਵਾਂਡਾ
 language-name-sa = ਸੰਸਕ੍ਰਿਤ
+language-name-sat = ਸੰਥਾਲੀ
 language-name-sc = ਸਾਰਡੀਨੀਅਨ
 language-name-sco = ਸਕੌਟਸ
 language-name-sd = ਸਿੰਧੀ
