@@ -247,6 +247,7 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-infobar-message = <strong>想在重启电脑后自动打开 { -brand-short-name } 吗？</strong>现在可将 { -brand-short-name } 设为开机时自动打开。
+launch-on-login-learnmore = 详细了解
 launch-on-login-infobar-confirm-button = 打开 { -brand-short-name }
     .accesskey = Y
 launch-on-login-infobar-reject-button = 暂时不要
