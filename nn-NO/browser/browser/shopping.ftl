@@ -57,6 +57,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-analysis-in-progress-title2 = Kontrollerer kvaliteten på vurderinga
 shopping-message-bar-analysis-in-progress-message2 = Dette vil ta omlag 60 sekund.
 shopping-message-bar-page-not-supported-title = Vi klarer ikkje å kontrollere desse vurderingane
+shopping-message-bar-page-not-supported-message = Diverre kan vi ikkje kontrollere produktkvaliteten på enkelte produkttypar, som til dømes gåvekort, strøyme-video, musikk og spel.
 
 ## Strings for the product review snippets card
 
@@ -119,6 +120,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ingen informasjon om desse vurderingane enno
+shopping-unanalyzed-product-message-2 = For å vite om vurderingane av dette produktet er pålitelege, kontroller kvaliteten på vurderinga. Det tek berre omlag 60 sekund.
 shopping-unanalyzed-product-analyze-button = Kontroller kvaliteten på vurderinga
 
 ## Strings for the advertisement
