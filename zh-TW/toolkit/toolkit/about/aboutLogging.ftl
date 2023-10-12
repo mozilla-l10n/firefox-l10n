@@ -46,6 +46,8 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用來診斷 WebGPU 問題的記錄模組
 about-logging-preset-gfx-label = 圖形
 about-logging-preset-gfx-description = 用來診斷圖型問題的記錄模組
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = 自訂
 about-logging-preset-custom-description = 手動選擇的記錄模組
 # Error handling
