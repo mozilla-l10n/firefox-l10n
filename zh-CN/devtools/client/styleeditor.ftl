@@ -40,8 +40,13 @@ styleeditor-go-to-line =
     .accesskey = J
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = 找不到匹配的样式表。
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
 styleeditor-stylesheet-rule-count = { $ruleCount } 个规则。
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = 美化打印样式表
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = 只能用于美化输出的 CSS 文件

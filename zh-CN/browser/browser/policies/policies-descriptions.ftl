@@ -91,6 +91,7 @@ policy-LocalFileLinks = 允许特定网站链接到本地文件。
 policy-ManagedBookmarks = 配置由管理员控制的书签列表，用户无法更改。
 policy-ManualAppUpdateOnly = 只允许手动更新，并且不通知用户有可用更新。
 policy-PrimaryPassword = 要求或禁止使用主密码。
+policy-PrintingEnabled = 启用或禁用打印。
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
 policy-NewTabPage = 启用或禁用“新标签页”页面。
 policy-NoDefaultBookmarks = 禁止创建 { -brand-short-name } 捆绑的默认书签以及智能书签（最常访问、最近使用的标签）。注意：此策略仅在配置文件首次运行时生效。
