@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = 為了保護您的資料，
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 不允許使用某些擴充套件
     .message = 為了保護您的資料，某些擴充套件無法讀取或更改此網站的資料。您可以到套件設定頁面中允許存取受 { -vendor-short-name } 限制的網站。
+unified-extensions-mb-quarantined-domain-learn-more = 更多資訊
+    .aria-label = 更多資訊：不允許使用某些擴充套件

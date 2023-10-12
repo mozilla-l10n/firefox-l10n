@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = 商品已下架
     .message = 若您發現此產品又上架了，請回報給我們，我們將盡快檢查評論內容。
+shopping-message-bar-warning-product-not-available-button2 = 回報產品已有庫存
 shopping-message-bar-thanks-for-reporting =
     .heading = 感謝您回報！
     .message = 我們將在 24 小時內提供更新過的評論分析資訊，請稍後再回來。

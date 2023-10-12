@@ -91,6 +91,7 @@ policy-LocalFileLinks = 允許特定網站鏈結到本機檔案。
 policy-ManagedBookmarks = 設定由管理員控管的書籤清單，使用者無法更改。
 policy-ManualAppUpdateOnly = 只允許手動更新，也不通知使用者已有更新推出。
 policy-PrimaryPassword = 要求使用或不允許使用主控密碼。
+policy-PrintingEnabled = 啟用或停用列印功能。
 policy-NetworkPrediction = 開啟或關閉網路預測（DNS 預讀）功能。
 policy-NewTabPage = 啟用或停用「新分頁」頁面。
 policy-NoDefaultBookmarks = 停止建立 { -brand-short-name } 內建的預設書籤及智慧書籤（最常造訪、最近新增的標籤）。註: 此原則僅在設定檔首次啟動前設定才有效。
