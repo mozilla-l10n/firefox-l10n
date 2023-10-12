@@ -246,6 +246,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>要在每次電腦開機時自動開啟 { -brand-short-name } 嗎？</strong>現在可以設定在開機時自動開啟 { -brand-short-name }。
 launch-on-login-learnmore = 更多資訊
 launch-on-login-infobar-confirm-button = 好，開啟 { -brand-short-name }
     .accesskey = Y
@@ -255,5 +256,6 @@ launch-on-login-infobar-reject-button = 現在不要
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>要在每次電腦開機時自動開啟 { -brand-short-name } 嗎？</strong>若要管理您的啟動設定，請在設定頁面中搜尋「啟動」。
 launch-on-login-infobar-final-reject-button = 不要，謝謝
     .accesskey = N

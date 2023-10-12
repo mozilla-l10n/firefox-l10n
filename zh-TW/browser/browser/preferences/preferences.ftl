@@ -126,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = 開啟先前的視窗與分頁
     .accesskey = s
+windows-launch-on-login =
+    .label = 電腦開機時自動開啟 { -brand-short-name }
+    .accesskey = O
+windows-launch-on-login-disabled = 已在 Windows 停用此偏好設定。若要變更，請到系統設定中的<a data-l10n-name="startup-link">啟動應用程式</a>頁面調整設定。
 startup-restore-warn-on-quit =
     .label = 關閉瀏覽器時警告您
 disable-extension =
