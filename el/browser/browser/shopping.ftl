@@ -49,6 +49,8 @@ shopping-message-bar-page-not-supported-title = Δεν μπορούμε να ε�
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Σημαντικά σημεία από πρόσφατες κριτικές
 shopping-highlight-price = Τιμή
 shopping-highlight-quality = Ποιότητα
 shopping-highlight-shipping = Αποστολή
@@ -83,6 +85,10 @@ shopping-review-reliability-label =
 
 ## Strings for the analysis explainer component
 
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = Τα <strong>σημαντικά σημεία</strong> προέρχονται από κριτικές για το { $retailer }, οι οποίες γράφτηκαν τις τελευταίες 80 ημέρες και πιστεύουμε ότι είναι αξιόπιστες.
 shopping-analysis-explainer-review-grading-scale-reliable = Αξιόπιστες κριτικές. Πιστεύουμε ότι οι κριτικές είναι πιθανό να προέρχονται από πραγματικούς πελάτες που άφησαν ειλικρινείς, αμερόληπτες κριτικές.
 
 ## Strings for UrlBar button
