@@ -128,6 +128,6 @@ options-enable-service-workers-http-tooltip =
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Embojuruja yvyra’ãnga ypýva
 options-source-maps-tooltip =
-    .title = Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembipurúpe.
+    .title = Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembiporúpe.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyenyhẽjey kuatiarogue
