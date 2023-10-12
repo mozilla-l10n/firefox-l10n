@@ -917,12 +917,14 @@ unified-extensions-button-quarantined =
 reset-pbm-toolbar-button =
     .label = Τερματισμός ιδιωτικής συνεδρίας
     .tooltiptext = Τερματισμός ιδιωτικής συνεδρίας
+reset-pbm-panel-heading = Τερματισμός ιδιωτικής συνεδρίας;
 reset-pbm-panel-cancel-button =
     .label = Ακύρωση
     .accesskey = Α
 reset-pbm-panel-confirm-button =
     .label = Διαγραφή δεδομένων συνεδρίας
     .accesskey = Δ
+reset-pbm-panel-complete = Τα δεδομένα της ιδιωτικής συνεδρίας διαγράφηκαν
 
 ## Autorefresh blocker
 

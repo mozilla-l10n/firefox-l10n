@@ -247,9 +247,13 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = Μάθετε περισσότερα
+launch-on-login-infobar-confirm-button = Ναι, άνοιγμα του { -brand-short-name }
+    .accesskey = Ν
 launch-on-login-infobar-reject-button = Όχι τώρα
     .accesskey = χ
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = Όχι, ευχαριστώ
+    .accesskey = χ
