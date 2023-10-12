@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Suositeltu ominaisuus
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Miksi näen tämän
-
 cfr-doorhanger-extension-cancel-button = Ei nyt
     .accesskey = E
-
 cfr-doorhanger-extension-ok-button = Lisää nyt
     .accesskey = L
-
 cfr-doorhanger-extension-manage-settings-button = Hallitse suositteluasetuksia
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Älä näytä tätä suositusta minulle
     .accesskey = n
-
 cfr-doorhanger-extension-learn-more-link = Lue lisää
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = tekijältä { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suositus
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Suositus
     .tooltiptext = Laajennussuositus
     .a11y-announcement = Laajennussuositus saatavilla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Suositus
     .tooltiptext = Ominaisuussuositus
     .a11y-announcement = Ominaisuussuositus saatavilla
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Lue lisää
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Uusi ominaisuus:
-
 cfr-whatsnew-button =
     .label = Mitä uutta
     .tooltiptext = Mitä uutta
-
 cfr-whatsnew-release-notes-link-text = Lue julkaisutiedote
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Poista käytöstä
     .accesskey = P
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videot tällä sivustolla eivät välttämättä toimi kunnolla tällä { -brand-short-name }in versiolla. Päivitä { -brand-short-name } nyt saadaksesi täyden videotuen.
 cfr-doorhanger-video-support-header = Päivitä { -brand-short-name } toistaaksesi videon
 cfr-doorhanger-video-support-primary-button = Päivitä nyt
     .accesskey = P
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Pysy yksityisenä { -mozilla-vpn-bran
     .accesskey = S
 spotlight-public-wifi-vpn-link = Ei nyt
     .accesskey = E
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Ei nyt
 
 mr2022-background-update-toast-title = Uusi { -brand-short-name }. Entistä yksityisempi. Vähemmän seuraimia. Ei kompromisseja.
 mr2022-background-update-toast-text = Kokeile uusinta { -brand-short-name }ia nyt. Päivitetty tähän mennessä vahvimmalla seurantasuojauksella.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Avaa { -brand-shorter-name } nyt
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Hanki äskettäin suljetut välilehdet takaisin ja sii
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Tervehdi { -firefoxview-brand-name }ä
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Haluatko avoimen välilehden puhelimeltasi? Nappaa se. Tarvitsetko sivuston, jolla juuri vierailit? Hokkuspokkus, se on palannut { -firefoxview-brand-name }llä.
 firefoxview-spotlight-promo-primarybutton = Katso miten se toimii
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Ohita
 
 colorways-cfr-primarybutton = Valitse väriteema
     .accesskey = ä
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Väritä selaimesi { -brand-short-name }in erityisillä sävyillä, jotka ovat saaneet vaikutteita kulttuuria muuttaneista äänistä.
 colorways-cfr-header-28days = Itsenäiset äänet -väriteemat vanhenevat 16. tammikuuta
@@ -228,7 +210,6 @@ july-jam-headline = Pidämme sinusta huolen
 july-jam-body = Joka kuukausi { -brand-short-name } estää keskimäärin 3 000+ seurainta käyttäjää kohden, jonka ansiosta sinulla on turvallinen ja nopea pääsy hyvään internetiin.
 july-jam-set-default-primary = Avaa linkit { -brand-short-name }illa
 fox-doodle-pin-headline = Tervetuloa takaisin
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Tässä on pieni muistutus siitä, että voit pitää suosikkiselaimesi vain yhden napsautuksen päässä.
@@ -255,3 +236,28 @@ device-migration-fxa-spotlight-header = Käytätkö vanhempaa laitetta?
 device-migration-fxa-spotlight-body = Varmuuskopioi tietosi varmistaaksesi, ettet menetä tärkeitä tietoja, kuten kirjanmerkkejä ja salasanoja – varsinkin jos vaihdat uuteen laitteeseen.
 device-migration-fxa-spotlight-primary-button = Kuinka varmuuskopioida omat tiedot
 device-migration-fxa-spotlight-link = Muistuta myöhemmin
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Asetetaanko { -brand-short-name } oletusarvoiseksi PDF-lukijaksi?</strong> Käytä { -brand-short-name }ia lukeaksesi ja muokataksesi tietokoneelle tallennettuja PDF-tiedostoja.
+pdf-default-notification-set-default-button =
+    .label = Aseta oletukseksi
+pdf-default-notification-decline-button =
+    .label = Ei nyt
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Avataanko { -brand-short-name } aina, kun käynnistät tietokoneen uudelleen?</strong> Nyt voit asettaa { -brand-short-name }in avautumaan automaattisesti, kun käynnistät laitteen uudelleen.
+launch-on-login-learnmore = Lue lisää
+launch-on-login-infobar-confirm-button = Kyllä, avaa { -brand-short-name }
+    .accesskey = y
+launch-on-login-infobar-reject-button = Ei nyt
+    .accesskey = n
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Avataanko { -brand-short-name } aina, kun käynnistät tietokoneen uudelleen?</strong> Voit hallita käynnistysasetuksia etsimällä asetuksista “käynnistys”.
+launch-on-login-infobar-final-reject-button = Ei kiitos
+    .accesskey = E

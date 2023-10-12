@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Tietojesi suojaamiseksi jot
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Jotkin laajennukset eivät ole sallittuja
     .message = Tietojesi suojaamiseksi jotkin laajennukset eivät voi lukea tai muuttaa tämän sivuston tietoja. Käytä laajennuksen asetuksia salliaksesi sivustot, joita { -vendor-short-name } rajoittaa.
+unified-extensions-mb-quarantined-domain-learn-more = Lue lisää
+    .aria-label = Lue lisää: Jotkin laajennukset eivät ole sallittuja
