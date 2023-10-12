@@ -91,6 +91,7 @@ policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tied
 policy-ManagedBookmarks = Määrittää listan järjestelmänvalvojan hallinnoimista kirjanmerkeistä, joita käyttäjä ei voi muuttaa.
 policy-ManualAppUpdateOnly = Salli vain manuaaliset päivitykset, älä ilmoita käyttäjälle päivityksistä.
 policy-PrimaryPassword = Vaadi tai estä pääsalasanan käyttö.
+policy-PrintingEnabled = Ota tulostus käyttöön tai poista se käytöstä.
 policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).
 policy-NewTabPage = Ota käyttöön tai poista käytöstä Uusi välilehti -sivu
 policy-NoDefaultBookmarks = Poista käytöstä { -brand-short-name }in mukana tulevien oletuskirjanmerkkien luonti ja älykkäiden kirjanmerkkien (Useimmin avatut, Viimeiset avainsanat) luonti. Huomaa: tällä käytännöllä on vaikutusta vain, kun profiili käynnistetään ensimmäisen kerran.

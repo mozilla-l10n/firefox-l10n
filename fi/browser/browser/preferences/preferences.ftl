@@ -122,6 +122,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Avaa aiemmat ikkunat ja välilehdet
     .accesskey = A
+windows-launch-on-login =
+    .label = Avaa { -brand-short-name } automaattisesti, kun tietokoneesi käynnistyy
+    .accesskey = O
+windows-launch-on-login-disabled = Tämä asetus on poistettu käytöstä Windowsissa. Jos haluat muuttaa sitä, siirry kohtaan <a data-l10n-name="startup-link">Käynnistyssovellukset</a> asetuksissa.
 startup-restore-warn-on-quit =
     .label = Varoita, kun selainta ollaan sulkemassa
 disable-extension =
