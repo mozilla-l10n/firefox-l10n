@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = 为保护您的数据，某
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 不允许使用某些扩展
     .message = 为保护您的数据，某些扩展无法读取和更改此网站上的数据。您可调整扩展的设置来允许其访问受 { -vendor-short-name } 限制的网站。
+unified-extensions-mb-quarantined-domain-learn-more = 详细了解
+    .aria-label = 详细了解：不允许使用某些扩展

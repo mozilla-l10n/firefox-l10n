@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = 用于诊断 WebGPU 问题的日志模块
 about-logging-preset-gfx-label = 图形
 about-logging-preset-gfx-description = 用于诊断图形问题的日志模块
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = 用于诊断 Microsoft Windows 特有问题的日志模块
 about-logging-preset-custom-label = 自定义
 about-logging-preset-custom-description = 手动选择的日志模块
 # Error handling

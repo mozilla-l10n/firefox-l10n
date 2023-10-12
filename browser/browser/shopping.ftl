@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = 商品无货
     .message = 若您发现此商品已有货，请向我们反馈，以便我们核查评论。
+shopping-message-bar-warning-product-not-available-button2 = 反馈商品已有货
 shopping-message-bar-thanks-for-reporting =
     .heading = 感谢反馈！
     .message = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
@@ -193,6 +194,12 @@ shopping-onboarding-headline = 试试我们可信赖的商品评价指南
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = 在购买前先看看 <b>{ $currentSite }</b> 上商品评价的可信度如何。核查评价是 { -vendor-short-name } 的一项实验性功能，内置于 { -brand-product-name } 中，在 <b>{ $secondSite }</b> 和 <b>{ $thirdSite }</b> 网站上同样可用。
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = 在购买前先看看 <b>{ $currentSite }</b> 上商品评价的可信度如何。核查评价是 { -brand-product-name } 的一项实验性功能，内置于浏览器中，在 <b>{ $secondSite }</b> 和 <b>{ $thirdSite }</b> 网站上同样可用。
 shopping-onboarding-body = { -fakespot-brand-full-name } 可帮助您规避不实、不公允的评价。在您购物时，我们的人工智能模型也会不断改进，以更好地保护您的权益。<a data-l10n-name="learn_more">详细了解</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = 选择“{ shopping-onboarding-opt-in-button }”即表明您同意 { -fakespot-brand-full-name } 的<a data-l10n-name="privacy_policy">隐私政策</a>和<a data-l10n-name="terms_of_use">使用条款</a>。
 shopping-onboarding-opt-in-button = 试试看
