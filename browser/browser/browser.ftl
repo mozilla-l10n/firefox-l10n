@@ -928,6 +928,7 @@ reset-pbm-panel-cancel-button =
 reset-pbm-panel-confirm-button =
     .label = Slett øktdata
     .accesskey = S
+reset-pbm-panel-complete = Private øktdata sletta
 
 ## Autorefresh blocker
 
