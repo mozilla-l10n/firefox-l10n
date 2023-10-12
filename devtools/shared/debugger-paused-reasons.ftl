@@ -52,7 +52,7 @@ whypaused-resume-limit = Sospeso durante l’avanzamento manuale
 
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
-whypaused-pause-on-dom-events = Sospeso su un listener di eventi
+whypaused-pause-on-dom-events = Sospeso su un listener eventi
 
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
