@@ -256,6 +256,6 @@ launch-on-login-infobar-reject-button = 暂时不要
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>想在重启电脑后自动打开 { -brand-short-name } 吗？</strong>在设置中搜索“启动”即可管理启动首选项
+launch-on-login-infobar-final-message = <strong>想在重启电脑后自动打开 { -brand-short-name } 吗？</strong>在设置中搜索“启动”即可管理启动首选项。
 launch-on-login-infobar-final-reject-button = 不了，谢谢
     .accesskey = N
