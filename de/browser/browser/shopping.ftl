@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produkt ist nicht verfügbar
     .message = Wenn Sie sehen, dass dieses Produkt wieder auf Lager ist, melden Sie es und wir arbeiten an der Überprüfung der Bewertungen.
+shopping-message-bar-warning-product-not-available-button2 = Melden, das das Produkt vorrätig ist
 shopping-message-bar-thanks-for-reporting =
     .heading = Danke für die Meldung!
     .message = Wir sollten innerhalb von 24 Stunden Informationen über die Bewertungen dieses Produkts haben. Bitte versuchen Sie es später noch einmal.
@@ -176,12 +177,15 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Kehren Sie immer zum <strong>Rezensionsprüfer</strong> zurück, wenn Sie das Preisschild sehen.
 shopping-callout-pdp-opted-in-title = Sind diese Rezensionen vertrauenswürdig? Finden Sie es schnell heraus.
 shopping-callout-pdp-opted-in-subtitle = Öffnen Sie den Rezensionsprüfer, um eine angepasste Bewertung zu sehen, bei der unzuverlässige Rezensionen entfernt wurden. Sehen Sie sich außerdem Highlights aus den letzten authentischen Rezensionen an.
 shopping-callout-closed-not-opted-in-title = Mit einem Klick zu zuverlässigen Rezensionen
+shopping-callout-closed-not-opted-in-subtitle = Probieren Sie den Rezensionsprüfer aus, wenn Sie das Preisschild sehen. Erhalten Sie schnell Einblicke von echten Käufern – vor dem Kauf.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Lesen Sie unseren vertrauenswürdigen Leitfaden zur Produktbewertung
 shopping-onboarding-opt-in-button = Ja, ausprobieren
 shopping-onboarding-not-now-button = Nicht jetzt
 shopping-onboarding-dialog-close-button =

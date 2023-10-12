@@ -91,6 +91,7 @@ policy-LocalFileLinks = Festgelegten Websites Zugriff auf lokale Dateien erlaube
 policy-ManagedBookmarks = Eine Liste von Lesezeichen festlegen, die von einem Administrator verwaltet wird und vom Benutzer nicht geändert werden kann.
 policy-ManualAppUpdateOnly = Nur manuelle Updates erlauben und den Benutzer nicht über Updates benachrichtigen.
 policy-PrimaryPassword = Benutzung eines Hauptpassworts erfordern oder verhindern
+policy-PrintingEnabled = Drucken aktivieren oder deaktivieren
 policy-NetworkPrediction = Spekulative DNS-Abfragen für noch nicht angeforderte Ressourcen ("DNS-Prefetching") aktivieren oder deaktivieren
 policy-NewTabPage = Startseite für neue Tabs aktivieren oder deaktivieren
 policy-NoDefaultBookmarks = Standardlesezeichen von { -brand-short-name } und Intelligente Lesezeichenordner ("Meistbesucht", "Kürzlich verwendete Schlagwörter") nicht erstellen. Hinweis: Diese Richtlinie findet nur Anwendung, wenn sie vor dem ersten Ausführen des Profils aktiv wurde.
