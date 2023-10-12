@@ -239,6 +239,8 @@ device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>¿Ejapo { -brand-short-name } PDF moñe’ẽha ypygua</strong> Eipuru { -brand-short-name } emoñe’ẽ hag̃ua ha embosako’i PDF marandurenda ñongatupyre ne mohendahápe.
 pdf-default-notification-set-default-button =
     .label = Eiporu ijypykuévaramo
 pdf-default-notification-decline-button =
@@ -246,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>¿Embojuruja { -brand-short-name } emoñepyrũjeývo ne mohendah?</strong> Embohekokuaáma { -brand-short-name } ijuruja hag̃ua ijehegui oku’e ñepyrũjeývo mba’e’oka.
 launch-on-login-learnmore = Eikuaave
 launch-on-login-infobar-confirm-button = Héẽ, embojuruja { -brand-short-name }
     .accesskey = Y
@@ -255,5 +258,6 @@ launch-on-login-infobar-reject-button = Ani ko’ág̃a
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>¿Embojuruja { -brand-short-name } emoñepyrũjeývo ne mohendaha?</strong> Eñangareko hag̃ua ñepyrũha erohoryvéva, eheka “ñepyrũ” ñembohekópe.
 launch-on-login-infobar-final-reject-button = Nahániri, aguyje
     .accesskey = N
