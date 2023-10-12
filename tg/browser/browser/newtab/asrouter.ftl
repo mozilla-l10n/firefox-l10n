@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Хусусияти тавсияшуда
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Чаро ман инро дида истодаам?
-
 cfr-doorhanger-extension-cancel-button = Ҳоло не
     .accesskey = н
-
 cfr-doorhanger-extension-ok-button = Ҳозир илова карда шавад
     .accesskey = Ҳ
-
 cfr-doorhanger-extension-manage-settings-button = Идоракунии танзимоти тавсияшуда
     .accesskey = И
-
 cfr-doorhanger-extension-never-show-recommendation = Ин тавсия дигар нишон дода нашавад
     .accesskey = И
-
 cfr-doorhanger-extension-learn-more-link = Маълумоти бештар
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = аз { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Тавсия
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Тавсия
     .tooltiptext = Тавсияи васеъшавӣ
     .a11y-announcement = Тавсияи васеъшавӣ дастрас аст
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Тавсия
     .tooltiptext = Тавсияи хусусият
     .a11y-announcement = Тавсияи хусусият дастрас аст
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Маълумоти бештар
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Хусусияти нав:
-
 cfr-whatsnew-button =
     .label = Чӣ нав аст
     .tooltiptext = Чӣ нав аст
-
 cfr-whatsnew-release-notes-link-text = Қайдҳои бароришро хонед
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = Хуб
 cfr-doorhanger-doh-secondary-button = Ғайрифаъол кардан
     .accesskey = Ғ
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Видеоҳои ин сомона метаводанд дар ин версияи «{ -brand-short-name }» дуруст кор накунанд. Барои дастгирии пурраи видео, «{ -brand-short-name }»-ро ҳозир навсозӣ кунед.
 cfr-doorhanger-video-support-header = Барои пахш кардани видео «{ -brand-short-name }»-ро навсозӣ кунед
 cfr-doorhanger-video-support-primary-button = Ҳозир навсозӣ кунед
     .accesskey = Ҳ
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Бо { -mozilla-vpn-brand-name } ху
     .accesskey = Б
 spotlight-public-wifi-vpn-link = Ҳоло не
     .accesskey = Ҳ
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Ҳоло не
 
 mr2022-background-update-toast-title = «{ -brand-short-name }»-и нав. Маъфияти иловагӣ. Камтар васоити пайгирӣ. Бе хатарҳо.
 mr2022-background-update-toast-text = «{ -brand-short-name }»-и навтаринро ҳоли ҳозир озмоед ва аз муҳофизати боқувваттарини бар зидди пайгирӣ истифода баред.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = «{ -brand-shorter-name }»-ро ҳозир боз кунед
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Варақаҳои ба наздикӣ пӯшидаш�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Ба «{ -firefoxview-brand-name }» салом гӯед
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Шумо мехоҳед, ки варақаҳоро дар телефони худ кушоед? Онҳоро ба даст оред. Он сомонае, ки шумо як лаҳза пеш боздид кардед, лозим аст? Бемалол, онро тавассути «{ -firefoxview-brand-name }» барқарор кунед.
 firefoxview-spotlight-promo-primarybutton = Бинед, ки он чӣ тавр кор мекунад
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Нодида гузарондан
 
 colorways-cfr-primarybutton = Нақшу нигореро интихоб намоед
     .accesskey = Н
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Браузери худро бо ин сояҳои истисноии «{ -brand-short-name }» ранг кунед, аз садоҳое, ки фарҳанги тамошокуниро дигаргун карданд, илҳом гирифтанд.
 colorways-cfr-header-28days = Нақшу нигорҳои садоҳои мустақил дар 16 январ хомӯш мешаванд
@@ -228,7 +210,6 @@ july-jam-headline = Мо шуморо бо ғамхорӣ фаро гирифт�
 july-jam-body = Ҳар моҳ «{ -brand-short-name }» танҳо нисбат ба як корбар ба ҳисоби миёна зиёда аз 3000 воситаи пайгириро манъ мекунад ва ба шумо дастрасии бехатар ва босуръат ба Интернети хуб медиҳад.
 july-jam-set-default-primary = Кушодани пайвандҳои ман ба воситаи «{ -brand-short-name }»
 fox-doodle-pin-headline = Бозгаштатон муборак
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Ин хотиррасонии фаврӣ дар бораи он аст, ки шумо ҳамеша метавонед браузери дӯстдоштаю мустақилонаи худро ба даст оварда, истифода баред.
@@ -255,3 +236,22 @@ device-migration-fxa-spotlight-header = Аз дастгоҳи куҳна ист�
 device-migration-fxa-spotlight-body = Барои мутмаин шудан, ки шумо маълумоти муҳимро ба монанди хатбаракҳо ва ниҳонвожаҳо гум намекунед, нусхаи эҳтиётии маълумоти худро таҳия намоед, хусусан агар шумо ба дастгоҳи нав гузаронед.
 device-migration-fxa-spotlight-primary-button = Тарзи таҳия кардани нусхаи эҳтиётии маълумоти ман
 device-migration-fxa-spotlight-link = Баъдтар ёдоварӣ кунед
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Ҳамчун стандартӣ танзим кардан
+pdf-default-notification-decline-button =
+    .label = Ҳоло не
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Маълумоти бештар
+launch-on-login-infobar-reject-button = Ҳоло не
+    .accesskey = Ҳ
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Не, ташаккур
+    .accesskey = Н
