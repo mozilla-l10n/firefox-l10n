@@ -74,7 +74,7 @@ powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται απ
 # "Adjusted rating" means a star rating that has been adjusted to include only
 # reliable reviews.
 shopping-adjusted-rating-label =
-    .label = Προσαρμοσμένη βαθμολογία
+    .label = Αναπροσαρμοσμένη βαθμολογία
 
 ## Strings for the review reliability component
 
