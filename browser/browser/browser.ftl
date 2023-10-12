@@ -917,9 +917,21 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Terminar la session privada
+    .tooltiptext = Terminar la session privada
+reset-pbm-panel-heading = Terminar la session privada ?
+reset-pbm-panel-description = Tampar totes los onglets privats e suprimir l’istoric, los cookies e tota autra donadas dels sites.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Totjorn demandar
+    .accesskey = T
 reset-pbm-panel-cancel-button =
     .label = Anullar
     .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Suprimir las donadas de session
+    .accesskey = S
+reset-pbm-panel-complete = Donadas de session privada suprimidas
 
 ## Autorefresh blocker
 

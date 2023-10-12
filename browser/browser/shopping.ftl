@@ -38,6 +38,7 @@ shopping-letter-grade-tooltip =
 ## Strings for the shopping message-bar
 
 shopping-message-bar-warning-stale-analysis-button = Verificar ara
+shopping-message-bar-thanks-for-reporting-title = Mercés pel senhalament !
 
 ## Strings for the product review snippets card
 
