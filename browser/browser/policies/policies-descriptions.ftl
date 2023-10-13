@@ -62,7 +62,7 @@ policy-DownloadDirectory = ჩამოტვირთვის ნაგულ�
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = შიგთავსის შეზღუდვის ჩართვა ან გამორთვა და დამატებით ამ პარამეტრების ჩაკეტვა.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = ჩაირთოს ან გამოირთოს Encrypted Media Extensions და დამატებით, ჩაიკეტოს.
+policy-EncryptedMediaExtensions = ჩაირთოს ან გამოირთოს Encrypted Media Extensions და ამასთანავე, ჩაიკეტოს.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = გაითიშოს გაფრთხილებები გარკვეული სახის ფაილთა გაფართოებებისთვის დომენში.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
