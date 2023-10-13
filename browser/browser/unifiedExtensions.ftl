@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = For at beskytte dine data k
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nogle udvidelser er ikke tilladt
     .message = For at beskytte dine data kan nogle udvidelser ikke læse eller ændre data på dette websted. Gå til udvidelsens indstillinger for at tillade på websteder begrænset af { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Læs mere
+    .aria-label = Læs mere: Nogle udvidelser er ikke tilladt
