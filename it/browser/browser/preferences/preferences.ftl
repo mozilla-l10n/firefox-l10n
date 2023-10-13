@@ -16,6 +16,8 @@ global-privacy-control-description =
     .label = Segnala ai siti web di non vendere o condividere i miei dati
     .accesskey = S
 
+non-technical-privacy-header = Preferenze per la privacy dei siti web
+
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
