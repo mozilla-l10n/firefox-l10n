@@ -71,6 +71,16 @@ inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</st
 
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non è supportato in pseudo-elementi “::cue”.
 
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+         [one] <strong>{ $property }</strong> non ha effetto su questo elemento in quanto si estende su più di { $lineCount } riga.
+        *[other] <strong>{ $property }</strong> non ha effetto su questo elemento in quanto si estende su più di { $lineCount } righe.
+     }
+
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> non ha effetto su questo elemento in quanto è frammentato (il contenuto è distribuito su più colonne o pagine).
+
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
@@ -116,6 +126,10 @@ inactive-scroll-padding-when-not-scroll-container-fix = Provare ad aggiungere <s
 inactive-css-border-image-fix = Rimuovere la proprietà <strong>border-collapse</strong> o impostarla a un valore diverso da <strong>collapse</strong> nell’elemento genitore. { learn-more }
 
 inactive-css-ruby-element-fix = Provare a modificare <strong>font-size</strong> per la trascrizione fonetica. { learn-more }
+
+inactive-css-text-wrap-balance-lines-exceeded-fix = Provare a ridurre il numero di righe. { learn-more }
+
+inactive-css-text-wrap-balance-fragmented-fix = Evitare di distribuire il contenuto dell’elemento, ad esempio rimuovendo le colonne o utilizzando <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
