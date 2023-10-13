@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ไม่พบ�
 ##
 
 firefox-relay-must-login-to-fxa = คุณต้องเข้าสู่ระบบ{ -fxaccount-brand-name } จึงจะสามารถใช้ { -relay-brand-name } ได้
+firefox-relay-must-login-to-account = ลงชื่อเข้าบัญชีของคุณเพื่อใช้ตัวปกปิดอีเมล { -relay-brand-name } ของคุณ
 firefox-relay-get-unlimited-masks =
     .label = จัดการตัวปกปิด
     .accesskey = จ

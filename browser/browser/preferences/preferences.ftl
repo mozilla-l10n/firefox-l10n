@@ -1136,6 +1136,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = การเก็บรวบรวมและใช้ข้อมูล { -brand-short-name }
+collection-header2 = การเก็บรวบรวมและใช้ข้อมูล { -brand-short-name }
+    .searchkeywords = การวัดและส่งข้อมูลทางไกล
 collection-description = เรามุ่งมั่นที่จะให้ทางเลือกกับคุณและเก็บรวบรวมเฉพาะสิ่งที่เราจำเป็นต้องให้บริการและปรับปรุง { -brand-short-name } สำหรับทุกคน เราขออนุญาตก่อนที่จะรับข้อมูลส่วนบุคคลเสมอ
 collection-privacy-notice = ข้อกำหนดความเป็นส่วนตัว
 collection-health-report-telemetry-disabled = คุณจะไม่อนุญาตให้ { -vendor-short-name } เก็บข้อมูลทางเทคนิคและการโต้ตอบอีกต่อไป ข้อมูลที่ผ่านมาทั้งหมดจะถูกลบภายใน 30 วัน
