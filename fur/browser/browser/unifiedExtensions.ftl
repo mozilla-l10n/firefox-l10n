@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Par protezi i tiei dâts, c
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Cualchi estension no je consintude
     .message = Par protezi i tiei dâts, cualchi estension no pues lei o cambiâ i dâts su chest sît. Dopre lis impostazions de estension par permeti il so funzionament sui sîts cun restrizions identificâts di { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Plui informazions
+    .aria-label = Plui informazions: cualchi estension no je consintude
