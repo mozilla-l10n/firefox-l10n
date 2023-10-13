@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } n'ha chattà nag
 ##
 
 firefox-relay-must-login-to-fxa = Ti stos t'annunziar en il { -fxaccount-brand-name } per pudair utilisar { -relay-brand-name }.
+firefox-relay-must-login-to-account = T'annunzia en tes conto per utilisar tes alias dad e-mail da { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Administrar ils alias
     .accesskey = A

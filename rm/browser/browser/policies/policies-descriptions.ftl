@@ -91,6 +91,7 @@ policy-LocalFileLinks = Permetter a websites specificas dad utilisar colliaziuns
 policy-ManagedBookmarks = Configurescha ina glista da segnapaginas gestida dad in administratur. Ella na po betg vegnir midada da l'utilisader.
 policy-ManualAppUpdateOnly = Mo permetter actualisaziuns manualas e betg infurmar l'utilisader davart actualisaziuns.
 policy-PrimaryPassword = Pretender u impedir l'utilisaziun dad in pled-clav universal.
+policy-PrintingEnabled = Activar u deactivar la funcziun da stampar.
 policy-NetworkPrediction = Activar u deactivar «network prediction» (prelectura DNS).
 policy-NewTabPage = Activar u deactivar la pagina «Nov tab».
 policy-NoDefaultBookmarks = Deactivar la creaziun dals segnapaginas predefinids da { -brand-short-name } ed ils segnapaginas intelligents (Visità il pli savens, Chavazzins utilisads dacurt). Remartga: questa directiva ha mo effect sch'ella vegn utilisada avant ch'il profil vegn avert l'emprima giada.

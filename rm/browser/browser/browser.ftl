@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Extensiuns
         Tschertas extensiuns n'èn betg permessas
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Terminar la sesida privata
+    .tooltiptext = Terminar la sesida privata
+reset-pbm-panel-heading = Terminar tia sesida privata?
+reset-pbm-panel-description = Serrar tut ils tabs privats e stizzar la cronologia, ils cookies e tut tschellas datas da websites.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Adina ma dumandar
+    .accesskey = A
+reset-pbm-panel-cancel-button =
+    .label = Interrumper
+    .accesskey = I
+reset-pbm-panel-confirm-button =
+    .label = Stizzar las datas da la sesida
+    .accesskey = d
+reset-pbm-panel-complete = Stizzà las datas da la sesida privata
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ha impedì che questa pagina d'internet vegnia chargiada danovamain.

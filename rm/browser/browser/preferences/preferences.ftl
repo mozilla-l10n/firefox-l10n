@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dir a websites da betg vender u cundivider mias datas
     .accesskey = s
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Parameters
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Avrir fanestras e tabs precedents
     .accesskey = s
+windows-launch-on-login =
+    .label = Avrir automaticamain { -brand-short-name } cura ch'il computer vegn avià
+    .accesskey = o
+windows-launch-on-login-disabled = Questa preferenza è vegnida deactivada en Windows. Per midar, visitar <a data-l10n-name="startup-link">Startup Apps</a> en ils parameters dal sistem.
 startup-restore-warn-on-quit =
     .label = Avisar avant che terminar il navigatur
 disable-extension =
@@ -1003,6 +1011,10 @@ content-blocking-enhanced-tracking-protection = Protecziun avanzada cunter il fa
 content-blocking-section-top-level-description = Fastizaders ta suondan online per rimnar infurmaziuns davart tias disas da navigar e tes interess. { -brand-short-name } blochescha blers da quests fastizaders ed auters scripts donnegius.
 content-blocking-learn-more = Ulteriuras infurmaziuns
 content-blocking-fpi-incompatibility-warning = La funcziun First Party Isolation (FPI) è actualmain activa e surscriva tscherts parameters da cookies da { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = La funcziun Resist Fingerprinting (RFP) è actualmain activa e remplazza tscherts parameters da protecziun da { -brand-short-name } cunter improntaders. Quai po avair per consequenza che tschertas websites na funcziunan betg pli endretg.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1210,6 +1222,9 @@ certs-view =
 certs-devices =
     .label = Apparats da segirezza…
     .accesskey = p
+certs-thirdparty-toggle =
+    .label = Permetter a { -brand-short-name } dad automaticamain considerar certificats root da terzas partidas che ti installeschas sco fidabels
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Avrir ils parameters
     .accesskey = A
