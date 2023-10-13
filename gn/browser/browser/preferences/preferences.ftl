@@ -1011,6 +1011,10 @@ content-blocking-enhanced-tracking-protection = Tapykueho mo’ãha iporãvéva
 content-blocking-section-top-level-description = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 content-blocking-learn-more = Eikuaave
 content-blocking-fpi-incompatibility-warning = Eiporuhína First Party Isolation (FPI), oipe’áva ndahetái kookie ñemboheko { -brand-short-name } mba’éva.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Eipuru Resist Fingerprinting (RFP), omyengoviáva peteĩva umi kuãhũ ñemboheko mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuãikuaa tendakuérape.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
