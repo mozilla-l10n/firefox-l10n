@@ -8,6 +8,7 @@ profiledowngrade-window2 =
 profiledowngrade-window-create =
     .label = Emoheñói mba’ete pyahu
 profiledowngrade-sync = Eiporúramo { -brand-product-name } rembiapokue itujavéva ikatu ombyai techaukaha ha kundaha rembiasakue ñongatupyre { -brand-product-name } mba’ete pegua. Emo’ã hag̃ua umi marandu, emoheñóiva’erã mba’ete pyahu ko ñemohendapyre { -brand-short-name } peg̃uarã. Ikatu eike tapia { -fxaccount-brand-name } ndive emoñondive hag̃ua techaukaha ha kundaha rembiasakue mba’etekuéra apytépe.
+profiledowngrade-sync2 = Eipurúrõ { -brand-product-name } rembiapokue itujavéva ombyaikuaa techaukaha ha kundaha rembiasakue ñongatupyre { -brand-product-name } mba’etépe. Emo’ã hag̃ua ne marandu, emoheñói mba’ete pyahu ko ñemohendapyre { -brand-short-name } peg̃uarã. Emoñepyrũ tembiapo mba’ete ndive embojuehe hag̃ua erohoryvéva ha ne ñeikundaha rembiasakue mba’etekuéra pa’ũme.
 profiledowngrade-nosync = Eiporúramo { -brand-product-name } rembiapokue itujavéva ikatu ombyai techaukaha ha avei kundaha rembiasakue { -brand-product-name } mba’etépe ñongatupyréva. Emo’ã hag̃ua ne marandu emoheñói mba’ete pyahu ko { -brand-short-name } ñembohekópe g̃uarã.
 profiledowngrade-quit =
     .label =
