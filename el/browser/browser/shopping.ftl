@@ -77,6 +77,7 @@ powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται απ
 # reliable reviews.
 shopping-adjusted-rating-label =
     .label = Αναπροσαρμοσμένη βαθμολογία
+shopping-adjusted-rating-unreliable-reviews = Οι αναξιόπιστες κριτικές αφαιρέθηκαν
 
 ## Strings for the review reliability component
 
