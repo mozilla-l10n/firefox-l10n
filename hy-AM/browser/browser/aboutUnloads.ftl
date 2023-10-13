@@ -7,11 +7,10 @@
 ### feature.
 
 about-unloads-page-title = Ներդիրի ապավերբեռնավորում
-
 about-unloads-column-priority = Առաջնահերթություն
 about-unloads-column-host = Հոսթ
 about-unloads-column-last-accessed = Վերջին մատչում
-
+about-unloads-last-accessed = { DATETIME($date, year: "numeric", month: "numeric", day: "numeric", hour: "numeric", minute: "numeric", second: "numeric", hour12: "false") }
 about-unloads-memory-in-mb = { NUMBER($mem, maxFractionalUnits: 2) } ՄԲ
 about-unloads-memory-in-mb-tooltip =
     .title = { NUMBER($mem, maxFractionalUnits: 2) } ՄԲ

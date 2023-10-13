@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Ներբեռնվում է { -brand-shorter-name }-ի արդիացումը
-
 appmenuitem-banner-update-available =
     .label = Արդիացում է մատչելի՝ ներբեռնեք հիմա
-
 appmenuitem-banner-update-manual =
     .label = Արդիացում է մատչելի՝ ներբեռնեք հիմա
-
 appmenuitem-banner-update-unsupported =
     .label = Անհնար է արդիացնել՝ համակարգը անհամատեղելի է
-
 appmenuitem-banner-update-restart =
     .label = Մատչելի է արդիացում՝ վերագործարկեք
-
 appmenuitem-new-tab =
     .label = Նոր Ներդիր
 appmenuitem-new-window =
@@ -38,6 +33,8 @@ appmenuitem-print =
     .label = Տպել…
 appmenuitem-find-in-page =
     .label = Գտնել էջում…
+appmenuitem-translate =
+    .label = Թարգմանել էջը…
 appmenuitem-zoom =
     .value = Մասշտաբը
 appmenuitem-more-tools =
@@ -50,7 +47,12 @@ appmenuitem-exit2 =
             [linux] Դուրս գալ
            *[other] Փակել
         }
-
+appmenu-menu-button-closed2 =
+    .tooltiptext = Բացել հավելվածի ցանկը
+    .label = { -brand-short-name }
+appmenu-menu-button-opened2 =
+    .tooltiptext = Փակել հավելվածի ցանկը
+    .label = { -brand-short-name }
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -71,41 +73,39 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Մուտք գործեք՝ համաժամեցնելու համար…
 appmenu-remote-tabs-turn-on-sync =
     .label = Միացնել համաժամեցումը…
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Չկան բաց ներդիրներ
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Միացրեք ներդիրների համաժամեցումը՝ տեսնելու այլ սարքերից ձեր ներդիրների ցանկը։
-
 appmenu-remote-tabs-opensettings =
     .label = Կարգավորումներ
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ցանկանու՞մ եք տեսնել ձեր այլ սարքերի ներդիրները:
-
 appmenu-remote-tabs-connectdevice =
     .label = Կապակցվել այլ սարքի
 appmenu-remote-tabs-welcome = Դիտել ձեր մյուս սարքերի ներդիրների ցուցակը:
 appmenu-remote-tabs-unverified = Ձեր հաշիվը պետք է ստուգվի:
-
 appmenuitem-fxa-toolbar-sync-now2 = Համաժամեցնել
 appmenuitem-fxa-sign-in = Մուտք գործել { -brand-product-name }
 appmenuitem-fxa-manage-account = Կառավարել հաշիվը
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Հաշիվ
+# Variables
+# $time (string) - Localized relative time since last sync (e.g. 1 second ago,
+# 3 hours ago, etc.)
+appmenu-fxa-last-sync = Վերջին համաժամացումը { $time }
+    .label = Վերջին համաժամացումը { $time }
 appmenu-fxa-sync-and-save-data2 = Համաժամեցնել և պահել տվյալները
 appmenu-fxa-signed-in-label = Մուտք գործել
 appmenu-fxa-setup-sync =
     .label = Միացնել համաժամացումը…
-
 appmenuitem-save-page =
     .label = Պահպանել Էջը որպես…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Ինչն է նոր
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -119,36 +119,26 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Հատկագրող
     .tooltiptext = Գրառել իրականացման հատկագիրը
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-learn-more-button =
     .label = Իմանալ ավելին
-
 profiler-popup-settings =
     .value = Կարգավորումներ
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Խմբագրել կարգավորումները…
-
 profiler-popup-recording-screen = Գրանցում...
-
 profiler-popup-start-recording-button =
     .label = Սկսել գրանցում
-
 profiler-popup-discard-button =
     .label = Մերժել
-
 profiler-popup-capture-button =
     .label = Կորզել
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -160,33 +150,22 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-label =
     .label = Վեբ մշակող
-
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-label =
     .label = Գրաֆիկա
-
 profiler-popup-presets-media-label =
     .label = Մեդիա
-
 profiler-popup-presets-networking-label =
     .label = Ցանցարկում
-
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Հոսանք
-
 profiler-popup-presets-custom-label =
     .label = Ընտրված
 
@@ -203,9 +182,14 @@ appmenu-recently-closed-tabs =
     .label = Վերջին փակված ներդիրները
 appmenu-recently-closed-windows =
     .label = Վերջին փակված պատուհանները
+# This allows to search through the browser's history.
+appmenu-search-history =
+    .label = Որոնման պատմություն
 
 ## Help panel
 
+appmenu-help-header =
+    .title = { -brand-shorter-name }-ի օգնությունը
 appmenu-about =
     .label = { -brand-shorter-name }-ի մասին
     .accesskey = մ
@@ -217,6 +201,9 @@ appmenu-help-more-troubleshooting-info =
     .accesskey = t
 appmenu-help-report-site-issue =
     .label = Զեկուցել կայքի խնդրի մասին…
+appmenu-help-share-ideas =
+    .label = Կիսվեք գաղափարներով և կարծիքներով…
+    .accesskey = S
 appmenu-help-switch-device =
     .label = Անցում նոր սարքի
 
@@ -241,7 +228,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Հարմարեցնել Գործիքագոտին...
-
 appmenu-developer-tools-subheader = Զննիչի գործիքներ
 appmenu-developer-tools-extensions =
     .label = Ընդլայնումներ մշակողների համար
