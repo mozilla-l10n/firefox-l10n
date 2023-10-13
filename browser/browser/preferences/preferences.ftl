@@ -980,6 +980,11 @@ cookie-banner-learn-more = Ulteriori informazioni
 forms-handle-cookie-banners =
     .label = Riduci banner per i cookie
 
+cookie-banner-blocker-header = Blocco dei banner per i cookie
+cookie-banner-blocker-description = Quando un sito chiede di poter utilizzare i cookie in una finestra anonima, { -brand-short-name } rifiuta automaticamente la richiesta. La funzione è disponibile solo nei siti supportati.
+cookie-banner-blocker-checkbox-label =
+    .label = Rifiuta automaticamente i banner per i cookie
+
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra degli indirizzi
