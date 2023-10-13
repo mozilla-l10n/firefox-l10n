@@ -248,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Åbner du { -brand-short-name } hver gang, du genstarter din computer?</strong> Du kan nu indstille { -brand-short-name } til at åbne automatisk, når du genstarter din enhed.
 launch-on-login-learnmore = Lær mere
 launch-on-login-infobar-confirm-button = Ja, åbn { -brand-short-name }
     .accesskey = J
@@ -257,5 +258,6 @@ launch-on-login-infobar-reject-button = Ikke nu
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Åbner du { -brand-short-name } hver gang, du genstarter din computer?</strong> Søg efter "opstart" i indstillingerne for at ændre dine indstillinger for opstart.
 launch-on-login-infobar-final-reject-button = Nej tak
     .accesskey = N
