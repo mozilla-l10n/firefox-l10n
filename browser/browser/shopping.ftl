@@ -191,6 +191,12 @@ shopping-onboarding-headline = Prøv vores guide til pålidelige produktanmeldel
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Se hvor pålidelige anmeldelserne af produkter er på <b>{ $currentSite }</b> før du køber. Verificering af anmeldelser, en eksperimentel funktion fra { -vendor-short-name } er indbygget i { -brand-product-name } - og virker også på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Se hvor pålidelige anmeldelserne af produkter er på <b>{ $currentSite }</b> før du køber. Verificering af anmeldelser, en eksperimentel funktion fra { -brand-product-name } er indbygget i browseren. Den virker også på <b>{ $secondSite }</b> og <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Ved hjælp af { -fakespot-brand-full-name } kan vi hjælpe dig med at undgå partiske og upålidelige anmeldelser. Vores AI-model forbedres hele tiden for at beskytte dig, når du shopper. <a data-l10n-name="learn_more">Læs mere</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ved at vælge "{ shopping-onboarding-opt-in-button }" godkender du { -fakespot-brand-full-name }s <a data-l10n-name="privacy_policy">privatlivspolitik</a> og <a data-l10n-name="terms_of_use">betingelser for brug.</a>
 shopping-onboarding-opt-in-button = Ja, prøv det
