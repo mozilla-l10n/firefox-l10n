@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Telechargiar l'actualisaziun da { -brand-shorter-name }
-
 appmenuitem-banner-update-available =
     .label = Actualisaziun disponibla – ussa telechargiar
-
 appmenuitem-banner-update-manual =
     .label = Actualisaziun disponibla – ussa telechargiar
-
 appmenuitem-banner-update-unsupported =
     .label = Impussibel dad actualisar – sistem incumpatibel
-
 appmenuitem-banner-update-restart =
     .label = Actualisaziun disponibla – ussa reaviar
-
 appmenuitem-new-tab =
     .label = Nov tab
 appmenuitem-new-window =
@@ -58,7 +53,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Serrar il menu d'applicaziun
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -79,34 +73,28 @@ appmenu-remote-tabs-sign-into-sync =
     .label = S'annunziar per sincronisar…
 appmenu-remote-tabs-turn-on-sync =
     .label = Activar la sincronisaziun…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Mussar dapli tabs
     .tooltiptext = Mussar ulteriurs tabs da quest apparat
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Nagins tabs averts
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Activescha la sincronisaziun da tabs per vesair ina glista dals tabs da tes auters apparats.
-
 appmenu-remote-tabs-opensettings =
     .label = Parameters
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Vuls ti vesair qua tes tabs dad auters apparats?
-
 appmenu-remote-tabs-connectdevice =
     .label = Colliar in auter apparat
 appmenu-remote-tabs-welcome = Mussar ina glista dals tabs da tes auters apparats.
 appmenu-remote-tabs-unverified = Tes conto sto vegnir verifitgà.
-
 appmenuitem-fxa-toolbar-sync-now2 = Sincronisar ussa
 appmenuitem-fxa-sign-in = S'annunziar tar { -brand-product-name }
 appmenuitem-fxa-manage-account = Administrar il conto
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Conto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -116,14 +104,12 @@ appmenu-fxa-sync-and-save-data2 = Sincronisar e memorisar las datas
 appmenu-fxa-signed-in-label = S'annunziar
 appmenu-fxa-setup-sync =
     .label = Activar la sincronisaziun…
-
 appmenuitem-save-page =
     .label = Memorisar la pagina sut…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novaziuns
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -137,52 +123,37 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Analisa da la prestaziun
     .tooltiptext = Registrar in profil per l'analisa da la prestaziun
-
 profiler-popup-button-recording =
     .label = Profilader
     .tooltiptext = Il profilader registrescha in profil
-
 profiler-popup-button-capturing =
     .label = Profilader
     .tooltiptext = Il profilader registrescha in profil
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Mussar ulteriuras infurmaziuns
-
 profiler-popup-description-title =
     .value = Registrar, analisar, cundivider
-
 profiler-popup-description = Collavurar en cas da problems da prestaziun cun publitgar profils per als cundivider cun tes team.
-
 profiler-popup-learn-more-button =
     .label = Ulteriuras infurmaziuns
-
 profiler-popup-settings =
     .value = Parameters
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modifitgar ils parameters…
-
 profiler-popup-recording-screen = Registraziun…
-
 profiler-popup-start-recording-button =
     .label = Cumenzar a registrar
-
 profiler-popup-discard-button =
     .label = Sbittar
-
 profiler-popup-capture-button =
     .label = Registrar
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Ctrl+Shift+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -194,39 +165,28 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Preselecziun recumandada per il debugadi da las bleras web-apps cun pitschen overhead.
 profiler-popup-presets-web-developer-label =
     .label = Svilup web
-
 profiler-popup-presets-firefox-description = Preselecziun recumandada per il profiladi da { -brand-shorter-name }.
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Preselecziun per examinar sbagls da grafica en { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafica
-
 profiler-popup-presets-media-description2 = Preselecziun per examinar sbagls dad audio e video en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Multimedia
-
 profiler-popup-presets-networking-description = Preselecziun per examinar sbagls da rait en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Rait
-
 profiler-popup-presets-power-description = Preselecziun per examinar sbagls en connex cun il consum d'energia en { -brand-shorter-name }, cun pauc overhead.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energia
-
 profiler-popup-presets-custom-label =
     .label = Persunalisà
 
@@ -292,7 +252,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Persunalisar la trav d'utensils…
-
 appmenu-developer-tools-subheader = Utensils dal navigatur
 appmenu-developer-tools-extensions =
     .label = Extensions for Developers

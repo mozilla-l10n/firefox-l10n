@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Funcziunalitad recumandada
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pertge ves jau quai
-
 cfr-doorhanger-extension-cancel-button = Betg ussa
     .accesskey = B
-
 cfr-doorhanger-extension-ok-button = Agiuntar ussa
     .accesskey = A
-
 cfr-doorhanger-extension-manage-settings-button = Administrar ils parameters da recumandaziun
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Betg ma mussar questa recumandaziun
     .accesskey = B
-
 cfr-doorhanger-extension-learn-more-link = Ulteriuras infurmaziuns
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = da { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recumandaziun
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Recumandaziun
     .tooltiptext = Recumandaziun dad extensiun
     .a11y-announcement = Ina recumandaziun per ina extensiun è disponibla
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Recumandaziun
     .tooltiptext = Recumandaziun da funcziun
     .a11y-announcement = Ina recumandaziun per ina funcziun è disponibla
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Ulteriuras infurmaziuns
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funcziunalitad:
-
 cfr-whatsnew-button =
     .label = Novaziuns
     .tooltiptext = Novaziuns
-
 cfr-whatsnew-release-notes-link-text = Leger las notizias davart la versiun
 
 ## Enhanced Tracking Protection Milestones
@@ -116,16 +108,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Deactivar
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videos sin questa website na vegnan eventualmain betg reproducids endretg cun questa versiun da { -brand-short-name }. Per garantir il sustegn cumplet da video, actualisescha ussa { -brand-short-name }.
 cfr-doorhanger-video-support-header = Actualisar { -brand-short-name } per far ir il video
 cfr-doorhanger-video-support-primary-button = Actualisar ussa
     .accesskey = u
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -140,8 +128,6 @@ spotlight-public-wifi-vpn-primary-button = Salva tia sfera privata cun { -mozill
     .accesskey = S
 spotlight-public-wifi-vpn-link = Betg ussa
     .accesskey = B
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -171,13 +157,11 @@ spotlight-pin-secondary-button = Betg ussa
 
 mr2022-background-update-toast-title = Il nov { -brand-short-name }. Pli discret. Damain fastizaders. Nagins cumpromiss.
 mr2022-background-update-toast-text = Emprova ussa il pli nov { -brand-short-name }, actualisà cun nossa protecziun cunter fastizaders la pli ferma d'enfin qua.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Avrir ussa { -brand-shorter-name }
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -196,7 +180,6 @@ firefoxview-cfr-body-v2 = Va per tabs serrads dacurt e siglia ultra da quai a mo
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Nus ta mussain { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vuls ti avair quel tab avert sin tes telefonin? Va per el. Dovras ti la website che ti has gist visità? Zac ed ella è puspè qua cun { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Mussar co che quai funcziuna
@@ -206,7 +189,6 @@ firefoxview-spotlight-promo-secondarybutton = Sursiglir
 
 colorways-cfr-primarybutton = Tscherner ina cumbinaziun da colurs
     .accesskey = T
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Colurescha tes navigatur cun las nianzas da colurs exclusivas da { -brand-short-name } inspiradas da las vuschs independentas che han midà la societad.
 colorways-cfr-header-28days = La cumbinaziun da colurs «vuschs independentas» scada ils 16 da schaner
@@ -229,7 +211,6 @@ july-jam-headline = Nus defendain tai
 july-jam-body = Mintga mais blochescha { -brand-short-name } en media passa 3'000 fastizaders per utilisader. Uschia vegns ti svelt e segir en l'internet.
 july-jam-set-default-primary = Avrir mias colliaziuns cun { -brand-short-name }
 fox-doodle-pin-headline = Bel da ta vesair puspè!
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Nus vulain ta regurdar che ti pos tegnair tes navigatur independent adina per mauns ed accessibel cun mo in clic.
@@ -256,3 +237,28 @@ device-migration-fxa-spotlight-header = Utiliseschas ti in apparat pli vegl?
 device-migration-fxa-spotlight-body = Fa copias da segirezza da tias datas per far la segira che ti na perdas betg infurmaziuns impurtantas sco segnapaginas e pleds-clav – specialmain sche ti midas ad in nov apparat.
 device-migration-fxa-spotlight-primary-button = Co far copias da segirezza da mias datas
 device-migration-fxa-spotlight-link = Ma regurdar pli tard
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Far da { -brand-short-name } tes lectur PDF predefinì?</strong> Utilisescha { -brand-short-name } per leger e modifitgar PDFs memorisads sin tes computer.
+pdf-default-notification-set-default-button =
+    .label = Definir sco standard
+pdf-default-notification-decline-button =
+    .label = Betg ussa
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Avrir { -brand-short-name } mintga giada che ti reavieschas tes computer?</strong> Ti pos ussa configurar { -brand-short-name } uschia ch'il navigatur vegn avert automaticamain sche ti reavieschas tes apparat.
+launch-on-login-learnmore = Ulteriuras infurmaziuns
+launch-on-login-infobar-confirm-button = Gea, avrir { -brand-short-name }
+    .accesskey = G
+launch-on-login-infobar-reject-button = Betg ussa
+    .accesskey = B
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Ti avras { -brand-short-name } mintga giada cura che ti reavieschas tes computer?</strong> Per administrar tias preferenzas en connex cun l'aviar, tschertgar «aviar» en ils parameters.
+launch-on-login-infobar-final-reject-button = Na, grazia
+    .accesskey = N
