@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Per proteger tias datas na 
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Tschertas extensiuns n'èn betg permessas
     .message = Per proteger tias datas na pon tschertas extensiuns betg leger u midar datas sin questa website. Utilisescha ils parameters da l'extensiun per permetter l'access a websites che { -vendor-short-name } ha bloccà.
+unified-extensions-mb-quarantined-domain-learn-more = Ulteriuras infurmaziuns
+    .aria-label = Ulteriuras infurmaziuns: Tschertas extensiuns n'èn betg permessas
