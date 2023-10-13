@@ -74,6 +74,9 @@ about-private-browsing-cookie-banners-promo-header = Stop ai banner per i cookie
 about-private-browsing-cookie-banners-promo-button = Riduci i banner per i cookie
 about-private-browsing-cookie-banners-promo-message = Consenti a { -brand-short-name } di rispondere automaticamente alle richieste nei pop-up per i cookie, così potrai ritornare a navigare senza distrazioni. Dove possibile, { -brand-short-name } rifiuterà tutte le richieste.
 
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } si prende cura dei banner per i cookie al posto tuo
+about-private-browsing-cookie-banners-promo-body = Rifiutiamo automaticamente diversi banner per i cookie, così verrai tracciato di meno e potrai tornare a navigare senza distrazioni.
+
 about-private-browsing-felt-privacy-v1-info-header = Non lasciare tracce su questo dispositivo
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name} elimina i cookie, la cronologia e i dati dei siti web quando chiudi tutte le finestre anonime.
 about-private-browsing-felt-privacy-v1-info-link = Chi potrebbe vedere la mia attività?
