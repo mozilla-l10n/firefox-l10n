@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Anbefalet udvidelse
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hvorfor får jeg vist dette?
-
 cfr-doorhanger-extension-cancel-button = Ikke nu
     .accesskey = I
-
 cfr-doorhanger-extension-ok-button = Tilføj nu
     .accesskey = T
-
 cfr-doorhanger-extension-manage-settings-button = Håndter indstillinger for anbefalinger
     .accesskey = H
-
 cfr-doorhanger-extension-never-show-recommendation = Vis ikke denne anbefaling
     .accesskey = V
-
 cfr-doorhanger-extension-learn-more-link = Læs mere
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = af { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Anbefaling
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Anbefaling
     .tooltiptext = Anbefalet udvidelse
     .a11y-announcement = Anbefalet udvidelse tilgængelig
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Anbefaling
     .tooltiptext = Anbefalet funktion
     .a11y-announcement = Anbefalet funktion tilgængelig
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Læs mere
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Ny funktion:
-
 cfr-whatsnew-button =
     .label = Nyheder
     .tooltiptext = Nyheder
-
 cfr-whatsnew-release-notes-link-text = Læs udgivelsesnoterne
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = Okay
 cfr-doorhanger-doh-secondary-button = Deaktiver
     .accesskey = D
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videoer på dette websted afspilles måske ikke korrekt i denne version af { -brand-short-name }. Opdater { -brand-short-name } nu for fuld understøttelse af video.
 cfr-doorhanger-video-support-header = Opdater { -brand-short-name } for at afspille video
 cfr-doorhanger-video-support-primary-button = Opdater nu
     .accesskey = O
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Beskyt dit privatliv med { -mozilla-v
     .accesskey = B
 spotlight-public-wifi-vpn-link = Ikke nu
     .accesskey = k
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Ikke nu
 
 mr2022-background-update-toast-title = Den nye { -brand-short-name }. Mere privat. Færre sporings-mekanismer. Ingen kompromisser.
 mr2022-background-update-toast-text = Prøv den nyeste { -brand-short-name }, opgraderet med vores hidtil stærkeste beskyttelse mod sporing.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Åbn { -brand-shorter-name } nu
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Få nyligt lukkede faneblade tilbage og skift hurtigt 
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = Prøv { -firefoxview-brand-name }
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = Vil du se et åbent faneblad på din telefon? Hent det. Har du brug for en side, du besøgte tidligere? Find den i { -firefoxview-brand-name }.
 firefoxview-spotlight-promo-primarybutton = Se, hvordan det fungerer
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Spring over
 
 colorways-cfr-primarybutton = Vælg farvekombination
     .accesskey = V
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Sæt farve på din browser med eksklusive { -brand-short-name }-farvetemaer inspireret af stemmer, der ændrer kulturen.
 colorways-cfr-header-28days = Farvekombinationerne "Uafhængige stemmer" udløber den 16. januar
@@ -228,7 +210,6 @@ july-jam-headline = Vi beskytter dig
 july-jam-body = Hver måned blokerer { -brand-short-name } i gennemsnit mere end 3000 sporings-tjenester per bruger, så du kan få sikker og hurtig adgang til internettet.
 july-jam-set-default-primary = Åbn mine links med { -brand-short-name }
 fox-doodle-pin-headline = Velkommen tilbage
-
 # “indie” is short for the term “independent”.
 # In this instance, free from outside influence or control.
 fox-doodle-pin-body = Her er en hurtig påmindelse om, at du kan have din uafhængige favorit-browser et enkelt klik borte.
@@ -255,3 +236,26 @@ device-migration-fxa-spotlight-header = Bruger du en ældre enhed?
 device-migration-fxa-spotlight-body = Tag en sikkerhedskopi af dine data for at sikre, at du ikke mister vigtige oplysninger som bogmærker og adgangskoder - især hvis du skifter til en ny enhed.
 device-migration-fxa-spotlight-primary-button = Sådan sikkerhedskopierer du dine data
 device-migration-fxa-spotlight-link = Påmind mig senere
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Vil du gøre { -brand-short-name } til din standard-PDF-læser?</strong> Brug { -brand-short-name } til at læse og redigere PDF-filer, du har gemt på din computer.
+pdf-default-notification-set-default-button =
+    .label = Brug som standard
+pdf-default-notification-decline-button =
+    .label = Ikke nu
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Lær mere
+launch-on-login-infobar-confirm-button = Ja, åbn { -brand-short-name }
+    .accesskey = J
+launch-on-login-infobar-reject-button = Ikke nu
+    .accesskey = k
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Nej tak
+    .accesskey = N

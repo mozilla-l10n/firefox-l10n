@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produktet er ikke tilgængeligt
     .message = Hvis du har set, at produktet er på lager igen, må du gerne rapportere det. Så kan vi kontrollere anmeldelserne.
+shopping-message-bar-warning-product-not-available-button2 = Rapporter at produktet er på lager
 shopping-message-bar-thanks-for-reporting =
     .heading = Tak for hjælpen!
     .message = Vi burde have oplysninger om anmeldelser af dette produkt indenfor 24 timer. Prøv igen senere.
