@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Барои муҳофиза
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Баъзе васеъшавиҳо иҷозат дода намешаванд
     .message = Барои муҳофизат кардани маълумоти шумо, баъзе васеъшавиҳо наметавонанд, ки дар ин сомона маълумотро хонанд ё тағйир диҳанд. Барои иҷозат додан ба сомонаҳое, ки аз тарафи «{ -vendor-short-name }» маҳдуд карда шудаанд, аз танзимоти васеъшавиҳо истифода баред.
+unified-extensions-mb-quarantined-domain-learn-more = Маълумоти бештар
+    .aria-label = Маълумоти бештар: Баъзе васеъшавиҳо иҷозат дода намешаванд

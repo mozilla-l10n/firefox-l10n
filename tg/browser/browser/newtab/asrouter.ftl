@@ -247,6 +247,8 @@ pdf-default-notification-decline-button =
 ## Launch on login infobar notification
 
 launch-on-login-learnmore = Маълумоти бештар
+launch-on-login-infobar-confirm-button = Ҳа,  «{ -brand-short-name }»-ро кушоед
+    .accesskey = Ҳ
 launch-on-login-infobar-reject-button = Ҳоло не
     .accesskey = Ҳ
 

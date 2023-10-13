@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Маҳсул дастнорас аст
     .message = Агар шумо бинед, ки ин маҳсул аз нав дастрас бошад, гузориш диҳед ва мо тақризҳои онро тафтиш мекунем.
+shopping-message-bar-warning-product-not-available-button2 = Огоҳ кунед, ки маҳсул дастрас аст
 shopping-message-bar-thanks-for-reporting =
     .heading = Ташаккур барои гузориш!
     .message = Мо бояд дар муддати 24 соат дар бораи тақризҳои ин маҳсул маълумот гирем. Лутфан, аз нав дертар тафтиш кунед.
