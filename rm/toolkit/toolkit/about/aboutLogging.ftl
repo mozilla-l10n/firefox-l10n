@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Moduls da protocollaziun per diagnostitgar problems cun WebGPU
 about-logging-preset-gfx-label = Grafica
 about-logging-preset-gfx-description = Moduls da protocollaziun per diagnostitgar problems da grafica
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Moduls da protocollaziun per diagnostitgar problems specifics cun Microsoft Windows
 about-logging-preset-custom-label = Persunalisà
 about-logging-preset-custom-description = Moduls da protocollaziun tschernids manualmain
 # Error handling
