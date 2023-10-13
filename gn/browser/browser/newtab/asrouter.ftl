@@ -240,7 +240,7 @@ device-migration-fxa-spotlight-link = Chemomandu’a ag̃ave
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>¿Ejapo { -brand-short-name } PDF moñe’ẽha ypygua</strong> Eipuru { -brand-short-name } emoñe’ẽ hag̃ua ha embosako’i PDF marandurenda ñongatupyre ne mohendahápe.
+pdf-default-notification-message = <strong>¿Ejapo { -brand-short-name } PDF moñe’ẽha ypygua</strong> Eiporu { -brand-short-name } emoñe’ẽ hag̃ua ha embosako’i PDF marandurenda ñongatupyre ne mohendahápe.
 pdf-default-notification-set-default-button =
     .label = Eiporu ijypykuévaramo
 pdf-default-notification-decline-button =

@@ -129,7 +129,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Embjuruja { -brand-short-name } ijeheguiete hendývo ne mohendaha
     .accesskey = O
-windows-launch-on-login-disabled = Ko jeguerohoryvéva osẽma Windows-gui. Emoambue hag̃ua, eike <a data-l10n-name="startup-link">Tembipuru’i ñepyrũgua</a> apopyvusu ñembohekópe.
+windows-launch-on-login-disabled = Ko jeguerohoryvéva osẽma Windows-gui. Emoambue hag̃ua, eike <a data-l10n-name="startup-link">Tembiporu’i ñepyrũgua</a> apopyvusu ñembohekópe.
 startup-restore-warn-on-quit =
     .label = Eñatoĩva’erã esẽnguévo kundahágui.
 disable-extension =
@@ -1014,7 +1014,7 @@ content-blocking-fpi-incompatibility-warning = Eiporuhína First Party Isolation
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Eipuru Resist Fingerprinting (RFP), omyengoviáva peteĩva umi kuãhũ ñemboheko mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuãikuaa tendakuérape.
+content-blocking-rfp-incompatibility-warning = Eiporu Resist Fingerprinting (RFP), omyengoviáva peteĩva umi kuãhũ ñemboheko mo’ãha { -brand-short-name } mba’évape. Kóva omoapañuãikuaa tendakuérape.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
