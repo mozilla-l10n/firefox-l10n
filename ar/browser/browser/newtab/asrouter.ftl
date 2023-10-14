@@ -194,7 +194,7 @@ set-default-pdf-handler-primary = فهمت
 
 fxa-sync-cfr-header = جهاز جديد في مستقبلك؟
 fxa-sync-cfr-primary = اطّلع على المزيد
-    .accesskey = { "" }
+    .accesskey = ل
 fxa-sync-cfr-secondary = ذكّرني لاحقًا
     .accesskey = ذ
 
