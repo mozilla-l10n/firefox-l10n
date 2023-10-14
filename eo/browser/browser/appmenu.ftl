@@ -7,19 +7,14 @@
 
 appmenuitem-banner-update-downloading =
     .label = Ĝisdatigo de { -brand-shorter-name } elŝutata
-
 appmenuitem-banner-update-available =
     .label = Ĝisdatigo disponebla — elŝuti nun
-
 appmenuitem-banner-update-manual =
     .label = Ĝisdatigo disponebla — elŝuti nun
-
 appmenuitem-banner-update-unsupported =
     .label = Ne eblas ĝisdatigi — nekongrua sistemo
-
 appmenuitem-banner-update-restart =
     .label = Ĝisdatigo disponebla — restartigi nun
-
 appmenuitem-new-tab =
     .label = Nova langeto
 appmenuitem-new-window =
@@ -58,7 +53,6 @@ appmenu-menu-button-closed2 =
 appmenu-menu-button-opened2 =
     .tooltiptext = Fermi menuon de programo
     .label = { -brand-short-name }
-
 # Settings is now used to access the browser settings across all platforms,
 # instead of Options or Preferences.
 appmenuitem-settings =
@@ -79,34 +73,28 @@ appmenu-remote-tabs-sign-into-sync =
     .label = Komenci seancon en Spegulado…
 appmenu-remote-tabs-turn-on-sync =
     .label = Ŝalti Speguladon…
-
 # This is shown after the tabs list if we can display more tabs by clicking on the button
 appmenu-remote-tabs-showmore =
     .label = Montri pli da langetoj
     .tooltiptext = Montri pli da langetoj el tiu ĉi aparato
-
 # This is shown beneath the name of a device when that device has no open tabs
 appmenu-remote-tabs-notabs = Neniu spegulita langeto
-
 # This is shown when Sync is configured but syncing tabs is disabled.
 appmenu-remote-tabs-tabsnotsyncing = Ŝaltu la dividon de langetoj por vidi liston de langetoj en viaj aliaj aparatoj.
-
 appmenu-remote-tabs-opensettings =
     .label = Agordoj
-
 # This is shown when Sync is configured but this appears to be the only device attached to
 # the account. We also show links to download Firefox for android/ios.
 appmenu-remote-tabs-noclients = Ĉu vi volas vidi ĉi tie viajn langetojn el aliaj aparatoj?
-
 appmenu-remote-tabs-connectdevice =
     .label = Konekti alian aparaton
 appmenu-remote-tabs-welcome = Vidi liston de langetoj en viaj aliaj aparatoj.
 appmenu-remote-tabs-unverified = Via konto bezonas esti kontrolita.
-
 appmenuitem-fxa-toolbar-sync-now2 = Speguli nun
 appmenuitem-fxa-sign-in = Komenci seancon en { -brand-product-name }
 appmenuitem-fxa-manage-account = Administri konton
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Konto
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
@@ -116,14 +104,12 @@ appmenu-fxa-sync-and-save-data2 = Speguli kaj konservi datumojn
 appmenu-fxa-signed-in-label = Komenci seancon
 appmenu-fxa-setup-sync =
     .label = Ŝalti speguladon…
-
 appmenuitem-save-page =
     .label = Konservi paĝon kiel…
 
 ## What's New panel in App menu.
 
 whatsnew-panel-header = Novaĵoj
-
 # Checkbox displayed at the bottom of the What's New panel, allowing users to
 # enable/disable What's New notifications.
 whatsnew-panel-footer-checkbox =
@@ -137,52 +123,37 @@ whatsnew-panel-footer-checkbox =
 profiler-popup-button-idle =
     .label = Rulanalizilo
     .tooltiptext = Registri efikecan profilon
-
 profiler-popup-button-recording =
     .label = Rulanalizilo
     .tooltiptext = La rulanalizilo registras profilon
-
 profiler-popup-button-capturing =
     .label = Rulanalizilo
     .tooltiptext = La rulanalizilo kaptas profilon
-
 profiler-popup-header-text = { -profiler-brand-name }
-
 profiler-popup-reveal-description-button =
     .aria-label = Montri pli da informo
-
 profiler-popup-description-title =
     .value = Registri, analizi, dividi
-
 profiler-popup-description = Kunlaboru pri efikecaj problemoj per publikigo de profiloj dividotaj kun via teamo.
-
 profiler-popup-learn-more-button =
     .label = Pli da informo
-
 profiler-popup-settings =
     .value = Agordoj
-
 # This link takes the user to about:profiling, and is only visible with the Custom preset.
 profiler-popup-edit-settings-button =
     .label = Modifi agordojn…
-
 profiler-popup-recording-screen = Registrado…
-
 profiler-popup-start-recording-button =
     .label = Komenci registri
-
 profiler-popup-discard-button =
     .label = Forlasi
-
 profiler-popup-capture-button =
     .label = Kapti
-
 profiler-popup-start-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧1
        *[other] Stir+Maj+1
     }
-
 profiler-popup-capture-shortcut =
     { PLATFORM() ->
         [macos] ⌃⇧2
@@ -194,39 +165,28 @@ profiler-popup-capture-shortcut =
 
 
 # Presets and their l10n IDs are defined in the file
-# devtools/client/performance-new/popup/background.jsm.js
-# Please take care that the same values are also defined in devtools' perftools.ftl.
-
-
-# Presets and their l10n IDs are defined in the file
 # devtools/client/performance-new/shared/background.jsm.js
 # Please take care that the same values are also defined in devtools' perftools.ftl.
 
 profiler-popup-presets-web-developer-description = Rekomendita agordaro por la senerarigo de la plimulto de teksaĵaj programoj, kun malmulte da aldona kromprocezado.
 profiler-popup-presets-web-developer-label =
     .label = Teksaĵa programisto
-
 profiler-popup-presets-firefox-description = Rekomendita agordaro por rulanalizo de { -brand-shorter-name }
 profiler-popup-presets-firefox-label =
     .label = { -brand-shorter-name }
-
 profiler-popup-presets-graphics-description = Rekomendita agordaro por senerarigo de grafikoj en { -brand-shorter-name }.
 profiler-popup-presets-graphics-label =
     .label = Grafikoj
-
 profiler-popup-presets-media-description2 = Rekomendita agordaro por senerarigo de sono kaj video en { -brand-shorter-name }.
 profiler-popup-presets-media-label =
     .label = Aŭdvidaĵo
-
 profiler-popup-presets-networking-description = Rekomendita agordaro por esploro de retaj eraroj en { -brand-shorter-name }.
 profiler-popup-presets-networking-label =
     .label = Reto
-
 profiler-popup-presets-power-description = Agordoj por senerarigo de uzo de energio en { -brand-shorter-name }, kun malmulte da aldona kromprocezado.
 # "Power" is used in the sense of energy (electricity used by the computer).
 profiler-popup-presets-power-label =
     .label = Energio
-
 profiler-popup-presets-custom-label =
     .label = Personecigita
 
@@ -292,7 +252,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Personecigi ilaron…
-
 appmenu-developer-tools-subheader = Iloj de retumilo
 appmenu-developer-tools-extensions =
     .label = Etendaĵoj por programistoj
