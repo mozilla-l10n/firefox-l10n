@@ -38,11 +38,9 @@ menu-quit =
             [windows] خ
            *[other] غ
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = أغلق { -brand-shorter-name }
-
 menu-about =
     .label = عن { -brand-shorter-name }
     .accesskey = ع
@@ -226,6 +224,9 @@ menu-history-undo-menu =
     .label = الألسنة المُغلقة مؤخرًا
 menu-history-undo-window-menu =
     .label = النوافذ المغلقة مؤخرًا
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = ابحث في التأريخ
 
 ## Bookmarks Menu
 
@@ -234,6 +235,9 @@ menu-bookmarks-menu =
     .accesskey = ع
 menu-bookmarks-manage =
     .label = أدِر العلامات
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = ابحث في العلامات
 menu-bookmarks-all-tabs =
     .label = علّم كل الألسنة…
 menu-bookmarks-toolbar =
@@ -318,12 +322,18 @@ menu-help-more-troubleshooting-info =
     .accesskey = ط
 menu-help-report-site-issue =
     .label = أبلغ عن مشكلة بالموقع…
+menu-help-share-ideas =
+    .label = شارك الأفكار والانطباعات...
+    .accesskey = ق
 menu-help-enter-troubleshoot-mode2 =
     .label = وضع مواجهة الأعطال
     .accesskey = ه
 menu-help-exit-troubleshoot-mode =
     .label = عطّل وضع مواجهة الأعطال
     .accesskey = ط
+menu-help-switch-device =
+    .label = التبديل إلى جهاز جديد
+    .accesskey = ز
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

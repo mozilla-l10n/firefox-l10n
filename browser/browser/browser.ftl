@@ -677,6 +677,9 @@ toolbar-overflow-customize-button =
 toolbar-button-email-link =
     .label = أرسل الرابط بالبريد
     .tooltiptext = أرسل رابط لهذه الصفحة بالبريد
+toolbar-button-logins =
+    .label = كلمات السر
+    .tooltiptext = اعرض و أدِر كلماتي السرية المحفوظة
 # Variables:
 #  $shortcut (String): keyboard shortcut to save a copy of the page
 toolbar-button-save-page =
@@ -810,6 +813,11 @@ data-reporting-notification-button =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = الامتدادات
+    .tooltiptext =
+        الامتدادات
+        بعض الامتدادات غير مسموح بها
 
 ## Private browsing reset button
 

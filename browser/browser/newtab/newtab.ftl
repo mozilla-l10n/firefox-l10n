@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = ابحث
     .aria-label = ابحث
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
 newtab-search-box-handoff-text-no-engine = ابحث أو أدخِل عنوانا
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
     .title = ‫ابحث مستعملًا { $engine } أو أدخِل عنوانا
@@ -86,7 +86,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = أزِل
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = افتح القائمة
     .aria-label = افتح قائمة { $title } السياقية
@@ -154,11 +154,11 @@ newtab-label-saved = حُفِظت في { -pocket-brand-name }
 newtab-label-download = نُزّل
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = برعاية · { $sponsorOrSource }
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = برعاية { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -187,7 +187,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = المواقع الأكثر زيارة
 newtab-section-header-recent-activity = أحدث الأنشطة
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = ينصح به { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -195,7 +195,7 @@ newtab-section-header-pocket = ينصح به { $provider }
 newtab-empty-section-highlights = ابدأ التصفح وسنعرض أمامك بعض المقالات والفيديوهات والمواقع الأخرى التي زرتها حديثا أو أضفتها إلى العلامات هنا.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = لا جديد. تحقق لاحقًا للحصول على مزيد من أهم الأخبار من { $provider }. لا يمكنك الانتظار؟ اختر موضوعًا شائعًا للعثور على المزيد من القصص الرائعة من جميع أنحاء الوِب.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -216,9 +216,13 @@ newtab-pocket-more-recommendations = مقترحات أخرى
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.
+# A save to Pocket button that shows over the card thumbnail on hover.
+newtab-pocket-save = احفظ
+newtab-pocket-saved = حُفظت
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = اكتشف أفضل ما في الويب
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -233,6 +237,8 @@ newtab-custom-shortcuts-subtitle = المواقع التي حفظتها أو ز�
 newtab-custom-shortcuts-toggle =
     .label = الاختصارات
     .description = المواقع التي حفظتها أو زرتها
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [zero] ما من صفوف
