@@ -186,6 +186,20 @@ shopping-callout-closed-not-opted-in-subtitle = Probieren Sie den Rezensionsprü
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Lesen Sie unseren vertrauenswürdigen Leitfaden zur Produktbewertung
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Sehen Sie sich vor dem Kauf an, wie zuverlässig die Produktbewertungen auf <b>{ $currentSite }</b> sind. Der Rezensionsprüfer, eine experimentelle Funktion von { -vendor-short-name }, ist direkt in { -brand-product-name } integriert – und funktioniert auch auf <b>{ $secondSite }</b> und <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Sehen Sie sich vor dem Kauf an, wie zuverlässig Produktbewertungen auf <b>{ $currentSite }</b> sind. Der Rezensionsprüfer, eine experimentelle Funktion von { -brand-product-name }, ist direkt in den Browser integriert. Er funktioniert auch auf <b>{ $secondSite }</b> und <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Wir nutzen das Potenzial von { -fakespot-brand-full-name }, um Ihnen dabei zu helfen, voreingenommene und nicht authentische Rezensionen zu vermeiden. Unser KI-Modell wird ständig verbessert, um Sie beim Einkaufen zu schützen. <a data-l10n-name="learn_more">Weitere Informationen</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Mit der Auswahl von "{ shopping-onboarding-opt-in-button }" stimmen Sie der <a data-l10n-name="privacy_policy">Datenschutzrichtlinie</a> und den <a data-l10n-name="terms_of_use">Nutzungsbedingungen</a> von { -fakespot-brand-full-name } zu.
 shopping-onboarding-opt-in-button = Ja, ausprobieren
 shopping-onboarding-not-now-button = Nicht jetzt
 shopping-onboarding-dialog-close-button =

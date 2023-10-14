@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Zu protokollierende Module zur Diagnose von WebGPU-Problemen
 about-logging-preset-gfx-label = Grafik
 about-logging-preset-gfx-description = Zu protokollierende Module zur Diagnose von Grafikproblemen
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Zu protokollierende Module zur Diagnose von spezifischen Problemen mit Microsoft Windows
 about-logging-preset-custom-label = Benutzerdefiniert
 about-logging-preset-custom-description = Zu protokollierende Module manuell ausgewählt
 # Error handling
