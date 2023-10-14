@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Mandar als sites web lo senhal « Me pistar pas » per lor dire que volètz pas èsser pistat
+do-not-track-description2 =
+    .label = Demandar als sites web de « Me pistar pas »
+    .accesskey = d
 do-not-track-learn-more = Ne saber mai
 do-not-track-option-default-content-blocking-known =
     .label = Solament quand { -brand-short-name } es configurat per blocar los traçadors coneguts
 do-not-track-option-always =
     .label = Totjorn
+global-privacy-control-description =
+    .label = Indicar als sites web de vendre pas nimai partejar mas donadas
+    .accesskey = s
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Paramètres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -116,6 +126,9 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Dobrir las fenèstras e onglets precedents
     .accesskey = o
+windows-launch-on-login =
+    .label = Dobrir { -brand-short-name } automaticament a l’aviada de l’ordenador
+    .accesskey = D
 startup-restore-warn-on-quit =
     .label = Vos avisar en sortir del navegador
 disable-extension =
@@ -1025,6 +1038,10 @@ content-blocking-all-windows-tracking-content = Contengut utilizat per pistar to
 content-blocking-all-cross-site-cookies = Totes los cookies intersites
 content-blocking-cryptominers = Minaires de criptomonedas
 content-blocking-fingerprinters = Generadors d’emprentas numericas
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Generadors d’emprentas numericas coneguts e suspèctes
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
