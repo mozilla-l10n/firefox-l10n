@@ -239,6 +239,8 @@ device-migration-fxa-spotlight-link = Υπενθύμιση αργότερα
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Να οριστεί το { -brand-short-name } ως η προεπιλεγμένη εφαρμογή προβολής PDF;</strong> Χρησιμοποιήστε το { -brand-short-name } για την ανάγνωση και την επεξεργασία των PDF που αποθηκεύετε στον υπολογιστή σας.
 pdf-default-notification-set-default-button =
     .label = Ορισμός ως προεπιλογή
 pdf-default-notification-decline-button =
@@ -246,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Ανοίγετε το { -brand-short-name } κάθε φορά που επανεκκινείτε τον υπολογιστή σας;</strong> Μπορείτε πλέον να ρυθμίσετε το { -brand-short-name }, ώστε να ανοίγει αυτόματα μετά από επανεκκίνηση της συσκευής σας.
 launch-on-login-learnmore = Μάθετε περισσότερα
 launch-on-login-infobar-confirm-button = Ναι, άνοιγμα του { -brand-short-name }
     .accesskey = Ν
