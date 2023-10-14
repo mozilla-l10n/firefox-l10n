@@ -45,12 +45,28 @@ shopping-message-bar-generic-error-message = Εργαζόμαστε για τη�
 shopping-message-bar-warning-not-enough-reviews-title = Δεν υπάρχουν ακόμα αρκετές κριτικές
 shopping-message-bar-warning-not-enough-reviews-message2 = Όταν αυτό το προϊόν λάβει περισσότερες κριτικές, θα μπορέσουμε να ελέγξουμε την ποιότητά τους.
 shopping-message-bar-warning-product-not-available-title = Το προϊόν δεν είναι διαθέσιμο
+shopping-message-bar-warning-product-not-available-message2 = Εάν παρατηρήσετε ότι αυτό το προϊόν είναι ξανά σε απόθεμα, αναφέρετέ το σε μας και θα αρχίσουμε τον έλεγχο των κριτικών.
+shopping-message-bar-warning-product-not-available-button = Αναφέρετε ότι το προϊόν είναι ξανά σε απόθεμα
 shopping-message-bar-thanks-for-reporting-title = Ευχαριστούμε για την αναφορά!
 shopping-message-bar-thanks-for-reporting-message2 = Θα έχουμε πληροφορίες για τις κριτικές αυτού του προϊόντος εντός 24 ωρών. Παρακαλούμε ελέγξτε ξανά.
+shopping-message-bar-warning-product-not-available-reported-title2 = Περισσότερες πληροφορίες σύντομα
 shopping-message-bar-warning-product-not-available-reported-message2 = Θα έχουμε πληροφορίες για τις κριτικές αυτού του προϊόντος εντός 24 ωρών. Παρακαλούμε ελέγξτε ξανά.
+shopping-message-bar-generic-error =
+    .heading = Δεν υπάρχουν διαθέσιμες πληροφορίες αυτήν τη στιγμή
+    .message = Εργαζόμαστε για την επίλυση του προβλήματος. Παρακαλούμε ελέγξτε ξανά σύντομα.
 shopping-message-bar-warning-not-enough-reviews =
     .heading = Δεν υπάρχουν ακόμα αρκετές κριτικές
     .message = Όταν αυτό το προϊόν λάβει περισσότερες κριτικές, θα μπορέσουμε να ελέγξουμε την ποιότητά τους.
+shopping-message-bar-warning-product-not-available =
+    .heading = Το προϊόν δεν είναι διαθέσιμο
+    .message = Εάν παρατηρήσετε ότι αυτό το προϊόν είναι ξανά σε απόθεμα, αναφέρετέ το σε μας και θα αρχίσουμε τον έλεγχο των κριτικών.
+shopping-message-bar-warning-product-not-available-button2 = Αναφέρετε ότι το προϊόν είναι σε απόθεμα
+shopping-message-bar-thanks-for-reporting =
+    .heading = Ευχαριστούμε για την αναφορά!
+    .message = Θα έχουμε πληροφορίες για τις κριτικές αυτού του προϊόντος εντός 24 ωρών. Παρακαλούμε ελέγξτε ξανά.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Περισσότερες πληροφορίες σύντομα
+    .message = Θα έχουμε πληροφορίες για τις κριτικές αυτού του προϊόντος εντός 24 ωρών. Παρακαλούμε ελέγξτε ξανά.
 shopping-message-bar-analysis-in-progress-title2 = Έλεγχος ποιότητας κριτικής
 shopping-message-bar-analysis-in-progress-message2 = Αυτό μπορεί να διαρκέσει περίπου 60 δευτερόλεπτα.
 shopping-message-bar-page-not-supported-title = Δεν μπορούμε να ελέγξουμε αυτές τις κριτικές
@@ -127,6 +143,7 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Δεν υπάρχουν ακόμα πληροφορίες σχετικά με αυτές τις κριτικές
 shopping-unanalyzed-product-message-2 = Για να μάθετε εάν οι κριτικές αυτού του προϊόντος είναι αξιόπιστες, ελέγξτε την ποιότητά τους. Διαρκεί μόλις 60 περίπου δευτερόλεπτα.
 shopping-unanalyzed-product-analyze-button = Έλεγχος ποιότητας κριτικής
 
@@ -164,6 +181,7 @@ shopping-callout-closed-opted-in-subtitle = Επιστρέψτε στον <stron
 shopping-callout-pdp-opted-in-title = Είναι αξιόπιστες αυτές οι κριτικές; Μάθετε γρήγορα.
 shopping-callout-pdp-opted-in-subtitle = Ανοίξτε τον έλεγχο κριτικών για να δείτε μια αναπροσαρμοσμένη βαθμολογία μετά από αφαίρεση των αναξιόπιστων κριτικών. Επιπλέον, θα βρείτε τα πιο σημαντικά σημεία από πρόσφατες, αυθεντικές κριτικές.
 shopping-callout-closed-not-opted-in-title = Αξιόπιστες κριτικές με ένα κλικ
+shopping-callout-closed-not-opted-in-subtitle = Δοκιμάστε τον έλεγχο κριτικών κάθε φορά που βλέπετε το εικονίδιο-καρτελάκι. Λάβετε γρήγορα πληροφορίες από πραγματικούς αγοραστές προτού αγοράσετε.
 
 ## Onboarding message strings.
 
