@@ -52,16 +52,45 @@ translations-panel-error-dismiss-button =
     .label = فهمت
 translations-panel-error-change-button =
     .label = تغيير لغة المصدر
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Sorry, we don't support the language yet: { $language }
+#
+# Variables:
+#   $language (string) - The language of the document.
+translations-panel-error-unsupported-hint-known = للأسف، لا ندعم { $language } بعد.
+translations-panel-error-unsupported-hint-unknown = معذرةً، لا ندعم هذه اللغة بعد.
 
 ## Each label is followed, on a new line, by a dropdown list of language names.
 ## If this structure is problematic for your locale, an alternative way is to
 ## translate them as `Source language:` and `Target language:`
 
+translations-panel-from-label = ترجم من
+translations-panel-to-label = ترجم إلى
 
 ## The translation panel appears from the url bar, and this view is the "restore" view
 ## that lets a user restore a page to the original language, or translate into another
 ## language.
 
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `The page is translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+translations-panel-revisit-header = ترجمت هذه الصفحة من { $fromLanguage } إلى { $toLanguage }
+translations-panel-choose-language =
+    .label = اختر لغة
+translations-panel-restore-button =
+    .label = اعرض الأصل
 
 ## Firefox Translations language management in about:preferences.
 
+translations-manage-header = الترجمات
+translations-manage-description = تنزيل اللغات من أجل الترجمة بلا إنترنت.
+translations-manage-all-language = كل اللغات
+translations-manage-download-button = نزّل
+translations-manage-delete-button = احذف
+translations-settings-languages-column =
+    .label = اللغات
