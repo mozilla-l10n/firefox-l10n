@@ -70,6 +70,12 @@ about-glean-li-for-visit-gdpv =
 about-glean-adhoc-explanation =
   Per effettuare test più specifici è possibile determinare il valore corrente di uno specifico elemento della strumentazione aprendo la console degli strumenti di sviluppo in <code>about:glean</code> e utilizzando API <code>testGetValue()</code>, come ad esempio <code>Glean.metricCategory.metricName.testGetValue()</code>.
 
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+  È importante notare che la console degli strumenti di sviluppo si appoggia
+  alle API di Glean per JavaScript. Questo significa che i nomi e le categorie
+  delle metriche sono formattati in <code>camelCase</code>, a differenza
+  delle API per Rust e C++.
 
 controls-button-label-verbose = Applica impostazioni e invia ping
 
