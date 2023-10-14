@@ -246,11 +246,16 @@ device-migration-fxa-spotlight-link = Opomni me pozneje
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Naj { -brand-short-name } postane vaš privzeti pregledovalnik PDF?</strong> V { -brand-short-name(sklon: "mestnik") } lahko odpirate in urejate datoteke PDF, shranjene na računalniku.
+pdf-default-notification-set-default-button =
+    .label = Nastavi kot privzeto
 pdf-default-notification-decline-button =
     .label = Ne zdaj
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Želite, da se { -brand-short-name } odpre ob vsakem ponovnem zagonu računalnika?</strong> { -brand-short-name } lahko sedaj nastavite, naj se samodejno odpre, ko znova zaženete napravo.
 launch-on-login-learnmore = Več o tem
 launch-on-login-infobar-confirm-button = Da, odpri { -brand-short-name(sklon: "tozilnik") }
     .accesskey = D
@@ -260,5 +265,6 @@ launch-on-login-infobar-reject-button = Ne zdaj
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Želite, da se { -brand-short-name } odpre ob vsakem ponovnem zagonu računalnika?</strong> Za upravljanje možnosti zagona v nastavitvah poiščite "zagon".
 launch-on-login-infobar-final-reject-button = Ne, hvala
     .accesskey = N
