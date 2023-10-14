@@ -96,6 +96,7 @@ shopping-settings-label =
     .label = Paramètres
 shopping-settings-recommendations-toggle =
     .label = Afficher des publicités dans le vérificateur d’avis
+shopping-settings-recommendations-learn-more = Vous verrez à l’occasion des publicités pour des produits pertinents. Ces produits doivent disposer d’avis qui répondent à nos critères de qualité. <a data-l10n-name="review-quality-url">En savoir plus</a>
 shopping-settings-opt-out-button = Désactiver le vérificateur d’avis
 powered-by-fakespot = Le vérificateur d’avis fonctionne grâce à <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
