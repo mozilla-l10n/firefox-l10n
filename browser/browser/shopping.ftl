@@ -54,6 +54,10 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-analysis-in-progress-title2 = Έλεγχος ποιότητας κριτικής
 shopping-message-bar-analysis-in-progress-message2 = Αυτό μπορεί να διαρκέσει περίπου 60 δευτερόλεπτα.
 shopping-message-bar-page-not-supported-title = Δεν μπορούμε να ελέγξουμε αυτές τις κριτικές
+shopping-message-bar-page-not-supported-message = Δυστυχώς, δεν μπορούμε να ελέγξουμε την ποιότητα των κριτικών για ορισμένους τύπους προϊόντων, όπως δωροκάρτες, βίντεο σε μορφή streaming, μουσική και παιχνίδια.
+shopping-message-bar-page-not-supported =
+    .heading = Δεν μπορούμε να ελέγξουμε αυτές τις κριτικές
+    .message = Δυστυχώς, δεν μπορούμε να ελέγξουμε την ποιότητα των κριτικών για ορισμένους τύπους προϊόντων, όπως δωροκάρτες, βίντεο σε μορφή streaming, μουσική και παιχνίδια.
 
 ## Strings for the product review snippets card
 
@@ -76,6 +80,7 @@ shopping-settings-label =
     .label = Ρυθμίσεις
 shopping-settings-recommendations-toggle =
     .label = Εμφάνιση διαφημίσεων στον έλεγχο κριτικών
+shopping-settings-recommendations-learn-more = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Όλες οι διαφημίσεις πρέπει να πληρούν τα πρότυπά μας για την ποιότητα των κριτικών. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
 shopping-settings-opt-out-button = Απενεργοποίηση ελέγχου κριτικών
 powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται από το <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
