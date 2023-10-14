@@ -14,13 +14,17 @@ xpinstall-prompt-message = نراك تحاول تثبيت إضافة من { $hos
 
 xpinstall-prompt-header-unknown = أتسمح لهذا الموقع المجهول بأن يثبّت إضافة؟
 xpinstall-prompt-message-unknown = نراك تحاول تثبيت إضافة من موقع مجهول. تأكّد وتيقّن من أن الموقع موثوق قبل أن تواصل.
-
 xpinstall-prompt-dont-allow =
     .label = لا تسمح
     .accesskey = ت
 xpinstall-prompt-never-allow =
     .label = لا تسمح أبدًا
     .accesskey = م
+# Long text in this context make the dropdown menu extend awkwardly to the left,
+# avoid a localization that's significantly longer than the English version.
+xpinstall-prompt-never-allow-and-report =
+    .label = أبلغ عن موقع مشبوه
+    .accesskey = إ
 # Accessibility Note:
 # Be sure you do not choose an accesskey that is used elsewhere in the active context (e.g. main menu bar, submenu of the warning popup button)
 # See https://website-archive.mozilla.org/www.mozilla.org/access/access/keyboard/ for details
@@ -38,14 +42,12 @@ xpinstall-disabled = تنصيب البرمجيات معطل حاليًا. انق
 xpinstall-disabled-button =
     .label = فعّل
     .accesskey = ع
-
 # This message is shown when the installation of an add-on is blocked by enterprise policy.
 # Variables:
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = حجب مدير النظام { $addonName } (معرّفها { $addonId }).
 addon-install-full-screen-blocked = يُمنع تثبيت الإضافات في وضع ملء الشاشة، أو قبل الدخول إليه.
-
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
 webext-perms-sideload-menu-item = أُضيف { $addonName } إلى { -brand-short-name }
@@ -63,7 +65,6 @@ addon-removal-title = أتريد إزالة { $name }؟
 addon-removal-message = أأُزيل { $name } من { -brand-shorter-name }؟
 addon-removal-button = أزِل
 addon-removal-abuse-report-checkbox = أبلِغ { -vendor-short-name } عن هذا الامتداد
-
 # Variables:
 #   $addonCount (Number): the number of add-ons being downloaded
 addon-downloading-and-verifying =
@@ -75,7 +76,6 @@ addon-downloading-and-verifying =
        *[other] نزّل و يتحقق من { $addonCount } إضافة…
     }
 addon-download-verifying = يتحقق
-
 addon-install-cancel-button =
     .label = ألغِ
     .accesskey = غ
