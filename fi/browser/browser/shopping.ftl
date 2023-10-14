@@ -6,6 +6,7 @@ shopping-page-title = { -brand-product-name }-ostokset
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Arvostelun tarkistin
+shopping-beta-marker = Beeta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
 # Any changes to shopping-main-container-title and
@@ -50,6 +51,7 @@ shopping-message-bar-thanks-for-reporting-title = Kiitos ilmoituksesta!
 shopping-message-bar-thanks-for-reporting-message2 = Meillä pitäisi olla tietoa tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista tilanne uudelleen.
 shopping-message-bar-warning-product-not-available-reported-title2 = Tietoa tulossa pian
 shopping-message-bar-warning-product-not-available-reported-message2 = Meillä pitäisi olla tietoa tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista tilanne uudelleen.
+shopping-message-bar-warning-product-not-available-button2 = Ilmoita, että tuoteta on varastossa
 shopping-message-bar-analysis-in-progress-title2 = Tarkistetaan arvostelun laatua
 shopping-message-bar-analysis-in-progress-message2 = Tämä voi kestää noin 60 sekuntia.
 shopping-message-bar-page-not-supported-title = Emme voi tarkistaa näitä arvosteluja
