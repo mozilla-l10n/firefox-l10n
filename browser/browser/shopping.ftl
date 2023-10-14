@@ -127,6 +127,7 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-message-2 = Για να μάθετε εάν οι κριτικές αυτού του προϊόντος είναι αξιόπιστες, ελέγξτε την ποιότητά τους. Διαρκεί μόλις 60 περίπου δευτερόλεπτα.
 shopping-unanalyzed-product-analyze-button = Έλεγχος ποιότητας κριτικής
 
 ## Strings for the advertisement
@@ -166,6 +167,7 @@ shopping-callout-closed-not-opted-in-title = Αξιόπιστες κριτικέ
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Δοκιμάστε τον αξιόπιστο οδηγό μας για κριτικές προϊόντων
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
