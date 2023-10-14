@@ -557,6 +557,7 @@ urlbar-result-action-switch-tab = Passa alla scheda
 urlbar-result-action-visit = Apri
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-your-clipboard = Apri indirizzo dagli appunti
+urlbar-result-action-visit-from-clipboard = Apri indirizzo dagli appunti
 
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
