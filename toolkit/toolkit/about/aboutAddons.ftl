@@ -147,6 +147,7 @@ extensions-warning-update-security2 =
     .message = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
 extensions-warning-update-security-button = فعّل
     .title = فعّل التحقق من أمن تحديثات الإضافات
+extensions-warning-imported-addons-button = تثبيت الامتدادات
 
 ## Strings connected to add-on updates
 
@@ -220,6 +221,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = تستخدمه { $addon } بالفعل
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [zero] لا تعرض المزيد
@@ -256,6 +259,7 @@ install-theme-button = ثبّت السمة
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = أدِر
 find-more-addons = ابحث عن إضافات أكثر
+find-more-themes = ابحث عن المزيد من السمات
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -284,12 +288,15 @@ permissions-addon-button = الصلاحيات
 extension-enabled-heading = مفعّل
 extension-disabled-heading = معطّل
 theme-enabled-heading = مفعّلة
+theme-disabled-heading2 = السمات المحفوظة
 plugin-enabled-heading = مفعّلة
 plugin-disabled-heading = معطّلة
 dictionary-enabled-heading = مفعّل
 dictionary-disabled-heading = معطّل
 locale-enabled-heading = مفعّلة
 locale-disabled-heading = معطّلة
+sitepermission-enabled-heading = مفعّل
+sitepermission-disabled-heading = معطّل
 always-activate-button = فعّل دائمًا
 never-activate-button = لا تُفعّل أبدًا
 addon-detail-author-label = المؤلف
@@ -349,6 +356,9 @@ addon-detail-private-browsing-disallow = غير مسموح
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = اسمح
+addon-detail-quarantined-domains-disallow = لا تسمح
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -378,6 +388,7 @@ plugin-heading = أدِر الملحقات لديك
 dictionary-heading = أدِر القواميس لديك
 locale-heading = أدِر اللغات لديك
 updates-heading = أدِر التحديثات لديك
+sitepermission-heading = أدِر تصاريح موقعك
 discover-heading = خصّص { -brand-short-name } ليكون لك
 shortcuts-heading = أدِر اختصارات الامتدادات
 default-heading-search-label = ابحث عن إضافات أكثر
@@ -391,12 +402,13 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } غير متوافقة مع { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
 details-notification-incompatible2 =
     .message = { $name } غير متوافقة مع { -brand-short-name } { $version }.
+details-notification-incompatible-link = مزيد من المعلومات
 details-notification-unsigned-and-disabled = تعذّر التحقق من { $name } للاستخدام مع { -brand-short-name } و لذا عُطّل.
 details-notification-unsigned-and-disabled2 =
     .message = تعذّر التحقق من { $name } للاستخدام مع { -brand-short-name } و لذا عُطّل.
