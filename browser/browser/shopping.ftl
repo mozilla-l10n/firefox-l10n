@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Товар відсутній
     .message = Якщо цей товар знову з'явиться, повідомте про це нам, і ми його проаналізуємо.
+shopping-message-bar-warning-product-not-available-button2 = Повідомити про наявність товару
 shopping-message-bar-thanks-for-reporting =
     .heading = Дякуємо за повідомлення!
     .message = Оновлені результати мають з'явитися впродовж 24 годин. Перевірте знову пізніше.
@@ -191,6 +192,12 @@ shopping-onboarding-headline = Спробуйте наш надійний пут
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle = Впевніться у надійності відгуків про товар на <b>{ $currentSite }</b> перед купівлею. Перевірка відгуків, експериментальна функція від { -vendor-short-name }, вбудована безпосередньо у { -brand-product-name } — і вона також працює на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Впевніться у надійності відгуків про товар на <b>{ $currentSite }</b> перед купівлею. Перевірка відгуків, експериментальна функція від { -brand-product-name }, вбудована безпосередньо у браузер. Вона також працює на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Використовуючи можливості { -fakespot-brand-full-name }, ми допомагаємо вам уникнути упереджених і несправжніх відгуків. Наша модель ШІ постійно вдосконалюється, щоб захистити вас під час покупок. <a data-l10n-name="learn_more">Докладніше</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Натискаючи “{ shopping-onboarding-opt-in-button }“, ви погоджуєтеся з <a data-l10n-name="privacy_policy">політикою приватності</a> та <a data-l10n-name="terms_of_use">умовами користування</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Так, спробувати

@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Вказувати вебсайтам не продавати та не ділитися моїми даними
     .accesskey = п
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Налаштування
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Відкрити попередні вікна та вкладки
     .accesskey = к
+windows-launch-on-login =
+    .label = Відкривати { -brand-short-name } автоматично під час запуску комп'ютера
+    .accesskey = В
+windows-launch-on-login-disabled = Це налаштування вимкнено у Windows. Щоб змінити його, відвідайте <a data-l10n-name="startup-link">Програми для запуску</a> в налаштуваннях системи.
 startup-restore-warn-on-quit =
     .label = Попереджати при виході з браузера
 disable-extension =
