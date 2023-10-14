@@ -101,3 +101,6 @@ set-password-reminder = Pomembno: Če pozabite geslo varnostne kopije digitalneg
 
 ## Protected authentication alert
 
+# Variables:
+# $tokenName (String) - The name of the token to authenticate to (for example, "OS Client Cert Token (Modern)")
+protected-auth-alert = Prijavite se v žeton “{ $tokenName }”. Kako to storite, je odvisno od žetona (na primer z uporabo bralnika prstnih odtisov ali vnosom kode s tipkovnico).

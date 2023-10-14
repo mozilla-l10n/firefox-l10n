@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Beleženje modulov za diagnosticiranje težav z WebGPU
 about-logging-preset-gfx-label = Grafika
 about-logging-preset-gfx-description = Beleženje modulov za diagnosticiranje težav z grafiko
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Beleženje modulov za diagnosticiranje težav z Microsoft Windows
 about-logging-preset-custom-label = Po meri
 about-logging-preset-custom-description = Beleženje modulov po lastni izbiri
 # Error handling
@@ -57,6 +60,8 @@ about-logging-error = Napaka:
 
 about-logging-invalid-output = Neveljavna vrednost "{ $v }" za ključ "{ $k }"
 about-logging-unknown-logging-preset = Neznana prednastavitev beleženja "{ $v }"
+about-logging-unknown-profiler-preset = Neznana prednastavitev profilerja "{ $v }"
 about-logging-unknown-option = Neznana možnost about:logging: "{ $k }"
 about-logging-configuration-url-ignored = URL z nastavitvami prezrt
+about-logging-file-and-profiler-override = Ni mogoče vsiliti izpisa datoteke in hkrati preglasiti možnosti orodja za spremljanje delovanja
 about-logging-configured-via-url = Možnost nastavljena prek URL-ja
