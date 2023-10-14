@@ -918,6 +918,7 @@ reset-pbm-toolbar-button =
     .label = Τερματισμός ιδιωτικής συνεδρίας
     .tooltiptext = Τερματισμός ιδιωτικής συνεδρίας
 reset-pbm-panel-heading = Τερματισμός ιδιωτικής συνεδρίας;
+reset-pbm-panel-description = Κλείστε όλες τις ιδιωτικές καρτέλες και διαγράψτε το ιστορικό, τα cookies και όλα τα άλλα δεδομένα ιστοτόπων.
 reset-pbm-panel-always-ask-checkbox =
     .label = Ερώτηση πάντα
     .accesskey = Ε
