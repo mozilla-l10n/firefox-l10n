@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Crompas dins { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador d’avises
@@ -37,7 +38,9 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Informacions novèlas d’evaluar
 shopping-message-bar-warning-stale-analysis-button = Verificar ara
+shopping-message-bar-generic-error-title2 = Cap d’informacion pas disponibla pel moment
 shopping-message-bar-thanks-for-reporting-title = Mercés pel senhalament !
 
 ## Strings for the product review snippets card
