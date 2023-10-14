@@ -37,11 +37,19 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Uusia tietoja tarkistettavaksi
 shopping-message-bar-warning-stale-analysis-button = Tarkista nyt
+shopping-message-bar-generic-error-title2 = Tietoja ei juuri nyt saatavilla
 shopping-message-bar-generic-error-message = Pyrimme ratkaisemaan ongelman. Tarkista tilanne pian uudelleen.
 shopping-message-bar-warning-not-enough-reviews-title = Ei vielä tarpeeksi arvosteluja
+shopping-message-bar-warning-not-enough-reviews-message2 = Kun tästä tuotteesta on enemmän arvosteluja, voimme tarkistaa niiden laadun.
 shopping-message-bar-warning-product-not-available-title = Tuote ei ole saatavilla
+shopping-message-bar-warning-product-not-available-message2 = Jos huomaat, että tämä tuote on jälleen varastossa, ilmoita siitä, niin tarkistamme arvostelut.
+shopping-message-bar-warning-product-not-available-button = Ilmoita, että tämä tuote on jälleen varastossa
 shopping-message-bar-thanks-for-reporting-title = Kiitos ilmoituksesta!
+shopping-message-bar-thanks-for-reporting-message2 = Meillä pitäisi olla tietoa tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista tilanne uudelleen.
+shopping-message-bar-warning-product-not-available-reported-title2 = Tietoa tulossa pian
+shopping-message-bar-warning-product-not-available-reported-message2 = Meillä pitäisi olla tietoa tämän tuotteen arvosteluista 24 tunnin sisällä. Tarkista tilanne uudelleen.
 shopping-message-bar-analysis-in-progress-title2 = Tarkistetaan arvostelun laatua
 shopping-message-bar-analysis-in-progress-message2 = Tämä voi kestää noin 60 sekuntia.
 shopping-message-bar-page-not-supported-title = Emme voi tarkistaa näitä arvosteluja
@@ -91,8 +99,10 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Kuinka määritämme arvostelun laadun
+shopping-analysis-explainer-intro2 = Käytämme { -fakespot-brand-full-name }in tekoälyteknologiaa tuotearvostelujen luotettavuuden tarkistamiseen. Tämä auttaa arvioimaan vain arvostelun laatua, ei tuotteen laatua.
 shopping-analysis-explainer-grades-intro = Annamme kunkin tuotteen arvosteluille <strong>kirjainarvosanan</strong> A:sta F:ään.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Oikaistu arvosana</strong> perustuu vain niihin arvosteluihin, jotka koemme luotettaviksi.
+shopping-analysis-explainer-learn-more = Lue lisää <a data-l10n-name="review-quality-url">miten { -fakespot-brand-full-name } määrittää arvostelujen laadun</a>.
 shopping-analysis-explainer-review-grading-scale-reliable = Luotettavat arvostelut. Uskomme, että arvostelut ovat todennäköisesti todellisilta asiakkailta, jotka ovat jättäneet rehellisiä, puolueettomia arvosteluja.
 shopping-analysis-explainer-review-grading-scale-mixed = Uskomme, että kyseessä on sekä luotettavia että epäluotettavia arvosteluja.
 shopping-analysis-explainer-review-grading-scale-unreliable = Epäluotettavat arvostelut. Uskomme, että arvostelut ovat todennäköisesti vääriä tai puolueellisia.
