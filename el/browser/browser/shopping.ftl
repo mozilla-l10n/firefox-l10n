@@ -40,7 +40,10 @@ shopping-letter-grade-tooltip =
 
 shopping-message-bar-warning-stale-analysis-message-2 = Νέες πληροφορίες προς έλεγχο
 shopping-message-bar-warning-stale-analysis-button = Έλεγχος τώρα
+shopping-message-bar-generic-error-title2 = Δεν υπάρχουν διαθέσιμες πληροφορίες αυτήν τη στιγμή
+shopping-message-bar-generic-error-message = Εργαζόμαστε για την επίλυση του προβλήματος. Παρακαλούμε ελέγξτε ξανά σύντομα.
 shopping-message-bar-warning-not-enough-reviews-title = Δεν υπάρχουν ακόμα αρκετές κριτικές
+shopping-message-bar-warning-not-enough-reviews-message2 = Όταν αυτό το προϊόν λάβει περισσότερες κριτικές, θα μπορέσουμε να ελέγξουμε την ποιότητά τους.
 shopping-message-bar-warning-product-not-available-title = Το προϊόν δεν είναι διαθέσιμο
 shopping-message-bar-thanks-for-reporting-title = Ευχαριστούμε για την αναφορά!
 shopping-message-bar-analysis-in-progress-title2 = Έλεγχος ποιότητας κριτικής
@@ -142,6 +145,14 @@ shopping-callout-closed-not-opted-in-title = Αξιόπιστες κριτικέ
 
 ## Onboarding message strings.
 
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Δείτε πόσο αξιόπιστες είναι οι κριτικές των προϊόντων στο <b>{ $currentSite }</b> πριν αγοράσετε. Ο έλεγχος κριτικών, μια πειραματική δυνατότητα από το { -brand-product-name }, ενσωματώνεται στο πρόγραμμα περιήγησης. Λειτουργεί επίσης και στο <b>{ $secondSite }</b> και <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Με την υποστήριξη του { -fakespot-brand-full-name }, σας βοηθάμε να αποφύγετε τις μεροληπτικές και ψευδείς κριτικές. Το μοντέλο AI μας βελτιώνεται συνεχώς για να σας προστατεύει όσο κάνετε τις αγορές σας. <a data-l10n-name="learn_more">Μάθετε περισσότερα</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Επιλέγοντας «{ shopping-onboarding-opt-in-button }», αποδέχεστε την <a data-l10n-name="privacy_policy">Πολιτική απορρήτου</a> και τους <a data-l10n-name="terms_of_use">Όρους χρήσης</a> του { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Έναρξη δοκιμής
 shopping-onboarding-not-now-button = Όχι τώρα
 shopping-onboarding-dialog-close-button =

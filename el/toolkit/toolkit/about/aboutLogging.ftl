@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων WebGPU
 about-logging-preset-gfx-label = Γραφικά
 about-logging-preset-gfx-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων γραφικών
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Μονάδες καταγραφής για τη διάγνωση ζητημάτων ειδικά για τα Microsoft Windows
 about-logging-preset-custom-label = Προσαρμοσμένο
 about-logging-preset-custom-description = Οι μονάδες καταγραφής επιλέχθηκαν χειροκίνητα
 # Error handling

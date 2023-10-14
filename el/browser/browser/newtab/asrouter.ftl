@@ -258,5 +258,6 @@ launch-on-login-infobar-reject-button = Όχι τώρα
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Ανοίγετε το { -brand-short-name } κάθε φορά που επανεκκινείτε τον υπολογιστή σας;</strong> Για να διαχειριστείτε τις προτιμήσεις εκκίνησης, αναζητήστε «εκκίνηση» στις ρυθμίσεις.
 launch-on-login-infobar-final-reject-button = Όχι, ευχαριστώ
     .accesskey = χ
