@@ -2,6 +2,23 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+migration-wizard-selection-header = Importoni të Dhëna Shfletuesi
+migration-wizard-selection-list = Përzgjidhni të dhënat që do të donit të importohen.
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# to import from. This variant is shown when the selected browser doesn't support
+# user profiles, and so we only show the browser name.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+migration-wizard-selection-option-without-profile = { $sourceBrowser }
+# Shown in the new migration wizard's dropdown selector for choosing the browser
+# and user profile to import from. This variant is shown when the selected browser
+# supports user profiles.
+#
+# Variables:
+#  $sourceBrowser (String): the name of the browser to import from.
+#  $profileName (String): the name of the user profile to import from.
+migration-wizard-selection-option-with-profile = { $sourceBrowser } — { $profileName }
 
 # Each migrator is expected to include a display name string, and that display
 # name string should have a key with "migration-wizard-migrator-display-name-"
@@ -18,6 +35,8 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-chromium-edge-beta = Microsoft Edge Beta
 migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
+migration-wizard-migrator-display-name-file-password-csv = Fjalëkalim nga kartelë CSV
+migration-wizard-migrator-display-name-file-bookmarks = Faqerojtës nga kartelë HTML
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
@@ -26,9 +45,30 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = Importo krejt të dhënat e mundshme
+migration-no-selected-data-label = S’u përzgjodhën të dhëna për importim
+migration-selected-data-label = Importo të dhënat e përzgjedhura
 
 ##
 
+migration-select-all-option-label = Përzgjidhi krejt
+migration-bookmarks-option-label = Faqerojtës
+# Favorites is used for Bookmarks when importing from Internet Explorer or
+# Edge, as this is the terminology for bookmarks on those browsers.
+migration-favorites-option-label = Më të pëlqyerit
+migration-logins-and-passwords-option-label = Kredenciale hyrjesh dhe fjalëkalime të ruajtur
+migration-history-option-label = Historik shfletimesh
+migration-extensions-option-label = Zgjerime
+migration-form-autofill-option-label = Të dhëna vetëplotësimi formularësh
+migration-payment-methods-option-label = Metoda pagesash
+migration-cookies-option-label = Cookies
+migration-session-option-label = Dritare dhe skeda
+migration-otherdata-option-label = Të dhëna të tjera
+migration-passwords-from-file-progress-header = Importo Kartelë Fjalëkalimesh
+migration-passwords-from-file-success-header = Fjalëkalimet u Importuan Me Sukses
+migration-passwords-from-file = Po kontrollohet kartelë për fjalëkalime
+migration-passwords-new = Fjalëkalime të rinj
+migration-passwords-updated = Fjalëkalime ekzistues
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -43,6 +83,26 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Dokument TSV
        *[other] Kartelë TSV
     }
+migration-bookmarks-from-file-picker-title = Importo Kartelë Faqerojtësish
+migration-bookmarks-from-file-progress-header = Importim Faqerojtësish
+migration-bookmarks-from-file = Faqerojtës
+migration-bookmarks-from-file-success-header = Faqerojtësit u Importuan Me Sukses
+# A description for the .html file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-html-filter-title =
+    { PLATFORM() ->
+        [macos] Dokument HTML
+       *[other] Kartelë HTML
+    }
+# A description for the .json file format that may be shown as the file type
+# filter by the operating system.
+migration-bookmarks-from-file-json-filter-title = Kartelë JSON
+migration-import-button-label = Importo
+migration-choose-to-import-from-file-button-label = Importo Prej Kartele
+migration-import-from-file-button-label = Përzgjidhni Kartelë
+migration-cancel-button-label = Anuloje
+migration-done-button-label = U bë
+migration-continue-button-label = Vazhdo
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -50,13 +110,86 @@ migration-passwords-from-file-tsv-filter-title =
 ## When applicable, the resources should be in their plural form.
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
+migration-list-bookmark-label = faqerojtës
+# “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
+# if the browser is available in your language.
+migration-list-favorites-label = më të pëlqyerit
+migration-list-password-label = fjalëkalime
+migration-list-history-label = historik
+migration-list-extensions-label = zgjerime
+migration-list-autofill-label = të dhëna vetëplotësimi
+migration-list-payment-methods-label = metoda pagesash
 
 ##
 
+migration-wizard-progress-header = Importim të Dhënash
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
+migration-wizard-progress-done-header = Të dhënat u Importuan Me Sukses
+migration-safari-password-import-step3 = Ruani kartelën e fjalëkalimeve
+migration-safari-password-import-skip-button = Anashkaloje
+migration-safari-password-import-select-button = Përzgjidhni Kartelë
+# Shown in the migration wizard after importing bookmarks from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-bookmarks =
+    { $quantity ->
+        [one] { $quantity } faqerojtës
+       *[other] { $quantity } faqerojtës
+    }
+# Shown in the migration wizard after importing bookmarks from either
+# Internet Explorer or Edge.
+#
+# Use the same terminology if the browser is available in your language.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported bookmarks
+migration-wizard-progress-success-favorites =
+    { $quantity ->
+        [one] { $quantity } i parapëlqyer
+       *[other] { $quantity } të parapëlqyer
+    }
 
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+# Shown in the migration wizard after importing all matched extensions
+# from supported browsers.
+#
+# Variables:
+#   $quantity (Number): the number of successfully imported extensions
+migration-wizard-progress-success-extensions =
+    { $quantity ->
+        [one] { $quantity } zgjerim
+       *[other] { $quantity } zgjerime
+    }
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = S’ka zgjerime me përputhje
+
 ##
 
+# Shown in the migration wizard after importing passwords from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported passwords
+migration-wizard-progress-success-passwords =
+    { $quantity ->
+        [one] { $quantity } fjalëkalim
+       *[other] { $quantity } fjalëkalime
+    }
+migration-wizard-progress-success-formdata = Historik formularësh
+# Shown in the migration wizard after importing payment methods from another
+# browser has completed.
+#
+# Variables:
+#  $quantity (Number): the number of successfully imported payment methods
+migration-wizard-progress-success-payment-methods =
+    { $quantity ->
+        [one] { $quantity } metodë pagesash
+       *[other] { $quantity } metoda pagesash
+    }
