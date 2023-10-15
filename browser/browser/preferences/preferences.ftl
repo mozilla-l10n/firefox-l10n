@@ -4,7 +4,7 @@
 
 do-not-track-description = საიტებისთვის „არ მითვალთვალო“ მოთხოვნის გაგზავნა
 do-not-track-description2 =
-    .label = გაეგზავნოს ვებსაიტებს „არ მითვალთვალო“ მოთხოვნა
+    .label = გაეგზავნოს ვებსაიტებს მოთხოვნად „არ მითვალთვალო“
     .accesskey = ზ
 do-not-track-learn-more = ვრცლად
 do-not-track-option-default-content-blocking-known =
@@ -971,7 +971,7 @@ cookie-banner-handling-header = ფუნთუშის მოთხოვნ�
 cookie-banner-handling-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების არჩევის ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
 cookie-banner-learn-more = ვრცლად
 forms-handle-cookie-banners =
-    .label = შეამცირეთ ფუნთუშის მოთხოვნები
+    .label = ფუნთუშის მოთხოვნების შემცირება
 
 ## Privacy Section - Address Bar
 
@@ -1155,7 +1155,7 @@ permissions-block-popups-exceptions-button =
     .accesskey = ე
     .searchkeywords = ამომხტომები
 permissions-addon-install-warning =
-    .label = გაფრთხილება საიტების მიერ დამატების ჩადგმის მცდელობისას
+    .label = გაფრთხილება საიტების მიერ დამატების ჩადგმამდე
     .accesskey = გ
 permissions-addon-exceptions =
     .label = გამონაკლისები…
@@ -1234,7 +1234,7 @@ space-alert-under-5gb-message2 = <strong>{ -brand-short-name } იუწყე�
 ## Privacy Section - HTTPS-Only
 
 httpsonly-header = მხოლოდ-HTTPS-რეჟიმი
-httpsonly-description = HTTPS საშუალებას იძლევა, რომ { -brand-short-name } უსაფრთხოდ და მონაცემთა დაშიფვრით დაუკავშირდეს საიტს, რომელსაც ეწვევით. უმეტეს ვებსაიტზე HTTPS მხარდაჭერილია და როცა მხოლოდ-HTTPS-რეჟიმი ჩართულია, { -brand-short-name } ყველა კავშირს უზრუნველყოფს HTTPS-ით.
+httpsonly-description = HTTPS საშუალებას იძლევა, რომ { -brand-short-name } უსაფრთხოდ და მონაცემთა დაშიფვრით დაუკავშირდეს საიტს, რომელსაც ეწვევით. უმეტეს ვებსაიტზე HTTPS მხარდაჭერილია და როცა მხოლოდ-HTTPS-რეჟიმი ჩართულია, { -brand-short-name } ყველა კავშირს ატარებს HTTPS-ით.
 httpsonly-learn-more = ვრცლად
 httpsonly-radio-enabled =
     .label = მხოლოდ-HTTPS-რეჟიმი ყველა ფანჯარაში
