@@ -5,6 +5,13 @@
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Pregledovalnik mnenj
+shopping-beta-marker = Beta
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Pregledovalnik mnenj - beta
 shopping-close-button =
     .title = Zapri
 # This string is for notifying screen reader users that the
@@ -17,6 +24,9 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
+shopping-letter-grade-description-ab = Zanesljiva mnenja
+shopping-letter-grade-description-c = Mešanica zanesljivih in nezanesljivih mnenj
+shopping-letter-grade-description-df = Nezanesljiva mnenja
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
 # It is also used for screen readers.
@@ -27,15 +37,25 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-button = Preveri zdaj
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = Cena
+shopping-highlight-quality = Kakovost
+shopping-highlight-shipping = Pošiljanje
+shopping-highlight-competitiveness = Konkurenčnost
+shopping-highlight-packaging = Embalaža
 
 ## Strings for show more card
 
+shopping-show-more-button = Prikaži več
+shopping-show-less-button = Prikaži manj
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Nastavitve
 
 ## Strings for the adjusted rating component
 
@@ -48,6 +68,10 @@ shopping-letter-grade-tooltip =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Odpri pregledovalnik mnenj
+shopping-sidebar-close-button2 =
+    .tooltiptext = Zapri pregledovalnik mnenj
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -56,9 +80,13 @@ shopping-letter-grade-tooltip =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = O teh mnenjih še ni podatkov
+shopping-unanalyzed-product-message-2 = Če želite preveriti, ali so ocene tega izdelka zanesljive, preverite kakovost mnenj. Traja le približno 60 sekund.
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Več za razmislek
 
 ## Shopping survey strings.
 
