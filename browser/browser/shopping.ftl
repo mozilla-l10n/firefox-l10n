@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Nakupovanje v { -brand-product-name(sklon: "mestnik") }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Pregledovalnik mnenj
@@ -44,6 +45,18 @@ shopping-message-bar-generic-error-message = Poskušamo odpraviti težavo. Preve
 shopping-message-bar-warning-not-enough-reviews-title = Ni še dovolj mnenj
 shopping-message-bar-warning-not-enough-reviews-message2 = Ko bo za ta izdelek na voljo več mnenj, bomo lahko preverili njihovo kakovost.
 shopping-message-bar-warning-product-not-available-title = Izdelek ni na voljo
+shopping-message-bar-warning-product-not-available-message2 = Če opazite, da je izdelek znova na zalogi, nam to sporočite in preverili bomo mnenja.
+shopping-message-bar-warning-product-not-available-button = Sporočite, da je izdelek znova na zalogi
+shopping-message-bar-thanks-for-reporting-title = Hvala za sporočilo!
+shopping-message-bar-thanks-for-reporting-message2 = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
+shopping-message-bar-warning-product-not-available-reported-title2 = Podatki bomo kmalu na voljo
+shopping-message-bar-warning-product-not-available-reported-message2 = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
+shopping-message-bar-generic-error =
+    .heading = Trenutno ni na voljo nobenih podatkov
+    .message = Poskušamo odpraviti težavo. Preverite znova kmalu.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ni še dovolj mnenj
+    .message = Ko bo za ta izdelek na voljo več mnenj, bomo lahko preverili njihovo kakovost.
 
 ## Strings for the product review snippets card
 
@@ -94,9 +107,12 @@ shopping-unanalyzed-product-analyze-button = Preveri kakovost mnenj
 
 more-to-consider-ad-label =
     .label = Več za razmislek
+ad-by-fakespot = Oglas { -fakespot-brand-name }a
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Pomagajte izboljšati { -brand-product-name }
+shopping-survey-question-one = Kako zadovoljni ste z izkušnjo pregledovalnika mnenj v { -brand-product-name(sklon: "mestnik") }?
 shopping-survey-q1-radio-1-label = Zelo zadovoljen
 shopping-survey-q1-radio-2-label = Zadovoljen
 shopping-survey-q1-radio-3-label = Nevtralen
