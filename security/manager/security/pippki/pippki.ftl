@@ -57,6 +57,11 @@ client-auth-window =
     .title = Peto por identigo de uzanto
 client-auth-site-description = Tiu ĉi retejo petis ke vi identigu vin per atestilo:
 client-auth-choose-cert = Elekti atestilon por prezenti kiel identigilo:
+client-auth-send-no-certificate =
+    .label = Ne sendi atestilon
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” petis ke vi identigu vin per atestilo:
 client-auth-cert-details = Detaloj de la elektita atestilo:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

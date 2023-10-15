@@ -24,6 +24,8 @@ inactive-css-not-flex-item = <strong>{ $property }</strong> ne efikas sur tiu ĉ
 inactive-css-not-flex-container = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas ingo flex.
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi ne estas entekstan aŭ tabelĉela elemento.
 inactive-css-first-line-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::first-line.
+inactive-css-first-letter-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::first-letter.
+inactive-css-placeholder-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::placeholder.
 inactive-css-property-because-of-display = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝia atributo "display" estas <strong>{ $display }</strong>.
 inactive-css-not-display-block-on-floated = La valoro de <strong>display</strong> estis ŝanĝita de la motoro al <strong>block</strong> ĉar la elemento estas <strong>floated</strong>.
 inactive-css-property-is-impossible-to-override-in-visited = Ne eblas superregi <strong>{ $property }</strong> pro limigo de <strong>:visited</strong>.
@@ -37,6 +39,7 @@ inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</stron
 inactive-css-border-image = <strong>{ $property }</strong> ne efikas sur tiun ĉi elementon ĉar ĝi ne povas esti aplikita al internaj tabulaj elementoj, por kiuj <strong>border-collapse</strong> havas la valoron <strong>collapse</strong> en la gepatra tabula elemento.
 inactive-css-ruby-element = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas elemento 'ruby'. Ĝia grando estas difinita de la tipara grando de la teksto 'ruby'.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ne estas subtenata en elstarigitaj kvazaŭelementoj.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::cue.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

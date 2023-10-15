@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Por protekti viajn datumojn
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Kelkaj etendaĵoj ne estas permesataj
     .message = Por protekti viajn datumojn, kelkaj etendaĵoj ne povas legi aŭ ŝanĝi datumojn en tiun ĉi retejo. Modifu la agordojn de la etendaĵo por permesi al ĝi tion fari en retejoj limigitaj de { -vendor-short-name }.
+unified-extensions-mb-quarantined-domain-learn-more = Pli da informo
+    .aria-label = Pli da informo: kelkaj etendaĵoj ne estas permesitaj
