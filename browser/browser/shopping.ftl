@@ -54,6 +54,26 @@ shopping-message-bar-warning-product-not-available-reported-message2 = Ni devus 
 shopping-message-bar-generic-error =
     .heading = Neniu informo disponebla en tiu ĉi momento
     .message = Ni klopodas solvi la problemon. Bonvolu rekontroli baldaŭ.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ankoraŭ ne estas sufiĉe da recenzoj
+    .message = Kiam tiu ĉi produkto havos pli da recenzoj, ni povos kontroli ĝian kvaliton.
+shopping-message-bar-warning-product-not-available =
+    .heading = Nedisponebla produkto
+    .message = Se vi vidas ke denove estas stoko de tiu ĉi produko, raportu tion kaj ni kontrolos la recenzojn.
+shopping-message-bar-warning-product-not-available-button2 = Raporti ke denove estas stoko de tiu ĉi produkto
+shopping-message-bar-thanks-for-reporting =
+    .heading = Dankon pro via raporto!
+    .message = Ni devus havi informojn pri la recenzoj de tiu ĉi produkto dum la venontaj 24 horoj. Bonvolu rekontroli.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Baldaŭaj informoj
+    .message = Ni devus havi informojn pri la recenzoj de tiu ĉi produkto dum la venontaj 24 horoj. Bonvolu rekontroli.
+shopping-message-bar-analysis-in-progress-title2 = Kvalito de recenzoj estas taksata
+shopping-message-bar-analysis-in-progress-message2 = Tio povas postuli proksimume 60 sekundojn.
+shopping-message-bar-page-not-supported-title = Ni ne povas kontroli tiujn recenzojn
+shopping-message-bar-page-not-supported-message = Bedaŭrinde ni ne povas kontroli la kvaliton de la recenzoj por kelkaj tipoj de produktoj. Ekzemple por donackartoj, retaj elsendoj, reta muziko kaj ludoj.
+shopping-message-bar-page-not-supported =
+    .heading = Ni ne povas kontroli tiujn recenzojn
+    .message = Bedaŭrinde ni ne povas kontroli la kvaliton de la recenzoj por kelkaj tipoj de produktoj. Ekzemple por donackartoj, retaj elsendoj, reta muziko kaj ludoj.
 
 ## Strings for the product review snippets card
 
