@@ -164,6 +164,10 @@ extensions-warning-update-security2 =
     .message = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
 extensions-warning-update-security-button = Habilita
     .title = Habilita la comprovació de seguretat dels complements
+extensions-warning-imported-addons = Finalitzeu la instal·lació de les extensions que s'han importat al { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = Finalitzeu la instal·lació de les extensions que s'han importat al { -brand-short-name }.
+extensions-warning-imported-addons-button = Instal·la les extensions
 
 ## Strings connected to add-on updates
 
@@ -359,6 +363,10 @@ addon-detail-updates-radio-on = Sí
 addon-detail-updates-radio-off = No
 addon-detail-update-check-label = Cerca actualitzacions
 install-update-button = Actualitza
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -367,10 +375,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Si ho permeteu, l'extensió tindrà accés a la vostra activitat a Internet encara que utilitzeu la navegació privada. <a data-l10n-name="learn-more">Més informació</a>
 addon-detail-private-browsing-allow = Permet
 addon-detail-private-browsing-disallow = No ho permetis
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Executa en llocs amb restriccions
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Si ho permeteu, l'extensió tindrà accés als llocs restringits per { -vendor-short-name }. Permeteu-ho només si confieu en aquesta extensió.
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Permet
+addon-detail-quarantined-domains-disallow = No ho permetis
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
