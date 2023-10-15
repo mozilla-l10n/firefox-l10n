@@ -40,7 +40,6 @@ styleeditor-go-to-line =
     .accesskey = I
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = Neniu kongrua stilfolio trovita.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -49,3 +48,9 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } regulo.
        *[other] { $ruleCount } reguloj.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Aranĝi kaj deŝovi stilfolion
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Nur eblas aranĝi kaj deŝovi dosierojn CSS
