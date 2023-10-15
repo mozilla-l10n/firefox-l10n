@@ -116,9 +116,24 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Nia maniero difini la kvaliton de recenzoj
+shopping-analysis-explainer-intro2 = Ni uzas artefaritn intelektan (AI) teknologion de { -fakespot-brand-full-name } por kontroli fidindecon de recenzoj de produktoj. Tio helpos vin nur taksi la kvaliton de recenzoj, ne la kvaliton de produktoj.
+shopping-analysis-explainer-grades-intro = Ni donas al ĉiu recenzo de produkto <strong>literan noton</strong> el A ĝis F.
+shopping-analysis-explainer-adjusted-rating-description = La <strong>alĝustigita taksado</strong> estas bazita nur sur la recenzoj, kiujn ni opinias fidindaj.
+shopping-analysis-explainer-learn-more = Pli da informo pri <a data-l10n-name="review-quality-url">kiel { -fakespot-brand-full-name } determinas la kvaliton de recenzoj</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Elstaraĵoj</strong> venas el recenzoj de { $retailer }, kiujn ni opinias fidindaj kaj okazis dum la lastaj 80 tagoj.
+shopping-analysis-explainer-review-grading-scale-reliable = Fidindaj recenzoj. Ni pensas ke tiuj venas el verŝajnaj veraj klientoj, kiuj donis sincerajn kaj objektivajn recenzojn.
+shopping-analysis-explainer-review-grading-scale-mixed = Ni pensas ke estas miksaĵo de findindaj kaj nefidindaj recenzoj.
+shopping-analysis-explainer-review-grading-scale-unreliable = Nefidindaj recenzoj. Ni pensas ke tiuj estas verŝajne ĉu malveraj ĉu donitaj de neobjektivaj recenzintoj.
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Malfermi la kontrolilon de recenzoj
+shopping-sidebar-close-button2 =
+    .tooltiptext = Fermi la kontrolilo de recenzoj
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -127,9 +142,15 @@ shopping-analysis-explainer-label =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ankoraŭ ne estas informoj pri tiuj recenzoj
+shopping-unanalyzed-product-message-2 = Por scii ĉu la recenzoj de tiu ĉi produkto estas fidindaj, kontrolu la kvaliton de recenzoj. Tio povas daŭri proksimume 60 sekundojn.
+shopping-unanalyzed-product-analyze-button = Kontroli kvaliton de recenzoj
 
 ## Strings for the advertisement
 
+more-to-consider-ad-label =
+    .label = Alternativaj produktoj
+ad-by-fakespot = Reklamo de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
