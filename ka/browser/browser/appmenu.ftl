@@ -254,4 +254,4 @@ appmenu-customizetoolbar =
     .label = ხელსაწყოთა ზოლის მორგება...
 appmenu-developer-tools-subheader = ბრაუზერის ხელსაწყოები
 appmenu-developer-tools-extensions =
-    .label = Extensions for Developers
+    .label = გაფართოებები შემმუშავებელთათვის
