@@ -29,12 +29,14 @@ firefoxview-tabpickup-step-signin-header = Brez težav preklapljajte med naprava
 firefoxview-tabpickup-step-signin-description = Če želite tukaj prikazati zavihke s telefona, se prijavite ali ustvarite račun.
 firefoxview-tabpickup-step-signin-primarybutton = Nadaljuj
 firefoxview-syncedtabs-signin-header = Zajemite zavihke od koderkoli
+firefoxview-syncedtabs-signin-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v svoj račun. Če računa še nimate, vas bomo popeljali skozi korake za prijavo.
 firefoxview-syncedtabs-signin-primarybutton = Prijavite se ali ustvarite račun
 firefoxview-tabpickup-adddevice-header = Sinhronizirajte { -brand-product-name } s telefonom ali tablico
 firefoxview-tabpickup-adddevice-description = Prenesite { -brand-product-name } za mobilne naprave in se prijavite vanj.
 firefoxview-tabpickup-adddevice-learn-how = Poglejte, kako
 firefoxview-tabpickup-adddevice-primarybutton = Prenesi { -brand-product-name } za mobilne naprave
 firefoxview-syncedtabs-adddevice-header = Prijavite se v { -brand-product-name } na drugih napravah
+firefoxview-syncedtabs-adddevice-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v vseh svojih napravah. Spoznajte kako <a data-l10n-name="url">povezati dodatne naprave</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
 firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.
@@ -172,6 +174,7 @@ firefoxview-view-more-browsing-history = Prikaži več zgodovine brskanja
 ## Message displayed in Firefox View when the user has no history data
 
 firefoxview-history-empty-header = Vrnite se tja, kjer ste bili
+firefoxview-history-empty-description = Med brskanjem bodo strani, ki jih obiščete, navedene tukaj.
 firefoxview-history-empty-description-two = Varstvo vaše zasebnosti je v središču našega delovanja. Zato lahko v <a data-l10n-name="history-settings-url">nastavitvah zgodovine</a> odločate, katero dejavnost naj si { -brand-short-name } zapomni.
 
 ##
@@ -182,6 +185,7 @@ firefoxview-choose-browser-button = Izberite brskalnik
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Nič za prikaz
 firefoxview-dont-remember-history-empty-description = Varstvo vaše zasebnosti je srž našega delovanja. Zato lahko odločate, katero dejavnost naj si { -brand-short-name } zapomni.
 firefoxview-dont-remember-history-empty-description-two = Pri trenutnih nastavitvah si { -brand-short-name } ne zapomni vašega brskanja. Če želite to spremeniti, <a data-l10n-name="history-settings-url-two">v nastavitvah izberite shranjevanje zgodovine</a>.
 
