@@ -188,6 +188,20 @@ shopping-callout-closed-not-opted-in-subtitle = Паспрабуйце прав�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Паспрабуйце наш надзейны даведнік па водгуках на прадукты
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Паглядзіце, наколькі надзейныя водгукі на прадукт на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -vendor-short-name }, убудавана наўпрост у { -brand-product-name } — і працуе на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b> таксама.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Паглядзіце, наколькі надзейныя водгукі на прадукт на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -brand-product-name }, убудавана прама ў браўзер. Яна працуе на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b> таксама.
+shopping-onboarding-body = Выкарыстоўваючы магчымасці { -fakespot-brand-full-name }, мы дапамагаем вам пазбегнуць неаб’ектыўных і несапраўдных водгукаў. Наша мадэль штучнага інтэлекту пастаянна ўдасканальваецца, каб абараніць вас у часе куплі. <a data-l10n-name="learn_more">Падрабязней</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Так, паспрабаваць
 shopping-onboarding-not-now-button = Не зараз
 shopping-onboarding-dialog-close-button =
