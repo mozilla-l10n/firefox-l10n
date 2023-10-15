@@ -48,6 +48,7 @@ about-logging-preset-gfx-label = Grafikoj
 about-logging-preset-gfx-description = Registraj moduloj por diagnozi grafikajn problemojn
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Registraj moduloj por diagnozi problemojn specifajn de Microsoft Windows
 about-logging-preset-custom-label = Personecigita
 about-logging-preset-custom-description = Permane elekitaj registraj moduloj
 # Error handling
