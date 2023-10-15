@@ -7,6 +7,12 @@ shopping-page-title = Пакупкі ў { -brand-product-name }
 # review quality of online shopping product reviews
 shopping-main-container-title = Праверка водгукаў
 shopping-beta-marker = Бэта
+# This string is for ensuring that screen reader technology
+# can read out the "Beta" part of the shopping sidebar header.
+# Any changes to shopping-main-container-title and
+# shopping-beta-marker should also be reflected here.
+shopping-a11y-header =
+    .aria-label = Праверка водгукаў - бэта
 shopping-close-button =
     .title = Закрыць
 # This string is for notifying screen reader users that the
@@ -45,6 +51,22 @@ shopping-message-bar-thanks-for-reporting-title = Дзякуй за паведа
 shopping-message-bar-thanks-for-reporting-message2 = Мы павінны атрымаць інфармацыю аб водгуках аб гэтым прадукце на працягу 24 гадзін. Праверце зноў пазней.
 shopping-message-bar-warning-product-not-available-reported-title2 = Інфармацыя хутка будзе
 shopping-message-bar-warning-product-not-available-reported-message2 = Мы павінны атрымаць інфармацыю аб водгуках аб гэтым прадукце на працягу 24 гадзін. Праверце зноў пазней.
+shopping-message-bar-generic-error =
+    .heading = Зараз інфармацыя адсутнічае
+    .message = Мы працуем над вырашэннем праблемы. Калі ласка, праверце пазней.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Пакуль недастаткова водгукаў
+    .message = Калі прадукт набярэ больш водгукаў, мы зможам праверыць іх якасць.
+shopping-message-bar-warning-product-not-available =
+    .heading = Прадукт недаступны
+    .message = Калі вы ўбачыце гэты прадукт у наяўнасці, паведаміце пра гэта, і мы будзем працаваць над праверкай водгукаў.
+shopping-message-bar-warning-product-not-available-button2 = Паведаміць, што прадукт ёсць у наяўнасці
+shopping-message-bar-thanks-for-reporting =
+    .heading = Дзякуй за паведамленне!
+    .message = Мы павінны атрымаць інфармацыю аб водгуках на гэты прадукт на працягу 24 гадзін. Калі ласка, праверце пазней.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Інфармацыя хутка будзе
+    .message = Мы павінны атрымаць інфармацыю аб водгуках на гэты прадукт цягам 24 гадзін. Калі ласка, праверце пазней.
 shopping-message-bar-analysis-in-progress-title2 = Праверка якасці водгукаў
 shopping-message-bar-analysis-in-progress-message2 = Гэта можа заняць каля 60 секунд.
 shopping-message-bar-page-not-supported-title = Мы не можам праверыць гэтыя водгукі
@@ -95,6 +117,9 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Як мы вызначаем якасць водгукаў
+shopping-analysis-explainer-intro2 =
+    Мы выкарыстоўваем тэхналогію штучнага інтэлекту ад { -fakespot-brand-full-name } для праверкі надзейнасці водгукаў на прадукцыю.
+    Гэта дапаможа вам ацаніць толькі якасць водгуку, а не якасць прадукту.
 shopping-analysis-explainer-grades-intro = Кожнаму водгуку на прадукт мы прысвойваем <strong>літарную адзнаку</strong> ад A да F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скарэкціраваны рэйтынг</strong> заснаваны толькі на водгуках, якія мы лічым надзейнымі.
 shopping-analysis-explainer-learn-more = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } вызначае якасць водгукаў</a>.
@@ -132,6 +157,7 @@ ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Дапамажыце палепшыць { -brand-product-name }
 shopping-survey-q1-radio-2-label = Задаволены
 shopping-survey-q1-radio-3-label = Нейтральны
 shopping-survey-q1-radio-4-label = Незадаволены
