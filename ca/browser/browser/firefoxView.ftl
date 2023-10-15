@@ -102,6 +102,8 @@ firefoxview-collapse-button-hide =
     .title = Amaga la llista
 firefoxview-overview-nav = Navegació recent
     .title = Navegació recent
+firefoxview-overview-header = Navegació recent
+    .title = Navegació recent
 
 ## History in this context refers to browser history
 
@@ -177,15 +179,26 @@ firefoxview-history-empty-description-two = La nostra prioritat és protegir la 
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Trieu un navegador
+    .title = Trieu un navegador
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Res a mostrar
+firefoxview-dont-remember-history-empty-description = La nostra prioritat és protegir la vostra privadesa. És per això que podeu controlar l'activitat que el { -brand-short-name } recorda.
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Tanca
+    .title = Tanca
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importeu l'historial d'un altre navegador
+firefoxview-import-history-description = Feu que el { -brand-short-name } sigui el vostre navegador de referència. Importeu l'historial de navegació, les adreces d'interès, etc.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
