@@ -158,21 +158,32 @@ ad-by-fakespot = Рэклама ад { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Дапамажыце палепшыць { -brand-product-name }
+shopping-survey-question-one = Наколькі вы задаволены праверкай водгукаў у { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Вельмі задаволены
 shopping-survey-q1-radio-2-label = Задаволены
 shopping-survey-q1-radio-3-label = Нейтральны
 shopping-survey-q1-radio-4-label = Незадаволены
 shopping-survey-q1-radio-5-label = Вельмі незадаволены
+shopping-survey-question-two = Ці палягчае праверка водгукаў прыняць рашэнне аб куплі?
 shopping-survey-q2-radio-1-label = Так
 shopping-survey-q2-radio-2-label = Не
 shopping-survey-q2-radio-3-label = Не ведаю
 shopping-survey-next-button-label = Далей
 shopping-survey-submit-button-label = Даслаць
 shopping-survey-terms-link = Умовы выкарыстання
+shopping-survey-thanks-message = Дзякуй за ваш водгук!
+shopping-survey-thanks =
+    .heading = Дзякуй за ваш водгук!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Вяртайцеся да <strong>праверкі водгукаў</strong> кожны раз, калі ўбачыце цэннік.
+shopping-callout-pdp-opted-in-title = Ці надзейныя гэтыя водгукі? Даведайцеся хутка.
+shopping-callout-pdp-opted-in-subtitle = Адкрыйце праверку водгукаў, каб убачыць скарэкціраваны рэйтынг з выдаленымі ненадзейнымі водгукамі. Акрамя таго, паглядзіце асноўныя моманты з апошніх сапраўдных аглядаў.
+shopping-callout-closed-not-opted-in-title = Адзін націск да надзейных водгукаў
+shopping-callout-closed-not-opted-in-subtitle = Паспрабуйце праверку водгукаў кожны раз, калі бачыце цэннік. Хутка атрымлівайце інфармацыю ад рэальных пакупнікоў — перш чым купляць.
 
 ## Onboarding message strings.
 
