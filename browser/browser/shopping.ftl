@@ -154,11 +154,32 @@ ad-by-fakespot = Reklamo de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Helpu plibonigi { -brand-product-name }
+shopping-survey-question-one = Kiel kontentiga estis via sperto kun la kontrolilo de recenzoj de { -brand-product-name }?
+shopping-survey-q1-radio-1-label = Tre kontentiga
+shopping-survey-q1-radio-2-label = Kontentiga
+shopping-survey-q1-radio-3-label = Neŭtra
+shopping-survey-q1-radio-4-label = Nekontentiga
+shopping-survey-q1-radio-5-label = Tute nekontentiga
+shopping-survey-question-two = Ĉu la kontrolilo de recenzoj simpligas viajn aĉetumajn decidojn?
+shopping-survey-q2-radio-1-label = Jes
+shopping-survey-q2-radio-2-label = Ne
+shopping-survey-q2-radio-3-label = Mi ne scias
+shopping-survey-next-button-label = Antaŭen
+shopping-survey-submit-button-label = Sendi
+shopping-survey-terms-link = Kondiĉoj de uzo
+shopping-survey-thanks-message = Dankon pro via opinio!
+shopping-survey-thanks =
+    .heading = Dankon pro via opinio!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Iru reen al la <strong>kontrolilo de recenzoj</strong> kiam ajn vi vidos la etikedon kun prezo.
+shopping-callout-pdp-opted-in-title = Ĉu tiuj ĉi recenzoj estas fidindaj? Rapide eltrovu tion.
+shopping-callout-pdp-opted-in-subtitle = Malfermi la kontrolilon de recenzoj por vidi alĝustigitan taksadon, post forigo de nefidindaj recenzoj. Cetere vidu elstaraĵojn el ĵusaj aŭtentikaj recenzoj.
+shopping-callout-closed-not-opted-in-title = Unu alklako por havi fidindajn recenzojn
 
 ## Onboarding message strings.
 
