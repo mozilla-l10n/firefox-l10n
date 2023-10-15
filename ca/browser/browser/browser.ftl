@@ -357,6 +357,7 @@ identity-weak-encryption = Aquesta pàgina utilitza xifratge feble.
 identity-insecure-login-forms = Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.
 identity-https-only-connection-upgraded = (actualitzat a HTTPS)
 identity-https-only-label = Mode només HTTPS
+identity-https-only-label2 = Actualitza automàticament aquest lloc a una connexió segura
 identity-https-only-dropdown-on =
     .label = Activat
 identity-https-only-dropdown-off =
@@ -364,7 +365,9 @@ identity-https-only-dropdown-off =
 identity-https-only-dropdown-off-temporarily =
     .label = Desactivat temporalment
 identity-https-only-info-turn-on2 = Activeu el mode només HTTPS per a aquest lloc si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
-identity-https-only-info-turn-off2 = Si sembla que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a aquest lloc per tornar-lo a carregar amb HTTP insegur.
+identity-https-only-info-turn-off2 = Si sembla que la pàgina no funciona bé, podeu provar de desactivar el mode només HTTPS per a aquest lloc perquè es torni a carregar amb HTTP insegur.
+identity-https-only-info-turn-on3 = Activeu l'actualització a HTTPS per a aquest lloc si voleu que el { -brand-short-name } canviï a una connexió segura quan sigui possible.
+identity-https-only-info-turn-off3 = Si sembla que la pàgina no funciona bé, podeu provar de desactivar l'actualització a HTTPS per a aquest lloc perquè es torni a carregar amb HTTP insegur.
 identity-https-only-info-no-upgrade = No s'ha pogut actualitzar la connexió des d'HTTP.
 identity-permissions-storage-access-header = Galetes entre llocs
 identity-permissions-storage-access-hint = Aquests subjectes poden utilitzar galetes entre llocs i dades del lloc mentre esteu en aquest lloc.
@@ -900,6 +903,9 @@ unified-extensions-button-permissions-needed =
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
 
 
 ## Autorefresh blocker
