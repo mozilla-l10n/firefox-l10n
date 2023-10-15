@@ -36,7 +36,7 @@ firefoxview-tabpickup-adddevice-description = Prenesite { -brand-product-name } 
 firefoxview-tabpickup-adddevice-learn-how = Poglejte, kako
 firefoxview-tabpickup-adddevice-primarybutton = Prenesi { -brand-product-name } za mobilne naprave
 firefoxview-syncedtabs-adddevice-header = Prijavite se v { -brand-product-name } na drugih napravah
-firefoxview-syncedtabs-adddevice-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v vseh svojih napravah. Spoznajte kako <a data-l10n-name="url">povezati dodatne naprave</a>.
+firefoxview-syncedtabs-adddevice-description = Če želite svoje zavihke videti ne glede na to, kje uporabljate { -brand-product-name }, se prijavite v vseh svojih napravah. Spoznajte, kako <a data-l10n-name="url">povezati dodatne naprave</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Preizkusite { -brand-product-name } za mobilne naprave
 firefoxview-tabpickup-synctabs-header = Vklopi sinhronizacijo zavihkov
 firefoxview-tabpickup-synctabs-description = { -brand-short-name(sklon: "dajalnik") } dovoli skupno rabo zavihkov med napravami.

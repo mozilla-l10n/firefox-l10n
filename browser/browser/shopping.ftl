@@ -12,7 +12,7 @@ shopping-beta-marker = Beta
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Pregledovalnik mnenj - beta
+    .aria-label = Pregledovalnik mnenj – beta
 shopping-close-button =
     .title = Zapri
 # This string is for notifying screen reader users that the
@@ -46,7 +46,7 @@ shopping-message-bar-warning-not-enough-reviews-title = Ni še dovolj mnenj
 shopping-message-bar-warning-not-enough-reviews-message2 = Ko bo za ta izdelek na voljo več mnenj, bomo lahko preverili njihovo kakovost.
 shopping-message-bar-warning-product-not-available-title = Izdelek ni na voljo
 shopping-message-bar-warning-product-not-available-message2 = Če opazite, da je izdelek znova na zalogi, nam to sporočite in preverili bomo mnenja.
-shopping-message-bar-warning-product-not-available-button = Sporočite, da je izdelek znova na zalogi
+shopping-message-bar-warning-product-not-available-button = Sporoči, da je izdelek znova na zalogi
 shopping-message-bar-thanks-for-reporting-title = Hvala za sporočilo!
 shopping-message-bar-thanks-for-reporting-message2 = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
 shopping-message-bar-warning-product-not-available-reported-title2 = Podatki bomo kmalu na voljo
@@ -124,7 +124,7 @@ shopping-analysis-explainer-learn-more = Spoznajte več o tem, <a data-l10n-name
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
-shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80. dneh, za katere menimo, da so zanesljiva.
+shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
 shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so mnenja verjetno napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
 shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
 shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so mnenja verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
