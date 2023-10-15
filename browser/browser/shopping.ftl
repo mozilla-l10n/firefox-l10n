@@ -181,7 +181,7 @@ shopping-callout-closed-opted-in-subtitle = Vrnite se na <strong>pregledovanik m
 shopping-callout-pdp-opted-in-title = Hitro ugotovite, ali so ta mnenja zanesljiva.
 shopping-callout-pdp-opted-in-subtitle = Odprite pregledovalnik mnenj in si oglejte prilagojeno oceno, iz katere so odstranjena nezanesljiva mnenja. Poleg tega si oglejte poudarke iz nedavnih verodostojnih mnenj.
 shopping-callout-closed-not-opted-in-title = En klik do zanesljivih mnenj
-shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup pridobite vpogled v mnenja resničnih kupcev.
+shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup, pridobite vpogled v mnenja resničnih kupcev.
 
 ## Onboarding message strings.
 
