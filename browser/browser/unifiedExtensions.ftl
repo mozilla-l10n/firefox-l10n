@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Aby chronić dane użytkown
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Część rozszerzeń jest niedozwolona
     .message = Aby chronić dane użytkownika, część rozszerzeń nie może odczytywać ani zmieniać danych na tej witrynie. Można zezwolić rozszerzeniu działać na witrynach z ograniczeniami nałożonymi przez { -vendor-short-name(case: "acc") } w jego ustawieniach.
+unified-extensions-mb-quarantined-domain-learn-more = Więcej informacji
+    .aria-label = Więcej informacji: część rozszerzeń jest niedozwolona
