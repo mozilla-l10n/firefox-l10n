@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Sincronitza ara
 appmenuitem-fxa-sign-in = Inicia la sessió al { -brand-product-name }
 appmenuitem-fxa-manage-account = Gestiona el compte
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Compte
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)
