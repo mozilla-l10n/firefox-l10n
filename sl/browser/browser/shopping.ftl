@@ -94,12 +94,24 @@ shopping-show-less-button = Prikaži manj
 
 shopping-settings-label =
     .label = Nastavitve
+shopping-settings-recommendations-toggle =
+    .label = Prikaži oglase v pregledovalniku mnenj
+shopping-settings-recommendations-learn-more = Občasno boste videli oglase za primerne izdelke. Vsi oglasi morajo izpolnjevati naše standarde kakovosti mnenj. <a data-l10n-name="review-quality-url">Več o tem</a>
+shopping-settings-opt-out-button = Izklopi pregledovalnik mnenj
+powered-by-fakespot = Pregledovalnik mnenj uporablja tehnologijo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Prilagojena ocena
+shopping-adjusted-rating-unreliable-reviews = Nezanesljiva mnenja odstranjena
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Kako zanesljiva so ta mnenja?
 
 ## Strings for the analysis explainer component
 
