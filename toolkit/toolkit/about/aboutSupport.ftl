@@ -406,4 +406,5 @@ support-remote-features-status = Tila
 
 pointing-device-mouse = Hiiri
 pointing-device-touchscreen = Kosketusnäyttö
+pointing-device-pen-digitizer = Digitaalinen kynä
 pointing-device-none = Ei osoitinlaitteita
