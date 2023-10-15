@@ -944,6 +944,7 @@ firefox-relay-offer-why-to-use-relay = Les màscares, segures i fàcils d'utilit
 # Variables:
 #  $useremail (String): user email that will receive messages
 firefox-relay-offer-what-relay-provides = Tots els missatges de correu enviats a les vostres màscares de correu electrònic es reenviaran a <strong>{ $useremail }</strong> (tret que decidiu blocar-los).
+firefox-relay-offer-legal-notice = En fer clic a «Utilitza una màscara de correu electrònic», accepteu les <label data-l10n-name="tos-url">condicions d'ús del servei</label> i l'<label data-l10n-name="privacy-url">avís de privadesa</label>.
 
 ## Add-on Pop-up Notifications
 
