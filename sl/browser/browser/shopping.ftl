@@ -178,12 +178,28 @@ shopping-survey-thanks =
 ## access the feature.
 
 shopping-callout-closed-opted-in-subtitle = Vrnite se na <strong>pregledovanik mnenj</strong>, ko vidite listek s ceno.
+shopping-callout-pdp-opted-in-title = Hitro ugotovite, ali so ta mnenja zanesljiva.
 shopping-callout-pdp-opted-in-subtitle = Odprite pregledovalnik mnenj in si oglejte prilagojeno oceno, iz katere so odstranjena nezanesljiva mnenja. Poleg tega si oglejte poudarke iz nedavnih verodostojnih mnenj.
 shopping-callout-closed-not-opted-in-title = En klik do zanesljivih mnenj
 shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup pridobite vpogled v mnenja resničnih kupcev.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Preizkusite naš zaupanja vreden vodnik po ocenah izdelkov
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Pred nakupom preverite, kako zanesljiva so mnenja o izdelkih v trgovini <b>{ $currentSite }</b>. Pregledovalnik mnenj, preizkusna zmogljivost { -vendor-short-name(sklon: "rodilnik") }, je vgrajen neposredno v { -brand-product-name } in deluje tudi v trgovinah <b>{ $secondSite }</b> in <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Pred nakupom preverite, kako zanesljiva so mnenja o izdelkih v trgovini <b>{ $currentSite }</b>. Pregledovalnik mnenj, preizkusna zmogljivost { -brand-product-name(sklon: "rodilnik") }, je vgrajen neposredno v brskalnik. Deluje tudi v trgovinah <b>{ $secondSite }</b> in <b>{ $thirdSite }</b>.
+shopping-onboarding-body = { -fakespot-brand-full-name } vam omogoča, da se izognete pristranskim in nepristnim mnenjem. Naš model umetne inteligence se nenehno izboljšuje, da vas ščiti med nakupovanjem. <a data-l10n-name="learn_more">Več o tem</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Z izbiro “{ shopping-onboarding-opt-in-button }“ se strinjate s <a data-l10n-name="privacy_policy">politiko zasebnosti</a> in <a data-l10n-name="terms_of_use">pogoji uporabe { -fakespot-brand-full-name }.</a>
 shopping-onboarding-opt-in-button = Da, poskusi
 shopping-onboarding-not-now-button = Ne zdaj
 shopping-onboarding-dialog-close-button =
