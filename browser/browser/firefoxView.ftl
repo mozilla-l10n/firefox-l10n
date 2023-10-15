@@ -5,10 +5,15 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Shihni shfletim së fundi nëpër dritare dhe pajisje
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = Mbylle
     .aria-label = Mbylle
@@ -23,14 +28,22 @@ firefoxview-tabpickup-progress-label = { $percentValue }% e plotësuar
 firefoxview-tabpickup-step-signin-header = Kaloni si pa u kuptuar nga një pajisje në tjetrën
 firefoxview-tabpickup-step-signin-description = Që të merrni skedat e telefonit tuaj këtu, së pari bëni hyrjen, ose krijoni një llogari të re.
 firefoxview-tabpickup-step-signin-primarybutton = Vazhdo
+firefoxview-syncedtabs-signin-header = Përlani skeda nga kudo
+firefoxview-syncedtabs-signin-primarybutton = Hyni ose regjistrohuni
 firefoxview-tabpickup-adddevice-header = Njëkohësoni { -brand-product-name }-in në telefonin ose tabletin tuaj
 firefoxview-tabpickup-adddevice-description = Shkarkoni { -brand-product-name }-in për celular dhe hyni nga këtu.
 firefoxview-tabpickup-adddevice-learn-how = Mësoni se si
 firefoxview-tabpickup-adddevice-primarybutton = Merrni { -brand-product-name } për celular
+firefoxview-syncedtabs-adddevice-header = Bëni hyrjen në { -brand-product-name } te pajisjet tuaja të tjera
+firefoxview-syncedtabs-adddevice-primarybutton = Provoni { -brand-product-name } për celular
 firefoxview-tabpickup-synctabs-header = Aktivizoni njëkohësim skedash
 firefoxview-tabpickup-synctabs-description = Lejojeni { -brand-short-name }-i të japë skeda nga një pajisje në tjetrën.
 firefoxview-tabpickup-synctabs-learn-how = Mësoni se si
 firefoxview-tabpickup-synctabs-primarybutton = Njëkohëso skeda të hapura
+firefoxview-syncedtabs-synctabs-header = Përditësoni rregullimet tuaja të njëkohësimit
+firefoxview-syncedtabs-synctabs-description = Që të shihni skeda nga pajisje të tjera, lypset të njëkohësoni skedat tuaja të hapura.
+firefoxview-syncedtabs-synctabs-checkbox = Lejoni njëkohësim për skeda të hapura
+firefoxview-syncedtabs-loading-header = Njëkohësim në ecuri e sipër
 firefoxview-tabpickup-fxa-admin-disabled-header = Enti juaj ka çaktivizuar njëkohësimet
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-i s’është në gjendje të njëkohësojë skeda mes pajisjesh, ngaqë përgjegjësi juaj ka çaktivizuar njëkohësimet.
 firefoxview-tabpickup-network-offline-header = Kontrolloni lidhjen tuaj internet
@@ -124,32 +137,65 @@ firefoxview-opentabs-window-header =
 # Variables:
 #   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
 firefoxview-opentabs-current-window-header =
-    .title = Dritare { $winID } (E tanishmjat)
+    .title = Dritare { $winID } (E tanishmja)
+firefoxview-opentabs-focus-tab =
+    .title = Kalo te kjo skedë
+firefoxview-show-more = Shfaq më tepër
+firefoxview-show-less = Shfaq më pak
+firefoxview-sort-history-by-date-label = Renditi sipas datash
+firefoxview-sort-history-by-site-label = Renditi sipas sajtesh
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Kalo te { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Sot - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Dje - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (kartela vendore)
 
 ##
 
+firefoxview-show-all-history = Shfaq krejt historikun
+firefoxview-view-more-browsing-history = Shihni më tepër historik shfletimi
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Kthehuni atje ku keni qenë
+firefoxview-history-empty-description = Teksa shfletoni, këtu do të shfaqen faqet që vizitoni.
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = Zgjidhni shfletues
+    .title = Zgjidhni shfletues
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = Asgjë për shfaqje
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = Mbylle
+    .title = Mbylle
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = Importoni historik nga tjetër shfletues
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = Pa skeda të hapura në këtë pajisje
+firefoxview-syncedtabs-connect-another-device = Lidhni pajisje tjetër
