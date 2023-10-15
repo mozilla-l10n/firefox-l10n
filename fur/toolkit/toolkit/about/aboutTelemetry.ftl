@@ -33,7 +33,7 @@ about-telemetry-keyed-histogram-section = Istograms cun clâf
 about-telemetry-events-section = Events
 about-telemetry-simple-measurements-section = Misurazion semplice
 about-telemetry-slow-sql-section = Mostre istruzions lentis SQL
-about-telemetry-addon-details-section = Detais des zontis
+about-telemetry-addon-details-section = Detais comp. adizionâi
 about-telemetry-late-writes-section = Scrituris tardis
 about-telemetry-raw-payload-section = Payload no elaborât
 about-telemetry-raw = JSON no elaborât
@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Recupere la funzion nons in tassis
 about-telemetry-hide-stack-symbols = Mostre dâts in tassis no elaborâts
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] dâts de publicazion
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ativât
@@ -58,46 +58,46 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } campion, medie = { $prettyAverage }, totâl = { $sum }
        *[other] { $sampleCount } campions, medie = { $prettyAverage }, totâl = { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Cheste pagjine e mostre informazions su prestazions, hardware, utilizazion e personalizazions tirâts dongje di Telemetry. Chestis informazions a vegnin mandadis a { $telemetryServerOwner } par judâ a miorâ { -brand-full-name }.
 about-telemetry-settings-explanation = La telemetrie e sta tirant dongje { about-telemetry-data-type } e il cjariament in rêt al è <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Ogni toc di informazion al ven mandât in grups clamâts “<a data-l10n-name="ping-link">pings</a>”. Cumò tu stâs viodint il ping { $name }, { $timestamp }.
 about-telemetry-data-details-current = Ogni toc di informazion al ven mandât in grups clamâts “<a data-l10n-name="ping-link">pings</a>“. In chest moment a son visualizâts i dâts corints.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = Cjate in { $selectedTitle }
 about-telemetry-filter-all-placeholder =
     .placeholder = Cjate in dutis lis sezions
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = Risultâts par “{ $searchTerms }”
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = Nus displâs, “{ $currentSearchText }” nol è stât cjatât in { $sectionName }
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = Nus displâs, “{ $searchTerms }” nol è stât cjatât in nissune sezion.
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = Nus displâs, in chest moment no si àn dâts disponibii in “{ $sectionName }”.
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = dâts corints
@@ -115,13 +115,13 @@ about-telemetry-slow-sql-statement = Declarazion
 about-telemetry-addon-table-id = ID component adizionâl
 about-telemetry-addon-table-details = Detais
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = Furnidôr di { $addonProvider }
 about-telemetry-keys-header = Proprietât
 about-telemetry-names-header = Non
 about-telemetry-values-header = Valôr
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = Scriture intardade #{ $lateWriteCount }
 about-telemetry-stack-title = Stack:
 about-telemetry-memory-map-title = Mape memorie:
@@ -132,5 +132,5 @@ about-telemetry-method-header = metodi
 about-telemetry-object-header = ogjet
 about-telemetry-extra-header = altri
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = Procès “{ $process }”

@@ -100,7 +100,7 @@ urlbar-autoplay-notification-anchor =
 urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Archivie i dâts intun archivi persistent
 urlbar-addons-notification-anchor =
-    .tooltiptext = Vierç il panel dai messaçs de instalazion des zontis
+    .tooltiptext = Vierç il panel dai messaçs de instalazion dai components adizionâi
 urlbar-tip-help-icon =
     .title = Oten jutori
 urlbar-search-tips-confirm = Va ben, capît!
@@ -169,7 +169,7 @@ urlbar-canvas-blocked =
 urlbar-midi-blocked =
     .tooltiptext = Tu âs blocât l'acès MIDI par chest sît web.
 urlbar-install-blocked =
-    .tooltiptext = Tu âs blocât la instalazion di zontis par chest sît web.
+    .tooltiptext = Tu âs blocât la instalazion di components adizionâi par chest sît web.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
