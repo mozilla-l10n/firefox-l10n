@@ -155,12 +155,25 @@ firefoxview-opentabs-tab-row =
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
 
+firefoxview-history-date-today = Avui - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-yesterday = Ahir - { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-this-month = { DATETIME($date, dateStyle: "full") }
+firefoxview-history-date-prev-month = { DATETIME($date, month: "long", year: "numeric") }
+# When history is sorted by site, this heading is used in place of a domain, in
+# order to group sites that do not come from an outside host.
+# For example, this would be the heading for all file:/// URLs in history.
+firefoxview-history-site-localhost = (fitxers locals)
 
 ##
 
+firefoxview-show-all-history = Mostra tot l'historial
+firefoxview-view-more-browsing-history = Mostra més historial de navegació
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-header = Recupereu els llocs que heu visitat
+firefoxview-history-empty-description = A mesura que navegueu, les pàgines que visiteu apareixeran aquí.
+firefoxview-history-empty-description-two = La nostra prioritat és protegir la vostra privadesa. És per això que podeu controlar l'activitat que el { -brand-short-name } recorda en els <a data-l10n-name="history-settings-url">paràmetres de l'historial</a>.
 
 ##
 
