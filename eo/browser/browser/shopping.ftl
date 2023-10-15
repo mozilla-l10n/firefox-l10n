@@ -117,7 +117,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Nia maniero difini la kvaliton de recenzoj
-shopping-analysis-explainer-intro2 = Ni uzas artefaritn intelektan (AI) teknologion de { -fakespot-brand-full-name } por kontroli fidindecon de recenzoj de produktoj. Tio helpos vin nur taksi la kvaliton de recenzoj, ne la kvaliton de produktoj.
+shopping-analysis-explainer-intro2 = Ni uzas artefaritan intelektan (AI) teknologion de { -fakespot-brand-full-name } por kontroli fidindecon de recenzoj de produktoj. Tio helpos vin nur taksi la kvaliton de recenzoj, ne la kvaliton de produktoj.
 shopping-analysis-explainer-grades-intro = Ni donas al ĉiu recenzo de produkto <strong>literan noton</strong> el A ĝis F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>alĝustigita taksado</strong> estas bazita nur sur la recenzoj, kiujn ni opinias fidindaj.
 shopping-analysis-explainer-learn-more = Pli da informo pri <a data-l10n-name="review-quality-url">kiel { -fakespot-brand-full-name } determinas la kvaliton de recenzoj</a>.
