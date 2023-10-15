@@ -83,7 +83,7 @@ about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió
 login-intro-description = Si heu desat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, aquesta és la manera de tenir-los també aquí:
 login-intro-instructions-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
 login-intro-instructions-fxa2 = Creeu un compte o inicieu la sessió des del dispositiu on teniu desats els vostres inicis de sessió.
-login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització... Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
+login-intro-instructions-fxa-settings = Aneu a Paràmetres > Sync > Activa la sincronització… Marqueu la casella de selecció «Inicis de sessió i contrasenyes».
 login-intro-instructions-fxa-passwords-help = Visiteu l'<a data-l10n-name="passwords-help-link">assistència de contrasenyes</a> per a obtenir més ajuda.
 about-logins-intro-browser-only-import = Si teniu inicis de sessió desats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -brand-product-name }</a>.
 about-logins-intro-import2 = Si els vostres inicis de sessió estan desats fora del { -brand-product-name }, podeu <a data-l10n-name="import-browser-link">importar-los d'un altre navegador</a> o <a data-l10n-name="import-file-link">d'un fitxer</a>

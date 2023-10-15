@@ -35,10 +35,17 @@ firefoxview-tabpickup-adddevice-header = Sincronitzeu el { -brand-product-name }
 firefoxview-tabpickup-adddevice-description = Baixeu el { -brand-product-name } per al mòbil i inicieu-hi la sessió.
 firefoxview-tabpickup-adddevice-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-adddevice-primarybutton = Instal·la el { -brand-product-name } per al mòbil
+firefoxview-syncedtabs-adddevice-header = Inicieu la sessió al { -brand-product-name } en els altres dispositius
+firefoxview-syncedtabs-adddevice-description = Per veure les vostres pestanyes de tots els dispositius on utilitzeu el { -brand-product-name }, inicieu la sessió en tots els dispositius. Vegeu també com <a data-l10n-name="url">connectar dispositius addicionals</a>.
+firefoxview-syncedtabs-adddevice-primarybutton = Prova el { -brand-product-name } per al mòbil
 firefoxview-tabpickup-synctabs-header = Activeu la sincronització de pestanyes
 firefoxview-tabpickup-synctabs-description = Permeteu que el { -brand-short-name } comparteixi les pestanyes entre els vostres dispositius.
 firefoxview-tabpickup-synctabs-learn-how = Vegeu com fer-ho
 firefoxview-tabpickup-synctabs-primarybutton = Sincronitza les pestanyes obertes
+firefoxview-syncedtabs-synctabs-header = Actualitzeu la configuració de sincronització
+firefoxview-syncedtabs-synctabs-description = Per veure les pestanyes d'altres dispositius, heu de sincronitzar les pestanyes obertes.
+firefoxview-syncedtabs-synctabs-checkbox = Permet la sincronització de les pestanyes obertes
+firefoxview-syncedtabs-loading-header = S'està sincronitzant…
 firefoxview-tabpickup-fxa-admin-disabled-header = La vostra organització ha desactivat la sincronització
 firefoxview-tabpickup-fxa-admin-disabled-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè el vostre administrador ha desactivat la sincronització.
 firefoxview-tabpickup-network-offline-header = Comproveu la connexió a Internet
