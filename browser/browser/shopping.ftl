@@ -57,9 +57,28 @@ shopping-message-bar-generic-error =
 shopping-message-bar-warning-not-enough-reviews =
     .heading = Ni še dovolj mnenj
     .message = Ko bo za ta izdelek na voljo več mnenj, bomo lahko preverili njihovo kakovost.
+shopping-message-bar-warning-product-not-available =
+    .heading = Izdelek ni na voljo
+    .message = Če opazite, da je izdelek znova na zalogi, nam to sporočite in preverili bomo mnenja.
+shopping-message-bar-warning-product-not-available-button2 = Sporočite, da je izdelek znova na zalogi
+shopping-message-bar-thanks-for-reporting =
+    .heading = Hvala za sporočilo!
+    .message = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Kmalu bo na voljo še več vsebine
+    .message = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
+shopping-message-bar-analysis-in-progress-title2 = Preverjanje kakovosti mnenj
+shopping-message-bar-analysis-in-progress-message2 = To lahko traja približno 60 sekund.
+shopping-message-bar-page-not-supported-title = Teh mnenj ne moremo preveriti
+shopping-message-bar-page-not-supported-message = Za nekatere vrste izdelkov žal ne moremo preveriti kakovosti mnenj. Na primer za darilne kartice ter pretočne videe, glasbo in igre.
+shopping-message-bar-page-not-supported =
+    .heading = Teh mnenj ne moremo preveriti
+    .message = Za nekatere vrste izdelkov žal ne moremo preveriti kakovosti mnenj. Na primer za darilne kartice ter pretočne videe, glasbo in igre.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Poudarki iz nedavnih mnenj
 shopping-highlight-price = Cena
 shopping-highlight-quality = Kakovost
 shopping-highlight-shipping = Pošiljanje
