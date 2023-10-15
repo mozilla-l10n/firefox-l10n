@@ -77,12 +77,25 @@ shopping-message-bar-page-not-supported =
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Elstaraĵoj el ĵusaj recenzoj
+shopping-highlight-price = Prezo
+shopping-highlight-quality = Kvalito
+shopping-highlight-shipping = Liverado
+shopping-highlight-competitiveness = Konkurenceco
+shopping-highlight-packaging = Pakado
 
 ## Strings for show more card
 
+shopping-show-more-button = Montri pli
+shopping-show-less-button = Montri malpli
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = Agordoj
+shopping-settings-recommendations-toggle =
+    .label = Montri reklamojn en la kontrolilo de recenzoj
 
 ## Strings for the adjusted rating component
 
