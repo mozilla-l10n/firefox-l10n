@@ -91,6 +91,7 @@ policy-LocalFileLinks = Zezwalanie podanym witrynom na odnośniki do lokalnych p
 policy-ManagedBookmarks = Ustawienie listy zakładek zarządzanych przez administratora, których użytkownik nie może zmieniać.
 policy-ManualAppUpdateOnly = Zezwalanie tylko na aktualizacje ręczne i wyłączenie powiadamiania użytkownika o aktualizacjach.
 policy-PrimaryPassword = Wymaganie lub uniemożliwienie używania hasła głównego.
+policy-PrintingEnabled = Włączenie lub wyłączenie drukowania.
 policy-NetworkPrediction = Włączenie lub wyłączenie przewidywania sieci (wstępnego pobierania DNS).
 policy-NewTabPage = Włączenie lub wyłączenie strony nowej karty.
 policy-NoDefaultBookmarks = Wyłączenie tworzenia domyślnych zakładek dołączonych do przeglądarki { -brand-short-name } oraz dynamicznych zakładek („Często odwiedzane” i „Ostatnio używane etykiety”). Uwaga: ta zasada jest uwzględniana tylko przed pierwszym uruchomieniem profilu.
