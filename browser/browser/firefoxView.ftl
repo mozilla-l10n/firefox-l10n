@@ -187,7 +187,7 @@ firefoxview-choose-browser-button = Trieu un navegador
 
 firefoxview-dont-remember-history-empty-header = Res a mostrar
 firefoxview-dont-remember-history-empty-description = La nostra prioritat és protegir la vostra privadesa. És per això que podeu controlar l'activitat que el { -brand-short-name } recorda.
-firefoxview-dont-remember-history-empty-description-two = Segons la vostra configuració actual, el { -brand-short-name } no recorda la vostra activitat mentre navegueu. Per canviar-ho, <a data-l10n-name="history-settings-url-two">configureu el navegador perquè recordi l'historial</a>.
+firefoxview-dont-remember-history-empty-description-two = Segons els vostres paràmetres actuals, el { -brand-short-name } no recorda la vostra activitat mentre navegueu. Per canviar-ho, <a data-l10n-name="history-settings-url-two">configureu el navegador perquè recordi l'historial</a>.
 
 ##
 
@@ -203,6 +203,11 @@ firefoxview-import-history-description = Feu que el { -brand-short-name } sigui 
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Heu tancat una pestanya massa aviat?
+firefoxview-recentlyclosed-empty-description = Aquí trobareu les pestanyes que heu tancat recentment, per tal que les pugueu tornar a obrir ràpidament.
+firefoxview-recentlyclosed-empty-description-two = Per trobar pestanyes més antigues, vegeu el vostre <a data-l10n-name="history-url">historial de navegació</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-device-notabs = No hi ha cap pestanya oberta en aquest dispositiu
+firefoxview-syncedtabs-connect-another-device = Connecta un altre dispositiu
