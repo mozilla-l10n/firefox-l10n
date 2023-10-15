@@ -243,6 +243,8 @@ device-migration-fxa-spotlight-link = Нагадати пізніше
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Зробити { -brand-short-name } типовою  програмою читання PDF?</strong> Використовуйте { -brand-short-name }, щоб читати та редагувати PDF-файли, збережені на вашому комп’ютері.
 pdf-default-notification-set-default-button =
     .label = Установити типовим
 pdf-default-notification-decline-button =
