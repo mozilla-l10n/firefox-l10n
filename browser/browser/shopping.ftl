@@ -96,15 +96,26 @@ shopping-settings-label =
     .label = Agordoj
 shopping-settings-recommendations-toggle =
     .label = Montri reklamojn en la kontrolilo de recenzoj
+shopping-settings-opt-out-button = Malŝalti la kontrolilon de recenzoj
+powered-by-fakespot = La kontrolilo de recenzoj funkcias danke al <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Alĝustigita taksado
+shopping-adjusted-rating-unreliable-reviews = Nefidindaj recenzoj forigitaj
 
 ## Strings for the review reliability component
 
+shopping-review-reliability-label =
+    .label = Kiel fidindaj estas tiuj recenzoj?
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Nia maniero difini la kvaliton de recenzoj
 
 ## Strings for UrlBar button
 
