@@ -327,3 +327,7 @@ mr2022-onboarding-colorways-image-alt =
 
 onboarding-device-migration-image-alt =
     .aria-label = Una guineu a la pantalla d'un ordinador portàtil saludant. El portàtil té un ratolí connectat.
+onboarding-device-migration-title = Us donem de nou la benvinguda
+onboarding-device-migration-subtitle = Inicieu la sessió al vostre { -fxaccount-brand-name(capitalization: "sentence") } per accedir a les vostres adreces d'interès, les contrasenyes i l'historial en el dispositiu nou.
+onboarding-device-migration-subtitle2 = Inicieu la sessió al vostre compte per accedir a les vostres adreces d'interès, les contrasenyes i l'historial en el dispositiu nou.
+onboarding-device-migration-primary-button-label = Inicia la sessió
