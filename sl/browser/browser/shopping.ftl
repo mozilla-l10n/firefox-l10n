@@ -115,6 +115,18 @@ shopping-review-reliability-label =
 
 ## Strings for the analysis explainer component
 
+shopping-analysis-explainer-label =
+    .label = Kako določamo kakovost mnenj
+shopping-analysis-explainer-intro2 = Za preverjanje zanesljivosti mnenj o izdelkih uporabljamo tehnologijo umetne inteligence podjetja { -fakespot-brand-full-name }. To vam pomagalo oceniti zgolj kakovost mnenja, ne pa tudi izdelka.
+shopping-analysis-explainer-grades-intro = Vsako mnenje o izdelku ocenimo s <strong>črkovno oceno</strong> od A do F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Prilagojena ocena</strong> temelji samo na mnenjih, za katere menimo, da so zanesljiva.
+shopping-analysis-explainer-learn-more = Spoznajte več o tem, <a data-l10n-name="review-quality-url">kako { -fakespot-brand-full-name } določa kakovost mnenj</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80. dneh, za katere menimo, da so zanesljiva.
+shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so mnenja verjetno napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
+shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
 
 ## Strings for UrlBar button
 
