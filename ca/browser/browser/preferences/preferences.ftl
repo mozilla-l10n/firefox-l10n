@@ -126,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Obre les finestres i pestanyes anteriors
     .accesskey = s
+windows-launch-on-login =
+    .label = Obre el { -brand-short-name } automàticament en iniciar l'ordinador
+    .accesskey = O
+windows-launch-on-login-disabled = Aquesta preferència s'ha desactivat al Windows. Per canviar-la, aneu a <a data-l10n-name="startup-link">Aplicacions d'inici</a> en els paràmetres del sistema.
 startup-restore-warn-on-quit =
     .label = Avisa en sortir del navegador
 disable-extension =
@@ -467,6 +471,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Utilitza sempre les tecles de cursor per navegar en les pàgines
     .accesskey = c
+browsing-use-full-keyboard-navigation =
+    .label = Utilitza la tecla de tabulació per moure el focus entre els controls de formulari i els enllaços
+    .accesskey = U
 browsing-search-on-start-typing =
     .label = Cerca el text en començar a teclejar
     .accesskey = x
@@ -1004,6 +1011,10 @@ content-blocking-enhanced-tracking-protection = Protecció contra el seguiment m
 content-blocking-section-top-level-description = Hi ha elements que us fan el seguiment mentre navegueu per recopilar informació sobre els vostres hàbits de navegació i interessos. El { -brand-short-name } bloca molts d'aquests elements de seguiment i altres scripts maliciosos.
 content-blocking-learn-more = Més informació
 content-blocking-fpi-incompatibility-warning = Esteu utilitzant FPI (First Party Isolation), que substitueix alguns paràmetres de galetes del { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Esteu utilitzant RFP (Resist Fingerprinting), que substitueix alguns dels paràmetres de protecció d'empremtes digitals del { -brand-short-name }. Això pot fer que alguns llocs no funcionin correctament.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1037,6 +1048,10 @@ content-blocking-all-windows-tracking-content = Contingut que fa seguiment en to
 content-blocking-all-cross-site-cookies = Totes les galetes entre llocs
 content-blocking-cryptominers = Miners de criptomonedes
 content-blocking-fingerprinters = Generadors d'empremtes digitals
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Generadors d'empremtes digitals coneguts i sospitosos
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1075,6 +1090,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Generadors d'empremtes digitals
     .accesskey = G
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Generadors d'empremtes digitals coneguts
+    .accesskey = G
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Generadors d'empremtes digitals sospitosos
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
@@ -1195,6 +1222,9 @@ certs-view =
 certs-devices =
     .label = Dispositius de seguretat…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Permet que el { -brand-short-name } confiï automàticament en els certificats arrel de tercers que instal·leu
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Obre els paràmetres
     .accesskey = O
