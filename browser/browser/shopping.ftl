@@ -41,7 +41,7 @@ shopping-letter-grade-tooltip =
 shopping-message-bar-warning-stale-analysis-message-2 = Novi podatki za pregled
 shopping-message-bar-warning-stale-analysis-button = Preveri zdaj
 shopping-message-bar-generic-error-title2 = Trenutno ni na voljo nobenih podatkov
-shopping-message-bar-generic-error-message = Poskušamo odpraviti težavo. Preverite znova kmalu.
+shopping-message-bar-generic-error-message = Poskušamo odpraviti težavo. Preverite znova pozneje.
 shopping-message-bar-warning-not-enough-reviews-title = Ni še dovolj mnenj
 shopping-message-bar-warning-not-enough-reviews-message2 = Ko bo za ta izdelek na voljo več mnenj, bomo lahko preverili njihovo kakovost.
 shopping-message-bar-warning-product-not-available-title = Izdelek ni na voljo
@@ -117,7 +117,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Kako določamo kakovost mnenj
-shopping-analysis-explainer-intro2 = Za preverjanje zanesljivosti mnenj o izdelkih uporabljamo tehnologijo umetne inteligence podjetja { -fakespot-brand-full-name }. To vam pomagalo oceniti zgolj kakovost mnenja, ne pa tudi izdelka.
+shopping-analysis-explainer-intro2 = Za preverjanje zanesljivosti mnenj o izdelkih uporabljamo tehnologijo umetne inteligence podjetja { -fakespot-brand-full-name }. To vam bo pomagalo oceniti zgolj kakovost mnenja, ne pa tudi izdelka.
 shopping-analysis-explainer-grades-intro = Vsako mnenje o izdelku ocenimo s <strong>črkovno oceno</strong> od A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Prilagojena ocena</strong> temelji samo na mnenjih, za katere menimo, da so zanesljiva.
 shopping-analysis-explainer-learn-more = Spoznajte več o tem, <a data-l10n-name="review-quality-url">kako { -fakespot-brand-full-name } določa kakovost mnenj</a>.
