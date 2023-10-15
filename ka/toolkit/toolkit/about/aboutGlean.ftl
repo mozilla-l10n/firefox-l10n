@@ -57,7 +57,7 @@ about-glean-label-for-tag-pings = წინამდებარე ველშ
 # An in-line drop down list precedes this string.
 # Do not translate strings between <code> </code> tags.
 about-glean-label-for-ping-names =
-    წინამდებარე სიიდან კრებული, თქვენს ხელსაწყოებს რომ მოიცავდეს.
+    წინამდებარე სიიდან აირჩიეთ კრებული, თქვენს ხელსაწყოებს რომ მოიცავდეს.
     თუ <a data-l10n-name="custom-ping-link">მორგებული კრებული</a> მოიცავს, ეგ აირჩიეთ.
     თუ არადა, <code>event</code>-აზომვებისთვის ნაგულისხმევი
     იქნება კრებული <code>events</code>,
@@ -65,8 +65,8 @@ about-glean-label-for-ping-names =
     კრებული <code>metrics</code>.
 # An in-line check box precedes this string.
 about-glean-label-for-log-pings =
-    (არასავალდებულო. მონიშნეთ წინა უჯრა, თუ გსურთ, კრებულები აღირიცხოს გადაგზავნისას.
-    დამატებით მოგიწევთ <a data-l10n-name="enable-logging-link">აღრიცხვის ჩართვა</a>.)
+    (არასავალდებულო. წინამდებარე უჯრა მონიშნეთ, თუ გსურთ კრებულების აღრიცხვა გადაგზავნისას.
+    დამატებით მოგიწევთ <a data-l10n-name="enable-logging-link">აღრიცხვების ჩართვა</a>.)
 # Variables
 #   $debug-tag (String): The user-set value of the debug tag input on this page. Like "about-glean-kV"
 # An in-line button labeled "Apply settings and submit ping" precedes this string.
@@ -80,8 +80,8 @@ about-glean-li-for-visit-gdpv =
     ზოგჯერ მცირე ხანსაც შეიძლება გასტანოს.
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
-    დამატებითი <i>საგანგებო</i> შემოწმებისთვის,
-    ამასთანავე, შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა
+    დამატებითი <i>საგანგებო</i> შემოწმებისთვის
+    ასევე შეგიძლიათ გაარკვიოთ ცალკეული მახასიათებლების მიმდინარე მნიშვნელობა
     შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
     გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
