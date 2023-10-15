@@ -96,6 +96,7 @@ shopping-settings-label =
     .label = Agordoj
 shopping-settings-recommendations-toggle =
     .label = Montri reklamojn en la kontrolilo de recenzoj
+shopping-settings-recommendations-learn-more = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ĉiuj reklamoj devas konformi al niaj normoj pri kvalito de recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-opt-out-button = Malŝalti la kontrolilon de recenzoj
 powered-by-fakespot = La kontrolilo de recenzoj funkcias danke al <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
 
@@ -180,6 +181,33 @@ shopping-callout-closed-opted-in-subtitle = Iru reen al la <strong>kontrolilo de
 shopping-callout-pdp-opted-in-title = Ĉu tiuj ĉi recenzoj estas fidindaj? Rapide eltrovu tion.
 shopping-callout-pdp-opted-in-subtitle = Malfermi la kontrolilon de recenzoj por vidi alĝustigitan taksadon, post forigo de nefidindaj recenzoj. Cetere vidu elstaraĵojn el ĵusaj aŭtentikaj recenzoj.
 shopping-callout-closed-not-opted-in-title = Unu alklako por havi fidindajn recenzojn
+shopping-callout-closed-not-opted-in-subtitle = Provu la kontrolilon de recenzoj kiam ajn vi vidas etikedon kun prezo. Rapide konu impresojn kaj informojn el veraj aĉetintoj, antaŭ ol aĉeti.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Provu nian fidindan gvidadon al recenzoj de produktoj
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de { -vendor-short-name }, estas integrita en { -brand-product-name } — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de{ -brand-product-name }, estas integrita en la retumilo — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Danke al la povo de { -fakespot-brand-full-name } ni helpas vin eviti neobjektivajn kaj malverajn recenzojn. Nia modelo de artefarita intelekto konstante pliboniĝas por protekti vin dum vi aĉetumas. <a data-l10n-name="learn_more">Pli da informo</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-button = Jes, provu ĝin
+shopping-onboarding-not-now-button = Ne nun
+shopping-onboarding-dialog-close-button =
+    .title = Fermi
+    .aria-label = Fermi
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paŝo { $current } de { $total }
