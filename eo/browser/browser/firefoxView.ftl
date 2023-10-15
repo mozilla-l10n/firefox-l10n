@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Montri ĵusan retumon en ĉiuj fenestroj kaj aparatoj
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -42,6 +45,8 @@ firefoxview-tabpickup-synctabs-primarybutton = Speguli malfermitajn langetojn
 firefoxview-syncedtabs-synctabs-header = Ĝisdatigi viajn spegulajn agordojn
 firefoxview-syncedtabs-synctabs-description = Por vidi langetojn el aliaj aparatoj, vi bezonas speguli viajn malfermitajn langetojn.
 firefoxview-syncedtabs-synctabs-checkbox = Permesi speguladon de malfermitaj langetoj
+firefoxview-syncedtabs-loading-header = Nuntempe spegulanta
+firefoxview-syncedtabs-loading-description = Kiam tio finiĝos, vi vidos langetojn, kiuj etas malfermitaj en aliaj aparatoj. Rekontrolu baldaŭ.
 firefoxview-tabpickup-fxa-admin-disabled-header = Via organizo malaktivigis la speguladon
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ne povas speguli langetojn inter aparatoj ĉar via administranto malaktivigis la speguladon.
 firefoxview-tabpickup-network-offline-header = Kontrolu vian retaliron
@@ -60,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Tajpi ĉefan pasvorton
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Pli da informo</a>
 firefoxview-tabpickup-signed-out-header = Komenci seancon por rekonekti
 firefoxview-tabpickup-signed-out-description = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Por rekonektiĝi kaj repreni viajn langetojn, komencu seancon en via konto.
 firefoxview-tabpickup-signed-out-primarybutton = Komenci seancon
 firefoxview-tabpickup-syncing = Atendu la speguladon de langetoj. Estas rapida afero.
 firefoxview-mobile-promo-header = Malfermi langetojn el via telefono aŭ tabulkomputilo
@@ -201,9 +207,7 @@ firefoxview-recentlyclosed-empty-header = Ĉu langeto tro rapide fermita?
 firefoxview-recentlyclosed-empty-description = Ĉi tie vi trovos la langetojn vi antaŭ nelonge fermis, tiel ke vi povos rapide remalfermi iun ajn el ili.
 firefoxview-recentlyclosed-empty-description-two = Por trovi pli malnovajn langetojn, vidu vian <a data-l10n-name="history-url">retuman historion</a>.
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = Nenlu langeto malfermita en tiu ĉi aparato
+firefoxview-syncedtabs-connect-another-device = Konekti alian aparaton

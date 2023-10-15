@@ -912,6 +912,24 @@ unified-extensions-button-quarantined =
         Etendaĵoj
         Kelkaj etendaĵoj ne estas permesataj
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = Fini privatan seancon
+    .tooltiptext = Fini privatan seancon
+reset-pbm-panel-heading = Ĉu fini vian privatan seancon?
+reset-pbm-panel-description = Fermi ĉiujn privatajn langetojn kaj forigi historion, kuketojn kaj ĉiujn aliajn retejajn datumojn.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Ĉiam demandi al mi
+    .accesskey = d
+reset-pbm-panel-cancel-button =
+    .label = Nuligi
+    .accesskey = N
+reset-pbm-panel-confirm-button =
+    .label = Forigi seancajn datumojn
+    .accesskey = s
+reset-pbm-panel-complete = Datumoj de privata seanco estis forigitaj
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } evitis ke tiu ĉi paĝo aŭtomate reŝargiĝu.
