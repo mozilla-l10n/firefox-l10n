@@ -42,6 +42,12 @@ about-logging-preset-media-playback-label = Ludado de aŭvidaĵoj
 about-logging-preset-media-playback-description = Registraj moduloj por diagnozi problemojn kun ludado de aŭdvidaĵoj (ne por videkonferencaj problemoj)
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Registraj moduloj por diagnozi problemojn kun vokoj WebRTC
+about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Registraj moduloj por diagnozi problemojn kun WebGPU
+about-logging-preset-gfx-label = Grafikoj
+about-logging-preset-gfx-description = Registraj moduloj por diagnozi grafikajn problemojn
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
 about-logging-preset-custom-label = Personecigita
 about-logging-preset-custom-description = Permane elekitaj registraj moduloj
 # Error handling
