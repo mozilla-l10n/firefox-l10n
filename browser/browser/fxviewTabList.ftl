@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Kopii ligilon
     .accesskey = l
 fxviewtabrow-close-tab = Fermi langeton
     .accesskey = F
+fxviewtabrow-move-tab = Movi langeton
+    .accesskey = l
+fxviewtabrow-move-tab-start = Movi al komenco
+    .accesskey = k
+fxviewtabrow-move-tab-end = Movi al fino
+    .accesskey = { "" }
+fxviewtabrow-move-tab-window = Movi al nova fenestro
+    .accesskey = f
+fxviewtabrow-send-tab = Sendi langeton al aparato
+    .accesskey = a
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
