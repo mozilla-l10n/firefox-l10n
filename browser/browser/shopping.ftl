@@ -127,6 +127,7 @@ shopping-analysis-explainer-learn-more = Spoznajte več o tem, <a data-l10n-name
 shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80. dneh, za katere menimo, da so zanesljiva.
 shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so mnenja verjetno napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
 shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
+shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so mnenja verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
 
 ## Strings for UrlBar button
 
@@ -176,6 +177,10 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Vrnite se na <strong>pregledovanik mnenj</strong>, ko vidite listek s ceno.
+shopping-callout-pdp-opted-in-subtitle = Odprite pregledovalnik mnenj in si oglejte prilagojeno oceno, iz katere so odstranjena nezanesljiva mnenja. Poleg tega si oglejte poudarke iz nedavnih verodostojnih mnenj.
+shopping-callout-closed-not-opted-in-title = En klik do zanesljivih mnenj
+shopping-callout-closed-not-opted-in-subtitle = Preizkusite pregledovalnik mnenj, ko vidite listek s ceno. Preden opravite nakup pridobite vpogled v mnenja resničnih kupcev.
 
 ## Onboarding message strings.
 
