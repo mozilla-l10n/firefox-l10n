@@ -48,9 +48,9 @@ shopping-message-bar-warning-product-not-available-title = Izdelek ni na voljo
 shopping-message-bar-warning-product-not-available-message2 = Če opazite, da je izdelek znova na zalogi, nam to sporočite in preverili bomo mnenja.
 shopping-message-bar-warning-product-not-available-button = Sporoči, da je izdelek znova na zalogi
 shopping-message-bar-thanks-for-reporting-title = Hvala za sporočilo!
-shopping-message-bar-thanks-for-reporting-message2 = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
+shopping-message-bar-thanks-for-reporting-message2 = Podatki o mnenjih za ta izdelek bi morali biti pripravljeni v 24 urah. Preverite znova kasneje.
 shopping-message-bar-warning-product-not-available-reported-title2 = Podatki bomo kmalu na voljo
-shopping-message-bar-warning-product-not-available-reported-message2 = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
+shopping-message-bar-warning-product-not-available-reported-message2 = Podatki o mnenjih za ta izdelek bi morali biti pripravljeni v 24 urah. Preverite znova kasneje.
 shopping-message-bar-generic-error =
     .heading = Trenutno ni na voljo nobenih podatkov
     .message = Poskušamo odpraviti težavo. Preverite znova kmalu.
@@ -60,7 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Izdelek ni na voljo
     .message = Če opazite, da je izdelek znova na zalogi, nam to sporočite in preverili bomo mnenja.
-shopping-message-bar-warning-product-not-available-button2 = Sporočite, da je izdelek znova na zalogi
+shopping-message-bar-warning-product-not-available-button2 = Sporoči, da je izdelek znova na zalogi
 shopping-message-bar-thanks-for-reporting =
     .heading = Hvala za sporočilo!
     .message = Podatke o mnenjih za ta izdelek bi morali imeti v 24 urah. Preverite znova.
@@ -125,9 +125,9 @@ shopping-analysis-explainer-learn-more = Spoznajte več o tem, <a data-l10n-name
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>Poudarki</strong> so vzeti iz mnenj v trgovini { $retailer } v zadnjih 80 dneh, za katera menimo, da so zanesljiva.
-shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so mnenja verjetno napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
+shopping-analysis-explainer-review-grading-scale-reliable = Zanesljiva mnenja. Verjamemo, da so jih napisale resnične stranke, ki so pustile poštene in nepristranske ocene.
 shopping-analysis-explainer-review-grading-scale-mixed = Menimo, da obstaja mešanica zanesljivih in nezanesljivih mnenj.
-shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so mnenja verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
+shopping-analysis-explainer-review-grading-scale-unreliable = Nezanesljiva mnenja. Menimo, da so verjetno lažna ali pa so jih napisali pristranski ocenjevalci.
 
 ## Strings for UrlBar button
 
