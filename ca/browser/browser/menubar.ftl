@@ -220,6 +220,9 @@ menu-history-undo-menu =
     .label = Pestanyes tancades recentment
 menu-history-undo-window-menu =
     .label = Finestres tancades recentment
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Cerca en l'historial
 
 ## Bookmarks Menu
 
@@ -232,6 +235,9 @@ menu-bookmark-tab =
     .label = Afegeix la pestanya actual a les adreces d'interès…
 menu-edit-bookmark =
     .label = Edita aquesta adreça d'interès…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Cerca en les adreces d'interès
 menu-bookmarks-all-tabs =
     .label = Afegeix-hi totes les pestanyes…
 menu-bookmarks-toolbar =
