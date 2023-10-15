@@ -46,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Actualitzeu la configuració de sincron
 firefoxview-syncedtabs-synctabs-description = Per veure les pestanyes d'altres dispositius, heu de sincronitzar les pestanyes obertes.
 firefoxview-syncedtabs-synctabs-checkbox = Permet la sincronització de les pestanyes obertes
 firefoxview-syncedtabs-loading-header = S'està sincronitzant…
+firefoxview-syncedtabs-loading-description = Quan hagi acabat, veureu les pestanyes que tingueu obertes en altres dispositius. Torneu-ho a comprovar més tard.
 firefoxview-tabpickup-fxa-admin-disabled-header = La vostra organització ha desactivat la sincronització
 firefoxview-tabpickup-fxa-admin-disabled-description = El { -brand-short-name } no pot sincronitzar les pestanyes entre dispositius perquè el vostre administrador ha desactivat la sincronització.
 firefoxview-tabpickup-network-offline-header = Comproveu la connexió a Internet
@@ -61,8 +62,10 @@ firefoxview-tabpickup-password-locked-header = Introduïu la contrasenya princip
 firefoxview-tabpickup-password-locked-description = Per a recuperar les vostres pestanyes, heu d'introduir la contrasenya principal del { -brand-short-name }.
 firefoxview-tabpickup-password-locked-link = Més informació
 firefoxview-tabpickup-password-locked-primarybutton = Introduïu la contrasenya principal
+firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Més informació</a>
 firefoxview-tabpickup-signed-out-header = Inicieu la sessió per tornar a connectar
 firefoxview-tabpickup-signed-out-description = Per a tornar a connectar i recuperar les vostres pestanyes, inicieu la sessió en el { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Per a tornar a connectar i recuperar les vostres pestanyes, inicieu la sessió al vostre compte.
 firefoxview-tabpickup-signed-out-primarybutton = Inicia la sessió
 firefoxview-tabpickup-syncing = Espereu mentre se sincronitzen les pestanyes. Només serà un moment.
 firefoxview-mobile-promo-header = Recupereu les pestanyes del telèfon o tauleta
@@ -74,6 +77,7 @@ firefoxview-closed-tabs-title = Tancades recentment
 firefoxview-closed-tabs-description2 = Torneu a obrir les pàgines que heu tancat en aquesta finestra.
 firefoxview-closed-tabs-placeholder-header = No hi ha cap pestanya tancada recentment
 firefoxview-closed-tabs-placeholder-body = Quan tanqueu una pestanya en aquesta finestra, podeu recuperar-la aquí.
+firefoxview-closed-tabs-placeholder-body2 = Quan tanqueu una pestanya, podeu recuperar-la aquí.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -104,6 +108,8 @@ firefoxview-overview-nav = Navegació recent
 firefoxview-history-nav = Historial
     .title = Historial
 firefoxview-history-header = Historial
+firefoxview-history-context-delete = Suprimeix de l'historial
+    .accesskey = S
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
@@ -113,14 +119,38 @@ firefoxview-opentabs-header = Pestanyes obertes
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
+firefoxview-recently-closed-nav = Pestanyes tancades recentment
+    .title = Pestanyes tancades recentment
+firefoxview-recently-closed-header = Pestanyes tancades recentment
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
+firefoxview-synced-tabs-nav = Pestanyes d'altres dispositius
+    .title = Pestanyes d'altres dispositius
+firefoxview-synced-tabs-header = Pestanyes d'altres dispositius
 
 ##
 
 # Used for a link in collapsible cards, in the ’Recent browsing’ page of Firefox View
 firefoxview-view-all-link = Mostra-ho tot
+# Variables:
+#   $winID (Number) - The index of the owner window for this set of tabs
+firefoxview-opentabs-window-header =
+    .title = Finestra { $winID }
+# Variables:
+#   $winID (Number) - The index of the owner window (which is currently focused) for this set of tabs
+firefoxview-opentabs-current-window-header =
+    .title = Finestra { $winID } (actual)
+firefoxview-opentabs-focus-tab =
+    .title = Canvia a aquesta pestanya
+firefoxview-show-more = Mostra'n més
+firefoxview-show-less = Mostra'n menys
+firefoxview-sort-history-by-date-label = Ordena per data
+firefoxview-sort-history-by-site-label = Ordena per lloc
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = Canvia a { $url }
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
