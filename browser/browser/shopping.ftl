@@ -200,7 +200,7 @@ shopping-onboarding-dynamic-subtitle = Vidu kiel fidindaj estas la recenzoj en <
 shopping-onboarding-dynamic-subtitle-1 = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de{ -brand-product-name }, estas integrita en la retumilo — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Danke al la povo de { -fakespot-brand-full-name } ni helpas vin eviti neobjektivajn kaj malverajn recenzojn. Nia modelo de artefarita intelekto konstante pliboniĝas por protekti vin dum vi aĉetumas. <a data-l10n-name="learn_more">Pli da informo</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
-shopping-onboarding-opt-in-button = Jes, provu ĝin
+shopping-onboarding-opt-in-button = Jes, provi ĝin
 shopping-onboarding-not-now-button = Ne nun
 shopping-onboarding-dialog-close-button =
     .title = Fermi
