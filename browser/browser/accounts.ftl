@@ -5,14 +5,11 @@
 # Used as the FxA toolbar menu item value when user has not
 # finished setting up an account.
 account-finish-account-setup = Finalitza la configuració del compte
-
 # Used as the FxA toolbar menu item title when the user
 # needs to reconnect their account.
 account-disconnected2 = Compte desconnectat
-
 # Menu item that sends a tab to all synced devices.
 account-send-to-all-devices = Envia a tots els dispositius
-
 # Menu item that links to the Firefox Accounts settings for connected devices.
 account-manage-devices = Gestiona els dispositius…
 
@@ -32,10 +29,8 @@ account-manage-devices-titlecase = Gestiona els dispositius…
 
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-status = No hi ha cap dispositiu connectat
-
 # Redirects to a marketing page.
 account-send-tab-to-device-singledevice-learnmore = Més informació sobre enviar pestanyes…
-
 # Redirects to an FxAccounts page that tells to you to connect another device.
 account-send-tab-to-device-connectdevice = Connecta un altre dispositiu…
 
@@ -47,16 +42,16 @@ account-send-tab-to-device-verify = Verifiqueu el compte…
 
 ## These strings are used in a notification shown when a new device joins the Firefox account.
 
+# The title shown in a notification when either this device or another device
+# has connected to, or disconnected from, a Firefox account.
+account-connection-title = { -fxaccount-brand-name(capitalization: "title") }
 # Variables:
 #   $deviceName (String): the name of the new device
 account-connection-connected-with = Aquest ordinador ara està connectat amb { $deviceName }.
-
 # Used when the name of the new device is not known.
 account-connection-connected-with-noname = Aquest ordinador ara està connectat amb un dispositiu nou.
-
 # Used in a notification shown after a Firefox account is connected to the current device.
 account-connection-connected = Heu iniciat la sessió correctament
-
 # Used in a notification shown after the Firefox account was disconnected remotely.
 account-connection-disconnected = Aquest ordinador s'ha desconnectat.
 
@@ -68,7 +63,6 @@ account-single-tab-arriving-title = S'ha rebut una pestanya
 # Variables:
 #   $deviceName (String): the device name.
 account-single-tab-arriving-from-device-title = Pestanya de { $deviceName }
-
 # Used when a tab from a remote device arrives but the URL must be truncated.
 # Should display the URL with an indication that it's been truncated.
 # Variables:
@@ -81,7 +75,6 @@ account-single-tab-arriving-truncated-url = { $url }…
 ##   $tabCount (Number): the number of tabs received
 
 account-multiple-tabs-arriving-title = S'han rebut pestanyes
-
 # Variables:
 #   $deviceName (String): the device name.
 account-multiple-tabs-arriving-from-single-device =
