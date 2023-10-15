@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Envia als llocs web el senyal «No vull ser seguit» per informar-los que no vull que em facin el seguiment
+do-not-track-description2 =
+    .label = Envia als llocs web la sol·licitud «No vull ser seguit»
+    .accesskey = E
 do-not-track-learn-more = Més informació
 do-not-track-option-default-content-blocking-known =
     .label = Només si el { -brand-short-name } està configurat per blocar els elements de seguiment coneguts
 do-not-track-option-always =
     .label = Sempre
+global-privacy-control-description =
+    .label = Sol·licita als llocs web que no venguin ni comparteixin les meves dades
+    .accesskey = S
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Paràmetres
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -966,6 +976,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Adreces d'interès
     .accesskey = d
+addressbar-locbar-clipboard-option =
+    .label = Porta-retalls
+    .accesskey = P
 addressbar-locbar-openpage-option =
     .label = Pestanyes obertes
     .accesskey = P
@@ -1124,6 +1137,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Ús i recollida de dades i del { -brand-short-name }
+collection-header2 = Ús i recollida de dades i del { -brand-short-name }
+    .searchkeywords = telemetria
 collection-description = Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
 collection-privacy-notice = Avís de privadesa
 collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'aquí a 30 dies.
