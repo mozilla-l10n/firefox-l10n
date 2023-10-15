@@ -258,3 +258,6 @@ launch-on-login-infobar-reject-button = Ara no
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Voleu que s'obri el { -brand-short-name } cada vegada que reinicieu l'ordinador?</strong> Per gestionar les preferències d'inici, cerqueu «inici» en els paràmetres.
+launch-on-login-infobar-final-reject-button = No, gràcies
+    .accesskey = N
