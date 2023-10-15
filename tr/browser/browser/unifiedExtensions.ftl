@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Verilerinizi korumak adına
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Bazı uzantılara izin verilmiyor
     .message = Verilerinizi korumak adına bazı uzantılar bu sitedeki verileri okuyamaz veya değiştiremez. { -vendor-short-name } tarafından kısıtlanan sitelere izin vermek için uzantının ayarlarını kullanabilirsiniz.
+unified-extensions-mb-quarantined-domain-learn-more = Daha fazla bilgi alın
+    .aria-label = Daha fazla bilgi alın: Bazı uzantılara izin verilmiyor
