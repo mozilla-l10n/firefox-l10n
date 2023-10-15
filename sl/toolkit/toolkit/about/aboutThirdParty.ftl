@@ -50,12 +50,26 @@ third-party-button-to-block =
 third-party-button-to-unblock =
     .title = Trenutno blokiran. Kliknite za odblokiranje.
     .aria-label = Trenutno blokiran. Kliknite za odblokiranje.
+third-party-button-to-unblock-disabled =
+    .title =
+        Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
+        { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
+    .aria-label =
+        Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
+        { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
 third-party-button-to-block-module = Blokiraj ta modul
     .title = Blokiraj ta modul
     .aria-label = Blokiraj ta modul
 third-party-button-to-unblock-module = Odblokiraj ta modul
     .title = Odblokiraj ta modul
     .aria-label = Odblokiraj ta modul
+third-party-button-to-unblock-module-disabled = Odblokiraj ta modul (seznam blokad onemogočen)
+    .title =
+        Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
+        { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
+    .aria-label =
+        Trenutno označen kot blokiran, čeprav je seznam blokad za ta zagon
+        { -brand-short-name(sklon: "rodilnik") } onemogočen. Kliknite za odblokiranje.
 third-party-button-expand =
     .title = Prikaži podrobne informacije
 third-party-button-collapse =
