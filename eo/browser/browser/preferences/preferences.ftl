@@ -3,11 +3,21 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Sendi al retejoj sciigon, ke vi ne volas esti spurata
+do-not-track-description2 =
+    .label = Sendi “Ne spuru min” petojn al retejoj
+    .accesskey = S
 do-not-track-learn-more = Pli da informo
 do-not-track-option-default-content-blocking-known =
     .label = Nur kiam { -brand-short-name } estas agordita por bloki konatajn spurilojn
 do-not-track-option-always =
     .label = Ĉiam
+global-privacy-control-description =
+    .label = Peti al retejoj ne vendi aŭ dividi miajn datumojn
+    .accesskey = v
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Agordoj
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -116,6 +126,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Malfermi antaŭajn fenestrojn kaj langetojn
     .accesskey = a
+windows-launch-on-login =
+    .label = Aŭtomate malfermi { -brand-short-name } kiam la komputilo ŝaltiĝas
+    .accesskey = A
+windows-launch-on-login-disabled = Tiu ĉi prefero estis malaktivigita en Windows. Por ŝanĝi ĝin, vizitu <a data-l10n-name="startup-link">Aŭtomata malfermo</a> en la sistemaj agordoj.
 startup-restore-warn-on-quit =
     .label = Averti min antaŭ ol fini la retumilon.
 disable-extension =
@@ -969,6 +983,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = legosignoj
     .accesskey = l
+addressbar-locbar-clipboard-option =
+    .label = Tondujo
+    .accesskey = T
 addressbar-locbar-openpage-option =
     .label = malfermitaj langetoj
     .accesskey = m
@@ -994,6 +1011,10 @@ content-blocking-enhanced-tracking-protection = Plibonigita protekto kontraŭ sp
 content-blocking-section-top-level-description = Spuriloj sekvas vin en la reto por kolekti informon pri via kutima retumo kaj pri viaj interesoj. { -brand-short-name } blokas plurajn el tiuj spuriloj kaj aliajn malicajn skriptojn.
 content-blocking-learn-more = Pli da informo
 content-blocking-fpi-incompatibility-warning = Vi uzas nomregnan izoladon (First Party Isolation - FPI), kiu superregas kelkajn el la agordoj de { -brand-short-name } por kuketoj.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Vi uzas "Resist Fingerprinting" (RSP), kiu anstataŭas kelkajn protektojn de { -brand-short-name } kontraŭ identigiloj de ciferecaj spuroj. Tio povus misfunkciigi kelkajn retejojn.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1027,6 +1048,10 @@ content-blocking-all-windows-tracking-content = Spurila enhavo en ĉiuj fenestro
 content-blocking-all-cross-site-cookies = Ĉiuj interretejaj kuketoj
 content-blocking-cryptominers = Miniloj de ĉifromono
 content-blocking-fingerprinters = Identigiloj de ciferecaj spuroj
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Konataj kaj suspektataj identigiloj de ciferecaj spuroj
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1139,6 +1164,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Kolekto kaj uzo de datumojn de { -brand-short-name }
+collection-header2 = Kolekto kaj uzo de datumojn de { -brand-short-name }
+    .searchkeywords = telemezuro
 collection-description = Ni penas doni al vi plurajn eblojn, kaj kolekti nur tion, kion ni bezonas por fari kaj plibonigi { -brand-short-name } por ĉiuj. Ni ĉiam petos permeson antaŭ ol ricevi personajn informojn.
 collection-privacy-notice = Rimarko pri privateco
 collection-health-report-telemetry-disabled = Vi ne plu permesas al { -vendor-short-name } kapti teĥnikajn kaj interagajn datumojn. Ĉiuj antaŭaj datumoj estos forigitaj dum la venontaj 30 tagoj.
