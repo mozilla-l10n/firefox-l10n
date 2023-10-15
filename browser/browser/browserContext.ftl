@@ -298,7 +298,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = Utilitza una màscara de correu electrònic del { -relay-brand-short-name }
+    .label = Utilitza una màscara d'adreça electrònica del { -relay-brand-short-name }
     .accesskey = U
 main-context-menu-suggest-strong-password =
     .label = Suggereix una contrasenya segura…

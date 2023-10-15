@@ -818,7 +818,7 @@ forms-breach-alerts =
     .accesskey = b
 forms-breach-alerts-learn-more-link = Més informació
 preferences-relay-integration-checkbox =
-    .label = Suggereix màscares de correu electrònic del { -relay-brand-name } per a protegir l'adreça electrònica
+    .label = Suggereix màscares d'adreça electrònica del { -relay-brand-name } per a protegir la vostra adreça electrònica
 relay-integration-learn-more-link = Més informació
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
