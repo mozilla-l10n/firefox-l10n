@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = El producto no está disponible
     .message = Si ve que este producto vuelve a estar disponible, infórmenos y trabajaremos para actualizar el análisis.
+shopping-message-bar-warning-product-not-available-button2 = Informar que el producto está en stock.
 shopping-message-bar-thanks-for-reporting =
     .heading = ¡Gracias por informar!
     .message = Deberíamos tener información sobre las reseñas de este producto en 24 horas. Por favor, vuelva a comprobarlo más tarde.
