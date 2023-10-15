@@ -239,6 +239,8 @@ device-migration-fxa-spotlight-link = Recordármelo más tarde
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>¿Hacer que { -brand-short-name } sea el lector de PDF predeterminado?</strong> Utilice { -brand-short-name } para leer y editar archivos PDF guardados en su ordenador.
 pdf-default-notification-set-default-button =
     .label = Establecer como predeterminado
 pdf-default-notification-decline-button =
@@ -246,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>¿Abrir { -brand-short-name } cada vez que reinicie el ordenador?</strong> Ahora se puede configurar { -brand-short-name } para que se abra automáticamente al reiniciar el dispositivo.
 launch-on-login-learnmore = Saber más
 launch-on-login-infobar-confirm-button = Sí, abrir { -brand-short-name }
     .accesskey = S
