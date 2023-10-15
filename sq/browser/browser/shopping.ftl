@@ -156,11 +156,13 @@ ad-by-fakespot = Reklamë nga { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Ndihmoni të përmirësohet { -brand-product-name }
+shopping-survey-question-one = Sa i kënaqur jeni me punën e kontrollorit të shqyrtimeve në { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Shumë i kënaqur
 shopping-survey-q1-radio-2-label = I kënaqur
 shopping-survey-q1-radio-3-label = Asnjanës
 shopping-survey-q1-radio-4-label = Jo i kënaqur
 shopping-survey-q1-radio-5-label = Shumë i pakënaqur
+shopping-survey-question-two = A lehtëson për ju kontrollori i shqyrtimeve marrjen e vendimeve për blerje?
 shopping-survey-q2-radio-1-label = Po
 shopping-survey-q2-radio-2-label = Jo
 shopping-survey-q2-radio-3-label = Nuk e di
@@ -175,6 +177,8 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Kthehuni te <strong>kontrollori i shqyrtimeve</strong>, kurdo që shihni etiketën e çmimeve.
+shopping-callout-pdp-opted-in-title = A janë të besueshme këto shqyrtime? Zbulojeni pa humbur kohë.
 
 ## Onboarding message strings.
 
