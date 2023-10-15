@@ -37,7 +37,13 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Novi podatki za pregled
 shopping-message-bar-warning-stale-analysis-button = Preveri zdaj
+shopping-message-bar-generic-error-title2 = Trenutno ni na voljo nobenih podatkov
+shopping-message-bar-generic-error-message = Poskušamo odpraviti težavo. Preverite znova kmalu.
+shopping-message-bar-warning-not-enough-reviews-title = Ni še dovolj mnenj
+shopping-message-bar-warning-not-enough-reviews-message2 = Ko bo za ta izdelek na voljo več mnenj, bomo lahko preverili njihovo kakovost.
+shopping-message-bar-warning-product-not-available-title = Izdelek ni na voljo
 
 ## Strings for the product review snippets card
 
@@ -82,6 +88,7 @@ shopping-sidebar-close-button2 =
 
 shopping-unanalyzed-product-header-2 = O teh mnenjih še ni podatkov
 shopping-unanalyzed-product-message-2 = Če želite preveriti, ali so ocene tega izdelka zanesljive, preverite kakovost mnenj. Traja le približno 60 sekund.
+shopping-unanalyzed-product-analyze-button = Preveri kakovost mnenj
 
 ## Strings for the advertisement
 
