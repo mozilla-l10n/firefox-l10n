@@ -36,6 +36,7 @@ firefoxview-tabpickup-adddevice-description = Mobil cihazlar için { -brand-prod
 firefoxview-tabpickup-adddevice-learn-how = Nasıl yapılacağını öğrenin
 firefoxview-tabpickup-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u indir
 firefoxview-syncedtabs-adddevice-header = Diğer cihazlarınızdan { -brand-product-name }’a giriş yapın
+firefoxview-syncedtabs-adddevice-description = { -brand-product-name } kullandığınız her yerdeki sekmelerinizi görmek için tüm cihazlarınızda giriş yapın. <a data-l10n-name="url">Diğer cihazlarınızı bağlamayı</a> öğrenin.
 firefoxview-syncedtabs-adddevice-primarybutton = Mobil cihazlar için { -brand-product-name }’u deneyin
 firefoxview-tabpickup-synctabs-header = Sekme eşitlemeyi açın
 firefoxview-tabpickup-synctabs-description = { -brand-short-name } tarayıcınızın sekmeleri cihazlar arasında paylaşmasına izin verin.
