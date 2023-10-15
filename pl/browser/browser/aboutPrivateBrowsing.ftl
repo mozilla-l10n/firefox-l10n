@@ -72,3 +72,5 @@ about-private-browsing-cookie-banners-promo-message = Pozwól { -brand-short-nam
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Nie zostawiaj śladów na tym urządzeniu
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } usuwa Twoje ciasteczka, historię i dane witryn po zamknięciu wszystkich prywatnych okien.
+about-private-browsing-felt-privacy-v1-info-link = Kto może zobaczyć co robię?
