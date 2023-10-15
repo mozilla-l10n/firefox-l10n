@@ -38,6 +38,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Kontrol edilecek yeni bilgiler
 shopping-message-bar-warning-stale-analysis-button = Şimdi kontrol et
 shopping-message-bar-generic-error-title2 = Şu anda bilgi yok
 shopping-message-bar-generic-error-message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
@@ -47,7 +48,9 @@ shopping-message-bar-warning-product-not-available-title = Ürün mevcut değil
 shopping-message-bar-warning-product-not-available-message2 = Bu ürünün yeniden stoğa girdiğini görürseniz bize bildirin, biz de değerlendirmeleri kontrol etmeye çalışalım.
 shopping-message-bar-warning-product-not-available-button = Bu ürünün tekrar stokta olduğunu bildir
 shopping-message-bar-thanks-for-reporting-title = Bildirdiğiniz için teşekkürler!
+shopping-message-bar-thanks-for-reporting-message2 = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
 shopping-message-bar-warning-product-not-available-reported-title2 = Bilgiler yakında gelecek
+shopping-message-bar-warning-product-not-available-reported-message2 = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
 shopping-message-bar-generic-error =
     .heading = Şu anda bilgi yok
     .message = Sorunu çözmek için çalışıyoruz. Lütfen kısa süre sonra tekrar kontrol edin.
@@ -57,6 +60,13 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Ürün mevcut değil
     .message = Bu ürünün yeniden stoğa girdiğini görürseniz bize bildirin, biz de değerlendirmeleri kontrol etmeye çalışalım.
+shopping-message-bar-warning-product-not-available-button2 = Ürünün stokta olduğunu bildir
+shopping-message-bar-thanks-for-reporting =
+    .heading = Bildirdiğiniz için teşekkürler!
+    .message = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
+shopping-message-bar-warning-product-not-available-reported =
+    .heading = Bilgiler yakında gelecek
+    .message = Bu ürünün değerlendirmeleriyle ilgili 24 saat içinde bilgi alacağız. Lütfen daha sonra tekrar kontrol edin.
 shopping-message-bar-analysis-in-progress-title2 = Değerlendirme kalitesi kontrol ediliyor
 shopping-message-bar-analysis-in-progress-message2 = Yaklaşık 60 saniye sürebilir.
 shopping-message-bar-page-not-supported-title = Bu değerlendirmeleri kontrol edemiyoruz
@@ -102,6 +112,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Değerlendirme kalitesini nasıl belirliyoruz?
+shopping-analysis-explainer-grades-intro = Her ürünün değerlendirmelerine A’dan F’ye kadar bir <strong>harf notu</strong> veriyoruz.
 shopping-analysis-explainer-review-grading-scale-reliable = Güvenilir değerlendirmeler. Değerlendirmelerin büyük olasılıkla dürüst, tarafsız incelemeler yazan gerçek müşterilerden geldiğini düşünüyoruz.
 shopping-analysis-explainer-review-grading-scale-mixed = Güvenilir ve güvenilmez değerlendirmelerin bir karışımı olduğunu düşünüyoruz.
 shopping-analysis-explainer-review-grading-scale-unreliable = Güvenilmez değerlendirmeler. Değerlendirmelerin büyük ihtimalle sahte olduğunu veya önyargılı kişilerden geldiğini düşünüyoruz.
