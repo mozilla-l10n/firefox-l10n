@@ -14,6 +14,7 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } ne povis trovi r
 ##
 
 firefox-relay-must-login-to-fxa = Vi devas komenci seancon en { -fxaccount-brand-name } por povi uzi { -relay-brand-name }.
+firefox-relay-must-login-to-account = Komenu seancon en via konto por uzi viajn retpoŝtajn maskojn de { -relay-brand-name }.
 firefox-relay-get-unlimited-masks =
     .label = Administri retpoŝtajn maskojn
     .accesskey = A
