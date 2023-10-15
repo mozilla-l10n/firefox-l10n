@@ -560,6 +560,8 @@ urlbar-result-action-search-w-engine = Cerca amb { $engine }
 urlbar-result-action-sponsored = Patrocinat
 urlbar-result-action-switch-tab = Canvia a la pestanya
 urlbar-result-action-visit = Visita
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Obre l'adreça del porta-retalls
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -904,9 +906,29 @@ unified-extensions-button-permissions-needed =
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-quarantined =
+    .label = Extensions
+    .tooltiptext =
+        Extensions
+        No es permeten algunes extensions
 
 ## Private browsing reset button
 
+reset-pbm-toolbar-button =
+    .label = Finalitza la sessió privada
+    .tooltiptext = Finalitza la sessió privada
+reset-pbm-panel-heading = Voleu finalitzar la sessió privada?
+reset-pbm-panel-description = Es tanquen totes les pestanyes privades i se suprimeixen les galetes l'historial i totes les dades dels llocs.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Demana-m'ho sempre
+    .accesskey = D
+reset-pbm-panel-cancel-button =
+    .label = Cancel·la
+    .accesskey = C
+reset-pbm-panel-confirm-button =
+    .label = Suprimeix les dades de la sessió
+    .accesskey = S
+reset-pbm-panel-complete = S'han suprimit les dades de la sessió privada
 
 ## Autorefresh blocker
 
@@ -918,6 +940,10 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Les màscares, segures i fàcils d'utilitzar, protegeixen la vostra identitat i eviten el correu brossa amagant la vostra adreça electrònica.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Tots els missatges de correu enviats a les vostres màscares de correu electrònic es reenviaran a <strong>{ $useremail }</strong> (tret que decidiu blocar-los).
 
 ## Add-on Pop-up Notifications
 
