@@ -254,7 +254,16 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Czy otwierać { -brand-short-name(case: "acc") } przy każdym uruchomieniu komputera?</strong> Teraz możesz ustawić automatyczne otwieranie { -brand-short-name(case: "gen") } po włączeniu urządzenia.
+launch-on-login-learnmore = Więcej informacji
+launch-on-login-infobar-confirm-button = Tak, otwieraj { -brand-short-name(case: "acc") }
+    .accesskey = T
+launch-on-login-infobar-reject-button = Nie teraz
+    .accesskey = N
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Czy otwierać { -brand-short-name(case: "acc") } przy każdym uruchomieniu komputera?</strong> Znajdź „uruchamianie” w ustawieniach, aby zarządzać swoimi preferencjami uruchamiania.
+launch-on-login-infobar-final-reject-button = Nie, dziękuję
+    .accesskey = N
