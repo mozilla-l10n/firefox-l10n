@@ -182,6 +182,7 @@ shopping-callout-pdp-opted-in-title = A janë të besueshme këto shqyrtime? Zbu
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-button = Po, provojeni
 shopping-onboarding-not-now-button = Jo tani
 shopping-onboarding-dialog-close-button =
