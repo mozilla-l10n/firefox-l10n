@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Blerje me { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Kontrollor Shqyrtimesh
@@ -45,9 +46,20 @@ shopping-message-bar-warning-not-enough-reviews-title = Ende pa shqyrtime të mj
 shopping-message-bar-warning-not-enough-reviews-message2 = Kur ky produkt të ketë më tepër shqyrtime, do të jemi në gjendje të kontrollojmë cilësinë e tyre.
 shopping-message-bar-warning-product-not-available-title = Produkti s’është i passhëm
 shopping-message-bar-warning-product-not-available-message2 = Nëse e shihni sërish në stok këtë produkt, raportojeni dhe do të merremi me kontrollin e shqyrtimeve.
+shopping-message-bar-warning-product-not-available-button = Njoftoni se për këtë produkt ka prapë stok
 shopping-message-bar-thanks-for-reporting-title = Faleminderit për raportimin!
+shopping-message-bar-thanks-for-reporting-message2 = Brenda 24 orësh do të duhet të kemi informacion rreth shqyrtimeve të këtij produkti. Ju lutemi, rikontrolloni më vonë.
 shopping-message-bar-warning-product-not-available-reported-title2 = Informacion së shpejti
 shopping-message-bar-warning-product-not-available-reported-message2 = Duhet të kemi informacion rreth shqyrtimeve të këtij produkti brenda 24 orësh. Ju lutemi, shihni më vonë.
+shopping-message-bar-generic-error =
+    .heading = S’ka informacion tani
+    .message = Po punojmë ta zgjidhim problemin. Ju lutemi, rikontrolloni së shpejti.
+shopping-message-bar-warning-not-enough-reviews =
+    .heading = Ende pa shqyrtime të mjafta
+    .message = Kur ky produkt të ketë më tepër shqyrtime, do të jemi në gjendje të kontrollojmë cilësinë e tyre.
+shopping-message-bar-warning-product-not-available =
+    .heading = Produkti s’është i passhëm
+    .message = Nëse e shihni sërish në stok produktin, na njoftoni dhe do të merremi me kontrollin e shqyrtimeve.
 shopping-message-bar-warning-product-not-available-button2 = Njoftoni se për produktin ka prapë stok
 shopping-message-bar-thanks-for-reporting =
     .heading = Faleminderit për raportimin!
@@ -58,9 +70,15 @@ shopping-message-bar-warning-product-not-available-reported =
 shopping-message-bar-analysis-in-progress-title2 = Kontroll cilësie shqyrtimesh
 shopping-message-bar-analysis-in-progress-message2 = Kjo mund të zgjasë rresh 60 sekonda.
 shopping-message-bar-page-not-supported-title = S’mund t’i kontrollojmë këto shqyrtime
+shopping-message-bar-page-not-supported-message = Mjerisht, s’mund të kontrollojmë cilësinë e shqyrtimit për disa lloje produktesh. Për shembull, karta dhuratë dhe transmetim videosh, muzike dhe lojërash.
+shopping-message-bar-page-not-supported =
+    .heading = S’mund t’i kontrollojmë këto shqyrtime
+    .message = Mjerisht, s’mund të kontrollojmë cilësinë e shqyrtimit për disa lloje produktesh. Për shembull, karta dhuratë dhe transmetim videosh, muzike dhe lojërash.
 
 ## Strings for the product review snippets card
 
+shopping-highlights-label =
+    .label = Gjëra në pah nga shqyrtimet së fundi
 shopping-highlight-price = Çmim
 shopping-highlight-quality = Cilësi
 shopping-highlight-shipping = Dërgim
@@ -78,10 +96,17 @@ shopping-settings-label =
     .label = Rregullime
 shopping-settings-recommendations-toggle =
     .label = Shfaq reklama te kontrollori i shqyrtimeve
+shopping-settings-recommendations-learn-more = Do të shihni reklama me raste, për produkte të afërt. Krejt reklamat duhet të plotësojnë standarde cilësie të shqyrtimeve tona. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
 shopping-settings-opt-out-button = Çaktivizoje kontrollorin e shqyrtimeve
+powered-by-fakespot = Kontrollori i shqyrtimeve bazohet në <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Vlerësim i rregulluar
+shopping-adjusted-rating-unreliable-reviews = U hoqën shqyrtime jo të besueshme
 
 ## Strings for the review reliability component
 
@@ -92,6 +117,17 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Si e përcaktojmë cilësinë e shqyrtimeve
+shopping-analysis-explainer-intro2 = Për të kontrolluar besueshmërinë e shqyrtimeve të produkteve, ne përdorim teknologji IA nga { -fakespot-brand-full-name }. Kjo do t’ju ndihmojë vetëm të vlerësoni cilësinë e shqyrtimeve, jo cilësinë e produkteve.
+shopping-analysis-explainer-grades-intro = I caktojmë çdo shqyrtimi të produktit një <strong>vlerësim me shkronjë</strong> nga A në F.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Vlerësimi i rregulluar</strong> bazohet vetëm në shqyrtime që besojmë se janë të besueshme.
+shopping-analysis-explainer-learn-more = Mësoni më tepër mbi <a data-l10n-name="review-quality-url">se si { -fakespot-brand-full-name } përcakton cilësinë e shqyrtimeve</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Gjërat në pah</strong> janë nga shqyrtime { $retailer } brenda 80 ditëve të fundit, të cilat besojmë se janë të vlefshme.
+shopping-analysis-explainer-review-grading-scale-reliable = Shqyrtime të vlefshme. Besojmë se shqyrtimet janë, me gjasa, prej klientësh të njëmendtë, që lanë shqyrtime të ndershme, të paanshme.
+shopping-analysis-explainer-review-grading-scale-mixed = Besojmë se bëhet fjalë për një përzierje shqyrtimesh të besueshme dhe jo të besueshme.
+shopping-analysis-explainer-review-grading-scale-unreliable = Shqyrtime jo të besueshme. Besojmë se shqyrtimet ka gjasa të jenë të rreme, ose prej shqyrtuesish të anshëm.
 
 ## Strings for UrlBar button
 
@@ -108,6 +144,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ende pa informacion rreth këtyre shqyrtimeve
+shopping-unanalyzed-product-message-2 = Për të ditur nëse shqyrtimet e këtij produkti janë të besueshme apo jo, kontrolloni cilësinë e shqyrtimeve. Duhen vetëm rreth 60 sekonda.
 shopping-unanalyzed-product-analyze-button = Kontrollo cilësi shqyrtimi
 
 ## Strings for the advertisement
