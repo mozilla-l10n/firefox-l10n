@@ -62,6 +62,21 @@ shopping-letter-grade-tooltip =
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = Zelo zadovoljen
+shopping-survey-q1-radio-2-label = Zadovoljen
+shopping-survey-q1-radio-3-label = Nevtralen
+shopping-survey-q1-radio-4-label = Nezadovoljen
+shopping-survey-q1-radio-5-label = Zelo nezadovoljen
+shopping-survey-question-two = Vam pregledovalnik mnenj olajša odločitev o nakupu?
+shopping-survey-q2-radio-1-label = Da
+shopping-survey-q2-radio-2-label = Ne
+shopping-survey-q2-radio-3-label = Ne vem
+shopping-survey-next-button-label = Naprej
+shopping-survey-submit-button-label = Pošlji
+shopping-survey-terms-link = Pogoji uporabe
+shopping-survey-thanks-message = Hvala za vaš komentar!
+shopping-survey-thanks =
+    .heading = Hvala za vaš komentar!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -70,3 +85,14 @@ shopping-letter-grade-tooltip =
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = Da, poskusi
+shopping-onboarding-not-now-button = Ne zdaj
+shopping-onboarding-dialog-close-button =
+    .title = Zapri
+    .aria-label = Zapri
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Napredek: korak { $current } od { $total }

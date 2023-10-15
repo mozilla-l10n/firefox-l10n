@@ -46,3 +46,5 @@ unified-extensions-mb-quarantined-domain-message-2 = Za zaščito vaših podatko
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = Nekatere razširitve niso dovoljene
     .message = Za zaščito vaših podatkov nekatere razširitve ne morejo brati ali spreminjati podatkov na tem spletnem mestu. Delovanje razširitve na spletnih straneh, kjer jo omejuje { -vendor-short-name }, lahko omogočite v njenih nastavitvah.
+unified-extensions-mb-quarantined-domain-learn-more = Več o tem
+    .aria-label = Preberite več: Nekatere razširitve niso dovoljene
