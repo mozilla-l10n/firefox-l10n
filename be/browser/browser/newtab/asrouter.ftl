@@ -243,6 +243,8 @@ device-migration-fxa-spotlight-link = Нагадаць пазней
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Зрабіць { -brand-short-name } прадвызначанай праграмай чытання PDF-файлаў?</strong> Выкарыстоўвайце { -brand-short-name } для чытання і рэдагавання файлаў PDF, захаваных на вашым камп'ютары.
 pdf-default-notification-set-default-button =
     .label = Зрабіць прадвызначаным
 pdf-default-notification-decline-button =
@@ -250,12 +252,16 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Адкрываць { -brand-short-name } кожны раз па перазапуску камп'ютара?</strong> Цяпер вы можаце наладзіць аўтаматычнае адкрыццё { -brand-short-name } пры перазагрузцы прылады.
 launch-on-login-learnmore = Падрабязней
+launch-on-login-infobar-confirm-button = Так, адкрываць { -brand-short-name }
+    .accesskey = Т
 launch-on-login-infobar-reject-button = Не зараз
     .accesskey = е
 
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Адкрываць { -brand-short-name } кожны раз па перазапуску камп'ютара?</strong> Каб кіраваць наладамі запуску, шукайце «запуск» у наладах.
 launch-on-login-infobar-final-reject-button = Не, дзякуй
     .accesskey = е

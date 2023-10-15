@@ -925,12 +925,17 @@ reset-pbm-toolbar-button =
     .label = Закончыць прыватны сеанс
     .tooltiptext = Закончыць прыватны сеанс
 reset-pbm-panel-heading = Закончыць ваш прыватны сеанс?
+reset-pbm-panel-description = Закрыць усе прыватныя карткі і выдаліць гісторыю, кукі і ўсе астатнія звесткі сайтаў.
+reset-pbm-panel-always-ask-checkbox =
+    .label = Заўсёды пытацца ў мяне
+    .accesskey = я
 reset-pbm-panel-cancel-button =
     .label = Скасаваць
     .accesskey = С
 reset-pbm-panel-confirm-button =
     .label = Выдаліць звесткі сеанса
     .accesskey = В
+reset-pbm-panel-complete = Звесткі прыватнага сеанса выдалены
 
 ## Autorefresh blocker
 
