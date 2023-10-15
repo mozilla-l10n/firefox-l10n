@@ -326,5 +326,6 @@ launch-on-login-infobar-reject-button = Nyní ne
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Otevřít { -brand-short-name } při každém spuštění počítače?</strong> Chcete-li spravovat předvolby pro spouštění, vyhledejte v nastavení položku "spuštění".
 launch-on-login-infobar-final-reject-button = Ne, děkuji
     .accesskey = N
