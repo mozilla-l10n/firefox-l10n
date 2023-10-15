@@ -482,7 +482,7 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = მ
 browsing-picture-in-picture-learn-more = ვრცლად
 browsing-media-control =
-    .label = გაშვებული ფაილების მართვა კლავიატურით, ყურსასმენით ან პროგრამული არედან
+    .label = გაშვებული ფაილების მართვა კლავიშებით, ყურსასმენით ან პროგრამულად
     .accesskey = ფ
 browsing-media-control-learn-more = ვრცლად
 browsing-cfr-recommendations =
@@ -1101,7 +1101,7 @@ content-blocking-known-fingerprinters-label =
 # possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
 content-blocking-suspected-fingerprinters-label =
     .label = სავარაუდო ამომცნობები
-    .accesskey = ჩ
+    .accesskey = ც
 
 ## Privacy Section - Tracking
 
