@@ -81,3 +81,4 @@ about-private-browsing-felt-privacy-v1-info-header = Non lasciare tracce su ques
 about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name} elimina i cookie, la cronologia e i dati dei siti web quando chiudi tutte le finestre anonime.
 about-private-browsing-felt-privacy-v1-info-link = Chi potrebbe vedere la mia attività?
 
+

@@ -152,3 +152,4 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Attivalo e { 
 protections-panel-cookie-banner-view-cancel = Annulla
 protections-panel-cookie-banner-view-turn-off = Disattiva
 protections-panel-cookie-banner-view-turn-on = Attiva
+
