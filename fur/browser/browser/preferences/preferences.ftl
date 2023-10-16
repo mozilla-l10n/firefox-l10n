@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dîs ai sîts web di no sta vendi o condividi i miei dâts
     .accesskey = s
+non-technical-privacy-header = Preferencis pe riservatece dai sîts web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Riduzion strissons pai cookies
 cookie-banner-handling-description = { -brand-short-name } al cîr in automatic di refudâ, tai sîts supuartâts, lis richiestis dai cookies sul strisson pai cookies.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Bloc dai strissons pai cookies
+cookie-banner-blocker-description = Cuant che un sît al domande di podê doprâ i cookies te navigazion privade, { -brand-short-name } al refude in automatic al puest to. Dome sui sîts supuartâts.
 cookie-banner-learn-more = Plui informazions
 forms-handle-cookie-banners =
     .label = Ridûs i strissons pai cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Refude in automatic i strissons pai cookies
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Azions sveltis
     .accesskey = Z
+addressbar-locbar-recentsearches-option =
+    .label = Ricercjis resintis
+    .accesskey = R
 addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 addressbar-quickactions-learn-more = Plui informazions
 
