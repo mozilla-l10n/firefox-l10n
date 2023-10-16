@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = 웹 사이트에 내 데이터를 판매하거나 공유하지 말라고 요청
     .accesskey = s
+non-technical-privacy-header = 웹 사이트 개인 정보 보호 설정
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -953,9 +954,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = 쿠키 배너 감소
 cookie-banner-handling-description = { -brand-short-name }는 지원되는 사이트의 쿠키 배너에서 쿠키 요청을 자동으로 거부하려고 시도합니다.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = 쿠키 배너 차단기
+cookie-banner-blocker-description = 사생활 보호 모드에서 사이트가 쿠키를 사용할 수 있는지 묻는 경우 { -brand-short-name }는 자동으로 거부합니다. 단, 지원되는 사이트에서만 가능합니다.
 cookie-banner-learn-more = 더 알아보기
 forms-handle-cookie-banners =
     .label = 쿠키 배너 줄이기
+cookie-banner-blocker-checkbox-label =
+    .label = 쿠키 배너 자동 거부
 
 ## Privacy Section - Address Bar
 
@@ -986,6 +994,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 빠른 작업
     .accesskey = Q
+addressbar-locbar-recentsearches-option =
+    .label = 최근 검색
+    .accesskey = R
 addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-quickactions-learn-more = 더 알아보기
 

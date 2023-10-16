@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = 쿠키 배너 감소
+protections-panel-cookie-banner-blocker-header = 쿠키 배너 차단기
 protections-panel-cookie-banner-handling-enabled = 이 사이트에서 켜짐
 protections-panel-cookie-banner-handling-disabled = 이 사이트에서 꺼짐
 protections-panel-cookie-banner-handling-undetected = 현재 지원되지 않는 사이트
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host }에 대해 쿠키 배너 감소를 끄시겠습니까?
 protections-panel-cookie-banner-view-turn-on-for-site = 이 사이트에 쿠키 배너 감소를 켜시겠습니까?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = 쿠키 배너 차단기
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host }에 쿠키 배너 차단기를 끄시겠습니까?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = 이 사이트에 쿠키 배너 차단기를 켜시겠습니까?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }는 이 사이트의 쿠키를 지우고 페이지를 새로 고침합니다. 모든 쿠키를 삭제하면 로그아웃되거나 장바구니가 비워질 수 있습니다.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }는 지원되는 사이트에서 모든 쿠키 요청을 자동으로 거부하려고 시도합니다.
+protections-panel-cookie-banner-blocker-view-turn-on-description = 켜면, { -brand-short-name }가 이 사이트에 쿠키 배너를 자동으로 거부하려고 시도합니다.
 protections-panel-cookie-banner-view-cancel = 취소
 protections-panel-cookie-banner-view-turn-off = 끄기
 protections-panel-cookie-banner-view-turn-on = 켜기
