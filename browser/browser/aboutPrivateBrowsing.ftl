@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Inga sparade kakor eller historik, dire
 about-private-browsing-cookie-banners-promo-header = Ta bort kak-banners!
 about-private-browsing-cookie-banners-promo-button = Reducera kak-banners
 about-private-browsing-cookie-banners-promo-message = Låt { -brand-short-name } automatiskt svara på popup-fönster för kakor så att du kan återgå till att surfa utan distraktion. { -brand-short-name } kommer att avvisa alla förfrågningar om möjligt.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tar hand om kakbanners åt dig
+about-private-browsing-cookie-banners-promo-body = Vi vägrar nu automatiskt många kakbanners så att du spåras mindre och kan gå tillbaka till störningsfri surfning.
 
 ## Strings for Felt Privacy v1 experiments in 119
 

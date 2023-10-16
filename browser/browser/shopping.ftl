@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Visa annonser i recensionsgranskaren
 shopping-settings-recommendations-learn-more = Du ser då och då annonser för relevanta produkter. Alla annonser måste uppfylla våra kvalitetsstandarder för recensioner. <a data-l10n-name="review-quality-url">Läs mer</a>
+shopping-settings-recommendations-learn-more2 = Du ser då och då annonser för relevanta produkter. Vi annonserar endast produkter med pålitliga recensioner. <a data-l10n-name="review-quality-url">Läs mer</a>
 shopping-settings-opt-out-button = Stäng av recensionsgranskaren
 powered-by-fakespot = Recensionsgranskaren drivs av <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

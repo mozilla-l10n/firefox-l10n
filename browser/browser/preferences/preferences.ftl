@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Säg till webbplatser att inte sälja eller dela mina data
     .accesskey = S
+non-technical-privacy-header = Sekretessinställningar för webbplatsen
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reducering av kakbanners
 cookie-banner-handling-description = { -brand-short-name } försöker automatiskt avvisa kakförfrågningar på kakbanners på webbplatser som stöds.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blockering kakbanners
+cookie-banner-blocker-description = När en webbplats frågar om de kan använda kakor i privat surfläge, vägrar { -brand-short-name } automatiskt åt dig. Endast på webbplatser som stöds.
 cookie-banner-learn-more = Läs mer
 forms-handle-cookie-banners =
     .label = Reducera kakbanners
+cookie-banner-blocker-checkbox-label =
+    .label = Vägra automatiskt kakbanners
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snabbåtgärder
     .accesskey = a
+addressbar-locbar-recentsearches-option =
+    .label = Senaste sökningar
+    .accesskey = S
 addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 addressbar-quickactions-learn-more = Läs mer
 
