@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Reklámok megjelenítése az értékelés-ellenőrzőben
 shopping-settings-recommendations-learn-more = Alkalmanként releváns termékek hirdetéseit fogja látni. Minden hirdetésnek meg kell felelnie az ellenőrzési minőségi követelményeinknek. <a data-l10n-name="review-quality-url">További tudnivalók</a>
+shopping-settings-recommendations-learn-more2 = Alkalmanként releváns termékek hirdetéseit fogja látni. Csak megbízható értékeléssel rendelkező termékeket hirdetünk. <a data-l10n-name="review-quality-url">További tudnivalók</a>
 shopping-settings-opt-out-button = Értékelés-ellenőrző kikapcsolása
 powered-by-fakespot = Az értékelés-ellenőrzőt a <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> szolgáltatja.
 
