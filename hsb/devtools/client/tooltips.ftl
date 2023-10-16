@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = Spytajće <strong>display:table-cell</strong> 
 inactive-scroll-padding-when-not-scroll-container-fix = Spytajće, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> přidać. { learn-more }
 inactive-css-border-image-fix = Wotstrońće na nadrjadowanym elemenće tabele kajkosć abo změńće hódnotu kajkosće <strong>border-collapse</strong> do hódnoty, kotraž so wot <strong>collapse</strong> rozeznawa. { learn-more }
 inactive-css-ruby-element-fix = Spytajće <strong>font-size</strong> teksta ruby změnić. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Spytajće ličbu linkow redukować. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
