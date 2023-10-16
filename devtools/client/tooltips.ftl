@@ -71,6 +71,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</s
 inactive-css-border-image-fix = 부모 테이블 요소에서 속성을 제거하거나 <strong>border-collapse</strong> 값을 <strong>collapse</strong> 이외의 값으로 변경합니다. { learn-more }
 inactive-css-ruby-element-fix = 윗주 텍스트의 <strong>font-size</strong>를 변경해 보세요. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = 줄 수를 줄여보세요. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = 요소의 콘텐츠를 분할하지 마세요(예: 열을 제거하거나 <strong>page-break-inside:avoid</strong>를 사용하는 경우). { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
