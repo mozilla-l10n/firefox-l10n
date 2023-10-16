@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websydłam zdźělić, zo nimaja moje daty předać abo dźělić
     .accesskey = d
+non-technical-privacy-header = Nastajenja priwatnosće websydła
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -976,6 +977,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Redukowanje plackowych chorhojow
 cookie-banner-handling-description = { -brand-short-name } awtomatisce pospytuje, plackowe naprašowanja za plackowymi chorhojemi na podpěranych sydłach wotpokazać.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Dalše informacije
 forms-handle-cookie-banners =
     .label = Plackowe chorhoje redukować
@@ -1009,6 +1013,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Spěšne akcije
     .accesskey = S
+addressbar-locbar-recentsearches-option =
+    .label = Najnowše pytanja
+    .accesskey = N
 addressbar-suggestions-settings = Nastajenja za namjety pytawy změnić
 addressbar-quickactions-learn-more = Dalše informacije
 
