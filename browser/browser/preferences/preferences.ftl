@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Megmondás a webhelyeknek, hogy ne adják el vagy osszák meg az adatait
     .accesskey = M
+non-technical-privacy-header = Webhely adatvédelmi beállításai
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Sütibannerek számának csökkentése
 cookie-banner-handling-description = A { -brand-short-name } automatikusan megpróbálja elutasítani a sütibannerek sütikérését a támogatott oldalakon.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Sütibanner-blokkoló
+cookie-banner-blocker-description = Ha egy webhely megkérdezi, hogy privát böngészési módban használhat-e sütiket, a { -brand-short-name } automatikusan elutasítja Önt. Csak a támogatott oldalakon működik.
 cookie-banner-learn-more = További tudnivalók
 forms-handle-cookie-banners =
     .label = A sütibannerek számának csökkentése
+cookie-banner-blocker-checkbox-label =
+    .label = Sütibannerek automatikus elutasítása
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gyors műveletek
     .accesskey = r
+addressbar-locbar-recentsearches-option =
+    .label = Legutóbbi keresések
+    .accesskey = L
 addressbar-suggestions-settings = Keresőszolgáltatás-javaslatok beállításainak módosítása
 addressbar-quickactions-learn-more = További tudnivalók
 
