@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> não tem efeito sobre
 inactive-css-ruby-element = <strong>{ $property }</strong> não tem efeito sobre este elemento, pois é um elemento ruby. Seu tamanho é determinado pelo tamanho da fonte do texto ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Não há suporte para <strong>{ $property }</strong> em pseudo-elementos de destaque.
 inactive-css-cue-pseudo-element-not-supported = Não há suporte para<strong>{ $property }</strong> em pseudo-elementos ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> não tem efeito neste elemento, pois tem mais de { $lineCount } linha.
+       *[other] <strong>{ $property }</strong> não tem efeito neste elemento, pois tem mais de { $lineCount } linhas.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> não tem efeito neste elemento, pois está fragmentado, ou seja, seu conteúdo está separado em várias colunas ou páginas.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +74,8 @@ inactive-css-not-table-cell-fix = Experimente adicionar <strong>display:table-ce
 inactive-scroll-padding-when-not-scroll-container-fix = Experimente adicionar <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = No elemento superior da tabela, remova a propriedade ou altere o valor de <strong>border-collapse</strong> para um valor diferente de <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Experimente alterar o <strong>font-size</strong> do texto ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Experimente reduzir o número de linhas. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Evite a separação do conteúdo do elemento, por exemplo. removendo colunas ou usando <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
