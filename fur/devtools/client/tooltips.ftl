@@ -74,6 +74,8 @@ inactive-css-not-table-cell-fix = Prove a zontâ <strong>display:table-cell</str
 inactive-scroll-padding-when-not-scroll-container-fix = Prove a zontâ <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> o <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Sul element de tabele dal gjenitôr, gjave la proprietât o met il valôr di <strong>border-collapse</strong> a un valôr diviers di <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Prove a modificâ <strong>font-size</strong> de trascrizion fonetiche. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Prove a ridusi il numar di riis. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Evite di distribuî il contignût dal element, par esempli gjavant lis colonis o doprant <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
