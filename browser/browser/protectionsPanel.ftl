@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Zníženie počtu bannerov k súborom cookie
+protections-panel-cookie-banner-blocker-header = Blokovanie bannerov k súborom cookie
 protections-panel-cookie-banner-handling-enabled = Zapnuté pre túto stránku
 protections-panel-cookie-banner-handling-disabled = Vypnuté pre túto stránku
 protections-panel-cookie-banner-handling-undetected = Stránka momentálne nie je podporovaná
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Vypnúť znižovanie počtu bannerov k súborom cookie pre { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Zapnúť znižovanie počtu bannerov k súborom cookie pre túto stránku?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blokovanie bannerov k súborom cookie
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vypnúť blokovanie bannerov k súborom cookie pre { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Zapnúť blokovanie bannerov k súborom cookie pre túto stránku?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vymaže súbory cookie tohto webu a obnoví stránku. Vymazanie všetkých súborov cookie vás môže odhlásiť zo stránky alebo vyprázdniť nákupné košíky.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } sa pokúša automaticky odmietnuť všetky žiadosti o súbory cookie na podporovaných stránkach.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Po zapnutí sa { -brand-short-name } pokúsi automaticky odmietnuť bannery k súborom cookie na tejto stránke.
 protections-panel-cookie-banner-view-cancel = Zrušiť
 protections-panel-cookie-banner-view-turn-off = Vypnúť
 protections-panel-cookie-banner-view-turn-on = Zapnúť
