@@ -40,6 +40,10 @@ inactive-css-border-image = <strong>{ $property }</strong>는 부모 테이블 �
 inactive-css-ruby-element = <strong>{ $property }</strong>는 윗주 요소이므로 이 요소에 영향을 미치지 않습니다. 크기는 윗주 텍스트의 글꼴 크기에 따라 결정됩니다.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong>는 하이라이트 가상 요소에서 지원되지 않습니다.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong>는 ::cue 가상 요소에서 지원되지 않습니다.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded = <strong>{ $property }</strong>는 이 요소에 { $lineCount }개 이상의 행이 있으므로 이 요소에 영향을 주지 않습니다.
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong>는 조각화되어 있으므로(예: 해당 콘텐츠가 여러 열이나 페이지에 걸쳐 분할되어 있으므로) 이 요소에 영향을 주지 않습니다.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +70,7 @@ inactive-css-not-table-cell-fix = <strong>display:table-cell</strong>을 추가�
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, 또는 <strong>overflow:hidden</strong>을 추가해보세요. { learn-more }
 inactive-css-border-image-fix = 부모 테이블 요소에서 속성을 제거하거나 <strong>border-collapse</strong> 값을 <strong>collapse</strong> 이외의 값으로 변경합니다. { learn-more }
 inactive-css-ruby-element-fix = 윗주 텍스트의 <strong>font-size</strong>를 변경해 보세요. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = 줄 수를 줄여보세요. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
