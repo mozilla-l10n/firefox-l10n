@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Riduzion strissons pai cookies
+protections-panel-cookie-banner-blocker-header = Bloc strissons pai cookies
 protections-panel-cookie-banner-handling-enabled = Ative par chest sît
 protections-panel-cookie-banner-handling-disabled = Disativade par chest sît
 protections-panel-cookie-banner-handling-undetected = Sît pal moment no supuartât
@@ -128,6 +129,8 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Disativâ la riduzion dai strissons pai cookies par { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Ativâ la riduzion dai strissons pai cookies par chest sît?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Bloc strissons pai cookies
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } al netarà vie i cookies di chest sît e al inzornarà la pagjine. Al è pussibil che cu la netisie dai cookies tu vegnis disconetût dal sît o che eventuâi carei de spese a vegnin disvuedâts.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } al cîr di refudâ in automatic dutis lis richiestis dai cookies sui sîts supuartâts.
 protections-panel-cookie-banner-view-cancel = Anule
