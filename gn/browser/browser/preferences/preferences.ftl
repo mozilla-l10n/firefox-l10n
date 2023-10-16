@@ -977,6 +977,8 @@ cookie-banner-blocker-header = Ejoko Banner kookie rehegua
 cookie-banner-learn-more = Kuaave
 forms-handle-cookie-banners =
     .label = Emomichĩ kookie banner
+cookie-banner-blocker-checkbox-label =
+    .label = Tomboyke ijehegui umi banner kookie rehegua
 
 ## Privacy Section - Address Bar
 

@@ -48,6 +48,12 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## is installed as a Snap.
 
 migration-no-permissions-instructions-step1 = Eiporavo “Ku’ejey”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Marandurenda poravohápe, eikundaha <code>{ $permissionsPath }</code> peve ha eiporavo “Mbosa’y”
 
 ## These strings will be displayed based on how many resources are selected to import
 
