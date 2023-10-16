@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = להורות לאתרים לא למכור או לשתף את הנתונים שלי
     .accesskey = מ
+non-technical-privacy-header = העדפות פרטיות של אתרים
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -964,6 +965,9 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = מידע נוסף
 
 ## Privacy Section - Address Bar
@@ -995,6 +999,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = פעולות מהירות
     .accesskey = פ
+addressbar-locbar-recentsearches-option =
+    .label = חיפושים אחרונים
+    .accesskey = ח
 addressbar-suggestions-settings = שינוי העדפות של הצעות מנועי חיפוש
 addressbar-quickactions-learn-more = מידע נוסף
 
