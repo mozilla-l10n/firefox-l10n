@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Sütibannerek számának csökkentése
+protections-panel-cookie-banner-blocker-header = Sütibanner-blokkoló
 protections-panel-cookie-banner-handling-enabled = Bekapcsolva erre az oldalra
 protections-panel-cookie-banner-handling-disabled = Kikapcsolva erre az oldalra
 protections-panel-cookie-banner-handling-undetected = A webhely jelenleg nem támogatott
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Kikapcsolja a sütibanner-csökkentést a következőnél: { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Bekapcsolja a sütibanner-csökkentést ennél a webhelynél?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Sütibanner-blokkoló
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Kikapcsolja a sütibanner-blokkolót a következőnél: { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Bekapcsolja a sütibanner-blokkolót ennél a webhelynél?
 protections-panel-cookie-banner-view-cookie-clear-warning = A { -brand-short-name } törli a webhely sütijeit, és frissíti az oldalt. Az összes süti törlésével kijelentkezhet, vagy kiürítheti a kosarait.
 protections-panel-cookie-banner-view-turn-on-description = A { -brand-short-name } automatikusan megpróbálja elutasítani az összes sütikérést a támogatott oldalakon.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Kapcsolja be, és a { -brand-short-name } automatikusan megpróbálja elutasítani a sütibannereket ezen az oldalon.
 protections-panel-cookie-banner-view-cancel = Mégse
 protections-panel-cookie-banner-view-turn-off = Kikapcsolás
 protections-panel-cookie-banner-view-turn-on = Bekapcsolás
