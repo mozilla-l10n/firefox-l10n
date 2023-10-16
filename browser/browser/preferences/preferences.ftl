@@ -980,9 +980,12 @@ cookie-banner-handling-description = { -brand-short-name } awtomatisce pospytuje
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Blokowak plackowych chorhojow
 cookie-banner-learn-more = Dalše informacije
 forms-handle-cookie-banners =
     .label = Plackowe chorhoje redukować
+cookie-banner-blocker-checkbox-label =
+    .label = Plackowe chorhoje awtomatisce wotpokazać
 
 ## Privacy Section - Address Bar
 
