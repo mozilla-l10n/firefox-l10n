@@ -3,24 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### "Glean" and "Glean SDK" should remain in English.
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Zobrazovač pingu ladenia v nástroji { -glean-brand-name }
-
 about-glean-page-title2 = Čo je { -glean-brand-name }
 about-glean-header = Čo je { -glean-brand-name }
 about-glean-interface-description = <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a> je knižnica na zber údajov používaná v projektoch { -vendor-short-name(case: "gen") }. Toto rozhranie je navrhnuté tak, aby ho vývojári a testeri mohli používať na manuálne <a data-l10n-name="fog-link">inštrumentačné testovanie</a>.
-
 about-glean-upload-enabled = Nahrávanie údajov je povolené.
 about-glean-upload-disabled = Nahrávanie údajov je zakázané.
 about-glean-upload-enabled-local = Nahrávanie údajov je povolené len pre odosielanie na lokálny server.
 about-glean-upload-fake-enabled = Nahrávanie údajov je zakázané, avšak klameme a hovoríme nástroju { glean-sdk-brand-name }, že je povolené, takže údaje sa stále lokálne zaznamenávajú. Poznámka: ak nastavíte značku ladenia, pingy sa budú odovzdávať do nástroja <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> bez ohľadu na nastavenia.
-
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Medzi relevantné <a data-l10n-name="fog-prefs-and-defines-doc-link">preferencie a definície</a> patria:
 # Variables:
@@ -39,11 +34,9 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-
 about-glean-about-testing-header = O testovaní
 # This message is followed by a numbered list.
 about-glean-manual-testing = Úplné pokyny sú zdokumentované v <a data-l10n-name="fog-instrumentation-test-doc-link">dokumentácii { -fog-brand-name } na inštrumentačné testovanie</a> a v <a data-l10n-name="glean-sdk-doc-link">dokumentácii { glean-sdk-brand-name }</a>, ale ak chcete manuálne otestovať, či vaše inštrumentačné testovanie funguje, vykonajte nasledovné:
-
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (neodosielajte žiadny ping)
 # An in-line text input field precedes this string.
@@ -60,13 +53,14 @@ about-glean-label-for-controls-submit =
     Stlačením tohto tlačidla označíte všetky pingy nástroja { -glean-brand-name } vašou značkou a odošlite vybratý ping.
     (Všetky pingy odoslané odvtedy až do reštartovania aplikácie budú označené značkou <code>{ $debug-tag }</code>.)
 about-glean-li-for-visit-gdpv = <a data-l10n-name="gdpv-tagged-pings-link">Navštívte stránku { glean-debug-ping-viewer-brand-name }, kde nájdete ping s vašou značkou</a>. Od stlačenia tlačidla po príchod pingu by to nemalo trvať dlhšie ako niekoľko sekúnd. Niekedy to môže trvať niekoľko minút.
-
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation = Pre ďalšie <i>ad hoc</i> testovanie môžete tiež určiť aktuálnu hodnotu konkrétnej časti inštrumentácie otvorením konzoly devtools tu na stránke <code>about:glean</code> a použitím API <code>testGetValue()</code> ako <code>Glean.metricCategory.metricName.testGetValue()</code>.
-
-
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Upozorňujeme, že Glean JS API používate pomocou konzoly devtools.
+    To znamená, že kategória a názov metriky sú naformátované ako 
+    <code>camelCase</code> na rozdiel od rozhraní API Rust a C++.
 controls-button-label-verbose = Použiť nastavenia a odoslať ping
-
 about-glean-about-data-header = O údajoch
 about-glean-about-data-explanation =
     Ak chcete prechádzať zoznamom zhromaždených údajov, pozrite si
