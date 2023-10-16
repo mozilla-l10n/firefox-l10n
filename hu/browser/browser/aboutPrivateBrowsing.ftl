@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = Hagyja, hogy a { -brand-sh
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = A { -brand-short-name } gondoskodik a sütibannerekről Ön helyett
+about-private-browsing-cookie-banners-promo-body = Mostantól számos sütibannert automatikusan elutasítunk, így kevesebbet nyomkövetést kap, és visszatérhet a figyelemelterelés nélküli böngészéshez.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
