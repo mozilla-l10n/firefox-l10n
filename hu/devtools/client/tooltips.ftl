@@ -40,6 +40,14 @@ inactive-css-border-image = A(z) <strong>{ $property }</strong> nincs hatással 
 inactive-css-ruby-element = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mert ez egy rubi elem. A méretét a rubi szöveg mérete határozza meg.
 inactive-css-highlight-pseudo-elements-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a kiemelt pszeudoelemeken.
 inactive-css-cue-pseudo-element-not-supported = A(z) <strong>{ $property }</strong> nem támogatott a ::cue pszeudoelemeken.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert több mint { $lineCount } sora van.
+       *[other] A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert több mint { $lineCount } sora van.
+    }
+inactive-css-text-wrap-balance-fragmented = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mert tördelve van, tehát a tartalma több oszlopra vagy oldalra van felosztva.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +74,8 @@ inactive-css-not-table-cell-fix = Próbálja meg ezt hozzáadni: <strong>display
 inactive-scroll-padding-when-not-scroll-container-fix = Próbálkozzon az <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> vagy <strong>overflow:hidden</strong> hozzáadásával. { learn-more }
 inactive-css-border-image-fix = Távolítsa el a tulajdonságot a szülő táblázatelemen, vagy módosítsa a <strong>border-collapse</strong> értékét a <strong>collapse</strong>-től eltérő értékre. { learn-more }
 inactive-css-ruby-element-fix = Próbálja módosítani a rubi szöveg <strong>betűméretét</strong>. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Próbálja meg csökkenteni a sorok számát. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Kerülje az elem tartalmának felosztását, például az oszlopok eltávolításával, vagy a <strong>page-break-inside:avoid</strong> használatával. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
