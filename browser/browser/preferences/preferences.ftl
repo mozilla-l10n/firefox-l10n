@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = 告訴網站不要銷售或分享我的資料
     .accesskey = s
+non-technical-privacy-header = 網站隱私權偏好設定
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -953,9 +954,15 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = 減少 Cookie 橫幅
 cookie-banner-handling-description = { -brand-short-name } 會自動在支援的網站，嘗試為您拒絕網站設定 Cookie 的請求。
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Cookie 橫幅封鎖器
 cookie-banner-learn-more = 了解更多
 forms-handle-cookie-banners =
     .label = 減少 Cookie 橫幅
+cookie-banner-blocker-checkbox-label =
+    .label = 自動拒絕 Cookie 橫幅
 
 ## Privacy Section - Address Bar
 
@@ -986,6 +993,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快速操作
     .accesskey = Q
+addressbar-locbar-recentsearches-option =
+    .label = 最近搜尋內容
+    .accesskey = R
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-quickactions-learn-more = 了解更多
 

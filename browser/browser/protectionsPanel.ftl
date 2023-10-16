@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = 減少 Cookie 橫幅
+protections-panel-cookie-banner-blocker-header = Cookie 橫幅封鎖器
 protections-panel-cookie-banner-handling-enabled = 對此網站開啟
 protections-panel-cookie-banner-handling-disabled = 對此網站關閉
 protections-panel-cookie-banner-handling-undetected = 目前不支援的網站
@@ -128,6 +129,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = 要為 { $host } 關閉減少 Cookie 橫幅功能嗎？
 protections-panel-cookie-banner-view-turn-on-for-site = 要為此網站開啟減少 Cookie 橫幅功能嗎？
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Cookie 橫幅封鎖器
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = 要為 { $host } 關閉 Cookie 橫幅封鎖器嗎？
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = 要為此網站開啟 Cookie 橫幅封鎖器嗎？
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } 將清除此網站的 Cookie 並重新載入頁面。清除 Cookie 可能會將您從網站登出，或清空購物車。
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } 可自動在支援的網站，為您拒絕網站設定 Cookie 的請求。
 protections-panel-cookie-banner-view-cancel = 取消
