@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = 要為 { $host 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = 要為此網站開啟 Cookie 橫幅封鎖器嗎？
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } 將清除此網站的 Cookie 並重新載入頁面。清除 Cookie 可能會將您從網站登出，或清空購物車。
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } 可自動在支援的網站，為您拒絕網站設定 Cookie 的請求。
+protections-panel-cookie-banner-blocker-view-turn-on-description = 開啟此功能後，{ -brand-short-name } 就會對此網站自動嘗試拒絕 Cookie 橫幅。
 protections-panel-cookie-banner-view-cancel = 取消
 protections-panel-cookie-banner-view-turn-off = 關閉
 protections-panel-cookie-banner-view-turn-on = 開啟
