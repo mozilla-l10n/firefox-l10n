@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = 請嘗試加入 <strong>display:table-cell</st
 inactive-scroll-padding-when-not-scroll-container-fix = 請嘗試加入 <strong>overflow:auto</strong>、<strong>overflow:scroll</strong> 或<strong>overflow:hidden</strong>。{ learn-more }
 inactive-css-border-image-fix = 請於父表格元素移除該屬性，或將 <strong>border-collapse</strong> 的值更改為 <strong>collapse</strong> 以外的值。{ learn-more }
 inactive-css-ruby-element-fix = 請嘗試調整 ruby 文字的 <strong>font-size</strong>。{ learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = 請試著減少行數。{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

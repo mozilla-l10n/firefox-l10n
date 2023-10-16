@@ -562,6 +562,8 @@ urlbar-result-action-switch-tab = 切換至該分頁
 urlbar-result-action-visit = 前往
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-your-clipboard = 開啟您剪貼簿中的網址
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = 開啟剪貼簿中的網址
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -614,6 +616,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = 快速操作
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = 最近搜尋內容
 
 ## Reader View toolbar buttons
 
