@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = 쿠키나 기록이 저장되지 않습
 about-private-browsing-cookie-banners-promo-header = 쿠키 배너가 사라졌습니다!
 about-private-browsing-cookie-banners-promo-button = 쿠키 배너 줄이기
 about-private-browsing-cookie-banners-promo-message = { -brand-short-name }가 쿠키 팝업에 자동으로 응답하도록 하여 방해받지 않고 탐색할 수 있습니다. { -brand-short-name }는 가능한 경우 모든 요청을 거부합니다.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }가 쿠키 배너를 처리해 드립니다
+about-private-browsing-cookie-banners-promo-body = 이제 자동으로 많은 쿠키 배너를 거부하므로 추적을 줄이고 방해 없는 탐색으로 돌아갈 수 있습니다.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
