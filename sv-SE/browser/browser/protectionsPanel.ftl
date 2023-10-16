@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reducering av kakbanner
+protections-panel-cookie-banner-blocker-header = Blockering kakbanners
 protections-panel-cookie-banner-handling-enabled = På för denna webbplats
 protections-panel-cookie-banner-handling-disabled = Av för denna webbplats
 protections-panel-cookie-banner-handling-undetected = Webbplatsen stöds för närvarande inte
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Vill du stänga av reducering av kakbanners för { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Vill du aktivera reducering av kakbanners för den här webbplatsen?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blockering kakbanners
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Vill du stänga av blockering av kakbanners för { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vill du aktivera blockering av kakbanners för den här webbplatsen?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } rensar webbplatsens kakor och uppdaterar sidan. Rensa alla kakor kan logga ut dig eller tömma kundvagnar.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } försöker automatiskt avvisa alla kak-förfrågningar på webbplatser som stöds.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på och { -brand-short-name } kommer att försöka automatiskt neka kakbanners på den här webbplatsen.
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Stäng av
 protections-panel-cookie-banner-view-turn-on = Slå på

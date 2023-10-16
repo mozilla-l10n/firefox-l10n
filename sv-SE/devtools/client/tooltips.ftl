@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> har ingen effekt på 
 inactive-css-ruby-element = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det är ett ruby-element. Dess storlek bestäms av teckenstorleken på ruby-texten.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> stöds inte på highlight-pseudoelement.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> stöds inte på ::cue pseudoelement.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> har ingen effekt på detta element eftersom det har mer än { $lineCount } rad.
+       *[other] <strong>{ $property }</strong> har ingen effekt på detta element eftersom det har fler än { $lineCount } rader.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> har ingen effekt på detta element eftersom det är fragmenterat, dvs. dess innehåll är uppdelat på flera kolumner eller sidor.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +74,8 @@ inactive-css-not-table-cell-fix = Testa att lägga till <strong>display:table-ce
 inactive-scroll-padding-when-not-scroll-container-fix = Försök att lägga till <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> eller <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Ta bort egenskapen i det överordnade tabellelementet eller ändra värdet på <strong>border-collapse</strong> till ett annat värde än <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Prova att ändra <strong>teckenstorleken</strong> på ruby-texten. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Försök att minska antalet rader. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Undvik att dela upp elementets innehåll, t.ex. genom att ta bort kolumnerna eller genom att använda <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
