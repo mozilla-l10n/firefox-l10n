@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> nol à efiets su ches
 inactive-css-ruby-element = <strong>{ $property }</strong> nol à efiets su chest element viodût che al è un element pe trascrizion fonetiche (ruby). La sô dimension e je determinade de grandece dal caratar dal test ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nol è supuartât su pseudo-elements de categorie “highlight”.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nol è supuartât tai pseudo-elements “::cue”.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> nol à efiets su chest element par vie che al à plui di { $lineCount } rie.
+       *[other] <strong>{ $property }</strong> nol à efiets su chest element par vie che al à plui di { $lineCount } riis.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nol à efiets su chest element par vie che al è fruçonât, vâl a dî che il so contignût al è distribuît su plui colonis o pagjinis.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
