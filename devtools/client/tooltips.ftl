@@ -40,6 +40,16 @@ inactive-css-border-image = Vlastnosť <strong>{ $property }</strong> nemá žia
 inactive-css-ruby-element = Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože je to prvok ruby. Jeho veľkosť je určená veľkosťou písma textu prvku ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie je podporované na zvýraznených pseudoprvkoch.
 inactive-css-cue-pseudo-element-not-supported = Vlastnosť <strong>{ $property }</strong> nie je podporovaná na pseudoprvkoch ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože tento má viac ako { $lineCount } riadok.
+        [few] Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože tento má viac ako { $lineCount } riadky.
+        [many] Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože tento má viac ako { $lineCount } riadkov.
+       *[other] Vlastnosť <strong>{ $property }</strong> nemá žiadny vplyv na tento prvok, pretože tento má viac ako { $lineCount } riadkov.
+    }
+inactive-css-text-wrap-balance-fragmented = Vlastnosť <strong>{ $property }</strong> nemá na tento prvok žiadny vplyv, pretože tento je fragmentovaný, t. j. jeho obsah je rozdelený do viacerých stĺpcov alebo stránok.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +76,8 @@ inactive-css-not-table-cell-fix = Skúste pridať <strong>display:table-cell</st
 inactive-scroll-padding-when-not-scroll-container-fix = Skúste pridať <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, alebo <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pre nadradený prvok tabuľky odstráňte vlastnosť alebo zmeňte hodnotu <strong>border-collapse</strong> na inú hodnotu než <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Skúste zmeniť <strong>veľkosť písma</strong> textu prvku ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Skúste znížiť počet riadkov. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Vyhnite sa rozdeleniu obsahu prvku, napr. odstránením stĺpcov alebo použitím <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
