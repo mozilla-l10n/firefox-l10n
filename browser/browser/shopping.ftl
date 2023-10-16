@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = 在商品評論檢查器中顯示廣告
 shopping-settings-recommendations-learn-more = 您偶而會看到相關商品的廣告，所有的廣告皆須符合我們的商品評論品質標準。<a data-l10n-name="review-quality-url">了解更多資訊</a>
+shopping-settings-recommendations-learn-more2 = 您會偶而看到相關商品的廣告，我們僅會推薦評論品質可靠的商品。<a data-l10n-name="review-quality-url">了解更多資訊</a>
 shopping-settings-opt-out-button = 關閉商品評論檢查器
 powered-by-fakespot = 商品評論檢查器是由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供。
 
