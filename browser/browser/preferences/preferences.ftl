@@ -958,6 +958,7 @@ cookie-banner-handling-description = { -brand-short-name } 會自動在支援的
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Cookie 橫幅封鎖器
+cookie-banner-blocker-description = 當支援此功能的網站在隱私瀏覽模式中詢問是否可以設定 Cookie 時，{ -brand-short-name } 會自動為您拒絕。
 cookie-banner-learn-more = 了解更多
 forms-handle-cookie-banners =
     .label = 減少 Cookie 橫幅
