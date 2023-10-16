@@ -3,22 +3,18 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### "Glean" and "Glean SDK" should remain in English.
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name } 디버그 핑 뷰어
-
 about-glean-page-title2 = { -glean-brand-name } 정보
 about-glean-header = { -glean-brand-name } 정보
 about-glean-interface-description =
     <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>는 
     { -vendor-short-name } 프로젝트에서 사용되는 데이터 수집 라이브러리입니다. 
     이 인터페이스는 개발자와 테스터가 <a data-l10n-name="fog-link">테스트 계측</a>을 수동으로 사용하도록 설계되었습니다.
-
 about-glean-upload-enabled = 데이터 업로드가 활성화되었습니다.
 about-glean-upload-disabled = 데이터 업로드가 비활성화되었습니다.
 about-glean-upload-enabled-local = 데이터 업로드는 로컬 서버로 전송하는 경우에만 활성화됩니다.
@@ -28,7 +24,6 @@ about-glean-upload-fake-enabled =
     { glean-sdk-brand-name }에게 활성화되었다고 말하고 있습니다.
     참고: 디버그 태그를 설정하면 설정과 상관없이 
     핑이 <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>에 업로드됩니다.
-
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = 관련 <a data-l10n-name="fog-prefs-and-defines-doc-link">설정 및 정의</a>에는 다음이 포함됩니다:
 # Variables:
@@ -47,7 +42,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-
 about-glean-about-testing-header = 테스트 정보
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -55,7 +49,6 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name } 계측 테스트 문서</a> 및 <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name } 문서</a>에 
     문서화되어 있습니다. 
     하지만 간단히 말해서 계측이 작동하는지 수동으로 테스트하려면 다음을 수행해야 합니다:
-
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (핑을 제출하지 마세요)
 # An in-line text input field precedes this string.
@@ -83,17 +76,18 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">태그가 있는 핑에 대한 { glean-debug-ping-viewer-brand-name } 페이지를 방문하세요</a>.
     버튼을 누른 후 핑이 도착할 때까지 몇 초 이상 걸리지 않습니다.
     때로는 몇 분 정도 걸릴 수 있습니다.
-
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     더 많은 <i>임시</i> 테스트를 위해
     여기 <code>about:glean</code>에서 개발자 도구 콘솔을 열고 <code>Glean.metricCategory.metricName.testGetValue()</code> 같은 
     <code>testGetValue()</code> API를 사용하여 
     특정 계측 부분의 현재 값을 결정할 수도 있습니다.
-
-
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    devtools 콘솔을 사용하여 Glean JS API를 사용하고 있습니다.
+    이는 메트릭 카테고리와 메트릭 이름이 Rust 및 C++ API와 달리 
+    <code>camelCase</code> 형식으로 지정됨을 의미합니다.
 controls-button-label-verbose = 설정 적용 및 핑 제출
-
 about-glean-about-data-header = 데이터 정보
 about-glean-about-data-explanation =
     수집된 데이터 목록을 찾아보려면 
