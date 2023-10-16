@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Zobrazovať reklamy v nástroji Kontrola recenzií
 shopping-settings-recommendations-learn-more = Príležitostne sa vám budú zobrazovať reklamy na relevantné produkty. Všetky reklamy musia spĺňať naše štandardy kvality recenzií. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
+shopping-settings-recommendations-learn-more2 = Príležitostne sa vám budú zobrazovať reklamy na relevantné produkty. Inzerujeme iba produkty so spoľahlivými recenziami. <a data-l10n-name="review-quality-url">Ďalšie informácie</a>
 shopping-settings-opt-out-button = Vypnúť Kontrolu recenzií
 powered-by-fakespot = Nástroj Kontrola recenzií využíva technológiu <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

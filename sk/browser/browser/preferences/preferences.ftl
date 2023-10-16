@@ -1016,7 +1016,7 @@ addressbar-locbar-quickactions-option =
     .accesskey = r
 addressbar-locbar-recentsearches-option =
     .label = Nedávne vyhľadávania
-    .accesskey = v
+    .accesskey = e
 addressbar-suggestions-settings = Zmeniť nastavenia pre návrhy vyhľadávania
 addressbar-quickactions-learn-more = Ďalšie informácie
 
