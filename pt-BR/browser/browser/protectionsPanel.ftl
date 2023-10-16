@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Redução de avisos de cookies
+protections-panel-cookie-banner-blocker-header = Bloqueador de avisos de cookies
 protections-panel-cookie-banner-handling-enabled = Ativado neste site
 protections-panel-cookie-banner-handling-disabled = Desativado neste site
 protections-panel-cookie-banner-handling-undetected = Site atualmente não suportado
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desativar redução de avisos de cookies em { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Ativar redução de avisos de cookies neste site?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Bloqueador de avisos de cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desativar bloqueador de avisos de cookies em { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ativar bloqueador de avisos de cookies neste site?
 protections-panel-cookie-banner-view-cookie-clear-warning = O { -brand-short-name } irá limpar os cookies deste site e atualizar a página. Limpar todos os cookies pode encerrar a sessão de acesso no site ou esvaziar carrinhos de compras.
 protections-panel-cookie-banner-view-turn-on-description = O { -brand-short-name } tenta rejeitar automaticamente todas as solicitações de cookies em sites suportados.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ative e o { -brand-short-name } tenta recusar avisos de cookies automaticamente neste site.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desativar
 protections-panel-cookie-banner-view-turn-on = Ativar
