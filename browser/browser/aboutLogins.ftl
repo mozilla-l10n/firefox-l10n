@@ -204,7 +204,6 @@ about-logins-confirm-remove-all-sync-dialog-message =
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
         [1] Tio ĉi forigos la legitimilon konservita de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
-        [one] { "" }
        *[other] Tio ĉi forigos la legitimilojn konservita de vi en { -brand-short-name } en ĉiuj aparatoj spegulitaj per via konto. Tio ankaŭ forigos la datumfuĝajn atentigojn, kiuj aperas tie. Tiu ĉi ago ne estas malfarebla.
     }
 
