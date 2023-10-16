@@ -91,6 +91,7 @@ policy-LocalFileLinks = Tillat at bestemte nettstadar koplar til lokale filer.
 policy-ManagedBookmarks = Konfigurerer ei liste over bokmerke som vert administrert av ein administrator og som ikkje kan endrast av brukaren.
 policy-ManualAppUpdateOnly = Tillat berre manuelle oppdateringar og gi ikkje brukaren varsel om oppdateringar.
 policy-PrimaryPassword = Krev eller hindre bruk av eit hovudpassord.
+policy-PrintingEnabled = Aktiver eller deaktiver utskrift.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-NewTabPage = Slå på eller av sida Ny fane
 policy-NoDefaultBookmarks = Deaktiver oppretting av standardbokmerke, som følgjer med { -brand-short-name }, samt dei smarte bokmerka (Mest besøkte, Siste brukte etikettar). NB: Denne policyen fungerer berre om han er aktivert før profilen vert brukt for første gong.
