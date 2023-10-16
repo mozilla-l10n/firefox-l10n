@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Redukowanje plackowych chorhojow
+protections-panel-cookie-banner-blocker-header = Blokowak plackowych chorhojow
 protections-panel-cookie-banner-handling-enabled = Za tute sydło zmóžnjeny
 protections-panel-cookie-banner-handling-disabled = Za tute sydło znjemóžnjeny
 protections-panel-cookie-banner-handling-undetected = Sydło so tuchwilu njepodpěruje
@@ -128,6 +129,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Redukowanje plackowych chorhojow za { $host } znjemóžnić?
 protections-panel-cookie-banner-view-turn-on-for-site = Redukowanje plackowych chorhojow za tute sydło zmóžnić?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blokowak plackowych chorhojow
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokowak  plackowych chorhojow za { $host } znjemóžnić?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokowak plackowych chorhojow za tute sydło zmóžnić?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } placki sydła zhaša a budźe stronu aktualizować. Zhašenje wšěch plackow móže was přizjewić abo nakupowanske wozyčki wuprózdnić.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pospytuje wšě plackowe naprašowanja na podpěranych sydłach awtomatisce wotpokazać.
 protections-panel-cookie-banner-view-cancel = Přetorhnyć
