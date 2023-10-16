@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Nissun cookie o cronologjie salvâts, d
 about-private-browsing-cookie-banners-promo-header = Vonde strissons pai cookies!
 about-private-browsing-cookie-banners-promo-button = Ridûs i strissons pai cookies
 about-private-browsing-cookie-banners-promo-message = Permet a { -brand-short-name } di rispuindi in automatic, al to puest, ai ricuadris dai cookies, cussì che tu puedis tornâ a navigâ cence distrazions. Se pussibil, { -brand-short-name } al refudarà dutis lis richiestis.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } al viôt par te dai strissons pai cookies
+about-private-browsing-cookie-banners-promo-body = O refudìn in automatic tancj strissons pai cookies, cussì che tu vegnis spiât di mancul e tu podarâs tornâ a navigâ cence distrazions.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
