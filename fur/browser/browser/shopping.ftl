@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Mostre anunzis te verifiche recensions
 shopping-settings-recommendations-learn-more = A vignaran mostrâts anunzis ocasionâi pai prodots pertinents. Ducj i anunzis a scugnin sodifâ i nestris standards di cualitât. <a data-l10n-name="review-quality-url">Plui informazions</a>
+shopping-settings-recommendations-learn-more2 = Tu viodarâs anuncis ocasionâi par prodots pertinents. O promovìn dome prodots cun recensions afidabilis. <a data-l10n-name="review-quality-url">Plui informazions</a>
 shopping-settings-opt-out-button = Disative la verifiche recensions
 powered-by-fakespot = Verifiche recensions al è basât su tecnologjie <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

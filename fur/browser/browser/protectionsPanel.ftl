@@ -131,8 +131,13 @@ protections-panel-cookie-banner-view-turn-off-for-site = Disativâ la riduzion d
 protections-panel-cookie-banner-view-turn-on-for-site = Ativâ la riduzion dai strissons pai cookies par chest sît?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Bloc strissons pai cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disativâ il bloc dai strissons pai cookies par { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ativâ il bloc dai strissons pai cookies par chest sît?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } al netarà vie i cookies di chest sît e al inzornarà la pagjine. Al è pussibil che cu la netisie dai cookies tu vegnis disconetût dal sît o che eventuâi carei de spese a vegnin disvuedâts.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } al cîr di refudâ in automatic dutis lis richiestis dai cookies sui sîts supuartâts.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ativilu e { -brand-short-name } al cirarà di refudâ in automatic i strissons pai cookies su chest sît.
 protections-panel-cookie-banner-view-cancel = Anule
 protections-panel-cookie-banner-view-turn-off = Disative
 protections-panel-cookie-banner-view-turn-on = Ative
