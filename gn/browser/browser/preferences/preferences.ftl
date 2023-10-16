@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ejerure ñanduti rendápe ani ovende ha omoherakuã che mba’ekuaarã
     .accesskey = s
+non-technical-privacy-header = Ñanduti renda marandu’i ñemigua
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,6 +970,10 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Kookie Banner Ñemomichĩ
 cookie-banner-handling-description = { -brand-short-name } omboykese ijehegui opaite kookie mba’ejerure umi tenda ojokupytývape.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Ejoko Banner kookie rehegua
 cookie-banner-learn-more = Kuaave
 forms-handle-cookie-banners =
     .label = Emomichĩ kookie banner
@@ -1002,6 +1007,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Jeku’e pya’e
     .accesskey = Q
+addressbar-locbar-recentsearches-option =
+    .label = Ojeheka ramóva
+    .accesskey = R
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 addressbar-quickactions-learn-more = Kuaave
 
