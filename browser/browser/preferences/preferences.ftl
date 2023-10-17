@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Паведамляць сайтам, каб яны не прадавалі і не дзяліліся маімі звесткамі
     .accesskey = ы
+non-technical-privacy-header = Налады прыватнасці сайта
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -973,6 +974,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Памяншэнне колькасці банераў кукі
 cookie-banner-handling-description = { -brand-short-name } аўтаматычна спрабуе адхіліць запыты файлаў кукі на банерах кукі на сайтах, якія падтрымліваюцца.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Падрабязней
 forms-handle-cookie-banners =
     .label = Памяншаць колькасць банераў кукі
@@ -1006,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Хуткія дзеянні
     .accesskey = Х
+addressbar-locbar-recentsearches-option =
+    .label = Нядаўнія пошукі
+    .accesskey = к
 addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 addressbar-quickactions-learn-more = Падрабязней
 
