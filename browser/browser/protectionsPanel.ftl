@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Llai o Faneri Cwcis
+protections-panel-cookie-banner-blocker-header = Rhwystrydd Baneri Cwcis
 protections-panel-cookie-banner-handling-enabled = Ymlaen ar gyfer y wefan hon
 protections-panel-cookie-banner-handling-disabled = Diffodd ar gyfer y wefan hon
 protections-panel-cookie-banner-handling-undetected = Nid yw’r wefan yn cael ei chefnogi ar hyn o bryd
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Diffodd Llai o Faneri Cwcis ar { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Troi Llai o Faneri Cwcis ymlaen ar y wefan hon?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Rhwystrydd Baneri Cwcis
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Diffodd y Rhwystrydd Baneri Cwcis { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Troi'r Atalydd Baneri Cwcis ymlaen ar y wefan hon?
 protections-panel-cookie-banner-view-cookie-clear-warning = Bydd { -brand-short-name } yn clirio cwcis y wefan hon ac yn adnewyddu’r dudalen. Gall clirio pob cwci eich allgofnodi neu wagio eich certiau siopa.
 protections-panel-cookie-banner-view-turn-on-description = Mae { -brand-short-name } yn ceisio gwrthod yn awtomatig pob cais cwci ar wefannau sy’n cael eu cefnogi.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ei droi ymlaen a bydd { -brand-short-name } yn ceisio gwrthod baneri cwcis yn awtomatig ar y wefan hon.
 protections-panel-cookie-banner-view-cancel = Diddymu
 protections-panel-cookie-banner-view-turn-off = Diffodd
 protections-panel-cookie-banner-view-turn-on = Troi Ymlaen

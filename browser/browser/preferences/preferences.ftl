@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dweud wrth wefannau i beidio â gwerthu neu rannu fy nata
     .accesskey = g
+non-technical-privacy-header = Dewisiadau Preifatrwydd Gwefan
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -985,9 +986,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Cyfyngu Baneri Cwcis
 cookie-banner-handling-description = Mae { -brand-short-name } yn ceisio gwrthod yn awtomatig pob cais cwci ar wefannau sy’n cael eu cefnogi.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Rhwystrydd Baneri Cwcis
+cookie-banner-blocker-description = Pan fydd gwefan yn gofyn os gawn nhw ddefnyddio cwcis yn y modd pori preifat, mae { -brand-short-name } yn eu gwrthod yn awtomatig ar eich rhan. Dim ond ar wefannau sy'n cael eu cefnogi.
 cookie-banner-learn-more = Darllen Rhagor
 forms-handle-cookie-banners =
     .label = Cyfyngu Baneri Cwcis
+cookie-banner-blocker-checkbox-label =
+    .label = Gwrthod baneri cwcis yn awtomatig
 
 ## Privacy Section - Address Bar
 
@@ -1018,6 +1026,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Gweithredoedd cyflym
     .accesskey = c
+addressbar-locbar-recentsearches-option =
+    .label = Chwilio Diweddar
+    .accesskey = D
 addressbar-suggestions-settings = Newid dewisiadau am awgrymiadau peiriannau chwilio
 addressbar-quickactions-learn-more = Darllen rhagor
 
