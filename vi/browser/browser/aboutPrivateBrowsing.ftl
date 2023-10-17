@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Không có cookie hoặc lịch sử đ
 about-private-browsing-cookie-banners-promo-header = Biểu ngữ cookie sẽ biến mất!
 about-private-browsing-cookie-banners-promo-button = Giảm biểu ngữ cookie
 about-private-browsing-cookie-banners-promo-message = Hãy để { -brand-short-name } tự động trả lời các cửa sổ bật lên cookie cho bạn để bạn có thể quay lại trình duyệt mà không bị phân tâm. { -brand-short-name } sẽ từ chối tất cả các yêu cầu nếu có thể.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tự động loại bỏ các biểu ngữ cookie cho bạn
+about-private-browsing-cookie-banners-promo-body = Giờ đây, chúng tôi tự động từ chối nhiều biểu ngữ cookie để bạn có thể ít bị theo dõi hơn và quay lại duyệt web mà không bị phân tâm.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
