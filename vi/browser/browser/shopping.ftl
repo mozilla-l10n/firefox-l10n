@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Hiển thị quảng cáo trong trình kiểm tra đánh giá
 shopping-settings-recommendations-learn-more = Bạn sẽ thấy quảng cáo không thường xuyên cho các sản phẩm có liên quan. Tất cả quảng cáo phải đáp ứng các tiêu chuẩn chất lượng đánh giá của chúng tôi. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
+shopping-settings-recommendations-learn-more2 = Bạn sẽ thấy quảng cáo không thường xuyên cho các sản phẩm có liên quan. Chúng tôi chỉ quảng cáo những sản phẩm có đánh giá đáng tin cậy. <a data-l10n-name="review-quality-url">Tìm hiểu thêm</a>
 shopping-settings-opt-out-button = Tắt trình kiểm tra đánh giá
 powered-by-fakespot = Trình kiểm tra đánh giá được cung cấp bởi <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

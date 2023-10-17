@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Yêu cầu trang web không bán hoặc chia sẻ dữ liệu của tôi
     .accesskey = s
+non-technical-privacy-header = Tùy chọn riêng tư trang web
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -953,9 +954,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Giảm biểu ngữ cookie
 cookie-banner-handling-description = { -brand-short-name } tự động cố gắng từ chối các yêu cầu cookie trên biểu ngữ cookie trên các trang web được hỗ trợ.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Trình chặn biểu ngữ cookie
+cookie-banner-blocker-description = Khi một trang web hỏi liệu họ có thể sử dụng cookie ở chế độ duyệt web riêng tư không, { -brand-short-name } tự động từ chối cho bạn. Chỉ trên các trang web được hỗ trợ.
 cookie-banner-learn-more = Tìm hiểu thêm
 forms-handle-cookie-banners =
     .label = Giảm biểu ngữ cookie
+cookie-banner-blocker-checkbox-label =
+    .label = Tự động từ chối các biểu ngữ cookie
 
 ## Privacy Section - Address Bar
 
@@ -986,6 +994,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hành động nhanh
     .accesskey = Q
+addressbar-locbar-recentsearches-option =
+    .label = Tìm kiếm gần đây
+    .accesskey = R
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 
