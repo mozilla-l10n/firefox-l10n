@@ -40,6 +40,10 @@ inactive-css-border-image = 由于父表格元素的 <strong>border-collapse</st
 inactive-css-ruby-element = <strong>{ $property }</strong> 对此 ruby 元素无效。此元素大小由 ruby 字体大小决定。
 inactive-css-highlight-pseudo-elements-not-supported = 强调（highlight）目的的伪元素上不支持 <strong>{ $property }</strong>。
 inactive-css-cue-pseudo-element-not-supported = ::cue 伪元素不支持 <strong>{ $property }</strong>。
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded = 由于超过 { $lineCount } 行，<strong>{ $property }</strong> 对此元素无效。
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> 对此元素没有影响，因为它是分割的，即它的内容分布在多个栏或页中。
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
