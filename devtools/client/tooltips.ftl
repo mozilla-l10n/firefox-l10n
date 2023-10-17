@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> heeft geen effect op 
 inactive-css-ruby-element = <strong>{ $property }</strong> heeft geen effect op dit element, aangezien het een Ruby-element is. De grootte wordt bepaald door de lettergrootte van de Ruby-tekst.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> wordt niet ondersteund op gemarkeerde pseudo-elementen.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> wordt niet ondersteund op ::cue-pseudo-elementen.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> heeft geen effect op dit element omdat het meer dan { $lineCount } regel bevat.
+       *[other] <strong>{ $property }</strong> heeft geen effect op dit element omdat het meer dan { $lineCount } regels bevat.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> heeft geen effect op dit element omdat het gefragmenteerd is, d.w.z. de inhoud is verdeeld over meerdere kolommen of pagina’s.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +74,8 @@ inactive-css-not-table-cell-fix = Probeer <strong>display:table-cell</strong> to
 inactive-scroll-padding-when-not-scroll-container-fix = Probeer <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> of <strong>overflow:hidden</strong> toe te voegen. { learn-more }
 inactive-css-border-image-fix = Verwijder in het bovenliggende tabelelement de eigenschap, of wijzig de waarde van <strong>border-collapse</strong> in een andere waarde dan <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Probeer de <strong>lettergrootte</strong> van de Ruby-tekst te wijzigen. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Probeer het aantal regels te verminderen. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Vermijd het splitsen van de inhoud van het element, b.v. door de kolommen te verwijderen of door <strong>page-break-inside:avoid</strong> te gebruiken. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

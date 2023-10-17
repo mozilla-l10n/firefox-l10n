@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Advertenties tonen in beoordelingscontrole
 shopping-settings-recommendations-learn-more = U ziet af en toe advertenties voor relevante producten. Alle advertenties moeten voldoen aan onze kwaliteitsnormen voor beoordelingen. <a data-l10n-name="review-quality-url">Meer info</a>
+shopping-settings-recommendations-learn-more2 = U ziet af en toe advertenties voor relevante producten. We adverteren alleen voor producten met betrouwbare beoordelingen. <a data-l10n-name="review-quality-url">Meer info</a>
 shopping-settings-opt-out-button = Beoordelingscontrole uitschakelen
 powered-by-fakespot = Beoordelingscontrole wordt mogelijk gemaakt door <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
