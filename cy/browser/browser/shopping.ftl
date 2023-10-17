@@ -5,14 +5,14 @@
 shopping-page-title = Siopa { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = Gwiriwr adolygiadau
+shopping-main-container-title = Gwirydd Adolygiadau
 shopping-beta-marker = Beta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Gwiriwr adolygiadau - beta
+    .aria-label = Gwirydd adolygiadau - beta
 shopping-close-button =
     .title = Cau
 # This string is for notifying screen reader users that the
@@ -95,10 +95,10 @@ shopping-show-less-button = Dangos llai
 shopping-settings-label =
     .label = Gosodiadau
 shopping-settings-recommendations-toggle =
-    .label = Dangos hysbysebion yn y gwiriwr adolygiadau
+    .label = Dangos hysbysebion yn y gwirydd adolygiadau
 shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
-shopping-settings-opt-out-button = Diffodd y gwiriwr adolygiadau
-powered-by-fakespot = Mae'r gwiriwr adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-opt-out-button = Diffodd y gwirydd adolygiadau
+powered-by-fakespot = Mae'r gwirydd adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -134,9 +134,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Adolygiadau anniby
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Agor y gwiriwr adolygiadau
+    .tooltiptext = Agor y gwirydd adolygiadau
 shopping-sidebar-close-button2 =
-    .tooltiptext = Cau’r gwiriwr adolygiadau
+    .tooltiptext = Cau’r gwirydd adolygiadau
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -158,13 +158,13 @@ ad-by-fakespot = Hysbyseb gan { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Helpwch i wella { -brand-product-name }
-shopping-survey-question-one = Pa mor fodlon ydych chi gyda phrofiad y gwiriwr adolygiadau yn { -brand-product-name }?
+shopping-survey-question-one = Pa mor fodlon ydych chi gyda'ch profiad o'r gwirydd adolygiadau yn { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Bodlon iawn
 shopping-survey-q1-radio-2-label = Bodlon
 shopping-survey-q1-radio-3-label = Niwtral
 shopping-survey-q1-radio-4-label = Anfodlon
 shopping-survey-q1-radio-5-label = Anfodlon iawn
-shopping-survey-question-two = A yw'r gwiriwr adolygiadau'n ei gwneud hi'n haws i chi wneud penderfyniadau prynu?
+shopping-survey-question-two = A yw'r gwirydd adolygiadau'n ei gwneud hi'n haws i chi wneud penderfyniadau prynu?
 shopping-survey-q2-radio-1-label = Ydy
 shopping-survey-q2-radio-2-label = Na
 shopping-survey-q2-radio-3-label = Wn i ddim
@@ -179,11 +179,11 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = Mynd nôl i <strong>gwiriwr adolygiadau</strong> pryd bynnag y gwelwch y tag pris.
+shopping-callout-closed-opted-in-subtitle = Mynd nôl i <strong>gwirydd adolygiadau</strong> pryd bynnag y gwelwch y pris.
 shopping-callout-pdp-opted-in-title = A yw'r adolygiadau hyn yn ddibynadwy? Gweld nawr.
 shopping-callout-pdp-opted-in-subtitle = Agorwch y gwirydd adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
 shopping-callout-closed-not-opted-in-title = Un clic i adolygiadau dibynadwy
-shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y gwiriwr adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
+shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y gwirydd adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
 
 ## Onboarding message strings.
 
@@ -193,13 +193,13 @@ shopping-onboarding-headline = Rhowch gynnig ar ein canllaw dibynadwy i adolygia
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwiriwr adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
+shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwirydd adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae gwiriwr adolygu, nodwedd arbrofol o { -brand-product-name }, wedi'i gynnwys yn y porwr. Mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
+shopping-onboarding-dynamic-subtitle-1 = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae gwirydd adolygiadau, nodwedd arbrofol o { -brand-product-name }, wedi'i gynnwys yn y porwr. Mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> { -fakespot-brand-full-name } a <a data-l10n-name="terms_of_use">amodau defnyddio.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
