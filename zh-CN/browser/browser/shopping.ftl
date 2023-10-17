@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = 在核查评价中展示广告
 shopping-settings-recommendations-learn-more = 您偶尔会看到相关商品的广告，所有广告均符合我们的评价质量标准。<a data-l10n-name="review-quality-url">详细了解</a>
+shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">了解更多</a>
 shopping-settings-opt-out-button = 关闭核查评价
 powered-by-fakespot = 核查评价由<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>提供支持。
 
