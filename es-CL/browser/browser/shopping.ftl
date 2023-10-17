@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Mostrar anuncios en el verificador de reseñas
 shopping-settings-recommendations-learn-more = Verás anuncios ocasionales de productos relevantes. Todos los anuncios deben cumplir con nuestros estándares de calidad de reseñas. <a data-l10n-name="review-quality-url">Más información</a>
+shopping-settings-recommendations-learn-more2 = Verás publicidades ocasional de productos relevantes. Sólo publicitamos productos con revisiones confiables. <a data-l10n-name="review-quality-url">Aprender más</a>
 shopping-settings-opt-out-button = Desactivar el verificador de reseñas
 powered-by-fakespot = El verificador de reseñas funciona con <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
