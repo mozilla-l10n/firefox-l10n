@@ -65,10 +65,10 @@ login-list-item-title-new-login = Új bejelentkezés
 login-list-item-subtitle-new-login = Adja meg a bejelentkezési adatait
 login-list-item-subtitle-missing-username = (nincs felhasználónév)
 about-logins-list-item-breach-icon =
-    .title = Adatsértésben érintett weboldal
+    .title = Adatvédelmi incidensben érintett weboldal
 about-logins-list-item-vulnerable-password-icon =
     .title = Sebezhető jelszó
-about-logins-list-section-breach = Adatsértésben érintett weboldalak
+about-logins-list-section-breach = Adatvédelmi incidensben érintett weboldalak
 about-logins-list-section-vulnerable = Sebezhető jelszavak
 about-logins-list-section-nothing = Nincs riasztás
 about-logins-list-section-today = Ma
@@ -188,9 +188,9 @@ about-logins-confirm-remove-all-dialog-title =
     }
 about-logins-confirm-remove-all-dialog-message =
     { $count ->
-        [1] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
-        [one] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
-       *[other] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezéseket és az itt megjelenő adatsértési figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+        [1] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatvédelmi incidensekről szóló figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+        [one] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezést és az itt megjelenő adatvédelmi incidensekről szóló figyelmeztetéseket is. Ez a művelet nem vonható vissza.
+       *[other] Ez eltávolítja a { -brand-short-name }ba mentett bejelentkezéseket és az itt megjelenő adatvédelmi incidensekről szóló figyelmeztetéseket is. Ez a művelet nem vonható vissza.
     }
 about-logins-confirm-remove-all-sync-dialog-title =
     { $count ->
@@ -223,9 +223,9 @@ confirm-discard-changes-dialog-confirm-button = Elvetés
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Weboldalon történt adatsértés
+about-logins-breach-alert-title = Weboldalon történt adatvédelmi incidens
 breach-alert-text = A jelszavai kiszivárogtak vagy ellopták őket a weboldalról a bejelentkezési adatai legutóbbi frissítése óta. A fiókja védelme érdekében cserélje le jelszavát.
-about-logins-breach-alert-date = Ez az adatsértés ekkor történt: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Ez az adatvédelmi incidens ekkor történt: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ugrás ide: { $hostname }
@@ -233,7 +233,7 @@ about-logins-breach-alert-link = Ugrás ide: { $hostname }
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Sebezhető jelszó
-about-logins-vulnerable-alert-text2 = Ezt a jelszót egy másik fiókhoz használták, amely valószínűleg adatsértésben volt érintett. A hitelesítő adatok újbóli felhasználása veszélyezteti az összes fiókját. Cserélje le ezt a jelszót.
+about-logins-vulnerable-alert-text2 = Ezt a jelszót egy másik fiókhoz használták, amely valószínűleg adatvédelmi incidensben volt érintett. A hitelesítő adatok újbóli felhasználása veszélyezteti az összes fiókját. Cserélje le ezt a jelszót.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ugrás ide: { $hostname }
