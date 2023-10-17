@@ -40,6 +40,15 @@ inactive-css-border-image = Властивість <strong>{ $property }</strong
 inactive-css-ruby-element = Властивість <strong>{ $property }</strong> не впливає на цей елемент, оскільки це елемент ruby. Його розмір визначається розміром шрифту тексту ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Властивість <strong>{ $property }</strong> не підтримується для виділення псевдоелементів.
 inactive-css-cue-pseudo-element-not-supported = Властивість <strong>{ $property }</strong> не підтримується в псевдо-елементах ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він має понад { $lineCount } рядок.
+        [few] Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він має понад { $lineCount } рядки.
+       *[many] Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він має понад { $lineCount } рядків.
+    }
+inactive-css-text-wrap-balance-fragmented = Властивість <strong>{ $property }</strong> не впливає на цей елемент, тому що він фрагментований, тобто його вміст розділений на декілька стовпчиків або сторінок.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +75,8 @@ inactive-css-not-table-cell-fix = Спробуйте додати <strong>displa
 inactive-scroll-padding-when-not-scroll-container-fix = Спробуйте додати <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, або <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = На елементі таблиці вищого рівня вилучіть властивість або змініть значення для <strong>border-collapse</strong> на інше, ніж <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Спробуйте змінити <strong>font-size</strong> тексту ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Спробуйте зменшити кількість рядків. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Уникайте розділення вмісту елемента, наприклад, видаливши стовпчики або використавши <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
