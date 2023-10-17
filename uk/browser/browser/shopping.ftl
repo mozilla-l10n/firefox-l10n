@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Показувати рекламу в засобі перевірки відгуків
 shopping-settings-recommendations-learn-more = Ви періодично бачитимете рекламу схожих товарів. Усі оголошення мають відповідати нашим стандартам якості відгуків. <a data-l10n-name="review-quality-url">Докладніше</a>
+shopping-settings-recommendations-learn-more2 = Ви періодично бачитимете рекламу схожих товарів. Ми рекламуємо лише продукти, які мають надійні відгуки. <a data-l10n-name="review-quality-url">Докладніше</a>
 shopping-settings-opt-out-button = Вимкнути засіб перевірки відгуків
 powered-by-fakespot = Засіб перевірки відгуків розроблено на базі <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

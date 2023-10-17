@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Жодних збережених ку�
 about-private-browsing-cookie-banners-promo-header = Геть банери про куки!
 about-private-browsing-cookie-banners-promo-button = Зменшити кількість банерів кук
 about-private-browsing-cookie-banners-promo-message = Дайте можливість { -brand-short-name } автоматично відповідати на спливні вікна кук, щоб вони не заважали вам під час онлайн-перегляду. { -brand-short-name } відхилить усі запити, якщо це можливо.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } піклується про банери кук для вас
+about-private-browsing-cookie-banners-promo-body = Тепер ми автоматично відхиляємо багато банерів кук, щоб за вами менше стежили та ви могли користуватися інтернетом без відволікання.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
