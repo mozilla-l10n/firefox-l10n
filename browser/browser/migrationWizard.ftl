@@ -43,6 +43,20 @@ migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
+migration-no-permissions-message = { -brand-short-name } s’hyn dot te profile shfletuesish të tjerë të instaluar në këtë pajisje.
+migration-no-permissions-instructions = Që të vazhdohet me importim të dhënash nga tjetër shfletues, akordojini { -brand-short-name }-it hyrje te dosja profil e tij.
+migration-no-permissions-instructions-step1 = Përzgjidhni “Vazhdo”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Te zgjedhësi i kartelave, kaloni te <code>{ $permissionsPath }</code> dhe zgjidhni “Përzgjidhe”
+
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = Importo krejt të dhënat e mundshme
@@ -69,6 +83,8 @@ migration-passwords-from-file-success-header = Fjalëkalimet u Importuan Me Suks
 migration-passwords-from-file = Po kontrollohet kartelë për fjalëkalime
 migration-passwords-new = Fjalëkalime të rinj
 migration-passwords-updated = Fjalëkalime ekzistues
+migration-passwords-from-file-no-valid-data = Kartela s’përmban ndonjë të dhënë fjalëkalimi të vlefshëm. Zgjidhni një kartelë tjetër.
+migration-passwords-from-file-picker-title = Importo Kartelë Fjalëkalimesh
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -82,6 +98,16 @@ migration-passwords-from-file-tsv-filter-title =
     { PLATFORM() ->
         [macos] Dokument TSV
        *[other] Kartelë TSV
+    }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if new passwords were added.
+#
+# Variables:
+#  $newEntries (Number): the number of new successfully imported passwords
+migration-wizard-progress-success-new-passwords =
+    { $newEntries ->
+        [one] U shtua { $newEntries }
+       *[other] U shtuan { $newEntries }
     }
 migration-bookmarks-from-file-picker-title = Importo Kartelë Faqerojtësish
 migration-bookmarks-from-file-progress-header = Importim Faqerojtësish
@@ -193,3 +219,5 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } metodë pagesash
        *[other] { $quantity } metoda pagesash
     }
+migration-wizard-safari-instructions-continue = Përzgjidhni “Vazhdo”
+migration-wizard-safari-instructions-folder = Te lista përzgjidhni dosjen Safari dhe zgjidhni “Hape”
