@@ -109,10 +109,21 @@ migration-wizard-progress-success-new-passwords =
         [one] U shtua { $newEntries }
        *[other] U shtuan { $newEntries }
     }
+# Shown in the migration wizard after importing passwords from a file
+# has completed, if existing passwords were updated.
+#
+# Variables:
+#  $updatedEntries (Number): the number of updated passwords
+migration-wizard-progress-success-updated-passwords =
+    { $updatedEntries ->
+        [one] U përditësua { $updatedEntries }
+       *[other] U përditësuan { $updatedEntries }
+    }
 migration-bookmarks-from-file-picker-title = Importo Kartelë Faqerojtësish
 migration-bookmarks-from-file-progress-header = Importim Faqerojtësish
 migration-bookmarks-from-file = Faqerojtës
 migration-bookmarks-from-file-success-header = Faqerojtësit u Importuan Me Sukses
+migration-bookmarks-from-file-no-valid-data = Kartela s’përmban ndonjë të dhënë faqerojtësish. Zgjidhni një kartelë tjetër.
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -123,12 +134,24 @@ migration-bookmarks-from-file-html-filter-title =
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = Kartelë JSON
+# Shown in the migration wizard after importing bookmarks from a file
+# has completed.
+#
+# Variables:
+#  $newEntries (Number): the number of imported bookmarks.
+migration-wizard-progress-success-new-bookmarks =
+    { $newEntries ->
+        [one] { $newEntries } faqerojtës
+       *[other] { $newEntries } faqerojtës
+    }
 migration-import-button-label = Importo
 migration-choose-to-import-from-file-button-label = Importo Prej Kartele
 migration-import-from-file-button-label = Përzgjidhni Kartelë
 migration-cancel-button-label = Anuloje
 migration-done-button-label = U bë
 migration-continue-button-label = Vazhdo
+migration-wizard-import-browser-no-browsers = { -brand-short-name }-i s’gjeti dot ndonjë program që përmban të dhëna faqerojtësish, historiku apo fjalëkalimesh.
+migration-wizard-import-browser-no-resources = Pati një gabim. { -brand-short-name }-i s’gjen dot ndonjë të dhënë për importim prej atij profili shfletuesi.
 
 ## These strings will be used to create a dynamic list of items that can be
 ## imported. The list will be created using Intl.ListFormat(), so it will
@@ -152,7 +175,21 @@ migration-wizard-progress-header = Importim të Dhënash
 # This header appears in the final page of the migration wizard only if
 # all resources were imported successfully.
 migration-wizard-progress-done-header = Të dhënat u Importuan Me Sukses
+# This header appears in the final page of the migration wizard if only
+# some of the resources were imported successfully. This is meant to be
+# distinct from migration-wizard-progress-done-header, which is only shown
+# if all resources were imported successfully.
+migration-wizard-progress-done-with-warnings-header = Importim Të Dhënash i Plotësuar
+migration-wizard-progress-icon-in-progress =
+    .aria-label = Po importohet…
+migration-wizard-progress-icon-completed =
+    .aria-label = I plotësuar
+migration-safari-password-import-header = Importoni Fjalëkalime nga Safari
+migration-safari-password-import-steps-header = Për të importuar fjalëkalime nga Safari:
+migration-safari-password-import-step1 = Në Safari hapni menunë “Safari” dhe kaloni te Parapëlqime > Fjalëkalime
+migration-safari-password-import-step2 = Përzgjidhni butonin <img data-l10n-name="safari-icon-3dots"/> dhe zgjidhni “Eksportoji Krejt Fjalëkalimet”
 migration-safari-password-import-step3 = Ruani kartelën e fjalëkalimeve
+migration-safari-password-import-step4 = Përdorni “Përzgjidhni Kartelë” më poshtë që të zgjidhni kartelën e fjalëkalimeve që ruajtët
 migration-safari-password-import-skip-button = Anashkaloje
 migration-safari-password-import-select-button = Përzgjidhni Kartelë
 # Shown in the migration wizard after importing bookmarks from another
@@ -192,9 +229,18 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } zgjerim
        *[other] { $quantity } zgjerime
     }
+# Shown in the migration wizard after importing a partial amount of
+# matched extensions from supported browsers.
+#
+# Variables:
+#   $matched (Number): the number of matched imported extensions
+#   $quantity (Number): the number of total extensions found during import
+migration-wizard-progress-partial-success-extensions = { $matched } nga { $quantity } zgjerime
+migration-wizard-progress-extensions-support-link = Mësoni se si gjen përputhje me zgjerimet { -brand-product-name }-i
 # Shown in the migration wizard if there are no matched extensions
 # on import from supported browsers.
 migration-wizard-progress-no-matched-extensions = S’ka zgjerime me përputhje
+migration-wizard-progress-extensions-addons-link = Shfletoni zgjerime për { -brand-short-name }
 
 ##
 
@@ -208,6 +254,16 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } fjalëkalim
        *[other] { $quantity } fjalëkalime
     }
+# Shown in the migration wizard after importing history from another
+# browser has completed.
+#
+# Variables:
+#  $maxAgeInDays (Number): the maximum number of days of history that might be imported.
+migration-wizard-progress-success-history =
+    { $maxAgeInDays ->
+        [one] Nga dita e fundit
+       *[other] Nga { $maxAgeInDays } ditët e fundit
+    }
 migration-wizard-progress-success-formdata = Historik formularësh
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
@@ -219,5 +275,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } metodë pagesash
        *[other] { $quantity } metoda pagesash
     }
+migration-wizard-safari-permissions-sub-header = Që të importohet faqerojtës dhe historik shfletimi nga Safari:
 migration-wizard-safari-instructions-continue = Përzgjidhni “Vazhdo”
 migration-wizard-safari-instructions-folder = Te lista përzgjidhni dosjen Safari dhe zgjidhni “Hape”
