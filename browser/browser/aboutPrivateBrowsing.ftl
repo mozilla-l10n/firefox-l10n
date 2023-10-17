@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Dim cwcis na hanes wedi'u cadw, o'ch bw
 about-private-browsing-cookie-banners-promo-header = Gwaredu baneri cwcis!
 about-private-browsing-cookie-banners-promo-button = Lleihau Baneri Cwcis
 about-private-browsing-cookie-banners-promo-message = Gadael i { -brand-short-name } ateb ffenestri llamlenni cwcis yn awtomatig er mwyn i chi fod yn rhydd i bori. Bydd { -brand-short-name } yn gwrthod pob cais os yn bosib.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = Mae { -brand-short-name } yn gofalu am faneri cwci drostoch chi
+about-private-browsing-cookie-banners-promo-body = Rydyn ni nawr yn gwrthod llawer o faneri cwci yn awtomatig er mwyn i chi brofi llai o dracio a gallu mynd nôl i bori di drafferth.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
