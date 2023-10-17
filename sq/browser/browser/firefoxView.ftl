@@ -29,12 +29,14 @@ firefoxview-tabpickup-step-signin-header = Kaloni si pa u kuptuar nga një pajis
 firefoxview-tabpickup-step-signin-description = Që të merrni skedat e telefonit tuaj këtu, së pari bëni hyrjen, ose krijoni një llogari të re.
 firefoxview-tabpickup-step-signin-primarybutton = Vazhdo
 firefoxview-syncedtabs-signin-header = Përlani skeda nga kudo
+firefoxview-syncedtabs-signin-description = Që të shihni skedat tuaja prej kudo që përdorni { -brand-product-name }-in, hyni në llogarinë tuaj. Nëse s’keni një llogari, do t’ju udhëheqim përmes hapave për të regjistruar një të tillë.
 firefoxview-syncedtabs-signin-primarybutton = Hyni ose regjistrohuni
 firefoxview-tabpickup-adddevice-header = Njëkohësoni { -brand-product-name }-in në telefonin ose tabletin tuaj
 firefoxview-tabpickup-adddevice-description = Shkarkoni { -brand-product-name }-in për celular dhe hyni nga këtu.
 firefoxview-tabpickup-adddevice-learn-how = Mësoni se si
 firefoxview-tabpickup-adddevice-primarybutton = Merrni { -brand-product-name } për celular
 firefoxview-syncedtabs-adddevice-header = Bëni hyrjen në { -brand-product-name } te pajisjet tuaja të tjera
+firefoxview-syncedtabs-adddevice-description = Që të shihni skedat tuaja prej kudo që përdorni { -brand-product-name }-in, hyni në llogaritë përkatëse në krejt pajisjet tuaja. Mësoni si të <a data-l10n-name="url">lidhni pajisje shtesë</a>.
 firefoxview-syncedtabs-adddevice-primarybutton = Provoni { -brand-product-name } për celular
 firefoxview-tabpickup-synctabs-header = Aktivizoni njëkohësim skedash
 firefoxview-tabpickup-synctabs-description = Lejojeni { -brand-short-name }-i të japë skeda nga një pajisje në tjetrën.
@@ -44,6 +46,7 @@ firefoxview-syncedtabs-synctabs-header = Përditësoni rregullimet tuaja të nj�
 firefoxview-syncedtabs-synctabs-description = Që të shihni skeda nga pajisje të tjera, lypset të njëkohësoni skedat tuaja të hapura.
 firefoxview-syncedtabs-synctabs-checkbox = Lejoni njëkohësim për skeda të hapura
 firefoxview-syncedtabs-loading-header = Njëkohësim në ecuri e sipër
+firefoxview-syncedtabs-loading-description = Kur të keni mbaruar, do të shihni çfarëdo skedash që keni të hapura në pajisje të tjera. Rikontrolloni së shpejti.
 firefoxview-tabpickup-fxa-admin-disabled-header = Enti juaj ka çaktivizuar njëkohësimet
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name }-i s’është në gjendje të njëkohësojë skeda mes pajisjesh, ngaqë përgjegjësi juaj ka çaktivizuar njëkohësimet.
 firefoxview-tabpickup-network-offline-header = Kontrolloni lidhjen tuaj internet
@@ -62,6 +65,7 @@ firefoxview-tabpickup-password-locked-primarybutton = Jepni Fjalëkalim Parësor
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">Mësoni më tepër</a>
 firefoxview-tabpickup-signed-out-header = Që të rilidhet, bëni hyrjen
 firefoxview-tabpickup-signed-out-description = Që të rilidhet dhe të merrni skedat tuaja, bëni hyrjen në llogarinë tuaj { -fxaccount-brand-name }.
+firefoxview-tabpickup-signed-out-description2 = Që të rilidheni dhe të merrni skedat tuaja, bëni hyrjen në llogarinë tuaj.
 firefoxview-tabpickup-signed-out-primarybutton = Hyni
 firefoxview-tabpickup-syncing = Mëshojini vendit teksa njëkohësohen skedat tuaja. Bëhet fjalë vetëm për një çast.
 firefoxview-mobile-promo-header = Merrni skeda nga telefoni apo tableti juaj
@@ -73,6 +77,7 @@ firefoxview-closed-tabs-title = Mbyllur së fundi
 firefoxview-closed-tabs-description2 = Rihapni faqe që keni mbyllur në këtë dritare.
 firefoxview-closed-tabs-placeholder-header = Pa skeda të mbyllura së fundi
 firefoxview-closed-tabs-placeholder-body = Kur mbyllni një skedë në këtë dritare, mund ta merrni nga këtu.
+firefoxview-closed-tabs-placeholder-body2 = Kur mbyllni një skedë, mund ta merrni nga këtu.
 # Variables:
 #   $tabTitle (string) - Title of tab being dismissed
 firefoxview-closed-tabs-dismiss-tab =
@@ -170,6 +175,7 @@ firefoxview-view-more-browsing-history = Shihni më tepër historik shfletimi
 
 firefoxview-history-empty-header = Kthehuni atje ku keni qenë
 firefoxview-history-empty-description = Teksa shfletoni, këtu do të shfaqen faqet që vizitoni.
+firefoxview-history-empty-description-two = Mbrojtja e privatësisë tuaj është në qendër të asaj me çka merremi. Kjo është arsyeja pse mund të kontrolloni veprimtarinë që mban mend { -brand-short-name }-i, te <a data-l10n-name="history-settings-url">rregullimet tuaja për historikun</a>.
 
 ##
 
@@ -180,6 +186,8 @@ firefoxview-choose-browser-button = Zgjidhni shfletues
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 firefoxview-dont-remember-history-empty-header = Asgjë për shfaqje
+firefoxview-dont-remember-history-empty-description = Mbrojtja e privatësisë tuaj është në qendër të asaj me çka merremi. Kjo është arsyeja pse mund të kontrolloni veprimtarinë që mban mend { -brand-short-name }-i.
+firefoxview-dont-remember-history-empty-description-two = Bazuar në rregullimet tuaja të tanishme, { -brand-short-name }-i nuk mban mend ndonjë veprimtari, teksa shfletoni. Për ta ndryshuar këtë, <a data-l10n-name="history-settings-url-two">ndryshoni rregullimet tuaja për historikun, që ky të mbahet mend</a>.
 
 ##
 
@@ -191,9 +199,13 @@ firefoxview-import-history-close-button =
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
 firefoxview-import-history-header = Importoni historik nga tjetër shfletues
+firefoxview-import-history-description = Bëjeni { -brand-short-name }-in shfletuesin tuaj të zemrës. Importoni historik shfletimesh, faqerojtës, etj.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
+firefoxview-recentlyclosed-empty-header = Mbyllët shumë shpejt një skedë?
+firefoxview-recentlyclosed-empty-description = Këtu do të gjeni skedat që mbyllët së fundi, që të mund të rihapni shpejt cilëndo prej tyre.
+firefoxview-recentlyclosed-empty-description-two = Për të gjetur skeda hapur më herët, shihni <a data-l10n-name="history-url">historikun tuaj të shfletimeve</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
