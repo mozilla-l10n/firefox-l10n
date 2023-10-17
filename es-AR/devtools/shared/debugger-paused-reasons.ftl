@@ -43,7 +43,7 @@ whypaused-interrupted = Pausado en la ejecución
 whypaused-resume-limit = Pausado en paso a paso
 # The text that is displayed in a info block explaining how the debugger is
 # currently paused on a dom event
-whypaused-pause-on-dom-events = Pausado en escucha de eventos
+whypaused-pause-on-dom-events = Pausado en detector de eventos
 # The text that is displayed in an info block when evaluating a conditional
 # breakpoint throws an error
 whypaused-breakpoint-condition-thrown = Error con punto de interrupción condicional
