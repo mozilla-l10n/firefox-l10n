@@ -68,6 +68,7 @@ about-private-browsing-pin-promo-title = Çerezleriniz ve geçmişiniz kaydedilm
 about-private-browsing-cookie-banners-promo-header = Çerez bildirimlerine son!
 about-private-browsing-cookie-banners-promo-button = Çerez bildirimlerini azaltın
 about-private-browsing-cookie-banners-promo-message = Dikkatiniz dağılmadan gezinmeniz için { -brand-short-name }, çerez bildirimlerini otomatik olarak yanıtlayabilir. { -brand-short-name }, mümkün olduğu sürece tüm istekleri reddedecektir.
+about-private-browsing-cookie-banners-promo-body = Artık birçok çerez bildirimini otomatik olarak reddediyoruz, böylece daha az takip edilecek ve dikkatiniz dağılmadan gezinebileceksiniz.
 
 ## Strings for Felt Privacy v1 experiments in 119
 

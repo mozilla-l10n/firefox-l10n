@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = <strong>display:table-cell</strong> eklemeyi d
 inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> veya <strong>overflow:hidden</strong> eklemeyi deneyin. { learn-more }
 inactive-css-border-image-fix = Üst tablo elemanında özelliği kaldırın veya <strong>border-collapse</strong> değerini <strong>collapse</strong> dışında bir değerle değiştirin. { learn-more }
 inactive-css-ruby-element-fix = Ruby metninin <strong>font-size</strong> değerini değiştirmeyi deneyin. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Satır sayısını azaltmayı deneyin. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

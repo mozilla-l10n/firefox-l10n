@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Web sitelerine verilerimi satmamalarını ve paylaşmamalarını söyle
     .accesskey = W
+non-technical-privacy-header = Web sitesi gizlilik tercihleri
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -965,6 +966,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Çerez bildirimlerini azaltma
 cookie-banner-handling-description = { -brand-short-name }, desteklenen sitelerdeki çerez isteklerini otomatik olarak reddetmeye çalışır.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Daha fazla bilgi al
 forms-handle-cookie-banners =
     .label = Çerez bildirimlerini azalt
