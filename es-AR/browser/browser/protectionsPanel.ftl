@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reducción de mensajes de cookies
+protections-panel-cookie-banner-blocker-header = Bloqueador de mensajes de cookies
 protections-panel-cookie-banner-handling-enabled = Activada para este sitio
 protections-panel-cookie-banner-handling-disabled = Desactivada para este sitio
 protections-panel-cookie-banner-handling-undetected = El sitio actualmente no es compatible
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = ¿Desactivar la reducción de mensajes de cookies para { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = ¿Activar la reducción de mensajes de cookies para este sitio?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Bloqueador de mensajes de cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Desactivar el bloqueo de mensajes de cookies para { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Activar el bloqueo de mensajes de cookies para este sitio?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } eliminará las cookies de este sitio y actualizará la página. Eliminar todas las cookies puede cerrar su sesión o vaciar los carritos de compras.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } intenta rechazar automáticamente todas las solicitudes de cookies en los sitios compatibles.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Al activarlo { -brand-short-name } intentará rechazar automáticamente los mensajes de cookies en este sitio.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar
