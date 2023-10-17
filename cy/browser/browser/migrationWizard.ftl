@@ -47,7 +47,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
-migration-no-permissions-message = Nid oes gan { -brand-short-name } fynediad i broffiliau porwyr eraill sydd wedi'u gosod ar y ddyfais hon.
+migration-no-permissions-message = Does gan { -brand-short-name } ddim mynediad i broffiliau porwyr eraill sydd wedi'u gosod ar y ddyfais hon.
+migration-no-permissions-instructions = I barhau i fewnforio data o borwr arall, caniatewch i { -brand-short-name } gael mynediad i'w ffolder proffil.
 migration-no-permissions-instructions-step1 = Dewis “Parhau”
 # The second step in getting permissions to read data for the selected
 # browser type.

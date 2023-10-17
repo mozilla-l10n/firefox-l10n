@@ -40,6 +40,18 @@ inactive-css-border-image = Nid yw <strong>{ $property }</strong> yn cael unrhyw
 inactive-css-ruby-element = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon gan ei bod yn elfen ruby. Mae ei faint yn cael ei bennu gan faint ffont y testun ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar amlygu ffug-elfennau.
 inactive-css-cue-pseudo-element-not-supported = Nid yw <strong>{ $property }</strong> yn cael ei gefnogi ar  ::cue pseudo-elements.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [zero] Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd mae ganddi fwy na { $lineCount } llinell.
+        [one] Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd mae ganddi fwy na { $lineCount } llinell.
+        [two] Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd mae ganddi fwy na { $lineCount } llinell.
+        [few] Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd mae ganddi fwy na { $lineCount } llinell.
+        [many] Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd mae ganddi fwy na { $lineCount } llinell.
+       *[other] Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd mae ganddi fwy na { $lineCount } llinell.
+    }
+inactive-css-text-wrap-balance-fragmented = Nid yw <strong>{ $property }</strong> yn effeithio ar yr elfen hon oherwydd ei bod yn dameidiog, h.y. mae ei chynnwys wedi'i rhannu ar draws colofnau neu dudalennau lluosog.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +78,8 @@ inactive-css-not-table-cell-fix = Ceisiwch ychwanegu <strong>display:table-cell<
 inactive-scroll-padding-when-not-scroll-container-fix = Ceisiwch ychwanegu <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> neu <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Ar yr elfen tabl rhiant, tynnwch y briodwedd neu newidiwch werth <strong>cwymp-ffiniol</strong> i werth heblaw <strong>cwymp</strong>. { learn-more }
 inactive-css-ruby-element-fix = Ceisio newid <strong>maint ffont</strong> y testun ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Ceisiwch leihau nifer y llinellau.{ learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Osgowch hollti cynnwys yr elfen e.e. drwy dynnu'r colofnau neu drwy ddefnyddio <strong>page-break-inside:avoid</strong>.{ learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
