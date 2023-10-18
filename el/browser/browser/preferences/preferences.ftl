@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Αποστολή αιτήματος μη πώλησης ή κοινοποίησης των δεδομένων μου στους ιστοτόπους
     .accesskey = σ
+non-technical-privacy-header = Προτιμήσεις απορρήτου ιστοτόπου
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -972,6 +973,7 @@ cookie-banner-handling-description = Το { -brand-short-name } προσπαθε
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Αποκλεισμός μηνυμάτων για cookie
 cookie-banner-learn-more = Μάθετε περισσότερα
 forms-handle-cookie-banners =
     .label = Μείωση μηνυμάτων για cookies

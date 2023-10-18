@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Μείωση μηνυμάτων για cookies
+protections-panel-cookie-banner-blocker-header = Αποκλεισμός μηνυμάτων για cookie
 protections-panel-cookie-banner-handling-enabled = Ενεργή για αυτόν τον ιστότοπο
 protections-panel-cookie-banner-handling-disabled = Ανενεργή για αυτόν τον ιστότοπο
 protections-panel-cookie-banner-handling-undetected = Ο ιστότοπος δεν υποστηρίζεται
@@ -128,6 +129,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Απενεργοποίηση μείωσης μηνυμάτων για cookies στο { $host };
 protections-panel-cookie-banner-view-turn-on-for-site = Ενεργοποίηση μείωσης μηνυμάτων για cookies στο { $host };
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Αποκλεισμός μηνυμάτων για cookie
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Απενεργοποίηση αποκλεισμού μηνυμάτων για cookie στο { $host };
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ενεργοποίηση αποκλεισμού μηνυμάτων για cookie σε αυτόν τον ιστότοπο;
 protections-panel-cookie-banner-view-cookie-clear-warning = Το { -brand-short-name } θα απαλείψει τα cookies του ιστοτόπου και θα ανανεώσει τη σελίδα. Η απαλοιφή όλων των cookies ενδέχεται να σας αποσυνδέσει ή να αδειάσει τα καλάθια αγορών.
 protections-panel-cookie-banner-view-turn-on-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα αιτήματα για cookies σε υποστηριζόμενους ιστότοπους.
 protections-panel-cookie-banner-view-cancel = Ακύρωση

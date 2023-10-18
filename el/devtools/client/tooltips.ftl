@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = Δοκιμάστε να προσθέσετε �
 inactive-scroll-padding-when-not-scroll-container-fix = Δοκιμάστε να προσθέσετε το <strong>overflow:auto</strong>, το <strong>overflow:scroll</strong>, ή το <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Στο στοιχείο γονικού πίνακα, καταργήστε την ιδιότητα ή αλλάξτε την τιμή του <strong>border-collapse</strong> σε μια τιμή εκτός της <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Δοκιμάστε να αλλάξετε το <strong>font-size</strong> του κειμένου ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Προσπαθήστε να μειώσετε τον αριθμό των γραμμών. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
