@@ -125,6 +125,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = mostra e poule segr
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = còpia a poula segretta sarvâ
+# This message can be seen when attempting to export a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-export-password-os-auth-dialog-message-macosx = espòrta acesci e poule segrette
 
 ## Primary Password notification
 
