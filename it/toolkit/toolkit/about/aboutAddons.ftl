@@ -342,6 +342,10 @@ addon-detail-reviews-link =
 ## Pending uninstall message bar
 
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è stato rimosso.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } è stato rimosso.
 pending-uninstall-undo-button = Annulla
 addon-detail-updates-label = Aggiornamento automatico
 addon-detail-updates-radio-default = Predefinito
