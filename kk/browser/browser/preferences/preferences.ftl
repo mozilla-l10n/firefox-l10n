@@ -974,6 +974,7 @@ cookie-banner-handling-description = { -brand-short-name } қолдау көрс
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Cookie баннерлерін бұғаттаушы
+cookie-banner-blocker-description = Сайт жекелік шолу режимінде cookie файлдарын пайдалану мүмкіндігін сұрағанда, { -brand-short-name } сіз үшін олардан автоматты түрде бас тартады. Тек қолдау көрсетілетін сайттарда қолжетімді.
 cookie-banner-learn-more = Көбірек білу
 forms-handle-cookie-banners =
     .label = Cookie баннерлерін азайту
