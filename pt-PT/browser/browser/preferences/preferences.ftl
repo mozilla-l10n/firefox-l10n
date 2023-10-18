@@ -3,11 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar um sinal de “Não Monitorizar” para os sites da Internet com a indicação que não deseja ser monitorizado
+do-not-track-description2 =
+    .label = Enviar aos sites um pedido de “Não monitorizar”
+    .accesskey = d
 do-not-track-learn-more = Saber mais
 do-not-track-option-default-content-blocking-known =
     .label = Apenas quando o { -brand-short-name } está definido para bloquear os rastreadores conhecidos
 do-not-track-option-always =
     .label = Sempre
+global-privacy-control-description =
+    .label = Dizer aos sites para não venderem ou partilharem os meus dados
+    .accesskey = s
+non-technical-privacy-header = Preferências de Privacidade do Site
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Controlo Global de Privacidade (GPC)
 settings-page-title = Definições
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -116,6 +127,9 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Abrir janelas e separadores anteriores
     .accesskey = s
+windows-launch-on-login =
+    .label = Abrir o { -brand-short-name } automaticamente quando o seu computador arranca
+    .accesskey = o
 startup-restore-warn-on-quit =
     .label = Avisar-lhe ao sair do navegador
 disable-extension =
@@ -955,6 +969,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Redução de Faixas de Cookies
 cookie-banner-handling-description = O { -brand-short-name } tenta automaticamente rejeitar pedidos de cookies em faixas de cookies em sites suportados.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Saber mais
 forms-handle-cookie-banners =
     .label = Reduza as faixas de cookies
