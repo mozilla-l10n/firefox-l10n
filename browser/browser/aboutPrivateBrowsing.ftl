@@ -72,6 +72,10 @@ about-private-browsing-cookie-banners-promo-message =
         [with-cases] { -brand-short-name(case: "acc") }
        *[no-cases] aplikaci { -brand-short-name }
     } automaticky odpovídat na vyskakovací okna souborů cookie za vás, abyste se mohli vrátit k procházení bez rozptylování. { -brand-short-name } odmítne všechny požadavky, pokud je to možné.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se za vás postará o lišty cookie
+about-private-browsing-cookie-banners-promo-body = Nyní automaticky odmítáme mnoho lišt cookie, abyste byli méně sledováni a mohli se vrátit k prohlížení bez rozptylování.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
