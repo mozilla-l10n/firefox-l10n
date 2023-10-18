@@ -264,4 +264,4 @@ places-search-downloads =
 
 ##
 
-places-locked-prompt = Apopyvusu techaukaha ha tembiasakue rehegua ndoikomo’ãi oĩre peteĩva { -brand-short-name }’s marandurenda ojeporúva ambue tembiporu’ípe. Oĩ tembiaporape hekorosãva ikatuvahína omoapanuãi.
+places-locked-prompt = Apopyvusu techaukaha ha tembiasakue rehegua ndoikomo’ãi oĩre peteĩva { -brand-short-name }’s marandurenda ojeporúva ambue tembiporu’ípe. Oĩ tembiaporape hekorosãva ikatúva omoapanuãi.
