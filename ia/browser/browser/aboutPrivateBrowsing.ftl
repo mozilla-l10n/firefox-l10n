@@ -68,6 +68,7 @@ about-private-browsing-pin-promo-title = Nulle cookies o chronologia salvate, di
 about-private-browsing-cookie-banners-promo-header = Bandieras pro cookies adeo!
 about-private-browsing-cookie-banners-promo-button = Reducer bandieras pro cookies
 about-private-browsing-cookie-banners-promo-message = Lassa que { -brand-short-name } responde automaticamente al quadros resaltante de cookies pro te, assi que tu pote navigar de novo libere de distractiones. { -brand-short-name } rejectara tote le requestas si possibile.
+about-private-browsing-cookie-banners-promo-body = Ora nos refusa automaticamente multe bandieras pro cookie assi tu pote esser minus traciate e retornar a navigar sin distraction.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
