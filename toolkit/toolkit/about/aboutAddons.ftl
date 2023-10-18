@@ -166,7 +166,6 @@ extensions-warning-update-security2 =
     .message = Il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi è disattivato. Il sistema potrebbe essere danneggiato da un aggiornamento.
 extensions-warning-update-security-button = Attiva
     .title = Attiva il controllo sulla sicurezza degli aggiornamenti dei componenti aggiuntivi
-extensions-warning-imported-addons = Completa l’installazione delle estensioni importate in { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Completa l’installazione delle estensioni importate in { -brand-short-name }.
 extensions-warning-imported-addons-button = Installa estensioni
@@ -451,4 +450,3 @@ details-notification-softblocked-link = Ulteriori informazioni
 details-notification-gmp-pending = { $name } verrà installato tra qualche istante.
 details-notification-gmp-pending2 =
     .message = { $name } verrà installato tra qualche istante.
-
