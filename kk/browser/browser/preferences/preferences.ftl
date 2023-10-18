@@ -977,6 +977,8 @@ cookie-banner-blocker-header = Cookie баннерлерін бұғаттауш�
 cookie-banner-learn-more = Көбірек білу
 forms-handle-cookie-banners =
     .label = Cookie баннерлерін азайту
+cookie-banner-blocker-checkbox-label =
+    .label = Cookie баннерлерінен автоматты түрде бас тарту
 
 ## Privacy Section - Address Bar
 
@@ -1007,6 +1009,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Жылдам әрекеттер
     .accesskey = к
+addressbar-locbar-recentsearches-option =
+    .label = Жуырдағы іздеулер
+    .accesskey = р
 addressbar-suggestions-settings = Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту
 addressbar-quickactions-learn-more = Көбірек білу
 
