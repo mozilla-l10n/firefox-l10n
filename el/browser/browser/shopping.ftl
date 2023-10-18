@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Εμφάνιση διαφημίσεων στον έλεγχο κριτικών
 shopping-settings-recommendations-learn-more = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Όλες οι διαφημίσεις πρέπει να πληρούν τα πρότυπά μας για την ποιότητα των κριτικών. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
+shopping-settings-recommendations-learn-more2 = Θα βλέπετε περιστασιακά διαφημίσεις για σχετικά προϊόντα. Διαφημίζουμε μόνο προϊόντα με αξιόπιστες κριτικές. <a data-l10n-name="review-quality-url">Μάθετε περισσότερα</a>
 shopping-settings-opt-out-button = Απενεργοποίηση ελέγχου κριτικών
 powered-by-fakespot = Ο έλεγχος κριτικών παρέχεται από το <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 

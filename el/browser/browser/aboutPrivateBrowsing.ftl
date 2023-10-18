@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = Χωρίς αποθήκευση cookies
 about-private-browsing-cookie-banners-promo-header = Εξαφανιστείτε μηνύματα για cookies!
 about-private-browsing-cookie-banners-promo-button = Μείωση μηνυμάτων για cookies
 about-private-browsing-cookie-banners-promo-message = Επιτρέψτε στο { -brand-short-name } να απαντά αυτόματα σε αναδυόμενα μηνύματα για cookies, ώστε να κάνετε περιήγηση χωρίς περισπασμούς. Το { -brand-short-name } θα απορρίψει όλα τα αιτήματα εάν αυτό είναι δυνατό.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = Το { -brand-short-name } φροντίζει για εσάς τα μηνύματα για cookie
 
 ## Strings for Felt Privacy v1 experiments in 119
 

@@ -969,9 +969,14 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Μείωση μηνυμάτων για cookies
 cookie-banner-handling-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα μηνύματα αιτημάτων για cookies σε υποστηριζόμενους ιστότοπους.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Μάθετε περισσότερα
 forms-handle-cookie-banners =
     .label = Μείωση μηνυμάτων για cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Αυτόματη απόρριψη μηνυμάτων για cookie
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1007,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Γρήγορων ενεργειών
     .accesskey = Γ
+addressbar-locbar-recentsearches-option =
+    .label = Πρόσφατες αναζητήσεις
+    .accesskey = Π
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 
