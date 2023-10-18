@@ -44,6 +44,10 @@ downloads-cmd-show-menuitem-2 =
 downloads-cmd-use-system-default =
     .label = افتح في عارِض النظام
     .accesskey = ظ
+# This version is shown when the download's mime type has a valid file handler.
+downloads-cmd-use-system-default-named =
+    .label = فتح في { $handler }
+    .accesskey = ت
 # We can use the same accesskey as downloads-cmd-always-open-similar-files.
 # Both should not be visible in the downloads context menu at the same time.
 downloads-cmd-always-use-system-default =
@@ -225,6 +229,9 @@ downloads-more-downloading =
 ## Download errors
 
 downloads-error-alert-title = خطأ في التنزيل
+# Variables:
+#   $extension (String): the name of the blocking extension.
+downloads-error-blocked-by = تعذّر حفظ هذا التنزيل لأنه محظور من قبل { $extension }.
 # Used when the name of the blocking extension is unavailable.
 downloads-error-extension = تعذّر حفظ هذا التنزيل إذ حجبه أحد الامتدادات.
 # Line breaks in this message are meaningful, and should be maintained.
