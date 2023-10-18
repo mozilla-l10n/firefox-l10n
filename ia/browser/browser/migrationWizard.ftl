@@ -48,6 +48,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } non ha accesso a profilos de altere navigatores  installate sur iste apparato.
+migration-no-permissions-instructions = Pro continuar a importar datos de altere navigatores, garanti a { -brand-short-name } le accesso al plica del profilo.
 migration-no-permissions-instructions-step1 = Elige “Continuar”
 
 ## These strings will be displayed based on how many resources are selected to import
