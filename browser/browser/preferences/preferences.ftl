@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Tell web sites not to sell or share my data
     .accesskey = s
+non-technical-privacy-header = Web Site Privacy Preferences
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Cookie Banner Reduction
 cookie-banner-handling-description = { -brand-short-name } automatically tries to reject cookie requests on cookie banners on supported sites.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Cookie Banner Blocker
+cookie-banner-blocker-description = When a site asks if they can use cookies in private browsing mode, { -brand-short-name } automatically refuses for you. Only on supported sites.
 cookie-banner-learn-more = Learn More
 forms-handle-cookie-banners =
     .label = Reduce Cookie Banners
+cookie-banner-blocker-checkbox-label =
+    .label = Automatically refuse cookie banners
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Quick actions
     .accesskey = Q
+addressbar-locbar-recentsearches-option =
+    .label = Recent Searches
+    .accesskey = R
 addressbar-suggestions-settings = Change preferences for search engine suggestions
 addressbar-quickactions-learn-more = Learn more
 
