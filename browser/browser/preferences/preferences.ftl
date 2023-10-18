@@ -1017,6 +1017,9 @@ addressbar-locbar-quickactions-option =
 addressbar-locbar-recentsearches-option =
     .label = Ricerche recenti
     .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostra ricerche recenti
+    .accesskey = r
 addressbar-suggestions-settings = Modifica le impostazioni relative ai suggerimenti dei motori di ricerca
 addressbar-quickactions-learn-more = Ulteriori informazioni
 
