@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokowak  plack
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokowak plackowych chorhojow za tute sydło zmóžnić?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } placki sydła zhaša a budźe stronu aktualizować. Zhašenje wšěch plackow móže was přizjewić abo nakupowanske wozyčki wuprózdnić.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pospytuje wšě plackowe naprašowanja na podpěranych sydłach awtomatisce wotpokazać.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžńće tute nastajenje a { -brand-short-name } spyta, plackowe chorhoje na tutym sydle awtomatisce wotpokazać.
 protections-panel-cookie-banner-view-cancel = Přetorhnyć
 protections-panel-cookie-banner-view-turn-off = Znjemóžnić
 protections-panel-cookie-banner-view-turn-on = Zmóžnić

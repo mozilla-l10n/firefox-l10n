@@ -982,6 +982,7 @@ cookie-banner-handling-description = { -brand-short-name } awtomatisce pospytuje
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokowak plackowych chorhojow
+cookie-banner-blocker-description = Hdyž so sydło praša, hač móže placki w priwatnym modusu wužiwać, { -brand-short-name } to za was awtomatisce wotpokazuje. Jenož za podpěrane sydła.
 cookie-banner-learn-more = Dalše informacije
 forms-handle-cookie-banners =
     .label = Plackowe chorhoje redukować
