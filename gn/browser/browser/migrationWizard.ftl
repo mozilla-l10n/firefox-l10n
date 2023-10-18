@@ -47,6 +47,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } ndoikekuaái ambue kundahára mba’etépe oñemohendapyréva ko mba’e’okápe.
+migration-no-permissions-instructions = Omba’egueru hag̃ua mba’ekuaarã ambue mba’e’okágui, { -brand-short-name } oikekuaava’erã ne mba’ete ñongatuhápe.
 migration-no-permissions-instructions-step1 = Eiporavo “Ku’ejey”
 # The second step in getting permissions to read data for the selected
 # browser type.

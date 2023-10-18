@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = ¿Embogue kooki
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = ¿Emyandy kookie banner jokoha ko tendápe g̃uarã?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } omboguéta kookie ko tendagua ha ombohekopyahúta kuatiarogue. Emboguepárõ kookie ombotykuaa ne rembiapo térã omonandi ne mba’ejoguakue.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } omboykese ijehegui opaite kookie mba’ejerure umi tenda ojokupytývape.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Emyandývo { -brand-short-name } oñeha’ãta omboyke ijehegui umi kookie ñe’ẽmondo ko tendápe.
 protections-panel-cookie-banner-view-cancel = Heja
 protections-panel-cookie-banner-view-turn-off = Mbogue
 protections-panel-cookie-banner-view-turn-on = Myandy
