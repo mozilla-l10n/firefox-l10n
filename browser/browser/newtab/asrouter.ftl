@@ -196,12 +196,18 @@ colorways-cfr-header-today = تنتهي صلاحية أصوات مسار الأ�
 
 ## Cookie Banner Handling CFR
 
+cfr-cbh-header = أتسمح بأن يرفض { -brand-short-name } لافتات الكعكة؟
+cfr-cbh-body = يمكن لـ { -brand-short-name } أن يرفض تلقائيًا العديد من طلبات لافتات الكعكة.
+cfr-cbh-confirm-button = أرفض لافتات الكعكات
+    .accesskey = ض
 cfr-cbh-dismiss-button = ليس الآن
     .accesskey = آ
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = لقد قمنا بتغطيتك
+july-jam-body = كل شهر، يحظر { -brand-short-name } ما يزيد عن 3000 متعقّبات لكل مستخدم في المتوسط، مما يعطيك وصول آمن وسريع إلى الإنترنت الجيد.
+july-jam-set-default-primary = افتح روابطي مع { -brand-short-name }
 fox-doodle-pin-headline = مرحبًا بعودتك
 fox-doodle-pin-secondary = ليس الآن
 
