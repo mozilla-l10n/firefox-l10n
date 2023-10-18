@@ -68,7 +68,13 @@ about-private-browsing-pin-promo-title = Sem cookies ou histórico salvos, diret
 about-private-browsing-cookie-banners-promo-header = Desapareçam faixas de cookies!
 about-private-browsing-cookie-banners-promo-button = Reduza as faixas de cookies
 about-private-browsing-cookie-banners-promo-message = Permitir que o { -brand-short-name } responda automaticamente a pop-ups de cookies para que possa voltar a navegar sem distrações. O { -brand-short-name } irá rejeitar todos os pedidos, se for possível.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } cuida das faixas de cookies por si
+about-private-browsing-cookie-banners-promo-body = Nós agora recusamos automaticamente muitas faixas de cookies para que possa ser menos monitorizado e volte a navegar sem distrações.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Não deixe evidências neste dispositivo
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } elimina os seus cookies, histórico e dados do site quando fecha todas as suas janelas privadas.
+about-private-browsing-felt-privacy-v1-info-link = Quem poderá ver a minha atividade?

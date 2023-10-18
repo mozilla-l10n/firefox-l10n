@@ -237,3 +237,24 @@ device-migration-fxa-spotlight-header = A utilizar um dispositivo mais antigo?
 device-migration-fxa-spotlight-body = Faça uma cópia dos seus dados para garantir que não perde informações importantes, tais como marcadores e palavras-passe — especialmente se mudar para um novo dispositivo.
 device-migration-fxa-spotlight-primary-button = Como fazer uma cópia dos meus dados
 device-migration-fxa-spotlight-link = Lembrar mais tarde
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Definir como predefinição
+pdf-default-notification-decline-button =
+    .label = Agora não
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Saber mais
+launch-on-login-infobar-confirm-button = Sim, abrir no { -brand-short-name }
+    .accesskey = S
+launch-on-login-infobar-reject-button = Agora não
+    .accesskey = n
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Não, obrigado
+    .accesskey = N

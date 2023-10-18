@@ -327,4 +327,5 @@ onboarding-device-migration-image-alt =
     .aria-label = Uma raposa a acenar no ecrã de um portátil. O portátil tem um rato ligado.
 onboarding-device-migration-title = Olá novamente!
 onboarding-device-migration-subtitle = Entre na { -fxaccount-brand-name(capitalization: "sentence") } para levar os seus marcadores, palavras-passe e histórico consigo no seu novo dispositivo.
+onboarding-device-migration-subtitle2 = Inicie a sessão na sua conta para trazer os seus marcadores, palavras-passe e o histórico consigo no seu novo dispositivo.
 onboarding-device-migration-primary-button-label = Entrar

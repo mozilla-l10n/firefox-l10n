@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Copiar ligação
     .accesskey = l
 fxviewtabrow-close-tab = Fechar separador
     .accesskey = F
+fxviewtabrow-move-tab = Mover Separador
+    .accesskey = v
+fxviewtabrow-move-tab-start = Mover para Início
+    .accesskey = I
+fxviewtabrow-move-tab-end = Mover para Fim
+    .accesskey = F
+fxviewtabrow-move-tab-window = Mover para Nova Janela
+    .accesskey = J
+fxviewtabrow-send-tab = Enviar Separador para Dispositivo
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
