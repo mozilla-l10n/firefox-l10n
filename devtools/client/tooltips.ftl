@@ -40,6 +40,16 @@ inactive-css-border-image = <strong>{ $property }</strong> na tutón element wus
 inactive-css-ruby-element = <strong>{ $property }</strong> wuskutk na tutón element nima, dokelž je element ruby. Jeje wulkosć so přez wulkosć pisma teksta ruby postaja.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> so za pseudoelementy wuzběhnjenja njepodpěruje.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> so za pseudo-elementy ::cue njepodpěruje.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> na tutón element efekt nima, dokelž ma wjace hač { $lineCount } linku.
+        [two] <strong>{ $property }</strong> na tutón element efekt nima, dokelž ma wjace hač { $lineCount } lince.
+        [few] <strong>{ $property }</strong> na tutón element efekt nima, dokelž ma wjace hač { $lineCount } linki.
+       *[other] <strong>{ $property }</strong> na tutón element efekt nima, dokelž ma wjace hač { $lineCount } linkow.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> na tutón element efekt nima, dokelž je fragmentowany, t. r. jeho wobsah je na wjacore špalty abo strony rozdźěleny.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -67,6 +77,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = Spytajće, <strong>overf
 inactive-css-border-image-fix = Wotstrońće na nadrjadowanym elemenće tabele kajkosć abo změńće hódnotu kajkosće <strong>border-collapse</strong> do hódnoty, kotraž so wot <strong>collapse</strong> rozeznawa. { learn-more }
 inactive-css-ruby-element-fix = Spytajće <strong>font-size</strong> teksta ruby změnić. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Spytajće ličbu linkow redukować. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Wotstrońće špalty abo wužiwajće <strong>page-break-inside:avoid</strong>, zo byšće rozdźělenje elementoweho wobsaha wobešoł. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
