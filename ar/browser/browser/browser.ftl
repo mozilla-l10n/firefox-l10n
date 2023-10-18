@@ -87,6 +87,8 @@ urlbar-result-menu-tip-get-help =
 
 urlbar-search-tips-onboard = اكتب بحروف أقل، و جِد نتائج أكثر: ابحث مستخدمًا { $engineName } مباشرة من شريط العنوان.
 urlbar-search-tips-redirect-2 = ابدأ البحث من شريط العنوان لترى الاقتراحات من { $engineName } و من تأريخ التصفح.
+# Make sure to match the name of the Search panel in settings.
+urlbar-search-tips-persist = البحث أصبح أبسط. جرب جعل بحثك أكثر تحديدا هنا في شريط العنوان. لعرض مسار الوب بدلا من ذلك، زر البحث، في الإعدادات.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = اختر هذا الاختصار لتجد ما تريد بسرعة أكبر.
@@ -293,6 +295,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = معطّل مؤقتًا
 identity-https-only-info-turn-on2 = فعّل وضع HTTPS فقط إن أردت من { -brand-short-name } ترقية الاتصال متى أمكن.
 identity-https-only-info-turn-off2 = إن شككت أن في الصفحة عطب، فيمكنك تعطيل وضع HTTPS فقط لإعادة تحميل هذا الموقع باستعمال بروتوكول HTTP غير الآمن.
+identity-https-only-info-turn-on3 = فعل ترقية HTTPS لهذا الموقع إذا كنت تريد { -brand-short-name } ترقية الاتصال إن أمكن.
+identity-https-only-info-turn-off3 = إن شككت أن الصفحة مُعطلة، فقد تحتاج إلى إيقاف تشغيل ترقيات HTTPS لهذا الموقع لإعادة التحميل باستخدام HTTP الغير آمن.
 identity-https-only-info-no-upgrade = تعذرت ترقية الاتصال من HTTP.
 identity-permissions-storage-access-header = الكعكات بين المواقع
 identity-permissions-storage-access-hint = يمكن لهذه الأطراف استعمال الكعكات وبيانات المواقع المشتركة أثناء وجودك في هذا الموقع.
@@ -420,6 +424,7 @@ sharing-warning-disable-for-session =
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description2 = لاستخدام اختصار F12، افتح أدوات التطوير (DevTools) أولاً عبر قائمة أدوات المتصفح.
 
 ## URL Bar
 
@@ -495,6 +500,8 @@ urlbar-result-action-search-w-engine = ابحث مستخدمًا { $engine }
 urlbar-result-action-sponsored = نتيجة مموّلة
 urlbar-result-action-switch-tab = انتقل إلى اللسان
 urlbar-result-action-visit = زُر
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = زر من الحافظة
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -557,6 +564,13 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = فتح فديو معترِض ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = أغلِق فديو معترِض ({ $shortcut })
+picture-in-picture-panel-header = فديو معترِض
+picture-in-picture-panel-headline = لا يوصي موقع الويب هذا باستخدام ميزة "فديو معترِض".
+picture-in-picture-panel-body = قد لا يُعرض مقاطع الفيديو بالشكل الذي أراده المطور أثناء تمكين ميزة الفديو المعترِض.
 picture-in-picture-enable-toggle =
     .label = فعّل على أية حال
 
@@ -809,6 +823,11 @@ data-reporting-notification-button =
 ## Unified extensions button when permission(s) are needed.
 ## Note that the new line is intentionally part of the tooltip.
 
+unified-extensions-button-permissions-needed =
+    .label = الامتدادات
+    .tooltiptext =
+        الامتدادات
+        الأذونات لازمة
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
@@ -832,6 +851,11 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = تحمي أقنعتنا الآمنة وسهلة الاستخدام هويتك وتمنع السبام عن طريق إخفاء عنوان بريدك الإلكتروني.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = ستمرر كل رسائل البريد الإلكتروني المرسلة إلى أقنعة بريدك إلى <strong>{ $useremail }</strong> (ما لم تقرر حجبها).
+firefox-relay-offer-legal-notice = بالنقر على"أستخدم قناع البريد"، أنت توافق على شروط <label data-l10n-name="tos-url"> للخدمة </label> و <label data-l10n-name="privacy-url">تنويه الخصوصية </label>.
 
 ## Add-on Pop-up Notifications
 

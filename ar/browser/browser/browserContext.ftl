@@ -297,6 +297,9 @@ main-context-menu-use-saved-password =
 
 ##
 
+main-context-menu-use-relay-mask =
+    .label = استخدم قناع البريد الإلكتروني { -relay-brand-short-name }.
+    .accesskey = د
 main-context-menu-suggest-strong-password =
     .label = اقترِح كلمة سر قوية…
     .accesskey = ق

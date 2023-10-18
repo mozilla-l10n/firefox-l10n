@@ -143,7 +143,15 @@ spotlight-public-wifi-vpn-link = ليس الآن
 
 ## Emotive Continuous Onboarding
 
+spotlight-better-internet-header = يبدأ معك إنترنت أفضل
+spotlight-better-internet-body = عندما تستخدم { -brand-short-name }، فإنك تصوت لصالح إنترنت مفتوح يمكن الوصول إليه و أفضل للجميع.
 spotlight-peace-mind-header = لقد قمنا بتغطيتك
+spotlight-peace-mind-body = كل شهر، يحظر { -brand-short-name } ما يزيد عن 3000 متعقّبات لكل مستخدم في المتوسط. لأنه لا شيء، وخاصة مضايقات الخصوصية مثل المتعقّبات، يجب أن يقف بينك وبين الإنترنت الجيد.
+spotlight-pin-primary-button =
+    { PLATFORM() ->
+        [macos] إبقِ في الإرساء
+       *[other] ثبّت في شريط المهام
+    }
 
 ## MR2022 Background Update Windows native toast notification strings.
 ##
@@ -158,6 +166,13 @@ spotlight-peace-mind-header = لقد قمنا بتغطيتك
 ## The button labels are fitted into narrow fixed-width buttons by
 ## Windows and therefore must be as narrow as possible.
 
+mr2022-background-update-toast-title = { -brand-short-name } جديد. خصوصية أفضل. متعقبات اقل. لا تنازلات.
+mr2022-background-update-toast-text = جرب أحدث { -brand-short-name } الآن، مُرقي بأقوى حماية ضد التعقب لدينا حتى الآن.
+# This button label will be fitted into a narrow fixed-width button by
+# Windows. Try to not exceed the width of the English text (compare it
+# using a variable font like Arial): the button can only fit 1-2
+# additional characters, exceeding characters will be truncated.
+mr2022-background-update-toast-primary-button-label = افتح { -brand-shorter-name } الآن
 
 ## Firefox View CFR
 
@@ -166,14 +181,18 @@ firefoxview-cfr-primarybutton = جربه
 firefoxview-cfr-secondarybutton = ليس الآن
     .accesskey = ن
 firefoxview-cfr-header-v2 = أكمل بسرعة من حيث انتهيت
+firefoxview-cfr-body-v2 = استعد الألسنة المغلقة مؤخرًا، أضِف إليها الانتقال بين الأجهزة مستخدماً { -firefoxview-brand-name } بسلاسة.
 
 ## Firefox View Spotlight
 
+firefoxview-spotlight-promo-title = قل مرحبًا لـ { -firefoxview-brand-name }
 
 ## Colorways expiry reminder CFR
 
 colorways-cfr-primarybutton = اختر مسار الألوان
     .accesskey = س
+colorways-cfr-header-7days = تنتهي صلاحية أصوات مسار الألوان المستقلة هذا الأسبوع
+colorways-cfr-header-today = تنتهي صلاحية أصوات مسار الألوان المستقلة اليوم
 
 ## Cookie Banner Handling CFR
 
