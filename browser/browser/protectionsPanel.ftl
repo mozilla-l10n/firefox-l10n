@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Cookie баннерлерін азайту
+protections-panel-cookie-banner-blocker-header = Cookie баннерлерін бұғаттаушы
 protections-panel-cookie-banner-handling-enabled = Бұл сайт үшін іске қосылған
 protections-panel-cookie-banner-handling-disabled = Бұл сайт үшін сөндірілген
 protections-panel-cookie-banner-handling-undetected = Сайтқа ағымдағы уақытта қолдау жоқ
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } үшін cookie баннерлерін азайту мүмкіндігін сөндіру керек пе?
 protections-panel-cookie-banner-view-turn-on-for-site = Бұл сайт үшін cookie баннерлерін азайту мүмкіндігін іске қосу керек пе?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Cookie баннерлерін бұғаттаушы
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } үшін cookie баннерлерін бұғаттаушын сөндіру керек пе?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Бұл сайт үшін cookie баннерлерін бұғаттаушын іске қосу керек пе?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } осы сайттың cookie файлдарын тазартып, бетті жаңартады. Барлық cookie файлдарын тазарту салдарынан сіз сайттан шығуыңыз мүмкін немесе дүкен себеттері тазартылуы мүмкін.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } қолдау көрсетілетін сайттардағы барлық cookie сұрауларын автоматты түрде қабылдамау әрекетін жасайды.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Іске қосыңыз, және де { -brand-short-name } осы сайттағы cookie баннерлерінен автоматты түрде бас тартуға тырысады.
 protections-panel-cookie-banner-view-cancel = Бас тарту
 protections-panel-cookie-banner-view-turn-off = Сөндіру
 protections-panel-cookie-banner-view-turn-on = Іске қосу

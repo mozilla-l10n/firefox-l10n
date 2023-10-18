@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Сақталған cookie файлда�
 about-private-browsing-cookie-banners-promo-header = Cookie баннерлері жоғалсын!
 about-private-browsing-cookie-banners-promo-button = Cookie баннерлерін азайту
 about-private-browsing-cookie-banners-promo-message = Мазасыз шолуға қайта оралу үшін { -brand-short-name } cookie файлдарының қалқымалы терезелеріне автоматты түрде жауап беруге рұқсат беріңіз. { -brand-short-name } мүмкіндігінше барлық сұрауларды қабылдамайды.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } сіз үшін cookie баннерлерін қолға алады
+about-private-browsing-cookie-banners-promo-body = Біз қазір көптеген cookie баннерлерінен автоматты түрде бас тартамыз, осылайша олар сізді азырақ қадағалап, сізге алаңдатпай шолуға оралуыңызға болады.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
