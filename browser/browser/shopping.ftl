@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Пікірлерді тексеру құралында жарнаманы көрсету
 shopping-settings-recommendations-learn-more = Сәйкес өнімдерге арналған  жарнамаларды анда-санда көретін боласыз. Барлық жарнамалар біздің пікірлер сапа стандарттарына сай болуы керек. <a data-l10n-name="review-quality-url">Көбірек білу</a>
+shopping-settings-recommendations-learn-more2 = Сәйкес өнімдерге арналған кездейсоқ жарнамаларды көресіз. Біз тек сенімді пікірлері бар өнімдерді жарнамалаймыз. <a data-l10n-name="review-quality-url">Көбірек білу</a>
 shopping-settings-opt-out-button = Пікірлерді тексеру құралын сөндіру
 powered-by-fakespot = Пікірлерді тексеру құралы <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> негізінде жұмыс істейді.
 
