@@ -130,6 +130,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = { -brand-short-name } awtomatisce wočinić, hdyž so waš ličak startuje
     .accesskey = a
+windows-launch-on-login-disabled = Tute nastajenje je so we Windows znjemóžniło. Zo byšće nastajenje změnił, wopytajće <a data-l10n-name="startup-link">Autostart</a> w systemowych nastajenjach.
 startup-restore-warn-on-quit =
     .label = Warnować, hdyž so wobhladowak kónči
 disable-extension =

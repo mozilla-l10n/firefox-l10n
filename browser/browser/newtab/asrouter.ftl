@@ -255,6 +255,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>{ -brand-short-name } ma so kóždy raz wočinić, hdyž swój ličak znowa startujeće?</strong> Nětko móžeće nastajić, zo so { -brand-short-name } awtomatisce wočinja, hdyž swój grat znowa startujeće.
 launch-on-login-learnmore = Dalše informacije
 launch-on-login-infobar-confirm-button = Haj, { -brand-short-name } wočinić
     .accesskey = H
@@ -264,5 +265,6 @@ launch-on-login-infobar-reject-button = Nic nětko
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>{ -brand-short-name } ma so kóždy raz wočinić, hdyž swój ličak znowa startujeće?</strong> Zo byšće swoje startowe nastajenja rjadował, pytajće za „Startować“ w nastajenjach.
 launch-on-login-infobar-final-reject-button = Ně, dźakuju so
     .accesskey = N
