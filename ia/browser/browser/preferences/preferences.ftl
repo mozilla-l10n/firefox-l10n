@@ -977,6 +977,8 @@ cookie-banner-blocker-header = Blocator de bandiera pro cookie
 cookie-banner-learn-more = Pro saper plus
 forms-handle-cookie-banners =
     .label = Reducer bandieras pro cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Refusar automaticamente bandieras pro cookie
 
 ## Privacy Section - Address Bar
 

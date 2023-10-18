@@ -131,6 +131,9 @@ protections-panel-cookie-banner-view-turn-off-for-site = Disactivar le Reduction
 protections-panel-cookie-banner-view-turn-on-for-site = Activar le Reduction de bandieras pro cookies pro iste sito?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Blocator de bandiera pro cookie
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Disactivar le blocada de bandieras pro cookies pro { $host }?
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activar le Blocada bandieras pro cookies pro iste sito?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } clarara le cookies de iste sito e actualisara le pagina. Clarar tote le cookies pote clauder tu connexion o vacuar tu carrettos de compras.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } tenta rejectar automaticamente tote le requestas de cookies sur le sitos supportate.
