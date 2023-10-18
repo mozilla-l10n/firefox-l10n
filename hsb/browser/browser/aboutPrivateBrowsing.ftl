@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Žane składowane placki abo žana hist
 about-private-browsing-cookie-banners-promo-header = Preč z plackowymi chorhojemi!
 about-private-browsing-cookie-banners-promo-button = Plackowe chorhoje redukować
 about-private-browsing-cookie-banners-promo-message = Dajće { -brand-short-name } za was awtomatisce na plackowewuskakowace wokna wotmołwić. zo byšće so k přehladowanju bjez wotwjedźenja wróćił. { -brand-short-name } wšě naprašowanja wotpokaza, jeli móžno.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name }  so za was wo plackowe chorhoje stara
+about-private-browsing-cookie-banners-promo-body = Nětko wjele plackowych chorhojow awtomatisce wotpokazujemy, zo bychu was mjenje slědował a zo byšće so k přehladowanju bjez wotwjedźenja wróćił.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
