@@ -135,7 +135,7 @@ delete-ca-cert-impact = Emboguetéramo, térã nderejeroviavéiramo mboajepyrév
 delete-email-cert-title =
     .title = Ñanduti veve mboajepyréva mboguete
 delete-email-cert-confirm = ¿Añetehápe emboguese ñanduti veve mboajepyréva ko’ã tapicha mba’éva?
-delete-email-cert-impact = Emboguéramo ñanduti veve mboajepyréva peteĩ ava mba’éva, ndaikatumo’ãvéima emondo ñe’ẽveve papapýva tapichápe.
+delete-email-cert-impact = Emboguéramo ñanduti veve mboajepyréva peteĩ ava mba’éva, ndaikatumo’ãvéima emondo ñanduti veve papapýva tapichápe.
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
