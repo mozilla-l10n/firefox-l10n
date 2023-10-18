@@ -16,16 +16,26 @@ videocontrols-exitfullscreen-button =
     .aria-label = నిండు తెర నిష్క్రమించు
 videocontrols-casting-button-label =
     .aria-label = తెరకు ప్రసారంచేయి
+# .offlabel is processed by the video control custom element to be used
+# as a text-track label
 videocontrols-closed-caption-off =
     .offlabel = ఆఫ్
-
+# This string is used as part of the Picture-in-Picture video toggle button when
+# the mouse is hovering it.
+videocontrols-picture-in-picture-label = బొమ్మలో-బొమ్మ
+# This string is used as the label for a variation of the Picture-in-Picture video
+# toggle button when the mouse is hovering over the video.
+videocontrols-picture-in-picture-toggle-label2 = ఈ వీడియోను బయటకు తీయి
+# This string is used as part of a variation of the Picture-in-Picture video toggle
+# button. When using this variation, this string appears below the toggle when the
+# mouse hovers the toggle.
+videocontrols-picture-in-picture-explainer3 = ఎన్ని తెరలు ఉంటే అంత ఆనందం. మీరు వేరే పనులు చేసుకుంటూ, ఈ వీడియోను ఆనందించండి.
 videocontrols-error-aborted = వీడియో లోడవడం ఆగిపోయింది.
 videocontrols-error-network = వీడియో ప్లేబ్యాక్ నెట్వర్క్ లోపం కారణంగా విరమించబడెను.
 videocontrols-error-decode = ఫైలు పాడైన కారణంగా వీడియో ప్లే కాబడలేదు.
 videocontrols-error-src-not-supported = వీడియో ఫార్మాట్ లేదా MIME రకముకు తోడ్పాటు లేదు.
 videocontrols-error-no-source = తోడ్పాటు నిచ్చు ఫార్మాట్ లేదా MIME రకముతో యే వీడియో కనబడలేదు.
 videocontrols-error-generic = ఒక తెలియని తప్పిదం వల్ల వీడియో ప్లేబాక్ నిలిచిపోయింది.
-
 # This message shows the current position and total video duration
 #
 # Variables:
@@ -39,4 +49,3 @@ videocontrols-error-generic = ఒక తెలియని తప్పిదం
 # duration video, $position would be "5:00" and the string which is
 # surrounded by <span> would be deleted, result string would be "5:00".
 videocontrols-position-and-duration-labels = { $position }<span data-l10n-name="position-duration-format"> / { $duration }</span>
-
