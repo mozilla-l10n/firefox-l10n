@@ -48,6 +48,8 @@ xpinstall-disabled-button =
 #   $addonName (String): the name of the add-on.
 #   $addonId (String): the ID of add-on.
 addon-install-blocked-by-policy = حجب مدير النظام { $addonName } (معرّفها { $addonId }).
+# This message is shown when the installation of add-ons from a domain is blocked by enterprise policy.
+addon-domain-blocked-by-policy = منع مدير النظام هذا الموقع من سؤالك بتثبيت برمجيّات على حاسوبك.
 addon-install-full-screen-blocked = يُمنع تثبيت الإضافات في وضع ملء الشاشة، أو قبل الدخول إليه.
 # Variables:
 #   $addonName (String): the localized name of the sideloaded add-on.
@@ -55,6 +57,10 @@ webext-perms-sideload-menu-item = أُضيف { $addonName } إلى { -brand-shor
 # Variables:
 #   $addonName (String): the localized name of the extension which has been updated.
 webext-perms-update-menu-item = يحتاج { $addonName } صلاحيات جديدة
+# This message is shown when one or more extensions have been imported from a
+# different browser into Firefox, and the user needs to complete the import to
+# start these extensions. This message is shown in the appmenu.
+webext-imported-addons = الانتهاء من تثبيت الامتدادات المستوردة إلى { -brand-short-name }
 
 ## Add-on removal warning
 
@@ -122,6 +128,7 @@ addon-install-error-incorrect-hash = تعذر تنصيب هذه الإضافة �
 addon-install-error-corrupt-file = تعذر تنصيب الإضافة المنزلة من هذا الموقع لأنها تبدو تالفة.
 addon-install-error-file-access = تعذر تنصيب الإضافة { $addonName } لأن { -brand-short-name } عجز عن تعديل الملف المطلوب.
 addon-install-error-not-signed = منع { -brand-short-name } هذا الموقع من تنصيب إضافة لم يتحقق منها.
+addon-install-error-invalid-domain = تعذر تثبيت إضافة { $addonName } من هذا المكان.
 addon-local-install-error-network-failure = تعذر تنصيب هذه الإضافة بسبب عطل في نظام الملفات.
 addon-local-install-error-incorrect-hash = تعذر تنصيب هذه الإضافة لأنها لم تتوافق مع توقعات { -brand-short-name }.
 addon-local-install-error-corrupt-file = تعذر تنصيب هذه الإضافة لأنها تبدو تالفة.
