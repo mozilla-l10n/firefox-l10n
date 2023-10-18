@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Demandar al sitos web de non vender ni compartir mi datos
     .accesskey = v
+non-technical-privacy-header = Preferentias de confidentialitate del sito
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,6 +970,10 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reduction de banner pro le cookies
 cookie-banner-handling-description = { -brand-short-name } automaticamente tenta rejectar requestas de cookies sur bandieras pro cookies, sur le sitos supportate.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blocator de bandiera pro cookie
 cookie-banner-learn-more = Pro saper plus
 forms-handle-cookie-banners =
     .label = Reducer bandieras pro cookies
@@ -1002,6 +1007,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Actiones rapide
     .accesskey = r
+addressbar-locbar-recentsearches-option =
+    .label = Recercas recente
+    .accesskey = R
 addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 addressbar-quickactions-learn-more = Pro saper plus
 
