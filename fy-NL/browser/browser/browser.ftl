@@ -565,6 +565,8 @@ urlbar-result-action-switch-tab = Wikselje nei ljepblêd
 urlbar-result-action-visit = Besykje
 # Allows the user to visit a URL that was previously copied to the clipboard.
 urlbar-result-action-visit-from-your-clipboard = Besykje fan jo klamboerd ôf
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Besykje fan klamboerd ôf
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -617,6 +619,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Flugge aksjes
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Resinte sykopdrachten
 
 ## Reader View toolbar buttons
 
