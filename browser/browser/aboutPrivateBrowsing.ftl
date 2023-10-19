@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Ingen lagrede infokapsler eller histori
 about-private-browsing-cookie-banners-promo-header = Fjern infokapselbannere!
 about-private-browsing-cookie-banners-promo-button = Reduser infokapselbannere
 about-private-browsing-cookie-banners-promo-message = La { -brand-short-name } automatisk svare på sprettoppvinduer om infokapsler for deg slik at du kan gå tilbake til distraksjonsfri surfing. { -brand-short-name } vil avvise alle forespørsler hvis mulig.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } tar seg av infokapselbannere for deg
+about-private-browsing-cookie-banners-promo-body = Vi nekter nå automatisk mange infokapselbannere, slik at du kan spores mindre og gå tilbake til distraksjonsfri surfing.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
