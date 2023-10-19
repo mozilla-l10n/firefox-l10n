@@ -616,6 +616,11 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = أظهر اقتراحات البحث في نتائج شريط العناوين
     .accesskey = ت
+# With this option enabled, on the search results page
+# the URL will be replaced by the search terms in the address bar
+# when using the current default search engine.
+search-show-search-term-option =
+    .label = عرض كلمات البحث بدلا من المسار في صفحة نتائج محرك البحث المبدئي
 # This string describes what the user will observe when the system
 # prioritizes search suggestions over browsing history in the results
 # that extend down from the address bar. In the original English string,
@@ -733,6 +738,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = أنت تُزامن هذه العناصر عبر جميع أجهزتك المتصلة:
 sync-currently-syncing-bookmarks = العلامات
 sync-currently-syncing-history = التأريخ
 sync-currently-syncing-tabs = الألسنة المفتوحة
@@ -754,6 +760,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = ح
     .buttonlabelextra2 = اقطع الاتصال…
     .buttonaccesskeyextra2 = ق
+sync-choose-dialog-subtitle = ستعكس التغييرات على قائمة العناصر المراد مزامنة عبر كل أجهزتك المتصلة.
 sync-engine-bookmarks =
     .label = علاماتي
     .accesskey = م
@@ -945,8 +952,12 @@ sitedata-option-block-cross-site-trackers =
     .label = المتعقّبات بين المواقع
 sitedata-option-block-cross-site-tracking-cookies =
     .label = الكعكات التي تتعقّبك بين المواقع
+sitedata-option-block-cross-site-cookies =
+    .label = متعقّبات الكعكات التي تعبر المواقع، واعزل الكعكات الأخرى بين المواقع
 sitedata-option-block-unvisited =
     .label = الكعكات من المواقع غير المُزارة
+sitedata-option-block-all-cross-site-cookies =
+    .label = كل الكعكات بين المواقع (قد تتسبب بتعطُل المواقع)
 sitedata-option-block-all =
     .label = كل الكعكات (يمكن أن تعطب المواقع هكذا)
 sitedata-clear =
@@ -995,6 +1006,7 @@ addressbar-suggestions-settings = غيّر تفضيلات اقتراحات مح�
 content-blocking-enhanced-tracking-protection = الحماية الموسّعة من التعقب
 content-blocking-section-top-level-description = تحاول المتعقّبات معرفة ما تفعل على الشبكة دومًا وجمع المعلومات التي تخصّ عاداتك في التصفّح كما واهتماماتك. يحجب { -brand-short-name } أكثر هذه المتعقّبات وغيرها من سكربتات ضارة.
 content-blocking-learn-more = اطّلع على المزيد
+content-blocking-fpi-incompatibility-warning = أنت تستخدم عزل الطرف الأول (FPI)، والذي يتخطى بعض إعدادات كعكات { -brand-short-name }.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

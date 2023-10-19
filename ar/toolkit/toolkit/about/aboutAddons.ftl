@@ -29,6 +29,9 @@ list-empty-button =
 help-button = دعم الإضافات
 sidebar-help-button-title =
     .title = دعم الإضافات
+addons-settings-button = إعدادات { -brand-short-name }
+sidebar-settings-button-title =
+    .title = إعدادات { -brand-short-name }
 show-unsigned-extensions-button =
     .label = تعذّر التحقق من بعض الامتدادات
 show-all-extensions-button =
@@ -134,6 +137,13 @@ addon-category-available-updates-title =
 addon-category-recent-updates = التحديثات الأخيرة
 addon-category-recent-updates-title =
     .title = التحديثات الأخيرة
+addon-category-sitepermission = تصاريح الموقع
+addon-category-sitepermission-title =
+    .title = تصاريح المواقع
+# String displayed in about:addons in the Site Permissions section
+# Variables:
+#  $host (string) - DNS host name for which the webextension enables permissions
+addon-sitepermission-host = تصاريح الموقع ل{ $host }
 
 ## These are global warnings
 
@@ -150,6 +160,9 @@ extensions-warning-update-security2 =
     .message = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
 extensions-warning-update-security-button = فعّل
     .title = فعّل التحقق من أمن تحديثات الإضافات
+extensions-warning-imported-addons = رجاءً إنهي تثبيت الامتدادات التي استوردت إلى { -brand-short-name }.
+extensions-warning-imported-addons2 =
+    .message = رجاءً إنهي تثبيت الامتدادات التي استوردت إلى { -brand-short-name }.
 extensions-warning-imported-addons-button = تثبيت الامتدادات
 
 ## Strings connected to add-on updates
@@ -347,6 +360,10 @@ addon-detail-updates-radio-on = مفعّل
 addon-detail-updates-radio-off = معطّل
 addon-detail-update-check-label = التمس التحديثات
 install-update-button = حدّث
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -355,13 +372,24 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = إن سمحت به فسيملك هذا الامتداد تصريح الوصول إلى نشاطك على الإنترنت وأنت تتصفح تصفحا خاصا. <a data-l10n-name="learn-more">اطّلع على المزيد</a>
 addon-detail-private-browsing-allow = مسموح
 addon-detail-private-browsing-disallow = غير مسموح
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = شغل في المواقع التي لها قيود
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = عند السماح بالامتداد، سيكون له حق الوصول إلى المواقع المقيدة بواسطة { -vendor-short-name }. السماح فقط إذا كنت تثق بهذا الامتداد.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = اسمح
 addon-detail-quarantined-domains-disallow = لا تسمح
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -379,6 +407,9 @@ release-notes-error = المعذرة، ولكن حصل خطأ أثناء تحم�
 addon-permissions-empty = لا يطلب هذا الامتداد أيّ صلاحيات
 recommended-extensions-heading = الامتدادات المقترحة
 recommended-themes-heading = السمات المقترحة
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
+addon-sitepermissions-required = يمنح الإمكانيات التالية لـ <span data-l10n-name="hostname">{ $hostname }</span>:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
 recommended-theme-1 = ترى فيك الإبداع؟ <a data-l10n-name="link">اصنع سمتك الخاصة باستعمال Firefox Color.</a>
