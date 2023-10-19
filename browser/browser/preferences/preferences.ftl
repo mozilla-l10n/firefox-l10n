@@ -79,6 +79,21 @@ restart-later = أعِد التشغيل لاحقًا
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = يتحكم <img data-l10n-name="icon"/>{ $name } </strong> في هذا الإعداد.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = يتحكم <img data-l10n-name="icon"/>{ $name } </strong> في هذا الإعداد.
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = يتطلب <img data-l10n-name="icon"/>{ $name }</strong> ألسنة الحاوية.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = يتحكم <img data-l10n-name="icon"/>{ $name } </strong> في هذا الإعداد.
+# This string is shown to notify the user that their proxy configuration preferences
+# are being controlled by an extension.
+extension-controlling-proxy-config = يتحكم <img data-l10n-name ="icon"/> <strong>{ $name }</strong> في كيفية اتصال { -brand-short-name } بالإنترنت.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
@@ -112,6 +127,7 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = عطّل الامتداد
 preferences-data-migration-header = استورد بيانات المتصفح
+preferences-data-migration-description = استورد العلامات وكلمات السر والتأريخ وبيانات الملء الآلي إلى { -brand-short-name }.
 preferences-data-migration-button =
     .label = استورد البيانات
     .accesskey = د
@@ -192,9 +208,34 @@ containers-remove-cancel-button = لا تزِل هذه الحاوية
 
 language-and-appearance-header = اللغة و المظهر
 preferences-web-appearance-header = مظهر الموقع
+preferences-web-appearance-description = تكيف بعض المواقع مخطط ألوانها بناء على تفضيلاتك. أختر مخطط الألوان الذي تريد إستخدامه لهذه المواقع.
 preferences-web-appearance-choice-auto = تلقائي
 preferences-web-appearance-choice-light = فاتح
 preferences-web-appearance-choice-dark = داكن
+preferences-web-appearance-choice-tooltip-auto =
+    .title = غيّر تلقائيًا خلفيات الموقع و المحتوى بناءً على إعدادات نظامك و سمة { -brand-short-name }.
+preferences-web-appearance-choice-tooltip-light =
+    .title = استخدم مظهرًا فاتح لخلفيات ومحتوى موقع الويب.
+preferences-web-appearance-choice-tooltip-dark =
+    .title = استخدم مظهرًا داكنًا لخلفيات موقع الويب ومحتواه.
+preferences-web-appearance-choice-input-auto =
+    .aria-description = { preferences-web-appearance-choice-tooltip-auto.title }
+preferences-web-appearance-choice-input-light =
+    .aria-description = { preferences-web-appearance-choice-tooltip-light.title }
+preferences-web-appearance-choice-input-dark =
+    .aria-description = { preferences-web-appearance-choice-tooltip-dark.title }
+# This can appear when using windows HCM or "Override colors: always" without
+# system colors.
+preferences-web-appearance-override-warning = إن اختياراتك للألوان تهيمن على مظهر موقع الويب. <a data-l10n-name="colors-link">إدارة الألوان</a>
+# This message contains one link. It can be moved within the sentence as needed
+# to adapt to your language, but should not be changed.
+preferences-web-appearance-footer = أدِر سمات { -brand-short-name } في الامتدادات والسمات <a data-l10n-name="themes-link"></a>
+preferences-colors-header = الألوان
+preferences-colors-description = تجاوز ألوان { -brand-short-name } الافتراضية للنص، و خلفيات الموقع، و الروابط.
+preferences-colors-manage-button =
+    .label = أدِر الألوان…
+    .accesskey = ر
+preferences-fonts-header = الخطوط
 default-font = الخط المبدئي
     .accesskey = ط
 default-font-size = الحجم
@@ -337,6 +378,7 @@ applications-use-os-default-label =
 
 ##
 
+applications-handle-new-file-types-description = ما الذي يجب أن يفعله { -brand-short-name } مع الملفات الأخرى؟
 applications-save-for-new-types =
     .label = احفظ الملفات
     .accesskey = ح
@@ -373,6 +415,9 @@ update-application-warning-cross-user-setting = سيُطبّق هذا الإعد
 update-application-use-service =
     .label = استخدم خدمة تعمل في الخلفية لتنصيب التحديثات
     .accesskey = خ
+update-application-suppress-prompts =
+    .label = أظهر عدد أقل من مطالبات إشعارات التحديث
+    .accesskey = { "" }
 update-setting-write-failure-title2 = حدث عُطل أثناء تحديث الإعدادات
 # Variables:
 #   $path (string) - Path to the configuration file
@@ -910,6 +955,9 @@ sitedata-cookies-exceptions =
     .accesskey = ت
 
 ## Privacy Section - Cookie Banner Handling
+
+
+## Privacy Section - Cookie Banner Blocking
 
 
 ## Privacy Section - Address Bar

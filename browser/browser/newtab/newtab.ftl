@@ -223,6 +223,7 @@ newtab-pocket-saved = حُفظت
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
 newtab-pocket-onboarding-discover = اكتشف أفضل ما في الويب
+newtab-pocket-onboarding-cta = يستكشف { -pocket-brand-name } مجموعة متنوعة من المنشورات لتجد المحتوى الأكثر إطلاعا وإلهاما وموثوقا به في متصفحك { -brand-product-name }.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
@@ -255,6 +256,7 @@ newtab-custom-pocket-toggle =
     .label = مُقترح من { -pocket-brand-name }
     .description = محتوى مميّز جمعه لك { -pocket-brand-name }، وهو جزء من عائلة { -brand-product-name }
 newtab-custom-pocket-sponsored = قصص مموّلة
+newtab-custom-pocket-show-recent-saves = أظهِر عمليات الحفظ الأخيرة
 newtab-custom-recent-title = أحدث الأنشطة
 newtab-custom-recent-subtitle = مختارات من المواقع والمحتويات الحديثة
 newtab-custom-recent-toggle =

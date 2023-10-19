@@ -103,6 +103,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = د
 protections-panel-content-blocking-breakage-report-view =
     .title = أبلِغ عن موقع معطوب
+protections-panel-content-blocking-breakage-report-view-description2 = حجب متعقبات معينة قد يتسبب بالمشاكل لبعض المواقع. الإبلاغ عن هذه المشاكل يساعد على جعل { -brand-short-name } أفضل للجميع. إرسال هذا البلاغ سيرسل عنوان بريدك ومعلومات عن إعدادات المتصفح لديك إلى { -vendor-short-name }.
 protections-panel-content-blocking-breakage-report-view-collection-url = المسار
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = المسار
@@ -116,3 +117,18 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 # Cookie Banner Handling
 
+protections-panel-cookie-banner-handling-header = تخفيض لافتة ملف التعريف
+protections-panel-cookie-banner-handling-enabled = فعله لهذا الموقع
+protections-panel-cookie-banner-handling-disabled = عطله لهذا الموقع
+protections-panel-cookie-banner-handling-undetected = الموقع غير مدعوم حاليا
+protections-panel-cookie-banner-view-title =
+    .title = تخفيض لافتة ملف التعريف
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-view-turn-off-for-site = أتريد تعطيل تخفيض لافتة ملف التعريف ل{ $host }؟
+protections-panel-cookie-banner-view-turn-on-for-site = أتريد تفعيل تخفيض لافتة ملف التعريف لهذا الموقع؟
+protections-panel-cookie-banner-view-cookie-clear-warning = سيمسح { -brand-short-name } كعكات هذا الموقع و ينعش الصفحة. مسحك كل الكعكات قد يخرجك أو يمسح خانات التسوق.
+protections-panel-cookie-banner-view-turn-on-description = يحاول { -brand-short-name } رفض جميع طلبات ملفات تعريف الارتباط تلقائيًا على المواقع المدعومة.
+protections-panel-cookie-banner-view-cancel = ألغِ
+protections-panel-cookie-banner-view-turn-off = عطّل
+protections-panel-cookie-banner-view-turn-on = فعّل
