@@ -90,6 +90,7 @@ permissions-exceptions-cookie-desc = يمكنك تحديد المواقع الت
 permissions-exceptions-https-only-window2 =
     .title = الاستثناءات - وضع HTTPS فقط
     .style = { permissions-window2.style }
+permissions-exceptions-https-only-desc = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع. لا تطبق الاستثناءات على النوافذ الخاصة.
 permissions-exceptions-https-only-desc2 = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع.
 
 ## Exceptions - Pop-ups

@@ -463,6 +463,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = استخدم اللّف السلس
     .accesskey = خ
+browsing-gtk-use-non-overlay-scrollbars =
+    .label = أظهِر أشرطة التمرير دائمًا
+    .accesskey = ش
 browsing-use-onscreen-keyboard =
     .label = اعرض لوحة مفاتيح باللمس عند الضرورة
     .accesskey = م
@@ -1183,6 +1186,8 @@ preferences-doh-header = DNS عبر HTTPS
 preferences-doh-setting-enabled =
     .label = حماية متزايدة
     .accesskey = ة
+preferences-doh-strict-desc = سيستخدم { -brand-short-name } دائما DNS آمن. سترى تحذير خطر أمني قبل أن نستخدم نظام DNS الخاص بك.
+preferences-doh-strict-detailed-desc-2 = حذر دائما إذا كان DNS الآمن غير متاح
 
 ## The following strings are used in the Download section of settings
 
