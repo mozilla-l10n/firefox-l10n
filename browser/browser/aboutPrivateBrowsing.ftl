@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Aucun cookie ni historique enregistré.
 about-private-browsing-cookie-banners-promo-header = Fini les bannières de cookies !
 about-private-browsing-cookie-banners-promo-button = Réduire les bannières de cookies
 about-private-browsing-cookie-banners-promo-message = Laisser { -brand-short-name } répondre automatiquement aux popups de cookies pour une navigation sans distraction. { -brand-short-name } rejettera toutes les demandes si possible.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s’occupe pour vous des demandes de cookies.
+about-private-browsing-cookie-banners-promo-body = Désormais, nous refusons automatiquement de nombreuses demandes de dépôt de cookies. Vous pouvez ainsi subir moins de pistage et retrouver une navigation sans distractions.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
