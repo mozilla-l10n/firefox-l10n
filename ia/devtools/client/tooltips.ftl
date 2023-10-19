@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> ha nulle effecto sur 
 inactive-css-ruby-element = <strong>{ $property }</strong> ha nulle effecto sur iste elemento pois que il es un elemento ruby. Su dimension es determinate per le dimension del characteres del texto ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos evidentiate.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> non es supportate sur pseudo-elementos ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> non ha alcun effecto sur iste elemento perque illo ha plus que { $lineCount } linea.
+       *[other] <strong>{ $property }</strong> non ha alcun effecto sur iste elemento perque illo ha plus que { $lineCount } lineas.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> non ha alcun effecto sur iste elemento perque illo es fragmentate, i.e. su contento es scindite inter plure columnas o paginas.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -67,6 +75,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = Prova adder <strong>over
 inactive-css-border-image-fix = Sur le elemento de tabella parente, remover le proprietate o cambia le valor de <strong>border-collapse</strong> a un valor differente de <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Prova cambiar le <strong>dimensiones de characteres</strong> del texto ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Tenta reducer le numero de lineas. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Evita scinder le contento del elemento p. ex. per remover le columnas o per <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

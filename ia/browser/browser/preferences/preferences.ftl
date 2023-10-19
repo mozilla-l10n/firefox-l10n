@@ -974,6 +974,7 @@ cookie-banner-handling-description = { -brand-short-name } automaticamente tenta
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blocator de bandiera pro cookie
+cookie-banner-blocker-description = Quando un sito demanda si illes pote usar cookies in le modo navigation private, { -brand-short-name } automaticamente refusa pro te. Solo sur sitos supportate.
 cookie-banner-learn-more = Pro saper plus
 forms-handle-cookie-banners =
     .label = Reducer bandieras pro cookies
