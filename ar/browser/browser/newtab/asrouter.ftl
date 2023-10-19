@@ -186,11 +186,17 @@ firefoxview-cfr-body-v2 = استعد الألسنة المغلقة مؤخرًا�
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = قل مرحبًا لـ { -firefoxview-brand-name }
+# “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
+firefoxview-spotlight-promo-subtitle = أتريد أن يكون هذا اللسان مفتوحا على هاتفك؟ أمسكها. أتحتاج ذلك الموقع الذي زرته للتو؟ ها قد عاد مع { -firefoxview-brand-name }.
 
 ## Colorways expiry reminder CFR
 
 colorways-cfr-primarybutton = اختر مسار الألوان
     .accesskey = س
+# "shades" refers to the different color options available to users in colorways.
+colorways-cfr-body = لون متصفحك بظلال حصرية { -brand-short-name } مستوحاة من الأصوات التي غيرت الثقافة.
+colorways-cfr-header-28days = تنتهي أصوات مسار الألوان المستقلة في 16 يناير
+colorways-cfr-header-14days = تنتهي صلاحية أصوات مسار الألوان المستقلة خلال أسبوعين
 colorways-cfr-header-7days = تنتهي صلاحية أصوات مسار الألوان المستقلة هذا الأسبوع
 colorways-cfr-header-today = تنتهي صلاحية أصوات مسار الألوان المستقلة اليوم
 
@@ -209,15 +215,21 @@ july-jam-headline = لقد قمنا بتغطيتك
 july-jam-body = كل شهر، يحظر { -brand-short-name } ما يزيد عن 3000 متعقّبات لكل مستخدم في المتوسط، مما يعطيك وصول آمن وسريع إلى الإنترنت الجيد.
 july-jam-set-default-primary = افتح روابطي مع { -brand-short-name }
 fox-doodle-pin-headline = مرحبًا بعودتك
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = هذا تذكير سريع يمكنك من خلاله أن تبقي متصفحك الشخصي المفضل على بعد نقرة واحدة فحسب.
+fox-doodle-pin-primary = افتح روابطي مع { -brand-short-name }
 fox-doodle-pin-secondary = ليس الآن
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
+set-default-pdf-handler-headline = <strong>يُفتح الآن ملفات PDF الخاصة بك في { -brand-short-name }.</strong> حرر النماذج أو التوقيع عليها مباشرةً في متصفحك. للتغيير، ابحث عن "PDF" في الإعدادات.
 set-default-pdf-handler-primary = فهمت
 
 ## FxA sync CFR
 
 fxa-sync-cfr-header = جهاز جديد في مستقبلك؟
+fxa-sync-cfr-body = تأكد من أن أحدث العلامات وكلمات السر والألسنة تأتي معك في أي وقت تفتح متصفح { -brand-product-name } جديد.
 fxa-sync-cfr-primary = اطّلع على المزيد
     .accesskey = ل
 fxa-sync-cfr-secondary = ذكّرني لاحقًا
@@ -226,6 +238,8 @@ fxa-sync-cfr-secondary = ذكّرني لاحقًا
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = هل تستخدم جهازًا قديمًا؟
+device-migration-fxa-spotlight-body = انسخ بياناتك إحتياطياً لتتأكد من عدم خسارة المعلومات المهمة مثل العلامات وكلمات السر — خصوصاً إذا انتقلت إلى جهاز جديد.
+device-migration-fxa-spotlight-primary-button = كيفية عمل نسخة احتياطية من بياناتي
 device-migration-fxa-spotlight-link = ذكّرني لاحقًا
 
 ## Set as Default PDF Reader Infobar

@@ -22,6 +22,7 @@ content-blocking-cookies-view-blocked-label =
 #   $domain (String): the domain of the site.
 content-blocking-cookies-view-remove-button =
     .tooltiptext = امسح استثناء الكعكات في { $domain }
+tracking-protection-icon-active = يحجب متعقبات مواقع التواصل الاجتماعي، و الكعكات المتعقبة بين المواقع، و مسجلات البصمات.
 tracking-protection-icon-active-container =
     .aria-label = { tracking-protection-icon-active }
 tracking-protection-icon-disabled = عُطّلت الحماية الموسّعة من التعقب في هذا الموقع.

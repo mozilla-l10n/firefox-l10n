@@ -76,6 +76,7 @@ permissions-invalid-uri-label = رجاءً أدخل اسم مستضيف صالح
 permissions-exceptions-etp-window2 =
     .title = استثناءات الحماية الموسّعة من التعقب
     .style = { permissions-window2.style }
+permissions-exceptions-manage-etp-desc = يمكنك تحديد أي مواقع أوقفت الحماية الموسّعة من التعقب. اكتب عنوان الموقع الذي تريد إدارته بدقة ثم انقر أضف إستثناء.
 
 ## Exceptions - Cookies
 
@@ -89,6 +90,7 @@ permissions-exceptions-cookie-desc = يمكنك تحديد المواقع الت
 permissions-exceptions-https-only-window2 =
     .title = الاستثناءات - وضع HTTPS فقط
     .style = { permissions-window2.style }
+permissions-exceptions-https-only-desc2 = يمكنك تعطيل وضع HTTPS فقط لمواقع بعينها. لن يحاول { -brand-short-name } ترقية الاتصال لتأمين HTTPS لهذه المواقع.
 
 ## Exceptions - Pop-ups
 
@@ -175,9 +177,11 @@ permissions-site-microphone-disable-desc = سيمنع هذا مواقع الوب
 permissions-site-speaker-window =
     .title = الإعدادات - تصاريح مكبر الصوت
     .style = { permissions-window2.style }
+permissions-site-speaker-desc = طلبت المواقع الآتية إختيار جهاز خرج صوتي. يمكنك تحديد أي مواقع يسمح لها باختيار جهاز خرج صوت.
 permissions-exceptions-doh-window =
     .title = استثناءات مواقع الويب لنظام DNS عبر HTTPS
     .style = { permissions-window2.style }
+permissions-exceptions-manage-doh-desc = لن يستخدم { -brand-short-name } DNS آمن في هذه المواقع و مجالاتها الفرعية.
 permissions-doh-entry-field = أدخل اسم نطاق الموقع
     .accesskey = خ
 permissions-doh-add-exception =
