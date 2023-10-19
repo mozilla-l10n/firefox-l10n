@@ -15,6 +15,8 @@ translations-panel-settings-button =
 translations-panel-settings-manage-languages =
     .label = أدر اللغات
 translations-panel-settings-about = حول الترجمات في { -brand-shorter-name }
+translations-panel-settings-about2 =
+    .label = حول الترجمات في { -brand-shorter-name }
 # Text displayed for the option to always translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language

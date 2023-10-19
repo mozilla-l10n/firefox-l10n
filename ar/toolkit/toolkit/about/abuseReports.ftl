@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
@@ -80,6 +79,10 @@ abuse-report-settings-reason-v2 = غيّر محرّك البحث أو الصفح
 abuse-report-settings-suggestions = قبل الإبلاغ عن الامتداد، جرّب تعديل إعداداتك:
 abuse-report-settings-suggestions-search = غيّر إعدادات البحث المبدئية
 abuse-report-settings-suggestions-homepage = غيّر الصفحة الرئيسة وصفحة اللسان الجديد
+abuse-report-broken-suggestions-extension =
+    يبدو أنك حددت علة. بالإضافة إلى تقديم تقرير هنا، أفضل طريقة
+    لحل مشكلة وظيفية هو التواصل مع مطور الامتداد.
+    <a data-l10n-name="support-link"> زُر موقع الامتداد على الويب</a> للحصول على معلومات المطور.
 abuse-report-unwanted-reason-v2 = لم أرده من الأساس ولا أعلم كيف أحذفه
 abuse-report-unwanted-example = أمثلة: أحد التطبيقات ثبّته دون طلب ذلك مني
 abuse-report-other-reason = شيء آخر

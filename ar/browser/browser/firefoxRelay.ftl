@@ -11,6 +11,9 @@
 
 ##
 
+firefox-relay-get-unlimited-masks =
+    .label = أدِر الأقنعة
+    .accesskey = ق
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = احمِ عنوان بريدك الإلكتروني:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which

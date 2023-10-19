@@ -10,6 +10,9 @@ search-header =
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
 
+list-empty-get-extensions-message = احصل على الامتدادات والسمات على <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-dictionaries-message = احصل على القواميس على <a data-l10n-name="get-extensions">{ $domain }</a>
+list-empty-get-language-packs-message = احصل على حزم اللغات على <a data-l10n-name="get-extensions">{ $domain }</a>
 
 ##
 

@@ -168,6 +168,7 @@ mr2022-onboarding-get-started-primary-subtitle = أحدث نسخة منا تدو
 
 ## MR2022 Import Settings screen strings
 
+mr2022-onboarding-import-header = إعداد بسرعة البرق
 mr2022-onboarding-import-primary-button-label-no-attribution = استورِدها من المتصفّح السابق
 
 ## If your language uses grammatical genders, in the description for the
