@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = Prova adder <strong>display:table-cell</strong
 inactive-scroll-padding-when-not-scroll-container-fix = Prova adder <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, o <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Sur le elemento de tabella parente, remover le proprietate o cambia le valor de <strong>border-collapse</strong> a un valor differente de <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Prova cambiar le <strong>dimensiones de characteres</strong> del texto ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Tenta reducer le numero de lineas. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
