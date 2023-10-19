@@ -246,6 +246,8 @@ device-migration-fxa-spotlight-link = Pózdźej dopomnjeś
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Cośo  { -brand-short-name } k swójomu standardnemu PDF-cytakoju cyniś</strong> Wužywajśo { -brand-short-name }, aby PDF cytał a wobźěłał, kótarež su se składli na wašom licadle.
 pdf-default-notification-set-default-button =
     .label = Ako standard wužywaś
 pdf-default-notification-decline-button =
@@ -253,6 +255,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>{ -brand-short-name } ma se kuždy raz wócyniś, gaž swójo licadło znowego startujośo?</strong> Něnto móžośo nastajiś, až se { -brand-short-name } awtomatiski wócynja, gaž swój rěd znowego startujośo.
 launch-on-login-learnmore = Dalšne informacije
 launch-on-login-infobar-confirm-button = Jo, { -brand-short-name } wócyniś
     .accesskey = J
@@ -262,5 +265,6 @@ launch-on-login-infobar-reject-button = Nic něnto
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>{ -brand-short-name } ma se kuždy raz wócyniś, gaž swójo licadło znowego startujośo?</strong> Aby swóje startowe nastajenja zastojał, pytajśo za „Startowaś“ w nastajenjach.
 launch-on-login-infobar-final-reject-button = Ně, źěkujom se
     .accesskey = N

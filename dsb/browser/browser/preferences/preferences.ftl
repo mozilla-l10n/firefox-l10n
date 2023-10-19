@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websydłam k wěsći daś, až njamaju móje daty pśedaś abo źěliś
     .accesskey = d
+non-technical-privacy-header = Nastajenja priwatnosći websedła
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -126,6 +127,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Pjerwjejšne wokna a rejtariki wócyniś
     .accesskey = P
+windows-launch-on-login =
+    .label = { -brand-short-name } awtomatiski wócyniś, gaž se wašo licadło startujo
+    .accesskey = c
+windows-launch-on-login-disabled = Toś to nastajenje jo se znjemóžniło we Windows. Aby nastajenje změnił, woglědajśo se k <a data-l10n-name="startup-link">Autostart</a> w systemowych nastajenjach.
 startup-restore-warn-on-quit =
     .label = Warnowaś, gaž se wobglědowak kóńcy
 disable-extension =
@@ -973,9 +978,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reducěrowanje cookiejowych chórgojow
 cookie-banner-handling-description = { -brand-short-name } awtomatiski wopytujo, cookiejowe napšašowanja za cookiejowymi chórgojami na pódprětych sedłach wótpokazaś.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blokěrowak cookiejowych chórgojow
+cookie-banner-blocker-description = Gaž se sedło pšaša, lěc móžo cookieje w priwatnem modusu wužywaś, { -brand-short-name } to za was awtomatiski wótpokazujo. Jano za pódprěte sedła.
 cookie-banner-learn-more = Dalšne informacije
 forms-handle-cookie-banners =
     .label = Cookieje chórgoji reducěrowaś
+cookie-banner-blocker-checkbox-label =
+    .label = Cookiejowe  chórgoje awtomatiski wótpokazaś
 
 ## Privacy Section - Address Bar
 
@@ -1006,6 +1018,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Malsne akcije
     .accesskey = M
+addressbar-locbar-recentsearches-option =
+    .label = Nejnowše pytanja
+    .accesskey = N
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 addressbar-quickactions-learn-more = Dalšne informacije
 

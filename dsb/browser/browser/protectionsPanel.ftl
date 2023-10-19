@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reducěrowanje cookiejowych chórgojow
+protections-panel-cookie-banner-blocker-header = Blokěrowak cookiejowych chórgojow
 protections-panel-cookie-banner-handling-enabled = Za toś to sedło zmóžnjony
 protections-panel-cookie-banner-handling-disabled = Za toś to sedło znjemóžnjony
 protections-panel-cookie-banner-handling-undetected = Sedło se tuchylu njepódpěra
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Reducěrowanje cookiejowych chórgojow za { $host } znjemóžniś?
 protections-panel-cookie-banner-view-turn-on-for-site = Reducěrowanje cookiejowych chórgojow za toś to sedło zmóžniś?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blokěrowak cookiejowych chórgojow
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blokěrowak cookiejowych chórgojow za { $host } znjemóžniś?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blokěrowak cookiejowych chórgojow za toś to sedło zmóžniś?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } cookieje sedła lašujo a buźo bok aktualizěrowaś. Lašowanje wšych cookiejow móžo was pśizjawiś abo nakupowańske wózyki wuprozniś.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } wopytujo wšykne cookiejowe napšašowanja na pódprětych sedłach awtomatiski wótpokazaś.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžniśo toś to nastajenje a { -brand-short-name } wopytajo, cookiejowe chórgoje na toś tom sedle awtomatiski wótpokazaś.
 protections-panel-cookie-banner-view-cancel = Pśetergnuś
 protections-panel-cookie-banner-view-turn-off = Znjemóžniś
 protections-panel-cookie-banner-view-turn-on = Zmóžniś
