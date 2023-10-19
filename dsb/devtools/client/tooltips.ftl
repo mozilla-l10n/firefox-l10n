@@ -40,6 +40,16 @@ inactive-css-border-image = <strong>{ $property }</strong> njama wustatkowanje n
 inactive-css-ruby-element = <strong>{ $property }</strong> njama wustatkowanje na toś ten element, dokulaž jo element ruby. Jeje wjelikosć se pśez wjelikosć pisma teksta ruby póstaja.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> se za pseudoelementy wuzwignjenja njepódpěra.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> se za pseudoelementy ::cue njepódpěra.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njama wěcej ako { $lineCount } smužku.
+        [two] <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njama wěcej ako { $lineCount } smužce.
+        [few] <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njama wěcej ako { $lineCount } smužki.
+       *[other] <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž njama wěcej ako { $lineCount } smužki.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> njama efekt na toś ten element, dokulaž jo fragmentěrowany, t. gr. jogo wopśimjeśe jo na někotare słupy abo boki rozdźělone.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +76,7 @@ inactive-css-not-table-cell-fix = Wopytajśo <strong>display:table-cell</strong>
 inactive-scroll-padding-when-not-scroll-container-fix = Wopytajśo, <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> abo <strong>overflow:hidden</strong> pśidaś. { learn-more }
 inactive-css-border-image-fix = Wótwónoźćo na nadrědowanem elemenśe tabele kakosć abo změńśo gódnotu kakosći <strong>border-collapse</strong> do gódnoty, kótaraž se wót <strong>collapse</strong> rozeznawa. { learn-more }
 inactive-css-ruby-element-fix = Wopytajśo <strong>font-size</strong> teksta ruby změniś. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Wopytajśo licbu smužkow reducěrowaś. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
