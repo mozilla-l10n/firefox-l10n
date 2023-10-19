@@ -832,6 +832,8 @@ forms-breach-alerts =
     .label = اعرض تنبيهات بكلمات السر المتسرّبة من المواقع
     .accesskey = ت
 forms-breach-alerts-learn-more-link = اطّلع على المزيد
+preferences-relay-integration-checkbox =
+    .label = اقترح أقنعة بريد { -relay-brand-name } لحماية عنوان بريدك الإلكتروني
 relay-integration-learn-more-link = اطّلع على المزيد
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =

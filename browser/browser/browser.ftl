@@ -229,6 +229,7 @@ quickactions-private2 = افتح نافذة خاصة
 quickactions-screenshot3 = خذ لقطة شاشة
 # Opens about:preferences
 quickactions-settings2 = أدِر الإعدادات
+quickactions-cmd-settings = الإعدادات، التفضيلات، الخيارات
 # Opens the view-source UI with current pages source
 quickactions-viewsource2 = اعرض مصدر هذه الصفحة
 
