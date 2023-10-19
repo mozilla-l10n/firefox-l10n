@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Advertinsjes toane yn beoardielingskontrôle
 shopping-settings-recommendations-learn-more = Jo sille sa no en dan advertinsjes sjen foar relevante produkten. Alle advertinsjes moatte foldwaan oan ús kwaliteitsnoarmen foar beoardielingen. <a data-l10n-name="review-quality-url">Mear ynfo</a>
+shopping-settings-recommendations-learn-more2 = Jo sjogge sa no en dan advertinsjes foar relevante produkten. Wy advertearje allinnich foar produkten mei betroubere beoardielingen. <a data-l10n-name="review-quality-url">Mear ynfo</a>
 shopping-settings-opt-out-button = Beoardielingskontrôle útskeakelje
 powered-by-fakespot = Beoardielingskontrôle wurdt mooglik makke troch <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
