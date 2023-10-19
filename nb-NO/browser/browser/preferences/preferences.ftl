@@ -969,9 +969,15 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Redusering av infokapselbanner
 cookie-banner-handling-description = { -brand-short-name } prøver automatisk å avvise infokapselforespørsler på infokapselbannere på støttede nettsteder.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blokkering av infokapselbanner
 cookie-banner-learn-more = Les mer
 forms-handle-cookie-banners =
     .label = Reduser infokapselbannere
+cookie-banner-blocker-checkbox-label =
+    .label = Avslå automatisk infokapselbannere
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1008,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-locbar-recentsearches-option =
+    .label = Nylige søk
+    .accesskey = N
 addressbar-suggestions-settings = Endre innstillinger for søkeforslag
 addressbar-quickactions-learn-more = Les mer
 
