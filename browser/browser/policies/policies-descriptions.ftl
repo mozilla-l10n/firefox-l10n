@@ -12,6 +12,7 @@
 
 policy-3rdparty = ضبط السياسات التي يمكن لامتدادات الوِب WebExtensions الوصول إليها عبر chrome.storage.managed.
 policy-AppAutoUpdate = تفعيل/تعطيل تحديث التطبيق تلقائيًا.
+policy-AppUpdatePin = منع تحديث { -brand-short-name } خارج نطاق الإصدارة المحددة.
 policy-AppUpdateURL = ضبط مسار التحديث المخصّص للتطبيق.
 policy-Authentication = ضبط الاستيثاق المتكامل مع المواقع التي تدعمه.
 policy-BackgroundAppUpdate2 = تفعيل/تعطيل أداة التحديث في الخلفية.

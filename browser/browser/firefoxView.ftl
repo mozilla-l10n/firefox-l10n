@@ -29,6 +29,7 @@ firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
 
 ## Message displayed in Firefox View when the user has no history data
 
+firefoxview-history-empty-description-two = حماية خصوصيتك هي في صميم ما نقوم به. ولهذا السبب يمكنك التحكم في النشاط الذي يتذكره { -brand-short-name }، في <a data-l10n-name="history-settings-url">إعدادات التأريخ</a>.
 
 ##
 
