@@ -967,6 +967,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Маҳдудкунии баннери куки
 cookie-banner-handling-description = «{ -brand-short-name }» ба таври худкор кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро аз баннерҳои куки дар сомонаҳои дастгиришаванда рад кунад.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Маълумоти бештар
 forms-handle-cookie-banners =
     .label = Маҳдуд кардани баннерҳои куки
@@ -1000,6 +1003,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Амалҳои зуд
     .accesskey = А
+addressbar-locbar-recentsearches-option =
+    .label = Ҷустуҷӯҳои охирин
+    .accesskey = Ҷ
 addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
 addressbar-quickactions-learn-more = Маълумоти бештар
 
