@@ -969,6 +969,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Evästeilmoitusten vähennys
 cookie-banner-handling-description = { -brand-short-name } pyrkii automaattisesti vastaamaan kielteisesti evästepyyntöihin tuetuilla sivustoilla.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Lue lisää
 forms-handle-cookie-banners =
     .label = Vähennä evästeilmoituksia
@@ -1002,6 +1005,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Pikatoiminnot
     .accesskey = Q
+addressbar-locbar-recentsearches-option =
+    .label = Viimeisimmät haut
+    .accesskey = V
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-quickactions-learn-more = Lue lisää
 
