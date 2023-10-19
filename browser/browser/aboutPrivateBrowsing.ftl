@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = Gjin bewarre cookies of skiednis, direk
 about-private-browsing-cookie-banners-promo-header = Farwel cookiebanners!
 about-private-browsing-cookie-banners-promo-button = Cookiebanners redusearje
 about-private-browsing-cookie-banners-promo-message = Lit { -brand-short-name } cookie-pop-ups automatysk foar jo beäntwurdzje, sadat jo wer sneupe kinne sûnder ôflieding. { -brand-short-name } wiist alle fersiken ôf as it mooglik is.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } rekkenet foar jo ôf mei cookiebanners
 
 ## Strings for Felt Privacy v1 experiments in 119
 
