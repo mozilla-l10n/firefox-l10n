@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = أخبر مواقع الويب بعدم بيع بياناتي أو مشاركتها
     .accesskey = ش
+non-technical-privacy-header = تفضيلات خصوصية الموقع
 settings-page-title = الإعدادات
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -963,6 +964,7 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-learn-more = اطّلع على المزيد
 
 ## Privacy Section - Address Bar
 
@@ -974,6 +976,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = العلامات
     .accesskey = ع
+addressbar-locbar-clipboard-option =
+    .label = الحافظة
+    .accesskey = ظ
 addressbar-locbar-openpage-option =
     .label = الألسنة المفتوحة
     .accesskey = ف
@@ -987,7 +992,14 @@ addressbar-locbar-topsites-option =
 addressbar-locbar-engines-option =
     .label = محركات البحث
     .accesskey = ح
+addressbar-locbar-quickactions-option =
+    .label = إجراءات سريعة
+    .accesskey = س
+addressbar-locbar-recentsearches-option =
+    .label = عمليات البحث الحديثة
+    .accesskey = م
 addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
+addressbar-quickactions-learn-more = اطّلع على المزيد
 
 ## Privacy Section - Content Blocking
 
@@ -1087,6 +1099,9 @@ permissions-microphone = الميكروفون
 permissions-microphone-settings =
     .label = الإعدادات…
     .accesskey = ع
+permissions-speaker-settings =
+    .label = الإعدادات…
+    .accesskey = د
 permissions-notification = التنبيهات
 permissions-notification-settings =
     .label = الإعدادات…
@@ -1102,6 +1117,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = احجب النوافذ المنبثقة
     .accesskey = ذ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = الاستثناءات…
+    .accesskey = ث
+    .searchkeywords = { "" }
 permissions-addon-install-warning =
     .label = حذّرني عندما يحاول موقع وِب تنصيب إضافات
     .accesskey = ح
