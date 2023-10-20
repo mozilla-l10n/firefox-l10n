@@ -974,6 +974,7 @@ cookie-banner-handling-description = { -brand-short-name } probearret cookiefers
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Blokkearring fan cookiebanners
+cookie-banner-blocker-description = Wannear’t in website freget oft cookies yn de priveenavigaasjemodus brûkt wurde meie, wegeret { -brand-short-name } automatysk foar jo. Allinnich op stipe websites.
 cookie-banner-learn-more = Mear ynfo
 forms-handle-cookie-banners =
     .label = Cookiebanners redusearje
