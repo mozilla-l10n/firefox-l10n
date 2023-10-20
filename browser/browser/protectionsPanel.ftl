@@ -4,7 +4,7 @@
 
 protections-panel-sendreportview-error = მოხდა შეცდომა, მოხსენების გადაგზავნისას. გთხოვთ, სცადოთ მოგვიანებით.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
-protections-panel-sitefixedsendreport-label = საიტი გასწორდა? მოგვახსენეთ
+protections-panel-sitefixedsendreport-label = საიტი გამოსწორდა? მოგვახსენეთ
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = ფუნთუშის მოთხოვნების შემცირება
+protections-panel-cookie-banner-blocker-header = ფუნთუშის მოთხოვნების შემზღუდავი
 protections-panel-cookie-banner-handling-enabled = ჩართ. ამ საიტზე
 protections-panel-cookie-banner-handling-disabled = გამორთ. ამ საიტზე
 protections-panel-cookie-banner-handling-undetected = ეს საიტი ჯერ არაა მხარდაჭერილი
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = გამოირთოს ფუნთუშის მოთხოვნების შემცირება საიტზე { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = ჩაირთოს ფუნთუშის მოთხოვნების შემცირება ამ საიტზე?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = ფუნთუშის მოთხოვნების შემზღუდავი
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = გამოითიშოს ფუნთუშის მოთხოვნების შეზღუდვიდან { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = გამოითიშოს ფუნთუშის მოთხოვნების შეზღუდვა ამ საიტზე?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } გაასუფთავებს ამ საიტის ფუნთუშებს და განაახლებს გვერდს. ყველა ფუნთუშის წაშლით შეიძლება გამოხვიდეთ ანგარიშებიდან და დაცარიელდეს საყიდლების კალათა.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების არჩევის ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
+protections-panel-cookie-banner-blocker-view-turn-on-description = ჩართეთ და { -brand-short-name } შეეცდება თავადვე უარყოს ფუნთუშის მოთხოვნები ამ საიტზე.
 protections-panel-cookie-banner-view-cancel = გაუქმება
 protections-panel-cookie-banner-view-turn-off = გამორთვა
 protections-panel-cookie-banner-view-turn-on = ჩართვა
