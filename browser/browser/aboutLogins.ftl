@@ -4,6 +4,9 @@
 # NOTE: New strings should use the about-logins- prefix.
 
 about-logins-page-title = جلسات الولوج وكلمات السر
+about-logins-login-filter =
+    .placeholder = البحث في جلسات الولوج
+    .key = F
 create-new-login-button =
     .title = أنشِئ جلسة ولوج جديدة
 fxaccounts-sign-in-text = استعمل كلمات السر لحساباتك في أجهزتك الأخرى
@@ -41,6 +44,18 @@ login-list-count =
         [few] { $count } جلسات ولوج
         [many] { $count } جلسة ولوج
        *[other] { $count } جلسة ولوج
+    }
+# Variables
+#   $count (number) - Number of filtered logins
+#   $total (number) - Total number of logins
+login-list-filtered-count =
+    { $total ->
+        [zero] { $count } من أصل { $total } جلسة ولوج
+        [one] { $count } من أصل { $total } جلسة ولوج
+        [two] { $count } من أصل { $total } جلسة ولوج
+        [few] { $count } من أصل { $total } جلسة ولوج
+        [many] { $count } من أصل { $total } جلسات الولوج
+       *[other] { $count } من أصل { $total } جلسات الولوج
     }
 login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
