@@ -655,6 +655,9 @@ bookmarks-toolbar-placeholder =
     .title = عناصر شريط العلامات
 bookmarks-toolbar-placeholder-button =
     .label = عناصر شريط العلامات
+# "Bookmark" is a verb, as in "Add current tab to bookmarks".
+bookmarks-subview-bookmark-tab =
+    .label = علّم اللسان الحالي…
 
 ## Library Panel items
 

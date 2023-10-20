@@ -235,6 +235,8 @@ menu-bookmarks-menu =
     .accesskey = ع
 menu-bookmarks-manage =
     .label = أدِر العلامات
+menu-bookmark-tab =
+    .label = علّم اللسان الحالي…
 # "Search" is a verb, as in "Search in bookmarks"
 menu-bookmarks-search =
     .label = ابحث في العلامات
