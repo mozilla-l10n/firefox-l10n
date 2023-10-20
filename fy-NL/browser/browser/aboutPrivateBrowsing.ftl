@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = Lit { -brand-short-name } 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } rekkenet foar jo ôf mei cookiebanners
+about-private-browsing-cookie-banners-promo-body = In protte cookiebanners wurde no automatysk wegere, sadat jo minder folge wurde kinne en werom kinne nei ôfliedingsfrij navigearje.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
