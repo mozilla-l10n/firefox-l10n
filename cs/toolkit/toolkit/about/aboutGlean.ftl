@@ -85,6 +85,11 @@ about-glean-adhoc-explanation =
     otevřením konzole devtools zde na <code>about:glean</code>.
     a pomocí rozhraní API <code>testGetValue()</code> jako např.
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Upozorňujeme, že používáte rozhraní API Glean JS pomocí konzole devtools.
+    To znamená, že kategorie metriky a název metriky jsou formátovány ve formátu
+    <code>camelCase</code> na rozdíl od rozhraní API Rustu a C++.
 controls-button-label-verbose = Použít nastavení a odeslat ping
 about-glean-about-data-header = O datech
 about-glean-about-data-explanation =
