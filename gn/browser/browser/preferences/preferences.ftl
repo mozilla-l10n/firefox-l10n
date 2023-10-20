@@ -974,6 +974,7 @@ cookie-banner-handling-description = { -brand-short-name } omboykese ijehegui op
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Ejoko Banner kookie rehegua
+cookie-banner-blocker-description = Peteĩ tenda oporandúramo oiporukuaápa kookie ñeikundaha ñemi ayvúpe jave, { -brand-short-name } ombotove ijeheguiete. Tenda ojokupytývape añoite.
 cookie-banner-learn-more = Kuaave
 forms-handle-cookie-banners =
     .label = Emomichĩ kookie banner

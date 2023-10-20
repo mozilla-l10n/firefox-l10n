@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = Eheja { -brand-short-name 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ojapyhy umi banner kookie rehegua nde rérape
+about-private-browsing-cookie-banners-promo-body = Ko’ág̃a romboyke pya’e heta kookie ñe’ẽmondo sa’ive hag̃uáicha ojehapykueho ha eikundahakuaa hag̃ua opañuãi’ỹre.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
