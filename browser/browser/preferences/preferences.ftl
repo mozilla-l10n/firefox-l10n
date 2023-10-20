@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Říkat stránkám, aby neprodávaly a nesdílely vaše data
     .accesskey = s
+non-technical-privacy-header = Předvolby ochrany soukromí na webových stránkách
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -1089,9 +1090,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Omezení cookie lišt
 cookie-banner-handling-description = { -brand-short-name } se automaticky snaží odmítat lišty s žádostmi o povolení cookies na podporovaných serverech.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blokování lišt cookie
+cookie-banner-blocker-description = Když se stránka zeptá, zda může používat soubory cookie v režimu anonymního prohlížení, { -brand-short-name } to automaticky odmítne. K dispozici pouze na podporovaných stránkách.
 cookie-banner-learn-more = Zjistit více
 forms-handle-cookie-banners =
     .label = Omezit cookie lišty
+cookie-banner-blocker-checkbox-label =
+    .label = Automaticky odmítnout lišty cookie
 
 ## Privacy Section - Address Bar
 
@@ -1122,6 +1130,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rychlé akce
     .accesskey = R
+addressbar-locbar-recentsearches-option =
+    .label = Nedávno vyhledávané
+    .accesskey = N
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-quickactions-learn-more = Zjistit více
 

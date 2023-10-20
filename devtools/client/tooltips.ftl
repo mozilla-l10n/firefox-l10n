@@ -66,6 +66,7 @@ inactive-css-not-table-cell-fix = Zkuste přidat <strong>display:table-cell</str
 inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> nebo <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = V nadřazeném prvku tabulky odstraňte vlastnost nebo změňte hodnotu <strong>border-collapse</strong> na jinou hodnotu než <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Zkuste změnit <strong>font-size</strong> textu prvku ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Pokuste se snížit počet řádků. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
