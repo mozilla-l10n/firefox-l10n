@@ -96,6 +96,7 @@ shopping-settings-label =
     .label = Ñemboheko
 shopping-settings-recommendations-toggle =
     .label = Ehechauka ñemurã marandu’i rechajeyhápe
+shopping-settings-recommendations-learn-more = Ehecháta ñemurã sapy’apy’a apopyre iporãvare. Opaite ñemurã ohecháta mba’épa ejapóta omoneĩ hag̃ua ne rembiapo. <a data-l10n-name="review-quality-url">Eikuaave</a>
 shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 powered-by-fakespot = Pe marandu’i jehechajey oioo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ndive.
 
