@@ -24,9 +24,12 @@ migration-wizard-migrator-display-name-safari = سافاري
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-instructions-step1 = اختر "تابع"
 
 ## These strings will be displayed based on how many resources are selected to import
 
+migration-all-available-data-label = استورد كل البيانات المتاحة
+migration-no-selected-data-label = لم تحدد بيانات للاستيراد
 
 ##
 
