@@ -20,11 +20,17 @@ migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = ميكروسوفت إنترنت إكسبلورر
 migration-wizard-migrator-display-name-safari = سافاري
 
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
+
 ## These strings will be displayed based on how many resources are selected to import
 
 
 ##
 
+migration-select-all-option-label = اختر الكل
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -53,6 +59,7 @@ migration-passwords-from-file-tsv-filter-title =
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
+
 
 ##
 

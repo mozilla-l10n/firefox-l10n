@@ -34,6 +34,7 @@ about-private-browsing-focus-promo-text = يمسح تطبيق الهاتف لل�
 
 about-private-browsing-focus-promo-header-b = جرّب التصفح الخاص من هاتفك
 about-private-browsing-focus-promo-text-b = استعمل { -focus-brand-name } كي تبحث عما تريد بخصوصية ولا تريد لمتصفّح الهاتف الرئيس أن يرى ما تفعل.
+about-private-browsing-focus-promo-header-c = مستوى أعلى من الخصوصية على الهاتف المحمول
 about-private-browsing-focus-promo-text-c = يمسح { -focus-brand-name } تأريخ التصفّح في كل مرة، وفي نفس الوقت يمنع الإعلانات والمتعقّبات.
 # This string is the title for the banner for search engine selection
 # in a private window.
@@ -52,6 +53,7 @@ about-private-browsing-promo-close-button =
 
 ## Strings used in a “pin promotion” message, which prompts users to pin a private window
 
+about-private-browsing-pin-promo-title = لن تحفظ ملفات تعريف الارتباط ولا التاريخ، مباشرة من سطح مكتبك. تصفح وكأن لا أحد يراقبك.
 
 ## Strings used in a promotion message for cookie banner reduction
 
@@ -60,3 +62,6 @@ about-private-browsing-cookie-banners-promo-message = اسمح لـ { -brand-sho
 
 ## Strings for Felt Privacy v1 experiments in 119
 
+about-private-browsing-felt-privacy-v1-info-header = لا تترك أي أثر على هذا الجهاز
+about-private-browsing-felt-privacy-v1-info-body = يحذف { -brand-short-name } الكعكات، و التأريخ، و بيانات الموقع عندما تغلق كل نوافذك الخاصة.
+about-private-browsing-felt-privacy-v1-info-link = من يمكنه رؤية نشاطي؟
