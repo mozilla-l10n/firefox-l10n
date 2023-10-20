@@ -42,5 +42,5 @@ bookmark-overlay-tags-expander-hide =
 bookmark-overlay-keyword-2 =
     .value = საკვანძო სიტყვა
     .accesskey = კ
-bookmark-overlay-tags-caption-label = ჭდეების მეშვეობით დაახარისხეთ სანიშნები და მონახეთ მისამართების ზოლში
+bookmark-overlay-tags-caption-label = ჭდეებით დაახარისხეთ სანიშნები და მოიძიეთ მისამართების ველიდან
 bookmark-overlay-keyword-caption-label-2 = ერთი საკვანძო სიტყვით პირდაპირ გახსენით სანიშნები მისამართების ველიდან
