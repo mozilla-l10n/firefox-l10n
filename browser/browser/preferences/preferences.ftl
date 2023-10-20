@@ -80,6 +80,12 @@ restart-later = أعِد التشغيل لاحقًا
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that Container Tabs
+# are being enabled by an extension.
+extension-controlling-privacy-containers = يتطلب <img data-l10n-name="icon"/><strong>{ $name }</strong> ألسنة الحاوية.
+# This string is shown to notify the user that their content blocking "All Detected Trackers"
+# preferences are being controlled by an extension.
+extension-controlling-websites-content-blocking-all-trackers = يتحكم <img data-l10n-name="icon"/><strong>{ $name }</strong> في هذا الإعداد.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
 extension-controlling-proxy-config = يتحكم <img data-l10n-name ="icon"/> <strong>{ $name }</strong> في كيفية اتصال { -brand-short-name } بالإنترنت.
