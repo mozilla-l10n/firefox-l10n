@@ -1133,6 +1133,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = جمع { -brand-short-name } للبيانات و استخدامها
+collection-header2 = جمع { -brand-short-name } للبيانات و إستخدامها
+    .searchkeywords = telemetry
 collection-description = نبذل جهدنا لإعطائك الخيار و جمع ما نحتاجه فقط لتحسين { -brand-short-name }. نطلب الإذن دائمًا قبل استقبال أي معلومات شخصية.
 collection-privacy-notice = تنويه الخصوصية
 collection-health-report-telemetry-disabled = لم تعد تسمح بأن يلتقط { -vendor-short-name } البيانات التقنية والتفاعلية. ستُحذف البيانات القديمة كلها خلال 30 يومًا.
@@ -1150,6 +1152,7 @@ addon-recommendations-link = اطّلع على المزيد
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = الإبلاغ عن البيانات معطّل في إعدادات البناء
+privacy-segmentation-section-header = خصائص جديدة تعزز تصفحك
 privacy-segmentation-radio-off =
     .label = استخدم توصيات { -brand-product-name }
 privacy-segmentation-radio-on =
@@ -1185,6 +1188,9 @@ certs-view =
 certs-devices =
     .label = أجهزة الأمن…
     .accesskey = ج
+certs-thirdparty-toggle =
+    .label = اسمح بأن يثق { -brand-short-name } تلقائيا بشهادات جذر من أطراف خارجية تقوم بتثبيتها
+    .accesskey = ه
 space-alert-over-5gb-settings-button =
     .label = افتح الإعدادات
     .accesskey = ف
