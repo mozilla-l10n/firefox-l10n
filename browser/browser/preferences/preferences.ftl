@@ -123,6 +123,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Opne tidlegare vindauge og faner
     .accesskey = p
+windows-launch-on-login =
+    .label = Opne { -brand-short-name } automatisk når datamaskina di startar opp
+    .accesskey = O
+windows-launch-on-login-disabled = Denne innstillinga er deaktivert i Windows. For å endre, gå til <a data-l10n-name="startup-link">Oppstartsapper</a> i Systeminnstillingar.
 startup-restore-warn-on-quit =
     .label = Åtvar meg når eg avsluttar nettlesaren
 disable-extension =
@@ -999,6 +1003,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snøgghandlingar
     .accesskey = S
+addressbar-locbar-recentsearches-option =
+    .label = Nylege søk
+    .accesskey = N
 addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-quickactions-learn-more = Les meir
 

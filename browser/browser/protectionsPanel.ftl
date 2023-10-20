@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Redusering av infokapselbanner
+protections-panel-cookie-banner-blocker-header = Blokkering av infokapselbanner
 protections-panel-cookie-banner-handling-enabled = På for denne nettstaden
 protections-panel-cookie-banner-handling-disabled = Av for denne nettstaden
 protections-panel-cookie-banner-handling-undetected = Nettstaden er for augneblinken ikkje støtta
@@ -128,6 +129,8 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Vil du deaktivere reduksjon av infokapselbanner for { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Aktiver reduksjon av infokapselbanner på denne nettstaden
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blokkering av infokapselbanner
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vill slette infokapslar og oppdatere sida. Sletting av alle infokapslar kan føre til at du blir logga ut eller at handlekorger blir tømde.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } prøver å automatisk avvise alle infokapselførespurnadar på støtta nettstadar.
 protections-panel-cookie-banner-view-cancel = Avbryt
