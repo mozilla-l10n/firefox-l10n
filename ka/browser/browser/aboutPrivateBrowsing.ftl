@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = არანაირი კვალ�
 about-private-browsing-cookie-banners-promo-header = ფუნთუშის მოთხოვნის აბრებო, გაქრით!
 about-private-browsing-cookie-banners-promo-button = შეამცირეთ ფუნთუშის მოთხოვნები
 about-private-browsing-cookie-banners-promo-message = დართეთ ნება და { -brand-short-name } თავადვე უპასუხებს ფუნთუშების ამომხტარ მოთხოვნებს, რომ შეუფერხებლად განაგრძოთ გვერდების მონახულება. { -brand-short-name } უარყოფს ყველას, როცა კი შესაძლებელია.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } თავადვე მოიცილებს ფუნთუშების მოთხოვნებს
+about-private-browsing-cookie-banners-promo-body = ახლა უკვე თავისთავადაა შესაძლებელი ფუნთუშის მოთხოვნების უარყოფა, ასე რომ შეგიძლიათ აირიდოთ ზედმეტი თვალთვალი და ყურადღების გაფანტვა გვერდების მონახულებისას.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
