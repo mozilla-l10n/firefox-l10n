@@ -44,10 +44,10 @@ inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> w
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
     { $lineCount ->
-        [one] <strong>{ $property }</strong> heeft geen effect op dit element omdat het meer dan { $lineCount } regel bevat.
-       *[other] <strong>{ $property }</strong> heeft geen effect op dit element omdat het meer dan { $lineCount } regels bevat.
+        [one] <strong>{ $property }</strong> heeft geen effect op dit element, omdat het meer dan { $lineCount } regel bevat.
+       *[other] <strong>{ $property }</strong> heeft geen effect op dit element, omdat het meer dan { $lineCount } regels bevat.
     }
-inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> heeft geen effect op dit element omdat het gefragmenteerd is, d.w.z. de inhoud is verdeeld over meerdere kolommen of pagina’s.
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> heeft geen effect op dit element, omdat het gefragmenteerd is, d.w.z. de inhoud is verdeeld over meerdere kolommen of pagina’s.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
