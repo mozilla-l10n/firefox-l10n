@@ -80,6 +80,12 @@ restart-later = أعِد التشغيل لاحقًا
 ## Variables:
 ##   $name (string) - Name of the extension
 
+# This string is shown to notify the user that the password manager setting
+# is being controlled by an extension
+extension-controlling-password-saving = يتحكم <img data-l10n-name="icon"/><strong>{ $name }</strong> في هذا الإعداد.
+# This string is shown to notify the user that their notifications permission
+# is being controlled by an extension.
+extension-controlling-web-notifications = يتحكم <img data-l10n-name="icon"/><strong>{ $name }</strong> في هذا الإعداد.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
 extension-controlling-privacy-containers = يتطلب <img data-l10n-name="icon"/><strong>{ $name }</strong> ألسنة الحاوية.

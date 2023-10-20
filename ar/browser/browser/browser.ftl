@@ -5,6 +5,44 @@
 
 ## The main browser window's title
 
+# These are the default window titles everywhere except macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } التصفح الخاص
+    .data-content-title-default = { $content-title } — { -brand-full-name }
+    .data-content-title-private = { $content-title } — { -brand-full-name } التصفح الخاص
+# These are the default window titles on macOS.
+# .data-title-default and .data-title-private are used when the web content
+# opened has no title:
+#
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox — (Private Browsing)"
+#
+# .data-content-title-default and .data-content-title-private are for use when
+# there *is* a content title.
+# Do not use the brand name in these, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac-window-titles =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } — التصفح الخاص
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } — التصفح الخاص
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -63,11 +101,14 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = احصل على مُساعدة
 urlbar-search-tips-confirm = حسنًا، فهمت
+urlbar-search-tips-confirm-short = فهمت
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
 # localized equivalent.
 urlbar-tip-icon-description =
     .alt = فائدة:
+urlbar-result-menu-button =
+    .title = افتح القائمة
 urlbar-result-menu-button-feedback = الانطباع
     .title = فتح القائمة
 urlbar-result-menu-learn-more =
@@ -214,17 +255,30 @@ quickactions-cmd-addons2 = الإضافات
 # Opens the bookmarks library window
 quickactions-bookmarks2 = أدِر العلامات
 quickactions-cmd-bookmarks = العلامات
+# Opens a SUMO article explaining how to clear history
+quickactions-clearhistory = امسح التأريخ
+quickactions-cmd-clearhistory = امسح التأريخ
 # Opens about:downloads page
 quickactions-downloads2 = اعرض التنزيلات
+quickactions-cmd-downloads = التنزيلات
+# Opens about:addons page in the extensions section
+quickactions-extensions = أدِر الامتدادات
 quickactions-cmd-extensions = الامتدادات
 # Opens the devtools web inspector
 quickactions-inspector2 = افتح أدوات المطورين
+quickactions-cmd-inspector = الفاحص، أدوات تطوير
 # Opens about:logins
 quickactions-logins2 = أدِر كلمات السر
+quickactions-cmd-logins = جلسات الولوج، كلمات السر
+# Opens about:addons page in the plugins section
+quickactions-plugins = أدِر الملحقات
+quickactions-cmd-plugins = المُلحقات
 # Opens the print dialog
 quickactions-print2 = اطبع الصفحة
+quickactions-cmd-print = اطبع
 # Opens a new private browsing window
 quickactions-private2 = افتح نافذة خاصة
+quickactions-cmd-private = التصفّح الخاص
 # Opens the screenshot tool
 quickactions-screenshot3 = خذ لقطة شاشة
 # Opens about:preferences
