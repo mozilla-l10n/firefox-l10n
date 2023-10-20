@@ -5,10 +5,33 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ترجم هذه الصفحة
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = ترجم هذه الصفحة - تجريبي
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = جرب الترجمات الخاصة في { -brand-shorter-name } - تجريبي
+# If your language requires declining the language name, a possible solution
+# is to adapt the structure of the phrase, or use a support noun, e.g.
+# `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
+#
+# Variables:
+#   $fromLanguage (string) - The original language of the document.
+#   $toLanguage (string) - The target language of the translation.
+urlbar-translations-button-translated =
+    .tooltiptext = ترجمت الصفحة من { $fromLanguage } إلى { $toLanguage }
 urlbar-translations-button-loading =
     .tooltiptext = ما زال العمل جاريًا على الترجمة
 translations-panel-settings-button =
     .aria-label = أدر إعدادات الترجمة
+# Text displayed on a language dropdown when the language is in beta
+# Variables:
+#   $language (string) - The localized display name of the detected language
+translations-panel-displayname-beta =
+    .label = { $language } الإصدار التجريبي
 
 ## Options in the Firefox Translations settings.
 
@@ -45,6 +68,10 @@ translations-panel-translate-button-loading =
     .label = من فضلك انتظر…
 translations-panel-translate-cancel =
     .label = ألغِ
+translations-panel-learn-more-link = اطّلع على المزيد
+translations-panel-intro-header = جرب الترجمات الخاصة في { -brand-shorter-name }
+translations-panel-intro-description = لخصوصيتك، الترجمات لا تغادر جهازك أبدًا. لغات جديدة وتحسينات قادمة قريبًا!
+translations-panel-error-translating = حدثت مشكلة أثناء الترجمة. من فضلك حاول ثانية.
 translations-panel-error-load-languages = تعذّر تحميل اللغات
 translations-panel-error-load-languages-hint = تحقق من اتصالك بالإنترنت وحاول مرة أخرى.
 translations-panel-error-load-languages-hint-button =
@@ -94,5 +121,14 @@ translations-manage-description = تنزيل اللغات من أجل الترج
 translations-manage-all-language = كل اللغات
 translations-manage-download-button = نزّل
 translations-manage-delete-button = احذف
+translations-manage-error-download = حدثت مشكلة أثناء تنزيل ملفات اللغة. من فضلك حاول ثانية.
+translations-manage-error-delete = حدثت مشكلة أثناء حذف ملفات اللغة. من فضلك حاول ثانية.
+translations-manage-install-description = تثبيت اللغات للترجمة دون اتصال بالإنترنت
+translations-manage-language-install-button =
+    .label = ثبّت
+translations-manage-language-remove-button =
+    .label = أزِل
+translations-settings-never-translate-langs-description = لن تُعرض ترجمة للغات التالية
+translations-settings-never-translate-sites-description = لن تُعرض ترجمة للمواقع التالية
 translations-settings-languages-column =
     .label = اللغات
