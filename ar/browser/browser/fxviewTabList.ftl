@@ -24,3 +24,5 @@ fxviewtabrow-just-now-timestamp = للتو
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+fxviewtabrow-close-tab = أغلق اللسان
+    .accesskey = ق
