@@ -17,17 +17,41 @@ autofill-manage-remove-button = Elimina
 autofill-manage-add-button = Aggiungi…
 autofill-manage-edit-button = Modifica…
 
-##
+## The address capture doorhanger
+
+address-capture-save-doorhanger-header = Salvare l’indirizzo?
+address-capture-save-doorhanger-description = Salva le informazioni in { -brand-short-name } per velocizzare la compilazione dei moduli.
+address-capture-update-doorhanger-header = Aggiornare l’indirizzo?
+address-capture-edit-doorhanger-header = Aggiornamento indirizzo
+
+address-capture-save-button =
+    .label = Salva
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Non adesso
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Annulla
+    .accessKey = n
+address-capture-update-button =
+    .label = Aggiorna
+    .accessKey = A
+address-capture-manage-address-button =
+    .label = Impostazioni indirizzi
+address-capture-learn-more-button =
+    .label = Ulteriori informazioni
 
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nuovo indirizzo
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifica indirizzo
 
+autofill-address-name = Nome
 autofill-address-given-name = Nome
 autofill-address-additional-name = Secondo nome
 autofill-address-family-name = Cognome
 autofill-address-organization = Organizzazione
+autofill-address-street-address = Indirizzo
 autofill-address-street = Indirizzo
 
 ## address-level-3 (Sublocality) names
@@ -82,6 +106,7 @@ autofill-address-eircode = Eircode
 ##
 
 autofill-address-country = Stato o regione
+autofill-address-country-only = Stato
 autofill-address-tel = Telefono
 autofill-address-email = Email
 
