@@ -160,7 +160,7 @@ main-context-menu-copy-link-simple =
 # query parameters used to track users across sites.
 main-context-menu-strip-on-share-link =
     .label = Takip kodunu silerek bağlantıyı kopyala
-    .accesskey = b
+    .accesskey = T
 
 ## Media (video/audio) controls
 ##
