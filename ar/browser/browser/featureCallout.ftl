@@ -5,6 +5,7 @@
 
 ## Firefox View feature tour strings
 
+callout-firefox-view-recently-closed-title = أعد الألسنة المغلقة في لمح البصر
 callout-firefox-view-recently-closed-subtitle = ستظهر هنا جميع الألسنة المغلقة بطريقة سحريَّة. لا تقلق أبدًا بشأن إغلاق الموقع عن طريق الخطأ مرة أخرى.
 callout-firefox-view-colorways-title = أضِف دفقة من لون
 
