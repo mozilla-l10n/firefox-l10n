@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = რეკლამების ჩვენება მიმოხილვის შემმოწმებელში
 shopping-settings-recommendations-learn-more = დროდადრო იხილავთ რეკლამებს გასაყიდი ნაწარმის შესაბამისად. ყველა რეკლამა უნდა აკმაყოფილებდეს მიმოხილვის ხარისხის ჩვენს მოთხოვნებს. <a data-l10n-name="review-quality-url">ვრცლად</a>
+shopping-settings-recommendations-learn-more2 = დროდადრო იხილავთ რეკლამებს გასაყიდი ნაწარმის შესაბამისად. მხოლოდ საიმედო მიმოხილვების მქონეს შემოგთავაზებთ. <a data-l10n-name="review-quality-url">ვრცლად</a>
 shopping-settings-opt-out-button = მიმოხილვის შემმოწმებლის გამორთვა
 powered-by-fakespot = მიმოხილვის შემმოწმებელს უზრუნველყოფს <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
 
