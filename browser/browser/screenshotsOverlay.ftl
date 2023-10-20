@@ -4,3 +4,5 @@
 
 screenshots-overlay-cancel-button = ألغِ
 screenshots-overlay-instructions = اسحب أو انقر في الصفحة لاختيار منطقة. اضغط ESC للإلغاء.
+screenshots-overlay-download-button = نزّل
+screenshots-overlay-copy-button = انسخ
