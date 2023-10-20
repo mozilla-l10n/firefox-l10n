@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ეცნობოს ვებსაიტებს, რომ არ მსურს გაყიდონ ან გააზიარონ ჩემი მონაცემები
     .accesskey = ყ
+non-technical-privacy-header = საიტის პირადულობის პარამეტრები
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = ფუნთუშის მოთხოვნების შემცირება
 cookie-banner-handling-description = { -brand-short-name } ეცდება თავადვე უარყოს ფუნთუშების არჩევის ყველა მოთხოვნა მხარდაჭერილ საიტებზე.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = ფუნთუშის მოთხოვნების შემზღუდავი
+cookie-banner-blocker-description = როდესაც საიტი მოითხოვს ფუნთუშების გამოყენებას პირად რეჟიმში, { -brand-short-name } თავადვე განუცხადებს უარს თქვენ ნაცვლად. იმუშავებს მხოლოდ მხარდაჭერილ საიტებზე.
 cookie-banner-learn-more = ვრცლად
 forms-handle-cookie-banners =
     .label = ფუნთუშის მოთხოვნების შემცირება
+cookie-banner-blocker-checkbox-label =
+    .label = ფუნთუშების მოთხოვნებზე ავტომატური უარი
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = სწრაფი მოქმედებები
     .accesskey = წ
+addressbar-locbar-recentsearches-option =
+    .label = ბოლოს მოძიებული
+    .accesskey = ო
 addressbar-suggestions-settings = საძიებო სისტემის შემოთავაზებების პარამეტრები
 addressbar-quickactions-learn-more = ვრცლად
 
