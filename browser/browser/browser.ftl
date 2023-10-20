@@ -844,6 +844,7 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-panel-description = أغلق كل الألسنة الخاصة واحذف التأريخ والكعكات وكل بيانات المواقع الأخرى.
 
 ## Autorefresh blocker
 
