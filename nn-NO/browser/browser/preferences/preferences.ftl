@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortel nettstadar om å ikkje selje eller dele mine data
     .accesskey = o
+non-technical-privacy-header = Personverninnstillingar for nettstaden
 settings-page-title = Innstillingar
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -961,6 +962,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Redusering av infokapselbanner
 cookie-banner-handling-description = { -brand-short-name } prøver automatisk å avvise infokapselførespurnadar på infokapselbanner på støtta nettstadar.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Les meir
 forms-handle-cookie-banners =
     .label = Reduser infokapselbanner
