@@ -24,5 +24,8 @@ fxviewtabrow-just-now-timestamp = للتو
 # Strings below are used for context menu options within panel-list.
 # For developers, this duplicates command because the label attribute is required.
 
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = علّم…
+    .accesskey = ل
 fxviewtabrow-close-tab = أغلق اللسان
     .accesskey = ق
