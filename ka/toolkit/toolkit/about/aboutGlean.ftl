@@ -85,6 +85,11 @@ about-glean-adhoc-explanation =
     შემმუშავებელთა ხელსაწყოების გახსნით <code>about:glean</code>
     გვერდზე და <code>testGetValue()</code> API-ის მეშვეობით, მაგალითად
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    გაითვალისწინეთ, რომ Glean JS API გამოყენება devtools-ის ბრძანებებისას.
+    ეს ნიშნავს, რომ აზომვების ჯგუფისა და აზომვების დასახელების გაფორმებაა
+    <code>camelCase</code> განსხვავებით Rust და C++ API-ებისგან.
 controls-button-label-verbose = პარამეტრების ასახვა და კრებულის გადაგზავნა
 about-glean-about-data-header = მონაცემთა შესახებ
 about-glean-about-data-explanation =
