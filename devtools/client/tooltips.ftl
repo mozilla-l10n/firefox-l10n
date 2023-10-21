@@ -75,6 +75,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = <strong>overflow:auto</s
 inactive-css-border-image-fix = Атылқ кесте элементінде, осы қасиетті өшіріңіз немесе <strong>border-collapse</strong> мәнін <strong>collapse</strong> мәнінен басқа мәнге орнатыңыз. { learn-more }
 inactive-css-ruby-element-fix = Ruby мәтінінің <strong>font-size</strong> қасиетін өзгертіп көріңіз. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Жолдар санын азайтып көріңіз. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Элемент мазмұнын бөлуге жол бермеңіз, мысалы: бағандарды өшіру арқылы немесе <strong>page-break-inside:avoid</strong> арқылы. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
