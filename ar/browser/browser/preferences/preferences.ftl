@@ -1129,12 +1129,6 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = احجب النوافذ المنبثقة
     .accesskey = ذ
-# "popup" is a misspelling that is more popular than the correct spelling of
-# "pop-up" so it's included as a search keyword, not displayed in the UI.
-permissions-block-popups-exceptions-button =
-    .label = الاستثناءات…
-    .accesskey = ث
-    .searchkeywords = { "" }
 permissions-addon-install-warning =
     .label = حذّرني عندما يحاول موقع وِب تنصيب إضافات
     .accesskey = ح
