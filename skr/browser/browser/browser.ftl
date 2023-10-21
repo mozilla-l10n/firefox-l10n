@@ -912,6 +912,12 @@ unified-extensions-button-quarantined =
         ایکسٹنشناں
         کجھ ایکسٹنشناں دی اجازت کائنی
 
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = منسوخ
+    .accesskey = C
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ایں ورقے کوں آپݨے آپ لوڈ تھیوݨ کنوں روکیا۔
