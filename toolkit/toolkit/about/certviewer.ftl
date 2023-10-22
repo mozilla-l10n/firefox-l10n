@@ -15,7 +15,7 @@ certificate-viewer-algorithm = Algoritmus
 certificate-viewer-certificate-authority = Certifikačná autorita
 certificate-viewer-cipher-suite = Šifrovacia množina
 certificate-viewer-common-name = Bežný názov
-certificate-viewer-email-address = E-mailová adresa
+certificate-viewer-email-address = E‑mailová adresa
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Certifikát pre { $firstCertName }
@@ -81,7 +81,6 @@ certificate-viewer-authority-info-aia = Informácie o autorite
 certificate-viewer-certificate-policies = Pravidlá certifikátu
 certificate-viewer-embedded-scts = Vstavané SCTs
 certificate-viewer-crl-endpoints = CRL koncové body
-
 # This message is used as a row header in the Miscellaneous section.
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Stiahnuť
@@ -101,7 +100,6 @@ certificate-viewer-download-pem = PEM (certifikát)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (reťazec)
     .download = { $fileName }-chain.pem
-
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Toto rozšírenie certifikátu bolo označené ako kritické, čo znamená, že klienti musia certifikát odmietnuť, ak mu nerozumejú.

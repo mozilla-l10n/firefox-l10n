@@ -148,7 +148,7 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = Kopírovať e-mailovú adresu
+    .label = Kopírovať e‑mailovú adresu
     .accesskey = e
 main-context-menu-copy-phone =
     .label = Kopírovať telefónne číslo
@@ -298,7 +298,7 @@ main-context-menu-use-saved-password =
 ##
 
 main-context-menu-use-relay-mask =
-    .label = Použiť e-mailovú masku služby { -relay-brand-short-name }
+    .label = Použiť e‑mailovú masku služby { -relay-brand-short-name }
     .accesskey = R
 main-context-menu-suggest-strong-password =
     .label = Navrhnúť silné heslo…

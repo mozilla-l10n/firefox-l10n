@@ -840,7 +840,7 @@ forms-breach-alerts =
     .accesskey = b
 forms-breach-alerts-learn-more-link = Ďalšie informácie
 preferences-relay-integration-checkbox =
-    .label = Navrhovať e-mailové masky služby { -relay-brand-name } na ochranu vašej e-mailovej adresy
+    .label = Navrhovať e‑mailové masky služby { -relay-brand-name } na ochranu vašej e‑mailovej adresy
 relay-integration-learn-more-link = Ďalšie informácie
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
