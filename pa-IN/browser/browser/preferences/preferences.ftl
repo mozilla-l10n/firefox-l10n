@@ -699,7 +699,7 @@ sync-manage-account = ਖਾਤੇ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 ## $email (string) - Email used for Firefox account
 
 sync-signedin-unverified = { $email } ਜਾਂਚਿਆ ਨਹੀਂ ਹੈ।
-sync-signedin-login-failure = { $email } ਮੁੜ-ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
+sync-signedin-login-failure = { $email } ਨਾਲ ਮੁੜ-ਕਨੈਕਟ ਕਰਨ ਲਈ ਸਾਈਨ ਕਰੋ
 
 ##
 
@@ -969,6 +969,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = ਕੂਕੀ ਬੈਨਰ ਘਟਾਉਣਾ
 cookie-banner-handling-description = { -brand-short-name } ਸਹਾਇਕ ਸਾਈਟਾਂ ਉੱਤੇ ਕੂਕੀ ਬੇਨਤੀਆਂ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਨਾ-ਮਨਜ਼ੂਰ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦਾ ਹੈ।
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = ਹੋਰ ਜਾਣੋ
 forms-handle-cookie-banners =
     .label = ਕੂਕੀਜ਼ ਬੈਨਰ ਘਟਾਓ
