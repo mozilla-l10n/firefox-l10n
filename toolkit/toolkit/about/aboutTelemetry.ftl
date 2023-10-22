@@ -42,7 +42,7 @@ about-telemetry-fetch-stack-symbols = Fetch function names for stacks
 about-telemetry-hide-stack-symbols = Show raw stack data
 # Selects the correct release version
 # Variables:
-#   $channel (String): represents the corresponding release data string
+#   $channel (string) - Represents the corresponding release data string
 about-telemetry-data-type =
     { $channel ->
         [release] ਰੀਲਿਜ਼ ਡਾਟਾ
@@ -50,7 +50,7 @@ about-telemetry-data-type =
     }
 # Selects the correct upload string
 # Variables:
-#   $uploadcase (String): represents a corresponding upload string
+#   $uploadcase (string) - Represents a corresponding upload string
 about-telemetry-upload-type =
     { $uploadcase ->
         [enabled] ਸਮਰੱਥ ਹੈ
@@ -58,46 +58,46 @@ about-telemetry-upload-type =
     }
 # Example Output: 1 sample, average = 0, sum = 0
 # Variables:
-#   $sampleCount (Integer): amount of histogram samples
-#   $prettyAverage (Integer): average of histogram samples
-#   $sum (Integer): sum of histogram samples
+#   $sampleCount (number) - Amount of histogram samples
+#   $prettyAverage (number) - Average of histogram samples
+#   $sum (number) - Sum of histogram samples
 about-telemetry-histogram-stats =
     { $sampleCount ->
         [one] { $sampleCount } ਨਮੂਨੇ, ਔਸਤ= { $prettyAverage }, ਜੋੜ= { $sum }
        *[other] { $sampleCount } ਨਮੂਨੇ, ਔਸਤ= { $prettyAverage }, ਜੋੜ= { $sum }
     }
 # Variables:
-#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+#   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = ਇਹ ਸਫ਼ਾ ਟੈਲੀਮੈਂਟਰੀ ਵਲੋਂ ਕਾਰਗੁਜ਼ਾਰੀ, ਹਾਰਡਵੇਅਰ, ਵਰਤੋਂ ਅਤੇ ਪਸੰਦ ਬਾਰੇ ਇੱਕਠੀ ਕੀਤੀ ਜਾਣਕਾਰੀ ਵੇਖਾਉਂਦਾ ਹੈ। ਇਹ ਜਾਣਕਾਰੀ ਨੂੰ { $telemetryServerOwner } ਨੂੰ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਕਿ { -brand-full-name } ਨੂੰ ਸੁਧਾਰਿਆ ਜਾ ਸਕੇ।
 about-telemetry-settings-explanation = ਟੈਲੀਮੈਂਟਰੀ { about-telemetry-data-type } ਇਕੱਤਰ ਕਰ ਰਿਹਾ ਹੈ ਅਤੇ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a> ਅੱਪਲੋਡ ਕਰਦਾ ਹੈ।
 # Variables:
-#   $name (String): ping name, e.g. “saved-session”
-#   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
+#   $name (string) - Ping name, e.g. “saved-session”
+#   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = ਜਾਣਕਾਰੀ ਦੇ ਹਰ ਹਿੱਸੇ ਨੂੰ <a data-l10n-name="ping-link">ping</a> ਨਾਲ ਇਕੱਠਾ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ { $name }, { $timestamp } ping ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ।
 about-telemetry-data-details-current = ਜਾਣਕਾਰੀ ਦੇ ਹਰ ਹਿੱਸੇ ਨੂੰ <a data-l10n-name="ping-link">ping</a> ਨਾਲ ਇਕੱਠਾ ਭੇਜਿਆ ਜਾਂਦਾ ਹੈ। ਤੁਸੀਂ ਮੌਜੂਦਾ ਡਾਟੇ ਨੂੰ ਵੇਖ ਰਹੇ ਹੋ।
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $selectedTitle (String): the section name from the structure of the ping.
+#   $selectedTitle (string) - The section name from the structure of the ping.
 about-telemetry-filter-placeholder =
     .placeholder = { $selectedTitle } 'ਚ ਲੱਭੋ
 about-telemetry-filter-all-placeholder =
     .placeholder = ਸਾਰੇ ਭਾਗਾਂ 'ਚ ਲੱਭੋ
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-results-for-search = “{ $searchTerms }” ਲਈ ਨਤੀਜੇ
 # More info about it can be found here: https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
 # Variables:
-#   $sectionName (String): the section name from the structure of the ping.
-#   $currentSearchText (String): the current text in the search input
+#   $sectionName (string) - The section name from the structure of the ping.
+#   $currentSearchText (string) - The current text in the search input
 about-telemetry-no-search-results = ਅਫ਼ਸੋਸ! “{ $currentSearchText }” ਲਈ { $sectionName } ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ
 # Variables:
-#   $searchTerms (String): the searched terms
+#   $searchTerms (string) - The searched terms
 about-telemetry-no-search-results-all = ਅਫ਼ਸੋਸ! “{ $searchTerms }” ਲਈ ਕਿਸੇ ਭਾਗ ਵਿੱਚ ਕੋਈ ਨਤੀਜੇ ਨਹੀਂ ਹਨ
 # This message is displayed when a section is empty.
 # Variables:
-#   $sectionName (String): is replaced by the section name.
+#   $sectionName (string) - Is replaced by the section name.
 about-telemetry-no-data-to-display = ਅਫ਼ਸੋਸ! ਇਸ ਵੇਲੇ “{ $sectionName }” ਵਿੱਚ ਕੋਈ ਵੀ ਡਾਟਾ ਉਪਲਬਧ ਨਹੀਂ ਹੈ
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-data-sidebar = ਮੌਜੂਦਾ ਡਾਟਾ
@@ -115,22 +115,22 @@ about-telemetry-slow-sql-statement = ਸਟੇਟਮੈਂਟ
 about-telemetry-addon-table-id = ਐਡ-ਆਨ ID
 about-telemetry-addon-table-details = ਵੇਰਵਾ
 # Variables:
-#   $addonProvider (String): the name of an Add-on Provider (e.g. “XPI”, “Plugin”)
+#   $addonProvider (string) - The name of an Add-on Provider (e.g. “XPI”, “Plugin”)
 about-telemetry-addon-provider = { $addonProvider } ਪਰੋਵਾਈਡਰ
 about-telemetry-keys-header = ਵਿਸ਼ੇਸ਼ਤਾ
 about-telemetry-names-header = ਨਾਂ
 about-telemetry-values-header = ਮੁੱਲ
 # Variables:
-#   $lateWriteCount (Integer): the number of the late writes
+#   $lateWriteCount (number) - The number of the late writes
 about-telemetry-late-writes-title = ਲੇਟ ਲਿਖਣਾ #{ $lateWriteCount }
 about-telemetry-stack-title = ਸਟੈਕ:
 about-telemetry-memory-map-title = ਮੈਮੋਰੀ ਨਕਸ਼ਾ:
-about-telemetry-error-fetching-symbols = ਸਿੰਬਲ ਲੈਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕੁਨੈਕਟ ਹੋ ਅਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
+about-telemetry-error-fetching-symbols = ਸਿੰਬਲ ਲੈਣ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ। ਜਾਂਚ ਕਰੋ ਕਿ ਤੁਸੀਂ ਇੰਟਰਨੈੱਟ ਨਾਲ ਕਨੈਕਟ ਹੋ ਅਤੇ ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ।
 about-telemetry-time-stamp-header = ਸਮਾਂ-ਮੋਹਰ
 about-telemetry-category-header = ਵਰਗ
 about-telemetry-method-header = ਢੰਗ
 about-telemetry-object-header = ਆਬਜੈਕਟ
 about-telemetry-extra-header = ਵਾਧੂ
 # Variables:
-#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+#  $process (string) - Type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } ਪਰੋਸੈਸ
