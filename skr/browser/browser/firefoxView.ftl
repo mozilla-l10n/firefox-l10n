@@ -9,6 +9,8 @@ menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
 firefoxview-page-title = { -firefoxview-brand-name }
+firefoxview-page-label =
+    .label = { -firefoxview-brand-name }
 firefoxview-close-button =
     .title = بند کرو
     .aria-label = بند کرو
@@ -178,5 +180,5 @@ firefoxview-import-history-close-button =
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
-##
+## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
