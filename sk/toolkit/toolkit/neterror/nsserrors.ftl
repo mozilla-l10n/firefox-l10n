@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Nie je možné bezpečne sa pripojiť, pretože protokol SSL je zakázaný.
 psmerr-ssl2-disabled = Nie je možné bezpečne sa pripojiť, pretože server používa staršiu a nie veľmi bezpečnú verziu protokolu SSL.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
-    Prijali ste neplatný certifikát. Obráťte sa na správcu servera alebo odosielateľa e-mailovej správy a poskytnite im tieto informácie:
+    Prijali ste neplatný certifikát. Obráťte sa na správcu servera alebo odosielateľa e‑mailovej správy a poskytnite im tieto informácie:
     
     Váš certifikát obsahuje rovnaké sériové číslo ako iný certifikát vydaný certifikačnou autoritou. Je potrebné získať nový certifikát obsahujúci jedinečné sériové číslo.
-
 ssl-error-export-only-server = Nie je možné bezpečne sa pripojiť. Partner nepodporuje prvotriedne šifrovanie.
 ssl-error-us-only-server = Nie je možné bezpečne komunikovať. Partner vyžaduje prvotriedne šifrovanie, ktoré nie je podporované.
 ssl-error-no-cypher-overlap = S partnerom nie je možné bezpečne komunikovať: žiadny spoločný šifrovací algoritmus.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Nebol nakonfigurovaný žiadny podp
 ssl-error-unsupported-signature-algorithm = Partner používa nepodporovanú kombináciu podpisu a hashovacieho algoritmu.
 ssl-error-missing-extended-master-secret = Partner sa snažil pokračovať bez správneho rozšírenia extended_master_secret.
 ssl-error-unexpected-extended-master-secret = Partner sa snažil pokračovať s neočakávaným rozšírením extended_master_secret.
-
 sec-error-io = Počas bezpečnostného overenia došlo k chybe vstupu a výstupu.
 sec-error-library-failure = chyba bezpečnostnej knižnice.
 sec-error-bad-data = bezpečnostná knižnica: prijaté nesprávne údaje.
@@ -197,7 +194,7 @@ sec-internal-only = **LEN interný modul**
 sec-error-invalid-key = Kľúč nepodporuje požadovanú operáciu.
 sec-error-unknown-critical-extension = Certifikát obsahuje neznáme rizikové rozšírenie.
 sec-error-old-crl = Nové CRL nie je staršie než aktuálne.
-sec-error-no-email-cert = Nešifrované alebo nepodpísané: nemáte zatiaľ e-mailový certifikát.
+sec-error-no-email-cert = Nešifrované alebo nepodpísané: nemáte zatiaľ e‑mailový certifikát.
 sec-error-no-recipient-certs-query = Nešifrované: nemáte certifikáty pre každého príjemcu.
 sec-error-not-a-recipient = Nie je možné dešifrovať: nie ste príjemca, alebo sa nenašiel zodpovedajúci certifikát a privátny kľúč.
 sec-error-pkcs7-keyalg-mismatch = Nie je možné dešifrovať: algoritmus šifrovacieho kľúča nezodpovedá certifikátu.
@@ -320,7 +317,6 @@ sec-error-locked-password = Heslo je zamknuté.
 sec-error-unknown-pkcs11-error = Neznáma chyba PKCS #11.
 sec-error-bad-crl-dp-url = Neplatná alebo nepodporovaná adresa URL v názve lokality distribúcie CRL.
 sec-error-cert-signature-algorithm-disabled = Certifikát bol podpísaný použitím podpisového algoritmu, ktorý je zakázaný, pretože nie je bezpečný.
-
 mozilla-pkix-error-key-pinning-failure = Server používa key pinning (HPKP), ale nebola zložená vhodná reťaz dôveryhodných certifikátov, ktoré sa zhodujú s daným pinsetom. Porušenia key pinning nie je možné ignorovať.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Server používa certifikát s rozšírením základných vymedzení, ktoré ho identifikujú ako certifikačnú autoritu. Toto by sa nemalo stať pre korektne vydaný certifikát.
 mozilla-pkix-error-inadequate-key-size = Server poskytol certifikát s veľkosťou kľúča, ktorá je príliš malá na zostavenie bezpečného spojenia.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Server predložil certifikát, kto
 mozilla-pkix-error-empty-issuer-name = Server poskytol certifikát s prázdnym názvom vydavateľa.
 mozilla-pkix-error-additional-policy-constraint-failed = Pri overovaní tohto certifikátu nebolo splnené dodatočné obmedzujúce pravidlo.
 mozilla-pkix-error-self-signed-cert = Certifikát nie je dôveryhodný, pretože je podpísaný vlastným podpisom.
-
 xp-java-remove-principal-error = Nie je možné odstrániť predstaviteľa
 xp-java-delete-privilege-error = Nie je možné odstrániť právo
 xp-java-cert-not-exists-error = Tento predstaviteľ nemá certifikát
-
 xp-sec-fortezza-bad-card = Karta Fortezza nebola správne inicializovaná. Vyberte ju a vráťte jej vydavateľovi.
 xp-sec-fortezza-no-card = Nenašla sa žiadna karta Fortezza
 xp-sec-fortezza-none-selected = Nie je vybraná žiadna karta Fortezza

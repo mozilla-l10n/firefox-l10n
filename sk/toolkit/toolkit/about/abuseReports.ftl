@@ -23,7 +23,7 @@ abuse-report-learnmore-link = Pozrite sa na ďalšie informácie o nahlasovaní 
 abuse-report-submit-description = Popis problému (voliteľný)
 abuse-report-textarea =
     .placeholder = Ak váš problém podrobne popíšete, môžeme ho jednoduchšie vyriešiť. Ďakujeme vám za hlásenie.
-abuse-report-submit-note = Poznámka: nezadávajte, prosím, žiadne osobné údaje (meno, e-mailovú adresu, telefónne číslo ani adresu). { -vendor-short-name } si tieto hlásenia trvalo ukladá.
+abuse-report-submit-note = Poznámka: nezadávajte, prosím, žiadne osobné údaje (meno, e‑mailovú adresu, telefónne číslo ani adresu). { -vendor-short-name } si tieto hlásenia trvalo ukladá.
 
 ## Panel buttons.
 

@@ -42,7 +42,7 @@ download-cert-message = Vyžaduje sa dôverovať novej certifikačnej autorite.
 download-cert-trust-ssl =
     .label = Dôverovať tejto certifikačnej autorite pri identifikácii serverov.
 download-cert-trust-email =
-    .label = Dôverovať tejto certifikačnej autorite pri identifikácii používateľov e-mailu.
+    .label = Dôverovať tejto certifikačnej autorite pri identifikácii používateľov e‑mailu.
 download-cert-message-desc = Predtým, než sa rozhodnete dôverovať tejto CA pre akýkoľvek účel, mali by ste preskúmať jej certifikát, politiku a procedúry (ak sú k dispozícii).
 download-cert-view-cert =
     .label = Zobraziť
@@ -78,7 +78,7 @@ client-auth-cert-details-validity-period = Platnosť od { $notBefore } do { $not
 client-auth-cert-details-key-usages = Použitie kľúča: { $keyUsages }
 # Variables:
 # $emailAddresses (String) - A list of email addresses present in the certificate
-client-auth-cert-details-email-addresses = E-mailové adresy: { $emailAddresses }
+client-auth-cert-details-email-addresses = E‑mailové adresy: { $emailAddresses }
 # Variables:
 # $issuedBy (String) - The issuer common name of the certificate
 client-auth-cert-details-issued-by = Vydal: { $issuedBy }

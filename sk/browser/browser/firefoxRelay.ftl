@@ -14,18 +14,18 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } nenašiel opakov
 ##
 
 firefox-relay-must-login-to-fxa = Ak chcete používať { -relay-brand-name }, musíte sa prihlásiť do { -fxaccount-brand-name(case: "gen", capitalization: "lower") }.
-firefox-relay-must-login-to-account = Ak chcete používať svoje e-mailové masky služby { -relay-brand-name }, prihláste sa do svojho účtu.
+firefox-relay-must-login-to-account = Ak chcete používať svoje e‑mailové masky služby { -relay-brand-name }, prihláste sa do svojho účtu.
 firefox-relay-get-unlimited-masks =
     .label = Spravovať masky
     .accesskey = m
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
-firefox-relay-opt-in-title-1 = Chráňte svoju e-mailovú adresu:
+firefox-relay-opt-in-title-1 = Chráňte svoju e‑mailovú adresu:
 # This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
 # ends with a colon. You might need to adapt the capitalization of this string.
-firefox-relay-opt-in-subtitle-1 = použite e-mailovú masku služby { -relay-brand-name }
-firefox-relay-use-mask-title = Použite e-mailovú masku služby { -relay-brand-name }
+firefox-relay-opt-in-subtitle-1 = použite e‑mailovú masku služby { -relay-brand-name }
+firefox-relay-use-mask-title = Použite e‑mailovú masku služby { -relay-brand-name }
 firefox-relay-opt-in-confirmation-enable-button =
-    .label = Použiť e-mailovú masku
+    .label = Použiť e‑mailovú masku
     .accesskey = P
 firefox-relay-opt-in-confirmation-disable =
     .label = Nabudúce nezobrazovať

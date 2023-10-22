@@ -97,7 +97,7 @@ neterror-nss-failure-not-verified = Stránku nemožno zobraziť, pretože pravos
 neterror-nss-failure-contact-website = Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
-certerror-intro = Aplikácia { -brand-short-name } rozpoznala potenciálne bezpečnostné riziko a stránku <b>{ $hostname }</b> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e-mailové adresy alebo údaje o platobných kartách.
+certerror-intro = Aplikácia { -brand-short-name } rozpoznala potenciálne bezpečnostné riziko a stránku <b>{ $hostname }</b> nenačítala. Ak sa napriek tomu rozhodnete danú stránku navštíviť, útočníci sa môžu pokúsiť odcudziť vaše informácie, ako napríklad heslá, e‑mailové adresy alebo údaje o platobných kartách.
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 certerror-sts-intro = Aplikácia { -brand-short-name } rozpoznala potenciálne bezpečnostné riziko a stránku <b>{ $hostname }</b> nenačítala, pretože táto webová stránka vyžaduje zabezpečené pripojenie.
@@ -123,7 +123,7 @@ neterror-inadequate-security-code = Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY
 neterror-clock-skew-error = Váš počítač si myslí, že je { DATETIME($now, dateStyle: "medium") }, čo bráni aplikácii { -brand-short-name } bezpečne sa spojiť so serverom. Ak chcete navštíviť <b>{ $hostname }</b>, upravte nastavenia dátumu a času vo vašom počítači na správne hodnoty a obnovte <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Stránka, ktorú sa pokúšate navštíviť nemôže byť zobrazená, pretože bola zistená chyba v sieťovom protokole.
 neterror-network-protocol-error-contact-website = Kontaktujte, prosím, vlastníkov stránky a informujte ich o tomto probléme.
-certerror-expired-cert-second-para = Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii { -brand-short-name } bezpečne sa pripojiť. Ak sa napriek tomu rozhodnete stránku navštíviť, útočníci sa môžu pokúsiť ukradnúť vaše informácie, ako sú heslá, e-mailové adresy alebo čísla platobných kariet.
+certerror-expired-cert-second-para = Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii { -brand-short-name } bezpečne sa pripojiť. Ak sa napriek tomu rozhodnete stránku navštíviť, útočníci sa môžu pokúsiť ukradnúť vaše informácie, ako sú heslá, e‑mailové adresy alebo čísla platobných kariet.
 certerror-expired-cert-sts-second-para = Pravdepodobne stránke vypršala platnosť certifikátu, čo bráni aplikácii { -brand-short-name } bezpečne sa pripojiť.
 certerror-what-can-you-do-about-it-title = Čo s tým môžete urobiť?
 certerror-unknown-issuer-what-can-you-do-about-it-website = Tento problém je pravdepodobne na strane webovej stránky a vy ho, bohužiaľ, nedokážete vyriešiť.
