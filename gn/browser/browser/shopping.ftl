@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Ehechauka ñemurã marandu’i rechajeyhápe
 shopping-settings-recommendations-learn-more = Ehecháta ñemurã sapy’apy’a apopyre iporãvare. Opaite ñemurã ohecháta mba’épa ejapóta omoneĩ hag̃ua ne rembiapo. <a data-l10n-name="review-quality-url">Eikuaave</a>
+shopping-settings-recommendations-learn-more2 = Ehecháta ñemurã sapy’apy’a apopyre iporãva rehegua. Romoherakuã apopyre ojejeroviaha oñónte. <a data-l10n-name="review-quality-url">Eikuaave</a>
 shopping-settings-opt-out-button = Eipe’a marandu’i rechajeyha
 powered-by-fakespot = Pe marandu’i jehechajey oioo <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> ndive.
 
@@ -179,7 +180,9 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Ejevy <strong>hechajey moneĩhápe</strong> ehechajey vove tepykue kuaaukaha.
 shopping-callout-pdp-opted-in-title = Ejeroviápa ko’ã jehechajeýre. Eikuaa pya’e.
+shopping-callout-pdp-opted-in-subtitle = Embojuruja marandu’i rechajeyha ehecha ema'ẽ ñeha’ã marandu’i jerovia’ỹva mboguepyre rehegua. Avei, mba’e ojehecharamóva marandu’i pyahu rehe.
 shopping-callout-closed-not-opted-in-title = Eikutu ereko hag̃ua hechajey jeroviaha
+shopping-callout-closed-not-opted-in-subtitle = Eiporu marandu’i rechajeyha ehecha vove mba’e repy ñesẽ. Eñemomarandu pya’e omba’ejoguávagui, nde ejogua mboyve.
 
 ## Onboarding message strings.
 
