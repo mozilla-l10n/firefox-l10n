@@ -162,7 +162,6 @@ extensions-warning-update-security2 =
     .message = Кеңейтулер жаңартуларын қауісіздікке тексеру сөндірулі. Жаңартулармен қор болуыңыз мүмкін.
 extensions-warning-update-security-button = Іске қосу
     .title = Кеңейтулер жаңартуларын қауісіздікке тексеруді іске қосу
-extensions-warning-imported-addons = { -brand-short-name } ішіне импортталған кеңейтулер орнатуын аяқтаңыз.
 extensions-warning-imported-addons2 =
     .message = { -brand-short-name } ішіне импортталған кеңейтулер орнатуын аяқтаңыз.
 extensions-warning-imported-addons-button = Кеңейтулерді орнату
