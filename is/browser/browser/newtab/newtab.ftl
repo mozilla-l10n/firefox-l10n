@@ -155,7 +155,7 @@ newtab-label-bookmarked = Búið að bókamerkja
 newtab-label-removed-bookmark = Bókamerki fjarlægt
 newtab-label-recommended = Vinsælt
 newtab-label-saved = Vistað í { -pocket-brand-name }
-newtab-label-download = Niðurhalað
+newtab-label-download = Sótt
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #   $sponsorOrSource (string) - The name of a company or their domain
