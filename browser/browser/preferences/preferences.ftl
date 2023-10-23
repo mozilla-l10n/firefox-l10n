@@ -1018,9 +1018,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Malsne akcije
     .accesskey = M
-addressbar-locbar-recentsearches-option =
-    .label = Nejnowše pytanja
-    .accesskey = N
+addressbar-locbar-showrecentsearches-option =
+    .label = Nejnowše pytanja pokazaś
+    .accesskey = n
 addressbar-suggestions-settings = Nastajenja za naraźenja pytnice změniś
 addressbar-quickactions-learn-more = Dalšne informacije
 

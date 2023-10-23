@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Skłaźone adrese
 autofill-manage-addresses-list-header = Adrese
-
 autofill-manage-credit-cards-title = Skłaźone kreditowe kórty
 autofill-manage-credit-cards-list-header = Kreditowe kórty
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Wótwónoźeś
 autofill-manage-add-button = Pśidaś…
 autofill-manage-edit-button = Wobźěłaś…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Adresu składowaś?
+address-capture-save-doorhanger-description = Składujśo informacije w { -brand-short-name }, aby mógał formulary malsnje wupołniś.
+address-capture-update-doorhanger-header = Adresu aktualizěrowaś?
+address-capture-edit-doorhanger-header = Adresu wobźěłaś
+address-capture-save-button =
+    .label = Składowaś
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Nic něnto
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Pśetergnuś
+    .accessKey = P
+address-capture-update-button =
+    .label = Aktualizěrowaś
+    .accessKey = A
+address-capture-manage-address-button =
+    .label = Adresowe nastajenja
+address-capture-learn-more-button =
+    .label = Dalšne informacije
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nowu adresu pśidaś
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobźěłaś
-
+autofill-address-name = Mě
 autofill-address-given-name = Pśedmě
 autofill-address-additional-name = Druge pśedmě
 autofill-address-family-name = Familijowe mě
 autofill-address-organization = Organizacija
+autofill-address-street-address = Adresa drogi
 autofill-address-street = Adresa drogi
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Kraj abo region
+autofill-address-country-only = Kraj
 autofill-address-tel = Telefon
 autofill-address-email = E-mail
-
 autofill-cancel-button = Pśetergnuś
 autofill-save-button = Składowaś
 autofill-country-warning-message = Awtomatiske wupołnjenje formularow jo tuchylu jano za wěste kraje k dispoziciji.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nowu kreditowu kórtu pśidaś
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditowu kórtu wobźěłaś
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś. Wobkšuśćo pśistup k Windowsowemu kontoju dołojce.
        *[other] { -brand-short-name } wopytujo, daty kreditneje kórty pokazaś.
     }
-
 autofill-card-number = Numer kórty
 autofill-card-invalid-number = Pšosym zapódajśo płaśiwy kórtowy numer
 autofill-card-name-on-card = Mě na kórśe
