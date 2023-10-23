@@ -944,6 +944,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reduktim Banderolash Për Cookie-t
 cookie-banner-handling-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht kërkesat për cookies në banderola cookie-sh, në sajtet që e mbulojnë.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Mësoni Më Tepër
 forms-handle-cookie-banners =
     .label = Redukto Banderola për Cookie-t
@@ -1115,7 +1118,7 @@ permissions-addon-exceptions =
 
 collection-header = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
 collection-description = Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar { -brand-short-name }-in për këdo. Kërkojmë përherë leje, përpara se të marrim të dhëna personale.
-collection-privacy-notice = Shënim Mbi Privatësinë
+collection-privacy-notice = Shënim Privatësie
 collection-health-report-telemetry-disabled = S’e lejoni më { -vendor-short-name } të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
 collection-health-report-telemetry-disabled-link = Mësoni më tepër
 collection-health-report =
