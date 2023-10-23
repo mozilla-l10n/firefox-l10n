@@ -356,6 +356,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Xyuj el <span data-l10n-name="addon-name">{ $addon }</span>.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Xyuj el { $addon }.
 pending-uninstall-undo-button = Titzolïx
 addon-detail-updates-label = Tiya' q'ij chi ke ri Kiyonil k'exoj
 addon-detail-updates-radio-default = K'o wi
