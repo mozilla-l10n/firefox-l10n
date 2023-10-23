@@ -162,7 +162,6 @@ extensions-warning-update-security2 =
     .message = Gehigarrien eguneraketa-segurtasuna egiaztatzea desgaituta dago. Eguneraketek arriskuan jar zaitzakete.
 extensions-warning-update-security-button = Gaitu
     .title = Gaitu gehigarrien eguneraketa-segurtasuna egiaztatzea
-extensions-warning-imported-addons = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
 extensions-warning-imported-addons2 =
     .message = Mesedez amaitu { -brand-short-name }(e)ra inportatu ziren hedapenen instalazioa.
 extensions-warning-imported-addons-button = Instalatu hedapenak
