@@ -357,6 +357,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">„{ $addon }“</span> buvo pašalintas.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } buvo pašalintas.
 pending-uninstall-undo-button = Atšaukti
 addon-detail-updates-label = Leisti automatinius naujinimus
 addon-detail-updates-radio-default = Numatytasis
