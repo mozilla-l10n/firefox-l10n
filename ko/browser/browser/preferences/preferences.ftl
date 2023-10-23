@@ -994,9 +994,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 빠른 작업
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = 최근 검색
-    .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = 최근 검색 표시
+    .accesskey = r
 addressbar-suggestions-settings = 검색 엔진 제안 설정 변경
 addressbar-quickactions-learn-more = 더 알아보기
 
