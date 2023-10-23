@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.
 extensions-warning-update-security-button = Уключыць
     .title = Уключыць праверку бяспечнасці абнаўленняў дадаткаў
-extensions-warning-imported-addons = Калі ласка, завяршыце ўсталяванне пашырэнняў, якія былі імпартаваны ў { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Калі ласка, завяршыце ўсталяванне пашырэнняў, якія былі імпартаваны ў { -brand-short-name }.
 extensions-warning-imported-addons-button = Усталяваць пашырэнні
