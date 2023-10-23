@@ -334,6 +334,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> est istadu cantzelladu.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } est istadu cantzelladu.
 pending-uninstall-undo-button = Iscontza
 addon-detail-updates-label = Permite is atualizatziones in automàticu
 addon-detail-updates-radio-default = Predefinidu
