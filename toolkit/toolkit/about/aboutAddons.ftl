@@ -162,7 +162,6 @@ extensions-warning-update-security2 =
     .message = 已停止檢查附加元件安全性，更新程式可能不安全。
 extensions-warning-update-security-button = 開啟
     .title = 開啟附加元件更新安全性檢查
-extensions-warning-imported-addons = 請完成已匯入 { -brand-short-name } 的擴充套件的安裝步驟。
 extensions-warning-imported-addons2 =
     .message = 請完成已匯入 { -brand-short-name } 的擴充套件的安裝步驟。
 extensions-warning-imported-addons-button = 安裝擴充套件
