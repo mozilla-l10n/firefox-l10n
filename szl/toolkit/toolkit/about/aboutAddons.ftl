@@ -335,6 +335,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Rozszyrzynie <span data-l10n-name="addon-name">{ $addon }</span> je wyciepniynte.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Rozszyrzynie { $addon } je wyciepniynte.
 pending-uninstall-undo-button = Cofnij
 addon-detail-updates-label = Przizwōl na autōmatyczne aktualizacyje
 addon-detail-updates-radio-default = Bazowe sztalōnki
