@@ -355,6 +355,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> yettwakkes.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } yettwakkes.
 pending-uninstall-undo-button = Sefsex
 addon-detail-updates-label = Sireg aleqqem awurman
 addon-detail-updates-radio-default = Amezwer
