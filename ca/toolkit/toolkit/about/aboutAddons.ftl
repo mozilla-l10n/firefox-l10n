@@ -164,7 +164,6 @@ extensions-warning-update-security2 =
     .message = La comprovació de seguretat dels complements no està habilitada. Les actualitzacions podrien posar-vos en risc.
 extensions-warning-update-security-button = Habilita
     .title = Habilita la comprovació de seguretat dels complements
-extensions-warning-imported-addons = Finalitzeu la instal·lació de les extensions que s'han importat al { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Finalitzeu la instal·lació de les extensions que s'han importat al { -brand-short-name }.
 extensions-warning-imported-addons-button = Instal·la les extensions
