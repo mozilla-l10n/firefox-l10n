@@ -351,6 +351,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> 부가 기능이 제거되었습니다.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } 부가 기능이 제거되었습니다.
 pending-uninstall-undo-button = 실행 취소
 addon-detail-updates-label = 자동 업데이트 허용
 addon-detail-updates-radio-default = 기본값
