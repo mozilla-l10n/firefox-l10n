@@ -6,3 +6,9 @@ screenshots-overlay-cancel-button = Pśetergnuś
 screenshots-overlay-instructions = Śěgniśo abo klikniśo na bok, aby wobcerk wubrał. Tłocćo na ESC, aby pśetergnuł.
 screenshots-overlay-download-button = Ześěgnuś
 screenshots-overlay-copy-button = Kopěrowaś
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size = { $width } x { $height }
