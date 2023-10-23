@@ -134,7 +134,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Eiporúramo ñ
 certerror-expired-cert-what-can-you-do-about-it-clock = Pe arapapaha ne mohendaha rehegua oĩporã { DATETIME($now, dateStyle: "medium") }. Ehechajey ne mohendahápepa oĩporã arange, aravo ha avei aravo rendaguasu ag̃agua nde apopyvusy ñemoĩporãme, ha upéi emyanyhẽjey <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Pe nde aravopapaha oĩporãramo, ko ñanduti rendáma ikatu oñembohekovai, ha ndaikatúi mba’eve ejapo emoĩporã hag̃ua. Ikatu emomarandu pe tenda ñangarekohárape ko apañuãi rehegua.
 certerror-bad-cert-domain-what-can-you-do-about-it = Ikatu hína iñapañuãi ko ñanduti renda, ha ndaikatúi ejapo mba’eve emoĩporã hag̃ua. Ikatu emomarandu ñanduti renda ñangarekohárape pe apañuãi rehegua.
-certerror-mitm-what-can-you-do-about-it-antivirus = Pe nde software mba’eju’i jukaha oguereko tembiapoitéramo jeike ipapapýva monguatia (oñehenóiva py’ỹi “ñanduti ñemoha’anga” térã “https ñemoha’anga”), ikatu eipe’a pe tembiapoite. Péva ndoikóiramo, ikatu emboguete ha emohendajey pe mba’eju’i jukaha.
+certerror-mitm-what-can-you-do-about-it-antivirus = Pe nde software mba’eju’i jukaha oguereko tembiapoitéramo jeike ipapapýva monguatia (oñehenóiva py’ỹi “ñanduti ñemoha’ãnga” térã “https ñemoha’ãnga”), ikatu eipe’a pe tembiapoite. Péva ndoikóiramo, ikatu emboguete ha emohendajey pe mba’eju’i jukaha.
 certerror-mitm-what-can-you-do-about-it-corporate = Eiméramo peteĩ ñanduti atyguávape, ikatu eñomongeta IT vore ndive.
 # Variables:
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
