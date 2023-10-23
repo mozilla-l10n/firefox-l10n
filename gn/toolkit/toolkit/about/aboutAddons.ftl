@@ -166,7 +166,6 @@ extensions-warning-update-security2 =
     .message = Tekorosãrã jehechajey moĩmbaha rehegua oñemongéma. Ikatu ehecha nde rekorosãrã oñembyaikuaáva embohekopyahu aja.
 extensions-warning-update-security-button = Myandy
     .title = Emyandy jehechajey moĩmbaha rekorosãrã reheguáva
-extensions-warning-imported-addons = Emohu’ã jepysokue guerupyre ñemohenda { -brand-short-name } peve
 extensions-warning-imported-addons2 =
     .message = Emohu’ã jepysokue guerupyre ñemohenda { -brand-short-name } peve
 extensions-warning-imported-addons-button = Emohenda Jepysokue
