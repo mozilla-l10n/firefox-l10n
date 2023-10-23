@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = A verificación da seguranza das actualizacións dos complementos está desactivada. Pode estar en risco coas actualizacións.
 extensions-warning-update-security-button = Activar
     .title = Activar a verificación da seguranza das actualizacións dos complementos
-extensions-warning-imported-addons = Finalize a instalación das extensións que se importaron a { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Finalize a instalación das extensións que se importaron a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensións
