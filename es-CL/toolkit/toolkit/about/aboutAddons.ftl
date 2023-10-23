@@ -162,7 +162,6 @@ extensions-warning-update-security2 =
     .message = La verificación de actualizaciones de seguridad de complementos está deshabilitada. Puedes estar en peligro por las actualizaciones.
 extensions-warning-update-security-button = Habilitar
     .title = Habilitar la verificación de actualizaciones de seguridad
-extensions-warning-imported-addons = Por favor, finalice la instalación de las extensiones que fueron importadas a { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Por favor, finalice la instalación de las extensiones que fueron importadas a { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensiones
@@ -350,6 +349,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ha sido eliminado.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } ha sido eliminado.
 pending-uninstall-undo-button = Deshacer
 addon-detail-updates-label = Permitir actualizaciones automáticas
 addon-detail-updates-radio-default = Por defecto
