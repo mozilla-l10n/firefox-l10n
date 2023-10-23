@@ -349,6 +349,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ha essite removite.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } ha essite removite.
 pending-uninstall-undo-button = Disfacer
 addon-detail-updates-label = Actualisation automatic
 addon-detail-updates-radio-default = Predefinite
