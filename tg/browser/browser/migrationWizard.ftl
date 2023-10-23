@@ -47,6 +47,7 @@ migration-wizard-migrator-display-name-vivaldi = Вивалди
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = «{ -brand-short-name }» ба профилҳои дигари браузерҳои насбшуда дар ин дастгоҳ дастрасӣ надорад.
 migration-no-permissions-instructions-step1 = «Идома додан»-ро интихоб намоед
 
 ## These strings will be displayed based on how many resources are selected to import

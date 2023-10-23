@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = Иҷозат диҳед, �
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = «{ -brand-short-name }» барои шумо баннерҳои кукиҳоро нигоҳубин мекунад
+about-private-browsing-cookie-banners-promo-body = Акнун мо баннерҳои кукиҳоро ба таври худкор рад мекунем, то ки сомонаҳо шуморо камтар пайгири кунанд ва шумо тавонед ба тамошокунии озод аз халалрасонӣ баргардед.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
