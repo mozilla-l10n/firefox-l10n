@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Öryggisuppfærslur fyrir viðbætur eru óvirkar. Þú gætir verið í hættu vegna uppfærslu.
 extensions-warning-update-security-button = Virkja
     .title = Virkja öryggisuppfærslur fyrir viðbætur
-extensions-warning-imported-addons = Ljúktu við uppsetningu forritsauka sem fluttir voru inn í { -brand-short-name }
 extensions-warning-imported-addons2 =
     .message = Ljúktu við uppsetningu forritsauka sem fluttir voru inn í { -brand-short-name }
 extensions-warning-imported-addons-button = Setja upp forritsauka
