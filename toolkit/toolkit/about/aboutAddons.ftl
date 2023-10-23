@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Feilichheidskontrole foar add-onsfernijingen is útskeakele. Jo kinne efterrinne mei fernijingen.
 extensions-warning-update-security-button = Ynskeakelje
     .title = Skeakelje feilichheidskontrole foar add-onsfernijingen yn
-extensions-warning-imported-addons = Foltôgje de ynstallaasje fan útwreidingen dy’t ymportearre binne nei { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Foltôgje de ynstallaasje fan útwreidingen dy’t ymportearre binne nei { -brand-short-name }.
 extensions-warning-imported-addons-button = Utwreidingen ynstallearje
