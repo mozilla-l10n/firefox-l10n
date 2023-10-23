@@ -169,7 +169,6 @@ extensions-warning-update-security2 =
     .message = Санҷиши навсозии амнияти ҷузъи иловагӣ ғайрифаъол аст. Навсозиҳо метавонанд шуморо дар зери хатар гузоранд.
 extensions-warning-update-security-button = Фаъол кардан
     .title = Фаъол кардани санҷиши навсозии амниятии ҷузъи иловагӣ
-extensions-warning-imported-addons = Лутфан, насби васеъшавиҳоеро, ки ба «{ -brand-short-name }» ворид карда шудаанд, ба анҷом расонед.
 extensions-warning-imported-addons2 =
     .message = Лутфан, насби васеъшавиҳоеро, ки ба «{ -brand-short-name }» ворид карда шудаанд, ба анҷом расонед.
 extensions-warning-imported-addons-button = Насби васеъшавиҳо
@@ -362,6 +361,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> тоза карда шуд.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } тоза карда шуд.
 pending-uninstall-undo-button = Бекор кардан
 addon-detail-updates-label = Иҷозат барои навсозиҳои худкор
 addon-detail-updates-radio-default = Пешфарз
