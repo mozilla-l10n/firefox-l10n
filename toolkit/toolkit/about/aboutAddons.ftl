@@ -349,6 +349,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> kendu egin da.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } kendu egin da.
 pending-uninstall-undo-button = Desegin
 addon-detail-updates-label = Baimendu eguneraketa automatikoak
 addon-detail-updates-radio-default = Lehenetsia
