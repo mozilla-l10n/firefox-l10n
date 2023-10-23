@@ -940,7 +940,7 @@ reset-pbm-panel-complete = Oguéma mba’ekuaarã rembiapo ñemi
 
 ## Autorefresh blocker
 
-refresh-blocked-refresh-label = { -brand-short-name } ndohejái ko kuatiarogue oñemyenyhẽ ha’eñorei.
+refresh-blocked-refresh-label = { -brand-short-name } ndohejái ko kuatiarogue oñemyanyhẽ ha’eñorei.
 refresh-blocked-redirect-label = { -brand-short-name } ndohejái ko kuatiarogue oipykúi ha’eñorei ambue hendápe.
 refresh-blocked-allow =
     .label = Ñemoneĩ

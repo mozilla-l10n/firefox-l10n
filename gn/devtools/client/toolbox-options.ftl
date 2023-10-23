@@ -130,4 +130,4 @@ options-source-maps-label = Embojuruja yvyra’ãnga ypýva
 options-source-maps-tooltip =
     .title = Embojurujáramo ko poravopyrã, teñoiha ijehecháta tembiporúpe.
 # The message shown for settings that trigger page reload
-options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyenyhẽjey kuatiarogue
+options-context-triggers-page-refresh = * Tembiapo ag̃agua añónte, emyanyhẽjey kuatiarogue

@@ -8,7 +8,7 @@ troubleshoot-mode-window =
 start-troubleshoot-mode =
     .label = Ijurujáva
 refresh-profile =
-    .label = { -brand-short-name } ñemyenyhẽjey
+    .label = { -brand-short-name } ñemyanyhẽjey
 troubleshoot-mode-description = Eiporu ko { -brand-short-name } ayvu  ejuhukuaa hag̃ua apañuãi. Imoĩmbaha ha iñemboavakuéra ojepe’áta sapy’ami.
 skip-troubleshoot-refresh-profile = Ikatu avei ehasa apañuãi ayvu ñemyatyrõ ha embopiro’y { -brand-short-name }.
 # Shown on the safe mode dialog after multiple startup crashes.

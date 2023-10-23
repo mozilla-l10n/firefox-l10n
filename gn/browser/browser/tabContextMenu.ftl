@@ -6,7 +6,7 @@ tab-context-new-tab =
     .label = Tendayke pyahu
     .accesskey = w
 reload-tab =
-    .label = Tendayke myenyhẽjey
+    .label = Tendayke myanyhẽjey
     .accesskey = R
 select-all-tabs =
     .label = Eiporavopaite tendayke
@@ -103,7 +103,6 @@ tab-context-move-tabs =
            *[other] Eguerova tendaykekuéra
         }
     .accesskey = v
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
