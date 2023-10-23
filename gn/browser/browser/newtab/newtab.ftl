@@ -53,8 +53,8 @@ newtab-topsites-url-input =
     .placeholder = Ehai térã emboja peteĩ URL
 newtab-topsites-url-validation = Oñeikotevẽ URL oiko porãva
 newtab-topsites-image-url-label = URL ra’anga ñemomba’etepyre
-newtab-topsites-use-image-link = Ta’anga ñemomba’etepyre…
-newtab-topsites-image-validation = Ta’anga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
+newtab-topsites-use-image-link = Ta’ãnga ñemomba’etepyre…
+newtab-topsites-image-validation = Ta’ãnga nehenyhẽkuái. Eiporu peteĩ URL iñambuéva.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 

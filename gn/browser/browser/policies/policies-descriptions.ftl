@@ -103,7 +103,7 @@ policy-PasswordManagerEnabled = Embojuruja ñe’ẽñemi ñongatu ñe’ẽñem
 policy-PasswordManagerExceptions = Eñeha’ã { -brand-short-name } ani eñongatu pe’aha tenda ha’etévape.
 # PDF.js and PDF should not be translated
 policy-PDFjs = Eipe’a térã emboheko PDF.js, PDF jehechaha oĩva { -brand-short-name } ryepýpe.
-policy-Permissions2 = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
+policy-Permissions2 = Emboheko ñemoneĩ ta’ãnganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
 policy-PictureInPicture = Emyandy térã embogue Picture-in-Picture.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃uarã.

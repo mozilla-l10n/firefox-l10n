@@ -44,7 +44,7 @@ videocontrols-error-decode = Ndaikatúi emboheta ta’ãngamýi pe marandurenda 
 videocontrols-error-src-not-supported = Ysaja térã MIME ta’ãngamýi rehegua noñemoneĩri.
 videocontrols-error-no-source = Ndojejuhúi mba’eveichagua ta’ãngamýi oguerekóva ysaja térã peteĩva MIME ojokupytýva.
 videocontrols-error-generic = Pe ta’ãngamýi ñemboheta ndoikomo’ãi peteĩ jejavy jeikuaa’ỹva rupi.
-videocontrols-status-picture-in-picture = Ko ta’angamýi oñembohetahína Picture-in-Picture rekópe.
+videocontrols-status-picture-in-picture = Ko ta’ãngamýi oñembohetahína Picture-in-Picture rekópe.
 # This message shows the current position and total video duration
 #
 # Variables:
