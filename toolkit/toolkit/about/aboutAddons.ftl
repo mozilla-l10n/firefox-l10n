@@ -166,7 +166,6 @@ extensions-warning-update-security2 =
     .message = Ο έλεγχος ασφαλείας ενημερώσεων  προσθέτων είναι ανενεργός. Μπορεί να κινδυνέψετε.
 extensions-warning-update-security-button = Ενεργοποίηση
     .title = Ενεργοποίηση ελέγχου ασφαλείας ενημερώσεων προσθέτων
-extensions-warning-imported-addons = Παρακαλώ ολοκληρώστε την εγκατάσταση των επεκτάσεων που εισήχθησαν στο { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Παρακαλώ ολοκληρώστε την εγκατάσταση των επεκτάσεων που εισήχθησαν στο { -brand-short-name }.
 extensions-warning-imported-addons-button = Εγκατάσταση επεκτάσεων
