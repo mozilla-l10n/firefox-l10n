@@ -361,6 +361,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Το <span data-l10n-name="addon-name">{ $addon }</span> έχει αφαιρεθεί.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Το { $addon } έχει αφαιρεθεί.
 pending-uninstall-undo-button = Αναίρεση
 addon-detail-updates-label = Να επιτρέπονται αυτόματες ενημερώσεις
 addon-detail-updates-radio-default = Προεπιλογή
