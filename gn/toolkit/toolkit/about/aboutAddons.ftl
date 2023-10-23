@@ -353,6 +353,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Oñemboguete <span data-l10n-name="addon-name">{ $addon }</span>.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Oñemboguete { $addon }.
 pending-uninstall-undo-button = Mboguevi
 addon-detail-updates-label = Emoneĩ mbohekopyahu ijeheguíva
 addon-detail-updates-radio-default = Ijypykue
