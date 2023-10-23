@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = A verificação de compatibilidade de extras está desativada. Poderá estar comprometido com atualizações.
 extensions-warning-update-security-button = Ativar
     .title = Ativar verificação de segurança de atualização do extra
-extensions-warning-imported-addons = Por favor, finalize a instalação das extensões que foram importadas para o { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Por favor, finalize a instalação das extensões que foram importadas para o { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar Extensões
