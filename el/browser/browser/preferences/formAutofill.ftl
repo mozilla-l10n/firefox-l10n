@@ -7,28 +7,47 @@
 
 autofill-manage-addresses-title = Αποθηκευμένες διευθύνσεις
 autofill-manage-addresses-list-header = Διευθύνσεις
-
 autofill-manage-credit-cards-title = Αποθηκευμένες πιστωτικές κάρτες
 autofill-manage-credit-cards-list-header = Πιστωτικές κάρτες
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Αφαίρεση
 autofill-manage-add-button = Προσθήκη…
 autofill-manage-edit-button = Επεξεργασία…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Αποθήκευση διεύθυνσης;
+address-capture-save-doorhanger-description = Αποθηκεύστε πληροφορίες στο { -brand-short-name } για να μπορείτε να συμπληρώνετε γρήγορα φόρμες.
+address-capture-update-doorhanger-header = Ενημέρωση διεύθυνσης;
+address-capture-edit-doorhanger-header = Επεξεργασία διεύθυνσης
+address-capture-save-button =
+    .label = Αποθήκευση
+    .accessKey = Α
+address-capture-not-now-button =
+    .label = Όχι τώρα
+    .accessKey = χ
+address-capture-cancel-button =
+    .label = Ακύρωση
+    .accessKey = κ
+address-capture-update-button =
+    .label = Ενημέρωση
+    .accessKey = ν
+address-capture-manage-address-button =
+    .label = Ρυθμίσεις διεύθυνσης
+address-capture-learn-more-button =
+    .label = Μάθετε περισσότερα
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Προσθήκη νέας διεύθυνσης
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Επεξεργασία διεύθυνσης
-
+autofill-address-name = Όνομα
 autofill-address-given-name = Όνομα
 autofill-address-additional-name = Μεσαίο όνομα
 autofill-address-family-name = Επώνυμο
 autofill-address-organization = Εταιρεία
-autofill-address-street = Διεύθυνση οδού
+autofill-address-street-address = Διεύθυνση
+autofill-address-street = Διεύθυνση
 
 ## address-level-3 (Sublocality) names
 
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Χώρα ή περιοχή
+autofill-address-country-only = Χώρα
 autofill-address-tel = Τηλέφωνο
 autofill-address-email = Email
-
 autofill-cancel-button = Ακύρωση
 autofill-save-button = Αποθήκευση
 autofill-country-warning-message = Η αυτόματη συμπλήρωση φορμών διατίθεται μόνο σε ορισμένες χώρες προς το παρόν.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Προσθήκη νέας πιστωτικής κάρτας
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Επεξεργασία πιστωτικής κάρτας
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών. Επιβεβαιώστε παρακάτω την πρόσβαση σε αυτό το λογαριασμό Windows.
        *[other] Το { -brand-short-name } προσπαθεί να εμφανίσει πληροφορίες πιστωτικών καρτών.
     }
-
 autofill-card-number = Αριθμός κάρτας
 autofill-card-invalid-number = Εισάγετε έναν έγκυρο αριθμό κάρτας
 autofill-card-name-on-card = Όνομα στην κάρτα

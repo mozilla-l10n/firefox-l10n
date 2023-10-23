@@ -47,7 +47,15 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = Το { -brand-short-name } δεν έχει πρόσβαση στα προφίλ άλλων προγραμμάτων περιήγησης που έχουν εγκατασταθεί σε αυτήν τη συσκευή.
+migration-no-permissions-instructions = Για να συνεχίσετε την εισαγωγή δεδομένων από άλλο πρόγραμμα περιήγησης, παραχωρήστε πρόσβαση στο { -brand-short-name } για τον φάκελο του προφίλ του.
 migration-no-permissions-instructions-step1 = Επιλέξτε «Συνέχεια»
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = Στο εργαλείο επιλογής αρχείων, μεταβείτε στο <code>{ $permissionsPath }</code> και κάντε κλικ στο «Επιλογή»
 
 ## These strings will be displayed based on how many resources are selected to import
 
