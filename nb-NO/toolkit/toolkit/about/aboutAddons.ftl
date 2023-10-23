@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Sikkerhetskontroll av utvidelsesoppdateringer er avslått. Sikkerheten din kan bli satt i fare av oppdateringer.
 extensions-warning-update-security-button = Slå på
     .title = Slå på sikkerhetskontroll av utvidelsesoppdateringer
-extensions-warning-imported-addons = Fullfør installasjonen av utvidelser som ble importert til { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Fullfør installasjonen av utvidelser som ble importert til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer utvidelser
@@ -364,6 +363,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er fjernet.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } er fjernet.
 pending-uninstall-undo-button = Angre
 addon-detail-updates-label = Tillat automatiske oppdateringer
 addon-detail-updates-radio-default = Standard
