@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Eklenti güncelleme güvenliği denetimi devre dışı. Güncellemelerle tehlikeye düşebilirsiniz.
 extensions-warning-update-security-button = Etkinleştir
     .title = Eklenti güncelleme güvenliği denetimini devreye sok
-extensions-warning-imported-addons = Lütfen { -brand-short-name } tarayıcınıza aktarılan uzantıların kurulumunu bitirin.
 extensions-warning-imported-addons2 =
     .message = Lütfen { -brand-short-name } tarayıcınıza aktarılan uzantıların kurulumunu bitirin.
 extensions-warning-imported-addons-button = Uzantıları yükle
@@ -359,6 +358,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> kaldırıldı.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } kaldırıldı.
 pending-uninstall-undo-button = Geri al
 addon-detail-updates-label = Otomatik güncellemelere izin ver
 addon-detail-updates-radio-default = Varsayılan
