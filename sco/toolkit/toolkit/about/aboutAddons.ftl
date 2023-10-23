@@ -348,6 +348,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been remuived.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } has been remuived.
 pending-uninstall-undo-button = Undae
 addon-detail-updates-label = Alloo automatic updates
 addon-detail-updates-radio-default = Staunart
