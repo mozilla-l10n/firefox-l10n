@@ -303,7 +303,7 @@ download-always-ask-where =
     .label = Alltaf spyrja hvert á að vista skrár
     .accesskey = A
 applications-header = Forrit
-applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú halar niður frá vefnum eða forritum þegar þú ert að vafra.
+applications-description = Veldu hvernig { -brand-short-name } meðhöndlar skrár sem þú sækir af vefnum eða með forritum þegar þú ert að vafra.
 applications-filter =
     .placeholder = Leita að skráargerðum og forritum
 applications-type-column =
@@ -969,6 +969,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Fækkun vefkökuborða
 cookie-banner-handling-description = { -brand-short-name } reynir sjálfkrafa að hafna beiðnum um vefkökur á þeim vefsvæðum þar sem það er hægt.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Frekari upplýsingar
 forms-handle-cookie-banners =
     .label = Fækkaðu vefkökuborðum
