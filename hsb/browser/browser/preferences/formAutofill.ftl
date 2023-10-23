@@ -18,6 +18,7 @@ autofill-manage-edit-button = Wobdźěłać…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Adresu składować?
+address-capture-save-doorhanger-description = Składujće informacije w { -brand-short-name }, zo byšće móhł formulary spěšnje wupjelnić.
 address-capture-update-doorhanger-header = Adresu aktualizować?
 address-capture-edit-doorhanger-header = Adresu wobdźěłać
 address-capture-save-button =
