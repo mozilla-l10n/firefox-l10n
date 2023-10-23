@@ -365,6 +365,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been removed.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } has been removed.
 pending-uninstall-undo-button = Visszavonás
 addon-detail-updates-label = Automatikus frissítések engedélyezése
 addon-detail-updates-radio-default = Alapértelmezett
