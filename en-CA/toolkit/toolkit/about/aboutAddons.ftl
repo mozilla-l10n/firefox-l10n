@@ -363,6 +363,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> has been removed.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } has been removed.
 pending-uninstall-undo-button = Undo
 addon-detail-updates-label = Allow automatic updates
 addon-detail-updates-radio-default = Default
