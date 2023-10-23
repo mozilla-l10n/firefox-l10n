@@ -47,6 +47,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
         [one] <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe orekovégui { $lineCount } tairenda.
        *[other] <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe orekovégui { $lineCount } tairenda.
     }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ndoguerekói mba’evai ko mba’eporúpe oñemboja’opágui, techapyrã: hetepy oñemboja’o heta yta térã kutiaroguépe.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -73,6 +74,7 @@ inactive-css-not-table-cell-fix = Eñeha’ã embojuaju <strong>display:table-ce
 inactive-scroll-padding-when-not-scroll-container-fix = Ehecha embojuaju <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, térã <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Pe mba’eporu tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Eñeha’ã emomichĩ tairenda jeporu. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
