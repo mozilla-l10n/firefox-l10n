@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = A kiegészítők biztonsági vizsgálata tiltva van. A frissítések biztonsági kockázatot hordoznak.
 extensions-warning-update-security-button = Engedélyezés
     .title = Kiegészítők frissítésekor a biztonsági ellenőrzés engedélyezése
-extensions-warning-imported-addons = Véglegesítse a { -brand-short-name }ba importált kiegészítők telepítését.
 extensions-warning-imported-addons2 =
     .message = Véglegesítse a { -brand-short-name }ba importált kiegészítők telepítését.
 extensions-warning-imported-addons-button = Kiegészítők telepítése
