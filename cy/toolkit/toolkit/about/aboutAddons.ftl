@@ -367,6 +367,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Mae <span data-l10n-name="addon-name">{ $addon }</span> wedi ei dynnu.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Mae { $addon } wedi ei dynnu.
 pending-uninstall-undo-button = Dadwneud
 addon-detail-updates-label = Caniatáu diweddariadau awtomatig
 addon-detail-updates-radio-default = Rhagosodiad
