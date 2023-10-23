@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = «Манъку�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = «Манъкунандаи баннери куки»-ро барои сомонаи { $host } фаъол месозед?
 protections-panel-cookie-banner-view-cookie-clear-warning = «{ -brand-short-name }» кукиҳои ин сомонаро тоза мекунад ва саҳифаро аз нав бор мекунад. Амали тозакунии ҳамаи кукиҳо метавонад шуморо аз сомона хориҷ кунад ва сабадҳои харидории шуморо холӣ намояд.
 protections-panel-cookie-banner-view-turn-on-description = «{ -brand-short-name }» кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро дар сомонаҳои дастгиришаванда ба таври худкор рад кунад.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Фаъол созед, ва «{ -brand-short-name }» кӯшиш мекунад, ки баннерҳои кукиро дар ин сомона ба таври худкор рад кунад.
 protections-panel-cookie-banner-view-cancel = Бекор кардан
 protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
 protections-panel-cookie-banner-view-turn-on = Фаъол кардан

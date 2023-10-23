@@ -975,6 +975,8 @@ cookie-banner-blocker-header = Манъкунандаи баннери куки
 cookie-banner-learn-more = Маълумоти бештар
 forms-handle-cookie-banners =
     .label = Маҳдуд кардани баннерҳои куки
+cookie-banner-blocker-checkbox-label =
+    .label = Баннерҳои кукиро ба таври худкор рад намоед
 
 ## Privacy Section - Address Bar
 
