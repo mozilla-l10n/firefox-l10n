@@ -162,7 +162,6 @@ extensions-warning-update-security2 =
     .message = Le verification de securitate pro le actualisation del additivos es inactive. Le actualisationes poterea damnificar tu systema.
 extensions-warning-update-security-button = Activar
     .title = Activar le verification de securitate pro le actualisation del additivos
-extensions-warning-imported-addons = Completa le installation de extensiones que era importate a { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Completa le installation de extensiones que era importate a { -brand-short-name }.
 extensions-warning-imported-addons-button = Installar le extensiones
