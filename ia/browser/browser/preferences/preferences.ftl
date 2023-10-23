@@ -1010,9 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Actiones rapide
     .accesskey = r
-addressbar-locbar-recentsearches-option =
-    .label = Recercas recente
-    .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = Monstrar recercas recente
+    .accesskey = r
 addressbar-suggestions-settings = Cambiar le preferentias pro le suggestiones del motor de recerca
 addressbar-quickactions-learn-more = Pro saper plus
 
