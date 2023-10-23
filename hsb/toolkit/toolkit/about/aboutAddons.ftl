@@ -166,7 +166,6 @@ extensions-warning-update-security2 =
     .message = Přepruwowanje wěstoty aktualizacije je znjemóžnjene. Je móžno, zo aktualizacije wam wohrožuja.
 extensions-warning-update-security-button = Zmóžnić
     .title = Přepruwowanje wěstoty aktualizacije zmóžnić
-extensions-warning-imported-addons = Prošu dokónčće instalaciju rozšěrjenjow, kotrež su so do { -brand-short-name } importowali.
 extensions-warning-imported-addons2 =
     .message = Prošu dokónčće instalaciju rozšěrjenjow, kotrež su so do { -brand-short-name } importowali.
 extensions-warning-imported-addons-button = Rozšěrjenja instalować
