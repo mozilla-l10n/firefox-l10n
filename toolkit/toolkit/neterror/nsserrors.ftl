@@ -10,13 +10,11 @@
 
 psmerr-ssl-disabled = Get ekki tengst á öruggan hátt því SSL samskiptareglurnar hafa verið gerðar óvirkar.
 psmerr-ssl2-disabled = Get ekki tengst á öruggan hátt því vefsvæðið notar eldri óörugga útgáfu af SSL samskiptareglum.
-
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Þú hefur fengið rangt skilríki.  Hafið samband við vefstjóra eða póstaðila og láttu þá fá eftirfarandi upplýsingar:
     
     Skilríkið þitt inniheldur sama raðnúmer og annað skilríki útgefið af vottunarstöð.  Náðu þér í nýtt skilríki sem inniheldur einkvæmt raðnúmer.
-
 ssl-error-export-only-server = Get ekki haft örugg samskipti. Jafningi styður ekki dulkóðum með miklum gæðum.
 ssl-error-us-only-server = Get ekki haft örugg samskipti. Jafningi þarfnast dulkóðunar með miklum gæðum sem er ekki stuðningur fyrir.
 ssl-error-no-cypher-overlap = Get ekki átt örugg samskipti við jafningja: engin sameiginleg dulritunarreiknirit.
@@ -153,7 +151,6 @@ ssl-error-no-supported-signature-algorithm = Ekkert stutt TLS undirritunarreikni
 ssl-error-unsupported-signature-algorithm = Jafningi notaði óþekkta samsetningu af undirritun og tætireikniriti.
 ssl-error-missing-extended-master-secret = Jafningi reyndi að halda áfram án þess að vera með rétta extended_master_secret extension.
 ssl-error-unexpected-extended-master-secret = Jafningi reyndi að halda áfram með óvæntri extended_master_secret extension.
-
 sec-error-io = I/Ú villa varð í vottun á öryggisheimild.
 sec-error-library-failure = bilun í öryggissafni.
 sec-error-bad-data = öryggissafn: Tók á móti gölluðum gögnum.
@@ -177,7 +174,7 @@ sec-error-no-memory = öryggissafn: villa í minnisúthlutun.
 sec-error-untrusted-issuer = Útgefandi skilríkja jafningja hefur verið merktur sem ekki treystandi af notanda.
 sec-error-untrusted-cert = Skilríki jafningja hefur verið merkt sem ekki treystandi af notanda.
 sec-error-duplicate-cert = Skilríki er þegar til gagnagrunni.
-sec-error-duplicate-cert-name = Niðurhalað nafn skilríkis er þegar til í gagnagrunni.
+sec-error-duplicate-cert-name = Nafn sótta skilríkisins er þegar til staðar í gagnagrunninum þínum.
 sec-error-adding-cert = Villa við að bæta skilríki í gagnagrunn.
 sec-error-filing-key = Villa við að skrá lykil fyrir þetta skilríki.
 sec-error-no-key = Einkalykill skilríkis fannst ekki í lyklagrunni
@@ -320,7 +317,6 @@ sec-error-locked-password = Lykilorð er læst.
 sec-error-unknown-pkcs11-error = Óþekkt PKCS #11 villa.
 sec-error-bad-crl-dp-url = Ógilt eða óstutt URL í CRL dreifingarnafni.
 sec-error-cert-signature-algorithm-disabled = Skilríkið var undirritað með undirritunarreikniriti sem er óvirkt vegna þess að það er ekki öruggt.
-
 mozilla-pkix-error-key-pinning-failure = Netþjónninn notar key pinning (HPKP) en ekki fannst neitt öruggt skilríki sem passar við pinset. Ekki er hægt að hunsa kröfur vegna key pinning.
 mozilla-pkix-error-ca-cert-used-as-end-entity = Þessi netþjónn notar skilríki með viðbót með einföldum hömlum sem skilgreinir það sem vottunarstöð. Svoleiðis ætti aldrei að þurfa fyrir skilríki sem eru útgefin á réttan hátt.
 mozilla-pkix-error-inadequate-key-size = Netþjónninn sendi skilríki með lyklastærð sem er of lítil til að geta tengst á öruggan hátt.
@@ -335,11 +331,9 @@ mozilla-pkix-error-invalid-integer-encoding = Netþjónn sendi skilríki sem inn
 mozilla-pkix-error-empty-issuer-name = Netþjónn sendi skilríki sem var með tómt nafn útgefanda.
 mozilla-pkix-error-additional-policy-constraint-failed = Viðbótaröryggisráðstafanir mistókust við sannreyningu þessa skilríkis.
 mozilla-pkix-error-self-signed-cert = Skilríkinu er ekki treyst því það var undirritað af útgefandanum sjálfum.
-
 xp-java-remove-principal-error = Gat ekki fjarlægt umbjóðanda
 xp-java-delete-privilege-error = Get ekki eytt sérréttindunum
 xp-java-cert-not-exists-error = Umbjóðandi er ekki með skilríki
-
 xp-sec-fortezza-bad-card = Fortezza kort er ekki frumstillt rétt. Fjarlægðu það og skilaðu til baka til útgefanda.
 xp-sec-fortezza-no-card = Ekkert Fortezza kort fannst
 xp-sec-fortezza-none-selected = Ekkert Fortezza kort valið
