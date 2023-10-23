@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Перевірка безпечного оновлення додатків вимкнена. У процесі оновлення зловмисник може спробувати підмінити їх.
 extensions-warning-update-security-button = Увімкнути
     .title = Увімкнути перевірку безпечного оновлення додатків
-extensions-warning-imported-addons = Завершіть встановлення розширень, які було імпортовано до { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Завершіть встановлення розширень, які було імпортовано до { -brand-short-name }.
 extensions-warning-imported-addons-button = Встановити розширення
