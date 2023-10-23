@@ -363,6 +363,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> მოცილებულია.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } მოცილებულია.
 pending-uninstall-undo-button = დაბრუნება
 addon-detail-updates-label = თვითგანახლების ნებართვა
 addon-detail-updates-radio-default = ნაგულისხმევი
