@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = A verificação de segurança de atualizações de extensões está desativada. Atualizações de extensões podem comprometer seu computador.
 extensions-warning-update-security-button = Ativar
     .title = Ativar verificação de segurança da atualização de extensões
-extensions-warning-imported-addons = Finalize a instalação das extensões importadas para o { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Finalize a instalação das extensões importadas para o { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalar extensões
