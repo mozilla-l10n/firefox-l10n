@@ -344,6 +344,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Lisa <span data-l10n-name="addon-name">{ $addon }</span> eemaldati.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Lisa { $addon } eemaldati.
 pending-uninstall-undo-button = Võta tagasi
 addon-detail-updates-label = Automaatsed uuendused
 addon-detail-updates-radio-default = vaikimisi
