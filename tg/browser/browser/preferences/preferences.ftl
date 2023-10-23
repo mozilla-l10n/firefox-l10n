@@ -130,6 +130,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Ҳангоми оғоз кардани компютери шумо «{ -brand-short-name }»-ро ба таври худкор кушоед
     .accesskey = Ҳ
+windows-launch-on-login-disabled = Ин хусусият дар низоми амалкунандаи Windows ғайрифаъол шудааст. Барои ворид кардани тағйирот, дар Танзимоти низом ба <a data-l10n-name="startup-link">Барномаҳои оғози кор</a> гузаред.
 startup-restore-warn-on-quit =
     .label = Ҳангоми баромадан аз браузер низом шуморо огоҳ мекунад
 disable-extension =
