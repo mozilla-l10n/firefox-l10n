@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Kontrola bezpečnosti aktualizácií doplnkov je vypnutá. Aktualizácie vás môžu ohroziť.
 extensions-warning-update-security-button = Zapnúť
     .title = Povoliť kontrolu bezpečnosti aktualizácií doplnkov
-extensions-warning-imported-addons = Dokončite inštaláciu rozšírení, ktoré boli importované do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons2 =
     .message = Dokončite inštaláciu rozšírení, ktoré boli importované do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons-button = Nainštalovať rozšírenia
