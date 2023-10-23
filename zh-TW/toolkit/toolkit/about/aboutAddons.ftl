@@ -347,6 +347,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = 已移除 <span data-l10n-name="addon-name">{ $addon }</span>。
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = 已移除 { $addon }。
 pending-uninstall-undo-button = 還原
 addon-detail-updates-label = 允許自動更新
 addon-detail-updates-radio-default = 預設
