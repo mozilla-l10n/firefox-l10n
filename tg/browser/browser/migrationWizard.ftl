@@ -48,6 +48,7 @@ migration-wizard-migrator-display-name-vivaldi = Вивалди
 ## is installed as a Snap.
 
 migration-no-permissions-message = «{ -brand-short-name }» ба профилҳои дигари браузерҳои насбшуда дар ин дастгоҳ дастрасӣ надорад.
+migration-no-permissions-instructions = Барои идома додани воридкунии маълумот аз браузери дигар, ба «{ -brand-short-name }» иҷозат диҳед, то он ба ҷузвдони профили худ дастрасӣ пайдо намояд.
 migration-no-permissions-instructions-step1 = «Идома додан»-ро интихоб намоед
 
 ## These strings will be displayed based on how many resources are selected to import
