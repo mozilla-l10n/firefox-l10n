@@ -362,6 +362,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> đã bị xóa.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } đã bị xóa.
 pending-uninstall-undo-button = Hoàn tác
 addon-detail-updates-label = Cho phép cập nhật tự động
 addon-detail-updates-radio-default = Mặc định
