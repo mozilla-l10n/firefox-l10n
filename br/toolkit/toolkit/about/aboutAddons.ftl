@@ -327,6 +327,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> a zo bet dilemet.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } a zo bet dilemet.
 pending-uninstall-undo-button = Dizober
 addon-detail-updates-label = Aotren an hizivadurioù emgefreek
 addon-detail-updates-radio-default = Dre ziouer
