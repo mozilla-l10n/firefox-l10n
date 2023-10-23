@@ -325,6 +325,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Natanggal na ang <span data-l10n-name="addon-name">{ $addon }</span>.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Natanggal na ang { $addon }.
 pending-uninstall-undo-button = I-undo
 addon-detail-updates-label = Payagang makapag-update nang kusa
 addon-detail-updates-radio-default = Default
