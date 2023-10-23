@@ -365,6 +365,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ہٹا ݙتا ڳیا ہے۔
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } ہٹا ݙتا ڳیا ہے۔
 pending-uninstall-undo-button = کیتا اݨ کیتا
 addon-detail-updates-label = آپوں آپ اپ ڈیٹاں دی اجازت ݙیوو
 addon-detail-updates-radio-default = ڈیفالٹ
