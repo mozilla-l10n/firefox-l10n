@@ -342,6 +342,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = התוספת <span data-l10n-name="addon-name">{ $addon }</span> הוסרה.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = התוספת { $addon } הוסרה.
 pending-uninstall-undo-button = ביטול
 addon-detail-updates-label = עדכונים אוטומטיים
 addon-detail-updates-radio-default = ברירת מחדל
