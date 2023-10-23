@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = დამატების განახლების უსაფრთხოების შემოწმება გამორთულია. განახლებამ შესაძლოა, ზიანი მოგაყენოთ.
 extensions-warning-update-security-button = ჩართვა
     .title = დამატებების განახლების უსაფრთხოების შემოწმების ჩართვა
-extensions-warning-imported-addons = გთხოვთ დაასრულოთ გადმოტანილი გაფართოების ჩადგმა – { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = გთხოვთ დაასრულოთ გადმოტანილი გაფართოების ჩადგმა – { -brand-short-name }.
 extensions-warning-imported-addons-button = გაფართოებების ჩაყენება
