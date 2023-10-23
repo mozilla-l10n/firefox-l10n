@@ -162,7 +162,6 @@ extensions-warning-update-security2 =
     .message = Säkerhetskontroll av tilläggsuppdateringar är inaktiverad. Du är sårbar för skadliga uppdateringar.
 extensions-warning-update-security-button = Aktivera
     .title = Aktiverar säkerhetskontroll av tilläggsuppdateringar
-extensions-warning-imported-addons = Slutför installationen av tillägg som importerades till { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Slutför installationen av tillägg som importerades till { -brand-short-name }.
 extensions-warning-imported-addons-button = Installera tillägg
@@ -360,6 +359,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> har tagits bort.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } har tagits bort.
 pending-uninstall-undo-button = Ångra
 addon-detail-updates-label = Tillåt automatiska uppdateringar
 addon-detail-updates-radio-default = Standard
