@@ -344,6 +344,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span>-ը հեռացուել է։
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon }-ը հեռացուել է։
 pending-uninstall-undo-button = Յետարկել
 addon-detail-updates-label = Թոյլատրել ինքնաշխատ թարմացումները
 addon-detail-updates-radio-default = Սկզբնադիր
