@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Kërko
     .aria-label = Kërko
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Kërkoni me { $engine } ose jepni adresë
 newtab-search-box-handoff-text-no-engine = Bëni kërkim, ose jepni adresë
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Kërkoni me { $engine } ose jepni adresë
     .title = Kërkoni me { $engine } ose jepni adresë
@@ -86,7 +86,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Hiqe
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Hapni menunë
     .aria-label = Hapni menu konteksti për { $title }
@@ -154,16 +154,16 @@ newtab-label-saved = U ruajt te { -pocket-brand-name }
 newtab-label-download = Të shkarkuara
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · E sponsorizuar
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorizuar nga { $sponsor }
 # This string is used under the image of story cards to indicate source and time to read
 # Variables:
-#  $source (String): This is the name of a company or their domain
-#  $timeToRead (Number): This is the estimated number of minutes to read this story
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
 newtab-label-source-read-time = { $source } · { $timeToRead } minuta
 
 ## Section Menu: These strings are displayed in the section context menu and are
@@ -178,7 +178,7 @@ newtab-section-menu-add-topsite = Shtoni Sajt Kryesues
 newtab-section-menu-add-search-engine = Shtoni Motor Kërkimesh
 newtab-section-menu-move-up = Ngrije
 newtab-section-menu-move-down = Ule
-newtab-section-menu-privacy-notice = Shënim Mbi Privatësinë
+newtab-section-menu-privacy-notice = Shënim Privatësie
 
 ## Section aria-labels
 
@@ -192,7 +192,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Sajte Kryesues
 newtab-section-header-recent-activity = Veprimtari së fundi
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Rekomanduar nga { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -200,7 +200,7 @@ newtab-section-header-pocket = Rekomanduar nga { $provider }
 newtab-empty-section-highlights = Filloni shfletimin dhe do t'ju shfaqim disa nga artikujt, videot dhe të tjera faqe interesante që keni vizituar apo faqeruajtur këtu kohët e fundit.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Gjithë ç’kish, e dini. Rikontrolloni më vonë për më tepër histori nga { $provider }. S’pritni dot? Përzgjidhni një temë popullore që të gjenden në internet më tepër histori të goditura.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -242,6 +242,8 @@ newtab-custom-shortcuts-subtitle = Sajte që ruani ose vizitoni
 newtab-custom-shortcuts-toggle =
     .label = Shkurtore
     .description = Sajte që ruani ose vizitoni
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rresht
