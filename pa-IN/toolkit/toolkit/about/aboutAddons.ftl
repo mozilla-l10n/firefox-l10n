@@ -359,6 +359,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> ਨੂੰ ਹਟਾਇਆ ਗਿਆ।
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } ਨੂੰ ਹਟਾਇਆ ਗਿਆ।
 pending-uninstall-undo-button = ਵਾਪਸ
 addon-detail-updates-label = ਆਪਣੇ-ਆਪ ਅੱਪਡੇਟ ਦੀ ਇਜਾਜ਼ਤ ਹੈ
 addon-detail-updates-radio-default = ਮੂਲ
