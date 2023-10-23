@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Tryggingskontroll av tilleggsoppdateringar er slått av. Du er sårbar for skadelege oppdateringar.
 extensions-warning-update-security-button = Slå på
     .title = Slå på tryggingskontroll av tilleggsoppdateringar
-extensions-warning-imported-addons = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Fullfør installasjonen av utvidingar som vart importerte til { -brand-short-name }.
 extensions-warning-imported-addons-button = Installer utvidingar
