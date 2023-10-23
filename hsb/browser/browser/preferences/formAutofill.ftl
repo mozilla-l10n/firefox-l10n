@@ -7,27 +7,45 @@
 
 autofill-manage-addresses-title = Składowane adresy
 autofill-manage-addresses-list-header = Adresy
-
 autofill-manage-credit-cards-title = Składowane kreditne karty
 autofill-manage-credit-cards-list-header = Kreditne karty
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Wotstronić
 autofill-manage-add-button = Přidać…
 autofill-manage-edit-button = Wobdźěłać…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Adresu składować?
+address-capture-update-doorhanger-header = Adresu aktualizować?
+address-capture-edit-doorhanger-header = Adresu wobdźěłać
+address-capture-save-button =
+    .label = Składować
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Nic nětko
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Přetorhnyć
+    .accessKey = P
+address-capture-update-button =
+    .label = Aktualizować
+    .accessKey = A
+address-capture-manage-address-button =
+    .label = Adresowe nastajenja
+address-capture-learn-more-button =
+    .label = Dalše informacije
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nowu adresu přidać
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresu wobdźěłać
-
+autofill-address-name = Mjeno
 autofill-address-given-name = Předmjeno
 autofill-address-additional-name = Druhe předmjeno
 autofill-address-family-name = Swójbne mjeno
 autofill-address-organization = Organizacija
+autofill-address-street-address = Dróhowa adresa
 autofill-address-street = Dróhowa adresa
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +99,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Kraj abo region
+autofill-address-country-only = Kraj
 autofill-address-tel = Telefon
 autofill-address-email = E-mejlowa adresa
-
 autofill-cancel-button = Přetorhnyć
 autofill-save-button = Składować
 autofill-country-warning-message = Awtomatiske wupjelnjenje formularow je tuchwilu jenož za wěste kraje k dispoziciji.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nowu kreditnu kartu přidać
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kreditnu kartu wobdźěłać
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +121,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } pospytuje, daty kreditneje karty pokazać. Wobkrućće přistup k Windowsowemu kontu deleka.
        *[other] { -brand-short-name } pospytuje, daty kreditneje karty pokazać.
     }
-
 autofill-card-number = Kartowe čisło
 autofill-card-invalid-number = Prošu zapodajće płaćiwe kartowe čisło
 autofill-card-name-on-card = Mjeno na karće
