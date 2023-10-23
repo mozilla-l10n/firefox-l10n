@@ -248,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Ҳар вақте ки шумо компютери худро аз нав оғоз мекунед, «{ -brand-short-name }»-ро мекушоед?</strong> Акнун шумо метавонед «{ -brand-short-name }»-ро танзим кунед, то ки он ҳангоми аз нав оғоз кардани дастгоҳи шумо ба таври худкор кушода шавад.
 launch-on-login-learnmore = Маълумоти бештар
 launch-on-login-infobar-confirm-button = Ҳа,  «{ -brand-short-name }»-ро кушоед
     .accesskey = Ҳ
@@ -257,5 +258,6 @@ launch-on-login-infobar-reject-button = Ҳоло не
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Ҳар вақте ки шумо компютери худро аз нав оғоз мекунед, «{ -brand-short-name }»-ро мекушоед?</strong> Барои идора кардани хусусиятҳои «Оғози кор», калидвожаи «Оғози кор»-ро дар танзимот ҷустуҷӯ намоед.
 launch-on-login-infobar-final-reject-button = Не, ташаккур
     .accesskey = Н
