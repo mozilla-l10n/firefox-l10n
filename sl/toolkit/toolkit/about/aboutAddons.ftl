@@ -365,6 +365,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Dodatek <span data-l10n-name="addon-name">{ $addon }</span> je bil odstranjen.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Dodatek { $addon } je bil odstranjen.
 pending-uninstall-undo-button = Razveljavi
 addon-detail-updates-label = Dovoli samodejne posodobitve
 addon-detail-updates-radio-default = Privzeto
