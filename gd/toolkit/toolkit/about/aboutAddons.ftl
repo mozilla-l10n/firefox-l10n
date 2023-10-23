@@ -362,6 +362,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Chaidh <span data-l10n-name="addon-name">{ $addon }</span> a thoirt air falbh.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Chaidh { $addon } a thoirt air falbh.
 pending-uninstall-undo-button = Neo-dhèan
 addon-detail-updates-label = Ceadaich ùrachaidhean fèin-obrachail
 addon-detail-updates-radio-default = Bun-roghainn
