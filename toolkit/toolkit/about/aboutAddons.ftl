@@ -357,6 +357,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> on poistettu.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } on poistettu.
 pending-uninstall-undo-button = Kumoa
 addon-detail-updates-label = Automaattiset päivitykset
 addon-detail-updates-radio-default = Oletus
