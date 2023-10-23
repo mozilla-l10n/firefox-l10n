@@ -24,14 +24,29 @@ address-capture-edit-doorhanger-header = Redigera adress
 address-capture-save-button =
     .label = Spara
     .accessKey = S
+address-capture-not-now-button =
+    .label = Inte nu
+    .accessKey = n
+address-capture-cancel-button =
+    .label = Avbryt
+    .accessKey = A
+address-capture-update-button =
+    .label = Uppdatera
+    .accessKey = U
+address-capture-manage-address-button =
+    .label = Adressinställningar
+address-capture-learn-more-button =
+    .label = Läs mer
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Lägg till ny adress
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Redigera adress
+autofill-address-name = Namn
 autofill-address-given-name = Förnamn
 autofill-address-additional-name = Mellannamn
 autofill-address-family-name = Efternamn
 autofill-address-organization = Organisation
+autofill-address-street-address = Gatuadress
 autofill-address-street = Gatuadress
 
 ## address-level-3 (Sublocality) names
@@ -89,6 +104,7 @@ autofill-address-eircode = Eircode
 ##
 
 autofill-address-country = Land eller region
+autofill-address-country-only = Land
 autofill-address-tel = Telefon
 autofill-address-email = E-post
 autofill-cancel-button = Avbryt

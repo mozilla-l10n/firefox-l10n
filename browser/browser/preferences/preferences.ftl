@@ -1010,9 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snabbåtgärder
     .accesskey = a
-addressbar-locbar-recentsearches-option =
-    .label = Senaste sökningar
-    .accesskey = S
+addressbar-locbar-showrecentsearches-option =
+    .label = Visa senaste sökningar
+    .accesskey = s
 addressbar-suggestions-settings = Ändra inställningar för förslag från sökmotorn
 addressbar-quickactions-learn-more = Läs mer
 
