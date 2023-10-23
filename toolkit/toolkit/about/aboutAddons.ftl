@@ -367,6 +367,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> er blevet fjernet.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } er blevet fjernet.
 pending-uninstall-undo-button = Fortryd
 addon-detail-updates-label = Tillad automatiske opdateringer
 addon-detail-updates-radio-default = Standard
