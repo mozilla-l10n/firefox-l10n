@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = Рост аз мизи кории шу�
 about-private-browsing-cookie-banners-promo-header = Баннерҳои куки гум шаванд!
 about-private-browsing-cookie-banners-promo-button = Маҳдуд кардани баннерҳои куки
 about-private-browsing-cookie-banners-promo-message = Иҷозат диҳед, ки «{ -brand-short-name }» аз ҷониби шумо ба равзанаҳои зоҳиршавандаи куки ба таври худкор ҷавоб диҳад, то шумо тавонед ба тамошокунии озод аз халалрасонӣ баргардед. «{ -brand-short-name }» ба қадри имкон ҳамаи дархостҳоро рад мекунад.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = «{ -brand-short-name }» барои шумо баннерҳои кукиҳоро нигоҳубин мекунад
 
 ## Strings for Felt Privacy v1 experiments in 119
 

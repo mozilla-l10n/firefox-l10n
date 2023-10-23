@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Маҳдудкунии баннери куки
+protections-panel-cookie-banner-blocker-header = Манъкунандаи баннери куки
 protections-panel-cookie-banner-handling-enabled = Барои ин сомона фаъол аст
 protections-panel-cookie-banner-handling-disabled = Барои ин сомона хомӯш аст
 protections-panel-cookie-banner-handling-undetected = Ин сомона дар айни замон дастгирӣ намешавад
@@ -128,6 +129,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = «Маҳдудкунии баннери куки»-ро барои { $host } хомӯш месозед?
 protections-panel-cookie-banner-view-turn-on-for-site = «Маҳдудкунии баннери куки»-ро барои ин сомона хомӯш месозед?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Манъкунандаи баннери куки
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = «Манъкунандаи баннери куки»-ро барои сомонаи { $host } хомӯш месозед?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = «Манъкунандаи баннери куки»-ро барои сомонаи { $host } фаъол месозед?
 protections-panel-cookie-banner-view-cookie-clear-warning = «{ -brand-short-name }» кукиҳои ин сомонаро тоза мекунад ва саҳифаро аз нав бор мекунад. Амали тозакунии ҳамаи кукиҳо метавонад шуморо аз сомона хориҷ кунад ва сабадҳои харидории шуморо холӣ намояд.
 protections-panel-cookie-banner-view-turn-on-description = «{ -brand-short-name }» кӯшиш мекунад, ки ҳамаи дархостҳои кукиҳоро дар сомонаҳои дастгиришаванда ба таври худкор рад кунад.
 protections-panel-cookie-banner-view-cancel = Бекор кардан

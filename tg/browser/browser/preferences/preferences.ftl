@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Ба сомонаҳо хабар диҳед, то онҳо маълумоти маро нафурӯшанд ва ошкор накунанд
     .accesskey = Б
+non-technical-privacy-header = Хусусиятҳои махфияти сомона
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -970,6 +971,7 @@ cookie-banner-handling-description = «{ -brand-short-name }» ба таври �
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Манъкунандаи баннери куки
 cookie-banner-learn-more = Маълумоти бештар
 forms-handle-cookie-banners =
     .label = Маҳдуд кардани баннерҳои куки
