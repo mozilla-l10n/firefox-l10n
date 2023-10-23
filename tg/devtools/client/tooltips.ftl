@@ -40,6 +40,13 @@ inactive-css-border-image = <strong>{ $property }</strong> нисбат ба и�
 inactive-css-ruby-element = <strong>{ $property }</strong> нисбат ба ин унсур таъсир намерасонад, зеро ки он унсури «ruby» мебошад. Андозаи он аз тарафи андозаи шрифти матни «ruby» муайян карда мешавад.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> барои ҷудокунии фарзунсурҳо дастгирӣ карда намешавад.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> барои фарзунсурҳои «::cue» дастгирӣ карда намешавад.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он зиёда аз { $lineCount } сатр дар бар мегирад.
+       *[other] <strong>{ $property }</strong> ба ин унсур таъсир намерасонад, зеро ки он зиёда аз { $lineCount } сатр дар бар мегирад.
+    }
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
