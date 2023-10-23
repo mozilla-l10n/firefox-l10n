@@ -171,7 +171,6 @@ extensions-warning-update-security2 =
     .message = ᱮᱰ-ᱟᱹᱱ ᱟᱹᱯᱛᱤ ᱧᱮᱞ ᱫᱚ ᱵᱟᱝ ᱦᱩᱭ ᱦᱚᱪᱚ ᱵᱟᱠᱟᱱᱟ ᱾ ᱟᱢ ᱦᱟᱹᱞᱤ ᱠᱚ ᱫᱟᱨᱟᱭ ᱛᱮ ᱥᱩᱞᱟᱹᱱᱟᱢᱟ ᱫᱟᱲᱮᱭᱟᱜ ᱟ ᱾
 extensions-warning-update-security-button = ᱦᱩᱭ ᱦᱚᱪᱚ
     .title = ᱮᱰ-ᱟᱹᱱ ᱦᱟᱹᱞᱤ ᱧᱮᱸᱞ ᱦᱩᱭ ᱦᱚᱪᱚ ᱛᱮᱭᱟᱨ ᱢᱮ
-extensions-warning-imported-addons = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚᱣᱟᱜ ᱵᱚᱦᱟᱞ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱛᱮ ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ ᱾
 extensions-warning-imported-addons2 =
     .message = ᱫᱟᱭᱟᱠᱟᱛᱮ ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱠᱚᱣᱟᱜ ᱵᱚᱦᱟᱞ ᱴᱷᱟᱹᱣᱠᱟᱹᱭ ᱢᱮ ᱡᱟᱦᱟᱸ ᱫᱚ { -brand-short-name } ᱛᱮ ᱞᱟᱫᱮᱜ ᱠᱟᱱᱟ ᱾
 extensions-warning-imported-addons-button = ᱮᱠᱥᱴᱮᱱᱥᱚᱱ ᱵᱚᱦᱟᱞ ᱢᱮ
