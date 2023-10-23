@@ -363,6 +363,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> es estat suprimit.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } es estat suprimit.
 pending-uninstall-undo-button = Anullar
 addon-detail-updates-label = Permetre las mesas a jorn automaticas
 addon-detail-updates-radio-default = Defaut
