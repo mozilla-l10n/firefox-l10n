@@ -171,7 +171,6 @@ extensions-warning-update-security2 =
     .message = Il control de sigurece dai inzornaments dai components adizionâi al è disativât. Tu podaressis vê problemis di sigurece par vie dai inzornaments.
 extensions-warning-update-security-button = Ative
     .title = Ative il control di sigurece dal inzornament dal component adizionâl
-extensions-warning-imported-addons = Finìs la instalazion des estensions impuartadis su { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Finìs la instalazion des estensions impuartadis su { -brand-short-name }.
 extensions-warning-imported-addons-button = Instale estensions
