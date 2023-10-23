@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = การตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริมถูกปิดใช้งาน คุณอาจถูกบุกรุกโดยการอัปเดต
 extensions-warning-update-security-button = เปิดใช้งาน
     .title = เปิดใช้งานการตรวจสอบความปลอดภัยของการอัปเดตส่วนเสริม
-extensions-warning-imported-addons = โปรดติดตั้งส่วนขยายที่นำเข้าไปยัง { -brand-short-name } ให้เสร็จสิ้น
 extensions-warning-imported-addons2 =
     .message = โปรดติดตั้งส่วนขยายที่นำเข้าไปยัง { -brand-short-name } ให้เสร็จสิ้น
 extensions-warning-imported-addons-button = ติดตั้งส่วนขยาย
@@ -362,6 +361,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = เอา <span data-l10n-name="addon-name">{ $addon }</span> ออกแล้ว
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = เอา { $addon } ออกแล้ว
 pending-uninstall-undo-button = เลิกทำ
 addon-detail-updates-label = อนุญาตให้อัปเดตโดยอัตโนมัติ
 addon-detail-updates-radio-default = ค่าเริ่มต้น
