@@ -164,7 +164,6 @@ extensions-warning-update-security2 =
     .message = 附加组件更新安全检查已被禁用。您可能会受到更新带来的安全威胁。
 extensions-warning-update-security-button = 启用
     .title = 启用附加组件安全更新检查
-extensions-warning-imported-addons = 请完成安装导入至 { -brand-short-name } 的扩展。
 extensions-warning-imported-addons2 =
     .message = 请完成安装导入至 { -brand-short-name } 的扩展。
 extensions-warning-imported-addons-button = 安装扩展
