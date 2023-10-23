@@ -239,6 +239,8 @@ device-migration-fxa-spotlight-link = Баъдтар ёдоварӣ кунед
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Барномаи «{ -brand-short-name }»-ро ҳамчун хонандаи пешфарзи файлҳои PDF танзим мекунед?</strong> Барои хондан ва таҳрир кардани файлҳои PDF, ки ба компютери шумо нигоҳ дошта шудаанд, аз барномаи { -brand-short-name } истифода баред.
 pdf-default-notification-set-default-button =
     .label = Ҳамчун стандартӣ танзим кардан
 pdf-default-notification-decline-button =
