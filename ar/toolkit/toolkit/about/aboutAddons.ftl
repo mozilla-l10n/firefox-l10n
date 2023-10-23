@@ -160,7 +160,6 @@ extensions-warning-update-security2 =
     .message = التحقق من أمن التحديثات قد عُطّل. قد تشكل التهديدات عليك خطرًا.
 extensions-warning-update-security-button = فعّل
     .title = فعّل التحقق من أمن تحديثات الإضافات
-extensions-warning-imported-addons = رجاءً إنهي تثبيت الامتدادات التي استوردت إلى { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = رجاءً إنهي تثبيت الامتدادات التي استوردت إلى { -brand-short-name }.
 extensions-warning-imported-addons-button = تثبيت الامتدادات
