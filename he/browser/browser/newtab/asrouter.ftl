@@ -12,8 +12,8 @@ cfr-doorhanger-feature-heading = תכונה מומלצת
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = למה אני רואה את זה
-cfr-doorhanger-extension-cancel-button = לא עכשיו
-    .accesskey = ע
+cfr-doorhanger-extension-cancel-button = לא כעת
+    .accesskey = ל
 cfr-doorhanger-extension-ok-button = הוספה כעת
     .accesskey = ס
 cfr-doorhanger-extension-manage-settings-button = ניהול הגדרות המלצות

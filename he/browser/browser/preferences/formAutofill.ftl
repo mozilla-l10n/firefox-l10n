@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = כתובות שמורות
 autofill-manage-addresses-list-header = כתובות
-
 autofill-manage-credit-cards-title = כרטיסי אשראי שמורים
 autofill-manage-credit-cards-list-header = כרטיסי אשראי
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = הסרה
 autofill-manage-add-button = הוספה…
 autofill-manage-edit-button = עריכה…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = לשמור את הכתובת?
+address-capture-save-doorhanger-description = ניתן לשמור מידע ב־{ -brand-short-name } כדי שיהיה ניתן למלא טפסים במהירות.
+address-capture-update-doorhanger-header = לעדכן את הכתובת?
+address-capture-edit-doorhanger-header = עריכת כתובת
+address-capture-save-button =
+    .label = שמירה
+    .accessKey = ש
+address-capture-not-now-button =
+    .label = לא כעת
+    .accessKey = ל
+address-capture-cancel-button =
+    .label = ביטול
+    .accessKey = ב
+address-capture-update-button =
+    .label = עדכון
+    .accessKey = ע
+address-capture-manage-address-button =
+    .label = הגדרות כתובות
+address-capture-learn-more-button =
+    .label = מידע נוסף
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = הוספת כתובת חדשה
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = עריכת כתובת
-
+autofill-address-name = שם
 autofill-address-given-name = שם פרטי
 autofill-address-additional-name = שם אמצעי
 autofill-address-family-name = שם משפחה
 autofill-address-organization = ארגון
+autofill-address-street-address = כתובת רחוב
 autofill-address-street = כתובת רחוב
 
 ## address-level-3 (Sublocality) names
@@ -71,19 +90,20 @@ autofill-address-eircode = מיקוד אירי
 
 ##
 
+
+##
+
 autofill-address-country = ארץ או איזור
+autofill-address-country-only = מדינה
 autofill-address-tel = טלפון
 autofill-address-email = דוא״ל
-
 autofill-cancel-button = ביטול
 autofill-save-button = שמירה
 autofill-country-warning-message = מילוי טפסים אוטומטי זמין כרגע למדינות מסוימות בלבד.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = הוספת כרטיס אשראי חדש
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = עריכת כרטיס אשראי
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -92,7 +112,6 @@ autofill-edit-card-password-prompt =
         [windows] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי. יש לאשר את הגישה לחשבון ה־Windows הזה להלן.
        *[other] מתבצע ניסיון מצד { -brand-short-name } להציג נתוני כרטיס אשראי.
     }
-
 autofill-card-number = מספר כרטיס
 autofill-card-invalid-number = נא להקליד מספר כרטיס תקני
 autofill-card-name-on-card = שם שעל הכרטיס
