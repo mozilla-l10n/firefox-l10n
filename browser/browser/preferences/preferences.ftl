@@ -974,6 +974,7 @@ cookie-banner-handling-description = Το { -brand-short-name } προσπαθε
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Αποκλεισμός μηνυμάτων για cookie
+cookie-banner-blocker-description = Όταν ένας ιστότοπος ρωτά εάν μπορεί να χρησιμοποιήσει cookie στη λειτουργία ιδιωτικής περιήγησης, το { -brand-short-name } αρνείται αυτόματα για εσάς. Μόνο σε υποστηριζόμενους ιστοτόπους.
 cookie-banner-learn-more = Μάθετε περισσότερα
 forms-handle-cookie-banners =
     .label = Μείωση μηνυμάτων για cookies
@@ -1009,9 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Γρήγορων ενεργειών
     .accesskey = Γ
-addressbar-locbar-recentsearches-option =
-    .label = Πρόσφατες αναζητήσεις
-    .accesskey = Π
+addressbar-locbar-showrecentsearches-option =
+    .label = Εμφάνιση πρόσφατων αναζητήσεων
+    .accesskey = φ
 addressbar-suggestions-settings = Αλλαγή προτιμήσεων για τις προτάσεις μηχανών αναζήτησης
 addressbar-quickactions-learn-more = Μάθετε περισσότερα
 

@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Απενεργ�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ενεργοποίηση αποκλεισμού μηνυμάτων για cookie σε αυτόν τον ιστότοπο;
 protections-panel-cookie-banner-view-cookie-clear-warning = Το { -brand-short-name } θα απαλείψει τα cookies του ιστοτόπου και θα ανανεώσει τη σελίδα. Η απαλοιφή όλων των cookies ενδέχεται να σας αποσυνδέσει ή να αδειάσει τα καλάθια αγορών.
 protections-panel-cookie-banner-view-turn-on-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα αιτήματα για cookies σε υποστηριζόμενους ιστότοπους.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ενεργοποιήστε το και το { -brand-short-name } θα προσπαθεί να απορρίπτει αυτόματα τα μηνύματα για cookie σε αυτόν τον ιστότοπο.
 protections-panel-cookie-banner-view-cancel = Ακύρωση
 protections-panel-cookie-banner-view-turn-off = Απενεργοποίηση
 protections-panel-cookie-banner-view-turn-on = Ενεργοποίηση
