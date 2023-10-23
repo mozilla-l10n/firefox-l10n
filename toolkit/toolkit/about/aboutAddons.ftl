@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Il test da segirezza per l'actualisaziun da supplements è deactivà. Eventualmain pon actualisaziuns donnegiar tes computer.
 extensions-warning-update-security-button = Activar
     .title = Activar il test da segirezza per l'actualisaziun da supplements
-extensions-warning-imported-addons = Finescha per plaschair l'installaziun da las extensiuns importadas en { -brand-short-name }.
 extensions-warning-imported-addons2 =
     .message = Finescha per plaschair l'installaziun da las extensiuns importadas en { -brand-short-name }.
 extensions-warning-imported-addons-button = Installar las extensiuns
@@ -361,6 +360,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> è vegnì allontanà.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } è vegnì allontanà.
 pending-uninstall-undo-button = Revocar
 addon-detail-updates-label = Permetter actualisaziuns automaticas
 addon-detail-updates-radio-default = Standard
