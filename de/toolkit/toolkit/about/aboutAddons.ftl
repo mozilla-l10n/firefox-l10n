@@ -166,7 +166,6 @@ extensions-warning-update-security2 =
     .message = Die Überprüfung der Sicherheit von Add-on-Updates ist deaktiviert. Ihre Sicherheit könnte durch Updates kompromittiert worden sein.
 extensions-warning-update-security-button = Aktivieren
     .title = Überprüfung auf Sicherheitsupdates für Add-ons aktivieren
-extensions-warning-imported-addons = Bitte schließen Sie die Installation von Erweiterungen, die in { -brand-short-name } importiert wurden, ab.
 extensions-warning-imported-addons2 =
     .message = Bitte schließen Sie die Installation von Erweiterungen, die in { -brand-short-name } importiert wurden, ab.
 extensions-warning-imported-addons-button = Erweiterungen installieren
@@ -364,6 +363,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> wurde entfernt.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } wurde entfernt.
 pending-uninstall-undo-button = Rückgängig
 addon-detail-updates-label = Automatische Updates erlauben
 addon-detail-updates-radio-default = Standard
