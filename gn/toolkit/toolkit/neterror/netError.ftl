@@ -5,7 +5,7 @@
 
 ## Error page titles
 
-neterror-page-title = Apañuái oñemyenyhẽvo kuatiarogue
+neterror-page-title = Apañuái oñemyanyhẽvo kuatiarogue
 certerror-page-title = Jesarekorã: Imarãkuaáva tekorosã tenondeve
 certerror-sts-page-title = Ndoikéi: Ikatu iñapañuãi tekorosãrã
 neterror-blocked-by-policy-page-title = Kuatiarogue jokopyre
@@ -85,7 +85,7 @@ neterror-unknown-socket-type-server-config = Kóva ikatu ojehuhína peteĩ ñemb
 neterror-not-cached-intro = Kuatia jerurepyre noĩvéima ojeporu hag̃uáicha kache { -brand-short-name }-pe.
 neterror-not-cached-sensitive = Kyhyje tekorosãrãramo, { -brand-short-name } ndojeruremo’ãvéima ijehegui kuatiakuéra takate’ỹha.
 neterror-not-cached-try-again = Eikutu Ñeha’ãjey ejerure jey hag̃ua pe kuatia ñanduti renda pegua.
-neterror-net-offline = Ejopy “Ha’ã jey” remoambue hag̃ua jeikekatúpe ha kuatiarogue myenyhẽjey.
+neterror-net-offline = Ejopy “Ha’ã jey” remoambue hag̃ua jeikekatúpe ha kuatiarogue myanyhẽjey.
 neterror-proxy-resolve-failure-settings = Ehechajey proxy ñemboheko eikuaa porã hag̃ua oikoitetaha.
 neterror-proxy-resolve-failure-connection = Ehechajey nemohendaha oguerekópa ñandutípe jeikekatu ojeporukuaáva.
 neterror-proxy-resolve-failure-firewall = Nemohendaha térã ñanduti omo’ã chupe peteĩ tatakytĩha térã proxy,  ehechajeýke { -brand-short-name } oguerekópa ñemoneĩ oike hag̃ua ñandutípe.
@@ -120,7 +120,7 @@ neterror-inadequate-security-code = Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURIT
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-neterror-clock-skew-error = Ne mohendaha oimo’ã ha’eha { DATETIME($now, dateStyle: "medium") }, oñemotenondéva { -brand-short-name } rehe eikekatu hag̃ua. Eike hag̃ua <b>{ $hostname }</b>, embohekopyahu ne mohendaha aravo, arange ha aravo rendaguasu ag̃agua, ha upéi emyenyhẽjey <b>{ $hostname }</b>.
+neterror-clock-skew-error = Ne mohendaha oimo’ã ha’eha { DATETIME($now, dateStyle: "medium") }, oñemotenondéva { -brand-short-name } rehe eikekatu hag̃ua. Eike hag̃ua <b>{ $hostname }</b>, embohekopyahu ne mohendaha aravo, arange ha aravo rendaguasu ag̃agua, ha upéi emyanyhẽjey <b>{ $hostname }</b>.
 neterror-network-protocol-error-intro = Ko kuatiarogue ehechaséhína ndaikatúi ehecha oĩ rupi jejavy ñanduti raperekoitépe.
 neterror-network-protocol-error-contact-website = Eñe’ẽ ñanduti renda jára ndive emomarandu hag̃ua ko apañuãi.
 certerror-expired-cert-second-para = Ikatu pe tenda pegua ñemboajepyre hi’ára g̃uahẽma, omboykéva { -brand-short-name } oike hag̃ua tekorosãme. Eikétarõ ko tendápe, umi mba’evai ikatu omonda ne marandu ha avei ñe’ẽñemi, ñanduti veve térã mba’emimi kuatia’atã ñemurãva.
@@ -131,7 +131,7 @@ certerror-unknown-issuer-what-can-you-do-about-it-contact-admin = Eiporúramo ñ
 # Variables:
 # $hostname (String) - Hostname of the website to which the user was trying to connect.
 # $now (Date) - The current datetime, to be formatted as a date
-certerror-expired-cert-what-can-you-do-about-it-clock = Pe arapapaha ne mohendaha rehegua oĩporã { DATETIME($now, dateStyle: "medium") }. Ehechajey ne mohendahápepa oĩporã arange, aravo ha avei aravo rendaguasu ag̃agua nde apopyvusy ñemoĩporãme, ha upéi emyenyhẽjey <b>{ $hostname }</b>.
+certerror-expired-cert-what-can-you-do-about-it-clock = Pe arapapaha ne mohendaha rehegua oĩporã { DATETIME($now, dateStyle: "medium") }. Ehechajey ne mohendahápepa oĩporã arange, aravo ha avei aravo rendaguasu ag̃agua nde apopyvusy ñemoĩporãme, ha upéi emyanyhẽjey <b>{ $hostname }</b>.
 certerror-expired-cert-what-can-you-do-about-it-contact-website = Pe nde aravopapaha oĩporãramo, ko ñanduti rendáma ikatu oñembohekovai, ha ndaikatúi mba’eve ejapo emoĩporã hag̃ua. Ikatu emomarandu pe tenda ñangarekohárape ko apañuãi rehegua.
 certerror-bad-cert-domain-what-can-you-do-about-it = Ikatu hína iñapañuãi ko ñanduti renda, ha ndaikatúi ejapo mba’eve emoĩporã hag̃ua. Ikatu emomarandu ñanduti renda ñangarekohárape pe apañuãi rehegua.
 certerror-mitm-what-can-you-do-about-it-antivirus = Pe nde software mba’eju’i jukaha oguereko tembiapoitéramo jeike ipapapýva monguatia (oñehenóiva py’ỹi “ñanduti ñemoha’anga” térã “https ñemoha’anga”), ikatu eipe’a pe tembiapoite. Péva ndoikóiramo, ikatu emboguete ha emohendajey pe mba’eju’i jukaha.

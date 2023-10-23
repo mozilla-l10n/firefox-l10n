@@ -69,7 +69,7 @@ about-telemetry-histogram-stats =
 # Variables:
 #   $telemetryServerOwner (string) - the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ko kuatiarogue ohechauka marandu tembiapokue rehegua, hardware, jeporu ha ñemomba’etee ombyatýva Telemetry. Ko marandu oñemondo { $telemetryServerOwner }-pe oipytyvõ { -brand-full-name }-pe oiko porãve hag̃ua.
-about-telemetry-settings-explanation = Telemetría ombyaty hína { about-telemetry-data-type } ha iñemyenyhẽ oĩ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
+about-telemetry-settings-explanation = Telemetría ombyaty hína { about-telemetry-data-type } ha iñemyanyhẽ oĩ <a data-l10n-name="upload-link">{ about-telemetry-upload-type }</a>.
 # Variables:
 #   $name (string) - Ping name, e.g. “saved-session”
 #   $timestamp (string) - Ping localized timestamp, e.g. “2017/07/08 10:40:46”
