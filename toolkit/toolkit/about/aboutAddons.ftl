@@ -167,7 +167,6 @@ extensions-warning-update-security2 =
     .message = Sprawdzanie bezpieczeństwa aktualizacji jest wyłączone. Aktualizacje mogą powodować zagrożenie.
 extensions-warning-update-security-button = Włącz
     .title = Włącz sprawdzanie bezpieczeństwa aktualizacji dodatków
-extensions-warning-imported-addons = Dokończ instalację rozszerzeń, które zostały zaimportowane do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons2 =
     .message = Dokończ instalację rozszerzeń, które zostały zaimportowane do { -brand-short-name(case: "gen") }.
 extensions-warning-imported-addons-button = Zainstaluj rozszerzenia
@@ -363,6 +362,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Usunięto dodatek <span data-l10n-name="addon-name">{ $addon }</span>.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Usunięto dodatek { $addon }.
 pending-uninstall-undo-button = Cofnij
 addon-detail-updates-label = Automatyczne aktualizacje:
 addon-detail-updates-radio-default = ustawienia domyślne
