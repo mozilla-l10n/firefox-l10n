@@ -249,6 +249,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = Quitóse <span data-l10n-name="addon-name">{ $addon }</span>
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = Quitóse { $addon }
 pending-uninstall-undo-button = Desfacer
 addon-detail-updates-label = Permitir l'anovamientu automáticu
 install-update-button = Anovar
