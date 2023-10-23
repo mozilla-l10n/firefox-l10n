@@ -363,6 +363,10 @@ addon-detail-reviews-link =
 # Variables:
 #   $addon (string) - Name of the add-on
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> is fuortsmiten.
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description2 =
+    .message = { $addon } is fuortsmiten.
 pending-uninstall-undo-button = Ungedien meitsje
 addon-detail-updates-label = Automatyske fernijingen tastean
 addon-detail-updates-radio-default = Standert
