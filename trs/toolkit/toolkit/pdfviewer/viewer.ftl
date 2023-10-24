@@ -93,12 +93,20 @@ pdfjs-document-properties-file-size = Dàj yachìj archîbo:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = Si yugui:
 pdfjs-document-properties-author = Sí girirà:
 pdfjs-document-properties-subject = Dugui':
 pdfjs-document-properties-keywords = Nej nuguan' huìi:
 pdfjs-document-properties-creation-date = Gui gurugui' man:
 pdfjs-document-properties-modification-date = Nuguan' nahuin nakà:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Guiri ro'
 pdfjs-document-properties-producer = Sa ri PDF:
 pdfjs-document-properties-version = PDF Version:
