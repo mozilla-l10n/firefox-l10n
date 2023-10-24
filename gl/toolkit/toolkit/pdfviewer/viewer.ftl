@@ -162,6 +162,7 @@ pdfjs-current-outline-item-button-label = Elemento delimitado actualmente
 pdfjs-findbar-button =
     .title = Atopar no documento
 pdfjs-findbar-button-label = Atopar
+pdfjs-additional-layers = Capas adicionais
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
