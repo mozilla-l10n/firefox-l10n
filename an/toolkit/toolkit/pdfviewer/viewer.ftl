@@ -111,6 +111,7 @@ pdfjs-document-properties-creator = Creyador:
 pdfjs-document-properties-producer = Creyador de PDF:
 pdfjs-document-properties-version = Versión de PDF:
 pdfjs-document-properties-page-count = Numero de pachinas:
+pdfjs-document-properties-page-size = Mida de pachina:
 pdfjs-document-properties-page-size-unit-inches = pulgadas
 pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = vertical
