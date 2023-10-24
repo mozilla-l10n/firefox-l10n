@@ -11,6 +11,28 @@ pdfjs-previous-button-label = Predchádzajúca
 pdfjs-next-button =
     .title = Nasledujúca strana
 pdfjs-next-button-label = Nasledujúca
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Strana
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = z { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } z { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = Zmenšiť veľkosť
+pdfjs-zoom-out-button-label = Zmenšiť veľkosť
+pdfjs-zoom-in-button =
+    .title = Zväčšiť veľkosť
+pdfjs-zoom-in-button-label = Zväčšiť veľkosť
+pdfjs-zoom-select =
+    .title = Nastavenie veľkosti
+pdfjs-presentation-mode-button =
+    .title = Prepnúť na režim prezentácie
+pdfjs-presentation-mode-button-label = Režim prezentácie
 pdfjs-open-file-button =
     .title = Otvoriť súbor
 pdfjs-open-file-button-label = Otvoriť
@@ -35,9 +57,33 @@ pdfjs-page-rotate-cw-button-label = Otočiť v smere hodinových ručičiek
 pdfjs-page-rotate-ccw-button =
     .title = Otočiť proti smeru hodinových ručičiek
 pdfjs-page-rotate-ccw-button-label = Otočiť proti smeru hodinových ručičiek
+pdfjs-cursor-text-select-tool-button =
+    .title = Povoliť výber textu
+pdfjs-cursor-text-select-tool-button-label = Výber textu
+pdfjs-cursor-hand-tool-button =
+    .title = Povoliť nástroj ruka
+pdfjs-cursor-hand-tool-button-label = Nástroj ruka
 pdfjs-scroll-page-button =
     .title = Použiť rolovanie po stránkach
 pdfjs-scroll-page-button-label = Rolovanie po stránkach
+pdfjs-scroll-vertical-button =
+    .title = Používať zvislé posúvanie
+pdfjs-scroll-vertical-button-label = Zvislé posúvanie
+pdfjs-scroll-horizontal-button =
+    .title = Používať vodorovné posúvanie
+pdfjs-scroll-horizontal-button-label = Vodorovné posúvanie
+pdfjs-scroll-wrapped-button =
+    .title = Použiť postupné posúvanie
+pdfjs-scroll-wrapped-button-label = Postupné posúvanie
+pdfjs-spread-none-button =
+    .title = Nezdružovať stránky
+pdfjs-spread-none-button-label = Žiadne združovanie
+pdfjs-spread-odd-button =
+    .title = Združí stránky a umiestni nepárne stránky vľavo
+pdfjs-spread-odd-button-label = Združiť stránky (nepárne vľavo)
+pdfjs-spread-even-button =
+    .title = Združí stránky a umiestni párne stránky vľavo
+pdfjs-spread-even-button-label = Združiť stránky (párne vľavo)
 
 ## Document properties dialog
 
@@ -68,6 +114,15 @@ pdfjs-document-properties-creator = Vytvoril:
 pdfjs-document-properties-producer = Tvorca PDF:
 pdfjs-document-properties-version = Verzia PDF:
 pdfjs-document-properties-page-count = Počet strán:
+pdfjs-document-properties-page-size = Veľkosť stránky:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = na výšku
+pdfjs-document-properties-page-size-orientation-landscape = na šírku
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = List
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -76,13 +131,22 @@ pdfjs-document-properties-page-count = Počet strán:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Rýchle Web View:
+pdfjs-document-properties-linearized-yes = Áno
+pdfjs-document-properties-linearized-no = Nie
 pdfjs-document-properties-close-button = Zavrieť
 
 ## Print
 
+pdfjs-print-progress-message = Príprava dokumentu na tlač…
+pdfjs-print-progress-close-button = Zrušiť
 pdfjs-printing-not-supported = Upozornenie: tlač nie je v tomto prehliadači plne podporovaná.
 pdfjs-printing-not-ready = Upozornenie: súbor PDF nie je plne načítaný pre tlač.
 
@@ -90,10 +154,18 @@ pdfjs-printing-not-ready = Upozornenie: súbor PDF nie je plne načítaný pre t
 
 pdfjs-toggle-sidebar-button =
     .title = Prepnúť bočný panel
+pdfjs-toggle-sidebar-notification-button =
+    .title = Prepnúť bočný panel (dokument obsahuje osnovu/prílohy/vrstvy)
 pdfjs-toggle-sidebar-button-label = Prepnúť bočný panel
+pdfjs-document-outline-button =
+    .title = Zobraziť osnovu dokumentu (dvojitým kliknutím rozbalíte/zbalíte všetky položky)
+pdfjs-document-outline-button-label = Osnova dokumentu
 pdfjs-attachments-button =
     .title = Zobraziť prílohy
 pdfjs-attachments-button-label = Prílohy
+pdfjs-layers-button =
+    .title = Zobraziť vrstvy (dvojitým kliknutím uvediete všetky vrstvy do pôvodného stavu)
+pdfjs-layers-button-label = Vrstvy
 pdfjs-thumbs-button =
     .title = Zobraziť miniatúry
 pdfjs-thumbs-button-label = Miniatúry
@@ -117,6 +189,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Hľadať
+    .placeholder = Hľadať v dokumente…
 pdfjs-find-previous-button =
     .title = Vyhľadať predchádzajúci výskyt reťazca
 pdfjs-find-previous-button-label = Predchádzajúce
@@ -124,7 +199,9 @@ pdfjs-find-next-button =
     .title = Vyhľadať ďalší výskyt reťazca
 pdfjs-find-next-button-label = Ďalšie
 pdfjs-find-highlight-checkbox = Zvýrazniť všetky
+pdfjs-find-match-case-checkbox-label = Rozlišovať veľkosť písmen
 pdfjs-find-match-diacritics-checkbox-label = Rozlišovať diakritiku
+pdfjs-find-entire-word-checkbox-label = Celé slová
 pdfjs-find-reached-top = Bol dosiahnutý začiatok stránky, pokračuje sa od konca
 pdfjs-find-reached-bottom = Bol dosiahnutý koniec stránky, pokračuje sa od začiatku
 pdfjs-find-not-found = Výraz nebol nájdený
@@ -135,6 +212,9 @@ pdfjs-page-scale-width = Na šírku strany
 pdfjs-page-scale-fit = Na veľkosť strany
 pdfjs-page-scale-auto = Automatická veľkosť
 pdfjs-page-scale-actual = Skutočná veľkosť
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
@@ -152,6 +232,10 @@ pdfjs-unexpected-response-error = Neočakávaná odpoveď zo servera.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
