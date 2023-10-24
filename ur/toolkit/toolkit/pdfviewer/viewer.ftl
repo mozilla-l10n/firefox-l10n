@@ -57,6 +57,21 @@ pdfjs-page-rotate-cw-button-label = گھڑی وار گھمائیں
 pdfjs-page-rotate-ccw-button =
     .title = ضد گھڑی وار گھمائیں
 pdfjs-page-rotate-ccw-button-label = ضد گھڑی وار گھمائیں
+pdfjs-cursor-text-select-tool-button =
+    .title = متن کے انتخاب کے ٹول کو فعال بناے
+pdfjs-cursor-text-select-tool-button-label = متن کے انتخاب کا آلہ
+pdfjs-cursor-hand-tool-button =
+    .title = ہینڈ ٹول کو فعال بناییں
+pdfjs-cursor-hand-tool-button-label = ہاتھ کا آلہ
+pdfjs-scroll-vertical-button =
+    .title = عمودی اسکرولنگ کا استعمال کریں
+pdfjs-scroll-vertical-button-label = عمودی اسکرولنگ
+pdfjs-scroll-horizontal-button =
+    .title = افقی سکرولنگ کا استعمال کریں
+pdfjs-scroll-horizontal-button-label = افقی سکرولنگ
+pdfjs-spread-none-button-label = کوئی پھیلاؤ نہیں
+pdfjs-spread-odd-button-label = تاک پھیلاؤ
+pdfjs-spread-even-button-label = جفت پھیلاؤ
 
 ## Document properties dialog
 
@@ -87,6 +102,10 @@ pdfjs-document-properties-creator = تخلیق کار:
 pdfjs-document-properties-producer = PDF پیدا کار:
 pdfjs-document-properties-version = PDF ورژن:
 pdfjs-document-properties-page-count = صفحہ شمار:
+pdfjs-document-properties-page-size-unit-inches = میں
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = عمودی انداز
+pdfjs-document-properties-page-size-orientation-landscape = افقى انداز
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +114,16 @@ pdfjs-document-properties-page-count = صفحہ شمار:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } { $name } { $orientation }
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = تیز ویب دیکھیں:
+pdfjs-document-properties-linearized-yes = ہاں
+pdfjs-document-properties-linearized-no = نہیں
 pdfjs-document-properties-close-button = بند کریں
 
 ## Print
@@ -141,6 +167,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = ڈھونڈیں
+    .placeholder = دستاویز… میں ڈھونڈیں
 pdfjs-find-previous-button =
     .title = فقرے کا پچھلا وقوع ڈھونڈیں
 pdfjs-find-previous-button-label = پچھلا
@@ -149,6 +178,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = آگے
 pdfjs-find-highlight-checkbox = تمام نمایاں کریں
 pdfjs-find-match-case-checkbox-label = حروف مشابہ کریں
+pdfjs-find-entire-word-checkbox-label = تمام الفاظ
 pdfjs-find-reached-top = صفحہ کے شروع پر پہنچ گیا، نیچے سے جاری کیا
 pdfjs-find-reached-bottom = صفحہ کے اختتام پر پہنچ گیا، اوپر سے جاری کیا
 pdfjs-find-not-found = فقرا نہیں ملا
@@ -165,6 +195,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = صفحہ { $page }
 
 ## Loading indicator messages
 
@@ -175,6 +209,10 @@ pdfjs-unexpected-response-error = غیرمتوقع پیش کار جواب
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }.{ $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
