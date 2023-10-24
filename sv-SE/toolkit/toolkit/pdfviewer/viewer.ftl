@@ -39,6 +39,9 @@ pdfjs-open-file-button-label = Öppna
 pdfjs-print-button =
     .title = Skriv ut
 pdfjs-print-button-label = Skriv ut
+pdfjs-bookmark-button =
+    .title = Aktuell sida (Visa URL från aktuell sida)
+pdfjs-bookmark-button-label = Aktuell sida
 
 ##  Secondary toolbar and context menu
 
@@ -57,6 +60,21 @@ pdfjs-page-rotate-cw-button-label = Rotera medurs
 pdfjs-page-rotate-ccw-button =
     .title = Rotera moturs
 pdfjs-page-rotate-ccw-button-label = Rotera moturs
+pdfjs-cursor-text-select-tool-button =
+    .title = Aktivera textmarkeringsverktyg
+pdfjs-cursor-text-select-tool-button-label = Textmarkeringsverktyg
+pdfjs-cursor-hand-tool-button =
+    .title = Aktivera handverktyg
+pdfjs-cursor-hand-tool-button-label = Handverktyg
+pdfjs-scroll-page-button =
+    .title = Använd sidrullning
+pdfjs-scroll-page-button-label = Sidrullning
+pdfjs-scroll-vertical-button =
+    .title = Använd vertikal rullning
+pdfjs-scroll-vertical-button-label = Vertikal rullning
+pdfjs-scroll-horizontal-button =
+    .title = Använd horisontell rullning
+pdfjs-scroll-horizontal-button-label = Horisontell rullning
 
 ## Document properties dialog
 
@@ -87,6 +105,11 @@ pdfjs-document-properties-creator = Skapare:
 pdfjs-document-properties-producer = PDF-producent:
 pdfjs-document-properties-version = PDF-version:
 pdfjs-document-properties-page-count = Sidantal:
+pdfjs-document-properties-page-size = Pappersstorlek:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-orientation-landscape = landskap
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +118,14 @@ pdfjs-document-properties-page-count = Sidantal:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Snabb webbvisning:
 pdfjs-document-properties-close-button = Stäng
 
 ## Print
@@ -114,6 +142,8 @@ pdfjs-printing-not-ready = Varning: PDF:en är inte klar för utskrift.
 
 pdfjs-toggle-sidebar-button =
     .title = Visa/dölj sidofält
+pdfjs-toggle-sidebar-notification-button =
+    .title = Växla sidofält (dokumentet innehåller dokumentstruktur/bilagor/lager)
 pdfjs-toggle-sidebar-button-label = Visa/dölj sidofält
 pdfjs-document-outline-button =
     .title = Visa dokumentdisposition (dubbelklicka för att expandera/komprimera alla objekt)
@@ -121,9 +151,14 @@ pdfjs-document-outline-button-label = Dokumentöversikt
 pdfjs-attachments-button =
     .title = Visa Bilagor
 pdfjs-attachments-button-label = Bilagor
+pdfjs-layers-button =
+    .title = Visa lager (dubbelklicka för att återställa alla lager till standardläge)
 pdfjs-thumbs-button =
     .title = Visa miniatyrer
 pdfjs-thumbs-button-label = Miniatyrer
+pdfjs-current-outline-item-button =
+    .title = Hitta aktuellt dispositionsobjekt
+pdfjs-current-outline-item-button-label = Aktuellt dispositionsobjekt
 pdfjs-findbar-button =
     .title = Sök i dokument
 pdfjs-findbar-button-label = Sök
@@ -141,6 +176,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Sök
+    .placeholder = Sök i dokument…
 pdfjs-find-previous-button =
     .title = Hitta föregående förekomst av frasen
 pdfjs-find-previous-button-label = Föregående
@@ -149,6 +187,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Nästa
 pdfjs-find-highlight-checkbox = Markera alla
 pdfjs-find-match-case-checkbox-label = Matcha versal/gemen
+pdfjs-find-match-diacritics-checkbox-label = Matcha diakritiska tecken
 pdfjs-find-reached-top = Nådde början av dokumentet, började från slutet
 pdfjs-find-reached-bottom = Nådde slutet på dokumentet, började från början
 pdfjs-find-not-found = Frasen hittades inte
@@ -193,10 +232,41 @@ pdfjs-web-fonts-disabled = Webbtypsnitt är inaktiverade: kan inte använda inb�
 
 ## Editing
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Färg
+pdfjs-editor-free-text-size-input = Storlek
+pdfjs-editor-ink-color-input = Färg
+pdfjs-editor-ink-thickness-input = Tjocklek
+pdfjs-editor-ink-opacity-input = Opacitet
+pdfjs-ink-canvas =
+    .aria-label = Användarskapad bild
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternativ text
+pdfjs-editor-alt-text-edit-button-label = Redigera alternativ text
+pdfjs-editor-alt-text-dialog-label = Välj ett alternativ
+pdfjs-editor-alt-text-dialog-description = Alt text (alternativ text) hjälper till när människor inte kan se bilden eller när den inte laddas.
+pdfjs-editor-alt-text-add-description-label = Lägg till en beskrivning
+pdfjs-editor-alt-text-add-description-description = Sikta på 1-2 meningar som beskriver ämnet, miljön eller handlingen.
+pdfjs-editor-alt-text-mark-decorative-label = Markera som dekorativ
+pdfjs-editor-alt-text-mark-decorative-description = Detta används för dekorativa bilder, som kanter eller vattenstämplar.
+pdfjs-editor-alt-text-cancel-button = Avbryt
+pdfjs-editor-alt-text-save-button = Spara
+pdfjs-editor-alt-text-decorative-tooltip = Märkt som dekorativ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Till exempel, "En ung man sätter sig vid ett bord för att äta en måltid"
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Det övre vänstra hörnet — ändra storlek
+pdfjs-editor-resizer-label-top-middle = Överst i mitten — ändra storlek
+pdfjs-editor-resizer-label-top-right = Det övre högra hörnet — ändra storlek
+pdfjs-editor-resizer-label-middle-right = Mitten höger — ändra storlek
+pdfjs-editor-resizer-label-bottom-right = Nedre högra hörnet — ändra storlek
+pdfjs-editor-resizer-label-bottom-middle = Nedre mitten — ändra storlek
+pdfjs-editor-resizer-label-bottom-left = Nedre vänstra hörnet — ändra storlek
+pdfjs-editor-resizer-label-middle-left = Mitten till vänster — ändra storlek
