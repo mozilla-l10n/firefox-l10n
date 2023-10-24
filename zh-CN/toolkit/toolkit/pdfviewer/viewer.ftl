@@ -42,6 +42,9 @@ pdfjs-print-button-label = 打印
 pdfjs-save-button =
     .title = 保存
 pdfjs-save-button-label = 保存
+pdfjs-bookmark-button =
+    .title = 当前页面（在当前页面查看 URL）
+pdfjs-bookmark-button-label = 当前页面
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
     .title = 在应用中打开
