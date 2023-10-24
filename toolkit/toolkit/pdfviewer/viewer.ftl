@@ -182,6 +182,7 @@ pdfjs-page-scale-percent = { $scale }%
 
 pdfjs-loading-error = Ina errur è cumparida cun chargiar il PDF.
 pdfjs-invalid-file-error = Datoteca PDF nunvalida u donnegiada.
+pdfjs-missing-file-error = Datoteca PDF manconta.
 pdfjs-unexpected-response-error = Resposta nunspetgada dal server.
 
 ## Annotations
@@ -204,6 +205,7 @@ pdfjs-password-label = Endatescha il pled-clav per avrir questa datoteca da PDF.
 pdfjs-password-invalid = Pled-clav nunvalid. Emprova anc ina giada.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Interrumper
+pdfjs-web-fonts-disabled = Scrittiras dal web èn deactivadas: impussibel dad utilisar las scrittiras integradas en il PDF.
 
 ## Editing
 
