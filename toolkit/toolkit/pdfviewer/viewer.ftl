@@ -39,6 +39,7 @@ pdfjs-open-file-button-label = باز کردن
 pdfjs-print-button =
     .title = چاپ
 pdfjs-print-button-label = چاپ
+pdfjs-save-button-label = ذخیره
 
 ##  Secondary toolbar and context menu
 
@@ -144,6 +145,7 @@ pdfjs-document-outline-button-label = طرح نوشتار
 pdfjs-attachments-button =
     .title = نمایش پیوست‌ها
 pdfjs-attachments-button-label = پیوست‌ها
+pdfjs-layers-button-label = لایه‌ها
 pdfjs-thumbs-button =
     .title = نمایش تصاویر بندانگشتی
 pdfjs-thumbs-button-label = تصاویر بندانگشتی
@@ -192,6 +194,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = صفحهٔ { $page }
 
 ## Loading indicator messages
 
@@ -199,6 +205,7 @@ pdfjs-loading-error = هنگام بارگیری پرونده PDF خطایی رخ
 pdfjs-invalid-file-error = پرونده PDF نامعتبر یامعیوب می‌باشد.
 pdfjs-missing-file-error = پرونده PDF یافت نشد.
 pdfjs-unexpected-response-error = پاسخ پیش بینی نشده سرور
+pdfjs-rendering-error = هنگام بارگیری صفحه خطایی رخ داد.
 
 ## Annotations
 
@@ -220,6 +227,16 @@ pdfjs-web-fonts-disabled = فونت های تحت وب غیر فعال شده ا
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = متن
+pdfjs-editor-free-text-button-label = متن
+pdfjs-editor-ink-button =
+    .title = کشیدن
+pdfjs-editor-ink-button-label = کشیدن
+# Editor Parameters
+pdfjs-editor-free-text-color-input = رنگ
+pdfjs-editor-free-text-size-input = اندازه
+pdfjs-editor-ink-color-input = رنگ
 
 ## Alt-text dialog
 
