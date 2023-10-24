@@ -216,6 +216,7 @@ pdfjs-loading-error = A intervenit o eroare la încărcarea PDF-ului.
 pdfjs-invalid-file-error = Fișier PDF nevalid sau corupt.
 pdfjs-missing-file-error = Fișier PDF lipsă.
 pdfjs-unexpected-response-error = Răspuns neașteptat de la server.
+pdfjs-rendering-error = A intervenit o eroare la randarea paginii.
 
 ## Annotations
 
