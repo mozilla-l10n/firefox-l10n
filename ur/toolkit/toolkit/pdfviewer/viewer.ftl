@@ -109,6 +109,7 @@ pdfjs-document-properties-page-size-orientation-portrait = عمودی انداز
 pdfjs-document-properties-page-size-orientation-landscape = افقى انداز
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = خط
 pdfjs-document-properties-page-size-name-legal = قانونی
 
 ## Variables:
