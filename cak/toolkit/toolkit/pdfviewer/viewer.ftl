@@ -182,6 +182,7 @@ pdfjs-current-outline-item-button-label = Taq Ch'akulal Kik'wan Chib'äl
 pdfjs-findbar-button =
     .title = Tikanöx chupam ri wuj
 pdfjs-findbar-button-label = Tikanöx
+pdfjs-additional-layers = Tz'aqat ta Kuchuj
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
