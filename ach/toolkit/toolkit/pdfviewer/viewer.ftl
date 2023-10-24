@@ -169,6 +169,7 @@ pdfjs-find-previous-button-label = Mukato
 pdfjs-find-next-button =
     .title = Nong timme pa lok malubo
 pdfjs-find-next-button-label = Malubo
+pdfjs-find-highlight-checkbox = Ket Lanyut I Weng
 pdfjs-find-match-case-checkbox-label = Lok marwate
 pdfjs-find-reached-top = Oo iwi gin acoya, omede ki i tere
 pdfjs-find-reached-bottom = Oo i agiki me gin acoya, omede ki iwiye
@@ -193,6 +194,7 @@ pdfjs-loading-error = Bal otime kun cano PDF.
 pdfjs-invalid-file-error = Pwail me PDF ma pe atir onyo obale woko.
 pdfjs-missing-file-error = Pwail me PDF tye ka rem.
 pdfjs-unexpected-response-error = Lagam mape kigeno pa lapok tic.
+pdfjs-rendering-error = Bal otime i kare me nyuto pot buk.
 
 ## Annotations
 
