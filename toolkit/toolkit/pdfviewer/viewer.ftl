@@ -49,6 +49,33 @@ pdfjs-page-rotate-ccw-button-label = ବାମାବର୍ତ୍ତୀ ଘୁର
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = ଦଲିଲ ଗୁଣଧର୍ମ…
+pdfjs-document-properties-button-label = ଦଲିଲ ଗୁଣଧର୍ମ…
+pdfjs-document-properties-file-name = ଫାଇଲ ନାମ:
+pdfjs-document-properties-file-size = ଫାଇଲ ଆକାର:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = ଶୀର୍ଷକ:
+pdfjs-document-properties-author = ଲେଖକ:
+pdfjs-document-properties-subject = ବିଷୟ:
+pdfjs-document-properties-keywords = ସୂଚକ ଶବ୍ଦ:
+pdfjs-document-properties-creation-date = ନିର୍ମାଣ ତାରିଖ:
+pdfjs-document-properties-modification-date = ପରିବର୍ତ୍ତନ ତାରିଖ:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = ନିର୍ମାତା:
+pdfjs-document-properties-producer = PDF ପ୍ରଯୋଜକ:
+pdfjs-document-properties-version = PDF ସଂସ୍କରଣ:
+pdfjs-document-properties-page-count = ପୃଷ୍ଠା ଗଣନା:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,6 +87,7 @@ pdfjs-page-rotate-ccw-button-label = ବାମାବର୍ତ୍ତୀ ଘୁର
 
 ##
 
+pdfjs-document-properties-close-button = ବନ୍ଦ କରନ୍ତୁ
 
 ## Print
 
@@ -71,6 +99,10 @@ pdfjs-printing-not-ready = ଚେତାବନୀ: PDF ଟି ମୁଦ୍ରଣ 
 pdfjs-toggle-sidebar-button =
     .title = ପାର୍ଶ୍ୱପଟିକୁ ଆଗପଛ କରନ୍ତୁ
 pdfjs-toggle-sidebar-button-label = ପାର୍ଶ୍ୱପଟିକୁ ଆଗପଛ କରନ୍ତୁ
+pdfjs-document-outline-button-label = ଦଲିଲ ସାରାଂଶ
+pdfjs-attachments-button =
+    .title = ସଂଲଗ୍ନକଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
+pdfjs-attachments-button-label = ସଲଗ୍ନକଗୁଡିକ
 pdfjs-thumbs-button =
     .title = ସଂକ୍ଷିପ୍ତ ବିବରଣୀ ଦର୍ଶାନ୍ତୁ
 pdfjs-thumbs-button-label = ସଂକ୍ଷିପ୍ତ ବିବରଣୀ
@@ -116,6 +148,7 @@ pdfjs-page-scale-actual = ପ୍ରକୃତ ଆକାର
 pdfjs-loading-error = PDF ଧାରଣ କରିବା ସମୟରେ ଏକ ତ୍ରୁଟି ଘଟିଲା।
 pdfjs-invalid-file-error = ଅବୈଧ କିମ୍ବା ତ୍ରୁଟିଯୁକ୍ତ PDF ଫାଇଲ।
 pdfjs-missing-file-error = ହଜିଯାଇଥିବା PDF ଫାଇଲ।
+pdfjs-unexpected-response-error = ଅପ୍ରତ୍ୟାଶିତ ସର୍ଭର ଉତ୍ତର।
 
 ## Annotations
 
