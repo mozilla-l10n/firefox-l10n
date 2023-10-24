@@ -22,16 +22,24 @@ pdfjs-of-pages = / { $pagesCount }
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = Uzaklaştır
+pdfjs-zoom-out-button-label = Uzaklaştır
+pdfjs-zoom-in-button =
+    .title = Yaklaştır
+pdfjs-zoom-in-button-label = Yaklaştır
 pdfjs-zoom-select =
     .title = Yakınlaştırma
 pdfjs-presentation-mode-button =
     .title = Sunum moduna geç
+pdfjs-presentation-mode-button-label = Sunum modu
 pdfjs-open-file-button =
     .title = Dosya aç
 pdfjs-open-file-button-label = Aç
 pdfjs-print-button =
     .title = Yazdır
 pdfjs-print-button-label = Yazdır
+pdfjs-bookmark-button-label = Geçerli sayfa
 
 ##  Secondary toolbar and context menu
 
@@ -50,6 +58,27 @@ pdfjs-page-rotate-cw-button-label = Saat yönünde döndür
 pdfjs-page-rotate-ccw-button =
     .title = Saat yönünün tersine döndür
 pdfjs-page-rotate-ccw-button-label = Saat yönünün tersine döndür
+pdfjs-cursor-text-select-tool-button =
+    .title = Metin seçme aracını etkinleştir
+pdfjs-cursor-text-select-tool-button-label = Metin seçme aracı
+pdfjs-cursor-hand-tool-button =
+    .title = El aracını etkinleştir
+pdfjs-cursor-hand-tool-button-label = El aracı
+pdfjs-scroll-page-button =
+    .title = Sayfa kaydırmayı kullan
+pdfjs-scroll-page-button-label = Sayfa kaydırma
+pdfjs-scroll-wrapped-button =
+    .title = Yan yana kaydırmayı kullan
+pdfjs-scroll-wrapped-button-label = Yan yana kaydırma
+pdfjs-spread-none-button =
+    .title = Yan yana sayfaları birleştirme
+pdfjs-spread-none-button-label = Birleştirme
+pdfjs-spread-odd-button =
+    .title = Yan yana sayfaları tek numaralı sayfalardan başlayarak birleştir
+pdfjs-spread-odd-button-label = Tek numaralı
+pdfjs-spread-even-button =
+    .title = Yan yana sayfaları çift numaralı sayfalardan başlayarak birleştir
+pdfjs-spread-even-button-label = Çift numaralı
 
 ## Document properties dialog
 
@@ -80,6 +109,15 @@ pdfjs-document-properties-creator = Oluşturan:
 pdfjs-document-properties-producer = PDF üreticisi:
 pdfjs-document-properties-version = PDF sürümü:
 pdfjs-document-properties-page-count = Sayfa sayısı:
+pdfjs-document-properties-page-size = Sayfa boyutu:
+pdfjs-document-properties-page-size-unit-inches = inç
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = dikey
+pdfjs-document-properties-page-size-orientation-landscape = yatay
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -88,9 +126,16 @@ pdfjs-document-properties-page-count = Sayfa sayısı:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Hızlı web görünümü:
+pdfjs-document-properties-linearized-yes = Evet
+pdfjs-document-properties-linearized-no = Hayır
 pdfjs-document-properties-close-button = Kapat
 
 ## Print
@@ -107,13 +152,21 @@ pdfjs-printing-not-ready = Uyarı: PDF tamamen yüklenmedi ve yazdırmaya hazır
 
 pdfjs-toggle-sidebar-button =
     .title = Kenar çubuğunu aç/kapat
+pdfjs-toggle-sidebar-notification-button =
+    .title = Kenar çubuğunu aç/kapat (Belge ana hat/ekler/katmanlar içeriyor)
 pdfjs-toggle-sidebar-button-label = Kenar çubuğunu aç/kapat
+pdfjs-document-outline-button =
+    .title = Belge ana hatlarını göster (Tüm öğeleri genişletmek/daraltmak için çift tıklayın)
+pdfjs-document-outline-button-label = Belge ana hatları
 pdfjs-attachments-button =
     .title = Ekleri göster
 pdfjs-attachments-button-label = Ekler
 pdfjs-thumbs-button =
     .title = Küçük resimleri göster
 pdfjs-thumbs-button-label = Küçük resimler
+pdfjs-current-outline-item-button =
+    .title = Mevcut ana hat öğesini bul
+pdfjs-current-outline-item-button-label = Mevcut ana hat öğesi
 pdfjs-findbar-button =
     .title = Belgede bul
 pdfjs-findbar-button-label = Bul
@@ -131,6 +184,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Bul
+    .placeholder = Belgede bul…
 pdfjs-find-previous-button =
     .title = Önceki eşleşmeyi bul
 pdfjs-find-previous-button-label = Önceki
@@ -138,6 +194,9 @@ pdfjs-find-next-button =
     .title = Sonraki eşleşmeyi bul
 pdfjs-find-next-button-label = Sonraki
 pdfjs-find-highlight-checkbox = Tümünü vurgula
+pdfjs-find-match-case-checkbox-label = Büyük-küçük harfe duyarlı
+pdfjs-find-match-diacritics-checkbox-label = Fonetik işaretleri bul
+pdfjs-find-entire-word-checkbox-label = Tam sözcükler
 pdfjs-find-reached-top = Belgenin başına ulaşıldı, sonundan devam edildi
 pdfjs-find-reached-bottom = Belgenin sonuna ulaşıldı, başından devam edildi
 pdfjs-find-not-found = Eşleşme bulunamadı
@@ -161,9 +220,14 @@ pdfjs-loading-error = PDF yüklenirken bir hata oluştu.
 pdfjs-invalid-file-error = Geçersiz veya bozulmuş PDF dosyası.
 pdfjs-missing-file-error = PDF dosyası eksik.
 pdfjs-unexpected-response-error = Beklenmeyen sunucu yanıtı.
+pdfjs-rendering-error = Sayfa yorumlanırken bir hata oluştu.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -175,15 +239,25 @@ pdfjs-text-annotation-type =
 ## Password
 
 pdfjs-password-label = Bu PDF dosyasını açmak için parolasını yazın.
+pdfjs-password-invalid = Geçersiz parola. Lütfen yeniden deneyin.
 pdfjs-password-ok-button = Tamam
 pdfjs-password-cancel-button = İptal
 pdfjs-web-fonts-disabled = Web fontları devre dışı: Gömülü PDF fontları kullanılamıyor.
 
 ## Editing
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Renk
+pdfjs-editor-free-text-size-input = Boyut
+pdfjs-editor-ink-color-input = Renk
+pdfjs-editor-ink-thickness-input = Kalınlık
+pdfjs-editor-ink-opacity-input = Saydamlık
+pdfjs-ink-canvas =
+    .aria-label = Kullanıcı tarafından oluşturulan resim
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-add-description-description = Konuyu, ortamı veya eylemleri tanımlayan bir iki cümle yazmaya çalışın.
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
