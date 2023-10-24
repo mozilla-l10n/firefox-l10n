@@ -42,6 +42,7 @@ pdfjs-print-button-label = Druk
 
 ## Print
 
+pdfjs-printing-not-supported = Waarskuwing: Dié blaaier ondersteun nie drukwerk ten volle nie.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
