@@ -69,6 +69,8 @@ pdfjs-scroll-vertical-button-label = عمودی اسکرولنگ
 pdfjs-scroll-horizontal-button =
     .title = افقی سکرولنگ کا استعمال کریں
 pdfjs-scroll-horizontal-button-label = افقی سکرولنگ
+pdfjs-spread-none-button =
+    .title = صفحہ پھیلانے میں شامل نہ ہوں
 pdfjs-spread-none-button-label = کوئی پھیلاؤ نہیں
 pdfjs-spread-odd-button-label = تاک پھیلاؤ
 pdfjs-spread-even-button-label = جفت پھیلاؤ
@@ -230,6 +232,7 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = PDF مسل کھولنے کے لیے پاس ورڈ داخل کریں.
 pdfjs-password-invalid = ناجائز پاس ورڈ. براےؑ کرم دوبارہ کوشش کریں.
+pdfjs-password-ok-button = ٹھیک ہے
 pdfjs-password-cancel-button = منسوخ کریں
 pdfjs-web-fonts-disabled = ویب فانٹ نا اہل ہیں: شامل PDF فانٹ استعمال کرنے میں ناکام۔
 
