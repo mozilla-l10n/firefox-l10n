@@ -149,6 +149,7 @@ pdfjs-loading-error = PDF-билэни хачайдыырга алҕас таҕ�
 pdfjs-invalid-file-error = Туох эрэ алҕастаах эбэтэр алдьаммыт PDF-билэ.
 pdfjs-missing-file-error = PDF-билэ суох.
 pdfjs-unexpected-response-error = Сиэрбэр хоруйдаабат.
+pdfjs-rendering-error = Сирэйи айарга алҕас таҕыста.
 
 ## Annotations
 
