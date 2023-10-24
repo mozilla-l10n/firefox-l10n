@@ -35,9 +35,39 @@ pdfjs-page-rotate-cw-button-label = Otočiť v smere hodinových ručičiek
 pdfjs-page-rotate-ccw-button =
     .title = Otočiť proti smeru hodinových ručičiek
 pdfjs-page-rotate-ccw-button-label = Otočiť proti smeru hodinových ručičiek
+pdfjs-scroll-page-button =
+    .title = Použiť rolovanie po stránkach
+pdfjs-scroll-page-button-label = Rolovanie po stránkach
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Vlastnosti dokumentu…
+pdfjs-document-properties-button-label = Vlastnosti dokumentu…
+pdfjs-document-properties-file-name = Názov súboru:
+pdfjs-document-properties-file-size = Veľkosť súboru:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } kB ({ $size_b } bajtov)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bajtov)
+pdfjs-document-properties-title = Názov:
+pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-subject = Predmet:
+pdfjs-document-properties-keywords = Kľúčové slová:
+pdfjs-document-properties-creation-date = Dátum vytvorenia:
+pdfjs-document-properties-modification-date = Dátum úpravy:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Vytvoril:
+pdfjs-document-properties-producer = Tvorca PDF:
+pdfjs-document-properties-version = Verzia PDF:
+pdfjs-document-properties-page-count = Počet strán:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -49,6 +79,7 @@ pdfjs-page-rotate-ccw-button-label = Otočiť proti smeru hodinových ručičiek
 
 ##
 
+pdfjs-document-properties-close-button = Zavrieť
 
 ## Print
 
@@ -60,9 +91,15 @@ pdfjs-printing-not-ready = Upozornenie: súbor PDF nie je plne načítaný pre t
 pdfjs-toggle-sidebar-button =
     .title = Prepnúť bočný panel
 pdfjs-toggle-sidebar-button-label = Prepnúť bočný panel
+pdfjs-attachments-button =
+    .title = Zobraziť prílohy
+pdfjs-attachments-button-label = Prílohy
 pdfjs-thumbs-button =
     .title = Zobraziť miniatúry
 pdfjs-thumbs-button-label = Miniatúry
+pdfjs-current-outline-item-button =
+    .title = Nájsť aktuálnu položku v osnove
+pdfjs-current-outline-item-button-label = Aktuálna položka v osnove
 pdfjs-findbar-button =
     .title = Hľadať v dokumente
 pdfjs-findbar-button-label = Hľadať
@@ -87,6 +124,7 @@ pdfjs-find-next-button =
     .title = Vyhľadať ďalší výskyt reťazca
 pdfjs-find-next-button-label = Ďalšie
 pdfjs-find-highlight-checkbox = Zvýrazniť všetky
+pdfjs-find-match-diacritics-checkbox-label = Rozlišovať diakritiku
 pdfjs-find-reached-top = Bol dosiahnutý začiatok stránky, pokračuje sa od konca
 pdfjs-find-reached-bottom = Bol dosiahnutý koniec stránky, pokračuje sa od začiatku
 pdfjs-find-not-found = Výraz nebol nájdený
@@ -100,12 +138,17 @@ pdfjs-page-scale-actual = Skutočná veľkosť
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Strana { $page }
 
 ## Loading indicator messages
 
 pdfjs-loading-error = Počas načítavania dokumentu PDF sa vyskytla chyba.
 pdfjs-invalid-file-error = Neplatný alebo poškodený súbor PDF.
 pdfjs-missing-file-error = Chýbajúci súbor PDF.
+pdfjs-unexpected-response-error = Neočakávaná odpoveď zo servera.
 
 ## Annotations
 
