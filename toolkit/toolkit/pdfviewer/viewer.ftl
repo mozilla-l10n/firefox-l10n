@@ -107,10 +107,17 @@ pdfjs-document-properties-close-button = Κλείσιμο
 
 ## Print
 
+pdfjs-print-progress-message = Προετοιμασία του εγγράφου για εκτύπωση…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
 pdfjs-printing-not-ready = Προειδοποίηση: Το PDF δεν φορτώθηκε πλήρως για εκτύπωση.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-document-outline-button =
+    .title = Εμφάνιση διάρθρωσης εγγράφου (διπλό κλικ για ανάπτυξη/σύμπτυξη όλων των στοιχείων)
+pdfjs-document-outline-button-label = Διάρθρωση εγγράφου
 pdfjs-attachments-button-label = Συνημμένα
 pdfjs-thumbs-button-label = Μικρογραφίες
 pdfjs-findbar-button =
