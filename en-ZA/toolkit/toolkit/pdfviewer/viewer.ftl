@@ -159,6 +159,7 @@ pdfjs-loading-error = An error occurred while loading the PDF.
 pdfjs-invalid-file-error = Invalid or corrupted PDF file.
 pdfjs-missing-file-error = Missing PDF file.
 pdfjs-unexpected-response-error = Unexpected server response.
+pdfjs-rendering-error = An error occurred while rendering the page.
 
 ## Annotations
 
