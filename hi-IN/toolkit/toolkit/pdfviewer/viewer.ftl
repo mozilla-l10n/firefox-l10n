@@ -39,6 +39,12 @@ pdfjs-open-file-button-label = खोलें
 pdfjs-print-button =
     .title = छापें
 pdfjs-print-button-label = छापें
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = ऐप में खोलें
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = ऐप में खोलें
 
 ##  Secondary toolbar and context menu
 
@@ -72,6 +78,8 @@ pdfjs-scroll-horizontal-button-label = क्षितिजिय स्क्�
 pdfjs-scroll-wrapped-button =
     .title = व्राप्पेड स्क्रॉलिंग का उपयोग करें
 pdfjs-spread-none-button-label = कोई स्प्रेड उपलब्ध नहीं
+pdfjs-spread-odd-button =
+    .title = विषम-क्रमांकित पृष्ठों से प्रारंभ होने वाले पृष्ठ स्प्रेड में शामिल हों
 pdfjs-spread-odd-button-label = विषम फैलाव
 
 ## Document properties dialog
@@ -211,6 +219,10 @@ pdfjs-unexpected-response-error = अप्रत्याशित सर्व
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -229,6 +241,8 @@ pdfjs-web-fonts-disabled = वेब फॉन्ट्स निष्क्र
 
 ## Editing
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = रंग
 
 ## Alt-text dialog
 
