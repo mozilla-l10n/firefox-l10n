@@ -11,6 +11,17 @@ pdfjs-previous-button-label = پچھلا
 pdfjs-next-button =
     .title = اگلا صفحہ
 pdfjs-next-button-label = آگے
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = صفحہ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } کا
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } کا { $pagesCount })
 pdfjs-zoom-out-button =
     .title = باہر زوم کریں
 pdfjs-zoom-out-button-label = باہر زوم کریں
@@ -49,6 +60,33 @@ pdfjs-page-rotate-ccw-button-label = ضد گھڑی وار گھمائیں
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = دستاویز خواص…
+pdfjs-document-properties-button-label = دستاویز خواص…
+pdfjs-document-properties-file-name = نام مسل:
+pdfjs-document-properties-file-size = مسل سائز:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = عنوان:
+pdfjs-document-properties-author = تخلیق کار:
+pdfjs-document-properties-subject = موضوع:
+pdfjs-document-properties-keywords = کلیدی الفاظ:
+pdfjs-document-properties-creation-date = تخلیق کی تاریخ:
+pdfjs-document-properties-modification-date = ترمیم کی تاریخ:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }، { $time }
+pdfjs-document-properties-creator = تخلیق کار:
+pdfjs-document-properties-producer = PDF پیدا کار:
+pdfjs-document-properties-version = PDF ورژن:
+pdfjs-document-properties-page-count = صفحہ شمار:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,9 +98,15 @@ pdfjs-page-rotate-ccw-button-label = ضد گھڑی وار گھمائیں
 
 ##
 
+pdfjs-document-properties-close-button = بند کریں
 
 ## Print
 
+pdfjs-print-progress-message = چھاپنے کرنے کے لیے دستاویز تیار کیے جا رھے ھیں
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = *{ $progress }%*
+pdfjs-print-progress-close-button = منسوخ کریں
 pdfjs-printing-not-supported = تنبیہ:چھاپنا اس براؤزر پر پوری طرح معاونت شدہ نہیں ہے۔
 pdfjs-printing-not-ready = تنبیہ: PDF چھپائی کے لیے پوری طرح لوڈ نہیں ہوئی۔
 
@@ -71,6 +115,12 @@ pdfjs-printing-not-ready = تنبیہ: PDF چھپائی کے لیے پوری ط�
 pdfjs-toggle-sidebar-button =
     .title = سلائیڈ ٹوگل کریں
 pdfjs-toggle-sidebar-button-label = سلائیڈ ٹوگل کریں
+pdfjs-document-outline-button =
+    .title = دستاویز کی سرخیاں دکھایں (تمام اشیاء وسیع / غائب کرنے کے لیے ڈبل کلک کریں)
+pdfjs-document-outline-button-label = دستاویز آؤٹ لائن
+pdfjs-attachments-button =
+    .title = منسلکات دکھائیں
+pdfjs-attachments-button-label = منسلکات
 pdfjs-thumbs-button =
     .title = تھمبنیل دکھائیں
 pdfjs-thumbs-button-label = مجمل
@@ -108,6 +158,9 @@ pdfjs-page-scale-width = صفحہ چوڑائی
 pdfjs-page-scale-fit = صفحہ فٹنگ
 pdfjs-page-scale-auto = خودکار زوم
 pdfjs-page-scale-actual = اصل سائز
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -117,6 +170,7 @@ pdfjs-page-scale-actual = اصل سائز
 pdfjs-loading-error = PDF لوڈ کرتے وقت نقص آ گیا۔
 pdfjs-invalid-file-error = ناجائز یا خراب PDF مسل
 pdfjs-missing-file-error = PDF مسل غائب ہے۔
+pdfjs-unexpected-response-error = غیرمتوقع پیش کار جواب
 
 ## Annotations
 
@@ -132,6 +186,7 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = PDF مسل کھولنے کے لیے پاس ورڈ داخل کریں.
 pdfjs-password-invalid = ناجائز پاس ورڈ. براےؑ کرم دوبارہ کوشش کریں.
+pdfjs-password-cancel-button = منسوخ کریں
 pdfjs-web-fonts-disabled = ویب فانٹ نا اہل ہیں: شامل PDF فانٹ استعمال کرنے میں ناکام۔
 
 ## Editing
