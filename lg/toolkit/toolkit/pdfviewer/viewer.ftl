@@ -9,6 +9,10 @@ pdfjs-previous-button =
     .title = Omuko  Ogubadewo
 pdfjs-next-button =
     .title = Omuko Oguddako
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = ku { $pagesCount }
 pdfjs-zoom-out-button =
     .title = Zimbulukusa
 pdfjs-zoom-out-button-label = Zimbulukusa
@@ -17,6 +21,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Funza Munda
 pdfjs-zoom-select =
     .title = Gezzamu
+pdfjs-open-file-button =
+    .title = Bikula Fayiro
+pdfjs-open-file-button-label = Ggulawo
 pdfjs-print-button =
     .title = Fulumya
 pdfjs-print-button-label = Fulumya
@@ -44,6 +51,7 @@ pdfjs-printing-not-supported = Okulaabula: Okulumya empapula tekuwagirwa enonyes
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-document-outline-button-label = Ensalo ze Ekiwandiko
 pdfjs-thumbs-button =
     .title = Laga Ekifanyi Mubufunze
 pdfjs-thumbs-button-label = Ekifanyi Mubufunze
@@ -94,6 +102,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = OK
 
 ## Editing
 
