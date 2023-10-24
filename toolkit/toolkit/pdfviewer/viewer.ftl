@@ -36,13 +36,57 @@ pdfjs-presentation-mode-button-label = Mode Presentasi
 pdfjs-open-file-button =
     .title = Buka Berkas
 pdfjs-open-file-button-label = Buka
+pdfjs-print-button =
+    .title = Cetak
+pdfjs-print-button-label = Cetak
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Alat
+pdfjs-tools-button-label = Alat
+pdfjs-first-page-button =
+    .title = Buka Halaman Pertama
+pdfjs-first-page-button-label = Buka Halaman Pertama
+pdfjs-last-page-button =
+    .title = Buka Halaman Terakhir
+pdfjs-last-page-button-label = Buka Halaman Terakhir
+pdfjs-page-rotate-cw-button =
+    .title = Putar Searah Jarum Jam
+pdfjs-page-rotate-cw-button-label = Putar Searah Jarum Jam
+pdfjs-page-rotate-ccw-button =
+    .title = Putar Berlawanan Arah Jarum Jam
+pdfjs-page-rotate-ccw-button-label = Putar Berlawanan Arah Jarum Jam
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Properti Dokumen…
+pdfjs-document-properties-button-label = Properti Dokumen…
+pdfjs-document-properties-file-name = Nama berkas:
+pdfjs-document-properties-file-size = Ukuran berkas:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } byte)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } byte)
 pdfjs-document-properties-title = Judul:
+pdfjs-document-properties-author = Penyusun:
+pdfjs-document-properties-subject = Subjek:
+pdfjs-document-properties-keywords = Kata Kunci:
+pdfjs-document-properties-creation-date = Tanggal Dibuat:
+pdfjs-document-properties-modification-date = Tanggal Dimodifikasi:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Pembuat:
+pdfjs-document-properties-producer = Pemroduksi PDF:
+pdfjs-document-properties-version = Versi PDF:
+pdfjs-document-properties-page-count = Jumlah Halaman:
 pdfjs-document-properties-page-size = Ukuran Laman:
 pdfjs-document-properties-page-size-unit-inches = inci
 pdfjs-document-properties-page-size-unit-millimeters = mm
@@ -68,6 +112,7 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 pdfjs-document-properties-linearized = Tampilan Web Kilat:
 pdfjs-document-properties-linearized-yes = Ya
 pdfjs-document-properties-linearized-no = Tidak
+pdfjs-document-properties-close-button = Tutup
 
 ## Print
 
@@ -77,12 +122,19 @@ pdfjs-print-progress-message = Menyiapkan dokumen untuk pencetakan…
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Batalkan
 pdfjs-printing-not-supported = Peringatan: Pencetakan tidak didukung secara lengkap pada peramban ini.
+pdfjs-printing-not-ready = Peringatan: Berkas PDF masih belum dimuat secara lengkap untuk dapat dicetak.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Aktif/Nonaktifkan Bilah Samping
+pdfjs-toggle-sidebar-button-label = Aktif/Nonaktifkan Bilah Samping
 pdfjs-document-outline-button =
     .title = Tampilkan Kerangka Dokumen (klik ganda untuk membentangkan/menciutkan semua item)
 pdfjs-document-outline-button-label = Kerangka Dokumen
+pdfjs-attachments-button =
+    .title = Tampilkan Lampiran
+pdfjs-attachments-button-label = Lampiran
 pdfjs-thumbs-button =
     .title = Tampilkan Miniatur
 pdfjs-thumbs-button-label = Miniatur
@@ -109,6 +161,7 @@ pdfjs-find-previous-button-label = Sebelumnya
 pdfjs-find-next-button =
     .title = Temukan lebih lanjut
 pdfjs-find-next-button-label = Selanjutnya
+pdfjs-find-highlight-checkbox = Sorot semuanya
 pdfjs-find-match-case-checkbox-label = Cocokkan BESAR/kecil
 pdfjs-find-entire-word-checkbox-label = Seluruh teks
 pdfjs-find-reached-top = Sampai di awal dokumen, dilanjutkan dari bawah
@@ -121,6 +174,9 @@ pdfjs-page-scale-width = Lebar Laman
 pdfjs-page-scale-fit = Muat Laman
 pdfjs-page-scale-auto = Perbesaran Otomatis
 pdfjs-page-scale-actual = Ukuran Asli
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -129,6 +185,8 @@ pdfjs-page-scale-actual = Ukuran Asli
 
 pdfjs-loading-error = Galat terjadi saat memuat PDF.
 pdfjs-invalid-file-error = Berkas PDF tidak valid atau rusak.
+pdfjs-missing-file-error = Berkas PDF tidak ada.
+pdfjs-unexpected-response-error = Balasan server yang tidak diharapkan.
 
 ## Annotations
 
@@ -142,6 +200,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Masukkan sandi untuk membuka berkas PDF ini.
+pdfjs-password-invalid = Sandi tidak valid. Silakan coba lagi.
+pdfjs-password-ok-button = Oke
 pdfjs-password-cancel-button = Batal
 pdfjs-web-fonts-disabled = Font web dinonaktifkan: tidak dapat menggunakan font PDF yang tersemat.
 
