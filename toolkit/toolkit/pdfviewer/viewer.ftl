@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Megnyitás
 pdfjs-print-button =
     .title = Nyomtatás
 pdfjs-print-button-label = Nyomtatás
+pdfjs-save-button =
+    .title = Mentés
+pdfjs-save-button-label = Mentés
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Letöltés
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Letöltés
+pdfjs-bookmark-button =
+    .title = Jelenlegi oldal (webcím megtekintése a jelenlegi oldalról)
+pdfjs-bookmark-button-label = Jelenlegi oldal
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Megnyitás alkalmazásban
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Megnyitás alkalmazásban
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Szövegkijelölő eszköz
 pdfjs-cursor-hand-tool-button =
     .title = Kéz eszköz bekapcsolása
 pdfjs-cursor-hand-tool-button-label = Kéz eszköz
+pdfjs-scroll-page-button =
+    .title = Oldalgörgetés használata
+pdfjs-scroll-page-button-label = Oldalgörgetés
 pdfjs-scroll-vertical-button =
     .title = Függőleges görgetés használata
 pdfjs-scroll-vertical-button-label = Függőleges görgetés
@@ -154,6 +175,8 @@ pdfjs-printing-not-ready = Figyelmeztetés: A PDF nincs teljesen betöltve a nyo
 
 pdfjs-toggle-sidebar-button =
     .title = Oldalsáv be/ki
+pdfjs-toggle-sidebar-notification-button =
+    .title = Oldalsáv be/ki (a dokumentum vázlatot/mellékleteket/rétegeket tartalmaz)
 pdfjs-toggle-sidebar-button-label = Oldalsáv be/ki
 pdfjs-document-outline-button =
     .title = Dokumentum megjelenítése online (dupla kattintás minden elem kinyitásához/összecsukásához)
@@ -161,9 +184,15 @@ pdfjs-document-outline-button-label = Dokumentumvázlat
 pdfjs-attachments-button =
     .title = Mellékletek megjelenítése
 pdfjs-attachments-button-label = Van melléklet
+pdfjs-layers-button =
+    .title = Rétegek megjelenítése (dupla kattintás az összes réteg alapértelmezett állapotra visszaállításához)
+pdfjs-layers-button-label = Rétegek
 pdfjs-thumbs-button =
     .title = Bélyegképek megjelenítése
 pdfjs-thumbs-button-label = Bélyegképek
+pdfjs-current-outline-item-button =
+    .title = Jelenlegi vázlatelem megkeresése
+pdfjs-current-outline-item-button-label = Jelenlegi vázlatelem
 pdfjs-findbar-button =
     .title = Keresés a dokumentumban
 pdfjs-findbar-button-label = Keresés
@@ -192,6 +221,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Tovább
 pdfjs-find-highlight-checkbox = Összes kiemelése
 pdfjs-find-match-case-checkbox-label = Kis- és nagybetűk megkülönböztetése
+pdfjs-find-match-diacritics-checkbox-label = Diakritikus jelek
 pdfjs-find-entire-word-checkbox-label = Teljes szavak
 pdfjs-find-reached-top = A dokumentum eleje elérve, folytatás a végétől
 pdfjs-find-reached-bottom = A dokumentum vége elérve, folytatás az elejétől
@@ -209,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = { $page }. oldal
 
 ## Loading indicator messages
 
@@ -216,6 +250,7 @@ pdfjs-loading-error = Hiba történt a PDF betöltésekor.
 pdfjs-invalid-file-error = Érvénytelen vagy sérült PDF fájl.
 pdfjs-missing-file-error = Hiányzó PDF fájl.
 pdfjs-unexpected-response-error = Váratlan kiszolgálóválasz.
+pdfjs-rendering-error = Hiba történt az oldal feldolgozása közben.
 
 ## Annotations
 
@@ -241,10 +276,58 @@ pdfjs-web-fonts-disabled = Webes betűkészletek letiltva: nem használhatók a 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Szöveg
+pdfjs-editor-free-text-button-label = Szöveg
+pdfjs-editor-ink-button =
+    .title = Rajzolás
+pdfjs-editor-ink-button-label = Rajzolás
+pdfjs-editor-stamp-button =
+    .title = Képek hozzáadása vagy szerkesztése
+pdfjs-editor-stamp-button-label = Képek hozzáadása vagy szerkesztése
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Szín
+pdfjs-editor-free-text-size-input = Méret
+pdfjs-editor-ink-color-input = Szín
+pdfjs-editor-ink-thickness-input = Vastagság
+pdfjs-editor-ink-opacity-input = Átlátszatlanság
+pdfjs-editor-stamp-add-image-button =
+    .title = Kép hozzáadása
+pdfjs-editor-stamp-add-image-button-label = Kép hozzáadása
+pdfjs-free-text =
+    .aria-label = Szövegszerkesztő
+pdfjs-free-text-default-content = Kezdjen el gépelni…
+pdfjs-ink =
+    .aria-label = Rajzszerkesztő
+pdfjs-ink-canvas =
+    .aria-label = Felhasználó által készített kép
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternatív szöveg
+pdfjs-editor-alt-text-edit-button-label = Alternatív szöveg szerkesztése
+pdfjs-editor-alt-text-dialog-label = Válasszon egy lehetőséget
+pdfjs-editor-alt-text-dialog-description = Az alternatív szöveg segít, ha az emberek nem látják a képet, vagy ha az nem töltődik be.
+pdfjs-editor-alt-text-add-description-label = Leírás hozzáadása
+pdfjs-editor-alt-text-add-description-description = Törekedjen 1-2 mondatra, amely jellemzi a témát, környezetet vagy cselekvést.
+pdfjs-editor-alt-text-mark-decorative-label = Megjelölés dekoratívként
+pdfjs-editor-alt-text-mark-decorative-description = Ez a díszítőképeknél használatos, mint a szegélyek vagy a vízjelek.
+pdfjs-editor-alt-text-cancel-button = Mégse
+pdfjs-editor-alt-text-save-button = Mentés
+pdfjs-editor-alt-text-decorative-tooltip = Megjelölve dekoratívként
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Például: „Egy fiatal férfi leül enni egy asztalhoz”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Bal felső sarok – átméretezés
+pdfjs-editor-resizer-label-top-middle = Felül középen – átméretezés
+pdfjs-editor-resizer-label-top-right = Jobb felső sarok – átméretezés
+pdfjs-editor-resizer-label-middle-right = Jobbra középen – átméretezés
+pdfjs-editor-resizer-label-bottom-right = Jobb alsó sarok – átméretezés
+pdfjs-editor-resizer-label-bottom-middle = Alul középen – átméretezés
+pdfjs-editor-resizer-label-bottom-left = Bal alsó sarok – átméretezés
+pdfjs-editor-resizer-label-middle-left = Balra középen – átméretezés
