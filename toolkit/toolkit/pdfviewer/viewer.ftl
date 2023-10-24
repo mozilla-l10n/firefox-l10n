@@ -63,6 +63,12 @@ pdfjs-cursor-text-select-tool-button-label = पाठ चयन उपकरण
 pdfjs-cursor-hand-tool-button =
     .title = हस्त उपकरण सक्षम करें
 pdfjs-cursor-hand-tool-button-label = हस्त उपकरण
+pdfjs-scroll-vertical-button =
+    .title = लंबवत स्क्रॉलिंग का उपयोग करें
+pdfjs-scroll-vertical-button-label = लंबवत स्क्रॉलिंग
+pdfjs-scroll-horizontal-button =
+    .title = क्षितिजिय स्क्रॉलिंग का उपयोग करें
+pdfjs-scroll-horizontal-button-label = क्षितिजिय स्क्रॉलिंग
 
 ## Document properties dialog
 
@@ -94,6 +100,8 @@ pdfjs-document-properties-producer = PDF उत्पादक:
 pdfjs-document-properties-version = PDF संस्करण:
 pdfjs-document-properties-page-count = पृष्ठ गिनती:
 pdfjs-document-properties-page-size = पृष्ठ आकार:
+pdfjs-document-properties-page-size-unit-inches = इंच
+pdfjs-document-properties-page-size-orientation-portrait = पोर्ट्रेट
 pdfjs-document-properties-page-size-orientation-landscape = लैंडस्केप
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
@@ -105,9 +113,16 @@ pdfjs-document-properties-page-size-name-a-four = A4
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = तीव्र वेब व्यू:
+pdfjs-document-properties-linearized-yes = हाँ
+pdfjs-document-properties-linearized-no = नहीं
 pdfjs-document-properties-close-button = बंद करें
 
 ## Print
