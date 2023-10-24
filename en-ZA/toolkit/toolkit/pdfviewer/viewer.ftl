@@ -64,9 +64,13 @@ pdfjs-page-rotate-ccw-button-label = Rotate Counterclockwise
 ## Print
 
 pdfjs-printing-not-supported = Warning: Printing is not fully supported by this browser.
+pdfjs-printing-not-ready = Warning: The PDF is not fully loaded for printing.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Toggle Sidebar
+pdfjs-toggle-sidebar-button-label = Toggle Sidebar
 pdfjs-thumbs-button =
     .title = Show Thumbnails
 pdfjs-thumbs-button-label = Thumbnails
@@ -112,6 +116,7 @@ pdfjs-page-scale-actual = Actual Size
 
 pdfjs-loading-error = An error occurred while loading the PDF.
 pdfjs-invalid-file-error = Invalid or corrupted PDF file.
+pdfjs-missing-file-error = Missing PDF file.
 
 ## Annotations
 
