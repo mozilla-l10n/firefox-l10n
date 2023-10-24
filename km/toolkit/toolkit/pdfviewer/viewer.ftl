@@ -49,6 +49,24 @@ pdfjs-page-rotate-ccw-button-label = បង្វិល​ច្រាស​ទ�
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = លក្ខណ​សម្បត្តិ​ឯកសារ…
+pdfjs-document-properties-button-label = លក្ខណ​សម្បត្តិ​ឯកសារ…
+pdfjs-document-properties-file-name = ឈ្មោះ​ឯកសារ៖
+pdfjs-document-properties-file-size = ទំហំ​ឯកសារ៖
+pdfjs-document-properties-author = អ្នក​និពន្ធ៖
+pdfjs-document-properties-subject = ប្រធានបទ៖
+pdfjs-document-properties-keywords = ពាក្យ​គន្លឹះ៖
+pdfjs-document-properties-creation-date = កាលបរិច្ឆេទ​បង្កើត៖
+pdfjs-document-properties-modification-date = កាលបរិច្ឆេទ​កែប្រែ៖
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = អ្នក​បង្កើត៖
+pdfjs-document-properties-producer = កម្មវិធី​បង្កើត PDF ៖
+pdfjs-document-properties-version = កំណែ PDF ៖
+pdfjs-document-properties-page-count = ចំនួន​ទំព័រ៖
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,6 +78,7 @@ pdfjs-page-rotate-ccw-button-label = បង្វិល​ច្រាស​ទ�
 
 ##
 
+pdfjs-document-properties-close-button = បិទ
 
 ## Print
 
@@ -71,6 +90,9 @@ pdfjs-printing-not-ready = ព្រមាន៖ PDF មិន​ត្រូវ
 pdfjs-toggle-sidebar-button =
     .title = បិទ/បើក​គ្រាប់​រំកិល
 pdfjs-toggle-sidebar-button-label = បិទ/បើក​គ្រាប់​រំកិល
+pdfjs-attachments-button =
+    .title = បង្ហាញ​ឯកសារ​ភ្ជាប់
+pdfjs-attachments-button-label = ឯកសារ​ភ្ជាប់
 pdfjs-thumbs-button =
     .title = បង្ហាញ​រូបភាព​តូចៗ
 pdfjs-thumbs-button-label = រួបភាព​តូចៗ
@@ -109,6 +131,9 @@ pdfjs-page-scale-width = ទទឹង​ទំព័រ
 pdfjs-page-scale-fit = សម​ទំព័រ
 pdfjs-page-scale-auto = ពង្រីក​ស្វ័យប្រវត្តិ
 pdfjs-page-scale-actual = ទំហំ​ជាក់ស្ដែង
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -118,6 +143,7 @@ pdfjs-page-scale-actual = ទំហំ​ជាក់ស្ដែង
 pdfjs-loading-error = មាន​កំហុស​បាន​កើតឡើង​ពេល​កំពុង​ផ្ទុក PDF ។
 pdfjs-invalid-file-error = ឯកសារ PDF ខូច ឬ​មិន​ត្រឹមត្រូវ ។
 pdfjs-missing-file-error = បាត់​ឯកសារ PDF
+pdfjs-unexpected-response-error = ការ​ឆ្លើយ​តម​ម៉ាស៊ីន​មេ​ដែល​មិន​បាន​រំពឹង។
 
 ## Annotations
 
