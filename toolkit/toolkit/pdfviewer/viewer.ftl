@@ -189,6 +189,7 @@ pdfjs-layers-button-label = Ebenen
 pdfjs-thumbs-button =
     .title = Miniaturansichten anzeigen
 pdfjs-thumbs-button-label = Miniaturansichten
+pdfjs-current-outline-item-button-label = Aktuelles Struktur-Element
 pdfjs-findbar-button =
     .title = Dokument durchsuchen
 pdfjs-findbar-button-label = Suchen
