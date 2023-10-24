@@ -46,6 +46,7 @@ pdfjs-open-file-button-label = افتح
 ## Print
 
 pdfjs-printing-not-supported = تحذير: لا يدعم هذا المتصفح الطباعة بشكل كامل.
+pdfjs-printing-not-ready = تحذير: ملف PDF لم يُحمّل كاملًا للطباعة.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
