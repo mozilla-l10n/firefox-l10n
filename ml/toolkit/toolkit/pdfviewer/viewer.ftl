@@ -14,6 +14,14 @@ pdfjs-next-button-label = അടുത്തതു്
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
     .title = താള്‍
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } ലെ
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pagesCount } ലെ { $pageNumber })
 pdfjs-zoom-out-button =
     .title = ചെറുതാക്കുക
 pdfjs-zoom-out-button-label = ചെറുതാക്കുക
@@ -49,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = ഘടികാരദിശയില്‍ �
 pdfjs-page-rotate-ccw-button =
     .title = ഘടികാര ദിശയ്ക്കു് വിപരീതമായി കറക്കുക
 pdfjs-page-rotate-ccw-button-label = ഘടികാര ദിശയ്ക്കു് വിപരീതമായി കറക്കുക
+pdfjs-cursor-text-select-tool-button =
+    .title = ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ ടൂള്‍ പ്രാപ്തമാക്കുക
+pdfjs-cursor-text-select-tool-button-label = ടെക്സ്റ്റ് തിരഞ്ഞെടുക്കൽ ടൂള്‍
+pdfjs-cursor-hand-tool-button =
+    .title = ഹാന്റ് ടൂള്‍ പ്രാപ്തമാക്കുക
+pdfjs-cursor-hand-tool-button-label = ഹാന്റ് ടൂള്‍
 
 ## Document properties dialog
 
@@ -94,6 +108,11 @@ pdfjs-document-properties-close-button = അടയ്ക്കുക
 
 ## Print
 
+pdfjs-print-progress-message = പ്രിന്റുചെയ്യുന്നതിന് ഡോക്യുമെന്റ് തയ്യാറാക്കുന്നു…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = റദ്ദാക്കുക
 pdfjs-printing-not-supported = മുന്നറിയിപ്പു്: ഈ ബ്രൌസര്‍ പൂര്‍ണ്ണമായി പ്രിന്റിങ് പിന്തുണയ്ക്കുന്നില്ല.
 pdfjs-printing-not-ready = മുന്നറിയിപ്പു്: പ്രിന്റ് ചെയ്യുന്നതിനു് പിഡിഎഫ് പൂര്‍ണ്ണമായി ലഭ്യമല്ല.
 
@@ -102,6 +121,8 @@ pdfjs-printing-not-ready = മുന്നറിയിപ്പു്: പ്ര
 pdfjs-toggle-sidebar-button =
     .title = സൈഡ് ബാറിലേക്കു് മാറ്റുക
 pdfjs-toggle-sidebar-button-label = സൈഡ് ബാറിലേക്കു് മാറ്റുക
+pdfjs-document-outline-button =
+    .title = ഡോക്യുമെന്റിന്റെ ബാഹ്യരേഖ കാണിക്കുക (എല്ലാ ഇനങ്ങളും വിപുലീകരിക്കാനും ചുരുക്കാനും ഇരട്ട ക്ലിക്കുചെയ്യുക)
 pdfjs-document-outline-button-label = രേഖയുടെ ഔട്ട്ലൈന്‍
 pdfjs-attachments-button =
     .title = അറ്റാച്മെന്റുകള്‍ കാണിയ്ക്കുക
