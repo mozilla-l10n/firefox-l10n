@@ -39,6 +39,15 @@ pdfjs-open-file-button-label = Openen
 pdfjs-print-button =
     .title = Afdrukken
 pdfjs-print-button-label = Afdrukken
+pdfjs-save-button =
+    .title = Opslaan
+pdfjs-save-button-label = Opslaan
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Openen in app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Openen in app
 
 ##  Secondary toolbar and context menu
 
@@ -160,6 +169,7 @@ pdfjs-document-outline-button-label = Documentoverzicht
 pdfjs-attachments-button =
     .title = Bijlagen tonen
 pdfjs-attachments-button-label = Bijlagen
+pdfjs-layers-button-label = Lagen
 pdfjs-thumbs-button =
     .title = Miniaturen tonen
 pdfjs-thumbs-button-label = Miniaturen
@@ -218,6 +228,10 @@ pdfjs-unexpected-response-error = Onverwacht serverantwoord.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
