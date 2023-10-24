@@ -184,6 +184,8 @@ pdfjs-document-outline-button-label = Структура дакумента
 pdfjs-attachments-button =
     .title = Паказаць далучэнні
 pdfjs-attachments-button-label = Далучэнні
+pdfjs-layers-button =
+    .title = Паказаць пласты (націсніце двойчы, каб скінуць усе пласты да прадвызначанага стану)
 pdfjs-layers-button-label = Пласты
 pdfjs-thumbs-button =
     .title = Паказ мініяцюр
@@ -249,6 +251,7 @@ pdfjs-loading-error = Здарылася памылка ў часе загру�
 pdfjs-invalid-file-error = Няспраўны або пашкоджаны файл PDF.
 pdfjs-missing-file-error = Адсутны файл PDF.
 pdfjs-unexpected-response-error = Нечаканы адказ сервера.
+pdfjs-rendering-error = Здарылася памылка падчас адлюстравання старонкі.
 
 ## Annotations
 
@@ -274,6 +277,12 @@ pdfjs-web-fonts-disabled = Шрыфты Сеціва забаронены: не�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Тэкст
+pdfjs-editor-free-text-button-label = Тэкст
+pdfjs-editor-ink-button =
+    .title = Маляваць
+pdfjs-editor-ink-button-label = Маляваць
 pdfjs-editor-stamp-button =
     .title = Дадаць або змяніць выявы
 pdfjs-editor-stamp-button-label = Дадаць або змяніць выявы
@@ -286,6 +295,11 @@ pdfjs-editor-ink-opacity-input = Непразрыстасць
 pdfjs-editor-stamp-add-image-button =
     .title = Дадаць выяву
 pdfjs-editor-stamp-add-image-button-label = Дадаць выяву
+pdfjs-free-text =
+    .aria-label = Тэкставы рэдактар
+pdfjs-free-text-default-content = Пачніце набор тэксту…
+pdfjs-ink =
+    .aria-label = Графічны рэдактар
 pdfjs-ink-canvas =
     .aria-label = Выява, створаная карыстальнікам
 
