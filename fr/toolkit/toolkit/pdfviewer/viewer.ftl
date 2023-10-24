@@ -261,12 +261,26 @@ pdfjs-web-fonts-disabled = Les polices web sont désactivées : impossible d’
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texte
+pdfjs-editor-free-text-button-label = Texte
+pdfjs-editor-ink-button =
+    .title = Dessiner
+pdfjs-editor-ink-button-label = Dessiner
 pdfjs-editor-stamp-button =
     .title = Ajouter ou modifier des images
 pdfjs-editor-stamp-button-label = Ajouter ou modifier des images
+pdfjs-editor-free-text-size-input = Taille
+pdfjs-editor-ink-thickness-input = Épaisseur
+pdfjs-editor-ink-opacity-input = Opacité
 pdfjs-editor-stamp-add-image-button =
     .title = Ajouter une image
 pdfjs-editor-stamp-add-image-button-label = Ajouter une image
+pdfjs-free-text =
+    .aria-label = Éditeur de texte
+pdfjs-free-text-default-content = Commencer à écrire…
+pdfjs-ink =
+    .aria-label = Éditeur de dessin
 pdfjs-ink-canvas =
     .aria-label = Image créée par l’utilisateur·trice
 
