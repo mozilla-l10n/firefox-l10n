@@ -169,6 +169,8 @@ pdfjs-printing-not-ready = Rabhadh: Cha deach am PDF a luchdadh gu tur airson cl
 
 pdfjs-toggle-sidebar-button =
     .title = Toglaich am bàr-taoibh
+pdfjs-toggle-sidebar-notification-button =
+    .title = Toglaich am bàr-taoibh (tha oir-loidhne/ceanglachain/breathan aig an sgrìobhainn)
 pdfjs-toggle-sidebar-button-label = Toglaich am bàr-taoibh
 pdfjs-document-outline-button =
     .title = Seall oir-loidhne na sgrìobhainn (dèan briogadh dùbailte airson a h-uile nì a leudachadh/a cho-theannadh)
@@ -176,12 +178,19 @@ pdfjs-document-outline-button-label = Oir-loidhne na sgrìobhainne
 pdfjs-attachments-button =
     .title = Seall na ceanglachain
 pdfjs-attachments-button-label = Ceanglachain
+pdfjs-layers-button =
+    .title = Seall na breathan (dèan briogadh dùbailte airson a h-uile breath ath-shuidheachadh dhan staid bhunaiteach)
+pdfjs-layers-button-label = Breathan
 pdfjs-thumbs-button =
     .title = Seall na dealbhagan
 pdfjs-thumbs-button-label = Dealbhagan
+pdfjs-current-outline-item-button =
+    .title = Lorg nì làithreach na h-oir-loidhne
+pdfjs-current-outline-item-button-label = Nì làithreach na h-oir-loidhne
 pdfjs-findbar-button =
     .title = Lorg san sgrìobhainn
 pdfjs-findbar-button-label = Lorg
+pdfjs-additional-layers = Barrachd breathan
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -225,6 +234,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Duilleag { $page }
 
 ## Loading indicator messages
 
@@ -236,6 +249,10 @@ pdfjs-rendering-error = Thachair mearachd rè reandaradh na duilleige.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -248,6 +265,7 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = Cuir a-steach am facal-faire gus am faidhle PDF seo fhosgladh.
 pdfjs-password-invalid = Tha am facal-faire cearr. Nach fheuch thu ris a-rithist?
+pdfjs-password-ok-button = Ceart ma-thà
 pdfjs-password-cancel-button = Sguir dheth
 pdfjs-web-fonts-disabled = Tha cruthan-clò lìn à comas: Chan urrainn dhuinn cruthan-clò PDF leabaichte a chleachdadh.
 
