@@ -158,6 +158,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Ar aghaidh
 pdfjs-find-highlight-checkbox = Aibhsigh uile
 pdfjs-find-match-case-checkbox-label = Cásíogair
+pdfjs-find-entire-word-checkbox-label = Focail iomlána
 pdfjs-find-reached-top = Ag barr na cáipéise, ag leanúint ón mbun
 pdfjs-find-reached-bottom = Ag bun na cáipéise, ag leanúint ón mbarr
 pdfjs-find-not-found = Frása gan aimsiú
