@@ -222,6 +222,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = ਅੱਗੇ
 pdfjs-find-highlight-checkbox = ਸਭ ਉਭਾਰੋ
 pdfjs-find-match-case-checkbox-label = ਅੱਖਰ ਆਕਾਰ ਨੂੰ ਮਿਲਾਉ
+pdfjs-find-match-diacritics-checkbox-label = ਭੇਦਸੂਚਕ ਮੇਲ
 pdfjs-find-entire-word-checkbox-label = ਪੂਰੇ ਸ਼ਬਦ
 pdfjs-find-reached-top = ਦਸਤਾਵੇਜ਼ ਦੇ ਉੱਤੇ ਆ ਗਏ ਹਾਂ, ਥੱਲੇ ਤੋਂ ਜਾਰੀ ਰੱਖਿਆ ਹੈ
 pdfjs-find-reached-bottom = ਦਸਤਾਵੇਜ਼ ਦੇ ਅੰਤ ਉੱਤੇ ਆ ਗਏ ਹਾਂ, ਉੱਤੇ ਤੋਂ ਜਾਰੀ ਰੱਖਿਆ ਹੈ
