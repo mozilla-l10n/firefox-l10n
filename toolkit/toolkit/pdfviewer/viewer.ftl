@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = ਮੌਜੂਦਾ ਖਾਕਾ ਚੀ
 pdfjs-findbar-button =
     .title = ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਲੱਭੋ
 pdfjs-findbar-button-label = ਲੱਭੋ
+pdfjs-additional-layers = ਵਾਧੂ ਪਰਤਾਂ
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
