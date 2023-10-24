@@ -54,6 +54,12 @@ pdfjs-page-rotate-cw-button-label = Gia into verso oraio
 pdfjs-page-rotate-ccw-button =
     .title = Gia into verso antioraio
 pdfjs-page-rotate-ccw-button-label = Gia into verso antioraio
+pdfjs-cursor-text-select-tool-button =
+    .title = Abilita strumento de seleçion do testo
+pdfjs-cursor-text-select-tool-button-label = Strumento de seleçion do testo
+pdfjs-cursor-hand-tool-button =
+    .title = Abilita strumento man
+pdfjs-cursor-hand-tool-button-label = Strumento man
 
 ## Document properties dialog
 
@@ -132,6 +138,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Treuva
+    .placeholder = Treuva into documento…
 pdfjs-find-previous-button =
     .title = Treuva a ripetiçion precedente do testo da çercâ
 pdfjs-find-previous-button-label = Precedente
