@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Föregående
 pdfjs-next-button =
     .title = Nästa sida
 pdfjs-next-button-label = Nästa
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Sida
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = av { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } av { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Zooma ut
 pdfjs-zoom-out-button-label = Zooma ut
@@ -91,6 +102,11 @@ pdfjs-document-properties-close-button = Stäng
 
 ## Print
 
+pdfjs-print-progress-message = Förbereder sidor för utskrift…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Avbryt
 pdfjs-printing-not-supported = Varning: Utskrifter stöds inte helt av den här webbläsaren.
 pdfjs-printing-not-ready = Varning: PDF:en är inte klar för utskrift.
 
@@ -99,6 +115,12 @@ pdfjs-printing-not-ready = Varning: PDF:en är inte klar för utskrift.
 pdfjs-toggle-sidebar-button =
     .title = Visa/dölj sidofält
 pdfjs-toggle-sidebar-button-label = Visa/dölj sidofält
+pdfjs-document-outline-button =
+    .title = Visa dokumentdisposition (dubbelklicka för att expandera/komprimera alla objekt)
+pdfjs-document-outline-button-label = Dokumentöversikt
+pdfjs-attachments-button =
+    .title = Visa Bilagor
+pdfjs-attachments-button-label = Bilagor
 pdfjs-thumbs-button =
     .title = Visa miniatyrer
 pdfjs-thumbs-button-label = Miniatyrer
@@ -137,6 +159,9 @@ pdfjs-page-scale-width = Sidbredd
 pdfjs-page-scale-fit = Anpassa sida
 pdfjs-page-scale-auto = Automatisk zoom
 pdfjs-page-scale-actual = Verklig storlek
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -146,6 +171,7 @@ pdfjs-page-scale-actual = Verklig storlek
 pdfjs-loading-error = Ett fel uppstod vid laddning av PDF-filen.
 pdfjs-invalid-file-error = Ogiltig eller korrupt PDF-fil.
 pdfjs-missing-file-error = Saknad PDF-fil.
+pdfjs-unexpected-response-error = Oväntat svar från servern.
 
 ## Annotations
 
@@ -162,6 +188,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Skriv in lösenordet för att öppna PDF-filen.
 pdfjs-password-invalid = Ogiltigt lösenord. Försök igen.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Avbryt
 pdfjs-web-fonts-disabled = Webbtypsnitt är inaktiverade: kan inte använda inbäddade PDF-typsnitt.
 
 ## Editing
