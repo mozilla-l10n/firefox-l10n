@@ -11,6 +11,8 @@ pdfjs-previous-button-label = Iepriekšējā
 pdfjs-next-button =
     .title = Nākamā lapa
 pdfjs-next-button-label = Nākamā
+pdfjs-zoom-out-button =
+    .title = Attālināt
 pdfjs-zoom-out-button-label = Attālināt
 pdfjs-zoom-in-button =
     .title = Pietuvināt
@@ -23,9 +25,15 @@ pdfjs-presentation-mode-button-label = Prezentācijas režīms
 pdfjs-open-file-button =
     .title = Atvērt failu
 pdfjs-open-file-button-label = Atvērt
+pdfjs-print-button =
+    .title = Drukāšana
+pdfjs-print-button-label = Drukāt
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Rīki
+pdfjs-tools-button-label = Rīki
 pdfjs-first-page-button =
     .title = Iet uz pirmo lapu
 pdfjs-first-page-button-label = Iet uz pirmo lapu
@@ -84,9 +92,22 @@ pdfjs-document-properties-close-button = Aizvērt
 ## Print
 
 pdfjs-printing-not-supported = Uzmanību: Drukāšana no šī pārlūka darbojas tikai daļēji.
+pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Pārslēgt sānu joslu
+pdfjs-toggle-sidebar-button-label = Pārslēgt sānu joslu
+pdfjs-attachments-button =
+    .title = Rādīt pielikumus
+pdfjs-attachments-button-label = Pielikumi
+pdfjs-thumbs-button =
+    .title = Parādīt sīktēlus
+pdfjs-thumbs-button-label = Sīktēli
+pdfjs-findbar-button =
+    .title = Meklēt dokumentā
+pdfjs-findbar-button-label = Meklēt
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -101,6 +122,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Atrast iepriekšējo
+pdfjs-find-previous-button-label = Iepriekšējā
+pdfjs-find-next-button =
+    .title = Atrast nākamo
+pdfjs-find-next-button-label = Nākamā
+pdfjs-find-highlight-checkbox = Iekrāsot visas
+pdfjs-find-match-case-checkbox-label = Lielo, mazo burtu jutīgs
+pdfjs-find-reached-top = Sasniegts dokumenta sākums, turpinām no beigām
+pdfjs-find-reached-bottom = Sasniegtas dokumenta beigas, turpinām no sākuma
+pdfjs-find-not-found = Frāze nav atrasta
 
 ## Predefined zoom values
 
@@ -108,6 +140,9 @@ pdfjs-page-scale-width = Lapas platumā
 pdfjs-page-scale-fit = Ietilpinot lapu
 pdfjs-page-scale-auto = Automātiskais izmērs
 pdfjs-page-scale-actual = Patiesais izmērs
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -115,6 +150,9 @@ pdfjs-page-scale-actual = Patiesais izmērs
 ## Loading indicator messages
 
 pdfjs-loading-error = Ielādējot PDF notika kļūda.
+pdfjs-invalid-file-error = Nederīgs vai bojāts PDF fails.
+pdfjs-missing-file-error = PDF fails nav atrasts.
+pdfjs-unexpected-response-error = Negaidīa servera atbilde.
 
 ## Annotations
 
