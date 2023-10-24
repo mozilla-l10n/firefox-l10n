@@ -15,12 +15,31 @@ pdfjs-zoom-select =
     .title = Escala
 pdfjs-presentation-mode-button =
     .title = Canvia al mode de presentació
+pdfjs-presentation-mode-button-label = Mode de presentació
 pdfjs-open-file-button =
     .title = Obre el fitxer
 pdfjs-open-file-button-label = Obre
+pdfjs-print-button =
+    .title = Imprimeix
+pdfjs-print-button-label = Imprimeix
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Eines
+pdfjs-tools-button-label = Eines
+pdfjs-first-page-button =
+    .title = Vés a la primera pàgina
+pdfjs-first-page-button-label = Vés a la primera pàgina
+pdfjs-last-page-button =
+    .title = Vés a l'última pàgina
+pdfjs-last-page-button-label = Vés a l'última pàgina
+pdfjs-page-rotate-cw-button =
+    .title = Gira cap a la dreta
+pdfjs-page-rotate-cw-button-label = Gira cap a la dreta
+pdfjs-page-rotate-ccw-button =
+    .title = Gira cap a l'esquerra
+pdfjs-page-rotate-ccw-button-label = Gira cap a l'esquerra
 
 ## Document properties dialog
 
@@ -66,12 +85,16 @@ pdfjs-document-properties-page-count = Nombre de pàgines:
 ## Print
 
 pdfjs-printing-not-supported = Avís: la impressió no és plenament funcional en aquest navegador.
+pdfjs-printing-not-ready = Atenció: el PDF no s'ha acabat de carregar per imprimir-lo.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
     .title = Mostra/amaga la barra lateral
 pdfjs-toggle-sidebar-button-label = Mostra/amaga la barra lateral
+pdfjs-attachments-button =
+    .title = Mostra les adjuncions
+pdfjs-attachments-button-label = Adjuncions
 pdfjs-thumbs-button =
     .title = Mostra les miniatures
 pdfjs-thumbs-button-label = Miniatures
@@ -91,6 +114,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Cerca l'anterior coincidència de l'expressió
+pdfjs-find-previous-button-label = Anterior
+pdfjs-find-next-button =
+    .title = Cerca la següent coincidència de l'expressió
+pdfjs-find-next-button-label = Següent
+pdfjs-find-highlight-checkbox = Ressalta-ho tot
+pdfjs-find-match-case-checkbox-label = Distingeix entre majúscules i minúscules
+pdfjs-find-reached-top = S'ha arribat al principi del document, es continua pel final
+pdfjs-find-reached-bottom = S'ha arribat al final del document, es continua pel principi
+pdfjs-find-not-found = No s'ha trobat l'expressió
 
 ## Predefined zoom values
 
@@ -109,9 +143,19 @@ pdfjs-missing-file-error = Falta el fitxer PDF.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Anotació { $type }]
 
 ## Password
 
+pdfjs-password-label = Introduïu la contrasenya per obrir aquest fitxer PDF.
+pdfjs-password-invalid = La contrasenya no és vàlida. Torneu-ho a provar.
+pdfjs-password-ok-button = D'acord
 
 ## Editing
 
