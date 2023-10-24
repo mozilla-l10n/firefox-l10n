@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Recapits salvâts
 autofill-manage-addresses-list-header = Recapits
-
 autofill-manage-credit-cards-title = Cjartis di credit salvadis
 autofill-manage-credit-cards-list-header = Cjartis di credit
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Gjave
 autofill-manage-add-button = Zonte…
 autofill-manage-edit-button = Modifiche…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Salvâ la direzion?
+address-capture-save-doorhanger-description = Salve lis informazions in { -brand-short-name } par sveltî la compilazion dai formularis.
+address-capture-update-doorhanger-header = Inzornâ la direzion?
+address-capture-edit-doorhanger-header = Modifiche direzion
+address-capture-save-button =
+    .label = Salve
+    .accessKey = S
+address-capture-not-now-button =
+    .label = No cumò
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Anule
+    .accessKey = A
+address-capture-update-button =
+    .label = Inzorne
+    .accessKey = I
+address-capture-manage-address-button =
+    .label = Impostazions direzions
+address-capture-learn-more-button =
+    .label = Plui informazions
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Zonte gnûf recapit
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifiche recapit
-
+autofill-address-name = Non
 autofill-address-given-name = Non
 autofill-address-additional-name = Secont non
 autofill-address-family-name = Cognon
 autofill-address-organization = Organizazion
+autofill-address-street-address = Direzion di cjase
 autofill-address-street = Direzion di cjase
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Paîs o regjon
+autofill-address-country-only = Paîs
 autofill-address-tel = Telefon
 autofill-address-email = E-mail
-
 autofill-cancel-button = Anule
 autofill-save-button = Salve
 autofill-country-warning-message = La compilazion automatiche dai formularis e je disponibile dome par cualchi paîs.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Zonte gnove cjarte di credit
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifiche cjarte di credit
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } al sta cirint di visualizâ lis informazions de cjarte di credit. Conferme l'acès a chest account di Windows chi sot.
        *[other] { -brand-short-name } al sta cirint di visualizâ lis informazions de cjarte di credit.
     }
-
 autofill-card-number = Numar de cjarte
 autofill-card-invalid-number = Inserìs un numar di cjarte valit
 autofill-card-name-on-card = Non su la cjarte
