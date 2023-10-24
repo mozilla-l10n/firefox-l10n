@@ -70,6 +70,10 @@ pdfjs-document-properties-button-label = Propietæ do documento…
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-kb = { $size_kb } kB ({ $size_b } byte)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } byte)
 pdfjs-document-properties-title = Titolo:
 pdfjs-document-properties-author = Aoto:
 pdfjs-document-properties-subject = Ogetto:
