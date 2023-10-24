@@ -57,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Rotiraj u smjeru kazaljke na satu
 pdfjs-page-rotate-ccw-button =
     .title = Rotiraj suprotno smjeru kazaljke na satu
 pdfjs-page-rotate-ccw-button-label = Rotiraj suprotno smjeru kazaljke na satu
+pdfjs-cursor-text-select-tool-button =
+    .title = Omogući alat za označavanje teksta
+pdfjs-cursor-text-select-tool-button-label = Alat za označavanje teksta
+pdfjs-cursor-hand-tool-button =
+    .title = Omogući ručni alat
+pdfjs-cursor-hand-tool-button-label = Ručni alat
 
 ## Document properties dialog
 
@@ -87,6 +93,15 @@ pdfjs-document-properties-creator = Kreator:
 pdfjs-document-properties-producer = PDF stvaratelj:
 pdfjs-document-properties-version = PDF verzija:
 pdfjs-document-properties-page-count = Broj stranica:
+pdfjs-document-properties-page-size = Veličina stranice:
+pdfjs-document-properties-page-size-unit-inches = u
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = uspravno
+pdfjs-document-properties-page-size-orientation-landscape = vodoravno
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Pismo
+pdfjs-document-properties-page-size-name-legal = Pravni
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,6 +110,8 @@ pdfjs-document-properties-page-count = Broj stranica:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
