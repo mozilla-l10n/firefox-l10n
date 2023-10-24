@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Åpne
 pdfjs-print-button =
     .title = Skriv ut
 pdfjs-print-button-label = Skriv ut
+pdfjs-save-button =
+    .title = Lagre
+pdfjs-save-button-label = Lagre
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Last ned
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Last ned
+pdfjs-bookmark-button =
+    .title = Gjeldende side (se URL fra gjeldende side)
+pdfjs-bookmark-button-label = Gjeldende side
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Åpne i app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Åpne i app
 
 ##  Secondary toolbar and context menu
 
@@ -57,6 +75,33 @@ pdfjs-page-rotate-cw-button-label = Roter med klokken
 pdfjs-page-rotate-ccw-button =
     .title = Roter mot klokken
 pdfjs-page-rotate-ccw-button-label = Roter mot klokken
+pdfjs-cursor-text-select-tool-button =
+    .title = Aktiver tekstmarkeringsverktøy
+pdfjs-cursor-text-select-tool-button-label = Tekstmarkeringsverktøy
+pdfjs-cursor-hand-tool-button =
+    .title = Aktiver handverktøy
+pdfjs-cursor-hand-tool-button-label = Handverktøy
+pdfjs-scroll-page-button =
+    .title = Bruk siderulling
+pdfjs-scroll-page-button-label = Siderulling
+pdfjs-scroll-vertical-button =
+    .title = Bruk vertikal rulling
+pdfjs-scroll-vertical-button-label = Vertikal rulling
+pdfjs-scroll-horizontal-button =
+    .title = Bruk horisontal rulling
+pdfjs-scroll-horizontal-button-label = Horisontal rulling
+pdfjs-scroll-wrapped-button =
+    .title = Bruk flersiderulling
+pdfjs-scroll-wrapped-button-label = Flersiderulling
+pdfjs-spread-none-button =
+    .title = Vis enkeltsider
+pdfjs-spread-none-button-label = Enkeltsider
+pdfjs-spread-odd-button =
+    .title = Vis oppslag med ulike sidenumre til venstre
+pdfjs-spread-odd-button-label = Oppslag med forside
+pdfjs-spread-even-button =
+    .title = Vis oppslag med like sidenumre til venstre
+pdfjs-spread-even-button-label = Oppslag uten forside
 
 ## Document properties dialog
 
@@ -87,6 +132,15 @@ pdfjs-document-properties-creator = Opprettet av:
 pdfjs-document-properties-producer = PDF-verktøy:
 pdfjs-document-properties-version = PDF-versjon:
 pdfjs-document-properties-page-count = Sideantall:
+pdfjs-document-properties-page-size = Sidestørrelse:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = stående
+pdfjs-document-properties-page-size-orientation-landscape = liggende
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +149,16 @@ pdfjs-document-properties-page-count = Sideantall:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Hurtig nettvisning:
+pdfjs-document-properties-linearized-yes = Ja
+pdfjs-document-properties-linearized-no = Nei
 pdfjs-document-properties-close-button = Lukk
 
 ## Print
@@ -114,6 +175,8 @@ pdfjs-printing-not-ready = Advarsel: PDF er ikke fullstendig innlastet for utskr
 
 pdfjs-toggle-sidebar-button =
     .title = Slå av/på sidestolpe
+pdfjs-toggle-sidebar-notification-button =
+    .title = Vis/gjem sidestolpe (dokumentet inneholder oversikt/vedlegg/lag)
 pdfjs-toggle-sidebar-button-label = Slå av/på sidestolpe
 pdfjs-document-outline-button =
     .title = Vis dokumentdisposisjonen (dobbeltklikk for å utvide/skjule alle elementer)
@@ -121,9 +184,15 @@ pdfjs-document-outline-button-label = Dokumentdisposisjon
 pdfjs-attachments-button =
     .title = Vis vedlegg
 pdfjs-attachments-button-label = Vedlegg
+pdfjs-layers-button =
+    .title = Vis lag (dobbeltklikk for å tilbakestille alle lag til standardtilstand)
+pdfjs-layers-button-label = Lag
 pdfjs-thumbs-button =
     .title = Vis miniatyrbilde
 pdfjs-thumbs-button-label = Miniatyrbilde
+pdfjs-current-outline-item-button =
+    .title = Finn gjeldende disposisjonselement
+pdfjs-current-outline-item-button-label = Gjeldende disposisjonselement
 pdfjs-findbar-button =
     .title = Finn i dokumentet
 pdfjs-findbar-button-label = Finn
@@ -141,6 +210,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Søk
+    .placeholder = Søk i dokument…
 pdfjs-find-previous-button =
     .title = Finn forrige forekomst av frasen
 pdfjs-find-previous-button-label = Forrige
@@ -149,6 +221,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Neste
 pdfjs-find-highlight-checkbox = Uthev alle
 pdfjs-find-match-case-checkbox-label = Skill store/små bokstaver
+pdfjs-find-match-diacritics-checkbox-label = Samsvar diakritiske tegn
+pdfjs-find-entire-word-checkbox-label = Hele ord
 pdfjs-find-reached-top = Nådde toppen av dokumentet, fortsetter fra bunnen
 pdfjs-find-reached-bottom = Nådde bunnen av dokumentet, fortsetter fra toppen
 pdfjs-find-not-found = Fant ikke teksten
@@ -165,6 +239,10 @@ pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Side { $page }
 
 ## Loading indicator messages
 
@@ -172,9 +250,14 @@ pdfjs-loading-error = En feil oppstod ved lasting av PDF.
 pdfjs-invalid-file-error = Ugyldig eller skadet PDF-fil.
 pdfjs-missing-file-error = Manglende PDF-fil.
 pdfjs-unexpected-response-error = Uventet serverrespons.
+pdfjs-rendering-error = En feil oppstod ved opptegning av siden.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -193,9 +276,49 @@ pdfjs-web-fonts-disabled = Web-fonter er avslått: Kan ikke bruke innbundne PDF-
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Tekst
+pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Tegn
+pdfjs-editor-ink-button-label = Tegn
+pdfjs-editor-stamp-button =
+    .title = Legg til eller rediger bilder
+pdfjs-editor-stamp-button-label = Legg til eller rediger bilder
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Farge
+pdfjs-editor-free-text-size-input = Størrelse
+pdfjs-editor-ink-color-input = Farge
+pdfjs-editor-ink-thickness-input = Tykkelse
+pdfjs-editor-ink-opacity-input = Ugjennomsiktighet
+pdfjs-editor-stamp-add-image-button =
+    .title = Legg til bilde
+pdfjs-editor-stamp-add-image-button-label = Legg til bilde
+pdfjs-free-text =
+    .aria-label = Tekstredigering
+pdfjs-free-text-default-content = Begynn å skrive…
+pdfjs-ink =
+    .aria-label = Tegneredigering
+pdfjs-ink-canvas =
+    .aria-label = Brukerskapt bilde
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alt-tekst
+pdfjs-editor-alt-text-edit-button-label = Rediger alt-tekst tekst
+pdfjs-editor-alt-text-dialog-label = Velg et alternativ
+pdfjs-editor-alt-text-dialog-description = Alt-tekst (alternativ tekst) hjelper når folk ikke kan se bildet eller når det ikke lastes inn.
+pdfjs-editor-alt-text-add-description-label = Legg til en beskrivelse
+pdfjs-editor-alt-text-add-description-description = Gå etter 1-2 setninger som beskriver emnet, settingen eller handlingene.
+pdfjs-editor-alt-text-mark-decorative-label = Merk som dekorativt
+pdfjs-editor-alt-text-mark-decorative-description = Dette brukes til dekorative bilder, som kantlinjer eller vannmerker.
+pdfjs-editor-alt-text-cancel-button = Avbryt
+pdfjs-editor-alt-text-save-button = Lagre
+pdfjs-editor-alt-text-decorative-tooltip = Merket som dekorativ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = For eksempel, «En ung mann setter seg ved et bord for å spise et måltid»
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
