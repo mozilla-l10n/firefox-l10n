@@ -102,10 +102,13 @@ pdfjs-document-properties-creator = تخلیق کار:
 pdfjs-document-properties-producer = PDF پیدا کار:
 pdfjs-document-properties-version = PDF ورژن:
 pdfjs-document-properties-page-count = صفحہ شمار:
+pdfjs-document-properties-page-size = صفہ کی لمبائ:
 pdfjs-document-properties-page-size-unit-inches = میں
 pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = عمودی انداز
 pdfjs-document-properties-page-size-orientation-landscape = افقى انداز
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-legal = قانونی
 
 ## Variables:
