@@ -32,6 +32,7 @@ pdfjs-open-file-button =
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-findbar-button-label = Nong
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -54,6 +55,13 @@ pdfjs-thumb-page-title =
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Lok angea manok]
 
 ## Password
 
