@@ -42,6 +42,9 @@ pdfjs-print-button-label = Stanpa
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Atressi
+pdfjs-tools-button-label = Atressi
 pdfjs-first-page-button =
     .title = Vanni a-a primma pagina
 pdfjs-first-page-button-label = Vanni a-a primma pagina
@@ -84,6 +87,8 @@ pdfjs-spread-even-button-label = Difuxon pari
 pdfjs-document-properties-button =
     .title = Propietæ do documento…
 pdfjs-document-properties-button-label = Propietæ do documento…
+pdfjs-document-properties-file-name = Nomme schedaio:
+pdfjs-document-properties-file-size = Dimenscion schedaio:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -208,6 +213,8 @@ pdfjs-page-scale-percent = { $scale }%
 ## Loading indicator messages
 
 pdfjs-loading-error = S'é verificou 'n'erô itno caregamento do PDF.
+pdfjs-invalid-file-error = O schedaio PDF o l'é no valido ò aroinou.
+pdfjs-missing-file-error = O schedaio PDF o no gh'é.
 pdfjs-unexpected-response-error = Risposta inprevista do-u server
 
 ## Annotations
@@ -222,6 +229,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Dimme a paròlla segreta pe arvî sto schedaio PDF.
 pdfjs-password-invalid = Paròlla segreta sbalia. Preuva torna.
 pdfjs-password-ok-button = Va ben
 pdfjs-password-cancel-button = Anulla
