@@ -8,6 +8,17 @@
 pdfjs-next-button =
     .title = Neste side
 pdfjs-next-button-label = Neste
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Side
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = av { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } av { $pagesCount })
 pdfjs-presentation-mode-button =
     .title = Byt til presentasjonsmodus
 pdfjs-presentation-mode-button-label = Presentasjonsmodus
@@ -17,6 +28,9 @@ pdfjs-print-button-label = Skriv ut
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Verktøy
+pdfjs-tools-button-label = Verktøy
 pdfjs-last-page-button =
     .title = Gå til siste side
 pdfjs-last-page-button-label = Gå til siste side
@@ -49,6 +63,7 @@ pdfjs-document-properties-modification-date = Dato endra:
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Oppretta av:
+pdfjs-document-properties-producer = PDF-verktøy:
 pdfjs-document-properties-version = PDF-versjon:
 pdfjs-document-properties-page-count = Sidetal:
 
@@ -65,6 +80,11 @@ pdfjs-document-properties-page-count = Sidetal:
 
 ## Print
 
+pdfjs-print-progress-message = Førebur dokumentet for utskrift…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Avbryt
 pdfjs-printing-not-supported = Åtvaring: Utskrift er ikkje fullstendig støtta av denne nettlesaren.
 pdfjs-printing-not-ready = Åtvaring: PDF ikkje fullstendig innlasta for utskrift.
 
@@ -73,6 +93,7 @@ pdfjs-printing-not-ready = Åtvaring: PDF ikkje fullstendig innlasta for utskrif
 pdfjs-toggle-sidebar-button =
     .title = Slå av/på sidestolpe
 pdfjs-toggle-sidebar-button-label = Slå av/på sidestolpe
+pdfjs-document-outline-button-label = Dokumentdisposisjon
 pdfjs-attachments-button =
     .title = Vis vedlegg
 pdfjs-attachments-button-label = Vedlegg
