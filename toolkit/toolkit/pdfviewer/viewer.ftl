@@ -190,6 +190,7 @@ pdfjs-current-outline-item-button-label = Item atualmente destacado
 pdfjs-findbar-button =
     .title = Localizar em documento
 pdfjs-findbar-button-label = Localizar
+pdfjs-additional-layers = Camadas adicionais
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
