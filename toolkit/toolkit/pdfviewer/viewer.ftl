@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = 目前的大綱項目
 pdfjs-findbar-button =
     .title = 在文件中尋找
 pdfjs-findbar-button-label = 尋找
+pdfjs-additional-layers = 其他圖層
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
