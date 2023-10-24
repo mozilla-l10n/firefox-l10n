@@ -182,6 +182,7 @@ pdfjs-loading-error = PDF ಅನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಒ
 pdfjs-invalid-file-error = ಅಮಾನ್ಯವಾದ ಅಥವ ಹಾಳಾದ PDF ಕಡತ.
 pdfjs-missing-file-error = PDF ಕಡತ ಇಲ್ಲ.
 pdfjs-unexpected-response-error = ಅನಿರೀಕ್ಷಿತವಾದ ಪೂರೈಕೆಗಣಕದ ಪ್ರತಿಕ್ರಿಯೆ.
+pdfjs-rendering-error = ಪುಟವನ್ನು ನಿರೂಪಿಸುವಾಗ ಒಂದು ದೋಷ ಎದುರಾಗಿದೆ.
 
 ## Annotations
 
