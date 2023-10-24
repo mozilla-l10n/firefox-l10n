@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Anterior
 pdfjs-next-button =
     .title = Página siguiente
 pdfjs-next-button-label = Siguiente
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Página
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ( { $pageNumber } de { $pagesCount } )
 pdfjs-zoom-out-button =
     .title = Alejar
 pdfjs-zoom-out-button-label = Alejar
@@ -28,6 +39,15 @@ pdfjs-open-file-button-label = Abrir
 pdfjs-print-button =
     .title = Imprimir
 pdfjs-print-button-label = Imprimir
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Descargar
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Descargar
+pdfjs-bookmark-button =
+    .title = Página actual (Ver URL de la página actual)
+pdfjs-bookmark-button-label = Página actual
 
 ##  Secondary toolbar and context menu
 
@@ -46,6 +66,24 @@ pdfjs-page-rotate-cw-button-label = Rotar horario
 pdfjs-page-rotate-ccw-button =
     .title = Rotar antihorario
 pdfjs-page-rotate-ccw-button-label = Rotar antihorario
+pdfjs-cursor-text-select-tool-button =
+    .title = Habilitar herramienta de selección de texto
+pdfjs-cursor-text-select-tool-button-label = Herramienta de selección de texto
+pdfjs-cursor-hand-tool-button =
+    .title = Habilitar herramienta mano
+pdfjs-cursor-hand-tool-button-label = Herramienta mano
+pdfjs-scroll-page-button =
+    .title = Usar desplazamiento de página
+pdfjs-scroll-page-button-label = Desplazamiento de página
+pdfjs-spread-none-button =
+    .title = No unir páginas dobles
+pdfjs-spread-none-button-label = Sin dobles
+pdfjs-spread-odd-button =
+    .title = Unir páginas dobles comenzando con las impares
+pdfjs-spread-odd-button-label = Dobles impares
+pdfjs-spread-even-button =
+    .title = Unir páginas dobles comenzando con las pares
+pdfjs-spread-even-button-label = Dobles pares
 
 ## Document properties dialog
 
@@ -76,6 +114,15 @@ pdfjs-document-properties-creator = Creador:
 pdfjs-document-properties-producer = PDF Productor:
 pdfjs-document-properties-version = Versión de PDF:
 pdfjs-document-properties-page-count = Cantidad de páginas:
+pdfjs-document-properties-page-size = Tamaño de página:
+pdfjs-document-properties-page-size-unit-inches = en
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = normal
+pdfjs-document-properties-page-size-orientation-landscape = apaisado
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Carta
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -84,6 +131,8 @@ pdfjs-document-properties-page-count = Cantidad de páginas:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -91,6 +140,11 @@ pdfjs-document-properties-close-button = Cerrar
 
 ## Print
 
+pdfjs-print-progress-message = Preparando documento para imprimir…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Cancelar
 pdfjs-printing-not-supported = Advertencia: La impresión no está totalmente soportada por este navegador.
 pdfjs-printing-not-ready = Advertencia: El PDF no está completamente cargado para impresión.
 
@@ -98,10 +152,18 @@ pdfjs-printing-not-ready = Advertencia: El PDF no está completamente cargado pa
 
 pdfjs-toggle-sidebar-button =
     .title = Alternar barra lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Alternar barra lateral (el documento contiene esquemas/adjuntos/capas)
 pdfjs-toggle-sidebar-button-label = Alternar barra lateral
+pdfjs-document-outline-button =
+    .title = Mostrar esquema del documento (doble clic para expandir/colapsar todos los ítems)
+pdfjs-document-outline-button-label = Esquema del documento
 pdfjs-attachments-button =
     .title = Mostrar adjuntos
 pdfjs-attachments-button-label = Adjuntos
+pdfjs-layers-button =
+    .title = Mostrar capas (doble clic para restablecer todas las capas al estado predeterminado)
+pdfjs-layers-button-label = Capas
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
@@ -122,6 +184,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Buscar
+    .placeholder = Buscar en documento…
 pdfjs-find-previous-button =
     .title = Buscar la aparición anterior de la frase
 pdfjs-find-previous-button-label = Anterior
@@ -130,6 +195,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Siguiente
 pdfjs-find-highlight-checkbox = Resaltar todo
 pdfjs-find-match-case-checkbox-label = Coincidir mayúsculas
+pdfjs-find-match-diacritics-checkbox-label = Coincidir diacríticos
 pdfjs-find-reached-top = Inicio de documento alcanzado, continuando desde abajo
 pdfjs-find-reached-bottom = Fin de documento alcanzando, continuando desde arriba
 pdfjs-find-not-found = Frase no encontrada
@@ -146,6 +212,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Página { $page }
 
 ## Loading indicator messages
 
@@ -156,6 +226,10 @@ pdfjs-unexpected-response-error = Respuesta del servidor inesperada.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -174,6 +248,19 @@ pdfjs-web-fonts-disabled = Tipografía web deshabilitada: no se pueden usar tipo
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Dibujar
+pdfjs-editor-ink-button-label = Dibujar
+pdfjs-free-text =
+    .aria-label = Editor de texto
+pdfjs-free-text-default-content = Empezar a tipear…
+pdfjs-ink =
+    .aria-label = Editor de dibujos
+pdfjs-ink-canvas =
+    .aria-label = Imagen creada por el usuario
 
 ## Alt-text dialog
 
@@ -181,3 +268,11 @@ pdfjs-web-fonts-disabled = Tipografía web deshabilitada: no se pueden usar tipo
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Esquina superior izquierda — cambiar el tamaño
+pdfjs-editor-resizer-label-top-middle = Arriba en el medio — cambiar el tamaño
+pdfjs-editor-resizer-label-top-right = Esquina superior derecha — cambiar el tamaño
+pdfjs-editor-resizer-label-middle-right = Al centro a la derecha — cambiar el tamaño
+pdfjs-editor-resizer-label-bottom-right = Esquina inferior derecha — cambiar el tamaño
+pdfjs-editor-resizer-label-bottom-middle = Abajo en el medio — cambiar el tamaño
+pdfjs-editor-resizer-label-bottom-left = Esquina inferior izquierda — cambiar el tamaño
+pdfjs-editor-resizer-label-middle-left = Al centro a la izquierda — cambiar el tamaño
