@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Kaɓirgel cuɓirgel binndi
 pdfjs-cursor-hand-tool-button =
     .title = Hurmin kuutorgal junngo
 pdfjs-cursor-hand-tool-button-label = Kaɓirgel junngo
+pdfjs-scroll-vertical-button =
+    .title = Huutoro gorwitol daringol
+pdfjs-scroll-vertical-button-label = Gorwitol daringol
+pdfjs-scroll-horizontal-button =
+    .title = Huutoro gorwitol lelingol
+pdfjs-scroll-horizontal-button-label = Gorwitol daringol
+pdfjs-scroll-wrapped-button =
+    .title = Huutoro gorwitol coomingol
+pdfjs-scroll-wrapped-button-label = Gorwitol coomingol
+pdfjs-spread-none-button =
+    .title = Hoto tawtu kelle kelle
+pdfjs-spread-none-button-label = Alaa Spreads
+pdfjs-spread-odd-button =
+    .title = Tawtu kelle puɗɗortooɗe kelle teelɗe
+pdfjs-spread-odd-button-label = Kelle teelɗe
+pdfjs-spread-even-button =
+    .title = Tawtu ɗereeji kelle puɗɗoriiɗi kelle teeltuɗe
+pdfjs-spread-even-button-label = Kelle teeltuɗe
 
 ## Document properties dialog
 
@@ -115,6 +133,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Ɗisngo geese yaawngo:
+pdfjs-document-properties-linearized-yes = Eey
+pdfjs-document-properties-linearized-no = Alaa
 pdfjs-document-properties-close-button = Uddu
 
 ## Print
@@ -169,6 +192,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Yeeso
 pdfjs-find-highlight-checkbox = Jalbin fof
 pdfjs-find-match-case-checkbox-label = Jaaɓnu darnde
+pdfjs-find-entire-word-checkbox-label = Kelme timmuɗe tan
 pdfjs-find-reached-top = Heɓii fuɗɗorde fiilannde, jokku faya les
 pdfjs-find-reached-bottom = Heɓii hoore fiilannde, jokku faya les
 pdfjs-find-not-found = Konngi njiyataa
