@@ -974,6 +974,7 @@ cookie-banner-handling-description = { -brand-short-name } reynir sjálfkrafa a�
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Útilokun vefkökuborða
+cookie-banner-blocker-description = Þegar vefsvæði spyr hvort það megi nota vefkökur í huliðsvafraham, hafnat { -brand-short-name } því sjálfkrafa fyrir þig. Virkar aðeins á studdum vefsvæðum.
 cookie-banner-learn-more = Frekari upplýsingar
 forms-handle-cookie-banners =
     .label = Fækkaðu vefkökuborðum

@@ -137,6 +137,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Viltu slökkva 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Viltu kveikja á útilokun vefkökuborða fyrir þetta vefsvæði?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } mun hreinsa vefkökur þessa vefsvæðis og endurlesa síðuna. Að hreinsa allar vefkökur gæti skráð þig út eða tæmt innkaupakörfur.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } reynir að hafna sjálfkrafa beiðnum um vefkökur á þeim vefsvæðum þar sem það er hægt.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Kveiktu á því og { -brand-short-name } mun reyna að hafna sjálfkrafa vefkökuborðum á þessu vefsvæði.
 protections-panel-cookie-banner-view-cancel = Hætta við
 protections-panel-cookie-banner-view-turn-off = Slökkva á
 protections-panel-cookie-banner-view-turn-on = Kveikja á
