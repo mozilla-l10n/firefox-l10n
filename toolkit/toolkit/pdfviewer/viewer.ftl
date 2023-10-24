@@ -138,6 +138,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Шукаць
+    .placeholder = Шукаць у дакуменце…
 pdfjs-find-previous-button =
     .title = Знайсці папярэдні выпадак выразу
 pdfjs-find-previous-button-label = Папярэдні
