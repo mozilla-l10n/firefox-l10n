@@ -23,6 +23,9 @@ pdfjs-presentation-mode-button-label = حالت ارائه
 pdfjs-open-file-button =
     .title = باز کردن پرونده
 pdfjs-open-file-button-label = باز کردن
+pdfjs-print-button =
+    .title = چاپ
+pdfjs-print-button-label = چاپ
 
 ##  Secondary toolbar and context menu
 
@@ -95,6 +98,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = تأیید
 
 ## Editing
 
