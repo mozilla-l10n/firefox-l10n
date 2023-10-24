@@ -60,6 +60,33 @@ pdfjs-page-rotate-ccw-button-label = Rotation antihoraire
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Propriétés du document…
+pdfjs-document-properties-button-label = Propriétés du document…
+pdfjs-document-properties-file-name = Nom du fichier :
+pdfjs-document-properties-file-size = Taille du fichier :
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } Ko ({ $size_b } octets)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } Mo ({ $size_b } octets)
+pdfjs-document-properties-title = Titre :
+pdfjs-document-properties-author = Auteur :
+pdfjs-document-properties-subject = Sujet :
+pdfjs-document-properties-keywords = Mots-clés :
+pdfjs-document-properties-creation-date = Date de création :
+pdfjs-document-properties-modification-date = Modifié le :
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date } à { $time }
+pdfjs-document-properties-creator = Créé par :
+pdfjs-document-properties-producer = Outil de conversion PDF :
+pdfjs-document-properties-version = Version PDF :
+pdfjs-document-properties-page-count = Nombre de pages :
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -71,9 +98,15 @@ pdfjs-page-rotate-ccw-button-label = Rotation antihoraire
 
 ##
 
+pdfjs-document-properties-close-button = Fermer
 
 ## Print
 
+pdfjs-print-progress-message = Préparation du document pour l’impression…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
+pdfjs-print-progress-close-button = Annuler
 pdfjs-printing-not-supported = Attention : l’impression n’est pas totalement prise en charge par ce navigateur.
 pdfjs-printing-not-ready = Attention : le PDF n’est pas entièrement chargé pour pouvoir l’imprimer.
 
