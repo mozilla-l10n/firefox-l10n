@@ -43,9 +43,13 @@ pdfjs-print-button-label = បោះពុម្ព
 ## Print
 
 pdfjs-printing-not-supported = ការ​ព្រមាន ៖ កា​រ​បោះពុម្ព​មិន​ត្រូវ​បាន​គាំទ្រ​ពេញលេញ​ដោយ​កម្មវិធី​រុករក​នេះ​ទេ ។
+pdfjs-printing-not-ready = ព្រមាន៖ PDF មិន​ត្រូវ​បាន​ផ្ទុក​ទាំងស្រុង​ដើម្បី​បោះពុម្ព​ទេ។
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = បិទ/បើក​គ្រាប់​រំកិល
+pdfjs-toggle-sidebar-button-label = បិទ/បើក​គ្រាប់​រំកិល
 pdfjs-thumbs-button =
     .title = បង្ហាញ​រូបភាព​តូចៗ
 pdfjs-thumbs-button-label = រួបភាព​តូចៗ
@@ -92,12 +96,14 @@ pdfjs-page-scale-actual = ទំហំ​ជាក់ស្ដែង
 
 pdfjs-loading-error = មាន​កំហុស​បាន​កើតឡើង​ពេល​កំពុង​ផ្ទុក PDF ។
 pdfjs-invalid-file-error = ឯកសារ PDF ខូច ឬ​មិន​ត្រឹមត្រូវ ។
+pdfjs-missing-file-error = បាត់​ឯកសារ PDF
 
 ## Annotations
 
 
 ## Password
 
+pdfjs-web-fonts-disabled = បាន​បិទ​ពុម្ពអក្សរ​បណ្ដាញ ៖ មិន​អាច​ប្រើ​ពុម្ពអក្សរ PDF ដែល​បាន​បង្កប់​បាន​ទេ ។
 
 ## Editing
 
