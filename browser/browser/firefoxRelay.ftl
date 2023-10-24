@@ -14,11 +14,16 @@ firefox-relay-get-reusable-masks-failed = { -relay-brand-name } s’gjeti dot ma
 ##
 
 firefox-relay-must-login-to-fxa = Që të mund të përdorni { -relay-brand-name }, duhet të bëni hyrjen në { -fxaccount-brand-name }.
+firefox-relay-must-login-to-account = Që të përdorni maska tuajat email-i { -relay-brand-name }, bëni hyrjen në llogarinë tuaj.
 firefox-relay-get-unlimited-masks =
     .label = Administroni maska
     .accesskey = A
 # This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
 firefox-relay-opt-in-title-1 = Mbroni adresën tuaj email:
+# This is preceded by firefox-relay-opt-in-title-1 (on a different line), which
+# ends with a colon. You might need to adapt the capitalization of this string.
+firefox-relay-opt-in-subtitle-1 = Përdor maskë { -relay-brand-name } email-i
+firefox-relay-use-mask-title = Përdor maskë { -relay-brand-name } email-i
 firefox-relay-opt-in-confirmation-enable-button =
     .label = Përdor maskë email-i
     .accesskey = P
