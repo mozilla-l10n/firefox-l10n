@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = ਖੋਲ੍ਹੋ
 pdfjs-print-button =
     .title = ਪਰਿੰਟ
 pdfjs-print-button-label = ਪਰਿੰਟ
+pdfjs-save-button =
+    .title = ਸੰਭਾਲੋ
+pdfjs-save-button-label = ਸੰਭਾਲੋ
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = ਡਾਊਨਲੋਡ
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = ਡਾਊਨਲੋਡ
+pdfjs-bookmark-button =
+    .title = ਮੌਜੂਦਾ ਸਫ਼਼ਾ (ਮੌਜੂਦਾ ਸਫ਼ੇ ਤੋਂ URL ਵੇਖੋ)
+pdfjs-bookmark-button-label = ਮੌਜੂਦਾ ਸਫ਼਼ਾ
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = ਐਪ ਵਿੱਚ ਖੋਲ੍ਹੋ
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = ਐਪ ਵਿੱਚ ਖੋਲ੍ਹੋ
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = ਲਿਖਤ ਚੋਣ ਟੂਲ
 pdfjs-cursor-hand-tool-button =
     .title = ਹੱਥ ਟੂਲ ਸਮਰੱਥ ਕਰੋ
 pdfjs-cursor-hand-tool-button-label = ਹੱਥ ਟੂਲ
+pdfjs-scroll-page-button =
+    .title = ਸਫ਼ਾ ਖਿਸਕਾਉਣ ਨੂੰ ਵਰਤੋਂ
+pdfjs-scroll-page-button-label = ਸਫ਼ਾ ਖਿਸਕਾਉਣਾ
 pdfjs-scroll-vertical-button =
     .title = ਖੜ੍ਹਵੇਂ ਸਕਰਾਉਣ ਨੂੰ ਵਰਤੋਂ
 pdfjs-scroll-vertical-button-label = ਖੜ੍ਹਵਾਂ ਸਰਕਾਉਣਾ
@@ -72,6 +93,13 @@ pdfjs-scroll-horizontal-button-label = ਲੇਟਵਾਂ ਸਰਕਾਉਣਾ
 pdfjs-scroll-wrapped-button =
     .title = ਸਮੇਟੇ ਸਰਕਾਉਣ ਨੂੰ ਵਰਤੋਂ
 pdfjs-scroll-wrapped-button-label = ਸਮੇਟਿਆ ਸਰਕਾਉਣਾ
+pdfjs-spread-none-button-label = ਕੋਈ ਫੈਲਾਅ ਨਹੀਂ
+pdfjs-spread-odd-button =
+    .title = ਟਾਂਕ ਅੰਕ ਵਾਲੇ ਸਫ਼ਿਆਂ ਨਾਲ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲੇ ਸਫਿਆਂ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ
+pdfjs-spread-odd-button-label = ਟਾਂਕ ਫੈਲਾਅ
+pdfjs-spread-even-button =
+    .title = ਜਿਸਤ ਅੰਕ ਵਾਲੇ ਸਫ਼ਿਆਂ ਨਾਲ ਸ਼ੁਰੂ ਹੋਣ ਵਾਲੇ ਸਫਿਆਂ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ
+pdfjs-spread-even-button-label = ਜਿਸਤ ਫੈਲਾਅ
 
 ## Document properties dialog
 
@@ -124,6 +152,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = ਤੇਜ਼ ਵੈੱਬ ਝਲਕ:
+pdfjs-document-properties-linearized-yes = ਹਾਂ
+pdfjs-document-properties-linearized-no = ਨਹੀਂ
 pdfjs-document-properties-close-button = ਬੰਦ ਕਰੋ
 
 ## Print
@@ -140,6 +173,8 @@ pdfjs-printing-not-ready = ਸਾਵਧਾਨ: PDF ਨੂੰ ਪਰਿੰਟ ਕ
 
 pdfjs-toggle-sidebar-button =
     .title = ਬਾਹੀ ਬਦਲੋ
+pdfjs-toggle-sidebar-notification-button =
+    .title = ਬਾਹੀ ਨੂੰ ਬਦਲੋ (ਦਸਤਾਵੇਜ਼ ਖਾਕਾ/ਅਟੈਚਮੈਂਟ/ਪਰਤਾਂ ਰੱਖਦਾ ਹੈ)
 pdfjs-toggle-sidebar-button-label = ਬਾਹੀ ਬਦਲੋ
 pdfjs-document-outline-button =
     .title = ਦਸਤਾਵੇਜ਼ ਖਾਕਾ ਦਿਖਾਓ (ਸਾਰੀਆਂ ਆਈਟਮਾਂ ਨੂੰ ਫੈਲਾਉਣ/ਸਮੇਟਣ ਲਈ ਦੋ ਵਾਰ ਕਲਿੱਕ ਕਰੋ)
@@ -147,9 +182,15 @@ pdfjs-document-outline-button-label = ਦਸਤਾਵੇਜ਼ ਖਾਕਾ
 pdfjs-attachments-button =
     .title = ਅਟੈਚਮੈਂਟ ਵੇਖਾਓ
 pdfjs-attachments-button-label = ਅਟੈਚਮੈਂਟਾਂ
+pdfjs-layers-button =
+    .title = ਪਰਤਾਂ ਵੇਖਾਓ (ਸਾਰੀਆਂ ਪਰਤਾਂ ਨੂੰ ਮੂਲ ਹਾਲਤ ਉੱਤੇ ਮੁੜ-ਸੈੱਟ ਕਰਨ ਲਈ ਦੋ ਵਾਰ ਕਲਿੱਕ ਕਰੋ)
+pdfjs-layers-button-label = ਪਰਤਾਂ
 pdfjs-thumbs-button =
     .title = ਥੰਮਨੇਲ ਨੂੰ ਵੇਖਾਓ
 pdfjs-thumbs-button-label = ਥੰਮਨੇਲ
+pdfjs-current-outline-item-button =
+    .title = ਮੌੌਜੂਦਾ ਖਾਕਾ ਚੀਜ਼ ਲੱਭੋ
+pdfjs-current-outline-item-button-label = ਮੌਜੂਦਾ ਖਾਕਾ ਚੀਜ਼
 pdfjs-findbar-button =
     .title = ਦਸਤਾਵੇਜ਼ ਵਿੱਚ ਲੱਭੋ
 pdfjs-findbar-button-label = ਲੱਭੋ
@@ -178,6 +219,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = ਅੱਗੇ
 pdfjs-find-highlight-checkbox = ਸਭ ਉਭਾਰੋ
 pdfjs-find-match-case-checkbox-label = ਅੱਖਰ ਆਕਾਰ ਨੂੰ ਮਿਲਾਉ
+pdfjs-find-entire-word-checkbox-label = ਪੂਰੇ ਸ਼ਬਦ
 pdfjs-find-reached-top = ਦਸਤਾਵੇਜ਼ ਦੇ ਉੱਤੇ ਆ ਗਏ ਹਾਂ, ਥੱਲੇ ਤੋਂ ਜਾਰੀ ਰੱਖਿਆ ਹੈ
 pdfjs-find-reached-bottom = ਦਸਤਾਵੇਜ਼ ਦੇ ਅੰਤ ਉੱਤੇ ਆ ਗਏ ਹਾਂ, ਉੱਤੇ ਤੋਂ ਜਾਰੀ ਰੱਖਿਆ ਹੈ
 pdfjs-find-not-found = ਵਾਕ ਨਹੀਂ ਲੱਭਿਆ
@@ -194,6 +236,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = ਸਫ਼ਾ { $page }
 
 ## Loading indicator messages
 
@@ -201,9 +247,14 @@ pdfjs-loading-error = PDF ਲੋਡ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤ�
 pdfjs-invalid-file-error = ਗਲਤ ਜਾਂ ਨਿਕਾਰਾ PDF ਫਾਈਲ ਹੈ।
 pdfjs-missing-file-error = ਨਾ-ਮੌਜੂਦ PDF ਫਾਈਲ।
 pdfjs-unexpected-response-error = ਅਣਜਾਣ ਸਰਵਰ ਜਵਾਬ।
+pdfjs-rendering-error = ਸਫ਼ਾ ਰੈਡਰ ਕਰਨ ਦੇ ਦੌਰਾਨ ਗਲਤੀ ਆਈ ਹੈ।
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -222,9 +273,49 @@ pdfjs-web-fonts-disabled = ਵੈਬ ਫੋਂਟ ਬੰਦ ਹਨ: ਇੰਬੈ
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = ਲਿਖਤ
+pdfjs-editor-free-text-button-label = ਲਿਖਤ
+pdfjs-editor-ink-button =
+    .title = ਵਾਹੋ
+pdfjs-editor-ink-button-label = ਵਾਹੋ
+pdfjs-editor-stamp-button =
+    .title = ਚਿੱਤਰ ਜੋੜੋ ਜਾਂ ਸੋਧੋ
+pdfjs-editor-stamp-button-label = ਚਿੱਤਰ ਜੋੜੋ ਜਾਂ ਸੋਧੋ
+# Editor Parameters
+pdfjs-editor-free-text-color-input = ਰੰਗ
+pdfjs-editor-free-text-size-input = ਆਕਾਰ
+pdfjs-editor-ink-color-input = ਰੰਗ
+pdfjs-editor-ink-thickness-input = ਮੋਟਾਈ
+pdfjs-editor-ink-opacity-input = ਧੁੰਦਲਾਪਨ
+pdfjs-editor-stamp-add-image-button =
+    .title = ਚਿੱਤਰ ਜੋੜੋ
+pdfjs-editor-stamp-add-image-button-label = ਚਿੱਤਰ ਜੋੜੋ
+pdfjs-free-text =
+    .aria-label = ਲਿਖਤ ਐਡੀਟਰ
+pdfjs-free-text-default-content = …ਲਿਖਣਾ ਸ਼ੁਰੂ ਕਰੋ
+pdfjs-ink =
+    .aria-label = ਵਹਾਉਣ ਐਡੀਟਰ
+pdfjs-ink-canvas =
+    .aria-label = ਵਰਤੋਂਕਾਰ ਵਲੋਂ ਬਣਾਇਆ ਚਿੱਤਰ
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = ਬਦਲਵੀਂ ਲਿਖਤ
+pdfjs-editor-alt-text-edit-button-label = ਬਦਲਵੀ ਲਿਖਤ ਨੂੰ ਸੋਧੋ
+pdfjs-editor-alt-text-dialog-label = ਚੋਣ ਕਰੋ
+pdfjs-editor-alt-text-dialog-description = ਚਿੱਤਰ ਨਾ ਦਿੱਸਣ ਜਾਂ ਲੋਡ ਨਾ ਹੋਣ ਦੀ ਹਾਲਤ ਵਿੱਚ Alt ਲਿਖਤ (ਬਦਲਵੀਂ ਲਿਖਤ) ਲੋਕਾਂ ਲਈ ਮਦਦਗਾਰ ਹੁੰਦੀ ਹੈ।
+pdfjs-editor-alt-text-add-description-label = ਵਰਣਨ ਜੋੜੋ
+pdfjs-editor-alt-text-add-description-description = 1-2 ਵਾਕ ਰੱਖੋ, ਜੋ ਕਿ ਵਿਸ਼ੇ, ਸੈਟਿੰਗ ਜਾਂ ਕਾਰਵਾਈਆਂ ਬਾਰੇ ਦਰਸਾਉਂਦੇ ਹੋਣ।
+pdfjs-editor-alt-text-mark-decorative-label = ਸਜਾਵਟ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਇਆ
+pdfjs-editor-alt-text-mark-decorative-description = ਇਸ ਨੂੰ ਸਜਾਵਟੀ ਚਿੱਤਰਾਂ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ ਜਿਵੇਂ ਕਿ ਹਾਸ਼ੀਆ ਜਾਂ ਵਾਟਰਮਾਰਕ ਆਦਿ।
+pdfjs-editor-alt-text-cancel-button = ਰੱਦ ਕਰੋ
+pdfjs-editor-alt-text-save-button = ਸੰਭਾਲੋ
+pdfjs-editor-alt-text-decorative-tooltip = ਸਜਾਵਟ ਵਜੋਂ ਨਿਸ਼ਾਨ ਲਾਓ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = ਮਿਸਾਲ ਵਜੋਂ, “ਗੱਭਰੂ ਭੋਜਨ ਲੈ ਕੇ ਮੇਜ਼ ਉੱਤੇ ਬੈਠਾ ਹੈ”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
