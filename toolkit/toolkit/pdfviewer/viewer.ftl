@@ -57,6 +57,31 @@ pdfjs-page-rotate-cw-button-label = Rotation horaire
 pdfjs-page-rotate-ccw-button =
     .title = Rotation antihoraire
 pdfjs-page-rotate-ccw-button-label = Rotation antihoraire
+pdfjs-cursor-text-select-tool-button =
+    .title = Activer l’outil de sélection de texte
+pdfjs-cursor-text-select-tool-button-label = Outil de sélection de texte
+pdfjs-cursor-hand-tool-button =
+    .title = Activer l’outil main
+pdfjs-cursor-hand-tool-button-label = Outil main
+pdfjs-scroll-page-button =
+    .title = Utiliser le défilement par page
+pdfjs-scroll-page-button-label = Défilement par page
+pdfjs-scroll-vertical-button =
+    .title = Utiliser le défilement vertical
+pdfjs-scroll-vertical-button-label = Défilement vertical
+pdfjs-scroll-horizontal-button =
+    .title = Utiliser le défilement horizontal
+pdfjs-scroll-horizontal-button-label = Défilement horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Utiliser le défilement par bloc
+pdfjs-scroll-wrapped-button-label = Défilement par bloc
+pdfjs-spread-none-button-label = Pas de double affichage
+pdfjs-spread-odd-button =
+    .title = Afficher les pages par deux, impaires à gauche
+pdfjs-spread-odd-button-label = Doubles pages, impaires à gauche
+pdfjs-spread-even-button =
+    .title = Afficher les pages par deux, paires à gauche
+pdfjs-spread-even-button-label = Doubles pages, paires à gauche
 
 ## Document properties dialog
 
@@ -87,6 +112,7 @@ pdfjs-document-properties-creator = Créé par :
 pdfjs-document-properties-producer = Outil de conversion PDF :
 pdfjs-document-properties-version = Version PDF :
 pdfjs-document-properties-page-count = Nombre de pages :
+pdfjs-document-properties-page-size-name-legal = document juridique
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -150,6 +176,7 @@ pdfjs-find-previous-button-label = Précédent
 pdfjs-find-next-button-label = Suivant
 pdfjs-find-highlight-checkbox = Tout surligner
 pdfjs-find-match-case-checkbox-label = Respecter la casse
+pdfjs-find-match-diacritics-checkbox-label = Respecter les accents et diacritiques
 pdfjs-find-reached-top = Haut de la page atteint, poursuite depuis la fin
 pdfjs-find-reached-bottom = Bas de la page atteint, poursuite au début
 
@@ -179,6 +206,10 @@ pdfjs-unexpected-response-error = Réponse inattendue du serveur.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date } à { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
