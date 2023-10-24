@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Element da structura actual
 pdfjs-findbar-button =
     .title = Tschertgar en il document
 pdfjs-findbar-button-label = Tschertgar
+pdfjs-additional-layers = Nivels supplementars
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
