@@ -7,6 +7,7 @@
 
 pdfjs-previous-button =
     .title = Jun kan ruxaq
+pdfjs-previous-button-label = Jun kan
 pdfjs-next-button =
     .title = Jun chik ruxaq
 pdfjs-next-button-label = Jun chik
@@ -32,10 +33,16 @@ pdfjs-zoom-select =
 pdfjs-presentation-mode-button =
     .title = Tijal ri rub'anikil niwachin
 pdfjs-presentation-mode-button-label = Pa rub'eyal niwachin
+pdfjs-open-file-button =
+    .title = Tijaq Yakb'äl
 pdfjs-open-file-button-label = Tijaq
 pdfjs-print-button =
     .title = Titz'ajb'äx
 pdfjs-print-button-label = Titz'ajb'äx
+pdfjs-save-button =
+    .title = Tiyak
+pdfjs-save-button-label = Tiyak
+pdfjs-bookmark-button-label = Ruxaq k'o wakami
 
 ##  Secondary toolbar and context menu
 
@@ -60,6 +67,9 @@ pdfjs-cursor-text-select-tool-button-label = Rusamajib'al Rucha'ik Rucholajem Tz
 pdfjs-cursor-hand-tool-button =
     .title = Titzij ri q'ab'aj samajib'äl
 pdfjs-cursor-hand-tool-button-label = Q'ab'aj Samajib'äl
+pdfjs-scroll-page-button =
+    .title = Tokisäx Ruxaq Q'axanem
+pdfjs-scroll-page-button-label = Ruxaq Q'axanem
 pdfjs-scroll-vertical-button =
     .title = Tokisäx Pa'äl Q'axanem
 pdfjs-scroll-vertical-button-label = Pa'äl Q'axanem
@@ -116,6 +126,7 @@ pdfjs-document-properties-page-size-orientation-landscape = rukotz'olem
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-letter = Loman wuj
+pdfjs-document-properties-page-size-name-legal = Taqanel tzijol
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -150,14 +161,24 @@ pdfjs-printing-not-ready = Rutzijol k'ayewal: Ri PDF man xusamajij ta ronojel ri
 
 pdfjs-toggle-sidebar-button =
     .title = Tijal ri ajxikin kajtz'ik
+pdfjs-toggle-sidebar-notification-button =
+    .title = Tik'ex ri ajxikin yuqkajtz'ik (ri wuj eruk'wan taq ruchi'/taqo/kuchuj)
 pdfjs-toggle-sidebar-button-label = Tijal ri ajxikin kajtz'ik
 pdfjs-document-outline-button =
     .title = Tik'ut pe ruch'akulal wuj (kamul-pitz'oj richin nirik'/nich'utinirisäx ronojel ruch'akulal)
 pdfjs-document-outline-button-label = Ruch'akulal wuj
+pdfjs-attachments-button =
+    .title = Kek'ut pe ri taq taqoj
 pdfjs-attachments-button-label = Taq taqoj
+pdfjs-layers-button =
+    .title = Kek'ut taq Kuchuj (ka'i'-pitz' richin yetzolïx ronojel ri taq kuchuj e k'o wi)
+pdfjs-layers-button-label = Taq kuchuj
 pdfjs-thumbs-button =
     .title = Kek'ut pe taq ch'utiq
 pdfjs-thumbs-button-label = Koköj
+pdfjs-current-outline-item-button =
+    .title = Kekanöx  Taq Ch'akulal Kik'wan Chib'äl
+pdfjs-current-outline-item-button-label = Taq Ch'akulal Kik'wan Chib'äl
 pdfjs-findbar-button =
     .title = Tikanöx chupam ri wuj
 pdfjs-findbar-button-label = Tikanöx
@@ -186,6 +207,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Jun chik
 pdfjs-find-highlight-checkbox = Tiya' retal ronojel
 pdfjs-find-match-case-checkbox-label = Tuk'äm ri' kik'in taq nimatz'ib' chuqa' taq ch'utitz'ib'
+pdfjs-find-match-diacritics-checkbox-label = Tiya' Kikojol Tz'aqat taq Tz'ib'
+pdfjs-find-entire-word-checkbox-label = Tz'aqät taq tzij
 pdfjs-find-reached-top = Xb'eq'i' ri rutikirib'al wuj, xtikanöx k'a pa ruk'isib'äl
 pdfjs-find-reached-bottom = Xb'eq'i' ri ruk'isib'äl wuj, xtikanöx pa rutikirib'al
 pdfjs-find-not-found = Man xilitäj ta ri pajtzij
@@ -195,12 +218,17 @@ pdfjs-find-not-found = Man xilitäj ta ri pajtzij
 pdfjs-page-scale-width = Ruwa ruxaq
 pdfjs-page-scale-fit = Tinuk' ruxaq
 pdfjs-page-scale-auto = Yonil chi nimilem
+pdfjs-page-scale-actual = Runimilem Wakami
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Ruxaq { $page }
 
 ## Loading indicator messages
 
@@ -208,9 +236,14 @@ pdfjs-loading-error = Xk'ulwachitäj jun sach'oj toq xnuk'ux ri PDF .
 pdfjs-invalid-file-error = Man oke ta o yujtajinäq ri PDF yakb'äl.
 pdfjs-missing-file-error = Man xilitäj ta ri PDF yakb'äl.
 pdfjs-unexpected-response-error = Man oyob'en ta tz'olin rutzij ruk'u'x samaj.
+pdfjs-rendering-error = Xk'ulwachitäj jun sachoj toq ninuk'wachij ri ruxaq.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -229,6 +262,25 @@ pdfjs-web-fonts-disabled = E chupül ri taq ajk'amaya'l tz'ib': man tikirel ta n
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Rucholajem tz'ib'
+pdfjs-editor-free-text-button-label = Rucholajem tz'ib'
+pdfjs-editor-ink-button =
+    .title = Tiwachib'ëx
+pdfjs-editor-ink-button-label = Tiwachib'ëx
+# Editor Parameters
+pdfjs-editor-free-text-color-input = B'onil
+pdfjs-editor-free-text-size-input = Nimilem
+pdfjs-editor-ink-color-input = B'onil
+pdfjs-editor-ink-thickness-input = Rupimil
+pdfjs-editor-ink-opacity-input = Q'equmal
+pdfjs-free-text =
+    .aria-label = Nuk'unel tz'ib'atzij
+pdfjs-free-text-default-content = Titikitisäx rutz'ib'axik…
+pdfjs-ink =
+    .aria-label = Nuk'unel wachib'äl
+pdfjs-ink-canvas =
+    .aria-label = Wachib'äl nuk'un ruma okisaxel
 
 ## Alt-text dialog
 
