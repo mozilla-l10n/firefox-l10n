@@ -34,6 +34,7 @@ pdfjs-print-button-label = Chapisha
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = Kichwa:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -55,6 +56,7 @@ pdfjs-printing-not-supported = Onyo: Uchapishaji hauauniwi kabisa kwa kivinjari 
 pdfjs-toggle-sidebar-button =
     .title = Kibiano cha Upau wa Kando
 pdfjs-toggle-sidebar-button-label = Kibiano cha Upau wa Kando
+pdfjs-document-outline-button-label = Ufupisho wa Waraka
 pdfjs-thumbs-button =
     .title = Onyesha Kijipicha
 pdfjs-thumbs-button-label = Vijipicha
