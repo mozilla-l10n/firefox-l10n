@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = אנו משתמשים בטכנולוגיי�
 shopping-analysis-explainer-grades-intro = אנו מקצים לסקירות של כל מוצר <strong>ציון אות</strong> מ־A עד F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>הדירוג המותאם</strong> מבוסס רק על סקירות שאנו מאמינים שהן אמינות.
 shopping-analysis-explainer-learn-more = מידע נוסף על <a data-l10n-name="review-quality-url">כיצד { -fakespot-brand-full-name } קובע את איכות הסקירות</a>.
+shopping-analysis-explainer-learn-more2 = מידע נוסף על <a data-l10n-name="review-quality-url">כיצד { -fakespot-brand-name } קובע את איכות הסקירות</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = אין עדיין מידע על סקירות אלה
@@ -199,6 +208,7 @@ shopping-onboarding-dynamic-subtitle = ניתן לבדוק עד כמה ביקו�
 shopping-onboarding-dynamic-subtitle-1 = ניתן לבדוק עד כמה ביקורות מוצר אמינות ב־<b>{ $currentSite }</b> לפני הקנייה. בודק הסקירות, תכונה ניסיונית מאת { -brand-product-name }, מובנה ישירות בדפדפן. הוא עובד גם על <b>{ $secondSite }</b> ו־<b>{ $thirdSite }</b>.
 shopping-onboarding-body = באמצעות הכוח של { -fakespot-brand-full-name }, אנו עוזרים לך להימנע מסקירות מוטות ולא אותנטיות. מודל הבינה המלאכותית שלנו משתפר תמיד כדי להגן עליך בזמן הקנייה. <a data-l10n-name="learn_more">מידע נוסף</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = בחירה באפשרות ״{ shopping-onboarding-opt-in-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = בחירה באפשרות ״{ shopping-onboarding-opt-in-button }״ מהווה הסכמה ל<a data-l10n-name="privacy_policy">הצהרת הפרטיות</a> ול<a data-l10n-name="terms_of_use">תנאי השימוש</a> של { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = כן, ארצה לנסות
 shopping-onboarding-not-now-button = לא כעת
 shopping-onboarding-dialog-close-button =
