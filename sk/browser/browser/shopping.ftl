@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = Na kontrolu spoľahlivosti recenzií produk
 shopping-analysis-explainer-grades-intro = Každej recenzii produktu prideľujeme <strong>známku</strong> od A po F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnotenie</strong> je založené iba na recenziách, ktoré považujeme za spoľahlivé.
 shopping-analysis-explainer-learn-more = Ďalšie informácie o tom, <a data-l10n-name="review-quality-url">ako { -fakespot-brand-full-name } určuje kvalitu recenzie</a>.
+shopping-analysis-explainer-learn-more2 = Pozrite si ďalšie informácie o tom, <a data-l10n-name="review-quality-url">ako { -fakespot-brand-name } určuje kvalitu recenzií</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Zatiaľ žiadne informácie o týchto recenziách
@@ -201,6 +210,7 @@ shopping-onboarding-dynamic-subtitle = Pred nákupom sa presvedčte, aké spoľa
 shopping-onboarding-dynamic-subtitle-1 = Pred nákupom sa presvedčte, aké spoľahlivé sú recenzie produktov na stránkach <b>{ $currentSite }</b>. Kontrola recenzií, experimentálna funkcia od { -brand-product-name(case: "gen") }, je zabudovaná priamo do prehliadača. Funguje aj na stránkach <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Využitím sily { -fakespot-brand-full-name } vám pomôžeme vyhnúť sa neobjektívnym a neautentickým recenziám. Náš model AI sa neustále zlepšuje, aby vás chránil pri nakupovaní. <a data-l10n-name="learn_more">Ďalšie informácie</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a <a data-l10n-name="terms_of_use">Podmienkami používania</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Kliknutím na tlačidlo “{ shopping-onboarding-opt-in-button }“ súhlasíte so <a data-l10n-name="privacy_policy">Zásadami ochrany osobných údajov</a> a <a data-l10n-name="terms_of_use">Podmienkami používania</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Áno, vyskúšať
 shopping-onboarding-not-now-button = Teraz nie
 shopping-onboarding-dialog-close-button =

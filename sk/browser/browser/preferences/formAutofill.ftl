@@ -15,16 +15,38 @@ autofill-manage-remove-button = Odstrániť
 autofill-manage-add-button = Pridať…
 autofill-manage-edit-button = Upraviť…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Chcete uložiť adresu?
+address-capture-save-doorhanger-description = Uložte si informácie do { -brand-short-name(case: "gen") }, aby ste mohli rýchlo vypĺňať formuláre.
+address-capture-update-doorhanger-header = Aktualizovať adresu?
+address-capture-edit-doorhanger-header = Upraviť adresu
+address-capture-save-button =
+    .label = Uložiť
+    .accessKey = U
+address-capture-not-now-button =
+    .label = Teraz nie
+    .accessKey = T
+address-capture-cancel-button =
+    .label = Zrušiť
+    .accessKey = Z
+address-capture-update-button =
+    .label = Aktualizovať
+    .accessKey = A
+address-capture-manage-address-button =
+    .label = Nastavenia adresy
+address-capture-learn-more-button =
+    .label = Ďalšie informácie
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Pridanie novej adresy
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Úprava adresy
+autofill-address-name = Meno
 autofill-address-given-name = Krstné meno
 autofill-address-additional-name = Stredné meno
 autofill-address-family-name = Priezvisko
 autofill-address-organization = Organizácia
+autofill-address-street-address = Ulica
 autofill-address-street = Ulica
 
 ## address-level-3 (Sublocality) names
@@ -78,7 +100,11 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Krajina alebo oblasť
+autofill-address-country-only = Krajina
 autofill-address-tel = Telefón
 autofill-address-email = E‑mailová adresa
 autofill-cancel-button = Zrušiť
