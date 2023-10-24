@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Aurrekoa
 pdfjs-next-button =
     .title = Hurrengo orria
 pdfjs-next-button-label = Hurrengoa
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Orria
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = / { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = { $pagesCount }/{ $pageNumber }
 pdfjs-zoom-out-button =
     .title = Urrundu zooma
 pdfjs-zoom-out-button-label = Urrundu zooma
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Biratu erlojuaren norantzan
 pdfjs-page-rotate-ccw-button =
     .title = Biratu erlojuaren aurkako norantzan
 pdfjs-page-rotate-ccw-button-label = Biratu erlojuaren aurkako norantzan
+pdfjs-cursor-text-select-tool-button =
+    .title = Gaitu testuaren hautapen tresna
+pdfjs-cursor-text-select-tool-button-label = Testuaren hautapen tresna
+pdfjs-cursor-hand-tool-button =
+    .title = Gaitu eskuaren tresna
+pdfjs-cursor-hand-tool-button-label = Eskuaren tresna
 
 ## Document properties dialog
 
@@ -91,6 +108,11 @@ pdfjs-document-properties-close-button = Itxi
 
 ## Print
 
+pdfjs-print-progress-message = Dokumentua inprimatzeko prestatzen…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = %{ $progress }
+pdfjs-print-progress-close-button = Utzi
 pdfjs-printing-not-supported = Abisua: inprimatzeko euskarria ez da erabatekoa nabigatzaile honetan.
 pdfjs-printing-not-ready = Abisua: PDFa ez dago erabat kargatuta inprimatzeko.
 
@@ -99,6 +121,9 @@ pdfjs-printing-not-ready = Abisua: PDFa ez dago erabat kargatuta inprimatzeko.
 pdfjs-toggle-sidebar-button =
     .title = Txandakatu alboko barra
 pdfjs-toggle-sidebar-button-label = Txandakatu alboko barra
+pdfjs-document-outline-button =
+    .title = Erakutsi dokumentuaren eskema (klik bikoitza elementu guztiak zabaltzeko/tolesteko)
+pdfjs-document-outline-button-label = Dokumentuaren eskema
 pdfjs-attachments-button =
     .title = Erakutsi eranskinak
 pdfjs-attachments-button-label = Eranskinak
@@ -107,6 +132,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Koadro txikiak
 pdfjs-findbar-button =
     .title = Bilatu dokumentuan
+pdfjs-findbar-button-label = Bilatu
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -121,6 +147,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Bilatu
+    .placeholder = Bilatu dokumentuan…
 pdfjs-find-previous-button =
     .title = Bilatu esaldiaren aurreko parekatzea
 pdfjs-find-previous-button-label = Aurrekoa
@@ -139,6 +168,9 @@ pdfjs-page-scale-width = Orriaren zabalera
 pdfjs-page-scale-fit = Doitu orrira
 pdfjs-page-scale-auto = Zoom automatikoa
 pdfjs-page-scale-actual = Benetako tamaina
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = %{ $scale }
 
 ## PDF page
 
@@ -165,6 +197,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Idatzi PDF fitxategi hau irekitzeko pasahitza.
 pdfjs-password-invalid = Pasahitz baliogabea. Saiatu berriro mesedez.
 pdfjs-password-ok-button = Ados
+pdfjs-password-cancel-button = Utzi
 pdfjs-web-fonts-disabled = Webeko letra-tipoak desgaituta daude: ezin dira kapsulatutako PDF letra-tipoak erabili.
 
 ## Editing
