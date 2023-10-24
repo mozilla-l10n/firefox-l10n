@@ -11,6 +11,9 @@ pdfjs-previous-button-label = 이전
 pdfjs-next-button =
     .title = 다음 페이지
 pdfjs-next-button-label = 다음
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = 페이지
 pdfjs-zoom-out-button =
     .title = 축소
 pdfjs-zoom-out-button-label = 축소
@@ -41,6 +44,12 @@ pdfjs-page-rotate-cw-button-label = 시계방향으로 회전
 pdfjs-page-rotate-ccw-button =
     .title = 시계 반대방향으로 회전
 pdfjs-page-rotate-ccw-button-label = 시계 반대방향으로 회전
+pdfjs-scroll-vertical-button =
+    .title = 세로 스크롤 사용
+pdfjs-scroll-vertical-button-label = 세로 스크롤
+pdfjs-scroll-horizontal-button =
+    .title = 가로 스크롤 사용
+pdfjs-scroll-horizontal-button-label = 가로 스크롤
 
 ## Document properties dialog
 
@@ -64,6 +73,13 @@ pdfjs-document-properties-keywords = 키워드:
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-version = PDF 버전:
+pdfjs-document-properties-page-size = 페이지 크기:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = 레터
+pdfjs-document-properties-page-size-name-legal = 리걸
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -72,18 +88,29 @@ pdfjs-document-properties-version = PDF 버전:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = 빠른 웹 보기:
+pdfjs-document-properties-linearized-yes = 예
 pdfjs-document-properties-close-button = 닫기
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = 취소
 pdfjs-printing-not-supported = 경고: 이 브라우저는 인쇄를 완전히 지원하지 않습니다.
 pdfjs-printing-not-ready = 경고: 이 PDF를 인쇄를 할 수 있을 정도로 읽어들이지 못했습니다.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-document-outline-button-label = 문서 아웃라인
 pdfjs-attachments-button =
     .title = 첨부파일 보기
 pdfjs-attachments-button-label = 첨부파일
@@ -106,6 +133,7 @@ pdfjs-find-next-button =
     .title = 지정 문자열에 일치하는 다음 부분을 검색
 pdfjs-find-next-button-label = 다음
 pdfjs-find-highlight-checkbox = 모두 강조 표시
+pdfjs-find-match-case-checkbox-label = 대/소문자 구분
 pdfjs-find-reached-top = 문서 처음까지 검색하고 끝으로 돌아와 검색했습니다.
 pdfjs-find-reached-bottom = 문서 끝까지 검색하고 앞으로 돌아와 검색했습니다.
 pdfjs-find-not-found = 검색 결과 없음
