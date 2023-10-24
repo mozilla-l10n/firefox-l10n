@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Fosgail
 pdfjs-print-button =
     .title = Clò-bhuail
 pdfjs-print-button-label = Clò-bhuail
+pdfjs-save-button =
+    .title = Sàbhail
+pdfjs-save-button-label = Sàbhail
+pdfjs-bookmark-button =
+    .title = An duilleag làithreach (Seall an URL on duilleag làithreach)
+pdfjs-bookmark-button-label = An duilleag làithreach
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Fosgail san aplacaid
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Fosgail san aplacaid
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,27 @@ pdfjs-cursor-text-select-tool-button-label = Inneal taghadh an teacsa
 pdfjs-cursor-hand-tool-button =
     .title = Cuir inneal na làimhe an comas
 pdfjs-cursor-hand-tool-button-label = Inneal na làimhe
+pdfjs-scroll-page-button =
+    .title = Cleachd sgroladh duilleige
+pdfjs-scroll-page-button-label = Sgroladh duilleige
+pdfjs-scroll-vertical-button =
+    .title = Cleachd sgroladh inghearach
+pdfjs-scroll-vertical-button-label = Sgroladh inghearach
+pdfjs-scroll-horizontal-button =
+    .title = Cleachd sgroladh còmhnard
+pdfjs-scroll-horizontal-button-label = Sgroladh còmhnard
+pdfjs-scroll-wrapped-button =
+    .title = Cleachd sgroladh paisgte
+pdfjs-scroll-wrapped-button-label = Sgroladh paisgte
+pdfjs-spread-none-button =
+    .title = Na cuir còmhla sgoileadh dhuilleagan
+pdfjs-spread-none-button-label = Gun sgaoileadh dhuilleagan
+pdfjs-spread-odd-button =
+    .title = Cuir còmhla duilleagan sgaoilte a thòisicheas le duilleagan aig a bheil àireamh chorr
+pdfjs-spread-odd-button-label = Sgaoileadh dhuilleagan corra
+pdfjs-spread-even-button =
+    .title = Cuir còmhla duilleagan sgaoilte a thòisicheas le duilleagan aig a bheil àireamh chothrom
+pdfjs-spread-even-button-label = Sgaoileadh dhuilleagan cothrom
 
 ## Document properties dialog
 
@@ -93,6 +126,15 @@ pdfjs-document-properties-creator = Cruthadair:
 pdfjs-document-properties-producer = Saothraiche a' PDF:
 pdfjs-document-properties-version = Tionndadh a' PDF:
 pdfjs-document-properties-page-count = Àireamh de dhuilleagan:
+pdfjs-document-properties-page-size = Meud na duilleige:
+pdfjs-document-properties-page-size-unit-inches = ann an
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portraid
+pdfjs-document-properties-page-size-orientation-landscape = dreach-tìre
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Litir
+pdfjs-document-properties-page-size-name-legal = Laghail
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,9 +143,16 @@ pdfjs-document-properties-page-count = Àireamh de dhuilleagan:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Grad shealladh-lìn:
+pdfjs-document-properties-linearized-yes = Tha
+pdfjs-document-properties-linearized-no = Chan eil
 pdfjs-document-properties-close-button = Dùin
 
 ## Print
@@ -158,6 +207,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Air adhart
 pdfjs-find-highlight-checkbox = Soillsich a h-uile
 pdfjs-find-match-case-checkbox-label = Aire do litrichean mòra is beaga
+pdfjs-find-match-diacritics-checkbox-label = Aire do stràcan
+pdfjs-find-entire-word-checkbox-label = Faclan-slàna
 pdfjs-find-reached-top = Ràinig sinn barr na duilleige, a' leantainn air adhart o bhonn na duilleige
 pdfjs-find-reached-bottom = Ràinig sinn bonn na duilleige, a' leantainn air adhart o bharr na duilleige
 pdfjs-find-not-found = Cha deach an abairt a lorg
@@ -181,6 +232,7 @@ pdfjs-loading-error = Thachair mearachd rè luchdadh a' PDF.
 pdfjs-invalid-file-error = Faidhle PDF a tha mì-dhligheach no coirbte.
 pdfjs-missing-file-error = Faidhle PDF a tha a dhìth.
 pdfjs-unexpected-response-error = Freagairt on fhrithealaiche ris nach robh dùil.
+pdfjs-rendering-error = Thachair mearachd rè reandaradh na duilleige.
 
 ## Annotations
 
@@ -201,6 +253,25 @@ pdfjs-web-fonts-disabled = Tha cruthan-clò lìn à comas: Chan urrainn dhuinn c
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Teacsa
+pdfjs-editor-free-text-button-label = Teacsa
+pdfjs-editor-ink-button =
+    .title = Tarraing
+pdfjs-editor-ink-button-label = Tarraing
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Dath
+pdfjs-editor-free-text-size-input = Meud
+pdfjs-editor-ink-color-input = Dath
+pdfjs-editor-ink-thickness-input = Tighead
+pdfjs-editor-ink-opacity-input = Trìd-dhoilleireachd
+pdfjs-free-text =
+    .aria-label = An deasaiche teacsa
+pdfjs-free-text-default-content = Tòisich air sgrìobhadh…
+pdfjs-ink =
+    .aria-label = An deasaiche tharraingean
+pdfjs-ink-canvas =
+    .aria-label = Dealbh a chruthaich cleachdaiche
 
 ## Alt-text dialog
 
