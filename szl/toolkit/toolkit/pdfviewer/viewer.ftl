@@ -172,6 +172,7 @@ pdfjs-thumbs-button-label = Miniatury
 pdfjs-findbar-button =
     .title = Znojdź w dokumyncie
 pdfjs-findbar-button-label = Znojdź
+pdfjs-additional-layers = Nadbytnie warstwy
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -221,6 +222,7 @@ pdfjs-loading-error = Przi ladowaniu PDFa pokozoł sie feler.
 pdfjs-invalid-file-error = Zły abo felerny zbiōr PDF.
 pdfjs-missing-file-error = Chybio zbioru PDF.
 pdfjs-unexpected-response-error = Niyôczekowano ôdpowiydź serwera.
+pdfjs-rendering-error = Przi renderowaniu strōny pokozoł sie feler.
 
 ## Annotations
 
