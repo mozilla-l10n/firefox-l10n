@@ -11,6 +11,9 @@ pdfjs-previous-button-label = आगोलनि
 pdfjs-next-button =
     .title = उननि बिलाइ
 pdfjs-next-button-label = उननि
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = बिलाइ
 pdfjs-zoom-out-button =
     .title = फिसायै जुम खालाम
 pdfjs-zoom-out-button-label = फिसायै जुम खालाम
@@ -76,6 +79,10 @@ pdfjs-document-properties-creator = सोरजिग्रा:
 pdfjs-document-properties-producer = PDF दिहुनग्रा:
 pdfjs-document-properties-version = PDF बिसान:
 pdfjs-document-properties-page-count = बिलाइनि हिसाब:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -84,13 +91,21 @@ pdfjs-document-properties-page-count = बिलाइनि हिसाब:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = नंगौ
+pdfjs-document-properties-linearized-no = नङा
 pdfjs-document-properties-close-button = बन्द खालाम
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = नेवसि
 pdfjs-printing-not-supported = सांग्रांथि: साफायनाया बे ब्राउजारजों आबुङै हेफाजाब होजाया।
 pdfjs-printing-not-ready = सांग्रांथि: PDF खौ साफायनायनि थाखाय फुरायै ल'ड खालामाखै।
 
@@ -108,6 +123,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = थामनेइल
 pdfjs-findbar-button =
     .title = फोरमान बिलाइआव नागिरना दिहुन
+pdfjs-findbar-button-label = नायगिरना दिहुन
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -122,6 +138,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = नायगिरना दिहुन
+    .placeholder = फोरमान बिलाइआव नागिरना दिहुन...
 pdfjs-find-previous-button =
     .title = बाथ्रा खोन्दोबनि सिगांनि नुजाथिनायखौ नागिर
 pdfjs-find-previous-button-label = आगोलनि
@@ -153,6 +172,10 @@ pdfjs-unexpected-response-error = मिजिंथियै सार्भा
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -166,6 +189,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = बे PDF फाइलखौ खेवनो पासवार्ड हाबहो।
 pdfjs-password-invalid = बाहायजायै पासवार्ड। अननानै फिन नाजा।
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = नेवसि
 pdfjs-web-fonts-disabled = वेब फन्टखौ लोरबां खालामबाय: अरजाबहोनाय PDF फन्टखौ बाहायनो हायाखै।
 
 ## Editing
