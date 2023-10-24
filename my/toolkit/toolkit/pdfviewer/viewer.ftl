@@ -46,9 +46,13 @@ pdfjs-print-button-label = ပုံနှိုပ်ပါ
 ## Print
 
 pdfjs-printing-not-supported = သတိပေးချက်၊ပရင့်ထုတ်ခြင်းကိုဤဘယောက်ဆာသည် ပြည့်ဝစွာထောက်ပံ့မထားပါ ။
+pdfjs-printing-not-ready = သတိပေးချက်: ယခု PDF ဖိုင်သည် ပုံနှိပ်ရန် မပြည့်စုံပါ
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = ဘေးတန်းဖွင့်ပိတ်
+pdfjs-toggle-sidebar-button-label = ဖွင့်ပိတ် ဆလိုက်ဒါ
 pdfjs-thumbs-button =
     .title = ပုံရိပ်ငယ်များကို ပြပါ
 pdfjs-thumbs-button-label = ပုံရိပ်ငယ်များ
@@ -95,6 +99,7 @@ pdfjs-page-scale-actual = အမှန်တကယ်ရှိတဲ့ အရ�
 
 pdfjs-loading-error = PDF ဖိုင် ကိုဆွဲတင်နေချိန်မှာ အမှားတစ်ခုတွေ့ရပါတယ်။
 pdfjs-invalid-file-error = မရသော သို့ ပျက်နေသော PDF ဖိုင်
+pdfjs-missing-file-error = PDF ပျောက်ဆုံး
 
 ## Annotations
 
