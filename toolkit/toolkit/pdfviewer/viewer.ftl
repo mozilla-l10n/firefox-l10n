@@ -59,6 +59,7 @@ pdfjs-page-rotate-ccw-button =
 pdfjs-page-rotate-ccw-button-label = Rotește în sens invers al acelor de ceas
 pdfjs-cursor-text-select-tool-button =
     .title = Activează instrumentul de selecție a textului
+pdfjs-cursor-text-select-tool-button-label = Instrumentul de selecție a textului
 pdfjs-cursor-hand-tool-button =
     .title = Activează instrumentul mână
 pdfjs-cursor-hand-tool-button-label = Unealta mână
