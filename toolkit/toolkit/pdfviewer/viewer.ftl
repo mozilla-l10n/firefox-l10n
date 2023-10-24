@@ -11,6 +11,19 @@ pdfjs-previous-button-label = Anterior
 pdfjs-next-button =
     .title = Próxima página
 pdfjs-next-button-label = Próxima
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Página
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+pdfjs-zoom-out-button =
+    .title = Reduzir
+pdfjs-zoom-out-button-label = Reduzir
+pdfjs-zoom-in-button =
+    .title = Ampliar
+pdfjs-zoom-in-button-label = Ampliar
 pdfjs-zoom-select =
     .title = Zoom
 pdfjs-presentation-mode-button-label = Modo de apresentação
@@ -38,6 +51,7 @@ pdfjs-page-rotate-cw-button-label = Girar no sentido horário
 pdfjs-page-rotate-ccw-button =
     .title = Girar no sentido anti-horário
 pdfjs-page-rotate-ccw-button-label = Girar no sentido anti-horário
+pdfjs-cursor-text-select-tool-button-label = Ferramenta de seleção de texto
 
 ## Document properties dialog
 
@@ -83,10 +97,17 @@ pdfjs-document-properties-close-button = Fechar
 
 ## Print
 
+pdfjs-printing-not-supported = Aviso: a impressão não é totalmente suportada neste navegador.
+pdfjs-printing-not-ready = Aviso: o PDF não está totalmente carregado para impressão.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-document-outline-button-label = Estrutura do documento
+pdfjs-attachments-button =
+    .title = Mostrar anexos
 pdfjs-attachments-button-label = Anexos
+pdfjs-thumbs-button =
+    .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -105,6 +126,8 @@ pdfjs-thumb-page-canvas =
 pdfjs-find-previous-button-label = Anterior
 pdfjs-find-next-button-label = Próxima
 pdfjs-find-match-case-checkbox-label = Diferenciar maiúsculas/minúsculas
+pdfjs-find-reached-top = Início do documento alcançado, continuando do fim
+pdfjs-find-reached-bottom = Fim do documento alcançado, continuando do início
 
 ## Predefined zoom values
 
