@@ -75,6 +75,24 @@ pdfjs-cursor-hand-tool-button-label = Herramienta de mano
 pdfjs-scroll-page-button =
     .title = Usar desplazamiento de página
 pdfjs-scroll-page-button-label = Desplazamiento de página
+pdfjs-scroll-vertical-button =
+    .title = Usar desplazamiento vertical
+pdfjs-scroll-vertical-button-label = Desplazamiento vertical
+pdfjs-scroll-horizontal-button =
+    .title = Usar desplazamiento horizontal
+pdfjs-scroll-horizontal-button-label = Desplazamiento horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Usar desplazamiento encapsulado
+pdfjs-scroll-wrapped-button-label = Desplazamiento encapsulado
+pdfjs-spread-none-button =
+    .title = No unir páginas separadas
+pdfjs-spread-none-button-label = Vista de una página
+pdfjs-spread-odd-button =
+    .title = Unir las páginas partiendo con una de número impar
+pdfjs-spread-odd-button-label = Vista de libro impar
+pdfjs-spread-even-button =
+    .title = Juntar las páginas partiendo con una de número par
+pdfjs-spread-even-button-label = Vista de libro par
 
 ## Document properties dialog
 
