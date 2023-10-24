@@ -28,6 +28,21 @@ pdfjs-open-file-button-label = খোলক
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = সঁজুলিসমূহ
+pdfjs-tools-button-label = সঁজুলিসমূহ
+pdfjs-first-page-button =
+    .title = প্ৰথম পৃষ্ঠাত যাওক
+pdfjs-first-page-button-label = প্ৰথম পৃষ্ঠাত যাওক
+pdfjs-last-page-button =
+    .title = সৰ্বশেষ পৃষ্ঠাত যাওক
+pdfjs-last-page-button-label = সৰ্বশেষ পৃষ্ঠাত যাওক
+pdfjs-page-rotate-cw-button =
+    .title = ঘড়ীৰ দিশত ঘুৰাওক
+pdfjs-page-rotate-cw-button-label = ঘড়ীৰ দিশত ঘুৰাওক
+pdfjs-page-rotate-ccw-button =
+    .title = ঘড়ীৰ ওলোটা দিশত ঘুৰাওক
+pdfjs-page-rotate-ccw-button-label = ঘড়ীৰ ওলোটা দিশত ঘুৰাওক
 
 ## Document properties dialog
 
@@ -48,6 +63,9 @@ pdfjs-open-file-button-label = খোলক
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = কাষবাৰ টগল কৰক
+pdfjs-toggle-sidebar-button-label = কাষবাৰ টগল কৰক
 pdfjs-thumbs-button =
     .title = থাম্বনেইলসমূহ দেখুৱাওক
 pdfjs-thumbs-button-label = থাম্বনেইলসমূহ
@@ -92,12 +110,21 @@ pdfjs-page-scale-actual = প্ৰকৃত আকাৰ
 ## Loading indicator messages
 
 pdfjs-invalid-file-error = অবৈধ অথবা ক্ষতিগ্ৰস্থ PDF file।
+pdfjs-missing-file-error = সন্ধানহিন PDF ফাইল।
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } টোকা]
 
 ## Password
 
+pdfjs-password-ok-button = ঠিক আছে
 
 ## Editing
 
