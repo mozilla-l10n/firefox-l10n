@@ -92,6 +92,14 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = 创建者:
 pdfjs-document-properties-version = PDF 版本:
 pdfjs-document-properties-page-count = 页数:
+pdfjs-document-properties-page-size = 页面大小：
+pdfjs-document-properties-page-size-unit-millimeters = 毫米
+pdfjs-document-properties-page-size-orientation-portrait = 纵向
+pdfjs-document-properties-page-size-orientation-landscape = 横向
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = 文本
+pdfjs-document-properties-page-size-name-legal = 法律
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -112,6 +120,7 @@ pdfjs-print-progress-message = 正在准备打印文档…
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = 取消
+pdfjs-printing-not-supported = 警告：此浏览器尚未完整支持打印功能。
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -153,6 +162,7 @@ pdfjs-find-highlight-checkbox = 全部高亮显示
 pdfjs-find-match-case-checkbox-label = 区分大小写
 pdfjs-find-reached-top = 到达文档开头，从末尾继续
 pdfjs-find-reached-bottom = 到达文档末尾，从开头继续
+pdfjs-find-not-found = 找不到指定词语
 
 ## Predefined zoom values
 
@@ -169,10 +179,19 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = 无效或损坏的 PDF 文件。
+pdfjs-missing-file-error = 缺少 PDF 文件。
 pdfjs-unexpected-response-error = 意外的服务器响应。
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } 注释]
 
 ## Password
 
@@ -180,6 +199,7 @@ pdfjs-password-label = 输入密码以打开此 PDF 文件。
 pdfjs-password-invalid = 密码无效。请重试。
 pdfjs-password-ok-button = 确定
 pdfjs-password-cancel-button = 取消
+pdfjs-web-fonts-disabled = Web 字体已被禁用：无法使用嵌入的 PDF 字体。
 
 ## Editing
 
