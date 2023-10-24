@@ -24,9 +24,25 @@ pdfjs-presentation-mode-button =
 pdfjs-presentation-mode-button-label = Презентация режимі
 pdfjs-open-file-button =
     .title = Файлды ашу
+pdfjs-open-file-button-label = Ашу
+pdfjs-print-button =
+    .title = Баспаға шығару
+pdfjs-print-button-label = Баспаға шығару
 
 ##  Secondary toolbar and context menu
 
+pdfjs-first-page-button =
+    .title = Алғашқы параққа өту
+pdfjs-first-page-button-label = Алғашқы параққа өту
+pdfjs-last-page-button =
+    .title = Соңғы параққа өту
+pdfjs-last-page-button-label = Соңғы параққа өту
+pdfjs-page-rotate-cw-button =
+    .title = Сағат тілі бағытымен айналдыру
+pdfjs-page-rotate-cw-button-label = Сағат тілі бағытымен бұру
+pdfjs-page-rotate-ccw-button =
+    .title = Сағат тілі бағытына қарсы бұру
+pdfjs-page-rotate-ccw-button-label = Сағат тілі бағытына қарсы бұру
 
 ## Document properties dialog
 
@@ -112,6 +128,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Бұл PDF файлын ашу үшін парольді енгізіңіз.
+pdfjs-password-invalid = Пароль дұрыс емес. Қайталап көріңіз.
+pdfjs-password-ok-button = ОК
 pdfjs-web-fonts-disabled = Веб қаріптері сөндірілген: құрамына енгізілген PDF қаріптерін қолдану мүмкін емес.
 
 ## Editing
