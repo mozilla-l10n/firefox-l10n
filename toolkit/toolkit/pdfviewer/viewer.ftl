@@ -222,6 +222,7 @@ pdfjs-find-next-button-label = Nästa
 pdfjs-find-highlight-checkbox = Markera alla
 pdfjs-find-match-case-checkbox-label = Matcha versal/gemen
 pdfjs-find-match-diacritics-checkbox-label = Matcha diakritiska tecken
+pdfjs-find-entire-word-checkbox-label = Hela ord
 pdfjs-find-reached-top = Nådde början av dokumentet, började från slutet
 pdfjs-find-reached-bottom = Nådde slutet på dokumentet, började från början
 pdfjs-find-not-found = Frasen hittades inte
@@ -253,6 +254,10 @@ pdfjs-rendering-error = Ett fel uppstod vid visning av sidan.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date } { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
