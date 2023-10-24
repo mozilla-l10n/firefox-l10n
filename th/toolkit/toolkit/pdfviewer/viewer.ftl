@@ -10,9 +10,27 @@ pdfjs-previous-button =
 pdfjs-next-button =
     .title = หน้าถัดไป
 pdfjs-open-file-button-label = เปิด
+pdfjs-print-button =
+    .title = พิมพ์
+pdfjs-print-button-label = พิมพ์
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = เครื่องมือ
+pdfjs-tools-button-label = เครื่องมือ
+pdfjs-first-page-button =
+    .title = ไปยังหน้าแรก
+pdfjs-first-page-button-label = ไปยังหน้าแรก
+pdfjs-last-page-button =
+    .title = ไปยังหน้าสุดท้าย
+pdfjs-last-page-button-label = ไปยังหน้าสุดท้าย
+pdfjs-page-rotate-cw-button =
+    .title = หมุนตามเข็มนาฬิกา
+pdfjs-page-rotate-cw-button-label = หมุนตามเข็มนาฬิกา
+pdfjs-page-rotate-ccw-button =
+    .title = หมุนทวนเข็มนาฬิกา
+pdfjs-page-rotate-ccw-button-label = หมุนทวนเข็มนาฬิกา
 
 ## Document properties dialog
 
@@ -30,12 +48,14 @@ pdfjs-open-file-button-label = เปิด
 
 ## Print
 
+pdfjs-printing-not-ready = คำเตือน: PDF ไม่ได้รับการโหลดอย่างเต็มที่สำหรับการพิมพ์
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-thumbs-button =
     .title = แสดงภาพขนาดย่อ
 pdfjs-thumbs-button-label = ภาพขนาดย่อ
+pdfjs-findbar-button-label = ค้นหา
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -70,6 +90,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-invalid = รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง
+pdfjs-password-ok-button = ตกลง
+pdfjs-password-cancel-button = ยกเลิก
 
 ## Editing
 
