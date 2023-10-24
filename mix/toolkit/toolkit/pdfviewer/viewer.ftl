@@ -7,6 +7,7 @@
 
 pdfjs-open-file-button =
     .title = Kuna tutu
+pdfjs-open-file-button-label = Kuna
 
 ##  Secondary toolbar and context menu
 
