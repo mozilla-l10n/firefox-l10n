@@ -32,8 +32,10 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = ข้อมูลใหม่ที่ต้องตรวจสอบ
 shopping-message-bar-warning-stale-analysis-button = ตรวจสอบตอนนี้
 shopping-message-bar-generic-error-title2 = ไม่มีข้อมูลในขณะนี้
+shopping-message-bar-warning-product-not-available-title = สินค้าไม่พร้อมจำหน่าย
 shopping-message-bar-thanks-for-reporting-title = ขอบคุณสำหรับการรายงาน!
 shopping-message-bar-warning-product-not-available-reported-title2 = ข้อมูลจะมาเร็ว ๆ นี้
 
@@ -87,11 +89,33 @@ shopping-analysis-explainer-label =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
 ## Strings for the advertisement
 
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = พึงพอใจมาก
+shopping-survey-q1-radio-2-label = พึงพอใจ
+shopping-survey-q1-radio-3-label = เป็นกลาง
+shopping-survey-q1-radio-4-label = ไม่พอใจ
+shopping-survey-q1-radio-5-label = ไม่พอใจมาก
+shopping-survey-q2-radio-1-label = ใช่
+shopping-survey-q2-radio-2-label = ไม่
+shopping-survey-q2-radio-3-label = ฉันไม่ทราบ
+shopping-survey-next-button-label = ถัดไป
+shopping-survey-submit-button-label = ส่ง
+shopping-survey-terms-link = เงื่อนไขการใช้งาน
+shopping-survey-thanks-message = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
+shopping-survey-thanks =
+    .heading = ขอบคุณสำหรับข้อคิดเห็นของคุณ!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -100,3 +124,5 @@ shopping-analysis-explainer-label =
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = ใช่ลองดู
+shopping-onboarding-not-now-button = ไม่ใช่ตอนนี้

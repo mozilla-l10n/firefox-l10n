@@ -14,6 +14,10 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = บอกเว็บไซต์ไม่ให้ขายหรือแบ่งปันข้อมูลของฉัน
     .accesskey = บ
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = การตั้งค่า
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -945,6 +949,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = การลดแบนเนอร์คุกกี้
 cookie-banner-handling-description = { -brand-short-name } จะพยายามปฏิเสธคำขอคุกกี้บนไซต์ที่รองรับโดยอัตโนมัติ
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = เรียนรู้เพิ่มเติม
 forms-handle-cookie-banners =
     .label = ลดแบนเนอร์คุกกี้

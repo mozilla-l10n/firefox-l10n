@@ -7,6 +7,7 @@
 webauthn-pin-invalid-long-prompt = PIN ไม่ถูกต้อง คุณสามารถลองได้อีก { $retriesLeft } ครั้งก่อนที่คุณจะไม่สามารถเข้าถึงข้อมูลรับรองบนอุปกรณ์นี้ได้ถาวร
 webauthn-pin-invalid-short-prompt = PIN ไม่ถูกต้อง โปรดลองอีกครั้ง
 webauthn-pin-required-prompt = โปรดป้อน PIN สำหรับอุปกรณ์ของคุณ
+webauthn-select-sign-result-unknown-account = บัญชีที่ไม่รู้จัก
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt = การตรวจสอบยืนยันผู้ใช้ล้มเหลว คุณลองได้อีก { $retriesLeft } ครั้ง โปรดลองอีกครั้ง
