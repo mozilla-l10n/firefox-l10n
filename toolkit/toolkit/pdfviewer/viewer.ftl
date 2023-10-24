@@ -48,6 +48,8 @@ pdfjs-download-button =
 # Used in Firefox for Android as a label for the download button (“download” is a verb).
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = הורדה
+pdfjs-bookmark-button =
+    .title = עמוד נוכחי (הצגת כתובת האתר מהעמוד הנוכחי)
 pdfjs-bookmark-button-label = עמוד נוכחי
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
@@ -224,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = התאמה דיאקריטית
 pdfjs-find-entire-word-checkbox-label = מילים שלמות
 pdfjs-find-reached-top = הגיע לראש הדף, ממשיך מלמטה
 pdfjs-find-reached-bottom = הגיע לסוף הדף, ממשיך מלמעלה
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } מתוך { $total } תוצאות
+       *[other] { $current } מתוך { $total } תוצאות
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] יותר מתוצאה אחת
+       *[other] יותר מ־{ $limit } תוצאות
+    }
 pdfjs-find-not-found = הביטוי לא נמצא
 
 ## Predefined zoom values
