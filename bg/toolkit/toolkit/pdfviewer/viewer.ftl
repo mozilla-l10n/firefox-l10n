@@ -1,0 +1,163 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+## Main toolbar buttons (tooltips and alt text for images)
+
+pdfjs-previous-button =
+    .title = Предишна страница
+pdfjs-previous-button-label = Предишна
+pdfjs-next-button =
+    .title = Следваща страница
+pdfjs-next-button-label = Следваща
+pdfjs-zoom-select =
+    .title = Мащабиране
+pdfjs-presentation-mode-button =
+    .title = Превключване към режим на представяне
+pdfjs-presentation-mode-button-label = Режим на представяне
+pdfjs-open-file-button =
+    .title = Отваряне на файл
+pdfjs-open-file-button-label = Отваряне
+pdfjs-print-button =
+    .title = Отпечатване
+pdfjs-print-button-label = Отпечатване
+
+##  Secondary toolbar and context menu
+
+pdfjs-tools-button =
+    .title = Инструменти
+pdfjs-tools-button-label = Инструменти
+pdfjs-first-page-button =
+    .title = Към първата страница
+pdfjs-first-page-button-label = Към първата страница
+pdfjs-last-page-button =
+    .title = Към последната страница
+pdfjs-last-page-button-label = Към последната страница
+
+## Document properties dialog
+
+pdfjs-document-properties-button =
+    .title = Свойства на документа…
+pdfjs-document-properties-button-label = Свойства на документа…
+pdfjs-document-properties-file-name = Име на файл:
+pdfjs-document-properties-file-size = Големина на файл:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } КБ ({ $size_b } байта)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } МБ ({ $size_b } байта)
+pdfjs-document-properties-title = Заглавие:
+pdfjs-document-properties-author = Автор:
+pdfjs-document-properties-subject = Тема:
+pdfjs-document-properties-keywords = Ключови думи:
+pdfjs-document-properties-creation-date = Дата на създаване:
+pdfjs-document-properties-modification-date = Дата на промяна:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Създател:
+pdfjs-document-properties-producer = PDF произведен от:
+pdfjs-document-properties-page-count = Брой страници:
+
+## Variables:
+##   $width (Number) - the width of the (current) page
+##   $height (Number) - the height of the (current) page
+##   $unit (String) - the unit of measurement of the (current) page
+##   $name (String) - the name of the (current) page
+##   $orientation (String) - the orientation of the (current) page
+
+
+##
+
+pdfjs-document-properties-close-button = Затваряне
+
+## Print
+
+pdfjs-printing-not-ready = Внимание: Този PDF файл не е напълно зареден за печат.
+
+## Tooltips and alt text for side panel toolbar buttons
+
+pdfjs-toggle-sidebar-button =
+    .title = Превключване на страничната лента
+pdfjs-toggle-sidebar-button-label = Превключване на страничната лента
+pdfjs-attachments-button =
+    .title = Показване на притурките
+pdfjs-attachments-button-label = Притурки
+pdfjs-thumbs-button =
+    .title = Показване на миниатюрите
+pdfjs-thumbs-button-label = Миниатюри
+pdfjs-findbar-button =
+    .title = Намиране в документа
+pdfjs-findbar-button-label = Търсене
+
+## Thumbnails panel item (tooltip and alt text for images)
+
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = Страница { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Миниатюра на страница { $page }
+
+## Find panel button title and messages
+
+pdfjs-find-previous-button-label = Предишна
+pdfjs-find-next-button-label = Следваща
+pdfjs-find-reached-top = Достигнато е началото на документа, продължаване от края
+pdfjs-find-reached-bottom = Достигнат е краят на документа, продължаване от началото
+pdfjs-find-not-found = Фразата не е намерена
+
+## Predefined zoom values
+
+pdfjs-page-scale-width = Ширина на страницата
+pdfjs-page-scale-fit = Вместване в страницата
+pdfjs-page-scale-auto = Автоматично мащабиране
+pdfjs-page-scale-actual = Действителен размер
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
+
+## PDF page
+
+
+## Loading indicator messages
+
+pdfjs-loading-error = Получи се грешка при зареждане на PDF-а.
+pdfjs-invalid-file-error = Невалиден или повреден PDF файл.
+pdfjs-missing-file-error = Липсващ PDF файл.
+pdfjs-unexpected-response-error = Неочакван отговор от сървъра.
+
+## Annotations
+
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Анотация { $type }]
+
+## Password
+
+pdfjs-password-label = Въведете парола за отваряне на този PDF файл.
+pdfjs-password-invalid = Невалидна парола. Моля, опитайте отново.
+pdfjs-password-ok-button = Добре
+pdfjs-password-cancel-button = Отказ
+pdfjs-web-fonts-disabled = Уеб-шрифтовете са забранени: разрешаване на използването на вградените PDF шрифтове.
+
+## Editing
+
+
+## Alt-text dialog
+
+
+## Editor resizers
+## This is used in an aria label to help to understand the role of the resizer.
+
