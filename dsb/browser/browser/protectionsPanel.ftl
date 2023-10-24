@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Pólěpšony slědowański šćit
     .description = Za toś to sedło znjemóžnjony
     .aria-label = Šćit za { $host } zmóžniś
+protections-panel-etp-toggle-on =
+    .label = Pólěpšony slědowański šćit
+    .description = Za toś to sedło zmóžnjony
+    .aria-label = Pólěpšony slědowański šćit: za { $host } zmóžnjony
+protections-panel-etp-toggle-off =
+    .label = Pólěpšony slědowański šćit
+    .description = Za toś to sedło znjemóžnjony
+    .aria-label = Pólěpšony slědowański šćit: za { $host } znjemóžnjony
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Sedło njefunkcioněrujo?
 # The heading/title of the sub-panel view
