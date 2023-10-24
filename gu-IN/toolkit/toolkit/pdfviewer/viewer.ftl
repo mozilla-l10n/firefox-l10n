@@ -66,6 +66,11 @@ pdfjs-cursor-hand-tool-button-label = હેન્ડ ટૂલ
 pdfjs-scroll-vertical-button =
     .title = ઊભી સ્ક્રોલિંગનો ઉપયોગ કરો
 pdfjs-scroll-vertical-button-label = ઊભી સ્ક્રોલિંગ
+pdfjs-spread-none-button =
+    .title = પૃષ્ઠ સ્પ્રેડમાં જોડાવશો નહીં
+pdfjs-spread-none-button-label = કોઈ સ્પ્રેડ નથી
+pdfjs-spread-odd-button =
+    .title = એકી-ક્રમાંકિત પૃષ્ઠો સાથે પ્રારંભ થતાં પૃષ્ઠ સ્પ્રેડમાં જોડાઓ
 
 ## Document properties dialog
 
