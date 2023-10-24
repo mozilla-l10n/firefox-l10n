@@ -42,6 +42,12 @@ pdfjs-print-button-label = Inprimatu
 pdfjs-save-button =
     .title = Gorde
 pdfjs-save-button-label = Gorde
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Deskargatu
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Deskargatu
 pdfjs-bookmark-button =
     .title = Uneko orria (ikusi uneko orriaren URLa)
 pdfjs-bookmark-button-label = Uneko orria
