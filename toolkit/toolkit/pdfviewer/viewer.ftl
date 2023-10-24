@@ -235,6 +235,7 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = Introdu parola pentru a deschide acest fișier PDF.
 pdfjs-password-invalid = Parolă nevalidă. Te rugăm să încerci din nou.
+pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Renunță
 pdfjs-web-fonts-disabled = Fonturile web sunt dezactivate: nu se pot folosi fonturile PDF încorporate.
 
