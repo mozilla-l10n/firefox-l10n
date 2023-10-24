@@ -11,6 +11,17 @@ pdfjs-previous-button-label = পূর্ববর্তী
 pdfjs-next-button =
     .title = পরবর্তী পৃষ্ঠা
 pdfjs-next-button-label = পরবর্তী
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = পেজ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pagesCount } এর { $pageNumber })
 pdfjs-zoom-out-button =
     .title = ছোট মাপে প্রদর্শন
 pdfjs-zoom-out-button-label = ছোট মাপে প্রদর্শন
@@ -91,6 +102,11 @@ pdfjs-document-properties-close-button = বন্ধ করুন
 
 ## Print
 
+pdfjs-print-progress-message = ডকুমেন্ট প্রিন্টিং-র জন্য তৈরি করা হচ্ছে...
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = বাতিল
 pdfjs-printing-not-supported = সতর্কবার্তা: এই ব্রাউজার দ্বারা প্রিন্ট ব্যবস্থা সম্পূর্ণরূপে সমর্থিত নয়।
 pdfjs-printing-not-ready = সতর্কবাণী: পিডিএফ সম্পূর্ণরূপে মুদ্রণের জন্য লোড করা হয় না.
 
@@ -99,6 +115,9 @@ pdfjs-printing-not-ready = সতর্কবাণী: পিডিএফ স�
 pdfjs-toggle-sidebar-button =
     .title = সাইডবার টগল করুন
 pdfjs-toggle-sidebar-button-label = সাইডবার টগল করুন
+pdfjs-document-outline-button =
+    .title = ডকুমেন্ট আউটলাইন দেখান (দুবার ক্লিক করুন বাড়াতে//collapse সমস্ত আইটেম)
+pdfjs-document-outline-button-label = ডকুমেন্ট আউটলাইন
 pdfjs-attachments-button =
     .title = সংযুক্তিসমূহ দেখান
 pdfjs-attachments-button-label = সংযুক্ত বস্তু
