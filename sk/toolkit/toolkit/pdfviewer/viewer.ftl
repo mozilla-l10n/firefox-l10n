@@ -226,6 +226,25 @@ pdfjs-find-match-diacritics-checkbox-label = Rozlišovať diakritiku
 pdfjs-find-entire-word-checkbox-label = Celé slová
 pdfjs-find-reached-top = Bol dosiahnutý začiatok stránky, pokračuje sa od konca
 pdfjs-find-reached-bottom = Bol dosiahnutý koniec stránky, pokračuje sa od začiatku
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current }. z { $total } výskytu
+        [few] { $current }. z { $total } výskytov
+        [many] { $current }. z { $total } výskytov
+       *[other] { $current }. z { $total } výskytov
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Viac ako { $limit } výskyt
+        [few] Viac ako { $limit } výskyty
+        [many] Viac ako { $limit } výskytov
+       *[other] Viac ako { $limit } výskytov
+    }
 pdfjs-find-not-found = Výraz nebol nájdený
 
 ## Predefined zoom values
