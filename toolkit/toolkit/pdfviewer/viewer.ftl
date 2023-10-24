@@ -63,6 +63,9 @@ pdfjs-cursor-text-select-tool-button-label = Text Selection Tool
 pdfjs-cursor-hand-tool-button =
     .title = Enable Hand Tool
 pdfjs-cursor-hand-tool-button-label = Hand Tool
+pdfjs-scroll-page-button =
+    .title = Use Page Scrolling
+pdfjs-scroll-page-button-label = Page Scrolling
 pdfjs-scroll-vertical-button =
     .title = Use Vertical Scrolling
 pdfjs-scroll-vertical-button-label = Vertical Scrolling
@@ -214,6 +217,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Page { $page }
 
 ## Loading indicator messages
 
