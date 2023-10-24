@@ -1260,6 +1260,22 @@ preferences-doh-setting-enabled =
     .label = Shtim Mbrojtjeje
     .accesskey = M
 preferences-doh-enabled-desc = Ju keni kontroll kur të përdoret DNS dhe zgjidhet furnizuesi juaj
+preferences-doh-enabled-detailed-desc-1 = Përdorni furnizuesin që përzgjodhët
+preferences-doh-setting-strict =
+    .label = Mbrojtje Maksimale
+    .accesskey = M
+preferences-doh-strict-detailed-desc-1 = Përdorni vetëm furnizuesin që përzgjodhët
+preferences-doh-strict-detailed-desc-2 = Sinjalizo gjithmonë, nëse s’ka DNS të siguruar
+preferences-doh-strict-detailed-desc-3 = Nëse s’ka DNS të siguruar, sajtet s’do të ngarkohen apo funksionojnë si duhet
+preferences-doh-setting-off =
+    .label = Off
+    .accesskey = O
+preferences-doh-off-desc = Përdorni ftilluesin tuaj DNS parazgjedhje
+preferences-doh-select-resolver = Zgjidhni furnizues:
+preferences-doh-exceptions-description = { -brand-short-name }-i s’do të përdorë DNS të siguruar në këto sajte
+preferences-doh-manage-exceptions =
+    .label = Administroni Përjashtime…
+    .accesskey = A
 
 ## The following strings are used in the Download section of settings
 
