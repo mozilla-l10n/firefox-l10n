@@ -58,6 +58,11 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = खोजक पछिला उपस्थिति ताकू
+pdfjs-find-next-button =
+    .title = खोजक अगिला उपस्थिति ताकू
+pdfjs-find-not-found = वाकींश नहि भेटल
 
 ## Predefined zoom values
 
