@@ -11,6 +11,17 @@ pdfjs-previous-button-label = 上一页
 pdfjs-next-button =
     .title = 下一页
 pdfjs-next-button-label = 下一页
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = 页面
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = / { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = 缩小
 pdfjs-zoom-out-button-label = 缩小
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = 顺时针旋转
 pdfjs-page-rotate-ccw-button =
     .title = 逆时针旋转
 pdfjs-page-rotate-ccw-button-label = 逆时针旋转
+pdfjs-cursor-text-select-tool-button =
+    .title = 启用文本选择工具
+pdfjs-cursor-text-select-tool-button-label = 文本选择工具
+pdfjs-cursor-hand-tool-button =
+    .title = 启用手形工具
+pdfjs-cursor-hand-tool-button-label = 手形工具
 
 ## Document properties dialog
 
@@ -90,12 +107,20 @@ pdfjs-document-properties-close-button = 关闭
 
 ## Print
 
+pdfjs-print-progress-message = 正在准备打印文档…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = 取消
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
     .title = 切换侧栏
 pdfjs-toggle-sidebar-button-label = 切换侧栏
+pdfjs-document-outline-button =
+    .title = 显示文档大纲（双击展开/折叠所有项）
+pdfjs-document-outline-button-label = 文档大纲
 pdfjs-attachments-button =
     .title = 显示附件
 pdfjs-attachments-button-label = 附件
@@ -115,6 +140,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = 查找
+    .placeholder = 在文档中查找…
 pdfjs-find-previous-button =
     .title = 查找词语上一次出现的位置
 pdfjs-find-previous-button-label = 上一页
