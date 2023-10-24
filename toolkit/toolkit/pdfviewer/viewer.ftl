@@ -23,12 +23,34 @@ pdfjs-presentation-mode-button-label = प्रस्तुति अवस्�
 pdfjs-open-file-button =
     .title = फाइल खोलू
 pdfjs-open-file-button-label = खोलू
+pdfjs-print-button =
+    .title = छापू
+pdfjs-print-button-label = छापू
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = अओजार
+pdfjs-tools-button-label = अओजार
+pdfjs-first-page-button =
+    .title = प्रथम पृष्ठ पर जाउ
+pdfjs-first-page-button-label = प्रथम पृष्ठ पर जाउ
+pdfjs-last-page-button =
+    .title = अंतिम पृष्ठ पर जाउ
+pdfjs-last-page-button-label = अंतिम पृष्ठ पर जाउ
+pdfjs-page-rotate-cw-button =
+    .title = घड़ीक दिशा मे घुमाउ
+pdfjs-page-rotate-cw-button-label = घड़ीक दिशा मे घुमाउ
+pdfjs-page-rotate-ccw-button =
+    .title = घड़ीक दिशा सँ उनटा घुमाउ
+pdfjs-page-rotate-ccw-button-label = घड़ीक दिशा सँ उनटा घुमाउ
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = फाइल नाम:
+pdfjs-document-properties-title = शीर्षक:
+pdfjs-document-properties-subject = विषय
+pdfjs-document-properties-keywords = बीजशब्द
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -40,6 +62,7 @@ pdfjs-open-file-button-label = खोलू
 
 ##
 
+pdfjs-document-properties-close-button = बन्न करू
 
 ## Print
 
@@ -100,6 +123,13 @@ pdfjs-missing-file-error = अनुपस्थित PDF फाइल.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Annotation]
 
 ## Password
 
