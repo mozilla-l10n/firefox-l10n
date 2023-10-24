@@ -72,6 +72,7 @@ pdfjs-scroll-horizontal-button-label = क्षितिजिय स्क्�
 pdfjs-scroll-wrapped-button =
     .title = व्राप्पेड स्क्रॉलिंग का उपयोग करें
 pdfjs-spread-none-button-label = कोई स्प्रेड उपलब्ध नहीं
+pdfjs-spread-odd-button-label = विषम फैलाव
 
 ## Document properties dialog
 
@@ -104,10 +105,13 @@ pdfjs-document-properties-version = PDF संस्करण:
 pdfjs-document-properties-page-count = पृष्ठ गिनती:
 pdfjs-document-properties-page-size = पृष्ठ आकार:
 pdfjs-document-properties-page-size-unit-inches = इंच
+pdfjs-document-properties-page-size-unit-millimeters = मिमी
 pdfjs-document-properties-page-size-orientation-portrait = पोर्ट्रेट
 pdfjs-document-properties-page-size-orientation-landscape = लैंडस्केप
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = पत्र
+pdfjs-document-properties-page-size-name-legal = क़ानूनी
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -177,8 +181,10 @@ pdfjs-find-previous-button =
 pdfjs-find-previous-button-label = पिछला
 pdfjs-find-next-button =
     .title = वाक्यांश की अगली उपस्थिति ढूँढ़ें
+pdfjs-find-next-button-label = अगला
 pdfjs-find-highlight-checkbox = सभी आलोकित करें
 pdfjs-find-match-case-checkbox-label = मिलान स्थिति
+pdfjs-find-entire-word-checkbox-label = संपूर्ण शब्द
 pdfjs-find-reached-top = पृष्ठ के ऊपर पहुंच गया, नीचे से जारी रखें
 pdfjs-find-reached-bottom = पृष्ठ के नीचे में जा पहुँचा, ऊपर से जारी
 pdfjs-find-not-found = वाक्यांश नहीं मिला
