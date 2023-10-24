@@ -18,12 +18,33 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Yaxınlaş
 pdfjs-zoom-select =
     .title = Yaxınlaşdırma
+pdfjs-presentation-mode-button =
+    .title = Təqdimat Rejiminə Keç
+pdfjs-presentation-mode-button-label = Təqdimat Rejimi
+pdfjs-open-file-button =
+    .title = Fayl Aç
+pdfjs-open-file-button-label = Aç
 pdfjs-print-button =
     .title = Yazdır
 pdfjs-print-button-label = Yazdır
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Alətlər
+pdfjs-tools-button-label = Alətlər
+pdfjs-first-page-button =
+    .title = İlk Səhifəyə get
+pdfjs-first-page-button-label = İlk Səhifəyə get
+pdfjs-last-page-button =
+    .title = Son Səhifəyə get
+pdfjs-last-page-button-label = Son Səhifəyə get
+pdfjs-page-rotate-cw-button =
+    .title = Saat İstiqamətində Fırlat
+pdfjs-page-rotate-cw-button-label = Saat İstiqamətində Fırlat
+pdfjs-page-rotate-ccw-button =
+    .title = Saat İstiqamətinin Əksinə Fırlat
+pdfjs-page-rotate-ccw-button-label = Saat İstiqamətinin Əksinə Fırlat
 
 ## Document properties dialog
 
@@ -41,12 +62,18 @@ pdfjs-print-button-label = Yazdır
 
 ## Print
 
+pdfjs-printing-not-ready = Xəbərdarlıq: PDF çap üçün tam yüklənməyib.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Yan Paneli Aç/Bağla
+pdfjs-toggle-sidebar-button-label = Yan Paneli Aç/Bağla
 pdfjs-thumbs-button =
     .title = Kiçik şəkilləri göstər
 pdfjs-thumbs-button-label = Kiçik şəkillər
+pdfjs-findbar-button =
+    .title = Sənəddə Tap
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -67,6 +94,8 @@ pdfjs-find-next-button =
     .title = Bir sonrakı uyğun gələn sözü tapır
 pdfjs-find-highlight-checkbox = İşarələ
 pdfjs-find-match-case-checkbox-label = Böyük/kiçik hərfə həssaslıq
+pdfjs-find-reached-top = Sənədin yuxarısına çatdı, aşağıdan davam edir
+pdfjs-find-reached-bottom = Sənədin sonuna çatdı, yuxarıdan davam edir
 pdfjs-find-not-found = Uyğunlaşma tapılmadı
 
 ## Predefined zoom values
@@ -81,9 +110,18 @@ pdfjs-page-scale-auto = Avtomatik yaxınlaşdır
 ## Loading indicator messages
 
 pdfjs-loading-error = PDF yüklenərkən bir səhv yarandı.
+pdfjs-invalid-file-error = Səhv və ya zədələnmiş olmuş PDF fayl.
+pdfjs-missing-file-error = PDF fayl yoxdur.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Annotasiyası]
 
 ## Password
 
