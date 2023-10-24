@@ -172,6 +172,7 @@ pdfjs-thumbs-button-label = Miniaturas
 pdfjs-findbar-button =
     .title = Trobar en o documento
 pdfjs-findbar-button-label = Trobar
+pdfjs-additional-layers = Capas adicionals
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -221,6 +222,7 @@ pdfjs-loading-error = S'ha produciu una error en cargar o PDF.
 pdfjs-invalid-file-error = O PDF no ye valido u ye estorbau.
 pdfjs-missing-file-error = No i ha fichero PDF.
 pdfjs-unexpected-response-error = Respuesta a lo servicio inasperada.
+pdfjs-rendering-error = Ha ocurriu una error en renderizar a pachina.
 
 ## Annotations
 
