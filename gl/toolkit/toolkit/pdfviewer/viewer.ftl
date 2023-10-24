@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Abrir
 pdfjs-print-button =
     .title = Imprimir
 pdfjs-print-button-label = Imprimir
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Descargar
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Descargar
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Abrir cunha aplicación
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Abrir cunha aplicación
 
 ##  Secondary toolbar and context menu
 
@@ -216,6 +228,7 @@ pdfjs-loading-error = Produciuse un erro ao cargar o PDF.
 pdfjs-invalid-file-error = Ficheiro PDF danado ou non válido.
 pdfjs-missing-file-error = Falta o ficheiro PDF.
 pdfjs-unexpected-response-error = Resposta inesperada do servidor.
+pdfjs-rendering-error = Produciuse un erro ao representar a páxina.
 
 ## Annotations
 
@@ -241,6 +254,12 @@ pdfjs-web-fonts-disabled = Desactiváronse as fontes web:  foi imposíbel usar a
 
 ## Editing
 
+pdfjs-editor-stamp-button =
+    .title = Engadir ou editar imaxes
+pdfjs-editor-stamp-button-label = Engadir ou editar imaxes
+pdfjs-editor-stamp-add-image-button =
+    .title = Engadir imaxe
+pdfjs-editor-stamp-add-image-button-label = Engadir imaxe
 
 ## Alt-text dialog
 
