@@ -5,7 +5,11 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = পূর্ববর্তী পাতা
 pdfjs-previous-button-label = পূর্ববর্তী
+pdfjs-next-button =
+    .title = পরবর্তী পাতা
 pdfjs-next-button-label = পরবর্তী
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
@@ -53,6 +57,9 @@ pdfjs-page-rotate-cw-button-label = ঘড়ির কাঁটার দিকে
 pdfjs-page-rotate-ccw-button =
     .title = ঘড়ির কাঁটার বিপরীতে ঘোরাও
 pdfjs-page-rotate-ccw-button-label = ঘড়ির কাঁটার বিপরীতে ঘোরাও
+pdfjs-cursor-text-select-tool-button =
+    .title = লেখা নির্বাচক টুল সক্রিয় করুন
+pdfjs-cursor-text-select-tool-button-label = লেখা নির্বাচক টুল
 pdfjs-cursor-hand-tool-button =
     .title = হ্যান্ড টুল সক্রিয় করুন
 pdfjs-cursor-hand-tool-button-label = হ্যান্ড টুল
@@ -108,6 +115,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Fast Web View:
+pdfjs-document-properties-linearized-yes = হ্যাঁ
+pdfjs-document-properties-linearized-no = না
 pdfjs-document-properties-close-button = বন্ধ
 
 ## Print
@@ -140,6 +152,14 @@ pdfjs-findbar-button-label = খুঁজুন
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = পাতা { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = { $page } পাতার থাম্বনেইল
 
 ## Find panel button title and messages
 
@@ -153,10 +173,14 @@ pdfjs-find-next-button =
     .title = বাক্যাংশের পরবর্তী উপস্থিতি অনুসন্ধান
 pdfjs-find-next-button-label = পরবর্তী
 pdfjs-find-match-case-checkbox-label = অক্ষরের ছাঁদ মেলানো
+pdfjs-find-reached-top = পাতার শুরুতে পৌছে গেছে, নীচ থেকে আরম্ভ করা হয়েছে
+pdfjs-find-reached-bottom = পাতার শেষে পৌছে গেছে, উপর থেকে আরম্ভ করা হয়েছে
 pdfjs-find-not-found = বাক্যাংশ পাওয়া যায়নি
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = পাতার প্রস্থ
+pdfjs-page-scale-fit = পাতা ফিট করুন
 pdfjs-page-scale-auto = স্বয়ংক্রিয় জুম
 pdfjs-page-scale-actual = প্রকৃত আকার
 # Variables:
