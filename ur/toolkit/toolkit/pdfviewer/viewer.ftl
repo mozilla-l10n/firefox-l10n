@@ -106,6 +106,7 @@ pdfjs-document-properties-page-size-unit-inches = میں
 pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = عمودی انداز
 pdfjs-document-properties-page-size-orientation-landscape = افقى انداز
+pdfjs-document-properties-page-size-name-legal = قانونی
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
