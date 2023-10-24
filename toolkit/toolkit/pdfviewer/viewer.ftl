@@ -186,6 +186,7 @@ pdfjs-find-previous-button-label = Претходна
 pdfjs-find-next-button-label = Следећа
 pdfjs-find-highlight-checkbox = Истакнути све
 pdfjs-find-match-case-checkbox-label = Подударања
+pdfjs-find-entire-word-checkbox-label = Целе речи
 pdfjs-find-reached-top = Достигнут врх документа, наставио са дна
 pdfjs-find-reached-bottom = Достигнуто дно документа, наставио са врха
 pdfjs-find-not-found = Фраза није пронађена
