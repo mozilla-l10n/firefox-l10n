@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = 文本选择工具
 pdfjs-cursor-hand-tool-button =
     .title = 启用手形工具
 pdfjs-cursor-hand-tool-button-label = 手形工具
+pdfjs-scroll-vertical-button =
+    .title = 使用垂直滚动
+pdfjs-scroll-vertical-button-label = 垂直滚动
+pdfjs-scroll-horizontal-button =
+    .title = 使用水平滚动
+pdfjs-scroll-horizontal-button-label = 水平滚动
+pdfjs-scroll-wrapped-button =
+    .title = 使用平铺滚动
+pdfjs-scroll-wrapped-button-label = 平铺滚动
+pdfjs-spread-none-button =
+    .title = 不加入衔接页
+pdfjs-spread-none-button-label = 单页视图
+pdfjs-spread-odd-button =
+    .title = 加入衔接页使奇数页作为起始页
+pdfjs-spread-odd-button-label = 双页视图
+pdfjs-spread-even-button =
+    .title = 加入衔接页使偶数页作为起始页
+pdfjs-spread-even-button-label = 书籍视图
 
 ## Document properties dialog
 
