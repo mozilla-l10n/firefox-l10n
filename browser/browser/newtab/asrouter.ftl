@@ -248,6 +248,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Të hapet { -brand-short-name }-i sa herë që rinisni kompjuterin tuaj?</strong> Tanimë mund të ujdisni që { -brand-short-name }-i hapet automatikisht, kur rinisni pajisjen tuaj.
 launch-on-login-learnmore = Mësoni më tepër
 launch-on-login-infobar-confirm-button = Po, hap { -brand-short-name }-in
     .accesskey = o
@@ -257,5 +258,6 @@ launch-on-login-infobar-reject-button = Jo tani
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Të hapet { -brand-short-name }-i sa herë që rinisni kompjuterin tuaj?</strong> Që të administroni parapëlqimet tuaja për Nisjen e kompjuterit, kërkoni për “startup”, te rregullimet.
 launch-on-login-infobar-final-reject-button = Jo, faleminderit
     .accesskey = f
