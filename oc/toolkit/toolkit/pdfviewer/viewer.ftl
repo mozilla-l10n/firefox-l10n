@@ -109,6 +109,7 @@ pdfjs-document-properties-button =
     .title = Proprietats del document…
 pdfjs-document-properties-button-label = Proprietats del document…
 pdfjs-document-properties-file-name = Nom del fichièr :
+pdfjs-document-properties-file-size = Talha del fichièr :
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -118,11 +119,19 @@ pdfjs-document-properties-kb = { $size_kb } Ko ({ $size_b } octets)
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } Mo ({ $size_b } octets)
 pdfjs-document-properties-title = Títol :
+pdfjs-document-properties-author = Autor :
+pdfjs-document-properties-subject = Subjècte :
 pdfjs-document-properties-keywords = Mots claus :
+pdfjs-document-properties-creation-date = Data de creacion :
+pdfjs-document-properties-modification-date = Data de modificacion :
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, a { $time }
+pdfjs-document-properties-creator = Creator :
+pdfjs-document-properties-producer = Aisina de conversion PDF :
+pdfjs-document-properties-version = Version PDF :
+pdfjs-document-properties-page-count = Nombre de paginas :
 pdfjs-document-properties-page-size = Talha de la pagina :
 pdfjs-document-properties-page-size-unit-inches = in
 pdfjs-document-properties-page-size-unit-millimeters = mm
