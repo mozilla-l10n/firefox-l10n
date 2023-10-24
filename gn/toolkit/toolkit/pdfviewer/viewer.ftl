@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Mba’eporu ag̃aguaitéva
 pdfjs-findbar-button =
     .title = Kuatiápe jeheka
 pdfjs-findbar-button-label = Juhu
+pdfjs-additional-layers = Ñuãha moirũguáva
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
