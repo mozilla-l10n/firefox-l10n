@@ -39,6 +39,15 @@ pdfjs-open-file-button-label = Открыть
 pdfjs-print-button =
     .title = Печать
 pdfjs-print-button-label = Печать
+pdfjs-save-button =
+    .title = Сохранить
+pdfjs-save-button-label = Сохранить
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Открыть в приложении
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Открыть в программе
 
 ##  Secondary toolbar and context menu
 
@@ -57,6 +66,33 @@ pdfjs-page-rotate-cw-button-label = Повернуть по часовой ст�
 pdfjs-page-rotate-ccw-button =
     .title = Повернуть против часовой стрелки
 pdfjs-page-rotate-ccw-button-label = Повернуть против часовой стрелки
+pdfjs-cursor-text-select-tool-button =
+    .title = Включить Инструмент «Выделение текста»
+pdfjs-cursor-text-select-tool-button-label = Инструмент «Выделение текста»
+pdfjs-cursor-hand-tool-button =
+    .title = Включить Инструмент «Рука»
+pdfjs-cursor-hand-tool-button-label = Инструмент «Рука»
+pdfjs-scroll-page-button =
+    .title = Использовать прокрутку страниц
+pdfjs-scroll-page-button-label = Прокрутка страниц
+pdfjs-scroll-vertical-button =
+    .title = Использовать вертикальную прокрутку
+pdfjs-scroll-vertical-button-label = Вертикальная прокрутка
+pdfjs-scroll-horizontal-button =
+    .title = Использовать горизонтальную прокрутку
+pdfjs-scroll-horizontal-button-label = Горизонтальная прокрутка
+pdfjs-scroll-wrapped-button =
+    .title = Использовать масштабируемую прокрутку
+pdfjs-scroll-wrapped-button-label = Масштабируемая прокрутка
+pdfjs-spread-none-button =
+    .title = Не использовать режим разворотов страниц
+pdfjs-spread-none-button-label = Без разворотов страниц
+pdfjs-spread-odd-button =
+    .title = Развороты начинаются с нечётных номеров страниц
+pdfjs-spread-odd-button-label = Нечётные страницы слева
+pdfjs-spread-even-button =
+    .title = Развороты начинаются с чётных номеров страниц
+pdfjs-spread-even-button-label = Чётные страницы слева
 
 ## Document properties dialog
 
@@ -87,6 +123,15 @@ pdfjs-document-properties-creator = Приложение:
 pdfjs-document-properties-producer = Производитель PDF:
 pdfjs-document-properties-version = Версия PDF:
 pdfjs-document-properties-page-count = Число страниц:
+pdfjs-document-properties-page-size = Размер страницы:
+pdfjs-document-properties-page-size-unit-inches = дюймов
+pdfjs-document-properties-page-size-unit-millimeters = мм
+pdfjs-document-properties-page-size-orientation-portrait = книжная
+pdfjs-document-properties-page-size-orientation-landscape = альбомная
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +140,16 @@ pdfjs-document-properties-page-count = Число страниц:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Быстрый просмотр в Web:
+pdfjs-document-properties-linearized-yes = Да
+pdfjs-document-properties-linearized-no = Нет
 pdfjs-document-properties-close-button = Закрыть
 
 ## Print
@@ -124,6 +176,9 @@ pdfjs-attachments-button-label = Вложения
 pdfjs-thumbs-button =
     .title = Показать миниатюры
 pdfjs-thumbs-button-label = Миниатюры
+pdfjs-current-outline-item-button =
+    .title = Найти текущий элемент структуры
+pdfjs-current-outline-item-button-label = Текущий элемент структуры
 pdfjs-findbar-button =
     .title = Найти в документе
 pdfjs-findbar-button-label = Найти
@@ -152,6 +207,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Далее
 pdfjs-find-highlight-checkbox = Подсветить все
 pdfjs-find-match-case-checkbox-label = С учётом регистра
+pdfjs-find-entire-word-checkbox-label = Слова целиком
 pdfjs-find-reached-top = Достигнут верх документа, продолжено снизу
 pdfjs-find-reached-bottom = Достигнут конец документа, продолжено сверху
 pdfjs-find-not-found = Фраза не найдена
@@ -175,6 +231,7 @@ pdfjs-loading-error = При загрузке PDF произошла ошибк�
 pdfjs-invalid-file-error = Некорректный или повреждённый PDF-файл.
 pdfjs-missing-file-error = PDF-файл отсутствует.
 pdfjs-unexpected-response-error = Неожиданный ответ сервера.
+pdfjs-rendering-error = При создании страницы произошла ошибка.
 
 ## Annotations
 
@@ -195,6 +252,31 @@ pdfjs-password-cancel-button = Отмена
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Текст
+pdfjs-editor-free-text-button-label = Текст
+pdfjs-editor-ink-button =
+    .title = Рисовать
+pdfjs-editor-ink-button-label = Рисовать
+pdfjs-editor-stamp-button =
+    .title = Добавить или изменить изображения
+pdfjs-editor-stamp-button-label = Добавить или изменить изображения
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Цвет
+pdfjs-editor-free-text-size-input = Размер
+pdfjs-editor-ink-color-input = Цвет
+pdfjs-editor-ink-thickness-input = Толщина
+pdfjs-editor-ink-opacity-input = Прозрачность
+pdfjs-editor-stamp-add-image-button =
+    .title = Добавить изображение
+pdfjs-editor-stamp-add-image-button-label = Добавить изображение
+pdfjs-free-text =
+    .aria-label = Текстовый редактор
+pdfjs-free-text-default-content = Начните вводить…
+pdfjs-ink =
+    .aria-label = Редактор рисования
+pdfjs-ink-canvas =
+    .aria-label = Созданное пользователем изображение
 
 ## Alt-text dialog
 
