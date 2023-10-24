@@ -39,9 +39,24 @@ pdfjs-open-file-button-label = Öppna
 pdfjs-print-button =
     .title = Skriv ut
 pdfjs-print-button-label = Skriv ut
+pdfjs-save-button =
+    .title = Spara
+pdfjs-save-button-label = Spara
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Hämta
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Hämta
 pdfjs-bookmark-button =
     .title = Aktuell sida (Visa URL från aktuell sida)
 pdfjs-bookmark-button-label = Aktuell sida
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Öppna i app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Öppna i app
 
 ##  Secondary toolbar and context menu
 
@@ -75,6 +90,18 @@ pdfjs-scroll-vertical-button-label = Vertikal rullning
 pdfjs-scroll-horizontal-button =
     .title = Använd horisontell rullning
 pdfjs-scroll-horizontal-button-label = Horisontell rullning
+pdfjs-scroll-wrapped-button =
+    .title = Använd överlappande rullning
+pdfjs-scroll-wrapped-button-label = Överlappande rullning
+pdfjs-spread-none-button =
+    .title = Visa enkelsidor
+pdfjs-spread-none-button-label = Enkelsidor
+pdfjs-spread-odd-button =
+    .title = Visa uppslag med olika sidnummer till vänster
+pdfjs-spread-odd-button-label = Uppslag med framsida
+pdfjs-spread-even-button =
+    .title = Visa uppslag med lika sidnummer till vänster
+pdfjs-spread-even-button-label = Uppslag utan framsida
 
 ## Document properties dialog
 
@@ -107,7 +134,11 @@ pdfjs-document-properties-version = PDF-version:
 pdfjs-document-properties-page-count = Sidantal:
 pdfjs-document-properties-page-size = Pappersstorlek:
 pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = porträtt
 pdfjs-document-properties-page-size-orientation-landscape = landskap
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-letter = Letter
 pdfjs-document-properties-page-size-name-legal = Legal
 
@@ -126,6 +157,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
 pdfjs-document-properties-linearized = Snabb webbvisning:
+pdfjs-document-properties-linearized-yes = Ja
+pdfjs-document-properties-linearized-no = Nej
 pdfjs-document-properties-close-button = Stäng
 
 ## Print
@@ -153,6 +186,7 @@ pdfjs-attachments-button =
 pdfjs-attachments-button-label = Bilagor
 pdfjs-layers-button =
     .title = Visa lager (dubbelklicka för att återställa alla lager till standardläge)
+pdfjs-layers-button-label = Lager
 pdfjs-thumbs-button =
     .title = Visa miniatyrer
 pdfjs-thumbs-button-label = Miniatyrer
@@ -204,6 +238,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Sida { $page }
 
 ## Loading indicator messages
 
@@ -211,6 +249,7 @@ pdfjs-loading-error = Ett fel uppstod vid laddning av PDF-filen.
 pdfjs-invalid-file-error = Ogiltig eller korrupt PDF-fil.
 pdfjs-missing-file-error = Saknad PDF-fil.
 pdfjs-unexpected-response-error = Oväntat svar från servern.
+pdfjs-rendering-error = Ett fel uppstod vid visning av sidan.
 
 ## Annotations
 
@@ -232,12 +271,29 @@ pdfjs-web-fonts-disabled = Webbtypsnitt är inaktiverade: kan inte använda inb�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Rita
+pdfjs-editor-ink-button-label = Rita
+pdfjs-editor-stamp-button =
+    .title = Lägg till eller redigera bilder
+pdfjs-editor-stamp-button-label = Lägg till eller redigera bilder
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Färg
 pdfjs-editor-free-text-size-input = Storlek
 pdfjs-editor-ink-color-input = Färg
 pdfjs-editor-ink-thickness-input = Tjocklek
 pdfjs-editor-ink-opacity-input = Opacitet
+pdfjs-editor-stamp-add-image-button =
+    .title = Lägg till bild
+pdfjs-editor-stamp-add-image-button-label = Lägg till bild
+pdfjs-free-text =
+    .aria-label = Textredigerare
+pdfjs-free-text-default-content = Börja skriva…
+pdfjs-ink =
+    .aria-label = Ritredigerare
 pdfjs-ink-canvas =
     .aria-label = Användarskapad bild
 
