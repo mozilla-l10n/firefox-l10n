@@ -11,6 +11,17 @@ pdfjs-previous-button-label = முந்தையது
 pdfjs-next-button =
     .title = அடுத்த பக்கம்
 pdfjs-next-button-label = அடுத்து
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = பக்கம்
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } இல்
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = { $pagesCount }) இல் ({ $pageNumber }
 pdfjs-zoom-out-button =
     .title = சிறிதாக்கு
 pdfjs-zoom-out-button-label = சிறிதாக்கு
@@ -46,9 +57,42 @@ pdfjs-page-rotate-cw-button-label = வலஞ்சுழியாக சுழ�
 pdfjs-page-rotate-ccw-button =
     .title = இடஞ்சுழியாக சுழற்று
 pdfjs-page-rotate-ccw-button-label = இடஞ்சுழியாக சுழற்று
+pdfjs-cursor-text-select-tool-button =
+    .title = உரைத் தெரிவு கருவியைச் செயல்படுத்து
+pdfjs-cursor-text-select-tool-button-label = உரைத் தெரிவு கருவி
+pdfjs-cursor-hand-tool-button =
+    .title = கைக் கருவிக்ச் செயற்படுத்து
+pdfjs-cursor-hand-tool-button-label = கைக்குருவி
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = ஆவண பண்புகள்...
+pdfjs-document-properties-button-label = ஆவண பண்புகள்...
+pdfjs-document-properties-file-name = கோப்பு பெயர்:
+pdfjs-document-properties-file-size = கோப்பின் அளவு:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } கிபை ({ $size_b } பைட்டுகள்)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } மெபை ({ $size_b } பைட்டுகள்)
+pdfjs-document-properties-title = தலைப்பு:
+pdfjs-document-properties-author = எழுதியவர்
+pdfjs-document-properties-subject = பொருள்:
+pdfjs-document-properties-keywords = முக்கிய வார்த்தைகள்:
+pdfjs-document-properties-creation-date = படைத்த தேதி :
+pdfjs-document-properties-modification-date = திருத்திய தேதி:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = உருவாக்குபவர்:
+pdfjs-document-properties-producer = பிடிஎஃப் தயாரிப்பாளர்:
+pdfjs-document-properties-version = PDF பதிப்பு:
+pdfjs-document-properties-page-count = பக்க எண்ணிக்கை:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,9 +104,15 @@ pdfjs-page-rotate-ccw-button-label = இடஞ்சுழியாக சுழ
 
 ##
 
+pdfjs-document-properties-close-button = மூடுக
 
 ## Print
 
+pdfjs-print-progress-message = அச்சிடுவதற்கான ஆவணம் தயாராகிறது...
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = ரத்து
 pdfjs-printing-not-supported = எச்சரிக்கை: இந்த உலாவி அச்சிடுதலை முழுமையாக ஆதரிக்கவில்லை.
 pdfjs-printing-not-ready = எச்சரிக்கை: PDF அச்சிட முழுவதுமாக ஏற்றப்படவில்லை.
 
@@ -71,11 +121,18 @@ pdfjs-printing-not-ready = எச்சரிக்கை: PDF அச்சி�
 pdfjs-toggle-sidebar-button =
     .title = பக்கப் பட்டியை நிலைமாற்று
 pdfjs-toggle-sidebar-button-label = பக்கப் பட்டியை நிலைமாற்று
+pdfjs-document-outline-button =
+    .title = ஆவண அடக்கத்தைக் காட்டு (இருமுறைச் சொடுக்கி அனைத்து உறுப்பிடிகளையும் விரி/சேர்)
+pdfjs-document-outline-button-label = ஆவண வெளிவரை
+pdfjs-attachments-button =
+    .title = இணைப்புகளை காண்பி
+pdfjs-attachments-button-label = இணைப்புகள்
 pdfjs-thumbs-button =
     .title = சிறுபடங்களைக் காண்பி
 pdfjs-thumbs-button-label = சிறுபடங்கள்
 pdfjs-findbar-button =
     .title = ஆவணத்தில் கண்டறி
+pdfjs-findbar-button-label = தேடு
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -90,6 +147,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = கண்டுபிடி
+    .placeholder = ஆவணத்தில் கண்டறி…
 pdfjs-find-previous-button =
     .title = இந்த சொற்றொடரின் முந்தைய நிகழ்வை தேடு
 pdfjs-find-previous-button-label = முந்தையது
@@ -108,6 +168,9 @@ pdfjs-page-scale-width = பக்க அகலம்
 pdfjs-page-scale-fit = பக்கப் பொருத்தம்
 pdfjs-page-scale-auto = தானியக்க பெரிதாக்கல்
 pdfjs-page-scale-actual = உண்மையான அளவு
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -117,6 +180,7 @@ pdfjs-page-scale-actual = உண்மையான அளவு
 pdfjs-loading-error = PDF ஐ ஏற்றும் போது ஒரு பிழை ஏற்பட்டது.
 pdfjs-invalid-file-error = செல்லுபடியாகாத அல்லது சிதைந்த PDF கோப்பு.
 pdfjs-missing-file-error = PDF கோப்பு காணவில்லை.
+pdfjs-unexpected-response-error = சேவகன் பதில் எதிர்பாரதது.
 
 ## Annotations
 
@@ -133,6 +197,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = இந்த PDF கோப்பை திறக்க கடவுச்சொல்லை உள்ளிடவும்.
 pdfjs-password-invalid = செல்லுபடியாகாத கடவுச்சொல், தயை செய்து மீண்டும் முயற்சி செய்க.
 pdfjs-password-ok-button = சரி
+pdfjs-password-cancel-button = ரத்து
 pdfjs-web-fonts-disabled = வலை எழுத்துருக்கள் முடக்கப்பட்டுள்ளன: உட்பொதிக்கப்பட்ட PDF எழுத்துருக்களைப் பயன்படுத்த முடியவில்லை.
 
 ## Editing
