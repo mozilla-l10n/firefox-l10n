@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Forrige
 pdfjs-next-button =
     .title = Neste side
 pdfjs-next-button-label = Neste
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Side
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = av { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } av { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Zoom ut
 pdfjs-zoom-out-button-label = Zoom ut
@@ -91,6 +102,11 @@ pdfjs-document-properties-close-button = Lukk
 
 ## Print
 
+pdfjs-print-progress-message = Forbereder dokument for utskrift …
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Avbryt
 pdfjs-printing-not-supported = Advarsel: Utskrift er ikke fullstendig støttet av denne nettleseren.
 pdfjs-printing-not-ready = Advarsel: PDF er ikke fullstendig innlastet for utskrift.
 
@@ -99,6 +115,9 @@ pdfjs-printing-not-ready = Advarsel: PDF er ikke fullstendig innlastet for utskr
 pdfjs-toggle-sidebar-button =
     .title = Slå av/på sidestolpe
 pdfjs-toggle-sidebar-button-label = Slå av/på sidestolpe
+pdfjs-document-outline-button =
+    .title = Vis dokumentdisposisjonen (dobbeltklikk for å utvide/skjule alle elementer)
+pdfjs-document-outline-button-label = Dokumentdisposisjon
 pdfjs-attachments-button =
     .title = Vis vedlegg
 pdfjs-attachments-button-label = Vedlegg
@@ -169,6 +188,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Skriv inn passordet for å åpne denne PDF-filen.
 pdfjs-password-invalid = Ugyldig passord. Prøv igjen.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Avbryt
 pdfjs-web-fonts-disabled = Web-fonter er avslått: Kan ikke bruke innbundne PDF-fonter.
 
 ## Editing
