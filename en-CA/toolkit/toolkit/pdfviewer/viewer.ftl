@@ -42,9 +42,21 @@ pdfjs-print-button-label = Print
 pdfjs-save-button =
     .title = Save
 pdfjs-save-button-label = Save
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Download
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Download
 pdfjs-bookmark-button =
     .title = Current Page (View URL from Current Page)
 pdfjs-bookmark-button-label = Current Page
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Open in app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Open in app
 
 ##  Secondary toolbar and context menu
 
@@ -271,12 +283,18 @@ pdfjs-editor-free-text-button-label = Text
 pdfjs-editor-ink-button =
     .title = Draw
 pdfjs-editor-ink-button-label = Draw
+pdfjs-editor-stamp-button =
+    .title = Add or edit images
+pdfjs-editor-stamp-button-label = Add or edit images
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Colour
 pdfjs-editor-free-text-size-input = Size
 pdfjs-editor-ink-color-input = Colour
 pdfjs-editor-ink-thickness-input = Thickness
 pdfjs-editor-ink-opacity-input = Opacity
+pdfjs-editor-stamp-add-image-button =
+    .title = Add image
+pdfjs-editor-stamp-add-image-button-label = Add image
 pdfjs-free-text =
     .aria-label = Text Editor
 pdfjs-free-text-default-content = Start typing…
