@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -38,11 +44,9 @@ menu-quit =
             [windows] D
            *[other] l
         }
-
 # This menu-quit-mac string is only used on macOS.
 menu-quit-mac =
     .label = Dilni prej { -brand-shorter-name }-it
-
 menu-about =
     .label = Mbi { -brand-shorter-name }-in
     .accesskey = R
@@ -221,6 +225,9 @@ menu-history-undo-menu =
     .label = Skeda të Mbyllura Së Fundi
 menu-history-undo-window-menu =
     .label = Dritare të mbyllura Së Fundi
+# "Search" is a verb, as in "Search in History"
+menu-history-search =
+    .label = Kërko te Historiku
 
 ## Bookmarks Menu
 
@@ -233,6 +240,9 @@ menu-bookmark-tab =
     .label = Faqeruani Skedën e Tanishme…
 menu-edit-bookmark =
     .label = Përpunojeni Këtë Faqerojtës…
+# "Search" is a verb, as in "Search in bookmarks"
+menu-bookmarks-search =
+    .label = Kërkoni Te Faqerojtësit
 menu-bookmarks-all-tabs =
     .label = Faqeruani Krejt Skedat…
 menu-bookmarks-toolbar =
@@ -326,6 +336,9 @@ menu-help-enter-troubleshoot-mode2 =
 menu-help-exit-troubleshoot-mode =
     .label = Çaktivizo Mënyrën Diagnostikim
     .accesskey = Ç
+menu-help-switch-device =
+    .label = Kalim në një Pajisje të Re
+    .accesskey = K
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =

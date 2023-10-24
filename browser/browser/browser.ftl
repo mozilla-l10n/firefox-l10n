@@ -912,6 +912,16 @@ reset-pbm-toolbar-button =
     .label = Përfundo Sesion Privat
     .tooltiptext = Përfundoni Sesion Privat
 reset-pbm-panel-heading = Të përfundohet sesion privat?
+reset-pbm-panel-always-ask-checkbox =
+    .label = Pyetmë përherë
+    .accesskey = P
+reset-pbm-panel-cancel-button =
+    .label = Anuloje
+    .accesskey = A
+reset-pbm-panel-confirm-button =
+    .label = Fshi të dhëna sesioni
+    .accesskey = F
+reset-pbm-panel-complete = Të dhënat e sesionit privat u fshinë
 
 ## Autorefresh blocker
 

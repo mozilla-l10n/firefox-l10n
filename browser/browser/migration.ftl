@@ -4,13 +4,11 @@
 
 migration-wizard =
     .title = Ndihmës Importimesh
-
 import-from =
     { PLATFORM() ->
         [windows] Importo Mundësi, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera nga:
        *[other] Importo Parapëlqime, Faqerojtës, Historik, Fjalëkalime dhe të dhëna të tjera prej:
     }
-
 import-from-bookmarks = Importo Faqerojtës nga:
 import-from-ie =
     .label = Microsoft Internet Explorer
@@ -63,37 +61,23 @@ import-from-360se =
 import-from-opera-gx =
     .label = Opera GX
     .accesskey = G
-
 no-migration-sources = Nuk u gjetën dot programe që përmbajnë faqerojtës, historik apo fjalëkalime.
-
 import-source-page-title = Importo Rregullime dhe Të dhëna
 import-items-page-title = Objekte për Importim
-
 import-items-description = Përzgjidhni cilët objekte të importohen:
-
 import-permissions-page-title = Ju lutemi, jepni lejet { -brand-short-name }-it
-
 # Do not translate "Safari" (the name of the browser on Apple devices)
 import-safari-permissions-string = macOS-i lyp që të lejoni shprehimisht { -brand-short-name }-in të hyjë në të dhëna të Safari-t. Klikoni mbi “Vazhdoni”, përzgjidhni dosjen “Safari” te dialogu Finder që shfaqet dhe klikoni mbi “Hape”.
-
 import-migrating-page-title = Po importohet…
-
 import-migrating-description = Po importohen objektet vijuese…
-
 import-select-profile-page-title = Përzgjidhni Profil
-
 import-select-profile-description = Është e mundur të importohen profilet vijues:
-
 import-done-page-title = Importim i Plotësuar
-
 import-done-description = Objektet vijuese u importuan me sukses:
-
 import-close-source-browser = Ju lutemi, para se të vazhdohet, sigurohuni që shfletuesi i përzgjedhur të jetë i mbyllur.
-
 source-name-ie = Internet Explorer
 source-name-edge = Microsoft Edge
 source-name-chrome = Google Chrome
-
 imported-safari-reading-list = Listë Leximesh (Prej Safari-t)
 imported-edge-reading-list = Listë Leximesh (Prej Edge-it)
 
@@ -115,7 +99,6 @@ browser-data-cookies-checkbox =
     .label = Cookies
 browser-data-cookies-label =
     .value = Cookies
-
 browser-data-history-checkbox =
     .label =
         { $browser ->
@@ -128,12 +111,10 @@ browser-data-history-label =
             [firefox] Historik Shfletimi dhe Faqerojtës
            *[other] Historik Shfletimi
         }
-
 browser-data-formdata-checkbox =
     .label = Historik Formularësh të Ruajtur
 browser-data-formdata-label =
     .value = Historik Formularësh të Ruajtur
-
 # This string should use the same phrase for "logins and passwords" as the
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-checkbox =
@@ -142,7 +123,6 @@ browser-data-passwords-checkbox =
 # label in the main hamburger menu that opens about:logins.
 browser-data-passwords-label =
     .value = Kredenciale Hyrjesh dhe Fjalëkalime të Ruajtur
-
 browser-data-bookmarks-checkbox =
     .label =
         { $browser ->
@@ -157,14 +137,15 @@ browser-data-bookmarks-label =
             [edge] Të parapëlqyer
            *[other] Faqerojtës
         }
-
 browser-data-otherdata-checkbox =
     .label = Të dhëna të Tjera
 browser-data-otherdata-label =
     .label = Të dhëna të Tjera
-
 browser-data-session-checkbox =
     .label = Dritare dhe Skeda
 browser-data-session-label =
     .value = Dritare dhe Skeda
-
+browser-data-payment-methods-checkbox =
+    .label = Metoda pagesash
+browser-data-payment-methods-label =
+    .value = Metoda pagesash

@@ -17,6 +17,11 @@ firefox-relay-must-login-to-fxa = Që të mund të përdorni { -relay-brand-name
 firefox-relay-get-unlimited-masks =
     .label = Administroni maska
     .accesskey = A
+# This is followed, on a new line, by firefox-relay-opt-in-subtitle-1
+firefox-relay-opt-in-title-1 = Mbroni adresën tuaj email:
+firefox-relay-opt-in-confirmation-enable-button =
+    .label = Përdor maskë email-i
+    .accesskey = P
 firefox-relay-opt-in-confirmation-disable =
     .label = Mos ma shfaq më këtë
     .accesskey = o
