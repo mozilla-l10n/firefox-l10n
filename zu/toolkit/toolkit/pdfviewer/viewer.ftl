@@ -25,12 +25,17 @@ pdfjs-presentation-mode-button-label = Indlelo yesethulo
 pdfjs-open-file-button =
     .title = Vula ifayela
 pdfjs-open-file-button-label = Vula
+pdfjs-print-button =
+    .title = Phrinta
+pdfjs-print-button-label = Phrinta
 
 ##  Secondary toolbar and context menu
 
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = Igama lefayela:
+pdfjs-document-properties-title = Isihloko:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -53,6 +58,7 @@ pdfjs-printing-not-ready = Isixwayiso: I-PDF ayikalayishwa ngokuphelele yiPhrint
 pdfjs-toggle-sidebar-button =
     .title = I-toggle yebha yaseceleni
 pdfjs-toggle-sidebar-button-label = i-toggle yebha yaseceleni
+pdfjs-document-outline-button-label = Umugqa waseceleni wedokhumenti
 pdfjs-thumbs-button =
     .title = Bonisa izithombe ezincane
 pdfjs-thumbs-button-label = Izithonjana
@@ -112,6 +118,8 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = Kulungile
+pdfjs-web-fonts-disabled = Amafonti e-webhu akutshaziwe: ayikwazi ukusebenzisa amafonti abekiwe e-PDF.
 
 ## Editing
 
