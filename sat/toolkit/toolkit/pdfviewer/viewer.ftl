@@ -233,6 +233,7 @@ pdfjs-find-not-found = ᱛᱚᱯᱚᱞ ᱫᱚᱱᱚᱲ ᱵᱟᱝ ᱧᱟᱢ ᱞ�
 pdfjs-page-scale-width = ᱥᱟᱦᱴᱟ ᱚᱥᱟᱨ
 pdfjs-page-scale-fit = ᱥᱟᱦᱴᱟ ᱠᱷᱟᱯ
 pdfjs-page-scale-auto = ᱟᱡᱼᱟᱡ ᱛᱮ ᱦᱩᱰᱤᱧ ᱞᱟᱹᱴᱩ ᱛᱮᱭᱟᱨ
+pdfjs-page-scale-actual = ᱴᱷᱤᱠ ᱢᱟᱨᱟᱝ ᱛᱮᱫ
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
