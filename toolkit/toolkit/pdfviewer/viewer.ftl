@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Wócyniś
 pdfjs-print-button =
     .title = Śišćaś
 pdfjs-print-button-label = Śišćaś
+pdfjs-save-button =
+    .title = Składowaś
+pdfjs-save-button-label = Składowaś
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Ześěgnuś
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Ześěgnuś
+pdfjs-bookmark-button =
+    .title = Aktualny bok (URL z aktualnego boka pokazaś)
+pdfjs-bookmark-button-label = Aktualny bok
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = W nałoženju wócyniś
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = W nałoženju wócyniś
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,27 @@ pdfjs-cursor-text-select-tool-button-label = Rěd za wuběranje teksta
 pdfjs-cursor-hand-tool-button =
     .title = Rucny rěd zmóžniś
 pdfjs-cursor-hand-tool-button-label = Rucny rěd
+pdfjs-scroll-page-button =
+    .title = Kulanje boka wužywaś
+pdfjs-scroll-page-button-label = Kulanje boka
+pdfjs-scroll-vertical-button =
+    .title = Wertikalne suwanje wužywaś
+pdfjs-scroll-vertical-button-label = Wertikalne suwanje
+pdfjs-scroll-horizontal-button =
+    .title = Horicontalne suwanje wužywaś
+pdfjs-scroll-horizontal-button-label = Horicontalne suwanje
+pdfjs-scroll-wrapped-button =
+    .title = Pózlažke suwanje wužywaś
+pdfjs-scroll-wrapped-button-label = Pózlažke suwanje
+pdfjs-spread-none-button =
+    .title = Boki njezwězaś
+pdfjs-spread-none-button-label = Žeden dwójny bok
+pdfjs-spread-odd-button =
+    .title = Boki zachopinajucy z njerownymi bokami zwězaś
+pdfjs-spread-odd-button-label = Njerowne boki
+pdfjs-spread-even-button =
+    .title = Boki zachopinajucy z rownymi bokami zwězaś
+pdfjs-spread-even-button-label = Rowne boki
 
 ## Document properties dialog
 
@@ -93,6 +132,15 @@ pdfjs-document-properties-creator = Awtor:
 pdfjs-document-properties-producer = PDF-gótowaŕ:
 pdfjs-document-properties-version = PDF-wersija:
 pdfjs-document-properties-page-count = Licba bokow:
+pdfjs-document-properties-page-size = Wjelikosć boka:
+pdfjs-document-properties-page-size-unit-inches = col
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = wusoki format
+pdfjs-document-properties-page-size-orientation-landscape = prěcny format
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,9 +149,16 @@ pdfjs-document-properties-page-count = Licba bokow:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Fast Web View:
+pdfjs-document-properties-linearized-yes = Jo
+pdfjs-document-properties-linearized-no = Ně
 pdfjs-document-properties-close-button = Zacyniś
 
 ## Print
@@ -120,6 +175,8 @@ pdfjs-printing-not-ready = Warnowanje: PDF njejo se za śišćanje dopołnje zac
 
 pdfjs-toggle-sidebar-button =
     .title = Bócnicu pokazaś/schowaś
+pdfjs-toggle-sidebar-notification-button =
+    .title = Bocnicu pśešaltowaś (dokument rozrědowanje/pśipiski/warstwy wopśimujo)
 pdfjs-toggle-sidebar-button-label = Bócnicu pokazaś/schowaś
 pdfjs-document-outline-button =
     .title = Dokumentowe naraźenje pokazaś (dwójne kliknjenje, aby se wšykne zapiski pokazali/schowali)
@@ -127,9 +184,15 @@ pdfjs-document-outline-button-label = Dokumentowa struktura
 pdfjs-attachments-button =
     .title = Pśidanki pokazaś
 pdfjs-attachments-button-label = Pśidanki
+pdfjs-layers-button =
+    .title = Warstwy pokazaś (klikniśo dwójcy, aby wšykne warstwy na standardny staw slědk stajił)
+pdfjs-layers-button-label = Warstwy
 pdfjs-thumbs-button =
     .title = Miniatury pokazaś
 pdfjs-thumbs-button-label = Miniatury
+pdfjs-current-outline-item-button =
+    .title = Aktualny rozrědowański zapisk pytaś
+pdfjs-current-outline-item-button-label = Aktualny rozrědowański zapisk
 pdfjs-findbar-button =
     .title = W dokumenśe pytaś
 pdfjs-findbar-button-label = Pytaś
@@ -158,6 +221,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Dalej
 pdfjs-find-highlight-checkbox = Wšykne wuzwignuś
 pdfjs-find-match-case-checkbox-label = Na wjelikopisanje źiwaś
+pdfjs-find-match-diacritics-checkbox-label = Diakritiske znamuška wužywaś
+pdfjs-find-entire-word-checkbox-label = Cełe słowa
 pdfjs-find-reached-top = Zachopjeńk dokumenta dostany, pókšacujo se z kóńcom
 pdfjs-find-reached-bottom = Kóńc dokumenta dostany, pókšacujo se ze zachopjeńkom
 pdfjs-find-not-found = Pytański wuraz njejo se namakał
@@ -174,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Bok { $page }
 
 ## Loading indicator messages
 
@@ -181,9 +250,14 @@ pdfjs-loading-error = Pśi zacytowanju PDF jo zmólka nastała.
 pdfjs-invalid-file-error = Njepłaśiwa abo wobškóźona PDF-dataja.
 pdfjs-missing-file-error = Felujuca PDF-dataja.
 pdfjs-unexpected-response-error = Njewócakane serwerowe wótegrono.
+pdfjs-rendering-error = Pśi zwobraznjanju boka jo zmólka nastała.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -202,10 +276,58 @@ pdfjs-web-fonts-disabled = Webpisma su znjemóžnjone: njejo móžno, zasajźone
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Tekst
+pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Kresliś
+pdfjs-editor-ink-button-label = Kresliś
+pdfjs-editor-stamp-button =
+    .title = Wobraze pśidaś abo wobźěłaś
+pdfjs-editor-stamp-button-label = Wobraze pśidaś abo wobźěłaś
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Barwa
+pdfjs-editor-free-text-size-input = Wjelikosć
+pdfjs-editor-ink-color-input = Barwa
+pdfjs-editor-ink-thickness-input = Tłustosć
+pdfjs-editor-ink-opacity-input = Opacita
+pdfjs-editor-stamp-add-image-button =
+    .title = Wobraz pśidaś
+pdfjs-editor-stamp-add-image-button-label = Wobraz pśidaś
+pdfjs-free-text =
+    .aria-label = Tekstowy editor
+pdfjs-free-text-default-content = Zachopśo pisaś…
+pdfjs-ink =
+    .aria-label = Kresleński editor
+pdfjs-ink-canvas =
+    .aria-label = Wobraz napórany wót wužywarja
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternatiwny tekst
+pdfjs-editor-alt-text-edit-button-label = Alternatiwny tekst wobźěłaś
+pdfjs-editor-alt-text-dialog-label = Nastajenje wubraś
+pdfjs-editor-alt-text-dialog-description = Alternatiwny tekst pomaga, gaž luźe njamógu wobraz wiźeś abo gaž se wobraz njezacytajo.
+pdfjs-editor-alt-text-add-description-label = Wopisanje pśidaś
+pdfjs-editor-alt-text-add-description-description = Pišćo 1 sadu abo 2 saźe, kótarejž temu, nastajenje abo akcije wopisujotej.
+pdfjs-editor-alt-text-mark-decorative-label = Ako dekoratiwny markěrowaś
+pdfjs-editor-alt-text-mark-decorative-description = To se za pyšnjece wobraze wužywa, na pśikład ramiki abo wódowe znamjenja.
+pdfjs-editor-alt-text-cancel-button = Pśetergnuś
+pdfjs-editor-alt-text-save-button = Składowaś
+pdfjs-editor-alt-text-decorative-tooltip = Ako dekoratiwny markěrowany
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Na pśikład, „Młody muski za blidom sejźi, aby jěź jědł“
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Górjejce nalěwo – wjelikosć změniś
+pdfjs-editor-resizer-label-top-middle = Górjejce wesrjejź – wjelikosć změniś
+pdfjs-editor-resizer-label-top-right = Górjejce napšawo – wjelikosć změniś
+pdfjs-editor-resizer-label-middle-right = Wesrjejź napšawo – wjelikosć změniś
+pdfjs-editor-resizer-label-bottom-right = Dołojce napšawo – wjelikosć změniś
+pdfjs-editor-resizer-label-bottom-middle = Dołojce wesrjejź – wjelikosć změniś
+pdfjs-editor-resizer-label-bottom-left = Dołojce nalěwo – wjelikosć změniś
+pdfjs-editor-resizer-label-middle-left = Wesrjejź nalěwo – wjelikosć změniś
