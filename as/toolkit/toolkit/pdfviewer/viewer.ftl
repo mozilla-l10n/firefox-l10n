@@ -46,6 +46,33 @@ pdfjs-page-rotate-ccw-button-label = ঘড়ীৰ ওলোটা দিশত �
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = দস্তাবেজৰ বৈশিষ্ট্যসমূহ…
+pdfjs-document-properties-button-label = দস্তাবেজৰ বৈশিষ্ট্যসমূহ…
+pdfjs-document-properties-file-name = ফাইল নাম:
+pdfjs-document-properties-file-size = ফাইলৰ আকাৰ:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = শীৰ্ষক:
+pdfjs-document-properties-author = লেখক:
+pdfjs-document-properties-subject = বিষয়:
+pdfjs-document-properties-keywords = কিৱাৰ্ডসমূহ:
+pdfjs-document-properties-creation-date = সৃষ্টিৰ তাৰিখ:
+pdfjs-document-properties-modification-date = পৰিবৰ্তনৰ তাৰিখ:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = সৃষ্টিকৰ্তা:
+pdfjs-document-properties-producer = PDF উৎপাদক:
+pdfjs-document-properties-version = PDF সংস্কৰণ:
+pdfjs-document-properties-page-count = পৃষ্ঠাৰ গণনা:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -57,6 +84,7 @@ pdfjs-page-rotate-ccw-button-label = ঘড়ীৰ ওলোটা দিশত �
 
 ##
 
+pdfjs-document-properties-close-button = বন্ধ কৰক
 
 ## Print
 
@@ -66,6 +94,7 @@ pdfjs-page-rotate-ccw-button-label = ঘড়ীৰ ওলোটা দিশত �
 pdfjs-toggle-sidebar-button =
     .title = কাষবাৰ টগল কৰক
 pdfjs-toggle-sidebar-button-label = কাষবাৰ টগল কৰক
+pdfjs-document-outline-button-label = দস্তাবেজ আউটলাইন
 pdfjs-thumbs-button =
     .title = থাম্বনেইলসমূহ দেখুৱাওক
 pdfjs-thumbs-button-label = থাম্বনেইলসমূহ
@@ -111,6 +140,7 @@ pdfjs-page-scale-actual = প্ৰকৃত আকাৰ
 
 pdfjs-invalid-file-error = অবৈধ অথবা ক্ষতিগ্ৰস্থ PDF file।
 pdfjs-missing-file-error = সন্ধানহিন PDF ফাইল।
+pdfjs-unexpected-response-error = অপ্ৰত্যাশিত চাৰ্ভাৰ প্ৰতিক্ৰিয়া।
 
 ## Annotations
 
@@ -124,6 +154,8 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = এই PDF ফাইল খোলিবলৈ পাছৱৰ্ড সুমুৱাওক।
+pdfjs-password-invalid = অবৈধ পাছৱৰ্ড। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 pdfjs-password-ok-button = ঠিক আছে
 
 ## Editing
