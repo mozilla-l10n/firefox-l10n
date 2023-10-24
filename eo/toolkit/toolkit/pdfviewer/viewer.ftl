@@ -63,6 +63,15 @@ pdfjs-cursor-text-select-tool-button-label = Teksta elektilo
 pdfjs-cursor-hand-tool-button =
     .title = Aktivigi ilon de mano
 pdfjs-cursor-hand-tool-button-label = Ilo de mano
+pdfjs-scroll-vertical-button =
+    .title = Uzi vertikalan ŝovadon
+pdfjs-scroll-vertical-button-label = Vertikala ŝovado
+pdfjs-scroll-horizontal-button =
+    .title = Uzi horizontalan ŝovadon
+pdfjs-scroll-horizontal-button-label = Horizontala ŝovado
+pdfjs-scroll-wrapped-button =
+    .title = Uzi ambaŭdirektan ŝovadon
+pdfjs-scroll-wrapped-button-label = Ambaŭdirekta ŝovado
 pdfjs-spread-none-button =
     .title = Ne montri paĝojn po du
 pdfjs-spread-none-button-label = Unupaĝa vido
@@ -79,6 +88,7 @@ pdfjs-document-properties-button =
     .title = Atributoj de dokumento…
 pdfjs-document-properties-button-label = Atributoj de dokumento…
 pdfjs-document-properties-file-name = Nomo de dosiero:
+pdfjs-document-properties-file-size = Grando de dosiero:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -101,6 +111,15 @@ pdfjs-document-properties-creator = Kreinto:
 pdfjs-document-properties-producer = Produktinto de PDF:
 pdfjs-document-properties-version = Versio de PDF:
 pdfjs-document-properties-page-count = Nombro de paĝoj:
+pdfjs-document-properties-page-size = Grando de paĝo:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = vertikala
+pdfjs-document-properties-page-size-orientation-landscape = horizontala
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letera
+pdfjs-document-properties-page-size-name-legal = Jura
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -109,6 +128,8 @@ pdfjs-document-properties-page-count = Nombro de paĝoj:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -127,6 +148,7 @@ pdfjs-print-progress-message = Preparo de dokumento por presi ĝin …
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Nuligi
 pdfjs-printing-not-supported = Averto: tiu ĉi retumilo ne plene subtenas presadon.
+pdfjs-printing-not-ready = Averto: la PDF dosiero ne estas plene ŝargita por presado.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -180,6 +202,7 @@ pdfjs-find-not-found = Frazo ne trovita
 pdfjs-page-scale-width = Larĝo de paĝo
 pdfjs-page-scale-fit = Adapti paĝon
 pdfjs-page-scale-auto = Aŭtomata skalo
+pdfjs-page-scale-actual = Reala grando
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
