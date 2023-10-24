@@ -7,8 +7,21 @@
 
 pdfjs-previous-button =
     .title = صفحهٔ قبلی
+pdfjs-previous-button-label = قبلی
 pdfjs-next-button =
     .title = صفحهٔ بعدی
+pdfjs-next-button-label = بعدی
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = صفحه
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = از { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber }از { $pagesCount })
 pdfjs-zoom-out-button =
     .title = کوچک‌نمایی
 pdfjs-zoom-out-button-label = کوچک‌نمایی
@@ -29,9 +42,57 @@ pdfjs-print-button-label = چاپ
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = ابزارها
+pdfjs-tools-button-label = ابزارها
+pdfjs-first-page-button =
+    .title = برو به اولین صفحه
+pdfjs-first-page-button-label = برو به اولین صفحه
+pdfjs-last-page-button =
+    .title = برو به آخرین صفحه
+pdfjs-last-page-button-label = برو به آخرین صفحه
+pdfjs-page-rotate-cw-button =
+    .title = چرخش ساعتگرد
+pdfjs-page-rotate-cw-button-label = چرخش ساعتگرد
+pdfjs-page-rotate-ccw-button =
+    .title = چرخش پاد ساعتگرد
+pdfjs-page-rotate-ccw-button-label = چرخش پاد ساعتگرد
+pdfjs-cursor-text-select-tool-button =
+    .title = فعال کردن ابزارِ انتخابِ متن
+pdfjs-cursor-text-select-tool-button-label = ابزارِ انتخابِ متن
+pdfjs-cursor-hand-tool-button =
+    .title = فعال کردن ابزارِ دست
+pdfjs-cursor-hand-tool-button-label = ابزار دست
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = خصوصیات سند...
+pdfjs-document-properties-button-label = خصوصیات سند...
+pdfjs-document-properties-file-name = نام فایل:
+pdfjs-document-properties-file-size = حجم پرونده:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } کیلوبایت ({ $size_b } بایت)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } مگابایت ({ $size_b } بایت)
+pdfjs-document-properties-title = عنوان:
+pdfjs-document-properties-author = نویسنده:
+pdfjs-document-properties-subject = موضوع:
+pdfjs-document-properties-keywords = کلیدواژه‌ها:
+pdfjs-document-properties-creation-date = تاریخ ایجاد:
+pdfjs-document-properties-modification-date = تاریخ ویرایش:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }، { $time }
+pdfjs-document-properties-creator = ایجاد کننده:
+pdfjs-document-properties-producer = ایجاد کننده PDF:
+pdfjs-document-properties-version = نسخه PDF:
+pdfjs-document-properties-page-count = تعداد صفحات:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -43,16 +104,35 @@ pdfjs-print-button-label = چاپ
 
 ##
 
+pdfjs-document-properties-close-button = بستن
 
 ## Print
 
+pdfjs-print-progress-message = آماده سازی مدارک برای چاپ کردن…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = لغو
 pdfjs-printing-not-supported = هشدار: قابلیت چاپ به‌طور کامل در این مرورگر پشتیبانی نمی‌شود.
+pdfjs-printing-not-ready = اخطار: پرونده PDF بطور کامل بارگیری نشده و امکان چاپ وجود ندارد.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = باز و بسته کردن نوار کناری
+pdfjs-toggle-sidebar-button-label = تغییرحالت نوارکناری
+pdfjs-document-outline-button =
+    .title = نمایش رئوس مطالب مدارک(برای بازشدن/جمع شدن همه موارد دوبار کلیک کنید)
+pdfjs-document-outline-button-label = طرح نوشتار
+pdfjs-attachments-button =
+    .title = نمایش پیوست‌ها
+pdfjs-attachments-button-label = پیوست‌ها
 pdfjs-thumbs-button =
     .title = نمایش تصاویر بندانگشتی
 pdfjs-thumbs-button-label = تصاویر بندانگشتی
+pdfjs-findbar-button =
+    .title = جستجو در سند
+pdfjs-findbar-button-label = پیدا کردن
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -67,10 +147,19 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = پیدا کردن
+    .placeholder = پیدا کردن در سند…
 pdfjs-find-previous-button =
     .title = پیدا کردن رخداد قبلی عبارت
+pdfjs-find-previous-button-label = قبلی
 pdfjs-find-next-button =
     .title = پیدا کردن رخداد بعدی عبارت
+pdfjs-find-next-button-label = بعدی
+pdfjs-find-highlight-checkbox = برجسته و هایلایت کردن همه موارد
+pdfjs-find-match-case-checkbox-label = تطبیق کوچکی و بزرگی حروف
+pdfjs-find-reached-top = به بالای صفحه رسیدیم، از پایین ادامه می‌دهیم
+pdfjs-find-reached-bottom = به آخر صفحه رسیدیم، از بالا ادامه می‌دهیم
 pdfjs-find-not-found = عبارت پیدا نشد
 
 ## Predefined zoom values
@@ -79,12 +168,19 @@ pdfjs-page-scale-width = عرض صفحه
 pdfjs-page-scale-fit = اندازه کردن صفحه
 pdfjs-page-scale-auto = بزرگنمایی خودکار
 pdfjs-page-scale-actual = اندازه واقعی‌
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
 
 ## Loading indicator messages
 
+pdfjs-loading-error = هنگام بارگیری پرونده PDF خطایی رخ داد.
+pdfjs-invalid-file-error = پرونده PDF نامعتبر یامعیوب می‌باشد.
+pdfjs-missing-file-error = پرونده PDF یافت نشد.
+pdfjs-unexpected-response-error = پاسخ پیش بینی نشده سرور
 
 ## Annotations
 
@@ -98,7 +194,11 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = جهت باز کردن پرونده PDF گذرواژه را وارد نمائید.
+pdfjs-password-invalid = گذرواژه نامعتبر. لطفا مجددا تلاش کنید.
 pdfjs-password-ok-button = تأیید
+pdfjs-password-cancel-button = لغو
+pdfjs-web-fonts-disabled = فونت های تحت وب غیر فعال شده اند: امکان استفاده از نمایش دهنده داخلی PDF وجود ندارد.
 
 ## Editing
 
