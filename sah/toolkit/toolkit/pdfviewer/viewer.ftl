@@ -25,12 +25,56 @@ pdfjs-presentation-mode-button-label = Көрдөрөр эрэсиим
 pdfjs-open-file-button =
     .title = Билэни арый
 pdfjs-open-file-button-label = Ас
+pdfjs-print-button =
+    .title = Бэчээт
+pdfjs-print-button-label = Бэчээт
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Тэриллэр
+pdfjs-tools-button-label = Тэриллэр
+pdfjs-first-page-button =
+    .title = Бастакы сирэйгэ көс
+pdfjs-first-page-button-label = Бастакы сирэйгэ көс
+pdfjs-last-page-button =
+    .title = Тиһэх сирэйгэ көс
+pdfjs-last-page-button-label = Тиһэх сирэйгэ көс
+pdfjs-page-rotate-cw-button =
+    .title = Чаһы хоту эргит
+pdfjs-page-rotate-cw-button-label = Чаһы хоту эргит
+pdfjs-page-rotate-ccw-button =
+    .title = Чаһы утары эргит
+pdfjs-page-rotate-ccw-button-label = Чаһы утары эргит
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Докумуон туруоруулара...
+pdfjs-document-properties-button-label = Докумуон туруоруулара...
+pdfjs-document-properties-file-name = Билэ аата:
+pdfjs-document-properties-file-size = Билэ кээмэйэ:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } КБ ({ $size_b } баайт)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } МБ ({ $size_b } баайт)
+pdfjs-document-properties-title = Баһа:
+pdfjs-document-properties-author = Ааптар:
+pdfjs-document-properties-subject = Тиэмэ:
+pdfjs-document-properties-keywords = Күлүүс тыл:
+pdfjs-document-properties-creation-date = Оҥоһуллубут кэмэ:
+pdfjs-document-properties-modification-date = Уларытыллыбыт кэмэ:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-producer = PDF оҥорооччу:
+pdfjs-document-properties-version = PDF барыла:
+pdfjs-document-properties-page-count = Сирэй ахсаана:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -42,6 +86,7 @@ pdfjs-open-file-button-label = Ас
 
 ##
 
+pdfjs-document-properties-close-button = Сап
 
 ## Print
 
@@ -53,6 +98,10 @@ pdfjs-printing-not-ready = Сэрэтии: PDF бэчээттииргэ толо
 pdfjs-toggle-sidebar-button =
     .title = Ойоҕос хапталы арый/сап
 pdfjs-toggle-sidebar-button-label = Ойоҕос хапталы арый/сап
+pdfjs-document-outline-button-label = Дөкүмүөн иһинээҕитэ
+pdfjs-attachments-button =
+    .title = Кыбытыктары көрдөр
+pdfjs-attachments-button-label = Кыбытык
 pdfjs-thumbs-button =
     .title = Ойуучааннары көрдөр
 pdfjs-thumbs-button-label = Ойуучааннар
@@ -99,6 +148,7 @@ pdfjs-page-scale-actual = Дьиҥнээх кээмэйэ
 pdfjs-loading-error = PDF-билэни хачайдыырга алҕас таҕыста.
 pdfjs-invalid-file-error = Туох эрэ алҕастаах эбэтэр алдьаммыт PDF-билэ.
 pdfjs-missing-file-error = PDF-билэ суох.
+pdfjs-unexpected-response-error = Сиэрбэр хоруйдаабат.
 
 ## Annotations
 
@@ -112,6 +162,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Бу PDF-билэни арыйарга көмүскэл тылы киллэриэхтээхин.
+pdfjs-password-invalid = Киирии тыл алҕастаах. Бука диэн, хатылаан көр.
+pdfjs-password-ok-button = СӨП
 pdfjs-web-fonts-disabled = Ситим-бичиктэр араарыллыахтара: PDF бичиктэрэ кыайан көстүбэттэр.
 
 ## Editing
