@@ -17,6 +17,12 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Bebbeerandi
 pdfjs-zoom-select =
     .title = Bebbeerandi
+pdfjs-presentation-mode-button =
+    .title = Bere cebeyan alhaali
+pdfjs-presentation-mode-button-label = Cebeyan alhaali
+pdfjs-open-file-button =
+    .title = Tuku feeri
+pdfjs-open-file-button-label = Feeri
 pdfjs-print-button =
     .title = Kar
 pdfjs-print-button-label = Kar
@@ -60,6 +66,11 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Kalimaɲaŋoo bangayri bisantaa ceeci
+pdfjs-find-next-button =
+    .title = Kalimaɲaŋoo hiino bangayroo ceeci
+pdfjs-find-not-found = Kalimaɲaa mana duwandi
 
 ## Predefined zoom values
 
@@ -80,6 +91,7 @@ pdfjs-loading-error = Firka bangay kaŋ PDF goo ma zumandi.
 
 ## Password
 
+pdfjs-password-ok-button = Ayyo
 
 ## Editing
 
