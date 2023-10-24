@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = გახსნა
 pdfjs-print-button =
     .title = ამობეჭდვა
 pdfjs-print-button-label = ამობეჭდვა
+pdfjs-save-button =
+    .title = შენახვა
+pdfjs-save-button-label = შენახვა
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = ჩამოტვირთვა
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = ჩამოტვირთვა
+pdfjs-bookmark-button =
+    .title = მიმდინარე გვერდი (ბმული ამ გვერდისთვის)
+pdfjs-bookmark-button-label = მიმდინარე გვერდი
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = გახსნა პროგრამით
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = გახსნა პროგრამით
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = მოსანიშნი მა�
 pdfjs-cursor-hand-tool-button =
     .title = გადასაადგილებელი მაჩვენებლის გამოყენება
 pdfjs-cursor-hand-tool-button-label = გადასაადგილებელი
+pdfjs-scroll-page-button =
+    .title = გვერდზე გადაადგილების გამოყენება
+pdfjs-scroll-page-button-label = გვერდშივე გადაადგილება
 pdfjs-scroll-vertical-button =
     .title = გვერდების შვეულად ჩვენება
 pdfjs-scroll-vertical-button-label = შვეული გადაადგილება
@@ -75,7 +96,11 @@ pdfjs-scroll-wrapped-button-label = ცხრილური გადაად�
 pdfjs-spread-none-button =
     .title = ორ გვერდზე გაშლის გარეშე
 pdfjs-spread-none-button-label = ცალგვერდიანი ჩვენება
+pdfjs-spread-odd-button =
+    .title = ორ გვერდზე გაშლა კენტი გვერდიდან
 pdfjs-spread-odd-button-label = ორ გვერდზე კენტიდან
+pdfjs-spread-even-button =
+    .title = ორ გვერდზე გაშლა ლუწი გვერდიდან
 pdfjs-spread-even-button-label = ორ გვერდზე ლუწიდან
 
 ## Document properties dialog
@@ -94,12 +119,19 @@ pdfjs-document-properties-kb = { $size_kb } კბ ({ $size_b } ბაიტი)
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } მბ ({ $size_b } ბაიტი)
 pdfjs-document-properties-title = სათაური:
+pdfjs-document-properties-author = შემქმნელი:
 pdfjs-document-properties-subject = თემა:
 pdfjs-document-properties-keywords = საკვანძო სიტყვები:
+pdfjs-document-properties-creation-date = შექმნის დრო:
+pdfjs-document-properties-modification-date = ჩასწორების დრო:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = შემდგენელი:
+pdfjs-document-properties-producer = PDF-შემდგენელი:
+pdfjs-document-properties-version = PDF-ვერსია:
+pdfjs-document-properties-page-count = გვერდები:
 pdfjs-document-properties-page-size = გვერდის ზომა:
 pdfjs-document-properties-page-size-unit-inches = დუიმი
 pdfjs-document-properties-page-size-unit-millimeters = მმ
@@ -122,6 +154,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = მსუბუქი ვებჩვენება:
 pdfjs-document-properties-linearized-yes = დიახ
 pdfjs-document-properties-linearized-no = არა
 pdfjs-document-properties-close-button = დახურვა
@@ -140,14 +175,24 @@ pdfjs-printing-not-ready = გაფრთხილება: PDF სრულ�
 
 pdfjs-toggle-sidebar-button =
     .title = გვერდითა ზოლის გამოჩენა/დამალვა
+pdfjs-toggle-sidebar-notification-button =
+    .title = გვერდითი ზოლის გამოჩენა (შეიცავს სარჩევს/დანართს/ფენებს)
 pdfjs-toggle-sidebar-button-label = გვერდითა ზოლის გამოჩენა/დამალვა
+pdfjs-document-outline-button =
+    .title = დოკუმენტის სარჩევის ჩვენება (ორმაგი წკაპით თითოეულის ჩამოშლა/აკეცვა)
 pdfjs-document-outline-button-label = დოკუმენტის სარჩევი
 pdfjs-attachments-button =
     .title = დანართების ჩვენება
 pdfjs-attachments-button-label = დანართები
+pdfjs-layers-button =
+    .title = ფენების გამოჩენა (ორმაგი წკაპით ყველა ფენის ნაგულისხმევზე დაბრუნება)
+pdfjs-layers-button-label = ფენები
 pdfjs-thumbs-button =
     .title = შეთვალიერება
 pdfjs-thumbs-button-label = ესკიზები
+pdfjs-current-outline-item-button =
+    .title = მიმდინარე გვერდის მონახვა სარჩევში
+pdfjs-current-outline-item-button-label = მიმდინარე გვერდი სარჩევში
 pdfjs-findbar-button =
     .title = პოვნა დოკუმენტში
 pdfjs-findbar-button-label = ძიება
@@ -158,6 +203,10 @@ pdfjs-findbar-button-label = ძიება
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = გვერდი { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = გვერდის შეთვალიერება { $page }
 
 ## Find panel button title and messages
 
@@ -171,6 +220,8 @@ pdfjs-find-next-button =
     .title = ფრაზის შემდეგი კონტექსტის პოვნა
 pdfjs-find-next-button-label = შემდეგი
 pdfjs-find-highlight-checkbox = ყველას მონიშვნა
+pdfjs-find-match-case-checkbox-label = მთავრულით
+pdfjs-find-match-diacritics-checkbox-label = ნიშნებით
 pdfjs-find-entire-word-checkbox-label = მთლიანი სიტყვები
 pdfjs-find-reached-top = მიღწეულია დოკუმენტის დასაწყისი, გრძელდება ბოლოდან
 pdfjs-find-reached-bottom = მიღწეულია დოკუმენტის ბოლო, გრძელდება დასაწყისიდან
@@ -188,13 +239,25 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = გვერდი { $page }
 
 ## Loading indicator messages
 
+pdfjs-loading-error = შეცდომა, PDF-ფაილის ჩატვირთვისას.
+pdfjs-invalid-file-error = არამართებული ან დაზიანებული PDF-ფაილი.
+pdfjs-missing-file-error = ნაკლული PDF-ფაილი.
 pdfjs-unexpected-response-error = სერვერის მოულოდნელი პასუხი.
+pdfjs-rendering-error = შეცდომა, გვერდის ჩვენებისას.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -205,16 +268,66 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = შეიყვანეთ პაროლი PDF-ფაილის გასახსნელად.
 pdfjs-password-invalid = არასწორი პაროლი. გთხოვთ, სცადოთ ხელახლა.
 pdfjs-password-ok-button = კარგი
 pdfjs-password-cancel-button = გაუქმება
+pdfjs-web-fonts-disabled = ვებშრიფტები გამორთულია: ჩაშენებული PDF-შრიფტების გამოყენება ვერ ხერხდება.
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = წარწერა
+pdfjs-editor-free-text-button-label = ტექსტი
+pdfjs-editor-ink-button =
+    .title = ხაზვა
+pdfjs-editor-ink-button-label = ხაზვა
+pdfjs-editor-stamp-button =
+    .title = სურათების დართვა ან ჩასწორება
+pdfjs-editor-stamp-button-label = სურათების დართვა ან ჩასწორება
+# Editor Parameters
+pdfjs-editor-free-text-color-input = ფერი
+pdfjs-editor-free-text-size-input = ზომა
+pdfjs-editor-ink-color-input = ფერი
+pdfjs-editor-ink-thickness-input = სისქე
+pdfjs-editor-ink-opacity-input = გაუმჭვირვალობა
+pdfjs-editor-stamp-add-image-button =
+    .title = სურათის დამატება
+pdfjs-editor-stamp-add-image-button-label = სურათის დამატება
+pdfjs-free-text =
+    .aria-label = ნაწერის ჩასწორება
+pdfjs-free-text-default-content = აკრიფეთ…
+pdfjs-ink =
+    .aria-label = ნახატის ჩასწორება
+pdfjs-ink-canvas =
+    .aria-label = მომხმარებლის შექმნილი სურათი
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = დართული წარწერა
+pdfjs-editor-alt-text-edit-button-label = დართული წარწერის ჩასწორება
+pdfjs-editor-alt-text-dialog-label = არჩევა
+pdfjs-editor-alt-text-dialog-description = დართული წარწერა (შემნაცვლებელი ტექსტი) გამოსადეგია მათთვის, ვინც ვერ ხედავს სურათებს ან როცა სურათი ვერ იტვირთება.
+pdfjs-editor-alt-text-add-description-label = აღწერილობის დამატება
+pdfjs-editor-alt-text-add-description-description = განკუთვნილია 1-2 წინადადებით საგნის, მახასიათებლის ან მოქმედების აღსაწერად.
+pdfjs-editor-alt-text-mark-decorative-label = მოინიშნოს მოსართავად
+pdfjs-editor-alt-text-mark-decorative-description = გამოიყენება შესამკობი სურათებისთვის, გარსშემოსავლები ჩარჩოებისა და ჭვირნიშნებისთვის.
+pdfjs-editor-alt-text-cancel-button = გაუქმება
+pdfjs-editor-alt-text-save-button = შენახვა
+pdfjs-editor-alt-text-decorative-tooltip = მოინიშნოს მოსართავად
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = მაგალითად, „ახალგაზრდა მამაკაცი მაგიდასთან ზის და სადილობს“
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = ზევით მარცხნივ — ზომაცვლა
+pdfjs-editor-resizer-label-top-middle = ზევით შუაში — ზომაცვლა
+pdfjs-editor-resizer-label-top-right = ზევით მარჯვნივ — ზომაცვლა
+pdfjs-editor-resizer-label-middle-right = შუაში მარჯვნივ — ზომაცვლა
+pdfjs-editor-resizer-label-bottom-right = ქვევით მარჯვნივ — ზომაცვლა
+pdfjs-editor-resizer-label-bottom-middle = ქვევით შუაში — ზომაცვლა
+pdfjs-editor-resizer-label-bottom-left = ზვევით მარცხნივ — ზომაცვლა
+pdfjs-editor-resizer-label-middle-left = შუაში მარცხნივ — ზომაცვლა
