@@ -190,6 +190,7 @@ pdfjs-current-outline-item-button-label = Uneko eskemaren elementua
 pdfjs-findbar-button =
     .title = Bilatu dokumentuan
 pdfjs-findbar-button-label = Bilatu
+pdfjs-additional-layers = Geruza gehigarriak
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
