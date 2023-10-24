@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Abrir
 pdfjs-print-button =
     .title = Imprimir
 pdfjs-print-button-label = Imprimir
+pdfjs-save-button =
+    .title = Guardar
+pdfjs-save-button-label = Guardar
+pdfjs-bookmark-button =
+    .title = Página atual (ver URL da página atual)
+pdfjs-bookmark-button-label = Pagina atual
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Abrir na aplicação
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Abrir na aplicação
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Ferramenta de seleção de texto
 pdfjs-cursor-hand-tool-button =
     .title = Ativar ferramenta de mão
 pdfjs-cursor-hand-tool-button-label = Ferramenta de mão
+pdfjs-scroll-page-button =
+    .title = Utilizar deslocamento da página
+pdfjs-scroll-page-button-label = Deslocamento da página
 pdfjs-scroll-vertical-button =
     .title = Utilizar deslocação vertical
 pdfjs-scroll-vertical-button-label = Deslocação vertical
@@ -72,8 +87,14 @@ pdfjs-scroll-horizontal-button-label = Deslocação horizontal
 pdfjs-scroll-wrapped-button =
     .title = Utilizar deslocação encapsulada
 pdfjs-scroll-wrapped-button-label = Deslocação encapsulada
+pdfjs-spread-none-button =
+    .title = Não juntar páginas dispersas
 pdfjs-spread-none-button-label = Sem spreads
+pdfjs-spread-odd-button =
+    .title = Juntar páginas dispersas a partir de páginas com números ímpares
 pdfjs-spread-odd-button-label = Spreads ímpares
+pdfjs-spread-even-button =
+    .title = Juntar páginas dispersas a partir de páginas com números pares
 pdfjs-spread-even-button-label = Spreads pares
 
 ## Document properties dialog
@@ -127,6 +148,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Vista rápida web:
+pdfjs-document-properties-linearized-yes = Sim
+pdfjs-document-properties-linearized-no = Não
 pdfjs-document-properties-close-button = Fechar
 
 ## Print
@@ -143,6 +169,8 @@ pdfjs-printing-not-ready = Aviso: o PDF ainda não está totalmente carregado.
 
 pdfjs-toggle-sidebar-button =
     .title = Alternar barra lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Alternar barra lateral (o documento contém contornos/anexos/camadas)
 pdfjs-toggle-sidebar-button-label = Alternar barra lateral
 pdfjs-document-outline-button =
     .title = Mostrar esquema do documento (duplo clique para expandir/colapsar todos os itens)
@@ -150,9 +178,15 @@ pdfjs-document-outline-button-label = Esquema do documento
 pdfjs-attachments-button =
     .title = Mostrar anexos
 pdfjs-attachments-button-label = Anexos
+pdfjs-layers-button =
+    .title = Mostrar camadas (clique duas vezes para repor todas as camadas para o estado predefinido)
+pdfjs-layers-button-label = Camadas
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-current-outline-item-button =
+    .title = Encontrar o item atualmente destacado
+pdfjs-current-outline-item-button-label = Item atualmente destacado
 pdfjs-findbar-button =
     .title = Localizar em documento
 pdfjs-findbar-button-label = Localizar
@@ -181,6 +215,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Seguinte
 pdfjs-find-highlight-checkbox = Destacar tudo
 pdfjs-find-match-case-checkbox-label = Correspondência
+pdfjs-find-match-diacritics-checkbox-label = Corresponder diacríticos
 pdfjs-find-entire-word-checkbox-label = Palavras completas
 pdfjs-find-reached-top = Topo do documento atingido, a continuar a partir do fundo
 pdfjs-find-reached-bottom = Fim do documento atingido, a continuar a partir do topo
@@ -198,6 +233,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Página { $page }
 
 ## Loading indicator messages
 
@@ -205,6 +244,7 @@ pdfjs-loading-error = Ocorreu um erro ao carregar o PDF.
 pdfjs-invalid-file-error = Ficheiro PDF inválido ou danificado.
 pdfjs-missing-file-error = Ficheiro PDF inexistente.
 pdfjs-unexpected-response-error = Resposta inesperada do servidor.
+pdfjs-rendering-error = Ocorreu um erro ao processar a página.
 
 ## Annotations
 
@@ -230,6 +270,13 @@ pdfjs-web-fonts-disabled = Os tipos de letra web estão desativados: não é pos
 
 ## Editing
 
+pdfjs-editor-stamp-button =
+    .title = Adicionar ou editar imagens
+pdfjs-editor-stamp-button-label = Adicionar ou editar imagens
+pdfjs-editor-stamp-add-image-button =
+    .title = Adicionar imagem
+pdfjs-editor-stamp-add-image-button-label = Adicionar imagem
+pdfjs-free-text-default-content = Começar a digitar…
 
 ## Alt-text dialog
 
