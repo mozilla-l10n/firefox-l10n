@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Otvoriť
 pdfjs-print-button =
     .title = Tlačiť
 pdfjs-print-button-label = Tlačiť
+pdfjs-save-button =
+    .title = Uložiť
+pdfjs-save-button-label = Uložiť
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Stiahnuť
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Stiahnuť
+pdfjs-bookmark-button =
+    .title = Aktuálna stránka (zobraziť adresu URL z aktuálnej stránky)
+pdfjs-bookmark-button-label = Aktuálna stránka
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Otvoriť v aplikácii
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Otvoriť v aplikácii
 
 ##  Secondary toolbar and context menu
 
@@ -146,6 +164,9 @@ pdfjs-document-properties-close-button = Zavrieť
 ## Print
 
 pdfjs-print-progress-message = Príprava dokumentu na tlač…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
 pdfjs-print-progress-close-button = Zrušiť
 pdfjs-printing-not-supported = Upozornenie: tlač nie je v tomto prehliadači plne podporovaná.
 pdfjs-printing-not-ready = Upozornenie: súbor PDF nie je plne načítaný pre tlač.
@@ -230,6 +251,7 @@ pdfjs-loading-error = Počas načítavania dokumentu PDF sa vyskytla chyba.
 pdfjs-invalid-file-error = Neplatný alebo poškodený súbor PDF.
 pdfjs-missing-file-error = Chýbajúci súbor PDF.
 pdfjs-unexpected-response-error = Neočakávaná odpoveď zo servera.
+pdfjs-rendering-error = Pri vykresľovaní stránky sa vyskytla chyba.
 
 ## Annotations
 
@@ -255,10 +277,58 @@ pdfjs-web-fonts-disabled = Webové písma sú vypnuté: nie je možné použiť 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Kreslenie
+pdfjs-editor-ink-button-label = Kresliť
+pdfjs-editor-stamp-button =
+    .title = Pridať alebo upraviť obrázky
+pdfjs-editor-stamp-button-label = Pridať alebo upraviť obrázky
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Farba
+pdfjs-editor-free-text-size-input = Veľkosť
+pdfjs-editor-ink-color-input = Farba
+pdfjs-editor-ink-thickness-input = Hrúbka
+pdfjs-editor-ink-opacity-input = Priehľadnosť
+pdfjs-editor-stamp-add-image-button =
+    .title = Pridať obrázok
+pdfjs-editor-stamp-add-image-button-label = Pridať obrázok
+pdfjs-free-text =
+    .aria-label = Textový editor
+pdfjs-free-text-default-content = Začnite písať…
+pdfjs-ink =
+    .aria-label = Editor kreslenia
+pdfjs-ink-canvas =
+    .aria-label = Obrázok vytvorený používateľom
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternatívny text
+pdfjs-editor-alt-text-edit-button-label = Upraviť alternatívny text
+pdfjs-editor-alt-text-dialog-label = Vyberte možnosť
+pdfjs-editor-alt-text-dialog-description = Alternatívny text (alt text) pomáha, keď ľudia obrázok nevidia alebo sa nenačítava.
+pdfjs-editor-alt-text-add-description-label = Pridať popis
+pdfjs-editor-alt-text-add-description-description = Zamerajte sa na 1-2 vety, ktoré popisujú predmet, prostredie alebo akcie.
+pdfjs-editor-alt-text-mark-decorative-label = Označiť ako dekoratívny
+pdfjs-editor-alt-text-mark-decorative-description = Používa sa na ozdobné obrázky, ako sú okraje alebo vodoznaky.
+pdfjs-editor-alt-text-cancel-button = Zrušiť
+pdfjs-editor-alt-text-save-button = Uložiť
+pdfjs-editor-alt-text-decorative-tooltip = Označený ako dekoratívny
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Napríklad: „Mladý muž si sadá za stôl, aby sa najedol“
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Ľavý horný roh – zmena veľkosti
+pdfjs-editor-resizer-label-top-middle = Horný stred – zmena veľkosti
+pdfjs-editor-resizer-label-top-right = Pravý horný roh – zmena veľkosti
+pdfjs-editor-resizer-label-middle-right = Vpravo uprostred – zmena veľkosti
+pdfjs-editor-resizer-label-bottom-right = Pravý dolný roh – zmena veľkosti
+pdfjs-editor-resizer-label-bottom-middle = Stred dole – zmena veľkosti
+pdfjs-editor-resizer-label-bottom-left = Ľavý dolný roh – zmena veľkosti
+pdfjs-editor-resizer-label-middle-left = Vľavo uprostred – zmena veľkosti
