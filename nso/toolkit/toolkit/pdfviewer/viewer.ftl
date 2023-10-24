@@ -17,6 +17,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Godišetša ka ntle
 pdfjs-zoom-select =
     .title = Godiša
+pdfjs-presentation-mode-button =
+    .title = Fetogela go mokgwa wa tlhagišo
+pdfjs-presentation-mode-button-label = Mokgwa wa tlhagišo
 pdfjs-open-file-button =
     .title = Bula faele
 pdfjs-open-file-button-label = Bula
@@ -40,6 +43,7 @@ pdfjs-open-file-button-label = Bula
 
 ## Print
 
+pdfjs-printing-not-supported = Temošo: Go gatiša ga go thekgwe ke praosara ye ka botlalo.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
