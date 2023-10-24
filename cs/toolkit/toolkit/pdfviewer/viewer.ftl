@@ -45,6 +45,10 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Vlastnosti dokumentu…
 pdfjs-document-properties-file-name = Název souboru:
 pdfjs-document-properties-file-size = Velikost souboru:
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bajtů)
 pdfjs-document-properties-author = Autor:
 pdfjs-document-properties-keywords = Klíčová slova:
 pdfjs-document-properties-creation-date = Datum vytvoření:
@@ -114,6 +118,7 @@ pdfjs-find-reached-top = Dosažen začátek dokumentu, pokračuje se od konce
 pdfjs-page-scale-width = Podle šířky
 pdfjs-page-scale-fit = Podle výšky
 pdfjs-page-scale-auto = Automatická velikost
+pdfjs-page-scale-actual = Skutečná velikost
 
 ## PDF page
 
