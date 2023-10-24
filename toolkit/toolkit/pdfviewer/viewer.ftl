@@ -11,6 +11,10 @@ pdfjs-previous-button-label = ಹಿಂದಿನ
 pdfjs-next-button =
     .title = ಮುಂದಿನ ಪುಟ
 pdfjs-next-button-label = ಮುಂದಿನ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } ರಲ್ಲಿ
 pdfjs-zoom-out-button =
     .title = ಕಿರಿದಾಗಿಸು
 pdfjs-zoom-out-button-label = ಕಿರಿದಾಗಿಸಿ
@@ -31,9 +35,51 @@ pdfjs-print-button-label = ಮುದ್ರಿಸಿ
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = ಉಪಕರಣಗಳು
+pdfjs-tools-button-label = ಉಪಕರಣಗಳು
+pdfjs-first-page-button =
+    .title = ಮೊದಲ ಪುಟಕ್ಕೆ ತೆರಳು
+pdfjs-first-page-button-label = ಮೊದಲ ಪುಟಕ್ಕೆ ತೆರಳು
+pdfjs-last-page-button =
+    .title = ಕೊನೆಯ ಪುಟಕ್ಕೆ ತೆರಳು
+pdfjs-last-page-button-label = ಕೊನೆಯ ಪುಟಕ್ಕೆ ತೆರಳು
+pdfjs-page-rotate-cw-button =
+    .title = ಪ್ರದಕ್ಷಿಣೆಯಲ್ಲಿ ತಿರುಗಿಸು
+pdfjs-page-rotate-cw-button-label = ಪ್ರದಕ್ಷಿಣೆಯಲ್ಲಿ ತಿರುಗಿಸು
+pdfjs-page-rotate-ccw-button =
+    .title = ಅಪ್ರದಕ್ಷಿಣೆಯಲ್ಲಿ ತಿರುಗಿಸು
+pdfjs-page-rotate-ccw-button-label = ಅಪ್ರದಕ್ಷಿಣೆಯಲ್ಲಿ ತಿರುಗಿಸು
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = ಡಾಕ್ಯುಮೆಂಟ್‌ ಗುಣಗಳು...
+pdfjs-document-properties-button-label = ಡಾಕ್ಯುಮೆಂಟ್‌ ಗುಣಗಳು...
+pdfjs-document-properties-file-name = ಕಡತದ ಹೆಸರು:
+pdfjs-document-properties-file-size = ಕಡತದ ಗಾತ್ರ:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } ಬೈಟ್‍ಗಳು)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } ಬೈಟ್‍ಗಳು)
+pdfjs-document-properties-title = ಶೀರ್ಷಿಕೆ:
+pdfjs-document-properties-author = ಕರ್ತೃ:
+pdfjs-document-properties-subject = ವಿಷಯ:
+pdfjs-document-properties-keywords = ಮುಖ್ಯಪದಗಳು:
+pdfjs-document-properties-creation-date = ರಚಿಸಿದ ದಿನಾಂಕ:
+pdfjs-document-properties-modification-date = ಮಾರ್ಪಡಿಸಲಾದ ದಿನಾಂಕ:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = ರಚಿಸಿದವರು:
+pdfjs-document-properties-producer = PDF ಉತ್ಪಾದಕ:
+pdfjs-document-properties-version = PDF ಆವೃತ್ತಿ:
+pdfjs-document-properties-page-count = ಪುಟದ ಎಣಿಕೆ:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -45,6 +91,7 @@ pdfjs-print-button-label = ಮುದ್ರಿಸಿ
 
 ##
 
+pdfjs-document-properties-close-button = ಮುಚ್ಚು
 
 ## Print
 
@@ -56,6 +103,10 @@ pdfjs-printing-not-ready = ಎಚ್ಚರಿಕೆ: PDF ಕಡತವು ಮು�
 pdfjs-toggle-sidebar-button =
     .title = ಬದಿಪಟ್ಟಿಯನ್ನು ಹೊರಳಿಸು
 pdfjs-toggle-sidebar-button-label = ಬದಿಪಟ್ಟಿಯನ್ನು ಹೊರಳಿಸು
+pdfjs-document-outline-button-label = ದಸ್ತಾವೇಜಿನ ಹೊರರೇಖೆ
+pdfjs-attachments-button =
+    .title = ಲಗತ್ತುಗಳನ್ನು ತೋರಿಸು
+pdfjs-attachments-button-label = ಲಗತ್ತುಗಳು
 pdfjs-thumbs-button =
     .title = ಚಿಕ್ಕಚಿತ್ರದಂತೆ ತೋರಿಸು
 pdfjs-thumbs-button-label = ಚಿಕ್ಕಚಿತ್ರಗಳು
@@ -93,6 +144,9 @@ pdfjs-page-scale-width = ಪುಟದ ಅಗಲ
 pdfjs-page-scale-fit = ಪುಟದ ಸರಿಹೊಂದಿಕೆ
 pdfjs-page-scale-auto = ಸ್ವಯಂಚಾಲಿತ ಗಾತ್ರಬದಲಾವಣೆ
 pdfjs-page-scale-actual = ನಿಜವಾದ ಗಾತ್ರ
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -102,6 +156,7 @@ pdfjs-page-scale-actual = ನಿಜವಾದ ಗಾತ್ರ
 pdfjs-loading-error = PDF ಅನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಒಂದು ದೋಷ ಎದುರಾಗಿದೆ.
 pdfjs-invalid-file-error = ಅಮಾನ್ಯವಾದ ಅಥವ ಹಾಳಾದ PDF ಕಡತ.
 pdfjs-missing-file-error = PDF ಕಡತ ಇಲ್ಲ.
+pdfjs-unexpected-response-error = ಅನಿರೀಕ್ಷಿತವಾದ ಪೂರೈಕೆಗಣಕದ ಪ್ರತಿಕ್ರಿಯೆ.
 
 ## Annotations
 
@@ -115,6 +170,8 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = PDF ಅನ್ನು ತೆರೆಯಲು ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ.
+pdfjs-password-invalid = ಅಮಾನ್ಯವಾದ ಗುಪ್ತಪದ, ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
 pdfjs-web-fonts-disabled = ಜಾಲ ಅಕ್ಷರಶೈಲಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ: ಅಡಕಗೊಳಿಸಿದ PDF ಅಕ್ಷರಶೈಲಿಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.
 
 ## Editing
