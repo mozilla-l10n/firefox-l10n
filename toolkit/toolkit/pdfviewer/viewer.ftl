@@ -168,6 +168,7 @@ pdfjs-attachments-button =
 pdfjs-attachments-button-label = Privitci
 pdfjs-layers-button =
     .title = Prikaži slojeve (dvoklik za vraćanje svih slojeva u zadano stanje)
+pdfjs-layers-button-label = Slojevi
 pdfjs-thumbs-button =
     .title = Prikaži minijature
 pdfjs-thumbs-button-label = Minijature
@@ -219,6 +220,10 @@ pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Stranica { $page }
 
 ## Loading indicator messages
 
