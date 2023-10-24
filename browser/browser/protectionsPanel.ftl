@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = הגנת מעקב מתקדמת
     .description = כבויה עבור אתר זה
     .aria-label = הפעלת ההגנות עבור { $host }
+protections-panel-etp-toggle-on =
+    .label = הגנת מעקב מתקדמת
+    .description = פעילה עבור אתר זה
+    .aria-label = הגנת מעקב מתקדמת: פעילה עבור { $host }
+protections-panel-etp-toggle-off =
+    .label = הגנת מעקב מתקדמת
+    .description = כבויה עבור אתר זה
+    .aria-label = הגנת מעקב מתקדמת: כבויה עבור { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = האתר לא עובד?
 # The heading/title of the sub-panel view
