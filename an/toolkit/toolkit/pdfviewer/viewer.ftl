@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Anterior
 pdfjs-next-button =
     .title = Pachina siguient
 pdfjs-next-button-label = Siguient
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Pachina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Achiquir
 pdfjs-zoom-out-button-label = Achiquir
@@ -91,6 +102,11 @@ pdfjs-document-properties-close-button = Zarrar
 
 ## Print
 
+pdfjs-print-progress-message = Se ye preparando la documentación pa imprentar…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Cancelar
 pdfjs-printing-not-supported = Pare cuenta: Iste navegador no maneya totalment as impresions.
 pdfjs-printing-not-ready = Aviso: Encara no se ha cargau completament o PDF ta imprentar-lo.
 
@@ -99,6 +115,9 @@ pdfjs-printing-not-ready = Aviso: Encara no se ha cargau completament o PDF ta i
 pdfjs-toggle-sidebar-button =
     .title = Amostrar u amagar a barra lateral
 pdfjs-toggle-sidebar-button-label = Amostrar a barra lateral
+pdfjs-document-outline-button =
+    .title = Amostrar esquema d'o documento (fer doble clic pa expandir/compactar totz los items)
+pdfjs-document-outline-button-label = Esquema d'o documento
 pdfjs-attachments-button =
     .title = Amostrar os adchuntos
 pdfjs-attachments-button-label = Adchuntos
@@ -107,6 +126,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Miniaturas
 pdfjs-findbar-button =
     .title = Trobar en o documento
+pdfjs-findbar-button-label = Trobar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -121,6 +141,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Trobar
+    .placeholder = Trobar en o documento…
 pdfjs-find-previous-button =
     .title = Trobar l'anterior coincidencia d'a frase
 pdfjs-find-previous-button-label = Anterior
@@ -139,6 +162,9 @@ pdfjs-page-scale-width = Amplaria d'a pachina
 pdfjs-page-scale-fit = Achuste d'a pachina
 pdfjs-page-scale-auto = Grandaria automatica
 pdfjs-page-scale-actual = Grandaria actual
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -165,6 +191,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Introduzca a clau ta ubrir iste fichero PDF.
 pdfjs-password-invalid = Clau invalida. Torna a intentar-lo.
 pdfjs-password-ok-button = Acceptar
+pdfjs-password-cancel-button = Cancelar
 pdfjs-web-fonts-disabled = As fuents web son desactivadas: no se puet incrustar fichers PDF.
 
 ## Editing
