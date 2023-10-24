@@ -130,6 +130,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Fast Web View:
+pdfjs-document-properties-linearized-yes = Yes
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Close
 
 ## Print
@@ -146,6 +151,8 @@ pdfjs-printing-not-ready = Warning: The PDF is not fully loaded for printing.
 
 pdfjs-toggle-sidebar-button =
     .title = Toggle Sidebar
+pdfjs-toggle-sidebar-notification-button =
+    .title = Toggle Sidebar (document contains outline/attachments/layers)
 pdfjs-toggle-sidebar-button-label = Toggle Sidebar
 pdfjs-document-outline-button =
     .title = Show Document Outline (double-click to expand/collapse all items)
@@ -153,6 +160,9 @@ pdfjs-document-outline-button-label = Document Outline
 pdfjs-attachments-button =
     .title = Show Attachments
 pdfjs-attachments-button-label = Attachments
+pdfjs-layers-button =
+    .title = Show Layers (double-click to reset all layers to the default state)
+pdfjs-layers-button-label = Layers
 pdfjs-thumbs-button =
     .title = Show Thumbnails
 pdfjs-thumbs-button-label = Thumbnails
@@ -208,6 +218,10 @@ pdfjs-unexpected-response-error = Unexpected server response.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
