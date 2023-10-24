@@ -39,6 +39,23 @@ pdfjs-open-file-button-label = Öffnen
 pdfjs-print-button =
     .title = Drucken
 pdfjs-print-button-label = Drucken
+pdfjs-save-button =
+    .title = Speichern
+pdfjs-save-button-label = Speichern
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Herunterladen
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Herunterladen
+pdfjs-bookmark-button =
+    .title = Aktuelle Seite (URL von aktueller Seite anzeigen)
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Mit App öffnen
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Mit App öffnen
 
 ##  Secondary toolbar and context menu
 
@@ -63,12 +80,17 @@ pdfjs-cursor-text-select-tool-button-label = Textauswahl-Werkzeug
 pdfjs-cursor-hand-tool-button =
     .title = Hand-Werkzeug aktivieren
 pdfjs-cursor-hand-tool-button-label = Hand-Werkzeug
+pdfjs-scroll-page-button =
+    .title = Seiten einzeln anordnen
+pdfjs-scroll-page-button-label = Einzelseitenanordnung
 pdfjs-scroll-vertical-button =
     .title = Seiten übereinander anordnen
 pdfjs-scroll-vertical-button-label = Vertikale Seitenanordnung
 pdfjs-scroll-horizontal-button =
     .title = Seiten nebeneinander anordnen
 pdfjs-scroll-horizontal-button-label = Horizontale Seitenanordnung
+pdfjs-scroll-wrapped-button =
+    .title = Seiten neben- und übereinander anordnen, abhängig vom Platz
 pdfjs-scroll-wrapped-button-label = Kombinierte Seitenanordnung
 pdfjs-spread-none-button =
     .title = Seiten nicht nebeneinander anzeigen
@@ -141,6 +163,9 @@ pdfjs-document-properties-close-button = Schließen
 ## Print
 
 pdfjs-print-progress-message = Dokument wird für Drucken vorbereitet…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
 pdfjs-print-progress-close-button = Abbrechen
 pdfjs-printing-not-supported = Warnung: Die Drucken-Funktion wird durch diesen Browser nicht vollständig unterstützt.
 pdfjs-printing-not-ready = Warnung: Die PDF-Datei ist nicht vollständig geladen, dies ist für das Drucken aber empfohlen.
@@ -149,6 +174,8 @@ pdfjs-printing-not-ready = Warnung: Die PDF-Datei ist nicht vollständig geladen
 
 pdfjs-toggle-sidebar-button =
     .title = Sidebar umschalten
+pdfjs-toggle-sidebar-notification-button =
+    .title = Sidebar umschalten (Dokument enthält Dokumentstruktur/Anhänge/Ebenen)
 pdfjs-toggle-sidebar-button-label = Sidebar umschalten
 pdfjs-document-outline-button =
     .title = Dokumentstruktur anzeigen (Doppelklicken, um alle Einträge aus- bzw. einzuklappen)
@@ -156,6 +183,9 @@ pdfjs-document-outline-button-label = Dokumentstruktur
 pdfjs-attachments-button =
     .title = Anhänge anzeigen
 pdfjs-attachments-button-label = Anhänge
+pdfjs-layers-button =
+    .title = Ebenen anzeigen (Doppelklicken, um alle Ebenen auf den Standardzustand zurückzusetzen)
+pdfjs-layers-button-label = Ebenen
 pdfjs-thumbs-button =
     .title = Miniaturansichten anzeigen
 pdfjs-thumbs-button-label = Miniaturansichten
@@ -176,6 +206,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Suchen
+    .placeholder = Dokument durchsuchen…
 pdfjs-find-previous-button =
     .title = Vorheriges Vorkommen des Suchbegriffs finden
 pdfjs-find-previous-button-label = Zurück
@@ -184,6 +217,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Weiter
 pdfjs-find-highlight-checkbox = Alle hervorheben
 pdfjs-find-match-case-checkbox-label = Groß-/Kleinschreibung beachten
+pdfjs-find-match-diacritics-checkbox-label = Akzente
 pdfjs-find-entire-word-checkbox-label = Ganze Wörter
 pdfjs-find-reached-top = Anfang des Dokuments erreicht, fahre am Ende fort
 pdfjs-find-reached-bottom = Ende des Dokuments erreicht, fahre am Anfang fort
@@ -195,9 +229,16 @@ pdfjs-page-scale-width = Seitenbreite
 pdfjs-page-scale-fit = Seitengröße
 pdfjs-page-scale-auto = Automatischer Zoom
 pdfjs-page-scale-actual = Originalgröße
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Seite { $page }
 
 ## Loading indicator messages
 
@@ -230,6 +271,12 @@ pdfjs-web-fonts-disabled = Web-Schriftarten sind deaktiviert: Eingebettete PDF-S
 
 ## Editing
 
+pdfjs-editor-stamp-button =
+    .title = Grafiken hinzufügen oder bearbeiten
+pdfjs-editor-stamp-button-label = Grafiken hinzufügen oder bearbeiten
+pdfjs-editor-stamp-add-image-button =
+    .title = Grafik hinzufügen
+pdfjs-editor-stamp-add-image-button-label = Grafik hinzufügen
 
 ## Alt-text dialog
 
