@@ -11,6 +11,28 @@ pdfjs-previous-button-label = ก่อนหน้า
 pdfjs-next-button =
     .title = หน้าถัดไป
 pdfjs-next-button-label = ถัดไป
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = หน้า
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = จาก { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } จาก { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = ซูมออก
+pdfjs-zoom-out-button-label = ซูมออก
+pdfjs-zoom-in-button =
+    .title = ซูมเข้า
+pdfjs-zoom-in-button-label = ซูมเข้า
+pdfjs-zoom-select =
+    .title = ซูม
+pdfjs-presentation-mode-button =
+    .title = สลับเป็นโหมดการนำเสนอ
+pdfjs-presentation-mode-button-label = โหมดการนำเสนอ
 pdfjs-open-file-button =
     .title = เปิดไฟล์
 pdfjs-open-file-button-label = เปิด
@@ -43,6 +65,15 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = คุณสมบัติเอกสาร…
 pdfjs-document-properties-file-name = ชื่อไฟล์:
 pdfjs-document-properties-file-size = ขนาดไฟล์:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } ไบต์)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } ไบต์)
+pdfjs-document-properties-title = ชื่อเรื่อง:
 pdfjs-document-properties-author = ผู้สร้าง:
 pdfjs-document-properties-subject = ชื่อเรื่อง:
 pdfjs-document-properties-keywords = คำสำคัญ:
@@ -56,6 +87,15 @@ pdfjs-document-properties-creator = ผู้สร้าง:
 pdfjs-document-properties-producer = ผู้ผลิต PDF:
 pdfjs-document-properties-version = รุ่น PDF:
 pdfjs-document-properties-page-count = จำนวนหน้า:
+pdfjs-document-properties-page-size = ขนาดหน้า:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = แนวตั้ง
+pdfjs-document-properties-page-size-orientation-landscape = แนวนอน
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = จดหมาย
+pdfjs-document-properties-page-size-name-legal = ข้อกฎหมาย
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -64,18 +104,39 @@ pdfjs-document-properties-page-count = จำนวนหน้า:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = มุมมองเว็บแบบรวดเร็ว:
+pdfjs-document-properties-linearized-yes = ใช่
+pdfjs-document-properties-linearized-no = ไม่
 pdfjs-document-properties-close-button = ปิด
 
 ## Print
 
+pdfjs-print-progress-message = กำลังเตรียมเอกสารสำหรับการพิมพ์…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = ยกเลิก
 pdfjs-printing-not-supported = คำเตือน: เบราว์เซอร์นี้ไม่ได้สนับสนุนการพิมพ์อย่างเต็มที่
 pdfjs-printing-not-ready = คำเตือน: PDF ไม่ได้รับการโหลดอย่างเต็มที่สำหรับการพิมพ์
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = เปิด/ปิดแถบข้าง
+pdfjs-toggle-sidebar-button-label = เปิด/ปิดแถบข้าง
+pdfjs-document-outline-button =
+    .title = แสดงเค้าร่างเอกสาร (คลิกสองครั้งเพื่อขยาย/ยุบรายการทั้งหมด)
+pdfjs-document-outline-button-label = เค้าร่างเอกสาร
+pdfjs-attachments-button =
+    .title = แสดงไฟล์แนบ
+pdfjs-attachments-button-label = ไฟล์แนบ
 pdfjs-thumbs-button =
     .title = แสดงภาพขนาดย่อ
 pdfjs-thumbs-button-label = ภาพขนาดย่อ
@@ -96,17 +157,28 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = ค้นหา
+    .placeholder = ค้นหาในเอกสาร…
+pdfjs-find-previous-button =
+    .title = หาตำแหน่งก่อนหน้าของวลี
 pdfjs-find-previous-button-label = ก่อนหน้า
+pdfjs-find-next-button =
+    .title = หาตำแหน่งถัดไปของวลี
 pdfjs-find-next-button-label = ถัดไป
 pdfjs-find-highlight-checkbox = เน้นสีทั้งหมด
 pdfjs-find-match-case-checkbox-label = ตัวพิมพ์ใหญ่เล็กตรงกัน
+pdfjs-find-entire-word-checkbox-label = ทั้งคำ
 pdfjs-find-reached-top = ค้นหาถึงจุดเริ่มต้นของหน้า เริ่มค้นต่อจากด้านล่าง
 pdfjs-find-reached-bottom = ค้นหาถึงจุดสิ้นสุดหน้า เริ่มค้นต่อจากด้านบน
+pdfjs-find-not-found = ไม่พบวลี
 
 ## Predefined zoom values
 
 pdfjs-page-scale-width = ความกว้างหน้า
 pdfjs-page-scale-fit = พอดีหน้า
+pdfjs-page-scale-auto = ซูมอัตโนมัติ
+pdfjs-page-scale-actual = ขนาดจริง
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
@@ -116,7 +188,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Loading indicator messages
 
+pdfjs-loading-error = เกิดข้อผิดพลาดขณะโหลด PDF
 pdfjs-invalid-file-error = ไฟล์ PDF ไม่ถูกต้องหรือเสียหาย
+pdfjs-missing-file-error = ไฟล์ PDF หายไป
+pdfjs-unexpected-response-error = การตอบสนองของเซิร์ฟเวอร์ที่ไม่คาดคิด
 
 ## Annotations
 
@@ -130,9 +205,11 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = ป้อนรหัสผ่านเพื่อเปิดไฟล์ PDF นี้
 pdfjs-password-invalid = รหัสผ่านไม่ถูกต้อง โปรดลองอีกครั้ง
 pdfjs-password-ok-button = ตกลง
 pdfjs-password-cancel-button = ยกเลิก
+pdfjs-web-fonts-disabled = แบบอักษรเว็บถูกปิดใช้งาน: ไม่สามารถใช้แบบอักษร PDF ฝังตัว
 
 ## Editing
 
