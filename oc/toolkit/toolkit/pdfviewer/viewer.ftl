@@ -23,9 +23,27 @@ pdfjs-presentation-mode-button-label = Mòde Presentacion
 pdfjs-open-file-button =
     .title = Dobrir lo fichièr
 pdfjs-open-file-button-label = Dobrir
+pdfjs-print-button =
+    .title = Imprimir
+pdfjs-print-button-label = Imprimir
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Aisinas
+pdfjs-tools-button-label = Aisinas
+pdfjs-first-page-button =
+    .title = Anar a la primièra pagina
+pdfjs-first-page-button-label = Anar a la primièra pagina
+pdfjs-last-page-button =
+    .title = Anar a la darrièra pagina
+pdfjs-last-page-button-label = Anar a la darrièra pagina
+pdfjs-page-rotate-cw-button =
+    .title = Rotacion orària
+pdfjs-page-rotate-cw-button-label = Rotacion orària
+pdfjs-page-rotate-ccw-button =
+    .title = Rotacion antiorària
+pdfjs-page-rotate-ccw-button-label = Rotacion antiorària
 
 ## Document properties dialog
 
@@ -46,6 +64,9 @@ pdfjs-open-file-button-label = Dobrir
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Afichar/amagar lo panèl lateral
+pdfjs-toggle-sidebar-button-label = Afichar/amagar lo panèl lateral
 pdfjs-thumbs-button =
     .title = Afichar las vinhetas
 pdfjs-thumbs-button-label = Vinhetas
@@ -63,6 +84,16 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Tròba l'ocurréncia precedenta de la frasa
+pdfjs-find-previous-button-label = Precedent
+pdfjs-find-next-button =
+    .title = Tròba l'ocurréncia venenta de la frasa
+pdfjs-find-next-button-label = Seguent
+pdfjs-find-highlight-checkbox = Suslinhar tot
+pdfjs-find-match-case-checkbox-label = Respectar la cassa
+pdfjs-find-reached-bottom = Bas de la pagina atench, perseguida al començament
+pdfjs-find-not-found = Frasa pas trobada
 
 ## Predefined zoom values
 
@@ -76,12 +107,22 @@ pdfjs-page-scale-actual = Talha vertadièra
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = Fichièr PDF invalid o corromput.
+pdfjs-missing-file-error = Fichièr PDF mancant.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Anotacion { $type }]
 
 ## Password
 
+pdfjs-password-ok-button = D'acòrdi
 
 ## Editing
 
