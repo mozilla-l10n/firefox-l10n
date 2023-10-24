@@ -63,6 +63,15 @@ pdfjs-cursor-text-select-tool-button-label = כלי בחירת טקסט
 pdfjs-cursor-hand-tool-button =
     .title = הפעלת כלי היד
 pdfjs-cursor-hand-tool-button-label = כלי יד
+pdfjs-scroll-vertical-button =
+    .title = שימוש בגלילה אנכית
+pdfjs-scroll-vertical-button-label = גלילה אנכית
+pdfjs-scroll-horizontal-button =
+    .title = שימוש בגלילה אופקית
+pdfjs-scroll-horizontal-button-label = גלילה אופקית
+pdfjs-scroll-wrapped-button =
+    .title = שימוש בגלילה רציפה
+pdfjs-scroll-wrapped-button-label = גלילה רציפה
 pdfjs-spread-none-button =
     .title = לא לצרף מפתחי עמודים
 pdfjs-spread-none-button-label = ללא מפתחים
@@ -124,6 +133,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = תצוגת דף מהירה:
+pdfjs-document-properties-linearized-yes = כן
+pdfjs-document-properties-linearized-no = לא
 pdfjs-document-properties-close-button = סגירה
 
 ## Print
@@ -166,19 +180,26 @@ pdfjs-thumb-page-canvas =
 pdfjs-find-input =
     .title = חיפוש
     .placeholder = חיפוש במסמך…
+pdfjs-find-previous-button =
+    .title = מציאת המופע הקודם של הביטוי
 pdfjs-find-previous-button-label = קודם
+pdfjs-find-next-button =
+    .title = מציאת המופע הבא של הביטוי
 pdfjs-find-next-button-label = הבא
 pdfjs-find-highlight-checkbox = הדגשת הכול
 pdfjs-find-match-case-checkbox-label = התאמת אותיות
 pdfjs-find-match-diacritics-checkbox-label = התאמה דיאקריטית
+pdfjs-find-entire-word-checkbox-label = מילים שלמות
 pdfjs-find-reached-top = הגיע לראש הדף, ממשיך מלמטה
 pdfjs-find-reached-bottom = הגיע לסוף הדף, ממשיך מלמעלה
+pdfjs-find-not-found = הביטוי לא נמצא
 
 ## Predefined zoom values
 
 pdfjs-page-scale-width = רוחב העמוד
 pdfjs-page-scale-fit = התאמה לעמוד
 pdfjs-page-scale-auto = מרחק מתצוגה אוטומטי
+pdfjs-page-scale-actual = גודל אמיתי
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
@@ -195,6 +216,10 @@ pdfjs-unexpected-response-error = תגובת שרת לא צפויה.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
