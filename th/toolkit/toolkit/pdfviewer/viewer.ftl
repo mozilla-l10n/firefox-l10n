@@ -291,6 +291,7 @@ pdfjs-editor-free-text-color-input = สี
 pdfjs-editor-free-text-size-input = ขนาด
 pdfjs-editor-ink-color-input = สี
 pdfjs-editor-ink-thickness-input = ความหนา
+pdfjs-editor-ink-opacity-input = ความทึบ
 pdfjs-editor-stamp-add-image-button =
     .title = เพิ่มภาพ
 pdfjs-editor-stamp-add-image-button-label = เพิ่มภาพ
