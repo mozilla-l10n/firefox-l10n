@@ -16,6 +16,8 @@ pdfjs-open-file-button-label = Нээ
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = Файлын нэр:
+pdfjs-document-properties-title = Гарчиг:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -59,6 +61,7 @@ pdfjs-find-not-found = Олдсонгүй
 
 ## Password
 
+pdfjs-password-ok-button = OK
 
 ## Editing
 
