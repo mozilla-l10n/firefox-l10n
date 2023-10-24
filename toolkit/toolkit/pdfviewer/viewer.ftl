@@ -41,6 +41,32 @@ pdfjs-last-page-button-label = చివరి పేజీకి వెళ్�
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = పత్రము లక్షణాలు...
+pdfjs-document-properties-button-label = పత్రము లక్షణాలు...
+pdfjs-document-properties-file-name = దస్త్రం పేరు:
+pdfjs-document-properties-file-size = దస్త్రం పరిమాణం:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = శీర్షిక:
+pdfjs-document-properties-author = మూలకర్త:
+pdfjs-document-properties-subject = విషయం:
+pdfjs-document-properties-creation-date = సృష్టించిన తేదీ:
+pdfjs-document-properties-modification-date = సవరించిన తేదీ:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = సృష్టికర్త:
+pdfjs-document-properties-producer = PDF ఉత్పాదకి:
+pdfjs-document-properties-version = PDF వర్షన్:
+pdfjs-document-properties-page-count = పేజీల సంఖ్య:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -52,6 +78,7 @@ pdfjs-last-page-button-label = చివరి పేజీకి వెళ్�
 
 ##
 
+pdfjs-document-properties-close-button = మూసివేయి
 
 ## Print
 
@@ -62,6 +89,9 @@ pdfjs-printing-not-ready = హెచ్చరిక: ముద్రణ కొ�
 pdfjs-toggle-sidebar-button =
     .title = పక్కపట్టీ మార్చు
 pdfjs-toggle-sidebar-button-label = పక్కపట్టీ మార్చు
+pdfjs-attachments-button =
+    .title = అనుబంధాలు చూపు
+pdfjs-attachments-button-label = అనుబంధాలు
 pdfjs-thumbs-button =
     .title = థంబ్‌నైల్స్ చూపు
 pdfjs-thumbs-button-label = థంబ్‌నైల్స్
@@ -87,6 +117,9 @@ pdfjs-page-scale-width = పేజీ వెడల్పు
 pdfjs-page-scale-fit = పేజీ అమర్పు
 pdfjs-page-scale-auto = స్వయంచాలక జూమ్
 pdfjs-page-scale-actual = యథార్ధ పరిమాణం
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
