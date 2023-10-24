@@ -21,6 +21,9 @@ pdfjs-presentation-mode-button-label = ਪਰਿਜੈਂਟੇਸ਼ਨ ਮੋਡ
 pdfjs-open-file-button =
     .title = ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹੋ
 pdfjs-open-file-button-label = ਖੋਲ੍ਹੋ
+pdfjs-print-button =
+    .title = ਪਰਿੰਟ
+pdfjs-print-button-label = ਪਰਿੰਟ
 
 ##  Secondary toolbar and context menu
 
