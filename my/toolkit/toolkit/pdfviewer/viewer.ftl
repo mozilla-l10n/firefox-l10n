@@ -11,6 +11,17 @@ pdfjs-previous-button-label = အရင်နေရာ
 pdfjs-next-button =
     .title = ရှေ့ စာမျက်နှာ
 pdfjs-next-button-label = နောက်တခု
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = စာမျက်နှာ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } ၏
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pagesCount } ၏ { $pageNumber })
 pdfjs-zoom-out-button =
     .title = ချုံ့ပါ
 pdfjs-zoom-out-button-label = ချုံ့ပါ
@@ -19,6 +30,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = ချဲ့ပါ
 pdfjs-zoom-select =
     .title = ချုံ့/ချဲ့ပါ
+pdfjs-presentation-mode-button =
+    .title = ဆွေးနွေးတင်ပြစနစ်သို့ ကူးပြောင်းပါ
+pdfjs-presentation-mode-button-label = ဆွေးနွေးတင်ပြစနစ်
 pdfjs-open-file-button =
     .title = ဖိုင်အားဖွင့်ပါ။
 pdfjs-open-file-button-label = ဖွင့်ပါ
@@ -84,6 +98,11 @@ pdfjs-document-properties-close-button = ပိတ်
 
 ## Print
 
+pdfjs-print-progress-message = Preparing document for printing…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = ပယ်​ဖျက်ပါ
 pdfjs-printing-not-supported = သတိပေးချက်၊ပရင့်ထုတ်ခြင်းကိုဤဘယောက်ဆာသည် ပြည့်ဝစွာထောက်ပံ့မထားပါ ။
 pdfjs-printing-not-ready = သတိပေးချက်: ယခု PDF ဖိုင်သည် ပုံနှိပ်ရန် မပြည့်စုံပါ
 
@@ -92,6 +111,9 @@ pdfjs-printing-not-ready = သတိပေးချက်: ယခု PDF ဖိ�
 pdfjs-toggle-sidebar-button =
     .title = ဘေးတန်းဖွင့်ပိတ်
 pdfjs-toggle-sidebar-button-label = ဖွင့်ပိတ် ဆလိုက်ဒါ
+pdfjs-document-outline-button =
+    .title = စာတမ်းအကျဉ်းချုပ်ကို ပြပါ (စာရင်းအားလုံးကို ချုံ့/ချဲ့ရန် ကလစ်နှစ်ချက်နှိပ်ပါ)
+pdfjs-document-outline-button-label = စာတမ်းအကျဉ်းချုပ်
 pdfjs-attachments-button =
     .title = တွဲချက်များ ပြပါ
 pdfjs-attachments-button-label = တွဲထားချက်များ
@@ -115,6 +137,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = ရှာဖွေပါ
+    .placeholder = စာတမ်းထဲတွင် ရှာဖွေရန်…
 pdfjs-find-previous-button =
     .title = စကားစုရဲ့ အရင် ​ဖြစ်ပွားမှုကို ရှာဖွေပါ
 pdfjs-find-previous-button-label = နောက်သို့
@@ -159,6 +184,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = ယခု PDF ကို ဖွင့်ရန် စကားဝှက်ကို ရိုက်ပါ။
 pdfjs-password-invalid = စာဝှက် မှားသည်။ ထပ်ကြိုးစားကြည့်ပါ။
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = ပယ်​ဖျက်ပါ
