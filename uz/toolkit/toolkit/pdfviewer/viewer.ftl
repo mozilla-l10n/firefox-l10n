@@ -157,6 +157,7 @@ pdfjs-loading-error = PDF yuklanayotganda xato yuz berdi.
 pdfjs-invalid-file-error = Xato yoki buzuq PDF fayli.
 pdfjs-missing-file-error = PDF fayl kerak.
 pdfjs-unexpected-response-error = Kutilmagan server javobi.
+pdfjs-rendering-error = Sahifa renderlanayotganda xato yuz berdi.
 
 ## Annotations
 
