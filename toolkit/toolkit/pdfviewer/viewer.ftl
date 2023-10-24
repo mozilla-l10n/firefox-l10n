@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Mevcut ana hat öğesi
 pdfjs-findbar-button =
     .title = Belgede bul
 pdfjs-findbar-button-label = Bul
+pdfjs-additional-layers = Ek katmanlar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
