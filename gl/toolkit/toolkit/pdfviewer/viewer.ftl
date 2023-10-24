@@ -206,6 +206,10 @@ pdfjs-unexpected-response-error = Resposta inesperada do servidor.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
