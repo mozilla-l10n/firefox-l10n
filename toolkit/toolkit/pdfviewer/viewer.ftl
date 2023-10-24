@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Vorige
 pdfjs-next-button =
     .title = Volgende pagina
 pdfjs-next-button-label = Volgende
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Pagina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = van { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } van { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Uitzoomen
 pdfjs-zoom-out-button-label = Uitzoomen
@@ -46,6 +57,30 @@ pdfjs-page-rotate-cw-button-label = Rechtsom draaien
 pdfjs-page-rotate-ccw-button =
     .title = Linksom draaien
 pdfjs-page-rotate-ccw-button-label = Linksom draaien
+pdfjs-cursor-text-select-tool-button =
+    .title = Tekstselectiehulpmiddel inschakelen
+pdfjs-cursor-text-select-tool-button-label = Tekstselectiehulpmiddel
+pdfjs-cursor-hand-tool-button =
+    .title = Handhulpmiddel inschakelen
+pdfjs-cursor-hand-tool-button-label = Handhulpmiddel
+pdfjs-scroll-vertical-button =
+    .title = Verticaal scrollen gebruiken
+pdfjs-scroll-vertical-button-label = Verticaal scrollen
+pdfjs-scroll-horizontal-button =
+    .title = Horizontaal scrollen gebruiken
+pdfjs-scroll-horizontal-button-label = Horizontaal scrollen
+pdfjs-scroll-wrapped-button =
+    .title = Scrollen met terugloop gebruiken
+pdfjs-scroll-wrapped-button-label = Scrollen met terugloop
+pdfjs-spread-none-button =
+    .title = Dubbele pagina’s niet samenvoegen
+pdfjs-spread-none-button-label = Geen dubbele pagina’s
+pdfjs-spread-odd-button =
+    .title = Dubbele pagina’s samenvoegen vanaf oneven pagina’s
+pdfjs-spread-odd-button-label = Oneven dubbele pagina’s
+pdfjs-spread-even-button =
+    .title = Dubbele pagina’s samenvoegen vanaf even pagina’s
+pdfjs-spread-even-button-label = Even dubbele pagina’s
 
 ## Document properties dialog
 
@@ -71,9 +106,19 @@ pdfjs-document-properties-modification-date = Wijzigingsdatum:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Maker:
 pdfjs-document-properties-producer = PDF-producent:
 pdfjs-document-properties-version = PDF-versie:
 pdfjs-document-properties-page-count = Aantal pagina’s:
+pdfjs-document-properties-page-size = Paginagrootte:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = staand
+pdfjs-document-properties-page-size-orientation-landscape = liggend
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -82,13 +127,25 @@ pdfjs-document-properties-page-count = Aantal pagina’s:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Snelle webweergave:
+pdfjs-document-properties-linearized-yes = Ja
+pdfjs-document-properties-linearized-no = Nee
 pdfjs-document-properties-close-button = Sluiten
 
 ## Print
 
+pdfjs-print-progress-message = Document voorbereiden voor afdrukken…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Annuleren
 pdfjs-printing-not-supported = Waarschuwing: afdrukken wordt niet volledig ondersteund door deze browser.
 pdfjs-printing-not-ready = Waarschuwing: de PDF is niet volledig geladen voor afdrukken.
 
@@ -97,6 +154,9 @@ pdfjs-printing-not-ready = Waarschuwing: de PDF is niet volledig geladen voor af
 pdfjs-toggle-sidebar-button =
     .title = Zijbalk in-/uitschakelen
 pdfjs-toggle-sidebar-button-label = Zijbalk in-/uitschakelen
+pdfjs-document-outline-button =
+    .title = Documentoverzicht tonen (dubbelklik om alle items uit/samen te vouwen)
+pdfjs-document-outline-button-label = Documentoverzicht
 pdfjs-attachments-button =
     .title = Bijlagen tonen
 pdfjs-attachments-button-label = Bijlagen
@@ -120,10 +180,20 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Zoeken
+    .placeholder = Zoeken in document…
+pdfjs-find-previous-button =
+    .title = De vorige overeenkomst van de tekst zoeken
 pdfjs-find-previous-button-label = Vorige
+pdfjs-find-next-button =
+    .title = De volgende overeenkomst van de tekst zoeken
 pdfjs-find-next-button-label = Volgende
 pdfjs-find-highlight-checkbox = Alles markeren
 pdfjs-find-match-case-checkbox-label = Hoofdlettergevoelig
+pdfjs-find-entire-word-checkbox-label = Hele woorden
+pdfjs-find-reached-top = Bovenkant van document bereikt, doorgegaan vanaf onderkant
+pdfjs-find-reached-bottom = Onderkant van document bereikt, doorgegaan vanaf bovenkant
 pdfjs-find-not-found = Tekst niet gevonden
 
 ## Predefined zoom values
