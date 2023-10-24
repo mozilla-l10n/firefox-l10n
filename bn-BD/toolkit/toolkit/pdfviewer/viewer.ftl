@@ -55,6 +55,7 @@ pdfjs-page-rotate-ccw-button =
 pdfjs-page-rotate-ccw-button-label = ঘড়ির কাঁটার বিপরীতে ঘোরাও
 pdfjs-cursor-hand-tool-button =
     .title = হ্যান্ড টুল সক্রিয় করুন
+pdfjs-cursor-hand-tool-button-label = হ্যান্ড টুল
 
 ## Document properties dialog
 
@@ -85,6 +86,15 @@ pdfjs-document-properties-creator = প্রস্তুতকারক:
 pdfjs-document-properties-producer = পিডিএফ প্রস্তুতকারক:
 pdfjs-document-properties-version = পিডিএফ সংষ্করণ:
 pdfjs-document-properties-page-count = মোট পাতা:
+pdfjs-document-properties-page-size = পাতার সাইজ:
+pdfjs-document-properties-page-size-unit-inches = এর মধ্যে
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = উলম্ব
+pdfjs-document-properties-page-size-orientation-landscape = অনুভূমিক
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = লেটার
+pdfjs-document-properties-page-size-name-legal = লীগাল
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -93,6 +103,8 @@ pdfjs-document-properties-page-count = মোট পাতা:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
