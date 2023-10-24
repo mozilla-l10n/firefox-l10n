@@ -133,6 +133,7 @@ pdfjs-find-not-found = Фраза није пронађена
 ## Predefined zoom values
 
 pdfjs-page-scale-width = Ширина странице
+pdfjs-page-scale-fit = Прилагоди страницу
 pdfjs-page-scale-auto = Аутоматско увеличавање
 pdfjs-page-scale-actual = Стварна величина
 # Variables:
