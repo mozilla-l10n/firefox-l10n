@@ -60,6 +60,24 @@ pdfjs-cursor-text-select-tool-button-label = Text Selection Tool
 pdfjs-cursor-hand-tool-button =
     .title = Enable Hand Tool
 pdfjs-cursor-hand-tool-button-label = Hand Tool
+pdfjs-scroll-vertical-button =
+    .title = Use Vertical Scrolling
+pdfjs-scroll-vertical-button-label = Vertical Scrolling
+pdfjs-scroll-horizontal-button =
+    .title = Use Horizontal Scrolling
+pdfjs-scroll-horizontal-button-label = Horizontal Scrolling
+pdfjs-scroll-wrapped-button =
+    .title = Use Wrapped Scrolling
+pdfjs-scroll-wrapped-button-label = Wrapped Scrolling
+pdfjs-spread-none-button =
+    .title = Do not join page spreads
+pdfjs-spread-none-button-label = No Spreads
+pdfjs-spread-odd-button =
+    .title = Join page spreads starting with odd-numbered pages
+pdfjs-spread-odd-button-label = Odd Spreads
+pdfjs-spread-even-button =
+    .title = Join page spreads starting with even-numbered pages
+pdfjs-spread-even-button-label = Even Spreads
 
 ## Document properties dialog
 
@@ -90,6 +108,15 @@ pdfjs-document-properties-creator = Creator:
 pdfjs-document-properties-producer = PDF Producer:
 pdfjs-document-properties-version = PDF Version:
 pdfjs-document-properties-page-count = Page Count:
+pdfjs-document-properties-page-size = Page Size:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portrait
+pdfjs-document-properties-page-size-orientation-landscape = landscape
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -98,6 +125,8 @@ pdfjs-document-properties-page-count = Page Count:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
