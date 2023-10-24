@@ -93,6 +93,15 @@ pdfjs-document-properties-creator = निर्माता:
 pdfjs-document-properties-producer = PDF निर्माता:
 pdfjs-document-properties-version = PDF आवृत्ती:
 pdfjs-document-properties-page-count = पृष्ठ संख्या:
+pdfjs-document-properties-page-size = पृष्ठ आकार:
+pdfjs-document-properties-page-size-unit-inches = इंच
+pdfjs-document-properties-page-size-unit-millimeters = मीमी
+pdfjs-document-properties-page-size-orientation-portrait = उभी मांडणी
+pdfjs-document-properties-page-size-orientation-landscape = आडवे
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,6 +110,8 @@ pdfjs-document-properties-page-count = पृष्ठ संख्या:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -158,6 +169,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = पुढील
 pdfjs-find-highlight-checkbox = सर्व ठळक करा
 pdfjs-find-match-case-checkbox-label = आकार जुळवा
+pdfjs-find-entire-word-checkbox-label = संपूर्ण शब्द
 pdfjs-find-reached-top = दस्तऐवजाच्या शीर्षकास पोहचले, तळपासून पुढे
 pdfjs-find-reached-bottom = दस्तऐवजाच्या तळाला पोहचले, शीर्षकापासून पुढे
 pdfjs-find-not-found = वाकप्रयोग आढळले नाही
