@@ -42,6 +42,9 @@ pdfjs-print-button-label = Imprimir
 pdfjs-save-button =
     .title = Guardar
 pdfjs-save-button-label = Guardar
+pdfjs-bookmark-button =
+    .title = Página actual (Ver URL de la página actual)
+pdfjs-bookmark-button-label = Página actual
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
     .title = Abrir en la aplicación
