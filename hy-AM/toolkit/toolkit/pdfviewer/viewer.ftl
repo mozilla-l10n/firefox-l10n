@@ -77,6 +77,14 @@ pdfjs-document-properties-creator = Ստեղծող.
 pdfjs-document-properties-producer = PDF-ի հեղինակը.
 pdfjs-document-properties-version = PDF-ի տարբերակը.
 pdfjs-document-properties-page-count = Էջերի քանակը.
+pdfjs-document-properties-page-size = Էջի չափը.
+pdfjs-document-properties-page-size-unit-millimeters = մմ
+pdfjs-document-properties-page-size-orientation-portrait = ուղղաձիգ
+pdfjs-document-properties-page-size-orientation-landscape = հորիզոնական
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Նամակ
+pdfjs-document-properties-page-size-name-legal = Օրինական
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -85,6 +93,8 @@ pdfjs-document-properties-page-count = Էջերի քանակը.
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
