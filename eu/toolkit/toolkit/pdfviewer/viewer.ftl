@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Ireki
 pdfjs-print-button =
     .title = Inprimatu
 pdfjs-print-button-label = Inprimatu
+pdfjs-save-button =
+    .title = Gorde
+pdfjs-save-button-label = Gorde
+pdfjs-bookmark-button =
+    .title = Uneko orria (ikusi uneko orriaren URLa)
+pdfjs-bookmark-button-label = Uneko orria
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Ireki aplikazioan
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Ireki aplikazioan
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Testuaren hautapen tresna
 pdfjs-cursor-hand-tool-button =
     .title = Gaitu eskuaren tresna
 pdfjs-cursor-hand-tool-button-label = Eskuaren tresna
+pdfjs-scroll-page-button =
+    .title = Erabili orriaren korritzea
+pdfjs-scroll-page-button-label = Orriaren korritzea
 pdfjs-scroll-vertical-button =
     .title = Erabili korritze bertikala
 pdfjs-scroll-vertical-button-label = Korritze bertikala
@@ -154,6 +169,8 @@ pdfjs-printing-not-ready = Abisua: PDFa ez dago erabat kargatuta inprimatzeko.
 
 pdfjs-toggle-sidebar-button =
     .title = Txandakatu alboko barra
+pdfjs-toggle-sidebar-notification-button =
+    .title = Txandakatu alboko barra (dokumentuak eskema/eranskinak/geruzak ditu)
 pdfjs-toggle-sidebar-button-label = Txandakatu alboko barra
 pdfjs-document-outline-button =
     .title = Erakutsi dokumentuaren eskema (klik bikoitza elementu guztiak zabaltzeko/tolesteko)
@@ -161,9 +178,15 @@ pdfjs-document-outline-button-label = Dokumentuaren eskema
 pdfjs-attachments-button =
     .title = Erakutsi eranskinak
 pdfjs-attachments-button-label = Eranskinak
+pdfjs-layers-button =
+    .title = Erakutsi geruzak (klik bikoitza geruza guztiak egoera lehenetsira berrezartzeko)
+pdfjs-layers-button-label = Geruzak
 pdfjs-thumbs-button =
     .title = Erakutsi koadro txikiak
 pdfjs-thumbs-button-label = Koadro txikiak
+pdfjs-current-outline-item-button =
+    .title = Bilatu uneko eskemaren elementua
+pdfjs-current-outline-item-button-label = Uneko eskemaren elementua
 pdfjs-findbar-button =
     .title = Bilatu dokumentuan
 pdfjs-findbar-button-label = Bilatu
@@ -192,6 +215,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Hurrengoa
 pdfjs-find-highlight-checkbox = Nabarmendu guztia
 pdfjs-find-match-case-checkbox-label = Bat etorri maiuskulekin/minuskulekin
+pdfjs-find-match-diacritics-checkbox-label = Bereizi diakritikoak
 pdfjs-find-entire-word-checkbox-label = Hitz osoak
 pdfjs-find-reached-top = Dokumentuaren hasierara heldu da, bukaeratik jarraitzen
 pdfjs-find-reached-bottom = Dokumentuaren bukaerara heldu da, hasieratik jarraitzen
@@ -209,6 +233,10 @@ pdfjs-page-scale-percent = %{ $scale }
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = { $page }. orria
 
 ## Loading indicator messages
 
@@ -216,6 +244,7 @@ pdfjs-loading-error = Errorea gertatu da PDFa kargatzean.
 pdfjs-invalid-file-error = PDF fitxategi baliogabe edo hondatua.
 pdfjs-missing-file-error = PDF fitxategia falta da.
 pdfjs-unexpected-response-error = Espero gabeko zerbitzariaren erantzuna.
+pdfjs-rendering-error = Errorea gertatu da orria errendatzean.
 
 ## Annotations
 
@@ -241,9 +270,49 @@ pdfjs-web-fonts-disabled = Webeko letra-tipoak desgaituta daude: ezin dira kapsu
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Testua
+pdfjs-editor-free-text-button-label = Testua
+pdfjs-editor-ink-button =
+    .title = Marrazkia
+pdfjs-editor-ink-button-label = Marrazkia
+pdfjs-editor-stamp-button =
+    .title = Gehitu edo editatu irudiak
+pdfjs-editor-stamp-button-label = Gehitu edo editatu irudiak
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Kolorea
+pdfjs-editor-free-text-size-input = Tamaina
+pdfjs-editor-ink-color-input = Kolorea
+pdfjs-editor-ink-thickness-input = Loditasuna
+pdfjs-editor-ink-opacity-input = Opakutasuna
+pdfjs-editor-stamp-add-image-button =
+    .title = Gehitu irudia
+pdfjs-editor-stamp-add-image-button-label = Gehitu irudia
+pdfjs-free-text =
+    .aria-label = Testu-editorea
+pdfjs-free-text-default-content = Hasi idazten…
+pdfjs-ink =
+    .aria-label = Marrazki-editorea
+pdfjs-ink-canvas =
+    .aria-label = Erabiltzaileak sortutako irudia
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Testu alternatiboa
+pdfjs-editor-alt-text-edit-button-label = Editatu testu alternatiboa
+pdfjs-editor-alt-text-dialog-label = Aukeratu aukera
+pdfjs-editor-alt-text-dialog-description = Testu alternatiboak laguntzen du jendeak ezin duenean irudia ikusi edo ez denean kargatzen.
+pdfjs-editor-alt-text-add-description-label = Gehitu azalpena
+pdfjs-editor-alt-text-add-description-description = Saiatu idazten gaia, ezarpena edo ekintzak deskribatzen dituen esaldi 1 edo 2.
+pdfjs-editor-alt-text-mark-decorative-label = Markatu apaingarri gisa
+pdfjs-editor-alt-text-mark-decorative-description = Irudiak apaingarrientzat erabiltzen da, adibidez ertz edo ur-marketarako.
+pdfjs-editor-alt-text-cancel-button = Utzi
+pdfjs-editor-alt-text-save-button = Gorde
+pdfjs-editor-alt-text-decorative-tooltip = Apaingarri gisa markatuta
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Adibidez, "gizon gaztea mahaian eserita dago bazkaltzeko"
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
