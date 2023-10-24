@@ -39,6 +39,11 @@ pdfjs-open-file-button-label = Buka
 pdfjs-print-button =
     .title = Cetak
 pdfjs-print-button-label = Cetak
+pdfjs-save-button =
+    .title = Simpan
+pdfjs-save-button-label = Simpan
+pdfjs-bookmark-button =
+    .title = Laman Saat Ini (Lihat URL dari Laman Sekarang)
 
 ##  Secondary toolbar and context menu
 
@@ -154,6 +159,8 @@ pdfjs-printing-not-ready = Peringatan: Berkas PDF masih belum dimuat secara leng
 
 pdfjs-toggle-sidebar-button =
     .title = Aktif/Nonaktifkan Bilah Samping
+pdfjs-toggle-sidebar-notification-button =
+    .title = Aktif/Nonaktifkan Bilah Samping (dokumen berisi kerangka/lampiran/lapisan)
 pdfjs-toggle-sidebar-button-label = Aktif/Nonaktifkan Bilah Samping
 pdfjs-document-outline-button =
     .title = Tampilkan Kerangka Dokumen (klik ganda untuk membentangkan/menciutkan semua item)
@@ -161,9 +168,13 @@ pdfjs-document-outline-button-label = Kerangka Dokumen
 pdfjs-attachments-button =
     .title = Tampilkan Lampiran
 pdfjs-attachments-button-label = Lampiran
+pdfjs-layers-button-label = Lapisan
 pdfjs-thumbs-button =
     .title = Tampilkan Miniatur
 pdfjs-thumbs-button-label = Miniatur
+pdfjs-current-outline-item-button =
+    .title = Cari Butir Ikhtisar Saat Ini
+pdfjs-current-outline-item-button-label = Butir Ikhtisar Saat Ini
 pdfjs-findbar-button =
     .title = Temukan di Dokumen
 pdfjs-findbar-button-label = Temukan
@@ -192,6 +203,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Selanjutnya
 pdfjs-find-highlight-checkbox = Sorot semuanya
 pdfjs-find-match-case-checkbox-label = Cocokkan BESAR/kecil
+pdfjs-find-match-diacritics-checkbox-label = Pencocokan Diakritik
 pdfjs-find-entire-word-checkbox-label = Seluruh teks
 pdfjs-find-reached-top = Sampai di awal dokumen, dilanjutkan dari bawah
 pdfjs-find-reached-bottom = Sampai di akhir dokumen, dilanjutkan dari atas
@@ -216,6 +228,7 @@ pdfjs-loading-error = Galat terjadi saat memuat PDF.
 pdfjs-invalid-file-error = Berkas PDF tidak valid atau rusak.
 pdfjs-missing-file-error = Berkas PDF tidak ada.
 pdfjs-unexpected-response-error = Balasan server yang tidak diharapkan.
+pdfjs-rendering-error = Galat terjadi saat merender laman.
 
 ## Annotations
 
@@ -241,6 +254,23 @@ pdfjs-web-fonts-disabled = Font web dinonaktifkan: tidak dapat menggunakan font 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Teks
+pdfjs-editor-free-text-button-label = Teks
+pdfjs-editor-ink-button =
+    .title = Gambar
+pdfjs-editor-ink-button-label = Gambar
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Warna
+pdfjs-editor-free-text-size-input = Ukuran
+pdfjs-editor-ink-color-input = Warna
+pdfjs-editor-ink-thickness-input = Ketebalan
+pdfjs-editor-ink-opacity-input = Opasitas
+pdfjs-free-text =
+    .aria-label = Editor Teks
+pdfjs-free-text-default-content = Mulai mengetik…
+pdfjs-ink =
+    .aria-label = Editor Gambar
 
 ## Alt-text dialog
 
