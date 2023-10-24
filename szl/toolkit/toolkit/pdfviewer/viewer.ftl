@@ -75,6 +75,12 @@ pdfjs-scroll-wrapped-button-label = Szichtowe przewijanie
 pdfjs-spread-none-button =
     .title = Niy dowej strōn w widoku po dwie
 pdfjs-spread-none-button-label = Po jednyj strōnie
+pdfjs-spread-odd-button =
+    .title = Pokoż strōny po dwie; niyporziste po lewyj
+pdfjs-spread-odd-button-label = Niyporziste po lewyj
+pdfjs-spread-even-button =
+    .title = Pokoż strōny po dwie; porziste po lewyj
+pdfjs-spread-even-button-label = Porziste po lewyj
 
 ## Document properties dialog
 
@@ -189,10 +195,12 @@ pdfjs-find-previous-button-label = Piyrwyjszo
 pdfjs-find-next-button =
     .title = Znojdź nastympne pokozanie sie tyj frazy
 pdfjs-find-next-button-label = Dalij
+pdfjs-find-highlight-checkbox = Zaznacz wszysko
 pdfjs-find-match-case-checkbox-label = Poznowej srogość liter
 pdfjs-find-entire-word-checkbox-label = Cołke słowa
 pdfjs-find-reached-top = Doszło do samego wiyrchu strōny, dalij ôd spodku
 pdfjs-find-reached-bottom = Doszło do samego spodku strōny, dalij ôd wiyrchu
+pdfjs-find-not-found = Fraza niy znaleziōno
 
 ## Predefined zoom values
 
