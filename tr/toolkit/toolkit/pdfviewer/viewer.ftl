@@ -65,6 +65,7 @@ pdfjs-document-properties-close-button = Kapat
 ## Print
 
 pdfjs-printing-not-supported = Uyarı: Yazdırma bu tarayıcı tarafından tam olarak desteklenmemektedir.
+pdfjs-printing-not-ready = Uyarı: PDF tamamen yüklenmedi ve yazdırmaya hazır değil.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
