@@ -60,6 +60,24 @@ pdfjs-cursor-text-select-tool-button-label = Strumento de seleçion do testo
 pdfjs-cursor-hand-tool-button =
     .title = Abilita strumento man
 pdfjs-cursor-hand-tool-button-label = Strumento man
+pdfjs-scroll-vertical-button =
+    .title = Deuvia rebelamento verticale
+pdfjs-scroll-vertical-button-label = Rebelamento verticale
+pdfjs-scroll-horizontal-button =
+    .title = Deuvia rebelamento orizontâ
+pdfjs-scroll-horizontal-button-label = Rebelamento orizontâ
+pdfjs-scroll-wrapped-button =
+    .title = Deuvia rebelamento incapsolou
+pdfjs-scroll-wrapped-button-label = Rebelamento incapsolou
+pdfjs-spread-none-button =
+    .title = No unite a-a difuxon de pagina
+pdfjs-spread-none-button-label = No difuxon
+pdfjs-spread-odd-button =
+    .title = Uniscite a-a difuxon de pagina co-o numero dèspa
+pdfjs-spread-odd-button-label = Difuxon dèspa
+pdfjs-spread-even-button =
+    .title = Uniscite a-a difuxon de pagina co-o numero pari
+pdfjs-spread-even-button-label = Difuxon pari
 
 ## Document properties dialog
 
@@ -88,6 +106,15 @@ pdfjs-document-properties-creator = Aotô originale:
 pdfjs-document-properties-producer = Produtô PDF:
 pdfjs-document-properties-version = Verscion PDF:
 pdfjs-document-properties-page-count = Contezzo pagine:
+pdfjs-document-properties-page-size = Dimenscion da pagina:
+pdfjs-document-properties-page-size-unit-inches = dii gròsci
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = drito
+pdfjs-document-properties-page-size-orientation-landscape = desteizo
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letia
+pdfjs-document-properties-page-size-name-legal = Lezze
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -96,9 +123,16 @@ pdfjs-document-properties-page-count = Contezzo pagine:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Vista veloce do Web:
+pdfjs-document-properties-linearized-yes = Sci
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Særa
 
 ## Print
@@ -153,6 +187,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Segoente
 pdfjs-find-highlight-checkbox = Evidençia
 pdfjs-find-match-case-checkbox-label = Maioscole/minoscole
+pdfjs-find-entire-word-checkbox-label = Poula intrega
 pdfjs-find-reached-top = Razonto a fin da pagina, continoa da l'iniçio
 pdfjs-find-reached-bottom = Razonto l'iniçio da pagina, continoa da-a fin
 pdfjs-find-not-found = Testo no trovou
