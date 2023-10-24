@@ -25,6 +25,9 @@ pdfjs-presentation-mode-button-label = प्रस्तुतिकरण म�
 pdfjs-open-file-button =
     .title = फाइल उघडा
 pdfjs-open-file-button-label = उघडा
+pdfjs-print-button =
+    .title = छपाई करा
+pdfjs-print-button-label = छपाई करा
 
 ##  Secondary toolbar and context menu
 
