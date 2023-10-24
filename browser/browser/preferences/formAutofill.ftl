@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Opgeslagen adressen
 autofill-manage-addresses-list-header = Adressen
-
 autofill-manage-credit-cards-title = Opgeslagen creditcards
 autofill-manage-credit-cards-list-header = Creditcards
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Verwijderen
 autofill-manage-add-button = Toevoegen…
 autofill-manage-edit-button = Bewerken…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Adres opslaan?
+address-capture-save-doorhanger-description = Sla gegevens op naar { -brand-short-name }, zodat u snel formulieren kunt invullen.
+address-capture-update-doorhanger-header = Adres bijwerken?
+address-capture-edit-doorhanger-header = Adres bewerken
+address-capture-save-button =
+    .label = Opslaan
+    .accessKey = s
+address-capture-not-now-button =
+    .label = Niet nu
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Annuleren
+    .accessKey = A
+address-capture-update-button =
+    .label = Bijwerken
+    .accessKey = B
+address-capture-manage-address-button =
+    .label = Adresinstellingen
+address-capture-learn-more-button =
+    .label = Meer info
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Nieuw adres toevoegen
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adres bewerken
-
+autofill-address-name = Naam
 autofill-address-given-name = Voornaam
 autofill-address-additional-name = Tweede naam
 autofill-address-family-name = Achternaam
 autofill-address-organization = Organisatie
+autofill-address-street-address = Adres
 autofill-address-street = Adres
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Land of regio
+autofill-address-country-only = Land
 autofill-address-tel = Telefoon
 autofill-address-email = E-mailadres
-
 autofill-cancel-button = Annuleren
 autofill-save-button = Opslaan
 autofill-country-warning-message = Formulieren automatisch invullen is momenteel alleen voor bepaalde landen beschikbaar.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Nieuwe creditcard toevoegen
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Creditcard bewerken
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } probeert creditcardgegevens te tonen. Bevestig hieronder toegang tot deze Windows-account.
        *[other] { -brand-short-name } probeert creditcardgegevens te tonen.
     }
-
 autofill-card-number = Kaartnummer
 autofill-card-invalid-number = Voer een geldig kaartnummer in
 autofill-card-name-on-card = Naam op kaart
