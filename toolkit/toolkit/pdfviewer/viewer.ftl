@@ -93,6 +93,15 @@ pdfjs-document-properties-creator = Cosɗo:
 pdfjs-document-properties-producer = Paggiiɗo PDF:
 pdfjs-document-properties-version = Yamre PDF:
 pdfjs-document-properties-page-count = Limoore Kelle:
+pdfjs-document-properties-page-size = Ɓeto Hello:
+pdfjs-document-properties-page-size-unit-inches = nder
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = dariingo
+pdfjs-document-properties-page-size-orientation-landscape = wertiingo
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Ɓataake
+pdfjs-document-properties-page-size-name-legal = Laawol
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,6 +110,8 @@ pdfjs-document-properties-page-count = Limoore Kelle:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
