@@ -25,6 +25,9 @@ pdfjs-presentation-mode-button-label = Modo presentación
 pdfjs-open-file-button =
     .title = Abrir archivo
 pdfjs-open-file-button-label = Abrir
+pdfjs-print-button =
+    .title = Imprimir
+pdfjs-print-button-label = Imprimir
 
 ##  Secondary toolbar and context menu
 
