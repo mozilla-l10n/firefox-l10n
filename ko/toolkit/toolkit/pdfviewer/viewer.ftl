@@ -20,6 +20,9 @@ pdfjs-zoom-in-button-label = 확대
 pdfjs-open-file-button =
     .title = 파일 열기
 pdfjs-open-file-button-label = 열기
+pdfjs-print-button =
+    .title = 인쇄
+pdfjs-print-button-label = 인쇄
 
 ##  Secondary toolbar and context menu
 
