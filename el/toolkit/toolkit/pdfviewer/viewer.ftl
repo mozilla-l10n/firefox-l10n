@@ -226,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = Αντιστοίχιση διακρ
 pdfjs-find-entire-word-checkbox-label = Ολόκληρες λέξεις
 pdfjs-find-reached-top = Φτάσατε στην αρχή του εγγράφου, συνέχεια από το τέλος
 pdfjs-find-reached-bottom = Φτάσατε στο τέλος του εγγράφου, συνέχεια από την αρχή
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } από { $total } αντιστοιχία
+       *[other] { $current } από { $total } αντιστοιχίες
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Περισσότερες από { $limit } αντιστοιχία
+       *[other] Περισσότερες από { $limit } αντιστοιχίες
+    }
 pdfjs-find-not-found = Η φράση δεν βρέθηκε
 
 ## Predefined zoom values
