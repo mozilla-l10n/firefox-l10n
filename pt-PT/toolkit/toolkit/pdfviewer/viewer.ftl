@@ -42,6 +42,12 @@ pdfjs-print-button-label = Imprimir
 pdfjs-save-button =
     .title = Guardar
 pdfjs-save-button-label = Guardar
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Transferir
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Transferir
 pdfjs-bookmark-button =
     .title = Página atual (ver URL da página atual)
 pdfjs-bookmark-button-label = Pagina atual
