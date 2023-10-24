@@ -11,6 +11,10 @@ pdfjs-previous-button-label = Previous
 pdfjs-next-button =
     .title = Next Page
 pdfjs-next-button-label = Next
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = of { $pagesCount }
 pdfjs-zoom-out-button =
     .title = Zoom Out
 pdfjs-zoom-out-button-label = Zoom Out
@@ -49,6 +53,33 @@ pdfjs-page-rotate-ccw-button-label = Rotate Counterclockwise
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Document Properties…
+pdfjs-document-properties-button-label = Document Properties…
+pdfjs-document-properties-file-name = File name:
+pdfjs-document-properties-file-size = File size:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = Title:
+pdfjs-document-properties-author = Author:
+pdfjs-document-properties-subject = Subject:
+pdfjs-document-properties-keywords = Keywords:
+pdfjs-document-properties-creation-date = Creation Date:
+pdfjs-document-properties-modification-date = Modification Date:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Creator:
+pdfjs-document-properties-producer = PDF Producer:
+pdfjs-document-properties-version = PDF Version:
+pdfjs-document-properties-page-count = Page Count:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,6 +91,7 @@ pdfjs-page-rotate-ccw-button-label = Rotate Counterclockwise
 
 ##
 
+pdfjs-document-properties-close-button = Close
 
 ## Print
 
@@ -71,6 +103,12 @@ pdfjs-printing-not-ready = Warning: The PDF is not fully loaded for printing.
 pdfjs-toggle-sidebar-button =
     .title = Toggle Sidebar
 pdfjs-toggle-sidebar-button-label = Toggle Sidebar
+pdfjs-document-outline-button =
+    .title = Show Document Outline (double-click to expand/collapse all items)
+pdfjs-document-outline-button-label = Document Outline
+pdfjs-attachments-button =
+    .title = Show Attachments
+pdfjs-attachments-button-label = Attachments
 pdfjs-thumbs-button =
     .title = Show Thumbnails
 pdfjs-thumbs-button-label = Thumbnails
@@ -108,6 +146,9 @@ pdfjs-page-scale-width = Page Width
 pdfjs-page-scale-fit = Page Fit
 pdfjs-page-scale-auto = Automatic Zoom
 pdfjs-page-scale-actual = Actual Size
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -117,6 +158,7 @@ pdfjs-page-scale-actual = Actual Size
 pdfjs-loading-error = An error occurred while loading the PDF.
 pdfjs-invalid-file-error = Invalid or corrupted PDF file.
 pdfjs-missing-file-error = Missing PDF file.
+pdfjs-unexpected-response-error = Unexpected server response.
 
 ## Annotations
 
@@ -130,6 +172,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Enter the password to open this PDF file.
+pdfjs-password-invalid = Invalid password. Please try again.
+pdfjs-password-ok-button = OK
 pdfjs-web-fonts-disabled = Web fonts are disabled: unable to use embedded PDF fonts.
 
 ## Editing
