@@ -226,6 +226,7 @@ pdfjs-loading-error = Degouezhet ez eus bet ur fazi e-pad kargañ ar PDF.
 pdfjs-invalid-file-error = Restr PDF didalvoudek pe kontronet.
 pdfjs-missing-file-error = Restr PDF o vankout.
 pdfjs-unexpected-response-error = Respont dic'hortoz a-berzh an dafariad
+pdfjs-rendering-error = Degouezhet ez eus bet ur fazi e-pad skrammañ ar bajennad.
 
 ## Annotations
 
