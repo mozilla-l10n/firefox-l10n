@@ -181,6 +181,7 @@ pdfjs-loading-error = 'n Fout het voorgekom met die laai van die PDF.
 pdfjs-invalid-file-error = Ongeldige of korrupte PDF-lêer.
 pdfjs-missing-file-error = PDF-lêer is weg.
 pdfjs-unexpected-response-error = Onverwagse antwoord van bediener.
+pdfjs-rendering-error = 'n Fout het voorgekom toe die bladsy weergegee is.
 
 ## Annotations
 
