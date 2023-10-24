@@ -126,6 +126,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = مجمل
 pdfjs-findbar-button =
     .title = دستاویز میں ڈھونڈیں
+pdfjs-findbar-button-label = ڈھونڈیں
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
