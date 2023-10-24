@@ -191,6 +191,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Ddu ɣer zdat
 pdfjs-find-highlight-checkbox = Err izirig imaṛṛa
 pdfjs-find-match-case-checkbox-label = Qadeṛ amasal n isekkilen
+pdfjs-find-entire-word-checkbox-label = Awalen iččuranen
 pdfjs-find-reached-top = Yabbeḍ s afella n usebter, tuɣalin s wadda
 pdfjs-find-reached-bottom = Tebḍeḍ s adda n usebter, tuɣalin s afella
 pdfjs-find-not-found = Ulac tawinest
