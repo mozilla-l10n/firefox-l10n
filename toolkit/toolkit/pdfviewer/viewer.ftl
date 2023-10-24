@@ -41,6 +41,9 @@ pdfjs-print-button-label = Tipărește
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Comută bara laterală
+pdfjs-toggle-sidebar-button-label = Comută bara laterală
 pdfjs-thumbs-button-label = Miniaturi
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -56,6 +59,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-reached-top = Am ajuns la începutul documentului, continuă de la sfârșit
+pdfjs-find-reached-bottom = Am ajuns la sfârșitul documentului, continuă de la început
+pdfjs-find-not-found = Nu s-a găsit textul
 
 ## Predefined zoom values
 
@@ -66,6 +72,7 @@ pdfjs-page-scale-fit = Potrivire la pagină
 
 ## Loading indicator messages
 
+pdfjs-missing-file-error = Fișier PDF lipsă.
 
 ## Annotations
 
