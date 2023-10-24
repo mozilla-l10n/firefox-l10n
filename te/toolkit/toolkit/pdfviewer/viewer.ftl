@@ -148,6 +148,7 @@ pdfjs-thumbs-button-label = థంబ్‌నైల్స్
 pdfjs-findbar-button =
     .title = పత్రములో కనుగొనుము
 pdfjs-findbar-button-label = కనుగొను
+pdfjs-additional-layers = అదనపు పొరలు
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -197,6 +198,7 @@ pdfjs-loading-error = PDF లోడవుచున్నప్పుడు ఒ�
 pdfjs-invalid-file-error = చెల్లని లేదా పాడైన PDF ఫైలు.
 pdfjs-missing-file-error = దొరకని PDF ఫైలు.
 pdfjs-unexpected-response-error = అనుకోని సర్వర్ స్పందన.
+pdfjs-rendering-error = పేజీను రెండర్ చేయుటలో ఒక దోషం ఎదురైంది.
 
 ## Annotations
 
