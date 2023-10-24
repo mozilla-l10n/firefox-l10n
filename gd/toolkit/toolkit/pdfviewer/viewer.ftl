@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Air ais
 pdfjs-next-button =
     .title = An ath-dhuilleag
 pdfjs-next-button-label = Air adhart
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Duilleag
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = à { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } à { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Sùm a-mach
 pdfjs-zoom-out-button-label = Sùm a-mach
@@ -46,9 +57,42 @@ pdfjs-page-rotate-cw-button-label = Cuairtich gu deiseil
 pdfjs-page-rotate-ccw-button =
     .title = Cuairtich gu tuathail
 pdfjs-page-rotate-ccw-button-label = Cuairtich gu tuathail
+pdfjs-cursor-text-select-tool-button =
+    .title = Cuir an comas inneal taghadh an teacsa
+pdfjs-cursor-text-select-tool-button-label = Inneal taghadh an teacsa
+pdfjs-cursor-hand-tool-button =
+    .title = Cuir inneal na làimhe an comas
+pdfjs-cursor-hand-tool-button-label = Inneal na làimhe
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Roghainnean na sgrìobhainne…
+pdfjs-document-properties-button-label = Roghainnean na sgrìobhainne…
+pdfjs-document-properties-file-name = Ainm an fhaidhle:
+pdfjs-document-properties-file-size = Meud an fhaidhle:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = Tiotal:
+pdfjs-document-properties-author = Ùghdar:
+pdfjs-document-properties-subject = Cuspair:
+pdfjs-document-properties-keywords = Faclan-luirg:
+pdfjs-document-properties-creation-date = Latha a chruthachaidh:
+pdfjs-document-properties-modification-date = Latha atharrachaidh:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Cruthadair:
+pdfjs-document-properties-producer = Saothraiche a' PDF:
+pdfjs-document-properties-version = Tionndadh a' PDF:
+pdfjs-document-properties-page-count = Àireamh de dhuilleagan:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,9 +104,15 @@ pdfjs-page-rotate-ccw-button-label = Cuairtich gu tuathail
 
 ##
 
+pdfjs-document-properties-close-button = Dùin
 
 ## Print
 
+pdfjs-print-progress-message = Ag ullachadh na sgrìobhainn airson clò-bhualadh…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Sguir dheth
 pdfjs-printing-not-supported = Rabhadh: Chan eil am brabhsair seo a' cur làn-taic ri clò-bhualadh.
 pdfjs-printing-not-ready = Rabhadh: Cha deach am PDF a luchdadh gu tur airson clò-bhualadh.
 
@@ -71,11 +121,18 @@ pdfjs-printing-not-ready = Rabhadh: Cha deach am PDF a luchdadh gu tur airson cl
 pdfjs-toggle-sidebar-button =
     .title = Toglaich am bàr-taoibh
 pdfjs-toggle-sidebar-button-label = Toglaich am bàr-taoibh
+pdfjs-document-outline-button =
+    .title = Seall oir-loidhne na sgrìobhainn (dèan briogadh dùbailte airson a h-uile nì a leudachadh/a cho-theannadh)
+pdfjs-document-outline-button-label = Oir-loidhne na sgrìobhainne
+pdfjs-attachments-button =
+    .title = Seall na ceanglachain
+pdfjs-attachments-button-label = Ceanglachain
 pdfjs-thumbs-button =
     .title = Seall na dealbhagan
 pdfjs-thumbs-button-label = Dealbhagan
 pdfjs-findbar-button =
     .title = Lorg san sgrìobhainn
+pdfjs-findbar-button-label = Lorg
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -90,6 +147,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Lorg
+    .placeholder = Lorg san sgrìobhainn...
 pdfjs-find-previous-button =
     .title = Lorg làthair roimhe na h-abairt seo
 pdfjs-find-previous-button-label = Air ais
@@ -108,6 +168,9 @@ pdfjs-page-scale-width = Leud na duilleige
 pdfjs-page-scale-fit = Freagair ri meud na duilleige
 pdfjs-page-scale-auto = Sùm fèin-obrachail
 pdfjs-page-scale-actual = Am fìor-mheud
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -117,6 +180,7 @@ pdfjs-page-scale-actual = Am fìor-mheud
 pdfjs-loading-error = Thachair mearachd rè luchdadh a' PDF.
 pdfjs-invalid-file-error = Faidhle PDF a tha mì-dhligheach no coirbte.
 pdfjs-missing-file-error = Faidhle PDF a tha a dhìth.
+pdfjs-unexpected-response-error = Freagairt on fhrithealaiche ris nach robh dùil.
 
 ## Annotations
 
@@ -132,6 +196,7 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = Cuir a-steach am facal-faire gus am faidhle PDF seo fhosgladh.
 pdfjs-password-invalid = Tha am facal-faire cearr. Nach fheuch thu ris a-rithist?
+pdfjs-password-cancel-button = Sguir dheth
 pdfjs-web-fonts-disabled = Tha cruthan-clò lìn à comas: Chan urrainn dhuinn cruthan-clò PDF leabaichte a chleachdadh.
 
 ## Editing
