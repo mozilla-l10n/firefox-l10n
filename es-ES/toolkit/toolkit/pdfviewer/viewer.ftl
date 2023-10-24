@@ -154,6 +154,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-linearized-yes = Sí
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Cerrar
 
 ## Print
