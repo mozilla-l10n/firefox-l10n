@@ -78,6 +78,7 @@ pdfjs-spread-odd-button =
 pdfjs-spread-odd-button-label = Տարաւրինակ կոնտեքստ
 pdfjs-spread-even-button =
     .title = Միացէք էջի կոնտեքստին սկսելով՝ զոյգ համարակալուած էջերով
+pdfjs-spread-even-button-label = Հաւասար վերածածկեր
 
 ## Document properties dialog
 
@@ -151,6 +152,8 @@ pdfjs-printing-not-ready = Զգուշացում. PDF֊ը ամբողջութեա�
 
 pdfjs-toggle-sidebar-button =
     .title = Փոխարկել կողային վահանակը
+pdfjs-toggle-sidebar-notification-button =
+    .title = Փոխանջատել կողմնասիւնը (փաստաթուղթը պարունակում է ուրուագիծ/կցորդներ/շերտեր)
 pdfjs-toggle-sidebar-button-label = Փոխարկել կողային վահանակը
 pdfjs-document-outline-button =
     .title = Ցուցադրել փաստաթղթի ուրուագիծը (կրկնակի սեղմէք՝ միաւորները ընդարձակելու/կոծկելու համար)
@@ -158,6 +161,9 @@ pdfjs-document-outline-button-label = Փաստաթղթի ուրուագիծ
 pdfjs-attachments-button =
     .title = Ցուցադրել կցորդները
 pdfjs-attachments-button-label = Կցորդներ
+pdfjs-layers-button =
+    .title = Ցուցադրել շերտերը (կրկնահպել վերակայելու բոլոր շերտերը սկզբնադիր վիճակի)
+pdfjs-layers-button-label = Շերտեր
 pdfjs-thumbs-button =
     .title = Ցուցադրել մանրապատկերը
 pdfjs-thumbs-button-label = Մանրապատկեր
