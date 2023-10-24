@@ -324,6 +324,7 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Yvate asu gotyo — emoambue tuichakue
 pdfjs-editor-resizer-label-top-middle = Yvate mbytépe — emoambue tuichakue
 pdfjs-editor-resizer-label-top-right = Yvate akatúape — emoambue tuichakue
 pdfjs-editor-resizer-label-middle-right = Mbyte akatúape — emoambue tuichakue
