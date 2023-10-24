@@ -39,6 +39,9 @@ pdfjs-open-file-button-label = افتح
 pdfjs-print-button =
     .title = اطبع
 pdfjs-print-button-label = اطبع
+pdfjs-bookmark-button =
+    .title = الصفحة الحالية (عرض URL من الصفحة الحالية)
+pdfjs-bookmark-button-label = الصفحة الحالية
 
 ##  Secondary toolbar and context menu
 
