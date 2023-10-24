@@ -7,12 +7,17 @@
 
 pdfjs-zoom-select =
     .title = Nasa´a ka´nu/Nasa´a luli
+pdfjs-open-file-button-label = Síne
 
 ##  Secondary toolbar and context menu
 
 
 ## Document properties dialog
 
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -21,15 +26,24 @@ pdfjs-zoom-select =
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = Kuvi
+pdfjs-document-properties-close-button = Nakasɨ
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Nkuvi-ka
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-findbar-button-label = Nánuku
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -39,6 +53,9 @@ pdfjs-zoom-select =
 
 ## Predefined zoom values
 
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -48,9 +65,14 @@ pdfjs-zoom-select =
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 
 ## Password
 
+pdfjs-password-cancel-button = Nkuvi-ka
 
 ## Editing
 
