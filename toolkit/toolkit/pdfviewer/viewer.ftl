@@ -87,6 +87,15 @@ pdfjs-document-properties-creator = Höfundur:
 pdfjs-document-properties-producer = PDF framleiðandi:
 pdfjs-document-properties-version = PDF útgáfa:
 pdfjs-document-properties-page-count = Blaðsíðufjöldi:
+pdfjs-document-properties-page-size = Stærð síðu:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = skammsnið
+pdfjs-document-properties-page-size-orientation-landscape = langsnið
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,6 +104,8 @@ pdfjs-document-properties-page-count = Blaðsíðufjöldi:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
