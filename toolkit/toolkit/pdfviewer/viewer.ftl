@@ -182,6 +182,7 @@ pdfjs-loading-error = Tharla earráid agus an cháipéis PDF á lódáil.
 pdfjs-invalid-file-error = Comhad neamhbhailí nó truaillithe PDF.
 pdfjs-missing-file-error = Comhad PDF ar iarraidh.
 pdfjs-unexpected-response-error = Freagra ón bhfreastalaí nach rabhthas ag súil leis.
+pdfjs-rendering-error = Tharla earráid agus an leathanach á leagan amach.
 
 ## Annotations
 
