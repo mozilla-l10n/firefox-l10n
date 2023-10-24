@@ -54,6 +54,12 @@ pdfjs-cursor-text-select-tool-button-label = Alat za označavanje teksta
 pdfjs-cursor-hand-tool-button =
     .title = Omogući ručni alat
 pdfjs-cursor-hand-tool-button-label = Ručni alat
+pdfjs-scroll-vertical-button =
+    .title = Koristi okomito pomicanje
+pdfjs-scroll-vertical-button-label = Okomito pomicanje
+pdfjs-scroll-horizontal-button =
+    .title = Koristi vodoravno pomicanje
+pdfjs-scroll-horizontal-button-label = Vodoravno pomicanje
 
 ## Document properties dialog
 
@@ -80,6 +86,9 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Stvaratelj:
 pdfjs-document-properties-producer = PDF stvaratelj:
 pdfjs-document-properties-page-count = Broj stranica:
+pdfjs-document-properties-page-size = Dimenzije stranice:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
 
@@ -95,6 +104,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Brzi web pregled:
 pdfjs-document-properties-linearized-yes = Da
 pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zatvori
@@ -116,6 +128,8 @@ pdfjs-toggle-sidebar-button-label = Prikaži/sakrij bočnu traku
 pdfjs-attachments-button =
     .title = Prikaži privitke
 pdfjs-attachments-button-label = Privitci
+pdfjs-layers-button =
+    .title = Prikaži slojeve (dvoklik za vraćanje svih slojeva u zadano stanje)
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -129,6 +143,7 @@ pdfjs-thumb-page-title =
 pdfjs-find-previous-button-label = Prethodno
 pdfjs-find-next-button-label = Sljedeće
 pdfjs-find-highlight-checkbox = Istankni sve
+pdfjs-find-entire-word-checkbox-label = Cijele riječi
 pdfjs-find-not-found = Izraz nije pronađen
 
 ## Predefined zoom values
@@ -145,6 +160,10 @@ pdfjs-unexpected-response-error = Neočekivani odgovor poslužitelja.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
