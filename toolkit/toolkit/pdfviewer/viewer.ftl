@@ -30,6 +30,8 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Ampliar
 pdfjs-zoom-select =
     .title = Zoom
+pdfjs-presentation-mode-button =
+    .title = Mudar para o modo de apresentação
 pdfjs-presentation-mode-button-label = Modo de apresentação
 pdfjs-open-file-button =
     .title = Abrir arquivo
@@ -37,6 +39,24 @@ pdfjs-open-file-button-label = Abrir
 pdfjs-print-button =
     .title = Imprimir
 pdfjs-print-button-label = Imprimir
+pdfjs-save-button =
+    .title = Salvar
+pdfjs-save-button-label = Salvar
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Baixar
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Baixar
+pdfjs-bookmark-button =
+    .title = Página atual (ver URL da página atual)
+pdfjs-bookmark-button-label = Pagina atual
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Abrir em um aplicativo
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Abrir em um aplicativo
 
 ##  Secondary toolbar and context menu
 
@@ -55,9 +75,32 @@ pdfjs-page-rotate-cw-button-label = Girar no sentido horário
 pdfjs-page-rotate-ccw-button =
     .title = Girar no sentido anti-horário
 pdfjs-page-rotate-ccw-button-label = Girar no sentido anti-horário
+pdfjs-cursor-text-select-tool-button =
+    .title = Ativar a ferramenta de seleção de texto
 pdfjs-cursor-text-select-tool-button-label = Ferramenta de seleção de texto
+pdfjs-cursor-hand-tool-button =
+    .title = Ativar ferramenta de deslocamento
+pdfjs-cursor-hand-tool-button-label = Ferramenta de deslocamento
+pdfjs-scroll-page-button =
+    .title = Usar rolagem de página
+pdfjs-scroll-page-button-label = Rolagem de página
+pdfjs-scroll-vertical-button =
+    .title = Usar deslocamento vertical
+pdfjs-scroll-vertical-button-label = Deslocamento vertical
+pdfjs-scroll-horizontal-button =
+    .title = Usar deslocamento horizontal
+pdfjs-scroll-horizontal-button-label = Deslocamento horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Usar deslocamento contido
+pdfjs-scroll-wrapped-button-label = Deslocamento contido
+pdfjs-spread-none-button =
+    .title = Não reagrupar páginas
 pdfjs-spread-none-button-label = Não estender
+pdfjs-spread-odd-button =
+    .title = Agrupar páginas começando em páginas com números ímpares
 pdfjs-spread-odd-button-label = Estender ímpares
+pdfjs-spread-even-button =
+    .title = Agrupar páginas começando em páginas com números pares
 pdfjs-spread-even-button-label = Estender pares
 
 ## Document properties dialog
@@ -111,6 +154,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Exibição web rápida:
 pdfjs-document-properties-linearized-yes = Sim
 pdfjs-document-properties-linearized-no = Não
 pdfjs-document-properties-close-button = Fechar
@@ -127,13 +173,28 @@ pdfjs-printing-not-ready = Aviso: o PDF não está totalmente carregado para imp
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Exibir/ocultar painel lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Exibir/ocultar painel (documento contém estrutura/anexos/camadas)
+pdfjs-toggle-sidebar-button-label = Exibir/ocultar painel
+pdfjs-document-outline-button =
+    .title = Mostrar estrutura do documento (duplo-clique expande/recolhe todos os itens)
 pdfjs-document-outline-button-label = Estrutura do documento
 pdfjs-attachments-button =
     .title = Mostrar anexos
 pdfjs-attachments-button-label = Anexos
+pdfjs-layers-button =
+    .title = Mostrar camadas (duplo-clique redefine todas as camadas ao estado predefinido)
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-current-outline-item-button =
+    .title = Encontrar item atual da estrutura
+pdfjs-current-outline-item-button-label = Item atual da estrutura
+pdfjs-findbar-button =
+    .title = Procurar no documento
+pdfjs-findbar-button-label = Procurar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -148,11 +209,22 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Procurar
+    .placeholder = Procurar no documento…
+pdfjs-find-previous-button =
+    .title = Procurar a ocorrência anterior da frase
 pdfjs-find-previous-button-label = Anterior
+pdfjs-find-next-button =
+    .title = Procurar a próxima ocorrência da frase
 pdfjs-find-next-button-label = Próxima
+pdfjs-find-highlight-checkbox = Destacar tudo
 pdfjs-find-match-case-checkbox-label = Diferenciar maiúsculas/minúsculas
+pdfjs-find-match-diacritics-checkbox-label = Considerar acentuação
+pdfjs-find-entire-word-checkbox-label = Palavras completas
 pdfjs-find-reached-top = Início do documento alcançado, continuando do fim
 pdfjs-find-reached-bottom = Fim do documento alcançado, continuando do início
+pdfjs-find-not-found = Não encontrado
 
 ## Predefined zoom values
 
@@ -173,9 +245,14 @@ pdfjs-loading-error = Ocorreu um erro ao carregar o PDF.
 pdfjs-invalid-file-error = Arquivo PDF corrompido ou inválido.
 pdfjs-missing-file-error = Arquivo PDF ausente.
 pdfjs-unexpected-response-error = Resposta inesperada do servidor.
+pdfjs-rendering-error = Ocorreu um erro ao renderizar a página.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -187,15 +264,59 @@ pdfjs-text-annotation-type =
 ## Password
 
 pdfjs-password-label = Forneça a senha para abrir este arquivo PDF.
+pdfjs-password-invalid = Senha inválida. Tente novamente.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Cancelar
+pdfjs-web-fonts-disabled = As fontes web estão desativadas: não foi possível usar fontes incorporadas do PDF.
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Desenho
+pdfjs-editor-ink-button-label = Desenho
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Cor
+pdfjs-editor-free-text-size-input = Tamanho
+pdfjs-editor-ink-color-input = Cor
+pdfjs-editor-ink-thickness-input = Espessura
+pdfjs-editor-ink-opacity-input = Opacidade
+pdfjs-free-text =
+    .aria-label = Editor de texto
+pdfjs-free-text-default-content = Comece digitando…
+pdfjs-ink =
+    .aria-label = Editor de desenho
+pdfjs-ink-canvas =
+    .aria-label = Imagem criada pelo usuário
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Texto alternativo
+pdfjs-editor-alt-text-edit-button-label = Editar texto alternativo
+pdfjs-editor-alt-text-dialog-label = Escolha uma opção
+pdfjs-editor-alt-text-dialog-description = O texto alternativo ajuda quando uma imagem não aparece ou não for carregada.
+pdfjs-editor-alt-text-add-description-label = Adicione uma descrição
+pdfjs-editor-alt-text-add-description-description = Procure usar uma ou duas frases que descrevam o assunto, o cenário ou as ações.
+pdfjs-editor-alt-text-mark-decorative-label = Marcar como decorativo
+pdfjs-editor-alt-text-mark-decorative-description = Isto é usado para imagens ornamentais, como bordas ou marcas d'água.
+pdfjs-editor-alt-text-cancel-button = Cancelar
+pdfjs-editor-alt-text-save-button = Salvar
+pdfjs-editor-alt-text-decorative-tooltip = Marcado como decorativo
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Por exemplo, “Um jovem senta-se à mesa para comer uma refeição”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Canto superior esquerdo — redimensionar
+pdfjs-editor-resizer-label-top-middle = No centro do topo — redimensionar
+pdfjs-editor-resizer-label-top-right = Canto superior direito — redimensionar
+pdfjs-editor-resizer-label-middle-right = No meio à direita — redimensionar
+pdfjs-editor-resizer-label-bottom-right = Canto inferior direito — redimensionar
+pdfjs-editor-resizer-label-bottom-middle = No centro da base — redimensionar
+pdfjs-editor-resizer-label-bottom-left = Canto inferior esquerdo — redimensionar
+pdfjs-editor-resizer-label-middle-left = No meio à esquerda — redimensionar
