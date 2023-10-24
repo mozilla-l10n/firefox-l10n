@@ -11,10 +11,17 @@ pdfjs-previous-button-label = Əvvəlkini tap
 pdfjs-next-button =
     .title = Növbəti səhifə
 pdfjs-next-button-label = İrəli
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Səhifə
 # Variables:
 #   $pagesCount (Number) - the total number of pages in the document
 # This string follows an input field with the number of the page currently displayed.
 pdfjs-of-pages = / { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Uzaqlaş
 pdfjs-zoom-out-button-label = Uzaqlaş
@@ -50,6 +57,30 @@ pdfjs-page-rotate-cw-button-label = Saat İstiqamətində Fırlat
 pdfjs-page-rotate-ccw-button =
     .title = Saat İstiqamətinin Əksinə Fırlat
 pdfjs-page-rotate-ccw-button-label = Saat İstiqamətinin Əksinə Fırlat
+pdfjs-cursor-text-select-tool-button =
+    .title = Yazı seçmə alətini aktivləşdir
+pdfjs-cursor-text-select-tool-button-label = Yazı seçmə aləti
+pdfjs-cursor-hand-tool-button =
+    .title = Əl alətini aktivləşdir
+pdfjs-cursor-hand-tool-button-label = Əl aləti
+pdfjs-scroll-vertical-button =
+    .title = Şaquli sürüşdürmə işlət
+pdfjs-scroll-vertical-button-label = Şaquli sürüşdürmə
+pdfjs-scroll-horizontal-button =
+    .title = Üfüqi sürüşdürmə işlət
+pdfjs-scroll-horizontal-button-label = Üfüqi sürüşdürmə
+pdfjs-scroll-wrapped-button =
+    .title = Bükülü sürüşdürmə işlət
+pdfjs-scroll-wrapped-button-label = Bükülü sürüşdürmə
+pdfjs-spread-none-button =
+    .title = Yan-yana birləşdirilmiş səhifələri işlətmə
+pdfjs-spread-none-button-label = Birləşdirmə
+pdfjs-spread-odd-button =
+    .title = Yan-yana birləşdirilmiş səhifələri tək nömrəli səhifələrdən başlat
+pdfjs-spread-odd-button-label = Tək nömrəli
+pdfjs-spread-even-button =
+    .title = Yan-yana birləşdirilmiş səhifələri cüt nömrəli səhifələrdən başlat
+pdfjs-spread-even-button-label = Cüt nömrəli
 
 ## Document properties dialog
 
@@ -80,6 +111,15 @@ pdfjs-document-properties-creator = Yaradan:
 pdfjs-document-properties-producer = PDF yaradıcısı:
 pdfjs-document-properties-version = PDF versiyası:
 pdfjs-document-properties-page-count = Səhifə sayı:
+pdfjs-document-properties-page-size = Səhifə Ölçüsü:
+pdfjs-document-properties-page-size-unit-inches = inç
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portret
+pdfjs-document-properties-page-size-orientation-landscape = albom
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Məktub
+pdfjs-document-properties-page-size-name-legal = Hüquqi
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -88,13 +128,25 @@ pdfjs-document-properties-page-count = Səhifə sayı:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Fast Web View:
+pdfjs-document-properties-linearized-yes = Bəli
+pdfjs-document-properties-linearized-no = Xeyr
 pdfjs-document-properties-close-button = Qapat
 
 ## Print
 
+pdfjs-print-progress-message = Sənəd çap üçün hazırlanır…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Ləğv et
 pdfjs-printing-not-supported = Xəbərdarlıq: Çap bu səyyah tərəfindən tam olaraq dəstəklənmir.
 pdfjs-printing-not-ready = Xəbərdarlıq: PDF çap üçün tam yüklənməyib.
 
@@ -102,11 +154,18 @@ pdfjs-printing-not-ready = Xəbərdarlıq: PDF çap üçün tam yüklənməyib.
 
 pdfjs-toggle-sidebar-button =
     .title = Yan Paneli Aç/Bağla
+pdfjs-toggle-sidebar-notification-button =
+    .title = Yan paneli çevir (sənəddə icmal/bağlamalar/laylar mövcuddur)
 pdfjs-toggle-sidebar-button-label = Yan Paneli Aç/Bağla
+pdfjs-document-outline-button =
+    .title = Sənədin eskizini göstər (bütün bəndləri açmaq/yığmaq üçün iki dəfə klikləyin)
 pdfjs-document-outline-button-label = Sənəd strukturu
 pdfjs-attachments-button =
     .title = Bağlamaları göstər
 pdfjs-attachments-button-label = Bağlamalar
+pdfjs-layers-button =
+    .title = Layları göstər (bütün layları ilkin halına sıfırlamaq üçün iki dəfə klikləyin)
+pdfjs-layers-button-label = Laylar
 pdfjs-thumbs-button =
     .title = Kiçik şəkilləri göstər
 pdfjs-thumbs-button-label = Kiçik şəkillər
@@ -135,6 +194,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = İrəli
 pdfjs-find-highlight-checkbox = İşarələ
 pdfjs-find-match-case-checkbox-label = Böyük/kiçik hərfə həssaslıq
+pdfjs-find-entire-word-checkbox-label = Tam sözlər
 pdfjs-find-reached-top = Sənədin yuxarısına çatdı, aşağıdan davam edir
 pdfjs-find-reached-bottom = Sənədin sonuna çatdı, yuxarıdan davam edir
 pdfjs-find-not-found = Uyğunlaşma tapılmadı
@@ -144,6 +204,7 @@ pdfjs-find-not-found = Uyğunlaşma tapılmadı
 pdfjs-page-scale-width = Səhifə genişliyi
 pdfjs-page-scale-fit = Səhifəni sığdır
 pdfjs-page-scale-auto = Avtomatik yaxınlaşdır
+pdfjs-page-scale-actual = Hazırkı Həcm
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
@@ -160,6 +221,10 @@ pdfjs-unexpected-response-error = Gözlənilməz server cavabı.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -170,7 +235,10 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Bu PDF faylı açmaq üçün parolu daxil edin.
+pdfjs-password-invalid = Parol səhvdir. Bir daha yoxlayın.
 pdfjs-password-ok-button = Tamam
+pdfjs-password-cancel-button = Ləğv et
 pdfjs-web-fonts-disabled = Web Şriftlər söndürülüb: yerləşdirilmiş PDF şriftlərini istifadə etmək mümkün deyil.
 
 ## Editing
