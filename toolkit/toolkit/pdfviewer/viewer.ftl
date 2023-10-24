@@ -105,6 +105,7 @@ pdfjs-page-scale-actual = Bogolo bja kgonthe
 pdfjs-loading-error = Go diregile phošo ge go hlahlelwa PDF.
 pdfjs-invalid-file-error = Faele ye e sa šomego goba e senyegilego ya PDF.
 pdfjs-missing-file-error = Faele yeo e sego gona ya PDF.
+pdfjs-rendering-error = Go diregile phošo ge go be go gafelwa letlakala.
 
 ## Annotations
 
