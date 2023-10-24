@@ -38,6 +38,24 @@ pdfjs-open-file-button =
 pdfjs-open-file-button-label = کھولو
 pdfjs-print-button =
     .title = چھاپو
+pdfjs-save-button =
+    .title = ہتھیکڑا کرو
+pdfjs-save-button-label = ہتھیکڑا کرو
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = ڈاؤن لوڈ
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = ڈاؤن لوڈ
+pdfjs-bookmark-button =
+    .title = موجودہ ورقہ (موجودہ ورقے کنوں یوآرایل ݙیکھو)
+pdfjs-bookmark-button-label = موجودہ ورقہ
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = ایپ وچ کھولو
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = ایپ وچ کھولو
 
 ##  Secondary toolbar and context menu
 
