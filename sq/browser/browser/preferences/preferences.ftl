@@ -3,11 +3,22 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Dërgojuni sajteve një sinjal “Mos Më Gjurmo” se nuk doni të ndiqeni
+do-not-track-description2 =
+    .label = Dërgoju sajteve një kërkesë “Mos Më Gjurmoni”
+    .accesskey = D
 do-not-track-learn-more = Mësoni më tepër
 do-not-track-option-default-content-blocking-known =
     .label = Vetëm kur { -brand-short-name }-i është rregulluar të bllokojë gjurmues të njohur
 do-not-track-option-always =
     .label = Përherë
+global-privacy-control-description =
+    .label = Thuaju sajteve të mos shesin apo japin të dhëna të miat
+    .accesskey = u
+non-technical-privacy-header = Parapëlqime Privatësie Sajti
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Kontroll Global Privatësie (GPC)
 settings-page-title = Rregullime
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
