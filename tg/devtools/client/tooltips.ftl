@@ -73,6 +73,7 @@ inactive-css-not-table-cell-fix = Кӯшиш кунед, ки «<strong>display:
 inactive-scroll-padding-when-not-scroll-container-fix = Кӯшиш кунед, ки <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ё <strong>overflow:hidden</strong>-ро илова намоед. { learn-more }
 inactive-css-border-image-fix = Дар унсури ҷадвали аслӣ, хусусиятро тоза кунед ё қимати <strong>border-collapse</strong>-ро ба қимате иваз кунед, ки аз <strong>collapse</strong> фарқ мекунад. { learn-more }
 inactive-css-ruby-element-fix = Кӯшиш кунед, ки <strong>font-size</strong>-ро дар матни «ruby» иваз намоед. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Кӯшиш кунед, ки шумораи сатрҳоро кам кунед. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
