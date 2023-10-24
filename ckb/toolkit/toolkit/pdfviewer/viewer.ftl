@@ -157,6 +157,7 @@ pdfjs-thumbs-button-label = وێنۆچکە
 pdfjs-findbar-button =
     .title = لە بەڵگەنامە بگەرێ
 pdfjs-findbar-button-label = دۆزینەوە
+pdfjs-additional-layers = چینی زیاتر
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -206,6 +207,7 @@ pdfjs-loading-error = هەڵەیەک ڕوویدا لە کاتی بارکردنی
 pdfjs-invalid-file-error = پەڕگەی pdf تێکچووە یان نەگونجاوە.
 pdfjs-missing-file-error = پەڕگەی pdf بوونی نیە.
 pdfjs-unexpected-response-error = وەڵامی ڕاژەخوازی نەخوازراو.
+pdfjs-rendering-error = هەڵەیەک ڕوویدا لە کاتی پوختەکردنی (ڕێندەر) پەڕە.
 
 ## Annotations
 
