@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Ενισχυμένη προστασία από καταγραφή
     .description = Ανενεργή για αυτόν τον ιστότοπο
     .aria-label = Ενεργοποίηση προστασίας για το { $host }
+protections-panel-etp-toggle-on =
+    .label = Ενισχυμένη προστασία από καταγραφή
+    .description = Ενεργή για αυτόν τον ιστότοπο
+    .aria-label = Ενισχυμένη προστασία από καταγραφή: Ενεργή για το { $host }
+protections-panel-etp-toggle-off =
+    .label = Ενισχυμένη προστασία από καταγραφή
+    .description = Ανενεργή για αυτόν τον ιστότοπο
+    .aria-label = Ενισχυμένη προστασία από καταγραφή: Ανενεργή για το { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Δεν λειτουργεί ο ιστότοπος;
 # The heading/title of the sub-panel view
