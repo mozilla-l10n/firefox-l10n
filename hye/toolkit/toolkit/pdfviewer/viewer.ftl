@@ -178,6 +178,7 @@ pdfjs-current-outline-item-button-label = Ընթացիկ գծագրման տար
 pdfjs-findbar-button =
     .title = Գտնել փաստաթղթում
 pdfjs-findbar-button-label = Որոնում
+pdfjs-additional-layers = Լրացուցիչ շերտեր
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -232,6 +233,7 @@ pdfjs-loading-error = PDF նիշքը բացելիս սխալ է տեղի ուն�
 pdfjs-invalid-file-error = Սխալ կամ վնասուած PDF նիշք։
 pdfjs-missing-file-error = PDF նիշքը բացակաիւմ է։
 pdfjs-unexpected-response-error = Սպասարկիչի անսպասելի պատասխան։
+pdfjs-rendering-error = Սխալ է տեղի ունեցել էջի մեկնաբանման ժամանակ
 
 ## Annotations
 
