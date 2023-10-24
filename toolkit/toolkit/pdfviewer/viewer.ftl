@@ -63,6 +63,12 @@ pdfjs-cursor-text-select-tool-button-label = লেখা নির্বাচ�
 pdfjs-cursor-hand-tool-button =
     .title = হ্যান্ড টুল সক্রিয় করুন
 pdfjs-cursor-hand-tool-button-label = হ্যান্ড টুল
+pdfjs-scroll-vertical-button =
+    .title = উলম্ব স্ক্রলিং ব্যবহার করুন
+pdfjs-scroll-vertical-button-label = উলম্ব স্ক্রলিং
+pdfjs-scroll-horizontal-button =
+    .title = অনুভূমিক স্ক্রলিং ব্যবহার করুন
+pdfjs-scroll-horizontal-button-label = অনুভূমিক স্ক্রলিং
 
 ## Document properties dialog
 
