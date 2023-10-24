@@ -25,12 +25,17 @@ pdfjs-presentation-mode-button-label = Mokgwa wa tlhagišo
 pdfjs-open-file-button =
     .title = Bula faele
 pdfjs-open-file-button-label = Bula
+pdfjs-print-button =
+    .title = Gatiša
+pdfjs-print-button-label = Gatiša
 
 ##  Secondary toolbar and context menu
 
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = Leina la faele:
+pdfjs-document-properties-title = Thaetlele:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -53,6 +58,7 @@ pdfjs-printing-not-ready = Temošo: PDF ga ya hlahlelwa ka botlalo bakeng sa go 
 pdfjs-toggle-sidebar-button =
     .title = Šielanya para ya ka thoko
 pdfjs-toggle-sidebar-button-label = Šielanya para ya ka thoko
+pdfjs-document-outline-button-label = Kakaretšo ya tokumente
 pdfjs-thumbs-button =
     .title = Laetša dikhutšofatšo
 pdfjs-thumbs-button-label = Dikhutšofatšo
@@ -102,9 +108,17 @@ pdfjs-missing-file-error = Faele yeo e sego gona ya PDF.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Tlhaloso]
 
 ## Password
 
+pdfjs-password-ok-button = LOKILE
 pdfjs-web-fonts-disabled = Difonte tša wepe di šitišitšwe: ga e kgone go diriša difonte tša PDF tše khutišitšwego.
 
 ## Editing
