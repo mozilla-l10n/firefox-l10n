@@ -14,12 +14,21 @@ pdfjs-next-button-label = 다음
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
     .title = 페이지
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = 축소
 pdfjs-zoom-out-button-label = 축소
 pdfjs-zoom-in-button =
     .title = 확대
 pdfjs-zoom-in-button-label = 확대
+pdfjs-zoom-select =
+    .title = 확대/축소
+pdfjs-presentation-mode-button =
+    .title = 프레젠테이션 모드로 전환
+pdfjs-presentation-mode-button-label = 프레젠테이션 모드
 pdfjs-open-file-button =
     .title = 파일 열기
 pdfjs-open-file-button-label = 열기
@@ -63,6 +72,7 @@ pdfjs-document-properties-button =
     .title = 문서 속성…
 pdfjs-document-properties-button-label = 문서 속성…
 pdfjs-document-properties-file-name = 파일 이름:
+pdfjs-document-properties-file-size = 파일 크기:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -72,13 +82,19 @@ pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b }바이트)
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b }바이트)
 pdfjs-document-properties-title = 제목:
+pdfjs-document-properties-author = 작성자:
 pdfjs-document-properties-subject = 주제:
 pdfjs-document-properties-keywords = 키워드:
+pdfjs-document-properties-creation-date = 작성 날짜:
+pdfjs-document-properties-modification-date = 수정 날짜:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = 작성 프로그램:
+pdfjs-document-properties-producer = PDF 변환 소프트웨어:
 pdfjs-document-properties-version = PDF 버전:
+pdfjs-document-properties-page-count = 페이지 수:
 pdfjs-document-properties-page-size = 페이지 크기:
 pdfjs-document-properties-page-size-unit-inches = in
 pdfjs-document-properties-page-size-unit-millimeters = mm
@@ -129,6 +145,14 @@ pdfjs-findbar-button-label = 검색
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = { $page } 페이지
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = { $page } 페이지 미리보기
 
 ## Find panel button title and messages
 
@@ -143,6 +167,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = 다음
 pdfjs-find-highlight-checkbox = 모두 강조 표시
 pdfjs-find-match-case-checkbox-label = 대/소문자 구분
+pdfjs-find-entire-word-checkbox-label = 단어 단위로
 pdfjs-find-reached-top = 문서 처음까지 검색하고 끝으로 돌아와 검색했습니다.
 pdfjs-find-reached-bottom = 문서 끝까지 검색하고 앞으로 돌아와 검색했습니다.
 pdfjs-find-not-found = 검색 결과 없음
@@ -161,6 +186,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date } { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -171,8 +200,10 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = 이 PDF 파일을 열 수 있는 비밀번호를 입력하세요.
 pdfjs-password-ok-button = 확인
 pdfjs-password-cancel-button = 취소
+pdfjs-web-fonts-disabled = 웹 폰트가 비활성화됨: 내장된 PDF 글꼴을 사용할 수 없습니다.
 
 ## Editing
 
