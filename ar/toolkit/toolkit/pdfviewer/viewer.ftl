@@ -52,6 +52,9 @@ pdfjs-printing-not-supported = تحذير: لا يدعم هذا المتصفح �
 pdfjs-thumbs-button =
     .title = اعرض مُصغرات
 pdfjs-thumbs-button-label = مُصغّرات
+pdfjs-findbar-button =
+    .title = ابحث في المستند
+pdfjs-findbar-button-label = ابحث
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -66,6 +69,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = ابحث عن التّواجد السّابق للعبارة
+pdfjs-find-previous-button-label = السابق
+pdfjs-find-next-button =
+    .title = ابحث عن التّواجد التّالي للعبارة
+pdfjs-find-next-button-label = التالي
+pdfjs-find-highlight-checkbox = أبرِز الكل
+pdfjs-find-match-case-checkbox-label = طابق حالة الأحرف
+pdfjs-find-reached-top = تابعت من الأسفل بعدما وصلت إلى بداية المستند
+pdfjs-find-reached-bottom = تابعت من الأعلى بعدما وصلت إلى نهاية المستند
+pdfjs-find-not-found = لا وجود للعبارة
 
 ## Predefined zoom values
 
@@ -86,6 +100,7 @@ pdfjs-loading-error = حدث عطل أثناء تحميل ملف PDF.
 
 ## Password
 
+pdfjs-web-fonts-disabled = خطوط الوب مُعطّلة: تعذّر استخدام خطوط PDF المُضمّنة.
 
 ## Editing
 
