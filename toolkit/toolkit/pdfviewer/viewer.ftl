@@ -45,6 +45,12 @@ pdfjs-print-button-label = اطبع
 pdfjs-tools-button =
     .title = الأدوات
 pdfjs-tools-button-label = الأدوات
+pdfjs-first-page-button =
+    .title = انتقل إلى الصفحة الأولى
+pdfjs-first-page-button-label = انتقل إلى الصفحة الأولى
+pdfjs-last-page-button =
+    .title = انتقل إلى الصفحة الأخيرة
+pdfjs-last-page-button-label = انتقل إلى الصفحة الأخيرة
 pdfjs-page-rotate-cw-button =
     .title = أدر باتجاه عقارب الساعة
 pdfjs-page-rotate-cw-button-label = أدر باتجاه عقارب الساعة
@@ -57,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = أداة اختيار النص
 pdfjs-cursor-hand-tool-button =
     .title = فعّل أداة اليد
 pdfjs-cursor-hand-tool-button-label = أداة اليد
+pdfjs-scroll-vertical-button =
+    .title = استخدم التمرير الرأسي
+pdfjs-scroll-vertical-button-label = التمرير الرأسي
+pdfjs-scroll-horizontal-button =
+    .title = استخدم التمرير الأفقي
+pdfjs-scroll-horizontal-button-label = التمرير الأفقي
+pdfjs-scroll-wrapped-button =
+    .title = استخدم التمرير الملتف
+pdfjs-scroll-wrapped-button-label = التمرير الملتف
+pdfjs-spread-none-button =
+    .title = لا تدمج هوامش الصفحات مع بعضها البعض
+pdfjs-spread-none-button-label = بلا هوامش
+pdfjs-spread-odd-button =
+    .title = ادمج هوامش الصفحات الفردية
+pdfjs-spread-odd-button-label = هوامش الصفحات الفردية
+pdfjs-spread-even-button =
+    .title = ادمج هوامش الصفحات الزوجية
+pdfjs-spread-even-button-label = هوامش الصفحات الزوجية
 
 ## Document properties dialog
 
@@ -87,6 +111,15 @@ pdfjs-document-properties-creator = المنشئ:
 pdfjs-document-properties-producer = منتج PDF:
 pdfjs-document-properties-version = إصدارة PDF:
 pdfjs-document-properties-page-count = عدد الصفحات:
+pdfjs-document-properties-page-size = مقاس الورقة:
+pdfjs-document-properties-page-size-unit-inches = بوصة
+pdfjs-document-properties-page-size-unit-millimeters = ملم
+pdfjs-document-properties-page-size-orientation-portrait = طوليّ
+pdfjs-document-properties-page-size-orientation-landscape = عرضيّ
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = خطاب
+pdfjs-document-properties-page-size-name-legal = قانونيّ
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +128,16 @@ pdfjs-document-properties-page-count = عدد الصفحات:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = ‏{ $width } × ‏{ $height } ‏{ $unit } (‏{ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = ‏{ $width } × ‏{ $height } ‏{ $unit } (‏{ $name }، { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = العرض السريع عبر الوِب:
+pdfjs-document-properties-linearized-yes = نعم
+pdfjs-document-properties-linearized-no = لا
 pdfjs-document-properties-close-button = أغلق
 
 ## Print
@@ -114,6 +154,8 @@ pdfjs-printing-not-ready = تحذير: ملف PDF لم يُحمّل كاملًا
 
 pdfjs-toggle-sidebar-button =
     .title = بدّل ظهور الشريط الجانبي
+pdfjs-toggle-sidebar-notification-button =
+    .title = بدّل ظهور الشريط الجانبي (يحتوي المستند على مخطط أو مرفقات أو طبقات)
 pdfjs-toggle-sidebar-button-label = بدّل ظهور الشريط الجانبي
 pdfjs-document-outline-button =
     .title = اعرض فهرس المستند (نقر مزدوج لتمديد أو تقليص كل العناصر)
@@ -121,6 +163,9 @@ pdfjs-document-outline-button-label = مخطط المستند
 pdfjs-attachments-button =
     .title = اعرض المرفقات
 pdfjs-attachments-button-label = المُرفقات
+pdfjs-layers-button =
+    .title = اعرض الطبقات (انقر مرتين لتصفير كل الطبقات إلى الحالة المبدئية)
+pdfjs-layers-button-label = ‏‏الطبقات
 pdfjs-thumbs-button =
     .title = اعرض مُصغرات
 pdfjs-thumbs-button-label = مُصغّرات
@@ -152,6 +197,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = التالي
 pdfjs-find-highlight-checkbox = أبرِز الكل
 pdfjs-find-match-case-checkbox-label = طابق حالة الأحرف
+pdfjs-find-entire-word-checkbox-label = كلمات كاملة
 pdfjs-find-reached-top = تابعت من الأسفل بعدما وصلت إلى بداية المستند
 pdfjs-find-reached-bottom = تابعت من الأعلى بعدما وصلت إلى نهاية المستند
 pdfjs-find-not-found = لا وجود للعبارة
@@ -168,6 +214,10 @@ pdfjs-page-scale-percent = { $scale }٪
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = صفحة { $page }
 
 ## Loading indicator messages
 
@@ -178,6 +228,10 @@ pdfjs-unexpected-response-error = استجابة خادوم غير متوقعة.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }، { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
