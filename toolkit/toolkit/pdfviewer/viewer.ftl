@@ -63,6 +63,12 @@ pdfjs-cursor-text-select-tool-button-label = ابزارِ انتخابِ متن
 pdfjs-cursor-hand-tool-button =
     .title = فعال کردن ابزارِ دست
 pdfjs-cursor-hand-tool-button-label = ابزار دست
+pdfjs-scroll-vertical-button =
+    .title = استفاده از پیمایش عمودی
+pdfjs-scroll-vertical-button-label = پیمایش عمودی
+pdfjs-scroll-horizontal-button =
+    .title = استفاده از پیمایش افقی
+pdfjs-scroll-horizontal-button-label = پیمایش افقی
 
 ## Document properties dialog
 
@@ -113,6 +119,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-linearized-yes = بله
+pdfjs-document-properties-linearized-no = خیر
 pdfjs-document-properties-close-button = بستن
 
 ## Print
@@ -167,6 +175,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = بعدی
 pdfjs-find-highlight-checkbox = برجسته و هایلایت کردن همه موارد
 pdfjs-find-match-case-checkbox-label = تطبیق کوچکی و بزرگی حروف
+pdfjs-find-entire-word-checkbox-label = تمام کلمه‌ها
 pdfjs-find-reached-top = به بالای صفحه رسیدیم، از پایین ادامه می‌دهیم
 pdfjs-find-reached-bottom = به آخر صفحه رسیدیم، از بالا ادامه می‌دهیم
 pdfjs-find-not-found = عبارت پیدا نشد
