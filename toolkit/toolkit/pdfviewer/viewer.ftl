@@ -178,6 +178,7 @@ pdfjs-current-outline-item-button-label = Current Outline Item
 pdfjs-findbar-button =
     .title = Find in Document
 pdfjs-findbar-button-label = Find
+pdfjs-additional-layers = Additional Layers
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
