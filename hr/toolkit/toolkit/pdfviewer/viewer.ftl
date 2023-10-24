@@ -17,6 +17,21 @@ pdfjs-open-file-button-label = Otvori
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Alati
+pdfjs-tools-button-label = Alati
+pdfjs-first-page-button =
+    .title = Idi na prvu stranicu
+pdfjs-first-page-button-label = Idi na prvu stranicu
+pdfjs-last-page-button =
+    .title = Idi na posljednju stranicu
+pdfjs-last-page-button-label = Idi na posljednju stranicu
+pdfjs-page-rotate-cw-button =
+    .title = Rotiraj u smjeru kazaljke na satu
+pdfjs-page-rotate-cw-button-label = Rotiraj u smjeru kazaljke na satu
+pdfjs-page-rotate-ccw-button =
+    .title = Rotiraj obrnutno od smjera kazaljke na satu
+pdfjs-page-rotate-ccw-button-label = Rotiraj obrnutno od smjera kazaljke na satu
 
 ## Document properties dialog
 
@@ -38,6 +53,9 @@ pdfjs-printing-not-ready = Upozorenje: PDF nije u potpunosti učitan za ispis.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Prikaži/sakrij bočnu traku
+pdfjs-toggle-sidebar-button-label = Prikaži/sakrij bočnu traku
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -75,6 +93,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = U redu
 
 ## Editing
 
