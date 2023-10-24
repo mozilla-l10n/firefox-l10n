@@ -172,6 +172,8 @@ pdfjs-toggle-sidebar-button =
 pdfjs-toggle-sidebar-notification-button =
     .title = Прикажи/сакриј бочну траку (документ садржи контуру/прилоге/слојеве)
 pdfjs-toggle-sidebar-button-label = Прикажи додатну палету
+pdfjs-document-outline-button =
+    .title = Прикажи структуру документа (двоструким кликом проширујете/скупљате све ставке)
 pdfjs-document-outline-button-label = Контура документа
 pdfjs-attachments-button =
     .title = Прикажи прилоге
@@ -182,10 +184,13 @@ pdfjs-layers-button-label = Слојеви
 pdfjs-thumbs-button =
     .title = Прикажи сличице
 pdfjs-thumbs-button-label = Сличице
+pdfjs-current-outline-item-button =
+    .title = Пронађите тренутни елемент структуре
 pdfjs-current-outline-item-button-label = Тренутна контура
 pdfjs-findbar-button =
     .title = Пронађи у документу
 pdfjs-findbar-button-label = Пронађи
+pdfjs-additional-layers = Додатни слојеви
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -203,7 +208,11 @@ pdfjs-thumb-page-canvas =
 pdfjs-find-input =
     .title = Пронађи
     .placeholder = Пронађи у документу…
+pdfjs-find-previous-button =
+    .title = Пронађи претходно појављивање фразе
 pdfjs-find-previous-button-label = Претходна
+pdfjs-find-next-button =
+    .title = Пронађи следеће појављивање фразе
 pdfjs-find-next-button-label = Следећа
 pdfjs-find-highlight-checkbox = Истакнути све
 pdfjs-find-match-case-checkbox-label = Подударања
@@ -225,10 +234,16 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Страница { $page }
 
 ## Loading indicator messages
 
 pdfjs-loading-error = Дошло је до грешке приликом учитавања PDF-а.
+pdfjs-invalid-file-error = PDF датотека је неважећа или је оштећена.
+pdfjs-missing-file-error = Недостаје PDF датотека.
 pdfjs-unexpected-response-error = Неочекиван одговор од сервера.
 pdfjs-rendering-error = Дошло је до грешке приликом рендеровања ове странице.
 
