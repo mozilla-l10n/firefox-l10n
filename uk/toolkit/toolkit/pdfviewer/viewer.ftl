@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Попередня
 pdfjs-next-button =
     .title = Наступна сторінка
 pdfjs-next-button-label = Наступна
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Сторінка
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = із { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } із { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Зменшити
 pdfjs-zoom-out-button-label = Зменшити
@@ -28,9 +39,36 @@ pdfjs-open-file-button-label = Відкрити
 pdfjs-print-button =
     .title = Друк
 pdfjs-print-button-label = Друк
+pdfjs-bookmark-button =
+    .title = Поточна сторінка (перегляд URL-адреси з поточної сторінки)
+pdfjs-bookmark-button-label = Поточна сторінка
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Інструменти
+pdfjs-tools-button-label = Інструменти
+pdfjs-first-page-button =
+    .title = На першу сторінку
+pdfjs-first-page-button-label = На першу сторінку
+pdfjs-last-page-button =
+    .title = На останню сторінку
+pdfjs-last-page-button-label = На останню сторінку
+pdfjs-page-rotate-cw-button =
+    .title = Повернути за годинниковою стрілкою
+pdfjs-page-rotate-cw-button-label = Повернути за годинниковою стрілкою
+pdfjs-page-rotate-ccw-button =
+    .title = Повернути проти годинникової стрілки
+pdfjs-page-rotate-ccw-button-label = Повернути проти годинникової стрілки
+pdfjs-cursor-text-select-tool-button =
+    .title = Увімкнути інструмент вибору тексту
+pdfjs-cursor-text-select-tool-button-label = Інструмент вибору тексту
+pdfjs-cursor-hand-tool-button =
+    .title = Увімкнути інструмент "Рука"
+pdfjs-cursor-hand-tool-button-label = Інструмент "Рука"
+pdfjs-scroll-page-button =
+    .title = Використовувати прокручування сторінки
+pdfjs-scroll-page-button-label = Прокручування сторінки
 
 ## Document properties dialog
 
@@ -39,11 +77,20 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Властивості документа…
 pdfjs-document-properties-file-name = Назва файла:
 pdfjs-document-properties-file-size = Розмір файла:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } КБ ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } МБ ({ $size_b } bytes)
 pdfjs-document-properties-title = Заголовок:
 pdfjs-document-properties-author = Автор:
 pdfjs-document-properties-subject = Тема:
 pdfjs-document-properties-keywords = Ключові слова:
 pdfjs-document-properties-creation-date = Дата створення:
+pdfjs-document-properties-modification-date = Дата зміни:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -52,6 +99,7 @@ pdfjs-document-properties-creator = Створено:
 pdfjs-document-properties-producer = Виробник PDF:
 pdfjs-document-properties-version = Версія PDF:
 pdfjs-document-properties-page-count = Кількість сторінок:
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -67,14 +115,36 @@ pdfjs-document-properties-close-button = Закрити
 
 ## Print
 
+pdfjs-print-progress-message = Підготовка документу до друку…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Скасувати
 pdfjs-printing-not-supported = Попередження: Цей браузер не повністю підтримує друк.
+pdfjs-printing-not-ready = Попередження: PDF не повністю завантажений для друку.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Бічна панель
+pdfjs-toggle-sidebar-notification-button =
+    .title = Перемкнути бічну панель (документ містить ескіз/вкладення/шари)
 pdfjs-toggle-sidebar-button-label = Перемкнути бічну панель
+pdfjs-document-outline-button =
+    .title = Показати схему документу (подвійний клік для розгортання/згортання елементів)
+pdfjs-document-outline-button-label = Схема документа
+pdfjs-attachments-button =
+    .title = Показати прикріплення
+pdfjs-attachments-button-label = Прикріплення
+pdfjs-layers-button =
+    .title = Показати шари (двічі клацніть, щоб скинути всі шари до типового стану)
+pdfjs-layers-button-label = Шари
 pdfjs-thumbs-button =
     .title = Показувати ескізи
 pdfjs-thumbs-button-label = Ескізи
+pdfjs-findbar-button =
+    .title = Знайти в документі
+pdfjs-findbar-button-label = Знайти
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -89,6 +159,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Знайти
+    .placeholder = Знайти в документі…
 pdfjs-find-previous-button =
     .title = Знайти попереднє входження фрази
 pdfjs-find-previous-button-label = Попереднє
@@ -105,14 +178,19 @@ pdfjs-find-not-found = Фразу не знайдено
 
 pdfjs-page-scale-width = За шириною
 pdfjs-page-scale-actual = Дійсний розмір
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
 
 ## Loading indicator messages
 
+pdfjs-loading-error = Під час завантаження PDF сталася помилка.
 pdfjs-invalid-file-error = Недійсний або пошкоджений PDF-файл.
 pdfjs-missing-file-error = Відсутній PDF-файл.
+pdfjs-unexpected-response-error = Неочікувана відповідь сервера.
 
 ## Annotations
 
@@ -127,6 +205,31 @@ pdfjs-web-fonts-disabled = Веб-шрифти вимкнено: неможли�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Текст
+pdfjs-editor-free-text-button-label = Текст
+pdfjs-editor-ink-button =
+    .title = Малювати
+pdfjs-editor-ink-button-label = Малювати
+pdfjs-editor-stamp-button =
+    .title = Додати чи редагувати зображення
+pdfjs-editor-stamp-button-label = Додати чи редагувати зображення
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Колір
+pdfjs-editor-free-text-size-input = Розмір
+pdfjs-editor-ink-color-input = Колір
+pdfjs-editor-ink-thickness-input = Товщина
+pdfjs-editor-ink-opacity-input = Прозорість
+pdfjs-editor-stamp-add-image-button =
+    .title = Додати зображення
+pdfjs-editor-stamp-add-image-button-label = Додати зображення
+pdfjs-free-text =
+    .aria-label = Текстовий редактор
+pdfjs-free-text-default-content = Почніть вводити…
+pdfjs-ink =
+    .aria-label = Графічний редактор
+pdfjs-ink-canvas =
+    .aria-label = Зображення, створене користувачем
 
 ## Alt-text dialog
 
@@ -134,3 +237,11 @@ pdfjs-web-fonts-disabled = Веб-шрифти вимкнено: неможли�
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Верхній лівий кут — зміна розміру
+pdfjs-editor-resizer-label-top-middle = Вгорі посередині — зміна розміру
+pdfjs-editor-resizer-label-top-right = Верхній правий кут — зміна розміру
+pdfjs-editor-resizer-label-middle-right = Праворуч посередині — зміна розміру
+pdfjs-editor-resizer-label-bottom-right = Нижній правий кут — зміна розміру
+pdfjs-editor-resizer-label-bottom-middle = Внизу посередині — зміна розміру
+pdfjs-editor-resizer-label-bottom-left = Нижній лівий кут — зміна розміру
+pdfjs-editor-resizer-label-middle-left = Ліворуч посередині — зміна розміру
