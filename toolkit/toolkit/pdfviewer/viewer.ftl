@@ -42,6 +42,15 @@ pdfjs-print-button-label = Afdrukken
 pdfjs-save-button =
     .title = Opslaan
 pdfjs-save-button-label = Opslaan
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Downloaden
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Downloaden
+pdfjs-bookmark-button =
+    .title = Huidige pagina (URL van huidige pagina bekijken)
+pdfjs-bookmark-button-label = Huidige pagina
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
     .title = Openen in app
@@ -72,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Tekstselectiehulpmiddel
 pdfjs-cursor-hand-tool-button =
     .title = Handhulpmiddel inschakelen
 pdfjs-cursor-hand-tool-button-label = Handhulpmiddel
+pdfjs-scroll-page-button =
+    .title = Paginascrollen gebruiken
+pdfjs-scroll-page-button-label = Paginascrollen
 pdfjs-scroll-vertical-button =
     .title = Verticaal scrollen gebruiken
 pdfjs-scroll-vertical-button-label = Verticaal scrollen
@@ -109,6 +121,7 @@ pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = Titel:
 pdfjs-document-properties-author = Auteur:
 pdfjs-document-properties-subject = Onderwerp:
+pdfjs-document-properties-keywords = Sleutelwoorden:
 pdfjs-document-properties-creation-date = Aanmaakdatum:
 pdfjs-document-properties-modification-date = Wijzigingsdatum:
 # Variables:
@@ -162,6 +175,8 @@ pdfjs-printing-not-ready = Waarschuwing: de PDF is niet volledig geladen voor af
 
 pdfjs-toggle-sidebar-button =
     .title = Zijbalk in-/uitschakelen
+pdfjs-toggle-sidebar-notification-button =
+    .title = Zijbalk in-/uitschakelen (document bevat overzicht/bijlagen/lagen)
 pdfjs-toggle-sidebar-button-label = Zijbalk in-/uitschakelen
 pdfjs-document-outline-button =
     .title = Documentoverzicht tonen (dubbelklik om alle items uit/samen te vouwen)
@@ -169,10 +184,15 @@ pdfjs-document-outline-button-label = Documentoverzicht
 pdfjs-attachments-button =
     .title = Bijlagen tonen
 pdfjs-attachments-button-label = Bijlagen
+pdfjs-layers-button =
+    .title = Lagen tonen (dubbelklik om alle lagen naar de standaardstatus terug te zetten)
 pdfjs-layers-button-label = Lagen
 pdfjs-thumbs-button =
     .title = Miniaturen tonen
 pdfjs-thumbs-button-label = Miniaturen
+pdfjs-current-outline-item-button =
+    .title = Huidig item in inhoudsopgave zoeken
+pdfjs-current-outline-item-button-label = Huidig item in inhoudsopgave
 pdfjs-findbar-button =
     .title = Zoeken in document
 pdfjs-findbar-button-label = Zoeken
@@ -201,6 +221,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Volgende
 pdfjs-find-highlight-checkbox = Alles markeren
 pdfjs-find-match-case-checkbox-label = Hoofdlettergevoelig
+pdfjs-find-match-diacritics-checkbox-label = Diakritische tekens gebruiken
 pdfjs-find-entire-word-checkbox-label = Hele woorden
 pdfjs-find-reached-top = Bovenkant van document bereikt, doorgegaan vanaf onderkant
 pdfjs-find-reached-bottom = Onderkant van document bereikt, doorgegaan vanaf bovenkant
@@ -218,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Pagina { $page }
 
 ## Loading indicator messages
 
@@ -225,6 +250,7 @@ pdfjs-loading-error = Er is een fout opgetreden bij het laden van de PDF.
 pdfjs-invalid-file-error = Ongeldig of beschadigd PDF-bestand.
 pdfjs-missing-file-error = PDF-bestand ontbreekt.
 pdfjs-unexpected-response-error = Onverwacht serverantwoord.
+pdfjs-rendering-error = Er is een fout opgetreden bij het weergeven van de pagina.
 
 ## Annotations
 
@@ -250,10 +276,58 @@ pdfjs-web-fonts-disabled = Weblettertypen zijn uitgeschakeld: gebruik van ingebe
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Tekst
+pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Tekenen
+pdfjs-editor-ink-button-label = Tekenen
+pdfjs-editor-stamp-button =
+    .title = Afbeeldingen toevoegen of bewerken
+pdfjs-editor-stamp-button-label = Afbeeldingen toevoegen of bewerken
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Kleur
+pdfjs-editor-free-text-size-input = Grootte
+pdfjs-editor-ink-color-input = Kleur
+pdfjs-editor-ink-thickness-input = Dikte
+pdfjs-editor-ink-opacity-input = Opaciteit
+pdfjs-editor-stamp-add-image-button =
+    .title = Afbeelding toevoegen
+pdfjs-editor-stamp-add-image-button-label = Afbeelding toevoegen
+pdfjs-free-text =
+    .aria-label = Tekstbewerker
+pdfjs-free-text-default-content = Begin met typen…
+pdfjs-ink =
+    .aria-label = Tekeningbewerker
+pdfjs-ink-canvas =
+    .aria-label = Door gebruiker gemaakte afbeelding
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternatieve tekst
+pdfjs-editor-alt-text-edit-button-label = Alternatieve tekst bewerken
+pdfjs-editor-alt-text-dialog-label = Kies een optie
+pdfjs-editor-alt-text-dialog-description = Alternatieve tekst helpt wanneer mensen de afbeelding niet kunnen zien of wanneer deze niet wordt geladen.
+pdfjs-editor-alt-text-add-description-label = Voeg een beschrijving toe
+pdfjs-editor-alt-text-add-description-description = Streef naar 1-2 zinnen die het onderwerp, de omgeving of de acties beschrijven.
+pdfjs-editor-alt-text-mark-decorative-label = Als decoratief markeren
+pdfjs-editor-alt-text-mark-decorative-description = Dit wordt gebruikt voor sierafbeeldingen, zoals randen of watermerken.
+pdfjs-editor-alt-text-cancel-button = Annuleren
+pdfjs-editor-alt-text-save-button = Opslaan
+pdfjs-editor-alt-text-decorative-tooltip = Als decoratief gemarkeerd
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Bijvoorbeeld: ‘Een jonge man gaat aan een tafel zitten om te eten’
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Linkerbovenhoek – formaat wijzigen
+pdfjs-editor-resizer-label-top-middle = Midden boven – formaat wijzigen
+pdfjs-editor-resizer-label-top-right = Rechterbovenhoek – formaat wijzigen
+pdfjs-editor-resizer-label-middle-right = Midden rechts – formaat wijzigen
+pdfjs-editor-resizer-label-bottom-right = Rechterbenedenhoek – formaat wijzigen
+pdfjs-editor-resizer-label-bottom-middle = Midden onder – formaat wijzigen
+pdfjs-editor-resizer-label-bottom-left = Linkerbenedenhoek – formaat wijzigen
+pdfjs-editor-resizer-label-middle-left = Links midden – formaat wijzigen
