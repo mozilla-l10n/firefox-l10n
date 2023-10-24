@@ -95,6 +95,7 @@ pdfjs-scroll-wrapped-button =
 pdfjs-scroll-wrapped-button-label = Cuộn ngắt dòng
 pdfjs-spread-none-button =
     .title = Không nối rộng trang
+pdfjs-spread-none-button-label = Không có phân cách
 pdfjs-spread-odd-button =
     .title = Nối trang bài bắt đầu với các trang được đánh số lẻ
 pdfjs-spread-odd-button-label = Phân cách theo số lẻ
