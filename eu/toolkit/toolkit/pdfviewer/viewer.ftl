@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Testuaren hautapen tresna
 pdfjs-cursor-hand-tool-button =
     .title = Gaitu eskuaren tresna
 pdfjs-cursor-hand-tool-button-label = Eskuaren tresna
+pdfjs-scroll-vertical-button =
+    .title = Erabili korritze bertikala
+pdfjs-scroll-vertical-button-label = Korritze bertikala
+pdfjs-scroll-horizontal-button =
+    .title = Erabili korritze horizontala
+pdfjs-scroll-horizontal-button-label = Korritze horizontala
+pdfjs-scroll-wrapped-button =
+    .title = Erabili korritze egokitua
+pdfjs-scroll-wrapped-button-label = Korritze egokitua
+pdfjs-spread-none-button =
+    .title = Ez elkartu barreiatutako orriak
+pdfjs-spread-none-button-label = Barreiatzerik ez
+pdfjs-spread-odd-button =
+    .title = Elkartu barreiatutako orriak bakoiti zenbakidunekin hasita
+pdfjs-spread-odd-button-label = Barreiatze bakoitia
+pdfjs-spread-even-button =
+    .title = Elkartu barreiatutako orriak bikoiti zenbakidunekin hasita
+pdfjs-spread-even-button-label = Barreiatze bikoitia
 
 ## Document properties dialog
 
@@ -93,6 +111,15 @@ pdfjs-document-properties-creator = Sortzailea:
 pdfjs-document-properties-producer = PDFaren ekoizlea:
 pdfjs-document-properties-version = PDF bertsioa:
 pdfjs-document-properties-page-count = Orrialde kopurua:
+pdfjs-document-properties-page-size = Orriaren tamaina:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = bertikala
+pdfjs-document-properties-page-size-orientation-landscape = horizontala
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Gutuna
+pdfjs-document-properties-page-size-name-legal = Legala
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,9 +128,16 @@ pdfjs-document-properties-page-count = Orrialde kopurua:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Webeko ikuspegi bizkorra:
+pdfjs-document-properties-linearized-yes = Bai
+pdfjs-document-properties-linearized-no = Ez
 pdfjs-document-properties-close-button = Itxi
 
 ## Print
@@ -158,6 +192,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Hurrengoa
 pdfjs-find-highlight-checkbox = Nabarmendu guztia
 pdfjs-find-match-case-checkbox-label = Bat etorri maiuskulekin/minuskulekin
+pdfjs-find-entire-word-checkbox-label = Hitz osoak
 pdfjs-find-reached-top = Dokumentuaren hasierara heldu da, bukaeratik jarraitzen
 pdfjs-find-reached-bottom = Dokumentuaren bukaerara heldu da, hasieratik jarraitzen
 pdfjs-find-not-found = Esaldia ez da aurkitu
@@ -184,6 +219,10 @@ pdfjs-unexpected-response-error = Espero gabeko zerbitzariaren erantzuna.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
