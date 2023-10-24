@@ -163,6 +163,8 @@ pdfjs-document-outline-button-label = Sinedoù an teuliad
 pdfjs-attachments-button =
     .title = Diskouez ar c'henstagadurioù
 pdfjs-attachments-button-label = Kenstagadurioù
+pdfjs-layers-button =
+    .title = Diskouez ar gwiskadoù (daou-glikañ evit adderaouekaat an holl gwiskadoù d'o stad dre ziouer)
 pdfjs-layers-button-label = Gwiskadoù
 pdfjs-thumbs-button =
     .title = Diskouez ar melvennoù
@@ -170,6 +172,7 @@ pdfjs-thumbs-button-label = Melvennoù
 pdfjs-findbar-button =
     .title = Klask e-barzh an teuliad
 pdfjs-findbar-button-label = Klask
+pdfjs-additional-layers = Gwiskadoù ouzhpenn
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -212,6 +215,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Pajenn { $page }
 
 ## Loading indicator messages
 
