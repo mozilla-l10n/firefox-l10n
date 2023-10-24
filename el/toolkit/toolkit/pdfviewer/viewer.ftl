@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Άνοιγμα
 pdfjs-print-button =
     .title = Εκτύπωση
 pdfjs-print-button-label = Εκτύπωση
+pdfjs-save-button =
+    .title = Αποθήκευση
+pdfjs-save-button-label = Αποθήκευση
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Λήψη
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Λήψη
+pdfjs-bookmark-button =
+    .title = Τρέχουσα σελίδα (Προβολή URL από τρέχουσα σελίδα)
+pdfjs-bookmark-button-label = Τρέχουσα σελίδα
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Άνοιγμα σε εφαρμογή
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Άνοιγμα σε εφαρμογή
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Εργαλείο επιλογής �
 pdfjs-cursor-hand-tool-button =
     .title = Ενεργοποίηση εργαλείου χεριού
 pdfjs-cursor-hand-tool-button-label = Εργαλείο χεριού
+pdfjs-scroll-page-button =
+    .title = Χρήση κύλισης σελίδας
+pdfjs-scroll-page-button-label = Κύλιση σελίδας
 pdfjs-scroll-vertical-button =
     .title = Χρήση κάθετης κύλισης
 pdfjs-scroll-vertical-button-label = Κάθετη κύλιση
@@ -72,6 +93,8 @@ pdfjs-scroll-horizontal-button-label = Οριζόντια κύλιση
 pdfjs-scroll-wrapped-button =
     .title = Χρήση κυκλικής κύλισης
 pdfjs-scroll-wrapped-button-label = Κυκλική κύλιση
+pdfjs-spread-none-button =
+    .title = Να μη γίνει σύνδεση επεκτάσεων σελίδων
 pdfjs-spread-none-button-label = Χωρίς επεκτάσεις
 pdfjs-spread-odd-button =
     .title = Σύνδεση επεκτάσεων σελίδων ξεκινώντας από τις μονές σελίδες
@@ -98,6 +121,7 @@ pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = Τίτλος:
 pdfjs-document-properties-author = Συγγραφέας:
 pdfjs-document-properties-subject = Θέμα:
+pdfjs-document-properties-keywords = Λέξεις-κλειδιά:
 pdfjs-document-properties-creation-date = Ημερομηνία δημιουργίας:
 pdfjs-document-properties-modification-date = Ημερομηνία τροποποίησης:
 # Variables:
@@ -110,6 +134,7 @@ pdfjs-document-properties-version = Έκδοση PDF:
 pdfjs-document-properties-page-count = Αριθμός σελίδων:
 pdfjs-document-properties-page-size = Μέγεθος σελίδας:
 pdfjs-document-properties-page-size-unit-inches = ίντσες
+pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = κατακόρυφα
 pdfjs-document-properties-page-size-orientation-landscape = οριζόντια
 pdfjs-document-properties-page-size-name-a-three = A3
@@ -142,18 +167,36 @@ pdfjs-print-progress-message = Προετοιμασία του εγγράφου 
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Ακύρωση
+pdfjs-printing-not-supported = Προειδοποίηση: Η εκτύπωση δεν υποστηρίζεται πλήρως από το πρόγραμμα περιήγησης.
 pdfjs-printing-not-ready = Προειδοποίηση: Το PDF δεν φορτώθηκε πλήρως για εκτύπωση.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = (Απ)ενεργοποίηση πλαϊνής γραμμής
+pdfjs-toggle-sidebar-notification-button =
+    .title = (Απ)ενεργοποίηση πλαϊνής γραμμής (το έγγραφο περιέχει περίγραμμα/συνημμένα/επίπεδα)
+pdfjs-toggle-sidebar-button-label = (Απ)ενεργοποίηση πλαϊνής γραμμής
 pdfjs-document-outline-button =
     .title = Εμφάνιση διάρθρωσης εγγράφου (διπλό κλικ για ανάπτυξη/σύμπτυξη όλων των στοιχείων)
 pdfjs-document-outline-button-label = Διάρθρωση εγγράφου
+pdfjs-attachments-button =
+    .title = Εμφάνιση συνημμένων
 pdfjs-attachments-button-label = Συνημμένα
+pdfjs-layers-button =
+    .title = Εμφάνιση επιπέδων (διπλό κλικ για επαναφορά όλων των επιπέδων στην προεπιλεγμένη κατάσταση)
+pdfjs-layers-button-label = Επίπεδα
+pdfjs-thumbs-button =
+    .title = Εμφάνιση μικρογραφιών
 pdfjs-thumbs-button-label = Μικρογραφίες
+pdfjs-current-outline-item-button =
+    .title = Εύρεση τρέχοντος στοιχείου διάρθρωσης
+pdfjs-current-outline-item-button-label = Τρέχον στοιχείο διάρθρωσης
 pdfjs-findbar-button =
     .title = Εύρεση στο έγγραφο
 pdfjs-findbar-button-label = Εύρεση
+pdfjs-additional-layers = Επιπρόσθετα επίπεδα
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -161,6 +204,10 @@ pdfjs-findbar-button-label = Εύρεση
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = Σελίδα { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Μικρογραφία σελίδας { $page }
 
 ## Find panel button title and messages
 
@@ -174,6 +221,11 @@ pdfjs-find-next-button =
     .title = Εύρεση της επόμενης εμφάνισης της φράσης
 pdfjs-find-next-button-label = Επόμενο
 pdfjs-find-highlight-checkbox = Επισήμανση όλων
+pdfjs-find-match-case-checkbox-label = Συμφωνία πεζών/κεφαλαίων
+pdfjs-find-match-diacritics-checkbox-label = Αντιστοίχιση διακριτικών
+pdfjs-find-entire-word-checkbox-label = Ολόκληρες λέξεις
+pdfjs-find-reached-top = Φτάσατε στην αρχή του εγγράφου, συνέχεια από το τέλος
+pdfjs-find-reached-bottom = Φτάσατε στο τέλος του εγγράφου, συνέχεια από την αρχή
 pdfjs-find-not-found = Η φράση δεν βρέθηκε
 
 ## Predefined zoom values
@@ -188,26 +240,95 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Σελίδα { $page }
 
 ## Loading indicator messages
 
+pdfjs-loading-error = Προέκυψε σφάλμα κατά τη φόρτωση του PDF.
 pdfjs-invalid-file-error = Μη έγκυρο ή κατεστραμμένο αρχείο PDF.
 pdfjs-missing-file-error = Λείπει αρχείο PDF.
 pdfjs-unexpected-response-error = Μη αναμενόμενη απόκριση από το διακομιστή.
+pdfjs-rendering-error = Προέκυψε σφάλμα κατά την εμφάνιση της σελίδας.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Σχόλιο «{ $type }»]
 
 ## Password
 
+pdfjs-password-label = Εισαγάγετε τον κωδικό πρόσβασης για να ανοίξετε αυτό το αρχείο PDF.
+pdfjs-password-invalid = Μη έγκυρος κωδικός πρόσβασης. Παρακαλώ δοκιμάστε ξανά.
+pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Ακύρωση
+pdfjs-web-fonts-disabled = Οι γραμματοσειρές ιστού είναι ανενεργές: δεν είναι δυνατή η χρήση των ενσωματωμένων γραμματοσειρών PDF.
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Κείμενο
+pdfjs-editor-free-text-button-label = Κείμενο
+pdfjs-editor-ink-button =
+    .title = Σχέδιο
+pdfjs-editor-ink-button-label = Σχέδιο
+pdfjs-editor-stamp-button =
+    .title = Προσθήκη ή επεξεργασία εικόνων
+pdfjs-editor-stamp-button-label = Προσθήκη ή επεξεργασία εικόνων
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Χρώμα
+pdfjs-editor-free-text-size-input = Μέγεθος
+pdfjs-editor-ink-color-input = Χρώμα
+pdfjs-editor-ink-thickness-input = Πάχος
+pdfjs-editor-ink-opacity-input = Αδιαφάνεια
+pdfjs-editor-stamp-add-image-button =
+    .title = Προσθήκη εικόνας
+pdfjs-editor-stamp-add-image-button-label = Προσθήκη εικόνας
+pdfjs-free-text =
+    .aria-label = Επεξεργασία κειμένου
+pdfjs-free-text-default-content = Ξεκινήστε να πληκτρολογείτε…
+pdfjs-ink =
+    .aria-label = Επεξεργασία σχεδίων
+pdfjs-ink-canvas =
+    .aria-label = Εικόνα από τον χρήστη
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Εναλλακτικό κείμενο
+pdfjs-editor-alt-text-edit-button-label = Επεξεργασία εναλλακτικού κειμένου
+pdfjs-editor-alt-text-dialog-label = Διαλέξτε μια επιλογή
+pdfjs-editor-alt-text-dialog-description = Το εναλλακτικό κείμενο είναι χρήσιμο όταν οι άνθρωποι δεν μπορούν να δουν την εικόνα ή όταν αυτή δεν φορτώνεται.
+pdfjs-editor-alt-text-add-description-label = Προσθήκη περιγραφής
+pdfjs-editor-alt-text-add-description-description = Στοχεύστε σε μία ή δύο προτάσεις που περιγράφουν το θέμα, τη ρύθμιση ή τις ενέργειες.
+pdfjs-editor-alt-text-mark-decorative-label = Επισήμανση ως διακοσμητικό
+pdfjs-editor-alt-text-mark-decorative-description = Χρησιμοποιείται για διακοσμητικές εικόνες, όπως περιγράμματα ή υδατογραφήματα.
+pdfjs-editor-alt-text-cancel-button = Ακύρωση
+pdfjs-editor-alt-text-save-button = Αποθήκευση
+pdfjs-editor-alt-text-decorative-tooltip = Επισημασμένο ως διακοσμητικό
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Για παράδειγμα, «Ένας νεαρός άνδρας κάθεται σε ένα τραπέζι για να φάει ένα γεύμα»
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Επάνω αριστερή γωνία — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-top-middle = Μέσο επάνω πλευράς — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-top-right = Επάνω δεξιά γωνία — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-middle-right = Μέσο δεξιάς πλευράς — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-bottom-right = Κάτω δεξιά γωνία — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-bottom-middle = Μέσο κάτω πλευράς — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-bottom-left = Κάτω αριστερή γωνία — αλλαγή μεγέθους
+pdfjs-editor-resizer-label-middle-left = Μέσο αριστερής πλευράς — αλλαγή μεγέθους
