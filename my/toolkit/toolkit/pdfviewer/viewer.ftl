@@ -57,6 +57,7 @@ pdfjs-document-properties-file-size = ဖိုင်ဆိုဒ် :
 pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = ခေါင်းစဉ်‌ -
 pdfjs-document-properties-author = ရေးသားသူ:
+pdfjs-document-properties-subject = အကြောင်းအရာ:
 pdfjs-document-properties-keywords = သော့ချက် စာလုံး:
 pdfjs-document-properties-creation-date = ထုတ်လုပ်ရက်စွဲ:
 pdfjs-document-properties-modification-date = ပြင်ဆင်ရက်စွဲ:
