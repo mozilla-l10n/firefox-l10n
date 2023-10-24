@@ -7,28 +7,47 @@
 
 autofill-manage-addresses-title = Mentett címek
 autofill-manage-addresses-list-header = Címek
-
 autofill-manage-credit-cards-title = Mentett bankkártyák
 autofill-manage-credit-cards-list-header = Bankkártyák
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eltávolítás
 autofill-manage-add-button = Hozzáadás…
 autofill-manage-edit-button = Szerkesztés…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Menti a címet?
+address-capture-save-doorhanger-description = Mentse az információkat a { -brand-short-name }ba, hogy gyorsan ki tudja tölteni az űrlapokat.
+address-capture-update-doorhanger-header = Frissíti a címet?
+address-capture-edit-doorhanger-header = Cím szerkesztése
+address-capture-save-button =
+    .label = Mentés
+    .accessKey = M
+address-capture-not-now-button =
+    .label = Most nem
+    .accessKey = n
+address-capture-cancel-button =
+    .label = Mégse
+    .accessKey = s
+address-capture-update-button =
+    .label = Frissítés
+    .accessKey = F
+address-capture-manage-address-button =
+    .label = Címbeállítások
+address-capture-learn-more-button =
+    .label = További tudnivalók
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Új cím hozzáadása
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Cím szerkesztése
-
+autofill-address-name = Név
 autofill-address-given-name = Utónév
 autofill-address-additional-name = Egyéb név
 autofill-address-family-name = Vezetéknév
 autofill-address-organization = Szervezet
-autofill-address-street = Utca, hászszám
+autofill-address-street-address = Utca, házszám
+autofill-address-street = Utca, házszám
 
 ## address-level-3 (Sublocality) names
 
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Ország vagy régió
+autofill-address-country-only = Ország
 autofill-address-tel = Telefonszám
 autofill-address-email = E-mail
-
 autofill-cancel-button = Mégse
 autofill-save-button = Mentés
 autofill-country-warning-message = Az űrlapkitöltés jelenleg csak egyes országbeli címekre érhető el.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Új bankkártya hozzáadása
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Bankkártya szerkesztése
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni. Erősítse meg a hozzáférést az alábbi Windows-fiókhoz.
        *[other] A { -brand-short-name } bankkártyaadatokat akar megjeleníteni.
     }
-
 autofill-card-number = Kártyaszám
 autofill-card-invalid-number = Írjon be érvényes kártyaszámot
 autofill-card-name-on-card = Kártyán szereplő név
