@@ -57,6 +57,30 @@ pdfjs-page-rotate-cw-button-label = Ротирај у смеру казаљке 
 pdfjs-page-rotate-ccw-button =
     .title = Ротирај у смеру супротном од казаљке на сату
 pdfjs-page-rotate-ccw-button-label = Ротирај у смеру супротном од казаљке на сату
+pdfjs-cursor-text-select-tool-button =
+    .title = Омогући алат за селектовање текста
+pdfjs-cursor-text-select-tool-button-label = Алат за селектовање текста
+pdfjs-cursor-hand-tool-button =
+    .title = Омогући алат за померање
+pdfjs-cursor-hand-tool-button-label = Алат за померање
+pdfjs-scroll-vertical-button =
+    .title = Користи вертикално скроловање
+pdfjs-scroll-vertical-button-label = Вертикално скроловање
+pdfjs-scroll-horizontal-button =
+    .title = Користи хоризонтално скроловање
+pdfjs-scroll-horizontal-button-label = Хоризонтално скроловање
+pdfjs-scroll-wrapped-button =
+    .title = Користи скроловање по омоту
+pdfjs-scroll-wrapped-button-label = Скроловање по омоту
+pdfjs-spread-none-button =
+    .title = Немој спајати ширења страница
+pdfjs-spread-none-button-label = Без распростирања
+pdfjs-spread-odd-button =
+    .title = Споји ширења страница које почињу непарним бројем
+pdfjs-spread-odd-button-label = Непарна распростирања
+pdfjs-spread-even-button =
+    .title = Споји ширења страница које почињу парним бројем
+pdfjs-spread-even-button-label = Парна распростирања
 
 ## Document properties dialog
 
@@ -87,6 +111,15 @@ pdfjs-document-properties-creator = Стваралац:
 pdfjs-document-properties-producer = PDF произвођач:
 pdfjs-document-properties-version = PDF верзија:
 pdfjs-document-properties-page-count = Број страница:
+pdfjs-document-properties-page-size = Величина странице:
+pdfjs-document-properties-page-size-unit-inches = ин
+pdfjs-document-properties-page-size-unit-millimeters = мм
+pdfjs-document-properties-page-size-orientation-portrait = усправно
+pdfjs-document-properties-page-size-orientation-landscape = водоравно
+pdfjs-document-properties-page-size-name-a-three = А3
+pdfjs-document-properties-page-size-name-a-four = А4
+pdfjs-document-properties-page-size-name-letter = Слово
+pdfjs-document-properties-page-size-name-legal = Права
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +128,16 @@ pdfjs-document-properties-page-count = Број страница:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Брз веб приказ:
+pdfjs-document-properties-linearized-yes = Да
+pdfjs-document-properties-linearized-no = Не
 pdfjs-document-properties-close-button = Затвори
 
 ## Print
@@ -139,6 +179,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Пронађи
+    .placeholder = Пронађи у документу…
 pdfjs-find-previous-button-label = Претходна
 pdfjs-find-next-button-label = Следећа
 pdfjs-find-highlight-checkbox = Истакнути све
