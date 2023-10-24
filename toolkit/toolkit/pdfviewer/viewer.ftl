@@ -57,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = घडीको दिशामा घुम
 pdfjs-page-rotate-ccw-button =
     .title = घडीको विपरित दिशामा घुमाउनुहोस्
 pdfjs-page-rotate-ccw-button-label = घडीको विपरित दिशामा घुमाउनुहोस्
+pdfjs-cursor-text-select-tool-button =
+    .title = पाठ चयन उपकरण सक्षम गर्नुहोस्
+pdfjs-cursor-text-select-tool-button-label = पाठ चयन उपकरण
+pdfjs-cursor-hand-tool-button =
+    .title = हाते उपकरण सक्षम गर्नुहोस्
+pdfjs-cursor-hand-tool-button-label = हाते उपकरण
 
 ## Document properties dialog
 
