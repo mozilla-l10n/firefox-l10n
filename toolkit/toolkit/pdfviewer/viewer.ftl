@@ -28,6 +28,14 @@ pdfjs-print-button-label = Argraffu
 
 ## Document properties dialog
 
+pdfjs-document-properties-page-size = Maint Tudalen:
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portread
+pdfjs-document-properties-page-size-orientation-landscape = tirlun
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Llythyr
+pdfjs-document-properties-page-size-name-legal = Cyfreithiol
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -36,12 +44,15 @@ pdfjs-print-button-label = Argraffu
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
 
 ## Print
 
+pdfjs-printing-not-supported = Rhybudd: Nid yw argraffu yn cael ei gynnal yn llawn gan y porwr.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
