@@ -15,6 +15,10 @@ pdfjs-next-button-label = Следна
 pdfjs-page-input =
     .title = Страница
 # Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = од { $pagesCount }
+# Variables:
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pageNumber } од { $pagesCount })
