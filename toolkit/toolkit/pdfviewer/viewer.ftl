@@ -144,10 +144,15 @@ pdfjs-printing-not-ready = Aviso: O PDF non se cargou completamente para imprimi
 
 pdfjs-toggle-sidebar-button =
     .title = Amosar/agochar a barra lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Alternar barra lateral (o documento contén esquema/anexos/capas)
 pdfjs-toggle-sidebar-button-label = Amosar/agochar a barra lateral
 pdfjs-attachments-button =
     .title = Amosar anexos
 pdfjs-attachments-button-label = Anexos
+pdfjs-layers-button =
+    .title = Mostrar capas (prema dúas veces para restaurar todas as capas o estado predeterminado)
+pdfjs-layers-button-label = Capas
 pdfjs-thumbs-button =
     .title = Amosar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
