@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Mục phác thảo hiện tại
 pdfjs-findbar-button =
     .title = Tìm trong tài liệu
 pdfjs-findbar-button-label = Tìm
+pdfjs-additional-layers = Các lớp bổ sung
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
