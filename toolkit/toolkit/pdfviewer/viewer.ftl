@@ -39,6 +39,9 @@ pdfjs-open-file-button-label = Abrir
 pdfjs-print-button =
     .title = Imprimir
 pdfjs-print-button-label = Imprimir
+pdfjs-save-button =
+    .title = Guardar
+pdfjs-save-button-label = Guardar
 # Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
 pdfjs-download-button =
     .title = Descargar
@@ -48,6 +51,12 @@ pdfjs-download-button-label = Descargar
 pdfjs-bookmark-button =
     .title = Página actual (Ver URL de la página actual)
 pdfjs-bookmark-button-label = Página actual
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Abrir en la aplicación
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Abrir en la aplicación
 
 ##  Secondary toolbar and context menu
 
@@ -75,6 +84,15 @@ pdfjs-cursor-hand-tool-button-label = Herramienta mano
 pdfjs-scroll-page-button =
     .title = Usar desplazamiento de página
 pdfjs-scroll-page-button-label = Desplazamiento de página
+pdfjs-scroll-vertical-button =
+    .title = Usar desplazamiento vertical
+pdfjs-scroll-vertical-button-label = Desplazamiento vertical
+pdfjs-scroll-horizontal-button =
+    .title = Usar desplazamiento vertical
+pdfjs-scroll-horizontal-button-label = Desplazamiento horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Usar desplazamiento encapsulado
+pdfjs-scroll-wrapped-button-label = Desplazamiento encapsulado
 pdfjs-spread-none-button =
     .title = No unir páginas dobles
 pdfjs-spread-none-button-label = Sin dobles
@@ -136,6 +154,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Vista rápida de la Web:
+pdfjs-document-properties-linearized-yes = Sí
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Cerrar
 
 ## Print
@@ -167,6 +190,9 @@ pdfjs-layers-button-label = Capas
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-current-outline-item-button =
+    .title = Buscar elemento de esquema actual
+pdfjs-current-outline-item-button-label = Elemento de esquema actual
 pdfjs-findbar-button =
     .title = Buscar en documento
 pdfjs-findbar-button-label = Buscar
@@ -196,6 +222,7 @@ pdfjs-find-next-button-label = Siguiente
 pdfjs-find-highlight-checkbox = Resaltar todo
 pdfjs-find-match-case-checkbox-label = Coincidir mayúsculas
 pdfjs-find-match-diacritics-checkbox-label = Coincidir diacríticos
+pdfjs-find-entire-word-checkbox-label = Palabras completas
 pdfjs-find-reached-top = Inicio de documento alcanzado, continuando desde abajo
 pdfjs-find-reached-bottom = Fin de documento alcanzando, continuando desde arriba
 pdfjs-find-not-found = Frase no encontrada
@@ -223,6 +250,7 @@ pdfjs-loading-error = Ocurrió un error al cargar el PDF.
 pdfjs-invalid-file-error = Archivo PDF no válido o cocrrupto.
 pdfjs-missing-file-error = Archivo PDF faltante.
 pdfjs-unexpected-response-error = Respuesta del servidor inesperada.
+pdfjs-rendering-error = Ocurrió un error al dibujar la página.
 
 ## Annotations
 
@@ -254,6 +282,18 @@ pdfjs-editor-free-text-button-label = Texto
 pdfjs-editor-ink-button =
     .title = Dibujar
 pdfjs-editor-ink-button-label = Dibujar
+pdfjs-editor-stamp-button =
+    .title = Agregar o editar imágenes
+pdfjs-editor-stamp-button-label = Agregar o editar imágenes
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Color
+pdfjs-editor-free-text-size-input = Tamaño
+pdfjs-editor-ink-color-input = Color
+pdfjs-editor-ink-thickness-input = Espesor
+pdfjs-editor-ink-opacity-input = Opacidad
+pdfjs-editor-stamp-add-image-button =
+    .title = Agregar una imagen
+pdfjs-editor-stamp-add-image-button-label = Agregar una imagen
 pdfjs-free-text =
     .aria-label = Editor de texto
 pdfjs-free-text-default-content = Empezar a tipear…
@@ -264,6 +304,21 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Texto alternativo
+pdfjs-editor-alt-text-edit-button-label = Editar el texto alternativo
+pdfjs-editor-alt-text-dialog-label = Eligir una opción
+pdfjs-editor-alt-text-dialog-description = El texto alternativo (texto alternativo) ayuda cuando las personas no pueden ver la imagen o cuando no se carga.
+pdfjs-editor-alt-text-add-description-label = Agregar una descripción
+pdfjs-editor-alt-text-add-description-description = Intente escribir 1 o 2 oraciones que describan el tema, el entorno o las acciones.
+pdfjs-editor-alt-text-mark-decorative-label = Marcar como decorativo
+pdfjs-editor-alt-text-mark-decorative-description = Esto se usa para imágenes ornamentales, como bordes o marcas de agua.
+pdfjs-editor-alt-text-cancel-button = Cancelar
+pdfjs-editor-alt-text-save-button = Guardar
+pdfjs-editor-alt-text-decorative-tooltip = Marcado como decorativo
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Por ejemplo: “Un joven se sienta a la mesa a comer”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
