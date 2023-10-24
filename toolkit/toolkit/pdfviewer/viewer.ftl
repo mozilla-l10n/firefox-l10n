@@ -19,12 +19,33 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = ​ពង្រីក
 pdfjs-zoom-select =
     .title = ពង្រីក
+pdfjs-presentation-mode-button =
+    .title = ប្ដូរ​ទៅ​របៀប​បទ​បង្ហាញ
+pdfjs-presentation-mode-button-label = របៀប​បទ​បង្ហាញ
+pdfjs-open-file-button =
+    .title = បើក​ឯកសារ
+pdfjs-open-file-button-label = បើក
 pdfjs-print-button =
     .title = បោះពុម្ព
 pdfjs-print-button-label = បោះពុម្ព
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = ឧបករណ៍
+pdfjs-tools-button-label = ឧបករណ៍
+pdfjs-first-page-button =
+    .title = ទៅកាន់​ទំព័រ​ដំបូង​
+pdfjs-first-page-button-label = ទៅកាន់​ទំព័រ​ដំបូង​
+pdfjs-last-page-button =
+    .title = ទៅកាន់​ទំព័រ​ចុងក្រោយ​
+pdfjs-last-page-button-label = ទៅកាន់​ទំព័រ​ចុងក្រោយ
+pdfjs-page-rotate-cw-button =
+    .title = បង្វិល​ស្រប​ទ្រនិច​នាឡិកា
+pdfjs-page-rotate-cw-button-label = បង្វិល​ស្រប​ទ្រនិច​នាឡិកា
+pdfjs-page-rotate-ccw-button =
+    .title = បង្វិល​ច្រាស​ទ្រនិច​នាឡិកា​​
+pdfjs-page-rotate-ccw-button-label = បង្វិល​ច្រាស​ទ្រនិច​នាឡិកា​​
 
 ## Document properties dialog
 
@@ -100,9 +121,20 @@ pdfjs-missing-file-error = បាត់​ឯកសារ PDF
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } ចំណារ​ពន្យល់]
 
 ## Password
 
+pdfjs-password-label = បញ្ចូល​ពាក្យសម្ងាត់​ដើម្បី​បើក​ឯកសារ PDF នេះ។
+pdfjs-password-invalid = ពាក្យសម្ងាត់​មិន​ត្រឹមត្រូវ។ សូម​ព្យាយាម​ម្ដងទៀត។
+pdfjs-password-ok-button = យល់​ព្រម
+pdfjs-password-cancel-button = បោះបង់
 pdfjs-web-fonts-disabled = បាន​បិទ​ពុម្ពអក្សរ​បណ្ដាញ ៖ មិន​អាច​ប្រើ​ពុម្ពអក្សរ PDF ដែល​បាន​បង្កប់​បាន​ទេ ។
 
 ## Editing
