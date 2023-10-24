@@ -272,6 +272,12 @@ pdfjs-editor-free-text-button-label = 文本
 pdfjs-editor-ink-button =
     .title = 绘图
 pdfjs-editor-ink-button-label = 绘图
+# Editor Parameters
+pdfjs-editor-free-text-color-input = 颜色
+pdfjs-editor-free-text-size-input = 字号
+pdfjs-editor-ink-color-input = 颜色
+pdfjs-editor-ink-thickness-input = 粗细
+pdfjs-editor-ink-opacity-input = 不透明度
 pdfjs-free-text =
     .aria-label = 文本编辑器
 pdfjs-free-text-default-content = 开始输入…
