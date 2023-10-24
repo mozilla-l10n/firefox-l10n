@@ -87,6 +87,8 @@ pdfjs-spread-even-button-label = Pajennoù par
 pdfjs-document-properties-button =
     .title = Perzhioù an teul…
 pdfjs-document-properties-button-label = Perzhioù an teul…
+pdfjs-document-properties-file-name = Anv restr:
+pdfjs-document-properties-file-size = Ment ar restr:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -95,10 +97,20 @@ pdfjs-document-properties-kb = { $size_kb } Ke ({ $size_b } eizhbit)
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } Me ({ $size_b } eizhbit)
+pdfjs-document-properties-title = Titl:
+pdfjs-document-properties-author = Aozer:
+pdfjs-document-properties-subject = Danvez:
+pdfjs-document-properties-keywords = Gerioù-alc'hwez:
+pdfjs-document-properties-creation-date = Deiziad krouiñ:
+pdfjs-document-properties-modification-date = Deiziad kemmañ:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Krouer:
+pdfjs-document-properties-producer = Kenderc'her PDF:
+pdfjs-document-properties-version = Handelv PDF:
+pdfjs-document-properties-page-count = Niver a bajennoù:
 pdfjs-document-properties-page-size = Ment ar bajenn:
 pdfjs-document-properties-page-size-unit-inches = in
 pdfjs-document-properties-page-size-unit-millimeters = mm
@@ -135,11 +147,15 @@ pdfjs-print-progress-message = O prientiñ an teul evit moullañ...
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Nullañ
+pdfjs-printing-not-supported = Kemenn: N'eo ket skoret penn-da-benn ar moullañ gant ar merdeer-mañ.
+pdfjs-printing-not-ready = Kemenn: N'hall ket bezañ moullet ar restr PDF rak n'eo ket karget penn-da-benn.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
     .title = Diskouez/kuzhat ar varrenn gostez
+pdfjs-toggle-sidebar-notification-button =
+    .title = Trec'haoliñ ar varrenn-gostez (ur steuñv pe stagadennoù a zo en teul)
 pdfjs-toggle-sidebar-button-label = Diskouez/kuzhat ar varrenn gostez
 pdfjs-document-outline-button =
     .title = Diskouez steuñv an teul (daouglikit evit brasaat/bihanaat an holl elfennoù)
@@ -147,6 +163,7 @@ pdfjs-document-outline-button-label = Sinedoù an teuliad
 pdfjs-attachments-button =
     .title = Diskouez ar c'henstagadurioù
 pdfjs-attachments-button-label = Kenstagadurioù
+pdfjs-layers-button-label = Gwiskadoù
 pdfjs-thumbs-button =
     .title = Diskouez ar melvennoù
 pdfjs-thumbs-button-label = Melvennoù
@@ -223,6 +240,7 @@ pdfjs-password-label = Enankit ar ger-tremen evit digeriñ ar restr PDF-mañ.
 pdfjs-password-invalid = Ger-tremen didalvoudek. Klaskit en-dro mar plij.
 pdfjs-password-ok-button = Mat eo
 pdfjs-password-cancel-button = Nullañ
+pdfjs-web-fonts-disabled = Diweredekaet eo an nodrezhoù web: n'haller ket arverañ an nodrezhoù PDF enframmet.
 
 ## Editing
 
