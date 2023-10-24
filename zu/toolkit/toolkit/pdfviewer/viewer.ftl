@@ -105,6 +105,7 @@ pdfjs-page-scale-actual = Usayizi Wangempela
 pdfjs-loading-error = Kwenzeke iphutha uma kulayishwa i-PDF.
 pdfjs-invalid-file-error = Ifayela le-PDF elingavumelekile noma elonakele.
 pdfjs-missing-file-error = Ifayela le-PDF elilahlekile.
+pdfjs-rendering-error = Iphutha lenzekile uma kunikwa ikhasi.
 
 ## Annotations
 
