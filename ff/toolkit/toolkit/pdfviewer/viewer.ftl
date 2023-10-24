@@ -216,6 +216,7 @@ pdfjs-loading-error = Juumre waɗii tuma nde loowata PDF oo.
 pdfjs-invalid-file-error = Fiilde PDF moƴƴaani walla jiibii.
 pdfjs-missing-file-error = Fiilde PDF ena ŋakki.
 pdfjs-unexpected-response-error = Jaabtol sarworde tijjinooka.
+pdfjs-rendering-error = Juumre waɗii tuma nde yoŋkittoo hello.
 
 ## Annotations
 
