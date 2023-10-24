@@ -10,6 +10,7 @@ pdfjs-previous-button =
 pdfjs-previous-button-label = Azewwar
 pdfjs-next-button =
     .title = Asebter d-iteddun
+pdfjs-next-button-label = Ddu ɣer zdat
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
     .title = Asebter
@@ -29,6 +30,11 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Semɣeṛ
 pdfjs-zoom-select =
     .title = Semɣeṛ/Semẓi
+pdfjs-presentation-mode-button =
+    .title = Uɣal ɣer Uskar Tihawt
+pdfjs-presentation-mode-button-label = Askar Tihawt
+pdfjs-open-file-button =
+    .title = Ldi Afaylu
 pdfjs-open-file-button-label = Ldi
 pdfjs-print-button =
     .title = Siggez
@@ -160,6 +166,7 @@ pdfjs-find-previous-button-label = Azewwar
 pdfjs-find-next-button =
     .title = Aff-d timseḍriwt n twinest d-iteddun
 pdfjs-find-next-button-label = Ddu ɣer zdat
+pdfjs-find-highlight-checkbox = Err izirig imaṛṛa
 pdfjs-find-match-case-checkbox-label = Qadeṛ amasal n isekkilen
 pdfjs-find-reached-top = Yabbeḍ s afella n usebter, tuɣalin s wadda
 pdfjs-find-reached-bottom = Tebḍeḍ s adda n usebter, tuɣalin s afella
@@ -198,6 +205,7 @@ pdfjs-text-annotation-type =
 ## Password
 
 pdfjs-password-label = Sekcem awal uffir akken ad ldiḍ afaylu-yagi PDF
+pdfjs-password-invalid = Awal uffir mačči d ameɣtu, Ɛreḍ tikelt-nniḍen.
 pdfjs-password-ok-button = IH
 pdfjs-password-cancel-button = Sefsex
 pdfjs-web-fonts-disabled = Tisefsiyin web ttwassensent; D awezɣi useqdec n tsefsiyin yettwarnan ɣer PDF.
