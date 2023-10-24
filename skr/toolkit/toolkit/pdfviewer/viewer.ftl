@@ -38,6 +38,7 @@ pdfjs-open-file-button =
 pdfjs-open-file-button-label = کھولو
 pdfjs-print-button =
     .title = چھاپو
+pdfjs-print-button-label = چھاپو
 pdfjs-save-button =
     .title = ہتھیکڑا کرو
 pdfjs-save-button-label = ہتھیکڑا کرو
