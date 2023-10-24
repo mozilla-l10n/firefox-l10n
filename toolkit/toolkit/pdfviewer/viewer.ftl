@@ -226,6 +226,25 @@ pdfjs-find-match-diacritics-checkbox-label = Diakritiske znamuška wužywaś
 pdfjs-find-entire-word-checkbox-label = Cełe słowa
 pdfjs-find-reached-top = Zachopjeńk dokumenta dostany, pókšacujo se z kóńcom
 pdfjs-find-reached-bottom = Kóńc dokumenta dostany, pókšacujo se ze zachopjeńkom
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } z { $total } wótpowědnika
+        [two] { $current } z { $total } wótpowědnikowu
+        [few] { $current } z { $total } wótpowědnikow
+       *[other] { $current } z { $total } wótpowědnikow
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Wušej { $limit } wótpowědnik
+        [two] Wušej { $limit } wótpowědnika
+        [few] Wušej { $limit } wótpowědniki
+       *[other] Wušej { $limit } wótpowědniki
+    }
 pdfjs-find-not-found = Pytański wuraz njejo se namakał
 
 ## Predefined zoom values
