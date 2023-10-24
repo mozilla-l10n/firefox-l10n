@@ -235,6 +235,10 @@ pdfjs-rendering-error = При создании страницы произош�
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -249,6 +253,7 @@ pdfjs-password-label = Введите пароль, чтобы открыть э
 pdfjs-password-invalid = Неверный пароль. Пожалуйста, попробуйте снова.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Отмена
+pdfjs-web-fonts-disabled = Веб-шрифты отключены: не удалось задействовать встроенные PDF-шрифты.
 
 ## Editing
 
