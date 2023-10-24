@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Forrige
 pdfjs-next-button =
     .title = Næste side
 pdfjs-next-button-label = Næste
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Side
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = af { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } af { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Zoom ud
 pdfjs-zoom-out-button-label = Zoom ud
@@ -19,15 +30,61 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Zoom ind
 pdfjs-zoom-select =
     .title = Zoom
+pdfjs-presentation-mode-button =
+    .title = Skift til fuldskærmsvisning
+pdfjs-presentation-mode-button-label = Fuldskærmsvisning
 pdfjs-open-file-button =
     .title = Åbn fil
 pdfjs-open-file-button-label = Åbn
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Funktioner
+pdfjs-tools-button-label = Funktioner
+pdfjs-first-page-button =
+    .title = Gå til første side
+pdfjs-first-page-button-label = Gå til første side
+pdfjs-last-page-button =
+    .title = Gå til sidste side
+pdfjs-last-page-button-label = Gå til sidste side
+pdfjs-page-rotate-cw-button =
+    .title = Roter med uret
+pdfjs-page-rotate-cw-button-label = Roter med uret
+pdfjs-page-rotate-ccw-button =
+    .title = Roter mod uret
+pdfjs-page-rotate-ccw-button-label = Roter mod uret
+pdfjs-scroll-vertical-button =
+    .title = Brug vertikal scrolling
+pdfjs-scroll-vertical-button-label = Vertikal scrolling
+pdfjs-scroll-horizontal-button =
+    .title = Brug horisontal scrolling
+pdfjs-scroll-horizontal-button-label = Horisontal scrolling
+pdfjs-scroll-wrapped-button =
+    .title = Brug ombrudt scrolling
+pdfjs-scroll-wrapped-button-label = Ombrudt scrolling
+pdfjs-spread-none-button =
+    .title = Vis enkeltsider
+pdfjs-spread-none-button-label = Enkeltsider
+pdfjs-spread-odd-button =
+    .title = Vis opslag med ulige sidenumre til venstre
+pdfjs-spread-odd-button-label = Opslag med forside
+pdfjs-spread-even-button =
+    .title = Vis opslag med lige sidenumre til venstre
+pdfjs-spread-even-button-label = Opslag uden forside
 
 ## Document properties dialog
 
+pdfjs-document-properties-keywords = Nøgleord:
+pdfjs-document-properties-page-size = Sidestørrelse:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = stående
+pdfjs-document-properties-page-size-orientation-landscape = liggende
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -36,18 +93,43 @@ pdfjs-open-file-button-label = Åbn
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Hurtig web-visning:
+pdfjs-document-properties-linearized-yes = Ja
+pdfjs-document-properties-linearized-no = Nej
 
 ## Print
 
+pdfjs-print-progress-message = Forbereder dokument til udskrivning…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Annuller
+pdfjs-printing-not-supported = Advarsel: Udskrivning er ikke fuldt understøttet af browseren.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Slå sidepanel til eller fra
+pdfjs-toggle-sidebar-button-label = Slå sidepanel til eller fra
+pdfjs-document-outline-button =
+    .title = Vis dokumentets disposition (dobbeltklik for at vise/skjule alle elementer)
+pdfjs-document-outline-button-label = Dokument-disposition
+pdfjs-attachments-button =
+    .title = Vis vedhæftede filer
+pdfjs-attachments-button-label = Vedhæftede filer
 pdfjs-thumbs-button =
     .title = Vis miniaturer
 pdfjs-thumbs-button-label = Miniaturer
+pdfjs-findbar-button =
+    .title = Find i dokument
+pdfjs-findbar-button-label = Find
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -62,6 +144,16 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = Forrige
+pdfjs-find-next-button =
+    .title = Find den næste forekomst
+pdfjs-find-next-button-label = Næste
+pdfjs-find-highlight-checkbox = Fremhæv alle
+pdfjs-find-match-case-checkbox-label = Forskel på store og små bogstaver
+pdfjs-find-entire-word-checkbox-label = Hele ord
+pdfjs-find-reached-top = Toppen af siden blev nået, fortsatte fra bunden
+pdfjs-find-reached-bottom = Bunden af siden blev nået, fortsatte fra toppen
+pdfjs-find-not-found = Der blev ikke fundet noget
 
 ## Predefined zoom values
 
@@ -69,6 +161,9 @@ pdfjs-page-scale-width = Sidebredde
 pdfjs-page-scale-fit = Tilpas til side
 pdfjs-page-scale-auto = Automatisk zoom
 pdfjs-page-scale-actual = Faktisk størrelse
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -76,12 +171,31 @@ pdfjs-page-scale-actual = Faktisk størrelse
 ## Loading indicator messages
 
 pdfjs-loading-error = Der opstod en fejl ved indlæsning af PDF-filen.
+pdfjs-invalid-file-error = PDF-filen er ugyldig eller ødelagt.
+pdfjs-missing-file-error = Manglende PDF-fil.
+pdfjs-unexpected-response-error = Uventet svar fra serveren.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type }kommentar]
 
 ## Password
 
+pdfjs-password-label = Angiv adgangskode til at åbne denne PDF-fil.
+pdfjs-password-invalid = Ugyldig adgangskode. Prøv igen.
+pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Fortryd
+pdfjs-web-fonts-disabled = Webskrifttyper er deaktiverede. De indlejrede skrifttyper i PDF-filen kan ikke anvendes.
 
 ## Editing
 
