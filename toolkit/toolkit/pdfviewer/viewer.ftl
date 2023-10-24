@@ -11,6 +11,9 @@ pdfjs-previous-button-label = ಹಿಂದಿನ
 pdfjs-next-button =
     .title = ಮುಂದಿನ ಪುಟ
 pdfjs-next-button-label = ಮುಂದಿನ
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = ಪುಟ
 # Variables:
 #   $pagesCount (Number) - the total number of pages in the document
 # This string follows an input field with the number of the page currently displayed.
@@ -95,6 +98,10 @@ pdfjs-document-properties-close-button = ಮುಚ್ಚು
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = ರದ್ದು ಮಾಡು
 pdfjs-printing-not-supported = ಎಚ್ಚರಿಕೆ: ಈ ಜಾಲವೀಕ್ಷಕದಲ್ಲಿ ಮುದ್ರಣಕ್ಕೆ ಸಂಪೂರ್ಣ ಬೆಂಬಲವಿಲ್ಲ.
 pdfjs-printing-not-ready = ಎಚ್ಚರಿಕೆ: PDF ಕಡತವು ಮುದ್ರಿಸಲು ಸಂಪೂರ್ಣವಾಗಿ ಲೋಡ್ ಆಗಿಲ್ಲ.
 
@@ -112,6 +119,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = ಚಿಕ್ಕಚಿತ್ರಗಳು
 pdfjs-findbar-button =
     .title = ದಸ್ತಾವೇಜಿನಲ್ಲಿ ಹುಡುಕು
+pdfjs-findbar-button-label = ಹುಡುಕು
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -126,6 +134,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = ಹುಡುಕು
+    .placeholder = ದಸ್ತಾವೇಜಿನಲ್ಲಿ ಹುಡುಕು…
 pdfjs-find-previous-button =
     .title = ವಾಕ್ಯದ ಹಿಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು
 pdfjs-find-previous-button-label = ಹಿಂದಿನ
@@ -173,6 +184,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = PDF ಅನ್ನು ತೆರೆಯಲು ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ.
 pdfjs-password-invalid = ಅಮಾನ್ಯವಾದ ಗುಪ್ತಪದ, ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = ರದ್ದು ಮಾಡು
 pdfjs-web-fonts-disabled = ಜಾಲ ಅಕ್ಷರಶೈಲಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ: ಅಡಕಗೊಳಿಸಿದ PDF ಅಕ್ಷರಶೈಲಿಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.
 
 ## Editing
