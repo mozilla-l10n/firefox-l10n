@@ -40,6 +40,16 @@ inactive-css-border-image = Vlastnost <strong>{ $property }</strong> nemá na te
 inactive-css-ruby-element = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože se jedná o prvek ruby. Jeho velikost je určena velikostí písma textu ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na zvýrazněných pseudoprvcích.
 inactive-css-cue-pseudo-element-not-supported = Vlastnost <strong>{ $property }</strong> není podporována na pseudoprvcích ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože má více než { $lineCount } řádek.
+        [few] Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože má více než { $lineCount } řádky.
+        [many] Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože má více než { $lineCount } řádků.
+       *[other] Vlastnost <strong>{ $property }</strong> nemá žádný vliv na tento prvek, protože má více než { $lineCount } řádků.
+    }
+inactive-css-text-wrap-balance-fragmented = Vlastnost <strong>{ $property }</strong> nemá na tento prvek žádný vliv, protože je fragmentovaný, tj. jeho obsah je rozdělen do více sloupců nebo stránek.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -67,6 +77,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = Zkuste přidat <strong>o
 inactive-css-border-image-fix = V nadřazeném prvku tabulky odstraňte vlastnost nebo změňte hodnotu <strong>border-collapse</strong> na jinou hodnotu než <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Zkuste změnit <strong>font-size</strong> textu prvku ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Pokuste se snížit počet řádků. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Vyhněte se rozdělení obsahu prvku, např. odstraněním sloupců nebo použitím <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
