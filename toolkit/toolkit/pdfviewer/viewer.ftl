@@ -49,10 +49,33 @@ pdfjs-page-rotate-ccw-button-label = घड़ीक दिशा सँ उन�
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = दस्तावेज़ विशेषता...
+pdfjs-document-properties-button-label = दस्तावेज़ विशेषता...
 pdfjs-document-properties-file-name = फाइल नाम:
+pdfjs-document-properties-file-size = फ़ाइल आकार:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } बाइट)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } बाइट)
 pdfjs-document-properties-title = शीर्षक:
+pdfjs-document-properties-author = लेखकः
 pdfjs-document-properties-subject = विषय
 pdfjs-document-properties-keywords = बीजशब्द
+pdfjs-document-properties-creation-date = निर्माण तिथि:
+pdfjs-document-properties-modification-date = संशोधन दिनांक:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = सृजक:
+pdfjs-document-properties-producer = PDF उत्पादक:
+pdfjs-document-properties-version = PDF संस्करण:
+pdfjs-document-properties-page-count = पृष्ठ गिनती:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -76,6 +99,10 @@ pdfjs-printing-not-ready = चेतावनी: पीडीएफ छपा�
 pdfjs-toggle-sidebar-button =
     .title = स्लाइडर टागल
 pdfjs-toggle-sidebar-button-label = स्लाइडर टागल
+pdfjs-document-outline-button-label = दस्तावेज खाका
+pdfjs-attachments-button =
+    .title = संलग्नक देखाबू
+pdfjs-attachments-button-label = संलग्नक
 pdfjs-thumbs-button =
     .title = लघु-छवि देखाउ
 pdfjs-thumbs-button-label = लघु छवि
@@ -113,6 +140,9 @@ pdfjs-page-scale-width = पृष्ठ चओड़ाइ
 pdfjs-page-scale-fit = पृष्ठ फिट
 pdfjs-page-scale-auto = स्वचालित जूम
 pdfjs-page-scale-actual = सही आकार
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -122,6 +152,7 @@ pdfjs-page-scale-actual = सही आकार
 pdfjs-loading-error = पीडीएफ लोड करैत समय एकटा त्रुटि भेल.
 pdfjs-invalid-file-error = अमान्य अथवा भ्रष्ट PDF फाइल.
 pdfjs-missing-file-error = अनुपस्थित PDF फाइल.
+pdfjs-unexpected-response-error = सर्वर सँ अप्रत्याशित प्रतिक्रिया.
 
 ## Annotations
 
@@ -135,6 +166,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = एहि पीडीएफ फ़ाइल केँ खोलबाक लेल कृपया कूटशब्द भरू.
+pdfjs-password-invalid = अवैध कूटशब्द, कृपया फिनु कोशिश करू.
+pdfjs-password-ok-button = बेस
 pdfjs-web-fonts-disabled = वेब फॉन्ट्स निष्क्रिय अछि: अंतःस्थापित PDF फान्टसक उपयोगमे असमर्थ.
 
 ## Editing
