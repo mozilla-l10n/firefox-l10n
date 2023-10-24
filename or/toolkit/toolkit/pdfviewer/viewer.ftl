@@ -19,12 +19,33 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = ବଡ଼ କରନ୍ତୁ
 pdfjs-zoom-select =
     .title = ଛୋଟ ବଡ଼ କରନ୍ତୁ
+pdfjs-presentation-mode-button =
+    .title = ଉପସ୍ଥାପନ ଧାରାକୁ ବଦଳାନ୍ତୁ
+pdfjs-presentation-mode-button-label = ଉପସ୍ଥାପନ ଧାରା
+pdfjs-open-file-button =
+    .title = ଫାଇଲ ଖୋଲନ୍ତୁ
+pdfjs-open-file-button-label = ଖୋଲନ୍ତୁ
 pdfjs-print-button =
     .title = ମୁଦ୍ରଣ
 pdfjs-print-button-label = ମୁଦ୍ରଣ
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = ସାଧନଗୁଡ଼ିକ
+pdfjs-tools-button-label = ସାଧନଗୁଡ଼ିକ
+pdfjs-first-page-button =
+    .title = ପ୍ରଥମ ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ
+pdfjs-first-page-button-label = ପ୍ରଥମ ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ
+pdfjs-last-page-button =
+    .title = ଶେଷ ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ
+pdfjs-last-page-button-label = ଶେଷ ପୃଷ୍ଠାକୁ ଯାଆନ୍ତୁ
+pdfjs-page-rotate-cw-button =
+    .title = ଦକ୍ଷିଣାବର୍ତ୍ତୀ ଘୁରାନ୍ତୁ
+pdfjs-page-rotate-cw-button-label = ଦକ୍ଷିଣାବର୍ତ୍ତୀ ଘୁରାନ୍ତୁ
+pdfjs-page-rotate-ccw-button =
+    .title = ବାମାବର୍ତ୍ତୀ ଘୁରାନ୍ତୁ
+pdfjs-page-rotate-ccw-button-label = ବାମାବର୍ତ୍ତୀ ଘୁରାନ୍ତୁ
 
 ## Document properties dialog
 
@@ -42,13 +63,19 @@ pdfjs-print-button-label = ମୁଦ୍ରଣ
 
 ## Print
 
+pdfjs-printing-not-supported = ଚେତାବନୀ: ଏହି ବ୍ରାଉଜର ଦ୍ୱାରା ମୁଦ୍ରଣ କ୍ରିୟା ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ସହାୟତା ପ୍ରାପ୍ତ ନୁହଁ।
 pdfjs-printing-not-ready = ଚେତାବନୀ: PDF ଟି ମୁଦ୍ରଣ ପାଇଁ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ଧାରଣ ହୋଇ ନାହିଁ।
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = ପାର୍ଶ୍ୱପଟିକୁ ଆଗପଛ କରନ୍ତୁ
+pdfjs-toggle-sidebar-button-label = ପାର୍ଶ୍ୱପଟିକୁ ଆଗପଛ କରନ୍ତୁ
 pdfjs-thumbs-button =
     .title = ସଂକ୍ଷିପ୍ତ ବିବରଣୀ ଦର୍ଶାନ୍ତୁ
 pdfjs-thumbs-button-label = ସଂକ୍ଷିପ୍ତ ବିବରଣୀ
+pdfjs-findbar-button =
+    .title = ଦଲିଲରେ ଖୋଜନ୍ତୁ
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -63,6 +90,16 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = ଏହି ବାକ୍ୟାଂଶର ପୂର୍ବ ଉପସ୍ଥିତିକୁ ଖୋଜନ୍ତୁ
+pdfjs-find-previous-button-label = ପୂର୍ବବର୍ତ୍ତୀ
+pdfjs-find-next-button =
+    .title = ଏହି ବାକ୍ୟାଂଶର ପରବର୍ତ୍ତୀ ଉପସ୍ଥିତିକୁ ଖୋଜନ୍ତୁ
+pdfjs-find-highlight-checkbox = ସମସ୍ତଙ୍କୁ ଆଲୋକିତ କରନ୍ତୁ
+pdfjs-find-match-case-checkbox-label = ଅକ୍ଷର ମେଳାନ୍ତୁ
+pdfjs-find-reached-top = ତଳୁ ଉପରକୁ ଗତି କରି ଦଲିଲର ଉପର ଭାଗରେ ପହଞ୍ଚି ଯାଇଛି
+pdfjs-find-reached-bottom = ଉପରୁ ତଳକୁ ଗତି କରି ଦଲିଲର ଶେଷ ଭାଗରେ ପହଞ୍ଚି ଯାଇଛି
+pdfjs-find-not-found = ବାକ୍ୟାଂଶ ମିଳିଲା ନାହିଁ
 
 ## Predefined zoom values
 
@@ -77,6 +114,8 @@ pdfjs-page-scale-actual = ପ୍ରକୃତ ଆକାର
 ## Loading indicator messages
 
 pdfjs-loading-error = PDF ଧାରଣ କରିବା ସମୟରେ ଏକ ତ୍ରୁଟି ଘଟିଲା।
+pdfjs-invalid-file-error = ଅବୈଧ କିମ୍ବା ତ୍ରୁଟିଯୁକ୍ତ PDF ଫାଇଲ।
+pdfjs-missing-file-error = ହଜିଯାଇଥିବା PDF ଫାଇଲ।
 
 ## Annotations
 
@@ -90,6 +129,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = ଏହି PDF ଫାଇଲକୁ ଖୋଲିବା ପାଇଁ ପ୍ରବେଶ ସଂକେତ ଭରଣ କରନ୍ତୁ।
+pdfjs-password-invalid = ଭୁଲ ପ୍ରବେଶ ସଂକେତ। ଦୟାକରି ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।
+pdfjs-password-ok-button = ଠିକ ଅଛି
 pdfjs-web-fonts-disabled = ୱେବ ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ନିଷ୍କ୍ରିୟ କରାଯାଇଛି: ସନ୍ନିହିତ PDF ଅକ୍ଷରରୂପଗୁଡ଼ିକୁ ବ୍ୟବହାର କରିବାରେ ଅସମର୍ଥ।
 
 ## Editing
