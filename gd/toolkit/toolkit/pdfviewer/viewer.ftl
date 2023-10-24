@@ -48,6 +48,9 @@ pdfjs-printing-not-supported = Rabhadh: Chan eil am brabhsair seo a' cur làn-ta
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Toglaich am bàr-taoibh
+pdfjs-toggle-sidebar-button-label = Toglaich am bàr-taoibh
 pdfjs-thumbs-button =
     .title = Seall na dealbhagan
 pdfjs-thumbs-button-label = Dealbhagan
@@ -93,6 +96,7 @@ pdfjs-page-scale-actual = Am fìor-mheud
 
 pdfjs-loading-error = Thachair mearachd rè luchdadh a' PDF.
 pdfjs-invalid-file-error = Faidhle PDF a tha mì-dhligheach no coirbte.
+pdfjs-missing-file-error = Faidhle PDF a tha a dhìth.
 
 ## Annotations
 
@@ -106,6 +110,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-web-fonts-disabled = Tha cruthan-clò lìn à comas: Chan urrainn dhuinn cruthan-clò PDF leabaichte a chleachdadh.
 
 ## Editing
 
