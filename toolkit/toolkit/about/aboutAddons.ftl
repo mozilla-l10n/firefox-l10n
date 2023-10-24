@@ -454,3 +454,4 @@ details-notification-softblocked-link = Ulteriori informazioni
 details-notification-gmp-pending = { $name } verrà installato tra qualche istante.
 details-notification-gmp-pending2 =
     .message = { $name } verrà installato tra qualche istante.
+

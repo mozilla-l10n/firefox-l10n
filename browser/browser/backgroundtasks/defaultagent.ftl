@@ -7,3 +7,4 @@ default-browser-notification-header-text = Continuare a utilizzare { -brand-shor
 default-browser-notification-body-text = Il tuo browser predefinito è stato cambiato di recente. Tocca o fai clic per ripristinare { -brand-short-name } come predefinito.
 default-browser-notification-yes-button-text = Sì
 default-browser-notification-no-button-text = No
+
