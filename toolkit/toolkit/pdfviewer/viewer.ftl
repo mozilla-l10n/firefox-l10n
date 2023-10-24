@@ -11,6 +11,17 @@ pdfjs-previous-button-label = មុន
 pdfjs-next-button =
     .title = ទំព័រ​បន្ទាប់
 pdfjs-next-button-label = បន្ទាប់
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = ទំព័រ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = នៃ { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } នៃ { $pagesCount })
 pdfjs-zoom-out-button =
     .title = ​បង្រួម
 pdfjs-zoom-out-button-label = ​បង្រួម
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = បង្វិល​ស្រប​ទ្�
 pdfjs-page-rotate-ccw-button =
     .title = បង្វិល​ច្រាស​ទ្រនិច​នាឡិកា​​
 pdfjs-page-rotate-ccw-button-label = បង្វិល​ច្រាស​ទ្រនិច​នាឡិកា​​
+pdfjs-cursor-text-select-tool-button =
+    .title = បើក​ឧបករណ៍​ជ្រើស​អត្ថបទ
+pdfjs-cursor-text-select-tool-button-label = ឧបករណ៍​ជ្រើស​អត្ថបទ
+pdfjs-cursor-hand-tool-button =
+    .title = បើក​ឧបករណ៍​ដៃ
+pdfjs-cursor-hand-tool-button-label = ឧបករណ៍​ដៃ
 
 ## Document properties dialog
 
@@ -54,6 +71,7 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = លក្ខណ​សម្បត្តិ​ឯកសារ…
 pdfjs-document-properties-file-name = ឈ្មោះ​ឯកសារ៖
 pdfjs-document-properties-file-size = ទំហំ​ឯកសារ៖
+pdfjs-document-properties-title = ចំណងជើង៖
 pdfjs-document-properties-author = អ្នក​និពន្ធ៖
 pdfjs-document-properties-subject = ប្រធានបទ៖
 pdfjs-document-properties-keywords = ពាក្យ​គន្លឹះ៖
@@ -82,6 +100,11 @@ pdfjs-document-properties-close-button = បិទ
 
 ## Print
 
+pdfjs-print-progress-message = កំពុង​រៀបចំ​ឯកសារ​សម្រាប់​បោះពុម្ព…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = បោះបង់
 pdfjs-printing-not-supported = ការ​ព្រមាន ៖ កា​រ​បោះពុម្ព​មិន​ត្រូវ​បាន​គាំទ្រ​ពេញលេញ​ដោយ​កម្មវិធី​រុករក​នេះ​ទេ ។
 pdfjs-printing-not-ready = ព្រមាន៖ PDF មិន​ត្រូវ​បាន​ផ្ទុក​ទាំងស្រុង​ដើម្បី​បោះពុម្ព​ទេ។
 
@@ -90,6 +113,9 @@ pdfjs-printing-not-ready = ព្រមាន៖ PDF មិន​ត្រូវ
 pdfjs-toggle-sidebar-button =
     .title = បិទ/បើក​គ្រាប់​រំកិល
 pdfjs-toggle-sidebar-button-label = បិទ/បើក​គ្រាប់​រំកិល
+pdfjs-document-outline-button =
+    .title = បង្ហាញ​គ្រោង​ឯកសារ (ចុច​ទ្វេ​ដង​ដើម្បី​ពង្រីក/បង្រួម​ធាតុ​ទាំងអស់)
+pdfjs-document-outline-button-label = គ្រោង​ឯកសារ
 pdfjs-attachments-button =
     .title = បង្ហាញ​ឯកសារ​ភ្ជាប់
 pdfjs-attachments-button-label = ឯកសារ​ភ្ជាប់
@@ -113,6 +139,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = រក
+    .placeholder = រក​នៅ​ក្នុង​ឯកសារ...
 pdfjs-find-previous-button =
     .title = រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​មុន
 pdfjs-find-previous-button-label = មុន
