@@ -45,6 +45,7 @@ pdfjs-open-file-button =
 ## Print
 
 pdfjs-printing-not-supported = Rabhadh: Chan eil am brabhsair seo a' cur làn-taic ri clò-bhualadh.
+pdfjs-printing-not-ready = Rabhadh: Cha deach am PDF a luchdadh gu tur airson clò-bhualadh.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
