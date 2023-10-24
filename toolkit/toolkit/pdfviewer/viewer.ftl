@@ -5,8 +5,10 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button-label = క్రితం
 pdfjs-next-button =
     .title = తరువాత పేజీ
+pdfjs-next-button-label = తరువాత
 pdfjs-zoom-out-button =
     .title = జూమ్ తగ్గించు
 pdfjs-zoom-out-button-label = జూమ్ తగ్గించు
@@ -15,12 +17,27 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = జూమ్ చేయి
 pdfjs-zoom-select =
     .title = జూమ్
+pdfjs-presentation-mode-button =
+    .title = ప్రదర్శనా రీతికి మారు
+pdfjs-presentation-mode-button-label = ప్రదర్శనా రీతి
 pdfjs-open-file-button =
     .title = ఫైల్ తెరువు
 pdfjs-open-file-button-label = తెరువు
+pdfjs-print-button =
+    .title = ముద్రించు
+pdfjs-print-button-label = ముద్రించు
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = పనిముట్లు
+pdfjs-tools-button-label = పనిముట్లు
+pdfjs-first-page-button =
+    .title = మొదటి పేజీకి వెళ్ళు
+pdfjs-first-page-button-label = మొదటి పేజీకి వెళ్ళు
+pdfjs-last-page-button =
+    .title = చివరి పేజీకి వెళ్ళు
+pdfjs-last-page-button-label = చివరి పేజీకి వెళ్ళు
 
 ## Document properties dialog
 
@@ -38,9 +55,13 @@ pdfjs-open-file-button-label = తెరువు
 
 ## Print
 
+pdfjs-printing-not-ready = హెచ్చరిక: ముద్రణ కొరకు ఈ PDF పూర్తిగా లోడవలేదు.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = పక్కపట్టీ మార్చు
+pdfjs-toggle-sidebar-button-label = పక్కపట్టీ మార్చు
 pdfjs-thumbs-button =
     .title = థంబ్‌నైల్స్ చూపు
 pdfjs-thumbs-button-label = థంబ్‌నైల్స్
@@ -55,6 +76,10 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = మునుపటి
+pdfjs-find-next-button-label = తరువాత
+pdfjs-find-reached-top = పేజీ పైకి చేరుకున్నది, క్రింది నుండి కొనసాగించండి
+pdfjs-find-reached-bottom = పేజీ చివరకు చేరుకున్నది, పైనుండి కొనసాగించండి
 
 ## Predefined zoom values
 
@@ -68,12 +93,17 @@ pdfjs-page-scale-actual = యథార్ధ పరిమాణం
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = చెల్లని లేదా పాడైన PDF ఫైలు.
+pdfjs-missing-file-error = దొరకని PDF ఫైలు.
 
 ## Annotations
 
 
 ## Password
 
+pdfjs-password-invalid = సంకేతపదం చెల్లదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
+pdfjs-password-ok-button = సరే
+pdfjs-password-cancel-button = రద్దుచేయి
 
 ## Editing
 
