@@ -324,3 +324,11 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Angolo in alto a sinistra — ridimensiona
+pdfjs-editor-resizer-label-top-middle = Lato superiore nel mezzo — ridimensiona
+pdfjs-editor-resizer-label-top-right = Angolo in alto a destra — ridimensiona
+pdfjs-editor-resizer-label-middle-right = Lato destro nel mezzo — ridimensiona
+pdfjs-editor-resizer-label-bottom-right = Angolo in basso a destra — ridimensiona
+pdfjs-editor-resizer-label-bottom-middle = Lato inferiore nel mezzo — ridimensiona
+pdfjs-editor-resizer-label-bottom-left = Angolo in basso a sinistra — ridimensiona
+pdfjs-editor-resizer-label-middle-left = Lato sinistro nel mezzo — ridimensiona
