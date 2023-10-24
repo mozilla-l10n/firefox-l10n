@@ -15,6 +15,10 @@ pdfjs-next-button-label = पुढील
 pdfjs-page-input =
     .title = पृष्ठ
 # Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount }पैकी
+# Variables:
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pagesCount } पैकी { $pageNumber })
