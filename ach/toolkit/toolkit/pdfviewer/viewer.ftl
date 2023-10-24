@@ -57,8 +57,12 @@ pdfjs-page-rotate-cw-button-label = Wire i tung lacuc
 pdfjs-page-rotate-ccw-button =
     .title = Wire i tung lacam
 pdfjs-page-rotate-ccw-button-label = Wire i tung lacam
+pdfjs-cursor-text-select-tool-button =
+    .title = Cak gitic me yero coc
+pdfjs-cursor-text-select-tool-button-label = Gitic me yero coc
 pdfjs-cursor-hand-tool-button =
     .title = Cak gitic me cing
+pdfjs-cursor-hand-tool-button-label = Gitic cing
 
 ## Document properties dialog
 
@@ -89,6 +93,15 @@ pdfjs-document-properties-creator = Lacwec:
 pdfjs-document-properties-producer = Layub PDF:
 pdfjs-document-properties-version = Kit PDF:
 pdfjs-document-properties-page-count = Kwan me pot buk:
+pdfjs-document-properties-page-size = Dit pa potbuk:
+pdfjs-document-properties-page-size-unit-inches = i
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = atir
+pdfjs-document-properties-page-size-orientation-landscape = arii
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Waraga
+pdfjs-document-properties-page-size-name-legal = Cik
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -97,9 +110,13 @@ pdfjs-document-properties-page-count = Kwan me pot buk:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = Eyo
+pdfjs-document-properties-linearized-no = Pe
 pdfjs-document-properties-close-button = Lor
 
 ## Print
@@ -117,6 +134,8 @@ pdfjs-printing-not-ready = Ciko: PDF pe ocane weng me agoya.
 pdfjs-toggle-sidebar-button =
     .title = Lok gintic ma inget
 pdfjs-toggle-sidebar-button-label = Lok gintic ma inget
+pdfjs-document-outline-button =
+    .title = Nyut Wiyewiye me Gin acoya (dii-kiryo me yaro/kano jami weng)
 pdfjs-document-outline-button-label = Pek pa gin acoya
 pdfjs-attachments-button =
     .title = Nyut twec
