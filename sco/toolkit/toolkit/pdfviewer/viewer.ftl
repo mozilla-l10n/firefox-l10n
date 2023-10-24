@@ -5,9 +5,32 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Page Afore
+pdfjs-next-button =
+    .title = Page Efter
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
     .title = Page
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = o { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } o { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = Zoom Oot
+pdfjs-zoom-out-button-label = Zoom Oot
+pdfjs-zoom-in-button =
+    .title = Zoom In
+pdfjs-zoom-in-button-label = Zoom In
+pdfjs-zoom-select =
+    .title = Zoom
+pdfjs-open-file-button =
+    .title = Open File
+pdfjs-open-file-button-label = Open
 pdfjs-print-button =
     .title = Prent
 pdfjs-print-button-label = Prent
@@ -28,6 +51,7 @@ pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-keywords = Keywirds:
 # Variables:
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
@@ -55,6 +79,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-linearized-yes = Aye
+pdfjs-document-properties-linearized-no = Naw
 pdfjs-document-properties-close-button = Sneck
 
 ## Print
@@ -62,6 +88,7 @@ pdfjs-document-properties-close-button = Sneck
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Stap
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -75,6 +102,7 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-entire-word-checkbox-label = Hale Wirds
 
 ## Predefined zoom values
 
@@ -92,6 +120,7 @@ pdfjs-page-landmark =
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = No suithfest or camshauchlet PDF file.
 
 ## Annotations
 
@@ -102,6 +131,8 @@ pdfjs-annotation-date-string = { $date }, { $time }
 
 ## Password
 
+pdfjs-password-invalid = Passwird no suithfest. Gonnae gie it anither shot.
+pdfjs-password-cancel-button = Stap
 
 ## Editing
 
