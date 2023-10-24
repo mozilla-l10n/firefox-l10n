@@ -1008,9 +1008,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Амалҳои зуд
     .accesskey = А
-addressbar-locbar-recentsearches-option =
-    .label = Ҷустуҷӯҳои охирин
-    .accesskey = Ҷ
+addressbar-locbar-showrecentsearches-option =
+    .label = Намоиш додани ҷустуҷӯҳои охирин
+    .accesskey = Н
 addressbar-suggestions-settings = Иваз кардани хусусиятҳо барои пешниҳодҳои низоми ҷустуҷӯӣ
 addressbar-quickactions-learn-more = Маълумоти бештар
 

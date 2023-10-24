@@ -6,3 +6,9 @@ screenshots-overlay-cancel-button = Бекор кардан
 screenshots-overlay-instructions = Барои интихоб кардани минтақа, саҳифаро бо курсори муш кашед ё зер кунед. Барои бекор кардани амал, тугмаи «ESC»-ро пахш кунед.
 screenshots-overlay-download-button = Боргирӣ кардан
 screenshots-overlay-copy-button = Нусха бардоштан
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size = { $width } x { $height }
