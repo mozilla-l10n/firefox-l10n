@@ -28,6 +28,8 @@ pdfjs-zoom-out-button-label = Փոքրացնել
 pdfjs-zoom-in-button =
     .title = Խոշորացնել
 pdfjs-zoom-in-button-label = Խոշորացնել
+pdfjs-zoom-select =
+    .title = Խոշորացում
 pdfjs-presentation-mode-button =
     .title = Անցնել ներկայացման եղանակին
 pdfjs-presentation-mode-button-label = Ներկայացման եղանակ
@@ -61,6 +63,9 @@ pdfjs-cursor-text-select-tool-button-label = Գրուածք ընտրելու գ�
 pdfjs-cursor-hand-tool-button =
     .title = Միացնել ձեռքի գործիքը
 pdfjs-cursor-hand-tool-button-label = Ձեռքի գործիք
+pdfjs-scroll-page-button =
+    .title = Աւգտագործել էջի ոլորում
+pdfjs-scroll-page-button-label = Էջի ոլորում
 pdfjs-scroll-vertical-button =
     .title = Աւգտագործել ուղղահայեաց ոլորում
 pdfjs-scroll-vertical-button-label = Ուղղահայեաց ոլորում
@@ -167,6 +172,9 @@ pdfjs-layers-button-label = Շերտեր
 pdfjs-thumbs-button =
     .title = Ցուցադրել մանրապատկերը
 pdfjs-thumbs-button-label = Մանրապատկեր
+pdfjs-current-outline-item-button =
+    .title = Գտէք ընթացիկ գծագրման տարրը
+pdfjs-current-outline-item-button-label = Ընթացիկ գծագրման տարր
 pdfjs-findbar-button =
     .title = Գտնել փաստաթղթում
 pdfjs-findbar-button-label = Որոնում
@@ -195,6 +203,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Հաջորդը
 pdfjs-find-highlight-checkbox = Գունանշել բոլորը
 pdfjs-find-match-case-checkbox-label = Հաշուի առնել հանգամանքը
+pdfjs-find-match-diacritics-checkbox-label = Հնչիւնատարբերիչ նշանների համապատասխանեցում
 pdfjs-find-entire-word-checkbox-label = Ամբողջ բառերը
 pdfjs-find-reached-top = Հասել եք փաստաթղթի վերեւին,շարունակել ներքեւից
 pdfjs-find-reached-bottom = Հասել էք փաստաթղթի վերջին, շարունակել վերեւից
@@ -202,7 +211,9 @@ pdfjs-find-not-found = Արտայայտութիւնը չգտնուեց
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = Էջի լայնութիւն
 pdfjs-page-scale-fit = Հարմարեցնել էջը
+pdfjs-page-scale-auto = Ինքնաշխատ խոշորացում
 pdfjs-page-scale-actual = Իրական չափը
 # Variables:
 #   $scale (Number) - percent value for page scale
@@ -210,6 +221,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Էջ { $page }
 
 ## Loading indicator messages
 
