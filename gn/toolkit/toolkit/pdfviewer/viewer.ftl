@@ -54,6 +54,18 @@ pdfjs-page-rotate-cw-button-label = Aravóicha mbojere
 pdfjs-page-rotate-ccw-button =
     .title = Aravo rapykue gotyo mbojere
 pdfjs-page-rotate-ccw-button-label = Aravo rapykue gotyo mbojere
+pdfjs-scroll-vertical-button-label = Jeku’e ykeguáva
+pdfjs-scroll-horizontal-button-label = Jeku’e yvate gotyo
+pdfjs-scroll-wrapped-button-label = Jeku’e mbohyrupyre
+pdfjs-spread-none-button =
+    .title = Ani ejuaju spreads kuatiarogue ndive
+pdfjs-spread-none-button-label = Spreads ỹre
+pdfjs-spread-odd-button =
+    .title = Embojuaju kuatiarogue jepysokue eñepyrũvo kuatiarogue impar-vagui
+pdfjs-spread-odd-button-label = Spreads impar
+pdfjs-spread-even-button =
+    .title = Embojuaju kuatiarogue jepysokue eñepyrũvo kuatiarogue par-vagui
+pdfjs-spread-even-button-label = Ipukuve uvei
 
 ## Document properties dialog
 
@@ -78,6 +90,14 @@ pdfjs-document-properties-modification-date = Iñambue hague arange:
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-version = PDF mbojuehegua:
 pdfjs-document-properties-page-count = Kuatiarogue papapy:
+pdfjs-document-properties-page-size = Kuatiarogue tuichakue:
+pdfjs-document-properties-page-size-unit-inches = Amo
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = Oĩháicha
+pdfjs-document-properties-page-size-orientation-landscape = apaisado
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-legal = Tee
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -86,9 +106,16 @@ pdfjs-document-properties-page-count = Kuatiarogue papapy:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Ñanduti jahecha pya’e:
+pdfjs-document-properties-linearized-yes = Añete
+pdfjs-document-properties-linearized-no = Ahániri
 pdfjs-document-properties-close-button = Mboty
 
 ## Print
@@ -129,6 +156,7 @@ pdfjs-find-previous-button-label = Mboyvegua
 pdfjs-find-next-button-label = Upeigua
 pdfjs-find-highlight-checkbox = Embojekuaavepa
 pdfjs-find-match-case-checkbox-label = Ejesareko taiguasu/taimichĩre
+pdfjs-find-entire-word-checkbox-label = Ñe’ẽ oĩmbáva
 
 ## Predefined zoom values
 
