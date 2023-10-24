@@ -63,6 +63,7 @@ pdfjs-cursor-text-select-tool-button-label = టెక్స్ట్ ఎంప�
 pdfjs-cursor-hand-tool-button =
     .title = చేతి సాధనం చేతనించు
 pdfjs-cursor-hand-tool-button-label = చేతి సాధనం
+pdfjs-scroll-vertical-button-label = నిలువు స్క్రోలింగు
 
 ## Document properties dialog
 
@@ -115,6 +116,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-linearized-yes = అవును
+pdfjs-document-properties-linearized-no = కాదు
 pdfjs-document-properties-close-button = మూసివేయి
 
 ## Print
@@ -138,6 +141,7 @@ pdfjs-document-outline-button-label = పత్రము అవుట్‌ల�
 pdfjs-attachments-button =
     .title = అనుబంధాలు చూపు
 pdfjs-attachments-button-label = అనుబంధాలు
+pdfjs-layers-button-label = పొరలు
 pdfjs-thumbs-button =
     .title = థంబ్‌నైల్స్ చూపు
 pdfjs-thumbs-button-label = థంబ్‌నైల్స్
@@ -151,6 +155,10 @@ pdfjs-findbar-button-label = కనుగొను
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = పేజీ { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = { $page } పేజీ నఖచిత్రం
 
 ## Find panel button title and messages
 
@@ -165,8 +173,10 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = తరువాత
 pdfjs-find-highlight-checkbox = అన్నిటిని ఉద్దీపనం చేయుము
 pdfjs-find-match-case-checkbox-label = అక్షరముల తేడాతో పోల్చు
+pdfjs-find-entire-word-checkbox-label = పూర్తి పదాలు
 pdfjs-find-reached-top = పేజీ పైకి చేరుకున్నది, క్రింది నుండి కొనసాగించండి
 pdfjs-find-reached-bottom = పేజీ చివరకు చేరుకున్నది, పైనుండి కొనసాగించండి
+pdfjs-find-not-found = పదబంధం కనబడలేదు
 
 ## Predefined zoom values
 
@@ -190,6 +200,10 @@ pdfjs-unexpected-response-error = అనుకోని సర్వర్ స�
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -208,6 +222,12 @@ pdfjs-web-fonts-disabled = వెబ్ ఫాంట్లు అచేతని
 
 ## Editing
 
+# Editor Parameters
+pdfjs-editor-free-text-color-input = రంగు
+pdfjs-editor-free-text-size-input = పరిమాణం
+pdfjs-editor-ink-color-input = రంగు
+pdfjs-editor-ink-thickness-input = మందం
+pdfjs-editor-ink-opacity-input = అకిరణ్యత
 
 ## Alt-text dialog
 
