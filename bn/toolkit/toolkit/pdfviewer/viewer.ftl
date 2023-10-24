@@ -69,6 +69,12 @@ pdfjs-scroll-vertical-button-label = উলম্ব স্ক্রলিং
 pdfjs-scroll-horizontal-button =
     .title = অনুভূমিক স্ক্রলিং ব্যবহার করুন
 pdfjs-scroll-horizontal-button-label = অনুভূমিক স্ক্রলিং
+pdfjs-scroll-wrapped-button =
+    .title = Wrapped স্ক্রোলিং ব্যবহার করুন
+pdfjs-scroll-wrapped-button-label = Wrapped স্ক্রোলিং
+pdfjs-spread-none-button-label = Spreads নেই
+pdfjs-spread-odd-button-label = বিজোড় Spreads
+pdfjs-spread-even-button-label = জোড় Spreads
 
 ## Document properties dialog
 
@@ -179,6 +185,7 @@ pdfjs-find-next-button =
     .title = বাক্যাংশের পরবর্তী উপস্থিতি অনুসন্ধান
 pdfjs-find-next-button-label = পরবর্তী
 pdfjs-find-match-case-checkbox-label = অক্ষরের ছাঁদ মেলানো
+pdfjs-find-entire-word-checkbox-label = সম্পূর্ণ শব্দ
 pdfjs-find-reached-top = পাতার শুরুতে পৌছে গেছে, নীচ থেকে আরম্ভ করা হয়েছে
 pdfjs-find-reached-bottom = পাতার শেষে পৌছে গেছে, উপর থেকে আরম্ভ করা হয়েছে
 pdfjs-find-not-found = বাক্যাংশ পাওয়া যায়নি
