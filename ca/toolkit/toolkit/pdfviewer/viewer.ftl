@@ -22,6 +22,12 @@ pdfjs-of-pages = de { $pagesCount }
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = Redueix
+pdfjs-zoom-out-button-label = Redueix
+pdfjs-zoom-in-button =
+    .title = Amplia
+pdfjs-zoom-in-button-label = Amplia
 pdfjs-zoom-select =
     .title = Escala
 pdfjs-presentation-mode-button =
@@ -33,6 +39,18 @@ pdfjs-open-file-button-label = Obre
 pdfjs-print-button =
     .title = Imprimeix
 pdfjs-print-button-label = Imprimeix
+pdfjs-save-button =
+    .title = Desa
+pdfjs-save-button-label = Desa
+pdfjs-bookmark-button =
+    .title = Pàgina actual (mostra l'URL de la pàgina actual)
+pdfjs-bookmark-button-label = Pàgina actual
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Obre en una aplicació
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Obre en una aplicació
 
 ##  Secondary toolbar and context menu
 
@@ -57,6 +75,24 @@ pdfjs-cursor-text-select-tool-button-label = Eina de selecció de text
 pdfjs-cursor-hand-tool-button =
     .title = Habilita l'eina de mà
 pdfjs-cursor-hand-tool-button-label = Eina de mà
+pdfjs-scroll-vertical-button =
+    .title = Utilitza el desplaçament vertical
+pdfjs-scroll-vertical-button-label = Desplaçament vertical
+pdfjs-scroll-horizontal-button =
+    .title = Utilitza el desplaçament horitzontal
+pdfjs-scroll-horizontal-button-label = Desplaçament horitzontal
+pdfjs-scroll-wrapped-button =
+    .title = Activa el desplaçament continu
+pdfjs-scroll-wrapped-button-label = Desplaçament continu
+pdfjs-spread-none-button =
+    .title = No agrupis les pàgines de dues en dues
+pdfjs-spread-none-button-label = Una sola pàgina
+pdfjs-spread-odd-button =
+    .title = Mostra dues pàgines començant per les pàgines de numeració senar
+pdfjs-spread-odd-button-label = Doble pàgina (senar)
+pdfjs-spread-even-button =
+    .title = Mostra dues pàgines començant per les pàgines de numeració parell
+pdfjs-spread-even-button-label = Doble pàgina (parell)
 
 ## Document properties dialog
 
@@ -87,6 +123,15 @@ pdfjs-document-properties-creator = Creador:
 pdfjs-document-properties-producer = Generador de PDF:
 pdfjs-document-properties-version = Versió de PDF:
 pdfjs-document-properties-page-count = Nombre de pàgines:
+pdfjs-document-properties-page-size = Mida de la pàgina:
+pdfjs-document-properties-page-size-unit-inches = polzades
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = vertical
+pdfjs-document-properties-page-size-orientation-landscape = apaïsat
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Carta
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +140,16 @@ pdfjs-document-properties-page-count = Nombre de pàgines:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Vista web ràpida:
+pdfjs-document-properties-linearized-yes = Sí
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Tanca
 
 ## Print
@@ -151,12 +203,15 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Següent
 pdfjs-find-highlight-checkbox = Ressalta-ho tot
 pdfjs-find-match-case-checkbox-label = Distingeix entre majúscules i minúscules
+pdfjs-find-match-diacritics-checkbox-label = Respecta els diacrítics
+pdfjs-find-entire-word-checkbox-label = Paraules senceres
 pdfjs-find-reached-top = S'ha arribat al principi del document, es continua pel final
 pdfjs-find-reached-bottom = S'ha arribat al final del document, es continua pel principi
 pdfjs-find-not-found = No s'ha trobat l'expressió
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = Amplada de la pàgina
 pdfjs-page-scale-fit = Ajusta la pàgina
 pdfjs-page-scale-auto = Zoom automàtic
 pdfjs-page-scale-actual = Mida real
@@ -173,9 +228,14 @@ pdfjs-loading-error = S'ha produït un error en carregar el PDF.
 pdfjs-invalid-file-error = El fitxer PDF no és vàlid o està malmès.
 pdfjs-missing-file-error = Falta el fitxer PDF.
 pdfjs-unexpected-response-error = Resposta inesperada del servidor.
+pdfjs-rendering-error = S'ha produït un error mentre es renderitzava la pàgina.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -194,6 +254,25 @@ pdfjs-web-fonts-disabled = Els tipus de lletra web estan desactivats: no es pode
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Dibuixa
+pdfjs-editor-ink-button-label = Dibuixa
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Color
+pdfjs-editor-free-text-size-input = Mida
+pdfjs-editor-ink-color-input = Color
+pdfjs-editor-ink-thickness-input = Gruix
+pdfjs-editor-ink-opacity-input = Opacitat
+pdfjs-free-text =
+    .aria-label = Editor de text
+pdfjs-free-text-default-content = Escriviu…
+pdfjs-ink =
+    .aria-label = Editor de dibuix
+pdfjs-ink-canvas =
+    .aria-label = Imatge creada per l'usuari
 
 ## Alt-text dialog
 
