@@ -49,6 +49,33 @@ pdfjs-page-rotate-ccw-button-label = Girar a la izquierda
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Propiedades del documento…
+pdfjs-document-properties-button-label = Propiedades del documento…
+pdfjs-document-properties-file-name = Nombre del archivo:
+pdfjs-document-properties-file-size = Tamaño del archivo:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = Título:
+pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-subject = Asunto:
+pdfjs-document-properties-keywords = Palabras claves:
+pdfjs-document-properties-creation-date = Fecha de creación:
+pdfjs-document-properties-modification-date = Fecha de modificación:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Creador:
+pdfjs-document-properties-producer = Productor PDF:
+pdfjs-document-properties-version = Versión PDF:
+pdfjs-document-properties-page-count = Número de páginas:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,6 +87,7 @@ pdfjs-page-rotate-ccw-button-label = Girar a la izquierda
 
 ##
 
+pdfjs-document-properties-close-button = Cerrar
 
 ## Print
 
@@ -71,6 +99,9 @@ pdfjs-printing-not-ready = Advertencia: El PDF no cargo completamente para impre
 pdfjs-toggle-sidebar-button =
     .title = Cambiar barra lateral
 pdfjs-toggle-sidebar-button-label = Cambiar barra lateral
+pdfjs-attachments-button =
+    .title = Mostrar adjuntos
+pdfjs-attachments-button-label = Adjuntos
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
@@ -109,6 +140,9 @@ pdfjs-page-scale-width = Ancho de página
 pdfjs-page-scale-fit = Ajustar página
 pdfjs-page-scale-auto = Zoom automático
 pdfjs-page-scale-actual = Tamaño real
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -118,6 +152,7 @@ pdfjs-page-scale-actual = Tamaño real
 pdfjs-loading-error = Un error ocurrió al cargar el PDF.
 pdfjs-invalid-file-error = Archivo PDF invalido o dañado.
 pdfjs-missing-file-error = Archivo PDF no encontrado.
+pdfjs-unexpected-response-error = Respuesta inesperada del servidor.
 
 ## Annotations
 
