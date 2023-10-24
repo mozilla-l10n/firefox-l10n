@@ -63,6 +63,22 @@ pdfjs-cursor-text-select-tool-button-label = Εργαλείο επιλογής �
 pdfjs-cursor-hand-tool-button =
     .title = Ενεργοποίηση εργαλείου χεριού
 pdfjs-cursor-hand-tool-button-label = Εργαλείο χεριού
+pdfjs-scroll-vertical-button =
+    .title = Χρήση κάθετης κύλισης
+pdfjs-scroll-vertical-button-label = Κάθετη κύλιση
+pdfjs-scroll-horizontal-button =
+    .title = Χρήση οριζόντιας κύλισης
+pdfjs-scroll-horizontal-button-label = Οριζόντια κύλιση
+pdfjs-scroll-wrapped-button =
+    .title = Χρήση κυκλικής κύλισης
+pdfjs-scroll-wrapped-button-label = Κυκλική κύλιση
+pdfjs-spread-none-button-label = Χωρίς επεκτάσεις
+pdfjs-spread-odd-button =
+    .title = Σύνδεση επεκτάσεων σελίδων ξεκινώντας από τις μονές σελίδες
+pdfjs-spread-odd-button-label = Μονές επεκτάσεις
+pdfjs-spread-even-button =
+    .title = Σύνδεση επεκτάσεων σελίδων ξεκινώντας από τις ζυγές σελίδες
+pdfjs-spread-even-button-label = Ζυγές επεκτάσεις
 
 ## Document properties dialog
 
@@ -92,6 +108,14 @@ pdfjs-document-properties-creator = Δημιουργός:
 pdfjs-document-properties-producer = Παραγωγός PDF:
 pdfjs-document-properties-version = Έκδοση PDF:
 pdfjs-document-properties-page-count = Αριθμός σελίδων:
+pdfjs-document-properties-page-size = Μέγεθος σελίδας:
+pdfjs-document-properties-page-size-unit-inches = ίντσες
+pdfjs-document-properties-page-size-orientation-portrait = κατακόρυφα
+pdfjs-document-properties-page-size-orientation-landscape = οριζόντια
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Επιστολή
+pdfjs-document-properties-page-size-name-legal = Τύπου Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -100,9 +124,16 @@ pdfjs-document-properties-page-count = Αριθμός σελίδων:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Ταχεία προβολή ιστού:
+pdfjs-document-properties-linearized-yes = Ναι
+pdfjs-document-properties-linearized-no = Όχι
 pdfjs-document-properties-close-button = Κλείσιμο
 
 ## Print
