@@ -58,6 +58,8 @@ pdfjs-spread-odd-button =
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = File name:
+pdfjs-document-properties-file-size = File size:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
