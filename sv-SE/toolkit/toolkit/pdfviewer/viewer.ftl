@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Aktuellt dispositionsobjekt
 pdfjs-findbar-button =
     .title = Sök i dokument
 pdfjs-findbar-button-label = Sök
+pdfjs-additional-layers = Ytterligare lager
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
