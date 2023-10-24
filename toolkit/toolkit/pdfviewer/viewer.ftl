@@ -265,6 +265,25 @@ pdfjs-web-fonts-disabled = Web fonts are disabled: unable to use embedded PDF fo
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Draw
+pdfjs-editor-ink-button-label = Draw
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Colour
+pdfjs-editor-free-text-size-input = Size
+pdfjs-editor-ink-color-input = Colour
+pdfjs-editor-ink-thickness-input = Thickness
+pdfjs-editor-ink-opacity-input = Opacity
+pdfjs-free-text =
+    .aria-label = Text Editor
+pdfjs-free-text-default-content = Start typing…
+pdfjs-ink =
+    .aria-label = Draw Editor
+pdfjs-ink-canvas =
+    .aria-label = User-created image
 
 ## Alt-text dialog
 
