@@ -138,6 +138,7 @@ pdfjs-document-properties-page-size-orientation-portrait = khổ dọc
 pdfjs-document-properties-page-size-orientation-landscape = khổ ngang
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Thư
 pdfjs-document-properties-page-size-name-legal = Pháp lý
 
 ## Variables:
