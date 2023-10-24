@@ -213,6 +213,7 @@ pdfjs-loading-error = PDF لوڈ کرتے وقت نقص آ گیا۔
 pdfjs-invalid-file-error = ناجائز یا خراب PDF مسل
 pdfjs-missing-file-error = PDF مسل غائب ہے۔
 pdfjs-unexpected-response-error = غیرمتوقع پیش کار جواب
+pdfjs-rendering-error = صفحہ بناتے ہوئے نقص آ گیا۔
 
 ## Annotations
 
