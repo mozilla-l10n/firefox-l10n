@@ -20,9 +20,9 @@ protections-popup-footer-protection-label-standard = 표준
 
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
-    .aria-label = 향상된 추적 방지 기능에 대한 추가 정보
-protections-panel-etp-on-header = 이 사이트에 향상된 추적 방지 기능이 켜짐
-protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 기능이 꺼짐
+    .aria-label = 향상된 추적 방지에 대한 추가 정보
+protections-panel-etp-on-header = 이 사이트에 향상된 추적 방지 켜짐
+protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 꺼짐
 
 ## Text for the toggles shown when ETP is enabled/disabled for a given site.
 ## .description is transferred into a separate paragraph by the moz-toggle
@@ -30,13 +30,21 @@ protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 기�
 ##   $host (String): the hostname of the site that is being displayed.
 
 protections-panel-etp-on-toggle =
-    .label = 향상된 추적 방지 기능
+    .label = 향상된 추적 방지
     .description = 이 사이트에 켜짐
     .aria-label = { $host }에 방지 사용 안 함
 protections-panel-etp-off-toggle =
-    .label = 향상된 추적 방지 기능
+    .label = 향상된 추적 방지
     .description = 이 사이트에 꺼짐
     .aria-label = { $host }에 방지 사용함
+protections-panel-etp-toggle-on =
+    .label = 향상된 추적 방지
+    .description = 이 사이트에 켜짐
+    .aria-label = 향상된 추적 방지: { $host }에 켜짐
+protections-panel-etp-toggle-off =
+    .label = 향상된 추적 방지
+    .description = 이 사이트에 꺼짐
+    .aria-label = 향상된 추적 방지: { $host }에 꺼짐
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 사이트가 작동하지 않습니까?
 # The heading/title of the sub-panel view
