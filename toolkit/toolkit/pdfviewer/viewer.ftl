@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Tekstinvalintatyökalu
 pdfjs-cursor-hand-tool-button =
     .title = Käytä käsityökalua
 pdfjs-cursor-hand-tool-button-label = Käsityökalu
+pdfjs-scroll-vertical-button =
+    .title = Käytä pystysuuntaista vieritystä
+pdfjs-scroll-vertical-button-label = Pystysuuntainen vieritys
+pdfjs-scroll-horizontal-button =
+    .title = Käytä vaakasuuntaista vieritystä
+pdfjs-scroll-horizontal-button-label = Vaakasuuntainen vieritys
+pdfjs-scroll-wrapped-button =
+    .title = Käytä rivittyvää vieritystä
+pdfjs-scroll-wrapped-button-label = Rivittyvä vieritys
+pdfjs-spread-none-button =
+    .title = Älä yhdistä sivuja aukeamiksi
+pdfjs-spread-none-button-label = Ei aukeamia
+pdfjs-spread-odd-button =
+    .title = Yhdistä sivut aukeamiksi alkaen parittomalta sivulta
+pdfjs-spread-odd-button-label = Parittomalta alkavat aukeamat
+pdfjs-spread-even-button =
+    .title = Yhdistä sivut aukeamiksi alkaen parilliselta sivulta
+pdfjs-spread-even-button-label = Parilliselta alkavat aukeamat
 
 ## Document properties dialog
 
@@ -92,6 +110,15 @@ pdfjs-document-properties-creator = Luoja:
 pdfjs-document-properties-producer = PDF-tuottaja:
 pdfjs-document-properties-version = PDF-versio:
 pdfjs-document-properties-page-count = Sivujen määrä:
+pdfjs-document-properties-page-size = Sivun koko:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = pysty
+pdfjs-document-properties-page-size-orientation-landscape = vaaka
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -100,9 +127,14 @@ pdfjs-document-properties-page-count = Sivujen määrä:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Nopea web-katselu:
 pdfjs-document-properties-close-button = Sulje
 
 ## Print
@@ -119,6 +151,8 @@ pdfjs-printing-not-ready = Varoitus: PDF-tiedosto ei ole vielä latautunut kokon
 
 pdfjs-toggle-sidebar-button =
     .title = Näytä/piilota sivupaneeli
+pdfjs-toggle-sidebar-notification-button =
+    .title = Näytä/piilota sivupaneeli (dokumentissa on sisällys/liitteitä/tasoja)
 pdfjs-toggle-sidebar-button-label = Näytä/piilota sivupaneeli
 pdfjs-document-outline-button =
     .title = Näytä dokumentin sisällys (laajenna tai kutista kohdat kaksoisnapsauttamalla)
@@ -129,6 +163,9 @@ pdfjs-attachments-button-label = Liitteet
 pdfjs-thumbs-button =
     .title = Näytä pienoiskuvat
 pdfjs-thumbs-button-label = Pienoiskuvat
+pdfjs-current-outline-item-button =
+    .title = Etsi nykyinen sisällyksen kohta
+pdfjs-current-outline-item-button-label = Nykyinen sisällyksen kohta
 pdfjs-findbar-button =
     .title = Etsi dokumentista
 pdfjs-findbar-button-label = Etsi
@@ -157,7 +194,10 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Seuraava
 pdfjs-find-highlight-checkbox = Korosta kaikki
 pdfjs-find-match-case-checkbox-label = Huomioi kirjainkoko
+pdfjs-find-match-diacritics-checkbox-label = Erota tarkkeet
+pdfjs-find-entire-word-checkbox-label = Kokonaiset sanat
 pdfjs-find-reached-top = Päästiin dokumentin alkuun, jatketaan lopusta
+pdfjs-find-reached-bottom = Päästiin dokumentin loppuun, jatketaan alusta
 pdfjs-find-not-found = Hakusanaa ei löytynyt
 
 ## Predefined zoom values
