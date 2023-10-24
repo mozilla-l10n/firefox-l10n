@@ -99,6 +99,7 @@ pdfjs-thumb-page-canvas =
 pdfjs-find-previous-button-label = ก่อนหน้า
 pdfjs-find-next-button-label = ถัดไป
 pdfjs-find-highlight-checkbox = เน้นสีทั้งหมด
+pdfjs-find-match-case-checkbox-label = ตัวพิมพ์ใหญ่เล็กตรงกัน
 pdfjs-find-reached-top = ค้นหาถึงจุดเริ่มต้นของหน้า เริ่มค้นต่อจากด้านล่าง
 pdfjs-find-reached-bottom = ค้นหาถึงจุดสิ้นสุดหน้า เริ่มค้นต่อจากด้านบน
 
