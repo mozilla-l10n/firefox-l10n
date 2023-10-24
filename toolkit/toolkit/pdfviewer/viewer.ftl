@@ -251,6 +251,7 @@ pdfjs-loading-error = Ocurrió un error al cargar el PDF.
 pdfjs-invalid-file-error = Fichero PDF no válido o corrupto.
 pdfjs-missing-file-error = No hay fichero PDF.
 pdfjs-unexpected-response-error = Respuesta inesperada del servidor.
+pdfjs-rendering-error = Ocurrió un error al renderizar la página.
 
 ## Annotations
 
@@ -276,6 +277,12 @@ pdfjs-web-fonts-disabled = Las tipografías web están desactivadas: es imposibl
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Dibujar
+pdfjs-editor-ink-button-label = Dibujar
 pdfjs-editor-stamp-button =
     .title = Añadir o editar imágenes
 pdfjs-editor-stamp-button-label = Añadir o editar imágenes
@@ -288,6 +295,11 @@ pdfjs-editor-ink-opacity-input = Opacidad
 pdfjs-editor-stamp-add-image-button =
     .title = Añadir imagen
 pdfjs-editor-stamp-add-image-button-label = Añadir imagen
+pdfjs-free-text =
+    .aria-label = Editor de texto
+pdfjs-free-text-default-content = Empezar a escribir…
+pdfjs-ink =
+    .aria-label = Editor de dibujos
 pdfjs-ink-canvas =
     .aria-label = Imagen creada por el usuario
 
