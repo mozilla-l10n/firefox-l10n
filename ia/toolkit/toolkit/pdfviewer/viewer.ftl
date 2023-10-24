@@ -84,6 +84,14 @@ pdfjs-cursor-hand-tool-button-label = Instrumento mano
 pdfjs-scroll-page-button =
     .title = Usar rolamento de pagina
 pdfjs-scroll-page-button-label = Rolamento de pagina
+pdfjs-scroll-vertical-button =
+    .title = Usar rolamento vertical
+pdfjs-scroll-vertical-button-label = Rolamento vertical
+pdfjs-scroll-horizontal-button =
+    .title = Usar rolamento horizontal
+pdfjs-scroll-horizontal-button-label = Rolamento horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Usar rolamento incapsulate
 pdfjs-scroll-wrapped-button-label = Rolamento incapsulate
 pdfjs-spread-none-button =
     .title = Non junger paginas dual
@@ -185,6 +193,8 @@ pdfjs-thumbs-button-label = Vignettes
 pdfjs-current-outline-item-button =
     .title = Trovar le elemento de structura actual
 pdfjs-current-outline-item-button-label = Elemento de structura actual
+pdfjs-findbar-button =
+    .title = Cercar in le documento
 pdfjs-findbar-button-label = Cercar
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -210,14 +220,19 @@ pdfjs-find-next-button =
     .title = Trovar le successive occurrentia del phrase
 pdfjs-find-next-button-label = Sequente
 pdfjs-find-highlight-checkbox = Evidentiar toto
+pdfjs-find-match-case-checkbox-label = Distinguer majusculas/minusculas
 pdfjs-find-match-diacritics-checkbox-label = Differentiar diacriticos
 pdfjs-find-entire-word-checkbox-label = Parolas integre
+pdfjs-find-reached-top = Initio del documento attingite, continuation ab fin
+pdfjs-find-reached-bottom = Fin del documento attingite, continuation ab initio
 pdfjs-find-not-found = Phrase non trovate
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = Plen largor del pagina
 pdfjs-page-scale-fit = Pagina integre
 pdfjs-page-scale-auto = Zoom automatic
+pdfjs-page-scale-actual = Dimension real
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
@@ -257,6 +272,7 @@ pdfjs-password-label = Insere le contrasigno pro aperir iste file PDF.
 pdfjs-password-invalid = Contrasigno invalide. Per favor retenta.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Cancellar
+pdfjs-web-fonts-disabled = Le typos de litteras web es disactivate: impossibile usar le typos de litteras PDF incorporate.
 
 ## Editing
 
@@ -278,6 +294,11 @@ pdfjs-editor-ink-opacity-input = Opacitate
 pdfjs-editor-stamp-add-image-button =
     .title = Adder imagine
 pdfjs-editor-stamp-add-image-button-label = Adder imagine
+pdfjs-free-text =
+    .aria-label = Editor de texto
+pdfjs-free-text-default-content = Comenciar a scriber…
+pdfjs-ink =
+    .aria-label = Editor de designos
 pdfjs-ink-canvas =
     .aria-label = Imagine create per le usator
 
