@@ -19,6 +19,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Yaatal
 pdfjs-zoom-select =
     .title = Yambalaŋ
+pdfjs-presentation-mode-button =
+    .title = Wañarñil ci anamu wone
+pdfjs-presentation-mode-button-label = Anamu Wone
 pdfjs-open-file-button =
     .title = Ubbi benn dencukaay
 pdfjs-open-file-button-label = Ubbi
@@ -42,18 +45,33 @@ pdfjs-open-file-button-label = Ubbi
 
 ## Print
 
+pdfjs-printing-not-supported = Artu: Joowkat bii nanguwul lool mool.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-thumbs-button =
     .title = Wone nataal yu ndaw yi
 pdfjs-thumbs-button-label = Nataal yu ndaw yi
+pdfjs-findbar-button =
+    .title = Gis ci biir jukki bi
+pdfjs-findbar-button-label = Wut
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Seet beneen kaddu bu ni mel te jiitu
+pdfjs-find-previous-button-label = Bi jiitu
+pdfjs-find-next-button =
+    .title = Seet beneen kaddu bu ni mel
+pdfjs-find-next-button-label = Bi ci topp
+pdfjs-find-highlight-checkbox = Melaxal lépp
+pdfjs-find-match-case-checkbox-label = Sàmm jëmmalin wi
+pdfjs-find-reached-top = Jot nañu ndorteel xët wi, kontine dale ko ci suuf
+pdfjs-find-reached-bottom = Jot nañu jeexitalu xët wi, kontine ci ndorte
+pdfjs-find-not-found = Gisiñu kaddu gi
 
 ## Predefined zoom values
 
@@ -68,9 +86,17 @@ pdfjs-page-scale-actual = Dayo bi am
 ## Loading indicator messages
 
 pdfjs-loading-error = Am na njumte ci yebum dencukaay PDF bi.
+pdfjs-invalid-file-error = Dencukaay PDF bi baaxul walla mu sankar.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Karmat { $type }]
 
 ## Password
 
