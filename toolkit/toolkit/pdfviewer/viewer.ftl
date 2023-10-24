@@ -39,9 +39,30 @@ pdfjs-open-file-button-label = Адкрыць
 pdfjs-print-button =
     .title = Друкаваць
 pdfjs-print-button-label = Друкаваць
+pdfjs-save-button =
+    .title = Захаваць
+pdfjs-save-button-label = Захаваць
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Сцягнуць
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Сцягнуць
+pdfjs-bookmark-button =
+    .title = Дзейная старонка (паглядзець URL-адрас з дзейнай старонкі)
+pdfjs-bookmark-button-label = Цяперашняя старонка
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Адкрыць у праграме
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Адкрыць у праграме
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Прылады
+pdfjs-tools-button-label = Прылады
 pdfjs-first-page-button =
     .title = Перайсці на першую старонку
 pdfjs-first-page-button-label = Перайсці на першую старонку
@@ -60,6 +81,24 @@ pdfjs-cursor-text-select-tool-button-label = Прылада выбару тэк�
 pdfjs-cursor-hand-tool-button =
     .title = Уключыць ручную прыладу
 pdfjs-cursor-hand-tool-button-label = Ручная прылада
+pdfjs-scroll-vertical-button =
+    .title = Ужываць вертыкальную пракрутку
+pdfjs-scroll-vertical-button-label = Вертыкальная пракрутка
+pdfjs-scroll-horizontal-button =
+    .title = Ужываць гарызантальную пракрутку
+pdfjs-scroll-horizontal-button-label = Гарызантальная пракрутка
+pdfjs-scroll-wrapped-button =
+    .title = Ужываць маштабавальную пракрутку
+pdfjs-scroll-wrapped-button-label = Маштабавальная пракрутка
+pdfjs-spread-none-button =
+    .title = Не выкарыстоўваць разгорнутыя старонкі
+pdfjs-spread-none-button-label = Без разгорнутых старонак
+pdfjs-spread-odd-button =
+    .title = Разгорнутыя старонкі пачынаючы з няцотных нумароў
+pdfjs-spread-odd-button-label = Няцотныя старонкі злева
+pdfjs-spread-even-button =
+    .title = Разгорнутыя старонкі пачынаючы з цотных нумароў
+pdfjs-spread-even-button-label = Цотныя старонкі злева
 
 ## Document properties dialog
 
@@ -90,6 +129,15 @@ pdfjs-document-properties-creator = Стваральнік:
 pdfjs-document-properties-producer = Вырабнік PDF:
 pdfjs-document-properties-version = Версія PDF:
 pdfjs-document-properties-page-count = Колькасць старонак:
+pdfjs-document-properties-page-size = Памер старонкі:
+pdfjs-document-properties-page-size-unit-inches = цаляў
+pdfjs-document-properties-page-size-unit-millimeters = мм
+pdfjs-document-properties-page-size-orientation-portrait = кніжная
+pdfjs-document-properties-page-size-orientation-landscape = альбомная
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -98,6 +146,8 @@ pdfjs-document-properties-page-count = Колькасць старонак:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -122,6 +172,8 @@ pdfjs-printing-not-ready = Увага: PDF не сцягнуты цалкам д
 
 pdfjs-toggle-sidebar-button =
     .title = Паказаць/схаваць бакавую панэль
+pdfjs-toggle-sidebar-notification-button =
+    .title = Паказаць/схаваць бакавую панэль (дакумент мае змест/укладанні/пласты)
 pdfjs-toggle-sidebar-button-label = Паказаць/схаваць бакавую панэль
 pdfjs-document-outline-button =
     .title = Паказаць структуру дакумента (двайная пстрычка, каб разгарнуць /згарнуць усе элементы)
@@ -129,9 +181,13 @@ pdfjs-document-outline-button-label = Структура дакумента
 pdfjs-attachments-button =
     .title = Паказаць далучэнні
 pdfjs-attachments-button-label = Далучэнні
+pdfjs-layers-button-label = Пласты
 pdfjs-thumbs-button =
     .title = Паказ мініяцюр
 pdfjs-thumbs-button-label = Мініяцюры
+pdfjs-current-outline-item-button =
+    .title = Знайсці бягучы элемент структуры
+pdfjs-current-outline-item-button-label = Бягучы элемент структуры
 pdfjs-findbar-button =
     .title = Пошук у дакуменце
 pdfjs-findbar-button-label = Знайсці
@@ -159,6 +215,9 @@ pdfjs-find-next-button =
     .title = Знайсці наступны выпадак выразу
 pdfjs-find-next-button-label = Наступны
 pdfjs-find-highlight-checkbox = Падфарбаваць усе
+pdfjs-find-match-case-checkbox-label = Адрозніваць вялікія/малыя літары
+pdfjs-find-match-diacritics-checkbox-label = З улікам дыякрытык
+pdfjs-find-entire-word-checkbox-label = Словы цалкам
 pdfjs-find-reached-top = Дасягнуты пачатак дакумента, працяг з канца
 pdfjs-find-reached-bottom = Дасягнуты канец дакумента, працяг з пачатку
 pdfjs-find-not-found = Выраз не знойдзены
@@ -175,15 +234,24 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Старонка { $page }
 
 ## Loading indicator messages
 
+pdfjs-loading-error = Здарылася памылка ў часе загрузкі PDF.
 pdfjs-invalid-file-error = Няспраўны або пашкоджаны файл PDF.
 pdfjs-missing-file-error = Адсутны файл PDF.
 pdfjs-unexpected-response-error = Нечаканы адказ сервера.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -202,9 +270,38 @@ pdfjs-web-fonts-disabled = Шрыфты Сеціва забаронены: не�
 
 ## Editing
 
+pdfjs-editor-stamp-button =
+    .title = Дадаць або змяніць выявы
+pdfjs-editor-stamp-button-label = Дадаць або змяніць выявы
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Колер
+pdfjs-editor-free-text-size-input = Памер
+pdfjs-editor-ink-color-input = Колер
+pdfjs-editor-ink-thickness-input = Таўшчыня
+pdfjs-editor-ink-opacity-input = Непразрыстасць
+pdfjs-editor-stamp-add-image-button =
+    .title = Дадаць выяву
+pdfjs-editor-stamp-add-image-button-label = Дадаць выяву
+pdfjs-ink-canvas =
+    .aria-label = Выява, створаная карыстальнікам
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Альтэрнатыўны тэкст
+pdfjs-editor-alt-text-edit-button-label = Змяніць альтэрнатыўны тэкст
+pdfjs-editor-alt-text-dialog-label = Выберыце варыянт
+pdfjs-editor-alt-text-dialog-description = Альтэрнатыўны тэкст дапамагае, калі людзі не бачаць выяву або калі яна не загружаецца.
+pdfjs-editor-alt-text-add-description-label = Дадаць апісанне
+pdfjs-editor-alt-text-add-description-description = Старайцеся скласці 1-2 сказы, якія апісваюць прадмет, абстаноўку або дзеянні.
+pdfjs-editor-alt-text-mark-decorative-label = Пазначыць як дэкаратыўны
+pdfjs-editor-alt-text-mark-decorative-description = Выкарыстоўваецца для дэкаратыўных выяваў, такіх як рамкі або вадзяныя знакі.
+pdfjs-editor-alt-text-cancel-button = Скасаваць
+pdfjs-editor-alt-text-save-button = Захаваць
+pdfjs-editor-alt-text-decorative-tooltip = Пазначаны як дэкаратыўны
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Напрыклад, «Малады чалавек садзіцца за стол есці»
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
