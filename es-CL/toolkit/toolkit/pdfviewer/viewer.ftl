@@ -5,6 +5,29 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Página anterior
+pdfjs-previous-button-label = Anterior
+pdfjs-next-button =
+    .title = Página siguiente
+pdfjs-next-button-label = Siguiente
+pdfjs-zoom-out-button =
+    .title = Alejar
+pdfjs-zoom-out-button-label = Alejar
+pdfjs-zoom-in-button =
+    .title = Acercar
+pdfjs-zoom-in-button-label = Acercar
+pdfjs-zoom-select =
+    .title = Ampliación
+pdfjs-presentation-mode-button =
+    .title = Cambiar al modo de presentación
+pdfjs-presentation-mode-button-label = Modo de presentación
+pdfjs-open-file-button =
+    .title = Abrir archivo
+pdfjs-open-file-button-label = Abrir
+pdfjs-print-button =
+    .title = Imprimir
+pdfjs-print-button-label = Imprimir
 
 ##  Secondary toolbar and context menu
 
@@ -67,6 +90,7 @@ pdfjs-document-properties-close-button = Cerrar
 
 ## Print
 
+pdfjs-printing-not-supported = Advertencia: Imprimir no está soportado completamente por este navegador.
 pdfjs-printing-not-ready = Advertencia: El PDF no está completamente cargado para ser impreso.
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -77,17 +101,40 @@ pdfjs-toggle-sidebar-button-label = Mostrar u ocultar la barra lateral
 pdfjs-attachments-button =
     .title = Mostrar adjuntos
 pdfjs-attachments-button-label = Adjuntos
+pdfjs-thumbs-button =
+    .title = Mostrar miniaturas
+pdfjs-thumbs-button-label = Miniaturas
+pdfjs-findbar-button =
+    .title = Buscar en el documento
+pdfjs-findbar-button-label = Buscar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = Página { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Miniatura de la página { $page }
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = Previo
+pdfjs-find-next-button-label = Siguiente
+pdfjs-find-highlight-checkbox = Destacar todos
+pdfjs-find-match-case-checkbox-label = Coincidir mayús./minús.
 pdfjs-find-reached-top = Se alcanzó el inicio del documento, continuando desde el final
 pdfjs-find-reached-bottom = Se alcanzó el final del documento, continuando desde el inicio
+pdfjs-find-not-found = Frase no encontrada
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = Ancho de página
+pdfjs-page-scale-fit = Ajuste de página
+pdfjs-page-scale-auto = Aumento automático
+pdfjs-page-scale-actual = Tamaño actual
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
@@ -97,6 +144,7 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = Archivo PDF inválido o corrupto.
 pdfjs-missing-file-error = Falta el archivo PDF.
 pdfjs-unexpected-response-error = Respuesta del servidor inesperada.
 
