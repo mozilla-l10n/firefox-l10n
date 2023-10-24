@@ -160,6 +160,8 @@ pdfjs-printing-not-ready = Attention : le PDF n’est pas entièrement chargé 
 
 pdfjs-toggle-sidebar-button =
     .title = Afficher/Masquer le panneau latéral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Afficher/Masquer le panneau latéral (le document contient des signets/pièces jointes/calques)
 pdfjs-toggle-sidebar-button-label = Afficher/Masquer le panneau latéral
 pdfjs-document-outline-button =
     .title = Afficher les signets du document (double-cliquer pour développer/réduire tous les éléments)
@@ -169,6 +171,7 @@ pdfjs-attachments-button =
 pdfjs-attachments-button-label = Pièces jointes
 pdfjs-layers-button =
     .title = Afficher les calques (double-cliquer pour réinitialiser tous les calques à l’état par défaut)
+pdfjs-layers-button-label = Calques
 pdfjs-thumbs-button =
     .title = Afficher les vignettes
 pdfjs-thumbs-button-label = Vignettes
