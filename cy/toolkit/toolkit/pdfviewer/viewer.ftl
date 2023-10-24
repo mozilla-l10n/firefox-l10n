@@ -19,12 +19,33 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Chwyddo Mewn
 pdfjs-zoom-select =
     .title = Chwyddo
+pdfjs-presentation-mode-button =
+    .title = Newid i'r Modd Cyflwyno
+pdfjs-presentation-mode-button-label = Modd Cyflwyno
+pdfjs-open-file-button =
+    .title = Agor Ffeil
+pdfjs-open-file-button-label = Agor
 pdfjs-print-button =
     .title = Argraffu
 pdfjs-print-button-label = Argraffu
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Offer
+pdfjs-tools-button-label = Offer
+pdfjs-first-page-button =
+    .title = Mynd i'r Dudalen Gyntaf
+pdfjs-first-page-button-label = Mynd i'r Dudalen Gyntaf
+pdfjs-last-page-button =
+    .title = Mynd i'r Dudalen Olaf
+pdfjs-last-page-button-label = Mynd i'r Dudalen Olaf
+pdfjs-page-rotate-cw-button =
+    .title = Cylchdroi Clocwedd
+pdfjs-page-rotate-cw-button-label = Cylchdroi Clocwedd
+pdfjs-page-rotate-ccw-button =
+    .title = Cylchdroi Gwrthglocwedd
+pdfjs-page-rotate-ccw-button-label = Cylchdroi Gwrthglocwedd
 
 ## Document properties dialog
 
@@ -53,12 +74,18 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 ## Print
 
 pdfjs-printing-not-supported = Rhybudd: Nid yw argraffu yn cael ei gynnal yn llawn gan y porwr.
+pdfjs-printing-not-ready = Rhybudd: Nid yw'r PDF wedi ei lwytho'n llawn ar gyfer argraffu.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Toglo'r Bar Ochr
+pdfjs-toggle-sidebar-button-label = Toglo'r Bar Ochr
 pdfjs-thumbs-button =
     .title = Dangos Lluniau Bach
 pdfjs-thumbs-button-label = Lluniau Bach
+pdfjs-findbar-button =
+    .title = Canfod yn y Ddogfen
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -73,6 +100,15 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Canfod enghraifft flaenorol o'r ymadrodd
+pdfjs-find-previous-button-label = Blaenorol
+pdfjs-find-next-button =
+    .title = Canfod enghraifft nesaf yr ymadrodd
+pdfjs-find-next-button-label = Nesaf
+pdfjs-find-reached-top = Wedi cyrraedd brig y dudalen, parhau o'r gwaelod
+pdfjs-find-reached-bottom = Wedi cyrraedd diwedd y dudalen, parhau o'r brig
+pdfjs-find-not-found = Heb ganfod ymadrodd
 
 ## Predefined zoom values
 
@@ -87,12 +123,24 @@ pdfjs-page-scale-actual = Maint Gwirioneddol
 ## Loading indicator messages
 
 pdfjs-loading-error = Digwyddodd gwall wrth lwytho'r PDF.
+pdfjs-invalid-file-error = Ffeil PDF annilys neu llwgr.
+pdfjs-missing-file-error = Ffeil PDF coll.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Anodiad { $type } ]
 
 ## Password
 
+pdfjs-password-label = Rhowch gyfrinair i agor y PDF.
+pdfjs-password-invalid = Cyfrinair annilys. Ceisiwch eto.
+pdfjs-password-ok-button = Iawn
 
 ## Editing
 
