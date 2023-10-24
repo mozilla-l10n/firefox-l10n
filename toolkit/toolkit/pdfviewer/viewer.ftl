@@ -130,6 +130,11 @@ pdfjs-document-properties-close-button = Cerrar
 
 ## Print
 
+pdfjs-print-progress-message = Preparando documento para impresión…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Cancelar
 pdfjs-printing-not-supported = Advertencia: La impresión no esta completamente soportada por este navegador.
 pdfjs-printing-not-ready = Advertencia: El PDF no cargo completamente para impresión.
 
@@ -140,6 +145,9 @@ pdfjs-toggle-sidebar-button =
 pdfjs-toggle-sidebar-notification-button =
     .title = Alternar barra lateral (el documento contiene esquemas/adjuntos/capas)
 pdfjs-toggle-sidebar-button-label = Cambiar barra lateral
+pdfjs-document-outline-button =
+    .title = Mostrar esquema del documento (doble clic para expandir/contraer todos los elementos)
+pdfjs-document-outline-button-label = Esquema del documento
 pdfjs-attachments-button =
     .title = Mostrar adjuntos
 pdfjs-attachments-button-label = Adjuntos
@@ -175,6 +183,7 @@ pdfjs-find-next-button-label = Siguiente
 pdfjs-find-highlight-checkbox = Resaltar todo
 pdfjs-find-match-case-checkbox-label = Coincidir con mayúsculas y minúsculas
 pdfjs-find-match-diacritics-checkbox-label = Coincidir diacríticos
+pdfjs-find-entire-word-checkbox-label = Palabras completas
 pdfjs-find-reached-top = Se alcanzó el inicio del documento, se buscará al final
 pdfjs-find-reached-bottom = Se alcanzó el final del documento, se buscará al inicio
 pdfjs-find-not-found = No se encontró la frase
