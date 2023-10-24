@@ -63,6 +63,12 @@ pdfjs-cursor-text-select-tool-button-label = मजकूर निवड सा
 pdfjs-cursor-hand-tool-button =
     .title = हात साधन कार्यान्वित करा
 pdfjs-cursor-hand-tool-button-label = हस्त साधन
+pdfjs-scroll-vertical-button =
+    .title = अनुलंब स्क्रोलिंग वापरा
+pdfjs-scroll-vertical-button-label = अनुलंब स्क्रोलिंग
+pdfjs-scroll-horizontal-button =
+    .title = क्षैतिज स्क्रोलिंग वापरा
+pdfjs-scroll-horizontal-button-label = क्षैतिज स्क्रोलिंग
 
 ## Document properties dialog
 
@@ -115,6 +121,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = जलद वेब दृष्य:
 pdfjs-document-properties-linearized-yes = हो
 pdfjs-document-properties-linearized-no = नाही
 pdfjs-document-properties-close-button = बंद करा
@@ -198,6 +207,10 @@ pdfjs-unexpected-response-error = अनपेक्षित सर्व्ह
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
