@@ -183,6 +183,7 @@ pdfjs-current-outline-item-button-label = Butir Ikhtisar Saat Ini
 pdfjs-findbar-button =
     .title = Temukan di Dokumen
 pdfjs-findbar-button-label = Temukan
+pdfjs-additional-layers = Lapisan Tambahan
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
