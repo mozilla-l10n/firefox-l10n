@@ -33,15 +33,36 @@ pdfjs-zoom-select =
 pdfjs-presentation-mode-button =
     .title = Excambiar a modo presentation
 pdfjs-presentation-mode-button-label = Modo presentation
+pdfjs-open-file-button =
+    .title = Aperir le file
 pdfjs-open-file-button-label = Aperir
 pdfjs-print-button =
     .title = Imprimer
 pdfjs-print-button-label = Imprimer
+pdfjs-save-button =
+    .title = Salvar
+pdfjs-save-button-label = Salvar
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Discargar
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Discargar
+pdfjs-bookmark-button =
+    .title = Pagina actual (vide le URL del pagina actual)
+pdfjs-bookmark-button-label = Pagina actual
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Aperir in app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Aperir in app
 
 ##  Secondary toolbar and context menu
 
 pdfjs-tools-button =
     .title = Instrumentos
+pdfjs-tools-button-label = Instrumentos
 pdfjs-first-page-button =
     .title = Ir al prime pagina
 pdfjs-first-page-button-label = Ir al prime pagina
@@ -60,6 +81,19 @@ pdfjs-cursor-text-select-tool-button-label = Instrumento de selection de texto
 pdfjs-cursor-hand-tool-button =
     .title = Activar le instrumento mano
 pdfjs-cursor-hand-tool-button-label = Instrumento mano
+pdfjs-scroll-page-button =
+    .title = Usar rolamento de pagina
+pdfjs-scroll-page-button-label = Rolamento de pagina
+pdfjs-scroll-wrapped-button-label = Rolamento incapsulate
+pdfjs-spread-none-button =
+    .title = Non junger paginas dual
+pdfjs-spread-none-button-label = Sin paginas dual
+pdfjs-spread-odd-button =
+    .title = Junger paginas dual a partir de paginas con numeros impar
+pdfjs-spread-odd-button-label = Paginas dual impar
+pdfjs-spread-even-button =
+    .title = Junger paginas dual a partir de paginas con numeros par
+pdfjs-spread-even-button-label = Paginas dual par
 
 ## Document properties dialog
 
@@ -90,6 +124,15 @@ pdfjs-document-properties-creator = Creator:
 pdfjs-document-properties-producer = Productor PDF:
 pdfjs-document-properties-version = Version PDF:
 pdfjs-document-properties-page-count = Numero de paginas:
+pdfjs-document-properties-page-size = Dimension del pagina:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = vertical
+pdfjs-document-properties-page-size-orientation-landscape = horizontal
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Littera
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -98,12 +141,16 @@ pdfjs-document-properties-page-count = Numero de paginas:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
 pdfjs-document-properties-linearized = Vista web rapide:
+pdfjs-document-properties-linearized-yes = Si
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Clauder
 
 ## Print
@@ -120,6 +167,8 @@ pdfjs-printing-not-ready = Attention: le file PDF non es integremente cargate pr
 
 pdfjs-toggle-sidebar-button =
     .title = Monstrar/celar le barra lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Monstrar/celar le barra lateral (le documento contine structura/attachamentos/stratos)
 pdfjs-toggle-sidebar-button-label = Monstrar/celar le barra lateral
 pdfjs-document-outline-button =
     .title = Monstrar le schema del documento (clic duple pro expander/contraher tote le elementos)
@@ -127,9 +176,15 @@ pdfjs-document-outline-button-label = Schema del documento
 pdfjs-attachments-button =
     .title = Monstrar le annexos
 pdfjs-attachments-button-label = Annexos
+pdfjs-layers-button =
+    .title = Monstrar stratos (clicca duple pro remontar tote le stratos al stato predefinite)
+pdfjs-layers-button-label = Stratos
 pdfjs-thumbs-button =
     .title = Monstrar le vignettes
 pdfjs-thumbs-button-label = Vignettes
+pdfjs-current-outline-item-button =
+    .title = Trovar le elemento de structura actual
+pdfjs-current-outline-item-button-label = Elemento de structura actual
 pdfjs-findbar-button-label = Cercar
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -155,6 +210,8 @@ pdfjs-find-next-button =
     .title = Trovar le successive occurrentia del phrase
 pdfjs-find-next-button-label = Sequente
 pdfjs-find-highlight-checkbox = Evidentiar toto
+pdfjs-find-match-diacritics-checkbox-label = Differentiar diacriticos
+pdfjs-find-entire-word-checkbox-label = Parolas integre
 pdfjs-find-not-found = Phrase non trovate
 
 ## Predefined zoom values
@@ -167,6 +224,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Pagina { $page }
 
 ## Loading indicator messages
 
@@ -174,9 +235,14 @@ pdfjs-loading-error = Un error occurreva durante que on cargava le file PDF.
 pdfjs-invalid-file-error = File PDF corrumpite o non valide.
 pdfjs-missing-file-error = File PDF mancante.
 pdfjs-unexpected-response-error = Responsa del servitor inexpectate.
+pdfjs-rendering-error = Un error occurreva durante que on processava le pagina.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -194,10 +260,53 @@ pdfjs-password-cancel-button = Cancellar
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Designar
+pdfjs-editor-ink-button-label = Designar
+pdfjs-editor-stamp-button =
+    .title = Adder o rediger imagines
+pdfjs-editor-stamp-button-label = Adder o rediger imagines
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Color
+pdfjs-editor-free-text-size-input = Dimension
+pdfjs-editor-ink-color-input = Color
+pdfjs-editor-ink-thickness-input = Spissor
+pdfjs-editor-ink-opacity-input = Opacitate
+pdfjs-editor-stamp-add-image-button =
+    .title = Adder imagine
+pdfjs-editor-stamp-add-image-button-label = Adder imagine
+pdfjs-ink-canvas =
+    .aria-label = Imagine create per le usator
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Texto alternative
+pdfjs-editor-alt-text-edit-button-label = Rediger texto alternative
+pdfjs-editor-alt-text-dialog-label = Elige un option
+pdfjs-editor-alt-text-dialog-description = Le texto alternative (alt text) adjuta quando le personas non pote vider le imagine o quando illo non carga.
+pdfjs-editor-alt-text-add-description-label = Adder un description
+pdfjs-editor-alt-text-add-description-description = Mira a 1-2 phrases que describe le subjecto, parametro, o actiones.
+pdfjs-editor-alt-text-mark-decorative-label = Marcar como decorative
+pdfjs-editor-alt-text-mark-decorative-description = Isto es usate pro imagines ornamental, como bordaturas o filigranas.
+pdfjs-editor-alt-text-cancel-button = Cancellar
+pdfjs-editor-alt-text-save-button = Salvar
+pdfjs-editor-alt-text-decorative-tooltip = Marcate como decorative
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Per exemplo, “Un juvene sede a un tabula pro mangiar un repasto”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Angulo superior sinistre — redimensionar
+pdfjs-editor-resizer-label-top-middle = Medio superior — redimensionar
+pdfjs-editor-resizer-label-top-right = Angulo superior dextre — redimensionar
+pdfjs-editor-resizer-label-middle-right = Medio dextre — redimensionar
+pdfjs-editor-resizer-label-bottom-right = Angulo inferior dextre — redimensionar
+pdfjs-editor-resizer-label-bottom-middle = Medio inferior — redimensionar
+pdfjs-editor-resizer-label-bottom-left = Angulo inferior sinistre — redimensionar
+pdfjs-editor-resizer-label-middle-left = Medio sinistre — redimensionar
