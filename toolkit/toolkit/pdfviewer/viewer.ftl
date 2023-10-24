@@ -13,12 +13,32 @@ pdfjs-next-button =
 pdfjs-next-button-label = Sonraki
 pdfjs-zoom-select =
     .title = Yakınlaştırma
+pdfjs-presentation-mode-button =
+    .title = Sunum moduna geç
+pdfjs-open-file-button =
+    .title = Dosya aç
+pdfjs-open-file-button-label = Aç
 pdfjs-print-button =
     .title = Yazdır
 pdfjs-print-button-label = Yazdır
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Araçlar
+pdfjs-tools-button-label = Araçlar
+pdfjs-first-page-button =
+    .title = İlk sayfaya git
+pdfjs-first-page-button-label = İlk sayfaya git
+pdfjs-last-page-button =
+    .title = Son sayfaya git
+pdfjs-last-page-button-label = Son sayfaya git
+pdfjs-page-rotate-cw-button =
+    .title = Saat yönünde döndür
+pdfjs-page-rotate-cw-button-label = Saat yönünde döndür
+pdfjs-page-rotate-ccw-button =
+    .title = Saat yönünün tersine döndür
+pdfjs-page-rotate-ccw-button-label = Saat yönünün tersine döndür
 
 ## Document properties dialog
 
@@ -121,9 +141,17 @@ pdfjs-missing-file-error = PDF dosyası eksik.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } işareti]
 
 ## Password
 
+pdfjs-password-ok-button = Tamam
 pdfjs-web-fonts-disabled = Web fontları devre dışı: Gömülü PDF fontları kullanılamıyor.
 
 ## Editing
