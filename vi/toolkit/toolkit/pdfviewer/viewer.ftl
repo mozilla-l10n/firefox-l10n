@@ -9,6 +9,9 @@ pdfjs-previous-button-label = Trước
 pdfjs-next-button =
     .title = Trang Sau
 pdfjs-next-button-label = Tiếp
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Trang
 # Variables:
 #   $pagesCount (Number) - the total number of pages in the document
 # This string follows an input field with the number of the page currently displayed.
@@ -50,6 +53,8 @@ pdfjs-page-rotate-cw-button-label = Xoay theo chiều kim đồng hồ
 pdfjs-page-rotate-ccw-button =
     .title = Xoay ngược chiều kim đồng hồ
 pdfjs-page-rotate-ccw-button-label = Xoay ngược chiều kim đồng hồ
+pdfjs-cursor-text-select-tool-button-label = Công cụ chọn vùng văn bản
+pdfjs-cursor-hand-tool-button-label = Công cụ con trỏ
 
 ## Document properties dialog
 
@@ -99,6 +104,7 @@ pdfjs-print-progress-message = Chuẩn bị trang để in…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Hủy bỏ
 pdfjs-printing-not-supported = Cảnh báo: In ấn không được hỗ trợ đầy đủ ở trình duyệt này.
 pdfjs-printing-not-ready = Cảnh báo: PDF chưa được tải hết để in.
 
@@ -116,6 +122,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Ảnh thu nhỏ
 pdfjs-findbar-button =
     .title = Tìm trong tài liệu
+pdfjs-findbar-button-label = Tìm
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -130,6 +137,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Tìm
+    .placeholder = Tìm trong tài liệu…
 pdfjs-find-previous-button =
     .title = Tìm cụm từ ở phần trước
 pdfjs-find-previous-button-label = Trước
@@ -177,6 +187,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Nhập mật khẩu để mở tập tin PDF này.
 pdfjs-password-invalid = Mật khẩu không đúng. Vui lòng thử lại.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Hủy bỏ
 pdfjs-web-fonts-disabled = Phông chữ Web bị vô hiệu hóa: không thể sử dụng các phông chữ PDF được nhúng.
 
 ## Editing
