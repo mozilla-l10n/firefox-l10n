@@ -38,6 +38,7 @@ pdfjs-open-file-button =
 pdfjs-open-file-button-label = Attaiseit
 pdfjs-print-button =
     .title = Drukuošona
+pdfjs-print-button-label = Drukōt
 
 ##  Secondary toolbar and context menu
 
@@ -62,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Teksta izvieles reiks
 pdfjs-cursor-hand-tool-button =
     .title = Aktivēt rūkys reiku
 pdfjs-cursor-hand-tool-button-label = Rūkys reiks
+pdfjs-scroll-vertical-button =
+    .title = Izmontōt vertikalū ritinōšonu
+pdfjs-scroll-vertical-button-label = Vertikalō ritinōšona
+pdfjs-scroll-horizontal-button =
+    .title = Izmontōt horizontalū ritinōšonu
+pdfjs-scroll-horizontal-button-label = Horizontalō ritinōšona
+pdfjs-scroll-wrapped-button =
+    .title = Izmontōt mārūgojamū ritinōšonu
+pdfjs-scroll-wrapped-button-label = Mārūgojamō ritinōšona
+pdfjs-spread-none-button =
+    .title = Naizmontōt lopu atvāruma režimu
+pdfjs-spread-none-button-label = Bez atvārumim
+pdfjs-spread-odd-button =
+    .title = Izmontōt lopu atvārumus sōkut nu napōra numeru lopom
+pdfjs-spread-odd-button-label = Napōra lopys pa kreisi
+pdfjs-spread-even-button =
+    .title = Izmontōt lopu atvārumus sōkut nu pōra numeru lopom
+pdfjs-spread-even-button-label = Pōra lopys pa kreisi
 
 ## Document properties dialog
 
@@ -92,6 +111,15 @@ pdfjs-document-properties-creator = Radeituojs:
 pdfjs-document-properties-producer = PDF producents:
 pdfjs-document-properties-version = PDF verseja:
 pdfjs-document-properties-page-count = Lopu skaits:
+pdfjs-document-properties-page-size = Lopas izmārs:
+pdfjs-document-properties-page-size-unit-inches = collas
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portreta orientaceja
+pdfjs-document-properties-page-size-orientation-landscape = ainovys orientaceja
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -100,9 +128,16 @@ pdfjs-document-properties-page-count = Lopu skaits:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Fast Web View:
+pdfjs-document-properties-linearized-yes = Jā
+pdfjs-document-properties-linearized-no = Nā
 pdfjs-document-properties-close-button = Aiztaiseit
 
 ## Print
