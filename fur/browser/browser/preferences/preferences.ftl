@@ -1010,9 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Azions sveltis
     .accesskey = Z
-addressbar-locbar-recentsearches-option =
-    .label = Ricercjis resintis
-    .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostre ricercjis resintis
+    .accesskey = r
 addressbar-suggestions-settings = Modifiche lis preferencis pai sugjeriments dai motôrs di ricercje
 addressbar-quickactions-learn-more = Plui informazions
 
