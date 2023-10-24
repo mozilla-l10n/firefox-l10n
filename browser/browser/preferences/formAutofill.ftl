@@ -7,23 +7,24 @@
 
 autofill-manage-addresses-title = Direcciones guardadas
 autofill-manage-addresses-list-header = Direcciones
-
 autofill-manage-credit-cards-title = Tarjetas de crédito guardadas
 autofill-manage-credit-cards-list-header = Tarjetas de crédito
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Eliminar
 autofill-manage-add-button = Agregar…
 autofill-manage-edit-button = Editar…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = ¿Guardar dirección?
+address-capture-save-doorhanger-description = Guarde información en { -brand-short-name } para poder completar formularios rápidamente.
+address-capture-update-doorhanger-header = ¿Actualizar dirección?
+address-capture-edit-doorhanger-header = Editar dirección
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Agregar nueva dirección
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar dirección
-
 autofill-address-given-name = Primer nombre
 autofill-address-additional-name = Nombre del medio
 autofill-address-family-name = Apellido
@@ -81,19 +82,19 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = País o región
 autofill-address-tel = Teléfono
 autofill-address-email = Correo electrónico
-
 autofill-cancel-button = Cancelar
 autofill-save-button = Guardar
 autofill-country-warning-message = El formulario de autocompletado por ahora está disponible solo para algunos países.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Agregar nueva tarjeta de crédito
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editar tarjeta de crédito
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +103,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } está intentando mostrar la información de la tarjeta de crédito. Confirme el acceso a esta cuenta de Windows que está a continuación.
        *[other] { -brand-short-name } está intentando mostrar la información de la tarjeta de crédito.
     }
-
 autofill-card-number = Número de tarjeta
 autofill-card-invalid-number = Ingrese un número de tarjeta válido
 autofill-card-name-on-card = Nombre en la tarjeta
