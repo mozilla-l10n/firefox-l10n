@@ -49,6 +49,7 @@ pdfjs-page-rotate-ccw-button-label = Berevajî aliyê saetê ve bizivirîne
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = Sernav:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -71,6 +72,7 @@ pdfjs-printing-not-ready = Hişyarî: PDF bi temamî nehat barkirin û ji bo ça
 pdfjs-toggle-sidebar-button =
     .title = Darikê kêlekê veke/bigire
 pdfjs-toggle-sidebar-button-label = Darikê kêlekê veke/bigire
+pdfjs-document-outline-button-label = Şemaya belgeyê
 pdfjs-thumbs-button =
     .title = Wênekokan nîşan bide
 pdfjs-thumbs-button-label = Wênekok
