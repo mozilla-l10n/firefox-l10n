@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Předchozí
 pdfjs-next-button =
     .title = Přejde na následující stránku
 pdfjs-next-button-label = Další
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Stránka
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = z { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } z { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Zmenší velikost
 pdfjs-zoom-out-button-label = Zmenšit
@@ -137,6 +148,11 @@ pdfjs-document-properties-close-button = Zavřít
 
 ## Print
 
+pdfjs-print-progress-message = Příprava dokumentu pro tisk…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
+pdfjs-print-progress-close-button = Zrušit
 pdfjs-printing-not-supported = Upozornění: Tisk není v tomto prohlížeči plně podporován.
 pdfjs-printing-not-ready = Upozornění: Dokument PDF není kompletně načten.
 
@@ -149,6 +165,7 @@ pdfjs-toggle-sidebar-notification-button =
 pdfjs-toggle-sidebar-button-label = Postranní lišta
 pdfjs-document-outline-button =
     .title = Zobrazí osnovu dokumentu (poklepání přepne zobrazení všech položek)
+pdfjs-document-outline-button-label = Osnova dokumentu
 pdfjs-attachments-button =
     .title = Zobrazí přílohy
 pdfjs-attachments-button-label = Přílohy
