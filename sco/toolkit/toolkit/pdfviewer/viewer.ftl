@@ -229,6 +229,7 @@ pdfjs-loading-error = An mishanter tuik place while loadin the PDF.
 pdfjs-invalid-file-error = No suithfest or camshauchlet PDF file.
 pdfjs-missing-file-error = PDF file tint.
 pdfjs-unexpected-response-error = Unexpectit server repone.
+pdfjs-rendering-error = A mishanter tuik place while renderin the page.
 
 ## Annotations
 
