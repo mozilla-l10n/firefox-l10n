@@ -39,9 +39,24 @@ pdfjs-open-file-button-label = Otevřít
 pdfjs-print-button =
     .title = Vytiskne dokument
 pdfjs-print-button-label = Vytisknout
+pdfjs-save-button =
+    .title = Uložit
+pdfjs-save-button-label = Uložit
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Stáhnout
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Stáhnout
 pdfjs-bookmark-button =
     .title = Aktuální stránka (zobrazit URL od aktuální stránky)
 pdfjs-bookmark-button-label = Aktuální stránka
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Otevřít v aplikaci
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Otevřít v aplikaci
 
 ##  Secondary toolbar and context menu
 
@@ -268,12 +283,18 @@ pdfjs-editor-free-text-button-label = Text
 pdfjs-editor-ink-button =
     .title = Kreslení
 pdfjs-editor-ink-button-label = Kreslení
+pdfjs-editor-stamp-button =
+    .title = Přidání či úprava obrázků
+pdfjs-editor-stamp-button-label = Přidání či úprava obrázků
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Barva
 pdfjs-editor-free-text-size-input = Velikost
 pdfjs-editor-ink-color-input = Barva
 pdfjs-editor-ink-thickness-input = Tloušťka
 pdfjs-editor-ink-opacity-input = Průhlednost
+pdfjs-editor-stamp-add-image-button =
+    .title = Přidat obrázek
+pdfjs-editor-stamp-add-image-button-label = Přidat obrázek
 pdfjs-free-text =
     .aria-label = Textový editor
 pdfjs-free-text-default-content = Začněte psát…
@@ -284,7 +305,30 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Náhradní popis
+pdfjs-editor-alt-text-edit-button-label = Upravit náhradní popis
+pdfjs-editor-alt-text-dialog-label = Vyberte možnost
+pdfjs-editor-alt-text-dialog-description = Náhradní popis pomáhá, když lidé obrázek nevidí nebo když se nenačítá.
+pdfjs-editor-alt-text-add-description-label = Přidat popis
+pdfjs-editor-alt-text-add-description-description = Snažte se o 1-2 věty, které popisují předmět, prostředí nebo činnosti.
+pdfjs-editor-alt-text-mark-decorative-label = Označit jako dekorativní
+pdfjs-editor-alt-text-mark-decorative-description = Používá se pro okrasné obrázky, jako jsou rámečky nebo vodoznaky.
+pdfjs-editor-alt-text-cancel-button = Zrušit
+pdfjs-editor-alt-text-save-button = Uložit
+pdfjs-editor-alt-text-decorative-tooltip = Označen jako dekorativní
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Například: “Mladý muž si sedá ke stolu, aby se najedl.”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Levý horní roh — změna velikosti
+pdfjs-editor-resizer-label-top-middle = Horní střed — změna velikosti
+pdfjs-editor-resizer-label-top-right = Pravý horní roh — změna velikosti
+pdfjs-editor-resizer-label-middle-right = Vpravo uprostřed — změna velikosti
+pdfjs-editor-resizer-label-bottom-right = Pravý dolní roh — změna velikosti
+pdfjs-editor-resizer-label-bottom-middle = Střed dole — změna velikosti
+pdfjs-editor-resizer-label-bottom-left = Levý dolní roh — změna velikosti
+pdfjs-editor-resizer-label-middle-left = Vlevo uprostřed — změna velikosti
