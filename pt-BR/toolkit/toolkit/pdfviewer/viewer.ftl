@@ -89,6 +89,14 @@ pdfjs-document-properties-creator = Criação:
 pdfjs-document-properties-producer = Criador do PDF:
 pdfjs-document-properties-version = Versão do PDF:
 pdfjs-document-properties-page-count = Número de páginas:
+pdfjs-document-properties-page-size = Tamanho da página:
+pdfjs-document-properties-page-size-unit-inches = pol.
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = retrato
+pdfjs-document-properties-page-size-orientation-landscape = paisagem
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Carta
 pdfjs-document-properties-page-size-name-legal = Jurídico
 
 ## Variables:
