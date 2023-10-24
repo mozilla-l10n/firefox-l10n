@@ -142,6 +142,7 @@ pdfjs-thumbs-button =
     .title = Amosar les miniatures
 pdfjs-thumbs-button-label = Miniatures
 pdfjs-findbar-button-label = Atopar
+pdfjs-additional-layers = Capes adicionales
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
