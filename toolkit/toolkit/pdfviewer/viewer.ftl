@@ -71,6 +71,14 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = លក្ខណ​សម្បត្តិ​ឯកសារ…
 pdfjs-document-properties-file-name = ឈ្មោះ​ឯកសារ៖
 pdfjs-document-properties-file-size = ទំហំ​ឯកសារ៖
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } បៃ)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } បៃ)
 pdfjs-document-properties-title = ចំណងជើង៖
 pdfjs-document-properties-author = អ្នក​និពន្ធ៖
 pdfjs-document-properties-subject = ប្រធានបទ៖
