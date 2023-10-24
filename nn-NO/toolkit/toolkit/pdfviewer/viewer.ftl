@@ -178,6 +178,7 @@ pdfjs-current-outline-item-button-label = Gjeldande disposisjonselement
 pdfjs-findbar-button =
     .title = Finn i dokumentet
 pdfjs-findbar-button-label = Finn
+pdfjs-additional-layers = Ytterlegare lag
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
