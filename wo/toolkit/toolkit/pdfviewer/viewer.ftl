@@ -25,12 +25,16 @@ pdfjs-presentation-mode-button-label = Anamu Wone
 pdfjs-open-file-button =
     .title = Ubbi benn dencukaay
 pdfjs-open-file-button-label = Ubbi
+pdfjs-print-button =
+    .title = Móol
+pdfjs-print-button-label = Móol
 
 ##  Secondary toolbar and context menu
 
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = Bopp:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -100,6 +104,8 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Neenal
 
 ## Editing
 
