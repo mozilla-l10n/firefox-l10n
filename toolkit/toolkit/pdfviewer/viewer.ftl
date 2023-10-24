@@ -39,6 +39,12 @@ pdfjs-open-file-button-label = Open
 pdfjs-print-button =
     .title = Print
 pdfjs-print-button-label = Print
+pdfjs-save-button =
+    .title = Save
+pdfjs-save-button-label = Save
+pdfjs-bookmark-button =
+    .title = Current Page (View URL from Current Page)
+pdfjs-bookmark-button-label = Current Page
 
 ##  Secondary toolbar and context menu
 
@@ -204,6 +210,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Next
 pdfjs-find-highlight-checkbox = Highlight All
 pdfjs-find-match-case-checkbox-label = Match Case
+pdfjs-find-match-diacritics-checkbox-label = Match Diacritics
 pdfjs-find-entire-word-checkbox-label = Whole Words
 pdfjs-find-reached-top = Reached top of document, continued from bottom
 pdfjs-find-reached-bottom = Reached end of document, continued from top
@@ -232,6 +239,7 @@ pdfjs-loading-error = An error occurred while loading the PDF.
 pdfjs-invalid-file-error = Invalid or corrupted PDF file.
 pdfjs-missing-file-error = Missing PDF file.
 pdfjs-unexpected-response-error = Unexpected server response.
+pdfjs-rendering-error = An error occurred while rendering the page.
 
 ## Annotations
 
