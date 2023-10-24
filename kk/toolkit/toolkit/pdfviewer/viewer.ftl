@@ -39,9 +39,30 @@ pdfjs-open-file-button-label = Ашу
 pdfjs-print-button =
     .title = Баспаға шығару
 pdfjs-print-button-label = Баспаға шығару
+pdfjs-save-button =
+    .title = Сақтау
+pdfjs-save-button-label = Сақтау
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Жүктеп алу
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Жүктеп алу
+pdfjs-bookmark-button =
+    .title = Ағымдағы бет (Ағымдағы беттен URL адресін көру)
+pdfjs-bookmark-button-label = Ағымдағы бет
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Қолданбада ашу
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Қолданбада ашу
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Құралдар
+pdfjs-tools-button-label = Құралдар
 pdfjs-first-page-button =
     .title = Алғашқы параққа өту
 pdfjs-first-page-button-label = Алғашқы параққа өту
@@ -54,6 +75,33 @@ pdfjs-page-rotate-cw-button-label = Сағат тілі бағытымен бұ�
 pdfjs-page-rotate-ccw-button =
     .title = Сағат тілі бағытына қарсы бұру
 pdfjs-page-rotate-ccw-button-label = Сағат тілі бағытына қарсы бұру
+pdfjs-cursor-text-select-tool-button =
+    .title = Мәтінді таңдау құралын іске қосу
+pdfjs-cursor-text-select-tool-button-label = Мәтінді таңдау құралы
+pdfjs-cursor-hand-tool-button =
+    .title = Қол құралын іске қосу
+pdfjs-cursor-hand-tool-button-label = Қол құралы
+pdfjs-scroll-page-button =
+    .title = Беттерді айналдыруды пайдалану
+pdfjs-scroll-page-button-label = Беттерді айналдыру
+pdfjs-scroll-vertical-button =
+    .title = Вертикалды айналдыруды қолдану
+pdfjs-scroll-vertical-button-label = Вертикалды айналдыру
+pdfjs-scroll-horizontal-button =
+    .title = Горизонталды айналдыруды қолдану
+pdfjs-scroll-horizontal-button-label = Горизонталды айналдыру
+pdfjs-scroll-wrapped-button =
+    .title = Масштабталатын айналдыруды қолдану
+pdfjs-scroll-wrapped-button-label = Масштабталатын айналдыру
+pdfjs-spread-none-button =
+    .title = Жазық беттер режимін қолданбау
+pdfjs-spread-none-button-label = Жазық беттер режимсіз
+pdfjs-spread-odd-button =
+    .title = Жазық беттер тақ нөмірлі беттерден басталады
+pdfjs-spread-odd-button-label = Тақ нөмірлі беттер сол жақтан
+pdfjs-spread-even-button =
+    .title = Жазық беттер жұп нөмірлі беттерден басталады
+pdfjs-spread-even-button-label = Жұп нөмірлі беттер сол жақтан
 
 ## Document properties dialog
 
@@ -84,6 +132,15 @@ pdfjs-document-properties-creator = Жасаған:
 pdfjs-document-properties-producer = PDF өндірген:
 pdfjs-document-properties-version = PDF нұсқасы:
 pdfjs-document-properties-page-count = Беттер саны:
+pdfjs-document-properties-page-size = Бет өлшемі:
+pdfjs-document-properties-page-size-unit-inches = дюйм
+pdfjs-document-properties-page-size-unit-millimeters = мм
+pdfjs-document-properties-page-size-orientation-portrait = тік
+pdfjs-document-properties-page-size-orientation-landscape = жатық
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -92,9 +149,16 @@ pdfjs-document-properties-page-count = Беттер саны:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Жылдам Web көрінісі:
+pdfjs-document-properties-linearized-yes = Иә
+pdfjs-document-properties-linearized-no = Жоқ
 pdfjs-document-properties-close-button = Жабу
 
 ## Print
@@ -111,6 +175,8 @@ pdfjs-printing-not-ready = Ескерту: Баспаға шығару үшін,
 
 pdfjs-toggle-sidebar-button =
     .title = Бүйір панелін көрсету/жасыру
+pdfjs-toggle-sidebar-notification-button =
+    .title = Бүйір панелін көрсету/жасыру (құжатта құрылымы/салынымдар/қабаттар бар)
 pdfjs-toggle-sidebar-button-label = Бүйір панелін көрсету/жасыру
 pdfjs-document-outline-button =
     .title = Құжат құрылымын көрсету (барлық нәрселерді жазық қылу/жинау үшін қос шерту керек)
@@ -118,9 +184,15 @@ pdfjs-document-outline-button-label = Құжат құрамасы
 pdfjs-attachments-button =
     .title = Салынымдарды көрсету
 pdfjs-attachments-button-label = Салынымдар
+pdfjs-layers-button =
+    .title = Қабаттарды көрсету (барлық қабаттарды бастапқы күйге келтіру үшін екі рет шертіңіз)
+pdfjs-layers-button-label = Қабаттар
 pdfjs-thumbs-button =
     .title = Кіші көріністерді көрсету
 pdfjs-thumbs-button-label = Кіші көріністер
+pdfjs-current-outline-item-button =
+    .title = Құрылымның ағымдағы элементін табу
+pdfjs-current-outline-item-button-label = Құрылымның ағымдағы элементі
 pdfjs-findbar-button =
     .title = Құжаттан табу
 pdfjs-findbar-button-label = Табу
@@ -149,6 +221,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Келесі
 pdfjs-find-highlight-checkbox = Барлығын түспен ерекшелеу
 pdfjs-find-match-case-checkbox-label = Регистрді ескеру
+pdfjs-find-match-diacritics-checkbox-label = Диакритиканы ескеру
 pdfjs-find-reached-top = Құжаттың басына жеттік, соңынан бастап жалғастырамыз
 pdfjs-find-reached-bottom = Құжаттың соңына жеттік, басынан бастап жалғастырамыз
 pdfjs-find-not-found = Сөз(дер) табылмады
@@ -165,6 +238,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Бет { $page }
 
 ## Loading indicator messages
 
@@ -172,9 +249,14 @@ pdfjs-loading-error = PDF жүктеу кезінде қате кетті.
 pdfjs-invalid-file-error = Зақымдалған немесе қате PDF файл.
 pdfjs-missing-file-error = PDF файлы жоқ.
 pdfjs-unexpected-response-error = Сервердің күтпеген жауабы.
+pdfjs-rendering-error = Парақты өңдеу кезінде қате кетті.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -193,10 +275,58 @@ pdfjs-web-fonts-disabled = Веб қаріптері сөндірілген: қ�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Мәтін
+pdfjs-editor-free-text-button-label = Мәтін
+pdfjs-editor-ink-button =
+    .title = Сурет салу
+pdfjs-editor-ink-button-label = Сурет салу
+pdfjs-editor-stamp-button =
+    .title = Суреттерді қосу немесе түзету
+pdfjs-editor-stamp-button-label = Суреттерді қосу немесе түзету
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Түс
+pdfjs-editor-free-text-size-input = Өлшемі
+pdfjs-editor-ink-color-input = Түс
+pdfjs-editor-ink-thickness-input = Қалыңдығы
+pdfjs-editor-ink-opacity-input = Мөлдірсіздігі
+pdfjs-editor-stamp-add-image-button =
+    .title = Суретті қосу
+pdfjs-editor-stamp-add-image-button-label = Суретті қосу
+pdfjs-free-text =
+    .aria-label = Мәтін түзеткіші
+pdfjs-free-text-default-content = Теруді бастау…
+pdfjs-ink =
+    .aria-label = Сурет түзеткіші
+pdfjs-ink-canvas =
+    .aria-label = Пайдаланушы жасаған сурет
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Балама мәтін
+pdfjs-editor-alt-text-edit-button-label = Балама мәтінді өңдеу
+pdfjs-editor-alt-text-dialog-label = Опцияны таңдау
+pdfjs-editor-alt-text-dialog-description = Балама мәтін адамдар суретті көре алмағанда немесе ол жүктелмегенде көмектеседі.
+pdfjs-editor-alt-text-add-description-label = Сипаттаманы қосу
+pdfjs-editor-alt-text-add-description-description = Тақырыпты, баптауды немесе әрекетті сипаттайтын 1-2 сөйлемді қолдануға тырысыңыз.
+pdfjs-editor-alt-text-mark-decorative-label = Декоративті деп белгілеу
+pdfjs-editor-alt-text-mark-decorative-description = Бұл жиектер немесе су белгілері сияқты оюлық суреттер үшін пайдаланылады.
+pdfjs-editor-alt-text-cancel-button = Бас тарту
+pdfjs-editor-alt-text-save-button = Сақтау
+pdfjs-editor-alt-text-decorative-tooltip = Декоративті деп белгіленген
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Мысалы, "Жас жігіт тамақ ішу үшін үстел басына отырады"
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Жоғарғы сол жақ бұрыш — өлшемін өзгерту
+pdfjs-editor-resizer-label-top-middle = Жоғарғы ортасы — өлшемін өзгерту
+pdfjs-editor-resizer-label-top-right = Жоғарғы оң жақ бұрыш — өлшемін өзгерту
+pdfjs-editor-resizer-label-middle-right = Ортаңғы оң жақ — өлшемін өзгерту
+pdfjs-editor-resizer-label-bottom-right = Төменгі оң жақ бұрыш — өлшемін өзгерту
+pdfjs-editor-resizer-label-bottom-middle = Төменгі ортасы — өлшемін өзгерту
+pdfjs-editor-resizer-label-bottom-left = Төменгі сол жақ бұрыш — өлшемін өзгерту
+pdfjs-editor-resizer-label-middle-left = Ортаңғы сол жақ — өлшемін өзгерту
