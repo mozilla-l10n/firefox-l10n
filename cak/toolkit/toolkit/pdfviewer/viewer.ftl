@@ -39,6 +39,9 @@ pdfjs-print-button-label = Titz'ajb'äx
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Samajib'äl
+pdfjs-tools-button-label = Samajib'äl
 pdfjs-first-page-button =
     .title = Tib'e pa nab'ey ruxaq
 pdfjs-first-page-button-label = Tib'e pa nab'ey ruxaq
@@ -57,6 +60,24 @@ pdfjs-cursor-text-select-tool-button-label = Rusamajib'al Rucha'ik Rucholajem Tz
 pdfjs-cursor-hand-tool-button =
     .title = Titzij ri q'ab'aj samajib'äl
 pdfjs-cursor-hand-tool-button-label = Q'ab'aj Samajib'äl
+pdfjs-scroll-vertical-button =
+    .title = Tokisäx Pa'äl Q'axanem
+pdfjs-scroll-vertical-button-label = Pa'äl Q'axanem
+pdfjs-scroll-horizontal-button =
+    .title = Tokisäx Kotz'öl Q'axanem
+pdfjs-scroll-horizontal-button-label = Kotz'öl Q'axanem
+pdfjs-scroll-wrapped-button =
+    .title = Tokisäx Tzub'aj Q'axanem
+pdfjs-scroll-wrapped-button-label = Tzub'aj Q'axanem
+pdfjs-spread-none-button =
+    .title = Man ketun taq ruxaq pa rub'eyal wuj
+pdfjs-spread-none-button-label = Majun Rub'eyal
+pdfjs-spread-odd-button =
+    .title = Ke'atunu' ri taq ruxaq rik'in natikirisaj rik'in jun man k'ulaj ta rajilab'al
+pdfjs-spread-odd-button-label = Man K'ulaj Ta Rub'eyal
+pdfjs-spread-even-button =
+    .title = Ke'atunu' ri taq ruxaq rik'in natikirisaj rik'in jun k'ulaj rajilab'al
+pdfjs-spread-even-button-label = K'ulaj Rub'eyal
 
 ## Document properties dialog
 
@@ -87,6 +108,14 @@ pdfjs-document-properties-creator = Q'inonel:
 pdfjs-document-properties-producer = PDF b'anöy:
 pdfjs-document-properties-version = PDF ruwäch:
 pdfjs-document-properties-page-count = Jarupe' ruxaq:
+pdfjs-document-properties-page-size = Runimilem ri Ruxaq:
+pdfjs-document-properties-page-size-unit-inches = pa
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = rupalem
+pdfjs-document-properties-page-size-orientation-landscape = rukotz'olem
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Loman wuj
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +124,16 @@ pdfjs-document-properties-page-count = Jarupe' ruxaq:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Anin Rutz'etik Ajk'amaya'l:
+pdfjs-document-properties-linearized-yes = Ja'
+pdfjs-document-properties-linearized-no = Mani
 pdfjs-document-properties-close-button = Titz'apïx
 
 ## Print
