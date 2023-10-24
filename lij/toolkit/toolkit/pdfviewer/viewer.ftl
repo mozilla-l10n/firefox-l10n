@@ -216,6 +216,7 @@ pdfjs-loading-error = S'é verificou 'n'erô itno caregamento do PDF.
 pdfjs-invalid-file-error = O schedaio PDF o l'é no valido ò aroinou.
 pdfjs-missing-file-error = O schedaio PDF o no gh'é.
 pdfjs-unexpected-response-error = Risposta inprevista do-u server
+pdfjs-rendering-error = Gh'é stæto 'n'erô itno rendering da pagina.
 
 ## Annotations
 
