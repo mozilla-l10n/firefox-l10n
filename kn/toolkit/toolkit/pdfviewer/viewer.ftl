@@ -93,6 +93,9 @@ pdfjs-document-properties-creator = ರಚಿಸಿದವರು:
 pdfjs-document-properties-producer = PDF ಉತ್ಪಾದಕ:
 pdfjs-document-properties-version = PDF ಆವೃತ್ತಿ:
 pdfjs-document-properties-page-count = ಪುಟದ ಎಣಿಕೆ:
+pdfjs-document-properties-page-size-unit-inches = ಇದರಲ್ಲಿ
+pdfjs-document-properties-page-size-orientation-portrait = ಭಾವಚಿತ್ರ
+pdfjs-document-properties-page-size-orientation-landscape = ಪ್ರಕೃತಿ ಚಿತ್ರ
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
