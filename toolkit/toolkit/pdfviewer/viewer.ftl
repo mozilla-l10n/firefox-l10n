@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Malfermi
 pdfjs-print-button =
     .title = Presi
 pdfjs-print-button-label = Presi
+pdfjs-save-button =
+    .title = Konservi
+pdfjs-save-button-label = Konservi
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Elŝuti
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Elŝuti
+pdfjs-bookmark-button =
+    .title = Nuna paĝo (Montri adreson de la nuna paĝo)
+pdfjs-bookmark-button-label = Nuna paĝo
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Malfermi en programo
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Malfermi en programo
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Teksta elektilo
 pdfjs-cursor-hand-tool-button =
     .title = Aktivigi ilon de mano
 pdfjs-cursor-hand-tool-button-label = Ilo de mano
+pdfjs-scroll-page-button =
+    .title = Uzi ŝovadon de paĝo
+pdfjs-scroll-page-button-label = Ŝovado de paĝo
 pdfjs-scroll-vertical-button =
     .title = Uzi vertikalan ŝovadon
 pdfjs-scroll-vertical-button-label = Vertikala ŝovado
@@ -154,6 +175,8 @@ pdfjs-printing-not-ready = Averto: la PDF dosiero ne estas plene ŝargita por pr
 
 pdfjs-toggle-sidebar-button =
     .title = Montri/kaŝi flankan strion
+pdfjs-toggle-sidebar-notification-button =
+    .title = Montri/kaŝi flankan strion (la dokumento enhavas konturon/kunsendaĵojn/tavolojn)
 pdfjs-toggle-sidebar-button-label = Montri/kaŝi flankan strion
 pdfjs-document-outline-button =
     .title = Montri la konturon de dokumento (alklaku duoble por faldi/malfaldi ĉiujn elementojn)
@@ -161,9 +184,15 @@ pdfjs-document-outline-button-label = Konturo de dokumento
 pdfjs-attachments-button =
     .title = Montri kunsendaĵojn
 pdfjs-attachments-button-label = Kunsendaĵojn
+pdfjs-layers-button =
+    .title = Montri tavolojn (duoble alklaku por remeti ĉiujn tavolojn en la norman staton)
+pdfjs-layers-button-label = Tavoloj
 pdfjs-thumbs-button =
     .title = Montri miniaturojn
 pdfjs-thumbs-button-label = Miniaturoj
+pdfjs-current-outline-item-button =
+    .title = Trovi nunan konturan elementon
+pdfjs-current-outline-item-button-label = Nuna kontura elemento
 pdfjs-findbar-button =
     .title = Serĉi en dokumento
 pdfjs-findbar-button-label = Serĉi
@@ -192,6 +221,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Antaŭen
 pdfjs-find-highlight-checkbox = Elstarigi ĉiujn
 pdfjs-find-match-case-checkbox-label = Distingi inter majuskloj kaj minuskloj
+pdfjs-find-match-diacritics-checkbox-label = Respekti supersignojn
 pdfjs-find-entire-word-checkbox-label = Tutaj vortoj
 pdfjs-find-reached-top = Komenco de la dokumento atingita, daŭrigado ekde la fino
 pdfjs-find-reached-bottom = Fino de la dokumento atingita, daŭrigado ekde la komenco
@@ -209,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Paĝo { $page }
 
 ## Loading indicator messages
 
@@ -216,6 +250,7 @@ pdfjs-loading-error = Okazis eraro dum la ŝargado de la PDF dosiero.
 pdfjs-invalid-file-error = Nevalida aŭ difektita PDF dosiero.
 pdfjs-missing-file-error = Mankas dosiero PDF.
 pdfjs-unexpected-response-error = Neatendita respondo de servilo.
+pdfjs-rendering-error = Okazis eraro dum la montro de la paĝo.
 
 ## Annotations
 
@@ -241,9 +276,49 @@ pdfjs-web-fonts-disabled = Neaktivaj teksaĵaj tiparoj: ne elbas uzi enmetitajn 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Teksto
+pdfjs-editor-free-text-button-label = Teksto
+pdfjs-editor-ink-button =
+    .title = Desegni
+pdfjs-editor-ink-button-label = Desegni
+pdfjs-editor-stamp-button =
+    .title = Aldoni aŭ modifi bildojn
+pdfjs-editor-stamp-button-label = Aldoni aŭ modifi bildojn
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Koloro
+pdfjs-editor-free-text-size-input = Grando
+pdfjs-editor-ink-color-input = Koloro
+pdfjs-editor-ink-thickness-input = Dikeco
+pdfjs-editor-ink-opacity-input = Maldiafaneco
+pdfjs-editor-stamp-add-image-button =
+    .title = Aldoni bildon
+pdfjs-editor-stamp-add-image-button-label = Aldoni bildon
+pdfjs-free-text =
+    .aria-label = Tekstan redaktilon
+pdfjs-free-text-default-content = Ektajpi…
+pdfjs-ink =
+    .aria-label = Desegnan redaktilon
+pdfjs-ink-canvas =
+    .aria-label = Bildo kreita de uzanto
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternativa teksto
+pdfjs-editor-alt-text-edit-button-label = Redakti alternativan tekston
+pdfjs-editor-alt-text-dialog-label = Elektu eblon
+pdfjs-editor-alt-text-dialog-description = Alternativa teksto helpas personojn, en la okazoj kiam ili ne povas vidi aŭ ŝargi la bildon.
+pdfjs-editor-alt-text-add-description-label = Aldoni priskribon
+pdfjs-editor-alt-text-add-description-description = La celo estas unu aŭ du frazoj, kiuj priskribas la temon, etoson aŭ agojn.
+pdfjs-editor-alt-text-mark-decorative-label = Marki kiel ornaman
+pdfjs-editor-alt-text-mark-decorative-description = Tio ĉi estas uzita por ornamaj bildoj, kiel randoj aŭ fonaj bildoj.
+pdfjs-editor-alt-text-cancel-button = Nuligi
+pdfjs-editor-alt-text-save-button = Konservi
+pdfjs-editor-alt-text-decorative-tooltip = Markita kiel ornama
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Ekzemple: “Juna persono sidiĝas ĉetable por ekmanĝi”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
