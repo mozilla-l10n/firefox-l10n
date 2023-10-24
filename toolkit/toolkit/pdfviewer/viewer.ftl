@@ -57,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = หมุนตามเข็มนาฬ�
 pdfjs-page-rotate-ccw-button =
     .title = หมุนทวนเข็มนาฬิกา
 pdfjs-page-rotate-ccw-button-label = หมุนทวนเข็มนาฬิกา
+pdfjs-cursor-text-select-tool-button =
+    .title = เปิดใช้งานเครื่องมือการเลือกข้อความ
+pdfjs-cursor-text-select-tool-button-label = เครื่องมือการเลือกข้อความ
+pdfjs-cursor-hand-tool-button =
+    .title = เปิดใช้งานเครื่องมือมือ
+pdfjs-cursor-hand-tool-button-label = เครื่องมือมือ
 
 ## Document properties dialog
 
