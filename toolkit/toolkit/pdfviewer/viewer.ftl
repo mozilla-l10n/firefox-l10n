@@ -181,6 +181,7 @@ pdfjs-loading-error = Imposiso yenzekile xa kulayishwa i-PDF.
 pdfjs-invalid-file-error = Ifayile ye-PDF engeyiyo okanye eyonakalisiweyo.
 pdfjs-missing-file-error = Ifayile ye-PDF edukileyo.
 pdfjs-unexpected-response-error = Impendulo yeseva engalindelekanga.
+pdfjs-rendering-error = Imposiso yenzekile xa bekunikezelwa iphepha.
 
 ## Annotations
 
