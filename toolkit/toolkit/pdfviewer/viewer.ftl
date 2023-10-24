@@ -27,6 +27,8 @@ pdfjs-zoom-in-button-label = Խոշորացնել
 pdfjs-presentation-mode-button =
     .title = Անցնել Ներկայացման եղանակին
 pdfjs-presentation-mode-button-label = Ներկայացման եղանակ
+pdfjs-open-file-button =
+    .title = Բացել նիշք
 pdfjs-open-file-button-label = Բացել
 pdfjs-print-button =
     .title = Տպել
@@ -49,12 +51,36 @@ pdfjs-page-rotate-cw-button-label = Պտտել ըստ ժամացույցի սլ�
 pdfjs-page-rotate-ccw-button =
     .title = Պտտել հակառակ ժամացույցի սլաքի
 pdfjs-page-rotate-ccw-button-label = Պտտել հակառակ ժամացույցի սլաքի
+pdfjs-cursor-text-select-tool-button =
+    .title = Միացնել գրույթ ընտրելու գործիքը
+pdfjs-cursor-text-select-tool-button-label = Գրույթը ընտրելու գործիք
 pdfjs-cursor-hand-tool-button =
     .title = Միացնել Ձեռքի գործիքը
 pdfjs-cursor-hand-tool-button-label = Ձեռքի գործիք
+pdfjs-scroll-vertical-button =
+    .title = Օգտագործել ուղղահայաց ոլորում
+pdfjs-scroll-vertical-button-label = Ուղղահայաց ոլորում
+pdfjs-scroll-horizontal-button =
+    .title = Օգտագործել հորիզոնական ոլորում
+pdfjs-scroll-horizontal-button-label = Հորիզոնական ոլորում
+pdfjs-scroll-wrapped-button =
+    .title = Օգտագործել փաթաթված ոլորում
+pdfjs-scroll-wrapped-button-label = Փաթաթված ոլորում
+pdfjs-spread-none-button =
+    .title = Մի միացեք էջի վերածածկերին
+pdfjs-spread-none-button-label = Չկա վերածածկեր
+pdfjs-spread-odd-button =
+    .title = Միացեք էջի վերածածկերին սկսելով՝ կենտ համարակալված էջերով
+pdfjs-spread-odd-button-label = Կենտ վերածածկեր
+pdfjs-spread-even-button =
+    .title = Միացեք էջի վերածածկերին սկսելով՝ զույգ համարակալված էջերով
+pdfjs-spread-even-button-label = Զույգ վերածածկեր
 
 ## Document properties dialog
 
+pdfjs-document-properties-button-label = Փաստաթղթի հատկությունները…
+pdfjs-document-properties-file-name = Նիշքի անունը.
+pdfjs-document-properties-file-size = Նիշք չափը.
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
 #   $size_b (Number) - the PDF file size in bytes
@@ -98,6 +124,11 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Արագ վեբ դիտում․
+pdfjs-document-properties-linearized-yes = Այո
+pdfjs-document-properties-linearized-no = Ոչ
 pdfjs-document-properties-close-button = Փակել
 
 ## Print
@@ -150,6 +181,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Հաջորդը
 pdfjs-find-highlight-checkbox = Գունանշել բոլորը
 pdfjs-find-match-case-checkbox-label = Մեծ(փոքր)ատառ հաշվի առնել
+pdfjs-find-entire-word-checkbox-label = Ամբողջ բառերը
 pdfjs-find-reached-top = Հասել եք փաստաթղթի վերևին, կշարունակվի ներքևից
 pdfjs-find-reached-bottom = Հասել եք փաստաթղթի վերջին, կշարունակվի վերևից
 pdfjs-find-not-found = Արտահայտությունը չգտնվեց
@@ -176,6 +208,10 @@ pdfjs-unexpected-response-error = Սպասարկիչի անսպասելի պատ
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
