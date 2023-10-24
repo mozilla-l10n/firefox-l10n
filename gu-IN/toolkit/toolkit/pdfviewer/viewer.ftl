@@ -216,6 +216,7 @@ pdfjs-loading-error = ભૂલ ઉદ્ભવી જ્યારે PDF ને
 pdfjs-invalid-file-error = અયોગ્ય અથવા ભાંગેલ PDF ફાઇલ.
 pdfjs-missing-file-error = ગુમ થયેલ PDF ફાઇલ.
 pdfjs-unexpected-response-error = અનપેક્ષિત સર્વર પ્રતિસાદ.
+pdfjs-rendering-error = ભૂલ ઉદ્ભવી જ્યારે પાનાંનુ રેન્ડ કરી રહ્યા હોય.
 
 ## Annotations
 
