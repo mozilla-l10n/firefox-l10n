@@ -46,6 +46,7 @@ autofill-address-given-name = Nome
 autofill-address-additional-name = Nome do meio
 autofill-address-family-name = Sobrenome
 autofill-address-organization = Organização
+autofill-address-street-address = Endereço
 autofill-address-street = Endereço
 
 ## address-level-3 (Sublocality) names
