@@ -16,6 +16,7 @@ pdfjs-open-file-button-label = Gufungura
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = Umutwe:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -59,6 +60,8 @@ pdfjs-find-not-found = Umurongo ntubonetse
 
 ## Password
 
+pdfjs-password-invalid = Ijambo ry'ibanga ridahari. Wakongera ukagerageza
+pdfjs-password-ok-button = YEGO
 
 ## Editing
 
