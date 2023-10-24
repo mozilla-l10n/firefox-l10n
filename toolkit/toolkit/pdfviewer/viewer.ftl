@@ -18,6 +18,10 @@ pdfjs-page-input =
 #   $pagesCount (Number) - the total number of pages in the document
 # This string follows an input field with the number of the page currently displayed.
 pdfjs-of-pages = { $pagesCount } ರಲ್ಲಿ
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pagesCount } ರಲ್ಲಿ { $pageNumber })
 pdfjs-zoom-out-button =
     .title = ಕಿರಿದಾಗಿಸು
 pdfjs-zoom-out-button-label = ಕಿರಿದಾಗಿಸಿ
@@ -53,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = ಪ್ರದಕ್ಷಿಣೆಯಲ್ಲ�
 pdfjs-page-rotate-ccw-button =
     .title = ಅಪ್ರದಕ್ಷಿಣೆಯಲ್ಲಿ ತಿರುಗಿಸು
 pdfjs-page-rotate-ccw-button-label = ಅಪ್ರದಕ್ಷಿಣೆಯಲ್ಲಿ ತಿರುಗಿಸು
+pdfjs-cursor-text-select-tool-button =
+    .title = ಪಠ್ಯ ಆಯ್ಕೆ ಉಪಕರಣವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ
+pdfjs-cursor-text-select-tool-button-label = ಪಠ್ಯ ಆಯ್ಕೆಯ ಉಪಕರಣ
+pdfjs-cursor-hand-tool-button =
+    .title = ಕೈ ಉಪಕರಣವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ
+pdfjs-cursor-hand-tool-button-label = ಕೈ ಉಪಕರಣ
 
 ## Document properties dialog
 
@@ -98,6 +108,7 @@ pdfjs-document-properties-close-button = ಮುಚ್ಚು
 
 ## Print
 
+pdfjs-print-progress-message = ಮುದ್ರಿಸುವುದಕ್ಕಾಗಿ ದಸ್ತಾವೇಜನ್ನು ಸಿದ್ಧಗೊಳಿಸಲಾಗುತ್ತಿದೆ…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
