@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Anterior
 pdfjs-next-button =
     .title = Pàgina següent
 pdfjs-next-button-label = Següent
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Pàgina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
 pdfjs-zoom-select =
     .title = Escala
 pdfjs-presentation-mode-button =
@@ -40,6 +51,12 @@ pdfjs-page-rotate-cw-button-label = Gira cap a la dreta
 pdfjs-page-rotate-ccw-button =
     .title = Gira cap a l'esquerra
 pdfjs-page-rotate-ccw-button-label = Gira cap a l'esquerra
+pdfjs-cursor-text-select-tool-button =
+    .title = Habilita l'eina de selecció de text
+pdfjs-cursor-text-select-tool-button-label = Eina de selecció de text
+pdfjs-cursor-hand-tool-button =
+    .title = Habilita l'eina de mà
+pdfjs-cursor-hand-tool-button-label = Eina de mà
 
 ## Document properties dialog
 
@@ -81,9 +98,15 @@ pdfjs-document-properties-page-count = Nombre de pàgines:
 
 ##
 
+pdfjs-document-properties-close-button = Tanca
 
 ## Print
 
+pdfjs-print-progress-message = S'està preparant la impressió del document…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Cancel·la
 pdfjs-printing-not-supported = Avís: la impressió no és plenament funcional en aquest navegador.
 pdfjs-printing-not-ready = Atenció: el PDF no s'ha acabat de carregar per imprimir-lo.
 
@@ -92,6 +115,8 @@ pdfjs-printing-not-ready = Atenció: el PDF no s'ha acabat de carregar per impri
 pdfjs-toggle-sidebar-button =
     .title = Mostra/amaga la barra lateral
 pdfjs-toggle-sidebar-button-label = Mostra/amaga la barra lateral
+pdfjs-document-outline-button =
+    .title = Mostra l'esquema del document (doble clic per ampliar/reduir tots els elements)
 pdfjs-attachments-button =
     .title = Mostra les adjuncions
 pdfjs-attachments-button-label = Adjuncions
@@ -100,6 +125,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Miniatures
 pdfjs-findbar-button =
     .title = Cerca al document
+pdfjs-findbar-button-label = Cerca
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -114,6 +140,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Cerca
+    .placeholder = Cerca al document…
 pdfjs-find-previous-button =
     .title = Cerca l'anterior coincidència de l'expressió
 pdfjs-find-previous-button-label = Anterior
@@ -131,6 +160,9 @@ pdfjs-find-not-found = No s'ha trobat l'expressió
 pdfjs-page-scale-fit = Ajusta la pàgina
 pdfjs-page-scale-auto = Zoom automàtic
 pdfjs-page-scale-actual = Mida real
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -140,6 +172,7 @@ pdfjs-page-scale-actual = Mida real
 pdfjs-loading-error = S'ha produït un error en carregar el PDF.
 pdfjs-invalid-file-error = El fitxer PDF no és vàlid o està malmès.
 pdfjs-missing-file-error = Falta el fitxer PDF.
+pdfjs-unexpected-response-error = Resposta inesperada del servidor.
 
 ## Annotations
 
@@ -156,6 +189,8 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Introduïu la contrasenya per obrir aquest fitxer PDF.
 pdfjs-password-invalid = La contrasenya no és vàlida. Torneu-ho a provar.
 pdfjs-password-ok-button = D'acord
+pdfjs-password-cancel-button = Cancel·la
+pdfjs-web-fonts-disabled = Els tipus de lletra web estan desactivats: no es poden utilitzar els tipus de lletra incrustats al PDF.
 
 ## Editing
 
