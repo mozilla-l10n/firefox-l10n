@@ -153,6 +153,7 @@ pdfjs-loading-error = پی ڈی ایف كھولَن ویز۪ی گئی غلطی
 pdfjs-invalid-file-error = ناکار یا خراب گأمْژ پی ڈی ایف فایل۔
 pdfjs-missing-file-error = میسینگ پی ڈی ایف فایل۔
 pdfjs-unexpected-response-error = غیر متوقع سْرور جواب۔
+pdfjs-rendering-error = صفحئ كھولُن ویز۪ی گئی غلطی
 
 ## Annotations
 
