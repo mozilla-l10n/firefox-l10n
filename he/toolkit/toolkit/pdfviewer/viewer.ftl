@@ -194,6 +194,7 @@ pdfjs-current-outline-item-button-label = פריט תוכן העניינים ה�
 pdfjs-findbar-button =
     .title = חיפוש במסמך
 pdfjs-findbar-button-label = חיפוש
+pdfjs-additional-layers = שכבות נוספות
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
