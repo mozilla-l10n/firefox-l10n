@@ -39,13 +39,24 @@ pdfjs-open-file-button-label = เปิด
 pdfjs-print-button =
     .title = พิมพ์
 pdfjs-print-button-label = พิมพ์
+pdfjs-save-button =
+    .title = บันทึก
+pdfjs-save-button-label = บันทึก
 # Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
 pdfjs-download-button =
     .title = ดาวน์โหลด
 # Used in Firefox for Android as a label for the download button (“download” is a verb).
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = ดาวน์โหลด
+pdfjs-bookmark-button =
+    .title = หน้าปัจจุบัน (ดู URL จากหน้าปัจจุบัน)
 pdfjs-bookmark-button-label = หน้าปัจจุบัน
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = เปิดในแอป
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = เปิดในแอป
 
 ##  Secondary toolbar and context menu
 
@@ -164,6 +175,8 @@ pdfjs-printing-not-ready = คำเตือน: PDF ไม่ได้รั�
 
 pdfjs-toggle-sidebar-button =
     .title = เปิด/ปิดแถบข้าง
+pdfjs-toggle-sidebar-notification-button =
+    .title = เปิด/ปิดแถบข้าง (เอกสารมีเค้าร่าง/ไฟล์แนบ/เลเยอร์)
 pdfjs-toggle-sidebar-button-label = เปิด/ปิดแถบข้าง
 pdfjs-document-outline-button =
     .title = แสดงเค้าร่างเอกสาร (คลิกสองครั้งเพื่อขยาย/ยุบรายการทั้งหมด)
@@ -171,9 +184,15 @@ pdfjs-document-outline-button-label = เค้าร่างเอกสาร
 pdfjs-attachments-button =
     .title = แสดงไฟล์แนบ
 pdfjs-attachments-button-label = ไฟล์แนบ
+pdfjs-layers-button =
+    .title = แสดงเลเยอร์ (คลิกสองครั้งเพื่อรีเซ็ตเลเยอร์ทั้งหมดเป็นสถานะเริ่มต้น)
+pdfjs-layers-button-label = เลเยอร์
 pdfjs-thumbs-button =
     .title = แสดงภาพขนาดย่อ
 pdfjs-thumbs-button-label = ภาพขนาดย่อ
+pdfjs-current-outline-item-button =
+    .title = ค้นหารายการเค้าร่างปัจจุบัน
+pdfjs-current-outline-item-button-label = รายการเค้าร่างปัจจุบัน
 pdfjs-findbar-button =
     .title = ค้นหาในเอกสาร
 pdfjs-findbar-button-label = ค้นหา
@@ -220,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = หน้า { $page }
 
 ## Loading indicator messages
 
@@ -227,6 +250,7 @@ pdfjs-loading-error = เกิดข้อผิดพลาดขณะโห�
 pdfjs-invalid-file-error = ไฟล์ PDF ไม่ถูกต้องหรือเสียหาย
 pdfjs-missing-file-error = ไฟล์ PDF หายไป
 pdfjs-unexpected-response-error = การตอบสนองของเซิร์ฟเวอร์ที่ไม่คาดคิด
+pdfjs-rendering-error = เกิดข้อผิดพลาดขณะเรนเดอร์หน้า
 
 ## Annotations
 
@@ -255,6 +279,27 @@ pdfjs-web-fonts-disabled = แบบอักษรเว็บถูกปิ�
 pdfjs-editor-free-text-button =
     .title = ข้อความ
 pdfjs-editor-free-text-button-label = ข้อความ
+pdfjs-editor-ink-button =
+    .title = รูปวาด
+pdfjs-editor-ink-button-label = รูปวาด
+pdfjs-editor-stamp-button =
+    .title = เพิ่มหรือแก้ไขภาพ
+pdfjs-editor-stamp-button-label = เพิ่มหรือแก้ไขภาพ
+# Editor Parameters
+pdfjs-editor-free-text-color-input = สี
+pdfjs-editor-free-text-size-input = ขนาด
+pdfjs-editor-ink-color-input = สี
+pdfjs-editor-ink-thickness-input = ความหนา
+pdfjs-editor-stamp-add-image-button =
+    .title = เพิ่มภาพ
+pdfjs-editor-stamp-add-image-button-label = เพิ่มภาพ
+pdfjs-free-text =
+    .aria-label = ตัวแก้ไขข้อความ
+pdfjs-free-text-default-content = เริ่มพิมพ์…
+pdfjs-ink =
+    .aria-label = ตัวแก้ไขรูปวาด
+pdfjs-ink-canvas =
+    .aria-label = ภาพที่ผู้ใช้สร้างขึ้น
 
 ## Alt-text dialog
 
