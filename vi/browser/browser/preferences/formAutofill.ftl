@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Các địa chỉ đã lưu
 autofill-manage-addresses-list-header = Địa chỉ
-
 autofill-manage-credit-cards-title = Thẻ tín dụng đã lưu
 autofill-manage-credit-cards-list-header = Thẻ tín dụng
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Xóa
 autofill-manage-add-button = Thêm…
 autofill-manage-edit-button = Sửa…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Lưu địa chỉ?
+address-capture-save-doorhanger-description = Lưu thông tin vào { -brand-short-name } để bạn có thể điền biểu mẫu nhanh chóng.
+address-capture-update-doorhanger-header = Cập nhật địa chỉ?
+address-capture-edit-doorhanger-header = Chỉnh sửa địa chỉ
+address-capture-save-button =
+    .label = Lưu
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Không phải bây giờ
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Hủy bỏ
+    .accessKey = C
+address-capture-update-button =
+    .label = Cập nhật
+    .accessKey = U
+address-capture-manage-address-button =
+    .label = Cài đặt địa chỉ
+address-capture-learn-more-button =
+    .label = Tìm hiểu thêm
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Thêm địa chỉ mới
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Sửa địa chỉ
-
+autofill-address-name = Tên
 autofill-address-given-name = Họ
 autofill-address-additional-name = Tên đệm
 autofill-address-family-name = Tên
 autofill-address-organization = Tổ chức
+autofill-address-street-address = Địa chỉ đường phố
 autofill-address-street = Địa chỉ đường phố
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Mã bưu chính
 
 ##
 
+
+##
+
 autofill-address-country = Quốc gia hoặc vùng
+autofill-address-country-only = Quốc gia
 autofill-address-tel = Điện thoại
 autofill-address-email = Thư điện tử
-
 autofill-cancel-button = Hủy bỏ
 autofill-save-button = Lưu
 autofill-country-warning-message = Tự động điền biểu mẫu hiện chỉ có sẵn cho một số quốc gia nhất định.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Thêm thẻ tín dụng mới
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Sửa thẻ tín dụng
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } đang cố gắng hiển thị thông tin thẻ tín dụng. Xác nhận quyền truy cập vào tài khoản Windows bên dưới.
        *[other] { -brand-short-name } đang cố gắng hiển thị thông tin thẻ tín dụng.
     }
-
 autofill-card-number = Số thẻ
 autofill-card-invalid-number = Vui lòng nhập số thẻ hợp lệ
 autofill-card-name-on-card = Tên trên thẻ

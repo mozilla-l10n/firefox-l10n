@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Bắt đầu ghi nhật ký AEC
 about-webrtc-aec-logging-on-state-label = Dừng ghi nhật ký AEC
 about-webrtc-aec-logging-on-state-msg = Bản ghi AEC đang hoạt động (nói chuyện với người gọi trong vài phút và sau đó dừng chụp)
 about-webrtc-aec-logging-toggled-on-state-msg = Bản ghi AEC đang hoạt động (nói chuyện với người gọi trong vài phút và sau đó dừng chụp)
+about-webrtc-aec-logging-unavailable-sandbox = Biến môi trường MOZ_DISABLE_CONTENT_SANDBOX=1 được yêu cầu để xuất nhật ký AEC. Chỉ đặt biến này nếu bạn hiểu những rủi ro có thể xảy ra.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Các tập tin nhật ký đã chụp có thể được tìm thấy trong: { $path }
@@ -91,6 +92,7 @@ about-webrtc-save-page-label = Lưu trang
 about-webrtc-debug-mode-msg-label = Chế độ gỡ lỗi
 about-webrtc-debug-mode-off-state-label = Bắt đầu chế độ gỡ lỗi
 about-webrtc-debug-mode-on-state-label = Dừng chế độ gỡ lỗi
+about-webrtc-enable-logging-label = Bật cài đặt nhật ký WebRTC được định trước
 about-webrtc-stats-heading = Thống kê phiên
 about-webrtc-stats-clear = Xóa lịch sử
 about-webrtc-log-heading = Nhật ký kết nối
@@ -199,8 +201,6 @@ about-webrtc-aec-logging-off-state-msg = các tập tin nhật ký đã chụp c
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Đã lưu trang vào: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = Nhật ký theo dõi có thể được tìm thấy tại: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Chế độ gỡ lỗi hoạt động, theo dõi nhật ký tại: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -266,12 +266,12 @@ about-webrtc-sdp-set-timestamp = Timestamp { NUMBER($timestamp, useGrouping: "fa
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
-
-
-##
 
 
 ##

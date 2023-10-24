@@ -59,6 +59,9 @@ client-auth-site-description = Trang này yêu cầu bạn tự nhận diện ch
 client-auth-choose-cert = Chọn một chứng chỉ để thực hiện việc nhận diện này:
 client-auth-send-no-certificate =
     .label = Không gửi chứng chỉ
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” đã yêu cầu bạn xác minh chính mình bằng chứng chỉ:
 client-auth-cert-details = Thông tin chi tiết của chứng chỉ được chọn:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

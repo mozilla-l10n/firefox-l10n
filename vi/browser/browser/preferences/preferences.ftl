@@ -994,9 +994,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hành động nhanh
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = Tìm kiếm gần đây
-    .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = Hiển thị các tìm kiếm gần đây
+    .accesskey = F
 addressbar-suggestions-settings = Thay đổi tùy chỉnh phần gợi ý của công cụ tìm kiếm
 addressbar-quickactions-learn-more = Tìm hiểu thêm
 
