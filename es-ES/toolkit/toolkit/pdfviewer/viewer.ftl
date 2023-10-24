@@ -154,6 +154,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Vista rápida de la web:
 pdfjs-document-properties-linearized-yes = Sí
 pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Cerrar
