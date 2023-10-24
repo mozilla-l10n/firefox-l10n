@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = მიმდინარე გვე�
 pdfjs-findbar-button =
     .title = პოვნა დოკუმენტში
 pdfjs-findbar-button-label = ძიება
+pdfjs-additional-layers = დამატებითი ფენები
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
