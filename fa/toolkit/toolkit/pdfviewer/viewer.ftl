@@ -93,6 +93,13 @@ pdfjs-document-properties-creator = ایجاد کننده:
 pdfjs-document-properties-producer = ایجاد کننده PDF:
 pdfjs-document-properties-version = نسخه PDF:
 pdfjs-document-properties-page-count = تعداد صفحات:
+pdfjs-document-properties-page-size = اندازه صفحه:
+pdfjs-document-properties-page-size-unit-inches = اینچ
+pdfjs-document-properties-page-size-unit-millimeters = میلی‌متر
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = نامه
+pdfjs-document-properties-page-size-name-legal = حقوقی
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,6 +108,8 @@ pdfjs-document-properties-page-count = تعداد صفحات:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
