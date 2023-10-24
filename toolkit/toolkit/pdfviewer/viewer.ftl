@@ -10,6 +10,11 @@ pdfjs-previous-button =
 pdfjs-previous-button-label = Əvvəlkini tap
 pdfjs-next-button =
     .title = Növbəti səhifə
+pdfjs-next-button-label = İrəli
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = / { $pagesCount }
 pdfjs-zoom-out-button =
     .title = Uzaqlaş
 pdfjs-zoom-out-button-label = Uzaqlaş
@@ -48,6 +53,33 @@ pdfjs-page-rotate-ccw-button-label = Saat İstiqamətinin Əksinə Fırlat
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Sənəd xüsusiyyətləri…
+pdfjs-document-properties-button-label = Sənəd xüsusiyyətləri…
+pdfjs-document-properties-file-name = Fayl adı:
+pdfjs-document-properties-file-size = Fayl ölçüsü:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bayt)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bayt)
+pdfjs-document-properties-title = Başlık:
+pdfjs-document-properties-author = Müəllif:
+pdfjs-document-properties-subject = Mövzu:
+pdfjs-document-properties-keywords = Açar sözlər:
+pdfjs-document-properties-creation-date = Yaradılış Tarixi :
+pdfjs-document-properties-modification-date = Dəyişdirilmə Tarixi :
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Yaradan:
+pdfjs-document-properties-producer = PDF yaradıcısı:
+pdfjs-document-properties-version = PDF versiyası:
+pdfjs-document-properties-page-count = Səhifə sayı:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -59,9 +91,11 @@ pdfjs-page-rotate-ccw-button-label = Saat İstiqamətinin Əksinə Fırlat
 
 ##
 
+pdfjs-document-properties-close-button = Qapat
 
 ## Print
 
+pdfjs-printing-not-supported = Xəbərdarlıq: Çap bu səyyah tərəfindən tam olaraq dəstəklənmir.
 pdfjs-printing-not-ready = Xəbərdarlıq: PDF çap üçün tam yüklənməyib.
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -69,11 +103,16 @@ pdfjs-printing-not-ready = Xəbərdarlıq: PDF çap üçün tam yüklənməyib.
 pdfjs-toggle-sidebar-button =
     .title = Yan Paneli Aç/Bağla
 pdfjs-toggle-sidebar-button-label = Yan Paneli Aç/Bağla
+pdfjs-document-outline-button-label = Sənəd strukturu
+pdfjs-attachments-button =
+    .title = Bağlamaları göstər
+pdfjs-attachments-button-label = Bağlamalar
 pdfjs-thumbs-button =
     .title = Kiçik şəkilləri göstər
 pdfjs-thumbs-button-label = Kiçik şəkillər
 pdfjs-findbar-button =
     .title = Sənəddə Tap
+pdfjs-findbar-button-label = Tap
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -90,8 +129,10 @@ pdfjs-thumb-page-canvas =
 
 pdfjs-find-previous-button =
     .title = Bir öncəki uyğun gələn sözü tapır
+pdfjs-find-previous-button-label = Geri
 pdfjs-find-next-button =
     .title = Bir sonrakı uyğun gələn sözü tapır
+pdfjs-find-next-button-label = İrəli
 pdfjs-find-highlight-checkbox = İşarələ
 pdfjs-find-match-case-checkbox-label = Böyük/kiçik hərfə həssaslıq
 pdfjs-find-reached-top = Sənədin yuxarısına çatdı, aşağıdan davam edir
@@ -103,6 +144,9 @@ pdfjs-find-not-found = Uyğunlaşma tapılmadı
 pdfjs-page-scale-width = Səhifə genişliyi
 pdfjs-page-scale-fit = Səhifəni sığdır
 pdfjs-page-scale-auto = Avtomatik yaxınlaşdır
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -112,6 +156,7 @@ pdfjs-page-scale-auto = Avtomatik yaxınlaşdır
 pdfjs-loading-error = PDF yüklenərkən bir səhv yarandı.
 pdfjs-invalid-file-error = Səhv və ya zədələnmiş olmuş PDF fayl.
 pdfjs-missing-file-error = PDF fayl yoxdur.
+pdfjs-unexpected-response-error = Gözlənilməz server cavabı.
 
 ## Annotations
 
@@ -125,6 +170,8 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = Tamam
+pdfjs-web-fonts-disabled = Web Şriftlər söndürülüb: yerləşdirilmiş PDF şriftlərini istifadə etmək mümkün deyil.
 
 ## Editing
 
