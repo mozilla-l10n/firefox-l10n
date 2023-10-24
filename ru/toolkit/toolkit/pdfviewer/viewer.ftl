@@ -42,6 +42,12 @@ pdfjs-print-button-label = Печать
 pdfjs-save-button =
     .title = Сохранить
 pdfjs-save-button-label = Сохранить
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Загрузить
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Загрузить
 pdfjs-bookmark-button =
     .title = Текущая страница (просмотр URL-адреса с текущей страницы)
 pdfjs-bookmark-button-label = Текущая страница
@@ -299,7 +305,30 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Альтернативный текст
+pdfjs-editor-alt-text-edit-button-label = Изменить альтернативный текст
+pdfjs-editor-alt-text-dialog-label = Выберите вариант
+pdfjs-editor-alt-text-dialog-description = Альтернативный текст помогает, когда люди не видят изображение или оно не загружается.
+pdfjs-editor-alt-text-add-description-label = Добавить описание
+pdfjs-editor-alt-text-add-description-description = Старайтесь составлять 1–2 предложения, описывающих предмет, обстановку или действия.
+pdfjs-editor-alt-text-mark-decorative-label = Отметить как декоративное
+pdfjs-editor-alt-text-mark-decorative-description = Используется для декоративных изображений, таких как рамки или водяные знаки.
+pdfjs-editor-alt-text-cancel-button = Отменить
+pdfjs-editor-alt-text-save-button = Сохранить
+pdfjs-editor-alt-text-decorative-tooltip = Помечен как декоративный
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Например: «Молодой человек садится за стол, чтобы поесть»
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Левый верхний угол — изменить размер
+pdfjs-editor-resizer-label-top-middle = Вверху посередине — изменить размер
+pdfjs-editor-resizer-label-top-right = Верхний правый угол — изменить размер
+pdfjs-editor-resizer-label-middle-right = В центре справа — изменить размер
+pdfjs-editor-resizer-label-bottom-right = Нижний правый угол — изменить размер
+pdfjs-editor-resizer-label-bottom-middle = Внизу посередине — изменить размер
+pdfjs-editor-resizer-label-bottom-left = Нижний левый угол — изменить размер
+pdfjs-editor-resizer-label-middle-left = В центре слева — изменить размер
