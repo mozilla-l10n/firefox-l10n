@@ -172,6 +172,7 @@ pdfjs-thumbs-button-label = مُصغّرات
 pdfjs-findbar-button =
     .title = ابحث في المستند
 pdfjs-findbar-button-label = ابحث
+pdfjs-additional-layers = الطبقات الإضافية
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -225,6 +226,7 @@ pdfjs-loading-error = حدث عطل أثناء تحميل ملف PDF.
 pdfjs-invalid-file-error = ملف PDF تالف أو غير صحيح.
 pdfjs-missing-file-error = ملف PDF غير موجود.
 pdfjs-unexpected-response-error = استجابة خادوم غير متوقعة.
+pdfjs-rendering-error = حدث خطأ أثناء عرض الصفحة.
 
 ## Annotations
 
