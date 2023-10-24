@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Yr Eitem Amlinellol Gyfredol
 pdfjs-findbar-button =
     .title = Canfod yn y Ddogfen
 pdfjs-findbar-button-label = Canfod
+pdfjs-additional-layers = Haenau Ychwanegol
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
