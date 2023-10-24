@@ -233,6 +233,7 @@ pdfjs-loading-error = Įkeliant PDF failą įvyko klaida.
 pdfjs-invalid-file-error = Tai nėra PDF failas arba jis yra sugadintas.
 pdfjs-missing-file-error = PDF failas nerastas.
 pdfjs-unexpected-response-error = Netikėtas serverio atsakas.
+pdfjs-rendering-error = Atvaizduojant puslapį įvyko klaida.
 
 ## Annotations
 
