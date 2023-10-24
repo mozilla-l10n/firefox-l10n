@@ -195,7 +195,11 @@ pdfjs-thumb-page-canvas =
 pdfjs-find-input =
     .title = Rechercher
     .placeholder = Rechercher dans le document…
+pdfjs-find-previous-button =
+    .title = Trouver l’occurrence précédente de l’expression
 pdfjs-find-previous-button-label = Précédent
+pdfjs-find-next-button =
+    .title = Trouver la prochaine occurrence de l’expression
 pdfjs-find-next-button-label = Suivant
 pdfjs-find-highlight-checkbox = Tout surligner
 pdfjs-find-match-case-checkbox-label = Respecter la casse
@@ -203,6 +207,7 @@ pdfjs-find-match-diacritics-checkbox-label = Respecter les accents et diacritiqu
 pdfjs-find-entire-word-checkbox-label = Mots entiers
 pdfjs-find-reached-top = Haut de la page atteint, poursuite depuis la fin
 pdfjs-find-reached-bottom = Bas de la page atteint, poursuite au début
+pdfjs-find-not-found = Expression non trouvée
 
 ## Predefined zoom values
 
