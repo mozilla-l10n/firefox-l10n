@@ -93,6 +93,7 @@ pdfjs-document-properties-creator = निर्माता:
 pdfjs-document-properties-producer = PDF उत्पादक:
 pdfjs-document-properties-version = PDF संस्करण:
 pdfjs-document-properties-page-count = पृष्ठ गिनती:
+pdfjs-document-properties-page-size = पृष्ठ आकार:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
