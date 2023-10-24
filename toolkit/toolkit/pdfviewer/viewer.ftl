@@ -39,12 +39,18 @@ pdfjs-open-file-button-label = Abrir
 pdfjs-print-button =
     .title = Imprimir
 pdfjs-print-button-label = Imprimir
+pdfjs-save-button =
+    .title = Gardar
+pdfjs-save-button-label = Gardar
 # Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
 pdfjs-download-button =
     .title = Descargar
 # Used in Firefox for Android as a label for the download button (“download” is a verb).
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = Descargar
+pdfjs-bookmark-button =
+    .title = Páxina actual (ver o URL da páxina actual)
+pdfjs-bookmark-button-label = Páxina actual
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
     .title = Abrir cunha aplicación
@@ -72,6 +78,9 @@ pdfjs-page-rotate-ccw-button-label = Rotar no sentido contrario ás agullas do r
 pdfjs-cursor-text-select-tool-button =
     .title = Activar a ferramenta de selección de texto
 pdfjs-cursor-text-select-tool-button-label = Ferramenta de selección de texto
+pdfjs-scroll-page-button =
+    .title = Usar o desprazamento da páxina
+pdfjs-scroll-page-button-label = Desprazamento da páxina
 pdfjs-scroll-vertical-button =
     .title = Usar o desprazamento vertical
 pdfjs-scroll-vertical-button-label = Desprazamento vertical
@@ -200,6 +209,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Seguinte
 pdfjs-find-highlight-checkbox = Realzar todo
 pdfjs-find-match-case-checkbox-label = Diferenciar maiúsculas de minúsculas
+pdfjs-find-match-diacritics-checkbox-label = Distinguir os diacríticos
 pdfjs-find-entire-word-checkbox-label = Palabras completas
 pdfjs-find-reached-top = Chegouse ao inicio do documento, continuar desde o final
 pdfjs-find-reached-bottom = Chegouse ao final do documento, continuar desde o inicio
@@ -254,12 +264,31 @@ pdfjs-web-fonts-disabled = Desactiváronse as fontes web:  foi imposíbel usar a
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Debuxo
+pdfjs-editor-ink-button-label = Debuxo
 pdfjs-editor-stamp-button =
     .title = Engadir ou editar imaxes
 pdfjs-editor-stamp-button-label = Engadir ou editar imaxes
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Cor
+pdfjs-editor-free-text-size-input = Tamaño
+pdfjs-editor-ink-color-input = Cor
+pdfjs-editor-ink-thickness-input = Grosor
+pdfjs-editor-ink-opacity-input = Opacidade
 pdfjs-editor-stamp-add-image-button =
     .title = Engadir imaxe
 pdfjs-editor-stamp-add-image-button-label = Engadir imaxe
+pdfjs-free-text =
+    .aria-label = Editor de texto
+pdfjs-free-text-default-content = Comezar a teclear…
+pdfjs-ink =
+    .aria-label = Editor de debuxos
+pdfjs-ink-canvas =
+    .aria-label = Imaxe creada por unha usuaria
 
 ## Alt-text dialog
 
