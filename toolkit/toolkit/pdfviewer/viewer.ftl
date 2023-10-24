@@ -119,6 +119,7 @@ pdfjs-page-scale-actual = Mezinahiya rastîn
 pdfjs-loading-error = Dema ku PDF dihat barkirin çewtiyek çêbû.
 pdfjs-invalid-file-error = Pelê PDFê nederbasdar yan jî xirabe ye.
 pdfjs-missing-file-error = Pelê PDFê kêm e.
+pdfjs-rendering-error = Di vehûrandina rûpelê de çewtî çêbû.
 
 ## Annotations
 
