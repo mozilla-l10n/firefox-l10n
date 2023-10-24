@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Aktualny rozrědowański zapisk
 pdfjs-findbar-button =
     .title = W dokumenśe pytaś
 pdfjs-findbar-button-label = Pytaś
+pdfjs-additional-layers = Dalšne warstwy
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
