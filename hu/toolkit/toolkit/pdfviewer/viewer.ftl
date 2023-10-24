@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Előző
 pdfjs-next-button =
     .title = Következő oldal
 pdfjs-next-button-label = Tovább
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Oldal
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = összesen: { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Kicsinyítés
 pdfjs-zoom-out-button-label = Kicsinyítés
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Forgatás az óramutató járásával egyez�
 pdfjs-page-rotate-ccw-button =
     .title = Forgatás az óramutató járásával ellentétesen
 pdfjs-page-rotate-ccw-button-label = Forgatás az óramutató járásával ellentétesen
+pdfjs-cursor-text-select-tool-button =
+    .title = Szövegkijelölő eszköz bekapcsolása
+pdfjs-cursor-text-select-tool-button-label = Szövegkijelölő eszköz
+pdfjs-cursor-hand-tool-button =
+    .title = Kéz eszköz bekapcsolása
+pdfjs-cursor-hand-tool-button-label = Kéz eszköz
 
 ## Document properties dialog
 
@@ -91,6 +108,11 @@ pdfjs-document-properties-close-button = Bezárás
 
 ## Print
 
+pdfjs-print-progress-message = Dokumentum előkészítése nyomtatáshoz…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Mégse
 pdfjs-printing-not-supported = Figyelmeztetés: Ez a böngésző nem teljesen támogatja a nyomtatást.
 pdfjs-printing-not-ready = Figyelmeztetés: A PDF nincs teljesen betöltve a nyomtatáshoz.
 
@@ -99,6 +121,9 @@ pdfjs-printing-not-ready = Figyelmeztetés: A PDF nincs teljesen betöltve a nyo
 pdfjs-toggle-sidebar-button =
     .title = Oldalsáv be/ki
 pdfjs-toggle-sidebar-button-label = Oldalsáv be/ki
+pdfjs-document-outline-button =
+    .title = Dokumentum megjelenítése online (dupla kattintás minden elem kinyitásához/összecsukásához)
+pdfjs-document-outline-button-label = Dokumentumvázlat
 pdfjs-attachments-button =
     .title = Mellékletek megjelenítése
 pdfjs-attachments-button-label = Van melléklet
@@ -107,6 +132,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Bélyegképek
 pdfjs-findbar-button =
     .title = Keresés a dokumentumban
+pdfjs-findbar-button-label = Keresés
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -121,6 +147,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Keresés
+    .placeholder = Keresés a dokumentumban…
 pdfjs-find-previous-button =
     .title = A kifejezés előző előfordulásának keresése
 pdfjs-find-previous-button-label = Előző
@@ -139,6 +168,9 @@ pdfjs-page-scale-width = Oldalszélesség
 pdfjs-page-scale-fit = Teljes oldal
 pdfjs-page-scale-auto = Automatikus nagyítás
 pdfjs-page-scale-actual = Valódi méret
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -165,6 +197,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Adja meg a jelszót a PDF fájl megnyitásához.
 pdfjs-password-invalid = Helytelen jelszó. Próbálja újra.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Mégse
 pdfjs-web-fonts-disabled = Webes betűkészletek letiltva: nem használhatók a beágyazott PDF betűkészletek.
 
 ## Editing
