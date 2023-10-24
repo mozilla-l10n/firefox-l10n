@@ -16,6 +16,8 @@ pdfjs-open-file-button-label = Bula
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = Leina la faele:
+pdfjs-document-properties-title = Leina:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -60,6 +62,7 @@ pdfjs-find-not-found = Setlhopha sa mafoko ga se a bonwa
 ## Password
 
 pdfjs-password-ok-button = Siame
+pdfjs-web-fonts-disabled = Mefutatlhaka ya Webo ga e dire: ga e kgone go dirisa mofutatlhaka wa PDF o tsentsweng.
 
 ## Editing
 
