@@ -8,6 +8,9 @@
 pdfjs-previous-button =
     .title = Prethodna stranica
 pdfjs-previous-button-label = Prethodna
+pdfjs-presentation-mode-button =
+    .title = Prebaci u prezentacijski način rada
+pdfjs-presentation-mode-button-label = Prezentacijski način rada
 pdfjs-open-file-button =
     .title = Otvori datoteku
 pdfjs-open-file-button-label = Otvori
@@ -31,6 +34,7 @@ pdfjs-open-file-button-label = Otvori
 
 ## Print
 
+pdfjs-printing-not-ready = Upozorenje: PDF nije u potpunosti učitan za ispis.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -44,6 +48,9 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = Prethodno
+pdfjs-find-highlight-checkbox = Istankni sve
+pdfjs-find-not-found = Izraz nije pronađen
 
 ## Predefined zoom values
 
@@ -54,9 +61,17 @@ pdfjs-thumb-page-title =
 ## Loading indicator messages
 
 pdfjs-loading-error = Došlo je do greške pri učitavanju PDF-a.
+pdfjs-missing-file-error = Nedostaje PDF datoteka.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Bilješka]
 
 ## Password
 
