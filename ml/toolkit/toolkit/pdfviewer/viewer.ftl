@@ -49,7 +49,33 @@ pdfjs-page-rotate-ccw-button-label = ഘടികാര ദിശയ്ക്ക
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = രേഖയുടെ വിശേഷതകള്‍...
+pdfjs-document-properties-button-label = രേഖയുടെ വിശേഷതകള്‍...
+pdfjs-document-properties-file-name = ഫയലിന്റെ പേര്‌:
+pdfjs-document-properties-file-size = ഫയലിന്റെ വലിപ്പം:‌‌
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } കെബി ({ $size_b } ബൈറ്റുകള്‍)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } എംബി ({ $size_b } ബൈറ്റുകള്‍)
 pdfjs-document-properties-title = തലക്കെട്ട്‌
+pdfjs-document-properties-author = രചയിതാവ്:
+pdfjs-document-properties-subject = വിഷയം:
+pdfjs-document-properties-keywords = കീവേര്‍ഡുകള്‍:
+pdfjs-document-properties-creation-date = പൂര്‍ത്തിയാകുന്ന തീയതി:
+pdfjs-document-properties-modification-date = മാറ്റം വരുത്തിയ തീയതി:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = സൃഷ്ടികര്‍ത്താവ്:
+pdfjs-document-properties-producer = പിഡിഎഫ് പ്രൊഡ്യൂസര്‍:
+pdfjs-document-properties-version = പിഡിഎഫ് പതിപ്പ്:
+pdfjs-document-properties-page-count = താളിന്റെ എണ്ണം:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -61,6 +87,7 @@ pdfjs-document-properties-title = തലക്കെട്ട്‌
 
 ##
 
+pdfjs-document-properties-close-button = അടയ്ക്കുക
 
 ## Print
 
@@ -72,6 +99,10 @@ pdfjs-printing-not-ready = മുന്നറിയിപ്പു്: പ്ര
 pdfjs-toggle-sidebar-button =
     .title = സൈഡ് ബാറിലേക്കു് മാറ്റുക
 pdfjs-toggle-sidebar-button-label = സൈഡ് ബാറിലേക്കു് മാറ്റുക
+pdfjs-document-outline-button-label = രേഖയുടെ ഔട്ട്ലൈന്‍
+pdfjs-attachments-button =
+    .title = അറ്റാച്മെന്റുകള്‍ കാണിയ്ക്കുക
+pdfjs-attachments-button-label = അറ്റാച്മെന്റുകള്‍
 pdfjs-thumbs-button =
     .title = തംബ്നെയിലുകള്‍ കാണിയ്ക്കുക
 pdfjs-thumbs-button-label = തംബ്നെയിലുകള്‍
@@ -109,6 +140,9 @@ pdfjs-page-scale-width = താളിന്റെ വീതി
 pdfjs-page-scale-fit = താള്‍ പാകത്തിനാക്കുക
 pdfjs-page-scale-auto = സ്വയമായി വലുതാക്കുക
 pdfjs-page-scale-actual = യഥാര്‍ത്ഥ വ്യാപ്തി
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -118,6 +152,7 @@ pdfjs-page-scale-actual = യഥാര്‍ത്ഥ വ്യാപ്തി
 pdfjs-loading-error = പിഡിഎഫ് ലഭ്യമാക്കുമ്പോള്‍ പിശക് ഉണ്ടായിരിയ്ക്കുന്നു.
 pdfjs-invalid-file-error = തെറ്റായ അല്ലെങ്കില്‍ തകരാറുള്ള പിഡിഎഫ് ഫയല്‍.
 pdfjs-missing-file-error = പിഡിഎഫ് ഫയല്‍ ലഭ്യമല്ല.
+pdfjs-unexpected-response-error = പ്രതീക്ഷിക്കാത്ത സെര്‍വര്‍ മറുപടി.
 
 ## Annotations
 
