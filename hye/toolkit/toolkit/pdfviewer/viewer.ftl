@@ -63,6 +63,13 @@ pdfjs-cursor-hand-tool-button =
 pdfjs-cursor-hand-tool-button-label = Ձեռքի գործիք
 pdfjs-scroll-vertical-button =
     .title = Աւգտագործել ուղղահայեաց ոլորում
+pdfjs-scroll-vertical-button-label = Ուղղահայեաց ոլորում
+pdfjs-scroll-horizontal-button =
+    .title = Աւգտագործել հորիզոնական ոլորում
+pdfjs-scroll-horizontal-button-label = Հորիզոնական ոլորում
+pdfjs-scroll-wrapped-button =
+    .title = Աւգտագործել փաթաթուած ոլորում
+pdfjs-scroll-wrapped-button-label = Փաթաթուած ոլորում
 pdfjs-spread-none-button =
     .title = Մի միացէք էջի կոնտեքստում
 pdfjs-spread-none-button-label = Չկայ կոնտեքստ
@@ -74,6 +81,42 @@ pdfjs-spread-even-button =
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Փաստաթղթի հատկութիւնները…
+pdfjs-document-properties-button-label = Փաստաթղթի յատկութիւնները…
+pdfjs-document-properties-file-name = Նիշքի անունը․
+pdfjs-document-properties-file-size = Նիշք չափը.
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } ԿԲ ({ $size_b } բայթ)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } ՄԲ ({ $size_b } բայթ)
+pdfjs-document-properties-title = Վերնագիր
+pdfjs-document-properties-author = Հեղինակ․
+pdfjs-document-properties-subject = առարկայ
+pdfjs-document-properties-keywords = Հիմնաբառեր
+pdfjs-document-properties-creation-date = Ստեղծման ամսաթիւ
+pdfjs-document-properties-modification-date = Փոփոխութեան ամսաթիւ.
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Ստեղծող
+pdfjs-document-properties-producer = PDF-ի Արտադրողը.
+pdfjs-document-properties-version = PDF-ի տարբերակը.
+pdfjs-document-properties-page-count = Էջերի քանակը.
+pdfjs-document-properties-page-size = Էջի չափը.
+pdfjs-document-properties-page-size-unit-inches = ում
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = ուղղաձիգ
+pdfjs-document-properties-page-size-orientation-landscape = հորիզոնական
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Նամակ
+pdfjs-document-properties-page-size-name-legal = Աւրինական
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -82,12 +125,27 @@ pdfjs-spread-even-button =
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Արագ վեբ դիտում․
+pdfjs-document-properties-linearized-yes = Այո
+pdfjs-document-properties-linearized-no = Ոչ
+pdfjs-document-properties-close-button = Փակել
 
 ## Print
 
+pdfjs-print-progress-message = Նախապատրաստում է փաստաթուղթը տպելուն…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Չեղարկել
+pdfjs-printing-not-supported = Զգուշացում. Տպելը ամբողջութեամբ չի աջակցուում զննարկիչի կողմից։
+pdfjs-printing-not-ready = Զգուշացում. PDF֊ը ամբողջութեամբ չի բեռնաւորուել տպելու համար։
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -97,17 +155,48 @@ pdfjs-toggle-sidebar-button-label = Փոխարկել կողային վահանա
 pdfjs-document-outline-button =
     .title = Ցուցադրել փաստաթղթի ուրուագիծը (կրկնակի սեղմէք՝ միաւորները ընդարձակելու/կոծկելու համար)
 pdfjs-document-outline-button-label = Փաստաթղթի ուրուագիծ
+pdfjs-attachments-button-label = Կցորդներ
+pdfjs-thumbs-button =
+    .title = Ցուցադրել մանրապատկերը
+pdfjs-thumbs-button-label = Մանրապատկեր
+pdfjs-findbar-button =
+    .title = Գտնել փաստաթղթում
+pdfjs-findbar-button-label = Որոնում
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = Էջը { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Էջի մանրապատկերը { $page }
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Որոնում
+    .placeholder = Գտնել փաստաթղթում…
+pdfjs-find-previous-button =
+    .title = Գտնել արտայայտութեան նախորդ արտայայտութիւնը
+pdfjs-find-previous-button-label = Նախորդը
 pdfjs-find-next-button =
     .title = Գտիր արտայայտութեան յաջորդ արտայայտութիւնը
+pdfjs-find-highlight-checkbox = Գունանշել բոլորը
+pdfjs-find-match-case-checkbox-label = Հաշուի առնել հանգամանքը
+pdfjs-find-entire-word-checkbox-label = Ամբողջ բառերը
+pdfjs-find-reached-bottom = Հասել էք փաստաթղթի վերջին, շարունակել վերեւից
+pdfjs-find-not-found = Արտայայտութիւնը չգտնուեց
 
 ## Predefined zoom values
 
+pdfjs-page-scale-fit = Հարմարեցնել էջը
+pdfjs-page-scale-actual = Իրական չափը
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -116,12 +205,30 @@ pdfjs-find-next-button =
 
 pdfjs-loading-error = PDF նիշքը բացելիս սխալ է տեղի ունեցել։
 pdfjs-invalid-file-error = Սխալ կամ վնասուած PDF նիշք։
+pdfjs-missing-file-error = PDF նիշքը բացակաիւմ է։
+pdfjs-unexpected-response-error = Սպասարկիչի անսպասելի պատասխան։
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Ծանոթութիւն]
 
 ## Password
 
+pdfjs-password-label = Մուտքագրէք  գաղտնաբառը այս PDF նիշքը բացելու համար
+pdfjs-password-invalid = Գաղտնաբառը սխալ է: Կրկին փորձէք:
+pdfjs-password-ok-button = Լաւ
+pdfjs-password-cancel-button = Չեղարկել
+pdfjs-web-fonts-disabled = Վեբ-տառատեսակները անջատուած են. հնարաւոր չէ աւգտագործել ներկառուցուած PDF տառատեսակները։
 
 ## Editing
 
