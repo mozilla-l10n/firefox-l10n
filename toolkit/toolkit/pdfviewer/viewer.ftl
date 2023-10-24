@@ -11,6 +11,10 @@ pdfjs-previous-button-label = পূর্ববর্তী
 pdfjs-next-button =
     .title = পরবর্তী পৃষ্ঠা
 pdfjs-next-button-label = পরবর্তী
+pdfjs-presentation-mode-button-label = উপস্থাপনা মোড
+pdfjs-open-file-button =
+    .title = ফাইল খুলুন
+pdfjs-open-file-button-label = খুলুন
 
 ##  Secondary toolbar and context menu
 
@@ -34,6 +38,9 @@ pdfjs-next-button-label = পরবর্তী
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = সাইডবার টগল করুন
+pdfjs-toggle-sidebar-button-label = সাইডবার টগল করুন
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -44,6 +51,8 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = পূর্ববর্তী
+pdfjs-find-next-button-label = পরবর্তী
 
 ## Predefined zoom values
 
