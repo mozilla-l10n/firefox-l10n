@@ -19,6 +19,12 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = ಹಿರಿದಾಗಿಸಿ
 pdfjs-zoom-select =
     .title = ಗಾತ್ರಬದಲಿಸು
+pdfjs-presentation-mode-button =
+    .title = ಪ್ರಸ್ತುತಿ (ಪ್ರಸೆಂಟೇಶನ್) ಕ್ರಮಕ್ಕೆ ಬದಲಾಯಿಸು
+pdfjs-presentation-mode-button-label = ಪ್ರಸ್ತುತಿ (ಪ್ರಸೆಂಟೇಶನ್) ಕ್ರಮ
+pdfjs-open-file-button =
+    .title = ಕಡತವನ್ನು ತೆರೆ
+pdfjs-open-file-button-label = ತೆರೆಯಿರಿ
 pdfjs-print-button =
     .title = ಮುದ್ರಿಸು
 pdfjs-print-button-label = ಮುದ್ರಿಸಿ
@@ -43,12 +49,18 @@ pdfjs-print-button-label = ಮುದ್ರಿಸಿ
 ## Print
 
 pdfjs-printing-not-supported = ಎಚ್ಚರಿಕೆ: ಈ ಜಾಲವೀಕ್ಷಕದಲ್ಲಿ ಮುದ್ರಣಕ್ಕೆ ಸಂಪೂರ್ಣ ಬೆಂಬಲವಿಲ್ಲ.
+pdfjs-printing-not-ready = ಎಚ್ಚರಿಕೆ: PDF ಕಡತವು ಮುದ್ರಿಸಲು ಸಂಪೂರ್ಣವಾಗಿ ಲೋಡ್ ಆಗಿಲ್ಲ.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = ಬದಿಪಟ್ಟಿಯನ್ನು ಹೊರಳಿಸು
+pdfjs-toggle-sidebar-button-label = ಬದಿಪಟ್ಟಿಯನ್ನು ಹೊರಳಿಸು
 pdfjs-thumbs-button =
     .title = ಚಿಕ್ಕಚಿತ್ರದಂತೆ ತೋರಿಸು
 pdfjs-thumbs-button-label = ಚಿಕ್ಕಚಿತ್ರಗಳು
+pdfjs-findbar-button =
+    .title = ದಸ್ತಾವೇಜಿನಲ್ಲಿ ಹುಡುಕು
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -63,6 +75,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = ವಾಕ್ಯದ ಹಿಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು
+pdfjs-find-previous-button-label = ಹಿಂದಿನ
+pdfjs-find-next-button =
+    .title = ವಾಕ್ಯದ ಮುಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು
+pdfjs-find-next-button-label = ಮುಂದಿನ
+pdfjs-find-highlight-checkbox = ಎಲ್ಲವನ್ನು ಹೈಲೈಟ್ ಮಾಡು
+pdfjs-find-match-case-checkbox-label = ಕೇಸನ್ನು ಹೊಂದಿಸು
+pdfjs-find-reached-top = ದಸ್ತಾವೇಜಿನ ಮೇಲ್ಭಾಗವನ್ನು ತಲುಪಿದೆ, ಕೆಳಗಿನಿಂದ ಆರಂಭಿಸು
+pdfjs-find-reached-bottom = ದಸ್ತಾವೇಜಿನ ಕೊನೆಯನ್ನು ತಲುಪಿದೆ, ಮೇಲಿನಿಂದ ಆರಂಭಿಸು
+pdfjs-find-not-found = ವಾಕ್ಯವು ಕಂಡು ಬಂದಿಲ್ಲ
 
 ## Predefined zoom values
 
@@ -77,12 +100,22 @@ pdfjs-page-scale-actual = ನಿಜವಾದ ಗಾತ್ರ
 ## Loading indicator messages
 
 pdfjs-loading-error = PDF ಅನ್ನು ಲೋಡ್ ಮಾಡುವಾಗ ಒಂದು ದೋಷ ಎದುರಾಗಿದೆ.
+pdfjs-invalid-file-error = ಅಮಾನ್ಯವಾದ ಅಥವ ಹಾಳಾದ PDF ಕಡತ.
+pdfjs-missing-file-error = PDF ಕಡತ ಇಲ್ಲ.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } ಟಿಪ್ಪಣಿ]
 
 ## Password
 
+pdfjs-web-fonts-disabled = ಜಾಲ ಅಕ್ಷರಶೈಲಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ: ಅಡಕಗೊಳಿಸಿದ PDF ಅಕ್ಷರಶೈಲಿಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.
 
 ## Editing
 
