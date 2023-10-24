@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Opne
 pdfjs-print-button =
     .title = Skriv ut
 pdfjs-print-button-label = Skriv ut
+pdfjs-save-button =
+    .title = Lagre
+pdfjs-save-button-label = Lagre
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Last ned
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Last ned
+pdfjs-bookmark-button =
+    .title = Gjeldande side (sjå URL frå gjeldande side)
+pdfjs-bookmark-button-label = Gjeldande side
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Opne i app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Opne i app
 
 ##  Secondary toolbar and context menu
 
@@ -204,6 +222,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Neste
 pdfjs-find-highlight-checkbox = Uthev alle
 pdfjs-find-match-case-checkbox-label = Skil store/små bokstavar
+pdfjs-find-match-diacritics-checkbox-label = Samsvar diakritiske teikn
 pdfjs-find-entire-word-checkbox-label = Heile ord
 pdfjs-find-reached-top = Nådde toppen av dokumentet, fortset frå botnen
 pdfjs-find-reached-bottom = Nådde botnen av dokumentet, fortset frå toppen
@@ -232,6 +251,7 @@ pdfjs-loading-error = Ein feil oppstod ved lasting av PDF.
 pdfjs-invalid-file-error = Ugyldig eller korrupt PDF-fil.
 pdfjs-missing-file-error = Manglande PDF-fil.
 pdfjs-unexpected-response-error = Uventa tenarrespons.
+pdfjs-rendering-error = Ein feil oppstod under vising av sida.
 
 ## Annotations
 
@@ -250,15 +270,56 @@ pdfjs-text-annotation-type =
 ## Password
 
 pdfjs-password-label = Skriv inn passordet for å opne denne PDF-fila.
+pdfjs-password-invalid = Ugyldig passord. Prøv på nytt.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Avbryt
 pdfjs-web-fonts-disabled = Web-skrifter er slått av: Kan ikkje bruke innbundne PDF-skrifter.
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Tekst
+pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Teikne
+pdfjs-editor-ink-button-label = Teikne
+pdfjs-editor-stamp-button =
+    .title = Legg til eller rediger bilde
+pdfjs-editor-stamp-button-label = Legg til eller rediger bilde
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Farge
+pdfjs-editor-free-text-size-input = Storleik
+pdfjs-editor-ink-color-input = Farge
+pdfjs-editor-ink-thickness-input = Tjukkleik
+pdfjs-editor-ink-opacity-input = Ugjennomskinleg
+pdfjs-editor-stamp-add-image-button =
+    .title = Legg til bilde
+pdfjs-editor-stamp-add-image-button-label = Legg til bilde
+pdfjs-free-text =
+    .aria-label = Tekstredigering
+pdfjs-free-text-default-content = Byrje å skrive…
+pdfjs-ink =
+    .aria-label = Teikneredigering
+pdfjs-ink-canvas =
+    .aria-label = Brukarskapt bilde
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alt-tekst
+pdfjs-editor-alt-text-edit-button-label = Rediger alt-tekst tekst
+pdfjs-editor-alt-text-dialog-label = Vel eit alternativ
+pdfjs-editor-alt-text-dialog-description = Alt-tekst (alternativ tekst) hjelper når folk ikkje kan sjå bildet eller når det ikkje vert lasta inn.
+pdfjs-editor-alt-text-add-description-label = Legg til ei skildring
+pdfjs-editor-alt-text-add-description-description = Gå etter 1-2 setninger som skildrar emnet, settinga eller handlingane.
+pdfjs-editor-alt-text-mark-decorative-label = Merk som dekorativt
+pdfjs-editor-alt-text-mark-decorative-description = Dette vert brukt til dekorative bilde, som kantlinjer eller vassmerke.
+pdfjs-editor-alt-text-cancel-button = Avbryt
+pdfjs-editor-alt-text-save-button = Lagre
+pdfjs-editor-alt-text-decorative-tooltip = Merkt som dekorativ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Til dømes, «Ein ung mann set seg ved eit bord for å ete eit måltid»
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
