@@ -85,6 +85,13 @@ pdfjs-document-properties-creator = Người tạo:
 pdfjs-document-properties-producer = Phần mềm tạo PDF:
 pdfjs-document-properties-version = Phiên bản PDF:
 pdfjs-document-properties-page-count = Tổng số trang:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = khổ dọc
+pdfjs-document-properties-page-size-orientation-landscape = khổ ngang
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-legal = Pháp lý
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
