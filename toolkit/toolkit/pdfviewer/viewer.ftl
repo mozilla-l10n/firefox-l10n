@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Ankstesnis
 pdfjs-next-button =
     .title = Kitas puslapis
 pdfjs-next-button-label = Kitas
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Puslapis
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = iš { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } iš { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Sumažinti
 pdfjs-zoom-out-button-label = Sumažinti
@@ -25,6 +36,9 @@ pdfjs-presentation-mode-button-label = Pateikties veiksena
 pdfjs-open-file-button =
     .title = Atverti failą
 pdfjs-open-file-button-label = Atverti
+pdfjs-print-button =
+    .title = Spausdinti
+pdfjs-print-button-label = Spausdinti
 
 ##  Secondary toolbar and context menu
 
@@ -43,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Pasukti pagal laikrodžio rodyklę
 pdfjs-page-rotate-ccw-button =
     .title = Pasukti prieš laikrodžio rodyklę
 pdfjs-page-rotate-ccw-button-label = Pasukti prieš laikrodžio rodyklę
+pdfjs-cursor-text-select-tool-button =
+    .title = Įjungti teksto žymėjimo įrankį
+pdfjs-cursor-text-select-tool-button-label = Teksto žymėjimo įrankis
+pdfjs-cursor-hand-tool-button =
+    .title = Įjungti vilkimo įrankį
+pdfjs-cursor-hand-tool-button-label = Vilkimo įrankis
 
 ## Document properties dialog
 
@@ -88,6 +108,11 @@ pdfjs-document-properties-close-button = Užverti
 
 ## Print
 
+pdfjs-print-progress-message = Dokumentas ruošiamas spausdinimui…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Atsisakyti
 pdfjs-printing-not-supported = Dėmesio! Spausdinimas šioje naršyklėje nėra pilnai realizuotas.
 pdfjs-printing-not-ready = Dėmesio! PDF failas dar nėra pilnai įkeltas spausdinimui.
 
@@ -96,6 +121,9 @@ pdfjs-printing-not-ready = Dėmesio! PDF failas dar nėra pilnai įkeltas spausd
 pdfjs-toggle-sidebar-button =
     .title = Rodyti / slėpti šoninį polangį
 pdfjs-toggle-sidebar-button-label = Šoninis polangis
+pdfjs-document-outline-button =
+    .title = Rodyti dokumento struktūrą (spustelėkite dukart norėdami išplėsti/suskleisti visus elementus)
+pdfjs-document-outline-button-label = Dokumento struktūra
 pdfjs-attachments-button =
     .title = Rodyti priedus
 pdfjs-attachments-button-label = Priedai
@@ -104,6 +132,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Miniatiūros
 pdfjs-findbar-button =
     .title = Ieškoti dokumente
+pdfjs-findbar-button-label = Rasti
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -118,6 +147,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Rasti
+    .placeholder = Rasti dokumente…
 pdfjs-find-previous-button =
     .title = Ieškoti ankstesnio frazės egzemplioriaus
 pdfjs-find-previous-button-label = Ankstesnis
@@ -136,14 +168,19 @@ pdfjs-page-scale-width = Priderinti prie lapo pločio
 pdfjs-page-scale-fit = Pritaikyti prie lapo dydžio
 pdfjs-page-scale-auto = Automatinis mastelis
 pdfjs-page-scale-actual = Tikras dydis
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
 
 ## Loading indicator messages
 
+pdfjs-loading-error = Įkeliant PDF failą įvyko klaida.
 pdfjs-invalid-file-error = Tai nėra PDF failas arba jis yra sugadintas.
 pdfjs-missing-file-error = PDF failas nerastas.
+pdfjs-unexpected-response-error = Netikėtas serverio atsakas.
 
 ## Annotations
 
@@ -160,6 +197,8 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Įveskite slaptažodį šiam PDF failui atverti.
 pdfjs-password-invalid = Slaptažodis neteisingas. Bandykite dar kartą.
 pdfjs-password-ok-button = Gerai
+pdfjs-password-cancel-button = Atsisakyti
+pdfjs-web-fonts-disabled = Saityno šriftai išjungti – PDF faile esančių šriftų naudoti negalima.
 
 ## Editing
 
