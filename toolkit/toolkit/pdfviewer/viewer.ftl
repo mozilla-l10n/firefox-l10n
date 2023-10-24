@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Alat Seleksi Teks
 pdfjs-cursor-hand-tool-button =
     .title = Aktifkan Alat Tangan
 pdfjs-cursor-hand-tool-button-label = Alat Tangan
+pdfjs-scroll-vertical-button =
+    .title = Gunakan Penggeseran Vertikal
+pdfjs-scroll-vertical-button-label = Penggeseran Vertikal
+pdfjs-scroll-horizontal-button =
+    .title = Gunakan Penggeseran Horizontal
+pdfjs-scroll-horizontal-button-label = Penggeseran Horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Gunakan Penggeseran Terapit
+pdfjs-scroll-wrapped-button-label = Penggeseran Terapit
+pdfjs-spread-none-button =
+    .title = Jangan gabungkan lembar halaman
+pdfjs-spread-none-button-label = Tidak Ada Lembaran
+pdfjs-spread-odd-button =
+    .title = Gabungkan lembar lamanan mulai dengan halaman ganjil
+pdfjs-spread-odd-button-label = Lembaran Ganjil
+pdfjs-spread-even-button =
+    .title = Gabungkan lembar halaman dimulai dengan halaman genap
+pdfjs-spread-even-button-label = Lembaran Genap
 
 ## Document properties dialog
 
