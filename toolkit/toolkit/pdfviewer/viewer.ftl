@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Avaa
 pdfjs-print-button =
     .title = Tulosta
 pdfjs-print-button-label = Tulosta
+pdfjs-save-button =
+    .title = Tallenna
+pdfjs-save-button-label = Tallenna
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Lataa
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Lataa
+pdfjs-bookmark-button =
+    .title = Nykyinen sivu (Näytä URL-osoite nykyiseltä sivulta)
+pdfjs-bookmark-button-label = Nykyinen sivu
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Avaa sovelluksessa
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Avaa sovelluksessa
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Tekstinvalintatyökalu
 pdfjs-cursor-hand-tool-button =
     .title = Käytä käsityökalua
 pdfjs-cursor-hand-tool-button-label = Käsityökalu
+pdfjs-scroll-page-button =
+    .title = Käytä sivun vieritystä
+pdfjs-scroll-page-button-label = Sivun vieritys
 pdfjs-scroll-vertical-button =
     .title = Käytä pystysuuntaista vieritystä
 pdfjs-scroll-vertical-button-label = Pystysuuntainen vieritys
@@ -87,6 +108,7 @@ pdfjs-spread-even-button-label = Parilliselta alkavat aukeamat
 pdfjs-document-properties-button =
     .title = Dokumentin ominaisuudet…
 pdfjs-document-properties-button-label = Dokumentin ominaisuudet…
+pdfjs-document-properties-file-name = Tiedoston nimi:
 pdfjs-document-properties-file-size = Tiedoston koko:
 # Variables:
 #   $size_kb (Number) - the PDF file size in kilobytes
@@ -135,6 +157,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
 pdfjs-document-properties-linearized = Nopea web-katselu:
+pdfjs-document-properties-linearized-yes = Kyllä
+pdfjs-document-properties-linearized-no = Ei
 pdfjs-document-properties-close-button = Sulje
 
 ## Print
@@ -160,6 +184,9 @@ pdfjs-document-outline-button-label = Dokumentin sisällys
 pdfjs-attachments-button =
     .title = Näytä liitteet
 pdfjs-attachments-button-label = Liitteet
+pdfjs-layers-button =
+    .title = Näytä tasot (kaksoisnapsauta palauttaaksesi kaikki tasot oletustilaan)
+pdfjs-layers-button-label = Tasot
 pdfjs-thumbs-button =
     .title = Näytä pienoiskuvat
 pdfjs-thumbs-button-label = Pienoiskuvat
@@ -212,6 +239,10 @@ pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Sivu { $page }
 
 ## Loading indicator messages
 
@@ -219,9 +250,21 @@ pdfjs-loading-error = Tapahtui virhe ladattaessa PDF-tiedostoa.
 pdfjs-invalid-file-error = Virheellinen tai vioittunut PDF-tiedosto.
 pdfjs-missing-file-error = Puuttuva PDF-tiedosto.
 pdfjs-unexpected-response-error = Odottamaton vastaus palvelimelta.
+pdfjs-rendering-error = Tapahtui virhe piirrettäessä sivua.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type }-merkintä]
 
 ## Password
 
@@ -233,9 +276,49 @@ pdfjs-web-fonts-disabled = Verkkosivujen omat kirjasinlajit on estetty: ei voida
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Teksti
+pdfjs-editor-free-text-button-label = Teksti
+pdfjs-editor-ink-button =
+    .title = Piirros
+pdfjs-editor-ink-button-label = Piirros
+pdfjs-editor-stamp-button =
+    .title = Lisää tai muokkaa kuvia
+pdfjs-editor-stamp-button-label = Lisää tai muokkaa kuvia
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Väri
+pdfjs-editor-free-text-size-input = Koko
+pdfjs-editor-ink-color-input = Väri
+pdfjs-editor-ink-thickness-input = Paksuus
+pdfjs-editor-ink-opacity-input = Peittävyys
+pdfjs-editor-stamp-add-image-button =
+    .title = Lisää kuva
+pdfjs-editor-stamp-add-image-button-label = Lisää kuva
+pdfjs-free-text =
+    .aria-label = Tekstimuokkain
+pdfjs-free-text-default-content = Aloita kirjoittaminen…
+pdfjs-ink =
+    .aria-label = Piirrustusmuokkain
+pdfjs-ink-canvas =
+    .aria-label = Käyttäjän luoma kuva
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Vaihtoehtoinen teksti
+pdfjs-editor-alt-text-edit-button-label = Muokkaa vaihtoehtoista tekstiä
+pdfjs-editor-alt-text-dialog-label = Valitse vaihtoehto
+pdfjs-editor-alt-text-dialog-description = Vaihtoehtoinen teksti ("alt-teksti") auttaa ihmisiä, jotka eivät näe kuvaa tai kun kuva ei lataudu.
+pdfjs-editor-alt-text-add-description-label = Lisää kuvaus
+pdfjs-editor-alt-text-add-description-description = Pyri 1-2 lauseeseen, jotka kuvaavat aihetta, ympäristöä tai toimintaa.
+pdfjs-editor-alt-text-mark-decorative-label = Merkitse koristeelliseksi
+pdfjs-editor-alt-text-mark-decorative-description = Tätä käytetään koristekuville, kuten reunuksille tai vesileimoille.
+pdfjs-editor-alt-text-cancel-button = Peruuta
+pdfjs-editor-alt-text-save-button = Tallenna
+pdfjs-editor-alt-text-decorative-tooltip = Merkitty koristeelliseksi
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Esimerkiksi "Nuori mies istuu pöytään syömään aterian"
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
