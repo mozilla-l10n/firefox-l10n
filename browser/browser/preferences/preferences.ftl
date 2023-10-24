@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Segja vefsvæðum að selja ekki eða deila gögnunum mínum
     .accesskey = S
+non-technical-privacy-header = Persónuverndarstefna vefsvæðis
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -972,9 +973,12 @@ cookie-banner-handling-description = { -brand-short-name } reynir sjálfkrafa a�
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Útilokun vefkökuborða
 cookie-banner-learn-more = Frekari upplýsingar
 forms-handle-cookie-banners =
     .label = Fækkaðu vefkökuborðum
+cookie-banner-blocker-checkbox-label =
+    .label = Hafna sjálfkrafa vefkökuborðum
 
 ## Privacy Section - Address Bar
 
@@ -1005,6 +1009,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Flýtiaðgerðir
     .accesskey = g
+addressbar-locbar-showrecentsearches-option =
+    .label = Sýna nýlegar leitir
+    .accesskey = r
 addressbar-suggestions-settings = Breyta stillingum fyrir ábendingar leitarvéla
 addressbar-quickactions-learn-more = Kanna nánar
 
