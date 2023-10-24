@@ -94,6 +94,7 @@ pdfjs-document-properties-producer = PDF 生成器：
 pdfjs-document-properties-version = PDF 版本:
 pdfjs-document-properties-page-count = 页数:
 pdfjs-document-properties-page-size = 页面大小：
+pdfjs-document-properties-page-size-unit-inches = 英寸
 pdfjs-document-properties-page-size-unit-millimeters = 毫米
 pdfjs-document-properties-page-size-orientation-portrait = 纵向
 pdfjs-document-properties-page-size-orientation-landscape = 横向
@@ -109,6 +110,8 @@ pdfjs-document-properties-page-size-name-legal = 法律
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit }（{ $orientation }）
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit }（{ $name }，{ $orientation }）
 
 ##
 
