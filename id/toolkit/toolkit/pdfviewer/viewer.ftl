@@ -30,6 +30,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Perbesar
 pdfjs-zoom-select =
     .title = Perbesaran
+pdfjs-presentation-mode-button =
+    .title = Ganti ke Mode Presentasi
+pdfjs-presentation-mode-button-label = Mode Presentasi
 pdfjs-open-file-button =
     .title = Buka Berkas
 pdfjs-open-file-button-label = Buka
@@ -83,6 +86,9 @@ pdfjs-document-outline-button-label = Kerangka Dokumen
 pdfjs-thumbs-button =
     .title = Tampilkan Miniatur
 pdfjs-thumbs-button-label = Miniatur
+pdfjs-findbar-button =
+    .title = Temukan di Dokumen
+pdfjs-findbar-button-label = Temukan
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -97,7 +103,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Temukan kata sebelumnya
+pdfjs-find-previous-button-label = Sebelumnya
+pdfjs-find-next-button =
+    .title = Temukan lebih lanjut
+pdfjs-find-next-button-label = Selanjutnya
+pdfjs-find-match-case-checkbox-label = Cocokkan BESAR/kecil
 pdfjs-find-entire-word-checkbox-label = Seluruh teks
+pdfjs-find-reached-top = Sampai di awal dokumen, dilanjutkan dari bawah
+pdfjs-find-reached-bottom = Sampai di akhir dokumen, dilanjutkan dari atas
+pdfjs-find-not-found = Frasa tidak ditemukan
 
 ## Predefined zoom values
 
@@ -112,6 +128,7 @@ pdfjs-page-scale-actual = Ukuran Asli
 ## Loading indicator messages
 
 pdfjs-loading-error = Galat terjadi saat memuat PDF.
+pdfjs-invalid-file-error = Berkas PDF tidak valid atau rusak.
 
 ## Annotations
 
@@ -126,6 +143,7 @@ pdfjs-text-annotation-type =
 ## Password
 
 pdfjs-password-cancel-button = Batal
+pdfjs-web-fonts-disabled = Font web dinonaktifkan: tidak dapat menggunakan font PDF yang tersemat.
 
 ## Editing
 
