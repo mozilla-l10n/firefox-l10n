@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Mussar reclamas en la verificaziun da recensiuns
 shopping-settings-recommendations-learn-more = I vegnan mussadas reclamas occasiunalas per products relevants. Tut las reclamas ston resguardar noss standards da qualitad per recensiuns. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
+shopping-settings-recommendations-learn-more2 = Ti vegns a vesair reclamas occasiunalas per products relevants. Nus faschain mo reclama per products cun recensiuns fidablas. <a data-l10n-name="review-quality-url">Ulteriuras infurmaziuns</a>
 shopping-settings-opt-out-button = Deactivar la verificaziun da recensiuns
 powered-by-fakespot = La verificaziun da recensiuns sa basa sin tecnologia da <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
@@ -143,6 +144,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Anc naginas infurmaziuns davart questas recensiuns
