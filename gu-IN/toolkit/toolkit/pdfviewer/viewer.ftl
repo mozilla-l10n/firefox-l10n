@@ -11,6 +11,17 @@ pdfjs-previous-button-label = પહેલાનુ
 pdfjs-next-button =
     .title = આગળનુ પાનું
 pdfjs-next-button-label = આગળનું
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = પાનું
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = નો { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } નો { $pagesCount })
 pdfjs-zoom-out-button =
     .title = મોટુ કરો
 pdfjs-zoom-out-button-label = મોટુ કરો
@@ -46,8 +57,12 @@ pdfjs-page-rotate-cw-button-label = ઘડિયાળનાં કાંટા 
 pdfjs-page-rotate-ccw-button =
     .title = ઘડિયાળનાં કાંટાની ઉલટી દિશામાં ફેરવો
 pdfjs-page-rotate-ccw-button-label = ઘડિયાળનાં કાંટાની વિરુદ્દ ફેરવો
+pdfjs-cursor-text-select-tool-button =
+    .title = ટેક્સ્ટ પસંદગી ટૂલ સક્ષમ કરો
+pdfjs-cursor-text-select-tool-button-label = ટેક્સ્ટ પસંદગી ટૂલ
 pdfjs-cursor-hand-tool-button =
     .title = હાથનાં સાધનને સક્રિય કરો
+pdfjs-cursor-hand-tool-button-label = હેન્ડ ટૂલ
 pdfjs-scroll-vertical-button =
     .title = ઊભી સ્ક્રોલિંગનો ઉપયોગ કરો
 pdfjs-scroll-vertical-button-label = ઊભી સ્ક્રોલિંગ
@@ -110,6 +125,8 @@ pdfjs-printing-not-ready = Warning: PDF એ છાપવા માટે સં�
 pdfjs-toggle-sidebar-button =
     .title = ટૉગલ બાજુપટ્ટી
 pdfjs-toggle-sidebar-button-label = ટૉગલ બાજુપટ્ટી
+pdfjs-document-outline-button =
+    .title = દસ્તાવેજની રૂપરેખા બતાવો(બધી આઇટમ્સને વિસ્તૃત/સંકુચિત કરવા માટે ડબલ-ક્લિક કરો)
 pdfjs-document-outline-button-label = દસ્તાવેજ રૂપરેખા
 pdfjs-attachments-button =
     .title = જોડાણોને બતાવો
