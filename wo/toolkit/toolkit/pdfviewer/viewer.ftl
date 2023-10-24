@@ -62,6 +62,14 @@ pdfjs-findbar-button-label = Wut
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = Xët { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Wiñet bu xët { $page }
 
 ## Find panel button title and messages
 
