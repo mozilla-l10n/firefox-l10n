@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Szövegkijelölő eszköz
 pdfjs-cursor-hand-tool-button =
     .title = Kéz eszköz bekapcsolása
 pdfjs-cursor-hand-tool-button-label = Kéz eszköz
+pdfjs-scroll-vertical-button =
+    .title = Függőleges görgetés használata
+pdfjs-scroll-vertical-button-label = Függőleges görgetés
+pdfjs-scroll-horizontal-button =
+    .title = Vízszintes görgetés használata
+pdfjs-scroll-horizontal-button-label = Vízszintes görgetés
+pdfjs-scroll-wrapped-button =
+    .title = Rácsos elrendezés használata
+pdfjs-scroll-wrapped-button-label = Rácsos elrendezés
+pdfjs-spread-none-button =
+    .title = Ne tapassza össze az oldalakat
+pdfjs-spread-none-button-label = Nincs összetapasztás
+pdfjs-spread-odd-button =
+    .title = Lapok összetapasztása, a páratlan számú oldalakkal kezdve
+pdfjs-spread-odd-button-label = Összetapasztás: páratlan
+pdfjs-spread-even-button =
+    .title = Lapok összetapasztása, a páros számú oldalakkal kezdve
+pdfjs-spread-even-button-label = Összetapasztás: páros
 
 ## Document properties dialog
 
@@ -93,6 +111,15 @@ pdfjs-document-properties-creator = Létrehozta:
 pdfjs-document-properties-producer = PDF előállító:
 pdfjs-document-properties-version = PDF verzió:
 pdfjs-document-properties-page-count = Oldalszám:
+pdfjs-document-properties-page-size = Lapméret:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = álló
+pdfjs-document-properties-page-size-orientation-landscape = fekvő
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Jogi információk
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,9 +128,16 @@ pdfjs-document-properties-page-count = Oldalszám:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Gyors webes nézet:
+pdfjs-document-properties-linearized-yes = Igen
+pdfjs-document-properties-linearized-no = Nem
 pdfjs-document-properties-close-button = Bezárás
 
 ## Print
@@ -158,6 +192,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Tovább
 pdfjs-find-highlight-checkbox = Összes kiemelése
 pdfjs-find-match-case-checkbox-label = Kis- és nagybetűk megkülönböztetése
+pdfjs-find-entire-word-checkbox-label = Teljes szavak
 pdfjs-find-reached-top = A dokumentum eleje elérve, folytatás a végétől
 pdfjs-find-reached-bottom = A dokumentum vége elérve, folytatás az elejétől
 pdfjs-find-not-found = A kifejezés nem található
@@ -184,6 +219,10 @@ pdfjs-unexpected-response-error = Váratlan kiszolgálóválasz.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
