@@ -54,6 +54,15 @@ pdfjs-page-rotate-cw-button-label = Roter med uret
 pdfjs-page-rotate-ccw-button =
     .title = Roter mod uret
 pdfjs-page-rotate-ccw-button-label = Roter mod uret
+pdfjs-cursor-text-select-tool-button =
+    .title = Aktiver markeringsværktøj
+pdfjs-cursor-text-select-tool-button-label = Markeringsværktøj
+pdfjs-cursor-hand-tool-button =
+    .title = Aktiver håndværktøj
+pdfjs-cursor-hand-tool-button-label = Håndværktøj
+pdfjs-scroll-page-button =
+    .title = Brug sidescrolling
+pdfjs-scroll-page-button-label = Sidescrolling
 pdfjs-scroll-vertical-button =
     .title = Brug vertikal scrolling
 pdfjs-scroll-vertical-button-label = Vertikal scrolling
@@ -75,7 +84,33 @@ pdfjs-spread-even-button-label = Opslag uden forside
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Dokumentegenskaber…
+pdfjs-document-properties-button-label = Dokumentegenskaber…
+pdfjs-document-properties-file-name = Filnavn:
+pdfjs-document-properties-file-size = Filstørrelse:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
+pdfjs-document-properties-title = Titel:
+pdfjs-document-properties-author = Forfatter:
+pdfjs-document-properties-subject = Emne:
 pdfjs-document-properties-keywords = Nøgleord:
+pdfjs-document-properties-creation-date = Oprettet:
+pdfjs-document-properties-modification-date = Redigeret:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Program:
+pdfjs-document-properties-producer = PDF-producent:
+pdfjs-document-properties-version = PDF-version:
+pdfjs-document-properties-page-count = Antal sider:
 pdfjs-document-properties-page-size = Sidestørrelse:
 pdfjs-document-properties-page-size-unit-inches = in
 pdfjs-document-properties-page-size-unit-millimeters = mm
@@ -103,6 +138,7 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 pdfjs-document-properties-linearized = Hurtig web-visning:
 pdfjs-document-properties-linearized-yes = Ja
 pdfjs-document-properties-linearized-no = Nej
+pdfjs-document-properties-close-button = Luk
 
 ## Print
 
@@ -118,6 +154,8 @@ pdfjs-printing-not-ready = Advarsel: PDF-filen er ikke fuldt indlæst til udskri
 
 pdfjs-toggle-sidebar-button =
     .title = Slå sidepanel til eller fra
+pdfjs-toggle-sidebar-notification-button =
+    .title = Slå sidepanel til eller fra (dokumentet indeholder disposition/vedhæftede filer/lag)
 pdfjs-toggle-sidebar-button-label = Slå sidepanel til eller fra
 pdfjs-document-outline-button =
     .title = Vis dokumentets disposition (dobbeltklik for at vise/skjule alle elementer)
@@ -145,6 +183,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Find
+    .placeholder = Find i dokument…
 pdfjs-find-previous-button =
     .title = Find den forrige forekomst
 pdfjs-find-previous-button-label = Forrige
@@ -153,6 +194,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Næste
 pdfjs-find-highlight-checkbox = Fremhæv alle
 pdfjs-find-match-case-checkbox-label = Forskel på store og små bogstaver
+pdfjs-find-match-diacritics-checkbox-label = Diakritiske tegn
 pdfjs-find-entire-word-checkbox-label = Hele ord
 pdfjs-find-reached-top = Toppen af siden blev nået, fortsatte fra bunden
 pdfjs-find-reached-bottom = Bunden af siden blev nået, fortsatte fra toppen
@@ -202,6 +244,20 @@ pdfjs-web-fonts-disabled = Webskrifttyper er deaktiverede. De indlejrede skriftt
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Tekst
+pdfjs-editor-free-text-button-label = Tekst
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Farve
+pdfjs-editor-free-text-size-input = Størrelse
+pdfjs-editor-ink-color-input = Farve
+pdfjs-editor-ink-thickness-input = Tykkelse
+pdfjs-editor-ink-opacity-input = Uigennemsigtighed
+pdfjs-free-text =
+    .aria-label = Teksteditor
+pdfjs-free-text-default-content = Begynd at skrive…
+pdfjs-ink-canvas =
+    .aria-label = Brugeroprettet billede
 
 ## Alt-text dialog
 
