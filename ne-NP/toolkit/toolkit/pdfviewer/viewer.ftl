@@ -140,6 +140,10 @@ pdfjs-findbar-button-label = फेला पार्नुहोस्
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = पृष्ठ { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = { $page } पृष्ठको थम्बनेल
 
 ## Find panel button title and messages
 
