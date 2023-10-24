@@ -305,6 +305,21 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternativ-Text
+pdfjs-editor-alt-text-edit-button-label = Alternativ-Text bearbeiten
+pdfjs-editor-alt-text-dialog-label = Option wählen
+pdfjs-editor-alt-text-dialog-description = Alt-Text (Alternativtext) hilft, wenn Personen die Grafik nicht sehen können oder wenn sie nicht geladen wird.
+pdfjs-editor-alt-text-add-description-label = Beschreibung hinzufügen
+pdfjs-editor-alt-text-add-description-description = Ziel sind 1-2 Sätze, die das Thema, das Szenario oder Aktionen beschreiben.
+pdfjs-editor-alt-text-mark-decorative-label = Als dekorativ markieren
+pdfjs-editor-alt-text-mark-decorative-description = Dies wird für Ziergrafiken wie Ränder oder Wasserzeichen verwendet.
+pdfjs-editor-alt-text-cancel-button = Abbrechen
+pdfjs-editor-alt-text-save-button = Speichern
+pdfjs-editor-alt-text-decorative-tooltip = Als dekorativ markiert
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Zum Beispiel: "Ein junger Mann setzt sich an einen Tisch, um zu essen."
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
