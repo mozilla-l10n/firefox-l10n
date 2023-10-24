@@ -32,6 +32,8 @@ pdfjs-document-properties-subject = මාතෘකාව:
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-page-count = පිටු ගණන:
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -40,13 +42,20 @@ pdfjs-document-properties-page-count = පිටු ගණන:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width }×{ $height }{ $unit }{ $name }{ $orientation }
 
 ##
 
+pdfjs-document-properties-linearized-yes = ඔව්
+pdfjs-document-properties-linearized-no = නැහැ
 pdfjs-document-properties-close-button = වසන්න
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = අවලංගු කරන්න
 
 ## Tooltips and alt text for side panel toolbar buttons
