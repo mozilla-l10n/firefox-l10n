@@ -34,6 +34,7 @@ pdfjs-print-button-label = මුද්‍රණය
 pdfjs-thumbs-button =
     .title = සිඟිති රූ පෙන්වන්න
 pdfjs-thumbs-button-label = සිඟිති රූ
+pdfjs-findbar-button-label = සොයන්න
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
