@@ -47,11 +47,23 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Ιδιότητες εγγράφου…
 pdfjs-document-properties-file-name = Όνομα αρχείου:
 pdfjs-document-properties-file-size = Μέγεθος αρχείου:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = Τίτλος:
 pdfjs-document-properties-author = Συγγραφέας:
 pdfjs-document-properties-subject = Θέμα:
 pdfjs-document-properties-creation-date = Ημερομηνία δημιουργίας:
 pdfjs-document-properties-modification-date = Ημερομηνία τροποποίησης:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Δημιουργός:
 pdfjs-document-properties-producer = Παραγωγός PDF:
 pdfjs-document-properties-version = Έκδοση PDF:
@@ -104,6 +116,9 @@ pdfjs-find-not-found = Η φράση δεν βρέθηκε
 pdfjs-page-scale-width = Πλάτος σελίδας
 pdfjs-page-scale-fit = Μέγεθος σελίδας
 pdfjs-page-scale-actual = Πραγματικό μέγεθος
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -112,6 +127,7 @@ pdfjs-page-scale-actual = Πραγματικό μέγεθος
 
 pdfjs-invalid-file-error = Μη έγκυρο ή κατεστραμμένο αρχείο PDF.
 pdfjs-missing-file-error = Λείπει αρχείο PDF.
+pdfjs-unexpected-response-error = Μη αναμενόμενη απόκριση από το διακομιστή.
 
 ## Annotations
 
