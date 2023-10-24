@@ -21,14 +21,32 @@ address-capture-save-doorhanger-header = ¿Guardar dirección?
 address-capture-save-doorhanger-description = Guarde información en { -brand-short-name } para poder completar formularios rápidamente.
 address-capture-update-doorhanger-header = ¿Actualizar dirección?
 address-capture-edit-doorhanger-header = Editar dirección
+address-capture-save-button =
+    .label = Guardar
+    .accessKey = G
+address-capture-not-now-button =
+    .label = No ahora
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Cancelar
+    .accessKey = C
+address-capture-update-button =
+    .label = Actualizar
+    .accessKey = u
+address-capture-manage-address-button =
+    .label = Configuración de dirección
+address-capture-learn-more-button =
+    .label = Conocer más
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Agregar nueva dirección
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editar dirección
+autofill-address-name = Nombre
 autofill-address-given-name = Primer nombre
 autofill-address-additional-name = Nombre del medio
 autofill-address-family-name = Apellido
 autofill-address-organization = Organización
+autofill-address-street-address = Dirección
 autofill-address-street = Dirección
 
 ## address-level-3 (Sublocality) names
@@ -86,6 +104,7 @@ autofill-address-eircode = Eircode
 ##
 
 autofill-address-country = País o región
+autofill-address-country-only = País
 autofill-address-tel = Teléfono
 autofill-address-email = Correo electrónico
 autofill-cancel-button = Cancelar
