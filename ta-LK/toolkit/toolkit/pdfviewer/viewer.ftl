@@ -58,6 +58,7 @@ pdfjs-find-next-button =
 
 ## Password
 
+pdfjs-password-ok-button = ஆம்
 
 ## Editing
 
