@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Afecku n tefrant n uḍris
 pdfjs-cursor-hand-tool-button =
     .title = Rmed afecku afus
 pdfjs-cursor-hand-tool-button-label = Afecku afus
+pdfjs-scroll-vertical-button =
+    .title = Seqdec adrurem ubdid
+pdfjs-scroll-vertical-button-label = Adrurem ubdid
+pdfjs-scroll-horizontal-button =
+    .title = Seqdec adrurem aglawan
+pdfjs-scroll-horizontal-button-label = Adrurem aglawan
+pdfjs-scroll-wrapped-button =
+    .title = Seqdec adrurem yuẓen
+pdfjs-scroll-wrapped-button-label = Adrurem yuẓen
+pdfjs-spread-none-button =
+    .title = Ur sedday ara isiɣzaf n usebter
+pdfjs-spread-none-button-label = Ulac isiɣzaf
+pdfjs-spread-odd-button =
+    .title = Seddu isiɣzaf n usebter ibeddun s yisebtar irayuganen
+pdfjs-spread-odd-button-label = Isiɣzaf irayuganen
+pdfjs-spread-even-button =
+    .title = Seddu isiɣzaf n usebter ibeddun s yisebtar iyuganen
+pdfjs-spread-even-button-label = Isiɣzaf iyuganen
 
 ## Document properties dialog
 
