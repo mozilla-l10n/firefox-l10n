@@ -46,6 +46,14 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = Propriedades do documento…
 pdfjs-document-properties-file-name = Nome do arquivo:
 pdfjs-document-properties-file-size = Tamanho do arquivo:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = Título:
 pdfjs-document-properties-author = Autor:
 pdfjs-document-properties-subject = Assunto:
@@ -59,6 +67,7 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Criação:
 pdfjs-document-properties-producer = Criador do PDF:
 pdfjs-document-properties-version = Versão do PDF:
+pdfjs-document-properties-page-count = Número de páginas:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -103,6 +112,9 @@ pdfjs-page-scale-width = Largura da página
 pdfjs-page-scale-fit = Ajustar à janela
 pdfjs-page-scale-auto = Zoom automático
 pdfjs-page-scale-actual = Tamanho real
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -112,6 +124,7 @@ pdfjs-page-scale-actual = Tamanho real
 pdfjs-loading-error = Ocorreu um erro ao carregar o PDF.
 pdfjs-invalid-file-error = Arquivo PDF corrompido ou inválido.
 pdfjs-missing-file-error = Arquivo PDF ausente.
+pdfjs-unexpected-response-error = Resposta inesperada do servidor.
 
 ## Annotations
 
