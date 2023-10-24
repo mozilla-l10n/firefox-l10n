@@ -11,12 +11,27 @@ pdfjs-previous-button-label = Anterior
 pdfjs-next-button =
     .title = Página seguinte
 pdfjs-next-button-label = Seguinte
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Página
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Reduzir
 pdfjs-zoom-out-button-label = Reduzir
 pdfjs-zoom-in-button =
     .title = Ampliar
 pdfjs-zoom-in-button-label = Ampliar
+pdfjs-zoom-select =
+    .title = Zoom
+pdfjs-presentation-mode-button =
+    .title = Trocar para o modo de apresentação
 pdfjs-presentation-mode-button-label = Modo de apresentação
 pdfjs-open-file-button =
     .title = Abrir ficheiro
@@ -42,9 +57,18 @@ pdfjs-page-rotate-cw-button-label = Rodar à direita
 pdfjs-page-rotate-ccw-button =
     .title = Rodar à esquerda
 pdfjs-page-rotate-ccw-button-label = Rodar à esquerda
+pdfjs-cursor-text-select-tool-button =
+    .title = Ativar ferramenta de seleção de texto
+pdfjs-cursor-text-select-tool-button-label = Ferramenta de seleção de texto
+pdfjs-cursor-hand-tool-button =
+    .title = Ativar ferramenta de mão
+pdfjs-cursor-hand-tool-button-label = Ferramenta de mão
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Propriedades do documento…
+pdfjs-document-properties-button-label = Propriedades do documento…
 pdfjs-document-properties-file-name = Nome do ficheiro:
 pdfjs-document-properties-file-size = Tamanho do ficheiro:
 # Variables:
@@ -67,6 +91,7 @@ pdfjs-document-properties-modification-date = Data de modificação:
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Criador:
 pdfjs-document-properties-producer = Produtor de PDF:
+pdfjs-document-properties-version = Versão do PDF:
 pdfjs-document-properties-page-count = N.º de páginas:
 
 ## Variables:
@@ -83,17 +108,28 @@ pdfjs-document-properties-close-button = Fechar
 
 ## Print
 
+pdfjs-print-progress-message = A preparar o documento para impressão…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Cancelar
 pdfjs-printing-not-supported = Aviso: a impressão não é totalmente suportada por este navegador.
 pdfjs-printing-not-ready = Aviso: o PDF ainda não está totalmente carregado.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Alternar barra lateral
+pdfjs-toggle-sidebar-button-label = Alternar barra lateral
+pdfjs-document-outline-button =
+    .title = Mostrar esquema do documento (duplo clique para expandir/colapsar todos os itens)
 pdfjs-attachments-button =
     .title = Mostrar anexos
 pdfjs-attachments-button-label = Anexos
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-findbar-button-label = Localizar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -108,16 +144,23 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Localizar ocorrência anterior da frase
 pdfjs-find-previous-button-label = Anterior
+pdfjs-find-next-button =
+    .title = Localizar ocorrência seguinte da frase
 pdfjs-find-next-button-label = Seguinte
 pdfjs-find-highlight-checkbox = Destacar tudo
 pdfjs-find-match-case-checkbox-label = Correspondência
+pdfjs-find-reached-top = Topo do documento atingido, a continuar a partir do fundo
+pdfjs-find-reached-bottom = Fim do documento atingido, a continuar a partir do topo
 pdfjs-find-not-found = Frase não encontrada
 
 ## Predefined zoom values
 
 pdfjs-page-scale-width = Ajustar à largura
 pdfjs-page-scale-fit = Ajustar à página
+pdfjs-page-scale-auto = Zoom automático
 pdfjs-page-scale-actual = Tamanho real
 # Variables:
 #   $scale (Number) - percent value for page scale
@@ -145,7 +188,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-invalid = Palavra-passe inválida. Por favor, tente novamente.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Cancelar
 
 ## Editing
 
