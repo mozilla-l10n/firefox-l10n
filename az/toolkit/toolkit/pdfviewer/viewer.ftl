@@ -186,6 +186,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Tap
+    .placeholder = Sənəddə tap…
 pdfjs-find-previous-button =
     .title = Bir öncəki uyğun gələn sözü tapır
 pdfjs-find-previous-button-label = Geri
