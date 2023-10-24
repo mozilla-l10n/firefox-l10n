@@ -14,6 +14,7 @@ pdfjs-open-file-button-label = გახსნა
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = სათაური:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -37,6 +38,8 @@ pdfjs-open-file-button-label = გახსნა
 
 ## Find panel button title and messages
 
+pdfjs-find-next-button =
+    .title = ფრაზის შემდეგი კონტექსტის პოვნა
 
 ## Predefined zoom values
 
@@ -52,6 +55,7 @@ pdfjs-open-file-button-label = გახსნა
 
 ## Password
 
+pdfjs-password-cancel-button = გაუქმება
 
 ## Editing
 
