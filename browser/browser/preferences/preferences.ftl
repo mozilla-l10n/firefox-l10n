@@ -994,9 +994,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快速操作
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = 最近搜尋內容
-    .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = 顯示近期搜尋項目
+    .accesskey = r
 addressbar-suggestions-settings = 修改搜尋建議偏好設定
 addressbar-quickactions-learn-more = 了解更多
 
