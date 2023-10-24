@@ -104,6 +104,7 @@ pdfjs-page-scale-actual = Kɛseyɛ ankasa
 pdfjs-loading-error = Mfomso bae wɔ bere a wɔreloode PDF no.
 pdfjs-invalid-file-error = PDF fael no nndi mu anaaso ho atɔ kyima.
 pdfjs-missing-file-error = PDF fael no ayera.
+pdfjs-rendering-error = Mfomso bae wɔ bere a wɔ rekyerɛ krataafa no.
 
 ## Annotations
 
