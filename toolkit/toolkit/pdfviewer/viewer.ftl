@@ -181,6 +181,7 @@ pdfjs-loading-error = പിഡിഎഫ് ലഭ്യമാക്കുമ്
 pdfjs-invalid-file-error = തെറ്റായ അല്ലെങ്കില്‍ തകരാറുള്ള പിഡിഎഫ് ഫയല്‍.
 pdfjs-missing-file-error = പിഡിഎഫ് ഫയല്‍ ലഭ്യമല്ല.
 pdfjs-unexpected-response-error = പ്രതീക്ഷിക്കാത്ത സെര്‍വര്‍ മറുപടി.
+pdfjs-rendering-error = താള്‍ റെണ്ടര്‍ ചെയ്യുമ്പോള്‍‌ പിശകുണ്ടായിരിയ്ക്കുന്നു.
 
 ## Annotations
 
