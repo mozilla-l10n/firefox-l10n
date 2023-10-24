@@ -99,6 +99,7 @@ pdfjs-page-scale-actual = Dayo bi am
 
 pdfjs-loading-error = Am na njumte ci yebum dencukaay PDF bi.
 pdfjs-invalid-file-error = Dencukaay PDF bi baaxul walla mu sankar.
+pdfjs-rendering-error = Am njumte bu am bi xët bi di wonewu.
 
 ## Annotations
 
