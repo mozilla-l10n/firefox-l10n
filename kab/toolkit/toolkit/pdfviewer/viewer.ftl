@@ -51,6 +51,12 @@ pdfjs-page-rotate-cw-button-label = Tuzzya tusrigt
 pdfjs-page-rotate-ccw-button =
     .title = Tuzzya amgal-usrig
 pdfjs-page-rotate-ccw-button-label = Tuzzya amgal-usrig
+pdfjs-cursor-text-select-tool-button =
+    .title = Rmed afecku n tefrant n uḍris
+pdfjs-cursor-text-select-tool-button-label = Afecku n tefrant n uḍris
+pdfjs-cursor-hand-tool-button =
+    .title = Rmed afecku afus
+pdfjs-cursor-hand-tool-button-label = Afecku afus
 
 ## Document properties dialog
 
@@ -80,6 +86,15 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Yerna-t:
 pdfjs-document-properties-producer = Afecku n uselket PDF:
 pdfjs-document-properties-version = Lqem PDF:
+pdfjs-document-properties-page-size = Tuγzi n usebter:
+pdfjs-document-properties-page-size-unit-inches = deg
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = s teɣzi
+pdfjs-document-properties-page-size-orientation-landscape = s tehri
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Asekkil
+pdfjs-document-properties-page-size-name-legal = Usḍif
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -88,6 +103,8 @@ pdfjs-document-properties-version = Lqem PDF:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -134,6 +151,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Nadi
+    .placeholder = Nadi deg isemli…
 pdfjs-find-previous-button =
     .title = Aff-d tamseḍriwt n twinest n deffir
 pdfjs-find-previous-button-label = Azewwar
