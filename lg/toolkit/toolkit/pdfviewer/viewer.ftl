@@ -40,6 +40,7 @@ pdfjs-print-button-label = Fulumya
 
 ## Print
 
+pdfjs-printing-not-supported = Okulaabula: Okulumya empapula tekuwagirwa enonyeso enno.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -60,6 +61,12 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Zuula awayise mukweddamu mumiteddera
+pdfjs-find-next-button =
+    .title = Zuula ekidako mukweddamu mumiteddera
+pdfjs-find-highlight-checkbox = Londa byonna
+pdfjs-find-not-found = Emiteddera tezuuliddwa
 
 ## Predefined zoom values
 
@@ -77,6 +84,13 @@ pdfjs-loading-error = Wabadewo ensobi mukutika PDF.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Enyonyola]
 
 ## Password
 
