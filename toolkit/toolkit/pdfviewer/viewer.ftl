@@ -49,6 +49,7 @@ pdfjs-page-rotate-ccw-button-label = ഘടികാര ദിശയ്ക്ക
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = തലക്കെട്ട്‌
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -90,11 +91,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = വാചകം ഇതിനു മുന്‍പ്‌ ആവര്‍ത്തിച്ചത്‌ കണ്ടെത്തുക
 pdfjs-find-previous-button-label = മുമ്പു്
+pdfjs-find-next-button =
+    .title = വാചകം വീണ്ടും ആവര്‍ത്തിക്കുന്നത്‌ കണ്ടെത്തുക
 pdfjs-find-next-button-label = അടുത്തതു്
 pdfjs-find-highlight-checkbox = എല്ലാം എടുത്തുകാണിയ്ക്കുക
 pdfjs-find-match-case-checkbox-label = അക്ഷരങ്ങള്‍ ഒത്തുനോക്കുക
 pdfjs-find-reached-top = രേഖയുടെ മുകളില്‍ എത്തിയിരിക്കുന്നു, താഴെ നിന്നും തുടരുന്നു
+pdfjs-find-reached-bottom = രേഖയുടെ അവസാനം വരെ എത്തിയിരിക്കുന്നു, മുകളില്‍ നിന്നും തുടരുന്നു
+pdfjs-find-not-found = വാചകം കണ്ടെത്താനായില്ല
 
 ## Predefined zoom values
 
