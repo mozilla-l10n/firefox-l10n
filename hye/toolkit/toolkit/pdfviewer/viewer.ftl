@@ -40,6 +40,37 @@ pdfjs-print-button-label = Տպել
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Գործիքներ
+pdfjs-tools-button-label = Գործիքներ
+pdfjs-first-page-button =
+    .title = Գնալ դէպի առաջին էջ
+pdfjs-first-page-button-label = Գնալ դէպի առաջին էջ
+pdfjs-last-page-button =
+    .title = Գնալ դէպի վերջին էջ
+pdfjs-last-page-button-label = Գնալ դէպի վերջին էջ
+pdfjs-page-rotate-cw-button =
+    .title = Պտտել ժամացոյցի սլաքի ուղղութեամբ
+pdfjs-page-rotate-cw-button-label = Պտտել ժամացոյցի սլաքի ուղղութեամբ
+pdfjs-page-rotate-ccw-button =
+    .title = Պտտել ժամացոյցի սլաքի հակառակ ուղղութեամբ
+pdfjs-page-rotate-ccw-button-label = Պտտել ժամացոյցի սլաքի հակառակ ուղղութեամբ
+pdfjs-cursor-text-select-tool-button =
+    .title = Միացնել գրոյթ ընտրելու գործիքը
+pdfjs-cursor-text-select-tool-button-label = Գրուածք ընտրելու գործիք
+pdfjs-cursor-hand-tool-button =
+    .title = Միացնել ձեռքի գործիքը
+pdfjs-cursor-hand-tool-button-label = Ձեռքի գործիք
+pdfjs-scroll-vertical-button =
+    .title = Աւգտագործել ուղղահայեաց ոլորում
+pdfjs-spread-none-button =
+    .title = Մի միացէք էջի կոնտեքստում
+pdfjs-spread-none-button-label = Չկայ կոնտեքստ
+pdfjs-spread-odd-button =
+    .title = Միացէք էջի կոնտեքստին սկսելով՝ կենտ համարակալուած էջերով
+pdfjs-spread-odd-button-label = Տարաւրինակ կոնտեքստ
+pdfjs-spread-even-button =
+    .title = Միացէք էջի կոնտեքստին սկսելով՝ զոյգ համարակալուած էջերով
 
 ## Document properties dialog
 
@@ -60,12 +91,20 @@ pdfjs-print-button-label = Տպել
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Փոխարկել կողային վահանակը
+pdfjs-toggle-sidebar-button-label = Փոխարկել կողային վահանակը
+pdfjs-document-outline-button =
+    .title = Ցուցադրել փաստաթղթի ուրուագիծը (կրկնակի սեղմէք՝ միաւորները ընդարձակելու/կոծկելու համար)
+pdfjs-document-outline-button-label = Փաստաթղթի ուրուագիծ
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
 
 ## Find panel button title and messages
 
+pdfjs-find-next-button =
+    .title = Գտիր արտայայտութեան յաջորդ արտայայտութիւնը
 
 ## Predefined zoom values
 
@@ -75,6 +114,8 @@ pdfjs-print-button-label = Տպել
 
 ## Loading indicator messages
 
+pdfjs-loading-error = PDF նիշքը բացելիս սխալ է տեղի ունեցել։
+pdfjs-invalid-file-error = Սխալ կամ վնասուած PDF նիշք։
 
 ## Annotations
 
