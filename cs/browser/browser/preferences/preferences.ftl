@@ -1130,9 +1130,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rychlé akce
     .accesskey = R
-addressbar-locbar-recentsearches-option =
-    .label = Nedávno vyhledávané
-    .accesskey = N
+addressbar-locbar-showrecentsearches-option =
+    .label = Zobrazit nedávná vyhledávání
+    .accesskey = e
 addressbar-suggestions-settings = Nastavit našeptávání dotazů pro vyhledávač
 addressbar-quickactions-learn-more = Zjistit více
 
