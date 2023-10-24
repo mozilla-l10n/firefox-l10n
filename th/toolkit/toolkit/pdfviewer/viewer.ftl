@@ -39,6 +39,13 @@ pdfjs-open-file-button-label = เปิด
 pdfjs-print-button =
     .title = พิมพ์
 pdfjs-print-button-label = พิมพ์
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = ดาวน์โหลด
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = ดาวน์โหลด
+pdfjs-bookmark-button-label = หน้าปัจจุบัน
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +70,27 @@ pdfjs-cursor-text-select-tool-button-label = เครื่องมือก�
 pdfjs-cursor-hand-tool-button =
     .title = เปิดใช้งานเครื่องมือมือ
 pdfjs-cursor-hand-tool-button-label = เครื่องมือมือ
+pdfjs-scroll-page-button =
+    .title = ใช้การเลื่อนหน้า
+pdfjs-scroll-page-button-label = การเลื่อนหน้า
+pdfjs-scroll-vertical-button =
+    .title = ใช้การเลื่อนแนวตั้ง
+pdfjs-scroll-vertical-button-label = การเลื่อนแนวตั้ง
+pdfjs-scroll-horizontal-button =
+    .title = ใช้การเลื่อนแนวนอน
+pdfjs-scroll-horizontal-button-label = การเลื่อนแนวนอน
+pdfjs-scroll-wrapped-button =
+    .title = ใช้การเลื่อนแบบคลุม
+pdfjs-scroll-wrapped-button-label = เลื่อนแบบคลุม
+pdfjs-spread-none-button =
+    .title = ไม่ต้องรวมการกระจายหน้า
+pdfjs-spread-none-button-label = ไม่กระจาย
+pdfjs-spread-odd-button =
+    .title = รวมการกระจายหน้าเริ่มจากหน้าคี่
+pdfjs-spread-odd-button-label = กระจายอย่างเหลือเศษ
+pdfjs-spread-even-button =
+    .title = รวมการกระจายหน้าเริ่มจากหน้าคู่
+pdfjs-spread-even-button-label = กระจายอย่างเท่าเทียม
 
 ## Document properties dialog
 
@@ -174,6 +202,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = ถัดไป
 pdfjs-find-highlight-checkbox = เน้นสีทั้งหมด
 pdfjs-find-match-case-checkbox-label = ตัวพิมพ์ใหญ่เล็กตรงกัน
+pdfjs-find-match-diacritics-checkbox-label = เครื่องหมายกำกับการออกเสียงตรงกัน
 pdfjs-find-entire-word-checkbox-label = ทั้งคำ
 pdfjs-find-reached-top = ค้นหาถึงจุดเริ่มต้นของหน้า เริ่มค้นต่อจากด้านล่าง
 pdfjs-find-reached-bottom = ค้นหาถึงจุดสิ้นสุดหน้า เริ่มค้นต่อจากด้านบน
@@ -219,6 +248,9 @@ pdfjs-web-fonts-disabled = แบบอักษรเว็บถูกปิ�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = ข้อความ
+pdfjs-editor-free-text-button-label = ข้อความ
 
 ## Alt-text dialog
 
