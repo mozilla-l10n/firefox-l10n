@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Iepriekšējā
 pdfjs-next-button =
     .title = Nākamā lapa
 pdfjs-next-button-label = Nākamā
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Lapa
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = no { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } no { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Attālināt
 pdfjs-zoom-out-button-label = Attālināt
@@ -46,6 +57,30 @@ pdfjs-page-rotate-cw-button-label = Pagriezt pa pulksteni
 pdfjs-page-rotate-ccw-button =
     .title = Pagriezt pret pulksteni
 pdfjs-page-rotate-ccw-button-label = Pagriezt pret pulksteni
+pdfjs-cursor-text-select-tool-button =
+    .title = Aktivizēt teksta izvēles rīku
+pdfjs-cursor-text-select-tool-button-label = Teksta izvēles rīks
+pdfjs-cursor-hand-tool-button =
+    .title = Aktivēt rokas rīku
+pdfjs-cursor-hand-tool-button-label = Rokas rīks
+pdfjs-scroll-vertical-button =
+    .title = Izmantot vertikālo ritināšanu
+pdfjs-scroll-vertical-button-label = Vertikālā ritināšana
+pdfjs-scroll-horizontal-button =
+    .title = Izmantot horizontālo ritināšanu
+pdfjs-scroll-horizontal-button-label = Horizontālā ritināšana
+pdfjs-scroll-wrapped-button =
+    .title = Izmantot apkļauto ritināšanu
+pdfjs-scroll-wrapped-button-label = Apkļautā ritināšana
+pdfjs-spread-none-button =
+    .title = Nepievienoties lapu izpletumiem
+pdfjs-spread-none-button-label = Neizmantot izpletumus
+pdfjs-spread-odd-button =
+    .title = Izmantot lapu izpletumus sākot ar nepāra numuru lapām
+pdfjs-spread-odd-button-label = Nepāra izpletumi
+pdfjs-spread-even-button =
+    .title = Izmantot lapu izpletumus sākot ar pāra numuru lapām
+pdfjs-spread-even-button-label = Pāra izpletumi
 
 ## Document properties dialog
 
@@ -76,6 +111,15 @@ pdfjs-document-properties-creator = Radītājs:
 pdfjs-document-properties-producer = PDF producents:
 pdfjs-document-properties-version = PDF versija:
 pdfjs-document-properties-page-count = Lapu skaits:
+pdfjs-document-properties-page-size = Papīra izmērs:
+pdfjs-document-properties-page-size-unit-inches = collas
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portretorientācija
+pdfjs-document-properties-page-size-orientation-landscape = ainavorientācija
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Vēstule
+pdfjs-document-properties-page-size-name-legal = Juridiskie teksti
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -84,13 +128,25 @@ pdfjs-document-properties-page-count = Lapu skaits:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Ātrā tīmekļa skats:
+pdfjs-document-properties-linearized-yes = Jā
+pdfjs-document-properties-linearized-no = Nē
 pdfjs-document-properties-close-button = Aizvērt
 
 ## Print
 
+pdfjs-print-progress-message = Gatavo dokumentu drukāšanai...
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Atcelt
 pdfjs-printing-not-supported = Uzmanību: Drukāšana no šī pārlūka darbojas tikai daļēji.
 pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 
@@ -99,6 +155,9 @@ pdfjs-printing-not-ready = Uzmanību: PDF nav pilnībā ielādēts drukāšanai.
 pdfjs-toggle-sidebar-button =
     .title = Pārslēgt sānu joslu
 pdfjs-toggle-sidebar-button-label = Pārslēgt sānu joslu
+pdfjs-document-outline-button =
+    .title = Rādīt dokumenta struktūru (veiciet dubultklikšķi lai izvērstu/sakļautu visus vienumus)
+pdfjs-document-outline-button-label = Dokumenta saturs
 pdfjs-attachments-button =
     .title = Rādīt pielikumus
 pdfjs-attachments-button-label = Pielikumi
@@ -122,6 +181,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Meklēt
+    .placeholder = Meklēt dokumentā…
 pdfjs-find-previous-button =
     .title = Atrast iepriekšējo
 pdfjs-find-previous-button-label = Iepriekšējā
@@ -130,6 +192,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Nākamā
 pdfjs-find-highlight-checkbox = Iekrāsot visas
 pdfjs-find-match-case-checkbox-label = Lielo, mazo burtu jutīgs
+pdfjs-find-entire-word-checkbox-label = Veselus vārdus
 pdfjs-find-reached-top = Sasniegts dokumenta sākums, turpinām no beigām
 pdfjs-find-reached-bottom = Sasniegtas dokumenta beigas, turpinām no sākuma
 pdfjs-find-not-found = Frāze nav atrasta
