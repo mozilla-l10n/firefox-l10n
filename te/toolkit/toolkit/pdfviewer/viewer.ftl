@@ -11,6 +11,13 @@ pdfjs-previous-button-label = క్రితం
 pdfjs-next-button =
     .title = తరువాత పేజీ
 pdfjs-next-button-label = తరువాత
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = పేజీ
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = (మొత్తం { $pagesCount } లో { $pageNumber }వది)
 pdfjs-zoom-out-button =
     .title = జూమ్ తగ్గించు
 pdfjs-zoom-out-button-label = జూమ్ తగ్గించు
@@ -91,6 +98,11 @@ pdfjs-document-properties-close-button = మూసివేయి
 
 ## Print
 
+pdfjs-print-progress-message = ముద్రించడానికి పత్రము సిద్ధమవుతున్నది…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = రద్దుచేయి
 pdfjs-printing-not-supported = హెచ్చరిక: ఈ విహారిణి చేత ముద్రణ పూర్తిగా తోడ్పాటు లేదు.
 pdfjs-printing-not-ready = హెచ్చరిక: ముద్రణ కొరకు ఈ PDF పూర్తిగా లోడవలేదు.
 
@@ -99,6 +111,9 @@ pdfjs-printing-not-ready = హెచ్చరిక: ముద్రణ కొ�
 pdfjs-toggle-sidebar-button =
     .title = పక్కపట్టీ మార్చు
 pdfjs-toggle-sidebar-button-label = పక్కపట్టీ మార్చు
+pdfjs-document-outline-button =
+    .title = పత్రము రూపము చూపించు (డబుల్ క్లిక్ చేసి అన్ని అంశాలను విస్తరించు/కూల్చు)
+pdfjs-document-outline-button-label = పత్రము అవుట్‌లైన్
 pdfjs-attachments-button =
     .title = అనుబంధాలు చూపు
 pdfjs-attachments-button-label = అనుబంధాలు
