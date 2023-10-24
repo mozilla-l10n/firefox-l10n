@@ -112,6 +112,7 @@ pdfjs-print-progress-message = Forbereder dokument til udskrivning…
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Annuller
 pdfjs-printing-not-supported = Advarsel: Udskrivning er ikke fuldt understøttet af browseren.
+pdfjs-printing-not-ready = Advarsel: PDF-filen er ikke fuldt indlæst til udskrivning.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -144,6 +145,8 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Find den forrige forekomst
 pdfjs-find-previous-button-label = Forrige
 pdfjs-find-next-button =
     .title = Find den næste forekomst
