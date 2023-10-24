@@ -14,6 +14,14 @@ pdfjs-next-button-label = उननि
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
     .title = बिलाइ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } नि
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pagesCount } नि { $pageNumber })
 pdfjs-zoom-out-button =
     .title = फिसायै जुम खालाम
 pdfjs-zoom-out-button-label = फिसायै जुम खालाम
@@ -81,8 +89,11 @@ pdfjs-document-properties-version = PDF बिसान:
 pdfjs-document-properties-page-count = बिलाइनि हिसाब:
 pdfjs-document-properties-page-size-unit-inches = in
 pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = प'र्ट्रेट
+pdfjs-document-properties-page-size-orientation-landscape = लेण्डस्केप
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = लायजाम
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -159,6 +170,9 @@ pdfjs-page-scale-width = बिलाइनि गुवार
 pdfjs-page-scale-fit = बिलाइ गोरोबनाय
 pdfjs-page-scale-auto = गावनोगाव जुम
 pdfjs-page-scale-actual = थार महर
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
