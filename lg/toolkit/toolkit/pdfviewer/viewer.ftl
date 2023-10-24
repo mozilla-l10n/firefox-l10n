@@ -89,6 +89,7 @@ pdfjs-page-scale-actual = Obunene Obutufu
 ## Loading indicator messages
 
 pdfjs-loading-error = Wabadewo ensobi mukutika PDF.
+pdfjs-rendering-error = Wabadewo ensobi muku tekawo omuko.
 
 ## Annotations
 
