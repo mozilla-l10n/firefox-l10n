@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Претходна
 pdfjs-next-button =
     .title = Следећа страница
 pdfjs-next-button-label = Следећа
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Страница
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = од { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } од { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Умањи
 pdfjs-zoom-out-button-label = Умањи
@@ -91,6 +102,11 @@ pdfjs-document-properties-close-button = Затвори
 
 ## Print
 
+pdfjs-print-progress-message = Припремам документ за штампање…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Откажи
 pdfjs-printing-not-supported = Упозорење: Штампање није у потпуности подржано у овом прегледачу.
 pdfjs-printing-not-ready = Упозорење: PDF није у потпуности учитан за штампу.
 
@@ -99,6 +115,7 @@ pdfjs-printing-not-ready = Упозорење: PDF није у потпунос�
 pdfjs-toggle-sidebar-button =
     .title = Прикажи додатну палету
 pdfjs-toggle-sidebar-button-label = Прикажи додатну палету
+pdfjs-document-outline-button-label = Контура документа
 pdfjs-attachments-button =
     .title = Прикажи прилоге
 pdfjs-attachments-button-label = Прилози
