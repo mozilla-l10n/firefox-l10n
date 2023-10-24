@@ -80,6 +80,8 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Stvaratelj:
 pdfjs-document-properties-producer = PDF stvaratelj:
 pdfjs-document-properties-page-count = Broj stranica:
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -88,9 +90,13 @@ pdfjs-document-properties-page-count = Broj stranica:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = Da
+pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zatvori
 
 ## Print
