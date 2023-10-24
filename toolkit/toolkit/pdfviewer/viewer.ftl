@@ -15,6 +15,10 @@ pdfjs-zoom-out-button-label = Thu nhỏ
 pdfjs-zoom-in-button =
     .title = Phóng to
 pdfjs-zoom-in-button-label = Phóng to
+pdfjs-presentation-mode-button =
+    .title = Chuyển sang chế độ trình chiếu
+pdfjs-presentation-mode-button-label = Chế độ trình chiếu
+pdfjs-open-file-button-label = Mở tập tin
 pdfjs-print-button =
     .title = In
 pdfjs-print-button-label = In
@@ -90,6 +94,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = OK
 pdfjs-web-fonts-disabled = Phông chữ Web bị vô hiệu hóa: không thể sử dụng các phông chữ PDF được nhúng.
 
 ## Editing
