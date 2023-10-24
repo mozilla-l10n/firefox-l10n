@@ -33,6 +33,7 @@ pdfjs-first-page-button =
 pdfjs-first-page-button-label = Gean nei earste side
 pdfjs-last-page-button =
     .title = Gean nei lêste side
+pdfjs-last-page-button-label = Gean nei lêste side
 pdfjs-page-rotate-cw-button =
     .title = Rjochtsom draaie
 pdfjs-page-rotate-cw-button-label = Rjochtsom draaie
@@ -81,6 +82,7 @@ pdfjs-document-properties-close-button = Slute
 
 ## Print
 
+pdfjs-printing-not-supported = Warning: Printen is net folslein stipe troch dizze browser.
 pdfjs-printing-not-ready = Warning: PDF is net folslein laden om ôf te drukken.
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -126,6 +128,9 @@ pdfjs-find-not-found = Tekst net fûn
 pdfjs-page-scale-width = Sidebreedte
 pdfjs-page-scale-fit = Hiele side
 pdfjs-page-scale-auto = Automatysk zoome
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -138,6 +143,13 @@ pdfjs-missing-file-error = PDF-bestân ûntbrekt.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type }-annotaasje]
 
 ## Password
 
