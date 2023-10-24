@@ -5,6 +5,8 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = အရင် စာမျက်နှာ
 pdfjs-previous-button-label = အရင်နေရာ
 pdfjs-next-button =
     .title = ရှေ့ စာမျက်နှာ
@@ -17,6 +19,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = ချဲ့ပါ
 pdfjs-zoom-select =
     .title = ချုံ့/ချဲ့ပါ
+pdfjs-open-file-button =
+    .title = ဖိုင်အားဖွင့်ပါ။
+pdfjs-open-file-button-label = ဖွင့်ပါ
 pdfjs-print-button =
     .title = ပုံနှိုပ်ပါ
 pdfjs-print-button-label = ပုံနှိုပ်ပါ
@@ -40,6 +45,7 @@ pdfjs-print-button-label = ပုံနှိုပ်ပါ
 
 ## Print
 
+pdfjs-printing-not-supported = သတိပေးချက်၊ပရင့်ထုတ်ခြင်းကိုဤဘယောက်ဆာသည် ပြည့်ဝစွာထောက်ပံ့မထားပါ ။
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -65,8 +71,14 @@ pdfjs-thumb-page-canvas =
 
 pdfjs-find-previous-button =
     .title = စကားစုရဲ့ အရင် ​ဖြစ်ပွားမှုကို ရှာဖွေပါ
+pdfjs-find-previous-button-label = နောက်သို့
 pdfjs-find-next-button =
     .title = စကားစုရဲ့ နောက်ထပ် ​ဖြစ်ပွားမှုကို ရှာဖွေပါ
+pdfjs-find-next-button-label = ရှေ့သို့
+pdfjs-find-highlight-checkbox = အားလုံးကို မျဉ်းသားပါ
+pdfjs-find-match-case-checkbox-label = စာလုံး တိုက်ဆိုင်ပါ
+pdfjs-find-reached-top = စာမျက်နှာထိပ် ရောက်နေပြီ၊ အဆုံးကနေ ပြန်စပါ
+pdfjs-find-reached-bottom = စာမျက်နှာအဆုံး ရောက်နေပြီ၊ ထိပ်ကနေ ပြန်စပါ
 pdfjs-find-not-found = စကားစု မတွေ့ရဘူး
 
 ## Predefined zoom values
@@ -82,12 +94,23 @@ pdfjs-page-scale-actual = အမှန်တကယ်ရှိတဲ့ အရ�
 ## Loading indicator messages
 
 pdfjs-loading-error = PDF ဖိုင် ကိုဆွဲတင်နေချိန်မှာ အမှားတစ်ခုတွေ့ရပါတယ်။
+pdfjs-invalid-file-error = မရသော သို့ ပျက်နေသော PDF ဖိုင်
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } အဓိပ္ပာယ်ဖွင့်ဆိုချက်]
 
 ## Password
 
+pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = ပယ်​ဖျက်ပါ
+pdfjs-web-fonts-disabled = Web fonts are disabled: unable to use embedded PDF fonts.
 
 ## Editing
 
