@@ -93,6 +93,13 @@ pdfjs-document-properties-creator = អ្នក​បង្កើត៖
 pdfjs-document-properties-producer = កម្មវិធី​បង្កើត PDF ៖
 pdfjs-document-properties-version = កំណែ PDF ៖
 pdfjs-document-properties-page-count = ចំនួន​ទំព័រ៖
+pdfjs-document-properties-page-size-unit-inches = អ៊ីញ
+pdfjs-document-properties-page-size-unit-millimeters = មម
+pdfjs-document-properties-page-size-orientation-portrait = បញ្ឈរ
+pdfjs-document-properties-page-size-orientation-landscape = ផ្តេក
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = សំបុត្រ
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,9 +108,13 @@ pdfjs-document-properties-page-count = ចំនួន​ទំព័រ៖
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = បាទ/ចាស
+pdfjs-document-properties-linearized-no = ទេ
 pdfjs-document-properties-close-button = បិទ
 
 ## Print
