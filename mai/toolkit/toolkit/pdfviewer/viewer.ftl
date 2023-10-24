@@ -153,6 +153,7 @@ pdfjs-loading-error = पीडीएफ लोड करैत समय एक
 pdfjs-invalid-file-error = अमान्य अथवा भ्रष्ट PDF फाइल.
 pdfjs-missing-file-error = अनुपस्थित PDF फाइल.
 pdfjs-unexpected-response-error = सर्वर सँ अप्रत्याशित प्रतिक्रिया.
+pdfjs-rendering-error = पृष्ठ रेंडरिंगक समय त्रुटि आएल.
 
 ## Annotations
 
