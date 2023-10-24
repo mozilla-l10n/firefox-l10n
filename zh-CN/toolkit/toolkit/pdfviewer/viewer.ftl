@@ -42,6 +42,12 @@ pdfjs-print-button-label = 打印
 pdfjs-save-button =
     .title = 保存
 pdfjs-save-button-label = 保存
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = 下载
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = 下载
 pdfjs-bookmark-button =
     .title = 当前页面（在当前页面查看 URL）
 pdfjs-bookmark-button-label = 当前页面
@@ -163,6 +169,7 @@ pdfjs-print-progress-message = 正在准备打印文档…
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = 取消
 pdfjs-printing-not-supported = 警告：此浏览器尚未完整支持打印功能。
+pdfjs-printing-not-ready = 警告：此 PDF 未完成加载，无法打印。
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -240,6 +247,7 @@ pdfjs-page-landmark =
 
 ## Loading indicator messages
 
+pdfjs-loading-error = 加载 PDF 时发生错误。
 pdfjs-invalid-file-error = 无效或损坏的 PDF 文件。
 pdfjs-missing-file-error = 缺少 PDF 文件。
 pdfjs-unexpected-response-error = 意外的服务器响应。
@@ -275,12 +283,18 @@ pdfjs-editor-free-text-button-label = 文本
 pdfjs-editor-ink-button =
     .title = 绘图
 pdfjs-editor-ink-button-label = 绘图
+pdfjs-editor-stamp-button =
+    .title = 添加或编辑图像
+pdfjs-editor-stamp-button-label = 添加或编辑图像
 # Editor Parameters
 pdfjs-editor-free-text-color-input = 颜色
 pdfjs-editor-free-text-size-input = 字号
 pdfjs-editor-ink-color-input = 颜色
 pdfjs-editor-ink-thickness-input = 粗细
 pdfjs-editor-ink-opacity-input = 不透明度
+pdfjs-editor-stamp-add-image-button =
+    .title = 添加图像
+pdfjs-editor-stamp-add-image-button-label = 添加图像
 pdfjs-free-text =
     .aria-label = 文本编辑器
 pdfjs-free-text-default-content = 开始输入…
@@ -291,9 +305,30 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = 替换文字
+pdfjs-editor-alt-text-edit-button-label = 编辑替换文字
+pdfjs-editor-alt-text-dialog-label = 选择一项
+pdfjs-editor-alt-text-dialog-description = 替换文字可在用户无法看到或加载图像时，描述其内容。
+pdfjs-editor-alt-text-add-description-label = 添加描述
+pdfjs-editor-alt-text-add-description-description = 描述主题、背景或动作，长度尽量控制在两句话内。
+pdfjs-editor-alt-text-mark-decorative-label = 标记为装饰
+pdfjs-editor-alt-text-mark-decorative-description = 用于装饰的图像，例如边框和水印。
 pdfjs-editor-alt-text-cancel-button = 取消
 pdfjs-editor-alt-text-save-button = 保存
+pdfjs-editor-alt-text-decorative-tooltip = 已标记为装饰
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = 例如：一个少年坐到桌前，准备吃饭
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = 调整尺寸 - 左上角
+pdfjs-editor-resizer-label-top-middle = 调整尺寸 - 顶部中间
+pdfjs-editor-resizer-label-top-right = 调整尺寸 - 右上角
+pdfjs-editor-resizer-label-middle-right = 调整尺寸 - 右侧中间
+pdfjs-editor-resizer-label-bottom-right = 调整尺寸 - 右下角
+pdfjs-editor-resizer-label-bottom-middle = 调整大小 - 底部中间
+pdfjs-editor-resizer-label-bottom-left = 调整尺寸 - 左下角
+pdfjs-editor-resizer-label-middle-left = 调整尺寸 - 左侧中间
