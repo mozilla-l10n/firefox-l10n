@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Edellinen
 pdfjs-next-button =
     .title = Seuraava sivu
 pdfjs-next-button-label = Seuraava
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Sivu
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = / { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Loitonna
 pdfjs-zoom-out-button-label = Loitonna
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Kierrä oikealle
 pdfjs-page-rotate-ccw-button =
     .title = Kierrä vasemmalle
 pdfjs-page-rotate-ccw-button-label = Kierrä vasemmalle
+pdfjs-cursor-text-select-tool-button =
+    .title = Käytä tekstinvalintatyökalua
+pdfjs-cursor-text-select-tool-button-label = Tekstinvalintatyökalu
+pdfjs-cursor-hand-tool-button =
+    .title = Käytä käsityökalua
+pdfjs-cursor-hand-tool-button-label = Käsityökalu
 
 ## Document properties dialog
 
@@ -90,6 +107,11 @@ pdfjs-document-properties-close-button = Sulje
 
 ## Print
 
+pdfjs-print-progress-message = Valmistellaan dokumenttia tulostamista varten…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
+pdfjs-print-progress-close-button = Peruuta
 pdfjs-printing-not-supported = Varoitus: Selain ei tue kaikkia tulostustapoja.
 pdfjs-printing-not-ready = Varoitus: PDF-tiedosto ei ole vielä latautunut kokonaan, eikä sitä voi vielä tulostaa.
 
@@ -98,6 +120,9 @@ pdfjs-printing-not-ready = Varoitus: PDF-tiedosto ei ole vielä latautunut kokon
 pdfjs-toggle-sidebar-button =
     .title = Näytä/piilota sivupaneeli
 pdfjs-toggle-sidebar-button-label = Näytä/piilota sivupaneeli
+pdfjs-document-outline-button =
+    .title = Näytä dokumentin sisällys (laajenna tai kutista kohdat kaksoisnapsauttamalla)
+pdfjs-document-outline-button-label = Dokumentin sisällys
 pdfjs-attachments-button =
     .title = Näytä liitteet
 pdfjs-attachments-button-label = Liitteet
@@ -121,6 +146,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Etsi
+    .placeholder = Etsi dokumentista…
 pdfjs-find-previous-button =
     .title = Etsi hakusanan edellinen osuma
 pdfjs-find-previous-button-label = Edellinen
