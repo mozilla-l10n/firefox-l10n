@@ -24,9 +24,28 @@ pdfjs-presentation-mode-button =
 pdfjs-presentation-mode-button-label = Am modh taisbeanaidh
 pdfjs-open-file-button =
     .title = Fosgail faidhle
+pdfjs-open-file-button-label = Fosgail
+pdfjs-print-button =
+    .title = Clò-bhuail
+pdfjs-print-button-label = Clò-bhuail
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Innealan
+pdfjs-tools-button-label = Innealan
+pdfjs-first-page-button =
+    .title = Rach gun chiad duilleag
+pdfjs-first-page-button-label = Rach gun chiad duilleag
+pdfjs-last-page-button =
+    .title = Rach gun duilleag mu dheireadh
+pdfjs-last-page-button-label = Rach gun duilleag mu dheireadh
+pdfjs-page-rotate-cw-button =
+    .title = Cuairtich gu deiseil
+pdfjs-page-rotate-cw-button-label = Cuairtich gu deiseil
+pdfjs-page-rotate-ccw-button =
+    .title = Cuairtich gu tuathail
+pdfjs-page-rotate-ccw-button-label = Cuairtich gu tuathail
 
 ## Document properties dialog
 
@@ -111,6 +130,8 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Cuir a-steach am facal-faire gus am faidhle PDF seo fhosgladh.
+pdfjs-password-invalid = Tha am facal-faire cearr. Nach fheuch thu ris a-rithist?
 pdfjs-web-fonts-disabled = Tha cruthan-clò lìn à comas: Chan urrainn dhuinn cruthan-clò PDF leabaichte a chleachdadh.
 
 ## Editing
