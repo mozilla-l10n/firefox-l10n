@@ -44,6 +44,7 @@ pdfjs-open-file-button-label = తెరువు
 pdfjs-thumbs-button =
     .title = థంబ్‌నైల్స్ చూపు
 pdfjs-thumbs-button-label = థంబ్‌నైల్స్
+pdfjs-findbar-button-label = కనుగొను
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
