@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Nazaj
 pdfjs-next-button =
     .title = Naslednja stran
 pdfjs-next-button-label = Naprej
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Stran
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = od { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } od { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Pomanjšaj
 pdfjs-zoom-out-button-label = Pomanjšaj
@@ -85,6 +96,10 @@ pdfjs-document-properties-close-button = Zapri
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
+pdfjs-print-progress-close-button = Prekliči
 pdfjs-printing-not-supported = Opozorilo: ta brskalnik ne podpira vseh možnosti tiskanja.
 pdfjs-printing-not-ready = Opozorilo: PDF ni v celoti naložen za tiskanje.
 
@@ -93,6 +108,9 @@ pdfjs-printing-not-ready = Opozorilo: PDF ni v celoti naložen za tiskanje.
 pdfjs-toggle-sidebar-button =
     .title = Preklopi stransko vrstico
 pdfjs-toggle-sidebar-button-label = Preklopi stransko vrstico
+pdfjs-document-outline-button =
+    .title = Prikaži oris dokumenta (dvokliknite za razširitev/strnitev vseh predmetov)
+pdfjs-document-outline-button-label = Oris dokumenta
 pdfjs-attachments-button =
     .title = Prikaži priponke
 pdfjs-attachments-button-label = Priponke
