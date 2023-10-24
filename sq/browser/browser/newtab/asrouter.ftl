@@ -12,35 +12,29 @@ cfr-doorhanger-feature-heading = Veçori e Këshilluar
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Pse më del kjo?
-
 cfr-doorhanger-extension-cancel-button = Jo Tani
     .accesskey = J
-
 cfr-doorhanger-extension-ok-button = Shtoje Tani
     .accesskey = S
-
 cfr-doorhanger-extension-manage-settings-button = Administroni Rregullimet Mbi Rekomandimet
     .accesskey = A
-
 cfr-doorhanger-extension-never-show-recommendation = Mos Ma Shfaq Këtë Rekomandim
     .accesskey = o
-
 cfr-doorhanger-extension-learn-more-link = Mësoni më tepër
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = nga { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Rekomandim
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-extension-notification2 = Rekomandim
     .tooltiptext = Rekomandim zgjerimi
     .a11y-announcement = Ka gati një rekomandim zgjerimi
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
+# .a11y-announcement is extracted in JS and announced via A11y.announce.
 cfr-doorhanger-feature-notification = Rekomandim
     .tooltiptext = Rekomandim veçorie
     .a11y-announcement = Ka gati një rekomandim veçorie
@@ -85,11 +79,9 @@ cfr-protections-panel-link-text = Mësoni më tepër
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Veçori e re:
-
 cfr-whatsnew-button =
     .label = Ç’ka të Re
     .tooltiptext = Ç’ka të Re
-
 cfr-whatsnew-release-notes-link-text = Lexoni shënimet mbi hedhjen në qarkullim
 
 ## Enhanced Tracking Protection Milestones
@@ -115,16 +107,12 @@ cfr-doorhanger-doh-primary-button-2 = OK
 cfr-doorhanger-doh-secondary-button = Çaktivizoje
     .accesskey = Ç
 
-## Fission Experiment Message
-
 ## Full Video Support CFR message
 
 cfr-doorhanger-video-support-body = Videot në këtë sajt mund të mos luhen si duhet nën këtë version të { -brand-short-name }-it. Për mbulim të plotë të videove, përditësoni tani { -brand-short-name }-in.
 cfr-doorhanger-video-support-header = Që të luhet videoja, përditësoni { -brand-short-name }-in
 cfr-doorhanger-video-support-primary-button = Përditësojeni Tani
     .accesskey = P
-
-## Spotlight modal shared strings
 
 ## VPN promotion dialog for public Wi-Fi users
 ##
@@ -139,8 +127,6 @@ spotlight-public-wifi-vpn-primary-button = Jini privat, me { -mozilla-vpn-brand-
     .accesskey = J
 spotlight-public-wifi-vpn-link = Jo Tani
     .accesskey = J
-
-## Total Cookie Protection Rollout
 
 ## Emotive Continuous Onboarding
 
@@ -170,13 +156,11 @@ spotlight-pin-secondary-button = Jo tani
 
 mr2022-background-update-toast-title = { -brand-short-name } i ri. Më privat. Më pak gjurmues. Pa kompromise.
 mr2022-background-update-toast-text = Provojeni { -brand-short-name }-in më të ri që tani, të përditësuar me mbrojtjen tonë më të fuqishme se ndonjëherë kundër gjurmimit.
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it
 # using a variable font like Arial): the button can only fit 1-2
 # additional characters, exceeding characters will be truncated.
 mr2022-background-update-toast-primary-button-label = Hapeni { -brand-shorter-name }-in Që Tani
-
 # This button label will be fitted into a narrow fixed-width button by
 # Windows. Try to not exceed the width of the English text (compare it using a
 # variable font like Arial): the button can only fit 1-2 additional characters,
@@ -195,7 +179,6 @@ firefoxview-cfr-body-v2 = Rikthehuni te skeda të mbyllura së fundi, plus hidhu
 ## Firefox View Spotlight
 
 firefoxview-spotlight-promo-title = I thoni tungjatjeta { -firefoxview-brand-name }-it
-
 # “Poof” refers to the expression to convey when something or someone suddenly disappears, or in this case, reappears. For example, “Poof, it’s gone.”
 firefoxview-spotlight-promo-subtitle = E doni atë skedë të hapur në telefonin tuaj? Përlajeni. Ju duhet ai sajt që sapo vizituat? Paf, ja ku erdhi me { -firefoxview-brand-name }-in.
 firefoxview-spotlight-promo-primarybutton = Shihni se si funksionon
@@ -205,7 +188,6 @@ firefoxview-spotlight-promo-secondarybutton = Anashkaloje
 
 colorways-cfr-primarybutton = Zgjidhnii ngjyrim
     .accesskey = Z
-
 # "shades" refers to the different color options available to users in colorways.
 colorways-cfr-body = Ngjyroseni shfletuesin tuaj me nuancat ekskluzive të { -brand-short-name }-it të frymëzuara nga zëra që ndryshuan kulturë.
 colorways-cfr-header-28days = Ngjyrimi “Zëra të Pavarur”  skadon më 16 janar
@@ -227,6 +209,9 @@ cfr-cbh-dismiss-button = Jo tani
 july-jam-headline = Mendojmë ne për ju
 july-jam-body = Çdo muaj { -brand-short-name }-i bllokon mesatarisht mbi 3 mijë gjurmues për përdorues, duke ju dhënë përdorim të parrezik, të shpejtë të internetit të mbarë.
 july-jam-set-default-primary = Hapi lidhjet e mia me { -brand-short-name }
+fox-doodle-pin-headline = Mirë se u kthyet
+fox-doodle-pin-primary = Hapi lidhjet e mia me { -brand-short-name }
+fox-doodle-pin-secondary = Jo tani
 
 ## These strings are used in the Set Firefox as Default PDF Handler for Existing Users experiment
 
@@ -235,5 +220,35 @@ set-default-pdf-handler-primary = E mora vesh
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Pajisje e re e juaj në të ardhmen?
+fxa-sync-cfr-primary = Mësoni më tepër
+    .accesskey = M
+fxa-sync-cfr-secondary = Kujtoma më vonë
+    .accesskey = v
+
 ## Device Migration FxA Spotlight
 
+device-migration-fxa-spotlight-header = Po përdorni një pajisje të vjetër?
+device-migration-fxa-spotlight-primary-button = Si të kopjeruaj të dhënat e mia
+device-migration-fxa-spotlight-link = Kujtoma më vonë
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Vëre si parazgjedhje
+pdf-default-notification-decline-button =
+    .label = Jo tani
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Mësoni më tepër
+launch-on-login-infobar-confirm-button = Po, hap { -brand-short-name }-in
+    .accesskey = o
+launch-on-login-infobar-reject-button = Jo tani
+    .accesskey = J
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Jo, faleminderit
+    .accesskey = f
