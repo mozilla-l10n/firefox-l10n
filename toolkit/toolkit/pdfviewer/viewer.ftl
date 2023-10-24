@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Nuna kontura elemento
 pdfjs-findbar-button =
     .title = Serĉi en dokumento
 pdfjs-findbar-button-label = Serĉi
+pdfjs-additional-layers = Aldonaj tavoloj
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
