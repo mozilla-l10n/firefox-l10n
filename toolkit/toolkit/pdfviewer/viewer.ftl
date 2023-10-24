@@ -11,6 +11,17 @@ pdfjs-previous-button-label = קודם
 pdfjs-next-button =
     .title = דף הבא
 pdfjs-next-button-label = הבא
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = דף
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = מתוך { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } מתוך { $pagesCount })
 pdfjs-zoom-out-button =
     .title = התרחקות
 pdfjs-zoom-out-button-label = התרחקות
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = הטיה עם כיוון השעון
 pdfjs-page-rotate-ccw-button =
     .title = הטיה כנגד כיוון השעון
 pdfjs-page-rotate-ccw-button-label = הטיה כנגד כיוון השעון
+pdfjs-cursor-text-select-tool-button =
+    .title = הפעלת כלי בחירת טקסט
+pdfjs-cursor-text-select-tool-button-label = כלי בחירת טקסט
+pdfjs-cursor-hand-tool-button =
+    .title = הפעלת כלי היד
+pdfjs-cursor-hand-tool-button-label = כלי יד
 
 ## Document properties dialog
 
@@ -84,6 +101,8 @@ pdfjs-document-properties-page-count = מספר דפים:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -91,6 +110,11 @@ pdfjs-document-properties-close-button = סגירה
 
 ## Print
 
+pdfjs-print-progress-message = מסמך בהכנה להדפסה…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = ביטול
 pdfjs-printing-not-supported = אזהרה: הדפסה אינה נתמכת במלואה בדפדפן זה.
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -98,6 +122,9 @@ pdfjs-printing-not-supported = אזהרה: הדפסה אינה נתמכת במל
 pdfjs-toggle-sidebar-button =
     .title = הצגה/הסתרה של סרגל הצד
 pdfjs-toggle-sidebar-button-label = הצגה/הסתרה של סרגל הצד
+pdfjs-attachments-button =
+    .title = הצגת צרופות
+pdfjs-attachments-button-label = צרופות
 pdfjs-thumbs-button =
     .title = הצגת תצוגה מקדימה
 pdfjs-thumbs-button-label = תצוגה מקדימה
@@ -118,6 +145,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = חיפוש
+    .placeholder = חיפוש במסמך…
 pdfjs-find-previous-button-label = קודם
 pdfjs-find-next-button-label = הבא
 pdfjs-find-highlight-checkbox = הדגשת הכול
@@ -130,6 +160,9 @@ pdfjs-find-reached-bottom = הגיע לסוף הדף, ממשיך מלמעלה
 pdfjs-page-scale-width = רוחב העמוד
 pdfjs-page-scale-fit = התאמה לעמוד
 pdfjs-page-scale-auto = מרחק מתצוגה אוטומטי
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -139,6 +172,7 @@ pdfjs-page-scale-auto = מרחק מתצוגה אוטומטי
 pdfjs-loading-error = אירעה שגיאה בעת טעינת ה־PDF.
 pdfjs-invalid-file-error = קובץ PDF פגום או לא תקין.
 pdfjs-missing-file-error = קובץ PDF חסר.
+pdfjs-unexpected-response-error = תגובת שרת לא צפויה.
 
 ## Annotations
 
