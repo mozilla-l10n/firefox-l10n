@@ -19,6 +19,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = मोठे करा
 pdfjs-zoom-select =
     .title = लहान किंवा मोठे करा
+pdfjs-presentation-mode-button =
+    .title = प्रस्तुतिकरण मोडचा वापर करा
+pdfjs-presentation-mode-button-label = प्रस्तुतिकरण मोड
 pdfjs-open-file-button =
     .title = फाइल उघडा
 pdfjs-open-file-button-label = उघडा
@@ -46,9 +49,14 @@ pdfjs-printing-not-ready = सावधानता: छपाईकरिता
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = बाजूचीपट्टी टॉगल करा
+pdfjs-toggle-sidebar-button-label = बाजूचीपट्टी टॉगल करा
 pdfjs-thumbs-button =
     .title = थंबनेल्स् दाखवा
 pdfjs-thumbs-button-label = थंबनेल्स्
+pdfjs-findbar-button =
+    .title = दस्तऐवजात शोधा
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -63,6 +71,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = वाकप्रयोगची मागील घटना शोधा
+pdfjs-find-previous-button-label = मागील
+pdfjs-find-next-button =
+    .title = वाकप्रयोगची पुढील घटना शोधा
+pdfjs-find-next-button-label = पुढील
+pdfjs-find-highlight-checkbox = सर्व ठळक करा
+pdfjs-find-match-case-checkbox-label = आकार जुळवा
+pdfjs-find-reached-top = दस्तऐवजाच्या शीर्षकास पोहचले, तळपासून पुढे
+pdfjs-find-reached-bottom = दस्तऐवजाच्या तळाला पोहचले, शीर्षकापासून पुढे
+pdfjs-find-not-found = वाकप्रयोग आढळले नाही
 
 ## Predefined zoom values
 
@@ -77,9 +96,18 @@ pdfjs-page-scale-actual = प्रत्यक्ष आकार
 ## Loading indicator messages
 
 pdfjs-loading-error = PDF लोड करतेवेळी त्रुटी आढळली.
+pdfjs-invalid-file-error = अवैध किंवा दोषीत PDF फाइल.
+pdfjs-missing-file-error = न आढळणारी PDF फाइल.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } टिपण्णी]
 
 ## Password
 
