@@ -211,3 +211,4 @@ shopping-onboarding-welcome-steps-indicator-label =
     .aria-label = Avanzamento: passo { $current } di { $total }
 
 
+
