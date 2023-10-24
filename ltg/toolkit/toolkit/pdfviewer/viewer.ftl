@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Īprīkšejā
 pdfjs-next-button =
     .title = Nuokomuo lopa
 pdfjs-next-button-label = Nuokomuo
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Lopa
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = nu { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } nu { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Attuolynuot
 pdfjs-zoom-out-button-label = Attuolynuot
@@ -45,6 +56,12 @@ pdfjs-page-rotate-cw-button-label = Pagrīzt pa pulksteni
 pdfjs-page-rotate-ccw-button =
     .title = Pagrīzt pret pulksteni
 pdfjs-page-rotate-ccw-button-label = Pagrīzt pret pulksteni
+pdfjs-cursor-text-select-tool-button =
+    .title = Aktivizēt teksta izvieles reiku
+pdfjs-cursor-text-select-tool-button-label = Teksta izvieles reiks
+pdfjs-cursor-hand-tool-button =
+    .title = Aktivēt rūkys reiku
+pdfjs-cursor-hand-tool-button-label = Rūkys reiks
 
 ## Document properties dialog
 
@@ -90,6 +107,11 @@ pdfjs-document-properties-close-button = Aiztaiseit
 
 ## Print
 
+pdfjs-print-progress-message = Preparing document for printing…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Atceļt
 pdfjs-printing-not-supported = Uzmaneibu: Drukuošona nu itei puorlūka dorbojās tikai daleji.
 pdfjs-printing-not-ready = Uzmaneibu: PDF nav pilneibā īluodeits drukuošonai.
 
@@ -98,6 +120,9 @@ pdfjs-printing-not-ready = Uzmaneibu: PDF nav pilneibā īluodeits drukuošonai.
 pdfjs-toggle-sidebar-button =
     .title = Puorslēgt suonu jūslu
 pdfjs-toggle-sidebar-button-label = Puorslēgt suonu jūslu
+pdfjs-document-outline-button =
+    .title = Show Document Outline (double-click to expand/collapse all items)
+pdfjs-document-outline-button-label = Dokumenta saturs
 pdfjs-attachments-button =
     .title = Show Attachments
 pdfjs-attachments-button-label = Attachments
@@ -121,6 +146,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Mekleit
+    .placeholder = Mekleit dokumentā…
 pdfjs-find-previous-button =
     .title = Atrast īprīkšejū
 pdfjs-find-previous-button-label = Īprīkšejā
@@ -152,6 +180,7 @@ pdfjs-loading-error = Īluodejūt PDF nūtyka klaida.
 pdfjs-invalid-file-error = Nadereigs voi būjuots PDF fails.
 pdfjs-missing-file-error = PDF fails nav atrosts.
 pdfjs-unexpected-response-error = Unexpected server response.
+pdfjs-rendering-error = Attālojūt lopu rodās klaida
 
 ## Annotations
 
