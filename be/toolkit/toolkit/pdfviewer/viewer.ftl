@@ -54,6 +54,12 @@ pdfjs-page-rotate-cw-button-label = Павярнуць па сонцу
 pdfjs-page-rotate-ccw-button =
     .title = Павярнуць супраць сонца
 pdfjs-page-rotate-ccw-button-label = Павярнуць супраць сонца
+pdfjs-cursor-text-select-tool-button =
+    .title = Уключыць прыладу выбару тэксту
+pdfjs-cursor-text-select-tool-button-label = Прылада выбару тэксту
+pdfjs-cursor-hand-tool-button =
+    .title = Уключыць ручную прыладу
+pdfjs-cursor-hand-tool-button-label = Ручная прылада
 
 ## Document properties dialog
 
@@ -95,6 +101,11 @@ pdfjs-document-properties-page-count = Колькасць старонак:
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Хуткі прагляд у Інтэрнэце:
+pdfjs-document-properties-linearized-yes = Так
+pdfjs-document-properties-linearized-no = Не
 pdfjs-document-properties-close-button = Закрыць
 
 ## Print
