@@ -39,6 +39,15 @@ pdfjs-open-file-button-label = 打开
 pdfjs-print-button =
     .title = 打印
 pdfjs-print-button-label = 打印
+pdfjs-save-button =
+    .title = 保存
+pdfjs-save-button-label = 保存
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = 在应用中打开
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = 在应用中打开
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +72,9 @@ pdfjs-cursor-text-select-tool-button-label = 文本选择工具
 pdfjs-cursor-hand-tool-button =
     .title = 启用手形工具
 pdfjs-cursor-hand-tool-button-label = 手形工具
+pdfjs-scroll-page-button =
+    .title = 使用页面滚动
+pdfjs-scroll-page-button-label = 页面滚动
 pdfjs-scroll-vertical-button =
     .title = 使用垂直滚动
 pdfjs-scroll-vertical-button-label = 垂直滚动
@@ -200,6 +212,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = 下一页
 pdfjs-find-highlight-checkbox = 全部高亮显示
 pdfjs-find-match-case-checkbox-label = 区分大小写
+pdfjs-find-match-diacritics-checkbox-label = 匹配变音符号
+pdfjs-find-entire-word-checkbox-label = 全词匹配
 pdfjs-find-reached-top = 到达文档开头，从末尾继续
 pdfjs-find-reached-bottom = 到达文档末尾，从开头继续
 pdfjs-find-not-found = 找不到指定词语
@@ -226,6 +240,7 @@ pdfjs-page-landmark =
 pdfjs-invalid-file-error = 无效或损坏的 PDF 文件。
 pdfjs-missing-file-error = 缺少 PDF 文件。
 pdfjs-unexpected-response-error = 意外的服务器响应。
+pdfjs-rendering-error = 渲染页面时发生错误。
 
 ## Annotations
 
@@ -251,9 +266,24 @@ pdfjs-web-fonts-disabled = Web 字体已被禁用：无法使用嵌入的 PDF �
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = 文本
+pdfjs-editor-free-text-button-label = 文本
+pdfjs-editor-ink-button =
+    .title = 绘图
+pdfjs-editor-ink-button-label = 绘图
+pdfjs-free-text =
+    .aria-label = 文本编辑器
+pdfjs-free-text-default-content = 开始输入…
+pdfjs-ink =
+    .aria-label = 绘图编辑器
+pdfjs-ink-canvas =
+    .aria-label = 用户创建图像
 
 ## Alt-text dialog
 
+pdfjs-editor-alt-text-cancel-button = 取消
+pdfjs-editor-alt-text-save-button = 保存
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
