@@ -84,6 +84,12 @@ pdfjs-cursor-hand-tool-button-label = Roka
 pdfjs-scroll-page-button =
     .title = Uporabi drsenje po strani
 pdfjs-scroll-page-button-label = Drsenje po strani
+pdfjs-scroll-vertical-button =
+    .title = Uporabi navpično drsenje
+pdfjs-scroll-vertical-button-label = Navpično drsenje
+pdfjs-scroll-horizontal-button =
+    .title = Uporabi vodoravno drsenje
+pdfjs-scroll-horizontal-button-label = Vodoravno drsenje
 pdfjs-scroll-wrapped-button =
     .title = Uporabi ovito drsenje
 pdfjs-scroll-wrapped-button-label = Ovito drsenje
@@ -126,6 +132,13 @@ pdfjs-document-properties-creator = Ustvaril:
 pdfjs-document-properties-producer = Izdelovalec PDF:
 pdfjs-document-properties-version = Različica PDF:
 pdfjs-document-properties-page-count = Število strani:
+pdfjs-document-properties-page-size = Velikost strani:
+pdfjs-document-properties-page-size-unit-inches = palcev
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = pokončno
+pdfjs-document-properties-page-size-orientation-landscape = ležeče
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-letter = Pismo
 pdfjs-document-properties-page-size-name-legal = Pravno
 
@@ -136,12 +149,16 @@ pdfjs-document-properties-page-size-name-legal = Pravno
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
 pdfjs-document-properties-linearized = Hitri spletni ogled:
+pdfjs-document-properties-linearized-yes = Da
+pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zapri
 
 ## Print
