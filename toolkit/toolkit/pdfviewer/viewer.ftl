@@ -226,6 +226,25 @@ pdfjs-find-match-diacritics-checkbox-label = Diakritiske znamješka wužiwać
 pdfjs-find-entire-word-checkbox-label = Cyłe słowa
 pdfjs-find-reached-top = Spočatk dokumenta docpěty, pokročuje so z kóncom
 pdfjs-find-reached-bottom = Kónc dokument docpěty, pokročuje so ze spočatkom
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } z { $total } wotpowědnika
+        [two] { $current } z { $total } wotpowědnikow
+        [few] { $current } z { $total } wotpowědnikow
+       *[other] { $current } z { $total } wotpowědnikow
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Wyše { $limit } wotpowědnik
+        [two] Wyše { $limit } wotpowědnikaj
+        [few] Wyše { $limit } wotpowědniki
+       *[other] Wyše { $limit } wotpowědnikow
+    }
 pdfjs-find-not-found = Pytanski wuraz njeje so namakał
 
 ## Predefined zoom values
