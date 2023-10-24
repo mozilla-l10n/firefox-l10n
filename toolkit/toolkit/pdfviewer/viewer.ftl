@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Önceki
 pdfjs-next-button =
     .title = Sonraki sayfa
 pdfjs-next-button-label = Sonraki
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Sayfa
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = / { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-select =
     .title = Yakınlaştırma
 pdfjs-presentation-mode-button =
@@ -84,6 +95,11 @@ pdfjs-document-properties-close-button = Kapat
 
 ## Print
 
+pdfjs-print-progress-message = Belge yazdırılmaya hazırlanıyor…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = %{ $progress }
+pdfjs-print-progress-close-button = İptal
 pdfjs-printing-not-supported = Uyarı: Yazdırma bu tarayıcı tarafından tam olarak desteklenmemektedir.
 pdfjs-printing-not-ready = Uyarı: PDF tamamen yüklenmedi ve yazdırmaya hazır değil.
 
@@ -92,6 +108,9 @@ pdfjs-printing-not-ready = Uyarı: PDF tamamen yüklenmedi ve yazdırmaya hazır
 pdfjs-toggle-sidebar-button =
     .title = Kenar çubuğunu aç/kapat
 pdfjs-toggle-sidebar-button-label = Kenar çubuğunu aç/kapat
+pdfjs-attachments-button =
+    .title = Ekleri göster
+pdfjs-attachments-button-label = Ekler
 pdfjs-thumbs-button =
     .title = Küçük resimleri göster
 pdfjs-thumbs-button-label = Küçük resimler
@@ -129,6 +148,9 @@ pdfjs-page-scale-width = Sayfa genişliği
 pdfjs-page-scale-fit = Sayfayı sığdır
 pdfjs-page-scale-auto = Otomatik yakınlaştır
 pdfjs-page-scale-actual = Gerçek boyut
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = %{ $scale }
 
 ## PDF page
 
@@ -138,6 +160,7 @@ pdfjs-page-scale-actual = Gerçek boyut
 pdfjs-loading-error = PDF yüklenirken bir hata oluştu.
 pdfjs-invalid-file-error = Geçersiz veya bozulmuş PDF dosyası.
 pdfjs-missing-file-error = PDF dosyası eksik.
+pdfjs-unexpected-response-error = Beklenmeyen sunucu yanıtı.
 
 ## Annotations
 
@@ -151,7 +174,9 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Bu PDF dosyasını açmak için parolasını yazın.
 pdfjs-password-ok-button = Tamam
+pdfjs-password-cancel-button = İptal
 pdfjs-web-fonts-disabled = Web fontları devre dışı: Gömülü PDF fontları kullanılamıyor.
 
 ## Editing
