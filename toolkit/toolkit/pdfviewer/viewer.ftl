@@ -112,6 +112,14 @@ pdfjs-document-properties-creator = Créé par :
 pdfjs-document-properties-producer = Outil de conversion PDF :
 pdfjs-document-properties-version = Version PDF :
 pdfjs-document-properties-page-count = Nombre de pages :
+pdfjs-document-properties-page-size = Taille de la page :
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = portrait
+pdfjs-document-properties-page-size-orientation-landscape = paysage
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = lettre
 pdfjs-document-properties-page-size-name-legal = document juridique
 
 ## Variables:
@@ -121,9 +129,14 @@ pdfjs-document-properties-page-size-name-legal = document juridique
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Affichage rapide des pages web :
 pdfjs-document-properties-close-button = Fermer
 
 ## Print
