@@ -57,6 +57,30 @@ pdfjs-page-rotate-cw-button-label = Chira enta la dreita
 pdfjs-page-rotate-ccw-button =
     .title = Chirar enta la zurda
 pdfjs-page-rotate-ccw-button-label = Chirar enta la zurda
+pdfjs-cursor-text-select-tool-button =
+    .title = Activar la ferramienta de selección de texto
+pdfjs-cursor-text-select-tool-button-label = Ferramienta de selección de texto
+pdfjs-cursor-hand-tool-button =
+    .title = Activar la ferramienta man
+pdfjs-cursor-hand-tool-button-label = Ferramienta man
+pdfjs-scroll-vertical-button =
+    .title = Usar lo desplazamiento vertical
+pdfjs-scroll-vertical-button-label = Desplazamiento vertical
+pdfjs-scroll-horizontal-button =
+    .title = Usar lo desplazamiento horizontal
+pdfjs-scroll-horizontal-button-label = Desplazamiento horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Activaar lo desplazamiento contino
+pdfjs-scroll-wrapped-button-label = Desplazamiento contino
+pdfjs-spread-none-button =
+    .title = No unir vistas de pachinas
+pdfjs-spread-none-button-label = Una pachina nomás
+pdfjs-spread-odd-button =
+    .title = Mostrar vista de pachinas, con as impars a la zurda
+pdfjs-spread-odd-button-label = Doble pachina, impar a la zurda
+pdfjs-spread-even-button =
+    .title = Amostrar vista de pachinas, con as pars a la zurda
+pdfjs-spread-even-button-label = Doble pachina, para a la zurda
 
 ## Document properties dialog
 
@@ -87,6 +111,14 @@ pdfjs-document-properties-creator = Creyador:
 pdfjs-document-properties-producer = Creyador de PDF:
 pdfjs-document-properties-version = Versión de PDF:
 pdfjs-document-properties-page-count = Numero de pachinas:
+pdfjs-document-properties-page-size-unit-inches = pulgadas
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = vertical
+pdfjs-document-properties-page-size-orientation-landscape = horizontal
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Carta
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +127,16 @@ pdfjs-document-properties-page-count = Numero de pachinas:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } x { $height } { $unit } { $orientation }
+pdfjs-document-properties-page-size-dimension-name-string = { $width } x { $height } { $unit } { $name }, { $orientation }
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Vista web rapida:
+pdfjs-document-properties-linearized-yes = Sí
+pdfjs-document-properties-linearized-no = No
 pdfjs-document-properties-close-button = Zarrar
 
 ## Print
@@ -114,6 +153,8 @@ pdfjs-printing-not-ready = Aviso: Encara no se ha cargau completament o PDF ta i
 
 pdfjs-toggle-sidebar-button =
     .title = Amostrar u amagar a barra lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Cambiar barra lateral (lo documento contiene esquema/adchuntos/capas)
 pdfjs-toggle-sidebar-button-label = Amostrar a barra lateral
 pdfjs-document-outline-button =
     .title = Amostrar esquema d'o documento (fer doble clic pa expandir/compactar totz los items)
@@ -121,6 +162,9 @@ pdfjs-document-outline-button-label = Esquema d'o documento
 pdfjs-attachments-button =
     .title = Amostrar os adchuntos
 pdfjs-attachments-button-label = Adchuntos
+pdfjs-layers-button =
+    .title = Amostrar capas (doble clic para reiniciar totas las capas a lo estau per defecto)
+pdfjs-layers-button-label = Capas
 pdfjs-thumbs-button =
     .title = Amostrar as miniaturas
 pdfjs-thumbs-button-label = Miniaturas
@@ -152,6 +196,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Siguient
 pdfjs-find-highlight-checkbox = Resaltar-lo tot
 pdfjs-find-match-case-checkbox-label = Coincidencia de mayusclas/minusclas
+pdfjs-find-entire-word-checkbox-label = Parolas completas
 pdfjs-find-reached-top = S'ha plegau a l'inicio d'o documento, se contina dende baixo
 pdfjs-find-reached-bottom = S'ha plegau a la fin d'o documento, se contina dende alto
 pdfjs-find-not-found = No s'ha trobau a frase
@@ -178,6 +223,10 @@ pdfjs-unexpected-response-error = Respuesta a lo servicio inasperada.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
