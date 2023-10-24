@@ -39,6 +39,9 @@ pdfjs-open-file-button-label = Ouvrir le fichier
 pdfjs-print-button =
     .title = Imprimer
 pdfjs-print-button-label = Imprimer
+pdfjs-bookmark-button =
+    .title = Page courante (montrer l’adresse de la page courante)
+pdfjs-bookmark-button-label = Page courante
 
 ##  Secondary toolbar and context menu
 
@@ -75,6 +78,8 @@ pdfjs-scroll-horizontal-button-label = Défilement horizontal
 pdfjs-scroll-wrapped-button =
     .title = Utiliser le défilement par bloc
 pdfjs-scroll-wrapped-button-label = Défilement par bloc
+pdfjs-spread-none-button =
+    .title = Ne pas afficher les pages deux à deux
 pdfjs-spread-none-button-label = Pas de double affichage
 pdfjs-spread-odd-button =
     .title = Afficher les pages par deux, impaires à gauche
@@ -137,6 +142,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
 pdfjs-document-properties-linearized = Affichage rapide des pages web :
+pdfjs-document-properties-linearized-yes = Oui
+pdfjs-document-properties-linearized-no = Non
 pdfjs-document-properties-close-button = Fermer
 
 ## Print
@@ -165,6 +172,9 @@ pdfjs-layers-button =
 pdfjs-thumbs-button =
     .title = Afficher les vignettes
 pdfjs-thumbs-button-label = Vignettes
+pdfjs-current-outline-item-button =
+    .title = Trouver l’élément de plan actuel
+pdfjs-current-outline-item-button-label = Élément de plan actuel
 pdfjs-findbar-button =
     .title = Rechercher dans le document
 pdfjs-findbar-button-label = Rechercher
@@ -190,6 +200,7 @@ pdfjs-find-next-button-label = Suivant
 pdfjs-find-highlight-checkbox = Tout surligner
 pdfjs-find-match-case-checkbox-label = Respecter la casse
 pdfjs-find-match-diacritics-checkbox-label = Respecter les accents et diacritiques
+pdfjs-find-entire-word-checkbox-label = Mots entiers
 pdfjs-find-reached-top = Haut de la page atteint, poursuite depuis la fin
 pdfjs-find-reached-bottom = Bas de la page atteint, poursuite au début
 
@@ -241,6 +252,14 @@ pdfjs-web-fonts-disabled = Les polices web sont désactivées : impossible d’
 
 ## Editing
 
+pdfjs-editor-stamp-button =
+    .title = Ajouter ou modifier des images
+pdfjs-editor-stamp-button-label = Ajouter ou modifier des images
+pdfjs-editor-stamp-add-image-button =
+    .title = Ajouter une image
+pdfjs-editor-stamp-add-image-button-label = Ajouter une image
+pdfjs-ink-canvas =
+    .aria-label = Image créée par l’utilisateur·trice
 
 ## Alt-text dialog
 
