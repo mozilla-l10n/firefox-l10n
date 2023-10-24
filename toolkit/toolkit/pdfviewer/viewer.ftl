@@ -178,6 +178,7 @@ pdfjs-current-outline-item-button-label = Trenutačni element strukture
 pdfjs-findbar-button =
     .title = Pronađi u dokumentu
 pdfjs-findbar-button-label = Pronađi
+pdfjs-additional-layers = Dodatni slojevi
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
