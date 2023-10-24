@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Fyrri
 pdfjs-next-button =
     .title = Næsta síða
 pdfjs-next-button-label = Næsti
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Síða
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = af { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } af { $pagesCount })
 pdfjs-zoom-select =
     .title = Aðdráttur
 pdfjs-presentation-mode-button =
@@ -40,6 +51,12 @@ pdfjs-page-rotate-cw-button-label = Snúa réttsælis
 pdfjs-page-rotate-ccw-button =
     .title = Snúa rangsælis
 pdfjs-page-rotate-ccw-button-label = Snúa rangsælis
+pdfjs-cursor-text-select-tool-button =
+    .title = Virkja textavalsáhald
+pdfjs-cursor-text-select-tool-button-label = Textavalsáhald
+pdfjs-cursor-hand-tool-button =
+    .title = Virkja handarverkfæri
+pdfjs-cursor-hand-tool-button-label = Handarverkfæri
 
 ## Document properties dialog
 
@@ -85,11 +102,19 @@ pdfjs-document-properties-close-button = Loka
 
 ## Print
 
+pdfjs-print-progress-message = Undirbý skjal fyrir prentun…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Hætta við
 pdfjs-printing-not-supported = Aðvörun: Prentun er ekki með fyllilegan stuðning á þessum vafra.
 pdfjs-printing-not-ready = Aðvörun: Ekki er búið að hlaða inn allri PDF skránni fyrir prentun.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-document-outline-button =
+    .title = Sýna yfirlit skjals (tvísmelltu til að opna/loka öllum hlutum)
+pdfjs-document-outline-button-label = Efnisskipan skjals
 pdfjs-attachments-button =
     .title = Sýna viðhengi
 pdfjs-attachments-button-label = Viðhengi
@@ -113,6 +138,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Leita
+    .placeholder = Leita í skjali…
 pdfjs-find-previous-button =
     .title = Leita að fyrra tilfelli þessara orða
 pdfjs-find-previous-button-label = Fyrri
@@ -131,6 +159,9 @@ pdfjs-page-scale-width = Síðubreidd
 pdfjs-page-scale-fit = Passa á síðu
 pdfjs-page-scale-auto = Sjálfvirkur aðdráttur
 pdfjs-page-scale-actual = Raunstærð
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -140,6 +171,7 @@ pdfjs-page-scale-actual = Raunstærð
 pdfjs-loading-error = Villa kom upp við að hlaða inn PDF.
 pdfjs-invalid-file-error = Ógild eða skemmd PDF skrá.
 pdfjs-missing-file-error = Vantar PDF skrá.
+pdfjs-unexpected-response-error = Óvænt svar frá netþjóni.
 
 ## Annotations
 
@@ -155,6 +187,8 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = Sláðu inn lykilorð til að opna þessa PDF skrá.
 pdfjs-password-invalid = Ógilt lykilorð. Reyndu aftur.
+pdfjs-password-ok-button = Í lagi
+pdfjs-password-cancel-button = Hætta við
 pdfjs-web-fonts-disabled = Vef leturgerðir eru óvirkar: get ekki notað innbyggðar PDF leturgerðir.
 
 ## Editing
