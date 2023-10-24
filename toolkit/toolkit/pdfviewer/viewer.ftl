@@ -11,12 +11,27 @@ pdfjs-previous-button-label = Προηγούμενη
 pdfjs-next-button =
     .title = Επόμενη σελίδα
 pdfjs-next-button-label = Επόμενη
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Σελίδα
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = από { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } από { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Σμίκρυνση
 pdfjs-zoom-out-button-label = Σμίκρυνση
 pdfjs-zoom-in-button =
     .title = Μεγέθυνση
 pdfjs-zoom-in-button-label = Μεγέθυνση
+pdfjs-zoom-select =
+    .title = Ζουμ
+pdfjs-presentation-mode-button =
+    .title = Εναλλαγή σε λειτουργία παρουσίασης
 pdfjs-presentation-mode-button-label = Λειτουργία παρουσίασης
 pdfjs-open-file-button =
     .title = Άνοιγμα αρχείου
@@ -33,12 +48,21 @@ pdfjs-tools-button-label = Εργαλεία
 pdfjs-first-page-button =
     .title = Μετάβαση στην πρώτη σελίδα
 pdfjs-first-page-button-label = Μετάβαση στην πρώτη σελίδα
+pdfjs-last-page-button =
+    .title = Μετάβαση στην τελευταία σελίδα
+pdfjs-last-page-button-label = Μετάβαση στην τελευταία σελίδα
 pdfjs-page-rotate-cw-button =
     .title = Δεξιόστροφη περιστροφή
 pdfjs-page-rotate-cw-button-label = Δεξιόστροφη περιστροφή
 pdfjs-page-rotate-ccw-button =
     .title = Αριστερόστροφη περιστροφή
 pdfjs-page-rotate-ccw-button-label = Αριστερόστροφη περιστροφή
+pdfjs-cursor-text-select-tool-button =
+    .title = Ενεργοποίηση εργαλείου επιλογής κειμένου
+pdfjs-cursor-text-select-tool-button-label = Εργαλείο επιλογής κειμένου
+pdfjs-cursor-hand-tool-button =
+    .title = Ενεργοποίηση εργαλείου χεριού
+pdfjs-cursor-hand-tool-button-label = Εργαλείο χεριού
 
 ## Document properties dialog
 
@@ -102,6 +126,9 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Εύρεση
+    .placeholder = Εύρεση στο έγγραφο…
 pdfjs-find-previous-button =
     .title = Εύρεση της προηγούμενης εμφάνισης της φράσης
 pdfjs-find-previous-button-label = Προηγούμενο
@@ -115,6 +142,7 @@ pdfjs-find-not-found = Η φράση δεν βρέθηκε
 
 pdfjs-page-scale-width = Πλάτος σελίδας
 pdfjs-page-scale-fit = Μέγεθος σελίδας
+pdfjs-page-scale-auto = Αυτόματο ζουμ
 pdfjs-page-scale-actual = Πραγματικό μέγεθος
 # Variables:
 #   $scale (Number) - percent value for page scale
