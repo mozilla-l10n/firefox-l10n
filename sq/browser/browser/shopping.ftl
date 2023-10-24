@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Shfaq reklama te kontrollori i shqyrtimeve
 shopping-settings-recommendations-learn-more = Do të shihni reklama me raste, për produkte të afërt. Krejt reklamat duhet të plotësojnë standarde cilësie të shqyrtimeve tona. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
+shopping-settings-recommendations-learn-more2 = Do të shihni reklama me raste, për produkte të afërt. Shfaqim reklama vetëm për produkte me shqyrtime të besueshme. <a data-l10n-name="review-quality-url">Mësoni më tepër</a>
 shopping-settings-opt-out-button = Çaktivizoje kontrollorin e shqyrtimeve
 powered-by-fakespot = Kontrollori i shqyrtimeve bazohet në <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
