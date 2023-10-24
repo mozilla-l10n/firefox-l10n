@@ -271,6 +271,12 @@ pdfjs-web-fonts-disabled = Os tipos de letra web estão desativados: não é pos
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Desenhar
+pdfjs-editor-ink-button-label = Desenhar
 pdfjs-editor-stamp-button =
     .title = Adicionar ou editar imagens
 pdfjs-editor-stamp-button-label = Adicionar ou editar imagens
@@ -283,7 +289,11 @@ pdfjs-editor-ink-opacity-input = Opacidade
 pdfjs-editor-stamp-add-image-button =
     .title = Adicionar imagem
 pdfjs-editor-stamp-add-image-button-label = Adicionar imagem
+pdfjs-free-text =
+    .aria-label = Editor de texto
 pdfjs-free-text-default-content = Começar a digitar…
+pdfjs-ink =
+    .aria-label = Editor de desenho
 pdfjs-ink-canvas =
     .aria-label = Imagem criada pelo utilizador
 
