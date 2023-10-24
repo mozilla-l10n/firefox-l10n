@@ -13,6 +13,10 @@ pdfjs-next-button =
 pdfjs-page-input =
     .title = Pahina
 # Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = ng { $pagesCount }
+# Variables:
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pageNumber } ng { $pagesCount })
