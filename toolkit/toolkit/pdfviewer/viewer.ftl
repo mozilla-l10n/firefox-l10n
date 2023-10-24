@@ -5,18 +5,45 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Iphepha langaphambili
 pdfjs-previous-button-label = Okwangaphambili
+pdfjs-next-button =
+    .title = Iphepha elilandelayo
 pdfjs-next-button-label = Okulandelayo
+pdfjs-zoom-out-button =
+    .title = Bhekelisela Kudana
+pdfjs-zoom-out-button-label = Bhekelisela Kudana
 pdfjs-zoom-in-button =
     .title = Sondeza Kufuphi
 pdfjs-zoom-in-button-label = Sondeza Kufuphi
 pdfjs-presentation-mode-button =
     .title = Tshintshela kwimo yonikezelo
 pdfjs-presentation-mode-button-label = Imo yonikezelo
+pdfjs-open-file-button =
+    .title = Vula Ifayile
 pdfjs-open-file-button-label = Vula
+pdfjs-print-button =
+    .title = Printa
+pdfjs-print-button-label = Printa
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Izixhobo zemiyalelo
+pdfjs-tools-button-label = Izixhobo zemiyalelo
+pdfjs-first-page-button =
+    .title = Yiya kwiphepha lokuqala
+pdfjs-first-page-button-label = Yiya kwiphepha lokuqala
+pdfjs-last-page-button =
+    .title = Yiya kwiphepha lokugqibela
+pdfjs-last-page-button-label = Yiya kwiphepha lokugqibela
+pdfjs-page-rotate-cw-button =
+    .title = Jikelisa ngasekunene
+pdfjs-page-rotate-cw-button-label = Jikelisa ngasekunene
+pdfjs-page-rotate-ccw-button =
+    .title = Jikelisa ngasekhohlo
+pdfjs-page-rotate-ccw-button-label = Jikelisa ngasekhohlo
 
 ## Document properties dialog
 
@@ -50,6 +77,14 @@ pdfjs-findbar-button =
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = Iphepha { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Ukrobiso kumfanekiso wephepha { $page }
 
 ## Find panel button title and messages
 
@@ -60,9 +95,16 @@ pdfjs-find-next-button =
     .title = Fumanisa isenzeko esilandelayo sebinzana lamagama
 pdfjs-find-next-button-label = Okulandelayo
 pdfjs-find-highlight-checkbox = Qaqambisa konke
+pdfjs-find-match-case-checkbox-label = Tshatisa ngobukhulu bukanobumba
+pdfjs-find-reached-top = Ufike ngaphezulu ephepheni, kusukwa ngezantsi
+pdfjs-find-reached-bottom = Ufike ekupheleni kwephepha, kusukwa ngaphezulu
+pdfjs-find-not-found = Ibinzana alifunyenwanga
 
 ## Predefined zoom values
 
+pdfjs-page-scale-width = Ububanzi bephepha
+pdfjs-page-scale-fit = Ukulinganiswa kwephepha
+pdfjs-page-scale-auto = Ukwandisa/Ukunciphisa Ngokwayo
 pdfjs-page-scale-actual = Ubungakanani bokwenene
 
 ## PDF page
@@ -76,9 +118,19 @@ pdfjs-missing-file-error = Ifayile ye-PDF edukileyo.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Ubhalo-nqaku]
 
 ## Password
 
+pdfjs-password-label = Faka ipasiwedi ukuze uvule le fayile yePDF.
+pdfjs-password-invalid = Ipasiwedi ayisebenzi. Nceda uzame kwakhona.
+pdfjs-password-ok-button = KULUNGILE
 pdfjs-web-fonts-disabled = Iifonti zewebhu ziqhwalelisiwe: ayikwazi ukusebenzisa iifonti ze-PDF ezincanyathelisiweyo.
 
 ## Editing
