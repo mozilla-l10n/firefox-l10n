@@ -57,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Cylchdroi Clocwedd
 pdfjs-page-rotate-ccw-button =
     .title = Cylchdroi Gwrthglocwedd
 pdfjs-page-rotate-ccw-button-label = Cylchdroi Gwrthglocwedd
+pdfjs-cursor-text-select-tool-button =
+    .title = Galluogi Dewis Offeryn Testun
+pdfjs-cursor-text-select-tool-button-label = Offeryn Dewis Testun
+pdfjs-cursor-hand-tool-button =
+    .title = Galluogi Offeryn Llaw
+pdfjs-cursor-hand-tool-button-label = Offeryn Llaw
 
 ## Document properties dialog
 
@@ -136,6 +142,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = Lluniau Bach
 pdfjs-findbar-button =
     .title = Canfod yn y Ddogfen
+pdfjs-findbar-button-label = Canfod
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -150,6 +157,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Canfod
+    .placeholder = Canfod yn y ddogfen…
 pdfjs-find-previous-button =
     .title = Canfod enghraifft flaenorol o'r ymadrodd
 pdfjs-find-previous-button-label = Blaenorol
