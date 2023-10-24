@@ -18,6 +18,7 @@ autofill-manage-edit-button = Таҳрир кардан…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Нишониро нигоҳ медоред?
+address-capture-save-doorhanger-description = Маълумотро ба «{ -brand-short-name }» нигоҳ доред, то ки шумо тавонед шаклҳоро тез пур намоед.
 address-capture-update-doorhanger-header = Нишониро навсозӣ мекунед?
 address-capture-edit-doorhanger-header = Таҳрир кардани нишонӣ
 address-capture-save-button =
