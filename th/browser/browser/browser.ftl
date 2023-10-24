@@ -908,6 +908,24 @@ unified-extensions-button-quarantined =
         ส่วนขยาย
         ไม่ได้อนุญาตส่วนขยายบางตัว
 
+## Private browsing reset button
+
+reset-pbm-toolbar-button =
+    .label = จบวาระส่วนตัว
+    .tooltiptext = จบวาระส่วนตัว
+reset-pbm-panel-heading = จบวาระส่วนตัวของคุณหรือไม่?
+reset-pbm-panel-description = ปิดแท็บส่วนตัวทั้งหมดและลบประวัติ คุกกี้ และข้อมูลไซต์อื่น ๆ ทั้งหมด
+reset-pbm-panel-always-ask-checkbox =
+    .label = ถามฉันเสมอ
+    .accesskey = ส
+reset-pbm-panel-cancel-button =
+    .label = ยกเลิก
+    .accesskey = ย
+reset-pbm-panel-confirm-button =
+    .label = ลบข้อมูลวาระ
+    .accesskey = ล
+reset-pbm-panel-complete = ลบข้อมูลวาระส่วนตัวแล้ว
+
 ## Autorefresh blocker
 
 refresh-blocked-refresh-label = { -brand-short-name } ได้ป้องกันไม่ให้หน้านี้โหลดใหม่โดยอัตโนมัติ
