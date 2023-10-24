@@ -5,6 +5,7 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-next-button-label = Berikut
 pdfjs-zoom-out-button =
     .title = Zum Keluar
 pdfjs-zoom-out-button-label = Zum Keluar
@@ -17,9 +18,27 @@ pdfjs-presentation-mode-button-label = Mod Persembahan
 pdfjs-open-file-button =
     .title = Buka Fail
 pdfjs-open-file-button-label = Buka
+pdfjs-print-button =
+    .title = Cetak
+pdfjs-print-button-label = Cetak
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Alatan
+pdfjs-tools-button-label = Alatan
+pdfjs-first-page-button =
+    .title = Pergi ke Halaman Pertama
+pdfjs-first-page-button-label = Pergi ke Halaman Pertama
+pdfjs-last-page-button =
+    .title = Pergi ke Halaman Terakhir
+pdfjs-last-page-button-label = Pergi ke Halaman Terakhir
+pdfjs-page-rotate-cw-button =
+    .title = Berputar ikut arah Jam
+pdfjs-page-rotate-cw-button-label = Berputar ikut arah Jam
+pdfjs-page-rotate-ccw-button =
+    .title = Pusing berlawan arah jam
+pdfjs-page-rotate-ccw-button-label = Pusing berlawan arah jam
 
 ## Document properties dialog
 
@@ -38,9 +57,13 @@ pdfjs-open-file-button-label = Buka
 ## Print
 
 pdfjs-printing-not-supported = Amaran: Cetakan ini tidak sepenuhnya disokong oleh pelayar ini.
+pdfjs-printing-not-ready = Amaran: PDF tidak sepenuhnya dimuatkan untuk dicetak.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Togol Bar Sisi
+pdfjs-toggle-sidebar-button-label = Togol Bar Sisi
 pdfjs-thumbs-button-label = Imej kecil
 pdfjs-findbar-button =
     .title = Cari didalam Dokumen
@@ -89,6 +112,10 @@ pdfjs-invalid-file-error = Tidak sah atau fail PDF rosak.
 
 ## Password
 
+pdfjs-password-label = Masukan kata kunci untuk membuka fail PDF ini.
+pdfjs-password-invalid = Kata laluan salah. Cuba lagi.
+pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Batal
 
 ## Editing
 
