@@ -25,9 +25,27 @@ pdfjs-presentation-mode-button-label = Trib prezentacje
 pdfjs-open-file-button =
     .title = Òtemkni lopk
 pdfjs-open-file-button-label = Òtemkni
+pdfjs-print-button =
+    .title = Drëkùjë
+pdfjs-print-button-label = Drëkùjë
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Tools
+pdfjs-tools-button-label = Nôrzãdła
+pdfjs-first-page-button =
+    .title = Biéj do pierszi stronë
+pdfjs-first-page-button-label = Go to First Page
+pdfjs-last-page-button =
+    .title = Biéj do pòprzédny stronë
+pdfjs-last-page-button-label = Biéj do pòprzédny stronë
+pdfjs-page-rotate-cw-button =
+    .title = Òbkrãcë w prawò
+pdfjs-page-rotate-cw-button-label = Òbkrãcë w prawò
+pdfjs-page-rotate-ccw-button =
+    .title = Òbkrãcë w lewò
+pdfjs-page-rotate-ccw-button-label = Òbkrãcë w lewò
 
 ## Document properties dialog
 
@@ -45,6 +63,8 @@ pdfjs-open-file-button-label = Òtemkni
 
 ## Print
 
+pdfjs-printing-not-supported = Òstrzéga: przezérnik nie je do kùńca wspieróny przez drëkôrze
+pdfjs-printing-not-ready = Òstrzéga: lopk mùszi sã do kùńca wczëtac zanim gò mòże drëkòwac
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -71,6 +91,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Biéj do pòprzédnégò wënikù szëkbë
+pdfjs-find-previous-button-label = Pòprzédny
+pdfjs-find-next-button =
+    .title = Biéj do nôslédnégò wënikù szëkbë
+pdfjs-find-next-button-label = Nôslédny
+pdfjs-find-highlight-checkbox = Pòdszkrzëni wszëtczé
+pdfjs-find-match-case-checkbox-label = Rozeznôwôj miarã lëterów
+pdfjs-find-reached-top = Doszedł do pòczątkù dokùmentu, zaczinającë òd dołù
+pdfjs-find-reached-bottom = Doszedł do kùńca dokùmentu, zaczinającë òd górë
+pdfjs-find-not-found = Nie nalôzł tekstu
 
 ## Predefined zoom values
 
@@ -85,9 +116,19 @@ pdfjs-page-scale-actual = Naturalnô wiôlgòsc
 ## Loading indicator messages
 
 pdfjs-loading-error = Pòkôza sã fela przë wczëtiwanim PDFù.
+pdfjs-invalid-file-error = Lëchi ôrt, abò pòpsëti lopk PDF.
+pdfjs-missing-file-error = Felëje lopka PDF.
+pdfjs-rendering-error = Pòkôza sã fela przë renderowanim stronë.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Adnotacjô { $type }]
 
 ## Password
 
