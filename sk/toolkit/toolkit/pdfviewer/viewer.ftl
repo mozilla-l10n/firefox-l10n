@@ -231,10 +231,10 @@ pdfjs-find-reached-bottom = Bol dosiahnutý koniec stránky, pokračuje sa od za
 #   $total (Number) - the total number of matches in the document
 pdfjs-find-match-count =
     { $total ->
-        [one] { $current }. z { $total } výskytu
-        [few] { $current }. z { $total } výskytov
-        [many] { $current }. z { $total } výskytov
-       *[other] { $current }. z { $total } výskytov
+        [one] Výskyt { $current } z { $total }
+        [few] Výskyt { $current } z { $total }
+        [many] Výskyt { $current } z { $total }
+       *[other] Výskyt { $current } z { $total }
     }
 # Variables:
 #   $limit (Number) - the maximum number of matches
