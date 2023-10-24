@@ -172,6 +172,7 @@ pdfjs-thumbs-button-label = Mga thumbnail
 pdfjs-findbar-button =
     .title = Hanapin sa Dokumento
 pdfjs-findbar-button-label = Hanapin
+pdfjs-additional-layers = Mga Karagdagang Layer
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -221,6 +222,7 @@ pdfjs-loading-error = Nagkaproblema habang niloload ang PDF.
 pdfjs-invalid-file-error = Di-wasto o sira ang PDF file.
 pdfjs-missing-file-error = Nawawalang PDF file.
 pdfjs-unexpected-response-error = Hindi inaasahang tugon ng server.
+pdfjs-rendering-error = Nagkaproblema habang nirerender ang pahina.
 
 ## Annotations
 
