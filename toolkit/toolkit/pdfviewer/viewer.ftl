@@ -57,6 +57,30 @@ pdfjs-page-rotate-cw-button-label = ডানদিকে ঘোরানো হ
 pdfjs-page-rotate-ccw-button =
     .title = বাঁদিকে ঘোরানো হবে
 pdfjs-page-rotate-ccw-button-label = বাঁদিকে ঘোরানো হবে
+pdfjs-cursor-text-select-tool-button =
+    .title = টেক্সট নির্বাচন সরঞ্জাম সক্রিয় করুন
+pdfjs-cursor-text-select-tool-button-label = টেক্সট নির্বাচনের সরঞ্জাম
+pdfjs-cursor-hand-tool-button =
+    .title = হ্যান্ড টুল সক্রিয় করুন
+pdfjs-cursor-hand-tool-button-label = হ্যান্ড টুল
+pdfjs-scroll-vertical-button =
+    .title = উল্লম্ব স্ক্রোলিং ব্যবহার করুন
+pdfjs-scroll-vertical-button-label = উল্লম্ব স্ক্রোলিং
+pdfjs-scroll-horizontal-button =
+    .title = অনুভূমিক স্ক্রোলিং ব্যবহার করুন
+pdfjs-scroll-horizontal-button-label = অনুভূমিক স্ক্রোলিং
+pdfjs-scroll-wrapped-button =
+    .title = আবৃত স্ক্রোলিং ব্যবহার করুন
+pdfjs-scroll-wrapped-button-label = আবৃত স্ক্রোলিং
+pdfjs-spread-none-button =
+    .title = ছড়িয়ে পরা পাতাকে যোগ করবেন না
+pdfjs-spread-none-button-label = ছড়ানো নয়
+pdfjs-spread-odd-button =
+    .title = বিজোড়-সংখ্যার পৃষ্ঠাগুলির সাথে শুরু হওয়া পৃষ্ঠা স্প্রেডগুলিতে যোগদান করুন
+pdfjs-spread-odd-button-label = বিজোড় স্প্রেডস
+pdfjs-spread-even-button =
+    .title = জোড়-সংখ্যার পৃষ্ঠাগুলির সাথে শুরু হওয়া পৃষ্ঠা স্প্রেডগুলিতে যোগদান করুন
+pdfjs-spread-even-button-label = জোড় স্প্রেড
 
 ## Document properties dialog
 
@@ -87,6 +111,15 @@ pdfjs-document-properties-creator = নির্মাতা:
 pdfjs-document-properties-producer = PDF নির্মাতা:
 pdfjs-document-properties-version = PDF সংস্করণ:
 pdfjs-document-properties-page-count = মোট পৃষ্ঠা:
+pdfjs-document-properties-page-size = পৃষ্ঠার সাইজ:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = উলম্ব
+pdfjs-document-properties-page-size-orientation-landscape = আড়াআড়ি
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = লেটার
+pdfjs-document-properties-page-size-name-legal = লিগাল
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -95,9 +128,16 @@ pdfjs-document-properties-page-count = মোট পৃষ্ঠা:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = দ্রুত ওয়েব প্রদর্শন:
+pdfjs-document-properties-linearized-yes = হ্যাঁ
+pdfjs-document-properties-linearized-no = না
 pdfjs-document-properties-close-button = বন্ধ করুন
 
 ## Print
@@ -141,6 +181,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = খুঁজুন
+    .placeholder = নথির মধ্যে খুঁজুন…
 pdfjs-find-previous-button =
     .title = চিহ্নিত পংক্তির পূর্ববর্তী উপস্থিতি অনুসন্ধান করুন
 pdfjs-find-previous-button-label = পূর্ববর্তী
@@ -149,6 +192,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = পরবর্তী
 pdfjs-find-highlight-checkbox = সমগ্র উজ্জ্বল করুন
 pdfjs-find-match-case-checkbox-label = হরফের ছাঁদ মেলানো হবে
+pdfjs-find-entire-word-checkbox-label = সম্পূর্ণ শব্দগুলি
 pdfjs-find-reached-top = পৃষ্ঠার প্রারম্ভে পৌছে গেছে, নীচের অংশ থেকে আরম্ভ করা হবে
 pdfjs-find-reached-bottom = পৃষ্ঠার অন্তিম প্রান্তে পৌছে গেছে, প্রথম অংশ থেকে আরম্ভ করা হবে
 pdfjs-find-not-found = পংক্তি পাওয়া যায়নি
