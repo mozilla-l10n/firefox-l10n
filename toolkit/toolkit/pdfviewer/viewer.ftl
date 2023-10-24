@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Trenutni predmet orisa
 pdfjs-findbar-button =
     .title = Iskanje po dokumentu
 pdfjs-findbar-button-label = Najdi
+pdfjs-additional-layers = Dodatne plasti
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
