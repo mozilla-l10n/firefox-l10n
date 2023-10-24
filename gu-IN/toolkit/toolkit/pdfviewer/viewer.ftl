@@ -96,6 +96,15 @@ pdfjs-document-properties-creator = નિર્માતા:
 pdfjs-document-properties-producer = PDF નિર્માતા:
 pdfjs-document-properties-version = PDF આવૃત્તિ:
 pdfjs-document-properties-page-count = પાનાં ગણતરી:
+pdfjs-document-properties-page-size = પૃષ્ઠનું કદ:
+pdfjs-document-properties-page-size-unit-inches = ઇંચ
+pdfjs-document-properties-page-size-unit-millimeters = મીમી
+pdfjs-document-properties-page-size-orientation-portrait = ઉભું
+pdfjs-document-properties-page-size-orientation-landscape = આડુ
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = પત્ર
+pdfjs-document-properties-page-size-name-legal = કાયદાકીય
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -105,9 +114,12 @@ pdfjs-document-properties-page-count = પાનાં ગણતરી:
 ##   $orientation (String) - the orientation of the (current) page
 
 pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = હા
+pdfjs-document-properties-linearized-no = ના
 pdfjs-document-properties-close-button = બંધ કરો
 
 ## Print
