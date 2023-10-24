@@ -34,6 +34,7 @@ pdfjs-print-button-label = Prente
 
 ## Document properties dialog
 
+pdfjs-document-properties-title = Ti asɛm:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -56,6 +57,7 @@ pdfjs-printing-not-ready = Kɔkɔbɔ: Wɔnntwee PDF fael no nyinara mmbaee ama w
 pdfjs-toggle-sidebar-button =
     .title = Sɔ anaaso dum saedbaa
 pdfjs-toggle-sidebar-button-label = Sɔ anaaso dum saedbaa
+pdfjs-document-outline-button-label = Dɔkomɛnt bɔbea
 pdfjs-thumbs-button =
     .title = Kyerɛ mfoniwaa
 pdfjs-thumbs-button-label = Mfoniwaa
@@ -115,6 +117,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-ok-button = OK
 pdfjs-web-fonts-disabled = Ɔedum wɛb-mfɔnt: nntumi mmfa PDF mfɔnt a wɔhyɛ mu nndi dwuma.
 
 ## Editing
