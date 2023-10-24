@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Nykyinen sisällyksen kohta
 pdfjs-findbar-button =
     .title = Etsi dokumentista
 pdfjs-findbar-button-label = Etsi
+pdfjs-additional-layers = Lisätasot
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
