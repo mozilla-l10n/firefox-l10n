@@ -308,10 +308,14 @@ pdfjs-ink-canvas =
 # Alternative text (alt text) helps when people can't see the image.
 pdfjs-editor-alt-text-button-label = Alternativ tekst
 pdfjs-editor-alt-text-edit-button-label = Rediger alternativ tekst
+pdfjs-editor-alt-text-dialog-label = Vælg en indstilling
 pdfjs-editor-alt-text-dialog-description = Alternativ tekst hjælper folk, som ikke kan se billedet eller når det ikke indlæses.
+pdfjs-editor-alt-text-add-description-label = Tilføj en beskrivelse
 pdfjs-editor-alt-text-add-description-description = Sigt efter en eller to sætninger, der beskriver emnet, omgivelserne eller handlinger.
 pdfjs-editor-alt-text-mark-decorative-label = Marker som dekorativ
 pdfjs-editor-alt-text-mark-decorative-description = Dette bruges for dekorative billeder som rammer eller vandmærker.
+pdfjs-editor-alt-text-cancel-button = Annuller
+pdfjs-editor-alt-text-save-button = Gem
 pdfjs-editor-alt-text-decorative-tooltip = Markeret som dekorativ
 # .placeholder: This is a placeholder for the alt text input area
 pdfjs-editor-alt-text-textarea =
