@@ -75,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Eina de selecció de text
 pdfjs-cursor-hand-tool-button =
     .title = Habilita l'eina de mà
 pdfjs-cursor-hand-tool-button-label = Eina de mà
+pdfjs-scroll-page-button =
+    .title = Usa el desplaçament de pàgina
+pdfjs-scroll-page-button-label = Desplaçament de pàgina
 pdfjs-scroll-vertical-button =
     .title = Utilitza el desplaçament vertical
 pdfjs-scroll-vertical-button-label = Desplaçament vertical
@@ -166,18 +169,28 @@ pdfjs-printing-not-ready = Atenció: el PDF no s'ha acabat de carregar per impri
 
 pdfjs-toggle-sidebar-button =
     .title = Mostra/amaga la barra lateral
+pdfjs-toggle-sidebar-notification-button =
+    .title = Mostra/amaga la barra lateral (el document conté un esquema, adjuncions o capes)
 pdfjs-toggle-sidebar-button-label = Mostra/amaga la barra lateral
 pdfjs-document-outline-button =
     .title = Mostra l'esquema del document (doble clic per ampliar/reduir tots els elements)
+pdfjs-document-outline-button-label = Esquema del document
 pdfjs-attachments-button =
     .title = Mostra les adjuncions
 pdfjs-attachments-button-label = Adjuncions
+pdfjs-layers-button =
+    .title = Mostra les capes (doble clic per restablir totes les capes al seu estat per defecte)
+pdfjs-layers-button-label = Capes
 pdfjs-thumbs-button =
     .title = Mostra les miniatures
 pdfjs-thumbs-button-label = Miniatures
+pdfjs-current-outline-item-button =
+    .title = Cerca l'element d'esquema actual
+pdfjs-current-outline-item-button-label = Element d'esquema actual
 pdfjs-findbar-button =
     .title = Cerca al document
 pdfjs-findbar-button-label = Cerca
+pdfjs-additional-layers = Capes addicionals
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -221,6 +234,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Pàgina { $page }
 
 ## Loading indicator messages
 
