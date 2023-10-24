@@ -216,6 +216,7 @@ pdfjs-loading-error = Masalah berlaku semasa menuatkan sebuah PDF.
 pdfjs-invalid-file-error = Tidak sah atau fail PDF rosak.
 pdfjs-missing-file-error = Fail PDF Hilang.
 pdfjs-unexpected-response-error = Respon pelayan yang tidak dijangka.
+pdfjs-rendering-error = Ralat berlaku ketika memberikan halaman.
 
 ## Annotations
 
