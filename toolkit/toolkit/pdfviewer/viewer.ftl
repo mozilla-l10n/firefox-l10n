@@ -55,6 +55,7 @@ pdfjs-cursor-text-select-tool-button =
     .title = Activează instrumentul de selecție a textului
 pdfjs-cursor-hand-tool-button =
     .title = Activează instrumentul mână
+pdfjs-cursor-hand-tool-button-label = Unealta mână
 
 ## Document properties dialog
 
@@ -103,6 +104,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-linearized-yes = Da
+pdfjs-document-properties-linearized-no = Nu
 pdfjs-document-properties-close-button = Închide
 
 ## Print
@@ -127,6 +130,7 @@ pdfjs-attachments-button-label = Atașamente
 pdfjs-thumbs-button =
     .title = Afișează miniaturi
 pdfjs-thumbs-button-label = Miniaturi
+pdfjs-findbar-button-label = Caută
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -141,6 +145,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Caută
+    .placeholder = Caută în document…
 pdfjs-find-highlight-checkbox = Evidențiază toate aparițiile
 pdfjs-find-reached-top = Am ajuns la începutul documentului, continuă de la sfârșit
 pdfjs-find-reached-bottom = Am ajuns la sfârșitul documentului, continuă de la început
