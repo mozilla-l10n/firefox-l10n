@@ -5,10 +5,23 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Pagina primma
 pdfjs-previous-button-label = Precedente
 pdfjs-next-button =
     .title = Pagina dòppo
 pdfjs-next-button-label = Pròscima
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Pagina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Diminoisci zoom
 pdfjs-zoom-out-button-label = Diminoisci zoom
@@ -80,6 +93,11 @@ pdfjs-document-properties-close-button = Særa
 
 ## Print
 
+pdfjs-print-progress-message = Praparo o documento pe-a stanpa…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Anulla
 pdfjs-printing-not-supported = Atençion: a stanpa a no l'é conpletamente soportâ da sto navegatô.
 pdfjs-printing-not-ready = Atençion: o PDF o no l'é ancon caregou conpletamente pe-a stanpa.
 
@@ -88,6 +106,9 @@ pdfjs-printing-not-ready = Atençion: o PDF o no l'é ancon caregou conpletament
 pdfjs-toggle-sidebar-button =
     .title = Ativa/dizativa bara de scianco
 pdfjs-toggle-sidebar-button-label = Ativa/dizativa bara de scianco
+pdfjs-document-outline-button =
+    .title = Fanni vedde o contorno do documento (scicca doggio pe espande/ridue tutti i elementi)
+pdfjs-document-outline-button-label = Contorno do documento
 pdfjs-attachments-button =
     .title = Fanni vedde alegæ
 pdfjs-attachments-button-label = Alegæ
