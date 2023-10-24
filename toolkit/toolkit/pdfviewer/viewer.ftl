@@ -36,6 +36,9 @@ pdfjs-presentation-mode-button-label = Präsentationsmodus
 pdfjs-open-file-button =
     .title = Datei öffnen
 pdfjs-open-file-button-label = Öffnen
+pdfjs-print-button =
+    .title = Drucken
+pdfjs-print-button-label = Drucken
 
 ##  Secondary toolbar and context menu
 
@@ -181,6 +184,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Weiter
 pdfjs-find-highlight-checkbox = Alle hervorheben
 pdfjs-find-match-case-checkbox-label = Groß-/Kleinschreibung beachten
+pdfjs-find-entire-word-checkbox-label = Ganze Wörter
 pdfjs-find-reached-top = Anfang des Dokuments erreicht, fahre am Ende fort
 pdfjs-find-reached-bottom = Ende des Dokuments erreicht, fahre am Anfang fort
 pdfjs-find-not-found = Suchbegriff nicht gefunden
