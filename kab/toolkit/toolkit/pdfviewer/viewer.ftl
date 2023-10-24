@@ -48,6 +48,9 @@ pdfjs-download-button =
 # Used in Firefox for Android as a label for the download button (“download” is a verb).
 # Length of the translation matters since we are in a mobile context, with limited screen estate.
 pdfjs-download-button-label = Sader
+pdfjs-bookmark-button =
+    .title = Asebter amiran (Sken-d tansa URL seg usebter amiran)
+pdfjs-bookmark-button-label = Asebter amiran
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
     .title = Ldi deg usnas
