@@ -11,6 +11,9 @@ pdfjs-previous-button-label = മുമ്പു്
 pdfjs-next-button =
     .title = അടുത്ത താള്‍
 pdfjs-next-button-label = അടുത്തതു്
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = താള്‍
 pdfjs-zoom-out-button =
     .title = ചെറുതാക്കുക
 pdfjs-zoom-out-button-label = ചെറുതാക്കുക
@@ -108,6 +111,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = തംബ്നെയിലുകള്‍
 pdfjs-findbar-button =
     .title = രേഖയില്‍ കണ്ടുപിടിയ്ക്കുക
+pdfjs-findbar-button-label = കണ്ടെത്തുക
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -122,6 +126,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = കണ്ടെത്തുക
+    .placeholder = ഡോക്യുമെന്റില്‍ കണ്ടെത്തുക…
 pdfjs-find-previous-button =
     .title = വാചകം ഇതിനു മുന്‍പ്‌ ആവര്‍ത്തിച്ചത്‌ കണ്ടെത്തുക
 pdfjs-find-previous-button-label = മുമ്പു്
@@ -169,6 +176,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = ഈ പിഡിഎഫ് ഫയല്‍ തുറക്കുന്നതിനു് രഹസ്യവാക്ക് നല്‍കുക.
 pdfjs-password-invalid = തെറ്റായ രഹസ്യവാക്ക്, ദയവായി വീണ്ടും ശ്രമിയ്ക്കുക.
 pdfjs-password-ok-button = ശരി
+pdfjs-password-cancel-button = റദ്ദാക്കുക
 pdfjs-web-fonts-disabled = വെബിനുള്ള അക്ഷരസഞ്ചയങ്ങള്‍ പ്രവര്‍ത്തന രഹിതം: എംബഡ്ഡ് ചെയ്ത പിഡിഎഫ് അക്ഷരസഞ്ചയങ്ങള്‍ ഉപയോഗിയ്ക്കുവാന്‍ സാധ്യമല്ല.
 
 ## Editing
