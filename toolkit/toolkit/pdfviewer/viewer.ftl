@@ -44,6 +44,12 @@ pdfjs-page-rotate-cw-button-label = 시계방향으로 회전
 pdfjs-page-rotate-ccw-button =
     .title = 시계 반대방향으로 회전
 pdfjs-page-rotate-ccw-button-label = 시계 반대방향으로 회전
+pdfjs-cursor-text-select-tool-button =
+    .title = 텍스트 선택 도구 활성화
+pdfjs-cursor-text-select-tool-button-label = 텍스트 선택 도구
+pdfjs-cursor-hand-tool-button =
+    .title = 손 도구 활성화
+pdfjs-cursor-hand-tool-button-label = 손 도구
 pdfjs-scroll-vertical-button =
     .title = 세로 스크롤 사용
 pdfjs-scroll-vertical-button-label = 세로 스크롤
@@ -126,6 +132,9 @@ pdfjs-findbar-button-label = 검색
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = 찾기
+    .placeholder = 문서에서 찾기…
 pdfjs-find-previous-button =
     .title = 지정 문자열에 일치하는 1개 부분을 검색
 pdfjs-find-previous-button-label = 이전
