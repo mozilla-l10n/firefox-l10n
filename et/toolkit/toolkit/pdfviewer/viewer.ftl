@@ -233,6 +233,7 @@ pdfjs-loading-error = PDFi laadimisel esines viga.
 pdfjs-invalid-file-error = Vigane või rikutud PDF-fail.
 pdfjs-missing-file-error = PDF-fail puudub.
 pdfjs-unexpected-response-error = Ootamatu vastus serverilt.
+pdfjs-rendering-error = Lehe renderdamisel esines viga.
 
 ## Annotations
 
