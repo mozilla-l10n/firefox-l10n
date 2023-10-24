@@ -7,8 +7,10 @@
 
 pdfjs-previous-button =
     .title = หน้าก่อนหน้า
+pdfjs-previous-button-label = ก่อนหน้า
 pdfjs-next-button =
     .title = หน้าถัดไป
+pdfjs-next-button-label = ถัดไป
 pdfjs-open-file-button-label = เปิด
 pdfjs-print-button =
     .title = พิมพ์
@@ -55,6 +57,8 @@ pdfjs-printing-not-ready = คำเตือน: PDF ไม่ได้รั�
 pdfjs-thumbs-button =
     .title = แสดงภาพขนาดย่อ
 pdfjs-thumbs-button-label = ภาพขนาดย่อ
+pdfjs-findbar-button =
+    .title = ค้นหาในเอกสาร
 pdfjs-findbar-button-label = ค้นหา
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -63,9 +67,18 @@ pdfjs-findbar-button-label = ค้นหา
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = หน้า { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = ภาพขนาดย่อของหน้า { $page }
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = ก่อนหน้า
+pdfjs-find-next-button-label = ถัดไป
+pdfjs-find-highlight-checkbox = เน้นสีทั้งหมด
+pdfjs-find-reached-top = ค้นหาถึงจุดเริ่มต้นของหน้า เริ่มค้นต่อจากด้านล่าง
+pdfjs-find-reached-bottom = ค้นหาถึงจุดสิ้นสุดหน้า เริ่มค้นต่อจากด้านบน
 
 ## Predefined zoom values
 
