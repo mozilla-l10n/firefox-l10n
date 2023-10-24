@@ -34,10 +34,23 @@ pdfjs-print-button-label = છારો
 pdfjs-tools-button =
     .title = સાધનો
 pdfjs-tools-button-label = સાધનો
+pdfjs-first-page-button =
+    .title = પહેલાં પાનામાં જાવ
 pdfjs-first-page-button-label = પ્રથમ પાનાં પર જાવ
+pdfjs-last-page-button =
+    .title = છેલ્લા પાનાં પર જાવ
 pdfjs-last-page-button-label = છેલ્લા પાનાં પર જાવ
+pdfjs-page-rotate-cw-button =
+    .title = ઘડિયાળનાં કાંટા તરફ ફેરવો
 pdfjs-page-rotate-cw-button-label = ઘડિયાળનાં કાંટા તરફ ફેરવો
+pdfjs-page-rotate-ccw-button =
+    .title = ઘડિયાળનાં કાંટાની ઉલટી દિશામાં ફેરવો
 pdfjs-page-rotate-ccw-button-label = ઘડિયાળનાં કાંટાની વિરુદ્દ ફેરવો
+pdfjs-cursor-hand-tool-button =
+    .title = હાથનાં સાધનને સક્રિય કરો
+pdfjs-scroll-vertical-button =
+    .title = ઊભી સ્ક્રોલિંગનો ઉપયોગ કરો
+pdfjs-scroll-vertical-button-label = ઊભી સ્ક્રોલિંગ
 
 ## Document properties dialog
 
@@ -76,6 +89,7 @@ pdfjs-document-properties-page-count = પાનાં ગણતરી:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
 
 ##
 
@@ -83,6 +97,11 @@ pdfjs-document-properties-close-button = બંધ કરો
 
 ## Print
 
+pdfjs-print-progress-message = છાપકામ માટે દસ્તાવેજ તૈયાર કરી રહ્યા છે…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = રદ કરો
 pdfjs-printing-not-supported = ચેતવણી: છાપવાનું આ બ્રાઉઝર દ્દારા સંપૂર્ણપણે આધારભૂત નથી.
 pdfjs-printing-not-ready = Warning: PDF એ છાપવા માટે સંપૂર્ણપણે લાવેલ છે.
 
@@ -115,6 +134,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = શોધો
+    .placeholder = દસ્તાવેજમાં શોધો…
 pdfjs-find-previous-button =
     .title = શબ્દસમૂહની પાછલી ઘટનાને શોધો
 pdfjs-find-previous-button-label = પહેલાંનુ
@@ -133,6 +155,9 @@ pdfjs-page-scale-width = પાનાની પહોળાઇ
 pdfjs-page-scale-fit = પાનું બંધબેસતુ
 pdfjs-page-scale-auto = આપમેળે નાનુંમોટુ કરો
 pdfjs-page-scale-actual = ચોક્કસ માપ
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -158,6 +183,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = આ PDF ફાઇલને ખોલવા પાસવર્ડને દાખલ કરો.
 pdfjs-password-invalid = અયોગ્ય પાસવર્ડ. મહેરબાની કરીને ફરી પ્રયત્ન કરો.
 pdfjs-password-ok-button = બરાબર
+pdfjs-password-cancel-button = રદ કરો
 pdfjs-web-fonts-disabled = વેબ ફોન્ટ નિષ્ક્રિય થયેલ છે: ઍમ્બેડ થયેલ PDF ફોન્ટને વાપરવાનું અસમર્થ.
 
 ## Editing
