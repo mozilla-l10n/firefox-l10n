@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = 현재 아웃라인 항목
 pdfjs-findbar-button =
     .title = 검색
 pdfjs-findbar-button-label = 검색
+pdfjs-additional-layers = 추가 레이어
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
