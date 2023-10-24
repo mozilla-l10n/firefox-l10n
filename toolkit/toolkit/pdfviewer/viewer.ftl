@@ -11,6 +11,13 @@ pdfjs-previous-button-label = Precedent
 pdfjs-next-button =
     .title = Pagina seguenta
 pdfjs-next-button-label = Seguent
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Pagina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = sus { $pagesCount }
 pdfjs-zoom-out-button =
     .title = Zoom arrièr
 pdfjs-zoom-out-button-label = Zoom arrièr
@@ -19,6 +26,8 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Zoom avant
 pdfjs-zoom-select =
     .title = Zoom
+pdfjs-presentation-mode-button =
+    .title = Bascular en mòde presentacion
 pdfjs-presentation-mode-button-label = Mòde Presentacion
 pdfjs-open-file-button =
     .title = Dobrir lo fichièr
@@ -47,6 +56,9 @@ pdfjs-page-rotate-ccw-button-label = Rotacion antiorària
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = Nom del fichièr :
+pdfjs-document-properties-title = Títol :
+pdfjs-document-properties-keywords = Mots claus :
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -58,15 +70,21 @@ pdfjs-page-rotate-ccw-button-label = Rotacion antiorària
 
 ##
 
+pdfjs-document-properties-close-button = Tampar
 
 ## Print
 
+pdfjs-print-progress-close-button = Anullar
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
     .title = Afichar/amagar lo panèl lateral
 pdfjs-toggle-sidebar-button-label = Afichar/amagar lo panèl lateral
+pdfjs-document-outline-button-label = Marcapaginas del document
+pdfjs-attachments-button =
+    .title = Visualizar las pèças juntas
+pdfjs-attachments-button-label = Pèças juntas
 pdfjs-thumbs-button =
     .title = Afichar las vinhetas
 pdfjs-thumbs-button-label = Vinhetas
@@ -122,7 +140,10 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Picatz lo senhal per dobrir aqueste fichièr PDF.
+pdfjs-password-invalid = Senhal incorrècte. Tornatz ensajar.
 pdfjs-password-ok-button = D'acòrdi
+pdfjs-password-cancel-button = Anullar
 
 ## Editing
 
