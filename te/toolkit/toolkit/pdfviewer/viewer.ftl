@@ -5,6 +5,8 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = మునుపటి పేజీ
 pdfjs-previous-button-label = క్రితం
 pdfjs-next-button =
     .title = తరువాత పేజీ
@@ -38,6 +40,12 @@ pdfjs-first-page-button-label = మొదటి పేజీకి వెళ్�
 pdfjs-last-page-button =
     .title = చివరి పేజీకి వెళ్ళు
 pdfjs-last-page-button-label = చివరి పేజీకి వెళ్ళు
+pdfjs-page-rotate-cw-button =
+    .title = సవ్యదిశలో తిప్పు
+pdfjs-page-rotate-cw-button-label = సవ్యదిశలో తిప్పు
+pdfjs-page-rotate-ccw-button =
+    .title = అపసవ్యదిశలో తిప్పు
+pdfjs-page-rotate-ccw-button-label = అపసవ్యదిశలో తిప్పు
 
 ## Document properties dialog
 
@@ -57,6 +65,7 @@ pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
 pdfjs-document-properties-title = శీర్షిక:
 pdfjs-document-properties-author = మూలకర్త:
 pdfjs-document-properties-subject = విషయం:
+pdfjs-document-properties-keywords = కీ పదాలు:
 pdfjs-document-properties-creation-date = సృష్టించిన తేదీ:
 pdfjs-document-properties-modification-date = సవరించిన తేదీ:
 # Variables:
@@ -82,6 +91,7 @@ pdfjs-document-properties-close-button = మూసివేయి
 
 ## Print
 
+pdfjs-printing-not-supported = హెచ్చరిక: ఈ విహారిణి చేత ముద్రణ పూర్తిగా తోడ్పాటు లేదు.
 pdfjs-printing-not-ready = హెచ్చరిక: ముద్రణ కొరకు ఈ PDF పూర్తిగా లోడవలేదు.
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -95,6 +105,8 @@ pdfjs-attachments-button-label = అనుబంధాలు
 pdfjs-thumbs-button =
     .title = థంబ్‌నైల్స్ చూపు
 pdfjs-thumbs-button-label = థంబ్‌నైల్స్
+pdfjs-findbar-button =
+    .title = పత్రములో కనుగొనుము
 pdfjs-findbar-button-label = కనుగొను
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -106,8 +118,14 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = పదం యొక్క ముందు సంభవాన్ని కనుగొను
 pdfjs-find-previous-button-label = మునుపటి
+pdfjs-find-next-button =
+    .title = పదం యొక్క తర్వాతి సంభవాన్ని కనుగొను
 pdfjs-find-next-button-label = తరువాత
+pdfjs-find-highlight-checkbox = అన్నిటిని ఉద్దీపనం చేయుము
+pdfjs-find-match-case-checkbox-label = అక్షరముల తేడాతో పోల్చు
 pdfjs-find-reached-top = పేజీ పైకి చేరుకున్నది, క్రింది నుండి కొనసాగించండి
 pdfjs-find-reached-bottom = పేజీ చివరకు చేరుకున్నది, పైనుండి కొనసాగించండి
 
@@ -126,8 +144,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Loading indicator messages
 
+pdfjs-loading-error = PDF లోడవుచున్నప్పుడు ఒక దోషం ఎదురైంది.
 pdfjs-invalid-file-error = చెల్లని లేదా పాడైన PDF ఫైలు.
 pdfjs-missing-file-error = దొరకని PDF ఫైలు.
+pdfjs-unexpected-response-error = అనుకోని సర్వర్ స్పందన.
 
 ## Annotations
 
@@ -141,9 +161,11 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = ఈ PDF ఫైల్ తెరుచుటకు సంకేతపదం ప్రవేశపెట్టుము.
 pdfjs-password-invalid = సంకేతపదం చెల్లదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
 pdfjs-password-ok-button = సరే
 pdfjs-password-cancel-button = రద్దుచేయి
+pdfjs-web-fonts-disabled = వెబ్ ఫాంట్లు అచేతనించబడెను: ఎంబెడెడ్ PDF ఫాంట్లు ఉపయోగించలేక పోయింది.
 
 ## Editing
 
