@@ -39,6 +39,21 @@ pdfjs-open-file-button-label = Ldi
 pdfjs-print-button =
     .title = Siggez
 pdfjs-print-button-label = Siggez
+pdfjs-save-button =
+    .title = Sekles
+pdfjs-save-button-label = Sekles
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Sader
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Sader
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Ldi deg usnas
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Ldi deg usnas
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +78,9 @@ pdfjs-cursor-text-select-tool-button-label = Afecku n tefrant n uḍris
 pdfjs-cursor-hand-tool-button =
     .title = Rmed afecku afus
 pdfjs-cursor-hand-tool-button-label = Afecku afus
+pdfjs-scroll-page-button =
+    .title = Seqdec adrurem n usebter
+pdfjs-scroll-page-button-label = Adrurem n usebter
 pdfjs-scroll-vertical-button =
     .title = Seqdec adrurem ubdid
 pdfjs-scroll-vertical-button-label = Adrurem ubdid
@@ -110,6 +128,7 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = Yerna-t:
 pdfjs-document-properties-producer = Afecku n uselket PDF:
 pdfjs-document-properties-version = Lqem PDF:
+pdfjs-document-properties-page-count = Amḍan n yisebtar:
 pdfjs-document-properties-page-size = Tuγzi n usebter:
 pdfjs-document-properties-page-size-unit-inches = deg
 pdfjs-document-properties-page-size-unit-millimeters = mm
@@ -153,6 +172,8 @@ pdfjs-printing-not-ready = Ɣuṛ-k: Afaylu PDF ur d-yuli ara imeṛṛa akken a
 
 pdfjs-toggle-sidebar-button =
     .title = Sken/Fer agalis adisan
+pdfjs-toggle-sidebar-notification-button =
+    .title = Ffer/Sekn agalis adisan (isemli yegber aɣawas/ticeqqufin yeddan/tissiwin)
 pdfjs-toggle-sidebar-button-label = Sken/Fer agalis adisan
 pdfjs-document-outline-button =
     .title = Sken isemli (Senned snat tikal i wesemɣer/Afneẓ n iferdisen meṛṛa)
@@ -160,9 +181,15 @@ pdfjs-document-outline-button-label = Isɣalen n isebtar
 pdfjs-attachments-button =
     .title = Sken ticeqqufin yeddan
 pdfjs-attachments-button-label = Ticeqqufin yeddan
+pdfjs-layers-button =
+    .title = Skeen tissiwin (sit sin yiberdan i uwennez n meṛṛa tissiwin ɣer waddad amezwer)
+pdfjs-layers-button-label = Tissiwin
 pdfjs-thumbs-button =
     .title = Sken tanfult.
 pdfjs-thumbs-button-label = Tinfulin
+pdfjs-current-outline-item-button =
+    .title = Af-d aferdis n uɣawas amiran
+pdfjs-current-outline-item-button-label = Aferdis n uɣawas amiran
 pdfjs-findbar-button =
     .title = Nadi deg isemli
 pdfjs-findbar-button-label = Nadi
@@ -191,6 +218,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Ddu ɣer zdat
 pdfjs-find-highlight-checkbox = Err izirig imaṛṛa
 pdfjs-find-match-case-checkbox-label = Qadeṛ amasal n isekkilen
+pdfjs-find-match-diacritics-checkbox-label = Qadeṛ ifeskilen
 pdfjs-find-entire-word-checkbox-label = Awalen iččuranen
 pdfjs-find-reached-top = Yabbeḍ s afella n usebter, tuɣalin s wadda
 pdfjs-find-reached-bottom = Tebḍeḍ s adda n usebter, tuɣalin s afella
@@ -208,6 +236,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Asebter { $page }
 
 ## Loading indicator messages
 
@@ -215,6 +247,7 @@ pdfjs-loading-error = Teḍra-d tuccḍa deg alluy n PDF:
 pdfjs-invalid-file-error = Afaylu PDF arameɣtu neɣ yexṣeṛ.
 pdfjs-missing-file-error = Ulac afaylu PDF.
 pdfjs-unexpected-response-error = Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara.
+pdfjs-rendering-error = Teḍra-d tuccḍa deg uskan n usebter.
 
 ## Annotations
 
@@ -240,6 +273,25 @@ pdfjs-web-fonts-disabled = Tisefsiyin web ttwassensent; D awezɣi useqdec n tsef
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Aḍris
+pdfjs-editor-free-text-button-label = Aḍris
+pdfjs-editor-ink-button =
+    .title = Suneɣ
+pdfjs-editor-ink-button-label = Suneɣ
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Initen
+pdfjs-editor-free-text-size-input = Teɣzi
+pdfjs-editor-ink-color-input = Ini
+pdfjs-editor-ink-thickness-input = Tuzert
+pdfjs-editor-ink-opacity-input = Tebrek
+pdfjs-free-text =
+    .aria-label = Amaẓrag n uḍris
+pdfjs-free-text-default-content = Bdu tira...
+pdfjs-ink =
+    .aria-label = Amaẓrag n usuneɣ
+pdfjs-ink-canvas =
+    .aria-label = Tugna yettwarnan sɣur useqdac
 
 ## Alt-text dialog
 
