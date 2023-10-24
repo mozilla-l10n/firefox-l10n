@@ -186,6 +186,7 @@ pdfjs-attachments-button =
 pdfjs-attachments-button-label = Anexos
 pdfjs-layers-button =
     .title = Mostrar camadas (duplo-clique redefine todas as camadas ao estado predefinido)
+pdfjs-layers-button-label = Camadas
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
