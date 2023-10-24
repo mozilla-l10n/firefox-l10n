@@ -57,10 +57,21 @@ pdfjs-cursor-text-select-tool-button-label = Textavalsáhald
 pdfjs-cursor-hand-tool-button =
     .title = Virkja handarverkfæri
 pdfjs-cursor-hand-tool-button-label = Handarverkfæri
+pdfjs-scroll-vertical-button =
+    .title = Nota lóðrétt skrun
 pdfjs-scroll-vertical-button-label = Lóðrétt skrun
 pdfjs-scroll-horizontal-button =
     .title = Nota lárétt skrun
 pdfjs-scroll-horizontal-button-label = Lárétt skrun
+pdfjs-spread-none-button =
+    .title = Ekki taka þátt í dreifingu síðna
+pdfjs-spread-none-button-label = Engin dreifing
+pdfjs-spread-odd-button =
+    .title = Taka þátt í dreifingu síðna með oddatölum
+pdfjs-spread-odd-button-label = Oddatöludreifing
+pdfjs-spread-even-button =
+    .title = Taktu þátt í dreifingu síðna með jöfnuntölum
+pdfjs-spread-even-button-label = Jafnatöludreifing
 
 ## Document properties dialog
 
