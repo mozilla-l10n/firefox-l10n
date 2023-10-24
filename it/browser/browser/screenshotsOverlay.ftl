@@ -13,3 +13,4 @@ screenshots-overlay-copy-button = Copia
 #   $width (Number) - The width of the selection region in pixels
 #   $height (Number) - The height of the selection region in pixels
 screenshots-overlay-selection-region-size = { $width } x { $height }
+
