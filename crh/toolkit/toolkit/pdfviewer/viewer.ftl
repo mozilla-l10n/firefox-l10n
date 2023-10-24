@@ -216,6 +216,7 @@ pdfjs-loading-error = PDF yüklengende bir hata ortağa çıqtı.
 pdfjs-invalid-file-error = Keçersiz yaki ifsat etilgen PDF dosyesi.
 pdfjs-missing-file-error = Eksik PDF dosyesi.
 pdfjs-unexpected-response-error = Beklenmegen sunucı cevabı.
+pdfjs-rendering-error = Saife qılınğanda bir hata ortağa çıqtı.
 
 ## Annotations
 
