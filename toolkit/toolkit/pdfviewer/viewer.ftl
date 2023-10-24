@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Aktueel item yn ynhâldsopjefte
 pdfjs-findbar-button =
     .title = Sykje yn dokumint
 pdfjs-findbar-button-label = Sykje
+pdfjs-additional-layers = Oanfoljende lagen
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
