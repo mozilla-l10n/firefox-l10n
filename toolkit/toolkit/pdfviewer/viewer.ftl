@@ -69,6 +69,24 @@ pdfjs-cursor-hand-tool-button-label = Інструмент "Рука"
 pdfjs-scroll-page-button =
     .title = Використовувати прокручування сторінки
 pdfjs-scroll-page-button-label = Прокручування сторінки
+pdfjs-scroll-vertical-button =
+    .title = Використовувати вертикальне прокручування
+pdfjs-scroll-vertical-button-label = Вертикальне прокручування
+pdfjs-scroll-horizontal-button =
+    .title = Використовувати горизонтальне прокручування
+pdfjs-scroll-horizontal-button-label = Горизонтальне прокручування
+pdfjs-scroll-wrapped-button =
+    .title = Використовувати масштабоване прокручування
+pdfjs-scroll-wrapped-button-label = Масштабоване прокручування
+pdfjs-spread-none-button =
+    .title = Не використовувати розгорнуті сторінки
+pdfjs-spread-none-button-label = Без розгорнутих сторінок
+pdfjs-spread-odd-button =
+    .title = Розгорнуті сторінки починаються з непарних номерів
+pdfjs-spread-odd-button-label = Непарні сторінки зліва
+pdfjs-spread-even-button =
+    .title = Розгорнуті сторінки починаються з парних номерів
+pdfjs-spread-even-button-label = Парні сторінки зліва
 
 ## Document properties dialog
 
@@ -99,6 +117,14 @@ pdfjs-document-properties-creator = Створено:
 pdfjs-document-properties-producer = Виробник PDF:
 pdfjs-document-properties-version = Версія PDF:
 pdfjs-document-properties-page-count = Кількість сторінок:
+pdfjs-document-properties-page-size = Розмір сторінки:
+pdfjs-document-properties-page-size-unit-inches = дюймів
+pdfjs-document-properties-page-size-unit-millimeters = мм
+pdfjs-document-properties-page-size-orientation-portrait = книжкова
+pdfjs-document-properties-page-size-orientation-landscape = альбомна
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
 pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
@@ -108,9 +134,16 @@ pdfjs-document-properties-page-size-name-legal = Legal
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Швидкий перегляд в Інтернеті:
+pdfjs-document-properties-linearized-yes = Так
+pdfjs-document-properties-linearized-no = Ні
 pdfjs-document-properties-close-button = Закрити
 
 ## Print
@@ -170,6 +203,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Наступне
 pdfjs-find-highlight-checkbox = Підсвітити все
 pdfjs-find-match-case-checkbox-label = З урахуванням регістру
+pdfjs-find-entire-word-checkbox-label = Цілі слова
 pdfjs-find-reached-top = Досягнуто початку документу, продовжено з кінця
 pdfjs-find-reached-bottom = Досягнуто кінця документу, продовжено з початку
 pdfjs-find-not-found = Фразу не знайдено
@@ -194,6 +228,10 @@ pdfjs-unexpected-response-error = Неочікувана відповідь се
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 
 ## Password
 
