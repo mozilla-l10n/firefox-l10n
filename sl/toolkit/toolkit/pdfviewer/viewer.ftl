@@ -51,6 +51,18 @@ pdfjs-first-page-button-label = Pojdi na prvo stran
 pdfjs-last-page-button =
     .title = Pojdi na zadnjo stran
 pdfjs-last-page-button-label = Pojdi na zadnjo stran
+pdfjs-scroll-wrapped-button =
+    .title = Uporabi ovito drsenje
+pdfjs-scroll-wrapped-button-label = Ovito drsenje
+pdfjs-spread-none-button =
+    .title = Ne združuj razponov strani
+pdfjs-spread-none-button-label = Brez razponov
+pdfjs-spread-odd-button =
+    .title = Združuj razpone strani z začetkom pri lihih straneh
+pdfjs-spread-odd-button-label = Lihi razponi
+pdfjs-spread-even-button =
+    .title = Združuj razpone strani z začetkom pri sodih straneh
+pdfjs-spread-even-button-label = Sodi razponi
 
 ## Document properties dialog
 
@@ -81,6 +93,8 @@ pdfjs-document-properties-creator = Ustvaril:
 pdfjs-document-properties-producer = Izdelovalec PDF:
 pdfjs-document-properties-version = Različica PDF:
 pdfjs-document-properties-page-count = Število strani:
+pdfjs-document-properties-page-size-name-letter = Pismo
+pdfjs-document-properties-page-size-name-legal = Pravno
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -96,6 +110,7 @@ pdfjs-document-properties-close-button = Zapri
 
 ## Print
 
+pdfjs-print-progress-message = Priprava dokumenta na tiskanje …
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress } %
@@ -157,6 +172,10 @@ pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Stran { $page }
 
 ## Loading indicator messages
 
