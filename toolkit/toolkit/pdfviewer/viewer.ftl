@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Blaenorol
 pdfjs-next-button =
     .title = Tudalen Nesaf
 pdfjs-next-button-label = Nesaf
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Tudalen
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = o { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } o { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Chwyddo Allan
 pdfjs-zoom-out-button-label = Chwyddo Allan
@@ -49,6 +60,33 @@ pdfjs-page-rotate-ccw-button-label = Cylchdroi Gwrthglocwedd
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Priodweddau Dogfen…
+pdfjs-document-properties-button-label = Priodweddau Dogfen…
+pdfjs-document-properties-file-name = Enw ffeil:
+pdfjs-document-properties-file-size = Maint ffeil:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } beit)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } beit)
+pdfjs-document-properties-title = Teitl:
+pdfjs-document-properties-author = Awdur:
+pdfjs-document-properties-subject = Pwnc:
+pdfjs-document-properties-keywords = Allweddair:
+pdfjs-document-properties-creation-date = Dyddiad Creu:
+pdfjs-document-properties-modification-date = Dyddiad Addasu:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Crewr:
+pdfjs-document-properties-producer = Cynhyrchydd PDF:
+pdfjs-document-properties-version = Fersiwn PDF:
+pdfjs-document-properties-page-count = Cyfrif Tudalen:
 pdfjs-document-properties-page-size = Maint Tudalen:
 pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = portread
@@ -70,9 +108,15 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-close-button = Cau
 
 ## Print
 
+pdfjs-print-progress-message = Paratoi dogfen ar gyfer ei hargraffu…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Diddymu
 pdfjs-printing-not-supported = Rhybudd: Nid yw argraffu yn cael ei gynnal yn llawn gan y porwr.
 pdfjs-printing-not-ready = Rhybudd: Nid yw'r PDF wedi ei lwytho'n llawn ar gyfer argraffu.
 
@@ -81,6 +125,12 @@ pdfjs-printing-not-ready = Rhybudd: Nid yw'r PDF wedi ei lwytho'n llawn ar gyfer
 pdfjs-toggle-sidebar-button =
     .title = Toglo'r Bar Ochr
 pdfjs-toggle-sidebar-button-label = Toglo'r Bar Ochr
+pdfjs-document-outline-button =
+    .title = Dangos Amlinell Dogfen (clic dwbl i ymestyn/cau pob eitem)
+pdfjs-document-outline-button-label = Amlinelliad Dogfen
+pdfjs-attachments-button =
+    .title = Dangos Atodiadau
+pdfjs-attachments-button-label = Atodiadau
 pdfjs-thumbs-button =
     .title = Dangos Lluniau Bach
 pdfjs-thumbs-button-label = Lluniau Bach
@@ -116,6 +166,9 @@ pdfjs-page-scale-width = Lled Tudalen
 pdfjs-page-scale-fit = Ffit Tudalen
 pdfjs-page-scale-auto = Chwyddo Awtomatig
 pdfjs-page-scale-actual = Maint Gwirioneddol
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -125,6 +178,7 @@ pdfjs-page-scale-actual = Maint Gwirioneddol
 pdfjs-loading-error = Digwyddodd gwall wrth lwytho'r PDF.
 pdfjs-invalid-file-error = Ffeil PDF annilys neu llwgr.
 pdfjs-missing-file-error = Ffeil PDF coll.
+pdfjs-unexpected-response-error = Ymateb annisgwyl gan y gweinydd.
 
 ## Annotations
 
@@ -141,6 +195,8 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Rhowch gyfrinair i agor y PDF.
 pdfjs-password-invalid = Cyfrinair annilys. Ceisiwch eto.
 pdfjs-password-ok-button = Iawn
+pdfjs-password-cancel-button = Diddymu
+pdfjs-web-fonts-disabled = Ffontiau gwe wedi eu hanalluogi: methu defnyddio ffontiau PDF mewnblanedig.
 
 ## Editing
 
