@@ -39,9 +39,24 @@ pdfjs-open-file-button-label = Ouvrir le fichier
 pdfjs-print-button =
     .title = Imprimer
 pdfjs-print-button-label = Imprimer
+pdfjs-save-button =
+    .title = Enregistrer
+pdfjs-save-button-label = Enregistrer
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Télécharger
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Télécharger
 pdfjs-bookmark-button =
     .title = Page courante (montrer l’adresse de la page courante)
 pdfjs-bookmark-button-label = Page courante
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Ouvrir dans une application
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Ouvrir dans une application
 
 ##  Secondary toolbar and context menu
 
@@ -236,6 +251,7 @@ pdfjs-loading-error = Une erreur s’est produite lors du chargement du fichier 
 pdfjs-invalid-file-error = Fichier PDF invalide ou corrompu.
 pdfjs-missing-file-error = Fichier PDF manquant.
 pdfjs-unexpected-response-error = Réponse inattendue du serveur.
+pdfjs-rendering-error = Une erreur s’est produite lors de l’affichage de la page.
 
 ## Annotations
 
@@ -270,7 +286,10 @@ pdfjs-editor-ink-button-label = Dessiner
 pdfjs-editor-stamp-button =
     .title = Ajouter ou modifier des images
 pdfjs-editor-stamp-button-label = Ajouter ou modifier des images
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Couleur
 pdfjs-editor-free-text-size-input = Taille
+pdfjs-editor-ink-color-input = Couleur
 pdfjs-editor-ink-thickness-input = Épaisseur
 pdfjs-editor-ink-opacity-input = Opacité
 pdfjs-editor-stamp-add-image-button =
@@ -286,6 +305,21 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Texte alternatif
+pdfjs-editor-alt-text-edit-button-label = Modifier le texte alternatif
+pdfjs-editor-alt-text-dialog-label = Sélectionnez une option
+pdfjs-editor-alt-text-dialog-description = Le texte alternatif est utile lorsque des personnes ne peuvent pas voir l’image ou que l’image ne se charge pas.
+pdfjs-editor-alt-text-add-description-label = Ajouter une description
+pdfjs-editor-alt-text-add-description-description = Il est conseillé de rédiger une ou deux phrases décrivant le sujet, le cadre ou les actions.
+pdfjs-editor-alt-text-mark-decorative-label = Marquer comme décorative
+pdfjs-editor-alt-text-mark-decorative-description = Cette option est utilisée pour les images décoratives, comme les bordures ou les filigranes.
+pdfjs-editor-alt-text-cancel-button = Annuler
+pdfjs-editor-alt-text-save-button = Enregistrer
+pdfjs-editor-alt-text-decorative-tooltip = Marquée comme décorative
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Par exemple, « Un jeune homme est assis à une table pour prendre un repas »
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
