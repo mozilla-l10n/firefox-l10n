@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Rozšírená ochrana pred sledovaním
     .description = Vypnutá na tejto stránke
     .aria-label = Zapnúť ochranu pre { $host }
+protections-panel-etp-toggle-on =
+    .label = Rozšírená ochrana pred sledovaním
+    .description = Zapnutá pre túto stránku
+    .aria-label = Rozšírená ochrana pred sledovaním: zapnutá na stránke { $host }
+protections-panel-etp-toggle-off =
+    .label = Rozšírená ochrana pred sledovaním
+    .description = Vypnutá pre túto stránku
+    .aria-label = Rozšírená ochrana pred sledovaním: vypnutá na stránke { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Stránka nefunguje?
 # The heading/title of the sub-panel view
