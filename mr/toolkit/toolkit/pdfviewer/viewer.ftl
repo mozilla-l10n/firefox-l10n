@@ -62,7 +62,33 @@ pdfjs-cursor-hand-tool-button-label = हस्त साधन
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = दस्तऐवज गुणधर्म…
+pdfjs-document-properties-button-label = दस्तऐवज गुणधर्म…
+pdfjs-document-properties-file-name = फाइलचे नाव:
+pdfjs-document-properties-file-size = फाइल आकार:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } बाइट्स)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } बाइट्स)
 pdfjs-document-properties-title = शिर्षक:
+pdfjs-document-properties-author = लेखक:
+pdfjs-document-properties-subject = विषय:
+pdfjs-document-properties-keywords = मुख्यशब्द:
+pdfjs-document-properties-creation-date = निर्माण दिनांक:
+pdfjs-document-properties-modification-date = दुरूस्ती दिनांक:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = निर्माता:
+pdfjs-document-properties-producer = PDF निर्माता:
+pdfjs-document-properties-version = PDF आवृत्ती:
+pdfjs-document-properties-page-count = पृष्ठ संख्या:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -74,6 +100,7 @@ pdfjs-document-properties-title = शिर्षक:
 
 ##
 
+pdfjs-document-properties-close-button = बंद करा
 
 ## Print
 
@@ -93,6 +120,9 @@ pdfjs-toggle-sidebar-button-label = बाजूचीपट्टी टॉग�
 pdfjs-document-outline-button =
     .title = दस्तऐवज बाह्यरेखा दर्शवा (विस्तृत करण्यासाठी दोनवेळा क्लिक करा /सर्व घटक दाखवा)
 pdfjs-document-outline-button-label = दस्तऐवज रूपरेषा
+pdfjs-attachments-button =
+    .title = जोडपत्र दाखवा
+pdfjs-attachments-button-label = जोडपत्र
 pdfjs-thumbs-button =
     .title = थंबनेल्स् दाखवा
 pdfjs-thumbs-button-label = थंबनेल्स्
@@ -160,6 +190,7 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = ही PDF फाइल उघडण्याकरिता पासवर्ड द्या.
 pdfjs-password-invalid = अवैध पासवर्ड. कृपया पुन्हा प्रयत्न करा.
 pdfjs-password-ok-button = ठीक आहे
 pdfjs-password-cancel-button = रद्द करा
