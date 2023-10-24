@@ -71,6 +71,8 @@ pdfjs-spread-none-button =
 pdfjs-spread-none-button-label = કોઈ સ્પ્રેડ નથી
 pdfjs-spread-odd-button =
     .title = એકી-ક્રમાંકિત પૃષ્ઠો સાથે પ્રારંભ થતાં પૃષ્ઠ સ્પ્રેડમાં જોડાઓ
+pdfjs-spread-even-button =
+    .title = નંબર-ક્રમાંકિત પૃષ્ઠોથી શરૂ થતાં પૃષ્ઠ સ્પ્રેડમાં જોડાઓ
 
 ## Document properties dialog
 
