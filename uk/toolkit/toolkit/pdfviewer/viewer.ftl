@@ -39,9 +39,24 @@ pdfjs-open-file-button-label = Відкрити
 pdfjs-print-button =
     .title = Друк
 pdfjs-print-button-label = Друк
+pdfjs-save-button =
+    .title = Зберегти
+pdfjs-save-button-label = Зберегти
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Завантажити
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Завантажити
 pdfjs-bookmark-button =
     .title = Поточна сторінка (перегляд URL-адреси з поточної сторінки)
 pdfjs-bookmark-button-label = Поточна сторінка
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Відкрити у програмі
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Відкрити у програмі
 
 ##  Secondary toolbar and context menu
 
@@ -175,6 +190,9 @@ pdfjs-layers-button-label = Шари
 pdfjs-thumbs-button =
     .title = Показувати ескізи
 pdfjs-thumbs-button-label = Ескізи
+pdfjs-current-outline-item-button =
+    .title = Знайти поточний елемент змісту
+pdfjs-current-outline-item-button-label = Поточний елемент змісту
 pdfjs-findbar-button =
     .title = Знайти в документі
 pdfjs-findbar-button-label = Знайти
@@ -203,6 +221,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Наступне
 pdfjs-find-highlight-checkbox = Підсвітити все
 pdfjs-find-match-case-checkbox-label = З урахуванням регістру
+pdfjs-find-match-diacritics-checkbox-label = Відповідність діакритичних знаків
 pdfjs-find-entire-word-checkbox-label = Цілі слова
 pdfjs-find-reached-top = Досягнуто початку документу, продовжено з кінця
 pdfjs-find-reached-bottom = Досягнуто кінця документу, продовжено з початку
@@ -211,6 +230,8 @@ pdfjs-find-not-found = Фразу не знайдено
 ## Predefined zoom values
 
 pdfjs-page-scale-width = За шириною
+pdfjs-page-scale-fit = Вмістити
+pdfjs-page-scale-auto = Автомасштаб
 pdfjs-page-scale-actual = Дійсний розмір
 # Variables:
 #   $scale (Number) - percent value for page scale
@@ -218,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Сторінка { $page }
 
 ## Loading indicator messages
 
@@ -225,6 +250,7 @@ pdfjs-loading-error = Під час завантаження PDF сталася 
 pdfjs-invalid-file-error = Недійсний або пошкоджений PDF-файл.
 pdfjs-missing-file-error = Відсутній PDF-файл.
 pdfjs-unexpected-response-error = Неочікувана відповідь сервера.
+pdfjs-rendering-error = Під час виведення сторінки сталася помилка.
 
 ## Annotations
 
@@ -232,6 +258,13 @@ pdfjs-unexpected-response-error = Неочікувана відповідь се
 #   $date (Date) - the modification date of the annotation
 #   $time (Time) - the modification time of the annotation
 pdfjs-annotation-date-string = { $date }, { $time }
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type }-анотація]
 
 ## Password
 
@@ -271,6 +304,21 @@ pdfjs-ink-canvas =
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Альтернативний текст
+pdfjs-editor-alt-text-edit-button-label = Змінити альтернативний текст
+pdfjs-editor-alt-text-dialog-label = Вибрати варіант
+pdfjs-editor-alt-text-dialog-description = Альтернативний текст допомагає, коли зображення не видно або коли воно не завантажується.
+pdfjs-editor-alt-text-add-description-label = Додати опис
+pdfjs-editor-alt-text-add-description-description = Намагайтеся створити 1-2 речення, які описують тему, обставини або дії.
+pdfjs-editor-alt-text-mark-decorative-label = Позначити декоративним
+pdfjs-editor-alt-text-mark-decorative-description = Використовується для декоративних зображень, наприклад рамок або водяних знаків.
+pdfjs-editor-alt-text-cancel-button = Скасувати
+pdfjs-editor-alt-text-save-button = Зберегти
+pdfjs-editor-alt-text-decorative-tooltip = Позначено декоративним
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Наприклад, “Молодий чоловік сідає за стіл їсти”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
