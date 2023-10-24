@@ -213,6 +213,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Далее
 pdfjs-find-highlight-checkbox = Подсветить все
 pdfjs-find-match-case-checkbox-label = С учётом регистра
+pdfjs-find-match-diacritics-checkbox-label = С учётом диакритических знаков
 pdfjs-find-entire-word-checkbox-label = Слова целиком
 pdfjs-find-reached-top = Достигнут верх документа, продолжено снизу
 pdfjs-find-reached-bottom = Достигнут конец документа, продолжено сверху
