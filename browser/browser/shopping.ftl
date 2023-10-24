@@ -124,6 +124,7 @@ shopping-analysis-explainer-intro2 =
 shopping-analysis-explainer-grades-intro = 각 제품의 리뷰에는 A부터 F까지 <strong>문자 등급</strong>이 부여됩니다.
 shopping-analysis-explainer-adjusted-rating-description = <strong>조정된 평점</strong>은 신뢰할 수 있다고 믿는 리뷰만을 기반으로 합니다.
 shopping-analysis-explainer-learn-more = <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name }이 리뷰 품질을 결정하는 방법</a>에 대해 더 알아보세요.
+shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url">{ -fakespot-brand-name }이 리뷰 품질을 결정하는 방법</a>에 대해 더 알아보세요.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -144,6 +145,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = 이 리뷰에 대한 정보가 아직 없음
@@ -203,6 +212,7 @@ shopping-onboarding-dynamic-subtitle = 구매하기 전에 <b>{ $currentSite }</
 shopping-onboarding-dynamic-subtitle-1 = 구매하기 전에 <b>{ $currentSite }</b>에서 제품 리뷰가 얼마나 신뢰할 수 있는지 확인하세요. { -brand-product-name }의 실험적 기능인 리뷰 검사기가 브라우저에 바로 내장되어 있습니다. <b>{ $secondSite }</b> 및 <b>{ $thirdSite }</b>에서도 마찬가지로 작동합니다.
 shopping-onboarding-body = { -fakespot-brand-full-name }의 기능을 사용하여 편향되고 허위 리뷰를 방지하는 데 도움을 드립니다. AI 모델은 쇼핑하는 동안 사용자를 보호하기 위해 항상 개선되고 있습니다. <a data-l10n-name="learn_more">더 알아보기</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = "{ shopping-onboarding-opt-in-button }"을 선택하면 { -fakespot-brand-full-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 <a data-l10n-name="terms_of_use">사용 약관</a>에 동의하게 됩니다.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = "{ shopping-onboarding-opt-in-button }"을 선택하면 { -fakespot-brand-name }의 <a data-l10n-name="privacy_policy">개인정보처리방침</a> 및 <a data-l10n-name="terms_of_use">사용 약관</a>에 동의하게 됩니다.
 shopping-onboarding-opt-in-button = 사용해보기
 shopping-onboarding-not-now-button = 나중에
 shopping-onboarding-dialog-close-button =

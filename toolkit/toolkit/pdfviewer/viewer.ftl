@@ -226,6 +226,13 @@ pdfjs-find-match-diacritics-checkbox-label = 분음 부호 일치
 pdfjs-find-entire-word-checkbox-label = 단어 단위로
 pdfjs-find-reached-top = 문서 처음까지 검색하고 끝으로 돌아와 검색했습니다.
 pdfjs-find-reached-bottom = 문서 끝까지 검색하고 앞으로 돌아와 검색했습니다.
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count = { $current } / { $total } 일치
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit = { $limit }개 이상 일치
 pdfjs-find-not-found = 검색 결과 없음
 
 ## Predefined zoom values
