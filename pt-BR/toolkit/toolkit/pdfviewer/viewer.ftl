@@ -18,6 +18,10 @@ pdfjs-page-input =
 #   $pagesCount (Number) - the total number of pages in the document
 # This string follows an input field with the number of the page currently displayed.
 pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Reduzir
 pdfjs-zoom-out-button-label = Reduzir
@@ -52,6 +56,9 @@ pdfjs-page-rotate-ccw-button =
     .title = Girar no sentido anti-horário
 pdfjs-page-rotate-ccw-button-label = Girar no sentido anti-horário
 pdfjs-cursor-text-select-tool-button-label = Ferramenta de seleção de texto
+pdfjs-spread-none-button-label = Não estender
+pdfjs-spread-odd-button-label = Estender ímpares
+pdfjs-spread-even-button-label = Estender pares
 
 ## Document properties dialog
 
@@ -82,6 +89,7 @@ pdfjs-document-properties-creator = Criação:
 pdfjs-document-properties-producer = Criador do PDF:
 pdfjs-document-properties-version = Versão do PDF:
 pdfjs-document-properties-page-count = Número de páginas:
+pdfjs-document-properties-page-size-name-legal = Jurídico
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -90,13 +98,22 @@ pdfjs-document-properties-page-count = Número de páginas:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+pdfjs-document-properties-linearized-yes = Sim
+pdfjs-document-properties-linearized-no = Não
 pdfjs-document-properties-close-button = Fechar
 
 ## Print
 
+pdfjs-print-progress-message = Preparando documento para impressão…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress } %
+pdfjs-print-progress-close-button = Cancelar
 pdfjs-printing-not-supported = Aviso: a impressão não é totalmente suportada neste navegador.
 pdfjs-printing-not-ready = Aviso: o PDF não está totalmente carregado para impressão.
 
