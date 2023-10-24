@@ -141,6 +141,7 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Loading indicator messages
 
+pdfjs-unexpected-response-error = 意外的服务器响应。
 
 ## Annotations
 
