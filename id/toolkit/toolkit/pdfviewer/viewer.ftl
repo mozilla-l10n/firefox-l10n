@@ -57,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Putar Searah Jarum Jam
 pdfjs-page-rotate-ccw-button =
     .title = Putar Berlawanan Arah Jarum Jam
 pdfjs-page-rotate-ccw-button-label = Putar Berlawanan Arah Jarum Jam
+pdfjs-cursor-text-select-tool-button =
+    .title = Aktifkan Alat Seleksi Teks
+pdfjs-cursor-text-select-tool-button-label = Alat Seleksi Teks
+pdfjs-cursor-hand-tool-button =
+    .title = Aktifkan Alat Tangan
+pdfjs-cursor-hand-tool-button-label = Alat Tangan
 
 ## Document properties dialog
 
@@ -92,6 +98,8 @@ pdfjs-document-properties-page-size-unit-inches = inci
 pdfjs-document-properties-page-size-unit-millimeters = mm
 pdfjs-document-properties-page-size-orientation-portrait = tegak
 pdfjs-document-properties-page-size-orientation-landscape = mendatar
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-letter = Letter
 pdfjs-document-properties-page-size-name-legal = Legal
 
@@ -155,6 +163,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Temukan
+    .placeholder = Temukan di dokumen…
 pdfjs-find-previous-button =
     .title = Temukan kata sebelumnya
 pdfjs-find-previous-button-label = Sebelumnya
