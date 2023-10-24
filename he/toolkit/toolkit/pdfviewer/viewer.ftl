@@ -39,6 +39,22 @@ pdfjs-open-file-button-label = פתיחה
 pdfjs-print-button =
     .title = הדפסה
 pdfjs-print-button-label = הדפסה
+pdfjs-save-button =
+    .title = שמירה
+pdfjs-save-button-label = שמירה
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = הורדה
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = הורדה
+pdfjs-bookmark-button-label = עמוד נוכחי
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = פתיחה ביישום
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = פתיחה ביישום
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +79,9 @@ pdfjs-cursor-text-select-tool-button-label = כלי בחירת טקסט
 pdfjs-cursor-hand-tool-button =
     .title = הפעלת כלי היד
 pdfjs-cursor-hand-tool-button-label = כלי יד
+pdfjs-scroll-page-button =
+    .title = שימוש בגלילת עמוד
+pdfjs-scroll-page-button-label = גלילת עמוד
 pdfjs-scroll-vertical-button =
     .title = שימוש בגלילה אנכית
 pdfjs-scroll-vertical-button-label = גלילה אנכית
@@ -148,18 +167,30 @@ pdfjs-print-progress-message = מסמך בהכנה להדפסה…
 pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = ביטול
 pdfjs-printing-not-supported = אזהרה: הדפסה אינה נתמכת במלואה בדפדפן זה.
+pdfjs-printing-not-ready = אזהרה: מסמך ה־PDF לא נטען לחלוטין עד מצב שמאפשר הדפסה.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
     .title = הצגה/הסתרה של סרגל הצד
+pdfjs-toggle-sidebar-notification-button =
+    .title = החלפת תצוגת סרגל צד (מסמך שמכיל תוכן עניינים/קבצים מצורפים/שכבות)
 pdfjs-toggle-sidebar-button-label = הצגה/הסתרה של סרגל הצד
+pdfjs-document-outline-button =
+    .title = הצגת תוכן העניינים של המסמך (לחיצה כפולה כדי להרחיב או לצמצם את כל הפריטים)
+pdfjs-document-outline-button-label = תוכן העניינים של המסמך
 pdfjs-attachments-button =
     .title = הצגת צרופות
 pdfjs-attachments-button-label = צרופות
+pdfjs-layers-button =
+    .title = הצגת שכבות (יש ללחוץ לחיצה כפולה כדי לאפס את כל השכבות למצב ברירת המחדל)
+pdfjs-layers-button-label = שכבות
 pdfjs-thumbs-button =
     .title = הצגת תצוגה מקדימה
 pdfjs-thumbs-button-label = תצוגה מקדימה
+pdfjs-current-outline-item-button =
+    .title = מציאת פריט תוכן העניינים הנוכחי
+pdfjs-current-outline-item-button-label = פריט תוכן העניינים הנוכחי
 pdfjs-findbar-button =
     .title = חיפוש במסמך
 pdfjs-findbar-button-label = חיפוש
@@ -206,6 +237,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = עמוד { $page }
 
 ## Loading indicator messages
 
@@ -213,6 +248,7 @@ pdfjs-loading-error = אירעה שגיאה בעת טעינת ה־PDF.
 pdfjs-invalid-file-error = קובץ PDF פגום או לא תקין.
 pdfjs-missing-file-error = קובץ PDF חסר.
 pdfjs-unexpected-response-error = תגובת שרת לא צפויה.
+pdfjs-rendering-error = אירעה שגיאה בעת עיבוד הדף.
 
 ## Annotations
 
@@ -238,10 +274,58 @@ pdfjs-web-fonts-disabled = גופני רשת מנוטרלים: לא ניתן ל�
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = טקסט
+pdfjs-editor-free-text-button-label = טקסט
+pdfjs-editor-ink-button =
+    .title = ציור
+pdfjs-editor-ink-button-label = ציור
+pdfjs-editor-stamp-button =
+    .title = הוספה או עריכת תמונות
+pdfjs-editor-stamp-button-label = הוספה או עריכת תמונות
+# Editor Parameters
+pdfjs-editor-free-text-color-input = צבע
+pdfjs-editor-free-text-size-input = גודל
+pdfjs-editor-ink-color-input = צבע
+pdfjs-editor-ink-thickness-input = עובי
+pdfjs-editor-ink-opacity-input = אטימות
+pdfjs-editor-stamp-add-image-button =
+    .title = הוספת תמונה
+pdfjs-editor-stamp-add-image-button-label = הוספת תמונה
+pdfjs-free-text =
+    .aria-label = עורך טקסט
+pdfjs-free-text-default-content = להתחיל להקליד…
+pdfjs-ink =
+    .aria-label = עורך ציור
+pdfjs-ink-canvas =
+    .aria-label = תמונה שנוצרה על־ידי משתמש
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = טקסט חלופי
+pdfjs-editor-alt-text-edit-button-label = עריכת טקסט חלופי
+pdfjs-editor-alt-text-dialog-label = בחירת אפשרות
+pdfjs-editor-alt-text-dialog-description = טקסט חלופי עוזר כשאנשים לא יכולים לראות את התמונה או כשהיא לא נטענת.
+pdfjs-editor-alt-text-add-description-label = הוספת תיאור
+pdfjs-editor-alt-text-add-description-description = כדאי לתאר במשפט אחד או שניים את הנושא, התפאורה או הפעולות.
+pdfjs-editor-alt-text-mark-decorative-label = סימון כדקורטיבי
+pdfjs-editor-alt-text-mark-decorative-description = זה משמש לתמונות נוי, כמו גבולות או סימני מים.
+pdfjs-editor-alt-text-cancel-button = ביטול
+pdfjs-editor-alt-text-save-button = שמירה
+pdfjs-editor-alt-text-decorative-tooltip = מסומן כדקורטיבי
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = לדוגמה, ״גבר צעיר מתיישב ליד שולחן לאכול ארוחה״
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = פינה שמאלית עליונה - שינוי גודל
+pdfjs-editor-resizer-label-top-middle = למעלה באמצע - שינוי גודל
+pdfjs-editor-resizer-label-top-right = פינה ימנית עליונה - שינוי גודל
+pdfjs-editor-resizer-label-middle-right = ימינה באמצע - שינוי גודל
+pdfjs-editor-resizer-label-bottom-right = פינה ימנית תחתונה - שינוי גודל
+pdfjs-editor-resizer-label-bottom-middle = למטה באמצע - שינוי גודל
+pdfjs-editor-resizer-label-bottom-left = פינה שמאלית תחתונה - שינוי גודל
+pdfjs-editor-resizer-label-middle-left = שמאלה באמצע - שינוי גודל
