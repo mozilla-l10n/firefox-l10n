@@ -242,6 +242,7 @@ pdfjs-loading-error = Un error ocurrió al cargar el PDF.
 pdfjs-invalid-file-error = Archivo PDF invalido o dañado.
 pdfjs-missing-file-error = Archivo PDF no encontrado.
 pdfjs-unexpected-response-error = Respuesta inesperada del servidor.
+pdfjs-rendering-error = Un error ocurrió al renderizar la página.
 
 ## Annotations
 
@@ -267,12 +268,23 @@ pdfjs-web-fonts-disabled = Las fuentes web están desactivadas: es imposible usa
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Texto
+pdfjs-editor-free-text-button-label = Texto
+pdfjs-editor-ink-button =
+    .title = Dibujar
+pdfjs-editor-ink-button-label = Dibujar
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Color
 pdfjs-editor-free-text-size-input = Tamaño
 pdfjs-editor-ink-color-input = Color
 pdfjs-editor-ink-thickness-input = Grossor
 pdfjs-editor-ink-opacity-input = Opacidad
+pdfjs-free-text =
+    .aria-label = Editor de texto
+pdfjs-free-text-default-content = Empieza a escribir…
+pdfjs-ink =
+    .aria-label = Editor de dibujo
 pdfjs-ink-canvas =
     .aria-label = Imagen creada por el usuario
 
