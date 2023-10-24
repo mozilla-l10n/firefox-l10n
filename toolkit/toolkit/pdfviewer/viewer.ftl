@@ -49,6 +49,9 @@ pdfjs-page-rotate-cw-button-label = Պտտել ըստ ժամացույցի սլ�
 pdfjs-page-rotate-ccw-button =
     .title = Պտտել հակառակ ժամացույցի սլաքի
 pdfjs-page-rotate-ccw-button-label = Պտտել հակառակ ժամացույցի սլաքի
+pdfjs-cursor-hand-tool-button =
+    .title = Միացնել Ձեռքի գործիքը
+pdfjs-cursor-hand-tool-button-label = Ձեռքի գործիք
 
 ## Document properties dialog
 
@@ -157,6 +160,7 @@ pdfjs-page-scale-percent = { $scale }%
 ## Loading indicator messages
 
 pdfjs-loading-error = Սխալ՝ PDF ֆայլը բացելիս։
+pdfjs-invalid-file-error = Սխալ կամ վնասված PDF ֆայլ:
 pdfjs-missing-file-error = PDF ֆայլը բացակայում է:
 pdfjs-unexpected-response-error = Սպասարկիչի անսպասելի պատասխան:
 
