@@ -78,6 +78,9 @@ pdfjs-page-rotate-ccw-button-label = Rotar no sentido contrario ás agullas do r
 pdfjs-cursor-text-select-tool-button =
     .title = Activar a ferramenta de selección de texto
 pdfjs-cursor-text-select-tool-button-label = Ferramenta de selección de texto
+pdfjs-cursor-hand-tool-button =
+    .title = Activar a ferramenta de man
+pdfjs-cursor-hand-tool-button-label = Ferramenta de man
 pdfjs-scroll-page-button =
     .title = Usar o desprazamento da páxina
 pdfjs-scroll-page-button-label = Desprazamento da páxina
@@ -87,6 +90,9 @@ pdfjs-scroll-vertical-button-label = Desprazamento vertical
 pdfjs-scroll-horizontal-button =
     .title = Usar o desprazamento horizontal
 pdfjs-scroll-horizontal-button-label = Desprazamento horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Usar o desprazamento en bloque
+pdfjs-scroll-wrapped-button-label = Desprazamento por bloque
 pdfjs-spread-none-button =
     .title = Non agrupar páxinas
 pdfjs-spread-none-button-label = Ningún agrupamento
@@ -127,7 +133,10 @@ pdfjs-document-properties-producer = Xenerador do PDF:
 pdfjs-document-properties-version = Versión de PDF:
 pdfjs-document-properties-page-count = Número de páxinas:
 pdfjs-document-properties-page-size = Tamaño da páxina:
+pdfjs-document-properties-page-size-unit-inches = pol
 pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = vertical
+pdfjs-document-properties-page-size-orientation-landscape = horizontal
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
 pdfjs-document-properties-page-size-name-letter = Carta
@@ -154,6 +163,7 @@ pdfjs-document-properties-close-button = Pechar
 
 ## Print
 
+pdfjs-print-progress-message = Preparando o documento para imprimir…
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
@@ -168,6 +178,9 @@ pdfjs-toggle-sidebar-button =
 pdfjs-toggle-sidebar-notification-button =
     .title = Alternar barra lateral (o documento contén esquema/anexos/capas)
 pdfjs-toggle-sidebar-button-label = Amosar/agochar a barra lateral
+pdfjs-document-outline-button =
+    .title = Amosar a estrutura do documento (dobre clic para expandir/contraer todos os elementos)
+pdfjs-document-outline-button-label = Estrutura do documento
 pdfjs-attachments-button =
     .title = Amosar anexos
 pdfjs-attachments-button-label = Anexos
