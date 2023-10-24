@@ -90,6 +90,7 @@ pdfjs-document-properties-close-button = Sluiten
 ## Print
 
 pdfjs-printing-not-supported = Waarschuwing: afdrukken wordt niet volledig ondersteund door deze browser.
+pdfjs-printing-not-ready = Waarschuwing: de PDF is niet volledig geladen voor afdrukken.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
