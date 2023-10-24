@@ -11,6 +11,23 @@ pdfjs-previous-button-label = Înapoi
 pdfjs-next-button =
     .title = Pagina următoare
 pdfjs-next-button-label = Înainte
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Pagina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = din { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } din { $pagesCount })
+pdfjs-zoom-out-button =
+    .title = Micșorează
+pdfjs-zoom-out-button-label = Micșorează
+pdfjs-zoom-in-button =
+    .title = Mărește
+pdfjs-zoom-in-button-label = Mărește
 pdfjs-presentation-mode-button-label = Mod de prezentare
 pdfjs-open-file-button =
     .title = Deschide un fișier
@@ -21,9 +38,36 @@ pdfjs-print-button-label = Tipărește
 
 ##  Secondary toolbar and context menu
 
+pdfjs-first-page-button =
+    .title = Mergi la prima pagină
+pdfjs-first-page-button-label = Mergi la prima pagină
+pdfjs-last-page-button =
+    .title = Mergi la ultima pagină
+pdfjs-last-page-button-label = Mergi la ultima pagină
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Proprietățile documentului…
+pdfjs-document-properties-button-label = Proprietățile documentului…
+pdfjs-document-properties-file-name = Numele fișierului:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } byți)
+pdfjs-document-properties-title = Titlu:
+pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-keywords = Cuvinte cheie:
+pdfjs-document-properties-creation-date = Data creării:
+pdfjs-document-properties-modification-date = Data modificării:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Autor:
+pdfjs-document-properties-producer = Producător PDF:
+pdfjs-document-properties-version = Versiune PDF:
+pdfjs-document-properties-page-count = Număr de pagini:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -35,9 +79,15 @@ pdfjs-print-button-label = Tipărește
 
 ##
 
+pdfjs-document-properties-close-button = Închide
 
 ## Print
 
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Renunță
+pdfjs-printing-not-supported = Avertisment: Tipărirea nu este suportată în totalitate de acest browser.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -66,6 +116,9 @@ pdfjs-find-not-found = Nu s-a găsit textul
 ## Predefined zoom values
 
 pdfjs-page-scale-fit = Potrivire la pagină
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -73,12 +126,14 @@ pdfjs-page-scale-fit = Potrivire la pagină
 ## Loading indicator messages
 
 pdfjs-missing-file-error = Fișier PDF lipsă.
+pdfjs-unexpected-response-error = Răspuns neașteptat de la server.
 
 ## Annotations
 
 
 ## Password
 
+pdfjs-password-cancel-button = Renunță
 
 ## Editing
 
