@@ -192,6 +192,7 @@ pdfjs-loading-error = Došlo je do greške prilikom učitavanja PDF-a.
 pdfjs-invalid-file-error = Neispravan ili oštećen PDF fajl.
 pdfjs-missing-file-error = Nedostaje PDF fajl.
 pdfjs-unexpected-response-error = Neočekivani odgovor servera.
+pdfjs-rendering-error = Došlo je do greške prilikom renderiranja strane.
 
 ## Annotations
 
