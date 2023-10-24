@@ -39,6 +39,18 @@ pdfjs-open-file-button-label = Отвори
 pdfjs-print-button =
     .title = Штампај
 pdfjs-print-button-label = Штампај
+pdfjs-save-button =
+    .title = Сачувај
+pdfjs-save-button-label = Сачувај
+pdfjs-bookmark-button =
+    .title = Тренутна страница (погледајте URL са тренутне странице)
+pdfjs-bookmark-button-label = Тренутна страница
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Отвори у апликацији
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Отвори у апликацији
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +75,9 @@ pdfjs-cursor-text-select-tool-button-label = Алат за селектовањ�
 pdfjs-cursor-hand-tool-button =
     .title = Омогући алат за померање
 pdfjs-cursor-hand-tool-button-label = Алат за померање
+pdfjs-scroll-page-button =
+    .title = Користи скроловање по омоту
+pdfjs-scroll-page-button-label = Скроловање странице
 pdfjs-scroll-vertical-button =
     .title = Користи вертикално скроловање
 pdfjs-scroll-vertical-button-label = Вертикално скроловање
@@ -154,14 +169,20 @@ pdfjs-printing-not-ready = Упозорење: PDF није у потпунос�
 
 pdfjs-toggle-sidebar-button =
     .title = Прикажи додатну палету
+pdfjs-toggle-sidebar-notification-button =
+    .title = Прикажи/сакриј бочну траку (документ садржи контуру/прилоге/слојеве)
 pdfjs-toggle-sidebar-button-label = Прикажи додатну палету
 pdfjs-document-outline-button-label = Контура документа
 pdfjs-attachments-button =
     .title = Прикажи прилоге
 pdfjs-attachments-button-label = Прилози
+pdfjs-layers-button =
+    .title = Прикажи слојеве (дупли клик за враћање свих слојева у подразумевано стање)
+pdfjs-layers-button-label = Слојеви
 pdfjs-thumbs-button =
     .title = Прикажи сличице
 pdfjs-thumbs-button-label = Сличице
+pdfjs-current-outline-item-button-label = Тренутна контура
 pdfjs-findbar-button =
     .title = Пронађи у документу
 pdfjs-findbar-button-label = Пронађи
@@ -186,6 +207,7 @@ pdfjs-find-previous-button-label = Претходна
 pdfjs-find-next-button-label = Следећа
 pdfjs-find-highlight-checkbox = Истакнути све
 pdfjs-find-match-case-checkbox-label = Подударања
+pdfjs-find-match-diacritics-checkbox-label = Дијакритика
 pdfjs-find-entire-word-checkbox-label = Целе речи
 pdfjs-find-reached-top = Достигнут врх документа, наставио са дна
 pdfjs-find-reached-bottom = Достигнуто дно документа, наставио са врха
@@ -208,6 +230,7 @@ pdfjs-page-scale-percent = { $scale }%
 
 pdfjs-loading-error = Дошло је до грешке приликом учитавања PDF-а.
 pdfjs-unexpected-response-error = Неочекиван одговор од сервера.
+pdfjs-rendering-error = Дошло је до грешке приликом рендеровања ове странице.
 
 ## Annotations
 
@@ -233,6 +256,25 @@ pdfjs-web-fonts-disabled = Веб фонтови су онемогућени: н
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Текст
+pdfjs-editor-free-text-button-label = Текст
+pdfjs-editor-ink-button =
+    .title = Цртај
+pdfjs-editor-ink-button-label = Цртај
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Боја
+pdfjs-editor-free-text-size-input = Величина
+pdfjs-editor-ink-color-input = Боја
+pdfjs-editor-ink-thickness-input = Дебљина
+pdfjs-editor-ink-opacity-input = Опацитет
+pdfjs-free-text =
+    .aria-label = Уређивач текста
+pdfjs-free-text-default-content = Почни куцање…
+pdfjs-ink =
+    .aria-label = Уређивач цртежа
+pdfjs-ink-canvas =
+    .aria-label = Кориснички направљена слика
 
 ## Alt-text dialog
 
