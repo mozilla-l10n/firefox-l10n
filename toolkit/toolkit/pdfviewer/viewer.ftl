@@ -25,9 +25,21 @@ pdfjs-presentation-mode-button-label = وضع العرض التقديمي
 pdfjs-open-file-button =
     .title = افتح ملفًا
 pdfjs-open-file-button-label = افتح
+pdfjs-print-button =
+    .title = اطبع
+pdfjs-print-button-label = اطبع
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = الأدوات
+pdfjs-tools-button-label = الأدوات
+pdfjs-page-rotate-cw-button =
+    .title = أدر باتجاه عقارب الساعة
+pdfjs-page-rotate-cw-button-label = أدر باتجاه عقارب الساعة
+pdfjs-page-rotate-ccw-button =
+    .title = أدر بعكس اتجاه عقارب الساعة
+pdfjs-page-rotate-ccw-button-label = أدر بعكس اتجاه عقارب الساعة
 
 ## Document properties dialog
 
@@ -98,9 +110,19 @@ pdfjs-loading-error = حدث عطل أثناء تحميل ملف PDF.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [تعليق { $type }]
 
 ## Password
 
+pdfjs-password-label = أدخل لكلمة السر لفتح هذا الملف.
+pdfjs-password-invalid = كلمة سر خطأ. من فضلك أعد المحاولة.
+pdfjs-password-ok-button = حسنا
 pdfjs-web-fonts-disabled = خطوط الوب مُعطّلة: تعذّر استخدام خطوط PDF المُضمّنة.
 
 ## Editing
