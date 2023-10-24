@@ -53,6 +53,12 @@ pdfjs-page-rotate-cw-button-label = Rotacion orària
 pdfjs-page-rotate-ccw-button =
     .title = Rotacion antiorària
 pdfjs-page-rotate-ccw-button-label = Rotacion antiorària
+pdfjs-cursor-text-select-tool-button =
+    .title = Activar l'aisina de seleccion de tèxte
+pdfjs-cursor-text-select-tool-button-label = Aisina de seleccion de tèxte
+pdfjs-cursor-hand-tool-button =
+    .title = Activar l’aisina man
+pdfjs-cursor-hand-tool-button-label = Aisina man
 
 ## Document properties dialog
 
@@ -74,6 +80,10 @@ pdfjs-document-properties-close-button = Tampar
 
 ## Print
 
+pdfjs-print-progress-message = Preparacion del document per l’impression…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
 pdfjs-print-progress-close-button = Anullar
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -81,6 +91,8 @@ pdfjs-print-progress-close-button = Anullar
 pdfjs-toggle-sidebar-button =
     .title = Afichar/amagar lo panèl lateral
 pdfjs-toggle-sidebar-button-label = Afichar/amagar lo panèl lateral
+pdfjs-document-outline-button =
+    .title = Mostrar los esquèmas del document (dobleclicar per espandre/reduire totes los elements)
 pdfjs-document-outline-button-label = Marcapaginas del document
 pdfjs-attachments-button =
     .title = Visualizar las pèças juntas
@@ -88,6 +100,7 @@ pdfjs-attachments-button-label = Pèças juntas
 pdfjs-thumbs-button =
     .title = Afichar las vinhetas
 pdfjs-thumbs-button-label = Vinhetas
+pdfjs-findbar-button-label = Recercar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -102,6 +115,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Recercar
+    .placeholder = Cercar dins lo document…
 pdfjs-find-previous-button =
     .title = Tròba l'ocurréncia precedenta de la frasa
 pdfjs-find-previous-button-label = Precedent
@@ -119,6 +135,9 @@ pdfjs-page-scale-width = Largor plena
 pdfjs-page-scale-fit = Pagina entièra
 pdfjs-page-scale-auto = Zoom automatic
 pdfjs-page-scale-actual = Talha vertadièra
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -127,6 +146,7 @@ pdfjs-page-scale-actual = Talha vertadièra
 
 pdfjs-invalid-file-error = Fichièr PDF invalid o corromput.
 pdfjs-missing-file-error = Fichièr PDF mancant.
+pdfjs-unexpected-response-error = Responsa de servidor imprevista.
 
 ## Annotations
 
