@@ -63,6 +63,15 @@ pdfjs-cursor-text-select-tool-button-label = כלי בחירת טקסט
 pdfjs-cursor-hand-tool-button =
     .title = הפעלת כלי היד
 pdfjs-cursor-hand-tool-button-label = כלי יד
+pdfjs-spread-none-button =
+    .title = לא לצרף מפתחי עמודים
+pdfjs-spread-none-button-label = ללא מפתחים
+pdfjs-spread-odd-button =
+    .title = צירוף מפתחי עמודים שמתחילים בדפים עם מספרים אי־זוגיים
+pdfjs-spread-odd-button-label = מפתחים אי־זוגיים
+pdfjs-spread-even-button =
+    .title = צירוף מפתחי עמודים שמתחילים בדפים עם מספרים זוגיים
+pdfjs-spread-even-button-label = מפתחים זוגיים
 
 ## Document properties dialog
 
@@ -93,6 +102,15 @@ pdfjs-document-properties-creator = יוצר:
 pdfjs-document-properties-producer = יצרן PDF:
 pdfjs-document-properties-version = גרסת PDF:
 pdfjs-document-properties-page-count = מספר דפים:
+pdfjs-document-properties-page-size = גודל העמוד:
+pdfjs-document-properties-page-size-unit-inches = אינ׳
+pdfjs-document-properties-page-size-unit-millimeters = מ״מ
+pdfjs-document-properties-page-size-orientation-portrait = לאורך
+pdfjs-document-properties-page-size-orientation-landscape = לרוחב
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = מכתב
+pdfjs-document-properties-page-size-name-legal = דף משפטי
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -152,6 +170,7 @@ pdfjs-find-previous-button-label = קודם
 pdfjs-find-next-button-label = הבא
 pdfjs-find-highlight-checkbox = הדגשת הכול
 pdfjs-find-match-case-checkbox-label = התאמת אותיות
+pdfjs-find-match-diacritics-checkbox-label = התאמה דיאקריטית
 pdfjs-find-reached-top = הגיע לראש הדף, ממשיך מלמטה
 pdfjs-find-reached-bottom = הגיע לסוף הדף, ממשיך מלמעלה
 
