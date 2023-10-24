@@ -5,6 +5,8 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Página yata
 pdfjs-zoom-select =
     .title = Nasa´a ka´nu/Nasa´a luli
 pdfjs-open-file-button-label = Síne
