@@ -5,6 +5,9 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = පිටුව
 pdfjs-print-button =
     .title = මුද්‍රණය
 pdfjs-print-button-label = මුද්‍රණය
@@ -44,6 +47,7 @@ pdfjs-document-properties-close-button = වසන්න
 
 ## Print
 
+pdfjs-print-progress-close-button = අවලංගු කරන්න
 
 ## Tooltips and alt text for side panel toolbar buttons
 
