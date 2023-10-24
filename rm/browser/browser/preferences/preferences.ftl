@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dir a websites da betg vender u cundivider mias datas
     .accesskey = s
+non-technical-privacy-header = Preferenzas per la protecziun da datas da websites
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reducziun da bandieras da cookies
 cookie-banner-handling-description = { -brand-short-name } emprova da refusar automaticamain dumondas da deponer cookies da bandieras da cookie sin websites cumpatiblas.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Bloccada da bandieras da cookies
+cookie-banner-blocker-description = Sch'ina website ta dumonda la lubientscha dad utilisar cookies en il modus privat, refusescha { -brand-short-name } automaticamain la dumonda per tai. Mo sin websites sustegnidas.
 cookie-banner-learn-more = Ulteriuras infurmaziuns
 forms-handle-cookie-banners =
     .label = Reducir las bandieras da cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Refusar automaticamain bandieras da cookies
 
 ## Privacy Section - Address Bar
 

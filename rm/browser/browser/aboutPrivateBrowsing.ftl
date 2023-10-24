@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = Nagins cookies memorisads e nagina cron
 about-private-browsing-cookie-banners-promo-header = Adia a las bandieras da cookies!
 about-private-browsing-cookie-banners-promo-button = Reducir las bandieras da cookies
 about-private-browsing-cookie-banners-promo-message = Lubescha a { -brand-short-name } da respunder automaticamain a pop-ups da cookies per tai. Uschia pos ti puspè navigar senza distracziun. { -brand-short-name } vegn a refusar sche pussaivel tut las dumondas.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } s'occupa da las bandieras da cookies per tai
+about-private-browsing-cookie-banners-promo-body = Nus refusain ussa automaticamain bleras bandieras da cookies per che ti vegnias persequità pli pauc e possias navigar senza distracziun.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
