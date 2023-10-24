@@ -174,6 +174,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Buscar
+    .placeholder = Buscar en el documento…
 pdfjs-find-previous-button =
     .title = Ir a la anterior frase encontrada
 pdfjs-find-previous-button-label = Anterior
