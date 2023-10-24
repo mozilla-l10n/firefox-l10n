@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Jelenlegi vázlatelem
 pdfjs-findbar-button =
     .title = Keresés a dokumentumban
 pdfjs-findbar-button-label = Keresés
+pdfjs-additional-layers = További rétegek
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
