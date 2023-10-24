@@ -11,6 +11,8 @@ pdfjs-previous-button-label = ก่อนหน้า
 pdfjs-next-button =
     .title = หน้าถัดไป
 pdfjs-next-button-label = ถัดไป
+pdfjs-open-file-button =
+    .title = เปิดไฟล์
 pdfjs-open-file-button-label = เปิด
 pdfjs-print-button =
     .title = พิมพ์
@@ -36,6 +38,24 @@ pdfjs-page-rotate-ccw-button-label = หมุนทวนเข็มนาฬ�
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = คุณสมบัติเอกสาร…
+pdfjs-document-properties-button-label = คุณสมบัติเอกสาร…
+pdfjs-document-properties-file-name = ชื่อไฟล์:
+pdfjs-document-properties-file-size = ขนาดไฟล์:
+pdfjs-document-properties-author = ผู้สร้าง:
+pdfjs-document-properties-subject = ชื่อเรื่อง:
+pdfjs-document-properties-keywords = คำสำคัญ:
+pdfjs-document-properties-creation-date = วันที่สร้าง:
+pdfjs-document-properties-modification-date = วันที่แก้ไข:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = ผู้สร้าง:
+pdfjs-document-properties-producer = ผู้ผลิต PDF:
+pdfjs-document-properties-version = รุ่น PDF:
+pdfjs-document-properties-page-count = จำนวนหน้า:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -47,9 +67,11 @@ pdfjs-page-rotate-ccw-button-label = หมุนทวนเข็มนาฬ�
 
 ##
 
+pdfjs-document-properties-close-button = ปิด
 
 ## Print
 
+pdfjs-printing-not-supported = คำเตือน: เบราว์เซอร์นี้ไม่ได้สนับสนุนการพิมพ์อย่างเต็มที่
 pdfjs-printing-not-ready = คำเตือน: PDF ไม่ได้รับการโหลดอย่างเต็มที่สำหรับการพิมพ์
 
 ## Tooltips and alt text for side panel toolbar buttons
@@ -84,12 +106,16 @@ pdfjs-find-reached-bottom = ค้นหาถึงจุดสิ้นสุ�
 
 pdfjs-page-scale-width = ความกว้างหน้า
 pdfjs-page-scale-fit = พอดีหน้า
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = ไฟล์ PDF ไม่ถูกต้องหรือเสียหาย
 
 ## Annotations
 
