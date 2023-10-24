@@ -7,14 +7,19 @@
 
 pdfjs-previous-button =
     .title = पछिला पृष्ठ
+pdfjs-previous-button-label = पछिला
 pdfjs-next-button =
     .title = अगिला पृष्ठ
+pdfjs-next-button-label = आगाँ
 pdfjs-zoom-out-button =
     .title = छोट करू
 pdfjs-zoom-out-button-label = छोट करू
 pdfjs-zoom-in-button =
     .title = पैघ करू
 pdfjs-zoom-in-button-label = जूम इन
+pdfjs-presentation-mode-button =
+    .title = प्रस्तुति अवस्थामे जाउ
+pdfjs-presentation-mode-button-label = प्रस्तुति अवस्था
 pdfjs-open-file-button =
     .title = फाइल खोलू
 pdfjs-open-file-button-label = खोलू
@@ -38,12 +43,19 @@ pdfjs-open-file-button-label = खोलू
 
 ## Print
 
+pdfjs-printing-not-supported = चेतावनी: ई ब्राउजर पर छपाइ पूर्ण तरह सँ समर्थित नहि अछि.
+pdfjs-printing-not-ready = चेतावनी: पीडीएफ छपाइक लेल पूर्ण तरह सँ लोड नहि अछि.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = स्लाइडर टागल
+pdfjs-toggle-sidebar-button-label = स्लाइडर टागल
 pdfjs-thumbs-button =
     .title = लघु-छवि देखाउ
 pdfjs-thumbs-button-label = लघु छवि
+pdfjs-findbar-button =
+    .title = दस्तावेजमे ढूँढू
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -60,8 +72,14 @@ pdfjs-thumb-page-canvas =
 
 pdfjs-find-previous-button =
     .title = खोजक पछिला उपस्थिति ताकू
+pdfjs-find-previous-button-label = पछिला
 pdfjs-find-next-button =
     .title = खोजक अगिला उपस्थिति ताकू
+pdfjs-find-next-button-label = आगाँ
+pdfjs-find-highlight-checkbox = सभटा आलोकित करू
+pdfjs-find-match-case-checkbox-label = मिलान स्थिति
+pdfjs-find-reached-top = पृष्ठक शीर्ष जाए पहुँचल, तल सँ जारी
+pdfjs-find-reached-bottom = पृष्ठक तल मे जाए पहुँचल, शीर्ष सँ जारी
 pdfjs-find-not-found = वाकींश नहि भेटल
 
 ## Predefined zoom values
@@ -77,12 +95,15 @@ pdfjs-page-scale-actual = सही आकार
 ## Loading indicator messages
 
 pdfjs-loading-error = पीडीएफ लोड करैत समय एकटा त्रुटि भेल.
+pdfjs-invalid-file-error = अमान्य अथवा भ्रष्ट PDF फाइल.
+pdfjs-missing-file-error = अनुपस्थित PDF फाइल.
 
 ## Annotations
 
 
 ## Password
 
+pdfjs-web-fonts-disabled = वेब फॉन्ट्स निष्क्रिय अछि: अंतःस्थापित PDF फान्टसक उपयोगमे असमर्थ.
 
 ## Editing
 
