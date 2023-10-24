@@ -57,6 +57,9 @@ pdfjs-page-rotate-cw-button-label = घड़ी की दिशा में �
 pdfjs-page-rotate-ccw-button =
     .title = घड़ी की दिशा से उल्टा घुमाएँ
 pdfjs-page-rotate-ccw-button-label = घड़ी की दिशा से उल्टा घुमाएँ
+pdfjs-cursor-hand-tool-button =
+    .title = हस्त उपकरण सक्षम करें
+pdfjs-cursor-hand-tool-button-label = हस्त उपकरण
 
 ## Document properties dialog
 
@@ -126,6 +129,7 @@ pdfjs-thumbs-button =
 pdfjs-thumbs-button-label = लघु छवि
 pdfjs-findbar-button =
     .title = दस्तावेज़ में ढूँढ़ें
+pdfjs-findbar-button-label = ढूँढें
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -140,6 +144,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = ढूँढें
+    .placeholder = दस्तावेज़ में खोजें...
 pdfjs-find-previous-button =
     .title = वाक्यांश की पिछली उपस्थिति ढूँढ़ें
 pdfjs-find-previous-button-label = पिछला
