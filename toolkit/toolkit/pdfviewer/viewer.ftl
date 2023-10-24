@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Поточний елемент змі
 pdfjs-findbar-button =
     .title = Знайти в документі
 pdfjs-findbar-button-label = Знайти
+pdfjs-additional-layers = Додаткові шари
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
