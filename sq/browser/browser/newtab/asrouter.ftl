@@ -210,6 +210,9 @@ july-jam-headline = Mendojmë ne për ju
 july-jam-body = Çdo muaj { -brand-short-name }-i bllokon mesatarisht mbi 3 mijë gjurmues për përdorues, duke ju dhënë përdorim të parrezik, të shpejtë të internetit të mbarë.
 july-jam-set-default-primary = Hapi lidhjet e mia me { -brand-short-name }
 fox-doodle-pin-headline = Mirë se u kthyet
+# “indie” is short for the term “independent”.
+# In this instance, free from outside influence or control.
+fox-doodle-pin-body = Ja një kujtues i shpejtë që mund ta mbani vetëm një klikim larg shfletuesin tuaj të parapëlqyer dhe të pavarur.
 fox-doodle-pin-primary = Hapi lidhjet e mia me { -brand-short-name }
 fox-doodle-pin-secondary = Jo tani
 
@@ -221,6 +224,7 @@ set-default-pdf-handler-primary = E mora vesh
 ## FxA sync CFR
 
 fxa-sync-cfr-header = Pajisje e re e juaj në të ardhmen?
+fxa-sync-cfr-body = Sigurohuni që faqerojtësit, fjalëkalimet dhe skedat tuaja më të reja vijnë me ju, kurdo që hapni një shfletues të ri { -brand-product-name }.
 fxa-sync-cfr-primary = Mësoni më tepër
     .accesskey = M
 fxa-sync-cfr-secondary = Kujtoma më vonë
@@ -229,11 +233,14 @@ fxa-sync-cfr-secondary = Kujtoma më vonë
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Po përdorni një pajisje të vjetër?
+device-migration-fxa-spotlight-body = Kopjeruani të dhënat tuaja, për të garantuar se nuk humbni informacione të rëndësishme, bie fjala, faqerojtës dhe fjalëkalime — veçanërisht nëse kaloni në një pajisje të re.
 device-migration-fxa-spotlight-primary-button = Si të kopjeruaj të dhënat e mia
 device-migration-fxa-spotlight-link = Kujtoma më vonë
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Të bëhet { -brand-short-name }-i lexuesi juaj parazgjedhje i PDF-ve?</strong> Përdorni { -brand-short-name }-in për të lexuar dhe përpunuar PDF të ruajtura në kompjuterin tuaj.
 pdf-default-notification-set-default-button =
     .label = Vëre si parazgjedhje
 pdf-default-notification-decline-button =

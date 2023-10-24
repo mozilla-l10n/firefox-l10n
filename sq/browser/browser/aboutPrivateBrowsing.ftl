@@ -73,4 +73,5 @@ about-private-browsing-cookie-banners-promo-body = Tani ne hedhim poshtë automa
 ## Strings for Felt Privacy v1 experiments in 119
 
 about-private-browsing-felt-privacy-v1-info-header = Mos lini gjurmë në këtë pajisje
+about-private-browsing-felt-privacy-v1-info-body = { -brand-short-name } fshin cookie-t, historikun dhe të dhëna sajti tuajat, kur mbyllni krejt dritaret tuaja private.
 about-private-browsing-felt-privacy-v1-info-link = Cilët mund të jenë në gjendje të shohin veprimtarinë time?

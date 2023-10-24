@@ -366,6 +366,8 @@ identity-https-only-dropdown-off-temporarily =
     .label = Off përkohësisht
 identity-https-only-info-turn-on2 = Aktivizoni Mënyrën Vetëm-HTTPS për këtë sajt, nëse doni që { -brand-short-name }-i të përmirësojë lidhjen, kur është e mundur.
 identity-https-only-info-turn-off2 = Nëse faqja duket të jetë e dëmtuar, mund të doni të çaktivizoni Mënyrën Vetëm-HTTPS- për këtë sajt, që të ringarkohet duke përdorur HTTP jo të sigurt.
+identity-https-only-info-turn-on3 = Nëse doni që { -brand-short-name }-i të përmirësojë lidhjen, kur kjo është e mundur, aktivizoni përmirësime HTTPS për këtë sajt.
+identity-https-only-info-turn-off3 = Nëse faqja duket e dëmtuar, mund të doni të çaktivizoni përmirësime  HTTPS për këtë sajt, që të ngarkohet duke përdorur HTTP jo të siguruar.
 identity-https-only-info-no-upgrade = S’arrihet të përmirësohet lidhja nga HTTP.
 identity-permissions-storage-access-header = Cookies nga sajti në sajt
 identity-permissions-storage-access-hint = Këto palë mund të përdorin “cross-site cookies” dhe të dhëna sajtesh, ndërkohë që jeni në këtë sajt.
@@ -558,6 +560,10 @@ urlbar-result-action-search-w-engine = Kërko me { $engine }
 urlbar-result-action-sponsored = E sponsorizuar
 urlbar-result-action-switch-tab = Kalo te Skeda
 urlbar-result-action-visit = Vizitojeni
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-your-clipboard = Vizitojeni që nga e papastra juaj
+# Allows the user to visit a URL that was previously copied to the clipboard.
+urlbar-result-action-visit-from-clipboard = Vizitojeni që nga e papastra
 # Directs a user to press the Tab key to perform a search with the specified
 # engine.
 # Variables
@@ -629,8 +635,13 @@ reader-view-close-button =
 ## Variables:
 ##   $shortcut (String) - Keyboard shortcut to execute the command.
 
+picture-in-picture-urlbar-button-open =
+    .tooltiptext = Hap Picture-in-Picture ({ $shortcut })
+picture-in-picture-urlbar-button-close =
+    .tooltiptext = Mbylle Picture-in-Picture ({ $shortcut })
 picture-in-picture-panel-header = Picture-in-Picture
 picture-in-picture-panel-headline = Ky sajt nuk rekomandon përdorim të “Picture-in-Picture”
+picture-in-picture-panel-body = Videot mund të mos shfaqen, ngaqë zhvilluesi i pat menduar me Picture-in-Picture të aktivizuar.
 picture-in-picture-enable-toggle =
     .label = Aktivizoje, sido qoftë
 
@@ -912,6 +923,7 @@ reset-pbm-toolbar-button =
     .label = Përfundo Sesion Privat
     .tooltiptext = Përfundoni Sesion Privat
 reset-pbm-panel-heading = Të përfundohet sesion privat?
+reset-pbm-panel-description = Mbyll krejt skedat private dhe fshi historik, “cookies” dhe të tjera të dhëna sajti.
 reset-pbm-panel-always-ask-checkbox =
     .label = Pyetmë përherë
     .accesskey = P
