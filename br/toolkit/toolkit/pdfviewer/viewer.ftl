@@ -57,6 +57,21 @@ pdfjs-page-rotate-cw-button-label = C'hwelañ gant roud ar bizied
 pdfjs-page-rotate-ccw-button =
     .title = C'hwelañ gant roud gin ar bizied
 pdfjs-page-rotate-ccw-button-label = C'hwelañ gant roud gin ar bizied
+pdfjs-cursor-text-select-tool-button =
+    .title = Gweredekaat an ostilh diuzañ testenn
+pdfjs-cursor-text-select-tool-button-label = Ostilh diuzañ testenn
+pdfjs-cursor-hand-tool-button =
+    .title = Gweredekaat an ostilh dorn
+pdfjs-cursor-hand-tool-button-label = Ostilh dorn
+pdfjs-scroll-vertical-button =
+    .title = Arverañ an dibunañ a-blom
+pdfjs-scroll-vertical-button-label = Dibunañ a-serzh
+pdfjs-scroll-horizontal-button =
+    .title = Arverañ an dibunañ a-blaen
+pdfjs-scroll-horizontal-button-label = Dibunañ a-blaen
+pdfjs-scroll-wrapped-button =
+    .title = Arverañ an dibunañ paket
+pdfjs-scroll-wrapped-button-label = Dibunañ paket
 
 ## Document properties dialog
 
@@ -75,6 +90,15 @@ pdfjs-document-properties-mb = { $size_mb } Me ({ $size_b } eizhbit)
 #   $date (Date) - the creation/modification date of the PDF file
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-page-size = Ment ar bajenn:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = poltred
+pdfjs-document-properties-page-size-orientation-landscape = gweledva
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Lizher
+pdfjs-document-properties-page-size-name-legal = Lezennel
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -83,9 +107,16 @@ pdfjs-document-properties-date-string = { $date }, { $time }
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Gwel Web Herrek:
+pdfjs-document-properties-linearized-yes = Ya
+pdfjs-document-properties-linearized-no = Ket
 pdfjs-document-properties-close-button = Serriñ
 
 ## Print
@@ -138,6 +169,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = War-lerc'h
 pdfjs-find-highlight-checkbox = Usskediñ pep tra
 pdfjs-find-match-case-checkbox-label = Teurel evezh ouzh ar pennlizherennoù
+pdfjs-find-entire-word-checkbox-label = Gerioù a-bezh
 pdfjs-find-reached-top = Tizhet eo bet derou ar bajenn, kenderc'hel diouzh an diaz
 pdfjs-find-reached-bottom = Tizhet eo bet dibenn ar bajenn, kenderc'hel diouzh ar c'hrec'h
 pdfjs-find-not-found = N'haller ket kavout ar frazenn
@@ -164,6 +196,10 @@ pdfjs-unexpected-response-error = Respont dic'hortoz a-berzh an dafariad
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
