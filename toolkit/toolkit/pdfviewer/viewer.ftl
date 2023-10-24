@@ -57,6 +57,10 @@ pdfjs-cursor-text-select-tool-button-label = Textavalsáhald
 pdfjs-cursor-hand-tool-button =
     .title = Virkja handarverkfæri
 pdfjs-cursor-hand-tool-button-label = Handarverkfæri
+pdfjs-scroll-vertical-button-label = Lóðrétt skrun
+pdfjs-scroll-horizontal-button =
+    .title = Nota lárétt skrun
+pdfjs-scroll-horizontal-button-label = Lárétt skrun
 
 ## Document properties dialog
 
@@ -109,6 +113,8 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+pdfjs-document-properties-linearized-yes = Já
+pdfjs-document-properties-linearized-no = Nei
 pdfjs-document-properties-close-button = Loka
 
 ## Print
@@ -160,6 +166,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Næsti
 pdfjs-find-highlight-checkbox = Lita allt
 pdfjs-find-match-case-checkbox-label = Passa við stafstöðu
+pdfjs-find-entire-word-checkbox-label = Heil orð
 pdfjs-find-reached-top = Náði efst í skjal, held áfram neðst
 pdfjs-find-reached-bottom = Náði enda skjals, held áfram efst
 pdfjs-find-not-found = Fann ekki orðið
