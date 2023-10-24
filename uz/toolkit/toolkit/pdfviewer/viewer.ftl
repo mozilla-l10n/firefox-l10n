@@ -11,6 +11,10 @@ pdfjs-previous-button-label = Oldingi
 pdfjs-next-button =
     .title = Keyingi sahifa
 pdfjs-next-button-label = Keyingi
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = /{ $pagesCount }
 pdfjs-zoom-out-button =
     .title = Kichiklashtirish
 pdfjs-zoom-out-button-label = Kichiklashtirish
@@ -99,6 +103,7 @@ pdfjs-printing-not-ready = Diqqat: PDF fayl chop qilish uchun toʻliq yuklanmadi
 pdfjs-toggle-sidebar-button =
     .title = Yon panelni yoqib/oʻchirib qoʻyish
 pdfjs-toggle-sidebar-button-label = Yon panelni yoqib/oʻchirib qoʻyish
+pdfjs-document-outline-button-label = Hujjat tuzilishi
 pdfjs-attachments-button =
     .title = Ilovalarni ko‘rsatish
 pdfjs-attachments-button-label = Ilovalar
@@ -139,6 +144,9 @@ pdfjs-page-scale-width = Sahifa eni
 pdfjs-page-scale-fit = Sahifani moslashtirish
 pdfjs-page-scale-auto = Avtomatik masshtab
 pdfjs-page-scale-actual = Haqiqiy hajmi
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -148,6 +156,7 @@ pdfjs-page-scale-actual = Haqiqiy hajmi
 pdfjs-loading-error = PDF yuklanayotganda xato yuz berdi.
 pdfjs-invalid-file-error = Xato yoki buzuq PDF fayli.
 pdfjs-missing-file-error = PDF fayl kerak.
+pdfjs-unexpected-response-error = Kutilmagan server javobi.
 
 ## Annotations
 
