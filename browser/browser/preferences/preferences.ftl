@@ -127,6 +127,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Hapni dritare dhe skeda të mëparshme
     .accesskey = H
+windows-launch-on-login =
+    .label = Hape { -brand-short-name }-in automatikisht, kur niset kompjuteri juaj
+    .accesskey = H
+windows-launch-on-login-disabled = Ky parapëlqim është çaktivizuar në Windows. Për ta ndryshuar, vizitoni <a data-l10n-name="startup-link">Startup Apps</a> te rregullime Sistemi.
 startup-restore-warn-on-quit =
     .label = T’ju sinjalizojë, kur dilni e mbyllni shfletuesin
 disable-extension =
@@ -972,6 +976,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Faqerojtësit
     .accesskey = F
+addressbar-locbar-clipboard-option =
+    .label = E papastër
+    .accesskey = a
 addressbar-locbar-openpage-option =
     .label = Skeda të hapura
     .accesskey = S
@@ -988,6 +995,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Veprime të shpejta
     .accesskey = V
+addressbar-locbar-showrecentsearches-option =
+    .label = Shfaq kërkime së fundi
+    .accesskey = k
 addressbar-suggestions-settings = Ndryshoni parapëlqimet mbi sugjerime nga motorë kërkimi
 addressbar-quickactions-learn-more = Mësoni më tepër
 
@@ -1066,6 +1076,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Krijues shenjash gishtash
     .accesskey = K
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Krijues shenjash gishtash të ditur
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Krijues shenjash gishtash të dyshuar
+    .accesskey = d
 
 ## Privacy Section - Tracking
 
@@ -1128,6 +1150,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
+collection-header2 = Grumbullim dhe Përdorim të Dhënash nga { -brand-short-name }-i
+    .searchkeywords = telemetri
 collection-description = Përpiqemi t’ju japim mundësi zgjedhjesh dhe grumbullojmë vetëm ç’na duhet për të ofruar dhe përmirësuar { -brand-short-name }-in për këdo. Kërkojmë përherë leje, përpara se të marrim të dhëna personale.
 collection-privacy-notice = Shënim Privatësie
 collection-health-report-telemetry-disabled = S’e lejoni më { -vendor-short-name } të marrë të dhëna teknike dhe ndërveprimesh. Krejt të dhënat e dikurshme do të fshihen brenda 30 ditësh.
@@ -1184,6 +1208,9 @@ certs-view =
 certs-devices =
     .label = Pajisje Sigurie…
     .accesskey = P
+certs-thirdparty-toggle =
+    .label = Lejojeni { -brand-short-name }-in të besojë automatikisht dëshmi rrënjë palësh të treta që instaloni
+    .accesskey = L
 space-alert-over-5gb-settings-button =
     .label = Hap Rregullimet
     .accesskey = H
@@ -1204,6 +1231,35 @@ httpsonly-radio-disabled =
 
 ## DoH Section
 
+preferences-doh-header = DNS përmes HTTPS-je
+# Variables:
+#   $status (string) - The status of the DoH connection
+preferences-doh-status = Gjendje: { $status }
+# Variables:
+#   $name (string) - The name of the DNS over HTTPS resolver. If a custom resolver is used, the name will be the domain of the URL.
+preferences-doh-resolver = Furnizues: { $name }
+# This is displayed instead of $name in preferences-doh-resolver
+# when the DoH URL is not a valid URL
+preferences-doh-bad-url = URL e pavlefshme
+preferences-doh-steering-status = Duke përdorur furnizues vendor
+preferences-doh-status-active = Aktive
+preferences-doh-status-disabled = Off
+# Variables:
+#   $reason (string) - A string representation of the reason DoH is not active. For example NS_ERROR_UNKNOWN_HOST or TRR_RCODE_FAIL.
+preferences-doh-status-not-active = Jo aktive ({ $reason })
+preferences-doh-group-message = Aktivizoni DNS të siguruar, duke përdorur:
+preferences-doh-expand-section =
+    .tooltiptext = Më tepër hollësi
+preferences-doh-setting-default =
+    .label = Mbrojtje Parazgjedhje
+    .accesskey = M
+preferences-doh-default-detailed-desc-1 = Në rajone ku është e mundur, përdor DNS të siguruar
+preferences-doh-default-detailed-desc-2 = Përdorni ftilluesin tuaj parazgjedhje DNS, nëse ka ndonjë problem me furnizuesin e DNS-së të siguruar
+preferences-doh-default-detailed-desc-3 = Përdor një furnizues vendor, në qoftë e mundur
+preferences-doh-setting-enabled =
+    .label = Shtim Mbrojtjeje
+    .accesskey = M
+preferences-doh-enabled-desc = Ju keni kontroll kur të përdoret DNS dhe zgjidhet furnizuesi juaj
 
 ## The following strings are used in the Download section of settings
 

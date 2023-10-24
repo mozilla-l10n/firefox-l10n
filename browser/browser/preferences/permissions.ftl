@@ -178,6 +178,7 @@ permissions-site-speaker-window =
     .title = Rregullime - Leje Altoparlanti
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Sajtet vijues kanë kërkuar të përzgjedhin një pajisje zëri në dalje. Mund të përcaktoni cilëve sajte u lejohet të përzgjedhin një pajisje zëri në dalje.
+permissions-exceptions-manage-doh-desc = { -brand-short-name }-i s’do të përdor DNS të siguruar në këto sajte dhe nënpërkatësitë e tyre.
 permissions-doh-entry-field = Jepni emrin e përkatësisë së sajtit
     .accesskey = p
 permissions-doh-add-exception =
