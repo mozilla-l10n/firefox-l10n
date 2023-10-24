@@ -7,27 +7,45 @@
 
 autofill-manage-addresses-title = Vistuð heimilisföng
 autofill-manage-addresses-list-header = Heimilisföng
-
 autofill-manage-credit-cards-title = Vistuð greiðslukort
 autofill-manage-credit-cards-list-header = Greiðslukort
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjarlægja
 autofill-manage-add-button = Bæta við…
 autofill-manage-edit-button = Breyta…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Vista póstfang?
+address-capture-update-doorhanger-header = Uppfæra tölvupóstfang?
+address-capture-edit-doorhanger-header = Breyta tölvupóstfangi
+address-capture-save-button =
+    .label = Vista
+    .accessKey = s
+address-capture-not-now-button =
+    .label = Ekki núna
+    .accessKey = n
+address-capture-cancel-button =
+    .label = Hætta við
+    .accessKey = H
+address-capture-update-button =
+    .label = Uppfæra
+    .accessKey = U
+address-capture-manage-address-button =
+    .label = Stillingar póstfangs
+address-capture-learn-more-button =
+    .label = Frekari upplýsingar
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Bæta við nýju heimilisfangi
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Breyta heimilisfangi
-
+autofill-address-name = Nafn
 autofill-address-given-name = Skírnarnafn
 autofill-address-additional-name = Millinafn
 autofill-address-family-name = Eftirnafn
 autofill-address-organization = Fyrirtæki
+autofill-address-street-address = Heimilisfang
 autofill-address-street = Heimilisfang
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +99,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Land eða hérað
+autofill-address-country-only = Land
 autofill-address-tel = Sími
 autofill-address-email = Tölvupóstfang
-
 autofill-cancel-button = Hætta við
 autofill-save-button = Vista
 autofill-country-warning-message = Sjálfvirkar útfyllingar er bara tiltækar fyrir sum lönd.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Bæta við nýju kortanúmeri
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Breyta kortanúmeri
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +121,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } er að reyna að sýna greiðslukortaupplýsingar. Staðfestu aðgang að þessum Windows-reikningi hér fyrir neðan.
        *[other] { -brand-short-name } er að reyna að birta upplýsingar um greiðslukort.
     }
-
 autofill-card-number = Kortanúmer
 autofill-card-invalid-number = Settu inn gilt kortanúmer
 autofill-card-name-on-card = Nafn á korti

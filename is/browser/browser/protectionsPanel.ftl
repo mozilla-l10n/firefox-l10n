@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Fækkun vefkökuborða
+protections-panel-cookie-banner-blocker-header = Útilokun vefkökuborða
 protections-panel-cookie-banner-handling-enabled = Kveikt fyrir þetta vefsvæði
 protections-panel-cookie-banner-handling-disabled = Slökkt fyrir þetta vefsvæði
 protections-panel-cookie-banner-handling-undetected = Vefsvæðið er ekki stutt í augnablikinu
@@ -128,6 +129,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Viltu slökkva á fækkun vefkökuborða fyrir { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Viltu kveikja á fækkun vefkökuborða fyrir þetta vefsvæði?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Útilokun vefkökuborða
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Viltu slökkva á útilokun vefkökuborða fyrir { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Viltu kveikja á útilokun vefkökuborða fyrir þetta vefsvæði?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } mun hreinsa vefkökur þessa vefsvæðis og endurlesa síðuna. Að hreinsa allar vefkökur gæti skráð þig út eða tæmt innkaupakörfur.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } reynir að hafna sjálfkrafa beiðnum um vefkökur á þeim vefsvæðum þar sem það er hægt.
 protections-panel-cookie-banner-view-cancel = Hætta við
