@@ -5,11 +5,23 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Pàgina anteriore
 pdfjs-previous-button-label = S'ischeda chi b'est primu
+pdfjs-next-button =
+    .title = Pàgina imbeniente
 pdfjs-next-button-label = Imbeniente
 # .title: Tooltip for the pageNumber input.
 pdfjs-page-input =
     .title = Pàgina
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = de { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } de { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Impitica
 pdfjs-zoom-out-button-label = Impitica
@@ -18,6 +30,9 @@ pdfjs-zoom-in-button =
 pdfjs-zoom-in-button-label = Ismànnia
 pdfjs-zoom-select =
     .title = Ismànnia
+pdfjs-presentation-mode-button =
+    .title = Cola a sa modalidade de presentatzione
+pdfjs-presentation-mode-button-label = Modalidade de presentatzione
 pdfjs-open-file-button =
     .title = Aberi s'archìviu
 pdfjs-open-file-button-label = Abertu
@@ -238,6 +253,7 @@ pdfjs-password-label = Inserta sa crae pro abèrrere custu archìviu PDF.
 pdfjs-password-invalid = Sa crae no est curreta. Torra a nche proare.
 pdfjs-password-ok-button = Andat bene
 pdfjs-password-cancel-button = Cantzella
+pdfjs-web-fonts-disabled = Is tipografias web sunt disativadas: is tipografias incrustadas a su PDF non podent èssere impreadas.
 
 ## Editing
 
@@ -254,6 +270,7 @@ pdfjs-editor-stamp-button-label = Agiunghe o modìfica immàgines
 pdfjs-editor-free-text-color-input = Colore
 pdfjs-editor-free-text-size-input = Mannària
 pdfjs-editor-ink-color-input = Colore
+pdfjs-editor-ink-thickness-input = Grussària
 pdfjs-editor-stamp-add-image-button =
     .title = Agiunghe un’immàgine
 pdfjs-editor-stamp-add-image-button-label = Agiunghe un’immàgine
