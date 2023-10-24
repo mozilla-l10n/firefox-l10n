@@ -175,6 +175,7 @@ pdfjs-loading-error = Firka bangay kaŋ PDF goo ma zumandi.
 pdfjs-invalid-file-error = PDF tuku laala wala laybante.
 pdfjs-missing-file-error = PDF tuku kumante.
 pdfjs-unexpected-response-error = Manti feršikaw tuuruyan maatante.
+pdfjs-rendering-error = Firka bangay kaŋ moɲoo goo ma willandi.
 
 ## Annotations
 
