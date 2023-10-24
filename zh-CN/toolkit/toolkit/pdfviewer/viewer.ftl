@@ -90,6 +90,7 @@ pdfjs-document-properties-modification-date = 修改日期:
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-creator = 创建者:
+pdfjs-document-properties-producer = PDF 生成器：
 pdfjs-document-properties-version = PDF 版本:
 pdfjs-document-properties-page-count = 页数:
 pdfjs-document-properties-page-size = 页面大小：
