@@ -153,6 +153,9 @@ pdfjs-unexpected-response-error = ਅਣਜਾਣ ਸਰਵਰ ਜਵਾਬ।
 ## Password
 
 pdfjs-password-label = ਇਹ PDF ਫਾਈਲ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਪਾਸਵਰਡ ਦਿਉ।
+pdfjs-password-invalid = ਗਲਤ ਪਾਸਵਰਡ। ਫੇਰ ਕੋਸ਼ਿਸ਼ ਕਰੋ ਜੀ।
+pdfjs-password-ok-button = ਠੀਕ ਹੈ
+pdfjs-password-cancel-button = ਰੱਦ ਕਰੋ
 pdfjs-web-fonts-disabled = ਵੈਬ ਫੋਂਟ ਬੰਦ ਹਨ: ਇੰਬੈਡ PDF ਫੋਂਟ ਨੂੰ ਵਰਤਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।
 
 ## Editing
