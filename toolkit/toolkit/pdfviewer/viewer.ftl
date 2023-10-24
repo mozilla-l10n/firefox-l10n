@@ -63,6 +63,18 @@ pdfjs-cursor-text-select-tool-button-label = Ferramenta de seleção de texto
 pdfjs-cursor-hand-tool-button =
     .title = Ativar ferramenta de mão
 pdfjs-cursor-hand-tool-button-label = Ferramenta de mão
+pdfjs-scroll-vertical-button =
+    .title = Utilizar deslocação vertical
+pdfjs-scroll-vertical-button-label = Deslocação vertical
+pdfjs-scroll-horizontal-button =
+    .title = Utilizar deslocação horizontal
+pdfjs-scroll-horizontal-button-label = Deslocação horizontal
+pdfjs-scroll-wrapped-button =
+    .title = Utilizar deslocação encapsulada
+pdfjs-scroll-wrapped-button-label = Deslocação encapsulada
+pdfjs-spread-none-button-label = Sem spreads
+pdfjs-spread-odd-button-label = Spreads ímpares
+pdfjs-spread-even-button-label = Spreads pares
 
 ## Document properties dialog
 
@@ -93,6 +105,15 @@ pdfjs-document-properties-creator = Criador:
 pdfjs-document-properties-producer = Produtor de PDF:
 pdfjs-document-properties-version = Versão do PDF:
 pdfjs-document-properties-page-count = N.º de páginas:
+pdfjs-document-properties-page-size = Tamanho da página:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = retrato
+pdfjs-document-properties-page-size-orientation-landscape = paisagem
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Carta
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,6 +122,8 @@ pdfjs-document-properties-page-count = N.º de páginas:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -123,12 +146,15 @@ pdfjs-toggle-sidebar-button =
 pdfjs-toggle-sidebar-button-label = Alternar barra lateral
 pdfjs-document-outline-button =
     .title = Mostrar esquema do documento (duplo clique para expandir/colapsar todos os itens)
+pdfjs-document-outline-button-label = Esquema do documento
 pdfjs-attachments-button =
     .title = Mostrar anexos
 pdfjs-attachments-button-label = Anexos
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-findbar-button =
+    .title = Localizar em documento
 pdfjs-findbar-button-label = Localizar
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -144,6 +170,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Localizar
+    .placeholder = Localizar em documento…
 pdfjs-find-previous-button =
     .title = Localizar ocorrência anterior da frase
 pdfjs-find-previous-button-label = Anterior
@@ -152,6 +181,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Seguinte
 pdfjs-find-highlight-checkbox = Destacar tudo
 pdfjs-find-match-case-checkbox-label = Correspondência
+pdfjs-find-entire-word-checkbox-label = Palavras completas
 pdfjs-find-reached-top = Topo do documento atingido, a continuar a partir do fundo
 pdfjs-find-reached-bottom = Fim do documento atingido, a continuar a partir do topo
 pdfjs-find-not-found = Frase não encontrada
@@ -178,6 +208,10 @@ pdfjs-unexpected-response-error = Resposta inesperada do servidor.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -188,9 +222,11 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Introduza a palavra-passe para abrir este ficheiro PDF.
 pdfjs-password-invalid = Palavra-passe inválida. Por favor, tente novamente.
 pdfjs-password-ok-button = OK
 pdfjs-password-cancel-button = Cancelar
+pdfjs-web-fonts-disabled = Os tipos de letra web estão desativados: não é possível utilizar os tipos de letra PDF embutidos.
 
 ## Editing
 
