@@ -63,6 +63,27 @@ pdfjs-cursor-text-select-tool-button-label = Teksto žymėjimo įrankis
 pdfjs-cursor-hand-tool-button =
     .title = Įjungti vilkimo įrankį
 pdfjs-cursor-hand-tool-button-label = Vilkimo įrankis
+pdfjs-scroll-page-button =
+    .title = Naudoti puslapio slinkimą
+pdfjs-scroll-page-button-label = Puslapio slinkimas
+pdfjs-scroll-vertical-button =
+    .title = Naudoti vertikalų slinkimą
+pdfjs-scroll-vertical-button-label = Vertikalus slinkimas
+pdfjs-scroll-horizontal-button =
+    .title = Naudoti horizontalų slinkimą
+pdfjs-scroll-horizontal-button-label = Horizontalus slinkimas
+pdfjs-scroll-wrapped-button =
+    .title = Naudoti išklotą slinkimą
+pdfjs-scroll-wrapped-button-label = Išklotas slinkimas
+pdfjs-spread-none-button =
+    .title = Nejungti puslapių į dvilapius
+pdfjs-spread-none-button-label = Be dvilapių
+pdfjs-spread-odd-button =
+    .title = Sujungti į dvilapius pradedant nelyginiais puslapiais
+pdfjs-spread-odd-button-label = Nelyginiai dvilapiai
+pdfjs-spread-even-button =
+    .title = Sujungti į dvilapius pradedant lyginiais puslapiais
+pdfjs-spread-even-button-label = Lyginiai dvilapiai
 
 ## Document properties dialog
 
@@ -93,6 +114,15 @@ pdfjs-document-properties-creator = Kūrėjas:
 pdfjs-document-properties-producer = PDF generatorius:
 pdfjs-document-properties-version = PDF versija:
 pdfjs-document-properties-page-count = Puslapių skaičius:
+pdfjs-document-properties-page-size = Puslapio dydis:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = stačias
+pdfjs-document-properties-page-size-orientation-landscape = gulsčias
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Laiškas
+pdfjs-document-properties-page-size-name-legal = Dokumentas
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,9 +131,16 @@ pdfjs-document-properties-page-count = Puslapių skaičius:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Spartus žiniatinklio rodinys:
+pdfjs-document-properties-linearized-yes = Taip
+pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Užverti
 
 ## Print
@@ -120,6 +157,8 @@ pdfjs-printing-not-ready = Dėmesio! PDF failas dar nėra pilnai įkeltas spausd
 
 pdfjs-toggle-sidebar-button =
     .title = Rodyti / slėpti šoninį polangį
+pdfjs-toggle-sidebar-notification-button =
+    .title = Parankinė (dokumentas turi struktūrą / priedų / sluoksnių)
 pdfjs-toggle-sidebar-button-label = Šoninis polangis
 pdfjs-document-outline-button =
     .title = Rodyti dokumento struktūrą (spustelėkite dukart norėdami išplėsti/suskleisti visus elementus)
@@ -127,12 +166,19 @@ pdfjs-document-outline-button-label = Dokumento struktūra
 pdfjs-attachments-button =
     .title = Rodyti priedus
 pdfjs-attachments-button-label = Priedai
+pdfjs-layers-button =
+    .title = Rodyti sluoksnius (spustelėkite dukart, norėdami atstatyti visus sluoksnius į numatytąją būseną)
+pdfjs-layers-button-label = Sluoksniai
 pdfjs-thumbs-button =
     .title = Rodyti puslapių miniatiūras
 pdfjs-thumbs-button-label = Miniatiūros
+pdfjs-current-outline-item-button =
+    .title = Rasti dabartinį struktūros elementą
+pdfjs-current-outline-item-button-label = Dabartinis struktūros elementas
 pdfjs-findbar-button =
     .title = Ieškoti dokumente
 pdfjs-findbar-button-label = Rasti
+pdfjs-additional-layers = Papildomi sluoksniai
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -158,6 +204,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Tolesnis
 pdfjs-find-highlight-checkbox = Viską paryškinti
 pdfjs-find-match-case-checkbox-label = Skirti didžiąsias ir mažąsias raides
+pdfjs-find-match-diacritics-checkbox-label = Skirti diakritinius ženklus
+pdfjs-find-entire-word-checkbox-label = Ištisi žodžiai
 pdfjs-find-reached-top = Pasiekus dokumento pradžią, paieška pratęsta nuo pabaigos
 pdfjs-find-reached-bottom = Pasiekus dokumento pabaigą, paieška pratęsta nuo pradžios
 pdfjs-find-not-found = Ieškoma frazė nerasta
@@ -174,6 +222,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = { $page } puslapis
 
 ## Loading indicator messages
 
@@ -184,6 +236,10 @@ pdfjs-unexpected-response-error = Netikėtas serverio atsakas.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
