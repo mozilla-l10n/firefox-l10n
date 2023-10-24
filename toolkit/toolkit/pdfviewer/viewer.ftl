@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Құрылымның ағымдағы 
 pdfjs-findbar-button =
     .title = Құжаттан табу
 pdfjs-findbar-button-label = Табу
+pdfjs-additional-layers = Қосымша қабаттар
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
