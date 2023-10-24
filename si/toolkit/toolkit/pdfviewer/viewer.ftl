@@ -11,9 +11,24 @@ pdfjs-print-button-label = මුද්‍රණය
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = මෙවලම්
+pdfjs-tools-button-label = මෙවලම්
+pdfjs-first-page-button =
+    .title = මුල් පිටුවට යන්න
+pdfjs-first-page-button-label = මුල් පිටුවට යන්න
+pdfjs-last-page-button =
+    .title = අවසන් පිටුවට යන්න
+pdfjs-last-page-button-label = අවසන් පිටුවට යන්න
 
 ## Document properties dialog
 
+pdfjs-document-properties-subject = මාතෘකාව:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-page-count = පිටු ගණන:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -25,6 +40,7 @@ pdfjs-print-button-label = මුද්‍රණය
 
 ##
 
+pdfjs-document-properties-close-button = වසන්න
 
 ## Print
 
@@ -45,10 +61,14 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-highlight-checkbox = සියල්ල උද්දීපනය
 
 ## Predefined zoom values
 
 pdfjs-page-scale-width = පිටුවේ පළල
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -61,6 +81,7 @@ pdfjs-page-scale-width = පිටුවේ පළල
 
 ## Password
 
+pdfjs-password-ok-button = හරි
 
 ## Editing
 
