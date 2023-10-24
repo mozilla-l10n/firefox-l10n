@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Папярэдняя
 pdfjs-next-button =
     .title = Наступная старонка
 pdfjs-next-button-label = Наступная
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Старонка
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = з { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } з { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Паменшыць
 pdfjs-zoom-out-button-label = Паменшыць
@@ -22,6 +33,9 @@ pdfjs-zoom-select =
 pdfjs-presentation-mode-button =
     .title = Пераключыцца ў рэжым паказу
 pdfjs-presentation-mode-button-label = Рэжым паказу
+pdfjs-open-file-button =
+    .title = Адкрыць файл
+pdfjs-open-file-button-label = Адкрыць
 pdfjs-print-button =
     .title = Друкаваць
 pdfjs-print-button-label = Друкаваць
@@ -34,6 +48,12 @@ pdfjs-first-page-button-label = Перайсці на першую старон�
 pdfjs-last-page-button =
     .title = Перайсці на апошнюю старонку
 pdfjs-last-page-button-label = Перайсці на апошнюю старонку
+pdfjs-page-rotate-cw-button =
+    .title = Павярнуць па сонцу
+pdfjs-page-rotate-cw-button-label = Павярнуць па сонцу
+pdfjs-page-rotate-ccw-button =
+    .title = Павярнуць супраць сонца
+pdfjs-page-rotate-ccw-button-label = Павярнуць супраць сонца
 
 ## Document properties dialog
 
@@ -75,16 +95,29 @@ pdfjs-document-properties-page-count = Колькасць старонак:
 
 ##
 
+pdfjs-document-properties-close-button = Закрыць
 
 ## Print
 
+pdfjs-print-progress-message = Падрыхтоўка дакумента да друку…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Скасаваць
+pdfjs-printing-not-supported = Папярэджанне: друк не падтрымліваецца цалкам гэтым браўзерам.
 pdfjs-printing-not-ready = Увага: PDF не сцягнуты цалкам для друкавання.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-document-outline-button =
+    .title = Паказаць структуру дакумента (двайная пстрычка, каб разгарнуць /згарнуць усе элементы)
+pdfjs-document-outline-button-label = Структура дакумента
 pdfjs-attachments-button =
     .title = Паказаць далучэнні
 pdfjs-attachments-button-label = Далучэнні
+pdfjs-thumbs-button =
+    .title = Паказ мініяцюр
+pdfjs-thumbs-button-label = Мініяцюры
 pdfjs-findbar-button =
     .title = Пошук у дакуменце
 pdfjs-findbar-button-label = Знайсці
@@ -95,6 +128,10 @@ pdfjs-findbar-button-label = Знайсці
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = Старонка { $page }
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = Мініяцюра старонкі { $page }
 
 ## Find panel button title and messages
 
@@ -114,6 +151,9 @@ pdfjs-find-not-found = Выраз не знойдзены
 pdfjs-page-scale-width = Шырыня старонкі
 pdfjs-page-scale-fit = Уцісненне старонкі
 pdfjs-page-scale-actual = Сапраўдны памер
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -122,6 +162,7 @@ pdfjs-page-scale-actual = Сапраўдны памер
 
 pdfjs-invalid-file-error = Няспраўны або пашкоджаны файл PDF.
 pdfjs-missing-file-error = Адсутны файл PDF.
+pdfjs-unexpected-response-error = Нечаканы адказ сервера.
 
 ## Annotations
 
@@ -135,8 +176,11 @@ pdfjs-text-annotation-type =
 
 ## Password
 
+pdfjs-password-label = Увядзіце пароль, каб адкрыць гэты файл PDF.
+pdfjs-password-invalid = Нядзейсны пароль. Паспрабуйце зноў.
 pdfjs-password-ok-button = Добра
 pdfjs-password-cancel-button = Скасаваць
+pdfjs-web-fonts-disabled = Шрыфты Сеціва забаронены: немагчыма ўжываць укладзеныя шрыфты PDF.
 
 ## Editing
 
