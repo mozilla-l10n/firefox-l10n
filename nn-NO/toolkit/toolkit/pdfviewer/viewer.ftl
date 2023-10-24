@@ -63,6 +63,9 @@ pdfjs-cursor-text-select-tool-button-label = Tekstmarkeringsverktøy
 pdfjs-cursor-hand-tool-button =
     .title = Aktiver handverktøy
 pdfjs-cursor-hand-tool-button-label = Handverktøy
+pdfjs-scroll-page-button =
+    .title = Bruk siderulling
+pdfjs-scroll-page-button-label = Siderulling
 pdfjs-scroll-vertical-button =
     .title = Bruk vertikal rulling
 pdfjs-scroll-vertical-button-label = Vertikal rulling
@@ -154,6 +157,8 @@ pdfjs-printing-not-ready = Åtvaring: PDF ikkje fullstendig innlasta for utskrif
 
 pdfjs-toggle-sidebar-button =
     .title = Slå av/på sidestolpe
+pdfjs-toggle-sidebar-notification-button =
+    .title = Vis/gøym sidestolpe (dokumentet inneheld oversikt/vedlegg/lag)
 pdfjs-toggle-sidebar-button-label = Slå av/på sidestolpe
 pdfjs-document-outline-button =
     .title = Vis dokumentdisposisjonen (dobbelklikk for å utvide/gøyme alle elementa)
@@ -161,9 +166,15 @@ pdfjs-document-outline-button-label = Dokumentdisposisjon
 pdfjs-attachments-button =
     .title = Vis vedlegg
 pdfjs-attachments-button-label = Vedlegg
+pdfjs-layers-button =
+    .title = Vis lag (dobbeltklikk for å tilbakestille alle lag til standardtilstand)
+pdfjs-layers-button-label = Lag
 pdfjs-thumbs-button =
     .title = Vis miniatyrbilde
 pdfjs-thumbs-button-label = Miniatyrbilde
+pdfjs-current-outline-item-button =
+    .title = Finn gjeldande disposisjonselement
+pdfjs-current-outline-item-button-label = Gjeldande disposisjonselement
 pdfjs-findbar-button =
     .title = Finn i dokumentet
 pdfjs-findbar-button-label = Finn
@@ -209,6 +220,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Side { $page }
 
 ## Loading indicator messages
 
@@ -219,6 +234,10 @@ pdfjs-unexpected-response-error = Uventa tenarrespons.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date } { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
