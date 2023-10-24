@@ -51,6 +51,7 @@ pdfjs-document-properties-close-button = Tôp
 # Variables:
 #   $progress (Number) - percent value
 pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Bateuë
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -79,6 +80,7 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Password
 
+pdfjs-password-cancel-button = Bateuë
 
 ## Editing
 
