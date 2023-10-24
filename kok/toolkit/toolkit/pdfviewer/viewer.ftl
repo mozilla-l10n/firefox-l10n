@@ -150,6 +150,7 @@ pdfjs-loading-error = पीडीएफ चालू जातना एरर 
 pdfjs-invalid-file-error = अवैध वो वाट लागिल्ली PDF फायल
 pdfjs-missing-file-error = शेणिल्ली PDF फायल.
 pdfjs-unexpected-response-error = अनपेक्षित सर्व्हर प्रतिसाद
+pdfjs-rendering-error = पान रेंडरिंग करतास्तना एरर आयलो
 
 ## Annotations
 
