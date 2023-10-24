@@ -66,6 +66,10 @@ pdfjs-document-properties-button-label = မှတ်တမ်းမှတ်ရ
 pdfjs-document-properties-file-name = ဖိုင် :
 pdfjs-document-properties-file-size = ဖိုင်ဆိုဒ် :
 # Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } ကီလိုဘိုတ် ({ $size_b }ဘိုတ်)
+# Variables:
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bytes)
