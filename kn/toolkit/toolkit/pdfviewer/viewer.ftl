@@ -172,6 +172,7 @@ pdfjs-text-annotation-type =
 
 pdfjs-password-label = PDF ಅನ್ನು ತೆರೆಯಲು ಗುಪ್ತಪದವನ್ನು ನಮೂದಿಸಿ.
 pdfjs-password-invalid = ಅಮಾನ್ಯವಾದ ಗುಪ್ತಪದ, ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ.
+pdfjs-password-ok-button = OK
 pdfjs-web-fonts-disabled = ಜಾಲ ಅಕ್ಷರಶೈಲಿಯನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ: ಅಡಕಗೊಳಿಸಿದ PDF ಅಕ್ಷರಶೈಲಿಗಳನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ.
 
 ## Editing
