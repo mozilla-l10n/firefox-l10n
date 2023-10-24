@@ -11,6 +11,17 @@ pdfjs-previous-button-label = 前へ
 pdfjs-next-button =
     .title = 次のページへ進みます
 pdfjs-next-button-label = 次へ
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = ページ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = / { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } / { $pagesCount })
 pdfjs-zoom-out-button =
     .title = 表示を縮小します
 pdfjs-zoom-out-button-label = 縮小
@@ -64,8 +75,33 @@ pdfjs-page-rotate-cw-button-label = 右回転
 pdfjs-page-rotate-ccw-button =
     .title = ページを左へ回転します
 pdfjs-page-rotate-ccw-button-label = 左回転
+pdfjs-cursor-text-select-tool-button =
+    .title = テキスト選択ツールを有効にします
 pdfjs-cursor-text-select-tool-button-label = テキスト選択ツール
+pdfjs-cursor-hand-tool-button =
+    .title = 手のひらツールを有効にします
 pdfjs-cursor-hand-tool-button-label = 手のひらツール
+pdfjs-scroll-page-button =
+    .title = ページ単位でスクロールします
+pdfjs-scroll-page-button-label = ページ単位でスクロール
+pdfjs-scroll-vertical-button =
+    .title = 縦スクロールにします
+pdfjs-scroll-vertical-button-label = 縦スクロール
+pdfjs-scroll-horizontal-button =
+    .title = 横スクロールにします
+pdfjs-scroll-horizontal-button-label = 横スクロール
+pdfjs-scroll-wrapped-button =
+    .title = 折り返しスクロールにします
+pdfjs-scroll-wrapped-button-label = 折り返しスクロール
+pdfjs-spread-none-button =
+    .title = 見開きにしません
+pdfjs-spread-none-button-label = 見開きにしない
+pdfjs-spread-odd-button =
+    .title = 奇数ページ開始で見開きにします
+pdfjs-spread-odd-button-label = 奇数ページ見開き
+pdfjs-spread-even-button =
+    .title = 偶数ページ開始で見開きにします
+pdfjs-spread-even-button-label = 偶数ページ見開き
 
 ## Document properties dialog
 
@@ -74,6 +110,14 @@ pdfjs-document-properties-button =
 pdfjs-document-properties-button-label = 文書の情報...
 pdfjs-document-properties-file-name = ファイル名:
 pdfjs-document-properties-file-size = ファイルサイズ:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } バイト)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } バイト)
 pdfjs-document-properties-title = タイトル:
 pdfjs-document-properties-author = 作成者:
 pdfjs-document-properties-subject = 件名:
@@ -88,6 +132,15 @@ pdfjs-document-properties-creator = アプリケーション:
 pdfjs-document-properties-producer = PDF 作成:
 pdfjs-document-properties-version = PDF のバージョン:
 pdfjs-document-properties-page-count = ページ数:
+pdfjs-document-properties-page-size = ページサイズ:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = 縦
+pdfjs-document-properties-page-size-orientation-landscape = 横
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = レター
+pdfjs-document-properties-page-size-name-legal = リーガル
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -96,14 +149,25 @@ pdfjs-document-properties-page-count = ページ数:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = ウェブ表示用に最適化:
+pdfjs-document-properties-linearized-yes = はい
+pdfjs-document-properties-linearized-no = いいえ
 pdfjs-document-properties-close-button = 閉じる
 
 ## Print
 
 pdfjs-print-progress-message = 文書のプリントを準備しています...
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = キャンセル
 pdfjs-printing-not-supported = 警告: このブラウザーではプリントが完全にサポートされていません。
 pdfjs-printing-not-ready = 警告: PDF をプリントするための読み込みが終了していません。
 
@@ -111,16 +175,28 @@ pdfjs-printing-not-ready = 警告: PDF をプリントするための読み込�
 
 pdfjs-toggle-sidebar-button =
     .title = サイドバー表示を切り替えます
+pdfjs-toggle-sidebar-notification-button =
+    .title = サイドバー表示を切り替えます (文書に含まれるアウトライン / 添付 / レイヤー)
 pdfjs-toggle-sidebar-button-label = サイドバーの切り替え
+pdfjs-document-outline-button =
+    .title = 文書の目次を表示します (ダブルクリックで項目を開閉します)
+pdfjs-document-outline-button-label = 文書の目次
 pdfjs-attachments-button =
     .title = 添付ファイルを表示します
 pdfjs-attachments-button-label = 添付ファイル
+pdfjs-layers-button =
+    .title = レイヤーを表示します (ダブルクリックですべてのレイヤーが初期状態に戻ります)
+pdfjs-layers-button-label = レイヤー
 pdfjs-thumbs-button =
     .title = 縮小版を表示します
 pdfjs-thumbs-button-label = 縮小版
+pdfjs-current-outline-item-button =
+    .title = 現在のアウトライン項目を検索
+pdfjs-current-outline-item-button-label = 現在のアウトライン項目
 pdfjs-findbar-button =
     .title = 文書内を検索します
 pdfjs-findbar-button-label = 検索
+pdfjs-additional-layers = 追加レイヤー
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -128,6 +204,10 @@ pdfjs-findbar-button-label = 検索
 #   $page (Number) - the page number
 pdfjs-thumb-page-title =
     .title = { $page } ページ
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-canvas =
+    .aria-label = { $page } ページの縮小版
 
 ## Find panel button title and messages
 
@@ -142,6 +222,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = 次へ
 pdfjs-find-highlight-checkbox = すべて強調表示
 pdfjs-find-match-case-checkbox-label = 大文字/小文字を区別
+pdfjs-find-match-diacritics-checkbox-label = 発音区別符号を区別
+pdfjs-find-entire-word-checkbox-label = 単語一致
 pdfjs-find-reached-top = 文書先頭に到達したので末尾から続けて検索します
 pdfjs-find-reached-bottom = 文書末尾に到達したので先頭から続けて検索します
 pdfjs-find-not-found = 見つかりませんでした
@@ -169,6 +251,7 @@ pdfjs-loading-error = PDF の読み込み中にエラーが発生しました。
 pdfjs-invalid-file-error = 無効または破損した PDF ファイル。
 pdfjs-missing-file-error = PDF ファイルが見つかりません。
 pdfjs-unexpected-response-error = サーバーから予期せぬ応答がありました。
+pdfjs-rendering-error = ページのレンダリング中にエラーが発生しました。
 
 ## Annotations
 
@@ -194,12 +277,31 @@ pdfjs-web-fonts-disabled = ウェブフォントが無効になっています: 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = フリーテキスト注釈
+pdfjs-editor-free-text-button-label = フリーテキスト注釈
+pdfjs-editor-ink-button =
+    .title = インク注釈
+pdfjs-editor-ink-button-label = インク注釈
 pdfjs-editor-stamp-button =
     .title = 画像を追加または編集します
 pdfjs-editor-stamp-button-label = 画像を追加または編集
+# Editor Parameters
+pdfjs-editor-free-text-color-input = カラー
+pdfjs-editor-free-text-size-input = サイズ
+pdfjs-editor-ink-color-input = カラー
+pdfjs-editor-ink-thickness-input = 太さ
+pdfjs-editor-ink-opacity-input = 不透明度
 pdfjs-editor-stamp-add-image-button =
     .title = 画像を追加します
 pdfjs-editor-stamp-add-image-button-label = 画像を追加
+pdfjs-free-text =
+    .aria-label = フリーテキスト注釈エディター
+pdfjs-free-text-default-content = テキストを入力してください...
+pdfjs-ink =
+    .aria-label = インク注釈エディター
+pdfjs-ink-canvas =
+    .aria-label = ユーザー作成画像
 
 ## Alt-text dialog
 
