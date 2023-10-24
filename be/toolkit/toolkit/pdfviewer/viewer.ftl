@@ -153,6 +153,7 @@ pdfjs-find-not-found = Выраз не знойдзены
 
 pdfjs-page-scale-width = Шырыня старонкі
 pdfjs-page-scale-fit = Уцісненне старонкі
+pdfjs-page-scale-auto = Аўтаматычнае павелічэнне
 pdfjs-page-scale-actual = Сапраўдны памер
 # Variables:
 #   $scale (Number) - percent value for page scale
