@@ -57,6 +57,7 @@ pdfjs-document-properties-file-name = Numele fișierului:
 pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } byți)
 pdfjs-document-properties-title = Titlu:
 pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-subject = Subiect:
 pdfjs-document-properties-keywords = Cuvinte cheie:
 pdfjs-document-properties-creation-date = Data creării:
 pdfjs-document-properties-modification-date = Data modificării:
@@ -94,6 +95,9 @@ pdfjs-printing-not-supported = Avertisment: Tipărirea nu este suportată în to
 pdfjs-toggle-sidebar-button =
     .title = Comută bara laterală
 pdfjs-toggle-sidebar-button-label = Comută bara laterală
+pdfjs-attachments-button =
+    .title = Afișează atașamentele
+pdfjs-attachments-button-label = Atașamente
 pdfjs-thumbs-button-label = Miniaturi
 
 ## Thumbnails panel item (tooltip and alt text for images)
