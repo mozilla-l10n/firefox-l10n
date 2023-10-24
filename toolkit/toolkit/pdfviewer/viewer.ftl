@@ -36,6 +36,9 @@ pdfjs-presentation-mode-button-label = Fuldskærmsvisning
 pdfjs-open-file-button =
     .title = Åbn fil
 pdfjs-open-file-button-label = Åbn
+pdfjs-print-button =
+    .title = Udskriv
+pdfjs-print-button-label = Udskriv
 
 ##  Secondary toolbar and context menu
 
@@ -169,6 +172,7 @@ pdfjs-thumbs-button-label = Miniaturer
 pdfjs-findbar-button =
     .title = Find i dokument
 pdfjs-findbar-button-label = Find
+pdfjs-additional-layers = Yderligere lag
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
