@@ -94,6 +94,9 @@ pdfjs-document-properties-producer = PDF उत्पादक:
 pdfjs-document-properties-version = PDF संस्करण:
 pdfjs-document-properties-page-count = पृष्ठ गिनती:
 pdfjs-document-properties-page-size = पृष्ठ आकार:
+pdfjs-document-properties-page-size-orientation-landscape = लैंडस्केप
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
