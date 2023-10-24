@@ -44,6 +44,7 @@ pdfjs-save-button =
 pdfjs-save-button-label = Simpan
 pdfjs-bookmark-button =
     .title = Laman Saat Ini (Lihat URL dari Laman Sekarang)
+pdfjs-bookmark-button-label = Laman Saat Ini
 
 ##  Secondary toolbar and context menu
 
