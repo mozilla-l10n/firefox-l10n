@@ -167,6 +167,7 @@ pdfjs-page-scale-percent = { $scale }%
 pdfjs-loading-error = ભૂલ ઉદ્ભવી જ્યારે PDF ને લાવી રહ્યા હોય.
 pdfjs-invalid-file-error = અયોગ્ય અથવા ભાંગેલ PDF ફાઇલ.
 pdfjs-missing-file-error = ગુમ થયેલ PDF ફાઇલ.
+pdfjs-unexpected-response-error = અનપેક્ષિત સર્વર પ્રતિસાદ.
 
 ## Annotations
 
