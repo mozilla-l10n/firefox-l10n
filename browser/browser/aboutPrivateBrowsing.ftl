@@ -22,12 +22,10 @@ about-private-browsing-not-private = Hëpërhë s'gjendeni në dritare private.
 about-private-browsing-info-description-private-window = Dritare private: { -brand-short-name }-i spastron historikët tuaj të kërkimeve dhe shfletimit, kur mbyllni krejt dritaret private. Kjo nuk ju bën anonim.
 about-private-browsing-info-description-simplified = { -brand-short-name }-i spastron historikët tuaj të kërkimeve dhe shfletimit, kur mbyllni krejt dritaret private, por kjo nuk ju bën anonim.
 about-private-browsing-learn-more-link = Mësoni më tepër
-
 about-private-browsing-hide-activity = Fshihni veprimtarinë dhe vendndodhjen tuaj, kudo ku shfletoni
 about-private-browsing-get-privacy = Përfitoni mbrojtje të privatësisë, kudo ku shfletoni
 about-private-browsing-hide-activity-1 = Fshihni me { -mozilla-vpn-brand-name }-in veprimtari shfletimi dhe vendndodhje. Një klikim krijon një lidhje të sigurt, madje edhe në Wi-Fi publik.
 about-private-browsing-prominent-cta = Jini privat, me { -mozilla-vpn-brand-name }
-
 about-private-browsing-focus-promo-cta = Shkarko { -focus-brand-name }
 about-private-browsing-focus-promo-header = { -focus-brand-name }: Shfletim privat në lëvizje
 about-private-browsing-focus-promo-text = Aplikacioni ynë enkas për shfletim privat në celular spastron historikun dhe cookie-t tuaja çdo herë.
@@ -38,7 +36,6 @@ about-private-browsing-focus-promo-header-b = Merrni shfletim privat në telefon
 about-private-browsing-focus-promo-text-b = Përdoreni { -focus-brand-name } për ato kërkime private që s’doni t’i shohë shfletuesi juaj kryesor për celular.
 about-private-browsing-focus-promo-header-c = Privatësi e një shkalle më sipër në celular
 about-private-browsing-focus-promo-text-c = { -focus-brand-name } spastron historikun tuaj çdo herë, teksa bllokon reklama dhe gjurmues.
-
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
@@ -51,7 +48,6 @@ about-private-browsing-search-banner-description =
     }
 about-private-browsing-search-banner-close-button =
     .aria-label = Mbylle
-
 about-private-browsing-promo-close-button =
     .title = Mbylle
 
@@ -72,3 +68,9 @@ about-private-browsing-pin-promo-title = Pa ruajtje cookie-sh apo historiku, dre
 about-private-browsing-cookie-banners-promo-header = Lamtumirë banderola cookie-sh!
 about-private-browsing-cookie-banners-promo-button = Redukto Banderola për Cookie-t
 about-private-browsing-cookie-banners-promo-message = Lejojeni { -brand-short-name }-i t’u përgjigjet vetvetiu për ju flluskave për cookie, që të mund t’i ktheheni shfletimit pa shpërqendrim. { -brand-short-name }-i do të hedhë poshtë krejt kërkesat, kur është e mundur.
+about-private-browsing-cookie-banners-promo-body = Tani ne hedhim poshtë automatikisht mjaft banderola cookie-sh, që t’ju ndjekin më pak dhe t’i riktheheni shfletimit pa shpërqendrim.
+
+## Strings for Felt Privacy v1 experiments in 119
+
+about-private-browsing-felt-privacy-v1-info-header = Mos lini gjurmë në këtë pajisje
+about-private-browsing-felt-privacy-v1-info-link = Cilët mund të jenë në gjendje të shohin veprimtarinë time?
