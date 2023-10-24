@@ -124,6 +124,9 @@ pdfjs-page-scale-width = Lebar Halaman
 pdfjs-page-scale-fit = Muat Halaman
 pdfjs-page-scale-auto = Zoom Automatik
 pdfjs-page-scale-actual = Saiz Sebenar
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
