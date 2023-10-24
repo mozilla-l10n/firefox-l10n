@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Roimhe Seo
 pdfjs-next-button =
     .title = An Chéad Leathanach Eile
 pdfjs-next-button-label = Ar Aghaidh
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Leathanach
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = as { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } as { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Súmáil Amach
 pdfjs-zoom-out-button-label = Súmáil Amach
@@ -46,6 +57,12 @@ pdfjs-page-rotate-cw-button-label = Rothlaigh ar deiseal
 pdfjs-page-rotate-ccw-button =
     .title = Rothlaigh ar tuathal
 pdfjs-page-rotate-ccw-button-label = Rothlaigh ar tuathal
+pdfjs-cursor-text-select-tool-button =
+    .title = Cumasaigh an Uirlis Roghnaithe Téacs
+pdfjs-cursor-text-select-tool-button-label = Uirlis Roghnaithe Téacs
+pdfjs-cursor-hand-tool-button =
+    .title = Cumasaigh an Uirlis Láimhe
+pdfjs-cursor-hand-tool-button-label = Uirlis Láimhe
 
 ## Document properties dialog
 
@@ -91,13 +108,22 @@ pdfjs-document-properties-close-button = Dún
 
 ## Print
 
+pdfjs-print-progress-message = Cáipéis á hullmhú le priontáil…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Cealaigh
 pdfjs-printing-not-supported = Rabhadh: Ní thacaíonn an brabhsálaí le priontáil go hiomlán.
+pdfjs-printing-not-ready = Rabhadh: Ní féidir an PDF a phriontáil go dtí go mbeidh an cháipéis iomlán lódáilte.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
 pdfjs-toggle-sidebar-button =
     .title = Scoránaigh an Barra Taoibh
 pdfjs-toggle-sidebar-button-label = Scoránaigh an Barra Taoibh
+pdfjs-document-outline-button =
+    .title = Taispeáin Imlíne na Cáipéise (déchliceáil chun chuile rud a leathnú nó a laghdú)
+pdfjs-document-outline-button-label = Creatlach na Cáipéise
 pdfjs-attachments-button =
     .title = Taispeáin Iatáin
 pdfjs-attachments-button-label = Iatáin
@@ -121,6 +147,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Aimsigh
+    .placeholder = Aimsigh sa cháipéis…
 pdfjs-find-previous-button =
     .title = Aimsigh an sampla roimhe seo den nath seo
 pdfjs-find-previous-button-label = Roimhe seo
@@ -131,6 +160,7 @@ pdfjs-find-highlight-checkbox = Aibhsigh uile
 pdfjs-find-match-case-checkbox-label = Cásíogair
 pdfjs-find-reached-top = Ag barr na cáipéise, ag leanúint ón mbun
 pdfjs-find-reached-bottom = Ag bun na cáipéise, ag leanúint ón mbarr
+pdfjs-find-not-found = Frása gan aimsiú
 
 ## Predefined zoom values
 
@@ -147,8 +177,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## Loading indicator messages
 
+pdfjs-loading-error = Tharla earráid agus an cháipéis PDF á lódáil.
 pdfjs-invalid-file-error = Comhad neamhbhailí nó truaillithe PDF.
 pdfjs-missing-file-error = Comhad PDF ar iarraidh.
+pdfjs-unexpected-response-error = Freagra ón bhfreastalaí nach rabhthas ag súil leis.
 
 ## Annotations
 
@@ -165,6 +197,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Cuir an focal faire isteach chun an comhad PDF seo a oscailt.
 pdfjs-password-invalid = Focal faire mícheart. Déan iarracht eile.
 pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Cealaigh
 pdfjs-web-fonts-disabled = Tá clófhoirne Gréasáin díchumasaithe: ní féidir clófhoirne leabaithe PDF a úsáid.
 
 ## Editing
