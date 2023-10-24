@@ -140,6 +140,7 @@ pdfjs-page-scale-percent = { $scale }%
 pdfjs-loading-error = Der is in flater bard by it laden fan de PDF.
 pdfjs-invalid-file-error = Ynfalide of korruptearre PDF-bestân.
 pdfjs-missing-file-error = PDF-bestân ûntbrekt.
+pdfjs-unexpected-response-error = Unferwacht serverantwurd.
 
 ## Annotations
 
