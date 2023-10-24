@@ -63,6 +63,24 @@ pdfjs-cursor-text-select-tool-button-label = Utensil per selecziunar text
 pdfjs-cursor-hand-tool-button =
     .title = Activar l'utensil da maun
 pdfjs-cursor-hand-tool-button-label = Utensil da maun
+pdfjs-scroll-vertical-button =
+    .title = Utilisar il defilar vertical
+pdfjs-scroll-vertical-button-label = Defilar vertical
+pdfjs-scroll-horizontal-button =
+    .title = Utilisar il defilar orizontal
+pdfjs-scroll-horizontal-button-label = Defilar orizontal
+pdfjs-scroll-wrapped-button =
+    .title = Utilisar il defilar en colonnas
+pdfjs-scroll-wrapped-button-label = Defilar en colonnas
+pdfjs-spread-none-button =
+    .title = Betg parallelisar las paginas
+pdfjs-spread-none-button-label = Betg parallel
+pdfjs-spread-odd-button =
+    .title = Parallelisar las paginas cun cumenzar cun paginas spèras
+pdfjs-spread-odd-button-label = Parallel spèr
+pdfjs-spread-even-button =
+    .title = Parallelisar las paginas cun cumenzar cun paginas pèras
+pdfjs-spread-even-button-label = Parallel pèr
 
 ## Document properties dialog
 
@@ -93,6 +111,15 @@ pdfjs-document-properties-creator = Creà da:
 pdfjs-document-properties-producer = Creà il PDF cun:
 pdfjs-document-properties-version = Versiun da PDF:
 pdfjs-document-properties-page-count = Dumber da paginas:
+pdfjs-document-properties-page-size = Grondezza da la pagina:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = vertical
+pdfjs-document-properties-page-size-orientation-landscape = orizontal
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Letter
+pdfjs-document-properties-page-size-name-legal = Legal
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,12 +128,16 @@ pdfjs-document-properties-page-count = Dumber da paginas:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
 # The linearization status of the document; usually called "Fast Web View" in
 # English locales of Adobe software.
 pdfjs-document-properties-linearized = Fast Web View:
+pdfjs-document-properties-linearized-yes = Gea
+pdfjs-document-properties-linearized-no = Na
 pdfjs-document-properties-close-button = Serrar
 
 ## Print
