@@ -39,7 +39,24 @@ pdfjs-open-file-button-label = Aç
 pdfjs-print-button =
     .title = Yazdır
 pdfjs-print-button-label = Yazdır
+pdfjs-save-button =
+    .title = Kaydet
+pdfjs-save-button-label = Kaydet
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = İndir
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = İndir
+pdfjs-bookmark-button =
+    .title = Geçerli sayfa (geçerli sayfanın adresini görüntüle)
 pdfjs-bookmark-button-label = Geçerli sayfa
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Uygulamada aç
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Uygulamada aç
 
 ##  Secondary toolbar and context menu
 
@@ -222,6 +239,10 @@ pdfjs-page-scale-percent = %{ $scale }
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Sayfa { $page }
 
 ## Loading indicator messages
 
@@ -255,19 +276,58 @@ pdfjs-web-fonts-disabled = Web fontları devre dışı: Gömülü PDF fontları 
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Metin
+pdfjs-editor-free-text-button-label = Metin
+pdfjs-editor-ink-button =
+    .title = Çiz
+pdfjs-editor-ink-button-label = Çiz
+pdfjs-editor-stamp-button =
+    .title = Resim ekle veya düzenle
+pdfjs-editor-stamp-button-label = Resim ekle veya düzenle
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Renk
 pdfjs-editor-free-text-size-input = Boyut
 pdfjs-editor-ink-color-input = Renk
 pdfjs-editor-ink-thickness-input = Kalınlık
 pdfjs-editor-ink-opacity-input = Saydamlık
+pdfjs-editor-stamp-add-image-button =
+    .title = Resim ekle
+pdfjs-editor-stamp-add-image-button-label = Resim ekle
+pdfjs-free-text =
+    .aria-label = Metin düzenleyicisi
+pdfjs-free-text-default-content = Yazmaya başlayın…
+pdfjs-ink =
+    .aria-label = Çizim düzenleyicisi
 pdfjs-ink-canvas =
     .aria-label = Kullanıcı tarafından oluşturulan resim
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternatif metin
+pdfjs-editor-alt-text-edit-button-label = Alternatif metni düzenle
+pdfjs-editor-alt-text-dialog-label = Bir seçenek seçin
+pdfjs-editor-alt-text-dialog-description = Alternatif metin, insanlar görseli göremediğinde veya görsel yüklenmediğinde işe yarar.
+pdfjs-editor-alt-text-add-description-label = Açıklama ekle
 pdfjs-editor-alt-text-add-description-description = Konuyu, ortamı veya eylemleri tanımlayan bir iki cümle yazmaya çalışın.
+pdfjs-editor-alt-text-mark-decorative-label = Dekoratif olarak işaretle
+pdfjs-editor-alt-text-mark-decorative-description = Kenarlıklar veya filigranlar gibi dekoratif görüntüler için kullanılır.
+pdfjs-editor-alt-text-cancel-button = Vazgeç
+pdfjs-editor-alt-text-save-button = Kaydet
+pdfjs-editor-alt-text-decorative-tooltip = Dekoratif olarak işaretlendi
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Örneğin, “Genç bir adam yemek yemek için masaya oturuyor”
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Sol üst köşe — yeniden boyutlandır
+pdfjs-editor-resizer-label-top-middle = Üst orta — yeniden boyutlandır
+pdfjs-editor-resizer-label-top-right = Sağ üst köşe — yeniden boyutlandır
+pdfjs-editor-resizer-label-middle-right = Orta sağ — yeniden boyutlandır
+pdfjs-editor-resizer-label-bottom-right = Sağ alt köşe — yeniden boyutlandır
+pdfjs-editor-resizer-label-bottom-middle = Alt orta — yeniden boyutlandır
+pdfjs-editor-resizer-label-bottom-left = Sol alt köşe — yeniden boyutlandır
+pdfjs-editor-resizer-label-middle-left = Orta sol — yeniden boyutlandır
