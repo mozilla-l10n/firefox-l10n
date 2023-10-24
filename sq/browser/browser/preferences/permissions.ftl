@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Përjashtime
     .style = min-width: 36em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Adresë e sajtit
     .accesskey = d
-
 permissions-block =
     .label = Bllokoje
     .accesskey = B
-
 permissions-disable-etp =
     .label = Shtoni Përjashtim
     .accesskey = S
-
 permissions-session =
     .label = Lejoje për Sesionin
     .accesskey = S
-
 permissions-allow =
     .label = Lejoje
     .accesskey = L
-
 permissions-button-off =
     .label = Çaktivizoje
     .accesskey = Ç
-
 permissions-button-off-temporarily =
     .label = Çaktivizoje Përkohësisht
     .accesskey = P
-
 permissions-site-name =
     .label = Sajt
-
 permissions-status =
     .label = Gjendje
-
 permissions-remove =
     .label = Hiqe Sajtin
     .accesskey = H
-
 permissions-remove-all =
     .label = Hiqi Krejt Sajtet
     .accesskey = k
-
 permission-dialog =
     .buttonlabelaccept = Ruaji Ndryshimet
     .buttonaccesskeyaccept = R
-
 permissions-autoplay-menu = Parazgjedhje për krejt sajtet:
-
 permissions-searchbox =
     .placeholder = Kërko Në Sajte
-
 permissions-capabilities-autoplay-allow =
     .label = Lejo Audio dhe Video
 permissions-capabilities-autoplay-block =
     .label = Blloko Audion
 permissions-capabilities-autoplay-blockall =
     .label = Blloko Audio dhe Video
-
 permissions-capabilities-allow =
     .label = Lejoje
 permissions-capabilities-block =
     .label = Bllokoje
 permissions-capabilities-prompt =
     .label = Pyet Përherë
-
 permissions-capabilities-listitem-allow =
     .value = Lejoje
 permissions-capabilities-listitem-block =
     .value = Bllokoje
 permissions-capabilities-listitem-allow-session =
     .value = Lejoje për Sesionin
-
 permissions-capabilities-listitem-off =
     .value = Off
 permissions-capabilities-listitem-off-temporarily =
@@ -197,4 +178,16 @@ permissions-site-speaker-window =
     .title = Rregullime - Leje Altoparlanti
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Sajtet vijues kanë kërkuar të përzgjedhin një pajisje zëri në dalje. Mund të përcaktoni cilëve sajte u lejohet të përzgjedhin një pajisje zëri në dalje.
-
+permissions-doh-entry-field = Jepni emrin e përkatësisë së sajtit
+    .accesskey = p
+permissions-doh-add-exception =
+    .label = Shtoje
+    .accesskey = S
+permissions-doh-col =
+    .label = Përkatësi
+permissions-doh-remove =
+    .label = Hiqe
+    .accesskey = H
+permissions-doh-remove-all =
+    .label = Hiqi Krejt
+    .accesskey = K

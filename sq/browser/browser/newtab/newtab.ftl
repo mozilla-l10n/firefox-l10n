@@ -228,6 +228,7 @@ newtab-pocket-saved = U ruajt
 
 ## Pocket content onboarding experience dialog and modal for new users seeing the Pocket section for the first time, shown as the first item in the Pocket section.
 
+newtab-pocket-onboarding-discover = Zbuloni më të mirat e internetit
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
