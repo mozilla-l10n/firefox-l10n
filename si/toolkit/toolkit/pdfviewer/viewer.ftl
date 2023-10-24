@@ -23,6 +23,7 @@ pdfjs-first-page-button-label = මුල් පිටුවට යන්න
 pdfjs-last-page-button =
     .title = අවසන් පිටුවට යන්න
 pdfjs-last-page-button-label = අවසන් පිටුවට යන්න
+pdfjs-cursor-hand-tool-button-label = අත් මෙවලම
 
 ## Document properties dialog
 
@@ -32,6 +33,9 @@ pdfjs-document-properties-subject = මාතෘකාව:
 #   $time (Time) - the creation/modification time of the PDF file
 pdfjs-document-properties-date-string = { $date }, { $time }
 pdfjs-document-properties-page-count = පිටු ගණන:
+pdfjs-document-properties-page-size-unit-inches = අඟල්
+pdfjs-document-properties-page-size-orientation-portrait = සිරස්
+pdfjs-document-properties-page-size-orientation-landscape = තිරස්
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
 
