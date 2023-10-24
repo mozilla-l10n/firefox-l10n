@@ -7,6 +7,8 @@
 
 pdfjs-zoom-select =
     .title = Kwoti
+pdfjs-open-file-button =
+    .title = Yab Pwail
 
 ##  Secondary toolbar and context menu
 
@@ -33,6 +35,10 @@ pdfjs-zoom-select =
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = Pot buk { $page }
 
 ## Find panel button title and messages
 
