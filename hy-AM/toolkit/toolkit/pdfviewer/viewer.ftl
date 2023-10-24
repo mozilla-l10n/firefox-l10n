@@ -78,6 +78,8 @@ pdfjs-spread-even-button-label = Զույգ վերածածկեր
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Փաստաթղթի հատկությունները…
 pdfjs-document-properties-button-label = Փաստաթղթի հատկությունները…
 pdfjs-document-properties-file-name = Նիշքի անունը.
 pdfjs-document-properties-file-size = Նիշք չափը.
@@ -104,6 +106,7 @@ pdfjs-document-properties-producer = PDF-ի հեղինակը.
 pdfjs-document-properties-version = PDF-ի տարբերակը.
 pdfjs-document-properties-page-count = Էջերի քանակը.
 pdfjs-document-properties-page-size = Էջի չափը.
+pdfjs-document-properties-page-size-unit-inches = ում
 pdfjs-document-properties-page-size-unit-millimeters = մմ
 pdfjs-document-properties-page-size-orientation-portrait = ուղղաձիգ
 pdfjs-document-properties-page-size-orientation-landscape = հորիզոնական
@@ -146,6 +149,8 @@ pdfjs-printing-not-ready = Զգուշացում. PDF-ը ամբողջությամ
 pdfjs-toggle-sidebar-button =
     .title = Բացել/Փակել Կողային վահանակը
 pdfjs-toggle-sidebar-button-label = Բացել/Փակել Կողային վահանակը
+pdfjs-document-outline-button =
+    .title = Ցուցադրել փաստաթղթի ուրվագիծը (կրկնակի սեղմեք՝ միավորները ընդարձակելու/կոծկելու համար)
 pdfjs-document-outline-button-label = Փաստաթղթի բովանդակությունը
 pdfjs-attachments-button =
     .title = Ցուցադրել կցորդները
