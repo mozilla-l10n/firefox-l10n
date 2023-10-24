@@ -18,14 +18,35 @@ autofill-manage-edit-button = 編輯…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = 要儲存地址嗎？
+address-capture-save-doorhanger-description = 將資訊儲存到 { -brand-short-name }，這樣之後就可以快速填寫表單。
+address-capture-update-doorhanger-header = 要更新地址嗎？
+address-capture-edit-doorhanger-header = 編輯地址
+address-capture-save-button =
+    .label = 儲存
+    .accessKey = S
+address-capture-not-now-button =
+    .label = 現在不要
+    .accessKey = N
+address-capture-cancel-button =
+    .label = 取消
+    .accessKey = C
+address-capture-update-button =
+    .label = 更新
+    .accessKey = U
+address-capture-manage-address-button =
+    .label = 地址設定
+address-capture-learn-more-button =
+    .label = 了解更多
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = 新增地址
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = 編輯地址
+autofill-address-name = 姓名
 autofill-address-given-name = 名字
 autofill-address-additional-name = 中間名
 autofill-address-family-name = 姓氏
 autofill-address-organization = 公司
+autofill-address-street-address = 街道地址
 autofill-address-street = 街道地址
 
 ## address-level-3 (Sublocality) names
@@ -83,6 +104,7 @@ autofill-address-eircode = Eircode 郵遞區號
 ##
 
 autofill-address-country = 國家或地區
+autofill-address-country-only = 國家
 autofill-address-tel = 電話號碼
 autofill-address-email = 電子郵件
 autofill-cancel-button = 取消
