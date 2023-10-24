@@ -25,6 +25,9 @@ pdfjs-presentation-mode-button-label = উপস্থাপন অৱস্থ�
 pdfjs-open-file-button =
     .title = ফাইল খোলক
 pdfjs-open-file-button-label = খোলক
+pdfjs-print-button =
+    .title = প্ৰিণ্ট কৰক
+pdfjs-print-button-label = প্ৰিণ্ট কৰক
 
 ##  Secondary toolbar and context menu
 
@@ -88,6 +91,9 @@ pdfjs-document-properties-close-button = বন্ধ কৰক
 
 ## Print
 
+pdfjs-print-progress-close-button = বাতিল কৰক
+pdfjs-printing-not-supported = সতৰ্কবাৰ্তা: প্ৰিণ্টিং এই ব্ৰাউছাৰ দ্বাৰা সম্পূৰ্ণভাৱে সমৰ্থিত নহয়।
+pdfjs-printing-not-ready = সতৰ্কবাৰ্তা: PDF প্ৰিণ্টিংৰ বাবে সম্পূৰ্ণভাৱে ল'ডেড নহয়।
 
 ## Tooltips and alt text for side panel toolbar buttons
 
@@ -95,6 +101,9 @@ pdfjs-toggle-sidebar-button =
     .title = কাষবাৰ টগল কৰক
 pdfjs-toggle-sidebar-button-label = কাষবাৰ টগল কৰক
 pdfjs-document-outline-button-label = দস্তাবেজ আউটলাইন
+pdfjs-attachments-button =
+    .title = এটাচমেণ্টসমূহ দেখুৱাওক
+pdfjs-attachments-button-label = এটাচমেণ্টসমূহ
 pdfjs-thumbs-button =
     .title = থাম্বনেইলসমূহ দেখুৱাওক
 pdfjs-thumbs-button-label = থাম্বনেইলসমূহ
@@ -138,6 +147,7 @@ pdfjs-page-scale-actual = প্ৰকৃত আকাৰ
 
 ## Loading indicator messages
 
+pdfjs-loading-error = PDF ল'ড কৰোঁতে এটা ত্ৰুটি দেখা দিলে।
 pdfjs-invalid-file-error = অবৈধ অথবা ক্ষতিগ্ৰস্থ PDF file।
 pdfjs-missing-file-error = সন্ধানহিন PDF ফাইল।
 pdfjs-unexpected-response-error = অপ্ৰত্যাশিত চাৰ্ভাৰ প্ৰতিক্ৰিয়া।
@@ -157,6 +167,8 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = এই PDF ফাইল খোলিবলৈ পাছৱৰ্ড সুমুৱাওক।
 pdfjs-password-invalid = অবৈধ পাছৱৰ্ড। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।
 pdfjs-password-ok-button = ঠিক আছে
+pdfjs-password-cancel-button = বাতিল কৰক
+pdfjs-web-fonts-disabled = ৱেব ফণ্টসমূহ অসামৰ্থবান কৰা আছে: অন্তৰ্ভুক্ত PDF ফণ্টসমূহ ব্যৱহাৰ কৰিবলে অক্ষম।
 
 ## Editing
 
