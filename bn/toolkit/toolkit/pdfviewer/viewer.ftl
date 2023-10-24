@@ -186,6 +186,7 @@ pdfjs-find-previous-button-label = পূর্ববর্তী
 pdfjs-find-next-button =
     .title = বাক্যাংশের পরবর্তী উপস্থিতি অনুসন্ধান
 pdfjs-find-next-button-label = পরবর্তী
+pdfjs-find-highlight-checkbox = সব হাইলাইট করুন
 pdfjs-find-match-case-checkbox-label = অক্ষরের ছাঁদ মেলানো
 pdfjs-find-entire-word-checkbox-label = সম্পূর্ণ শব্দ
 pdfjs-find-reached-top = পাতার শুরুতে পৌছে গেছে, নীচ থেকে আরম্ভ করা হয়েছে
