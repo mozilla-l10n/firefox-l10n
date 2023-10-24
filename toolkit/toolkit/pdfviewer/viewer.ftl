@@ -187,6 +187,7 @@ pdfjs-current-outline-item-button-label = Objekt i Tanishëm i Përvijuar
 pdfjs-findbar-button =
     .title = Gjeni në Dokument
 pdfjs-findbar-button-label = Gjej
+pdfjs-additional-layers = Shtresa Shtesë
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
