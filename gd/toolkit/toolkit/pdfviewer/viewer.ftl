@@ -51,6 +51,8 @@ pdfjs-printing-not-supported = Rabhadh: Chan eil am brabhsair seo a' cur làn-ta
 pdfjs-thumbs-button =
     .title = Seall na dealbhagan
 pdfjs-thumbs-button-label = Dealbhagan
+pdfjs-findbar-button =
+    .title = Lorg san sgrìobhainn
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -65,6 +67,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Lorg làthair roimhe na h-abairt seo
+pdfjs-find-previous-button-label = Air ais
+pdfjs-find-next-button =
+    .title = Lorg ath-làthair na h-abairt seo
+pdfjs-find-next-button-label = Air adhart
+pdfjs-find-highlight-checkbox = Soillsich a h-uile
+pdfjs-find-match-case-checkbox-label = Aire do litrichean mòra is beaga
+pdfjs-find-reached-top = Ràinig sinn barr na duilleige, a' leantainn air adhart o bhonn na duilleige
+pdfjs-find-reached-bottom = Ràinig sinn bonn na duilleige, a' leantainn air adhart o bharr na duilleige
+pdfjs-find-not-found = Cha deach an abairt a lorg
 
 ## Predefined zoom values
 
@@ -79,6 +92,7 @@ pdfjs-page-scale-actual = Am fìor-mheud
 ## Loading indicator messages
 
 pdfjs-loading-error = Thachair mearachd rè luchdadh a' PDF.
+pdfjs-invalid-file-error = Faidhle PDF a tha mì-dhligheach no coirbte.
 
 ## Annotations
 
