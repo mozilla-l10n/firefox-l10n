@@ -53,6 +53,12 @@ pdfjs-page-rotate-cw-button-label = సవ్యదిశలో తిప్ప�
 pdfjs-page-rotate-ccw-button =
     .title = అపసవ్యదిశలో తిప్పు
 pdfjs-page-rotate-ccw-button-label = అపసవ్యదిశలో తిప్పు
+pdfjs-cursor-text-select-tool-button =
+    .title = టెక్స్ట్ ఎంపిక సాధనాన్ని ప్రారంభించండి
+pdfjs-cursor-text-select-tool-button-label = టెక్స్ట్ ఎంపిక సాధనం
+pdfjs-cursor-hand-tool-button =
+    .title = చేతి సాధనం చేతనించు
+pdfjs-cursor-hand-tool-button-label = చేతి సాధనం
 
 ## Document properties dialog
 
@@ -83,6 +89,15 @@ pdfjs-document-properties-creator = సృష్టికర్త:
 pdfjs-document-properties-producer = PDF ఉత్పాదకి:
 pdfjs-document-properties-version = PDF వర్షన్:
 pdfjs-document-properties-page-count = పేజీల సంఖ్య:
+pdfjs-document-properties-page-size = కాగితం పరిమాణం:
+pdfjs-document-properties-page-size-unit-inches = లో
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = నిలువుచిత్రం
+pdfjs-document-properties-page-size-orientation-landscape = అడ్డచిత్రం
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = లేఖ
+pdfjs-document-properties-page-size-name-legal = చట్టపరమైన
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -91,6 +106,8 @@ pdfjs-document-properties-page-count = పేజీల సంఖ్య:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
@@ -133,6 +150,9 @@ pdfjs-thumb-page-title =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = కనుగొను
+    .placeholder = పత్రములో కనుగొను…
 pdfjs-find-previous-button =
     .title = పదం యొక్క ముందు సంభవాన్ని కనుగొను
 pdfjs-find-previous-button-label = మునుపటి
