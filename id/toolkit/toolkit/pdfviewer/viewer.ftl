@@ -68,6 +68,9 @@ pdfjs-cursor-text-select-tool-button-label = Alat Seleksi Teks
 pdfjs-cursor-hand-tool-button =
     .title = Aktifkan Alat Tangan
 pdfjs-cursor-hand-tool-button-label = Alat Tangan
+pdfjs-scroll-page-button =
+    .title = Gunakan Pengguliran Laman
+pdfjs-scroll-page-button-label = Pengguliran Laman
 pdfjs-scroll-vertical-button =
     .title = Gunakan Penggeseran Vertikal
 pdfjs-scroll-vertical-button-label = Penggeseran Vertikal
@@ -168,6 +171,8 @@ pdfjs-document-outline-button-label = Kerangka Dokumen
 pdfjs-attachments-button =
     .title = Tampilkan Lampiran
 pdfjs-attachments-button-label = Lampiran
+pdfjs-layers-button =
+    .title = Tampilkan Lapisan (klik ganda untuk mengatur ulang semua lapisan ke keadaan baku)
 pdfjs-layers-button-label = Lapisan
 pdfjs-thumbs-button =
     .title = Tampilkan Miniatur
@@ -221,6 +226,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Halaman { $page }
 
 ## Loading indicator messages
 
@@ -271,6 +280,8 @@ pdfjs-free-text =
 pdfjs-free-text-default-content = Mulai mengetik…
 pdfjs-ink =
     .aria-label = Editor Gambar
+pdfjs-ink-canvas =
+    .aria-label = Gambar yang dibuat pengguna
 
 ## Alt-text dialog
 
