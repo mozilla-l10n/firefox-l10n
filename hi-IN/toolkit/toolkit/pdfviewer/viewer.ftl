@@ -69,6 +69,9 @@ pdfjs-scroll-vertical-button-label = लंबवत स्क्रॉलिं
 pdfjs-scroll-horizontal-button =
     .title = क्षितिजिय स्क्रॉलिंग का उपयोग करें
 pdfjs-scroll-horizontal-button-label = क्षितिजिय स्क्रॉलिंग
+pdfjs-scroll-wrapped-button =
+    .title = व्राप्पेड स्क्रॉलिंग का उपयोग करें
+pdfjs-spread-none-button-label = कोई स्प्रेड उपलब्ध नहीं
 
 ## Document properties dialog
 
