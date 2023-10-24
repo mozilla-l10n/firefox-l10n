@@ -11,6 +11,17 @@ pdfjs-previous-button-label = Алдыңғысы
 pdfjs-next-button =
     .title = Келесі парақ
 pdfjs-next-button-label = Келесі
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Парақ
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = { $pagesCount } ішінен
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = (парақ { $pageNumber }, { $pagesCount } ішінен)
 pdfjs-zoom-out-button =
     .title = Кішірейту
 pdfjs-zoom-out-button-label = Кішірейту
@@ -46,6 +57,33 @@ pdfjs-page-rotate-ccw-button-label = Сағат тілі бағытына қар
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Құжат қасиеттері…
+pdfjs-document-properties-button-label = Құжат қасиеттері…
+pdfjs-document-properties-file-name = Файл аты:
+pdfjs-document-properties-file-size = Файл өлшемі:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } КБ ({ $size_b } байт)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } МБ ({ $size_b } байт)
+pdfjs-document-properties-title = Тақырыбы:
+pdfjs-document-properties-author = Авторы:
+pdfjs-document-properties-subject = Тақырыбы:
+pdfjs-document-properties-keywords = Кілт сөздер:
+pdfjs-document-properties-creation-date = Жасалған күні:
+pdfjs-document-properties-modification-date = Түзету күні:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Жасаған:
+pdfjs-document-properties-producer = PDF өндірген:
+pdfjs-document-properties-version = PDF нұсқасы:
+pdfjs-document-properties-page-count = Беттер саны:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -57,9 +95,15 @@ pdfjs-page-rotate-ccw-button-label = Сағат тілі бағытына қар
 
 ##
 
+pdfjs-document-properties-close-button = Жабу
 
 ## Print
 
+pdfjs-print-progress-message = Құжатты баспаға шығару үшін дайындау…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Бас тарту
 pdfjs-printing-not-supported = Ескерту: Баспаға шығаруды бұл браузер толығымен қолдамайды.
 pdfjs-printing-not-ready = Ескерту: Баспаға шығару үшін, бұл PDF толығымен жүктеліп алынбады.
 
@@ -68,6 +112,12 @@ pdfjs-printing-not-ready = Ескерту: Баспаға шығару үшін,
 pdfjs-toggle-sidebar-button =
     .title = Бүйір панелін көрсету/жасыру
 pdfjs-toggle-sidebar-button-label = Бүйір панелін көрсету/жасыру
+pdfjs-document-outline-button =
+    .title = Құжат құрылымын көрсету (барлық нәрселерді жазық қылу/жинау үшін қос шерту керек)
+pdfjs-document-outline-button-label = Құжат құрамасы
+pdfjs-attachments-button =
+    .title = Салынымдарды көрсету
+pdfjs-attachments-button-label = Салынымдар
 pdfjs-thumbs-button =
     .title = Кіші көріністерді көрсету
 pdfjs-thumbs-button-label = Кіші көріністер
@@ -88,6 +138,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Табу
+    .placeholder = Құжаттан табу…
 pdfjs-find-previous-button =
     .title = Осы сөздердің мәтіннен алдыңғы кездесуін табу
 pdfjs-find-previous-button-label = Алдыңғысы
@@ -106,6 +159,9 @@ pdfjs-page-scale-width = Парақ ені
 pdfjs-page-scale-fit = Парақты сыйдыру
 pdfjs-page-scale-auto = Автомасштабтау
 pdfjs-page-scale-actual = Нақты өлшемі
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -115,6 +171,7 @@ pdfjs-page-scale-actual = Нақты өлшемі
 pdfjs-loading-error = PDF жүктеу кезінде қате кетті.
 pdfjs-invalid-file-error = Зақымдалған немесе қате PDF файл.
 pdfjs-missing-file-error = PDF файлы жоқ.
+pdfjs-unexpected-response-error = Сервердің күтпеген жауабы.
 
 ## Annotations
 
@@ -131,6 +188,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Бұл PDF файлын ашу үшін парольді енгізіңіз.
 pdfjs-password-invalid = Пароль дұрыс емес. Қайталап көріңіз.
 pdfjs-password-ok-button = ОК
+pdfjs-password-cancel-button = Бас тарту
 pdfjs-web-fonts-disabled = Веб қаріптері сөндірілген: құрамына енгізілген PDF қаріптерін қолдану мүмкін емес.
 
 ## Editing
