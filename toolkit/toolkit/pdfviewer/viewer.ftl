@@ -153,6 +153,8 @@ pdfjs-printing-not-supported = 警告：此浏览器尚未完整支持打印功�
 
 pdfjs-toggle-sidebar-button =
     .title = 切换侧栏
+pdfjs-toggle-sidebar-notification-button =
+    .title = 切换侧栏（文档所含的大纲/附件/图层）
 pdfjs-toggle-sidebar-button-label = 切换侧栏
 pdfjs-document-outline-button =
     .title = 显示文档大纲（双击展开/折叠所有项）
@@ -160,15 +162,25 @@ pdfjs-document-outline-button-label = 文档大纲
 pdfjs-attachments-button =
     .title = 显示附件
 pdfjs-attachments-button-label = 附件
+pdfjs-layers-button =
+    .title = 显示图层（双击即可将所有图层重置为默认状态）
+pdfjs-layers-button-label = 图层
 pdfjs-thumbs-button =
     .title = 显示缩略图
 pdfjs-thumbs-button-label = 缩略图
+pdfjs-current-outline-item-button =
+    .title = 查找当前大纲项目
+pdfjs-current-outline-item-button-label = 当前大纲项目
 pdfjs-findbar-button =
     .title = 在文档中查找
 pdfjs-findbar-button-label = 查找
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-thumb-page-title =
+    .title = 第 { $page } 页
 # Variables:
 #   $page (Number) - the page number
 pdfjs-thumb-page-canvas =
@@ -203,6 +215,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = 第 { $page } 页
 
 ## Loading indicator messages
 
