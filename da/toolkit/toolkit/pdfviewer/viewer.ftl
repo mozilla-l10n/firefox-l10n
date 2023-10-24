@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Åbn
 pdfjs-print-button =
     .title = Udskriv
 pdfjs-print-button-label = Udskriv
+pdfjs-save-button =
+    .title = Gem
+pdfjs-save-button-label = Gem
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Hent
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Hent
+pdfjs-bookmark-button =
+    .title = Aktuel side (vis URL fra den aktuelle side)
+pdfjs-bookmark-button-label = Aktuel side
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Åbn i app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Åbn i app
 
 ##  Secondary toolbar and context menu
 
@@ -166,9 +184,15 @@ pdfjs-document-outline-button-label = Dokument-disposition
 pdfjs-attachments-button =
     .title = Vis vedhæftede filer
 pdfjs-attachments-button-label = Vedhæftede filer
+pdfjs-layers-button =
+    .title = Vis lag (dobbeltklik for at nulstille alle lag til standard-tilstanden)
+pdfjs-layers-button-label = Lag
 pdfjs-thumbs-button =
     .title = Vis miniaturer
 pdfjs-thumbs-button-label = Miniaturer
+pdfjs-current-outline-item-button =
+    .title = Find det aktuelle dispositions-element
+pdfjs-current-outline-item-button-label = Aktuelt dispositions-element
 pdfjs-findbar-button =
     .title = Find i dokument
 pdfjs-findbar-button-label = Find
@@ -216,6 +240,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Side { $page }
 
 ## Loading indicator messages
 
@@ -223,6 +251,7 @@ pdfjs-loading-error = Der opstod en fejl ved indlæsning af PDF-filen.
 pdfjs-invalid-file-error = PDF-filen er ugyldig eller ødelagt.
 pdfjs-missing-file-error = Manglende PDF-fil.
 pdfjs-unexpected-response-error = Uventet svar fra serveren.
+pdfjs-rendering-error = Der opstod en fejl ved generering af siden.
 
 ## Annotations
 
@@ -251,20 +280,42 @@ pdfjs-web-fonts-disabled = Webskrifttyper er deaktiverede. De indlejrede skriftt
 pdfjs-editor-free-text-button =
     .title = Tekst
 pdfjs-editor-free-text-button-label = Tekst
+pdfjs-editor-ink-button =
+    .title = Tegn
+pdfjs-editor-ink-button-label = Tegn
+pdfjs-editor-stamp-button =
+    .title = Tilføj eller rediger billeder
+pdfjs-editor-stamp-button-label = Tilføj eller rediger billeder
 # Editor Parameters
 pdfjs-editor-free-text-color-input = Farve
 pdfjs-editor-free-text-size-input = Størrelse
 pdfjs-editor-ink-color-input = Farve
 pdfjs-editor-ink-thickness-input = Tykkelse
 pdfjs-editor-ink-opacity-input = Uigennemsigtighed
+pdfjs-editor-stamp-add-image-button =
+    .title = Tilføj billede
+pdfjs-editor-stamp-add-image-button-label = Tilføj billede
 pdfjs-free-text =
     .aria-label = Teksteditor
 pdfjs-free-text-default-content = Begynd at skrive…
+pdfjs-ink =
+    .aria-label = Tegnings-editor
 pdfjs-ink-canvas =
     .aria-label = Brugeroprettet billede
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Alternativ tekst
+pdfjs-editor-alt-text-edit-button-label = Rediger alternativ tekst
+pdfjs-editor-alt-text-dialog-description = Alternativ tekst hjælper folk, som ikke kan se billedet eller når det ikke indlæses.
+pdfjs-editor-alt-text-add-description-description = Sigt efter en eller to sætninger, der beskriver emnet, omgivelserne eller handlinger.
+pdfjs-editor-alt-text-mark-decorative-label = Marker som dekorativ
+pdfjs-editor-alt-text-mark-decorative-description = Dette bruges for dekorative billeder som rammer eller vandmærker.
+pdfjs-editor-alt-text-decorative-tooltip = Markeret som dekorativ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = For eksempel: "En ung mand sætter sig ved et bord for at spise et måltid mad"
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
