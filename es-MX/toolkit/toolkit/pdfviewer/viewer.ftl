@@ -181,9 +181,13 @@ pdfjs-layers-button-label = Capas
 pdfjs-thumbs-button =
     .title = Mostrar miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-current-outline-item-button =
+    .title = Buscar elemento de esquema actual
+pdfjs-current-outline-item-button-label = Elemento de esquema actual
 pdfjs-findbar-button =
     .title = Buscar en el documento
 pdfjs-findbar-button-label = Buscar
+pdfjs-additional-layers = Capas adicionales
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -227,6 +231,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Página { $page }
 
 ## Loading indicator messages
 
