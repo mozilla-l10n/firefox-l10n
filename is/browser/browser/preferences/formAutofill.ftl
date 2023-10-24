@@ -18,6 +18,7 @@ autofill-manage-edit-button = Breyta…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Vista póstfang?
+address-capture-save-doorhanger-description = Vistaðu upplýsingar í { -brand-short-name } svo þú getir fyllt út eyðuform á fljótlegan máta.
 address-capture-update-doorhanger-header = Uppfæra tölvupóstfang?
 address-capture-edit-doorhanger-header = Breyta tölvupóstfangi
 address-capture-save-button =
