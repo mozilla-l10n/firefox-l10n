@@ -222,6 +222,7 @@ pdfjs-find-next-button-label = Келесі
 pdfjs-find-highlight-checkbox = Барлығын түспен ерекшелеу
 pdfjs-find-match-case-checkbox-label = Регистрді ескеру
 pdfjs-find-match-diacritics-checkbox-label = Диакритиканы ескеру
+pdfjs-find-entire-word-checkbox-label = Сөздер толығымен
 pdfjs-find-reached-top = Құжаттың басына жеттік, соңынан бастап жалғастырамыз
 pdfjs-find-reached-bottom = Құжаттың соңына жеттік, басынан бастап жалғастырамыз
 pdfjs-find-not-found = Сөз(дер) табылмады
