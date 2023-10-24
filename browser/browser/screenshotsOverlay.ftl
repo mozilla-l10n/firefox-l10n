@@ -6,3 +6,9 @@ screenshots-overlay-cancel-button = Annulearje
 screenshots-overlay-instructions = Sleep of klik op de side om in gebied te selektearjen. Druk op ESC om te annulearjen.
 screenshots-overlay-download-button = Downloade
 screenshots-overlay-copy-button = Kopiearje
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size = { $width } x { $height }
