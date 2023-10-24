@@ -7,18 +7,37 @@
 
 pdfjs-previous-button =
     .title = पिछला पृष्ठ
+pdfjs-previous-button-label = पिछला
 pdfjs-next-button =
     .title = अगला पृष्ठ
+pdfjs-next-button-label = आगे
 pdfjs-zoom-in-button =
     .title = बड़ा करें
 pdfjs-zoom-in-button-label = बड़ा करें
 pdfjs-zoom-select =
     .title = बड़ा-छोटा करें
+pdfjs-presentation-mode-button =
+    .title = प्रस्तुति अवस्था में जाएँ
 pdfjs-open-file-button =
     .title = फ़ाइल खोलें
+pdfjs-print-button =
+    .title = छापें
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = औज़ार
+pdfjs-tools-button-label = औज़ार
+pdfjs-first-page-button =
+    .title = प्रथम पृष्ठ पर जाएँ
+pdfjs-first-page-button-label = प्रथम पृष्ठ पर जाएँ
+pdfjs-last-page-button =
+    .title = अंतिम पृष्ठ पर जाएँ
+pdfjs-page-rotate-cw-button =
+    .title = घड़ी की दिशा में घुमाएँ
+pdfjs-page-rotate-cw-button-label = घड़ी की दिशा में घुमाएँ
+pdfjs-page-rotate-ccw-button =
+    .title = घड़ी की दिशा से उल्टा घुमाएँ
 
 ## Document properties dialog
 
@@ -40,6 +59,7 @@ pdfjs-printing-not-supported = चेतावनी: इस ब्राउज�
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button-label = स्लाइडर टॉगल करें
 pdfjs-thumbs-button =
     .title = लघुछवियाँ दिखाएँ
 pdfjs-thumbs-button-label = लघु छवि
@@ -57,6 +77,15 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = वाक्यांश की पिछली उपस्थिति ढूँढ़ें
+pdfjs-find-previous-button-label = पिछला
+pdfjs-find-next-button =
+    .title = वाक्यांश की अगली उपस्थिति ढूँढ़ें
+pdfjs-find-match-case-checkbox-label = मिलान स्थिति
+pdfjs-find-reached-top = पृष्ठ के ऊपर पहुंच गया, नीचे से जारी रखें
+pdfjs-find-reached-bottom = पृष्ठ के नीचे में जा पहुँचा, ऊपर से जारी
+pdfjs-find-not-found = वाक्यांश नहीं मिला
 
 ## Predefined zoom values
 
@@ -69,12 +98,15 @@ pdfjs-page-scale-actual = वास्तविक आकार
 
 ## Loading indicator messages
 
+pdfjs-invalid-file-error = अमान्य या भ्रष्ट PDF फ़ाइल.
 
 ## Annotations
 
 
 ## Password
 
+pdfjs-password-invalid = अवैध कूटशब्द, कृपया फिर कोशिश करें.
+pdfjs-web-fonts-disabled = वेब फॉन्ट्स निष्क्रिय हैं: अंतःस्थापित PDF फॉन्टस के उपयोग में असमर्थ.
 
 ## Editing
 
