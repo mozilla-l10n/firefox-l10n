@@ -39,6 +39,24 @@ pdfjs-open-file-button-label = Avrir
 pdfjs-print-button =
     .title = Stampar
 pdfjs-print-button-label = Stampar
+pdfjs-save-button =
+    .title = Memorisar
+pdfjs-save-button-label = Memorisar
+# Used in Firefox for Android as a tooltip for the download button (“download” is a verb).
+pdfjs-download-button =
+    .title = Telechargiar
+# Used in Firefox for Android as a label for the download button (“download” is a verb).
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-download-button-label = Telechargiar
+pdfjs-bookmark-button =
+    .title = Pagina actuala (mussar l'URL da la pagina actuala)
+pdfjs-bookmark-button-label = Pagina actuala
+# Used in Firefox for Android.
+pdfjs-open-in-app-button =
+    .title = Avrir en ina app
+# Used in Firefox for Android.
+# Length of the translation matters since we are in a mobile context, with limited screen estate.
+pdfjs-open-in-app-button-label = Avrir en ina app
 
 ##  Secondary toolbar and context menu
 
@@ -63,6 +81,9 @@ pdfjs-cursor-text-select-tool-button-label = Utensil per selecziunar text
 pdfjs-cursor-hand-tool-button =
     .title = Activar l'utensil da maun
 pdfjs-cursor-hand-tool-button-label = Utensil da maun
+pdfjs-scroll-page-button =
+    .title = Utilisar la defilada per pagina
+pdfjs-scroll-page-button-label = Defilada per pagina
 pdfjs-scroll-vertical-button =
     .title = Utilisar il defilar vertical
 pdfjs-scroll-vertical-button-label = Defilar vertical
@@ -154,6 +175,8 @@ pdfjs-printing-not-ready = Attenziun: Il PDF n'è betg chargià cumplettamain pe
 
 pdfjs-toggle-sidebar-button =
     .title = Activar/deactivar la trav laterala
+pdfjs-toggle-sidebar-notification-button =
+    .title = Activar/deactivar la trav laterala (il document cuntegna structura dal document/agiuntas/nivels)
 pdfjs-toggle-sidebar-button-label = Activar/deactivar la trav laterala
 pdfjs-document-outline-button =
     .title = Mussar la structura dal document (cliccar duas giadas per extender/cumprimer tut ils elements)
@@ -161,9 +184,15 @@ pdfjs-document-outline-button-label = Structura dal document
 pdfjs-attachments-button =
     .title = Mussar agiuntas
 pdfjs-attachments-button-label = Agiuntas
+pdfjs-layers-button =
+    .title = Mussar ils nivels (cliccar dubel per restaurar il stadi da standard da tut ils nivels)
+pdfjs-layers-button-label = Nivels
 pdfjs-thumbs-button =
     .title = Mussar las miniaturas
 pdfjs-thumbs-button-label = Miniaturas
+pdfjs-current-outline-item-button =
+    .title = Tschertgar l'element da structura actual
+pdfjs-current-outline-item-button-label = Element da structura actual
 pdfjs-findbar-button =
     .title = Tschertgar en il document
 pdfjs-findbar-button-label = Tschertgar
@@ -192,6 +221,8 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Enavant
 pdfjs-find-highlight-checkbox = Relevar tuts
 pdfjs-find-match-case-checkbox-label = Resguardar maiusclas/minusclas
+pdfjs-find-match-diacritics-checkbox-label = Resguardar ils segns diacritics
+pdfjs-find-entire-word-checkbox-label = Pleds entirs
 pdfjs-find-reached-top = Il cumenzament dal document è cuntanschì, la tschertga cuntinuescha a la fin dal document
 pdfjs-find-reached-bottom = La fin dal document è cuntanschì, la tschertga cuntinuescha al cumenzament dal document
 pdfjs-find-not-found = Impussibel da chattar l'expressiun
@@ -208,6 +239,10 @@ pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Pagina { $page }
 
 ## Loading indicator messages
 
@@ -215,6 +250,7 @@ pdfjs-loading-error = Ina errur è cumparida cun chargiar il PDF.
 pdfjs-invalid-file-error = Datoteca PDF nunvalida u donnegiada.
 pdfjs-missing-file-error = Datoteca PDF manconta.
 pdfjs-unexpected-response-error = Resposta nunspetgada dal server.
+pdfjs-rendering-error = Ina errur è cumparida cun visualisar questa pagina.
 
 ## Annotations
 
@@ -240,9 +276,49 @@ pdfjs-web-fonts-disabled = Scrittiras dal web èn deactivadas: impussibel dad ut
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Dissegnar
+pdfjs-editor-ink-button-label = Dissegnar
+pdfjs-editor-stamp-button =
+    .title = Agiuntar u modifitgar maletgs
+pdfjs-editor-stamp-button-label = Agiuntar u modifitgar maletgs
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Colur
+pdfjs-editor-free-text-size-input = Grondezza
+pdfjs-editor-ink-color-input = Colur
+pdfjs-editor-ink-thickness-input = Grossezza
+pdfjs-editor-ink-opacity-input = Opacitad
+pdfjs-editor-stamp-add-image-button =
+    .title = Agiuntar in maletg
+pdfjs-editor-stamp-add-image-button-label = Agiuntar in maletg
+pdfjs-free-text =
+    .aria-label = Editur da text
+pdfjs-free-text-default-content = Cumenzar a tippar…
+pdfjs-ink =
+    .aria-label = Editur dissegn
+pdfjs-ink-canvas =
+    .aria-label = Maletg creà da l'utilisader
 
 ## Alt-text dialog
 
+# Alternative text (alt text) helps when people can't see the image.
+pdfjs-editor-alt-text-button-label = Text alternativ
+pdfjs-editor-alt-text-edit-button-label = Modifitgar il text alternativ
+pdfjs-editor-alt-text-dialog-label = Tscherner ina opziun
+pdfjs-editor-alt-text-dialog-description = Il text alternativ (alt text) gida en cas che persunas na vesan betg il maletg u sch'i na reussescha betg d'al chargiar.
+pdfjs-editor-alt-text-add-description-label = Agiuntar ina descripziun
+pdfjs-editor-alt-text-add-description-description = Scriva idealmain 1-2 frasas che descrivan l'object, la situaziun u las acziuns.
+pdfjs-editor-alt-text-mark-decorative-label = Marcar sco decorativ
+pdfjs-editor-alt-text-mark-decorative-description = Quai vegn duvrà per maletgs ornamentals, sco urs u filigranas.
+pdfjs-editor-alt-text-cancel-button = Interrumper
+pdfjs-editor-alt-text-save-button = Memorisar
+pdfjs-editor-alt-text-decorative-tooltip = Marcà sco decorativ
+# .placeholder: This is a placeholder for the alt text input area
+pdfjs-editor-alt-text-textarea =
+    .placeholder = Per exempel: «In um giuven sesa a maisa per mangiar in past»
 
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
