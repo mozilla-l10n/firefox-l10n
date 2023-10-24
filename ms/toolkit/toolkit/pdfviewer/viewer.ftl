@@ -106,6 +106,7 @@ pdfjs-page-scale-actual = Saiz Sebenar
 
 pdfjs-loading-error = Masalah berlaku semasa menuatkan sebuah PDF.
 pdfjs-invalid-file-error = Tidak sah atau fail PDF rosak.
+pdfjs-missing-file-error = Fail PDF Hilang.
 
 ## Annotations
 
