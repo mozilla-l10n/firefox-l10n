@@ -196,6 +196,7 @@ pdfjs-current-outline-item-button-label = Item atual da estrutura
 pdfjs-findbar-button =
     .title = Procurar no documento
 pdfjs-findbar-button-label = Procurar
+pdfjs-additional-layers = Camadas adicionais
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
