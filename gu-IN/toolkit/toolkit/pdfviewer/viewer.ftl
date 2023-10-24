@@ -66,6 +66,12 @@ pdfjs-cursor-hand-tool-button-label = હેન્ડ ટૂલ
 pdfjs-scroll-vertical-button =
     .title = ઊભી સ્ક્રોલિંગનો ઉપયોગ કરો
 pdfjs-scroll-vertical-button-label = ઊભી સ્ક્રોલિંગ
+pdfjs-scroll-horizontal-button =
+    .title = આડી સ્ક્રોલિંગનો ઉપયોગ કરો
+pdfjs-scroll-horizontal-button-label = આડી સ્ક્રોલિંગ
+pdfjs-scroll-wrapped-button =
+    .title = આવરિત સ્ક્રોલિંગનો ઉપયોગ કરો
+pdfjs-scroll-wrapped-button-label = આવરિત સ્ક્રોલિંગ
 pdfjs-spread-none-button =
     .title = પૃષ્ઠ સ્પ્રેડમાં જોડાવશો નહીં
 pdfjs-spread-none-button-label = કોઈ સ્પ્રેડ નથી
@@ -125,6 +131,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = ઝડપી વૅબ દૃશ્ય:
 pdfjs-document-properties-linearized-yes = હા
 pdfjs-document-properties-linearized-no = ના
 pdfjs-document-properties-close-button = બંધ કરો
@@ -181,6 +190,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = આગળનું
 pdfjs-find-highlight-checkbox = બધુ પ્રકાશિત કરો
 pdfjs-find-match-case-checkbox-label = કેસ બંધબેસાડો
+pdfjs-find-entire-word-checkbox-label = સંપૂર્ણ શબ્દો
 pdfjs-find-reached-top = દસ્તાવેજનાં ટોચે પહોંચી ગયા, તળિયેથી ચાલુ કરેલ હતુ
 pdfjs-find-reached-bottom = દસ્તાવેજનાં અંતે પહોંચી ગયા, ઉપરથી ચાલુ કરેલ હતુ
 pdfjs-find-not-found = શબ્દસમૂહ મળ્યુ નથી
