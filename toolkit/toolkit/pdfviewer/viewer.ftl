@@ -7,8 +7,10 @@
 
 pdfjs-previous-button =
     .title = Letlakala le fetilego
+pdfjs-previous-button-label = Fetilego
 pdfjs-next-button =
     .title = Letlakala le latelago
+pdfjs-next-button-label = Latelago
 pdfjs-zoom-out-button =
     .title = Bušetša ka gare
 pdfjs-zoom-out-button-label = Bušetša ka gare
@@ -44,12 +46,18 @@ pdfjs-open-file-button-label = Bula
 ## Print
 
 pdfjs-printing-not-supported = Temošo: Go gatiša ga go thekgwe ke praosara ye ka botlalo.
+pdfjs-printing-not-ready = Temošo: PDF ga ya hlahlelwa ka botlalo bakeng sa go gatišwa.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Šielanya para ya ka thoko
+pdfjs-toggle-sidebar-button-label = Šielanya para ya ka thoko
 pdfjs-thumbs-button =
     .title = Laetša dikhutšofatšo
 pdfjs-thumbs-button-label = Dikhutšofatšo
+pdfjs-findbar-button =
+    .title = Hwetša go tokumente
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -64,6 +72,17 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = Hwetša tiragalo e fetilego ya sekafoko
+pdfjs-find-previous-button-label = Fetilego
+pdfjs-find-next-button =
+    .title = Hwetša tiragalo e latelago ya sekafoko
+pdfjs-find-next-button-label = Latelago
+pdfjs-find-highlight-checkbox = Bonagatša tšohle
+pdfjs-find-match-case-checkbox-label = Swantšha kheisi
+pdfjs-find-reached-top = Fihlile godimo ga tokumente, go tšwetšwe pele go tloga tlase
+pdfjs-find-reached-bottom = Fihlile mafelelong a tokumente, go tšwetšwe pele go tloga godimo
+pdfjs-find-not-found = Sekafoko ga sa hwetšwa
 
 ## Predefined zoom values
 
@@ -78,12 +97,15 @@ pdfjs-page-scale-actual = Bogolo bja kgonthe
 ## Loading indicator messages
 
 pdfjs-loading-error = Go diregile phošo ge go hlahlelwa PDF.
+pdfjs-invalid-file-error = Faele ye e sa šomego goba e senyegilego ya PDF.
+pdfjs-missing-file-error = Faele yeo e sego gona ya PDF.
 
 ## Annotations
 
 
 ## Password
 
+pdfjs-web-fonts-disabled = Difonte tša wepe di šitišitšwe: ga e kgone go diriša difonte tša PDF tše khutišitšwego.
 
 ## Editing
 
