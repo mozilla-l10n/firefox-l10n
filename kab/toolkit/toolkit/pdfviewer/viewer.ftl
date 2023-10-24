@@ -193,6 +193,7 @@ pdfjs-current-outline-item-button-label = Aferdis n uɣawas amiran
 pdfjs-findbar-button =
     .title = Nadi deg isemli
 pdfjs-findbar-button-label = Nadi
+pdfjs-additional-layers = Tissiwin-nniḍen
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
