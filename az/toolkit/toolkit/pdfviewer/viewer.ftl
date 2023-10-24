@@ -172,6 +172,7 @@ pdfjs-thumbs-button-label = Kiçik şəkillər
 pdfjs-findbar-button =
     .title = Sənəddə Tap
 pdfjs-findbar-button-label = Tap
+pdfjs-additional-layers = Əlavə laylar
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -221,6 +222,7 @@ pdfjs-loading-error = PDF yüklenərkən bir səhv yarandı.
 pdfjs-invalid-file-error = Səhv və ya zədələnmiş olmuş PDF fayl.
 pdfjs-missing-file-error = PDF fayl yoxdur.
 pdfjs-unexpected-response-error = Gözlənilməz server cavabı.
+pdfjs-rendering-error = Səhifə göstərilərkən səhv yarandı.
 
 ## Annotations
 
