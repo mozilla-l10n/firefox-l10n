@@ -17,12 +17,46 @@ pdfjs-presentation-mode-button-label = Režim prezentace
 pdfjs-open-file-button =
     .title = Otevře soubor
 pdfjs-open-file-button-label = Otevřít
+pdfjs-print-button =
+    .title = Vytiskne dokument
 
 ##  Secondary toolbar and context menu
 
+pdfjs-tools-button =
+    .title = Nástroje
+pdfjs-tools-button-label = Nástroje
+pdfjs-first-page-button =
+    .title = Přejde na první stránku
+pdfjs-first-page-button-label = Přejít na první stránku
+pdfjs-last-page-button =
+    .title = Přejde na poslední stránku
+pdfjs-last-page-button-label = Přejít na poslední stránku
+pdfjs-page-rotate-cw-button =
+    .title = Otočí po směru hodin
+pdfjs-page-rotate-cw-button-label = Otočit po směru hodin
+pdfjs-page-rotate-ccw-button =
+    .title = Otočí proti směru hodin
+pdfjs-page-rotate-ccw-button-label = Otočit proti směru hodin
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Vlastnosti dokumentu…
+pdfjs-document-properties-button-label = Vlastnosti dokumentu…
+pdfjs-document-properties-file-name = Název souboru:
+pdfjs-document-properties-file-size = Velikost souboru:
+pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-keywords = Klíčová slova:
+pdfjs-document-properties-creation-date = Datum vytvoření:
+pdfjs-document-properties-modification-date = Datum úpravy:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Vytvořil:
+pdfjs-document-properties-producer = Tvůrce PDF:
+pdfjs-document-properties-version = Verze PDF:
+pdfjs-document-properties-page-count = Počet stránek:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -34,6 +68,7 @@ pdfjs-open-file-button-label = Otevřít
 
 ##
 
+pdfjs-document-properties-close-button = Zavřít
 
 ## Print
 
@@ -45,6 +80,9 @@ pdfjs-printing-not-ready = Upozornění: Dokument PDF není kompletně načten.
 pdfjs-toggle-sidebar-button =
     .title = Postranní lišta
 pdfjs-toggle-sidebar-button-label = Postranní lišta
+pdfjs-attachments-button =
+    .title = Zobrazí přílohy
+pdfjs-attachments-button-label = Přílohy
 pdfjs-thumbs-button =
     .title = Zobrazí náhledy
 pdfjs-thumbs-button-label = Náhledy
@@ -85,12 +123,24 @@ pdfjs-page-scale-auto = Automatická velikost
 pdfjs-loading-error = Při nahrávání PDF nastala chyba.
 pdfjs-invalid-file-error = Neplatný nebo chybný soubor PDF.
 pdfjs-missing-file-error = Chybí soubor PDF.
+pdfjs-unexpected-response-error = Neočekávaná odpověď serveru.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [Anotace typu { $type }]
 
 ## Password
 
+pdfjs-password-label = Pro otevření PDF souboru vložte heslo.
+pdfjs-password-invalid = Neplatné heslo. Zkuste to znovu.
+pdfjs-password-ok-button = OK
+pdfjs-password-cancel-button = Zrušit
 pdfjs-web-fonts-disabled = Webová písma jsou zakázána, proto není možné použít vložená písma PDF.
 
 ## Editing
