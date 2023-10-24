@@ -13,7 +13,12 @@ pdfjs-open-file-button =
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-size = Kadakkel ti intar:
 pdfjs-document-properties-title = Titulo:
+pdfjs-document-properties-page-size = Kadakkel ti Panid:
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Surat
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
