@@ -11,12 +11,25 @@ pdfjs-previous-button-label = Okwangaphambili
 pdfjs-next-button =
     .title = Iphepha elilandelayo
 pdfjs-next-button-label = Okulandelayo
+# .title: Tooltip for the pageNumber input.
+pdfjs-page-input =
+    .title = Iphepha
+# Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = kwali- { $pagesCount }
+# Variables:
+#   $pageNumber (Number) - the currently visible page
+#   $pagesCount (Number) - the total number of pages in the document
+pdfjs-page-of-pages = ({ $pageNumber } kwali { $pagesCount })
 pdfjs-zoom-out-button =
     .title = Bhekelisela Kudana
 pdfjs-zoom-out-button-label = Bhekelisela Kudana
 pdfjs-zoom-in-button =
     .title = Sondeza Kufuphi
 pdfjs-zoom-in-button-label = Sondeza Kufuphi
+pdfjs-zoom-select =
+    .title = Yandisa / Nciphisa
 pdfjs-presentation-mode-button =
     .title = Tshintshela kwimo yonikezelo
 pdfjs-presentation-mode-button-label = Imo yonikezelo
@@ -44,9 +57,34 @@ pdfjs-page-rotate-cw-button-label = Jikelisa ngasekunene
 pdfjs-page-rotate-ccw-button =
     .title = Jikelisa ngasekhohlo
 pdfjs-page-rotate-ccw-button-label = Jikelisa ngasekhohlo
+pdfjs-cursor-text-select-tool-button =
+    .title = Vumela iSixhobo sokuKhetha iTeksti
+pdfjs-cursor-text-select-tool-button-label = ISixhobo sokuKhetha iTeksti
+pdfjs-cursor-hand-tool-button =
+    .title = Yenza iSixhobo seSandla siSebenze
+pdfjs-cursor-hand-tool-button-label = ISixhobo seSandla
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Iipropati zoxwebhu…
+pdfjs-document-properties-button-label = Iipropati zoxwebhu…
+pdfjs-document-properties-file-name = Igama lefayile:
+pdfjs-document-properties-file-size = Isayizi yefayile:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB (iibhayiti{ $size_b })
+pdfjs-document-properties-title = Umxholo:
+pdfjs-document-properties-author = Umbhali:
+pdfjs-document-properties-subject = Umbandela:
+pdfjs-document-properties-keywords = Amagama aphambili:
+pdfjs-document-properties-creation-date = Umhla wokwenziwa kwayo:
+pdfjs-document-properties-modification-date = Umhla wokulungiswa kwayo:
+pdfjs-document-properties-creator = Umntu oyenzileyo:
+pdfjs-document-properties-producer = Umvelisi we-PDF:
+pdfjs-document-properties-version = Uhlelo lwe-PDF:
+pdfjs-document-properties-page-count = Inani lamaphepha:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -58,9 +96,15 @@ pdfjs-page-rotate-ccw-button-label = Jikelisa ngasekhohlo
 
 ##
 
+pdfjs-document-properties-close-button = Vala
 
 ## Print
 
+pdfjs-print-progress-message = Ilungisa uxwebhu ukuze iprinte…
+# Variables:
+#   $progress (Number) - percent value
+pdfjs-print-progress-percent = { $progress }%
+pdfjs-print-progress-close-button = Rhoxisa
 pdfjs-printing-not-supported = Isilumkiso: Ukuprinta akuxhaswa ngokupheleleyo yile bhrawuza.
 pdfjs-printing-not-ready = Isilumkiso: IPDF ayihlohlwanga ngokupheleleyo ukwenzela ukuprinta.
 
@@ -69,11 +113,18 @@ pdfjs-printing-not-ready = Isilumkiso: IPDF ayihlohlwanga ngokupheleleyo ukwenze
 pdfjs-toggle-sidebar-button =
     .title = Togola ngebha eseCaleni
 pdfjs-toggle-sidebar-button-label = Togola ngebha eseCaleni
+pdfjs-document-outline-button =
+    .title = Bonisa uLwandlalo loXwebhu (cofa kabini ukuze wandise/diliza zonke izinto)
+pdfjs-document-outline-button-label = Isishwankathelo soxwebhu
+pdfjs-attachments-button =
+    .title = Bonisa iziqhotyoshelwa
+pdfjs-attachments-button-label = Iziqhoboshelo
 pdfjs-thumbs-button =
     .title = Bonisa ukrobiso kumfanekiso
 pdfjs-thumbs-button-label = Ukrobiso kumfanekiso
 pdfjs-findbar-button =
     .title = Fumana kuXwebhu
+pdfjs-findbar-button-label = Fumana
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -88,6 +139,9 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Fumana
+    .placeholder = Fumana kuXwebhu…
 pdfjs-find-previous-button =
     .title = Fumanisa isenzeko sangaphambili sebinzana lamagama
 pdfjs-find-previous-button-label = Okwangaphambili
@@ -106,6 +160,9 @@ pdfjs-page-scale-width = Ububanzi bephepha
 pdfjs-page-scale-fit = Ukulinganiswa kwephepha
 pdfjs-page-scale-auto = Ukwandisa/Ukunciphisa Ngokwayo
 pdfjs-page-scale-actual = Ubungakanani bokwenene
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale }%
 
 ## PDF page
 
@@ -115,6 +172,7 @@ pdfjs-page-scale-actual = Ubungakanani bokwenene
 pdfjs-loading-error = Imposiso yenzekile xa kulayishwa i-PDF.
 pdfjs-invalid-file-error = Ifayile ye-PDF engeyiyo okanye eyonakalisiweyo.
 pdfjs-missing-file-error = Ifayile ye-PDF edukileyo.
+pdfjs-unexpected-response-error = Impendulo yeseva engalindelekanga.
 
 ## Annotations
 
@@ -131,6 +189,7 @@ pdfjs-text-annotation-type =
 pdfjs-password-label = Faka ipasiwedi ukuze uvule le fayile yePDF.
 pdfjs-password-invalid = Ipasiwedi ayisebenzi. Nceda uzame kwakhona.
 pdfjs-password-ok-button = KULUNGILE
+pdfjs-password-cancel-button = Rhoxisa
 pdfjs-web-fonts-disabled = Iifonti zewebhu ziqhwalelisiwe: ayikwazi ukusebenzisa iifonti ze-PDF ezincanyathelisiweyo.
 
 ## Editing
