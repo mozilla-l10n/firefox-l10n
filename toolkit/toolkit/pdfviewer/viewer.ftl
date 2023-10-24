@@ -204,6 +204,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = Järgmine
 pdfjs-find-highlight-checkbox = Too kõik esile
 pdfjs-find-match-case-checkbox-label = Tõstutundlik
+pdfjs-find-match-diacritics-checkbox-label = Otsitakse diakriitiliselt
 pdfjs-find-entire-word-checkbox-label = Täissõnad
 pdfjs-find-reached-top = Jõuti dokumendi algusesse, jätkati lõpust
 pdfjs-find-reached-bottom = Jõuti dokumendi lõppu, jätkati algusest
