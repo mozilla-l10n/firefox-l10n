@@ -72,6 +72,15 @@ pdfjs-scroll-horizontal-button-label = Dibunañ a-blaen
 pdfjs-scroll-wrapped-button =
     .title = Arverañ an dibunañ paket
 pdfjs-scroll-wrapped-button-label = Dibunañ paket
+pdfjs-spread-none-button =
+    .title = Chom hep stagañ ar skignadurioù
+pdfjs-spread-none-button-label = Skignadenn ebet
+pdfjs-spread-odd-button =
+    .title = Lakaat ar pajennadoù en ur gregiñ gant ar pajennoù ampar
+pdfjs-spread-odd-button-label = Pajennoù ampar
+pdfjs-spread-even-button =
+    .title = Lakaat ar pajennadoù en ur gregiñ gant ar pajennoù par
+pdfjs-spread-even-button-label = Pajennoù par
 
 ## Document properties dialog
 
