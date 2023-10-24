@@ -127,6 +127,7 @@ pdfjs-find-previous-button =
 pdfjs-find-previous-button-label = ପୂର୍ବବର୍ତ୍ତୀ
 pdfjs-find-next-button =
     .title = ଏହି ବାକ୍ୟାଂଶର ପରବର୍ତ୍ତୀ ଉପସ୍ଥିତିକୁ ଖୋଜନ୍ତୁ
+pdfjs-find-next-button-label = ପରବର୍ତ୍ତୀ
 pdfjs-find-highlight-checkbox = ସମସ୍ତଙ୍କୁ ଆଲୋକିତ କରନ୍ତୁ
 pdfjs-find-match-case-checkbox-label = ଅକ୍ଷର ମେଳାନ୍ତୁ
 pdfjs-find-reached-top = ତଳୁ ଉପରକୁ ଗତି କରି ଦଲିଲର ଉପର ଭାଗରେ ପହଞ୍ଚି ଯାଇଛି
