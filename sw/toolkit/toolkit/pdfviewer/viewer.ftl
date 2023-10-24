@@ -103,6 +103,7 @@ pdfjs-page-scale-actual = Ukubwa Halisi
 pdfjs-loading-error = Hitilafu lilitokea wakati wa kupakia PDF.
 pdfjs-invalid-file-error = Faili ya PDF isiyohalali au potofu.
 pdfjs-missing-file-error = Faili ya PDF isiyopo.
+pdfjs-rendering-error = Hitilafu lilitokea wajati wa kutoa ukurasa
 
 ## Annotations
 
