@@ -5,20 +5,32 @@
 
 ## Main toolbar buttons (tooltips and alt text for images)
 
+pdfjs-previous-button =
+    .title = Přejde na předchozí stránku
 pdfjs-previous-button-label = Předchozí
+pdfjs-next-button =
+    .title = Přejde na následující stránku
 pdfjs-next-button-label = Další
+pdfjs-zoom-out-button =
+    .title = Zmenší velikost
 pdfjs-zoom-out-button-label = Zmenšit
 pdfjs-zoom-in-button =
     .title = Zvětší velikost
 pdfjs-zoom-in-button-label = Zvětšit
 pdfjs-zoom-select =
     .title = Nastaví velikost
+pdfjs-presentation-mode-button =
+    .title = Přepne do režimu prezentace
 pdfjs-presentation-mode-button-label = Režim prezentace
 pdfjs-open-file-button =
     .title = Otevře soubor
 pdfjs-open-file-button-label = Otevřít
 pdfjs-print-button =
     .title = Vytiskne dokument
+pdfjs-print-button-label = Vytisknout
+pdfjs-bookmark-button =
+    .title = Aktuální stránka (zobrazit URL od aktuální stránky)
+pdfjs-bookmark-button-label = Aktuální stránka
 
 ##  Secondary toolbar and context menu
 
@@ -37,6 +49,33 @@ pdfjs-page-rotate-cw-button-label = Otočit po směru hodin
 pdfjs-page-rotate-ccw-button =
     .title = Otočí proti směru hodin
 pdfjs-page-rotate-ccw-button-label = Otočit proti směru hodin
+pdfjs-cursor-text-select-tool-button =
+    .title = Povolí výběr textu
+pdfjs-cursor-text-select-tool-button-label = Výběr textu
+pdfjs-cursor-hand-tool-button =
+    .title = Povolí nástroj ručička
+pdfjs-cursor-hand-tool-button-label = Nástroj ručička
+pdfjs-scroll-page-button =
+    .title = Posouvat po stránkách
+pdfjs-scroll-page-button-label = Posouvání po stránkách
+pdfjs-scroll-vertical-button =
+    .title = Použít svislé posouvání
+pdfjs-scroll-vertical-button-label = Svislé posouvání
+pdfjs-scroll-horizontal-button =
+    .title = Použít vodorovné posouvání
+pdfjs-scroll-horizontal-button-label = Vodorovné posouvání
+pdfjs-scroll-wrapped-button =
+    .title = Použít postupné posouvání
+pdfjs-scroll-wrapped-button-label = Postupné posouvání
+pdfjs-spread-none-button =
+    .title = Nesdružovat stránky
+pdfjs-spread-none-button-label = Žádné sdružení
+pdfjs-spread-odd-button =
+    .title = Sdruží stránky s umístěním lichých vlevo
+pdfjs-spread-odd-button-label = Sdružení stránek (liché vlevo)
+pdfjs-spread-even-button =
+    .title = Sdruží stránky s umístěním sudých vlevo
+pdfjs-spread-even-button-label = Sdružení stránek (sudé vlevo)
 
 ## Document properties dialog
 
@@ -46,10 +85,16 @@ pdfjs-document-properties-button-label = Vlastnosti dokumentu…
 pdfjs-document-properties-file-name = Název souboru:
 pdfjs-document-properties-file-size = Velikost souboru:
 # Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bajtů)
+# Variables:
 #   $size_mb (Number) - the PDF file size in megabytes
 #   $size_b (Number) - the PDF file size in bytes
 pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bajtů)
+pdfjs-document-properties-title = Název stránky:
 pdfjs-document-properties-author = Autor:
+pdfjs-document-properties-subject = Předmět:
 pdfjs-document-properties-keywords = Klíčová slova:
 pdfjs-document-properties-creation-date = Datum vytvoření:
 pdfjs-document-properties-modification-date = Datum úpravy:
@@ -61,6 +106,15 @@ pdfjs-document-properties-creator = Vytvořil:
 pdfjs-document-properties-producer = Tvůrce PDF:
 pdfjs-document-properties-version = Verze PDF:
 pdfjs-document-properties-page-count = Počet stránek:
+pdfjs-document-properties-page-size = Velikost stránky:
+pdfjs-document-properties-page-size-unit-inches = in
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = na výšku
+pdfjs-document-properties-page-size-orientation-landscape = na šířku
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Dopis
+pdfjs-document-properties-page-size-name-legal = Právní dokument
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -69,9 +123,16 @@ pdfjs-document-properties-page-count = Počet stránek:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Rychlé zobrazování z webu:
+pdfjs-document-properties-linearized-yes = Ano
+pdfjs-document-properties-linearized-no = Ne
 pdfjs-document-properties-close-button = Zavřít
 
 ## Print
@@ -83,13 +144,23 @@ pdfjs-printing-not-ready = Upozornění: Dokument PDF není kompletně načten.
 
 pdfjs-toggle-sidebar-button =
     .title = Postranní lišta
+pdfjs-toggle-sidebar-notification-button =
+    .title = Přepnout postranní lištu (dokument obsahuje osnovu/přílohy/vrstvy)
 pdfjs-toggle-sidebar-button-label = Postranní lišta
+pdfjs-document-outline-button =
+    .title = Zobrazí osnovu dokumentu (poklepání přepne zobrazení všech položek)
 pdfjs-attachments-button =
     .title = Zobrazí přílohy
 pdfjs-attachments-button-label = Přílohy
+pdfjs-layers-button =
+    .title = Zobrazit vrstvy (poklepáním obnovíte všechny vrstvy do výchozího stavu)
+pdfjs-layers-button-label = Vrstvy
 pdfjs-thumbs-button =
     .title = Zobrazí náhledy
 pdfjs-thumbs-button-label = Náhledy
+pdfjs-current-outline-item-button =
+    .title = Najít aktuální položku v osnově
+pdfjs-current-outline-item-button-label = Aktuální položka v osnově
 pdfjs-findbar-button =
     .title = Najde v dokumentu
 pdfjs-findbar-button-label = Najít
@@ -107,11 +178,22 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-input =
+    .title = Najít
+    .placeholder = Najít v dokumentu…
+pdfjs-find-previous-button =
+    .title = Najde předchozí výskyt hledaného textu
 pdfjs-find-previous-button-label = Předchozí
+pdfjs-find-next-button =
+    .title = Najde další výskyt hledaného textu
 pdfjs-find-next-button-label = Další
 pdfjs-find-highlight-checkbox = Zvýraznit
 pdfjs-find-match-case-checkbox-label = Rozlišovat velikost
+pdfjs-find-match-diacritics-checkbox-label = Rozlišovat diakritiku
+pdfjs-find-entire-word-checkbox-label = Celá slova
 pdfjs-find-reached-top = Dosažen začátek dokumentu, pokračuje se od konce
+pdfjs-find-reached-bottom = Dosažen konec dokumentu, pokračuje se od začátku
+pdfjs-find-not-found = Hledaný text nenalezen
 
 ## Predefined zoom values
 
@@ -119,9 +201,16 @@ pdfjs-page-scale-width = Podle šířky
 pdfjs-page-scale-fit = Podle výšky
 pdfjs-page-scale-auto = Automatická velikost
 pdfjs-page-scale-actual = Skutečná velikost
+# Variables:
+#   $scale (Number) - percent value for page scale
+pdfjs-page-scale-percent = { $scale } %
 
 ## PDF page
 
+# Variables:
+#   $page (Number) - the page number
+pdfjs-page-landmark =
+    .aria-label = Strana { $page }
 
 ## Loading indicator messages
 
@@ -129,9 +218,14 @@ pdfjs-loading-error = Při nahrávání PDF nastala chyba.
 pdfjs-invalid-file-error = Neplatný nebo chybný soubor PDF.
 pdfjs-missing-file-error = Chybí soubor PDF.
 pdfjs-unexpected-response-error = Neočekávaná odpověď serveru.
+pdfjs-rendering-error = Při vykreslování stránky nastala chyba.
 
 ## Annotations
 
+# Variables:
+#   $date (Date) - the modification date of the annotation
+#   $time (Time) - the modification time of the annotation
+pdfjs-annotation-date-string = { $date }, { $time }
 # .alt: This is used as a tooltip.
 # Variables:
 #   $type (String) - an annotation type from a list defined in the PDF spec
@@ -150,6 +244,25 @@ pdfjs-web-fonts-disabled = Webová písma jsou zakázána, proto není možné p
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Kreslení
+pdfjs-editor-ink-button-label = Kreslení
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Barva
+pdfjs-editor-free-text-size-input = Velikost
+pdfjs-editor-ink-color-input = Barva
+pdfjs-editor-ink-thickness-input = Tloušťka
+pdfjs-editor-ink-opacity-input = Průhlednost
+pdfjs-free-text =
+    .aria-label = Textový editor
+pdfjs-free-text-default-content = Začněte psát…
+pdfjs-ink =
+    .aria-label = Editor kreslení
+pdfjs-ink-canvas =
+    .aria-label = Uživatelem vytvořený obrázek
 
 ## Alt-text dialog
 
