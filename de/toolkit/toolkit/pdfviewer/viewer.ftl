@@ -50,6 +50,7 @@ pdfjs-download-button =
 pdfjs-download-button-label = Herunterladen
 pdfjs-bookmark-button =
     .title = Aktuelle Seite (URL von aktueller Seite anzeigen)
+pdfjs-bookmark-button-label = Aktuelle Seite
 # Used in Firefox for Android.
 pdfjs-open-in-app-button =
     .title = Mit App öffnen
@@ -250,6 +251,7 @@ pdfjs-loading-error = Beim Laden der PDF-Datei trat ein Fehler auf.
 pdfjs-invalid-file-error = Ungültige oder beschädigte PDF-Datei
 pdfjs-missing-file-error = Fehlende PDF-Datei
 pdfjs-unexpected-response-error = Unerwartete Antwort des Servers
+pdfjs-rendering-error = Beim Darstellen der Seite trat ein Fehler auf.
 
 ## Annotations
 
@@ -275,12 +277,31 @@ pdfjs-web-fonts-disabled = Web-Schriftarten sind deaktiviert: Eingebettete PDF-S
 
 ## Editing
 
+pdfjs-editor-free-text-button =
+    .title = Text
+pdfjs-editor-free-text-button-label = Text
+pdfjs-editor-ink-button =
+    .title = Zeichnen
+pdfjs-editor-ink-button-label = Zeichnen
 pdfjs-editor-stamp-button =
     .title = Grafiken hinzufügen oder bearbeiten
 pdfjs-editor-stamp-button-label = Grafiken hinzufügen oder bearbeiten
+# Editor Parameters
+pdfjs-editor-free-text-color-input = Farbe
+pdfjs-editor-free-text-size-input = Größe
+pdfjs-editor-ink-color-input = Farbe
+pdfjs-editor-ink-thickness-input = Dicke
+pdfjs-editor-ink-opacity-input = Deckkraft
 pdfjs-editor-stamp-add-image-button =
     .title = Grafik hinzufügen
 pdfjs-editor-stamp-add-image-button-label = Grafik hinzufügen
+pdfjs-free-text =
+    .aria-label = Texteditor
+pdfjs-free-text-default-content = Schreiben beginnen…
+pdfjs-ink =
+    .aria-label = Zeichnungseditor
+pdfjs-ink-canvas =
+    .aria-label = Vom Benutzer erstelltes Bild
 
 ## Alt-text dialog
 
