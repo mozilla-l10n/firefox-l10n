@@ -42,6 +42,30 @@ pdfjs-page-rotate-ccw-button-label = Pusing berlawan arah jam
 
 ## Document properties dialog
 
+pdfjs-document-properties-file-name = Nama fail:
+pdfjs-document-properties-file-size = Saiz fail:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bait)
+# Variables:
+#   $size_mb (Number) - the PDF file size in megabytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-mb = { $size_mb } MB ({ $size_b } bait)
+pdfjs-document-properties-title = Tajuk:
+pdfjs-document-properties-author = Pengarang:
+pdfjs-document-properties-subject = Subjek:
+pdfjs-document-properties-keywords = Kata kunci:
+pdfjs-document-properties-creation-date = Masa Dicipta:
+pdfjs-document-properties-modification-date = Tarikh Ubahsuai:
+# Variables:
+#   $date (Date) - the creation/modification date of the PDF file
+#   $time (Time) - the creation/modification time of the PDF file
+pdfjs-document-properties-date-string = { $date }, { $time }
+pdfjs-document-properties-creator = Pencipta:
+pdfjs-document-properties-producer = Pengeluar PDF:
+pdfjs-document-properties-version = Versi PDF:
+pdfjs-document-properties-page-count = Kiraan Laman:
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -53,6 +77,7 @@ pdfjs-page-rotate-ccw-button-label = Pusing berlawan arah jam
 
 ##
 
+pdfjs-document-properties-close-button = Tutup
 
 ## Print
 
@@ -64,6 +89,7 @@ pdfjs-printing-not-ready = Amaran: PDF tidak sepenuhnya dimuatkan untuk dicetak.
 pdfjs-toggle-sidebar-button =
     .title = Togol Bar Sisi
 pdfjs-toggle-sidebar-button-label = Togol Bar Sisi
+pdfjs-attachments-button-label = Lampiran
 pdfjs-thumbs-button-label = Imej kecil
 pdfjs-findbar-button =
     .title = Cari didalam Dokumen
