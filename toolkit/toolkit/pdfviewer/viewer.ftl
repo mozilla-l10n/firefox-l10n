@@ -109,6 +109,9 @@ pdfjs-printing-not-ready = Увага: PDF не сцягнуты цалкам д
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Паказаць/схаваць бакавую панэль
+pdfjs-toggle-sidebar-button-label = Паказаць/схаваць бакавую панэль
 pdfjs-document-outline-button =
     .title = Паказаць структуру дакумента (двайная пстрычка, каб разгарнуць /згарнуць усе элементы)
 pdfjs-document-outline-button-label = Структура дакумента
