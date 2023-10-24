@@ -78,12 +78,40 @@ pdfjs-spread-none-button-label = Ni'io daj hua pagina
 pdfjs-spread-odd-button =
     .title = Nagi'iaj nugua'ant nej pajina
 pdfjs-spread-odd-button-label = Ni'io' daj hua libro gurin
+pdfjs-spread-even-button =
+    .title = Nakāj dugui' ngà nej pajinâ ayi'ì ngà da' hùi hùi
+pdfjs-spread-even-button-label = Nahuin nìko nej
 
 ## Document properties dialog
 
+pdfjs-document-properties-button =
+    .title = Nej sa nikāj ñanj…
+pdfjs-document-properties-button-label = Nej sa nikāj ñanj…
+pdfjs-document-properties-file-name = Si yugui archîbo:
+pdfjs-document-properties-file-size = Dàj yachìj archîbo:
+# Variables:
+#   $size_kb (Number) - the PDF file size in kilobytes
+#   $size_b (Number) - the PDF file size in bytes
+pdfjs-document-properties-kb = { $size_kb } KB ({ $size_b } bytes)
+pdfjs-document-properties-title = Si yugui:
+pdfjs-document-properties-author = Sí girirà:
+pdfjs-document-properties-subject = Dugui':
+pdfjs-document-properties-keywords = Nej nuguan' huìi:
+pdfjs-document-properties-creation-date = Gui gurugui' man:
+pdfjs-document-properties-modification-date = Nuguan' nahuin nakà:
+pdfjs-document-properties-creator = Guiri ro'
+pdfjs-document-properties-producer = Sa ri PDF:
 pdfjs-document-properties-version = PDF Version:
+pdfjs-document-properties-page-count = Si Guendâ Pâjina:
+pdfjs-document-properties-page-size = Dàj yachìj pâjina:
+pdfjs-document-properties-page-size-unit-inches = riña
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = nadu'ua
+pdfjs-document-properties-page-size-orientation-landscape = dàj huaj
 pdfjs-document-properties-page-size-name-a-three = A3
 pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = Da'ngà'a
+pdfjs-document-properties-page-size-name-legal = Nuguan' a'nï'ïn
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -97,6 +125,9 @@ pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $hei
 
 ##
 
+# The linearization status of the document; usually called "Fast Web View" in
+# English locales of Adobe software.
+pdfjs-document-properties-linearized = Nanèt chre ni'iajt riña Web:
 pdfjs-document-properties-linearized-yes = Ga'ue
 pdfjs-document-properties-linearized-no = Si ga'ue
 pdfjs-document-properties-close-button = Narán
@@ -110,6 +141,9 @@ pdfjs-print-progress-close-button = Duyichin'
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Nadunā barrâ nù yi'nïn
+pdfjs-toggle-sidebar-button-label = Nadunā barrâ nù yi'nïn
 pdfjs-findbar-button-label = Narì'
 
 ## Thumbnails panel item (tooltip and alt text for images)
@@ -117,12 +151,15 @@ pdfjs-findbar-button-label = Narì'
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button-label = Sa gachîn
 pdfjs-find-next-button-label = Ne' ñaan
 pdfjs-find-highlight-checkbox = Daran' sa ña'an
 pdfjs-find-match-case-checkbox-label = Match case
+pdfjs-find-not-found = Nu narì'ij nugua'anj
 
 ## Predefined zoom values
 
+pdfjs-page-scale-actual = Dàj yàchi akuan' nín
 # Variables:
 #   $scale (Number) - percent value for page scale
 pdfjs-page-scale-percent = { $scale }%
