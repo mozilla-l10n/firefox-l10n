@@ -59,6 +59,7 @@ pdfjs-find-not-found = Setlhopha sa mafoko ga se a bonwa
 
 ## Password
 
+pdfjs-password-ok-button = Siame
 
 ## Editing
 
