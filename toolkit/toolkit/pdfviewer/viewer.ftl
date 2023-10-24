@@ -192,6 +192,7 @@ pdfjs-loading-error = មាន​កំហុស​បាន​កើតឡើ�
 pdfjs-invalid-file-error = ឯកសារ PDF ខូច ឬ​មិន​ត្រឹមត្រូវ ។
 pdfjs-missing-file-error = បាត់​ឯកសារ PDF
 pdfjs-unexpected-response-error = ការ​ឆ្លើយ​តម​ម៉ាស៊ីន​មេ​ដែល​មិន​បាន​រំពឹង។
+pdfjs-rendering-error = មាន​កំហុស​បាន​កើតឡើង​ពេល​បង្ហាញ​ទំព័រ ។
 
 ## Annotations
 
