@@ -67,6 +67,11 @@ pdfjs-thumb-page-canvas =
 
 ## Find panel button title and messages
 
+pdfjs-find-previous-button =
+    .title = San hu fres wɔ ekyiri baako
+pdfjs-find-next-button =
+    .title = San hu fres no wɔ enim baako
+pdfjs-find-not-found = Ennhu fres
 
 ## Predefined zoom values
 
