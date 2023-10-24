@@ -39,6 +39,15 @@ protections-panel-etp-off-toggle =
   .description = Disattivata per questo sito
   .aria-label = Attiva protezioni per { $host }
 
+protections-panel-etp-toggle-on =
+  .label = Protezione antitracciamento avanzata
+  .description = Attiva per questo sito
+  .aria-label = Protezione antitracciamento avanzata: attiva per { $host }
+protections-panel-etp-toggle-off =
+  .label = Protezione antitracciamento avanzata
+  .description = Disattivata per questo sito
+  .aria-label = Protezione antitracciamento avanzata: disattivata per { $host }
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Il sito non funziona?
 
