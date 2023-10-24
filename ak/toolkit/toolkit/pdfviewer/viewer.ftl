@@ -7,8 +7,10 @@
 
 pdfjs-previous-button =
     .title = Krataafa baako a etwa mu
+pdfjs-previous-button-label = Ekyiri-baako
 pdfjs-next-button =
     .title = Krataafa a edi so baako
+pdfjs-next-button-label = Dea-ɛ-di-so-baako
 pdfjs-zoom-out-button =
     .title = Zuum pue
 pdfjs-zoom-out-button-label = Zuum ba abɔnten
@@ -47,12 +49,18 @@ pdfjs-print-button-label = Prente
 ## Print
 
 pdfjs-printing-not-supported = Kɔkɔbɔ: Brawsa yi nnhyɛ daa mma prent ho kwan.
+pdfjs-printing-not-ready = Kɔkɔbɔ: Wɔnntwee PDF fael no nyinara mmbaee ama wo ɛ tumi aprente.
 
 ## Tooltips and alt text for side panel toolbar buttons
 
+pdfjs-toggle-sidebar-button =
+    .title = Sɔ anaaso dum saedbaa
+pdfjs-toggle-sidebar-button-label = Sɔ anaaso dum saedbaa
 pdfjs-thumbs-button =
     .title = Kyerɛ mfoniwaa
 pdfjs-thumbs-button-label = Mfoniwaa
+pdfjs-findbar-button =
+    .title = Hu wɔ dɔkomɛnt no mu
 
 ## Thumbnails panel item (tooltip and alt text for images)
 
@@ -69,8 +77,14 @@ pdfjs-thumb-page-canvas =
 
 pdfjs-find-previous-button =
     .title = San hu fres wɔ ekyiri baako
+pdfjs-find-previous-button-label = Ekyiri baako
 pdfjs-find-next-button =
     .title = San hu fres no wɔ enim baako
+pdfjs-find-next-button-label = Ndiso
+pdfjs-find-highlight-checkbox = Hyɛ bibiara nso
+pdfjs-find-match-case-checkbox-label = Fa susu kaase
+pdfjs-find-reached-top = Edu krataafa ne soro, atoa so efiri ase
+pdfjs-find-reached-bottom = Edu krataafa n'ewiei, atoa so efiri soro
 pdfjs-find-not-found = Ennhu fres
 
 ## Predefined zoom values
@@ -86,12 +100,22 @@ pdfjs-page-scale-actual = Kɛseyɛ ankasa
 ## Loading indicator messages
 
 pdfjs-loading-error = Mfomso bae wɔ bere a wɔreloode PDF no.
+pdfjs-invalid-file-error = PDF fael no nndi mu anaaso ho atɔ kyima.
+pdfjs-missing-file-error = PDF fael no ayera.
 
 ## Annotations
 
+# .alt: This is used as a tooltip.
+# Variables:
+#   $type (String) - an annotation type from a list defined in the PDF spec
+# (32000-1:2008 Table 169 – Annotation types).
+# Some common types are e.g.: "Check", "Text", "Comment", "Note"
+pdfjs-text-annotation-type =
+    .alt = [{ $type } Tɛkst-nyiano]
 
 ## Password
 
+pdfjs-web-fonts-disabled = Ɔedum wɛb-mfɔnt: nntumi mmfa PDF mfɔnt a wɔhyɛ mu nndi dwuma.
 
 ## Editing
 
