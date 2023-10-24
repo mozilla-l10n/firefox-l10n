@@ -226,6 +226,24 @@ pdfjs-find-match-diacritics-checkbox-label = Segni diacritici
 pdfjs-find-entire-word-checkbox-label = Parole intere
 pdfjs-find-reached-top = Raggiunto l’inizio della pagina, continua dalla fine
 pdfjs-find-reached-bottom = Raggiunta la fine della pagina, continua dall’inizio
+
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } di { $total } corrispondenza
+       *[other] { $current } di { $total } corrispondenze
+    }
+
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Più di una { $limit } corrispondenza
+       *[other] Più di { $limit } corrispondenze
+    }
+
 pdfjs-find-not-found = Testo non trovato
 
 ## Predefined zoom values
