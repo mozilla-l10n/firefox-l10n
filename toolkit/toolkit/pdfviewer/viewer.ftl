@@ -15,6 +15,10 @@ pdfjs-next-button-label = Հաջորդը
 pdfjs-page-input =
     .title = Էջ.
 # Variables:
+#   $pagesCount (Number) - the total number of pages in the document
+# This string follows an input field with the number of the page currently displayed.
+pdfjs-of-pages = -ը՝ { $pagesCount }-ից
+# Variables:
 #   $pageNumber (Number) - the currently visible page
 #   $pagesCount (Number) - the total number of pages in the document
 pdfjs-page-of-pages = ({ $pageNumber }-ը { $pagesCount })-ից
@@ -24,6 +28,8 @@ pdfjs-zoom-out-button-label = Փոքրացնել
 pdfjs-zoom-in-button =
     .title = Խոշորացնել
 pdfjs-zoom-in-button-label = Խոշորացնել
+pdfjs-zoom-select =
+    .title = Մասշտաբ
 pdfjs-presentation-mode-button =
     .title = Անցնել Ներկայացման եղանակին
 pdfjs-presentation-mode-button-label = Ներկայացման եղանակ
@@ -210,6 +216,7 @@ pdfjs-loading-error = Սխալ՝ PDF ֆայլը բացելիս։
 pdfjs-invalid-file-error = Սխալ կամ վնասված PDF ֆայլ:
 pdfjs-missing-file-error = PDF ֆայլը բացակայում է:
 pdfjs-unexpected-response-error = Սպասարկիչի անսպասելի պատասխան:
+pdfjs-rendering-error = Սխալ՝ էջը ստեղծելիս:
 
 ## Annotations
 
