@@ -63,6 +63,18 @@ pdfjs-cursor-text-select-tool-button-label = पाठ चयन उपकरण
 pdfjs-cursor-hand-tool-button =
     .title = हाते उपकरण सक्षम गर्नुहोस्
 pdfjs-cursor-hand-tool-button-label = हाते उपकरण
+pdfjs-scroll-vertical-button =
+    .title = ठाडो स्क्रोलिङ्ग प्रयोग गर्नुहोस्
+pdfjs-scroll-vertical-button-label = ठाडो स्क्र्रोलिङ्ग
+pdfjs-scroll-horizontal-button =
+    .title = तेर्सो स्क्रोलिङ्ग प्रयोग गर्नुहोस्
+pdfjs-scroll-horizontal-button-label = तेर्सो स्क्रोलिङ्ग
+pdfjs-scroll-wrapped-button =
+    .title = लिपि स्क्रोलिङ्ग प्रयोग गर्नुहोस्
+pdfjs-scroll-wrapped-button-label = लिपि स्क्रोलिङ्ग
+pdfjs-spread-none-button =
+    .title = पृष्ठ स्प्रेडमा सामेल हुनुहुन्न
+pdfjs-spread-none-button-label = स्प्रेड छैन
 
 ## Document properties dialog
 
@@ -93,6 +105,13 @@ pdfjs-document-properties-creator = सर्जक:
 pdfjs-document-properties-producer = PDF निर्माता:
 pdfjs-document-properties-version = PDF संस्करण
 pdfjs-document-properties-page-count = पृष्ठ गणना:
+pdfjs-document-properties-page-size = पृष्ठ आकार:
+pdfjs-document-properties-page-size-unit-inches = इन्च
+pdfjs-document-properties-page-size-unit-millimeters = मि.मि.
+pdfjs-document-properties-page-size-orientation-portrait = पोट्रेट
+pdfjs-document-properties-page-size-orientation-landscape = परिदृश्य
+pdfjs-document-properties-page-size-name-letter = अक्षर
+pdfjs-document-properties-page-size-name-legal = कानूनी
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -104,6 +123,8 @@ pdfjs-document-properties-page-count = पृष्ठ गणना:
 
 ##
 
+pdfjs-document-properties-linearized-yes = हो
+pdfjs-document-properties-linearized-no = होइन
 pdfjs-document-properties-close-button = बन्द गर्नुहोस्
 
 ## Print
@@ -158,6 +179,7 @@ pdfjs-find-next-button =
 pdfjs-find-next-button-label = अर्को
 pdfjs-find-highlight-checkbox = सबै हाइलाइट गर्ने
 pdfjs-find-match-case-checkbox-label = केस जोडा मिलाउनुहोस्
+pdfjs-find-entire-word-checkbox-label = पुरा शब्दहरु
 pdfjs-find-reached-top = पृष्ठको शिर्षमा पुगीयो, तलबाट जारी गरिएको थियो
 pdfjs-find-reached-bottom = पृष्ठको अन्त्यमा पुगीयो, शिर्षबाट जारी गरिएको थियो
 pdfjs-find-not-found = वाक्यांश फेला परेन
