@@ -93,6 +93,15 @@ pdfjs-document-properties-creator = உருவாக்குபவர்:
 pdfjs-document-properties-producer = பிடிஎஃப் தயாரிப்பாளர்:
 pdfjs-document-properties-version = PDF பதிப்பு:
 pdfjs-document-properties-page-count = பக்க எண்ணிக்கை:
+pdfjs-document-properties-page-size = பக்க அளவு:
+pdfjs-document-properties-page-size-unit-inches = இதில்
+pdfjs-document-properties-page-size-unit-millimeters = mm
+pdfjs-document-properties-page-size-orientation-portrait = நிலைபதிப்பு
+pdfjs-document-properties-page-size-orientation-landscape = நிலைபரப்பு
+pdfjs-document-properties-page-size-name-a-three = A3
+pdfjs-document-properties-page-size-name-a-four = A4
+pdfjs-document-properties-page-size-name-letter = கடிதம்
+pdfjs-document-properties-page-size-name-legal = சட்டபூர்வ
 
 ## Variables:
 ##   $width (Number) - the width of the (current) page
@@ -101,6 +110,8 @@ pdfjs-document-properties-page-count = பக்க எண்ணிக்கை:
 ##   $name (String) - the name of the (current) page
 ##   $orientation (String) - the orientation of the (current) page
 
+pdfjs-document-properties-page-size-dimension-string = { $width } × { $height } { $unit } ({ $orientation })
+pdfjs-document-properties-page-size-dimension-name-string = { $width } × { $height } { $unit } ({ $name }, { $orientation })
 
 ##
 
