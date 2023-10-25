@@ -147,7 +147,7 @@ addon-category-sitepermission-title =
     .title = Leje Sajti
 # String displayed in about:addons in the Site Permissions section
 # Variables:
-#  $host (string): DNS host name for which the webextension enables permissions
+#  $host (string) - DNS host name for which the webextension enables permissions
 addon-sitepermission-host = Leje Sajti për { $host }
 
 ## These are global warnings
@@ -165,6 +165,7 @@ extensions-warning-update-security2 =
     .message = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
 extensions-warning-update-security-button = Aktivizoje
     .title = Aktivizoni kontrollin e përditësimit të shtesave
+extensions-warning-imported-addons-button = Instalo Zgjerime
 
 ## Strings connected to add-on updates
 
@@ -238,6 +239,8 @@ shortcuts-duplicate-warning-message2 =
 # Variables:
 #   $addon (string) - Name of the add-on
 shortcuts-exists = Përdorur tashmë nga { $addon }
+# Variables:
+#   $numberToShow (number) - Number of other elements available to show
 shortcuts-card-expand-button =
     { $numberToShow ->
         [one] Shfaq { $numberToShow } Më Tepër
@@ -365,6 +368,10 @@ addon-detail-updates-radio-on = On
 addon-detail-updates-radio-off = Off
 addon-detail-update-check-label = Kontrollo për Përditësime
 install-update-button = Përditësojeni
+# aria-label associated to the updates row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-updates =
+    .aria-label = { addon-detail-updates-label }
 # This is the tooltip text for the private browsing badge in about:addons. The
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed2 =
@@ -373,10 +380,20 @@ addon-badge-private-browsing-allowed2 =
 addon-detail-private-browsing-help = Nën lejim, zgjerimi do të mund të shohë veprimtaritë tuaja në linjë, teksa shfletoni privatisht. <a data-l10n-name="learn-more">Mësoni më tepër</a>
 addon-detail-private-browsing-allow = Lejoje
 addon-detail-private-browsing-disallow = Mos e Lejo
+# aria-label associated to the private browsing row to help screen readers to announce the group
+# of input controls being entered.
+addon-detail-group-label-private-browsing =
+    .aria-label = { detail-private-browsing-label }
 
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
+addon-detail-quarantined-domains-allow = Lejoje
+addon-detail-quarantined-domains-disallow = Mos e Lejo
+# aria-label associated to the quarantined domains exempt row to help screen readers to announce the group.
+addon-detail-group-label-quarantined-domains =
+    .aria-label = { addon-detail-quarantined-domains-label }
 
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
@@ -405,6 +422,8 @@ addon-permissions-optional = Leje opsionale për më tepër funksione:
 addon-permissions-learnmore = Mësoni më tepër rreth lejesh
 recommended-extensions-heading = Zgjerime të Këshilluara
 recommended-themes-heading = Tema të Këshilluara
+# Variables:
+#   $hostname (string) - Host where the permissions are granted
 addon-sitepermissions-required = I akordon <span data-l10n-name="hostname">{ $hostname }</span> aftësitë vijuese:
 # A recommendation for the Firefox Color theme shown at the bottom of the theme
 # list view. The "Firefox Color" name itself should not be translated.
@@ -432,7 +451,7 @@ addon-page-options-button =
 ##   $name (string) - Name of the add-on.
 
 # Variables:
-#   $version (String): application version.
+#   $version (string) - Application version.
 details-notification-incompatible = { $name } është e papërputhshme me { -brand-short-name } { $version }.
 # Variables:
 #   $version (string) - Application version.
