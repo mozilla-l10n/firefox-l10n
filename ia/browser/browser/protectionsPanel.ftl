@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Protection antitraciamento reinfortiate
     .description = Inactive pro iste sito
     .aria-label = Activar protectiones pro { $host }
+protections-panel-etp-toggle-on =
+    .label = Protection antitraciamento reinfortiate
+    .description = Active pro iste sito
+    .aria-label = Protection antitraciamento reinfortiate: active pro { $host }
+protections-panel-etp-toggle-off =
+    .label = Protection antitraciamento reinfortiate
+    .description = Disactivate pro iste sito
+    .aria-label = Protection antitraciamento reinfortiate. Disactivate pro { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Sito non functiona?
 # The heading/title of the sub-panel view

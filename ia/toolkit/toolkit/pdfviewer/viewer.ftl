@@ -226,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = Differentiar diacriticos
 pdfjs-find-entire-word-checkbox-label = Parolas integre
 pdfjs-find-reached-top = Initio del documento attingite, continuation ab fin
 pdfjs-find-reached-bottom = Fin del documento attingite, continuation ab initio
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } de { $total } correspondentia
+       *[other] { $current } de { $total } correspondentias
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Plus de { $limit } correspondentia
+       *[other] Plus de { $limit } correspondentias
+    }
 pdfjs-find-not-found = Phrase non trovate
 
 ## Predefined zoom values
