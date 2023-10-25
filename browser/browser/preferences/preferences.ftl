@@ -129,7 +129,7 @@ startup-restore-windows-and-tabs =
     .accesskey = п
 windows-launch-on-login =
     .label = Открывать { -brand-short-name } автоматически при загрузке компьютера.
-    .accesskey = щ
+    .accesskey = м
 windows-launch-on-login-disabled = Эта настройка отключена в Windows. Чтобы изменить это, откройте <a data-l10n-name="startup-link">Автозагрузка приложений</a> в настройках системы.
 startup-restore-warn-on-quit =
     .label = Предупреждать при выходе из браузера
@@ -1014,9 +1014,6 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Быстрые действия
     .accesskey = ы
-addressbar-locbar-recentsearches-option =
-    .label = Недавние поиски
-    .accesskey = к
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-quickactions-learn-more = Подробнее
 
