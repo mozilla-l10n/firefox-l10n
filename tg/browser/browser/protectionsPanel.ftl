@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Муҳофизати такмилёфта аз пайгирӣ
     .description = Барои ин сомона ғайрифаъол аст
     .aria-label = Фаъол кардани муҳофизат барои { $host }
+protections-panel-etp-toggle-on =
+    .label = Муҳофизати такмилёфта аз пайгирӣ
+    .description = Барои ин сомона фаъол аст
+    .aria-label = Муҳофизати такмилёфта аз пайгирӣ: Барои { $host } фаъол аст
+protections-panel-etp-toggle-off =
+    .label = Муҳофизати такмилёфта аз пайгирӣ
+    .description = Барои ин сомона хомӯш аст
+    .aria-label = Муҳофизати такмилёфта аз пайгирӣ: Барои { $host } хомӯш аст
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сомона кор намекунад?
 # The heading/title of the sub-panel view

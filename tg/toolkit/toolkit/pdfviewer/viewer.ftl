@@ -226,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = Бо дарназардошти а�
 pdfjs-find-entire-word-checkbox-label = Калимаҳои пурра
 pdfjs-find-reached-top = Ба болои ҳуҷҷат расид, аз поён идома ёфт
 pdfjs-find-reached-bottom = Ба поёни ҳуҷҷат расид, аз боло идома ёфт
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } аз { $total } мувофиқат
+       *[other] { $current } аз { $total } мувофиқат
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Зиёда аз { $limit } мувофиқат
+       *[other] Зиёда аз { $limit } мувофиқат
+    }
 pdfjs-find-not-found = Ибора ёфт нашуд
 
 ## Predefined zoom values
