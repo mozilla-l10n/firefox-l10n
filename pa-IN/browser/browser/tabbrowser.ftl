@@ -95,7 +95,7 @@ tabbrowser-confirm-close-tabs-with-key-checkbox = { $quitKey } ਨਾਲ ਬਾ�
 
 ## Confirmation dialog when opening multiple tabs simultaneously
 
-tabbrowser-confirm-open-multiple-tabs-title = ਖੋਲ੍ਹਣ ਦੀ ਪੁਸ਼ਟੀ
+tabbrowser-confirm-open-multiple-tabs-title = ਖੋਲ੍ਹਣ ਦੀ ਤਸਦੀਕ
 # Variables:
 #   $tabCount (Number): The number of tabs that will be opened.
 tabbrowser-confirm-open-multiple-tabs-message =
