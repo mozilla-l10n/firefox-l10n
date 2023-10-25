@@ -1002,6 +1002,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hızlı eylemler
     .accesskey = H
+addressbar-locbar-showrecentsearches-option =
+    .label = Son aramaları göster
+    .accesskey = r
 addressbar-suggestions-settings = Arama motoru önerileri için tercihleri değiştir
 addressbar-quickactions-learn-more = Daha fazla bilgi al
 
