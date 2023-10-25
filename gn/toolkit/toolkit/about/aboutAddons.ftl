@@ -444,7 +444,7 @@ default-heading-search-label = Ehekave moĩmbaha
 addons-heading-search-input =
     .placeholder = Eheka addons.mozilla.org
 addon-page-options-button =
-    .title = Tembiporu opaite moimbahápe g̃uarã
+    .title = Tembiporu opaite moĩmbahápe g̃uarã
 
 ## Detail notifications
 ## Variables:
