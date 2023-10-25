@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = Pa ruajtje cookie-sh apo historiku, dre
 about-private-browsing-cookie-banners-promo-header = Lamtumirë banderola cookie-sh!
 about-private-browsing-cookie-banners-promo-button = Redukto Banderola për Cookie-t
 about-private-browsing-cookie-banners-promo-message = Lejojeni { -brand-short-name }-i t’u përgjigjet vetvetiu për ju flluskave për cookie, që të mund t’i ktheheni shfletimit pa shpërqendrim. { -brand-short-name }-i do të hedhë poshtë krejt kërkesat, kur është e mundur.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = Me banderola cookie-sh merret { -brand-short-name }-i për ju
 about-private-browsing-cookie-banners-promo-body = Tani ne hedhim poshtë automatikisht mjaft banderola cookie-sh, që t’ju ndjekin më pak dhe t’i riktheheni shfletimit pa shpërqendrim.
 
 ## Strings for Felt Privacy v1 experiments in 119
