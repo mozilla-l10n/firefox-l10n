@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = თვალთვალისგან გაძლიერებული დაცვა
     .description = გამორთულია ამ საიტზე
     .aria-label = დაცვით ჩაირთოს { $host }
+protections-panel-etp-toggle-on =
+    .label = თვალთვალისგან გაძლიერებული დაცვა
+    .description = ჩართ. ამ საიტზე
+    .aria-label = თვალთვალისგან გაძლიერებული დაცვა: ჩართულია { $host }
+protections-panel-etp-toggle-off =
+    .label = თვალთვალისგან გაძლიერებული დაცვა
+    .description = გამორთ. ამ საიტზე
+    .aria-label = თვალთვალისგან გაძლიერებული დაცვა; გამორთულია { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = არ მუშაობს საიტი?
 # The heading/title of the sub-panel view
