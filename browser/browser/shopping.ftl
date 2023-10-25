@@ -118,7 +118,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = როგორ განისაზღვრება მიმოხილვის ხარისხი
-shopping-analysis-explainer-intro2 = ჩვენ ვიყენებთ ხელოვნური ინტელექტის შესაძლებლობებს საიტიდან { -fakespot-brand-full-name } მიმოხილვების სანდოობის გადასამოწმებლად. ეს მხოლოდ მიმოხილვის ხარისხის შეფასებაში დაგეხმარებათ და არა – ნაწარმის ხარისხის.
+shopping-analysis-explainer-intro2 = ჩვენ ვიყენებთ ხელოვნური ინტელექტის შესაძლებლობებს საიტიდან { -fakespot-brand-full-name } მიმოხილვების სანდოობის გადასამოწმებლად. ეს მხოლოდ მიმოხილვის ხარისხის შეფასებაში დაგეხმარებათ და არა – ნაწარმის ხარისხისა.
 shopping-analysis-explainer-grades-intro = გასაყიდ ნაწარმზე თითოეულ მიმოხილვას ეწერება <strong>ნიშნები</strong> A-დან F-მდე.
 shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ იმ მიმოხილვებს, რომლებიც სანდოდ მიგვაჩნია.
 shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-full-name } მიმოხილვის ხარისხს</a>.
@@ -154,7 +154,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = ამ მიმოხილვების შესახებ მონაცემები ჯერ არაა
-shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, გადაამოწმეთ მიმოხილვის ხარისხი. მხოლოდ მიახლოებით 60 წამს გასტანს.
+shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, გადაამოწმეთ მიმოხილვის ხარისხი. მიახლოებით 60 წამს გასტანს მხოლოდ.
 shopping-unanalyzed-product-analyze-button = მიმოხილვის ხარისხის შემოწმება
 
 ## Strings for the advertisement
@@ -211,7 +211,7 @@ shopping-onboarding-dynamic-subtitle-1 = იხილეთ, რამდენ�
 shopping-onboarding-body = { -fakespot-brand-full-name }-ის ძლევამოსილებით ჩვენ დაგეხმარებით მიკერძოებული და ყალბი მიმოხილვების თავიდან აცილებაში. ჩვენი AI-მოდელი მუდმივად იხვეწება საყიდლების შეძენისას თქვენს დასაცავად. <a data-l10n-name="learn_more">ვრცლად</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკის არჩევით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = „{ shopping-onboarding-opt-in-button }“ ღილაკის არჩევით ეთანხმებით { -fakespot-brand-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
-shopping-onboarding-opt-in-button = დიახ, მსურს ვცადო
+shopping-onboarding-opt-in-button = დიახ, მოისინჯოს
 shopping-onboarding-not-now-button = ახლა არა
 shopping-onboarding-dialog-close-button =
     .title = დახურვა
