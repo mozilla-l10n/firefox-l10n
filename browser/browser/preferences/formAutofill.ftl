@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Kayıtlı Adresler
 autofill-manage-addresses-list-header = Adresler
-
 autofill-manage-credit-cards-title = Kayıtlı Kredi Kartları
 autofill-manage-credit-cards-list-header = Kredi kartları
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Sil
 autofill-manage-add-button = Ekle…
 autofill-manage-edit-button = Düzenle…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Adres kaydedilsin mi?
+address-capture-save-doorhanger-description = Formları hızlıca doldurmak için bilgileri { -brand-short-name } tarayıcınıza kaydedin.
+address-capture-update-doorhanger-header = Adres güncellensin mi?
+address-capture-edit-doorhanger-header = Adresi düzenle
+address-capture-save-button =
+    .label = Kaydet
+    .accessKey = K
+address-capture-not-now-button =
+    .label = Şimdi değil
+    .accessKey = d
+address-capture-cancel-button =
+    .label = Vazgeç
+    .accessKey = V
+address-capture-update-button =
+    .label = Güncelle
+    .accessKey = G
+address-capture-manage-address-button =
+    .label = Adres ayarları
+address-capture-learn-more-button =
+    .label = Daha fazla bilgi alın
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Yeni Adres Ekle
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Adresi Düzenle
-
+autofill-address-name = Ad
 autofill-address-given-name = Ad
 autofill-address-additional-name = İkinci ad
 autofill-address-family-name = Soyadı
 autofill-address-organization = Şirket
+autofill-address-street-address = Sokak adresi
 autofill-address-street = Sokak adresi
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Ülke
+autofill-address-country-only = Ülke
 autofill-address-tel = Telefon
 autofill-address-email = E-posta
-
 autofill-cancel-button = Vazgeç
 autofill-save-button = Kaydet
 autofill-country-warning-message = Otomatik form doldurma şimdilik yalnızca belli ülkelerde kullanılabilir.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Yeni Kredi Kartı Ekle
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Kredi Kartını Düzenle
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } kredi kartı bilgilerini göstermeye çalışıyor. Bu Windows hesabına erişimi onaylayın.
        *[other] { -brand-short-name } kredi kartı bilgilerini göstermeye çalışıyor.
     }
-
 autofill-card-number = Kart numarası
 autofill-card-invalid-number = Lütfen geçerli bir kart numarası yazın
 autofill-card-name-on-card = Kart üzerindeki ad
