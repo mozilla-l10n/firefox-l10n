@@ -6,3 +6,7 @@ alert-close =
     .tooltiptext = Mbylleni këtë njoftim
 alert-settings-title =
     .tooltiptext = Rregullime
+
+## Reminder Notifications
+
+notification-default-dismiss = Hidhe tej
