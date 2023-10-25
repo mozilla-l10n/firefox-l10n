@@ -117,11 +117,11 @@ shopping-review-reliability-label =
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
-    .label = Como determinamos a qualidade da avaliação
+    .label = Como determinamos a qualidade das avaliações
 shopping-analysis-explainer-intro2 = Usamos tecnologia de inteligência artificial do { -fakespot-brand-full-name } para analisar a confiabilidade das avaliações de produtos. Isso só ajuda a estimar a qualidade das avaliações, não a qualidade dos produtos.
 shopping-analysis-explainer-grades-intro = Atribuímos às avaliações de cada produto uma <strong>nota com letra</strong> de A a F.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>classificação ajustada</strong> é baseada apenas em avaliações que acreditamos ser confiáveis.
-shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como o { -fakespot-brand-full-name } determina a qualidade da avaliação</a>.
+shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como o { -fakespot-brand-full-name } determina a qualidade das avaliações</a>.
 shopping-analysis-explainer-learn-more2 = Saiba mais sobre <a data-l10n-name="review-quality-url">como o { -fakespot-brand-name } determina a qualidade das avaliações</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
