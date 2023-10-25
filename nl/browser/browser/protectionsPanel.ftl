@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Verbeterde bescherming tegen volgen
     .description = Uit voor deze website
     .aria-label = Beschermingen voor { $host } inschakelen
+protections-panel-etp-toggle-on =
+    .label = Verbeterde bescherming tegen volgen
+    .description = Aan voor deze website
+    .aria-label = Verbeterde bescherming tegen volgen: aan voor { $host }
+protections-panel-etp-toggle-off =
+    .label = Verbeterde bescherming tegen volgen
+    .description = Uit voor deze website
+    .aria-label = Verbeterde bescherming tegen volgen: uit voor { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Werkt de website niet?
 # The heading/title of the sub-panel view

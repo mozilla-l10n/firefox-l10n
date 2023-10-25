@@ -226,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = Diakritische tekens gebruiken
 pdfjs-find-entire-word-checkbox-label = Hele woorden
 pdfjs-find-reached-top = Bovenkant van document bereikt, doorgegaan vanaf onderkant
 pdfjs-find-reached-bottom = Onderkant van document bereikt, doorgegaan vanaf bovenkant
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } van { $total } overeenkomst
+       *[other] { $current } van { $total } overeenkomsten
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Meer dan { $limit } overeenkomst
+       *[other] Meer dan { $limit } overeenkomsten
+    }
 pdfjs-find-not-found = Tekst niet gevonden
 
 ## Predefined zoom values
