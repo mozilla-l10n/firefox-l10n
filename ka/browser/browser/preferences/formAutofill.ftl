@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = დამახსოვრებული მისამართები
 autofill-manage-addresses-list-header = მისამართები
-
 autofill-manage-credit-cards-title = დამახსოვრებული საკრედიტო ბარათები
 autofill-manage-credit-cards-list-header = საკრედიტო ბარათები
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = მოცილება
 autofill-manage-add-button = დამატება…
 autofill-manage-edit-button = ჩასწორება…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = შეინახოს მისამართი?
+address-capture-save-doorhanger-description = შეინახავს მონაცემებს { -brand-short-name } ველების სწრაფად შესავსებად.
+address-capture-update-doorhanger-header = განახლდეს მისამართი?
+address-capture-edit-doorhanger-header = მისამართის ჩასწორება
+address-capture-save-button =
+    .label = შენახვა
+    .accessKey = ნ
+address-capture-not-now-button =
+    .label = ახლა არა
+    .accessKey = ა
+address-capture-cancel-button =
+    .label = გაუქმება
+    .accessKey = უ
+address-capture-update-button =
+    .label = განახლება
+    .accessKey = ხ
+address-capture-manage-address-button =
+    .label = მისამართის პარამეტრები
+address-capture-learn-more-button =
+    .label = ვრცლად
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = ახალი მისამართის დამატება
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = მისამართის ჩასწორება
-
+autofill-address-name = სახელი
 autofill-address-given-name = სახელი
 autofill-address-additional-name = მეორე სახელი
 autofill-address-family-name = გვარი
 autofill-address-organization = დაწესებულება
+autofill-address-street-address = ქუჩის მისამართი
 autofill-address-street = მისამართი
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eir-კოდი
 
 ##
 
+
+##
+
 autofill-address-country = ქვეყანა ან მხარე
+autofill-address-country-only = ქვეყანა
 autofill-address-tel = ტელეფონი
 autofill-address-email = ელფოსტა
-
 autofill-cancel-button = გაუქმება
 autofill-save-button = შენახვა
 autofill-country-warning-message = ველების თვითშევსება, ამჟამად მიუწვდომელია ცალკეული ქვეყნებისთვის.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = ახალი საკრედიტო ბარათის დამატება
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = საკრედიტო ბარათის მონაცემების ჩასწორება
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ცდილობს გამოაჩინოს საკრედიტო ბარათის მონაცემები. დაადასტურეთ ამ Windows-ანგარიშთან წვდომა.
        *[other] { -brand-short-name } ცდილობს გამოაჩინოს საკრედიტო ბარათის მონაცემები.
     }
-
 autofill-card-number = ბარათის ნომერი
 autofill-card-invalid-number = გთხოვთ, მიუთითეთ ბარათის მართებული ნომერი
 autofill-card-name-on-card = მფლობელის სახელი
