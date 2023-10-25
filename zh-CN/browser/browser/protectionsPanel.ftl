@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = 增强型跟踪保护
     .description = 在此网站关闭
     .aria-label = 启用对{ $host }的保护
+protections-panel-etp-toggle-on =
+    .label = 增强型跟踪保护
+    .description = 已为此网站开启
+    .aria-label = 增强型跟踪保护：已为 { $host } 开启
+protections-panel-etp-toggle-off =
+    .label = 增强型跟踪保护
+    .description = 已为此网站关闭
+    .aria-label = 增强型跟踪保护：已为 { $host } 关闭
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 网站不正常？
 # The heading/title of the sub-panel view

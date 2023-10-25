@@ -1002,9 +1002,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = 快捷操作
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = 最近的搜索
-    .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = 显示近期搜索
+    .accesskey = r
 addressbar-suggestions-settings = 更改搜索引擎建议的首选项
 addressbar-quickactions-learn-more = 详细了解
 
