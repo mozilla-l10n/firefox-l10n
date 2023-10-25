@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Enhanced Tracking Protection
     .description = Off for this site
     .aria-label = Enable protections for { $host }
+protections-panel-etp-toggle-on =
+    .label = Enhanced Tracking Protection
+    .description = On for this site
+    .aria-label = Enhanced Tracking Protection: On for { $host }
+protections-panel-etp-toggle-off =
+    .label = Enhanced Tracking Protection
+    .description = Off for this site
+    .aria-label = Enhanced Tracking Protection: Off for { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Site not working?
 # The heading/title of the sub-panel view
