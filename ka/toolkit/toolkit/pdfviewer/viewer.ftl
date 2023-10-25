@@ -226,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = ნიშნებით
 pdfjs-find-entire-word-checkbox-label = მთლიანი სიტყვები
 pdfjs-find-reached-top = მიღწეულია დოკუმენტის დასაწყისი, გრძელდება ბოლოდან
 pdfjs-find-reached-bottom = მიღწეულია დოკუმენტის ბოლო, გრძელდება დასაწყისიდან
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] თანხვედრა { $current }, სულ { $total }
+       *[other] თანხვედრა { $current }, სულ { $total }
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] არანაკლებ { $limit } თანხვედრა
+       *[other] არანაკლებ { $limit } თანხვედრა
+    }
 pdfjs-find-not-found = ფრაზა ვერ მოიძებნა
 
 ## Predefined zoom values
