@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Protección de rastreo mejorada
     .description = Deshabilitada para este sitio
     .aria-label = Habilitar protecciones para { $host }
+protections-panel-etp-toggle-on =
+    .label = Protección de rastreo aumentada
+    .description = Habilitada para este sitio
+    .aria-label = Protección de rastreo aumentada: Habilitada para { $host }
+protections-panel-etp-toggle-off =
+    .label = Protección de rastreo aumentada
+    .description = Deshabilitada para este sitio
+    .aria-label = Protección de rastreo aumentada: Deshabilitada para { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿El sitio no funciona?
 # The heading/title of the sub-panel view
