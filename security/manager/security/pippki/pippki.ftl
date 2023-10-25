@@ -57,6 +57,11 @@ client-auth-window =
     .title = Kërkesë Identifikimi Përdoruesi
 client-auth-site-description = Ky sajt ka kërkuar që të identifikoni vetveten përmes një dëshmie:
 client-auth-choose-cert = Zgjidhni një dëshmi për ta paraqitur si identifikim:
+client-auth-send-no-certificate =
+    .label = Mos dërgo dëshmi
+# Variables:
+# $hostname (String) - The domain name of the site requesting the client authentication certificate
+client-auth-site-identification = “{ $hostname }” ka kërkuar të identifikoni veten me një dëshmi:
 client-auth-cert-details = Hollësi të dëshmisë së përzgjedhur:
 # Variables:
 # $issuedTo (String) - The subject common name of the currently-selected client authentication certificate

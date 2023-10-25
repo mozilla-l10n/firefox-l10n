@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Mbrojtje e Thelluar Nga Gjurmimi
     .description = Jo aktive për këtë sajt
     .aria-label = Aktivizo mbrojtje për { $host }
+protections-panel-etp-toggle-on =
+    .label = Mbrojtje e Thelluar Nga Gjurmimi
+    .description = On për këtë sajt
+    .aria-label = Mbrojtje e Thelluar Nga Gjurmimet: On për { $host }
+protections-panel-etp-toggle-off =
+    .label = Mbrojtje e Thelluar Nga Gjurmimi
+    .description = Off për këtë sajt
+    .aria-label = Mbrojtje e Thelluar Nga Gjurmimet: Off për { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = S'funksionon sajti?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reduktim Banderolash Për Cookie-t
+protections-panel-cookie-banner-blocker-header = Bllokues Banderolash Cookie-sh
 protections-panel-cookie-banner-handling-enabled = Aktivizuar për këtë sajt
 protections-panel-cookie-banner-handling-disabled = Çaktivizuar për këtë sajt
 protections-panel-cookie-banner-handling-undetected = Sajt aktualisht i pambuluar
@@ -128,6 +137,8 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Të çaktivizohet Reduktim Banderolash Cookie-sh për { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Të aktivizohet Reduktim Banderolash Cookie-sh për këtë sajt?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Bllokues Banderolash Cookie-sh
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }-i do të spastrojë cookie-t për këtë sajt dhe do të rifreskojë faqen. Spastrimi i krejt cookie-ve mund të sjellë nxjerrjen tuaj nga llogaria, ose zbrazje shportash blerjesh.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht krejt kërkesat për cookies, në sajtet që e mbulojnë.
 protections-panel-cookie-banner-view-cancel = Anuloje
