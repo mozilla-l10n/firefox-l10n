@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = ਕੋਈ ਵੀ ਸੰਭਾਲੇ ਕ
 about-private-browsing-cookie-banners-promo-header = ਕੂਕੀ ਬੈਨਰ ਘਟਾਓ!
 about-private-browsing-cookie-banners-promo-button = ਕੂਕੀਜ਼ ਬੈਨਰ ਘਟਾਓ
 about-private-browsing-cookie-banners-promo-message = { -brand-short-name } ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਆਪਣੇ-ਆਪ ਹੀ ਕੂਕੀ ਪੌਪ-ਅੱਪ ਲਈ ਕਾਰਵਾਈ ਕਰਨ ਦਿਓ ਤਾਂ ਕਿ ਤੁਸੀਂ ਬਿਨਾਂ ਰੁਕਾਵਟ ਦੇ ਬਰਾਊਜ਼ ਕਰ ਸਕੋ। ਜਦੋਂ ਵੀ ਸੰਭਵ ਹੁੰਦਾ ਹੈ ਤਾਂ { -brand-short-name } ਸਭ ਬੇਨਤੀਆਂ ਨੂੰ ਰੱਦ ਕਰੇਗਾ।
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ਤੁਹਾਡੇ ਲਈ  ਕੂਕੀ ਬੈਨਰਾਂ ਨਾਲ ਨਿਪਟਦਾ ਹੈ
 
 ## Strings for Felt Privacy v1 experiments in 119
 
