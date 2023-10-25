@@ -5,7 +5,7 @@
 
 ## Error page titles
 
-neterror-page-title = Apañuái oñemyanyhẽvo kuatiarogue
+neterror-page-title = Apañuãi oñemyanyhẽvo kuatiarogue
 certerror-page-title = Jesarekorã: Imarãkuaáva tekorosã tenondeve
 certerror-sts-page-title = Ndoikéi: Ikatu iñapañuãi tekorosãrã
 neterror-blocked-by-policy-page-title = Kuatiarogue jokopyre
