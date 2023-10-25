@@ -68,7 +68,7 @@ close-button =
 ## Browser Restart Dialog
 
 feature-enable-requires-restart = { -brand-short-name } toñepyrũjey emyandy hag̃ua koichagua.
-feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emboguete hag̃ua koichagua.
+feature-disable-requires-restart = { -brand-short-name } toñepyrũjey emboguete hag̃ua koichagua.
 should-restart-title = Ñepyrũjey { -brand-short-name }
 should-restart-ok = Emoñepyrũjey { -brand-short-name } ko’ág̃a
 cancel-no-restart-button = Heja
