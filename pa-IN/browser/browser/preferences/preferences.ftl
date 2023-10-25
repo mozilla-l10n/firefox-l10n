@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਮੇਰਾ ਡਾਟਾ ਵੇਚਣ ਜਾਂ ਸਾਂਝਾ ਨਾ ਕਰਨ ਲਈ ਦੱਸੋ
     .accesskey = s
+non-technical-privacy-header = ਵੈੱਬਸਾਈਟ ਪਰਦੇਦਾਰੀ ਪਸੰਦਾਂ
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -972,9 +973,13 @@ cookie-banner-handling-description = { -brand-short-name } ਸਹਾਇਕ ਸ�
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = ਕੂਕੀ ਬੈਨਰ ਰੋਕੂ
+cookie-banner-blocker-description = ਜੇ ਸਾਈਟ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਢੰਗ ਵਿੱਚ ਕੂਕੀਜ਼ ਵਰਤਣ ਬਾਰੇ ਪੁਛਦੀ ਹੈ ਤਾਂ { -brand-short-name } ਤੁਹਾਡੇ ਲਈ ਆਪਣੇ-ਆਪ ਇਨਕਾਰ ਕਰ ਦਿੰਦਾ ਹੈ। ਸਿਰਫ਼ ਸਹਾਇਕ ਸਾਈਟਾਂ ਉੱਤੇ ਹੀ ਹੈ।
 cookie-banner-learn-more = ਹੋਰ ਜਾਣੋ
 forms-handle-cookie-banners =
     .label = ਕੂਕੀਜ਼ ਬੈਨਰ ਘਟਾਓ
+cookie-banner-blocker-checkbox-label =
+    .label = ਆਪਣੇ-ਆਪ ਹੀ ਕੂਕੀ ਬੈਨਰ ਨੂੰ ਇਨਕਾਰ ਕਰੋ
 
 ## Privacy Section - Address Bar
 
@@ -1005,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = ਫ਼ੌਰੀ ਕਾਰਵਾਈਆਂ
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option =
+    .label = ਸੱਜਰੀਆਂ ਖੋਜਾਂ ਵੇਖਾਓ
+    .accesskey = r
 addressbar-suggestions-settings = ਖੋਜ ਇੰਜਣ ਸੁਝਾਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ
 addressbar-quickactions-learn-more = ਹੋਰ ਜਾਣੋ
 
