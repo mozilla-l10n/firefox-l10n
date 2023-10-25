@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = { -brand-short-name } ਨ�
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } ਤੁਹਾਡੇ ਲਈ  ਕੂਕੀ ਬੈਨਰਾਂ ਨਾਲ ਨਿਪਟਦਾ ਹੈ
+about-private-browsing-cookie-banners-promo-body = ਅਸੀਂ ਕੂਕੀ ਬੈਨਰ ਲਈ ਇਨਕਾਰ ਕਰਨ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਕੋਸ਼ਿਸ਼ ਕਰਾਂਗੇ ਤਾਂ ਕਿ ਤੁਸੀਂ ਘੱਟ ਟੋਹ ਲਏ ਅਤੇ ਬਿਨਾਂ ਕਿਸੇ ਰੁਕਾਵਟ ਦੇ ਬਰਾਊਜ਼ ਕਰ ਸਕੋ।
 
 ## Strings for Felt Privacy v1 experiments in 119
 
