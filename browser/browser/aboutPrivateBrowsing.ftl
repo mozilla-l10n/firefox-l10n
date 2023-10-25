@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = Brez shranjenih piškotkov ali zgodovin
 about-private-browsing-cookie-banners-promo-header = Pasice s piškotki, izginite!
 about-private-browsing-cookie-banners-promo-button = Zmanjšajte število pasic s piškotki
 about-private-browsing-cookie-banners-promo-message = Naj { -brand-short-name } namesto vas odgovarja na zahteve za shranjevanje piškotkov, vam pa omogoči nemoteno brskanje. { -brand-short-name } bo poskušal zavrniti vse zahteve, če bo to mogoče.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } se ukvarja s piškotki namesto vas
 
 ## Strings for Felt Privacy v1 experiments in 119
 
