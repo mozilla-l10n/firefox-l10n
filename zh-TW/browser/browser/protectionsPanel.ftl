@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = 加強型追蹤保護
     .description = 對此網站關閉
     .aria-label = 開啟對 { $host } 的追蹤保護
+protections-panel-etp-toggle-on =
+    .label = 加強型追蹤保護
+    .description = 對此網站開啟
+    .aria-label = 加強型追蹤保護：對 { $host } 開啟
+protections-panel-etp-toggle-off =
+    .label = 加強型追蹤保護
+    .description = 對此網站關閉
+    .aria-label = 加強型追蹤保護：對 { $host } 關閉
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 網站無法正常運作嗎？
 # The heading/title of the sub-panel view

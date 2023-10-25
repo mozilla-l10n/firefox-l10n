@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = 我們使用來自 { -fakespot-brand-full-n
 shopping-analysis-explainer-grades-intro = 我們會替每筆商品評論標上 A（優良）到 F（不佳）的<strong>評分</strong>。
 shopping-analysis-explainer-adjusted-rating-description = 會依照我們認為可靠的評論，重新計算<strong>調整後評分</strong>。
 shopping-analysis-explainer-learn-more = 了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 如何判斷商品評論品質</a>的更多資訊。
+shopping-analysis-explainer-learn-more2 = 了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-name } 如何判斷商品評論品質</a>的更多資訊。
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = 還沒有這些評論的相關資訊
@@ -201,6 +210,7 @@ shopping-onboarding-dynamic-subtitle = 購物前先看看商品在 <b>{ $current
 shopping-onboarding-dynamic-subtitle-1 = 購物前先看看商品在 <b>{ $currentSite }</b> 的評論有多可靠。「商品評論檢查器」是 { -brand-product-name } 最新推出的實驗性功能並內建於瀏覽器中。也可以用來確認 <b>{ $secondSite }</b>、<b>{ $thirdSite }</b> 當中的商品評論。
 shopping-onboarding-body = 透過 { -fakespot-brand-full-name } 的威力，我們協助您避免帶有偏見與虛偽的評論。我們會隨您在線上購物，持續改進 AI 模型。<a data-l10n-name="learn_more">了解更多資訊</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = 選擇「{ shopping-onboarding-opt-in-button }」，代表您同意 { -fakespot-brand-full-name } 的<a data-l10n-name="privacy_policy">隱私權保護政策</a>與<a data-l10n-name="terms_of_use">使用條款</a>。
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = 選擇「{ shopping-onboarding-opt-in-button }」，代表您同意 { -fakespot-brand-name } 的<a data-l10n-name="privacy_policy">隱私權保護政策</a>與<a data-l10n-name="terms_of_use">使用條款</a>。
 shopping-onboarding-opt-in-button = 好，試用看看
 shopping-onboarding-not-now-button = 現在不要
 shopping-onboarding-dialog-close-button =
