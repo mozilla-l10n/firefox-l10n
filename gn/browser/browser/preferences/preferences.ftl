@@ -67,7 +67,7 @@ close-button =
 
 ## Browser Restart Dialog
 
-feature-enable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emyandy hag̃ua koichagua.
+feature-enable-requires-restart = { -brand-short-name } toñepyrũjey emyandy hag̃ua koichagua.
 feature-disable-requires-restart = { -brand-short-name } oñemoñepyrũjeyva’erã emboguete hag̃ua koichagua.
 should-restart-title = Ñepyrũjey { -brand-short-name }
 should-restart-ok = Emoñepyrũjey { -brand-short-name } ko’ág̃a
@@ -810,7 +810,7 @@ sync-verification-sent-title = Jehechajey ñemondo
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Joajuha jehechajey rehegua oñemondo { $email }-pe.
 sync-verification-not-sent-title = Ndaikatúi oñemondo jehechajey
-sync-verification-not-sent-body = Ndaikatúi roguerahauka ñanduti veve jehechajeyrã ko’ag̃a, ikatu eha’ã ag̃ave.
+sync-verification-not-sent-body = Ndaikatúi roguerahauka ñanduti veve jehechajeyrã ko’ág̃a, ikatu eha’ã ag̃ave.
 
 ## Privacy Section
 
@@ -1010,9 +1010,6 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Jeku’e pya’e
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = Ojeheka ramóva
-    .accesskey = R
 addressbar-suggestions-settings = Jerohoryvéva jehekaha mongu’eha je’epyre moambue
 addressbar-quickactions-learn-more = Kuaave
 
