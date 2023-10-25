@@ -226,6 +226,21 @@ pdfjs-find-match-diacritics-checkbox-label = Diakritikus jelek
 pdfjs-find-entire-word-checkbox-label = Teljes szavak
 pdfjs-find-reached-top = A dokumentum eleje elérve, folytatás a végétől
 pdfjs-find-reached-bottom = A dokumentum vége elérve, folytatás az elejétől
+# Variables:
+#   $current (Number) - the index of the currently active find result
+#   $total (Number) - the total number of matches in the document
+pdfjs-find-match-count =
+    { $total ->
+        [one] { $current } / { $total } találat
+       *[other] { $current } / { $total } találat
+    }
+# Variables:
+#   $limit (Number) - the maximum number of matches
+pdfjs-find-match-count-limit =
+    { $limit ->
+        [one] Több mint { $limit } találat
+       *[other] Több mint { $limit } találat
+    }
 pdfjs-find-not-found = A kifejezés nem található
 
 ## Predefined zoom values
