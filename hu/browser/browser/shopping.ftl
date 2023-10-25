@@ -124,6 +124,7 @@ shopping-analysis-explainer-intro2 =
 shopping-analysis-explainer-grades-intro = Minden termékértékeléshez egy <strong>betűvel megadott osztályzatot</strong> rendelünk, A-tól F-ig.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>módosított értékelés</strong> az általunk megbízhatónak gondolt értékelések alapján van számítva.
 shopping-analysis-explainer-learn-more = Tudjon meg többet arról, <a data-l10n-name="review-quality-url">hogy a { -fakespot-brand-full-name } hogyan határozza meg az értékelések minőségét</a>.
+shopping-analysis-explainer-learn-more2 = Tudjon meg többet arról, <a data-l10n-name="review-quality-url">hogy a { -fakespot-brand-name } hogyan határozza meg az értékelések minőségét</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -144,6 +145,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ezekről az értékelésekről még nincs információ
@@ -203,6 +212,7 @@ shopping-onboarding-dynamic-subtitle = Vásárlás előtt nézze meg, hogy menny
 shopping-onboarding-dynamic-subtitle-1 = Vásárlás előtt nézze meg, hogy mennyire megbízhatók a termékértékelések a(z) <b>{ $currentSite }</b> oldalon. Az értékelés-ellenőrző, a { -brand-product-name } kísérleti funkciója, közvetlenül a böngészőbe van építve. Működik a következő oldalakon is: <b>{ $secondSite }</b> és <b>{ $thirdSite }</b>.
 shopping-onboarding-body = A { -fakespot-brand-full-name } erejét használva segítünk elkerülni az elfogult és a nem hiteles értékeléseket. Az MI modellünket folyamatosan fejlesztjük, hogy megvédjük Önt vásárlás közben. <a data-l10n-name="learn_more">További tudnivalók</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-full-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Az „{ shopping-onboarding-opt-in-button }” kiválasztásával elfogadja a { -fakespot-brand-name } <a data-l10n-name="privacy_policy">adatvédelmi irányelveit</a> és <a data-l10n-name="terms_of_use">felhasználási feltételeit.</a>
 shopping-onboarding-opt-in-button = Igen, kipróbálom
 shopping-onboarding-not-now-button = Most nem
 shopping-onboarding-dialog-close-button =

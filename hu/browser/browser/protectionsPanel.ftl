@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Fokozott követés elleni védelem
     .description = Kikapcsolva ezen az oldalon
     .aria-label = A védelmek bekapcsolása ennél: { $host }
+protections-panel-etp-toggle-on =
+    .label = Fokozott követés elleni védelem
+    .description = Bekapcsolva ezen az oldalon
+    .aria-label = Fokozott követés elleni védelem: Bekapcsolva ennél: { $host }
+protections-panel-etp-toggle-off =
+    .label = Fokozott követés elleni védelem
+    .description = Kikapcsolva ezen az oldalon
+    .aria-label = Fokozott követés elleni védelem: Kikapcsolva ennél: { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Nem működik az oldal?
 # The heading/title of the sub-panel view
