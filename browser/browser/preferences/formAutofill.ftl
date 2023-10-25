@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Shranjeni naslovi
 autofill-manage-addresses-list-header = Naslovi
-
 autofill-manage-credit-cards-title = Shranjene kreditne kartice
 autofill-manage-credit-cards-list-header = Kreditne kartice
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Odstrani
 autofill-manage-add-button = Dodaj …
 autofill-manage-edit-button = Uredi …
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Shranim naslov?
+address-capture-save-doorhanger-description = Shranite podatke v { -brand-short-name } za hitrejše izpolnjevanje obrazcev.
+address-capture-update-doorhanger-header = Posodobim naslov?
+address-capture-edit-doorhanger-header = Uredi naslov
+address-capture-save-button =
+    .label = Shrani
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Ne zdaj
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Prekliči
+    .accessKey = k
+address-capture-update-button =
+    .label = Posodobi
+    .accessKey = P
+address-capture-manage-address-button =
+    .label = Nastavitve naslovov
+address-capture-learn-more-button =
+    .label = Več o tem
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Dodaj nov naslov
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Uredi naslov
-
+autofill-address-name = Ime
 autofill-address-given-name = Ime
 autofill-address-additional-name = Srednje ime
 autofill-address-family-name = Priimek
 autofill-address-organization = Organizacija
+autofill-address-street-address = Ulica
 autofill-address-street = Ulica
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Država ali območje
+autofill-address-country-only = Država
 autofill-address-tel = Telefon
 autofill-address-email = E-pošta
-
 autofill-cancel-button = Prekliči
 autofill-save-button = Shrani
 autofill-country-warning-message = Samodejno izpolnjevanje obrazcev je trenutno na voljo samo v nekaterih državah.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Dodaj novo kreditno kartico
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Uredi kreditno kartico
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } poskuša prikazati podatke o kreditni kartici. Spodaj potrdite dostop do tega računa Windows.
        *[other] { -brand-short-name } poskuša prikazati podatke o kreditni kartici.
     }
-
 autofill-card-number = Številka kartice
 autofill-card-invalid-number = Vnesite veljavno številko kartice
 autofill-card-name-on-card = Ime na kartici
