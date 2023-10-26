@@ -884,7 +884,7 @@ tabs-toolbar-list-all-tabs =
 
 # <img data-l10n-name="icon"/> will be replaced by the application menu icon
 restore-session-startup-suggestion-message = <strong>გაიხსნას წინა ჩანართები?</strong> თუ გსურთ, { -brand-short-name } აღდგეს წინა მდგომარეობით, გახსენით მენიუ <img data-l10n-name="icon"/> და მონახეთ ისტორია.
-restore-session-startup-suggestion-button = მიჩვენე, როგორ
+restore-session-startup-suggestion-button = მაჩვენეთ, როგორ
 
 ## Mozilla data reporting notification (Telemetry, Firefox Health Report, etc)
 
