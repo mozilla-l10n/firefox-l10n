@@ -78,7 +78,7 @@ abuse-report-messagebar-action-cancel = 取消
 
 abuse-report-damage-reason-v2 = 它损坏了我的计算机或泄露我的数据
 abuse-report-damage-example = 例如：注入恶意软件或窃取数据
-abuse-report-spam-reason-v2 = 它包含垃圾邮件或插入不受欢迎的广告
+abuse-report-spam-reason-v2 = 它包含垃圾信息或插入不受欢迎的广告
 abuse-report-spam-example = 例如：在网页中插入广告
 abuse-report-settings-reason-v2 = 它未预先询问或通知我，就更改了我的搜索引擎、主页、新标签页
 abuse-report-settings-suggestions = 举报扩展前，您可以尝试修改浏览器设置：
