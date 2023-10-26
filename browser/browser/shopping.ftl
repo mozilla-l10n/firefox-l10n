@@ -124,6 +124,7 @@ shopping-analysis-explainer-intro2 =
 shopping-analysis-explainer-grades-intro = Rydym yn gosod <strong>gradd llythyren</strong> o A i F i adolygiad pob cynnyrch.
 shopping-analysis-explainer-adjusted-rating-description = Mae'r <strong>sgôr wedi'i haddasu</strong> yn seiliedig ar ddim ond adolygiadau rydym yn credu eu bod yn ddibynadwy.
 shopping-analysis-explainer-learn-more = Dysgwch ragor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-full-name } yn pennu ansawdd adolygiadau</a>.
+shopping-analysis-explainer-learn-more2 = Darllen rhagor am <a data-l10n-name="review-quality-url">sut mae { -fakespot-brand-name } yn pennu ansawdd adolygu</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -144,6 +145,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Dim gwybodaeth am yr adolygiadau hyn eto
@@ -203,6 +212,7 @@ shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygi
 shopping-onboarding-dynamic-subtitle-1 = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae gwirydd adolygiadau, nodwedd arbrofol o { -brand-product-name }, wedi'i gynnwys yn y porwr. Mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> { -fakespot-brand-full-name } a <a data-l10n-name="terms_of_use">amodau defnyddio.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Drwy ddewis “ { shopping-onboarding-opt-in-button }" rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> a <a data-l10n-name="terms_of_use">thelerau defnydd { -fakespot-brand-name }.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
 shopping-onboarding-not-now-button = Nid nawr
 shopping-onboarding-dialog-close-button =

@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Diogelwch Uwch Rhag Tracio
     .description = Oddi ar y wefan hon
     .aria-label = Diogelu diogeledd { $host }
+protections-panel-etp-toggle-on =
+    .label = Diogelwch Uwch Rhag Tracio
+    .description = Ar y wefan hon
+    .aria-label = Diogelwch Uwch Rhag Tracio: Ymlaen ar gyfer { $host }
+protections-panel-etp-toggle-off =
+    .label = Diogelwch Uwch Rhag Tracio
+    .description = I ffwrdd ar gyfer y wefan hon
+    .aria-label = Diogelwch Uwch Rhag Tracio: I ffwrdd ar gyfer { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Gwefan ddim yn gweithio?
 # The heading/title of the sub-panel view
