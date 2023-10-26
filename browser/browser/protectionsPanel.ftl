@@ -145,6 +145,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Désactiver le 
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activer le bloqueur de bannières de cookies pour ce site ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } effacera les cookies de ce site et actualisera la page. La suppression de tous les cookies peut vous déconnecter ou vider les paniers d’achats.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } peut essayer de refuser automatiquement les demandes de dépôt de cookies sur les sites compatibles.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Activez-le, et { -brand-short-name } tentera de refuser automatiquement les bannières de cookies sur ce site.
 protections-panel-cookie-banner-view-cancel = Annuler
 protections-panel-cookie-banner-view-turn-off = Désactiver
 protections-panel-cookie-banner-view-turn-on = Activer
