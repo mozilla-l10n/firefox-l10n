@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Adresses enregistrées
 autofill-manage-addresses-list-header = Adresses
-
 autofill-manage-credit-cards-title = Cartes bancaires enregistrées
 autofill-manage-credit-cards-list-header = Cartes bancaires
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Supprimer
 autofill-manage-add-button = Ajouter…
 autofill-manage-edit-button = Modifier…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Enregistrer l’adresse ?
+address-capture-save-doorhanger-description = Enregistrez ces informations dans { -brand-short-name } pour pouvoir remplir les formulaires rapidement.
+address-capture-update-doorhanger-header = Mettre à jour l’adresse ?
+address-capture-edit-doorhanger-header = Modifier l’adresse
+address-capture-save-button =
+    .label = Enregistrer
+    .accessKey = E
+address-capture-not-now-button =
+    .label = Plus tard
+    .accessKey = P
+address-capture-cancel-button =
+    .label = Annuler
+    .accessKey = A
+address-capture-update-button =
+    .label = Mettre à jour
+    .accessKey = M
+address-capture-manage-address-button =
+    .label = Paramètres des adresses
+address-capture-learn-more-button =
+    .label = En savoir plus
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Ajouter une nouvelle adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modifier l’adresse
-
+autofill-address-name = Nom
 autofill-address-given-name = Prénom
 autofill-address-additional-name = Deuxième prénom
 autofill-address-family-name = Nom
 autofill-address-organization = Société
+autofill-address-street-address = Adresse postale
 autofill-address-street = Adresse postale
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Pays ou région
+autofill-address-country-only = Pays
 autofill-address-tel = Téléphone
 autofill-address-email = Adresse e-mail
-
 autofill-cancel-button = Annuler
 autofill-save-button = Enregistrer
 autofill-country-warning-message = Pour le moment, le remplissage automatique des formulaires est uniquement disponible dans certains pays.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ajouter une nouvelle carte bancaire
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modifier la carte bancaire
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } tente d’afficher les informations liées à une carte bancaire. Veuillez confirmer l’accès au compte utilisateur Windows ci-dessous.
        *[other] { -brand-short-name } tente d’afficher les informations liées à une carte bancaire.
     }
-
 autofill-card-number = Numéro de carte
 autofill-card-invalid-number = Veuillez saisir un numéro de carte valide
 autofill-card-name-on-card = Titulaire
