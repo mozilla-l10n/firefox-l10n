@@ -15,6 +15,9 @@ experimental-features-media-jxl-description = මෙම විශේෂාංග
 # the internal default home page.
 experimental-features-abouthome-startup-cache =
     .label = about:home ආරම්භක නිහිතය
+# JS JIT Warp project
+experimental-features-js-warp =
+    .label = JavaScript JIT: Warp
 # Search during IME
 experimental-features-ime-search =
     .label = ලිපින තීරුව: IME සංයෝජනය අතරතුර ප්‍රතිඵල පෙන්වන්න
