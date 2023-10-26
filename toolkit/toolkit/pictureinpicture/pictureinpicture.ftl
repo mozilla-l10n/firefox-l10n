@@ -48,7 +48,7 @@ pictureinpicture-exit-fullscreen-btn2 =
 
 # Keyboard shortcut to toggle fullscreen mode when Picture-in-Picture is open.
 pictureinpicture-toggle-fullscreen-shortcut =
-    .key = K
+    .key = F
 
 ## Note that this uses .tooltip rather than the standard '.title'
 ## or '.tooltiptext' -  but it has the same effect. Code in the
