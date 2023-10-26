@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = Nous utilisons la technologie d’intellige
 shopping-analysis-explainer-grades-intro = Nous attribuons une <strong>notation alphabétique</strong> aux avis sur chaque produit, allant de A à F.
 shopping-analysis-explainer-adjusted-rating-description = L’<strong>évaluation corrigée</strong> se fonde uniquement sur les avis que nous considérons fiables.
 shopping-analysis-explainer-learn-more = En savoir plus sur <a data-l10n-name="review-quality-url">la façon dont { -fakespot-brand-full-name } détermine la qualité d’un avis</a>.
+shopping-analysis-explainer-learn-more2 = En savoir plus sur <a data-l10n-name="review-quality-url">la façon dont { -fakespot-brand-name } détermine la qualité d’un avis</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Aucune information sur ces avis pour le moment
