@@ -124,6 +124,7 @@ shopping-analysis-explainer-intro2 =
 shopping-analysis-explainer-grades-intro = Asignamos a las reseñas de cada producto una <strong>calificación con letras</strong> de la A a la F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>calificación ajustada</strong> se basa únicamente en reseñas que consideramos confiables.
 shopping-analysis-explainer-learn-more = Obtén más información acerca de <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-full-name } determina la calidad de las reseñas</a>.
+shopping-analysis-explainer-learn-more2 = Obtén más información acerca de <a data-l10n-name="review-quality-url">cómo { -fakespot-brand-name } determina la calidad de las reseñas</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -144,6 +145,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Aún no hay información sobre estas reseñas
@@ -203,6 +212,7 @@ shopping-onboarding-dynamic-subtitle = Revisa qué tan confiables son las reseñ
 shopping-onboarding-dynamic-subtitle-1 = Revisa qué tan confiables son las reseñas de productos en <b>{ $currentSite }</b> antes de comprar. El verificador de reseñas, una función experimental de { -brand-product-name }, está integrado en { -brand-product-name } y también funciona en <b>{ $secondSite }</b> y en <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Usando el poder de { -fakespot-brand-full-name }, te ayudamos a evitar reseñas sesgadas y no auténticas. Nuestro modelo de IA siempre está mejorando para protegerte mientras compras. <a data-l10n-name="learn_more">Aprender más</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Al seleccionar "{ shopping-onboarding-opt-in-button }", aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -fakespot-brand-full-name } y los <a data-l10n-name="terms_of_use">términos de uso</a>.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Al seleccionar "{ shopping-onboarding-opt-in-button }", aceptas la <a data-l10n-name="privacy_policy">política de privacidad</a> de { -fakespot-brand-name } y los <a data-l10n-name="terms_of_use">términos de uso</a>.
 shopping-onboarding-opt-in-button = Si, probarlo
 shopping-onboarding-not-now-button = Ahora no
 shopping-onboarding-dialog-close-button =
