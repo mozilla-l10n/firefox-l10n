@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Aukin rakningarvörn
     .description = Óvirk á þessu vefsvæði
     .aria-label = Virkja varnir fyrir { $host }
+protections-panel-etp-toggle-on =
+    .label = Aukin rakningarvörn
+    .description = Virk fyrir þetta vefsvæði
+    .aria-label = Aukin rakningarvörn: Virk fyrir { $host }
+protections-panel-etp-toggle-off =
+    .label = Aukin rakningarvörn
+    .description = Óvirk fyrir þetta vefsvæði
+    .aria-label = Aukin rakningarvörn: Óvirk fyrir { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Vefsvæði virkar ekki?
 # The heading/title of the sub-panel view
