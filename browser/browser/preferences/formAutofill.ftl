@@ -18,6 +18,7 @@ autofill-manage-edit-button = Rediger…
 ## The address capture doorhanger
 
 address-capture-save-doorhanger-header = Gem adresse?
+address-capture-save-doorhanger-description = Gem oplysninger i { -brand-short-name } så du hurtigt kan udfylde formularer.
 address-capture-update-doorhanger-header = Opdater adresse?
 address-capture-edit-doorhanger-header = Rediger adresse
 address-capture-save-button =
@@ -32,6 +33,8 @@ address-capture-cancel-button =
 address-capture-update-button =
     .label = Opdater
     .accessKey = O
+address-capture-manage-address-button =
+    .label = Adresse-indstillinger
 address-capture-learn-more-button =
     .label = Læs mere
 # The dialog title for creating addresses in browser preferences.
@@ -101,6 +104,7 @@ autofill-address-eircode = Eircode
 ##
 
 autofill-address-country = Land eller region
+autofill-address-country-only = Land
 autofill-address-tel = Telefonnummer
 autofill-address-email = Mailadresse
 autofill-cancel-button = Fortryd

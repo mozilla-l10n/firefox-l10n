@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Udvidet beskyttelse mod sporing
     .description = Fra for dette websted
     .aria-label = Aktiver beskyttelse for { $host }
+protections-panel-etp-toggle-on =
+    .label = Udvidet beskyttelse mod sporing
+    .description = Slået til for dette websted
+    .aria-label = Udvidet beskyttelse mod sporing: Slået til for { $host }
+protections-panel-etp-toggle-off =
+    .label = Udvidet beskyttelse mod sporing
+    .description = Slået fra for dette websted
+    .aria-label = Udvidet beskyttelse mod sporing: Slået fra for { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Virker webstedet ikke?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reduktion af cookie-bannere
+protections-panel-cookie-banner-blocker-header = Blokering af cookie-bannere
 protections-panel-cookie-banner-handling-enabled = Slået til for dette websted
 protections-panel-cookie-banner-handling-disabled = Slået fra for dette websted
 protections-panel-cookie-banner-handling-undetected = Webstedet understøttes ikke i øjeblikket
@@ -128,8 +137,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Slå reduktion af cookie-bannere fra for { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Slå reduktion af cookie-bannere til for dette websted?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blokering af cookie-bannere
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Slå blokering af cookie-bannere fra for { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Slå blokering af cookie-bannere til for dette websted?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } vil rydde dette websteds cookies og indlæse siden igen. Rydning af alle cookies kan logge dig ud eller tømme indkøbskurve.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } forsøger automatisk at afvise alle cookie-anmodninger på understøttede websteder.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Slå funktionen til - og { -brand-short-name } vil forsøge at afvise cookie-bannere automatisk på dette websted.
 protections-panel-cookie-banner-view-cancel = Annuller
 protections-panel-cookie-banner-view-turn-off = Slå fra
 protections-panel-cookie-banner-view-turn-on = Slå til
