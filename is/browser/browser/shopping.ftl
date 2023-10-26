@@ -124,6 +124,7 @@ shopping-analysis-explainer-intro2 =
 shopping-analysis-explainer-grades-intro = Við gefum umsögnum hverrar vöru <strong>einkunnir í bókstöfum</strong> frá A til F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Aðlöguð einkunn</strong> er eingöngu byggð á umsögnum sem við teljum vera áreiðanlegar.
 shopping-analysis-explainer-learn-more = Frekari upplýsingar um <a data-l10n-name="review-quality-url">hvernig { -fakespot-brand-full-name } ákvarðar gæði umsagna</a>.
+shopping-analysis-explainer-learn-more2 = Frekari upplýsingar um <a data-l10n-name="review-quality-url">hvernig { -fakespot-brand-name } ákvarðar gæði umsagna</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -211,6 +212,7 @@ shopping-onboarding-dynamic-subtitle = Sjáðu hversu áreiðanlegar vöruumsagn
 shopping-onboarding-dynamic-subtitle-1 = Sjáðu hversu áreiðanlegar vöruumsagnir eru á <b>{ $currentSite }</b> áður en þú verslar. Umsagnaskoðun, tilraunaeiginleiki frá { -brand-product-name }, er innbyggður beint í vafrann. Þetta virkar á <b>{ $secondSite }</b> og einnig <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Með hjálp { -fakespot-brand-full-name } frá Mozilla, gerum við þér kleift að forðast hlutdrægar og ósannar umsagnir. Gervigreindarlíkanið okkar er alltaf að batna til að vernda þig sem best þegar þú verslar. <a data-l10n-name="learn_more">Frekari upplýsingar</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Með því að velja „{ shopping-onboarding-opt-in-button }“ samþykkir þú <a data-l10n-name="privacy_policy">persónuverndarstefnu</a> og <a data-l10n-name="terms_of_use">notkunarskilmála</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Já, prófum það
 shopping-onboarding-not-now-button = Ekki núna
 shopping-onboarding-dialog-close-button =
