@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Protección de seguimiento mejorada
     .description = Desactivada para este sitio
     .aria-label = Activar protecciones para { $host }
+protections-panel-etp-toggle-on =
+    .label = Protección de seguimiento mejorada
+    .description = Activada para este sitio
+    .aria-label = Protección de seguimiento mejorada: Activada para { $host }
+protections-panel-etp-toggle-off =
+    .label = Protección de seguimiento mejorada
+    .description = Desactivada para este sitio
+    .aria-label = Protección de seguimiento mejorada: Desactivada para { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿El sitio no funciona?
 # The heading/title of the sub-panel view

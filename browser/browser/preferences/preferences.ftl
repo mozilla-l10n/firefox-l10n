@@ -1010,9 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acciones rápidas
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = Búsquedas recientes
-    .accesskey = B
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostrar guardados recientes
+    .accesskey = r
 addressbar-suggestions-settings = Cambia las preferencias para las sugerencias de los motores de búsqueda
 addressbar-quickactions-learn-more = Aprender más
 
