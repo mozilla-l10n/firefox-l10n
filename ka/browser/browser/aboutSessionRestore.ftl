@@ -6,7 +6,7 @@ restore-page-tab-title = სეანსის აღდგენა
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = ვწუხვართ. თქვენი გვერდების დაბრუნება, ვერ მოხერხდა.
-restore-page-problem-desc = ბოლო სეანსის აღდგენისას მოხდა შეცდომა. დააჭირეთ აღდგენას, ხელახლა საცდელად.
+restore-page-problem-desc = ბოლო სეანსის აღდგენისას მოხდა შეცდომა. დააჭირეთ აღდგენას ხელახლა საცდელად.
 restore-page-try-this = ისევ ვერ მოხერხდა სეანსის აღდგენა? შესაძლოა, რომელიმე ჩანართის ბრალი იყოს. გადახედეთ აღსადგენ ჩანართებს, მოხსენით მონიშვნა იმათ, რომელიც არ გჭირდებათ და შემდეგ დააჭირეთ აღდგენას.
 restore-page-hide-tabs = ძველი ჩანართების დამალვა
 restore-page-show-tabs = ძველი ჩანართების ნახვა
