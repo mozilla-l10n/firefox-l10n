@@ -219,6 +219,9 @@ cfr-cbh-confirm-button = Rifiuta banner per i cookie
 cfr-cbh-dismiss-button = Non adesso
     .accesskey = N
 
+cookie-banner-blocker-cfr-header = { -brand-short-name } ha appena bloccato dei cookie per te
+cookie-banner-blocker-cfr-body = Rifiutiamo automaticamente diversi pop-up per i cookie per rendere la vita più difficile ai siti che cercano di tracciarti.
+
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
 july-jam-headline = Sempre dalla tua parte
