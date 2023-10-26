@@ -40,7 +40,9 @@ firefoxview-tabpickup-synctabs-learn-how = කෙසේදැයි දැනග
 firefoxview-tabpickup-synctabs-primarybutton = විවෘත පටිති සමමුහූර්තය
 firefoxview-syncedtabs-synctabs-header = සමමුහූර්ත සැකසුම් සකසන්න
 firefoxview-syncedtabs-synctabs-description = වෙනත් උපාංග වලින් පටිති බැලීමට, ඔබගේ විවෘත පටිති සමමුහූර්ත කළ යුතුය.
+firefoxview-syncedtabs-synctabs-checkbox = විවෘත පටිති සමමුහූර්තයට ඉඩදෙන්න
 firefoxview-syncedtabs-loading-header = සමමුහූර්ත වෙමින්
+firefoxview-syncedtabs-loading-description = අහවර වූ විට, ඔබ වෙනත් උපාංගවල විවෘත කර තිබෙන සියලුම පටිති දිස්වනු ඇත. මොහොතකින් පරීක්‍ෂා කරන්න.
 firefoxview-tabpickup-fxa-admin-disabled-header = ඔබගේ සංවිධානය සමමුහූර්තය අබල කර ඇත
 firefoxview-tabpickup-fxa-admin-disabled-description = ඔබගේ පරිපාලකයා සමමුහූර්තය අබල කර තිබෙන නිසා { -brand-short-name } මගින් උපාංග අතර පටිති සමමුහූර්ත කිරීමට නොහැකිය.
 firefoxview-tabpickup-network-offline-header = අන්තර්ජාල සම්බන්ධතාවය පරීක්‍ෂා කරන්න
@@ -52,6 +54,7 @@ firefoxview-tabpickup-sync-error-primarybutton = නැවත
 firefoxview-tabpickup-sync-disconnected-header = ඉදිරියට යාමට සමමුහූර්තය සක්‍රිය කරන්න
 firefoxview-tabpickup-sync-disconnected-description = ඔබගේ පටිති ලබා ගැනීමට, { -brand-short-name } සමමුහූර්ත පහසුකමට ඉඩ දිය යුතුය.
 firefoxview-tabpickup-sync-disconnected-primarybutton = සැකසුම් තුළ සමමුහූර්තය සක්‍රිය කරන්න
+firefoxview-tabpickup-password-locked-header = පටිති දැකීමට ඔබගේ ප්‍රාථමික මුරපදය යොදන්න
 firefoxview-tabpickup-password-locked-link = තව දැනගන්න
 firefoxview-tabpickup-password-locked-primarybutton = ප්‍රාථමික මුරපදය යොදන්න
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">තව දැනගන්න</a>
