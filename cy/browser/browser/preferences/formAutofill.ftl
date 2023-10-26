@@ -7,23 +7,24 @@
 
 autofill-manage-addresses-title = Cyfeiriadau wedi eu Cadw
 autofill-manage-addresses-list-header = Cyfeiriadau
-
 autofill-manage-credit-cards-title = Cardiau Credyd wedi eu Cadw
 autofill-manage-credit-cards-list-header = Cardiau Credyd
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Tynnu
 autofill-manage-add-button = Ychwanegu…
 autofill-manage-edit-button = Golygu…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Cadw cyfeiriad?
+address-capture-save-doorhanger-description = Cadw manylion i { -brand-short-name } er mwyn i chi allu llenwi ffurflenni'n gyflym.
+address-capture-update-doorhanger-header = Diweddaru'r cyfeiriad?
+address-capture-edit-doorhanger-header = Golygu'r cyfeiriad
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Ychwanegu Cyfeiriad Newydd
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Golygu Cyfeiriad
-
 autofill-address-given-name = Enw Cyntaf
 autofill-address-additional-name = Enw Canol
 autofill-address-family-name = Enw Olaf
@@ -81,19 +82,19 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Gwlad neu Ranbarth
 autofill-address-tel = Ffôn
 autofill-address-email = E-bost
-
 autofill-cancel-button = Diddymu
 autofill-save-button = Cadw
 autofill-country-warning-message = Dim ond ar gyfer rhai gwledydd y mae Awtolanw Ffurflenni ar gael ar hyn o bryd.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Ychwanegu Cerdyn Credyd Newydd
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Golygu Cerdyn Credyd
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +103,6 @@ autofill-edit-card-password-prompt =
         [windows] Mae { -brand-short-name } yn ceisio dangos manylion cerdyn credyd. Cadarnhewch fynediad i'r cyfrif Windows hwn isod.
        *[other] Mae { -brand-short-name } yn ceisio dangos manylion cerdyn credyd.
     }
-
 autofill-card-number = Rhif y Cerdyn
 autofill-card-invalid-number = Rhowch rif cerdyn dilys
 autofill-card-name-on-card = Enw ar y Cerdyn
