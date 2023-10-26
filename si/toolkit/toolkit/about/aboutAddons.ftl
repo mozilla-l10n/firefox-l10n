@@ -207,6 +207,11 @@ shortcuts-input =
     .placeholder = කෙටිමඟක් ලියන්න
 shortcuts-browserAction2 = මෙවලම් තීරුව බොත්තම සක්‍රිය කරන්න
 shortcuts-pageAction = පිටු ක්‍රියාමාර්ග සක්‍රිය කරන්න
+shortcuts-sidebarAction = පැති තීරුව
+shortcuts-modifier-mac = Ctrl, Alt, හෝ ⌘ ඇතුළත් කරන්න
+shortcuts-modifier-other = Ctrl හෝ Alt ඇතුළත් කරන්න
+shortcuts-invalid = සංයෝජනය වලංගු නොවේ
+shortcuts-letter = අකුරක් ලියන්න
 shortcuts-system = { -brand-short-name } කෙටිමඟක් අභිබවීමට නොහැකිය
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = අනුපිටපත් කෙටිමඟකි
