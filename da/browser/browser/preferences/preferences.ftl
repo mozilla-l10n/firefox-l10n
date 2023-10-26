@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Fortæl websteder, at de ikke skal sælge eller dele mine data
     .accesskey = s
+non-technical-privacy-header = Privatlivsindstillinger for websted
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reduktion af cookie-bannere
 cookie-banner-handling-description = { -brand-short-name } forsøger automatisk at afvise cookie-anmodninger på cookie-bannere på understøttede websteder.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blokering af cookie-bannere
+cookie-banner-blocker-description = Når et websted spørger om det må bruge cookies i privat browsing-tilstand, så afviser { -brand-short-name } anmodningen automatisk for dig. Kun på understøttede websteder.
 cookie-banner-learn-more = Læs mere
 forms-handle-cookie-banners =
     .label = Færre cookie-bannere
+cookie-banner-blocker-checkbox-label =
+    .label = Afvis automatisk cookie-bannere
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Hurtige handlinger
     .accesskey = H
+addressbar-locbar-showrecentsearches-option =
+    .label = Vis seneste søgninger
+    .accesskey = s
 addressbar-suggestions-settings = Skift indstillinger for søgeforslag
 addressbar-quickactions-learn-more = Læs mere
 
