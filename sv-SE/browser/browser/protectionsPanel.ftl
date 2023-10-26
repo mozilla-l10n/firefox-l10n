@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Förbättrat spårningsskydd
     .description = Av för denna webbplatsen
     .aria-label = Aktivera skydd för { $host }
+protections-panel-etp-toggle-on =
+    .label = Förbättrat spårningsskydd
+    .description = På för denna webbplats
+    .aria-label = Förbättrat spårningsskydd: På för { $host }
+protections-panel-etp-toggle-off =
+    .label = Förbättrat spårningsskydd
+    .description = Av för denna webbplats
+    .aria-label = Förbättrat spårningsskydd: Av för { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Fungerar inte webbplatsen?
 # The heading/title of the sub-panel view
