@@ -126,7 +126,7 @@ shopping-analysis-explainer-learn-more2 = Mësoni më tepër mbi <a data-l10n-na
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
-shopping-analysis-explainer-highlights-description = <strong>Gjërat në pah</strong> janë nga shqyrtime { $retailer } brenda 80 ditëve të fundit, të cilat besojmë se janë të vlefshme.
+shopping-analysis-explainer-highlights-description = <strong>Gjërat në pah</strong> janë nga shqyrtime { $retailer } brenda 80 ditëve të fundit, të cilave besojmë se janë të vlefshme.
 shopping-analysis-explainer-review-grading-scale-reliable = Shqyrtime të vlefshme. Besojmë se shqyrtimet janë, me gjasa, prej klientësh të njëmendtë, që lanë shqyrtime të ndershme, të paanshme.
 shopping-analysis-explainer-review-grading-scale-mixed = Besojmë se bëhet fjalë për një përzierje shqyrtimesh të besueshme dhe jo të besueshme.
 shopping-analysis-explainer-review-grading-scale-unreliable = Shqyrtime jo të besueshme. Besojmë se shqyrtimet ka gjasa të jenë të rreme, ose prej shqyrtuesish të anshëm.
@@ -196,6 +196,19 @@ shopping-callout-closed-not-opted-in-subtitle = Provojeni Kontrollorin e Shqyrti
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Provoni udhërrëfyesin tonë të besuar për shqyrtime produktesh
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Shihni sa të besueshme janë shqyrtimet e produkteve në <b>{ $currentSite }</b>, para se të blini. Kontrollori i shqyrtimeve, një veçori eksperimentale nga { -vendor-short-name }, është ngritur drejt e në { -brand-product-name } — dhe funksionon edhe në <b>{ $secondSite }</b> dhe <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Shihni sa të besueshme janë shqyrtimet e produkteve në <b>{ $currentSite }</b>, para se të blini. Kontrollori i Shqyrtimeve, një veçori eksperimentale nga { -brand-product-name }, është ngritur drejt e në shfletues — dhe funksionon edhe në <b>{ $secondSite }</b> dhe <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Duke përdorur fuqinë e { -fakespot-brand-full-name }, ju ndihmojmë të shmangni shqyrtime të njëanshme dhe jo të mirëfillta. Modeli ynë IA përmirësohet përherë, për t’ju mbrojtur teksa blini. <a data-l10n-name="learn_more">Mësoni më tepër</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Po, provojeni
