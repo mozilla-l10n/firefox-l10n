@@ -12,7 +12,7 @@ shopping-beta-marker = Beta
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Review checker - beta
+    .aria-label = Review Checker - beta
 shopping-close-button =
     .title = Close
 # This string is for notifying screen reader users that the
@@ -95,11 +95,11 @@ shopping-show-less-button = Show less
 shopping-settings-label =
     .label = Settings
 shopping-settings-recommendations-toggle =
-    .label = Show ads in review checker
+    .label = Show ads in Review Checker
 shopping-settings-recommendations-learn-more = You’ll see occasional ads for relevant products. All ads must meet our review quality standards. <a data-l10n-name="review-quality-url">Learn more</a>
 shopping-settings-recommendations-learn-more2 = You’ll see occasional ads for relevant products. We only advertise products with reliable reviews. <a data-l10n-name="review-quality-url">Learn more</a>
-shopping-settings-opt-out-button = Turn off review checker
-powered-by-fakespot = Review checker is powered by <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-opt-out-button = Turn off Review Checker
+powered-by-fakespot = Review Checker is powered by <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -134,9 +134,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Unreliable reviews
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Open review checker
+    .tooltiptext = Open Review Checker
 shopping-sidebar-close-button2 =
-    .tooltiptext = Close review checker
+    .tooltiptext = Close Review Checker
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -166,13 +166,13 @@ ad-by-fakespot = Ad by { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Help improve { -brand-product-name }
-shopping-survey-question-one = How satisfied are you with the review checker experience in { -brand-product-name }?
+shopping-survey-question-one = How satisfied are you with the Review Checker experience in { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Very satisfied
 shopping-survey-q1-radio-2-label = Satisfied
 shopping-survey-q1-radio-3-label = Neutral
 shopping-survey-q1-radio-4-label = Dissatisfied
 shopping-survey-q1-radio-5-label = Very dissatisfied
-shopping-survey-question-two = Does the review checker make it easier for you to make purchase decisions?
+shopping-survey-question-two = Does the Review Checker make it easier for you to make purchase decisions?
 shopping-survey-q2-radio-1-label = Yes
 shopping-survey-q2-radio-2-label = No
 shopping-survey-q2-radio-3-label = I don’t know
@@ -187,11 +187,11 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = Get back to <strong>review checker</strong> whenever you see the price tag.
+shopping-callout-closed-opted-in-subtitle = Get back to <strong>Review Checker</strong> whenever you see the price tag.
 shopping-callout-pdp-opted-in-title = Are these reviews reliable? Find out fast.
-shopping-callout-pdp-opted-in-subtitle = Open review checker to see an adjusted rating with unreliable reviews removed. Plus, see highlights from recent authentic reviews.
+shopping-callout-pdp-opted-in-subtitle = Open Review Checker to see an adjusted rating with unreliable reviews removed. Plus, see highlights from recent authentic reviews.
 shopping-callout-closed-not-opted-in-title = One click to reliable reviews
-shopping-callout-closed-not-opted-in-subtitle = Give review checker a try whenever you see the price tag. Get insights from real shoppers quickly — before you buy.
+shopping-callout-closed-not-opted-in-subtitle = Give Review Checker a try whenever you see the price tag. Get insights from real shoppers quickly — before you buy.
 
 ## Onboarding message strings.
 
@@ -207,7 +207,7 @@ shopping-onboarding-dynamic-subtitle = See how reliable product reviews are on <
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = See how reliable product reviews are on <b>{ $currentSite }</b> before you buy. Review checker, an experimental feature from { -brand-product-name }, is built right into the browser. It works on <b>{ $secondSite }</b> and <b>{ $thirdSite }</b>, too.
+shopping-onboarding-dynamic-subtitle-1 = See how reliable product reviews are on <b>{ $currentSite }</b> before you buy. Review Checker, an experimental feature from { -brand-product-name }, is built right into the browser. It works on <b>{ $secondSite }</b> and <b>{ $thirdSite }</b>, too.
 shopping-onboarding-body = Using the power of { -fakespot-brand-full-name }, we help you avoid biased and inauthentic reviews. Our AI model is always improving to protect you as you shop. <a data-l10n-name="learn_more">Learn more</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = By selecting “{ shopping-onboarding-opt-in-button }“ you agree to { -fakespot-brand-full-name }’s <a data-l10n-name="privacy_policy">privacy policy</a> and <a data-l10n-name="terms_of_use">terms of use.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = By selecting “{ shopping-onboarding-opt-in-button }“ you agree to { -fakespot-brand-name }’s <a data-l10n-name="privacy_policy">privacy policy</a> and <a data-l10n-name="terms_of_use">terms of use.</a>
