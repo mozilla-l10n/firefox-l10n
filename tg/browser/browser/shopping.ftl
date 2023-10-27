@@ -166,6 +166,7 @@ ad-by-fakespot = Реклама аз ҷониби «{ -fakespot-brand-name }»
 ## Shopping survey strings.
 
 shopping-survey-headline = Барои такмил додани «{ -brand-product-name }» кумак расонед
+shopping-survey-question-one = Шумо аз таҷрибаи истифодаи абзори тафтиши тақризҳо дар «{ -brand-product-name }» то чӣ андоза қаноатмандед?
 shopping-survey-q1-radio-1-label = Хеле қаноатманд
 shopping-survey-q1-radio-2-label = Қаноатманд
 shopping-survey-q1-radio-3-label = Бетараф
@@ -191,7 +192,8 @@ shopping-callout-closed-not-opted-in-title = Барои гирифтани та�
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Дастури моро дар бораи эътимоднокӣ нисбат ба тақризҳои маҳсулот озмоед
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -fakespot-brand-full-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифода </a> розӣ мешавед.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -fakespot-brand-full-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифода</a> розӣ мешавед.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Бо интихоб кардани «{ shopping-onboarding-opt-in-button }» шумо бо <a data-l10n-name="privacy_policy">сиёсати махфияти</a> «{ -fakespot-brand-name }» ва <a data-l10n-name="terms_of_use">шартҳои истифода</a> розӣ мешавед.
 shopping-onboarding-opt-in-button = Ҳа, озмоед
 shopping-onboarding-not-now-button = Ҳоло не
 shopping-onboarding-dialog-close-button =
