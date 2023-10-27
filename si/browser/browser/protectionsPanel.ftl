@@ -121,6 +121,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = දත්තකඩ පතාක අවකරණය
+protections-panel-cookie-banner-blocker-header = දත්තකඩ පතාක අවහිරය
 protections-panel-cookie-banner-handling-enabled = මෙම අඩවියට සක්‍රියයි
 protections-panel-cookie-banner-handling-disabled = මෙම අඩවියට අක්‍රියයි
 protections-panel-cookie-banner-handling-undetected = අඩවියට සහාය නොදක්වයි
@@ -130,8 +131,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } සඳහා දත්තකඩ පතාක අවකරණය අක්‍රිය කරන්නද?
 protections-panel-cookie-banner-view-turn-on-for-site = මෙම අඩවියට දත්තකඩ පතාක අවකරණය සක්‍රිය කරන්නද?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = දත්තකඩ පතාක අවහිරය
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } සඳහා දත්තකඩ පතාක අවහිරය අක්‍රිය කරන්නද?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = { $host } සඳහා දත්තකඩ පතාක අවහිරය සක්‍රිය කරන්නද?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } මෙම අඩවියේ දත්තකඩ ඉවත් කර පිටුව නැවුම් කරයි. සියළුම දත්තකඩ මැකීමෙන් බඩු කරත්ත හිස් වීමට හෝ ඔබව නික්මවීමට ඉඩ ඇත.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } සහාය දක්වන අඩවිවල තිබෙන සියළුම දත්තකඩ ඉල්ලීම් ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කිරීමට උත්සාහ කරයි.
+protections-panel-cookie-banner-blocker-view-turn-on-description = සක්‍රිය කළහොත් { -brand-short-name } මෙම අඩවියේ දත්තකඩ පතාක ස්වයංක්‍රීයව ඉවතලීමට උත්සාහ කරයි.
 protections-panel-cookie-banner-view-cancel = අවලංගු
 protections-panel-cookie-banner-view-turn-off = අක්‍රිය කරන්න
 protections-panel-cookie-banner-view-turn-on = සක්‍රිය කරන්න
