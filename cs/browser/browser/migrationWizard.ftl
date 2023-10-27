@@ -48,7 +48,13 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } nemá přístup k profilům jiných prohlížečů nainstalovaných na tomto zařízení
-migration-no-permissions-instructions = Pokud chcete pokračovat v importování údajů z jiného prohlížeče, udělte { -brand-short-name(case: "dat") } přístup ke složce jeho profilu.
+migration-no-permissions-instructions =
+    { -brand-short-name.gender ->
+        [masculine] Pokud chcete pokračovat v importování údajů z jiného prohlížeče, udělte { -brand-short-name(case: "dat") } přístup ke složce jeho profilu.
+        [feminine] Pokud chcete pokračovat v importování údajů z jiného prohlížeče, udělte { -brand-short-name(case: "dat") } přístup ke složce jejího profilu.
+        [neuter] Pokud chcete pokračovat v importování údajů z jiného prohlížeče, udělte { -brand-short-name(case: "dat") } přístup ke složce jeho profilu.
+       *[other] Pokud chcete pokračovat v importování údajů z jiného prohlížeče, udělte aplikace { -brand-short-name } přístup ke složce jejího profilu.
+    }
 migration-no-permissions-instructions-step1 = Vyberte „Pokračovat“
 # The second step in getting permissions to read data for the selected
 # browser type.

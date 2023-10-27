@@ -169,8 +169,16 @@ ad-by-fakespot = Reklama od { -fakespot-brand-name(case: "gen") }
 
 ## Shopping survey strings.
 
-shopping-survey-headline = Pomozte nám zlepšit nástroj { -brand-product-name }
-shopping-survey-question-one = Jak jste spokojení s nástrojem kontroly recenzí ve { -brand-product-name(case: "loc") }?
+shopping-survey-headline =
+    { -brand-product-name.case-status ->
+        [with-cases] Pomozte nám zlepšit { -brand-product-name(case: "acc") }
+       *[no-cases] Pomozte nám zlepšit aplikaci { -brand-product-name }
+    }
+shopping-survey-question-one =
+    { -brand-product-name.case-status ->
+        [with-cases] Jak jste spokojení s nástrojem kontroly recenzí ve { -brand-product-name(case: "loc") }?
+       *[no-cases] Jak jste spokojení s nástrojem kontroly recenzí v aplikaci { -brand-product-name }?
+    }
 shopping-survey-q1-radio-1-label = Velmi spokojený
 shopping-survey-q1-radio-2-label = Spokojený
 shopping-survey-q1-radio-3-label = Neutrální

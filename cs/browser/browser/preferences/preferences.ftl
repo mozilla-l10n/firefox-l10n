@@ -160,7 +160,11 @@ startup-restore-windows-and-tabs =
     .label = Otevřít okna a panely z minula
     .accesskey = p
 windows-launch-on-login =
-    .label = Otevřít { -brand-short-name } při každém spuštění počítače
+    .label =
+        { -brand-short-name.case-status ->
+            [with-cases] Otevřít { -brand-short-name(case: "acc") } při každém spuštění počítače
+           *[no-cases] Otevřít aplikaci { -brand-short-name } při každém spuštění počítače
+        }
     .accesskey = O
 windows-launch-on-login-disabled = Tato předvolba byla v systému Windows zakázána. Chcete-li ji změnit, navštivte <a data-l10n-name="startup-link">Spouštěné aplikace</a> v nastavení systému.
 startup-restore-warn-on-quit =
