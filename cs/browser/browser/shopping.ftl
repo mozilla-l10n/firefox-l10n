@@ -122,7 +122,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Jak určujeme kvalitu recenze
-shopping-analysis-explainer-intro2 = Ke kontrole spolehlivosti recenzí produktů používáme technologii AI od { -fakespot-brand-full-name }. To vám pomůže posoudit pouze kvalitu recenzí, nikoli kvalitu produktu.
+shopping-analysis-explainer-intro2 = Ke kontrole spolehlivosti recenzí produktů používáme technologii AI od { -fakespot-brand-full-name(case: "gen") }. To vám pomůže posoudit pouze kvalitu recenzí, nikoli kvalitu produktu.
 shopping-analysis-explainer-grades-intro = Recenzím každého produktu přidělujeme <strong>známku písmenem</strong> od A do F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnocení</strong> je založeno pouze na recenzích, které považujeme za spolehlivé.
 shopping-analysis-explainer-learn-more = Přečtěte si další informace o tom, <a data-l10n-name="review-quality-url">jak { -fakespot-brand-full-name } určuje kvalitu recenze</a>.
@@ -213,16 +213,32 @@ shopping-onboarding-headline = Vyzkoušejte našeho důvěryhodného průvodce r
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -vendor-short-name }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle =
+    { -brand-product-name.case-status ->
+        [with-cases]
+            { -vendor-short-name.case-status ->
+                [with-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od { -vendor-short-name(case: "gen") }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+               *[no-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od organizace { -vendor-short-name }, je zabudována přímo do { -brand-product-name(case: "gen") }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+            }
+       *[no-cases]
+            { -vendor-short-name.case-status ->
+                [with-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od { -vendor-short-name(case: "gen") }, je zabudována přímo do aplikace { -brand-product-name }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+               *[no-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od organizace { -vendor-short-name }, je zabudována přímo do aplikace { -brand-product-name }. - a funguje také na <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+            }
+    }
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na stránkách <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -brand-product-name(case: "gen") }, je zabudována přímo do prohlížeče. Funguje také na stránkách <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle-1 =
+    { -brand-product-name.case-status ->
+        [with-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na stránkách <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce z { -brand-product-name(case: "gen") }, je zabudována přímo do prohlížeče. Funguje také na stránkách <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+       *[no-cases] Před nákupem se podívejte, jak spolehlivé jsou recenze produktů na stránkách <b>{ $currentSite }</b>. Kontrola recenzí, experimentální funkce od aplikace { -brand-product-name }, je zabudována přímo do prohlížeče. Funguje také na stránkách <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>.
+    }
 shopping-onboarding-body = Pomocí funkce { -fakespot-brand-full-name } vám pomůžeme vyhnout se neobjektivním a neautentickým recenzím. Náš model umělé inteligence se neustále zdokonaluje, aby vás při nakupování chránil. <a data-l10n-name="learn_more">Dozvědět se více</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů { -fakespot-brand-full-name(case: "gen") }</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami ochrany osobních údajů { -fakespot-brand-name(case: "gen") }</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami { -fakespot-brand-full-name(case: "gen") } pro ochranu osobních údajů</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Výběrem možnosti “{ shopping-onboarding-opt-in-button }“ souhlasíte se <a data-l10n-name="privacy_policy">zásadami { -fakespot-brand-name(case: "gen") } pro ochranu osobních údajů</a> a <a data-l10n-name="terms_of_use">podmínkami používání.</a>
 shopping-onboarding-opt-in-button = Ano, vyzkoušet
 shopping-onboarding-not-now-button = Teď ne
 shopping-onboarding-dialog-close-button =

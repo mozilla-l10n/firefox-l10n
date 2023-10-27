@@ -1149,7 +1149,11 @@ content-blocking-fpi-incompatibility-warning = Používáte izolaci prvních str
 # There is no need to translate "Resist Fingerprinting (RFP)". This is a
 # feature that can only be enabled via about:config, and it's not exposed to
 # standard users (e.g. via Settings).
-content-blocking-rfp-incompatibility-warning = Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany { -brand-short-name(case: "gen") } před vytvářením otisků prohlížeče . To může způsobit problémy s některými stránkami.
+content-blocking-rfp-incompatibility-warning =
+    { -brand-short-name.case-status ->
+        [with-cases] Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany ve { -brand-short-name(case: "loc") } před vytvářením otisků prohlížeče . To může způsobit problémy s některými stránkami.
+       *[no-cases] Používáte funkci Resist Fingerprinting (RFP), která nahrazuje některá nastavení ochrany v aplikaci { -brand-short-name } před vytvářením otisků prohlížeče . To může způsobit problémy s některými stránkami.
+    }
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

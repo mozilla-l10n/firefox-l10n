@@ -12,10 +12,18 @@ glean-debug-ping-viewer-brand-name = Prohlížeč ladění pingu v nástroji { -
 about-glean-page-title2 = Co je { -glean-brand-name }
 about-glean-header = Co je { -glean-brand-name }
 about-glean-interface-description =
-    <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
-    je knihovna pro shromažďování dat, která se používá v projektech { -vendor-short-name }.
-    Toto rozhraní je navržené tak, aby ho vývojáři a testeři mohli používat na ruční
-    <a data-l10n-name="fog-link">instrumentační testování</a>.
+    { -brand-short-name.case-status ->
+        [with-cases]
+            <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+            je knihovna pro shromažďování dat, která se používá v projektech { -vendor-short-name(case: "gen") }.
+            Toto rozhraní je navržené tak, aby ho vývojáři a testeři mohli používat na ruční
+            <a data-l10n-name="fog-link">instrumentační testování</a>.
+       *[no-cases]
+            <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }</a>
+            je knihovna pro shromažďování dat, která se používá v projektech organizace { -vendor-short-name }.
+            Toto rozhraní je navržené tak, aby ho vývojáři a testeři mohli používat na ruční
+            <a data-l10n-name="fog-link">instrumentační testování</a>.
+    }
 about-glean-upload-enabled = Nahrávání dat je povoleno.
 about-glean-upload-disabled = Nahrávání dat je zakázáno.
 about-glean-upload-enabled-local = Nahrávání dat je povoleno pouze pro odesílání na místní server.
