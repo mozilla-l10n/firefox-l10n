@@ -671,7 +671,7 @@ containers-remove-button =
 ## Firefox account - Signed out. Note that "Sync" and "Firefox account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
-sync-signedout-caption = Egueraha neñanduti nendive
+sync-signedout-caption = Eraha neñanduti nendive
 sync-signedout-description2 = Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe’ẽñemi, moĩmbaha ha ñemoĩporã opaite ne mba’e’okápe.
 sync-signedout-account-signin3 =
     .label = Eike embojuehe hag̃ua…
@@ -810,7 +810,7 @@ sync-verification-sent-title = Jehechajey ñemondo
 #   $email (String): Email address of user's Firefox account.
 sync-verification-sent-body = Joajuha jehechajey rehegua oñemondo { $email }-pe.
 sync-verification-not-sent-title = Ndaikatúi oñemondo jehechajey
-sync-verification-not-sent-body = Ndaikatúi roguerahauka ñanduti veve jehechajeyrã ko’ág̃a, ikatu eha’ã ag̃ave.
+sync-verification-not-sent-body = Ndaikatúi rorahauka ñanduti veve jehechajeyrã ko’ág̃a, ikatu eha’ã ag̃amieve.
 
 ## Privacy Section
 

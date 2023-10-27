@@ -14,4 +14,4 @@ places-bookmarks-restore-filter-name = JSON
 places-bookmarks-restore-format-error = Peteĩchagua marandurenda ipu’aka’ỹva.
 places-bookmarks-restore-parse-error = Ndaikatúi oñemba’apo ñongatuguypyre rehe.
 places-bookmarks-import = Techaukaha marandurenda jegueru
-places-bookmarks-export = Techaukaha marandurenda jeguerahauka
+places-bookmarks-export = Techaukaha marandurenda rerahauka
