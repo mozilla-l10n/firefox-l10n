@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = Për të kontrolluar besueshmërinë e shqy
 shopping-analysis-explainer-grades-intro = I caktojmë çdo shqyrtimi të produktit një <strong>vlerësim me shkronjë</strong> nga A në F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Vlerësimi i rregulluar</strong> bazohet vetëm në shqyrtime që besojmë se janë të besueshme.
 shopping-analysis-explainer-learn-more = Mësoni më tepër mbi <a data-l10n-name="review-quality-url">se si { -fakespot-brand-full-name } përcakton cilësinë e shqyrtimeve</a>.
+shopping-analysis-explainer-learn-more2 = Mësoni më tepër mbi <a data-l10n-name="review-quality-url">se si { -fakespot-brand-name } përcakton cilësinë e shqyrtimeve</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ende pa informacion rreth këtyre shqyrtimeve
@@ -180,10 +189,15 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Kthehuni te <strong>kontrollori i shqyrtimeve</strong>, kurdo që shihni etiketën e çmimeve.
 shopping-callout-pdp-opted-in-title = A janë të besueshme këto shqyrtime? Zbulojeni pa humbur kohë.
+shopping-callout-pdp-opted-in-subtitle = Që të shihni vlerësim të rregulluar, me shqyrtime jo të besueshme të hequra, hapni Kontrollor Shqyrtimesh. Plus, shihni gjëra në pah nga shqyrtime të mirëfillta së fundi.
+shopping-callout-closed-not-opted-in-title = Një klikim larg nga shqyrtime të besueshme
+shopping-callout-closed-not-opted-in-subtitle = Provojeni Kontrollorin e Shqyrtimeve kurdo që shihni një çmim. Merrni shpejt ide nga blerës të njëmendtë — para se të blini.
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Provoni udhërrëfyesin tonë të besuar për shqyrtime produktesh
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Duke përzgjedhur “{ shopping-onboarding-opt-in-button }“ pajtoheni me <a data-l10n-name="privacy_policy">rregulla privatësie</a> dhe <a data-l10n-name="terms_of_use">kushte përdorimi</a> të { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Po, provojeni
 shopping-onboarding-not-now-button = Jo tani
 shopping-onboarding-dialog-close-button =
