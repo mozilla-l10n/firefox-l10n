@@ -308,7 +308,11 @@ device-migration-fxa-spotlight-link = Upozornit mě později
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>Nastavit { -brand-short-name } jako výchozí čtečku souborů PDF?</strong> Pomocí { -brand-short-name(case: "gen") } můžete číst a upravovat soubory PDF uložené v počítači.
+pdf-default-notification-message =
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Nastavit { -brand-short-name(case: "acc") } jako výchozí čtečku souborů PDF?</strong> Pomocí { -brand-short-name(case: "gen") } můžete číst a upravovat soubory PDF uložené v počítači.
+       *[no-cases] <strong>Nastavit aplikaci { -brand-short-name } jako výchozí čtečku souborů PDF?</strong> Pomocí aplikace { -brand-short-name } můžete číst a upravovat soubory PDF uložené v počítači.
+    }
 pdf-default-notification-set-default-button =
     .label = Nastavit jako výchozí
 pdf-default-notification-decline-button =
@@ -316,9 +320,19 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>Spustit { -brand-short-name } po každém restartu počítače?</strong> Nyní můžete nastavit, aby se { -brand-short-name } otevíral automaticky po restartu zařízení.
+launch-on-login-infobar-message =
+    { -brand-short-name.gender ->
+        [masculine] <strong>Spustit { -brand-short-name(case: "acc") } po každém restartu počítače?</strong> Nyní můžete nastavit, aby se { -brand-short-name } otevíral automaticky po restartu zařízení.
+        [feminine] <strong>Spustit { -brand-short-name(case: "acc") } po každém restartu počítače?</strong> Nyní můžete nastavit, aby se { -brand-short-name } otevírala automaticky po restartu zařízení.
+        [neuter] <strong>Spustit { -brand-short-name(case: "acc") } po každém restartu počítače?</strong> Nyní můžete nastavit, aby se { -brand-short-name } otevíralo automaticky po restartu zařízení.
+       *[other] <strong>Spustit aplikaci { -brand-short-name } po každém restartu počítače?</strong> Nyní můžete nastavit, aby se aplikace { -brand-short-name } otevírala automaticky po restartu zařízení.
+    }
 launch-on-login-learnmore = Zjistit více
-launch-on-login-infobar-confirm-button = Ano, otevírat { -brand-short-name }
+launch-on-login-infobar-confirm-button =
+    { -brand-short-name.case-status ->
+        [with-cases] Ano, otevírat { -brand-short-name(case: "acc") }
+       *[no-cases] Ano, otevírat aplikaci { -brand-short-name }
+    }
     .accesskey = A
 launch-on-login-infobar-reject-button = Nyní ne
     .accesskey = N
@@ -326,6 +340,10 @@ launch-on-login-infobar-reject-button = Nyní ne
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
-launch-on-login-infobar-final-message = <strong>Otevřít { -brand-short-name } při každém spuštění počítače?</strong> Chcete-li spravovat předvolby pro spouštění, vyhledejte v nastavení položku "spuštění".
+launch-on-login-infobar-final-message =
+    { -brand-short-name.case-status ->
+        [with-cases] <strong>Otevřít { -brand-short-name(case: "acc") } při každém spuštění počítače?</strong> Chcete-li spravovat předvolby pro spouštění, vyhledejte v nastavení položku "spuštění".
+       *[no-cases] <strong>Otevřít aplikaci { -brand-short-name } při každém spuštění počítače?</strong> Chcete-li spravovat předvolby pro spouštění, vyhledejte v nastavení položku "spuštění".
+    }
 launch-on-login-infobar-final-reject-button = Ne, děkuji
     .accesskey = N
