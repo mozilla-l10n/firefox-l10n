@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Намоиш додани реклама дар абзори тафтиши тақризҳо
 shopping-settings-recommendations-learn-more = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Тамоми реклама бояд ба стандартҳои сифати тақризҳои мо ҷавобгӯ бошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
+shopping-settings-recommendations-learn-more2 = Баъзе вақт шумо рекламаи тасодуфиро барои маҳсулоти дахлдор мебинед. Мо танҳо он маҳсулотеро таблиғ мекунем, ки дорои тақризҳои боэътимод мебошад. <a data-l10n-name="review-quality-url">Маълумоти бештар</a>
 shopping-settings-opt-out-button = Ғайрифаъол кардани абзори тафтиши тақризҳо
 powered-by-fakespot = Абзори тафтиши тақризҳо аз ҷониби «<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>» таҳия карда шудааст
 
@@ -120,7 +121,8 @@ shopping-analysis-explainer-label =
 shopping-analysis-explainer-intro2 = Барои тафтиши эътимоднокии тақризҳои маҳсулот мо аз технологияи зеҳни сунъӣ (AI) тавассути «{ -fakespot-brand-full-name }» истифода мебарем. Ин ба шумо танҳо барои баҳодиҳии сифати тақризҳо кумак мерасонад, сифати маҳсулот тафтиш карда намешавад.
 shopping-analysis-explainer-grades-intro = Мо ба тақризҳои ҳар як маҳсул <strong>баҳои ҳарфиро</strong> аз A то F таъин мекунем.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Баҳодиҳии санҷида дурустшуда</strong> танҳо дар он тақризҳое асос меёбад, ки ба умеди мо боэътимод мебошанд.
-shopping-analysis-explainer-learn-more = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр { -fakespot-brand-full-name } сифати тақризҳоро муайян мекунад</a>.
+shopping-analysis-explainer-learn-more = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр «{ -fakespot-brand-full-name }» сифати тақризҳоро муайян мекунад</a>.
+shopping-analysis-explainer-learn-more2 = Маълумоти бештар гиред, ки <a data-l10n-name="review-quality-url">чӣ тавр «{ -fakespot-brand-name }» сифати тақризҳоро муайян мекунад</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -141,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = То ҳол дар бораи ин тақризҳо ягон маълумот нест
