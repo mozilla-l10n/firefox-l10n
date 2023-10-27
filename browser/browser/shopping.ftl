@@ -117,7 +117,7 @@ shopping-review-reliability-label =
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
-    .label = Ako určujeme kvalitu recenzie
+    .label = Ako určujeme kvalitu recenzií
 shopping-analysis-explainer-intro2 = Na kontrolu spoľahlivosti recenzií produktov používame AI technológiu { -fakespot-brand-full-name }. Táto analýza vám pomôže posúdiť kvalitu recenzie, nie kvalitu produktu.
 shopping-analysis-explainer-grades-intro = Každej recenzii produktu prideľujeme <strong>známku</strong> od A po F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Upravené hodnotenie</strong> je založené iba na recenziách, ktoré považujeme za spoľahlivé.
