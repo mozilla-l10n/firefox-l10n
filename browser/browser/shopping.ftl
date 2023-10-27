@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = Біз өнім пікірлерінің с
 shopping-analysis-explainer-grades-intro = Әрбір өнім пікіріне біз A мен F арасындағы <strong>әріптік баға</strong> береміз.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Түзетілген рейтинг</strong> тек біз сенімді деп есептейтін пікірлерге негізделген.
 shopping-analysis-explainer-learn-more = <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } пікірлер сапасын қалай анықтайтыны</a> туралы көбірек біліңіз.
+shopping-analysis-explainer-learn-more2 = <a data-l10n-name="review-quality-url">{ -fakespot-brand-name } пікірлер сапасын қалай анықтайтыны</a> туралы көбірек біліңіз.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Бұл пікірлер туралы ақпарат әлі жоқ
@@ -201,6 +210,7 @@ shopping-onboarding-dynamic-subtitle = Сатып алғанға дейін <b>{
 shopping-onboarding-dynamic-subtitle-1 = Сатып алғанға дейін <b>{ $currentSite }</b> сайтындағы өнім пікірлері қаншалықты сенімді екенін қараңыз. Пікірлерді тексеру құралын { -brand-product-name } сынамалы түрде ұсынады, ол тура браузер ішінде қолжетімді. Ол <b>{ $secondSite }</b> және <b>{ $thirdSite }</b> сайттарында да істейді.
 shopping-onboarding-body = { -fakespot-brand-full-name } мүмкіндігін пайдалана отырып, біз сізге біржақты және шынайы емес пікірлерден аулақ болуға көмектесеміз. Сатып алу кезінде сізді қорғау үшін біздің AI моделіміз үнемі жетілдіріліп отырады. <a data-l10n-name="learn_more">Көбірек білу</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = "{ shopping-onboarding-opt-in-button }" опциясын таңдау арқылы сіз { -fakespot-brand-full-name } қолданбасының <a data-l10n-name="privacy_policy">жекелік саясаты</a> және <a data-l10n-name="terms_of_use">қолдану шарттарымен</a>  келісесіз.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = "{ shopping-onboarding-opt-in-button }" опциясын таңдау арқылы сіз { -fakespot-brand-name } қолданбасының <a data-l10n-name="privacy_policy">жекелік саясаты</a> және <a data-l10n-name="terms_of_use">қолдану шарттарымен</a>  келісесіз.
 shopping-onboarding-opt-in-button = Иә, қолданып көру
 shopping-onboarding-not-now-button = Қазір емес
 shopping-onboarding-dialog-close-button =

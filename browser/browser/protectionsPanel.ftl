@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Бақылаудан кеңейтілген қорғаныс
     .description = Бұл сайт үшін сөндірулі
     .aria-label = { $host } үшін қорғанысты іске қосу
+protections-panel-etp-toggle-on =
+    .label = Бақылаудан кеңейтілген қорғаныс
+    .description = Бұл сайт үшін іске қосылған
+    .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін іске қосылған
+protections-panel-etp-toggle-off =
+    .label = Бақылаудан кеңейтілген қорғаныс
+    .description = Бұл сайт үшін сөндірілген
+    .aria-label = Бақылаудан кеңейтілген қорғаныс: { $host } үшін сөндірілген
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сайт жұмыс істемей тұр ма?
 # The heading/title of the sub-panel view
