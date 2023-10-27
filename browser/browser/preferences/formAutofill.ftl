@@ -7,23 +7,21 @@
 
 autofill-manage-addresses-title = Lagra adresser
 autofill-manage-addresses-list-header = Adressat
-
 autofill-manage-credit-cards-title = Lagra kredittkort
 autofill-manage-credit-cards-list-header = Kredittkort
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Fjern
 autofill-manage-add-button = Legg til…
 autofill-manage-edit-button = Rediger…
 
-##
+## The address capture doorhanger
 
+address-capture-edit-doorhanger-header = Rediger adresse
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Legg til ny adresse
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Rediger adresse
-
 autofill-address-given-name = Fornamn
 autofill-address-additional-name = Mellomnamn
 autofill-address-family-name = Etternamn
@@ -81,19 +79,19 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Land eller region
 autofill-address-tel = Telefon
 autofill-address-email = E-post
-
 autofill-cancel-button = Avbryt
 autofill-save-button = Lagre
 autofill-country-warning-message = Automatisk utfylling av skjema er for tida berre tilgjengeleg i enkelte land.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Legg til nytt kredittkort
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Rediger kredittkort
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +100,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } prøver å vise kredittkortinformasjon. Stadfest tilgang til denne Windows-kontoen nedanfor.
        *[other] { -brand-short-name } prøver å vise kredittkortinformasjon.
     }
-
 autofill-card-number = Kortnummer
 autofill-card-invalid-number = Skriv inn eit gyldig kortnummer
 autofill-card-name-on-card = Namn på kort
