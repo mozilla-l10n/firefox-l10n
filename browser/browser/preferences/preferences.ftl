@@ -952,6 +952,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = දත්තකඩ පතාක අවකරණය
 cookie-banner-handling-description = { -brand-short-name } සහාය දක්වන අඩවි මත දත්තකඩ පතාකවල දත්තකඩ ඉල්ලීම් ස්වයංක්‍රීයව ප්‍රතික්‍ෂේප කිරීමට උත්සාහ කරයි.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = තව දැනගන්න
 forms-handle-cookie-banners =
     .label = දත්තකඩ පතාක අවම කරන්න
@@ -1022,6 +1025,10 @@ content-blocking-unvisited-cookies = නොගිය අඩවිවල දත�
 content-blocking-all-windows-tracking-content = සියළුම කවුළුවල ලුහුබැඳීමේ අන්තර්ගත
 content-blocking-all-cross-site-cookies = සමස්ත හරස් අඩවි දත්තකඩ
 content-blocking-fingerprinters = ඇඟිලි සටහන්
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = දන්නා සහ සැක සහිත ඇඟිලි සටහන්
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1056,6 +1063,18 @@ content-blocking-expand-section =
 content-blocking-fingerprinters-label =
     .label = ඇඟිලි සටහන්
     .accesskey = F
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = දන්නා ඇඟිලි සටහන්
+    .accesskey = K
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = සැක සහිත ඇඟිලි සටහන්
+    .accesskey = S
 
 ## Privacy Section - Tracking
 
