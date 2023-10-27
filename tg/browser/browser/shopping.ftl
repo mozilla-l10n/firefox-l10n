@@ -172,6 +172,7 @@ shopping-survey-q1-radio-2-label = Қаноатманд
 shopping-survey-q1-radio-3-label = Бетараф
 shopping-survey-q1-radio-4-label = Дарғазаб
 shopping-survey-q1-radio-5-label = Хеле дарғазаб
+shopping-survey-question-two = Ба назари шумо абзори тафтиши тақризҳо ҳангоми иҷрои харидҳо қабули қарорҳоро осонтар мекунад?
 shopping-survey-q2-radio-1-label = Ҳа
 shopping-survey-q2-radio-2-label = Не
 shopping-survey-q2-radio-3-label = Ман намедонам
