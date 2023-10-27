@@ -109,6 +109,8 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = කැඩුණු අඩවියක වාර්තාව
+protections-panel-content-blocking-breakage-report-view-description = ඇතැම් ලුහුබැඳීම් අවහිරය නිසා සමහර අඩවිවල ගැටලු මතු වීමට හැකිය. ඊළඟ වතාවේ දී { -brand-short-name } පහසුවෙන් පරිහරණය සඳහා මෙම ගැටලු වාර්තා කිරීමට ද අවස්ථාවක් ඇත. මොසිල්ලා වෙත යවන මෙම වාර්තාවේ එම ඒ.ස.නි. සහ ඔබගේ අතිරික්සුවේ සැකසුම් පිළිබඳ තොරතුරු අඩංගු වේ. <label data-l10n-name="learn-more">තව දැනගන්න</label>
+protections-panel-content-blocking-breakage-report-view-description2 = ඇතැම් ලුහුබැඳීම් අවහිරය නිසා සමහර අඩවිවල ගැටලු මතු වීමට හැකිය. ඊළඟ වතාවේ දී { -brand-short-name } පහසුවෙන් පරිහරණය සඳහා මෙම ගැටලු වාර්තා කිරීමට ද අවස්ථාවක් ඇත. { -vendor-short-name } වෙත යවන මෙම වාර්තාවේ එම ඒ.ස.නි. සහ ඔබගේ අතිරික්සුවේ සැකසුම් පිළිබඳ තොරතුරු අඩංගු වේ.
 protections-panel-content-blocking-breakage-report-view-collection-url = ඒ.ස.නි.
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = ඒ.ස.නි.
