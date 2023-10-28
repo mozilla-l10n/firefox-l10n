@@ -40,7 +40,6 @@ styleeditor-go-to-line =
     .accesskey = K
 # Label displayed when searching a term that is not found in any stylesheet path
 styleeditor-stylesheet-all-filtered = S’u gjet fletë stili me përputhje.
-
 # This string is shown in the style sheets list
 # Variables:
 #   $ruleCount (Integer) - The number of rules in the stylesheet.
@@ -49,3 +48,9 @@ styleeditor-stylesheet-rule-count =
         [one] { $ruleCount } rregull.
        *[other] { $ruleCount } rregulla.
     }
+# Title for the pretty print button in the editor footer.
+styleeditor-pretty-print-button =
+    .title = Fletëstil shtypjeje të hijshme
+# Title for the pretty print button in the editor footer, when it's disabled
+styleeditor-pretty-print-button-disabled =
+    .title = Mund të shtypen vetëm kartela CSS shtypjeje të hijshme
