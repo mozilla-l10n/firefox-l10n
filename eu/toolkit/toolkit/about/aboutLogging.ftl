@@ -46,6 +46,9 @@ about-logging-preset-webgpu-label = WebGPU
 about-logging-preset-webgpu-description = WebGPU arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-gfx-label = Grafikoak
 about-logging-preset-gfx-description = Grafikoen arazoak diagnostikatzeko erregistro-moduluak
+# This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
+about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Microsoft Windowsi berezkoak diren arazoak diagnostikatzeko erregistro-moduluak
 about-logging-preset-custom-label = Pertsonalizatua
 about-logging-preset-custom-description = Erregistratu eskuz hautatutako moduluak
 # Error handling
