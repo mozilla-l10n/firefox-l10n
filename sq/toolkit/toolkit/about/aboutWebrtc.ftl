@@ -14,6 +14,8 @@ about-webrtc-save-page-dialog-title = ruajeni about:webrtc si
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = Shfaq PeerConnections të Mbyllur
+about-webrtc-closed-peerconnection-disclosure-hide-msg = Fshih PeerConnections të Mbyllur
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Fillo Regjistrim EEA-je
 about-webrtc-aec-logging-on-state-label = Ndale Regjistrimin e EEA-s
 about-webrtc-aec-logging-on-state-msg = Regjistrimi i EEA-s është aktiv (flisni për pak minuta me atë që ju bëri thirrjen dhe mandej ndaleni regjistrimin)
 about-webrtc-aec-logging-toggled-on-state-msg = Regjistrimi i EEA-s është aktiv (flisni për pak minuta me atë që ju bëri thirrjen dhe mandej ndaleni regjistrimin)
+about-webrtc-aec-logging-unavailable-sandbox = Ndryshorja MOZ_DISABLE_CONTENT_SANDBOX=1 e mjedisit është e domosdoshme për të eksportuar regjistra AEC. Ujdiseni këtë ndryshore vetëm nëse kuptoni rreziqet e mundshme.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Kartelat e regjistrimit të thirrjes mund të gjenden te: { $path }
@@ -30,12 +33,18 @@ about-webrtc-aec-logging-toggled-off-state-msg = Kartelat e regjistrimit të thi
 
 # The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = Vetërifreskohu
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = Vetërifreksim, Si Parazgjedhje
 # A button which forces a refresh of displayed statistics
 about-webrtc-force-refresh-button = Rifreskoje
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = Kanale të Dhënash të Hapur:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = Kanale të Dhënash të Mbyllur:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -101,6 +110,8 @@ about-webrtc-log-section-show-msg = Shfaqe regjistrin
     .title = Klikoni që të zgjerohet kjo pjesë
 about-webrtc-log-section-hide-msg = Fshihe regjistrin
     .title = Klikoni që të tkurret kjo pjesë
+about-webrtc-copy-report-button = Kopjoje Raportim
+about-webrtc-copy-report-history-button = Kopjo Historik Raportesh
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -116,6 +127,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (e mbyll
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = Dhënie / Marrje: { $codecs }
+about-webrtc-short-send-direction = Dhënie: { $codecs }
+about-webrtc-short-receive-direction = Marrje: { $codecs }
 
 ##
 
@@ -271,6 +285,9 @@ about-webrtc-hide-msg-sdp = Fshih SDP
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = Shfaq Kontekst Media
+about-webrtc-media-context-hide-msg = Fshih Kontekst Media
+about-webrtc-media-context-heading = Kontekst Media
 
 ##
 
