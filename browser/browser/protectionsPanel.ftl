@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Trình chống theo dõi nâng cao
     .description = Tắt trên trang này
     .aria-label = Bật bảo vệ cho { $host }
+protections-panel-etp-toggle-on =
+    .label = Trình chống theo dõi nâng cao
+    .description = Đã bật trên trang này
+    .aria-label = Trình chống theo dõi nâng cao: Đã bật cho { $host }
+protections-panel-etp-toggle-off =
+    .label = Trình chống theo dõi nâng cao
+    .description = Đã tắt trên trang này
+    .aria-label = Trình chống theo dõi nâng cao: Đã tắt cho { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Trang web không hoạt động?
 # The heading/title of the sub-panel view
