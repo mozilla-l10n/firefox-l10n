@@ -95,6 +95,14 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
 ## Strings for the advertisement
 
 more-to-consider-ad-label =
@@ -103,6 +111,7 @@ ad-by-fakespot = Publicitat de { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ajudatz a melhorar { -brand-product-name }
 shopping-survey-q2-radio-1-label = Òc
 shopping-survey-q2-radio-2-label = Non
 shopping-survey-q2-radio-3-label = Sabi pas
