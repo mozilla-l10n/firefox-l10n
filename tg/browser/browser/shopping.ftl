@@ -189,6 +189,7 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Ҳар вақте ки шумо барчаспи нархро мебинед, ба <strong>Абзори тафтиши тақризҳо</strong> баргардед.
 shopping-callout-pdp-opted-in-title = Оё ин тақризҳо боэътимод мебошанд? Дарҳол маълумот гиред.
+shopping-callout-pdp-opted-in-subtitle = Барои дидани баҳодиҳии санҷида дурустшуда бо тақризҳои беэътимоде, ки тоза карда шудаанд, Абзори тафтиши тақризҳоро кушоед. Илова бар ин, нуқтаҳои асосиро аз тақризҳои боэътимоди охирин аз назар гузаронед.
 shopping-callout-closed-not-opted-in-title = Барои гирифтани тақризҳои боэътимод танҳо як маротиба зер кунед
 
 ## Onboarding message strings.
