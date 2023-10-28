@@ -165,6 +165,8 @@ extensions-warning-update-security2 =
     .message = Kontrolli i përditësimit të shtesave është i çaktivizuar. Përditësimet mund t'ju hapin punë.
 extensions-warning-update-security-button = Aktivizoje
     .title = Aktivizoni kontrollin e përditësimit të shtesave
+extensions-warning-imported-addons2 =
+    .message = Ju lutemi, përfundoni instalimin e zgjerimeve që qenë importuar në { -brand-short-name }.
 extensions-warning-imported-addons-button = Instalo Zgjerime
 
 ## Strings connected to add-on updates
@@ -388,6 +390,10 @@ addon-detail-group-label-private-browsing =
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+# Used as a description for the option to allow or block an add-on on quarantined domains.
+addon-detail-quarantined-domains-label = Xhiroje në sajte me kufizime
+# Used as help text part of the quarantined domains UI controls row.
+addon-detail-quarantined-domains-help = Kur lejohet, zgjerimi do të mund të përdorë sajte me kufizime nga { -vendor-short-name }. Lejojeni vetëm nëse i zini besë këtij zgjerimi.
 # Used as label and tooltip text on the radio inputs associated to the quarantined domains UI controls.
 addon-detail-quarantined-domains-allow = Lejoje
 addon-detail-quarantined-domains-disallow = Mos e Lejo
