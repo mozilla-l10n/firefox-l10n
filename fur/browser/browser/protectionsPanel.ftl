@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Protezion miorade da lis spiis
     .description = Disativade par chest sît
     .aria-label = Ative lis protezions par { $host }
+protections-panel-etp-toggle-on =
+    .label = Protezion miorade da lis spiis
+    .description = Ative su chest sît
+    .aria-label = Protezion miorade da lis spiis: ative par { $host }
+protections-panel-etp-toggle-off =
+    .label = Protezion miorade da lis spiis
+    .description = Disativade par chest sît
+    .aria-label = Protezion miorade da lis spiis: disativade par { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Il sît nol funzione?
 # The heading/title of the sub-panel view
