@@ -91,6 +91,7 @@ policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
 policy-ManagedBookmarks = Administratzaileak kudeatutako eta erabiltzaileak aldatu ezin duen laster-marken zerrenda konfiguratzen du.
 policy-ManualAppUpdateOnly = Baimendu eskuzko eguneraketak soilik eta ez jakinarazi erabiltzailea eguneratzeei buruz.
 policy-PrimaryPassword = Behartu edo eragotzi pasahitz nagusia erabiltzea.
+policy-PrintingEnabled = Gaitu edo desgaitu inprimatzea.
 policy-NetworkPrediction = Gaitu edo desgaitu sarearen iragarpena (DNS aurre-eskuratzea).
 policy-NewTabPage = Gaitu edo desgaitu fitxa berriaren orria.
 policy-NoDefaultBookmarks = Desgaitu { -brand-short-name }(r)ekin datozen laster-marka lehenetsiak eta dinamikoak sortzea (gehien bisitatutakoak, azken etiketak). Oharra: profila lehenengo aldiz erabili aurretik ezartzen bada bakarrik du eragina politika honek.
