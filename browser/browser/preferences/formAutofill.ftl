@@ -7,27 +7,45 @@
 
 autofill-manage-addresses-title = Adreças salvadas
 autofill-manage-addresses-list-header = Adreças
-
 autofill-manage-credit-cards-title = Cartas de crèdit salvadas
 autofill-manage-credit-cards-list-header = Cartas bancàrias
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Suprimir
 autofill-manage-add-button = Apondre…
 autofill-manage-edit-button = Modificar…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Enregistrar l’adreça ?
+address-capture-update-doorhanger-header = Actualizar l’adreça ?
+address-capture-edit-doorhanger-header = Modificar l’adreça
+address-capture-save-button =
+    .label = Enregistrar
+    .accessKey = E
+address-capture-not-now-button =
+    .label = Mai tard
+    .accessKey = M
+address-capture-cancel-button =
+    .label = Anullar
+    .accessKey = A
+address-capture-update-button =
+    .label = Actualizar
+    .accessKey = A
+address-capture-manage-address-button =
+    .label = Paramètres d’adreça
+address-capture-learn-more-button =
+    .label = Ne saber mai
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Apondre una novèla adreça
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Modificar l'adreça
-
+autofill-address-name = Nom
 autofill-address-given-name = Pichon nom
 autofill-address-additional-name = Segond pichon nom
 autofill-address-family-name = Nom
 autofill-address-organization = Societat
+autofill-address-street-address = Adreça postala
 autofill-address-street = Adreça postala
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +99,20 @@ autofill-address-eircode = Còdi postal (Eircode)
 
 ##
 
+
+##
+
 autofill-address-country = País o region
+autofill-address-country-only = País
 autofill-address-tel = Telefòn
 autofill-address-email = Corrièr electronic
-
 autofill-cancel-button = Anullar
 autofill-save-button = Enregistrar
 autofill-country-warning-message = Pel moment l’emplenatge automatic es sonque disponible per d’unes païses.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Apondre una carta bancària
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Modificar la carta bancària
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +121,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ensaja de mostrar las informacions d’una carta bancària. Confirmatz l’accès al compte Windows çai-jos.
        *[other] { -brand-short-name } ensaja de mostrar las informacions d’una carta bancària.
     }
-
 autofill-card-number = Numèro de carta
 autofill-card-invalid-number = Picatz un numèro de carta valid
 autofill-card-name-on-card = Titular
