@@ -37,6 +37,7 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> s’ka efekt mbi k�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> s’ka ndikim mbi këtë element, ngaqë ky nuk kryen rrëshqitje.
 inactive-css-border-image = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’mund të aplikohet mbi elementë tabelash të brendshme, kur <strong>border-collapse</strong> është caktuar si <strong>collapse</strong>, te elementi i tabelës mëmë.
 inactive-css-ruby-element = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë është një element ruby. Madhësia e tij përcaktohet nga madhësia e shkronjave të tekstit ruby.
+inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nuk mbulohet për ::cue pseudo-elements.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
 inactive-css-text-wrap-balance-lines-exceeded =
@@ -52,6 +53,7 @@ inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> s’k
 
 inactive-css-not-grid-or-flex-container-fix = Provoni të shtoni <strong>display:grid</strong> ose <strong>display:flex</strong>. { learn-more }
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Provoni të shtoni <strong>display:grid</strong>, <strong>display:flex</strong>, ose <strong>columns:2</strong>. { learn-more }
+inactive-css-not-multicol-container-fix = Provoni të shtoni ose <strong>column-count</strong>, ose <strong>column-width</strong>. { learn-more }
 inactive-css-not-grid-or-flex-item-fix-3 = Provoni të shtoni <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong>, ose <strong>display:inline-flex</strong> te mëma e elementit. { learn-more }
 inactive-css-not-grid-item-fix-2 = Provoni të shtoni <strong>display:grid</strong> ose <strong>display:inline-grid</strong> te mëma e elementit. { learn-more }
 inactive-css-not-grid-container-fix = Provoni të shtoni <strong>display:grid</strong> ose <strong>display:inline-grid</strong>. { learn-more }
@@ -66,9 +68,11 @@ inactive-text-overflow-when-no-overflow-fix = Provoni të shtoni <strong>overflo
 inactive-css-not-for-internal-table-elements-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-cell</strong>, <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-for-internal-table-elements-except-table-cells-fix = Provoni të vini vetinë e tij <strong>display</strong> si diçka tjetër nga <strong>table-column</strong>, <strong>table-row</strong>, <strong>table-column-group</strong>, <strong>table-row-group</strong>, ose <strong>table-footer-group</strong>. { learn-more }
 inactive-css-not-table-fix = Provoni të shtoni <strong>display:table</strong> ose <strong>display:inline-table</strong>. { learn-more }
+inactive-css-not-table-cell-fix = Provoni të shtoni <strong>display:table-cell</strong>. { learn-more }
 inactive-scroll-padding-when-not-scroll-container-fix = Provoni të shtoni <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, ose <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Te elementi i tabelës mëmë, hiqni vetinë ose ndryshoni vlerën <strong>border-collapse</strong> me një vlerë tjetër nga <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Provoni të ndryshoni <strong>font-size</strong> të tekstit Ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Provoni të ulni numrin e rreshtave. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

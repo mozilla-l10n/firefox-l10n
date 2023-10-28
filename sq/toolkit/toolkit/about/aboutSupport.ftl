@@ -176,9 +176,12 @@ media-capabilities-enumerate = Numërtoni bazë të dhënash
 
 ## Codec support table
 
+media-codec-support-sw-decoding = Shkodim nga Software
+media-codec-support-hw-decoding = Shkodim nga Hardware
 media-codec-support-codec-name = Emër Kodeku
 media-codec-support-supported = I mbuluar
 media-codec-support-unsupported = E pambuluar
+media-codec-support-error = S’ka informacion mbulimi nga kodekë. Provoni sërish, pas luajtjes së një kartele media.
 
 ##
 
@@ -393,3 +396,5 @@ support-remote-features-status = Gjendje
 
 ## Pointing devices
 
+pointing-device-mouse = Mi
+pointing-device-touchscreen = Ekran Me Prekje
