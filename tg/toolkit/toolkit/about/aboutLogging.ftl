@@ -50,6 +50,7 @@ about-logging-preset-gfx-label = Графика
 about-logging-preset-gfx-description = Модулҳои сабти рӯйдодҳо барои ташхиси масъалаҳои графикӣ
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Модулҳои сабти рӯйдодҳо барои ташхиси мушкилиҳои махсус дар «Microsoft Windows»
 about-logging-preset-custom-label = Фармоишӣ
 about-logging-preset-custom-description = Модулҳои сабти рӯйдодҳои интихобшуда ба таври дастӣ
 # Error handling

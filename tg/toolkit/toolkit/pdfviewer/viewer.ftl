@@ -324,6 +324,7 @@ pdfjs-ink-canvas =
 pdfjs-editor-alt-text-button-label = Матни ивазкунанда
 pdfjs-editor-alt-text-edit-button-label = Таҳрир кардани матни ивазкунанда
 pdfjs-editor-alt-text-dialog-label = Имконеро интихоб намоед
+pdfjs-editor-alt-text-dialog-description = Вақте ки одамон тасвирро дида наметавонанд ё вақте ки тасвир бор карда намешавад, матни иловагӣ (Alt text) кумак мерасонад.
 pdfjs-editor-alt-text-add-description-label = Илова кардани тавсиф
 pdfjs-editor-alt-text-add-description-description = Кӯшиш кунед, ки 1-2 ҷумлаеро нависед, ки ба мавзӯъ, танзим ё амалҳо тавзеҳ медиҳад.
 pdfjs-editor-alt-text-mark-decorative-label = Гузоштан ҳамчун матни ороишӣ
