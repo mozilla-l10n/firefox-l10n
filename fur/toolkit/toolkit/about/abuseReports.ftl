@@ -113,5 +113,5 @@ abuse-report-policy-suggestions =
     <a data-l10n-name="report-infringement-link">Dopre chestis istruzions</a> par
     segnalâ il probleme.
 abuse-report-unwanted-reason-v2 = No lu ai mai volût/volude e no sai cemût gjavâlu/le
-abuse-report-unwanted-example = Esempli: une aplicazion instalade cence il gno permès
+abuse-report-unwanted-example = Esempli: instalazion fate cence il gno permès de bande di une aplicazion
 abuse-report-other-reason = Alc altri
