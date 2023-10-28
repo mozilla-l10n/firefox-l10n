@@ -969,6 +969,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reduzierung von Cookie-Bannern
 cookie-banner-handling-description = { -brand-short-name } versucht, Cookie-Anforderungen über Cookie-Banner auf unterstützten Websites automatisch abzulehnen.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Weitere Informationen
 forms-handle-cookie-banners =
     .label = Cookie-Banner reduzieren
@@ -1002,6 +1005,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Schnellaktionen
     .accesskey = S
+addressbar-locbar-showrecentsearches-option =
+    .label = Letzte Suchanfragen anzeigen
+    .accesskey = L
 addressbar-suggestions-settings = Einstellungen für Suchvorschläge ändern
 addressbar-quickactions-learn-more = Weitere Informationen
 
