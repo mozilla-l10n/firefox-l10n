@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Proteccion renfortida contra lo seguiment
     .description = desactivada per aqueste site
     .aria-label = Activar las proteccion per { $host }
+protections-panel-etp-toggle-on =
+    .label = Proteccion renfortida contra lo seguiment
+    .description = Activada per aqueste site
+    .aria-label = Proteccion renfortida contra lo seguiment : activa per { $host }
+protections-panel-etp-toggle-off =
+    .label = Proteccion renfortida contra lo seguiment
+    .description = Desactivada per aqueste site
+    .aria-label = Proteccion renfortida contra lo seguiment : inactiva per { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Lo site fonciona pas ?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reduccion de las bandièras de cookies
+protections-panel-cookie-banner-blocker-header = Blocador de bandièras de cookies
 protections-panel-cookie-banner-handling-enabled = Activada per aqueste site
 protections-panel-cookie-banner-handling-disabled = Desactivada per aqueste site
 protections-panel-cookie-banner-handling-undetected = Site actualament pas pres en carga
@@ -128,6 +137,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desactivar la reduccion de las bandièras de cookies per { $host } ?
 protections-panel-cookie-banner-view-turn-on-for-site = Activar la reduccion de las bandièras de cookies per aqueste site ?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blocador de bandièras de cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desactivar lo blocador de bandièras de cookies per { $host } ?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Activar lo blocador de bandièras de cookies per aqueste site ?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } escafarà los cookies d’aqueste site e actualizarà la pagina. La supression de totes los cookies pòt vos desconnectar o voidar los panièrs de crompa.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } ensaja de regetar automaticament totas las demandas de cookies suls sites compatibles.
 protections-panel-cookie-banner-view-cancel = Anullar

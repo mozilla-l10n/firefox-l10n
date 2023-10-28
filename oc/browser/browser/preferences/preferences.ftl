@@ -963,6 +963,10 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Reduccion de las bandièras de cookies
 cookie-banner-handling-description = Permetre a { -brand-short-name } de regetar automaticament las demandas de cookies ?
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blocador de bandièras de cookies
 cookie-banner-learn-more = Ne saber mai
 forms-handle-cookie-banners =
     .label = Reduire las bandièras de cookies
@@ -996,6 +1000,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Accions rapidas
     .accesskey = A
+addressbar-locbar-showrecentsearches-option =
+    .label = Afichar las recèrcas recentas
+    .accesskey = r
 addressbar-suggestions-settings = Cambiar las preferéncias per las suggestions del motor de recèrca
 addressbar-quickactions-learn-more = Ne saber mai
 
