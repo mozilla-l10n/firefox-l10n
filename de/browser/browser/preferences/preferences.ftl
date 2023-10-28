@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Websites anweisen, meine Daten nicht zu verkaufen oder weiterzugeben
     .accesskey = s
+non-technical-privacy-header = Datenschutzeinstellungen für Websites
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -972,9 +973,13 @@ cookie-banner-handling-description = { -brand-short-name } versucht, Cookie-Anfo
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Blocker für Cookie-Banner
+cookie-banner-blocker-description = Wenn eine Website fragt, ob sie Cookies im privaten Modus verwenden darf, lehnt { -brand-short-name } dies automatisch für Sie ab. Nur auf unterstützten Websites.
 cookie-banner-learn-more = Weitere Informationen
 forms-handle-cookie-banners =
     .label = Cookie-Banner reduzieren
+cookie-banner-blocker-checkbox-label =
+    .label = Cookie-Banner automatisch ablehnen
 
 ## Privacy Section - Address Bar
 
