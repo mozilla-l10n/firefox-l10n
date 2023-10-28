@@ -139,8 +139,13 @@ protections-panel-cookie-banner-view-turn-off-for-site = Të çaktivizohet Reduk
 protections-panel-cookie-banner-view-turn-on-for-site = Të aktivizohet Reduktim Banderolash Cookie-sh për këtë sajt?
 protections-panel-cookie-banner-blocker-view-title =
     .title = Bllokues Banderolash Cookie-sh
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Të çaktivizohet Bllokues Banderolash Cookie-sh për { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Të aktivizohet Bllokim Banderolash Cookie-sh për këtë sajt?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }-i do të spastrojë cookie-t për këtë sajt dhe do të rifreskojë faqen. Spastrimi i krejt cookie-ve mund të sjellë nxjerrjen tuaj nga llogaria, ose zbrazje shportash blerjesh.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }-i provon të hedhë poshtë automatikisht krejt kërkesat për cookies, në sajtet që e mbulojnë.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivizojeni dhe { -brand-short-name } do të provojë të hedhë poshtë automatikisht banderola cookie-sh në këtë sajt.
 protections-panel-cookie-banner-view-cancel = Anuloje
 protections-panel-cookie-banner-view-turn-off = Çaktivizoje
 protections-panel-cookie-banner-view-turn-on = Aktivizoje
