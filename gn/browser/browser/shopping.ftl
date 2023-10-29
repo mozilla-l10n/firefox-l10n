@@ -196,6 +196,12 @@ shopping-callout-closed-not-opted-in-subtitle = Eiporu marandu’i rechajeyha eh
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Eiporu ore apopyre guataha rechajey jeroviahápe
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Ehechajey iporãha umi marandu’i apopyre rehegua <b>{ $currentSite }</b> ndive ejogua mboyve. Pe marandu’i rechajeyha, { -brand-product-name } mba’epyahúva, ojuaju kundahaite ndive. Avei ojeporu <b>{ $secondSite }</b> ha <b>{ $thirdSite }</b> ndive.
 shopping-onboarding-opt-in-button = Héẽ, eiporu
 shopping-onboarding-not-now-button = Ani ko’ág̃a
 shopping-onboarding-dialog-close-button =
