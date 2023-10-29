@@ -41,6 +41,10 @@ protections-panel-etp-toggle-on =
     .label = Tapykueho mo’ãha iporãvéva
     .description = Ko tendápe g̃uarã
     .aria-label = Tapykueho mo’ãha iporãvéva: hendýva { $host } peg̃uarã
+protections-panel-etp-toggle-off =
+    .label = Tapykueho mo’ãha iporãvéva
+    .description = Okápe ko tendágui
+    .aria-label = Tapykuehoha ñemo’ã iporãvéva: ojepe’áma { $host }-pe g̃uarã
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ¿Ko tenda ndoikói?
 # The heading/title of the sub-panel view
