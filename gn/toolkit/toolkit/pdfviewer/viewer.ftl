@@ -265,7 +265,7 @@ pdfjs-page-landmark =
 pdfjs-loading-error = Oiko jejavy PDF oñemyeñyhẽnguévo.
 pdfjs-invalid-file-error = PDF marandurenda ndoikóiva térã ivaipyréva.
 pdfjs-missing-file-error = Ndaipóri PDF marandurenda
-pdfjs-unexpected-response-error = Mohendahavusu mbohovái ñeha’ãrõ’ỹva.
+pdfjs-unexpected-response-error = Mohendahavusu mbohovái eha’ãrõ’ỹva.
 pdfjs-rendering-error = Oiko jejavy ehechaukasévo kuatiarogue.
 
 ## Annotations
