@@ -11,7 +11,7 @@ profiles-restart-normal = Jepiveguáicha ñemoñepyrũjey...
 profiles-conflict = Ambue mbokuatiapyre { -brand-product-name } rehegua omoambue umi mba’ete. Emoñepyrũjey { -brand-short-name } emoambueve mboyve.
 profiles-flush-fail-title = Moambuepy noñeñongatúiva
 profiles-flush-conflict = { profiles-conflict }
-profiles-flush-failed = Peteĩ jejavy eha’arõ’ỹva omboyke umi moambuepy ñeñongatu.
+profiles-flush-failed = Peteĩ jejavy eha’ãrõ’ỹva omboyke umi moambuepy ñeñongatu.
 profiles-flush-restart-button = Emoñepyrũjey { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile

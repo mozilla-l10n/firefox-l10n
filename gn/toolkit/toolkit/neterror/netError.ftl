@@ -63,7 +63,7 @@ neterror-dns-not-found-trr-offline = Ndereikekuaamo’ãi ñandutípe.
 neterror-dns-not-found-trr-unknown-host2 = Ko ñandurti renda ndojuhúi { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Oĩ peteĩ apañuãi { $trrDomain } ndive.
 neterror-dns-not-found-bad-trr-url = URL oiko’ỹva.
-neterror-dns-not-found-trr-unknown-problem = Jejavy ñeha’ãrõ’ỹva.
+neterror-dns-not-found-trr-unknown-problem = Jejavy eha’ãrõ’ỹva.
 
 ## Native fallback specific messages
 ## Variables:
