@@ -110,13 +110,13 @@ addon-confirm-install-some-unsigned-message = Ejesareko: Ko tenda omohendase { $
 ##   $addonName (String): the add-on name.
 
 addon-install-error-network-failure = Pe moĩmbaha ndaikatúi oñemboguejy oĩ rupi jejavy jeikekatúpe.
-addon-install-error-incorrect-hash = Ko moĩmbaha ndaikatúi oñemohenda ndojokupytýi rupi moĩmbaha { -brand-short-name } oha’arõva.
+addon-install-error-incorrect-hash = Ko moĩmbaha ndaikatúi oñemohenda ndojokupytýi rupi moĩmbaha { -brand-short-name } oha’ãrõva.
 addon-install-error-corrupt-file = Pe moĩmbaha oñemboguejýva ko tendágui ndaikatúi oñemohenda noĩporãi rupi.
 addon-install-error-file-access = { $addonName } noñemohendakuaái ndaikatúigui { -brand-short-name } omoambue marandurenda tekotevẽva.
 addon-install-error-not-signed = { -brand-short-name } ojoko ko tendágui omboguejy guive pe add-on ojehechajey’ỹva.
 addon-install-error-invalid-domain = Pe moĩmbaha { $addonName } noñemohendakuaái ko tendaite rupive.
 addon-local-install-error-network-failure = Ko moĩmbaha ndaikatúi oñemohenda oĩgui jejavy apopyvusúpe.
-addon-local-install-error-incorrect-hash = Ko moĩmbaha ndaikatúi oñemohenda ndojokupytýi rupi moĩmbaha { -brand-short-name } oñeha’arõvare.
+addon-local-install-error-incorrect-hash = Ko moĩmbaha ndaikatúi oñemohenda ndojokupytýi rupi moĩmbaha { -brand-short-name } oñeha’ãrõvare.
 addon-local-install-error-corrupt-file = Pe moĩmbaha ndaikatúi oñemohenda noĩporãmbái rupi.
 addon-local-install-error-file-access = { $addonName } noñemohendakuaái ndaikatúigui { -brand-short-name } omoambue marandurenda tekotevẽva.
 addon-local-install-error-not-signed = Ko moĩmbaha ndaikatúi oñemohenda ndojehechajeýi rupi.
