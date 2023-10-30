@@ -1009,9 +1009,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Snøgghandlingar
     .accesskey = S
-addressbar-locbar-recentsearches-option =
-    .label = Nylege søk
-    .accesskey = N
+addressbar-locbar-showrecentsearches-option =
+    .label = Vis nylege søk
+    .accesskey = V
 addressbar-suggestions-settings = Endre innstillingar for søkjeforslag
 addressbar-quickactions-learn-more = Les meir
 
