@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = Ми використовуємо техн�
 shopping-analysis-explainer-grades-intro = Кожному відгуку про товар ми присвоюємо <strong>буквену оцінку</strong> від A до F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скоригований рейтинг</strong> на основі лише відгуків, які ми вважаємо надійними.
 shopping-analysis-explainer-learn-more = Дізнайтеся, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } визначає якість відгуків</a>.
+shopping-analysis-explainer-learn-more2 = Дізнайтеся, <a data-l10n-name="review-quality-url">як { -fakespot-brand-name } визначає якість відгуків</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ще немає інформації про ці відгуки
@@ -201,6 +210,7 @@ shopping-onboarding-dynamic-subtitle = Впевніться у надійнос�
 shopping-onboarding-dynamic-subtitle-1 = Впевніться у надійності відгуків про товар на <b>{ $currentSite }</b> перед купівлею. Перевірка відгуків, експериментальна функція від { -brand-product-name }, вбудована безпосередньо у браузер. Вона також працює на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Використовуючи можливості { -fakespot-brand-full-name }, ми допомагаємо вам уникнути упереджених і несправжніх відгуків. Наша модель ШІ постійно вдосконалюється, щоб захистити вас під час покупок. <a data-l10n-name="learn_more">Докладніше</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Натискаючи “{ shopping-onboarding-opt-in-button }“, ви погоджуєтеся з <a data-l10n-name="privacy_policy">політикою приватності</a> та <a data-l10n-name="terms_of_use">умовами користування</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Натискаючи “{ shopping-onboarding-opt-in-button }“, ви погоджуєтеся з <a data-l10n-name="privacy_policy">Політикою приватності</a> та <a data-l10n-name="terms_of_use">Умовами користування</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Так, спробувати
 shopping-onboarding-not-now-button = Не зараз
 shopping-onboarding-dialog-close-button =
