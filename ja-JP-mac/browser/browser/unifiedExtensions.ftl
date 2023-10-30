@@ -2,9 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 ### These strings appear in the Unified Extensions panel.
-
 
 ## Panel
 
@@ -46,3 +44,5 @@ unified-extensions-mb-quarantined-domain-message-2 = ユーザーのデータを
 unified-extensions-mb-quarantined-domain-message-3 =
     .heading = 一部の拡張機能は許可されていません
     .message = ユーザーのデータを保護するため、一部の拡張機能はこのサイトのデータの読み取りと変更ができません。{ -vendor-short-name } により制限されたサイトを許可するには、その拡張機能の設定から変更してください。
+unified-extensions-mb-quarantined-domain-learn-more = 詳細情報
+    .aria-label = 詳細情報: 一部の拡張機能は許可されていません
