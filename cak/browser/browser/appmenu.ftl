@@ -94,6 +94,7 @@ appmenuitem-fxa-toolbar-sync-now2 = Tixim Wakami
 appmenuitem-fxa-sign-in = Titikirisäx molojri'ïl pa { -brand-product-name }
 appmenuitem-fxa-manage-account = Tinuk'samajïx Rub'i' Taqoya'l
 appmenu-fxa-header2 = { -fxaccount-brand-name }
+appmenu-account-header = Rub'i' taqoya'l
 # Variables
 # $time (string) - Localized relative time since last sync (e.g. 1 second ago,
 # 3 hours ago, etc.)

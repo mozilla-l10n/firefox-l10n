@@ -615,6 +615,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Anin taq b'anoj
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Nimakol kekanöx
 
 ## Reader View toolbar buttons
 
@@ -911,6 +916,16 @@ unified-extensions-button-quarantined =
     .tooltiptext =
         Taq k'amal
         Jujun taq k'amal man ya'on ta q'ij chi ke
+
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = Tiq'at
+    .accesskey = q
+reset-pbm-panel-confirm-button =
+    .label = Tiyuj rutzij molojri'il
+    .accesskey = y
+reset-pbm-panel-complete = Xeyuj ri taq rutzij ichinan molojri'il
 
 ## Autorefresh blocker
 
