@@ -103,7 +103,7 @@ addon-confirm-install-unsigned-message =
     }
 # Variables:
 #   $addonCount (Number): the number of add-ons being installed (at least 2)
-addon-confirm-install-some-unsigned-message = Ejesareko: Ko tenda omohendase { $addonCount } moĩmbaha { -brand-short-name }-pe, ijapytépe oĩ ndojehechajeýiva. Nderehéntema oĩ ejaposéramo.
+addon-confirm-install-some-unsigned-message = Ejesareko: Ko tenda omohendase { $addonCount } moĩmbahakuéra { -brand-short-name }-pe, ijapytépe oĩ ndojehechajeýiva. Nderehéntema oĩ ejaposéramo.
 
 ## Add-on install errors
 ## Variables:

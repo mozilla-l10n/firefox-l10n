@@ -62,7 +62,7 @@ policy-DownloadDirectory = Emoha’eño ha ejoko marandurenda mboguejerã.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Embojuruja térã eipe’a tetepy jejoko ha ejoko ejaposérõnte.
 # “lock” means that the user won’t be able to change this setting
-policy-EncryptedMediaExtensions = Emyandy térã embogue Jepysokue papapypyréva ha, ejaposéramo, ejoko.
+policy-EncryptedMediaExtensions = Emyandy térã embogue Jepysokue papapypyréva ha, ejaposérõ, ejoko.
 policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = Embogue umi ñe’ẽñemi oñemopyendáva jeipyso rehe umi vore ha’etévape g̃uarã umi tenda rupi.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
