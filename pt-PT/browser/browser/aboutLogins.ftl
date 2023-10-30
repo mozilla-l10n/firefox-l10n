@@ -201,6 +201,12 @@ about-logins-confirm-remove-all-sync-dialog-message =
         [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
        *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os seus dispositivos onde sincronizou a sua { -fxaccount-brand-name }. Isto irá também remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
     }
+about-logins-confirm-remove-all-sync-dialog-message2 =
+    { $count ->
+        [1] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os dispositivos sincronizados com a sua conta. Isto também irá remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
+        [one] Isto irá remover a credencial que guardou no { -brand-short-name } em todos os dispositivos sincronizados com a sua conta. Isto também irá remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
+       *[other] Isto irá remover todas as credenciais que guardou no { -brand-short-name } em todos os dispositivos sincronizados com a sua conta. Isto também irá remover quaisquer alertas de violação de dados que sejam apresentados aqui. Não poderá anular esta ação.
+    }
 
 ##
 

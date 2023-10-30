@@ -205,6 +205,7 @@ firefoxview-import-history-description = Faça do { -brand-short-name } o seu na
 
 firefoxview-recentlyclosed-empty-header = Fechou um separador por engano?
 firefoxview-recentlyclosed-empty-description = Aqui poderá encontrar os separadores que fechou recentemente, para que possa reabrir qualquer um dos mesmos rapidamente.
+firefoxview-recentlyclosed-empty-description-two = Para encontrar separadores antigos, consulte o seu <a data-l10n-name="history-url">histórico de navegação</a>.
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
