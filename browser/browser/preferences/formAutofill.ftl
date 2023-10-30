@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Збережені адреси
 autofill-manage-addresses-list-header = Адреси
-
 autofill-manage-credit-cards-title = Збережені кредитні картки
 autofill-manage-credit-cards-list-header = Кредитні картки
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Вилучити
 autofill-manage-add-button = Додати…
 autofill-manage-edit-button = Змінити…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Зберегти адресу?
+address-capture-save-doorhanger-description = Збережіть інформацію в { -brand-short-name }, щоб ви могли швидко заповнювати форми.
+address-capture-update-doorhanger-header = Оновити адресу?
+address-capture-edit-doorhanger-header = Редагувати адресу
+address-capture-save-button =
+    .label = Зберегти
+    .accessKey = З
+address-capture-not-now-button =
+    .label = Не зараз
+    .accessKey = е
+address-capture-cancel-button =
+    .label = Скасувати
+    .accessKey = к
+address-capture-update-button =
+    .label = Оновити
+    .accessKey = н
+address-capture-manage-address-button =
+    .label = Налаштування адреси
+address-capture-learn-more-button =
+    .label = Докладніше
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Додати нову адресу
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Змінити адресу
-
+autofill-address-name = Ім'я
 autofill-address-given-name = Ім'я
 autofill-address-additional-name = По батькові
 autofill-address-family-name = Прізвище
 autofill-address-organization = Організація
+autofill-address-street-address = Вулиця
 autofill-address-street = Вулиця
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Країна
+autofill-address-country-only = Країна
 autofill-address-tel = Телефон
 autofill-address-email = Електронна пошта
-
 autofill-cancel-button = Скасувати
 autofill-save-button = Зберегти
 autofill-country-warning-message = Автозаповнення форм наразі доступне лише для певних країн.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Додати нову кредитну картку
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Змінити кредитну картку
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } намагається показати інформацію кредитної картки. Підтвердьте доступ до цього облікового запису Windows внизу.
        *[other] { -brand-short-name } намагається показати інформацію кредитної картки.
     }
-
 autofill-card-number = Номер картки
 autofill-card-invalid-number = Введіть правильний номер картки
 autofill-card-name-on-card = Ім'я на картці

@@ -1014,9 +1014,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Швидкі дії
     .accesskey = Ш
-addressbar-locbar-recentsearches-option =
-    .label = Недавні пошуки
-    .accesskey = Н
+addressbar-locbar-showrecentsearches-option =
+    .label = Показати останні пошуки
+    .accesskey = о
 addressbar-suggestions-settings = Змінити налаштування пропозицій засобів пошуку
 addressbar-quickactions-learn-more = Докладніше
 

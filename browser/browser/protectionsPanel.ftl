@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Розширений захист від стеження
     .description = Вимкнено для цього сайту
     .aria-label = Увімкнути захист для { $host }
+protections-panel-etp-toggle-on =
+    .label = Розширений захист від стеження
+    .description = Увімкнено на цьому сайті
+    .aria-label = Розширений захист від стеження: увімкнено для { $host }
+protections-panel-etp-toggle-off =
+    .label = Розширений захист від стеження
+    .description = Вимкнено на цьому сайті
+    .aria-label = Розширений захист від стеження: вимкнено для { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Не працює сайт?
 # The heading/title of the sub-panel view
