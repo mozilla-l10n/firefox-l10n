@@ -6,3 +6,9 @@ screenshots-overlay-cancel-button = Avbryt
 screenshots-overlay-instructions = Dra eller klikk på sida for å velje eit område. Trykk på ESC for å avbryte.
 screenshots-overlay-download-button = Last ned
 screenshots-overlay-copy-button = Kopier
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size = { $width } x { $height }
