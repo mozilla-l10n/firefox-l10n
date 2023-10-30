@@ -47,6 +47,8 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = O { -brand-short-name } não tem acesso aos perfis de outros navegadores instalados neste dispositivo.
+migration-no-permissions-instructions = Para continuar a importar os dados de outro navegador, conceda acesso à respetiva pasta de perfil do { -brand-short-name }.
 migration-no-permissions-instructions-step1 = Selecione “Continuar”
 
 ## These strings will be displayed based on how many resources are selected to import
