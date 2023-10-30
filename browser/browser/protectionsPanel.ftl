@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Utvida sporingsvern
     .description = Av for denne nettstaden
     .aria-label = Slå på vern for { $host }
+protections-panel-etp-toggle-on =
+    .label = Utvida sporingsvern
+    .description = På for denne nettstaden
+    .aria-label = Utvida sporingsvern: På for { $host }
+protections-panel-etp-toggle-off =
+    .label = Utvida sporingsvern
+    .description = Av for denne nettstaden
+    .aria-label = Utvida sporingsvern: Av for { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Fungerer ikkje nettstaden?
 # The heading/title of the sub-panel view
