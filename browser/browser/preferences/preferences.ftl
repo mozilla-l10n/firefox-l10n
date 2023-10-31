@@ -974,9 +974,12 @@ cookie-banner-handling-description = Cookie iragarki-bandetako eskaerak automati
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Cookie iragarki-banden blokeatzailea
+cookie-banner-blocker-description = Gune batek cookieak erabiltzeko baimena eskatzen badu nabigatze pribatuko moduan zaudela, { -brand-short-name }(e)k automatikoki ukatuko du eskaera. Euskarria duten guneetan soilik.
 cookie-banner-learn-more = Argibide gehiago
 forms-handle-cookie-banners =
     .label = Murriztu cookie iragarki-bandak
+cookie-banner-blocker-checkbox-label =
+    .label = Automatikoki ukatu cookie iragarki-bandak
 
 ## Privacy Section - Address Bar
 
