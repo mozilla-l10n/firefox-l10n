@@ -5,6 +5,9 @@
 toolbar-button-firefox-view =
     .label = { -firefoxview-brand-name }
     .tooltiptext = { -firefoxview-brand-name }
+toolbar-button-firefox-view-2 =
+    .label = { -firefoxview-brand-name }
+    .tooltiptext = Ikusi azken nabigazioa leiho eta gailuen artean
 menu-tools-firefox-view =
     .label = { -firefoxview-brand-name }
     .accesskey = F
@@ -26,6 +29,7 @@ firefoxview-tabpickup-step-signin-header = Aldatu di-da batean gailuen artean
 firefoxview-tabpickup-step-signin-description = Zure telefonoko fitxak hemen izateko, hasi saioa edo sortu kontua lehenik.
 firefoxview-tabpickup-step-signin-primarybutton = Jarraitu
 firefoxview-syncedtabs-signin-header = Hartu fitxak edonondik
+firefoxview-syncedtabs-signin-description = { -brand-product-name } erabiltzen duzun gailu guztietako fitxak ikusteko, hasi saioa zure kontuan. Konturik ez badaukazu, izen-emateko urratsak erakutsiko dizkizugu.
 firefoxview-syncedtabs-signin-primarybutton = Hasi saioa edo eman izena
 firefoxview-tabpickup-adddevice-header = Sinkronizatu { -brand-product-name } zure telefono edo tabletan
 firefoxview-tabpickup-adddevice-description = Deskargatu mugikorrerako { -brand-product-name } eta hasi saioa bertan.
