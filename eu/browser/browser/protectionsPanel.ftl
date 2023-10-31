@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Jarraipenaren babes hobetua
     .description = Desgaituta gune honetarako
     .aria-label = Gaitu babesak { $host } ostalarirako
+protections-panel-etp-toggle-on =
+    .label = Jarraipenaren babes hobetua
+    .description = Gaituta gune honetarako
+    .aria-label = Jarraipenaren babes hobetua: Gaituta { $host } ostalarirako
+protections-panel-etp-toggle-off =
+    .label = Jarraipenaren babes hobetua
+    .description = Desgaituta gune honetarako
+    .aria-label = Jarraipenaren babes hobetua: Desgaituta { $host } ostalarirako
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Gunea ez dabil?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Cookie iragarki-banden murrizpena
+protections-panel-cookie-banner-blocker-header = Cookie iragarki-banden blokeatzailea
 protections-panel-cookie-banner-handling-enabled = Aktibatuta gune honetarako
 protections-panel-cookie-banner-handling-disabled = Desaktibatuta gune honetarako
 protections-panel-cookie-banner-handling-undetected = Une honetan gune honetarako euskarririk ez
@@ -128,6 +137,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desaktibatu cookie iragarki-banden murrizpena { $host } gunerako?
 protections-panel-cookie-banner-view-turn-on-for-site = Aktibatu cookie iragarki-banden murrizpena gune honetarako?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Cookie iragarki-banden blokeatzailea
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desaktibatu cookie iragarki-banden blokeatzailea { $host } gunerako?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Aktibatu cookie iragarki-banden blokeatzailea gune honetarako?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name }(e)k gune honetako cookieak garbitu eta orria berrituko du. Cookie guztiak garbitzean, saioak amaitu edo erosketa-orgak hustu litezke.
 protections-panel-cookie-banner-view-turn-on-description = Cookie eskaerak automatikoki ukatzen saiatzen da { -brand-short-name }.
 protections-panel-cookie-banner-view-cancel = Utzi
