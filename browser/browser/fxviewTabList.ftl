@@ -8,3 +8,6 @@
 
 fxviewtabrow-open-in-private-window = Deschide într-o fereastră privată nouă
     .accesskey = P
+# “Bookmark” is a verb, as in "Bookmark this page" (add to bookmarks).
+fxviewtabrow-add-bookmark = Marchează…
+    .accesskey = B

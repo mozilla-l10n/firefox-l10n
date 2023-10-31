@@ -7,6 +7,7 @@
 
 confirmation-hint-breakage-report-sent = Raport trimis. Îți mulțumim!
 confirmation-hint-login-removed = Date de autentificare eliminate!
+confirmation-hint-page-bookmarked = Salvată în marcaje
 confirmation-hint-password-saved = Parolă salvată!
 confirmation-hint-pin-tab = Fixat!
 confirmation-hint-pin-tab-description = Dă clic dreapta pe filă ca să o elimini din filele fixate.
