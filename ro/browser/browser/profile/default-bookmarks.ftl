@@ -9,4 +9,17 @@
 
 # link title for https://www.mozilla.org/firefox/central/
 default-bookmarks-getting-started = Noțiuni introductive
-
+# Firefox links folder name
+default-bookmarks-firefox-heading = Mozilla Firefox
+# link title for https://www.mozilla.org/firefox/help/
+default-bookmarks-firefox-get-help = Obține ajutor
+# link title for https://www.mozilla.org/firefox/customize/
+default-bookmarks-firefox-customize = Personalizează Firefox
+# link title for https://www.mozilla.org/contribute/
+default-bookmarks-firefox-community = Implică-te
+# link title for https://www.mozilla.org/about/
+default-bookmarks-firefox-about = Despre noi
+# Firefox Nightly links folder name
+default-bookmarks-nightly-heading = Resurse Firefox Nightly
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+default-bookmarks-nightly-blog = Blogul Firefox Nightly

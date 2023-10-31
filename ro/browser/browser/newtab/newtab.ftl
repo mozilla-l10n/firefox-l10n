@@ -20,12 +20,12 @@ newtab-personalize-dialog-label =
 newtab-search-box-search-button =
     .title = Caută
     .aria-label = Caută
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-text = Caută cu { $engine } sau introdu adresa
 newtab-search-box-handoff-text-no-engine = Caută sau introdu adresa
-# Variables
-#  $engine (String): the name of the user's default search engine
+# Variables:
+#   $engine (string) - The name of the user's default search engine
 newtab-search-box-handoff-input =
     .placeholder = Caută cu { $engine } sau introdu adresa
     .title = Caută cu { $engine } sau introdu adresa
@@ -79,7 +79,7 @@ newtab-dismiss-button-tooltip =
     .aria-label = Elimină
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
-#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+#   $title (string) - The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
 newtab-menu-content-tooltip =
     .title = Deschide meniul
     .aria-label = Deschide meniul contextual pentru { $title }
@@ -147,12 +147,17 @@ newtab-label-saved = Salvat în { -pocket-brand-name }
 newtab-label-download = Descărcat
 # This string is used in the story cards to indicate sponsored content
 # Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
+#   $sponsorOrSource (string) - The name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorizat
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
-#  $sponsor (String): This is the name of a sponsor
+#   $sponsor (string) - The name of a sponsor
 newtab-label-sponsored-by = Sponsorizat de { $sponsor }
+# This string is used under the image of story cards to indicate source and time to read
+# Variables:
+#   $source (string) - The name of a company or their domain
+#   $timeToRead (number) - The estimated number of minutes to read this story
+newtab-label-source-read-time = { $source } · { $timeToRead } min
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -180,7 +185,7 @@ newtab-section-expand-section-label =
 newtab-section-header-topsites = Site-uri de top
 newtab-section-header-recent-activity = Activitate recentă
 # Variables:
-#  $provider (String): Name of the corresponding content provider.
+#   $provider (string) - Name of the corresponding content provider.
 newtab-section-header-pocket = Recomandat de { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
@@ -188,7 +193,7 @@ newtab-section-header-pocket = Recomandat de { $provider }
 newtab-empty-section-highlights = Începe să navighezi și noi îți vom arăta articole interesante, videouri sau alte pagini pe care le-ai vizitat sau marcat recent.
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
-#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+#   $provider (string) - Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ai ajuns la capăt. Revino mai târziu pentru alte articole de la { $provider }. Nu mai vrei să aștepți? Selectează un subiect popular și găsește alte articole interesante de pe web.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
@@ -225,6 +230,8 @@ newtab-custom-shortcuts-subtitle = Site-uri pe care le salvezi sau le vizitezi
 newtab-custom-shortcuts-toggle =
     .label = Comenzi rapide
     .description = Site-uri pe care le salvezi sau le vizitezi
+# Variables
+#   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
         [one] { $num } rând
