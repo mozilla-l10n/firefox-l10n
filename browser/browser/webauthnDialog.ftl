@@ -11,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN okerra. Saiatu berriro.
 webauthn-pin-required-prompt = Idatzi zure gailuaren PINa mesedez.
+webauthn-select-sign-result-unknown-account = Kontu ezezaguna
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

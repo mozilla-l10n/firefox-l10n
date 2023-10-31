@@ -226,6 +226,9 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $quantity }/{ $matched } hedapen
+# Shown in the migration wizard if there are no matched extensions
+# on import from supported browsers.
+migration-wizard-progress-no-matched-extensions = Bat datorren hedapenik ez
 migration-wizard-progress-extensions-addons-link = Arakatu { -brand-short-name }(e)rako hedapenak
 
 ##

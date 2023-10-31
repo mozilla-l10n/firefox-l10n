@@ -223,6 +223,7 @@ set-default-pdf-handler-primary = Ulertuta
 
 ## FxA sync CFR
 
+fxa-sync-cfr-header = Gailu berririk ba al da zure etorkizunean?
 fxa-sync-cfr-primary = Argibide gehiago
     .accesskey = A
 fxa-sync-cfr-secondary = Gogora iezadazu geroago
@@ -231,6 +232,7 @@ fxa-sync-cfr-secondary = Gogora iezadazu geroago
 ## Device Migration FxA Spotlight
 
 device-migration-fxa-spotlight-header = Gailu zaharragoa darabilzu?
+device-migration-fxa-spotlight-primary-button = Nola egin nire datuen babeskopia
 device-migration-fxa-spotlight-link = Gogora iezadazu geroago
 
 ## Set as Default PDF Reader Infobar
