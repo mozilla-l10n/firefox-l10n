@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Gordetako helbideak
 autofill-manage-addresses-list-header = Helbideak
-
 autofill-manage-credit-cards-title = Gordetako kreditu-txartelak
 autofill-manage-credit-cards-list-header = Kreditu-txartelak
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Kendu
 autofill-manage-add-button = Gehitu…
 autofill-manage-edit-button = Editatu…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Helbidea gorde?
+address-capture-save-doorhanger-description = Gorde informazioa { -brand-short-name }(e)n inprimakiak di-da batean betetzeko.
+address-capture-update-doorhanger-header = Helbidea eguneratu?
+address-capture-edit-doorhanger-header = Editatu helbidea
+address-capture-save-button =
+    .label = Gorde
+    .accessKey = G
+address-capture-not-now-button =
+    .label = Une honetan ez
+    .accessKey = z
+address-capture-cancel-button =
+    .label = Utzi
+    .accessKey = U
+address-capture-update-button =
+    .label = Eguneratu
+    .accessKey = E
+address-capture-manage-address-button =
+    .label = Helbidearen ezarpenak
+address-capture-learn-more-button =
+    .label = Argibide gehiago
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Gehitu helbide berria
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Editatu helbidea
-
+autofill-address-name = Izena
 autofill-address-given-name = Izena
 autofill-address-additional-name = Bigarren izena
 autofill-address-family-name = Abizenak
 autofill-address-organization = Erakundea
+autofill-address-street-address = Helbidea
 autofill-address-street = Helbidea
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Herrialdea edo eskualdea
+autofill-address-country-only = Herrialdea
 autofill-address-tel = Telefonoa
 autofill-address-email = Helbide elektronikoa
-
 autofill-cancel-button = Utzi
 autofill-save-button = Gorde
 autofill-country-warning-message = Inprimakiak automatikoki betetzea momentuz zenbait herrialdetan dago erabilgarri soilik.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Gehitu kreditu-txartel berria
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Editatu kreditu-txartela
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }. Berretsi azpian Windows kontu honetarako sarbidea.
        *[other] Kreditu-txartelen informazioa erakusten saiatzen ari da { -brand-short-name }.
     }
-
 autofill-card-number = Txartelaren zenbakia
 autofill-card-invalid-number = Idatzi baliozko txartel-zenbakia
 autofill-card-name-on-card = Txarteleko izena

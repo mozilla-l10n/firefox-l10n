@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Esan webguneei nire datuak ez saltzeko edo partekatzeko
     .accesskey = s
+non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
 settings-page-title = Ezarpenak
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -122,6 +123,10 @@ set-as-my-default-browser =
 startup-restore-windows-and-tabs =
     .label = Ireki aurreko leiho eta fitxak
     .accesskey = a
+windows-launch-on-login =
+    .label = Ireki { -brand-short-name } automatikoki ordenagailuaren abioan
+    .accesskey = { "" }
+windows-launch-on-login-disabled = Hobespen hau Windowsen desgaitu da. Aldatzeko, bisitatu <a data-l10n-name="startup-link">Abioko aplikazioak</a> sistemaren ezarpenetan.
 startup-restore-warn-on-quit =
     .label = Abisatu nabigatzailetik irtetean
 disable-extension =
@@ -959,6 +964,9 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Cookie iragarki-banden murrizpena
 cookie-banner-handling-description = Cookie iragarki-bandetako eskaerak automatikoki ukatzen saiatzen da { -brand-short-name }.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Argibide gehiago
 forms-handle-cookie-banners =
     .label = Murriztu cookie iragarki-bandak

@@ -232,3 +232,28 @@ fxa-sync-cfr-secondary = Gogora iezadazu geroago
 
 device-migration-fxa-spotlight-header = Gailu zaharragoa darabilzu?
 device-migration-fxa-spotlight-link = Gogora iezadazu geroago
+
+## Set as Default PDF Reader Infobar
+
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Egin { -brand-short-name } zure PDF irakurgailu lehenetsia?</strong> Erabili { -brand-short-name } zure ordenagailuan gordetako PDFak irakurri eta editatzeko.
+pdf-default-notification-set-default-button =
+    .label = Ezarri lehenetsi gisa
+pdf-default-notification-decline-button =
+    .label = Une honetan ez
+
+## Launch on login infobar notification
+
+launch-on-login-infobar-message = <strong>Ireki { -brand-short-name } ordenagailua berrabiarazten duzun bakoitzean?</strong> Orain { -brand-short-name } automatikoki irekitzeko ezar dezakezu zure gailua berrabiarazten duzun bakoitzean.
+launch-on-login-learnmore = Argibide gehiago
+launch-on-login-infobar-confirm-button = Bai, ireki { -brand-short-name }
+    .accesskey = B
+launch-on-login-infobar-reject-button = Une honetan ez
+    .accesskey = z
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-message = <strong>Ireki { -brand-short-name } ordenagailua berrabiarazten duzun bakoitzean?</strong> Abioko hobespenak kudeatzeko, bilatu "abioa" ezarpenetan.
+launch-on-login-infobar-final-reject-button = Ez, eskerrik asko
+    .accesskey = z
