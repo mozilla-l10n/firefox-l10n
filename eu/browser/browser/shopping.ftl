@@ -60,6 +60,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = Produktua ez dago erabilgarri
     .message = Produktua berriz ere erabilgarri dagoela ikusten baduzu, jakinaraz iezaguzu eta balorazioak egiaztatzeari ekingo diogu.
+shopping-message-bar-warning-product-not-available-button2 = Jakinarazi produktua berriz ere erabilgarri dagoela
 shopping-message-bar-thanks-for-reporting =
     .heading = Eskerrik asko jakinarazpenagatik!
     .message = Produktu honen balorazioei buruzko informazioa 24 ordu barru izan behar genuke. Itzuli geroago mesedez.
@@ -139,6 +140,14 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
 shopping-unanalyzed-product-header-2 = Balorazio hauei buruzko informaziorik ez oraindik
 shopping-unanalyzed-product-message-2 = Produktu hauen balorazioak fidatzekoak diren jakiteko, egiaztatu balorazioen kalitatea. 60 bat segundo hartzen ditu soilik.
 shopping-unanalyzed-product-analyze-button = Egiaztatu balorazioaren kalitatea
@@ -178,6 +187,7 @@ shopping-callout-pdp-opted-in-title = Balorazio hauek fidatzekoak dira? Ikusi di
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Probatu produktuen balorazioetarako gure fidatzeko gida
 shopping-onboarding-opt-in-button = Bai, probatu
 shopping-onboarding-not-now-button = Une honetan ez
 shopping-onboarding-dialog-close-button =

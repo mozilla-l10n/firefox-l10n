@@ -15,6 +15,10 @@ global-privacy-control-description =
     .label = Esan webguneei nire datuak ez saltzeko edo partekatzeko
     .accesskey = s
 non-technical-privacy-header = Webgunearen pribatutasun-hobespenak
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Ezarpenak
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -831,6 +835,8 @@ forms-breach-alerts =
     .label = Erakutsi datu-urratzeak izan dituzten webguneetako pasahitzei buruzko abisuak
     .accesskey = E
 forms-breach-alerts-learn-more-link = Argibide gehiago
+preferences-relay-integration-checkbox =
+    .label = Gomendatu { -relay-brand-name } helbide-maskarak zure helbide elektronikoa babesteko
 relay-integration-learn-more-link = Argibide gehiago
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -967,6 +973,7 @@ cookie-banner-handling-description = Cookie iragarki-bandetako eskaerak automati
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Cookie iragarki-banden blokeatzailea
 cookie-banner-learn-more = Argibide gehiago
 forms-handle-cookie-banners =
     .label = Murriztu cookie iragarki-bandak
@@ -1000,6 +1007,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ekintza bizkorrak
     .accesskey = b
+addressbar-locbar-showrecentsearches-option =
+    .label = Erakutsi azken bilaketak
+    .accesskey = r
 addressbar-suggestions-settings = Aldatu bilaketa-motorren iradokizunetarako hobespenak
 addressbar-quickactions-learn-more = Argibide gehiago
 
