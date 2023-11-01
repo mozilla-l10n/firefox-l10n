@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Улучшенная защита от отслеживания
     .description = Отключена на этом сайте
     .aria-label = Включить защиту на { $host }
+protections-panel-etp-toggle-on =
+    .label = Улучшенная защита от отслеживания
+    .description = Включена для этого сайта
+    .aria-label = Улучшенная защита от отслеживания: Включена для { $host }
+protections-panel-etp-toggle-off =
+    .label = Улучшенная защита от отслеживания
+    .description = Отключена для этого сайта
+    .aria-label = Улучшенная защита от отслеживания: Отключена для { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сайт не работает?
 # The heading/title of the sub-panel view

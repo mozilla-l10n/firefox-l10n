@@ -1014,6 +1014,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Быстрые действия
     .accesskey = ы
+addressbar-locbar-showrecentsearches-option =
+    .label = Показать недавние поисковые запросы
+    .accesskey = к
 addressbar-suggestions-settings = Изменить настройки для предложений поисковых систем
 addressbar-quickactions-learn-more = Подробнее
 
