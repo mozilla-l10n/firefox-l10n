@@ -129,7 +129,7 @@ startup-restore-windows-and-tabs =
     .accesskey = a
 windows-launch-on-login =
     .label = Ireki { -brand-short-name } automatikoki ordenagailuaren abioan
-    .accesskey = { "" }
+    .accesskey = r
 windows-launch-on-login-disabled = Hobespen hau Windowsen desgaitu da. Aldatzeko, bisitatu <a data-l10n-name="startup-link">Abioko aplikazioak</a> sistemaren ezarpenetan.
 startup-restore-warn-on-quit =
     .label = Abisatu nabigatzailetik irtetean
