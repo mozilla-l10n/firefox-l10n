@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Сохранённые адреса
 autofill-manage-addresses-list-header = Адреса
-
 autofill-manage-credit-cards-title = Сохранённые банковские карты
 autofill-manage-credit-cards-list-header = Банковские карты
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Удалить
 autofill-manage-add-button = Добавить…
 autofill-manage-edit-button = Изменить…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Сохранить адрес?
+address-capture-save-doorhanger-description = Сохраните информацию в { -brand-short-name }, чтобы можно было быстро заполнять формы.
+address-capture-update-doorhanger-header = Обновить адрес?
+address-capture-edit-doorhanger-header = Изменить адрес
+address-capture-save-button =
+    .label = Сохранить
+    .accessKey = Ы
+address-capture-not-now-button =
+    .label = Не сейчас
+    .accessKey = Т
+address-capture-cancel-button =
+    .label = Отмена
+    .accessKey = С
+address-capture-update-button =
+    .label = Обновить
+    .accessKey = Г
+address-capture-manage-address-button =
+    .label = Настройки адреса
+address-capture-learn-more-button =
+    .label = Подробнее
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Добавить новый адрес
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Изменить адрес
-
+autofill-address-name = Имя
 autofill-address-given-name = Имя
 autofill-address-additional-name = Отчество
 autofill-address-family-name = Фамилия
 autofill-address-organization = Организация
+autofill-address-street-address = Улица, дом, квартира
 autofill-address-street = Адрес
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Страна или регион
+autofill-address-country-only = Страна
 autofill-address-tel = Телефон
 autofill-address-email = Эл. почта
-
 autofill-cancel-button = Отмена
 autofill-save-button = Сохранить
 autofill-country-warning-message = В настоящее время автозаполнение форм доступно только для некоторых стран.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Добавить новую банковскую карту
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Изменить банковскую карту
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } пытается показать данные банковской карты. Подтвердите ниже доступ к этой учётной записи Windows.
        *[other] { -brand-short-name } пытается показать данные банковской карты.
     }
-
 autofill-card-number = Номер карты
 autofill-card-invalid-number = Введите корректный номер карты
 autofill-card-name-on-card = Имя держателя
