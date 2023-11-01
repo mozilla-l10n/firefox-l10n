@@ -854,7 +854,7 @@ picture-in-picture-move-toggle-left =
 # the word "toolbar" or such, because screen readers already know that
 # this container is a toolbar. This avoids double-speaking.
 navbar-accessible =
-    .aria-label = Ñekundaha
+    .aria-label = Ñeikundaha
 navbar-downloads =
     .label = Ñemboguejy
 navbar-overflow =

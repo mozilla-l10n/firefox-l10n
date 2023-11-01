@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-default-browser-notification-message = <strong>¿Emopyenda { -brand-short-name } ne kundahára ypykuérõ?</strong> Ereko ñekundaha pya’e, hekorosã ha iñemíva eiporúvo ñanduti.
+default-browser-notification-message = <strong>¿Emopyenda { -brand-short-name } ne kundahára ypykuérõ?</strong> Ereko ñeikundaha pya’e, hekorosã ha iñemíva eiporúvo ñanduti.
 default-browser-notification-button =
     .label = Emopyenda ijypykuéramo
     .accesskey = S
