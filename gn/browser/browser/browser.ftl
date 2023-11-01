@@ -80,7 +80,7 @@ urlbar-geolocation-notification-anchor =
 urlbar-xr-notification-anchor =
     .tooltiptext = Embojuruja ñemoneĩ rupa añetegua ñanduti rehegua
 urlbar-storage-access-anchor =
-    .tooltiptext = Embojuruja kundaha rembiapo ñemoneĩ rupa
+    .tooltiptext = Embojuruja kundahára rembiapo ñemoneĩ rupa
 urlbar-web-rtc-share-screen-notification-anchor =
     .tooltiptext = Eñangareko moherakuã nerovetã térã mba’erechaha ko tenda ndive
 urlbar-indexed-db-notification-anchor =
@@ -130,9 +130,9 @@ urlbar-result-menu-tip-get-help =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Ehai sa’ive, ejuhuve: Eheka { $engineName } kundaharape rendaite guive.
-urlbar-search-tips-redirect-2 = Eñepyrũ eheka kundaharape rendápe ehecha hag̃ua { $engineName } ñe’ẽporã ha ikundaha rembiasakue.
+urlbar-search-tips-redirect-2 = Eñepyrũ eheka kundaharape rendápe ehecha hag̃ua { $engineName } ñe’ẽporã ha iñeikundaha rembiasakue.
 # Make sure to match the name of the Search panel in settings.
-urlbar-search-tips-persist = Pe jeheka ko’ág̃a ndahasyieteve. Eheka eikotevẽva ko’ápe kundaharape rendápe. Ehechaukaséramo pe URL, eike Jeheka ñemoĩporãhápe.
+urlbar-search-tips-persist = Pe jeheka ko’ág̃a ndahasyietereive. Eheka eikotevẽva ko’ápe kundaharape rendápe. Ehechaukaséramo pe URL, eike Jeheka ñemoĩporãhápe.
 # Prompts users to use the Urlbar when they are typing in the domain of a
 # search engine, e.g. google.com or amazon.com.
 urlbar-tabtosearch-onboard = Eiporavo ko jeike pya’eha ejuhu pya’eve hag̃ua ehekáva.
@@ -281,7 +281,7 @@ quickactions-print2 = Emonguatia kuatiarogue
 quickactions-cmd-print = Mbokuatia
 # Opens a new private browsing window
 quickactions-private2 = Embojuruja ovetã ñemi
-quickactions-cmd-private = kundaha ñemigua
+quickactions-cmd-private = Ñeikundaha ñemigua
 # Opens a SUMO article explaining how to refresh
 quickactions-refresh = Eguerujey { -brand-short-name }
 quickactions-cmd-refresh = Mbopiro’y
