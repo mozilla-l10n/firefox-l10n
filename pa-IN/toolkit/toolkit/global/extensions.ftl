@@ -82,6 +82,13 @@ webext-site-perms-header-with-gated-perms-midi-sysex = ਇਹ ਐਡ-ਆਨ { $h
 
 ##
 
+# This string is used as description in the webextension permissions dialog for synthetic add-ons.
+# Note, the empty line is used to create a line break between the two sections.
+# Note, this string will be used as raw markup. Avoid characters like <, >, &
+webext-site-perms-description-gated-perms-midi =
+    ਇਹ ਅਕਸਰ ਪਲੱਗ ਲਾਉਣ ਵਾਲੇ ਡਿਵਾਈਸ ਜਿਵੇਂ ਕਿ ਆਡੀਓ ਸਿੰਥੇਸਾਈਜ਼ਰ ਹੁੰਦੇ ਹਨ, ਪਰ ਇਹ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਵਿੱਚ ਵੀ ਮੌਜੂਦ ਹੋ ਸਕਦੇ ਹਨ।
+    
+    ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਅਕਸਰ MIDI ਡਿਵਾਈਸਾਂ ਲਈ ਪਹੁੰਚ ਦੀ ਮਨਜ਼ੂਰੀ ਨਹੀਂ ਹੁੰਦੀ ਹੈ। ਅਢੁੱਕਵੀਂ ਵਰਤੋਂ ਨਾਲ ਨੁਕਸਾਨ ਹੋ ਸਕਦਾ ਹੈ ਜਾਂ ਸੁਰੱਖਿਆ ਨਾਲ ਸਮਝੌਤਾ ਹੋ ਸਕਦਾ ਹੈ।
 
 ## Headers used in the webextension permissions dialog.
 ## Note: This string will be used as raw markup. Avoid characters like <, >, &
