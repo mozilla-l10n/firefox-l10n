@@ -48,6 +48,7 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## is installed as a Snap.
 
 migration-no-permissions-message = { -brand-short-name } har ikke adgang til andre browseres profiler installeret på denne enhed.
+migration-no-permissions-instructions = For at fortsætte med at importere data fra en anden browser skal du give { -brand-short-name } adgang til browserens profilmappe.
 migration-no-permissions-instructions-step1 = Vælg "Fortsæt"
 # The second step in getting permissions to read data for the selected
 # browser type.
