@@ -243,6 +243,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-learnmore = ٻیا سِکھو
 launch-on-login-infobar-reject-button = ہݨ کائناں
     .accesskey = N
 

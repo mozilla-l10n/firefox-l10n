@@ -919,6 +919,9 @@ unified-extensions-button-quarantined =
 
 ## Private browsing reset button
 
+reset-pbm-panel-always-ask-checkbox =
+    .label = ہمیشاں میݙے کنوں پچھو
+    .accesskey = A
 reset-pbm-panel-cancel-button =
     .label = منسوخ
     .accesskey = C
