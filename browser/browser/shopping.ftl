@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Vis reklamer i verificering af anmeldelser
 shopping-settings-recommendations-learn-more = Du vil til tider få vist reklamer for relevante produkter. Alle reklamer skal overholde vores standarder for anmeldelses-kvalitet. <a data-l10n-name="review-quality-url">Læs mere</a>
+shopping-settings-recommendations-learn-more2 = Du vil til tider få vist reklamer for relevante produkter. Vi reklamerer kun for produkter med pålidelige anmeldelser. <a data-l10n-name="review-quality-url">Læs mere</a>
 shopping-settings-opt-out-button = Slå verificering af anmeldelser fra
 powered-by-fakespot = Verificering af anmeldelser er leveret af <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
