@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = Мы используем технолог�
 shopping-analysis-explainer-grades-intro = Мы присваиваем отзывам каждого продукта <strong>буквенную оценку</strong> от A до F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скорректированная оценка</strong> основана только на отзывах, которые мы считаем достоверными.
 shopping-analysis-explainer-learn-more = Узнайте больше о том, <a data-l10n-name="review-quality-url">как { -fakespot-brand-full-name } определяет качество отзывов</a>.
+shopping-analysis-explainer-learn-more2 = Узнайте больше о том, <a data-l10n-name="review-quality-url">как { -fakespot-brand-name } определяет качество отзывов</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -142,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Информации об этих отзывах пока нет
@@ -201,6 +210,7 @@ shopping-onboarding-dynamic-subtitle = Прежде чем совершить п
 shopping-onboarding-dynamic-subtitle-1 = Прежде чем совершить покупку, проверьте, насколько надежны отзывы о продуктах на <b>{ $currentSite }</b>. Проверка отзывов, экспериментальная функция от { -brand-product-name }, встроена прямо в браузер. Она также работает на <b>{ $secondSite }</b> и <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Используя возможности { -fakespot-brand-full-name }, мы помогаем вам избежать предвзятых и недостоверных отзывов. Наша модель искусственного интеллекта постоянно совершенствуется, чтобы защитить вас во время покупок. <a data-l10n-name="learn_more">Подробнее</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Нажимая кнопку «{ shopping-onboarding-opt-in-button }», вы соглашаетесь с <a data-l10n-name="privacy_policy">политикой конфиденциальности</a> и <a data-l10n-name="terms_of_use">условиями использования</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Да, попробовать
 shopping-onboarding-not-now-button = Не сейчас
 shopping-onboarding-dialog-close-button =
