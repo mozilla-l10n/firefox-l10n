@@ -46,7 +46,7 @@ styleeditor-stylesheet-all-filtered = 找不到匹配的样式表。
 styleeditor-stylesheet-rule-count = { $ruleCount } 个规则。
 # Title for the pretty print button in the editor footer.
 styleeditor-pretty-print-button =
-    .title = 美化打印样式表
+    .title = 美化样式表
 # Title for the pretty print button in the editor footer, when it's disabled
 styleeditor-pretty-print-button-disabled =
-    .title = 只能用于美化输出的 CSS 文件
+    .title = 只可用于美化 CSS 文件
