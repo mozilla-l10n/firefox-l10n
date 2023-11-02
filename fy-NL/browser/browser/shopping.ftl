@@ -117,7 +117,7 @@ shopping-review-reliability-label =
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
-    .label = Hoe wy de kwaliteit fan beoardielingen bepale
+    .label = Hoe’t wy de kwaliteit fan beoardielingen bepale
 shopping-analysis-explainer-intro2 =
     Wy brûke AI-technology fan { -fakespot-brand-full-name } om de betrouberens fan produktbeoardielingen te kontrolearjen.
     Dizze analyze sil jo allinnich helpe om de beoardielingskwaliteit te beoardielen, net de produktkwaliteit.
@@ -203,13 +203,13 @@ shopping-onboarding-headline = Probearje ús fertroude gids foar produktbeoardie
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -vendor-short-name }, is streekrjocht yn { -brand-product-name } ynboud – en it wurket yn <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -vendor-short-name }, is streekrjocht yn { -brand-product-name } ynboud – en it wurket ek op <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -brand-product-name }, is streekrjocht yn browser ynboud. It wurket ek yn <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle-1 = Besjoch hoe betrouber produktbeoardielingen op <b>{ $currentSite }</b>  binne, eardat jo in oankeap dogge. Beoardelingskontrôle, in eksperimintele funksje fan { -brand-product-name }, is streekrjocht yn de browser ynboud. It wurket ek op <b>{ $secondSite }</b> en <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Mei help fan de krêft fan { -fakespot-brand-full-name } helpe wy jo befoaroardiele en net-autentike beoardielingen foar te kommen. Us AI-model wurdt hieltyd ferbettere om jo te beskermjen wylst jo winkelje. <a data-l10n-name="learn_more">Mear ynfo</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Troch ‘{ shopping-onboarding-opt-in-button }’ te selektearjen, geane jo akkoard mei it <a data-l10n-name="privacy_policy">privacybelied</a> en  de <a data-l10n-name="terms_of_use">brûksbetingsten</a> fan { -fakespot-brand-full-name }.
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Troch ‘{ shopping-onboarding-opt-in-button }’ te selektearjen, geane jo akkoard mei it <a data-l10n-name="privacy_policy">privacybelied</a> en  de <a data-l10n-name="terms_of_use">brûksbetingsten</a> fan { -fakespot-brand-name }.
