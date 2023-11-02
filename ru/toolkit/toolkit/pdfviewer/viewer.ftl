@@ -231,7 +231,7 @@ pdfjs-find-reached-bottom = Достигнут конец документа, п
 #   $total (Number) - the total number of matches in the document
 pdfjs-find-match-count =
     { $total ->
-        [one] { $current } из { $total } совпадений
+        [one] { $current } из { $total } совпадения
         [few] { $current } из { $total } совпадений
        *[many] { $current } из { $total } совпадений
     }
