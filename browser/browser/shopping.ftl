@@ -207,7 +207,7 @@ shopping-onboarding-dynamic-subtitle = Se hur tillförlitliga produktrecensioner
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du köper. Recensionsgranskaren, en experimentell funktion från { -brand-product-name }, är inbyggd direkt i webbläsaren. Det fungerar också på <b>{ $secondSite }</b> och <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle-1 = Se hur tillförlitliga produktrecensioner är på <b>{ $currentSite }</b> innan du köper. Recensionsgranskaren, en experimentell funktion från { -brand-product-name }, är inbyggd direkt i webbläsaren. Den fungerar också på <b>{ $secondSite }</b> och <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Genom att använda kraften i { -fakespot-brand-full-name } hjälper vi dig att undvika partiska och oäkta recensioner. Vår AI-modell förbättras alltid för att skydda dig när du handlar. <a data-l10n-name="learn_more">Läs mer</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-full-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Genom att välja "{ shopping-onboarding-opt-in-button }" godkänner du { -fakespot-brand-name }:s <a data-l10n-name="privacy_policy">integritetspolicy</a> och <a data-l10n-name="terms_of_use">användarvillkor.</a>
