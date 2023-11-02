@@ -26,7 +26,7 @@ shopping-a11y-loading =
 ## Letters are hardcoded and cannot be localized.
 
 shopping-letter-grade-description-ab = Αξιόπιστες κριτικές
-shopping-letter-grade-description-c = Μίγμα αξιόπιστων και αναξιόπιστων κριτικών
+shopping-letter-grade-description-c = Συνδυασμός αξιόπιστων και αναξιόπιστων κριτικών
 shopping-letter-grade-description-df = Αναξιόπιστες κριτικές
 # This string is displayed in a tooltip that appears when the user hovers
 # over the letter grade component without a visible description.
