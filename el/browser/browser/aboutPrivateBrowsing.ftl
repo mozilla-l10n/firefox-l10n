@@ -71,6 +71,7 @@ about-private-browsing-cookie-banners-promo-message = Επιτρέψτε στο 
 # Simplified version of the headline if the original text doesn't work
 # in your language: `{ -brand-short-name } will show fewer cookie requests`
 about-private-browsing-cookie-banners-promo-heading = Το { -brand-short-name } φροντίζει για εσάς τα μηνύματα για cookie
+about-private-browsing-cookie-banners-promo-body = Απορρίπτουμε πλέον αυτόματα πολλά μηνύματα για cookie, ώστε να σας παρακολουθούν λιγότερο και να περιηγείστε στο διαδίκτυο χωρίς περισπασμούς.
 
 ## Strings for Felt Privacy v1 experiments in 119
 
