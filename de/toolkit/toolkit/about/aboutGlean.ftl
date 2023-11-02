@@ -3,15 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### "Glean" and "Glean SDK" should remain in English.
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = { -glean-brand-name }-Debug-Ping-Ansicht
-
 about-glean-page-title2 = Über { -glean-brand-name }
 about-glean-header = Über { -glean-brand-name }
 about-glean-interface-description =
@@ -19,7 +16,6 @@ about-glean-interface-description =
     ist eine Datensammlungsbibliothek, die in { -vendor-short-name }-Projekten verwendet wird.
     Diese Schnittstelle wurde entwickelt, um von Entwicklern und Testern zum
     händischen <a data-l10n-name="fog-link">Testen von Instrumentierung</a> genutzt zu werden.
-
 about-glean-upload-enabled = Das Hochladen von Daten ist aktiviert.
 about-glean-upload-disabled = Das Hochladen von Daten ist deaktiviert.
 about-glean-upload-enabled-local = Das Hochladen von Daten ist nur zum Senden an einen lokalen Server aktiviert.
@@ -29,7 +25,6 @@ about-glean-upload-fake-enabled =
     sodass die Daten trotzdem lokal gespeichert werden.
     Hinweis: Wenn Sie ein Debug-Tag gesetzt haben, werden die Pings  unabhängig von den Einstellungen in der 
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> hochgeladen.
-
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Zu den relevanten <a data-l10n-name="fog-prefs-and-defines-doc-link">Einstellungen und Definitionen</a> gehören:
 # Variables:
@@ -48,7 +43,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-
 about-glean-about-testing-header = Über Testen
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -56,7 +50,6 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">{ -fog-brand-name }-Dokumentation zum Testen der Instrumentierung</a>
     und in der <a data-l10n-name="glean-sdk-doc-link">{ glean-sdk-brand-name }-Dokumentation</a> beschrieben,
     aber kurz gesagt, um manuell zu testen, ob Ihre Instrumentierung funktioniert, sollten Sie Folgendes tun:
-
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (keinen Ping senden)
 # An in-line text input field precedes this string.
@@ -84,7 +77,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Besuchen Sie die Seite des { glean-debug-ping-viewer-brand-name } für Pings mit Ihrem Tag</a>.
     Es sollte nicht mehr als ein paar Sekunden vom Drücken der Schaltfläche bis zur Ankunft Ihres Pings dauern.
     Manchmal kann es ein paar Minuten dauern.
-
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Für weitere <i>Ad-hoc</i>-Tests
@@ -92,10 +84,12 @@ about-glean-adhoc-explanation =
     indem Sie hier auf <code>about:glean</code> eine devtools-Konsole öffnen
     und die <code>testGetValue()</code>-API wie folgt verwenden:
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
-
-
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Bitte beachten Sie, dass Sie die Glean JS API über die devtools-Konsole verwenden.
+    Das bedeutet, dass die metrische Kategorie und der metrische Name in
+    <code>CamelCase</code> formatiert sind, anders als in den Rust und C++ APIs.
 controls-button-label-verbose = Einstellungen übernehmen und Ping senden
-
 about-glean-about-data-header = Über Daten
 about-glean-about-data-explanation =
     Um die Liste der gesammelten Daten zu durchsuchen, können Sie das

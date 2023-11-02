@@ -339,3 +339,11 @@ pdfjs-editor-alt-text-textarea =
 ## Editor resizers
 ## This is used in an aria label to help to understand the role of the resizer.
 
+pdfjs-editor-resizer-label-top-left = Linke obere Ecke - Größe ändern
+pdfjs-editor-resizer-label-top-middle = Oben mittig - Größe ändern
+pdfjs-editor-resizer-label-top-right = Rechts oben - Größe ändern
+pdfjs-editor-resizer-label-middle-right = Mitte rechts - Größe ändern
+pdfjs-editor-resizer-label-bottom-right = Rechte untere Ecke - Größe ändern
+pdfjs-editor-resizer-label-bottom-middle = Unten mittig - Größe ändern
+pdfjs-editor-resizer-label-bottom-left = Linke untere Ecke - Größe ändern
+pdfjs-editor-resizer-label-middle-left = Mitte links - Größe ändern
