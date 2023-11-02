@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Gelişmiş izlenme koruması
     .description = Bu sitede kapalı
     .aria-label = { $host } için korumaları etkinleştir
+protections-panel-etp-toggle-on =
+    .label = Gelişmiş izlenme koruması
+    .description = Bu sitede açık
+    .aria-label = Gelişmiş izlenme koruması: { $host } için açık
+protections-panel-etp-toggle-off =
+    .label = Gelişmiş izlenme koruması
+    .description = Bu sitede kapalı
+    .aria-label = Gelişmiş izlenme koruması: { $host } için kapalı
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Site çalışmıyor mu?
 # The heading/title of the sub-panel view
