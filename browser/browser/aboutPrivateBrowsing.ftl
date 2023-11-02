@@ -64,6 +64,10 @@ about-private-browsing-pin-promo-title = Ei tallennettuja evästeitä tai histor
 about-private-browsing-cookie-banners-promo-header = Evästeilmoitukset poistukaa!
 about-private-browsing-cookie-banners-promo-button = Vähennä evästeisiin liittyviä ilmoituksia
 about-private-browsing-cookie-banners-promo-message = Anna { -brand-short-name }in vastata automaattisesti evästeiden ponnahduspyyntöihin, jotta selaaminen olisi mahdollisimman häiriötöntä. { -brand-short-name } hylkää kaikki pyynnöt, jos mahdollista.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } huolehtii evästeilmoituksista puolestasi
+about-private-browsing-cookie-banners-promo-body = Hylkäämme nyt automaattisesti monet evästeilmoitukset, jotta sinua voidaan seurata vähemmän ja voit palata häiriöttömään selaamiseen.
 
 ## Strings for Felt Privacy v1 experiments in 119
 

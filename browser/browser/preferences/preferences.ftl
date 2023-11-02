@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Pyydä verkkosivustoja olemaan myymättä tai jakamatta tietojani
     .accesskey = s
+non-technical-privacy-header = Sivuston tietosuojakäytännöt
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -972,9 +973,13 @@ cookie-banner-handling-description = { -brand-short-name } pyrkii automaattisest
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Evästeilmoitusten esto
+cookie-banner-blocker-description = Kun sivusto kysyy, voiko se käyttää evästeitä yksityisessä selaustilassa, { -brand-short-name } kieltäytyy automaattisesti puolestasi. Vain tuetuilla sivustoilla.
 cookie-banner-learn-more = Lue lisää
 forms-handle-cookie-banners =
     .label = Vähennä evästeilmoituksia
+cookie-banner-blocker-checkbox-label =
+    .label = Kieltäydy automaattisesti evästeilmoituksista
 
 ## Privacy Section - Address Bar
 
@@ -1005,9 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Pikatoiminnot
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = Viimeisimmät haut
-    .accesskey = V
+addressbar-locbar-showrecentsearches-option =
+    .label = Näytä viimeisimmät haut
+    .accesskey = h
 addressbar-suggestions-settings = Muuta hakukoneiden ehdotusten asetuksia
 addressbar-quickactions-learn-more = Lue lisää
 
