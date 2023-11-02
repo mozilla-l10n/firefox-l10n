@@ -119,6 +119,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Çerez bildirimlerini azaltın
+protections-panel-cookie-banner-blocker-header = Çerez bildirimi engelleyici
 protections-panel-cookie-banner-handling-enabled = Bu sitede açık
 protections-panel-cookie-banner-handling-disabled = Bu sitede kapalı
 protections-panel-cookie-banner-handling-undetected = Bu site şu anda desteklenmiyor
@@ -128,8 +129,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = { $host } için çerez bildirimlerini azaltma kapatılsın mı?
 protections-panel-cookie-banner-view-turn-on-for-site = Bu site için çerez bildirimlerini azaltma açılsın mı?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Çerez bildirimi engelleyici
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = { $host } için çerez bildirimlerini engelleme kapatılsın mı?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Bu site için çerez bildirimlerini engelleme açılsın mı?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } bu sitenin çerezlerini temizleyip sayfayı tazeleyecek. Tüm çerezlerin temizlenmesi oturumunuzu kapatabilir veya alışveriş sepetlerinizi boşaltabilir.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }, desteklenen sitelerdeki tüm çerez isteklerini otomatik olarak reddetmeye çalışır.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Açtığınızda { -brand-short-name } bu sitedeki çerez bildirimlerini otomatik olarak reddetmeye çalışacaktır.
 protections-panel-cookie-banner-view-cancel = Vazgeç
 protections-panel-cookie-banner-view-turn-off = Kapat
 protections-panel-cookie-banner-view-turn-on = Aç

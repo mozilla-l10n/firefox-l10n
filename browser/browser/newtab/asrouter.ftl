@@ -240,6 +240,8 @@ device-migration-fxa-spotlight-link = Daha sonra hatırlat
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>{ -brand-short-name } varsayılan PDF okuyucunuz olsun mu?</strong> Bilgisayarınızdaki kayıtlı PDF’leri okumak ve düzenlemek için { -brand-short-name } tarayıcınızı kullanabilirsiniz.
 pdf-default-notification-set-default-button =
     .label = Varsayılan yap
 pdf-default-notification-decline-button =
@@ -247,6 +249,7 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
+launch-on-login-infobar-message = <strong>Bilgisayarınızı her açtığınızda { -brand-short-name } açılsın mı?</strong> Artık cihazınızı yeniden başlattığınızda { -brand-short-name } tarayıcınızı kendiliğinden açılacak şekilde ayarlayabilirsiniz.
 launch-on-login-learnmore = Daha fazla bilgi alın
 launch-on-login-infobar-confirm-button = Evet, { -brand-short-name } tarayıcısını aç
     .accesskey = a
