@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Werbung im Rezensionsprüfer anzeigen
 shopping-settings-recommendations-learn-more = Sie sehen gelegentlich Anzeigen für relevante Produkte. Alle Anzeigen müssen unseren Qualitätsstandards für Bewertungen entsprechen. <a data-l10n-name="review-quality-url">Weitere Informationen</a>
+shopping-settings-recommendations-learn-more2 = Sie sehen gelegentlich Anzeigen für relevante Produkte. Wir bewerben nur Produkte mit vertrauenswürdigen Bewertungen. <a data-l10n-name="review-quality-url">Weitere Informationen</a>
 shopping-settings-opt-out-button = Rezensionsprüfer abschalten
 powered-by-fakespot = Der Rezensionsprüfer wird bereitgestellt von <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
