@@ -969,9 +969,12 @@ cookie-banner-handling-description = { -brand-short-name }, desteklenen sitelerd
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Çerez bildirimi engelleyici
 cookie-banner-learn-more = Daha fazla bilgi al
 forms-handle-cookie-banners =
     .label = Çerez bildirimlerini azalt
+cookie-banner-blocker-checkbox-label =
+    .label = Çerez bildirimlerini otomatik olarak reddet
 
 ## Privacy Section - Address Bar
 
