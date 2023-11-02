@@ -200,7 +200,7 @@ appmenu-clear-history =
     .label = Clirio Hanes Diweddar…
 appmenu-recent-history-subheader = Hanes Diweddar
 appmenu-recently-closed-tabs =
-    .label = Tabiau Wedi'u Cau'n Ddiweddar
+    .label = Tabiau wedi'u cau'n ddiweddar
 appmenu-recently-closed-windows =
     .label = Ffenestri wedi eu Cau yn Ddiweddar
 # This allows to search through the browser's history.

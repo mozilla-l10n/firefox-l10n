@@ -115,15 +115,15 @@ firefoxview-history-context-delete = Dileu o'r Hanes
 
 ## Open Tabs in this context refers to all open tabs in the browser
 
-firefoxview-opentabs-nav = Agor tabiau
-    .title = Agor tabiau
-firefoxview-opentabs-header = Agor tabiau
+firefoxview-opentabs-nav = Tabiau ar agor
+    .title = Tabiau ar agor
+firefoxview-opentabs-header = Tabiau ar agor
 
 ## Recently closed tabs in this context refers to recently closed tabs from all windows
 
 firefoxview-recently-closed-nav = Tabiau wedi’u cau’n ddiweddar
     .title = Tabiau wedi’u cau’n ddiweddar
-firefoxview-recently-closed-header = Tabiau Wedi'u Cau'n Ddiweddar
+firefoxview-recently-closed-header = Tabiau wedi’u cau’n ddiweddar
 
 ## Tabs from other devices refers in this context refers to synced tabs from other devices
 
