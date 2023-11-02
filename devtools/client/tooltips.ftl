@@ -40,6 +40,14 @@ inactive-css-border-image = Το <strong>{ $property }</strong> δεν έχει 
 inactive-css-ruby-element = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο, επειδή είναι στοιχείο ruby. Το μέγεθός του καθορίζεται από το μέγεθος γραμματοσειράς του κειμένου ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται στα ψευδοστοιχεία επισήμανσης.
 inactive-css-cue-pseudo-element-not-supported = Το <strong>{ $property }</strong> δεν υποστηρίζεται σε ψευδοστοιχεία ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο επειδή έχει περισσότερες από { $lineCount } γραμμή.
+       *[other] Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο επειδή έχει περισσότερες από { $lineCount } γραμμές.
+    }
+inactive-css-text-wrap-balance-fragmented = Το <strong>{ $property }</strong> δεν έχει καμία επίδραση σε αυτό το στοιχείο επειδή είναι κατακερματισμένο, δηλαδή το περιεχόμενό του διαχωρίζεται σε πολλές στήλες ή σελίδες.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -67,6 +75,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = Δοκιμάστε να 
 inactive-css-border-image-fix = Στο στοιχείο γονικού πίνακα, καταργήστε την ιδιότητα ή αλλάξτε την τιμή του <strong>border-collapse</strong> σε μια τιμή εκτός της <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Δοκιμάστε να αλλάξετε το <strong>font-size</strong> του κειμένου ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Προσπαθήστε να μειώσετε τον αριθμό των γραμμών. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Αποφύγετε τον διαχωρισμό περιεχομένου του στοιχείου, π.χ. αφαιρώντας τις στήλες ή χρησιμοποιώντας το <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

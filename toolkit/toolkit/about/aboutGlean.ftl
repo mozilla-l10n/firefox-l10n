@@ -3,15 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### "Glean" and "Glean SDK" should remain in English.
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Προβολή ping για εντοπισμό σφαλμάτων του { -glean-brand-name }
-
 about-glean-page-title2 = Σχετικά με το { -glean-brand-name }
 about-glean-header = Σχετικά με το { -glean-brand-name }
 about-glean-interface-description =
@@ -19,7 +16,6 @@ about-glean-interface-description =
     μια βιβλιοθήκη συλλογής δεδομένων που χρησιμοποιείται στα έργα της { -vendor-short-name }.
     Αυτό το περιβάλλον χρήστη έχει σχεδιαστεί για τη χειροκίνητη <a data-l10n-name="fog-link">δοκιμή της ενοργάνισης</a>
     από προγραμματιστές και δοκιμαστές.
-
 about-glean-upload-enabled = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη.
 about-glean-upload-disabled = Η μεταφόρτωση δεδομένων είναι απενεργοποιημένη.
 about-glean-upload-enabled-local = Η μεταφόρτωση δεδομένων είναι ενεργοποιημένη μόνο για αποστολή σε τοπικό διακομιστή.
@@ -29,7 +25,6 @@ about-glean-upload-fake-enabled =
     ώστε τα δεδομένα να εξακολουθούν να καταγράφονται τοπικά.
     Σημείωση: Εάν ορίσετε μια ετικέτα ελέγχου σφαλμάτων, τα ping θα μεταφορτώνονται στο
     <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a> ανεξαρτήτως των ρυθμίσεων.
-
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = Οι σχετικές <a data-l10n-name="fog-prefs-and-defines-doc-link">προτιμήσεις και ορισμοί</a> περιλαμβάνουν:
 # Variables:
@@ -48,7 +43,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-
 about-glean-about-testing-header = Σχετικά με τη δοκιμή
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -56,7 +50,6 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">έγγραφα δοκιμής ενοργάνισης του { -fog-brand-name }</a>
     και στην <a data-l10n-name="glean-sdk-doc-link">τεκμηρίωση του { glean-sdk-brand-name }</a>,
     αλλά, εν συντομία, για να ελέγξετε χειροκίνητα ότι η ενοργάνισή σας λειτουργεί, θα πρέπει να:
-
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (χωρίς υποβολή ping)
 # An in-line text input field precedes this string.
@@ -85,7 +78,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Επισκεφτείτε τη σελίδα του { glean-debug-ping-viewer-brand-name } για τα ping με την ετικέτα σας</a>.
     Δεν θα πρέπει να διαρκέσει πάνω από μερικά δευτερόλεπτα από το πάτημα του κουμπιού μέχρι την άφιξη του ping σας.
     Μερικές φορές, ενδέχεται να διαρκέσει λίγα λεπτά.
-
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Για περισσότερες δοκιμές <i>ad hoc</i>,
@@ -93,10 +85,12 @@ about-glean-adhoc-explanation =
     ανοίγοντας μια κονσόλα devtools εδώ στο <code>about:glean</code>
     και χρησιμοποιώντας το <code>testGetValue()</code> API όπως το
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
-
-
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Σημειώστε ότι χρησιμοποιείτε το API του Glean JS μέσω της κονσόλας εργαλείων ανάπτυξης.
+    Αυτό σημαίνει ότι οι κατηγορίες και τα ονόματα των μετρήσεων μορφοποιούνται σε
+    <code>camelCase</code>, σε αντίθεση με τα API των Rust και C++.
 controls-button-label-verbose = Εφαρμογή ρυθμίσεων και υποβολή ping
-
 about-glean-about-data-header = Σχετικά με τα δεδομένα
 about-glean-about-data-explanation =
     Για να περιηγηθείτε στη λίστα των συλλεγμένων δεδομένων, συμβουλευτείτε το
