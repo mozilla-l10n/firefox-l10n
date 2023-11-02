@@ -7,27 +7,46 @@
 
 autofill-manage-addresses-title = Tallennetut osoitteet
 autofill-manage-addresses-list-header = Osoitteet
-
 autofill-manage-credit-cards-title = Tallennetut luottokortit
 autofill-manage-credit-cards-list-header = Luottokortit
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Poista
 autofill-manage-add-button = Lisää…
 autofill-manage-edit-button = Muokkaa…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Tallennetaanko osoite?
+address-capture-save-doorhanger-description = Tallenna tiedot { -brand-short-name }iin, jotta voit täyttää lomakkeita nopeasti.
+address-capture-update-doorhanger-header = Päivitetäänkö osoite?
+address-capture-edit-doorhanger-header = Muokkaa osoitetta
+address-capture-save-button =
+    .label = Tallenna
+    .accessKey = T
+address-capture-not-now-button =
+    .label = Ei nyt
+    .accessKey = N
+address-capture-cancel-button =
+    .label = Peruuta
+    .accessKey = P
+address-capture-update-button =
+    .label = Päivitä
+    .accessKey = Ä
+address-capture-manage-address-button =
+    .label = Osoiteasetukset
+address-capture-learn-more-button =
+    .label = Lue lisää
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Lisää uusi osoite
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Muokkaa osoitetta
-
+autofill-address-name = Nimi
 autofill-address-given-name = Etunimi
 autofill-address-additional-name = Toinen nimi
 autofill-address-family-name = Sukunimi
 autofill-address-organization = Organisaatio
+autofill-address-street-address = Katuosoite
 autofill-address-street = Katuosoite
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +100,20 @@ autofill-address-eircode = Eircode
 
 ##
 
+
+##
+
 autofill-address-country = Maa tai alue
+autofill-address-country-only = Maa
 autofill-address-tel = Puhelin
 autofill-address-email = Sähköposti
-
 autofill-cancel-button = Peruuta
 autofill-save-button = Tallenna
 autofill-country-warning-message = Lomakkeiden automaattitäyttö on tällä hetkellä käytettävissä vain joillekin maille.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Lisää uusi luottokortti
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Muokkaa luottokorttia
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +122,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } yrittää näyttää luottokorttitietoja. Vahvista tämän Windows-tilin käyttöoikeus alla.
        *[other] { -brand-short-name } yrittää esittää luottokorttitietoja.
     }
-
 autofill-card-number = Luottokortti
 autofill-card-invalid-number = Kirjoita kelvollinen luottokortin numero
 autofill-card-name-on-card = Nimi kortissa
