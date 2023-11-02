@@ -14,7 +14,7 @@ column-memory = Cof
 
 ## Special values for the Name column
 
-ghost-windows = Tabiau Wedi'u Cau'n Ddiweddar
+ghost-windows = Tabiau wedi’u cau’n ddiweddar
 # Variables:
 #   $title (String) - the title of the preloaded page, typically 'New Tab'
 preloaded-tab = Rhaglwytho: { $title }
@@ -54,12 +54,11 @@ close-tab =
     .title = Cau tab
 show-addon =
     .title = Dangos yn y Rheolwr Ychwanegion
-
 # Tooltip when hovering an item of the about:performance table
 # Variables:
-#   $totalDispatches (Number) - how many dispatches occured for this page since it loaded
+#   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded
 #   $totalDuration (Number) - how much CPU time was used by this page since it loaded
-#   $dispatchesSincePrevious (Number) - how many dispatches occured in the last 2 seconds
+#   $dispatchesSincePrevious (Number) - how many dispatches occurred in the last 2 seconds
 #   $durationSincePrevious (Number) - how much CPU time was used in the last 2 seconds
 item =
     .title =
