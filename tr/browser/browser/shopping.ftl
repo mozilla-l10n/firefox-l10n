@@ -5,14 +5,14 @@
 shopping-page-title = { -brand-product-name } Alışveriş
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
-shopping-main-container-title = Değerlendirme kontrolcüsü
+shopping-main-container-title = Değerlendirme Kontrolcüsü
 shopping-beta-marker = Beta
 # This string is for ensuring that screen reader technology
 # can read out the "Beta" part of the shopping sidebar header.
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Değerlendirme kontrolcüsü - beta
+    .aria-label = Değerlendirme Kontrolcüsü - beta
 shopping-close-button =
     .title = Kapat
 # This string is for notifying screen reader users that the
@@ -101,6 +101,10 @@ powered-by-fakespot = Değerlendirme kontrolcüsü <a data-l10n-name="fakespot-l
 
 ## Strings for the adjusted rating component
 
+# "Adjusted rating" means a star rating that has been adjusted to include only
+# reliable reviews.
+shopping-adjusted-rating-label =
+    .label = Düzeltilmiş puan
 shopping-adjusted-rating-unreliable-reviews = Güvenilmez değerlendirmeler kaldırıldı
 
 ## Strings for the review reliability component
@@ -113,6 +117,7 @@ shopping-review-reliability-label =
 shopping-analysis-explainer-label =
     .label = Değerlendirme kalitesini nasıl belirliyoruz?
 shopping-analysis-explainer-grades-intro = Her ürünün değerlendirmelerine A’dan F’ye kadar bir <strong>harf notu</strong> veriyoruz.
+shopping-analysis-explainer-adjusted-rating-description = <strong>Düzeltilmiş puan</strong> yalnızca güvenilir olduğunu düşündüğümüz değerlendirmelere dayanır.
 shopping-analysis-explainer-review-grading-scale-reliable = Güvenilir değerlendirmeler. Değerlendirmelerin büyük olasılıkla dürüst, tarafsız incelemeler yazan gerçek müşterilerden geldiğini düşünüyoruz.
 shopping-analysis-explainer-review-grading-scale-mixed = Güvenilir ve güvenilmez değerlendirmelerin bir karışımı olduğunu düşünüyoruz.
 shopping-analysis-explainer-review-grading-scale-unreliable = Güvenilmez değerlendirmeler. Değerlendirmelerin büyük ihtimalle sahte olduğunu veya önyargılı kişilerden geldiğini düşünüyoruz.
@@ -131,7 +136,16 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
 shopping-unanalyzed-product-header-2 = Bu değerlendirmeler hakkında henüz bilgi yok
+shopping-unanalyzed-product-message-2 = Bu ürünle ilgili değerlendirmelerin güvenilir olup olmadığını öğrenmek için değerlendirme kalitesini kontrol edin. Yaklaşık 60 saniye sürer.
 shopping-unanalyzed-product-analyze-button = Değerlendirme kalitesini kontrol et
 
 ## Strings for the advertisement
@@ -141,6 +155,7 @@ ad-by-fakespot = { -fakespot-brand-name } reklamı
 ## Shopping survey strings.
 
 shopping-survey-headline = { -brand-product-name }’u geliştirmemize yardımcı olun
+shopping-survey-question-one = { -brand-product-name }’taki değerlendirme kontrolcüsü deneyiminden ne kadar memnunsunuz?
 shopping-survey-q1-radio-1-label = Çok memnunum
 shopping-survey-q1-radio-2-label = Memnunum
 shopping-survey-q1-radio-3-label = Normal
@@ -162,9 +177,11 @@ shopping-survey-thanks =
 ## access the feature.
 
 shopping-callout-pdp-opted-in-title = Bu değerlendirmeler güvenilir mi? Hızlıca öğrenin.
+shopping-callout-closed-not-opted-in-title = Güvenilir değerlendirmeler bir tık uzağınızda
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Ürün değerlendirmelerine ilişkin güvenilir kılavuzumuzu deneyin
 shopping-onboarding-opt-in-button = Evet, deneyeceğim
 shopping-onboarding-not-now-button = Şimdi değil
 shopping-onboarding-dialog-close-button =
