@@ -223,3 +223,22 @@ fxa-sync-cfr-secondary = Smekti-y-id ticki
 device-migration-fxa-spotlight-header = Aseqdec n yibenk aqbur?
 device-migration-fxa-spotlight-primary-button = Amek ara ḥerzeɣ isefka-w
 device-migration-fxa-spotlight-link = Smekti-y-id ticki
+
+## Set as Default PDF Reader Infobar
+
+pdf-default-notification-set-default-button =
+    .label = Sbadu-t d amezwer
+pdf-default-notification-decline-button =
+    .label = Mačči tura
+
+## Launch on login infobar notification
+
+launch-on-login-learnmore = Issin ugar
+launch-on-login-infobar-reject-button = Mačči tura
+    .accesskey = M
+
+## These string variants are used when the “launch on login” infobar
+## notification is displayed for a second time.
+
+launch-on-login-infobar-final-reject-button = Ala, tanemmirt
+    .accesskey = A
