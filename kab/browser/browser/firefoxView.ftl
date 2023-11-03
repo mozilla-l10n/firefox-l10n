@@ -36,6 +36,7 @@ firefoxview-tabpickup-synctabs-learn-how = Issin amek
 firefoxview-tabpickup-synctabs-primarybutton = Mtawi accaren yeldin
 firefoxview-syncedtabs-synctabs-header = Leqqem iɣewwaren n umtawi
 firefoxview-syncedtabs-synctabs-checkbox = Sireg accaren yeldin i umtawi
+firefoxview-syncedtabs-loading-header = Amtawi iteddu
 firefoxview-tabpickup-fxa-admin-disabled-header = Takebbanit-ik·im tessens amtawi
 firefoxview-tabpickup-fxa-admin-disabled-description = { -brand-short-name } ur yezmir ara ad yemtawi accaren gar yibenkan acku anedbal-ik·im issens amtawi.
 firefoxview-tabpickup-network-offline-header = senqed tuqqna-k·m internet
@@ -185,8 +186,6 @@ firefoxview-import-history-close-button =
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = Qqen ibenk-nniḍen

@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Nɣel aseɣwen
     .accesskey = A
 fxviewtabrow-close-tab = Mdel Iccer
     .accesskey = M
+fxviewtabrow-move-tab = Senkez iccer
+    .accesskey = n
+fxviewtabrow-move-tab-start = Senkez akken ad tebḍuḍ
+    .accesskey = S
+fxviewtabrow-move-tab-end = Senkez akken ad tfakeḍ
+    .accesskey = F
+fxviewtabrow-move-tab-window = Senkez ɣer usfaylu amaynut
+    .accesskey = U
+fxviewtabrow-send-tab = Azen iccer ɣer yibenk
+    .accesskey = n
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
