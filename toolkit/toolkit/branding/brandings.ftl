@@ -33,7 +33,7 @@
 # Note the name of the website is capitalized.
 -fakespot-website-name = Fakespot.com
 # The particle "by" can be localized, "Fakespot" and "Mozilla" should not be localized or transliterated.
--fakespot-brand-full-name = Fakespot 由 Mozilla 支持
+-fakespot-brand-full-name = 由 Mozilla 支持的 Fakespot
 # “Suggest” can be localized, “Firefox” must be treated as a brand
 # and kept in English.
 -firefox-suggest-brand-name = Firefox 建议
