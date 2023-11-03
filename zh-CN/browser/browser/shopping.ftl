@@ -118,12 +118,10 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = 我们判断评价质量的流程
-shopping-analysis-explainer-intro2 =
-    我们使用 { -fakespot-brand-full-name } 的人工智能技术来核查商品评价的可信度。
-    核查结果只能辅助您评估评价的质量，不能反映商品质量。
+shopping-analysis-explainer-intro2 = 我们使用 { -fakespot-brand-full-name } 的人工智能技术来核查商品评价的可信度。核查结果只能辅助您评估评价的质量，不能反映商品质量。
 shopping-analysis-explainer-grades-intro = 我们会以<strong>字母等级</strong>（从 A 到 F）给商品评价打分。
 shopping-analysis-explainer-adjusted-rating-description = <strong>调整后的评分</strong>仅基于我们认为可信的评价作出。
-shopping-analysis-explainer-learn-more = 详细了解<a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 判断评价质量的方式</a>。
+shopping-analysis-explainer-learn-more = 详细了解 <a data-l10n-name="review-quality-url">{ -fakespot-brand-full-name } 判断评价质量的方式</a>。
 shopping-analysis-explainer-learn-more2 = 详细了解 <a data-l10n-name="review-quality-url">{ -fakespot-brand-name } 判断评价质量的方式</a>。
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
@@ -192,7 +190,7 @@ shopping-survey-thanks =
 shopping-callout-closed-opted-in-subtitle = 点击此价签图标即可再次打开<strong>核查评价</strong>。
 shopping-callout-pdp-opted-in-title = 这些评价是否可信？快速了解一下。
 shopping-callout-pdp-opted-in-subtitle = 打开核查评价，查看基于可信评价调整后的评分，另外还可查看近期最有帮助的评价。
-shopping-callout-closed-not-opted-in-title = 一键筛选可信评价
+shopping-callout-closed-not-opted-in-title = 一键获取可信评价
 shopping-callout-closed-not-opted-in-subtitle = 点击“价签”图标即可打开核查评价，在购买前一览真实买家的反馈。
 
 ## Onboarding message strings.
