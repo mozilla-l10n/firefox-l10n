@@ -122,6 +122,7 @@ shopping-analysis-explainer-intro2 = ਅਸੀਂ ਉਤਪਾਦਾਂ ਦੇ �
 shopping-analysis-explainer-grades-intro = ਅਸੀਂ ਹਰ ਉਤਪਾਦ ਦੇ ਰੀਵਿਊ ਲਈ A ਤੋਂ F ਤੱਕ <strong>ਅੱਖਰ ਅਧਾਰਿਤ ਦਰਜਾ</strong> ਦਿੱਤਾ ਹੈ।
 shopping-analysis-explainer-adjusted-rating-description = <strong>ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ</strong> ਸਾਡੇ ਵਲੋਂ ਸਿਰਫ਼ ਭਰੋਸੇਯੋਗ ਮੰਨੇ ਗਏ ਰੀਵਿਊ ਦੇ ਆਧਾਰ ਉੱਤੇ ਹੈ।
 shopping-analysis-explainer-learn-more = ਜਾਣੋ ਕਿ <a data-l10n-name="review-quality-url">ਕਿਵੇਂ { -fakespot-brand-full-name } ਰੀਵਿਊ ਕੁਆਲਟੀ ਦਾ ਪਤਾ ਲਾਉਂਦਾ ਹੈ</a>।
+shopping-analysis-explainer-learn-more2 = ਜਾਣੋ ਕਿ <a data-l10n-name="review-quality-url">ਕਿਵੇਂ { -fakespot-brand-name } ਰੀਵਿਊ ਕੁਆਲਟੀ ਦਾ ਪਤਾ ਲਾਉਂਦਾ ਹੈ</a>।
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -195,6 +196,7 @@ shopping-callout-closed-not-opted-in-title = ਭਰੋਸੇਯੋਗ ਰੀਵ�
 shopping-onboarding-headline = ਉਤਪਾਦ ਰੀਵਿਊ ਲਈ ਸਾਡੀ ਭਰੋਸੇਯੋਗ ਗਾਈਡ ਨੂੰ ਅਜ਼ਮਾਓ
 shopping-onboarding-body = { -fakespot-brand-full-name } ਦੇ ਰਾਹੀਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਪੱਖਪਾਤੀ ਅਤੇ ਗ਼ੈਰ-ਪ੍ਰਮਾਣਿਤ ਰੀਵਿਊਆਂ ਤੋਂ ਬਚਾਅ ਸਕਦੇ ਹਾਂ। ਸਾਡਾ AI ਮਾਡਲ ਤੁਹਾਨੂੰ ਖਰੀਦਦਾਰੀ ਕਰਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਹਮੇਸ਼ਾਂ ਸੁਧਾਰ ਕਰ ਰਿਹਾ ਹੈ। <a data-l10n-name="learn_more">ਹੋਰ ਜਾਣੋ</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-full-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-button = ਹਾਂ, ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ
 shopping-onboarding-not-now-button = ਹੁਣੇ ਨਹੀਂ
 shopping-onboarding-dialog-close-button =
