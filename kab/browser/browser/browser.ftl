@@ -614,6 +614,11 @@ urlbar-group-search-suggestions =
 # A label shown above Quick Actions in the urlbar results.
 urlbar-group-quickactions =
     .label = Tigawin tiruradin
+# A label shown above the recent searches group in the urlbar results.
+# Variables
+#  $engine (String): the name of the search engine used to search.
+urlbar-group-recent-searches =
+    .label = Inadiyen n melmi kan
 
 ## Reader View toolbar buttons
 
@@ -905,6 +910,12 @@ unified-extensions-button-permissions-needed =
 unified-extensions-button-quarantined =
     .label = Isiɣzaf
     .tooltiptext = Asiɣzef
+
+## Private browsing reset button
+
+reset-pbm-panel-cancel-button =
+    .label = Sefsex
+    .accesskey = S
 
 ## Autorefresh blocker
 
