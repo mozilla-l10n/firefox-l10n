@@ -189,7 +189,7 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = 点击“价签”图标即可打开<strong>核查评价</strong>
+shopping-callout-closed-opted-in-subtitle = 点击此价签图标即可再次打开<strong>核查评价</strong>。
 shopping-callout-pdp-opted-in-title = 这些评价是否可信？快速了解一下。
 shopping-callout-pdp-opted-in-subtitle = 打开核查评价，查看基于可信评价调整后的评分，另外还可查看近期最有帮助的评价。
 shopping-callout-closed-not-opted-in-title = 一键筛选可信评价
