@@ -7,27 +7,42 @@
 
 autofill-manage-addresses-title = Tansiwin ittwakelsen
 autofill-manage-addresses-list-header = Tansiwin
-
 autofill-manage-credit-cards-title = Tikaṛḍiwin n uselek ittwakelsen
 autofill-manage-credit-cards-list-header = Takaṛḍa n usmad
-
 autofill-manage-dialog =
     .style = min-width: 560px
 autofill-manage-remove-button = Kkes
 autofill-manage-add-button = Rnu…
 autofill-manage-edit-button = Ẓreg…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Sekles tansa?
+address-capture-edit-doorhanger-header = Ẓreg tansa
+address-capture-save-button =
+    .label = Sekles
+    .accessKey = S
+address-capture-not-now-button =
+    .label = Mačči tura
+    .accessKey = M
+address-capture-cancel-button =
+    .label = Sefsex
+    .accessKey = S
+address-capture-update-button =
+    .label = Leqqem
+    .accessKey = L
+address-capture-learn-more-button =
+    .label = Issin ugar
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Rnu tansa tamaynut
 # The dialog title for editing addresses in browser preferences.
 autofill-edit-address-title = Ẓreg tansa
-
+autofill-address-name = Isem
 autofill-address-given-name = Isem n twacult
 autofill-address-additional-name = Isem alemmas
 autofill-address-family-name = Isem
 autofill-address-organization = Takebbanit
+autofill-address-street-address = Tansa n taddart
 autofill-address-street = Tansa n taddart
 
 ## address-level-3 (Sublocality) names
@@ -81,19 +96,20 @@ autofill-address-eircode = Tangalt n irlanda
 
 ##
 
+
+##
+
 autofill-address-country = Tamnaḍt neγ tamurt
+autofill-address-country-only = Tamurt
 autofill-address-tel = Tiliγri
 autofill-address-email = Imayl
-
 autofill-cancel-button = Sefsex
 autofill-save-button = Sekles
 autofill-country-warning-message = Tura akka taččart tawurmant n iferka tella kan i kra tmura.
-
 # The dialog title for creating credit cards in browser preferences.
 autofill-add-new-card-title = Rnu takeṛḍa n usmad tamaynut
 # The dialog title for editing credit cards in browser preferences.
 autofill-edit-card-title = Ẓreg takeṛḍa n usmad
-
 # In macOS, this string is preceded by the operating system with "Firefox is trying to ",
 # and has a period added to its end. Make sure to test in your locale.
 autofill-edit-card-password-prompt =
@@ -102,7 +118,6 @@ autofill-edit-card-password-prompt =
         [windows] { -brand-short-name } ittaεraḍ ad d-sken talɣut n tkarḍa n usmad. Sentem anekcum ɣer usfaylu-a n umiḍan ddaw.
        *[other] { -brand-short-name } yettaεraḍ ad isken talɣut n tkarḍa n usmad.
     }
-
 autofill-card-number = Uṭṭun n tkeṛḍa
 autofill-card-invalid-number = Ma ulac aɣilif, sekcem uṭṭun n tkeṛḍa ameɣtu
 autofill-card-name-on-card = Isem deg tkarḍa

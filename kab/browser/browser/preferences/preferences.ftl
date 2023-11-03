@@ -941,6 +941,9 @@ sitedata-cookies-exceptions =
 ## Privacy Section - Cookie Banner Handling
 
 cookie-banner-handling-header = Asenqes n yiɣarracen n yinagan n tuqqna
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Issin ugar
 forms-handle-cookie-banners =
     .label = Senqes iɣarracen n yinagan n tuqqna
@@ -955,6 +958,9 @@ addressbar-locbar-history-option =
 addressbar-locbar-bookmarks-option =
     .label = Ticraḍ n isebtar
     .accesskey = T
+addressbar-locbar-clipboard-option =
+    .label = Ɣerf afus
+    .accesskey = Ɣ
 addressbar-locbar-openpage-option =
     .label = Iccaren yeldin
     .accesskey = I

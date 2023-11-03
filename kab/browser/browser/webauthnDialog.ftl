@@ -11,6 +11,7 @@ webauthn-pin-invalid-long-prompt =
     }
 webauthn-pin-invalid-short-prompt = PIN d arameɣtu. Ɛreḍ tikelt-nniḍen.
 webauthn-pin-required-prompt = Ttxil-k·m sekcem PIN i yibenk-ik·im.
+webauthn-select-sign-result-unknown-account = Amiḍan arussin
 # Variables:
 #  $retriesLeft (Number): number of tries left
 webauthn-uv-invalid-long-prompt =

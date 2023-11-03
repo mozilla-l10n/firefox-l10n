@@ -6,3 +6,9 @@ screenshots-overlay-cancel-button = Sefsex
 screenshots-overlay-instructions = Zuɣer sakin sit ɣef af usebter akken ad tferneḍ tamnaṭ. Senned  qef ESC akken ad tesfesxeḍ.
 screenshots-overlay-download-button = Sader
 screenshots-overlay-copy-button = Nɣel
+# This string represents the selection size area
+# "x" here represents "by" (i.e 123 by 456)
+# Variables:
+#   $width (Number) - The width of the selection region in pixels
+#   $height (Number) - The height of the selection region in pixels
+screenshots-overlay-selection-region-size = { $width } x { $height }
