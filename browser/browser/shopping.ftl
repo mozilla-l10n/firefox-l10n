@@ -45,7 +45,7 @@ shopping-message-bar-generic-error-message = 我们正努力解决此问题，�
 shopping-message-bar-warning-not-enough-reviews-title = 还没有足够数量的评价
 shopping-message-bar-warning-not-enough-reviews-message2 = 此商品获得更多评价后，我们就能开始分析其评价的质量。
 shopping-message-bar-warning-product-not-available-title = 商品无货
-shopping-message-bar-warning-product-not-available-message2 = 若您发现此商品已有货，请向我们反馈，以便我们核查评论。
+shopping-message-bar-warning-product-not-available-message2 = 若您发现此商品已有货，请向我们反馈，以便我们核查评价。
 shopping-message-bar-warning-product-not-available-button = 反馈此商品已有货
 shopping-message-bar-thanks-for-reporting-title = 感谢反馈！
 shopping-message-bar-thanks-for-reporting-message2 = 我们会在 24 小时内提供此商品的评价分析信息，请记得回来查看。
@@ -99,7 +99,7 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more = 您偶尔会看到相关商品的广告，所有广告均符合我们的评价质量标准。<a data-l10n-name="review-quality-url">详细了解</a>
 shopping-settings-recommendations-learn-more2 = 您会偶尔看到相关产品的广告。我们只宣传获得可靠评价的产品。<a data-l10n-name="review-quality-url">了解更多</a>
 shopping-settings-opt-out-button = 关闭核查评价
-powered-by-fakespot = 核查评价由<a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>提供支持。
+powered-by-fakespot = 核查评价由 <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a> 提供支持。
 
 ## Strings for the adjusted rating component
 
