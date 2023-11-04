@@ -91,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Përjashtime - Mënyra Vetëm-HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të sigurt. Përjashtimet nuk vlejnë për dritare private.
+permissions-exceptions-https-only-desc2 = Mënyrën Vetëm-HTTPS mund ta çaktivizoni për sajte specifike. Për këto sajte, { -brand-short-name }-i s’do të provojë të përmirësojë lidhjen me HTTPS të sigurt.
 
 ## Exceptions - Pop-ups
 
@@ -178,6 +179,9 @@ permissions-site-speaker-window =
     .title = Rregullime - Leje Altoparlanti
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Sajtet vijues kanë kërkuar të përzgjedhin një pajisje zëri në dalje. Mund të përcaktoni cilëve sajte u lejohet të përzgjedhin një pajisje zëri në dalje.
+permissions-exceptions-doh-window =
+    .title = Përjashtime Sajtesh për DNS përmes HTTPS-je
+    .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = { -brand-short-name }-i s’do të përdor DNS të siguruar në këto sajte dhe nënpërkatësitë e tyre.
 permissions-doh-entry-field = Jepni emrin e përkatësisë së sajtit
     .accesskey = p
