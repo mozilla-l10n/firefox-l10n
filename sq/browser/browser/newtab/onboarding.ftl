@@ -326,4 +326,6 @@ mr2022-onboarding-colorways-image-alt =
 onboarding-device-migration-image-alt =
     .aria-label = Një dhelpër në ekranin e një kompjuteri duke përshëndetur. Portativi ka miun të futur në të.
 onboarding-device-migration-title = Mirë se u kthyet!
+onboarding-device-migration-subtitle = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te { -fxaccount-brand-name(capitalization: "sentence") } juaj.
+onboarding-device-migration-subtitle2 = Që të sillni në pajisjen tuaj të re faqerojtësit tuaj, fjalëkalime dhe historik, bëni hyrjen te llogaria juaj.
 onboarding-device-migration-primary-button-label = Hyni

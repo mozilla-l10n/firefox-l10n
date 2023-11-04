@@ -945,6 +945,10 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-why-to-use-relay = Maskat tona të siguruara, të lehta për t’u përdorur mbrojnë identitetin tuaj dhe parandalojnë mesazhe të padëshiruar, duke fshehur adresën tuaj email.
+# Variables:
+#  $useremail (String): user email that will receive messages
+firefox-relay-offer-what-relay-provides = Krejt email-et dërguar te maskat e emal-eve tuaj do të përcillen te <strong>{ $useremail }</strong> (veç në vendosshi t’i bllokoni ato).
 firefox-relay-offer-legal-notice = Duke klikuar mbi “Përdor maskë email-i”, pajtoheni me <label data-l10n-name="tos-url">Kushte Shërbimi</label> dhe <label data-l10n-name="privacy-url">Shënim Privatësie</label>.
 
 ## Add-on Pop-up Notifications

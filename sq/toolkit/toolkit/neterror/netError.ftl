@@ -56,9 +56,11 @@ neterror-dns-not-found-hint-firewall = Kontrolloni nëse ka { -brand-short-name 
 ##   $trrDomain (String) - Hostname of the DNS over HTTPS server that is currently in use.
 
 neterror-dns-not-found-trr-only-reason = { -brand-short-name }-i s’mund ta mbrojë kërkesën tuaj për këtë adresë sajti përmes ftilluesit tonë të besuar për DNS. Ja pse:
+neterror-dns-not-found-trr-third-party-warning2 = Mund të vazhdoni me ftilluesin tuaj parazgjedhje të DNS-ve. Por, një palë e tretë mund të jetë në gjendje të shohë cilat sajte vizitoni.
 neterror-dns-not-found-trr-only-could-not-connect = { -brand-short-name }-i s’qe në gjendje të lidhet me { $trrDomain }.
 neterror-dns-not-found-trr-only-timeout = Lidhja me { $trrDomain } zgjati më shumë se ç’pritej.
 neterror-dns-not-found-trr-offline = S’jeni i lidhur në internet.
+neterror-dns-not-found-trr-unknown-host2 = Ky sajt s’u gjet nga { $trrDomain }.
 neterror-dns-not-found-trr-server-problem = Pati një problem me { $trrDomain }.
 neterror-dns-not-found-bad-trr-url = URL e pavlefshme.
 neterror-dns-not-found-trr-unknown-problem = Problem i papritur.
