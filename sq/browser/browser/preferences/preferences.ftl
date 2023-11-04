@@ -472,6 +472,9 @@ browsing-use-onscreen-keyboard =
 browsing-use-cursor-navigation =
     .label = Përdor përherë taste kursori për lëvizje brenda faqesh
     .accesskey = u
+browsing-use-full-keyboard-navigation =
+    .label = Përdorni tastin Tab për të kaluar fokusin nga kontrollet e formularit te lidhjet dhe anasjelltas
+    .accesskey = T
 browsing-search-on-start-typing =
     .label = Kërko për tekst, kur niset të shtypet
     .accesskey = t
@@ -731,6 +734,7 @@ prefs-syncing-button =
 
 ## The list of things currently syncing.
 
+sync-syncing-across-devices-heading = Po bëni njëkohësim të këtyre objekteve në krejt pajisjet tuaja të lidhura:
 sync-currently-syncing-bookmarks = Faqerojtës
 sync-currently-syncing-history = Historik
 sync-currently-syncing-tabs = Skeda të hapura
@@ -752,6 +756,7 @@ sync-choose-what-to-sync-dialog3 =
     .buttonaccesskeyaccept = R
     .buttonlabelextra2 = Shkëputni…
     .buttonaccesskeyextra2 = u
+sync-choose-dialog-subtitle = Ndryshimet te lista e objekteve për t’u njëkohësuar do të pasqyrohen nëpër krejt pajisjet tuaja të lidhura.
 sync-engine-bookmarks =
     .label = Faqerojtës
     .accesskey = F
@@ -943,6 +948,8 @@ sitedata-option-block-cross-site-tracking-cookies =
     .label = Cookies gjurmimi nga sajte në sajte
 sitedata-option-block-unvisited =
     .label = Cookies nga sajte të pavizituar
+sitedata-option-block-all-cross-site-cookies =
+    .label = Krejt cookie-t “cross-site” (mund të shkaktojë mosfunksionim të disa sajteve)
 sitedata-option-block-all =
     .label = Krejt cookie-t (do të shkaktojë mosfunksionim sajtesh)
 sitedata-clear =
@@ -962,9 +969,13 @@ cookie-banner-handling-description = { -brand-short-name }-i provon të hedhë p
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Bllokues Banderolash Cookie-sh
+cookie-banner-blocker-description = Kur një sajt pyet nëse mund të përdorë “cookies” nën mënyrën shfletim privat, { -brand-short-name }-i i hedh poshtë automatikisht për ju. Vetëm në sajte që e mbulojnë këtë veprim.
 cookie-banner-learn-more = Mësoni Më Tepër
 forms-handle-cookie-banners =
     .label = Redukto Banderola për Cookie-t
+cookie-banner-blocker-checkbox-label =
+    .label = Hidhni poshtë automatikisht banderola cookie-sh
 
 ## Privacy Section - Address Bar
 
@@ -1007,6 +1018,10 @@ content-blocking-enhanced-tracking-protection = Mbrojtje e Thelluar Nga Gjurmimi
 content-blocking-section-top-level-description = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name }-i bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
 content-blocking-learn-more = Mësoni më tepër
 content-blocking-fpi-incompatibility-warning = Po përdorni Izolim Pale të Parë (FPI), çka anashkalon disa nga rregullimet për cookie-t në { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Po përdorni Resist Fingerprinting (RFP), që zëvendëson disa nga rregullimet e { -brand-short-name }-it për mbrojtje ndaj krijimi shenjash gishtash. Kjo mund të sjellë prishjen e funksionimit të disa sajteve.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1029,6 +1044,7 @@ content-blocking-etp-strict-desc = Mbrojtje më e fortë, por mund të shkaktoj�
 content-blocking-etp-custom-desc = Zgjidhni cilët gjurmues dhe programthe të bllokohen.
 content-blocking-etp-blocking-desc = { -brand-short-name }-i bllokon as vijon:
 content-blocking-private-windows = Lëndë gjurmimi në Dritare Private
+content-blocking-cross-site-cookies-in-all-windows2 = “Cross-site cookies” në krejt dritaret
 content-blocking-cross-site-tracking-cookies = Cookies gjurmimi nga sajte në sajte
 content-blocking-all-cross-site-cookies-private-windows = “Cross-site cookies” në Dritare Private
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-t për gjurmim nga sajti në sajt dhe izolo cookie-t e mbetura
@@ -1038,6 +1054,10 @@ content-blocking-unvisited-cookies = Cookies nga sajte të pavizituar
 content-blocking-all-windows-tracking-content = Gjurmim lënde në krejt dritaret
 content-blocking-cryptominers = Nxjerrës kriptomonedhash
 content-blocking-fingerprinters = Krijues shenjash gishtash
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Krijues shenjash gishtash të dyshuar dhe të ditur
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1232,6 +1252,7 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS përmes HTTPS-je
+preferences-doh-description = Domain Name System (DNS) përmes HTTPS-së e dërgon kërkesën tuaj për një emër përkatësie përmes një lidhjeje të fshehtëzuar, duke krijuar një DNS të siguruar dhe duke e bërë më të vështirë për të tjerët të shohin se në cilin sajt po shkoni.
 # Variables:
 #   $status (string) - The status of the DoH connection
 preferences-doh-status = Gjendje: { $status }
@@ -1253,9 +1274,11 @@ preferences-doh-expand-section =
 preferences-doh-setting-default =
     .label = Mbrojtje Parazgjedhje
     .accesskey = M
+preferences-doh-default-desc = { -brand-short-name }-i vendos kur të përdoret DNS i siguruar, për të mbrojtur privatësinë tuaj.
 preferences-doh-default-detailed-desc-1 = Në rajone ku është e mundur, përdor DNS të siguruar
 preferences-doh-default-detailed-desc-2 = Përdorni ftilluesin tuaj parazgjedhje DNS, nëse ka ndonjë problem me furnizuesin e DNS-së të siguruar
 preferences-doh-default-detailed-desc-3 = Përdor një furnizues vendor, në qoftë e mundur
+preferences-doh-default-detailed-desc-4 = Çaktivizoje, kur janë aktive VPN-ja, kontrolli prindëror dhe rregulla ndërmarrjeje
 preferences-doh-setting-enabled =
     .label = Shtim Mbrojtjeje
     .accesskey = M
