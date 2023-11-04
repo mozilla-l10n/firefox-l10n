@@ -945,6 +945,7 @@ refresh-blocked-allow =
 
 ## Firefox Relay integration
 
+firefox-relay-offer-legal-notice = Duke klikuar mbi “Përdor maskë email-i”, pajtoheni me <label data-l10n-name="tos-url">Kushte Shërbimi</label> dhe <label data-l10n-name="privacy-url">Shënim Privatësie</label>.
 
 ## Add-on Pop-up Notifications
 
