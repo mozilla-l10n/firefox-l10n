@@ -323,5 +323,7 @@ mr2022-onboarding-colorways-image-alt =
 
 ## Device migration onboarding
 
+onboarding-device-migration-image-alt =
+    .aria-label = Një dhelpër në ekranin e një kompjuteri duke përshëndetur. Portativi ka miun të futur në të.
 onboarding-device-migration-title = Mirë se u kthyet!
 onboarding-device-migration-primary-button-label = Hyni
