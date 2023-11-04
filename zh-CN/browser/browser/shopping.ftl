@@ -117,7 +117,7 @@ shopping-review-reliability-label =
 ## Strings for the analysis explainer component
 
 shopping-analysis-explainer-label =
-    .label = 我们判断评价质量的流程
+    .label = 我们判断评价质量的方式
 shopping-analysis-explainer-intro2 = 我们使用 { -fakespot-brand-full-name } 的人工智能技术来核查商品评价的可信度。核查结果只能辅助您评估评价的质量，不能反映商品质量。
 shopping-analysis-explainer-grades-intro = 我们会以<strong>字母等级</strong>（从 A 到 F）给商品评价打分。
 shopping-analysis-explainer-adjusted-rating-description = <strong>调整后的评分</strong>仅基于我们认为可信的评价作出。
