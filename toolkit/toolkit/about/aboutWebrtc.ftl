@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = AEC kaydını başlat
 about-webrtc-aec-logging-on-state-label = AEC kaydını durdur
 about-webrtc-aec-logging-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
 about-webrtc-aec-logging-toggled-on-state-msg = AEC kaydı etkin (Arayanla birkaç dakika konuştuktan sonra yakalamayı durdurun)
+about-webrtc-aec-logging-unavailable-sandbox = AEC günlüklerini dışa aktarmak için MOZ_DISABLE_CONTENT_SANDBOX=1 ortam değişkeni gerekiyor. Bu değişkeni yalnızca olası risklerin farkındaysanız ayarlayın.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Yakalanan günlük dosyaları şurada bulunabilir: { $path }
