@@ -201,7 +201,14 @@ shopping-onboarding-headline = Eiporu ore apopyre guataha rechajey jeroviahápe
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Ehechajey iporãha umi marandu’i apopyre rehegua <b>{ $currentSite }</b> ndive ejogua mboyve. Pe marandu’i rechajeyha, { -vendor-short-name } rembiapoite pyahu, ojuaju { -brand-product-name } ndive ha ojeporu <b>{ $secondSite }</b> ha <b>{ $thirdSite }</b> ndive.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
 shopping-onboarding-dynamic-subtitle-1 = Ehechajey iporãha umi marandu’i apopyre rehegua <b>{ $currentSite }</b> ndive ejogua mboyve. Pe marandu’i rechajeyha, { -brand-product-name } mba’epyahúva, ojuaju kundahaite ndive. Avei ojeporu <b>{ $secondSite }</b> ha <b>{ $thirdSite }</b> ndive.
+shopping-onboarding-body = Eiporúvo tembiporupyahu { -fakespot-brand-full-name } mba’éva, roipytyvõta emboyke hag̃ua marandu’ivai ha hekotee’ỹva. Ore IA iporãve ñemo’ã hag̃ua emba’ejogua aja. <a data-l10n-name="learn_more">Eikuaave</a>
 shopping-onboarding-opt-in-button = Héẽ, eiporu
 shopping-onboarding-not-now-button = Ani ko’ág̃a
 shopping-onboarding-dialog-close-button =
