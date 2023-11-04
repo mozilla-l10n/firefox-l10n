@@ -16,6 +16,7 @@ learn-more = <span data-l10n-name="link">Mësoni më tepër</span>
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është as kontejner fleks, as kontejner rrjetë.
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është kontejner fleks, kontejner rrjetë apo kontejner shumështyllësh.
+inactive-css-not-multicol-container = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është kontejner me shumë shtylla.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është objekt rrjetë apo fleks.
 inactive-css-not-grid-item = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është objekt rrjetë.
 inactive-css-not-grid-container = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’është kontejner rrjetë.
@@ -37,6 +38,7 @@ inactive-css-not-table-cell = <strong>{ $property }</strong> s’ka efekt mbi k�
 inactive-scroll-padding-when-not-scroll-container = <strong>{ $property }</strong> s’ka ndikim mbi këtë element, ngaqë ky nuk kryen rrëshqitje.
 inactive-css-border-image = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë s’mund të aplikohet mbi elementë tabelash të brendshme, kur <strong>border-collapse</strong> është caktuar si <strong>collapse</strong>, te elementi i tabelës mëmë.
 inactive-css-ruby-element = <strong>{ $property }</strong> s’ka efekt mbi këtë element, ngaqë është një element ruby. Madhësia e tij përcaktohet nga madhësia e shkronjave të tekstit ruby.
+inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nuk mbulohet për pseudo-elementë të theksuar.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nuk mbulohet për ::cue pseudo-elements.
 # Variables:
 #   $lineCount (integer) - The number of lines the element has.
@@ -73,6 +75,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = Provoni të shtoni <stro
 inactive-css-border-image-fix = Te elementi i tabelës mëmë, hiqni vetinë ose ndryshoni vlerën <strong>border-collapse</strong> me një vlerë tjetër nga <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Provoni të ndryshoni <strong>font-size</strong> të tekstit Ruby. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Provoni të ulni numrin e rreshtave. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Shmangni ndarjen e lëndës së elementit, p.sh., duke hequr shtylla, ose duke përdorur <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
