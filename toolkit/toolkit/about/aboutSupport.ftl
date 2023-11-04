@@ -18,6 +18,7 @@ support-addons-type = Lloj
 support-addons-enabled = E aktivizuar
 support-addons-version = Version
 support-addons-id = ID
+legacy-user-stylesheets-title = Fletëstile Përdoruesi të Dikurshme
 legacy-user-stylesheets-enabled = Aktive
 legacy-user-stylesheets-stylesheet-types = Fletëstile
 legacy-user-stylesheets-no-stylesheets-found = S’u gjetën fletëstile
