@@ -201,8 +201,8 @@ about-logins-confirm-remove-all-sync-dialog-message =
     }
 about-logins-confirm-remove-all-sync-dialog-message2 =
     { $count ->
-        [1] Kjo do të heqë kredencialet e hyrjes që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S"do të jeni në gjendje të zhbëni këtë veprim.
-       *[other] This will remove all logins you’ve saved to { -brand-short-name } on all devices synced to your account. This will also remove breach alerts that appear here. You won’t be able to undo this action.
+        [1] Kjo do të heqë kredencialet e hyrjes që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
+       *[other] Kjo do të heqë krejt kredencialet e hyrjeve që keni ruajtur te { -brand-short-name } në krejt pajisjet e njëkohësuara me llogarinë tuaj. Kjo do të heqë gjithashtu sinjalizime cenimesh që shfaqen këtu. S’do të jeni në gjendje të zhbëni këtë veprim.
     }
 
 ##
