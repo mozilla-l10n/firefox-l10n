@@ -99,7 +99,7 @@ shopping-settings-recommendations-toggle =
 shopping-settings-recommendations-learn-more = დროდადრო იხილავთ რეკლამებს გასაყიდი ნაწარმის შესაბამისად. ყველა რეკლამა უნდა აკმაყოფილებდეს მიმოხილვის ხარისხის ჩვენს მოთხოვნებს. <a data-l10n-name="review-quality-url">ვრცლად</a>
 shopping-settings-recommendations-learn-more2 = დროდადრო იხილავთ რეკლამებს გასაყიდი ნაწარმის შესაბამისად. მხოლოდ საიმედო მიმოხილვების მქონეს შემოგთავაზებთ. <a data-l10n-name="review-quality-url">ვრცლად</a>
 shopping-settings-opt-out-button = მიმოხილვის შემმოწმებლის გამორთვა
-powered-by-fakespot = მიმოხილვის შემმოწმებელს უზრუნველყოფს <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
+powered-by-fakespot = მიმოხილვის შემმოწმებლის უზრუნველმყოფია <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
 
 ## Strings for the adjusted rating component
 
@@ -201,7 +201,7 @@ shopping-onboarding-headline = გამოცადეთ ჩვენი ს�
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდოა <b>{ $currentSite }</b> საიტზე გასაყიდი ნაწარმის მიმოხილვები. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა { -vendor-short-name }-ისგან, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name } — და მხარდაჭერილია <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები საიტზე <b>{ $currentSite }</b>. მიმოხილვის შემმოწმებელი საცდელი შესაძლებლობაა { -vendor-short-name }-სგან, რომელიც თან მოჰყვება { -brand-product-name }-ს — მხარდაჭერილია აგრეთვე <b>{ $secondSite }</b> და კიდევ <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
