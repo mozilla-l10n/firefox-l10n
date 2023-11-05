@@ -129,7 +129,7 @@ shopping-analysis-explainer-learn-more2 = იხილეთ ვრცლად,
 shopping-analysis-explainer-highlights-description = <strong>გამოსარჩევი</strong> ბოლო 80 დღეში { $retailer }-ის სანდოდ მიჩნეული მიმოხილვებიდან.
 shopping-analysis-explainer-review-grading-scale-reliable = სანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად სანდო მომხმარებლების დატოვებულია პატიოსნად და მიუკერძოებლად.
 shopping-analysis-explainer-review-grading-scale-mixed = მიგვაჩნია, რომ შერეულადაა სანდო და არასანდო მიმოხილვები.
-shopping-analysis-explainer-review-grading-scale-unreliable = არასანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები, სავარაუდოდ, ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
+shopping-analysis-explainer-review-grading-scale-unreliable = არასანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
 
 ## Strings for UrlBar button
 
