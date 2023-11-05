@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Tehostettu seurannan suojaus
     .description = Ei käytössä tällä sivustolla
     .aria-label = Ota suojaukset käyttöön sivustolla { $host }
+protections-panel-etp-toggle-on =
+    .label = Tehostettu seurannan suojaus
+    .description = Käytössä tällä sivustolla
+    .aria-label = Tehostettu seurannan suojaus: Käytössä sivustolla { $host }
+protections-panel-etp-toggle-off =
+    .label = Tehostettu seurannan suojaus
+    .description = Ei käytössä tällä sivustolla
+    .aria-label = Tehostettu seurannan suojaus: Ei käytössä sivustolla { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Eikö sivusto toimi?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Evästeilmoitusten vähennys
+protections-panel-cookie-banner-blocker-header = Evästeilmoitusten esto
 protections-panel-cookie-banner-handling-enabled = Käytössä tällä sivustolla
 protections-panel-cookie-banner-handling-disabled = Ei käytössä tällä sivustolla
 protections-panel-cookie-banner-handling-undetected = Sivusto ei ole tuettu tällä hetkellä
@@ -128,8 +137,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Haluatko poistaa evästeilmoitusten vähennystoiminnon käytöstä sivustolla { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Haluatko ottaa evästeilmoitusten vähennystoiminnon käyttöön tällä sivustolla?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Evästeilmoitusten esto
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Haluatko poistaa evästeilmoitusten eston käytöstä sivustolla { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Haluatko ottaa evästeilmoitusten eston käyttöön tällä sivustolla?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } poistaa tämän sivuston evästeet ja päivittää sivun. Kaikkien evästeiden poistaminen saattaa kirjata sinut ulos tai tyhjentää ostoskorit.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } pyrkii automaattisesti vastaamaan kieltävästi kaikkiin evästepyyntöihin tuetuilla sivustoilla.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ota käyttöön ja { -brand-short-name } yrittää automaattisesti hylätä evästeilmoitukset tällä sivustolla.
 protections-panel-cookie-banner-view-cancel = Peruuta
 protections-panel-cookie-banner-view-turn-off = Poista käytöstä
 protections-panel-cookie-banner-view-turn-on = Ota käyttöön
