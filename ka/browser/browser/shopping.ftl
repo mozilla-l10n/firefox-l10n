@@ -25,7 +25,7 @@ shopping-a11y-loading =
 ## Letter A indicates the highest grade, and F indicates the lowest grade.
 ## Letters are hardcoded and cannot be localized.
 
-shopping-letter-grade-description-ab = სანდო მიმოხილვები
+shopping-letter-grade-description-ab = სანდოა მიმოხილვები
 shopping-letter-grade-description-c = შერეულადაა სანდო და არასანდო მიმოხილვები
 shopping-letter-grade-description-df = არასანდოა მიმოხილვები
 # This string is displayed in a tooltip that appears when the user hovers
@@ -127,7 +127,7 @@ shopping-analysis-explainer-learn-more2 = იხილეთ ვრცლად,
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
 shopping-analysis-explainer-highlights-description = <strong>გამოსარჩევი</strong> ბოლო 80 დღეში { $retailer }-ის სანდოდ მიჩნეული მიმოხილვებიდან.
-shopping-analysis-explainer-review-grading-scale-reliable = სანდო მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად სანდო მომხმარებლების დატოვებულია პატიოსნად და მიუკერძოებლად.
+shopping-analysis-explainer-review-grading-scale-reliable = სანდოა მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად ნამდვილი მომხმარებლების დატოვებულია პატიოსნად და მიუკერძოებლად.
 shopping-analysis-explainer-review-grading-scale-mixed = მიგვაჩნია, რომ შერეულადაა სანდო და არასანდო მიმოხილვები.
 shopping-analysis-explainer-review-grading-scale-unreliable = არასანდოა მიმოხილვები. მიგვაჩნია, რომ ეს მიმოხილვები მეტწილად ყალბი ან მიკერძოებული მიმომხილველებისგანაა.
 
@@ -195,19 +195,19 @@ shopping-callout-closed-not-opted-in-subtitle = გამოცადეთ მ�
 
 ## Onboarding message strings.
 
-shopping-onboarding-headline = გამოცადეთ ჩვენი სანდო მეგზური საყიდლების მიმოხილვებისთვის
+shopping-onboarding-headline = გამოცადეთ ჩვენი საიმედო მეგზური საყიდლების მიმოხილვებისთვის
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = იხილეთ, რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები <b>{ $currentSite }</b> საიტზე მის შეძენამდე. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა { -vendor-short-name }-ისგან, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name } — და მხარდაჭერილია <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდოა <b>{ $currentSite }</b> საიტზე გასაყიდი ნაწარმის მიმოხილვები. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობა { -vendor-short-name }-ისგან, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name } — და მხარდაჭერილია <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = იხილეთ შეძენამდე, თუ რამდენად სანდოა <b>{ $currentSite }</b> საიტზე გასაყიდი ნაწარმის მიმოხილვები. მიმოხილვის შემმოწმებელი საცდელი შესაძლებლობაა, რომელიც მოჰყვება { -brand-product-name }-ს. მხარდაჭერილია <b>{ $secondSite }</b> და აგრეთვე <b>{ $thirdSite }</b>.
+shopping-onboarding-dynamic-subtitle-1 = გადაამოწმეთ შეძენამდე, თუ რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები საიტზე <b>{ $currentSite }</b>. მიმოხილვის შემმოწმებელი საცდელი შესაძლებლობაა { -brand-product-name }-სგან, რომელიც ჩაშენებულია ბრაუზერშივე. მხარდაჭერილია <b>{ $secondSite }</b> და აგრეთვე <b>{ $thirdSite }</b>.
 shopping-onboarding-body = ყოველისშემძლე { -fakespot-brand-full-name } დაგეხმარებათ აირიდოთ მიკერძოებული და ყალბი მიმოხილვები. ჩვენი AI-მოდელი მუდმივად თქვენს დასაცავად საყიდლების შეძენისას. <a data-l10n-name="learn_more">ვრცლად</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
