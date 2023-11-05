@@ -47,7 +47,15 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
+migration-no-permissions-message = { -brand-short-name } ไม่มีสิทธิ์เข้าถึงโปรไฟล์ของเบราว์เซอร์อื่น ๆ ซึ่งติดตั้งบนอุปกรณ์นี้
+migration-no-permissions-instructions = หากต้องการนำเข้าข้อมูลจากเบราว์เซอร์อื่นต่อ ให้มอบสิทธิ์เข้าถึงโฟลเดอร์โปรไฟล์ของเบราว์เซอร์นั้นแก่ { -brand-short-name }
 migration-no-permissions-instructions-step1 = ให้เลือก “ดำเนินการต่อ”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = ในเครื่องมือเลือกไฟล์ ให้นำทางไปที่ <code>{ $permissionsPath }</code> แล้วคลิก “เลือก”
 
 ## These strings will be displayed based on how many resources are selected to import
 
