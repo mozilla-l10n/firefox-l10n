@@ -6,5 +6,7 @@
 # by various online articles and is technical in nature.
 experimental-features-web-gpu2 =
     .label = ਵੈੱਬ API: WebGPU
-
-
+# about:home should be kept in English, as it refers to the the URI for
+# the internal default home page.
+experimental-features-abouthome-startup-cache =
+    .label = about:home ਸ਼ੁਰੂਆਤੀ ਕੈਸ਼
