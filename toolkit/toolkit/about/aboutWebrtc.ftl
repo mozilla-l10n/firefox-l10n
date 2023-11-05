@@ -8,13 +8,14 @@
 
 # The text "WebRTC" is a proper noun and should not be translated.
 about-webrtc-document-title = WebRTC ਅੰਦਰੂਨੀ
-
 # "about:webrtc" is a internal browser URL and should not be
 # translated. This string is used as a title for a file save dialog box.
 about-webrtc-save-page-dialog-title = about:webrtc ਨੂੰ ਇੰਝ ਸੰਭਾਲੋ
 
 ## These labels are for a disclosure which contains the information for closed PeerConnection sections
 
+about-webrtc-closed-peerconnection-disclosure-show-msg = ਬੰਦ ਕੀਤੇ PeerConnections ਵੇਖਾਓ
+about-webrtc-closed-peerconnection-disclosure-hide-msg = ਬੰਦ ਕੀਤੇ PeerConnections ਓਹਲੇ
 
 ## AEC is an abbreviation for Acoustic Echo Cancellation.
 
@@ -22,7 +23,6 @@ about-webrtc-aec-logging-msg-label = AEC ਲਾਗ ਰੱਖਣਾ
 about-webrtc-aec-logging-off-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਸ਼ੁਰੂ
 about-webrtc-aec-logging-on-state-label = AEC ਲਾਗ ਰੱਖਣਾ ਰੋੋਕ
 about-webrtc-aec-logging-on-state-msg = AEC ਲਾਗ ਰੱਖਣਾ ਸਰਗਰਮ ਹੈ (ਕਾਲਰ ਨਾਲ ਕੁਝ ਮਿੰਟਾਂ ਲਈ ਗੱਲ ਕਰੋ ਅਤੇ ਤਦ ਪ੍ਰਾਪਤ ਕਰਨ ਨੂੰ ਰੋਕੋ)
-
 about-webrtc-aec-logging-toggled-on-state-msg = AEC ਲਾਗ ਰੱਖਣਾ ਸਰਗਰਮ ਹੈ (ਕਾਲਰ ਨਾਲ ਕੁਝ ਮਿੰਟਾਂ ਲਈ ਗੱਲ ਕਰੋ ਅਤੇ ਤਦ ਪ੍ਰਾਪਤ ਕਰਨ ਨੂੰ ਰੋਕੋ)
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
@@ -30,14 +30,20 @@ about-webrtc-aec-logging-toggled-off-state-msg = ਕੈਪਚਰ ਕੀਤੀਆ
 
 ##
 
-# The autorefresh checkbox causes the page to autorefresh its content when checked
+# The autorefresh checkbox causes a stats section to autorefresh its content when checked
 about-webrtc-auto-refresh-label = ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
-
-
+# Determines the default state of the Auto Refresh check boxes
+about-webrtc-auto-refresh-default-label = ਮੂਲ ਰੂਪ ਵਿੱਚ ਆਪੇ ਤਾਜ਼ਾ ਕਰੋ
+# A button which forces a refresh of displayed statistics
+about-webrtc-force-refresh-button = ਤਾਜ਼ਾ ਕਰੋ
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
 about-webrtc-peerconnection-id-label = PeerConnection ID:
+# The number of DataChannels that a PeerConnection has opened
+about-webrtc-data-channels-opened-label = ਖੋਲ੍ਹੇ ਡਾਟਾ ਚੈਨਲ:
+# The number of once open DataChannels that a PeerConnection has closed
+about-webrtc-data-channels-closed-label = ਬੰਦ ਕੀਤੇ ਡਾਟਾ ਚੈਨਲ:
 
 ## "SDP" is an abbreviation for Session Description Protocol, an IETF standard.
 ## See http://wikipedia.org/wiki/Session_Description_Protocol
@@ -83,16 +89,15 @@ about-webrtc-type-remote = ਰਿਮੋਟ
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 about-webrtc-nominated = ਨਾਮਜ਼ਦ
-
 # This adjective is used to label a table column. Cells in this column contain
 # the localized javascript string representation of "true" or are left blank.
 # This represents an attribute of an ICE candidate.
 about-webrtc-selected = ਚੁਣੇ
-
 about-webrtc-save-page-label = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲੋ
 about-webrtc-debug-mode-msg-label = ਡੀਬੱਗ ਮੋਡ
 about-webrtc-debug-mode-off-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸ਼ੁਰੂ ਕਰੋ
 about-webrtc-debug-mode-on-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਰੋਕੋ
+about-webrtc-enable-logging-label = WebRTC ਲਾਗ ਪ੍ਰੀ-ਸੈੱਟ ਸਮਰੱਥ ਕਰੋ
 about-webrtc-stats-heading = ਸ਼ੈਸ਼ਨ ਅੰਕੜੇ
 about-webrtc-stats-clear = Clear History
 about-webrtc-log-heading = ਕਨੈਕਸ਼ਨ ਲਾਗ
@@ -101,11 +106,12 @@ about-webrtc-log-show-msg = ਲਾਗ ਵੇਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-log-hide-msg = ਲਾਗ ਛੁਪਾਓ
     .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
-
 about-webrtc-log-section-show-msg = ਲਾਗ ਵੇਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-log-section-hide-msg = ਲਾਗ ਛੁਪਾਓ
     .title = ਇਸ ਭਾਗ ਨੂੰ ਸਮੇਟਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
+about-webrtc-copy-report-button = ਰਿਪੋਰਟ ਕਾਪੀ ਕਰੋ
+about-webrtc-copy-report-history-button = ਰਿਪੋਰਟ ਅਤੀਤ ਨੂੰ ਕਾਪੀ ਕਰੋ
 
 ## These are used to display a header for a PeerConnection.
 ## Variables:
@@ -121,6 +127,9 @@ about-webrtc-connection-closed = [ { $browser-id } | { $id } ] { $url } (ਬੰ�
 ## Variables:
 ##  $codecs - a list of media codecs
 
+about-webrtc-short-send-receive-direction = ਭੇਜੇ / ਪ੍ਰਾਪਤ: { $codecs }
+about-webrtc-short-send-direction = ਭੇਜੋ: { $codecs }
+about-webrtc-short-receive-direction = ਪ੍ਰਾਪਤ: { $codecs }
 
 ##
 
@@ -165,9 +174,17 @@ about-webrtc-rotation-degrees = ਘੁੰਮਾਉਣਾ (ਡਿਗਰੀਆਂ)
 ## These are displayed on the button that shows or hides the
 ## PeerConnection configuration disclosure
 
+about-webrtc-pc-configuration-show-msg = ਸੰਰਚਨਾ ਵੇਖਾਓ
+about-webrtc-pc-configuration-hide-msg = ਸੰਰਚਨਾ ਓਹਲੇ
 
 ##
 
+# An option whose value will not be displayed but instead noted as having been
+# provided
+about-webrtc-configuration-element-provided = ਦਿੱਤੇ
+# An option whose value will not be displayed but instead noted as having not
+# been provided
+about-webrtc-configuration-element-not-provided = ਨਾ ਦਿੱਤੇ
 
 ## These are paths used for saving the about:webrtc page or log files so
 ## they can be attached to bug reports.
@@ -178,13 +195,11 @@ about-webrtc-save-page-msg = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿ
 about-webrtc-debug-mode-off-state-msg = ਟਰੇਸ ਲਾਗ ਨੂੰ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ: { $path }
 about-webrtc-debug-mode-on-state-msg = ਡੀਬੱਗ ਮੋਡ ਸਰਗਰਮ ਹੈ, ਟਰੇਸ ਲਾਗ ਹੈ: { $path }
 about-webrtc-aec-logging-off-state-msg = ਕੈਪਚਰ ਕੀਤੀਆਂ ਲਾਗ ਫਾਈਲਾਂ ਇਸ ਵਿੱਚ ਹਨ: { $path }
-
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = ਸਫ਼ੇ ਨੂੰ ਸੰਭਾਲਿਆ ਗਿਆ: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = ਟਰੇਸ ਲਾਗ ਨੂੰ ਲੱਭਿਆ ਜਾ ਸਕਦਾ ਹੈ: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = ਡੀਬੱਗ ਮੋਡ ਸਰਗਰਮ ਹੈ, ਟਰੇਸ ਲਾਗ ਹੈ: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -193,7 +208,6 @@ about-webrtc-frames =
         [one] { $frames } ਫਰੇਮ
        *[other] { $frames } ਫਰੇਮ
     }
-
 # This is the number of audio channels encoded or decoded over an RTP stream.
 # Variables:
 #  $channels (Number) - The number of channels encoded or decoded.
@@ -202,7 +216,6 @@ about-webrtc-channels =
         [one] { $channels } ਚੈਨਲ
        *[other] { $channels } ਚੈਨਲ
     }
-
 # This is the total number of packets received on the PeerConnection.
 # Variables:
 #  $packets (Number) - The number of packets received.
@@ -211,13 +224,27 @@ about-webrtc-received-label =
         [one] { $packets } ਪੈਕੇਟ ਭੇਜਿਆ
        *[other] { $packets } ਪੈਕੇਟ ਭੇਜੇ
     }
-
+# This is the total number of packets lost by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets lost.
+about-webrtc-lost-label =
+    { $packets ->
+        [one] { $packets } ਪੈਕੇਟ ਗੁੰਮਿਆ
+       *[other] { $packets } ਪੈਕੇਟ ਗੁੰਮੇ
+    }
+# This is the total number of packets sent by the PeerConnection.
+# Variables:
+#  $packets (Number) - The number of packets sent.
+about-webrtc-sent-label =
+    { $packets ->
+        [one] { $packets } ਪੈਕੇਟ ਭੇਜਿਆ
+       *[other] { $packets } ਪੈਕੇਟ ਭੇਜੇ
+    }
 # Jitter is the variance in the arrival time of packets.
 # See: https://w3c.github.io/webrtc-stats/#dom-rtcreceivedrtpstreamstats-jitter
 # Variables:
 #   $jitter (Number) - The jitter.
 about-webrtc-jitter-label = ਜਿੱਟਰ { $jitter }
-
 # ICE candidates arriving after the remote answer arrives are considered trickled
 # (an attribute of an ICE candidate). These are highlighted in the ICE stats
 # table with light blue background.
@@ -229,11 +256,19 @@ about-webrtc-trickle-caption-msg = ਜ਼ਾਹਰ ਹੋਏ ਉਮੀਦਵਾਰ�
 
 ## These are displayed on the button that shows or hides the SDP information disclosure
 
+about-webrtc-show-msg-sdp = SDP ਵੇਖਾਓ
+about-webrtc-hide-msg-sdp = SDP ਓਹਲੇ
+
+##
+
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
 
+about-webrtc-media-context-show-msg = ਮੀਡਿਆ ਪ੍ਰਸੰਗ ਵੇਖਾਓ
+about-webrtc-media-context-hide-msg = ਮੀਡਿਆ ਪ੍ਰਸੰਗ ਓਹਲੇ
+about-webrtc-media-context-heading = ਮੀਡਿਆ ਪ੍ਰਸੰਗ
 
 ##
 
