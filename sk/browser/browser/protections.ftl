@@ -151,7 +151,7 @@ monitor-breaches-unresolved-description = Po preskúmaní podrobností o úniku 
 monitor-manage-breaches-link = Spravovať úniky
     .title = Spravovať úniky dát v službe { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Paráda! Vyriešili ste všetky známe úniky.
-monitor-breaches-resolved-description = Ak sa váš email objaví v akýchkoľvek nových únikoch, budeme vás informovať.
+monitor-breaches-resolved-description = Ak sa váš e‑mail objaví v akýchkoľvek nových únikoch, budeme vás informovať.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
