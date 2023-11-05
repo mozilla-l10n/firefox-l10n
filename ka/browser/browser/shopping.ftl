@@ -118,7 +118,7 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = როგორ განისაზღვრება მიმოხილვის ხარისხი
-shopping-analysis-explainer-intro2 = ჩვენ ვიყენებთ ხელოვნური ინტელექტის შესაძლებლობებს საიტიდან { -fakespot-brand-full-name } მიმოხილვების სანდოობის გადასამოწმებლად. ეს მხოლოდ მიმოხილვის ხარისხის შეფასებაში დაგეხმარებათ და არა – ნაწარმის ხარისხისა.
+shopping-analysis-explainer-intro2 = { -fakespot-brand-full-name } ხელოვნური ინტელექტის შესაძლებლობებით ამოწმებს მიმოხილვების სანდოობას. ამით მხოლოდ მიმოხილვის ხარისხი დგინდება და არა – ნაწარმის ხარისხი.
 shopping-analysis-explainer-grades-intro = გასაყიდ ნაწარმზე თითოეულ მიმოხილვას ეწერება <strong>ნიშნები</strong> A-დან F-მდე.
 shopping-analysis-explainer-adjusted-rating-description = <strong>შესწორებული შეფასება</strong> ეყრდნობა მხოლოდ იმ მიმოხილვებს, რომლებიც სანდოდ მიგვაჩნია.
 shopping-analysis-explainer-learn-more = იხილეთ ვრცლად, <a data-l10n-name="review-quality-url">როგორ განსაზღვრავს { -fakespot-brand-full-name } მიმოხილვის ხარისხს</a>.
