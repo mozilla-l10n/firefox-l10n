@@ -38,7 +38,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
-shopping-message-bar-warning-stale-analysis-message-2 = ახალი მონაცემები შესამოწმებლად
+shopping-message-bar-warning-stale-analysis-message-2 = ახალი მონაცემებია შესამოწმებელი
 shopping-message-bar-warning-stale-analysis-button = შემოწმება ახლავე
 shopping-message-bar-generic-error-title2 = მონაცემები ამჟამად მიუწვდომელია
 shopping-message-bar-generic-error-message = ჩვენ ვმუშაობთ საკითხის გადასაწყვეტად. გთხოვთ, მოგვიანებით დაუბრუნდეთ.
@@ -107,7 +107,7 @@ powered-by-fakespot = მიმოხილვის შემმოწმებ
 # reliable reviews.
 shopping-adjusted-rating-label =
     .label = შესწორებული შეფასება
-shopping-adjusted-rating-unreliable-reviews = არასანდო მიმოხილვები მოცილებულია
+shopping-adjusted-rating-unreliable-reviews = არასანდო მიმოხილვების გამოკლებით
 
 ## Strings for the review reliability component
 
