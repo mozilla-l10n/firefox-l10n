@@ -68,6 +68,10 @@ about-private-browsing-pin-promo-title = ไม่เก็บคุกกี้
 about-private-browsing-cookie-banners-promo-header = เอาแบนเนอร์คุกกี้ออกไปให้พ้น!
 about-private-browsing-cookie-banners-promo-button = ลดแบนเนอร์คุกกี้
 about-private-browsing-cookie-banners-promo-message = ให้ { -brand-short-name } ตอบป๊อปอัปคุกกี้ให้คุณโดยอัตโนมัติเพื่อให้คุณท่องเว็บได้โดยปราศจากสิ่งรบกวน { -brand-short-name } จะปฏิเสธคำขอทั้งหมดเมื่อเป็นไปได้
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } จะดูแลเรื่องแบนเนอร์คุกกี้ให้คุณ
+about-private-browsing-cookie-banners-promo-body = ตอนนี้เราปฏิเสธแบนเนอร์คุกกี้จำนวนมากโดยอัตโนมัติเพื่อให้คุณถูกติดตามได้น้อยลงและกลับไปท่องเว็บโดยปราศจากสิ่งรบกวนได้
 
 ## Strings for Felt Privacy v1 experiments in 119
 
