@@ -189,7 +189,9 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = ਜਦੋਂ ਵੀ ਕੀਮਤ ਲੱਗੀ ਵੇਖੋ ਤਾਂ <strong>ਰੀਵਿਊ ਚੈਕਰ</strong> ਉੱਤੇ ਜਾਓ।
 shopping-callout-pdp-opted-in-title = ਕੀ ਇਹ ਰੀਵਿਊ ਭਰੋਸੇਯੋਗ ਹਨ? ਫ਼ੌਰਨ ਪਤਾ ਕਰੋ।
+shopping-callout-pdp-opted-in-subtitle = ਨਾ ਭਰੋਸੇਯੋਗ ਰੀਵਿਊ ਨੂੰ ਹਟਾ ਕੇ ਅਡਜੱਸਟ ਕੀਤੀ ਰੇਟਿੰਗ ਨੂੰ ਵੇਖਣ ਲਈ ਰੀਵਿਊ ਚੈਕਰ ਖੋਲ੍ਹੋ। ਨਾਲ ਹੀ ਸੱਜਰੇ ਪਰਮਾਣਿਤ ਰੀਵਿਊ ਤੋਂ ਹਾਈਟਲਾਈਟ ਵੀ ਵੇਖੋ।
 shopping-callout-closed-not-opted-in-title = ਭਰੋਸੇਯੋਗ ਰੀਵਿਊਆਂ ਲਈ ਇੱਕ ਕਲਿੱਕ ਕਰੋ
+shopping-callout-closed-not-opted-in-subtitle = ਜਿੱਥੇ ਵੀ ਤੁਸੀਂ ਕੀਮਤ ਵੇਖੋ, ਉੱਥੇ ਰੀਵਿਊ ਚੈਕਰ ਨੂੰ ਅਜ਼ਮਾਓ। ਅਸਲ ਖਰੀਦਦਾਰਾਂ ਤੋਂ ਫ਼ੌਰਨ ਪੜਤਾਲ ਵੇਖੋ — ਆਪ ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ।
 
 ## Onboarding message strings.
 
