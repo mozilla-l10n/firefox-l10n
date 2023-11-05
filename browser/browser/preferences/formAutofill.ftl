@@ -17,9 +17,22 @@ autofill-manage-edit-button = แก้ไข…
 
 ## The address capture doorhanger
 
-address-capture-save-doorhanger-header = บันทึกที่อยู่?
-address-capture-update-doorhanger-header = แก้ไขที่อยู่?
+address-capture-save-doorhanger-header = ต้องการบันทึกที่อยู่หรือไม่?
+address-capture-save-doorhanger-description = บันทึกข้อมูลลงใน { -brand-short-name } เพื่อให้สามารถกรอกแบบฟอร์มได้อย่างรวดเร็ว
+address-capture-update-doorhanger-header = ต้องการปรับเปลี่ยนที่อยู่หรือไม่?
 address-capture-edit-doorhanger-header = แก้ไขที่อยู่
+address-capture-save-button =
+    .label = บันทึก
+    .accessKey = บ
+address-capture-not-now-button =
+    .label = ยังไม่ทำตอนนี้
+    .accessKey = ม
+address-capture-cancel-button =
+    .label = ยกเลิก
+    .accessKey = ย
+address-capture-update-button =
+    .label = ปรับเปลี่ยน
+    .accessKey = ป
 address-capture-manage-address-button =
     .label = การตั้งค่าที่อยู่
 address-capture-learn-more-button =
