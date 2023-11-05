@@ -238,7 +238,7 @@ device-migration-fxa-spotlight-link = เตือนฉันภายหลั
 ## Set as Default PDF Reader Infobar
 
 # The question portion of the following message should have the <strong> and </strong> tags surrounding it.
-pdf-default-notification-message = <strong>ต้องการทำให้ { -brand-short-name } เป็นโปรแกรมอ่าน PDF เริ่มต้นของคุณไหม?</strong> ใช้ { -brand-short-name } อ่านและแก้ไข PDF ที่บันทึกในคอมพิวเตอร์ของคุณ
+pdf-default-notification-message = <strong>ต้องการตั้ง { -brand-short-name } เป็นโปรแกรมอ่าน PDF เริ่มต้นของคุณหรือไม่?</strong> ใช้ { -brand-short-name } ในการอ่านและแก้ไข PDF ที่บันทึกลงในคอมพิวเตอร์ของคุณ
 pdf-default-notification-set-default-button =
     .label = ตั้งเป็นค่าเริ่มต้น
 pdf-default-notification-decline-button =
@@ -246,11 +246,11 @@ pdf-default-notification-decline-button =
 
 ## Launch on login infobar notification
 
-launch-on-login-infobar-message = <strong>ต้องการเปิด { -brand-short-name } ในทุกครั้งที่คุณเปิดคอมพิวเตอร์ใหม่หรือไม่?</strong> ตอนนี้คุณสามารถตั้งให้ { -brand-short-name } เปิดโดยอัตโนมัติเมื่อคุณเปิดอุปกรณ์ของคุณใหม่ได้แล้ว
+launch-on-login-infobar-message = <strong>ต้องการเปิด { -brand-short-name } ทุกครั้งที่คุณเปิดคอมพิวเตอร์ใหม่หรือไม่?</strong> ขณะนี้คุณสามารถกำหนดให้ { -brand-short-name } เปิดโดยอัตโนมัติเมื่อคุณเปิดอุปกรณ์ใหม่ได้แล้ว
 launch-on-login-learnmore = เรียนรู้เพิ่มเติม
 launch-on-login-infobar-confirm-button = ใช่ เปิด { -brand-short-name }
     .accesskey = ช
-launch-on-login-infobar-reject-button = ไม่ใช่ตอนนี้
+launch-on-login-infobar-reject-button = ยังไม่ทำตอนนี้
     .accesskey = ม
 
 ## These string variants are used when the “launch on login” infobar
