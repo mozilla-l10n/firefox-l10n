@@ -78,7 +78,7 @@ shopping-message-bar-page-not-supported =
 ## Strings for the product review snippets card
 
 shopping-highlights-label =
-    .label = გამოსარჩევი ბოლო მიმოხილვებიდან
+    .label = ბოლო მიმოხილვებიდან გამოსარჩევი
 shopping-highlight-price = ფასი
 shopping-highlight-quality = ხარისხი
 shopping-highlight-shipping = მიწოდება
@@ -207,10 +207,10 @@ shopping-onboarding-dynamic-subtitle = იხილეთ, რამდენა
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = იხილეთ, რამდენად სანდოა გასაყიდი ნაწარმის მიმოხილვები <b>{ $currentSite }</b> საიტზე მის შეძენამდე. მიმოხილვის შემმოწმებელი, საცდელი შესაძლებლობაა, რომელსაც ჩაშენებულად გთავაზობთ { -brand-product-name }. მხარდაჭერილია როგორც <b>{ $secondSite }</b>, აგრეთვე <b>{ $thirdSite }</b>.
-shopping-onboarding-body = { -fakespot-brand-full-name }-ის ძლევამოსილებით ჩვენ დაგეხმარებით მიკერძოებული და ყალბი მიმოხილვების თავიდან აცილებაში. ჩვენი AI-მოდელი მუდმივად იხვეწება საყიდლების შეძენისას თქვენს დასაცავად. <a data-l10n-name="learn_more">ვრცლად</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკის არჩევით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
-shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = „{ shopping-onboarding-opt-in-button }“ ღილაკის არჩევით ეთანხმებით { -fakespot-brand-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
+shopping-onboarding-dynamic-subtitle-1 = იხილეთ შეძენამდე, თუ რამდენად სანდოა <b>{ $currentSite }</b> საიტზე გასაყიდი ნაწარმის მიმოხილვები. მიმოხილვის შემმოწმებელი საცდელი შესაძლებლობაა, რომელიც მოჰყვება { -brand-product-name }-ს. მხარდაჭერილია <b>{ $secondSite }</b> და აგრეთვე <b>{ $thirdSite }</b>.
+shopping-onboarding-body = ყოველისშემძლე { -fakespot-brand-full-name } დაგეხმარებათ აირიდოთ მიკერძოებული და ყალბი მიმოხილვები. ჩვენი AI-მოდელი მუდმივად თქვენს დასაცავად საყიდლების შეძენისას. <a data-l10n-name="learn_more">ვრცლად</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-full-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = „{ shopping-onboarding-opt-in-button }“ ღილაკზე დაჭერით ეთანხმებით { -fakespot-brand-name }-ის <a data-l10n-name="privacy_policy">პირადულობის დებულებასა</a> და <a data-l10n-name="terms_of_use">მომსახურების პირობებს.</a>
 shopping-onboarding-opt-in-button = დიახ, მოისინჯოს
 shopping-onboarding-not-now-button = ახლა არა
 shopping-onboarding-dialog-close-button =
