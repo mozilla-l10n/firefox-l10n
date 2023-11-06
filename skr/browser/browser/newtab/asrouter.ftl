@@ -250,3 +250,5 @@ launch-on-login-infobar-reject-button = ہݨ کائناں
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-reject-button = کو، شکریہ
+    .accesskey = N

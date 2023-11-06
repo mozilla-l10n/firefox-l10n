@@ -17,6 +17,9 @@ autofill-manage-edit-button = تدوین کرو …
 
 ## The address capture doorhanger
 
+address-capture-save-button =
+    .label = محفوظ
+    .accessKey = S
 address-capture-not-now-button =
     .label = ہݨ کائناں
     .accessKey = N
