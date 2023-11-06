@@ -70,7 +70,7 @@ shopping-message-bar-warning-product-not-available-reported =
 shopping-message-bar-analysis-in-progress-title2 = მოწმდება მიმოხილვის ხარისხი
 shopping-message-bar-analysis-in-progress-message2 = შეიძლება გასტანოს 60 წამს.
 shopping-message-bar-page-not-supported-title = ვერ მოწმდება ეს მიმოხილვები
-shopping-message-bar-page-not-supported-message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად, სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
+shopping-message-bar-page-not-supported-message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად სასაჩუქრე ბარათები, ეთერში გადაცემული ვიდეო, მუსიკა და თამაშები.
 shopping-message-bar-page-not-supported =
     .heading = ვერ მოწმდება ეს მიმოხილვები
     .message = სამწუხაროდ, გარკვეული სახის ნაწარმზე მიმოხილვის ხარისხი ვერ შემოწმდება. ასეთებია მაგალითად, სასაჩუქრე ბარათები, ეთერით გადასაცემი ვიდეო, მუსიკა და თამაშები.
@@ -154,7 +154,7 @@ shopping-sidebar-close-button2 =
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = ამ მიმოხილვების შესახებ მონაცემები ჯერ არაა
-shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, გადაამოწმეთ მიმოხილვის ხარისხი. მიახლოებით 60 წამს გასტანს მხოლოდ.
+shopping-unanalyzed-product-message-2 = იმის გასაგებად, სანდოა თუ არა ამ ნაწარმის მიმოხილვები, შეამოწმეთ მიმოხილვის ხარისხი. მიახლოებით 60 წამს გასტანს მხოლოდ.
 shopping-unanalyzed-product-analyze-button = მიმოხილვის ხარისხის შემოწმება
 
 ## Strings for the advertisement
@@ -172,7 +172,7 @@ shopping-survey-q1-radio-2-label = კმაყოფილი
 shopping-survey-q1-radio-3-label = საშუალო
 shopping-survey-q1-radio-4-label = უკმაყოფილო
 shopping-survey-q1-radio-5-label = მეტად უკმაყოფილო
-shopping-survey-question-two = გაგიადვილათ მიმოხილვის შემმოწმებელმა შეძენისას გადაწყვეტილებეების მიღება?
+shopping-survey-question-two = გაგიადვილათ მიმოხილვის შემმოწმებელმა შეძენისას გადაწყვეტილებების მიღება?
 shopping-survey-q2-radio-1-label = დიახ
 shopping-survey-q2-radio-2-label = არა
 shopping-survey-q2-radio-3-label = არ ვიცი
