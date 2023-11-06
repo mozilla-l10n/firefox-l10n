@@ -107,7 +107,7 @@ powered-by-fakespot = Mae'r gwirydd adolygiadau yn cael ei bweru gan <a data-l10
 # reliable reviews.
 shopping-adjusted-rating-label =
     .label = Gradd wedi'i haddasu
-shopping-adjusted-rating-unreliable-reviews = Dilëwyd adolygiadau annibynadwy
+shopping-adjusted-rating-unreliable-reviews = Wedi dileu adolygiadau annibynadwy
 
 ## Strings for the review reliability component
 
@@ -197,7 +197,7 @@ shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y gwirydd adoly
 
 ## Onboarding message strings.
 
-shopping-onboarding-headline = Rhowch gynnig ar ein canllaw dibynadwy i adolygiadau cynnyrch
+shopping-onboarding-headline = Ein canllaw dibynadwy i adolygiadau cynnyrch
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
@@ -209,8 +209,8 @@ shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygi
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle-1 = Gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae gwirydd adolygiadau, nodwedd arbrofol o { -brand-product-name }, wedi'i gynnwys yn y porwr. Mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
-shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI bob amser yn gwella i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
+shopping-onboarding-dynamic-subtitle-1 = Dyma sut mae gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r Gwirydd Adolygiadau, sy'n nodwedd arbrofol gan { -brand-product-name }, wedi'i gynnwys yn y porwr. Mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
+shopping-onboarding-body = Gan ddefnyddio pŵer { -fakespot-brand-full-name }, rydym yn eich helpu i osgoi adolygiadau rhagfarnllyd ac annilys. Mae ein model AI yn gwella'n barhaus i’ch diogelu wrth i chi siopa. <a data-l10n-name="learn_more">Darllen rhagor</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Drwy ddewis “{ shopping-onboarding-opt-in-button }“ rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> { -fakespot-brand-full-name } a <a data-l10n-name="terms_of_use">amodau defnyddio.</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Drwy ddewis “ { shopping-onboarding-opt-in-button }" rydych yn cytuno i <a data-l10n-name="privacy_policy">bolisi preifatrwydd</a> a <a data-l10n-name="terms_of_use">thelerau defnydd { -fakespot-brand-name }.</a>
 shopping-onboarding-opt-in-button = Iawn, rhoi cynnig arno
