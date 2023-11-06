@@ -155,7 +155,7 @@ shopping-sidebar-close-button2 =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
-shopping-unanalyzed-product-header-2 = Dim gwybodaeth am yr adolygiadau hyn eto
+shopping-unanalyzed-product-header-2 = Does dim gwybodaeth am yr adolygiadau hyn eto
 shopping-unanalyzed-product-message-2 = I wybod a yw adolygiadau’r cynnyrch hwn yn ddibynadwy, gwiriwch ansawdd yr adolygiadau. Dim ond tua 60 eiliad y mae’n ei gymryd.
 shopping-unanalyzed-product-analyze-button = Gwirio ansawdd yr adolygiad
 
@@ -189,7 +189,7 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = Mynd nôl i <strong>Gwirydd Adolygiadau</strong> pryd bynnag y gwelwch y pris.
+shopping-callout-closed-opted-in-subtitle = Ewch nôl i'r <strong>Gwirydd Adolygiadau</strong> pryd bynnag y gwelwch bris.
 shopping-callout-pdp-opted-in-title = A yw'r adolygiadau hyn yn ddibynadwy? Gweld nawr.
 shopping-callout-pdp-opted-in-subtitle = Agorwch y Gwirydd Adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
 shopping-callout-closed-not-opted-in-title = Un clic i adolygiadau dibynadwy
