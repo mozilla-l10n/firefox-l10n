@@ -12,7 +12,7 @@ shopping-beta-marker = Beta
 # Any changes to shopping-main-container-title and
 # shopping-beta-marker should also be reflected here.
 shopping-a11y-header =
-    .aria-label = Gwirydd adolygiadau - beta
+    .aria-label = Gwirydd Adolygiadau - beta
 shopping-close-button =
     .title = Cau
 # This string is for notifying screen reader users that the
@@ -67,7 +67,7 @@ shopping-message-bar-thanks-for-reporting =
 shopping-message-bar-warning-product-not-available-reported =
     .heading = Gwybodaeth yn dod cyn hir
     .message = Dylai fod gennym dadansoddiad wedi’i ddiweddaru o fewn 24 awr. Dewch nôl i weld.
-shopping-message-bar-analysis-in-progress-title2 = Gwirio ansawdd adolygiadau
+shopping-message-bar-analysis-in-progress-title2 = Gwirio ansawdd yr adolygiadau
 shopping-message-bar-analysis-in-progress-message2 = Gall hyn gymryd tua 60 eiliad.
 shopping-message-bar-page-not-supported-title = Methu gwirio’r adolygiadau hyn
 shopping-message-bar-page-not-supported-message = Yn anffodus, nid oes modd i ni wirio ansawdd adolygu ar gyfer rhai mathau o gynnyrch. Er enghraifft, cardiau rhodd a ffrydio fideo, cerddoriaeth a gemau.
@@ -78,7 +78,7 @@ shopping-message-bar-page-not-supported =
 ## Strings for the product review snippets card
 
 shopping-highlights-label =
-    .label = Uchafbwyntiau o adolygiadau diweddar
+    .label = Uchafbwyntiau'r adolygiadau diweddar
 shopping-highlight-price = Pris
 shopping-highlight-quality = Ansawdd
 shopping-highlight-shipping = Cludiant
@@ -95,11 +95,11 @@ shopping-show-less-button = Dangos llai
 shopping-settings-label =
     .label = Gosodiadau
 shopping-settings-recommendations-toggle =
-    .label = Dangos hysbysebion yn y gwirydd adolygiadau
+    .label = Dangos hysbysebion yn y Gwirydd Adolygiadau
 shopping-settings-recommendations-learn-more = Fe welwch hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
 shopping-settings-recommendations-learn-more2 = Byddwch yn gweld hysbysebion achlysurol am gynnyrch perthnasol. Rhaid i bob hysbyseb fodloni ein safonau ansawdd adolygiadau. <a data-l10n-name="review-quality-url">Darllen rhagor</a>
-shopping-settings-opt-out-button = Diffodd y gwirydd adolygiadau
-powered-by-fakespot = Mae'r gwirydd adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
+shopping-settings-opt-out-button = Diffodd y Gwirydd Adolygiadau
+powered-by-fakespot = Mae'r Gwirydd Adolygiadau yn cael ei bweru gan <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
 ## Strings for the adjusted rating component
 
@@ -136,9 +136,9 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Adolygiadau anniby
 ## Strings for UrlBar button
 
 shopping-sidebar-open-button2 =
-    .tooltiptext = Agor y gwirydd adolygiadau
+    .tooltiptext = Agor y Gwirydd Adolygiadau
 shopping-sidebar-close-button2 =
-    .tooltiptext = Cau’r gwirydd adolygiadau
+    .tooltiptext = Cau’r Gwirydd Adolygiadau
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -168,13 +168,13 @@ ad-by-fakespot = Hysbyseb gan { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Helpwch i wella { -brand-product-name }
-shopping-survey-question-one = Pa mor fodlon ydych chi gyda'ch profiad o'r gwirydd adolygiadau yn { -brand-product-name }?
+shopping-survey-question-one = Pa mor fodlon ydych chi gyda'ch profiad o'r Gwirydd Adolygiadau yn { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Bodlon iawn
 shopping-survey-q1-radio-2-label = Bodlon
 shopping-survey-q1-radio-3-label = Niwtral
 shopping-survey-q1-radio-4-label = Anfodlon
 shopping-survey-q1-radio-5-label = Anfodlon iawn
-shopping-survey-question-two = A yw'r gwirydd adolygiadau'n ei gwneud hi'n haws i chi wneud penderfyniadau prynu?
+shopping-survey-question-two = A yw'r Gwirydd Adolygiadau'n ei gwneud hi'n haws i chi wneud penderfyniadau prynu?
 shopping-survey-q2-radio-1-label = Ydy
 shopping-survey-q2-radio-2-label = Na
 shopping-survey-q2-radio-3-label = Wn i ddim
@@ -189,11 +189,11 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
-shopping-callout-closed-opted-in-subtitle = Mynd nôl i <strong>gwirydd adolygiadau</strong> pryd bynnag y gwelwch y pris.
+shopping-callout-closed-opted-in-subtitle = Mynd nôl i <strong>Gwirydd Adolygiadau</strong> pryd bynnag y gwelwch y pris.
 shopping-callout-pdp-opted-in-title = A yw'r adolygiadau hyn yn ddibynadwy? Gweld nawr.
-shopping-callout-pdp-opted-in-subtitle = Agorwch y gwirydd adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
+shopping-callout-pdp-opted-in-subtitle = Agorwch y Gwirydd Adolygiadau i weld sgôr wedi'i haddasu gydag adolygiadau annibynadwy wedi'u dileu. Hefyd, gweld y goreuon o adolygiadau dilys diweddar.
 shopping-callout-closed-not-opted-in-title = Un clic i adolygiadau dibynadwy
-shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y gwirydd adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
+shopping-callout-closed-not-opted-in-subtitle = Rhowch gynnig ar y Gwirydd Adolygiadau pryd bynnag y gwelwch y tag pris. Cewch wybodaeth ddefnyddiol gan siopwyr go iawn yn gyflym - cyn i chi brynu.
 
 ## Onboarding message strings.
 
@@ -203,7 +203,7 @@ shopping-onboarding-headline = Ein canllaw dibynadwy i adolygiadau cynnyrch
 #   $currentSite (str) - The current shopping page name
 #   $secondSite (str) - A second shopping page name
 #   $thirdSite (str) - A third shopping page name
-shopping-onboarding-dynamic-subtitle = Gallwch weld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r gwirydd adolygiadau, nodwedd arbrofol o { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
+shopping-onboarding-dynamic-subtitle = Dyma sut mae gweld pa mor ddibynadwy yw adolygiadau cynnyrch ar <b>{ $currentSite }</b> cyn i chi brynu. Mae'r Gwirydd Adolygiadau, nodwedd arbrofol gan { -vendor-short-name }, wedi'i hymgorffori yn { -brand-product-name } — ac mae'n gweithio ar <b>{ $secondSite }</b> a <b>{ $thirdSite }</b>, hefyd.
 # Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
 # Variables:
 #   $currentSite (str) - The current shopping page name
