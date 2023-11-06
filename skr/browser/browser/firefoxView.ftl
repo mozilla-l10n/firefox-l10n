@@ -137,6 +137,10 @@ firefoxview-show-more = ودھیک ݙکھاؤ
 firefoxview-show-less = گھٹ ݙکھاؤ
 firefoxview-sort-history-by-date-label = تریخ دے لحاظ نال چھانٹی کرو
 firefoxview-sort-history-by-site-label = سائٹ دے لحاظ نال چھانٹی کرو
+# Variables:
+#   $url (string) - URL that will be opened in the new tab
+firefoxview-opentabs-tab-row =
+    .title = { $url } تے سوئچ کرو
 
 ## Variables:
 ##   $date (string) - Date to be formatted based on locale
@@ -166,6 +170,7 @@ firefoxview-choose-browser-button = براؤزر چݨو
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
+firefoxview-dont-remember-history-empty-header = ݙکھاوݨ کیتے کجھ کائنی
 
 ##
 
