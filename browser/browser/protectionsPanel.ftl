@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Izboljšana zaščita pred sledenjem
     .description = Izključena na tem spletnem mestu
     .aria-label = Omogoči zaščite za { $host }
+protections-panel-etp-toggle-on =
+    .label = Izboljšana zaščita pred sledenjem
+    .description = Vključena na tem spletnem mestu
+    .aria-label = Izboljšana zaščita pred sledenjem: vključena na { $host }
+protections-panel-etp-toggle-off =
+    .label = Izboljšana zaščita pred sledenjem
+    .description = Izključena na tem spletnem mestu
+    .aria-label = Izboljšana zaščita pred sledenjem: izključena na { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Stran ne deluje?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Zmanjšanje števila pasic s piškotki
+protections-panel-cookie-banner-blocker-header = Zavračanje pasic s piškotki
 protections-panel-cookie-banner-handling-enabled = Vključeno na tem spletnem mestu
 protections-panel-cookie-banner-handling-disabled = Izključeno na tem spletnem mestu
 protections-panel-cookie-banner-handling-undetected = Spletno mesto trenutno ni podprto
@@ -128,8 +137,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Izključim zmanjšanje števila pasic s piškotki za { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Vključim zmanjšanje števila pasic s piškotki za to spletno mesto?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Zavračanje pasic s piškotki
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Izključim zavračanje pasic s piškotki za { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Vključim zavračanje pasic s piškotki za to spletno mesto?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } bo počistil piškotke tega spletnega mesta in osvežil stran. Če počistite vse piškotke, boste morda odjavljeni ali se bo izpraznila vaša nakupovalna košarica.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } poskuša samodejno zavrniti vse zahteve za shranjevanje piškotkov na spletnih mestih, ki so podprta.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Vklopite to možnost in { -brand-short-name } bo skušal na tem spletnem mestu samodejno zavrniti pasice s piškotki.
 protections-panel-cookie-banner-view-cancel = Prekliči
 protections-panel-cookie-banner-view-turn-off = Izključi
 protections-panel-cookie-banner-view-turn-on = Vključi
