@@ -627,7 +627,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Sýna leitartillögur í huliðsgluggum
 suggestions-addressbar-settings-generic2 = Breyta stillingum fyrir aðrar tillögur í veffangastiku
-search-suggestions-cant-show = Leitartillögur verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt { -brand-short-name } þannig að hann muni ekki neinn leitarferil.
+search-suggestions-cant-show = Leitartillögur verða ekki sýndar í veffangastikunni þar sem þú hefur stillt { -brand-short-name } á að muna ekki neinn leitarferil.
 search-one-click-header2 = Flýtileiðir við leit
 search-one-click-desc = Veldu aðrar leitarvélar sem munu birtast fyrir neðan veffangastikuna og leitarstikuna þegar þú byrjar að slá inn leitarorð.
 search-choose-engine-column =
@@ -984,7 +984,7 @@ cookie-banner-blocker-checkbox-label =
 ## Privacy Section - Address Bar
 
 addressbar-header = Veffangastika
-addressbar-suggest = Þegar veffangastikuna er notuð skal stinga upp á
+addressbar-suggest = Þegar veffangastikan er notuð skal stinga upp á
 addressbar-locbar-history-option =
     .label = Vafurferill
     .accesskey = f
@@ -1057,7 +1057,7 @@ content-blocking-all-cookies = Allar vefkökur
 content-blocking-unvisited-cookies = Vefkökur frá óheimsóttum vefsíðum
 content-blocking-all-windows-tracking-content = Rakningu efnis í öllum gluggum
 content-blocking-all-cross-site-cookies = Allar milli-vefja vefkökur
-content-blocking-cryptominers = Rafmynt grafarar
+content-blocking-cryptominers = Rafmyntagröftur
 content-blocking-fingerprinters = Fingraför
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
 # the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could

@@ -540,7 +540,7 @@ urlbar-switch-to-tab =
 urlbar-extension =
     .value = Viðbót:
 urlbar-go-button =
-    .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
+    .tooltiptext = Hoppa á tengilinn sem er í veffangastikunni
 urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
 
