@@ -15,8 +15,10 @@ autofill-manage-remove-button = Fjern
 autofill-manage-add-button = Legg til…
 autofill-manage-edit-button = Rediger…
 
-##
+## The address capture doorhanger
 
+address-capture-save-doorhanger-header = Lagre adresse?
+address-capture-save-doorhanger-description = Lagre informasjon i { -brand-short-name } slik at du raskt kan fylle ut skjemaer.
 # The dialog title for creating addresses in browser preferences.
 autofill-add-new-address-title = Legg til ny adresse
 # The dialog title for editing addresses in browser preferences.
@@ -75,6 +77,9 @@ autofill-address-postal-code = Postnummer
 autofill-address-zip = Postnummer
 # Used in IE
 autofill-address-eircode = Eircode
+
+##
+
 
 ##
 
