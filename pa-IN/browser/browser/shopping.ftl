@@ -196,6 +196,18 @@ shopping-callout-closed-not-opted-in-subtitle = ਜਿੱਥੇ ਵੀ ਤੁਸ
 ## Onboarding message strings.
 
 shopping-onboarding-headline = ਉਤਪਾਦ ਰੀਵਿਊ ਲਈ ਸਾਡੀ ਭਰੋਸੇਯੋਗ ਗਾਈਡ ਨੂੰ ਅਜ਼ਮਾਓ
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੋ ਕਿ <b>{ $currentSite }</b> ਉੱਤੇ ਉਤਪਾਦ ਰੀਵਿਊ ਕਿੰਨੇ ਭਰੋਸੇਯੋਗ ਹਨ। ਰੀਵਿਊ ਚੈਕਰ, { -vendor-short-name } ਵਲੋਂ ਹਾਲੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰ ਹੈ, ਜੋ { -brand-product-name } ਵਿੱਚ ਮੌਜੂਦ ਹੈ — ਅਤੇ ਇਹ <b>{ $secondSite }</b> ਅਤੇ <b>{ $thirdSite }</b> ਨਾਲ ਵੀ ਕੰਮ ਕਰਦਾ ਹੈ।
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = ਖਰੀਦਣ ਤੋਂ ਪਹਿਲਾਂ ਵੇਖੋ ਕਿ <b>{ $currentSite }</b> ਉੱਤੇ ਉਤਪਾਦ ਰੀਵਿਊ ਕਿੰਨੇ ਭਰੋਸੇਯੋਗ ਹਨ। ਰੀਵਿਊ ਚੈਕਰ, { -brand-product-name } ਵਲੋਂ ਹਾਲੇ ਤਜਰਬੇ ਅਧੀਨ ਫ਼ੀਚਰ ਹੈ, ਜੋ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਵਿੱਚ ਮੌਜੂਦ ਹੈ। ਇਹ <b>{ $secondSite }</b> ਅਤੇ <b>{ $thirdSite }</b> ਨਾਲ ਵੀ ਕੰਮ ਕਰਦਾ ਹੈ।
 shopping-onboarding-body = { -fakespot-brand-full-name } ਦੇ ਰਾਹੀਂ ਅਸੀਂ ਤੁਹਾਨੂੰ ਪੱਖਪਾਤੀ ਅਤੇ ਗ਼ੈਰ-ਪ੍ਰਮਾਣਿਤ ਰੀਵਿਊਆਂ ਤੋਂ ਬਚਾਅ ਸਕਦੇ ਹਾਂ। ਸਾਡਾ AI ਮਾਡਲ ਤੁਹਾਨੂੰ ਖਰੀਦਦਾਰੀ ਕਰਨ ਦੌਰਾਨ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਹਮੇਸ਼ਾਂ ਸੁਧਾਰ ਕਰ ਰਿਹਾ ਹੈ। <a data-l10n-name="learn_more">ਹੋਰ ਜਾਣੋ</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-full-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = “{ shopping-onboarding-opt-in-button }“ ਚੁਣਨ ਨਾਲ ਤੁਸੀਂ { -fakespot-brand-name } ਦੀ <a data-l10n-name="privacy_policy">ਪਰਦੇਦਾਰੀ ਨੀਤੀ</a> ਅਤੇ <a data-l10n-name="terms_of_use">ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</a> ਨਾਲ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ।
