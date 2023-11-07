@@ -189,6 +189,8 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Retournez au <strong>vérificateur d’avis</strong> chaque fois que vous voyez l’icône d’étiquette de prix.
 shopping-callout-pdp-opted-in-title = Ces avis sont-ils fiables ? Découvrez-le vite.
+shopping-callout-pdp-opted-in-subtitle = Ouvrez le vérificateur d’avis pour consulter l’évaluation corrigée, qui ne tient pas compte des avis non fiables. Vous pourrez aussi consulter les points essentiels tirés d’avis authentiques récents.
+shopping-callout-closed-not-opted-in-title = Des avis fiables en un clic
 
 ## Onboarding message strings.
 
