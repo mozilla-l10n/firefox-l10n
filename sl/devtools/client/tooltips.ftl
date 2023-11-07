@@ -40,6 +40,16 @@ inactive-css-border-image = <strong>{ $property }</strong> nima vpliva na ta ele
 inactive-css-ruby-element = <strong>{ $property }</strong> nima vpliva na ta element, ker je to element ruby. Njegovo velikost določa velikost pisave besedila ruby.
 inactive-css-highlight-pseudo-elements-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih highlight.
 inactive-css-cue-pseudo-element-not-supported = Lastnost <strong>{ $property }</strong> ni podprta pri psevdoelementih ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> ne vpliva na ta element, ker ima več kot { $lineCount } vrstico.
+        [two] <strong>{ $property }</strong> ne vpliva na ta element, ker ima več kot { $lineCount } vrstici.
+        [few] <strong>{ $property }</strong> ne vpliva na ta element, ker ima več kot { $lineCount } vrstice.
+       *[other] <strong>{ $property }</strong> ne vpliva na ta element, ker ima več kot { $lineCount } vrstic.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne vpliva na ta element, ker je razdrobljen, torej je njegova vsebina razdeljena med več stolpcev ali strani.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +76,8 @@ inactive-css-not-table-cell-fix = Poskusite dodati <strong>display:table-cell</s
 inactive-scroll-padding-when-not-scroll-container-fix = Poskusite dodati <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ali <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = V nadrejenem elementu "table" odstranite lastnost ali pa ji spremenite <strong>border-collapse</strong> v vrednost, drugačno od <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Poskusite spremeniti lastnost <strong>font-size</strong> besedila ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Poskusite zmanjšati število vrstic. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Preprečite delitev vsebine elementa, tako da na primer odstranite stolpce ali uporabite <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
