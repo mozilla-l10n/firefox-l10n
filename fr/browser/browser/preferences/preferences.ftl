@@ -969,9 +969,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Réduction des bannières de cookies
 cookie-banner-handling-description = { -brand-short-name } essaie automatiquement de refuser les demandes de dépôt de cookies des bannières de cookies sur les sites compatibles.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Bloqueur de bannières de cookies
+cookie-banner-blocker-description = Lorsqu’un site demande s’il peut utiliser des cookies en navigation privée, { -brand-short-name } les refuse automatiquement pour vous. Uniquement sur les sites pris en charge.
 cookie-banner-learn-more = En savoir plus
 forms-handle-cookie-banners =
     .label = Réduire les bannières de cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Refuser automatiquement les bannières de cookies
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1009,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Les actions rapides
     .accesskey = a
+addressbar-locbar-showrecentsearches-option =
+    .label = Afficher les recherches récentes
+    .accesskey = r
 addressbar-suggestions-settings = Modifier les préférences pour les suggestions de recherche
 addressbar-quickactions-learn-more = En savoir plus
 
