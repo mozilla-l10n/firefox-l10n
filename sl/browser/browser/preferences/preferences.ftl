@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Spletnim mestom sporočaj, naj ne prodajajo ali delijo mojih podatkov
     .accesskey = n
+non-technical-privacy-header = Nastavitve zasebnosti spletnih mest
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -977,9 +978,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Zmanjšanje števila pasic s piškotki
 cookie-banner-handling-description = { -brand-short-name } samodejno poskuša zavrniti vse zahteve pasic za shranjevanje piškotkov na spletnih mestih, ki so podprta.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Zavračanje pasic s piškotki
+cookie-banner-blocker-description = Ko v načinu zasebnega brskanja spletno mesto vpraša, ali lahko uporablja piškotke, jih { -brand-short-name } samodejno zavrne. Samo na podprtih straneh.
 cookie-banner-learn-more = Več o tem
 forms-handle-cookie-banners =
     .label = Zmanjšajte število pasic s piškotki
+cookie-banner-blocker-checkbox-label =
+    .label = Samodejno zavračaj piškotke
 
 ## Privacy Section - Address Bar
 
@@ -1010,6 +1018,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = hitra dejanja
     .accesskey = h
+addressbar-locbar-showrecentsearches-option =
+    .label = Prikaži nedavna iskanja
+    .accesskey = d
 addressbar-suggestions-settings = Spremeni nastavitve predlogov iskanja
 addressbar-quickactions-learn-more = Več o tem
 
