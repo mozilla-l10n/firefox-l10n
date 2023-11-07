@@ -40,6 +40,14 @@ inactive-css-border-image = </strong>{ $property }<strong> n’a aucun effet sur
 inactive-css-ruby-element = <strong>{ $property }</strong> n’a aucun effet sur cet élément, car il s’agit d’un élément ruby. Sa taille est déterminée par celle de la police utilisée pour le texte ruby.
 inactive-css-highlight-pseudo-elements-not-supported = La propriété <strong>{ $property }</strong> n’est pas prise en charge par les pseudo-éléments highlight.
 inactive-css-cue-pseudo-element-not-supported = La propriété <strong>{ $property }</strong> n’est pas prise en charge par les pseudo-éléments ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] La propriété <strong>{ $property }</strong> n’a pas d’effet sur cet élément, car il a plus d’{ $lineCount } ligne.
+       *[other] La propriété <strong>{ $property }</strong> n’a pas d’effet sur cet élément, car il a plus de { $lineCount } lignes.
+    }
+inactive-css-text-wrap-balance-fragmented = La propriété <strong>{ $property }</strong> n’a pas d’effet sur cet élément, car il est fragmenté (son contenu est réparti sur plusieurs colonnes ou pages).
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +74,8 @@ inactive-css-not-table-cell-fix = Essayez d’ajouter <strong>display:table-cell
 inactive-scroll-padding-when-not-scroll-container-fix = Essayez d’ajouter <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> ou <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = Sur l’élément parent dans le tableau, supprimez la propriété <strong>border-collapse</strong> ou modifiez sa valeur pour autre chose que <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Essayez de modifier la <strong>taille de police</strong> du texte ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Essayez de réduire le nombre de lignes. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Évitez de fragmenter le contenu de l’élément, p. ex. en supprimant les colonnes ou en utilisant la règle <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
