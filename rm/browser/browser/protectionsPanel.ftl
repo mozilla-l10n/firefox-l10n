@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Protecziun avanzada cunter il fastizar
     .description = Deactivà per questa website
     .aria-label = Activar las protecziuns per { $host }
+protections-panel-etp-toggle-on =
+    .label = Protecziun avanzada cunter il fastizar
+    .description = Activà per questa website
+    .aria-label = Protecziun avanzada cunter il fastizar: Activà per { $host }
+protections-panel-etp-toggle-off =
+    .label = Protecziun avanzada cunter il fastizar
+    .description = Deactivà per questa website
+    .aria-label = Protecziun avanzada cunter il fastizar: Deactivà per { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Na funcziunescha la site betg?
 # The heading/title of the sub-panel view

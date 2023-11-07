@@ -1010,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Acziuns sveltas
     .accesskey = z
+addressbar-locbar-showrecentsearches-option =
+    .label = Mussar las ultimas tschertgas
+    .accesskey = r
 addressbar-suggestions-settings = Midar las preferenzas per propostas da maschinas da tschertgar
 addressbar-quickactions-learn-more = Ulteriuras infurmaziuns
 
