@@ -180,8 +180,8 @@ firefoxview-history-empty-description-two = Η προστασία του απο�
 ##
 
 # Button text for choosing a browser within the ’Import history from another browser’ banner
-firefoxview-choose-browser-button = Επιλογή φυλλομετρητή
-    .title = Επιλογή φυλλομετρητή
+firefoxview-choose-browser-button = Επιλογή προγράμματος περιήγησης
+    .title = Επιλογή προγράμματος περιήγησης
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
