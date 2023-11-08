@@ -102,8 +102,8 @@ storage-parsed-value = Αναλυμένη τιμή
 # Warning notification when IndexedDB database could not be deleted immediately.
 # Variables:
 #   $dbName (String) - Name of the database
-storage-idb-delete-blocked = Η βάση δεδομένων “{ $dbName }” θα διαγραφεί αφού κλείσουν όλες οι συνδέσεις.
+storage-idb-delete-blocked = Η βάση δεδομένων «{ $dbName }» θα διαγραφεί αφού κλείσουν όλες οι συνδέσεις.
 # Error notification when IndexedDB database could not be deleted.
 # Variables:
 #   $dbName (String) - Name of the database
-storage-idb-delete-error = Δεν ήταν δυνατή η διαγραφή της βάσης δεδομένων “{ $dbName }”.
+storage-idb-delete-error = Δεν ήταν δυνατή η διαγραφή της βάσης δεδομένων «{ $dbName }».

@@ -197,9 +197,9 @@ colorways-cfr-header-today = Οι χρωματικοί συνδυασμοί «Α
 
 ## Cookie Banner Handling CFR
 
-cfr-cbh-header = Να επιτρέπεται στο { -brand-short-name } η απόρριψη των μηνυμάτων για cookies;
-cfr-cbh-body = Το { -brand-short-name } μπορεί να απορρίψει αυτόματα πολλά μηνύματα αιτημάτων για cookies.
-cfr-cbh-confirm-button = Απόρριψη μηνυμάτων για cookies
+cfr-cbh-header = Να επιτρέπεται στο { -brand-short-name } η απόρριψη των μηνυμάτων για cookie;
+cfr-cbh-body = Το { -brand-short-name } μπορεί να απορρίψει αυτόματα πολλά μηνύματα αιτημάτων για cookie.
+cfr-cbh-confirm-button = Απόρριψη μηνυμάτων για cookie
     .accesskey = Α
 cfr-cbh-dismiss-button = Όχι τώρα
     .accesskey = χ
