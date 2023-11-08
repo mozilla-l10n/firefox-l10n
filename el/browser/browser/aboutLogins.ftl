@@ -19,7 +19,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Άνοιγμα μενού
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο φυλλομετρητή…
+about-logins-menu-menuitem-import-from-another-browser = Εισαγωγή από άλλο πρόγραμμα περιήγησης…
 about-logins-menu-menuitem-import-from-a-file = Εισαγωγή από αρχείο…
 about-logins-menu-menuitem-export-logins = Εξαγωγή συνδέσεων…
 about-logins-menu-menuitem-remove-all-logins = Αφαίρεση όλων των συνδέσεων…
@@ -79,13 +79,13 @@ about-logins-list-section-week = Τελευταίες 7 ημέρες
 
 about-logins-login-intro-heading-logged-out2 = Ψάχνετε τις αποθηκευμένες συνδέσεις σας; Ενεργοποιήστε τον συγχρονισμό ή εισάγετέ τες.
 about-logins-login-intro-heading-logged-in = Δεν βρέθηκαν συγχρονισμένες συνδέσεις.
-login-intro-description = Αν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } άλλης συσκευής, μπορείτε να τις μεταφέρετε εδώ ως εξής:
+login-intro-description = Εάν αποθηκεύσατε τις συνδέσεις σας στο { -brand-product-name } κάποιας άλλης συσκευής, μπορείτε να τις μεταφέρετε εδώ ως εξής:
 login-intro-instructions-fxa = Στη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας, δημιουργήστε ή συνδεθείτε στον { -fxaccount-brand-name(case: "acc", capitalization: "lower") } σας.
 login-intro-instructions-fxa2 = Δημιουργήστε ή συνδεθείτε στον λογαριασμό σας από τη συσκευή όπου έχουν αποθηκευτεί οι συνδέσεις σας.
 login-intro-instructions-fxa-settings = Μεταβείτε στις Ρυθμίσεις > Συγχρονισμός > Ενεργοποίηση συγχρονισμού… και επιλέξτε «Συνδέσεις και κωδικοί πρόσβασης».
 login-intro-instructions-fxa-passwords-help = Επισκεφτείτε την <a data-l10n-name="passwords-help-link">υποστήριξη κωδικών πρόσβασης</a> για περαιτέρω βοήθεια.
 about-logins-intro-browser-only-import = Αν οι συνδέσεις σας είναι αποθηκευμένες σε άλλο πρόγραμμα περιήγησης, μπορείτε να <a data-l10n-name="import-link">τις εισαγάγετε στο { -brand-product-name }</a>
-about-logins-intro-import2 = Εάν οι συνδέσεις σας αποθηκεύονται εκτός του { -brand-product-name }, μπορείτε να τις <a data-l10n-name="import-browser-link">εισαγάγετε από άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">από κάποιο αρχείο</a>
+about-logins-intro-import2 = Εάν οι συνδέσεις σας έχουν αποθηκευτεί εκτός του { -brand-product-name }, μπορείτε να τις εισαγάγετε από <a data-l10n-name="import-browser-link">κάποιο άλλο πρόγραμμα περιήγησης</a> ή <a data-l10n-name="import-file-link">αρχείο</a>
 
 ## Login
 

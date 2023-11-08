@@ -528,7 +528,7 @@ urlbar-placeholder-with-name =
 #  $component (String): the name of the component which forces remote control.
 #    Example: "DevTools", "Marionette", "RemoteAgent".
 urlbar-remote-control-notification-anchor2 =
-    .tooltiptext = Ο φυλλομετρητής βρίσκεται υπό απομακρυσμένο έλεγχο (αιτία: { $component })
+    .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα (αιτία: { $component })
 urlbar-permissions-granted =
     .tooltiptext = Έχετε χορηγήσει επιπλέον άδειες σε αυτόν τον ιστότοπο.
 urlbar-switch-to-tab =
@@ -873,7 +873,7 @@ navbar-search =
 # "toolbar" is appended automatically and should not be included in
 # in the string
 tabs-toolbar =
-    .aria-label = Καρτέλες φυλλομετρητή
+    .aria-label = Καρτέλες προγράμματος περιήγησης
 tabs-toolbar-new-tab =
     .label = Νέα καρτέλα
 tabs-toolbar-list-all-tabs =

@@ -252,6 +252,6 @@ appmenu-help-not-deceptive =
 
 appmenu-customizetoolbar =
     .label = Προσαρμογή γραμμής εργαλείων…
-appmenu-developer-tools-subheader = Εργαλεία φυλλομετρητή
+appmenu-developer-tools-subheader = Εργαλεία προγράμματος περιήγησης
 appmenu-developer-tools-extensions =
     .label = Επεκτάσεις για προγραμματιστές
