@@ -6,15 +6,15 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Διαχείριση cookies και δεδομένων ιστοτόπων
-site-data-settings-description = Οι ακόλουθοι ιστότοποι αποθηκεύουν cookies και δεδομένα στον υπολογιστή σας. Το { -brand-short-name } διατηρεί τα δεδομένα ιστοτόπων με μόνιμη αποθήκευση μέχρι να τα διαγράψετε, ενώ αφαιρεί τα δεδομένα ιστοτόπων με μη μόνιμη αποθήκευση όταν χρειάζεται αποθηκευτικός χώρος.
+    .title = Διαχείριση cookie και δεδομένων ιστοτόπων
+site-data-settings-description = Οι ακόλουθοι ιστότοποι αποθηκεύουν cookie και δεδομένα στον υπολογιστή σας. Το { -brand-short-name } διατηρεί τα δεδομένα ιστοτόπων με μόνιμη αποθήκευση μέχρι να τα διαγράψετε, ενώ αφαιρεί τα δεδομένα ιστοτόπων με μη μόνιμη αποθήκευση όταν χρειάζεται αποθηκευτικός χώρος.
 site-data-search-textbox =
     .placeholder = Αναζήτηση ιστοτόπων
     .accesskey = Α
 site-data-column-host =
     .label = Ιστότοπος
 site-data-column-cookies =
-    .label = Cookies
+    .label = Cookie
 site-data-column-storage =
     .label = Αποθήκευση
 site-data-column-last-used =
@@ -46,9 +46,9 @@ site-data-remove-shown =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Διαγραφή
-site-data-removing-header = Διαγραφή cookies και δεδομένων ιστοτόπου
-site-data-removing-desc = Η διαγραφή των cookies και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους. Θέλετε σίγουρα να κάνετε αυτές τις αλλαγές;
+site-data-removing-header = Διαγραφή cookie και δεδομένων ιστοτόπου
+site-data-removing-desc = Η διαγραφή των cookie και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους. Θέλετε σίγουρα να κάνετε αυτές τις αλλαγές;
 # Variables:
 #   $baseDomain (String) - The single domain for which data is being removed
-site-data-removing-single-desc = Η διαγραφή των cookies και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους. Θέλετε σίγουρα να διαγράψετε τα cookies και τα δεδομένα ιστοτόπου για το <strong>{ $baseDomain }</strong>;
-site-data-removing-table = Θα διαγραφούν τα cookies και τα δεδομένα ιστοτόπων για τους εξής ιστοτόπους
+site-data-removing-single-desc = Η διαγραφή των cookie και των δεδομένων ιστοτόπων ενδέχεται να σας αποσυνδέσει από ιστοτόπους. Θέλετε σίγουρα να διαγράψετε τα cookie και τα δεδομένα ιστοτόπου για το <strong>{ $baseDomain }</strong>;
+site-data-removing-table = Θα διαγραφούν τα cookie και τα δεδομένα ιστοτόπων για τους εξής ιστοτόπους

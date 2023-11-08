@@ -928,17 +928,17 @@ sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδ
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
 #   $unit (string) - Name of the unit (for example: "bytes", "KB")
-sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookies, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
+sitedata-total-size = Αυτή τη στιγμή, τα αποθηκευμένα cookie, τα δεδομένα ιστοτόπων και η κρυφή μνήμη καταλαμβάνουν { $value } { $unit } χώρου στον δίσκο.
 sitedata-learn-more = Μάθετε περισσότερα
 sitedata-delete-on-close =
-    .label = Διαγραφή cookies και δεδομένων ιστοτόπων όταν κλείνει το { -brand-short-name }
+    .label = Διαγραφή cookie και δεδομένων ιστοτόπων όταν κλείνει το { -brand-short-name }
     .accesskey = c
-sitedata-delete-on-close-private-browsing = Στη λειτουργία μόνιμης ιδιωτικής περιήγησης, τα cookies και τα δεδομένα ιστοτόπων θα διαγράφονται πάντα όταν κλείνει το { -brand-short-name }.
+sitedata-delete-on-close-private-browsing = Στη λειτουργία μόνιμης ιδιωτικής περιήγησης, τα cookie και τα δεδομένα ιστοτόπων θα διαγράφονται πάντα όταν κλείνει το { -brand-short-name }.
 sitedata-allow-cookies-option =
-    .label = Αποδοχή cookies και δεδομένων ιστοτόπων
+    .label = Αποδοχή cookie και δεδομένων ιστοτόπων
     .accesskey = Α
 sitedata-disallow-cookies-option =
-    .label = Φραγή cookies και δεδομένων ιστοτόπων
+    .label = Φραγή cookie και δεδομένων ιστοτόπων
     .accesskey = Φ
 # This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
 # The list items are the strings named sitedata-block-*-option*.
@@ -947,15 +947,15 @@ sitedata-block-desc = Αποκλεισμένος τύπος
 sitedata-option-block-cross-site-trackers =
     .label = Ιχνηλάτες μεταξύ ιστοτόπων
 sitedata-option-block-cross-site-tracking-cookies =
-    .label = Cookies καταγραφής μεταξύ ιστοτόπων
+    .label = Cookie καταγραφής μεταξύ ιστοτόπων
 sitedata-option-block-cross-site-cookies =
-    .label = Cookies καταγραφής μεταξύ ιστοτόπων και απομόνωση άλλων cookies μεταξύ ιστοτόπων
+    .label = Cookie καταγραφής μεταξύ ιστοτόπων και απομόνωση άλλων cookie μεταξύ ιστοτόπων
 sitedata-option-block-unvisited =
-    .label = Cookies από ιστοτόπους που δεν έχετε επισκεφθεί
+    .label = Cookie από ιστοτόπους που δεν έχετε επισκεφτεί
 sitedata-option-block-all-cross-site-cookies =
-    .label = Όλα τα cookies μεταξύ ιστοτόπων (πιθανή δυσλειτουργία ιστοτόπων)
+    .label = Όλα τα cookie μεταξύ ιστοτόπων (πιθανή δυσλειτουργία ιστοτόπων)
 sitedata-option-block-all =
-    .label = Όλα τα cookies (προκαλεί δυσλειτουργία ιστοτόπων)
+    .label = Όλα τα cookie (προκαλεί δυσλειτουργία ιστοτόπων)
 sitedata-clear =
     .label = Απαλοιφή δεδομένων…
     .accesskey = ι
@@ -968,8 +968,8 @@ sitedata-cookies-exceptions =
 
 ## Privacy Section - Cookie Banner Handling
 
-cookie-banner-handling-header = Μείωση μηνυμάτων για cookies
-cookie-banner-handling-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα μηνύματα αιτημάτων για cookies σε υποστηριζόμενους ιστότοπους.
+cookie-banner-handling-header = Μείωση μηνυμάτων για cookie
+cookie-banner-handling-description = Το { -brand-short-name } προσπαθεί να απορρίψει αυτόματα όλα τα μηνύματα αιτημάτων για cookie σε υποστηριζόμενους ιστοτόπους.
 
 ## Privacy Section - Cookie Banner Blocking
 
@@ -977,7 +977,7 @@ cookie-banner-blocker-header = Αποκλεισμός μηνυμάτων για 
 cookie-banner-blocker-description = Όταν ένας ιστότοπος ρωτά εάν μπορεί να χρησιμοποιήσει cookie στη λειτουργία ιδιωτικής περιήγησης, το { -brand-short-name } αρνείται αυτόματα για εσάς. Μόνο σε υποστηριζόμενους ιστοτόπους.
 cookie-banner-learn-more = Μάθετε περισσότερα
 forms-handle-cookie-banners =
-    .label = Μείωση μηνυμάτων για cookies
+    .label = Μείωση μηνυμάτων για cookie
 cookie-banner-blocker-checkbox-label =
     .label = Αυτόματη απόρριψη μηνυμάτων για cookie
 
@@ -1048,15 +1048,15 @@ content-blocking-etp-strict-desc = Ισχυρότερη προστασία, αλ
 content-blocking-etp-custom-desc = Επιλέξτε ιχνηλάτες και σενάρια για αποκλεισμό.
 content-blocking-etp-blocking-desc = Το { -brand-short-name } αποκλείει τα εξής:
 content-blocking-private-windows = Περιεχόμενο καταγραφής σε ιδιωτικά παράθυρα
-content-blocking-cross-site-cookies-in-all-windows2 = Cookies μεταξύ ιστοτόπων σε όλα τα παράθυρα
-content-blocking-cross-site-tracking-cookies = Cookies καταγραφής μεταξύ ιστοτόπων
-content-blocking-all-cross-site-cookies-private-windows = Cookies μεταξύ ιστοτόπων σε ιδιωτικά παράθυρα
-content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies καταγραφής μεταξύ ιστοτόπων και απομόνωση των υπόλοιπων
+content-blocking-cross-site-cookies-in-all-windows2 = Cookie μεταξύ ιστοτόπων σε όλα τα παράθυρα
+content-blocking-cross-site-tracking-cookies = Cookie καταγραφής μεταξύ ιστοτόπων
+content-blocking-all-cross-site-cookies-private-windows = Cookie μεταξύ ιστοτόπων σε ιδιωτικά παράθυρα
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie καταγραφής μεταξύ ιστοτόπων και απομόνωση των υπόλοιπων
 content-blocking-social-media-trackers = Ιχνηλάτες κοινωνικών δικτύων
-content-blocking-all-cookies = Όλα τα cookies
-content-blocking-unvisited-cookies = Cookies από ιστοτόπους που δεν έχετε επισκεφθεί
+content-blocking-all-cookies = Όλα τα cookie
+content-blocking-unvisited-cookies = Cookie από ιστοτόπους που δεν έχετε επισκεφτεί
 content-blocking-all-windows-tracking-content = Περιεχόμενο καταγραφής σε όλα τα παράθυρα
-content-blocking-all-cross-site-cookies = Όλα τα cookies μεταξύ ιστοτόπων
+content-blocking-all-cross-site-cookies = Όλα τα cookie μεταξύ ιστοτόπων
 content-blocking-cryptominers = Cryptominers
 content-blocking-fingerprinters = Fingerprinters
 # The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
@@ -1067,7 +1067,7 @@ content-blocking-known-and-suspected-fingerprinters = Γνωστά και ύπο
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
 # "Contains" here means "isolates", "limits".
-content-blocking-etp-standard-tcp-rollout-description = Η Ολική προστασία cookie περιορίζει τα cookies στον ιστότοπο που βρίσκεστε, ώστε να μην μπορούν να χρησιμοποιηθούν από ιχνηλάτες για την καταγραφή της δραστηριότητάς σας.
+content-blocking-etp-standard-tcp-rollout-description = Η Ολική προστασία cookie περιορίζει τα cookie στον ιστότοπο που βρίσκεστε, ώστε να μην μπορούν να χρησιμοποιηθούν από ιχνηλάτες για την καταγραφή της δραστηριότητάς σας.
 content-blocking-etp-standard-tcp-rollout-learn-more = Μάθετε περισσότερα
 content-blocking-etp-standard-tcp-title = Περιλαμβάνει την Ολική προστασία cookie, την πιο ισχυρή μας λειτουργία απορρήτου
 content-blocking-warning-title = Προσοχή!
@@ -1088,7 +1088,7 @@ content-blocking-option-private =
     .accesskey = ι
 content-blocking-tracking-protection-change-block-list = Αλλαγή λίστας φραγής
 content-blocking-cookies-label =
-    .label = Cookies
+    .label = Cookie
     .accesskey = C
 content-blocking-expand-section =
     .tooltiptext = Περισσότερες πληροφορίες
@@ -1099,7 +1099,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Fingerprinters
+    .label = Fingerprinter
     .accesskey = F
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
@@ -1239,7 +1239,7 @@ certs-thirdparty-toggle =
 space-alert-over-5gb-settings-button =
     .label = Άνοιγμα ρυθμίσεων
     .accesskey = Ά
-space-alert-over-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοτόπων ενδέχεται να μην εμφανίζεται κανονικά. Μπορείτε να διαγράψετε τα αποθηκευμένα δεδομένα στις Ρυθμίσεις > Απόρρητο και ασφάλεια > Cookies και δεδομένα ιστοτόπων.
+space-alert-over-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοτόπων ενδέχεται να μην εμφανίζεται κανονικά. Μπορείτε να διαγράψετε τα αποθηκευμένα δεδομένα στις Ρυθμίσεις > Απόρρητο και ασφάλεια > Cookie και δεδομένα ιστοτόπων.
 space-alert-under-5gb-message2 = <strong>Το { -brand-short-name } δεν διαθέτει επαρκή χώρο στον δίσκο.</strong> Το περιεχόμενο των ιστοτόπων ενδέχεται να μην εμφανίζεται κανονικά. Επισκεφθείτε το «Μάθετε περισσότερα» για να βελτιστοποιήσετε τη χρήση δίσκου σας για μια καλύτερη εμπειρία περιήγησης.
 
 ## Privacy Section - HTTPS-Only
