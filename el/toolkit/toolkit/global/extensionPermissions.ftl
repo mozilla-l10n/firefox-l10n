@@ -9,7 +9,7 @@
 
 webext-perms-description-bookmarks = Ανάγνωση και τροποποίηση σελιδοδεικτών
 webext-perms-description-browserSettings = Ανάγνωση και τροποποίηση των ρυθμίσεων του φυλλομετρητή
-webext-perms-description-browsingData = Απαλοιφή πρόσφατου ιστορικού περιήγησης, cookies και σχετικών δεδομένων
+webext-perms-description-browsingData = Απαλοιφή πρόσφατου ιστορικού περιήγησης, cookie και σχετικών δεδομένων
 webext-perms-description-clipboardRead = Λήψη δεδομένων από το πρόχειρο
 webext-perms-description-clipboardWrite = Εισαγωγή δεδομένων στο πρόχειρο
 webext-perms-description-declarativeNetRequest = Φραγή περιεχομένου σε οποιαδήποτε σελίδα

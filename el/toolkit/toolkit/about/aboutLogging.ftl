@@ -32,7 +32,7 @@ about-logging-with-profiler-stacks-checkbox = Ενεργοποίηση ιχνώ�
 
 about-logging-preset-networking-label = Δικτύωση
 about-logging-preset-networking-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων δικτύωσης
-about-logging-preset-networking-cookie-label = Cookies
+about-logging-preset-networking-cookie-label = Cookie
 about-logging-preset-networking-cookie-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων cookie
 about-logging-preset-networking-websocket-label = WebSockets
 about-logging-preset-networking-websocket-description = Μονάδες καταγραφής για τη διάγνωση προβλημάτων WebSocket
