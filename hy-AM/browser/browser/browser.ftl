@@ -86,6 +86,9 @@ urlbar-result-menu-button =
 urlbar-result-menu-learn-more =
     .label = Իմանալ ավելին
     .accesskey = L
+urlbar-result-menu-remove-from-history =
+    .label = Ջնջել Պատմությունից
+    .accesskey = R
 urlbar-result-menu-tip-get-help =
     .label = Ստանալ օգնություն
     .accesskey = h
@@ -785,6 +788,9 @@ unified-extensions-button-permissions-needed =
 
 ## Unified extensions button when some extensions are quarantined.
 ## Note that the new line is intentionally part of the tooltip.
+
+
+## Private browsing reset button
 
 
 ## Autorefresh blocker
