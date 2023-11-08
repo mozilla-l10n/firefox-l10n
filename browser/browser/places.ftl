@@ -134,7 +134,7 @@ places-manage-bookmarks =
 places-forget-about-this-site-confirmation-title = Εξάλειψη αυτού του ιστοτόπου
 # Variables:
 # $hostOrBaseDomain (string) - The base domain (or host in case there is no base domain) for which data is being removed
-places-forget-about-this-site-confirmation-msg = Αυτή η ενέργεια θα αφαιρέσει τα δεδομένα που σχετίζονται με το { $hostOrBaseDomain }, όπως το ιστορικό, τα cookies, την κρυφή μνήμη και τις προτιμήσεις περιεχομένου. Δεν θα διαγραφούν οι σχετικοί σελιδοδείκτες και κωδικοί πρόσβασης. Θέλετε σίγουρα να συνεχίσετε;
+places-forget-about-this-site-confirmation-msg = Αυτή η ενέργεια θα αφαιρέσει τα δεδομένα που σχετίζονται με το { $hostOrBaseDomain }, όπως το ιστορικό, τα cookie, την προσωρινή μνήμη και τις προτιμήσεις περιεχομένου. Δεν θα διαγραφούν οι σχετικοί σελιδοδείκτες και κωδικοί πρόσβασης. Θέλετε σίγουρα να συνεχίσετε;
 places-forget-about-this-site-forget = Εξάλειψη
 places-library3 =
     .title = Βιβλιοθήκη

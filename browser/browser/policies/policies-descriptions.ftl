@@ -25,7 +25,7 @@ policy-BlockAboutSupport = Αποκλεισμός πρόσβασης στη σε
 policy-Bookmarks = Δημιουργία σελιδοδεικτών στη γραμμή σελιδοδεικτών, στο μενού σελιδοδεικτών ή σε ένα συγκεκριμένο φάκελο μέσα τους.
 policy-CaptivePortal = Ενεργοποίηση ή απενεργοποίηση υποστήριξης πυλών υποδοχής.
 policy-CertificatesDescription = Προσθήκη πιστοποιητικών ή χρήση ενσωματωμένων πιστοποιητικών.
-policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookies.
+policy-Cookies = Αποδοχή ή άρνηση αιτημάτων αποθήκευσης cookie.
 # Containers in this context is referring to container tabs in Firefox.
 policy-Containers = Ορισμός πολιτικών που σχετίζονται με τις θεματικές ενότητες.
 policy-DisableAccounts = Απενεργοποίηση υπηρεσιών που βασίζονται σε λογαριασμό, συμπεριλαμβανομένου του συγχρονισμού.
@@ -83,7 +83,7 @@ policy-LegacyProfiles = Απενεργοποίηση της λειτουργία
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Ενεργοποίηση προεπιλεγμένης ρύθμισης συμπεριφοράς του παλαιού SameSite cookie.
-policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookies σε καθορισμένους ιστοτόπους.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Επαναφορά στην παλαιά συμπεριφορά SameSite για cookie σε καθορισμένους ιστοτόπους.
 
 ##
 

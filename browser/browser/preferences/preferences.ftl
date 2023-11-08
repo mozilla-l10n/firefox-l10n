@@ -923,7 +923,7 @@ history-clear-button =
 
 ## Privacy Section - Site Data
 
-sitedata-header = Cookies και δεδομένα ιστοτόπων
+sitedata-header = Cookie και δεδομένα ιστοτόπων
 sitedata-total-size-calculating = Υπολογισμός μεγέθους δεδομένων ιστοτόπου και προσωρινής μνήμης…
 # Variables:
 #   $value (number) - Value of the unit (for example: 4.6, 500)
