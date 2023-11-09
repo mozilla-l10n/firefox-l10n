@@ -1005,6 +1005,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Ações rápidas
     .accesskey = Q
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostrar pesquisas recentes
+    .accesskey = r
 addressbar-suggestions-settings = Alterar preferências para as sugestões dos motores de pesquisa
 addressbar-quickactions-learn-more = Saber mais
 
@@ -1147,6 +1150,8 @@ permissions-addon-exceptions =
 ## Privacy Section - Data Collection
 
 collection-header = Recolha de dados e utilização do { -brand-short-name }
+collection-header2 = Recolha de dados e utilização do { -brand-short-name }
+    .searchkeywords = telemetria
 collection-description = Nós esforçamos-nos para lhe fornecer escolhas e recolher apenas o que precisamos para fornecer e melhorar o { -brand-short-name } para toda a gente. Pedimos sempre permissão antes de receber informação pessoal.
 collection-privacy-notice = Aviso de privacidade
 collection-health-report-telemetry-disabled = Deixou de permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados anteriores serão eliminados dentro de 30 dias.
