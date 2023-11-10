@@ -43,9 +43,12 @@ about-logging-preset-media-playback-description = Módulos de registo para diagn
 about-logging-preset-webrtc-label = WebRTC
 about-logging-preset-webrtc-description = Módulos de registo para diagnosticar chamadas de WebRTC
 about-logging-preset-webgpu-label = WebGPU
+about-logging-preset-webgpu-description = Módulos de registo para diagnosticar problemas no WebGPU
 about-logging-preset-gfx-label = Gráficos
+about-logging-preset-gfx-description = Módulos de registo para diagnosticar problemas gráficos
 # This is specifically "Microsoft Windows". Microsoft normally doesn't localize it, and we should follow their convention here.
 about-logging-preset-windows-label = Windows
+about-logging-preset-windows-description = Módulos de registo para diagnosticar problemas específicos do Microsoft Windows
 about-logging-preset-custom-label = Personalizar
 about-logging-preset-custom-description = Módulos de registo selecionados manualmente
 # Error handling
