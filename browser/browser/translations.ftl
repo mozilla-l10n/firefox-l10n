@@ -10,6 +10,10 @@ urlbar-translations-button =
 # panel.
 urlbar-translations-button2 =
     .tooltiptext = Traduzir esta página - Beta
+# Note that here "Beta" should not be translated, as it is a reflection of the
+# un-localized BETA icon that is in the panel.
+urlbar-translations-button-intro =
+    .tooltiptext = Experimentar as traduções privadas em { -brand-shorter-name } – Beta
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -118,12 +122,6 @@ translations-manage-description = Transferir idiomas para a tradução offline.
 translations-manage-all-language = Todos os idiomas
 translations-manage-download-button = Transferir
 translations-manage-delete-button = Eliminar
-translations-manage-language-download-button =
-    .label = Transferir
-    .accesskey = T
-translations-manage-language-delete-button =
-    .label = Eliminar
-    .accesskey = E
 translations-manage-error-download = Ocorreu um problema ao transferir os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-error-delete = Ocorreu um erro ao eliminar os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-language-install-button =
