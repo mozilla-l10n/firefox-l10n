@@ -115,7 +115,7 @@ search-results-help-link = Precisa de ajuda? Visite o <a data-l10n-name="url">Ap
 
 ## General Section
 
-startup-header = Arranque
+startup-header = Inicialização
 always-check-default =
     .label = Verificar sempre se o { -brand-short-name } é o seu navegador predefinido
     .accesskey = V
