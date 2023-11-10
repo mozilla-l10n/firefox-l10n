@@ -152,7 +152,7 @@ troubleshoot-mode-title = Diagnosticar problemas
 restart-in-troubleshoot-mode-label = Modo de diagnóstico…
 clear-startup-cache-title = Tente limpar a cache de arranque
 clear-startup-cache-label = Limpar cache de arranque ...
-startup-cache-dialog-title2 = Reiniciar o { -brand-short-name } para limpar a cache de arranque?
+startup-cache-dialog-title2 = Reiniciar o { -brand-short-name } para limpar a cache de inicialização?
 startup-cache-dialog-body2 = Isto não irá mudar as suas configurações nem irá remover as extensões.
 restart-button-label = Reiniciar
 
