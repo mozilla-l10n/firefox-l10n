@@ -47,6 +47,8 @@ translations-panel-settings-always-translate-language =
     .label = Traduzir sempre { $language }
 translations-panel-settings-always-translate-unknown-language =
     .label = Traduzir sempre este idioma
+translations-panel-settings-always-offer-translation =
+    .label = Oferecer sempre a opção de tradução
 # Text displayed for the option to never translate a given language
 # Variables:
 #   $language (string) - The localized display name of the detected language
@@ -69,6 +71,8 @@ translations-panel-translate-button-loading =
 translations-panel-translate-cancel =
     .label = Cancelar
 translations-panel-learn-more-link = Saiba mais
+translations-panel-intro-header = Experimentar as traduções privadas no { -brand-shorter-name }
+translations-panel-intro-description = Para a sua privacidade, as traduções nunca deixam o seu dispositivo. Novos idiomas e melhorias em breve!
 translations-panel-error-translating = Ocorreu um problema com a tradução. Por favor, tente novamente.
 translations-panel-error-load-languages = Não foi possível carregar os idiomas
 translations-panel-error-load-languages-hint = Verifique a sua ligação à Internet e tente novamente.
@@ -124,6 +128,8 @@ translations-manage-download-button = Transferir
 translations-manage-delete-button = Eliminar
 translations-manage-error-download = Ocorreu um problema ao transferir os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-error-delete = Ocorreu um erro ao eliminar os ficheiros de idioma. Por favor, tente novamente.
+translations-manage-intro = Defina as suas preferências de idioma e de tradução de sites e faça a gestão dos idiomas instalados para tradução offline.
+translations-manage-install-description = Instalar idiomas para tradução offline
 translations-manage-language-install-button =
     .label = Instalar
 translations-manage-language-install-all-button =
@@ -134,6 +140,8 @@ translations-manage-language-remove-button =
 translations-manage-language-remove-all-button =
     .label = Remover todos
     .accesskey = R
+translations-manage-error-install = Ocorreu um problema ao instalar os ficheiros de idioma. Por favor, tente novamente.
+translations-manage-error-remove = Ocorreu um erro ao remover os ficheiros de idioma. Por favor, tente novamente.
 translations-manage-error-list = Não foi possível obter a lista dos idiomas disponíveis para tradução. Atualize a página para tentar novamente.
 translations-settings-title =
     .title = Definições de Traduções
