@@ -24,6 +24,7 @@ about-webrtc-aec-logging-off-state-label = Iniciar registo AEC
 about-webrtc-aec-logging-on-state-label = Parar registo AEC
 about-webrtc-aec-logging-on-state-msg = Registo AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
 about-webrtc-aec-logging-toggled-on-state-msg = Registo AEC ativo (fale com o remetente da chamada durante alguns minutos e depois pare a captura)
+about-webrtc-aec-logging-unavailable-sandbox = A variável de ambiente MOZ_DISABLE_CONTENT_SANDBOX=1 é necessária para exportar registos AEC. Defina esta variável apenas se compreender os possíveis riscos.
 # Variables:
 #  $path (String) - The path to which the aec log file is saved.
 about-webrtc-aec-logging-toggled-off-state-msg = Os ficheiros do registo da captura podem ser encontrados em: { $path }
@@ -228,8 +229,6 @@ about-webrtc-aec-logging-off-state-msg = os ficheiros do registo da captura pode
 # Variables:
 #  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Página guardada em: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = O registo de execução pode ser encontrado em: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuração ativo, registo de rastreio em: { $path }
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -302,6 +301,9 @@ about-webrtc-sdp-set-timestamp = Marcador temporal { NUMBER($timestamp, useGroup
 about-webrtc-show-msg-sdp = Mostrar SDP
 about-webrtc-hide-msg-sdp = Esconder SDP
 
+##
+
+
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
 ## the negotiated CODEC settings.
@@ -309,9 +311,6 @@ about-webrtc-hide-msg-sdp = Esconder SDP
 about-webrtc-media-context-show-msg = Mostrar Contexto de Multimédia
 about-webrtc-media-context-hide-msg = Ocultar Contexto de Multimédia
 about-webrtc-media-context-heading = Contexto de Multimédia
-
-##
-
 
 ##
 
