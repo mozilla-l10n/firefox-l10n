@@ -1154,21 +1154,21 @@ collection-header2 = Recolha de dados e utilização do { -brand-short-name }
     .searchkeywords = telemetria
 collection-description = Nós esforçamos-nos para lhe fornecer escolhas e recolher apenas o que precisamos para fornecer e melhorar o { -brand-short-name } para toda a gente. Pedimos sempre permissão antes de receber informação pessoal.
 collection-privacy-notice = Aviso de privacidade
-collection-health-report-telemetry-disabled = Deixou de permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados anteriores serão eliminados dentro de 30 dias.
+collection-health-report-telemetry-disabled = Já não está a permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados antigos serão eliminados dentro de 30 dias.
 collection-health-report-telemetry-disabled-link = Saber mais
 collection-health-report =
     .label = Permitir que o { -brand-short-name } envie os dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saber mais
 collection-studies =
-    .label = Permitir ao { -brand-short-name } instalar e executar estudos
+    .label = Permitir que { -brand-short-name } instale e execute os estudos
 collection-studies-link = Ver estudos do { -brand-short-name }
 addon-recommendations =
-    .label = Permitir que o { -brand-short-name } faça recomendações personalizadas de extensões
+    .label = Permitir que { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saber mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
-collection-health-report-disabled = Relato de dados está desativado para a configuração desta compilação
+collection-health-report-disabled = A comunicação de dados está desativada para esta configuração da compilação
 collection-backlogged-crash-reports-with-link = Permitir que o { -brand-short-name } envie relatórios de falhas acumuladas em seu nome. <a data-l10n-name="crash-reports-link">Saber mais</a>
     .accesskey = f
 privacy-segmentation-section-header = Novas funcionalidades que melhoram a sua navegação

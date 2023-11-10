@@ -240,6 +240,8 @@ device-migration-fxa-spotlight-link = Lembrar mais tarde
 
 ## Set as Default PDF Reader Infobar
 
+# The question portion of the following message should have the <strong> and </strong> tags surrounding it.
+pdf-default-notification-message = <strong>Tornar o { -brand-short-name } no seu leitor de PDF predefindo?</strong> Utilize o { -brand-short-name } para ler e editar PDF guardados no seu computador.
 pdf-default-notification-set-default-button =
     .label = Definir como predefinição
 pdf-default-notification-decline-button =
