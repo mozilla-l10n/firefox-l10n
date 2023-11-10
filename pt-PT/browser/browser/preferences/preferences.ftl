@@ -130,6 +130,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Abrir o { -brand-short-name } automaticamente quando o seu computador arranca
     .accesskey = o
+windows-launch-on-login-disabled = Esta preferência foi desativada no Windows. Para alterar, visite <a data-l10n-name="startup-link">Aplicações de arranque</a> nas definições do Sistema.
 startup-restore-warn-on-quit =
     .label = Avisar-lhe ao sair do navegador
 disable-extension =
@@ -972,9 +973,13 @@ cookie-banner-handling-description = O { -brand-short-name } tenta automaticamen
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Bloqueador de faixas de cookies
+cookie-banner-blocker-description = Quando um site questiona se pode utilizar cookies no modo de navegação privada, o { -brand-short-name } recusa automaticamente por si. Apenas em sites suportados.
 cookie-banner-learn-more = Saber mais
 forms-handle-cookie-banners =
     .label = Reduza as faixas de cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Recusar automaticamente faixas de cookies
 
 ## Privacy Section - Address Bar
 
@@ -1017,6 +1022,10 @@ content-blocking-enhanced-tracking-protection = Proteção melhorada contra a mo
 content-blocking-section-top-level-description = Os rastreadores seguem-no na Internet para recolher informação sobre os seus hábitos e interesses de navegação. O { -brand-short-name } bloqueia muitos destes rastreadores e outros scripts maliciosos.
 content-blocking-learn-more = Saber mais
 content-blocking-fpi-incompatibility-warning = Está a utilizar o isolamento primário (FPI), que substitui algumas das definições de cookies do { -brand-short-name }.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Está a utilizar a Resistência à Identificação Digital (RFP), que substitui algumas das definições de proteção contra identificação digital do { -brand-short-name }. Isto pode fazer com que alguns sites não funcionem corretamente.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -1050,6 +1059,10 @@ content-blocking-all-windows-tracking-content = Conteúdo de monitorização em 
 content-blocking-all-cross-site-cookies = Todos os cookies cruzados
 content-blocking-cryptominers = Cripto-mineradores
 content-blocking-fingerprinters = Identificadores
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices. And
+# the suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-known-and-suspected-fingerprinters = Conhecidos e suspeitos de identificação digital
 
 # The tcp-rollout strings are no longer used for the rollout but for tcp-by-default in the standard section
 
@@ -1088,6 +1101,18 @@ content-blocking-cryptominers-label =
 content-blocking-fingerprinters-label =
     .label = Identificadores
     .accesskey = I
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+#
+# The known fingerprinters are those that are known for collecting browser fingerprints from user devices.
+content-blocking-known-fingerprinters-label =
+    .label = Identificadores digitais conhecidos
+    .accesskey = c
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Identificadores digitais suspeitos
+    .accesskey = s
 
 ## Privacy Section - Tracking
 
@@ -1208,6 +1233,9 @@ certs-view =
 certs-devices =
     .label = Dispositivos de segurança…
     .accesskey = D
+certs-thirdparty-toggle =
+    .label = Permitir que o { -brand-short-name } confie automaticamente em certificados raiz de terceiros que instale
+    .accesskey = t
 space-alert-over-5gb-settings-button =
     .label = Abrir definições
     .accesskey = A

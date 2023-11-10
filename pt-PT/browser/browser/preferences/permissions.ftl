@@ -5,81 +5,62 @@
 permissions-window2 =
     .title = Exceções
     .style = min-width: 45em
-
 permissions-close-key =
     .key = w
-
 permissions-address = Endereço do site
     .accesskey = d
-
 permissions-block =
     .label = Bloquear
     .accesskey = B
-
 permissions-disable-etp =
     .label = Adicionar Exceção
     .accesskey = E
-
 permissions-session =
     .label = Permitir para a sessão
     .accesskey = e
-
 permissions-allow =
     .label = Permitir
     .accesskey = P
-
 permissions-button-off =
     .label = Desligar
     .accesskey = D
-
 permissions-button-off-temporarily =
     .label = Desligar temporariamente
     .accesskey = t
-
 permissions-site-name =
     .label = Site
-
 permissions-status =
     .label = Estado
-
 permissions-remove =
     .label = Remover site
     .accesskey = R
-
 permissions-remove-all =
     .label = Remover todos os sites
     .accesskey = e
-
 permission-dialog =
     .buttonlabelaccept = Guardar alterações
     .buttonaccesskeyaccept = G
-
 permissions-autoplay-menu = Predefinição para todos os sites:
-
 permissions-searchbox =
     .placeholder = Pesquisar site
-
 permissions-capabilities-autoplay-allow =
     .label = Permitir áudio e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear áudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear áudio e vídeo
-
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Perguntar sempre
-
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
 permissions-capabilities-listitem-allow-session =
     .value = Permitir para a sessão
-
 permissions-capabilities-listitem-off =
     .value = Desligado
 permissions-capabilities-listitem-off-temporarily =
@@ -110,6 +91,7 @@ permissions-exceptions-https-only-window2 =
     .title = Exceções - modo apenas HTTPS
     .style = { permissions-window2.style }
 permissions-exceptions-https-only-desc = Pode desativar o modo apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro  para estes sites. As exceções não se aplicam a janelas privadas.
+permissions-exceptions-https-only-desc2 = Pode desativar o Modo Apenas HTTPS para sites específicos. O { -brand-short-name } não tentará atualizar a ligação para HTTPS seguro nesses sites.
 
 ## Exceptions - Pop-ups
 
@@ -197,26 +179,20 @@ permissions-site-speaker-window =
     .title = Definições - Permissões de altifalante
     .style = { permissions-window2.style }
 permissions-site-speaker-desc = Os seguintes sites solicitaram a seleção de um dispositivo de saída de áudio. Você pode especificar quais sites que têm permissão para selecionar um dispositivo de saída de áudio.
-
 permissions-exceptions-doh-window =
     .title = Exceções de sites para DNS sobre HTTPS.
     .style = { permissions-window2.style }
 permissions-exceptions-manage-doh-desc = O { -brand-short-name } não irá utilizar DNS seguro nestes sites e respetivos subdomínios.
-
 permissions-doh-entry-field = Indique o nome de domínio do site
     .accesskey = d
-
 permissions-doh-add-exception =
     .label = Adicionar
     .accesskey = A
-
 permissions-doh-col =
     .label = Domínio
-
 permissions-doh-remove =
     .label = Remover
     .accesskey = R
-
 permissions-doh-remove-all =
     .label = Remover todos
     .accesskey = e

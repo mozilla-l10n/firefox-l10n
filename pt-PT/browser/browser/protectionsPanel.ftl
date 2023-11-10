@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Proteção melhorada contra a monitorização
     .description = Desligada para este site
     .aria-label = Ativar proteções para { $host }
+protections-panel-etp-toggle-on =
+    .label = Proteção melhorada contra a monitorização
+    .description = Ativada para este site
+    .aria-label = Proteção avançada contra a monitorização: ativada para { $host }
+protections-panel-etp-toggle-off =
+    .label = Proteção melhorada contra a monitorização
+    .description = Desativada para este site
+    .aria-label = Proteção melhorada contra a monitorização: desativada para { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = O site não está a funcionar?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Redução de Faixas de Cookies
+protections-panel-cookie-banner-blocker-header = Bloqueador de faixas de cookies
 protections-panel-cookie-banner-handling-enabled = Ativado para este site
 protections-panel-cookie-banner-handling-disabled = Desativado para este site
 protections-panel-cookie-banner-handling-undetected = Site atualmente não suportado
@@ -128,6 +137,11 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Desativar redução de Faixa de Cookies para { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Ativar redução de Faixa de Cookies para este site?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Bloqueador de faixas de cookies
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desativar o bloqueador de faixas de cookies para { $host }?
 protections-panel-cookie-banner-view-cookie-clear-warning = O { -brand-short-name } irá limpar os cookies deste site e irá atualizar a página. A limpeza de todos os cookies pode fazer com que termine sessões ou esvazie os carrinhos de compras.
 protections-panel-cookie-banner-view-turn-on-description = O { -brand-short-name } tenta rejeitar automaticamente todos os pedidos de cookies em sites suportados.
 protections-panel-cookie-banner-view-cancel = Cancelar
