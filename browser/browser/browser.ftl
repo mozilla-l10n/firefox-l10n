@@ -629,10 +629,10 @@ urlbar-group-recent-searches =
 
 # This should match menu-view-enter-readerview in menubar.ftl
 reader-view-enter-button =
-    .aria-label = Entrar na vista de leitura
+    .aria-label = Entrar Visualização de Leitura
 # This should match menu-view-close-readerview in menubar.ftl
 reader-view-close-button =
-    .aria-label = Fechar vista de leitura
+    .aria-label = Fechar Visualização de Leitura
 
 ## Picture-in-Picture urlbar button
 ## Variables:
@@ -721,7 +721,7 @@ bookmarks-subview-edit-bookmark =
 # such, because screen readers already know that this container is a toolbar.
 # This avoids double-speaking.
 bookmarks-toolbar =
-    .toolbarname = Barra de ferramentas de marcadores
+    .toolbarname = Barra de ferramentas dos marcadores
     .accesskey = B
     .aria-label = Marcadores
 bookmarks-toolbar-menu =

@@ -9,6 +9,12 @@
 # NOTE: For Engineers, please don't re-use these strings outside of the menubar.
 
 
+# NOTE: For English locales, strings in this file should be in APA-style Title Case.
+# See https://apastyle.apa.org/style-grammar-guidelines/capitalization/title-case
+#
+# NOTE: For Engineers, please don't reuse these strings outside of the menubar.
+
+
 ## Application Menu (macOS only)
 
 menu-application-preferences =
@@ -184,11 +190,11 @@ menu-view-full-screen =
 
 # This should match reader-view-enter-button in browser.ftl
 menu-view-enter-readerview =
-    .label = Entrar na vista de leitura
-    .accesskey = l
+    .label = Entrar Visualização de Leitura
+    .accesskey = E
 # This should match reader-view-close-button in browser.ftl
 menu-view-close-readerview =
-    .label = Fechar vista de leitura
+    .label = Fechar Visualização de Leitura
     .accesskey = l
 
 ##
