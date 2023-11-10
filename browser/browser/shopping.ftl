@@ -37,6 +37,8 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Novas informações para verificar
+shopping-message-bar-warning-stale-analysis-button = Verificar agora
 shopping-message-bar-generic-error-title2 = Nenhuma informação disponível neste momento
 shopping-message-bar-generic-error-message = Estamos a trabalhar para resolver o problema. Por favor, volte em breve.
 shopping-message-bar-warning-not-enough-reviews-title = Ainda não há avaliações suficientes
@@ -57,6 +59,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = O produto não está disponível
     .message = Se perceber que este produto está novamente em stock, reporte e iremos verificar as avaliações.
+shopping-message-bar-warning-product-not-available-button2 = Informar que o produto está em stock
 shopping-message-bar-thanks-for-reporting =
     .heading = Obrigado por reportar!
     .message = Devemos receber informações sobre as avaliações deste produto dentro de 24 horas. Volte mais tarde.
@@ -138,6 +141,9 @@ shopping-sidebar-open-button2 =
 ## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
+shopping-unanalyzed-product-header-2 = Ainda não há informações sobre estas avaliações
+shopping-unanalyzed-product-message-2 = Para saber se as avaliações deste produto são confiáveis, verifique a qualidade das avaliações. Demora apenas cerca de 60 segundos.
+shopping-unanalyzed-product-analyze-button = Verificar a qualidade da avaliação
 
 ## Strings for the advertisement
 
@@ -147,6 +153,7 @@ ad-by-fakespot = Anúncio por { -fakespot-brand-name }
 
 ## Shopping survey strings.
 
+shopping-survey-headline = Ajudar a melhorar o { -brand-product-name }
 shopping-survey-q1-radio-1-label = Muito satisfeito
 shopping-survey-q1-radio-2-label = Satisfeito
 shopping-survey-q1-radio-3-label = Neutro
@@ -166,9 +173,12 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-pdp-opted-in-title = Estas avaliações são confiáveis? Descubra rapidamente.
+shopping-callout-closed-not-opted-in-title = Um clique para avaliações confiáveis
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Experimente o nosso guia confiável para avaliações de produtos
 # Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
