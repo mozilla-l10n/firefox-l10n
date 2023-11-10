@@ -142,8 +142,10 @@ protections-panel-cookie-banner-blocker-view-title =
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-blocker-view-turn-off-for-site = Desativar o bloqueador de faixas de cookies para { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ativar o bloqueador de faixa de cookies para este site?
 protections-panel-cookie-banner-view-cookie-clear-warning = O { -brand-short-name } irá limpar os cookies deste site e irá atualizar a página. A limpeza de todos os cookies pode fazer com que termine sessões ou esvazie os carrinhos de compras.
 protections-panel-cookie-banner-view-turn-on-description = O { -brand-short-name } tenta rejeitar automaticamente todos os pedidos de cookies em sites suportados.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ative e o { -brand-short-name } tentará recusar automaticamente faixas de cookies neste site.
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desligar
 protections-panel-cookie-banner-view-turn-on = Ligar

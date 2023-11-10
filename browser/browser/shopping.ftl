@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+shopping-page-title = Compras { -brand-product-name }
 # Title for page showing where a user can check the
 # review quality of online shopping product reviews
 shopping-main-container-title = Verificador de avaliações
@@ -95,6 +96,8 @@ shopping-settings-label =
     .label = Definições
 shopping-settings-recommendations-toggle =
     .label = Mostrar anúncios no verificador de avaliações
+shopping-settings-recommendations-learn-more = Irá ver anúncios ocasionais de produtos relevantes. Todos os anúncios devem cumprir os nossos padrões de qualidade de avaliação. <a data-l10n-name="review-quality-url">Saiba mais</a>
+shopping-settings-recommendations-learn-more2 = Irá ver anúncios ocasionais de produtos relevantes. Anunciamos apenas produtos com avaliações confiáveis. <a data-l10n-name="review-quality-url">Saiba mais</a>
 shopping-settings-opt-out-button = Desativar o verificador de avaliações
 powered-by-fakespot = O verificador de avaliações é suportado por <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
@@ -115,8 +118,15 @@ shopping-review-reliability-label =
 
 shopping-analysis-explainer-label =
     .label = Como determinamos a qualidade da avaliação
+shopping-analysis-explainer-intro2 = Utilizamos tecnologia de IA da { -fakespot-brand-full-name } para verificar a confiabilidade das avaliações de produtos. Isto ajuda apenas a avaliar a qualidade das avaliações e não a qualidade do produto.
 shopping-analysis-explainer-grades-intro = Atribuímos às avaliações de cada produto uma <strong>classificação baseada em letras</strong> de A a F.
 shopping-analysis-explainer-adjusted-rating-description = A <strong>classificação ajustada</strong> é baseada apenas em avaliações que acreditamos serem confiáveis.
+shopping-analysis-explainer-learn-more = Saiba mais sobre <a data-l10n-name="review-quality-url">como a { -fakespot-brand-full-name } determina a qualidade das avaliações</a>.
+shopping-analysis-explainer-learn-more2 = Saiba mais sobre <a data-l10n-name="review-quality-url">como a { -fakespot-brand-name } determina a qualidade das avaliações</a>.
+# This string includes the short brand name of one of the three supported
+# websites, which will be inserted without being translated.
+#  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
+shopping-analysis-explainer-highlights-description = <strong>Destaques</strong> são de avaliações de { $retailer } nos últimos 80 dias que acreditamos serem confiáveis.
 shopping-analysis-explainer-review-grading-scale-reliable = Avaliações confiáveis. Acreditamos que os comentários provavelmente são de clientes reais que deixaram comentários honestos e imparciais.
 shopping-analysis-explainer-review-grading-scale-mixed = Acreditamos que há uma mistura de avaliações confiáveis e não confiáveis.
 shopping-analysis-explainer-review-grading-scale-unreliable = Avaliações não confiáveis. Acreditamos que as avaliações provavelmente são falsas ou de avaliadores tendenciosos.
@@ -125,6 +135,8 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Avaliações não 
 
 shopping-sidebar-open-button2 =
     .tooltiptext = Abrir Verificador de Avaliações
+shopping-sidebar-close-button2 =
+    .tooltiptext = Fechar o Verificador de Avaliações
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -154,11 +166,13 @@ ad-by-fakespot = Anúncio por { -fakespot-brand-name }
 ## Shopping survey strings.
 
 shopping-survey-headline = Ajudar a melhorar o { -brand-product-name }
+shopping-survey-question-one = Qual o seu grau de satisfação com a experiência do Verificador de Avaliações no { -brand-product-name }?
 shopping-survey-q1-radio-1-label = Muito satisfeito
 shopping-survey-q1-radio-2-label = Satisfeito
 shopping-survey-q1-radio-3-label = Neutro
 shopping-survey-q1-radio-4-label = Insatisfeito
 shopping-survey-q1-radio-5-label = Muito insatisfeito
+shopping-survey-question-two = O Verificador de Avaliações facilita as suas decisões de compra?
 shopping-survey-q2-radio-1-label = Sim
 shopping-survey-q2-radio-2-label = Não
 shopping-survey-q2-radio-3-label = Não sei
@@ -173,12 +187,30 @@ shopping-survey-thanks =
 ## "price tag" refers to the price tag icon displayed in the address bar to
 ## access the feature.
 
+shopping-callout-closed-opted-in-subtitle = Voltar ao <strong>Verificador de Avaliações</strong> sempre que vir a etiqueta de preço.
 shopping-callout-pdp-opted-in-title = Estas avaliações são confiáveis? Descubra rapidamente.
+shopping-callout-pdp-opted-in-subtitle = Abra o Verificador de Avaliações para ver uma classificação ajustada com avaliações não confiáveis removidas. Além disso, consulte destaques de avaliações autênticas recentes.
 shopping-callout-closed-not-opted-in-title = Um clique para avaliações confiáveis
+shopping-callout-closed-not-opted-in-subtitle = Experimente o Verificador de Avaliações sempre que vir a etiqueta de preço. Obtenha rapidamente informações de compradores reais — antes de comprar.
 
 ## Onboarding message strings.
 
 shopping-onboarding-headline = Experimente o nosso guia confiável para avaliações de produtos
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle = Veja quão confiáveis são as avaliações de produtos em <b>{ $currentSite }</b> antes de comprar. O Verificador de Avaliações, uma funcionalidade experimental da { -vendor-short-name }, está diretamente integrado no { -brand-product-name } — e funciona também em <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+# Dynamic subtitle. Sites are limited to Amazon, Walmart or Best Buy.
+# Variables:
+#   $currentSite (str) - The current shopping page name
+#   $secondSite (str) - A second shopping page name
+#   $thirdSite (str) - A third shopping page name
+shopping-onboarding-dynamic-subtitle-1 = Antes de comprar, veja quão confiáveis são as avaliações de produtos em <b>{ $currentSite }</b>. O Verificador de Avaliações, uma funcionalidade experimental do { -brand-product-name }, está diretamente integrado no navegador. Funciona também em <b>{ $secondSite }</b> e <b>{ $thirdSite }</b>.
+shopping-onboarding-body = Com a ajuda da { -fakespot-brand-full-name }, ajudamos a que evite avaliações tendenciosas e falsas. O nosso modelo de IA está sempre a melhorar, para sua proteção, enquanto faz compras. <a data-l10n-name="learn_more">Saiba mais</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Ao selecionar “{ shopping-onboarding-opt-in-button }“ concorda com a política de privacidade da { -fakespot-brand-full-name } e <a data-l10n-name="terms_of_use">termos de utilização.</a>
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Ao selecionar “{ shopping-onboarding-opt-in-button }“ concorda com a política de privacidade da { -fakespot-brand-name } e <a data-l10n-name="terms_of_use">termos de utilização.</a>
 # Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
 # Variables:
 #   $current (Int) - Number of the current page
