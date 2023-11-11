@@ -973,7 +973,7 @@ cookie-banner-handling-description = { -brand-short-name } versucht, Cookie-Anfo
 
 ## Privacy Section - Cookie Banner Blocking
 
-cookie-banner-blocker-header = Blocker für Cookie-Banner
+cookie-banner-blocker-header = Cookie-Banner-Blocker
 cookie-banner-blocker-description = Wenn eine Website fragt, ob sie Cookies im privaten Modus verwenden darf, lehnt { -brand-short-name } dies automatisch für Sie ab. Nur auf unterstützten Websites.
 cookie-banner-learn-more = Weitere Informationen
 forms-handle-cookie-banners =
