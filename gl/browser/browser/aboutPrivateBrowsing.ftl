@@ -68,6 +68,9 @@ about-private-browsing-pin-promo-title = Nin cookies gardadas nin historial, dir
 about-private-browsing-cookie-banners-promo-header = Adeus aos avisos de cookies!
 about-private-browsing-cookie-banners-promo-button = Reducir os avisos de cookies
 about-private-browsing-cookie-banners-promo-message = Deixe que { -brand-short-name } responda automaticamente os diálogos de cookies por vostede, para que poida continuar navegando sen distraccións. { -brand-short-name } rexeitará todas as solicitudes se é posible.
+# Simplified version of the headline if the original text doesn't work
+# in your language: `{ -brand-short-name } will show fewer cookie requests`
+about-private-browsing-cookie-banners-promo-heading = { -brand-short-name } encárgase dos banners de cookies por ti
 
 ## Strings for Felt Privacy v1 experiments in 119
 
