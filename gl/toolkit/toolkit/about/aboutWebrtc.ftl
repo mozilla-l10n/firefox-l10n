@@ -97,6 +97,7 @@ about-webrtc-save-page-label = Gardar páxina
 about-webrtc-debug-mode-msg-label = Modo de depuración
 about-webrtc-debug-mode-off-state-label = Iniciar modo de depuración
 about-webrtc-debug-mode-on-state-label = Deter o modo de depuración
+about-webrtc-enable-logging-label = Habilitar o registro preestablecido de WebRTC
 about-webrtc-stats-heading = Estatísticas da sesión
 about-webrtc-stats-clear = Borrar historial
 about-webrtc-log-heading = Rexistro de conexión
@@ -222,12 +223,11 @@ about-webrtc-save-page-msg = gardouse a páxina en: { $path }
 about-webrtc-debug-mode-off-state-msg = o rexistro da traza pode atoparse en: { $path }
 about-webrtc-debug-mode-on-state-msg = modo de depuración activo, rexistro da traza en: { $path }
 about-webrtc-aec-logging-off-state-msg = os ficheiros de rexistro poden atoparse en: { $path }
+# This path is used for saving the about:webrtc page so it can be attached to
+# bug reports.
+# Variables:
+#  $path (String) - The path to which the file is saved.
 about-webrtc-save-page-complete-msg = Gardouse a páxina en: { $path }
-about-webrtc-debug-mode-toggled-off-state-msg = O rexistro da traza pode atoparse en: { $path }
-about-webrtc-debug-mode-toggled-on-state-msg = Modo de depuración activo, rexistro da traza en: { $path }
-
-##
-
 # This is the total number of frames encoded or decoded over an RTP stream.
 # Variables:
 #  $frames (Number) - The number of frames encoded or decoded.
@@ -299,6 +299,9 @@ about-webrtc-sdp-set-timestamp = Marca de tempo { NUMBER($timestamp, useGrouping
 
 about-webrtc-show-msg-sdp = Mostrar o SDP
 about-webrtc-hide-msg-sdp = Agochar o SDP
+
+##
+
 
 ## These are displayed on the button that shows or hides the Media Context information disclosure.
 ## The Media Context is the set of preferences and detected capabilities that informs
