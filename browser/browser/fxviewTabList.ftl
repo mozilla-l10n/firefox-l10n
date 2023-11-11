@@ -41,6 +41,16 @@ fxviewtabrow-copy-link = Copiar ligazón
     .accesskey = C
 fxviewtabrow-close-tab = Pechar lapela
     .accesskey = P
+fxviewtabrow-move-tab = Mover lapela
+    .accesskey = v
+fxviewtabrow-move-tab-start = Mover ao principio
+    .accesskey = i
+fxviewtabrow-move-tab-end = Mover ao final
+    .accesskey = f
+fxviewtabrow-move-tab-window = Mover a unha nova xanela
+    .accesskey = x
+fxviewtabrow-send-tab = Enviar a lapela ao dispositivo
+    .accesskey = l
 # Variables:
 #   $tabTitle (string) - Title of the tab to which the context menu is associated
 fxviewtabrow-options-menu-button =
