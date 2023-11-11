@@ -37,6 +37,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-message-2 = Nova información para comprobar
 shopping-message-bar-warning-stale-analysis-button = Comprobar agora
 shopping-message-bar-generic-error-title2 = Non hai información dispoñible neste momento
 shopping-message-bar-generic-error-message = Estamos traballando para resolver o problema. Por favor, volva a comprobalo pronto.
