@@ -109,7 +109,7 @@ certerror-expired-cert-intro = { -brand-short-name } 偵測到潛在的安全性
 # $mitm (String) - The name of the software intercepting communications between you and the website (or “man in the middle”)
 certerror-mitm = <b>{ $hostname }</b> 應該是一個安全的網站，但無法建立安全連線。這個問題是由 <b>{ $mitm }</b> 造成的，可能是來自您的電腦或您的所在網路中的軟體。
 neterror-corrupted-content-intro = 因為在資料傳輸過程當中偵測到錯誤，無法顯示您正要檢視的頁面。
-neterror-corrupted-content-contact-website = 請通知網站管理者以讓他們知道這個問題。
+neterror-corrupted-content-contact-website = 請向網站擁有者回報此問題。
 # Do not translate "SSL_ERROR_UNSUPPORTED_VERSION".
 neterror-sslv3-used = 進階資訊: SSL_ERROR_UNSUPPORTED_VERSION
 # Variables:
@@ -122,7 +122,7 @@ neterror-inadequate-security-code = 錯誤代碼: NS_ERROR_NET_INADEQUATE_SECURI
 # $now (Date) - The current datetime, to be formatted as a date
 neterror-clock-skew-error = 您的電腦認為目前時間為 { DATETIME($now, dateStyle: "medium") }，不讓 { -brand-short-name } 建立安全連線。若要造訪 <b>{ $hostname }</b>，請到系統設定中確認日期、時間、時區設定是否正確，然後重新載入 <b>{ $hostname }</b>。
 neterror-network-protocol-error-intro = 因為偵測到網路通訊協定中的問題，無法顯示您嘗試檢視的頁面。
-neterror-network-protocol-error-contact-website = 請聯絡網站管理員來解決這個問題。
+neterror-network-protocol-error-contact-website = 請向網站擁有者回報此問題。
 certerror-expired-cert-second-para = 可能是網站的憑證已經過期，讓 { -brand-short-name } 無法安全地連線。若您造訪此網站，攻擊者可能嘗試偷走您的密碼、電子郵件、信用卡資料等個人資訊。
 certerror-expired-cert-sts-second-para = 可能是網站的憑證已經過期，讓 { -brand-short-name } 無法安全地連線。
 certerror-what-can-you-do-about-it-title = 您可以做什麼？
