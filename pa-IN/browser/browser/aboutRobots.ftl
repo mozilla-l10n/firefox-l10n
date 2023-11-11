@@ -15,15 +15,16 @@ error-title-text = ਇਨਸਾਨਾਂ ਨੂੰ ਜੀ ਆਇਆਂ ਨੂੰ
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = ਅਸੀਂ ਤੁਹਾਨੂੰ ਸੁੱਖ ਲਈ ਅਤੇ ਚੰਗੀ ਸੋਚ ਨਾਲ ਮਿਲਣ ਆਏ ਹਾਂ!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Robots may not injure a human being or, through inaction, allow a human being to come to harm.
+error-long-desc1 = ਰੋਬੋਟ ਇਨਸਾਨਾਂ ਨੂੰ ਨੁਕਸਾਨ ਨਹੀਂ ਪਹੁੰਚਾਉਂਦੇ ਜਾਂ ਵੇਹਲੇ ਹੋਣ ਉੱਤੇ ਇਨਸਾਨ ਨੂੰ ਕੋਈ ਨੁਕਸਾਨ ਨਹੀਂ ਪਹੁੰਚਾਉਂਦੇ।
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = ਰੋਬੋਟ ਨੇ ਉਹ ਚੀਜ਼ਾਂ ਵੇਖੀਆਂ ਹਨ, ਜਿਸ ਉੱਤੇ ਤੁਸੀਂ ਲੋਕ ਭਰੋਸਾ ਵੀ ਨਹੀਂ ਕਰੋਗੇ।
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Robots are Your Plastic Pal Who's Fun To Be With
 # TV: Futurama. Bender's first line is "Bite my shiny metal ass."
-error-long-desc4 = Robots have shiny metal posteriors which should not be bitten.
+error-long-desc4 = ਰੋਬੋਟ ਲੋਹੇ ਦੇ ਖੋਖੋ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਖਾਣਾ ਨਹੀਂ ਚਾਹੀਦਾ ਹੈ।
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = ਅਤੇ ਉਨ੍ਹਾਂ ਕੋਲ ਪਲਾਨ ਹੈ।
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+# Note: .label2 replaces this label after pressing the button the first time.
 error-try-again = ਮੁੜ ਕੋਸ਼ਿਸ਼ ਕਰੋ
     .label2 = ਇਹ ਬਟਨ ਮੁੜ ਕੇ ਨਾ ਦੱਬਿਓ ਜੀ
