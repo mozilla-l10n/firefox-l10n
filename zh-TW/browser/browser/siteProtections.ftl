@@ -28,7 +28,7 @@ tracking-protection-icon-active-container =
 tracking-protection-icon-disabled = 已關閉針對此網站的加強型追蹤保護功能。
 tracking-protection-icon-disabled-container =
     .aria-label = { tracking-protection-icon-disabled }
-tracking-protection-icon-no-trackers-detected = { -brand-short-name } 未在此頁面偵測到已知的追蹤元素。
+tracking-protection-icon-no-trackers-detected = { -brand-short-name } 未在此頁面偵測到已知的追蹤器。
 tracking-protection-icon-no-trackers-detected-container =
     .aria-label = { tracking-protection-icon-no-trackers-detected }
 

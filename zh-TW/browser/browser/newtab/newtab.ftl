@@ -248,6 +248,7 @@ newtab-custom-shortcuts-toggle =
 #   $num (number) - Number of rows to display
 newtab-custom-row-selector =
     { $num ->
+        [one] { $num } 行
        *[other] { $num } 行
     }
 newtab-custom-sponsored-sites = 贊助捷徑

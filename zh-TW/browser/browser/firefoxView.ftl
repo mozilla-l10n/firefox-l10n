@@ -207,10 +207,7 @@ firefoxview-recentlyclosed-empty-header = 不小心把分頁關閉了？
 firefoxview-recentlyclosed-empty-description = 您可以在此處找到近期關閉的分頁，這樣就可以快速重新開啟。
 firefoxview-recentlyclosed-empty-description-two = 要尋找更久之前的分頁，請查詢您的<a data-l10n-name="history-url">瀏覽紀錄</a>。
 
-##
-
-
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
 firefoxview-syncedtabs-device-notabs = 未於此裝置開啟分頁
-firefoxview-syncedtabs-connect-another-device = 連結另一部裝置
+firefoxview-syncedtabs-connect-another-device = 連結其他裝置

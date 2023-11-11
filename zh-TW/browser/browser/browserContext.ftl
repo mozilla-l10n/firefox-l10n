@@ -94,7 +94,7 @@ main-context-menu-bookmark-page =
 # Cannot be shown at the same time as main-context-menu-edit-bookmark-mac,
 # so should probably have the same access key if possible.
 main-context-menu-bookmark-page-mac =
-    .label = 將頁面加入書籤
+    .label = 將頁面加入書籤…
     .accesskey = m
 # This menuitem is only visible on macOS
 # Cannot be shown at the same time as main-context-menu-bookmark-page-mac,
