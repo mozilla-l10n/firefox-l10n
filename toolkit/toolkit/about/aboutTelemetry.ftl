@@ -27,10 +27,10 @@ about-telemetry-general-data-section = ਆਮ ਡਾਟਾ
 about-telemetry-environment-data-section = ਇੰਵਾਇਰਨਮੈਂਟ ਡਾਟਾ
 about-telemetry-session-info-section = ਸ਼ੈਸ਼ਨ ਜਾਣਕਾਰੀ
 about-telemetry-scalar-section = ਸਕੇਲਰ
-about-telemetry-keyed-scalar-section = Keyed Scalars
+about-telemetry-keyed-scalar-section = ਕੀਡ ਸਕੇਲਰ
 about-telemetry-histograms-section = ਹਿਸਟੋਗਰਾਮ
 about-telemetry-keyed-histogram-section = ਕੀਡ ਹਿਸਟੋਗਰਾਮ
-about-telemetry-events-section = Events
+about-telemetry-events-section = ਈਵੈਂਟ
 about-telemetry-simple-measurements-section = ਸਧਾਰਨ ਮਾਪ
 about-telemetry-slow-sql-section = ਹੌਲੀ SQL ਸਟੇਟਮੈਂਟਾਂ
 about-telemetry-addon-details-section = ਐਡ-ਆਨ ਵੇਰਵੇ
@@ -38,8 +38,8 @@ about-telemetry-late-writes-section = ਦੇਰੀ ਨਾਲ ਰਾਇਟਰ
 about-telemetry-raw-payload-section = ਕੱਚਾ ਪੇਅਲੋਡ
 about-telemetry-raw = ਅਣਘੜ JSON
 about-telemetry-full-sql-warning = ਸੂਚਨਾ: ਹੌਲੀ SQL ਡੀਬੱਗ ਕਰਨਾ ਸਮਰੱਥ ਹੈ। ਪੂਰੀਆਂ SQL ਸਤਰਾਂ ਨੂੰ ਹੇਠਾਂ ਦੇਖਾਇਆ ਜਾ ਸਕਦਾ ਹੈ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਟੈਲੀਮੈਂਟਰੀ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
-about-telemetry-fetch-stack-symbols = Fetch function names for stacks
-about-telemetry-hide-stack-symbols = Show raw stack data
+about-telemetry-fetch-stack-symbols = ਸਟਾਕਾਂ ਲਈ ਫੰਕਸ਼ਨ ਨਾਂ ਲਵੋ
+about-telemetry-hide-stack-symbols = ਕੱਚਾ ਸਟਾਕ ਡਾਤਾ ਵੇਖਾਓ
 # Selects the correct release version
 # Variables:
 #   $channel (string) - Represents the corresponding release data string
