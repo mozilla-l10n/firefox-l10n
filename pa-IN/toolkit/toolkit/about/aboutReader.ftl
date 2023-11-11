@@ -2,9 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-reader-loading = Loading…
+about-reader-loading = …ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 about-reader-load-error = ਸਫ਼ੇ ਤੋਂ ਲੇਖ ਲੋਡ ਕਰਨ ਲਈ ਫੇਲ੍ਹ ਹੈ
-
 about-reader-color-scheme-light = ਹਲਕਾ
     .title = ਰੰਗ ਸਕੀਮ ਹਲਕੀ
 about-reader-color-scheme-dark = ਗੂੜ੍ਹਾ
@@ -13,7 +12,6 @@ about-reader-color-scheme-sepia = ਭੂਰਾ
     .title = ਰੰਗ ਸਕੀਮ ਭੂਰਾ
 about-reader-color-scheme-auto = ਆਟੋ
     .title = ਰੰਗ ਸਕੀਮ ਆਪਣੇ-ਆਪ
-
 # An estimate for how long it takes to read an article,
 # expressed as a range covering both slow and fast readers.
 # Variables:

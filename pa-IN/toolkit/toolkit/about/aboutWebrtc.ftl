@@ -39,7 +39,7 @@ about-webrtc-force-refresh-button = ਤਾਜ਼ਾ ਕਰੋ
 # "PeerConnection" is a proper noun associated with the WebRTC module. "ID" is
 # an abbreviation for Identifier. This string should not normally be translated
 # and is used as a data label.
-about-webrtc-peerconnection-id-label = PeerConnection ID:
+about-webrtc-peerconnection-id-label = ਪੀਅਰ-ਕਨੈਕਸ਼ਨ ID:
 # The number of DataChannels that a PeerConnection has opened
 about-webrtc-data-channels-opened-label = ਖੋਲ੍ਹੇ ਡਾਟਾ ਚੈਨਲ:
 # The number of once open DataChannels that a PeerConnection has closed
@@ -71,8 +71,8 @@ about-webrtc-rtp-stats-heading = RTP ਅੰਕੜੇ
 about-webrtc-ice-state = ICE ਹਾਲਤ
 # "Stats" is an abbreviation for Statistics.
 about-webrtc-ice-stats-heading = ICE ਅੰਕੜੇ
-about-webrtc-ice-restart-count-label = ICE restarts:
-about-webrtc-ice-rollback-count-label = ICE rollbacks:
+about-webrtc-ice-restart-count-label = ICE ਮੁੜ-ਚਾਲੂ:
+about-webrtc-ice-rollback-count-label = ICE ਰੋਲ-ਬੈਕ:
 about-webrtc-ice-pair-bytes-sent = ਭੇਜੇ ਬਾਈਟ:
 about-webrtc-ice-pair-bytes-received = ਮਿਲੇ ਬਾਈਟ:
 about-webrtc-ice-component-id = ਭਾਗ ਆਈਡੀ
@@ -99,9 +99,9 @@ about-webrtc-debug-mode-off-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ �
 about-webrtc-debug-mode-on-state-label = ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਰੋਕੋ
 about-webrtc-enable-logging-label = WebRTC ਲਾਗ ਪ੍ਰੀ-ਸੈੱਟ ਸਮਰੱਥ ਕਰੋ
 about-webrtc-stats-heading = ਸ਼ੈਸ਼ਨ ਅੰਕੜੇ
-about-webrtc-stats-clear = Clear History
+about-webrtc-stats-clear = ਅਤੀਤ ਨੂੰ ਮਿਟਾਓ
 about-webrtc-log-heading = ਕਨੈਕਸ਼ਨ ਲਾਗ
-about-webrtc-log-clear = Clear Log
+about-webrtc-log-clear = ਲਾਗ ਮਿਟਾਓ
 about-webrtc-log-show-msg = ਲਾਗ ਵੇਖਾਓ
     .title = ਇਹ ਭਾਗ ਨੂੰ ਫੈਲਾਉਣ ਲਈ ਕਲਿੱਕ ਕਰੋ
 about-webrtc-log-hide-msg = ਲਾਗ ਛੁਪਾਓ
