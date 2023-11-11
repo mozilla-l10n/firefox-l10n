@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-description = Enviar aos sitios web un sinal "Do not track" indicándolles que non desexa ser seguido
+do-not-track-description2 =
+    .label = Envíar aos sitios web unha solicitude de «Non rastrexar».
+    .accesskey = N
 do-not-track-learn-more = Máis información
 do-not-track-option-default-content-blocking-known =
     .label = Só cando { -brand-short-name } estea configurado para bloquear os rastrexadores coñecidos
@@ -11,6 +14,11 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Dicirlle aos sitios web que non vendan nin compartan os meus datos
     .accesskey = s
+non-technical-privacy-header = Preferencias de privacidade do sitio web
+# Do not translate.
+# "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
+# included to facilitate power-user search of the about:preferences page.
+global-privacy-control-search = Global Privacy Control (GPC)
 settings-page-title = Configuración
 # This is used to determine the width of the search field in about:preferences,
 # in order to make the entire placeholder string visible
@@ -118,6 +126,9 @@ set-as-my-default-browser =
     .accesskey = D
 startup-restore-windows-and-tabs =
     .label = Abrir xanelas e lapelas anteriores
+    .accesskey = A
+windows-launch-on-login =
+    .label = Abrir { -brand-short-name } automaticamente cando se inicie o seu ordenador
     .accesskey = A
 startup-restore-warn-on-quit =
     .label = Avísao cando deixe o navegador
@@ -955,9 +966,14 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Redución do aviso de cookies
 cookie-banner-handling-description = { -brand-short-name } intenta automaticamente rexeitar as solicitudes de rastros en diálogos de rastros de sitios web compatíbeis.
+
+## Privacy Section - Cookie Banner Blocking
+
 cookie-banner-learn-more = Máis información
 forms-handle-cookie-banners =
     .label = Reducir os avisos de cookies
+cookie-banner-blocker-checkbox-label =
+    .label = Rexeitar automaticamente os avisos de cookies
 
 ## Privacy Section - Address Bar
 
@@ -987,6 +1003,9 @@ addressbar-locbar-engines-option =
     .accesskey = M
 addressbar-locbar-quickactions-option =
     .label = Accións rápidas
+    .accesskey = r
+addressbar-locbar-showrecentsearches-option =
+    .label = Mostrar buscas recentes
     .accesskey = r
 addressbar-suggestions-settings = Cambiar as preferencias relacionadas coas suxestións do buscador
 addressbar-quickactions-learn-more = Máis información
@@ -1079,6 +1098,11 @@ content-blocking-fingerprinters-label =
 content-blocking-known-fingerprinters-label =
     .label = Pegadas dixitais coñecidas
     .accesskey = P
+# The suspected fingerprinters are those that we are uncertain about browser fingerprinting activities. But they could
+# possibly acquire browser fingerprints because of the behavior on accessing APIs that expose browser fingerprints.
+content-blocking-suspected-fingerprinters-label =
+    .label = Identificadores de pegadas dixitais sospeitosos
+    .accesskey = I
 
 ## Privacy Section - Tracking
 
