@@ -127,7 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Reduzierung von Cookie-Bannern
-protections-panel-cookie-banner-blocker-header = Blocker für Cookie-Banner
+protections-panel-cookie-banner-blocker-header = Cookie-Banner-Blocker
 protections-panel-cookie-banner-handling-enabled = Für diese Website aktiviert
 protections-panel-cookie-banner-handling-disabled = Für diese Website deaktiviert
 protections-panel-cookie-banner-handling-undetected = Website derzeit nicht unterstützt
@@ -141,8 +141,8 @@ protections-panel-cookie-banner-blocker-view-title =
     .title = Blocker für Cookie-Banner
 # Variables
 #  $host (String): the hostname of the site that is being displayed.
-protections-panel-cookie-banner-blocker-view-turn-off-for-site = Blocker für Cookie-Banner für { $host } deaktivieren?
-protections-panel-cookie-banner-blocker-view-turn-on-for-site = Blocker für Cookie-Banner für diese Website aktivieren?
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Cookie-Banner-Blocker für { $host } deaktivieren?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Cookie-Banner-Blocker für diese Website aktivieren?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } löscht die Cookies dieser Website und aktualisiert die Seite. Das Löschen aller Cookies kann Sie abmelden oder Warenkörbe leeren.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } versucht, alle Cookie-Anforderungen auf unterstützten Websites automatisch abzulehnen.
 protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivieren und { -brand-short-name } wird versuchen, Cookie-Banner auf dieser Website automatisch abzulehnen.
