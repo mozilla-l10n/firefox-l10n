@@ -11,10 +11,10 @@ about-logging-currently-enabled-log-modules = ਇਸ ਵੇਲੇ ਸਮਰੱ�
 about-logging-log-tutorial = ਇਹ ਟੂਲ ਦੀ ਵਰਤੋਂ ਸਿ਼ਖਣ ਲਈ ਹਦਾਇਤਾਂ ਵਾਸਤੇ <a data-l10n-name="logging">HTTP Logging</a> ਨੂੰ ਵੇਖੋ
 # This message is used as a button label, "Open" indicates an action.
 about-logging-open-log-file-dir = ਡਾਇਰੈਕਟਰੀ ਨੂੰ ਖੋਲ੍ਹੋ
-about-logging-set-log-file = Set Log File
-about-logging-set-log-modules = Set Log Modules
-about-logging-start-logging = Start Logging
-about-logging-stop-logging = Stop Logging
+about-logging-set-log-file = ਲਾਗ ਫਾਇਲ ਸੈੱਟ ਕਰੋ
+about-logging-set-log-modules = ਲਾਗ ਮੋਡੀਊਲ ਸੈੱਟ ਕਰੋ
+about-logging-start-logging = ਲਾਗ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ
+about-logging-stop-logging = ਲਾਗ ਕਰਨਾ ਰੋਕੋ
 about-logging-info = ਜਾਣਕਾਰੀ:
 about-logging-log-modules-selection = ਲਾਗ ਮੋਡੀਊਲ ਚੋਣ
 about-logging-new-log-modules = ਨਵਾਂ ਲਾਗ ਮੋਡੀਊਲ:
