@@ -573,7 +573,11 @@ home-prefs-snippets-description-new = 來自 { -vendor-short-name } 及 { -brand
 # Variables:
 #   $num (number) - Number of rows displayed
 home-prefs-sections-rows-option =
-    .label = { $num } 行
+    .label =
+        { $num ->
+            [one] { $num } 行
+           *[other] { $num } 行
+        }
 
 ## Search Section
 
