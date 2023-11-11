@@ -37,6 +37,7 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the shopping message-bar
 
+shopping-message-bar-warning-stale-analysis-button = Comprobar agora
 shopping-message-bar-generic-error-title2 = Non hai información dispoñible neste momento
 shopping-message-bar-generic-error-message = Estamos traballando para resolver o problema. Por favor, volva a comprobalo pronto.
 shopping-message-bar-warning-not-enough-reviews-title = Aínda non hai suficientes recensións
@@ -57,6 +58,7 @@ shopping-message-bar-warning-not-enough-reviews =
 shopping-message-bar-warning-product-not-available =
     .heading = O produto non está dispoñible
     .message = Se ve que este produto está de novo en stock, infórmeo e traballaremos en comprobar as recensións.
+shopping-message-bar-warning-product-not-available-button2 = Informar que o produto está en stock
 shopping-message-bar-thanks-for-reporting =
     .heading = Grazas por informar!
     .message = Deberíamos ter información sobre as recensións deste produto nun prazo de 24 horas. Volva a comprobalo máis tarde.
@@ -121,12 +123,24 @@ shopping-analysis-explainer-review-grading-scale-unreliable = Recensións pouco 
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = Abrir o verificador de recensións
+shopping-sidebar-close-button2 =
+    .tooltiptext = Pechar o verificador de recensións
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Aínda non hai información sobre estas recensións
@@ -165,6 +179,19 @@ shopping-survey-thanks =
 
 shopping-callout-closed-opted-in-subtitle = Volver ao <strong>verificador de recensión</strong> sempre que vexa a etiqueta de prezo.
 shopping-callout-pdp-opted-in-title = Son fiables estas recensións? Descúbrao rápido.
+shopping-callout-closed-not-opted-in-title = Un clic para comentarios fiables
 
 ## Onboarding message strings.
 
+shopping-onboarding-headline = Probar a nosa guía de confianza para recensións de produtos
+shopping-onboarding-opt-in-button = Si, probalo
+shopping-onboarding-not-now-button = Agora non
+shopping-onboarding-dialog-close-button =
+    .title = Pechar
+    .aria-label = Pechar
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = Progreso: paso { $current } de { $total }

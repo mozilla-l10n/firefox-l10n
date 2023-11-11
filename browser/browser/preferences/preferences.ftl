@@ -969,6 +969,7 @@ cookie-banner-handling-description = { -brand-short-name } intenta automaticamen
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Bloqueador de aviso de cookies
 cookie-banner-learn-more = Máis información
 forms-handle-cookie-banners =
     .label = Reducir os avisos de cookies
