@@ -15,6 +15,7 @@ support-addons-type = Tipo
 support-addons-enabled = Activado
 support-addons-version = Versión
 support-addons-id = ID
+legacy-user-stylesheets-title = Follas de estilo de usuario herdadas
 legacy-user-stylesheets-enabled = Activo
 legacy-user-stylesheets-stylesheet-types = Follas de estilo
 legacy-user-stylesheets-no-stylesheets-found = Non se atoparon follas de estilo
