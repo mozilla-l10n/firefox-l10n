@@ -29,12 +29,19 @@ shopping-letter-grade-tooltip =
 
 ## Strings for the product review snippets card
 
+shopping-highlight-price = قیمت
+shopping-highlight-quality = معیار
+shopping-highlight-shipping = شِپنگ
 
 ## Strings for show more card
 
+shopping-show-more-button = ودھیک ݙکھاؤ
+shopping-show-less-button = گھٹ ݙکھاؤ
 
 ## Strings for the settings card
 
+shopping-settings-label =
+    .label = ترتیباں
 
 ## Strings for the adjusted rating component
 
