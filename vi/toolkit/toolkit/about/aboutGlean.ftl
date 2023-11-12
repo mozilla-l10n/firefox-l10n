@@ -3,15 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-### "Glean" and "Glean SDK" should remain in English.
-
 ### "FOG", "Glean", and "Glean SDK" should remain in English.
 
 -fog-brand-name = FOG
 -glean-brand-name = Glean
 glean-sdk-brand-name = { -glean-brand-name } SDK
 glean-debug-ping-viewer-brand-name = Trình xem gỡ lỗi ping { -glean-brand-name }
-
 about-glean-page-title2 = Về { -glean-brand-name }
 about-glean-header = Về { -glean-brand-name }
 about-glean-interface-description =
@@ -19,7 +16,6 @@ about-glean-interface-description =
     là một thư viện thu thập dữ liệu được sử dụng trong các dự án { -vendor-short-name }.
     Giao diện này được thiết kế để các nhà phát triển và người thử nghiệm sử dụng
     <a data-l10n-name="fog-link">thiết bị đo đạc kiểm tra</a> theo cách thủ công.
-
 about-glean-upload-enabled = Tải lên dữ liệu được bật.
 about-glean-upload-disabled = Tải lên dữ liệu bị tắt.
 about-glean-upload-enabled-local = Tải lên dữ liệu chỉ được bật để gửi đến máy chủ cục bộ.
@@ -29,7 +25,6 @@ about-glean-upload-fake-enabled =
     để dữ liệu vẫn được ghi cục bộ.
     Lưu ý: Nếu bạn đặt thẻ gỡ lỗi, ping sẽ được tải lên
     bất kể cài đặt nào của <a data-l10n-name="glean-debug-ping-viewer">{ glean-debug-ping-viewer-brand-name }</a>.
-
 # This message is followed by a bulleted list.
 about-glean-prefs-and-defines = <a data-l10n-name="fog-prefs-and-defines-doc-link">Các tùy chọn và định nghĩa</a> có liên quan bao gồm:
 # Variables:
@@ -48,7 +43,6 @@ about-glean-glean-android = <code>MOZ_GLEAN_ANDROID</code>: { $glean-android-def
 #   $moz-official-define-value (Boolean): the value of the MOZILLA_OFFICIAL define.
 # Do not translate strings between <code> </code> tags.
 about-glean-moz-official = <code>MOZILLA_OFFICIAL</code>: { $moz-official-define-value }
-
 about-glean-about-testing-header = Về thử nghiệm
 # This message is followed by a numbered list.
 about-glean-manual-testing =
@@ -56,7 +50,6 @@ about-glean-manual-testing =
     <a data-l10n-name="fog-instrumentation-test-doc-link">tài liệu thí nghiệm thiết bị { -fog-brand-name }</a>
     và trong <a data-l10n-name="glean-sdk-doc-link">tài liệu { glean-sdk-brand-name }</a>,
     nhưng tóm lại, để kiểm tra thủ công xem thiết bị của bạn có hoạt động hay không, bạn nên:
-
 # This message is an option in a dropdown filled with untranslated names of pings.
 about-glean-no-ping-label = (không gửi bất kỳ ping nào)
 # An in-line text input field precedes this string.
@@ -85,7 +78,6 @@ about-glean-li-for-visit-gdpv =
     <a data-l10n-name="gdpv-tagged-pings-link">Truy cập trang { glean-debug-ping-viewer-brand-name } cho ping với thẻ của bạn</a>.
     Sẽ không mất quá vài giây từ khi nhấn nút đến khi ping của bạn đến.
     Đôi khi có thể mất vài phút.
-
 # Do not translate strings between <code> </code> tags.
 about-glean-adhoc-explanation =
     Để biết thêm về kiểm thử <i>đặc biệt</i>,
@@ -93,10 +85,12 @@ about-glean-adhoc-explanation =
     bằng cách mở bảng điều khiển devtools tại đây trên <code>about:glean</code>
     và sử dụng API <code>testGetValue()</code> như
     <code>Glean.metricCategory.metricName.testGetValue()</code>.
-
-
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Xin lưu ý rằng bạn đang sử dụng API Glean JS bằng cách sử dụng bảng điều khiển devtools.
+    Điều này có nghĩa là danh mục chỉ số và tên chỉ số được định dạng trong
+    <code>camelCase</code> sẽ không giống như ở Rust và C++ API.
 controls-button-label-verbose = Áp dụng cài đặt và gửi ping
-
 about-glean-about-data-header = Về dữ liệu
 about-glean-about-data-explanation =
     Để duyệt danh sách dữ liệu đã thu thập, vui lòng tham khảo
