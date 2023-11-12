@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> ne efikas sur tiun ĉ
 inactive-css-ruby-element = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas elemento 'ruby'. Ĝia grando estas difinita de la tipara grando de la teksto 'ruby'.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> ne estas subtenata en elstarigitaj kvazaŭelementoj.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> ne estas subtenata en kazaŭelementoj ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi havas pli ol { $lineCount } linion.
+       *[other] <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi havas pli ol { $lineCount } liniojn.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> ne efikas sur tiu ĉi elemento ĉar ĝi estas fragmenta, tio estas, ĝia enhavo estas disdividita inter pluraj kolumnoj aŭ paĝoj.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +74,8 @@ inactive-css-not-table-cell-fix = Provu aldoni <strong>display:table-cell</stron
 inactive-scroll-padding-when-not-scroll-container-fix = Provu aldoni <strong>overflow:auto</strong>, <strong>overflow:scroll</strong>, or <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = En la gepatra tabula elemento, forigu la atributon aŭ ŝanĝu la valoron de <strong>border-collapse</strong> por alia, kiu ne estas <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Provu ŝanĝi la <strong>font-size</strong> de la teksto 'ruby'. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Provu redukti la kvanton de linioj. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Evitu apartigi la enhavon de la elemento, ekzemple per forigo de kolumnoj aŭ per uzo de <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why

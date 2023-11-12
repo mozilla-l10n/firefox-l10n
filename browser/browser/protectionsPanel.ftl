@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Plibonigita protekto kontraŭ spurado
     .description = Malŝaltita por tiu ĉi retejo
     .aria-label = Aktivigi protektojn por { $host }
+protections-panel-etp-toggle-on =
+    .label = Plibonigita protekto kontraŭ spurado
+    .description = Ŝaltita por tiu ĉi retejo
+    .aria-label = Plibonigita protekto kontraŭ spurado: ŝaltita por { $host }
+protections-panel-etp-toggle-off =
+    .label = Plibonigita protekto kontraŭ spurado
+    .description = Malŝaltita por tiu ĉi retejo
+    .aria-label = Plibonigita protekto kontraŭ spurado: malŝaltita por { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Ĉu la retejo ne funkcias?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Redukto de kuketaj anoncoj
+protections-panel-cookie-banner-blocker-header = Blokilo de kuketaj anoncoj
 protections-panel-cookie-banner-handling-enabled = Ŝaltita por tiu ĉi retejo
 protections-panel-cookie-banner-handling-disabled = Malŝaltita por tiu ĉi retejo
 protections-panel-cookie-banner-handling-undetected = Retejo nuntempe ne subtenata
@@ -128,8 +137,15 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Ĉu malŝalti la redukton de kuketaj anoncoj por { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Ĉu ŝalti la redukton de kuketaj anoncoj por tiu ĉi retejo?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Blokilo de kuketaj anoncoj
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Ĉu malŝalti la blokilon de kuketaj anoncoj por { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Ĉu ŝalti la blokilon de kuketaj anoncoj por tiu ĉi retejo?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } forigos la kuketojn de tiuj ĉi retejo kaj reŝargos la paĝon. Forigo de ĉiuj kuketoj povas fini seancojn aŭ malplenigi aĉetumĉarojn.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } klopodas aŭtomate rifuzi ĉiujn kuketajn petojn en subtenataj retejoj.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Ŝaltu, kaj { -brand-short-name } klopodos aŭtomate rifuzi kuketajn anoncojn en tiu ĉi retejo.
 protections-panel-cookie-banner-view-cancel = Nuligi
 protections-panel-cookie-banner-view-turn-off = Malŝalti
 protections-panel-cookie-banner-view-turn-on = Ŝalti
