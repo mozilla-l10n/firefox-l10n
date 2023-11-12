@@ -11,4 +11,5 @@
 
 # Windows refers to the operating system
 windows-messages-page-title = ਵਿੰਡੋਜ਼ ਸੁਨੇਹਾ ਜਾਣਕਾਰੀ
+windows-messages-intro = ਇਹ ਸਫ਼ਾ Windows ਵਲੋਂ { -brand-short-name } ਬਰਾਊਜ਼ਰ ਵਿੰਡੋਆਂ ਨੂੰ ਭੇਜੇ ਸੱਜਰੇ ਸੁਨੇਹੇ ਦਿਖਾਉਂਦਾ ਹੈ। ਇਸ ਵਿੰਡੋ ਨੂੰ ਗੂੜ੍ਹਾ ਇੰਦਰਾਜ਼ ਦਰਸਾਉਂਦਾ ਹੈ। ਯਾਦ ਰੱਖੋ ਕਿ ਇਹ ਸਫ਼ਾ ਲੋਡ ਹੋਣ ਸਮੇਂ ਦੇ ਸਭ ਤੋਂ ਸੱਜਰੇ ਸੁਨੇਹਾ ਦਿਖਾਉਂਦਾ ਹੈ।, ਮੌਜੂਦਾ ਸੁਨੇਹੇ ਵੇਖਣ ਲਈ ਤੁਹਾਨੂੰ ਇਸ ਸਫ਼ੇ ਨੂੰ ਤਾਜ਼ਾ ਕਰਨਾ ਪਵੇਗਾ।
 windows-messages-copy-to-clipboard = ਕਲਿੱਪਬੋਰਡ \'ਚ ਕਾਪੀ ਕਰੋ
