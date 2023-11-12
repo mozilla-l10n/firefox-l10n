@@ -341,3 +341,9 @@ pdfjs-editor-alt-text-textarea =
 
 pdfjs-editor-resizer-label-top-left = Supra maldekstra angulo — ŝangi grandon
 pdfjs-editor-resizer-label-top-middle = Supra mezo — ŝanĝi grandon
+pdfjs-editor-resizer-label-top-right = Supran dekstran angulon — ŝanĝi grandon
+pdfjs-editor-resizer-label-middle-right = Dekstra mezo — ŝanĝi grandon
+pdfjs-editor-resizer-label-bottom-right = Malsupra deksta angulo — ŝanĝi grandon
+pdfjs-editor-resizer-label-bottom-middle = Malsupra mezo  — ŝanĝi grandon
+pdfjs-editor-resizer-label-bottom-left = Malsupra maldekstra angulo — ŝanĝi grandon
+pdfjs-editor-resizer-label-middle-left = Maldekstra mezo — ŝanĝi grandon
