@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Паказваць рэкламу ў сродку праверкі водгукаў
 shopping-settings-recommendations-learn-more = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Усе аб'явы павінны адпавядаць нашым стандартам якасці водгукаў. <a data-l10n-name="review-quality-url">Падрабязней</a>
+shopping-settings-recommendations-learn-more2 = Вы будзеце час ад часу бачыць рэкламу адпаведных тавараў. Мы рэкламуем толькі прадукты з надзейнымі водгукамі. <a data-l10n-name="review-quality-url">Падрабязней</a>
 shopping-settings-opt-out-button = Адключыць сродак праверкі водгукаў
 powered-by-fakespot = Сродак праверкі водгукаў працуе на аснове  <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>.
 
@@ -123,6 +124,7 @@ shopping-analysis-explainer-intro2 =
 shopping-analysis-explainer-grades-intro = Кожнаму водгуку на прадукт мы прысвойваем <strong>літарную адзнаку</strong> ад A да F.
 shopping-analysis-explainer-adjusted-rating-description = <strong>Скарэкціраваны рэйтынг</strong> заснаваны толькі на водгуках, якія мы лічым надзейнымі.
 shopping-analysis-explainer-learn-more = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-full-name } вызначае якасць водгукаў</a>.
+shopping-analysis-explainer-learn-more2 = Даведайцеся больш пра тое, <a data-l10n-name="review-quality-url">як { -fakespot-brand-name } вызначае якасць водгукаў</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -143,6 +145,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Інфармацыі аб гэтых водгуках пакуль няма
@@ -202,6 +212,7 @@ shopping-onboarding-dynamic-subtitle = Паглядзіце, наколькі н
 shopping-onboarding-dynamic-subtitle-1 = Паглядзіце, наколькі надзейныя водгукі на прадукт на <b>{ $currentSite }</b>, перш чым купляць. Праверка водгукаў, эксперыментальная функцыя ад { -brand-product-name }, убудавана прама ў браўзер. Яна працуе на <b>{ $secondSite }</b> і <b>{ $thirdSite }</b> таксама.
 shopping-onboarding-body = Выкарыстоўваючы магчымасці { -fakespot-brand-full-name }, мы дапамагаем вам пазбегнуць неаб’ектыўных і несапраўдных водгукаў. Наша мадэль штучнага інтэлекту пастаянна ўдасканальваецца, каб абараніць вас у часе куплі. <a data-l10n-name="learn_more">Падрабязней</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Выбіраючы “{ shopping-onboarding-opt-in-button }“, вы згаджаецеся з <a data-l10n-name="privacy_policy">палітыкай прыватнасці</a> і <a data-l10n-name="terms_of_use">ўмовамі выкарыстання</a> { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Так, паспрабаваць
 shopping-onboarding-not-now-button = Не зараз
 shopping-onboarding-dialog-close-button =
