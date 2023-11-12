@@ -238,6 +238,8 @@ device-migration-fxa-spotlight-link = میکوں بعد اِچ یاد ݙیواؤ
 
 ## Set as Default PDF Reader Infobar
 
+pdf-default-notification-set-default-button =
+    .label = بطور طے شدہ سیٹ کرو
 pdf-default-notification-decline-button =
     .label = ہݨ کائناں
 

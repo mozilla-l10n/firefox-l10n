@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = براؤزر ڈیٹا امپورٹ کرو
 migration-wizard-selection-list = جہڑا ڈیٹا تساں امپورٹ کرݨ چاہندے ہو، چݨو۔
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = جہڑا ڈیٹا تساں امپورٹ کرݨ
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -45,6 +43,12 @@ migration-wizard-migrator-display-name-opera-gx = اوپرا جی ایکس
 migration-wizard-migrator-display-name-safari = سفاری
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
+migration-no-permissions-instructions-step1 = ” جاری” چݨو
+
 ## These strings will be displayed based on how many resources are selected to import
 
 migration-all-available-data-label = سارا دستیاب ڈیٹا امپورٹ کرو
@@ -55,27 +59,22 @@ migration-selected-data-label = چݨیا ہویا ڈیٹا امپورٹ کرو
 
 migration-select-all-option-label = سارے چݨو
 migration-bookmarks-option-label = نشانیاں
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = من بھان٘دے
-
 migration-logins-and-passwords-option-label = محفوظ تھئے لاگ ان تے پاس ورڈ
 migration-history-option-label = براؤزنگ تاریخ
 migration-extensions-option-label = ایکسٹینشنز
 migration-form-autofill-option-label = فارم آٹو فل ڈیٹا
 migration-payment-methods-option-label = ادائیگی طریقے
-
 migration-cookies-option-label = کوکیاں
 migration-session-option-label = ونڈو تے ٹیباں
 migration-otherdata-option-label = ٻیا ڈیٹا
-
 migration-passwords-from-file-progress-header = پاس ورڈز فائل امپورٹ کرو
 migration-passwords-from-file-success-header = پاس ورڈز کامیابی نال امپورٹ تھی آئے
 migration-passwords-from-file = پاس ورڈاں کیتے فائل دی پڑتال کریندا پئے
 migration-passwords-new = نویں پاس ورڈز
 migration-passwords-updated = موجود پاس ورڈز
-
 migration-passwords-from-file-picker-title = پاس ورڈز فائل امپورٹ کرو
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
@@ -91,7 +90,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] TSV دستاویز
        *[other] TSV فائل
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if new passwords were added.
 #
@@ -102,7 +100,6 @@ migration-wizard-progress-success-new-passwords =
         [one] { $newEntries } شامل تھیا
        *[other] { $newEntries } شامل تھئے
     }
-
 # Shown in the migration wizard after importing passwords from a file
 # has completed, if existing passwords were updated.
 #
@@ -113,12 +110,10 @@ migration-wizard-progress-success-updated-passwords =
         [one] { $updatedEntries } اپ ڈیٹ تھیا
        *[other] { $updatedEntries } اپ ڈیٹ تھئے
     }
-
 migration-bookmarks-from-file-picker-title = نشانیاں دی فائل درآمد کرو
 migration-bookmarks-from-file-progress-header = نشانیاں درآمد کرݨ
 migration-bookmarks-from-file = نشانیاں
 migration-bookmarks-from-file-success-header = نشانیاں کامیابی نال امپورٹ تھی آئیاں
-
 # A description for the .html file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-html-filter-title =
@@ -126,11 +121,9 @@ migration-bookmarks-from-file-html-filter-title =
         [macos] HTML دستاویز
        *[other] HTML فائل
     }
-
 # A description for the .json file format that may be shown as the file type
 # filter by the operating system.
 migration-bookmarks-from-file-json-filter-title = JSON فائل
-
 # Shown in the migration wizard after importing bookmarks from a file
 # has completed.
 #
@@ -141,14 +134,12 @@ migration-wizard-progress-success-new-bookmarks =
         [one] { $newEntries } نشانی
        *[other] { $newEntries } نشانیاں
     }
-
 migration-import-button-label = درآمد کرو
 migration-choose-to-import-from-file-button-label = فائل کنوں امپورٹ کرو
 migration-import-from-file-button-label = فائل چݨو
 migration-cancel-button-label = منسوخ
 migration-done-button-label = تھی ڳیا
 migration-continue-button-label = جاری
-
 migration-wizard-import-browser-no-browsers = { -brand-short-name } کوئی اینجھے پروگرام کائنی لبھ سڳا جیندے وچ نشانی، تاریخ یا پاس ورڈ ڈیٹا شامل ہووے۔
 migration-wizard-import-browser-no-resources = ہک خرابی ہائی۔ اوں براؤزر پروفائل کنوں امپورٹ کرݨ کیتے { -brand-short-name } کوئی ڈیٹا کائنی لبھ سڳا۔
 
@@ -159,7 +150,6 @@ migration-wizard-import-browser-no-resources = ہک خرابی ہائی۔ اوں
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = نشانیاں
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = من بھان٘دے
@@ -172,12 +162,13 @@ migration-list-payment-methods-label = ادائیگی طریقے
 ##
 
 migration-wizard-progress-header = ڈیٹا امپورٹ کرݨ
+# This header appears in the final page of the migration wizard only if
+# all resources were imported successfully.
 migration-wizard-progress-done-header = ڈیٹا کامیابی نال امپورٹ تھی آیا
 migration-wizard-progress-icon-in-progress =
     .aria-label = درآمد تھیندی پئی اے …
 migration-wizard-progress-icon-completed =
     .aria-label = مکمل تھی ڳیا
-
 migration-safari-password-import-header = سفاری کنوں پاس ورڈز امپورٹ کرو
 migration-safari-password-import-steps-header = سفاری پاس ورڈز امپورٹ کرݨ کیتے:
 migration-safari-password-import-step1 = Safari وچ ، ”Safari“ مینیو کھولو تے ترجیحاں> پاسورڈز تے ون٘ڄو
@@ -186,8 +177,6 @@ migration-safari-password-import-step3 = پاس ورڈز فائل محفوظ ک�
 migration-safari-password-import-step4 = آپݨی محفوظ کیتی ہوئی پاس ورڈ فائل چݨݨ کیتے ہیٹھاں ”فائل چݨو” ورتو
 migration-safari-password-import-skip-button = چھوڑو
 migration-safari-password-import-select-button = فائل چݨو
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -198,7 +187,6 @@ migration-wizard-progress-success-bookmarks =
         [one] { $quantity } نشانی
        *[other] { $quantity } نشانیاں
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -226,7 +214,6 @@ migration-wizard-progress-success-extensions =
         [one] { $quantity } ایکسٹنشن
        *[other] { $quantity } ایکسٹنشناں
     }
-
 # Shown in the migration wizard after importing a partial amount of
 # matched extensions from supported browsers.
 #
@@ -234,7 +221,6 @@ migration-wizard-progress-success-extensions =
 #   $matched (Number): the number of matched imported extensions
 #   $quantity (Number): the number of total extensions found during import
 migration-wizard-progress-partial-success-extensions = { $quantity } وچوں { $matched } ایکسٹنشناں
-
 migration-wizard-progress-extensions-addons-link = { -brand-short-name } کیتے ایکسٹنشناں براؤز کرو
 
 ##
@@ -249,7 +235,6 @@ migration-wizard-progress-success-passwords =
         [one] { $quantity } پاس ورڈ
        *[other] { $quantity } پاس ورڈ
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -260,9 +245,7 @@ migration-wizard-progress-success-history =
         [one] چھیکڑی ݙین٘ہ کنوں
        *[other] چھیکڑی { $maxAgeInDays } ݙیہاڑیاں کنوں
     }
-
 migration-wizard-progress-success-formdata = فارم تاریخ
-
 # Shown in the migration wizard after importing payment methods from another
 # browser has completed.
 #
@@ -273,7 +256,6 @@ migration-wizard-progress-success-payment-methods =
         [one] { $quantity } ادائیگی طریقہ
        *[other] { $quantity } ادائیگی طریقے
     }
-
 migration-wizard-safari-permissions-sub-header = سفاری نشانیاں تے براؤزنگ تاریخ امپورٹ کرݨ کیتے:
 migration-wizard-safari-instructions-continue = ” جاری” چݨو
 migration-wizard-safari-instructions-folder = تندیر وچ Safari فولڈر چݨو تے "کھولو" چݨو
