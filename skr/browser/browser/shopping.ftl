@@ -87,9 +87,9 @@ shopping-survey-q2-radio-3-label = میکوں پتہ کائنی
 shopping-survey-next-button-label = اڳلا
 shopping-survey-submit-button-label = جمع کرواؤ
 shopping-survey-terms-link = ورتݨ شرطاں
-shopping-survey-thanks-message = فیڈبیک تے تہاݙے تھورائت ہیں!
+shopping-survey-thanks-message = تہاݙے فیڈبیک تے تھورائت ہیں!
 shopping-survey-thanks =
-    .heading = فیڈبیک تے تہاݙے تھورائت ہیں!
+    .heading = تہاݙے فیڈبیک تے تھورائت ہیں!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
@@ -98,3 +98,14 @@ shopping-survey-thanks =
 
 ## Onboarding message strings.
 
+shopping-onboarding-opt-in-button = جیا، ایں کوں ازماؤ
+shopping-onboarding-not-now-button = ہݨ کائناں
+shopping-onboarding-dialog-close-button =
+    .title = بند کرو
+    .aria-label = بند کرو
+# Aria-label to make the "steps" of the shopping onboarding container visible to screen readers.
+# Variables:
+#   $current (Int) - Number of the current page
+#   $total (Int) - Total number of pages
+shopping-onboarding-welcome-steps-indicator-label =
+    .aria-label = پیش رفت: مرحلہ { $current } دا { $total }
