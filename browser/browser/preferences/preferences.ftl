@@ -14,6 +14,7 @@ do-not-track-option-always =
 global-privacy-control-description =
     .label = Peti al retejoj ne vendi aŭ dividi miajn datumojn
     .accesskey = v
+non-technical-privacy-header = Preferoj pri privateco en retejoj
 # Do not translate.
 # "Global Privacy Control" or "GPC" are a web platform feature name and abbreviation
 # included to facilitate power-user search of the about:preferences page.
@@ -969,9 +970,16 @@ sitedata-cookies-exceptions =
 
 cookie-banner-handling-header = Redukto de kuketaj anoncoj
 cookie-banner-handling-description = { -brand-short-name } klopodas aŭtomate rifuzi ĉiujn kuketajn petojn en kuketaj anoncoj, en subtenataj retejoj.
+
+## Privacy Section - Cookie Banner Blocking
+
+cookie-banner-blocker-header = Blokilo de kuketaj anoncoj
+cookie-banner-blocker-description = Dum privata retumo, kiam retejo demandas ĉu ĝi povas uzi kuketojn,  { -brand-short-name } aŭtomate rifuzas ilin nome via. Nun en subtenataj retejoj.
 cookie-banner-learn-more = Pli da informo
 forms-handle-cookie-banners =
     .label = Redukti kuketajn anoncojn
+cookie-banner-blocker-checkbox-label =
+    .label = Aŭtomate rifuzi kuketajn anoncojn
 
 ## Privacy Section - Address Bar
 
@@ -1002,6 +1010,9 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Rapidaj agoj
     .accesskey = R
+addressbar-locbar-showrecentsearches-option =
+    .label = Montri ĵusajn serĉojn
+    .accesskey = M
 addressbar-suggestions-settings = Ŝanĝi preferojn pri serĉilaj sugestoj
 addressbar-quickactions-learn-more = Pli da informo
 
