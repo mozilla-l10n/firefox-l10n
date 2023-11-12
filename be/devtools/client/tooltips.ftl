@@ -40,6 +40,15 @@ inactive-css-border-image = <strong>{ $property }</strong> не мае ніяк�
 inactive-css-ruby-element = <strong>{ $property }</strong> не ўплывае на гэты элемент, таму што гэта элемент ruby. Яго памер вызначаны памерам шрыфту тэксту ruby.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах вылучэння.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> не падтрымліваецца на псеўда-элементах ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> не ўплывае на гэты элемент, бо ён мае больш за { $lineCount } радок.
+        [few] <strong>{ $property }</strong> не ўплывае на гэты элемент, бо ён мае больш за { $lineCount } радкі.
+       *[many] <strong>{ $property }</strong> не ўплывае на гэты элемент, бо ён мае больш за { $lineCount } радкоў.
+    }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> не ўплывае на гэты элемент, таму што ён фрагментаваны, г.зн. яго змесціва падзелена на некалькі слупкоў ці старонак.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -66,6 +75,8 @@ inactive-css-not-table-cell-fix = Паспрабуйце дадаць <strong>di
 inactive-scroll-padding-when-not-scroll-container-fix = Паспрабуйце дадаць <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> альбо <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = У элеменце бацькоўскай табліцы выдаліце ўласцівасць або змяніце значэнне <strong>border-collapse</strong> на іншае, ніж <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Паспрабуйце змяніць <strong>font-size</strong> тэксту ruby. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Паспрабуйце паменшыць колькасць радкоў. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Пазбягайце падзелу змесціва элемента, напрыклад. шляхам выдалення слупкоў або выкарыстання <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
