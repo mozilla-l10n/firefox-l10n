@@ -37,6 +37,14 @@ protections-panel-etp-off-toggle =
     .label = Узмоцненая ахова ад сачэння
     .description = Адключана на гэтым сайце
     .aria-label = Уключыць ахову на { $host }
+protections-panel-etp-toggle-on =
+    .label = Узмоцненая ахова ад сачэння
+    .description = Уключана на гэтым сайце
+    .aria-label = Узмоцненая ахова ад сачэння: уключана на { $host }
+protections-panel-etp-toggle-off =
+    .label = Узмоцненая ахова ад сачэння
+    .description = Адключана на гэтым сайце
+    .aria-label = Узмоцненая ахова ад сачэння: адключана на { $host }
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сайт не працуе?
 # The heading/title of the sub-panel view
@@ -119,6 +127,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 # Cookie Banner Handling
 
 protections-panel-cookie-banner-handling-header = Памяншэнне колькасці банераў кукі
+protections-panel-cookie-banner-blocker-header = Блакавальнік банераў кукі
 protections-panel-cookie-banner-handling-enabled = Уключана для гэтага сайта
 protections-panel-cookie-banner-handling-disabled = Выключана для гэтага сайта
 protections-panel-cookie-banner-handling-undetected = Сайт зараз не падтрымліваецца
@@ -128,6 +137,12 @@ protections-panel-cookie-banner-view-title =
 #  $host (String): the hostname of the site that is being displayed.
 protections-panel-cookie-banner-view-turn-off-for-site = Выключыць памяншэнне колькасці банераў кукі для { $host }?
 protections-panel-cookie-banner-view-turn-on-for-site = Уключыць памяншэнне колькасці банераў кукі для гэтага сайта?
+protections-panel-cookie-banner-blocker-view-title =
+    .title = Блакавальнік банераў кукі
+# Variables
+#  $host (String): the hostname of the site that is being displayed.
+protections-panel-cookie-banner-blocker-view-turn-off-for-site = Выключыць блакавальнік банераў кукі для { $host }?
+protections-panel-cookie-banner-blocker-view-turn-on-for-site = Уключыць блакавальнік банераў кукі для гэтага сайта?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } выдаліць файлы кукі гэтага сайта і абновіць старонку. Выдаленне ўсіх файлаў кукі можа прывесці да выхаду з сістэмы або ачышчэння кошыка для пакупак.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } спрабуе аўтаматычна адхіляць усе запыты файлаў кукі на сайтах, якія падтрымліваюцца.
 protections-panel-cookie-banner-view-cancel = Скасаваць
