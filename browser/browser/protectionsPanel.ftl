@@ -145,6 +145,7 @@ protections-panel-cookie-banner-blocker-view-turn-off-for-site = Выключы�
 protections-panel-cookie-banner-blocker-view-turn-on-for-site = Уключыць блакавальнік банераў кукі для гэтага сайта?
 protections-panel-cookie-banner-view-cookie-clear-warning = { -brand-short-name } выдаліць файлы кукі гэтага сайта і абновіць старонку. Выдаленне ўсіх файлаў кукі можа прывесці да выхаду з сістэмы або ачышчэння кошыка для пакупак.
 protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name } спрабуе аўтаматычна адхіляць усе запыты файлаў кукі на сайтах, якія падтрымліваюцца.
+protections-panel-cookie-banner-blocker-view-turn-on-description = Уключыце, і { -brand-short-name } паспрабуе аўтаматычна адхіляць банеры кукі на гэтым сайце.
 protections-panel-cookie-banner-view-cancel = Скасаваць
 protections-panel-cookie-banner-view-turn-off = Выключыць
 protections-panel-cookie-banner-view-turn-on = Уключыць
