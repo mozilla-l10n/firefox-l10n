@@ -1016,7 +1016,7 @@ addressbar-locbar-quickactions-option =
     .accesskey = d
 addressbar-locbar-showrecentsearches-option =
     .label = ostatnich wyszukiwaniach
-    .accesskey = o
+    .accesskey = n
 addressbar-suggestions-settings = Zmień preferencje podpowiedzi dostarczanych przez wyszukiwarki
 addressbar-quickactions-learn-more = Więcej informacji
 
