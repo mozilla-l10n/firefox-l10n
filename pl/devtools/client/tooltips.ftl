@@ -48,6 +48,7 @@ inactive-css-text-wrap-balance-lines-exceeded =
         [few] <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma on więcej niż { $lineCount } wiersze.
        *[many] <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma on więcej niż { $lineCount } wierszy.
     }
+inactive-css-text-wrap-balance-fragmented = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest on sfragmentaryzowany, tj. jego zawartość jest podzielona na wiele kolumn lub stron.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how
@@ -74,6 +75,8 @@ inactive-css-not-table-cell-fix = Spróbuj dodać <strong>display:table-cell</st
 inactive-scroll-padding-when-not-scroll-container-fix = Spróbuj dodać <strong>overflow:auto</strong>, <strong>overflow:scroll</strong> lub <strong>overflow:hidden</strong>. { learn-more }
 inactive-css-border-image-fix = W nadrzędnym elemencie tabeli usuń własność lub zmień wartość <strong>border-collapse</strong> na inną niż <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Spróbuj zmienić <strong>font-size</strong> tekstu rubi. { learn-more }
+inactive-css-text-wrap-balance-lines-exceeded-fix = Spróbuj zmniejszyć liczbę wierszy. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Unikaj dzielenia zawartości elementu, np. usuwając kolumny lub używając <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
