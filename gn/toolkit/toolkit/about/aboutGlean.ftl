@@ -84,6 +84,11 @@ about-glean-adhoc-explanation =
     embojurujávo peteĩ tembiporu mba’e’okarupa ñemboguataha ko’ápe <code>about:glean</code>
     ha eiporúvo pe API <code>testGetValue()</code> ko
     <code>Glean.metricCategory.metricName.testGetValue()</code> ramo.
+# Do not translate strings between <code> </code> tags.
+about-glean-adhoc-note =
+    Eikuaáke eiporuha API Glean JS pe mba’e’okarupa devtools rupive.
+    Kóva he’ise pe métrica ha pe métrica réra oguerekoha ysaja
+    <code>camelCase</code> ojuavýva umi APIs de Rust y C++ reheguágui.
 controls-button-label-verbose = Emboheko ha emondo ping
 about-glean-about-data-header = Mba’ekuaarã rehegua
 about-glean-about-data-explanation =
