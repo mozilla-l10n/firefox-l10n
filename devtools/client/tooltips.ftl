@@ -40,6 +40,14 @@ inactive-css-border-image = <strong>{ $property }</strong> nie ma wpływu na ten
 inactive-css-ruby-element = <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ jest to element rubi. Jego rozmiar zależy od rozmiaru czcionki tekstu rubi.
 inactive-css-highlight-pseudo-elements-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach wyróżniania.
 inactive-css-cue-pseudo-element-not-supported = <strong>{ $property }</strong> nie jest obsługiwane na pseudoelementach ::cue.
+# Variables:
+#   $lineCount (integer) - The number of lines the element has.
+inactive-css-text-wrap-balance-lines-exceeded =
+    { $lineCount ->
+        [one] <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma on więcej niż { $lineCount } wiersz.
+        [few] <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma on więcej niż { $lineCount } wiersze.
+       *[many] <strong>{ $property }</strong> nie ma wpływu na ten element, ponieważ ma on więcej niż { $lineCount } wierszy.
+    }
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
 ## an icon. When this icon is hovered this message is displayed to explain how

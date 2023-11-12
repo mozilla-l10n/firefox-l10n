@@ -50,6 +50,12 @@ migration-wizard-migrator-display-name-vivaldi = Vivaldi
 migration-no-permissions-message = { -brand-short-name } nie ma dostępu do profili innych przeglądarek zainstalowanych na tym urządzeniu.
 migration-no-permissions-instructions = Aby kontynuować importowanie danych z innej przeglądarki, udziel { -brand-short-name(case: "dat") } dostępu do jego folderu profilu.
 migration-no-permissions-instructions-step1 = Kliknij „Kontynuuj”
+# The second step in getting permissions to read data for the selected
+# browser type.
+#
+# Variables:
+#  $permissionsPath (String): the file system path that the user will need to grant read permission to.
+migration-no-permissions-instructions-step2 = W oknie wyboru pliku przejdź do <code>{ $permissionsPath }</code> i kliknij „Wybierz”
 
 ## These strings will be displayed based on how many resources are selected to import
 
