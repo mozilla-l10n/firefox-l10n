@@ -97,6 +97,7 @@ shopping-settings-label =
 shopping-settings-recommendations-toggle =
     .label = Montri reklamojn en la kontrolilo de recenzoj
 shopping-settings-recommendations-learn-more = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ĉiuj reklamoj devas konformi al niaj normoj pri kvalito de recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
+shopping-settings-recommendations-learn-more2 = De tempo al tempo vi vidos reklamojn pri elstaraj produktoj. Ni nur reklamas produktojn kun fidindaj recenzoj. <a data-l10n-name="review-quality-url">Pli da informo</a>
 shopping-settings-opt-out-button = Malŝalti la kontrolilon de recenzoj
 powered-by-fakespot = La kontrolilo de recenzoj funkcias danke al <a data-l10n-name="fakespot-link">{ -fakespot-brand-full-name }</a>
 
@@ -121,6 +122,7 @@ shopping-analysis-explainer-intro2 = Ni uzas artefaritan intelektan (AI) teknolo
 shopping-analysis-explainer-grades-intro = Ni donas al ĉiu recenzo de produkto <strong>literan noton</strong> el A ĝis F.
 shopping-analysis-explainer-adjusted-rating-description = La <strong>alĝustigita taksado</strong> estas bazita nur sur la recenzoj, kiujn ni opinias fidindaj.
 shopping-analysis-explainer-learn-more = Pli da informo pri <a data-l10n-name="review-quality-url">kiel { -fakespot-brand-full-name } determinas la kvaliton de recenzoj</a>.
+shopping-analysis-explainer-learn-more2 = Pli da informo pri <a data-l10n-name="review-quality-url">kiel { -fakespot-brand-name } determinas la kvaliton de recenzoj</a>.
 # This string includes the short brand name of one of the three supported
 # websites, which will be inserted without being translated.
 #  $retailer (String) - capitalized name of the shopping website, for example, "Amazon".
@@ -141,6 +143,14 @@ shopping-sidebar-close-button2 =
 ## fakespot.com. If possible, a different word should be used for the Fakespot
 ## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
 ## used in the name of the Firefox feature ('Review checker'). If that is not
+## possible - if these terms are not meaningfully different - that is OK.
+
+
+## Strings for the unanalyzed product card.
+## The word 'analyzer' when used here reflects what this tool is called on
+## fakespot.com. If possible, a different word should be used for the Fakespot
+## tool (the Fakespot by Mozilla 'analyzer') other than 'checker', which is
+## used in the name of the Firefox feature ('Review Checker'). If that is not
 ## possible - if these terms are not meaningfully different - that is OK.
 
 shopping-unanalyzed-product-header-2 = Ankoraŭ ne estas informoj pri tiuj recenzoj
@@ -200,6 +210,7 @@ shopping-onboarding-dynamic-subtitle = Vidu kiel fidindaj estas la recenzoj en <
 shopping-onboarding-dynamic-subtitle-1 = Vidu kiel fidindaj estas la recenzoj en <b>{ $currentSite }</b> antaŭ ol aĉeti. La kontrolilo de recenzoj, eksperimenta trajto de{ -brand-product-name }, estas integrita en la retumilo — kaj ĝi ankaŭ funkcias en <b>{ $secondSite }</b> kaj <b>{ $thirdSite }</b>.
 shopping-onboarding-body = Danke al la povo de { -fakespot-brand-full-name } ni helpas vin eviti neobjektivajn kaj malverajn recenzojn. Nia modelo de artefarita intelekto konstante pliboniĝas por protekti vin dum vi aĉetumas. <a data-l10n-name="learn_more">Pli da informo</a>
 shopping-onboarding-opt-in-privacy-policy-and-terms-of-use = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-full-name }.
+shopping-onboarding-opt-in-privacy-policy-and-terms-of-use2 = Se vi elektas “{ shopping-onboarding-opt-in-button }“ vi akceptas la <a data-l10n-name="privacy_policy">politikon pri privateco</a> kaj <a data-l10n-name="terms_of_use">kondiĉojn de uzo</a> de { -fakespot-brand-name }.
 shopping-onboarding-opt-in-button = Jes, provi ĝin
 shopping-onboarding-not-now-button = Ne nun
 shopping-onboarding-dialog-close-button =
