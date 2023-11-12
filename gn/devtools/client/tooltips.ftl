@@ -75,6 +75,7 @@ inactive-scroll-padding-when-not-scroll-container-fix = Ehecha embojuaju <strong
 inactive-css-border-image-fix = Pe mba’eporu tabla tuichavéva, embogue mbapetee térã iñambue tepykue <strong>border-collapse</strong> tepykue ha’e’ỹva <strong>collapse</strong>. { learn-more }
 inactive-css-ruby-element-fix = Emoambuekuaa <strong>teñoiha tuichakue</strong> moñe’rã pytãva. { learn-more }
 inactive-css-text-wrap-balance-lines-exceeded-fix = Eñeha’ã emomichĩ tairenda jeporu. { learn-more }
+inactive-css-text-wrap-balance-fragmented-fix = Aníke emboja’o mba’eporu retepy, techapyrã: emboguévo umi yta térã eiporúvo <strong>page-break-inside:avoid</strong>. { learn-more }
 
 ## In the Rule View when a CSS property may have compatibility issues with other browsers
 ## we display an icon. When this icon is hovered this message is displayed to explain why
