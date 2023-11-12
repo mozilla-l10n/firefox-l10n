@@ -76,6 +76,20 @@ shopping-settings-label =
 
 ## Shopping survey strings.
 
+shopping-survey-q1-radio-1-label = ݙاڈھا تسلی بخش
+shopping-survey-q1-radio-2-label = تسلی بخش
+shopping-survey-q1-radio-3-label = غیر جانبدار
+shopping-survey-q1-radio-4-label = غیر تسلی بخش
+shopping-survey-q1-radio-5-label = ݙاڈھا غیرتسلی بخش
+shopping-survey-q2-radio-1-label = جیا
+shopping-survey-q2-radio-2-label = کو
+shopping-survey-q2-radio-3-label = میکوں پتہ کائنی
+shopping-survey-next-button-label = اڳلا
+shopping-survey-submit-button-label = جمع کرواؤ
+shopping-survey-terms-link = ورتݨ شرطاں
+shopping-survey-thanks-message = فیڈبیک تے تہاݙے تھورائت ہیں!
+shopping-survey-thanks =
+    .heading = فیڈبیک تے تہاݙے تھورائت ہیں!
 
 ## Shopping Feature Callout strings.
 ## "price tag" refers to the price tag icon displayed in the address bar to
