@@ -130,6 +130,7 @@ startup-restore-windows-and-tabs =
 windows-launch-on-login =
     .label = Bilgisayarım açıldığında { -brand-short-name } tarayıcısını otomatik olarak aç
     .accesskey = B
+windows-launch-on-login-disabled = Bu tercih Windows’ta devre dışıdır. Değiştirmek için sistem ayarlarındaki <a data-l10n-name="startup-link">Başlangıç Uygulamaları</a> kısmına bakabilirsiniz.
 startup-restore-warn-on-quit =
     .label = Tarayıcıdan çıkarken beni uyar
 disable-extension =
@@ -973,6 +974,7 @@ cookie-banner-handling-description = { -brand-short-name }, desteklenen sitelerd
 ## Privacy Section - Cookie Banner Blocking
 
 cookie-banner-blocker-header = Çerez bildirimi engelleyici
+cookie-banner-blocker-description = Siteler gizli gezinti modunda çerezleri kullanıp kullanamayacağını sorduğunda { -brand-short-name } bu istekleri otomatik olarak reddeder. Yalnızca desteklenen sitelerde çalışır.
 cookie-banner-learn-more = Daha fazla bilgi al
 forms-handle-cookie-banners =
     .label = Çerez bildirimlerini azalt
@@ -1020,6 +1022,10 @@ content-blocking-enhanced-tracking-protection = Gelişmiş izlenme koruması
 content-blocking-section-top-level-description = Takip kodları, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takip kodlarının ve diğer kötü amaçlı betiklerin çoğunu engeller.
 content-blocking-learn-more = Daha fazla bilgi al
 content-blocking-fpi-incompatibility-warning = First Party Isolation (FPI) özelliğini kullanıyorsunuz. Bu özellik, bazı { -brand-short-name } çerez ayarları geçersiz kılar.
+# There is no need to translate "Resist Fingerprinting (RFP)". This is a
+# feature that can only be enabled via about:config, and it's not exposed to
+# standard users (e.g. via Settings).
+content-blocking-rfp-incompatibility-warning = Resist Fingerprinting (RFP) özelliğini kullanıyorsunuz. { -brand-short-name } tarayıcısının bazı parmak izi koruma ayarlarını değiştiren bu özellik bazı sitelerin bozulmasına yol açabilir.
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.

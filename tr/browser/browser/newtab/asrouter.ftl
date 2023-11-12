@@ -259,5 +259,6 @@ launch-on-login-infobar-reject-button = Şimdi değil
 ## These string variants are used when the “launch on login” infobar
 ## notification is displayed for a second time.
 
+launch-on-login-infobar-final-message = <strong>Bilgisayarınızı her yeniden başlattığınızda { -brand-short-name } açılsın mı?</strong> Başlangıç tercihlerinizi yönetmek için ayarlarda “başlangıç” terimini arayabilirsiniz.
 launch-on-login-infobar-final-reject-button = Hayır
     .accesskey = H
