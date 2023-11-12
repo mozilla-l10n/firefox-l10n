@@ -977,9 +977,13 @@ cookie-banner-handling-description = { -brand-short-name } аўтаматычн�
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = Блакавальнік банераў кукі
+cookie-banner-blocker-description = Калі сайт пытаецца, ці можна яму выкарыстоўваць кукі ў рэжыме прыватнага аглядання, { -brand-short-name } аўтаматычна адхіляе запыт. Толькі на падтрыманых сайтах.
 cookie-banner-learn-more = Падрабязней
 forms-handle-cookie-banners =
     .label = Памяншаць колькасць банераў кукі
+cookie-banner-blocker-checkbox-label =
+    .label = Аўтаматычна адхіляць банеры кукі
 
 ## Privacy Section - Address Bar
 
@@ -1010,8 +1014,8 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = Хуткія дзеянні
     .accesskey = Х
-addressbar-locbar-recentsearches-option =
-    .label = Нядаўнія пошукі
+addressbar-locbar-showrecentsearches-option =
+    .label = Паказваць апошнія пошукі
     .accesskey = к
 addressbar-suggestions-settings = Змяніць налады для падказак пашукавіка
 addressbar-quickactions-learn-more = Падрабязней
