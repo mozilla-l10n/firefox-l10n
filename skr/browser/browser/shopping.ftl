@@ -54,6 +54,10 @@ shopping-settings-label =
 
 ## Strings for UrlBar button
 
+shopping-sidebar-open-button2 =
+    .tooltiptext = ریویو پڑتالی کھولو
+shopping-sidebar-close-button2 =
+    .tooltiptext = ریویو پڑتالی بند کرو
 
 ## Strings for the unanalyzed product card.
 ## The word 'analyzer' when used here reflects what this tool is called on
@@ -73,6 +77,7 @@ shopping-settings-label =
 
 ## Strings for the advertisement
 
+ad-by-fakespot = { -fakespot-brand-name } ولوں مشہوری
 
 ## Shopping survey strings.
 

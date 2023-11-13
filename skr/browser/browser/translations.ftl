@@ -5,6 +5,11 @@
 # The button for "Firefox Translations" in the url bar.
 urlbar-translations-button =
     .tooltiptext = ایں ورقے دا ترجمہ کرو
+# The button for "Firefox Translations" in the url bar. Note that here "Beta" should
+# not be translated, as it is a reflection of the un-localized BETA icon that is in the
+# panel.
+urlbar-translations-button2 =
+    .tooltiptext = ایں ورقے دا ترجمہ کرو ـــ ازمائشی
 # If your language requires declining the language name, a possible solution
 # is to adapt the structure of the phrase, or use a support noun, e.g.
 # `Page translated from: { $fromLanguage }. Current target language: { $toLanguage }`
@@ -113,12 +118,6 @@ translations-manage-description = آف لائن ترجمے کیتے زناناں
 translations-manage-all-language = ساریاں زباناں
 translations-manage-download-button = ڈاؤن لوڈ
 translations-manage-delete-button = مٹاؤ
-translations-manage-language-download-button =
-    .label = ڈاؤن لوڈ
-    .accesskey = D
-translations-manage-language-delete-button =
-    .label = مٹاؤ
-    .accesskey = e
 translations-manage-error-download = زبان فائلاں ڈاؤن لوڈ کرݨ وچ ہک مسئلہ ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-error-delete = زبان فائلاں مٹاوݨ وچ ہک خرابی ہائی۔ سوہݨا، ولدا کوشش کرو۔
 translations-manage-language-install-button =

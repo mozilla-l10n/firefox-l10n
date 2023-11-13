@@ -953,6 +953,7 @@ cookie-banner-handling-description = { -brand-short-name } سہارا تھیاں
 
 ## Privacy Section - Cookie Banner Blocking
 
+cookie-banner-blocker-header = کوکی بینر بلاک کرݨ آلا
 cookie-banner-learn-more = ٻیا سِکھو
 forms-handle-cookie-banners =
     .label = کوکی بینراں کوں تھوڑا کرو
@@ -986,9 +987,6 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = تیز عمل
     .accesskey = Q
-addressbar-locbar-recentsearches-option =
-    .label = حالیہ ڳولاں
-    .accesskey = R
 addressbar-suggestions-settings = ڳولݨ انجݨ تجویزاں کیتے ترجیحاں تبدیل کرو
 addressbar-quickactions-learn-more = ٻیا سِکھو
 
