@@ -55,6 +55,7 @@ firefoxview-tabpickup-password-locked-primarybutton = منڈھلا پاس ورڈ
 firefoxview-syncedtab-password-locked-link = <a data-l10n-name="syncedtab-password-locked-link">ٻیا سکھو</a>
 firefoxview-tabpickup-signed-out-header = ولدا کنکٹ کرݨ کیتے سائن ان تھیوو
 firefoxview-tabpickup-signed-out-description = اپݨیاں ٹیباں کوں ولدا جوڑݨ تے پکڑݨ کیتے، اپݨے { -fxaccount-brand-name } وِچ سائن ان کرو۔
+firefoxview-tabpickup-signed-out-description2 = اپݨیاں ٹیباں کوں ولدا جوڑݨ تے پکڑݨ کیتے، اپݨے کھاتے وِچ سائن ان کرو۔
 firefoxview-tabpickup-signed-out-primarybutton = سائن ان
 firefoxview-tabpickup-syncing = جݙاں تہاݙیاں ٹیباں سینک تھیندیاں پیاں ہوون تا ٹِک تے ٻہو۔ ایہ صرف لحظے کیتے ہوسے۔
 firefoxview-mobile-promo-header = اپݨے فون یا ٹیبلٹ کنوں ٹیبز حاصل کرو
@@ -188,3 +189,4 @@ firefoxview-import-history-close-button =
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
+firefoxview-syncedtabs-connect-another-device = ٻئی ڈیوائس نال کنکٹ کرو
