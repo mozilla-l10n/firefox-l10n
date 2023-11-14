@@ -216,3 +216,7 @@ details-notification-softblocked-link = കൂടുതല്‍ വിവരം
 details-notification-gmp-pending = { $name } ഉടനേ ഇന്‍സ്റ്റോള്‍ ചെയ്യും
 details-notification-gmp-pending2 =
     .message = { $name } ഉടനേ ഇന്‍സ്റ്റോള്‍ ചെയ്യും
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = സ്വകാര്യതാ വിവരം
