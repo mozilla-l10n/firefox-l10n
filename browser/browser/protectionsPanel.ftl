@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Af hverju?
 protections-panel-not-blocking-why-etp-on-tooltip = Að loka á þetta gæti skemmt þætti sumra vefsvæða. Án rekjara gæti verið að sumir hnappar, eyðublöð og innskráningarreitir virki ekki.
 protections-panel-not-blocking-why-etp-off-tooltip = Öllum rekjurum á þessu vefsvæði hefur verið hlaðið inn vegna þess að slökkt er á vörnum.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Að loka á þetta gæti skemmt þætti sumra vefsvæða. Án rekjara gæti verið að sumir hnappar, eyðublöð og innskráningarreitir virki ekki.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Öllum rekjurum á þessu vefsvæði hefur verið hlaðið inn vegna þess að slökkt er á vörnum.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Kveiktu á þ
 protections-panel-cookie-banner-view-cancel = Hætta við
 protections-panel-cookie-banner-view-turn-off = Slökkva á
 protections-panel-cookie-banner-view-turn-on = Kveikja á
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Slökkva á
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Kveikja á
