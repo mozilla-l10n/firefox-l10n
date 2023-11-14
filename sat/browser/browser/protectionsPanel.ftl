@@ -49,6 +49,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = ᱪᱮᱫᱟᱜ?
 protections-panel-not-blocking-why-etp-on-tooltip = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱮᱭᱟᱜ ᱮᱞᱤᱢᱮᱱᱴ ᱨᱟᱹᱯᱩᱫ ᱩᱛᱟᱹᱨ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾ ᱵᱤᱱᱟᱹ ᱯᱟᱧᱡᱟᱠᱩᱜ ᱛᱮ, ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱩᱛᱟᱹᱢ, ᱯᱷᱚᱨᱢ, ᱟᱨ ᱵᱚᱞᱚ ᱡᱟᱭᱜᱟᱠᱚᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾
 protections-panel-not-blocking-why-etp-off-tooltip = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱤᱱ ᱡᱷᱚᱛᱚ ᱴᱨᱟᱠᱚᱨᱥ ᱠᱚ ᱫᱚ ᱞᱟᱫᱮ ᱦᱩᱭ ᱠᱟᱱᱟ ᱠᱚ ᱪᱮᱫᱟᱜ ᱥᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱠᱚ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱠᱚ ᱨᱮᱭᱟᱜ ᱮᱞᱤᱢᱮᱱᱴ ᱨᱟᱹᱯᱩᱫ ᱩᱛᱟᱹᱨ ᱜᱚᱫ ᱠᱟᱜᱼᱟᱭ ᱾ ᱵᱤᱱᱟᱹ ᱯᱟᱧᱡᱟᱠᱩᱜ ᱛᱮ, ᱛᱤᱱᱟᱹᱜ ᱜᱟᱱ ᱵᱩᱛᱟᱹᱢ, ᱯᱷᱚᱨᱢ, ᱟᱨ ᱵᱚᱞᱚ ᱡᱟᱭᱜᱟᱠᱚᱫᱚ ᱵᱟᱭ ᱠᱟᱹᱢᱤᱭᱟᱭ ᱾
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = ᱱᱚᱶᱟ ᱥᱟᱭᱤᱴ ᱨᱤᱱ ᱡᱷᱚᱛᱚ ᱴᱨᱟᱠᱚᱨᱥ ᱠᱚ ᱫᱚ ᱞᱟᱫᱮ ᱦᱩᱭ ᱠᱟᱱᱟ ᱠᱚ ᱪᱮᱫᱟᱜ ᱥᱮ ᱨᱩᱠᱷᱤᱭᱟᱹ ᱠᱚ ᱫᱚ ᱵᱚᱸᱫ ᱠᱟᱱᱟ ᱾
 
 ##
 
@@ -133,3 +137,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = ᱵᱟᱹᱰᱨᱟᱹ
 protections-panel-cookie-banner-view-turn-off = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
 protections-panel-cookie-banner-view-turn-on = ᱮᱢ ᱢᱮ
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = ᱵᱚᱸᱫᱚᱭ ᱢᱮ
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = ᱮᱢ ᱢᱮ
