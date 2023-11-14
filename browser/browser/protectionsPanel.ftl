@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Неге?
 protections-panel-not-blocking-why-etp-on-tooltip = Бұларды бұғаттау кейбір веб-сайттардың элементтерін бұзуы мүмкін. Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
 protections-panel-not-blocking-why-etp-off-tooltip = Бұл сайттағы барлық трекерлер жүктелген, себебі қорғаныс сөндірілген.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Бұларды бұғаттау кейбір веб-сайттардың элементтерін бұзуы мүмкін. Трекерлерсіз кейбір батырмалар, формалар және кіру өрістері жұмыс істемеуі мүмкін.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Бұл сайттағы барлық трекерлер жүктелген, себебі қорғаныс сөндірілген.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Іске қо
 protections-panel-cookie-banner-view-cancel = Бас тарту
 protections-panel-cookie-banner-view-turn-off = Сөндіру
 protections-panel-cookie-banner-view-turn-on = Іске қосу
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Сөндіру
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Іске қосу
