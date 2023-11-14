@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Proque?
 protections-panel-not-blocking-why-etp-on-tooltip = Blocar istes poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formularios e campos de aperir session poterea non functionar.
 protections-panel-not-blocking-why-etp-off-tooltip = Tote le traciatores sur iste sito ha essite cargate perque le protectiones ha essite disactivate.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blocar istes poterea rumper elementos de alcun sitos web. Sin traciatores, alcun buttones, formularios e campos de aperir session poterea non functionar.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Tote le traciatores sur iste sito ha essite cargate perque le protectiones ha essite disactivate.
 
 ##
 
