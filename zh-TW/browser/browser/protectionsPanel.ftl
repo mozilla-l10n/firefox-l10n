@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = 為什麼？
 protections-panel-not-blocking-why-etp-on-tooltip = 封鎖這些項目可能會造成某些網站上的元素不正常。若沒有追蹤器，某些按鈕、表單、登入欄位可能無法正常運作。
 protections-panel-not-blocking-why-etp-off-tooltip = 由於關閉了追蹤保護功能，已放行本網站中的所有追蹤器。
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = 封鎖這些項目可能會造成某些網站上的元素不正常。若沒有追蹤器，某些按鈕、表單、登入欄位可能無法正常運作。
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = 由於關閉了追蹤保護功能，已放行本網站中的所有追蹤器。
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = 開啟此功�
 protections-panel-cookie-banner-view-cancel = 取消
 protections-panel-cookie-banner-view-turn-off = 關閉
 protections-panel-cookie-banner-view-turn-on = 開啟
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = 關閉
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = 開啟
