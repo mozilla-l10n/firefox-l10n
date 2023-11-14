@@ -497,3 +497,4 @@ plugins-gmp-license-info = Звесткі пра ліцэнзію
 plugins-gmp-privacy-info = Звесткі аб прыватнасці
 plugins-openh264-name = OpenH264 відэакодэк ад Cisco Systems, Inc.
 plugins-widevine-name = Плагін расшыфроўкі кантэнту Widevine ад Google Inc.
+plugins-widevine-description = Гэты плагін уключае падтрымку прайгравання шыфраваных медыя ў адпаведнасці з спецыфікацыяй Encrypted Media Extensions. Шыфраваныя медыя звычайна выкарыстоўваюцца на сайтах для аховы прэміум-змесціва ад капіявання. Наведайце https://www.w3.org/TR/encrypted-media/ для больш падрабязных звестак аб Encrypted Media Extensions.
