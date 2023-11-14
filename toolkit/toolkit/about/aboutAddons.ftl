@@ -486,3 +486,8 @@ details-notification-softblocked-link = Thông tin Chi tiết
 details-notification-gmp-pending = { $name } sắp được cài.
 details-notification-gmp-pending2 =
     .message = { $name } sắp được cài.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Thông tin giấy phép
+plugins-openh264-name = Bộ giải mã OpenH264 được cung cấp bởi Cisco Systems, Inc.
