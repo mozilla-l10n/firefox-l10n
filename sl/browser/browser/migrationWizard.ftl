@@ -42,6 +42,8 @@ migration-wizard-migrator-display-name-opera = Opere
 migration-wizard-migrator-display-name-opera-gx = Opere GX
 migration-wizard-migrator-display-name-safari = Safarija
 migration-wizard-migrator-display-name-vivaldi = Vivaldija
+migration-source-name-chrome = Google Chrome
+migration-imported-safari-reading-list = Bralni seznam (iz Safarija)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
