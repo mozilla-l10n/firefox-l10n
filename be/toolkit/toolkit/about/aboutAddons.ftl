@@ -496,5 +496,6 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = Звесткі пра ліцэнзію
 plugins-gmp-privacy-info = Звесткі аб прыватнасці
 plugins-openh264-name = OpenH264 відэакодэк ад Cisco Systems, Inc.
+plugins-openh264-description = Гэты плагін аўтаматычна ўсталяваны Mozilla для рэалізацыі спецыфікацыі WebRTC і тэлефанавання праз WebRTC на прылады, якія патрабуюць выкарыстання відэакодэка H.264. Каб паглядзець зыходны код кодэка і даведацца больш аб яго рэалізацыі, наведайце сайт http://www.openh264.org/.
 plugins-widevine-name = Плагін расшыфроўкі кантэнту Widevine ад Google Inc.
 plugins-widevine-description = Гэты плагін уключае падтрымку прайгравання шыфраваных медыя ў адпаведнасці з спецыфікацыяй Encrypted Media Extensions. Шыфраваныя медыя звычайна выкарыстоўваюцца на сайтах для аховы прэміум-змесціва ад капіявання. Наведайце https://www.w3.org/TR/encrypted-media/ для больш падрабязных звестак аб Encrypted Media Extensions.
