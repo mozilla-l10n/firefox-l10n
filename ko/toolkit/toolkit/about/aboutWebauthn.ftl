@@ -50,13 +50,26 @@ about-webauthn-new-pin-label = 새 PIN:
 about-webauthn-repeat-pin-label = 새 PIN 반복:
 about-webauthn-current-pin-label = 현재 PIN:
 about-webauthn-pin-required-label = PIN을 입력하세요:
+about-webauthn-credential-list-subsection-title = 자격 증명:
+about-webauthn-credential-list-empty = 기기에서 자격 증명을 찾을 수 없습니다.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = PIN 설정
+about-webauthn-current-change-pin-button = PIN 변경
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = 자격 증명 목록
+about-webauthn-cancel-button = 취소
+about-webauthn-send-pin-button = 확인
+about-webauthn-delete-button = 삭제
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = 사용자 확인
+about-webauthn-auth-option-up = 사용자 존재
+about-webauthn-auth-option-clientpin = 클라이언트 PIN
+about-webauthn-auth-option-plat = 플랫폼 기기
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
