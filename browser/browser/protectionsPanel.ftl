@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Po zapnutí s
 protections-panel-cookie-banner-view-cancel = Zrušiť
 protections-panel-cookie-banner-view-turn-off = Vypnúť
 protections-panel-cookie-banner-view-turn-on = Zapnúť
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Vypnúť
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Zapnúť
