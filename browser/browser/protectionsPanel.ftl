@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = ਕਿਓ?
 protections-panel-not-blocking-why-etp-on-tooltip = ਇਹਨਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਭਾਗ ਖ਼ਰਾਬ ਹੋ ਸਕਦੇ ਹਨ। ਬਿਨਾਂ ਟਰੈਕਰਾਂ, ਕੁਝ ਬਟਨ, ਫਾਰਮ ਤੇ ਲਾਗਇਨ ਖੇਤਰ ਕੰਮ ਨਹੀਂ ਵੀ ਕਰ ਸਕਦੇ ਹਨ।
 protections-panel-not-blocking-why-etp-off-tooltip = ਸੁਰੱਖਿਆਵਾਂ ਬੰਦ ਕੀਤੇ ਹੋਣ ਕਰਕੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਰੇ ਟਰੈਕਰ ਲੋਡ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ।
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = ਇਹਨਾਂ ‘ਤੇ ਪਾਬੰਦੀ ਲਾਉਣ ਨਾਲ ਕੁਝ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਭਾਗ ਖ਼ਰਾਬ ਹੋ ਸਕਦੇ ਹਨ। ਬਿਨਾਂ ਟਰੈਕਰਾਂ, ਕੁਝ ਬਟਨ, ਫਾਰਮ ਤੇ ਲਾਗਇਨ ਖੇਤਰ ਕੰਮ ਨਹੀਂ ਵੀ ਕਰ ਸਕਦੇ ਹਨ।
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = ਸੁਰੱਖਿਆਵਾਂ ਬੰਦ ਕੀਤੇ ਹੋਣ ਕਰਕੇ ਇਸ ਸਾਈਟ ਤੋਂ ਸਾਰੇ ਟਰੈਕਰ ਲੋਡ ਕੀਤੇ ਜਾ ਚੁੱਕੇ ਹਨ।
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = ਚਾਲੂ 
 protections-panel-cookie-banner-view-cancel = ਰੱਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-off = ਬੰਦ ਕਰੋ
 protections-panel-cookie-banner-view-turn-on = ਚਾਲੂ ਕਰੋ
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = ਬੰਦ ਕਰੋ
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = ਚਾਲੂ ਕਰੋ
