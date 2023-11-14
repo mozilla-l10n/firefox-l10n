@@ -481,3 +481,7 @@ details-notification-softblocked-link = Lisätietoja
 details-notification-gmp-pending = { $name } asennetaan kohta.
 details-notification-gmp-pending2 =
     .message = { $name } asennetaan kohta.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Lisenssitiedot
