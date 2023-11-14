@@ -15,6 +15,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = फायरफाक्स
 migration-wizard-migrator-display-name-ie = माइक्रोसाफ़्ट इंटरनेट एक्सप्लोरर
 migration-wizard-migrator-display-name-safari = सफारी
+migration-source-name-ie = इंटरनेट एकक्सप्लोरर
 migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = गूगल क्रोम
 migration-imported-safari-reading-list = पठन सूची (सफारीसँ)
