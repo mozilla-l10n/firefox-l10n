@@ -460,6 +460,7 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Информације о лиценци
 plugins-gmp-privacy-info = Информације о приватности
 plugins-openh264-name = Видео-кодек OpenH264 који пружа Cisco Systems, Inc.
 plugins-openh264-description = Mozilla испоручује ову додатну компоненту како би се ускладила са спецификацијом WebRTC и омогућила WebRTC позиве са уређајима којима је потребан кодек H.264. Погледајте изворни кôд кодека и сазнајте више о примени на адреси http://www.openh264.org.
