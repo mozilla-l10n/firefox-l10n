@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Waarom?
 protections-panel-not-blocking-why-etp-on-tooltip = Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.
 protections-panel-not-blocking-why-etp-off-tooltip = Alle trackers op deze website zijn geladen omdat beschermingen zijn uitgeschakeld.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Alle trackers op deze website zijn geladen omdat beschermingen zijn uitgeschakeld.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Schakel dit i
 protections-panel-cookie-banner-view-cancel = Annuleren
 protections-panel-cookie-banner-view-turn-off = Uitschakelen
 protections-panel-cookie-banner-view-turn-on = Inschakelen
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Uitschakelen
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Inschakelen
