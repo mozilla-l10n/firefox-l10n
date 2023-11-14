@@ -487,4 +487,5 @@ details-notification-gmp-pending2 =
 plugins-gmp-license-info = Información de licencia
 plugins-gmp-privacy-info = Información de privacidad
 plugins-openh264-name = Codec de video OpenH264 provisto por Cisco Systems, Inc.
+plugins-openh264-description = Este plugin es instalado automáticamente por Mozilla para cumplir con la especificación WebRTC y habilitar llamadas WebRTC con dispositivos que requieren el codec de video H.264. Visite https://www.openh264.org/ para ver el código fuente y conocer más sobre la implementación.
 plugins-widevine-name = Widevine Content Decryption Module provisto por Google Inc.
