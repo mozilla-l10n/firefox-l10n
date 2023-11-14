@@ -458,3 +458,9 @@ details-notification-softblocked-link = Ch'aqa' chik rutzijol
 details-notification-gmp-pending = { $name } ja xtiyake' qa.
 details-notification-gmp-pending2 =
     .message = { $name } ja xtiyake' qa.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = Ichinan etamab'äl
+plugins-openh264-description = Re nak'ab'äl re' niyak ruma ri Mozilla pa ruyonil, richin nojqäx ri rub'anikil WebRTC, ruma nuya' q'ij chi ke ri WebRTC taq oyonïk rik'in okisaxel rajowaxik chi ke ri H.264 rucholajinel silowachib'äl. Kab'etz'eton pa http://www.openh264.org/ richin natz'ët ri rucholajil ruxe' ri codec chuqa' richin nawetamaj ch'aqa' chik chi rij re samajib'äl.
+plugins-widevine-name = Widevine juperaj etaman rusik'ixik chi rupam ri Google Inc.
