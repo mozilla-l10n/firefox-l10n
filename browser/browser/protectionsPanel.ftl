@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Tại sao?
 protections-panel-not-blocking-why-etp-on-tooltip = Chặn những thứ này có thể phá vỡ các yếu tố của một số trang web. Không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.
 protections-panel-not-blocking-why-etp-off-tooltip = Tất cả các trình theo dõi trên trang web này đã được tải vì bảo vệ bị tắt.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Chặn những thứ này có thể phá vỡ các yếu tố của một số trang web. Không có trình theo dõi, một số nút, biểu mẫu và trường đăng nhập có thể không hoạt động.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Tất cả các trình theo dõi trên trang web này đã được tải vì bảo vệ bị tắt.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Bật nó và
 protections-panel-cookie-banner-view-cancel = Hủy bỏ
 protections-panel-cookie-banner-view-turn-off = Tắt
 protections-panel-cookie-banner-view-turn-on = Bật
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Tắt
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Bật
