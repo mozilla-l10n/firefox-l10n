@@ -191,3 +191,8 @@ details-notification-softblocked-link = مزید مولومات
 details-notification-gmp-pending = یِیہ انسٹال کرنْہ جلدی۔{ $name }
 details-notification-gmp-pending2 =
     .message = یِیہ انسٹال کرنْہ جلدی۔{ $name }
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = لاسن جانکأری
+plugins-openh264-name = کْریو اوپْن یوس فراہم کورمُت چُھ بذریعہ سیسکو سسٹم، اِنک۔ ویڈیو کوڈیکH264
