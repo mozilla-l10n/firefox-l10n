@@ -423,3 +423,11 @@ details-notification-softblocked-link = اطلاعات بیشتر
 details-notification-gmp-pending = { $name } به زودی نصب میشود.
 details-notification-gmp-pending2 =
     .message = { $name } به زودی نصب میشود.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = اطلاعات مجوز
+plugins-gmp-privacy-info = اطلاعات حریم‌خصوصی
+plugins-openh264-name = کدک ویدیویی OpenH264 ارائه شده توسط سیسکو سیستمز
+plugins-openh264-description = این افزایه به صورت خودکار توسط موزیلا نصب شده است. جهت تطابق با خصوصیات WebRTC و فعال سازی فراخوان های  WebRTC  با دستگاه ها کدک ویدیویی H.264 مورد نیاز است. http://www.openh264.org/ رابرای منبع کدک و اطلاعات بیشتر جهت پیاده سازی مشاهده کنید.
+plugins-widevine-name = ماژول رمزگشایی محتوا Widevine تهیه شده توسط گوگل
