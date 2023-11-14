@@ -485,3 +485,11 @@ details-notification-softblocked-link = Περισσότερες πληροφο�
 details-notification-gmp-pending = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
 details-notification-gmp-pending2 =
     .message = Το πρόσθετο { $name } θα εγκατασταθεί σύντομα.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Πληροφορίες άδειας
+plugins-gmp-privacy-info = Πληροφορίες απορρήτου
+plugins-openh264-name = Κωδικοποιητής βίντεο OpenH264 από την Cisco Systems, Inc.
+plugins-openh264-description = Αυτό το άρθρωμα εγκαθίσταται αυτόματα από τη Mozilla για τη συμμόρφωση με τις προδιαγραφές WebRTC και την ενεργοποίηση κλήσεων WebRTC με συσκευές που απαιτούν την κωδικοποίηση βίντεο H.264. Επισκεφθείτε το http://www.openh264.org/ για να δείτε τον πηγαίο κώδικα του κωδικοποιητή και για να μάθετε περισσότερα σχετικά με την υλοποίηση.
+plugins-widevine-name = Πρόσθετο αποκρυπτογράφησης περιεχομένου Widevine από την Google Inc.
