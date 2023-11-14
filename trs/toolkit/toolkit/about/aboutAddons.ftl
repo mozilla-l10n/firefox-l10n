@@ -404,3 +404,11 @@ details-notification-softblocked-link = Doj nuguan' a'min rayi'î nan
 details-notification-gmp-pending = { $name } Akuan' nïn nanunj riña aga' na.
 details-notification-gmp-pending2 =
     .message = { $name } Akuan' nïn nanunj riña aga' na.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Nuguan’ da’ui guini’in
+plugins-gmp-privacy-info = Nuguan hua huii
+plugins-openh264-name = Sa ni'io' OpenH264digan Cisco Systems, Inc.
+plugins-openh264-description = Sa gu'naj plugin nga gatuj ma'an gi'iaj Mozilla da' gi'iaj sunj nga WebRTC ni daj ga'ue ga'minj nga WebRTC nga nej aga' 'iaj sun nga sa ahui ni'io' H.264. Ni'iaj riña http://www.openh264.org/ da' gini'in codec, daj huaj codec ni daj 'iaj sunj.
+plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
