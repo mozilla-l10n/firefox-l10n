@@ -489,3 +489,9 @@ details-notification-softblocked-link = Več informacij
 details-notification-gmp-pending = { $name } bo kmalu nameščen.
 details-notification-gmp-pending2 =
     .message = { $name } bo kmalu nameščen.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Podatki o licenci
+plugins-openh264-name = Video kodek OpenH264 podjetja Cisco Systems, Inc.
+plugins-openh264-description = Vtičnik samodejno namesti Mozilla za ustreznost s specifikacijo WebRTC in za izvajanje klicev WebRTC na napravah, ki zahtevajo kodek H.264. Obiščite http://www.openh264.org/ za ogled izvorne kode kodeka in več informacij o implementaciji.
