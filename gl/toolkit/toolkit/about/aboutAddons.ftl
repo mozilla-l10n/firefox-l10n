@@ -488,3 +488,11 @@ details-notification-softblocked-link = Máis información
 details-notification-gmp-pending = { $name } instalarase nun momentos.
 details-notification-gmp-pending2 =
     .message = { $name } instalarase nun momentos.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Información de licenza
+plugins-gmp-privacy-info = Información de privacidade
+plugins-openh264-name = Códec de vídeo OpenH264 fornecido por Cisco Systems, Inc.
+plugins-openh264-description = Este engadido instalouse automaticamente por Mozilla para cumprir coa especificación WebRTC e para permitir chamadas WebRTC con dispositivos que requiren o códec de vídeo H.264. Visite http://www.openh264.org/ para ver o código fonte do códec e obter máis información sobre a implementación.
+plugins-widevine-name = Módulo de descifrado de contidos Widevine fornecido por Google Inc.
