@@ -18,6 +18,7 @@ migration-wizard-migrator-display-name-safari = സഫാരി
 migration-source-name-ie = ഇന്റര്‍നെറ്റ്‌ എക്സ്പ്ലോറര്‍
 migration-source-name-edge = മൈക്രോസോഫ്റ്റ്‍ എഡ്ജ്
 migration-source-name-chrome = ഗൂഗിള്‍ ക്രോം
+migration-imported-safari-reading-list = വായനയ്ക്കുള്ള പട്ടിക (സഫാരിയില്‍ നിന്നും)
 migration-imported-edge-reading-list = വായനയ്ക്കുള്ള പട്ടിക (എഡ്ജില്‍ നിന്നും)
 
 ## These strings are shown if the selected browser data directory is unreadable.
