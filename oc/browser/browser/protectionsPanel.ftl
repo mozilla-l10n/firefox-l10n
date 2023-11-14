@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Perqué ?
 protections-panel-not-blocking-why-etp-on-tooltip = Bocar aquestes elements pòt far foncionar incorrèctament qualques sites. Sens traçadors, qualques botons, formularis o camps de connexion poirián foncionar pas.
 protections-panel-not-blocking-why-etp-off-tooltip = Totes los traçadors sus aqueste site son estats cargats perque las proteccions son desactivadas.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Bocar aquestes elements pòt far foncionar incorrèctament qualques sites. Sens traçadors, qualques botons, formularis o camps de connexion poirián foncionar pas.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Totes los traçadors sus aqueste site son estats cargats perque las proteccions son desactivadas.
 
 ##
 
@@ -148,3 +152,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Anullar
 protections-panel-cookie-banner-view-turn-off = Desactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Desactivar
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Activar
