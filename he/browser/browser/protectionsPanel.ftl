@@ -57,6 +57,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = למה?
 protections-panel-not-blocking-why-etp-on-tooltip = חסימת רכיבים אלו עלולה לשבור אלמנטים באתרים מסוימים. ללא רכיבי מעקב, ייתכן שחלק מהכפתורים, הטפסים ושדות ההתחברות לא יפעלו.
 protections-panel-not-blocking-why-etp-off-tooltip = כל רכיבי המעקב באתר זה נטענו מכיוון שההגנות כבויות.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = כל רכיבי המעקב באתר זה נטענו מכיוון שההגנות כבויות.
 
 ##
 
