@@ -415,3 +415,9 @@ details-notification-softblocked-link = Karagdagang Impormasyon
 details-notification-gmp-pending = Ang { $name } ay ikakabit sa ilang sandali.
 details-notification-gmp-pending2 =
     .message = Ang { $name } ay ikakabit sa ilang sandali.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Impormasyon sa lisensya
+plugins-openh264-name = OpenH264 Video Codec ibinigay ng Cisco Systems, Inc.
+plugins-widevine-name = Module ng Nilalaman Decryption ng Widevine na ibinigay ng Google Inc.
