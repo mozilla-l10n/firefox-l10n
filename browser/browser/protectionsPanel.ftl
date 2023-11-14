@@ -49,6 +49,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = لمَ؟
 protections-panel-not-blocking-why-etp-on-tooltip = إن حجبتها فقد تعطب بعض العناصر في المواقع. قد لا تعمل بعض الأزرار والاستمارات ومربعات الولوج إن لم تكن هناك متعقّبات.
 protections-panel-not-blocking-why-etp-off-tooltip = حُمّلت كافة المتعقّبات في هذا الموقع إذ أنّ الحماية معطّلة.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = إن حجبتها فقد تعطب بعض العناصر في المواقع. قد لا تعمل بعض الأزرار والاستمارات ومربعات الولوج إن لم تكن هناك متعقّبات.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = حُمّلت كافة المتعقّبات في هذا الموقع إذ أنّ الحماية معطّلة.
 
 ##
 
