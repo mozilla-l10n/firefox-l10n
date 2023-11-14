@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Čehodla?
 protections-panel-not-blocking-why-etp-on-tooltip = Hdyž tute elementy blokujeće, snano wěste websydła hižo prawje njefunguja. Někotre tłóčatka, formulary a přizjewjenske pola njemóhli bjez přesćěhowakow prawje fungować.
 protections-panel-not-blocking-why-etp-off-tooltip = Wšě přesćěhowaki na tutym sydle su so začitali, dokelž škit je znjemóžnjeny.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Hdyž tute elementy blokujeće, snano wěste websydła hižo prawje njefunguja. Někotre tłóčatka, formulary a přizjewjenske pola njemóhli bjez přesćěhowakow prawje fungować.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Wšě přesćěhowaki na tutym sydle su so začitali, dokelž škit je znjemóžnjeny.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžńće t
 protections-panel-cookie-banner-view-cancel = Přetorhnyć
 protections-panel-cookie-banner-view-turn-off = Znjemóžnić
 protections-panel-cookie-banner-view-turn-on = Zmóžnić
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Znjemóžnić
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Zmóžnić
