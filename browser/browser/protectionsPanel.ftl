@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Pse?
 protections-panel-not-blocking-why-etp-on-tooltip = Bllokimi i këtyre mund të dëmtojë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.
 protections-panel-not-blocking-why-etp-off-tooltip = Janë ngarkuar krejt gjurmuesit në këtë sajt, ngaqë mbrojtjet janë të çaktivizuara.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Bllokimi i këtyre mund të dëmtojë funksionimin e disa elementëve në disa sajte. Pa gjurmues, disa butona, formularë dhe fusha kredencialesh hyrjeje mund të mos funksionojnë.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Janë ngarkuar krejt gjurmuesit në këtë sajt, ngaqë mbrojtjet janë të çaktivizuara.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivizojeni 
 protections-panel-cookie-banner-view-cancel = Anuloje
 protections-panel-cookie-banner-view-turn-off = Çaktivizoje
 protections-panel-cookie-banner-view-turn-on = Aktivizoje
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Çaktivizoje
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Aktivizoje
