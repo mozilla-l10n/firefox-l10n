@@ -481,3 +481,10 @@ details-notification-softblocked-link = Көбірек ақпарат
 details-notification-gmp-pending = { $name } жақында орнатылады.
 details-notification-gmp-pending2 =
     .message = { $name } жақында орнатылады.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Лицензиялық ақпарат
+plugins-gmp-privacy-info = Жекелік ақпараты
+plugins-openh264-description = Mozilla бұл плагинді WebRTC сипаттамасына сәйкес болу үшін және H.264 видео кодегін талап ететін құрылғылармен WebRTC қоңырауларын іске қосу үшін автоматты түрде орнатты. Кодектің бастапқы кодтарын қарау және іске асырылуы туралы көбірек білу үшін http://www.openh264.org/ сайтын шолыңыз.
+plugins-widevine-name = Widevine Content Decryption Module ұсынған Google Inc.
