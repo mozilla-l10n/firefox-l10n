@@ -34,6 +34,8 @@ protections-panel-not-blocking-why-etp-on-tooltip = Ga'ue gahui a'nan' huā da'�
 protections-panel-not-blocking-why-etp-off-tooltip = Gatûj daran’ chre sa naga’nāj a riña sitiô nan dadin’ huā na’àj sa dugumîn.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Ga'ue gahui a'nan' huā da'āj nej sa 'na' riña sîtio sisī naránt riña man. Huā da'āj nej butûn, formulârio nī riña gayi'ìt sesiûn si gi'iaj sun hue'ê sisī nitāj nej sa naga'nāj a hua.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Gatûj daran’ chre sa naga’nāj a riña sitiô nan dadin’ huā na’àj sa dugumîn.
 
 ##
 
