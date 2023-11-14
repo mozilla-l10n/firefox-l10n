@@ -156,3 +156,4 @@ protections-panel-cookie-banner-view-turn-off-label =
     .label = Disattiva
 protections-panel-cookie-banner-view-turn-on-label =
     .label = Attiva
+

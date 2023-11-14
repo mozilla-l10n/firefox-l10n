@@ -3,3 +3,4 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 cookie-banner-handled-webconsole = { -brand-shorter-name } ha gestito un banner per i cookie per conto dell’utente.
+
