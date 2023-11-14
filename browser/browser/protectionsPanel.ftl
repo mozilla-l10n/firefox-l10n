@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Why?
 protections-panel-not-blocking-why-etp-on-tooltip = Blocking these could break elements of some web sites. Without trackers, some buttons, forms, and login fields might not work.
 protections-panel-not-blocking-why-etp-off-tooltip = All trackers on this site have been loaded because protections are turned off.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blocking these could break elements of some web sites. Without trackers, some buttons, forms, and login fields might not work.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = All trackers on this site have been loaded because protections are turned off.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Turn on and {
 protections-panel-cookie-banner-view-cancel = Cancel
 protections-panel-cookie-banner-view-turn-off = Turn Off
 protections-panel-cookie-banner-view-turn-on = Turn On
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Turn Off
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Turn On
