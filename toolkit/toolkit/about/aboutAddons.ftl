@@ -566,6 +566,7 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Informace o licenci
 plugins-gmp-privacy-info = Informace o ochraně soukromí
 plugins-openh264-name = Video kodek OpenH264 od společnosti Cisco Systems
 plugins-openh264-description = Tento zásuvný modul je automaticky instalován, aby tato aplikace vyhověla specifikaci WebRTC a umožnila WebRTC hovory se zařízeními, která vyžadují použití video kodeku H.264. Pro zobrazení zdrojového kódu a více informací o implementaci navštivte https://www.openh264.org/.
