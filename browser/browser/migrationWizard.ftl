@@ -44,6 +44,7 @@ migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
+migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Lista de leitura (do Safari)
 migration-imported-edge-reading-list = Lista de leitura (do Edge)
 
