@@ -39,6 +39,7 @@ migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 migration-source-name-ie = Internet Explorer
+migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = lista de letue (Da Safari)
 
 ## These strings are shown if the selected browser data directory is unreadable.
