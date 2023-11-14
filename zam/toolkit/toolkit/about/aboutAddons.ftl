@@ -2,20 +2,19 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 ## Variables
 ##   $domain - Domain name where add-ons are available (e.g. addons.mozilla.org)
+
 
 ##
 
 detail-home-value =
     .value = { detail-home.label }
-
 detail-repository-value =
     .value = { detail-repository.label }
-
 addon-restart-now =
     .label = Bí~rè là kíy nál
-
 addon-category-plugin = Plugins
 addon-category-plugin-title =
     .title = Plugins
@@ -62,18 +61,25 @@ addon-install-from-file-filter-name = Ko-kùb
 ## "sites with restrictions" (internally called "quarantined") are special domains
 ## where add-ons are normally blocked for security reasons.
 
+
 ## This is the tooltip text for the recommended badges for an extension in about:addons. The
 ## badge is a small icon displayed next to an extension when it is recommended on AMO.
 
+
 ##
+
 
 ## Page headings
 
-## Detail notifications
-## Variables:
-##   $name (String): name of the add-on.
 
 ## Detail notifications
 ## Variables:
 ##   $name (string) - Name of the add-on.
 
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Cho thus kuey
+plugins-gmp-privacy-info = Ko lut ta nie
+plugins-openh264-name = OpenH264 Video Codec provided by Cisco Systems, Inc.
+plugins-openh264-description = Este plugin ha sido instalado automáticamente por Mozilla para compilarse con la especificación WebRTC y para habilitar llamadas WebRTC con dispositivos que requieren el codec de video H.264. Visita http://www.openh264.org/ para ver el codec, la fuente del codec y cómo saber más acerca de la implementación.
