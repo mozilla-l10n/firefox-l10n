@@ -44,6 +44,8 @@ migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
+migration-source-name-chrome = Google Chrome
+migration-imported-safari-reading-list = Seznam ke čtení (ze Safari)
 migration-imported-edge-reading-list = Seznam ke čtení (z Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
