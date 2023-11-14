@@ -487,3 +487,7 @@ details-notification-softblocked-link = Mear ynformaasje
 details-notification-gmp-pending = { $name } sil ynkoarten ynstallearre wurde.
 details-notification-gmp-pending2 =
     .message = { $name } sil ynkoarten ynstallearre wurde.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = OpenH264-fideocodec útjûn troch Cisco Systems, Inc.
