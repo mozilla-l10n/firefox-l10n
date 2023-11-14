@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Почему?
 protections-panel-not-blocking-why-etp-on-tooltip = Блокировка может привести к неработоспособности элементов некоторых веб-сайтов. Без трекеров некоторые кнопки, формы и поля для входа могут не работать.
 protections-panel-not-blocking-why-etp-off-tooltip = Все трекеры на этом сайте были загружены, потому что защита отключена.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Блокировка может привести к неработоспособности элементов некоторых веб-сайтов. Без трекеров некоторые кнопки, формы и поля для входа могут не работать.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Все трекеры на этом сайте были загружены, потому что защита отключена.
 
 ##
 
