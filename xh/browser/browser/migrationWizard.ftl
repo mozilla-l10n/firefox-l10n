@@ -15,8 +15,10 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
+migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = I-Google Chrome
 migration-imported-safari-reading-list = Uludwe lokufunda (ukusuka kwiSafari)
+migration-imported-edge-reading-list = Uludwe Lokufunda (ukusuka Ekupheleni)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
