@@ -17,7 +17,9 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = ઈન્ટરનેટ એક્સપ્લોરર
 migration-wizard-migrator-display-name-safari = Safari
+migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
+migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = યાદીને વાંચી રહ્યા છે (સફારી માંથી)
 migration-imported-edge-reading-list = વાંચનની સૂચિ (Edge પરથી)
 
