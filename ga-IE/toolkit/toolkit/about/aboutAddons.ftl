@@ -218,3 +218,7 @@ details-notification-softblocked-link = Tuilleadh Eolais
 details-notification-gmp-pending = Suiteálfar { $name } ar ball beag.
 details-notification-gmp-pending2 =
     .message = Suiteálfar { $name } ar ball beag.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Codec Físe OpenH264 le caoinchead Cisco Systems, Inc.
