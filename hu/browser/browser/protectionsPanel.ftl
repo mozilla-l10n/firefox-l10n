@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Miért?
 protections-panel-not-blocking-why-etp-on-tooltip = Ezek blokkolása egyes webhelyek elemeinek hibáit okozhatja. A nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.
 protections-panel-not-blocking-why-etp-off-tooltip = A webhely összes nyomkövetője be lett töltve, mert a védelem ki van kapcsolva.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Ezek blokkolása egyes webhelyek elemeinek hibáit okozhatja. A nyomkövetők nélkül egyes gombok, űrlapok és bejelentkezési mezők lehet, hogy nem fognak működni.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = A webhely összes nyomkövetője be lett töltve, mert a védelem ki van kapcsolva.
 
 ##
 
