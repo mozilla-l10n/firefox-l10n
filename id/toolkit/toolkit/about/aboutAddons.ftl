@@ -457,3 +457,7 @@ details-notification-softblocked-link = Informasi Lebih Lanjut
 details-notification-gmp-pending = { $name } akan diinstal sebentar lagi.
 details-notification-gmp-pending2 =
     .message = { $name } akan diinstal sebentar lagi.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-widevine-description = Plugin ini memungkinkan pemutaran media terenkripsi sesuai dengan spesifikasi Encrypted Media Extensions. Media terenkripsi biasanya digunakan oleh situs untuk perlindungan terhadap penyalinan konten media premium. Kunjungi https://www.w3.org/TR/encrypted-media/ untuk informasi lebih lanjut tentang Encrypted Media Extensions.
