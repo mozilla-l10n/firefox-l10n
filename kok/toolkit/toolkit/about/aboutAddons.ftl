@@ -188,3 +188,7 @@ details-notification-softblocked = { $name } क लागून सुरक्
 details-notification-softblocked2 =
     .message = { $name } क लागून सुरक्षा वो स्थैर्याचे प्रस्न उप्रासतले.
 details-notification-softblocked-link = अदिक माहिती
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = सिस्को व्यवस्था, Inc. न पुरयल्लो OpenH264 व्हिडिओ Codec
