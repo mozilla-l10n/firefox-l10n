@@ -22,6 +22,7 @@ migration-wizard-migrator-display-name-safari = Safari
 migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
+migration-imported-edge-reading-list = చదవాల్సిన జాబితా (ఎడ్జ్ నుండి)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
