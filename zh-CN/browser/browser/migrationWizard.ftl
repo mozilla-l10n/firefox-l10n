@@ -42,8 +42,10 @@ migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari 浏览器
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
+migration-source-name-ie = Internet Explorer（IE 浏览器）
 migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
+migration-imported-safari-reading-list = 阅读列表（来自 Safari 浏览器）
 migration-imported-edge-reading-list = 阅读列表（来自 Edge）
 
 ## These strings are shown if the selected browser data directory is unreadable.
