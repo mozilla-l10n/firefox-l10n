@@ -485,3 +485,9 @@ details-notification-softblocked-link = ودھیک معلومات
 details-notification-gmp-pending = { $name } ستت انسٹال کر ݙتا ویسے۔
 details-notification-gmp-pending2 =
     .message = { $name } ستت انسٹال کر ݙتا ویسے۔
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = لائسنس ڄاݨکاری
+plugins-gmp-privacy-info = رازداری ڄاݨکاری
+plugins-openh264-description = ایہ پلگ ان Mozilla دے ذریعہ WebRTC تفصیلاں دی تعمیل کرݨ تے WebRTC کالز کوں انہاں آلات دے نال فعال کرݨ کیتے آپݨے آپ انسٹال کیتا ویندا ہے جنہاں کیتے H.264 ویڈیو کوڈیک دی لوڑ ہوندی ہے۔ کوڈیک سورس کوڈ ݙیکھݨ تے عمل درآمد دے بارے ودھیک ڄاݨݨ کیتے https://www.openh264.org/ ملاحظہ کرو۔
