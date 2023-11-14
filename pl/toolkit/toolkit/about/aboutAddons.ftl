@@ -490,5 +490,7 @@ details-notification-gmp-pending2 =
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Informacje o licencji
+plugins-gmp-privacy-info = Informacje o prywatności
 plugins-openh264-name = OpenH264 Video Codec dostarczony przez Cisco Systems, Inc.
+plugins-widevine-name = Widevine Content Decryption Module dostarczony przez Google Inc.
 plugins-widevine-description = Wtyczka umożliwiająca odtwarzanie szyfrowanych treści zgodnych ze specyfikacją „Encrypted Media Extensions”. Szyfrowane treści są zazwyczaj używane przez strony, aby zabezpieczyć je przed kopiowaniem. Więcej informacji o „Encrypted Media Extensions” można znaleźć pod adresem https://www.w3.org/TR/encrypted-media/
