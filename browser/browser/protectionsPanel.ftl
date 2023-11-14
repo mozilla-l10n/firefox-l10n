@@ -57,6 +57,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Zakaj?
 protections-panel-not-blocking-why-etp-on-tooltip = Zavračanje te vsebine lahko povzroči nedelovanje nekaterih delov spletnih strani. Brez sledilcev nekateri gumbi, obrazci in polja za prijavo morda ne bodo delovali.
 protections-panel-not-blocking-why-etp-off-tooltip = Naloženi so vsi sledilci na strani, ker so zaščite izklopljene.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Naloženi so vsi sledilci na strani, ker so zaščite izklopljene.
 
 ##
 
