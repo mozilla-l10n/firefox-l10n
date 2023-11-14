@@ -479,3 +479,7 @@ details-notification-softblocked-link = Més informació
 details-notification-gmp-pending = «{ $name }» s'instal·larà aviat.
 details-notification-gmp-pending2 =
     .message = «{ $name }» s'instal·larà aviat.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Còdec de vídeo OpenH264 proporcionat per Cisco Systems, Inc.
