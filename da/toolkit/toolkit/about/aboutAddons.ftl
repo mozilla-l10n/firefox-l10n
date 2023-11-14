@@ -495,3 +495,6 @@ details-notification-gmp-pending2 =
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Licensinformation
+plugins-gmp-privacy-info = Privatlivsinformation
+plugins-widevine-name = Widevine Content Decryption Module provided by Google Inc.
+plugins-widevine-description = Dette plugin gør det muligt at afspille krypterede mediefiler i overensstemmelse med Encrypted Media Extensions specification. Websteder anvender typisk krypterede mediefiler for at undgå kopiering af betalt medie-indhold. Læs mere om Encrypted Media Extensions på https://www.w3.org/TR/encrypted-media/
