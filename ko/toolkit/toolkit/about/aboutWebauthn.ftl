@@ -41,9 +41,15 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = 오류: 잘못된 PIN을 너무 많이 입력했기 때문에 남은 시도 횟수가 없으며 기기가 잠겼습니다. 기기를 재설정해야 합니다.
 about-webauthn-results-pin-too-short-error = 오류: PIN이 너무 짧습니다.
 about-webauthn-results-pin-too-long-error = 오류: PIN이 너무 깁니다.
+about-webauthn-results-pin-auth-blocked-error = 오류: 연속된 시도 실패 횟수가 너무 많아 PIN 인증이 일시적으로 차단되었습니다. 기기의 전원을 껐다가 다시 켜야 합니다 (플러그를 뽑았다가 다시 삽입).
+about-webauthn-results-cancelled-by-user-error = 오류: 사용자가 작업을 취소했습니다.
 
 ## Labels
 
+about-webauthn-new-pin-label = 새 PIN:
+about-webauthn-repeat-pin-label = 새 PIN 반복:
+about-webauthn-current-pin-label = 현재 PIN:
+about-webauthn-pin-required-label = PIN을 입력하세요:
 
 ## Buttons
 
