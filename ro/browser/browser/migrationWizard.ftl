@@ -4,7 +4,6 @@
 
 migration-wizard-selection-header = Importă date dintr-un browser
 migration-wizard-selection-list = Selectează datele pe care dorești să le imporți.
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
 # user profiles, and so we only show the browser name.
@@ -12,7 +11,6 @@ migration-wizard-selection-list = Selectează datele pe care dorești să le imp
 # Variables:
 #  $sourceBrowser (String): the name of the browser to import from.
 migration-wizard-selection-option-without-profile = { $sourceBrowser }
-
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # and user profile to import from. This variant is shown when the selected browser
 # supports user profiles.
@@ -43,6 +41,12 @@ migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
+migration-source-name-edge = Microsoft Edge
+
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -52,17 +56,13 @@ migration-selected-data-label = Importă datele selectate
 ##
 
 migration-bookmarks-option-label = Marcaje
-
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = Favorite
-
 migration-logins-and-passwords-option-label = Date de autentificare și parole salvate
 migration-history-option-label = Istoric de navigare
 migration-form-autofill-option-label = Date de completare automată a formularelor
-
 migration-passwords-from-file-progress-header = Importă fișier cu parole
-
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -77,7 +77,6 @@ migration-passwords-from-file-tsv-filter-title =
         [macos] Document TSV
        *[other] Fișier TSV
     }
-
 migration-import-button-label = Importă
 migration-choose-to-import-from-file-button-label = Importă din fișier
 migration-import-from-file-button-label = Selectează un fișier
@@ -92,7 +91,6 @@ migration-continue-button-label = Continuă
 ## For example, a possible list could be "Bookmarks, passwords and autofill data".
 
 migration-list-bookmark-label = marcaje
-
 # “favorites” refers to bookmarks in Edge and Internet Explorer. Use the same terminology
 # if the browser is available in your language.
 migration-list-favorites-label = favorite
@@ -108,14 +106,11 @@ migration-wizard-progress-icon-in-progress =
     .aria-label = Se importă…
 migration-wizard-progress-icon-completed =
     .aria-label = Încheiat
-
 migration-safari-password-import-header = Importă parole din Safari
 migration-safari-password-import-step3 = Salvează fișierul cu parole
 migration-safari-password-import-step4 = Folosește „Selectează un fișier” de mai jos pentru a alege fișierul cu parole pe care l-ai salvat
 migration-safari-password-import-skip-button = Omite
 migration-safari-password-import-select-button = Selectează un fișier
-
-
 # Shown in the migration wizard after importing bookmarks from another
 # browser has completed.
 #
@@ -127,7 +122,6 @@ migration-wizard-progress-success-bookmarks =
         [few] { $quantity } marcaje
        *[other] { $quantity } de marcaje
     }
-
 # Shown in the migration wizard after importing bookmarks from either
 # Internet Explorer or Edge.
 #
@@ -146,6 +140,7 @@ migration-wizard-progress-success-favorites =
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
 
+
 ##
 
 # Shown in the migration wizard after importing passwords from another
@@ -159,7 +154,6 @@ migration-wizard-progress-success-passwords =
         [few] { $quantity } parole
        *[other] { $quantity } de parole
     }
-
 # Shown in the migration wizard after importing history from another
 # browser has completed.
 #
@@ -171,9 +165,7 @@ migration-wizard-progress-success-history =
         [few] Din ultimele { $maxAgeInDays } zile
        *[other] Din ultimele { $maxAgeInDays } de zile
     }
-
 migration-wizard-progress-success-formdata = Istoric al formularelor
-
 migration-wizard-safari-permissions-sub-header = Pentru a importa marcaje și istoric de navigare din Safari:
 migration-wizard-safari-instructions-continue = Selectează „Continuă”
 migration-wizard-safari-instructions-folder = Selectează dosarul Safari din listă și alege „Deschide”
