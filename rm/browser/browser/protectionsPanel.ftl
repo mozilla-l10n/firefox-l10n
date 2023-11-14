@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Pertge?
 protections-panel-not-blocking-why-etp-on-tooltip = La bloccada da quests elements pudess avair per consequenza che tschertas parts da websites na funcziunan betg endretg. Senza fastizaders na funcziunan tscherts buttuns, formulars e champs d'annunzia eventualmain betg.
 protections-panel-not-blocking-why-etp-off-tooltip = Chargià tut ils fastizaders sin questa site perquai che las protecziuns èn deactivadas.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = La bloccada da quests elements pudess avair per consequenza che tschertas parts da websites na funcziunan betg endretg. Senza fastizaders na funcziunan tscherts buttuns, formulars e champs d'annunzia eventualmain betg.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Chargià tut ils fastizaders sin questa site perquai che las protecziuns èn deactivadas.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Activescha la
 protections-panel-cookie-banner-view-cancel = Interrumper
 protections-panel-cookie-banner-view-turn-off = Deactivar
 protections-panel-cookie-banner-view-turn-on = Activar
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Deactivar
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Activar
