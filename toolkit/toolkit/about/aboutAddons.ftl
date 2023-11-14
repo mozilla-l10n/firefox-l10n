@@ -303,3 +303,9 @@ details-notification-softblocked-link = మరింత సమాచారం
 details-notification-gmp-pending = { $name } త్వరలో స్థాపించబడుతుంది.
 details-notification-gmp-pending2 =
     .message = { $name } త్వరలో స్థాపించబడుతుంది.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = లైసెన్స్ సమాచారం
+plugins-gmp-privacy-info = గోప్యత సమాచారం
+plugins-openh264-name = Cisco systems, Inc. అందిస్తున్న OpenH264 వీడియో కోడెక్
