@@ -493,4 +493,7 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Звесткі пра ліцэнзію
+plugins-gmp-privacy-info = Звесткі аб прыватнасці
+plugins-openh264-name = OpenH264 відэакодэк ад Cisco Systems, Inc.
 plugins-widevine-name = Плагін расшыфроўкі кантэнту Widevine ад Google Inc.
