@@ -481,3 +481,11 @@ details-notification-softblocked-link = Dalše informacije
 details-notification-gmp-pending = { $name } budźe so bórze instalować.
 details-notification-gmp-pending2 =
     .message = { $name } budźe so bórze instalować.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Licencne informacije
+plugins-gmp-privacy-info = Informacije priwatnosće
+plugins-openh264-name = OpenH264 Video Codec wot Cisco Systems, Inc.
+plugins-openh264-description = Tutón tykač so wot Mozilla awtomatisce instaluje, zo by specifikaciji WebRTC wotpowědował a wołanja WebRTC z gratami zmóžnił, kotrež sej widejocodec H.264 wužaduja. Wopytajće http://www.openh264.org/, zo byšće sej codecowy žórłowy kod wobhladał a wjace wo implementaciji zhonił.
+plugins-widevine-name = Modul Widevine za dekodowanje wobsaha wot Google Inc.
