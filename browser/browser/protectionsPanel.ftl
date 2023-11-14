@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Neden?
 protections-panel-not-blocking-why-etp-on-tooltip = Bunları engellemek bazı web sitelerini kısmen bozabilir. Takip kodları engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.
 protections-panel-not-blocking-why-etp-off-tooltip = Korumalar kapalı olduğu için bu sitedeki tüm takip kodları yüklendi.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Bunları engellemek bazı web sitelerini kısmen bozabilir. Takip kodları engellendiğinde bazı düğmeler, formlar ve giriş alanları çalışmayabilir.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Korumalar kapalı olduğu için bu sitedeki tüm takip kodları yüklendi.
 
 ##
 
