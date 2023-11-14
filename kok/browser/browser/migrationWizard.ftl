@@ -11,6 +11,14 @@ migration-wizard-migrator-display-name-chrome = क्रोम
 migration-wizard-migrator-display-name-firefox = फायरफॉक्स
 migration-wizard-migrator-display-name-ie = माक्रोसॉफ्ट इन्टरनेट एक्सप्लोर
 migration-wizard-migrator-display-name-safari = सफारी
+migration-source-name-ie = इंटरनेट एक्सप्लोरर
+migration-source-name-chrome = गुगल क्रोम
+migration-imported-safari-reading-list = वळेरी वाचता (सफारीतल्यान)
+
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -31,6 +39,7 @@ migration-wizard-migrator-display-name-safari = सफारी
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
+
 
 ##
 
