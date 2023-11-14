@@ -475,3 +475,11 @@ details-notification-softblocked-link = Ugar n telɣut
 details-notification-gmp-pending = { $name } ad iţwasebded si sya ɣer da.
 details-notification-gmp-pending2 =
     .message = { $name } ad iţwasebded si sya ɣer da.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Talɣut ɣef turagt
+plugins-gmp-privacy-info = Talɣut tusligt
+plugins-openh264-name = OpenH264 Video Codec imudd-it-id Cisco Systems, Inc
+plugins-openh264-description = Azegrir-agi isbedd-it Mozilla s wudem awurman s uqadaṛ n ilugan WebRTC akken daɣen ad isireg isawalen WebRTC akked ibenkan isran akudic tamwalit H.264. Ddu ɣer  http://www.openh264.org/ iwakken ad twaliḍ tangalt aɣbalu n ukudik udiɣ ad tissineḍ ugar ɣef usebded ines.
+plugins-widevine-name = Azgrir n uzmek n ugbur Widevine imudd-it-id Google Inc.
