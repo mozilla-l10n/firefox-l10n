@@ -49,6 +49,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Hvorfor?
 protections-panel-not-blocking-why-etp-on-tooltip = Blokkering av disse kan føre til feil med elementer på noen nettsteder. Uten sporere fungerer kanskje ikke noen knapper, skjemaer og innloggingsfelt.
 protections-panel-not-blocking-why-etp-off-tooltip = Alle sporere på dette nettstedet er lastet fordi sporingsbeskyttelsen er slått av.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blokkering av disse kan føre til feil med elementer på noen nettsteder. Uten sporere fungerer kanskje ikke noen knapper, skjemaer og innloggingsfelt.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Alle sporere på dette nettstedet er lastet fordi sporingsbeskyttelsen er slått av.
 
 ##
 
@@ -136,3 +140,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Slå av
 protections-panel-cookie-banner-view-turn-on = Slå på
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Slå av
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Slå på
