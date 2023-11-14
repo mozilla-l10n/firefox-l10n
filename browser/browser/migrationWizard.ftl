@@ -11,6 +11,7 @@ migration-wizard-migrator-display-name-chrome = I-Chrome
 migration-wizard-migrator-display-name-firefox = I-Firefox
 migration-wizard-migrator-display-name-ie = IMicrosoft Internet Explorer
 migration-wizard-migrator-display-name-safari = I-Safari
+migration-source-name-ie = I-Internet Explorer
 migration-source-name-chrome = I-Google Chrome
 migration-imported-safari-reading-list = Uhlu lokufunda (kusukela ku-Safari)
 
