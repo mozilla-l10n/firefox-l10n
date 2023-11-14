@@ -236,3 +236,11 @@ details-notification-softblocked-link = আরও তথ্য
 details-notification-gmp-pending = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
 details-notification-gmp-pending2 =
     .message = { $name } খুব শ্রীঘ্রই ইন্সটল করা হবে।
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = লাইসেন্স সংক্রান্ত তথ্য
+plugins-gmp-privacy-info = গোপনীয়তা তথ্য
+plugins-openh264-name = Cisco Systems, Inc. দ্বারা উপলব্ধ OpenH264 ভিডিও কোডেক
+plugins-openh264-description = এই প্লাগিনটি স্বয়ংক্রিয়ভাবেই Mozilla এর মাধ্যমে ইন্সটল করা হয়েছে WebRTC স্পেসিফিকেশনের সাথে পাল্লা দেওয়ার জন্য এবং WebRTC কল সক্রিয় করার জন্য। কারন WebRTC তে H.264 ভিডিও কোডেক দরকার হয়। http://www.openh264.org/ ভিজিট করুন কোডেকের সোর্স কোড দেখার জন্য এবং ইমপ্লিমেন্টেশন সম্পর্কে আরও জানার জন্য।
+plugins-widevine-name = Google inc প্রদত্ত Widevine Content Decryption মডিউল
