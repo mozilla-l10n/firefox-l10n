@@ -465,3 +465,10 @@ details-notification-softblocked-link = مزيد من المعلومات
 details-notification-gmp-pending = سينصّب { $name } حالًا.
 details-notification-gmp-pending2 =
     .message = سينصّب { $name } حالًا.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = معلومات الترخيص
+plugins-gmp-privacy-info = معلومات الخصوصية
+plugins-openh264-name = مرماز الڤديو OpenH264 من سيسكو سيستمز المحدودة.
+plugins-widevine-name = وحدة Widevine لتعمية المحتوى من جوجل.
