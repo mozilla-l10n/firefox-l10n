@@ -57,6 +57,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Чому?
 protections-panel-not-blocking-why-etp-on-tooltip = Блокування їх може пошкодити елементи деяких вебсайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.
 protections-panel-not-blocking-why-etp-off-tooltip = Всі елементи стеження на цьому сайті були завантажені, тому що захист вимкнено.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Блокування їх може пошкодити елементи деяких вебсайтів. Деякі кнопки, поля заповнення форм і входів можуть не працювати без стеження.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
     .label = Всі елементи стеження на цьому сайті були завантажені, тому що захист вимкнено.
 
