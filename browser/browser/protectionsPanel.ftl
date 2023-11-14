@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Ative e o { -
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desligar
 protections-panel-cookie-banner-view-turn-on = Ligar
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Desligar
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ligar
