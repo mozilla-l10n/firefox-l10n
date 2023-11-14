@@ -487,3 +487,9 @@ details-notification-softblocked-link = Mais informação
 details-notification-gmp-pending = { $name } será instalado dentro de momentos.
 details-notification-gmp-pending2 =
     .message = { $name } será instalado dentro de momentos.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = Informação de privacidade
+plugins-openh264-name = Codec de vídeo OpenH264 disponibilizado por Cisco Systems, Inc.
+plugins-widevine-name = Módulo Widevine Content Decryption disponibilizado por Google Inc.
