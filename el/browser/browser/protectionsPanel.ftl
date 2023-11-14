@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Γιατί;
 protections-panel-not-blocking-why-etp-on-tooltip = Ο αποκλεισμός αυτών μπορεί να προκαλέσει τη δυσλειτουργία ορισμένων στοιχείων σε κάποιους ιστοτόπους. Χωρίς τους ιχνηλάτες, μερικά κουμπιά, φόρμες και πεδία σύνδεσης ενδέχεται να μη λειτουργούν.
 protections-panel-not-blocking-why-etp-off-tooltip = Έχουν φορτωθεί όλοι οι ιχνηλάτες του ιστοτόπου επειδή η προστασία είναι ανενεργή.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Ο αποκλεισμός αυτών μπορεί να προκαλέσει τη δυσλειτουργία ορισμένων στοιχείων σε κάποιους ιστοτόπους. Χωρίς τους ιχνηλάτες, μερικά κουμπιά, φόρμες και πεδία σύνδεσης ενδέχεται να μη λειτουργούν.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Έχουν φορτωθεί όλοι οι ιχνηλάτες του ιστοτόπου επειδή η προστασία είναι ανενεργή.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Ενεργο�
 protections-panel-cookie-banner-view-cancel = Ακύρωση
 protections-panel-cookie-banner-view-turn-off = Απενεργοποίηση
 protections-panel-cookie-banner-view-turn-on = Ενεργοποίηση
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Απενεργοποίηση
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ενεργοποίηση
