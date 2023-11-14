@@ -20,8 +20,10 @@ migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = ميكروسوفت إنترنت إكسبلورر
 migration-wizard-migrator-display-name-safari = سافاري
 migration-source-name-ie = إنترنت إكسبلورر
+migration-source-name-edge = ميكروسوفت إدج
 migration-source-name-chrome = جوجل كروم
 migration-imported-safari-reading-list = قائمة القراءة (من سفاري)
+migration-imported-edge-reading-list = قائمة القراءة (من إدج)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
