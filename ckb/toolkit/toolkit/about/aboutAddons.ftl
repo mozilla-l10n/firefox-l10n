@@ -360,3 +360,8 @@ details-notification-softblocked-link = زانیاری زیاتر
 details-notification-gmp-pending = { $name } بەزووی دادەمەزرێت.
 details-notification-gmp-pending2 =
     .message = { $name } بەزووی دادەمەزرێت.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = زانیارییەکانی ڕێگەپێدان
+plugins-gmp-privacy-info = زانیارییەکانی تایبەتمەندی
