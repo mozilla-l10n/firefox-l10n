@@ -42,6 +42,11 @@ migration-wizard-migrator-display-name-opera = اوپیرا
 migration-wizard-migrator-display-name-opera-gx = اوپرا جی ایکس
 migration-wizard-migrator-display-name-safari = سفاری
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
+migration-source-name-ie = انٹرنیٹ ایکسپلورر
+migration-source-name-edge = مائیکروسافٹ ایج
+migration-source-name-chrome = گوگل کروم
+migration-imported-safari-reading-list = فہرست پڑھدا پیا ہے (سفاری کنوں)
+migration-imported-edge-reading-list = فہرست پڑھدا پیا ہے (ایج کنوں)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
