@@ -447,3 +447,10 @@ details-notification-softblocked-link = Աւելի շատ տեղեկութիւն
 details-notification-gmp-pending = { $name }-ը շուտով կը տեղադրուի:
 details-notification-gmp-pending2 =
     .message = { $name }-ը շուտով կը տեղադրուի:
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Արտոնագրի մասին
+plugins-gmp-privacy-info = Գաղտնիութեան տեղեկութիւն
+plugins-openh264-name = OpenH264 Video Codec, որը մատակարարում է Cisco Systems, Inc.-ը։
+plugins-openh264-description = Այս ներդիրն ինքնաբար տեղադրուած է Mozilla-ի կողմից, որպէսզի  համապատասխանի WebRTC բնութագրին եւ միացնի WebRTC կանչերն այն սարքերի հետ, որոն որոնք պահանջում են H.264 տեսանիւթի կոդեկ։ Այցելէք https://www.openh264.org/ կայք կոդեկի բնագիրը դիտելու համար։
