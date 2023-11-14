@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Hvorfor?
 protections-panel-not-blocking-why-etp-on-tooltip = Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-mekanismer virker nogle knapper, formularer og login-felter måske ikke.
 protections-panel-not-blocking-why-etp-off-tooltip = Alle sporings-mekanismer på dette websted er blevet indlæst, fordi beskyttelse er slået fra.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Ved at blokere disse virker elementer på visse websteder måske ikke. Uden sporings-mekanismer virker nogle knapper, formularer og login-felter måske ikke.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Alle sporings-mekanismer på dette websted er blevet indlæst, fordi beskyttelse er slået fra.
 
 ##
 
