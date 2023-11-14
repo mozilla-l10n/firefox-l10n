@@ -41,6 +41,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = کیوں؟
 protections-panel-not-blocking-why-etp-on-tooltip = انہاں کوں روکݨ نال کجھ ویب سائٹاں دے عناصر ترٹ سڳدے ہن۔ ٹریکرز دے بغیر، کجھ بٹن، فارم، تے لاگ ان فیلڈز کم نہیں کر سڳدے۔
 protections-panel-not-blocking-why-etp-off-tooltip = ایں سائٹ تے تمام ٹریکرز کوں لوڈ کر ݙتا ڳیا ہے کیوں جو تحفظات بند ہن۔
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = انہاں کوں روکݨ نال کجھ ویب سائٹاں دے عناصر ترٹ سڳدے ہن۔ ٹریکرز دے بغیر، کجھ بٹن، فارم، تے لاگ ان فیلڈز کم نہیں کر سڳدے۔
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = ایں سائٹ تے تمام ٹریکرز کوں لوڈ کر ݙتا ڳیا ہے کیوں جو تحفظات بند ہن۔
 
 ##
 
