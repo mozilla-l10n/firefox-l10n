@@ -419,3 +419,10 @@ details-notification-softblocked-link = Àteras informatziones
 details-notification-gmp-pending = { $name } at a èssere installadu de immoe a pagu.
 details-notification-gmp-pending2 =
     .message = { $name } at a èssere installadu de immoe a pagu.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Informatziones de sa lissèntzia
+plugins-gmp-privacy-info = Informatziones de sa riservadesa
+plugins-openh264-name = Codificadore vìdeu OpenH264 frunidu dae Cisco Systems, Inc.
+plugins-widevine-name = Mòdulu de detzifratzione de cuntenutu Widevine frunidu dae Google Inc.
