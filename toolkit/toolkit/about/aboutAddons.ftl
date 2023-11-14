@@ -218,3 +218,7 @@ details-notification-softblocked-link = Vairāk informācijas
 details-notification-gmp-pending = { $name } pēc mirkļa tiks instalēts.
 details-notification-gmp-pending2 =
     .message = { $name } pēc mirkļa tiks instalēts.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
