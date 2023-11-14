@@ -137,3 +137,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = ยกเลิก
 protections-panel-cookie-banner-view-turn-off = ปิด
 protections-panel-cookie-banner-view-turn-on = เปิด
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = ปิด
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = เปิด
