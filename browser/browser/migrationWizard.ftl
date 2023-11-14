@@ -21,6 +21,8 @@ migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = اینترنت اکسپلورر مایکروسافت
 migration-wizard-migrator-display-name-safari = سافاری
 migration-source-name-ie = اینترنت اکسپلورر
+migration-source-name-edge = مایکروسافت Edge
+migration-imported-edge-reading-list = لیست مطالعه (از Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
