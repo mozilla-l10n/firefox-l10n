@@ -34,6 +34,16 @@ migration-wizard-migrator-display-name-edge-legacy = Microsoft Edge Legacy
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
+migration-source-name-ie = इंटरनेट एक्सप्लोरर‌
+migration-source-name-edge = माइक्रोसॉफ्ट एज़
+migration-source-name-chrome = गूगल‌ क्रोम
+migration-imported-safari-reading-list = पठन सूची (सफारी‌ से)
+migration-imported-edge-reading-list = पठन सूची (किनारे से)‌
+
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
 
 ## These strings will be displayed based on how many resources are selected to import
 
