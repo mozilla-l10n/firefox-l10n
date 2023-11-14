@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Ŝaltu, kaj {
 protections-panel-cookie-banner-view-cancel = Nuligi
 protections-panel-cookie-banner-view-turn-off = Malŝalti
 protections-panel-cookie-banner-view-turn-on = Ŝalti
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Malŝalti
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ŝalti
