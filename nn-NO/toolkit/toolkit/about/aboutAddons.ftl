@@ -490,5 +490,7 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-privacy-info = Personverninformasjon
 plugins-openh264-name = OpenH264 video-kodek er levert av Cisco Systems, Inc.
 plugins-openh264-description = Dette programtillegget er automatisk installert av Mozilla for å følgja WebRTC-spesifikasjonar og for å tillate WebRTC-kall med einingar som brukar videokodeken H.264. Gå til http://www.openh264.org/ for å skjå kjeldekoden og lesa meir om implementeringa.
+plugins-widevine-name = Widevine Content Decryption Module levert av Google Inc.
