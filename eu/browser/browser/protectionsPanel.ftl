@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Zergatik?
 protections-panel-not-blocking-why-etp-on-tooltip = Hauek blokeatuz gero, zenbait webgunetako elementuak apur litezke. Jarraipen-elementurik gabe, baliteke zenbait botoi, inprimaki eta saio-hasiera eremu ez ibiltzea.
 protections-panel-not-blocking-why-etp-off-tooltip = Babesa desgaituta dagoenez, gune honetako jarraipen-elementu guztiak kargatu dira.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Hauek blokeatuz gero, zenbait webgunetako elementuak apur litezke. Jarraipen-elementurik gabe, baliteke zenbait botoi, inprimaki eta saio-hasiera eremu ez ibiltzea.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Babesa desgaituta dagoenez, gune honetako jarraipen-elementu guztiak kargatu dira.
 
 ##
 
@@ -148,3 +152,7 @@ protections-panel-cookie-banner-view-turn-on-description = Cookie eskaerak autom
 protections-panel-cookie-banner-view-cancel = Utzi
 protections-panel-cookie-banner-view-turn-off = Desaktibatu
 protections-panel-cookie-banner-view-turn-on = Aktibatu
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Desaktibatu
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Aktibatu
