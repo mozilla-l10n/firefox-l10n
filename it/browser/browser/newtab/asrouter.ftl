@@ -281,3 +281,4 @@ launch-on-login-infobar-final-message = <strong>Vuoi aprire { -brand-short-name 
 launch-on-login-infobar-final-reject-button = No grazie
   .accesskey = N
 
+

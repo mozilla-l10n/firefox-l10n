@@ -123,3 +123,4 @@ choose-other-app-window-title = Altra applicazione…
 
 # Displayed under the name of a protocol handler in the Launch Application dialog.
 choose-dialog-privatebrowsing-disabled = Disattiva in finestre anonime
+
