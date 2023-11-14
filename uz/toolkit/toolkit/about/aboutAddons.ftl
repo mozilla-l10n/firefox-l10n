@@ -246,3 +246,11 @@ details-notification-softblocked-link = Koʻproq ma`lumot
 details-notification-gmp-pending = { $name } tezda o‘rnatiladi.
 details-notification-gmp-pending2 =
     .message = { $name } tezda o‘rnatiladi.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = litsenziya ma’lumoti
+plugins-gmp-privacy-info = Maxfiylik haqida ma’lumot
+plugins-openh264-name = OpenH264 video kodek Cisco Systems, Inc. tomonidan keltirilgan
+plugins-openh264-description = Bu plagin WebRTC ko‘rsatmalari bilan ishlashi va H.264 video kodekni talab qiladigan qurilmalarda WebRTC qo‘ng‘rioqlarini yoqib qo‘yish uchun Mozilla tomonidan o‘rnatildi. Kodek manba kodini ko‘rish va ishlatish bo‘icha batafsil ma’lumot olish uchun http://www.openh264.org/ saytiga tashrif buyuring.
+plugins-widevine-name = Google Inc tomonidan keltirilgan Widevine Content Decryption Module.
