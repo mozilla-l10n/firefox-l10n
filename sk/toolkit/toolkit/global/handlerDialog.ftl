@@ -18,6 +18,8 @@ permission-dialog-description-app = Chcete povoliť tomuto súboru otvoriť odka
 permission-dialog-description-host-app = Chcete povoliť stránke { $host } otvoriť odkaz { $scheme } pomocou aplikácie { $appName }?
 permission-dialog-description-file-app = Chcete povoliť tomuto súboru otvoriť odkaz { $scheme } pomocou aplikácie { $appName }?
 permission-dialog-description-extension-app = Povoliť rozšíreniu { $extension } otvoriť odkaz { $scheme } pomocou aplikácie { $appName }?
+permission-dialog-description-system-app = Otvoriť odkaz { $scheme } pomocou aplikácie { $appName }?
+permission-dialog-description-system-noapp = Chcete otvoriť odkaz { $scheme }?
 
 ## Please keep the emphasis around the hostname and scheme (ie the
 ## `<strong>` HTML tags). Please also keep the hostname as close to the start
