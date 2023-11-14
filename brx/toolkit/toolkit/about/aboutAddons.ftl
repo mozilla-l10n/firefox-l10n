@@ -259,3 +259,7 @@ details-notification-softblocked = { $name } खौ रैखाथि एबा
 details-notification-softblocked2 =
     .message = { $name } खौ रैखाथि एबा दिदोमथि जेंनानि थाखाय मोनथिजायो।
 details-notification-softblocked-link = गोबां फोरमायथिहोग्रा
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = चिसक' सिस्टेम्स, Inc जों होजानाय OpenH264 भिडिअ' Codec
