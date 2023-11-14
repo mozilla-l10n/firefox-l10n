@@ -42,17 +42,51 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = Gabim: S’ka më prova dhe pajisja juaj është kyçur, ngaqë u dha PIN i gabuar disa herë. Kjo pajisje lyp ujdisje nga e para.
 about-webauthn-results-pin-too-short-error = Gabim: PIN-i i dhënë është shumë i shkurtër.
 about-webauthn-results-pin-too-long-error = Gabim: PIN-i i dhënë është shumë i gjatë.
+about-webauthn-results-pin-auth-blocked-error = Gabim: Pati shumë prova të dështuara njëra pas tjetrës dhe mirëfilltësimi me PIN është bllokuar përkohësisht. Kjo pajisje lyp një ciklim energjie (hiqeni nga priza dhe rifuteni në prizë).
+about-webauthn-results-cancelled-by-user-error = Gabim: Veprimi është anuluar nga përdoruesi.
 
 ## Labels
 
+about-webauthn-new-pin-label = PIN i ri:
+about-webauthn-repeat-pin-label = Përsëriteni PIN-in e ri:
+about-webauthn-current-pin-label = PIN-i i tanishëm:
+about-webauthn-pin-required-label = Ju lutemi, jepni PIN-in tuaj:
+about-webauthn-credential-list-subsection-title = Kredenciale:
+about-webauthn-credential-list-empty = S’u gjetën kredenciale te pajisja.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = Caktoni PIN-in
+about-webauthn-current-change-pin-button = Ndryshoni PIN-in
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Shfaq kredenciale
+about-webauthn-cancel-button = Anuloje
+about-webauthn-send-pin-button = OK
+about-webauthn-delete-button = Fshije
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Verifikim përdoruesi
+about-webauthn-auth-option-up = Prani përdoruesi
+about-webauthn-auth-option-clientpin = PIN Klienti
+about-webauthn-auth-option-authnrcfg = Formësim mirëfilltësuesi
+about-webauthn-auth-option-uvacfg = Leje formësimi mirëfilltësuesi
+about-webauthn-auth-option-credmgmt = Administrim kredencialesh
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = E pambuluar
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-min-pin-length = Gjatësi minimum PIN-i
+about-webauthn-auth-info-force-pin-change = Detyro ndryshim PIN-i
+about-webauthn-auth-info-algorithms = Algoritme
+about-webauthn-auth-info-transports = Transporte
+about-webauthn-auth-info-pin-protocols = Protokolle PIN-i
+about-webauthn-auth-info-max-msg-size = Madhësi maksimum mesazhesh
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Zgjerime
+about-webauthn-auth-info-versions = Versione
+about-webauthn-auth-info-null = E pambuluar
