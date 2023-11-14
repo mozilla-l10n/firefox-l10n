@@ -147,6 +147,27 @@ firefoxview-opentabs-focus-tab =
     .title = Переключаться на эту вкладку
 firefoxview-show-more = Показать больше
 firefoxview-show-less = Показать меньше
+firefoxview-search-text-box-clear-button =
+    .title = Очистить
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = История поиска
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Результаты поиска по запросу «{ $query }»
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } сайт
+        [few] { $count } сайта
+       *[many] { $count } сайтов
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Нет результатов по запросу «{ $query }»
 firefoxview-sort-history-by-date-label = Сортировать по дате
 firefoxview-sort-history-by-site-label = Сортировать по сайтам
 # Variables:
@@ -206,9 +227,6 @@ firefoxview-import-history-description = Сделайте { -brand-short-name } 
 firefoxview-recentlyclosed-empty-header = Слишком рано закрыли вкладку?
 firefoxview-recentlyclosed-empty-description = Здесь вы найдете вкладки, которые вы недавно закрыли, и любую из них можно быстро снова открыть.
 firefoxview-recentlyclosed-empty-description-two = Чтобы найти более ранние вкладки, просмотрите <a data-l10n-name="history-url">историю посещённых страниц</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
