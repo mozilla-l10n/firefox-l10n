@@ -21,6 +21,7 @@ migration-wizard-migrator-display-name-ie = মাইক্রোসফট ই�
 migration-wizard-migrator-display-name-safari = সাফারি
 migration-source-name-ie = ইন্টারনেট এক্সপ্লোরার
 migration-source-name-edge = মাইক্রোসফট এজ
+migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = তালিকা পড়া হচ্ছে (সাফারি হতে)
 migration-imported-edge-reading-list = তালিকা পড়া হচ্ছে (Edge হতে)
 
