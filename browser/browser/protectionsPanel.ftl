@@ -49,6 +49,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = ทำไม?
 protections-panel-not-blocking-why-etp-on-tooltip = การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน
 protections-panel-not-blocking-why-etp-off-tooltip = ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = การปิดกั้นคุณลักษณะเหล่านี้อาจทำให้องค์ประกอบของบางเว็บไซต์เสียหายได้ หากไม่มีตัวติดตาม ปุ่ม แบบฟอร์ม และฟิลด์การเข้าสู่ระบบบางส่วนอาจไม่ทำงาน
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = ตัวติดตามทั้งหมดในไซต์นี้ถูกโหลดเนื่องจากการป้องกันถูกปิด
 
 ##
 
