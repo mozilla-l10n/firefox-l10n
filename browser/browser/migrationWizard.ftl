@@ -22,6 +22,8 @@ migration-wizard-migrator-display-name-ie = اینترنت اکسپلورر ما
 migration-wizard-migrator-display-name-safari = سافاری
 migration-source-name-ie = اینترنت اکسپلورر
 migration-source-name-edge = مایکروسافت Edge
+migration-source-name-chrome = گوگل کروم
+migration-imported-safari-reading-list = لیست خواندن (از اپل سفری)
 migration-imported-edge-reading-list = لیست مطالعه (از Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
