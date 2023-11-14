@@ -59,6 +59,8 @@ protections-panel-not-blocking-why-etp-on-tooltip = 이것들을 차단하면 �
 protections-panel-not-blocking-why-etp-off-tooltip = 보호 기능이 꺼져 있어 이 사이트의 모든 추적기가 로드되었습니다.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = 이것들을 차단하면 일부 웹 사이트의 요소가 손상될 수 있습니다. 추적기가 없으면 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = 보호 기능이 꺼져 있어 이 사이트의 모든 추적기가 로드되었습니다.
 
 ##
 
