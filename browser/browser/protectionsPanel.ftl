@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Kial?
 protections-panel-not-blocking-why-etp-on-tooltip = Blokado de tiuj ĉi elementoj povas misfunkciigi kelkajn retejojn. Sen spuriloj, kelkaj butonoj, formularoj, kaj legitimilaj kampoj, povus ne funkcii.
 protections-panel-not-blocking-why-etp-off-tooltip = Ĉiuj spuriloj en tiu ĉi retejo estis ŝargitaj ĉar protektoj estas malaktivaj.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blokado de tiuj ĉi elementoj povas misfunkciigi kelkajn retejojn. Sen spuriloj, kelkaj butonoj, formularoj, kaj legitimilaj kampoj, povus ne funkcii.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Ĉiuj spuriloj en tiu ĉi retejo estis ŝargitaj ĉar protektoj estas malaktivaj.
 
 ##
 
