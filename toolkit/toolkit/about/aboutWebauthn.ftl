@@ -75,7 +75,7 @@ about-webauthn-auth-option-plat = 플랫폼 기기
 about-webauthn-auth-option-pinuvauthtoken = 명령 권한 (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = 클라이언트 PIN에 대한 MakeCredential / GetAssertion 권한이 없습니다.
-about-webauthn-auth-option-largeblobs = 큰 blob
+about-webauthn-auth-option-largeblobs = 대형 Blob
 about-webauthn-auth-option-ep = 기업 증명
 about-webauthn-auth-option-bioenroll = 생체 인식 등록
 # FIDO_2_1_PRE should not be translated.
@@ -104,3 +104,10 @@ about-webauthn-auth-info-remaining-discoverable-credentials = 검색 가능한 �
 about-webauthn-auth-info-certifications = 인증
 about-webauthn-auth-info-uv-modality = 사용자 확인 형식
 about-webauthn-auth-info-preferred-platform-uv-attempts = 선호하는 플랫폼 사용자 확인 시도
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = 설정된 최소 PIN 길이에 대한 최대 신뢰 당사자 ID
+about-webauthn-auth-info-max-cred-blob-length = 최대 자격 증명 Blob 길이
+about-webauthn-auth-info-firmware-version = 펌웨어 버전
+about-webauthn-auth-info-min-pin-length = 최소 PIN 길이
+about-webauthn-auth-info-force-pin-change = 강제 PIN 변경
+about-webauthn-auth-info-max-ser-large-blob-array = 대형 Blob 배열의 최대 크기
+about-webauthn-auth-info-algorithms = 알고리즘
