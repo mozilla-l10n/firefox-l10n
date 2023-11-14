@@ -112,3 +112,7 @@ protections-panel-content-blocking-breakage-report-view-send-report =
 
 protections-panel-cookie-banner-view-turn-off = Անջատել
 protections-panel-cookie-banner-view-turn-on = Միացնել
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Անջատել
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Միացնել
