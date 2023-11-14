@@ -19,6 +19,7 @@ migration-wizard-migrator-display-name-ie = ಮೈಕ್ರೋಸಾಫ್ಟ್
 migration-wizard-migrator-display-name-safari = ಸಫಾರಿ
 migration-source-name-ie = ಇಂಟರ್ನೆಟ್ ಎಕ್ಸ್‍ಪ್ಲೋರರ್
 migration-source-name-edge = ಮೈಕ್ರೋಸಾಫ್ಟ್ ಎಜ್
+migration-source-name-chrome = ಗೂಗಲ್ ಕ್ರೋಮ್
 migration-imported-safari-reading-list = ಓದುವ ಪಟ್ಟಿ (ಸಫಾರಿಯಿಂದ)
 migration-imported-edge-reading-list = ಓದುವ ಪಟ್ಟಿ (ಎಜ್‌ನಿಂದ)
 
