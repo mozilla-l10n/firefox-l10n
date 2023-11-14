@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Aktivieren un
 protections-panel-cookie-banner-view-cancel = Abbrechen
 protections-panel-cookie-banner-view-turn-off = Deaktivieren
 protections-panel-cookie-banner-view-turn-on = Aktivieren
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Deaktivieren
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Aktivieren
