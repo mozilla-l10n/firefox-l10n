@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Motivo
 protections-panel-not-blocking-why-etp-on-tooltip = Bloquear isso pode interferir em elementos de alguns sites. Se bloquear esses rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip = Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Bloquear isso pode interferir em elementos de alguns sites. Se bloquear esses rastreadores, alguns botões, formulários e campos de acesso a contas podem não funcionar.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Ative e o { -
 protections-panel-cookie-banner-view-cancel = Cancelar
 protections-panel-cookie-banner-view-turn-off = Desativar
 protections-panel-cookie-banner-view-turn-on = Ativar
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Desativar
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ativar
