@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Чаму?
 protections-panel-not-blocking-why-etp-on-tooltip = Блакаванне іх можа парушыць часткі некаторых вэб-сайтаў. Без трэкераў некаторыя кнопкі, формы і палі для ўваходу могуць не працаваць.
 protections-panel-not-blocking-why-etp-off-tooltip = Усе трэкеры на гэтым сайце загружаныя, таму што ахова адключана.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Блакаванне іх можа парушыць часткі некаторых вэб-сайтаў. Без трэкераў некаторыя кнопкі, формы і палі для ўваходу могуць не працаваць.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Усе трэкеры на гэтым сайце загружаныя, таму што ахова адключана.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Уключы�
 protections-panel-cookie-banner-view-cancel = Скасаваць
 protections-panel-cookie-banner-view-turn-off = Выключыць
 protections-panel-cookie-banner-view-turn-on = Уключыць
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Выключыць
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Уключыць
