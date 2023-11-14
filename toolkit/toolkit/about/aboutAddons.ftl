@@ -435,3 +435,7 @@ details-notification-softblocked-link = වැඩිදුර තොරතුර
 details-notification-gmp-pending = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
 details-notification-gmp-pending2 =
     .message = { $name } මොහොතකින් ස්ථාපනය වනු ඇත.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = බලපත්‍ර තොරතුරු
