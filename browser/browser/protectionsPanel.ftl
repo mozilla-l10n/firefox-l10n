@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Açtığını
 protections-panel-cookie-banner-view-cancel = Vazgeç
 protections-panel-cookie-banner-view-turn-off = Kapat
 protections-panel-cookie-banner-view-turn-on = Aç
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Kapat
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Aç
