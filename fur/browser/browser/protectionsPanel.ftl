@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Parcè?
 protections-panel-not-blocking-why-etp-on-tooltip = Il bloc di chescj elements al podarès causâ il parziâl malfunzionament di cualchi sît web. Cence elements che ti spiin, i “trackers”, cualchi boton, formulari e cjamp pes credenziâls a podaressin no funzionâ.
 protections-panel-not-blocking-why-etp-off-tooltip = A son stadis cjariadis dutis lis spiis su chest sît, par vie che lis protezions a son disativadis.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Il bloc di chescj elements al podarès causâ il parziâl malfunzionament di cualchi sît web. Cence elements che ti spiin, i “trackers”, cualchi boton, formulari e cjamp pes credenziâls a podaressin no funzionâ.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = A son stadis cjariadis dutis lis spiis su chest sît, par vie che lis protezions a son disativadis.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Ativilu e { -
 protections-panel-cookie-banner-view-cancel = Anule
 protections-panel-cookie-banner-view-turn-off = Disative
 protections-panel-cookie-banner-view-turn-on = Ative
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Disative
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ative
