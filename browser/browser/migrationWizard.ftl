@@ -19,6 +19,7 @@ migration-wizard-migrator-display-name-edge-legacy = ميكروسوفت إدج �
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = ميكروسوفت إنترنت إكسبلورر
 migration-wizard-migrator-display-name-safari = سافاري
+migration-source-name-ie = إنترنت إكسبلورر
 migration-source-name-chrome = جوجل كروم
 migration-imported-safari-reading-list = قائمة القراءة (من سفاري)
 
