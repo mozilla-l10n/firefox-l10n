@@ -489,3 +489,7 @@ details-notification-softblocked-link = Ďalšie informácie
 details-notification-gmp-pending = Doplnok { $name } bude čoskoro nainštalovaný.
 details-notification-gmp-pending2 =
     .message = Doplnok { $name } bude čoskoro nainštalovaný.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-widevine-name = Modul na dekódovanie obsahu Widevine od Google Inc.
