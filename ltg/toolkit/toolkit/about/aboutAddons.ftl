@@ -218,3 +218,9 @@ details-notification-softblocked-link = Vairuok informacejis
 details-notification-gmp-pending = { $name } will be installed shortly.
 details-notification-gmp-pending2 =
     .message = { $name } will be installed shortly.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Licences informaceja
+plugins-gmp-privacy-info = Privatuma informaceja
+plugins-widevine-name = Google Inc pīduovuotais Widevine Content Decryption Module
