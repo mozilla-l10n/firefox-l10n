@@ -15,6 +15,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
+migration-source-name-ie = Internet Explorer
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Список за читање (од Safari)
 
