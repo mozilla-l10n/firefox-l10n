@@ -18,8 +18,10 @@ migration-wizard-migrator-display-name-firefox = பயர்பாக்ஸ்(
 migration-wizard-migrator-display-name-ie = மைக்ரோசாப்ட் இன்டர்நெட் எக்ஸ்ப்லோரர்
 migration-wizard-migrator-display-name-safari = சபாரி
 migration-source-name-ie = இன்டர்நெட் எக்ஸ்ப்ளோரர்
+migration-source-name-edge = மைக்ரொசொப்ட் எட்ஜ்
 migration-source-name-chrome = கூகுள் கொறோம்
 migration-imported-safari-reading-list = (சபாரியில் இருந்து ) பட்டியல் படிக்கப்படுகிறது
+migration-imported-edge-reading-list = (எட்ஜ்லிருந்து) பட்டியல் படிக்கப்படுகிறது
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
