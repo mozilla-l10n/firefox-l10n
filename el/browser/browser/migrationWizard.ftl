@@ -42,6 +42,8 @@ migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
+migration-imported-safari-reading-list = Λίστα ανάγνωσης (Από Safari)
+migration-imported-edge-reading-list = Λίστα ανάγνωσης (Από Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
