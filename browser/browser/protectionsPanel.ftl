@@ -136,3 +136,7 @@ protections-panel-cookie-banner-view-turn-on-description = يحاول { -brand-s
 protections-panel-cookie-banner-view-cancel = ألغِ
 protections-panel-cookie-banner-view-turn-off = عطّل
 protections-panel-cookie-banner-view-turn-on = فعّل
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = عطّل
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = فعّل
