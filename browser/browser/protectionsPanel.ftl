@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Kapcsolja be,
 protections-panel-cookie-banner-view-cancel = Mégse
 protections-panel-cookie-banner-view-turn-off = Kikapcsolás
 protections-panel-cookie-banner-view-turn-on = Bekapcsolás
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Kikapcsolás
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Bekapcsolás
