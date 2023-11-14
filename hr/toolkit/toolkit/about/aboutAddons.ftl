@@ -450,3 +450,7 @@ details-notification-softblocked-link = Više informacija
 details-notification-gmp-pending = { $name } će ubrzo biti instaliran.
 details-notification-gmp-pending2 =
     .message = { $name } će ubrzo biti instaliran.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-description = Ovaj priključak je automatski instalirala Mozilla da bi se zadovoljili uvjeti WebRTC specifikacije i omogućili WebRTC pozivi s uređajima koji zahtijevaju H.264 video kodek. Posjeti http://www.openh264.org/ za prikaz izvornog koda kodeka i za daljnje informacije o implementaciji.
