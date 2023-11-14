@@ -487,3 +487,8 @@ details-notification-softblocked-link = ვრცლად
 details-notification-gmp-pending = { $name } მალე ჩაიდგმება.
 details-notification-gmp-pending2 =
     .message = { $name } მალე ჩაიდგმება.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = პირადი მონაცემების დაცვის დებულება
+plugins-widevine-name = Widevine შიგთავსის გამშიფრავი მოდული. მომწოდებელი: Google Inc.
