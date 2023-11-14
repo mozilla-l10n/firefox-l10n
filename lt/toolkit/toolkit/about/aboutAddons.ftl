@@ -460,3 +460,7 @@ details-notification-softblocked-link = Plačiau
 details-notification-gmp-pending = „{ $name }“ bus netrukus įdiegtas.
 details-notification-gmp-pending2 =
     .message = „{ $name }“ bus netrukus įdiegtas.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = „OpenH264“ vaizdo kodekas, sukurtas „Cisco Systems, Inc.“
