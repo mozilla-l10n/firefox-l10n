@@ -49,6 +49,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Pro ite?
 protections-panel-not-blocking-why-etp-on-tooltip = Si ddos blocas, unos elementos de unos cantos sitos podent non funtzionare. Chene sighidores, unos cantos butones, formulàrios e campos de atzessu podent non funtzionare.
 protections-panel-not-blocking-why-etp-off-tooltip = Totu is sighiduras de custu situ sunt istadas carrigadas, ca is protetziones sunt disativadas.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Si ddos blocas, unos elementos de unos cantos sitos podent non funtzionare. Chene sighidores, unos cantos butones, formulàrios e campos de atzessu podent non funtzionare.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Totu is sighiduras de custu situ sunt istadas carrigadas, ca is protetziones sunt disativadas.
 
 ##
 
@@ -133,3 +137,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Annulla
 protections-panel-cookie-banner-view-turn-off = Disativa
 protections-panel-cookie-banner-view-turn-on = Ativa
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Disativa
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Ativa
