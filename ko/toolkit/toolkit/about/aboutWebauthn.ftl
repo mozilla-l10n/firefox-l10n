@@ -69,7 +69,14 @@ about-webauthn-delete-button = 삭제
 about-webauthn-auth-option-uv = 사용자 확인
 about-webauthn-auth-option-up = 사용자 존재
 about-webauthn-auth-option-clientpin = 클라이언트 PIN
+about-webauthn-auth-option-rk = 상주 키
 about-webauthn-auth-option-plat = 플랫폼 기기
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = 명령 권한 (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = 클라이언트 PIN에 대한 MakeCredential / GetAssertion 권한이 없습니다.
+about-webauthn-auth-option-largeblobs = 큰 blob
+about-webauthn-auth-option-ep = 기업 증명
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
