@@ -471,3 +471,10 @@ details-notification-softblocked-link = 更多資訊
 details-notification-gmp-pending = 即將安裝 { $name }。
 details-notification-gmp-pending2 =
     .message = 即將安裝 { $name }。
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = 授權資訊
+plugins-gmp-privacy-info = 隱私權資訊
+plugins-openh264-description = 此外掛程式是由 Mozilla 自動安裝，以符合 WebRTC 規範，並讓您能夠與需要使用 H.264 視訊解碼器的裝置溝通。您可至 http://www.openh264.org/ 取得解碼器的原始碼，並了解此實作的相關資訊。
+plugins-widevine-name = Google Inc. 提供的 Widevine 內容解碼模組
