@@ -46,6 +46,7 @@ migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Bralni seznam (iz Safarija)
+migration-imported-edge-reading-list = Bralni seznam (iz Edgea)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
