@@ -457,3 +457,7 @@ details-notification-softblocked-link = Више информација
 details-notification-gmp-pending = { $name } ће ускоро бити инсталиран.
 details-notification-gmp-pending2 =
     .message = { $name } ће ускоро бити инсталиран.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = Информације о приватности
