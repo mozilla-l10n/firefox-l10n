@@ -490,3 +490,7 @@ details-notification-softblocked-link = Падрабязней
 details-notification-gmp-pending = { $name } будзе хутка усталявана.
 details-notification-gmp-pending2 =
     .message = { $name } будзе хутка усталявана.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-widevine-name = Плагін расшыфроўкі кантэнту Widevine ад Google Inc.
