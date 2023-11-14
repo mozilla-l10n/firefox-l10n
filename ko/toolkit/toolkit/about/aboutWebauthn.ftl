@@ -77,6 +77,24 @@ about-webauthn-auth-option-pinuvauthtoken = 명령 권한 (pinUvAuthToken)
 about-webauthn-auth-option-nomcgapermissionswithclientpin = 클라이언트 PIN에 대한 MakeCredential / GetAssertion 권한이 없습니다.
 about-webauthn-auth-option-largeblobs = 큰 blob
 about-webauthn-auth-option-ep = 기업 증명
+about-webauthn-auth-option-bioenroll = 생체 인식 등록
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = 생체 인식 등록 프로토타입 (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = 생체 인식 등록 권한
+about-webauthn-auth-option-authnrcfg = 인증자 구성
+about-webauthn-auth-option-uvacfg = 인증자 구성 권한
+about-webauthn-auth-option-credmgmt = 자격 증명 관리
+about-webauthn-auth-option-credentialmgmtpreview = 자격 증명 관리 프로토타입
+about-webauthn-auth-option-setminpinlength = 최소 PIN 길이 설정
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = 사용자 확인 없는 MakeCredential
+about-webauthn-auth-option-alwaysuv = 항상 사용자 확인 필요
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = 지원되지 않음
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
