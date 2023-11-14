@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Pam?
 protections-panel-not-blocking-why-etp-on-tooltip = Gallai rhwystro'r rhain dorri elfennau o rai gwefannau. Heb dracwyr, efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.
 protections-panel-not-blocking-why-etp-off-tooltip = Mae'r holl dracwyr ar y wefan hon wedi'u llwytho gan fod diogelu wedi'i ddiffodd.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Gallai rhwystro'r rhain dorri elfennau o rai gwefannau. Heb dracwyr, efallai na fydd rhai botymau, ffurflenni a meysydd mewngofnodi'n gweithio.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Mae'r holl dracwyr ar y wefan hon wedi'u llwytho gan fod diogelu wedi'i ddiffodd.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Ei droi ymlae
 protections-panel-cookie-banner-view-cancel = Diddymu
 protections-panel-cookie-banner-view-turn-off = Diffodd
 protections-panel-cookie-banner-view-turn-on = Troi Ymlaen
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Diffodd
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Troi Ymlaen
