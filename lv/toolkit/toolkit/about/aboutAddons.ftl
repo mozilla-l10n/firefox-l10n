@@ -221,4 +221,8 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Licences informācija
+plugins-gmp-privacy-info = Privātuma informācija
 plugins-openh264-name = OpenH264 video kodeks, ko piedāvā Cisco Systems, Inc.
+plugins-openh264-description = Šo spraudni automātiski instalē Mozilla, lai nodrošinātu savietojamību ar WebRTC specifikāciju un ļautu realizēt WebRTC zvanus starp ierīcēm, kam nepieciešams H.264 video kodeks. Apmeklējiet http://www.openh264.org/, lai iepazītos ar pirmkodu un uzzinātu vairāk par realizāciju.
+plugins-widevine-name = Google Inc piedāvātais Widevine Content Decryption Module
