@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Pourquoi ?
 protections-panel-not-blocking-why-etp-on-tooltip = Bloquer ces éléments peut entraîner un dysfonctionnement partiel de certains sites web. Sans les traqueurs, certains boutons, formulaires ou champs de connexion peuvent ne pas fonctionner correctement.
 protections-panel-not-blocking-why-etp-off-tooltip = Tous les traqueurs sur ce site ont été chargés car les protections sont désactivées.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Bloquer ces éléments peut entraîner un dysfonctionnement partiel de certains sites web. Sans les traqueurs, certains boutons, formulaires ou champs de connexion peuvent ne pas fonctionner correctement.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Tous les traqueurs sur ce site ont été chargés car les protections sont désactivées.
 
 ##
 
