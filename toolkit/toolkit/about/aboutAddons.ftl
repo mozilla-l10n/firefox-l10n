@@ -487,3 +487,8 @@ details-notification-softblocked-link = Mais informações
 details-notification-gmp-pending = { $name } será instalado em instantes.
 details-notification-gmp-pending2 =
     .message = { $name } será instalado em instantes.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-widevine-name = Módulo de descriptografia de conteúdo Widevine fornecido pela Google Inc.
+plugins-widevine-description = Este plugin ativa a reprodução de mídia criptografada, em conformidade com a especificação Encrypted Media Extensions. Mídia criptografada é usada tipicamente por sites para se proteger contra cópia de conteúdo de mídia premium. Visite https://www.w3.org/TR/encrypted-media/ para mais informações sobre Encrypted Media Extensions.
