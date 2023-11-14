@@ -43,6 +43,8 @@ protections-panel-not-blocking-why-etp-on-tooltip = Skuli zaszperowanio tych ely
 protections-panel-not-blocking-why-etp-off-tooltip = Wszyskie śledzōnce elymynta na tyj strōnie sōm zaladowane, bo ôchrōna ôd śledzynio je wyłōnczōno.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Skuli zaszperowanio tych elymyntōw niykere strōny mogōm niy fungować dobrze. Bez śledzōncych elymyntōw niykere knefle, formulary i pola na logowanie mogōm niy fungować.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Wszyskie śledzōnce elymynta na tyj strōnie sōm zaladowane, bo ôchrōna ôd śledzynio je wyłōnczōno.
 
 ##
 
