@@ -43,6 +43,8 @@ protections-panel-not-blocking-why-etp-on-tooltip = Blokiranjem ovih elemenata m
 protections-panel-not-blocking-why-etp-off-tooltip = Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.
 protections-panel-not-blocking-why-etp-on-tooltip-label =
     .label = Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.
 
 ##
 
