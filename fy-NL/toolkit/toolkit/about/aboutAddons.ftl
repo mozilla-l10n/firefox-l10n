@@ -490,6 +490,7 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-license-info = Lisinsjeynformaasje
 plugins-openh264-name = OpenH264-fideocodec útjûn troch Cisco Systems, Inc.
 plugins-openh264-description = Dizze ynstekker wurdt automatysk troch Mozilla ynstallearre om oan de WebRTC-spesifikaasje te foldwaan en WebRTC-petearen mei apparaten dy’t de H.264-fideocodec fereaskje mooglik te meitsjen. Besykje http://www.openh264.org/ foar de boarnekoade fan de codec en mear ynfo oer de ymplemintaasje.
 plugins-widevine-description = Dizze ynstekker soarget foar it ôfspyljen fan fersifere media mei achtslaan fan de Encrypted Media Extensions-spesifikaasje. Fersifere media wurde trochgeans troch websites brûkt ta beskerming tsjin it kopiearjen fan premium-media-ynhâld. Besykje https://www.w3.org/TR/encrypted-media/ foar mear ynformaasje oer Encrypted Media Extensions.
