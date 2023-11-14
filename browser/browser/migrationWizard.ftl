@@ -44,6 +44,8 @@ migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
 migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
+migration-imported-safari-reading-list = Lista Czytelnia (z Safari)
+migration-imported-edge-reading-list = Do przeczytania (z Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
