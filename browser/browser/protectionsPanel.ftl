@@ -41,6 +41,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Зашто?
 protections-panel-not-blocking-why-etp-on-tooltip = Блокирање ових елемената за праћење може да наруши приказ појединих сајтова. Без њих нека дугмад, обрасци и поља за пријаву можда неће радити.
 protections-panel-not-blocking-why-etp-off-tooltip = Сви програми за праћење на овој веб страници су учитани јер је заштита приватности искључена.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Блокирање ових елемената за праћење може да наруши приказ појединих сајтова. Без њих нека дугмад, обрасци и поља за пријаву можда неће радити.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
     .label = Сви програми за праћење на овој веб страници су учитани јер је заштита приватности искључена.
 
