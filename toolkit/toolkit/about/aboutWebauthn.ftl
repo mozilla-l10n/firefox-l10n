@@ -111,3 +111,16 @@ about-webauthn-auth-info-min-pin-length = 최소 PIN 길이
 about-webauthn-auth-info-force-pin-change = 강제 PIN 변경
 about-webauthn-auth-info-max-ser-large-blob-array = 대형 Blob 배열의 최대 크기
 about-webauthn-auth-info-algorithms = 알고리즘
+about-webauthn-auth-info-max-credential-id-length = 최대 자격 증명 ID 길이
+about-webauthn-auth-info-max-credential-count-in-list = 목록의 최대 자격 증명 수
+about-webauthn-auth-info-pin-protocols = PIN 프로토콜
+about-webauthn-auth-info-max-msg-size = 최대 메시지 크기
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = 확장 기능
+about-webauthn-auth-info-versions = 버전
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = 지원되지 않음
