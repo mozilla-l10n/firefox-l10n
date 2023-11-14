@@ -23,6 +23,12 @@ protections-panel-etp-more-info =
     .aria-label = Više informacija o poboljšanoj zaštiti od praćenja
 protections-panel-etp-on-header = Pojačana zaštita od praćenja je UKLJUČENA za ovu stranicu
 protections-panel-etp-off-header = Pojačana zaštita od praćenja je ISKLJUČENA za ovu stranicu
+
+## Text for the toggles shown when ETP is enabled/disabled for a given site.
+## .description is transferred into a separate paragraph by the moz-toggle
+## custom element code.
+##   $host (String): the hostname of the site that is being displayed.
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Stranica ne radi?
 # The heading/title of the sub-panel view
@@ -35,6 +41,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Zašto?
 protections-panel-not-blocking-why-etp-on-tooltip = Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.
 protections-panel-not-blocking-why-etp-off-tooltip = Svi pratitelji na ovoj stranici su učitani iz razloga što su zaštite isključene.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blokiranjem ovih elemenata mogu se pokvariti elementi nekih web stranica. Bez programa za praćenje, neki gumbi, obrasci i polja za prijavu možda neće funkcionirati.
 
 ##
 
