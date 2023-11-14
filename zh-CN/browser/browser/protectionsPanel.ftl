@@ -57,6 +57,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = 为什么？
 protections-panel-not-blocking-why-etp-on-tooltip = 拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录栏可能无法正常工作。
 protections-panel-not-blocking-why-etp-off-tooltip = 隐私保护处于关闭状态，已加载此网站的所有跟踪器。
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = 拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录栏可能无法正常工作。
 
 ##
 
