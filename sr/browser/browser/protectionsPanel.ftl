@@ -135,3 +135,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Откажи
 protections-panel-cookie-banner-view-turn-off = Искључи
 protections-panel-cookie-banner-view-turn-on = Укључи
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Искључи
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Укључи
