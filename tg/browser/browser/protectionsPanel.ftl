@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Чаро?
 protections-panel-not-blocking-why-etp-on-tooltip = Амали манъкунӣ метавонад унсурҳои баъзе сомонаҳоро вайрон кунад. Бе васоити пайгирӣ баъзе тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд кор накунанд.
 protections-panel-not-blocking-why-etp-off-tooltip = Ҳамаи васоити пайгирӣ дар ин сомона бор карда шудаанд, зеро ки муҳофизат ғайрифаъол аст.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Амали манъкунӣ метавонад унсурҳои баъзе сомонаҳоро вайрон кунад. Бе васоити пайгирӣ баъзе тугмаҳо, шаклҳо ва майдонҳои воридшавӣ метавонанд кор накунанд.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Ҳамаи васоити пайгирӣ дар ин сомона бор карда шудаанд, зеро ки муҳофизат ғайрифаъол аст.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Фаъол с
 protections-panel-cookie-banner-view-cancel = Бекор кардан
 protections-panel-cookie-banner-view-turn-off = Хомӯш кардан
 protections-panel-cookie-banner-view-turn-on = Фаъол кардан
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Хомӯш кардан
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Фаъол кардан
