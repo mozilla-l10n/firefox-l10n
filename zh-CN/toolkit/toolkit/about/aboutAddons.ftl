@@ -473,3 +473,7 @@ details-notification-softblocked-link = 了解详情
 details-notification-gmp-pending = { $name } 即将安装。
 details-notification-gmp-pending2 =
     .message = { $name } 即将安装。
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = 许可协议信息
