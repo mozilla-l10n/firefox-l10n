@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = ¿Mba’ére?
 protections-panel-not-blocking-why-etp-on-tooltip = Ko’ãva jejoko ikatu ombyai mba’eporu ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.
 protections-panel-not-blocking-why-etp-off-tooltip = Opaite tepykuehoha ko tenda pegua oñemyanyhẽ ñemo’ãha ojepe’aite rupi.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Ko’ãva jejoko ikatu ombyai mba’eporu ñanduti renda pegua. Jehapykuehoha’ỹre heta votõ, myanyhẽha ha tembiapo ñepyrũ rekoha ikatu ndoikói.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Opaite tepykuehoha ko tenda pegua oñemyanyhẽ ñemo’ãha ojepe’aite rupi.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Emyandývo { 
 protections-panel-cookie-banner-view-cancel = Heja
 protections-panel-cookie-banner-view-turn-off = Mbogue
 protections-panel-cookie-banner-view-turn-on = Myandy
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Mbogue
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Myandy
