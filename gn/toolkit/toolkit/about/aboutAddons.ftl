@@ -477,3 +477,7 @@ details-notification-softblocked-link = Maranduve
 details-notification-gmp-pending = { $name } oñemohendáta sapy’aitépe.
 details-notification-gmp-pending2 =
     .message = { $name } oñemohendáta sapy’aitépe.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = Marandu ñemigua
