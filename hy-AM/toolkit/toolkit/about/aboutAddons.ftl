@@ -432,3 +432,10 @@ details-notification-softblocked-link = Ավելի շատ տեղեկությու
 details-notification-gmp-pending = { $name }-ը շուտով կտեղադրվի:
 details-notification-gmp-pending2 =
     .message = { $name }-ը շուտով կտեղադրվի:
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Արտոնագրի մասին
+plugins-gmp-privacy-info = Գաղտնիության տեղեկություն
+plugins-openh264-name = OpenH264 Video Codec, որը մատակարարում է Cisco Systems, Inc.-ը
+plugins-widevine-name = Widevine Content Decryption Module՝ Google Inc.-ի կողմից
