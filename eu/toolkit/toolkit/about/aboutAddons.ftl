@@ -473,3 +473,7 @@ details-notification-softblocked-link = Informazio gehiago
 details-notification-gmp-pending = { $name } laster instalatuko da.
 details-notification-gmp-pending2 =
     .message = { $name } laster instalatuko da.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = OpenH264 bideo kodeka, Cisco Systems, Inc.-ek hornitua
