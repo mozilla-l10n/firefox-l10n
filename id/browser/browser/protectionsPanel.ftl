@@ -128,3 +128,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Batal
 protections-panel-cookie-banner-view-turn-off = Nonaktifkan
 protections-panel-cookie-banner-view-turn-on = Aktifkan
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Nonaktifkan
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Aktifkan
