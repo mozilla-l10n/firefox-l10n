@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Hidh poshtë banderola për cookie-t
     .accesskey = H
 cfr-cbh-dismiss-button = Jo tani
     .accesskey = J
+cookie-banner-blocker-cfr-header = { -brand-short-name } sapo bllokoi “cookies” për ju
+cookie-banner-blocker-cfr-body = Hedhim poshtë automatikisht mjaft flluska cookie-sh, për t’ua bërë të zorshme sajteve t’ju ndjekin.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
