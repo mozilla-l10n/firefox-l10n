@@ -188,3 +188,11 @@ details-notification-softblocked = { $name } liñu ko xame mooy indi ay tolof to
 details-notification-softblocked2 =
     .message = { $name } liñu ko xame mooy indi ay tolof tolofi kaarange ak yanq.
 details-notification-softblocked-link = Xibaar yu gën bari
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Xibaari sañal gi
+plugins-gmp-privacy-info = Xibaari sutura
+plugins-openh264-name = Codec bu wideo OpenH264 Cisco Systems, Inc. moo ko joxe.
+plugins-openh264-description = Gii lawal Mozilla moo ko sampal boppam ngir sàmmanteek àtte yu WebRTC ak ngir man a doxal woote yu WebRTC ci jumtukaay yi yittewoo Codec Wideo bu H.264. Xoolal http://www.openh264.org/ ngir ami xibaar ci nees defaree Codec bi.
+plugins-widevine-name = Google Inc. moo joxe tekkikaayu ëmbéefu Widevine.
