@@ -483,3 +483,10 @@ details-notification-softblocked-link = Mer information
 details-notification-gmp-pending = { $name } kommer att installeras inom kort.
 details-notification-gmp-pending2 =
     .message = { $name } kommer att installeras inom kort.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Licensinformation
+plugins-gmp-privacy-info = Sekretessinformation
+plugins-openh264-description = Denna insticksmodul installeras automatiskt av Mozilla för att följa WebRTC-specifikationen och möjliggöra WebRTC-samtal med enheter som kräver H.264 video codec. Besök http://www.openh264.org/ för att visa källkoden för codec och lära dig mer om implementationen.
+plugins-widevine-name = Widevine Content dekrypteringsmodul tillhandahålls av Google Inc.
