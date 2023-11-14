@@ -31,6 +31,16 @@ about-webauthn-text-not-available = 이 플랫폼에서는 사용할 수 없습�
 
 about-webauthn-results-success = 성공!
 about-webauthn-results-general-error = 오류!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] 오류: 잘못된 PIN입니다. 다시 시도하세요.
+       *[other] 오류: 잘못된 PIN입니다. 다시 시도하세요. { $retriesLeft } 번의 시도가 남았습니다.
+    }
+about-webauthn-results-pin-blocked-error = 오류: 잘못된 PIN을 너무 많이 입력했기 때문에 남은 시도 횟수가 없으며 기기가 잠겼습니다. 기기를 재설정해야 합니다.
+about-webauthn-results-pin-too-short-error = 오류: PIN이 너무 짧습니다.
+about-webauthn-results-pin-too-long-error = 오류: PIN이 너무 깁니다.
 
 ## Labels
 
