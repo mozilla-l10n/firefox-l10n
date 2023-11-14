@@ -128,3 +128,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = منسوخ
 protections-panel-cookie-banner-view-turn-off = بند کرو
 protections-panel-cookie-banner-view-turn-on = چالو کرو
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = بند کرو
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = چالو کرو
