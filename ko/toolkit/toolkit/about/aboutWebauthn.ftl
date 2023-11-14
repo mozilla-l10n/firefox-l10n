@@ -99,3 +99,8 @@ about-webauthn-auth-option-null = 지원되지 않음
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = 공급업체 프로토타입 구성 명령
+about-webauthn-auth-info-remaining-discoverable-credentials = 검색 가능한 나머지 자격 증명
+about-webauthn-auth-info-certifications = 인증
+about-webauthn-auth-info-uv-modality = 사용자 확인 형식
+about-webauthn-auth-info-preferred-platform-uv-attempts = 선호하는 플랫폼 사용자 확인 시도
