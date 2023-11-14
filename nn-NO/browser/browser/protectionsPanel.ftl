@@ -148,3 +148,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Slå av
 protections-panel-cookie-banner-view-turn-on = Slå på
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Slå av
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Slå på
