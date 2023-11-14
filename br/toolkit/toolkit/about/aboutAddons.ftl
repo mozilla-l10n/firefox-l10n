@@ -421,3 +421,7 @@ details-notification-softblocked-link = Muioc'h a ditouroù
 details-notification-gmp-pending = Staliet e vo { $name } a-benn nebeut.
 details-notification-gmp-pending2 =
     .message = Staliet e vo { $name } a-benn nebeut.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-openh264-name = Enboneger-ezvoneger Video OpenH264 pourchaset gant Cisco Systems, Inc.
