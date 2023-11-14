@@ -18,6 +18,8 @@ migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
 migration-source-name-edge = Microsoft Edge
+migration-source-name-chrome = Google Chrome
+migration-imported-safari-reading-list = Lasāmo lietu saraksts (No Safari)
 migration-imported-edge-reading-list = Lasāmo lietu saraksts (No Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
