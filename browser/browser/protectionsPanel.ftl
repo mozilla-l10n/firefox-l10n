@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Dlaczego?
 protections-panel-not-blocking-why-etp-on-tooltip = Blokowanie tych elementów może powodować niepoprawne działanie niektórych stron. Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.
 protections-panel-not-blocking-why-etp-off-tooltip = Wszystkie elementy śledzące na tej stronie zostały wczytane, ponieważ ochrona jest wyłączona.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blokowanie tych elementów może powodować niepoprawne działanie niektórych stron. Bez elementów śledzących niektóre przyciski, formularze i pola logowania mogą nie działać.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Wszystkie elementy śledzące na tej stronie zostały wczytane, ponieważ ochrona jest wyłączona.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Włącz, a {
 protections-panel-cookie-banner-view-cancel = Anuluj
 protections-panel-cookie-banner-view-turn-off = Wyłącz
 protections-panel-cookie-banner-view-turn-on = Włącz
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Wyłącz
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Włącz
