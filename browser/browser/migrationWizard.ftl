@@ -17,6 +17,12 @@ migration-wizard-migrator-display-name-chromium-edge = মাইক্রোস�
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = মাইক্রোসফট ইন্টারনেট এক্সপ্লোরার
 migration-wizard-migrator-display-name-safari = সাফারি
+migration-imported-safari-reading-list = তালিকা পড়া হচ্ছে (সাফারি হতে)
+
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -37,6 +43,7 @@ migration-wizard-migrator-display-name-safari = সাফারি
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
+
 
 ##
 
