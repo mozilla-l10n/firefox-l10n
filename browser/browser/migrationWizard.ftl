@@ -11,6 +11,13 @@ migration-wizard-migrator-display-name-chrome = I-Chrome
 migration-wizard-migrator-display-name-firefox = I-Firefox
 migration-wizard-migrator-display-name-ie = IMicrosoft Internet Explorer
 migration-wizard-migrator-display-name-safari = I-Safari
+migration-source-name-chrome = I-Google Chrome
+migration-imported-safari-reading-list = Uhlu lokufunda (kusukela ku-Safari)
+
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -31,6 +38,7 @@ migration-wizard-migrator-display-name-safari = I-Safari
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
+
 
 ##
 
