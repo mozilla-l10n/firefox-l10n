@@ -42,6 +42,7 @@ migration-wizard-migrator-display-name-opera = Opere
 migration-wizard-migrator-display-name-opera-gx = Opere GX
 migration-wizard-migrator-display-name-safari = Safarija
 migration-wizard-migrator-display-name-vivaldi = Vivaldija
+migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Bralni seznam (iz Safarija)
 
