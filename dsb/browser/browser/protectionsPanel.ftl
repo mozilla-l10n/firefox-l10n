@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Cogodla?
 protections-panel-not-blocking-why-etp-on-tooltip = Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.
 protections-panel-not-blocking-why-etp-off-tooltip = Wšykne pśeslědowaki na toś tom sydle su se zacytali, dokulaž šćit jo znjemóžnjony.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Gaž toś te elementy blokěrujośo, snaź wěste websedła wěcej pšawje njefunkcioněruju. Někotare tłocaški, formulary a pśizjawjeńske póla njemógli bźez pśeslědowakow pčawje funkcioněrowaś.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Wšykne pśeslědowaki na toś tom sydle su se zacytali, dokulaž šćit jo znjemóžnjony.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Zmóžniśo t
 protections-panel-cookie-banner-view-cancel = Pśetergnuś
 protections-panel-cookie-banner-view-turn-off = Znjemóžniś
 protections-panel-cookie-banner-view-turn-on = Zmóžniś
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Znjemóžniś
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Zmóžniś
