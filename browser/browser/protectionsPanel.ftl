@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Proč?
 protections-panel-not-blocking-why-etp-on-tooltip = Blokování těchto prvků může ovlivnit fungování webové stránky. Bez sledovacích prvků nemusí některá tlačítka nebo formuláře správně fungovat.
 protections-panel-not-blocking-why-etp-off-tooltip = Všechny sledovací prvky na této stránce byly načteny, protože ochrana proti sledování je vypnutá.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blokování těchto prvků může ovlivnit fungování webové stránky. Bez sledovacích prvků nemusí některá tlačítka nebo formuláře správně fungovat.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Všechny sledovací prvky na této stránce byly načteny, protože ochrana proti sledování je vypnutá.
 
 ##
 
