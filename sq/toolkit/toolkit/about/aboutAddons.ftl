@@ -483,3 +483,11 @@ details-notification-softblocked-link = Më Tepër Hollësi
 details-notification-gmp-pending = { $name } do të instalohet pas pak.
 details-notification-gmp-pending2 =
     .message = { $name } do të instalohet pas pak.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Të dhëna licence
+plugins-gmp-privacy-info = Informacion Mbi Privatësinë
+plugins-openh264-name = Kodek Videosh OpenH264, i ofruar nga Cisco Systems, Inc.
+plugins-openh264-description = Kjo shtojcë është instaluar automatikisht nga Mozilla për përputhje me specifikimet WebRTC dhe për të bërë të mundur thirrje WebRTC me pajisje që lypin kodekun H.264 për video. Vizitoni http://www.openh264.org/ që të shihni kodin burim të kodekut dhe për të mësuar më tepër rreth sendërtimit të tij.
+plugins-widevine-description = Kjo shtojcë bën të mundur luajtje mediash të fshehtëzuara në përputhje me specifikimet Encrypted Media Extensions. Mediat e fshehtëzuara zakonisht përdoren nga sajtet për t’i mbrojtur kundër kopjimesh lënde media me pagesë. Vizitoni https://www.w3.org/TR/encrypted-media/ për më tepër të dhëna mbi Encrypted Media Extensions.
