@@ -88,3 +88,7 @@ addon-install-from-file-filter-name = Jɨaɨe
 details-notification-gmp-pending = { $name } raɨre ñúe fɨnoye.
 details-notification-gmp-pending2 =
     .message = { $name } raɨre ñúe fɨnoye.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Ráfue bíe fɨnoka
