@@ -129,3 +129,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Sefsex
 protections-panel-cookie-banner-view-turn-off = Sens
 protections-panel-cookie-banner-view-turn-on = Rmed
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Sens
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Rmed
