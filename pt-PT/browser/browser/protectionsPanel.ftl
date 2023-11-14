@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Porquê?
 protections-panel-not-blocking-why-etp-on-tooltip = O bloqueio destes pode quebrar elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de autenticação podem não funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip = Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = O bloqueio destes pode quebrar elementos em alguns sites. Sem rastreadores, alguns botões, formulários e campos de autenticação podem não funcionar.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Todos os rastreadores deste site foram carregados porque as proteções estão desativadas.
 
 ##
 
