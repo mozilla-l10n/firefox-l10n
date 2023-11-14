@@ -15,6 +15,7 @@ migration-wizard-migrator-display-name-chromium-edge = Microsoft Edge
 migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
+migration-source-name-ie = I-Internet Explorer
 migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = I-Google Chrome
 migration-imported-safari-reading-list = Uludwe lokufunda (ukusuka kwiSafari)
