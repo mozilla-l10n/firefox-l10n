@@ -41,6 +41,8 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = De ce?
 protections-panel-not-blocking-why-etp-on-tooltip = Blocarea acestora poate împiedica funcționarea elementelor anumitor site-uri web. Fără elementele de urmărire, este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
 protections-panel-not-blocking-why-etp-off-tooltip = Toate elementele de urmărire de pe acest site au fost încărcate deoarece ai protecțiile dezactivate.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blocarea acestora poate împiedica funcționarea elementelor anumitor site-uri web. Fără elementele de urmărire, este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
 protections-panel-not-blocking-why-etp-off-tooltip-label =
     .label = Toate elementele de urmărire de pe acest site au fost încărcate deoarece ai protecțiile dezactivate.
 
