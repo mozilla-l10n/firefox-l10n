@@ -211,3 +211,9 @@ details-notification-softblocked-link = ព័ត៌មាន​បន្ថែ�
 details-notification-gmp-pending = { $name } នឹង​ត្រូវ​បាន​ដំឡើង​នៅ​ពេល​បន្តិច​ទៀត។
 details-notification-gmp-pending2 =
     .message = { $name } នឹង​ត្រូវ​បាន​ដំឡើង​នៅ​ពេល​បន្តិច​ទៀត។
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = ព័ត៌មាន​អាជ្ញាប័ណ្ណ
+plugins-openh264-name = កូដឌិក​វីដេអូ OpenH264 បាន​ផ្ដល់​ដោយ​ប្រព័ន្ធ Cisco Systems, Inc ។
+plugins-openh264-description = កម្មវិធី​ជំនួយ​នេះ​ត្រូវ​បាន​ដំឡើង​ដោយ Mozilla ដោយ​ស្វ័យ​ប្រវត្តិ ដើម្បី​ឲ្យ​ត្រូវគ្នា​ជាមួយ​សមត្ថភាព WebRTC និង​ដើម្បី​អនុញ្ញាត​ការ​ហៅ WebRTC ជាមួយ​ឧបករណ៍​ដែល​ទាមទារ​កូដឌិក​វីដេអូ H.264។ សូម​ទស្សនា http://www.openh264.org/ ដើម្បី​មើល​កូដ​ប្រភព និង​សិក្សា​បន្ថែម​អំពី​ការ​អនុវត្តិ។
