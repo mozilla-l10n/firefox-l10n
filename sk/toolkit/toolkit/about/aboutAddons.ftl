@@ -493,6 +493,7 @@ details-notification-gmp-pending2 =
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Informácie o licencii
+plugins-gmp-privacy-info = Informácie o ochrane súkromia
 plugins-openh264-name = Kodek OpenH264 Video od Cisco Systems, Inc.
 plugins-openh264-description = Tento zásuvný modul je automaticky inštalovaný Mozillou na zabezpečenie súladu so špecifikáciou pre WebRTC za účelom umožnenia hovorov prostredníctvom WebRTC so zariadeniami, ktoré vyžadujú videokodek H.264. Ďalšie informácie o implementácii a zdrojové kódy kodeku nájdete na stránkach http://www.openh264.org/.
 plugins-widevine-name = Modul na dekódovanie obsahu Widevine od Google Inc.
