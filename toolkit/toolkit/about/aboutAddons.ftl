@@ -484,3 +484,9 @@ details-notification-softblocked-link = Ulteriuras infurmaziuns
 details-notification-gmp-pending = { $name } vegn installà en curt mument.
 details-notification-gmp-pending2 =
     .message = { $name } vegn installà en curt mument.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-privacy-info = Infurmaziuns davart la protecziun da datas
+plugins-openh264-description = Quest plug-in è vegnì installà automaticamain da Mozilla per ademplir la specificaziun da WebRTC e per pussibilitar la videotelefonia da WebRTC cun apparats che basegnan il codec da video H.264. Visita http://www.openh264.org/ per studegiar il code da funtauna dal codec e per emprender dapli davart l'implementaziun.
+plugins-widevine-name = Modul «Widevine Content Decryption», purschì da Google Inc.
