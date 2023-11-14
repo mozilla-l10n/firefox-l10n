@@ -137,3 +137,7 @@ protections-panel-cookie-banner-view-turn-on-description = { -brand-short-name }
 protections-panel-cookie-banner-view-cancel = Cancel
 protections-panel-cookie-banner-view-turn-off = Turn Off
 protections-panel-cookie-banner-view-turn-on = Turn On
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Turn Off
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Turn On
