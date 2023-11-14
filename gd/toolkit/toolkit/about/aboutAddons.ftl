@@ -468,3 +468,10 @@ details-notification-softblocked-link = Barrachd fiosrachaidh
 details-notification-gmp-pending = Thèid { $name } stàladh a dh'aithghearr.
 details-notification-gmp-pending2 =
     .message = Thèid { $name } stàladh a dh'aithghearr.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Fiosrachadh mun cheadachas
+plugins-gmp-privacy-info = Fiosrachadh prìobhaideachd
+plugins-openh264-name = OpenH264 Video Codec 'ga sholar le Cisco Systems, Inc.
+plugins-widevine-name = Tha an Widevine Content Decryption Module ’ga sholar le Google Inc.
