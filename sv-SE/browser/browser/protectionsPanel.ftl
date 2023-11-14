@@ -57,6 +57,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Varför?
 protections-panel-not-blocking-why-etp-on-tooltip = Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.
 protections-panel-not-blocking-why-etp-off-tooltip = Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.
 
 ##
 
@@ -149,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Slå på och 
 protections-panel-cookie-banner-view-cancel = Avbryt
 protections-panel-cookie-banner-view-turn-off = Stäng av
 protections-panel-cookie-banner-view-turn-on = Slå på
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Stäng av
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Slå på
