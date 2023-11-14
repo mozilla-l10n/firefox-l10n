@@ -21,8 +21,10 @@ migration-wizard-migrator-display-name-firefox = Firefox
 migration-wizard-migrator-display-name-ie = Microsoft Internet Explorer
 migration-wizard-migrator-display-name-safari = Safari
 migration-source-name-ie = Internet Explorer
+migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Listahan ng Babasahin (Mula sa Safari)
+migration-imported-edge-reading-list = Listahan ng Babasahin (Mula sa Edge)
 
 ## These strings are shown if the selected browser data directory is unreadable.
 ## In practice, this tends to only occur on Linux when Firefox
