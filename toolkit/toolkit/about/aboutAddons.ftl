@@ -490,4 +490,5 @@ details-notification-gmp-pending2 =
 ## Gecko Media Plugins (GMPs)
 
 plugins-gmp-license-info = Thông tin giấy phép
+plugins-gmp-privacy-info = Thông tin bảo mật
 plugins-openh264-name = Bộ giải mã OpenH264 được cung cấp bởi Cisco Systems, Inc.
