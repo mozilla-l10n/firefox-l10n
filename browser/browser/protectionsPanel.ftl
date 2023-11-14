@@ -153,3 +153,7 @@ protections-panel-cookie-banner-blocker-view-turn-on-description = Slå funktion
 protections-panel-cookie-banner-view-cancel = Annuller
 protections-panel-cookie-banner-view-turn-off = Slå fra
 protections-panel-cookie-banner-view-turn-on = Slå til
+protections-panel-cookie-banner-view-turn-off-label =
+    .label = Slå fra
+protections-panel-cookie-banner-view-turn-on-label =
+    .label = Slå til
