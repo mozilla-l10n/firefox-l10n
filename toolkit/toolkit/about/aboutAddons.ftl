@@ -221,4 +221,6 @@ details-notification-gmp-pending2 =
 
 ## Gecko Media Plugins (GMPs)
 
+plugins-gmp-privacy-info = Eolas faoin Phríobháideachas
 plugins-openh264-name = Codec Físe OpenH264 le caoinchead Cisco Systems, Inc.
+plugins-widevine-name = Modúl Díchriptiúcháin i gcomhair ábhair Widevine a bhuí le Google Inc.
