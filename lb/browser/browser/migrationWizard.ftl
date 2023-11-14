@@ -8,6 +8,16 @@
 # as a prefix followed by the unique identification key for the migrator.
 
 migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
+migration-source-name-ie = Internet Explorer
+migration-source-name-edge = Microsoft Edge
+migration-source-name-chrome = Google Chrome
+migration-imported-safari-reading-list = Lieslëscht (Vum Safari)
+migration-imported-edge-reading-list = Lieslëscht (Vum Edge)
+
+## These strings are shown if the selected browser data directory is unreadable.
+## In practice, this tends to only occur on Linux when Firefox
+## is installed as a Snap.
+
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -28,6 +38,7 @@ migration-wizard-migrator-display-name-chromium-360se = 360 Secure Browser
 ## The import process identifies extensions installed in other supported
 ## browsers and installs the corresponding (matching) extensions compatible
 ## with Firefox, if available.
+
 
 ##
 
