@@ -42,6 +42,7 @@ migration-wizard-migrator-display-name-opera = Opera
 migration-wizard-migrator-display-name-opera-gx = Opera GX
 migration-wizard-migrator-display-name-safari = Safari
 migration-wizard-migrator-display-name-vivaldi = Vivaldi
+migration-source-name-ie = Internet Explorer
 migration-source-name-edge = Microsoft Edge
 migration-source-name-chrome = Google Chrome
 migration-imported-safari-reading-list = Rhestr Darllen (O Safari)
