@@ -466,3 +466,7 @@ details-notification-softblocked-link = מידע נוסף
 details-notification-gmp-pending = התוספת { $name } תותקן בהקדם.
 details-notification-gmp-pending2 =
     .message = התוספת { $name } תותקן בהקדם.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = פרטי רישוי
