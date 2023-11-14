@@ -41,6 +41,10 @@ protections-panel-site-not-working-view =
 protections-panel-not-blocking-why-label = Carson?
 protections-panel-not-blocking-why-etp-on-tooltip = Ma bhacas tu an fheadhainn seo, dh’fhaoidte gum bris sin eileamaidean de chuid a làraichean-lìn. ’S dòcha nach obraich a h-uile putan, foirm is raon clàraidh a-steach às aonais nan tracaichean.
 protections-panel-not-blocking-why-etp-off-tooltip = Chaidh a h-uile tracaiche a luchdadh air an làrach seo on a chaidh an dìon a chur dheth.
+protections-panel-not-blocking-why-etp-on-tooltip-label =
+    .label = Ma bhacas tu an fheadhainn seo, dh’fhaoidte gum bris sin eileamaidean de chuid a làraichean-lìn. ’S dòcha nach obraich a h-uile putan, foirm is raon clàraidh a-steach às aonais nan tracaichean.
+protections-panel-not-blocking-why-etp-off-tooltip-label =
+    .label = Chaidh a h-uile tracaiche a luchdadh air an làrach seo on a chaidh an dìon a chur dheth.
 
 ##
 
