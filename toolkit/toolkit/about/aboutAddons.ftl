@@ -486,3 +486,9 @@ details-notification-softblocked-link = Więcej informacji
 details-notification-gmp-pending = Dodatek „{ $name }” zostanie wkrótce zainstalowany.
 details-notification-gmp-pending2 =
     .message = Dodatek „{ $name }” zostanie wkrótce zainstalowany.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Informacje o licencji
+plugins-openh264-name = OpenH264 Video Codec dostarczony przez Cisco Systems, Inc.
+plugins-widevine-description = Wtyczka umożliwiająca odtwarzanie szyfrowanych treści zgodnych ze specyfikacją „Encrypted Media Extensions”. Szyfrowane treści są zazwyczaj używane przez strony, aby zabezpieczyć je przed kopiowaniem. Więcej informacji o „Encrypted Media Extensions” można znaleźć pod adresem https://www.w3.org/TR/encrypted-media/
