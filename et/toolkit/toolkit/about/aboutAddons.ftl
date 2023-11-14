@@ -448,3 +448,12 @@ details-notification-softblocked-link = Rohkem teavet
 details-notification-gmp-pending = { $name } paigaldatakse peagi.
 details-notification-gmp-pending2 =
     .message = { $name } paigaldatakse peagi.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Litsentsi teave
+plugins-gmp-privacy-info = Privaatsusest
+plugins-openh264-name = OpenH264 videokoodek (Cisco Systems, Inc.)
+plugins-openh264-description = Selle plugina on Mozilla automaatselt paigaldanud, et tagada ühilduvus WebRTC spetsifikatsiooniga ja võimaldada WebRTC-kõnesid videokoodekit H.264 nõudvate seadmetega. Lisateabe saamiseks ja koodeki lähtekoodiga tutvumiseks külasta aadressi http://www.openh264.org
+plugins-widevine-name = Widevine'i sisu dekrüptimise moodul (Google Inc.)
+plugins-widevine-description = See plugin võimaldab krüptitud meedia esitamist vastavalt krüptitud meediumilaiendite spetsifikatsioonile. Krüptitud meediat kasutavad saidid tavaliselt tasulise sisu kopeerimise eest kaitsmiseks. Rohkem teavet krüptitud meediumilaiendite kohta leiab aadressilt https://www.w3.org/TR/encrypted-media/.
