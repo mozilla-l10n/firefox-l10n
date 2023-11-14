@@ -211,3 +211,11 @@ details-notification-softblocked-link = Alhabar tontoni
 details-notification-gmp-pending = { $name } ga kaa ka sinja kayna da.
 details-notification-gmp-pending2 =
     .message = { $name } ga kaa ka sinja kayna da.
+
+## Gecko Media Plugins (GMPs)
+
+plugins-gmp-license-info = Duɲekaddasu alhabar
+plugins-gmp-privacy-info = Sutura alhabar
+plugins-openh264-name = OpenH264 Video Codec kaŋ Cisco Systems, Inc. n'a noo.
+plugins-openh264-description = Mozilla ga bonse-sukari kayandi, hala nga nda WebRTC ma hin ka koy nda cere. Nda mo, WebRTC ma hin ka goy nda nga maršin-kotantey, kan ngey diraa ga widewo codec H.264 waažibandi. Codec ɲaŋey bangandi http://www.openh264.org/ boŋ, hala ma hansa ka faham nga diraa se.
+plugins-widevine-name = Widevine gundekuna feeriyan dunbu kaŋ Google Inc. n'a noondi
