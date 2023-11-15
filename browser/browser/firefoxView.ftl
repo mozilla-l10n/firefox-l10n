@@ -152,6 +152,23 @@ firefoxview-search-text-box-clear-button =
 # Placeholder for the input field to search in history ("search" is a verb).
 firefoxview-search-text-box-history =
     .placeholder = Historiju přepytać
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Pytanske wuslědki za „{ $query }“
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } sydło
+        [two] { $count } sydle
+        [few] { $count } sydła
+       *[other] { $count } sydłow
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Žane wuslědki za „{ $query }“
 firefoxview-sort-history-by-date-label = Po datumje sortěrować
 firefoxview-sort-history-by-site-label = Po sydle sortěrować
 # Variables:
