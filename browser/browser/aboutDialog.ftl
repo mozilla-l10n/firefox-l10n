@@ -26,6 +26,7 @@ update-failed = فشل التحديث. <label data-l10n-name="failed-link">نز�
 update-failed-main = فشل التحديث. <a data-l10n-name="failed-link-main">نزّل أحدث نسخة</a>
 update-adminDisabled = عطّلَ مدير النظام التحديثات
 update-noUpdatesFound = { -brand-short-name } مُحدَّث
+aboutdialog-update-checking-failed = فشل التماس التحديثات.
 update-otherInstanceHandlingUpdates = يجري تحديث { -brand-short-name } في سيرورة أخرى
 
 ## Variables:
