@@ -189,6 +189,7 @@ media-codec-support-codec-name = Номи кодек
 media-codec-support-supported = Дастгирӣ мешавад
 media-codec-support-unsupported = Дастгирӣ намешавад
 media-codec-support-error = Маълумоти дастгирии кодек дастнорас аст. Пас аз пахш кардани файли расона аз нав кӯшиш кунед.
+media-codec-support-lack-of-extension = Насб кардани васеъшавӣ
 
 ##
 
