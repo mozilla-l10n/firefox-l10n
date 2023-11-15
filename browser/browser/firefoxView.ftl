@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Switch to this tab
 firefoxview-show-more = Show more
 firefoxview-show-less = Show less
+firefoxview-search-text-box-clear-button =
+    .title = Clear
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Search history
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Search results for “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } site
+       *[other] { $count } sites
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = No results for “{ $query }”
 firefoxview-sort-history-by-date-label = Sort by date
 firefoxview-sort-history-by-site-label = Sort by site
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Make { -brand-short-name } your go-to b
 firefoxview-recentlyclosed-empty-header = Closed a tab too soon?
 firefoxview-recentlyclosed-empty-description = Here you’ll find the tabs you recently closed, so you can reopen any of them quickly.
 firefoxview-recentlyclosed-empty-description-two = To find tabs from longer ago, view your <a data-l10n-name="history-url">browsing history</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
