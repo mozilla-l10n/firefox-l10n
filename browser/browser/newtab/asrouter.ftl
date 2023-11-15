@@ -201,6 +201,8 @@ cfr-cbh-confirm-button = Cookie баннерлерін елемеу
     .accesskey = р
 cfr-cbh-dismiss-button = Қазір емес
     .accesskey = м
+cookie-banner-blocker-cfr-header = { -brand-short-name } жаңа ғана сіз үшін cookie файлдарын бұғаттады
+cookie-banner-blocker-cfr-body = Сайттардың сізді қадағалауын қиындату үшін біз көптеген cookie файлдарының қалқымалы терезелерінен автоматты түрде бас тартамыз.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
