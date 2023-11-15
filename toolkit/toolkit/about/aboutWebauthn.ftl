@@ -85,7 +85,44 @@ about-webauthn-auth-option-uvbioenroll = Biometric enrolment permission
 about-webauthn-auth-option-authnrcfg = Authenticator config
 about-webauthn-auth-option-uvacfg = Authenticator config permission
 about-webauthn-auth-option-credmgmt = Credential management
+about-webauthn-auth-option-credentialmgmtpreview = Prototype credential management
+about-webauthn-auth-option-setminpinlength = Set minimum PIN length
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential without user verification
+about-webauthn-auth-option-alwaysuv = Always require user verification
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Not supported
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Vendor prototype config commands
+about-webauthn-auth-info-remaining-discoverable-credentials = Remaining discoverable credentials
+about-webauthn-auth-info-certifications = Certifications
+about-webauthn-auth-info-uv-modality = User verification modality
+about-webauthn-auth-info-preferred-platform-uv-attempts = Preferred platform user verification attempts
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Max relying party IDs for set minimum PIN length
+about-webauthn-auth-info-max-cred-blob-length = Max credential blob length
+about-webauthn-auth-info-firmware-version = Firmware version
+about-webauthn-auth-info-min-pin-length = Minimum PIN length
+about-webauthn-auth-info-force-pin-change = Force PIN change
+about-webauthn-auth-info-max-ser-large-blob-array = Max size of large blob array
+about-webauthn-auth-info-algorithms = Algorithms
+about-webauthn-auth-info-transports = Transports
+about-webauthn-auth-info-max-credential-id-length = Max credential ID length
+about-webauthn-auth-info-max-credential-count-in-list = Max credential count in list
+about-webauthn-auth-info-pin-protocols = PIN protocols
+about-webauthn-auth-info-max-msg-size = Max message size
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensions
+about-webauthn-auth-info-versions = Versions
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Not supported
