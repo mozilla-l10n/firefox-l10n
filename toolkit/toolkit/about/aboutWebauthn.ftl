@@ -36,16 +36,38 @@ about-webauthn-results-pin-invalid-error =
         [few] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospyty.
        *[other] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospytow.
     }
+about-webauthn-results-pin-blocked-error = Zmylk: Njejsu žane dalše pospyty móžne a waš grat je zawrjeny, dokelž so wopačny PIN přehusto zapodał. Grat dyrbi so wróćo stajić.
+about-webauthn-results-pin-too-short-error = Zmylk: Podaty PIN je překrótki.
+about-webauthn-results-pin-too-long-error = Zmylk: Podaty PIN je předołhi.
+about-webauthn-results-pin-auth-blocked-error = Zmylk: Je přewjele njeporadźenych pospytow jedyn po druhim a PIN-awtentifikacija je so nachwilu zablokowała. Waš grat dyrbi so wupinać a zaso zapinać (syćowy tykač dyrbi so wućahnyć a zaso nutř tyknyć).
+about-webauthn-results-cancelled-by-user-error = Zmylk: Operacija je so wot wužiwarja přetorhnyła.
 
 ## Labels
 
+about-webauthn-new-pin-label = Nowy PIN:
+about-webauthn-repeat-pin-label = Wospjetujće nowy PIN:
+about-webauthn-current-pin-label = Aktualny PIN:
+about-webauthn-pin-required-label = Prošu zapodajće swój PIN:
+about-webauthn-credential-list-subsection-title = Přizjewjenske daty:
+about-webauthn-credential-list-empty = Žane přizjewjenske daty na graće namakane.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = PIN postajić
+about-webauthn-current-change-pin-button = PIN změnić
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Lisćina přizjewjenskich datow
+about-webauthn-cancel-button = Přetorhnyć
+about-webauthn-send-pin-button = W porjadku
+about-webauthn-delete-button = Zhašeć
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Přepruwowanje wužiwarja
+about-webauthn-auth-option-up = Přitomnosć wužiwarja
+about-webauthn-auth-option-clientpin = PIN klienta
+about-webauthn-auth-option-plat = Platformowy grat
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
