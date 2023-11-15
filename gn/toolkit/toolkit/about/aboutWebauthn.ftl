@@ -41,6 +41,8 @@ about-webauthn-delete-button = Mboguete
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
 about-webauthn-auth-option-uv = Poruhára jehechajey
+about-webauthn-auth-option-up = Poruhára ñeime
+about-webauthn-auth-option-clientpin = Joguaha PIN
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Añetéva
 
