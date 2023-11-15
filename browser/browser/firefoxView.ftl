@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Mudar para esta aba
 firefoxview-show-more = Mostrar mais
 firefoxview-show-less = Mostrar menos
+firefoxview-search-text-box-clear-button =
+    .title = Limpar
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Pesquisar no histórico
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Resultados da pesquisa de “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } site
+       *[other] { $count } sites
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nenhum resultado de “{ $query }”
 firefoxview-sort-history-by-date-label = Ordenar por data
 firefoxview-sort-history-by-site-label = Ordenar por site
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Torne o { -brand-short-name } seu naveg
 firefoxview-recentlyclosed-empty-header = Fechou uma aba cedo demais?
 firefoxview-recentlyclosed-empty-description = Aqui você encontra as abas que fechou recentemente, assim pode reabrir qualquer uma delas rapidamente.
 firefoxview-recentlyclosed-empty-description-two = Para encontrar abas fechadas há mais tempo, procure no <a data-l10n-name="history-url">histórico de navegação</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
