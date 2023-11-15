@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = 處理程序管理員
-
 # The Actions column
 about-processes-column-action =
     .title = 動作
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = 解除載入分頁並結束處理程序
 about-processes-shutdown-tab =
     .title = 關閉分頁
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -52,7 +50,6 @@ about-processes-remote-sandbox-broker-process = 遠端沙盒溝通工具（{ $pi
 about-processes-fork-server-process = Fork 伺服器（{ $pid }）
 about-processes-preallocated-process = 預先分配（{ $pid }）
 about-processes-utility-process = 小工具（{ $pid }）
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -86,7 +83,6 @@ about-processes-active-threads =
     { $active ->
        *[other] { $active } 個忙碌的執行緒，共 { $number } 個: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -97,25 +93,21 @@ about-processes-inactive-threads =
     { $number ->
        *[other] { $number } 個閒置的執行緒
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = 執行緒 ID: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = 分頁: { $name }
 about-processes-preloaded-tab = 預先載入的新分頁
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = 子畫框: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -132,6 +124,7 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Windows Utils
+about-processes-utility-actor-windows-file-dialog = Windows 檔案對話框
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -145,15 +138,12 @@ about-processes-utility-actor-windows-utils = Windows Utils
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = （測量中）
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = 閒置
     .title = 總 CPU 時間: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -172,7 +162,6 @@ about-processes-cpu-fully-idle = 閒置
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = 變化: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 
