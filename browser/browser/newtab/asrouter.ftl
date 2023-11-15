@@ -201,6 +201,7 @@ cfr-cbh-confirm-button = 쿠키 배너 거부
     .accesskey = R
 cfr-cbh-dismiss-button = 나중에
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name }가 쿠키를 차단했습니다.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
