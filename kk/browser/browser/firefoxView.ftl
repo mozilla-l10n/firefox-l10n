@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Бұл бетке ауысу
 firefoxview-show-more = Көбірек көрсету
 firefoxview-show-less = Азырақ көрсету
+firefoxview-search-text-box-clear-button =
+    .title = Тазарту
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Тарихтан іздеу
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = "{ $query }" бойынша іздеу нәтижелері
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } сайт
+       *[other] { $count } сайт
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = "{ $query }" бойынша нәтиже жоқ
 firefoxview-sort-history-by-date-label = Күні бойынша сұрыптау
 firefoxview-sort-history-by-site-label = Сайт бойынша сұрыптау
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = { -brand-short-name } қолданба�
 firefoxview-recentlyclosed-empty-header = Бетті тым ерте жаптыңыз ба?
 firefoxview-recentlyclosed-empty-description = Осында сіз жақында жабылған беттерді таба аласыз, олардың кез келгенін жылдам қайта аша аласыз.
 firefoxview-recentlyclosed-empty-description-two = Одан да бұрыңғы беттерді табу үшін, <a data-l10n-name="history-url">шолу тарихын</a> қараңыз.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

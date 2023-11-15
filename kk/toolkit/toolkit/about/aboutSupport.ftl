@@ -185,6 +185,7 @@ media-codec-support-codec-name = Кодек атауы
 media-codec-support-supported = Қолдауы бар
 media-codec-support-unsupported = Қолдауы жоқ
 media-codec-support-error = Кодектерге қолдау көрсету ақпараты қолжетімді емес. Медиа файлын ойнатқаннан кейін қайта көріңіз.
+media-codec-support-lack-of-extension = Кеңейтуді орнату
 
 ##
 
