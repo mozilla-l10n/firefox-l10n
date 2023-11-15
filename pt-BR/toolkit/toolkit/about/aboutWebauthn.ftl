@@ -100,8 +100,13 @@ about-webauthn-auth-option-null = Não suportado
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Comandos de configuração do protótipo do fornecedor
+about-webauthn-auth-info-remaining-discoverable-credentials = Credenciais detectáveis restantes
 about-webauthn-auth-info-certifications = Certificações
 about-webauthn-auth-info-uv-modality = Modalidade de verificação de usuário
+about-webauthn-auth-info-preferred-platform-uv-attempts = Tentativas de verificação de usuário na plataforma preferencial
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Máximo de IDs de terceiros confiáveis para definir o tamanho mínimo de PIN
+about-webauthn-auth-info-max-cred-blob-length = Tamanho máximo de blob de credenciais
 about-webauthn-auth-info-firmware-version = Versão do firmware
 about-webauthn-auth-info-min-pin-length = Tamanho mínimo de PIN
 about-webauthn-auth-info-force-pin-change = Forçar alteração de PIN
