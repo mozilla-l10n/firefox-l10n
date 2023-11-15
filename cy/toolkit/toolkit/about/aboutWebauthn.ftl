@@ -62,11 +62,51 @@ about-webauthn-credential-list-empty = Dim manylion adnabod ar y ddyfais.
 
 about-webauthn-current-set-pin-button = Gosod PIN
 about-webauthn-current-change-pin-button = Newid PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Rhestru'r manylion
+about-webauthn-cancel-button = Diddymu
+about-webauthn-send-pin-button = Iawn
+about-webauthn-delete-button = Dileu
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Dilysiad defnyddiwr
+about-webauthn-auth-option-up = Presenoldeb defnyddiwr
+about-webauthn-auth-option-clientpin = PIN cleient
+about-webauthn-auth-option-rk = Allwedd preswylydd
+about-webauthn-auth-option-plat = Dyfais platfform
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Caniatâd gorchymyn (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Dim caniatâd MakeCredential / GetAssertion gyda'r PIN cleient
+about-webauthn-auth-option-largeblobs = Blobs mawr
+about-webauthn-auth-option-ep = Ardystiad menter
+about-webauthn-auth-option-bioenroll = Cofrestriad biometrig
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototeip o gofrestriad biometrig (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Caniatâd cofrestriad biometrig
+about-webauthn-auth-option-authnrcfg = Ffurfweddiad y dilysydd
+about-webauthn-auth-option-uvacfg = Caniatâd ffurfweddiad y dilysydd
+about-webauthn-auth-option-credmgmt = Rheoli manylion personol
+about-webauthn-auth-option-credentialmgmtpreview = Rheoli manylion personol prototeip
+about-webauthn-auth-option-setminpinlength = Gosod isafswm hyd PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential heb ddilysiad defnyddiwr
+about-webauthn-auth-option-alwaysuv = Angen gwirio defnyddiwr bob tro
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Heb ei gefnogi
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Gorchmynion ffurfweddu prototeip y gwerthwr
+about-webauthn-auth-info-remaining-discoverable-credentials = Manylion personol darganfyddadwy sy'n weddill
+about-webauthn-auth-info-certifications = Ardystiadau
+about-webauthn-auth-info-uv-modality = Moddion dilysu defnyddwyr
+about-webauthn-auth-info-preferred-platform-uv-attempts = Ymdrechion dilysu dewis platfform y defnyddiwr
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = IDau partïon mwyaf ar gyfer isafswm hyd PIN penodol
