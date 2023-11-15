@@ -12,8 +12,8 @@ about-webauthn-page-title = Wo WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Gratowe informacije
-about-webauthn-info-subsection-title = Informacije awtentifikowarja
-about-webauthn-options-subsection-title = Nastajenja awtentifikowarja
+about-webauthn-info-subsection-title = Informacije awtentifikatora
+about-webauthn-options-subsection-title = Nastajenja awtentifikatora
 about-webauthn-pin-section-title = Rjadowanje PIN
 about-webauthn-credential-management-section-title = Přizjewjenske daty rjadować
 about-webauthn-pin-required-section-title = PIN trěbny
@@ -67,6 +67,7 @@ about-webauthn-delete-button = Zhašeć
 about-webauthn-auth-option-uv = Přepruwowanje wužiwarja
 about-webauthn-auth-option-up = Přitomnosć wužiwarja
 about-webauthn-auth-option-clientpin = PIN klienta
+about-webauthn-auth-option-rk = Rezidentny kluč
 about-webauthn-auth-option-plat = Platformowy grat
 about-webauthn-auth-option-credmgmt = Rjadowanje přizjewjenskich datow
 about-webauthn-auth-option-setminpinlength = Minimalnu dołhosć PIN nastajić
@@ -82,6 +83,8 @@ about-webauthn-auth-option-null = Njepodpěrany
 
 about-webauthn-auth-info-algorithms = Algoritmusy
 about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-pin-protocols = Protokole PIN
+about-webauthn-auth-info-max-msg-size = Maksimalna wulkosć powěsće
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Rozšěrjenja
