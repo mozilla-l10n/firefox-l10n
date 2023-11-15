@@ -185,6 +185,7 @@ media-codec-support-codec-name = Tên codec
 media-codec-support-supported = Được hỗ trợ
 media-codec-support-unsupported = Không hỗ trợ
 media-codec-support-error = Không có thông tin Codec được hỗ trợ. Hãy thử lại sau khi phát tập tin phương tiện.
+media-codec-support-lack-of-extension = Cài đặt tiện ích mở rộng
 
 ##
 
