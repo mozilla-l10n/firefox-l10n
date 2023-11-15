@@ -203,6 +203,8 @@ cfr-cbh-confirm-button = Απόρριψη μηνυμάτων για cookie
     .accesskey = Α
 cfr-cbh-dismiss-button = Όχι τώρα
     .accesskey = χ
+cookie-banner-blocker-cfr-header = Το { -brand-short-name } μόλις απέκλεισε τα cookie για εσάς
+cookie-banner-blocker-cfr-body = Απορρίπτουμε αυτόματα πολλά αναδυόμενα παράθυρα για cookie, ώστε να καταστεί δύσκολη η καταγραφή σας από ιστοτόπους.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
