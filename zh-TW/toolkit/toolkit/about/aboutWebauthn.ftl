@@ -20,6 +20,11 @@ about-webauthn-pin-required-section-title = 必須輸入 PIN 碼
 
 ## Info field texts
 
+about-webauthn-text-connect-device = 請連結安全性 token。
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = 請觸摸想要管理的安全性 token。
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = 由於您的安全性 Token 不支援 CTAP2，無法管理選項。
 about-webauthn-text-not-available = 與此平台不相容。
 
 ## Results label
@@ -79,6 +84,7 @@ about-webauthn-auth-option-uvbioenroll = 生物識別資訊註冊權限
 about-webauthn-auth-option-authnrcfg = 驗證器設定
 about-webauthn-auth-option-uvacfg = 驗證器設定權限
 about-webauthn-auth-option-credmgmt = 登入資訊管理
+about-webauthn-auth-option-credentialmgmtpreview = Prototype 登入資訊管理
 about-webauthn-auth-option-setminpinlength = 設定最小 PIN 碼長度
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = 無須使用者驗證的 MakeCredential
@@ -93,6 +99,7 @@ about-webauthn-auth-option-null = 不支援
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = 製造商 prototype 設定指令
 about-webauthn-auth-info-remaining-discoverable-credentials = 剩餘可探索的登入資訊
 about-webauthn-auth-info-certifications = 憑證
 about-webauthn-auth-info-uv-modality = 使用者驗證 modality
