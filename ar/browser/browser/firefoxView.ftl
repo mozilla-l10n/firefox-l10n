@@ -47,15 +47,24 @@ firefoxview-history-empty-description-two = حماية خصوصيتك هي في 
 
 ##
 
+# Button text for choosing a browser within the ’Import history from another browser’ banner
+firefoxview-choose-browser-button = أختر متصفح
+    .title = أختر متصفح
 
 ## Message displayed in Firefox View when the user has chosen to never remember History
 
 
 ##
 
+# This label is read by screen readers when focusing the close button for the "Import history from another browser" banner in Firefox View
+firefoxview-import-history-close-button =
+    .aria-label = أغلِق
+    .title = أغلِق
 
 ## Text displayed in a dismissable banner to import bookmarks/history from another browser
 
+firefoxview-import-history-header = استورِد من التأريخ من متصفح آخر…
+firefoxview-import-history-description = أجعل { -brand-short-name } متصفحك الأساسي. استورد تأريخ التصفح، و العلامات، و غيرها المزيد.
 
 ## Message displayed in Firefox View when the user has no recently closed tabs data
 
