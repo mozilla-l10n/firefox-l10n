@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Wisselen naar dit tabblad
 firefoxview-show-more = Meer tonen
 firefoxview-show-less = Minder tonen
+firefoxview-search-text-box-clear-button =
+    .title = Wissen
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Geschiedenis doorzoeken
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Zoekresultaten voor ‘{ $query }’
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } website
+       *[other] { $count } websites
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Geen resultaten voor ‘{ $query }’
 firefoxview-sort-history-by-date-label = Sorteren op datum
 firefoxview-sort-history-by-site-label = Sorteren op website
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Maak van { -brand-short-name } uw favor
 firefoxview-recentlyclosed-empty-header = Te vroeg een tabblad gesloten?
 firefoxview-recentlyclosed-empty-description = Hier vindt u de tabbladen die u onlangs hebt gesloten, zodat u ze snel weer kunt openen.
 firefoxview-recentlyclosed-empty-description-two = Bekijk uw <a data-l10n-name="history-url">navigatiegeschiedenis</a> om tabbladen van langer geleden te vinden.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
