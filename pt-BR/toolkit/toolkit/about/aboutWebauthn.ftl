@@ -82,7 +82,42 @@ about-webauthn-auth-option-bioenroll = Cadastro biométrico
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Protótipo de cadastro biométrico (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Permissão de cadastro biométrico
+about-webauthn-auth-option-authnrcfg = Configuração do autenticador
+about-webauthn-auth-option-uvacfg = Permissão de configuração do autenticador
+about-webauthn-auth-option-credmgmt = Gerenciamento de credenciais
+about-webauthn-auth-option-credentialmgmtpreview = Protótipo de gerenciamento de credenciais
+about-webauthn-auth-option-setminpinlength = Definir tamanho mínimo de PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sem verificação de usuário
+about-webauthn-auth-option-alwaysuv = Sempre exigir verificação de usuário
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Não suportado
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certificações
+about-webauthn-auth-info-uv-modality = Modalidade de verificação de usuário
+about-webauthn-auth-info-firmware-version = Versão do firmware
+about-webauthn-auth-info-min-pin-length = Tamanho mínimo de PIN
+about-webauthn-auth-info-force-pin-change = Forçar alteração de PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Tamanho máximo de array de blobs grandes
+about-webauthn-auth-info-algorithms = Algoritmos
+about-webauthn-auth-info-transports = Transportes
+about-webauthn-auth-info-max-credential-id-length = Tamanho máximo de ID de credencial
+about-webauthn-auth-info-max-credential-count-in-list = Número máximo de credenciais na lista
+about-webauthn-auth-info-pin-protocols = Protocolos de PIN
+about-webauthn-auth-info-max-msg-size = Tamanho máximo de mensagem
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensões
+about-webauthn-auth-info-versions = Versões
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Não suportado
