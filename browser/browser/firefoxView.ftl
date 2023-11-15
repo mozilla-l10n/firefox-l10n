@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Cambiar a esta pestaña
 firefoxview-show-more = Mostrar más
 firefoxview-show-less = Mostrar menos
+firefoxview-search-text-box-clear-button =
+    .title = Limpiar
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Buscar en historial
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Resultados de búsqueda para “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } sitio
+       *[other] { $count } sitios
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = No hay resultados para “{ $query }”
 firefoxview-sort-history-by-date-label = Ordenar por fecha
 firefoxview-sort-history-by-site-label = Ordenar por sitio
 # Variables:
