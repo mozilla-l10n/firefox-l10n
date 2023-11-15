@@ -185,6 +185,7 @@ media-codec-support-codec-name = Codec Réra
 media-codec-support-supported = Pytyvõpyre
 media-codec-support-unsupported = Oñepytyvõ’ỹva
 media-codec-support-error = Pe marandu códec jokupyty ndojeporukuaái. Eha’ãjey ehecha rire marandurenda ñongatuha.
+media-codec-support-lack-of-extension = Emohenda jepysokue
 
 ##
 
