@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Skipta yfir á þennan flipa
 firefoxview-show-more = Sýna meira
 firefoxview-show-less = Sýna minna
+firefoxview-search-text-box-clear-button =
+    .title = Hreinsa
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Leitarferill
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Leitarniðurstöður fyrir „{ $query }“
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } vefsvæði
+       *[other] { $count } vefsvæði
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Engar niðurstöður fyrir „{ $query }“
 firefoxview-sort-history-by-date-label = Raða eftir dagsetningu
 firefoxview-sort-history-by-site-label = Raða eftir vefsvæðum
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Gerðu { -brand-short-name } að aðalv
 firefoxview-recentlyclosed-empty-header = Lokaðirðu flipa of snemma?
 firefoxview-recentlyclosed-empty-description = Hér finnurðu flipa sem þú lokaðir nýlega, svo þú getur fljótt opnað þá aftur.
 firefoxview-recentlyclosed-empty-description-two = Til að finna flipa sem lengra er síðan að var lokað, skaltu skoða <a data-l10n-name="history-url">vafurferilinn þinn</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

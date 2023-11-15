@@ -185,6 +185,7 @@ media-codec-support-codec-name = Heiti kóðunarlykils (codec)
 media-codec-support-supported = Stuðningur
 media-codec-support-unsupported = Óstutt
 media-codec-support-error = Upplýsingar um stuðning við kóðunarlykil eru ekki tiltækar. Reyndu aftur eftir að hafa spilað margmiðlunarskrá.
+media-codec-support-lack-of-extension = Setja upp forritsauka
 
 ##
 
