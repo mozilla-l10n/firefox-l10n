@@ -138,6 +138,26 @@ firefoxview-opentabs-focus-tab =
     .title = מעבר ללשונית זו
 firefoxview-show-more = להציג יותר
 firefoxview-show-less = להציג פחות
+firefoxview-search-text-box-clear-button =
+    .title = ניקוי
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = חיפוש בהיסטוריה
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = תוצאות חיפוש עבור ״{ $query }״
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] אתר אחד
+       *[other] { $count } אתרים
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = אין תוצאות עבור ״{ $query }״
 firefoxview-sort-history-by-date-label = מיון לפי תאריך
 firefoxview-sort-history-by-site-label = מיון לפי אתר
 # Variables:
@@ -197,9 +217,6 @@ firefoxview-import-history-description = ניתן להפוך את { -brand-short
 firefoxview-recentlyclosed-empty-header = סגרת לשונית מוקדם מדי?
 firefoxview-recentlyclosed-empty-description = כאן ניתן למצוא את הלשוניות שסגרת לאחרונה, כך שבאפשרותך לפתוח מחדש כל אחת מהן במהירות.
 firefoxview-recentlyclosed-empty-description-two = כדי למצוא לשוניות מלפני זמן רב, ניתן לצפות <a data-l10n-name="history-url">בהיסטוריית הגלישה</a> שלך.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
