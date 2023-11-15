@@ -12,20 +12,37 @@ about-webauthn-page-title = Σχετικά με το WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Πληροφορίες συσκευής
+about-webauthn-info-subsection-title = Πληροφορίες για τον έλεγχο ταυτότητας
+about-webauthn-options-subsection-title = Επιλογές ελέγχου ταυτότητας
 about-webauthn-pin-section-title = Διαχείριση PIN
 about-webauthn-credential-management-section-title = Διαχείριση διαπιστευτηρίων
 about-webauthn-pin-required-section-title = Απαιτείται PIN
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Συνδέστε ένα διακριτικό ασφαλείας.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Επιλέξτε το διακριτικό ασφαλείας που θέλετε αγγίζοντας τη συσκευή.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Δεν είναι δυνατή η διαχείριση των επιλογών επειδή το διακριτικό ασφαλείας σας δεν υποστηρίζει το CTAP2.
 about-webauthn-text-not-available = Δεν διατίθεται σε αυτήν την πλατφόρμα.
 
 ## Results label
 
 about-webauthn-results-success = Επιτυχία!
 about-webauthn-results-general-error = Σφάλμα!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Σφάλμα: Μη έγκυρο PIN. Δοκιμάστε ξανά.
+        [one] Σφάλμα: Μη έγκυρο PIN. Δοκιμάστε ξανά. Σας απομένει μία προσπάθεια.
+       *[other] Σφάλμα: Μη έγκυρο PIN. Δοκιμάστε ξανά. Σας απομένουν { $retriesLeft } προσπάθειες.
+    }
+about-webauthn-results-pin-blocked-error = Σφάλμα: Δεν απομένουν προσπάθειες και η συσκευή σας έχει κλειδωθεί, επειδή εισήχθη εσφαλμένο PIN πάρα πολλές φορές. Η συσκευή απαιτεί επαναφορά.
 about-webauthn-results-pin-too-short-error = Σφάλμα: Το PIN που δόθηκε είναι πολύ μικρό.
 about-webauthn-results-pin-too-long-error = Σφάλμα: Το PIN που δόθηκε είναι πολύ μεγάλο.
+about-webauthn-results-pin-auth-blocked-error = Σφάλμα: Έγιναν πολλές αποτυχημένες προσπάθειες στη σειρά και η ταυτοποίηση μέσω PIN έχει αποκλειστεί προσωρινά. Η συσκευή σας απαιτεί κύκλο τροφοδοσίας (αποσύνδεση από την παροχή ρεύματος και εκ νέου σύνδεση).
 about-webauthn-results-cancelled-by-user-error = Σφάλμα: Η λειτουργία ακυρώθηκε από τον χρήστη.
 
 ## Labels
@@ -41,6 +58,8 @@ about-webauthn-credential-list-empty = Δεν βρέθηκαν διαπιστε�
 
 about-webauthn-current-set-pin-button = Ορισμός PIN
 about-webauthn-current-change-pin-button = Αλλαγή PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Παράθεση διαπιστευτηρίων
 about-webauthn-cancel-button = Ακύρωση
 about-webauthn-send-pin-button = OK
 about-webauthn-delete-button = Διαγραφή
@@ -55,10 +74,16 @@ about-webauthn-auth-option-rk = Κλειδί κατοίκου
 about-webauthn-auth-option-plat = Συσκευή πλατφόρμας
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Δικαιώματα εντολών (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Δεν υπάρχουν δικαιώματα MakeCredential/GetAssertion με το PIN πελάτη
+about-webauthn-auth-option-largeblobs = Large blob
+about-webauthn-auth-option-ep = Βεβαίωση επιχείρησης
 about-webauthn-auth-option-bioenroll = Βιομετρική εγγραφή
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = Πρωτότυπο βιομετρικής εγγραφής (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Δικαίωμα βιομετρικής εγγραφής
+about-webauthn-auth-option-authnrcfg = Διαμόρφωση ελέγχου ταυτότητας
+about-webauthn-auth-option-uvacfg = Δικαίωμα διαμόρφωσης ελέγχου ταυτότητας
 about-webauthn-auth-option-credmgmt = Διαχείριση διαπιστευτηρίων
 about-webauthn-auth-option-credentialmgmtpreview = Πρωτότυπο διαχείρισης διαπιστευτηρίων
 about-webauthn-auth-option-setminpinlength = Ορισμός ελάχιστου μήκους PIN
@@ -75,12 +100,17 @@ about-webauthn-auth-option-null = Δεν υποστηρίζεται
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Εντολές διαμόρφωσης πρωτοτύπου παρόχου
+about-webauthn-auth-info-remaining-discoverable-credentials = Υπολειπόμενα ανιχνεύσιμα διαπιστευτήρια
 about-webauthn-auth-info-certifications = Πιστοποιητικά
 about-webauthn-auth-info-uv-modality = Τρόπος επαλήθευσης χρήστη
 about-webauthn-auth-info-preferred-platform-uv-attempts = Προτιμώμενες απόπειρες επαλήθευσης χρήστη πλατφόρμας
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = Μέγιστος αριθμός αναγνωριστικών εξαρτώμενων μερών για το καθορισμένο ελάχιστο μήκος PIN
+about-webauthn-auth-info-max-cred-blob-length = Μέγιστο μήκος blob διαπιστευτηρίου
 about-webauthn-auth-info-firmware-version = Έκδοση υλικολογισμικού
 about-webauthn-auth-info-min-pin-length = Ελάχιστο μήκος PIN
 about-webauthn-auth-info-force-pin-change = Αναγκαστική αλλαγή PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Μέγιστο μέγεθος πίνακα large blob
 about-webauthn-auth-info-algorithms = Αλγόριθμοι
 about-webauthn-auth-info-transports = Μεταφορές
 about-webauthn-auth-info-max-credential-id-length = Μέγιστο μήκος αναγνωριστικού διαπιστευτηρίου
