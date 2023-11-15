@@ -210,6 +210,7 @@ cfr-cbh-confirm-button = Plackowe chorhoje wotpokazać
     .accesskey = P
 cfr-cbh-dismiss-button = Nic nětko
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } je runje placki za was zablokował
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
