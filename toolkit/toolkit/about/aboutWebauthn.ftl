@@ -58,10 +58,37 @@ about-webauthn-credential-list-empty = לא נמצאו אישורים במכשי
 
 about-webauthn-current-set-pin-button = הגדרת PIN
 about-webauthn-current-change-pin-button = שינוי PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = הצגת רשימת אישורים
+about-webauthn-cancel-button = ביטול
+about-webauthn-send-pin-button = אישור
+about-webauthn-delete-button = מחיקה
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = אימות משתמש
+about-webauthn-auth-option-up = נוכחות משתמש
+about-webauthn-auth-option-clientpin = PIN‏ של לקוח
+about-webauthn-auth-option-rk = מפתח תושב
+about-webauthn-auth-option-plat = מכשיר פלטפורמה
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = הרשאות פקודה (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = אין הרשאות MakeCredential / GetAssertion עם PIN של לקוח
+about-webauthn-auth-option-ep = אישור ארגוני
+about-webauthn-auth-option-bioenroll = רישום ביומטרי
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = אב טיפוס של רישום ביומטרי (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = הרשאת רישום ביומטרי
+about-webauthn-auth-option-authnrcfg = תצורת הגורם המאמת
+about-webauthn-auth-option-uvacfg = הרשאת תצורת הגורם המאמת
+about-webauthn-auth-option-credmgmt = ניהול אישורים
+about-webauthn-auth-option-credentialmgmtpreview = ניהול אישורי אב טיפוס
+about-webauthn-auth-option-setminpinlength = הגדרת אורך PIN מינימלי
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential‏ ללא אימות משתמש
+about-webauthn-auth-option-alwaysuv = תמיד לדרוש אימות משתמש
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
