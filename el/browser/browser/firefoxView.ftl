@@ -155,7 +155,7 @@ firefoxview-search-text-box-history =
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
-firefoxview-search-results-header = Αποτελέσματα αναζήτησης για «%(query)s»
+firefoxview-search-results-header = Αποτελέσματα αναζήτησης για «{ $query }»
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
@@ -166,7 +166,7 @@ firefoxview-search-results-count =
 # Message displayed when a search is performed and no matching results were found.
 # Variables:
 #   $query (String) - The search query.
-firefoxview-search-results-empty = Κανένα αποτέλεσμα για «%(query)s»
+firefoxview-search-results-empty = Κανένα αποτέλεσμα για «{ $query }»
 firefoxview-sort-history-by-date-label = Ταξινόμηση κατά ημερομηνία
 firefoxview-sort-history-by-site-label = Ταξινόμηση κατά ιστότοπο
 # Variables:
