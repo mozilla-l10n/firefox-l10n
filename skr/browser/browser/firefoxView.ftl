@@ -137,6 +137,15 @@ firefoxview-opentabs-focus-tab =
     .title = ایں ٹیب تے سوئچ کرو
 firefoxview-show-more = ودھیک ݙکھاؤ
 firefoxview-show-less = گھٹ ݙکھاؤ
+firefoxview-search-text-box-clear-button =
+    .title = صاف کرو
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } سائٹ
+       *[other] { $count } سائٹاں
+    }
 firefoxview-sort-history-by-date-label = تریخ دے لحاظ نال چھانٹی کرو
 firefoxview-sort-history-by-site-label = سائٹ دے لحاظ نال چھانٹی کرو
 # Variables:
