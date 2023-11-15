@@ -216,6 +216,8 @@ cfr-cbh-confirm-button = Gwrthod baneri cwci
     .accesskey = G
 cfr-cbh-dismiss-button = Nid nawr
     .accesskey = N
+cookie-banner-blocker-cfr-header = Mae { -brand-short-name } newydd rwystro cwcis i chi
+cookie-banner-blocker-cfr-body = Rydym yn gwrthod llawer o lamlenni cwcis yn awtomatig i'w gwneud hi'n anodd i wefannau eich tracio chi.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

@@ -147,6 +147,30 @@ firefoxview-opentabs-focus-tab =
     .title = Symud i'r tab hwn
 firefoxview-show-more = Dangos rhagor
 firefoxview-show-less = Dangos llai
+firefoxview-search-text-box-clear-button =
+    .title = Clirio
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Hanes chwilio
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Canlyniadau chwilio “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [zero] { $count } gwefannau
+        [one] { $count } gwefan
+        [two] { $count } gwefan
+        [few] { $count } gwefan
+        [many] { $count } gwefan
+       *[other] { $count } gwefan
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Dim canlyniadau ar gyfer "{ $query }"
 firefoxview-sort-history-by-date-label = Trefnu yn ôl dyddiad
 firefoxview-sort-history-by-site-label = Trefnu yn ôl gwefan
 # Variables:
