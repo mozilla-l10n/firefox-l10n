@@ -154,7 +154,4 @@ css-compatibility-experimental-supported-message = <strong>{ $property }</strong
 
 css-compatibility-learn-more-message = <span data-l10n-name="link">Ulteriori informazioni</span> su <strong>{ $rootProperty }</strong>
 
-
-
-
-
+css-selector-warning-unconstrained-has = Questo selettore utilizza <strong>:has()</strong> senza vincoli e potrebbe risultare lento
