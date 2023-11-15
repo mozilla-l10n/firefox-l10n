@@ -21,9 +21,14 @@ about-webauthn-pin-required-section-title = נדרש PIN
 about-webauthn-text-connect-device = אנא לחבר אסימון אבטחה.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
 about-webauthn-text-select-device = נא לבחור את אסימון האבטחה הרצוי על־ידי נגיעה במכשיר.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = לא ניתן לנהל אפשרויות מכיוון שאסימון האבטחה שלך אינו תומך ב־CTAP2.
+about-webauthn-text-not-available = לא זמין בפלטפורמה זו.
 
 ## Results label
 
+about-webauthn-results-success = הצלחה!
+about-webauthn-results-general-error = שגיאה!
 
 ## Labels
 
