@@ -183,6 +183,7 @@ media-codec-support-codec-name = Emër Kodeku
 media-codec-support-supported = I mbuluar
 media-codec-support-unsupported = E pambuluar
 media-codec-support-error = S’ka informacion mbulimi nga kodekë. Provoni sërish, pas luajtjes së një kartele media.
+media-codec-support-lack-of-extension = Instalo zgjerimin
 
 ##
 
@@ -325,6 +326,7 @@ can-sandbox-media = Mbajtje Brenda Bankëprovës e Shtojcave Për Media
 content-sandbox-level = Shkallë Mbajtjeje Brenda Bankëprovës e Proceseve të Lëndës
 effective-content-sandbox-level = Shkallë Efektive Mbajtjeje Brenda Bankëprovës e Proceseve të Lëndës
 content-win32k-lockdown-state = Gjendje “Win32k Lockdown” për Proces Lënde
+support-sandbox-gpu-level = Shkallë Mbajtjeje Brenda Bankëprovës e Proceseve GPU
 sandbox-proc-type-content = lëndë
 sandbox-proc-type-file = lëndë kartele
 sandbox-proc-type-media-plugin = shtojcë mediash
