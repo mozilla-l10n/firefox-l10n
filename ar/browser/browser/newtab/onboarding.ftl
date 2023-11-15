@@ -119,6 +119,7 @@ mr2-onboarding-start-browsing-button-label = ابدأ التصفح
 ##   $appLanguage (String) - The name of the language shipping in the browser build, e.g. "English (EN)"
 
 mr2022-language-mismatch-subtitle = بفضل مجتمعنا، ترجمت { -brand-short-name } بأكثر من 90 لغة. يبدو أن نظامك يستخدم { $systemLanguage }، و { -brand-short-name } يستخدم { $appLanguage }.
+mr2022-onboarding-live-language-continue-in = واصِل في { $appLanguage }
 
 ## Firefox 100 Thank You screens
 
@@ -131,6 +132,8 @@ fx100-upgrade-thanks-keep-body = هذا الإصدار  رفم 100! شكرا ل�
 
 ## MR2022 New User Easy Setup screen strings
 
+# Primary button string used on new user onboarding first screen showing multiple actions such as Set Default, Import from previous browser.
+mr2022-onboarding-easy-setup-primary-button-label = احفظ و واصِل
 
 ## MR2022 New User Pin Firefox screen strings
 
@@ -179,7 +182,7 @@ mr2022-onboarding-import-primary-button-label-no-attribution = استورِده�
 
 mr2022-onboarding-colorway-title = اختر اللون الذي يلهمك
 mr2022-onboarding-colorway-subtitle = يمكن للأصوات المستقلة أن تغير الثقافة.
-mr2022-onboarding-colorway-primary-button-label-continue = حدد وتابع
+mr2022-onboarding-colorway-primary-button-label-continue = حدد و واصِل
 mr2022-onboarding-colorway-label-default = الافتراضي
 mr2022-onboarding-colorway-tooltip-default2 =
     .title = ألوان { -brand-short-name } الحالية

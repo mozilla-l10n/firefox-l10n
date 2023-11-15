@@ -29,7 +29,8 @@ migration-imported-edge-reading-list = قائمة القراءة (من إدج)
 ## In practice, this tends to only occur on Linux when Firefox
 ## is installed as a Snap.
 
-migration-no-permissions-instructions-step1 = اختر "تابع"
+migration-no-permissions-instructions = لمواصلة إستيراد البيانات من متصفح آخر، امنح { -brand-short-name } الوصول إلى مجلّد الملفّ الشّخصي.
+migration-no-permissions-instructions-step1 = اختر "واصِل"
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -130,3 +131,4 @@ migration-wizard-progress-extensions-addons-link = تصفح الامتدادات
 ##
 
 migration-wizard-progress-success-formdata = تأريخ الاستمارات
+migration-wizard-safari-instructions-continue = اختر "واصِل"
