@@ -172,6 +172,7 @@ media-codec-support-codec-name = שם קודק
 media-codec-support-supported = נתמך
 media-codec-support-unsupported = לא נתמך
 media-codec-support-error = מידע תמיכה במקודדים אינו זמין. יש לנסות שוב לאחר הפעלת קובץ מדיה.
+media-codec-support-lack-of-extension = התקנת הרחבה
 
 ##
 

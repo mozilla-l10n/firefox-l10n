@@ -89,7 +89,20 @@ about-webauthn-auth-option-setminpinlength = הגדרת אורך PIN מינימ�
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential‏ ללא אימות משתמש
 about-webauthn-auth-option-alwaysuv = תמיד לדרוש אימות משתמש
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = לא נתמך
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = פקודות תצורה של אב טיפוס של ספק
+about-webauthn-auth-info-certifications = הסמכות
+about-webauthn-auth-info-firmware-version = גרסת קושחה
+about-webauthn-auth-info-min-pin-length = אורך PIN מינימלי
+about-webauthn-auth-info-force-pin-change = כפיית שינוי PIN
+about-webauthn-auth-info-algorithms = אלגוריתמים
+about-webauthn-auth-info-max-credential-id-length = אורך מזהה אישור מקסימלי
