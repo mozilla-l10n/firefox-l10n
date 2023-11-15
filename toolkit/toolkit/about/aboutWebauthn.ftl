@@ -64,7 +64,30 @@ about-webauthn-delete-button = 刪除
 about-webauthn-auth-option-uv = 使用者驗證
 about-webauthn-auth-option-up = 使用者存在
 about-webauthn-auth-option-clientpin = 客戶端 PIN 碼
+about-webauthn-auth-option-rk = Resident key
+about-webauthn-auth-option-plat = 平台裝置
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = 指令權限（pinUvAuthToken）
+about-webauthn-auth-option-ep = 企業證明
+about-webauthn-auth-option-bioenroll = 登記生物識別資訊
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = 生物識別資訊原型（FIDO_2_1_PRE）
+about-webauthn-auth-option-uvbioenroll = 生物識別資訊註冊權限
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = 不支援
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = 憑證
+about-webauthn-auth-info-extensions = 延伸資訊
+about-webauthn-auth-info-versions = 版本
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = 不支援
