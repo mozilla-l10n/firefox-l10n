@@ -1007,9 +1007,6 @@ addressbar-locbar-engines-option =
 addressbar-locbar-quickactions-option =
     .label = إجراءات سريعة
     .accesskey = س
-addressbar-locbar-recentsearches-option =
-    .label = عمليات البحث الحديثة
-    .accesskey = م
 addressbar-suggestions-settings = غيّر تفضيلات اقتراحات محرّك البحث
 addressbar-quickactions-learn-more = اطّلع على المزيد
 
@@ -1129,6 +1126,12 @@ permissions-autoplay-settings =
 permissions-block-popups =
     .label = احجب النوافذ المنبثقة
     .accesskey = ذ
+# "popup" is a misspelling that is more popular than the correct spelling of
+# "pop-up" so it's included as a search keyword, not displayed in the UI.
+permissions-block-popups-exceptions-button =
+    .label = الاستثناءات…
+    .accesskey = س
+    .searchkeywords = popups
 permissions-addon-install-warning =
     .label = حذّرني عندما يحاول موقع وِب تنصيب إضافات
     .accesskey = ح
@@ -1218,11 +1221,18 @@ httpsonly-radio-disabled =
 ## DoH Section
 
 preferences-doh-header = DNS عبر HTTPS
+preferences-doh-description = يرسل نظام اسم المجال (DNS) عبر HTTPS طلبك للحصول على اسم المجال من خلال اتصال مُعمّى، مما يؤدي إلى إنشاء DNS آمن ويجعل من الصعب على الآخرين معرفة موقع الوب الذي أنت على وشك الوصول إليه.
+preferences-doh-group-message = تفعيل DNS الآمن باستخدام:
+preferences-doh-default-desc = يقرر { -brand-short-name } متى يستخدم DNS آمن لحماية خصوصيتك.
 preferences-doh-setting-enabled =
     .label = حماية متزايدة
     .accesskey = ة
 preferences-doh-strict-desc = سيستخدم { -brand-short-name } دائما DNS آمن. سترى تحذير خطر أمني قبل أن نستخدم نظام DNS الخاص بك.
 preferences-doh-strict-detailed-desc-2 = حذر دائما إذا كان DNS الآمن غير متاح
+preferences-doh-exceptions-description = لن يستخدم { -brand-short-name } DNS الآمن على هذه المواقع
+preferences-doh-manage-exceptions =
+    .label = أدِر الاستثناءات…
+    .accesskey = ل
 
 ## The following strings are used in the Download section of settings
 
