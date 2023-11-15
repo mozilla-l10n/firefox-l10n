@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-migration-wizard-selection-header = استيراد بيانات المتصفح
+migration-wizard-selection-header = استورِد بيانات المتصفح
 migration-wizard-selection-list = حدد البيانات التي تريد إستيرادها.
 # Shown in the new migration wizard's dropdown selector for choosing the browser
 # to import from. This variant is shown when the selected browser doesn't support
@@ -60,7 +60,7 @@ migration-no-permissions-instructions-step1 = اختر "واصِل"
 #
 # Variables:
 #  $permissionsPath (String): the file system path that the user will need to grant read permission to.
-migration-no-permissions-instructions-step2 = في منتقي الملفات، انتقل إلى <code>{ $permissionsPath } </code> واختر"أختر"
+migration-no-permissions-instructions-step2 = في منتقي الملفات، انتقل إلى <code>{ $permissionsPath } </code> واختر “أختر”
 
 ## These strings will be displayed based on how many resources are selected to import
 
@@ -75,16 +75,21 @@ migration-bookmarks-option-label = العلامات
 # Favorites is used for Bookmarks when importing from Internet Explorer or
 # Edge, as this is the terminology for bookmarks on those browsers.
 migration-favorites-option-label = المفضّلة
+migration-logins-and-passwords-option-label = جلسات الولوج وكلمات السر المحفوظة
 migration-history-option-label = تأريخ التصفح
 migration-extensions-option-label = الامتدادات
+migration-form-autofill-option-label = بيانات الملء الآلي للاستمارات
 migration-payment-methods-option-label = طرق الدفع
 migration-cookies-option-label = الكعكات
 migration-session-option-label = النوافذ والألسنة
 migration-otherdata-option-label = بيانات أخرى
 migration-passwords-from-file-progress-header = استورد ملف كلمات السر
 migration-passwords-from-file-success-header = استوردت كلمات السر بنجاح
+migration-passwords-from-file = يجري التماس الملف لكلمات السر
 migration-passwords-new = كلمات السر الجديدة
 migration-passwords-updated = كلمات السر الموجودة
+migration-passwords-from-file-no-valid-data = لا يحتوي الملف على أي بيانات صحيحة لكلمة السر. أختر ملفا آخر.
+migration-passwords-from-file-picker-title = استورد ملف كلمات السر
 # A description for the .csv file format that may be shown as the file type
 # filter by the operating system.
 migration-passwords-from-file-csv-filter-title =
@@ -127,6 +132,7 @@ migration-list-favorites-label = المفضّلة
 migration-list-password-label = كلمات السر
 migration-list-history-label = التأريخ
 migration-list-extensions-label = الامتدادات
+migration-list-autofill-label = بيانات الملء الآلي
 migration-list-payment-methods-label = طرق الدفع
 
 ##
