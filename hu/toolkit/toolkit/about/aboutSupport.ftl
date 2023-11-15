@@ -185,6 +185,7 @@ media-codec-support-codec-name = Kodeknév
 media-codec-support-supported = Támogatott
 media-codec-support-unsupported = Nem támogatott
 media-codec-support-error = A kodek támogatási információi nem érhetőek el. Próbálja újra egy médiafájl lejátszása után.
+media-codec-support-lack-of-extension = Kiegészítő telepítése
 
 ##
 
