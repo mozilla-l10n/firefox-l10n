@@ -147,6 +147,22 @@ firefoxview-opentabs-focus-tab =
     .title = 切換至此分頁
 firefoxview-show-more = 顯示更多
 firefoxview-show-less = 顯示更少
+firefoxview-search-text-box-clear-button =
+    .title = 清除
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = 搜尋紀錄
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = 「{ $query }」的搜尋結果
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count = { $count } 個網站
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = 沒有「{ $query }」的搜尋結果
 firefoxview-sort-history-by-date-label = 依照日期排序
 firefoxview-sort-history-by-site-label = 依照網站排序
 # Variables:
