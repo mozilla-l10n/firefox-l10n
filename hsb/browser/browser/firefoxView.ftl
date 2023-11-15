@@ -147,6 +147,11 @@ firefoxview-opentabs-focus-tab =
     .title = K tutomu rajtarkej přeńć
 firefoxview-show-more = Wjace pokazać
 firefoxview-show-less = Mjenje pokazać
+firefoxview-search-text-box-clear-button =
+    .title = Zhašeć
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Historiju přepytać
 firefoxview-sort-history-by-date-label = Po datumje sortěrować
 firefoxview-sort-history-by-site-label = Po sydle sortěrować
 # Variables:
@@ -206,9 +211,6 @@ firefoxview-import-history-description = Čińće { -brand-short-name } k swojem
 firefoxview-recentlyclosed-empty-header = Rajtark je so přezahe začinił?
 firefoxview-recentlyclosed-empty-description = Tu namakaće rajtarki, kotrež sće njedawno začinił, zo byšće móhł je spěšnje zaso wočinić.
 firefoxview-recentlyclosed-empty-description-two = Zo byšće starše rajtarki namakał, hladajće do <a data-l10n-name="history-url">přehladowanskeje historije</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
