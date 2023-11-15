@@ -68,6 +68,8 @@ about-webauthn-auth-option-rk = Resident key
 about-webauthn-auth-option-plat = 平台裝置
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = 指令權限（pinUvAuthToken）
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = 客戶端 PIN 碼沒有 MakeCredential / GetAssertion 權限
 about-webauthn-auth-option-largeblobs = 大型 blob
 about-webauthn-auth-option-ep = 企業證明
 about-webauthn-auth-option-bioenroll = 登記生物識別資訊
@@ -91,7 +93,11 @@ about-webauthn-auth-option-null = 不支援
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-remaining-discoverable-credentials = 剩餘可探索的登入資訊
 about-webauthn-auth-info-certifications = 憑證
+about-webauthn-auth-info-uv-modality = 使用者驗證 modality
+about-webauthn-auth-info-preferred-platform-uv-attempts = 偏好的平台使用者驗證方式
+about-webauthn-auth-info-max-rpids-for-set-min-pin-length = 設定 PIN 碼最小長度的最大可信任單位 ID
 about-webauthn-auth-info-max-cred-blob-length = 最大登入資訊 blob 長度
 about-webauthn-auth-info-firmware-version = 韌體版本
 about-webauthn-auth-info-min-pin-length = 最小 PIN 碼長度
