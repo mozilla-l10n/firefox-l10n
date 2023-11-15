@@ -185,6 +185,7 @@ media-codec-support-codec-name = Enw Codec
 media-codec-support-supported = Cefnogaeth
 media-codec-support-unsupported = Heb eu Cynnal
 media-codec-support-error = Nid yw manylion cymorth codec ar gael. Ceisiwch eto ar ôl chwarae ffeil cyfryngau.
+media-codec-support-lack-of-extension = Gosod estyniad
 
 ##
 
