@@ -74,6 +74,7 @@ about-webauthn-auth-option-clientpin = PIN Klienti
 about-webauthn-auth-option-pinuvauthtoken = Leje urdhrash (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Pa leje MakeCredential / GetAssertion me PIN klienti
+about-webauthn-auth-option-largeblobs = Copa të mëdha
 about-webauthn-auth-option-authnrcfg = Formësim mirëfilltësuesi
 about-webauthn-auth-option-uvacfg = Leje formësimi mirëfilltësuesi
 about-webauthn-auth-option-credmgmt = Administrim kredencialesh
@@ -90,10 +91,12 @@ about-webauthn-auth-option-null = E pambuluar
 about-webauthn-auth-info-certifications = Dëshmi
 about-webauthn-auth-info-uv-modality = Mënyrë verifikimi përdoruesi
 about-webauthn-auth-info-preferred-platform-uv-attempts = Përpjekje verifikimi përdoruesi në platformën e parapëlqyer
+about-webauthn-auth-info-firmware-version = Version firmware-i
 about-webauthn-auth-info-min-pin-length = Gjatësi minimum PIN-i
 about-webauthn-auth-info-force-pin-change = Detyro ndryshim PIN-i
 about-webauthn-auth-info-algorithms = Algoritme
 about-webauthn-auth-info-transports = Transporte
+about-webauthn-auth-info-max-credential-count-in-list = Numër maksimum kredencialesh në listë
 about-webauthn-auth-info-pin-protocols = Protokolle PIN-i
 about-webauthn-auth-info-max-msg-size = Madhësi maksimum mesazhesh
 # AAGUID should not be translated.
