@@ -12,12 +12,30 @@ about-webauthn-page-title = Wo WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Gratowe informacije
+about-webauthn-info-subsection-title = Informacije awtentifikowarja
+about-webauthn-options-subsection-title = Nastajenja awtentifikowarja
+about-webauthn-pin-section-title = Rjadowanje PIN
+about-webauthn-credential-management-section-title = Přizjewjenske daty rjadować
+about-webauthn-pin-required-section-title = PIN trěbny
 
 ## Info field texts
 
+about-webauthn-text-not-available = Njeje na tutej platformje k dispoziciji
 
 ## Results label
 
+about-webauthn-results-success = Je so poradźiło!
+about-webauthn-results-general-error = Zmylk!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Zmylk: Wopačny PIN. Spytajće hišće raz.
+        [one] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospyt.
+        [two] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospytaj.
+        [few] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospyty.
+       *[other] Zmylk: Wopačny PIN. Spytajće hišće raz. Maće hišće { $retriesLeft } pospytow.
+    }
 
 ## Labels
 
