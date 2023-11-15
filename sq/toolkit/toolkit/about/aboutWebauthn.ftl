@@ -70,15 +70,26 @@ about-webauthn-delete-button = Fshije
 about-webauthn-auth-option-uv = Verifikim përdoruesi
 about-webauthn-auth-option-up = Prani përdoruesi
 about-webauthn-auth-option-clientpin = PIN Klienti
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Leje urdhrash (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Pa leje MakeCredential / GetAssertion me PIN klienti
 about-webauthn-auth-option-authnrcfg = Formësim mirëfilltësuesi
 about-webauthn-auth-option-uvacfg = Leje formësimi mirëfilltësuesi
 about-webauthn-auth-option-credmgmt = Administrim kredencialesh
+about-webauthn-auth-option-setminpinlength = Caktoni gjatësi minimum PIN-i
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential pa verifikim përdoruesi
+about-webauthn-auth-option-alwaysuv = Kërko përherë verifikim përdoruesi
 # If the value is missing (null), it means a certain feature is not supported.
 about-webauthn-auth-option-null = E pambuluar
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Dëshmi
+about-webauthn-auth-info-uv-modality = Mënyrë verifikimi përdoruesi
+about-webauthn-auth-info-preferred-platform-uv-attempts = Përpjekje verifikimi përdoruesi në platformën e parapëlqyer
 about-webauthn-auth-info-min-pin-length = Gjatësi minimum PIN-i
 about-webauthn-auth-info-force-pin-change = Detyro ndryshim PIN-i
 about-webauthn-auth-info-algorithms = Algoritme
