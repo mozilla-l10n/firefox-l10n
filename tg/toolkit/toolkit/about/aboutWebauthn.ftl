@@ -12,6 +12,9 @@ about-webauthn-page-title = Дар бораи «WebAuthn»
 ## Section titles
 
 about-webauthn-info-section-title = Маълумот дар бораи дастгоҳ
+about-webauthn-pin-section-title = Идоракунии рамзҳои PIN
+about-webauthn-credential-management-section-title = Идоракунии маълумоти корбар
+about-webauthn-pin-required-section-title = Рамзи PIN ҳатмӣ аст
 
 ## Info field texts
 
@@ -23,9 +26,13 @@ about-webauthn-results-general-error = Хато!
 
 ## Labels
 
+about-webauthn-credential-list-subsection-title = Маълумоти корбар:
+about-webauthn-credential-list-empty = Ягон маълумоти корбар дар ин дастгоҳ ёфт нашуд.
 
 ## Buttons
 
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Рӯйхати маълумоти корбарон
 about-webauthn-cancel-button = Бекор кардан
 about-webauthn-send-pin-button = ХУБ
 about-webauthn-delete-button = Нест кардан

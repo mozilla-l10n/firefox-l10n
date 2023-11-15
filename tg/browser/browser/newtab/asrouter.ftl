@@ -203,6 +203,7 @@ cfr-cbh-confirm-button = Рад кардани баннерҳои куки
     .accesskey = Р
 cfr-cbh-dismiss-button = Ҳоло не
     .accesskey = Ҳ
+cookie-banner-blocker-cfr-header = «{ -brand-short-name }» дар ҳоли ҳозир барои шумо кукиҳоро манъ кард
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
