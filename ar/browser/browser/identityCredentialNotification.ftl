@@ -15,4 +15,7 @@
 identity-credential-header-accounts = لج باستخدام { $provider }
 identity-credential-urlbar-anchor =
     .tooltiptext = افتح لوحة الولوج
+identity-credential-accept-button =
+    .label = واصِل
+    .accesskey = و
 identity-credential-policy-title = استخدم { $provider } كمزود ولوج
