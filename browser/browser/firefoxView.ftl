@@ -2,8 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+firefoxview-tabpickup-step-signin-primarybutton = واصِل
 firefoxview-syncedtabs-signin-header = اسحب الألسنة من أي مكان
 firefoxview-syncedtabs-signin-primarybutton = لج أو سجل حسابًا
+firefoxview-tabpickup-sync-disconnected-header = فعل المزامنة للمتابعة
 firefoxview-closed-tabs-title = المُغلقة حديثًا
 firefoxview-closed-tabs-description2 = أعِد فتح الصفحات التي أغلقتها في هذه النافذة.
 firefoxview-closed-tabs-placeholder-header = لا ألسنةً مغلقةً حديثًا
