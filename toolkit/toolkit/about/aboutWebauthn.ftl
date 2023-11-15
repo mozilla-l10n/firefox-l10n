@@ -106,3 +106,15 @@ about-webauthn-auth-info-min-pin-length = אורך PIN מינימלי
 about-webauthn-auth-info-force-pin-change = כפיית שינוי PIN
 about-webauthn-auth-info-algorithms = אלגוריתמים
 about-webauthn-auth-info-max-credential-id-length = אורך מזהה אישור מקסימלי
+about-webauthn-auth-info-max-credential-count-in-list = ספירת אישורים מקסימלית ברשימה
+about-webauthn-auth-info-pin-protocols = פרוטוקולי PIN
+about-webauthn-auth-info-max-msg-size = גודל הודעה מקסימלי
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = הרחבות
+about-webauthn-auth-info-versions = גרסאות
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = לא נתמך
