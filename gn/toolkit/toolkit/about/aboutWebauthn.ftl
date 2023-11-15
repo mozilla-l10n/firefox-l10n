@@ -25,7 +25,9 @@ about-webauthn-results-general-error = ¡Javy!
 ## Labels
 
 about-webauthn-new-pin-label = PIN pyahu:
+about-webauthn-repeat-pin-label = Ehai PIN pyahu:
 about-webauthn-current-pin-label = PIN ag̃agua:
+about-webauthn-pin-required-label = Emoinge pe PIN:
 
 ## Buttons
 
