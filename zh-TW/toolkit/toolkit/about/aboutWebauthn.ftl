@@ -68,11 +68,19 @@ about-webauthn-auth-option-rk = Resident key
 about-webauthn-auth-option-plat = 平台裝置
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = 指令權限（pinUvAuthToken）
+about-webauthn-auth-option-largeblobs = 大型 blob
 about-webauthn-auth-option-ep = 企業證明
 about-webauthn-auth-option-bioenroll = 登記生物識別資訊
 # FIDO_2_1_PRE should not be translated.
 about-webauthn-auth-option-userverificationmgmtpreview = 生物識別資訊原型（FIDO_2_1_PRE）
 about-webauthn-auth-option-uvbioenroll = 生物識別資訊註冊權限
+about-webauthn-auth-option-authnrcfg = 驗證器設定
+about-webauthn-auth-option-uvacfg = 驗證器設定權限
+about-webauthn-auth-option-credmgmt = 登入資訊管理
+about-webauthn-auth-option-setminpinlength = 設定最小 PIN 碼長度
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = 無須使用者驗證的 MakeCredential
+about-webauthn-auth-option-alwaysuv = 總是要求使用者驗證
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = True
 # Shows when boolean value of an option is False. False should not be translated.
@@ -84,6 +92,19 @@ about-webauthn-auth-option-null = 不支援
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = 憑證
+about-webauthn-auth-info-max-cred-blob-length = 最大登入資訊 blob 長度
+about-webauthn-auth-info-firmware-version = 韌體版本
+about-webauthn-auth-info-min-pin-length = 最小 PIN 碼長度
+about-webauthn-auth-info-force-pin-change = 強制變更 PIN 碼
+about-webauthn-auth-info-max-ser-large-blob-array = 大型 blob 陣列的最大大小
+about-webauthn-auth-info-algorithms = 演算法
+about-webauthn-auth-info-transports = 傳輸方式
+about-webauthn-auth-info-max-credential-id-length = 最大登入資訊 ID 長度
+about-webauthn-auth-info-max-credential-count-in-list = 清單中的最大登入資訊數量
+about-webauthn-auth-info-pin-protocols = PIN 通訊協定
+about-webauthn-auth-info-max-msg-size = 最大訊息大小
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = 延伸資訊
 about-webauthn-auth-info-versions = 版本
 # Shows when boolean value for an info field is True. True should not be translated.
