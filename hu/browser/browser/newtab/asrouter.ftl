@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = Sütibannerek elutasítása
     .accesskey = u
 cfr-cbh-dismiss-button = Most nem
     .accesskey = n
+cookie-banner-blocker-cfr-header = A { -brand-short-name } épp most blokkolta a sütiket
+cookie-banner-blocker-cfr-body = Számos felugró sütikérést automatikusan elutasítunk, hogy a webhelyek nehezen tudják követni Önt.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
