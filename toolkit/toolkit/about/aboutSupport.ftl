@@ -185,6 +185,7 @@ media-codec-support-codec-name = 코덱 이름
 media-codec-support-supported = 지원됨
 media-codec-support-unsupported = 지원 안 됨
 media-codec-support-error = 코덱 지원 정보를 사용할 수 없습니다. 미디어 파일 재생 후 다시 시도하세요.
+media-codec-support-lack-of-extension = 확장 기능 설치
 
 ##
 
