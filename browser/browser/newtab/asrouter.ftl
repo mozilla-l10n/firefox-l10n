@@ -202,6 +202,7 @@ cfr-cbh-confirm-button = 쿠키 배너 거부
 cfr-cbh-dismiss-button = 나중에
     .accesskey = N
 cookie-banner-blocker-cfr-header = { -brand-short-name }가 쿠키를 차단했습니다.
+cookie-banner-blocker-cfr-body = 사이트에서 사용자를 추적하기 어렵게 하기 위해 자동으로 많은 쿠키 팝업을 거부합니다.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
