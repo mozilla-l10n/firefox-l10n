@@ -40,16 +40,36 @@ about-webauthn-results-pin-invalid-error =
        *[other] Hiba: helytelen PIN-kód. Próbálja újra. Még { $retriesLeft } próbálkozása van hátra.
     }
 about-webauthn-results-pin-blocked-error = Hiba: már nincs több próbálkozás, és az eszköz zárolva lett, mert túl sokszor adott meg hibás PIN-kódot. Az eszköz alaphelyzetbe állítása szükséges.
+about-webauthn-results-pin-too-short-error = Hiba: A megadott PIN túl rövid.
+about-webauthn-results-pin-too-long-error = Hiba: A megadott PIN túl hosszú.
+about-webauthn-results-pin-auth-blocked-error = Hiba: túl sok sikertelen próbálkozás volt egymás után, és a PIN-hitelesítés átmenetileg le lett tiltva. Húzza ki az eszközét, majd csatlakoztassa újra.
+about-webauthn-results-cancelled-by-user-error = Hiba: a műveletet a felhasználó megszakította.
 
 ## Labels
 
+about-webauthn-new-pin-label = Új PIN:
+about-webauthn-repeat-pin-label = Új PIN megismétlése:
+about-webauthn-current-pin-label = Jelenlegi PIN:
+about-webauthn-pin-required-label = Adja meg a PIN-kódját:
+about-webauthn-credential-list-subsection-title = Hitelesítő adatok:
+about-webauthn-credential-list-empty = Nem találhatók hitelesítő adatok az eszközön.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = PIN beállítása
+about-webauthn-current-change-pin-button = PIN módosítása
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Hitelesítő adatok felsorolása
+about-webauthn-cancel-button = Mégse
+about-webauthn-send-pin-button = OK
+about-webauthn-delete-button = Törlés
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Felhasználó ellenőrzése
+about-webauthn-auth-option-up = Felhasználói jelenlét
+about-webauthn-auth-option-clientpin = PIN-kód beállítása
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
