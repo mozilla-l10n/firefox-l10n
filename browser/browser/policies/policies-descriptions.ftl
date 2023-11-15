@@ -56,6 +56,7 @@ policy-DownloadDirectory = ضبط وقفل دليل التنزيل.
 policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتوى وقفل الخيار إن لزم.
 # “lock” means that the user won’t be able to change this setting
 policy-EncryptedMediaExtensions = تفعيل أو تعطيل امتدادات الوسائط المعمّاة وقفل الخيار إن لزم.
+policy-ExemptDomainFileTypePairsFromFileTypeDownloadWarnings = تعطيل التحذيرات التي تعتمد على امتداد الملف لأنواع معينة من الملفات في النطاقات.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
