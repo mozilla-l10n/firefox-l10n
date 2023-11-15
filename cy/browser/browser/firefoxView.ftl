@@ -162,7 +162,7 @@ firefoxview-search-results-count =
     { $count ->
         [zero] { $count } gwefannau
         [one] { $count } gwefan
-        [two] { $count } gwefan
+        [two] { $count } wefan
         [few] { $count } gwefan
         [many] { $count } gwefan
        *[other] { $count } gwefan

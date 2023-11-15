@@ -22,10 +22,10 @@ about-webauthn-pin-required-section-title = Mae angen PIN
 
 about-webauthn-text-connect-device = Cysylltwch docyn diogelwch.
 # If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
-about-webauthn-text-select-device = Dewiswch eich tocyn diogelwch dewisol trwy gyffwrdd â'r ddyfais.
+about-webauthn-text-select-device = Dewiswch eich tocyn diogelwch o'ch dewis trwy gyffwrdd â'r ddyfais.
 # CTAP2 refers to Client to Authenticator Protocol version 2
 about-webauthn-text-non-ctap2-device = Methu â rheoli'r dewisiadau oherwydd nad yw eich tocyn diogelwch yn cefnogi CTAP2.
-about-webauthn-text-not-available = Ddim ar gael ar y platfform hwn.
+about-webauthn-text-not-available = Nid yw ar gael ar y platfform hwn.
 
 ## Results label
 
@@ -36,18 +36,18 @@ about-webauthn-results-general-error = Gwall!
 about-webauthn-results-pin-invalid-error =
     { $retriesLeft ->
         [0] Gwall: PIN anghywir. Ceisiwch eto.
-        [zero] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych { $retriesLeft } cais ar ôl.
+        [zero] Gwall: PIN anghywir. Ceisiwch eto. Nid oes gennych unrhyw geisiadau ar ôl.
         [one] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych un cais ar ôl.
         [two] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych { $retriesLeft } gais ar ôl.
         [few] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych { $retriesLeft } chais ar ôl.
         [many] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych { $retriesLeft } chais ar ôl.
        *[other] Gwall: PIN anghywir. Ceisiwch eto. Mae gennych { $retriesLeft } cais ar ôl.
     }
-about-webauthn-results-pin-blocked-error = Gwall: Nid oes unrhyw geisiadau ar ôl ac mae'ch dyfais wedi'i chloi, oherwydd darparwyd y PIN anghywir gormod o weithiau. Mae angen ailosodiad ar y ddyfais.
+about-webauthn-results-pin-blocked-error = Gwall: Nid oes unrhyw geisiadau ar ôl ac mae'ch dyfais wedi'i chloi, oherwydd cyflwynwyd y PIN anghywir gormod o weithiau. Mae angen ailosod y ddyfais.
 about-webauthn-results-pin-too-short-error = Gwall: Mae'r PIN hwn yn rhy fyr.
 about-webauthn-results-pin-too-long-error = Gwall: Mae'r PIN hwn yn rhy hir.
-about-webauthn-results-pin-auth-blocked-error = Gwall: Roedd gormod o geisiadau wedi methu yn olynol ac mae dilysu PIN wedi'i rwystro dros dro. Mae angen cylchred pŵer ar eich dyfais (dad-blygio ac ail-blygio).
-about-webauthn-results-cancelled-by-user-error = Gwall: Mae gweithrediad wedi'i ddiddymu gan y defnyddiwr.
+about-webauthn-results-pin-auth-blocked-error = Gwall: Bu gormod o geisiadau wedi methu yn olynol ac mae dilysu PIN wedi'i rwystro dros dro. Mae angen cylchred pŵer ar eich dyfais (dad-blygio ac ail-blygio).
+about-webauthn-results-cancelled-by-user-error = Gwall: Mae'r gweithrediad wedi'i ddiddymu gan y defnyddiwr.
 
 ## Labels
 
@@ -63,7 +63,7 @@ about-webauthn-credential-list-empty = Dim manylion adnabod ar y ddyfais.
 about-webauthn-current-set-pin-button = Gosod PIN
 about-webauthn-current-change-pin-button = Newid PIN
 # List is a verb, as in "Show list of credentials"
-about-webauthn-list-credentials-button = Rhestru'r manylion
+about-webauthn-list-credentials-button = Rhestru'r manylion personol
 about-webauthn-cancel-button = Diddymu
 about-webauthn-send-pin-button = Iawn
 about-webauthn-delete-button = Dileu
@@ -110,3 +110,23 @@ about-webauthn-auth-info-certifications = Ardystiadau
 about-webauthn-auth-info-uv-modality = Moddion dilysu defnyddwyr
 about-webauthn-auth-info-preferred-platform-uv-attempts = Ymdrechion dilysu dewis platfform y defnyddiwr
 about-webauthn-auth-info-max-rpids-for-set-min-pin-length = IDau partïon mwyaf ar gyfer isafswm hyd PIN penodol
+about-webauthn-auth-info-max-cred-blob-length = Uchafswm hyd blob manylion personol
+about-webauthn-auth-info-firmware-version = Fersiwn cadarnwedd
+about-webauthn-auth-info-min-pin-length = Hyd lleiaf PIN
+about-webauthn-auth-info-force-pin-change = Gorfodi newid PIN
+about-webauthn-auth-info-max-ser-large-blob-array = Maint mwyaf arae blob mawr
+about-webauthn-auth-info-algorithms = Algorithmau
+about-webauthn-auth-info-transports = Cludiant
+about-webauthn-auth-info-max-credential-id-length = Uchafswm hyd ID manylion personol
+about-webauthn-auth-info-max-credential-count-in-list = Uchafswm y cyfrif manylion personol yn y rhestr
+about-webauthn-auth-info-pin-protocols = Protocolau PINiau
+about-webauthn-auth-info-max-msg-size = Uchafswm maint y neges
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Estyniadau
+about-webauthn-auth-info-versions = Fersiynau
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Heb ei gefnogi
