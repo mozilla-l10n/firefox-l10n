@@ -85,7 +85,38 @@ about-webauthn-auth-option-authnrcfg = Configuración de autenticador
 about-webauthn-auth-option-uvacfg = Permiso de configuración de autenticador
 about-webauthn-auth-option-credmgmt = Administrador de credenciales
 about-webauthn-auth-option-credentialmgmtpreview = Administrador de credenciales de prototipo
+about-webauthn-auth-option-setminpinlength = Establecer longitud mínima del PIN
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = MakeCredential sin verificación de usuario
+about-webauthn-auth-option-alwaysuv = Siempre pedir verificación de usuario
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = No soportado
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Comandos de configuración del prototipo del proveedor
+about-webauthn-auth-info-remaining-discoverable-credentials = Credenciales detectables restantes
+about-webauthn-auth-info-certifications = Certificaciones
+about-webauthn-auth-info-uv-modality = Modalidad de verificación de usuario
+about-webauthn-auth-info-preferred-platform-uv-attempts = Intentos de verificación de usuario de plataforma preferida
+about-webauthn-auth-info-firmware-version = Versión de firmware
+about-webauthn-auth-info-min-pin-length = Longitud mínima de PIN
+about-webauthn-auth-info-force-pin-change = Forzar cambio de PIN
+about-webauthn-auth-info-algorithms = Algoritmos
+about-webauthn-auth-info-transports = Transportes
+about-webauthn-auth-info-pin-protocols = Protocolos de PIN
+about-webauthn-auth-info-max-msg-size = Tamaño máximo de mensaje
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Extensiones
+about-webauthn-auth-info-versions = Versiones
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = No soportado
