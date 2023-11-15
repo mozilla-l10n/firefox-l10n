@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = Hafna vefkökuborðum
     .accesskey = r
 cfr-cbh-dismiss-button = Ekki núna
     .accesskey = n
+cookie-banner-blocker-cfr-header = { -brand-short-name } var að loka á vefkökur fyrir þig
+cookie-banner-blocker-cfr-body = Við höfnum sjálfkrafa mörgum vefkökugluggum til að gera vefsvæðum erfiðara fyrir að rekja ferðir þínar.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
