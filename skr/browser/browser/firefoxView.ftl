@@ -139,6 +139,9 @@ firefoxview-show-more = ودھیک ݙکھاؤ
 firefoxview-show-less = گھٹ ݙکھاؤ
 firefoxview-search-text-box-clear-button =
     .title = صاف کرو
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = تاریخ ڳولو
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
