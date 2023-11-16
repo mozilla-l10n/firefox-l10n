@@ -198,6 +198,7 @@ media-codec-support-codec-name = Název kodeku
 media-codec-support-supported = Podporované
 media-codec-support-unsupported = Nepodporováné
 media-codec-support-error = Informace o podpoře kodeků není k dispozici. Zkuste to znovu po přehrání mediálního souboru.
+media-codec-support-lack-of-extension = Nainstalovat rozšíření
 
 ##
 
