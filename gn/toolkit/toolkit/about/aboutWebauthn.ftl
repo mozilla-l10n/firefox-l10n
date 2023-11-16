@@ -67,6 +67,8 @@ about-webauthn-auth-option-userverificationmgmtpreview = Biométrica ñemboherag
 about-webauthn-auth-option-uvbioenroll = Emoneĩ biométrica ñemboheraguapy
 about-webauthn-auth-option-authnrcfg = Ñemoñeĩha marandu
 about-webauthn-auth-option-uvacfg = Emboaje ñemoneĩha japopyre
+about-webauthn-auth-option-credmgmt = Terachaukaha ñangarekoha
+about-webauthn-auth-option-alwaysuv = Ejerurememe poruhára jehechajey
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Añetéva
 # Shows when boolean value of an option is False. False should not be translated.
@@ -79,7 +81,10 @@ about-webauthn-auth-option-null = Oñepytyvõ’ỹva
 
 about-webauthn-auth-info-certifications = Mboajepyréva
 about-webauthn-auth-info-firmware-version = Firmware peteĩchagua
+about-webauthn-auth-info-min-pin-length = PIN pukukue sa’ivéva
+about-webauthn-auth-info-force-pin-change = PIN moambue mbaretépe
 about-webauthn-auth-info-algorithms = Algoritmo
+about-webauthn-auth-info-transports = Mba’ereraha
 about-webauthn-auth-info-pin-protocols = PIN rapereko
 about-webauthn-auth-info-max-msg-size = Ñe’ẽmondo tuichakue
 # AAGUID should not be translated.
