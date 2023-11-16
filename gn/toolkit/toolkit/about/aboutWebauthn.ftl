@@ -66,6 +66,7 @@ about-webauthn-auth-option-bioenroll = Biométrica ñemboheraguapy
 about-webauthn-auth-option-userverificationmgmtpreview = Biométrica ñemboheraguapy rehegua (FIDO_2_1_PRE)
 about-webauthn-auth-option-uvbioenroll = Emoneĩ biométrica ñemboheraguapy
 about-webauthn-auth-option-authnrcfg = Ñemoñeĩha marandu
+about-webauthn-auth-option-uvacfg = Emboaje ñemoneĩha japopyre
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Añetéva
 # Shows when boolean value of an option is False. False should not be translated.
@@ -77,6 +78,7 @@ about-webauthn-auth-option-null = Oñepytyvõ’ỹva
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-certifications = Mboajepyréva
+about-webauthn-auth-info-firmware-version = Firmware peteĩchagua
 about-webauthn-auth-info-algorithms = Algoritmo
 about-webauthn-auth-info-pin-protocols = PIN rapereko
 about-webauthn-auth-info-max-msg-size = Ñe’ẽmondo tuichakue
