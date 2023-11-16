@@ -201,6 +201,7 @@ cfr-cbh-confirm-button = 拒绝 Cookie 横幅
     .accesskey = R
 cfr-cbh-dismiss-button = 暂时不要
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } 刚刚为您拦截了 Cookie
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
