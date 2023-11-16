@@ -188,6 +188,7 @@ media-codec-support-codec-name = Codec-Name
 media-codec-support-supported = Unterstützt
 media-codec-support-unsupported = Nicht unterstützt
 media-codec-support-error = Support-Informationen zum Codec nicht verfügbar. Versuchen Sie es nach der Wiedergabe einer Mediendatei erneut.
+media-codec-support-lack-of-extension = Erweiterung installieren
 
 ##
 
