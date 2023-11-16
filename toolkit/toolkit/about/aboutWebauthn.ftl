@@ -76,6 +76,7 @@ about-webauthn-auth-option-plat = Dispositivo de plataforma
 about-webauthn-auth-option-pinuvauthtoken = Permisos de comando (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Sin permisos de MakeCredential / GetAssertion con PIN de cliente
+about-webauthn-auth-option-largeblobs = Blobs grandes
 about-webauthn-auth-option-ep = Certificación empresarial
 about-webauthn-auth-option-bioenroll = Inscripción biométrica
 # FIDO_2_1_PRE should not be translated.
