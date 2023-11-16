@@ -10,10 +10,10 @@ reload-tab =
     .accesskey = R
 select-all-tabs =
     .label = Përzgjidhi Krejt Skedat
-    .accesskey = P
+    .accesskey = z
 tab-context-play-tab =
     .label = Luaje lëndën e Skedës
-    .accesskey = L
+    .accesskey = j
 tab-context-play-tabs =
     .label = Luaje lëndën e Skedave
     .accesskey = u
@@ -93,7 +93,7 @@ tab-context-close-n-tabs =
             [1] Mbylle Skedën
            *[other] Mbylli { $tabCount } Skedat
         }
-    .accesskey = M
+    .accesskey = b
 tab-context-move-tabs =
     .label =
         { $tabCount ->
@@ -102,7 +102,6 @@ tab-context-move-tabs =
            *[other] Lëvizni Skeda
         }
     .accesskey = L
-
 tab-context-send-tabs-to-device =
     .label =
         { $tabCount ->
