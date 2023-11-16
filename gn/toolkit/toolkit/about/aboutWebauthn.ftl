@@ -20,11 +20,14 @@ about-webauthn-pin-required-section-title = PIN tekotevẽva
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Emoĩ peteĩ token tekorosãrã.
+about-webauthn-text-not-available = Ndaipóri ko pyendavusúpe.
 
 ## Results label
 
 about-webauthn-results-success = ¡Tandepo’a!
 about-webauthn-results-general-error = ¡Javy!
+about-webauthn-results-pin-too-short-error = Javy: pe PIN eme’ẽva mbykyeterei.
 
 ## Labels
 
