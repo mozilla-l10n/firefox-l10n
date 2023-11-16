@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Passar a iste scheda
 firefoxview-show-more = Monstrar plus
 firefoxview-show-less = Monstrar minus
+firefoxview-search-text-box-clear-button =
+    .title = Clarar
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Cercar in le chronologia
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Resultatos del recerca pro “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } sito
+       *[other] { $count } sitos
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nulle resultatos pro “{ $query }”
 firefoxview-sort-history-by-date-label = Ordinar per data
 firefoxview-sort-history-by-site-label = Ordinar per sito
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Rende { -brand-short-name } tu navigato
 firefoxview-recentlyclosed-empty-header = Claudeva tu un scheda troppo presto?
 firefoxview-recentlyclosed-empty-description = Ci tu trovara le schedas que tu recentemente claudeva, assi que facilemente tu pote reaperir los tote.
 firefoxview-recentlyclosed-empty-description-two = Pro trovar schedas de plus longe retro, vide tu <a data-l10n-name="history-url">chronologia de navigation</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 
