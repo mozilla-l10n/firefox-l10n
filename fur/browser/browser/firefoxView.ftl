@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Passe a cheste schede
 firefoxview-show-more = Mostre di plui
 firefoxview-show-less = Mostre di mancul
+firefoxview-search-text-box-clear-button =
+    .title = Nete
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Cîr te cronologjie
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Risultâts de ricercje di “{ $query }”
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } sît
+       *[other] { $count } sîts
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Nissun risultât par “{ $query }”
 firefoxview-sort-history-by-date-label = Ordene par date
 firefoxview-sort-history-by-site-label = Ordene par sît
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Rint { -brand-short-name } il to naviga
 firefoxview-recentlyclosed-empty-header = Âstu sierât une schede masse adore?
 firefoxview-recentlyclosed-empty-description = Achì tu puedis cjatâ lis schedis che tu âs sierât di resint, in mût di podêlis tornâ a vierzi daurman.
 firefoxview-recentlyclosed-empty-description-two = Par cjatâ schedis sieradis di tant timp, viôt la tô <a data-l10n-name="history-url">cronologjie di navigazion</a>.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = Refude i strissons pai cookies
     .accesskey = R
 cfr-cbh-dismiss-button = No cumò
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } al à a pene blocât i cookies par te
+cookie-banner-blocker-cfr-body = O refudìn in automatic tancj barcons a comparse pai cookies, par rindi plui dificil pai sîts stâti daûr.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
