@@ -42,6 +42,8 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = Қате: Код енгізу талаптары енді қалмады және құрылғыңыз құлыпталды, себебі қате PIN коды тым көп рет енгізілген. Құрылғыны қалпына келтіру қажет.
 about-webauthn-results-pin-too-short-error = Қате: көрсетілген PIN коды тым қысқа.
 about-webauthn-results-pin-too-long-error = Қате: көрсетілген PIN коды тым ұзын.
+about-webauthn-results-pin-auth-blocked-error = Қате: Қатарынан тым көп сәтсіз әрекет болды және PIN аутентификациясы уақытша бұғатталды. Құрылғыңызға қуат циклі қажет (қуат көзінен ажыратып, қайта қосыңыз).
+about-webauthn-results-cancelled-by-user-error = Қате: пайдаланушы операциядан бас тартты.
 
 ## Labels
 
@@ -72,6 +74,14 @@ about-webauthn-auth-option-rk = Резидентті кілт
 about-webauthn-auth-option-plat = Платформалық құрылғы
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Команда рұқсаттары (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Клиенттің PIN кодымен MakeCredential/GetAssertion рұқсаттары жоқ
+about-webauthn-auth-option-largeblobs = Үлкен бөліктер
+about-webauthn-auth-option-ep = Кәсіпорын аттестациясы
+about-webauthn-auth-option-bioenroll = Биометриялық тіркеу
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Биометриялық тіркеу прототипі (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Биометриялық тіркеуге рұқсат
 about-webauthn-auth-option-authnrcfg = Authenticator баптаулары
 about-webauthn-auth-option-uvacfg = Authenticator баптау рұқсаты
 about-webauthn-auth-option-credmgmt = Тіркелу мәліметтерін басқару
