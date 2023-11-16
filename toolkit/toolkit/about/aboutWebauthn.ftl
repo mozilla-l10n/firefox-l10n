@@ -61,11 +61,53 @@ about-webauthn-current-change-pin-button = Ändra PIN-kod
 # List is a verb, as in "Show list of credentials"
 about-webauthn-list-credentials-button = Lista inloggningsuppgifter
 about-webauthn-cancel-button = Avbryt
+about-webauthn-send-pin-button = OK
+about-webauthn-delete-button = Ta bort
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Användarverifiering
+about-webauthn-auth-option-up = Användarnärvaro
+about-webauthn-auth-option-clientpin = Klient-PIN
+about-webauthn-auth-option-rk = Resident nyckel
+about-webauthn-auth-option-plat = Plattformsanordning
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Kommandobehörigheter (pinUvAuthToken)
+# MakeCredential and GetAssertion should not be translated.
+about-webauthn-auth-option-nomcgapermissionswithclientpin = Inga MakeCredential / GetAssertion-behörigheter med klient-PIN
+about-webauthn-auth-option-ep = Företagsintyg
+about-webauthn-auth-option-bioenroll = Biometrisk registrering
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Prototyp för biometrisk registrering (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Biometrisk registreringstillstånd
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = Sant
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = Falskt
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Stöds inte
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-vendor-prototype-config-commands = Konfigurationskommandon för leverantörsprototyp
+about-webauthn-auth-info-remaining-discoverable-credentials = Återstående upptäckbara autentiseringsuppgifter
+about-webauthn-auth-info-certifications = Certifieringar
+about-webauthn-auth-info-uv-modality = Användarverifieringsmodalitet
+about-webauthn-auth-info-preferred-platform-uv-attempts = Föredragna försök att verifiera plattformsanvändare
+about-webauthn-auth-info-min-pin-length = Minsta PIN-kodslängd
+about-webauthn-auth-info-force-pin-change = Framtvinga PIN-ändring
+about-webauthn-auth-info-max-ser-large-blob-array = Max storlek på stor blob-array
+about-webauthn-auth-info-algorithms = Algoritmer
+about-webauthn-auth-info-pin-protocols = PIN-protokoll
+about-webauthn-auth-info-max-msg-size = Max meddelandestorlek
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Tillägg
+about-webauthn-auth-info-versions = Versioner
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = Sant
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = Falskt
+about-webauthn-auth-info-null = Stöds inte
