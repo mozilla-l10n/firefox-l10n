@@ -28,6 +28,7 @@ about-webauthn-text-not-available = Ndaipóri ko pyendavusúpe.
 about-webauthn-results-success = ¡Tandepo’a!
 about-webauthn-results-general-error = ¡Javy!
 about-webauthn-results-pin-too-short-error = Javy: pe PIN eme’ẽva mbykyeterei.
+about-webauthn-results-pin-too-long-error = Javy: pe PIN eme’ẽva ipukueterei.
 about-webauthn-results-cancelled-by-user-error = Javy: Pe tembiapo ojokóma poruhára.
 
 ## Labels
@@ -79,12 +80,16 @@ about-webauthn-auth-option-null = Oñepytyvõ’ỹva
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-remaining-discoverable-credentials = Terachaukaha ojehechakuaáva
 about-webauthn-auth-info-certifications = Mboajepyréva
+about-webauthn-auth-info-uv-modality = Mba’éicha poruhára jehechajey
 about-webauthn-auth-info-firmware-version = Firmware peteĩchagua
 about-webauthn-auth-info-min-pin-length = PIN pukukue sa’ivéva
 about-webauthn-auth-info-force-pin-change = PIN moambue mbaretépe
 about-webauthn-auth-info-algorithms = Algoritmo
 about-webauthn-auth-info-transports = Mba’ereraha
+about-webauthn-auth-info-max-credential-id-length = Terachaukaha ID tuichavekue
+about-webauthn-auth-info-max-credential-count-in-list = Papapy tuichavéva terachaukaha rysýipe
 about-webauthn-auth-info-pin-protocols = PIN rapereko
 about-webauthn-auth-info-max-msg-size = Ñe’ẽmondo tuichakue
 # AAGUID should not be translated.
