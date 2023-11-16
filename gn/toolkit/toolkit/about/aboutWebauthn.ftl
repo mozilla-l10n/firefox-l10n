@@ -28,6 +28,7 @@ about-webauthn-text-not-available = Ndaipóri ko pyendavusúpe.
 about-webauthn-results-success = ¡Tandepo’a!
 about-webauthn-results-general-error = ¡Javy!
 about-webauthn-results-pin-too-short-error = Javy: pe PIN eme’ẽva mbykyeterei.
+about-webauthn-results-cancelled-by-user-error = Javy: Pe tembiapo ojokóma poruhára.
 
 ## Labels
 
@@ -35,11 +36,15 @@ about-webauthn-new-pin-label = PIN pyahu:
 about-webauthn-repeat-pin-label = Ehai PIN pyahu:
 about-webauthn-current-pin-label = PIN ag̃agua:
 about-webauthn-pin-required-label = Emoinge pe PIN:
+about-webauthn-credential-list-subsection-title = Terachaukaha:
+about-webauthn-credential-list-empty = Ndojejuhúi terachaukaha mba’e’okápe.
 
 ## Buttons
 
 about-webauthn-current-set-pin-button = Emboaje PIN
 about-webauthn-current-change-pin-button = Emoambue PIN
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Embohysýi terachaukaha
 about-webauthn-cancel-button = Heja
 about-webauthn-send-pin-button = MONEĨ
 about-webauthn-delete-button = Mboguete
@@ -50,7 +55,17 @@ about-webauthn-delete-button = Mboguete
 about-webauthn-auth-option-uv = Poruhára jehechajey
 about-webauthn-auth-option-up = Poruhára ñeime
 about-webauthn-auth-option-clientpin = Joguaha PIN
+about-webauthn-auth-option-rk = Mba’eñemi pypeguáva
+about-webauthn-auth-option-plat = Pyendavusu mba’e’oka
+# pinUvAuthToken should not be translated.
+about-webauthn-auth-option-pinuvauthtoken = Mbopya’eha ñemoneĩ (pinUvAuthToken)
 about-webauthn-auth-option-largeblobs = Para guasu
+about-webauthn-auth-option-ep = Ñemba’apohaguasu mboajepyre
+about-webauthn-auth-option-bioenroll = Biométrica ñemboheraguapy
+# FIDO_2_1_PRE should not be translated.
+about-webauthn-auth-option-userverificationmgmtpreview = Biométrica ñemboheraguapy rehegua (FIDO_2_1_PRE)
+about-webauthn-auth-option-uvbioenroll = Emoneĩ biométrica ñemboheraguapy
+about-webauthn-auth-option-authnrcfg = Ñemoñeĩha marandu
 # Shows when boolean value for an option is True. True should not be translated.
 about-webauthn-auth-option-true = Añetéva
 # Shows when boolean value of an option is False. False should not be translated.
