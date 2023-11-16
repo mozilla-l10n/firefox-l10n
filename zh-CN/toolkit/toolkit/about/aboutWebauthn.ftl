@@ -12,6 +12,7 @@ about-webauthn-page-title = 关于 WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = 设备信息
+about-webauthn-pin-section-title = PIN 管理
 
 ## Info field texts
 
