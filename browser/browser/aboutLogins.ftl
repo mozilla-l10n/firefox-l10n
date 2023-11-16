@@ -112,9 +112,9 @@ login-item-cancel-button = 取消
 # Variables
 #   $datetime (date) - Event date
 login-item-timeline-point-date = { DATETIME($datetime, day: "numeric", month: "short", year: "numeric") }
-login-item-timeline-action-created = 建立於
-login-item-timeline-action-updated = 最後更新於
-login-item-timeline-action-used = 上次使用於
+login-item-timeline-action-created = 建立
+login-item-timeline-action-updated = 更新
+login-item-timeline-action-used = 上次使用
 
 ## OS Authentication dialog
 
