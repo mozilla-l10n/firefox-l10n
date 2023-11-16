@@ -4,7 +4,6 @@
 
 # Page title
 about-processes-title = Gjestôr procès
-
 # The Actions column
 about-processes-column-action =
     .title = Azions
@@ -15,7 +14,6 @@ about-processes-shutdown-process =
     .title = Discjame lis schedis e cope i procès
 about-processes-shutdown-tab =
     .title = Siere schede
-
 # Profiler icons
 # Variables:
 #    $duration (Number) The time in seconds during which the profiler will be running.
@@ -53,7 +51,6 @@ about-processes-remote-sandbox-broker-process = Remote Sandbox Broker ({ $pid })
 about-processes-fork-server-process = Fork Server ({ $pid })
 about-processes-preallocated-process = Preassegnât ({ $pid })
 about-processes-utility-process = Utilitât ({ $pid })
-
 # Unknown process names
 # Variables:
 #    $pid (String) The process id of this process, assigned by the OS.
@@ -88,7 +85,6 @@ about-processes-active-threads =
         [one] { $active } thread atîf su { $number }: { $list }
        *[other] { $active } threads atîfs su { $number }: { $list }
     }
-
 # Single-line summary of threads (idle process)
 # Variables:
 #    $number (Number) The number of threads in the process. Typically larger
@@ -100,25 +96,21 @@ about-processes-inactive-threads =
         [one] { $number } thread inatîf
        *[other] { $number } threads inatîfs
     }
-
 # Thread details
 # Variables:
 #   $name (String) The name assigned to the thread.
 #   $tid (String) The thread id of this thread, assigned by the OS.
 about-processes-thread-name-and-id = { $name }
     .title = ID thread: { $tid }
-
 # Tab
 # Variables:
 #   $name (String) The name of the tab (typically the title of the page, might be the url while the page is loading).
 about-processes-tab-name = Schede: { $name }
 about-processes-preloaded-tab = Gnove schede pre-cjariade
-
 # Single subframe
 # Variables:
 #   $url (String) The full url of this subframe.
 about-processes-frame-name-one = Sot-frame: { $url }
-
 # Group of subframes
 # Variables:
 #   $number (Number) The number of subframes in this group. Always ≥ 1.
@@ -135,6 +127,7 @@ about-processes-utility-actor-mf-media-engine = Windows Media Foundation Media E
 # "Oracle" refers to an internal Firefox process and should be kept in English
 about-processes-utility-actor-js-oracle = JavaScript Oracle
 about-processes-utility-actor-windows-utils = Utilitâts di Windows
+about-processes-utility-actor-windows-file-dialog = Dialic pai files di Windows
 
 ## Displaying CPU (percentage and total)
 ## Variables:
@@ -148,15 +141,12 @@ about-processes-utility-actor-windows-utils = Utilitâts di Windows
 # Common case.
 about-processes-cpu = { NUMBER($percent, maximumSignificantDigits: 2, style: "percent") }
     .title = Timp CPU totâl: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: data is not available yet.
 about-processes-cpu-user-and-kernel-not-ready = (daûr a misurâ)
-
 # Special case: process or thread is almost idle (using less than 0.1% of a CPU core).
 # This case only occurs on Windows where the precision of the CPU times is low.
 about-processes-cpu-almost-idle = < 0.1%
     .title = Timp CPU totâl: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
-
 # Special case: process or thread is currently idle.
 about-processes-cpu-fully-idle = inatîf
     .title = Timp CPU totâl: { NUMBER($total, maximumFractionDigits: 0) }{ $unit }
@@ -175,7 +165,6 @@ about-processes-cpu-fully-idle = inatîf
 # Common case.
 about-processes-total-memory-size-changed = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
     .title = Evoluzion: { $deltaSign }{ NUMBER($delta, maximumFractionDigits: 0) }{ $deltaUnit }
-
 # Special case: no change.
 about-processes-total-memory-size-no-change = { NUMBER($total, maximumFractionDigits: 0) }{ $totalUnit }
 

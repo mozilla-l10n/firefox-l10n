@@ -185,6 +185,7 @@ media-codec-support-codec-name = Non codec
 media-codec-support-supported = Supuartade
 media-codec-support-unsupported = No supuartade
 media-codec-support-error = Informazions di supuart sui codecs no disponibilis. Torne prove dopo vê riprodot un file multimediâl.
+media-codec-support-lack-of-extension = Instale estension
 
 ##
 
