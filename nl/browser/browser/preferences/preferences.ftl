@@ -12,7 +12,7 @@ do-not-track-option-default-content-blocking-known =
 do-not-track-option-always =
     .label = Altijd
 global-privacy-control-description =
-    .label = Vertel websites dat ze mijn gegevens niet mogen verkopen of delen
+    .label = Websites vertellen mijn gegevens niet te verkopen of te delen
     .accesskey = s
 non-technical-privacy-header = Websiteprivacyvoorkeuren
 # Do not translate.
