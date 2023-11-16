@@ -69,6 +69,7 @@ about-webauthn-auth-option-up = Přitomnosć wužiwarja
 about-webauthn-auth-option-clientpin = PIN klienta
 about-webauthn-auth-option-rk = Rezidentny kluč
 about-webauthn-auth-option-plat = Platformowy grat
+about-webauthn-auth-option-largeblobs = Wulke bloby
 about-webauthn-auth-option-credmgmt = Rjadowanje přizjewjenskich datow
 about-webauthn-auth-option-setminpinlength = Minimalnu dołhosć PIN nastajić
 # Shows when boolean value for an option is True. True should not be translated.
@@ -81,6 +82,7 @@ about-webauthn-auth-option-null = Njepodpěrany
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certifikowanja
 about-webauthn-auth-info-firmware-version = Wersija Firmware
 about-webauthn-auth-info-min-pin-length = Minimalna dołhosć PIN
 about-webauthn-auth-info-force-pin-change = Změnu PIN wunuzować
