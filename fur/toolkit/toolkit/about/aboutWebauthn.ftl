@@ -42,6 +42,7 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = Erôr: no ti restin altris tentatîfs e il to dispositîf al è stât blocât par vie che al è stât inserît masse voltis un PIN sbaliât. Al è necessari azerâ e riconfigurâ il dispositîf.
 about-webauthn-results-pin-too-short-error = Erôr: il PIN indicât al è masse curt.
 about-webauthn-results-pin-too-long-error = Erôr: il PIN indicât al è masse lunc.
+about-webauthn-results-pin-auth-blocked-error = Erôr: a son stâts fats masse tentatîfs sbaliâts in file e la autenticazion cul PIN e je stade disativade in mût temporani. Al covente completâ un cicli di alimentazion (distacâlu e tornâ a colegâlu).
 
 ## Labels
 
