@@ -100,6 +100,8 @@ about-webauthn-auth-option-null = Қолдауы жоқ
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-min-pin-length = PIN кодының минималды ұзындығы
+about-webauthn-auth-info-force-pin-change = PIN кодты мәжбүрлеп өзгерту
 about-webauthn-auth-info-algorithms = Алгоритмдер
 about-webauthn-auth-info-transports = Көліктер
 about-webauthn-auth-info-pin-protocols = PIN хаттамалары
