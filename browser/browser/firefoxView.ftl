@@ -155,7 +155,7 @@ firefoxview-search-text-box-history =
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
-firefoxview-search-results-header = Përfundime kërkimi për “%(query)s”
+firefoxview-search-results-header = Përfundime kërkimi për “{ $query }”
 # Variables:
 #   $count (Number) - The number of visits matching the search query.
 firefoxview-search-results-count =
