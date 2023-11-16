@@ -147,6 +147,14 @@ firefoxview-opentabs-focus-tab =
     .title = 切换到此标签页
 firefoxview-show-more = 展开
 firefoxview-show-less = 折叠
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = “{ $query }”的搜索结果
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = 未找到“{ $query }”的相关结果
 firefoxview-sort-history-by-date-label = 按日期排序
 firefoxview-sort-history-by-site-label = 按网站排序
 # Variables:
