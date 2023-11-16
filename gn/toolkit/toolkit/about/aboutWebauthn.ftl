@@ -11,6 +11,10 @@ about-webauthn-page-title = WebAuthn rehegua
 
 ## Section titles
 
+about-webauthn-info-section-title = Mba’e’oka marandu
+about-webauthn-info-subsection-title = Ñemoñeĩha marandu
+about-webauthn-options-subsection-title = Ñemoñeĩha poravorã
+about-webauthn-pin-section-title = PIN ñangarekohára
 about-webauthn-credential-management-section-title = Eñangareko terachaukaháre
 about-webauthn-pin-required-section-title = PIN tekotevẽva
 
