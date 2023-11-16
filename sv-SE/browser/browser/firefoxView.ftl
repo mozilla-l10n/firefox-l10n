@@ -147,6 +147,26 @@ firefoxview-opentabs-focus-tab =
     .title = Växla till den här fliken
 firefoxview-show-more = Visa mer
 firefoxview-show-less = Visa mindre
+firefoxview-search-text-box-clear-button =
+    .title = Rensa
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = Sök i historik
+# "Search" is a noun (as in "Results of the search for")
+# Variables:
+#   $query (String) - The search query used for searching through browser history.
+firefoxview-search-results-header = Sökresultat för "{ $query }"
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } webbplats
+       *[other] { $count } webbplatser
+    }
+# Message displayed when a search is performed and no matching results were found.
+# Variables:
+#   $query (String) - The search query.
+firefoxview-search-results-empty = Inga resultat för "{ $query }"
 firefoxview-sort-history-by-date-label = Sortera efter datum
 firefoxview-sort-history-by-site-label = Sortera efter webbplats
 # Variables:
@@ -206,9 +226,6 @@ firefoxview-import-history-description = Gör { -brand-short-name } till din web
 firefoxview-recentlyclosed-empty-header = Stängt en flik för tidigt?
 firefoxview-recentlyclosed-empty-description = Här hittar du flikarna du nyligen stängt, så att du snabbt kan öppna någon av dem igen.
 firefoxview-recentlyclosed-empty-description-two = Visa din <a data-l10n-name="history-url">webbhistorik</a> för att hitta flikar från tidigare.
-
-##
-
 
 ## This message is displayed below the name of another connected device when it doesn't have any open tabs.
 

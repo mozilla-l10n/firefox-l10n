@@ -185,6 +185,7 @@ media-codec-support-codec-name = Namn på codec
 media-codec-support-supported = Stöds
 media-codec-support-unsupported = Stöds inte
 media-codec-support-error = Codec-supportinformation är inte tillgänglig. Försök igen efter att ha spelat upp en mediefil.
+media-codec-support-lack-of-extension = Installera tillägg
 
 ##
 
