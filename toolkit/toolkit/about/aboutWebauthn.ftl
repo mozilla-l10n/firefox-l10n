@@ -12,18 +12,36 @@ about-webauthn-page-title = WebAuthn туралы
 ## Section titles
 
 about-webauthn-info-section-title = Құрылғы ақпараты
+about-webauthn-info-subsection-title = Authenticator ақпараты
+about-webauthn-options-subsection-title = Authenticator опциялары
 about-webauthn-pin-section-title = PIN кодтарын басқару
 about-webauthn-credential-management-section-title = Тіркелу деректерін басқару
 about-webauthn-pin-required-section-title = PIN коды керек
 
 ## Info field texts
 
+about-webauthn-text-connect-device = Қауіпсіздік токенін жалғаңыз.
+# If multiple devices are plugged in, they will blink and we are asking the user to select one by touching the device they want.
+about-webauthn-text-select-device = Құрылғыны түрту арқылы қалаған қауіпсіздік токенін таңдаңыз.
+# CTAP2 refers to Client to Authenticator Protocol version 2
+about-webauthn-text-non-ctap2-device = Параметрлерді басқару мүмкін емес, себебі қауіпсіздік токені CTAP2 қолдамайды.
 about-webauthn-text-not-available = Бұл платформада қолжетімді емес.
 
 ## Results label
 
 about-webauthn-results-success = Сәтті!
 about-webauthn-results-general-error = Қате!
+# Variables:
+#  $retriesLeft (Number): number of tries left
+about-webauthn-results-pin-invalid-error =
+    { $retriesLeft ->
+        [0] Қате: PIN коды жарамсыз. Қайталап көріңіз.
+        [one] Қате: PIN коды жарамсыз. Қайталап көріңіз. Сізде бір рет талап қалды.
+       *[other] Қате: PIN коды жарамсыз. Қайталап көріңіз. Сізде { $retriesLeft } рет талап қалды.
+    }
+about-webauthn-results-pin-blocked-error = Қате: Код енгізу талаптары енді қалмады және құрылғыңыз құлыпталды, себебі қате PIN коды тым көп рет енгізілген. Құрылғыны қалпына келтіру қажет.
+about-webauthn-results-pin-too-short-error = Қате: көрсетілген PIN коды тым қысқа.
+about-webauthn-results-pin-too-long-error = Қате: көрсетілген PIN коды тым ұзын.
 
 ## Labels
 
@@ -54,14 +72,34 @@ about-webauthn-auth-option-rk = Резидентті кілт
 about-webauthn-auth-option-plat = Платформалық құрылғы
 # pinUvAuthToken should not be translated.
 about-webauthn-auth-option-pinuvauthtoken = Команда рұқсаттары (pinUvAuthToken)
+about-webauthn-auth-option-authnrcfg = Authenticator баптаулары
+about-webauthn-auth-option-uvacfg = Authenticator баптау рұқсаты
+about-webauthn-auth-option-credmgmt = Тіркелу мәліметтерін басқару
+about-webauthn-auth-option-credentialmgmtpreview = Тіркелу мәліметтерін басқарудың прототипі
+about-webauthn-auth-option-setminpinlength = PIN кодының минималды ұзындығын орнатыңыз
+# MakeCredential should not be translated.
+about-webauthn-auth-option-makecreduvnotrqd = Пайдаланушы растауынсыз MakeCredential
+about-webauthn-auth-option-alwaysuv = Пайдаланушы растауын әрқашан талап ету
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
 # If the value is missing (null), it means a certain feature is not supported.
 about-webauthn-auth-option-null = Қолдауы жоқ
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-algorithms = Алгоритмдер
+about-webauthn-auth-info-transports = Көліктер
+about-webauthn-auth-info-pin-protocols = PIN хаттамалары
+about-webauthn-auth-info-max-msg-size = Хабарламаның максималды өлшемі
 # AAGUID should not be translated.
 about-webauthn-auth-info-aaguid = AAGUID
 about-webauthn-auth-info-extensions = Кеңейтулер
 about-webauthn-auth-info-versions = Нұсқалар
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
 about-webauthn-auth-info-null = Қолдауы жоқ
