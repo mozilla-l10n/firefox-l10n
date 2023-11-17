@@ -204,6 +204,8 @@ cfr-cbh-confirm-button = Çerez bildirimlerini reddet
     .accesskey = r
 cfr-cbh-dismiss-button = Şimdi değil
     .accesskey = m
+cookie-banner-blocker-cfr-header = { -brand-short-name } sizin için çerezleri engelledi
+cookie-banner-blocker-cfr-body = Sitelerin sizi takip etmesini zorlaştırmak için birçok çerez bildirimini otomatik olarak reddediyoruz.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
