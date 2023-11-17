@@ -39,17 +39,62 @@ about-webauthn-results-pin-invalid-error =
 about-webauthn-results-pin-blocked-error = Zmólka: Njejsu žedne dalšne wopyty móžne a waš rěd jo zastajony, dokulaž se wopacny PIN pśecesto zapódał. Rěd musy se slědk stajiś.
 about-webauthn-results-pin-too-short-error = Zmólka: Pódany PIN jo pśekrotki.
 about-webauthn-results-pin-too-long-error = Zmólka: Pódany PIN jo pśedłujki.
+about-webauthn-results-pin-auth-blocked-error = Zmólka:. Dajo pśewjele njeraźonych wopytow jaden pó drugem a PIN-awtentifikacija jo se nachylu blokěrowała. Waš rěd musy se wušaltowaś a zasej zašaltowaś (seśowy tykac musy se wuśěgnuś a zasej nutś tyknuś).
+about-webauthn-results-cancelled-by-user-error = Zmólka: Operacija jo se pśetergnuła wót wužywarja.
 
 ## Labels
 
+about-webauthn-new-pin-label = Nowy PIN:
+about-webauthn-repeat-pin-label = Wóspjetujśo nowy PIN:
+about-webauthn-current-pin-label = Aktualny PIN:
+about-webauthn-pin-required-label = Pšosym zapódajśo swój PIN:
+about-webauthn-credential-list-subsection-title = Pśizjawjeńske daty:
+about-webauthn-credential-list-empty = Žedne pśizjawjeńske daty na rěźe namakane.
 
 ## Buttons
 
+about-webauthn-current-set-pin-button = PIN póstajiś
+about-webauthn-current-change-pin-button = PIN změniś
+# List is a verb, as in "Show list of credentials"
+about-webauthn-list-credentials-button = Lisćina pśizjawjeńskich datow
+about-webauthn-cancel-button = Pśetergnuś
+about-webauthn-send-pin-button = W pórěźe
+about-webauthn-delete-button = Lašowaś
 
 ## Authenticator options fields
 ## Option fields correspond to the CTAP2 option IDs and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#option-id
 
+about-webauthn-auth-option-uv = Pśeglědanje wužywarja
+about-webauthn-auth-option-up = Pśibytnosć wužywarja
+about-webauthn-auth-option-clientpin = PIN klienta
+about-webauthn-auth-option-rk = Rezidentny kluc
+about-webauthn-auth-option-plat = Platformowy rěd
+about-webauthn-auth-option-largeblobs = Wjelike bloby
+about-webauthn-auth-option-setminpinlength = Minimalnu dłujkosć PIN nastajiś
+# Shows when boolean value for an option is True. True should not be translated.
+about-webauthn-auth-option-true = True
+# Shows when boolean value of an option is False. False should not be translated.
+about-webauthn-auth-option-false = False
+# If the value is missing (null), it means a certain feature is not supported.
+about-webauthn-auth-option-null = Njepódprěty
 
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-certifications = Certificěrowanja
+about-webauthn-auth-info-firmware-version = Wersija Firmware
+about-webauthn-auth-info-min-pin-length = Minimalna dłujkosć PIN
+about-webauthn-auth-info-force-pin-change = Změnu PIN wunuzkaś
+about-webauthn-auth-info-algorithms = Algoritmuse
+about-webauthn-auth-info-transports = Transporty
+about-webauthn-auth-info-pin-protocols = Protokole PIN
+about-webauthn-auth-info-max-msg-size = Maksimalna wjelikosć powěsći
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Rozšyrjenja
+about-webauthn-auth-info-versions = Wersije
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Njepódprěty
