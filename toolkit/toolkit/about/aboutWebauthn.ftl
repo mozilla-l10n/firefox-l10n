@@ -81,3 +81,17 @@ about-webauthn-auth-option-null = Desteklenmiyor
 ## Authenticator info fields
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
+about-webauthn-auth-info-force-pin-change = PIN değişikliğini zorla
+about-webauthn-auth-info-max-ser-large-blob-array = Büyük blob dizisinin maksimum boyutu
+about-webauthn-auth-info-algorithms = Algoritmalar
+about-webauthn-auth-info-transports = Aktarımlar
+about-webauthn-auth-info-pin-protocols = PIN protokolleri
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Uzantılar
+about-webauthn-auth-info-versions = Sürümler
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = Desteklenmiyor
