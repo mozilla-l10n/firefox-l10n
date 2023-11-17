@@ -210,6 +210,7 @@ cfr-cbh-confirm-button = Cookiejowe chórgoji reducěrowaś
     .accesskey = C
 cfr-cbh-dismiss-button = Nic něnto
     .accesskey = N
+cookie-banner-blocker-cfr-header = { -brand-short-name } jo rowno blokěrował cookieje za was
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 

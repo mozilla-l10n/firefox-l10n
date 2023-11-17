@@ -185,6 +185,7 @@ media-codec-support-codec-name = Mě Codec
 media-codec-support-supported = Pódprěty
 media-codec-support-unsupported = Njepódprěty
 media-codec-support-error = Informacije wó pódprětych kodekach njestoje k dispoziciji. Wopytajśo hyšći raz, za tym až sćo wótgrał medijowu dataju.
+media-codec-support-lack-of-extension = Rozšyrjenje instalěrowaś
 
 ##
 
