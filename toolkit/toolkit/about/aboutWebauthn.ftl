@@ -12,6 +12,9 @@ about-webauthn-page-title = Über WebAuthn
 ## Section titles
 
 about-webauthn-info-section-title = Geräteinformationen
+about-webauthn-pin-section-title = PIN-Verwaltung
+about-webauthn-credential-management-section-title = Zugangsdaten verwalten
+about-webauthn-pin-required-section-title = PIN erforderlich
 
 ## Info field texts
 
