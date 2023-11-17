@@ -58,6 +58,8 @@ shopping-message-bar-warning-product-not-available-reported =
     .message = Dovremmo avere informazioni su questo prodotto entro 24 ore. Ricontrolla più tardi.
 shopping-message-bar-analysis-in-progress-title2 = Verifica qualità recensioni
 shopping-message-bar-analysis-in-progress-message2 = Questa operazione potrebbe richiedere circa 60 secondi.
+
+shopping-message-bar-analysis-in-progress-with-amount = Verifica qualita recensioni in corso ({ $percentage }%)
 shopping-message-bar-page-not-supported =
     .heading = Impossibile verificare queste recensioni
     .message = Purtroppo non è possibile verificare la qualità delle recensioni per alcuni tipi di prodotto come carte regalo, video in streaming e giochi.
