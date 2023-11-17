@@ -7,7 +7,7 @@
 
 # Page title
 # 'WebAuthn' is a protocol name and should not be translated
-about-webauthn-page-title = О WebAuthn
+about-webauthn-page-title = Об WebAuthn
 
 ## Section titles
 
@@ -15,7 +15,7 @@ about-webauthn-info-section-title = Информация об устройств
 about-webauthn-info-subsection-title = Информация об Authenticator
 about-webauthn-options-subsection-title = Параметры Authenticator
 about-webauthn-pin-section-title = Управление PIN-кодами
-about-webauthn-credential-management-section-title = Управление учетными данными
+about-webauthn-credential-management-section-title = Управление учётными данными
 about-webauthn-pin-required-section-title = Требуется PIN-код
 
 ## Info field texts
@@ -35,10 +35,10 @@ about-webauthn-results-general-error = Ошибка!
 #  $retriesLeft (Number): number of tries left
 about-webauthn-results-pin-invalid-error =
     { $retriesLeft ->
-        [0] Ошибка: неправильный PIN-код. Попробуйте еще раз.
-        [one] Ошибка: неправильный PIN-код. Попробуйте еще раз. У вас осталось { $retriesLeft } попытка.
-        [few] Ошибка: неправильный PIN-код. Попробуйте еще раз. У вас осталось { $retriesLeft } попытки.
-       *[many] Ошибка: неправильный PIN-код. Попробуйте еще раз. У вас осталось { $retriesLeft } попыток.
+        [0] Ошибка: неправильный PIN-код. Попробуйте ещё раз.
+        [one] Ошибка: неправильный PIN-код. Попробуйте ещё раз. У вас осталось { $retriesLeft } попытка.
+        [few] Ошибка: неправильный PIN-код. Попробуйте ещё раз. У вас осталось { $retriesLeft } попытки.
+       *[many] Ошибка: неправильный PIN-код. Попробуйте ещё раз. У вас осталось { $retriesLeft } попыток.
     }
 about-webauthn-results-pin-blocked-error = Ошибка: попыток не осталось, и ваше устройство заблокировано, поскольку слишком много раз был указан неправильный PIN-код. Устройство требует сброса.
 about-webauthn-results-pin-too-short-error = Ошибка: указанный PIN-код слишком короткий.
@@ -53,7 +53,7 @@ about-webauthn-repeat-pin-label = Повторите новый PIN-код:
 about-webauthn-current-pin-label = Текущий PIN-код:
 about-webauthn-pin-required-label = Пожалуйста, введите свой PIN-код:
 about-webauthn-credential-list-subsection-title = Параметры входа:
-about-webauthn-credential-list-empty = На устройстве не найдены учетные данные.
+about-webauthn-credential-list-empty = На устройстве не найдены учётные данные.
 
 ## Buttons
 
@@ -85,8 +85,8 @@ about-webauthn-auth-option-userverificationmgmtpreview = Прототип био
 about-webauthn-auth-option-uvbioenroll = Разрешение на регистрацию биометрических данных
 about-webauthn-auth-option-authnrcfg = Конфигурация Authenticator
 about-webauthn-auth-option-uvacfg = Разрешение конфигурации Authenticator
-about-webauthn-auth-option-credmgmt = Управление учетными данными
-about-webauthn-auth-option-credentialmgmtpreview = Прототип управления учетными данными
+about-webauthn-auth-option-credmgmt = Управление учётными данными
+about-webauthn-auth-option-credentialmgmtpreview = Прототип управления учётными данными
 about-webauthn-auth-option-setminpinlength = Установить минимальную длину PIN-кода
 # MakeCredential should not be translated.
 about-webauthn-auth-option-makecreduvnotrqd = MakeCredential без проверки пользователя
@@ -102,7 +102,7 @@ about-webauthn-auth-option-null = Не поддерживается
 ## Info fields correspond to the CTAP2 authenticatorGetInfo field member name and definitions found in https://fidoalliance.org/specs/fido-v2.1-ps-20210615/fido-client-to-authenticator-protocol-v2.1-ps-20210615.html#authenticatorGetInfo
 
 about-webauthn-auth-info-vendor-prototype-config-commands = Команды конфигурации прототипа поставщика
-about-webauthn-auth-info-remaining-discoverable-credentials = Остальные доступные для обнаружения учетные данные
+about-webauthn-auth-info-remaining-discoverable-credentials = Остальные доступные для обнаружения учётные данные
 about-webauthn-auth-info-certifications = Сертификации
 about-webauthn-auth-info-uv-modality = Способ проверки пользователя
 about-webauthn-auth-info-preferred-platform-uv-attempts = Попытки проверки предпочтительного пользователя платформы
@@ -115,7 +115,7 @@ about-webauthn-auth-info-max-ser-large-blob-array = Максимальный р�
 about-webauthn-auth-info-algorithms = Алгоритмы
 about-webauthn-auth-info-transports = Транспорты
 about-webauthn-auth-info-max-credential-id-length = Максимальная длина ID учётных данных
-about-webauthn-auth-info-max-credential-count-in-list = Максимальное количество учетных данных в списке
+about-webauthn-auth-info-max-credential-count-in-list = Максимальное количество учётных данных в списке
 about-webauthn-auth-info-pin-protocols = PIN-протоколы
 about-webauthn-auth-info-max-msg-size = Максимальный размер сообщения
 # AAGUID should not be translated.
