@@ -40,10 +40,10 @@ about-webauthn-results-pin-invalid-error =
         [few] Ошибка: неправильный PIN-код. Попробуйте ещё раз. У вас осталось { $retriesLeft } попытки.
        *[many] Ошибка: неправильный PIN-код. Попробуйте ещё раз. У вас осталось { $retriesLeft } попыток.
     }
-about-webauthn-results-pin-blocked-error = Ошибка: попыток не осталось, и ваше устройство заблокировано, поскольку слишком много раз был указан неправильный PIN-код. Устройство требует сброса.
+about-webauthn-results-pin-blocked-error = Ошибка: попыток не осталось, и ваше устройство заблокировано, поскольку слишком много раз был указан неправильный PIN-код. Необходимо сбросить устройство.
 about-webauthn-results-pin-too-short-error = Ошибка: указанный PIN-код слишком короткий.
 about-webauthn-results-pin-too-long-error = Ошибка: указанный PIN-код слишком длинный.
-about-webauthn-results-pin-auth-blocked-error = Ошибка: было слишком много неудачных попыток подряд, и аутентификация по PIN-коду временно заблокирована. Ваше устройство необходимо выключить и снова включить (отключить и снова вставить).
+about-webauthn-results-pin-auth-blocked-error = Ошибка: было слишком много неудачных попыток подряд, и аутентификация по PIN-коду временно заблокирована. Ваше устройство необходимо отключить и снова включить (вынуть и снова вставить).
 about-webauthn-results-cancelled-by-user-error = Ошибка: операция отменена пользователем.
 
 ## Labels
@@ -77,7 +77,7 @@ about-webauthn-auth-option-plat = Устройство платформы
 about-webauthn-auth-option-pinuvauthtoken = Разрешения для команд (pinUvAuthToken)
 # MakeCredential and GetAssertion should not be translated.
 about-webauthn-auth-option-nomcgapermissionswithclientpin = Нет разрешений MakeCredential/GetAssertion с PIN-кодом клиента
-about-webauthn-auth-option-largeblobs = Большие капли
+about-webauthn-auth-option-largeblobs = Большие blobs
 about-webauthn-auth-option-ep = Аттестация предприятия
 about-webauthn-auth-option-bioenroll = Биометрическая регистрация
 # FIDO_2_1_PRE should not be translated.
