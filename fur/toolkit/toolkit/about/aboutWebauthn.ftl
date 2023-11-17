@@ -114,3 +114,15 @@ about-webauthn-auth-info-max-ser-large-blob-array = Dimension massime dal array 
 about-webauthn-auth-info-algorithms = Algoritmis
 about-webauthn-auth-info-transports = Traspuarts
 about-webauthn-auth-info-max-credential-id-length = Lungjece massime dal ID de credenziâl
+about-webauthn-auth-info-max-credential-count-in-list = Numar massim di credenziâls in liste
+about-webauthn-auth-info-pin-protocols = Protocoi PIN
+about-webauthn-auth-info-max-msg-size = Dimension massime dal messaç
+# AAGUID should not be translated.
+about-webauthn-auth-info-aaguid = AAGUID
+about-webauthn-auth-info-extensions = Estensions
+about-webauthn-auth-info-versions = Versions
+# Shows when boolean value for an info field is True. True should not be translated.
+about-webauthn-auth-info-true = True
+# Shows when boolean value for an info field is False. False should not be translated.
+about-webauthn-auth-info-false = False
+about-webauthn-auth-info-null = No supuartât
