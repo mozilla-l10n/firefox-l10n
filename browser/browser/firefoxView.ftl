@@ -147,10 +147,20 @@ firefoxview-opentabs-focus-tab =
     .title = 切换到此标签页
 firefoxview-show-more = 展开
 firefoxview-show-less = 折叠
+# Placeholder for the input field to search in history ("search" is a verb).
+firefoxview-search-text-box-history =
+    .placeholder = 搜索历史记录
 # "Search" is a noun (as in "Results of the search for")
 # Variables:
 #   $query (String) - The search query used for searching through browser history.
 firefoxview-search-results-header = “{ $query }”的搜索结果
+# Variables:
+#   $count (Number) - The number of visits matching the search query.
+firefoxview-search-results-count =
+    { $count ->
+        [one] { $count } 个网站
+       *[other] { $count } 个网站
+    }
 # Message displayed when a search is performed and no matching results were found.
 # Variables:
 #   $query (String) - The search query.
