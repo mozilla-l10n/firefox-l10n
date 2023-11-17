@@ -208,7 +208,7 @@ cfr-cbh-confirm-button = Отклонять уведомления о куках
 cfr-cbh-dismiss-button = Не сейчас
     .accesskey = е
 cookie-banner-blocker-cfr-header = { -brand-short-name } только что заблокировал для вас куки
-cookie-banner-blocker-cfr-body = Мы автоматически отказываемся от многих всплывающих окон о куки, чтобы сайтам было сложнее отслеживать вас.
+cookie-banner-blocker-cfr-body = Мы автоматически отказываемся от многих всплывающих окон о куках, чтобы сайтам было сложнее вас отслеживать.
 
 ## These strings are used in the Fox doodle Pin/set default spotlights
 
